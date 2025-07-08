@@ -25,7 +25,7 @@ jobs:
 
       - name: Execute update notebook
         run: |
-          jupyter nbconvert --to notebook --execute data/update.ipynb --output data/update.ipynb
+          jupyter nbconvert --to notebook --execute update.ipynb --output ./
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
@@ -33,4 +33,4 @@ jobs:
           commit-message: 'Automated data update'
           branch: data-refresh
           title: 'Automated data update'
-          body: 'This PR contains results from running `data/update.ipynb`.'
+          body: 'This PR contains results from running `update.ipynb`.'
