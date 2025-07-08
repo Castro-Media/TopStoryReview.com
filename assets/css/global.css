@@ -1,0 +1,94 @@
+h1, h2, h3{
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+h1 a, h2 a, h3 a{
+    color: #c6c6c6;
+}
+h4{
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    color: #c6c6c6;
+}
+.btn{
+    text-align: left;
+}
+.btn-youtube {
+    background-color: #FF0000;
+    color: white;
+}
+.btn-tiktok {
+    background-color: #000000;
+    color: white;
+}
+.btn-bluesky {
+    background-color: #1DA1F2;
+    color: white;
+}
+.btn-twitch {
+    background-color: #6441A4;
+    color: white;
+}
+.btn-gofundme{
+    background-color: #00A9E0;
+    color: white;
+}
+.btn-buymeacoffee{
+    background-color: #FFDD00;
+    color: black;
+}
+.btn-venmo{
+    background-color: #3D95CE;
+    color: white;
+}
+.btn-cashapp{
+    background-color: #00C300;
+    color: white;
+}
+.btn-paypal{
+    background-color: #003087;
+    color: white;
+}
+.btn-substack{
+    background-color: #FF3E00;
+    color: white;
+}
+.btn-crypto{
+    background-color: #3C3C3D;
+    color: green;
+}
+.card{
+    margin-bottom: 1rem;
+}
+.card img{
+    height: 200px;
+    object-fit: cover;
+}
+.socials, .callToAction{
+    margin-top: 1rem;
+}
+.btn{
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.photo{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 400px;
+    max-width: 100%;
+}
+.text-right{
+    text-align: right;
+}
+img{
+    max-width: 100%;
+}
+
+.chart-range-buttons{
+    margin-top: 0.5rem;
+}
+
+.chart-range-buttons button{
+    margin-right: 0.25rem;
+}
+
