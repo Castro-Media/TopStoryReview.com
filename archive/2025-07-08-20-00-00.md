@@ -3,9 +3,9 @@ layout: default
 title: World News
 ---
 
-#### Updated <span class="datetime">2025-07-08 20:54 UTC</span>
-
 <div markdown="0">
+<div class="byline small text-muted">List updated <span class="datetime">2025-07-08 20:58 UTC</span></div>.
+
 <ul>
 <li><a href='https://www.nytimes.com/2025/07/08/business/economy/trump-tariffs-talks.html'>Trump&#8217;s New Trade Threats Set Off Global Scramble to Avoid Tariffs</a><div class='byline small text-muted'>nyt, <span class="datetime">2025-07-08-13-59-19 +0000</span></div></li>
 <li><a href='https://nypost.com/2025/07/07/us-news/white-house-urges-dems-to-tone-down-anti-ice-rhetoric-as-activists-say-pols-should-be-willing-to-get-shot/'>White House urges Dems to &#8216;tone down&#8217; anti-ICE rhetoric &#8212; as activists say lawmakers should be willing to &#8216;get shot&#8217; to obstruct enforcement</a><div class='byline small text-muted'>nypost, <span class="datetime">2025-07-07-22-06-53 +0000</span></div></li>
