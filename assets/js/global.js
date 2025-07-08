@@ -65,6 +65,40 @@ function ArrTabler(arr){
     return table;
 }
 
+function parseDatetimeText(str){
+    if(!str){ return new Date(NaN); }
+    if(/\d{4}-\d{2}-\d{2}-\d{2}-\d{2}-\d{2} \+\d{4}/.test(str)){
+        return parseHeadlineDate(str);
+    }
+    var d = new Date(str);
+    return d;
+}
+
+function timeAgo(date){
+    var diff = Math.floor((Date.now() - date.getTime())/1000);
+    if(diff < 60){ return diff + ' seconds ago'; }
+    diff = Math.floor(diff/60);
+    if(diff < 60){ return diff + ' minutes ago'; }
+    diff = Math.floor(diff/60);
+    if(diff < 24){ return diff + ' hours ago'; }
+    diff = Math.floor(diff/24);
+    return diff + ' days ago';
+}
+
+function updateDateTimes(){
+    $('.datetime').each(function(){
+        var $el = $(this);
+        var orig = $el.text().trim();
+        var dt = parseDatetimeText(orig);
+        if(!isNaN(dt.getTime())){
+            $el.attr('title', orig);
+            $el.text(timeAgo(dt));
+        }
+    });
+}
+
+$(document).ready(updateDateTimes);
+
 function parseCsvLine(line){
     var result = [];
     var current = '';
