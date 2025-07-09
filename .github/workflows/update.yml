@@ -42,3 +42,18 @@ jobs:
           delete-branch: true
           merge: true
           merge-method: squash
+
+      - name: Force merge pull request
+        if: steps.cpr.outputs.pull-request-number != ''
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: Number(process.env.PR_NUMBER),
+              merge_method: 'squash'
+            })
+        env:
+          PR_NUMBER: ${{ steps.cpr.outputs.pull-request-number }}
