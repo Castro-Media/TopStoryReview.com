@@ -6,8 +6,12 @@ on:
     # Run every hour, five minutes after the hour
     - cron: '0 * * * *'
 
+permissions:
+  contents: write
+
 jobs:
   run-update:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -25,12 +29,16 @@ jobs:
 
       - name: Execute update notebook
         run: |
-          jupyter nbconvert --to notebook --execute update.ipynb --output ./
+          jupyter nbconvert --to notebook --execute update.ipynb --output update.ipynb --output-dir ./
 
       - name: Create pull request
+        id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: 'Automated data update'
           branch: data-refresh
           title: 'Automated data update'
           body: 'This PR contains results from running `update.ipynb`.'
+          delete-branch: true
+          merge: true
+          merge-method: squash
