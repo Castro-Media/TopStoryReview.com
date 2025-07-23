@@ -6,8 +6,10 @@ title: World News
 <div markdown="0">
 
 <div id="controls">
-    <!-- a clickable fas gear icon which opens/collapses a div containing controls for the feed -->
-    <a class="fas fa-gear" data-toggle="collapse" href="#controls-collapse" role="button" aria-expanded="false" aria-controls="controls-collapse"></a>
+    <!-- a clickable gear button that opens/collapses a div containing controls for the feed -->
+    <button class="btn btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#controls-collapse" aria-expanded="false" aria-controls="controls-collapse">
+        <i class="fas fa-gear"></i>
+    </button>
     <div class="collapse" id="controls-collapse">
         <!--- radio buttons for Show stories from 1h, 24h, 1d -->
         <div class="btn-group btn-group-toggle" data-toggle="buttons">
@@ -34,7 +36,7 @@ title: World News
     </div>
 </div>
 
-<div class="byline small text-muted">List updated <span class="datetime">2025-07-23 21:14 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2025-07-23 21:52 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
