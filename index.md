@@ -31,9 +31,7 @@ title: World News
 
 <div class="byline small text-muted">List updated <span class="datetime">2025-07-23 21:08 UTC</span>.</div>
 
-<p>Every aspect of this analysis and app are running in github and completely open source.
-Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
-<a href="https://github.com/Castro-Media/TopStoryReview.com">presentation</a> repos.</p>
+<p>Every aspect of this analysis and app are running in github and completely open source. Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and <a href="https://github.com/Castro-Media/TopStoryReview.com">presentation</a> repos.</p>
 <ul>
 <li><a href='https://www.washingtonpost.com/world/2025/07/23/eu-china-tensions-beijing-summit/'>Bound for Beijing, E.U. leaders face two-front trade fight with Trump and Xi</a><div class='byline small text-muted'>world, <span class="datetime">2025-07-23-11-00-00 +0000</span></div></li>
 <li><a href='https://www.washingtonpost.com/world/2025/07/23/paul-watson-anti-whaling-interpol-japan/'>Interpol takes U.S.-Canadian anti-whaling &#8216;eco-pirate&#8217; off most-wanted list</a><div class='byline small text-muted'>world, <span class="datetime">2025-07-23-16-22-50 +0000</span></div></li>
