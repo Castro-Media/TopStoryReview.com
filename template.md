@@ -41,7 +41,45 @@ title: World News
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
 <a href="https://github.com/Castro-Media/TopStoryReview.com">presentation</a> repos.</p>
-<ul>
-{LIST}
-</ul>
+<div id="top1h" class="col-12">
+    <h2>Top 1h</h2>
+    <ul>
+        {TOP1H}
+    </ul>
+</div>
+
+<div id="top24h" class="col-12">
+    <h2>Top 24h</h2>
+    <ul>
+        {TOP24H}
+    </ul>
+</div>
+
+<div id="top7d" class="col-12">
+    <h2>Top 7d</h2>
+    <ul>
+        {TOP7D}
+    </ul>
+</div>
+
+<div id="all1h" class="col-12">
+    <h2>All 1h</h2>
+    <ul>
+        {ALL1H}
+    </ul>
+</div>
+
+<div id="all24h" class="col-12">
+    <h2>All 24h</h2>
+    <ul>
+        {ALL24H}
+    </ul>
+</div>
+
+<div id="all7d" class="col-12">
+    <h2>All 7d</h2>
+    <ul>
+        {ALL7D}
+    </ul>
+</div>
 </div>
