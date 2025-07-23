@@ -14,23 +14,23 @@ title: World News
         <!--- radio buttons for Show stories from 1h, 24h, 1d -->
         <div class="btn-group btn-group-toggle" data-toggle="buttons">
             Show stories from:
+            <label class="btn btn-secondary">
+                <input type="radio" name="period" id="option1" autocomplete="off"> 1h
+            </label>
             <label class="btn btn-secondary active">
-                <input type="radio" name="options" id="option1" autocomplete="off" checked> 1h
+                <input type="radio" name="period" id="option2" autocomplete="off" checked> 24h
             </label>
             <label class="btn btn-secondary">
-                <input type="radio" name="options" id="option2" autocomplete="off"> 24h
-            </label>
-            <label class="btn btn-secondary">
-                <input type="radio" name="options" id="option3" autocomplete="off"> 1d
+                <input type="radio" name="period" id="option3" autocomplete="off"> 1d
             </label>
         </div>
         <!--- radio buttons for Show All, Show Top -->
         <div class="btn-group btn-group-toggle" data-toggle="buttons">
-            <label class="btn btn-secondary active">
-                <input type="radio" name="options" id="option4" autocomplete="off" checked> Show All
-            </label>
             <label class="btn btn-secondary">
-                <input type="radio" name="options" id="option5" autocomplete="off"> Show Top
+                <input type="radio" name="view" id="option4" autocomplete="off"> Show All
+            </label>
+            <label class="btn btn-secondary active">
+                <input type="radio" name="view" id="option5" autocomplete="off" checked> Show Top
             </label>
         </div>
     </div>
