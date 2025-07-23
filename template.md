@@ -6,26 +6,31 @@ title: World News
 <div markdown="0">
 
 <div id="controls">
-    <!-- Radio buttons for selecting the time period: 1h, 24h, 7d -->
-    <div id="controlsPeriod">
-        <label>
-            <input type="radio" name="time-period" value="1h" checked> 1h
-        </label>
-        <label>
-            <input type="radio" name="time-period" value="24h"> 24h
-        </label>
-        <label>
-            <input type="radio" name="time-period" value="7d"> 7d
-        </label>
-    </div>
-    <!-- Radio buttons for selecting all stories or only top stories -->
-    <div id="controlsType">
-        <label>
-            <input type="radio" name="story-type" value="all" checked> Show All Stories
-        </label>
-        <label>
-            <input type="radio" name="story-type" value="top"> Show Only Top Stories
-        </label>
+    <!-- a clickable fas gear icon which opens/collapses a div containing controls for the feed -->
+    <a class="fas fa-gear" data-toggle="collapse" href="#controls-collapse" role="button" aria-expanded="false" aria-controls="controls-collapse"></a>
+    <div class="collapse" id="controls-collapse">
+        <!--- radio buttons for Show stories from 1h, 24h, 1d -->
+        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            Show stories from:
+            <label class="btn btn-secondary active">
+                <input type="radio" name="options" id="option1" autocomplete="off" checked> 1h
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option2" autocomplete="off"> 24h
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option3" autocomplete="off"> 1d
+            </label>
+        </div>
+        <!--- radio buttons for Show All, Show Top -->
+        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            <label class="btn btn-secondary active">
+                <input type="radio" name="options" id="option4" autocomplete="off" checked> Show All
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option5" autocomplete="off"> Show Top
+            </label>
+        </div>
     </div>
 </div>
 
