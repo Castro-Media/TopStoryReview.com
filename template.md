@@ -21,7 +21,7 @@ title: World News
                 <input type="radio" name="period" id="option2" autocomplete="off" checked> 24h
             </label>
             <label class="btn btn-secondary">
-                <input type="radio" name="period" id="option3" autocomplete="off"> 1d
+                <input type="radio" name="period" id="option3" autocomplete="off"> 7d
             </label>
         </div>
         <!--- radio buttons for Show All, Show Top -->
