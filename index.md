@@ -36,7 +36,7 @@ title: World News
     </div>
 </div>
 
-<div class="byline small text-muted">List updated <span class="datetime">2025-07-23 22:28 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2025-07-23 22:41 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
