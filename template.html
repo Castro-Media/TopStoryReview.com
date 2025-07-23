@@ -4,6 +4,34 @@ title: World News
 ---
 
 <div markdown="0">
+<div id="controls">
+    <!-- a clickable fas gear icon which opens/collapses a div containing controls for the feed -->
+    <a class="fas fa-gear" data-toggle="collapse" href="#controls-collapse" role="button" aria-expanded="false" aria-controls="controls-collapse"></a>
+    <div class="collapse" id="controls-collapse">
+        <!--- radio buttons for Show stories from 1h, 24h, 1d -->
+        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            Show stories from:
+            <label class="btn btn-secondary active">
+                <input type="radio" name="options" id="option1" autocomplete="off" checked> 1h
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option2" autocomplete="off"> 24h
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option3" autocomplete="off"> 1d
+            </label>
+        </div>
+        <!--- radio buttons for Show All, Show Top -->
+        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            <label class="btn btn-secondary active">
+                <input type="radio" name="options" id="option4" autocomplete="off" checked> Show All
+            </label>
+            <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option5" autocomplete="off"> Show Top
+            </label>
+        </div>
+    </div>
+</div>
 <div class="byline small text-muted">List updated <span class="datetime">{TIME}</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
