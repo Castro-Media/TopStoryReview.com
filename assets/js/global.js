@@ -411,3 +411,25 @@ function ShowChart($container){
                 });
         });
 }
+
+function updateListVisibility(){
+    var periodLabel = $('input[name="period"]:checked').parent().text().trim();
+    var viewLabel = $('input[name="view"]:checked').parent().text().trim();
+    var viewType = viewLabel.toLowerCase().indexOf('top') !== -1 ? 'top' : 'all';
+    var targetId = '#' + viewType + periodLabel;
+    var selectors = [
+        '#top1h',
+        '#top24h',
+        '#top7d',
+        '#all1h',
+        '#all24h',
+        '#all7d'
+    ];
+    selectors.forEach(function(sel){
+        $(sel).hide();
+    });
+    $(targetId).show();
+}
+
+$(document).ready(updateListVisibility);
+$('input[name="period"], input[name="view"]').on('change', updateListVisibility);
