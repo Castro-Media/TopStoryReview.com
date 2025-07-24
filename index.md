@@ -31,7 +31,7 @@ title: World News
     </div>
 </div>
 
-<div class="byline small text-muted">List updated <span class="datetime">2025-07-24 18:10 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2025-07-24 18:34 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -43,14 +43,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://nypost.com/2025/07/24/world-news/a-cat-named-leonardo-da-pinchy-doesnt-want-your-affection-he-wants-to-steal-your-underwear/">A cat named Leonardo da Pinchy doesn&#8217;t want your affection &#8212; he wants to steal your underwear</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-16-56-14 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2025/07/24/business/trump-federal-reserve-renovations-powell.html">The Fed Renovations Driving Trump&#8217;s Anger at Jerome Powell</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-16-54-32 +0000</span></div>
             </li>
         
     </ul>
@@ -63,70 +63,70 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.wsj.com/economy/trade/trump-trade-deal-15-percent-tariffs-16aeb256">President Trump&#8217;s push to introduce a new standard for global trade is coming into sharper focus as U.S. and EU officials converge on a possible 15% tariff deal</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/23/us-news/ukraine-russia-peace-talks-end-in-less-than-a-hour-with-no-cease-fire/">Third round of Ukraine-Russia peace talks end in less than a hour with no cease-fire after Trump threatens Putin with sanctions</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-23-21-45-42 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-subpoena-justice-dept-epstein-files.html">House Panel Votes to Subpoena Justice Dept. for Epstein Files</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-13-18-09 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/24/world-news/thailand-and-cambodia-exchange-fire-in-new-border-clashes-that-kill-at-least-1-civilian/">Thailand and Cambodia exchange fire in new border clashes, killing at least 11 civilians</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-07-33-58 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-16-28-01 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2025/07/24/us/elections/mypillow-founder-challenge-winnings.html">MyPillow Founder, Mike Lindell, Will Not Pay out &#8216;Challenge&#8217; Winnings, Appeals Court Rules</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-15-56-52 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-15-53-50 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/business/story/2025-07-23/trump-unveils-ai-action-plan">Tech companies want to move fast. Trump's 'AI Action Plan' aims to cut 'red tape'</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-16-46-06 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.wsj.com/politics/elections/north-carolina-senate-michael-whatley-rnc-chair-trump-support-b1909c7f">RNC Chair Michael Whatley is expected to announce a run for Senate in North Carolina in the coming days, with the support of President Trump</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-16-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-23/trump-unveils-ai-action-plan">Tech companies want to move fast. Trump's 'AI Action Plan' aims to cut 'red tape'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-19-45-05 +0000</span></div>
             </li>
         
     </ul>
@@ -139,70 +139,70 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.latimes.com/politics/story/2025-07-18/trump-epstein-files-wall-street-journal">Trump sues Dow Jones and Rupert Murdoch over alleged Trump letter to Epstein</a>
             <div class='byline small text-muted'>
             latimes, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-18-20-05-22 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.wsj.com/economy/trade/trump-trade-deal-15-percent-tariffs-16aeb256">President Trump&#8217;s push to introduce a new standard for global trade is coming into sharper focus as U.S. and EU officials converge on a possible 15% tariff deal</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/23/us-news/ukraine-russia-peace-talks-end-in-less-than-a-hour-with-no-cease-fire/">Third round of Ukraine-Russia peace talks end in less than a hour with no cease-fire after Trump threatens Putin with sanctions</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-23-21-45-42 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2025/07/24/us/elections/mypillow-founder-challenge-winnings.html">MyPillow Founder, Mike Lindell, Will Not Pay out &#8216;Challenge&#8217; Winnings, Appeals Court Rules</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-15-56-52 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.bbc.com/news/articles/c4g814gy2e7o">UK and 27 other nations condemn Israel over 'inhumane killing' of Gaza civilians seeking aid</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-21-21-29-37 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-16-28-01 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.wsj.com/politics/national-security/trump-ukraine-weapons-shipment-priority-be11f155">The Trump administration moved Germany ahead of Switzerland for the next Patriot air-defense systems off the production line to let Berlin send two Patriots it already has to Ukraine</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-18-19-55-00 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.bbc.com/news/articles/c80p8z0y0eko">Twelve killed in Thailand-Cambodia military clashes on disputed border</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-10-58-24 +0000</span></div>
             </li>
         
 
             <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime"></span></div>
+            <span class="datetime">2025-07-24-15-53-50 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2025/07/22/world/asia/bangladesh-plane-crash-school-children.html">Bangladesh Mourns After Deadly Plane Crash During School Lunch Break</a>
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/american-idol-exec-encino-killings-calls-from-inside-the-house">Suspect in 'American Idol' exec killing called 911 from victims' home, but police didn't find bodies for four days</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime"></span></div>
+            latimes, 
+            <span class="datetime">2025-07-22-18-58-41 +0000</span></div>
             </li>
         
     </ul>
