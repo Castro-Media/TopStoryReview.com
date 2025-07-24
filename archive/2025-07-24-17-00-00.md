@@ -31,7 +31,7 @@ title: World News
     </div>
 </div>
 
-<div class="byline small text-muted">List updated <span class="datetime">2025-07-24 17:22 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2025-07-24 17:51 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -40,6 +40,75 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/josh-shapiro-bashes-mamdani-over-failure-to-condemn-blatantly-antisemitic-extremists/">PA Gov. Josh Shapiro bashes NYC mayoral candidate Zohran Mamdani over failure to condemn &#8216;blatantly antisemitic&#8217; extremists</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/trump-walks-back-threat-to-strip-fed-money-from-elon-musk-companies-as-feud-cools/">Trump walks back threat to strip fed money from Elon Musk companies as feud cools</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/israel-minister-gaza-driving-out.html">As Starvation Rises, Israeli Minister Says Israel Is &#8216;Driving Out&#8217; Gazans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/a-cat-named-leonardo-da-pinchy-doesnt-want-your-affection-he-wants-to-steal-your-underwear/">A cat named Leonardo da Pinchy doesn&#8217;t want your affection &#8212; he wants to steal your underwear</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/eliotte-heinz-family-issues-heartbreaking-statement/">Family of Eliotte Heinz, student found dead in Mississippi River, issues heartbreaking statement: &#8216;Her walk home is finished&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y0ydnvjwpo">Benin names Spike Lee and wife ambassadors for African-Americans in the US</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime"></span></div>
+            </li>
+        
     </ul>
 </div>
 
@@ -47,12 +116,150 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 24h</h2>
     <ul>
         
+            <li><a href="https://www.wsj.com/economy/trade/trump-trade-deal-15-percent-tariffs-16aeb256">President Trump&#8217;s push to introduce a new standard for global trade is coming into sharper focus as U.S. and EU officials converge on a possible 15% tariff deal</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/ukraine-russia-peace-talks-end-in-less-than-a-hour-with-no-cease-fire/">Third round of Ukraine-Russia peace talks end in less than a hour with no cease-fire after Trump threatens Putin with sanctions</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-subpoena-justice-dept-epstein-files.html">House Panel Votes to Subpoena Justice Dept. for Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/thailand-and-cambodia-exchange-fire-in-new-border-clashes-that-kill-at-least-1-civilian/">Thailand and Cambodia exchange fire in new border clashes, killing at least 11 civilians</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/elections/mypillow-founder-challenge-winnings.html">MyPillow Founder, Mike Lindell, Will Not Pay out &#8216;Challenge&#8217; Winnings, Appeals Court Rules</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/air-india-crash-victims-uk-modi-visit.html">2 U.K. Families Received &#8216;Wrong Remains&#8217; of Air India Crash Victims, Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/north-carolina-senate-michael-whatley-rnc-chair-trump-support-b1909c7f">RNC Chair Michael Whatley is expected to announce a run for Senate in North Carolina in the coming days, with the support of President Trump</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime"></span></div>
+            </li>
+        
     </ul>
 </div>
 
 <div id="top7d" class="col-12">
     <h2>Top 7d</h2>
     <ul>
+        
+            <li><a href="https://www.latimes.com/politics/story/2025-07-18/trump-epstein-files-wall-street-journal">Trump sues Dow Jones and Rupert Murdoch over alleged Trump letter to Epstein</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/trump-trade-deal-15-percent-tariffs-16aeb256">President Trump&#8217;s push to introduce a new standard for global trade is coming into sharper focus as U.S. and EU officials converge on a possible 15% tariff deal</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/ukraine-russia-peace-talks-end-in-less-than-a-hour-with-no-cease-fire/">Third round of Ukraine-Russia peace talks end in less than a hour with no cease-fire after Trump threatens Putin with sanctions</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/elections/mypillow-founder-challenge-winnings.html">MyPillow Founder, Mike Lindell, Will Not Pay out &#8216;Challenge&#8217; Winnings, Appeals Court Rules</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g814gy2e7o">UK and 27 other nations condemn Israel over 'inhumane killing' of Gaza civilians seeking aid</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/trump-ukraine-weapons-shipment-priority-be11f155">The Trump administration moved Germany ahead of Switzerland for the next Patriot air-defense systems off the production line to let Berlin send two Patriots it already has to Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8z0y0eko">Twelve killed in Thailand-Cambodia military clashes on disputed border</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime"></span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/asia/bangladesh-plane-crash-school-children.html">Bangladesh Mourns After Deadly Plane Crash During School Lunch Break</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime"></span></div>
+            </li>
         
     </ul>
 </div>
