@@ -64,7 +64,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     </ul>
 </div>
 
-<div id="all24h" class="col-12">
+<div id="c" class="col-12">
     <h2>All 24h</h2>
     <ul>
         
