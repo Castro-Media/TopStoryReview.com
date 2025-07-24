@@ -4,19 +4,11106 @@ title: World News
 ---
 
 <div markdown="0">
-<div class="byline small text-muted">List updated <span class="datetime">2025-07-24 17:08 UTC</span>.</div>
 
-<p>Every aspect of this analysis and app are running in github and completely open source. Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and <a href="https://github.com/Castro-Media/TopStoryReview.com">presentation</a> repos.</p>
-<ul>
-<li><a href='https://www.wsj.com/economy/trade/trump-trade-deal-15-percent-tariffs-16aeb256'>President Trump&#8217;s push to introduce a new standard for global trade is coming into sharper focus as U.S. and EU officials converge on a possible 15% tariff deal</a><div class='byline small text-muted'>wsj, <span class="datetime">2025-07-24-01-00-00 +0000</span></div></li>
-<li><a href='https://nypost.com/2025/07/23/us-news/ukraine-russia-peace-talks-end-in-less-than-a-hour-with-no-cease-fire/'>Third round of Ukraine-Russia peace talks end in less than a hour with no cease-fire after Trump threatens Putin with sanctions</a><div class='byline small text-muted'>nypost, <span class="datetime">2025-07-23-21-45-42 +0000</span></div></li>
-<li><a href='https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/'>Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a><div class='byline small text-muted'>nypost, <span class="datetime">2025-07-24-16-28-01 +0000</span></div></li>
-<li><a href='https://www.nytimes.com/2025/07/24/us/elections/mypillow-founder-challenge-winnings.html'>MyPillow Founder, Mike Lindell, Will Not Pay out &#8216;Challenge&#8217; Winnings, Appeals Court Rules</a><div class='byline small text-muted'>nyt, <span class="datetime">2025-07-24-15-56-52 +0000</span></div></li>
-<li><a href='https://nypost.com/2025/07/24/world-news/thailand-and-cambodia-exchange-fire-in-new-border-clashes-that-kill-at-least-1-civilian/'>Thailand and Cambodia exchange fire in new border clashes, killing at least 11 civilians</a><div class='byline small text-muted'>nypost, <span class="datetime">2025-07-24-07-33-58 +0000</span></div></li>
-<li><a href='https://www.nytimes.com/2025/07/23/us/politics/house-subpoena-justice-dept-epstein-files.html'>House Panel Votes to Subpoena Justice Dept. for Epstein Files</a><div class='byline small text-muted'>nyt, <span class="datetime">2025-07-24-13-18-09 +0000</span></div></li>
-<li><a href='https://nypost.com/2025/07/23/us-news/kamala-harris-ex-lover-willie-brown-warns-it-will-be-difficult-for-her-to-win-california-governors-race-may-not-be-where-she-should-be-going/'>Kamala Harris&#8217; ex-lover Willie Brown warns her of &#8216;difficult&#8217; road to win California governor&#8217;s race after resounding 2024 loss</a><div class='byline small text-muted'>nypost, <span class="datetime">2025-07-23-23-44-11 +0000</span></div></li>
-<li><a href='https://nypost.com/2025/07/24/business/tesla-stock-plunges-as-elon-musk-admits-a-few-rough-quarters-could-be-ahead/'>Tesla stock plunges as Elon Musk warns company may face &#8216;a few rough quarters&#8217; ahead</a><div class='byline small text-muted'>nypost, <span class="datetime">2025-07-24-14-19-43 +0000</span></div></li>
-<li><a href='https://nypost.com/2025/07/24/us-news/american-airlines-flight-attendant-who-admitted-to-secretly-filming-young-girls-in-plane-bathroom-learns-fate/'>American Airlines flight attendant who admitted to secretly filming young girls in plane will spend years behind bars</a><div class='byline small text-muted'>nypost, <span class="datetime">2025-07-24-12-13-24 +0000</span></div></li>
-<li><a href='https://www.nytimes.com/2025/07/23/world/asia/air-india-crash-victims-uk-modi-visit.html'>2 U.K. Families Received &#8216;Wrong Remains&#8217; of Air India Crash Victims, Lawyer Says</a><div class='byline small text-muted'>nyt, <span class="datetime">2025-07-23-20-43-10 +0000</span></div></li>
-</ul>
+<div id="controls">
+    <!-- a clickable gear button that opens/collapses a div containing controls for the feed -->
+    <button class="btn btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#controls-collapse" aria-expanded="false" aria-controls="controls-collapse">
+        <i class="fas fa-gear"></i>
+    </button>
+    <div class="collapse" id="controls-collapse">
+        <!--- radio buttons for Show stories from 1h, 24h, 1d -->
+        <div class="btn-group" role="group">
+            Show stories from:
+            <input class="btn-check" type="radio" name="period" id="period-1h" autocomplete="off">
+            <label class="btn btn-secondary" for="period-1h">1h</label>
+            <input class="btn-check" type="radio" name="period" id="period-24h" autocomplete="off" checked>
+            <label class="btn btn-secondary" for="period-24h">24h</label>
+            <input class="btn-check" type="radio" name="period" id="period-7d" autocomplete="off">
+            <label class="btn btn-secondary" for="period-7d">7d</label>
+        </div>
+        <!--- radio buttons for Show All, Show Top -->
+        <div class="btn-group" role="group">
+            <input class="btn-check" type="radio" name="view" id="view-all" autocomplete="off">
+            <label class="btn btn-secondary" for="view-all">Show All</label>
+            <input class="btn-check" type="radio" name="view" id="view-top" autocomplete="off" checked>
+            <label class="btn btn-secondary" for="view-top">Show Top</label>
+        </div>
+    </div>
+</div>
+
+<div class="byline small text-muted">List updated <span class="datetime">2025-07-24 17:22 UTC</span>.</div>
+
+<p>Every aspect of this analysis and app are running in github and completely open source.
+Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
+<a href="https://github.com/Castro-Media/TopStoryReview.com">presentation</a> repos.</p>
+<div id="top1h" class="col-12">
+    <h2>Top 1h</h2>
+    <ul>
+        
+    </ul>
+</div>
+
+<div id="top24h" class="col-12">
+    <h2>Top 24h</h2>
+    <ul>
+        
+    </ul>
+</div>
+
+<div id="top7d" class="col-12">
+    <h2>Top 7d</h2>
+    <ul>
+        
+    </ul>
+</div>
+
+<div id="all1h" class="col-12">
+    <h2>All 1h</h2>
+    <ul>
+        
+            <li><a href="https://nypost.com/2025/07/24/world-news/a-cat-named-leonardo-da-pinchy-doesnt-want-your-affection-he-wants-to-steal-your-underwear/">A cat named Leonardo da Pinchy doesn&#8217;t want your affection &#8212; he wants to steal your underwear</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-56-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-federal-reserve-renovations-powell.html">The Fed Renovations Driving Trump&#8217;s Anger at Jerome Powell</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-54-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cnvmvqrnq7go">Thousands unable to make calls as EE and BT networks down</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-50-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/josh-shapiro-zohran-mamdani.html">Josh Shapiro Says Zohran Mamdani Fails to Condemn &#8216;Blatantly Antisemitic&#8217; Rhetoric</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-48-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/josh-shapiro-zohran-mamdani.html">Josh Shapiro Says Zohran Mamdani Fails to Condemn &#8216;Blatantly Antisemitic&#8217; Rhetoric</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-48-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/derrick-thompson-sentenced-to-59-years-in-prison-admits-to-killing-five-young-somali-women/601438131">Derrick Thompson sentenced to 59 years in prison, admits to killing five young Somali women in crash</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-45-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/sports/hulk-hogan-dead.html">Hulk Hogan, Superstar of Pro Wrestling, Dies at 71</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html">What to Know About the Thailand-Cambodia Clash</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html">What to Know About the Thailand-Cambodia Clash</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/obituaries/2025/07/24/hulk-hogan-wrestler-dead/">Wrestling superstar Hulk Hogan dies at 71, WWE says</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-40-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/trump-walks-back-threat-to-strip-fed-money-from-elon-musk-companies-as-feud-cools/">Trump walks back threat to strip fed money from Elon Musk companies as feud cools</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/trump-walks-back-threat-to-strip-fed-money-from-elon-musk-companies-as-feud-cools/">Trump walks back threat to strip fed money from Elon Musk companies as feud cools</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2025/07/24/trump-powell-federal-reserve-visit/">Trump to visit the Federal Reserve in escalation of pressure campaign</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-39-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjd2de8zz5go">Justice department official to meet Epstein accomplice Maxwell</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-38-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjd2de8zz5go">Justice department official to meet Epstein accomplice Maxwell</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-38-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/eliotte-heinz-family-issues-heartbreaking-statement/">Family of Eliotte Heinz, student found dead in Mississippi River, issues heartbreaking statement: &#8216;Her walk home is finished&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-34-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly8ynegwn4o">Government to pay more for wind generated energy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly8ynegwn4o">Government to pay more for wind generated energy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/union-pacific-norfolk-southern-merger.html">Union Pacific in Talks to Acquire Norfolk Southern</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-32-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/josh-shapiro-bashes-mamdani-over-failure-to-condemn-blatantly-antisemitic-extremists/">PA Gov. Josh Shapiro bashes NYC mayoral candidate Zohran Mamdani over failure to condemn &#8216;blatantly antisemitic&#8217; extremists</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-31-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/trump-administration-greenlights-chevron-to-resume-pumping-oil-in-venezuela-0353262b">Trump Administration Greenlights Chevron to Resume Pumping Oil in Venezuela</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-31-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/gaza-starvation.html">Gazans Are Dying of Starvation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/gaza-starvation.html">Gazans Are Dying of Starvation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/arts/design/amy-sherald-smithsonian-censorship.html">Amy Sherald Cancels Her Smithsonian Show, Citing Censorship</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/hulk-hogan-icon-in-professional-wrestling-dies-at-age-71/601442929">Hulk Hogan, icon in professional wrestling, dies at age 71</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-30-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash">Live Updates: Thailand Says 12 Killed in Border Clashes With Cambodia</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/many-thai-civilians-fled-after-gunfire-and-explosions-rocked-the-region">Many Thai civilians fled after gunfire and explosions rocked the region.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/many-thai-civilians-fled-after-gunfire-and-explosions-rocked-the-region">Many Thai civilians fled after gunfire and explosions rocked the region.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-28-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/joe-rogan-gushes-over-hunter-biden-after-crack-cocaine-interview/">Joe Rogan gushes Hunter Biden &#8216;smarter than his dad&#8217; after &#8216;crack cocaine&#8217; interview: &#8216;He could be president&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-26-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cq8z8kdd8zvo">Shoplifting hits record high in England and Wales</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-24-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/texas-ag-under-scrutiny-for-tax-breaks-mortgage-fraud/">Texas AG under scrutiny for tax breaks, mortgage fraud</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/texas-ag-under-scrutiny-for-tax-breaks-mortgage-fraud/">Texas AG under scrutiny for tax breaks, mortgage fraud</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/national-security/2025/07/24/american-killed-west-bank-van-hollen/">Democrats demand U.S. investigation of American&#8217;s death in West Bank</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-24-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/gop-senators-demand-special-counsel-probe-obama-russiagate-intrigue/">GOP senators demand special counsel probe Obama Russiagate intrigue</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-23-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/gop-senators-demand-special-counsel-probe-obama-russiagate-intrigue/">GOP senators demand special counsel probe Obama Russiagate intrigue</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-23-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/israel-minister-gaza-driving-out.html">As Starvation Rises, Israeli Minister Says Israel Is &#8216;Driving Out&#8217; Gazans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/israel-minister-gaza-driving-out.html">As Starvation Rises, Israeli Minister Says Israel Is &#8216;Driving Out&#8217; Gazans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/cyprus-wildfires-heat.html">Sprawling Wildfires Kill 2 and Force Evacuations in Cyprus Amid Stifling Heat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/cyprus-wildfires-heat.html">Sprawling Wildfires Kill 2 and Force Evacuations in Cyprus Amid Stifling Heat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/north-carolina-senate-michael-whatley-rnc-chair-trump-support-b1909c7f">RNC Chair Michael Whatley is expected to announce a run for Senate in North Carolina in the coming days, with the support of President Trump</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cvgn2rwk2lyo">He went to get aid and didn't come back - stories of people killed in Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y0ydnvjwpo">Benin names Spike Lee and wife ambassadors for African-Americans in the US</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y0ydnvjwpo">Benin names Spike Lee and wife ambassadors for African-Americans in the US</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/montebello-hatchet-attack-2-dead">Man, boy found dead at Montebello apartment complex after alleged hatchet attack</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-16-12-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/bacteria-shuts-down-beaches-across-hennepin-county/601442337">Unsafe levels of bacteria shut down beaches across Hennepin County</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-10-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cvg9grj2xj2o">Inside the gold rush village hit by mine collapse tragedy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-07-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/us/trump-federal-reserve-powell/heres-what-to-know">Here&#8217;s what to know.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-04-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/us/trump-federal-reserve-powell/heres-what-to-know">Here&#8217;s what to know.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-04-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c20n0e8vqq8o">Four things we learned about Idaho murderer Bryan Kohberger from unsealed documents</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-03-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/canada-retail-sales-look-to-rebound-after-1-1-drop-in-may-0ea99ecc">Canada Retail Sales Look to Rebound After 1.1% Drop in May</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/health/unitedhealth-medicare-justice-department.html">UnitedHealth Will Cooperate With Federal Probe of Its Medicare Billing Practices</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-01-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/cbs-news-names-longtime-insider-tanya-simon-to-lead-60-minutes/">CBS News names longtime insider Tanya Simon to lead &#8216;60 Minutes&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-00-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/nyc-comptroller-brad-lander-shockingly-suggests-mayor-eric-adams-is-in-the-epstein-files-drawing-furious-response-from-city-hall-defamatory-filth/">NYC Comptroller Brad Lander shockingly suggests Mayor Adams is in &#8216;Epstein files,&#8217; drawing furious response from City Hall</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-59-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-24-2025?mod=rss_markets_main">Stock Market Today: Dow Falls; Trade Talks, Earnings in Spotlight</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy5w5nyd5xzo">Watchdog blames 'disproportionate force' by Kenya police for protest deaths</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-58-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/unitedhealth-group-cooperating-with-federal-investigation-of-its-medicare-business/601442302">In a reversal, UnitedHealth acknowledges cooperating with federal investigation in Medicare probe</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-15-57-05 +0000</span></div>
+            </li>
+        
+    </ul>
+</div>
+
+<div id="all24h" class="col-12">
+    <h2>All 24h</h2>
+    <ul>
+        
+            <li><a href="https://nypost.com/2025/07/24/world-news/a-cat-named-leonardo-da-pinchy-doesnt-want-your-affection-he-wants-to-steal-your-underwear/">A cat named Leonardo da Pinchy doesn&#8217;t want your affection &#8212; he wants to steal your underwear</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-56-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-federal-reserve-renovations-powell.html">The Fed Renovations Driving Trump&#8217;s Anger at Jerome Powell</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-54-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cnvmvqrnq7go">Thousands unable to make calls as EE and BT networks down</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-50-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/josh-shapiro-zohran-mamdani.html">Josh Shapiro Says Zohran Mamdani Fails to Condemn &#8216;Blatantly Antisemitic&#8217; Rhetoric</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-48-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/josh-shapiro-zohran-mamdani.html">Josh Shapiro Says Zohran Mamdani Fails to Condemn &#8216;Blatantly Antisemitic&#8217; Rhetoric</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-48-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/derrick-thompson-sentenced-to-59-years-in-prison-admits-to-killing-five-young-somali-women/601438131">Derrick Thompson sentenced to 59 years in prison, admits to killing five young Somali women in crash</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-45-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/sports/hulk-hogan-dead.html">Hulk Hogan, Superstar of Pro Wrestling, Dies at 71</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html">What to Know About the Thailand-Cambodia Clash</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html">What to Know About the Thailand-Cambodia Clash</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/obituaries/2025/07/24/hulk-hogan-wrestler-dead/">Wrestling superstar Hulk Hogan dies at 71, WWE says</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-40-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/trump-walks-back-threat-to-strip-fed-money-from-elon-musk-companies-as-feud-cools/">Trump walks back threat to strip fed money from Elon Musk companies as feud cools</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/trump-walks-back-threat-to-strip-fed-money-from-elon-musk-companies-as-feud-cools/">Trump walks back threat to strip fed money from Elon Musk companies as feud cools</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2025/07/24/trump-powell-federal-reserve-visit/">Trump to visit the Federal Reserve in escalation of pressure campaign</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-39-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjd2de8zz5go">Justice department official to meet Epstein accomplice Maxwell</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-38-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjd2de8zz5go">Justice department official to meet Epstein accomplice Maxwell</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-38-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/eliotte-heinz-family-issues-heartbreaking-statement/">Family of Eliotte Heinz, student found dead in Mississippi River, issues heartbreaking statement: &#8216;Her walk home is finished&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-34-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly8ynegwn4o">Government to pay more for wind generated energy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly8ynegwn4o">Government to pay more for wind generated energy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/union-pacific-norfolk-southern-merger.html">Union Pacific in Talks to Acquire Norfolk Southern</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-32-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/josh-shapiro-bashes-mamdani-over-failure-to-condemn-blatantly-antisemitic-extremists/">PA Gov. Josh Shapiro bashes NYC mayoral candidate Zohran Mamdani over failure to condemn &#8216;blatantly antisemitic&#8217; extremists</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-31-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/trump-administration-greenlights-chevron-to-resume-pumping-oil-in-venezuela-0353262b">Trump Administration Greenlights Chevron to Resume Pumping Oil in Venezuela</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-31-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/gaza-starvation.html">Gazans Are Dying of Starvation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/gaza-starvation.html">Gazans Are Dying of Starvation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/arts/design/amy-sherald-smithsonian-censorship.html">Amy Sherald Cancels Her Smithsonian Show, Citing Censorship</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/hulk-hogan-icon-in-professional-wrestling-dies-at-age-71/601442929">Hulk Hogan, icon in professional wrestling, dies at age 71</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-30-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash">Live Updates: Thailand Says 12 Killed in Border Clashes With Cambodia</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/many-thai-civilians-fled-after-gunfire-and-explosions-rocked-the-region">Many Thai civilians fled after gunfire and explosions rocked the region.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/many-thai-civilians-fled-after-gunfire-and-explosions-rocked-the-region">Many Thai civilians fled after gunfire and explosions rocked the region.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-28-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/joe-rogan-gushes-over-hunter-biden-after-crack-cocaine-interview/">Joe Rogan gushes Hunter Biden &#8216;smarter than his dad&#8217; after &#8216;crack cocaine&#8217; interview: &#8216;He could be president&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-26-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cq8z8kdd8zvo">Shoplifting hits record high in England and Wales</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-24-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/texas-ag-under-scrutiny-for-tax-breaks-mortgage-fraud/">Texas AG under scrutiny for tax breaks, mortgage fraud</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/texas-ag-under-scrutiny-for-tax-breaks-mortgage-fraud/">Texas AG under scrutiny for tax breaks, mortgage fraud</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/national-security/2025/07/24/american-killed-west-bank-van-hollen/">Democrats demand U.S. investigation of American&#8217;s death in West Bank</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-24-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/gop-senators-demand-special-counsel-probe-obama-russiagate-intrigue/">GOP senators demand special counsel probe Obama Russiagate intrigue</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-23-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/gop-senators-demand-special-counsel-probe-obama-russiagate-intrigue/">GOP senators demand special counsel probe Obama Russiagate intrigue</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-23-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/israel-minister-gaza-driving-out.html">As Starvation Rises, Israeli Minister Says Israel Is &#8216;Driving Out&#8217; Gazans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/israel-minister-gaza-driving-out.html">As Starvation Rises, Israeli Minister Says Israel Is &#8216;Driving Out&#8217; Gazans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/cyprus-wildfires-heat.html">Sprawling Wildfires Kill 2 and Force Evacuations in Cyprus Amid Stifling Heat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/cyprus-wildfires-heat.html">Sprawling Wildfires Kill 2 and Force Evacuations in Cyprus Amid Stifling Heat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/north-carolina-senate-michael-whatley-rnc-chair-trump-support-b1909c7f">RNC Chair Michael Whatley is expected to announce a run for Senate in North Carolina in the coming days, with the support of President Trump</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cvgn2rwk2lyo">He went to get aid and didn't come back - stories of people killed in Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y0ydnvjwpo">Benin names Spike Lee and wife ambassadors for African-Americans in the US</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y0ydnvjwpo">Benin names Spike Lee and wife ambassadors for African-Americans in the US</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/montebello-hatchet-attack-2-dead">Man, boy found dead at Montebello apartment complex after alleged hatchet attack</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-16-12-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/bacteria-shuts-down-beaches-across-hennepin-county/601442337">Unsafe levels of bacteria shut down beaches across Hennepin County</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-10-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cvg9grj2xj2o">Inside the gold rush village hit by mine collapse tragedy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-07-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/us/trump-federal-reserve-powell/heres-what-to-know">Here&#8217;s what to know.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-04-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/us/trump-federal-reserve-powell/heres-what-to-know">Here&#8217;s what to know.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-04-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c20n0e8vqq8o">Four things we learned about Idaho murderer Bryan Kohberger from unsealed documents</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-03-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/canada-retail-sales-look-to-rebound-after-1-1-drop-in-may-0ea99ecc">Canada Retail Sales Look to Rebound After 1.1% Drop in May</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/health/unitedhealth-medicare-justice-department.html">UnitedHealth Will Cooperate With Federal Probe of Its Medicare Billing Practices</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-01-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/cbs-news-names-longtime-insider-tanya-simon-to-lead-60-minutes/">CBS News names longtime insider Tanya Simon to lead &#8216;60 Minutes&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-00-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/nyc-comptroller-brad-lander-shockingly-suggests-mayor-eric-adams-is-in-the-epstein-files-drawing-furious-response-from-city-hall-defamatory-filth/">NYC Comptroller Brad Lander shockingly suggests Mayor Adams is in &#8216;Epstein files,&#8217; drawing furious response from City Hall</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-59-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-24-2025?mod=rss_markets_main">Stock Market Today: Dow Falls; Trade Talks, Earnings in Spotlight</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy5w5nyd5xzo">Watchdog blames 'disproportionate force' by Kenya police for protest deaths</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-58-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/unitedhealth-group-cooperating-with-federal-investigation-of-its-medicare-business/601442302">In a reversal, UnitedHealth acknowledges cooperating with federal investigation in Medicare probe</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-15-57-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/elections/mypillow-founder-challenge-winnings.html">MyPillow Founder, Mike Lindell, Will Not Pay out &#8216;Challenge&#8217; Winnings, Appeals Court Rules</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-56-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-53-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-53-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/mcdonalds-to-launch-dirty-sodas-flavored-cold-brews-to-win-over-gen-z/">McDonald&#8217;s launching &#8216;dirty sodas,&#8217; flavored cold brews in push to win over Gen Z</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-52-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-files-named.html">Bondi Told Trump His Name Appeared in Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-48-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-files-named.html">Bondi Told Trump His Name Appeared in Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-48-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/thailand-cambodia-border-conflict-explained/">Why Thailand and Cambodia are fighting again over the long-disputed border</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-15-47-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/ukraine-protests-corruption-zelensky-military-spending.html">The Anticorruption Watchdogs at the Center of Protests Against Zelensky</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-46-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/ukraine-protests-corruption-zelensky-military-spending.html">The Anticorruption Watchdogs at the Center of Protests Against Zelensky</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-46-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/luxury-titan-bernard-arnault-is-pushing-world-leaders-to-avert-a-trade-war-eb3fb76c?mod=pls_whats_news_us_business_f">Luxury Titan Bernard Arnault Is Pushing World Leaders to Avert a Trade War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-45-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdeze706jw8o">Corbyn launches new party to 'take on rich and powerful'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-36-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/trump-to-tour-federal-reserve-ramping-up-pressure-campaign-on-powell-58df9734">President Trump will visit the Federal Reserve on Thursday, joining a previously arranged tour of the construction site where the central bank is renovating its headquarters</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/murders-crime-us-covid-19.html">After Surge During Pandemic, Homicides Fall Significantly</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-35-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cqjq51vvello">Tesla pledges to make cheaper cars as problems mount</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-35-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cqjq51vvello">Tesla pledges to make cheaper cars as problems mount</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-35-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/most-us-adults-still-support-legal-abortion/">Most US adults still support legal abortion 3 years after Roe was overturned, poll finds</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-33-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/russia-plane-crash-eastern-amur-angara/">Plane crashes in Russia&#8217;s far east, killing all 48 on board</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-15-28-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/ghislaine-maxwell-epstein-interview.html">Justice Dept. Expected to Interview Epstein Associate Maxwell in Florida on Thursday</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/ghislaine-maxwell-epstein-interview.html">Justice Dept. Expected to Interview Epstein Associate Maxwell in Florida on Thursday</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/south-korea-trump-tariffs.html">South Korea Jockeys for a Deal With Trump at Least as Good as Japan&#8217;s</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/south-korea-trump-tariffs.html">South Korea Jockeys for a Deal With Trump at Least as Good as Japan&#8217;s</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/south-korea-trump-tariffs.html">South Korea Jockeys for a Deal With Trump at Least as Good as Japan&#8217;s</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c307ggj492vo">Starmer and Modi sign &#163;6bn India-UK trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-20-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c307ggj492vo">Starmer and Modi sign &#163;6bn India-UK trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-20-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c307ggj492vo">Starmer and Modi sign &#163;6bn India-UK trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-20-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/education/2025/07/18/antisemitism-task-force-dei-universities-trump/">Inside the powerful task force spearheading Trump&#8217;s assault on colleges, DEI</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-15-16-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1ljlvg1e7eo">Trump to visit Fed as pressure on Powell mounts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-16-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1ljlvg1e7eo">Trump to visit Fed as pressure on Powell mounts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-16-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-trump-birthday-book.html">Epstein&#8217;s Estate Includes Book Said to Have Note From Trump, a Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-14-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-trump-birthday-book.html">Epstein&#8217;s Estate Includes Book Said to Have Note From Trump, a Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-14-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c24v47l66z4o">Energy grants for low-income households</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-13-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-gave-eerie-heart-picture-to-his-lawyer-after-sentencing-hearing/">Bryan Kohberger gave eerie heart picture to his lawyer after sentencing hearing</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-08-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-24/tanya-simon-named-executive-producer-of-60-minutes">CBS News names veteran producer Tanya Simon to lead '60 Minutes'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-15-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/china-could-be-a-player-in-efforts-to-calm-cambodia-thailand-tensions">China could be a player in efforts to calm Cambodia-Thailand tensions.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-03-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/china-could-be-a-player-in-efforts-to-calm-cambodia-thailand-tensions">China could be a player in efforts to calm Cambodia-Thailand tensions.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-03-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0rvr84l2jzo">Public frustrated by asylum seeker housing - minister</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/the-religious-minority-at-the-heart-of-israels-standoff-with-syria-41b7cb81">The Religious Minority at the Heart of Israel&#8217;s Standoff With Syria</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-political-crisis">The border clashes come as a political crisis rocks Thailand.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-58-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-political-crisis">The border clashes come as a political crisis rocks Thailand.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-58-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/uber-of-education-app-launches-public-school-alternative/">&#8216;Uber of education&#8217; app connecting parents to public school alternatives launches</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-58-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/global/global-economies-show-resilience-despite-tariff-fears-surveys-show-51a74a83">Global Economies Show Resilience Despite Tariff Fears, Surveys Show</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/michael-whatley-north-carolina-senate.html">Michael Whatley, R.N.C. Chairman, to Run for Senate in North Carolina</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-53-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/michael-whatley-north-carolina-senate.html">Michael Whatley, R.N.C. Chairman, to Run for Senate in North Carolina</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-53-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/dozens-injured-including-child-in-russian-strikes-using-new-type-of-bomb/">Dozens injured, including child, in Russian strikes using new type of bomb being tested on civilians</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-53-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/nj-transit-bus-crash-outside-port-authority-injures-more-than-two-dozen/">NJ Transit bus crashes with another bus outside Port Authority, injuring more than two dozen people</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-49-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/trump-bank-federal-reserve.html">Trump to Visit Federal Reserve As Campaign Against Powell Intensifies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-45-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/trump-bank-federal-reserve.html">Trump to Visit Federal Reserve As Campaign Against Powell Intensifies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-45-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/trump-bank-federal-reserve.html">Trump to Visit Federal Reserve As Campaign Against Powell Intensifies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-45-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/north/virginia-mearns-named-canada-s-arctic-ambassador-1.7592855?cmp=rss">Iqaluit resident Virginia Mearns named Canada's Arctic ambassador</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-14-41-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/heres-a-look-at-surin-the-thai-province-at-the-center-of-the-conflict-with-cambodia">Here&#8217;s a look at Surin, the Thai province at the center of the conflict.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-39-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/heres-a-look-at-surin-the-thai-province-at-the-center-of-the-conflict-with-cambodia">Here&#8217;s a look at Surin, the Thai province at the center of the conflict.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-39-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/russia/russian-passenger-plane-crashes-near-border-with-china-1cc246ce">Russian Plane Crashes, Killing Nearly 50 Aboard</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-37-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/beijings-trade-tactics-ukraine-stance-cast-pall-over-europe-china-ties-3cb35230">Beijing&#8217;s Trade Tactics, Ukraine Stance Cast Pall Over Europe-China Ties</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/ecb-interest-rate.html">E.C.B. Pauses Rate-Cutting Campaign, as Trade Disputes Cloud Outlook</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-32-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cj9v9083lw3o">Zelensky announces new draft law on anti-corruption bodies after protests</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-14-31-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/goldman-sachs-puts-brakes-on-layoffs-after-strong-q2-ft/">Goldman Sachs puts brakes on layoffs after strong Q2: FT</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-30-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/migrant-dad-facing-deportation-after-taking-wrong-turn-and-accidentally-leaving-us-attorney/">Migrant dad facing deportation after taking wrong turn and accidentally leaving US: attorney</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-29-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/spain-nato-spending-weapons.html">Spain Is Reluctant to Spend More on Security Despite NATO Pressure</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-27-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/spain-nato-spending-weapons.html">Spain Is Reluctant to Spend More on Security Despite NATO Pressure</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-27-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/rnc-boss-michael-whatley-to-jump-in-nc-senate-race-after-lara-trump-passes/">RNC boss Michael Whatley to jump in NC Senate race after Lara Trump passes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-26-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/rnc-boss-michael-whatley-to-jump-in-nc-senate-race-after-lara-trump-passes/">RNC boss Michael Whatley to jump in NC Senate race after Lara Trump passes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-26-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/fitness-guru-jillian-michaels-wants-a-lot-more-banned-than-food-dyes/">Fitness guru Jillian Michaels wants &#8216;a lot more banned&#8217; than food dyes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-25-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/fitness-guru-jillian-michaels-wants-a-lot-more-banned-than-food-dyes/">Fitness guru Jillian Michaels wants &#8216;a lot more banned&#8217; than food dyes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-25-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/climate/montana-grizzly-bears-guard-dogs.html">Grizzlies Were Raiding Montana Farms. Then Came Some Formidable Dogs.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-22-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/bangladesh-plane-crash-school-children-deaths.html">Children Burned by Plane Crash in Bangladesh Die Days Later</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-21-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/bangladesh-plane-crash-school-children-deaths.html">Children Burned by Plane Crash in Bangladesh Die Days Later</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-21-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/ecb-holds-rates-steady-as-u-s-tariff-negotiations-cloud-outlook-14961897">The European Central Bank paused its most aggressive easing campaign since the global financial crisis as it awaits clarity on President Trump&#8217;s tariffs</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-21-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/tesla-stock-plunges-as-elon-musk-admits-a-few-rough-quarters-could-be-ahead/">Tesla stock plunges as Elon Musk warns company may face &#8216;a few rough quarters&#8217; ahead</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-19-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/biden-sells-memoir-for-measly-10m-less-than-obamas-bill-clinton/">Biden sells memoir for millions less than Obamas, Bill Clinton in embarrassing blow</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-14-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/plane-crash-russia.html">Plane Crashes in Russia&#8217;s Far East, Killing All 49 Onboard</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-14-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/plane-crash-russia.html">Plane Crashes in Russia&#8217;s Far East, Killing All 49 Onboard</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-14-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/unesco-china-us.html">As Trump Quits UNESCO, China Expands Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-13-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/unesco-china-us.html">As Trump Quits UNESCO, China Expands Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-13-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/canada-miners-trapped.html">Collapse at Red Chris Mine in British Columbia Traps 3 Workers</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-13-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/china-eu-trade-ukraine.html">China and E.U. Reach Narrow Agreements on Climate and Rare Earths</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-05-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/china-eu-trade-ukraine.html">China and E.U. Reach Narrow Agreements on Climate and Rare Earths</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-05-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/china-eu-trade-ukraine.html">China and E.U. Reach Narrow Agreements on Climate and Rare Earths</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-05-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/travel/southwest-airlines-lawsuit-racism.html">Southwest Passenger Says She Was Ejected From Flight Based on Her Race</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-01-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/twins-trade-deadline-ryan-jax-duran-castro-wallner-larnach/601440993">With trade deadline looming, who might the Twins put on the market?</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-14-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/returnless-returns-retailers-loyalty-07040a95?mod=pls_whats_news_us_business_f">Why &#8216;Returnless Returns&#8217; Can Pay Off for Companies</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/health/rfk-jr-flu-vaccines-thimerosal.html">RFK Jr. Rescinds Endorsement of Flu Vaccines With Preservative Falsely Linked to Autism</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-56-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/hikers-in-nazi-uniforms-stopped-by-police-in-swiss-alps/">Hikers dressed as Nazi soldiers are stopped by police, ordered to remove offensive symbols</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-54-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/newly-unsealed-bryan-kohberger-docs-reveal-creepy-incidents-at-home-before-university-of-idaho-murders/">Newly unsealed Bryan Kohberger docs reveal creepy incidents at victims&#8217; home before University of Idaho murders</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-49-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/edmonton/plan-to-accept-newcomer-parents-and-grandparents-will-strain-health-services-alberta-warns-1.7592815?cmp=rss">Plan to accept newcomer parents and grandparents will strain health services, Alberta warns</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-13-38-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/disney-tourist-charged-with-child-abuse-after-manhandling-teen-over-parade-spot/">Tourist charged with child abuse after allegedly manhandling teen to get better parade spot at Disney World</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-37-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g2gw62jnpo">We might get killed, but we have to get food, injured Gazan tells BBC</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-36-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g2gw62jnpo">We might get killed, but we have to get food, injured Gazan tells BBC</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-36-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/unesco-trump-us-withdrawal.html">What to Know About the U.S. Move to Withdraw From UNESCO</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-34-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/unesco-trump-us-withdrawal.html">What to Know About the U.S. Move to Withdraw From UNESCO</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-34-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/meghan-mccain-calls-cnns-kaitlan-collins-a-hack-and-imbecile/">Meghan McCain calls CNN&#8217;s Kaitlan Collins a &#8216;hack&#8217; and &#8216;imbecile,&#8217; demands she be stripped of WH credentials</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-32-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/deputy-ag-todd-blanche-will-meet-with-ghislaine-maxwell-within-hours-sources/">Deputy AG Todd Blanche will meet with Ghislaine Maxwell within hours, sources say</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99490m97epo">No survivors after plane carrying 48 people goes down in Russian far east</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-31-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99490m97epo">No survivors after plane carrying 48 people goes down in Russian far east</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-31-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/news-organizations-journalists-gaza-face-starvation-1.7592779?cmp=rss">BBC, Reuters among 4 news organizations saying their journalists face starvation in Gaza</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-13-25-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c3070nlqnq3o">Former head of Central African football body jailed for war crimes</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-24-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c3070nlqnq3o">Former head of Central African football body jailed for war crimes</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-24-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-subpoena-justice-dept-epstein-files.html">House Panel Votes to Subpoena Justice Dept. for Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-18-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-subpoena-justice-dept-epstein-files.html">House Panel Votes to Subpoena Justice Dept. for Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-18-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-cambodia">Thai and Cambodian Troops Fire at Each Other as Relations Implode</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-13-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-cambodia">Thai and Cambodian Troops Fire at Each Other as Relations Implode</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-13-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/science/astronomy-k218b-biosignature-life.html">Hints of Life on Exoplanet K2-18b Recede Even Further</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-10-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/icj-hague-climate-change.html">Top U.N. Court Says Countries Must Act on Climate Change</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-10-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/jobs/fewer-u-s-jobless-claims-were-filed-last-week-5a7188a2">Fewer U.S. Jobless Claims Were Filed Last Week</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-13-07-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/energy-environment/governors-pjm-electric-grid.html">Governors Rebuke Managers of Largest U.S. Electric Grid</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-04-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/energy-environment/governors-pjm-electric-grid.html">Governors Rebuke Managers of Largest U.S. Electric Grid</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-04-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-democrats-republicans.html">In Epstein, Democrats Find Weapon Against Trump and Republicans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-59-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-democrats-republicans.html">In Epstein, Democrats Find Weapon Against Trump and Republicans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-59-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/cycling/articles/c0m8379g128o">Can Le Court make women's Tour history for Africa?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-46-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/americas/venezuela-american-convicted-murder.html">American Convicted of Murder Among Those Trump Rescued From Venezuela Prison</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-40-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/americas/venezuela-american-convicted-murder.html">American Convicted of Murder Among Those Trump Rescued From Venezuela Prison</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-40-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/24/american-airlines-flight-attendant-bathroom-sentencing/">Flight attendant who filmed girls in plane bathrooms sentenced to 18&#189; years</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-12-32-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/dealbook/musk-tesla-rough-times.html">Elon Musk Sees &#8216;Rough&#8217; Times Ahead for Tesla</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-17-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/american-airlines-flight-attendant-who-admitted-to-secretly-filming-young-girls-in-plane-bathroom-learns-fate/">American Airlines flight attendant who admitted to secretly filming young girls in plane will spend years behind bars</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-12-13-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2k1k0kngeno">Two die in car during Cyprus wildfire as 44C heat expected</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-08-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2k1k0kngeno">Two die in car during Cyprus wildfire as 44C heat expected</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-08-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cd787n4pqxro">Rescue under way for three workers trapped by Canada mine collapse</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-07-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cd787n4pqxro">Rescue under way for three workers trapped by Canada mine collapse</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-07-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/crene7d5w2jo">Russia and Ukraine trade drone attacks after latest ceasefire talks</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-04-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/climate/wildfires-forest-carbon-sequestration.html">For 1st Time, Fires Are Biggest Threat to Forests&#8217; Climate-Fighting Superpower</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-00-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/24/dupes-store-brands-savings/">How the rise of dupes and store brands could change the way you shop</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/poland-oil-europe.html">Canadian Company Claims to Find Large Oil Reserves in Poland</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-11-54-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/poland-oil-europe.html">Canadian Company Claims to Find Large Oil Reserves in Poland</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-11-54-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/turkey-central-bank-returns-to-rate-cuts-path-after-unrest-forced-hike-75d1a7d3">Turkey Central Bank Returns to Rate Cuts Path After Unrest Forced Hike</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-11-40-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c20r07dg6kro">What do we know about the Epstein files?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-11-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/24/ohio-police-lorain-ambush-shot/">Gunman opens fire on Ohio police officers on lunch break, wounding three</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-11-28-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/slain-hamas-chief-yahya-sinwars-smuggled-out-of-gaza-and-is-already-remarried-report/">Slain Hamas chief Yahya Sinwar&#8217;s widow smuggled out of Gaza &#8212; and is already remarried: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-11-27-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/thailand-cambodia-deadly-exchange-1.7592763?cmp=rss">Thailand deploys fighter jet in border dispute escalation with Cambodia</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-11-20-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ce3n3we8g57o">Police take no action over Alex Salmond complaint</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-11-17-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/bryan-kohberger-sentencing-takeaways.html">Bryan Kohberger Sentenced to Life in Prison for Idaho Student Murders: 5 Takeaways</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-11-16-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/walz-administration-faces-more-scrutiny-as-fbi-investigates-fraud-in-another-state-program/601438590">Walz administration faces more scrutiny as FBI investigates fraud in another state program</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cd0v1y0nvl1o">How are islanders coping with the cost of living?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-11-11-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/pennsylvania-fake-nurse-shannon-womack/">&#8216;Impostor&#8217; nurse used aliases to fraudulently treat patients, officials say</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-11-01-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minnesota-brewery-closing-craft-beer-boom-thc-tariff-surly-tax-minneapolis/601441470">Why are so many Minnesota breweries closing? Here&#8217;s a six-pack of reasons.</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minnetonka-orchard-everly-farms-minnetrista-winery-vineyard-new-restaurant-weigel/601385221">A near-death experience prompts couple to buy beloved Minnetrista orchard</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/viral-tiktok-trend-gen-z-stare/601441455">Opinion | What&#8217;s up with the &#8216;Gen Z stare&#8217;?</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/books-most-popular-american-schools-class-982c57fd">The Most-Taught Books in American Classrooms Have Barely Changed in 30 Years</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdjxje2pje1o">Why are Thailand and Cambodia fighting at the border?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdjxje2pje1o">Why are Thailand and Cambodia fighting at the border?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8z0y0eko">Twelve killed in Thailand-Cambodia military clashes on disputed border</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8z0y0eko">Twelve killed in Thailand-Cambodia military clashes on disputed border</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99p2mlyep5o">Four things you need to know about UK-India trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-36-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99p2mlyep5o">Four things you need to know about UK-India trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-36-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/asia/thailand-and-cambodia-exchange-fire-in-deadly-border-clash-3b307ff0">Thailand and Cambodia Exchange Fire in Deadly Border Clash</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-10-35-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8j1j7n72ywo">BBC and news agencies warn journalists in Gaza at risk of starvation</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-25-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8j1j7n72ywo">BBC and news agencies warn journalists in Gaza at risk of starvation</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-25-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn86q3ezy87o">Use offices or lose them, Welsh government staff told</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-13-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/russia-far-east-tynda-plane-crash-1.7592755?cmp=rss">Plane crash in eastern Russia kills all 48 people on board</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-10-12-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9dgd1qyq29o">Inquiry into asylum seeker payment cards for gambling</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-10-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/cambodia-thailand-conflict-timeline.html">A Timeline of the Latest Conflict Between Cambodia and Thailand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-10-09-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/cambodia-thailand-conflict-timeline.html">A Timeline of the Latest Conflict Between Cambodia and Thailand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-10-09-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-24/epstein-files-obama-treason-trump">Calmes: Trump finds a new way to taint the office of the presidency</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-09-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/health/2025/07/24/vaccine-access-recommendations-covid-rfk/">All the ways your access to vaccines has changed under RFK Jr.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-10-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-24/food-delivery-robots-are-becoming-more-commonplace-in-los-angeles-neighborhoods">We may not have flying cars, but more food delivery bots are coming to L.A.</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-24/has-musk-lied-about-self-driving-teslas-california-says-so">Hiltzik: Has Musk lied about self-driving Teslas? California says so</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/inside-the-arms-race-to-win-the-new-luxury-cruise-ship-market/">Inside the &#8216;arms race&#8217; to win the new luxury cruise ship market</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/a-hot-protein-bar-company-has-added-a-wild-new-product-frozen-cod-fillets-c1046759?mod=pls_whats_news_us_business_f">A Hot Protein Bar Company Has Added a Wild New Product: Frozen Cod Fillets</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/i-took-a-week-off-to-escape-the-steady-hum-of-grim-news-heres-how-it-went">Lopez: I took a week off to escape the steady hum of grim news. It didn't go as planned</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/world-nation/story/2025-07-24/apartments-have-long-been-looked-down-upon-in-the-u-s-but-in-south-korea-they-are-king">Americans may aspire to single-family homes, but in South Korea, apartments are king</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/housing-tracker-for-june">Southern California home prices fall nearly 1% in June as market slows</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/chris-newman-is-at-the-center-of-the-immigration-fight-again">Arellano: Chris Newman is at the center of the immigration fight &#8212; again</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/report-none-of-8-killed-in-lake-tahoe-boat-tragedy-wore-life-jacket">None of the 8 people who died in Lake Tahoe boat disaster were wearing life jackets, probe finds</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/i-took-a-week-off-to-escape-the-steady-hum-of-grim-news-heres-how-it-went">Lopez: I took a week off to escape the steady hum of grim news. It didn't go as planned</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-24/united-states-sanctions-deaths">Contributor: Rethink sanctions. They're killing as many people as war does</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/chris-newman-is-at-the-center-of-the-immigration-fight-again">Arellano: Chris Newman is at the center of the immigration fight &#8212; again</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/trump-scotland-golf-clubs-starmer/">Trump swing through Scotland rekindles tension over golf properties</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-09-55-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/thailand-cambodia-armed-border-clash/">Thailand launches airstrike on Cambodia as border clash escalates</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-09-30-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/mcdonalds-to-test-dirty-sodas-and-flavored-cold-brews-to-cash-in-on-drinks-craze-6c3e0716?mod=pls_whats_news_us_business_f">McDonald&#8217;s to Test &#8216;Dirty Sodas&#8217; and Flavored Cold Brews to Cash In on Drinks Craze</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/mcdonalds-to-test-dirty-sodas-and-flavored-cold-brews-to-cash-in-on-drinks-craze-6c3e0716?mod=pls_whats_news_us_business_f">McDonald&#8217;s to Test &#8216;Dirty Sodas&#8217; and Flavored Cold Brews to Cash In on Drinks Craze</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/tech/ai/google-earnings-revenue-ai-642e4dcf?mod=rss_markets_main">Is AI Killing Google Search? It Might Be Doing the Opposite</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/downwardly-mobile-elites-love-zohran-mamdani-37729120">New York mayoral candidate Zohran Mamdani appeals to downwardly mobile millennials who embrace his zero-sum politics, writes Reihan Salam. But are those voters the future of the Democratic Party?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/zelensky-protests-ukraine-corruption.html">Zelensky Faces Criticism in Ukraine Over Effort to Rein In Corruption Agencies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-25-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/zelensky-protests-ukraine-corruption.html">Zelensky Faces Criticism in Ukraine Over Effort to Rein In Corruption Agencies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-25-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy0wxxx9dg8o">'I did my best': Teacher dies after rescuing 20 kids from Bangladesh plane crash</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-09-14-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/travel/2025/07/24/us-passport-henley-ranking/">U.S. drops to lowest ranking yet on index of most powerful passports</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-09-09-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/uber-announces-womens-preferences-in-us-cities-for-female-rider-safety/">Uber announces feature allowing women to select female preference for riders, drivers</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-09-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/japan-matcha-tiktok-instagram.html">The Latest Casualty of Social Media Hype Is Your Matcha Supply</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-07-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/japan-matcha-tiktok-instagram.html">The Latest Casualty of Social Media Hype Is Your Matcha Supply</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-07-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/texas-redistricting-republicans-democrats.html">Democrats Have Few Tools to Counter G.O.P. Redistricting</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-02-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/texas-redistricting-republicans-democrats.html">Democrats Have Few Tools to Counter G.O.P. Redistricting</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-02-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/opendoor-krispy-kreme-meme-stocks.html">Opendoor and Krispy Kreme Are Part of a New Generation of Meme Stocks</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-01-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8j1kyrro">'See story through my eyes', says Bella Culley</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-08-58-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/chinese-students-mining-plant-death/">6 students drown after falling into slurry-filled tank on field trip</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-08-38-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/cyprus-wildfire-in-troodos-mountains-destroys-homes-and-cars-two-bodies-found/">Massive wildfire destroys homes, forces evacuations in Cyprus; 2 bodies found in burned-out car</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-08-25-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/carney-inuit-leaders-inuvik-1.7592211?cmp=rss">Inuit leaders meet Carney in N.W.T. to talk nation-building projects</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/climate-change-military-analysis-1.7592647?cmp=rss">Swapping weather bombs for real bombs: The debate over climate change as national security heats up</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/climate-change-military-analysis-1.7592647?cmp=rss">Swapping weather bombs for real bombs: The debate over climate change as national security heats up</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cwyq921zqqzo">White House pushes back after reports Trump is named in Epstein files</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-07-47-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/thailand-and-cambodia-exchange-fire-in-new-border-clashes-that-kill-at-least-1-civilian/">Thailand and Cambodia exchange fire in new border clashes, killing at least 11 civilians</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-07-33-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cr5vglq04zeo">UK vehicle making hits lowest level since 1953</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-07-26-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/police-officials-host-bear-drills-following-string-of-bear-attacks/">Police officials host &#8216;bear drills&#8217; following string of bear attacks</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-07-20-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/eu-china-leaders-meet/">Rebalancing relationship with China&#160;&#8216;essential,&#8217; E.U. president says</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-17-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/arts/music/ozzy-osbourne-birmingham.html">Ozzy Osbourne&#8217;s Death Draws Mourners, Including Drake, to the &#8216;Home of Heavy Metal&#8217;</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-07-15-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/24/uber-women-request-service/">Uber is testing a women-only driver service. Here&#8217;s how it works.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/24/uber-women-request-service/">Uber is testing a women-only driver service. Here&#8217;s how it works.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/gaza-starvation-israel-restrictions/">Mass starvation stalks Gaza as deaths from hunger rise</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-00-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/russia-angara-an-25-passenger-plane-goes-missing-in-far-east-heading-towards-tynda/">Plane crashes in&#160;Russia&#8217;s Far East, killing all 48 passengers and crew onboard</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-06-50-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/chinese-hackers-microsoft-sharepoint.html">Chinese Hackers Are Exploiting Flaws in Widely Used Software, Microsoft Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-06-32-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/chinese-hackers-microsoft-sharepoint.html">Chinese Hackers Are Exploiting Flaws in Widely Used Software, Microsoft Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-06-32-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/consumers/german-consumer-confidence-hit-by-economic-uncertainty-bc4fdb12">German Consumer Confidence Hit by Economic Uncertainty</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-06-24-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy4yj3rpjm8o">Tories must 'offer hope' in face of Reform threat - Badenoch</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-06-23-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn813m73x5zo">Australia to lift import ban on US beef after Trump tariffs tiff</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-06-16-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn813m73x5zo">Australia to lift import ban on US beef after Trump tariffs tiff</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-06-16-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp3ledjl4v8o">Baby bank issues plea for nappies amid shortage</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-05-06-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1k4rpg4ggeo">'My energy bills are so high I asked the council to buy back my flat'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-05-04-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/manzhouli-china-russia-economy.html">How a Chinese Border Town Keeps Russia&#8217;s Economy Afloat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-05-02-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/manzhouli-china-russia-economy.html">How a Chinese Border Town Keeps Russia&#8217;s Economy Afloat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-05-02-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxkjrx19no">Assistant who accused Kanye West of sexual assault 'in hiding', lawyer says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-05-01-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9w19n45gyqo">City rate-rigging convictions quashed - what happens next?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-04-59-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/asia-u-s-trade-deals-pick-up-as-tariff-deadline-nears-cccbc644">Asia-U.S. Trade Deals Pick Up as Tariff Deadline Nears</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-04-51-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/briefing/russia-ukraine-trump-gaza-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-30-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/briefing/russia-ukraine-trump-gaza-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-30-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cr4wgywwg0qo">South Park to stream on Paramount+ after bidding war</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-04-14-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-japan-trade-deal-cars.html">How Trump&#8217;s Japan Deal Could Give Japanese Cars a Leg Up in the U.S.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-japan-trade-deal-cars.html">How Trump&#8217;s Japan Deal Could Give Japanese Cars a Leg Up in the U.S.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-japan-trade-deal-cars.html">How Trump&#8217;s Japan Deal Could Give Japanese Cars a Leg Up in the U.S.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/falling-birthrates-economic-growth-pronatalism.html">Why One of the Causes of Falling Birthrates May Be Prosperity</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/rba-pushes-back-on-criticism-that-it-has-been-too-slow-to-cut-rates-f3e0a40c">RBA Pushes Back on Criticism That It Has Been Too Slow to Cut Rates</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g8nn3exn5o">Australian women win right to sue Qatar Airways over invasive searches</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-03-22-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/appeals-court-blocks-trumps-effort-to-end-birthright-citizenship-upholding-lower-court-order/">Appeals court blocks Trump&#8217;s effort to end birthright citizenship, upholding lower court order</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-03-03-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/columbia-reaches-deal-with-trump-administration-to-restore-federal-funds-2e3cfdc6">Columbia Agrees to Pay More Than $200 Million to Settle Trump Fight</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/columbia-reaches-deal-with-trump-administration-to-restore-federal-funds-2e3cfdc6">Columbia Agrees to Pay More Than $200 Million to Settle Trump Fight</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/trump-court-birthright-citizenship-1.7592729?cmp=rss">U.S. appeals court upholds block on Trump's bid to end birthright citizenship</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-03-00-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/us-weapons-defense-industry-missiles-ef2b676b?mod=pls_whats_news_us_business_f">The West&#8217;s Insatiable Demand for Missiles Boosting U.S. Weapons Makers</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/us-weapons-defense-industry-missiles-ef2b676b">The West&#8217;s Insatiable Demand for Missiles Boosting U.S. Weapons Makers</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/rare-purple-snail-on-socal-beach-may-be-sign-of-warming-oceans">Rare purple sea creature found on SoCal beach. Could warming waters be why?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-02-41-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cq8zljpvyk0o">Columbia University to pay $200m in settlement with Trump administration</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-02-38-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/macron-lawsuit-candace-owens-defamation.html">Macrons Sue Candace Owens, Accusing Her of Defamation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-34-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/macron-lawsuit-candace-owens-defamation.html">Macrons Sue Candace Owens, Accusing Her of Defamation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-34-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/columbia-university-trump-settlement-research-funds-1.7592711?cmp=rss">Columbia University agrees to pay $220M in deal with Trump administration</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-02-33-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c1e0x26gl5go">Can you un-bleach coral? BBC visits remote reef to find out</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-02-31-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c1e0x26gl5go">Can you un-bleach coral? BBC visits remote reef to find out</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-02-31-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/appeals-court-birthright-citizenship.html">Appeals Court Blocks Trump&#8217;s Attempt to Restrict Birthright Citizenship</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-23-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/appeals-court-birthright-citizenship.html">Appeals Court Blocks Trump&#8217;s Attempt to Restrict Birthright Citizenship</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-23-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-trump-republicans.html">Republicans Are Breaking With Trump Over Epstein Files, Polls Show</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-05-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-trump-republicans.html">Republicans Are Breaking With Trump Over Epstein Files, Polls Show</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-05-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/automakers-tariff-japan/">Why Japanese autos might become more attractive to U.S. customers</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-02-00-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/american-airlines-flight-attendant-bathroom-recording-sentenced.html">American Airlines Flight Attendant Who Filmed Minors in Lavatory Is Sentenced to 18.5 Years</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-01-36-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/congress-asked-to-halt-plan-to-shoot-nearly-half-million-barred-owls">House resolution seeks to stop plan to shoot nearly half a million owls</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-01-35-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/group-seeks-to-repeal-l-a-s-800-million-business-tax-citing-anti-job-climate">Group seeks to repeal L.A.'s $800-million business tax, citing 'anti-job climate'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-01-33-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/trump-targets-woke-ai-in-series-of-executive-orders-on-artificial-intelligence/">Trump targets &#8216;woke AI&#8217; in series of executive orders on artificial intelligence</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-01-31-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/bryan-kohberger-sentencing-idaho-murders/">Bryan Kohberger sentenced to life in prison for University of Idaho killings</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-01-11-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/california-teacher-stabbed-in-neck-in-italy-is-coming-home">California teacher stabbed in neck while on Italian vacation is returning home</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-01-07-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-spending-trump-foreign-aid.html">House Panel Approves Spending Bill That Rejects Some Trump Foreign Aid Cuts</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-01-04-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-spending-trump-foreign-aid.html">House Panel Approves Spending Bill That Rejects Some Trump Foreign Aid Cuts</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-01-04-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/trump-trade-deal-15-percent-tariffs-16aeb256">President Trump&#8217;s push to introduce a new standard for global trade is coming into sharper focus as U.S. and EU officials converge on a possible 15% tariff deal</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/russian-soldiers-view-ukraine-war-749a0494">&#8216;Commanders Saw Us as Expendable&#8217;: A Russian Soldier&#8217;s View of the War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/russian-soldiers-view-ukraine-war-749a0494">&#8216;Commanders Saw Us as Expendable&#8217;: A Russian Soldier&#8217;s View of the War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/energy-environment/edison-eaton-fire-fund-los-angeles.html">Southern California Edison Creates Fund for LA-Area Eaton Fire Victims</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-59-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/euclid-fire-grows-shuts-down-71-freeway-in-chino-hills">Crews make progress against the Euclid fire in Chino Hills</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-00-52-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/doj-intel-weaponization-task-force.html">Justice Dept. Announces Task Force to Assess &#8216;Weaponization&#8217; of Intelligence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-46-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/doj-intel-weaponization-task-force.html">Justice Dept. Announces Task Force to Assess &#8216;Weaponization&#8217; of Intelligence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-46-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/ukraine-urges-trump-to-provide-long-range-missiles-to-cripple-attack-deep-within-russia-report/">Ukraine urges Trump to provide long-range missiles to cripple, attack deep within Russia: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-00-38-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-ai-nuclear-weapons.html">Trump&#8217;s A.I. Challenge: Focus on Weapon Concerns or Woke-ism?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-32-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-ai-nuclear-weapons.html">Trump&#8217;s A.I. Challenge: Focus on Weapon Concerns or Woke-ism?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-32-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-ai-nuclear-weapons.html">Trump&#8217;s A.I. Challenge: Focus on Weapon Concerns or Woke-ism?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-32-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/novel-synthetic-drug-100-times-stronger-than-fentanyl-responsible-for-riverside-overdose">Novel synthetic drug 100 times stronger than fentanyl responsible for Riverside overdose</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-00-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/sports/story/2025-07-23/california-league-modesto">The California League is abandoning Modesto. How pro baseball might stick around</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-00-22-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/bryan-kohberger-idaho-student-murders-evidence.html">New Documents Shed Light on Bryan Kohberger and Idaho Student Murders</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-21-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/house-panel-votes-to-subpoena-bill-and-hillary-clinton-over-possible-links-to-ghislaine-maxwell/">House panel votes to subpoena Bill and Hillary Clinton over possible links to Ghislaine Maxwell</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-00-00-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democratic-donors-progressive-aoc-zohran-mamdani-825242e9">Progressive Democrats&#8217; fundraising strength poses a challenge to party leaders trying to nudge the message closer to the middle</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-00-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/articles/c74w2elr2x7o">From hospital bed to hero status - Bonmati 'could write a book'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-54-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/colbert-trump-democrats.html">Do Democrats Want a Fight Over Colbert?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-54-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/colbert-trump-democrats.html">Do Democrats Want a Fight Over Colbert?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-54-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clynwv7gn2do">Philippines goods to face 19% tariff, Trump says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-53-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2ezp9d7nk2o">How are trade deals actually negotiated?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-44-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/mississippi-river-missing-men-dead.html">3 Men Who Disappeared While Fishing in the Mississippi River Are Found Dead</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-44-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/thomas-a-durkin-dead.html">Thomas A. Durkin, Civil Liberties Lawyer for the Reviled, Dies at 78</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-44-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/thomas-a-durkin-dead.html">Thomas A. Durkin, Civil Liberties Lawyer for the Reviled, Dies at 78</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-44-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/kamala-harris-ex-lover-willie-brown-warns-it-will-be-difficult-for-her-to-win-california-governors-race-may-not-be-where-she-should-be-going/">Kamala Harris&#8217; ex-lover Willie Brown warns her of &#8216;difficult&#8217; road to win California governor&#8217;s race after resounding 2024 loss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-23-44-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/texas-floods-hearing-emergency-management.html">At Texas Flooding Hearing, State Officials Look Elsewhere for Blame</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-42-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/texas-floods-hearing-emergency-management.html">At Texas Flooding Hearing, State Officials Look Elsewhere for Blame</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-42-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp82x0d9ze7o">A mother's heartbreak: The unresolved mystery of missing Indian student</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-34-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp82x0d9ze7o">A mother's heartbreak: The unresolved mystery of missing Indian student</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-34-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/lorain-ohio-police-officers-shot.html">3 Officers Shot in Targeted Attack in Ohio, Leaving 2 in Critical Condition</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-32-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c07d3m3xk32o">In a Haitian city ruled by gangs, young rape survivor raises baby she was told to abort</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-32-03 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c78n23981x7o">Furious protests at move to cement Togo ruling family's grip on power</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-31-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c78n23981x7o">Furious protests at move to cement Togo ruling family's grip on power</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-31-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/mike-lindell-celebrates-victory-after-appeals-court-voids-5m-award-in-election-data-dispute/601442158">Mike Lindell celebrates victory after appeals court voids $5M award in election data dispute</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-23-23-31-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-distraction-timeline.html">Trump&#8217;s Attempts to Change the Topic From Epstein: A Timeline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-28-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-distraction-timeline.html">Trump&#8217;s Attempts to Change the Topic From Epstein: A Timeline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-28-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/tech/ai/trump-pledges-moves-to-stimulate-ai-use-and-exports-b85b0b15">The Trump administration issued a new AI action plan that aims to further the construction of data centers and encourage exports</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-26-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cp863evk31xo">'Come hug it out!' - How a Canadian tourism ad went viral</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-17-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/tulsi-gabbard-obama-russia-8315b420">Tulsi Gabbard and the White House alleged former President Barack Obama and senior officials in his administration manufactured a false conspiracy suggesting Russia interfered in the 2016 election</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/muir-woods-exhibit-removed-following-trump-order-on-unpatriotic-signs">Trump ordered purge of 'unpatriotic' signage from national parks. How one California spot complied</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-23-16-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/ukraine-corruption-protests-zelensky-parliament/">Ukrainians protest as Zelensky cracks down on corruption watchdogs</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-23-13-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/ortiz-murder-venezuela-trump-prisoner-swap-bukele-el-salvador-spain/">U.S. prisoner returned by Venezuela in swap was convicted of 3 murders</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-23-07-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/tesla-earnings-q2-tsla-stock-f94405d3?mod=pls_whats_news_us_business_f">Tesla Profit Falls, Hurt by Plunging EV Sales</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/tesla-earnings-q2-tsla-stock-f94405d3?mod=pls_whats_news_us_business_f">Tesla Profit Falls, Hurt by Plunging EV Sales</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/judge-says-abrego-garcia-must-be-returned-to-maryland-after-release-from-jail-b141f271">Judge Blocks Trump Administration From Swiftly Deporting Abrego Garcia Again</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/abrego-garcia-judge-orders.html">Rulings Order Abrego Garcia&#8217;s Release and Guard Against Hasty Deportation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-02-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/abrego-garcia-judge-orders.html">Rulings Order Abrego Garcia&#8217;s Release and Guard Against Hasty Deportation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-02-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/tesla-earnings-elon-musk.html">Tesla Earnings Show Falling Profit as Car Sales Slow</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-58-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/macron-lawsuit-candace-owens-1.7592570?cmp=rss">French president and wife sue U.S. podcaster for claiming Brigitte Macron was born male</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-22-55-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/columbia-university-to-pay-out-more-than-220m-after-violating-jewish-students-civil-rights-in-massive-win-for-trump-admin/">Columbia University to pay out more than $220M after violating Jewish students&#8217; civil rights in massive win for Trump admin</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-53-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/families-sent-wrong-bodies-after-air-india-disaster/">Multiple families were sent the wrong bodies after Air India disaster: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-51-03 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/edison-creates-program-to-pay-eaton-fire-victims-for-damages">Edison offers to pay Eaton fire victims for damages, in move to avoid litigation</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-49-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/edison-creates-program-to-pay-eaton-fire-victims-for-damages">Edison offers to pay Eaton fire victims for damages, in move to avoid litigation</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-49-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/edison-creates-program-to-pay-eaton-fire-victims-for-damages">Edison offers to pay Eaton fire victims for damages, in move to avoid litigation</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-49-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/dicamba-weed-killer-epa.html">E.P.A. Proposes Allowing Use of Dicamba Weedkiller on Some Crops</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-47-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/biden-sells-memoir-for-roughly-10-million-less-than-obama-and-clinton-1e124dc0?mod=pls_whats_news_us_business_f">Biden Sells Memoir for Roughly $10 Million, Less Than Obama and Clinton</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/biden-sells-memoir-for-roughly-10-million-less-than-obama-and-clinton-1e124dc0?mod=pls_whats_news_us_business_f">Biden Sells Memoir for Roughly $10 Million, Less Than Obama and Clinton</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/biden-sells-memoir-for-roughly-10-million-less-than-obama-and-clinton-1e124dc0">Former President Joe Biden has sold his presidential memoir to the Hachette Book Group for an advance in the range of $10 million, according to people familiar with the matter</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn9y02rn7pzo">Why Filipinos keep getting married in flooded churches</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-38-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8739w8py4jo">Macrons file defamation suit against US influencer Candace Owens</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-30-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8739w8py4jo">Macrons file defamation suit against US influencer Candace Owens</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-30-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/florida-epstein-transcripts-unsealed-denied.html">Judge Denies Request to Unseal Epstein Grand Jury Transcripts in Florida</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-29-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/florida-epstein-transcripts-unsealed-denied.html">Judge Denies Request to Unseal Epstein Grand Jury Transcripts in Florida</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-29-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/russia-ukraine-peace-talks.html">Russia and Ukraine Met Again. Here&#8217;s Where the Peace Talks Stand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-26-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/russia-ukraine-peace-talks.html">Russia and Ukraine Met Again. Here&#8217;s Where the Peace Talks Stand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-26-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-23/trump-fed-chair-jerome-powell-debt-fiscal-dominance">Contributor: Trump's Fed battle is not like his other political tussles</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-22-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-europe-nuclear-talks-treaty.html">Iran Says It Could Exit Nuclear Treaty if Europe Reimposes Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-21-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-europe-nuclear-talks-treaty.html">Iran Says It Could Exit Nuclear Treaty if Europe Reimposes Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-21-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-europe-nuclear-talks-treaty.html">Iran Says It Could Exit Nuclear Treaty if Europe Reimposes Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-21-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/supreme-court-lets-trump-remove-3-dems-from-consumer-product-safety-commission/">Supreme Court lets Trump remove 3 Dems from Consumer Product Safety Commission</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-19-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/sen-john-kennedy-clarifies-why-he-froze-up-on-live-tv/">Sen. John Kennedy, 73, clarifies why he froze up on live TV</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-18-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/russia-and-ukraine-are-no-closer-to-peace-after-trumps-threats-700e4c17">Russia and Ukraine Are No Closer to Peace After Trump&#8217;s Threats</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/federal-judge-protects-kilmar-abrego-garcia-from-deportation-by-trump-admin/">Kilmar Abrego Garcia can&#8217;t be detained by ICE after he&#8217;s released from custody &#8212; which won&#8217;t be for at least another 30 days</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-11-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy9xw5vrvevo">They made America's clothing. Now they are getting punished for it.</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-05-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/search-warrant-reveals-bomb-squad-killed-in-explosion-thought-grenades-were-inert">Bomb squad initially thought grenades that killed 3 L.A. deputies were inert, search warrant says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-05-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdxv71v5lq2o">Verdict expected in Hockey Canada sexual assault trial - what to know</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-00-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/supreme-court-consumer-product-commission.html">Supreme Court Lets Trump Fire Consumer Product Safety Regulators</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-55-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/supreme-court-consumer-product-commission.html">Supreme Court Lets Trump Fire Consumer Product Safety Regulators</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-55-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/supreme-court-consumer-product-commission.html">Supreme Court Lets Trump Fire Consumer Product Safety Regulators</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-55-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/ottawa/crown-seeking-8-years-for-convoy-leader-chris-barber-7-for-tamara-lich-1.7592513?cmp=rss">Crown seeking 8 years for convoy leader Chris Barber, 7 for Tamara Lich</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-21-52-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/canada/canada-premiers-trade-trump-tariffs-carney.html">After Carney Meeting, Canada&#8217;s Premiers Agree on Trump and Tariffs, Differ on Next Steps</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/canada/canada-premiers-trade-trump-tariffs-carney.html">After Carney Meeting, Canada&#8217;s Premiers Agree on Trump and Tariffs, Differ on Next Steps</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/tmobile-earnings-q2-2025-tmus-stock-5aa32975?mod=pls_whats_news_us_business_f">T-Mobile Adds More Subscribers Than Rivals</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-52-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/tom-hayes-libor-ringleader-wins-u-k-appeal-to-clear-his-name-df63db26?mod=rss_markets_main">Tom Hayes, Libor &#8216;Ringleader,&#8217; Wins U.K. Appeal to Clear His Name</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-51-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/ukrainians-ramp-up-protests-as-zelensky-seeks-way-out-58225744">Ukrainians Ramp Up Protests, as Zelensky Seeks Way Out</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-48-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/texas-flooding-legislature-special-session/">Texas lawmakers tackle state&#8217;s catastrophic flooding in special session</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-21-46-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/ukraine-russia-peace-talks-end-in-less-than-a-hour-with-no-cease-fire/">Third round of Ukraine-Russia peace talks end in less than a hour with no cease-fire after Trump threatens Putin with sanctions</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-45-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/beware-irans-new-ruling-elite-1ac926b0">Opinion | Beware Iran&#8217;s New Ruling Elite</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-45-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-ai-order-deregulation-china-energy-business-immigration-5ccb56cf?mod=pls_whats_news_us_business_f">Opinion | Liberation Day for American AI</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-ai-order-deregulation-china-energy-business-immigration-5ccb56cf">Opinion | Liberation Day for American AI</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/japan-trade-deal-donald-trump-tariffs-shigeru-ishiba-70f60e60">Opinion | The Price of Winning the Trade War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/japan-trade-deal-donald-trump-tariffs-shigeru-ishiba-70f60e60">Opinion | The Price of Winning the Trade War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-barack-obama-presidential-immunity-2847d7a1">Opinion | Like Trump, Obama Has Immunity</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-35-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-coke-cane-sugar-corn-syrup-16d07309">Opinion | Trump, Coke and the Sugar Cartel</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ce9xkx7vnmxo">Gazans 'wasting away' as mass starvation spreads, humanitarian groups warn</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-21-28-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/jeff-bezos-has-been-weighing-a-possible-acquisition-of-cnbc-sources/">Jeff Bezos weighing possible acquisition of CNBC cable network: sources</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-25-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/todd-blanche-epstein-ghislaine-maxwell-trump.html">In Seeking Epstein Details, Justice Dept.&#8217;s Todd Blanche Occupies Unusual Role</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-24-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/todd-blanche-epstein-ghislaine-maxwell-trump.html">In Seeking Epstein Details, Justice Dept.&#8217;s Todd Blanche Occupies Unusual Role</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-24-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/briefing/russia-putin-japan-trade-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/briefing/russia-putin-japan-trade-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/plane-nosedives-and-crashes-into-busy-italian-highway-killing-two-in-fiery-explosion/">Plane nosedives and crashes into busy Italian highway, killing two in fiery explosion</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-19-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/bari-weiss-looking-to-sell-the-free-press-for-250m-report/">Bari Weiss looking to sell The Free Press for $250M: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-19-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/thousands-march-in-ukraine-after-zelensky-curbs-top-anti-corruption-agencies/">Thousands march in Ukraine after Zelensky curbs top anti-corruption agencies</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-17-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/nbcu-is-exploring-launching-a-sports-cable-network-92bb2b03?mod=pls_whats_news_us_business_f">NBCU Is Exploring Launching a Sports Cable Network</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/macron-lawsuit-candace-owens/">French President Macron sues right-wing podcaster Candace Owens</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-21-16-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/macron-lawsuit-candace-owens/">French President Macron sues right-wing podcaster Candace Owens</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-21-16-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/elon-musks-tesla-posts-steepest-sales-decline-in-over-a-decade/">Elon Musk&#8217;s Tesla posts steepest sales decline in over a decade as EV demand slumps</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-14-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/banking/lawmakers-subpoena-jpmorgan-and-bofa-over-ipo-of-chinese-battery-startup-83f20c0d?mod=rss_markets_main">Lawmakers Subpoena JPMorgan and BofA Over IPO of Chinese Battery Giant</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-14-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/ronald-reagan-was-no-protectionist-0edd6ba6?mod=pls_whats_news_us_business_f">Opinion | Ronald Reagan Was No Protectionist</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-12-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/notable-quotable-treason-cc67a949">Opinion | Notable & Quotable: Treason</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/deals/waystar-nears-deal-for-iodine-software-be9fd01c?mod=pls_whats_news_us_business_f">Waystar Strikes Deal for Iodine Software</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-09-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/protester-charges-essayli">Trump's top federal prosecutor in L.A. struggles to secure indictments in protest cases</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-59-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/protester-charges-essayli">Trump's top federal prosecutor in L.A. struggles to secure indictments in protest cases</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-59-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/grain-belt-express-energy-department-loan.html">Energy Dept. Cancels Loan Commitment for Grain Belt Express</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-58-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/grain-belt-express-energy-department-loan.html">Energy Dept. Cancels Loan Commitment for Grain Belt Express</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-58-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-23/trump-can-fire-the-three-democrats-on-consumer-product-safety-commission-supreme-court-says">Trump can fire the 3 Democrats on the Consumer Product Safety Commission, Supreme Court says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-52-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-23/trump-can-fire-the-three-democrats-on-consumer-product-safety-commission-supreme-court-says">Trump can fire the 3 Democrats on the Consumer Product Safety Commission, Supreme Court says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-52-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/sen-slotkin-claims-dems-are-too-worried-about-p-ing-off-the-internet/">Dem Senator Elissa Slotkin complains party is too worried about &#8216;p&#8212;ing off&#8217; the Internet</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-49-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/california-man-accused-of-hurling-concrete-blocks-at-ice-agents-during-l-a-area-protests-arrested">California man accused of hurling concrete blocks at federal agents during L.A.-area protests arrested</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-48-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/target-price-matching-amazon-walmart.html">Target Ends Price-Matching Policy After More Than a Decade</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-44-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/air-india-crash-victims-uk-modi-visit.html">2 U.K. Families Received &#8216;Wrong Remains&#8217; of Air India Crash Victims, Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-43-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/air-india-crash-victims-uk-modi-visit.html">2 U.K. Families Received &#8216;Wrong Remains&#8217; of Air India Crash Victims, Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-43-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/trump-will-pay-a-political-price-of-conspiracy-theories-f1e7cf9d">Opinion | Trump Learns the Political Price of Conspiracy Theories</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-43-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-23-2025-1149f353?mod=rss_markets_main">Japan Trade Deal and European Talks Send U.S. Stocks Higher</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-42-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-23/david-ellisons-skydance-tells-fcc-it-wont-promote-diversity-programs-at-paramount">DEI is dead at Paramount, David Ellison's Skydance promises FCC</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-41-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-putin-russia-sanctions-senate.html">Deferring to Trump, Senate Pulls Back on New Russia Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-40-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-putin-russia-sanctions-senate.html">Deferring to Trump, Senate Pulls Back on New Russia Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-40-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/ozzy-osbournes-unique-but-fitting-final-business-ventures-including-cans-laced-with-his-dna/">Ozzy Osbourne&#8217;s unique, but fitting final business ventures &#8212; including cans laced with his DNA</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-35-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/bryan-kohberger-sentencing-university-of-idaho-killings-3cdc0f8f">Bryan Kohberger Given Four Life Sentences in Killings of&#160;University of Idaho&#160;Students</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/more-u-n-climate-nonsense-8100cfa2?mod=pls_whats_news_us_business_f">Opinion | More U.N. Climate Nonsense</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-19-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/icj-world-court-climate-opinion-takeaways.html">Does the World Court&#8217;s Sweeping Climate Opinion Matter? Five Takeaways.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-11-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/iran-to-resume-talks-in-nuclear-program-with-united-nations-agency-5091b130">Iran to Resume Talks on Nuclear Program With United Nations Agency</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/roy-cooper-senate-north-carolina.html">Roy Cooper to Enter North Carolina Senate Race, Lifting Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-10-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/roy-cooper-senate-north-carolina.html">Roy Cooper to Enter North Carolina Senate Race, Lifting Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-10-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/target-drops-popular-perk-for-shoppers-after-more-than-a-decade/">Target drops popular perk for shoppers after more than a decade</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-09-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/verizon-claims-it-got-threats-from-byron-allen-owner-of-the-weather-channel-over-alleged-race-discrimination/">Verizon claims it got threats from Byron Allen, owner of the Weather Channel, over alleged race discrimination</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-08-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/norway-spying-russia-iran.html">Guard at U.S. Embassy in Norway Charged With Spying for Russia and Iran</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-04-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/norway-spying-russia-iran.html">Guard at U.S. Embassy in Norway Charged With Spying for Russia and Iran</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-04-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/canadian-ice-death-noviello-report-1.7592328?cmp=rss">Canadian who died in ICE custody reported health issues weeks earlier, agency says</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-20-02-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/texas-official-blames-forecasts-for-delayed-floods-response-5d8cb1fa">Texas Official Blames Forecasts for Delayed Floods Response</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-19-56-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/kari-lake-voa-dismissals-dismantling/">Kari Lake moves to consolidate her power to dismantle Voice of America</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-19-54-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp82617l37zo">Graduate wins award for self-made food bank</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-51-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-putin-a-nebuchadnezzar-or-pharaoh-6ab1340f">Opinion | Is Putin a Nebuchadnezzar or Pharaoh?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-19-48-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/martin-luther-king-mlk-legacy-politics-national-archives.html">MLK Files Release Renews Debate Over His Legacy</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-46-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-23/trump-unveils-ai-action-plan">Tech companies want to move fast. Trump's 'AI Action Plan' aims to cut 'red tape'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-19-45-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-23/trump-unveils-ai-action-plan">Tech companies want to move fast. Trump's 'AI Action Plan' aims to cut 'red tape'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-19-45-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9dg72155q5o">Ten workers killed battling wildfires in Turkey</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-43-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy0we9kvr5wo">Idaho student killer sentenced to life in prison, but mysteries in the case remain</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-42-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/education-department-will-investigate-scholarships-for-daca-students.html">Education Department Investigates Scholarships for DACA Students</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-37-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/education-department-will-investigate-scholarships-for-daca-students.html">Education Department Investigates Scholarships for DACA Students</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-37-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/goldman-and-bny-team-up-to-tokenize-money-market-funds-4d01b4d5?mod=rss_markets_main">Goldman and BNY Team Up to Tokenize Money-Market Funds</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-19-37-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0rvk25v5lxo">Bryan Kohberger gets four life sentences for murdering Idaho college students</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/plane-crash-peltola-alaska-antlers.html">Plane in Alaska Crash Was Overloaded With Moose Meat and Antlers, N.T.S.B. Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-33-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/plane-crash-peltola-alaska-antlers.html">Plane in Alaska Crash Was Overloaded With Moose Meat and Antlers, N.T.S.B. Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-33-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/bryan-kohberger-idaho-victims.html">Bryan Kohberger&#8217;s Victims&#8217; Families Express Grief and Anger</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-30-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-washington.html">How Epstein Has Consumed Washington, From the White House to Congress and Beyond</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-27-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-washington.html">How Epstein Has Consumed Washington, From the White House to Congress and Beyond</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-27-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/science/fungus-spun-atlas-mychorrhizal.html">New Global Atlas Highlights Surprising Hot Spots of Fungal Biodiversity</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-25-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9w19vxjr44o">Backlash grows after Zelensky strips anti-corruption bodies of independence</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-24-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/katie-holmes-joshua-jackson-1.7591812?cmp=rss">As Katie Holmes and Joshua Jackson reunite, here's why it might just heal millennials</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-19-23-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/arts/music/ozzy-osbourne-wildest-moments.html">Biting a Bat and 5 Other Wild Moments From Ozzy Osbourne&#8217;s Life</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-22-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/hakeem-jeffries-recruiting-new-digital-aide-after-photoshop-fail-warped-area-around-his-hips/">Hakeem Jeffries recruiting &#8216;dynamic and highly skilled&#8217; digital manager after Photoshop fail warped his hips</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-19-18-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/health/pepfar-shutdown.html">U.S. Quietly Drafts Plan to End Program That Saved Millions From AIDS</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-13-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/matthew-perry-death-guilty-plea-1.7592235?cmp=rss">Doctor who sold Friends actor Matthew Perry ketamine before death pleads guilty</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-19-12-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-head-start-government-accountability-office.html">Trump Administration Illegally Withheld Head Start Funds, Watchdog Finds</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-11-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-head-start-government-accountability-office.html">Trump Administration Illegally Withheld Head Start Funds, Watchdog Finds</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-11-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-head-start-government-accountability-office.html">Trump Administration Illegally Withheld Head Start Funds, Watchdog Finds</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-11-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c5yp1r29nr9o">Watch: 'Living is how I honour them' - Families address Idaho murderer</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-18-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c5yp1r29nr9o">Watch: 'Living is how I honour them' - Families address Idaho murderer</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-18-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/fema-director-defends-response-to-texas-flooding-during-a-hearing-with-lawmakers.html">FEMA&#8217;s director defends the response to Texas flooding during a hearing with lawmakers.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-51-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/fema-director-defends-response-to-texas-flooding-during-a-hearing-with-lawmakers.html">FEMA&#8217;s director defends the response to Texas flooding during a hearing with lawmakers.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-51-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/higher-prices-in-the-pipeline-due-to-trump-tariffs-deutsche-bank/">US importers bear brunt of Trump tariffs with higher consumer prices &#8216;in the pipeline&#8217;: Deutsche Bank</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-51-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/idaho-university-killings-sentence-1.7592179?cmp=rss">Family and friends of murdered Idaho students speak of love and anger at killer's sentencing</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-18-50-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/climate/pennsylvania-pittsburgh-light-pollution.html">Why This Pennsylvania City Put Its Streetlights on a Dimmer</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-48-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/cbs-mornings-co-host-tony-dokoupil-rips-jon-stewart-says-one-sided-stephen-colbert-went-too-left/">&#8216;CBS Mornings&#8217; co-host Tony Dokoupil rips Jon Stewart, says &#8216;one-sided&#8217; Stephen Colbert went too left</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-45-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/science/ai-history-ancient-rome-google-deepmind.html">A.I. May Be the Future, but First It Has to Study Ancient Roman History</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-44-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/skydance-tells-fcc-it-will-scrap-dei-appoint-media-bias-official-at-cbs-news/">Skydance tells FCC it will scrap DEI, appoint media bias official at CBS News</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-42-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/william-mcneil-jr-jacksonville-sheriff-video.html">Video Shows Jacksonville Police Officer Punching Man at Traffic Stop</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-36-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/william-mcneil-jr-jacksonville-sheriff-video.html">Video Shows Jacksonville Police Officer Punching Man at Traffic Stop</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-36-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/vladimir-putin-kept-claims-hillary-clinton-had-physical-psycho-emotional-problems-under-wraps/">Putin knew Hillary Clinton had physical, &#8216;psycho-emotional&#8217; problems &#8212; but kept it quiet during 2016 campaign: Gabbard</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-20-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/vladimir-putin-kept-claims-hillary-clinton-had-physical-psycho-emotional-problems-under-wraps/">Putin knew Hillary Clinton had physical, &#8216;psycho-emotional&#8217; problems &#8212; but kept it quiet during 2016 campaign: Gabbard</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-20-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/matthew-perry-ketamine-doctor-guilty-plea">Matthew Perry's 'Dr. P' pleads guilty to supplying actor with ketamine prior to death</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-18-17-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/climate-environment/2025/07/23/world-court-climate-ruling/">U.N. court rules countries have duty to limit greenhouse emissions</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-18-11-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/trump-trade-japan-election.html">How Japan Clinched a Trade Deal With Trump Just Days Ahead of the Tariff Deadline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-03-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/trump-trade-japan-election.html">How Japan Clinched a Trade Deal With Trump Just Days Ahead of the Tariff Deadline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-03-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/burned-body-found-in-brush-fire-in-santa-clarita">Burned body found in brush fire in Santa Clarita</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-17-55-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/military-police-civilian-detainment-1.7592041?cmp=rss">Military police watchdog calls public hearing into alleged civilian detention at Montreal base</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-17-38-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/dem-in-ultra-competitive-house-race-bases-campaign-in-dc-three-hours-outside-district/">James Osyf, Dem in ultra-competitive House race, listed as owner of $1.7M DC home &#8212; 3 hours outside district he&#8217;s gunning for</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-17-29-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyld3vwqwzo">Air India crash victim's son says he received 'other' remains</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-17-23-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/william-mcneil-jacksonville-officers-punch/">No charges for Jacksonville officers who punched Black man during arrest</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-17-10-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/autos/us-japan-autos-trade-deal-stocks-2e4bb8aa?mod=pls_whats_news_us_business_f">Detroit Carmakers Blast Japan Trade Deal, but Their Shares Are Rallying Anyway</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-17-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cqx25d7q1r1o">Adult dies with listeriosis as outbreak investigated</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-17-01-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/candace-owens-sued-by-french-president-emanuel-macron-and-his-wife-for-defamation/">Emanuel, Brigitte Macron sue Candace Owens for claiming French first lady was born a man who groomed her allegedly gay husband</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-16-59-32 +0000</span></div>
+            </li>
+        
+    </ul>
+</div>
+
+<div id="all7d" class="col-12">
+    <h2>All 7d</h2>
+    <ul>
+        
+            <li><a href="https://nypost.com/2025/07/24/world-news/a-cat-named-leonardo-da-pinchy-doesnt-want-your-affection-he-wants-to-steal-your-underwear/">A cat named Leonardo da Pinchy doesn&#8217;t want your affection &#8212; he wants to steal your underwear</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-56-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-federal-reserve-renovations-powell.html">The Fed Renovations Driving Trump&#8217;s Anger at Jerome Powell</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-54-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cnvmvqrnq7go">Thousands unable to make calls as EE and BT networks down</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-50-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/josh-shapiro-zohran-mamdani.html">Josh Shapiro Says Zohran Mamdani Fails to Condemn &#8216;Blatantly Antisemitic&#8217; Rhetoric</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-48-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/josh-shapiro-zohran-mamdani.html">Josh Shapiro Says Zohran Mamdani Fails to Condemn &#8216;Blatantly Antisemitic&#8217; Rhetoric</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-48-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/pam-bondi-launches-strike-force-after-declassified-intel-reveals-obama-admins-flawed-2016-trump-russia-probe/">AG Pam Bondi launches &#8216;strike force&#8217; after declassified intel reveals Obama admin&#8217;s flawed 2016 Trump-Russia probe</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/derrick-thompson-sentenced-to-59-years-in-prison-admits-to-killing-five-young-somali-women/601438131">Derrick Thompson sentenced to 59 years in prison, admits to killing five young Somali women in crash</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-45-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/sports/hulk-hogan-dead.html">Hulk Hogan, Superstar of Pro Wrestling, Dies at 71</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html">What to Know About the Thailand-Cambodia Clash</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html">What to Know About the Thailand-Cambodia Clash</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-43-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/obituaries/2025/07/24/hulk-hogan-wrestler-dead/">Wrestling superstar Hulk Hogan dies at 71, WWE says</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-40-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/trump-walks-back-threat-to-strip-fed-money-from-elon-musk-companies-as-feud-cools/">Trump walks back threat to strip fed money from Elon Musk companies as feud cools</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/trump-walks-back-threat-to-strip-fed-money-from-elon-musk-companies-as-feud-cools/">Trump walks back threat to strip fed money from Elon Musk companies as feud cools</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2025/07/24/trump-powell-federal-reserve-visit/">Trump to visit the Federal Reserve in escalation of pressure campaign</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-39-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjd2de8zz5go">Justice department official to meet Epstein accomplice Maxwell</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-38-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjd2de8zz5go">Justice department official to meet Epstein accomplice Maxwell</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-38-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/eliotte-heinz-family-issues-heartbreaking-statement/">Family of Eliotte Heinz, student found dead in Mississippi River, issues heartbreaking statement: &#8216;Her walk home is finished&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-34-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly8ynegwn4o">Government to pay more for wind generated energy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly8ynegwn4o">Government to pay more for wind generated energy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/union-pacific-norfolk-southern-merger.html">Union Pacific in Talks to Acquire Norfolk Southern</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-32-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/josh-shapiro-bashes-mamdani-over-failure-to-condemn-blatantly-antisemitic-extremists/">PA Gov. Josh Shapiro bashes NYC mayoral candidate Zohran Mamdani over failure to condemn &#8216;blatantly antisemitic&#8217; extremists</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-31-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/trump-administration-greenlights-chevron-to-resume-pumping-oil-in-venezuela-0353262b">Trump Administration Greenlights Chevron to Resume Pumping Oil in Venezuela</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-31-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/gaza-starvation.html">Gazans Are Dying of Starvation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/gaza-starvation.html">Gazans Are Dying of Starvation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/arts/design/amy-sherald-smithsonian-censorship.html">Amy Sherald Cancels Her Smithsonian Show, Citing Censorship</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-30-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/hulk-hogan-icon-in-professional-wrestling-dies-at-age-71/601442929">Hulk Hogan, icon in professional wrestling, dies at age 71</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-30-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash">Live Updates: Thailand Says 12 Killed in Border Clashes With Cambodia</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/many-thai-civilians-fled-after-gunfire-and-explosions-rocked-the-region">Many Thai civilians fled after gunfire and explosions rocked the region.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/many-thai-civilians-fled-after-gunfire-and-explosions-rocked-the-region">Many Thai civilians fled after gunfire and explosions rocked the region.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-28-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-sent-to-idaho-maximum-security-instituteheres-what-was-on-the-menu-for-his-first-night/">Bryan Kohberger sent to Idaho&#8217;s hellhole max security prison&#8212;here&#8217;s what was on the menu for his first night</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-28-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/joe-rogan-gushes-over-hunter-biden-after-crack-cocaine-interview/">Joe Rogan gushes Hunter Biden &#8216;smarter than his dad&#8217; after &#8216;crack cocaine&#8217; interview: &#8216;He could be president&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-26-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cq8z8kdd8zvo">Shoplifting hits record high in England and Wales</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-24-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/texas-ag-under-scrutiny-for-tax-breaks-mortgage-fraud/">Texas AG under scrutiny for tax breaks, mortgage fraud</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/texas-ag-under-scrutiny-for-tax-breaks-mortgage-fraud/">Texas AG under scrutiny for tax breaks, mortgage fraud</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/national-security/2025/07/24/american-killed-west-bank-van-hollen/">Democrats demand U.S. investigation of American&#8217;s death in West Bank</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-16-24-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/gop-senators-demand-special-counsel-probe-obama-russiagate-intrigue/">GOP senators demand special counsel probe Obama Russiagate intrigue</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-23-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/gop-senators-demand-special-counsel-probe-obama-russiagate-intrigue/">GOP senators demand special counsel probe Obama Russiagate intrigue</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-23-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/israel-minister-gaza-driving-out.html">As Starvation Rises, Israeli Minister Says Israel Is &#8216;Driving Out&#8217; Gazans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/israel-minister-gaza-driving-out.html">As Starvation Rises, Israeli Minister Says Israel Is &#8216;Driving Out&#8217; Gazans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/cyprus-wildfires-heat.html">Sprawling Wildfires Kill 2 and Force Evacuations in Cyprus Amid Stifling Heat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/cyprus-wildfires-heat.html">Sprawling Wildfires Kill 2 and Force Evacuations in Cyprus Amid Stifling Heat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/north-carolina-senate-michael-whatley-rnc-chair-trump-support-b1909c7f">RNC Chair Michael Whatley is expected to announce a run for Senate in North Carolina in the coming days, with the support of President Trump</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cvgn2rwk2lyo">He went to get aid and didn't come back - stories of people killed in Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y0ydnvjwpo">Benin names Spike Lee and wife ambassadors for African-Americans in the US</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y0ydnvjwpo">Benin names Spike Lee and wife ambassadors for African-Americans in the US</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-16-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/europe-nears-us-trade-deal.html">Europe Nears U.S. Trade Deal, but Stands Ready to Retaliate</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-15-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/montebello-hatchet-attack-2-dead">Man, boy found dead at Montebello apartment complex after alleged hatchet attack</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-16-12-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/bacteria-shuts-down-beaches-across-hennepin-county/601442337">Unsafe levels of bacteria shut down beaches across Hennepin County</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-16-10-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cvg9grj2xj2o">Inside the gold rush village hit by mine collapse tragedy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-07-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/us/trump-federal-reserve-powell/heres-what-to-know">Here&#8217;s what to know.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-04-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/us/trump-federal-reserve-powell/heres-what-to-know">Here&#8217;s what to know.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-04-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c20n0e8vqq8o">Four things we learned about Idaho murderer Bryan Kohberger from unsealed documents</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-16-03-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/canada-retail-sales-look-to-rebound-after-1-1-drop-in-may-0ea99ecc">Canada Retail Sales Look to Rebound After 1.1% Drop in May</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-16-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/health/unitedhealth-medicare-justice-department.html">UnitedHealth Will Cooperate With Federal Probe of Its Medicare Billing Practices</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-16-01-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/cbs-news-names-longtime-insider-tanya-simon-to-lead-60-minutes/">CBS News names longtime insider Tanya Simon to lead &#8216;60 Minutes&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-16-00-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/nyc-comptroller-brad-lander-shockingly-suggests-mayor-eric-adams-is-in-the-epstein-files-drawing-furious-response-from-city-hall-defamatory-filth/">NYC Comptroller Brad Lander shockingly suggests Mayor Adams is in &#8216;Epstein files,&#8217; drawing furious response from City Hall</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-59-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-24-2025?mod=rss_markets_main">Stock Market Today: Dow Falls; Trade Talks, Earnings in Spotlight</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy5w5nyd5xzo">Watchdog blames 'disproportionate force' by Kenya police for protest deaths</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-58-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/middleeast/saudi-investment-syria.html">Saudi Arabia Pledges to Invest More Than $6 Billion in Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/unitedhealth-group-cooperating-with-federal-investigation-of-its-medicare-business/601442302">In a reversal, UnitedHealth acknowledges cooperating with federal investigation in Medicare probe</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-15-57-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/elections/mypillow-founder-challenge-winnings.html">MyPillow Founder, Mike Lindell, Will Not Pay out &#8216;Challenge&#8217; Winnings, Appeals Court Rules</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-56-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-53-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/curtis-sliwa-finally-gets-sit-down-with-nyc-business-leaders-as-mayor-race-heats-up/">Curtis Sliwa finally gets sit-down with NYC business leaders as mayoral race heats up</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-53-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/mcdonalds-to-launch-dirty-sodas-flavored-cold-brews-to-win-over-gen-z/">McDonald&#8217;s launching &#8216;dirty sodas,&#8217; flavored cold brews in push to win over Gen Z</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-52-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-files-named.html">Bondi Told Trump His Name Appeared in Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-48-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-files-named.html">Bondi Told Trump His Name Appeared in Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-48-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/thailand-cambodia-border-conflict-explained/">Why Thailand and Cambodia are fighting again over the long-disputed border</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-15-47-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/ukraine-protests-corruption-zelensky-military-spending.html">The Anticorruption Watchdogs at the Center of Protests Against Zelensky</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-46-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/ukraine-protests-corruption-zelensky-military-spending.html">The Anticorruption Watchdogs at the Center of Protests Against Zelensky</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-46-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/luxury-titan-bernard-arnault-is-pushing-world-leaders-to-avert-a-trade-war-eb3fb76c?mod=pls_whats_news_us_business_f">Luxury Titan Bernard Arnault Is Pushing World Leaders to Avert a Trade War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-45-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdeze706jw8o">Corbyn launches new party to 'take on rich and powerful'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-36-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/trump-to-tour-federal-reserve-ramping-up-pressure-campaign-on-powell-58df9734">President Trump will visit the Federal Reserve on Thursday, joining a previously arranged tour of the construction site where the central bank is renovating its headquarters</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/murders-crime-us-covid-19.html">After Surge During Pandemic, Homicides Fall Significantly</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-35-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cqjq51vvello">Tesla pledges to make cheaper cars as problems mount</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-35-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cqjq51vvello">Tesla pledges to make cheaper cars as problems mount</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-35-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/most-us-adults-still-support-legal-abortion/">Most US adults still support legal abortion 3 years after Roe was overturned, poll finds</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-33-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/russia-plane-crash-eastern-amur-angara/">Plane crashes in Russia&#8217;s far east, killing all 48 on board</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-15-28-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/ghislaine-maxwell-epstein-interview.html">Justice Dept. Expected to Interview Epstein Associate Maxwell in Florida on Thursday</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/ghislaine-maxwell-epstein-interview.html">Justice Dept. Expected to Interview Epstein Associate Maxwell in Florida on Thursday</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/south-korea-trump-tariffs.html">South Korea Jockeys for a Deal With Trump at Least as Good as Japan&#8217;s</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/south-korea-trump-tariffs.html">South Korea Jockeys for a Deal With Trump at Least as Good as Japan&#8217;s</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/south-korea-trump-tariffs.html">South Korea Jockeys for a Deal With Trump at Least as Good as Japan&#8217;s</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c307ggj492vo">Starmer and Modi sign &#163;6bn India-UK trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-20-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c307ggj492vo">Starmer and Modi sign &#163;6bn India-UK trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-20-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c307ggj492vo">Starmer and Modi sign &#163;6bn India-UK trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-20-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/education/2025/07/18/antisemitism-task-force-dei-universities-trump/">Inside the powerful task force spearheading Trump&#8217;s assault on colleges, DEI</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-15-16-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1ljlvg1e7eo">Trump to visit Fed as pressure on Powell mounts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-16-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1ljlvg1e7eo">Trump to visit Fed as pressure on Powell mounts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-16-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-trump-birthday-book.html">Epstein&#8217;s Estate Includes Book Said to Have Note From Trump, a Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-14-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-trump-birthday-book.html">Epstein&#8217;s Estate Includes Book Said to Have Note From Trump, a Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-14-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c24v47l66z4o">Energy grants for low-income households</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-13-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/bryan-kohberger-gave-eerie-heart-picture-to-his-lawyer-after-sentencing-hearing/">Bryan Kohberger gave eerie heart picture to his lawyer after sentencing hearing</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-15-08-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-24/tanya-simon-named-executive-producer-of-60-minutes">CBS News names veteran producer Tanya Simon to lead '60 Minutes'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-15-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/china-could-be-a-player-in-efforts-to-calm-cambodia-thailand-tensions">China could be a player in efforts to calm Cambodia-Thailand tensions.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-03-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/china-could-be-a-player-in-efforts-to-calm-cambodia-thailand-tensions">China could be a player in efforts to calm Cambodia-Thailand tensions.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-15-03-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxk4ywppzo">EU chief says ties with China at 'inflection point'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0rvr84l2jzo">Public frustrated by asylum seeker housing - minister</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-15-01-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/the-religious-minority-at-the-heart-of-israels-standoff-with-syria-41b7cb81">The Religious Minority at the Heart of Israel&#8217;s Standoff With Syria</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-political-crisis">The border clashes come as a political crisis rocks Thailand.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-58-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-political-crisis">The border clashes come as a political crisis rocks Thailand.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-58-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/uber-of-education-app-launches-public-school-alternative/">&#8216;Uber of education&#8217; app connecting parents to public school alternatives launches</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-58-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/global/global-economies-show-resilience-despite-tariff-fears-surveys-show-51a74a83">Global Economies Show Resilience Despite Tariff Fears, Surveys Show</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/michael-whatley-north-carolina-senate.html">Michael Whatley, R.N.C. Chairman, to Run for Senate in North Carolina</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-53-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/michael-whatley-north-carolina-senate.html">Michael Whatley, R.N.C. Chairman, to Run for Senate in North Carolina</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-53-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/dozens-injured-including-child-in-russian-strikes-using-new-type-of-bomb/">Dozens injured, including child, in Russian strikes using new type of bomb being tested on civilians</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-53-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/nj-transit-bus-crash-outside-port-authority-injures-more-than-two-dozen/">NJ Transit bus crashes with another bus outside Port Authority, injuring more than two dozen people</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-49-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/trump-bank-federal-reserve.html">Trump to Visit Federal Reserve As Campaign Against Powell Intensifies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-45-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/trump-bank-federal-reserve.html">Trump to Visit Federal Reserve As Campaign Against Powell Intensifies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-45-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/trump-bank-federal-reserve.html">Trump to Visit Federal Reserve As Campaign Against Powell Intensifies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-45-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/north/virginia-mearns-named-canada-s-arctic-ambassador-1.7592855?cmp=rss">Iqaluit resident Virginia Mearns named Canada's Arctic ambassador</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-14-41-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/heres-a-look-at-surin-the-thai-province-at-the-center-of-the-conflict-with-cambodia">Here&#8217;s a look at Surin, the Thai province at the center of the conflict.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-39-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/heres-a-look-at-surin-the-thai-province-at-the-center-of-the-conflict-with-cambodia">Here&#8217;s a look at Surin, the Thai province at the center of the conflict.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-39-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/russia/russian-passenger-plane-crashes-near-border-with-china-1cc246ce">Russian Plane Crashes, Killing Nearly 50 Aboard</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-37-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/beijings-trade-tactics-ukraine-stance-cast-pall-over-europe-china-ties-3cb35230">Beijing&#8217;s Trade Tactics, Ukraine Stance Cast Pall Over Europe-China Ties</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/ecb-interest-rate.html">E.C.B. Pauses Rate-Cutting Campaign, as Trade Disputes Cloud Outlook</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-32-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cj9v9083lw3o">Zelensky announces new draft law on anti-corruption bodies after protests</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-14-31-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/goldman-sachs-puts-brakes-on-layoffs-after-strong-q2-ft/">Goldman Sachs puts brakes on layoffs after strong Q2: FT</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-30-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/migrant-dad-facing-deportation-after-taking-wrong-turn-and-accidentally-leaving-us-attorney/">Migrant dad facing deportation after taking wrong turn and accidentally leaving US: attorney</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-29-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/spain-nato-spending-weapons.html">Spain Is Reluctant to Spend More on Security Despite NATO Pressure</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-27-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/spain-nato-spending-weapons.html">Spain Is Reluctant to Spend More on Security Despite NATO Pressure</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-27-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/rnc-boss-michael-whatley-to-jump-in-nc-senate-race-after-lara-trump-passes/">RNC boss Michael Whatley to jump in NC Senate race after Lara Trump passes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-26-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/rnc-boss-michael-whatley-to-jump-in-nc-senate-race-after-lara-trump-passes/">RNC boss Michael Whatley to jump in NC Senate race after Lara Trump passes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-26-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/fitness-guru-jillian-michaels-wants-a-lot-more-banned-than-food-dyes/">Fitness guru Jillian Michaels wants &#8216;a lot more banned&#8217; than food dyes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-25-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/fitness-guru-jillian-michaels-wants-a-lot-more-banned-than-food-dyes/">Fitness guru Jillian Michaels wants &#8216;a lot more banned&#8217; than food dyes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-25-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/climate/montana-grizzly-bears-guard-dogs.html">Grizzlies Were Raiding Montana Farms. Then Came Some Formidable Dogs.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-22-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/bangladesh-plane-crash-school-children-deaths.html">Children Burned by Plane Crash in Bangladesh Die Days Later</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-21-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/bangladesh-plane-crash-school-children-deaths.html">Children Burned by Plane Crash in Bangladesh Die Days Later</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-21-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/ecb-holds-rates-steady-as-u-s-tariff-negotiations-cloud-outlook-14961897">The European Central Bank paused its most aggressive easing campaign since the global financial crisis as it awaits clarity on President Trump&#8217;s tariffs</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-21-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/tesla-stock-plunges-as-elon-musk-admits-a-few-rough-quarters-could-be-ahead/">Tesla stock plunges as Elon Musk warns company may face &#8216;a few rough quarters&#8217; ahead</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-19-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/biden-sells-memoir-for-measly-10m-less-than-obamas-bill-clinton/">Biden sells memoir for millions less than Obamas, Bill Clinton in embarrassing blow</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-14-14-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/plane-crash-russia.html">Plane Crashes in Russia&#8217;s Far East, Killing All 49 Onboard</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-14-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/europe/plane-crash-russia.html">Plane Crashes in Russia&#8217;s Far East, Killing All 49 Onboard</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-14-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/unesco-china-us.html">As Trump Quits UNESCO, China Expands Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-13-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/unesco-china-us.html">As Trump Quits UNESCO, China Expands Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-13-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/canada-miners-trapped.html">Collapse at Red Chris Mine in British Columbia Traps 3 Workers</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-13-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/china-eu-trade-ukraine.html">China and E.U. Reach Narrow Agreements on Climate and Rare Earths</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-05-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/china-eu-trade-ukraine.html">China and E.U. Reach Narrow Agreements on Climate and Rare Earths</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-05-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/china-eu-trade-ukraine.html">China and E.U. Reach Narrow Agreements on Climate and Rare Earths</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-05-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/travel/southwest-airlines-lawsuit-racism.html">Southwest Passenger Says She Was Ejected From Flight Based on Her Race</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-14-01-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/twins-trade-deadline-ryan-jax-duran-castro-wallner-larnach/601440993">With trade deadline looming, who might the Twins put on the market?</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-14-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/returnless-returns-retailers-loyalty-07040a95?mod=pls_whats_news_us_business_f">Why &#8216;Returnless Returns&#8217; Can Pay Off for Companies</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-14-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/health/rfk-jr-flu-vaccines-thimerosal.html">RFK Jr. Rescinds Endorsement of Flu Vaccines With Preservative Falsely Linked to Autism</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-56-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/hikers-in-nazi-uniforms-stopped-by-police-in-swiss-alps/">Hikers dressed as Nazi soldiers are stopped by police, ordered to remove offensive symbols</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-54-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/newly-unsealed-bryan-kohberger-docs-reveal-creepy-incidents-at-home-before-university-of-idaho-murders/">Newly unsealed Bryan Kohberger docs reveal creepy incidents at victims&#8217; home before University of Idaho murders</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-49-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/edmonton/plan-to-accept-newcomer-parents-and-grandparents-will-strain-health-services-alberta-warns-1.7592815?cmp=rss">Plan to accept newcomer parents and grandparents will strain health services, Alberta warns</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-13-38-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/disney-tourist-charged-with-child-abuse-after-manhandling-teen-over-parade-spot/">Tourist charged with child abuse after allegedly manhandling teen to get better parade spot at Disney World</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-37-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g2gw62jnpo">We might get killed, but we have to get food, injured Gazan tells BBC</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-36-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g2gw62jnpo">We might get killed, but we have to get food, injured Gazan tells BBC</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-36-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/unesco-trump-us-withdrawal.html">What to Know About the U.S. Move to Withdraw From UNESCO</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-34-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/unesco-trump-us-withdrawal.html">What to Know About the U.S. Move to Withdraw From UNESCO</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-34-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/media/meghan-mccain-calls-cnns-kaitlan-collins-a-hack-and-imbecile/">Meghan McCain calls CNN&#8217;s Kaitlan Collins a &#8216;hack&#8217; and &#8216;imbecile,&#8217; demands she be stripped of WH credentials</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-32-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/deputy-ag-todd-blanche-will-meet-with-ghislaine-maxwell-within-hours-sources/">Deputy AG Todd Blanche will meet with Ghislaine Maxwell within hours, sources say</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-13-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99490m97epo">No survivors after plane carrying 48 people goes down in Russian far east</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-31-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99490m97epo">No survivors after plane carrying 48 people goes down in Russian far east</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-31-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/news-organizations-journalists-gaza-face-starvation-1.7592779?cmp=rss">BBC, Reuters among 4 news organizations saying their journalists face starvation in Gaza</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-13-25-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c3070nlqnq3o">Former head of Central African football body jailed for war crimes</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-24-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c3070nlqnq3o">Former head of Central African football body jailed for war crimes</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-13-24-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-subpoena-justice-dept-epstein-files.html">House Panel Votes to Subpoena Justice Dept. for Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-18-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-subpoena-justice-dept-epstein-files.html">House Panel Votes to Subpoena Justice Dept. for Epstein Files</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-18-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-cambodia">Thai and Cambodian Troops Fire at Each Other as Relations Implode</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-13-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2025/07/24/world/thailand-cambodia-border-clash/thailand-cambodia">Thai and Cambodian Troops Fire at Each Other as Relations Implode</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-13-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/science/astronomy-k218b-biosignature-life.html">Hints of Life on Exoplanet K2-18b Recede Even Further</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-10-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/icj-hague-climate-change.html">Top U.N. Court Says Countries Must Act on Climate Change</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-10-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/jobs/fewer-u-s-jobless-claims-were-filed-last-week-5a7188a2">Fewer U.S. Jobless Claims Were Filed Last Week</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-13-07-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/energy-environment/governors-pjm-electric-grid.html">Governors Rebuke Managers of Largest U.S. Electric Grid</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-04-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/energy-environment/governors-pjm-electric-grid.html">Governors Rebuke Managers of Largest U.S. Electric Grid</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-13-04-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-democrats-republicans.html">In Epstein, Democrats Find Weapon Against Trump and Republicans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-59-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/epstein-democrats-republicans.html">In Epstein, Democrats Find Weapon Against Trump and Republicans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-59-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/cycling/articles/c0m8379g128o">Can Le Court make women's Tour history for Africa?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-46-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/americas/venezuela-american-convicted-murder.html">American Convicted of Murder Among Those Trump Rescued From Venezuela Prison</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-40-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/americas/venezuela-american-convicted-murder.html">American Convicted of Murder Among Those Trump Rescued From Venezuela Prison</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-40-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/24/american-airlines-flight-attendant-bathroom-sentencing/">Flight attendant who filmed girls in plane bathrooms sentenced to 18&#189; years</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-12-32-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/dealbook/musk-tesla-rough-times.html">Elon Musk Sees &#8216;Rough&#8217; Times Ahead for Tesla</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-17-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/us-news/american-airlines-flight-attendant-who-admitted-to-secretly-filming-young-girls-in-plane-bathroom-learns-fate/">American Airlines flight attendant who admitted to secretly filming young girls in plane will spend years behind bars</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-12-13-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2k1k0kngeno">Two die in car during Cyprus wildfire as 44C heat expected</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-08-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2k1k0kngeno">Two die in car during Cyprus wildfire as 44C heat expected</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-08-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cd787n4pqxro">Rescue under way for three workers trapped by Canada mine collapse</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-07-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cd787n4pqxro">Rescue under way for three workers trapped by Canada mine collapse</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-07-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/crene7d5w2jo">Russia and Ukraine trade drone attacks after latest ceasefire talks</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-12-04-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/climate/wildfires-forest-carbon-sequestration.html">For 1st Time, Fires Are Biggest Threat to Forests&#8217; Climate-Fighting Superpower</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-12-00-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/24/dupes-store-brands-savings/">How the rise of dupes and store brands could change the way you shop</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/poland-oil-europe.html">Canadian Company Claims to Find Large Oil Reserves in Poland</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-11-54-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/poland-oil-europe.html">Canadian Company Claims to Find Large Oil Reserves in Poland</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-11-54-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/turkey-central-bank-returns-to-rate-cuts-path-after-unrest-forced-hike-75d1a7d3">Turkey Central Bank Returns to Rate Cuts Path After Unrest Forced Hike</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-11-40-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c20r07dg6kro">What do we know about the Epstein files?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-11-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/24/ohio-police-lorain-ambush-shot/">Gunman opens fire on Ohio police officers on lunch break, wounding three</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-11-28-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/slain-hamas-chief-yahya-sinwars-smuggled-out-of-gaza-and-is-already-remarried-report/">Slain Hamas chief Yahya Sinwar&#8217;s widow smuggled out of Gaza &#8212; and is already remarried: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-11-27-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/thailand-cambodia-deadly-exchange-1.7592763?cmp=rss">Thailand deploys fighter jet in border dispute escalation with Cambodia</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-11-20-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ce3n3we8g57o">Police take no action over Alex Salmond complaint</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-11-17-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/bryan-kohberger-sentencing-takeaways.html">Bryan Kohberger Sentenced to Life in Prison for Idaho Student Murders: 5 Takeaways</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-11-16-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/walz-administration-faces-more-scrutiny-as-fbi-investigates-fraud-in-another-state-program/601438590">Walz administration faces more scrutiny as FBI investigates fraud in another state program</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cd0v1y0nvl1o">How are islanders coping with the cost of living?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-11-11-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/pennsylvania-fake-nurse-shannon-womack/">&#8216;Impostor&#8217; nurse used aliases to fraudulently treat patients, officials say</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-11-01-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minnesota-brewery-closing-craft-beer-boom-thc-tariff-surly-tax-minneapolis/601441470">Why are so many Minnesota breweries closing? Here&#8217;s a six-pack of reasons.</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minnetonka-orchard-everly-farms-minnetrista-winery-vineyard-new-restaurant-weigel/601385221">A near-death experience prompts couple to buy beloved Minnetrista orchard</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/viral-tiktok-trend-gen-z-stare/601441455">Opinion | What&#8217;s up with the &#8216;Gen Z stare&#8217;?</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/books-most-popular-american-schools-class-982c57fd">The Most-Taught Books in American Classrooms Have Barely Changed in 30 Years</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdjxje2pje1o">Why are Thailand and Cambodia fighting at the border?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdjxje2pje1o">Why are Thailand and Cambodia fighting at the border?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8z0y0eko">Twelve killed in Thailand-Cambodia military clashes on disputed border</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8z0y0eko">Twelve killed in Thailand-Cambodia military clashes on disputed border</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-58-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99p2mlyep5o">Four things you need to know about UK-India trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-36-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c99p2mlyep5o">Four things you need to know about UK-India trade deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-36-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/asia/thailand-and-cambodia-exchange-fire-in-deadly-border-clash-3b307ff0">Thailand and Cambodia Exchange Fire in Deadly Border Clash</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-10-35-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8j1j7n72ywo">BBC and news agencies warn journalists in Gaza at risk of starvation</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-25-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8j1j7n72ywo">BBC and news agencies warn journalists in Gaza at risk of starvation</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-25-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn86q3ezy87o">Use offices or lose them, Welsh government staff told</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-13-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/russia-far-east-tynda-plane-crash-1.7592755?cmp=rss">Plane crash in eastern Russia kills all 48 people on board</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-10-12-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9dgd1qyq29o">Inquiry into asylum seeker payment cards for gambling</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-10-10-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/cambodia-thailand-conflict-timeline.html">A Timeline of the Latest Conflict Between Cambodia and Thailand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-10-09-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/cambodia-thailand-conflict-timeline.html">A Timeline of the Latest Conflict Between Cambodia and Thailand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-10-09-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-24/epstein-files-obama-treason-trump">Calmes: Trump finds a new way to taint the office of the presidency</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-09-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/health/2025/07/24/vaccine-access-recommendations-covid-rfk/">All the ways your access to vaccines has changed under RFK Jr.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-10-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-24/food-delivery-robots-are-becoming-more-commonplace-in-los-angeles-neighborhoods">We may not have flying cars, but more food delivery bots are coming to L.A.</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-24/has-musk-lied-about-self-driving-teslas-california-says-so">Hiltzik: Has Musk lied about self-driving Teslas? California says so</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/inside-the-arms-race-to-win-the-new-luxury-cruise-ship-market/">Inside the &#8216;arms race&#8217; to win the new luxury cruise ship market</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/a-hot-protein-bar-company-has-added-a-wild-new-product-frozen-cod-fillets-c1046759?mod=pls_whats_news_us_business_f">A Hot Protein Bar Company Has Added a Wild New Product: Frozen Cod Fillets</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/i-took-a-week-off-to-escape-the-steady-hum-of-grim-news-heres-how-it-went">Lopez: I took a week off to escape the steady hum of grim news. It didn't go as planned</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/world-nation/story/2025-07-24/apartments-have-long-been-looked-down-upon-in-the-u-s-but-in-south-korea-they-are-king">Americans may aspire to single-family homes, but in South Korea, apartments are king</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/housing-tracker-for-june">Southern California home prices fall nearly 1% in June as market slows</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/chris-newman-is-at-the-center-of-the-immigration-fight-again">Arellano: Chris Newman is at the center of the immigration fight &#8212; again</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/report-none-of-8-killed-in-lake-tahoe-boat-tragedy-wore-life-jacket">None of the 8 people who died in Lake Tahoe boat disaster were wearing life jackets, probe finds</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/i-took-a-week-off-to-escape-the-steady-hum-of-grim-news-heres-how-it-went">Lopez: I took a week off to escape the steady hum of grim news. It didn't go as planned</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-24/united-states-sanctions-deaths">Contributor: Rethink sanctions. They're killing as many people as war does</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-24/chris-newman-is-at-the-center-of-the-immigration-fight-again">Arellano: Chris Newman is at the center of the immigration fight &#8212; again</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/trump-scotland-golf-clubs-starmer/">Trump swing through Scotland rekindles tension over golf properties</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-09-55-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/thailand-cambodia-armed-border-clash/">Thailand launches airstrike on Cambodia as border clash escalates</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-09-30-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/mcdonalds-to-test-dirty-sodas-and-flavored-cold-brews-to-cash-in-on-drinks-craze-6c3e0716?mod=pls_whats_news_us_business_f">McDonald&#8217;s to Test &#8216;Dirty Sodas&#8217; and Flavored Cold Brews to Cash In on Drinks Craze</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/mcdonalds-to-test-dirty-sodas-and-flavored-cold-brews-to-cash-in-on-drinks-craze-6c3e0716?mod=pls_whats_news_us_business_f">McDonald&#8217;s to Test &#8216;Dirty Sodas&#8217; and Flavored Cold Brews to Cash In on Drinks Craze</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/tech/ai/google-earnings-revenue-ai-642e4dcf?mod=rss_markets_main">Is AI Killing Google Search? It Might Be Doing the Opposite</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/downwardly-mobile-elites-love-zohran-mamdani-37729120">New York mayoral candidate Zohran Mamdani appeals to downwardly mobile millennials who embrace his zero-sum politics, writes Reihan Salam. But are those voters the future of the Democratic Party?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/zelensky-protests-ukraine-corruption.html">Zelensky Faces Criticism in Ukraine Over Effort to Rein In Corruption Agencies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-25-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/zelensky-protests-ukraine-corruption.html">Zelensky Faces Criticism in Ukraine Over Effort to Rein In Corruption Agencies</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-25-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy0wxxx9dg8o">'I did my best': Teacher dies after rescuing 20 kids from Bangladesh plane crash</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-09-14-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/travel/2025/07/24/us-passport-henley-ranking/">U.S. drops to lowest ranking yet on index of most powerful passports</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-09-09-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/business/uber-announces-womens-preferences-in-us-cities-for-female-rider-safety/">Uber announces feature allowing women to select female preference for riders, drivers</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-09-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/japan-matcha-tiktok-instagram.html">The Latest Casualty of Social Media Hype Is Your Matcha Supply</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-07-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/asia/japan-matcha-tiktok-instagram.html">The Latest Casualty of Social Media Hype Is Your Matcha Supply</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-07-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/texas-redistricting-republicans-democrats.html">Democrats Have Few Tools to Counter G.O.P. Redistricting</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-02-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/us/politics/texas-redistricting-republicans-democrats.html">Democrats Have Few Tools to Counter G.O.P. Redistricting</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-02-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/opendoor-krispy-kreme-meme-stocks.html">Opendoor and Krispy Kreme Are Part of a New Generation of Meme Stocks</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-09-01-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8j1kyrro">'See story through my eyes', says Bella Culley</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-08-58-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/chinese-students-mining-plant-death/">6 students drown after falling into slurry-filled tank on field trip</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-08-38-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/cyprus-wildfire-in-troodos-mountains-destroys-homes-and-cars-two-bodies-found/">Massive wildfire destroys homes, forces evacuations in Cyprus; 2 bodies found in burned-out car</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-08-25-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/carney-inuit-leaders-inuvik-1.7592211?cmp=rss">Inuit leaders meet Carney in N.W.T. to talk nation-building projects</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/climate-change-military-analysis-1.7592647?cmp=rss">Swapping weather bombs for real bombs: The debate over climate change as national security heats up</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/climate-change-military-analysis-1.7592647?cmp=rss">Swapping weather bombs for real bombs: The debate over climate change as national security heats up</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cwyq921zqqzo">White House pushes back after reports Trump is named in Epstein files</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-07-47-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/thailand-and-cambodia-exchange-fire-in-new-border-clashes-that-kill-at-least-1-civilian/">Thailand and Cambodia exchange fire in new border clashes, killing at least 11 civilians</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-07-33-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cr5vglq04zeo">UK vehicle making hits lowest level since 1953</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-07-26-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/police-officials-host-bear-drills-following-string-of-bear-attacks/">Police officials host &#8216;bear drills&#8217; following string of bear attacks</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-07-20-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/eu-china-leaders-meet/">Rebalancing relationship with China&#160;&#8216;essential,&#8217; E.U. president says</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-17-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/arts/music/ozzy-osbourne-birmingham.html">Ozzy Osbourne&#8217;s Death Draws Mourners, Including Drake, to the &#8216;Home of Heavy Metal&#8217;</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-07-15-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/24/uber-women-request-service/">Uber is testing a women-only driver service. Here&#8217;s how it works.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/24/uber-women-request-service/">Uber is testing a women-only driver service. Here&#8217;s how it works.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/24/gaza-starvation-israel-restrictions/">Mass starvation stalks Gaza as deaths from hunger rise</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-07-00-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/24/world-news/russia-angara-an-25-passenger-plane-goes-missing-in-far-east-heading-towards-tynda/">Plane crashes in&#160;Russia&#8217;s Far East, killing all 48 passengers and crew onboard</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-06-50-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/chinese-hackers-microsoft-sharepoint.html">Chinese Hackers Are Exploiting Flaws in Widely Used Software, Microsoft Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-06-32-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/chinese-hackers-microsoft-sharepoint.html">Chinese Hackers Are Exploiting Flaws in Widely Used Software, Microsoft Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-06-32-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/consumers/german-consumer-confidence-hit-by-economic-uncertainty-bc4fdb12">German Consumer Confidence Hit by Economic Uncertainty</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-06-24-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy4yj3rpjm8o">Tories must 'offer hope' in face of Reform threat - Badenoch</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-06-23-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn813m73x5zo">Australia to lift import ban on US beef after Trump tariffs tiff</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-06-16-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn813m73x5zo">Australia to lift import ban on US beef after Trump tariffs tiff</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-06-16-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp3ledjl4v8o">Baby bank issues plea for nappies amid shortage</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-05-06-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1k4rpg4ggeo">'My energy bills are so high I asked the council to buy back my flat'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-05-04-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/manzhouli-china-russia-economy.html">How a Chinese Border Town Keeps Russia&#8217;s Economy Afloat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-05-02-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/manzhouli-china-russia-economy.html">How a Chinese Border Town Keeps Russia&#8217;s Economy Afloat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-05-02-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyxkjrx19no">Assistant who accused Kanye West of sexual assault 'in hiding', lawyer says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-05-01-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9w19n45gyqo">City rate-rigging convictions quashed - what happens next?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-04-59-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/asia-u-s-trade-deals-pick-up-as-tariff-deadline-nears-cccbc644">Asia-U.S. Trade Deals Pick Up as Tariff Deadline Nears</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-04-51-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/briefing/russia-ukraine-trump-gaza-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-30-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/briefing/russia-ukraine-trump-gaza-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-30-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cr4wgywwg0qo">South Park to stream on Paramount+ after bidding war</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-04-14-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-japan-trade-deal-cars.html">How Trump&#8217;s Japan Deal Could Give Japanese Cars a Leg Up in the U.S.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-japan-trade-deal-cars.html">How Trump&#8217;s Japan Deal Could Give Japanese Cars a Leg Up in the U.S.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/business/trump-japan-trade-deal-cars.html">How Trump&#8217;s Japan Deal Could Give Japanese Cars a Leg Up in the U.S.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/24/world/falling-birthrates-economic-growth-pronatalism.html">Why One of the Causes of Falling Birthrates May Be Prosperity</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-04-00-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/rba-pushes-back-on-criticism-that-it-has-been-too-slow-to-cut-rates-f3e0a40c">RBA Pushes Back on Criticism That It Has Been Too Slow to Cut Rates</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g8nn3exn5o">Australian women win right to sue Qatar Airways over invasive searches</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-03-22-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/appeals-court-blocks-trumps-effort-to-end-birthright-citizenship-upholding-lower-court-order/">Appeals court blocks Trump&#8217;s effort to end birthright citizenship, upholding lower court order</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-03-03-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/columbia-reaches-deal-with-trump-administration-to-restore-federal-funds-2e3cfdc6">Columbia Agrees to Pay More Than $200 Million to Settle Trump Fight</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/columbia-reaches-deal-with-trump-administration-to-restore-federal-funds-2e3cfdc6">Columbia Agrees to Pay More Than $200 Million to Settle Trump Fight</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/trump-court-birthright-citizenship-1.7592729?cmp=rss">U.S. appeals court upholds block on Trump's bid to end birthright citizenship</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-03-00-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/us-weapons-defense-industry-missiles-ef2b676b?mod=pls_whats_news_us_business_f">The West&#8217;s Insatiable Demand for Missiles Boosting U.S. Weapons Makers</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/us-weapons-defense-industry-missiles-ef2b676b">The West&#8217;s Insatiable Demand for Missiles Boosting U.S. Weapons Makers</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/rare-purple-snail-on-socal-beach-may-be-sign-of-warming-oceans">Rare purple sea creature found on SoCal beach. Could warming waters be why?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-02-41-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cq8zljpvyk0o">Columbia University to pay $200m in settlement with Trump administration</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-02-38-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/macron-lawsuit-candace-owens-defamation.html">Macrons Sue Candace Owens, Accusing Her of Defamation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-34-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/macron-lawsuit-candace-owens-defamation.html">Macrons Sue Candace Owens, Accusing Her of Defamation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-34-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/columbia-university-trump-settlement-research-funds-1.7592711?cmp=rss">Columbia University agrees to pay $220M in deal with Trump administration</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-24-02-33-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c1e0x26gl5go">Can you un-bleach coral? BBC visits remote reef to find out</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-02-31-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c1e0x26gl5go">Can you un-bleach coral? BBC visits remote reef to find out</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-24-02-31-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/appeals-court-birthright-citizenship.html">Appeals Court Blocks Trump&#8217;s Attempt to Restrict Birthright Citizenship</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-23-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/appeals-court-birthright-citizenship.html">Appeals Court Blocks Trump&#8217;s Attempt to Restrict Birthright Citizenship</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-23-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-trump-republicans.html">Republicans Are Breaking With Trump Over Epstein Files, Polls Show</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-05-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-trump-republicans.html">Republicans Are Breaking With Trump Over Epstein Files, Polls Show</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-02-05-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/automakers-tariff-japan/">Why Japanese autos might become more attractive to U.S. customers</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-02-00-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/american-airlines-flight-attendant-bathroom-recording-sentenced.html">American Airlines Flight Attendant Who Filmed Minors in Lavatory Is Sentenced to 18.5 Years</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-01-36-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/congress-asked-to-halt-plan-to-shoot-nearly-half-million-barred-owls">House resolution seeks to stop plan to shoot nearly half a million owls</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-01-35-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/group-seeks-to-repeal-l-a-s-800-million-business-tax-citing-anti-job-climate">Group seeks to repeal L.A.'s $800-million business tax, citing 'anti-job climate'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-01-33-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/trump-targets-woke-ai-in-series-of-executive-orders-on-artificial-intelligence/">Trump targets &#8216;woke AI&#8217; in series of executive orders on artificial intelligence</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-01-31-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/bryan-kohberger-sentencing-idaho-murders/">Bryan Kohberger sentenced to life in prison for University of Idaho killings</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-24-01-11-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/california-teacher-stabbed-in-neck-in-italy-is-coming-home">California teacher stabbed in neck while on Italian vacation is returning home</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-01-07-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-spending-trump-foreign-aid.html">House Panel Approves Spending Bill That Rejects Some Trump Foreign Aid Cuts</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-01-04-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/house-spending-trump-foreign-aid.html">House Panel Approves Spending Bill That Rejects Some Trump Foreign Aid Cuts</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-01-04-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/trump-trade-deal-15-percent-tariffs-16aeb256">President Trump&#8217;s push to introduce a new standard for global trade is coming into sharper focus as U.S. and EU officials converge on a possible 15% tariff deal</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/russian-soldiers-view-ukraine-war-749a0494">&#8216;Commanders Saw Us as Expendable&#8217;: A Russian Soldier&#8217;s View of the War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/russian-soldiers-view-ukraine-war-749a0494">&#8216;Commanders Saw Us as Expendable&#8217;: A Russian Soldier&#8217;s View of the War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/energy-environment/edison-eaton-fire-fund-los-angeles.html">Southern California Edison Creates Fund for LA-Area Eaton Fire Victims</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-59-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/euclid-fire-grows-shuts-down-71-freeway-in-chino-hills">Crews make progress against the Euclid fire in Chino Hills</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-00-52-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/doj-intel-weaponization-task-force.html">Justice Dept. Announces Task Force to Assess &#8216;Weaponization&#8217; of Intelligence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-46-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/doj-intel-weaponization-task-force.html">Justice Dept. Announces Task Force to Assess &#8216;Weaponization&#8217; of Intelligence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-46-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/ukraine-urges-trump-to-provide-long-range-missiles-to-cripple-attack-deep-within-russia-report/">Ukraine urges Trump to provide long-range missiles to cripple, attack deep within Russia: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-00-38-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-ai-nuclear-weapons.html">Trump&#8217;s A.I. Challenge: Focus on Weapon Concerns or Woke-ism?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-32-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-ai-nuclear-weapons.html">Trump&#8217;s A.I. Challenge: Focus on Weapon Concerns or Woke-ism?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-32-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-ai-nuclear-weapons.html">Trump&#8217;s A.I. Challenge: Focus on Weapon Concerns or Woke-ism?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-32-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/novel-synthetic-drug-100-times-stronger-than-fentanyl-responsible-for-riverside-overdose">Novel synthetic drug 100 times stronger than fentanyl responsible for Riverside overdose</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-00-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/sports/story/2025-07-23/california-league-modesto">The California League is abandoning Modesto. How pro baseball might stick around</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-24-00-22-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/bryan-kohberger-idaho-student-murders-evidence.html">New Documents Shed Light on Bryan Kohberger and Idaho Student Murders</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-24-00-21-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/house-panel-votes-to-subpoena-bill-and-hillary-clinton-over-possible-links-to-ghislaine-maxwell/">House panel votes to subpoena Bill and Hillary Clinton over possible links to Ghislaine Maxwell</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-24-00-00-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democratic-donors-progressive-aoc-zohran-mamdani-825242e9">Progressive Democrats&#8217; fundraising strength poses a challenge to party leaders trying to nudge the message closer to the middle</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-24-00-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/articles/c74w2elr2x7o">From hospital bed to hero status - Bonmati 'could write a book'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-54-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/colbert-trump-democrats.html">Do Democrats Want a Fight Over Colbert?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-54-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/colbert-trump-democrats.html">Do Democrats Want a Fight Over Colbert?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-54-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clynwv7gn2do">Philippines goods to face 19% tariff, Trump says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-53-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2ezp9d7nk2o">How are trade deals actually negotiated?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-44-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/mississippi-river-missing-men-dead.html">3 Men Who Disappeared While Fishing in the Mississippi River Are Found Dead</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-44-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/thomas-a-durkin-dead.html">Thomas A. Durkin, Civil Liberties Lawyer for the Reviled, Dies at 78</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-44-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/thomas-a-durkin-dead.html">Thomas A. Durkin, Civil Liberties Lawyer for the Reviled, Dies at 78</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-44-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/kamala-harris-ex-lover-willie-brown-warns-it-will-be-difficult-for-her-to-win-california-governors-race-may-not-be-where-she-should-be-going/">Kamala Harris&#8217; ex-lover Willie Brown warns her of &#8216;difficult&#8217; road to win California governor&#8217;s race after resounding 2024 loss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-23-44-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/texas-floods-hearing-emergency-management.html">At Texas Flooding Hearing, State Officials Look Elsewhere for Blame</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-42-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/texas-floods-hearing-emergency-management.html">At Texas Flooding Hearing, State Officials Look Elsewhere for Blame</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-42-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp82x0d9ze7o">A mother's heartbreak: The unresolved mystery of missing Indian student</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-34-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp82x0d9ze7o">A mother's heartbreak: The unresolved mystery of missing Indian student</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-34-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/lorain-ohio-police-officers-shot.html">3 Officers Shot in Targeted Attack in Ohio, Leaving 2 in Critical Condition</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-32-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c07d3m3xk32o">In a Haitian city ruled by gangs, young rape survivor raises baby she was told to abort</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-32-03 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c78n23981x7o">Furious protests at move to cement Togo ruling family's grip on power</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-31-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c78n23981x7o">Furious protests at move to cement Togo ruling family's grip on power</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-31-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/mike-lindell-celebrates-victory-after-appeals-court-voids-5m-award-in-election-data-dispute/601442158">Mike Lindell celebrates victory after appeals court voids $5M award in election data dispute</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2025-07-23-23-31-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-distraction-timeline.html">Trump&#8217;s Attempts to Change the Topic From Epstein: A Timeline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-28-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-distraction-timeline.html">Trump&#8217;s Attempts to Change the Topic From Epstein: A Timeline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-28-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/tech/ai/trump-pledges-moves-to-stimulate-ai-use-and-exports-b85b0b15">The Trump administration issued a new AI action plan that aims to further the construction of data centers and encourage exports</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-26-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cp863evk31xo">'Come hug it out!' - How a Canadian tourism ad went viral</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-23-17-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/tulsi-gabbard-obama-russia-8315b420">Tulsi Gabbard and the White House alleged former President Barack Obama and senior officials in his administration manufactured a false conspiracy suggesting Russia interfered in the 2016 election</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/muir-woods-exhibit-removed-following-trump-order-on-unpatriotic-signs">Trump ordered purge of 'unpatriotic' signage from national parks. How one California spot complied</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-23-16-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/ukraine-corruption-protests-zelensky-parliament/">Ukrainians protest as Zelensky cracks down on corruption watchdogs</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-23-13-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/ortiz-murder-venezuela-trump-prisoner-swap-bukele-el-salvador-spain/">U.S. prisoner returned by Venezuela in swap was convicted of 3 murders</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-23-07-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/tesla-earnings-q2-tsla-stock-f94405d3?mod=pls_whats_news_us_business_f">Tesla Profit Falls, Hurt by Plunging EV Sales</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/tesla-earnings-q2-tsla-stock-f94405d3?mod=pls_whats_news_us_business_f">Tesla Profit Falls, Hurt by Plunging EV Sales</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/judge-says-abrego-garcia-must-be-returned-to-maryland-after-release-from-jail-b141f271">Judge Blocks Trump Administration From Swiftly Deporting Abrego Garcia Again</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-23-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/abrego-garcia-judge-orders.html">Rulings Order Abrego Garcia&#8217;s Release and Guard Against Hasty Deportation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-02-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/abrego-garcia-judge-orders.html">Rulings Order Abrego Garcia&#8217;s Release and Guard Against Hasty Deportation</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-23-02-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/tesla-earnings-elon-musk.html">Tesla Earnings Show Falling Profit as Car Sales Slow</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-58-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/macron-lawsuit-candace-owens-1.7592570?cmp=rss">French president and wife sue U.S. podcaster for claiming Brigitte Macron was born male</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-22-55-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/columbia-university-to-pay-out-more-than-220m-after-violating-jewish-students-civil-rights-in-massive-win-for-trump-admin/">Columbia University to pay out more than $220M after violating Jewish students&#8217; civil rights in massive win for Trump admin</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-53-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/families-sent-wrong-bodies-after-air-india-disaster/">Multiple families were sent the wrong bodies after Air India disaster: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-51-03 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/edison-creates-program-to-pay-eaton-fire-victims-for-damages">Edison offers to pay Eaton fire victims for damages, in move to avoid litigation</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-49-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/edison-creates-program-to-pay-eaton-fire-victims-for-damages">Edison offers to pay Eaton fire victims for damages, in move to avoid litigation</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-49-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-23/edison-creates-program-to-pay-eaton-fire-victims-for-damages">Edison offers to pay Eaton fire victims for damages, in move to avoid litigation</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-49-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/dicamba-weed-killer-epa.html">E.P.A. Proposes Allowing Use of Dicamba Weedkiller on Some Crops</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-47-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/biden-sells-memoir-for-roughly-10-million-less-than-obama-and-clinton-1e124dc0?mod=pls_whats_news_us_business_f">Biden Sells Memoir for Roughly $10 Million, Less Than Obama and Clinton</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/biden-sells-memoir-for-roughly-10-million-less-than-obama-and-clinton-1e124dc0?mod=pls_whats_news_us_business_f">Biden Sells Memoir for Roughly $10 Million, Less Than Obama and Clinton</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/biden-sells-memoir-for-roughly-10-million-less-than-obama-and-clinton-1e124dc0">Former President Joe Biden has sold his presidential memoir to the Hachette Book Group for an advance in the range of $10 million, according to people familiar with the matter</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn9y02rn7pzo">Why Filipinos keep getting married in flooded churches</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-38-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8739w8py4jo">Macrons file defamation suit against US influencer Candace Owens</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-30-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8739w8py4jo">Macrons file defamation suit against US influencer Candace Owens</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-30-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/florida-epstein-transcripts-unsealed-denied.html">Judge Denies Request to Unseal Epstein Grand Jury Transcripts in Florida</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-29-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/florida-epstein-transcripts-unsealed-denied.html">Judge Denies Request to Unseal Epstein Grand Jury Transcripts in Florida</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-29-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/russia-ukraine-peace-talks.html">Russia and Ukraine Met Again. Here&#8217;s Where the Peace Talks Stand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-26-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/russia-ukraine-peace-talks.html">Russia and Ukraine Met Again. Here&#8217;s Where the Peace Talks Stand</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-26-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-23/trump-fed-chair-jerome-powell-debt-fiscal-dominance">Contributor: Trump's Fed battle is not like his other political tussles</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-22-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-europe-nuclear-talks-treaty.html">Iran Says It Could Exit Nuclear Treaty if Europe Reimposes Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-21-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-europe-nuclear-talks-treaty.html">Iran Says It Could Exit Nuclear Treaty if Europe Reimposes Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-21-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-europe-nuclear-talks-treaty.html">Iran Says It Could Exit Nuclear Treaty if Europe Reimposes Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-21-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/supreme-court-lets-trump-remove-3-dems-from-consumer-product-safety-commission/">Supreme Court lets Trump remove 3 Dems from Consumer Product Safety Commission</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-19-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/sen-john-kennedy-clarifies-why-he-froze-up-on-live-tv/">Sen. John Kennedy, 73, clarifies why he froze up on live TV</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-18-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/russia-and-ukraine-are-no-closer-to-peace-after-trumps-threats-700e4c17">Russia and Ukraine Are No Closer to Peace After Trump&#8217;s Threats</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-22-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/federal-judge-protects-kilmar-abrego-garcia-from-deportation-by-trump-admin/">Kilmar Abrego Garcia can&#8217;t be detained by ICE after he&#8217;s released from custody &#8212; which won&#8217;t be for at least another 30 days</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-22-11-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/japan-fund-trump-tariffs-trade.html">Investment Fund Seals Trade Deal for Japan and Expands Trump&#8217;s Influence</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-22-07-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy9xw5vrvevo">They made America's clothing. Now they are getting punished for it.</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-05-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/search-warrant-reveals-bomb-squad-killed-in-explosion-thought-grenades-were-inert">Bomb squad initially thought grenades that killed 3 L.A. deputies were inert, search warrant says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-22-05-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdxv71v5lq2o">Verdict expected in Hockey Canada sexual assault trial - what to know</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-22-00-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/supreme-court-consumer-product-commission.html">Supreme Court Lets Trump Fire Consumer Product Safety Regulators</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-55-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/supreme-court-consumer-product-commission.html">Supreme Court Lets Trump Fire Consumer Product Safety Regulators</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-55-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/supreme-court-consumer-product-commission.html">Supreme Court Lets Trump Fire Consumer Product Safety Regulators</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-55-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/ottawa/crown-seeking-8-years-for-convoy-leader-chris-barber-7-for-tamara-lich-1.7592513?cmp=rss">Crown seeking 8 years for convoy leader Chris Barber, 7 for Tamara Lich</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-21-52-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/canada/canada-premiers-trade-trump-tariffs-carney.html">After Carney Meeting, Canada&#8217;s Premiers Agree on Trump and Tariffs, Differ on Next Steps</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/canada/canada-premiers-trade-trump-tariffs-carney.html">After Carney Meeting, Canada&#8217;s Premiers Agree on Trump and Tariffs, Differ on Next Steps</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/tmobile-earnings-q2-2025-tmus-stock-5aa32975?mod=pls_whats_news_us_business_f">T-Mobile Adds More Subscribers Than Rivals</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-52-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/tom-hayes-libor-ringleader-wins-u-k-appeal-to-clear-his-name-df63db26?mod=rss_markets_main">Tom Hayes, Libor &#8216;Ringleader,&#8217; Wins U.K. Appeal to Clear His Name</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-51-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/ukrainians-ramp-up-protests-as-zelensky-seeks-way-out-58225744">Ukrainians Ramp Up Protests, as Zelensky Seeks Way Out</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-48-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/texas-flooding-legislature-special-session/">Texas lawmakers tackle state&#8217;s catastrophic flooding in special session</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-21-46-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/ukraine-russia-peace-talks-end-in-less-than-a-hour-with-no-cease-fire/">Third round of Ukraine-Russia peace talks end in less than a hour with no cease-fire after Trump threatens Putin with sanctions</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-45-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/beware-irans-new-ruling-elite-1ac926b0">Opinion | Beware Iran&#8217;s New Ruling Elite</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-45-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-ai-order-deregulation-china-energy-business-immigration-5ccb56cf?mod=pls_whats_news_us_business_f">Opinion | Liberation Day for American AI</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-ai-order-deregulation-china-energy-business-immigration-5ccb56cf">Opinion | Liberation Day for American AI</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/japan-trade-deal-donald-trump-tariffs-shigeru-ishiba-70f60e60">Opinion | The Price of Winning the Trade War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/japan-trade-deal-donald-trump-tariffs-shigeru-ishiba-70f60e60">Opinion | The Price of Winning the Trade War</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-barack-obama-presidential-immunity-2847d7a1">Opinion | Like Trump, Obama Has Immunity</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-35-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/donald-trump-coke-cane-sugar-corn-syrup-16d07309">Opinion | Trump, Coke and the Sugar Cartel</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ce9xkx7vnmxo">Gazans 'wasting away' as mass starvation spreads, humanitarian groups warn</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-21-28-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/jeff-bezos-has-been-weighing-a-possible-acquisition-of-cnbc-sources/">Jeff Bezos weighing possible acquisition of CNBC cable network: sources</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-25-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/todd-blanche-epstein-ghislaine-maxwell-trump.html">In Seeking Epstein Details, Justice Dept.&#8217;s Todd Blanche Occupies Unusual Role</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-24-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/todd-blanche-epstein-ghislaine-maxwell-trump.html">In Seeking Epstein Details, Justice Dept.&#8217;s Todd Blanche Occupies Unusual Role</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-24-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/briefing/russia-putin-japan-trade-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/briefing/russia-putin-japan-trade-ozzy-osbourne.html">Thursday Briefing: Your Russia Questions Answered</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-21-21-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/plane-nosedives-and-crashes-into-busy-italian-highway-killing-two-in-fiery-explosion/">Plane nosedives and crashes into busy Italian highway, killing two in fiery explosion</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-19-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/bari-weiss-looking-to-sell-the-free-press-for-250m-report/">Bari Weiss looking to sell The Free Press for $250M: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-19-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/thousands-march-in-ukraine-after-zelensky-curbs-top-anti-corruption-agencies/">Thousands march in Ukraine after Zelensky curbs top anti-corruption agencies</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-17-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/nbcu-is-exploring-launching-a-sports-cable-network-92bb2b03?mod=pls_whats_news_us_business_f">NBCU Is Exploring Launching a Sports Cable Network</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-17-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/macron-lawsuit-candace-owens/">French President Macron sues right-wing podcaster Candace Owens</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-21-16-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/macron-lawsuit-candace-owens/">French President Macron sues right-wing podcaster Candace Owens</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-21-16-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/elon-musks-tesla-posts-steepest-sales-decline-in-over-a-decade/">Elon Musk&#8217;s Tesla posts steepest sales decline in over a decade as EV demand slumps</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-21-14-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/banking/lawmakers-subpoena-jpmorgan-and-bofa-over-ipo-of-chinese-battery-startup-83f20c0d?mod=rss_markets_main">Lawmakers Subpoena JPMorgan and BofA Over IPO of Chinese Battery Giant</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-14-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/ronald-reagan-was-no-protectionist-0edd6ba6?mod=pls_whats_news_us_business_f">Opinion | Ronald Reagan Was No Protectionist</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-12-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/notable-quotable-treason-cc67a949">Opinion | Notable & Quotable: Treason</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/deals/waystar-nears-deal-for-iodine-software-be9fd01c?mod=pls_whats_news_us_business_f">Waystar Strikes Deal for Iodine Software</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-21-09-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/protester-charges-essayli">Trump's top federal prosecutor in L.A. struggles to secure indictments in protest cases</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-59-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/protester-charges-essayli">Trump's top federal prosecutor in L.A. struggles to secure indictments in protest cases</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-59-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/grain-belt-express-energy-department-loan.html">Energy Dept. Cancels Loan Commitment for Grain Belt Express</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-58-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/grain-belt-express-energy-department-loan.html">Energy Dept. Cancels Loan Commitment for Grain Belt Express</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-58-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-23/trump-can-fire-the-three-democrats-on-consumer-product-safety-commission-supreme-court-says">Trump can fire the 3 Democrats on the Consumer Product Safety Commission, Supreme Court says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-52-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-23/trump-can-fire-the-three-democrats-on-consumer-product-safety-commission-supreme-court-says">Trump can fire the 3 Democrats on the Consumer Product Safety Commission, Supreme Court says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-52-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/sen-slotkin-claims-dems-are-too-worried-about-p-ing-off-the-internet/">Dem Senator Elissa Slotkin complains party is too worried about &#8216;p&#8212;ing off&#8217; the Internet</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-49-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/california-man-accused-of-hurling-concrete-blocks-at-ice-agents-during-l-a-area-protests-arrested">California man accused of hurling concrete blocks at federal agents during L.A.-area protests arrested</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-48-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/target-price-matching-amazon-walmart.html">Target Ends Price-Matching Policy After More Than a Decade</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-44-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/air-india-crash-victims-uk-modi-visit.html">2 U.K. Families Received &#8216;Wrong Remains&#8217; of Air India Crash Victims, Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-43-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/asia/air-india-crash-victims-uk-modi-visit.html">2 U.K. Families Received &#8216;Wrong Remains&#8217; of Air India Crash Victims, Lawyer Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-43-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/trump-will-pay-a-political-price-of-conspiracy-theories-f1e7cf9d">Opinion | Trump Learns the Political Price of Conspiracy Theories</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-43-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-23-2025-1149f353?mod=rss_markets_main">Japan Trade Deal and European Talks Send U.S. Stocks Higher</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-42-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-23/david-ellisons-skydance-tells-fcc-it-wont-promote-diversity-programs-at-paramount">DEI is dead at Paramount, David Ellison's Skydance promises FCC</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-20-41-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-putin-russia-sanctions-senate.html">Deferring to Trump, Senate Pulls Back on New Russia Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-40-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-putin-russia-sanctions-senate.html">Deferring to Trump, Senate Pulls Back on New Russia Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-40-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/ozzy-osbournes-unique-but-fitting-final-business-ventures-including-cans-laced-with-his-dna/">Ozzy Osbourne&#8217;s unique, but fitting final business ventures &#8212; including cans laced with his DNA</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-35-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/bryan-kohberger-sentencing-university-of-idaho-killings-3cdc0f8f">Bryan Kohberger Given Four Life Sentences in Killings of&#160;University of Idaho&#160;Students</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/more-u-n-climate-nonsense-8100cfa2?mod=pls_whats_news_us_business_f">Opinion | More U.N. Climate Nonsense</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-19-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/climate/icj-world-court-climate-opinion-takeaways.html">Does the World Court&#8217;s Sweeping Climate Opinion Matter? Five Takeaways.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-11-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/iran-to-resume-talks-in-nuclear-program-with-united-nations-agency-5091b130">Iran to Resume Talks on Nuclear Program With United Nations Agency</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-20-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/roy-cooper-senate-north-carolina.html">Roy Cooper to Enter North Carolina Senate Race, Lifting Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-10-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/roy-cooper-senate-north-carolina.html">Roy Cooper to Enter North Carolina Senate Race, Lifting Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-10-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/target-drops-popular-perk-for-shoppers-after-more-than-a-decade/">Target drops popular perk for shoppers after more than a decade</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-09-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/verizon-claims-it-got-threats-from-byron-allen-owner-of-the-weather-channel-over-alleged-race-discrimination/">Verizon claims it got threats from Byron Allen, owner of the Weather Channel, over alleged race discrimination</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-20-08-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/norway-spying-russia-iran.html">Guard at U.S. Embassy in Norway Charged With Spying for Russia and Iran</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-04-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/norway-spying-russia-iran.html">Guard at U.S. Embassy in Norway Charged With Spying for Russia and Iran</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-20-04-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/canadian-ice-death-noviello-report-1.7592328?cmp=rss">Canadian who died in ICE custody reported health issues weeks earlier, agency says</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-20-02-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/texas-official-blames-forecasts-for-delayed-floods-response-5d8cb1fa">Texas Official Blames Forecasts for Delayed Floods Response</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-19-56-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/kari-lake-voa-dismissals-dismantling/">Kari Lake moves to consolidate her power to dismantle Voice of America</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-19-54-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp82617l37zo">Graduate wins award for self-made food bank</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-51-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-putin-a-nebuchadnezzar-or-pharaoh-6ab1340f">Opinion | Is Putin a Nebuchadnezzar or Pharaoh?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-19-48-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/martin-luther-king-mlk-legacy-politics-national-archives.html">MLK Files Release Renews Debate Over His Legacy</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-46-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-23/trump-unveils-ai-action-plan">Tech companies want to move fast. Trump's 'AI Action Plan' aims to cut 'red tape'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-19-45-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-23/trump-unveils-ai-action-plan">Tech companies want to move fast. Trump's 'AI Action Plan' aims to cut 'red tape'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-19-45-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9dg72155q5o">Ten workers killed battling wildfires in Turkey</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-43-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy0we9kvr5wo">Idaho student killer sentenced to life in prison, but mysteries in the case remain</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-42-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/education-department-will-investigate-scholarships-for-daca-students.html">Education Department Investigates Scholarships for DACA Students</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-37-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/education-department-will-investigate-scholarships-for-daca-students.html">Education Department Investigates Scholarships for DACA Students</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-37-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/goldman-and-bny-team-up-to-tokenize-money-market-funds-4d01b4d5?mod=rss_markets_main">Goldman and BNY Team Up to Tokenize Money-Market Funds</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-19-37-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0rvk25v5lxo">Bryan Kohberger gets four life sentences for murdering Idaho college students</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/plane-crash-peltola-alaska-antlers.html">Plane in Alaska Crash Was Overloaded With Moose Meat and Antlers, N.T.S.B. Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-33-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/plane-crash-peltola-alaska-antlers.html">Plane in Alaska Crash Was Overloaded With Moose Meat and Antlers, N.T.S.B. Says</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-33-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/bryan-kohberger-idaho-victims.html">Bryan Kohberger&#8217;s Victims&#8217; Families Express Grief and Anger</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-30-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-washington.html">How Epstein Has Consumed Washington, From the White House to Congress and Beyond</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-27-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/epstein-washington.html">How Epstein Has Consumed Washington, From the White House to Congress and Beyond</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-27-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/science/fungus-spun-atlas-mychorrhizal.html">New Global Atlas Highlights Surprising Hot Spots of Fungal Biodiversity</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-25-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9w19vxjr44o">Backlash grows after Zelensky strips anti-corruption bodies of independence</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-19-24-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/katie-holmes-joshua-jackson-1.7591812?cmp=rss">As Katie Holmes and Joshua Jackson reunite, here's why it might just heal millennials</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-19-23-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/arts/music/ozzy-osbourne-wildest-moments.html">Biting a Bat and 5 Other Wild Moments From Ozzy Osbourne&#8217;s Life</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-22-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/hakeem-jeffries-recruiting-new-digital-aide-after-photoshop-fail-warped-area-around-his-hips/">Hakeem Jeffries recruiting &#8216;dynamic and highly skilled&#8217; digital manager after Photoshop fail warped his hips</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-19-18-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/health/pepfar-shutdown.html">U.S. Quietly Drafts Plan to End Program That Saved Millions From AIDS</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-13-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/matthew-perry-death-guilty-plea-1.7592235?cmp=rss">Doctor who sold Friends actor Matthew Perry ketamine before death pleads guilty</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-19-12-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-head-start-government-accountability-office.html">Trump Administration Illegally Withheld Head Start Funds, Watchdog Finds</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-11-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-head-start-government-accountability-office.html">Trump Administration Illegally Withheld Head Start Funds, Watchdog Finds</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-11-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/trump-head-start-government-accountability-office.html">Trump Administration Illegally Withheld Head Start Funds, Watchdog Finds</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-19-11-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c5yp1r29nr9o">Watch: 'Living is how I honour them' - Families address Idaho murderer</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-18-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c5yp1r29nr9o">Watch: 'Living is how I honour them' - Families address Idaho murderer</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-18-52-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/fema-director-defends-response-to-texas-flooding-during-a-hearing-with-lawmakers.html">FEMA&#8217;s director defends the response to Texas flooding during a hearing with lawmakers.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-51-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/politics/fema-director-defends-response-to-texas-flooding-during-a-hearing-with-lawmakers.html">FEMA&#8217;s director defends the response to Texas flooding during a hearing with lawmakers.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-51-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/higher-prices-in-the-pipeline-due-to-trump-tariffs-deutsche-bank/">US importers bear brunt of Trump tariffs with higher consumer prices &#8216;in the pipeline&#8217;: Deutsche Bank</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-51-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/idaho-university-killings-sentence-1.7592179?cmp=rss">Family and friends of murdered Idaho students speak of love and anger at killer's sentencing</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-18-50-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/climate/pennsylvania-pittsburgh-light-pollution.html">Why This Pennsylvania City Put Its Streetlights on a Dimmer</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-48-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/cbs-mornings-co-host-tony-dokoupil-rips-jon-stewart-says-one-sided-stephen-colbert-went-too-left/">&#8216;CBS Mornings&#8217; co-host Tony Dokoupil rips Jon Stewart, says &#8216;one-sided&#8217; Stephen Colbert went too left</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-45-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/science/ai-history-ancient-rome-google-deepmind.html">A.I. May Be the Future, but First It Has to Study Ancient Roman History</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-44-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/business/skydance-tells-fcc-it-will-scrap-dei-appoint-media-bias-official-at-cbs-news/">Skydance tells FCC it will scrap DEI, appoint media bias official at CBS News</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-42-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/william-mcneil-jr-jacksonville-sheriff-video.html">Video Shows Jacksonville Police Officer Punching Man at Traffic Stop</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-36-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/us/william-mcneil-jr-jacksonville-sheriff-video.html">Video Shows Jacksonville Police Officer Punching Man at Traffic Stop</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-36-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/vladimir-putin-kept-claims-hillary-clinton-had-physical-psycho-emotional-problems-under-wraps/">Putin knew Hillary Clinton had physical, &#8216;psycho-emotional&#8217; problems &#8212; but kept it quiet during 2016 campaign: Gabbard</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-20-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/vladimir-putin-kept-claims-hillary-clinton-had-physical-psycho-emotional-problems-under-wraps/">Putin knew Hillary Clinton had physical, &#8216;psycho-emotional&#8217; problems &#8212; but kept it quiet during 2016 campaign: Gabbard</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-18-20-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/matthew-perry-ketamine-doctor-guilty-plea">Matthew Perry's 'Dr. P' pleads guilty to supplying actor with ketamine prior to death</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-18-17-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/climate-environment/2025/07/23/world-court-climate-ruling/">U.N. court rules countries have duty to limit greenhouse emissions</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-18-11-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/trump-trade-japan-election.html">How Japan Clinched a Trade Deal With Trump Just Days Ahead of the Tariff Deadline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-03-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/trump-trade-japan-election.html">How Japan Clinched a Trade Deal With Trump Just Days Ahead of the Tariff Deadline</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-18-03-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/burned-body-found-in-brush-fire-in-santa-clarita">Burned body found in brush fire in Santa Clarita</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-17-55-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/military-police-civilian-detainment-1.7592041?cmp=rss">Military police watchdog calls public hearing into alleged civilian detention at Montreal base</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-17-38-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/dem-in-ultra-competitive-house-race-bases-campaign-in-dc-three-hours-outside-district/">James Osyf, Dem in ultra-competitive House race, listed as owner of $1.7M DC home &#8212; 3 hours outside district he&#8217;s gunning for</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-17-29-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyld3vwqwzo">Air India crash victim's son says he received 'other' remains</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-17-23-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/economy/trump-tariffs-japan.html">Trump&#8217;s Tariffs Are the Highest in a Century. But After His Threats, They Seem Like a Relief.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-17-17-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/william-mcneil-jacksonville-officers-punch/">No charges for Jacksonville officers who punched Black man during arrest</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-17-10-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/autos/us-japan-autos-trade-deal-stocks-2e4bb8aa?mod=pls_whats_news_us_business_f">Detroit Carmakers Blast Japan Trade Deal, but Their Shares Are Rallying Anyway</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-17-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cqx25d7q1r1o">Adult dies with listeriosis as outbreak investigated</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-17-01-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/media/candace-owens-sued-by-french-president-emanuel-macron-and-his-wife-for-defamation/">Emanuel, Brigitte Macron sue Candace Owens for claiming French first lady was born a man who groomed her allegedly gay husband</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-16-59-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/aid-groups-gaza-starvation.html">Aid Groups Blame Israel&#8217;s Gaza Restrictions for &#8216;Mass Starvation&#8217;</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-16-42-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/aid-groups-gaza-starvation.html">Aid Groups Blame Israel&#8217;s Gaza Restrictions for &#8216;Mass Starvation&#8217;</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-16-42-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/premiers-discuss-rime-health-care-1.7592018?cmp=rss">After 2 days of trade talks, premiers wrap summit tackling crime and health care</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-16-28-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/gavin-newsom-clean-energy-powers-californias-economic-growth-9b13c38c?mod=pls_whats_news_us_business_f">Opinion | Gavin Newsom: Clean Energy Powers California&#8217;s Economic Growth</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-16-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/paul-watson-anti-whaling-interpol-japan/">Interpol takes U.S.-Canadian anti-whaling &#8216;eco-pirate&#8217; off most-wanted list</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-16-22-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/rob-bonta-los-angeles-county-juvenile-halls">A.G. Rob Bonta seeks takeover of scandal-plagued L.A. County juvenile halls</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-16-22-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/convicted-felon-caught-impersonating-armed-motorcycle-cop-police-say">A cop or a criminal? Police stop motorcyclist with uniform, badge and gun and learn he's a convicted felon</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-16-20-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/us-news/rock-band-frontman-blasts-music-festival-for-canceling-show-for-political-reasons/">Rock band frontman blasts music festival for canceling show for &#8216;political reasons&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-16-17-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/canada/carney-trade-deal-trump.html">Canada Won&#8217;t Accept a Trade Deal With the U.S. at &#8216;Any Cost&#8217;</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-16-16-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-23/former-disney-and-fox-executive-peter-rice-named-head-of-ceremonies-and-content-for-2028-summer-olympics">Former Disney boss to run L.A. 2028 Olympics ceremonies</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-16-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/australia/virgin-airlines-plane-battery-fire.html">Overhead Bin Fire on Virgin Flight May Have Been Caused by Portable Battery</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-15-39-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/australia/virgin-airlines-plane-battery-fire.html">Overhead Bin Fire on Virgin Flight May Have Been Caused by Portable Battery</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-15-39-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/alabama-police-death-phillip-reeder/">Family says video shows Alabama man died after officer knelt on his neck</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-15-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/children-starve-in-gaza-as-hunger-crisis-deepens-0b3eb7b3">Children Starve in Gaza as Hunger Crisis Deepens</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-15-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/new-jersey-judges-snub-trumps-pick-to-run-u-s-attorneys-office-8c012f49">Bondi Fires Newly Appointed New Jersey Prosecutor in Clash With Judges</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-15-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/new-jersey-judges-snub-trumps-pick-to-run-u-s-attorneys-office-8c012f49">Attorney General Pam Bondi on Tuesday fired judges&#8217; pick for New Jersey&#8217;s new top federal prosecutor, escalating a clash between the Trump administration and the judiciary</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-15-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1wpr39zg5xo">Africa to be hit hard as UK foreign aid cuts revealed</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-15-19-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cvg920pwzelo">Gang leaders among first to be hit by small boat sanctions</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-15-17-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c98wxjzezkgo">Watch: Fans in the US on what Ozzy meant to them</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-15-17-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly2j1322w9o">M&S ad banned over 'unhealthily thin' model</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-15-15-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cr5vgqr8p14o">City traders have rate-rigging convictions quashed</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-15-09-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/revolutionary-war-shipwreck-scotland/">Wreck of Revolutionary War frigate resurfaces on Scottish beach</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-15-06-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/ukraine-russia-to-hold-peace-talks-in-turkey-zelensky-says/">Ukraine and Russia set to hold peace talks in Turkey &#8212; as Kremlin pours cold water on &#8216;miraculous breakthrough&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-15-00-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/science/meta-computer-wristband-reardon.html">Meta Unveils Wristband For Controlling Computers With Hand Gestures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-15-00-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/science/archaeology-feathers-dinosaurs-mirasaura.html">Something Like Feathers Grew on a 247-Million-Year-Old Reptile</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-15-00-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/lifestyle/careers/promotion-new-jobs-secret-18655fa1?mod=pls_whats_news_us_business_f">The Secret to Getting Promoted Quickly at a New Job</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/articles/c4g8nrpx7njo">Which Premier League players could feature at Afcon?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-14-36-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/consumers/eurozone-consumers-mood-improves-a-little-fde98de9">Eurozone Consumers&#8217; Mood Improves a Little</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-14-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1e0w390z4xo">Why were the traders' convictions quashed?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-14-30-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/housing/home-prices-hit-record-high-in-june-dragging-down-sales-aeda0cb9">Home prices rose to a new high in June while the crucial spring sales season fizzled</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-14-26-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/att-t-q2-earnings-report-stock-2025-a73f5523?mod=pls_whats_news_us_business_f">AT&T Adds Wireless and Home-Internet Subscribers, Accelerates Fiber Build-Out</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-14-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/science/icj-climate-1.7591844?cmp=rss">UN's top court says failing to protect planet from climate change could violate international law</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-14-13-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/kohls-opendoor-meme-stocks-trends-c3df5d2d?mod=rss_markets_main">Kohl&#8217;s and Opendoor Headline a New Class of Meme Stocks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-14-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cx2g7yqnjjeo">BBC goes inside rebel-held city in DR Congo</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-14-06-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cx2g7yqnjjeo">BBC goes inside rebel-held city in DR Congo</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-14-06-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/who-raises-concern-about-mosquito-borne-chikungunya-virus/">WHO raises concern about spread of mosquito-borne Chikungunya virus</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-14-04-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp8263jn20zo">The big winner from Coca-Cola's Trump-inspired sugar push</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-13-59-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp8263jn20zo">The big winner from Coca-Cola's Trump-inspired sugar push</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-13-59-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/us/jack-mcauliffe-dead.html">Jack McAuliffe, Who Brewed a Craft Beer Revolution, Dies at 80</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-13-55-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c89e41z388qo">Ethiopian official denies Donald Trump's claim that US funded River Nile dam</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-13-49-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/media/dallas-morning-news-alden-global-capital.html">Alden Global Capital Makes a Play for The Dallas Morning News</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-13-46-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/climate/new-mexico-navajo-power.html">How Native Homes in New Mexico Are Tapping the Sun</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-13-45-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/media/trump-murdoch-fox-wall-street-journal.html">In Trump&#8217;s Battle With Murdoch, Fox News Is a Complication</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-13-15-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/sports/olympics/us-olympic-paralympic-transgender-ban-athletes-1.7591800?cmp=rss">U.S. Olympic, Paralympic officials bar transgender women from competing in Olympic women's sports</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-13-09-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy5w6xz7z0lo">Call for government 'transparency' on nuclear bombs</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-13-04-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c86g87qq7xzo">Tories say PM fuelling frustration over asylum housing</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-12-58-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cj61l526xlxo">I don't care about my age, 19-year-old Reform council leader tells BBC</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-12-56-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c93k0wzyw0ko">Faisal Islam: Trump's tough tariff tactics are getting results</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-12-55-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c93k0wzyw0ko">Faisal Islam: Trump's tough tariff tactics are getting results</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-12-55-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/louis-vuitton-netherlands-money-laundering.html">Louis Vuitton Netherlands Entangled in Money-Laundering Case</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-12-53-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/louis-vuitton-netherlands-money-laundering.html">Louis Vuitton Netherlands Entangled in Money-Laundering Case</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-12-53-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/uk-migrant-trafficking.html">Britain Moves to Curb Migrant Trafficking, and Ease Anger at Home</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-12-33-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-fires-sabotage.html">Officials in Iran Suspect Sabotage in Wave of Fires and Explosions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-12-29-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/iran-fires-sabotage.html">Officials in Iran Suspect Sabotage in Wave of Fires and Explosions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-12-29-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/business/dealbook/markets-rally-japan-deal.html">Global Markets Rally on Japan Deal Euphoria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-12-21-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/world-economic-forum-probe-of-klaus-schwab-finds-unauthorized-spending-and-inappropriate-behavior-bec3dc4f?mod=pls_whats_news_us_business_f">Probe of Davos Founder Finds Unauthorized Spending, Inappropriate Behavior</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-12-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/world-economic-forum-probe-of-klaus-schwab-finds-unauthorized-spending-and-inappropriate-behavior-bec3dc4f?mod=pls_whats_news_us_business_f">Probe of Davos Founder Finds Unauthorized Spending, Inappropriate Behavior</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-12-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c70r29p15ylo">'Truly chilling' - Inside a Russian drone factory</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-12-11-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/lifestyle/2025/07/23/texas-floods-pets-rescue-cookies-fundraiser/">Pets are still being rescued from Texas floods. This 11-year-old is helping.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-12-00-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cx2v9q8e0vjo">What the US-Japan deal means for Asia and the world</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-11-59-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c70r2jkzx86o">Skeleton in Guatemalan jungle likely US birdwatcher missing since 2023</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-11-46-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/new-entrants-drive-secondary-market-to-record-first-half-49bdf905?mod=rss_markets_main">New Entrants Drive Secondary Market to Record First Half</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/eu-china-tensions-beijing-summit/">Bound for Beijing, E.U. leaders face two-front trade fight with Trump and Xi</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/science-and-local-sleuthing-identify-a-250-year-old-shipwreck-on-a-scottish-island/">Science and local sleuthing identify 250-year-old shipwreck on Scottish island</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-10-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy4yjpv87v0o">Home Office to share asylum hotel data with food delivery firms</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-10-30-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cm2ljemmnyko">Church leaders return with 'broken hearts' after rare visit to Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-10-21-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/gift-cicely-tysons-clothes-is-american-history-satin-brocade/">A gift of Cicely Tyson&#8217;s clothes is American history in satin and brocade</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-10-15-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/russia-ukraine-talks-istanbul-1.7591747?cmp=rss">Russia, Ukraine wrap latest peace talks without deal on ceasefire or plan for leaders to meet</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-10-15-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c07d4v9j7gvo">Heathrow boss 'frustrated' at being asleep during fire</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-10-03-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/amistad-black-history-trump/">60-year-old Black history archive faces uncertain future after federal cuts</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-10-00-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/nation/2025/07/23/ryde-hotel-peacocks-california/">Peacocks roamed a historic hotel. Then they were stolen, management says.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-10-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/interactive/2025/brazil-volkswagen-ranch-amazon/">Volkswagen kept a dark secret in the Amazon. Then a priest made a call.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-10-00-03 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/23/financial-sharks-how-to-avoid/">A Shark Week reminder: Beware financial predators without fins</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-23/l-a-sports-and-entertainment-giant-aeg-expands-its-global-reach">This L.A. company builds venues for the world's biggest pop stars, sports teams and sumo wrestlers</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/david-geffen-accused-of-abusing-husband-in-lawsuit">David Geffen accused of abusing ex in suit alleging paid sex and superyacht drug parties</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/childrens-hospital-los-angeles-ends-transgender-care-program">End of transgender care at Children's Hospital L.A. signals nationwide shift under Trump</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-23/newsom-texas-redistricting-politicians-ignoring-will-of-voters-missouri">Barabak: Gavin Newsom is threatening to end-run California voters. It reflects a terrible trend</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/science/story/2025-07-23/fda-panel-on-ssri-antidepressants-in-pregnancy-raises-alarms">FDA panel on the use of antidepressants during pregnancy is alarming experts</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/latino-tenants-sued-their-landlord">Latino tenants sued their landlord. A lawyer told them they would be 'picked up by ICE'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/legal-aid-cut">Legal help in immigration court fades as Trump administration ramps up arrests</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-23/childrens-hospital-los-angeles-ends-transgender-care-program">End of transgender care at Children's Hospital L.A. signals nationwide shift under Trump</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-23/newsom-texas-redistricting-politicians-ignoring-will-of-voters-missouri">Barabak: Gavin Newsom is threatening to end-run California voters. It reflects a terrible trend</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-k-turkey-sign-preliminary-deal-for-eurofighter-typhoon-fighter-jets-a331fd79">U.K., Turkey Sign Preliminary Deal for Eurofighter Typhoon Fighter Jets</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-44-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/ai-talent-frenzy-is-a-mixed-bag-for-vcs-5952d8f9?mod=pls_whats_news_us_business_f">AI Talent Frenzy Is a Mixed Bag for VCs</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/warren-buffett-successor-kraft-heinz-78aaab52?mod=rss_markets_main">Will Buffett&#8217;s Successor Get the Same Free Pass From Investors?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/how-to-catch-a-wily-poacher-in-a-sting-a-thermal-robotic-deer-ffef0fa8">How to Catch a Wily Poacher in a Sting: A Thermal Robotic Deer</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cpwq4dljjdko">Trump says US has struck trade deal with Japan</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-09-25-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cpwq4dljjdko">Trump says US has struck trade deal with Japan</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-09-25-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/u-s-japan-strike-trade-deal-trump-says-ab089e11">President Trump announced a trade deal with Japan, saying the country will face 15% reciprocal tariffs</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-24-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/germanys-call-for-french-nuclear-protection-gets-reality-check-fffc2601">Germany&#8217;s Call for French Nuclear Protection Gets Reality Check</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-09-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/trump-visit-scotland-golf-resorts.html">A New Golf Course and Old Grudges Await Trump in Scotland</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-09-01-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/europe/trump-visit-scotland-golf-resorts.html">A New Golf Course and Old Grudges Await Trump in Scotland</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-09-01-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/travel/beaches-europe-summer.html">6 Beaches in Europe Where You Can Cool Off This Summer</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-09-00-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/arkansas-steel-industry-jobs-rural-america-b81b370d?mod=pls_whats_news_us_business_f">Can a Steel Boom Revive This Rural American County?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/arkansas-steel-industry-jobs-rural-america-b81b370d">Can a Steel Boom Revive This Rural American County?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/arkansas-steel-industry-jobs-rural-america-b81b370d">Can a Steel Boom Revive This Rural American County?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/ottawa/68m-project-to-secure-revamp-canada-s-asylum-system-shut-down-unexpectedly-documents-show-1.7582366?cmp=rss">$68M project to secure, revamp Canada's asylum system shut down unexpectedly, documents show</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/calgary/impact-assessment-act-danielle-smith-alberta-mark-carney-analysis-1.7591286?cmp=rss">Why Danielle Smith has eased off the 'Kill Bill C-69' language in the Carney era</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/a-long-overdue-reporting-trip-through-syria.html">A Long, Overdue Reporting Trip Through Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-07-00-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/world/middleeast/a-long-overdue-reporting-trip-through-syria.html">A Long, Overdue Reporting Trip Through Syria</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-07-00-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/nyregion/tangram-mall-flushing-queens-nyc.html">With Labubus and a Cat Cafe, a Shopping Mall Thrives in New York City</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-07-00-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ckg3r3vm1d0o">AI deepfake porn humiliated me, says Mordaunt</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-06-29-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/air-india-says-no-issues-in-locking-mechanism-of-fuel-control-switches-in-boeing-fleet/">Air India says no issues in locking mechanism of fuel control switches in Boeing fleet</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-06-21-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/ukraine-syrsky-interview-war-trump/">Ukraine&#8217;s top commander asks Trump to help take the war to Russia</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-06-00-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c4g8n8yp9wlo">Houses collapse into Philippines storm surge water</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-05-58-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/science/new-study-reveals-key-to-unlocking-the-mystery-surrounding-stonehenge/">Stonehenge mystery may finally be unlocked as new study offers answers to 5,000-year-old questions</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-05-44-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/23/world-news/new-york-realtor-emmanuel-hernandez-banned-from-colombia-for-10-years-after-airport-tirade/">New York realtor gets banned from Colombia for 10 years after violent airport tirade</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-05-35-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c98wxylyn5xo">Tax row will put young people off farming, M&S boss says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-05-12-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp826e56j1lo">Archaeologists identify 250-year-old shipwreck in Orkney</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-05-09-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp826e56j1lo">UK archaeologists identify wreck of ship dating to American Revolutionary War</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-05-09-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/william-h-neukom-dead.html">William H. Neukom, Microsoft Lawyer Who Led Antitrust Fight, Dies at 83</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-05-04-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/santa-barbara-spacex-launch-postponed-after-outage">SpaceX launch is delayed after widespread power outage scrubs mission with 45 seconds to spare</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-23-04-31-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/23/briefing/wednesday-briefing-israel-expands-gaza-offensive.html">Wednesday Briefing: Israel Expands Gaza Offensive</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-04-30-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/22/trump-trade-deal-japan-tariffs/">Trump says U.S. has a deal with Japan to lower proposed tariffs</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-04-23-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/23/china-us-trump-sabotage-trade/">China&#8217;s strategy? Let Trump cook.</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-04-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/22/salvador-cecot-detainee-describes-beatings/">U.S. deportees, freed from Salvadoran prison, describe &#8216;horror movie&#8217;</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-23-03-35-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cvg8d2j195yo">Teeth marks suggest 'terror bird' was killed by reptile 13 million years ago</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-03-17-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/syria-israel-sectarian-violence-b87913de">Inside Syria&#8217;s Sectarian Cauldron: Kidnapping Triggers Cascade of Violence</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/europe-air-condition-heat-waves-politics-24aceab4">The New Hot Topic in European Politics Is Air Conditioning</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/trump-denmark-relationship-greenland-489239ff">Trump&#8217;s Fixation With Greenland Has Ended Denmark&#8217;s Love Affair With the U.S.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/north/mark-carney-hometown-visit-fort-smith-inuvik-1.7591720?cmp=rss">Prime Minister Mark Carney visits his hometown of Fort Smith, N.W.T.</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-02-56-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4gdnz1nlgyo">Microsoft servers hacked by Chinese groups, says tech giant</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-23-02-53-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/trump-japan-trade-deal-1.7591682?cmp=rss">Trump announces trade deal with Japan that would see 15% tariff on all goods</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-23-02-37-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/technology/jesse-powell-kraken-verge-investigation.html">Federal Prosecutors Close Inquiry Into Co-Founder of Kraken Crypto Exchange</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-01-36-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2025/07/22/world-news/fire-breaks-out-mid-air-and-fills-cabin-with-smoke-on-virgin-australia-flight/">Fire breaks out mid-air and fills cabin with smoke on Virgin Australia flight</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2025-07-23-01-18-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/regulation/morgan-stanley-money-laundering-probe-866ddbd1?mod=rss_markets_main">Morgan Stanley&#8217;s Screening of Wealth-Management Clients Draws More Scrutiny</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/trump-trade-talks-tech-industry-e1061e53">The Trump administration is using its global trade wars to advance the interests of the U.S. technology industry</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/climate/north-carolina-peat-restoration.html">North Carolina&#8217;s Bogs Have a Dirty Secret, and That&#8217;s a Good Thing</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-23-00-14-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/trump-noncitizen-rights-palestinian-campus-protesters-8003fd81">Trump Cracked Down on Campus Protesters. A Court Will Decide How Far He Can Go.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-23-00-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/article/rip-current-survival-escape-tips.html">Rip Current Survival Tips: What to Do if You Get Caught in One</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-23-54-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/article/rip-current-survival-escape-tips.html">Rip Current Survival Tips: What to Do if You Get Caught in One</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-23-54-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/ford-houston-carney-praise-1.7591546?cmp=rss">Ford praises Carney after late-night fireside chat at Muskoka cottage</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-23-41-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2025/07/22/tariffs-cost-gm-stellantis-profits-trump/">Tariffs hit U.S. companies hard, but&#160;businesses absorb them for now</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-22-23-39-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/interactive/2025/trump-big-beautiful-bill-your-taxes-cuts/">How much will you save or lose with Trump&#8217;s &#8216;big&#8217; tax bill?</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-22-23-37-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/driver-in-east-hollywood-club-car-wreck-charged">Driver in East Hollywood nightclub crash charged with 37 counts of attempted murder</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-23-36-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/media/appeals-court-associated-press-restrictions-trump.html">Appeals Court Upholds Ruling Restricting Associated Press Access to Trump</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-23-35-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/articles/c3vdgwxpezzo">Morocco into Wafcon final after shootout victory</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-23-13-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/euro-dollar-currency-tariffs.html">As the Dollar Slides, the Euro Is Picking Up Speed</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-23-12-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/us/politics/trump-powell-interest-rate-cuts-fed-renovations.html">Trump Administration Keeps Pressure on Powell Over Rate Cuts and Renovations</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-23-09-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/us/politics/trump-powell-interest-rate-cuts-fed-renovations.html">Trump Administration Keeps Pressure on Powell Over Rate Cuts and Renovations</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-23-09-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cx209jr79gko">Oil-rich Sudanese region becomes new focus of war between army and rival forces</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-23-04-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1jw3j7wydyo">Iran's detainees in 'unbearable' conditions after Israeli strikes on prison</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-23-04-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/clyxk9wpw3eo">Camp Mystic: Why were so many people killed there during Texas floods?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-23-04-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/clyxk9wpw3eo">Camp Mystic: Why were so many people killed there during Texas floods?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-23-04-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/jeffrey-epstein-files-ghislaine-maxwell-house-recess-efe1de6f">The fight over Epstein disclosures brings House to a standstill</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-22-42-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/travel/visa-integrity-fee-trump-big-beautiful-bill.html">What to Know About the $250 Visa Integrity Fee for U.S. Tourists</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-22-13-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/africa/congo-gold-mine-collapse.html">Gold Miners Feared Dead in Congo After Landslide</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-22-07-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/at-the-feds-banking-conference-sam-altman-capital-rules-and-avoiding-the-powell-drama-e340a00a">At the Fed&#8217;s banking conference, Sam Altman, capital rules and avoiding the Powell drama</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-21-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/calgary/sarah-spanier-alberta-rcmp-battle-river-crowfoot-election-1.7591041?cmp=rss">Alberta byelection candidates reported 'potentially threatening' comments: RCMP</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-21-42-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/22/italians-alligator-alcatraz-ice/">Detention of two Italians at &#8216;Alligator Alcatraz&#8217; sparks backlash at home</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-22-21-38-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/cleveland-cliffs-lourenco-goncalves-tariffs-steel-nippon-76bfc939?mod=pls_whats_news_us_business_f">Opinion | The Cleveland-Cliffs Tariff Switcheroo</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-21-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/gig-workers-benefits-democrats-labor-unions-bill-cassidy-bernie-sanders-8ae57868?mod=pls_whats_news_us_business_f">Opinion | Democrats Attack Gig-Worker Benefits</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-21-37-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/erik-menendez-hospitalized-with-serious-medical-condition">Erik Menendez seeking release from prison for serious medical condition, attorney says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-21-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/los-angeles-fires-31st-victim-discovered-altadena">Six months after L.A.'s firestorms, the remains of a 31st victim are found in Altadena</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-21-16-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-22/south-park-two-billion-dollar-deals-paramount">'South Park' creators reach deals with Paramount that rank among the richest in television history</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-21-16-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/trump-60-minutes-cbs-settlement-5e3f1ce0?mod=pls_whats_news_us_business_f">Trump Expects $20 Million More in Ad Dollars From &#8216;60 Minutes&#8217; Settlement</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-21-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly82glepwyo">The 'underwater bushfire' cooking Australia's reefs</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-21-09-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cj0m5285d43o">The Today Debate: What can stop the war in Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-21-08-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/ukraine-moves-to-defang-u-s-backed-anticorruption-agency-fbe7efe4">Protests Break Out as Ukraine Defangs Anticorruption Agency</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-21-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1e0xjlq73zo">Big cat owners hide their animals from Pakistan crackdown</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-21-05-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/the-los-angeles-homeless-services-authority-to-name-a-new-chief-executive">Los Angeles Homeless Services Authority to name a new chief executive</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-20-59-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/middleeast/israel-gaza-deir-al-balah-who.html">Israel Expands Attacks in Central Gaza City and Raids W.H.O. Offices</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-20-56-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/s-p-500-hits-new-record-on-trade-deals-6aa6d04c?mod=rss_markets_main">S&P 500 Hits New Record on Trade Deals</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-20-52-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/steel-prices-tariffs.html">U.S. Steel Producers Raise Prices After Tariffs Stymie Imports</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-20-51-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/yolo-county-asks-ag-to-join-probe-into-deadly-fireworks-explosion-over-public-perception-of-conflicts">Yolo County asks AG to join probe into deadly fireworks explosion over 'public perception of conflicts'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-20-50-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/hershey-lifts-candy-prices-citing-high-cocoa-costs-7aec150b?mod=pls_whats_news_us_business_f">Hershey Lifts Candy Prices, Citing High Cocoa Costs</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-20-47-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/autos/general-motors-gm-q2-earnings-report-2025-stock-3418ac97?mod=pls_whats_news_us_business_f">GM Profit Shrinks After $1.1 Billion Tariff Hit</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-20-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/22/afghans-trump-resettlement-repatriation-afghanistan-siv-care-taliban/">Afghans promised a home in U.S. may face repatriation &#8212; and the Taliban</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-22-20-27-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/middleeast/syria-military-killings-human-rights.html">Syrian Inquiry Says Military Leaders Did Not Order Sectarian Killings in March</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-20-09-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/world/2025/07/22/sweida-druze-syrian-american-killed/">Syrian American executed during violence in Sweida, relatives say</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2025-07-22-20-07-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/putins-blitz-has-united-ukraine-support-aid-russia-war-drone-cda61942">Opinion | Putin&#8217;s Blitz Has United Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-20-06-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/zionist-contains-multitudes-judaism-religion-israel-antisemitism-390c7400">Opinion | &#8216;Zionist&#8217; Contains Multitudes</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-20-04-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/u-s-global-health-aid-is-an-exemplar-of-efficiency-944eacab">Opinion | U.S. Global Health Aid Is an Exemplar of Efficiency</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-19-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/us/politics/trump-indonesia-trade-deal.html">Trump Administration Keeps 19 Percent Tariff on Indonesia in Trade Deal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-19-50-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/us/politics/trump-indonesia-trade-deal.html">Trump Administration Keeps 19 Percent Tariff on Indonesia in Trade Deal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-19-50-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/colbert-late-show-reaction-1.7590838?cmp=rss">'Go f--k yourself!': What Stephen Colbert and other late-night hosts had to say after Late Show cancellation</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-19-49-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/data-shows-evidence-of-racial-profiling-in-ice-raids-immigrant-rights-group-says">Latino neighborhoods overwhelmingly targeted in immigration raids, rights group says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-19-42-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/indonesia-to-remove-numerous-trade-barriers-white-house-says-f19832d5">The Trump administration announced details on its trade framework with Indonesia, although key specifics about how the U.S. will apply tariffs to goods from that nation remain unclear</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-19-41-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/food-aid-becomes-main-sticking-point-in-gaza-cease-fire-talks-18f2c614">Food Aid Becomes Main Sticking Point in Gaza Cease-Fire Talks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-19-39-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/dealbook/mike-lynch-hp.html">Mike Lynch&#8217;s Estate Ordered to Pay Hewlett Packard $945 Million</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-19-37-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-22/all-eyes-on-ghislaine-maxwell-as-longtime-epstein-aide-seeks-prison-relief">All eyes on Ghislaine Maxwell as longtime Epstein aide seeks prison relief</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-19-09-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly84jn000do">'They shot patients in beds' &#8211; BBC hears claims of massacre at Suweida hospital</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-19-02-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-22/tv-production-is-up-but-overall-shoot-days-in-l-a-are-still-low-report-says">L.A. entertainment production fell last quarter, even as TV started to pick up</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-19-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/american-idol-exec-encino-killings-calls-from-inside-the-house">Suspect in 'American Idol' exec killing called 911 from victims' home, but police didn't find bodies for four days</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-18-58-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/ozzy-osbourne-dead-obituary-1.7591156?cmp=rss">Ozzy Osbourne, godfather of heavy metal who found fame on reality TV, dead at 76</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-18-56-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/articles/c4g8jv0q1jdo">Nigeria beat holders South Africa to reach Wafcon final</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-18-50-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-22/three-things-that-should-scare-us-about-trumps-fake-video-of-obama">Chabria: 3 things that should scare us about Trump's fake video of Obama</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-18-47-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-22/three-things-that-should-scare-us-about-trumps-fake-video-of-obama">Chabria: 3 things that should scare us about Trump's fake video of Obama</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-18-47-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2le45rj1dno">Welsh Conservative Laura Anne Jones defects to Reform</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-18-26-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/astrazeneca-pharma-tariff-trump.html">AstraZeneca Joins Pharma Investment Push in U.S. Amid Tariff Threat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-18-26-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/asia/bangladesh-plane-crash-school-children.html">Bangladesh Mourns After Deadly Plane Crash During School Lunch Break</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-18-21-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/gm-profit-tariffs-trump.html">G.M. Profit Shrinks on Billion-Dollar Tariff Hit</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-18-10-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/us/politics/trump-trade-philippines-marcos.html">Philippines&#8217; Leader Meets With Trump to Clinch Trade Deal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-18-05-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0563g12npgo">Deprivation and immigration straining social cohesion, says Rayner</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-17-57-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cq8zlx8xwjno">Gaza health ministry says 33 people died from malnutrition in 48 hours</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-17-48-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c24v0j73e75o">Cleverly returns to Tory front bench as Badenoch reshuffles team</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-17-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/meth-solar-panels-lax-cbp">Nearly 300 pounds of meth hidden in solar panels nabbed at LAX</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-17-30-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/clyn0ygwd7jo">British man guilty of trying to spy for Russia</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-17-29-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cglzrklp8jyo">UK to use AI to stop adult migrants posing as children</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-17-13-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp863mln0pmo">Jeremy Bowen: Israel's allies see evidence of war crimes in Gaza mounting up</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-16-54-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjel5qpe9vyo">Mike Lynch estate and business partner owe HP Enterprise &#163;700m, court rules</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-16-51-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cz09k48z9v0o">Gaza war: Is the UK selling arms to Israel?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-16-43-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/mike-lynchs-estate-hit-by-900-million-plus-court-order-1e3904ff?mod=pls_whats_news_us_business_f">Mike Lynch&#8217;s Estate Hit by $900 Million-Plus Court Order</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-16-28-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/mike-lynchs-estate-hit-by-900-million-plus-court-order-1e3904ff?mod=rss_markets_main">Mike Lynch&#8217;s Estate Hit by $900 Million-Plus Court Order</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-16-28-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p8e8jn4ko">Badenoch aims to add heft - and name recognition - to shadow cabinet</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-16-27-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/deals/health-ade-kombucha-nears-sale-to-beverage-brand-group-for-500-million-8e5eaa59?mod=pls_whats_news_us_business_f">Health-Ade Kombucha Sells for $500 Million</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-16-24-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/l-a-unified-surpasses-pandemic-setbacks-with-second-year-of-strong-test-score-gains">LAUSD test scores hit a new high, erasing pandemic lows with a second year of strong gains</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-16-03-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cgjg993670jo">Lammy 'appalled and sickened' by civilian suffering in Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-16-02-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/poilievre-rule-changes-longest-ballot-1.7590948?cmp=rss">Poilievre wants bill to stop 'longest ballot scam' introduced this fall</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-16-00-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c86gz61151zo">Five-day doctor strike will go ahead, says BMA</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-15-50-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/crime-severity-index-canada-1.7590876?cmp=rss">Crime severity index dropped 4% last year, Statistics Canada says</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-15-30-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-22/stephen-colbert-late-show-cancellation">Column: Stephen Colbert's swan song is zeitgeist moment</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-15-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ce83lle56mno">Brazilian Supreme Court justice threatens to arrest Bolsonaro</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-15-24-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/uk/u-k-government-will-stick-to-budget-rules-treasury-chief-says-386b7325">U.K. Government Will Stick to Budget Rules, Treasury Chief Says</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-14-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cwygq5plz04o">Higher UK borrowing adds to pressure on Reeves</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-14-50-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cwygq5plz04o">Higher UK borrowing adds to pressure on Reeves</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-14-50-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/conservative-mps-poilievre-support-convoy-organizers-1.7590805?cmp=rss">Poilievre, Conservative MPs criticize Crown ahead of Freedom Convoy leaders' sentencing</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-14-50-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4gk1k453jwo">No justice for de Menezes 'a travesty', say family</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-14-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/media/npr-edith-chapin-steps-down.html">Edith Chapin, NPR&#8217;s Top Editor, Is Stepping Down</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-14-40-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cev0rj193j3o">Coca-Cola will roll out cane sugar Coke in US after Trump push</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-14-32-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/us/politics/trump-spending-government-accountability-office.html">White House Pushes to Block Government Accountability Office Inquiries Into Its Cuts</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-14-09-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cy4yjlry8pko">Conservative Laura Anne Jones defects to Reform</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-13-51-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/ckgd5jd48pko">Inside the hotel at the heart of Unite corruption allegations</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-13-49-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/europe/air-india-crash-report-boeing.html">Air India Finds &#8216;No Issues&#8217; After Inspections of Boeing Fuel Switches</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-13-22-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cp3kgg55410o">Ex-union boss McCluskey took private jet flights arranged by building firm, report finds</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-13-18-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/family-holds-rosary-vigil-for-farmworker-who-died-during-ventura-county-ice-raid">He was 'trying to stay alive.' Family memorializes man who died in Camarillo immigration raid</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-13-11-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/world/middleeast/iran-nationalism-israel-us-attacks.html">Iran&#8217;s Leaders Turn to a New Brand of Nationalism After Israeli and U.S. Attacks</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-13-10-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c3d1jdmg779o">French cities impose curfews on children after drug violence</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-13-00-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cn5kvv9n10go">Food bills on course to rise by &#163;275 a year as prices jump</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-12-57-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/22/business/dealbook/trump-tariffs-gm-earnings.html">Will Trump&#8217;s Tariffs Spoil Earnings Season?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-22-12-09-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly80kzxx07o">WHO condemns Israeli attacks on facilities in central Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-11-54-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/brett-hankison-sentence-breonna-taylor-3103c42f">Officer Involved in Death of Breonna Taylor Sentenced to Nearly 3 Years in Prison</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-11-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cev03wer0p2o">Sizewell C nuclear power plant costs rise to &#163;38bn</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-11-11-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/why-are-stocks-up-nobody-knows-e40e5f42?mod=rss_markets_main">Why Are Stocks Up? Nobody Knows</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/why-are-stocks-up-nobody-knows-e40e5f42?mod=rss_markets_main">Why Are Stocks Up? Nobody Knows</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/sports/soccer/story/2025-07-22/el-trafico-lafc-galaxy-fans-ice-raids">Commentary: LAFC fans put aside their rivalry with Galaxy to stand in solidarity against ICE</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/u-s-says-government-employee-blocked-from-leaving-china-e196e312">U.S. Says Government Employee Blocked From Leaving China</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-10-51-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/videos/cj9vkmg0g0jo">The Wafcon star who is also a doctor</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-10-47-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/asia/a-populist-party-that-began-on-youtube-helped-disrupt-japans-ruling-coalition-361c4e58">A Populist Party That Began on YouTube Helped Disrupt Japan&#8217;s Ruling Coalition</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-10-35-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/chinas-xi-gives-up-air-miles-for-more-time-at-home-42e6876f">China&#8217;s Xi Gives Up Air Miles for More Time at Home</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-10-04-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/lapd-leadership-shakeup">LAPD undergoes first major leadership shake-up with McDonnell as chief</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/is-baby-getting-enough-breastmilk-new-device-helps-moms-learn">Is baby getting enough breastmilk? New device helps moms learn</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/ice-arrests-daca-recipient-at-california-car-wash">Deaf, mute and terrified: ICE arrests DACA recipient and ships him to Texas</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-22/masked-men-crowded-immigration-facilities-courts">3 U.S. Marine brothers faced toughest mission: Getting their dad freed from ICE custody</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/lifestyle/story/2025-07-22/parking-apps-meters-los-angeles-nightmare">Coins? Cards? Apps? The hell that is paying for parking in L.A.</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-22/trans-healthcare-patient-privacy-privilege">Contributor: Courts can protect trans healthcare by recognizing patient-physician privilege</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/c-suite/better-team-meetings-tips-0ea7f66f?mod=pls_whats_news_us_business_f">Bosses Should Never Speak First, or Even Second, in a Meeting</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/silicon-valley-all-in-podcast-01dfadbb?mod=pls_whats_news_us_business_f">Silicon Valley&#8217;s Favorite Podcast Is Now Hot in Washington Too</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly1kz9d23po">Malcolm-Jamal Warner, The Cosby Show star, drowns in Costa Rica</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-08-25-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/thai-cabinet-names-new-central-bank-chief-75a48231">Thai Cabinet Names New Central Bank Chief</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-08-05-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/carney-attends-first-ministers-meeting-1.7590547?cmp=rss">Carney tells premiers he'll only sign a U.S. trade deal 'in the best interest of Canadians'</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/chinese-vessel-arctic-surveillance-1.7590513?cmp=rss">A Chinese research vessel returns to Arctic waters &#8212; and Canada is watching</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/first-ministers-carney-ford-huntsville-analysis-1.7590368?cmp=rss">Are first ministers' meetings cool again?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-22-08-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdez8x693wko">Accuser says 'rollercoaster' of Epstein files saga is a 'real weight' on victims</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-07-48-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdr38n4znpdo">BBC sees fragile ceasefire holding in Syria's battle-scarred Suweida province</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-06-14-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/soon-shiong-plan-to-take-los-angeles-times-public">L.A. Times owner says he intends to take newspaper public in coming year</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-05-41-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/soon-shiong-plan-to-take-los-angeles-times-public">L.A. Times owner says he intends to take newspaper public in coming year</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-05-41-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ckgl7pwqewdo">What we know about the deadly Bangladesh jet crash into a school</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-04-11-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-21/hunter-biden-takes-aim-at-democrats-jake-tapper-and-even-george-clooney">Commentary: Hunter Biden lays into Democrats, Jake Tapper and George Clooney</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-04-02-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-21/south-park-creators-reach-breakthrough-in-paramount-deal-talks">'South Park' creators reach $1.5-billion streaming deal with Paramount</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-03-24-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ckg358vxx4ro">Migrants tortured in El Salvador, Venezuela says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-03-17-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/ukraine-russia-drone-war-adef7e49">On Ukraine&#8217;s Front Line, a Sky Full of Killer Robots</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/ukraine-russia-drone-war-adef7e49">On Ukraine&#8217;s Front Line, a Sky Full of Killer Robots</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/peacocks-vanish-from-sacramento-county-hotel">'A stab in the heart.' Beloved peacocks reported stolen from historic California hotel</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-02-35-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/rba-board-awaits-inflation-update-before-moving-to-cut-rates-aeb31910">RBA Board Awaits Inflation Update Before Moving to Cut Rates</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-02-31-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0ep09el7jwo">Blairs' discount designer clothes caused concern, No 10 files show</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-22-02-20-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/harvard-trump-court-lawsuit-analysis-6022851b">Even if Harvard Wins This Court Case, Trump Fight Won&#8217;t Go Away</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-01-25-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/eli-the-mule">Watch: SoCal firefighters save the life of Eli, a colicky mule</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-22-01-18-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/trade/global-economy-tariffs-trade-growth-b2c1824a">The global economy is sailing through this year&#8217;s historic increase in tariffs, displaying an unexpected trait: resilience</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/china-oil-demand-lower-b5ae15ed">How China Curbed Its Oil Addiction&#8212;and Blunted a U.S. Pressure Point</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-22-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5ypnpwydx9o">'It's a lifesaver': Making solar power affordable in South Africa</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-23-40-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5yeyn4gl80o">Trucking's uneasy relationship with new tech</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-23-20-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c3en0qwp44do">How Trump is using the courts to get what he wants - and changing the shape of presidential power</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-23-00-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/fbi-releases-230-000-pages-on-martin-luther-king-jr-assassination-a517955f">FBI Releases 230,000 Pages on Martin Luther King Jr. Assassination</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-22-37-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-21/in-n-out-leadership-announces-relocation-plans">In-N-Out owner Lynsi Snyder says she is leaving California</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-21-51-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-21/tesla-diner-hollywood">Tesla fans line up to get into the long-awaited Tesla Diner in Hollywood</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-21-39-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/marines-deployed-for-protests-to-leave-los-angeles-7456fafe">Marines Deployed for Protests to Leave Los Angeles</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-21-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g814gy2e7o">UK and 27 other nations condemn Israel over 'inhumane killing' of Gaza civilians seeking aid</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-21-29-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/pedro-hernandez-etan-patz-appeals-court-6be26591">Man Convicted in Etan Patz Murder Should Be Retried or Released, Appeals Court Rules</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-21-12-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/21/climate/extreme-fire-weather-forests.html">Climate Change Is Making Fire Weather Worse for World&#8217;s Forests</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-21-21-05-03 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0k70de6jpgo">Security committee launches inquiry into Afghan data leak</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-20-59-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-59519bed?mod=pls_whats_news_us_business_f">Energy & Utilities Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-20-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-21-2025-05bc38d0?mod=rss_markets_main">Verizon Earnings Help Boost S&P 500 to New High</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-20-41-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/21/world/middleeast/israel-visa-un-gaza.html">Israel Refuses to Renew Visa of Top UN Humanitarian Official for Gaza</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-21-20-16-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/articles/c77vp1x32g5o">'I wore this shirt growing up' - Man Utd sign Mbeumo</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-20-07-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/millions-of-above-ground-pools-recalled-toddler-drownings">How toddlers are managing to climb into some above-ground pools, spurring massive recall</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-19-50-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/21/world/middleeast/shootings-aid-gaza-analysis.html">Shootings, Devastation, Hunger: Israel Fails to Address Gaza&#8217;s Power Vacuum</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-21-19-44-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/cedg3x42gewo">Canadian couple recount frightening encounter with grizzly bear</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-19-30-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-21/california-sues-trump-for-blocking-undocumented-immigrants-from-head-start-other-programs">California sues Trump for blocking undocumented immigrants from 'public benefit' programs</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-19-28-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-21/california-sues-trump-for-blocking-undocumented-immigrants-from-head-start-other-programs">California sues Trump for blocking undocumented immigrants from 'public benefit' programs</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-19-28-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/marines-to-leave-los-angeles-pentagon-says">Marines to leave Los Angeles, Pentagon says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-19-27-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/boat-search-lasd-explosion">Investigation into blast that killed 3 deputies expands to second location in Marina del Rey</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-18-51-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/harvard-trump-lawsuit-court-funding-61d0fdd4">Harvard, Trump Administration Clash in Key Court Hearing</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-18-40-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/airlines/alaska-airlines-grounds-its-fleet-due-to-software-outage-d65f9edc?mod=pls_whats_news_us_business_f">Alaska Airlines Lifts Ground Stop Caused by Software Outage</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-18-37-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/football/articles/cedg4dvdyqpo">How history-chasing Italy can threaten England at Euro 2025</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-18-23-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c4g814l0np0o">Watch: At the final checkpoint before the 'dangerous' road to Suweida city</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-18-14-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-21/found-a-u-s-government-service-that-really-works">Hiltzik: Found! A U.S. government service that really works</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-17-51-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/hollywood-club-crash-what-we-know">East Hollywood club crash: What we know about the suspected driver and the man who shot him</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-17-22-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/vandals-ransack-autozone-street-takeover-in-south-l-a">Thieves ransack an AutoZone during possible street takeover in South L.A.</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-17-20-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/mckinsey-seeks-to-avoid-new-succession-dramas-with-changes-to-its-elections-9db992c1?mod=pls_whats_news_us_business_f">McKinsey Changes How It Elects Its Leaders to Avoid Succession Dramas</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-17-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/firms-cautious-about-raising-prices-bank-of-canada-survey-says-bdc8863f">Firms Cautious About Raising Prices, Bank of Canada Survey Says</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-16-42-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c2d060xy331o">Israeli tanks advance into Gaza's Deir al-Balah city for first time</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-16-31-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/21/world/middleeast/iran-nuclear-talks-europe.html">Iran to Hold Nuclear Talks With France, Germany and U.K. After Sanctions Threat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-21-16-26-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cdjxvz997lpo">Concert by Putin ally Gergiev cancelled in Italy</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-15-47-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/deals/blank-check-company-nears-cryptocurrency-deal-9c99c714?mod=pls_whats_news_us_business_f">Blank-Check Company Strikes Cryptocurrency Deal</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-15-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/deals/blank-check-company-nears-cryptocurrency-deal-9c99c714?mod=rss_markets_main">Blank-Check Company Strikes Cryptocurrency Deal</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-15-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/verizon-earnings-q2-2025-vz-stock-dcc1b3d6?mod=pls_whats_news_us_business_f">Verizon&#8217;s Postpaid Phone Losses Continue, Full-Year Forecast Improves</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-15-14-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/21/world/middleeast/syria-clashes-druse-bedouin-evacuations.html">Syrian Government Evacuates Bedouin Families After Deadly Clashes</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-21-15-00-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/hospitality/subway-ceo-jonathan-fitzpatrick-2a16898c?mod=pls_whats_news_us_business_f">Subway Names Former Burger King Executive as Next CEO</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-14-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/donald-trump-tracker-executive-orders-tariffs-list-a30c92e2">What has Trump done as president so far? The Wall Street Journal is tracking his biggest moves to reshape the federal government. See the full list.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-14-45-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/if-the-markets-doing-something-well-dont-reinvent-the-steal-3b3a3ca3?mod=rss_markets_main">Opinion | If the Market&#8217;s Doing Something Well, Don&#8217;t Reinvent the Steal</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-14-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/china-confirms-exit-ban-on-wells-fargo-banker-9e592a6a">China Confirms Exit Ban on Wells Fargo Banker</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-11-53-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/battery-companies-energy-storage-645be4e0?mod=pls_whats_news_us_business_f">Battery Makers in Slumping EV Business Find Lifeline Elsewhere</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/cricket/articles/cg5zjdv3d4po">Three new African countries seek to join the ICC</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-10-49-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cly1kwdze5qo">Five key takeaways from the landmark water sector review</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-10-07-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/two-crypto-investors-the-outlooks-improved-mostly-f255079a?mod=rss_markets_main">Two Crypto Investors: The Outlook&#8217;s Improved &#8230; Mostly</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-21/migrant-student-program-hit-by-trump-funding-freeze-cuts">Summer school for migrant students takes a double hit from Trump. Fewer kids go to the zoo</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-21/how-a-california-company-became-the-center-of-a-texas-flood-conspiracy">How a California cloud-seeding company became the center of a Texas flood conspiracy</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-21-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/tech/what-chip-stock-investors-are-missing-about-tariffs-c768ad4a?mod=rss_markets_main">What Chip-Stock Investors Are Missing About Tariffs</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/real-estate/commercial/a-real-estate-tycoons-loan-went-bad-then-they-came-for-his-ferraris-and-fine-wine-06505640?mod=rss_markets_main">A Real-Estate Tycoon&#8217;s Loan Went Bad. Then They Came for His Ferraris and Fine Wine.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/school-choice-tax-credit-private-tuition-democrats-31bf9710">New Federal Tax Credit Boosts School Choice&#8212;but Blue States Face Big Decision</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/school-choice-tax-credit-private-tuition-democrats-31bf9710">New Federal Tax Credit Boosts School Choice&#8212;but Blue States Face Big Decision</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/21/world/americas/venezuela-economists-inflation-maduro-trump.html">Venezuela Targets Economists as Inflation Surges Under Trump&#8217;s Sanctions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-21-09-00-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/l-catterton-leads-800-million-investment-in-private-jet-company-5dec796a?mod=rss_markets_main">L Catterton Leads $800 Million Investment in Private-Jet Company</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-05-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/the-fiercest-border-fight-high-kicks-mustache-twirling-and-very-long-flagpoles-5f663621">The Fiercest Border Fight: High Kicks, Mustache Twirling and Very Long Flagpoles</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-03-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cjdzm88l8y0o">Forgotten 'weeds' prove a culinary hit in Kenya</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-01-17-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/us-israel-gaza-aid-deaths-12d3fb35">Why Israel&#8217;s Chaotic New Food Program in Gaza Has Turned So Deadly</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/us-israel-gaza-aid-deaths-12d3fb35">Why Israel&#8217;s Chaotic New Food Program in Gaza Has Turned So Deadly</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c4g8d39gdr0o">How Canada became the centre of a measles outbreak in North America</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-21-00-50-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/asia/japan-election-throws-a-wrench-in-trade-talks-e6c1abde">Japan Election Throws a Wrench in Trade Talks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-00-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/amazon-price-hikes-essentials-60a7c7f3?mod=pls_whats_news_us_business_f">After Pledging to Keep Prices Low, Amazon Hiked Them on Hundreds of Essentials</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-21-00-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/delta-plane-lands-safely-at-lax-after-engine-fire-caught-on-video">Flames from Delta engine caught on video; jet lands safely at LAX</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-23-53-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c1k81r9ejpeo">Stevie Wonder: 'I'll keep playing as long as I breathe'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-20-23-15-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c0k7d858zvmo">Why China is betting on theme parks like Legoland to boost spending</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-20-23-10-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/20/world/middleeast/israel-gaza-military-evacuation.html">Dozens Are Killed at Aid Site Near Border, Gaza Health Officials Say</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-20-23-08-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/a-tech-billionaire-vows-make-homeless-housing-affordable-and-profitable">A tech entrepreneur vows to make homeless housing affordable and profitable</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-22-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c8rp62480r3o">Israeli forces kill 67 Palestinians seeking aid in northern Gaza, Hamas-run ministry says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-20-21-11-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/la-me-hollywood-night-club">Driver who police say plowed into crowd outside Hollywood club has violent criminal history</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-20-41-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cwykzznepw0o">Bedouins tell BBC they could return to fighting Druze in Syria</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-20-20-11-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-20/james-stark-bennett-former-cbs-disney-tv-executive-dies">Former CBS and Disney TV executive James Stark Bennett dies at 78</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-20-01-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/20/us/politics/trump-china-technology.html">As Trump Courts a More Assertive Beijing, China Hawks Are Losing Out</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-20-18-12-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/18/world/middleeast/who-are-druse-syria-israel-clashes.html">Who Are the Druse? The Religious Minority at the Center of Israel and Syria&#8217;s Tensions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-20-17-31-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/drunk-driver-suspected-fiery-crash-that-killed-4-early-sunday-the-605-freeway-norwalk">Drunk driver causes fiery crash, killing 4 on the 605 Freeway in Norwalk, authorities say</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-17-19-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/19/world/americas/venezuela-us-prisoner-swap-families.html">A Kite Surfer, Navy SEAL and Makeup Artist: Freed in a U.S.-Venezuela Swap</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-20-15-11-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/newsom-more-aggressive-social-media-stance-trump">Forget the high road: Newsom takes the fight to Trump and his allies</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-14-06-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/newsom-more-aggressive-social-media-stance-trump">Forget the high road: Newsom takes the fight to Trump and his allies</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-14-06-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/netflix-is-running-out-of-worlds-to-conquer-8bc98326?mod=pls_whats_news_us_business_f">Netflix Is Running Out of Worlds to Conquer</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-12-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/media/netflix-is-running-out-of-worlds-to-conquer-8bc98326?mod=rss_markets_main">Netflix Is Running Out of Worlds to Conquer</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-12-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-20/six-months-into-trumps-second-term-california-is-a-key-battleground">After six months under Trump, California and L.A. are battlegrounds. Who benefits?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/la-me-trump-trolling-memes-immigration-raids">'Stay mad.' Amid immigration raids, Epstein rumors, Trump team ramps up its trolling</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-20/trump-cuts-leave-los-angeles-county-health-system-in-crisis">Federal cuts leave Los Angeles County health system in crisis</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-20/six-months-into-trumps-second-term-california-is-a-key-battleground">After six months under Trump, California and L.A. are battlegrounds. Who benefits?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-20/trump-foreign-policy-analysis">News Analysis: Trump's 'force of personality' hasn't delivered on key foreign policy goals</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-20/trump-jeffrey-epstein-sex-power-government-conspiracy">Barabak: Here's why Jeffrey Epstein's tangled web is conspiratorial catnip</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/mag7-stocks-sp500-ai-7d40d5a1?mod=rss_markets_main">AI Is Dividing the Fortunes of the Magnificent Seven</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/atlanta-population-growth-ending-32aa642c">Atlanta&#8217;s Growth Streak Has Come to an End</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/former-sheriff-alex-villanueva-registers-for-2026-sheriffs-race">Former sheriff Alex Villanueva registers for 2026 sheriff's race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-06-39-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/asia/chinese-rare-earth-magnet-exports-surge-after-u-s-trade-truce-f9f6e059">Chinese Rare-Earth Magnet Exports Surge After U.S. Trade Truce</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-03-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/distressing-and-alarming-more-than-400-guinea-pigs-found-at-a-south-los-angeles-home">'Distressing and alarming': More than 400 guinea pigs found at South Los Angeles home</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-02-05-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/logistics/how-china-built-a-global-port-network-09288159?mod=pls_whats_news_us_business_f">How China Built a Global Port Network</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/regulation/banks-pig-butchering-fight-fraud-92c06642?mod=rss_markets_main">Millions Stolen, Death Threats: Should Banks Do More to Fight &#8216;Pig Butchering&#8217;?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/regulation/banks-pig-butchering-fight-fraud-92c06642?mod=rss_markets_main">Millions Stolen, Death Threats: Should Banks Do More to Fight &#8216;Pig Butchering&#8217;?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/personal-finance/retirement/heres-what-a-late-career-layoff-looks-like-in-america-in-5-charts-63f5c809?mod=rss_markets_main">Here&#8217;s What a Late-Career Layoff Looks Like in America, in 5 Charts</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-20-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/shooting-death-13-year-old-pasadena-boy-murder-charges">More than three years after the killing of a 13-year-old Pasadena boy, murder charges are filed</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-20-00-51-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/19/world/middleeast/gaza-humanitarian-foundation-israel-attack.html">Gaza Health Ministry Says Israeli Military Killed 32 Near Aid Site</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-20-00-35-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cz6g20dwy0wo">Parades, flags and songs: The campaign to force Ukrainian children to love Russia</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-19-23-05-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c30741j351go">How the rise of green tech is feeding another environmental crisis</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-19-23-05-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/19/world/canada/couple-missing-cat-shirt-calls.html">Pet Owner Flooded With Puzzling Calls About a Lost Cat While Hers Is Safely at Home</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-19-22-18-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/ice-detention-tent-cities-5c2e135d">With a tripling of its annual budget and pressure to increase deportations, ICE is racing to expand its detention space with temporary tentlike structures, despite safety warnings</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-19-20-49-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/coldplay-kiss-cam-astronomer-ceo-5e059035?mod=pls_whats_news_us_business_f">How a Viral Coldplay Kiss-Cam Moment Spotlighted a Little-Known IT Company</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-19-20-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/sport/rugby-union/articles/ckgj8j7ljj5o">Zimbabwe reach first Rugby World Cup since 1991</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-19-18-02-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/santa-monica-apartment-is-focus-of-probe-into-explosion-that-killed-3-l-a-deputies">Santa Monica apartment is focus of probe into blast that killed 3 L.A. County sheriff's deputies</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-17-05-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c0k7l3p6vdno">Watch: Plane catches fire during take-off</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-19-16-44-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/la-me-hollywood-crash">Driver slams into crowd outside Hollywood nightclub, critically injuring 7 and wounding more than 20 others</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-14-28-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/a-mystery-in-the-high-yield-muni-market-what-are-the-riskiest-bonds-worth-22b00e47?mod=rss_markets_main">A Mystery in the High-Yield Muni Market: What Are the Riskiest Bonds Worth?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-19-13-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/czxwe3g4wl5o">Who is in charge? The prime minister's authority is in question again</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-19-12-09-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/homeless-housing/story/2025-07-19/housing-activist-who-reclaimed-state-owned-home-dies-amid-eviction-protest">Housing activist who 'reclaimed' state-owned home dies amid eviction protest</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit">Airbnb allowed rampant price gouging following L.A. fires, city attorney lawsuit alleges</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-19/trump-juneteenth-national-holidays-thanksgiving-columbus-day">Granderson: Eliminating national holidays is a promising idea. Start with the racist ones</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-10-01-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/19/world/canada/a-rescue-center-for-small-wild-animals-looks-to-place-a-blind-moose-calf.html">A Rescue Center for Small Wild Animals Looks to Place a Blind Moose Calf</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-19-10-00-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/3-l-a-county-sheriffs-killed-in-explosion-who-they-were">'Best of the best': What we know about the 3 L.A. County sheriff's detectives killed in explosion</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/lifestyle/story/2025-07-19/coyote-and-bear-seen-together-in-altadena-after-eaton-fire">Can coyotes and bears be friends? An Altadena odd couple has neighbors talking</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-19/flood-alerts-went-out-in-texas-days-before-disaster-yet-meteorologists-are-still-haunted">After L.A. firestorms and Texas floods, forecasters haunted by warnings not being heard</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-19/plan-to-shoot-barred-owls-to-save-spotted-owls-could-be-in-jeopardy">A plan to shoot 450,000 owls &#8212; to save a different owl &#8212; could be in jeopardy</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2025-07-19/plan-to-shoot-barred-owls-to-save-spotted-owls-could-be-in-jeopardy">A plan to shoot 450,000 owls &#8212; to save a different owl &#8212; could be in jeopardy</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/chevrons-victory-in-the-oil-patch-brawl-was-a-much-needed-win-2b582eb1?mod=pls_whats_news_us_business_f">Chevron&#8217;s Victory in the Oil-Patch Brawl Was a Much-Needed Win</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-19-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/19/world/middleeast/lebanon-syrian-occupation-detainees.html">They Vanished in Syria&#8217;s Long Occupation of Lebanon. Now Their Families Want Answers.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-19-09-00-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/16/world/americas/trump-tariffs-mexico-cartels.html">Trump Has Promised More Tariffs on Mexico. What Happens Next?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-19-05-12-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c5y76483200o">'The village will die' - Italy looks for answers to decline in number of babies</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-19-05-01-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/uk/the-u-k-closed-a-tax-loophole-for-the-global-rich-now-theyre-fleeing-f078cce4">The U.K. Closed a Tax Loophole for the Global Rich. Now They&#8217;re Fleeing.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-19-04-01-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/uk/the-u-k-closed-a-tax-loophole-for-the-global-rich-now-theyre-fleeing-f078cce4">The U.K. Closed a Tax Loophole for the Global Rich. Now They&#8217;re Fleeing.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-19-04-01-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/18/world/americas/venezuela-us-prisoner-swap-migrants-el-salvador.html">Prisoner Swap Frees Americans in Venezuela for Migrants in El Salvador</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-19-02-13-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/brazils-bolsonaro-ordered-to-wear-ankle-bracelet-6cf432df">Brazil&#8217;s Bolsonaro Ordered to Wear Ankle Monitor</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-19-02-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-18/state-audit-finds-california-workplace-safety-agency-has-critical-weakness">Agency protecting California's workers doesn't have enough people to do its job, audit says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-01-51-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c39zygp0d8yo">Top policeman shakes South Africa with explosive allegations about his boss</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-19-00-29-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/science/story/2025-07-18/trump-diagnosis-chronic-venous-insufficiency">What to know about chronic venous insufficiency &#8212;&#160;President Trump's health diagnosis</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-19-00-08-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/los-angeles-sheriff-training-facilities-incidents">Deadly East L.A. blast follows other incidents at sheriff's training facilities</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-23-47-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/tech-expert-who-helped-cops-investigate-a-missing-bass-lake-man-has-been-arrested-in-his-murder">Tech expert who helped cops investigate a missing Bass Lake man has been charged in his murder</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-23-36-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/5-year-old-boys-beaten-body-was-found-in-a-dumpster-mothers-ex-is-charged-with-his-death">5-year-old boy's beaten body was found in a dumpster. Mother's ex is charged with his death</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-23-12-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-18/is-late-night-dead-stephen-colberts-cbs-cancellation-raises-questions">Is late night dead? Stephen Colbert's CBS cancellation raises troubling questions</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-22-57-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/10-americans-released-from-venezuela-in-exchange-for-prisoners-in-el-salvador-064c660b">Venezuela Releases 10 Americans in Exchange for Prisoners in El Salvador</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-21-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/hospitality/mcdonalds-snack-wraps-lettuce-shortage-7067d573?mod=pls_whats_news_us_business_f">McDonald&#8217;s Snack Wrap Rollout Leads to Lettuce Crunch</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-21-52-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/the-score-norfolk-southern-citigroup-nvidia-and-more-stocks-that-defined-the-week-60711c67?mod=rss_markets_main">The Score: Norfolk Southern, Citigroup, Nvidia and More Stocks That Defined the Week</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-21-39-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/banking/charles-schwab-profit-jumps-on-tariff-trading-surge-10af4574?mod=rss_markets_main">Charles Schwab Profit Jumps on Tariff Trading Surge</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-21-01-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/strong-earnings-fuel-stock-market-records-this-week-4e6034d5?mod=rss_markets_main">Strong Earnings Fuel Stock-Market Records This Week</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-20-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/jury-orders-l-a-to-pay-50-million-to-man-hit-by-sanitation-truck">Jury orders L.A. to pay nearly $50 million to man hit by city sanitation truck</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-20-45-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-18/trump-epstein-files-wall-street-journal">Trump sues Dow Jones and Rupert Murdoch over alleged Trump letter to Epstein</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-20-05-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/trump-ukraine-weapons-shipment-priority-be11f155">The Trump administration moved Germany ahead of Switzerland for the next Patriot air-defense systems off the production line to let Berlin send two Patriots it already has to Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-19-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/18/world/americas/brazil-president-bolsonaro-ankle-monitor.html">Bolsonaro, Brazil&#8217;s Former President, Ordered to Wear Ankle Monitor Before Trial</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-18-19-19-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/garden-grove-stockton-homicides-linked">Killing of SoCal mother of 2 linked to attempted murder-suicide in Stockton, police say</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-18-55-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/18/us/politics/us-visa-revocations-israel.html">State Dept. Official Testifies That Criticism of Israel Can Lead to Deportations</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-18-18-44-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/housing/the-push-to-make-tiny-homes-in-backyards-easier-to-finance-82806ff3">A bill unveiled Friday aims to provide government backing for second mortgages to finance construction of increasingly popular accessory dwelling units</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-18-35-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/reagan-braved-volckers-fed-inflation-recession-384f66ad?mod=rss_markets_main">Opinion | Reagan Braved Volcker&#8217;s Fed</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-18-20-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/oil-ceos-get-their-revenge-on-bidens-antitrust-enforcers-b6c033f2?mod=pls_whats_news_us_business_f">Oil CEOs Get Their Revenge on Biden&#8217;s Antitrust Enforcers</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-18-11-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/unusual-summer-storms-hit-southern-california">Unusual summer storms in SoCal bring dry lightning, flooding concerns for weekend</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-17-47-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-18/zohran-mamdani-democratic-politics-extremism">Contributor: Democrats are spiraling into irrelevance. Good riddance</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-16-18-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/explosion-la-sheriff-training-facility">3 L.A. County sheriff's deputies killed in explosion ID'd; investigators search Santa Monica apartment</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-15-38-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c056q0zgy8jo">UN says it has credible reports of summary executions during Syria fighting</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-18-15-21-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c80pnjmlp53o">'We bought our first home with another couple'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-18-15-08-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/small-stocks-bargain-85034233?mod=rss_markets_main">The Stock Market Bargain That&#8217;s Right Under Your Nose</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-14-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/small-stocks-bargain-85034233?mod=rss_markets_main">The Stock Market Bargain That&#8217;s Right Under Your Nose</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-14-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/chevron-moves-forward-with-megadeal-for-hess-after-winning-exxon-arbitration-17347067?mod=pls_whats_news_us_business_f">Chevron Closes Megadeal for Hess After Winning Exxon Arbitration</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-13-52-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/currencies/why-banks-are-on-high-alert-about-stablecoins-2f308aa0?mod=rss_markets_main">Why Banks Are on High Alert About Stablecoins</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-13-52-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/housing/housing-starts-gain-but-still-lag-on-year-9372fc83">Home-building recovered a little in the U.S. last month but remains down on the year.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-12-52-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-18/jeffrey-epstein-donald-trump-maga-base">Contributor: Trump's MAGA spell is broken. Even his base knows he is a lame duck</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-09-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/opinion/story/2025-07-18/haiti-violence-temporary-protected-status">Contributor: If Haiti has become more violent, why end Haitians' temporary protected status in the U.S.?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2025-07-18/jan-7-fires-claims-complaints-mediation">Wildfire victims in limbo as fight with insurers hits another snag</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/uvalde-shooting-meta-activision-lawsuit">Uvalde school shooter was fueled by Instagram and 'Call of Duty,' L.A. lawsuit alleges</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/ban-homes-rancho-palos-verdes-slide-zone">Is it finally time to ban new homes in the Rancho Palos Verdes' landslide zone?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-18/ice-border-patrol-immigration-hiring-trump">Inside Trump's ICE expansion: Can he really hire 10,000 new agents?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-18/uvalde-shooting-meta-activision-lawsuit">Uvalde school shooter was fueled by Instagram and 'Call of Duty,' L.A. lawsuit alleges</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-18/ice-border-patrol-immigration-hiring-trump">Inside Trump's ICE expansion: Can he really hire 10,000 new agents?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/wells-fargo-banker-china-89824413">U.S.-Based Wells Fargo Banker Blocked From Leaving China</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-09-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/arts-culture/fine-art/art-market-investment-high-interest-rates-7e3ba131?mod=rss_markets_main">The Worst Performer in Billionaires&#8217; Portfolios? Trophy Art.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-18-09-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/trump-denies-sending-epstein-lewd-message-drawing">WSJ says Trump sent lewd birthday card to Jeffrey Epstein; president vows to sue</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-05-04-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c80p9k1r1dlo">Kill Russian soldiers, win points: Is Ukraine's new drone scheme gamifying war?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-18-04-59-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/videos/c0k7mzd0628o">Watch: Police evacuate residents as wildfires rage in Spain</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-18-03-39-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/17/us/politics/army-special-operations-terror-threat.html">Army Special Operations Warns Retired Members of Terror Threat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-18-03-17-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/fox-news-jesse-watters-admits-mistake-in-program-claiming-newsom-lied-about-trump-call">Fox News' Jesse Watters admits mistake in program claiming Newsom lied about Trump call</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-03-00-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/epstein-documents-decision-1.7592345?cmp=rss">Republicans help U.S. House subcommittee pass vote to subpoena Epstein files</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2025-07-18-02-20-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/california-sues-the-trump-administration-over-loss-of-high-speed-rail-funds">California sues Trump administration over loss of high-speed rail funding</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-01-38-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/border-patrol-raids-sacramento-home-depot-potentially-violating-judges-order">Trump immigration raids move north to Sacramento: 'No such thing as a sanctuary state'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-01-14-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/sheriff-luna-ice-warrants-los-angeles-county-jails">L.A. County sheriff says there's 'no choice' but to honor ICE warrants for jail inmates</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-01-01-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/santa-barbara-new-chancellor-dennis-assanis">UC Santa Barbara's new chancellor: Dennis Assanis, scientist, engineer, university president</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-18-00-54-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cpqnpwrq1l4o">Relentless immigration raids are changing California's way of life</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-18-00-23-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cz9k7yje44eo">Chris Mason: Why Labour had little choice but to suspend Abbott again</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-17-23-53-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/cbs-announces-late-show-with-stephen-colbert-to-end-next-year">CBS to end 'The Late Show With Stephen Colbert' next year</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-23-50-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/logistics/fedex-technology-chief-departs-after-internal-probe-into-unit-he-oversaw-94634c8c?mod=pls_whats_news_us_business_f">FedEx Technology Chief Departs After Internal Probe Within IT Department</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-23-29-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/17/world/middleeast/syria-sweida-druse-violence.html">Blood in the Streets and Death in the Air: Residents Survey Damage in Syrian City</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-17-23-12-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/ced2zpvv179o">Spud-tacular: How India became a french fry superpower</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-17-23-08-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-17/trump-jeffrey-epstein-files-republicans">Trump resists bipartisan calls to release Justice Department files on Jeffrey Epstein</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-22-58-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/c9395qwzgddo">Almost 600 killed in south Syria violence, monitoring group says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-17-22-46-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2025/07/17/us/politics/iran-nuclear-sites.html">Iran&#8217;s Fordo Nuclear Site Was Badly Damaged by U.S. Strikes, New Assessment Finds</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2025-07-17-22-17-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/ice-getting-access-to-medicaid-records-sparks-new-fears-across-california">ICE is gaining access to trove of Medicaid records, adding new peril for immigrants</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-22-08-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/ice-getting-access-to-medicaid-records-sparks-new-fears-across-california">ICE is gaining access to trove of Medicaid records, adding new peril for immigrants</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-22-08-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/logistics/china-threatens-to-block-panama-ports-deal-unless-its-shipping-giant-is-part-of-it-a88fd77d?mod=pls_whats_news_us_business_f">China Threatens to Block Panama Ports Deal Unless Its Shipping Giant Is Part of It</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-22-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/netflix-earnings-q2-2025-nflx-stock-9d34f09c?mod=pls_whats_news_us_business_f">Netflix Raises Revenue, Margin Forecasts After Strong Second Quarter</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-21-47-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.com/news/articles/cy8ge7vllw9o">Israel says it regrets deadly strike on Catholic Church in Gaza</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2025-07-17-21-45-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/articles/pcaob-chair-in-last-days-warns-against-potential-for-budget-slashing-a756cc47?mod=pls_whats_news_us_business_f">PCAOB Chair, in Last Days, Warns Against Potential for Budget Slashing</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-21-44-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/deals/railroad-operator-union-pacific-exploring-deal-for-norfolk-southern-1d06e822?mod=pls_whats_news_us_business_f">Railroad Operator Union Pacific Exploring Deal for Norfolk Southern</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-21-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/the-fed-mahal-is-an-act-of-central-bank-self-sabotage-powell-trump-143e945f?mod=rss_markets_main">Opinion | The &#8216;Fed Mahal&#8217; Is an Act of Central-Bank Self-Sabotage</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-21-10-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/bill-pulte-fhfa-director-92c3fb40?mod=rss_markets_main">The Home-Builder Heir Who Is Stoking the Jerome Powell Frenzy</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-21-02-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/netflix-earnings-ads-second-quarter-squid-game">Netflix earnings surged last quarter. Thank 'Squid Game,' price hikes and advertising</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-20-57-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/currencies/crypto-bills-congress-43014009?mod=rss_markets_main">House Passes Crypto Bills After Trump Rallies Republicans</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-20-54-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/american-idol-shootings-encino-charges">Murder and burglary charges filed in shooting of 'American Idol' executive and husband</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-20-51-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/upbeat-earnings-send-s-p-500-nasdaq-to-new-highs-fdf37979?mod=rss_markets_main">Upbeat Earnings Send S&P 500, Nasdaq to New Highs</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-20-49-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/mark-geragos-celebrity-attorney-must-pay-100k-to-l-a-coach-in-legal-malpractice-case">Mark Geragos, celebrity attorney, must pay $100,000 to L.A. coach in legal malpractice case</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-20-46-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/more-data-means-less-mortgage-risk-b5a77f5f?mod=rss_markets_main">Opinion | More Data Means Less Mortgage Risk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-20-39-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/we-dont-need-another-solyndra-sovereign-wealth-fund-6622d701?mod=rss_markets_main">Opinion | A Sovereign-Wealth Lesson</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-20-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/peacock-raises-fees-3-dollars-a-month">Peacock increases subscription price by $3 a month</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-20-11-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/feds-prep-for-reopening-of-alcatraz-prison-critics-call-it-the-stupidest-initiative-yet">Feds prep for reopening of Alcatraz prison. Critics call it the 'stupidest initiative yet'</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-20-11-01 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2025-07-17/fake-immigration-kidnapping-federal-charges">L.A. woman faked immigration 'kidnapping' in scheme for donations, feds charge</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-19-45-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-17/supreme-court-rulings-trump-executive-power">Trump is winning in the Supreme Court because its conservatives believe in strong executive power</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-19-36-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/bond-giant-pimco-dismisses-trumps-threats-to-feds-powell-2e3c710b?mod=rss_markets_main">Bond Giant Pimco Dismisses Trump&#8217;s Threats to Fed&#8217;s Powell</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-19-28-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/how-early-would-you-buy-tickets-for-christopher-nolans-next-movie-how-about-a-year">Want to see Christopher Nolan's 'The Odyssey' in Imax next year? Some screenings are already sold out</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-19-18-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/nbcuniversal-pays-3-6-million-for-alleged-consumer-law-violations">People said it was too hard to cancel Peacock. Now NBCUniversal must pay $3.6 million</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-18-58-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/doj-requests-one-day-sentence-for-ex-officer-involved-in-death-of-breonna-taylor-a69bbf92">DOJ Requests One-Day Sentence for Ex-Officer Involved in Death of Breonna Taylor</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-18-49-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/socal-public-media-outlets-brace-for-federal-funding-cuts">The Senate voted to defund NPR and PBS. How will local stations cope?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-18-24-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2025-07-17/justice-department-requests-lists-of-all-non-citizen-inmates-being-held-in-california-jails">Justice Department requests lists of all noncitizen inmates being held in California jails</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-18-01-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/justice-department-fires-ghislaine-maxwell-prosecutor-maurene-comey-1edc5091">Justice Department Fires Epstein and Maxwell Prosecutor Maurene Comey</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2025-07-17-17-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2025-07-17/disneys-live-action-lilo-stitch-crossed-1-billion-at-the-box-office">Disney's 'Lilo & Stitch' becomes Hollywood's first $1-billion movie of 2025</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2025-07-17-17-00-00 +0000</span></div>
+            </li>
+        
+    </ul>
+</div>
 </div>
