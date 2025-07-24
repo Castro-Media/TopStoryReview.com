@@ -29,7 +29,7 @@ jobs:
 
       - name: Execute update notebook
         run: |
-          jupyter nbconvert --to notebook --execute update.ipynb --output update.ipynb --output-dir ./
+          jupyter nbconvert --to notebook --execute run.ipynb --output run.ipynb --output-dir ./
 
       - name: Create pull request
         id: cpr
@@ -38,7 +38,7 @@ jobs:
           commit-message: 'Automated data update'
           branch: data-refresh
           title: 'Automated data update'
-          body: 'This PR contains results from running `update.ipynb`.'
+          body: 'This PR contains results from running `run.ipynb`.'
           delete-branch: true
           merge: true
           merge-method: squash
