@@ -413,8 +413,12 @@ function ShowChart($container){
 }
 
 function updateListVisibility(){
-    var periodLabel = $('input[name="period"]:checked').parent().text().trim();
-    var viewLabel = $('input[name="view"]:checked').parent().text().trim();
+    var periodId = $('input[name="period"]:checked').attr('id');
+    var periodLabel = $('label[for="' + periodId + '"]').text().trim();
+
+    var viewId = $('input[name="view"]:checked').attr('id');
+    var viewLabel = $('label[for="' + viewId + '"]').text().trim();
+
     var viewType = viewLabel.toLowerCase().indexOf('top') !== -1 ? 'top' : 'all';
     var targetId = '#' + viewType + periodLabel;
     var selectors = [
