@@ -431,5 +431,7 @@ function updateListVisibility(){
     $(targetId).show();
 }
 
-$(document).ready(updateListVisibility);
-$('input[name="period"], input[name="view"]').on('change', updateListVisibility);
+$(document).ready(function(){
+    updateListVisibility();
+    $('input[name="period"], input[name="view"]').on('change', updateListVisibility);
+});
