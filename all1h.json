@@ -1,122 +1,278 @@
 [
   {
-    "headline": "Andrew Cuomo slams Eric Adams as ‘spoiler’ in NYC mayoral race: ‘It’s about you and your ego’",
-    "link": "https://nypost.com/2025/07/28/us-news/andrew-cuomo-slams-eric-adams-as-spoiler-in-nyc-mayoral-race-its-about-you-and-your-ego/",
+    "headline": "Phoenix dad arrested after leaving 4 kids in 125-degree car to visit sex shop: ‘Shocking’",
+    "link": "https://nypost.com/2025/07/28/us-news/phoenix-dad-arrested-after-leaving-4-kids-in-125-degree-car-to-visit-sex-shop-shocking/",
     "source": "nypost",
-    "pubdate": "2025-07-28-18-14-03 +0000"
+    "pubdate": "2025-07-28-19-51-18 +0000"
   },
   {
-    "headline": "Americans stock up on Korean beauty products ahead of Trump’s tariff deadline",
-    "link": "https://nypost.com/2025/07/28/business/tariffs-threaten-south-korean-beauty-product-boom-in-us/",
-    "source": "nypost",
-    "pubdate": "2025-07-28-18-12-31 +0000"
+    "headline": "Starmer shares Gaza peace blueprint with Trump",
+    "link": "https://www.bbc.com/news/articles/cly6zgyy0wjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-19-51-11 +0000"
   },
   {
-    "headline": "Girl, 9, who died at Hersheypark wave pool ID’d: ‘Sophia, brought joy and light to everyone who knew her’",
-    "link": "https://nypost.com/2025/07/28/us-news/9-year-old-girl-who-died-at-hersheypark-wave-pool-idd/",
-    "source": "nypost",
-    "pubdate": "2025-07-28-18-12-00 +0000"
+    "headline": "Who Pays for U.S. Tariffs, and Where Does the Money Go?",
+    "link": "https://www.nytimes.com/2025/07/28/business/economy/trump-tariffs-payment.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-49-44 +0000"
   },
   {
-    "headline": "Trump Administration Live Updates: President Disagrees With Netanyahu on Gaza and Moves Up Putin’s Deadline",
+    "headline": "ICE wants to deport Wisconsin driver charged with being drunk, causing crash that killed 2 Minnesota teens",
+    "link": "https://www.startribune.com/ice-wants-to-deport-wi-driver-charged-with-being-drunk-causing-crash-that-killed-2-minnesota-teens/601444823",
+    "source": "startribune",
+    "pubdate": "2025-07-28-19-42-18 +0000"
+  },
+  {
+    "headline": "Manhunt Underway in Arkansas After Couple Are Killed in State Park",
+    "link": "https://www.nytimes.com/2025/07/28/us/arkansas-murder-devils-den-state-park.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-42-06 +0000"
+  },
+  {
+    "headline": "Live Q&A: Trump, Taxes and Midterms—We Answered Your WSJ Poll Questions",
+    "link": "https://www.wsj.com/politics/policy/trump-taxes-midterm-elections-live-questions-answers-6b84e517",
+    "source": "wsj",
+    "pubdate": "2025-07-28-19-42-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Live Updates: President Moves Up Deadline for Putin to End Ukraine War",
     "link": "https://www.nytimes.com/live/2025/07/28/us/trump-news",
     "source": "nyt",
-    "pubdate": "2025-07-28-18-11-09 +0000"
+    "pubdate": "2025-07-28-19-41-25 +0000"
   },
   {
-    "headline": "Stock Market Today: Euro Drops After Trump Strikes EU Deal; Dow Slips",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-28-2025?mod=rss_markets_main",
+    "headline": "For Trump, Starvation in Gaza Tests His Foreign Policy Approach",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-starvation-gaza-america-first.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-36-38 +0000"
+  },
+  {
+    "headline": "For Trump, Starvation in Gaza Tests His Foreign Policy Approach",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-starvation-gaza-america-first.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-36-38 +0000"
+  },
+  {
+    "headline": "For Trump, Starvation in Gaza Tests His Foreign Policy Approach",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-starvation-gaza-america-first.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-36-38 +0000"
+  },
+  {
+    "headline": "For Trump, Starvation in Gaza Tests His Foreign Policy Approach",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-starvation-gaza-america-first.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-36-38 +0000"
+  },
+  {
+    "headline": "For Trump, Starvation in Gaza Tests His Foreign Policy Approach",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-starvation-gaza-america-first.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-36-38 +0000"
+  },
+  {
+    "headline": "MTA calls out Metro-North’s ‘scary’ double-digit rate hike proposal for Connecticut riders",
+    "link": "https://nypost.com/2025/07/28/us-news/mta-calls-out-metro-norths-scary-double-digit-rate-hike-proposal-for-connecticut/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-19-34-39 +0000"
+  },
+  {
+    "headline": "Avian Flu Wiped Out Poultry. Now the Screwworm Is Coming for Beef.",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/screwworm-beef-prices.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-34-39 +0000"
+  },
+  {
+    "headline": "Avian Flu Wiped Out Poultry. Now the Screwworm Is Coming for Beef.",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/screwworm-beef-prices.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-34-39 +0000"
+  },
+  {
+    "headline": "Trump Administration Weighs Patent System Overhaul to Raise Revenue",
+    "link": "https://www.wsj.com/politics/policy/patent-system-overhaul-18e0f06f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-07-28-18-08-00 +0000"
+    "pubdate": "2025-07-28-19-33-00 +0000"
   },
   {
-    "headline": "France Criticizes E.U.’s Trade Deal With Trump",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-eu-trade-deal-france.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-05-45 +0000"
-  },
-  {
-    "headline": "France Criticizes E.U.’s Trade Deal With Trump",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-eu-trade-deal-france.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-05-45 +0000"
-  },
-  {
-    "headline": "European Carmakers Welcome, and Worry About, U.S. Tariff Deal",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/tariffs-eu-deal-cars.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-05-29 +0000"
-  },
-  {
-    "headline": "European Carmakers Welcome, and Worry About, U.S. Tariff Deal",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/tariffs-eu-deal-cars.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-05-29 +0000"
-  },
-  {
-    "headline": "Wallis Annenberg, Arts and Wildlife Philanthropist, Dies at 86",
-    "link": "https://www.nytimes.com/2025/07/28/us/wallis-annenberg-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-04-56 +0000"
-  },
-  {
-    "headline": "Wallis Annenberg, Arts and Wildlife Philanthropist, Dies at 86",
-    "link": "https://www.nytimes.com/2025/07/28/us/wallis-annenberg-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-04-56 +0000"
-  },
-  {
-    "headline": "Judges Continue to Block Trump Policies Following Supreme Court Ruling",
-    "link": "https://www.wsj.com/us-news/law/judges-continue-to-block-trump-policies-following-supreme-court-ruling-bf20d1ef",
+    "headline": "The Trump administration is considering a plan to raise tens of billions of dollars with a new fee that would transform the patent system",
+    "link": "https://www.wsj.com/politics/policy/patent-system-overhaul-18e0f06f",
     "source": "wsj",
-    "pubdate": "2025-07-28-18-04-00 +0000"
+    "pubdate": "2025-07-28-19-33-00 +0000"
   },
   {
-    "headline": "Thailand and Cambodia Agree to Halt Fighting That Has Killed Dozens",
-    "link": "https://www.nytimes.com/2025/07/28/world/asia/thailand-cambodia-ceasefire-talks.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-02-44 +0000"
+    "headline": "Wildfires scorch large swaths of southeast Europe and the Balkans",
+    "link": "https://www.cbc.ca/news/world/eastern-europe-wildfires-1.7595612?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-07-28-19-30-07 +0000"
   },
   {
-    "headline": "Thailand and Cambodia Agree to Halt Fighting That Has Killed Dozens",
-    "link": "https://www.nytimes.com/2025/07/28/world/asia/thailand-cambodia-ceasefire-talks.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-02-44 +0000"
+    "headline": "Pro-life Texas pol accused of affair with stripper and paying for abortions — as she shares torrid Chuck E. Cheese claim",
+    "link": "https://nypost.com/2025/07/28/us-news/pro-life-texas-pol-accused-of-torrid-affair-with-stripper-and-paying-for-abortions/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-19-29-46 +0000"
   },
   {
-    "headline": "Thailand and Cambodia Agree to Halt Fighting That Has Killed Dozens",
-    "link": "https://www.nytimes.com/2025/07/28/world/asia/thailand-cambodia-ceasefire-talks.html",
+    "headline": "RFK Jr. Plans Overhaul of Federal Vaccine-Injury Compensation System",
+    "link": "https://www.nytimes.com/2025/07/28/health/kennedy-vaccine-injury-court.html",
     "source": "nyt",
-    "pubdate": "2025-07-28-18-02-44 +0000"
-  },
-  {
-    "headline": "4 Children Injured After Barge Strikes Sailboat off Miami Beach",
-    "link": "https://www.nytimes.com/2025/07/28/us/sailboat-sinks-biscayne-bay-miami-rescue.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-18-02-06 +0000"
+    "pubdate": "2025-07-28-19-29-14 +0000"
   },
   {
     "headline": "In a First, Leading Israeli Rights Groups Accuse Israel of Gaza Genocide",
     "link": "https://www.nytimes.com/2025/07/28/world/middleeast/israel-genocide-gaza-rights-groups.html",
     "source": "nyt",
-    "pubdate": "2025-07-28-18-01-07 +0000"
+    "pubdate": "2025-07-28-19-26-40 +0000"
   },
   {
     "headline": "In a First, Leading Israeli Rights Groups Accuse Israel of Gaza Genocide",
     "link": "https://www.nytimes.com/2025/07/28/world/middleeast/israel-genocide-gaza-rights-groups.html",
     "source": "nyt",
-    "pubdate": "2025-07-28-18-01-07 +0000"
+    "pubdate": "2025-07-28-19-26-40 +0000"
   },
   {
-    "headline": "France and Germany lead downbeat EU response to US trade deal",
-    "link": "https://www.bbc.com/news/articles/c3ez97zv5y5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-28-17-58-40 +0000"
+    "headline": "U.S. and China Meet as Trade Truce Nears Expiration",
+    "link": "https://www.nytimes.com/2025/07/28/business/us-china-trade-tariffs-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-22-50 +0000"
   },
   {
-    "headline": "France and Germany lead downbeat EU response to US trade deal",
-    "link": "https://www.bbc.com/news/articles/c3ez97zv5y5o?at_medium=RSS&at_campaign=rss",
+    "headline": "U.S. and China Meet as Trade Truce Nears Expiration",
+    "link": "https://www.nytimes.com/2025/07/28/business/us-china-trade-tariffs-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-22-50 +0000"
+  },
+  {
+    "headline": "U.S. and China Meet as Trade Truce Nears Expiration",
+    "link": "https://www.nytimes.com/2025/07/28/business/us-china-trade-tariffs-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-22-50 +0000"
+  },
+  {
+    "headline": "U.S. and China Meet as Trade Truce Nears Expiration",
+    "link": "https://www.nytimes.com/2025/07/28/business/us-china-trade-tariffs-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-22-50 +0000"
+  },
+  {
+    "headline": "Trump Says U.S., Europe to Send More Aid to Gaza",
+    "link": "https://www.wsj.com/world/middle-east/trump-says-u-s-europe-to-send-more-aid-to-gaza-b7d83af9",
+    "source": "wsj",
+    "pubdate": "2025-07-28-19-21-00 +0000"
+  },
+  {
+    "headline": "Access-a-assault: MTA-contracted driver sexually attacks disabled woman, suit says",
+    "link": "https://nypost.com/2025/07/28/us-news/mta-contracted-driver-sexually-attacks-disabled-woman-suit/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-19-20-09 +0000"
+  },
+  {
+    "headline": "'Vladimir Putin is a real-life Bond villain,' says former PM Stephen Harper",
+    "link": "https://www.cbc.ca/news/politics/harper-putin-comments-1.7595579?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-07-28-19-19-21 +0000"
+  },
+  {
+    "headline": "'Vladimir Putin is a real-life Bond villain,' says former PM Stephen Harper",
+    "link": "https://www.cbc.ca/news/politics/harper-putin-comments-1.7595579?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-07-28-19-19-21 +0000"
+  },
+  {
+    "headline": "Pilot Facing Child Sex Abuse Materials Charges Is Arrested After Flight, U.S. Says",
+    "link": "https://www.nytimes.com/2025/07/28/business/delta-pilot-arrested-san-francisco-federal-agents.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-18-59 +0000"
+  },
+  {
+    "headline": "What Happened to the MAGA Instant Pot?",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-maga-instant-pot.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-18-37 +0000"
+  },
+  {
+    "headline": "What Happened to the MAGA Instant Pot?",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-maga-instant-pot.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-18-37 +0000"
+  },
+  {
+    "headline": "What Happened to the MAGA Instant Pot?",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-maga-instant-pot.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-18-37 +0000"
+  },
+  {
+    "headline": "Fintech Billionaire Beats Co-Founder in Fight to Keep Voting Superpowers",
+    "link": "https://www.wsj.com/finance/stocks/wise-shareholder-vote-kristo-kaarmann-6793e6e5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-28-19-12-00 +0000"
+  },
+  {
+    "headline": "Fintech Billionaire Beats Co-Founder in Fight to Keep Voting Superpowers",
+    "link": "https://www.wsj.com/finance/stocks/wise-shareholder-vote-kristo-kaarmann-6793e6e5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-07-28-19-12-00 +0000"
+  },
+  {
+    "headline": "Several People Injured in Shooting at Reno Casino Resort",
+    "link": "https://www.nytimes.com/2025/07/28/us/reno-shooting-casino.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-19-10-28 +0000"
+  },
+  {
+    "headline": "Trump cites Murdoch's age to seek swift deposition in Epstein case",
+    "link": "https://www.bbc.com/news/articles/ckgl0xp6kylo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-07-28-17-58-40 +0000"
+    "pubdate": "2025-07-28-19-07-28 +0000"
+  },
+  {
+    "headline": "Trump cites Murdoch's age to seek swift deposition in Epstein case",
+    "link": "https://www.bbc.com/news/articles/ckgl0xp6kylo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-19-07-28 +0000"
+  },
+  {
+    "headline": "Gunmen in ski masks shoot two men dead outside NYC park, then escape on moped: cops",
+    "link": "https://nypost.com/2025/07/28/us-news/gunmen-in-ski-masks-shoot-two-men-dead-outside-nyc-park-then-escape-on-moped-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-19-04-42 +0000"
+  },
+  {
+    "headline": "Hordes of rats invade Long Island town after residents experience wealth boom: ‘Very startling’",
+    "link": "https://nypost.com/2025/07/28/us-news/hordes-of-rats-have-shown-up-in-long-island-town-amid-recent-wealth-boom/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-19-03-49 +0000"
+  },
+  {
+    "headline": "To avoid worst of Trump tariffs, E.U. accepted a lopsided deal",
+    "link": "https://www.washingtonpost.com/world/2025/07/28/trump-eu-trade-tariffs-concessions/",
+    "source": "wapo",
+    "pubdate": "2025-07-28-19-03-10 +0000"
+  },
+  {
+    "headline": "Robot tosses water bottle into  barrel from across the room to pass key disaster relief test",
+    "link": "https://nypost.com/2025/07/28/business/robot-tosses-water-bottle-into-barrel-to-pass-key-disaster-relief-test/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-18-59-17 +0000"
+  },
+  {
+    "headline": "Trader sues hedge fund for refusing to pay bonus — after he allegedly generated 97% of firm’s revenues: docs",
+    "link": "https://nypost.com/2025/07/28/business/trader-sues-hedge-fund-for-refusing-to-pay-bonus-after-he-generated-97-of-firms-revenues-report/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-18-56-29 +0000"
+  },
+  {
+    "headline": "Pro-Ukrainian Hackers Claim Cyberattack as Aeroflot Grounds Flights",
+    "link": "https://www.nytimes.com/2025/07/28/world/europe/aeroflot-hackers-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-56-10 +0000"
+  },
+  {
+    "headline": "Pro-Ukrainian Hackers Claim Cyberattack as Aeroflot Grounds Flights",
+    "link": "https://www.nytimes.com/2025/07/28/world/europe/aeroflot-hackers-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-56-10 +0000"
   }
 ]
