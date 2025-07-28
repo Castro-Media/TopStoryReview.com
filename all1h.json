@@ -1,14 +1,272 @@
 [
   {
-    "headline": "A cat named Leonardo da Pinchy doesn’t want your affection — he wants to steal your underwear",
-    "link": "https://nypost.com/2025/07/24/world-news/a-cat-named-leonardo-da-pinchy-doesnt-want-your-affection-he-wants-to-steal-your-underwear/",
+    "headline": "Andrew Cuomo slams Eric Adams as ‘spoiler’ in NYC mayoral race: ‘It’s about you and your ego’",
+    "link": "https://nypost.com/2025/07/28/us-news/andrew-cuomo-slams-eric-adams-as-spoiler-in-nyc-mayoral-race-its-about-you-and-your-ego/",
     "source": "nypost",
-    "pubdate": "2025-07-24-16-56-14 +0000"
+    "pubdate": "2025-07-28-18-14-03 +0000"
   },
   {
-    "headline": "The Fed Renovations Driving Trump’s Anger at Jerome Powell",
-    "link": "https://www.nytimes.com/2025/07/24/business/trump-federal-reserve-renovations-powell.html",
+    "headline": "Americans stock up on Korean beauty products ahead of Trump’s tariff deadline",
+    "link": "https://nypost.com/2025/07/28/business/tariffs-threaten-south-korean-beauty-product-boom-in-us/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-18-12-31 +0000"
+  },
+  {
+    "headline": "Girl, 9, who died at Hersheypark wave pool ID’d: ‘Sophia, brought joy and light to everyone who knew her’",
+    "link": "https://nypost.com/2025/07/28/us-news/9-year-old-girl-who-died-at-hersheypark-wave-pool-idd/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-18-12-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Live Updates: President Disagrees With Netanyahu on Gaza and Moves Up Putin’s Deadline",
+    "link": "https://www.nytimes.com/live/2025/07/28/us/trump-news",
     "source": "nyt",
-    "pubdate": "2025-07-24-16-54-32 +0000"
+    "pubdate": "2025-07-28-18-11-09 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Euro Drops After Trump Strikes EU Deal; Dow Slips",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-28-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-07-28-18-08-00 +0000"
+  },
+  {
+    "headline": "France Criticizes E.U.’s Trade Deal With Trump",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-eu-trade-deal-france.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-05-45 +0000"
+  },
+  {
+    "headline": "France Criticizes E.U.’s Trade Deal With Trump",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-eu-trade-deal-france.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-05-45 +0000"
+  },
+  {
+    "headline": "European Carmakers Welcome, and Worry About, U.S. Tariff Deal",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/tariffs-eu-deal-cars.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-05-29 +0000"
+  },
+  {
+    "headline": "European Carmakers Welcome, and Worry About, U.S. Tariff Deal",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/tariffs-eu-deal-cars.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-05-29 +0000"
+  },
+  {
+    "headline": "Wallis Annenberg, Arts and Wildlife Philanthropist, Dies at 86",
+    "link": "https://www.nytimes.com/2025/07/28/us/wallis-annenberg-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-04-56 +0000"
+  },
+  {
+    "headline": "Wallis Annenberg, Arts and Wildlife Philanthropist, Dies at 86",
+    "link": "https://www.nytimes.com/2025/07/28/us/wallis-annenberg-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-04-56 +0000"
+  },
+  {
+    "headline": "Judges Continue to Block Trump Policies Following Supreme Court Ruling",
+    "link": "https://www.wsj.com/us-news/law/judges-continue-to-block-trump-policies-following-supreme-court-ruling-bf20d1ef",
+    "source": "wsj",
+    "pubdate": "2025-07-28-18-04-00 +0000"
+  },
+  {
+    "headline": "Thailand and Cambodia Agree to Halt Fighting That Has Killed Dozens",
+    "link": "https://www.nytimes.com/2025/07/28/world/asia/thailand-cambodia-ceasefire-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-02-44 +0000"
+  },
+  {
+    "headline": "Thailand and Cambodia Agree to Halt Fighting That Has Killed Dozens",
+    "link": "https://www.nytimes.com/2025/07/28/world/asia/thailand-cambodia-ceasefire-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-02-44 +0000"
+  },
+  {
+    "headline": "Thailand and Cambodia Agree to Halt Fighting That Has Killed Dozens",
+    "link": "https://www.nytimes.com/2025/07/28/world/asia/thailand-cambodia-ceasefire-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-02-44 +0000"
+  },
+  {
+    "headline": "4 Children Injured After Barge Strikes Sailboat off Miami Beach",
+    "link": "https://www.nytimes.com/2025/07/28/us/sailboat-sinks-biscayne-bay-miami-rescue.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-02-06 +0000"
+  },
+  {
+    "headline": "In a First, Leading Israeli Rights Groups Accuse Israel of Gaza Genocide",
+    "link": "https://www.nytimes.com/2025/07/28/world/middleeast/israel-genocide-gaza-rights-groups.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-01-07 +0000"
+  },
+  {
+    "headline": "In a First, Leading Israeli Rights Groups Accuse Israel of Gaza Genocide",
+    "link": "https://www.nytimes.com/2025/07/28/world/middleeast/israel-genocide-gaza-rights-groups.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-18-01-07 +0000"
+  },
+  {
+    "headline": "France and Germany lead downbeat EU response to US trade deal",
+    "link": "https://www.bbc.com/news/articles/c3ez97zv5y5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-17-58-40 +0000"
+  },
+  {
+    "headline": "France and Germany lead downbeat EU response to US trade deal",
+    "link": "https://www.bbc.com/news/articles/c3ez97zv5y5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-17-58-40 +0000"
+  },
+  {
+    "headline": "Ghislaine Maxwell makes long-shot Supreme Court bid to overturn sex trafficking conviction",
+    "link": "https://nypost.com/2025/07/28/us-news/ghislaine-maxwell-makes-long-shot-supreme-court-bid-to-overturn-sex-trafficking-conviction/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-17-56-49 +0000"
+  },
+  {
+    "headline": "Ghislaine Maxwell makes long-shot Supreme Court bid to overturn sex trafficking conviction",
+    "link": "https://nypost.com/2025/07/28/us-news/ghislaine-maxwell-makes-long-shot-supreme-court-bid-to-overturn-sex-trafficking-conviction/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-17-56-49 +0000"
+  },
+  {
+    "headline": "Animal shelter worker mauled to death by pit bulls rescued from dog-fighting ring",
+    "link": "https://nypost.com/2025/07/28/us-news/animal-shelter-worker-killed-by-pit-bulls-saved-from-fighting-ring/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-17-51-20 +0000"
+  },
+  {
+    "headline": "Several People Injured in Shooting at Reno Casino Resort",
+    "link": "https://www.nytimes.com/2025/07/28/us/reno-shooting-casino.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-49-47 +0000"
+  },
+  {
+    "headline": "Israeli rights groups accuse Israel of genocide in Gaza",
+    "link": "https://www.bbc.com/news/articles/c776xkvz6vno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-17-47-07 +0000"
+  },
+  {
+    "headline": "Israeli rights groups accuse Israel of genocide in Gaza",
+    "link": "https://www.bbc.com/news/articles/c776xkvz6vno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-17-47-07 +0000"
+  },
+  {
+    "headline": "The US-EU trade deal in numbers - how it compares to UK deal",
+    "link": "https://www.bbc.com/news/articles/cdxyre8jvk7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-17-45-28 +0000"
+  },
+  {
+    "headline": "Judge blocks Trump administration’s efforts to defund Planned Parenthood",
+    "link": "https://www.startribune.com/judge-blocks-trump-administrations-efforts-to-defund-planned-parenthood/601444884",
+    "source": "startribune",
+    "pubdate": "2025-07-28-17-45-01 +0000"
+  },
+  {
+    "headline": "Hamas-cheering Irish band Kneecap to play pair of sold-out rooftop shows in NYC",
+    "link": "https://nypost.com/2025/07/28/us-news/hamas-cheering-irish-band-kneecap-to-play-pair-of-sold-out-rooftop-shows-in-nyc/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-17-44-19 +0000"
+  },
+  {
+    "headline": "Fraudsters scammed Mexican billionaire out of $400M by claiming they were descendants of Astor family: ‘I feel like an absolute idiot’",
+    "link": "https://nypost.com/2025/07/28/business/fraudsters-scammed-mexican-billionaire-out-of-400m-by-claiming-relation-to-astor-family/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-17-43-30 +0000"
+  },
+  {
+    "headline": "​North Korea Rejects New South Korean Leader’s Peace Overtures",
+    "link": "https://www.nytimes.com/2025/07/28/world/asia/north-korea-rejects-peace-gestures.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-41-45 +0000"
+  },
+  {
+    "headline": "​North Korea Rejects New South Korean Leader’s Peace Overtures",
+    "link": "https://www.nytimes.com/2025/07/28/world/asia/north-korea-rejects-peace-gestures.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-41-45 +0000"
+  },
+  {
+    "headline": "Trump Says Rupert Murdoch Should be Deposed Within 15 Days in Suit Over Epstein Article",
+    "link": "https://www.nytimes.com/2025/07/28/business/media/trump-rupert-murdoch-libel-epstein.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-39-44 +0000"
+  },
+  {
+    "headline": "ICE wants to deport Wisconsin driver charged with being drunk, causing crash that killed 2 Minnesota teens",
+    "link": "https://www.startribune.com/ice-wants-to-deport-wi-driver-charged-with-being-drunk-causing-crash-that-killed-2-minnesota-teens/601444823",
+    "source": "startribune",
+    "pubdate": "2025-07-28-17-36-03 +0000"
+  },
+  {
+    "headline": "California, other states sue over USDA demand for SNAP recipients' data",
+    "link": "https://www.latimes.com/politics/story/2025-07-28/california-other-states-sue-over-usda-demand-for-info-on-snap-recipients",
+    "source": "latimes",
+    "pubdate": "2025-07-28-17-35-53 +0000"
+  },
+  {
+    "headline": "California, other states sue over USDA demand for SNAP recipients' data",
+    "link": "https://www.latimes.com/politics/story/2025-07-28/california-other-states-sue-over-usda-demand-for-info-on-snap-recipients",
+    "source": "latimes",
+    "pubdate": "2025-07-28-17-35-53 +0000"
+  },
+  {
+    "headline": "Paul Gallagher, Brother of Oasis Frontmen, Is Charged With Rape",
+    "link": "https://www.nytimes.com/2025/07/28/world/europe/paul-gallagher-oasis-rape-charge.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-34-52 +0000"
+  },
+  {
+    "headline": "Paul Gallagher, Brother of Oasis Frontmen, Is Charged With Rape",
+    "link": "https://www.nytimes.com/2025/07/28/world/europe/paul-gallagher-oasis-rape-charge.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-34-52 +0000"
+  },
+  {
+    "headline": "Multiple people injured after gunman opens fire outside Reno casino",
+    "link": "https://nypost.com/2025/07/28/us-news/multiple-people-injured-after-gunman-opens-fire-outside-reno-casino/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-17-29-38 +0000"
+  },
+  {
+    "headline": "Pilot Facing Child Sex Abuse Materials Charges Is Arrested After Flight, U.S. Says",
+    "link": "https://www.nytimes.com/2025/07/28/business/delta-pilot-arrested-san-francisco-federal-agents.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-28-56 +0000"
+  },
+  {
+    "headline": "Starmer shares Gaza peace blueprint with Trump",
+    "link": "https://www.bbc.com/news/articles/cly6zgyy0wjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-28-17-28-11 +0000"
+  },
+  {
+    "headline": "Judge Blocks Trump Administration-Backed Medicaid Cuts to Planned Parenthood",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/planned-parenthood-medicaid-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-23-45 +0000"
+  },
+  {
+    "headline": "Judge Blocks Trump Administration-Backed Medicaid Cuts to Planned Parenthood",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/planned-parenthood-medicaid-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-07-28-17-23-45 +0000"
+  },
+  {
+    "headline": "This influencer is fighting back at bad walkers by secretly filming them — and New Yorkers are thrilled with his sidewalk rage",
+    "link": "https://nypost.com/2025/07/28/lifestyle/this-influencer-is-fighting-back-at-bad-walkers-by-secretly-filming-them-and-new-yorkers-are-thrilled-with-his-sidewalk-rage/",
+    "source": "nypost",
+    "pubdate": "2025-07-28-17-23-02 +0000"
+  },
+  {
+    "headline": "Trump Says U.S., Europe to Send More Aid to Gaza",
+    "link": "https://www.wsj.com/world/middle-east/trump-says-u-s-europe-to-send-more-aid-to-gaza-b7d83af9",
+    "source": "wsj",
+    "pubdate": "2025-07-28-17-22-00 +0000"
   }
 ]
