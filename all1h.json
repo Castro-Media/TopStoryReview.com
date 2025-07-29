@@ -1,86 +1,236 @@
 [
   {
-    "headline": "Trump rolling back ‘trillion dollars’ of Dem green car regulations",
-    "link": "https://nypost.com/2025/07/29/us-news/trump-rolling-back-trillion-dollars-of-dem-green-car-regulations/",
+    "headline": "Report suggests arms still flow from Canada to Israel despite denials",
+    "link": "https://www.cbc.ca/news/politics/arms-ammunition-shipments-israel-canada-1.7596091?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-07-29-14-56-52 +0000"
+  },
+  {
+    "headline": "Pope Leo XIV receives a rock star’s welcome at Catholic influencer festival",
+    "link": "https://nypost.com/2025/07/29/world-news/pope-leo-xiv-gets-rock-stars-welcome-at-catholic-influencer-festival/",
     "source": "nypost",
-    "pubdate": "2025-07-29-13-07-28 +0000"
+    "pubdate": "2025-07-29-14-55-50 +0000"
   },
   {
-    "headline": "Russian Strike on Prison Kills 16, Ukraine Says",
-    "link": "https://www.nytimes.com/2025/07/29/world/europe/ukraine-russia-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-13-05-54 +0000"
+    "headline": "Gunman who killed 4 at NYC building was targeting NFL offices but took wrong elevator, mayor says",
+    "link": "https://www.startribune.com/gunman-who-killed-4-at-manhattan-office-building-was-targeting-nfl-headquarters-mayor-says/601445498",
+    "source": "startribune",
+    "pubdate": "2025-07-29-14-55-01 +0000"
   },
   {
-    "headline": "Russian Strike on Prison Kills 16, Ukraine Says",
-    "link": "https://www.nytimes.com/2025/07/29/world/europe/ukraine-russia-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-13-05-54 +0000"
+    "headline": "NYC shooter Shane Tamura thanked a CTE documentary and listed names of prominent neuroscientists in apparent suicide note: sources",
+    "link": "https://nypost.com/2025/07/29/us-news/nyc-shooter-shane-tamura-thanked-a-cte-documentary-and-listed-names-of-prominent-neuroscientists-in-suicide-note-sources/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-14-54-30 +0000"
   },
   {
-    "headline": "Union Pacific to Buy Norfolk Southern in $85 Billion Railroad Deal",
-    "link": "https://www.nytimes.com/2025/07/29/business/union-pacific-norfolk-southern-merger.html",
+    "headline": "Paul Gallagher, Brother of Oasis Band Members, Is Charged With Rape",
+    "link": "https://www.nytimes.com/2025/07/28/world/europe/paul-gallagher-oasis-rape-charge.html",
     "source": "nyt",
-    "pubdate": "2025-07-29-13-05-41 +0000"
+    "pubdate": "2025-07-29-14-52-26 +0000"
+  },
+  {
+    "headline": "Paul Gallagher, Brother of Oasis Band Members, Is Charged With Rape",
+    "link": "https://www.nytimes.com/2025/07/28/world/europe/paul-gallagher-oasis-rape-charge.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-52-26 +0000"
+  },
+  {
+    "headline": "Former Football Players With CTE Have Turned to Violence",
+    "link": "https://www.nytimes.com/2025/07/29/business/nyc-shooting-note-cte-explained.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-50-29 +0000"
+  },
+  {
+    "headline": "Hundreds of arrests during deadly Angola fuel protests",
+    "link": "https://www.bbc.com/news/articles/c5y20dxkykro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-39-15 +0000"
+  },
+  {
+    "headline": "Hundreds of arrests during deadly Angola fuel protests",
+    "link": "https://www.bbc.com/news/articles/c5y20dxkykro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-39-15 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 25 as prison and hospital hit, Ukraine says",
+    "link": "https://www.bbc.com/news/articles/cj0y45mdjp7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-37-49 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 25 as prison and hospital hit, Ukraine says",
+    "link": "https://www.bbc.com/news/articles/cj0y45mdjp7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-37-49 +0000"
+  },
+  {
+    "headline": "Consumer-Confidence Survey Improved in July",
+    "link": "https://www.wsj.com/economy/consumers/consumer-confidence-survey-improved-in-july-a4a5610d",
+    "source": "wsj",
+    "pubdate": "2025-07-29-14-36-00 +0000"
+  },
+  {
+    "headline": "Wegovy maker warns of slower profits as rivals bite",
+    "link": "https://www.bbc.com/news/articles/cyvn77p05rzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-32-26 +0000"
+  },
+  {
+    "headline": "The Upside of Suing Trump",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/law-firms-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-31-35 +0000"
+  },
+  {
+    "headline": "The Upside of Suing Trump",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/law-firms-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-31-35 +0000"
+  },
+  {
+    "headline": "JPMorgan Chase Nears a Deal to Take Over Apple’s Credit-Card Program",
+    "link": "https://www.wsj.com/finance/banking/jpmorgan-chase-nears-a-deal-to-take-over-apples-credit-card-program-0bbcdda8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-07-29-14-29-00 +0000"
+  },
+  {
+    "headline": "IMF upgrades global growth forecast as tariffs ease",
+    "link": "https://www.bbc.com/news/articles/cn84gg2y5kpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-28-08 +0000"
+  },
+  {
+    "headline": "More than 60,000 people killed in Gaza during Israel offensive, Hamas-run health ministry says",
+    "link": "https://www.bbc.com/news/articles/cwyeg5x3nj0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-26-50 +0000"
+  },
+  {
+    "headline": "Employee killed in Midtown NYC shooting by crazed madman is identified as Cornell grad Julia Hyman",
+    "link": "https://nypost.com/2025/07/29/us-news/rudin-employee-killed-in-midtown-shooting-by-crazed-madman-ids-as-cornell-graduate-julia-hyman/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-14-26-25 +0000"
+  },
+  {
+    "headline": "Europe Made Major Trade Concessions to Trump. How Did That Happen?",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/europe-trump-trade-concessions-analysis.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-25-26 +0000"
+  },
+  {
+    "headline": "Europe Made Major Trade Concessions to Trump. How Did That Happen?",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/europe-trump-trade-concessions-analysis.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-25-26 +0000"
+  },
+  {
+    "headline": "Europe Made Major Trade Concessions to Trump. How Did That Happen?",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/europe-trump-trade-concessions-analysis.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-25-26 +0000"
+  },
+  {
+    "headline": "Police investigate assault as video appears to show Tommy Robinson",
+    "link": "https://www.bbc.com/news/articles/c209p0v5plwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-22-52 +0000"
+  },
+  {
+    "headline": "Columbia settlement with Trump puts Ivy League universities in ‘survival mode,’ Ohio State president claims",
+    "link": "https://nypost.com/2025/07/29/us-news/columbia-settlement-puts-ivy-league-universities-in-survival-mode-ohio-state-president-claims/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-14-19-10 +0000"
+  },
+  {
+    "headline": "Columbia settlement with Trump puts Ivy League universities in ‘survival mode,’ Ohio State president claims",
+    "link": "https://nypost.com/2025/07/29/us-news/columbia-settlement-puts-ivy-league-universities-in-survival-mode-ohio-state-president-claims/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-14-19-10 +0000"
+  },
+  {
+    "headline": "Israeli Far-Right Minister Promotes Plan for Jewish Resettlement in Gaza",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/israel-gaza-jewish-resettlement.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-18-54 +0000"
+  },
+  {
+    "headline": "Israeli Far-Right Minister Promotes Plan for Jewish Resettlement in Gaza",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/israel-gaza-jewish-resettlement.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-18-54 +0000"
+  },
+  {
+    "headline": "US rail merger could create first coast-to-coast freight service",
+    "link": "https://www.bbc.com/news/articles/cx2qll58914o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-16-28 +0000"
+  },
+  {
+    "headline": "Marjorie Taylor Greene Is First Republican Lawmaker to Call Gaza Crisis a ‘Genocide’",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/marjorie-taylor-greene-gaza-genocide.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-14-58 +0000"
+  },
+  {
+    "headline": "Marjorie Taylor Greene Is First Republican Lawmaker to Call Gaza Crisis a ‘Genocide’",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/marjorie-taylor-greene-gaza-genocide.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-14-58 +0000"
+  },
+  {
+    "headline": "Josh Hawley bill would give millions of Americans $600 each from tariff revenue",
+    "link": "https://nypost.com/2025/07/29/us-news/new-josh-hawley-bill-would-dole-out-600-rebates-per-person-from-tarrif-revenue/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-14-11-59 +0000"
+  },
+  {
+    "headline": "Josh Hawley bill would give millions of Americans $600 each from tariff revenue",
+    "link": "https://nypost.com/2025/07/29/us-news/new-josh-hawley-bill-would-dole-out-600-rebates-per-person-from-tarrif-revenue/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-14-11-59 +0000"
+  },
+  {
+    "headline": "Minneapolis’ Leslie Fhima gets frustrated on ‘Bachelor in Paradise’",
+    "link": "https://www.startribune.com/leslie-fhima-bachelor-in-paradise-jesse-palmer/601445438",
+    "source": "startribune",
+    "pubdate": "2025-07-29-14-10-06 +0000"
+  },
+  {
+    "headline": "Cease-Fire in Deadly Thailand-Cambodia Conflict Gets Armies’ Backing",
+    "link": "https://www.nytimes.com/2025/07/29/world/asia/thailand-cambodia-cease-fire-generals.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-04-39 +0000"
+  },
+  {
+    "headline": "Cease-Fire in Deadly Thailand-Cambodia Conflict Gets Armies’ Backing",
+    "link": "https://www.nytimes.com/2025/07/29/world/asia/thailand-cambodia-cease-fire-generals.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-14-04-39 +0000"
+  },
+  {
+    "headline": "Colbert bitterly mocks Paramount deal with slew of pee jokes: ‘Hot, streaming content right in your face’",
+    "link": "https://nypost.com/2025/07/29/media/colbert-bitterly-mocks-paramount-deal-with-slew-of-pee-jokes/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-14-03-26 +0000"
   },
   {
     "headline": "Spotify Gains Subscribers but Posts Loss",
     "link": "https://www.wsj.com/business/earnings/spotify-spot-q2-earnings-report-2025-3b85cdbe?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-07-29-13-04-00 +0000"
+    "pubdate": "2025-07-29-14-02-00 +0000"
   },
   {
-    "headline": "Storms leave 81,000 without power statewide, cleanup underway",
-    "link": "https://www.startribune.com/excel-energy-power-outages-mn-storms/601445472",
+    "headline": "12 Minnesota hospitals among nation’s best, as ranked by U.S. News and World report",
+    "link": "https://www.startribune.com/12-minnesota-hospitals-among-nations-best-as-ranked-by-us-news-and-world-report/601445017",
     "source": "startribune",
-    "pubdate": "2025-07-29-13-02-34 +0000"
+    "pubdate": "2025-07-29-14-00-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow, S&P 500 Futures Rise With Earnings, China Talks in Focus",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-29-2025?mod=rss_markets_main",
+    "headline": "Finding Faster, Cheaper Ways to Get to Bacon",
+    "link": "https://www.wsj.com/science/biology/pig-breeding-programs-bacon-pork-fc3f99b3?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-07-29-13-02-00 +0000"
-  },
-  {
-    "headline": "I.M.F. Raises Global Growth Outlook as U.S. Looks to Avert Trade Wars",
-    "link": "https://www.nytimes.com/2025/07/29/business/economy/imf-world-economic-outlook-trade-wars.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-13-00-09 +0000"
-  },
-  {
-    "headline": "I.M.F. Raises Global Growth Outlook as U.S. Looks to Avert Trade Wars",
-    "link": "https://www.nytimes.com/2025/07/29/business/economy/imf-world-economic-outlook-trade-wars.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-13-00-09 +0000"
-  },
-  {
-    "headline": "I.M.F. Raises Global Growth Outlook as U.S. Looks to Avert Trade Wars",
-    "link": "https://www.nytimes.com/2025/07/29/business/economy/imf-world-economic-outlook-trade-wars.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-13-00-09 +0000"
-  },
-  {
-    "headline": "Booker Prize Nominees Include Novels by Kiran Desai, Katie Kitamura and Susan Choi",
-    "link": "https://www.nytimes.com/2025/07/29/arts/booker-prize-nominees.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-13-00-07 +0000"
-  },
-  {
-    "headline": "Global economy is weathering Trump’s tariff assault, IMF says",
-    "link": "https://www.washingtonpost.com/business/2025/07/29/global-economy-trump-tariffs-imf/",
-    "source": "wapo",
-    "pubdate": "2025-07-29-13-00-00 +0000"
-  },
-  {
-    "headline": "Risks from the trade war remain, but the road ahead for the global economy has turned brighter this summer, the IMF says",
-    "link": "https://www.wsj.com/economy/tariff-detente-lifts-global-growth-outlook-imf-says-b59e84a0",
-    "source": "wsj",
-    "pubdate": "2025-07-29-13-00-00 +0000"
-  },
-  {
-    "headline": "Twins beat Red Sox 5-4 after thunderstorm delay",
-    "link": "https://www.startribune.com/minnesota-twins-beat-boston-red-sox/601445427",
-    "source": "startribune",
-    "pubdate": "2025-07-29-12-59-29 +0000"
+    "pubdate": "2025-07-29-14-00-00 +0000"
   }
 ]
