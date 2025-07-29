@@ -1,15 +1,585 @@
 [
   {
-    "headline": "Ghislaine Maxwell Lawyer Says She Will Only Testify for Immunity or Clemency",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/ghislaine-maxwell-epstein-testimony.html",
+    "headline": "Grassley Spurns Whistle-Blowers in Bove Confirmation Fight",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/grassley-whistle-blowers-emil-bove.html",
     "source": "nyt",
-    "pubdate": "2025-07-29-20-48-05 +0000"
+    "pubdate": "2025-07-29-22-53-30 +0000"
+  },
+  {
+    "headline": "Booker Accuses Democrats of Being ‘Complicit’ With Trump in Heated Exchange",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/cory-booker-democrats-trump-senate.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-49-28 +0000"
+  },
+  {
+    "headline": "Booker Accuses Democrats of Being ‘Complicit’ With Trump in Heated Exchange",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/cory-booker-democrats-trump-senate.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-49-28 +0000"
+  },
+  {
+    "headline": "Sean ‘Diddy’ Combs wants to live in his Miami mansion as disgraced rap mogul makes longshot bid to be sprung ahead of sentencing: docs",
+    "link": "https://nypost.com/2025/07/29/us-news/sean-diddy-combs-wants-to-live-in-miami-mansion-as-he-awaits-sentencing-docs/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-48-13 +0000"
+  },
+  {
+    "headline": "Slain NYPD cop Didarul Islam hailed as a hero after deadly NYC mass shooting: ‘The very best of our department’",
+    "link": "https://nypost.com/2025/07/29/us-news/slain-nypd-cop-didarul-islam-hailed-as-a-hero-after-deadly-nyc-mass-shooting-the-very-best-of-our-department/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-47-29 +0000"
+  },
+  {
+    "headline": "Major cyberattack hits St. Paul, shuts down many services",
+    "link": "https://www.startribune.com/major-digital-outage-in-st-paul/601445660",
+    "source": "startribune",
+    "pubdate": "2025-07-29-22-46-16 +0000"
+  },
+  {
+    "headline": "Ex-wife of Minnesota corrections commissioner pleads guilty to trying to kill disabled son",
+    "link": "https://www.startribune.com/ex-wife-of-minnesota-doc-commissioner-pleads-guilty-to-trying-to-kill-disabled-son/601445659",
+    "source": "startribune",
+    "pubdate": "2025-07-29-22-45-31 +0000"
+  },
+  {
+    "headline": "Tennis fans to get early taste of new dining options at US Open as revamped mixed doubles format kicks off tournament",
+    "link": "https://nypost.com/2025/07/29/business/tennis-fans-to-get-sneak-peak-on-dining-options-at-us-open/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-45-04 +0000"
+  },
+  {
+    "headline": "Inside the Nightmare at 345 Park Avenue, a Manhattan Office Tower Under Attack",
+    "link": "https://www.wsj.com/us-news/inside-the-nightmare-at-345-park-avenue-a-manhattan-office-tower-under-attack-ed85c878",
+    "source": "wsj",
+    "pubdate": "2025-07-29-22-45-00 +0000"
+  },
+  {
+    "headline": "Minnesota eyeing improvements to security at State Capitol, lawmakers’ homes",
+    "link": "https://www.startribune.com/minnesota-eyeing-improvements-to-security-at-state-capitol-lawmakers-homes/601445731",
+    "source": "startribune",
+    "pubdate": "2025-07-29-22-43-04 +0000"
+  },
+  {
+    "headline": "Maniac caught on video setting pit bull on fire on NYC street is arrested: cops",
+    "link": "https://nypost.com/2025/07/29/us-news/man-caught-on-video-setting-pit-bull-on-fire-on-nyc-street-is-arrested-cops/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-40-13 +0000"
+  },
+  {
+    "headline": "Walz calls special elections for vacant Minnesota Senate seats",
+    "link": "https://www.startribune.com/walz-calls-elections-for-minnesota-senate-seats-vacated-by-mitchell-anderson/601445780",
+    "source": "startribune",
+    "pubdate": "2025-07-29-22-39-45 +0000"
+  },
+  {
+    "headline": "University of California Settles With Jewish Students Over U.C.L.A. Protests",
+    "link": "https://www.nytimes.com/2025/07/29/us/ucla-jewish-students-settlement.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-36-51 +0000"
+  },
+  {
+    "headline": "NY pols push IRS to probe nonprofit ‘sanctuary’ groups helping defy Trump, federal immigration laws",
+    "link": "https://nypost.com/2025/07/29/us-news/ny-pols-push-irs-to-probe-nonprofit-sanctuary-groups-helping-defy-trump-federal-immigration-laws/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-31-20 +0000"
+  },
+  {
+    "headline": "NY pols push IRS to probe nonprofit ‘sanctuary’ groups helping defy Trump, federal immigration laws",
+    "link": "https://nypost.com/2025/07/29/us-news/ny-pols-push-irs-to-probe-nonprofit-sanctuary-groups-helping-defy-trump-federal-immigration-laws/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-31-20 +0000"
+  },
+  {
+    "headline": "Harvard Will Share Employee Forms With Trump Administration",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/harvard-employee-forms-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-28-22 +0000"
+  },
+  {
+    "headline": "Harvard Will Share Employee Forms With Trump Administration",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/harvard-employee-forms-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-28-22 +0000"
+  },
+  {
+    "headline": "Qatar, Saudi Arabia, Egypt join calls for Hamas to disarm and exit Gaza to end war with Israel",
+    "link": "https://nypost.com/2025/07/29/world-news/qatar-saudi-arabia-egypt-join-calls-for-hamas-to-disarm-and-exit-gaza-to-end-war-with-israel/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-26-05 +0000"
+  },
+  {
+    "headline": "Starbucks Abandons Mobile Order, Pickup-Only Stores",
+    "link": "https://www.wsj.com/business/earnings/starbucks-earnings-q3-sbux-stock-382db7ae?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-22-22-00 +0000"
+  },
+  {
+    "headline": "Arkansas Police Release Photo of ‘Person of Interest’ in Killing of Couple",
+    "link": "https://www.nytimes.com/2025/07/29/us/person-of-interest-killing-devils-den-arkansas.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-18-58 +0000"
+  },
+  {
+    "headline": "States Sue Trump Administration Over Efforts to Get Food Stamp Data",
+    "link": "https://www.nytimes.com/2025/07/28/nyregion/states-sue-trump-administration-over-food-stamp-data.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-13-02 +0000"
+  },
+  {
+    "headline": "NYC business leaders eye offering active shooter training to rattled workers after Shane Tamura massacre",
+    "link": "https://nypost.com/2025/07/29/business/nyc-business-leaders-eye-offering-active-shooter-training-to-rattled-workers-after-shane-tamura-massacre/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-12-04 +0000"
+  },
+  {
+    "headline": "NYC business leaders eye offering active shooter training to rattled workers after Shane Tamura massacre",
+    "link": "https://nypost.com/2025/07/29/business/nyc-business-leaders-eye-offering-active-shooter-training-to-rattled-workers-after-shane-tamura-massacre/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-12-04 +0000"
+  },
+  {
+    "headline": "Greene Calls Gaza Crisis a ‘Genocide,’ Hinting at Rift on the Right Over Israel",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/marjorie-taylor-greene-gaza-genocide.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-10-48 +0000"
+  },
+  {
+    "headline": "Greene Calls Gaza Crisis a ‘Genocide,’ Hinting at Rift on the Right Over Israel",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/marjorie-taylor-greene-gaza-genocide.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-10-48 +0000"
+  },
+  {
+    "headline": "Trump Says He Declined Epstein’s Invitation to Visit His Island",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-epstein-files-island.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-05-58 +0000"
+  },
+  {
+    "headline": "Trump Says He Declined Epstein’s Invitation to Visit His Island",
+    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-epstein-files-island.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-05-58 +0000"
+  },
+  {
+    "headline": "Trump Says Epstein ‘Stole’ Underage Victim from Mar-a-Lago Spa",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-epstein-virginia-giuffre-mar-a-lago.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-05-36 +0000"
+  },
+  {
+    "headline": "Trump Says Epstein ‘Stole’ Underage Victim from Mar-a-Lago Spa",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-epstein-virginia-giuffre-mar-a-lago.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-05-36 +0000"
+  },
+  {
+    "headline": "Arkansas police release sinister photo of parent killer wanted for Devil’s Den double homicide as manhunt continues",
+    "link": "https://nypost.com/2025/07/29/us-news/arkansas-police-release-sinister-photo-of-parent-killer-wanted-for-devils-den-double-homicide-as-manhunt-continues/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-22-04-00 +0000"
+  },
+  {
+    "headline": "Satellite Image Shows Gazans Mobbing Aid Trucks",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-satellite-aid-truck-famine.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-03-18 +0000"
+  },
+  {
+    "headline": "Satellite Image Shows Gazans Mobbing Aid Trucks",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-satellite-aid-truck-famine.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-03-18 +0000"
+  },
+  {
+    "headline": "Countries Scramble to Strike Trade Deals With Trump as Deadline Nears",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-tariffs-trade-deals.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-02-09 +0000"
+  },
+  {
+    "headline": "Countries Scramble to Strike Trade Deals With Trump as Deadline Nears",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-tariffs-trade-deals.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-02-09 +0000"
+  },
+  {
+    "headline": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-says-gaza-will-get-more-aid-but-israel-will-distribute-it.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-00-58 +0000"
+  },
+  {
+    "headline": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-says-gaza-will-get-more-aid-but-israel-will-distribute-it.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-22-00-58 +0000"
+  },
+  {
+    "headline": "Ziad Rahbani, Composer Who Defined a Tragic Era in Lebanon, Dies at 69",
+    "link": "https://www.nytimes.com/2025/07/27/world/middleeast/ziad-rahbani-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-54-55 +0000"
+  },
+  {
+    "headline": "Ziad Rahbani, Composer Who Defined a Tragic Era in Lebanon, Dies at 69",
+    "link": "https://www.nytimes.com/2025/07/27/world/middleeast/ziad-rahbani-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-54-55 +0000"
+  },
+  {
+    "headline": "Wakeboarding in shallow water mucks up lakes, U study says",
+    "link": "https://www.startribune.com/u-of-m-study-wakeboats-stir-up-lakebed-sediments-when-operated-in-shallow-water/601445644",
+    "source": "startribune",
+    "pubdate": "2025-07-29-21-50-59 +0000"
+  },
+  {
+    "headline": "Opinion | A Railroad Merger Test for the Feds",
+    "link": "https://www.wsj.com/opinion/union-pacific-norfolk-southern-railroad-merger-trump-administration-7fd2e551?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-49-00 +0000"
+  },
+  {
+    "headline": "Opinion | A Railroad Merger Test for the Feds",
+    "link": "https://www.wsj.com/opinion/union-pacific-norfolk-southern-railroad-merger-trump-administration-7fd2e551",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-49-00 +0000"
+  },
+  {
+    "headline": "Opinion | Climate Regulation Liberation Day",
+    "link": "https://www.wsj.com/opinion/epa-endangerment-finding-repeal-greenhouse-gases-obama-trump-steve-koonin-67fcb2ce",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-49-00 +0000"
+  },
+  {
+    "headline": "Opinion | On Sarepta, a Welcome FDA Reversal",
+    "link": "https://www.wsj.com/opinion/fda-reversal-elevydis-sarepta-duchenne-gene-therapy-marty-makary-b6072d1f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-48-00 +0000"
+  },
+  {
+    "headline": "Opinion | Keir Starmer Has Conditions for Israel",
+    "link": "https://www.wsj.com/opinion/keir-starmer-palestinian-state-israel-hamas-labour-party-u-k-b842a601",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-48-00 +0000"
   },
   {
     "headline": "Ghislaine Maxwell Lawyer Says She Will Only Testify for Immunity or Clemency",
     "link": "https://www.nytimes.com/2025/07/29/us/politics/ghislaine-maxwell-epstein-testimony.html",
     "source": "nyt",
-    "pubdate": "2025-07-29-20-48-05 +0000"
+    "pubdate": "2025-07-29-21-45-04 +0000"
+  },
+  {
+    "headline": "Ghislaine Maxwell Lawyer Says She Will Only Testify for Immunity or Clemency",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/ghislaine-maxwell-epstein-testimony.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-45-04 +0000"
+  },
+  {
+    "headline": "Top Justice Department Antitrust Officials Fired Amid Internal Feud",
+    "link": "https://www.wsj.com/us-news/law/top-justice-department-antitrust-officials-fired-amid-internal-feud-0c98d57c",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-45-00 +0000"
+  },
+  {
+    "headline": "Top Zelensky official praises Trump for giving Putin 10 days to end Ukraine invasion: ‘When America is serious, Russia backs down’",
+    "link": "https://nypost.com/2025/07/29/us-news/top-zelensky-official-praises-trump-for-giving-putin-10-days-to-end-ukraine-invasion-when-america-is-serious-russia-backs-down/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-42-41 +0000"
+  },
+  {
+    "headline": "Top Zelensky official praises Trump for giving Putin 10 days to end Ukraine invasion: ‘When America is serious, Russia backs down’",
+    "link": "https://nypost.com/2025/07/29/us-news/top-zelensky-official-praises-trump-for-giving-putin-10-days-to-end-ukraine-invasion-when-america-is-serious-russia-backs-down/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-42-41 +0000"
+  },
+  {
+    "headline": "Top Zelensky official praises Trump for giving Putin 10 days to end Ukraine invasion: ‘When America is serious, Russia backs down’",
+    "link": "https://nypost.com/2025/07/29/us-news/top-zelensky-official-praises-trump-for-giving-putin-10-days-to-end-ukraine-invasion-when-america-is-serious-russia-backs-down/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-42-41 +0000"
+  },
+  {
+    "headline": "The Familiar Suicide and Final Wish of the N.Y.C. Gunman",
+    "link": "https://www.nytimes.com/2025/07/29/us/nfl-cte-suicides-violence.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-42-37 +0000"
+  },
+  {
+    "headline": "N.C. Republicans Push Through Contested Agenda on ‘Veto Override Day’",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/veto-overrides-north-carolina.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-42-15 +0000"
+  },
+  {
+    "headline": "N.C. Republicans Push Through Contested Agenda on ‘Veto Override Day’",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/veto-overrides-north-carolina.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-42-15 +0000"
+  },
+  {
+    "headline": "Opinion | Can Syria’s President Control His Troops?",
+    "link": "https://www.wsj.com/opinion/can-syrias-president-control-his-troops-sharaa-middle-east-5d3ceb4b",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-42-00 +0000"
+  },
+  {
+    "headline": "Opinion | Can Syria’s President Control His Troops?",
+    "link": "https://www.wsj.com/opinion/can-syrias-president-control-his-troops-sharaa-middle-east-5d3ceb4b",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-42-00 +0000"
+  },
+  {
+    "headline": "Trolls make sick Luigi Mangione-inspired memes about Blackstone executive Wesley LePatner who was killed in NYC shooting",
+    "link": "https://nypost.com/2025/07/29/us-news/trolls-make-luigi-mangione-inspired-memes-about-blackstone-executive-wesley-lepatner-who-was-killed-in-nyc-shooting/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-41-51 +0000"
+  },
+  {
+    "headline": "James Leprino, ‘Willy Wonka of Cheese’ Who Revolutionized Pizza, Dies at 87",
+    "link": "https://www.nytimes.com/2025/07/26/business/james-leprino-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-37-38 +0000"
+  },
+  {
+    "headline": "Two ‘treasured’ Barbie designers killed in head-on crash in Italy",
+    "link": "https://nypost.com/2025/07/29/world-news/top-barbie-designers-killed-in-italy-car-crash/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-37-34 +0000"
+  },
+  {
+    "headline": "New Brazil development law risks Amazon deforestation, UN expert warns",
+    "link": "https://www.bbc.com/news/articles/cy98jqr4p0xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-21-36-53 +0000"
+  },
+  {
+    "headline": "New Brazil development law risks Amazon deforestation, UN expert warns",
+    "link": "https://www.bbc.com/news/articles/cy98jqr4p0xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-21-36-53 +0000"
+  },
+  {
+    "headline": "NYC shooter Shane Tamura built AR-15 used in deadly rampage piece-by-piece — and his boss supplied a key part: sources",
+    "link": "https://nypost.com/2025/07/29/us-news/nyc-shooter-shane-tamura-built-ar-15-used-in-deadly-rampage-piece-by-piece-and-his-boss-supplied-a-key-part-sources/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-35-50 +0000"
+  },
+  {
+    "headline": "Palo Alto Networks Nears Over $20 Billion Deal for Cybersecurity Firm CyberArk",
+    "link": "https://www.wsj.com/business/deals/palo-alto-networks-nears-over-20-billion-deal-for-cybersecurity-firm-cyberark-046aa047?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-35-00 +0000"
+  },
+  {
+    "headline": "The New ‘Perfect Combination’: The Reese’s Oreo Cup? The Oreo Reese’s Cookie?",
+    "link": "https://www.wsj.com/business/retail/the-new-perfect-combination-the-reeses-oreo-cup-the-oreo-reeses-cookie-99624045?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-34-00 +0000"
+  },
+  {
+    "headline": "Ukrainian mom-to-be expecting first child after multiple miscarriages killed in Russian strike at hospital ward: report",
+    "link": "https://nypost.com/2025/07/29/world-news/ukrainian-mom-to-be-expecting-first-child-after-multiple-miscarriages-killed-in-russian-strike-at-hospital-ward-report/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-30-24 +0000"
+  },
+  {
+    "headline": "Stock Market Today: China, U.S. Discuss Extending Trade Truce",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-29-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-30-00 +0000"
+  },
+  {
+    "headline": "UK to recognise Palestinian state unless Israel meets conditions",
+    "link": "https://www.bbc.com/news/articles/cpdjvn1eeplo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-21-28-49 +0000"
+  },
+  {
+    "headline": "UK to recognise Palestinian state unless Israel meets conditions",
+    "link": "https://www.bbc.com/news/articles/cpdjvn1eeplo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-21-28-49 +0000"
+  },
+  {
+    "headline": "Watch: Fighter jet swerves dramatically to avoid birds near packed beach",
+    "link": "https://www.bbc.com/news/videos/clyr2qx0y87o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-21-27-59 +0000"
+  },
+  {
+    "headline": "Watch: Fighter jet swerves dramatically to avoid birds near packed beach",
+    "link": "https://www.bbc.com/news/videos/clyr2qx0y87o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-21-27-59 +0000"
+  },
+  {
+    "headline": "SoCal residents visiting Reno for bachelor party were among victims of mass shooting",
+    "link": "https://www.latimes.com/california/story/2025-07-29/socal-residents-among-victims-reno-mass-shooting",
+    "source": "latimes",
+    "pubdate": "2025-07-29-21-26-10 +0000"
+  },
+  {
+    "headline": "Boeing Takes Slow Approach to Expansion",
+    "link": "https://www.wsj.com/business/airlines/boeing-ba-2q-earnings-report-2025-14367be3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-26-00 +0000"
+  },
+  {
+    "headline": "Accusations of fake overtime fly in Minneapolis police sergeant’s harassment case",
+    "link": "https://www.startribune.com/mayor-frey-security-officer-blackey-alleges-ex-faked-overtime/601444918",
+    "source": "startribune",
+    "pubdate": "2025-07-29-21-22-14 +0000"
+  },
+  {
+    "headline": "NYC Gunman Brings Issue of C.T.E. to NFL’s Door",
+    "link": "https://www.nytimes.com/2025/07/29/us/nyc-shooting-gunman-nfl-cte.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-19-47 +0000"
+  },
+  {
+    "headline": "More than 60,000 people killed in Gaza war, local health officials say",
+    "link": "https://www.washingtonpost.com/world/2025/07/29/gaza-death-toll-60000/",
+    "source": "wapo",
+    "pubdate": "2025-07-29-21-18-56 +0000"
+  },
+  {
+    "headline": "Palmer Luckey's Anduril leads second quarter surge for venture capital in greater L.A.",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-07-29/anduril-defense-tech-aerospace-venture-capital-los-angeles",
+    "source": "latimes",
+    "pubdate": "2025-07-29-21-18-05 +0000"
+  },
+  {
+    "headline": "Midtown Shooting Suspect Leaves Suicide Note Targeting NFL",
+    "link": "https://www.wsj.com/us-news/nyc-midtown-shooting-nypd-investigation-shane-tamura-3b8f5393",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-18-00 +0000"
+  },
+  {
+    "headline": "KPMG shuts office, tells staff to stay home after deadly Midtown shooting",
+    "link": "https://nypost.com/2025/07/29/business/kpmg-shuts-office-tells-staff-to-stay-home-after-deadly-midtown-shooting/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-15-36 +0000"
+  },
+  {
+    "headline": "Trump’s Tariff Deals With E.U., U.K. and Japan Are a Blow to Canada’s Car Industry",
+    "link": "https://www.nytimes.com/2025/07/29/world/canada/canada-automobile-tariffs-trump-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-13-01 +0000"
+  },
+  {
+    "headline": "Trump’s Tariff Deals With E.U., U.K. and Japan Are a Blow to Canada’s Car Industry",
+    "link": "https://www.nytimes.com/2025/07/29/world/canada/canada-automobile-tariffs-trump-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-13-01 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani planning to ‘disband’ elite NYPD task force that responded to deadly NYC shooting",
+    "link": "https://nypost.com/2025/07/29/us-news/zohran-mamdani-is-planning-to-axe-the-elite-nypd-taskforce-that-responded-to-nyc-shooting/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-21-11-15 +0000"
+  },
+  {
+    "headline": "Apple Manufacturing Academy opens in Detroit amid Trump pressure on U.S. production",
+    "link": "https://www.latimes.com/business/story/2025-07-29/apple-manufacturing-facility-in-detroit-opens",
+    "source": "latimes",
+    "pubdate": "2025-07-29-21-10-41 +0000"
+  },
+  {
+    "headline": "Republicans Unveil Aviation Safety Bill Before D.C. Crash Hearings",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/aviation-safety-bill-dca-crash-hearings.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-08-26 +0000"
+  },
+  {
+    "headline": "Republicans Unveil Aviation Safety Bill Before D.C. Crash Hearings",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/aviation-safety-bill-dca-crash-hearings.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-08-26 +0000"
+  },
+  {
+    "headline": "Starbucks Earnings Show Same-Store Sales Slid Amid Turnaround Effort",
+    "link": "https://www.nytimes.com/2025/07/29/business/starbucks-earnings-turnaround.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-08-00 +0000"
+  },
+  {
+    "headline": "Opinion | Mergers Test ‘Madman’ Trump",
+    "link": "https://www.wsj.com/opinion/mergers-test-madman-trump-railroad-5dd59d85?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-04-00 +0000"
+  },
+  {
+    "headline": "Opinion | Mergers Test ‘Madman’ Trump",
+    "link": "https://www.wsj.com/opinion/mergers-test-madman-trump-railroad-5dd59d85",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-04-00 +0000"
+  },
+  {
+    "headline": "The ordinary rush-hour that became  two hours of terror in a New York skyscraper",
+    "link": "https://www.bbc.com/news/articles/cy85737235go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-21-02-54 +0000"
+  },
+  {
+    "headline": "Opinion | Violent Crime Is in Decline. Why?",
+    "link": "https://www.wsj.com/opinion/the-real-drivers-of-violent-crime-trump-police-law-fbi-d36e981e",
+    "source": "wsj",
+    "pubdate": "2025-07-29-21-02-00 +0000"
+  },
+  {
+    "headline": "Wednesday Briefing: The U.K. May Recognize a Palestinian State",
+    "link": "https://www.nytimes.com/2025/07/29/briefing/britain-palestinian-state-china-us-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-01-26 +0000"
+  },
+  {
+    "headline": "Wednesday Briefing: The U.K. May Recognize a Palestinian State",
+    "link": "https://www.nytimes.com/2025/07/29/briefing/britain-palestinian-state-china-us-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-01-26 +0000"
+  },
+  {
+    "headline": "Why Airdrops in Gaza Are Seen as a Risky Last Resort",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-airdrops.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-00-06 +0000"
+  },
+  {
+    "headline": "Why Airdrops in Gaza Are Seen as a Risky Last Resort",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-airdrops.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-21-00-06 +0000"
+  },
+  {
+    "headline": "Opinion | A Peace Deal for Armenia and Azerbaijan",
+    "link": "https://www.wsj.com/opinion/a-peace-deal-for-armenia-and-azerbaijan-99373485?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-20-59-00 +0000"
+  },
+  {
+    "headline": "Opinion | A Peace Deal for Armenia and Azerbaijan",
+    "link": "https://www.wsj.com/opinion/a-peace-deal-for-armenia-and-azerbaijan-99373485",
+    "source": "wsj",
+    "pubdate": "2025-07-29-20-59-00 +0000"
+  },
+  {
+    "headline": "Spotify Gains Subscribers but Posts Loss",
+    "link": "https://www.wsj.com/business/earnings/spotify-spot-q2-earnings-report-2025-3b85cdbe?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-20-58-00 +0000"
+  },
+  {
+    "headline": "Woman who lost both legs after crazed ex shoved her in front of NYC train gives tearjerking speech at sentencing: ‘Mourn the life I lived with my feet’",
+    "link": "https://nypost.com/2025/07/29/us-news/woman-shoved-in-front-of-nyc-subway-train-by-ex-gives-tearjerking-speech-at-his-sentencing/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-20-57-01 +0000"
+  },
+  {
+    "headline": "Another Walmart is closing in the north Twin Cities metro",
+    "link": "https://www.startribune.com/coon-rapids-walmart-closing-august-29-older-format-store/601445661",
+    "source": "startribune",
+    "pubdate": "2025-07-29-20-56-20 +0000"
   },
   {
     "headline": "S&P 500 Breaks Winning Streak After U.S.-China Meeting Ends Without a Deal",
@@ -42,18 +612,6 @@
     "pubdate": "2025-07-29-20-39-34 +0000"
   },
   {
-    "headline": "Why Airdrops in Gaza Are Seen as a Risky Last Resort",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-airdrops.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-20-39-27 +0000"
-  },
-  {
-    "headline": "Why Airdrops in Gaza Are Seen as a Risky Last Resort",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-airdrops.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-20-39-27 +0000"
-  },
-  {
     "headline": "Married special education teacher pleads guilty to sending nudes to student on Snapchat",
     "link": "https://nypost.com/2025/07/29/us-news/missouri-teacher-rikki-lyn-laughlin-sent-nudes-to-student-on-snapchat/",
     "source": "nypost",
@@ -78,12 +636,6 @@
     "pubdate": "2025-07-29-20-37-44 +0000"
   },
   {
-    "headline": "Starbucks Struggles to Perk Up Sales",
-    "link": "https://www.wsj.com/business/earnings/starbucks-earnings-q3-sbux-stock-382db7ae?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-07-29-20-33-00 +0000"
-  },
-  {
     "headline": "Union Pacific to Buy Norfolk Southern in $85 Billion Railroad Deal",
     "link": "https://www.nytimes.com/2025/07/29/business/union-pacific-norfolk-southern-merger.html",
     "source": "nyt",
@@ -102,34 +654,10 @@
     "pubdate": "2025-07-29-20-29-05 +0000"
   },
   {
-    "headline": "Walz calls elections for Minnesota Senate seats vacated by Mitchell, Anderson",
-    "link": "https://www.startribune.com/walz-calls-elections-for-minnesota-senate-seats-vacated-by-mitchell-anderson/601445780",
-    "source": "startribune",
-    "pubdate": "2025-07-29-20-26-22 +0000"
-  },
-  {
-    "headline": "Ex-wife of Minnesota corrections commissioner pleads guilty to trying to kill disabled son",
-    "link": "https://www.startribune.com/ex-wife-of-minnesota-doc-commissioner-pleads-guilty-to-trying-to-kill-disabled-son/601445659",
-    "source": "startribune",
-    "pubdate": "2025-07-29-20-26-18 +0000"
-  },
-  {
     "headline": "Cops find note in NYC shooter Shane Tamura’s Las Vegas apartment revealing he felt like a ‘disappointment’ to his parents",
     "link": "https://nypost.com/2025/07/29/us-news/cops-find-note-in-nyc-shooter-shane-tamuras-lv-apartment-revealing-he-felt-like-a-disappointment-to-his-parents/",
     "source": "nypost",
     "pubdate": "2025-07-29-20-26-15 +0000"
-  },
-  {
-    "headline": "Satellite Image Shows Gazans Mobbing Aid Trucks",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-satellite-aid-truck-famine.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-20-20-44 +0000"
-  },
-  {
-    "headline": "Satellite Image Shows Gazans Mobbing Aid Trucks",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-satellite-aid-truck-famine.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-20-20-44 +0000"
   },
   {
     "headline": "US and China end trade talks with no breakthrough",
@@ -168,12 +696,6 @@
     "pubdate": "2025-07-29-20-13-48 +0000"
   },
   {
-    "headline": "UK to recognise Palestinian state unless Israel meets conditions",
-    "link": "https://www.bbc.com/news/articles/cpdjvn1eeplo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-29-20-12-18 +0000"
-  },
-  {
     "headline": "NJ dateless wonders whine they can’t land love — because New Yorkers are stuck up about traveling there: ‘Five subway stop limit’",
     "link": "https://nypost.com/2025/07/29/lifestyle/nj-dateless-whines-they-cant-land-love-because-new-yorkers-are-stuck-up-about-traveling-there/",
     "source": "nypost",
@@ -210,12 +732,6 @@
     "pubdate": "2025-07-29-20-08-21 +0000"
   },
   {
-    "headline": "Stock Market Today: China, U.S. Discuss Extending Trade Truce",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-29-2025?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-07-29-20-08-00 +0000"
-  },
-  {
     "headline": "U.K. Gives Israel Ultimatum on Palestinian State Recognition",
     "link": "https://www.wsj.com/world/middle-east/u-k-gives-israel-ultimatum-on-palestinian-state-recognition-c2418bcc",
     "source": "wsj",
@@ -240,16 +756,16 @@
     "pubdate": "2025-07-29-19-59-32 +0000"
   },
   {
-    "headline": "UCLA to pay $6.45 million to settle suit by Jewish students over pro-Palestinian protests",
+    "headline": "UCLA violated Jewish students' civil rights with 'deliberate indifference,' feds say",
     "link": "https://www.latimes.com/california/story/2025-07-29/ucla-settles-lawsuit-jewish-students",
     "source": "latimes",
     "pubdate": "2025-07-29-19-59-00 +0000"
   },
   {
-    "headline": "Midtown Shooting Suspect Leaves Suicide Note Targeting NFL",
-    "link": "https://www.wsj.com/us-news/nyc-midtown-shooting-nypd-investigation-shane-tamura-3b8f5393",
-    "source": "wsj",
-    "pubdate": "2025-07-29-19-55-00 +0000"
+    "headline": "Hong Kong has issued a warrant for his arrest, but this Vancouverite isn't worried",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/victor-ho-hong-kong-arrest-warrant-1.7596560?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-07-29-19-53-30 +0000"
   },
   {
     "headline": "UK Will Recognize Palestinian Statehood In September, Unless Israel-Hamas Cease-Fire is Reached",
@@ -294,12 +810,6 @@
     "pubdate": "2025-07-29-19-46-33 +0000"
   },
   {
-    "headline": "Minneapolis breaks ground on $45 million North Commons Park overhaul",
-    "link": "https://www.startribune.com/minneapolis-breaks-ground-on-45-million-north-commons-park-overhaul/601445040",
-    "source": "startribune",
-    "pubdate": "2025-07-29-19-40-37 +0000"
-  },
-  {
     "headline": "Ghislaine Maxwell Says She’d Answer Congress’s Questions if She Gets Immunity or Clemency",
     "link": "https://www.wsj.com/politics/policy/epstein-ghislaine-maxwell-congress-testimony-response-c6a89bbb",
     "source": "wsj",
@@ -342,12 +852,6 @@
     "pubdate": "2025-07-29-19-13-54 +0000"
   },
   {
-    "headline": "Trump confirms Epstein ‘stole’ women from Mar-a-Lago spa: ‘Taking people that work for me is bad’",
-    "link": "https://nypost.com/2025/07/29/us-news/trump-confirms-epstein-stole-women-from-mar-a-lago-spa/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-19-13-54 +0000"
-  },
-  {
     "headline": "U.S. and China Fail to Reach Immediate Deal to Prolong Trade Truce",
     "link": "https://www.nytimes.com/2025/07/29/world/europe/us-china-trade-deal-talks-tariffs.html",
     "source": "nyt",
@@ -358,30 +862,12 @@
     "link": "https://www.nytimes.com/2025/07/29/world/europe/us-china-trade-deal-talks-tariffs.html",
     "source": "nyt",
     "pubdate": "2025-07-29-19-13-36 +0000"
-  },
-  {
-    "headline": "Major cyberattack hits St. Paul, shuts down many services",
-    "link": "https://www.startribune.com/major-digital-outage-in-st-paul/601445660",
-    "source": "startribune",
-    "pubdate": "2025-07-29-19-13-20 +0000"
   },
   {
     "headline": "Wegovy maker Novo’s profit warning wipes out $70B in market value after shares plunge 30%",
     "link": "https://nypost.com/2025/07/29/business/wegovy-maker-novos-profit-warning-wipes-out-70b-in-market-value-after-shares-plunge-30/",
     "source": "nypost",
     "pubdate": "2025-07-29-19-09-37 +0000"
-  },
-  {
-    "headline": "NYC Gunman Brings Issue of C.T.E. to NFL’s Door",
-    "link": "https://www.nytimes.com/2025/07/29/us/nyc-shooting-gunman-nfl-cte.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-19-08-32 +0000"
-  },
-  {
-    "headline": "Walmart closing Coon Rapids store, the second in north metro to shutter in two years",
-    "link": "https://www.startribune.com/coon-rapids-walmart-closing-august-29-older-format-store/601445661",
-    "source": "startribune",
-    "pubdate": "2025-07-29-19-07-11 +0000"
   },
   {
     "headline": "Israeli Settler Kills Palestinian Activist Included in Oscar-Winning Documentary",
@@ -432,12 +918,6 @@
     "pubdate": "2025-07-29-18-42-33 +0000"
   },
   {
-    "headline": "What will two new amphitheaters mean for Twin Cities concertgoers?",
-    "link": "https://www.startribune.com/new-twin-cities-amphitheaters-shakopee-minneapolis-cpac-canterbury-first-ave-live-nation-music-fans/601445168",
-    "source": "startribune",
-    "pubdate": "2025-07-29-18-41-00 +0000"
-  },
-  {
     "headline": "China Sees Gaps in U.S. Defenses, Ousted National Security Official Says",
     "link": "https://www.nytimes.com/2025/07/29/us/politics/timothy-haugh-nsa-cyber.html",
     "source": "nyt",
@@ -468,12 +948,6 @@
     "pubdate": "2025-07-29-18-32-05 +0000"
   },
   {
-    "headline": "NYC subway’s mystery power outage has rush hour riders vowing to steal rides as payback",
-    "link": "https://nypost.com/2025/07/29/us-news/nyc-subways-mystery-power-outage-sparks-rush-hour-chaos-riders-vow-bizarre-revenge/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-18-32-05 +0000"
-  },
-  {
     "headline": "Shane Tamura Had Been Under a Mental-Health Crisis Hold",
     "link": "https://www.wsj.com/us-news/shane-tamura-new-york-shooting-suspect-1b10aeb4",
     "source": "wsj",
@@ -490,24 +964,6 @@
     "link": "https://nypost.com/2025/07/29/us-news/trump-reacts-to-starmer-plan-to-recognize-palestine-could-make-the-case-that-youre-rewarding-hamas/",
     "source": "nypost",
     "pubdate": "2025-07-29-18-30-57 +0000"
-  },
-  {
-    "headline": "Trump reacts to Starmer plan to recognize Palestine: ‘Could make the case that you’re rewarding Hamas’",
-    "link": "https://nypost.com/2025/07/29/us-news/trump-reacts-to-starmer-plan-to-recognize-palestine-could-make-the-case-that-youre-rewarding-hamas/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-18-30-57 +0000"
-  },
-  {
-    "headline": "Arkansas police release sketch of person of interest in murder of parents at Devil’s Den Park",
-    "link": "https://nypost.com/2025/07/29/us-news/arkansas-police-release-sketch-of-person-of-interest-in-murder-of-parents-at-devils-den-park/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-18-29-31 +0000"
-  },
-  {
-    "headline": "Recidivist walking around Bronx neighborhood with gun arrested — less than 24 hours after deadly NYC shooting: sources",
-    "link": "https://nypost.com/2025/07/29/us-news/bronx-neighborhood-on-lockdown-after-man-seen-walking-with-gun-less-than-24-hours-after-deadly-nyc-shooting/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-18-27-50 +0000"
   },
   {
     "headline": "29-year-old Google engineer dies in freak accident on popular Yosemite trail",
@@ -534,12 +990,6 @@
     "pubdate": "2025-07-29-18-25-51 +0000"
   },
   {
-    "headline": "‘Lifelong Quaker’ charged with assaulting federal officer in Portland anti-ICE riot",
-    "link": "https://nypost.com/2025/07/29/us-news/portland-quaker-charged-with-assaulting-federal-officer-in-anti-ice-riot/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-18-23-00 +0000"
-  },
-  {
     "headline": "California, other states sue Trump administration over bill defunding Planned Parenthood",
     "link": "https://www.latimes.com/politics/story/2025-07-29/california-other-states-sue-trump-administration-over-bill-defunding-planned-parenthood",
     "source": "latimes",
@@ -562,12 +1012,6 @@
     "link": "https://www.nytimes.com/2025/07/29/world/middleeast/houthis-hostages-video-yemen.html",
     "source": "nyt",
     "pubdate": "2025-07-29-18-19-09 +0000"
-  },
-  {
-    "headline": "Royal fans cheer Trump seemingly ‘throwing shade’ at Prince Harry, Meghan Markle",
-    "link": "https://nypost.com/2025/07/29/us-news/royal-fans-cheer-trump-seemingly-throwing-shade-at-prince-harry-meghan-markle/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-18-17-19 +0000"
   },
   {
     "headline": "Trump administration maneuvers to keep Essayli as L.A.'s top federal prosecutor",
@@ -592,18 +1036,6 @@
     "link": "https://www.latimes.com/opinion/story/2025-07-29/maga-trumpism-reaganism",
     "source": "latimes",
     "pubdate": "2025-07-29-18-09-00 +0000"
-  },
-  {
-    "headline": "Secret Service agent protecting Trump tried to sneak wife onto transport plane to Scotland",
-    "link": "https://nypost.com/2025/07/29/us-news/secret-service-agent-protecting-trump-tried-to-sneak-wife-onto-transport-plane-to-scotland/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-18-08-30 +0000"
-  },
-  {
-    "headline": "Boeing Takes Slow Approach to Expansion",
-    "link": "https://www.wsj.com/business/airlines/boeing-ba-2q-earnings-report-2025-14367be3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-07-29-18-07-00 +0000"
   },
   {
     "headline": "Opinion | The Truth Behind Palestinian Displacement",
@@ -658,12 +1090,6 @@
     "link": "https://www.bbc.com/news/articles/cwy15j4d8wjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-07-29-17-54-45 +0000"
-  },
-  {
-    "headline": "HS football coach doesn’t recall NYC shooter Shane Tamura suffering more than ankle injury during senior year",
-    "link": "https://nypost.com/2025/07/29/us-news/hs-football-coach-doesnt-recall-nyc-shooter-shane-tamura-suffering-more-than-ankle-injury-during-senior-year/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-17-53-18 +0000"
   },
   {
     "headline": "Novo Nordisk, Ozempic Drugmaker, Sees Stock Plunge 20% After Profit Warning",
@@ -738,22 +1164,10 @@
     "pubdate": "2025-07-29-17-28-52 +0000"
   },
   {
-    "headline": "Ghislaine Maxwell will plead the Fifth in Epstein House testimony — unless these demands are met: defense lawyer",
-    "link": "https://nypost.com/2025/07/29/us-news/ghislaine-maxwell-house-oversight-committee-deadlock-over-immunity-ahead-of-aug-11-interview/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-17-26-15 +0000"
-  },
-  {
     "headline": "Justin Trudeau, Katy Perry spotted dining together at high-end Montreal restaurant",
     "link": "https://www.cbc.ca/news/entertainment/justin-trudeau-katy-perry-montreal-restaurant-1.7596391?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-07-29-17-20-25 +0000"
-  },
-  {
-    "headline": "Video shows boat crash that killed 2 young girls at Florida summer camp: ‘All the kids went flying off’",
-    "link": "https://nypost.com/2025/07/29/us-news/video-shows-boat-crash-that-killed-2-young-girls-in-florida/",
-    "source": "nypost",
-    "pubdate": "2025-07-29-17-20-10 +0000"
   },
   {
     "headline": "A Megamerger Creates America’s First Coast-to-Coast Rail Operator",
@@ -858,12 +1272,6 @@
     "pubdate": "2025-07-29-16-42-05 +0000"
   },
   {
-    "headline": "Palo Alto Networks Nears Over $20 Billion Deal for Cybersecurity Firm CyberArk",
-    "link": "https://www.wsj.com/business/deals/palo-alto-networks-nears-over-20-billion-deal-for-cybersecurity-firm-cyberark-046aa047?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-07-29-16-37-00 +0000"
-  },
-  {
     "headline": "North Korea Says Kim’s Relations With Trump ‘Not Bad,’ but Stands Firm on Nukes",
     "link": "https://www.nytimes.com/2025/07/29/world/asia/north-korea-kim-trump.html",
     "source": "nyt",
@@ -874,12 +1282,6 @@
     "link": "https://www.nytimes.com/2025/07/29/world/asia/north-korea-kim-trump.html",
     "source": "nyt",
     "pubdate": "2025-07-29-16-30-53 +0000"
-  },
-  {
-    "headline": "Ramstad: At UnitedHealth HQ, it was humble pie for breakfast",
-    "link": "https://www.startribune.com/ramstad-at-unitedhealth-hq-it-was-humble-pie-for-breakfast/601445500",
-    "source": "startribune",
-    "pubdate": "2025-07-29-16-30-02 +0000"
   },
   {
     "headline": "Human dignity must be protected from rise of AI, Pope says",
@@ -942,12 +1344,6 @@
     "pubdate": "2025-07-29-16-08-00 +0000"
   },
   {
-    "headline": "Opinion | Trump Blunders His Fight With Harvard",
-    "link": "https://www.wsj.com/opinion/trump-blunders-his-fight-with-harvard-maga-education-politics-48dad49f",
-    "source": "wsj",
-    "pubdate": "2025-07-29-16-08-00 +0000"
-  },
-  {
     "headline": "Opinion | Hamas Will Never Surrender",
     "link": "https://www.wsj.com/opinion/hamas-will-never-surrender-middle-east-war-israel-a265cf41",
     "source": "wsj",
@@ -970,12 +1366,6 @@
     "link": "https://www.wsj.com/us-news/new-york-city-shooting-park-avenue-5e0b1ac8",
     "source": "wsj",
     "pubdate": "2025-07-29-16-07-00 +0000"
-  },
-  {
-    "headline": "Hearings will dig into unanswered questions in deadly D.C. plane crash",
-    "link": "https://www.washingtonpost.com/business/2025/07/29/dc-plane-crash-ntsb-army-helicopter-reagan-national/",
-    "source": "wapo",
-    "pubdate": "2025-07-29-16-05-00 +0000"
   },
   {
     "headline": "House probes whether EU, Biden administration pushed Spotify to censor podcasters including Joe Rogan, Steve Bannon",
@@ -1116,7 +1506,7 @@
     "pubdate": "2025-07-29-15-12-00 +0000"
   },
   {
-    "headline": "What we know about Shane Tamura, the former L.A. football standout accused in N.Y. mass shooting",
+    "headline": "Shane Tamura was an L.A. football standout. Now, he's accused of targeting the NFL in a mass shooting",
     "link": "https://www.latimes.com/california/story/2025-07-29/what-we-know-shane-tamura-man-accused-nfl-mass-shooting",
     "source": "latimes",
     "pubdate": "2025-07-29-15-07-33 +0000"
@@ -1182,18 +1572,6 @@
     "pubdate": "2025-07-29-14-32-26 +0000"
   },
   {
-    "headline": "The Upside of Suing Trump",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/law-firms-trump-administration.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-14-31-35 +0000"
-  },
-  {
-    "headline": "The Upside of Suing Trump",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/law-firms-trump-administration.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-14-31-35 +0000"
-  },
-  {
     "headline": "Europe Made Major Trade Concessions to Trump. How Did That Happen?",
     "link": "https://www.nytimes.com/2025/07/29/world/europe/europe-trump-trade-concessions-analysis.html",
     "source": "nyt",
@@ -1236,16 +1614,10 @@
     "pubdate": "2025-07-29-14-16-28 +0000"
   },
   {
-    "headline": "Marjorie Taylor Greene Is First Republican Lawmaker to Call Gaza Crisis a ‘Genocide’",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/marjorie-taylor-greene-gaza-genocide.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-14-14-58 +0000"
-  },
-  {
-    "headline": "Marjorie Taylor Greene Is First Republican Lawmaker to Call Gaza Crisis a ‘Genocide’",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/marjorie-taylor-greene-gaza-genocide.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-14-14-58 +0000"
+    "headline": "Merger could create first coast-to-coast US freight railroad",
+    "link": "https://www.bbc.com/news/articles/cx2qll58914o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-14-16-28 +0000"
   },
   {
     "headline": "Josh Hawley bill would give millions of Americans $600 each from tariff revenue",
@@ -1258,12 +1630,6 @@
     "link": "https://nypost.com/2025/07/29/media/colbert-bitterly-mocks-paramount-deal-with-slew-of-pee-jokes/",
     "source": "nypost",
     "pubdate": "2025-07-29-14-03-26 +0000"
-  },
-  {
-    "headline": "Spotify Gains Subscribers but Posts Loss",
-    "link": "https://www.wsj.com/business/earnings/spotify-spot-q2-earnings-report-2025-3b85cdbe?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-07-29-14-02-00 +0000"
   },
   {
     "headline": "12 Minnesota hospitals among nation’s best, as ranked by U.S. News and World Report",
@@ -1320,7 +1686,7 @@
     "pubdate": "2025-07-29-13-33-00 +0000"
   },
   {
-    "headline": "New York gunman, an L.A. high school football player, left a note saying: 'Study my brain please'",
+    "headline": "New York gunman, a former L.A. high school football player, left a note saying: 'Study my brain please'",
     "link": "https://www.latimes.com/california/story/2025-07-29/new-york-gunman-socal-football-player",
     "source": "latimes",
     "pubdate": "2025-07-29-13-27-59 +0000"
@@ -1354,12 +1720,6 @@
     "link": "https://www.nytimes.com/2025/07/29/arts/booker-prize-nominees.html",
     "source": "nyt",
     "pubdate": "2025-07-29-13-00-08 +0000"
-  },
-  {
-    "headline": "Global economy is weathering Trump’s tariff assault, IMF says",
-    "link": "https://www.washingtonpost.com/business/2025/07/29/global-economy-trump-tariffs-imf/",
-    "source": "wapo",
-    "pubdate": "2025-07-29-13-00-00 +0000"
   },
   {
     "headline": "Risks from the trade war remain, but the road ahead for the global economy has turned brighter this summer, the IMF says",
@@ -1476,12 +1836,6 @@
     "pubdate": "2025-07-29-11-11-03 +0000"
   },
   {
-    "headline": "IRS warns federal workers about tax debts. Will it cost them their jobs?",
-    "link": "https://www.washingtonpost.com/business/2025/07/29/irs-letter-federal-workers-taxes/",
-    "source": "wapo",
-    "pubdate": "2025-07-29-11-05-51 +0000"
-  },
-  {
     "headline": "Why are scientists dressing pigs in clothes and burying them in Mexico?",
     "link": "https://nypost.com/2025/07/29/world-news/why-are-scientists-dressing-pigs-in-clothes-and-burying-them-in-mexico/",
     "source": "nypost",
@@ -1530,16 +1884,16 @@
     "pubdate": "2025-07-29-10-51-30 +0000"
   },
   {
+    "headline": "Merck to Lay Off Workers and Narrows Guidance as Earnings Fall",
+    "link": "https://www.wsj.com/health/pharma/merck-to-lay-off-workers-and-narrows-guidance-as-earnings-fall-ecc7b97e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-10-40-00 +0000"
+  },
+  {
     "headline": "Famine Is Unfolding in Gaza, U.N.-Backed Group Says",
     "link": "https://www.wsj.com/world/middle-east/experts-say-famine-unfolding-in-gaza-strip-716cf5d1",
     "source": "wsj",
     "pubdate": "2025-07-29-10-34-00 +0000"
-  },
-  {
-    "headline": "More than 60,000 people killed in Gaza war, local health officials say",
-    "link": "https://www.washingtonpost.com/world/2025/07/29/gaza-death-toll-60000/",
-    "source": "wapo",
-    "pubdate": "2025-07-29-10-06-59 +0000"
   },
   {
     "headline": "This robot uses Japanese tradition and AI for sashimi that lasts longer and is more humane",
@@ -1566,14 +1920,14 @@
     "pubdate": "2025-07-29-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: A new iteration of Taco María opens, in an unlikely place",
-    "link": "https://www.latimes.com/california/story/2025-07-29/carlos-salgado-taco-maria-wisconsin-la-sirena",
+    "headline": "Perseid meteor shower: When it peaks and what could spoil the party",
+    "link": "https://www.latimes.com/california/story/2025-07-29/perseids-meteor-shower-moon-visibility",
     "source": "latimes",
     "pubdate": "2025-07-29-10-00-00 +0000"
   },
   {
-    "headline": "Perseid meteor shower: When it peaks and what could spoil the party",
-    "link": "https://www.latimes.com/california/story/2025-07-29/perseids-meteor-shower-moon-visibility",
+    "headline": "Arellano: A new iteration of Taco María opens, in an unlikely place",
+    "link": "https://www.latimes.com/california/story/2025-07-29/carlos-salgado-taco-maria-wisconsin-la-sirena",
     "source": "latimes",
     "pubdate": "2025-07-29-10-00-00 +0000"
   },
@@ -1696,12 +2050,6 @@
     "link": "https://www.nytimes.com/2025/07/29/travel/istanbul-new-museums.html",
     "source": "nyt",
     "pubdate": "2025-07-29-09-00-09 +0000"
-  },
-  {
-    "headline": "Top Justice Department Antitrust Officials Fired Amid Internal Feud",
-    "link": "https://www.wsj.com/us-news/law/top-justice-department-antitrust-officials-fired-amid-internal-feud-0c98d57c",
-    "source": "wsj",
-    "pubdate": "2025-07-29-09-00-00 +0000"
   },
   {
     "headline": "Veteran C.I.A. Official to Retire After Losing Out on London Job",
@@ -1878,12 +2226,6 @@
     "pubdate": "2025-07-29-03-00-00 +0000"
   },
   {
-    "headline": "States Sue Trump Administration Over Efforts to Get Food Stamp Data",
-    "link": "https://www.nytimes.com/2025/07/28/nyregion/states-sue-trump-administration-over-food-stamp-data.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-02-58-55 +0000"
-  },
-  {
     "headline": "Watch: Nursing home residents rescued from China floods",
     "link": "https://www.bbc.com/news/videos/cy40dk9vx00o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2004,18 +2346,6 @@
     "pubdate": "2025-07-29-00-40-17 +0000"
   },
   {
-    "headline": "Trump Administration Issues Guidance on Religious Freedom at Work",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-religion-work.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-00-37-27 +0000"
-  },
-  {
-    "headline": "Trump Administration Issues Guidance on Religious Freedom at Work",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-religion-work.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-00-37-27 +0000"
-  },
-  {
     "headline": "Jasmine Crockett tried ‘shutting down’ Atlantic reporter for asking lawmakers about her for a friendly profile",
     "link": "https://nypost.com/2025/07/28/us-news/jasmine-crockett-tried-shutting-down-atlantic-reporter-for-asking-lawmakers-about-her-for-a-friendly-profile/",
     "source": "nypost",
@@ -2034,28 +2364,10 @@
     "pubdate": "2025-07-29-00-23-07 +0000"
   },
   {
-    "headline": "Vance Embraces Role of Loyal Trump Warrior, Shifting Away From Past Stances",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/vance-trump-ukraine-epstein.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-00-20-54 +0000"
-  },
-  {
-    "headline": "Vance Embraces Role of Loyal Trump Warrior, Shifting Away From Past Stances",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/vance-trump-ukraine-epstein.html",
-    "source": "nyt",
-    "pubdate": "2025-07-29-00-20-54 +0000"
-  },
-  {
     "headline": "Pilot accused of child sex crimes is taken from cockpit minutes after flight lands in California",
     "link": "https://www.latimes.com/california/story/2025-07-28/pilot-accused-of-child-sex-crimes-arrested-minutes-after-flight-lands",
     "source": "latimes",
     "pubdate": "2025-07-28-23-52-52 +0000"
-  },
-  {
-    "headline": "In Fight for House, New York May Follow Texas in Redrawing Maps",
-    "link": "https://www.nytimes.com/2025/07/28/nyregion/new-york-redistricting-texas.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-23-43-34 +0000"
   },
   {
     "headline": "Canada pledges $30M in Gaza aid, $10M for Palestinian Authority work toward statehood",
@@ -2068,18 +2380,6 @@
     "link": "https://www.latimes.com/travel/story/2025-07-28/california-campgrounds-new-lottery-system",
     "source": "latimes",
     "pubdate": "2025-07-28-23-39-06 +0000"
-  },
-  {
-    "headline": "Trump Says He Declined Epstein’s Invitation to Visit His Island",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-epstein-files-island.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-23-35-10 +0000"
-  },
-  {
-    "headline": "Trump Says He Declined Epstein’s Invitation to Visit His Island",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-epstein-files-island.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-23-35-10 +0000"
   },
   {
     "headline": "Chokeholds, bikers and 'roving patrols': Are Trump's ICE tactics legal?",
@@ -2152,59 +2452,5 @@
     "link": "https://nypost.com/2025/07/28/business/coney-island-booms-with-new-all-affordable-housing-tower-near-famed-parachute-jump/",
     "source": "nypost",
     "pubdate": "2025-07-28-23-03-46 +0000"
-  },
-  {
-    "headline": "Harvard Is Said to Be Open to Spending Up to $500 Million to Resolve Trump Dispute",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-harvard-payment.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-22-53-42 +0000"
-  },
-  {
-    "headline": "Harvard Is Said to Be Open to Spending Up to $500 Million to Resolve Trump Dispute",
-    "link": "https://www.nytimes.com/2025/07/28/us/politics/trump-harvard-payment.html",
-    "source": "nyt",
-    "pubdate": "2025-07-28-22-53-42 +0000"
-  },
-  {
-    "headline": "Stalker of US basketball star Caitlin Clark jailed",
-    "link": "https://www.bbc.com/news/articles/cr745pv8v9ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-28-22-46-40 +0000"
-  },
-  {
-    "headline": "Canadian Army brigade commander steps down amid 'Blue Hackle Mafia' investigations",
-    "link": "https://www.cbc.ca/news/politics/blue-hackle-mafia-army-commander-resigns-1.7595912?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-07-28-22-38-45 +0000"
-  },
-  {
-    "headline": "India's AI-driven tech firings could derail middle class dreams",
-    "link": "https://www.bbc.com/news/articles/cx2p4nqd352o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-28-22-35-56 +0000"
-  },
-  {
-    "headline": "Thailand, Cambodia Agree to Cease-Fire",
-    "link": "https://www.wsj.com/world/asia/thailand-cambodia-agree-to-cease-fire-9e5b76ac",
-    "source": "wsj",
-    "pubdate": "2025-07-28-22-34-00 +0000"
-  },
-  {
-    "headline": "Families of last remaining Israeli hostages in Gaza fear that ‘the world is forgetting’",
-    "link": "https://nypost.com/2025/07/28/world-news/families-of-last-remaining-israeli-hostages-in-gaza-fear-that-the-world-is-forgetting/",
-    "source": "nypost",
-    "pubdate": "2025-07-28-22-32-17 +0000"
-  },
-  {
-    "headline": "Harvard in talks with Trump admin to pay up to $500M over campus antisemitism",
-    "link": "https://nypost.com/2025/07/28/us-news/harvard-in-talks-with-trump-admin-to-pay-up-to-500m-over-campus-antisemitism/",
-    "source": "nypost",
-    "pubdate": "2025-07-28-21-55-40 +0000"
-  },
-  {
-    "headline": "Harvard in talks with Trump admin to pay up to $500M over campus antisemitism",
-    "link": "https://nypost.com/2025/07/28/us-news/harvard-in-talks-with-trump-admin-to-pay-up-to-500m-over-campus-antisemitism/",
-    "source": "nypost",
-    "pubdate": "2025-07-28-21-55-40 +0000"
   }
 ]
