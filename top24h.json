@@ -1,45 +1,59 @@
 [
   {
-    "score": 204,
-    "pubdate": "2025-07-28-11-56-36 +0000",
-    "source": "nyt",
-    "headline": "Europe, Worried by Other Global Crises, Agrees to Trump’s Trade Deal",
-    "link": "https://www.nytimes.com/2025/07/28/world/europe/europe-trade-deal-trump.html"
+    "score": 205,
+    "pubdate": "2025-07-28-18-24-16 +0000",
+    "source": "nypost",
+    "headline": "France presses EU to unload ‘trade bazooka’ on US — despite tariff deal with Trump: ‘Complete disregard for the rules’",
+    "link": "https://nypost.com/2025/07/28/business/france-wants-eu-to-unload-trade-bazooka-on-us-despite-tariff-deal/"
   },
   {
-    "score": 81,
-    "pubdate": "2025-07-29-00-37-55 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Live Updates: President Moves Up Deadline for Putin to End Ukraine War",
-    "link": "https://www.nytimes.com/live/2025/07/28/us/trump-news"
+    "score": 79,
+    "pubdate": "2025-07-28-17-17-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he would give Russia’s Vladimir Putin 10 or 12 days to reach a cease-fire with Ukraine or face more economic pressure from the U.S.",
+    "link": "https://www.wsj.com/politics/trump-losing-patience-with-putin-says-he-will-shorten-deadline-to-end-ukraine-war-ed19e302"
   },
   {
-    "score": 67,
-    "pubdate": "2025-07-28-20-01-59 +0000",
+    "score": 74,
+    "pubdate": "2025-07-29-02-14-44 +0000",
     "source": "nyt",
     "headline": "In a First, Leading Israeli Rights Groups Accuse Israel of Gaza Genocide",
     "link": "https://www.nytimes.com/2025/07/28/world/middleeast/israel-genocide-gaza-rights-groups.html"
   },
   {
-    "score": 57,
+    "score": 71,
     "pubdate": "2025-07-29-00-38-47 +0000",
     "source": "nypost",
     "headline": "NYC gunman ID’d as Shane Tamura after deadly shooting that killed NYPD officer",
     "link": "https://nypost.com/2025/07/28/us-news/nyc-gunman-idd-as-shane-tamura-after-deadly-shooting-that-killed-nypd-officer/"
   },
   {
-    "score": 56,
-    "pubdate": "2025-07-28-21-38-24 +0000",
-    "source": "nypost",
-    "headline": "Bill Maher admits he was wrong about Trump on tariffs, doesn’t ‘see a country in a depression at all’",
-    "link": "https://nypost.com/2025/07/28/media/bill-maher-admits-he-was-wrong-about-trump-on-tariffs/"
+    "score": 64,
+    "pubdate": "2025-07-28-16-50-00 +0000",
+    "source": "wsj",
+    "headline": "Business leaders on both sides of the Atlantic breathed a sigh of relief that the U.S. and European Union had averted a bruising trade war with their agreement on tariffs and investment",
+    "link": "https://www.wsj.com/economy/trade/companies-welcome-eu-u-s-trade-deal-as-least-bad-outcome-5b784443"
   },
   {
-    "score": 55,
-    "pubdate": "2025-07-28-21-36-00 +0000",
+    "score": 52,
+    "pubdate": "2025-07-29-01-45-28 +0000",
+    "source": "nypost",
+    "headline": "Extension of US-China tariff pause ‘likely’ –  South Korea eager to get trade pact signed, Commerce Secretary Howard Lutnick says",
+    "link": "https://nypost.com/2025/07/28/us-news/extension-of-us-china-tariff-pause-likely-south-korea-eager-to-get-trade-pact-signed-commerce-secretary-howard-lutnick-says/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-07-28-11-00-00 +0000",
     "source": "wsj",
-    "headline": "Stock Market Today: S&P, Nasdaq Edge Higher to New Records After U.S.-EU Trade Deal",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-28-2025?mod=rss_markets_main"
+    "headline": "Most Americans support President Trump’s immigration crackdown but they say his approach goes too far, according to a new WSJ poll",
+    "link": "https://www.wsj.com/politics/policy/trump-immigration-policy-poll-july-2025-2b2ad05a"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-07-28-15-04-00 +0000",
+    "source": "wsj",
+    "headline": "Former Gov. Roy Cooper of North Carolina launched a bid for the Senate, giving Senate Democrats a heavyweight candidate in a high-profile 2026 race",
+    "link": "https://www.wsj.com/politics/elections/roy-cooper-north-carolina-senate-a39a1ff2"
   },
   {
     "score": 46,
@@ -49,24 +63,10 @@
     "link": "https://www.nytimes.com/2025/07/28/us/politics/cash-payments-poor-families-child-development.html"
   },
   {
-    "score": 46,
-    "pubdate": "2025-07-28-11-46-32 +0000",
-    "source": "nypost",
-    "headline": "Thailand and Cambodia agree to ‘immediate and unconditional’ cease-fire, Malaysian PM says",
-    "link": "https://nypost.com/2025/07/28/world-news/thailand-and-cambodia-agree-to-immediate-and-unconditional-cease-fire-malaysian-pm-says/"
-  },
-  {
     "score": 44,
-    "pubdate": "2025-07-28-15-04-00 +0000",
-    "source": "wsj",
-    "headline": "Former Gov. Roy Cooper of North Carolina launched a bid for the Senate, giving Senate Democrats a heavyweight candidate in a high-profile 2026 race",
-    "link": "https://www.wsj.com/politics/elections/roy-cooper-north-carolina-senate-a39a1ff2"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-07-28-13-04-47 +0000",
-    "source": "bbc",
-    "headline": "US-China talks restart as hopes grow for trade war truce extension",
-    "link": "https://www.bbc.com/news/articles/cm2197pmlrro?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-07-28-18-02-45 +0000",
+    "source": "nyt",
+    "headline": "Thailand and Cambodia Agree to Halt Fighting That Has Killed Dozens",
+    "link": "https://www.nytimes.com/2025/07/28/world/asia/thailand-cambodia-ceasefire-talks.html"
   }
 ]
