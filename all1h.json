@@ -1,14 +1,314 @@
 [
   {
-    "headline": "'Worst-case scenario of famine' is happening in Gaza, food crisis experts warn",
-    "link": "https://www.startribune.com/food-crisis-experts-say-worst-case-scenario-of-famine-is-happening-in-gaza/601445456",
-    "source": "startribune",
-    "pubdate": "2025-07-29-16-55-03 +0000"
+    "headline": "What we know about the New York City shooting",
+    "link": "https://www.washingtonpost.com/nation/2025/07/29/new-york-shane-tamura-nfl-manhattan-blackstone-shooting/",
+    "source": "wapo",
+    "pubdate": "2025-07-29-18-53-47 +0000"
   },
   {
-    "headline": "Ciara gains Beninese citizenship as country reckons with slave trade history",
-    "link": "https://www.washingtonpost.com/world/2025/07/29/ciara-benin-citizenship-slave-trade-africa-reparations/",
+    "headline": "UnitedHealth’s Profits Fall as Medical Care Costs Continue to Rise",
+    "link": "https://www.nytimes.com/2025/07/29/health/unitedhealth-earnings-profits.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-52-11 +0000"
+  },
+  {
+    "headline": "Top Lawyer for National Security Agency Is Fired",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/nsa-lawyer-fired.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-50-05 +0000"
+  },
+  {
+    "headline": "Top Lawyer for National Security Agency Is Fired",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/nsa-lawyer-fired.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-50-05 +0000"
+  },
+  {
+    "headline": "NYC shooting live updates: Some victims identified; Shooter’s note referenced CTE and NFL, NYPD says",
+    "link": "https://www.washingtonpost.com/nation/2025/07/28/nyc-shooting-blackstone-manhattan/",
     "source": "wapo",
-    "pubdate": "2025-07-29-16-54-33 +0000"
+    "pubdate": "2025-07-29-18-48-55 +0000"
+  },
+  {
+    "headline": "What is CTE, the brain disease linked to head trauma, contact sports?",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-07-29-18-48-55 +0000"
+  },
+  {
+    "headline": "New York gunman appeared to target NFL, had mental health history",
+    "link": "https://www.washingtonpost.com/nation/2025/07/29/shane-tamura-nyc-manhattan-shooting-suspect-nfl-cte/",
+    "source": "wapo",
+    "pubdate": "2025-07-29-18-47-25 +0000"
+  },
+  {
+    "headline": "The First Soda in Space: When NASA Got Caught Up in the Cola Wars",
+    "link": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-45-43 +0000"
+  },
+  {
+    "headline": "The First Soda in Space: When NASA Got Caught Up in the Cola Wars",
+    "link": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-45-43 +0000"
+  },
+  {
+    "headline": "NASA-India Mission Will Study Earth With Radar. Here’s How to Watch the Launch.",
+    "link": "https://www.nytimes.com/2025/07/29/science/nisar-nasa-india.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-43-11 +0000"
+  },
+  {
+    "headline": "US to scrap landmark finding that sets limit on carbon emissions",
+    "link": "https://www.bbc.com/news/articles/c0mlzz1gy39o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-18-42-33 +0000"
+  },
+  {
+    "headline": "China Sees Gaps in U.S. Defenses, Ousted National Security Official Says",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/timothy-haugh-nsa-cyber.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-40-09 +0000"
+  },
+  {
+    "headline": "China Sees Gaps in U.S. Defenses, Ousted National Security Official Says",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/timothy-haugh-nsa-cyber.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-40-09 +0000"
+  },
+  {
+    "headline": "Ex-wife of Minnesota DOC commissioner pleads guilty to trying to kill disabled son",
+    "link": "https://www.startribune.com/ex-wife-of-minnesota-doc-commissioner-pleads-guilty-to-trying-to-kill-disabled-son/601445659",
+    "source": "startribune",
+    "pubdate": "2025-07-29-18-38-57 +0000"
+  },
+  {
+    "headline": "Starmer vows to recognize Palestinian state unless Israel shifts Gaza policy",
+    "link": "https://www.washingtonpost.com/world/2025/07/29/keir-starmer-israel-gaza-palestinian/",
+    "source": "wapo",
+    "pubdate": "2025-07-29-18-37-54 +0000"
+  },
+  {
+    "headline": "UK will recognize Palestinian state unless Israel agrees to cease-fire, allows UN aid into Gaza: PM",
+    "link": "https://nypost.com/2025/07/29/world-news/uk-will-recognize-palestinian-state-unless-israel-agrees-to-cease-fire-allows-un-aid-into-gaza-pm/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-32-06 +0000"
+  },
+  {
+    "headline": "NYC subway’s mystery power outage has rush hour riders vowing to steal rides as payback",
+    "link": "https://nypost.com/2025/07/29/us-news/nyc-subways-mystery-power-outage-sparks-rush-hour-chaos-riders-vow-bizarre-revenge/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-32-05 +0000"
+  },
+  {
+    "headline": "NYC subway’s mystery power outage has rush hour riders vowing to steal rides as payback",
+    "link": "https://nypost.com/2025/07/29/us-news/nyc-subways-mystery-power-outage-sparks-rush-hour-chaos-riders-vow-bizarre-revenge/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-32-05 +0000"
+  },
+  {
+    "headline": "Shane Tamura Had Been Under a Mental-Health Crisis Hold",
+    "link": "https://www.wsj.com/us-news/shane-tamura-new-york-shooting-suspect-1b10aeb4",
+    "source": "wsj",
+    "pubdate": "2025-07-29-18-31-00 +0000"
+  },
+  {
+    "headline": "Trump reacts to Starmer plan to recognize Palestine: ‘Could make the case that you’re rewarding Hamas’",
+    "link": "https://nypost.com/2025/07/29/us-news/trump-reacts-to-starmer-plan-to-recognize-palestine-could-make-the-case-that-youre-rewarding-hamas/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-30-57 +0000"
+  },
+  {
+    "headline": "Trump reacts to Starmer plan to recognize Palestine: ‘Could make the case that you’re rewarding Hamas’",
+    "link": "https://nypost.com/2025/07/29/us-news/trump-reacts-to-starmer-plan-to-recognize-palestine-could-make-the-case-that-youre-rewarding-hamas/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-30-57 +0000"
+  },
+  {
+    "headline": "UK to recognise Palestinian state unless Israel meets conditions",
+    "link": "https://www.bbc.com/news/articles/cpdjvn1eeplo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-29-18-30-38 +0000"
+  },
+  {
+    "headline": "Arkansas police release sketch of person of interest in murder of parents at Devil’s Den Park",
+    "link": "https://nypost.com/2025/07/29/us-news/arkansas-police-release-sketch-of-person-of-interest-in-murder-of-parents-at-devils-den-park/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-29-31 +0000"
+  },
+  {
+    "headline": "Bronx neighborhood on lockdown after man seen walking with gun less than 24 hours after deadly NYC shooting",
+    "link": "https://nypost.com/2025/07/29/us-news/bronx-neighborhood-on-lockdown-after-man-seen-walking-with-gun-less-than-24-hours-after-deadly-nyc-shooting/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-27-50 +0000"
+  },
+  {
+    "headline": "29-year-old Google engineer dies in freak accident on popular Yosemite trail",
+    "link": "https://nypost.com/2025/07/29/business/29-year-old-google-engineer-dies-in-freak-accident-on-popular-yosemite-trail/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-27-19 +0000"
+  },
+  {
+    "headline": "U.K. Gives Israel Ultimatum on Palestinian State Recognition",
+    "link": "https://www.wsj.com/world/middle-east/u-k-gives-israel-ultimatum-on-palestinian-state-recognition-c2418bcc",
+    "source": "wsj",
+    "pubdate": "2025-07-29-18-26-00 +0000"
+  },
+  {
+    "headline": "Trump Urges the U.K. to Drill More Oil, Criticizing Its Energy Policy",
+    "link": "https://www.nytimes.com/2025/07/29/business/energy-environment/trump-oil-drilling-uk-north-sea.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-25-51 +0000"
+  },
+  {
+    "headline": "Trump Urges the U.K. to Drill More Oil, Criticizing Its Energy Policy",
+    "link": "https://www.nytimes.com/2025/07/29/business/energy-environment/trump-oil-drilling-uk-north-sea.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-25-51 +0000"
+  },
+  {
+    "headline": "Trump Urges the U.K. to Drill More Oil, Criticizing Its Energy Policy",
+    "link": "https://www.nytimes.com/2025/07/29/business/energy-environment/trump-oil-drilling-uk-north-sea.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-25-51 +0000"
+  },
+  {
+    "headline": "‘Lifelong Quaker’ charged with assaulting federal officer in Portland anti-ICE riot",
+    "link": "https://nypost.com/2025/07/29/us-news/portland-quaker-charged-with-assaulting-federal-officer-in-anti-ice-riot/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-23-00 +0000"
+  },
+  {
+    "headline": "California, other states sue Trump administration over bill defunding Planned Parenthood",
+    "link": "https://www.latimes.com/politics/story/2025-07-29/california-other-states-sue-trump-administration-over-bill-defunding-planned-parenthood",
+    "source": "latimes",
+    "pubdate": "2025-07-29-18-22-07 +0000"
+  },
+  {
+    "headline": "California, other states sue Trump administration over bill defunding Planned Parenthood",
+    "link": "https://www.latimes.com/politics/story/2025-07-29/california-other-states-sue-trump-administration-over-bill-defunding-planned-parenthood",
+    "source": "latimes",
+    "pubdate": "2025-07-29-18-22-07 +0000"
+  },
+  {
+    "headline": "Houthis in Yemen Confirm in Video They Are Holding 11 Mariners Hostage",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/houthis-hostages-video-yemen.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-19-09 +0000"
+  },
+  {
+    "headline": "Houthis in Yemen Confirm in Video They Are Holding 11 Mariners Hostage",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/houthis-hostages-video-yemen.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-19-09 +0000"
+  },
+  {
+    "headline": "Royal fans cheer Trump seemingly ‘throwing shade’ at Prince Harry, Meghan Markle",
+    "link": "https://nypost.com/2025/07/29/us-news/royal-fans-cheer-trump-seemingly-throwing-shade-at-prince-harry-meghan-markle/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-17-19 +0000"
+  },
+  {
+    "headline": "Trump administration maneuvers to keep Essayli as L.A.'s top federal prosecutor",
+    "link": "https://www.latimes.com/california/story/2025-07-29/trump-essayli-us-attorney-los-angeles",
+    "source": "latimes",
+    "pubdate": "2025-07-29-18-16-02 +0000"
+  },
+  {
+    "headline": "Trump administration maneuvers to keep Essayli as L.A.'s top federal prosecutor",
+    "link": "https://www.latimes.com/california/story/2025-07-29/trump-essayli-us-attorney-los-angeles",
+    "source": "latimes",
+    "pubdate": "2025-07-29-18-16-02 +0000"
+  },
+  {
+    "headline": "Police found three-page note in gunman’s wallet",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-07-29-18-13-41 +0000"
+  },
+  {
+    "headline": "Union Pacific to Buy Norfolk Southern in $85 Billion Railroad Deal",
+    "link": "https://www.nytimes.com/2025/07/29/business/union-pacific-norfolk-southern-merger.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-11-21 +0000"
+  },
+  {
+    "headline": "Former Netflix employee sues over wrongful termination, alleges discrimination and retaliation",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-07-29/former-netflix-employee-lawsuit-wrongful-termination-alleged-discrimination-retaliation",
+    "source": "latimes",
+    "pubdate": "2025-07-29-18-09-08 +0000"
+  },
+  {
+    "headline": "Column: Why MAGA's ideologues can't always get what they want",
+    "link": "https://www.latimes.com/opinion/story/2025-07-29/maga-trumpism-reaganism",
+    "source": "latimes",
+    "pubdate": "2025-07-29-18-09-00 +0000"
+  },
+  {
+    "headline": "Secret Service agent protecting Trump tried to sneak wife onto transport plane to Scotland",
+    "link": "https://nypost.com/2025/07/29/us-news/secret-service-agent-protecting-trump-tried-to-sneak-wife-onto-transport-plane-to-scotland/",
+    "source": "nypost",
+    "pubdate": "2025-07-29-18-08-30 +0000"
+  },
+  {
+    "headline": "U.S. and China Fail to Reach Immediate Deal to Prolong Trade Truce",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/us-china-trade-deal-talks-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-07-58 +0000"
+  },
+  {
+    "headline": "U.S. and China Fail to Reach Immediate Deal to Prolong Trade Truce",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/us-china-trade-deal-talks-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-07-58 +0000"
+  },
+  {
+    "headline": "Boeing Takes Slow Approach to Expansion",
+    "link": "https://www.wsj.com/business/airlines/boeing-ba-2q-earnings-report-2025-14367be3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-29-18-07-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Truth Behind Palestinian Displacement",
+    "link": "https://www.wsj.com/opinion/the-truth-behind-palestinian-displacement-israel-middle-east-6e386b48",
+    "source": "wsj",
+    "pubdate": "2025-07-29-18-06-00 +0000"
+  },
+  {
+    "headline": "Apple Is Shutting a Store in China, Its First Closure in the Country",
+    "link": "https://www.nytimes.com/2025/07/29/business/apple-china-dalian-store.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-03-30 +0000"
+  },
+  {
+    "headline": "Apple Is Shutting a Store in China, Its First Closure in the Country",
+    "link": "https://www.nytimes.com/2025/07/29/business/apple-china-dalian-store.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-03-30 +0000"
+  },
+  {
+    "headline": "India and Trump Still Don’t Have a Tariff Deal: Here’s Why That Matters",
+    "link": "https://www.nytimes.com/2025/07/29/business/trump-tariffs-india-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-00-39 +0000"
+  },
+  {
+    "headline": "India and Trump Still Don’t Have a Tariff Deal: Here’s Why That Matters",
+    "link": "https://www.nytimes.com/2025/07/29/business/trump-tariffs-india-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-07-29-18-00-39 +0000"
+  },
+  {
+    "headline": "Quirky, glitzy, fun, stark: 9 shows not to miss at Minnesota Fringe Festival",
+    "link": "https://www.startribune.com/quirky-glitzy-fun-stark-9-shows-not-to-miss-at-minnesota-fringe-festival/601442986",
+    "source": "startribune",
+    "pubdate": "2025-07-29-18-00-00 +0000"
+  },
+  {
+    "headline": "Stock Market Today: China, U.S. Discuss Extending Trade Truce",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-07-29-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-07-29-18-00-00 +0000"
   }
 ]
