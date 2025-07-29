@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 18,
+    "pubdate": "2025-07-29-04-01-05 +0000",
+    "source": "nyt",
+    "headline": "Starmer Is Edging Closer to Recognizing a Palestinian State, UK Officials Say",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/uk-starmer-palestine-state.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-07-29-04-03-12 +0000",
+    "source": "wapo",
+    "headline": "NYC shooting live updates: Gunman dead after killing 4, including NYPD officer, in Midtown Manhattan",
+    "link": "https://www.washingtonpost.com/nation/2025/07/28/nyc-shooting-blackstone-manhattan/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-07-29-04-01-07 +0000",
+    "source": "nyt",
+    "headline": "Finland’s Short, Precious Summers Are Plagued by Goose Poop",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/helsinki-finland-goose-droppings.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-07-29-03-23-24 +0000",
+    "source": "wapo",
+    "headline": "Authorities believe the shooter was Shane Tamura, a 27-year-old man with a Las Vegas address, New...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-07-29-03-38-34 +0000",
+    "source": "bbc",
+    "headline": "China offers parents $1,500 in bid to boost births",
+    "link": "https://www.bbc.com/news/articles/c776xgex02jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-07-29-03-44-30 +0000",
+    "source": "wapo",
+    "headline": "New York City Police Commissioner Jessica Tisch said the gunman had a weapons license in Nevada,...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-07-29-04-01-00 +0000",
+    "source": "wsj",
+    "headline": "Bank of Japan Likely on Hold Though U.S. Trade Deal Cuts Uncertainty",
+    "link": "https://www.wsj.com/articles/bank-of-japan-likely-on-hold-though-u-s-trade-deal-cuts-uncertainty-d7eb2298"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-07-29-04-01-00 +0000",
+    "source": "nypost",
+    "headline": "4 NYC-area hospitals among the nation’s best in latest US News rankings",
+    "link": "https://nypost.com/2025/07/29/health/4-nyc-area-hospitals-among-the-best-in-latest-us-news-rankings/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-07-29-03-31-54 +0000",
+    "source": "nyt",
+    "headline": "William J. Rutter, Biotech Pioneer of Gene-Based Medicine, Dies at 97",
+    "link": "https://www.nytimes.com/2025/07/27/science/william-j-rutter-dead.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-07-29-03-45-02 +0000",
+    "source": "nyt",
+    "headline": "President Moves Up Deadline for Putin to End Ukraine War",
+    "link": "https://www.nytimes.com/live/2025/07/28/us/trump-news"
+  }
+]
