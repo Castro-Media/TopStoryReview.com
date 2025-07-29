@@ -1,34 +1,27 @@
 [
   {
-    "score": 176,
-    "pubdate": "2025-07-29-20-08-55 +0000",
-    "source": "nyt",
-    "headline": "Scottish Leader Talks Gaza, Tariffs and Ukraine in Meeting With Trump",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-scotland-tariffs-ukraine-gaza.html"
-  },
-  {
-    "score": 118,
-    "pubdate": "2025-07-29-19-52-56 +0000",
-    "source": "nyt",
-    "headline": "UK Will Recognize Palestinian Statehood In September, Unless Israel-Hamas Cease-Fire is Reached",
-    "link": "https://www.nytimes.com/2025/07/29/world/europe/uk-palestine-state-starmer-gaza-israel.html"
-  },
-  {
-    "score": 77,
-    "pubdate": "2025-07-29-15-30-51 +0000",
-    "source": "nypost",
-    "headline": "Union Pacific strikes $85B deal to buy rival Norfolk that would create US’ first coast-to-coast rail operator",
-    "link": "https://nypost.com/2025/07/29/business/union-pacific-strikes-deal-to-buy-rival-norfolk-in-85b-mega-railroad-deal/"
-  },
-  {
-    "score": 75,
+    "score": 158,
     "pubdate": "2025-07-29-09-30-00 +0000",
     "source": "wsj",
     "headline": "Capital Account: Trump has hit his tariff goals, for now. But these deals don’t yet represent a new trade order",
     "link": "https://www.wsj.com/economy/trade/trumps-new-trade-order-is-fragile-ef8bb49a"
   },
   {
-    "score": 66,
+    "score": 142,
+    "pubdate": "2025-07-29-18-32-06 +0000",
+    "source": "nypost",
+    "headline": "UK will recognize Palestinian state unless Israel agrees to cease-fire, allows UN aid into Gaza: PM",
+    "link": "https://nypost.com/2025/07/29/world-news/uk-will-recognize-palestinian-state-unless-israel-agrees-to-cease-fire-allows-un-aid-into-gaza-pm/"
+  },
+  {
+    "score": 76,
+    "pubdate": "2025-07-29-15-30-51 +0000",
+    "source": "nypost",
+    "headline": "Union Pacific strikes $85B deal to buy rival Norfolk that would create US’ first coast-to-coast rail operator",
+    "link": "https://nypost.com/2025/07/29/business/union-pacific-strikes-deal-to-buy-rival-norfolk-in-85b-mega-railroad-deal/"
+  },
+  {
+    "score": 64,
     "pubdate": "2025-07-29-09-50-34 +0000",
     "source": "cbc",
     "headline": "Gunman who killed 4 at NYC building was targeting NFL offices but took wrong elevator, mayor says",
@@ -42,7 +35,14 @@
     "link": "https://www.bbc.com/news/articles/cg7j8x3xnrko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
+    "score": 51,
+    "pubdate": "2025-07-29-18-30-57 +0000",
+    "source": "nypost",
+    "headline": "Trump reacts to Starmer plan to recognize Palestine: ‘Could make the case that you’re rewarding Hamas’",
+    "link": "https://nypost.com/2025/07/29/us-news/trump-reacts-to-starmer-plan-to-recognize-palestine-could-make-the-case-that-youre-rewarding-hamas/"
+  },
+  {
+    "score": 50,
     "pubdate": "2025-07-29-19-51-38 +0000",
     "source": "nypost",
     "headline": "NYC shooter Shane Tamura’s brain could be tested for CTE after he claimed he had the disease, Adams says",
@@ -50,23 +50,23 @@
   },
   {
     "score": 45,
-    "pubdate": "2025-07-29-09-24-00 +0000",
-    "source": "wsj",
-    "headline": "Europe’s Star Economy Picks Up Pace as Fresh Tariff Hikes Loom",
-    "link": "https://www.wsj.com/world/europe/europes-star-economy-picks-up-pace-as-fresh-tariff-hikes-loom-066bc547"
+    "pubdate": "2025-07-28-21-55-40 +0000",
+    "source": "nypost",
+    "headline": "Harvard in talks with Trump admin to pay up to $500M over campus antisemitism",
+    "link": "https://nypost.com/2025/07/28/us-news/harvard-in-talks-with-trump-admin-to-pay-up-to-500m-over-campus-antisemitism/"
   },
   {
-    "score": 43,
+    "score": 41,
     "pubdate": "2025-07-29-19-40-00 +0000",
     "source": "wsj",
     "headline": "Ghislaine Maxwell Says She’d Answer Congress’s Questions if She Gets Immunity or Clemency",
     "link": "https://www.wsj.com/politics/policy/epstein-ghislaine-maxwell-congress-testimony-response-c6a89bbb"
   },
   {
-    "score": 42,
-    "pubdate": "2025-07-29-18-30-57 +0000",
+    "score": 40,
+    "pubdate": "2025-07-29-20-29-05 +0000",
     "source": "nypost",
-    "headline": "Trump reacts to Starmer plan to recognize Palestine: ‘Could make the case that you’re rewarding Hamas’",
-    "link": "https://nypost.com/2025/07/29/us-news/trump-reacts-to-starmer-plan-to-recognize-palestine-could-make-the-case-that-youre-rewarding-hamas/"
+    "headline": "EPA chief Lee Zeldin to repeal ‘holy grail’ Obama-era emissions finding that hiked energy costs for years",
+    "link": "https://nypost.com/2025/07/29/us-news/epa-chief-lee-zeldin-to-repeal-holy-grail-obama-era-emissions-finding-that-hiked-energy-costs-for-years/"
   }
 ]
