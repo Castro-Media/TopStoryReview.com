@@ -1,30 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2025-07-30-18-57-00 +0000",
+    "score": 37,
+    "pubdate": "2025-07-30-20-19-00 +0000",
     "source": "wsj",
-    "headline": "Fed Meeting Today: Federal Reserve Leaves Rates Unchanged; Two Fed Governors Dissent",
-    "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-07-30-2025?mod=rss_markets_main"
+    "headline": "Former Vice President Kamala Harris said Wednesday she wouldn’t run for governor of California next year, leaving open the possibility of another presidential bid in 2028",
+    "link": "https://www.wsj.com/politics/elections/kamala-harris-california-governor-election-630b7725"
   },
   {
-    "score": 10,
-    "pubdate": "2025-07-30-18-55-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. economy returned to growth in the second quarter, but signs of weakness emerged in the first half of the year",
-    "link": "https://www.wsj.com/economy/us-gdp-q2-2025-359c022b"
+    "score": 36,
+    "pubdate": "2025-07-30-20-14-06 +0000",
+    "source": "bbc",
+    "headline": "Trump hits Brazil with 50% tariffs and sanctions judge in Bolsonaro case",
+    "link": "https://www.bbc.com/news/articles/crlzn72eg25o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 10,
-    "pubdate": "2025-07-30-18-54-47 +0000",
-    "source": "startribune",
-    "headline": "Live: Cyberattacks like the one in St. Paul cost U.S. cities millions of dollars",
-    "link": "https://www.startribune.com/st-paul-mn-cyber-attack/601446327"
+    "score": 25,
+    "pubdate": "2025-07-30-20-16-53 +0000",
+    "source": "nyt",
+    "headline": "Senate Democrats Try to Force Release of Epstein Files With Little-Known Law",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/democrats-trump-epstein-files.html"
   },
   {
-    "score": 2,
-    "pubdate": "2025-07-30-18-54-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | Who Is Going to Miss NPR?",
-    "link": "https://www.wsj.com/opinion/who-is-going-to-miss-npr-00669eed?mod=pls_whats_news_us_business_f"
+    "score": 23,
+    "pubdate": "2025-07-30-20-18-42 +0000",
+    "source": "nypost",
+    "headline": "FBI chief Kash Patel finds ‘burn bags’ of Trump-Russia documents in secret room",
+    "link": "https://nypost.com/2025/07/30/us-news/fbi-chief-kash-patel-finds-burn-bags-of-trump-russia-documents-in-secret-room/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-07-30-20-23-51 +0000",
+    "source": "nyt",
+    "headline": "Why Did Such a Powerful Earthquake Generate Such a Weak Tsunami?",
+    "link": "https://www.nytimes.com/2025/07/30/science/russia-earthquake-tsunami-physics.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-07-30-20-15-35 +0000",
+    "source": "nyt",
+    "headline": "Ford Is Latest Carmaker to Blame Tariffs for Profit Slump",
+    "link": "https://www.nytimes.com/2025/07/30/business/ford-profit-tariffs.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-30-20-39-45 +0000",
+    "source": "nypost",
+    "headline": "Hacker ‘penetrates’ MTA board meeting with raunchy porn image",
+    "link": "https://nypost.com/2025/07/30/us-news/hacker-penetrates-mta-board-meeting-with-raunchy-porn-image/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-30-19-57-12 +0000",
+    "source": "bbc",
+    "headline": "Fed holds interest rates steady despite Trump pressure",
+    "link": "https://www.bbc.com/news/articles/cvg40knxe9wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-30-20-09-37 +0000",
+    "source": "nypost",
+    "headline": "Cornell grad Julia Hyman, victim of NYC mass shooting, mourned at funeral: ‘One of those special people’",
+    "link": "https://nypost.com/2025/07/30/us-news/cornell-grad-julia-hyman-victim-of-nyc-mass-shooting-mourned-at-funeral-one-of-those-special-people/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-07-30-20-52-01 +0000",
+    "source": "nypost",
+    "headline": "Trump targets New York drug ‘injection sites’ where addicts consume with the city’s blessing",
+    "link": "https://nypost.com/2025/07/30/us-news/trump-targets-injection-sites-where-drug-addicts-consume-with-new-yorks-blessing/"
   }
 ]
