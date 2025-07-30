@@ -1,61 +1,5 @@
 [
   {
-    "score": 49,
-    "pubdate": "2025-07-30-01-39-32 +0000",
-    "source": "nypost",
-    "headline": "Senate confirms Trump lawyer Emil Bove for federal appeals court judge spot — pushing past whistleblower claims",
-    "link": "https://nypost.com/2025/07/29/us-news/senate-confirms-trump-lawyer-emil-bove-for-federal-appeals-court-judge-spot-pushing-past-whistleblower-claims/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-07-30-02-12-08 +0000",
-    "source": "nypost",
-    "headline": "Trump tells Sen. Chuck Grassley to ‘step up,’ get rid of ‘ridiculous custom’ holding up judicial appointments",
-    "link": "https://nypost.com/2025/07/29/us-news/trump-tells-sen-chuck-grassley-to-step-up-get-rid-of-ridiculous-custom-holding-up-judicial-appointments/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2025-07-30-01-49-38 +0000",
-    "source": "nyt",
-    "headline": "Katy Perry and Justin Trudeau Get a Table for 2, Inviting a Serving of Speculation",
-    "link": "https://www.nytimes.com/2025/07/29/world/canada/katy-perry-justin-trudeau-dinner.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-07-30-01-45-42 +0000",
-    "source": "cbc",
-    "headline": "Powerful quake in Russia's far east prompts tsunami warnings for Japan, Alaska and Hawaii",
-    "link": "https://www.cbc.ca/news/world/japan-tsunami-alert-1.7597026?cmp=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-07-30-02-10-29 +0000",
-    "source": "latimes",
-    "headline": "California's top prosecutor floats pathway to boost Democrats in Congress",
-    "link": "https://www.latimes.com/politics/story/2025-07-29/california-democrats-new-congressional-maps-november-ballot-special-election-bonta-newsom-trump"
-  },
-  {
-    "score": 17,
-    "pubdate": "2025-07-30-01-49-26 +0000",
-    "source": "nypost",
-    "headline": "Reno casino victim ID’d as Calif. dad who advocated for mass shooting victims — as new video shows gunman fleeing scene",
-    "link": "https://nypost.com/2025/07/29/us-news/reno-casino-victim-idd-as-calif-dad-who-advocated-for-mass-shooting-victims-as-new-video-shows-gunman-fleeing-scene/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-07-30-02-26-29 +0000",
-    "source": "nyt",
-    "headline": "NISAR — a NASA-India Collaboration —  Will Study Earth With Radar. Here’s How to Watch the Launch.",
-    "link": "https://www.nytimes.com/2025/07/29/science/nisar-nasa-india.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-07-30-01-58-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration has put a halt on billions in new research grants flowing from the National Institutes of Health, setting up a battle with lawmakers",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-puts-new-chokehold-on-billions-in-health-research-funding-19660215"
-  },
-  {
     "score": 12,
     "pubdate": "2025-07-30-02-30-12 +0000",
     "source": "nypost",
@@ -63,10 +7,24 @@
     "link": "https://nypost.com/2025/07/29/us-news/st-james-smithtown-hoping-to-ride-wave-of-confidence-to-little-league-world-series/"
   },
   {
-    "score": 12,
-    "pubdate": "2025-07-30-01-46-37 +0000",
-    "source": "startribune",
-    "headline": "Accusations of fake overtime fly in harassment case against former Minneapolis police sergeant",
-    "link": "https://www.startribune.com/mayor-frey-security-officer-blackey-alleges-ex-faked-overtime/601444918"
+    "score": 11,
+    "pubdate": "2025-07-30-02-26-29 +0000",
+    "source": "nyt",
+    "headline": "NISAR — a NASA-India Collaboration —  Will Study Earth With Radar. Here’s How to Watch the Launch.",
+    "link": "https://www.nytimes.com/2025/07/29/science/nisar-nasa-india.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-07-30-02-27-00 +0000",
+    "source": "wsj",
+    "headline": "Cooling Australian Inflation Locks In August Rate Cut",
+    "link": "https://www.wsj.com/economy/australian-inflation-continued-to-cool-in-second-quarter-6e055e46"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-07-30-02-30-16 +0000",
+    "source": "bbc",
+    "headline": "UK wants to 'affect situation on ground' in Gaza",
+    "link": "https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss"
   }
 ]
