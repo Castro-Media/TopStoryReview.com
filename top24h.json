@@ -1,45 +1,31 @@
 [
   {
-    "score": 209,
+    "score": 202,
     "pubdate": "2025-07-30-02-54-54 +0000",
     "source": "wapo",
     "headline": "President Donald Trump shared the U.S. government’s tsunami warning on social media following the major quake...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 122,
-    "pubdate": "2025-07-30-03-01-22 +0000",
+    "score": 120,
+    "pubdate": "2025-07-30-18-30-32 +0000",
     "source": "wapo",
-    "headline": "Tsunami warnings were issued around the North Pacific after an 8.8-magnitude earthquake struck Russia’s Kamchatka region.",
-    "link": "https://www.washingtonpost.com"
+    "headline": "Tsunami live updates: Waves reach Hawaii, California after 8.8-magnitude Russia quake",
+    "link": "https://www.washingtonpost.com/world/2025/07/29/tsunami-west-coast-japan-87-quake-russia/"
   },
   {
-    "score": 113,
+    "score": 83,
     "pubdate": "2025-07-30-20-19-00 +0000",
     "source": "wsj",
     "headline": "Former Vice President Kamala Harris said Wednesday she wouldn’t run for governor of California next year, leaving open the possibility of another presidential bid in 2028",
     "link": "https://www.wsj.com/politics/elections/kamala-harris-california-governor-election-630b7725"
   },
   {
-    "score": 84,
-    "pubdate": "2025-07-30-19-43-47 +0000",
-    "source": "nypost",
-    "headline": "Texas Republicans pitch new House map to net them up to five more seats",
-    "link": "https://nypost.com/2025/07/30/us-news/texas-republicans-pitch-new-house-map-to-net-them-up-to-five-more-seats/"
-  },
-  {
-    "score": 81,
-    "pubdate": "2025-07-30-01-50-16 +0000",
+    "score": 78,
+    "pubdate": "2025-07-30-03-01-22 +0000",
     "source": "wapo",
-    "headline": "Hawaii authorities warned residents that the first tsunami waves were expected to arrive at 7:17 p.m....",
+    "headline": "Tsunami warnings were issued around the North Pacific after an 8.8-magnitude earthquake struck Russia’s Kamchatka region.",
     "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 79,
-    "pubdate": "2025-07-29-22-00-59 +0000",
-    "source": "nyt",
-    "headline": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-says-gaza-will-get-more-aid-but-israel-will-distribute-it.html"
   },
   {
     "score": 77,
@@ -47,6 +33,20 @@
     "source": "nypost",
     "headline": "Fed governors Michelle Bowman, Christopher Waller voted against leaving rates steady — most dissents since 1993",
     "link": "https://nypost.com/2025/07/30/business/fed-decision-to-keep-rates-steady-generates-dissents-from-michelle-bowman-christopher-waller/"
+  },
+  {
+    "score": 77,
+    "pubdate": "2025-07-30-19-43-47 +0000",
+    "source": "nypost",
+    "headline": "Texas Republicans pitch new House map to net them up to five more seats",
+    "link": "https://nypost.com/2025/07/30/us-news/texas-republicans-pitch-new-house-map-to-net-them-up-to-five-more-seats/"
+  },
+  {
+    "score": 75,
+    "pubdate": "2025-07-29-22-00-59 +0000",
+    "source": "nyt",
+    "headline": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-says-gaza-will-get-more-aid-but-israel-will-distribute-it.html"
   },
   {
     "score": 74,
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2025/07/29/us-news/senate-confirms-trump-lawyer-emil-bove-for-federal-appeals-court-judge-spot-pushing-past-whistleblower-claims/"
   },
   {
-    "score": 59,
-    "pubdate": "2025-07-29-21-42-41 +0000",
-    "source": "nypost",
-    "headline": "Top Zelensky official praises Trump for giving Putin 10 days to end Ukraine invasion: ‘When America is serious, Russia backs down’",
-    "link": "https://nypost.com/2025/07/29/us-news/top-zelensky-official-praises-trump-for-giving-putin-10-days-to-end-ukraine-invasion-when-america-is-serious-russia-backs-down/"
+    "score": 56,
+    "pubdate": "2025-07-30-18-20-31 +0000",
+    "source": "nyt",
+    "headline": "Horst Mahler, 89, Dies; Voice of the German Far Left, Then the Far Right",
+    "link": "https://www.nytimes.com/2025/07/30/world/europe/horst-mahler-dead.html"
   }
 ]
