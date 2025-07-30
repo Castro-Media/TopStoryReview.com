@@ -14,7 +14,7 @@
     "link": "https://www.bbc.com/news/articles/cdxyre8jvk7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 154,
+    "score": 153,
     "pubdate": "2025-07-29-17-49-06 +0000",
     "source": "nypost",
     "headline": "Moscow taunts Trump by comparing him to Biden, warns new cease-fire deadline is ‘step towards war’",
@@ -42,11 +42,18 @@
     "link": "https://www.latimes.com/politics/story/2025-07-29/california-other-states-sue-trump-administration-over-bill-defunding-planned-parenthood"
   },
   {
-    "score": 105,
-    "pubdate": "2025-07-29-09-50-34 +0000",
-    "source": "cbc",
-    "headline": "Gunman who killed 4 at NYC building was targeting NFL offices but took wrong elevator, mayor says",
-    "link": "https://www.cbc.ca/news/world/gunman-manhattan-skyscraper-1.7596097?cmp=rss"
+    "score": 104,
+    "pubdate": "2025-07-29-15-07-33 +0000",
+    "source": "latimes",
+    "headline": "Shane Tamura played high school football in L.A. Now, he's accused of targeting the NFL in a mass shooting",
+    "link": "https://www.latimes.com/california/story/2025-07-29/what-we-know-shane-tamura-man-accused-nfl-mass-shooting"
+  },
+  {
+    "score": 98,
+    "pubdate": "2025-07-30-00-06-03 +0000",
+    "source": "nypost",
+    "headline": "NYC skyscraper that turned into tower of terror was fortified with panic rooms, off-duty cops as Manhattan office workers left on edge",
+    "link": "https://nypost.com/2025/07/29/us-news/nyc-skyscraper-that-turned-into-tower-of-terror-was-fortified-with-panic-rooms-off-duty-cops-as-manhattan-office-workers-left-on-edge/"
   },
   {
     "score": 95,
@@ -61,12 +68,5 @@
     "source": "cbc",
     "headline": "What Trump's tariff deals with Europe and Japan mean for Canada",
     "link": "https://www.cbc.ca/news/politics/trump-tariffs-canada-european-union-trade-deal-1.7595357?cmp=rss"
-  },
-  {
-    "score": 89,
-    "pubdate": "2025-07-29-18-30-57 +0000",
-    "source": "nypost",
-    "headline": "Trump reacts to Starmer plan to recognize Palestine: ‘Could make the case that you’re rewarding Hamas’",
-    "link": "https://nypost.com/2025/07/29/us-news/trump-reacts-to-starmer-plan-to-recognize-palestine-could-make-the-case-that-youre-rewarding-hamas/"
   }
 ]
