@@ -1,30 +1,72 @@
 [
   {
+    "score": 26,
+    "pubdate": "2025-07-30-08-14-00 +0000",
+    "source": "wsj",
+    "headline": "Tsunami Waves Reach Hawaii After Powerful Russia Quake Forces Pacific Evacuations",
+    "link": "https://www.wsj.com/world/tsunami-watch-warning-japan-us-west-coast-bd815b56"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-07-30-08-00-00 +0000",
+    "source": "wsj",
+    "headline": "China Politburo Holds off on Further Stimulus",
+    "link": "https://www.wsj.com/world/china/china-politburo-holds-off-on-further-stimulus-bfeeccbe"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-07-30-08-51-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Meeting Today: S&P 500 Futures Edge Up With Earnings Blast, Rate Decision in Spotlight",
+    "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-07-30-2025?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-07-30-08-29-00 +0000",
+    "source": "wsj",
+    "headline": "Europe’s Economies See Mixed Effect From Trump’s Trade Tariffs",
+    "link": "https://www.wsj.com/economy/french-economy-picks-up-pace-in-fresh-sign-of-europes-resilience-576f7bf9"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-07-30-08-20-09 +0000",
+    "source": "nyt",
+    "headline": "8.8-Magnitude Earthquake Off Russia Could Be One of the Largest on Record",
+    "link": "https://www.nytimes.com/2025/07/29/world/asia/earthquake-russia-record.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-07-30-08-38-10 +0000",
+    "source": "nyt",
+    "headline": "What Would Recognizing a Palestinian State Mean?",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/palestinian-statehood-israel.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-07-30-08-13-00 +0000",
+    "source": "wsj",
+    "headline": "Adidas Shares Tumble After Sales Miss, Guidance Confirmation",
+    "link": "https://www.wsj.com/business/earnings/adidas-backs-outlook-as-tariff-burden-lingers-7632ece9?mod=pls_whats_news_us_business_f"
+  },
+  {
     "score": 7,
-    "pubdate": "2025-07-30-06-56-46 +0000",
+    "pubdate": "2025-07-30-08-57-06 +0000",
+    "source": "nypost",
+    "headline": "First tsunami waves strike mainland US in Northern California and Bay Area",
+    "link": "https://nypost.com/2025/07/30/us-news/california-tsunami-waves-hit-northern-coast-near-crescent-city-and-san-francisco-bay-after-striking-hawaii/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-07-30-08-08-21 +0000",
     "source": "bbc",
-    "headline": "Lammy hopes plan to recognise Palestinian state 'will get ceasefire'",
-    "link": "https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss"
+    "headline": "Dating safety app Tea suspends messaging after hack",
+    "link": "https://www.bbc.com/news/articles/cd0dgkjgzvjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 6,
-    "pubdate": "2025-07-30-06-58-21 +0000",
-    "source": "bbc",
-    "headline": "Olympic star 'seriously' hurt in climbing accident",
-    "link": "https://www.bbc.com/sport/articles/c4g627p4q0ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 3,
-    "pubdate": "2025-07-30-06-58-01 +0000",
-    "source": "nyt",
-    "headline": "What is the Pacific ‘Ring of Fire’?",
-    "link": "https://www.nytimes.com/article/ring-of-fire-earthquake-tsunami-volcano.html"
-  },
-  {
-    "score": 3,
-    "pubdate": "2025-07-30-06-56-11 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest on the tsunami.",
-    "link": "https://www.nytimes.com/live/2025/07/29/world/earthquake-tsunami-russia-japan-hawaii/japan-earthquake-tsunami-north-pacific-ocean"
+    "pubdate": "2025-07-30-08-23-00 +0000",
+    "source": "wsj",
+    "headline": "Global Markets Mixed as Investors Digest Tariff Impact on Earnings",
+    "link": "https://www.wsj.com/finance/global-markets-mixed-as-investors-digest-tariff-impact-on-earnings-f24c009b?mod=rss_markets_main"
   }
 ]
