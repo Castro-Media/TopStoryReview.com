@@ -1,6 +1,6 @@
 [
   {
-    "score": 208,
+    "score": 206,
     "pubdate": "2025-07-30-02-54-54 +0000",
     "source": "wapo",
     "headline": "President Donald Trump shared the U.S. government’s tsunami warning on social media following the major quake...",
@@ -8,24 +8,17 @@
   },
   {
     "score": 123,
-    "pubdate": "2025-07-30-03-01-22 +0000",
-    "source": "wapo",
-    "headline": "Tsunami warnings were issued around the North Pacific after an 8.8-magnitude earthquake struck Russia’s Kamchatka region.",
-    "link": "https://www.washingtonpost.com"
+    "pubdate": "2025-07-30-01-45-42 +0000",
+    "source": "cbc",
+    "headline": "Japan, Hawaii and Russia downgrade tsunami warnings after powerful earthquake",
+    "link": "https://www.cbc.ca/news/world/japan-tsunami-alert-russia-quake-1.7597026?cmp=rss"
   },
   {
-    "score": 114,
+    "score": 104,
     "pubdate": "2025-07-29-19-52-56 +0000",
     "source": "nyt",
     "headline": "UK Will Recognize Palestinian Statehood In September, Unless Israel-Hamas Cease-Fire is Reached",
     "link": "https://www.nytimes.com/2025/07/29/world/europe/uk-palestine-state-starmer-gaza-israel.html"
-  },
-  {
-    "score": 86,
-    "pubdate": "2025-07-30-16-23-00 +0000",
-    "source": "wsj",
-    "headline": "Two top Senate Republicans laid out a plan Wednesday to allow allies to finance donations of U.S. weapons and military equipment to Ukraine",
-    "link": "https://www.wsj.com/politics/policy/us-weapons-ukraine-europe-funds-be3096c2"
   },
   {
     "score": 85,
@@ -35,11 +28,11 @@
     "link": "https://nypost.com/2025/07/30/us-news/bessent-tells-countries-dont-panic-if-trade-deals-arent-made-before-aug-1-insists-us-has-leverage-over-china/"
   },
   {
-    "score": 80,
-    "pubdate": "2025-07-30-01-50-16 +0000",
-    "source": "wapo",
-    "headline": "Hawaii authorities warned residents that the first tsunami waves were expected to arrive at 7:17 p.m....",
-    "link": "https://www.washingtonpost.com"
+    "score": 85,
+    "pubdate": "2025-07-30-16-23-00 +0000",
+    "source": "wsj",
+    "headline": "Two top Senate Republicans laid out a plan Wednesday to allow allies to finance donations of U.S. weapons and military equipment to Ukraine",
+    "link": "https://www.wsj.com/politics/policy/us-weapons-ukraine-europe-funds-be3096c2"
   },
   {
     "score": 76,
@@ -50,23 +43,30 @@
   },
   {
     "score": 74,
+    "pubdate": "2025-07-30-04-41-42 +0000",
+    "source": "wapo",
+    "headline": "Taiwan’s Central Weather Administration warned residents in coastal areas to stay alert, saying that waves caused...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 72,
     "pubdate": "2025-07-30-01-00-00 +0000",
     "source": "wsj",
     "headline": "How Did a Lone Gunman Breach One of New York’s Most Secure Skyscrapers?",
-    "link": "https://www.wsj.com/us-news/nyc-shooting-office-security-breach-17071dc3?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/us-news/nyc-shooting-office-security-breach-17071dc3"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2025-07-30-13-51-11 +0000",
     "source": "cbc",
     "headline": "Bank of Canada holds interest rate at 2.75% as economy shows resilience in the face of tariffs",
     "link": "https://www.cbc.ca/news/business/boc-july-decision-1.7597146?cmp=rss"
   },
   {
-    "score": 62,
-    "pubdate": "2025-07-30-15-56-06 +0000",
-    "source": "nyt",
-    "headline": "Israeli Far-Right Minister Promotes Plan for Jewish Resettlement in Gaza",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/israel-gaza-jewish-resettlement.html"
+    "score": 59,
+    "pubdate": "2025-07-29-21-30-24 +0000",
+    "source": "nypost",
+    "headline": "Ukrainian mom-to-be expecting first child after multiple miscarriages killed in Russian strike at hospital ward: report",
+    "link": "https://nypost.com/2025/07/29/world-news/ukrainian-mom-to-be-expecting-first-child-after-multiple-miscarriages-killed-in-russian-strike-at-hospital-ward-report/"
   }
 ]
