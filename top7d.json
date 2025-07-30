@@ -1,41 +1,62 @@
 [
   {
-    "score": 425,
+    "score": 421,
     "pubdate": "2025-07-29-22-00-59 +0000",
     "source": "nyt",
     "headline": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
     "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-says-gaza-will-get-more-aid-but-israel-will-distribute-it.html"
   },
   {
-    "score": 206,
+    "score": 273,
+    "pubdate": "2025-07-29-15-32-22 +0000",
+    "source": "wapo",
+    "headline": "Former New York Gov. Andrew Cuomo, a candidate in New York City’s mayoral race, commemorated Officer...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 187,
     "pubdate": "2025-07-28-17-45-28 +0000",
     "source": "bbc",
     "headline": "The US-EU trade deal in numbers - how it compares to UK deal",
     "link": "https://www.bbc.com/news/articles/cdxyre8jvk7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 154,
-    "pubdate": "2025-07-29-17-49-06 +0000",
-    "source": "nypost",
-    "headline": "Moscow taunts Trump by comparing him to Biden, warns new cease-fire deadline is ‘step towards war’",
-    "link": "https://nypost.com/2025/07/29/world-news/moscow-warns-new-cease-fire-deadline-is-step-towards-war/"
-  },
-  {
-    "score": 130,
-    "pubdate": "2025-07-29-21-42-41 +0000",
-    "source": "nypost",
-    "headline": "Top Zelensky official praises Trump for giving Putin 10 days to end Ukraine invasion: ‘When America is serious, Russia backs down’",
-    "link": "https://nypost.com/2025/07/29/us-news/top-zelensky-official-praises-trump-for-giving-putin-10-days-to-end-ukraine-invasion-when-america-is-serious-russia-backs-down/"
-  },
-  {
-    "score": 129,
+    "score": 137,
     "pubdate": "2025-07-30-00-49-48 +0000",
     "source": "latimes",
     "headline": "California coast under tsunami alert; North Coast braces for worst impact",
     "link": "https://www.latimes.com/california/story/2025-07-29/tsunami-warning-issued-california-coast-massive-russian-earthquake"
   },
   {
-    "score": 109,
+    "score": 128,
+    "pubdate": "2025-07-29-09-50-34 +0000",
+    "source": "cbc",
+    "headline": "Gunman who killed 4 at NYC building was targeting NFL offices but took wrong elevator, mayor says",
+    "link": "https://www.cbc.ca/news/world/gunman-manhattan-skyscraper-1.7596097?cmp=rss"
+  },
+  {
+    "score": 127,
+    "pubdate": "2025-07-29-21-42-41 +0000",
+    "source": "nypost",
+    "headline": "Top Zelensky official praises Trump for giving Putin 10 days to end Ukraine invasion: ‘When America is serious, Russia backs down’",
+    "link": "https://nypost.com/2025/07/29/us-news/top-zelensky-official-praises-trump-for-giving-putin-10-days-to-end-ukraine-invasion-when-america-is-serious-russia-backs-down/"
+  },
+  {
+    "score": 118,
+    "pubdate": "2025-07-29-19-52-56 +0000",
+    "source": "nyt",
+    "headline": "UK Will Recognize Palestinian Statehood In September, Unless Israel-Hamas Cease-Fire is Reached",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/uk-palestine-state-starmer-gaza-israel.html"
+  },
+  {
+    "score": 117,
+    "pubdate": "2025-07-28-16-50-00 +0000",
+    "source": "wsj",
+    "headline": "Business leaders on both sides of the Atlantic breathed a sigh of relief that the U.S. and European Union had averted a bruising trade war with their agreement on tariffs and investment",
+    "link": "https://www.wsj.com/economy/trade/companies-welcome-eu-u-s-trade-deal-as-least-bad-outcome-5b784443"
+  },
+  {
+    "score": 111,
     "pubdate": "2025-07-30-01-39-32 +0000",
     "source": "nypost",
     "headline": "Senate confirms Trump lawyer Emil Bove for federal appeals court judge spot — pushing past whistleblower claims",
@@ -43,30 +64,9 @@
   },
   {
     "score": 104,
-    "pubdate": "2025-07-29-15-15-51 +0000",
-    "source": "nypost",
-    "headline": "Apple shutters store in China for first time ever as struggles mount in second-largest market",
-    "link": "https://nypost.com/2025/07/29/business/apple-shutters-store-in-china-for-first-time-as-struggles-mount-in-second-largest-market/"
-  },
-  {
-    "score": 102,
     "pubdate": "2025-07-29-15-07-33 +0000",
     "source": "latimes",
     "headline": "Shane Tamura played high school football in L.A. Now, he's accused of targeting the NFL in a mass shooting",
     "link": "https://www.latimes.com/california/story/2025-07-29/what-we-know-shane-tamura-man-accused-nfl-mass-shooting"
-  },
-  {
-    "score": 99,
-    "pubdate": "2025-07-30-00-06-03 +0000",
-    "source": "nypost",
-    "headline": "NYC skyscraper that turned into tower of terror was fortified with panic rooms, off-duty cops as Manhattan office workers left on edge",
-    "link": "https://nypost.com/2025/07/29/us-news/nyc-skyscraper-that-turned-into-tower-of-terror-was-fortified-with-panic-rooms-off-duty-cops-as-manhattan-office-workers-left-on-edge/"
-  },
-  {
-    "score": 95,
-    "pubdate": "2025-07-27-08-01-00 +0000",
-    "source": "cbc",
-    "headline": "What Trump's tariff deals with Europe and Japan mean for Canada",
-    "link": "https://www.cbc.ca/news/politics/trump-tariffs-canada-european-union-trade-deal-1.7595357?cmp=rss"
   }
 ]
