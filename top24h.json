@@ -1,24 +1,17 @@
 [
   {
-    "score": 220,
+    "score": 219,
     "pubdate": "2025-07-30-02-54-54 +0000",
     "source": "wapo",
     "headline": "President Donald Trump shared the U.S. government’s tsunami warning on social media following the major quake...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 171,
+    "score": 167,
     "pubdate": "2025-07-29-18-32-06 +0000",
     "source": "nypost",
     "headline": "UK will recognize Palestinian state unless Israel agrees to cease-fire, allows UN aid into Gaza: PM",
     "link": "https://nypost.com/2025/07/29/world-news/uk-will-recognize-palestinian-state-unless-israel-agrees-to-cease-fire-allows-un-aid-into-gaza-pm/"
-  },
-  {
-    "score": 130,
-    "pubdate": "2025-07-29-15-32-22 +0000",
-    "source": "wapo",
-    "headline": "Former New York Gov. Andrew Cuomo, a candidate in New York City’s mayoral race, commemorated Officer...",
-    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 108,
@@ -29,44 +22,51 @@
   },
   {
     "score": 106,
-    "pubdate": "2025-07-29-15-30-51 +0000",
-    "source": "nypost",
-    "headline": "Union Pacific strikes $85B deal to buy rival Norfolk that would create US’ first coast-to-coast rail operator",
-    "link": "https://nypost.com/2025/07/29/business/union-pacific-strikes-deal-to-buy-rival-norfolk-in-85b-mega-railroad-deal/"
+    "pubdate": "2025-07-29-21-18-23 +0000",
+    "source": "wapo",
+    "headline": "New details emerge in New York City shooting investigation",
+    "link": "https://www.washingtonpost.com/nation/2025/07/29/new-york-shane-tamura-nfl-manhattan-blackstone-shooting/"
   },
   {
-    "score": 79,
-    "pubdate": "2025-07-30-14-46-09 +0000",
-    "source": "nyt",
-    "headline": "Trump Threatens India With Steep Tariffs, Including Penalty Over Russian Oil",
-    "link": "https://www.nytimes.com/2025/07/30/us/politics/india-tariffs-trump-russia.html"
-  },
-  {
-    "score": 77,
+    "score": 75,
     "pubdate": "2025-07-30-01-39-32 +0000",
     "source": "nypost",
     "headline": "Senate confirms Trump lawyer Emil Bove for federal appeals court judge spot — pushing past whistleblower claims",
     "link": "https://nypost.com/2025/07/29/us-news/senate-confirms-trump-lawyer-emil-bove-for-federal-appeals-court-judge-spot-pushing-past-whistleblower-claims/"
   },
   {
-    "score": 76,
-    "pubdate": "2025-07-29-15-07-33 +0000",
-    "source": "latimes",
-    "headline": "Shane Tamura played high school football in L.A. Now, he's accused of targeting the NFL in a mass shooting",
-    "link": "https://www.latimes.com/california/story/2025-07-29/what-we-know-shane-tamura-man-accused-nfl-mass-shooting"
+    "score": 74,
+    "pubdate": "2025-07-30-14-46-09 +0000",
+    "source": "nyt",
+    "headline": "Trump Threatens India With Steep Tariffs, Including Penalty Over Russian Oil",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/india-tariffs-trump-russia.html"
   },
   {
-    "score": 76,
+    "score": 74,
     "pubdate": "2025-07-30-09-30-00 +0000",
     "source": "wsj",
     "headline": "The shake-up for charitable giving inside the “one big, beautiful bill” is expected to alter Americans’ giving patterns when it takes full effect next year",
     "link": "https://www.wsj.com/politics/policy/trump-tax-spending-bill-charitable-donation-rules-bbc2f0e2"
   },
   {
-    "score": 65,
-    "pubdate": "2025-07-30-02-37-11 +0000",
+    "score": 70,
+    "pubdate": "2025-07-30-03-01-22 +0000",
     "source": "wapo",
-    "headline": "The National Weather Service issued a tsunami advisory for coastal areas of Oregon after the earthquake,...",
+    "headline": "Tsunami warnings were issued around the North Pacific after an 8.8-magnitude earthquake struck Russia’s Kamchatka region.",
     "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-07-30-14-16-00 +0000",
+    "source": "wsj",
+    "headline": "Any further Bank of Canada rate reduction depends on the extent of tariff-fueled economic weakness and whether price gains from trade disruptions are contained",
+    "link": "https://www.wsj.com/articles/bank-of-canada-stands-pat-on-rates-signals-cut-could-materialize-if-conditions-warrant-346832f2"
+  },
+  {
+    "score": 59,
+    "pubdate": "2025-07-29-17-20-00 +0000",
+    "source": "wsj",
+    "headline": "A Megamerger Creates America’s First Coast-to-Coast Rail Operator",
+    "link": "https://www.wsj.com/business/logistics/transcontinental-railway-union-pacific-norfolk-southern-03e313aa?mod=pls_whats_news_us_business_f"
   }
 ]
