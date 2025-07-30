@@ -1,6 +1,6 @@
 [
   {
-    "score": 202,
+    "score": 198,
     "pubdate": "2025-07-29-22-00-59 +0000",
     "source": "nyt",
     "headline": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
@@ -43,17 +43,17 @@
   },
   {
     "score": 63,
-    "pubdate": "2025-07-30-03-56-01 +0000",
-    "source": "wapo",
-    "headline": "Live updates: Tsunami alerts issued for U.S. West Coast, Hawaii and Japan after 8.8-magnitude quake",
-    "link": "https://www.washingtonpost.com/world/2025/07/29/tsunami-west-coast-japan-87-quake-russia/"
-  },
-  {
-    "score": 63,
     "pubdate": "2025-07-30-02-12-08 +0000",
     "source": "nypost",
     "headline": "Trump tells Sen. Chuck Grassley to ‘step up,’ get rid of ‘ridiculous custom’ holding up judicial appointments",
     "link": "https://nypost.com/2025/07/29/us-news/trump-tells-sen-chuck-grassley-to-step-up-get-rid-of-ridiculous-custom-holding-up-judicial-appointments/"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-07-30-03-56-01 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Tsunami alerts issued for U.S. West Coast, Hawaii and Japan after 8.8-magnitude quake",
+    "link": "https://www.washingtonpost.com/world/2025/07/29/tsunami-west-coast-japan-87-quake-russia/"
   },
   {
     "score": 60,
@@ -64,9 +64,9 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-07-30-00-06-03 +0000",
-    "source": "nypost",
-    "headline": "NYC skyscraper that turned into tower of terror was fortified with panic rooms, off-duty cops as Manhattan office workers left on edge",
-    "link": "https://nypost.com/2025/07/29/us-news/nyc-skyscraper-that-turned-into-tower-of-terror-was-fortified-with-panic-rooms-off-duty-cops-as-manhattan-office-workers-left-on-edge/"
+    "pubdate": "2025-07-29-09-50-34 +0000",
+    "source": "cbc",
+    "headline": "Gunman who killed 4 at NYC building was targeting NFL offices but took wrong elevator, mayor says",
+    "link": "https://www.cbc.ca/news/world/gunman-manhattan-skyscraper-1.7596097?cmp=rss"
   }
 ]
