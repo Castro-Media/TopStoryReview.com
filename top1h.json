@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-07-30-16-53-51 +0000",
+    "score": 41,
+    "pubdate": "2025-07-30-18-57-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Meeting Today: Federal Reserve Leaves Rates Unchanged; Two Fed Governors Dissent",
+    "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-07-30-2025?mod=rss_markets_main"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-07-30-18-33-31 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Mideast Envoy Heads to Israel Amid Global Fury Over Gaza Hunger",
+    "link": "https://www.nytimes.com/2025/07/30/world/middleeast/trump-envoy-israel-gaza.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-07-30-18-31-33 +0000",
+    "source": "wapo",
+    "headline": "NTSB hearing live updates: Army helicopter crew had trouble hearing air tower before D.C. plane crash",
+    "link": "https://www.washingtonpost.com/business/2025/07/30/ntsb-dc-plane-crash-reagan-national-airport/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-07-30-18-20-31 +0000",
+    "source": "nyt",
+    "headline": "Horst Mahler, 89, Dies; Voice of the German Far Left, Then the Far Right",
+    "link": "https://www.nytimes.com/2025/07/30/world/europe/horst-mahler-dead.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-07-30-18-33-24 +0000",
+    "source": "nyt",
+    "headline": "Trump Threatens India With Steep Tariffs, Including Penalty Over Russian Oil",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/india-tariffs-trump-russia.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-30-18-55-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. economy returned to growth in the second quarter, but signs of weakness emerged in the first half of the year",
+    "link": "https://www.wsj.com/economy/us-gdp-q2-2025-359c022b"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-30-18-13-26 +0000",
+    "source": "nyt",
+    "headline": "Criss-crossing routes in D.C. airspace leave little room for error.",
+    "link": "https://www.nytimes.com/live/2025/07/30/us/dc-plane-crash-hearing/criss-crossing-routes-in-dc-airspace-leave-little-room-for-error"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-30-18-05-16 +0000",
     "source": "nypost",
-    "headline": "DOJ teases details about Jeffrey Epstein, Ghislaine Maxwell testimony they want released",
-    "link": "https://nypost.com/2025/07/30/us-news/doj-urges-release-of-jeffrey-epstein-ghislaine-maxwell-grand-jury-testimony/"
+    "headline": "Mom allegedly gunned down her children’s dad while he picked kids up at day care: ‘Let the monster die’",
+    "link": "https://nypost.com/2025/07/30/us-news/mom-allegedly-gunned-down-her-childrens-dad-at-fl-day-care/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-30-18-24-23 +0000",
+    "source": "nyt",
+    "headline": "Texas Republicans Unveil Gerrymandered House Map, Trying to Please Trump",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/texas-republican-redistricting.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-07-30-18-23-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | Gaza Starvation Photos Tell a Thousand Lies",
+    "link": "https://www.wsj.com/opinion/gaza-starvation-photos-tell-a-thousand-lies-palestine-israel-aid-1d689cc8"
   }
 ]
