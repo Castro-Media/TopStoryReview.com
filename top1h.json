@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 46,
+    "pubdate": "2025-07-31-16-29-38 +0000",
+    "source": "latimes",
+    "headline": "New Trump tariffs on Mexico delayed 90 days as trade talks continue",
+    "link": "https://www.latimes.com/world-nation/story/2025-07-31/tariffs-on-mexico-delayed-90-days"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-07-31-16-35-49 +0000",
+    "source": "nyt",
+    "headline": "Trump Announces Health Care Records System for Consumers",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/trump-health-records-system.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-07-31-16-15-46 +0000",
+    "source": "bbc",
+    "headline": "EU-US tariff deal not finished yet, say Europeans unhappy with Trump's terms",
+    "link": "https://www.bbc.com/news/articles/cvgp5q4x4nzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-07-31-16-04-53 +0000",
+    "source": "nyt",
+    "headline": "White House Urges ‘Pro-Innovation Mindset’ to Crypto In New Report",
+    "link": "https://www.nytimes.com/2025/07/30/technology/white-house-crypto.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-31-16-03-27 +0000",
+    "source": "nypost",
+    "headline": "NYers brace for severe flooding as city could see 5 inches of rain in just hours before evening commute: ‘Make a plan now’",
+    "link": "https://nypost.com/2025/07/31/us-news/new-yorkers-brace-for-severe-flooding-as-city-could-see-5-inches-of-rain-in-just-hours-before-evening-commute/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-31-16-05-26 +0000",
+    "source": "nyt",
+    "headline": "China Summons Nvidia Over ‘Backdoor Security’ Risks of A.I. Chips",
+    "link": "https://www.nytimes.com/2025/07/31/business/china-nvidia-h20-chips.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-07-31-16-55-21 +0000",
+    "source": "nyt",
+    "headline": "Massachusetts Governor Proposes $400 Million for Colleges, Citing Federal ‘Uncertainty’",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/massachusetts-healey-trump-funding.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-07-31-16-53-36 +0000",
+    "source": "nyt",
+    "headline": "How India Became One of the Biggest Buyers of Russian Oil",
+    "link": "https://www.nytimes.com/2025/07/31/business/india-russia-oil-trump.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-07-31-16-39-15 +0000",
+    "source": "nypost",
+    "headline": "Delta Air Lines worker swiped kid’s lost iPad and uploaded explicit videos of himself, lawsuit claims",
+    "link": "https://nypost.com/2025/07/31/us-news/delta-airlines-worker-stole-kids-lost-ipad-uploaded-explicit-videos-of-himself-lawsuit/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-07-31-15-58-50 +0000",
+    "source": "nyt",
+    "headline": "Trump Taps Climate Skeptics to Attack Science on Global Warming",
+    "link": "https://www.nytimes.com/2025/07/31/climate/trump-climate-skeptics-science-report.html"
+  }
+]
