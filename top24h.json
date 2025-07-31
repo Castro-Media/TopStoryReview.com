@@ -1,24 +1,17 @@
 [
   {
-    "score": 273,
+    "score": 289,
     "pubdate": "2025-07-31-10-33-13 +0000",
     "source": "cbc",
-    "headline": "U.S. extends trade deal with Mexico, sets tariffs for South Korea and Brazil as Trump's deadline nears",
+    "headline": "U.S. extends trade deal with Mexico, sets tariffs for South Korea, Brazil as Trump's deadline nears",
     "link": "https://www.cbc.ca/news/world/trump-tariffs-south-korea-1.7598259?cmp=rss"
   },
   {
-    "score": 127,
+    "score": 118,
     "pubdate": "2025-07-30-20-19-00 +0000",
     "source": "wsj",
     "headline": "Former Vice President Kamala Harris said Wednesday she wouldn’t run for governor of California next year, leaving open the possibility of another presidential bid in 2028",
     "link": "https://www.wsj.com/politics/elections/kamala-harris-california-governor-election-630b7725"
-  },
-  {
-    "score": 85,
-    "pubdate": "2025-07-30-23-37-48 +0000",
-    "source": "wapo",
-    "headline": "NTSB hearing: Army helicopter’s location system wasn’t working before deadly D.C. plane crash",
-    "link": "https://www.washingtonpost.com/business/2025/07/30/ntsb-dc-plane-crash-reagan-national-airport/"
   },
   {
     "score": 85,
@@ -28,42 +21,49 @@
     "link": "https://www.cbc.ca/news/politics/us-canada-trade-negotiations-deadline-1.7598002?cmp=rss"
   },
   {
-    "score": 80,
-    "pubdate": "2025-07-31-01-03-00 +0000",
-    "source": "wsj",
-    "headline": "New York City’s deadliest shooting in the last 25 years has put public safety front and center in the mayoral race and highlighted a potential vulnerability for front-runner Zohran Mamdani",
-    "link": "https://www.wsj.com/politics/policy/nyc-mayor-race-zohran-mamdani-shooting-police-2fa540ab"
+    "score": 78,
+    "pubdate": "2025-07-30-23-37-48 +0000",
+    "source": "wapo",
+    "headline": "NTSB hearing: Army helicopter’s location system wasn’t working before deadly D.C. plane crash",
+    "link": "https://www.washingtonpost.com/business/2025/07/30/ntsb-dc-plane-crash-reagan-national-airport/"
   },
   {
-    "score": 74,
-    "pubdate": "2025-07-30-22-31-15 +0000",
-    "source": "nypost",
-    "headline": "Witkoff could visit Gaza aid sites during Israel trip as at least 48 reportedly killed waiting for food",
-    "link": "https://nypost.com/2025/07/30/world-news/witkoff-could-visit-gaza-aid-sites-during-israel-trip-as-at-least-48-reportedly-killed-waiting-for-food/"
-  },
-  {
-    "score": 73,
-    "pubdate": "2025-07-31-15-31-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s tighter deadline for Russia to reach peace with Ukraine and his threat against Russia’s energy customers contrast with a lighter approach to Russia elsewhere",
-    "link": "https://www.wsj.com/politics/policy/trumps-russia-sanctions-strategy-runs-hot-and-cold-ed2527c1"
-  },
-  {
-    "score": 69,
+    "score": 77,
     "pubdate": "2025-07-30-20-33-00 +0000",
     "source": "wsj",
     "headline": "Ford Takes $800 Million Tariff Hit, Posts First Loss Since 2023",
     "link": "https://www.wsj.com/business/autos/ford-earnings-q2-2025-tariffs-0df0cedf?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 59,
+    "score": 74,
+    "pubdate": "2025-07-31-01-03-00 +0000",
+    "source": "wsj",
+    "headline": "New York City’s deadliest shooting in the last 25 years has put public safety front and center in the mayoral race and highlighted a potential vulnerability for front-runner Zohran Mamdani",
+    "link": "https://www.wsj.com/politics/policy/nyc-mayor-race-zohran-mamdani-shooting-police-2fa540ab"
+  },
+  {
+    "score": 71,
+    "pubdate": "2025-07-31-18-36-42 +0000",
+    "source": "bbc",
+    "headline": "Dozens killed seeking food in Gaza, hospital says, as US envoy set to visit Gaza",
+    "link": "https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 66,
+    "pubdate": "2025-07-31-15-31-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s tighter deadline for Russia to reach peace with Ukraine and his threat against Russia’s energy customers contrast with a lighter approach to Russia elsewhere",
+    "link": "https://www.wsj.com/politics/policy/trumps-russia-sanctions-strategy-runs-hot-and-cold-ed2527c1"
+  },
+  {
+    "score": 60,
     "pubdate": "2025-07-31-14-01-19 +0000",
     "source": "nypost",
     "headline": "Fed’s preferred inflation gauge ticks up as tariffs lift prices — casting cloud on September rate cut",
     "link": "https://nypost.com/2025/07/31/business/feds-preferred-inflation-gauge-ticks-up-as-tariffs-lift-prices-casting-cloud-on-september-rate-cut/"
   },
   {
-    "score": 48,
+    "score": 53,
     "pubdate": "2025-07-31-08-34-03 +0000",
     "source": "nypost",
     "headline": "Russian missile and drone attack batters Kyiv, leaving at least 9 dead — including 6-year-old boy",

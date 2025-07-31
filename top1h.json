@@ -1,44 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2025-07-31-16-54-29 +0000",
+    "score": 33,
+    "pubdate": "2025-07-31-18-20-06 +0000",
+    "source": "nypost",
+    "headline": "FBI never probed ‘confidential’ talks between DNC, Clinton campaign and George Soros group, bombshell intel files show",
+    "link": "https://nypost.com/2025/07/31/us-news/fbi-never-probed-confidential-talks-between-dnc-clinton-campaign-george-soros-group-bombshell-intel-files-show/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-07-31-18-36-42 +0000",
+    "source": "bbc",
+    "headline": "Dozens killed seeking food in Gaza, hospital says, as US envoy set to visit Gaza",
+    "link": "https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-07-31-18-47-22 +0000",
     "source": "nyt",
-    "headline": "Appeals Court Hears Legal Challenge to Trump Tariffs as Trade War Widens",
-    "link": "https://www.nytimes.com/2025/07/31/business/trump-tariffs-lawsuit-court-appeal.html"
+    "headline": "County Emergency Official Says He Was Ill and Sleeping as Texas Floods Hit",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/texas-floods-hearing.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-07-31-18-40-00 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Trump Gives Mexico More Time for Trade Talks; Stocks Pare Gains",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2025-2?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-31-18-30-11 +0000",
+    "source": "nyt",
+    "headline": "Unnoticed Whistle-Blower Document Alarms Justice Department Veterans",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/emil-bove-whistle-blower.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-31-18-08-52 +0000",
+    "source": "nyt",
+    "headline": "How India Became One of the Biggest Buyers of Russian Oil",
+    "link": "https://www.nytimes.com/2025/07/31/business/india-russia-oil-trump.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-07-31-18-44-30 +0000",
+    "source": "nypost",
+    "headline": "Cleaning woman who narrowly escaped death in Park Avenue building massacre pleaded with shooter Shane Tamura to spare her life",
+    "link": "https://nypost.com/2025/07/31/us-news/cleaning-woman-who-narrowly-escaped-death-in-park-avenue-building-massacre-pleaded-with-shooter-shane-tamura-to-spare-her-life/"
   },
   {
     "score": 14,
-    "pubdate": "2025-07-31-16-55-21 +0000",
+    "pubdate": "2025-07-31-18-48-22 +0000",
     "source": "nyt",
-    "headline": "Massachusetts Governor Proposes $400 Million for Colleges, Citing Federal ‘Uncertainty’",
-    "link": "https://www.nytimes.com/2025/07/31/us/politics/massachusetts-healey-trump-funding.html"
+    "headline": "Clock Ticks Toward Higher Tariffs With Little Clarity",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/deadline-trump-tariffs.html"
   },
   {
-    "score": 11,
-    "pubdate": "2025-07-31-16-55-36 +0000",
+    "score": 14,
+    "pubdate": "2025-07-31-18-07-39 +0000",
+    "source": "bbc",
+    "headline": "Gazan boy first to be treated in UK for war injuries",
+    "link": "https://www.bbc.com/news/articles/cvgn6979n59o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-07-31-18-52-59 +0000",
     "source": "nypost",
-    "headline": "JPMorgan CEO Jamie Dimon’s icy relationship with Trump thaws with reported visits to White House",
-    "link": "https://nypost.com/2025/07/31/business/jpmorgan-ceo-jamie-dimons-icy-relationship-with-trump-thaws-with-reported-visits-to-white-house/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-07-31-16-54-14 +0000",
-    "source": "nypost",
-    "headline": "US toy makers are getting slammed by China tariffs — and have dire warnings if the mess isn’t fixed soon",
-    "link": "https://nypost.com/2025/07/31/business/us-toy-makers-are-getting-slammed-by-china-tariffs-and-have-dire-warnings-if-the-mess-isnt-fixed-soon/"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-07-31-16-55-31 +0000",
-    "source": "wapo",
-    "headline": "Trump’s tariffs face challenge, while administration rushes to finish trade deals",
-    "link": "https://www.washingtonpost.com/business/2025/07/31/trump-tariffs-face-legal-challenge/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-07-31-16-54-08 +0000",
-    "source": "nyt",
-    "headline": "Massachusetts Governor Proposes $400 Million for Colleges, Citing Federal ‘Uncertainty’",
-    "link": "https://www.nytimes.com/2025/07/31/us/politics/massachusetts-healey-trump-funding.html"
+    "headline": "Long Island Hooters has become one of the sexy dining chain’s few recent success stories — by going family-friendly",
+    "link": "https://nypost.com/2025/07/31/us-news/long-island-hooters-has-become-one-of-the-sexy-dining-chains-few-recent-success-stories-by-going-family-friendly/"
   }
 ]
