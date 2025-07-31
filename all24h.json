@@ -1,6 +1,612 @@
 [
   {
-    "headline": "Newly-released video shows horrific moment Army Black Hawk and American Airlines plane collided in fiery DC crash",
+    "headline": "JPMorgan CEO Jamie Dimon’s icy relationship with Trump thaws with reported visits to White House",
+    "link": "https://nypost.com/2025/07/31/business/jpmorgan-ceo-jamie-dimons-icy-relationship-with-trump-thaws-with-reported-visits-to-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-16-55-36 +0000"
+  },
+  {
+    "headline": "Trump’s tariffs face challenge, while administration rushes to finish trade deals",
+    "link": "https://www.washingtonpost.com/business/2025/07/31/trump-tariffs-face-legal-challenge/",
+    "source": "wapo",
+    "pubdate": "2025-07-31-16-55-31 +0000"
+  },
+  {
+    "headline": "Massachusetts Governor Proposes $400 Million for Colleges, Citing Federal ‘Uncertainty’",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/massachusetts-healey-trump-funding.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-55-21 +0000"
+  },
+  {
+    "headline": "Appeals Court Hears Legal Challenge to Trump Tariffs as Trade War Widens",
+    "link": "https://www.nytimes.com/2025/07/31/business/trump-tariffs-lawsuit-court-appeal.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-54-29 +0000"
+  },
+  {
+    "headline": "US toy makers are getting slammed by China tariffs — and have dire warnings if the mess isn’t fixed soon",
+    "link": "https://nypost.com/2025/07/31/business/us-toy-makers-are-getting-slammed-by-china-tariffs-and-have-dire-warnings-if-the-mess-isnt-fixed-soon/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-16-54-14 +0000"
+  },
+  {
+    "headline": "Massachusetts Governor Proposes $400 Million for Colleges, Citing Federal ‘Uncertainty’",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/massachusetts-healey-trump-funding.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-54-08 +0000"
+  },
+  {
+    "headline": "How India Became One of the Biggest Buyers of Russian Oil",
+    "link": "https://www.nytimes.com/2025/07/31/business/india-russia-oil-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-53-36 +0000"
+  },
+  {
+    "headline": "How India Became One of the Biggest Buyers of Russian Oil",
+    "link": "https://www.nytimes.com/2025/07/31/business/india-russia-oil-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-53-36 +0000"
+  },
+  {
+    "headline": "Gen Z and Gen X square off in a slang showdown: Do you know what ‘slay,’ ‘tubular,’ ‘Bogart’ and more mean?",
+    "link": "https://nypost.com/2025/07/31/lifestyle/gen-z-gen-x-square-off-in-slang-showdown-do-you-know-what-slay-tubular-bogart-and-more-mean/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-16-51-51 +0000"
+  },
+  {
+    "headline": "Virginia City Councilman, Lee Vogler, Is Set on Fire in Attack, Police Say",
+    "link": "https://www.nytimes.com/2025/07/30/us/lee-vogler-fire-attack-showcase-magazine-virginia.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-49-35 +0000"
+  },
+  {
+    "headline": "11 dead in Kyiv, including 6-year-old, after overnight Russian strikes",
+    "link": "https://www.washingtonpost.com/world/2025/07/31/ukraine-kyiv-russian-drone-missile-children-killed/",
+    "source": "wapo",
+    "pubdate": "2025-07-31-16-49-04 +0000"
+  },
+  {
+    "headline": "South Korea Reaches Trade Deal With Trump",
+    "link": "https://www.nytimes.com/2025/07/30/business/economy/trump-tariffs-south-korea.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-49-00 +0000"
+  },
+  {
+    "headline": "South Korea Reaches Trade Deal With Trump",
+    "link": "https://www.nytimes.com/2025/07/30/business/economy/trump-tariffs-south-korea.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-49-00 +0000"
+  },
+  {
+    "headline": "South Korea Reaches Trade Deal With Trump",
+    "link": "https://www.nytimes.com/2025/07/30/business/economy/trump-tariffs-south-korea.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-49-00 +0000"
+  },
+  {
+    "headline": "Lithuania’s Prime Minister Steps Down",
+    "link": "https://www.nytimes.com/2025/07/31/world/europe/lithuania-prime-minister-steps-down.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-42-20 +0000"
+  },
+  {
+    "headline": "Man Arrested in Killing of Couple Hiking With Kids in Arkansas",
+    "link": "https://www.nytimes.com/2025/07/31/us/arkansas-murder-arrest.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-42-20 +0000"
+  },
+  {
+    "headline": "Lithuania’s Prime Minister Steps Down",
+    "link": "https://www.nytimes.com/2025/07/31/world/europe/lithuania-prime-minister-steps-down.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-42-20 +0000"
+  },
+  {
+    "headline": "Delta Air Lines worker swiped kid’s lost iPad and uploaded explicit videos of himself, lawsuit claims",
+    "link": "https://nypost.com/2025/07/31/us-news/delta-airlines-worker-stole-kids-lost-ipad-uploaded-explicit-videos-of-himself-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-16-39-15 +0000"
+  },
+  {
+    "headline": "Magnitude 4.4 earthquake near Rialto sends shaking across Southern California",
+    "link": "https://www.latimes.com/california/story/2025-07-31/earthquake-4-5-quake-felt-in-rialto-calif",
+    "source": "latimes",
+    "pubdate": "2025-07-31-16-38-51 +0000"
+  },
+  {
+    "headline": "Ukraine adopts new anti-corruption law as protests force Zelensky to retreat",
+    "link": "https://www.washingtonpost.com/world/2025/07/31/ukraine-anticorruption-law-zelensky-protests/",
+    "source": "wapo",
+    "pubdate": "2025-07-31-16-38-10 +0000"
+  },
+  {
+    "headline": "Trump Announces Health Care Records System for Consumers",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/trump-health-records-system.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-35-49 +0000"
+  },
+  {
+    "headline": "Trump Announces Health Care Records System for Consumers",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/trump-health-records-system.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-35-49 +0000"
+  },
+  {
+    "headline": "Trump Announces Health Care Records System for Consumers",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/trump-health-records-system.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-35-49 +0000"
+  },
+  {
+    "headline": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like NBA Stars.",
+    "link": "https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-33-47 +0000"
+  },
+  {
+    "headline": "Dozens injured as Delta flight hits turbulence at 37,000 feet, diverts to MSP",
+    "link": "https://www.startribune.com/25-delta-passengers-evaluated-for-injuries-after-overseas-flight-hits-turbulence-lands-at-msp/601446945",
+    "source": "startribune",
+    "pubdate": "2025-07-31-16-33-22 +0000"
+  },
+  {
+    "headline": "American Eagle’s ‘good jeans’ ads with Sydney Sweeney spark a debate on race, beauty standards",
+    "link": "https://nypost.com/2025/07/31/lifestyle/american-eagles-ad-with-sydney-sweeney-spark-debate-race-and-beauty-standards/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-16-32-10 +0000"
+  },
+  {
+    "headline": "Small boats crossings hit 25,000 for the year",
+    "link": "https://www.bbc.com/news/articles/c74wkzpz717o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-16-29-39 +0000"
+  },
+  {
+    "headline": "New Trump tariffs on Mexico delayed 90 days as trade talks continue",
+    "link": "https://www.latimes.com/world-nation/story/2025-07-31/tariffs-on-mexico-delayed-90-days",
+    "source": "latimes",
+    "pubdate": "2025-07-31-16-29-38 +0000"
+  },
+  {
+    "headline": "Allina Health closing four clinics including another loss on Nicollet Mall in Minneapolis",
+    "link": "https://www.startribune.com/allina-health-closing-four-clinics-including-another-loss-on-nicollet-mall-in-minneapolis/601447073",
+    "source": "startribune",
+    "pubdate": "2025-07-31-16-28-44 +0000"
+  },
+  {
+    "headline": "What’s Ahead for Food",
+    "link": "https://www.wsj.com/business/retail/whats-ahead-for-food-60ebcf8e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-07-31-16-25-00 +0000"
+  },
+  {
+    "headline": "Over-evacuation likely worsened Hawaii tsunami traffic, officials say",
+    "link": "https://nypost.com/2025/07/31/us-news/over-evacuation-prompted-traffic-problems-before-tsunami-hit-hawaii/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-16-24-20 +0000"
+  },
+  {
+    "headline": "Murky Pledges of Investment Cast Shadow on Trump’s Trade Deals",
+    "link": "https://www.nytimes.com/2025/07/31/business/trump-japan-south-korea-investment.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-22-46 +0000"
+  },
+  {
+    "headline": "Murky Pledges of Investment Cast Shadow on Trump’s Trade Deals",
+    "link": "https://www.nytimes.com/2025/07/31/business/trump-japan-south-korea-investment.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-22-46 +0000"
+  },
+  {
+    "headline": "Private security provider, ex-cop is arrested again in Twin Cities, accused of impersonating officer",
+    "link": "https://www.startribune.com/private-security-provider-ex-cop-is-arrested-again-in-twin-cities-accused-of-impersonating-officer/601446812",
+    "source": "startribune",
+    "pubdate": "2025-07-31-16-22-33 +0000"
+  },
+  {
+    "headline": "EU-US tariff deal not finished yet, say Europeans unhappy with Trump's terms",
+    "link": "https://www.bbc.com/news/articles/cvgp5q4x4nzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-16-15-46 +0000"
+  },
+  {
+    "headline": "EU-US tariff deal not finished yet, say Europeans unhappy with Trump's terms",
+    "link": "https://www.bbc.com/news/articles/cvgp5q4x4nzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-16-15-46 +0000"
+  },
+  {
+    "headline": "‘Not a Damned Penny.’ Texas Flood Survivors Look for Help",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/texas-floods.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-15-33 +0000"
+  },
+  {
+    "headline": "‘Not a Damned Penny.’ Texas Flood Survivors Look for Help",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/texas-floods.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-15-33 +0000"
+  },
+  {
+    "headline": "Key Inflation Measure Rose in June, Adding to Pressure on Fed",
+    "link": "https://www.nytimes.com/2025/07/31/business/pce-inflation-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-12-01 +0000"
+  },
+  {
+    "headline": "The U.S. imposed visa bans on Palestinian officials.",
+    "link": "https://www.nytimes.com/live/2025/07/31/us/trump-news/palestinian-visa-bans",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-09-59 +0000"
+  },
+  {
+    "headline": "The U.S. imposed visa bans on Palestinian officials.",
+    "link": "https://www.nytimes.com/live/2025/07/31/us/trump-news/palestinian-visa-bans",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-09-59 +0000"
+  },
+  {
+    "headline": "Major Study on Transgender Youth Health Care to Begin in U.K.",
+    "link": "https://www.nytimes.com/2025/07/31/world/europe/transgender-children-health-study-uk-nhs.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-09-52 +0000"
+  },
+  {
+    "headline": "Major Study on Transgender Youth Health Care to Begin in U.K.",
+    "link": "https://www.nytimes.com/2025/07/31/world/europe/transgender-children-health-study-uk-nhs.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-09-52 +0000"
+  },
+  {
+    "headline": "Trump Announces 90-Day Extension for Mexico in Trade Talks",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/trump-tariffs-mexico-extension.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-07-12 +0000"
+  },
+  {
+    "headline": "Trump Announces 90-Day Extension for Mexico in Trade Talks",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/trump-tariffs-mexico-extension.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-07-12 +0000"
+  },
+  {
+    "headline": "China Summons Nvidia Over ‘Backdoor Security’ Risks of A.I. Chips",
+    "link": "https://www.nytimes.com/2025/07/31/business/china-nvidia-h20-chips.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-05-26 +0000"
+  },
+  {
+    "headline": "China Summons Nvidia Over ‘Backdoor Security’ Risks of A.I. Chips",
+    "link": "https://www.nytimes.com/2025/07/31/business/china-nvidia-h20-chips.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-05-26 +0000"
+  },
+  {
+    "headline": "White House Urges ‘Pro-Innovation Mindset’ to Crypto In New Report",
+    "link": "https://www.nytimes.com/2025/07/30/technology/white-house-crypto.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-04-53 +0000"
+  },
+  {
+    "headline": "White House Urges ‘Pro-Innovation Mindset’ to Crypto In New Report",
+    "link": "https://www.nytimes.com/2025/07/30/technology/white-house-crypto.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-16-04-53 +0000"
+  },
+  {
+    "headline": "NYers brace for severe flooding as city could see 5 inches of rain in just hours before evening commute: ‘Make a plan now’",
+    "link": "https://nypost.com/2025/07/31/us-news/new-yorkers-brace-for-severe-flooding-as-city-could-see-5-inches-of-rain-in-just-hours-before-evening-commute/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-16-03-27 +0000"
+  },
+  {
+    "headline": "The Fed’s preferred measure of inflation is running hot, buoyed by tariffs",
+    "link": "https://www.washingtonpost.com/business/2025/07/31/inflation-hotter-powell-fed-trump/",
+    "source": "wapo",
+    "pubdate": "2025-07-31-16-00-14 +0000"
+  },
+  {
+    "headline": "Trump Taps Climate Skeptics to Attack Science on Global Warming",
+    "link": "https://www.nytimes.com/2025/07/31/climate/trump-climate-skeptics-science-report.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-58-50 +0000"
+  },
+  {
+    "headline": "Trump Taps Climate Skeptics to Attack Science on Global Warming",
+    "link": "https://www.nytimes.com/2025/07/31/climate/trump-climate-skeptics-science-report.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-58-50 +0000"
+  },
+  {
+    "headline": "Navigating smoke from Canadian wildfires while traveling in northern Minnesota",
+    "link": "https://www.startribune.com/smoke-in-the-north-what-to-do-when-youre-traveling-amid-wildfire-season/601443874",
+    "source": "startribune",
+    "pubdate": "2025-07-31-15-56-06 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Trump Gives Mexico More Time for Trade Talks; Nasdaq Jumps on Tech Earnings",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2025-2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-07-31-15-54-00 +0000"
+  },
+  {
+    "headline": "Virginia Giuffre's family asks Trump not to pardon Maxwell",
+    "link": "https://www.bbc.com/news/articles/cvg40gj07k2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-53-57 +0000"
+  },
+  {
+    "headline": "Russian Missile and Drone Attack Pummels Kyiv, Killing at Least 7",
+    "link": "https://www.nytimes.com/2025/07/31/world/europe/ukraine-russia-attack-kyiv.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-53-26 +0000"
+  },
+  {
+    "headline": "Aftershocks From 8.8-Magnitude Quake Rattle North Pacific",
+    "link": "https://www.nytimes.com/2025/07/31/world/asia/aftershocks-russia-earthquake.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-53-26 +0000"
+  },
+  {
+    "headline": "Russian Missile and Drone Attack Pummels Kyiv, Killing at Least 7",
+    "link": "https://www.nytimes.com/2025/07/31/world/europe/ukraine-russia-attack-kyiv.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-53-26 +0000"
+  },
+  {
+    "headline": "Aftershocks From 8.8-Magnitude Quake Rattle North Pacific",
+    "link": "https://www.nytimes.com/2025/07/31/world/asia/aftershocks-russia-earthquake.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-53-26 +0000"
+  },
+  {
+    "headline": "More Than 150,000 Federal Workers Accepted Trump’s Resignation Incentives",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/firings-federal-workers-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-51-02 +0000"
+  },
+  {
+    "headline": "More Than 150,000 Federal Workers Accepted Trump’s Resignation Incentives",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/firings-federal-workers-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-51-02 +0000"
+  },
+  {
+    "headline": "Left melts down over new Dunkin’ ‘genetics’ ad after Sydney Sweeney American Eagle drama",
+    "link": "https://nypost.com/2025/07/31/us-news/left-melts-down-over-new-dunkin-genetics-ad-after-sydney-sweeney-drama/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-15-49-33 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 13 and hit Kyiv apartment block, officials say",
+    "link": "https://www.bbc.com/news/articles/ce930z8g9mvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-48-37 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 13 and hit Kyiv apartment block, officials say",
+    "link": "https://www.bbc.com/news/articles/ce930z8g9mvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-48-37 +0000"
+  },
+  {
+    "headline": "Canadian aid part of Gaza airdrop after Israel loosens restrictions",
+    "link": "https://www.cbc.ca/news/politics/canadian-aid-gaza-1.7598476?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-07-31-15-44-00 +0000"
+  },
+  {
+    "headline": "Someone has to pay the skyrocketing tariffs the U.S. is collecting on imports—and companies say some of the burden will fall on consumers",
+    "link": "https://www.wsj.com/economy/trade/trump-tariff-main-street-business-impact-866cc403",
+    "source": "wsj",
+    "pubdate": "2025-07-31-15-43-00 +0000"
+  },
+  {
+    "headline": "Fox acquires 33% stake in IndyCar owner Penske Entertainment, extends media rights deal",
+    "link": "https://nypost.com/2025/07/31/media/fox-acquires-33-stake-in-indycar-owner-penske-entertainment/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-15-42-55 +0000"
+  },
+  {
+    "headline": "SpaceX Set to Launch NASA’s Crew-11 Mission to the Space Station",
+    "link": "https://www.nytimes.com/2025/07/31/science/nasa-astronauts-spacex.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-42-01 +0000"
+  },
+  {
+    "headline": "SpaceX Set to Launch NASA’s Crew-11 Mission to the Space Station",
+    "link": "https://www.nytimes.com/2025/07/31/science/nasa-astronauts-spacex.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-42-01 +0000"
+  },
+  {
+    "headline": "Witkoff Plans Visit to Gaza to See Hunger Crisis",
+    "link": "https://www.nytimes.com/2025/07/31/world/middleeast/witkoff-israel-gaza-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-32-56 +0000"
+  },
+  {
+    "headline": "Witkoff Plans Visit to Gaza to See Hunger Crisis",
+    "link": "https://www.nytimes.com/2025/07/31/world/middleeast/witkoff-israel-gaza-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-32-56 +0000"
+  },
+  {
+    "headline": "A New Border Wall in Arizona Would Block a Key Wildlife Corridor",
+    "link": "https://www.nytimes.com/2025/07/31/climate/arizona-border-wall-wildlife-migration-jaguars.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-32-28 +0000"
+  },
+  {
+    "headline": "Modi’s ‘True Friend’ Trump Deals India a Big Blow With Tariff Threats",
+    "link": "https://www.nytimes.com/2025/07/31/world/asia/modi-trump-india-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-31-50 +0000"
+  },
+  {
+    "headline": "Modi’s ‘True Friend’ Trump Deals India a Big Blow With Tariff Threats",
+    "link": "https://www.nytimes.com/2025/07/31/world/asia/modi-trump-india-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-31-50 +0000"
+  },
+  {
+    "headline": "President Trump’s tighter deadline for Russia to reach peace with Ukraine and his threat against Russia’s energy customers contrast with a lighter approach to Russia elsewhere",
+    "link": "https://www.wsj.com/politics/policy/trumps-russia-sanctions-strategy-runs-hot-and-cold-ed2527c1",
+    "source": "wsj",
+    "pubdate": "2025-07-31-15-31-00 +0000"
+  },
+  {
+    "headline": "Trump’s Russia Sanctions Strategy Runs Hot and Cold",
+    "link": "https://www.wsj.com/politics/policy/trumps-russia-sanctions-strategy-runs-hot-and-cold-ed2527c1",
+    "source": "wsj",
+    "pubdate": "2025-07-31-15-31-00 +0000"
+  },
+  {
+    "headline": "A Michigan program is giving new mothers cash — and why it could be a model for rest of US",
+    "link": "https://nypost.com/2025/07/31/us-news/michigan-program-gives-new-mothers-cash-model-for-rest-of-us/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-15-27-50 +0000"
+  },
+  {
+    "headline": "Why did the air traffic control outage cause so much havoc?",
+    "link": "https://www.bbc.com/news/articles/clyv75g60ejo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-25-46 +0000"
+  },
+  {
+    "headline": "US and Mexico agree to 90-day extension ahead of tariff deadline, Trump says",
+    "link": "https://nypost.com/2025/07/31/us-news/us-and-mexico-agree-to-90-day-extension-ahead-of-tariff-deadline-trump-says/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-15-24-42 +0000"
+  },
+  {
+    "headline": "US and Mexico agree to 90-day extension ahead of tariff deadline, Trump says",
+    "link": "https://nypost.com/2025/07/31/us-news/us-and-mexico-agree-to-90-day-extension-ahead-of-tariff-deadline-trump-says/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-15-24-42 +0000"
+  },
+  {
+    "headline": "Eric Adams vetoes City Council’s bid to decriminalize illegal vending in NYC",
+    "link": "https://nypost.com/2025/07/31/us-news/eric-adams-vetoes-city-councils-bid-to-decriminalize-illegal-vending-in-nyc/",
+    "source": "nypost",
+    "pubdate": "2025-07-31-15-24-40 +0000"
+  },
+  {
+    "headline": "Big firms could be fined for paying suppliers late",
+    "link": "https://www.bbc.com/news/articles/c4gq204x4v2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-24-06 +0000"
+  },
+  {
+    "headline": "Big firms could be fined for paying suppliers late",
+    "link": "https://www.bbc.com/news/articles/c4gq204x4v2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-24-06 +0000"
+  },
+  {
+    "headline": "Navy F-35 jet crashes outside California air base after pilot safely ejects",
+    "link": "https://www.latimes.com/california/story/2025-07-31/f35-crash-air-station-lemorre",
+    "source": "latimes",
+    "pubdate": "2025-07-31-15-20-26 +0000"
+  },
+  {
+    "headline": "Passengers urged to check flights after disruption",
+    "link": "https://www.bbc.com/news/articles/cd9jn1ydx9lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-17-51 +0000"
+  },
+  {
+    "headline": "Legal Watchdog Files Bar Complaints Against Justice Dept. Lawyers",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/justice-department-lawyers-complaint.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-15-14 +0000"
+  },
+  {
+    "headline": "Legal Watchdog Files Bar Complaints Against Justice Dept. Lawyers",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/justice-department-lawyers-complaint.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-15-14 +0000"
+  },
+  {
+    "headline": "On Canada’s Top Stage, Macbeth and Annie Are Talking to Americans",
+    "link": "https://www.nytimes.com/2025/07/31/theater/canada-stratford-theater-festival.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-13-21 +0000"
+  },
+  {
+    "headline": "On Canada’s Top Stage, Macbeth and Annie Are Talking to Americans",
+    "link": "https://www.nytimes.com/2025/07/31/theater/canada-stratford-theater-festival.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-13-21 +0000"
+  },
+  {
+    "headline": "What’s a Potato? A Nine-Million-Year-Old Tomato",
+    "link": "https://www.nytimes.com/2025/07/31/science/evolution-agriculture-tomatoes-potatoes.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-09-05 +0000"
+  },
+  {
+    "headline": "Dozens killed seeking food in Gaza, hospital says, as US envoy visits Israel",
+    "link": "https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-09-00 +0000"
+  },
+  {
+    "headline": "Dozens killed seeking food in Gaza, hospital says, as US envoy visits Israel",
+    "link": "https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-15-09-00 +0000"
+  },
+  {
+    "headline": "The California Governor’s Race Was in Limbo. Now It’s Wide Open.",
+    "link": "https://www.nytimes.com/2025/07/31/us/harris-california-governors-race.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-08-49 +0000"
+  },
+  {
+    "headline": "Nvidia Chips Are Front and Center in China at Crucial Moment in the A.I. Race",
+    "link": "https://www.nytimes.com/2025/07/31/technology/china-ai-nvidia-chips.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-08-12 +0000"
+  },
+  {
+    "headline": "Virginia Giuffre’s Family Responds to Trump’s Claim That Epstein ‘Stole’ Her",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/virginia-giuffre-family-trump-epstein.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-04-51 +0000"
+  },
+  {
+    "headline": "Virginia Giuffre’s Family Responds to Trump’s Claim That Epstein ‘Stole’ Her",
+    "link": "https://www.nytimes.com/2025/07/31/us/politics/virginia-giuffre-family-trump-epstein.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-15-04-51 +0000"
+  },
+  {
+    "headline": "A place of deep loss draws Texas lawmakers for testimony on deadly floods",
+    "link": "https://www.washingtonpost.com/nation/2025/07/31/kerrville-texas-flooding-legislative-hearing/",
+    "source": "wapo",
+    "pubdate": "2025-07-31-15-04-47 +0000"
+  },
+  {
+    "headline": "Relative of hostage responds to declarations of Palestinian statehood",
+    "link": "https://www.bbc.com/news/videos/c8jp9emk029o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-07-31-14-58-24 +0000"
+  },
+  {
+    "headline": "U.S. Hits Brazil With 50% Tariffs and Sanctions in Sharp Escalation",
+    "link": "https://www.nytimes.com/2025/07/30/world/americas/trump-sanctions-brazil-judge-bolsonaro.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-14-56-26 +0000"
+  },
+  {
+    "headline": "U.S. Hits Brazil With 50% Tariffs and Sanctions in Sharp Escalation",
+    "link": "https://www.nytimes.com/2025/07/30/world/americas/trump-sanctions-brazil-judge-bolsonaro.html",
+    "source": "nyt",
+    "pubdate": "2025-07-31-14-56-26 +0000"
+  },
+  {
+    "headline": "Newly released video shows horrific moment Army Black Hawk and American Airlines plane collided in fiery DC crash",
     "link": "https://nypost.com/2025/07/31/us-news/video-shows-army-black-hawk-and-american-airlines-plane-collided-in-fiery-dc-crash/",
     "source": "nypost",
     "pubdate": "2025-07-31-14-53-32 +0000"
@@ -18,22 +624,10 @@
     "pubdate": "2025-07-31-14-52-54 +0000"
   },
   {
-    "headline": "Witkoff Plans Visit to Gaza to See Hunger Crisis",
-    "link": "https://www.nytimes.com/2025/07/31/world/middleeast/witkoff-israel-gaza-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-14-49-11 +0000"
-  },
-  {
-    "headline": "Witkoff Plans Visit to Gaza to See Hunger Crisis",
-    "link": "https://www.nytimes.com/2025/07/31/world/middleeast/witkoff-israel-gaza-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-14-49-11 +0000"
-  },
-  {
-    "headline": "Stearns Bank says Duluth Central High School site developer has defaulted on $5.6M loan",
-    "link": "https://www.startribune.com/stearns-bank-incline-village-duluth-loan-default/601446680",
+    "headline": "Twin Cities landlord settles for $5M over ‘exorbitant’ utility fees, retained deposits",
+    "link": "https://www.startribune.com/twin-cities-landlord-settles-for-5m-over-exorbitant-utility-fees-retained-deposits/601446713",
     "source": "startribune",
-    "pubdate": "2025-07-31-14-48-47 +0000"
+    "pubdate": "2025-07-31-14-49-53 +0000"
   },
   {
     "headline": "Hotel tycoon reveals Heathrow expansion proposal",
@@ -72,46 +666,10 @@
     "pubdate": "2025-07-31-14-21-51 +0000"
   },
   {
-    "headline": "Stock Market Today: Trump to Talk Trade With Mexico; Nasdaq Jumps on Tech Earnings",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2025-2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-07-31-14-18-00 +0000"
-  },
-  {
-    "headline": "Modi’s ‘True Friend’ Trump Deals India a Big Blow With Tariff Threats",
-    "link": "https://www.nytimes.com/2025/07/31/world/asia/modi-trump-india-tariffs.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-14-17-09 +0000"
-  },
-  {
-    "headline": "Modi’s ‘True Friend’ Trump Deals India a Big Blow With Tariff Threats",
-    "link": "https://www.nytimes.com/2025/07/31/world/asia/modi-trump-india-tariffs.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-14-17-09 +0000"
-  },
-  {
-    "headline": "11 dead in Kyiv, including 6-year-old, after overnight Russian strikes",
-    "link": "https://www.washingtonpost.com/world/2025/07/31/ukraine-kyiv-russian-drone-missile-children-killed/",
-    "source": "wapo",
-    "pubdate": "2025-07-31-14-17-07 +0000"
-  },
-  {
     "headline": "Why Microsoft and Meta Are Soaring After Earnings",
     "link": "https://www.wsj.com/tech/ai/meta-ai-spending-budget-zuckerberg-c3dae6aa?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-07-31-14-16-00 +0000"
-  },
-  {
-    "headline": "‘Not a Damned Penny.’ Texas Flood Survivors Look for Help",
-    "link": "https://www.nytimes.com/2025/07/31/us/politics/texas-floods.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-14-15-34 +0000"
-  },
-  {
-    "headline": "‘Not a Damned Penny.’ Texas Flood Survivors Look for Help",
-    "link": "https://www.nytimes.com/2025/07/31/us/politics/texas-floods.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-14-15-34 +0000"
   },
   {
     "headline": "Hillary Clinton approved plan hatched by campaign aide to ‘smear’ Trump with Russia collusion: declassified docs",
@@ -150,12 +708,6 @@
     "pubdate": "2025-07-31-13-59-47 +0000"
   },
   {
-    "headline": "Ukraine adopts new anti-corruption law as protests force Zelensky to retreat",
-    "link": "https://www.washingtonpost.com/world/2025/07/31/ukraine-anticorruption-law-zelensky-protests/",
-    "source": "wapo",
-    "pubdate": "2025-07-31-13-58-21 +0000"
-  },
-  {
     "headline": "South Africa’s central bank cut its main repo rate by a quarter percentage point as inflation remains low in the midst of continuing global uncertainty",
     "link": "https://www.wsj.com/articles/south-african-reserve-bank-cuts-main-repo-rate-to-7-8445ab28",
     "source": "wsj",
@@ -180,28 +732,10 @@
     "pubdate": "2025-07-31-13-44-00 +0000"
   },
   {
-    "headline": "Legal Watchdog Files Bar Complaints Against Justice Dept. Lawyers",
-    "link": "https://www.nytimes.com/2025/07/31/us/politics/justice-department-lawyers-complaint.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-13-43-13 +0000"
-  },
-  {
-    "headline": "Legal Watchdog Files Bar Complaints Against Justice Dept. Lawyers",
-    "link": "https://www.nytimes.com/2025/07/31/us/politics/justice-department-lawyers-complaint.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-13-43-13 +0000"
-  },
-  {
     "headline": "US dentist jailed for murder after poisoning wife's protein shakes",
     "link": "https://www.bbc.com/news/articles/cdj2gy317ngo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-07-31-13-38-52 +0000"
-  },
-  {
-    "headline": "Key Inflation Measure Rose in June, Adding to Pressure on Fed",
-    "link": "https://www.nytimes.com/2025/07/31/business/pce-inflation-fed.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-13-31-16 +0000"
   },
   {
     "headline": "Trump Tells Russian Official to ‘Watch His Words,’ but He Bites Back Instead",
@@ -282,12 +816,6 @@
     "pubdate": "2025-07-31-13-05-05 +0000"
   },
   {
-    "headline": "Trump’s tariffs face major legal challenge in appellate court",
-    "link": "https://www.washingtonpost.com/business/2025/07/31/trump-tariffs-face-legal-challenge/",
-    "source": "wapo",
-    "pubdate": "2025-07-31-13-00-37 +0000"
-  },
-  {
     "headline": "Bess Wohl’s ‘Liberation’ Is Heading to Broadway This Fall",
     "link": "https://www.nytimes.com/2025/07/31/theater/bess-wohl-liberation-broadway.html",
     "source": "nyt",
@@ -300,10 +828,10 @@
     "pubdate": "2025-07-31-13-00-00 +0000"
   },
   {
-    "headline": "A place of deep loss draws Texas lawmakers for testimony on deadly floods",
-    "link": "https://www.washingtonpost.com/nation/2025/07/31/kerrville-texas-flooding-legislative-hearing/",
-    "source": "wapo",
-    "pubdate": "2025-07-31-12-55-32 +0000"
+    "headline": "Canada's economy contracted by 0.1% in May, but showed signs of a rebound",
+    "link": "https://www.cbc.ca/news/business/may-gdp-1.7598287?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-07-31-12-52-30 +0000"
   },
   {
     "headline": "Amid Scramble for Food, Prices in Gaza Reach Extraordinary Heights",
@@ -390,12 +918,6 @@
     "pubdate": "2025-07-31-12-17-34 +0000"
   },
   {
-    "headline": "Why did the air traffic control outage cause so much havoc?",
-    "link": "https://www.bbc.com/news/articles/clyv75g60ejo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-31-12-12-36 +0000"
-  },
-  {
     "headline": "Texas Republicans Unveil Gerrymandered House Map, Trying to Please Trump",
     "link": "https://www.nytimes.com/2025/07/30/us/politics/texas-republican-redistricting.html",
     "source": "nyt",
@@ -406,30 +928,12 @@
     "link": "https://www.nytimes.com/2025/07/30/us/politics/texas-republican-redistricting.html",
     "source": "nyt",
     "pubdate": "2025-07-31-12-12-20 +0000"
-  },
-  {
-    "headline": "Russian strikes kill eight and hit Kyiv apartment block, officials say",
-    "link": "https://www.bbc.com/news/articles/ce930z8g9mvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-31-12-08-05 +0000"
-  },
-  {
-    "headline": "Russian strikes kill eight and hit Kyiv apartment block, officials say",
-    "link": "https://www.bbc.com/news/articles/ce930z8g9mvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-31-12-08-05 +0000"
   },
   {
     "headline": "Gruesome photos show severely battered face of the woman knocked out during horrifying Cincinnati brawl",
     "link": "https://nypost.com/2025/07/31/us-news/photos-show-battered-face-of-the-woman-knocked-out-during-cincinnati-brawl/",
     "source": "nypost",
     "pubdate": "2025-07-31-12-07-17 +0000"
-  },
-  {
-    "headline": "On Eve of Tariff Deadline, Trump’s Trade War Faces Key Court Test",
-    "link": "https://www.nytimes.com/2025/07/31/business/trump-tariffs-lawsuit-court-appeal.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-12-05-20 +0000"
   },
   {
     "headline": "Buffalo Can Be Hard to Love. For These Former Residents, It Was Harder to Stay Away.",
@@ -486,12 +990,6 @@
     "pubdate": "2025-07-31-11-52-11 +0000"
   },
   {
-    "headline": "Delta Pilot Arrested in Cockpit Faces 24 Felonies in Child Sex Case",
-    "link": "https://www.nytimes.com/2025/07/30/us/delta-pilot-child-sex-abuse-charges.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-11-52-11 +0000"
-  },
-  {
     "headline": "F-35 fighter jet crashes in California, pilot ejects safely",
     "link": "https://nypost.com/2025/07/31/us-news/f-35-fighter-jet-crashes-in-california-pilot-ejects-safely/",
     "source": "nypost",
@@ -540,34 +1038,10 @@
     "pubdate": "2025-07-31-11-23-04 +0000"
   },
   {
-    "headline": "Russian Missile and Drone Attack Pummels Kyiv, Killing at Least 7",
-    "link": "https://www.nytimes.com/2025/07/31/world/europe/ukraine-russia-attack-kyiv.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-11-18-57 +0000"
-  },
-  {
-    "headline": "Russian Missile and Drone Attack Pummels Kyiv, Killing at Least 7",
-    "link": "https://www.nytimes.com/2025/07/31/world/europe/ukraine-russia-attack-kyiv.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-11-18-57 +0000"
-  },
-  {
     "headline": "RandBall: Grading the Twins’ blockbuster trade of Jhoan Duran to Philadelphia",
     "link": "https://www.startribune.com/jhoan-duran-minnesota-twins-mlb-trade-deadline-philadelphia-phillies-grade/601446854",
     "source": "startribune",
     "pubdate": "2025-07-31-11-00-01 +0000"
-  },
-  {
-    "headline": "Twin Cities suburbs consider tighter rules to deter homeless encampments",
-    "link": "https://www.startribune.com/twin-cities-suburbs-homeless-encampments/601443224",
-    "source": "startribune",
-    "pubdate": "2025-07-31-11-00-00 +0000"
-  },
-  {
-    "headline": "Minnesota communities get millions of dollars from opioid settlements. Where’s the money going?",
-    "link": "https://www.startribune.com/minnesota-communities-get-millions-of-dollars-from-opioid-settlements-wheres-the-money-going/601424191",
-    "source": "startribune",
-    "pubdate": "2025-07-31-11-00-00 +0000"
   },
   {
     "headline": "10 new patios to check out before summer scooches by",
@@ -576,21 +1050,9 @@
     "pubdate": "2025-07-31-11-00-00 +0000"
   },
   {
-    "headline": "Yuen: Beyond ‘ope’ and ‘you betcha,’ there’s subtlety in the Minnesota dialect",
-    "link": "https://www.startribune.com/yuen-beyond-ope-and-you-betcha-theres-subtlety-in-the-minnesota-dialect/601438166",
-    "source": "startribune",
-    "pubdate": "2025-07-31-11-00-00 +0000"
-  },
-  {
     "headline": "The administration is moving to increase tariffs on imports from several nations while a federal appeals court considers the legality of his efforts",
     "link": "https://www.wsj.com/economy/trade/trumps-tariff-authority-is-tested-in-court-as-deadline-on-trade-deals-looms-09b323f1",
     "source": "wsj",
-    "pubdate": "2025-07-31-11-00-00 +0000"
-  },
-  {
-    "headline": "Eric Adams reserves more NYC affordable housing for veterans, city workers in surprise announcement",
-    "link": "https://nypost.com/2025/07/31/us-news/eric-adams-reserves-more-apartment-for-veterans-city-workers-in-affordability-plan/",
-    "source": "nypost",
     "pubdate": "2025-07-31-11-00-00 +0000"
   },
   {
@@ -636,28 +1098,10 @@
     "pubdate": "2025-07-31-10-37-06 +0000"
   },
   {
-    "headline": "Dozens killed seeking food in Gaza, hospital says, as US envoy arrives in Israel",
-    "link": "https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-31-10-36-05 +0000"
-  },
-  {
-    "headline": "Dozens killed seeking food in Gaza, hospital says, as US envoy arrives in Israel",
-    "link": "https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-31-10-36-05 +0000"
-  },
-  {
-    "headline": "U.S. to set 15% tariff on South Korean imports under new deal as Trump deadline nears",
+    "headline": "U.S. extends trade deal with Mexico, sets tariffs for South Korea and Brazil as Trump's deadline nears",
     "link": "https://www.cbc.ca/news/world/trump-tariffs-south-korea-1.7598259?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-07-31-10-33-13 +0000"
-  },
-  {
-    "headline": "Passengers urged to check flights after disruption",
-    "link": "https://www.bbc.com/news/articles/cd9jn1ydx9lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-31-10-32-11 +0000"
   },
   {
     "headline": "First Australian-made rocket crashes after 14 seconds of flight in failed attempt to reach orbit",
@@ -684,18 +1128,6 @@
     "pubdate": "2025-07-31-10-16-39 +0000"
   },
   {
-    "headline": "Murky Pledges of Investment Cast Shadow on Trump’s Trade Deals",
-    "link": "https://www.nytimes.com/2025/07/31/business/trump-japan-south-korea-investment.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-10-16-06 +0000"
-  },
-  {
-    "headline": "Murky Pledges of Investment Cast Shadow on Trump’s Trade Deals",
-    "link": "https://www.nytimes.com/2025/07/31/business/trump-japan-south-korea-investment.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-10-16-06 +0000"
-  },
-  {
     "headline": "The Post exposed this farmer’s struggle. Then the USDA called.",
     "link": "https://www.washingtonpost.com/investigations/2025/07/31/farmers-usda-federal-grants-trump/",
     "source": "wapo",
@@ -708,27 +1140,15 @@
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
   {
-    "headline": "AI-powered exoskeletons are helping paralyzed patients walk again — and could soon be coming to homes across the U.S.",
-    "link": "https://nypost.com/2025/07/31/business/wandercraft-collaborates-with-nvidia-aws-to-build-ai-exoskeleton-for-wheelchair-uses/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-10-00-00 +0000"
-  },
-  {
     "headline": "Jilted Barneys heir alleges family evaded $20M in NY taxes — by falsely claiming late mother lived in Palm Beach",
     "link": "https://nypost.com/2025/07/31/business/jilted-barneys-heir-alleges-family-evaded-20m-in-new-york-taxes-by-falsely-claiming-late-mother-lived-in-palm-beach/",
     "source": "nypost",
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
   {
-    "headline": "AIs gave scarily specific self-harm advice to users expressing suicidal intent, researchers find",
-    "link": "https://www.latimes.com/science/story/2025-07-31/chatgpt-perplexity-and-other-ai-self-harm-suicide-information",
-    "source": "latimes",
-    "pubdate": "2025-07-31-10-00-00 +0000"
-  },
-  {
-    "headline": "Homicidal cousins and the Hillside Stranglers case: A trial that nearly did not happen",
-    "link": "https://www.latimes.com/california/story/2025-07-31/crimes-of-the-times-the-hillside-stranglers",
-    "source": "latimes",
+    "headline": "AI-powered exoskeletons are helping paralyzed patients walk again — and could soon be coming to homes across the U.S.",
+    "link": "https://nypost.com/2025/07/31/business/wandercraft-collaborates-with-nvidia-aws-to-build-ai-exoskeleton-for-wheelchair-uses/",
+    "source": "nypost",
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
   {
@@ -744,8 +1164,20 @@
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
   {
-    "headline": "Mass shooter's grudge against NFL: 'Football gave me CTE' Are youth athletes at risk?",
+    "headline": "Homicidal cousins and the Hillside Stranglers case: A trial that nearly did not happen",
+    "link": "https://www.latimes.com/california/story/2025-07-31/crimes-of-the-times-the-hillside-stranglers",
+    "source": "latimes",
+    "pubdate": "2025-07-31-10-00-00 +0000"
+  },
+  {
+    "headline": "Mass shooter's grudge against NFL: 'Football gave me CTE.' Are youth athletes at risk?",
     "link": "https://www.latimes.com/california/story/2025-07-31/shooter-cte-head-trauma-high-school-football",
+    "source": "latimes",
+    "pubdate": "2025-07-31-10-00-00 +0000"
+  },
+  {
+    "headline": "AIs gave scarily specific self-harm advice to users expressing suicidal intent, researchers find",
+    "link": "https://www.latimes.com/science/story/2025-07-31/chatgpt-perplexity-and-other-ai-self-harm-suicide-information",
     "source": "latimes",
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
@@ -756,7 +1188,7 @@
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
   {
-    "headline": "Russian missile, drone attacks hit Kyiv, killing at least 9 people and wounding 124",
+    "headline": "Russian missile, drone attacks on Kyiv kill at least 13 people and wound more than 130",
     "link": "https://www.cbc.ca/news/world/ukraine-russia-kyiv-missile-drone-attack-1.7598253?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-07-31-09-59-02 +0000"
@@ -766,12 +1198,6 @@
     "link": "https://www.bbc.com/news/articles/cr5rmz0vreno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-07-31-09-51-24 +0000"
-  },
-  {
-    "headline": "Army helicopter that crashed with commercial plane in DC was flying above altitude limit: NTSB",
-    "link": "https://nypost.com/2025/07/31/us-news/dc-plane-crash-army-helicopter-had-incorrect-altitude-readings-before-american-eagle-collision/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-09-39-36 +0000"
   },
   {
     "headline": "Edinburgh Fringe Can Bring Artists Fame, but Money’s Another Matter",
@@ -796,12 +1222,6 @@
     "link": "https://www.wsj.com/economy/housing/condo-housing-market-trends-charts-7d19eeb8",
     "source": "wsj",
     "pubdate": "2025-07-31-09-30-00 +0000"
-  },
-  {
-    "headline": "Trump says it’s hard to make deal with Canada for backing Palestinian statehood",
-    "link": "https://nypost.com/2025/07/31/us-news/trump-says-its-hard-to-make-deal-with-canada-for-backing-palestinian-statehood/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-09-14-50 +0000"
   },
   {
     "headline": "Trump says it’s hard to make deal with Canada for backing Palestinian statehood",
@@ -840,12 +1260,6 @@
     "pubdate": "2025-07-31-09-00-00 +0000"
   },
   {
-    "headline": "Smokey the Bear arrests man for allegedly stealing his signs in Florida to sell on Facebook: ‘Dumb criminals’",
-    "link": "https://nypost.com/2025/07/31/us-news/smokey-the-bear-arrests-man-for-allegedly-stealing-his-signs-in-florida-to-sell-on-facebook/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-08-55-09 +0000"
-  },
-  {
     "headline": "AB InBev Shares Plunge as Sales Volumes Miss Forecasts",
     "link": "https://www.wsj.com/business/earnings/bud-brewer-ab-inbevs-profit-rises-ahead-of-views-despite-sales-volume-decline-4c52b0bc?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -882,46 +1296,10 @@
     "pubdate": "2025-07-31-08-16-46 +0000"
   },
   {
-    "headline": "Trump reminds ‘failed’ former Russian President Medvedev to watch his words over war threat",
-    "link": "https://nypost.com/2025/07/31/us-news/trump-warns-russia-dmitry-medvedev-of-dangerous-territory-during-ukraine-war-peace-attempt/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-08-16-46 +0000"
-  },
-  {
     "headline": "China summons Nvidia over backdoor security concerns with AI chips",
     "link": "https://www.washingtonpost.com/world/2025/07/31/china-nvidia-ai-chip-security/",
     "source": "wapo",
     "pubdate": "2025-07-31-08-10-37 +0000"
-  },
-  {
-    "headline": "China Summons Nvidia Over ‘Backdoor Security’ Risks of A.I. Chips",
-    "link": "https://www.nytimes.com/2025/07/31/business/china-nvidia-h20-chips.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-08-07-24 +0000"
-  },
-  {
-    "headline": "China Summons Nvidia Over ‘Backdoor Security’ Risks of A.I. Chips",
-    "link": "https://www.nytimes.com/2025/07/31/business/china-nvidia-h20-chips.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-08-07-24 +0000"
-  },
-  {
-    "headline": "Virginia Giuffre's family asks Trump not to pardon Maxwell",
-    "link": "https://www.bbc.com/news/articles/cvg40gj07k2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-31-08-03-23 +0000"
-  },
-  {
-    "headline": "Aftershocks From 8.8-Magnitude Quake Rattle North Pacific",
-    "link": "https://www.nytimes.com/2025/07/31/world/asia/aftershocks-russia-earthquake.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-08-03-21 +0000"
-  },
-  {
-    "headline": "Aftershocks From 8.8-Magnitude Quake Rattle North Pacific",
-    "link": "https://www.nytimes.com/2025/07/31/world/asia/aftershocks-russia-earthquake.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-08-03-21 +0000"
   },
   {
     "headline": "India’s revision of voter rolls could disenfranchise millions, critics warn",
@@ -1050,12 +1428,6 @@
     "pubdate": "2025-07-31-06-16-00 +0000"
   },
   {
-    "headline": "Thailand and Cambodia Stepped Back From War, but Their Temple Fight Remains",
-    "link": "https://www.nytimes.com/2025/07/30/world/asia/thailand-cambodia-temples.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-06-16-00 +0000"
-  },
-  {
     "headline": "Trump Administration Told Taiwan’s President to Avoid U.S. Stopover",
     "link": "https://www.nytimes.com/2025/07/30/world/asia/trump-taiwan-china.html",
     "source": "nyt",
@@ -1078,18 +1450,6 @@
     "link": "https://www.nytimes.com/2025/07/31/us/delta-flight-turbulence-emergency-landing.html",
     "source": "nyt",
     "pubdate": "2025-07-31-06-11-38 +0000"
-  },
-  {
-    "headline": "Delta flight diverted after being hit by turbulence, 25 passengers hospitalized",
-    "link": "https://nypost.com/2025/07/31/us-news/delta-flight-hit-with-turbulence-injures-passengers-diverts-to-minnesota/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-05-55-25 +0000"
-  },
-  {
-    "headline": "Louisiana ‘Medicaid millionaire’ bought Lamborghini while claiming government benefits for years",
-    "link": "https://nypost.com/2025/07/31/us-news/louisiana-medicaid-millionaire-bought-lamborghini-while-claiming-government-benefits-for-years/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-05-54-51 +0000"
   },
   {
     "headline": "Alvaro Uribe, Ex-President of Colombia, Is Convicted of Bribery",
@@ -1098,12 +1458,6 @@
     "pubdate": "2025-07-31-05-40-46 +0000"
   },
   {
-    "headline": "Nebraska dad arrested after 5-month-old son dies in hot car during heat advisory",
-    "link": "https://nypost.com/2025/07/31/us-news/nebraska-dad-jeremy-hansen-arrested-after-5-month-old-son-dies-in-hot-car-during-heat-advisory/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-05-39-59 +0000"
-  },
-  {
     "headline": "Pro-Palestinian Group Can Appeal U.K. Ban, Judge Rules, Citing Free Speech",
     "link": "https://www.nytimes.com/2025/07/30/world/europe/palestine-action-uk-ban-terrorist-court.html",
     "source": "nyt",
@@ -1114,12 +1468,6 @@
     "link": "https://www.nytimes.com/2025/07/30/world/europe/palestine-action-uk-ban-terrorist-court.html",
     "source": "nyt",
     "pubdate": "2025-07-31-05-39-41 +0000"
-  },
-  {
-    "headline": "Fitness influencer Joey Swoll quits social media as Hulk Hogan tribute sparks backlash: ‘I’m done’",
-    "link": "https://nypost.com/2025/07/31/sports/fitness-influencer-joey-swoll-quits-social-media-after-hulk-hogan-costume-tribute-backlash/",
-    "source": "nypost",
-    "pubdate": "2025-07-31-05-34-51 +0000"
   },
   {
     "headline": "Reform government would have to do unpopular things, says policy guru",
@@ -1150,12 +1498,6 @@
     "link": "https://www.bbc.com/news/videos/c3dpeyrx1kyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-07-31-05-06-28 +0000"
-  },
-  {
-    "headline": "25 Delta passengers evaluated for injuries after overseas flight hits turbulence, lands at MSP",
-    "link": "https://www.startribune.com/25-delta-passengers-evaluated-for-injuries-after-overseas-flight-hits-turbulence-lands-at-msp/601446945",
-    "source": "startribune",
-    "pubdate": "2025-07-31-05-04-32 +0000"
   },
   {
     "headline": "Trump reaches trade agreement with South Korea",
@@ -1206,28 +1548,10 @@
     "pubdate": "2025-07-31-04-23-32 +0000"
   },
   {
-    "headline": "Man Arrested in Killing of Couple Hiking With Kids in Arkansas",
-    "link": "https://www.nytimes.com/2025/07/31/us/arkansas-murder-arrest.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-04-16-42 +0000"
-  },
-  {
     "headline": "More Than 1,000 Troops Are Withdrawn From L.A.",
     "link": "https://www.nytimes.com/2025/07/31/us/troop-withdrawal-los-angeles.html",
     "source": "nyt",
     "pubdate": "2025-07-31-04-03-32 +0000"
-  },
-  {
-    "headline": "SpaceX Set to Launch NASA’s Crew-11 Mission to the Space Station",
-    "link": "https://www.nytimes.com/2025/07/31/science/nasa-astronauts-spacex.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-04-01-05 +0000"
-  },
-  {
-    "headline": "SpaceX Set to Launch NASA’s Crew-11 Mission to the Space Station",
-    "link": "https://www.nytimes.com/2025/07/31/science/nasa-astronauts-spacex.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-04-01-05 +0000"
   },
   {
     "headline": "Countries Promise Trump to Buy U.S. Gas, and Leave the Details for Later",
@@ -1386,42 +1710,6 @@
     "pubdate": "2025-07-31-01-22-41 +0000"
   },
   {
-    "headline": "South Korea Reaches Trade Deal With Trump",
-    "link": "https://www.nytimes.com/2025/07/30/business/economy/trump-tariffs-south-korea.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-13-33 +0000"
-  },
-  {
-    "headline": "South Korea Reaches Trade Deal With Trump",
-    "link": "https://www.nytimes.com/2025/07/30/business/economy/trump-tariffs-south-korea.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-13-33 +0000"
-  },
-  {
-    "headline": "South Korea Reaches Trade Deal With Trump",
-    "link": "https://www.nytimes.com/2025/07/30/business/economy/trump-tariffs-south-korea.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-13-33 +0000"
-  },
-  {
-    "headline": "Trump Announces Health Care Records System for Consumers",
-    "link": "https://www.nytimes.com/2025/07/30/us/politics/trump-health-records-system.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-10-38 +0000"
-  },
-  {
-    "headline": "Trump Announces Health Care Records System for Consumers",
-    "link": "https://www.nytimes.com/2025/07/30/us/politics/trump-health-records-system.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-10-38 +0000"
-  },
-  {
-    "headline": "Trump Announces Health Care Records System for Consumers",
-    "link": "https://www.nytimes.com/2025/07/30/us/politics/trump-health-records-system.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-10-38 +0000"
-  },
-  {
     "headline": "After outcry, L.A. restricts duplexes in Pacific Palisades",
     "link": "https://www.latimes.com/homeless-housing/story/2025-07-30/after-outcry-l-a-restricts-duplexes-in-pacific-palisades",
     "source": "latimes",
@@ -1438,18 +1726,6 @@
     "link": "https://www.nytimes.com/live/2025/07/30/us/trump-news/a-challenge-to-the-suspension-of-a-refugee-program-established-by-congress-receives-class-action-status",
     "source": "nyt",
     "pubdate": "2025-07-31-01-05-49 +0000"
-  },
-  {
-    "headline": "U.S. Hits Brazil With 50% Tariffs and Sanctions in Sharp Escalation",
-    "link": "https://www.nytimes.com/2025/07/30/world/americas/trump-sanctions-brazil-judge-bolsonaro.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-05-14 +0000"
-  },
-  {
-    "headline": "U.S. Hits Brazil With 50% Tariffs and Sanctions in Sharp Escalation",
-    "link": "https://www.nytimes.com/2025/07/30/world/americas/trump-sanctions-brazil-judge-bolsonaro.html",
-    "source": "nyt",
-    "pubdate": "2025-07-31-01-05-14 +0000"
   },
   {
     "headline": "Meta profits surge helps drive Zuckerberg’s AI ambitions",
@@ -2226,22 +2502,10 @@
     "pubdate": "2025-07-30-21-06-38 +0000"
   },
   {
-    "headline": "Virginia City Councilman, Lee Vogler, Is Set on Fire in Attack, Police Say",
-    "link": "https://www.nytimes.com/2025/07/30/us/lee-vogler-fire-attack-showcase-magazine-virginia.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-21-03-40 +0000"
-  },
-  {
     "headline": "Doctors' union agrees to resume talks with Streeting",
     "link": "https://www.bbc.com/news/articles/cdrkdp3xy17o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-07-30-21-03-16 +0000"
-  },
-  {
-    "headline": "Pilots for Army Black Hawk Discussed Changing Course Before Crash",
-    "link": "https://www.nytimes.com/2025/07/30/us/politics/black-hawk-reagan-crash-transcripts.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-21-00-59 +0000"
   },
   {
     "headline": "Watch: What to know about US interest rates staying steady",
@@ -2544,18 +2808,6 @@
     "pubdate": "2025-07-30-19-19-00 +0000"
   },
   {
-    "headline": "White House Urges ‘Pro-Innovation Mindset’ to Crypto In New Report",
-    "link": "https://www.nytimes.com/2025/07/30/technology/white-house-crypto.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-19-14-11 +0000"
-  },
-  {
-    "headline": "White House Urges ‘Pro-Innovation Mindset’ to Crypto In New Report",
-    "link": "https://www.nytimes.com/2025/07/30/technology/white-house-crypto.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-19-14-11 +0000"
-  },
-  {
     "headline": "Ugandan and South Sudanese Troops Exchange Fire in Border Skirmish",
     "link": "https://www.nytimes.com/2025/07/30/world/africa/uganda-south-sudan-skirmish.html",
     "source": "nyt",
@@ -2602,12 +2854,6 @@
     "link": "https://www.nytimes.com/2025/07/30/world/europe/russia-earthquake-kamchatka.html",
     "source": "nyt",
     "pubdate": "2025-07-30-19-05-50 +0000"
-  },
-  {
-    "headline": "Fed governors Michelle Bowman, Christopher Waller voted against leaving rates steady — most dissents since 1993",
-    "link": "https://nypost.com/2025/07/30/business/fed-decision-to-keep-rates-steady-generates-dissents-from-michelle-bowman-christopher-waller/",
-    "source": "nypost",
-    "pubdate": "2025-07-30-19-05-48 +0000"
   },
   {
     "headline": "Fed governors Michelle Bowman, Christopher Waller voted against leaving rates steady — most dissents since 1993",
@@ -2694,12 +2940,6 @@
     "pubdate": "2025-07-30-18-33-31 +0000"
   },
   {
-    "headline": "Trump’s Mideast Envoy Heads to Israel Amid Global Fury Over Gaza Hunger",
-    "link": "https://www.nytimes.com/2025/07/30/world/middleeast/trump-envoy-israel-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-18-33-31 +0000"
-  },
-  {
     "headline": "During a public hearing on July 30, the National Transportation Safety Board released an animation of...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -2739,13 +2979,13 @@
     "headline": "Horst Mahler, 89, Dies; Voice of the German Far Left, Then the Far Right",
     "link": "https://www.nytimes.com/2025/07/30/world/europe/horst-mahler-dead.html",
     "source": "nyt",
-    "pubdate": "2025-07-30-18-20-31 +0000"
+    "pubdate": "2025-07-30-18-20-32 +0000"
   },
   {
     "headline": "Horst Mahler, 89, Dies; Voice of the German Far Left, Then the Far Right",
     "link": "https://www.nytimes.com/2025/07/30/world/europe/horst-mahler-dead.html",
     "source": "nyt",
-    "pubdate": "2025-07-30-18-20-31 +0000"
+    "pubdate": "2025-07-30-18-20-32 +0000"
   },
   {
     "headline": "California's economy is already getting hit by immigration raids",
@@ -2902,215 +3142,5 @@
     "link": "https://www.nytimes.com/live/2025/07/30/business/federal-reserve-interest-rates/why-the-feds-renovations-have-drawn-such-ire-from-president-trump",
     "source": "nyt",
     "pubdate": "2025-07-30-17-00-06 +0000"
-  },
-  {
-    "headline": "British brother and sister, 11 and 13, drown off beach in Spain",
-    "link": "https://www.bbc.com/news/articles/czjm7gv13g2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-53-46 +0000"
-  },
-  {
-    "headline": "Marchand breaks Lochte's 200m medley world record",
-    "link": "https://www.bbc.com/sport/swimming/videos/cn84gkyz9zdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-52-00 +0000"
-  },
-  {
-    "headline": "Pilot of Black Hawk helicopter had received high praise from leadership",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-07-30-16-48-59 +0000"
-  },
-  {
-    "headline": "Flights Are Disrupted at Airports Across U.K. After Radar Problem",
-    "link": "https://www.nytimes.com/2025/07/30/world/europe/uk-flights-london-heathrow-airport-grounded.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-48-03 +0000"
-  },
-  {
-    "headline": "Flights Are Disrupted at Airports Across U.K. After Radar Problem",
-    "link": "https://www.nytimes.com/2025/07/30/world/europe/uk-flights-london-heathrow-airport-grounded.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-48-03 +0000"
-  },
-  {
-    "headline": "Who Pays in Trump’s Trade War?",
-    "link": "https://www.nytimes.com/2025/07/30/business/trade-tariffs-who-pays.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-45-05 +0000"
-  },
-  {
-    "headline": "Half of flights on helicopter route where crash happened flew too high",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-07-30-16-40-44 +0000"
-  },
-  {
-    "headline": "More than a dozen children die because of food shortages in Sudan camp - medics",
-    "link": "https://www.bbc.com/news/articles/c2en72kvy00o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-36-49 +0000"
-  },
-  {
-    "headline": "More than a dozen children die because of food shortages in Sudan camp - medics",
-    "link": "https://www.bbc.com/news/articles/c2en72kvy00o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-36-49 +0000"
-  },
-  {
-    "headline": "Birmingham lays to rest Ozzy Osbourne, hard-rocking, bat-biting native son",
-    "link": "https://www.washingtonpost.com/world/2025/07/30/ozzy-osbourne-birmingham-funeral-black-sabbath/",
-    "source": "wapo",
-    "pubdate": "2025-07-30-16-33-33 +0000"
-  },
-  {
-    "headline": "Trump to hit India with 25% tariffs - plus 'penalty' for trade with Russia",
-    "link": "https://www.bbc.com/news/articles/cz71w1dgl84o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-33-22 +0000"
-  },
-  {
-    "headline": "Trump to hit India with 25% tariffs - plus 'penalty' for trade with Russia",
-    "link": "https://www.bbc.com/news/articles/cz71w1dgl84o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-33-22 +0000"
-  },
-  {
-    "headline": "Trump to hit India with 25% tariffs - plus 'penalty' for trade with Russia",
-    "link": "https://www.bbc.com/news/articles/cz71w1dgl84o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-33-22 +0000"
-  },
-  {
-    "headline": "Why Airdrops in Gaza Are Seen as a Risky Last Resort",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-airdrops.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-30-37 +0000"
-  },
-  {
-    "headline": "Why Airdrops in Gaza Are Seen as a Risky Last Resort",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-airdrops.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-30-37 +0000"
-  },
-  {
-    "headline": "Trump has reshaped global trade. What does that mean for the U.S. economy?",
-    "link": "https://www.nytimes.com/live/2025/07/30/business/federal-reserve-interest-rates/trump-has-reshaped-global-trade-what-does-that-mean-for-the-us-economy",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-30-05 +0000"
-  },
-  {
-    "headline": "Laura Dahlmeier, Gold Medal-Winning German Biathlete, Dies in Rockfall",
-    "link": "https://www.nytimes.com/2025/07/30/world/asia/laura-dahlmeier-olympian-died-accident-pakistan.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-27-18 +0000"
-  },
-  {
-    "headline": "Laura Dahlmeier, Gold Medal-Winning German Biathlete, Dies in Rockfall",
-    "link": "https://www.nytimes.com/2025/07/30/world/asia/laura-dahlmeier-olympian-died-accident-pakistan.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-27-18 +0000"
-  },
-  {
-    "headline": "Laura Dahlmeier, Gold Medal-Winning German Biathlete, Dies in Rockfall",
-    "link": "https://www.nytimes.com/2025/07/30/world/asia/laura-dahlmeier-olympian-died-accident-pakistan.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-27-18 +0000"
-  },
-  {
-    "headline": "Two top Senate Republicans laid out a plan Wednesday to allow allies to finance donations of U.S. weapons and military equipment to Ukraine",
-    "link": "https://www.wsj.com/politics/policy/us-weapons-ukraine-europe-funds-be3096c2",
-    "source": "wsj",
-    "pubdate": "2025-07-30-16-23-00 +0000"
-  },
-  {
-    "headline": "Israeli minister hints at annexing parts of Gaza as hunger-related deaths mount",
-    "link": "https://www.cbc.ca/news/world/gaza-israeli-minister-hunger-deaths-1.7597359?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-07-30-16-22-47 +0000"
-  },
-  {
-    "headline": "Confirmation Slowdown Forces a Senate Showdown",
-    "link": "https://www.nytimes.com/2025/07/30/us/senate-confirmation-slowdown.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-15-44 +0000"
-  },
-  {
-    "headline": "Mattel slaps political podcast ‘Coffee with Ken’ with bizarre lawsuit — insisting it could be confused with Barbie’s boyfriend",
-    "link": "https://nypost.com/2025/07/30/business/mattel-slaps-political-podcast-coffee-with-ken-with-bizarre-lawsuit/",
-    "source": "nypost",
-    "pubdate": "2025-07-30-16-14-27 +0000"
-  },
-  {
-    "headline": "U.S. economy posts strong second quarter, growing at 3% pace",
-    "link": "https://www.washingtonpost.com/business/2025/07/30/gdp-q2-economy-tariffs/",
-    "source": "wapo",
-    "pubdate": "2025-07-30-16-12-55 +0000"
-  },
-  {
-    "headline": "Altitude issue shows Army and FAA failure, families’ lawyer says",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-07-30-16-10-53 +0000"
-  },
-  {
-    "headline": "Why did Russian mega earthquake not cause more tsunami damage?",
-    "link": "https://www.bbc.com/news/articles/c0l6pj7kjg7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-09-03 +0000"
-  },
-  {
-    "headline": "Why did Russian mega earthquake not cause more tsunami damage?",
-    "link": "https://www.bbc.com/news/articles/c0l6pj7kjg7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-07-30-16-09-03 +0000"
-  },
-  {
-    "headline": "Where tsunami waves could still hit",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-07-30-16-08-35 +0000"
-  },
-  {
-    "headline": "Any further Bank of Canada rate reduction depends on the extent of tariff-fueled economic weakness and whether price gains from trade disruptions are contained",
-    "link": "https://www.wsj.com/articles/bank-of-canada-stands-pat-on-rates-signals-cut-could-materialize-if-conditions-warrant-346832f2",
-    "source": "wsj",
-    "pubdate": "2025-07-30-16-06-00 +0000"
-  },
-  {
-    "headline": "Key Hurricane-Monitoring Data Will Stay Online, Officials Say",
-    "link": "https://www.nytimes.com/2025/07/30/climate/hurricane-monitoring-data-defense-department.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-04-18 +0000"
-  },
-  {
-    "headline": "Tensions Between Trump and Powell at Tipping Point Ahead of Fed Meeting",
-    "link": "https://www.nytimes.com/2025/07/30/business/trump-powell-fed-tensions.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-16-03-01 +0000"
-  },
-  {
-    "headline": "Chile returns $125,000 in luxury watches stolen from Keanu Reeves by South America-based crime ring",
-    "link": "https://nypost.com/2025/07/30/world-news/chile-hands-luxury-watches-stolen-from-keanu-reeves-over-to-the-fbi/",
-    "source": "nypost",
-    "pubdate": "2025-07-30-16-02-47 +0000"
-  },
-  {
-    "headline": "Why a huge quake off Russia sent tsunamis to Japan, Hawaii, California",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-07-30-16-01-16 +0000"
-  },
-  {
-    "headline": "Israeli Far-Right Minister Promotes Plan for Jewish Resettlement in Gaza",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/israel-gaza-jewish-resettlement.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-15-56-06 +0000"
-  },
-  {
-    "headline": "Israeli Far-Right Minister Promotes Plan for Jewish Resettlement in Gaza",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/israel-gaza-jewish-resettlement.html",
-    "source": "nyt",
-    "pubdate": "2025-07-30-15-56-06 +0000"
   }
 ]
