@@ -1,6 +1,6 @@
 [
   {
-    "score": 248,
+    "score": 247,
     "pubdate": "2025-07-30-22-42-00 +0000",
     "source": "nypost",
     "headline": "Trump announces South Korea trade deal with $350B US investment hours before tariff deadline",
@@ -14,39 +14,32 @@
     "link": "https://www.wsj.com/politics/elections/kamala-harris-california-governor-election-630b7725"
   },
   {
-    "score": 94,
+    "score": 93,
     "pubdate": "2025-07-31-14-01-19 +0000",
     "source": "nypost",
     "headline": "Fed’s preferred inflation gauge ticks up as tariffs lift prices — casting cloud on September rate cut",
     "link": "https://nypost.com/2025/07/31/business/feds-preferred-inflation-gauge-ticks-up-as-tariffs-lift-prices-casting-cloud-on-september-rate-cut/"
   },
   {
-    "score": 91,
+    "score": 89,
     "pubdate": "2025-07-30-23-37-48 +0000",
     "source": "wapo",
     "headline": "NTSB hearing: Army helicopter’s location system wasn’t working before deadly D.C. plane crash",
     "link": "https://www.washingtonpost.com/business/2025/07/30/ntsb-dc-plane-crash-reagan-national-airport/"
   },
   {
-    "score": 84,
-    "pubdate": "2025-07-30-23-08-32 +0000",
-    "source": "cbc",
-    "headline": "Trump slams Canada's plan to recognize Palestinian state amid trade talks",
-    "link": "https://www.cbc.ca/news/politics/us-canada-trade-negotiations-deadline-1.7598002?cmp=rss"
+    "score": 83,
+    "pubdate": "2025-07-30-18-33-31 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Mideast Envoy Heads to Israel Amid Global Fury Over Gaza Hunger",
+    "link": "https://www.nytimes.com/2025/07/30/world/middleeast/trump-envoy-israel-gaza.html"
   },
   {
-    "score": 81,
-    "pubdate": "2025-07-30-22-31-15 +0000",
-    "source": "nypost",
-    "headline": "Witkoff could visit Gaza aid sites during Israel trip as at least 48 reportedly killed waiting for food",
-    "link": "https://nypost.com/2025/07/30/world-news/witkoff-could-visit-gaza-aid-sites-during-israel-trip-as-at-least-48-reportedly-killed-waiting-for-food/"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-07-30-17-43-00 +0000",
-    "source": "wsj",
-    "headline": "Tsunami Waves Reach U.S. After Powerful Russia Quake Forces Pacific Evacuations",
-    "link": "https://www.wsj.com/world/tsunami-watch-warning-japan-us-west-coast-bd815b56"
+    "score": 77,
+    "pubdate": "2025-07-31-10-37-06 +0000",
+    "source": "bbc",
+    "headline": "Canada follows France and UK with plan to recognise Palestinian state",
+    "link": "https://www.bbc.com/news/articles/ceqyx35d9x2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 72,
@@ -56,17 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/nyc-mayor-race-zohran-mamdani-shooting-police-2fa540ab"
   },
   {
-    "score": 59,
-    "pubdate": "2025-07-30-20-00-37 +0000",
-    "source": "wapo",
-    "headline": "Army pilot surprised that air controller did not pause Black Hawk’s flight",
-    "link": "https://www.washingtonpost.com"
+    "score": 69,
+    "pubdate": "2025-07-30-17-43-00 +0000",
+    "source": "wsj",
+    "headline": "Tsunami Waves Reach U.S. After Powerful Russia Quake Forces Pacific Evacuations",
+    "link": "https://www.wsj.com/world/tsunami-watch-warning-japan-us-west-coast-bd815b56"
   },
   {
-    "score": 57,
+    "score": 63,
     "pubdate": "2025-07-31-09-59-02 +0000",
     "source": "cbc",
     "headline": "Russian missile, drone attacks hit Kyiv, killing at least 9 people and wounding 124",
     "link": "https://www.cbc.ca/news/world/ukraine-russia-kyiv-missile-drone-attack-1.7598253?cmp=rss"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-07-30-20-00-37 +0000",
+    "source": "wapo",
+    "headline": "Army pilot surprised that air controller did not pause Black Hawk’s flight",
+    "link": "https://www.washingtonpost.com"
   }
 ]
