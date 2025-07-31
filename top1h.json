@@ -1,9 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2025-07-31-02-27-00 +0000",
+    "score": 39,
+    "pubdate": "2025-07-31-03-17-27 +0000",
+    "source": "nypost",
+    "headline": "Trump-Russia probe whistleblower ‘pressured’ by Obama intel officials to sign off of 2016 election report: ‘I need you to say you agree’",
+    "link": "https://nypost.com/2025/07/30/us-news/trump-russia-probe-whistleblower-pressured-by-obama-intel-officials-to-sign-off-of-2016-election-report-i-need-you-to-say-you-agree/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-07-31-04-00-08 +0000",
+    "source": "nyt",
+    "headline": "Countries Promise Trump to Buy U.S. Gas, and Leave the Details for Later",
+    "link": "https://www.nytimes.com/2025/07/31/business/economy/trump-trade-deals-lng.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-07-31-04-00-08 +0000",
+    "source": "nyt",
+    "headline": "China’s Small Workshops Are Hurting. Trump’s Tariffs Are Only One Reason.",
+    "link": "https://www.nytimes.com/2025/07/31/business/guangzhou-china-factories-tariffs.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-07-31-04-01-05 +0000",
+    "source": "nyt",
+    "headline": "SpaceX Set to Launch NASA’s Crew-11 Mission to the Space Station",
+    "link": "https://www.nytimes.com/2025/07/31/science/nasa-astronauts-spacex.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-07-31-03-34-45 +0000",
+    "source": "nyt",
+    "headline": "N.T.S.B. Details Evidence in Fatal Crash at Reagan National Airport",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/army-helicopter-potomac-crash.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-07-31-03-54-00 +0000",
     "source": "wsj",
-    "headline": "Stock Market Today: U.S., Korea Reach Trade Deal; Powell Signals Reluctance to Cut Rates",
-    "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-07-30-2025?mod=rss_markets_main"
+    "headline": "Senators rejected an effort to block U.S. arms sales to Israel, even as lawmakers expressed growing concerns over famine in Gaza",
+    "link": "https://www.wsj.com/politics/policy/republican-gaza-israel-party-split-4bfefcdb"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-07-31-03-58-00 +0000",
+    "source": "nypost",
+    "headline": "Quick-thinking wife saves husband with bear spray during grizzly attack in Canadian wilderness",
+    "link": "https://nypost.com/2025/07/30/world-news/quick-thinking-wife-saves-husband-with-bear-spray-during-grizzly-attack-in-canadian-wilderness/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-07-31-03-39-19 +0000",
+    "source": "nyt",
+    "headline": "Key Takeaways From the D.C. Plane Crash Hearing",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/takeaways-dc-plane-crash-investigation-ntsb.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-07-31-03-54-00 +0000",
+    "source": "wsj",
+    "headline": "Bank of Japan Stands Pat But Raises Price Forecasts",
+    "link": "https://www.wsj.com/articles/bank-of-japan-stands-pat-but-raises-price-forecasts-116a7887"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-07-31-03-45-00 +0000",
+    "source": "wsj",
+    "headline": "China Official PMIs Signal Impending Slowdown",
+    "link": "https://www.wsj.com/economy/china-manufacturing-activity-contracts-for-fourth-straight-month-dbbe41b4"
   }
 ]
