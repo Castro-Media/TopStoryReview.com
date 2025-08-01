@@ -1,13 +1,13 @@
 [
   {
-    "score": 512,
+    "score": 499,
     "pubdate": "2025-07-31-23-00-10 +0000",
     "source": "nypost",
     "headline": "Trump struck huge trade deals — but tariffs are about to go up on a huge swath of imports as Liberation Day tariffs hit",
     "link": "https://nypost.com/2025/07/31/us-news/dozens-of-countries-scramble-to-make-trade-deals-before-trumps-tariff-crackdown/"
   },
   {
-    "score": 199,
+    "score": 204,
     "pubdate": "2025-07-30-20-19-00 +0000",
     "source": "wsj",
     "headline": "Former Vice President Kamala Harris said Wednesday she wouldn’t run for governor of California next year, leaving open the possibility of another presidential bid in 2028",
@@ -21,28 +21,28 @@
     "link": "https://nypost.com/2025/07/30/world-news/israel-suggests-it-could-annex-parts-of-gaza-if-hamas-rejects-cease-fire-deal/"
   },
   {
-    "score": 184,
+    "score": 190,
     "pubdate": "2025-07-31-23-44-33 +0000",
     "source": "nypost",
     "headline": "White House releases new tariff rates for dozens of countries after months of negotiations",
     "link": "https://nypost.com/2025/07/31/us-news/white-house-releases-new-tariff-rates-for-dozens-of-countries/"
   },
   {
-    "score": 159,
+    "score": 155,
     "pubdate": "2025-07-31-15-31-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s tighter deadline for Russia to reach peace with Ukraine and his threat against Russia’s energy customers contrast with a lighter approach to Russia elsewhere",
     "link": "https://www.wsj.com/politics/policy/trumps-russia-sanctions-strategy-runs-hot-and-cold-ed2527c1"
   },
   {
-    "score": 154,
+    "score": 153,
     "pubdate": "2025-07-27-08-01-00 +0000",
     "source": "cbc",
     "headline": "Trump slams Canada's plan to recognize Palestinian state amid trade talks",
     "link": "https://www.cbc.ca/news/politics/us-canada-trade-negotiations-deadline-1.7598002?cmp=rss"
   },
   {
-    "score": 142,
+    "score": 135,
     "pubdate": "2025-07-30-12-24-18 +0000",
     "source": "wapo",
     "headline": "Japan has downgraded all tsunami warnings to tsunami advisories, according to a statement on the Japan...",
@@ -56,17 +56,17 @@
     "link": "https://www.washingtonpost.com/business/2025/07/30/ntsb-dc-plane-crash-reagan-national-airport/"
   },
   {
-    "score": 97,
-    "pubdate": "2025-07-31-13-58-00 +0000",
-    "source": "wsj",
-    "headline": "South Africa’s central bank cut its main repo rate by a quarter percentage point as inflation remains low in the midst of continuing global uncertainty",
-    "link": "https://www.wsj.com/articles/south-african-reserve-bank-cuts-main-repo-rate-to-7-8445ab28"
-  },
-  {
-    "score": 95,
+    "score": 100,
     "pubdate": "2025-08-01-00-49-00 +0000",
     "source": "wsj",
     "headline": "President Trump says he has averted a half-dozen wars and deserves the Nobel Peace Prize, yet he has made scant headway with two of the world’s most intractable conflicts",
     "link": "https://www.wsj.com/politics/policy/trumps-vow-to-be-president-of-peace-falls-short-in-ukraine-and-gaza-27b8731e"
+  },
+  {
+    "score": 100,
+    "pubdate": "2025-07-31-13-58-00 +0000",
+    "source": "wsj",
+    "headline": "South Africa’s central bank cut its main repo rate by a quarter percentage point as inflation remains low in the midst of continuing global uncertainty",
+    "link": "https://www.wsj.com/articles/south-african-reserve-bank-cuts-main-repo-rate-to-7-8445ab28"
   }
 ]
