@@ -1,31 +1,17 @@
 [
   {
-    "score": 314,
+    "score": 297,
     "pubdate": "2025-07-31-23-00-10 +0000",
     "source": "nypost",
     "headline": "Trump struck huge trade deals — but tariffs are about to go up on a huge swath of imports as Liberation Day tariffs hit",
     "link": "https://nypost.com/2025/07/31/us-news/dozens-of-countries-scramble-to-make-trade-deals-before-trumps-tariff-crackdown/"
   },
   {
-    "score": 116,
+    "score": 112,
     "pubdate": "2025-07-31-23-44-33 +0000",
     "source": "nypost",
     "headline": "White House releases new tariff rates for dozens of countries after months of negotiations",
     "link": "https://nypost.com/2025/07/31/us-news/white-house-releases-new-tariff-rates-for-dozens-of-countries/"
-  },
-  {
-    "score": 91,
-    "pubdate": "2025-07-31-15-31-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s tighter deadline for Russia to reach peace with Ukraine and his threat against Russia’s energy customers contrast with a lighter approach to Russia elsewhere",
-    "link": "https://www.wsj.com/politics/policy/trumps-russia-sanctions-strategy-runs-hot-and-cold-ed2527c1"
-  },
-  {
-    "score": 86,
-    "pubdate": "2025-08-01-14-08-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Envoy Steve Witkoff Visits Gaza as Trump, Under Pressure, Seeks Aid Plan",
-    "link": "https://www.wsj.com/world/middle-east/u-s-envoy-steve-witkoff-to-visit-gaza-as-trump-under-pressure-seeks-aid-plan-b0c057cf"
   },
   {
     "score": 84,
@@ -35,28 +21,35 @@
     "link": "https://nypost.com/2025/08/01/us-news/kamala-harris-complains-the-system-is-broken-in-stephen-colbert-interview-after-spending-1b-on-failed-presidential-campaign-suggests-she-wont-run-in-2028/"
   },
   {
-    "score": 61,
+    "score": 84,
+    "pubdate": "2025-08-01-14-08-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Envoy Steve Witkoff Visits Gaza as Trump, Under Pressure, Seeks Aid Plan",
+    "link": "https://www.wsj.com/world/middle-east/u-s-envoy-steve-witkoff-to-visit-gaza-as-trump-under-pressure-seeks-aid-plan-b0c057cf"
+  },
+  {
+    "score": 83,
     "pubdate": "2025-08-01-00-49-00 +0000",
     "source": "wsj",
     "headline": "President Trump says he has averted a half-dozen wars and deserves the Nobel Peace Prize, yet he has made scant headway with two of the world’s most intractable conflicts",
     "link": "https://www.wsj.com/politics/policy/trumps-vow-to-be-president-of-peace-falls-short-in-ukraine-and-gaza-27b8731e"
   },
   {
-    "score": 59,
+    "score": 56,
     "pubdate": "2025-08-01-02-34-00 +0000",
     "source": "wsj",
     "headline": "Lawmakers have introduced bills targeting China, a reminder of Capitol Hill’s deep-seated desire to punish Beijing over human rights even as President Trump gives priority to a trade deal",
     "link": "https://www.wsj.com/politics/policy/congress-looks-to-punish-china-while-trump-pursues-trade-deal-e0c1cfe3"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-08-01-14-09-33 +0000",
     "source": "nypost",
     "headline": "Devil’s Den suspect charged with killing couple on a hike with their kids will make first court appearance",
     "link": "https://nypost.com/2025/08/01/us-news/devils-den-suspect-charged-with-killing-couple-on-a-hike-with-their-kids-set-to-appear-in-court/"
   },
   {
-    "score": 51,
+    "score": 50,
     "pubdate": "2025-08-01-11-25-01 +0000",
     "source": "nypost",
     "headline": "Russian attack on Kyiv leaves at least 28 dead — including 2-year-old child",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Weak Jobs Report Raises Chances of a September Interest Rate Cut",
     "link": "https://www.nytimes.com/2025/08/01/business/economy/jobs-report-fed-rate-cut.html"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-07-31-23-55-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump is building a Mar-a-Lago style ballroom at the White House, a $200 million addition to the East Wing that marks the former builder’s latest and most ambitious makeover of the complex",
+    "link": "https://www.wsj.com/politics/policy/trump-ballroom-white-house-1db772f4"
   }
 ]
