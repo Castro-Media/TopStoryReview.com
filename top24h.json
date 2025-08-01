@@ -1,6 +1,6 @@
 [
   {
-    "score": 300,
+    "score": 297,
     "pubdate": "2025-07-31-23-00-10 +0000",
     "source": "nypost",
     "headline": "Trump struck huge trade deals — but tariffs are about to go up on a huge swath of imports as Liberation Day tariffs hit",
@@ -14,14 +14,14 @@
     "link": "https://nypost.com/2025/07/31/us-news/white-house-releases-new-tariff-rates-for-dozens-of-countries/"
   },
   {
-    "score": 86,
+    "score": 85,
     "pubdate": "2025-07-31-15-31-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s tighter deadline for Russia to reach peace with Ukraine and his threat against Russia’s energy customers contrast with a lighter approach to Russia elsewhere",
     "link": "https://www.wsj.com/politics/policy/trumps-russia-sanctions-strategy-runs-hot-and-cold-ed2527c1"
   },
   {
-    "score": 73,
+    "score": 72,
     "pubdate": "2025-07-31-08-34-03 +0000",
     "source": "nypost",
     "headline": "Russian missile and drone attack batters Kyiv, leaving at least 9 dead — including 6-year-old boy",
@@ -36,17 +36,10 @@
   },
   {
     "score": 62,
-    "pubdate": "2025-08-01-02-34-00 +0000",
-    "source": "wsj",
-    "headline": "Lawmakers have introduced bills targeting China, a reminder of Capitol Hill’s deep-seated desire to punish Beijing over human rights even as President Trump gives priority to a trade deal",
-    "link": "https://www.wsj.com/politics/policy/congress-looks-to-punish-china-while-trump-pursues-trade-deal-e0c1cfe3"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-07-31-10-37-06 +0000",
-    "source": "bbc",
-    "headline": "Canada follows France and UK with plan to recognise Palestinian state",
-    "link": "https://www.bbc.com/news/articles/ceqyx35d9x2o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-07-31-09-14-50 +0000",
+    "source": "nypost",
+    "headline": "Trump says it’s hard to make deal with Canada for backing Palestinian statehood",
+    "link": "https://nypost.com/2025/07/31/us-news/trump-says-its-hard-to-make-deal-with-canada-for-backing-palestinian-statehood/"
   },
   {
     "score": 57,
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/articles/south-african-reserve-bank-cuts-main-repo-rate-to-7-8445ab28"
   },
   {
-    "score": 40,
-    "pubdate": "2025-07-31-23-55-00 +0000",
+    "score": 45,
+    "pubdate": "2025-08-01-02-34-00 +0000",
     "source": "wsj",
-    "headline": "President Trump is building a Mar-a-Lago style ballroom at the White House, a $200 million addition to the East Wing that marks the former builder’s latest and most ambitious makeover of the complex",
-    "link": "https://www.wsj.com/politics/policy/trump-ballroom-white-house-1db772f4"
+    "headline": "Lawmakers have introduced bills targeting China, a reminder of Capitol Hill’s deep-seated desire to punish Beijing over human rights even as President Trump gives priority to a trade deal",
+    "link": "https://www.wsj.com/politics/policy/congress-looks-to-punish-china-while-trump-pursues-trade-deal-e0c1cfe3"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-08-01-01-15-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Envoy Steve Witkoff to Visit Gaza as Trump, Under Pressure, Seeks Aid Plan",
+    "link": "https://www.wsj.com/world/middle-east/u-s-envoy-steve-witkoff-to-visit-gaza-as-trump-under-pressure-seeks-aid-plan-b0c057cf"
   }
 ]
