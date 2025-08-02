@@ -1,31 +1,24 @@
 [
   {
-    "score": 162,
+    "score": 156,
     "pubdate": "2025-08-01-22-33-00 +0000",
     "source": "wsj",
     "headline": "President Trump fired the top Bureau of Labor Statistics official after the government published new data showing that U.S. hiring slowed sharply this summer",
     "link": "https://www.wsj.com/politics/policy/trump-orders-firing-of-bureau-of-labor-statistics-chief-d8eaa272"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-08-01-22-27-28 +0000",
     "source": "nypost",
     "headline": "Trump admin fires back at claims Clinton plan to ‘smear’ prez with Russia ties was disinfo: ‘No one is buying your bulls–t anymore’",
     "link": "https://nypost.com/2025/08/01/us-news/trump-admin-fires-back-at-claims-clinton-plan-to-smear-prez-with-russia-ties-was-disinfo-no-one-is-buying-your-bulls-t-anymore/"
   },
   {
-    "score": 58,
+    "score": 55,
     "pubdate": "2025-08-01-20-59-00 +0000",
     "source": "wsj",
     "headline": "Ghislaine Maxwell, the former associate of convicted sex offender Jeffrey Epstein, has been transferred from a federal prison in Florida to a lower-security facility in Texas to serve her sentence",
     "link": "https://www.wsj.com/politics/policy/epstein-associate-ghislaine-maxwell-transferred-to-lower-security-prison-facility-dbddca30"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-08-02-15-17-07 +0000",
-    "source": "bbc",
-    "headline": "Police find getaway car of army veteran suspected of deadly Montana bar shooting",
-    "link": "https://www.bbc.com/news/articles/c4gz9ep0wnno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 54,
@@ -35,18 +28,11 @@
     "link": "https://www.nytimes.com/2025/08/02/business/economy/trump-tariffs-income-inequality.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-02-16-14-13 +0000",
-    "source": "nyt",
-    "headline": "Mike Huckabee, Israel’s Passionate Defender as Gaza War Drives Allies Away",
-    "link": "https://www.nytimes.com/2025/08/02/world/middleeast/israel-huckabee.html"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-08-02-13-58-07 +0000",
-    "source": "nypost",
-    "headline": "Illegal migrant — not deported despite multiple DUI and domestic violence raps — allegedly kills NJ mom, 11-year-old daughter in horrific wrong-way crash",
-    "link": "https://nypost.com/2025/08/02/us-news/allegedly-drunk-illegal-kills-mom-girl-in-nj-head-on-crash-authorities/"
+    "score": 52,
+    "pubdate": "2025-08-02-15-17-07 +0000",
+    "source": "bbc",
+    "headline": "Police find getaway car of army veteran suspected of deadly Montana bar shooting",
+    "link": "https://www.bbc.com/news/articles/c4gz9ep0wnno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 43,
@@ -57,16 +43,30 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-08-01-23-15-52 +0000",
-    "source": "nyt",
-    "headline": "In Delhi and New York, Hindu Right Wing Lines Up Against Mamdani",
-    "link": "https://www.nytimes.com/2025/08/01/world/asia/mamdani-india-hindu-muslims-modi-new-york-mayor.html"
+    "pubdate": "2025-08-02-13-58-07 +0000",
+    "source": "nypost",
+    "headline": "Illegal migrant — not deported despite multiple DUI and domestic violence raps — allegedly kills NJ mom, 11-year-old daughter in horrific wrong-way crash",
+    "link": "https://nypost.com/2025/08/02/us-news/allegedly-drunk-illegal-kills-mom-girl-in-nj-head-on-crash-authorities/"
   },
   {
     "score": 43,
-    "pubdate": "2025-08-02-10-00-07 +0000",
-    "source": "nyt",
-    "headline": "What Do Trump’s Tariff Hikes Mean for Canada’s Trade-Dependent Economy?",
-    "link": "https://www.nytimes.com/2025/08/02/world/canada/what-do-trumps-tariff-hikes-mean-for-canadas-trade-dependent-economy.html"
+    "pubdate": "2025-08-02-00-59-00 +0000",
+    "source": "wsj",
+    "headline": "The New York Fed’s John Williams says the labor market remains solid, even after unusually large downward revisions to job gains for May and June",
+    "link": "https://www.wsj.com/economy/central-banking/fed-officials-take-cool-jobs-report-in-stride-c823b3dd"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-02-13-13-53 +0000",
+    "source": "nypost",
+    "headline": "Heartbroken woman who lost Labubu during drunken night out posts missing flyer: ‘I regret getting too lit’",
+    "link": "https://nypost.com/2025/08/02/us-news/san-francisco-woman-posts-missing-flyer-for-pink-labubu/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-01-21-57-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is blocking funding for a swath of public health programs run by the CDC, the latest flashpoint in a push by the White House to withhold money already approved by Congress",
+    "link": "https://www.wsj.com/politics/policy/trump-cdc-funding-freeze-79e7090f"
   }
 ]
