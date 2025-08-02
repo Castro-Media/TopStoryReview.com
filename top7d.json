@@ -1,6 +1,6 @@
 [
   {
-    "score": 457,
+    "score": 456,
     "pubdate": "2025-07-31-16-29-38 +0000",
     "source": "latimes",
     "headline": "New Trump tariffs on Mexico delayed 90 days as trade talks continue",
@@ -50,17 +50,17 @@
   },
   {
     "score": 96,
-    "pubdate": "2025-07-31-13-58-00 +0000",
-    "source": "wsj",
-    "headline": "South Africa’s central bank cut its main repo rate by a quarter percentage point as inflation remains low in the midst of continuing global uncertainty",
-    "link": "https://www.wsj.com/articles/south-african-reserve-bank-cuts-main-repo-rate-to-7-8445ab28"
-  },
-  {
-    "score": 96,
     "pubdate": "2025-08-01-16-49-02 +0000",
     "source": "nypost",
     "headline": "Trump reveals ‘almost 20,000 Russian soldiers died’ in July during Ukraine war",
     "link": "https://nypost.com/2025/08/01/us-news/trump-says-almost-20000-russian-soldiers-died-in-july-alone-in-war-with-ukraine/"
+  },
+  {
+    "score": 96,
+    "pubdate": "2025-07-31-13-58-00 +0000",
+    "source": "wsj",
+    "headline": "South Africa’s central bank cut its main repo rate by a quarter percentage point as inflation remains low in the midst of continuing global uncertainty",
+    "link": "https://www.wsj.com/articles/south-african-reserve-bank-cuts-main-repo-rate-to-7-8445ab28"
   },
   {
     "score": 95,
