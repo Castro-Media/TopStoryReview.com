@@ -22,17 +22,10 @@
   },
   {
     "score": 135,
-    "pubdate": "2025-07-27-08-01-00 +0000",
+    "pubdate": "2025-07-30-23-08-32 +0000",
     "source": "cbc",
     "headline": "Trump slams Canada's plan to recognize Palestinian state amid trade talks",
     "link": "https://www.cbc.ca/news/politics/us-canada-trade-negotiations-deadline-1.7598002?cmp=rss"
-  },
-  {
-    "score": 115,
-    "pubdate": "2025-08-02-01-28-00 +0000",
-    "source": "wsj",
-    "headline": "After months of mixed signals, official data showed a marked slowdown in economic output and consumer spending, then a jarringly weak jobs report. The path forward is murky",
-    "link": "https://www.wsj.com/economy/the-wild-week-in-the-american-economy-b5baae41"
   },
   {
     "score": 115,
@@ -42,11 +35,11 @@
     "link": "https://www.wsj.com/economy/trade/trump-says-he-has-a-tariff-deal-with-european-union-avoiding-trade-war-3ca72c5d"
   },
   {
-    "score": 108,
-    "pubdate": "2025-08-02-00-59-00 +0000",
+    "score": 115,
+    "pubdate": "2025-08-02-01-28-00 +0000",
     "source": "wsj",
-    "headline": "The New York Fed’s John Williams says the labor market remains solid, even after unusually large downward revisions to job gains for May and June",
-    "link": "https://www.wsj.com/economy/central-banking/fed-officials-take-cool-jobs-report-in-stride-c823b3dd"
+    "headline": "After months of mixed signals, official data showed a marked slowdown in economic output and consumer spending, then a jarringly weak jobs report. The path forward is murky",
+    "link": "https://www.wsj.com/economy/the-wild-week-in-the-american-economy-b5baae41"
   },
   {
     "score": 108,
@@ -54,6 +47,13 @@
     "source": "nypost",
     "headline": "Ex-Trump prosecutor Jack Smith under investigation by Office of Special Counsel after claims of playing politics: ‘No one is above the law’",
     "link": "https://nypost.com/2025/08/01/us-news/official-investigation-into-trump-prosecutor-jack-smith-launched/"
+  },
+  {
+    "score": 108,
+    "pubdate": "2025-08-02-00-59-00 +0000",
+    "source": "wsj",
+    "headline": "The New York Fed’s John Williams says the labor market remains solid, even after unusually large downward revisions to job gains for May and June",
+    "link": "https://www.wsj.com/economy/central-banking/fed-officials-take-cool-jobs-report-in-stride-c823b3dd"
   },
   {
     "score": 96,
