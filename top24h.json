@@ -1,24 +1,17 @@
 [
   {
-    "score": 180,
+    "score": 174,
     "pubdate": "2025-08-01-22-33-00 +0000",
     "source": "wsj",
     "headline": "President Trump fired the top Bureau of Labor Statistics official after the government published new data showing that U.S. hiring slowed sharply this summer",
     "link": "https://www.wsj.com/politics/policy/trump-orders-firing-of-bureau-of-labor-statistics-chief-d8eaa272"
   },
   {
-    "score": 65,
-    "pubdate": "2025-08-01-22-27-28 +0000",
-    "source": "nypost",
-    "headline": "Trump admin fires back at claims Clinton plan to ‘smear’ prez with Russia ties was disinfo: ‘No one is buying your bulls–t anymore’",
-    "link": "https://nypost.com/2025/08/01/us-news/trump-admin-fires-back-at-claims-clinton-plan-to-smear-prez-with-russia-ties-was-disinfo-no-one-is-buying-your-bulls-t-anymore/"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-08-02-09-01-48 +0000",
-    "source": "nyt",
-    "headline": "Will Trump’s Tariffs Close Income Gaps and Bring Factory Jobs Back to the U.S.? Probably Not.",
-    "link": "https://www.nytimes.com/2025/08/02/business/economy/trump-tariffs-income-inequality.html"
+    "score": 64,
+    "pubdate": "2025-08-01-21-26-41 +0000",
+    "source": "latimes",
+    "headline": "A raging Trump digs in on his trade war, fires official after brutal jobs report",
+    "link": "https://www.latimes.com/world-nation/story/2025-08-01/white-house-digs-in-on-trade-war-after-brutal-jobs-report"
   },
   {
     "score": 58,
@@ -28,45 +21,52 @@
     "link": "https://www.wsj.com/politics/policy/epstein-associate-ghislaine-maxwell-transferred-to-lower-security-prison-facility-dbddca30"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2025-08-02-15-17-07 +0000",
     "source": "bbc",
     "headline": "Police find getaway car of army veteran suspected of deadly Montana bar shooting",
     "link": "https://www.bbc.com/news/articles/c4gz9ep0wnno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 53,
+    "pubdate": "2025-08-01-22-27-28 +0000",
+    "source": "nypost",
+    "headline": "Trump admin fires back at claims Clinton plan to ‘smear’ prez with Russia ties was disinfo: ‘No one is buying your bulls–t anymore’",
+    "link": "https://nypost.com/2025/08/01/us-news/trump-admin-fires-back-at-claims-clinton-plan-to-smear-prez-with-russia-ties-was-disinfo-no-one-is-buying-your-bulls-t-anymore/"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-08-01-17-58-15 +0000",
     "source": "nypost",
     "headline": "Anti-Israel NYC Councilwoman Tiffany Caban, dozens of protesters swarm Chuck Schumer, Kirsten Gillibrand’s NYC offices to ‘let Gaza live’",
     "link": "https://nypost.com/2025/08/01/us-news/protesters-swarm-chuck-schumer-kirsten-gillibrands-nyc-offices-to-let-gaza-live/"
   },
   {
-    "score": 53,
+    "score": 50,
+    "pubdate": "2025-08-01-18-48-42 +0000",
+    "source": "nypost",
+    "headline": "Elon Musk’s Tesla ordered to pay $243M in deadly Autopilot crash case: ‘This will open the floodgates’",
+    "link": "https://nypost.com/2025/08/01/business/elon-musks-tesla-ordered-to-pay-329m-in-autopilot-crash-case/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-08-02-14-50-09 +0000",
+    "source": "bbc",
+    "headline": "Trump fires lead official on economic data as tariffs cause market drop",
+    "link": "https://www.bbc.com/news/articles/cvg3xrrzdr0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-08-01-21-35-52 +0000",
     "source": "bbc",
     "headline": "Trump moves nuclear submarines after Russian ex-president's comments",
     "link": "https://www.bbc.com/news/articles/c93dgr2dd53o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 48,
-    "pubdate": "2025-08-02-10-00-07 +0000",
-    "source": "nyt",
-    "headline": "What Do Trump’s Tariff Hikes Mean for Canada’s Trade-Dependent Economy?",
-    "link": "https://www.nytimes.com/2025/08/02/world/canada/what-do-trumps-tariff-hikes-mean-for-canadas-trade-dependent-economy.html"
-  },
-  {
-    "score": 48,
+    "score": 46,
     "pubdate": "2025-08-01-21-57-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is blocking funding for a swath of public health programs run by the CDC, the latest flashpoint in a push by the White House to withhold money already approved by Congress",
     "link": "https://www.wsj.com/politics/policy/trump-cdc-funding-freeze-79e7090f"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-08-02-13-58-07 +0000",
-    "source": "nypost",
-    "headline": "Illegal migrant — not deported despite multiple DUI and domestic violence raps — allegedly kills NJ mom, 11-year-old daughter in horrific wrong-way crash",
-    "link": "https://nypost.com/2025/08/02/us-news/allegedly-drunk-illegal-kills-mom-girl-in-nj-head-on-crash-authorities/"
   }
 ]
