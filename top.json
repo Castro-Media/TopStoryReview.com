@@ -1,13 +1,13 @@
 [
   {
-    "score": 134,
+    "score": 128,
     "pubdate": "2025-08-01-22-33-00 +0000",
     "source": "wsj",
     "title": "President Trump fired the top Bureau of Labor Statistics official after the government published new data showing that U.S. hiring slowed sharply this summer",
     "link": "https://www.wsj.com/politics/policy/trump-orders-firing-of-bureau-of-labor-statistics-chief-d8eaa272"
   },
   {
-    "score": 54,
+    "score": 52,
     "pubdate": "2025-08-01-22-27-28 +0000",
     "source": "nypost",
     "title": "Trump admin fires back at claims Clinton plan to &#8216;smear&#8217; prez with Russia ties was disinfo: &#8216;No one is buying your bulls&#8211;t anymore&#8217;",
@@ -21,25 +21,18 @@
     "link": "https://www.wsj.com/politics/policy/epstein-associate-ghislaine-maxwell-transferred-to-lower-security-prison-facility-dbddca30"
   },
   {
-    "score": 48,
-    "pubdate": "2025-08-02-01-28-00 +0000",
-    "source": "wsj",
-    "title": "After months of mixed signals, official data showed a marked slowdown in economic output and consumer spending, then a jarringly weak jobs report. The path forward is murky",
-    "link": "https://www.wsj.com/economy/the-wild-week-in-the-american-economy-b5baae41"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-02-00-59-00 +0000",
-    "source": "wsj",
-    "title": "The New York Fed&#8217;s John Williams says the labor market remains solid, even after unusually large downward revisions to job gains for May and June",
-    "link": "https://www.wsj.com/economy/central-banking/fed-officials-take-cool-jobs-report-in-stride-c823b3dd"
-  },
-  {
-    "score": 45,
+    "score": 46,
     "pubdate": "2025-08-01-21-57-00 +0000",
     "source": "wsj",
     "title": "The Trump administration is blocking funding for a swath of public health programs run by the CDC, the latest flashpoint in a push by the White House to withhold money already approved by Congress",
     "link": "https://www.wsj.com/politics/policy/trump-cdc-funding-freeze-79e7090f"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-08-02-01-28-00 +0000",
+    "source": "wsj",
+    "title": "After months of mixed signals, official data showed a marked slowdown in economic output and consumer spending, then a jarringly weak jobs report. The path forward is murky",
+    "link": "https://www.wsj.com/economy/the-wild-week-in-the-american-economy-b5baae41"
   },
   {
     "score": 43,
@@ -49,11 +42,18 @@
     "link": "https://www.cbc.ca/news/politics/reaction-trump-tariffs-canada-deadline-1.7599650?cmp=rss"
   },
   {
-    "score": 42,
-    "pubdate": "2025-08-01-17-58-15 +0000",
+    "score": 43,
+    "pubdate": "2025-08-02-13-58-07 +0000",
     "source": "nypost",
-    "title": "Anti-Israel NYC Councilwoman Tiffany Caban, dozens of protesters swarm Chuck Schumer, Kirsten Gillibrand&#8217;s NYC offices to &#8216;let Gaza live&#8217;",
-    "link": "https://nypost.com/2025/08/01/us-news/protesters-swarm-chuck-schumer-kirsten-gillibrands-nyc-offices-to-let-gaza-live/"
+    "title": "Illegal migrant &#8212; not deported despite multiple DUI and domestic violence raps &#8212; allegedly kills NJ mom, 11-year-old daughter in horrific wrong-way crash",
+    "link": "https://nypost.com/2025/08/02/us-news/allegedly-drunk-illegal-kills-mom-girl-in-nj-head-on-crash-authorities/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-08-02-00-59-00 +0000",
+    "source": "wsj",
+    "title": "The New York Fed&#8217;s John Williams says the labor market remains solid, even after unusually large downward revisions to job gains for May and June",
+    "link": "https://www.wsj.com/economy/central-banking/fed-officials-take-cool-jobs-report-in-stride-c823b3dd"
   },
   {
     "score": 41,
@@ -64,9 +64,9 @@
   },
   {
     "score": 40,
-    "pubdate": "2025-08-01-18-48-42 +0000",
+    "pubdate": "2025-08-01-17-58-15 +0000",
     "source": "nypost",
-    "title": "Elon Musk&#8217;s Tesla ordered to pay $243M in deadly Autopilot crash case: &#8216;This will open the floodgates&#8217;",
-    "link": "https://nypost.com/2025/08/01/business/elon-musks-tesla-ordered-to-pay-329m-in-autopilot-crash-case/"
+    "title": "Anti-Israel NYC Councilwoman Tiffany Caban, dozens of protesters swarm Chuck Schumer, Kirsten Gillibrand&#8217;s NYC offices to &#8216;let Gaza live&#8217;",
+    "link": "https://nypost.com/2025/08/01/us-news/protesters-swarm-chuck-schumer-kirsten-gillibrands-nyc-offices-to-let-gaza-live/"
   }
 ]

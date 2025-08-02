@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 34,
+    "pubdate": "2025-08-02-14-50-09 +0000",
+    "source": "bbc",
+    "headline": "Trump fires lead official on economic data as tariffs cause market drop",
+    "link": "https://www.bbc.com/news/articles/cvg3xrrzdr0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-08-02-14-17-36 +0000",
+    "source": "nyt",
+    "headline": "India Will Buy Russian Oil Despite Trump’s Threats, Officials Say",
+    "link": "https://www.nytimes.com/2025/08/02/world/asia/india-russia-oil-trump-threats.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-08-02-14-03-11 +0000",
+    "source": "nyt",
+    "headline": "Mike Huckabee, Israel’s Passionate Defender as Gaza War Drives Allies Away",
+    "link": "https://www.nytimes.com/2025/08/02/world/middleeast/israel-huckabee.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-08-02-13-58-07 +0000",
+    "source": "nypost",
+    "headline": "Illegal migrant — not deported despite multiple DUI and domestic violence raps — allegedly kills NJ mom, 11-year-old daughter in horrific wrong-way crash",
+    "link": "https://nypost.com/2025/08/02/us-news/allegedly-drunk-illegal-kills-mom-girl-in-nj-head-on-crash-authorities/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-02-14-04-27 +0000",
+    "source": "nyt",
+    "headline": "Protesters in Thailand Denounce Prime Minister After Clashes With Cambodia",
+    "link": "https://www.nytimes.com/2025/08/02/world/asia/thailand-protest-leader-cambodia-shinawatra.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-02-14-43-56 +0000",
+    "source": "nyt",
+    "headline": "U.S. Victims of Hamas and Hezbollah Attacks Sue UNRWA",
+    "link": "https://www.nytimes.com/2025/08/02/world/middleeast/unrwa-hamas-hezbollah-lawsuit.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-02-14-07-39 +0000",
+    "source": "wapo",
+    "headline": "Montana bar shooting leaves 4 dead as authorities search for suspect",
+    "link": "https://www.washingtonpost.com/nation/2025/08/01/montana-shooting-anaconda-bar-suspect/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-08-02-14-15-59 +0000",
+    "source": "nypost",
+    "headline": "NYPD officer hospitalized after early morning NYC hit-and-run, suspect on the lam",
+    "link": "https://nypost.com/2025/08/02/us-news/nypd-cop-hospitalized-in-nyc-hit-and-run-suspect-on-the-lam/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-08-02-14-39-04 +0000",
+    "source": "wapo",
+    "headline": "A convicted priest is back at work. Child advocates want Pope Leo to act.",
+    "link": "https://www.washingtonpost.com/world/2025/07/31/pope-leo-priest-convicted-vatican/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-08-02-14-51-13 +0000",
+    "source": "nyt",
+    "headline": "Texas State House Panel Advances Gerrymandered Congressional Map",
+    "link": "https://www.nytimes.com/2025/08/02/us/politics/texas-redistricting.html"
+  }
+]
