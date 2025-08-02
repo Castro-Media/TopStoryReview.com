@@ -1,6 +1,6 @@
 [
   {
-    "score": 225,
+    "score": 227,
     "pubdate": "2025-08-01-22-33-00 +0000",
     "source": "wsj",
     "headline": "President Trump fired the top Bureau of Labor Statistics official after the government published new data showing that U.S. hiring slowed sharply this summer",
@@ -14,21 +14,21 @@
     "link": "https://nypost.com/2025/08/01/us-news/trump-admin-fires-back-at-claims-clinton-plan-to-smear-prez-with-russia-ties-was-disinfo-no-one-is-buying-your-bulls-t-anymore/"
   },
   {
-    "score": 79,
+    "score": 74,
     "pubdate": "2025-08-01-15-34-42 +0000",
     "source": "nypost",
     "headline": "Dow drops over 500 points as Trump tariffs, jobs report spook Wall Street",
     "link": "https://nypost.com/2025/08/01/business/dow-drops-600-points-as-trump-tariffs-jobs-report-spook-wall-street/"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2025-08-01-20-59-00 +0000",
     "source": "wsj",
     "headline": "Ghislaine Maxwell, the former associate of convicted sex offender Jeffrey Epstein, has been transferred from a federal prison in Florida to a lower-security facility in Texas to serve her sentence",
     "link": "https://www.wsj.com/politics/policy/epstein-associate-ghislaine-maxwell-transferred-to-lower-security-prison-facility-dbddca30"
   },
   {
-    "score": 64,
+    "score": 65,
     "pubdate": "2025-08-01-13-39-18 +0000",
     "source": "nypost",
     "headline": "Palestinians cheer Trump special envoy Witkoff at Gaza aid site as crisis fears grow",
@@ -43,13 +43,6 @@
   },
   {
     "score": 59,
-    "pubdate": "2025-08-02-01-07-43 +0000",
-    "source": "nypost",
-    "headline": "Biden allies will unload ‘Palinesque’ stories about Kamala Harris’ failings if ex-veep discusses his cognitive decline: report",
-    "link": "https://nypost.com/2025/08/01/us-news/biden-people-prepared-to-unload-palinesque-stories-about-kamala-harris-if-she-discusses-his-cognitive-decline-report/"
-  },
-  {
-    "score": 59,
     "pubdate": "2025-08-02-00-59-00 +0000",
     "source": "wsj",
     "headline": "The New York Fed’s John Williams says the labor market remains solid, even after unusually large downward revisions to job gains for May and June",
@@ -57,16 +50,23 @@
   },
   {
     "score": 59,
-    "pubdate": "2025-08-01-21-57-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration is blocking funding for a swath of public health programs run by the CDC, the latest flashpoint in a push by the White House to withhold money already approved by Congress",
-    "link": "https://www.wsj.com/politics/policy/trump-cdc-funding-freeze-79e7090f"
+    "pubdate": "2025-08-02-01-07-43 +0000",
+    "source": "nypost",
+    "headline": "Biden allies will unload ‘Palinesque’ stories about Kamala Harris’ failings if ex-veep discusses his cognitive decline: report",
+    "link": "https://nypost.com/2025/08/01/us-news/biden-people-prepared-to-unload-palinesque-stories-about-kamala-harris-if-she-discusses-his-cognitive-decline-report/"
   },
   {
-    "score": 52,
+    "score": 56,
     "pubdate": "2025-08-01-16-49-02 +0000",
     "source": "nypost",
     "headline": "Trump reveals ‘almost 20,000 Russian soldiers died’ in July during Ukraine war",
     "link": "https://nypost.com/2025/08/01/us-news/trump-says-almost-20000-russian-soldiers-died-in-july-alone-in-war-with-ukraine/"
+  },
+  {
+    "score": 56,
+    "pubdate": "2025-08-01-21-57-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is blocking funding for a swath of public health programs run by the CDC, the latest flashpoint in a push by the White House to withhold money already approved by Congress",
+    "link": "https://www.wsj.com/politics/policy/trump-cdc-funding-freeze-79e7090f"
   }
 ]
