@@ -29,10 +29,17 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-08-02-09-01-48 +0000",
-    "source": "nyt",
-    "headline": "Will Trump’s Tariffs Close Income Gaps and Bring Factory Jobs Back to the U.S.? Probably Not.",
-    "link": "https://www.nytimes.com/2025/08/02/business/economy/trump-tariffs-income-inequality.html"
+    "pubdate": "2025-08-02-14-50-09 +0000",
+    "source": "bbc",
+    "headline": "Trump fires lead official on economic data as tariffs cause market drop",
+    "link": "https://www.bbc.com/news/articles/cvg3xrrzdr0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-08-03-00-48-00 +0000",
+    "source": "wsj",
+    "headline": "Erika McEntarfer led the Bureau of Labor Statistics through rocky times before President Trump dismissed her after an ugly jobs report",
+    "link": "https://www.wsj.com/politics/policy/the-economist-trump-targeted-over-rigged-jobs-data-47657457"
   },
   {
     "score": 34,
@@ -49,24 +56,17 @@
     "link": "https://nypost.com/2025/08/02/us-news/cincinnati-police-chief-under-scrutiny-for-mass-brawl-was-accused-by-cops-of-anti-white-discrimination-using-race-based-quota-system-suit/"
   },
   {
+    "score": 34,
+    "pubdate": "2025-08-02-14-17-36 +0000",
+    "source": "nyt",
+    "headline": "India Will Buy Russian Oil Despite Trump’s Threats, Officials Say",
+    "link": "https://www.nytimes.com/2025/08/02/world/asia/india-russia-oil-trump-threats.html"
+  },
+  {
     "score": 31,
     "pubdate": "2025-08-02-23-06-56 +0000",
     "source": "bbc",
     "headline": "Melting glaciers threaten to wipe out European villages - is the steep cost to protect them worth it?",
     "link": "https://www.bbc.com/news/articles/cj4w9ggzxv4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 30,
-    "pubdate": "2025-08-02-22-14-58 +0000",
-    "source": "nyt",
-    "headline": "The Law in West Texas Breaks the Law to Protest Weed’s Prohibition",
-    "link": "https://www.nytimes.com/2025/08/02/us/politics/marijuana-texas.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2025-08-03-01-04-42 +0000",
-    "source": "nypost",
-    "headline": "Virginia city Councilman Lee Vogler faces ‘long, painful and uncertain recovery’ after being set on fire in sadistic attack",
-    "link": "https://nypost.com/2025/08/02/us-news/virginia-city-councilman-lee-vogler-faces-long-painful-and-uncertain-recovery-after-being-set-on-fire-in-sadistic-attack/"
   }
 ]
