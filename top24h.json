@@ -7,53 +7,39 @@
     "link": "https://nypost.com/2025/08/03/us-news/trump-rips-lara-trump-guest-charlamagne-tha-god-after-epstein-claim/"
   },
   {
-    "score": 61,
+    "score": 59,
     "pubdate": "2025-08-03-10-34-36 +0000",
     "source": "nypost",
     "headline": "Ukrainian drone attack sparks massive fire at Russian oil depot near Sochi",
     "link": "https://nypost.com/2025/08/03/world-news/ukrainian-drone-attack-sparks-massive-fire-at-russian-oil-depot-near-sochi/"
   },
   {
-    "score": 60,
+    "score": 58,
     "pubdate": "2025-08-04-00-50-00 +0000",
     "source": "wsj",
     "headline": "A chief White House economic adviser said that Trump wants allies placed in the Bureau of Labor Statistics after the agency published a dismal jobs report and the president fired its commissioner",
     "link": "https://www.wsj.com/economy/jobs/trump-seeks-bigger-overhaul-at-labor-statistics-bureau-adviser-says-dc109bac"
   },
   {
-    "score": 56,
+    "score": 53,
     "pubdate": "2025-08-04-06-34-17 +0000",
     "source": "bbc",
     "headline": "Boeing defence workers go on strike in new blow to aviation giant",
     "link": "https://www.bbc.com/news/articles/c4gze2medkdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
+    "score": 48,
     "pubdate": "2025-08-03-21-38-58 +0000",
     "source": "nyt",
     "headline": "U.S. and Israeli Officials Float Idea of ‘All or Nothing’ Gaza Deal",
     "link": "https://www.nytimes.com/2025/08/03/world/middleeast/israel-gaza-hamas-ceasefire.html"
   },
   {
-    "score": 45,
+    "score": 41,
     "pubdate": "2025-08-03-23-36-00 +0000",
     "source": "wsj",
     "headline": "The cost of the border wall has ballooned since President Trump’s first term when he said it would cost $8 billion and Mexico would pay for it. Congress recently allocated $46 billion for it",
     "link": "https://www.wsj.com/politics/policy/trump-border-wall-texas-eminent-domain-b9f048c3"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-08-03-18-17-00 +0000",
-    "source": "cbc",
-    "headline": "Krasheninnikov volcano in Russia's Far East erupts for 1st time in centuries",
-    "link": "https://www.cbc.ca/news/world/kamchatka-peninsula-russia-krasheninnikov-volcano-eruption-1.7600702?cmp=rss"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-08-03-23-15-57 +0000",
-    "source": "bbc",
-    "headline": "Democrats flee Texas to block Republican redistricting map backed by Trump",
-    "link": "https://www.bbc.com/news/articles/cz601p6jv8vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -63,10 +49,24 @@
     "link": "https://www.nytimes.com/2025/08/03/us/miami-beach-sailboat-crash-child-dead.html"
   },
   {
+    "score": 37,
+    "pubdate": "2025-08-03-18-17-00 +0000",
+    "source": "cbc",
+    "headline": "Krasheninnikov volcano in Russia's Far East erupts for 1st time in centuries",
+    "link": "https://www.cbc.ca/news/world/kamchatka-peninsula-russia-krasheninnikov-volcano-eruption-1.7600702?cmp=rss"
+  },
+  {
     "score": 36,
     "pubdate": "2025-08-04-07-52-50 +0000",
     "source": "nypost",
     "headline": "Hamas says it will allow aid for hostages if Israel halts airstrikes, opens permanent humanitarian corridors",
     "link": "https://nypost.com/2025/08/04/world-news/hamas-says-it-will-allow-aid-for-hostages-if-israel-halts-airstrikes-opens-permanent-humanitarian-corridors/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-08-03-23-15-57 +0000",
+    "source": "bbc",
+    "headline": "Democrats flee Texas to block Republican redistricting map backed by Trump",
+    "link": "https://www.bbc.com/news/articles/cz601p6jv8vo?at_medium=RSS&at_campaign=rss"
   }
 ]
