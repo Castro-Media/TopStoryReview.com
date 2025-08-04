@@ -1,17 +1,24 @@
 [
   {
-    "score": 101,
+    "score": 117,
     "pubdate": "2025-08-03-23-36-00 +0000",
     "source": "wsj",
     "headline": "The cost of the border wall has ballooned since President Trump’s first term when he said it would cost $8 billion and Mexico would pay for it. Congress recently allocated $46 billion for it",
     "link": "https://www.wsj.com/politics/policy/trump-border-wall-texas-eminent-domain-b9f048c3"
   },
   {
-    "score": 65,
-    "pubdate": "2025-08-04-13-31-30 +0000",
+    "score": 69,
+    "pubdate": "2025-08-03-23-15-40 +0000",
+    "source": "bbc",
+    "headline": "Hackers, secret cables and security fears: The explosive fight over China's new embassy in the UK",
+    "link": "https://www.bbc.com/news/articles/c3v3rygdrryo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-08-04-11-07-32 +0000",
     "source": "nypost",
-    "headline": "Vivek Ramaswamy warns Mamdani win will be ‘wake-up’ call for New Yorkers — and rest of the country",
-    "link": "https://nypost.com/2025/08/04/us-news/vivek-ramaswamy-warns-mamdani-win-will-be-wake-up-call-for-new-yorkers-and-rest-of-the-country/"
+    "headline": "Firebrand Rep. Nancy Mace launches campaign for South Carolina governor: ‘God’s not done with South Carolina and neither am I’",
+    "link": "https://nypost.com/2025/08/04/us-news/nancy-mace-launches-campaign-for-south-carolina-governor/"
   },
   {
     "score": 59,
@@ -21,11 +28,18 @@
     "link": "https://www.nytimes.com/2025/08/03/world/middleeast/israel-gaza-hamas-ceasefire.html"
   },
   {
-    "score": 48,
-    "pubdate": "2025-08-04-14-38-25 +0000",
+    "score": 51,
+    "pubdate": "2025-08-04-06-23-04 +0000",
+    "source": "bbc",
+    "headline": "Dozens of Ethiopian migrants feared dead as boat capsizes off Yemen",
+    "link": "https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-08-04-16-49-10 +0000",
     "source": "nyt",
-    "headline": "More than 140 African Migrants Feared Dead In Boat Disaster Near Yemen",
-    "link": "https://www.nytimes.com/2025/08/04/world/middleeast/yemen-migrant-boat-capsized.html"
+    "headline": "Trump’s Demand to Trading Partners: Pledge Money or Get Higher Tariffs",
+    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-tariffs-foreign-investment.html"
   },
   {
     "score": 45,
@@ -35,38 +49,24 @@
     "link": "https://nypost.com/2025/08/04/us-news/ex-tennessee-coach-derek-dooley-jumps-into-georgia-senate-race-against-jon-ossoff/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-08-04-00-50-00 +0000",
-    "source": "wsj",
-    "headline": "A chief White House economic adviser said that Trump wants allies placed in the Bureau of Labor Statistics after the agency published a dismal jobs report and the president fired its commissioner",
-    "link": "https://www.wsj.com/economy/jobs/trump-seeks-bigger-overhaul-at-labor-statistics-bureau-adviser-says-dc109bac"
+    "score": 39,
+    "pubdate": "2025-08-04-16-49-26 +0000",
+    "source": "nyt",
+    "headline": "Russian Nuclear Submarine Base Was Damaged in Earthquake, Satellite Images Show",
+    "link": "https://www.nytimes.com/2025/08/04/world/europe/russia-earthquake-nuclear-submarine-damage.html"
   },
   {
     "score": 38,
-    "pubdate": "2025-08-03-22-56-15 +0000",
+    "pubdate": "2025-08-04-12-05-40 +0000",
+    "source": "bbc",
+    "headline": "Watch: Florida police officer removes alligator from family's pool with bare hands",
+    "link": "https://www.bbc.com/news/videos/c0mlwp783r0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-08-04-13-31-30 +0000",
     "source": "nypost",
-    "headline": "Boeing St. Louis defense workers set to strike after rejecting latest offer",
-    "link": "https://nypost.com/2025/08/03/business/boeing-st-louis-defense-workers-set-to-strike-after-rejecting-latest-offer/"
-  },
-  {
-    "score": 36,
-    "pubdate": "2025-08-03-23-15-40 +0000",
-    "source": "bbc",
-    "headline": "Hackers, secret cables and security fears: The explosive fight over China's new embassy in the UK",
-    "link": "https://www.bbc.com/news/articles/c3v3rygdrryo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-08-04-14-19-20 +0000",
-    "source": "bbc",
-    "headline": "Tesla awards boss Elon Musk $29bn in shares",
-    "link": "https://www.bbc.com/news/articles/cz71vn1v3n4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-08-03-21-13-37 +0000",
-    "source": "nyt",
-    "headline": "Third Child in Sailing Camp Dies After Barge Hit Boat Off Miami Beach",
-    "link": "https://www.nytimes.com/2025/08/03/us/miami-beach-sailboat-crash-child-dead.html"
+    "headline": "Vivek Ramaswamy warns Mamdani win will be ‘wake-up’ call for New Yorkers — and rest of the country",
+    "link": "https://nypost.com/2025/08/04/us-news/vivek-ramaswamy-warns-mamdani-win-will-be-wake-up-call-for-new-yorkers-and-rest-of-the-country/"
   }
 ]
