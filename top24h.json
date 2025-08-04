@@ -29,24 +29,24 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-08-04-00-31-56 +0000",
-    "source": "nypost",
-    "headline": "Russian volcano erupts for first time in centuries after massive earthquake strikes Kamchatka Peninsula",
-    "link": "https://nypost.com/2025/08/03/world-news/russian-volcano-erupts-for-first-time-in-centuries-after-earthquake/"
+    "pubdate": "2025-08-03-23-36-00 +0000",
+    "source": "wsj",
+    "headline": "The cost of the border wall has ballooned since President Trump’s first term when he said it would cost $8 billion and Mexico would pay for it. Congress recently allocated $46 billion for it",
+    "link": "https://www.wsj.com/politics/policy/trump-border-wall-texas-eminent-domain-b9f048c3"
   },
   {
     "score": 40,
+    "pubdate": "2025-08-04-10-00-57 +0000",
+    "source": "wapo",
+    "headline": "Locals beg for Putin’s help as Russian-occupied Ukraine runs out of water",
+    "link": "https://www.washingtonpost.com/world/2025/08/04/ukraine-donetsk-water-shortage-putin/"
+  },
+  {
+    "score": 39,
     "pubdate": "2025-08-03-22-56-15 +0000",
     "source": "nypost",
     "headline": "Boeing St. Louis defense workers set to strike after rejecting latest offer",
     "link": "https://nypost.com/2025/08/03/business/boeing-st-louis-defense-workers-set-to-strike-after-rejecting-latest-offer/"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-08-03-14-25-47 +0000",
-    "source": "bbc",
-    "headline": "Ukraine drone attack causes fire at Sochi oil depot, Russia says",
-    "link": "https://www.bbc.com/news/articles/ckglyv396ppo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.com/news/articles/cz601p6jv8vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
-    "pubdate": "2025-08-03-23-36-00 +0000",
-    "source": "wsj",
-    "headline": "The cost of the border wall has ballooned since President Trump’s first term when he said it would cost $8 billion and Mexico would pay for it. Congress recently allocated $46 billion for it",
-    "link": "https://www.wsj.com/politics/policy/trump-border-wall-texas-eminent-domain-b9f048c3"
+    "score": 35,
+    "pubdate": "2025-08-04-04-30-06 +0000",
+    "source": "nyt",
+    "headline": "Monday Briefing: An ‘All or Nothing’ Gaza Deal",
+    "link": "https://www.nytimes.com/2025/08/04/briefing/gaza-trump-tariffs-lesotho-putin-russia-censorship.html"
   }
 ]
