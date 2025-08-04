@@ -1,24 +1,17 @@
 [
   {
-    "score": 133,
+    "score": 130,
     "pubdate": "2025-08-03-23-36-00 +0000",
     "source": "wsj",
     "headline": "The cost of the border wall has ballooned since President Trump’s first term when he said it would cost $8 billion and Mexico would pay for it. Congress recently allocated $46 billion for it",
     "link": "https://www.wsj.com/politics/policy/trump-border-wall-texas-eminent-domain-b9f048c3"
   },
   {
-    "score": 75,
+    "score": 73,
     "pubdate": "2025-08-04-09-03-26 +0000",
     "source": "nyt",
     "headline": "Texas Redistricting Fight Prompts Democratic Group to Call on Blue States for New Maps",
     "link": "https://www.nytimes.com/2025/08/04/us/politics/democrats-redistricting.html"
-  },
-  {
-    "score": 69,
-    "pubdate": "2025-08-03-21-38-58 +0000",
-    "source": "nyt",
-    "headline": "U.S. and Israeli Officials Float Idea of ‘All or Nothing’ Gaza Deal",
-    "link": "https://www.nytimes.com/2025/08/03/world/middleeast/israel-gaza-hamas-ceasefire.html"
   },
   {
     "score": 62,
@@ -40,6 +33,13 @@
     "source": "nyt",
     "headline": "More than 140 African Migrants Feared Dead In Boat Disaster Near Yemen",
     "link": "https://www.nytimes.com/2025/08/04/world/middleeast/yemen-migrant-boat-capsized.html"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-08-04-13-01-22 +0000",
+    "source": "bbc",
+    "headline": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war",
+    "link": "https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 50,
