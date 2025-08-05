@@ -1,30 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2025-08-05-14-53-00 +0000",
+    "score": 37,
+    "pubdate": "2025-08-05-16-22-40 +0000",
+    "source": "nypost",
+    "headline": "Trump walks along White House roof, jokes he’s ready to install ‘nuclear missiles’ there",
+    "link": "https://nypost.com/2025/08/05/us-news/trump-walks-on-white-house-roof-jokes-hell-install-nuclear-missiles/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-08-05-16-37-47 +0000",
+    "source": "nypost",
+    "headline": "Tulsi Gabbard tells ‘Pod Force One’ about life on TSA watchlist: ‘Makes zero sense whatsoever’",
+    "link": "https://nypost.com/2025/08/05/us-news/tulsi-gabbard-tells-pod-force-one-about-life-on-tsa-watchlist-makes-zero-sense-whatsoever/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-08-05-16-47-54 +0000",
+    "source": "nypost",
+    "headline": "Young adults are less likely to follow politics or say voting is important, new AP poll shows",
+    "link": "https://nypost.com/2025/08/05/us-news/young-adults-are-less-likely-to-follow-politics-or-say-voting-is-important-new-ap-poll-shows/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-08-05-16-34-00 +0000",
     "source": "wsj",
-    "headline": "A group of Democratic congressmen is set to introduce a bill that aims to make it more difficult for the president to fire the head of a statistics agency",
-    "link": "https://www.wsj.com/politics/policy/democratic-congressmen-to-propose-bill-to-protect-stats-agency-chiefs-51915619"
+    "headline": "The Swiss president is heading to the U.S. in a last-ditch effort to head off punishing tariffs that threaten to cripple key sectors of the country’s economy",
+    "link": "https://www.wsj.com/economy/trade/swiss-president-dashes-to-washington-to-avert-crippling-trump-tariffs-a2f2f2a0"
   },
   {
-    "score": 11,
-    "pubdate": "2025-08-05-14-53-10 +0000",
+    "score": 22,
+    "pubdate": "2025-08-05-16-40-01 +0000",
+    "source": "startribune",
+    "headline": "House committee issues subpoenas for Epstein files and depositions with the Clintons",
+    "link": "https://www.startribune.com/house-committee-issues-subpoenas-for-epstein-files-depositions-with-clintons-and-other-officials/601449722"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-08-05-16-53-34 +0000",
     "source": "nypost",
-    "headline": "Speed driver Chris Raschke dies attempting to set record at Utah’s Bonneville Salt Flats",
-    "link": "https://nypost.com/2025/08/05/us-news/speed-driver-chris-raschke-dies-at-utahs-bonneville-salt-flats/"
+    "headline": "Former X CEO Linda Yaccarino lands new gig at digital health firm focused on weight loss drugs",
+    "link": "https://nypost.com/2025/08/05/business/former-x-ceo-linda-yaccarino-lands-new-gig-at-digital-health-firm-focused-on-weight-loss-drugs/"
   },
   {
-    "score": 9,
-    "pubdate": "2025-08-05-14-53-10 +0000",
-    "source": "nypost",
-    "headline": "NJ hiker missing for more than a week in Arizona national park where ‘mega-fire’ is raging",
-    "link": "https://nypost.com/2025/08/05/us-news/nj-hiker-missing-for-more-than-a-week-in-arizona-national-park-where-mega-fire-is-raging/"
+    "score": 20,
+    "pubdate": "2025-08-05-16-15-00 +0000",
+    "source": "wsj",
+    "headline": "The way Illinois draws political district boundaries has been criticized by good government groups for decades, with districts that are often nowhere close to compact or contiguous",
+    "link": "https://www.wsj.com/politics/policy/pritzkers-illinois-temporary-home-to-texas-democrats-is-gerrymandering-hot-spot-1c00cbd0"
   },
   {
-    "score": 5,
-    "pubdate": "2025-08-05-14-55-27 +0000",
-    "source": "wapo",
-    "headline": "13 House Democrats to call on Trump to recognize a Palestinian state",
-    "link": "https://www.washingtonpost.com/politics/2025/08/05/house-democrats-palestine-statehood-letter/"
+    "score": 16,
+    "pubdate": "2025-08-05-16-25-52 +0000",
+    "source": "nyt",
+    "headline": "U.S. Imports Slid in June on Higher Tariffs",
+    "link": "https://www.nytimes.com/2025/08/05/business/economy/imports-data-trump-tariffs.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-05-15-59-12 +0000",
+    "source": "nyt",
+    "headline": "Mike Flood Heckled at Town Hall Over Trump’s Domestic Policy Bill",
+    "link": "https://www.nytimes.com/2025/08/05/us/politics/mike-flood-town-hall.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-05-16-13-23 +0000",
+    "source": "nyt",
+    "headline": "UN Security Council to Discuss Israel-Gaza War and Hostages",
+    "link": "https://www.nytimes.com/2025/08/05/world/middleeast/un-israel-gaza-war-hostages.html"
   }
 ]
