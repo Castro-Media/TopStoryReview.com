@@ -1,31 +1,24 @@
 [
   {
-    "score": 167,
+    "score": 170,
     "pubdate": "2025-08-04-22-54-00 +0000",
     "source": "wsj",
     "headline": "Democratic lawmakers blocked the Texas House from meeting Monday, preventing Republicans from moving ahead with a new congressional map requested by President Trump",
     "link": "https://www.wsj.com/politics/policy/republican-democrats-redistricting-plans-c9130078"
   },
   {
-    "score": 70,
-    "pubdate": "2025-08-04-22-16-12 +0000",
-    "source": "wapo",
-    "headline": "Netanyahu fires attorney general as domestic pressure over Gaza heats up",
-    "link": "https://www.washingtonpost.com/world/2025/08/04/gaza-war-netanyahu-pressure/"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-08-04-21-48-14 +0000",
-    "source": "nypost",
-    "headline": "Brazil’s Supreme Court orders house arrest for ex-President Jair Bolsonaro as he faces trial",
-    "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
-  },
-  {
-    "score": 64,
+    "score": 73,
     "pubdate": "2025-08-04-19-28-34 +0000",
     "source": "nyt",
     "headline": "India says additional U.S. tariffs over Russian oil purchases are ‘unjustified and unreasonable.’",
     "link": "https://www.nytimes.com/live/2025/08/04/us/trump-news/india-signals-no-intention-of-pulling-back-on-russian-oil-despite-us-pressure"
+  },
+  {
+    "score": 72,
+    "pubdate": "2025-08-05-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "NY POSTcast Daily Debrief: Israel’s new plan for Gaza, Russiagate grand jury probe, deputy doesn’t get ‘action’",
+    "link": "https://nypost.com/2025/08/05/us-news/ny-postcast-daily-debrief-august-5-2025/"
   },
   {
     "score": 61,
@@ -35,6 +28,20 @@
     "link": "https://www.latimes.com/california/story/2025-08-04/wealthy-first-time-candidate-cloobeck-drops-nearly-1-million-on-tv-ads-in-the-governors-race"
   },
   {
+    "score": 60,
+    "pubdate": "2025-08-04-21-48-14 +0000",
+    "source": "nypost",
+    "headline": "Brazil’s Supreme Court orders house arrest for ex-President Jair Bolsonaro as he faces trial",
+    "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-08-04-21-04-00 +0000",
+    "source": "wsj",
+    "headline": "The State Department may require travelers entering the U.S. from certain countries to post a bond of up to $15,000, a move aimed at deterring foreigners from overstaying their visas",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-to-require-bonds-of-up-to-15-000-for-travelers-to-enter-the-u-s-9f778f7e"
+  },
+  {
     "score": 57,
     "pubdate": "2025-08-05-07-21-10 +0000",
     "source": "nypost",
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2025/08/05/us-news/fleeing-texas-dems-side-with-newsom-as-redistricting-standoff-continues/"
   },
   {
-    "score": 57,
-    "pubdate": "2025-08-05-01-35-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s firing of the top Bureau of Labor Statistics official is rattling Wall Street’s reliance on government data, as some fear a decline in the world-leading economic statistics",
-    "link": "https://www.wsj.com/finance/investing/trump-bls-firing-jobs-data-wall-street-0800b24d"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-04-15-16-00 +0000",
-    "source": "wsj",
-    "headline": "Elon Musk Gets $23.7 Billion Stock Award From Tesla to Stay Focused",
-    "link": "https://www.wsj.com/business/autos/tesla-approves-ceo-musk-pay-package-7c75a7bf?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 47,
-    "pubdate": "2025-08-04-23-22-06 +0000",
-    "source": "bbc",
-    "headline": "Putin and Trump's relationship has soured - but behind the posturing, a Ukraine deal is still possible",
-    "link": "https://www.bbc.com/news/articles/cj4wn1j7w1jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 46,
     "pubdate": "2025-08-05-12-25-34 +0000",
     "source": "nypost",
     "headline": "7-year-old girl survivor in deadly Miami boat crash was trapped underneath 60-foot barge that struck them",
     "link": "https://nypost.com/2025/08/05/us-news/7-year-old-girl-injured-in-deadly-miami-boat-crash-was-trapped-under-a-barge-before-swimming-to-safety-profoundly-traumatic/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-08-05-13-27-37 +0000",
+    "source": "nypost",
+    "headline": "Jeffrey Epstein’s NYC den of depravity: Hidden cameras, a first edition ‘Lolita,’ and a curious $1 bill signed by Bill Gates",
+    "link": "https://nypost.com/2025/08/05/us-news/jeffrey-epsteins-nyc-den-of-depravity-hidden-cameras-a-first-edition-lolita-and-1-bill-signed-by-bill-gates/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-08-04-19-22-10 +0000",
+    "source": "nypost",
+    "headline": "Russia backs off Medvedev rhetoric after Trump orders nuke subs closer to Moscow: ‘Everyone should be extremely careful’",
+    "link": "https://nypost.com/2025/08/04/us-news/russia-backs-off-medvedev-rhetoric-after-trump-says-he-ordered-nuke-subs-closer-to-moscow/"
   }
 ]

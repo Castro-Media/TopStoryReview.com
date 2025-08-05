@@ -1,38 +1,24 @@
 [
   {
-    "score": 380,
-    "pubdate": "2025-08-01-22-33-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump fired the top Bureau of Labor Statistics official after the government published new data showing that U.S. hiring slowed sharply this summer",
-    "link": "https://www.wsj.com/politics/policy/trump-orders-firing-of-bureau-of-labor-statistics-chief-d8eaa272"
-  },
-  {
-    "score": 164,
-    "pubdate": "2025-07-30-20-19-00 +0000",
-    "source": "wsj",
-    "headline": "Former Vice President Kamala Harris said Wednesday she wouldn’t run for governor of California next year, leaving open the possibility of another presidential bid in 2028",
-    "link": "https://www.wsj.com/politics/elections/kamala-harris-california-governor-election-630b7725"
-  },
-  {
-    "score": 152,
+    "score": 370,
     "pubdate": "2025-08-03-23-36-00 +0000",
     "source": "wsj",
     "headline": "The cost of the border wall has ballooned since President Trump’s first term when he said it would cost $8 billion and Mexico would pay for it. Congress recently allocated $46 billion for it",
     "link": "https://www.wsj.com/politics/policy/trump-border-wall-texas-eminent-domain-b9f048c3"
   },
   {
-    "score": 149,
-    "pubdate": "2025-08-02-18-35-14 +0000",
-    "source": "cbc",
-    "headline": "U.S. has 'very, very good plan' to end war in Gaza, envoy tells hostage families",
-    "link": "https://www.cbc.ca/news/world/us-plan-ceasefire-gaza-israel-hostage-families-1.7600434?cmp=rss"
+    "score": 179,
+    "pubdate": "2025-08-05-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "NY POSTcast Daily Debrief: Israel’s new plan for Gaza, Russiagate grand jury probe, deputy doesn’t get ‘action’",
+    "link": "https://nypost.com/2025/08/05/us-news/ny-postcast-daily-debrief-august-5-2025/"
   },
   {
-    "score": 143,
-    "pubdate": "2025-07-29-19-52-56 +0000",
-    "source": "nyt",
-    "headline": "UK Will Recognize Palestinian Statehood In September, Unless Israel-Hamas Cease-Fire is Reached",
-    "link": "https://www.nytimes.com/2025/07/29/world/europe/uk-palestine-state-starmer-gaza-israel.html"
+    "score": 159,
+    "pubdate": "2025-07-30-20-19-00 +0000",
+    "source": "wsj",
+    "headline": "Former Vice President Kamala Harris said Wednesday she wouldn’t run for governor of California next year, leaving open the possibility of another presidential bid in 2028",
+    "link": "https://www.wsj.com/politics/elections/kamala-harris-california-governor-election-630b7725"
   },
   {
     "score": 142,
@@ -42,11 +28,18 @@
     "link": "https://www.cbc.ca/news/politics/reaction-trump-tariffs-canada-deadline-1.7599650?cmp=rss"
   },
   {
-    "score": 128,
+    "score": 134,
     "pubdate": "2025-08-04-19-28-34 +0000",
     "source": "nyt",
     "headline": "India says additional U.S. tariffs over Russian oil purchases are ‘unjustified and unreasonable.’",
     "link": "https://www.nytimes.com/live/2025/08/04/us/trump-news/india-signals-no-intention-of-pulling-back-on-russian-oil-despite-us-pressure"
+  },
+  {
+    "score": 128,
+    "pubdate": "2025-07-29-19-52-56 +0000",
+    "source": "nyt",
+    "headline": "UK Will Recognize Palestinian Statehood In September, Unless Israel-Hamas Cease-Fire is Reached",
+    "link": "https://www.nytimes.com/2025/07/29/world/europe/uk-palestine-state-starmer-gaza-israel.html"
   },
   {
     "score": 126,
@@ -56,17 +49,24 @@
     "link": "https://www.wsj.com/world/americas/brazils-supreme-court-orders-ex-president-bolsonaro-under-house-arrest-for-defying-court-order-61717783"
   },
   {
-    "score": 97,
+    "score": 114,
+    "pubdate": "2025-08-05-07-21-10 +0000",
+    "source": "nypost",
+    "headline": "Fleeing Texas Dems side with Newsom as redistricting standoff continues: ‘All out war’",
+    "link": "https://nypost.com/2025/08/05/us-news/fleeing-texas-dems-side-with-newsom-as-redistricting-standoff-continues/"
+  },
+  {
+    "score": 98,
+    "pubdate": "2025-08-04-00-50-00 +0000",
+    "source": "wsj",
+    "headline": "A chief White House economic adviser said that Trump wants allies placed in the Bureau of Labor Statistics after the agency published a dismal jobs report and the president fired its commissioner",
+    "link": "https://www.wsj.com/economy/jobs/trump-seeks-bigger-overhaul-at-labor-statistics-bureau-adviser-says-dc109bac"
+  },
+  {
+    "score": 96,
     "pubdate": "2025-08-04-21-04-00 +0000",
     "source": "wsj",
     "headline": "The State Department may require travelers entering the U.S. from certain countries to post a bond of up to $15,000, a move aimed at deterring foreigners from overstaying their visas",
     "link": "https://www.wsj.com/politics/policy/trump-administration-to-require-bonds-of-up-to-15-000-for-travelers-to-enter-the-u-s-9f778f7e"
-  },
-  {
-    "score": 91,
-    "pubdate": "2025-08-05-11-32-17 +0000",
-    "source": "nypost",
-    "headline": "Child services worker arrested after boy dies while left in her car in 108-degree heat already out on bail",
-    "link": "https://nypost.com/2025/08/05/us-news/child-services-worker-arrested-after-boy-3-dies-in-her-hot-car/"
   }
 ]
