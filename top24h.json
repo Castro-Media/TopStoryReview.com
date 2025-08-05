@@ -1,6 +1,6 @@
 [
   {
-    "score": 176,
+    "score": 175,
     "pubdate": "2025-08-04-22-54-00 +0000",
     "source": "wsj",
     "headline": "Democratic lawmakers blocked the Texas House from meeting Monday, preventing Republicans from moving ahead with a new congressional map requested by President Trump",
@@ -8,17 +8,10 @@
   },
   {
     "score": 67,
-    "pubdate": "2025-08-04-13-01-22 +0000",
-    "source": "bbc",
-    "headline": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war",
-    "link": "https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 66,
-    "pubdate": "2025-08-05-01-17-08 +0000",
-    "source": "latimes",
-    "headline": "Wealthy first-time candidate Cloobeck drops $1.4 million on TV ads in the California governor's race",
-    "link": "https://www.latimes.com/california/story/2025-08-04/wealthy-first-time-candidate-cloobeck-drops-nearly-1-million-on-tv-ads-in-the-governors-race"
+    "pubdate": "2025-08-05-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "NY POSTcast Daily Debrief: Israel’s new plan for Gaza, Russiagate grand jury probe, deputy doesn’t get ‘action’",
+    "link": "https://nypost.com/2025/08/05/us-news/ny-postcast-daily-debrief-august-5-2025/"
   },
   {
     "score": 66,
@@ -26,6 +19,20 @@
     "source": "wsj",
     "headline": "Trump’s firing of the top Bureau of Labor Statistics official is rattling Wall Street’s reliance on government data, as some fear a decline in the world-leading economic statistics",
     "link": "https://www.wsj.com/finance/investing/trump-bls-firing-jobs-data-wall-street-0800b24d"
+  },
+  {
+    "score": 66,
+    "pubdate": "2025-08-04-21-48-14 +0000",
+    "source": "nypost",
+    "headline": "Brazil’s Supreme Court orders house arrest for ex-President Jair Bolsonaro as he faces trial",
+    "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-08-05-01-17-08 +0000",
+    "source": "latimes",
+    "headline": "Wealthy first-time candidate Cloobeck drops $1.4 million on TV ads in the California governor's race",
+    "link": "https://www.latimes.com/california/story/2025-08-04/wealthy-first-time-candidate-cloobeck-drops-nearly-1-million-on-tv-ads-in-the-governors-race"
   },
   {
     "score": 58,
@@ -42,11 +49,11 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-to-require-bonds-of-up-to-15-000-for-travelers-to-enter-the-u-s-9f778f7e"
   },
   {
-    "score": 56,
-    "pubdate": "2025-08-04-15-07-08 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Envoy Is Expected to Visit Russia as U.S. Pushes for Peace Deal in Ukraine",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/witkoff-putin-russia-trump-ukraine.html"
+    "score": 55,
+    "pubdate": "2025-08-05-07-21-10 +0000",
+    "source": "nypost",
+    "headline": "Fleeing Texas Dems side with Newsom as redistricting standoff continues: ‘All out war’",
+    "link": "https://nypost.com/2025/08/05/us-news/fleeing-texas-dems-side-with-newsom-as-redistricting-standoff-continues/"
   },
   {
     "score": 54,
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2025/08/04/business/elon-musk-gets-29b-pay-package-from-tesla-board-to-keep-him-at-ev-maker/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-08-04-21-48-14 +0000",
-    "source": "nypost",
-    "headline": "Brazil’s Supreme Court orders house arrest for ex-President Jair Bolsonaro as he faces trial",
-    "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-08-04-19-06-46 +0000",
-    "source": "nypost",
-    "headline": "Far left Sen. Warren gushes over NYC mayoral candidate Zohran Mamdani — as other high-profile Dems stay silent",
-    "link": "https://nypost.com/2025/08/04/us-news/far-left-sen-warren-gushes-over-nyc-mayoral-candidate-zohran-mamdani-as-other-high-profile-dems-stay-silent/"
+    "score": 53,
+    "pubdate": "2025-08-04-15-07-08 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Envoy Is Expected to Visit Russia as U.S. Pushes for Peace Deal in Ukraine",
+    "link": "https://www.nytimes.com/2025/08/04/us/politics/witkoff-putin-russia-trump-ukraine.html"
   }
 ]
