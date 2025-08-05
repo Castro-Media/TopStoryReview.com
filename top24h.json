@@ -1,34 +1,20 @@
 [
   {
-    "score": 187,
+    "score": 177,
     "pubdate": "2025-08-04-22-54-00 +0000",
     "source": "wsj",
     "headline": "Democratic lawmakers blocked the Texas House from meeting Monday, preventing Republicans from moving ahead with a new congressional map requested by President Trump",
     "link": "https://www.wsj.com/politics/policy/republican-democrats-redistricting-plans-c9130078"
   },
   {
-    "score": 78,
+    "score": 69,
     "pubdate": "2025-08-05-13-27-00 +0000",
     "source": "cbc",
     "headline": "India, Russia hit back after U.S. accuses Modi government of fuelling Russia's war in Ukraine",
     "link": "https://www.cbc.ca/news/world/india-us-russia-tensions-1.7601238?cmp=rss"
   },
   {
-    "score": 55,
-    "pubdate": "2025-08-05-01-35-28 +0000",
-    "source": "latimes",
-    "headline": "California cannabis firm raided by ICE unveils big labor changes to avoid a repeat",
-    "link": "https://www.latimes.com/california/story/2025-08-04/glass-house-cannabis-major-changes-after-ice-raid"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-08-05-01-12-00 +0000",
-    "source": "wsj",
-    "headline": "Brazil’s Supreme Court Orders Ex-President Bolsonaro Under House Arrest for Defying Court Order",
-    "link": "https://www.wsj.com/world/americas/brazils-supreme-court-orders-ex-president-bolsonaro-under-house-arrest-for-defying-court-order-61717783"
-  },
-  {
-    "score": 55,
+    "score": 54,
     "pubdate": "2025-08-05-18-02-25 +0000",
     "source": "nypost",
     "headline": "Tulsi Gabbard tells ‘Pod Force One’ she believes there may be aliens — and still has ‘a lot of questions’ on NJ drones",
@@ -36,6 +22,13 @@
   },
   {
     "score": 53,
+    "pubdate": "2025-08-05-01-35-28 +0000",
+    "source": "latimes",
+    "headline": "California cannabis firm raided by ICE unveils big labor changes to avoid a repeat",
+    "link": "https://www.latimes.com/california/story/2025-08-04/glass-house-cannabis-major-changes-after-ice-raid"
+  },
+  {
+    "score": 51,
     "pubdate": "2025-08-04-22-16-12 +0000",
     "source": "wapo",
     "headline": "Netanyahu fires attorney general as domestic pressure over Gaza heats up",
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2025/08/05/us-news/ghislaine-maxwell-rejects-doj-bid-to-unseal-grand-jury-transcripts-as-she-pursues-legal-options-jeffrey-epstein-is-dead/"
   },
   {
-    "score": 40,
-    "pubdate": "2025-08-05-18-55-26 +0000",
-    "source": "cbc",
-    "headline": "Carney hints at dropping some U.S. tariffs if it will help Canadian industries hit by trade war",
-    "link": "https://www.cbc.ca/news/politics/carney-trump-trade-softwood-1.7601624?cmp=rss"
+    "score": 47,
+    "pubdate": "2025-08-05-01-12-00 +0000",
+    "source": "wsj",
+    "headline": "Brazil’s Supreme Court Orders Ex-President Bolsonaro Under House Arrest for Defying Court Order",
+    "link": "https://www.wsj.com/world/americas/brazils-supreme-court-orders-ex-president-bolsonaro-under-house-arrest-for-defying-court-order-61717783"
   },
   {
-    "score": 38,
-    "pubdate": "2025-08-05-01-17-08 +0000",
-    "source": "latimes",
-    "headline": "Wealthy first-time candidate Cloobeck drops $1.4 million on TV ads in the California governor's race",
-    "link": "https://www.latimes.com/california/story/2025-08-04/wealthy-first-time-candidate-cloobeck-drops-nearly-1-million-on-tv-ads-in-the-governors-race"
+    "score": 39,
+    "pubdate": "2025-08-05-19-37-53 +0000",
+    "source": "nyt",
+    "headline": "Ahead of Trump’s Trade Deadline, Firms Rushed Goods Out of Duty-Free Warehouses",
+    "link": "https://www.nytimes.com/2025/08/01/business/tariffs-foreign-trade-zone-warehouses.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-08-05-18-12-19 +0000",
+    "source": "nyt",
+    "headline": "What’s It Like to Deal With Brutal U.S. Tariffs? Ask Malaysia.",
+    "link": "https://www.nytimes.com/2025/08/04/business/malaysia-solar-china.html"
   }
 ]
