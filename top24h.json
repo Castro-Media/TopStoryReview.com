@@ -50,13 +50,6 @@
   },
   {
     "score": 53,
-    "pubdate": "2025-08-04-15-07-08 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Envoy Is Expected to Visit Russia as U.S. Pushes for Peace Deal in Ukraine",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/witkoff-putin-russia-trump-ukraine.html"
-  },
-  {
-    "score": 53,
     "pubdate": "2025-08-04-15-16-00 +0000",
     "source": "wsj",
     "headline": "Elon Musk Gets $23.7 Billion Stock Award From Tesla to Stay Focused",
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Dozens of Ethiopian migrants feared dead as boat capsizes off Yemen",
     "link": "https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-08-04-15-07-08 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Envoy Is Expected to Visit Russia as U.S. Pushes for Peace Deal in Ukraine",
+    "link": "https://www.nytimes.com/2025/08/04/us/politics/witkoff-putin-russia-trump-ukraine.html"
   }
 ]
