@@ -1,6 +1,6 @@
 [
   {
-    "score": 175,
+    "score": 165,
     "pubdate": "2025-08-04-22-54-00 +0000",
     "source": "wsj",
     "headline": "Democratic lawmakers blocked the Texas House from meeting Monday, preventing Republicans from moving ahead with a new congressional map requested by President Trump",
@@ -14,11 +14,11 @@
     "link": "https://www.latimes.com/california/story/2025-08-04/wealthy-first-time-candidate-cloobeck-drops-nearly-1-million-on-tv-ads-in-the-governors-race"
   },
   {
-    "score": 65,
-    "pubdate": "2025-08-04-21-48-14 +0000",
-    "source": "nypost",
-    "headline": "Brazil’s Supreme Court orders house arrest for ex-President Jair Bolsonaro as he faces trial",
-    "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
+    "score": 62,
+    "pubdate": "2025-08-04-13-01-22 +0000",
+    "source": "bbc",
+    "headline": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war",
+    "link": "https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 62,
@@ -28,20 +28,6 @@
     "link": "https://www.wsj.com/finance/investing/trump-bls-firing-jobs-data-wall-street-0800b24d"
   },
   {
-    "score": 58,
-    "pubdate": "2025-08-05-02-03-35 +0000",
-    "source": "nyt",
-    "headline": "In Delhi and New York, Hindu Right Wing Lines Up Against Mamdani",
-    "link": "https://www.nytimes.com/2025/08/01/world/asia/mamdani-india-hindu-muslims-modi-new-york-mayor.html"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-08-05-00-46-41 +0000",
-    "source": "wapo",
-    "headline": "Netanyahu vows to occupy Gaza as U.S. touts ‘all or nothing’ hostage plan",
-    "link": "https://www.washingtonpost.com/national-security/2025/08/04/wtikoff-netanyahu-gaza-ceasefire-hostages/"
-  },
-  {
     "score": 57,
     "pubdate": "2025-08-04-19-28-34 +0000",
     "source": "nyt",
@@ -49,11 +35,18 @@
     "link": "https://www.nytimes.com/live/2025/08/04/us/trump-news/india-signals-no-intention-of-pulling-back-on-russian-oil-despite-us-pressure"
   },
   {
+    "score": 56,
+    "pubdate": "2025-08-05-02-03-35 +0000",
+    "source": "nyt",
+    "headline": "In Delhi and New York, Hindu Right Wing Lines Up Against Mamdani",
+    "link": "https://www.nytimes.com/2025/08/01/world/asia/mamdani-india-hindu-muslims-modi-new-york-mayor.html"
+  },
+  {
     "score": 54,
-    "pubdate": "2025-08-04-15-16-00 +0000",
-    "source": "wsj",
-    "headline": "Elon Musk Gets $23.7 Billion Stock Award From Tesla to Stay Focused",
-    "link": "https://www.wsj.com/business/autos/tesla-approves-ceo-musk-pay-package-7c75a7bf?mod=pls_whats_news_us_business_f"
+    "pubdate": "2025-08-04-13-40-58 +0000",
+    "source": "nypost",
+    "headline": "Elon Musk gets $29B pay package from Tesla board to keep him at EV maker",
+    "link": "https://nypost.com/2025/08/04/business/elon-musk-gets-29b-pay-package-from-tesla-board-to-keep-him-at-ev-maker/"
   },
   {
     "score": 50,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/08/04/us/politics/witkoff-putin-russia-trump-ukraine.html"
   },
   {
-    "score": 46,
-    "pubdate": "2025-08-05-07-21-10 +0000",
+    "score": 49,
+    "pubdate": "2025-08-04-21-48-14 +0000",
     "source": "nypost",
-    "headline": "Fleeing Texas Dems side with Newsom as redistricting standoff continues: ‘All out war’",
-    "link": "https://nypost.com/2025/08/05/us-news/fleeing-texas-dems-side-with-newsom-as-redistricting-standoff-continues/"
+    "headline": "Brazil’s Supreme Court orders house arrest for ex-President Jair Bolsonaro as he faces trial",
+    "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-08-05-01-03-45 +0000",
+    "source": "nypost",
+    "headline": "Clip of Sydney Sweeney’s expert shooting range run goes viral after Republican registration revealed, American Eagle ad fiasco",
+    "link": "https://nypost.com/2025/08/04/us-news/clip-of-sydney-sweeneys-expert-shooting-range-run-goes-viral-after-republican-registration-revealed-american-eagle-ad-fiasco/"
   }
 ]
