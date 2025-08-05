@@ -1,27 +1,387 @@
 [
   {
+    "headline": "Trump threatens to ratchet up tariffs on EU if it fails to invest $600 billion in US",
+    "link": "https://nypost.com/2025/08/05/us-news/trump-threatens-to-ratchet-up-tariffs-on-eu-if-it-fails-to-invest-600b-in-us/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-13-08-30 +0000"
+  },
+  {
+    "headline": "Trump threatens to ratchet up tariffs on EU if it fails to invest $600 billion in US",
+    "link": "https://nypost.com/2025/08/05/us-news/trump-threatens-to-ratchet-up-tariffs-on-eu-if-it-fails-to-invest-600b-in-us/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-13-08-30 +0000"
+  },
+  {
+    "headline": "Texas Republicans vote to arrest Democrats blocking redistricting plan",
+    "link": "https://www.bbc.com/news/articles/c93dkwnx94ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-13-05-11 +0000"
+  },
+  {
+    "headline": "Texas Republicans vote to arrest Democrats blocking plan to re-draw electoral boundaries",
+    "link": "https://www.bbc.com/news/articles/c93dkwnx94ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-13-05-11 +0000"
+  },
+  {
+    "headline": "Opinion | The Defenestration of the BLS Commissioner",
+    "link": "https://www.wsj.com/opinion/the-defenestration-of-the-bls-commissioner-282ffa89?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-08-05-13-04-00 +0000"
+  },
+  {
+    "headline": "Opinion | There’s No Shortage of Sugar on the Market",
+    "link": "https://www.wsj.com/opinion/theres-no-shortage-of-sugar-on-the-market-18bc89e8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-08-05-13-03-00 +0000"
+  },
+  {
+    "headline": "Opinion | There’s No Shortage of Sugar on the Market",
+    "link": "https://www.wsj.com/opinion/theres-no-shortage-of-sugar-on-the-market-18bc89e8",
+    "source": "wsj",
+    "pubdate": "2025-08-05-13-03-00 +0000"
+  },
+  {
+    "headline": "Trump Questions Discrimination Claims, Even One His First Administration Brought",
+    "link": "https://www.nytimes.com/2025/08/05/business/cfpb-vought-townstone-redlining.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-13-02-27 +0000"
+  },
+  {
+    "headline": "Stock Market Today: S&P 500 Futures, Dollar Rise, Boosted by Earnings, Rate-Cut Hopes",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-08-05-13-02-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Ultra-Orthodox Soldiers in the Israel Defense Forces",
+    "link": "https://www.wsj.com/opinion/the-ultra-orthodox-soldiers-in-the-israel-defense-forces-bf682229",
+    "source": "wsj",
+    "pubdate": "2025-08-05-13-02-00 +0000"
+  },
+  {
+    "headline": "Wildfire Smoke Prompts Air Quality Alerts Across Canada and Northeastern US",
+    "link": "https://www.nytimes.com/2025/08/04/weather/wildfire-smoke-air-quality-toronto-new-york.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-13-00-22 +0000"
+  },
+  {
+    "headline": "Trump rules out Scott Bessent as Fed chair",
+    "link": "https://nypost.com/2025/08/05/us-news/trump-rules-out-scott-bessent-as-fed-chair/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-12-59-20 +0000"
+  },
+  {
+    "headline": "Trump rules out Scott Bessent as Fed chair",
+    "link": "https://nypost.com/2025/08/05/us-news/trump-rules-out-scott-bessent-as-fed-chair/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-12-59-20 +0000"
+  },
+  {
+    "headline": "EU Continues to Press for Tariff Exemption on Wine, Spirits as Part of U.S. Deal",
+    "link": "https://www.wsj.com/economy/trade/eu-continues-to-press-for-tariff-exemption-on-wine-spirits-as-part-of-u-s-deal-f7cb3965",
+    "source": "wsj",
+    "pubdate": "2025-08-05-12-59-00 +0000"
+  },
+  {
+    "headline": "UN Security Council to Discuss Israel-Gaza War and Hostages",
+    "link": "https://www.nytimes.com/2025/08/05/world/middleeast/un-israel-gaza-war-hostages.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-55-55 +0000"
+  },
+  {
+    "headline": "UN Security Council to Discuss Israel-Gaza War and Hostages",
+    "link": "https://www.nytimes.com/2025/08/05/world/middleeast/un-israel-gaza-war-hostages.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-55-55 +0000"
+  },
+  {
+    "headline": "After Trump’s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism",
+    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-republicans-bls-jobs-analysis.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-52-58 +0000"
+  },
+  {
+    "headline": "After Trump’s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism",
+    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-republicans-bls-jobs-analysis.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-52-58 +0000"
+  },
+  {
+    "headline": "£100m of premium bond prizes remain unclaimed",
+    "link": "https://www.bbc.com/news/articles/ce3791ep6gko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-12-52-50 +0000"
+  },
+  {
+    "headline": "El Salvador Ends Term Limits, Letting Bukele Seek Re-Election Indefinitely",
+    "link": "https://www.nytimes.com/2025/08/01/world/americas/el-salvador-bukele-term-limits.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-46-22 +0000"
+  },
+  {
+    "headline": "Wild video shows sunbathers tackling migrants who jump off boat at a packed beach in Spain",
+    "link": "https://nypost.com/2025/08/05/world-news/sunbathers-tackle-migrants-who-jump-off-boat-at-beach-in-spain/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-12-40-03 +0000"
+  },
+  {
+    "headline": "Four NYPD officers hospitalized after two cruisers crash in Queens",
+    "link": "https://nypost.com/2025/08/05/us-news/four-nypd-officers-hospitalized-after-two-cruisers-crash-in-queens/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-12-38-48 +0000"
+  },
+  {
+    "headline": "Corbyn attacks Rayner for selling off allotments",
+    "link": "https://www.bbc.com/news/articles/c3dpkvkkjjno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-12-37-39 +0000"
+  },
+  {
+    "headline": "With Festivities and Papal Prayer, the Vatican Aims to Attract the Young",
+    "link": "https://www.nytimes.com/2025/08/02/world/europe/rome-youth-catholics-pope.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-37-34 +0000"
+  },
+  {
+    "headline": "President Trump ruled out tapping Treasury Secretary Scott Bessent as chairman of the Federal Reserve",
+    "link": "https://www.wsj.com/economy/central-banking/trump-rules-out-tapping-scott-bessent-as-fed-chair-79408d3a",
+    "source": "wsj",
+    "pubdate": "2025-08-05-12-37-00 +0000"
+  },
+  {
+    "headline": "North Korea Refuses to Claim Body of Dead Citizen Held by the South",
+    "link": "https://www.wsj.com/world/asia/north-korea-refuses-to-claim-body-of-dead-citizen-held-by-the-south-b0bcd528",
+    "source": "wsj",
+    "pubdate": "2025-08-05-12-32-00 +0000"
+  },
+  {
+    "headline": "What Talks With India and Switzerland Say About Trump’s Trade War",
+    "link": "https://www.nytimes.com/2025/08/05/business/dealbook/trump-india-switzerland-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-30-44 +0000"
+  },
+  {
+    "headline": "Clay, a Sales Tool for the A.I. Era, Raises $100 Million",
+    "link": "https://www.nytimes.com/2025/08/05/business/dealbook/clay-ai-marketing-fundraise.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-26-38 +0000"
+  },
+  {
+    "headline": "7-year-old girl survivor in deadly Miami boat crash was trapped underneath 60-foot barge that struck them",
+    "link": "https://nypost.com/2025/08/05/us-news/7-year-old-girl-injured-in-deadly-miami-boat-crash-was-trapped-under-a-barge-before-swimming-to-safety-profoundly-traumatic/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-12-25-34 +0000"
+  },
+  {
+    "headline": "How this 80-year-old still runs ultramarathons — and breaks records",
+    "link": "https://www.washingtonpost.com/lifestyle/2025/08/05/bob-becker-ultramarathons-running-records/",
+    "source": "wapo",
+    "pubdate": "2025-08-05-12-10-56 +0000"
+  },
+  {
+    "headline": "Dozens feared trapped as cloudburst triggers flash floods in India",
+    "link": "https://www.bbc.com/news/articles/c78zjd8xj2xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-12-08-17 +0000"
+  },
+  {
+    "headline": "Dozens feared trapped as cloudburst triggers flash floods in India",
+    "link": "https://www.bbc.com/news/articles/c78zjd8xj2xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-12-08-17 +0000"
+  },
+  {
+    "headline": "Inside Trump’s New Tactic to Separate Immigrant Families",
+    "link": "https://www.nytimes.com/2025/08/05/us/politics/trump-administration-family-separation.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-02-27 +0000"
+  },
+  {
+    "headline": "Inside Trump’s New Tactic to Separate Immigrant Families",
+    "link": "https://www.nytimes.com/2025/08/05/us/politics/trump-administration-family-separation.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-12-02-27 +0000"
+  },
+  {
+    "headline": "More disclosure of suspects' immigration status needed, Cooper says",
+    "link": "https://www.bbc.com/news/articles/c8rygx2xpy7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-12-02-09 +0000"
+  },
+  {
+    "headline": "Rosalia’s third pizzeria fires up in St. Louis Park this fall",
+    "link": "https://www.startribune.com/new-rosalia-pizza-st-louis-park-restaurant-news-malt-shop-minneapolis-coffee/601445722",
+    "source": "startribune",
+    "pubdate": "2025-08-05-11-59-01 +0000"
+  },
+  {
+    "headline": "Leslie Fhima gets eliminated from ‘Bachelor in Paradise’",
+    "link": "https://www.startribune.com/leslie-fhima-gets-eliminated-from-bachelor-in-paradise/601449088",
+    "source": "startribune",
+    "pubdate": "2025-08-05-11-57-08 +0000"
+  },
+  {
+    "headline": "Netanyahu to propose full reoccupation of Gaza, Israeli media report",
+    "link": "https://www.bbc.com/news/articles/cpqv2qjg5vvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-11-50-50 +0000"
+  },
+  {
+    "headline": "Netanyahu to propose full reoccupation of Gaza, Israeli media report",
+    "link": "https://www.bbc.com/news/articles/cpqv2qjg5vvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-11-50-50 +0000"
+  },
+  {
+    "headline": "Families pushed out of work due to childcare costs",
+    "link": "https://www.bbc.com/news/articles/c74dz9rgeglo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-11-50-39 +0000"
+  },
+  {
+    "headline": "BP to review oil and gas projects to boost profits",
+    "link": "https://www.bbc.com/news/articles/cx2xg84yj6jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-11-50-38 +0000"
+  },
+  {
+    "headline": "Torrential Rain Batters Hong Kong, Flooding the Waterlogged City",
+    "link": "https://www.nytimes.com/2025/08/05/world/asia/hong-kong-floods.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-39-54 +0000"
+  },
+  {
+    "headline": "Torrential Rain Batters Hong Kong, Flooding the Waterlogged City",
+    "link": "https://www.nytimes.com/2025/08/05/world/asia/hong-kong-floods.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-39-54 +0000"
+  },
+  {
+    "headline": "On Gaza, Germany’s Government Faces Pressure From All Sides",
+    "link": "https://www.nytimes.com/2025/08/05/world/europe/germany-gaza-israel-hunger-merz.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-39-33 +0000"
+  },
+  {
+    "headline": "On Gaza, Germany’s Government Faces Pressure From All Sides",
+    "link": "https://www.nytimes.com/2025/08/05/world/europe/germany-gaza-israel-hunger-merz.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-39-33 +0000"
+  },
+  {
+    "headline": "Momentum builds toward Netanyahu’s plan to occupy all of Gaza",
+    "link": "https://www.washingtonpost.com/national-security/2025/08/04/wtikoff-netanyahu-gaza-ceasefire-hostages/",
+    "source": "wapo",
+    "pubdate": "2025-08-05-11-38-47 +0000"
+  },
+  {
+    "headline": "Former star fund manager and company fined £46m",
+    "link": "https://www.bbc.com/news/articles/ckgdx0lgg28o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-11-38-35 +0000"
+  },
+  {
+    "headline": "Nasa to put nuclear reactor on the Moon by 2030 - US media",
+    "link": "https://www.bbc.com/news/articles/cev2dylxv74o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-11-36-24 +0000"
+  },
+  {
+    "headline": "India Defies Trump on Russian Oil Despite Tariff Threats",
+    "link": "https://www.wsj.com/world/india/india-defies-trump-on-russian-oil-despite-tariff-threats-0298d751",
+    "source": "wsj",
+    "pubdate": "2025-08-05-11-35-00 +0000"
+  },
+  {
+    "headline": "Taiwan Investigates TSMC Employees Over Possible Trade Secret Theft",
+    "link": "https://www.nytimes.com/2025/08/05/business/taiwan-tsmc-chips-leak-trade-secrets.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-34-58 +0000"
+  },
+  {
+    "headline": "Taiwan Investigates TSMC Employees Over Possible Trade Secret Theft",
+    "link": "https://www.nytimes.com/2025/08/05/business/taiwan-tsmc-chips-leak-trade-secrets.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-34-58 +0000"
+  },
+  {
+    "headline": "NJ state trooper kills ex-girlfriend, her new boyfriend in murder-suicide after months of stalking her: ‘She deserved so much better’",
+    "link": "https://nypost.com/2025/08/05/us-news/new-jersey-state-trooper-lt-ricardo-santos-kills-veterinarian-ex-girlfriend-lauren-semanchik-her-new-boyfriend-in-murder-suicide/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-11-32-33 +0000"
+  },
+  {
+    "headline": "Child services worker arrested after boy dies while left in her car in 108-degree heat already out on bail",
+    "link": "https://nypost.com/2025/08/05/us-news/child-services-worker-arrested-after-boy-3-dies-in-her-hot-car/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-11-32-17 +0000"
+  },
+  {
+    "headline": "Public Schools Try to Sell Themselves as More Students Use Vouchers",
+    "link": "https://www.nytimes.com/2025/08/05/us/public-school-enrollment-decline-vouchers.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-11-33 +0000"
+  },
+  {
+    "headline": "Inside Elon Musk’s Huge Payday",
+    "link": "https://www.nytimes.com/2025/08/04/business/dealbook/musk-tesla-compensation-billion.html",
+    "source": "nyt",
+    "pubdate": "2025-08-05-11-06-08 +0000"
+  },
+  {
+    "headline": "They once shared recipes. Now her family is going hungry in Gaza.",
+    "link": "https://www.washingtonpost.com/nation/2025/08/05/gaza-starvation-palestinian-american-family/",
+    "source": "wapo",
+    "pubdate": "2025-08-05-11-00-44 +0000"
+  },
+  {
+    "headline": "Germany’s identity crisis: The trains no longer run on time",
+    "link": "https://www.washingtonpost.com/world/2025/08/05/germany-trains-delays-broken-railroad/",
+    "source": "wapo",
+    "pubdate": "2025-08-05-11-00-05 +0000"
+  },
+  {
+    "headline": "Some Ojibwe signs, books could be removed as feds evaluate national parks",
+    "link": "https://www.startribune.com/ojibwe-national-parks-voyageur-mississippi-pipestone-executive-order-evaluating-signs-books/601448172",
+    "source": "startribune",
+    "pubdate": "2025-08-05-11-00-01 +0000"
+  },
+  {
+    "headline": "Many Minnesotans in sober homes just lost housing. Where will they go?",
+    "link": "https://www.startribune.com/many-minnesotans-in-sober-homes-just-lost-housing-where-will-they-go/601427541",
+    "source": "startribune",
+    "pubdate": "2025-08-05-11-00-00 +0000"
+  },
+  {
+    "headline": "Zimmern: A chef’s dilemma as the people of Gaza starve",
+    "link": "https://www.startribune.com/israel-hamas-war-food-aid-famine/601449093",
+    "source": "startribune",
+    "pubdate": "2025-08-05-11-00-00 +0000"
+  },
+  {
+    "headline": "As PFAS plume spreads, so do unknowns about who pays for cleanup",
+    "link": "https://www.startribune.com/as-pfas-plume-spreads-so-do-unknowns-about-who-pays-for-cleanup/601446079",
+    "source": "startribune",
+    "pubdate": "2025-08-05-11-00-00 +0000"
+  },
+  {
+    "headline": "Israel Says It Is Easing More Restrictions on Goods Entering Gaza",
+    "link": "https://www.wsj.com/world/middle-east/israel-says-it-is-easing-more-restrictions-on-goods-entering-gaza-0dc369c2",
+    "source": "wsj",
+    "pubdate": "2025-08-05-10-58-00 +0000"
+  },
+  {
     "headline": "Edinburgh Fringe in Photos: The Streets Are Alive",
     "link": "https://www.nytimes.com/2025/08/04/theater/edinburgh-fringe-photos.html",
     "source": "nyt",
     "pubdate": "2025-08-05-10-31-32 +0000"
   },
   {
-    "headline": "More disclosure of suspects' immigration status needed, Cooper says",
-    "link": "https://www.bbc.com/news/articles/c8rygx2xpy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-10-23-39 +0000"
-  },
-  {
     "headline": "US may demand $15,000 deposit for visas",
     "link": "https://www.bbc.com/news/articles/cp9415d53xko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-05-10-19-19 +0000"
-  },
-  {
-    "headline": "Stock Market Today: S&P 500 Futures, Dollar Inch Higher, Boosted by Earnings, Rate-Cut Hopes",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2025?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-05-10-07-00 +0000"
   },
   {
     "headline": "Hiltzik: How the economy went from a 3% annual growth rate to the brink of recession just two days later",
@@ -36,20 +396,32 @@
     "pubdate": "2025-08-05-10-00-00 +0000"
   },
   {
+    "headline": "Minnesota farmers caught between shifting guest-worker policies",
+    "link": "https://www.startribune.com/trumps-policies-on-guest-workers-leave-farmers-in-limbo/601394273",
+    "source": "startribune",
+    "pubdate": "2025-08-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Analysis: What should new Twins owners make of the fire sale?",
+    "link": "https://www.startribune.com/minnesota-twins-ownership-fire-sale-neal/601447836",
+    "source": "startribune",
+    "pubdate": "2025-08-05-10-00-00 +0000"
+  },
+  {
     "headline": "Chabria: 37 lawsuits with one purpose: protecting the 'California dream' from Trump",
     "link": "https://www.latimes.com/california/story/2025-08-05/chabria-column-bonta-trump-lawsuits-protecting-the-california-dream",
     "source": "latimes",
     "pubdate": "2025-08-05-10-00-00 +0000"
   },
   {
-    "headline": "UCLA will negotiate with Trump over $339 million medical and science grant freezes",
-    "link": "https://www.latimes.com/california/story/2025-08-05/ucla-negotiate-nih-nsf-doe-grant-cuts",
+    "headline": "Undeterred by tough restaurant times, students are lining up for this college culinary program",
+    "link": "https://www.latimes.com/california/story/2025-08-05/la-ed-trade-tech-culinary-school",
     "source": "latimes",
     "pubdate": "2025-08-05-10-00-00 +0000"
   },
   {
-    "headline": "Undeterred by tough restaurant times, students are lining up for this college culinary program",
-    "link": "https://www.latimes.com/california/story/2025-08-05/la-ed-trade-tech-culinary-school",
+    "headline": "UCLA will negotiate with Trump over $339 million in medical and science grant freezes",
+    "link": "https://www.latimes.com/california/story/2025-08-05/ucla-negotiate-nih-nsf-doe-grant-cuts",
     "source": "latimes",
     "pubdate": "2025-08-05-10-00-00 +0000"
   },
@@ -72,18 +444,6 @@
     "pubdate": "2025-08-05-10-00-00 +0000"
   },
   {
-    "headline": "Dozens feared trapped after cloudburst triggers flash floods in India state",
-    "link": "https://www.bbc.com/news/articles/c78zjd8xj2xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-09-54-06 +0000"
-  },
-  {
-    "headline": "Dozens feared trapped after cloudburst triggers flash floods in India state",
-    "link": "https://www.bbc.com/news/articles/c78zjd8xj2xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-09-54-06 +0000"
-  },
-  {
     "headline": "Nigeria's champion women basketballers promised $100,000 each",
     "link": "https://www.bbc.com/news/articles/cy8jqx7wjl6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -94,24 +454,6 @@
     "link": "https://nypost.com/2025/08/05/us-news/meghan-markle-faces-new-legal-battle-as-half-sister-samantha-heads-to-court-again/",
     "source": "nypost",
     "pubdate": "2025-08-05-09-47-45 +0000"
-  },
-  {
-    "headline": "Torrential Rain Batters Hong Kong, Flooding the Waterlogged City",
-    "link": "https://www.nytimes.com/2025/08/05/world/asia/hong-kong-floods.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-47-26 +0000"
-  },
-  {
-    "headline": "Torrential Rain Batters Hong Kong, Flooding the Waterlogged City",
-    "link": "https://www.nytimes.com/2025/08/05/world/asia/hong-kong-floods.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-47-26 +0000"
-  },
-  {
-    "headline": "EU Continues to Press for Tariff Exemption on Wine, Spirits as Part of U.S. Deal",
-    "link": "https://www.wsj.com/economy/trade/eu-continues-to-press-for-tariff-exemption-on-wine-spirits-as-part-of-u-s-deal-f7cb3965",
-    "source": "wsj",
-    "pubdate": "2025-08-05-09-41-00 +0000"
   },
   {
     "headline": "Cooper won't put a number on migrant returns to France",
@@ -144,28 +486,10 @@
     "pubdate": "2025-08-05-09-30-00 +0000"
   },
   {
-    "headline": "UN Security Council to Discuss Israel-Gaza War and Hostages",
-    "link": "https://www.nytimes.com/2025/08/05/world/middleeast/un-israel-gaza-war-hostages.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-22-53 +0000"
-  },
-  {
-    "headline": "UN Security Council to Discuss Israel-Gaza War and Hostages",
-    "link": "https://www.nytimes.com/2025/08/05/world/middleeast/un-israel-gaza-war-hostages.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-22-53 +0000"
-  },
-  {
-    "headline": "On Gaza, Germany’s Government Faces Pressure from All Sides",
-    "link": "https://www.nytimes.com/2025/08/05/world/europe/germany-gaza-israel-hunger-merz.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-10-51 +0000"
-  },
-  {
-    "headline": "On Gaza, Germany’s Government Faces Pressure from All Sides",
-    "link": "https://www.nytimes.com/2025/08/05/world/europe/germany-gaza-israel-hunger-merz.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-10-51 +0000"
+    "headline": "Ghanaian footballer Thomas Partey granted bail on rape charges",
+    "link": "https://www.bbc.com/news/articles/c05engnv3l2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-09-22-12 +0000"
   },
   {
     "headline": "Tennessee Inmate to Be Executed Despite Ethical Health Concerns",
@@ -204,13 +528,13 @@
     "pubdate": "2025-08-05-09-02-31 +0000"
   },
   {
-    "headline": "New Photos of Jeffrey Epstein’s Manhattan Townhouse",
+    "headline": "Inside Jeffrey Epstein’s Manhattan Townhouse: Birthday Letters, First Edition ‘Lolita’ and More",
     "link": "https://www.nytimes.com/2025/08/05/us/jeffrey-epstein-mansion-photos.html",
     "source": "nyt",
     "pubdate": "2025-08-05-09-02-09 +0000"
   },
   {
-    "headline": "New Photos of Jeffrey Epstein’s Manhattan Townhouse",
+    "headline": "Inside Jeffrey Epstein’s Manhattan Townhouse: Birthday Letters, First Edition ‘Lolita’ and More",
     "link": "https://www.nytimes.com/2025/08/05/us/jeffrey-epstein-mansion-photos.html",
     "source": "nyt",
     "pubdate": "2025-08-05-09-02-09 +0000"
@@ -222,12 +546,6 @@
     "pubdate": "2025-08-05-09-01-39 +0000"
   },
   {
-    "headline": "BP says it makes biggest oil and gas find in 25 years",
-    "link": "https://www.bbc.com/news/articles/cx2xg84yj6jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-09-01-29 +0000"
-  },
-  {
     "headline": "Bite Club: The Fraternity That Awaits You After a Shark Attack",
     "link": "https://www.nytimes.com/2025/08/05/world/australia/shark-attack-bite-club.html",
     "source": "nyt",
@@ -240,30 +558,6 @@
     "pubdate": "2025-08-05-09-01-01 +0000"
   },
   {
-    "headline": "Inside Trump’s New Tactic to Separate Immigrant Families",
-    "link": "https://www.nytimes.com/2025/08/05/us/politics/trump-administration-family-separation.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-00-38 +0000"
-  },
-  {
-    "headline": "Inside Trump’s New Tactic to Separate Immigrant Families",
-    "link": "https://www.nytimes.com/2025/08/05/us/politics/trump-administration-family-separation.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-00-38 +0000"
-  },
-  {
-    "headline": "Public Schools Try to Sell Themselves as More Students Use Vouchers",
-    "link": "https://www.nytimes.com/2025/08/05/us/public-school-enrollment-decline-vouchers.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-00-37 +0000"
-  },
-  {
-    "headline": "Trump Questions Discrimination Claims, Even One His First Administration Brought",
-    "link": "https://www.nytimes.com/2025/08/05/business/cfpb-vought-townstone-redlining.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-09-00-20 +0000"
-  },
-  {
     "headline": "An Inn-to-Inn Walk on Scotland’s Idyllic East Coast",
     "link": "https://www.nytimes.com/2025/08/05/travel/scotland-hiking-fife-trail.html",
     "source": "nyt",
@@ -274,18 +568,6 @@
     "link": "https://www.nytimes.com/2025/08/05/travel/scotland-hiking-fife-trail.html",
     "source": "nyt",
     "pubdate": "2025-08-05-09-00-13 +0000"
-  },
-  {
-    "headline": "Texas Republicans vote to arrest Democrats blocking redistricting plan",
-    "link": "https://www.bbc.com/news/articles/c93dkwnx94ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-08-59-51 +0000"
-  },
-  {
-    "headline": "Texas Republicans vote to arrest Democrats blocking plan to re-draw electoral boundaries",
-    "link": "https://www.bbc.com/news/articles/c93dkwnx94ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-08-59-51 +0000"
   },
   {
     "headline": "Family of Irish missionary kidnapped in Haiti 'devastated'",
@@ -334,12 +616,6 @@
     "link": "https://nypost.com/2025/08/05/us-news/fleeing-texas-dems-side-with-newsom-as-redistricting-standoff-continues/",
     "source": "nypost",
     "pubdate": "2025-08-05-07-21-10 +0000"
-  },
-  {
-    "headline": "Driver Dies in Crash During Racing Event at Bonneville Salt Flats",
-    "link": "https://www.nytimes.com/2025/08/04/us/speedweek-bonneville-salt-flats-death.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-07-20-04 +0000"
   },
   {
     "headline": "China reports 7,000 cases of chikungunya virus",
@@ -618,12 +894,6 @@
     "pubdate": "2025-08-05-02-25-09 +0000"
   },
   {
-    "headline": "Leslie Fhima gets eliminated from ‘Bachelor in Paradise’",
-    "link": "https://www.startribune.com/leslie-fhima-gets-eliminated-from-bachelor-in-paradise/601449088",
-    "source": "startribune",
-    "pubdate": "2025-08-05-02-22-57 +0000"
-  },
-  {
     "headline": "NYC education officials forked over $745K in taxpayer dough to one restaurant over past year: comptroller",
     "link": "https://nypost.com/2025/08/04/us-news/nyc-education-officials-forked-over-745k-in-taxpayer-dough-to-one-restaurant-over-past-year/",
     "source": "nypost",
@@ -732,18 +1002,6 @@
     "pubdate": "2025-08-05-01-11-10 +0000"
   },
   {
-    "headline": "After Trump’s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-republicans-bls-jobs-analysis.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-01-09-51 +0000"
-  },
-  {
-    "headline": "After Trump’s Firing of BLS Commissioner, Republicans Fall in Line With His Criticism",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-republicans-bls-jobs-analysis.html",
-    "source": "nyt",
-    "pubdate": "2025-08-05-01-09-51 +0000"
-  },
-  {
     "headline": "Trump's praise for Sweeney ad sends American Eagle stock surging",
     "link": "https://www.latimes.com/business/story/2025-08-04/trump-sydney-sweeney-ad-american-eagle-stock",
     "source": "latimes",
@@ -780,12 +1038,6 @@
     "pubdate": "2025-08-05-01-00-00 +0000"
   },
   {
-    "headline": "£100m of premium bond prizes remain unclaimed",
-    "link": "https://www.bbc.com/news/articles/ce3791ep6gko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-00-59-32 +0000"
-  },
-  {
     "headline": "Chemours, DuPont and Corteva Settle $875 Million New Jersey PFAS Claims",
     "link": "https://www.nytimes.com/2025/08/04/climate/new-jersey-pfas-settlement.html",
     "source": "nyt",
@@ -808,12 +1060,6 @@
     "link": "https://www.bbc.com/news/articles/c3v3w62ekq2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-05-00-50-00 +0000"
-  },
-  {
-    "headline": "Netanyahu vows to occupy Gaza as U.S. touts ‘all or nothing’ hostage plan",
-    "link": "https://www.washingtonpost.com/national-security/2025/08/04/wtikoff-netanyahu-gaza-ceasefire-hostages/",
-    "source": "wapo",
-    "pubdate": "2025-08-05-00-46-41 +0000"
   },
   {
     "headline": "Judges Openly Doubt Government as Justice Dept. Misleads and Dodges Orders",
@@ -850,18 +1096,6 @@
     "link": "https://www.bbc.com/news/videos/cy853m9993vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-05-00-12-50 +0000"
-  },
-  {
-    "headline": "Minnesota camps change programming amid a summer of smoky air",
-    "link": "https://www.startribune.com/smoke-poor-air-quality-summer-camps-minnesota-activities/601449254",
-    "source": "startribune",
-    "pubdate": "2025-08-05-00-09-55 +0000"
-  },
-  {
-    "headline": "Mayor Jacob Frey raising big bucks; Fateh fundraising gets big boost after DFL endorsement",
-    "link": "https://www.startribune.com/minneapolis-campaign-finance-reports-city-council-mayor/601449073",
-    "source": "startribune",
-    "pubdate": "2025-08-05-00-09-47 +0000"
   },
   {
     "headline": "Convicted rapist fighting to remain in parliament in Australia",
@@ -936,44 +1170,14 @@
     "pubdate": "2025-08-04-23-40-09 +0000"
   },
   {
-    "headline": "Charlamagne slams ‘The View’ for not featuring any conservative guests",
-    "link": "https://nypost.com/2025/08/04/media/charlamagne-slams-the-view-for-not-featuring-any-conservative-guests/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-23-40-09 +0000"
-  },
-  {
     "headline": "White House Preps Order to Punish Banks That Discriminate Against Conservatives",
     "link": "https://www.wsj.com/finance/regulation/white-house-preps-order-to-punish-banks-that-discriminate-against-conservatives-8af18854?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-08-04-23-40-00 +0000"
   },
   {
-    "headline": "Former CNBC analyst James Arthur McDonald Jr., who betrayed investors, sentenced in multimillion-dollar fraud scheme",
-    "link": "https://nypost.com/2025/08/04/us-news/former-cnbc-analyst-james-arthur-mcdonald-jr-who-betrayed-investors-sentenced-in-multimillion-dollar-fraud-scheme/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-23-39-36 +0000"
-  },
-  {
-    "headline": "St. James-Smithtown Little League cruises by Connecticut to move win away from World Series dream",
-    "link": "https://nypost.com/2025/08/04/sports/st-james-smithtown-little-league-moved-win-away-from-llws-dream/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-23-34-31 +0000"
-  },
-  {
-    "headline": "Serial sex assaulter targets women in Philly’s ritzy Rittenhouse Square",
-    "link": "https://nypost.com/2025/08/04/us-news/serial-sex-assaulter-targets-women-in-phillys-ritzy-rittenhouse-square/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-23-28-19 +0000"
-  },
-  {
     "headline": "Harley-Davidson Names Topgolf Leader as New CEO",
     "link": "https://www.wsj.com/business/harley-davidson-names-topgolf-leader-as-new-ceo-738bfd97?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-04-23-23-00 +0000"
-  },
-  {
-    "headline": "President Trump’s decision to fire the head of the Bureau of Labor Statistics on Friday ignited a crisis at the U.S.’s top economic-stats agency. But it wasn’t the start of the BLS’s challenges.",
-    "link": "https://www.wsj.com/economy/real-strains-inside-the-bls-made-it-vulnerable-to-trumps-accusations-52857f36",
     "source": "wsj",
     "pubdate": "2025-08-04-23-23-00 +0000"
   },
@@ -1020,12 +1224,6 @@
     "pubdate": "2025-08-04-23-17-58 +0000"
   },
   {
-    "headline": "Florida deputy wrangles gator from pool — then buckles it up in back seat of cruiser",
-    "link": "https://nypost.com/2025/08/04/us-news/florida-cop-wrangles-gator-from-pool-buckles-it-up-in-cruiser/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-23-16-52 +0000"
-  },
-  {
     "headline": "Will new greener brake pads be more expensive?",
     "link": "https://www.bbc.com/news/articles/cp3l4qz1l9qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1048,12 +1246,6 @@
     "link": "https://www.latimes.com/california/story/2025-08-04/bonta-outlines-legal-spending-against-trump-to-legislature-as-he-and-newsom-tout-wins",
     "source": "latimes",
     "pubdate": "2025-08-04-23-01-10 +0000"
-  },
-  {
-    "headline": "First yachts finish dayslong race across Lake Superior, aided by ... hazy skies",
-    "link": "https://www.startribune.com/first-yachts-finish-days-long-race-across-lake-superior-aided-by-hazy-skies/601444928",
-    "source": "startribune",
-    "pubdate": "2025-08-04-23-01-07 +0000"
   },
   {
     "headline": "Fed’s Mary Daly says time is nearing for rate cuts — may need more than two",
@@ -1080,12 +1272,6 @@
     "pubdate": "2025-08-04-22-55-43 +0000"
   },
   {
-    "headline": "Police chopper lands at Maryland elementary school to rescue drowning man in dramatic video",
-    "link": "https://nypost.com/2025/08/04/us-news/police-chopper-lands-at-maryland-elementary-school-to-rescue-drowning-man-in-dramatic-video/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-22-54-59 +0000"
-  },
-  {
     "headline": "Democratic lawmakers blocked the Texas House from meeting Monday, preventing Republicans from moving ahead with a new congressional map requested by President Trump",
     "link": "https://www.wsj.com/politics/policy/republican-democrats-redistricting-plans-c9130078",
     "source": "wsj",
@@ -1110,12 +1296,6 @@
     "pubdate": "2025-08-04-22-51-16 +0000"
   },
   {
-    "headline": "Sprained right ankle likely to sideline Lynx All-Star Napheesa Collier for weeks",
-    "link": "https://www.startribune.com/napheesa-collier-injured-sprained-ankle-minnesota-lynx-wnba-all-star-cheryl-reeve/601449462",
-    "source": "startribune",
-    "pubdate": "2025-08-04-22-48-49 +0000"
-  },
-  {
     "headline": "VOA director fired after declining reassignment to low-level post",
     "link": "https://www.washingtonpost.com/business/2025/08/04/voa-abramowitz-kari-lake/",
     "source": "wapo",
@@ -1132,12 +1312,6 @@
     "link": "https://www.nytimes.com/2025/08/04/us/politics/texas-redistricting-politics.html",
     "source": "nyt",
     "pubdate": "2025-08-04-22-46-07 +0000"
-  },
-  {
-    "headline": "Where does the future of the Twins stand following fire sale?",
-    "link": "https://www.startribune.com/twins-sale-pohlads-trade-deadline-correa-varland-ishbia-allen-company/601449263",
-    "source": "startribune",
-    "pubdate": "2025-08-04-22-40-46 +0000"
   },
   {
     "headline": "Irish missionary and child, 3, among nine kidnapped from Haiti orphanage",
@@ -1356,12 +1530,6 @@
     "pubdate": "2025-08-04-21-10-00 +0000"
   },
   {
-    "headline": "Opinion | Hamas Starves Jews and Palestinians, and Israel Gets Blamed",
-    "link": "https://www.wsj.com/opinion/hamas-starves-jews-and-palestinians-and-israel-gets-blamed-36adcea3",
-    "source": "wsj",
-    "pubdate": "2025-08-04-21-10-00 +0000"
-  },
-  {
     "headline": "Opinion | The Decline and Fall of NGOs",
     "link": "https://www.wsj.com/opinion/the-decline-and-fall-of-ngos-83117acf",
     "source": "wsj",
@@ -1530,12 +1698,6 @@
     "pubdate": "2025-08-04-20-01-47 +0000"
   },
   {
-    "headline": "Wildfire Smoke Prompts Air Quality Alerts Across Canada and Northeastern US",
-    "link": "https://www.nytimes.com/2025/08/04/weather/wildfire-smoke-air-quality-toronto-new-york.html",
-    "source": "nyt",
-    "pubdate": "2025-08-04-19-59-02 +0000"
-  },
-  {
     "headline": "Switzerland Rushes to Give Trump ‘More Attractive’ Offer to Cut Tariffs",
     "link": "https://www.nytimes.com/2025/08/04/business/switzerland-tariffs-trump.html",
     "source": "nyt",
@@ -1602,12 +1764,6 @@
     "pubdate": "2025-08-04-19-29-43 +0000"
   },
   {
-    "headline": "Nancy Mace Announces Run for Governor of South Carolina",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/nancy-mace-south-carolina-governor.html",
-    "source": "nyt",
-    "pubdate": "2025-08-04-19-29-43 +0000"
-  },
-  {
     "headline": "India says additional U.S. tariffs over Russian oil purchases are ‘unjustified and unreasonable.’",
     "link": "https://www.nytimes.com/live/2025/08/04/us/trump-news/india-signals-no-intention-of-pulling-back-on-russian-oil-despite-us-pressure",
     "source": "nyt",
@@ -1654,12 +1810,6 @@
     "link": "https://nypost.com/2025/08/04/us-news/russia-backs-off-medvedev-rhetoric-after-trump-says-he-ordered-nuke-subs-closer-to-moscow/",
     "source": "nypost",
     "pubdate": "2025-08-04-19-22-10 +0000"
-  },
-  {
-    "headline": "Board members push back against possible HCMC takeover",
-    "link": "https://www.startribune.com/hcmc-takeover-controversy-heats-up/601449216",
-    "source": "startribune",
-    "pubdate": "2025-08-04-19-22-01 +0000"
   },
   {
     "headline": "Monday Briefing: An ‘All or Nothing’ Gaza Deal",
@@ -2106,18 +2256,6 @@
     "pubdate": "2025-08-04-15-07-08 +0000"
   },
   {
-    "headline": "Trump’s Envoy Is Expected to Visit Russia as U.S. Pushes for Peace Deal in Ukraine",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/witkoff-putin-russia-trump-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-08-04-15-07-08 +0000"
-  },
-  {
-    "headline": "Young fans flock to Iowa farmland for the Upper Midwest’s hippest music fest",
-    "link": "https://www.startribune.com/young-fans-flock-to-iowa-farmland-for-the-upper-midwests-hippest-music-fest/601443906",
-    "source": "startribune",
-    "pubdate": "2025-08-04-15-06-51 +0000"
-  },
-  {
     "headline": "U.S. Employment Trends Weaken, Underlining Labor-Market Jitters",
     "link": "https://www.wsj.com/economy/jobs/u-s-employment-trends-weaken-underlining-labor-market-jitters-ea0178c5",
     "source": "wsj",
@@ -2314,89 +2452,5 @@
     "link": "https://www.nytimes.com/2025/08/03/business/trump-bls-firing-economic-reports.html",
     "source": "nyt",
     "pubdate": "2025-08-04-13-11-30 +0000"
-  },
-  {
-    "headline": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war",
-    "link": "https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-04-13-01-22 +0000"
-  },
-  {
-    "headline": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war",
-    "link": "https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-04-13-01-22 +0000"
-  },
-  {
-    "headline": "Russia warns against threats after Trump repositions nuclear submarines",
-    "link": "https://www.washingtonpost.com/world/2025/08/04/russia-trump-nuclear-threats-ukraine-submarines/",
-    "source": "wapo",
-    "pubdate": "2025-08-04-12-59-45 +0000"
-  },
-  {
-    "headline": "Joby Will Buy Blade’s Helicopter Taxi Business for $125 Million",
-    "link": "https://www.nytimes.com/2025/08/04/business/joby-blade-electric-air-taxi.html",
-    "source": "nyt",
-    "pubdate": "2025-08-04-12-57-43 +0000"
-  },
-  {
-    "headline": "Opinion | If the Rail Merger Goes Full Steam Ahead, We’re at Risk",
-    "link": "https://www.wsj.com/opinion/if-the-rail-merger-goes-full-steam-ahead-were-at-risk-0df9b221?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-04-12-52-00 +0000"
-  },
-  {
-    "headline": "Kremlin teases more dragged-out peace talks, claims Putin open to meeting Zelensky if vague conditions are met",
-    "link": "https://nypost.com/2025/08/04/world-news/putin-open-to-face-to-face-meeting-with-zelensky-but-only-if-certain-conditions-are-met/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-12-51-29 +0000"
-  },
-  {
-    "headline": "Inside Elon Musk’s Huge Payday",
-    "link": "https://www.nytimes.com/2025/08/04/business/dealbook/musk-tesla-compensation-billion.html",
-    "source": "nyt",
-    "pubdate": "2025-08-04-12-40-42 +0000"
-  },
-  {
-    "headline": "Soulja Boy arrested on suspicion of weapons charges",
-    "link": "https://www.bbc.com/news/articles/c62nzlqj2mpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-04-12-18-38 +0000"
-  },
-  {
-    "headline": "Watch: Florida police officer removes alligator from family's pool with bare hands",
-    "link": "https://www.bbc.com/news/videos/c0mlwp783r0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-04-12-05-40 +0000"
-  },
-  {
-    "headline": "Watch: Florida police officer removes alligator from family's pool with bare hands",
-    "link": "https://www.bbc.com/news/videos/c0mlwp783r0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-04-12-05-40 +0000"
-  },
-  {
-    "headline": "Watch: Florida police officer removes alligator from family's pool with bare hands",
-    "link": "https://www.bbc.com/news/videos/c0mlwp783r0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-04-12-05-40 +0000"
-  },
-  {
-    "headline": "Russia plays down Trump's order to move 2 nuclear subs, urges caution on nuclear rhetoric",
-    "link": "https://www.cbc.ca/news/world/russia-trump-nuclear-submarines-1.7600861?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-04-12-03-25 +0000"
-  },
-  {
-    "headline": "Eric and Donald Trump Jr. to Own Millions of Shares in New U.S. Manufacturing SPAC",
-    "link": "https://www.wsj.com/finance/investing/eric-and-donald-trump-jr-are-backing-a-u-s-manufacturing-spac-8eee6929?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-04-11-53-00 +0000"
-  },
-  {
-    "headline": "Eric and Donald Trump Jr. to Own Millions of Shares in New U.S. Manufacturing SPAC",
-    "link": "https://www.wsj.com/finance/investing/eric-and-donald-trump-jr-are-backing-a-u-s-manufacturing-spac-8eee6929?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-04-11-53-00 +0000"
   }
 ]
