@@ -1,5 +1,41 @@
 [
   {
+    "headline": "US attorney general orders grand jury hearings on Trump-Russia probe",
+    "link": "https://www.bbc.com/news/articles/c206dv2ekdeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-06-54-29 +0000"
+  },
+  {
+    "headline": "Denmark zoo asks people to donate their pets as food for its predators",
+    "link": "https://nypost.com/2025/08/05/world-news/denmark-zoo-asks-people-to-donate-their-small-pets-as-food-for-captive-predators/",
+    "source": "nypost",
+    "pubdate": "2025-08-05-06-49-40 +0000"
+  },
+  {
+    "headline": "Australia Selects Japan’s Mitsubishi Heavy to Build Frigates",
+    "link": "https://www.wsj.com/business/australia-selects-japans-mitsubishi-heavy-to-build-frigates-dcc05af5",
+    "source": "wsj",
+    "pubdate": "2025-08-05-06-33-00 +0000"
+  },
+  {
+    "headline": "Five years after huge Beirut blast, justice still elusive for victims",
+    "link": "https://www.washingtonpost.com/world/2025/08/05/beirut-port-blast-explosion-investigation/",
+    "source": "wapo",
+    "pubdate": "2025-08-05-06-00-33 +0000"
+  },
+  {
+    "headline": "Rosa fire burns 1,200 acres in Riverside County, prompting evacuation orders",
+    "link": "https://www.latimes.com/california/story/2025-08-04/rosa-fire-burns-in-riverside-county-prompting-evacuation-orders-in-ribbonwood",
+    "source": "latimes",
+    "pubdate": "2025-08-05-05-49-29 +0000"
+  },
+  {
+    "headline": "First UK-based firm gets space launch licence",
+    "link": "https://www.bbc.com/news/articles/c3r4n7qd5yzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-05-05-26-28 +0000"
+  },
+  {
     "headline": "Beloved shipwreck explorer and husband of top NJ lawyer dies during deep sea dive",
     "link": "https://nypost.com/2025/08/05/us-news/beloved-shipwreck-explorer-and-husband-of-top-nj-lawyer-joe-mazraani-dies-during-deep-sea-dive/",
     "source": "nypost",
@@ -15,13 +51,13 @@
     "headline": "Takeaways From the Times Investigation Into the Jeju Air Crash",
     "link": "https://www.nytimes.com/2025/08/05/world/asia/jeju-air-plane-crash-investigation-takeaways.html",
     "source": "nyt",
-    "pubdate": "2025-08-05-04-53-40 +0000"
+    "pubdate": "2025-08-05-04-53-41 +0000"
   },
   {
     "headline": "Takeaways From the Times Investigation Into the Jeju Air Crash",
     "link": "https://www.nytimes.com/2025/08/05/world/asia/jeju-air-plane-crash-investigation-takeaways.html",
     "source": "nyt",
-    "pubdate": "2025-08-05-04-53-40 +0000"
+    "pubdate": "2025-08-05-04-53-41 +0000"
   },
   {
     "headline": "Cory Booker refuses to endorse Zohran Mamdani for NYC mayor— while blasting ‘defund the police’ movement",
@@ -69,13 +105,13 @@
     "headline": "Jeju Air Plane Crash Highlights Decades of Blunders and Deadly Runway Wall",
     "link": "https://www.nytimes.com/2025/08/05/world/asia/jeju-air-crash-south-korea-investigation.html",
     "source": "nyt",
-    "pubdate": "2025-08-05-04-01-08 +0000"
+    "pubdate": "2025-08-05-04-01-09 +0000"
   },
   {
     "headline": "Jeju Air Plane Crash Highlights Decades of Blunders and Deadly Runway Wall",
     "link": "https://www.nytimes.com/2025/08/05/world/asia/jeju-air-crash-south-korea-investigation.html",
     "source": "nyt",
-    "pubdate": "2025-08-05-04-01-08 +0000"
+    "pubdate": "2025-08-05-04-01-09 +0000"
   },
   {
     "headline": "Norway’s Hedged Bet on Europe’s Energy Future: A Garbage Disposal for Emissions",
@@ -226,12 +262,6 @@
     "link": "https://www.nytimes.com/2025/08/01/world/asia/mamdani-india-hindu-muslims-modi-new-york-mayor.html",
     "source": "nyt",
     "pubdate": "2025-08-05-02-03-35 +0000"
-  },
-  {
-    "headline": "US attorney general orders grand jury hearings on Trump-Russia probe",
-    "link": "https://www.bbc.com/news/articles/c206dv2ekdeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-01-58-39 +0000"
   },
   {
     "headline": "Stock Market News, Aug. 4, 2025: Dow Gains Nearly 600 Points, Bouncing Back From Friday Decline",
@@ -1818,6 +1848,12 @@
     "pubdate": "2025-08-04-14-33-00 +0000"
   },
   {
+    "headline": "For a Few CEOs, Pay Keeps Growing—by the Billions",
+    "link": "https://www.wsj.com/business/c-suite/ceo-pay-growth-structure-63b91e62?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-04-14-33-00 +0000"
+  },
+  {
     "headline": "EU Prepares to Pause U.S. Counter-Tariffs for 6 Months",
     "link": "https://www.wsj.com/economy/trade/eu-prepares-to-pause-u-s-counter-tariffs-for-6-months-b6cca3bd",
     "source": "wsj",
@@ -2514,12 +2550,6 @@
     "pubdate": "2025-08-04-00-37-28 +0000"
   },
   {
-    "headline": "Russian volcano erupts for first time in centuries after massive earthquake strikes Kamchatka Peninsula",
-    "link": "https://nypost.com/2025/08/03/world-news/russian-volcano-erupts-for-first-time-in-centuries-after-earthquake/",
-    "source": "nypost",
-    "pubdate": "2025-08-04-00-31-56 +0000"
-  },
-  {
     "headline": "Car loan scandal payouts row - what's it about?",
     "link": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2862,12 +2892,6 @@
     "pubdate": "2025-08-03-15-21-00 +0000"
   },
   {
-    "headline": "A Steep Mountain Drive, a Brake Failure and a Volvo Recall",
-    "link": "https://www.wsj.com/business/autos/a-steep-mountain-drive-a-brake-failure-and-a-volvo-recall-5374b21c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-03-15-21-00 +0000"
-  },
-  {
     "headline": "New Hostage Videos Sow Fear and Horror in Israel",
     "link": "https://www.nytimes.com/2025/08/02/world/europe/new-hostage-videos-sow-fear-and-horror-in-israel.html",
     "source": "nyt",
@@ -3060,26 +3084,26 @@
     "pubdate": "2025-08-03-10-00-00 +0000"
   },
   {
+    "headline": "Barabak: In America's hardest-fought congressional district, voters agree: Release the Epstein files",
+    "link": "https://www.latimes.com/politics/story/2025-08-03/epstein-trump-voters-congressional-swing-district-california-central-valley",
+    "source": "latimes",
+    "pubdate": "2025-08-03-10-00-00 +0000"
+  },
+  {
     "headline": "A Compton family endured two killings in just eight months. Why justice is so elusive",
     "link": "https://www.latimes.com/california/story/2025-08-03/compton-family-homicides",
     "source": "latimes",
     "pubdate": "2025-08-03-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: In America's hardest-fought congressional district, voters agree: Release the Epstein files",
-    "link": "https://www.latimes.com/politics/story/2025-08-03/epstein-trump-voters-congressional-swing-district-california-central-valley",
-    "source": "latimes",
-    "pubdate": "2025-08-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: In America's hardest-fought congressional district, voters agree: Release the Epstein files",
-    "link": "https://www.latimes.com/politics/story/2025-08-03/epstein-trump-voters-congressional-swing-district-california-central-valley",
-    "source": "latimes",
-    "pubdate": "2025-08-03-10-00-00 +0000"
-  },
-  {
     "headline": "Abcarian: Will Trump weaken the federal judiciary with specious accusations against judges?",
     "link": "https://www.latimes.com/opinion/story/2025-08-03/james-boasberg-pam-bondi-donald-trump",
+    "source": "latimes",
+    "pubdate": "2025-08-03-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: In America's hardest-fought congressional district, voters agree: Release the Epstein files",
+    "link": "https://www.latimes.com/politics/story/2025-08-03/epstein-trump-voters-congressional-swing-district-california-central-valley",
     "source": "latimes",
     "pubdate": "2025-08-03-10-00-00 +0000"
   },
@@ -3588,14 +3612,14 @@
     "pubdate": "2025-08-02-10-00-00 +0000"
   },
   {
-    "headline": "L.A. city leaders are in high-stakes negotiations on Olympics costs",
-    "link": "https://www.latimes.com/california/story/2025-08-02/security-costs-olympics-2028",
+    "headline": "California man in dire need of a kidney transplant finds 1-in-100,000 match: His wife",
+    "link": "https://www.latimes.com/california/story/2025-08-02/man-in-need-of-kidney-transplant-finds-1-in-100k-match-in-wife",
     "source": "latimes",
     "pubdate": "2025-08-02-10-00-00 +0000"
   },
   {
-    "headline": "California man in dire need of a kidney transplant finds 1-in-100,000 match: His wife",
-    "link": "https://www.latimes.com/california/story/2025-08-02/man-in-need-of-kidney-transplant-finds-1-in-100k-match-in-wife",
+    "headline": "L.A. city leaders are in high-stakes negotiations on Olympics costs",
+    "link": "https://www.latimes.com/california/story/2025-08-02/security-costs-olympics-2028",
     "source": "latimes",
     "pubdate": "2025-08-02-10-00-00 +0000"
   },
@@ -4350,12 +4374,6 @@
     "pubdate": "2025-08-01-15-39-41 +0000"
   },
   {
-    "headline": "Civil service interns must be working class, government says",
-    "link": "https://www.bbc.com/news/articles/c3ez3v9v8jqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-01-15-39-41 +0000"
-  },
-  {
     "headline": "Confusion and anger in Switzerland - hit by highest tariffs in Europe",
     "link": "https://www.bbc.com/news/articles/c987l633zdgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4548,6 +4566,12 @@
     "pubdate": "2025-08-01-10-00-00 +0000"
   },
   {
+    "headline": "Chabria: Whom should Democrats back, 'a straight, old white guy' or Kamala Harris?",
+    "link": "https://www.latimes.com/california/story/2025-08-01/kamala-harris-hints-at-a-2028-re-run-heres-the-question-we-need-to-ask",
+    "source": "latimes",
+    "pubdate": "2025-08-01-10-00-00 +0000"
+  },
+  {
     "headline": "The energy source that could survive Trump's attack on California's green ambitions",
     "link": "https://www.latimes.com/environment/story/2025-08-01/avina-hydrogen-project-trump-attack-on-california-green-energy",
     "source": "latimes",
@@ -4560,26 +4584,20 @@
     "pubdate": "2025-08-01-10-00-00 +0000"
   },
   {
-    "headline": "Bear trouble in Sierra Madre: After the Eaton fire, home invasions rise sharply",
-    "link": "https://www.latimes.com/environment/story/2025-08-01/sierra-madre-bears-home-invasions-spike-in-june",
-    "source": "latimes",
-    "pubdate": "2025-08-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Chabria: Whom should Democrats back, 'a straight, old white guy' or Kamala Harris?",
-    "link": "https://www.latimes.com/california/story/2025-08-01/kamala-harris-hints-at-a-2028-re-run-heres-the-question-we-need-to-ask",
-    "source": "latimes",
-    "pubdate": "2025-08-01-10-00-00 +0000"
-  },
-  {
     "headline": "Long Beach man gets 358-year sentence for killing 17-year-old girl, shooting at four other minors",
     "link": "https://www.latimes.com/california/story/2025-08-01/man-sentenced-358-years-murder-17-year-old-girl",
     "source": "latimes",
     "pubdate": "2025-08-01-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: Whom should Democrats back, 'a straight, old white guy' or Kamala Harris?",
-    "link": "https://www.latimes.com/california/story/2025-08-01/kamala-harris-hints-at-a-2028-re-run-heres-the-question-we-need-to-ask",
+    "headline": "Bear trouble in Sierra Madre: After the Eaton fire, home invasions rise sharply",
+    "link": "https://www.latimes.com/environment/story/2025-08-01/sierra-madre-bears-home-invasions-spike-in-june",
+    "source": "latimes",
+    "pubdate": "2025-08-01-10-00-00 +0000"
+  },
+  {
+    "headline": "'This fire could have been prevented': How utilities fought removal of old power lines",
+    "link": "https://www.latimes.com/environment/story/2025-08-01/this-fire-could-have-been-prevented-how-utilities-fought-removal-of-old-powerlines",
     "source": "latimes",
     "pubdate": "2025-08-01-10-00-00 +0000"
   },
@@ -4590,8 +4608,8 @@
     "pubdate": "2025-08-01-10-00-00 +0000"
   },
   {
-    "headline": "'This fire could have been prevented': How utilities fought removal of old power lines",
-    "link": "https://www.latimes.com/environment/story/2025-08-01/this-fire-could-have-been-prevented-how-utilities-fought-removal-of-old-powerlines",
+    "headline": "Chabria: Whom should Democrats back, 'a straight, old white guy' or Kamala Harris?",
+    "link": "https://www.latimes.com/california/story/2025-08-01/kamala-harris-hints-at-a-2028-re-run-heres-the-question-we-need-to-ask",
     "source": "latimes",
     "pubdate": "2025-08-01-10-00-00 +0000"
   },
@@ -5202,8 +5220,8 @@
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
   {
-    "headline": "Homicidal cousins and the Hillside Stranglers case: A trial that nearly did not happen",
-    "link": "https://www.latimes.com/california/story/2025-07-31/crimes-of-the-times-the-hillside-stranglers",
+    "headline": "2 weeks ago, she left a doctor's appointment with her baby. They haven't been found since",
+    "link": "https://www.latimes.com/california/story/2025-07-31/sacramento-mom-whisper-owen-baby-sandra-disappeared",
     "source": "latimes",
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
@@ -5214,8 +5232,8 @@
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
   {
-    "headline": "2 weeks ago, she left a doctor's appointment with her baby. They haven't been found since",
-    "link": "https://www.latimes.com/california/story/2025-07-31/sacramento-mom-whisper-owen-baby-sandra-disappeared",
+    "headline": "Homicidal cousins and the Hillside Stranglers case: A trial that nearly did not happen",
+    "link": "https://www.latimes.com/california/story/2025-07-31/crimes-of-the-times-the-hillside-stranglers",
     "source": "latimes",
     "pubdate": "2025-07-31-10-00-00 +0000"
   },
