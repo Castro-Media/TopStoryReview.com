@@ -1,31 +1,24 @@
 [
   {
-    "score": 178,
+    "score": 176,
     "pubdate": "2025-08-04-22-54-00 +0000",
     "source": "wsj",
     "headline": "Democratic lawmakers blocked the Texas House from meeting Monday, preventing Republicans from moving ahead with a new congressional map requested by President Trump",
     "link": "https://www.wsj.com/politics/policy/republican-democrats-redistricting-plans-c9130078"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2025-08-05-13-27-00 +0000",
     "source": "cbc",
     "headline": "India, Russia hit back after U.S. accuses Modi government of fuelling Russia's war in Ukraine",
     "link": "https://www.cbc.ca/news/world/india-us-russia-tensions-1.7601238?cmp=rss"
   },
   {
-    "score": 71,
+    "score": 65,
     "pubdate": "2025-08-04-22-16-12 +0000",
     "source": "wapo",
     "headline": "Netanyahu fires attorney general as domestic pressure over Gaza heats up",
     "link": "https://www.washingtonpost.com/world/2025/08/04/gaza-war-netanyahu-pressure/"
-  },
-  {
-    "score": 69,
-    "pubdate": "2025-08-05-13-27-37 +0000",
-    "source": "nypost",
-    "headline": "Jeffrey Epstein’s NYC den of depravity: Hidden cameras, a first edition ‘Lolita,’ and a curious $1 bill signed by Bill Gates",
-    "link": "https://nypost.com/2025/08/05/us-news/jeffrey-epsteins-nyc-den-of-depravity-hidden-cameras-a-first-edition-lolita-and-1-bill-signed-by-bill-gates/"
   },
   {
     "score": 62,
@@ -35,28 +28,21 @@
     "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
   },
   {
-    "score": 53,
-    "pubdate": "2025-08-04-19-28-34 +0000",
-    "source": "nyt",
-    "headline": "India says additional U.S. tariffs over Russian oil purchases are ‘unjustified and unreasonable.’",
-    "link": "https://www.nytimes.com/live/2025/08/04/us/trump-news/india-signals-no-intention-of-pulling-back-on-russian-oil-despite-us-pressure"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-08-05-01-35-28 +0000",
+    "score": 61,
+    "pubdate": "2025-08-05-01-17-08 +0000",
     "source": "latimes",
-    "headline": "California cannabis firm raided by ICE unveils big labor changes to avoid a repeat",
-    "link": "https://www.latimes.com/california/story/2025-08-04/glass-house-cannabis-major-changes-after-ice-raid"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-08-05-12-25-34 +0000",
-    "source": "nypost",
-    "headline": "7-year-old girl survivor in deadly Miami boat crash was trapped underneath 60-foot barge that struck them",
-    "link": "https://nypost.com/2025/08/05/us-news/7-year-old-girl-injured-in-deadly-miami-boat-crash-was-trapped-under-a-barge-before-swimming-to-safety-profoundly-traumatic/"
+    "headline": "Wealthy first-time candidate Cloobeck drops $1.4 million on TV ads in the California governor's race",
+    "link": "https://www.latimes.com/california/story/2025-08-04/wealthy-first-time-candidate-cloobeck-drops-nearly-1-million-on-tv-ads-in-the-governors-race"
   },
   {
     "score": 47,
+    "pubdate": "2025-08-05-14-27-27 +0000",
+    "source": "nypost",
+    "headline": "Bill and Hillary Clinton, former AGs and FBI directors subpoenaed for Jeffrey Epstein testimony",
+    "link": "https://nypost.com/2025/08/05/us-news/bill-and-hillary-clinton-former-ags-and-fbi-directors-subpoenaed-for-jeffrey-epstein-testimony/"
+  },
+  {
+    "score": 46,
     "pubdate": "2025-08-05-13-39-25 +0000",
     "source": "nypost",
     "headline": "CEO ignored ‘red flags’ ahead of ‘preventable’ Titan submersible disaster that killed 5, scathing Coast Guard report reveals",
@@ -64,9 +50,23 @@
   },
   {
     "score": 41,
+    "pubdate": "2025-08-05-16-34-00 +0000",
+    "source": "wsj",
+    "headline": "The Swiss president is heading to the U.S. in a last-ditch effort to head off punishing tariffs that threaten to cripple key sectors of the country’s economy",
+    "link": "https://www.wsj.com/economy/trade/swiss-president-dashes-to-washington-to-avert-crippling-trump-tariffs-a2f2f2a0"
+  },
+  {
+    "score": 39,
     "pubdate": "2025-08-05-16-37-47 +0000",
     "source": "nypost",
     "headline": "Tulsi Gabbard tells ‘Pod Force One’ about life on TSA watchlist: ‘Makes zero sense whatsoever’",
     "link": "https://nypost.com/2025/08/05/us-news/tulsi-gabbard-tells-pod-force-one-about-life-on-tsa-watchlist-makes-zero-sense-whatsoever/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-08-04-21-04-00 +0000",
+    "source": "wsj",
+    "headline": "The State Department may require travelers entering the U.S. from certain countries to post a bond of up to $15,000, a move aimed at deterring foreigners from overstaying their visas",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-to-require-bonds-of-up-to-15-000-for-travelers-to-enter-the-u-s-9f778f7e"
   }
 ]
