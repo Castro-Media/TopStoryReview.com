@@ -1,24 +1,17 @@
 [
   {
-    "score": 144,
-    "pubdate": "2025-08-03-23-36-00 +0000",
+    "score": 121,
+    "pubdate": "2025-08-04-00-50-00 +0000",
     "source": "wsj",
-    "headline": "The cost of the border wall has ballooned since President Trump’s first term when he said it would cost $8 billion and Mexico would pay for it. Congress recently allocated $46 billion for it",
-    "link": "https://www.wsj.com/politics/policy/trump-border-wall-texas-eminent-domain-b9f048c3"
+    "headline": "A chief White House economic adviser said that Trump wants allies placed in the Bureau of Labor Statistics after the agency published a dismal jobs report and the president fired its commissioner",
+    "link": "https://www.wsj.com/economy/jobs/trump-seeks-bigger-overhaul-at-labor-statistics-bureau-adviser-says-dc109bac"
   },
   {
-    "score": 84,
+    "score": 76,
     "pubdate": "2025-08-04-09-03-26 +0000",
     "source": "nyt",
     "headline": "Texas Redistricting Fight Prompts Democratic Group to Call on Blue States for New Maps",
     "link": "https://www.nytimes.com/2025/08/04/us/politics/democrats-redistricting.html"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-08-04-21-50-00 +0000",
-    "source": "wsj",
-    "headline": "Brazil’s Supreme Court Orders Ex-President Bolsonaro Under House Arrest for Defying Court Order",
-    "link": "https://www.wsj.com/world/americas/brazils-supreme-court-orders-ex-president-bolsonaro-under-house-arrest-for-defying-court-order-61717783"
   },
   {
     "score": 66,
@@ -28,7 +21,14 @@
     "link": "https://www.cbc.ca/radio/sunday/hiroshima-nagasaki-80-years-rising-threat-1.7599863?cmp=rss"
   },
   {
-    "score": 57,
+    "score": 64,
+    "pubdate": "2025-08-04-21-48-14 +0000",
+    "source": "nypost",
+    "headline": "Brazil’s Supreme Court orders house arrest for ex-President Jair Bolsonaro as he faces trial",
+    "link": "https://nypost.com/2025/08/04/world-news/brazils-supreme-court-orders-house-arrest-for-former-president-jair-bolsonaro/"
+  },
+  {
+    "score": 56,
     "pubdate": "2025-08-04-06-23-04 +0000",
     "source": "bbc",
     "headline": "Dozens of Ethiopian migrants feared dead as boat capsizes off Yemen",
@@ -42,21 +42,21 @@
     "link": "https://www.nytimes.com/live/2025/08/04/us/trump-news/india-signals-no-intention-of-pulling-back-on-russian-oil-despite-us-pressure"
   },
   {
-    "score": 51,
-    "pubdate": "2025-08-04-19-12-07 +0000",
-    "source": "nyt",
-    "headline": "Monday Briefing: An ‘All or Nothing’ Gaza Deal",
-    "link": "https://www.nytimes.com/2025/08/03/briefing/gaza-hostage-deal-tariff-russia-vatican.html"
-  },
-  {
-    "score": 46,
+    "score": 52,
     "pubdate": "2025-08-04-15-16-00 +0000",
     "source": "wsj",
     "headline": "Elon Musk Gets $23.7 Billion Stock Award From Tesla to Stay Focused",
     "link": "https://www.wsj.com/business/autos/tesla-approves-ceo-musk-pay-package-7c75a7bf?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 44,
+    "score": 51,
+    "pubdate": "2025-08-04-19-13-53 +0000",
+    "source": "nyt",
+    "headline": "Monday Briefing: An ‘All or Nothing’ Gaza Deal",
+    "link": "https://www.nytimes.com/2025/08/04/briefing/gaza-trump-tariffs-lesotho-putin-russia-censorship.html"
+  },
+  {
+    "score": 45,
     "pubdate": "2025-08-04-17-36-12 +0000",
     "source": "nypost",
     "headline": "Boeing fighter jet workers go on strike after rejecting contract offer with pay raises",
@@ -64,9 +64,9 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-08-04-00-50-00 +0000",
-    "source": "wsj",
-    "headline": "A chief White House economic adviser said that Trump wants allies placed in the Bureau of Labor Statistics after the agency published a dismal jobs report and the president fired its commissioner",
-    "link": "https://www.wsj.com/economy/jobs/trump-seeks-bigger-overhaul-at-labor-statistics-bureau-adviser-says-dc109bac"
+    "pubdate": "2025-08-04-19-22-10 +0000",
+    "source": "nypost",
+    "headline": "Russia backs off Medvedev rhetoric after Trump orders nuke subs closer to Moscow: ‘Everyone should be extremely careful’",
+    "link": "https://nypost.com/2025/08/04/us-news/russia-backs-off-medvedev-rhetoric-after-trump-says-he-ordered-nuke-subs-closer-to-moscow/"
   }
 ]
