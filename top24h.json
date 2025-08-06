@@ -1,13 +1,13 @@
 [
   {
-    "score": 124,
-    "pubdate": "2025-08-05-12-30-44 +0000",
-    "source": "nyt",
-    "headline": "What Talks With India and Switzerland Say About Trump’s Trade War",
-    "link": "https://www.nytimes.com/2025/08/05/business/dealbook/trump-india-switzerland-tariffs.html"
+    "score": 146,
+    "pubdate": "2025-08-06-01-44-41 +0000",
+    "source": "nypost",
+    "headline": "Trump envoy Witkoff urged to take tough approach with Putin in make-or-break meeting to end Ukraine war before sanctions",
+    "link": "https://nypost.com/2025/08/05/us-news/trump-envoy-witkoff-urged-to-take-tough-approach-with-putin-in-make-or-break-meeting-to-end-ukraine-war-before-sanctions/"
   },
   {
-    "score": 70,
+    "score": 65,
     "pubdate": "2025-08-06-00-26-29 +0000",
     "source": "nyt",
     "headline": "California Democrats Look to Redraw House Map Amid Texas Redistricting War",
@@ -21,28 +21,21 @@
     "link": "https://nypost.com/2025/08/05/world-news/titan-submersible-disaster-that-killed-5-on-way-to-titanic-ruins-was-preventable-coast-guard-says/"
   },
   {
-    "score": 49,
+    "score": 53,
+    "pubdate": "2025-08-05-18-55-26 +0000",
+    "source": "cbc",
+    "headline": "Carney hints at dropping some U.S. tariffs if it will help Canadian industries hit by trade war",
+    "link": "https://www.cbc.ca/news/politics/carney-trump-trade-softwood-1.7601624?cmp=rss"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-08-05-11-39-33 +0000",
     "source": "nyt",
     "headline": "On Gaza, Germany’s Government Faces Pressure From All Sides",
     "link": "https://www.nytimes.com/2025/08/05/world/europe/germany-gaza-israel-hunger-merz.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-08-05-16-34-00 +0000",
-    "source": "wsj",
-    "headline": "The Swiss president is heading to the U.S. in a last-ditch effort to head off punishing tariffs that threaten to cripple key sectors of the country’s economy",
-    "link": "https://www.wsj.com/economy/trade/swiss-president-dashes-to-washington-to-avert-crippling-trump-tariffs-a2f2f2a0"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-05-16-53-34 +0000",
-    "source": "nypost",
-    "headline": "Former X CEO Linda Yaccarino lands new gig at digital health firm focused on weight loss drugs",
-    "link": "https://nypost.com/2025/08/05/business/former-x-ceo-linda-yaccarino-lands-new-gig-at-digital-health-firm-focused-on-weight-loss-drugs/"
-  },
-  {
-    "score": 42,
+    "score": 43,
     "pubdate": "2025-08-05-15-35-28 +0000",
     "source": "nyt",
     "headline": "Inside Jeffrey Epstein’s Manhattan Townhouse: Birthday Letters, First Edition ‘Lolita’ and More",
@@ -50,17 +43,10 @@
   },
   {
     "score": 42,
-    "pubdate": "2025-08-05-19-42-59 +0000",
+    "pubdate": "2025-08-05-16-53-34 +0000",
     "source": "nypost",
-    "headline": "Zelensky says Ukraine ready to ink drone deal with US as Trump ramps up pressure on Russia",
-    "link": "https://nypost.com/2025/08/05/us-news/zelensky-says-ukraine-ready-to-ink-drone-deal-with-us-as-trump-ramps-up-pressure-on-russia/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-08-05-23-09-34 +0000",
-    "source": "nypost",
-    "headline": "Carriage horse dies on NYC street in horrifying scene — nearly three years to the day distressed Ryder collapsed",
-    "link": "https://nypost.com/2025/08/05/us-news/carriage-horse-dies-on-nyc-street-in-horrifying-scene/"
+    "headline": "Former X CEO Linda Yaccarino lands new gig at digital health firm focused on weight loss drugs",
+    "link": "https://nypost.com/2025/08/05/business/former-x-ceo-linda-yaccarino-lands-new-gig-at-digital-health-firm-focused-on-weight-loss-drugs/"
   },
   {
     "score": 40,
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "Social Security phasing out paper checks as Trump pushes payment overhaul",
     "link": "https://nypost.com/2025/08/05/us-news/social-security-phasing-out-paper-checks-as-trump-pushes-payment-overhaul/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-08-06-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Reserve governor Adriana Kugler is set to leave the central bank on Friday, and President Trump is seriously considering tapping her successor to be the next Fed chair",
+    "link": "https://www.wsj.com/economy/central-banking/trump-fed-jerome-powell-replacement-dffd5a6b"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-08-05-23-19-49 +0000",
+    "source": "latimes",
+    "headline": "L.A. County residents illegally exported 'sensitive' high-power AI microchips to China, feds allege",
+    "link": "https://www.latimes.com/california/story/2025-08-05/la-county-residents-illegally-exported-sensitive-high-power-ai-microchips-to-china-feds-allege"
   }
 ]
