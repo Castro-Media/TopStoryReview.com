@@ -1,6 +1,6 @@
 [
   {
-    "score": 171,
+    "score": 166,
     "pubdate": "2025-08-06-01-44-41 +0000",
     "source": "nypost",
     "headline": "Trump envoy Witkoff urged to take tough approach with Putin in make-or-break meeting to end Ukraine war before sanctions",
@@ -21,18 +21,11 @@
     "link": "https://nypost.com/2025/08/06/world-news/zohran-mamdanis-democratic-socialists-of-america-group-backed-radical-pro-north-korea-rally/"
   },
   {
-    "score": 62,
+    "score": 59,
     "pubdate": "2025-08-06-09-00-00 +0000",
     "source": "wsj",
     "headline": "Democrats are adding potentially risky Epstein-related attacks during their August break home with voters to their attacks on the Trump tax law",
     "link": "https://www.wsj.com/politics/policy/epstein-files-democrats-trump-1a5dbc6c"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-08-06-14-14-46 +0000",
-    "source": "nypost",
-    "headline": "Trump slaps additional 25% tariff on India over Russian oil purchases — bringing total rate to 50%",
-    "link": "https://nypost.com/2025/08/06/us-news/trump-slaps-additional-25-tariff-on-india-over-russian-oil-purchases-bringing-total-rate-to-50/"
   },
   {
     "score": 57,
@@ -43,24 +36,17 @@
   },
   {
     "score": 54,
+    "pubdate": "2025-08-06-14-14-46 +0000",
+    "source": "nypost",
+    "headline": "Trump slaps additional 25% tariff on India over Russian oil purchases — bringing total rate to 50%",
+    "link": "https://nypost.com/2025/08/06/us-news/trump-slaps-additional-25-tariff-on-india-over-russian-oil-purchases-bringing-total-rate-to-50/"
+  },
+  {
+    "score": 53,
     "pubdate": "2025-08-05-22-35-12 +0000",
     "source": "nyt",
     "headline": "Bolsonaro House Arrest Casts Shadow Over Brazil-U.S. Trade Talks",
     "link": "https://www.nytimes.com/2025/08/05/world/americas/brazil-bolsonaro-us-trade-talks.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-08-06-09-56-37 +0000",
-    "source": "bbc",
-    "headline": "Chinese nationals charged with exporting Nvidia AI chips to China",
-    "link": "https://www.bbc.com/news/articles/c4gm921x424o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-06-11-49-45 +0000",
-    "source": "nypost",
-    "headline": "Virgin Atlantic passenger threatens to rape flight attendant, blow up her hotel in scary first-class outburst in front of his wife and kids",
-    "link": "https://nypost.com/2025/08/06/world-news/staffing-match-employee-salman-iftikhar-threatened-to-rape-flight-attendant-in-first-class-blowup/"
   },
   {
     "score": 48,
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "Alec Luhn, Missing American Journalist, Found Alive in Norway",
     "link": "https://www.nytimes.com/2025/08/06/world/europe/alec-luhn-norway-found.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-08-06-11-49-45 +0000",
+    "source": "nypost",
+    "headline": "Virgin Atlantic passenger threatens to rape flight attendant, blow up her hotel in scary first-class outburst in front of his wife and kids",
+    "link": "https://nypost.com/2025/08/06/world-news/staffing-match-employee-salman-iftikhar-threatened-to-rape-flight-attendant-in-first-class-blowup/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-08-06-09-56-37 +0000",
+    "source": "bbc",
+    "headline": "Chinese nationals charged with exporting Nvidia AI chips to China",
+    "link": "https://www.bbc.com/news/articles/c4gm921x424o?at_medium=RSS&at_campaign=rss"
   }
 ]
