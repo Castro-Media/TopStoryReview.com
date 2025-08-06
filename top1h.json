@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 26,
+    "pubdate": "2025-08-06-12-20-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Envoy Witkoff Meets With Putin as Russia Seeks to Head Off Sanctions",
+    "link": "https://www.wsj.com/world/russia/trump-envoy-witkoff-meets-with-putin-as-russia-seeks-to-head-off-sanctions-e37713c7"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-08-06-12-45-15 +0000",
+    "source": "nyt",
+    "headline": "Alec Luhn, Missing American Hiker, Is Found Alive in Norway",
+    "link": "https://www.nytimes.com/2025/08/06/world/europe/alec-luhn-norway-found.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-08-06-12-37-14 +0000",
+    "source": "bbc",
+    "headline": "Ghanaian star Shatta Wale's luxury car surrendered over alleged link to US crime",
+    "link": "https://www.bbc.com/news/articles/cq687q927r7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-08-06-12-10-27 +0000",
+    "source": "bbc",
+    "headline": "Reeves must raise tax to cover £41bn gap, says think tank",
+    "link": "https://www.bbc.com/news/articles/cn85vyd1epzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-08-06-13-02-57 +0000",
+    "source": "nyt",
+    "headline": "Senator Marsha Blackburn Will Run for Governor of Tennessee",
+    "link": "https://www.nytimes.com/2025/08/06/us/politics/marsha-blackburn-governor-tennessee.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-06-13-01-44 +0000",
+    "source": "nyt",
+    "headline": "Sudan’s Civil War Shifts Toward Kordofan",
+    "link": "https://www.nytimes.com/2025/08/06/world/africa/sudan-war-kordofan-darfur.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-06-12-26-46 +0000",
+    "source": "startribune",
+    "headline": "Roper: After riding a boom into office, Frey and Carter fight for third terms in a challenging era",
+    "link": "https://www.startribune.com/jacob-frey-melvin-carter-minneapolis-st-paul-mayor-election/601449738"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-06-12-48-00 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Futures Rise; Investors Eye Trade Talks, Earnings",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2025?mod=rss_markets_main"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-06-12-30-09 +0000",
+    "source": "nypost",
+    "headline": "Boater killed girl while driving drunk — with 39 empty beer cans found on his boat: DA",
+    "link": "https://nypost.com/2025/08/06/us-news/39-beer-cans-found-on-boat-after-drunken-crash-that-left-10-year-old-girl-dead-woman-without-a-leg-da/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-06-12-22-37 +0000",
+    "source": "nypost",
+    "headline": "Lawyers urge feds to probe alleged rampant sex abuse at LA County juvenile bootcamps",
+    "link": "https://nypost.com/2025/08/06/us-news/attorneys-seek-federal-probe-of-los-angeles-county-sexual-abuse-allegations/"
+  }
+]
