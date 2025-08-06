@@ -1,20 +1,13 @@
 [
   {
-    "score": 407,
+    "score": 415,
     "pubdate": "2025-08-06-15-28-28 +0000",
     "source": "bbc",
     "headline": "Trump-Modi ties hit rock bottom with new tariffs on India over Russian oil",
     "link": "https://www.bbc.com/news/articles/c15lqe7v302o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 155,
-    "pubdate": "2025-08-06-19-46-31 +0000",
-    "source": "nypost",
-    "headline": "Trump plans sitdown with Putin, Zelensky in first meeting between leaders since Ukraine war began: source",
-    "link": "https://nypost.com/2025/08/06/us-news/trump-plans-sitdown-with-putin-zelensky-in-first-meeting-between-leaders-since-ukraine-war-began-source/"
-  },
-  {
-    "score": 143,
+    "score": 151,
     "pubdate": "2025-08-06-10-00-00 +0000",
     "source": "latimes",
     "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
@@ -22,41 +15,48 @@
   },
   {
     "score": 130,
-    "pubdate": "2025-08-01-15-57-21 +0000",
-    "source": "cbc",
-    "headline": "Viable trade deal wasn't on the table ahead of deadline, Canada-U.S. trade minister says",
-    "link": "https://www.cbc.ca/news/politics/reaction-trump-tariffs-canada-deadline-1.7599650?cmp=rss"
+    "pubdate": "2025-08-06-19-46-31 +0000",
+    "source": "nypost",
+    "headline": "Trump plans sitdown with Putin, Zelensky in first meeting between leaders since Ukraine war began: source",
+    "link": "https://nypost.com/2025/08/06/us-news/trump-plans-sitdown-with-putin-zelensky-in-first-meeting-between-leaders-since-ukraine-war-began-source/"
   },
   {
-    "score": 126,
-    "pubdate": "2025-08-04-00-50-00 +0000",
+    "score": 125,
+    "pubdate": "2025-07-30-23-23-00 +0000",
     "source": "wsj",
-    "headline": "A chief White House economic adviser said that Trump wants allies placed in the Bureau of Labor Statistics after the agency published a dismal jobs report and the president fired its commissioner",
-    "link": "https://www.wsj.com/economy/jobs/trump-seeks-bigger-overhaul-at-labor-statistics-bureau-adviser-says-dc109bac"
+    "headline": "Canada-U.S. Trade Talks Might Fail to Produce Tariff Deal by Aug. 1, Carney Says",
+    "link": "https://www.wsj.com/articles/canada-u-s-trade-talks-might-fail-to-produce-tariff-deal-by-aug-1-carney-says-3b854173"
   },
   {
-    "score": 118,
+    "score": 114,
+    "pubdate": "2025-08-05-01-12-00 +0000",
+    "source": "wsj",
+    "headline": "Brazil’s Supreme Court Orders Ex-President Bolsonaro Under House Arrest for Defying Court Order",
+    "link": "https://www.wsj.com/world/americas/brazils-supreme-court-orders-ex-president-bolsonaro-under-house-arrest-for-defying-court-order-61717783"
+  },
+  {
+    "score": 100,
     "pubdate": "2025-08-01-14-08-00 +0000",
     "source": "wsj",
     "headline": "U.S. Envoy Steve Witkoff Visits Gaza as Trump, Under Pressure, Seeks Aid Plan",
     "link": "https://www.wsj.com/world/middle-east/u-s-envoy-steve-witkoff-to-visit-gaza-as-trump-under-pressure-seeks-aid-plan-b0c057cf"
   },
   {
-    "score": 92,
-    "pubdate": "2025-08-04-21-04-00 +0000",
+    "score": 96,
+    "pubdate": "2025-08-06-17-46-00 +0000",
     "source": "wsj",
-    "headline": "The State Department may require travelers entering the U.S. from certain countries to post a bond of up to $15,000, a move aimed at deterring foreigners from overstaying their visas",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-to-require-bonds-of-up-to-15-000-for-travelers-to-enter-the-u-s-9f778f7e"
+    "headline": "Democrats are adding potentially risky Epstein-related attacks during their August break home with voters to their attacks on the Trump tax law",
+    "link": "https://www.wsj.com/politics/policy/epstein-files-democrats-trump-1a5dbc6c"
   },
   {
-    "score": 83,
+    "score": 82,
     "pubdate": "2025-08-05-21-08-00 +0000",
     "source": "wsj",
     "headline": "Opinion | China’s Z.ai and America’s Self-Defeating AI Strategy",
     "link": "https://www.wsj.com/opinion/chinas-z-ai-and-americas-self-defeating-ai-strategy-77af6552"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2025-08-06-19-27-00 +0000",
     "source": "wsj",
     "headline": "New York Times Digital Revenue Gains Help Push Stock to All-Time High",
@@ -64,9 +64,9 @@
   },
   {
     "score": 79,
-    "pubdate": "2025-08-06-19-43-33 +0000",
-    "source": "nypost",
-    "headline": "NYC designer Martha Nolan’s body had no ‘evidence’ of violence when found on Montauk boat as cops reveal onlookers tried to save her",
-    "link": "https://nypost.com/2025/08/06/us-news/nyc-designer-martha-nolans-body-had-no-signs-of-violence-when-she-was-found-dead-on-montauk-boat/"
+    "pubdate": "2025-08-04-21-04-00 +0000",
+    "source": "wsj",
+    "headline": "The State Department may require travelers entering the U.S. from certain countries to post a bond of up to $15,000, a move aimed at deterring foreigners from overstaying their visas",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-to-require-bonds-of-up-to-15-000-for-travelers-to-enter-the-u-s-9f778f7e"
   }
 ]
