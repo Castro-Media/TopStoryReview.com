@@ -1,17 +1,10 @@
 [
   {
-    "score": 211,
+    "score": 209,
     "pubdate": "2025-08-06-15-28-28 +0000",
     "source": "bbc",
     "headline": "Trump-Modi ties hit rock bottom with new tariffs on India over Russian oil",
     "link": "https://www.bbc.com/news/articles/c15lqe7v302o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-08-06-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
-    "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters"
   },
   {
     "score": 74,
@@ -21,7 +14,14 @@
     "link": "https://nypost.com/2025/08/06/us-news/trump-plans-sitdown-with-putin-zelensky-in-first-meeting-between-leaders-since-ukraine-war-began-source/"
   },
   {
-    "score": 59,
+    "score": 72,
+    "pubdate": "2025-08-06-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
+    "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters"
+  },
+  {
+    "score": 58,
     "pubdate": "2025-08-07-00-00-00 +0000",
     "source": "wsj",
     "headline": "Democrats are adding potentially risky Epstein-related attacks during their August break home with voters to their attacks on the Trump tax law",
@@ -50,23 +50,23 @@
   },
   {
     "score": 45,
+    "pubdate": "2025-08-07-00-49-04 +0000",
+    "source": "nypost",
+    "headline": "Anti-Israel activist Mahmoud Khalil argues Oct. 7 terror attack was ‘desperate attempt’ by Palestinians to ‘break the cycle’",
+    "link": "https://nypost.com/2025/08/06/us-news/mahmoud-khalil-argues-oct-7-was-desperate-attempt-by-palestinians-to-break-the-cycle/"
+  },
+  {
+    "score": 45,
     "pubdate": "2025-08-06-23-54-16 +0000",
     "source": "nyt",
     "headline": "Huckabee Says U.S.-Backed Aid Sites in Gaza Will ‘Scale Up’",
     "link": "https://www.nytimes.com/2025/08/06/world/middleeast/huckabee-gaza-aid-ghf.html"
   },
   {
-    "score": 45,
+    "score": 44,
     "pubdate": "2025-08-07-00-10-12 +0000",
     "source": "nypost",
     "headline": "Out-of-control driver accused of killing 4 Pepperdine University seniors appears in court after hiring Karen Read’s high-power attorney",
     "link": "https://nypost.com/2025/08/06/us-news/fraser-michael-bohm-pleads-not-guilty-to-killing-four-pepperdine-university-students/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-07-00-49-04 +0000",
-    "source": "nypost",
-    "headline": "Anti-Israel activist Mahmoud Khalil argues Oct. 7 terror attack was ‘desperate attempt’ by Palestinians to ‘break the cycle’",
-    "link": "https://nypost.com/2025/08/06/us-news/mahmoud-khalil-argues-oct-7-was-desperate-attempt-by-palestinians-to-break-the-cycle/"
   }
 ]
