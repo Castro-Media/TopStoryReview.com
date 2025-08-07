@@ -1,27 +1,27 @@
 [
   {
-    "score": 252,
+    "score": 273,
     "pubdate": "2025-08-06-15-28-28 +0000",
     "source": "bbc",
     "headline": "Trump-Modi ties hit rock bottom with new tariffs on India over Russian oil",
     "link": "https://www.bbc.com/news/articles/c15lqe7v302o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 85,
+    "score": 91,
     "pubdate": "2025-08-06-19-46-31 +0000",
     "source": "nypost",
     "headline": "Trump plans sitdown with Putin, Zelensky in first meeting between leaders since Ukraine war began: source",
     "link": "https://nypost.com/2025/08/06/us-news/trump-plans-sitdown-with-putin-zelensky-in-first-meeting-between-leaders-since-ukraine-war-began-source/"
   },
   {
-    "score": 75,
+    "score": 79,
     "pubdate": "2025-08-07-04-12-00 +0000",
     "source": "wsj",
     "headline": "China’s exports grew at a faster clip in July, showing that U.S. tariffs so far haven’t curtailed China’s export machine, although trade with America has fallen",
     "link": "https://www.wsj.com/economy/trade/chinas-exports-accelerated-in-july-ahead-of-tariff-truce-deadline-e89892ea"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-08-07-10-05-00 +0000",
     "source": "wsj",
     "headline": "Russia Says Putin and Trump Will Meet in Coming Days",
@@ -35,14 +35,21 @@
     "link": "https://nypost.com/2025/08/06/world-news/italy-approves-project-to-build-worlds-longest-suspension-bridge/"
   },
   {
-    "score": 53,
+    "score": 54,
     "pubdate": "2025-08-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "Economic activity tied to manufacturing has shrunk during most of President Trump’s second term, despite companies’ pledges to beef up investments in domestic production",
     "link": "https://www.wsj.com/economy/trump-pledged-to-bring-back-manufacturing-the-sector-is-sputtering-c6344630"
   },
   {
-    "score": 50,
+    "score": 52,
+    "pubdate": "2025-08-07-06-51-12 +0000",
+    "source": "nypost",
+    "headline": "Trump celebrates ‘billions of dollars’ flooding into US as higher tariff rates he slapped on trading partners take effect",
+    "link": "https://nypost.com/2025/08/07/us-news/trumps-higher-tariff-rates-hit-goods-from-major-us-trading-partners/"
+  },
+  {
+    "score": 51,
     "pubdate": "2025-08-07-06-15-34 +0000",
     "source": "nypost",
     "headline": "Texas AG launches probe into Beto O’Rourke’s political group over funding for Democrats who fled state",
@@ -50,23 +57,16 @@
   },
   {
     "score": 46,
-    "pubdate": "2025-08-07-10-04-49 +0000",
+    "pubdate": "2025-08-07-11-06-24 +0000",
     "source": "bbc",
     "headline": "First migrants detained under 'one in, one out' deal with France",
     "link": "https://www.bbc.com/news/articles/ce35v0zyzvlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2025-08-06-20-03-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s tariff rollout has taken numerous twists and turns since launching earlier this year. Here’s a roundup of where things stand.",
-    "link": "https://www.wsj.com/economy/trade/trump-tariffs-countries-trade-explained-7f826419"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-08-06-16-33-17 +0000",
-    "source": "nypost",
-    "headline": "Israeli military chief opposes Netanyahu’s plan to occupy Gaza",
-    "link": "https://nypost.com/2025/08/06/world-news/israeli-military-chief-opposes-netanyahus-plan-to-occupy-gaza/"
+    "score": 44,
+    "pubdate": "2025-08-06-21-03-03 +0000",
+    "source": "nyt",
+    "headline": "Despite Opposition, Netanyahu’s Security Cabinet to Discuss Gaza Military Push",
+    "link": "https://www.nytimes.com/2025/08/06/world/middleeast/israel-gaza-occupation-netanyahu.html"
   }
 ]
