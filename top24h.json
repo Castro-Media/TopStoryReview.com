@@ -1,31 +1,24 @@
 [
   {
-    "score": 231,
+    "score": 222,
     "pubdate": "2025-08-06-19-46-31 +0000",
     "source": "nypost",
     "headline": "Trump plans sitdown with Putin, Zelensky in first meeting between leaders since Ukraine war began: source",
     "link": "https://nypost.com/2025/08/06/us-news/trump-plans-sitdown-with-putin-zelensky-in-first-meeting-between-leaders-since-ukraine-war-began-source/"
   },
   {
-    "score": 124,
+    "score": 114,
     "pubdate": "2025-08-07-04-12-00 +0000",
     "source": "wsj",
     "headline": "China’s exports grew at a faster clip in July, showing that U.S. tariffs so far haven’t curtailed China’s export machine, although trade with America has fallen",
     "link": "https://www.wsj.com/economy/trade/chinas-exports-accelerated-in-july-ahead-of-tariff-truce-deadline-e89892ea"
   },
   {
-    "score": 100,
+    "score": 99,
     "pubdate": "2025-08-07-16-04-00 +0000",
     "source": "wsj",
     "headline": "Sen. John Cornyn said the FBI will help track down Texas Democratic lawmakers who fled the state, blocking Republicans from taking up redistricting legislation",
     "link": "https://www.wsj.com/politics/policy/fbi-texas-democrats-congressional-redistricting-56be425b"
-  },
-  {
-    "score": 69,
-    "pubdate": "2025-08-06-19-22-27 +0000",
-    "source": "nyt",
-    "headline": "Trump to Double India’s Tariff to 50% Over Russian Oil Purchases",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-india-tariffs-russia-oil.html"
   },
   {
     "score": 68,
@@ -35,6 +28,13 @@
     "link": "https://nypost.com/2025/08/06/business/gop-sen-tom-cotton-questions-new-intel-ceo-lip-bu-tan-over-alleged-ties-to-chinese-military/"
   },
   {
+    "score": 67,
+    "pubdate": "2025-08-06-19-22-27 +0000",
+    "source": "nyt",
+    "headline": "Trump to Double India’s Tariff to 50% Over Russian Oil Purchases",
+    "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-india-tariffs-russia-oil.html"
+  },
+  {
     "score": 52,
     "pubdate": "2025-08-07-16-23-38 +0000",
     "source": "nypost",
@@ -42,14 +42,7 @@
     "link": "https://nypost.com/2025/08/07/us-news/rep-jasmine-crockett-is-a-no-show-boss-from-hell-who-terrorizes-staffers-aides-say-all-diva-no-wow/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-08-06-17-11-37 +0000",
-    "source": "bbc",
-    "headline": "How Trump's secondary tariffs on Russia could hit the global economy",
-    "link": "https://www.bbc.com/news/articles/cwyp7lgyy4ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 50,
+    "score": 49,
     "pubdate": "2025-08-07-13-13-58 +0000",
     "source": "bbc",
     "headline": "First migrants detained under 'one in, one out' deal with France",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "How a Pro-Palestinian Group Fell Foul of a Long Unused U.K. Terrorism Law",
     "link": "https://www.nytimes.com/2025/08/07/world/europe/palestine-action-uk-ban.html"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-08-07-16-46-00 +0000",
+    "source": "nypost",
+    "headline": "Soldiers hailed as heroes for running toward, tackling Fort Stewart colleague who was ‘actively shooting their buddies’",
+    "link": "https://nypost.com/2025/08/07/us-news/unarmed-us-army-soldiers-hailed-as-heroes-for-stopping-quornelius-radford-fort-stewart-shooting/"
   }
 ]
