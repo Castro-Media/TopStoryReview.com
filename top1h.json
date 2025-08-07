@@ -1,37 +1,72 @@
 [
   {
-    "score": 32,
-    "pubdate": "2025-08-07-18-55-16 +0000",
-    "source": "nypost",
-    "headline": "New NYC Council proposal will tie up businesses in red tape, additional costs to post job notices: critics",
-    "link": "https://nypost.com/2025/08/07/us-news/new-nyc-council-proposal-will-tie-up-businesses-in-red-tape-additional-costs-to-post-job-notices-critics/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-08-07-18-56-00 +0000",
+    "score": 70,
+    "pubdate": "2025-08-07-20-31-00 +0000",
     "source": "wsj",
-    "headline": "Trump Plans to Send Immigrant Detainees to Notorious Louisiana Prison",
-    "link": "https://www.wsj.com/us-news/trump-plans-to-send-immigrant-detainees-to-notorious-louisiana-prison-d9152f1c"
+    "headline": "President Trump said he would nominate Stephen Miran, the head of the White House Council of Economic Advisers, to fill a vacancy on the Federal Reserve’s board of governors on a short-term basis",
+    "link": "https://www.wsj.com/politics/policy/stephen-miran-federal-reserve-nomination-3e02f440"
   },
   {
-    "score": 8,
-    "pubdate": "2025-08-07-18-53-31 +0000",
-    "source": "nyt",
-    "headline": "Woman Working at Hospital Treated 4,500 Patients Without License, Police Say",
-    "link": "https://www.nytimes.com/2025/08/07/us/florida-nurse-arrest.html"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-08-07-18-54-10 +0000",
-    "source": "bbc",
-    "headline": "Aerial footage shows Gaza in ruins",
-    "link": "https://www.bbc.com/news/videos/cwy3nple983o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-08-07-18-55-16 +0000",
+    "score": 46,
+    "pubdate": "2025-08-07-20-44-57 +0000",
     "source": "nypost",
-    "headline": "New NYC Council proposal will tie up businesses in red tape, additional costs to post job notices: critics",
-    "link": "https://nypost.com/2025/08/07/us-news/new-nyc-council-proposal-will-tie-up-businesses-in-red-tape-additional-costs-to-post-job-notices-critics/"
+    "headline": "New Yorkers latching on to new breast milk flavored ice cream in Brooklyn: ‘Isn’t all ice cream breast milk?’",
+    "link": "https://nypost.com/2025/08/07/us-news/new-yorkers-latching-on-to-new-breast-milk-flavored-ice-cream-in-brooklyn/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-08-07-20-17-49 +0000",
+    "source": "latimes",
+    "headline": "California Supreme Court sides with environmental groups in rooftop solar case",
+    "link": "https://www.latimes.com/environment/story/2025-08-07/california-supreme-court-sides-with-environmental-groups-in-rooftop-solar-case"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-08-07-20-54-17 +0000",
+    "source": "nypost",
+    "headline": "EPA terminates $7 billion Biden-era grant program, cutting solar access to thousands of US households",
+    "link": "https://nypost.com/2025/08/07/us-news/epa-terminates-7-billion-biden-era-grant-program-cutting-solar-access-to-thousands-of-us-households/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-08-07-20-07-41 +0000",
+    "source": "nypost",
+    "headline": "Cuomo flatly denies recent phone call with Trump, as he walks back fighting stance against the prez",
+    "link": "https://nypost.com/2025/08/07/us-news/cuomo-flatly-denies-recent-phone-call-with-trump-as-he-walks-back-fighting-stance-against-the-prez/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-08-07-20-28-22 +0000",
+    "source": "nyt",
+    "headline": "Stocks End Mixed, as Investors Take Steeper Tariffs in Stride",
+    "link": "https://www.nytimes.com/2025/08/07/business/economy/trump-tariffs-stock-market.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-08-07-20-00-25 +0000",
+    "source": "bbc",
+    "headline": "Netanyahu says Israel intends to take complete control of Gaza, as warnings mount",
+    "link": "https://www.bbc.com/news/articles/c8ryekj1m1do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-07-20-37-58 +0000",
+    "source": "nyt",
+    "headline": "South Africa’s Equity Laws, Reviled by Trump, Complicate Tariff Talks",
+    "link": "https://www.nytimes.com/2025/08/07/world/africa/south-africa-tariffs-racial-equity-laws.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-07-20-21-57 +0000",
+    "source": "nyt",
+    "headline": "Trump Demands New Census Excluding Undocumented Immigrants as Redistricting Fight Grows",
+    "link": "https://www.nytimes.com/2025/08/07/us/politics/trump-census-undocumented-immigrants.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-08-07-20-38-11 +0000",
+    "source": "nypost",
+    "headline": "High school music teacher accused of sexually assaulting student had completed sex abuse prevention program",
+    "link": "https://nypost.com/2025/08/07/world-news/canadian-music-teacher-jennifer-elise-lawrence-facing-child-sex-crime-charges/"
   }
 ]
