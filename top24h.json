@@ -1,6 +1,6 @@
 [
   {
-    "score": 205,
+    "score": 206,
     "pubdate": "2025-08-07-11-54-12 +0000",
     "source": "bbc",
     "headline": "Trump's sweeping new tariffs take effect against dozens of countries",
@@ -14,13 +14,6 @@
     "link": "https://www.wsj.com/politics/policy/fbi-texas-democrats-congressional-redistricting-56be425b"
   },
   {
-    "score": 76,
-    "pubdate": "2025-08-07-04-12-00 +0000",
-    "source": "wsj",
-    "headline": "China’s exports grew at a faster clip in July, showing that U.S. tariffs so far haven’t curtailed China’s export machine, although trade with America has fallen",
-    "link": "https://www.wsj.com/economy/trade/chinas-exports-accelerated-in-july-ahead-of-tariff-truce-deadline-e89892ea"
-  },
-  {
     "score": 71,
     "pubdate": "2025-08-07-21-50-00 +0000",
     "source": "wsj",
@@ -28,7 +21,7 @@
     "link": "https://www.wsj.com/politics/policy/stephen-miran-federal-reserve-nomination-3e02f440"
   },
   {
-    "score": 62,
+    "score": 63,
     "pubdate": "2025-08-07-12-20-31 +0000",
     "source": "bbc",
     "headline": "Why Trump-Putin talks unlikely to bring rapid end to Ukraine war",
@@ -42,31 +35,38 @@
     "link": "https://www.latimes.com/environment/story/2025-08-07/california-supreme-court-sides-with-environmental-groups-in-rooftop-solar-case"
   },
   {
-    "score": 55,
-    "pubdate": "2025-08-07-13-55-44 +0000",
-    "source": "nypost",
-    "headline": "Trump demands Intel CEO Lip-Bu Tan ‘resign immediately’ amid alleged ties to Chinese military",
-    "link": "https://nypost.com/2025/08/07/business/trump-demands-intels-lip-bu-tan-resign-amid-alleged-chinese-military-ties/"
+    "score": 57,
+    "pubdate": "2025-08-08-03-37-58 +0000",
+    "source": "wapo",
+    "headline": "Israel’s security cabinet approves plan for military to occupy Gaza City",
+    "link": "https://www.washingtonpost.com/world/2025/08/07/israel-gaza-occupation-hamas-netanyahu-zamir/"
   },
   {
     "score": 50,
-    "pubdate": "2025-08-07-22-20-42 +0000",
+    "pubdate": "2025-08-07-22-40-47 +0000",
     "source": "nypost",
-    "headline": "Trusted Biden aide testifies ex-prez skipped Super Bowl interview due to bombshell ‘classified records’ report: sources",
-    "link": "https://nypost.com/2025/08/07/us-news/trusted-biden-aide-testifies-ex-prez-skipped-super-bowl-interview-due-to-bombshell-hur-report-sources/"
+    "headline": "Disney settles Gina Carano’s lawsuit after firing her from ‘Mandalorian’ for comparing being conservative in US to being Jewish in Nazi Germany",
+    "link": "https://nypost.com/2025/08/07/media/disney-settles-gina-caranos-lawsuit-over-her-firing-from-mandalorian/"
   },
   {
-    "score": 45,
+    "score": 49,
+    "pubdate": "2025-08-07-22-47-38 +0000",
+    "source": "bbc",
+    "headline": "Trump calls for Intel boss to resign immediately, alleging China ties",
+    "link": "https://www.bbc.com/news/articles/c70x6602pdyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
     "pubdate": "2025-08-08-00-21-30 +0000",
     "source": "nyt",
     "headline": "How a Pro-Palestinian Group Fell Foul of a Long Unused U.K. Terrorism Law",
     "link": "https://www.nytimes.com/2025/08/07/world/europe/palestine-action-uk-ban.html"
   },
   {
-    "score": 45,
-    "pubdate": "2025-08-07-21-02-34 +0000",
-    "source": "nyt",
-    "headline": "Friday Briefing: Netanyahu Plans to Fully Control Gaza",
-    "link": "https://www.nytimes.com/2025/08/07/briefing/netanyahu-gaza-tariff-trump-putin-ukraine.html"
+    "score": 44,
+    "pubdate": "2025-08-07-16-41-37 +0000",
+    "source": "nypost",
+    "headline": "Fox to roll out FOX One all-in-one streaming service: ‘A truly innovative digital offering’",
+    "link": "https://nypost.com/2025/08/07/media/fox-corp-to-roll-out-fox-one-all-in-one-streaming-service/"
   }
 ]
