@@ -22,10 +22,10 @@
   },
   {
     "score": 161,
-    "pubdate": "2025-08-08-08-49-31 +0000",
-    "source": "nypost",
-    "headline": "Israel approves Netanyahu’s plans to take control of Gaza City",
-    "link": "https://nypost.com/2025/08/08/world-news/israel-approves-netanyahus-plans-to-take-control-of-gaza-city/"
+    "pubdate": "2025-08-08-09-35-51 +0000",
+    "source": "bbc",
+    "headline": "Israel approves plan to take control of Gaza City, signalling major escalation",
+    "link": "https://www.bbc.com/news/articles/c8ryekj1m1do?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 140,
@@ -57,16 +57,16 @@
   },
   {
     "score": 91,
-    "pubdate": "2025-08-08-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Masked robber put L.A. family in boarded-up closet. DNA revealed he was no stranger",
-    "link": "https://www.latimes.com/california/story/2025-08-08/woodland-hills-kidnapping"
-  },
-  {
-    "score": 91,
     "pubdate": "2025-08-08-16-47-10 +0000",
     "source": "nypost",
     "headline": "JD Vance goes fishing with top UK official David Lammy— but raises concerns about free speech, Gaza in catchless meeting",
     "link": "https://nypost.com/2025/08/08/us-news/jd-vance-goes-fishing-for-trout-with-uks-lammy/"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-08-08-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Masked robber put L.A. family in boarded-up closet. DNA revealed he was no stranger",
+    "link": "https://www.latimes.com/california/story/2025-08-08/woodland-hills-kidnapping"
   }
 ]
