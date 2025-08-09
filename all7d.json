@@ -1,5 +1,29 @@
 [
   {
+    "headline": "There’s Barely Any Food in Gaza, and Barely Any Cash to Buy It",
+    "link": "https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html",
+    "source": "nyt",
+    "pubdate": "2025-08-09-11-43-38 +0000"
+  },
+  {
+    "headline": "There’s Barely Any Food in Gaza, and Barely Any Cash to Buy It",
+    "link": "https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html",
+    "source": "nyt",
+    "pubdate": "2025-08-09-11-43-38 +0000"
+  },
+  {
+    "headline": "Trump, Putin meeting set for next week in Alaska",
+    "link": "https://www.washingtonpost.com/politics/2025/08/08/trump-putin-ukraine-meeting/",
+    "source": "wapo",
+    "pubdate": "2025-08-09-11-14-40 +0000"
+  },
+  {
+    "headline": "L.A. County fire captain faked work injury to collect insurance, prosecutors allege",
+    "link": "https://www.latimes.com/california/story/2025-08-09/l-a-county-fire-captain-accused-of-faking-work-injury-to-collect-insurance",
+    "source": "latimes",
+    "pubdate": "2025-08-09-11-00-00 +0000"
+  },
+  {
     "headline": "Russia Goes After Ukraine With Distant Strikes and New Tactics",
     "link": "https://www.nytimes.com/2025/08/09/world/europe/russia-ukraine-frontline.html",
     "source": "nyt",
@@ -48,19 +72,7 @@
     "pubdate": "2025-08-09-10-08-30 +0000"
   },
   {
-    "headline": "A Cash Shortage in Gaza Is Making the Hunger Crisis Much Worse",
-    "link": "https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html",
-    "source": "nyt",
-    "pubdate": "2025-08-09-10-02-11 +0000"
-  },
-  {
-    "headline": "A Cash Shortage in Gaza Is Making the Hunger Crisis Much Worse",
-    "link": "https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html",
-    "source": "nyt",
-    "pubdate": "2025-08-09-10-02-11 +0000"
-  },
-  {
-    "headline": "Zelensky rejects Trump proposal to cede territory to Russia",
+    "headline": "Zelensky rejects Trump’s suggestion that Ukraine cede territory to Russia",
     "link": "https://www.washingtonpost.com/world/2025/08/09/ukraine-zelensky-trump-russia-meeting/",
     "source": "wapo",
     "pubdate": "2025-08-09-10-01-04 +0000"
@@ -390,6 +402,12 @@
     "pubdate": "2025-08-09-08-00-00 +0000"
   },
   {
+    "headline": "What caused the 'shocking' landslide that destroyed a Himalayan village?",
+    "link": "https://www.cbc.ca/news/science/india-flood-cloudburst-glacier-1.7603074?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-09-08-00-00 +0000"
+  },
+  {
     "headline": "Deal or no deal, Mark Carney has to manage a new relationship with the United States",
     "link": "https://www.cbc.ca/news/politics/carney-tariffs-trump-third-option-analysis-1.7604446?cmp=rss",
     "source": "cbc",
@@ -466,12 +484,6 @@
     "link": "https://www.bbc.com/news/articles/c1dxed639n7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-09-06-47-22 +0000"
-  },
-  {
-    "headline": "Trump, Putin meeting set for next week in Alaska",
-    "link": "https://www.washingtonpost.com/politics/2025/08/08/trump-putin-ukraine-meeting/",
-    "source": "wapo",
-    "pubdate": "2025-08-09-06-46-53 +0000"
   },
   {
     "headline": "Trump has big plans for Pakistani oil. That’s news to Pakistanis.",
@@ -1318,6 +1330,12 @@
     "link": "https://www.bbc.com/news/videos/cjr1nn4x1q0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-08-22-10-40 +0000"
+  },
+  {
+    "headline": "Trump Preparing IPO for Fannie Mae and Freddie Mac Later This Year",
+    "link": "https://www.wsj.com/finance/regulation/trump-aiming-to-ipo-fannie-mae-and-freddie-mac-later-this-year-13b138cf?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-08-08-22-05-00 +0000"
   },
   {
     "headline": "Trump Preparing IPO for Fannie Mae and Freddie Mac Later This Year",
@@ -2406,12 +2424,6 @@
     "pubdate": "2025-08-08-12-44-49 +0000"
   },
   {
-    "headline": "Intel’s CEO Defends Himself After Trump Calls For Resignation",
-    "link": "https://www.nytimes.com/2025/08/08/business/intel-ceo-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-08-12-44-49 +0000"
-  },
-  {
     "headline": "Uber received sexual misconduct reports every eight minutes during six-year period: unsealed court docs",
     "link": "https://nypost.com/2025/08/08/business/uber-received-sexual-assault-reports-every-eight-minutes-court-docs/",
     "source": "nypost",
@@ -2544,14 +2556,26 @@
     "pubdate": "2025-08-08-10-00-00 +0000"
   },
   {
-    "headline": "At Mono Lake, visitors witness the stark toll of L.A.'s water use",
-    "link": "https://www.latimes.com/environment/story/2025-08-08/mono-lake-tour",
+    "headline": "'They run, we chase': Immigration raids test limits of 'probable cause'",
+    "link": "https://www.latimes.com/california/story/2025-08-08/they-run-we-chase-agents-employ-aggressive-and-some-say-illegal-tactics-on-l-a-streets",
+    "source": "latimes",
+    "pubdate": "2025-08-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Masked robber put L.A. family in boarded-up closet. DNA revealed he was no stranger",
+    "link": "https://www.latimes.com/california/story/2025-08-08/woodland-hills-kidnapping",
     "source": "latimes",
     "pubdate": "2025-08-08-10-00-00 +0000"
   },
   {
     "headline": "Commentary: Cole's, Clifton's, and the Jail Cafe — a requiem for Los Angeles' lost restaurants",
     "link": "https://www.latimes.com/california/story/2025-08-08/another-historic-la-eatery-closes-its-doors-heres-are-the-most-memorable-restaurants-weve-lost",
+    "source": "latimes",
+    "pubdate": "2025-08-08-10-00-00 +0000"
+  },
+  {
+    "headline": "At Mono Lake, visitors witness the stark toll of L.A.'s water use",
+    "link": "https://www.latimes.com/environment/story/2025-08-08/mono-lake-tour",
     "source": "latimes",
     "pubdate": "2025-08-08-10-00-00 +0000"
   },
@@ -2564,18 +2588,6 @@
   {
     "headline": "Someone keeps stealing, flying, fixing and returning this California man's plane. But why?",
     "link": "https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief",
-    "source": "latimes",
-    "pubdate": "2025-08-08-10-00-00 +0000"
-  },
-  {
-    "headline": "'They run, we chase': Immigration raids test limits of 'probable cause'",
-    "link": "https://www.latimes.com/california/story/2025-08-08/they-run-we-chase-agents-employ-aggressive-and-some-say-illegal-tactics-on-l-a-streets",
-    "source": "latimes",
-    "pubdate": "2025-08-08-10-00-00 +0000"
-  },
-  {
-    "headline": "Masked robber put L.A. family in boarded-up closet. DNA revealed he was no stranger",
-    "link": "https://www.latimes.com/california/story/2025-08-08/woodland-hills-kidnapping",
     "source": "latimes",
     "pubdate": "2025-08-08-10-00-00 +0000"
   },
@@ -4218,6 +4230,12 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
+    "headline": "No charges for L.A. County deputy who shot man in back as he lay on pavement",
+    "link": "https://www.latimes.com/california/story/2025-08-07/los-angeles-county-deputy-adrian-abelar-shooting",
+    "source": "latimes",
+    "pubdate": "2025-08-07-10-00-00 +0000"
+  },
+  {
     "headline": "Lopez: My bathroom scale is rigged, and so are my book sales. Lawsuits and pink slips to follow",
     "link": "https://www.latimes.com/california/story/2025-08-07/my-bathroom-scale-is-rigged-and-so-is-a-lot-of-other-stuff-but-im-here-to-set-the-record-straight",
     "source": "latimes",
@@ -4254,12 +4272,6 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "No charges for L.A. County deputy who shot man in back as he lay on pavement",
-    "link": "https://www.latimes.com/california/story/2025-08-07/los-angeles-county-deputy-adrian-abelar-shooting",
-    "source": "latimes",
-    "pubdate": "2025-08-07-10-00-00 +0000"
-  },
-  {
     "headline": "SoCal heat wave: When can you expect relief?",
     "link": "https://www.latimes.com/california/story/2025-08-07/socal-heat-wave-peaks-thursday-but-temperatures-will-remain-high",
     "source": "latimes",
@@ -4272,14 +4284,14 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Terry Gilliam's 1985 masterpiece \"Brazil\" foretold our drift toward fascism",
-    "link": "https://www.latimes.com/business/story/2025-08-07/terry-gilliams-1985-masterpiece-brazil-foretold-our-drift-toward-fascism",
+    "headline": "Insurer of last resort faces questions over smoke damage claims",
+    "link": "https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "Insurer of last resort faces questions over smoke damage claims",
-    "link": "https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara",
+    "headline": "Hiltzik: Terry Gilliam's 1985 masterpiece \"Brazil\" foretold our drift toward fascism",
+    "link": "https://www.latimes.com/business/story/2025-08-07/terry-gilliams-1985-masterpiece-brazil-foretold-our-drift-toward-fascism",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
@@ -4716,12 +4728,6 @@
     "pubdate": "2025-08-06-19-21-43 +0000"
   },
   {
-    "headline": "One dead, houses destroyed in France's biggest wildfire in almost 80 years",
-    "link": "https://www.cbc.ca/news/world/france-wildfires-1.7602470?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-06-19-03-04 +0000"
-  },
-  {
     "headline": "Apple commits another $100 billion for U.S. manufacturing amid Trump tariffs",
     "link": "https://www.latimes.com/business/story/2025-08-06/apple-to-commit-another-100-billion-for-u-s-manufacturing-white-house-says",
     "source": "latimes",
@@ -4956,6 +4962,12 @@
     "pubdate": "2025-08-06-10-00-00 +0000"
   },
   {
+    "headline": "Trump officials are reopening old immigration cases, even for dead people. 'They don't do their homework,' lawyers say",
+    "link": "https://www.latimes.com/california/story/2025-08-06/trump-administration-recalendars-decades-old-immigration-cases",
+    "source": "latimes",
+    "pubdate": "2025-08-06-10-00-00 +0000"
+  },
+  {
     "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
     "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters",
     "source": "latimes",
@@ -4970,12 +4982,6 @@
   {
     "headline": "UC must reconsider policy barring undocumented students from jobs, court rules",
     "link": "https://www.latimes.com/california/story/2025-08-06/court-rules-uc-must-reconsider-policy-barring-undocumented-students-from-campus-jobs",
-    "source": "latimes",
-    "pubdate": "2025-08-06-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump officials are reopening old immigration cases, even for dead people. 'They don't do their homework,' lawyers say",
-    "link": "https://www.latimes.com/california/story/2025-08-06/trump-administration-recalendars-decades-old-immigration-cases",
     "source": "latimes",
     "pubdate": "2025-08-06-10-00-00 +0000"
   },
@@ -5910,12 +5916,6 @@
     "pubdate": "2025-08-04-14-28-51 +0000"
   },
   {
-    "headline": "2 dead, 6 wounded in 'senseless' mass shooting at warehouse party in downtown L.A.",
-    "link": "https://www.latimes.com/california/story/2025-08-04/dtla-shooting-dead-wounded-after-festival",
-    "source": "latimes",
-    "pubdate": "2025-08-04-13-36-19 +0000"
-  },
-  {
     "headline": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war",
     "link": "https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5956,12 +5956,6 @@
     "link": "https://www.bbc.com/sport/football/articles/cvg9dl2yyqjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-04-09-41-39 +0000"
-  },
-  {
-    "headline": "Cash Windfall From Trump’s Tax Law Is Starting to Show Up at Big Companies",
-    "link": "https://www.wsj.com/finance/investing/cash-windfall-from-trumps-tax-law-is-starting-to-show-up-at-big-companies-6b519fc9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-04-09-30-00 +0000"
   },
   {
     "headline": "Cash Windfall From Trump’s Tax Law Is Starting to Show Up at Big Companies",

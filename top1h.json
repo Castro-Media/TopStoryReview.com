@@ -1,72 +1,30 @@
 [
   {
     "score": 26,
-    "pubdate": "2025-08-09-10-25-42 +0000",
+    "pubdate": "2025-08-09-11-43-38 +0000",
     "source": "nyt",
-    "headline": "Zelensky Rejects Trump’s Suggestion That Ukraine Swap Territory With Russia",
-    "link": "https://www.nytimes.com/2025/08/09/world/europe/zelensky-trump-ukraine-russia.html"
-  },
-  {
-    "score": 24,
-    "pubdate": "2025-08-09-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Lopez: 'Silence is violence': Teachers, retirees, first-time activists stand up to immigration raids",
-    "link": "https://www.latimes.com/california/story/2025-08-09/teachers-retirees-first-time-activists-standing-up-to-immigrationraids-because-silence-is-violence"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-08-09-10-08-30 +0000",
-    "source": "bbc",
-    "headline": "Police officer dies after shooting near US's CDC headquarters",
-    "link": "https://www.bbc.com/news/articles/cp3ekez0k2xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-08-09-10-00-13 +0000",
-    "source": "nyt",
-    "headline": "A Pay Raise for Canada’s Military to Boost Recruitment and Retention",
-    "link": "https://www.nytimes.com/2025/08/09/world/canada/a-pay-raise-for-canadas-military-to-boost-recruitment-and-retention.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-08-09-10-02-11 +0000",
-    "source": "nyt",
-    "headline": "A Cash Shortage in Gaza Is Making the Hunger Crisis Much Worse",
+    "headline": "There’s Barely Any Food in Gaza, and Barely Any Cash to Buy It",
     "link": "https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html"
   },
   {
-    "score": 12,
-    "pubdate": "2025-08-09-10-00-00 +0000",
+    "score": 9,
+    "pubdate": "2025-08-09-11-00-00 +0000",
     "source": "latimes",
-    "headline": "SpaceX hopes to nearly double the rocket launches off the California coast; a state panel likely to object",
-    "link": "https://www.latimes.com/california/story/2025-08-09/spacex-hopes-to-nearly-double-the-rocket-launches-off-the-california-coast-a-state-panel-likely-to-object"
+    "headline": "L.A. County fire captain faked work injury to collect insurance, prosecutors allege",
+    "link": "https://www.latimes.com/california/story/2025-08-09/l-a-county-fire-captain-accused-of-faking-work-injury-to-collect-insurance"
   },
   {
-    "score": 10,
-    "pubdate": "2025-08-09-10-49-57 +0000",
+    "score": 5,
+    "pubdate": "2025-08-09-11-14-40 +0000",
+    "source": "wapo",
+    "headline": "Trump, Putin meeting set for next week in Alaska",
+    "link": "https://www.washingtonpost.com/politics/2025/08/08/trump-putin-ukraine-meeting/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-09-11-43-38 +0000",
     "source": "nyt",
-    "headline": "Russia Goes After Ukraine With Distant Strikes and New Tactics",
-    "link": "https://www.nytimes.com/2025/08/09/world/europe/russia-ukraine-frontline.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-08-09-10-00-46 +0000",
-    "source": "wapo",
-    "headline": "This dog used to sniff out cold cases for police. Now she’s saving bees.",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/08/09/maple-dog-bee-conservation/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-08-09-10-00-00 +0000",
-    "source": "wapo",
-    "headline": "Walmart knew about explosion risk in water bottles for 7 years before recall",
-    "link": "https://www.washingtonpost.com/business/2025/08/09/walmart-safety-recall-bottles/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-08-09-10-00-31 +0000",
-    "source": "wapo",
-    "headline": "Fewer trash pickups, more potholes: This big city is bracing for a shaky economy",
-    "link": "https://www.washingtonpost.com/nation/2025/08/09/syracuse-budget-cuts-cities/"
+    "headline": "There’s Barely Any Food in Gaza, and Barely Any Cash to Buy It",
+    "link": "https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html"
   }
 ]
