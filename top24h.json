@@ -1,17 +1,10 @@
 [
   {
-    "score": 208,
+    "score": 192,
     "pubdate": "2025-08-09-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump is considering reclassifying marijuana as a less dangerous drug, after pot companies have poured millions of dollars into Trump’s political groups",
     "link": "https://www.wsj.com/politics/policy/trump-marijuana-federal-drug-classification-01a73b8c"
-  },
-  {
-    "score": 90,
-    "pubdate": "2025-08-09-09-02-47 +0000",
-    "source": "nyt",
-    "headline": "Israel’s New Plan to Take Gaza City",
-    "link": "https://www.nytimes.com/video/world/100000010330865/israels-new-plan-to-take-gaza-city.html"
   },
   {
     "score": 87,
@@ -21,6 +14,13 @@
     "link": "https://www.cbc.ca/news/world/zelenskyy-dismisses-trump-putin-summit-1.7605175?cmp=rss"
   },
   {
+    "score": 79,
+    "pubdate": "2025-08-09-09-02-47 +0000",
+    "source": "nyt",
+    "headline": "Israel’s New Plan to Take Gaza City",
+    "link": "https://www.nytimes.com/video/world/100000010330865/israels-new-plan-to-take-gaza-city.html"
+  },
+  {
     "score": 60,
     "pubdate": "2025-08-08-23-04-32 +0000",
     "source": "nyt",
@@ -28,18 +28,18 @@
     "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-armenia-azerbaijan-peace-deal.html"
   },
   {
-    "score": 58,
-    "pubdate": "2025-08-09-00-27-22 +0000",
-    "source": "nyt",
-    "headline": "Trump Is Removing Billy Long as the I.R.S. Head 2 Months After He Was Confirmed",
-    "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-billy-long-irs-commissioner.html"
-  },
-  {
-    "score": 57,
+    "score": 56,
     "pubdate": "2025-08-09-17-35-41 +0000",
     "source": "bbc",
     "headline": "Atlanta police officer dies after shooting near CDC headquarters",
     "link": "https://www.bbc.com/news/articles/cp3ekez0k2xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-08-08-23-04-25 +0000",
+    "source": "cbc",
+    "headline": "Trump says he'll meet Putin in Alaska next Friday for first U.S.-Russia summit since 2021",
+    "link": "https://www.cbc.ca/news/world/trump-putin-meeting-1.7604979?cmp=rss"
   },
   {
     "score": 51,
@@ -49,24 +49,24 @@
     "link": "https://www.bbc.com/news/articles/c07pdel9vyjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 45,
+    "score": 43,
     "pubdate": "2025-08-09-16-40-45 +0000",
     "source": "nypost",
     "headline": "Ambassador Mike Huckabee slams British PM Keir Starmer for for condemning Israel: ‘Did UK surrender to Nazis and drop food to them?’",
     "link": "https://nypost.com/2025/08/09/us-news/ambassador-mike-huckabee-slams-british-pm-keir-starmer-over-denunciation-of-israel-did-uk-surrender-to-nazis-and-drop-food-to-them/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-08-23-04-25 +0000",
-    "source": "cbc",
-    "headline": "Trump says he'll meet Putin in Alaska next Friday for first U.S.-Russia summit since 2021",
-    "link": "https://www.cbc.ca/news/world/trump-putin-meeting-1.7604979?cmp=rss"
+    "score": 41,
+    "pubdate": "2025-08-09-00-27-22 +0000",
+    "source": "nyt",
+    "headline": "Trump Is Removing Billy Long as the I.R.S. Head 2 Months After He Was Confirmed",
+    "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-billy-long-irs-commissioner.html"
   },
   {
-    "score": 41,
-    "pubdate": "2025-08-09-05-02-32 +0000",
-    "source": "bbc",
-    "headline": "Nagasaki mayor warns of nuclear war 80 years after atomic bomb attack",
-    "link": "https://www.bbc.com/news/articles/ckgej5vw0w7o?at_medium=RSS&at_campaign=rss"
+    "score": 40,
+    "pubdate": "2025-08-09-01-15-51 +0000",
+    "source": "latimes",
+    "headline": "Walmart to pay $5.6 million to settle lawsuit alleging California shoppers were overcharged",
+    "link": "https://www.latimes.com/california/story/2025-08-08/walmart-to-pay-5-6-million-to-settle-lawsuit-alleging-they-overcharged-customers"
   }
 ]
