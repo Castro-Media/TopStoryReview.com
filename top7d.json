@@ -1,6 +1,6 @@
 [
   {
-    "score": 603,
+    "score": 601,
     "pubdate": "2025-08-09-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump is considering reclassifying marijuana as a less dangerous drug, after pot companies have poured millions of dollars into Trump’s political groups",
@@ -14,28 +14,28 @@
     "link": "https://www.washingtonpost.com/world/2025/08/07/israel-gaza-occupation-hamas-netanyahu-zamir/"
   },
   {
-    "score": 191,
+    "score": 190,
     "pubdate": "2025-08-06-15-28-28 +0000",
     "source": "bbc",
     "headline": "Trump-Modi ties hit rock bottom with new tariffs on India over Russian oil",
     "link": "https://www.bbc.com/news/articles/c15lqe7v302o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 174,
+    "score": 175,
     "pubdate": "2025-08-06-10-00-00 +0000",
     "source": "latimes",
     "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
     "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters"
   },
   {
-    "score": 143,
+    "score": 139,
     "pubdate": "2025-08-08-23-04-25 +0000",
     "source": "cbc",
     "headline": "Trump says he'll meet Putin in Alaska next Friday for first U.S.-Russia summit since 2021",
     "link": "https://www.cbc.ca/news/world/trump-putin-meeting-1.7604979?cmp=rss"
   },
   {
-    "score": 133,
+    "score": 132,
     "pubdate": "2025-08-08-16-13-00 +0000",
     "source": "wsj",
     "headline": "President Trump has directed the Pentagon to begin preparing options to use military force against Latin American drug cartels, the latest step in the administration’s campaign against the cartels",
@@ -49,18 +49,11 @@
     "link": "https://www.cbc.ca/news/world/trump-azerbaijan-armenia-peace-agreement-1.7604843?cmp=rss"
   },
   {
-    "score": 92,
-    "pubdate": "2025-08-08-20-16-06 +0000",
-    "source": "nyt",
-    "headline": "Russian Strikes Kill 3 in Ukraine, Which May Be Left Out of Peace Talks",
-    "link": "https://www.nytimes.com/2025/08/08/world/europe/ukraine-russia-trump-putin.html"
-  },
-  {
-    "score": 89,
-    "pubdate": "2025-08-05-23-19-49 +0000",
-    "source": "latimes",
-    "headline": "L.A. County residents illegally exported 'sensitive' high-power AI microchips to China, feds allege",
-    "link": "https://www.latimes.com/california/story/2025-08-05/la-county-residents-illegally-exported-sensitive-high-power-ai-microchips-to-china-feds-allege"
+    "score": 93,
+    "pubdate": "2025-08-07-15-25-38 +0000",
+    "source": "bbc",
+    "headline": "UK asks China to explain blanked-out embassy plans",
+    "link": "https://www.bbc.com/news/articles/ce932995ny2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 88,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "What Do Trump’s Tariff Hikes Mean for Canada’s Trade-Dependent Economy?",
     "link": "https://www.nytimes.com/2025/08/02/world/canada/what-do-trumps-tariff-hikes-mean-for-canadas-trade-dependent-economy.html"
+  },
+  {
+    "score": 86,
+    "pubdate": "2025-08-05-01-12-00 +0000",
+    "source": "wsj",
+    "headline": "Brazil’s Supreme Court Orders Ex-President Bolsonaro Under House Arrest for Defying Court Order",
+    "link": "https://www.wsj.com/world/americas/brazils-supreme-court-orders-ex-president-bolsonaro-under-house-arrest-for-defying-court-order-61717783"
   }
 ]
