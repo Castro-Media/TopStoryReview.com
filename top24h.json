@@ -1,59 +1,52 @@
 [
   {
-    "score": 271,
+    "score": 275,
     "pubdate": "2025-08-09-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump is considering reclassifying marijuana as a less dangerous drug, after pot companies have poured millions of dollars into Trump’s political groups",
     "link": "https://www.wsj.com/politics/policy/trump-marijuana-federal-drug-classification-01a73b8c"
   },
   {
-    "score": 149,
-    "pubdate": "2025-08-08-03-37-58 +0000",
-    "source": "wapo",
-    "headline": "Israel’s security cabinet approves plan for military to occupy Gaza City",
-    "link": "https://www.washingtonpost.com/world/2025/08/07/israel-gaza-occupation-hamas-netanyahu-zamir/"
+    "score": 125,
+    "pubdate": "2025-08-09-00-52-59 +0000",
+    "source": "nyt",
+    "headline": "Netanyahu’s Plan for Gaza City Has Skeptics in Israeli Military",
+    "link": "https://www.nytimes.com/2025/08/08/world/middleeast/israel-gaza-takeover-military-objection.html"
   },
   {
-    "score": 92,
+    "score": 100,
     "pubdate": "2025-08-08-23-56-11 +0000",
     "source": "bbc",
     "headline": "Azerbaijan and Armenia sign peace deal at White House summit with Trump",
     "link": "https://www.bbc.com/news/articles/c39dzl1lzrgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 82,
+    "score": 86,
     "pubdate": "2025-08-08-16-13-00 +0000",
     "source": "wsj",
     "headline": "President Trump has directed the Pentagon to begin preparing options to use military force against Latin American drug cartels, the latest step in the administration’s campaign against the cartels",
     "link": "https://www.wsj.com/politics/national-security/trump-orders-pentagon-to-prepare-to-target-drug-cartels-in-latin-america-d47150c2"
   },
   {
-    "score": 78,
+    "score": 84,
     "pubdate": "2025-08-08-23-04-25 +0000",
     "source": "cbc",
     "headline": "Trump says he'll meet Putin in Alaska next Friday for first U.S.-Russia summit since 2021",
     "link": "https://www.cbc.ca/news/world/trump-putin-meeting-1.7604979?cmp=rss"
   },
   {
-    "score": 58,
+    "score": 57,
     "pubdate": "2025-08-08-21-29-49 +0000",
     "source": "nypost",
     "headline": "Trump admin considering two new candidates to be next Fed chair: report",
     "link": "https://nypost.com/2025/08/08/business/trump-admin-considering-two-more-candidates-to-be-next-fed-chair-report/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-08-08-07-00-39 +0000",
-    "source": "bbc",
-    "headline": "Mushroom murderer tried to kill husband with pasta, cookies and curry, court was told",
-    "link": "https://www.bbc.com/news/articles/cwy3ngr2n3vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-09-02-13-01 +0000",
-    "source": "nypost",
-    "headline": "Rep. Jasmine Crockett laughs off troubling accusations she’s a no-show ‘diva’ boss, quotes Beyoncé  in bizarre response",
-    "link": "https://nypost.com/2025/08/08/us-news/rep-jasmine-crockett-laughs-off-accusations-shes-a-no-show-diva-boss/"
+    "score": 50,
+    "pubdate": "2025-08-09-00-27-22 +0000",
+    "source": "nyt",
+    "headline": "Trump Is Removing Billy Long as the I.R.S. Head 2 Months After He Was Confirmed",
+    "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-billy-long-irs-commissioner.html"
   },
   {
     "score": 48,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/08/08/us-news/jd-vance-goes-fishing-for-trout-with-uks-lammy/"
   },
   {
-    "score": 46,
-    "pubdate": "2025-08-08-20-28-12 +0000",
+    "score": 47,
+    "pubdate": "2025-08-09-02-13-01 +0000",
     "source": "nypost",
-    "headline": "FAA to ‘supercharge’ air traffic controller hiring on Long Island; seeks 9K more nationwide",
-    "link": "https://nypost.com/2025/08/08/us-news/faa-to-supercharge-air-traffic-controller-hiring-on-long-island-seeks-9k-more-nationwide/"
+    "headline": "Rep. Jasmine Crockett laughs off troubling accusations she’s a no-show ‘diva’ boss, quotes Beyoncé  in bizarre response",
+    "link": "https://nypost.com/2025/08/08/us-news/rep-jasmine-crockett-laughs-off-accusations-shes-a-no-show-diva-boss/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-08-08-16-44-03 +0000",
+    "source": "nyt",
+    "headline": "Putin Briefs Leaders of China and India on Talks With U.S. on Ukraine",
+    "link": "https://www.nytimes.com/2025/08/08/world/asia/putin-trump-ukraine-china-india.html"
   }
 ]
