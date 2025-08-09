@@ -1,20 +1,20 @@
 [
   {
-    "score": 289,
+    "score": 287,
     "pubdate": "2025-08-09-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump is considering reclassifying marijuana as a less dangerous drug, after pot companies have poured millions of dollars into Trump’s political groups",
     "link": "https://www.wsj.com/politics/policy/trump-marijuana-federal-drug-classification-01a73b8c"
   },
   {
-    "score": 118,
+    "score": 119,
     "pubdate": "2025-08-08-16-13-00 +0000",
     "source": "wsj",
     "headline": "President Trump has directed the Pentagon to begin preparing options to use military force against Latin American drug cartels, the latest step in the administration’s campaign against the cartels",
     "link": "https://www.wsj.com/politics/national-security/trump-orders-pentagon-to-prepare-to-target-drug-cartels-in-latin-america-d47150c2"
   },
   {
-    "score": 117,
+    "score": 115,
     "pubdate": "2025-08-09-09-02-47 +0000",
     "source": "nyt",
     "headline": "Israel’s New Plan to Take Gaza City",
@@ -28,7 +28,7 @@
     "link": "https://www.bbc.com/news/articles/c39dzl1lzrgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 85,
+    "score": 89,
     "pubdate": "2025-08-09-09-48-43 +0000",
     "source": "nypost",
     "headline": "Zelensky vows Russia will not get any Ukrainian land seized during war as Trump prepares for meeting with Putin",
@@ -43,6 +43,13 @@
   },
   {
     "score": 52,
+    "pubdate": "2025-08-08-20-16-06 +0000",
+    "source": "nyt",
+    "headline": "Russian Strikes Kill 3 in Ukraine, Which May Be Left Out of Peace Talks",
+    "link": "https://www.nytimes.com/2025/08/08/world/europe/ukraine-russia-trump-putin.html"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-08-09-10-08-30 +0000",
     "source": "bbc",
     "headline": "Police officer dies after shooting near US's CDC headquarters",
@@ -50,10 +57,10 @@
   },
   {
     "score": 51,
-    "pubdate": "2025-08-08-20-16-06 +0000",
-    "source": "nyt",
-    "headline": "Russian Strikes Kill 3 in Ukraine, Which May Be Left Out of Peace Talks",
-    "link": "https://www.nytimes.com/2025/08/08/world/europe/ukraine-russia-trump-putin.html"
+    "pubdate": "2025-08-08-16-43-34 +0000",
+    "source": "nypost",
+    "headline": "Trump aiming for IPOs of Fannie Mae, Freddie Mac this year — valuing firms at $500B combined: report",
+    "link": "https://nypost.com/2025/08/08/business/trump-aiming-for-ipos-of-fannie-mae-freddie-mac-this-year-report/"
   },
   {
     "score": 50,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "JD Vance goes fishing with top UK official David Lammy— but raises concerns about free speech, Gaza in catchless meeting",
     "link": "https://nypost.com/2025/08/08/us-news/jd-vance-goes-fishing-for-trout-with-uks-lammy/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-08-08-15-42-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s Fed nominee would add a voice inside the central bank that is explicitly critical of the conventional wisdom around how tariffs might affect inflation and economic growth",
-    "link": "https://www.wsj.com/economy/central-banking/stephen-miran-federal-reserve-board-e7855877"
   }
 ]
