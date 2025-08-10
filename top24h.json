@@ -1,17 +1,10 @@
 [
   {
-    "score": 129,
+    "score": 126,
     "pubdate": "2025-08-10-14-15-48 +0000",
     "source": "nyt",
     "headline": "In a Trump-Putin Summit, Ukraine Fears Losing Say Over Its Future",
     "link": "https://www.nytimes.com/2025/08/10/us/politics/trump-putin-meeting-ukraine.html"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-08-10-18-52-12 +0000",
-    "source": "bbc",
-    "headline": "Netanyahu defends Gaza plans as Israel heavily criticised at UN Security Council",
-    "link": "https://www.bbc.com/news/articles/c5yll33v9gwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 61,
@@ -19,6 +12,13 @@
     "source": "nyt",
     "headline": "Dmitri Kozak Was a Key Putin Aide. He Lost Power When He Balked at the Ukraine War.",
     "link": "https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-dmitri-kozak.html"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-08-10-18-52-12 +0000",
+    "source": "bbc",
+    "headline": "Netanyahu defends Gaza plans as Israel heavily criticised at UN Security Council",
+    "link": "https://www.bbc.com/news/articles/c5yll33v9gwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 41,
@@ -42,7 +42,7 @@
     "link": "https://nypost.com/2025/08/10/us-news/ex-nypd-commish-ray-kelly-warns-about-electing-mamdani-mayor/"
   },
   {
-    "score": 31,
+    "score": 30,
     "pubdate": "2025-08-09-23-07-33 +0000",
     "source": "bbc",
     "headline": "Mars rock found in Niger sells for millions in New York - now the country wants answers",
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/economy/central-banking/sudden-fed-resignation-surprised-colleagues-and-gave-opening-for-trump-3c6a84e9"
   },
   {
-    "score": 29,
-    "pubdate": "2025-08-09-23-34-20 +0000",
+    "score": 28,
+    "pubdate": "2025-08-10-19-52-29 +0000",
     "source": "nypost",
-    "headline": "White House weighs inviting Zelensky to Trump’s face-to-face meeting with Putin in Alaska",
-    "link": "https://nypost.com/2025/08/09/us-news/white-house-weighs-inviting-zelensky-to-trumps-face-to-face-meet-up-with-putin-in-alaska/"
+    "headline": "Vance says only Trump can decide when to bring Putin and Zelensky together for peace talks",
+    "link": "https://nypost.com/2025/08/10/us-news/vance-says-only-trump-can-decide-when-to-bring-putin-and-zelensky-together-for-peace-talks/"
   },
   {
-    "score": 27,
-    "pubdate": "2025-08-10-07-27-28 +0000",
-    "source": "bbc",
-    "headline": "Ukraine's European allies say peace talks must include Kyiv",
-    "link": "https://www.bbc.com/news/articles/c0e9py7e28xo?at_medium=RSS&at_campaign=rss"
+    "score": 24,
+    "pubdate": "2025-08-10-04-01-07 +0000",
+    "source": "nyt",
+    "headline": "Xi Looks to Tighten Grip After Scandals Shake China’s Military Elite",
+    "link": "https://www.nytimes.com/2025/08/10/world/asia/china-military-corruption.html"
   }
 ]
