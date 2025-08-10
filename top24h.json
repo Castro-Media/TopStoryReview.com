@@ -1,6 +1,6 @@
 [
   {
-    "score": 133,
+    "score": 127,
     "pubdate": "2025-08-09-18-03-49 +0000",
     "source": "nypost",
     "headline": "Ukraine, European leaders counter Russian cease-fire plan ahead of Trump and Putin meeting",
@@ -28,13 +28,6 @@
     "link": "https://www.wsj.com/politics/policy/who-is-the-heir-to-the-maga-movement-trump-keeps-his-options-open-0f9e8c5c"
   },
   {
-    "score": 42,
-    "pubdate": "2025-08-09-07-51-56 +0000",
-    "source": "bbc",
-    "headline": "Mexico rules out Trump's reported military plan against drug cartels",
-    "link": "https://www.bbc.com/news/articles/c07pdel9vyjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 39,
     "pubdate": "2025-08-09-19-48-13 +0000",
     "source": "bbc",
@@ -42,18 +35,18 @@
     "link": "https://www.bbc.com/news/articles/c3dp119lk5xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
-    "pubdate": "2025-08-09-20-17-00 +0000",
-    "source": "bbc",
-    "headline": "Atlanta police officer dies after shooting near health agency HQ",
-    "link": "https://www.bbc.com/news/articles/cp3ekez0k2xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 37,
     "pubdate": "2025-08-09-12-00-00 +0000",
     "source": "latimes",
     "headline": "Farmworkers keep dying from heat illness, 20 years after California vowed to protect them",
     "link": "https://www.latimes.com/california/story/2025-08-09/farmworkers-extreme-heat-california-protections"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-08-09-20-17-00 +0000",
+    "source": "bbc",
+    "headline": "Atlanta police officer dies after shooting near health agency HQ",
+    "link": "https://www.bbc.com/news/articles/cp3ekez0k2xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 36,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Car Companies Are Paying Tariffs So You Don’t Have To",
     "link": "https://www.nytimes.com/2025/08/09/business/trump-tariffs-car-prices.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-08-10-02-04-54 +0000",
+    "source": "bbc",
+    "headline": "Thousands protest in Israel over Gaza City occupation plan",
+    "link": "https://www.bbc.com/news/videos/c5ylprlr3dzo?at_medium=RSS&at_campaign=rss"
   }
 ]
