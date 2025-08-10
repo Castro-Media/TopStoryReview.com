@@ -1,59 +1,45 @@
 [
   {
-    "score": 170,
+    "score": 150,
     "pubdate": "2025-08-09-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump is considering reclassifying marijuana as a less dangerous drug, after pot companies have poured millions of dollars into Trump’s political groups",
     "link": "https://www.wsj.com/politics/policy/trump-marijuana-federal-drug-classification-01a73b8c"
   },
   {
-    "score": 83,
+    "score": 78,
     "pubdate": "2025-08-09-18-03-49 +0000",
     "source": "nypost",
     "headline": "Ukraine, European leaders counter Russian cease-fire plan ahead of Trump and Putin meeting",
     "link": "https://nypost.com/2025/08/09/world-news/ukraine-european-leaders-counter-russian-cease-fire-plan-ahead-of-trump-and-putin-meeting/"
   },
   {
-    "score": 57,
+    "score": 53,
     "pubdate": "2025-08-09-00-52-59 +0000",
     "source": "nyt",
     "headline": "Netanyahu’s Plan for Gaza City Has Skeptics in Israeli Military",
     "link": "https://www.nytimes.com/2025/08/08/world/middleeast/israel-gaza-takeover-military-objection.html"
   },
   {
-    "score": 53,
+    "score": 49,
     "pubdate": "2025-08-09-16-40-45 +0000",
     "source": "nypost",
     "headline": "Ambassador Mike Huckabee slams British PM Keir Starmer for for condemning Israel: ‘Did UK surrender to Nazis and drop food to them?’",
     "link": "https://nypost.com/2025/08/09/us-news/ambassador-mike-huckabee-slams-british-pm-keir-starmer-over-denunciation-of-israel-did-uk-surrender-to-nazis-and-drop-food-to-them/"
   },
   {
-    "score": 53,
-    "pubdate": "2025-08-08-23-04-25 +0000",
-    "source": "cbc",
-    "headline": "Trump says he'll meet Putin in Alaska next Friday for first U.S.-Russia summit since 2021",
-    "link": "https://www.cbc.ca/news/world/trump-putin-meeting-1.7604979?cmp=rss"
-  },
-  {
-    "score": 53,
+    "score": 49,
     "pubdate": "2025-08-09-08-00-00 +0000",
     "source": "cbc",
     "headline": "Deal or no deal, Mark Carney has to manage a new relationship with the United States",
     "link": "https://www.cbc.ca/news/politics/carney-tariffs-trump-third-option-analysis-1.7604446?cmp=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2025-08-08-23-04-32 +0000",
-    "source": "nyt",
-    "headline": "Leaders of Armenia and Azerbaijan Sign Peace Pledge at White House",
-    "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-armenia-azerbaijan-peace-deal.html"
-  },
-  {
     "score": 40,
-    "pubdate": "2025-08-09-22-47-00 +0000",
-    "source": "wsj",
-    "headline": "Adriana Kugler hasn’t said why she is leaving her post as Federal Reserve governor. Her departure comes at a precarious time for the central bank.",
-    "link": "https://www.wsj.com/economy/central-banking/sudden-fed-resignation-surprised-colleagues-and-gave-opening-for-trump-3c6a84e9"
+    "pubdate": "2025-08-09-20-17-00 +0000",
+    "source": "bbc",
+    "headline": "Atlanta police officer dies after shooting near health agency HQ",
+    "link": "https://www.bbc.com/news/articles/cp3ekez0k2xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 40,
@@ -64,9 +50,23 @@
   },
   {
     "score": 40,
-    "pubdate": "2025-08-09-20-17-00 +0000",
-    "source": "bbc",
-    "headline": "Atlanta police officer dies after shooting near health agency HQ",
-    "link": "https://www.bbc.com/news/articles/cp3ekez0k2xo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-08-09-09-48-43 +0000",
+    "source": "nypost",
+    "headline": "Zelensky vows Russia will not get any Ukrainian land seized during war as Trump prepares for meeting with Putin",
+    "link": "https://nypost.com/2025/08/09/us-news/zelensky-vows-russia-will-not-get-ukranian-land-ahead-of-trump-meeting-with-putin-in-alaska/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-08-09-22-47-00 +0000",
+    "source": "wsj",
+    "headline": "Adriana Kugler hasn’t said why she is leaving her post as Federal Reserve governor. Her departure comes at a precarious time for the central bank.",
+    "link": "https://www.wsj.com/economy/central-banking/sudden-fed-resignation-surprised-colleagues-and-gave-opening-for-trump-3c6a84e9"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-08-09-17-07-56 +0000",
+    "source": "nypost",
+    "headline": "Financial expert warns young Americans against ‘buy now, pay later’ plans as shopping tactic growing in popularity",
+    "link": "https://nypost.com/2025/08/09/business/financial-expert-warns-young-americans-against-buy-now-pay-later-plans-as-shopping-tactic-growing-in-popularity/"
   }
 ]
