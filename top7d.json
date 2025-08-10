@@ -14,11 +14,18 @@
     "link": "https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-dmitri-kozak.html"
   },
   {
-    "score": 213,
+    "score": 212,
     "pubdate": "2025-08-09-09-02-47 +0000",
     "source": "nyt",
     "headline": "Israel’s New Plan to Take Gaza City",
     "link": "https://www.nytimes.com/video/world/100000010330865/israels-new-plan-to-take-gaza-city.html"
+  },
+  {
+    "score": 156,
+    "pubdate": "2025-08-08-16-13-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump has directed the Pentagon to begin preparing options to use military force against Latin American drug cartels, the latest step in the administration’s campaign against the cartels",
+    "link": "https://www.wsj.com/politics/national-security/trump-orders-pentagon-to-prepare-to-target-drug-cartels-in-latin-america-d47150c2"
   },
   {
     "score": 156,
@@ -28,13 +35,6 @@
     "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters"
   },
   {
-    "score": 154,
-    "pubdate": "2025-08-08-16-13-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump has directed the Pentagon to begin preparing options to use military force against Latin American drug cartels, the latest step in the administration’s campaign against the cartels",
-    "link": "https://www.wsj.com/politics/national-security/trump-orders-pentagon-to-prepare-to-target-drug-cartels-in-latin-america-d47150c2"
-  },
-  {
     "score": 113,
     "pubdate": "2025-08-08-15-42-00 +0000",
     "source": "wsj",
@@ -42,7 +42,7 @@
     "link": "https://www.wsj.com/economy/central-banking/stephen-miran-federal-reserve-board-e7855877"
   },
   {
-    "score": 109,
+    "score": 108,
     "pubdate": "2025-08-08-23-04-25 +0000",
     "source": "cbc",
     "headline": "Trump says he'll meet Putin in Alaska next Friday for first U.S.-Russia summit since 2021",
