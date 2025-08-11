@@ -1,55 +1,62 @@
 [
   {
-    "score": 134,
-    "pubdate": "2025-08-11-16-23-00 +0000",
+    "score": 160,
+    "pubdate": "2025-08-11-18-22-00 +0000",
     "source": "wsj",
-    "headline": "Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
+    "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
     "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
   },
   {
-    "score": 86,
-    "pubdate": "2025-08-11-16-01-23 +0000",
+    "score": 91,
+    "pubdate": "2025-08-11-18-15-40 +0000",
     "source": "nyt",
     "headline": "Tariffs on China Set to Rise Sharply Tuesday if No Deal Is Reached",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html"
   },
   {
-    "score": 59,
+    "score": 65,
+    "pubdate": "2025-08-11-18-52-00 +0000",
+    "source": "wsj",
+    "headline": "At Least One Killed, Dozens Injured in Explosion at U.S. Steel Plant in Pennsylvania",
+    "link": "https://www.wsj.com/business/pennsylvania-us-steel-explosion-clairton-718195a5?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-08-11-18-17-53 +0000",
+    "source": "nyt",
+    "headline": "Israel-Qatar Tensions Escalate After Israel Kills Al Jazeera Journalists",
+    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/israel-qatar-al-jazeera-killings.html"
+  },
+  {
+    "score": 57,
     "pubdate": "2025-08-10-20-57-00 +0000",
     "source": "wsj",
     "headline": "Intel CEO Lip-Bu Tan is set to visit the White House Monday after President Trump called for his removal last week over ties to Chinese businesses, according to people familiar with the matter",
     "link": "https://www.wsj.com/tech/intel-ceo-trump-white-house-visit-10e482af"
   },
   {
-    "score": 55,
+    "score": 52,
     "pubdate": "2025-08-11-16-09-47 +0000",
     "source": "nypost",
     "headline": "Trump says he’ll tell Putin to end Ukraine invasion, vows Zelensky will be in ‘next meeting’",
     "link": "https://nypost.com/2025/08/11/world-news/trump-says-hell-tell-putin-to-end-ukraine-invasion-vows-zelensky-will-be-in-next-meeting/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-08-11-16-27-01 +0000",
-    "source": "bbc",
-    "headline": "UN condemns targeted Israeli attack that killed five Al Jazeera journalists",
-    "link": "https://www.bbc.com/news/articles/cq688qz3rlro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-08-10-20-08-00 +0000",
-    "source": "wsj",
-    "headline": "Israel’s New War Plan Includes Fighting in Gaza’s Central Refugee Camps",
-    "link": "https://www.wsj.com/world/middle-east/israels-new-war-plan-includes-fighting-in-gazas-central-refugee-camps-2e0d8ad0"
-  },
-  {
-    "score": 49,
+    "score": 50,
     "pubdate": "2025-08-11-14-25-39 +0000",
     "source": "nyt",
     "headline": "Miguel Uribe, Colombian Senator Shot at Campaign Event, Dies at 39",
     "link": "https://www.nytimes.com/2025/08/11/world/americas/miguel-uribe-turbay-dead-colombia-assassination.html"
   },
   {
-    "score": 49,
+    "score": 46,
+    "pubdate": "2025-08-10-20-08-00 +0000",
+    "source": "wsj",
+    "headline": "Israel’s New War Plan Includes Fighting in Gaza’s Central Refugee Camps",
+    "link": "https://www.wsj.com/world/middle-east/israels-new-war-plan-includes-fighting-in-gazas-central-refugee-camps-2e0d8ad0"
+  },
+  {
+    "score": 44,
     "pubdate": "2025-08-10-21-39-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is interviewing candidates to lead the Bureau of Labor Statistics including at least one longtime critic of the agency, according to a senior administration official",
@@ -57,16 +64,9 @@
   },
   {
     "score": 40,
-    "pubdate": "2025-08-11-10-27-12 +0000",
-    "source": "nyt",
-    "headline": "‘Fighting Fire With Fire,’ Democrats on Defense as Texas Redistricting Looms",
-    "link": "https://www.nytimes.com/2025/08/10/us/politics/democrats-texas-redistricting.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-08-11-01-26-00 +0000",
-    "source": "nyt",
-    "headline": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China",
-    "link": "https://www.nytimes.com/2025/08/10/technology/us-government-nvidia-amd-chips-china.html"
+    "pubdate": "2025-08-11-08-52-43 +0000",
+    "source": "wapo",
+    "headline": "Here are countries that recognize a Palestinian state — or may do so soon",
+    "link": "https://www.washingtonpost.com/world/2025/07/31/palestinian-state-recognition-countries-list/"
   }
 ]
