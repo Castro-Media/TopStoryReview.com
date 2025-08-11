@@ -1,6 +1,6 @@
 [
   {
-    "score": 120,
+    "score": 119,
     "pubdate": "2025-08-11-01-00-00 +0000",
     "source": "wsj",
     "headline": "News the jobs market was much weaker than previously thought upset President Trump. So he fired the head of the U.S. agency that collects the data. The economy hinges on what comes next.",
@@ -15,17 +15,17 @@
   },
   {
     "score": 59,
-    "pubdate": "2025-08-10-16-41-54 +0000",
-    "source": "nyt",
-    "headline": "Dmitri Kozak Was a Key Putin Aide. He Lost Power When He Balked at the Ukraine War.",
-    "link": "https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-dmitri-kozak.html"
-  },
-  {
-    "score": 59,
     "pubdate": "2025-08-11-04-49-28 +0000",
     "source": "nypost",
     "headline": "US military preparing to surge National Guard troops to Washington, DC, to fight local crime and youth violence: report",
     "link": "https://nypost.com/2025/08/11/us-news/us-military-preparing-to-surge-national-guard-troops-to-washington-dc-report/"
+  },
+  {
+    "score": 59,
+    "pubdate": "2025-08-10-16-41-54 +0000",
+    "source": "nyt",
+    "headline": "Dmitri Kozak Was a Key Putin Aide. He Lost Power When He Balked at the Ukraine War.",
+    "link": "https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-dmitri-kozak.html"
   },
   {
     "score": 55,
@@ -35,7 +35,7 @@
     "link": "https://www.bbc.com/news/articles/cq688qz3rlro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2025-08-10-16-15-23 +0000",
     "source": "nypost",
     "headline": "Netanyahu lays out Gaza City incursion goals as critics warn it could turn to Israel’s ‘Vietnam’",
