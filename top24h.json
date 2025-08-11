@@ -1,16 +1,16 @@
 [
   {
-    "score": 135,
+    "score": 134,
     "pubdate": "2025-08-10-14-15-48 +0000",
     "source": "nyt",
     "headline": "In a Trump-Putin Summit, Ukraine Fears Losing Say Over Its Future",
     "link": "https://www.nytimes.com/2025/08/10/us/politics/trump-putin-meeting-ukraine.html"
   },
   {
-    "score": 75,
-    "pubdate": "2025-08-10-22-29-46 +0000",
+    "score": 71,
+    "pubdate": "2025-08-11-01-25-07 +0000",
     "source": "bbc",
-    "headline": "Four Al Jazeera journalists killed in Israeli strike near Gaza City's Al-Shifa hospital",
+    "headline": "Five Al Jazeera journalists killed in Israeli strike near Gaza City's Al-Shifa hospital",
     "link": "https://www.bbc.com/news/articles/ceqyyrp3yq9o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -36,37 +36,37 @@
   },
   {
     "score": 41,
-    "pubdate": "2025-08-10-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "California took center stage in ICE raids, but other states saw more immigration arrests",
-    "link": "https://www.latimes.com/california/story/2025-08-10/california-was-center-stage-in-ice-raids-but-texas-and-florida-each-saw-more-immigration-arrests"
+    "pubdate": "2025-08-11-02-31-24 +0000",
+    "source": "nypost",
+    "headline": "Girlfriend of US tourist shot dead during Puerto Rico trip to see Bad Bunny concert shares heartbreaking posts: ‘I love you my angel’",
+    "link": "https://nypost.com/2025/08/10/us-news/girlfriend-of-us-tourist-kevin-mares-shot-dead-during-puerto-rico-trip-to-see-bad-bunny-concert-shares-heartbreaking-posts/"
   },
   {
-    "score": 40,
+    "score": 41,
+    "pubdate": "2025-08-11-01-43-42 +0000",
+    "source": "bbc",
+    "headline": "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US",
+    "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
     "pubdate": "2025-08-10-20-57-00 +0000",
     "source": "wsj",
     "headline": "Intel CEO Lip-Bu Tan is set to visit the White House Monday after President Trump called for his removal last week over ties to Chinese businesses, according to people familiar with the matter",
     "link": "https://www.wsj.com/tech/intel-ceo-singled-out-by-trump-to-visit-white-house-on-monday-10e482af"
   },
   {
-    "score": 38,
+    "score": 41,
+    "pubdate": "2025-08-10-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California took center stage in ICE raids, but other states saw more immigration arrests",
+    "link": "https://www.latimes.com/california/story/2025-08-10/california-was-center-stage-in-ice-raids-but-texas-and-florida-each-saw-more-immigration-arrests"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-08-10-16-15-23 +0000",
     "source": "nypost",
     "headline": "Netanyahu lays out Gaza City incursion goals as critics warn it could turn to Israel’s ‘Vietnam’",
     "link": "https://nypost.com/2025/08/10/world-news/netanyahu-lays-out-gaza-city-incursion-goals-as-critics-warn-it-could-turn-to-israels-vietnam/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-08-11-00-09-23 +0000",
-    "source": "nypost",
-    "headline": "Nvidia, AMD to pay 15% of China chip sale revenues to US: report",
-    "link": "https://nypost.com/2025/08/10/business/nvidia-amd-to-pay-15-of-china-chip-sale-revenues-to-us-report/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-08-10-19-52-29 +0000",
-    "source": "nypost",
-    "headline": "Vance says only Trump can decide when to bring Putin and Zelensky together for peace talks",
-    "link": "https://nypost.com/2025/08/10/us-news/vance-says-only-trump-can-decide-when-to-bring-putin-and-zelensky-together-for-peace-talks/"
   }
 ]
