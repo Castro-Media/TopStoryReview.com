@@ -1,5 +1,101 @@
 [
   {
+    "headline": "AOL Will Shut Its Dial-Up Internet Service (Yes, It’s Still Operating)",
+    "link": "https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html",
+    "source": "nyt",
+    "pubdate": "2025-08-11-04-04-45 +0000"
+  },
+  {
+    "headline": "China’s Automakers Are Taking a Shortcut to European Markets",
+    "link": "https://www.nytimes.com/2025/08/11/business/china-electric-vehicles-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2025-08-11-04-01-02 +0000"
+  },
+  {
+    "headline": "China’s Automakers Are Taking a Shortcut to European Markets",
+    "link": "https://www.nytimes.com/2025/08/11/business/china-electric-vehicles-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2025-08-11-04-01-02 +0000"
+  },
+  {
+    "headline": "The end of the Trump-Modi bromance",
+    "link": "https://www.washingtonpost.com/world/2025/08/11/india-modi-trump-friendship-alliance-trade-tariff/",
+    "source": "wapo",
+    "pubdate": "2025-08-11-04-00-01 +0000"
+  },
+  {
+    "headline": "Alaska airport employee allegedly planted GPS trackers in several coworkers’ personal vehicles in multi-year surveillance scheme",
+    "link": "https://nypost.com/2025/08/10/us-news/alaska-airport-employee-arrested-for-allegedly-planting-gps-trackers-in-personal-vehicles-to-stalk-coworkers/",
+    "source": "nypost",
+    "pubdate": "2025-08-11-03-45-26 +0000"
+  },
+  {
+    "headline": "Australia to recognise Palestinian state in September",
+    "link": "https://www.bbc.com/news/articles/cvg33351n61o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-11-03-32-51 +0000"
+  },
+  {
+    "headline": "Australia to recognise Palestinian state in September",
+    "link": "https://www.bbc.com/news/articles/cvg33351n61o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-11-03-32-51 +0000"
+  },
+  {
+    "headline": "Chip giants Nvidia and AMD to pay 15% of China revenue to US",
+    "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-11-03-27-33 +0000"
+  },
+  {
+    "headline": "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US",
+    "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-11-03-27-33 +0000"
+  },
+  {
+    "headline": "Chip giants Nvidia and AMD to pay 15% of China revenue to US",
+    "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-11-03-27-33 +0000"
+  },
+  {
+    "headline": "Luke Keaschall’s walk-off homer gives Twins victory over Royals in 11 innings",
+    "link": "https://www.startribune.com/minnesota-twins-luke-keaschall-kansas-city-royals-mlb-target-field/601452789",
+    "source": "startribune",
+    "pubdate": "2025-08-11-03-00-27 +0000"
+  },
+  {
+    "headline": "The American Fighting to Pry His Company Back From the Kremlin’s Grasp",
+    "link": "https://www.wsj.com/world/russia/leonid-smirnov-russia-business-control-a36b7385",
+    "source": "wsj",
+    "pubdate": "2025-08-11-03-00-00 +0000"
+  },
+  {
+    "headline": "The Engineering Marvel That China Hopes Will Help Wean It Off Foreign Energy",
+    "link": "https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92",
+    "source": "wsj",
+    "pubdate": "2025-08-11-03-00-00 +0000"
+  },
+  {
+    "headline": "Loons fall 2-1 to Colorado Rapids in return to MLS regular-season play",
+    "link": "https://www.startribune.com/minnesota-united-colorado-rapids-darren-yapi-allianz-field-tani-oluwaseyi/601452865",
+    "source": "startribune",
+    "pubdate": "2025-08-11-02-55-33 +0000"
+  },
+  {
+    "headline": "Israeli Strike Kills 4 Al Jazeera Journalists, Network Says",
+    "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-11-02-46-51 +0000"
+  },
+  {
+    "headline": "Israeli Strike Kills 4 Al Jazeera Journalists, Network Says",
+    "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-11-02-46-51 +0000"
+  },
+  {
     "headline": "Girlfriend of US tourist shot dead during Puerto Rico trip to see Bad Bunny concert shares heartbreaking posts: ‘I love you my angel’",
     "link": "https://nypost.com/2025/08/10/us-news/girlfriend-of-us-tourist-kevin-mares-shot-dead-during-puerto-rico-trip-to-see-bad-bunny-concert-shares-heartbreaking-posts/",
     "source": "nypost",
@@ -18,10 +114,10 @@
     "pubdate": "2025-08-11-02-23-46 +0000"
   },
   {
-    "headline": "Luke Keaschall’s walk-off homer gives Twins victory over Royals in 11 innings",
-    "link": "https://www.startribune.com/minnesota-twins-luke-keaschall-kansas-city-royals-mlb-target-field/601452789",
-    "source": "startribune",
-    "pubdate": "2025-08-11-02-00-36 +0000"
+    "headline": "Inside Target, Frustrated Employees and the Search for a New CEO",
+    "link": "https://www.wsj.com/business/retail/target-corporate-employees-ceo-search-bcfeb735?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-11-02-00-00 +0000"
   },
   {
     "headline": "Inside Target, Frustrated Employees and the Search for a New CEO",
@@ -42,28 +138,10 @@
     "pubdate": "2025-08-11-01-50-13 +0000"
   },
   {
-    "headline": "Loons fall 2-1 to Colorado Rapids in return to MLS regular-season play",
-    "link": "https://www.startribune.com/minnesota-united-colorado-rapids-darren-yapi-allianz-field-tani-oluwaseyi/601452865",
-    "source": "startribune",
-    "pubdate": "2025-08-11-01-45-46 +0000"
-  },
-  {
-    "headline": "Chip giants Nvidia and AMD to pay 15% of China revenue to US",
-    "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
+    "headline": "China's unemployed young adults who are pretending to have jobs",
+    "link": "https://www.bbc.com/news/articles/cdd3ep76g3go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-08-11-01-43-42 +0000"
-  },
-  {
-    "headline": "Chip giants Nvidia and AMD to pay 15% of sales revenue in China to US",
-    "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-11-01-43-42 +0000"
-  },
-  {
-    "headline": "Chip giants Nvidia and AMD to pay 15% of China revenue to US",
-    "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-11-01-43-42 +0000"
+    "pubdate": "2025-08-11-01-50-13 +0000"
   },
   {
     "headline": "How the Supreme Court Set the Stage for Redistricting",
@@ -88,18 +166,6 @@
     "link": "https://www.nytimes.com/2025/08/10/us/politics/jd-vance-zelensky-trump-putin.html",
     "source": "nyt",
     "pubdate": "2025-08-11-01-41-09 +0000"
-  },
-  {
-    "headline": "Israeli Strike Kills 4 Al Jazeera Journalists, Network Says",
-    "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-01-33-35 +0000"
-  },
-  {
-    "headline": "Israeli Strike Kills 4 Al Jazeera Journalists, Network Says",
-    "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-01-33-35 +0000"
   },
   {
     "headline": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China",
@@ -108,13 +174,13 @@
     "pubdate": "2025-08-11-01-25-59 +0000"
   },
   {
-    "headline": "Five Al Jazeera journalists killed in Israeli strike near Gaza City's Al-Shifa hospital",
+    "headline": "Five Al Jazeera journalists killed in Israeli strike in Gaza",
     "link": "https://www.bbc.com/news/articles/ceqyyrp3yq9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-11-01-25-07 +0000"
   },
   {
-    "headline": "Five Al Jazeera journalists killed in Israeli strike near Gaza City's Al-Shifa hospital",
+    "headline": "Five Al Jazeera journalists killed in Israeli strike in Gaza",
     "link": "https://www.bbc.com/news/articles/ceqyyrp3yq9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-11-01-25-07 +0000"
@@ -150,7 +216,7 @@
     "pubdate": "2025-08-11-01-00-00 +0000"
   },
   {
-    "headline": "Redondo Beach 911 system knocked out after trash fire turns toxic",
+    "headline": "Fire at AT&T facility in Gardena knocks out 911 service, causes cellphone, internet disruptions",
     "link": "https://www.latimes.com/california/story/2025-08-10/redondo-beach-911",
     "source": "latimes",
     "pubdate": "2025-08-11-00-53-28 +0000"
@@ -612,12 +678,6 @@
     "pubdate": "2025-08-10-19-52-29 +0000"
   },
   {
-    "headline": "Vance says only Trump can decide when to bring Putin and Zelensky together for peace talks",
-    "link": "https://nypost.com/2025/08/10/us-news/vance-says-only-trump-can-decide-when-to-bring-putin-and-zelensky-together-for-peace-talks/",
-    "source": "nypost",
-    "pubdate": "2025-08-10-19-52-29 +0000"
-  },
-  {
     "headline": "Ukraine and Europe Counter Putin’s Cease-Fire Proposal",
     "link": "https://www.wsj.com/world/ukraine-and-europe-counter-putins-cease-fire-proposal-6a16133c",
     "source": "wsj",
@@ -754,12 +814,6 @@
     "link": "https://nypost.com/2025/08/10/business/third-ave-outlook-brightening-cbre-says/",
     "source": "nypost",
     "pubdate": "2025-08-10-17-42-42 +0000"
-  },
-  {
-    "headline": "Fire prompts thousands of evacuations in California",
-    "link": "https://www.bbc.com/news/articles/cx2pqry4xkko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-10-17-38-42 +0000"
   },
   {
     "headline": "Fire prompts thousands of evacuations in California",
@@ -1104,6 +1158,30 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
+    "headline": "What if L.A.'s  so-called flaws were underappreciated assets rather than liabilities?",
+    "link": "https://www.latimes.com/california/story/2025-08-10/can-los-angeles-become-a-model-of-sustainability-its-not-as-crazy-as-it-sounds",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: These nonfiction writers looked for the future of L.A. Did they find it?",
+    "link": "https://www.latimes.com/california/story/2025-08-10/these-nonfiction-writers-looked-for-the-future-of-l-a-did-they-find-it",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
+    "headline": "'The safest place to be': When fleeing fire is no longer an option",
+    "link": "https://www.latimes.com/california/story/2025-08-10/when-fleeing-fire-is-no-longer-an-option",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: From Wild West days to 2025, he safeguards L.A County Sheriff's Department history",
+    "link": "https://www.latimes.com/california/story/2025-08-10/mike-fratantoni-lasd-historian",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
     "headline": "Arellano: When the going gets tough for L.A., our city rallies like no other",
     "link": "https://www.latimes.com/california/story/2025-08-10/future-la-arellano-resilience-fires-raids",
     "source": "latimes",
@@ -1112,6 +1190,12 @@
   {
     "headline": "Fast-forward 25 years: Sharing hopes and dreams for a future Los Angeles",
     "link": "https://www.latimes.com/california/story/2025-08-10/future-la-fires-earthquakes-floods-prepare",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
+    "headline": "Fires and floods have plagued L.A. forever; brilliant marketing lured millions of newcomers anyway",
+    "link": "https://www.latimes.com/california/story/2025-08-10/fires-floods-hiltzik-golden-state-making-of-california",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -1128,18 +1212,6 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Fires and floods have plagued L.A. forever; brilliant marketing lured millions of newcomers anyway",
-    "link": "https://www.latimes.com/california/story/2025-08-10/fires-floods-hiltzik-golden-state-making-of-california",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
-    "headline": "Is Southern California prepared to avoid a 'Day Zero' water crisis?",
-    "link": "https://www.latimes.com/environment/story/2025-08-10/southern-california-water-climate-future",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
     "headline": "Salvaging a crumbling California coastline required some radical thinking",
     "link": "https://www.latimes.com/environment/story/2025-08-10/saving-gleason-beach-sea-level-rise",
     "source": "latimes",
@@ -1152,14 +1224,14 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Despite record amounts of trash, some Angelenos are optimistic we'll dig our way out",
-    "link": "https://www.latimes.com/environment/story/2025-08-10/despite-records-amount-of-trash-angelenos-are-optimistic-well-dig-our-way-out",
+    "headline": "Is Southern California prepared to avoid a 'Day Zero' water crisis?",
+    "link": "https://www.latimes.com/environment/story/2025-08-10/southern-california-water-climate-future",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "The unsung solution for our waste crisis: Reuse",
-    "link": "https://www.latimes.com/science/story/2025-08-10/most-paper-cups-cant-be-recycled-one-company-is-trying-to-fix-that",
+    "headline": "Despite record amounts of trash, some Angelenos are optimistic we'll dig our way out",
+    "link": "https://www.latimes.com/environment/story/2025-08-10/despite-records-amount-of-trash-angelenos-are-optimistic-well-dig-our-way-out",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -1176,8 +1248,8 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Imagine fire-safe communities where residents can live and evacuate in record time",
-    "link": "https://www.latimes.com/california/story/2025-08-10/fire-proof-2050",
+    "headline": "The unsung solution for our waste crisis: Reuse",
+    "link": "https://www.latimes.com/science/story/2025-08-10/most-paper-cups-cant-be-recycled-one-company-is-trying-to-fix-that",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -1188,32 +1260,14 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
+    "headline": "Imagine fire-safe communities where residents can live and evacuate in record time",
+    "link": "https://www.latimes.com/california/story/2025-08-10/fire-proof-2050",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
     "headline": "Commentary: Prepare to say a frond farewell to Los Angeles' palm trees",
     "link": "https://www.latimes.com/california/story/2025-08-10/prepare-to-say-farewell-to-los-angeles-palm-trees",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: These nonfiction writers looked for the future of L.A. Did they find it?",
-    "link": "https://www.latimes.com/california/story/2025-08-10/these-nonfiction-writers-looked-for-the-future-of-l-a-did-they-find-it",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
-    "headline": "What if L.A.'s  so-called flaws were underappreciated assets rather than liabilities?",
-    "link": "https://www.latimes.com/california/story/2025-08-10/can-los-angeles-become-a-model-of-sustainability-its-not-as-crazy-as-it-sounds",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: From Wild West days to 2025, he safeguards L.A County Sheriff's Department history",
-    "link": "https://www.latimes.com/california/story/2025-08-10/mike-fratantoni-lasd-historian",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
-    "headline": "'The safest place to be': When fleeing fire is no longer an option",
-    "link": "https://www.latimes.com/california/story/2025-08-10/when-fleeing-fire-is-no-longer-an-option",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -2562,12 +2616,6 @@
     "pubdate": "2025-08-09-03-24-00 +0000"
   },
   {
-    "headline": "Trump administration weighs military actions against drug cartels",
-    "link": "https://www.washingtonpost.com/national-security/2025/08/08/trump-mexico-pentagon-drug-cartels/",
-    "source": "wapo",
-    "pubdate": "2025-08-09-03-08-04 +0000"
-  },
-  {
     "headline": "Gaza Takeover Plan Exposes Constraints on Israeli Military",
     "link": "https://www.wsj.com/world/middle-east/gaza-takeover-plan-exposes-constraints-on-israeli-military-24b941b2",
     "source": "wsj",
@@ -2716,12 +2764,6 @@
     "link": "https://www.latimes.com/california/story/2025-08-08/newsom-update-on-redistricting-and-texas",
     "source": "latimes",
     "pubdate": "2025-08-09-00-44-30 +0000"
-  },
-  {
-    "headline": "Military veteran arrested a week after deadly Montana bar shooting",
-    "link": "https://www.bbc.com/news/articles/c62wg73w5v9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-09-00-35-22 +0000"
   },
   {
     "headline": "Thousands of Dollars Worth of Labubus Stolen From California Store",
@@ -3870,12 +3912,6 @@
     "pubdate": "2025-08-08-07-00-39 +0000"
   },
   {
-    "headline": "'I loved them' - Police interview Australian mushroom murderer",
-    "link": "https://www.bbc.com/news/videos/cj9w3g7lrwvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-08-06-23-36 +0000"
-  },
-  {
     "headline": "Serious offenders to be kept in restricted zones under plans",
     "link": "https://www.bbc.com/news/articles/ce832zyg1vlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3916,12 +3952,6 @@
     "link": "https://www.bbc.com/news/articles/cgm2jed7xvyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-08-04-58-20 +0000"
-  },
-  {
-    "headline": "K-Pop Looks to China to Supercharge Growth After Strong Earnings",
-    "link": "https://www.wsj.com/business/k-pop-looks-to-china-to-supercharge-growth-after-strong-earnings-e8741bbd?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-08-04-56-00 +0000"
   },
   {
     "headline": "Friday Briefing: Israel Approves Full Military Takeover of Gaza",
@@ -4284,12 +4314,6 @@
     "pubdate": "2025-08-07-20-28-23 +0000"
   },
   {
-    "headline": "Stocks End Mixed, as Investors Take Steeper Tariffs in Stride",
-    "link": "https://www.nytimes.com/2025/08/07/business/economy/trump-tariffs-stock-market.html",
-    "source": "nyt",
-    "pubdate": "2025-08-07-20-28-23 +0000"
-  },
-  {
     "headline": "Some safe-haven assets have soared against the U.S. dollar.",
     "link": "https://www.nytimes.com/live/2025/08/06/business/tariffs-trump-trade/some-safe-haven-assets-have-soared-against-the-us-dollar",
     "source": "nyt",
@@ -4614,12 +4638,6 @@
     "pubdate": "2025-08-07-13-54-53 +0000"
   },
   {
-    "headline": "After Skydance-Paramount Acquisition, What Will Be the Next Big Media Deal?",
-    "link": "https://www.nytimes.com/2025/08/07/business/dealbook/skydance-paramount-media-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-07-13-54-38 +0000"
-  },
-  {
     "headline": "Faisal Islam: Why has the Bank of England cut rates?",
     "link": "https://www.bbc.com/news/articles/cq6899yleg8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4776,14 +4794,26 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "L.A. County unlikely to fight probation takeover — as long as receiver battles problem staffers",
-    "link": "https://www.latimes.com/california/story/2025-08-07/l-a-county-wont-fight-a-g-rob-bonta-over-probation-takeover-as-long-as-he-fights-the-unions",
+    "headline": "Insurer of last resort faces questions over smoke damage claims",
+    "link": "https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
     "headline": "Contributor: Newsom's cynical redistricting ploy should be rejected by voters",
     "link": "https://www.latimes.com/opinion/story/2025-08-07/california-texas-gavin-newsom-greg-abbott-redistricting",
+    "source": "latimes",
+    "pubdate": "2025-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "L.A. County unlikely to fight probation takeover — as long as receiver battles problem staffers",
+    "link": "https://www.latimes.com/california/story/2025-08-07/l-a-county-wont-fight-a-g-rob-bonta-over-probation-takeover-as-long-as-he-fights-the-unions",
+    "source": "latimes",
+    "pubdate": "2025-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "No charges for L.A. County deputy who shot man in back as he lay on pavement",
+    "link": "https://www.latimes.com/california/story/2025-08-07/los-angeles-county-deputy-adrian-abelar-shooting",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
@@ -4806,12 +4836,6 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "No charges for L.A. County deputy who shot man in back as he lay on pavement",
-    "link": "https://www.latimes.com/california/story/2025-08-07/los-angeles-county-deputy-adrian-abelar-shooting",
-    "source": "latimes",
-    "pubdate": "2025-08-07-10-00-00 +0000"
-  },
-  {
     "headline": "SoCal heat wave: When can you expect relief?",
     "link": "https://www.latimes.com/california/story/2025-08-07/socal-heat-wave-peaks-thursday-but-temperatures-will-remain-high",
     "source": "latimes",
@@ -4820,12 +4844,6 @@
   {
     "headline": "Lopez: My bathroom scale is rigged, and so are my book sales. Lawsuits and pink slips to follow",
     "link": "https://www.latimes.com/california/story/2025-08-07/my-bathroom-scale-is-rigged-and-so-is-a-lot-of-other-stuff-but-im-here-to-set-the-record-straight",
-    "source": "latimes",
-    "pubdate": "2025-08-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Insurer of last resort faces questions over smoke damage claims",
-    "link": "https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
@@ -4876,12 +4894,6 @@
     "link": "https://www.wsj.com/business/autos/auto-industry-trump-tariff-impact-955ca0bf?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-07-09-26-00 +0000"
-  },
-  {
-    "headline": "Why a Teen Bullying Case in China Set Off Protests and a Crackdown",
-    "link": "https://www.nytimes.com/2025/08/07/world/asia/china-bullying-protests.html",
-    "source": "nyt",
-    "pubdate": "2025-08-07-08-48-46 +0000"
   },
   {
     "headline": "Siemens Beats Market Views With Order Momentum in Mobility",
@@ -5316,12 +5328,6 @@
     "pubdate": "2025-08-06-10-41-00 +0000"
   },
   {
-    "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
-    "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters",
-    "source": "latimes",
-    "pubdate": "2025-08-06-10-00-00 +0000"
-  },
-  {
     "headline": "Trump officials are reopening old immigration cases, even for dead people. 'They don't do their homework,' lawyers say",
     "link": "https://www.latimes.com/california/story/2025-08-06/trump-administration-recalendars-decades-old-immigration-cases",
     "source": "latimes",
@@ -5330,6 +5336,18 @@
   {
     "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
     "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters",
+    "source": "latimes",
+    "pubdate": "2025-08-06-10-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: Newsom vows Texas will be 'neutered' by California. Will voters let him do it?",
+    "link": "https://www.latimes.com/california/story/2025-08-06/chabria-column-newsom-texas-redistricting-california-voters",
+    "source": "latimes",
+    "pubdate": "2025-08-06-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump officials are reopening old immigration cases, even for dead people. 'They don't do their homework,' lawyers say",
+    "link": "https://www.latimes.com/california/story/2025-08-06/trump-administration-recalendars-decades-old-immigration-cases",
     "source": "latimes",
     "pubdate": "2025-08-06-10-00-00 +0000"
   },
@@ -5342,12 +5360,6 @@
   {
     "headline": "UC must reconsider policy barring undocumented students from jobs, court rules",
     "link": "https://www.latimes.com/california/story/2025-08-06/court-rules-uc-must-reconsider-policy-barring-undocumented-students-from-campus-jobs",
-    "source": "latimes",
-    "pubdate": "2025-08-06-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump officials are reopening old immigration cases, even for dead people. 'They don't do their homework,' lawyers say",
-    "link": "https://www.latimes.com/california/story/2025-08-06/trump-administration-recalendars-decades-old-immigration-cases",
     "source": "latimes",
     "pubdate": "2025-08-06-10-00-00 +0000"
   },
@@ -5524,12 +5536,6 @@
     "link": "https://www.latimes.com/politics/story/2025-08-05/trump-l-a-2028-olympics-task-force-billion-dollar-security-effort",
     "source": "latimes",
     "pubdate": "2025-08-05-22-16-38 +0000"
-  },
-  {
-    "headline": "'Hiroshima survivor stories were painful to draw'",
-    "link": "https://www.bbc.com/news/videos/c3dpk8gd1kdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-05-22-07-12 +0000"
   },
   {
     "headline": "Trump Says Banks Discriminate Against Conservatives—Including Him",
@@ -5710,12 +5716,6 @@
     "link": "https://www.bbc.com/news/articles/cm21evz732eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-05-11-52-54 +0000"
-  },
-  {
-    "headline": "Israel Says It Is Easing More Restrictions on Goods Entering Gaza",
-    "link": "https://www.wsj.com/world/middle-east/israel-says-it-is-easing-more-restrictions-on-goods-entering-gaza-0dc369c2",
-    "source": "wsj",
-    "pubdate": "2025-08-05-10-58-00 +0000"
   },
   {
     "headline": "Chabria: California has sued Trump 37 times. Here's what's at stake.",
