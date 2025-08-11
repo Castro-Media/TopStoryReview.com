@@ -1,6 +1,6 @@
 [
   {
-    "score": 135,
+    "score": 134,
     "pubdate": "2025-08-11-16-23-00 +0000",
     "source": "wsj",
     "headline": "Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
@@ -43,20 +43,20 @@
   },
   {
     "score": 49,
+    "pubdate": "2025-08-11-14-25-39 +0000",
+    "source": "nyt",
+    "headline": "Miguel Uribe, Colombian Senator Shot at Campaign Event, Dies at 39",
+    "link": "https://www.nytimes.com/2025/08/11/world/americas/miguel-uribe-turbay-dead-colombia-assassination.html"
+  },
+  {
+    "score": 49,
     "pubdate": "2025-08-10-21-39-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is interviewing candidates to lead the Bureau of Labor Statistics including at least one longtime critic of the agency, according to a senior administration official",
     "link": "https://www.wsj.com/politics/policy/trump-administration-considers-longtime-critic-to-lead-bureau-of-labor-statistics-5aea02ed"
   },
   {
-    "score": 49,
-    "pubdate": "2025-08-11-14-55-18 +0000",
-    "source": "bbc",
-    "headline": "Colombian Senator Miguel Uribe dies two months after being shot",
-    "link": "https://www.bbc.com/news/articles/c78mmj97ygmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 44,
+    "score": 40,
     "pubdate": "2025-08-11-10-27-12 +0000",
     "source": "nyt",
     "headline": "‘Fighting Fire With Fire,’ Democrats on Defense as Texas Redistricting Looms",
