@@ -1,27 +1,34 @@
 [
   {
-    "score": 107,
-    "pubdate": "2025-08-10-19-29-23 +0000",
+    "score": 114,
+    "pubdate": "2025-08-11-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "NY POSTcast Daily Debrief: Trump-Putin summit goals, body of Florida teen found after frantic text, are aliens on their way to Earth?",
+    "link": "https://nypost.com/2025/08/11/us-news/ny-postcast-daily-debrief-august-11-2025/"
+  },
+  {
+    "score": 76,
+    "pubdate": "2025-08-10-16-41-54 +0000",
     "source": "nyt",
-    "headline": "With Ukraine in the Balance, Trump and Putin Head Into Summit With Mismatched Goals",
-    "link": "https://www.nytimes.com/2025/08/10/world/europe/ukraine-trump-putin-summit.html"
+    "headline": "Dmitri Kozak Was a Key Putin Aide. He Lost Power When He Balked at the Ukraine War.",
+    "link": "https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-dmitri-kozak.html"
   },
   {
-    "score": 68,
-    "pubdate": "2025-08-10-20-08-00 +0000",
-    "source": "wsj",
-    "headline": "Israel’s New War Plan Includes Fighting in Gaza’s Central Refugee Camps",
-    "link": "https://www.wsj.com/world/middle-east/israels-new-war-plan-includes-fighting-in-gazas-central-refugee-camps-2e0d8ad0"
+    "score": 62,
+    "pubdate": "2025-08-11-08-58-23 +0000",
+    "source": "bbc",
+    "headline": "Five Al Jazeera journalists killed in Israeli strike in Gaza",
+    "link": "https://www.bbc.com/news/articles/ceqyyrp3yq9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 60,
     "pubdate": "2025-08-11-00-09-23 +0000",
     "source": "nypost",
     "headline": "Nvidia, AMD to pay 15% of China chip sale revenues to US: report",
     "link": "https://nypost.com/2025/08/10/business/nvidia-amd-to-pay-15-of-china-chip-sale-revenues-to-us-report/"
   },
   {
-    "score": 50,
+    "score": 53,
     "pubdate": "2025-08-10-20-57-00 +0000",
     "source": "wsj",
     "headline": "Intel CEO Lip-Bu Tan is set to visit the White House Monday after President Trump called for his removal last week over ties to Chinese businesses, according to people familiar with the matter",
@@ -29,44 +36,37 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-08-11-04-35-55 +0000",
+    "pubdate": "2025-08-11-11-43-27 +0000",
     "source": "bbc",
-    "headline": "Their loved ones are missing at war. So these Ukrainian children spend summer together",
-    "link": "https://www.bbc.com/news/articles/cdx0ex5v437o?at_medium=RSS&at_campaign=rss"
+    "headline": "Colombian Senator Miguel Uribe dies two months after being shot",
+    "link": "https://www.bbc.com/news/articles/c78mmj97ygmo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 44,
-    "pubdate": "2025-08-11-08-58-23 +0000",
-    "source": "bbc",
-    "headline": "Five Al Jazeera journalists killed in Israeli strike in Gaza",
-    "link": "https://www.bbc.com/news/articles/ceqyyrp3yq9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-08-10-16-41-54 +0000",
-    "source": "nyt",
-    "headline": "Dmitri Kozak Was a Key Putin Aide. He Lost Power When He Balked at the Ukraine War.",
-    "link": "https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-dmitri-kozak.html"
-  },
-  {
-    "score": 40,
     "pubdate": "2025-08-11-10-27-12 +0000",
     "source": "nyt",
     "headline": "‘Fighting Fire With Fire,’ Democrats on Defense as Texas Redistricting Looms",
     "link": "https://www.nytimes.com/2025/08/10/us/politics/democrats-texas-redistricting.html"
   },
   {
-    "score": 31,
-    "pubdate": "2025-08-10-12-43-33 +0000",
-    "source": "nypost",
-    "headline": "North Korea dismantles propaganda loudspeakers from border to ease tensions with South Korea",
-    "link": "https://nypost.com/2025/08/10/world-news/north-korea-removes-speakers-from-border-south-koreas-military-says/"
+    "score": 42,
+    "pubdate": "2025-08-11-04-35-55 +0000",
+    "source": "bbc",
+    "headline": "Their loved ones are missing at war. So these Ukrainian children spend summer together",
+    "link": "https://www.bbc.com/news/articles/cdx0ex5v437o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 30,
-    "pubdate": "2025-08-10-21-03-27 +0000",
-    "source": "bbc",
-    "headline": "Bowen: Israeli settlers intensify campaign to drive out West Bank Palestinians",
-    "link": "https://www.bbc.com/news/articles/cj4wwxz12jko?at_medium=RSS&at_campaign=rss"
+    "score": 36,
+    "pubdate": "2025-08-10-16-15-23 +0000",
+    "source": "nypost",
+    "headline": "Netanyahu lays out Gaza City incursion goals as critics warn it could turn to Israel’s ‘Vietnam’",
+    "link": "https://nypost.com/2025/08/10/world-news/netanyahu-lays-out-gaza-city-incursion-goals-as-critics-warn-it-could-turn-to-israels-vietnam/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-08-11-04-49-28 +0000",
+    "source": "nypost",
+    "headline": "US military preparing to surge National Guard troops to Washington, DC, to fight local crime and youth violence: report",
+    "link": "https://nypost.com/2025/08/11/us-news/us-military-preparing-to-surge-national-guard-troops-to-washington-dc-report/"
   }
 ]
