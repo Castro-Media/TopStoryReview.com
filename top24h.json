@@ -1,24 +1,24 @@
 [
   {
-    "score": 160,
+    "score": 157,
     "pubdate": "2025-08-11-18-22-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
     "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
   },
   {
-    "score": 91,
+    "score": 90,
     "pubdate": "2025-08-11-18-15-40 +0000",
     "source": "nyt",
     "headline": "Tariffs on China Set to Rise Sharply Tuesday if No Deal Is Reached",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html"
   },
   {
-    "score": 65,
+    "score": 64,
     "pubdate": "2025-08-11-18-52-00 +0000",
     "source": "wsj",
     "headline": "At Least One Killed, Dozens Injured in Explosion at U.S. Steel Plant in Pennsylvania",
-    "link": "https://www.wsj.com/business/pennsylvania-us-steel-explosion-clairton-718195a5?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/business/pennsylvania-us-steel-explosion-clairton-718195a5"
   },
   {
     "score": 60,
@@ -28,18 +28,11 @@
     "link": "https://www.nytimes.com/2025/08/11/world/middleeast/israel-qatar-al-jazeera-killings.html"
   },
   {
-    "score": 57,
+    "score": 56,
     "pubdate": "2025-08-10-20-57-00 +0000",
     "source": "wsj",
     "headline": "Intel CEO Lip-Bu Tan is set to visit the White House Monday after President Trump called for his removal last week over ties to Chinese businesses, according to people familiar with the matter",
     "link": "https://www.wsj.com/tech/intel-ceo-trump-white-house-visit-10e482af"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-08-11-16-09-47 +0000",
-    "source": "nypost",
-    "headline": "Trump says he’ll tell Putin to end Ukraine invasion, vows Zelensky will be in ‘next meeting’",
-    "link": "https://nypost.com/2025/08/11/world-news/trump-says-hell-tell-putin-to-end-ukraine-invasion-vows-zelensky-will-be-in-next-meeting/"
   },
   {
     "score": 50,
@@ -49,7 +42,7 @@
     "link": "https://www.nytimes.com/2025/08/11/world/americas/miguel-uribe-turbay-dead-colombia-assassination.html"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2025-08-10-20-08-00 +0000",
     "source": "wsj",
     "headline": "Israel’s New War Plan Includes Fighting in Gaza’s Central Refugee Camps",
@@ -63,7 +56,14 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-considers-longtime-critic-to-lead-bureau-of-labor-statistics-5aea02ed"
   },
   {
-    "score": 40,
+    "score": 43,
+    "pubdate": "2025-08-11-16-09-47 +0000",
+    "source": "nypost",
+    "headline": "Trump says he’ll tell Putin to end Ukraine invasion, vows Zelensky will be in ‘next meeting’",
+    "link": "https://nypost.com/2025/08/11/world-news/trump-says-hell-tell-putin-to-end-ukraine-invasion-vows-zelensky-will-be-in-next-meeting/"
+  },
+  {
+    "score": 39,
     "pubdate": "2025-08-11-08-52-43 +0000",
     "source": "wapo",
     "headline": "Here are countries that recognize a Palestinian state — or may do so soon",
