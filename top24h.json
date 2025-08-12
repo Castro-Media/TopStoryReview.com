@@ -1,72 +1,72 @@
 [
   {
-    "score": 255,
+    "score": 250,
     "pubdate": "2025-08-12-01-47-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
     "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
   },
   {
-    "score": 87,
+    "score": 85,
+    "pubdate": "2025-08-12-11-49-16 +0000",
+    "source": "bbc",
+    "headline": "Who were the Al Jazeera journalists killed by Israel in Gaza?",
+    "link": "https://www.bbc.com/news/articles/c6200wnez73o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 85,
     "pubdate": "2025-08-11-19-43-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 79,
-    "pubdate": "2025-08-11-21-33-29 +0000",
-    "source": "nyt",
-    "headline": "Israel-Qatar Tensions Escalate After Israel Kills Al Jazeera Journalists",
-    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/israel-qatar-al-jazeera-killings.html"
-  },
-  {
-    "score": 73,
-    "pubdate": "2025-08-11-14-55-18 +0000",
-    "source": "bbc",
-    "headline": "Colombian Senator Miguel Uribe dies two months after being shot",
-    "link": "https://www.bbc.com/news/articles/c78mmj97ygmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 65,
+    "score": 69,
     "pubdate": "2025-08-11-16-09-47 +0000",
     "source": "nypost",
     "headline": "Trump says he’ll tell Putin to end Ukraine invasion, vows Zelensky will be in ‘next meeting’",
     "link": "https://nypost.com/2025/08/11/world-news/trump-says-hell-tell-putin-to-end-ukraine-invasion-vows-zelensky-will-be-in-next-meeting/"
   },
   {
-    "score": 57,
+    "score": 63,
     "pubdate": "2025-08-12-00-10-09 +0000",
     "source": "nypost",
     "headline": "ABC News anchor Kyra Phillips reveals she was ‘jumped’ by a ‘half-dressed’ vagrant in DC: ‘We’re all experiencing it firsthand’",
     "link": "https://nypost.com/2025/08/11/us-news/abc-news-anchor-reveals-she-was-jumped-by-a-half-dressed-homeless-man-in-downtown-dc-co-workers-car-stolen-the-morning-trump-federalized-local-police-were-all-experiencing-it-firsthand/"
   },
   {
-    "score": 54,
+    "score": 59,
     "pubdate": "2025-08-11-22-47-07 +0000",
     "source": "nyt",
     "headline": "New York’s Democratic Governor Called in the Troops Last Year to Fight Subway Crime",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/hochul-national-guard-nyc-subway.html"
   },
   {
-    "score": 52,
+    "score": 57,
     "pubdate": "2025-08-11-21-56-35 +0000",
     "source": "nyt",
     "headline": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-08-11-19-33-26 +0000",
+    "score": 54,
+    "pubdate": "2025-08-12-12-00-00 +0000",
     "source": "nypost",
-    "headline": "Trump extends China tariff deadline for 90 days just hours before truce was set to expire",
-    "link": "https://nypost.com/2025/08/11/world-news/trump-extends-china-tariff-deadline-for-90-days-official/"
+    "headline": "Ex-NYPD cop claims Bill de Blasio ‘didn’t like police officers,’ unloads on mayor’s ex-wife in tell-all memoir",
+    "link": "https://nypost.com/2025/08/12/us-news/ex-nypd-cop-claims-bill-de-blasio-didnt-like-police-officers-unloads-on-mayors-ex-wife-in-tell-all-memoir/"
   },
   {
-    "score": 43,
-    "pubdate": "2025-08-12-00-04-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump plans to nominate E.J. Antoni, chief economist at the Heritage Foundation, to lead the Bureau of Labor Statistics",
-    "link": "https://www.wsj.com/politics/policy/trump-to-nominate-longtime-critic-to-lead-bureau-of-labor-statistics-190e7252"
+    "score": 52,
+    "pubdate": "2025-08-11-14-55-18 +0000",
+    "source": "bbc",
+    "headline": "Colombian Senator Miguel Uribe dies two months after being shot",
+    "link": "https://www.bbc.com/news/articles/c78mmj97ygmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-12-11-26-24 +0000",
+    "source": "nyt",
+    "headline": "Russia Makes a Swift Battlefield Advance, Seeking an Edge in Trump Talks",
+    "link": "https://www.nytimes.com/2025/08/12/world/europe/russia-ukraine-battlefield-pokrovsk-trump.html"
   }
 ]
