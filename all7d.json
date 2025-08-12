@@ -1,6 +1,186 @@
 [
   {
-    "headline": "What we learned from Nicola Sturgeon's memoir",
+    "headline": "Christophe de Menil, Art Patron and Designer, Is Dead at 92",
+    "link": "https://www.nytimes.com/2025/08/11/arts/christophe-de-menil-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-04-01-23 +0000"
+  },
+  {
+    "headline": "Foreign Recruits in Ukraine Military Are Killed in Russian Missile Strike",
+    "link": "https://www.nytimes.com/2025/08/12/world/europe/foreign-soldiers-ukraine-russia-missile-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-04-01-04 +0000"
+  },
+  {
+    "headline": "Trial begins in Utah for Nicholas Rossi, man accused of faking his death and living under alias in UK to avoid rape charges",
+    "link": "https://nypost.com/2025/08/11/us-news/trial-begins-in-utah-for-nicholas-rossi-man-accused-of-faking-his-death-to-avoid-rape-charges/",
+    "source": "nypost",
+    "pubdate": "2025-08-12-03-57-11 +0000"
+  },
+  {
+    "headline": "Singapore Dollar Strengthens Slightly on Possible Position Adjustments",
+    "link": "https://www.wsj.com/finance/currencies/yen-mostly-weakens-after-u-s-extends-chinas-trade-deal-deadline-a59594dc",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-38-00 +0000"
+  },
+  {
+    "headline": "China tariffs delayed again, hours before sharp increase was to take hold",
+    "link": "https://www.washingtonpost.com/business/2025/08/11/china-tariffs-delayed-again/",
+    "source": "wapo",
+    "pubdate": "2025-08-12-03-35-40 +0000"
+  },
+  {
+    "headline": "L.A. police reserve officer took part in home invasion, kidnapped man for ransom, prosecutors say",
+    "link": "https://www.latimes.com/california/story/2025-08-11/former-police-officer-kidnap-for-ransom-charges",
+    "source": "latimes",
+    "pubdate": "2025-08-12-03-33-07 +0000"
+  },
+  {
+    "headline": "Albert Lea City Council stands firm against The Smoking Tree, approves two other cannabis dispensaries",
+    "link": "https://www.startribune.com/albert-lea-city-council-stands-firm-against-the-smoking-tree-approves-two-other-cannabis-dispensaries/601453094",
+    "source": "startribune",
+    "pubdate": "2025-08-12-03-26-20 +0000"
+  },
+  {
+    "headline": "A Haven for English in the Most French of North American Cities",
+    "link": "https://www.nytimes.com/2025/08/11/world/canada/quebec-city-morrin-centre.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-03-19-48 +0000"
+  },
+  {
+    "headline": "A Haven for English in the Most French of North American Cities",
+    "link": "https://www.nytimes.com/2025/08/11/world/canada/quebec-city-morrin-centre.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-03-19-48 +0000"
+  },
+  {
+    "headline": "Stock Market News, Aug. 11, 2025: Trump Extends China Deadline, Says No Gold Tariff",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-15-00 +0000"
+  },
+  {
+    "headline": "Reusse: It’s a shame the Tommies-Johnnies rivalry has ended",
+    "link": "https://www.startribune.com/reusse-st-thomas-st-johns-football-rivalry/601448664",
+    "source": "startribune",
+    "pubdate": "2025-08-12-03-11-28 +0000"
+  },
+  {
+    "headline": "U.S. Steel Plant Explosion Kills Two People, Injures 10",
+    "link": "https://www.wsj.com/business/pennsylvania-us-steel-explosion-clairton-718195a5",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-03-00 +0000"
+  },
+  {
+    "headline": "U.S. Steel Plant Explosion Kills Two People, Injures 10",
+    "link": "https://www.wsj.com/business/pennsylvania-us-steel-explosion-clairton-718195a5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-03-00 +0000"
+  },
+  {
+    "headline": "Refugees in Africa Fight Over Food as U.S. Aid Cuts Take Hold",
+    "link": "https://www.wsj.com/world/africa/refugees-in-africa-fight-over-food-as-u-s-aid-cuts-take-hold-bfccae49",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-00-00 +0000"
+  },
+  {
+    "headline": "China Creates World’s No. 1 Shipbuilder, Driven by Rivalry With U.S.",
+    "link": "https://www.wsj.com/world/china/china-shipbuilding-company-trump-rivalry-17eb6265",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-00-00 +0000"
+  },
+  {
+    "headline": "Russia Has High Hopes for Trump-Putin Summit. Peace Isn’t One of Them.",
+    "link": "https://www.wsj.com/world/russia/trump-putin-meeting-russia-goals-327d4d4c",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-00-00 +0000"
+  },
+  {
+    "headline": "China Creates World’s No. 1 Shipbuilder, Driven by Rivalry With U.S.",
+    "link": "https://www.wsj.com/world/china/china-shipbuilding-company-trump-rivalry-17eb6265?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-12-03-00-00 +0000"
+  },
+  {
+    "headline": "2 Killed in Explosion at U.S. Steel Plant in Pennsylvania",
+    "link": "https://www.nytimes.com/2025/08/11/us/us-steel-explosion-pennsylvania.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-54-49 +0000"
+  },
+  {
+    "headline": "Worst bleaching on record for Western Australian coral reefs",
+    "link": "https://www.bbc.com/news/articles/cq877llq099o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-02-52-23 +0000"
+  },
+  {
+    "headline": "AOL Will End Its Dial-Up Internet Service (Yes, It’s Still Operating)",
+    "link": "https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-50-09 +0000"
+  },
+  {
+    "headline": "US and China extend trade truce deadline to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-02-42-37 +0000"
+  },
+  {
+    "headline": "US and China extend trade truce deadline to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-02-42-37 +0000"
+  },
+  {
+    "headline": "US and China extend trade truce deadline to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-02-42-37 +0000"
+  },
+  {
+    "headline": "US and China extend trade truce deadline to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-02-42-37 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce by Three Months",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-41-01 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce by Three Months",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-41-01 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce by Three Months",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-41-01 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce by Three Months",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-41-01 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce by Three Months",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-41-01 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce by Three Months",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-41-01 +0000"
+  },
+  {
+    "headline": "What we learnt from Nicola Sturgeon's memoir",
     "link": "https://www.bbc.com/news/articles/cn844n379y5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-12-02-23-43 +0000"
@@ -48,6 +228,12 @@
     "pubdate": "2025-08-12-02-02-45 +0000"
   },
   {
+    "headline": "WATCH | Paramount+ brings UFC to streaming, nabs a growing audience",
+    "link": "https://www.cbc.ca/player/play/9.6863464?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-12-02-02-08 +0000"
+  },
+  {
     "headline": "2 dead in explosion at U.S. Steel plant in Pennsylvania",
     "link": "https://www.washingtonpost.com/nation/2025/08/11/us-steel-explosion-clairton-coke-works-pittsburgh-pennsylvania/",
     "source": "wapo",
@@ -66,7 +252,7 @@
     "pubdate": "2025-08-12-01-55-27 +0000"
   },
   {
-    "headline": "Nepal makes 97 mountains free to climb as Everest fees rise",
+    "headline": "Nepal offers free climbs to 97 peaks as tourism to Everest surges",
     "link": "https://www.bbc.com/news/articles/c0j99xxd1z1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-12-01-55-25 +0000"
@@ -132,76 +318,10 @@
     "pubdate": "2025-08-12-01-29-17 +0000"
   },
   {
-    "headline": "2 Killed in Explosion at U.S. Steel Plant in Pennsylvania",
-    "link": "https://www.nytimes.com/2025/08/11/us/us-steel-explosion-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-01-24-58 +0000"
-  },
-  {
-    "headline": "US and China extend tariff truce deadline to November",
-    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-01-23-08 +0000"
-  },
-  {
-    "headline": "US and China extend tariff truce deadline to November",
-    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-01-23-08 +0000"
-  },
-  {
-    "headline": "US and China extend tariff truce deadline to November",
-    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-01-23-08 +0000"
-  },
-  {
-    "headline": "US and China extend tariff truce deadline to November",
-    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-01-23-08 +0000"
-  },
-  {
     "headline": "St. Paul doesn’t pay ransom for cyberattack",
     "link": "https://www.startribune.com/st-paul-doesnt-pay-ransom-for-cyberattack/601453344",
     "source": "startribune",
     "pubdate": "2025-08-12-01-21-08 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-01-19-18 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-01-19-18 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-01-19-18 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-01-19-18 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-01-19-18 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-01-19-18 +0000"
   },
   {
     "headline": "3 Dead, 1 Injured After Target Shooting in Austin, Texas",
@@ -330,12 +450,6 @@
     "pubdate": "2025-08-12-00-30-23 +0000"
   },
   {
-    "headline": "Christophe de Menil, Art Patron and Designer, Is Dead at 92",
-    "link": "https://www.nytimes.com/2025/08/11/arts/christophe-de-menil-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-23-35 +0000"
-  },
-  {
     "headline": "SoCal toddler found wandering barefoot on railroad tracks; parents arrested",
     "link": "https://www.latimes.com/california/story/2025-08-11/toddler-found-wandering-barefoot-on-railroad-tracks-in-needles-parents-arrested",
     "source": "latimes",
@@ -346,12 +460,6 @@
     "link": "https://nypost.com/2025/08/11/us-news/mother-allegedly-dumped-strangled-body-of-her-1-year-old-baby-in-hearse-at-funeral-home-cops/",
     "source": "nypost",
     "pubdate": "2025-08-12-00-12-32 +0000"
-  },
-  {
-    "headline": "China tariffs delayed again, hours before sharp increase was to take hold",
-    "link": "https://www.washingtonpost.com/business/2025/08/11/china-tariffs-delayed-again/",
-    "source": "wapo",
-    "pubdate": "2025-08-12-00-10-40 +0000"
   },
   {
     "headline": "ABC News anchor Kyra Phillips reveals she was ‘jumped’ by a ‘half-dressed’ vagrant in DC: ‘We’re all experiencing it firsthand’",
@@ -540,18 +648,6 @@
     "pubdate": "2025-08-11-23-01-09 +0000"
   },
   {
-    "headline": "A Haven for English in the Most French of North American Cities",
-    "link": "https://www.nytimes.com/2025/08/11/world/canada/quebec-city-morrin-centre.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-22-59-39 +0000"
-  },
-  {
-    "headline": "A Haven for English in the Most French of North American Cities",
-    "link": "https://www.nytimes.com/2025/08/11/world/canada/quebec-city-morrin-centre.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-22-59-39 +0000"
-  },
-  {
     "headline": "District residents say they feel safe, but occasionally unnerved.",
     "link": "https://www.nytimes.com/live/2025/08/11/us/trump-news/district-residents-say-they-feel-safe-but-occasionally-unnerved",
     "source": "nyt",
@@ -702,12 +798,6 @@
     "pubdate": "2025-08-11-22-23-22 +0000"
   },
   {
-    "headline": "Animal-rights activists get aggressive — targeting Vogue editors at their homes and calling them ‘killers’ over fur coverage",
-    "link": "https://nypost.com/2025/08/11/us-news/animal-rights-activists-target-vogue-editors-at-their-homes/",
-    "source": "nypost",
-    "pubdate": "2025-08-11-22-22-59 +0000"
-  },
-  {
     "headline": "Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza?",
     "link": "https://www.nytimes.com/2025/08/11/world/middleeast/al-jazeera-journalists-bios.html",
     "source": "nyt",
@@ -742,18 +832,6 @@
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-gop-policy-bill-rich-poor.html",
     "source": "nyt",
     "pubdate": "2025-08-11-22-17-59 +0000"
-  },
-  {
-    "headline": "U.S. Steel Plant Explosion Kills at Least One Person, Injures 10",
-    "link": "https://www.wsj.com/business/pennsylvania-us-steel-explosion-clairton-718195a5",
-    "source": "wsj",
-    "pubdate": "2025-08-11-22-15-00 +0000"
-  },
-  {
-    "headline": "U.S. Steel Plant Explosion Kills at Least One Person, Injures 10",
-    "link": "https://www.wsj.com/business/pennsylvania-us-steel-explosion-clairton-718195a5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-11-22-15-00 +0000"
   },
   {
     "headline": "Tuesday Briefing: Trump’s Washington Crackdown",
@@ -948,22 +1026,10 @@
     "pubdate": "2025-08-11-21-15-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Trump Extends China Deadline, Says No Gold Tariff",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2025?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-11-21-11-00 +0000"
-  },
-  {
     "headline": "Stocks Slip Despite China Tariff Extension",
     "link": "https://www.wsj.com/finance/stocks/stocks-slip-despite-china-tariff-extension-36b26d68?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-08-11-20-59-00 +0000"
-  },
-  {
-    "headline": "Tight end evolution makes Gophers offense more dangerous",
-    "link": "https://www.startribune.com/minnesota-gophers-football-offense-tight-ends/601451546",
-    "source": "startribune",
-    "pubdate": "2025-08-11-20-58-59 +0000"
   },
   {
     "headline": "Brazil Clamped Down on Big Tech. Trump’s Tariffs Could Change That.",
@@ -1320,12 +1386,6 @@
     "pubdate": "2025-08-11-18-19-05 +0000"
   },
   {
-    "headline": "AOL Will End Its Dial-Up Internet Service (Yes, It’s Still Operating)",
-    "link": "https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-18-16-09 +0000"
-  },
-  {
     "headline": "Israeli Strike Kills 5 Al Jazeera Journalists, Network Says",
     "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
     "source": "nyt",
@@ -1626,12 +1686,6 @@
     "pubdate": "2025-08-11-15-02-46 +0000"
   },
   {
-    "headline": "Trump to deploy National Guard in D.C. — even as data shows crime at 30-year low",
-    "link": "https://www.cbc.ca/news/world/trump-national-guard-washington-1.7605793?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-11-14-58-56 +0000"
-  },
-  {
     "headline": "Watch: Trump announces deployment of National Guard in Washington DC",
     "link": "https://www.bbc.com/news/videos/cj9ww4z39xko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1830,7 +1884,7 @@
     "pubdate": "2025-08-11-13-06-56 +0000"
   },
   {
-    "headline": "Parti Québécois projected to win byelection in Quebec's Arthabaska riding",
+    "headline": "Parti Québécois takes Quebec's Arthabaska riding in byelection win over Conservatives",
     "link": "https://www.cbc.ca/news/canada/montreal/arthabaska-byelection-1.7605676?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-11-13-03-56 +0000"
@@ -1960,12 +2014,6 @@
     "link": "https://nypost.com/2025/08/11/world-news/israel-kills-al-jazeera-journalists-in-attack-on-hamas-terrorist-cell/",
     "source": "nypost",
     "pubdate": "2025-08-11-11-30-30 +0000"
-  },
-  {
-    "headline": "Minnesota, feds play hot potato with hidden wall holding up St. Anthony Falls",
-    "link": "https://www.startribune.com/st-anthony-falls-cutoff-wall-study/601450469",
-    "source": "startribune",
-    "pubdate": "2025-08-11-11-30-00 +0000"
   },
   {
     "headline": "The Harvard-Trained Lawyer Behind Trump’s Fight Against Top Universities",
@@ -2316,14 +2364,14 @@
     "pubdate": "2025-08-11-04-00-01 +0000"
   },
   {
-    "headline": "The American Fighting to Pry His Company Back From the Kremlin’s Grasp",
-    "link": "https://www.wsj.com/world/russia/leonid-smirnov-russia-business-control-a36b7385",
+    "headline": "The Engineering Marvel That China Hopes Will Help Wean It Off Foreign Energy",
+    "link": "https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92",
     "source": "wsj",
     "pubdate": "2025-08-11-03-00-00 +0000"
   },
   {
-    "headline": "The Engineering Marvel That China Hopes Will Help Wean It Off Foreign Energy",
-    "link": "https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92",
+    "headline": "The American Fighting to Pry His Company Back From the Kremlin’s Grasp",
+    "link": "https://www.wsj.com/world/russia/leonid-smirnov-russia-business-control-a36b7385",
     "source": "wsj",
     "pubdate": "2025-08-11-03-00-00 +0000"
   },
@@ -2404,12 +2452,6 @@
     "link": "https://www.nytimes.com/2025/08/10/world/middleeast/smotrich-israel-gaza-takeover-netanyahu.html",
     "source": "nyt",
     "pubdate": "2025-08-11-01-04-58 +0000"
-  },
-  {
-    "headline": "News the jobs market was much weaker than previously thought upset President Trump. So he fired the head of the U.S. agency that collects the data. The economy hinges on what comes next.",
-    "link": "https://www.wsj.com/economy/jobs-inflation-trump-mcentarfer-3c601ac4",
-    "source": "wsj",
-    "pubdate": "2025-08-11-01-00-00 +0000"
   },
   {
     "headline": "Fire at AT&T facility in Gardena knocks out 911 service, causes cellphone, internet disruptions",
@@ -2540,12 +2582,6 @@
   {
     "headline": "Opinion | How Humanitarian Aid Feeds War Machines",
     "link": "https://www.wsj.com/opinion/how-humanitarian-aid-feeds-war-machines-support-hunger-suffering-44a85d94",
-    "source": "wsj",
-    "pubdate": "2025-08-10-20-57-00 +0000"
-  },
-  {
-    "headline": "Intel CEO Singled Out by Trump to Visit White House on Monday",
-    "link": "https://www.wsj.com/tech/intel-ceo-trump-white-house-visit-10e482af?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-10-20-57-00 +0000"
   },
@@ -2934,12 +2970,6 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Hollywood takes a wrecking ball to Los Angeles",
-    "link": "https://www.latimes.com/entertainment-arts/tv/story/2025-08-10/los-angeles-gets-its-closeup-and-its-a-disaster",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
     "headline": "Arellano: When the going gets tough for L.A., our city rallies like no other",
     "link": "https://www.latimes.com/california/story/2025-08-10/future-la-arellano-resilience-fires-raids",
     "source": "latimes",
@@ -2988,14 +3018,14 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "The unsung solution for our waste crisis: Reuse",
-    "link": "https://www.latimes.com/science/story/2025-08-10/most-paper-cups-cant-be-recycled-one-company-is-trying-to-fix-that",
+    "headline": "Will we ever get enough housing? The future holds promise",
+    "link": "https://www.latimes.com/california/story/2025-08-10/home-2050",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Will we ever get enough housing? The future holds promise",
-    "link": "https://www.latimes.com/california/story/2025-08-10/home-2050",
+    "headline": "The unsung solution for our waste crisis: Reuse",
+    "link": "https://www.latimes.com/science/story/2025-08-10/most-paper-cups-cant-be-recycled-one-company-is-trying-to-fix-that",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -3018,8 +3048,14 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: These nonfiction writers looked for the future of L.A. Did they find it?",
-    "link": "https://www.latimes.com/california/story/2025-08-10/these-nonfiction-writers-looked-for-the-future-of-l-a-did-they-find-it",
+    "headline": "Texas, Florida hit with far more ICE arrests than California. But that's not the whole story",
+    "link": "https://www.latimes.com/california/story/2025-08-10/california-was-center-stage-in-ice-raids-but-texas-and-florida-each-saw-more-immigration-arrests",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
+    "headline": "Hollywood takes a wrecking ball to Los Angeles",
+    "link": "https://www.latimes.com/entertainment-arts/tv/story/2025-08-10/los-angeles-gets-its-closeup-and-its-a-disaster",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -3030,8 +3066,8 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: From Wild West days to 2025, he safeguards L.A County Sheriff's Department history",
-    "link": "https://www.latimes.com/california/story/2025-08-10/mike-fratantoni-lasd-historian",
+    "headline": "Hiltzik: These nonfiction writers looked for the future of L.A. Did they find it?",
+    "link": "https://www.latimes.com/california/story/2025-08-10/these-nonfiction-writers-looked-for-the-future-of-l-a-did-they-find-it",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -3042,20 +3078,8 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: #Strong is a recovery scam. California's future demands something more",
-    "link": "https://www.latimes.com/california/story/2025-08-10/chabria-strong-fire-recovery",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
-    "headline": "A new gold rush? How AI is transforming San Francisco",
-    "link": "https://www.latimes.com/business/story/2025-08-10/how-ai-is-changing-sf",
-    "source": "latimes",
-    "pubdate": "2025-08-10-10-00-00 +0000"
-  },
-  {
-    "headline": "Texas, Florida hit with far more ICE arrests than California. But that's not the whole story",
-    "link": "https://www.latimes.com/california/story/2025-08-10/california-was-center-stage-in-ice-raids-but-texas-and-florida-each-saw-more-immigration-arrests",
+    "headline": "Arellano: From Wild West days to 2025, he safeguards L.A County Sheriff's Department history",
+    "link": "https://www.latimes.com/california/story/2025-08-10/mike-fratantoni-lasd-historian",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -3066,8 +3090,20 @@
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
   {
+    "headline": "Chabria: #Strong is a recovery scam. California's future demands something more",
+    "link": "https://www.latimes.com/california/story/2025-08-10/chabria-strong-fire-recovery",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
     "headline": "California's wildfire moonshot: How new technology will defeat advancing flames",
     "link": "https://www.latimes.com/environment/story/2025-08-10/californias-wildfire-moonshot-how-new-technology-will-defeat-advancing-flames",
+    "source": "latimes",
+    "pubdate": "2025-08-10-10-00-00 +0000"
+  },
+  {
+    "headline": "A new gold rush? How AI is transforming San Francisco",
+    "link": "https://www.latimes.com/business/story/2025-08-10/how-ai-is-changing-sf",
     "source": "latimes",
     "pubdate": "2025-08-10-10-00-00 +0000"
   },
@@ -3110,6 +3146,12 @@
   {
     "headline": "Billions Flow to New Hedge Funds Focused on AI-Related Bets",
     "link": "https://www.wsj.com/finance/investing/billions-flow-to-new-hedge-funds-focused-on-ai-related-bets-48d97f41?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-08-10-09-30-00 +0000"
+  },
+  {
+    "headline": "How Warby Parker Has Kept the Price of Glasses at $95 for 15 Years",
+    "link": "https://www.wsj.com/business/retail/warby-parker-95-glasses-f7a6ceed?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-10-09-30-00 +0000"
   },
@@ -3196,12 +3238,6 @@
     "link": "https://www.bbc.com/news/articles/c0e9py7e28xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-10-07-27-28 +0000"
-  },
-  {
-    "headline": "A Sidelined Europe Seeks a Voice as Trump and Putin Prepare to Meet",
-    "link": "https://www.nytimes.com/2025/08/09/world/europe/europe-ukraine-russia-us.html",
-    "source": "nyt",
-    "pubdate": "2025-08-10-07-02-03 +0000"
   },
   {
     "headline": "A Sidelined Europe Seeks a Voice as Trump and Putin Prepare to Meet",
@@ -3564,12 +3600,6 @@
     "pubdate": "2025-08-09-12-55-24 +0000"
   },
   {
-    "headline": "North Korea dismantles propaganda speakers at border",
-    "link": "https://www.bbc.com/news/articles/cm2klzxldl6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-09-12-34-26 +0000"
-  },
-  {
     "headline": "Private Equity in Your 401(k). What Could Go Wrong?",
     "link": "https://www.nytimes.com/2025/08/09/business/dealbook/401k-private-equity.html",
     "source": "nyt",
@@ -3630,14 +3660,14 @@
     "pubdate": "2025-08-09-10-00-13 +0000"
   },
   {
-    "headline": "Granderson: Vance is right to call out warped partisan representation",
-    "link": "https://www.latimes.com/opinion/story/2025-08-09/la-oe-granderson-illinois",
+    "headline": "Lopez: 'Silence is violence': Teachers, retirees, first-time activists stand up to immigration raids",
+    "link": "https://www.latimes.com/california/story/2025-08-09/teachers-retirees-first-time-activists-standing-up-to-immigrationraids-because-silence-is-violence",
     "source": "latimes",
     "pubdate": "2025-08-09-10-00-00 +0000"
   },
   {
-    "headline": "Lopez: 'Silence is violence': Teachers, retirees, first-time activists stand up to immigration raids",
-    "link": "https://www.latimes.com/california/story/2025-08-09/teachers-retirees-first-time-activists-standing-up-to-immigrationraids-because-silence-is-violence",
+    "headline": "Granderson: Vance is right to call out warped partisan representation",
+    "link": "https://www.latimes.com/opinion/story/2025-08-09/la-oe-granderson-illinois",
     "source": "latimes",
     "pubdate": "2025-08-09-10-00-00 +0000"
   },
@@ -3898,12 +3928,6 @@
     "link": "https://www.nytimes.com/2025/08/08/business/trump-intel-ceo-ohio.html",
     "source": "nyt",
     "pubdate": "2025-08-09-02-51-16 +0000"
-  },
-  {
-    "headline": "Oreos Combined With Reese’s? Inside the Manhattan Project of Snacks.",
-    "link": "https://www.wsj.com/arts-culture/food-cooking/oreos-inside-reeses-reeses-inside-oreos-its-the-manhattan-project-of-snacks-a1f71e65?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-09-02-00-00 +0000"
   },
   {
     "headline": "William H. Webster, a former FBI and CIA chief who helped restore confidence in both agencies after scandals of the ’70s and ’80s, has died at the age of 101",
@@ -4632,6 +4656,18 @@
     "pubdate": "2025-08-08-10-34-00 +0000"
   },
   {
+    "headline": "At Mono Lake, visitors witness the stark toll of L.A.'s water use",
+    "link": "https://www.latimes.com/environment/story/2025-08-08/mono-lake-tour",
+    "source": "latimes",
+    "pubdate": "2025-08-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Someone keeps stealing, flying, fixing and returning this California man's plane. But why?",
+    "link": "https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief",
+    "source": "latimes",
+    "pubdate": "2025-08-08-10-00-00 +0000"
+  },
+  {
     "headline": "'They run, we chase': Immigration raids test limits of 'probable cause'",
     "link": "https://www.latimes.com/california/story/2025-08-08/they-run-we-chase-agents-employ-aggressive-and-some-say-illegal-tactics-on-l-a-streets",
     "source": "latimes",
@@ -4650,26 +4686,14 @@
     "pubdate": "2025-08-08-10-00-00 +0000"
   },
   {
-    "headline": "At Mono Lake, visitors witness the stark toll of L.A.'s water use",
-    "link": "https://www.latimes.com/environment/story/2025-08-08/mono-lake-tour",
-    "source": "latimes",
-    "pubdate": "2025-08-08-10-00-00 +0000"
-  },
-  {
-    "headline": "Someone keeps stealing, flying, fixing and returning this California man's plane. But why?",
-    "link": "https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief",
+    "headline": "Law firm in L.A. homelessness case bills the city $1.8 million for two weeks' work",
+    "link": "https://www.latimes.com/california/story/2025-08-08/law-firm-hired-by-the-city-in-homelessness-case-bills-1-8-million",
     "source": "latimes",
     "pubdate": "2025-08-08-10-00-00 +0000"
   },
   {
     "headline": "Commentary: Cole's, Clifton's, and the Jail Cafe — a requiem for Los Angeles' lost restaurants",
     "link": "https://www.latimes.com/california/story/2025-08-08/another-historic-la-eatery-closes-its-doors-heres-are-the-most-memorable-restaurants-weve-lost",
-    "source": "latimes",
-    "pubdate": "2025-08-08-10-00-00 +0000"
-  },
-  {
-    "headline": "Law firm in L.A. homelessness case bills the city $1.8 million for two weeks' work",
-    "link": "https://www.latimes.com/california/story/2025-08-08/law-firm-hired-by-the-city-in-homelessness-case-bills-1-8-million",
     "source": "latimes",
     "pubdate": "2025-08-08-10-00-00 +0000"
   },
@@ -5274,12 +5298,6 @@
     "pubdate": "2025-08-07-15-25-38 +0000"
   },
   {
-    "headline": "Putin Says Meeting With Trump Could Be Held in U.A.E.",
-    "link": "https://www.wsj.com/world/russia/russia-confirms-putin-and-trump-will-meet-in-coming-days-b1580381",
-    "source": "wsj",
-    "pubdate": "2025-08-07-15-16-00 +0000"
-  },
-  {
     "headline": "Ukraine in maps: Tracking the war with Russia",
     "link": "https://www.bbc.com/news/articles/c0l0k4389g2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5406,26 +5424,20 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "Lopez: My bathroom scale is rigged, and so are my book sales. Lawsuits and pink slips to follow",
-    "link": "https://www.latimes.com/california/story/2025-08-07/my-bathroom-scale-is-rigged-and-so-is-a-lot-of-other-stuff-but-im-here-to-set-the-record-straight",
-    "source": "latimes",
-    "pubdate": "2025-08-07-10-00-00 +0000"
-  },
-  {
     "headline": "A proposed California bill aims to protect coverage for HIV prevention despite federal threats",
     "link": "https://www.latimes.com/science/story/2025-08-07/california-bill-to-keep-hiv-prevention-drugs-low-cost-and-easy-to-get-despite-federal-threats",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "No charges for L.A. County deputy who shot man in back as he lay on pavement",
-    "link": "https://www.latimes.com/california/story/2025-08-07/los-angeles-county-deputy-adrian-abelar-shooting",
+    "headline": "Lopez: My bathroom scale is rigged, and so are my book sales. Lawsuits and pink slips to follow",
+    "link": "https://www.latimes.com/california/story/2025-08-07/my-bathroom-scale-is-rigged-and-so-is-a-lot-of-other-stuff-but-im-here-to-set-the-record-straight",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "L.A. County unlikely to fight probation takeover — as long as receiver battles problem staffers",
-    "link": "https://www.latimes.com/california/story/2025-08-07/l-a-county-wont-fight-a-g-rob-bonta-over-probation-takeover-as-long-as-he-fights-the-unions",
+    "headline": "Insurer of last resort faces questions over smoke damage claims",
+    "link": "https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
@@ -5436,8 +5448,14 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "Insurer of last resort faces questions over smoke damage claims",
-    "link": "https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara",
+    "headline": "L.A. County unlikely to fight probation takeover — as long as receiver battles problem staffers",
+    "link": "https://www.latimes.com/california/story/2025-08-07/l-a-county-wont-fight-a-g-rob-bonta-over-probation-takeover-as-long-as-he-fights-the-unions",
+    "source": "latimes",
+    "pubdate": "2025-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "No charges for L.A. County deputy who shot man in back as he lay on pavement",
+    "link": "https://www.latimes.com/california/story/2025-08-07/los-angeles-county-deputy-adrian-abelar-shooting",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
@@ -5454,20 +5472,14 @@
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
-    "headline": "Plummeting ICE arrests in L.A. raise questions about Trump's immigration agenda",
-    "link": "https://www.latimes.com/world-nation/story/2025-08-07/federal-arrests-of-undocumented-immigrants-in-l-a-drop-in-july-dhs-says",
+    "headline": "Hiltzik: Terry Gilliam's 1985 masterpiece \"Brazil\" foretold our drift toward fascism",
+    "link": "https://www.latimes.com/business/story/2025-08-07/terry-gilliams-1985-masterpiece-brazil-foretold-our-drift-toward-fascism",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
   {
     "headline": "Insurer of last resort faces questions over smoke damage claims",
     "link": "https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara",
-    "source": "latimes",
-    "pubdate": "2025-08-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: Terry Gilliam's 1985 masterpiece \"Brazil\" foretold our drift toward fascism",
-    "link": "https://www.latimes.com/business/story/2025-08-07/terry-gilliams-1985-masterpiece-brazil-foretold-our-drift-toward-fascism",
     "source": "latimes",
     "pubdate": "2025-08-07-10-00-00 +0000"
   },
@@ -6066,14 +6078,14 @@
     "pubdate": "2025-08-05-11-52-54 +0000"
   },
   {
-    "headline": "South Korea dismantles its propaganda loudspeakers on the border with North Korea",
-    "link": "https://www.latimes.com/world-nation/story/2025-08-05/south-korea-dismantles-its-propaganda-loudspeakers-for-now",
+    "headline": "Chabria: California has sued Trump 37 times. Here's what's at stake.",
+    "link": "https://www.latimes.com/california/story/2025-08-05/chabria-column-bonta-trump-lawsuits-protecting-the-california-dream",
     "source": "latimes",
     "pubdate": "2025-08-05-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: California has sued Trump 37 times. Here's what's at stake.",
-    "link": "https://www.latimes.com/california/story/2025-08-05/chabria-column-bonta-trump-lawsuits-protecting-the-california-dream",
+    "headline": "South Korea dismantles its propaganda loudspeakers on the border with North Korea",
+    "link": "https://www.latimes.com/world-nation/story/2025-08-05/south-korea-dismantles-its-propaganda-loudspeakers-for-now",
     "source": "latimes",
     "pubdate": "2025-08-05-10-00-00 +0000"
   },
