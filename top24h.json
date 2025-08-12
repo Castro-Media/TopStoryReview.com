@@ -1,17 +1,10 @@
 [
   {
-    "score": 227,
+    "score": 216,
     "pubdate": "2025-08-12-01-47-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
     "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
-  },
-  {
-    "score": 89,
-    "pubdate": "2025-08-11-19-43-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
-    "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
     "score": 71,
@@ -21,52 +14,59 @@
     "link": "https://www.bbc.com/news/articles/c6200wnez73o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
-    "pubdate": "2025-08-11-21-25-43 +0000",
+    "score": 70,
+    "pubdate": "2025-08-12-11-50-47 +0000",
     "source": "bbc",
-    "headline": "Trump says he will try to get back territory for Ukraine in talks with Putin",
-    "link": "https://www.bbc.com/news/articles/c0e99yqv332o?at_medium=RSS&at_campaign=rss"
+    "headline": "US and China extend trade truce to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
+    "score": 59,
+    "pubdate": "2025-08-12-17-51-57 +0000",
+    "source": "nyt",
+    "headline": "New Delhi Is Ordered to Round Up Hundreds of Thousands of Stray Dogs",
+    "link": "https://www.nytimes.com/2025/08/12/world/asia/india-court-delhi-stray-dogs.html"
+  },
+  {
+    "score": 59,
     "pubdate": "2025-08-12-12-00-00 +0000",
     "source": "nypost",
     "headline": "Ex-NYPD cop claims Bill de Blasio ‘didn’t like police officers,’ unloads on mayor’s ex-wife in tell-all memoir",
     "link": "https://nypost.com/2025/08/12/us-news/ex-nypd-cop-claims-bill-de-blasio-didnt-like-police-officers-unloads-on-mayors-ex-wife-in-tell-all-memoir/"
   },
   {
-    "score": 55,
-    "pubdate": "2025-08-12-18-53-31 +0000",
-    "source": "nyt",
-    "headline": "New York’s Democratic Governor Called in the Troops Last Year to Fight Subway Crime",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/hochul-national-guard-nyc-subway.html"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-08-12-18-29-04 +0000",
-    "source": "nypost",
-    "headline": "Trump blasts Goldman Sachs CEO David Solomon over bank’s tariffs warning: ‘Focus on being a DJ’",
-    "link": "https://nypost.com/2025/08/12/business/trump-blasts-goldman-sachs-ceo-david-solomon-over-banks-tariffs-warning/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-08-12-17-47-14 +0000",
+    "score": 56,
+    "pubdate": "2025-08-11-21-25-43 +0000",
     "source": "bbc",
-    "headline": "Trump's pick to lead economic data agency floats ending monthly jobs report",
-    "link": "https://www.bbc.com/news/articles/czerwl2xee4o?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump says he will try to get back territory for Ukraine in talks with Putin",
+    "link": "https://www.bbc.com/news/articles/c0e99yqv332o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2025-08-12-17-03-10 +0000",
     "source": "nypost",
     "headline": "DC police chief pledges to support Trump takeover — after 850 feds flood streets on first night",
     "link": "https://nypost.com/2025/08/12/us-news/dc-police-chief-mayor-pledge-support-to-trump-takeover-we-are-here-to-work-together/"
   },
   {
-    "score": 46,
-    "pubdate": "2025-08-11-19-33-26 +0000",
+    "score": 47,
+    "pubdate": "2025-08-12-17-47-14 +0000",
+    "source": "bbc",
+    "headline": "Trump's pick to lead economic data agency floats ending monthly jobs report",
+    "link": "https://www.bbc.com/news/articles/czerwl2xee4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-12-17-33-00 +0000",
+    "source": "wsj",
+    "headline": "Crypto Entrepreneur Do Kwon Pleads Guilty to Fraud Charges Stemming From Crypto Crash",
+    "link": "https://www.wsj.com/finance/currencies/crypto-entrepreneur-do-kwon-pleads-guilty-to-fraud-charges-stemming-from-crypto-crash-50c032fe?mod=rss_markets_main"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-12-10-35-02 +0000",
     "source": "nypost",
-    "headline": "Trump extends China tariff deadline for 90 days just hours before truce was set to expire",
-    "link": "https://nypost.com/2025/08/11/world-news/trump-extends-china-tariff-deadline-for-90-days-official/"
+    "headline": "JD Vance says Elon Musk should return to White House — but calls fight with Trump a ‘mistake’",
+    "link": "https://nypost.com/2025/08/12/us-news/jd-vance-says-elon-musk-should-return-to-white-house-but-calls-fight-with-trump-a-mistake/"
   }
 ]
