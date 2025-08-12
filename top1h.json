@@ -1,65 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-08-12-05-10-26 +0000",
+    "score": 28,
+    "pubdate": "2025-08-12-06-10-19 +0000",
     "source": "bbc",
-    "headline": "North Koreans tell BBC they are being sent to work 'like slaves' in Russia",
-    "link": "https://www.bbc.com/news/articles/c2077gwjlvxo?at_medium=RSS&at_campaign=rss"
+    "headline": "US and China extend trade truce to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2025-08-12-05-38-14 +0000",
-    "source": "nypost",
-    "headline": "NYC Midtown shooter Shane Tamura had 2 ‘unresolved’ background checks in Nevada prior to deadly rampage: report",
-    "link": "https://nypost.com/2025/08/12/us-news/nyc-midtown-shooter-shane-tamura-had-2-unresolved-background-checks-in-nevada-prior-to-deadly-rampage-report/"
+    "score": 16,
+    "pubdate": "2025-08-12-06-31-16 +0000",
+    "source": "nyt",
+    "headline": "Military officials testify in California’s suit against National Guard deployment.",
+    "link": "https://www.nytimes.com/live/2025/08/11/us/trump-news/trial-opens-in-californias-suit-against-national-guard-deployment"
   },
   {
-    "score": 9,
-    "pubdate": "2025-08-12-05-04-00 +0000",
+    "score": 12,
+    "pubdate": "2025-08-12-06-49-16 +0000",
+    "source": "bbc",
+    "headline": "UK job vacancies tumble across the board",
+    "link": "https://www.bbc.com/news/articles/cpdjjp681p7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-12-06-30-30 +0000",
+    "source": "bbc",
+    "headline": "Italian athlete dies after collapse at World Games",
+    "link": "https://www.bbc.com/sport/articles/c24zr5590nvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-08-12-06-44-00 +0000",
     "source": "wsj",
-    "headline": "Reserve Bank of Australia Cuts Rates and Points to Further Easing",
-    "link": "https://www.wsj.com/economy/central-banking/reserve-bank-of-australia-cuts-rates-and-points-to-further-easing-fd56e7fe"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-08-12-05-45-39 +0000",
-    "source": "bbc",
-    "headline": "Worst bleaching on record for Western Australian coral reefs",
-    "link": "https://www.bbc.com/news/articles/cq877llq099o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-08-12-05-20-41 +0000",
-    "source": "bbc",
-    "headline": "Free uniform pop-up 'godsend', mum says",
-    "link": "https://www.bbc.com/news/articles/c0kz3zlv6pjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-08-12-05-05-39 +0000",
-    "source": "bbc",
-    "headline": "Food bank support service at risk of closure",
-    "link": "https://www.bbc.com/news/articles/c1mppj4kpyeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-08-12-05-27-55 +0000",
-    "source": "bbc",
-    "headline": "What we learnt from Nicola Sturgeon's memoir",
-    "link": "https://www.bbc.com/news/articles/cn844n379y5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-08-12-04-58-41 +0000",
-    "source": "bbc",
-    "headline": "School uniform cost 'extortionate' say parents",
-    "link": "https://www.bbc.com/news/articles/cly63yx2w95o?at_medium=RSS&at_campaign=rss"
+    "headline": "U.K.’s Labor Market Continues to Loosen",
+    "link": "https://www.wsj.com/economy/u-k-s-labor-market-continues-to-loosen-3568d5db"
   },
   {
     "score": 0,
-    "pubdate": "2025-08-12-05-10-26 +0000",
+    "pubdate": "2025-08-12-06-49-16 +0000",
     "source": "bbc",
-    "headline": "North Koreans tell BBC they are being sent to work 'like slaves' in Russia",
-    "link": "https://www.bbc.com/news/articles/c2077gwjlvxo?at_medium=RSS&at_campaign=rss"
+    "headline": "UK job vacancies tumble across the board",
+    "link": "https://www.bbc.com/news/articles/cpdjjp681p7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-12-06-31-16 +0000",
+    "source": "nyt",
+    "headline": "Military officials testify in California’s suit against National Guard deployment.",
+    "link": "https://www.nytimes.com/live/2025/08/11/us/trump-news/trial-opens-in-californias-suit-against-national-guard-deployment"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-12-06-30-30 +0000",
+    "source": "bbc",
+    "headline": "Italian athlete dies after collapse at World Games",
+    "link": "https://www.bbc.com/sport/articles/c24zr5590nvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-12-06-10-19 +0000",
+    "source": "bbc",
+    "headline": "US and China extend trade truce to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-12-06-10-19 +0000",
+    "source": "bbc",
+    "headline": "US and China extend trade truce to avoid tariffs hike",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss"
   }
 ]
