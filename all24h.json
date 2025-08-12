@@ -1,21 +1,219 @@
 [
   {
+    "headline": "What we learned from Nicola Sturgeon's memoir",
+    "link": "https://www.bbc.com/news/articles/cn844n379y5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-02-23-43 +0000"
+  },
+  {
+    "headline": "Shooter kills 3 in a Target parking lot in Austin, Texas, before being captured, police say",
+    "link": "https://www.startribune.com/police-say-2-dead-in-a-shooting-at-a-target-in-austin-texas-and-a-suspect-is-detained/601453263",
+    "source": "startribune",
+    "pubdate": "2025-08-12-02-20-01 +0000"
+  },
+  {
+    "headline": "Footage Shows Medical Volunteer Execution in Southern Syria Amid Sectarian Violence",
+    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/syria-volunteer-execution-sweida-hospital.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-15-12 +0000"
+  },
+  {
+    "headline": "Footage Shows Medical Volunteer Execution in Southern Syria Amid Sectarian Violence",
+    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/syria-volunteer-execution-sweida-hospital.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-15-12 +0000"
+  },
+  {
+    "headline": "Hundreds of Indian Lawmakers Detained at a Protest Claiming Vote Rigging",
+    "link": "https://www.nytimes.com/2025/08/11/world/asia/india-election-arrests-modi.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-13-54 +0000"
+  },
+  {
+    "headline": "Hundreds of Indian Lawmakers Detained at a Protest Claiming Vote Rigging",
+    "link": "https://www.nytimes.com/2025/08/11/world/asia/india-election-arrests-modi.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-13-54 +0000"
+  },
+  {
+    "headline": "Military officials testify at California’s suit against National Guard deployment.",
+    "link": "https://www.nytimes.com/live/2025/08/11/us/trump-news/trial-opens-in-californias-suit-against-national-guard-deployment",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-02-45 +0000"
+  },
+  {
+    "headline": "Military officials testify at California’s suit against National Guard deployment.",
+    "link": "https://www.nytimes.com/live/2025/08/11/us/trump-news/trial-opens-in-californias-suit-against-national-guard-deployment",
+    "source": "nyt",
+    "pubdate": "2025-08-12-02-02-45 +0000"
+  },
+  {
+    "headline": "2 dead in explosion at U.S. Steel plant in Pennsylvania",
+    "link": "https://www.washingtonpost.com/nation/2025/08/11/us-steel-explosion-clairton-coke-works-pittsburgh-pennsylvania/",
+    "source": "wapo",
+    "pubdate": "2025-08-12-01-57-34 +0000"
+  },
+  {
+    "headline": "Florida man catches 87 invasive pythons in a month, awarded $1K through state incentive system",
+    "link": "https://nypost.com/2025/08/11/us-news/florida-man-captures-87-invasive-pythons-awarded-1000-through-state-incentive-system/",
+    "source": "nypost",
+    "pubdate": "2025-08-12-01-56-35 +0000"
+  },
+  {
+    "headline": "Trump nominates Bureau of Labor Statistics critic to replace fired agency head",
+    "link": "https://www.washingtonpost.com/business/2025/08/11/trump-bls-nomination-antoni/",
+    "source": "wapo",
+    "pubdate": "2025-08-12-01-55-27 +0000"
+  },
+  {
+    "headline": "Nepal makes 97 mountains free to climb as Everest fees rise",
+    "link": "https://www.bbc.com/news/articles/c0j99xxd1z1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-55-25 +0000"
+  },
+  {
+    "headline": "Hegseth says DC National Guard will not be involved in law enforcement functions but he’ll ‘have their back’ if they need to ‘temporarily detain’ criminals",
+    "link": "https://nypost.com/2025/08/11/us-news/hegseth-says-dc-national-guard-will-not-be-involved-in-law-enforcement-functions-but-hell-have-their-back-if-they-need-to-temporarily-detain-criminals/",
+    "source": "nypost",
+    "pubdate": "2025-08-12-01-54-01 +0000"
+  },
+  {
+    "headline": "Hegseth says DC National Guard will not be involved in law enforcement functions but he’ll ‘have their back’ if they need to ‘temporarily detain’ criminals",
+    "link": "https://nypost.com/2025/08/11/us-news/hegseth-says-dc-national-guard-will-not-be-involved-in-law-enforcement-functions-but-hell-have-their-back-if-they-need-to-temporarily-detain-criminals/",
+    "source": "nypost",
+    "pubdate": "2025-08-12-01-54-01 +0000"
+  },
+  {
+    "headline": "For D.C., Threats of a Federal Takeover Were Familiar. Now They Are a Reality.",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/dc-federal-takeover-trump-bowser.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-47-32 +0000"
+  },
+  {
+    "headline": "For D.C., Threats of a Federal Takeover Were Familiar. Now They Are a Reality.",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/dc-federal-takeover-trump-bowser.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-47-32 +0000"
+  },
+  {
+    "headline": "Wild L.A. pursuit: Carjackers steal 3 cars, drive big-rig wrong way on freeway, then escape",
+    "link": "https://www.latimes.com/california/story/2025-08-11/carjackers-steal-3-vehicles-drive-big-rig-wrong-way-on-freeway",
+    "source": "latimes",
+    "pubdate": "2025-08-12-01-47-18 +0000"
+  },
+  {
+    "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
+    "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282",
+    "source": "wsj",
+    "pubdate": "2025-08-12-01-47-00 +0000"
+  },
+  {
+    "headline": "Trump Deploys National Guard to D.C., Moves to Take Over City’s Police Department",
+    "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282",
+    "source": "wsj",
+    "pubdate": "2025-08-12-01-47-00 +0000"
+  },
+  {
+    "headline": "Illegal migrant caught with $12M of crystal meth in South Dakota: officials",
+    "link": "https://nypost.com/2025/08/11/us-news/south-dakota-cops-seize-12m-of-crystal-meth-from-illegal-migrant/",
+    "source": "nypost",
+    "pubdate": "2025-08-12-01-31-18 +0000"
+  },
+  {
+    "headline": "Two dead and 10 injured in Pennsylvania steel plant explosion",
+    "link": "https://www.bbc.com/news/articles/ckgjj49neldo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-29-17 +0000"
+  },
+  {
+    "headline": "Two dead and 10 injured in Pennsylvania steel plant explosion",
+    "link": "https://www.bbc.com/news/articles/ckgjj49neldo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-29-17 +0000"
+  },
+  {
+    "headline": "2 Killed in Explosion at U.S. Steel Plant in Pennsylvania",
+    "link": "https://www.nytimes.com/2025/08/11/us/us-steel-explosion-pennsylvania.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-24-58 +0000"
+  },
+  {
+    "headline": "US and China extend tariff truce deadline to November",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-23-08 +0000"
+  },
+  {
+    "headline": "US and China extend tariff truce deadline to November",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-23-08 +0000"
+  },
+  {
+    "headline": "US and China extend tariff truce deadline to November",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-23-08 +0000"
+  },
+  {
+    "headline": "US and China extend tariff truce deadline to November",
+    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-23-08 +0000"
+  },
+  {
+    "headline": "St. Paul doesn’t pay ransom for cyberattack",
+    "link": "https://www.startribune.com/st-paul-doesnt-pay-ransom-for-cyberattack/601453344",
+    "source": "startribune",
+    "pubdate": "2025-08-12-01-21-08 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-19-18 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-19-18 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-19-18 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-19-18 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-19-18 +0000"
+  },
+  {
+    "headline": "Trump Extends China Tariff Truce",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-12-01-19-18 +0000"
+  },
+  {
     "headline": "3 Dead, 1 Injured After Target Shooting in Austin, Texas",
     "link": "https://www.nytimes.com/2025/08/11/us/austin-shooting.html",
     "source": "nyt",
     "pubdate": "2025-08-12-01-11-34 +0000"
   },
   {
-    "headline": "Explosion at Pennsylvania steel plant leaves one dead and 10 injured",
-    "link": "https://www.bbc.com/news/articles/ckgjj49neldo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-01-07-22 +0000"
-  },
-  {
-    "headline": "Explosion at Pennsylvania steel plant leaves one dead and 10 injured",
-    "link": "https://www.bbc.com/news/articles/ckgjj49neldo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-01-07-22 +0000"
+    "headline": "Crews fight 'fire whirls' and extreme heat in northern Spain",
+    "link": "https://www.cbc.ca/news/world/spain-heat-fire-whirls-1.7606487?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-12-01-09-51 +0000"
   },
   {
     "headline": "Trump Names EJ Antoni New BLS Commissioner",
@@ -28,6 +226,18 @@
     "link": "https://www.nytimes.com/2025/08/11/business/economy/trump-bls-commissioner.html",
     "source": "nyt",
     "pubdate": "2025-08-12-01-05-54 +0000"
+  },
+  {
+    "headline": "4 arrested in break-in at Brad Pitt's home, other residences, sources say",
+    "link": "https://www.latimes.com/california/story/2025-08-11/four-arrested-in-break-in-brad-pitt-los-feliz-home-sources-say",
+    "source": "latimes",
+    "pubdate": "2025-08-12-01-05-50 +0000"
+  },
+  {
+    "headline": "Watch: Cars submerged in flood waters after historic rain hits Wisconsin",
+    "link": "https://www.bbc.com/news/videos/c78mm8d3kz0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-12-01-05-01 +0000"
   },
   {
     "headline": "President Trump’s decision to deploy National Guard troops in Washington, D.C., is his boldest move to date to expand the use of military power on U.S. soil",
@@ -52,24 +262,6 @@
     "link": "https://www.wsj.com/politics/policy/trump-national-guard-dc-military-role-3027c35e",
     "source": "wsj",
     "pubdate": "2025-08-12-01-00-00 +0000"
-  },
-  {
-    "headline": "US and China extend tariff truce deadline to November",
-    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-00-59-53 +0000"
-  },
-  {
-    "headline": "US and China extend tariff truce deadline to November",
-    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-00-59-53 +0000"
-  },
-  {
-    "headline": "US and China extend tariff truce deadline to November",
-    "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-12-00-59-53 +0000"
   },
   {
     "headline": "Trump picks conservative economist to lead jobs data agency",
@@ -132,16 +324,16 @@
     "pubdate": "2025-08-12-00-31-52 +0000"
   },
   {
+    "headline": "A Brainerd man fled deputies five years ago. He hasn’t been seen since.",
+    "link": "https://www.startribune.com/brainerd-man-fled-deputies-five-years-ago-he-hasnt-been-seen-since/601411256",
+    "source": "startribune",
+    "pubdate": "2025-08-12-00-30-23 +0000"
+  },
+  {
     "headline": "Christophe de Menil, Art Patron and Designer, Is Dead at 92",
     "link": "https://www.nytimes.com/2025/08/11/arts/christophe-de-menil-dead.html",
     "source": "nyt",
     "pubdate": "2025-08-12-00-23-35 +0000"
-  },
-  {
-    "headline": "At Least One Dead in U.S. Steel Plant Explosion in Pennsylvania, Authorities Say",
-    "link": "https://www.nytimes.com/2025/08/11/us/us-steel-explosion-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-23-11 +0000"
   },
   {
     "headline": "SoCal toddler found wandering barefoot on railroad tracks; parents arrested",
@@ -172,48 +364,6 @@
     "link": "https://nypost.com/2025/08/11/us-news/abc-news-anchor-reveals-she-was-jumped-by-a-half-dressed-homeless-man-in-downtown-dc-co-workers-car-stolen-the-morning-trump-federalized-local-police-were-all-experiencing-it-firsthand/",
     "source": "nypost",
     "pubdate": "2025-08-12-00-10-09 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-06-52 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-06-52 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-06-52 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-06-52 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-06-52 +0000"
-  },
-  {
-    "headline": "Trump Extends China Tariff Truce",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-12-00-06-52 +0000"
-  },
-  {
-    "headline": "St. Paul doesn’t pay ransom for cyberattack",
-    "link": "https://www.startribune.com/st-paul-doesnt-pay-ransom-for-cyberattack/601453344",
-    "source": "startribune",
-    "pubdate": "2025-08-12-00-04-04 +0000"
   },
   {
     "headline": "President Trump plans to nominate E.J. Antoni, chief economist at the Heritage Foundation, to lead the Bureau of Labor Statistics",
@@ -288,12 +438,6 @@
     "pubdate": "2025-08-11-23-35-43 +0000"
   },
   {
-    "headline": "Shooter kills 3 in a Target parking lot in Austin, Texas, before being captured, police say",
-    "link": "https://www.startribune.com/police-say-2-dead-in-a-shooting-at-a-target-in-austin-texas-and-a-suspect-is-detained/601453263",
-    "source": "startribune",
-    "pubdate": "2025-08-11-23-35-03 +0000"
-  },
-  {
     "headline": "Long Island casino slapped with lawsuit for failing to stop near-fatal shooting",
     "link": "https://nypost.com/2025/08/11/us-news/long-island-casino-slapped-with-lawsuit-for-failing-to-stop-near-fatal-shooting/",
     "source": "nypost",
@@ -352,12 +496,6 @@
     "link": "https://nypost.com/2025/08/11/us-news/nyc-students-make-gains-in-standardized-tests-but-40-still-failed-reading-and-math/",
     "source": "nypost",
     "pubdate": "2025-08-11-23-19-31 +0000"
-  },
-  {
-    "headline": "Trump nominates Bureau of Labor Statistics critic to replace fired agency head",
-    "link": "https://www.washingtonpost.com/business/2025/08/11/trump-bls-nomination-antoni/",
-    "source": "wapo",
-    "pubdate": "2025-08-11-23-08-53 +0000"
   },
   {
     "headline": "NYPD bodycam shows fearless cops plunging into water after alleged car thief",
@@ -570,22 +708,16 @@
     "pubdate": "2025-08-11-22-22-59 +0000"
   },
   {
-    "headline": "Jersey City mayoral race now neck and neck between Solomon and ex-Gov. McGreevey: new poll",
-    "link": "https://nypost.com/2025/08/11/us-news/jersey-city-mayors-race-neck-and-neck-for-solomon-and-mcgreevy-new-poll/",
-    "source": "nypost",
-    "pubdate": "2025-08-11-22-22-14 +0000"
+    "headline": "Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza?",
+    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/al-jazeera-journalists-bios.html",
+    "source": "nyt",
+    "pubdate": "2025-08-11-22-21-41 +0000"
   },
   {
     "headline": "Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza?",
     "link": "https://www.nytimes.com/2025/08/11/world/middleeast/al-jazeera-journalists-bios.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-22-21-40 +0000"
-  },
-  {
-    "headline": "Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza?",
-    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/al-jazeera-journalists-bios.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-22-21-40 +0000"
+    "pubdate": "2025-08-11-22-21-41 +0000"
   },
   {
     "headline": "Trump Takes Control of D.C. Police, Citing ‘Bloodthirsty Criminals.’ But Crime Is Down.",
@@ -598,12 +730,6 @@
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-washington-dc-police.html",
     "source": "nyt",
     "pubdate": "2025-08-11-22-20-08 +0000"
-  },
-  {
-    "headline": "1 dead, 1 missing in explosion at U.S. Steel plant in Pennsylvania",
-    "link": "https://www.washingtonpost.com/nation/2025/08/11/us-steel-explosion-clairton-coke-works-pittsburgh-pennsylvania/",
-    "source": "wapo",
-    "pubdate": "2025-08-11-22-19-10 +0000"
   },
   {
     "headline": "Richest Gain Most and Poorest Face Steepest Cuts Under G.O.P. Law, Analysis Finds",
@@ -648,22 +774,10 @@
     "pubdate": "2025-08-11-22-10-23 +0000"
   },
   {
-    "headline": "Ex-Kentucky clerk Kim Davis asks Supreme Court to overturn same-sex marriage ruling: ‘Legal fiction’",
-    "link": "https://nypost.com/2025/08/11/us-news/ex-kentucky-clerk-kim-davis-asks-supreme-court-to-overturn-same-sex-marriage-ruling-legal-fiction/",
-    "source": "nypost",
-    "pubdate": "2025-08-11-22-10-23 +0000"
-  },
-  {
     "headline": "Trump says he's placing Washington police under federal control and activating the National Guard",
     "link": "https://www.startribune.com/trump-is-promising-new-steps-to-tackle-homelessness-and-crime-in-washington/601452903",
     "source": "startribune",
     "pubdate": "2025-08-11-22-10-03 +0000"
-  },
-  {
-    "headline": "Son of Virginia bowling billionaire cheats on wife with their four kids’ former nanny, asked for divorce on Christmas Day: court papers",
-    "link": "https://nypost.com/2025/08/11/us-news/peter-goodwin-of-virginia-cheats-on-wife-with-former-nanny-court-papers/",
-    "source": "nypost",
-    "pubdate": "2025-08-11-22-00-31 +0000"
   },
   {
     "headline": "Prince Harry and Meghan stay with Netflix — but with a lesser deal",
@@ -675,37 +789,37 @@
     "headline": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-56-34 +0000"
+    "pubdate": "2025-08-11-21-56-35 +0000"
   },
   {
     "headline": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-56-34 +0000"
+    "pubdate": "2025-08-11-21-56-35 +0000"
   },
   {
     "headline": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-56-34 +0000"
+    "pubdate": "2025-08-11-21-56-35 +0000"
   },
   {
     "headline": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-56-34 +0000"
+    "pubdate": "2025-08-11-21-56-35 +0000"
   },
   {
     "headline": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-56-34 +0000"
+    "pubdate": "2025-08-11-21-56-35 +0000"
   },
   {
     "headline": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-56-34 +0000"
+    "pubdate": "2025-08-11-21-56-35 +0000"
   },
   {
     "headline": "New 51-story apartment tower in downtown L.A. gets city nod",
@@ -759,25 +873,13 @@
     "headline": "Israel-Qatar Tensions Escalate After Israel Kills Al Jazeera Journalists",
     "link": "https://www.nytimes.com/2025/08/11/world/middleeast/israel-qatar-al-jazeera-killings.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-33-28 +0000"
+    "pubdate": "2025-08-11-21-33-29 +0000"
   },
   {
     "headline": "Israel-Qatar Tensions Escalate After Israel Kills Al Jazeera Journalists",
     "link": "https://www.nytimes.com/2025/08/11/world/middleeast/israel-qatar-al-jazeera-killings.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-21-33-28 +0000"
-  },
-  {
-    "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
-    "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282",
-    "source": "wsj",
-    "pubdate": "2025-08-11-21-29-00 +0000"
-  },
-  {
-    "headline": "Trump Deploys National Guard to D.C., Moves to Take Over City’s Police Department",
-    "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282",
-    "source": "wsj",
-    "pubdate": "2025-08-11-21-29-00 +0000"
+    "pubdate": "2025-08-11-21-33-29 +0000"
   },
   {
     "headline": "Ex-aide to Andrew Cuomo goes nuclear on former boss — with spicy Jeffrey Epstein, ‘abuse’ slapdowns",
@@ -850,12 +952,6 @@
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-08-11-21-11-00 +0000"
-  },
-  {
-    "headline": "Rapists 'probably' forfeit right to choose gender - Sturgeon",
-    "link": "https://www.bbc.com/news/articles/c05eedgp804o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-11-21-08-17 +0000"
   },
   {
     "headline": "Stocks Slip Despite China Tariff Extension",
@@ -954,12 +1050,6 @@
     "pubdate": "2025-08-11-20-26-24 +0000"
   },
   {
-    "headline": "AOL ends dial-up service after more than 30 years",
-    "link": "https://www.bbc.com/news/articles/cj0yy3e6z4zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-11-20-26-24 +0000"
-  },
-  {
     "headline": "Bullfighter gored to death in gruesome video after taunting animal at controversial festival",
     "link": "https://nypost.com/2025/08/11/world-news/bullfighter-gored-to-death-after-taunting-animal-at-colombia-festival/",
     "source": "nypost",
@@ -1044,7 +1134,7 @@
     "pubdate": "2025-08-11-19-38-09 +0000"
   },
   {
-    "headline": "Trump extends China tariff deadline for 90 days just hours before truce was set to expire: official",
+    "headline": "Trump extends China tariff deadline for 90 days just hours before truce was set to expire",
     "link": "https://nypost.com/2025/08/11/world-news/trump-extends-china-tariff-deadline-for-90-days-official/",
     "source": "nypost",
     "pubdate": "2025-08-11-19-33-26 +0000"
@@ -1269,13 +1359,13 @@
     "headline": "A Sidelined Zelensky Warns That Russia Will Try to Deceive the U.S.",
     "link": "https://www.nytimes.com/2025/08/11/world/europe/ukraine-russia-putin-zelensky-alaska-talks.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-17-59-59 +0000"
+    "pubdate": "2025-08-11-18-00-00 +0000"
   },
   {
     "headline": "A Sidelined Zelensky Warns That Russia Will Try to Deceive the U.S.",
     "link": "https://www.nytimes.com/2025/08/11/world/europe/ukraine-russia-putin-zelensky-alaska-talks.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-17-59-59 +0000"
+    "pubdate": "2025-08-11-18-00-00 +0000"
   },
   {
     "headline": "Unions representing workers at Minneapolis VA, Veterans Medical Center dissolve after Trump order",
@@ -1312,18 +1402,6 @@
     "link": "https://www.latimes.com/california/story/2025-08-11/at-least-73-of-u-s-adults-experienced-an-online-scam-what-you-should-know",
     "source": "latimes",
     "pubdate": "2025-08-11-17-43-51 +0000"
-  },
-  {
-    "headline": "Footage Shows Medical Volunteer Execution in Southern Syria Amid Sectarian Violence",
-    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/syria-volunteer-execution-sweida-hospital.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-17-41-24 +0000"
-  },
-  {
-    "headline": "Footage Shows Medical Volunteer Execution in Southern Syria Amid Sectarian Violence",
-    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/syria-volunteer-execution-sweida-hospital.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-17-41-24 +0000"
   },
   {
     "headline": "Finland charges captain of tanker, tied to Russia, in undersea cable damage",
@@ -1548,6 +1626,12 @@
     "pubdate": "2025-08-11-15-02-46 +0000"
   },
   {
+    "headline": "Trump to deploy National Guard in D.C. — even as data shows crime at 30-year low",
+    "link": "https://www.cbc.ca/news/world/trump-national-guard-washington-1.7605793?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-11-14-58-56 +0000"
+  },
+  {
     "headline": "Watch: Trump announces deployment of National Guard in Washington DC",
     "link": "https://www.bbc.com/news/videos/cj9ww4z39xko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1746,7 +1830,7 @@
     "pubdate": "2025-08-11-13-06-56 +0000"
   },
   {
-    "headline": "Polls close for hotly contested byelection in Quebec's Arthabaska riding",
+    "headline": "Parti Québécois projected to win byelection in Quebec's Arthabaska riding",
     "link": "https://www.cbc.ca/news/canada/montreal/arthabaska-byelection-1.7605676?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-11-13-03-56 +0000"
@@ -1762,18 +1846,6 @@
     "link": "https://www.bbc.com/news/articles/cx2ppgg0zvlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-11-13-02-53 +0000"
-  },
-  {
-    "headline": "Hundreds of Indian Lawmakers Detained at a Protest Claiming Vote Rigging",
-    "link": "https://www.nytimes.com/2025/08/11/world/asia/india-election-arrests-modi.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-13-02-12 +0000"
-  },
-  {
-    "headline": "Hundreds of Indian Lawmakers Detained at a Protest Claiming Vote Rigging",
-    "link": "https://www.nytimes.com/2025/08/11/world/asia/india-election-arrests-modi.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-13-02-12 +0000"
   },
   {
     "headline": "Paramount Strikes Seven-Year Deal to Stream UFC Fights",
@@ -1911,24 +1983,18 @@
     "headline": "Firefighters Tackle Blaze at Arthur’s Seat, an Edinburgh Landmark",
     "link": "https://www.nytimes.com/2025/08/11/world/europe/fire-arthurs-seat-edinburgh-scotland.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-11-02-40 +0000"
+    "pubdate": "2025-08-11-11-02-41 +0000"
   },
   {
     "headline": "Firefighters Tackle Blaze at Arthur’s Seat, an Edinburgh Landmark",
     "link": "https://www.nytimes.com/2025/08/11/world/europe/fire-arthurs-seat-edinburgh-scotland.html",
     "source": "nyt",
-    "pubdate": "2025-08-11-11-02-40 +0000"
+    "pubdate": "2025-08-11-11-02-41 +0000"
   },
   {
     "headline": "Work Advice: When the boss’s buddy gets a chance you’ve been denied",
     "link": "https://www.washingtonpost.com/business/2025/08/11/work-advice-boss-plays-favorites/",
     "source": "wapo",
-    "pubdate": "2025-08-11-11-00-00 +0000"
-  },
-  {
-    "headline": "7 ways to save money at the State Fair",
-    "link": "https://www.startribune.com/freebies-deals-and-other-minnesota-state-fair-discounts-save-money/601436622",
-    "source": "startribune",
     "pubdate": "2025-08-11-11-00-00 +0000"
   },
   {
@@ -1986,14 +2052,14 @@
     "pubdate": "2025-08-11-10-05-24 +0000"
   },
   {
-    "headline": "From rescued to rescuer: Sydney helps Eaton fire evacuees heal",
-    "link": "https://www.latimes.com/california/story/2025-08-11/who-rescued-who-a-rescue-dog-helps-eaton-fire-evacuees-get-on-with-their-lives",
+    "headline": "'Uncharted territory': Newsom and UC go to battle against Trump's UCLA sanctions",
+    "link": "https://www.latimes.com/california/story/2025-08-11/newsom-trump-ucla-grant-freezes-antisemitism",
     "source": "latimes",
     "pubdate": "2025-08-11-10-00-00 +0000"
   },
   {
-    "headline": "'Uncharted territory': Newsom and UC go to battle against Trump's UCLA sanctions",
-    "link": "https://www.latimes.com/california/story/2025-08-11/newsom-trump-ucla-grant-freezes-antisemitism",
+    "headline": "From rescued to rescuer: Sydney helps Eaton fire evacuees heal",
+    "link": "https://www.latimes.com/california/story/2025-08-11/who-rescued-who-a-rescue-dog-helps-eaton-fire-evacuees-get-on-with-their-lives",
     "source": "latimes",
     "pubdate": "2025-08-11-10-00-00 +0000"
   },
@@ -2266,59 +2332,5 @@
     "link": "https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92",
     "source": "wsj",
     "pubdate": "2025-08-11-03-00-00 +0000"
-  },
-  {
-    "headline": "China Detains Senior Diplomat Who Aided U.S. Relations",
-    "link": "https://www.wsj.com/world/china/china-detains-senior-diplomat-who-aided-u-s-relations-ca110bfc",
-    "source": "wsj",
-    "pubdate": "2025-08-11-02-27-00 +0000"
-  },
-  {
-    "headline": "Protests erupt in Italy over planned $15.5B bridge from Sicily to mainland: ‘Strait of Messina can’t be touched’",
-    "link": "https://nypost.com/2025/08/10/world-news/protests-erupt-in-italy-over-planned-bridge-from-sicily-to-mainland/",
-    "source": "nypost",
-    "pubdate": "2025-08-11-02-23-46 +0000"
-  },
-  {
-    "headline": "Inside Target, Frustrated Employees and Search for New CEO",
-    "link": "https://www.wsj.com/business/retail/target-corporate-employees-ceo-search-bcfeb735?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-11-02-00-00 +0000"
-  },
-  {
-    "headline": "Inside Target, Frustrated Employees and Search for New CEO",
-    "link": "https://www.wsj.com/business/retail/target-corporate-employees-ceo-search-bcfeb735?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-11-02-00-00 +0000"
-  },
-  {
-    "headline": "China's unemployed young adults who are pretending to have jobs",
-    "link": "https://www.bbc.com/news/articles/cdd3ep76g3go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-11-01-50-13 +0000"
-  },
-  {
-    "headline": "China's unemployed young adults who are pretending to have jobs",
-    "link": "https://www.bbc.com/news/articles/cdd3ep76g3go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-11-01-50-13 +0000"
-  },
-  {
-    "headline": "China's unemployed young adults who are pretending to have jobs",
-    "link": "https://www.bbc.com/news/articles/cdd3ep76g3go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-11-01-50-13 +0000"
-  },
-  {
-    "headline": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China",
-    "link": "https://www.nytimes.com/2025/08/10/technology/us-government-nvidia-amd-chips-china.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-01-26-00 +0000"
-  },
-  {
-    "headline": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China",
-    "link": "https://www.nytimes.com/2025/08/10/technology/us-government-nvidia-amd-chips-china.html",
-    "source": "nyt",
-    "pubdate": "2025-08-11-01-26-00 +0000"
   }
 ]
