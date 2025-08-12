@@ -1,41 +1,41 @@
 [
   {
-    "score": 233,
+    "score": 224,
     "pubdate": "2025-08-12-01-47-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
     "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
   },
   {
-    "score": 89,
-    "pubdate": "2025-08-11-19-43-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
-    "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
-  },
-  {
-    "score": 89,
+    "score": 88,
     "pubdate": "2025-08-12-11-49-16 +0000",
     "source": "bbc",
     "headline": "Who were the Al Jazeera journalists killed by Israel in Gaza?",
     "link": "https://www.bbc.com/news/articles/c6200wnez73o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 72,
+    "score": 84,
+    "pubdate": "2025-08-11-19-43-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
+    "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
+  },
+  {
+    "score": 79,
     "pubdate": "2025-08-11-16-09-47 +0000",
     "source": "nypost",
     "headline": "Trump says he’ll tell Putin to end Ukraine invasion, vows Zelensky will be in ‘next meeting’",
     "link": "https://nypost.com/2025/08/11/world-news/trump-says-hell-tell-putin-to-end-ukraine-invasion-vows-zelensky-will-be-in-next-meeting/"
   },
   {
-    "score": 59,
+    "score": 63,
     "pubdate": "2025-08-12-12-00-00 +0000",
     "source": "nypost",
     "headline": "Ex-NYPD cop claims Bill de Blasio ‘didn’t like police officers,’ unloads on mayor’s ex-wife in tell-all memoir",
     "link": "https://nypost.com/2025/08/12/us-news/ex-nypd-cop-claims-bill-de-blasio-didnt-like-police-officers-unloads-on-mayors-ex-wife-in-tell-all-memoir/"
   },
   {
-    "score": 58,
+    "score": 59,
     "pubdate": "2025-08-11-22-47-07 +0000",
     "source": "nyt",
     "headline": "New York’s Democratic Governor Called in the Troops Last Year to Fight Subway Crime",
@@ -49,24 +49,24 @@
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html"
   },
   {
-    "score": 49,
+    "score": 53,
     "pubdate": "2025-08-11-19-33-26 +0000",
     "source": "nypost",
     "headline": "Trump extends China tariff deadline for 90 days just hours before truce was set to expire",
     "link": "https://nypost.com/2025/08/11/world-news/trump-extends-china-tariff-deadline-for-90-days-official/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-12-01-29-17 +0000",
+    "score": 43,
+    "pubdate": "2025-08-11-18-44-07 +0000",
     "source": "bbc",
-    "headline": "Two dead and 10 injured in Pennsylvania steel plant explosion",
-    "link": "https://www.bbc.com/news/articles/ckgjj49neldo?at_medium=RSS&at_campaign=rss"
+    "headline": "Jellyfish swarm forces French nuclear plant to shut",
+    "link": "https://www.bbc.com/news/articles/cx299eyg7qko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 39,
-    "pubdate": "2025-08-12-00-04-00 +0000",
+    "score": 43,
+    "pubdate": "2025-08-12-15-45-00 +0000",
     "source": "wsj",
-    "headline": "President Trump plans to nominate E.J. Antoni, chief economist at the Heritage Foundation, to lead the Bureau of Labor Statistics",
-    "link": "https://www.wsj.com/politics/policy/trump-to-nominate-longtime-critic-to-lead-bureau-of-labor-statistics-190e7252"
+    "headline": "The White House plans to conduct a far-reaching review of Smithsonian museum exhibitions, materials and operations ahead of America’s 250th anniversary",
+    "link": "https://www.wsj.com/politics/policy/white-house-to-vet-smithsonian-museums-to-fit-trumps-historical-vision-78875c8a"
   }
 ]
