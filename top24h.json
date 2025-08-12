@@ -1,52 +1,52 @@
 [
   {
-    "score": 207,
+    "score": 190,
     "pubdate": "2025-08-12-01-47-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
     "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
   },
   {
-    "score": 73,
+    "score": 67,
     "pubdate": "2025-08-12-11-50-47 +0000",
     "source": "bbc",
     "headline": "US and China extend trade truce to avoid tariffs hike",
     "link": "https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 68,
-    "pubdate": "2025-08-12-11-49-16 +0000",
-    "source": "bbc",
-    "headline": "Who were the Al Jazeera journalists killed by Israel in Gaza?",
-    "link": "https://www.bbc.com/news/articles/c6200wnez73o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 68,
+    "score": 63,
     "pubdate": "2025-08-12-19-21-00 +0000",
     "source": "wsj",
     "headline": "The State Department released a long-delayed human rights report that escalates criticism of U.S. allies in Europe for perceived restrictions on freedom of expression while cutting sections on LGBTQ rights and government corruption.",
     "link": "https://www.wsj.com/politics/policy/state-department-issues-human-rights-report-reflecting-trump-priorities-600d124d"
   },
   {
-    "score": 60,
-    "pubdate": "2025-08-12-20-50-00 +0000",
-    "source": "wsj",
-    "headline": "Year-over-year inflation held steady in July, but a key measure of underlying price growth picked up",
-    "link": "https://www.wsj.com/economy/cpi-inflation-july-2025-interest-rate-c9d31b19"
+    "score": 58,
+    "pubdate": "2025-08-12-17-51-57 +0000",
+    "source": "nyt",
+    "headline": "New Delhi Is Ordered to Round Up Hundreds of Thousands of Stray Dogs",
+    "link": "https://www.nytimes.com/2025/08/12/world/asia/india-court-delhi-stray-dogs.html"
   },
   {
-    "score": 59,
+    "score": 55,
     "pubdate": "2025-08-12-20-22-00 +0000",
     "source": "wsj",
     "headline": "U.S. Steel Plant Where Two Died Will Continue Operating, CEO Says",
     "link": "https://www.wsj.com/us-news/clariton-coke-works-explosion-update-813ca137?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 56,
+    "score": 54,
     "pubdate": "2025-08-12-12-00-00 +0000",
     "source": "nypost",
     "headline": "Ex-NYPD cop claims Bill de Blasio ‘didn’t like police officers,’ unloads on mayor’s ex-wife in tell-all memoir",
     "link": "https://nypost.com/2025/08/12/us-news/ex-nypd-cop-claims-bill-de-blasio-didnt-like-police-officers-unloads-on-mayors-ex-wife-in-tell-all-memoir/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-08-12-11-49-16 +0000",
+    "source": "bbc",
+    "headline": "Who were the Al Jazeera journalists killed by Israel in Gaza?",
+    "link": "https://www.bbc.com/news/articles/c6200wnez73o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 51,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2025/08/12/us-news/dc-police-chief-mayor-pledge-support-to-trump-takeover-we-are-here-to-work-together/"
   },
   {
-    "score": 49,
+    "score": 47,
     "pubdate": "2025-08-12-18-07-32 +0000",
     "source": "nypost",
     "headline": "White House confirms Trump-Putin summit in Anchorage, calling it ‘listening exercise’",
     "link": "https://nypost.com/2025/08/12/us-news/white-house-confirms-trump-putin-summit-in-anchorage-calling-it-listening-exercise/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-08-12-15-31-16 +0000",
-    "source": "nyt",
-    "headline": "Russia Makes Battlefield Advances in Ukraine, Seeking an Edge in Trump Talks",
-    "link": "https://www.nytimes.com/2025/08/12/world/europe/russia-ukraine-battlefield-pokrovsk-trump.html"
+    "score": 45,
+    "pubdate": "2025-08-12-17-33-00 +0000",
+    "source": "wsj",
+    "headline": "Crypto Entrepreneur Do Kwon Pleads Guilty to Fraud Charges Stemming From Crypto Crash",
+    "link": "https://www.wsj.com/finance/currencies/crypto-entrepreneur-do-kwon-pleads-guilty-to-fraud-charges-stemming-from-crypto-crash-50c032fe?mod=rss_markets_main"
   }
 ]
