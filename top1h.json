@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 36,
+    "pubdate": "2025-08-12-18-07-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump on Tuesday appeared to call for Goldman Sachs Chief Executive David Solomon to replace Jan Hatzius, the bank’s top economist over his past predictions",
+    "link": "https://www.wsj.com/economy/trump-calls-on-goldman-to-replace-economist-over-tariff-stance-e9569e63"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-08-12-18-53-31 +0000",
+    "source": "nyt",
+    "headline": "New York’s Democratic Governor Called in the Troops Last Year to Fight Subway Crime",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/hochul-national-guard-nyc-subway.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-08-12-18-08-04 +0000",
+    "source": "nyt",
+    "headline": "Foreign Recruits in Ukraine Military Are Killed in Russian Missile Strike",
+    "link": "https://www.nytimes.com/2025/08/12/world/europe/foreign-soldiers-ukraine-russia-missile-attack.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-12-18-07-32 +0000",
+    "source": "nypost",
+    "headline": "White House confirms Trump-Putin summit in Anchorage, calling it ‘listening exercise’",
+    "link": "https://nypost.com/2025/08/12/us-news/white-house-confirms-trump-putin-summit-in-anchorage-calling-it-listening-exercise/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-12-18-48-26 +0000",
+    "source": "nyt",
+    "headline": "Wisconsin Woman Convicted in Failed Assassination Attempt in Birmingham, England",
+    "link": "https://www.nytimes.com/2025/08/12/world/europe/aimee-betro-assassination-attempt-conviction.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-12-18-44-14 +0000",
+    "source": "nyt",
+    "headline": "Judge T.S. Ellis III, 85, Dies; Stirred Outcry Over Manafort Sentence",
+    "link": "https://www.nytimes.com/2025/08/12/us/ts-ellis-iii-dead.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-12-18-53-37 +0000",
+    "source": "nyt",
+    "headline": "Mexico and Brazil Rebut Trump’s Claims About Violence in Their Cities",
+    "link": "https://www.nytimes.com/2025/08/12/world/americas/trump-crime-mexico-brazil.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-12-18-50-41 +0000",
+    "source": "nyt",
+    "headline": "Sherrod Brown Plans to Try for a Senate Comeback in Ohio",
+    "link": "https://www.nytimes.com/2025/08/12/us/politics/sherrod-brown-plans-to-try-for-a-senate-comeback-in-ohio.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-12-17-59-23 +0000",
+    "source": "nypost",
+    "headline": "IBM, Google claim quantum computers are almost here after major breakthroughs: ‘It doesn’t feel like a dream anymore’",
+    "link": "https://nypost.com/2025/08/12/business/ibm-google-claim-breakthroughs-in-push-for-quantum-computers/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-12-18-11-23 +0000",
+    "source": "nypost",
+    "headline": "Overseas travel to US continues to tumble as Trump imposes travel bans, tariffs",
+    "link": "https://nypost.com/2025/08/12/business/overseas-travel-to-us-continues-to-tumble-as-trump-imposes-travel-bans-tariffs/"
+  }
+]
