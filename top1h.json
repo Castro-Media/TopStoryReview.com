@@ -1,37 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2025-08-12-12-59-48 +0000",
-    "source": "nypost",
-    "headline": "Man’s family allegedly abducted by career criminal who was freed from prison early on ‘shock probation’ by Dem-appointed judge",
-    "link": "https://nypost.com/2025/08/12/us-news/mans-family-allegedly-abducted-by-career-criminal-who-was-freed-from-prison-early-on-shock-probation-by-dem-appointed-judge/"
+    "score": 43,
+    "pubdate": "2025-08-12-14-31-58 +0000",
+    "source": "nyt",
+    "headline": "Trump Extends China Tariff Truce by Three Months",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html"
   },
   {
-    "score": 14,
-    "pubdate": "2025-08-12-13-00-00 +0000",
+    "score": 21,
+    "pubdate": "2025-08-12-14-37-33 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He’s Going to Alaska to See What Putin ‘Has in Mind’",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-putin-alaska-meeting.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-12-14-02-00 +0000",
     "source": "wsj",
     "headline": "Consumer prices were up 2.7% in July from a year earlier, holding steady with June’s gain",
     "link": "https://www.wsj.com/economy/cpi-inflation-july-2025-interest-rate-c9d31b19"
   },
   {
-    "score": 9,
-    "pubdate": "2025-08-12-13-01-04 +0000",
+    "score": 15,
+    "pubdate": "2025-08-12-14-30-45 +0000",
     "source": "nyt",
-    "headline": "India’s Supreme Court Tells New Delhi to Round Up Stray Dogs",
-    "link": "https://www.nytimes.com/2025/08/12/world/asia/india-court-delhi-stray-dogs.html"
+    "headline": "Trump Takes Control of D.C. Police, Citing ‘Bloodthirsty Criminals.’ But Crime Is Down.",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-washington-dc-police.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-08-12-13-03-00 +0000",
-    "source": "wsj",
-    "headline": "CPI Report Today: Stock Futures Gain After Inflation Holds at 2.7% in July",
-    "link": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-08-12-2025?mod=rss_markets_main"
+    "score": 14,
+    "pubdate": "2025-08-12-14-33-07 +0000",
+    "source": "nyt",
+    "headline": "How Rick Perry Became a Fervent Advocate for the Psychedelic Ibogaine",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/rick-perry-drug-psychedelics-ibogaine.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-08-12-13-02-28 +0000",
+    "score": 14,
+    "pubdate": "2025-08-12-14-15-07 +0000",
     "source": "nyt",
     "headline": "As Heat Wave Hits Southern Europe, Wildfires Kill 2",
     "link": "https://www.nytimes.com/2025/08/12/world/europe/heat-wave-europe-france-spain-fires.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-12-14-23-24 +0000",
+    "source": "nyt",
+    "headline": "Philippines Condemns China After South China Sea Collision Captured on Video",
+    "link": "https://www.nytimes.com/2025/08/12/world/asia/south-china-sea-chinese-navy-philippines-collision.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-12-14-15-21 +0000",
+    "source": "nypost",
+    "headline": "French President Emmanuel Macron, his wife hired private eye to dig into Candace Owens: report",
+    "link": "https://nypost.com/2025/08/12/media/emmanuel-macron-wife-hired-private-eye-to-dig-into-candace-owens-report/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-12-14-40-54 +0000",
+    "source": "nyt",
+    "headline": "Trump Names EJ Antoni New BLS Commissioner",
+    "link": "https://www.nytimes.com/2025/08/11/business/economy/trump-bls-commissioner.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-12-14-16-33 +0000",
+    "source": "bbc",
+    "headline": "Israel bombards Gaza City as UK and allies demand action against 'unfolding famine'",
+    "link": "https://www.bbc.com/news/articles/clyj0dd0qj9o?at_medium=RSS&at_campaign=rss"
   }
 ]
