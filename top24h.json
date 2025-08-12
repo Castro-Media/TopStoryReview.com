@@ -1,6 +1,6 @@
 [
   {
-    "score": 230,
+    "score": 227,
     "pubdate": "2025-08-12-01-47-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 84,
+    "score": 78,
     "pubdate": "2025-08-11-21-33-29 +0000",
     "source": "nyt",
     "headline": "Israel-Qatar Tensions Escalate After Israel Kills Al Jazeera Journalists",
@@ -28,18 +28,11 @@
     "link": "https://nypost.com/2025/08/12/us-news/ex-nypd-cop-claims-bill-de-blasio-didnt-like-police-officers-unloads-on-mayors-ex-wife-in-tell-all-memoir/"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-08-11-21-25-43 +0000",
     "source": "bbc",
     "headline": "Trump says he will try to get back territory for Ukraine in talks with Putin",
     "link": "https://www.bbc.com/news/articles/c0e99yqv332o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-08-11-22-47-07 +0000",
-    "source": "nyt",
-    "headline": "New York’s Democratic Governor Called in the Troops Last Year to Fight Subway Crime",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/hochul-national-guard-nyc-subway.html"
   },
   {
     "score": 58,
@@ -49,18 +42,18 @@
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html"
   },
   {
-    "score": 50,
+    "score": 56,
+    "pubdate": "2025-08-11-22-47-07 +0000",
+    "source": "nyt",
+    "headline": "New York’s Democratic Governor Called in the Troops Last Year to Fight Subway Crime",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/hochul-national-guard-nyc-subway.html"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-08-11-19-33-26 +0000",
     "source": "nypost",
     "headline": "Trump extends China tariff deadline for 90 days just hours before truce was set to expire",
     "link": "https://nypost.com/2025/08/11/world-news/trump-extends-china-tariff-deadline-for-90-days-official/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-08-11-22-21-41 +0000",
-    "source": "nyt",
-    "headline": "Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza?",
-    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/al-jazeera-journalists-bios.html"
   },
   {
     "score": 43,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Jellyfish swarm forces French nuclear plant to shut",
     "link": "https://www.bbc.com/news/articles/cx299eyg7qko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-12-08-29-51 +0000",
+    "source": "bbc",
+    "headline": "Scores of bandits killed in air and ground raids, Nigerian military says",
+    "link": "https://www.bbc.com/news/articles/cdd3m679dzro?at_medium=RSS&at_campaign=rss"
   }
 ]
