@@ -1,34 +1,27 @@
 [
   {
-    "score": 214,
+    "score": 198,
     "pubdate": "2025-08-13-02-46-20 +0000",
     "source": "nyt",
     "headline": "Human Rights Report Under Trump Blunts Language on Israel and El Salvador",
     "link": "https://www.nytimes.com/2025/08/12/us/politics/trump-human-rights-israel-saudi-arabia-china.html"
   },
   {
-    "score": 97,
+    "score": 91,
     "pubdate": "2025-08-13-13-19-24 +0000",
     "source": "nypost",
     "headline": "Ukraine says it’s open to US-backed aerial cease-fire with Russia — but doubts Putin will agree",
     "link": "https://nypost.com/2025/08/13/world-news/ukraine-is-open-to-us-backed-aerial-cease-fire-with-russia/"
   },
   {
-    "score": 72,
-    "pubdate": "2025-08-13-16-35-22 +0000",
+    "score": 63,
+    "pubdate": "2025-08-13-04-49-45 +0000",
     "source": "nypost",
-    "headline": "Trump says DC will be ‘beacon’ for other cities after crime crackdown, adds he’ll ask to extend authority over local cops",
-    "link": "https://nypost.com/2025/08/13/us-news/trump-says-dc-will-be-beacon-for-other-cities-after-crime-crackdown-says-hell-likely-ask-to-extend-authority-over-local-cops/"
+    "headline": "National Guard takes to the streets of DC in support of Trump’s crime crackdown: ‘Reporting for duty’",
+    "link": "https://nypost.com/2025/08/13/us-news/national-guard-takes-to-the-streets-of-dc-in-support-of-trumps-crime-crackdown/"
   },
   {
-    "score": 64,
-    "pubdate": "2025-08-13-16-03-42 +0000",
-    "source": "nypost",
-    "headline": "Trump announces George Strait, Sylvester Stallone, Michael Crawford, Gloria Gaynor, and KISS as Kennedy Center honorees",
-    "link": "https://nypost.com/2025/08/13/us-news/trump-announces-george-strait-sylvester-stallone-michael-crawford-gloria-gaynor-and-kiss-as-kennedy-center-honorees/"
-  },
-  {
-    "score": 58,
+    "score": 57,
     "pubdate": "2025-08-12-22-11-37 +0000",
     "source": "nyt",
     "headline": "South Korea’s Ex-First Lady Kim Keon Hee Is Arrested on Corruption Charges",
@@ -42,31 +35,38 @@
     "link": "https://nypost.com/2025/08/13/us-news/sean-duffy-recounts-spat-with-elon-musk-over-cutting-air-traffic-controllers-the-senate-confirmed-me/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-08-13-11-59-40 +0000",
-    "source": "bbc",
-    "headline": "National Guard troops appear in Washington DC as mayor rejects Trump's 'authoritarian push'",
-    "link": "https://www.bbc.com/news/articles/cy7ypm6zxp2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
+    "score": 56,
     "pubdate": "2025-08-12-22-15-48 +0000",
     "source": "cbc",
     "headline": "Video appears to show moment Palestinian activist was killed in West Bank as Israeli settler fires gun",
     "link": "https://www.cbc.ca/news/world/awdah-hathaleen-death-video-1.7607272?cmp=rss"
   },
   {
-    "score": 47,
+    "score": 55,
+    "pubdate": "2025-08-13-17-57-20 +0000",
+    "source": "nypost",
+    "headline": "Trump says he doesn’t believe he can convince Putin to stop bombing Ukrainian civilians, vows ‘severe consequences’ if war doesn’t stop",
+    "link": "https://nypost.com/2025/08/13/us-news/trump-says-he-doesnt-believe-he-can-convince-putin-to-stop-bombing-ukrainian-civilians/"
+  },
+  {
+    "score": 54,
     "pubdate": "2025-08-13-16-25-00 +0000",
     "source": "wsj",
     "headline": "New York Attorney General Letitia James is suing the owner of Zelle for allegedly failing to protect its users from fraud, reviving claims the Trump administration had abandoned",
     "link": "https://www.wsj.com/politics/policy/new-york-attorney-general-picks-up-zelle-lawsuit-abandoned-by-trump-e4ca2acf"
   },
   {
-    "score": 47,
-    "pubdate": "2025-08-12-21-44-03 +0000",
-    "source": "wapo",
-    "headline": "Russian forces advance in Ukraine as Trump tempers outlook for Alaska summit",
-    "link": "https://www.washingtonpost.com/world/2025/08/12/trump-putin-meeting-ukraine-alaska/"
+    "score": 50,
+    "pubdate": "2025-08-13-16-03-42 +0000",
+    "source": "nypost",
+    "headline": "Trump announces George Strait, Sylvester Stallone, Michael Crawford, Gloria Gaynor, and KISS as Kennedy Center honorees",
+    "link": "https://nypost.com/2025/08/13/us-news/trump-announces-george-strait-sylvester-stallone-michael-crawford-gloria-gaynor-and-kiss-as-kennedy-center-honorees/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-08-12-22-05-03 +0000",
+    "source": "bbc",
+    "headline": "Inside Australia's billion-dollar bid to take on China's rare earth dominance",
+    "link": "https://www.bbc.com/news/articles/cgm2z91mvlvo?at_medium=RSS&at_campaign=rss"
   }
 ]
