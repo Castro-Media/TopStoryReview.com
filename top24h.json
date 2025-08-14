@@ -1,31 +1,17 @@
 [
   {
-    "score": 154,
+    "score": 156,
     "pubdate": "2025-08-13-19-04-10 +0000",
     "source": "nyt",
     "headline": "Trump’s Affinity for Putin Will Be Tested at High-Risk Summit in Alaska",
     "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-putin-meeting-russia-ukraine.html"
   },
   {
-    "score": 62,
+    "score": 66,
     "pubdate": "2025-08-13-10-00-00 +0000",
     "source": "nypost",
     "headline": "Sean Duffy opens up on spat with Elon Musk over cutting air traffic controllers on ‘Pod Force One’: ‘The Senate confirmed me’",
     "link": "https://nypost.com/2025/08/13/us-news/sean-duffy-recounts-spat-with-elon-musk-over-cutting-air-traffic-controllers-the-senate-confirmed-me/"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-08-13-16-25-00 +0000",
-    "source": "wsj",
-    "headline": "New York Attorney General Letitia James is suing the owner of Zelle for allegedly failing to protect its users from fraud, reviving claims the Trump administration had abandoned",
-    "link": "https://www.wsj.com/politics/policy/new-york-attorney-general-picks-up-zelle-lawsuit-abandoned-by-trump-e4ca2acf"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-08-14-01-24-16 +0000",
-    "source": "bbc",
-    "headline": "National Guard troops appear in Washington DC as mayor rejects Trump's 'authoritarian push'",
-    "link": "https://www.bbc.com/news/articles/cy7ypm6zxp2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 53,
@@ -35,25 +21,32 @@
     "link": "https://nypost.com/2025/08/13/us-news/trump-announces-george-strait-sylvester-stallone-michael-crawford-gloria-gaynor-and-kiss-as-kennedy-center-honorees/"
   },
   {
-    "score": 48,
-    "pubdate": "2025-08-13-21-56-17 +0000",
-    "source": "nypost",
-    "headline": "NY man harassed slain UnitedHealthcare CEO Brian Thompson’s wife, leaving her vile voicemails night he was allegedly killed by Luigi Mangione: feds",
-    "link": "https://nypost.com/2025/08/13/us-news/ny-man-harassed-slain-ceo-brian-thompsons-mourning-wife-leaving-her-vile-voicemails-night-he-was-allegedly-killed-by-luigi-mangione-feds/"
+    "score": 50,
+    "pubdate": "2025-08-14-01-24-16 +0000",
+    "source": "bbc",
+    "headline": "National Guard troops appear in Washington DC as mayor rejects Trump's 'authoritarian push'",
+    "link": "https://www.bbc.com/news/articles/cy7ypm6zxp2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-08-13-16-25-00 +0000",
+    "source": "wsj",
+    "headline": "New York Attorney General Letitia James is suing the owner of Zelle for allegedly failing to protect its users from fraud, reviving claims the Trump administration had abandoned",
+    "link": "https://www.wsj.com/politics/policy/new-york-attorney-general-picks-up-zelle-lawsuit-abandoned-by-trump-e4ca2acf"
   },
   {
     "score": 44,
-    "pubdate": "2025-08-14-01-13-00 +0000",
-    "source": "wsj",
-    "headline": "A growing number of blue cities and states across the country, from Washington state to Rhode Island, are looking at ways to wring more revenue from their richest taxpayers",
-    "link": "https://www.wsj.com/economy/democratic-states-wealthy-tax-bills-c924b3b5"
+    "pubdate": "2025-08-13-16-40-58 +0000",
+    "source": "nyt",
+    "headline": "Gaza Plan Stokes Tension Between Israel’s Military Chief and Government",
+    "link": "https://www.nytimes.com/2025/08/13/world/middleeast/israel-gaza-plan-military-government-zamir.html"
   },
   {
-    "score": 43,
-    "pubdate": "2025-08-13-17-51-39 +0000",
-    "source": "nyt",
-    "headline": "Zelensky and Other European Leaders Work With Trump on Russia-Ukraine Strategy",
-    "link": "https://www.nytimes.com/2025/08/13/world/europe/trump-europe-ukraine-talks-putin.html"
+    "score": 44,
+    "pubdate": "2025-08-13-23-55-58 +0000",
+    "source": "nypost",
+    "headline": "Declassified emails show James Clapper’s dismissive response to intel community concerns over Russia election interference report",
+    "link": "https://nypost.com/2025/08/13/us-news/emails-show-james-clappers-dismissive-response-to-intel-community-concerns-over-russia-election-interference-report/"
   },
   {
     "score": 43,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-putin-russian-threats.html"
   },
   {
+    "score": 43,
+    "pubdate": "2025-08-14-01-13-00 +0000",
+    "source": "wsj",
+    "headline": "A growing number of blue cities and states across the country, from Washington state to Rhode Island, are looking at ways to wring more revenue from their richest taxpayers",
+    "link": "https://www.wsj.com/economy/democratic-states-wealthy-tax-bills-c924b3b5"
+  },
+  {
     "score": 42,
-    "pubdate": "2025-08-13-16-40-58 +0000",
-    "source": "nyt",
-    "headline": "Gaza Plan Stokes Tension Between Israel’s Military Chief and Government",
-    "link": "https://www.nytimes.com/2025/08/13/world/middleeast/israel-gaza-plan-military-government-zamir.html"
+    "pubdate": "2025-08-13-21-21-44 +0000",
+    "source": "bbc",
+    "headline": "Chemistry on trial: How a professor tried to convince a court she didn't kill her husband",
+    "link": "https://www.bbc.com/news/articles/c0r77qezg09o?at_medium=RSS&at_campaign=rss"
   }
 ]
