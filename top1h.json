@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2025-08-14-20-52-14 +0000",
+    "score": 34,
+    "pubdate": "2025-08-14-22-26-00 +0000",
+    "source": "wsj",
+    "headline": "California Democrats are planning their own redistricting to counter President Trump’s push for a congressional-map shakeup in Texas to create more Republican House seats",
+    "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-08-14-22-41-42 +0000",
     "source": "nyt",
-    "headline": "Newsom Held an Event in L.A. Federal Immigration Agents Showed Up Outside.",
-    "link": "https://www.nytimes.com/2025/08/14/us/newsom-la-immigration-agents.html"
+    "headline": "All National Guard Troops Sent to Washington Are Mobilized, Pentagon Says",
+    "link": "https://www.nytimes.com/2025/08/14/us/politics/national-guard-dc-mobilized.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-14-22-00-32 +0000",
+    "source": "nyt",
+    "headline": "As Trump Seizes D.C.’s Police, Critics Say He’s Undercut Its Ability to Fight Crime",
+    "link": "https://www.nytimes.com/2025/08/14/us/politics/trump-washington-dc-crime-police.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-14-22-48-00 +0000",
+    "source": "nypost",
+    "headline": "Nike co-founder Phil Knight and wife pledge record $2 billion to Oregon cancer center — largest single gift to a US university",
+    "link": "https://nypost.com/2025/08/14/us-news/nike-co-founder-phil-knight-and-wife-pledge-record-2-billion-to-oregon-cancer-center-largest-single-gift-to-a-us-university/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-14-21-56-49 +0000",
+    "source": "startribune",
+    "headline": "Gov. Tim Walz wavering on third term, setting off quiet scramble within DFL",
+    "link": "https://www.startribune.com/gov-tim-walz-wavering-on-third-term-setting-off-quiet-scramble-within-dfl/601454550"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-14-22-31-19 +0000",
+    "source": "nypost",
+    "headline": "Deadly NYC Legionnaires’ disease outbreak traced to 12 sites including cooling tower at Harlem Hospital",
+    "link": "https://nypost.com/2025/08/14/us-news/cooling-tower-at-harlem-hospital-among-12-sites-tied-to-nyc-legionnaires-disease-outbreak-thats-killed-4/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-14-22-33-36 +0000",
+    "source": "nyt",
+    "headline": "Russia and Ukraine Agree: A Trump Summit Is a Big Win for Putin",
+    "link": "https://www.nytimes.com/2025/08/14/world/europe/trump-putin-alaska-summit.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-14-22-22-35 +0000",
+    "source": "nypost",
+    "headline": "The first-ever World Humanoid Robot Games kick off in China: Photos",
+    "link": "https://nypost.com/2025/08/14/tech/the-first-ever-world-humanoid-robot-games-kick-off-in-china-photos/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-14-22-14-21 +0000",
+    "source": "nypost",
+    "headline": "Gov. Newsom confirms California threat to redraw congressional maps as battle with Texas, Trump heats up",
+    "link": "https://nypost.com/2025/08/14/us-news/gov-newsom-confirms-ca-will-redraw-congressional-maps-as-battle-with-texas-heats-up/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-14-21-57-18 +0000",
+    "source": "nypost",
+    "headline": "Drop the beat, not the ball: Trump slams Goldman’s DJing CEO | Reporter Roundtable",
+    "link": "https://nypost.com/video/drop-the-beat-not-the-ball-trump-slams-goldmans-djing-ceo-reporter-roundtable/"
   }
 ]
