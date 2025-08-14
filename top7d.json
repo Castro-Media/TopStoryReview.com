@@ -1,24 +1,17 @@
 [
   {
-    "score": 422,
+    "score": 417,
     "pubdate": "2025-08-11-19-43-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 188,
+    "score": 187,
     "pubdate": "2025-08-10-20-08-00 +0000",
     "source": "wsj",
     "headline": "Israel’s New War Plan Includes Fighting in Gaza’s Central Refugee Camps",
     "link": "https://www.wsj.com/world/middle-east/israels-new-war-plan-includes-fighting-in-gazas-central-refugee-camps-2e0d8ad0"
-  },
-  {
-    "score": 159,
-    "pubdate": "2025-08-13-13-19-24 +0000",
-    "source": "nypost",
-    "headline": "Ukraine says it’s open to US-backed aerial cease-fire with Russia — but doubts Putin will agree",
-    "link": "https://nypost.com/2025/08/13/world-news/ukraine-is-open-to-us-backed-aerial-cease-fire-with-russia/"
   },
   {
     "score": 153,
@@ -28,21 +21,28 @@
     "link": "https://www.wsj.com/politics/national-security/trump-orders-pentagon-to-prepare-to-target-drug-cartels-in-latin-america-d47150c2"
   },
   {
-    "score": 141,
+    "score": 150,
+    "pubdate": "2025-08-13-13-19-24 +0000",
+    "source": "nypost",
+    "headline": "Ukraine says it’s open to US-backed aerial cease-fire with Russia — but doubts Putin will agree",
+    "link": "https://nypost.com/2025/08/13/world-news/ukraine-is-open-to-us-backed-aerial-cease-fire-with-russia/"
+  },
+  {
+    "score": 146,
     "pubdate": "2025-08-12-19-21-00 +0000",
     "source": "wsj",
     "headline": "The State Department released a long-delayed human rights report that escalates criticism of U.S. allies in Europe for perceived restrictions on freedom of expression while cutting sections on LGBTQ rights and government corruption",
     "link": "https://www.wsj.com/politics/policy/state-department-issues-human-rights-report-reflecting-trump-priorities-600d124d"
   },
   {
-    "score": 125,
+    "score": 124,
     "pubdate": "2025-08-12-01-47-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
     "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
   },
   {
-    "score": 111,
+    "score": 113,
     "pubdate": "2025-08-08-15-42-00 +0000",
     "source": "wsj",
     "headline": "Trump’s Fed nominee would add a voice inside the central bank that is explicitly critical of the conventional wisdom around how tariffs might affect inflation and economic growth",
@@ -56,7 +56,7 @@
     "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
   },
   {
-    "score": 84,
+    "score": 87,
     "pubdate": "2025-08-10-10-00-00 +0000",
     "source": "latimes",
     "headline": "Texas, Florida hit with far more ICE arrests than California. But that's not the whole story",
