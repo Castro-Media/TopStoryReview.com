@@ -1,17 +1,10 @@
 [
   {
-    "score": 176,
-    "pubdate": "2025-08-13-02-46-20 +0000",
+    "score": 154,
+    "pubdate": "2025-08-13-19-04-10 +0000",
     "source": "nyt",
-    "headline": "Human Rights Report Under Trump Blunts Language on Israel and El Salvador",
-    "link": "https://www.nytimes.com/2025/08/12/us/politics/trump-human-rights-israel-saudi-arabia-china.html"
-  },
-  {
-    "score": 82,
-    "pubdate": "2025-08-13-13-19-24 +0000",
-    "source": "nypost",
-    "headline": "Ukraine says it’s open to US-backed aerial cease-fire with Russia — but doubts Putin will agree",
-    "link": "https://nypost.com/2025/08/13/world-news/ukraine-is-open-to-us-backed-aerial-cease-fire-with-russia/"
+    "headline": "Trump’s Affinity for Putin Will Be Tested at High-Risk Summit in Alaska",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-putin-meeting-russia-ukraine.html"
   },
   {
     "score": 62,
@@ -21,7 +14,7 @@
     "link": "https://nypost.com/2025/08/13/us-news/sean-duffy-recounts-spat-with-elon-musk-over-cutting-air-traffic-controllers-the-senate-confirmed-me/"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-08-13-16-25-00 +0000",
     "source": "wsj",
     "headline": "New York Attorney General Letitia James is suing the owner of Zelle for allegedly failing to protect its users from fraud, reviving claims the Trump administration had abandoned",
@@ -57,16 +50,23 @@
   },
   {
     "score": 43,
+    "pubdate": "2025-08-13-17-51-39 +0000",
+    "source": "nyt",
+    "headline": "Zelensky and Other European Leaders Work With Trump on Russia-Ukraine Strategy",
+    "link": "https://www.nytimes.com/2025/08/13/world/europe/trump-europe-ukraine-talks-putin.html"
+  },
+  {
+    "score": 43,
     "pubdate": "2025-08-13-23-39-40 +0000",
     "source": "nyt",
     "headline": "After Reassuring Europe, Trump Strikes a Different Tone About Russian Threats",
     "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-putin-russian-threats.html"
   },
   {
-    "score": 40,
-    "pubdate": "2025-08-13-20-50-37 +0000",
+    "score": 42,
+    "pubdate": "2025-08-13-16-40-58 +0000",
     "source": "nyt",
-    "headline": "JD Vance Meets Nigel Farage, Another Right Wing Populist, on Trip to UK",
-    "link": "https://www.nytimes.com/2025/08/13/world/europe/jd-vance-nigel-farage-reform-uk.html"
+    "headline": "Gaza Plan Stokes Tension Between Israel’s Military Chief and Government",
+    "link": "https://www.nytimes.com/2025/08/13/world/middleeast/israel-gaza-plan-military-government-zamir.html"
   }
 ]
