@@ -1,10 +1,10 @@
 [
   {
-    "score": 158,
-    "pubdate": "2025-08-13-19-04-10 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Affinity for Putin Will Be Tested at High-Risk Summit in Alaska",
-    "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-putin-meeting-russia-ukraine.html"
+    "score": 159,
+    "pubdate": "2025-08-13-17-57-20 +0000",
+    "source": "nypost",
+    "headline": "Trump says he doesn’t believe he can convince Putin to stop bombing Ukrainian civilians, vows ‘severe consequences’ if war doesn’t stop",
+    "link": "https://nypost.com/2025/08/13/us-news/trump-says-he-doesnt-believe-he-can-convince-putin-to-stop-bombing-ukrainian-civilians/"
   },
   {
     "score": 69,
@@ -14,11 +14,18 @@
     "link": "https://nypost.com/2025/08/13/us-news/sean-duffy-recounts-spat-with-elon-musk-over-cutting-air-traffic-controllers-the-senate-confirmed-me/"
   },
   {
-    "score": 54,
+    "score": 64,
     "pubdate": "2025-08-14-04-11-33 +0000",
     "source": "nypost",
     "headline": "Ex-police chief warns Chicago cops will get hurt because Mayor Johnson won’t help ICE",
     "link": "https://nypost.com/2025/08/14/us-news/ex-police-chief-warns-chicago-cops-will-get-hurt-because-mayor-johnson-wont-help-ice/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2025-08-13-16-25-00 +0000",
+    "source": "wsj",
+    "headline": "New York Attorney General Letitia James is suing the owner of Zelle for allegedly failing to protect its users from fraud, reviving claims the Trump administration had abandoned",
+    "link": "https://www.wsj.com/politics/policy/new-york-attorney-general-picks-up-zelle-lawsuit-abandoned-by-trump-e4ca2acf"
   },
   {
     "score": 52,
@@ -28,13 +35,6 @@
     "link": "https://nypost.com/2025/08/13/us-news/trump-announces-george-strait-sylvester-stallone-michael-crawford-gloria-gaynor-and-kiss-as-kennedy-center-honorees/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-08-13-16-25-00 +0000",
-    "source": "wsj",
-    "headline": "New York Attorney General Letitia James is suing the owner of Zelle for allegedly failing to protect its users from fraud, reviving claims the Trump administration had abandoned",
-    "link": "https://www.wsj.com/politics/policy/new-york-attorney-general-picks-up-zelle-lawsuit-abandoned-by-trump-e4ca2acf"
-  },
-  {
     "score": 46,
     "pubdate": "2025-08-14-01-13-00 +0000",
     "source": "wsj",
@@ -42,18 +42,25 @@
     "link": "https://www.wsj.com/economy/democratic-states-wealthy-tax-bills-c924b3b5"
   },
   {
-    "score": 46,
-    "pubdate": "2025-08-13-17-57-20 +0000",
+    "score": 44,
+    "pubdate": "2025-08-14-04-49-44 +0000",
     "source": "nypost",
-    "headline": "Trump says he doesn’t believe he can convince Putin to stop bombing Ukrainian civilians, vows ‘severe consequences’ if war doesn’t stop",
-    "link": "https://nypost.com/2025/08/13/us-news/trump-says-he-doesnt-believe-he-can-convince-putin-to-stop-bombing-ukrainian-civilians/"
+    "headline": "Appeals court allows Trump to cut $2 billion in foreign aid",
+    "link": "https://nypost.com/2025/08/14/us-news/appeals-court-allows-trump-to-cut-2-billion-in-foreign-aid/"
   },
   {
     "score": 43,
-    "pubdate": "2025-08-13-23-55-58 +0000",
-    "source": "nypost",
-    "headline": "Declassified emails show James Clapper’s dismissive response to intel community concerns over Russia election interference report",
-    "link": "https://nypost.com/2025/08/13/us-news/emails-show-james-clappers-dismissive-response-to-intel-community-concerns-over-russia-election-interference-report/"
+    "pubdate": "2025-08-13-17-51-40 +0000",
+    "source": "nyt",
+    "headline": "Zelensky and Other European Leaders Work With Trump on Russia-Ukraine Strategy",
+    "link": "https://www.nytimes.com/2025/08/13/world/europe/trump-europe-ukraine-talks-putin.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-13-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "When companies realized they needed to diversify away from China, India was the natural choice. Now, U.S. tariffs threaten that.",
+    "link": "https://www.wsj.com/economy/trade/trumps-tariffs-stymie-indias-bid-to-steal-manufacturing-from-china-d526f0fe"
   },
   {
     "score": 41,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "After Reassuring Europe, Trump Strikes a Different Tone About Russian Threats",
     "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-putin-russian-threats.html"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-08-14-04-49-44 +0000",
-    "source": "nypost",
-    "headline": "Appeals court allows Trump to cut $2 billion in foreign aid",
-    "link": "https://nypost.com/2025/08/14/us-news/appeals-court-allows-trump-to-cut-2-billion-in-foreign-aid/"
   }
 ]
