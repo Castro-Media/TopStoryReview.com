@@ -1,38 +1,31 @@
 [
   {
-    "score": 176,
+    "score": 174,
     "pubdate": "2025-08-14-15-59-01 +0000",
     "source": "nypost",
     "headline": "Trump reveals the odds of Putin summit ending in failure, insisting he’s the only reason Russian dictator agreed to peace talks",
     "link": "https://nypost.com/2025/08/14/us-news/trump-gives-25-chance-of-putin-summit-ending-in-failure/"
   },
   {
-    "score": 59,
+    "score": 57,
     "pubdate": "2025-08-14-05-42-41 +0000",
     "source": "bbc",
     "headline": "New Israeli rules stopping critical aid getting into Gaza, charities say",
     "link": "https://www.bbc.com/news/articles/cj6ynz22871o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-08-14-10-00-00 +0000",
     "source": "nypost",
     "headline": "Ukraine’s kids forced to study online — or underground — as Russia refuses to stop attacking civilians: ‘Like never-ending COVID with bombs’",
     "link": "https://nypost.com/2025/08/14/world-news/ukraines-kids-forced-to-study-online-or-underground-as-russia-refuses-to-stop-attacking-civilians-like-never-ending-covid-with-bombs/"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2025-08-14-16-29-11 +0000",
     "source": "nypost",
     "headline": "DC cops allowed to alert ICE about illegal immigrants during traffic stops in sanctuary city shift",
     "link": "https://nypost.com/2025/08/14/us-news/dc-cops-allowed-to-alert-ice-about-illegal-immigrants-during-traffic-stops-in-sanctuary-city-shift/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-08-14-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "As other Asian countries ramp up manufacturing, the U.S. is snapping up fewer Chinese goods, with China accounting for about 12% of U.S. imports",
-    "link": "https://www.wsj.com/economy/trade/trump-tariffs-china-imports-charts-73f9037c"
   },
   {
     "score": 49,
@@ -42,11 +35,11 @@
     "link": "https://nypost.com/2025/08/14/world-news/tiff-reverses-course-will-ensure-oct-7-doc-is-screened-following-swift-backlash/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-14-16-05-47 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Tariffs Set to Hit Ireland, Where Drugmakers Play Tax Games",
-    "link": "https://www.nytimes.com/2025/08/14/health/pharma-tariffs-ireland-taxes.html"
+    "score": 49,
+    "pubdate": "2025-08-14-13-22-16 +0000",
+    "source": "latimes",
+    "headline": "Hiltzik: Trump's deal with Nvidia puts our national security up for sale to the highest bidder",
+    "link": "https://www.latimes.com/business/story/2025-08-14/trumps-deal-with-nvidia-puts-our-national-security-on-sale-to-the-highest-bidder"
   },
   {
     "score": 44,
@@ -57,16 +50,23 @@
   },
   {
     "score": 43,
+    "pubdate": "2025-08-14-16-05-47 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Tariffs Set to Hit Ireland, Where Drugmakers Play Tax Games",
+    "link": "https://www.nytimes.com/2025/08/14/health/pharma-tariffs-ireland-taxes.html"
+  },
+  {
+    "score": 42,
     "pubdate": "2025-08-13-21-21-44 +0000",
     "source": "bbc",
-    "headline": "Chemistry on trial: How a professor tried to convince a court she didn’t kill her husband",
+    "headline": "Chemistry on trial: How a professor tried to convince a court she didn't kill her husband",
     "link": "https://www.bbc.com/news/articles/c0r77qezg09o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2025-08-14-18-33-53 +0000",
-    "source": "nypost",
-    "headline": "Success Academy Charter students’ test scores were nearly double those of NYC public school peers: data",
-    "link": "https://nypost.com/2025/08/14/us-news/success-academy-charter-students-test-scores-were-nearly-double-those-of-nyc-public-school-peers-data/"
+    "score": 41,
+    "pubdate": "2025-08-13-20-48-49 +0000",
+    "source": "latimes",
+    "headline": "They led police on a wild L.A. car chase, then managed to get away. Who helped them escape?",
+    "link": "https://www.latimes.com/california/story/2025-08-13/carjacking-pursuit"
   }
 ]
