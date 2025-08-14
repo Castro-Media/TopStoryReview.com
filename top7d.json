@@ -7,28 +7,21 @@
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 170,
+    "score": 165,
     "pubdate": "2025-08-14-11-58-04 +0000",
     "source": "nypost",
     "headline": "Russia appears ready to test new missile — even as Putin prepares for Trump talks, researchers warn",
     "link": "https://nypost.com/2025/08/14/world-news/russia-appears-ready-to-test-new-missile-ahead-of-putin-trump-talks/"
   },
   {
-    "score": 148,
-    "pubdate": "2025-08-12-01-47-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he would deploy National Guard troops to Washington, D.C., and place the city’s police department under federal control",
-    "link": "https://www.wsj.com/politics/policy/trump-dc-national-guard-crime-homelessness-89219282"
-  },
-  {
-    "score": 139,
-    "pubdate": "2025-08-10-11-53-29 +0000",
+    "score": 145,
+    "pubdate": "2025-08-13-05-46-11 +0000",
     "source": "bbc",
-    "headline": "Israel protesters intensify pressure against plan to expand Gaza war",
-    "link": "https://www.bbc.com/news/articles/c4ged13jjglo?at_medium=RSS&at_campaign=rss"
+    "headline": "Israel bombards Gaza City as UK and allies demand action against 'unfolding famine'",
+    "link": "https://www.bbc.com/news/articles/clyj0dd0qj9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 117,
+    "score": 122,
     "pubdate": "2025-08-12-19-21-00 +0000",
     "source": "wsj",
     "headline": "The State Department released a long-delayed human rights report that escalates criticism of U.S. allies in Europe for perceived restrictions on freedom of expression while cutting sections on LGBTQ rights and government corruption",
@@ -36,13 +29,13 @@
   },
   {
     "score": 107,
-    "pubdate": "2025-08-12-22-15-48 +0000",
-    "source": "cbc",
-    "headline": "Video appears to show moment Palestinian activist was killed in West Bank as Israeli settler fires gun",
-    "link": "https://www.cbc.ca/news/world/awdah-hathaleen-death-video-1.7607272?cmp=rss"
+    "pubdate": "2025-08-13-16-35-22 +0000",
+    "source": "nypost",
+    "headline": "Trump says DC will be ‘beacon’ for other cities after crime crackdown, adds he’ll ask to extend authority over local cops",
+    "link": "https://nypost.com/2025/08/13/us-news/trump-says-dc-will-be-beacon-for-other-cities-after-crime-crackdown-says-hell-likely-ask-to-extend-authority-over-local-cops/"
   },
   {
-    "score": 102,
+    "score": 107,
     "pubdate": "2025-08-12-10-00-00 +0000",
     "source": "latimes",
     "headline": "Contributor: California must fight Texas' redistricting fire with fire",
@@ -50,23 +43,30 @@
   },
   {
     "score": 100,
-    "pubdate": "2025-08-13-05-25-45 +0000",
-    "source": "cbc",
-    "headline": "Air Canada says it will begin cancelling flights ahead of possible weekend strike",
-    "link": "https://www.cbc.ca/news/business/air-canada-union-strike-notice-1.7607154?cmp=rss"
+    "pubdate": "2025-08-13-01-44-11 +0000",
+    "source": "latimes",
+    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
+    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
   },
   {
-    "score": 93,
+    "score": 94,
     "pubdate": "2025-08-12-21-44-03 +0000",
     "source": "wapo",
     "headline": "Russian forces advance in Ukraine as Trump tempers outlook for Alaska summit",
     "link": "https://www.washingtonpost.com/world/2025/08/12/trump-putin-meeting-ukraine-alaska/"
   },
   {
-    "score": 82,
-    "pubdate": "2025-08-14-16-05-47 +0000",
+    "score": 86,
+    "pubdate": "2025-08-08-16-13-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump has directed the Pentagon to begin preparing options to use military force against Latin American drug cartels, the latest step in the administration’s campaign against the cartels",
+    "link": "https://www.wsj.com/politics/national-security/trump-orders-pentagon-to-prepare-to-target-drug-cartels-in-latin-america-d47150c2"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-08-14-19-55-56 +0000",
     "source": "nyt",
-    "headline": "Trump’s Tariffs Set to Hit Ireland, Where Drugmakers Play Tax Games",
-    "link": "https://www.nytimes.com/2025/08/14/health/pharma-tariffs-ireland-taxes.html"
+    "headline": "Air Canada Cancels Flights Ahead of Possible Flight Attendant Strike",
+    "link": "https://www.nytimes.com/2025/08/14/world/canada/air-canada-flight-attendant-strike-canceled.html"
   }
 ]
