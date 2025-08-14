@@ -1,6 +1,6 @@
 [
   {
-    "score": 377,
+    "score": 373,
     "pubdate": "2025-08-11-19-43-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
@@ -50,17 +50,17 @@
   },
   {
     "score": 96,
-    "pubdate": "2025-08-13-05-25-45 +0000",
-    "source": "cbc",
-    "headline": "Air Canada says it will begin cancelling flights ahead of possible weekend strike",
-    "link": "https://www.cbc.ca/news/business/air-canada-union-strike-notice-1.7607154?cmp=rss"
-  },
-  {
-    "score": 96,
     "pubdate": "2025-08-12-21-44-03 +0000",
     "source": "wapo",
     "headline": "Russian forces advance in Ukraine as Trump tempers outlook for Alaska summit",
     "link": "https://www.washingtonpost.com/world/2025/08/12/trump-putin-meeting-ukraine-alaska/"
+  },
+  {
+    "score": 95,
+    "pubdate": "2025-08-13-05-25-45 +0000",
+    "source": "cbc",
+    "headline": "Air Canada says it will begin cancelling flights ahead of possible weekend strike",
+    "link": "https://www.cbc.ca/news/business/air-canada-union-strike-notice-1.7607154?cmp=rss"
   },
   {
     "score": 89,
