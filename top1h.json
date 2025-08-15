@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2025-08-15-18-53-12 +0000",
+    "score": 24,
+    "pubdate": "2025-08-15-20-23-53 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Trump Lands in Alaska for Summit With Putin",
-    "link": "https://www.nytimes.com/live/2025/08/15/world/trump-putin-meeting-alaska"
+    "headline": "As Trump Meets Putin in Anchorage, Zelensky Condemns Russia’s Continuing Strikes",
+    "link": "https://www.nytimes.com/2025/08/15/world/europe/zelensky-ukraine-strikes-putin.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-08-15-20-28-33 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani endorsed by Queen borough president — who compares socialist to Obama, urges fellow Dems to ‘meet the moment’",
+    "link": "https://nypost.com/2025/08/15/us-news/zohran-mamdani-endorsed-by-queen-borough-president-who-compares-socialist-to-obama/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-15-20-04-42 +0000",
+    "source": "nypost",
+    "headline": "Recently ID’d 9/11 victim remembered by sisters as ‘larger than life’ figure — who inspired one of them to join FDNY",
+    "link": "https://nypost.com/2025/08/15/us-news/recently-idd-9-11-victim-remembered-by-sisters-as-larger-than-life-figure/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-15-20-36-57 +0000",
+    "source": "nyt",
+    "headline": "Mayor LaToya Cantrell of New Orleans Is Indicted on Corruption Charges",
+    "link": "https://www.nytimes.com/2025/08/15/us/new-orleans-mayor-indictment.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-15-20-20-37 +0000",
+    "source": "nypost",
+    "headline": "American Eagle ‘almost paralyzed by body positivity’ before it launched ‘sultry’ Sydney Sweeney ads",
+    "link": "https://nypost.com/2025/08/15/business/american-eagle-almost-paralyzed-by-body-positivity-before-it-launched-sultry-sydney-sweeney-ads/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-15-19-59-12 +0000",
+    "source": "nypost",
+    "headline": "Noem temporarily relocated to military housing after ‘vicious doxxing’ and death threats, DHS says",
+    "link": "https://nypost.com/2025/08/15/us-news/noem-temporarily-relocated-to-military-housing-after-vicious-doxxing-and-death-threats/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-15-20-41-08 +0000",
+    "source": "latimes",
+    "headline": "San Francisco chef speaks out about viral TikTok encounter that ruined his reputation",
+    "link": "https://www.latimes.com/california/story/2025-08-15/san-francisco-chef-viral-tiktok-encounter"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-08-15-20-44-40 +0000",
+    "source": "nypost",
+    "headline": "Alabama execution stays on hold as officials complete court-ordered psychiatric evaluation",
+    "link": "https://nypost.com/2025/08/15/us-news/alabama-execution-stays-on-hold-as-officials-complete-court-ordered-psychiatric-evaluation/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-08-15-20-20-41 +0000",
+    "source": "nyt",
+    "headline": "Frank Savage, 87, Business Leader Entangled in Enron Scandal, Is Dead",
+    "link": "https://www.nytimes.com/2025/08/15/business/frank-savage-dead-at-87.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-08-15-20-44-25 +0000",
+    "source": "cbc",
+    "headline": "Trump's tariff threats inspire an 'Elbows Up' movement in India — minus the hockey",
+    "link": "https://www.cbc.ca/radio/asithappens/india-elbows-up-1.7610229?cmp=rss"
   }
 ]
