@@ -1,59 +1,52 @@
 [
   {
-    "score": 283,
-    "pubdate": "2025-08-15-15-56-47 +0000",
+    "score": 289,
+    "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html"
   },
   {
-    "score": 66,
-    "pubdate": "2025-08-15-12-35-18 +0000",
+    "score": 89,
+    "pubdate": "2025-08-15-20-58-21 +0000",
     "source": "nypost",
-    "headline": "Hillary Clinton admits she would nominate Trump for Nobel Peace Prize if he helps end war in Ukraine",
-    "link": "https://nypost.com/2025/08/15/us-news/hillary-clinton-says-shed-nominate-trump-for-nobel-peace-prize-if-he-helps-end-ukraine-war/"
+    "headline": "Trump reacts to Hillary Clinton saying she’d nominate him for Nobel Peace Prize if he helps end war in Ukraine",
+    "link": "https://nypost.com/2025/08/15/us-news/trump-reacts-to-hillary-clinton-saying-shed-nominate-him-for-nobel-peace-prize-if-he-helps-end-war-in-ukraine/"
   },
   {
-    "score": 65,
+    "score": 61,
     "pubdate": "2025-08-14-22-26-00 +0000",
     "source": "wsj",
     "headline": "California Democrats are planning their own redistricting to counter President Trump’s push for a congressional map shake-up in Texas to create more Republican House seats",
     "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
   },
   {
-    "score": 61,
+    "score": 59,
+    "pubdate": "2025-08-15-18-27-02 +0000",
+    "source": "nypost",
+    "headline": "Feds accuse New Orleans Mayor LaToya Cantrell of defrauding taxpayers to hide ‘intimate relationship’ with her bodyguard",
+    "link": "https://nypost.com/2025/08/15/us-news/mayor-latoya-cantrell-indicted-by-federal-grand-jury-following-lengthy-corruption-investigation/"
+  },
+  {
+    "score": 58,
     "pubdate": "2025-08-15-04-27-14 +0000",
     "source": "nypost",
     "headline": "AG Pam Bondi declares DC ‘will not remain a sanctuary city’ under Trump — cops ‘must’ alert ICE to illegal migrants",
     "link": "https://nypost.com/2025/08/15/us-news/ag-pam-bondi-declares-dc-will-not-remain-a-sanctuary-city-under-trump-cops-must-alert-ice-to-illegal-migrants/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-08-15-17-37-26 +0000",
-    "source": "nypost",
-    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
-    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-08-15-18-27-02 +0000",
-    "source": "nypost",
-    "headline": "New Orleans Mayor LaToya Cantrell indicted by federal grand jury following lengthy corruption investigation.",
-    "link": "https://nypost.com/2025/08/15/us-news/mayor-latoya-cantrell-indicted-by-federal-grand-jury-following-lengthy-corruption-investigation/"
-  },
-  {
-    "score": 50,
+    "score": 52,
     "pubdate": "2025-08-15-13-29-05 +0000",
     "source": "nypost",
     "headline": "Explosion at Russian gunpowder factory kills 5, as fighting continues in Ukraine ahead of Alaska summit",
     "link": "https://nypost.com/2025/08/15/world-news/russian-gunpowder-factory-explosion-kills-5-ahead-of-alaska-summit/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-08-15-19-20-08 +0000",
+    "score": 43,
+    "pubdate": "2025-08-15-17-37-26 +0000",
     "source": "nypost",
-    "headline": "High-ranking Hamas terrorist killed by IDF amid plans for Israel’s takeover of Gaza City",
-    "link": "https://nypost.com/2025/08/15/world-news/hamas-terrorist-killed-by-idf-amid-plans-for-israels-takeover-of-gaza-city/"
+    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
+    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
   },
   {
     "score": 39,
@@ -64,9 +57,16 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-08-15-18-14-15 +0000",
+    "pubdate": "2025-08-15-13-17-38 +0000",
     "source": "nyt",
-    "headline": "China’s Economy Slows Broadly Even as Exports Keep Rising",
-    "link": "https://www.nytimes.com/2025/08/15/business/china-economy-july-tariffs.html"
+    "headline": "Trump’s Tariffs Set to Hit Ireland, Where Drugmakers Play Tax Games",
+    "link": "https://www.nytimes.com/2025/08/14/health/pharma-tariffs-ireland-taxes.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-08-15-19-20-08 +0000",
+    "source": "nypost",
+    "headline": "High-ranking Hamas terrorist killed by IDF amid plans for Israel’s takeover of Gaza City",
+    "link": "https://nypost.com/2025/08/15/world-news/hamas-terrorist-killed-by-idf-amid-plans-for-israels-takeover-of-gaza-city/"
   }
 ]
