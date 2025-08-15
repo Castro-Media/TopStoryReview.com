@@ -1,6 +1,6 @@
 [
   {
-    "score": 295,
+    "score": 284,
     "pubdate": "2025-08-15-15-56-47 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
@@ -14,13 +14,6 @@
     "link": "https://nypost.com/2025/08/15/us-news/hillary-clinton-says-shed-nominate-trump-for-nobel-peace-prize-if-he-helps-end-ukraine-war/"
   },
   {
-    "score": 69,
-    "pubdate": "2025-08-15-04-27-14 +0000",
-    "source": "nypost",
-    "headline": "AG Pam Bondi declares DC ‘will not remain a sanctuary city’ under Trump — cops ‘must’ alert ICE to illegal migrants",
-    "link": "https://nypost.com/2025/08/15/us-news/ag-pam-bondi-declares-dc-will-not-remain-a-sanctuary-city-under-trump-cops-must-alert-ice-to-illegal-migrants/"
-  },
-  {
     "score": 66,
     "pubdate": "2025-08-14-22-26-00 +0000",
     "source": "wsj",
@@ -28,14 +21,21 @@
     "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
   },
   {
-    "score": 55,
+    "score": 66,
+    "pubdate": "2025-08-15-04-27-14 +0000",
+    "source": "nypost",
+    "headline": "AG Pam Bondi declares DC ‘will not remain a sanctuary city’ under Trump — cops ‘must’ alert ICE to illegal migrants",
+    "link": "https://nypost.com/2025/08/15/us-news/ag-pam-bondi-declares-dc-will-not-remain-a-sanctuary-city-under-trump-cops-must-alert-ice-to-illegal-migrants/"
+  },
+  {
+    "score": 53,
     "pubdate": "2025-08-15-17-37-26 +0000",
     "source": "nypost",
     "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
     "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
   },
   {
-    "score": 53,
+    "score": 51,
     "pubdate": "2025-08-15-13-29-05 +0000",
     "source": "nypost",
     "headline": "Explosion at Russian gunpowder factory kills 5, as fighting continues in Ukraine ahead of Alaska summit",
@@ -50,23 +50,23 @@
   },
   {
     "score": 39,
-    "pubdate": "2025-08-15-15-04-55 +0000",
-    "source": "bbc",
-    "headline": "Flash floods kill nearly 200 in Pakistan and Pakistan-administered Kashmir",
-    "link": "https://www.bbc.com/news/articles/cn02g0n2kepo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 39,
     "pubdate": "2025-08-15-18-14-15 +0000",
     "source": "nyt",
     "headline": "China’s Economy Slows Broadly Even as Exports Keep Rising",
     "link": "https://www.nytimes.com/2025/08/15/business/china-economy-july-tariffs.html"
   },
   {
+    "score": 39,
+    "pubdate": "2025-08-15-15-04-55 +0000",
+    "source": "bbc",
+    "headline": "Flash floods kill nearly 200 in Pakistan and Pakistan-administered Kashmir",
+    "link": "https://www.bbc.com/news/articles/cn02g0n2kepo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 38,
-    "pubdate": "2025-08-14-20-31-08 +0000",
+    "pubdate": "2025-08-15-14-42-46 +0000",
     "source": "nypost",
-    "headline": "Intel shares skyrocket following report Trump admin is mulling taking stake in chipmaker",
-    "link": "https://nypost.com/2025/08/14/business/intel-shares-skyrocket-following-report-trump-admin-is-mulling-taking-stake-in-chipmaker/"
+    "headline": "DC sues to block Trump’s ‘unlawful’ takeover of police department as crackdown intensifies",
+    "link": "https://nypost.com/2025/08/15/us-news/dc-sues-to-block-trumps-unlawful-takeover-of-police-department-as-crackdown-intensifies/"
   }
 ]
