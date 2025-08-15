@@ -1,6 +1,6 @@
 [
   {
-    "score": 175,
+    "score": 172,
     "pubdate": "2025-08-15-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the Ukraine war",
@@ -8,10 +8,24 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-08-14-19-36-37 +0000",
-    "source": "bbc",
-    "headline": "Israeli settlement plans will 'bury' idea of Palestinian state, minister says",
-    "link": "https://www.bbc.com/news/articles/ckgdzxpkdd7o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-08-14-20-08-57 +0000",
+    "source": "nyt",
+    "headline": "Plan for Israeli Settlements Advances and Will ‘Bury’ Palestinian Statehood, Minister Vows",
+    "link": "https://www.nytimes.com/2025/08/14/world/middleeast/israel-smotrich-settlements-palestinian-state.html"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-08-14-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "As other Asian countries ramp up manufacturing, the U.S. is snapping up fewer Chinese goods, with China accounting for about 12% of U.S. imports",
+    "link": "https://www.wsj.com/economy/trade/trump-tariffs-china-imports-charts-73f9037c"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-08-14-22-55-34 +0000",
+    "source": "nypost",
+    "headline": "Long Island mom smashes 14-year-old girl in the head with Stanley cup during high school spat with her daughter: cops",
+    "link": "https://nypost.com/2025/08/14/us-news/long-island-mom-charged-with-smashing-14-year-old-girl-in-the-head-during-high-school-spat/"
   },
   {
     "score": 50,
@@ -21,49 +35,35 @@
     "link": "https://www.startribune.com/hennepin-county-grand-jury-indicts-vance-boelter-for-first-degree-murder-adds-animal-cruelty-charge/601454789"
   },
   {
-    "score": 50,
-    "pubdate": "2025-08-14-22-55-34 +0000",
-    "source": "nypost",
-    "headline": "Long Island mom smashes 14-year-old girl in the head with Stanley cup during high school spat with her daughter: cops",
-    "link": "https://nypost.com/2025/08/14/us-news/long-island-mom-charged-with-smashing-14-year-old-girl-in-the-head-during-high-school-spat/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-14-19-55-56 +0000",
-    "source": "nyt",
-    "headline": "Air Canada Cancels Flights Ahead of Possible Flight Attendant Strike",
-    "link": "https://www.nytimes.com/2025/08/14/world/canada/air-canada-flight-attendant-strike-canceled.html"
-  },
-  {
     "score": 48,
-    "pubdate": "2025-08-14-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "Ukraine’s kids forced to study online — or underground — as Russia refuses to stop attacking civilians: ‘Like never-ending COVID with bombs’",
-    "link": "https://nypost.com/2025/08/14/world-news/ukraines-kids-forced-to-study-online-or-underground-as-russia-refuses-to-stop-attacking-civilians-like-never-ending-covid-with-bombs/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-08-14-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "As other Asian countries ramp up manufacturing, the U.S. is snapping up fewer Chinese goods, with China accounting for about 12% of U.S. imports",
-    "link": "https://www.wsj.com/economy/trade/trump-tariffs-china-imports-charts-73f9037c"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-08-14-16-14-35 +0000",
-    "source": "bbc",
-    "headline": "US wholesale prices jump in July as tariffs hit",
-    "link": "https://www.bbc.com/news/articles/cp89ej4jrn9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 44,
     "pubdate": "2025-08-14-15-59-01 +0000",
     "source": "nypost",
     "headline": "Trump reveals the odds of Putin summit ending in failure, insisting he’s the only reason Russian dictator agreed to peace talks",
     "link": "https://nypost.com/2025/08/14/us-news/trump-gives-25-chance-of-putin-summit-ending-in-failure/"
   },
   {
+    "score": 47,
+    "pubdate": "2025-08-14-19-55-56 +0000",
+    "source": "nyt",
+    "headline": "Air Canada Cancels Flights Ahead of Possible Flight Attendant Strike",
+    "link": "https://www.nytimes.com/2025/08/14/world/canada/air-canada-flight-attendant-strike-canceled.html"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-08-14-16-05-47 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Tariffs Set to Hit Ireland, Where Drugmakers Play Tax Games",
+    "link": "https://www.nytimes.com/2025/08/14/health/pharma-tariffs-ireland-taxes.html"
+  },
+  {
     "score": 44,
+    "pubdate": "2025-08-14-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Ukraine’s kids forced to study online — or underground — as Russia refuses to stop attacking civilians: ‘Like never-ending COVID with bombs’",
+    "link": "https://nypost.com/2025/08/14/world-news/ukraines-kids-forced-to-study-online-or-underground-as-russia-refuses-to-stop-attacking-civilians-like-never-ending-covid-with-bombs/"
+  },
+  {
+    "score": 43,
     "pubdate": "2025-08-15-00-24-28 +0000",
     "source": "nyt",
     "headline": "Phil Knight, Ex-Nike Chief, and His Wife Pledge $2 Billion to Oregon Cancer Center",
