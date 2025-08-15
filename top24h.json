@@ -1,6 +1,6 @@
 [
   {
-    "score": 178,
+    "score": 180,
     "pubdate": "2025-08-15-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the war in Ukraine",
@@ -21,14 +21,14 @@
     "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
   },
   {
-    "score": 49,
-    "pubdate": "2025-08-14-11-58-04 +0000",
+    "score": 48,
+    "pubdate": "2025-08-14-10-00-00 +0000",
     "source": "nypost",
-    "headline": "Russia appears ready to test new missile — even as Putin prepares for Trump talks, researchers warn",
-    "link": "https://nypost.com/2025/08/14/world-news/russia-appears-ready-to-test-new-missile-ahead-of-putin-trump-talks/"
+    "headline": "Ukraine’s kids forced to study online — or underground — as Russia refuses to stop attacking civilians: ‘Like never-ending COVID with bombs’",
+    "link": "https://nypost.com/2025/08/14/world-news/ukraines-kids-forced-to-study-online-or-underground-as-russia-refuses-to-stop-attacking-civilians-like-never-ending-covid-with-bombs/"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2025-08-14-16-14-35 +0000",
     "source": "bbc",
     "headline": "US wholesale prices jump in July as tariffs hit",
@@ -40,6 +40,13 @@
     "source": "cbc",
     "headline": "WATCH | Zelenskyy, Starmer meet ahead of Trump, Putin summit in Alaska",
     "link": "https://www.cbc.ca/player/play/9.6867280?cmp=rss"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-08-14-23-11-41 +0000",
+    "source": "startribune",
+    "headline": "New details, charges emerge as Vance Boelter is indicted in state court for first-degree murder",
+    "link": "https://www.startribune.com/hennepin-county-grand-jury-indicts-vance-boelter-for-first-degree-murder-adds-animal-cruelty-charge/601454789"
   },
   {
     "score": 43,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Intel shares skyrocket following report Trump admin is mulling taking stake in chipmaker",
     "link": "https://nypost.com/2025/08/14/business/intel-shares-skyrocket-following-report-trump-admin-is-mulling-taking-stake-in-chipmaker/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-08-14-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Campus patrols, volunteer escorts: Fears of immigration raids cloud LAUSD's first day of school",
-    "link": "https://www.latimes.com/california/story/2025-08-14/l-a-school-year-begins-with-lookouts-for-ice-as-well-as-normal-thrills-jitters"
   }
 ]
