@@ -1,45 +1,45 @@
 [
   {
-    "score": 370,
+    "score": 349,
     "pubdate": "2025-08-16-11-41-01 +0000",
     "source": "nyt",
     "headline": "After Trump-Putin Alaska Summit, Europeans Worry Trump Will Pressure Zelensky",
     "link": "https://www.nytimes.com/2025/08/16/world/europe/putin-trump-alaska-summit-ukraine.html"
   },
   {
-    "score": 92,
+    "score": 97,
     "pubdate": "2025-08-16-01-50-10 +0000",
     "source": "bbc",
     "headline": "No ceasefire, no deal: What summit means for Trump, Putin and Ukraine",
     "link": "https://www.bbc.com/news/articles/clyvd3gkg1po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
+    "score": 55,
+    "pubdate": "2025-08-16-06-31-42 +0000",
+    "source": "wapo",
+    "headline": "Air Canada cancels hundreds of flights as attendants go on strike",
+    "link": "https://www.washingtonpost.com/world/2025/08/16/air-canada-strike-flight-attendants/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-08-15-20-58-21 +0000",
+    "source": "nypost",
+    "headline": "Trump reacts to Hillary Clinton saying she’d nominate him for Nobel Peace Prize if he helps end war in Ukraine",
+    "link": "https://nypost.com/2025/08/15/us-news/trump-reacts-to-hillary-clinton-saying-shed-nominate-him-for-nobel-peace-prize-if-he-helps-end-war-in-ukraine/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-08-15-17-30-16 +0000",
+    "source": "nyt",
+    "headline": "Hours Before Putin Meeting, Trump Calls Belarusian Leader, Kremlin’s Closest Ally",
+    "link": "https://www.nytimes.com/2025/08/15/world/europe/trump-belarus-leader-call-putin.html"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-08-16-01-16-30 +0000",
     "source": "nyt",
     "headline": "D.C. Police Chief Retains Control of City Police After Court Hearing",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/judge-hearing-dc-home-rule.html"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-08-16-00-14-50 +0000",
-    "source": "nypost",
-    "headline": "Putin tries to woo Trump at Alaska meeting, claims he wouldn’t have invaded Ukraine if Biden hadn’t been president",
-    "link": "https://nypost.com/2025/08/15/us-news/putin-tries-to-woo-trump-at-alaska-meeting-claims-he-wouldnt-have-invaded-ukraine-if-biden-hadnt-been-president/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-08-15-17-37-26 +0000",
-    "source": "nypost",
-    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
-    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-16-04-58-18 +0000",
-    "source": "cbc",
-    "headline": "Air Canada flight attendants walk off the job as strike begins",
-    "link": "https://www.cbc.ca/news/business/air-canada-flight-attendants-strike-1.7610441?cmp=rss"
   },
   {
     "score": 44,
@@ -49,11 +49,18 @@
     "link": "https://nypost.com/2025/08/15/us-news/mayor-latoya-cantrell-indicted-by-federal-grand-jury-following-lengthy-corruption-investigation/"
   },
   {
-    "score": 36,
-    "pubdate": "2025-08-16-05-12-25 +0000",
+    "score": 38,
+    "pubdate": "2025-08-15-17-37-26 +0000",
     "source": "nypost",
-    "headline": "California babysitter weeps as she’s sentenced to 100 years in prison for delivering young girls to boyfriend so he could molest them",
-    "link": "https://nypost.com/2025/08/16/us-news/california-babysitter-brittney-mae-lyon-sentenced-to-100-years-prison-for-sexually-abusing-children-with-boyfriend-samuel-cabrera/"
+    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
+    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-08-16-06-45-52 +0000",
+    "source": "nypost",
+    "headline": "Senior, 76, died while trying to meet Meta AI chatbot ‘Big sis Billie’ — which he thought was real woman living in NYC",
+    "link": "https://nypost.com/2025/08/16/us-news/nj-senior-died-trying-to-meet-meta-ai-chatbot-big-sis-billie/"
   },
   {
     "score": 34,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "A $45 Treatment Can Save a Starving Child. US Aid Cuts Have Frozen the Supply",
     "link": "https://www.nytimes.com/2025/08/15/health/hunger-malnutrition-usaid-cuts.html"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-08-16-06-53-55 +0000",
-    "source": "bbc",
-    "headline": "Flash floods kill more than 300 in Pakistan and Pakistan-administered Kashmir",
-    "link": "https://www.bbc.com/news/articles/cn02g0n2kepo?at_medium=RSS&at_campaign=rss"
   }
 ]
