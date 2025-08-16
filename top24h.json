@@ -1,6 +1,6 @@
 [
   {
-    "score": 290,
+    "score": 300,
     "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
@@ -8,31 +8,45 @@
   },
   {
     "score": 87,
-    "pubdate": "2025-08-15-22-45-01 +0000",
-    "source": "startribune",
-    "headline": "Trump and Putin meet for 2 1/2 hours at Alaska summit to discuss possible end to Russia-Ukraine war",
-    "link": "https://www.startribune.com/trump-and-putin-to-meet-in-alaska-for-high-stakes-summit-on-russia-ukraine-war/601455523"
-  },
-  {
-    "score": 62,
     "pubdate": "2025-08-15-20-58-21 +0000",
     "source": "nypost",
     "headline": "Trump reacts to Hillary Clinton saying she’d nominate him for Nobel Peace Prize if he helps end war in Ukraine",
     "link": "https://nypost.com/2025/08/15/us-news/trump-reacts-to-hillary-clinton-saying-shed-nominate-him-for-nobel-peace-prize-if-he-helps-end-war-in-ukraine/"
   },
   {
-    "score": 59,
-    "pubdate": "2025-08-15-04-27-14 +0000",
-    "source": "nypost",
-    "headline": "AG Pam Bondi declares DC ‘will not remain a sanctuary city’ under Trump — cops ‘must’ alert ICE to illegal migrants",
-    "link": "https://nypost.com/2025/08/15/us-news/ag-pam-bondi-declares-dc-will-not-remain-a-sanctuary-city-under-trump-cops-must-alert-ice-to-illegal-migrants/"
+    "score": 63,
+    "pubdate": "2025-08-15-23-12-31 +0000",
+    "source": "nyt",
+    "headline": "D.C. Police Chief Retains Control of City Police After Court Hearing",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/judge-hearing-dc-home-rule.html"
   },
   {
-    "score": 45,
+    "score": 57,
+    "pubdate": "2025-08-15-21-57-52 +0000",
+    "source": "nypost",
+    "headline": "ICE nabs illegal immigrant accused of killing high school sweethearts in drunk driving crash after sanctuary cops let her go: DHS",
+    "link": "https://nypost.com/2025/08/15/us-news/ice-nabs-illegal-immigrant-accused-of-killing-high-school-sweethearts-in-drunk-driving-crash-dhs/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-08-15-07-00-55 +0000",
+    "source": "wapo",
+    "headline": "How Putin, ex-KGB officer, will seek to sway Trump at Alaska summit",
+    "link": "https://www.washingtonpost.com/world/2025/08/15/putin-trump-kgb-charm-summit/"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-08-15-18-27-02 +0000",
     "source": "nypost",
     "headline": "Feds accuse New Orleans Mayor LaToya Cantrell of defrauding taxpayers to hide ‘intimate relationship’ with her bodyguard",
     "link": "https://nypost.com/2025/08/15/us-news/mayor-latoya-cantrell-indicted-by-federal-grand-jury-following-lengthy-corruption-investigation/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-08-15-17-37-26 +0000",
+    "source": "nypost",
+    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
+    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
   },
   {
     "score": 37,
@@ -43,10 +57,10 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-08-15-19-20-08 +0000",
-    "source": "nypost",
-    "headline": "High-ranking Hamas terrorist killed by IDF amid plans for Israel’s takeover of Gaza City",
-    "link": "https://nypost.com/2025/08/15/world-news/hamas-terrorist-killed-by-idf-amid-plans-for-israels-takeover-of-gaza-city/"
+    "pubdate": "2025-08-15-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The nine law firms that promised President Trump they would perform about $1 billion in pro bono work on his favored causes have embraced broad interpretations of what they owe",
+    "link": "https://www.wsj.com/politics/policy/trump-pro-bono-law-firms-1402b772"
   },
   {
     "score": 36,
@@ -54,19 +68,5 @@
     "source": "nyt",
     "headline": "China’s Economy Slows Broadly Even as Exports Keep Rising",
     "link": "https://www.nytimes.com/2025/08/15/business/china-economy-july-tariffs.html"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-08-15-15-48-26 +0000",
-    "source": "nyt",
-    "headline": "A $45 Treatment Can Save a Starving Child. US Aid Cuts Have Frozen the Supply",
-    "link": "https://www.nytimes.com/2025/08/15/health/hunger-malnutrition-usaid-cuts.html"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-08-15-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The nine law firms that promised President Trump they would perform about $1 billion in pro bono work on his favored causes have embraced broad interpretations of what they owe",
-    "link": "https://www.wsj.com/politics/policy/trump-pro-bono-law-firms-1402b772"
   }
 ]
