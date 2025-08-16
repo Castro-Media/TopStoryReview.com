@@ -1,38 +1,31 @@
 [
   {
-    "score": 379,
+    "score": 369,
     "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html"
   },
   {
-    "score": 84,
-    "pubdate": "2025-08-15-06-37-53 +0000",
-    "source": "cbc",
-    "headline": "Trump and Putin end Alaska summit without deal on war in Ukraine",
-    "link": "https://www.cbc.ca/9.6867437?cmp=rss"
+    "score": 79,
+    "pubdate": "2025-08-16-03-36-11 +0000",
+    "source": "nyt",
+    "headline": "At Trump’s Summit, No Deal on Ukraine, and No Consequence for Putin",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukrainians.html"
   },
   {
-    "score": 63,
+    "score": 78,
+    "pubdate": "2025-08-15-12-35-18 +0000",
+    "source": "nypost",
+    "headline": "Hillary Clinton admits she would nominate Trump for Nobel Peace Prize if he helps end war in Ukraine",
+    "link": "https://nypost.com/2025/08/15/us-news/hillary-clinton-says-shed-nominate-trump-for-nobel-peace-prize-if-he-helps-end-ukraine-war/"
+  },
+  {
+    "score": 61,
     "pubdate": "2025-08-16-01-16-30 +0000",
     "source": "nyt",
     "headline": "D.C. Police Chief Retains Control of City Police After Court Hearing",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/judge-hearing-dc-home-rule.html"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-08-15-17-37-26 +0000",
-    "source": "nypost",
-    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
-    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-08-16-05-12-25 +0000",
-    "source": "nypost",
-    "headline": "California babysitter weeps as she’s sentenced to 100 years in prison for delivering young girls to boyfriend so he could molest them",
-    "link": "https://nypost.com/2025/08/16/us-news/california-babysitter-brittney-mae-lyon-sentenced-to-100-years-prison-for-sexually-abusing-children-with-boyfriend-samuel-cabrera/"
   },
   {
     "score": 49,
@@ -42,25 +35,25 @@
     "link": "https://nypost.com/2025/08/15/us-news/mayor-latoya-cantrell-indicted-by-federal-grand-jury-following-lengthy-corruption-investigation/"
   },
   {
-    "score": 45,
-    "pubdate": "2025-08-15-09-37-28 +0000",
-    "source": "nyt",
-    "headline": "The Trauma of Childhood in Gaza: No School, Few Toys, Little Hope",
-    "link": "https://www.nytimes.com/2025/08/15/world/middleeast/gaza-children-school-play.html"
+    "score": 46,
+    "pubdate": "2025-08-15-17-37-26 +0000",
+    "source": "nypost",
+    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
+    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
   },
   {
-    "score": 38,
+    "score": 43,
+    "pubdate": "2025-08-16-00-14-50 +0000",
+    "source": "nypost",
+    "headline": "Putin tries to woo Trump at Alaska meeting, claims he wouldn’t have invaded Ukraine if Biden hadn’t been president",
+    "link": "https://nypost.com/2025/08/15/us-news/putin-tries-to-woo-trump-at-alaska-meeting-claims-he-wouldnt-have-invaded-ukraine-if-biden-hadnt-been-president/"
+  },
+  {
+    "score": 43,
     "pubdate": "2025-08-15-21-57-52 +0000",
     "source": "nypost",
     "headline": "ICE nabs illegal immigrant accused of killing high school sweethearts in drunk driving crash after sanctuary cops let her go: DHS",
     "link": "https://nypost.com/2025/08/15/us-news/ice-nabs-illegal-immigrant-accused-of-killing-high-school-sweethearts-in-drunk-driving-crash-dhs/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2025-08-15-15-04-55 +0000",
-    "source": "bbc",
-    "headline": "Flash floods kill nearly 200 in Pakistan and Pakistan-administered Kashmir",
-    "link": "https://www.bbc.com/news/articles/cn02g0n2kepo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 36,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "My family may be killed if deported, says son of Afghan caught in UK data breach",
     "link": "https://www.bbc.com/news/articles/c776zgj73lpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-08-16-06-53-55 +0000",
+    "source": "bbc",
+    "headline": "Flash floods kill more than 300 in Pakistan and Pakistan-administered Kashmir",
+    "link": "https://www.bbc.com/news/articles/cn02g0n2kepo?at_medium=RSS&at_campaign=rss"
   }
 ]
