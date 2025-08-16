@@ -1,17 +1,17 @@
 [
   {
-    "score": 640,
-    "pubdate": "2025-08-15-15-56-48 +0000",
+    "score": 687,
+    "pubdate": "2025-08-16-11-41-00 +0000",
     "source": "nyt",
-    "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html"
+    "headline": "After Trump-Putin Alaska Summit, Europeans Worry Trump Will Pressure Zelensky",
+    "link": "https://www.nytimes.com/2025/08/16/world/europe/putin-trump-alaska-summit-ukraine.html"
   },
   {
-    "score": 158,
-    "pubdate": "2025-08-10-20-08-00 +0000",
+    "score": 200,
+    "pubdate": "2025-08-15-01-00-00 +0000",
     "source": "wsj",
-    "headline": "Israel’s New War Plan Includes Fighting in Gaza’s Central Refugee Camps",
-    "link": "https://www.wsj.com/world/middle-east/israels-new-war-plan-includes-fighting-in-gazas-central-refugee-camps-2e0d8ad0"
+    "headline": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the war in Ukraine",
+    "link": "https://www.wsj.com/politics/national-security/trump-putin-head-to-high-stakes-alaska-summit-with-clashing-objectives-b380ca64"
   },
   {
     "score": 152,
@@ -21,39 +21,32 @@
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 138,
-    "pubdate": "2025-08-12-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "Russia Has High Hopes for Trump-Putin Summit. Peace Isn’t One of Them.",
-    "link": "https://www.wsj.com/world/russia/trump-putin-meeting-russia-goals-327d4d4c"
-  },
-  {
-    "score": 131,
-    "pubdate": "2025-08-15-04-27-14 +0000",
+    "score": 134,
+    "pubdate": "2025-08-15-19-20-08 +0000",
     "source": "nypost",
-    "headline": "AG Pam Bondi declares DC ‘will not remain a sanctuary city’ under Trump — cops ‘must’ alert ICE to illegal migrants",
-    "link": "https://nypost.com/2025/08/15/us-news/ag-pam-bondi-declares-dc-will-not-remain-a-sanctuary-city-under-trump-cops-must-alert-ice-to-illegal-migrants/"
+    "headline": "High-ranking Hamas terrorist killed by IDF amid plans for Israel’s takeover of Gaza City",
+    "link": "https://nypost.com/2025/08/15/world-news/hamas-terrorist-killed-by-idf-amid-plans-for-israels-takeover-of-gaza-city/"
   },
   {
-    "score": 112,
-    "pubdate": "2025-08-14-22-26-00 +0000",
-    "source": "wsj",
-    "headline": "California Democrats are planning their own redistricting to counter President Trump’s push for a congressional map shake-up in Texas to create more Republican House seats",
-    "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
+    "score": 120,
+    "pubdate": "2025-08-13-19-44-45 +0000",
+    "source": "latimes",
+    "headline": "California's burger wars heat up as Habit Burger & Grill trolls In-N-Out with new billboard",
+    "link": "https://www.latimes.com/business/story/2025-08-13/californias-burger-wars-heat-up-as-the-habit-burger-grill-escalates-billboard-battle-with-in-n-out"
   },
   {
-    "score": 99,
+    "score": 103,
+    "pubdate": "2025-08-15-17-37-26 +0000",
+    "source": "nypost",
+    "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
+    "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
+  },
+  {
+    "score": 98,
     "pubdate": "2025-08-16-01-16-30 +0000",
     "source": "nyt",
     "headline": "D.C. Police Chief Retains Control of City Police After Court Hearing",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/judge-hearing-dc-home-rule.html"
-  },
-  {
-    "score": 93,
-    "pubdate": "2025-08-13-01-44-11 +0000",
-    "source": "latimes",
-    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
-    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
   },
   {
     "score": 92,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/08/14/world/canada/air-canada-flight-attendant-strike-canceled.html"
   },
   {
-    "score": 85,
+    "score": 91,
     "pubdate": "2025-08-16-01-50-10 +0000",
     "source": "bbc",
     "headline": "No ceasefire, no deal: What summit means for Trump, Putin and Ukraine",
     "link": "https://www.bbc.com/news/articles/clyvd3gkg1po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-08-14-09-54-25 +0000",
+    "source": "bbc",
+    "headline": "Are latest UK growth figures good or bad news for the economy?",
+    "link": "https://www.bbc.com/news/articles/c5yp48jprg8o?at_medium=RSS&at_campaign=rss"
   }
 ]
