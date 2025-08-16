@@ -1,13 +1,13 @@
 [
   {
-    "score": 686,
+    "score": 675,
     "pubdate": "2025-08-16-11-41-01 +0000",
     "source": "nyt",
     "headline": "After Trump-Putin Alaska Summit, Europeans Worry Trump Will Pressure Zelensky",
     "link": "https://www.nytimes.com/2025/08/16/world/europe/putin-trump-alaska-summit-ukraine.html"
   },
   {
-    "score": 200,
+    "score": 198,
     "pubdate": "2025-08-15-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the war in Ukraine",
@@ -21,18 +21,25 @@
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 131,
-    "pubdate": "2025-08-15-19-20-08 +0000",
-    "source": "nypost",
-    "headline": "High-ranking Hamas terrorist killed by IDF amid plans for Israel’s takeover of Gaza City",
-    "link": "https://nypost.com/2025/08/15/world-news/hamas-terrorist-killed-by-idf-amid-plans-for-israels-takeover-of-gaza-city/"
+    "score": 132,
+    "pubdate": "2025-08-10-20-08-00 +0000",
+    "source": "wsj",
+    "headline": "Israel’s New War Plan Includes Fighting in Gaza’s Central Refugee Camps",
+    "link": "https://www.wsj.com/world/middle-east/israels-new-war-plan-includes-fighting-in-gazas-central-refugee-camps-2e0d8ad0"
   },
   {
-    "score": 120,
-    "pubdate": "2025-08-13-19-44-45 +0000",
+    "score": 111,
+    "pubdate": "2025-08-16-01-16-30 +0000",
+    "source": "nyt",
+    "headline": "D.C. Police Chief Retains Control of City Police After Court Hearing",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/judge-hearing-dc-home-rule.html"
+  },
+  {
+    "score": 106,
+    "pubdate": "2025-08-12-10-00-00 +0000",
     "source": "latimes",
-    "headline": "California's burger wars heat up as Habit Burger & Grill trolls In-N-Out with new billboard",
-    "link": "https://www.latimes.com/business/story/2025-08-13/californias-burger-wars-heat-up-as-the-habit-burger-grill-escalates-billboard-battle-with-in-n-out"
+    "headline": "Contributor: California must fight Texas' redistricting fire with fire",
+    "link": "https://www.latimes.com/opinion/story/2025-08-12/california-texas-redistricting-gavin-newsom"
   },
   {
     "score": 103,
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2025/08/15/world-news/ukraines-first-lady-demands-return-of-kidnapped-children-as-peace-terms-with-russia-are-considered/"
   },
   {
-    "score": 98,
-    "pubdate": "2025-08-16-01-16-30 +0000",
-    "source": "nyt",
-    "headline": "D.C. Police Chief Retains Control of City Police After Court Hearing",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/judge-hearing-dc-home-rule.html"
-  },
-  {
-    "score": 95,
+    "score": 102,
     "pubdate": "2025-08-14-19-55-56 +0000",
     "source": "nyt",
     "headline": "Air Canada Cancels Flights Ahead of Possible Flight Attendant Strike",
     "link": "https://www.nytimes.com/2025/08/14/world/canada/air-canada-flight-attendant-strike-canceled.html"
   },
   {
-    "score": 93,
+    "score": 97,
     "pubdate": "2025-08-16-01-50-10 +0000",
     "source": "bbc",
     "headline": "No ceasefire, no deal: What summit means for Trump, Putin and Ukraine",
     "link": "https://www.bbc.com/news/articles/clyvd3gkg1po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 84,
-    "pubdate": "2025-08-14-09-54-25 +0000",
-    "source": "bbc",
-    "headline": "Are latest UK growth figures good or bad news for the economy?",
-    "link": "https://www.bbc.com/news/articles/c5yp48jprg8o?at_medium=RSS&at_campaign=rss"
+    "score": 94,
+    "pubdate": "2025-08-13-01-44-11 +0000",
+    "source": "latimes",
+    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
+    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
   }
 ]
