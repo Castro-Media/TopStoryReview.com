@@ -1,24 +1,38 @@
 [
   {
-    "score": 259,
+    "score": 301,
     "pubdate": "2025-08-16-01-50-10 +0000",
     "source": "bbc",
     "headline": "No ceasefire, no deal: What summit means for Trump, Putin and Ukraine",
     "link": "https://www.bbc.com/news/articles/clyvd3gkg1po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 83,
+    "score": 87,
     "pubdate": "2025-08-16-20-15-27 +0000",
     "source": "wapo",
     "headline": "Canada orders Air Canada flight attendants back to work, ending strike",
     "link": "https://www.washingtonpost.com/world/2025/08/16/air-canada-strike-flight-attendants/"
   },
   {
-    "score": 56,
+    "score": 63,
     "pubdate": "2025-08-16-00-14-50 +0000",
     "source": "nypost",
     "headline": "Putin tries to woo Trump at Alaska meeting, claims he wouldn’t have invaded Ukraine if Biden hadn’t been president",
     "link": "https://nypost.com/2025/08/15/us-news/putin-tries-to-woo-trump-at-alaska-meeting-claims-he-wouldnt-have-invaded-ukraine-if-biden-hadnt-been-president/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-08-16-21-22-09 +0000",
+    "source": "nyt",
+    "headline": "Trump Backs Off Cease-Fire Demand in Ukraine War, Aligning With Putin",
+    "link": "https://www.nytimes.com/2025/08/16/world/europe/trump-putin-ukraine-ceasefire-peace-deal.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-08-16-16-37-41 +0000",
+    "source": "nypost",
+    "headline": "Zelensky warns Putin will step up attacks on Ukraine, as strongman tries to gain leverage in peace talks",
+    "link": "https://nypost.com/2025/08/16/world-news/zelensky-warns-putin-will-step-up-attacks-on-ukraine-in-wake-of-summit/"
   },
   {
     "score": 45,
@@ -28,25 +42,18 @@
     "link": "https://www.nytimes.com/2025/08/16/us/politics/national-guard-detained-man.html"
   },
   {
-    "score": 43,
-    "pubdate": "2025-08-16-16-37-41 +0000",
-    "source": "nypost",
-    "headline": "Zelensky warns Putin will step up attacks on Ukraine, as strongman tries to gain leverage in peace talks",
-    "link": "https://nypost.com/2025/08/16/world-news/zelensky-warns-putin-will-step-up-attacks-on-ukraine-in-wake-of-summit/"
-  },
-  {
-    "score": 38,
+    "score": 40,
     "pubdate": "2025-08-15-23-06-54 +0000",
     "source": "bbc",
     "headline": "'Bus fares have cut my food budget': Under-22s on what free travel would mean to them",
     "link": "https://www.bbc.com/news/articles/c70xjj8746wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2025-08-16-16-14-01 +0000",
+    "score": 34,
+    "pubdate": "2025-08-16-19-29-45 +0000",
     "source": "nypost",
-    "headline": "NYC cops battle raging fire to save residents, dog in Coney Island",
-    "link": "https://nypost.com/2025/08/16/us-news/nyc-cops-battle-flames-to-save-residents-barking-dog-in-coney-island/"
+    "headline": "Body language expert reveals ‘little battle’ during Trump-Putin handshake at Alaska summit: ‘Let go, I’m winning’",
+    "link": "https://nypost.com/2025/08/16/world-news/body-language-expert-reveals-trump-putin-dynamic-during-farewell-at-alaska-summit/"
   },
   {
     "score": 33,
@@ -57,16 +64,9 @@
   },
   {
     "score": 32,
-    "pubdate": "2025-08-16-19-29-45 +0000",
+    "pubdate": "2025-08-16-19-41-53 +0000",
     "source": "nypost",
-    "headline": "Body language expert reveals ‘little battle’ during Trump-Putin handshake at Alaska summit: ‘Let go, I’m winning’",
-    "link": "https://nypost.com/2025/08/16/world-news/body-language-expert-reveals-trump-putin-dynamic-during-farewell-at-alaska-summit/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2025-08-16-19-28-35 +0000",
-    "source": "bbc",
-    "headline": "Government moves to end Air Canada strike, ordering both sides to bargaining table",
-    "link": "https://www.bbc.com/news/articles/cwyex8489gno?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump’s efforts at Alaska summit applauded by world leaders, while Russia rejoices at no longer being world’s pariah: ‘A glimmer of hope has finally opened’",
+    "link": "https://nypost.com/2025/08/16/world-news/trumps-efforts-at-alaska-summit-applauded-by-world-leaders/"
   }
 ]
