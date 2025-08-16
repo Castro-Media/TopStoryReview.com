@@ -1,34 +1,41 @@
 [
   {
-    "score": 314,
+    "score": 346,
     "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html"
   },
   {
-    "score": 85,
-    "pubdate": "2025-08-15-20-58-21 +0000",
+    "score": 75,
+    "pubdate": "2025-08-15-12-35-18 +0000",
     "source": "nypost",
-    "headline": "Trump reacts to Hillary Clinton saying she’d nominate him for Nobel Peace Prize if he helps end war in Ukraine",
-    "link": "https://nypost.com/2025/08/15/us-news/trump-reacts-to-hillary-clinton-saying-shed-nominate-him-for-nobel-peace-prize-if-he-helps-end-war-in-ukraine/"
+    "headline": "Hillary Clinton admits she would nominate Trump for Nobel Peace Prize if he helps end war in Ukraine",
+    "link": "https://nypost.com/2025/08/15/us-news/hillary-clinton-says-shed-nominate-trump-for-nobel-peace-prize-if-he-helps-end-ukraine-war/"
   },
   {
     "score": 61,
-    "pubdate": "2025-08-15-23-12-31 +0000",
+    "pubdate": "2025-08-16-01-16-29 +0000",
     "source": "nyt",
     "headline": "D.C. Police Chief Retains Control of City Police After Court Hearing",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/judge-hearing-dc-home-rule.html"
   },
   {
-    "score": 56,
+    "score": 59,
+    "pubdate": "2025-08-16-02-11-00 +0000",
+    "source": "nyt",
+    "headline": "Trump and Putin Put on a Show in Summit, but No Ukraine Deal Emerges",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-alaska-ukraine.html"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-08-15-04-27-14 +0000",
     "source": "nypost",
     "headline": "AG Pam Bondi declares DC ‘will not remain a sanctuary city’ under Trump — cops ‘must’ alert ICE to illegal migrants",
     "link": "https://nypost.com/2025/08/15/us-news/ag-pam-bondi-declares-dc-will-not-remain-a-sanctuary-city-under-trump-cops-must-alert-ice-to-illegal-migrants/"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2025-08-15-18-27-02 +0000",
     "source": "nypost",
     "headline": "Feds accuse New Orleans Mayor LaToya Cantrell of defrauding taxpayers to hide ‘intimate relationship’ with her bodyguard",
@@ -36,13 +43,6 @@
   },
   {
     "score": 48,
-    "pubdate": "2025-08-15-13-29-05 +0000",
-    "source": "nypost",
-    "headline": "Explosion at Russian gunpowder factory kills 5, as fighting continues in Ukraine ahead of Alaska summit",
-    "link": "https://nypost.com/2025/08/15/world-news/russian-gunpowder-factory-explosion-kills-5-ahead-of-alaska-summit/"
-  },
-  {
-    "score": 47,
     "pubdate": "2025-08-15-17-37-26 +0000",
     "source": "nypost",
     "headline": "Ukraine’s first lady demands return of thousands of kidnapped children as peace terms with Russia are considered",
@@ -56,17 +56,17 @@
     "link": "https://www.bbc.com/news/articles/cn02g0n2kepo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 35,
+    "pubdate": "2025-08-16-00-14-50 +0000",
+    "source": "nypost",
+    "headline": "Putin tries to woo Trump at Alaska meeting, claims he wouldn’t have invaded Ukraine if Biden hadn’t been president",
+    "link": "https://nypost.com/2025/08/15/us-news/putin-tries-to-woo-trump-at-alaska-meeting-claims-he-wouldnt-have-invaded-ukraine-if-biden-hadnt-been-president/"
+  },
+  {
     "score": 34,
     "pubdate": "2025-08-16-00-06-59 +0000",
     "source": "nyt",
     "headline": "A $45 Treatment Can Save a Starving Child. US Aid Cuts Have Frozen the Supply",
     "link": "https://www.nytimes.com/2025/08/15/health/hunger-malnutrition-usaid-cuts.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-08-15-18-14-15 +0000",
-    "source": "nyt",
-    "headline": "China’s Economy Slows Broadly Even as Exports Keep Rising",
-    "link": "https://www.nytimes.com/2025/08/15/business/china-economy-july-tariffs.html"
   }
 ]
