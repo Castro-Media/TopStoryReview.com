@@ -1,13 +1,13 @@
 [
   {
-    "score": 136,
+    "score": 122,
     "pubdate": "2025-08-17-01-10-58 +0000",
     "source": "nypost",
     "headline": "First Lady Melania Trump calls for end to war in Ukraine in ‘peace letter’ hand-delivered to Putin by the president",
     "link": "https://nypost.com/2025/08/16/world-news/first-lady-melania-trump-calls-for-end-to-war-in-ukraine-in-peace-letter-hand-delivered-to-putin-by-the-president-report/"
   },
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2025-08-17-12-18-22 +0000",
     "source": "nypost",
     "headline": "European leaders, NATO boss will back up Zelensky at White House meeting with Trump",
@@ -21,21 +21,14 @@
     "link": "https://nypost.com/2025/08/17/us-news/more-than-700-national-guard-troops-from-3-gop-led-states-will-be-deployed-to-dc-to-bolster-trump-crackdown/"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2025-08-17-15-40-16 +0000",
     "source": "nyt",
     "headline": "Ukrainians Fleeing Russia’s Attacks Say the Alaska Summit Was an Insult",
     "link": "https://www.nytimes.com/2025/08/17/world/europe/ukraine-evacuation-donetsk.html"
   },
   {
-    "score": 40,
-    "pubdate": "2025-08-17-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "News Analysis: Newsom's decision to fight fire with fire could have profound political consequences",
-    "link": "https://www.latimes.com/california/story/2025-08-17/newsoms-decision-to-fight-fire-with-fire-could-have-profound-political-consequences"
-  },
-  {
-    "score": 37,
+    "score": 35,
     "pubdate": "2025-08-17-08-57-49 +0000",
     "source": "bbc",
     "headline": "Palestinians flee IDF attacks on Gaza City as Israelis protest against occupation plan",
@@ -43,10 +36,10 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-08-16-21-33-56 +0000",
-    "source": "nypost",
-    "headline": "Canadian government ends Air Canada strike, imposes binding arbitration",
-    "link": "https://nypost.com/2025/08/16/world-news/canadian-government-ends-air-canada-strike-imposes-binding-arbitration/"
+    "pubdate": "2025-08-17-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "News Analysis: Newsom's decision to fight fire with fire could have profound political consequences",
+    "link": "https://www.latimes.com/california/story/2025-08-17/newsoms-decision-to-fight-fire-with-fire-could-have-profound-political-consequences"
   },
   {
     "score": 32,
@@ -61,6 +54,13 @@
     "source": "bbc",
     "headline": "Protesters target Serbian ruling party offices in fifth night of demonstrations",
     "link": "https://www.bbc.com/news/videos/c3wn7v0gxy4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-08-17-18-31-42 +0000",
+    "source": "bbc",
+    "headline": "Air Canada delays return to flights after union defies government order",
+    "link": "https://www.bbc.com/news/articles/cwyex8489gno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 27,
