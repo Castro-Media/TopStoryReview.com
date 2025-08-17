@@ -1,45 +1,59 @@
 [
   {
-    "score": 122,
+    "score": 123,
     "pubdate": "2025-08-17-01-10-58 +0000",
     "source": "nypost",
     "headline": "First Lady Melania Trump calls for end to war in Ukraine in ‘peace letter’ hand-delivered to Putin by the president",
     "link": "https://nypost.com/2025/08/16/world-news/first-lady-melania-trump-calls-for-end-to-war-in-ukraine-in-peace-letter-hand-delivered-to-putin-by-the-president-report/"
   },
   {
-    "score": 63,
+    "score": 58,
     "pubdate": "2025-08-17-12-18-22 +0000",
     "source": "nypost",
     "headline": "European leaders, NATO boss will back up Zelensky at White House meeting with Trump",
     "link": "https://nypost.com/2025/08/17/world-news/european-leaders-to-join-zelensky-for-white-house-meeting-with-trump/"
   },
   {
-    "score": 48,
-    "pubdate": "2025-08-17-15-34-03 +0000",
-    "source": "nypost",
-    "headline": "More than 700 National Guard troops from 3 GOP-led states will be deployed to DC to bolster Trump crackdown",
-    "link": "https://nypost.com/2025/08/17/us-news/more-than-700-national-guard-troops-from-3-gop-led-states-will-be-deployed-to-dc-to-bolster-trump-crackdown/"
+    "score": 45,
+    "pubdate": "2025-08-17-17-34-40 +0000",
+    "source": "nyt",
+    "headline": "Protesters Against National Guard Deployment Flood D.C. Streets",
+    "link": "https://www.nytimes.com/2025/08/16/us/politics/washington-dc-national-guard-protest.html"
   },
   {
-    "score": 45,
+    "score": 42,
     "pubdate": "2025-08-17-15-40-16 +0000",
     "source": "nyt",
     "headline": "Ukrainians Fleeing Russia’s Attacks Say the Alaska Summit Was an Insult",
     "link": "https://www.nytimes.com/2025/08/17/world/europe/ukraine-evacuation-donetsk.html"
   },
   {
-    "score": 35,
-    "pubdate": "2025-08-17-08-57-49 +0000",
-    "source": "bbc",
-    "headline": "Palestinians flee IDF attacks on Gaza City as Israelis protest against occupation plan",
-    "link": "https://www.bbc.com/news/articles/c2018wx3zlgo?at_medium=RSS&at_campaign=rss"
+    "score": 41,
+    "pubdate": "2025-08-17-21-57-52 +0000",
+    "source": "nypost",
+    "headline": "Air Canada delays restart after flight attendants strike — despite order to return",
+    "link": "https://nypost.com/2025/08/17/business/air-canada-delays-restart-after-flight-attendants-strike-despite-order-to-return/"
   },
   {
-    "score": 35,
+    "score": 39,
+    "pubdate": "2025-08-17-21-45-24 +0000",
+    "source": "nypost",
+    "headline": "New Yorkers fighting against massive battery storage plants find new ally in EPA chief Lee Zeldin",
+    "link": "https://nypost.com/2025/08/17/us-news/new-yorkers-fighting-against-massive-battery-storage-plants-find-new-ally-in-epa-chief-lee-zeldin/"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-08-17-10-00-00 +0000",
     "source": "latimes",
     "headline": "News Analysis: Newsom's decision to fight fire with fire could have profound political consequences",
     "link": "https://www.latimes.com/california/story/2025-08-17/newsoms-decision-to-fight-fire-with-fire-could-have-profound-political-consequences"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-08-17-20-28-09 +0000",
+    "source": "nypost",
+    "headline": "Mayor Adams slams Mamdani for wanting to decriminalize prostitution: ‘Don’t know where in his Quran it states that it’s OK’",
+    "link": "https://nypost.com/2025/08/17/us-news/mayor-adams-slams-mamdani-for-wanting-to-decriminalize-prostitution/"
   },
   {
     "score": 32,
@@ -49,24 +63,10 @@
     "link": "https://www.nytimes.com/2025/08/16/us/politics/gaza-visitor-visas-medical-trump-loomer.html"
   },
   {
-    "score": 31,
-    "pubdate": "2025-08-17-01-56-59 +0000",
-    "source": "bbc",
-    "headline": "Protesters target Serbian ruling party offices in fifth night of demonstrations",
-    "link": "https://www.bbc.com/news/videos/c3wn7v0gxy4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 28,
-    "pubdate": "2025-08-17-18-31-42 +0000",
-    "source": "bbc",
-    "headline": "Air Canada delays return to flights after union defies government order",
-    "link": "https://www.bbc.com/news/articles/cwyex8489gno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-08-17-20-28-09 +0000",
-    "source": "nypost",
-    "headline": "Mayor Adams slams Mamdani for wanting to decriminalize prostitution: ‘Don’t know where in his Quran it states that it’s OK’",
-    "link": "https://nypost.com/2025/08/17/us-news/mayor-adams-slams-mamdani-for-wanting-to-decriminalize-prostitution/"
+    "score": 30,
+    "pubdate": "2025-08-17-21-11-43 +0000",
+    "source": "wapo",
+    "headline": "Mass protests erupt in Israel as IDF readies plans to occupy Gaza City",
+    "link": "https://www.washingtonpost.com/world/2025/08/17/israel-protests-gaza-occupation/"
   }
 ]
