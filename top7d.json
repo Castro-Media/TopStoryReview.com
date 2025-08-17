@@ -1,20 +1,20 @@
 [
   {
-    "score": 680,
+    "score": 671,
     "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html"
   },
   {
-    "score": 161,
+    "score": 159,
     "pubdate": "2025-08-16-19-41-53 +0000",
     "source": "nypost",
     "headline": "Trump’s efforts at Alaska summit applauded by world leaders, while Russia rejoices at no longer being world’s pariah: ‘A glimmer of hope has finally opened’",
     "link": "https://nypost.com/2025/08/16/world-news/trumps-efforts-at-alaska-summit-applauded-by-world-leaders/"
   },
   {
-    "score": 156,
+    "score": 158,
     "pubdate": "2025-08-11-19-43-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
@@ -28,14 +28,14 @@
     "link": "https://www.cbc.ca/news/politics/air-canada-operations-suspended-flight-attendants-strike-1.7610916?cmp=rss"
   },
   {
-    "score": 124,
-    "pubdate": "2025-08-16-21-07-31 +0000",
-    "source": "nypost",
-    "headline": "Netanyahu says Gaza City will be sacked unless Hamas agrees to all of Israel’s demands",
-    "link": "https://nypost.com/2025/08/16/world-news/netanyahu-says-gaza-city-will-be-sacked-unless-hamas-agrees-to-all-of-israels-demands/"
+    "score": 126,
+    "pubdate": "2025-08-10-11-53-29 +0000",
+    "source": "bbc",
+    "headline": "Israel protesters intensify pressure against plan to expand Gaza war",
+    "link": "https://www.bbc.com/news/articles/c4ged13jjglo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 116,
+    "score": 115,
     "pubdate": "2025-08-15-09-30-00 +0000",
     "source": "wsj",
     "headline": "Tariffs haven’t caused inflation to surge as much as some economists expected. New research suggests that is because actual tariffs paid are lower than stated rates.",
@@ -43,17 +43,10 @@
   },
   {
     "score": 111,
-    "pubdate": "2025-08-15-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the war in Ukraine",
-    "link": "https://www.wsj.com/politics/national-security/trump-putin-head-to-high-stakes-alaska-summit-with-clashing-objectives-b380ca64"
-  },
-  {
-    "score": 88,
-    "pubdate": "2025-08-13-01-44-11 +0000",
-    "source": "latimes",
-    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
-    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
+    "pubdate": "2025-08-16-18-22-58 +0000",
+    "source": "nypost",
+    "headline": "Trump reveals Xi Jinping told him China will not invade Taiwan while he’s US president",
+    "link": "https://nypost.com/2025/08/16/us-news/trump-says-xi-told-him-china-will-not-invade-taiwan-while-hes-us-president/"
   },
   {
     "score": 87,
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
   },
   {
-    "score": 78,
-    "pubdate": "2025-08-16-22-11-19 +0000",
-    "source": "nypost",
-    "headline": "BB gun-wielding man fatally shot by off-duty cop on Staten Island had at least 22 prior arrests: police sources",
-    "link": "https://nypost.com/2025/08/16/us-news/bb-gun-wielding-man-fatally-shot-by-off-duty-cop-on-staten-island-had-at-least-22-prior-arrests-police-sources/"
+    "score": 85,
+    "pubdate": "2025-08-13-01-44-11 +0000",
+    "source": "latimes",
+    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
+    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
+  },
+  {
+    "score": 77,
+    "pubdate": "2025-08-14-09-54-25 +0000",
+    "source": "bbc",
+    "headline": "Are latest UK growth figures good or bad news for the economy?",
+    "link": "https://www.bbc.com/news/articles/c5yp48jprg8o?at_medium=RSS&at_campaign=rss"
   }
 ]
