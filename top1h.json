@@ -1,37 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2025-08-17-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "As Republicans try to tout Trump’s biggest legislative accomplishment of his second term, they are treading carefully, aware that the law is unpopular in some corners",
-    "link": "https://www.wsj.com/politics/policy/republicans-promote-the-big-beautiful-bill-with-care-61c28ddb"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-08-17-12-55-22 +0000",
-    "source": "nypost",
-    "headline": "Migrant allegedly scalded baby with hot coffee in sickening random attack after visa application was rejected",
-    "link": "https://nypost.com/2025/08/17/world-news/migrant-allegedly-attacked-baby-after-visa-application-rejection/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-08-17-12-55-13 +0000",
+    "score": 35,
+    "pubdate": "2025-08-17-14-39-25 +0000",
     "source": "nyt",
-    "headline": "Israelis Join Nationwide Rallies to Call for Release of Hostages",
-    "link": "https://www.nytimes.com/2025/08/17/world/middleeast/israel-rallies-labor-strike.html"
+    "headline": "Trump Administration Live Updates: European Leaders to Join Zelensky for White House Meeting",
+    "link": "https://www.nytimes.com/live/2025/08/17/us/trump-news"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-08-17-14-39-33 +0000",
+    "source": "nypost",
+    "headline": "Putin agreed to NATO-style US security guarantees for Ukraine at Alaska summit, Witkoff says",
+    "link": "https://nypost.com/2025/08/17/us-news/putin-agreed-to-nato-style-us-security-guarantees-for-ukraine-at-alaska-summit-witkoff-says/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-08-17-14-21-19 +0000",
+    "source": "nypost",
+    "headline": "Disgraced ex-Rep. Anthony Weiner makes blunt prediction about Zohran Mamdani, top Dems in NYC mayoral race: ‘It’s inevitable’",
+    "link": "https://nypost.com/2025/08/17/us-news/disgraced-ex-rep-anthony-weiner-makes-blunt-prediction-about-zohran-mamdani-top-dems-in-nyc-mayoral-race-its-inevitable/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-08-17-14-37-47 +0000",
+    "source": "nypost",
+    "headline": "HUD launches English-only initiative for all department services: ‘Speak with one voice and one language’",
+    "link": "https://nypost.com/2025/08/17/us-news/hud-launches-english-only-initiative-for-all-department-services-speak-with-one-voice-and-one-language/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-17-13-56-46 +0000",
+    "source": "nyt",
+    "headline": "Putin’s Ukraine Proposal Backed by Trump Centers on Donbas. Here’s Why.",
+    "link": "https://www.nytimes.com/2025/08/17/world/europe/russia-donbas-importance.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-17-14-12-48 +0000",
+    "source": "wapo",
+    "headline": "Mass protests erupt in Israel as IDF readies plans to occupy Gaza City",
+    "link": "https://www.washingtonpost.com/world/2025/08/17/israel-protests-gaza-occupation/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-08-17-14-12-38 +0000",
+    "source": "nyt",
+    "headline": "Ukraine Weighs Trump’s Offer of Security Guarantees With Caution",
+    "link": "https://www.nytimes.com/2025/08/17/world/europe/ukraine-security-guarantees-trump-russia.html"
   },
   {
     "score": 3,
-    "pubdate": "2025-08-17-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "See you there!",
-    "link": "https://missionlocal.org/2025/08/sf-photos-see-you-there/"
+    "pubdate": "2025-08-17-14-30-56 +0000",
+    "source": "wapo",
+    "headline": "European, NATO leaders to present united front with Zelensky in Trump meeting",
+    "link": "https://www.washingtonpost.com/world/2025/08/17/trump-zelensky-meeting-europe/"
+  },
+  {
+    "score": 3,
+    "pubdate": "2025-08-17-14-16-00 +0000",
+    "source": "wsj",
+    "headline": "European Leaders to Back Zelensky in Washington, Hoping to Counter Putin",
+    "link": "https://www.wsj.com/world/europe/european-leaders-to-back-zelensky-in-washington-hoping-to-counter-putin-2a82aaa4"
   },
   {
     "score": 0,
-    "pubdate": "2025-08-17-12-55-13 +0000",
-    "source": "nyt",
-    "headline": "Israelis Join Nationwide Rallies to Call for Release of Hostages",
-    "link": "https://www.nytimes.com/2025/08/17/world/middleeast/israel-rallies-labor-strike.html"
+    "pubdate": "2025-08-17-14-39-33 +0000",
+    "source": "nypost",
+    "headline": "Putin agreed to NATO-style US security guarantees for Ukraine at Alaska summit, Witkoff says",
+    "link": "https://nypost.com/2025/08/17/us-news/putin-agreed-to-nato-style-us-security-guarantees-for-ukraine-at-alaska-summit-witkoff-says/"
   }
 ]

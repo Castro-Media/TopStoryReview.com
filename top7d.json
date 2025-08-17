@@ -1,38 +1,38 @@
 [
   {
-    "score": 635,
+    "score": 646,
     "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html"
   },
   {
-    "score": 159,
-    "pubdate": "2025-08-16-19-41-53 +0000",
-    "source": "nypost",
-    "headline": "Trump’s efforts at Alaska summit applauded by world leaders, while Russia rejoices at no longer being world’s pariah: ‘A glimmer of hope has finally opened’",
-    "link": "https://nypost.com/2025/08/16/world-news/trumps-efforts-at-alaska-summit-applauded-by-world-leaders/"
-  },
-  {
-    "score": 157,
+    "score": 162,
     "pubdate": "2025-08-11-19-43-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 124,
-    "pubdate": "2025-08-15-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the war in Ukraine",
-    "link": "https://www.wsj.com/politics/national-security/trump-putin-head-to-high-stakes-alaska-summit-with-clashing-objectives-b380ca64"
+    "score": 161,
+    "pubdate": "2025-08-16-19-41-53 +0000",
+    "source": "nypost",
+    "headline": "Trump’s efforts at Alaska summit applauded by world leaders, while Russia rejoices at no longer being world’s pariah: ‘A glimmer of hope has finally opened’",
+    "link": "https://nypost.com/2025/08/16/world-news/trumps-efforts-at-alaska-summit-applauded-by-world-leaders/"
   },
   {
-    "score": 120,
+    "score": 127,
     "pubdate": "2025-08-16-21-07-31 +0000",
     "source": "nypost",
     "headline": "Netanyahu says Gaza City will be sacked unless Hamas agrees to all of Israel’s demands",
     "link": "https://nypost.com/2025/08/16/world-news/netanyahu-says-gaza-city-will-be-sacked-unless-hamas-agrees-to-all-of-israels-demands/"
+  },
+  {
+    "score": 122,
+    "pubdate": "2025-08-15-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the war in Ukraine",
+    "link": "https://www.wsj.com/politics/national-security/trump-putin-head-to-high-stakes-alaska-summit-with-clashing-objectives-b380ca64"
   },
   {
     "score": 120,
@@ -49,24 +49,24 @@
     "link": "https://www.wsj.com/economy/trade/trump-tariff-inflation-expectations-83d06efa"
   },
   {
-    "score": 86,
-    "pubdate": "2025-08-15-23-06-54 +0000",
-    "source": "bbc",
-    "headline": "'Bus fares have cut my food budget': Under-22s on what free travel would mean to them",
-    "link": "https://www.bbc.com/news/articles/c70xjj8746wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 86,
+    "score": 90,
     "pubdate": "2025-08-14-22-26-00 +0000",
     "source": "wsj",
     "headline": "California Democrats are planning their own redistricting to counter President Trump’s push for a congressional map shake-up in Texas to create more Republican House seats",
     "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
   },
   {
-    "score": 78,
-    "pubdate": "2025-08-14-09-54-25 +0000",
+    "score": 88,
+    "pubdate": "2025-08-17-14-37-47 +0000",
+    "source": "nypost",
+    "headline": "HUD launches English-only initiative for all department services: ‘Speak with one voice and one language’",
+    "link": "https://nypost.com/2025/08/17/us-news/hud-launches-english-only-initiative-for-all-department-services-speak-with-one-voice-and-one-language/"
+  },
+  {
+    "score": 86,
+    "pubdate": "2025-08-15-23-06-54 +0000",
     "source": "bbc",
-    "headline": "Are latest UK growth figures good or bad news for the economy?",
-    "link": "https://www.bbc.com/news/articles/c5yp48jprg8o?at_medium=RSS&at_campaign=rss"
+    "headline": "'Bus fares have cut my food budget': Under-22s on what free travel would mean to them",
+    "link": "https://www.bbc.com/news/articles/c70xjj8746wo?at_medium=RSS&at_campaign=rss"
   }
 ]
