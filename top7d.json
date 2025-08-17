@@ -1,6 +1,6 @@
 [
   {
-    "score": 689,
+    "score": 685,
     "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
@@ -14,25 +14,18 @@
     "link": "https://nypost.com/2025/08/16/world-news/trumps-efforts-at-alaska-summit-applauded-by-world-leaders/"
   },
   {
-    "score": 162,
+    "score": 160,
     "pubdate": "2025-08-11-19-43-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 144,
-    "pubdate": "2025-08-17-01-10-58 +0000",
-    "source": "nypost",
-    "headline": "First Lady Melania Trump calls for end to war in Ukraine in ‘peace letter’ hand-delivered to Putin by the president: report",
-    "link": "https://nypost.com/2025/08/16/world-news/first-lady-melania-trump-calls-for-end-to-war-in-ukraine-in-peace-letter-hand-delivered-to-putin-by-the-president-report/"
-  },
-  {
-    "score": 130,
-    "pubdate": "2025-08-16-21-07-31 +0000",
-    "source": "nypost",
-    "headline": "Netanyahu says Gaza City will be sacked unless Hamas agrees to all of Israel’s demands",
-    "link": "https://nypost.com/2025/08/16/world-news/netanyahu-says-gaza-city-will-be-sacked-unless-hamas-agrees-to-all-of-israels-demands/"
+    "score": 132,
+    "pubdate": "2025-08-17-00-55-35 +0000",
+    "source": "bbc",
+    "headline": "Russia 'complicating' end to war, says Zelensky as Trump urges Ukraine to agree to Moscow peace deal",
+    "link": "https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 128,
@@ -42,6 +35,13 @@
     "link": "https://www.washingtonpost.com/world/2025/08/16/air-canada-strike-flight-attendants/"
   },
   {
+    "score": 128,
+    "pubdate": "2025-08-16-21-07-31 +0000",
+    "source": "nypost",
+    "headline": "Netanyahu says Gaza City will be sacked unless Hamas agrees to all of Israel’s demands",
+    "link": "https://nypost.com/2025/08/16/world-news/netanyahu-says-gaza-city-will-be-sacked-unless-hamas-agrees-to-all-of-israels-demands/"
+  },
+  {
     "score": 117,
     "pubdate": "2025-08-15-09-30-00 +0000",
     "source": "wsj",
@@ -49,18 +49,18 @@
     "link": "https://www.wsj.com/economy/trade/trump-tariff-inflation-expectations-83d06efa"
   },
   {
-    "score": 88,
-    "pubdate": "2025-08-13-01-44-11 +0000",
-    "source": "latimes",
-    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
-    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
-  },
-  {
-    "score": 87,
+    "score": 103,
     "pubdate": "2025-08-14-22-26-00 +0000",
     "source": "wsj",
     "headline": "California Democrats are planning their own redistricting to counter President Trump’s push for a congressional map shake-up in Texas to create more Republican House seats",
     "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
+  },
+  {
+    "score": 89,
+    "pubdate": "2025-08-13-01-44-11 +0000",
+    "source": "latimes",
+    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
+    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
   },
   {
     "score": 84,

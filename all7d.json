@@ -1,12 +1,42 @@
 [
   {
-    "headline": "First Lady Melania Trump calls for end to war in Ukraine in ‘peace letter’ hand-delivered to Putin by the president: report",
+    "headline": "NJ ‘Moms for Liberty’ leader claims Girl Scouts fired her for not promoting Pride Month activism",
+    "link": "https://nypost.com/2025/08/16/us-news/nj-moms-for-liberty-leader-claims-girl-scouts-fired-her-for-not-promoting-pride-month-activism/",
+    "source": "nypost",
+    "pubdate": "2025-08-17-02-16-10 +0000"
+  },
+  {
+    "headline": "Trump Backs Plan to Cede Land for Peace in Ukraine",
+    "link": "https://www.nytimes.com/live/2025/08/16/world/trump-putin-meeting-alaska",
+    "source": "nyt",
+    "pubdate": "2025-08-17-01-57-09 +0000"
+  },
+  {
+    "headline": "Day 158 at the 16th Street Plaza: A tale of two streets",
+    "link": "https://missionlocal.org/2025/08/16th-mission-police-crackdown/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-17-01-45-32 +0000"
+  },
+  {
+    "headline": "Couple gets married in midst of wild anti-Israel protest in NYC: ‘Nothing can stop love’",
+    "link": "https://nypost.com/2025/08/16/us-news/couple-gets-married-in-midst-of-wild-anti-israel-protest-nothing-can-stop-love/",
+    "source": "nypost",
+    "pubdate": "2025-08-17-01-37-18 +0000"
+  },
+  {
+    "headline": "3 states sending hundreds more troops to U.S. capital amid Trump crackdown",
+    "link": "https://www.cbc.ca/news/world/national-guard-washington-crackdown-trump-1.7611055?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-17-01-12-14 +0000"
+  },
+  {
+    "headline": "First Lady Melania Trump calls for end to war in Ukraine in ‘peace letter’ hand-delivered to Putin by the president",
     "link": "https://nypost.com/2025/08/16/world-news/first-lady-melania-trump-calls-for-end-to-war-in-ukraine-in-peace-letter-hand-delivered-to-putin-by-the-president-report/",
     "source": "nypost",
     "pubdate": "2025-08-17-01-10-58 +0000"
   },
   {
-    "headline": "Blackwater’s Erik Prince Muscles Back into the Mercenary Business, Touting Trump Allies",
+    "headline": "Blackwater’s Erik Prince Muscles Back Into the Mercenary Business",
     "link": "https://www.wsj.com/world/americas/erik-prince-mercenaries-vectus-global-5a166dca",
     "source": "wsj",
     "pubdate": "2025-08-17-01-00-00 +0000"
@@ -168,12 +198,6 @@
     "pubdate": "2025-08-16-23-07-34 +0000"
   },
   {
-    "headline": "Trump Backs Plan to Cede Land for Peace in Ukraine",
-    "link": "https://www.nytimes.com/live/2025/08/16/world/trump-putin-meeting-alaska",
-    "source": "nyt",
-    "pubdate": "2025-08-16-23-06-15 +0000"
-  },
-  {
     "headline": "The Power of the Trump-Putin Presidential Photo Op",
     "link": "https://www.nytimes.com/2025/08/16/world/europe/trump-putin-red-carpet-photo-op.html",
     "source": "nyt",
@@ -306,7 +330,7 @@
     "pubdate": "2025-08-16-21-06-13 +0000"
   },
   {
-    "headline": "National Guard in D.C. may be ordered to carry guns; W.Va. to send troops",
+    "headline": "Republican-led states to send hundreds more National Guard troops to D.C.",
     "link": "https://www.washingtonpost.com/nation/2025/08/16/west-virginia-national-guard-dc-deployment/",
     "source": "wapo",
     "pubdate": "2025-08-16-20-57-24 +0000"
@@ -708,22 +732,10 @@
     "pubdate": "2025-08-16-16-42-39 +0000"
   },
   {
-    "headline": "Bill Maher rips Hunter Biden after Melania Trump threatens to sue disgraced ex-first son",
-    "link": "https://nypost.com/2025/08/16/us-news/bill-maher-rips-hunter-biden-after-melania-trump-threatens-to-sue-disgraced-ex-first-son/",
-    "source": "nypost",
-    "pubdate": "2025-08-16-16-42-39 +0000"
-  },
-  {
     "headline": "Zelensky warns Putin will step up attacks on Ukraine, as strongman tries to gain leverage in peace talks",
     "link": "https://nypost.com/2025/08/16/world-news/zelensky-warns-putin-will-step-up-attacks-on-ukraine-in-wake-of-summit/",
     "source": "nypost",
     "pubdate": "2025-08-16-16-37-41 +0000"
-  },
-  {
-    "headline": "West Virginia National Guard to help Trump restore safety in nation’s capital",
-    "link": "https://nypost.com/2025/08/16/us-news/west-virginia-national-guard-to-help-trump-restore-safety-in-nations-capital/",
-    "source": "nypost",
-    "pubdate": "2025-08-16-16-37-30 +0000"
   },
   {
     "headline": "West Virginia National Guard to help Trump restore safety in nation’s capital",
@@ -1128,6 +1140,12 @@
     "pubdate": "2025-08-16-10-00-00 +0000"
   },
   {
+    "headline": "California approves an unprecedented plan to protect Joshua trees from climate change threats",
+    "link": "https://www.latimes.com/environment/story/2025-08-16/california-approves-plan-to-save-joshua-trees",
+    "source": "latimes",
+    "pubdate": "2025-08-16-10-00-00 +0000"
+  },
+  {
     "headline": "Trump told polluters to email him for an exemption. In California, three places have already been approved",
     "link": "https://www.latimes.com/environment/story/2025-08-16/trumps-epa-polluters-exemptions-via-email-three-facilities-approved",
     "source": "latimes",
@@ -1136,12 +1154,6 @@
   {
     "headline": "Trump cut mental health funding for kids. These L.A. teens are stepping in",
     "link": "https://www.latimes.com/science/story/2025-08-16/teen-line-trump-suicide-prevention-resources-for-lgbtq-kids",
-    "source": "latimes",
-    "pubdate": "2025-08-16-10-00-00 +0000"
-  },
-  {
-    "headline": "California approves an unprecedented plan to protect Joshua trees from climate change threats",
-    "link": "https://www.latimes.com/environment/story/2025-08-16/california-approves-plan-to-save-joshua-trees",
     "source": "latimes",
     "pubdate": "2025-08-16-10-00-00 +0000"
   },
@@ -1498,12 +1510,6 @@
     "link": "https://www.bbc.com/news/articles/clyvd3gkg1po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-16-01-50-10 +0000"
-  },
-  {
-    "headline": "Newsom’s Gerrymander of California Has a Formidable Foe: Schwarzenegger",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/schwarzenegger-newsom-california-redistricting.html",
-    "source": "nyt",
-    "pubdate": "2025-08-16-01-19-26 +0000"
   },
   {
     "headline": "Newsom’s Gerrymander of California Has a Formidable Foe: Schwarzenegger",
@@ -1978,6 +1984,12 @@
     "link": "https://www.bbc.com/news/articles/ckgdlnzljjjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-15-18-59-57 +0000"
+  },
+  {
+    "headline": "Fast-Casual Chains Struggle as Diners Ditch Pricey Bowls for Cheaper Eats",
+    "link": "https://www.wsj.com/business/hospitality/fast-casual-chains-struggle-as-diners-ditch-pricey-bowls-for-cheaper-eats-b4de5f91?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-15-18-49-00 +0000"
   },
   {
     "headline": "Feds accuse New Orleans Mayor LaToya Cantrell of defrauding taxpayers to hide ‘intimate relationship’ with her bodyguard",
@@ -2526,20 +2538,14 @@
     "pubdate": "2025-08-15-10-00-00 +0000"
   },
   {
-    "headline": "A judge restricted LAPD's use of force. Then journalists were beaten with batons",
-    "link": "https://www.latimes.com/california/story/2025-08-15/judge-prohibited-lapd-use-of-force-journalists-beaten",
+    "headline": "'Contrasting styles.' Why Dodgers-Padres has become baseball's most heated rivalry",
+    "link": "https://www.latimes.com/sports/dodgers/story/2025-08-15/dodgers-padres-rivalry-nl-west-division-race",
     "source": "latimes",
     "pubdate": "2025-08-15-10-00-00 +0000"
   },
   {
     "headline": "January wildfires displaced thousands of students. Where did they enroll?",
     "link": "https://www.latimes.com/california/story/2025-08-15/school-enrollment-post-fires",
-    "source": "latimes",
-    "pubdate": "2025-08-15-10-00-00 +0000"
-  },
-  {
-    "headline": "'Contrasting styles.' Why Dodgers-Padres has become baseball's most heated rivalry",
-    "link": "https://www.latimes.com/sports/dodgers/story/2025-08-15/dodgers-padres-rivalry-nl-west-division-race",
     "source": "latimes",
     "pubdate": "2025-08-15-10-00-00 +0000"
   },
@@ -2552,6 +2558,12 @@
   {
     "headline": "Home Depots across L.A. become tense battleground in new phase of ICE raids",
     "link": "https://www.latimes.com/california/story/2025-08-15/home-depot-ice-enforcement-battleground-los-angeles",
+    "source": "latimes",
+    "pubdate": "2025-08-15-10-00-00 +0000"
+  },
+  {
+    "headline": "A judge restricted LAPD's use of force. Then journalists were beaten with batons",
+    "link": "https://www.latimes.com/california/story/2025-08-15/judge-prohibited-lapd-use-of-force-journalists-beaten",
     "source": "latimes",
     "pubdate": "2025-08-15-10-00-00 +0000"
   },
@@ -2618,12 +2630,6 @@
   {
     "headline": "Why Cheap Airline Seats Are Getting Harder to Find",
     "link": "https://www.wsj.com/business/airlines/why-cheap-airline-seats-are-getting-harder-to-find-032aafce?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-15-09-30-00 +0000"
-  },
-  {
-    "headline": "The Man Tasked With Nailing Ford’s Next Model T Moment",
-    "link": "https://www.wsj.com/business/autos/ford-ev-strategy-doug-field-1f1ae4cf?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-15-09-30-00 +0000"
   },
@@ -3732,14 +3738,14 @@
     "pubdate": "2025-08-14-10-00-00 +0000"
   },
   {
-    "headline": "Homeless people in detention camps? Fears grow about Trump and the Olympics",
-    "link": "https://www.latimes.com/california/story/2025-08-14/homeless-people-in-detention-camps-fears-grow-about-trump-and-the-olympics",
+    "headline": "Campus patrols, volunteer escorts: Fears of immigration raids cloud LAUSD's first day of school",
+    "link": "https://www.latimes.com/california/story/2025-08-14/l-a-school-year-begins-with-lookouts-for-ice-as-well-as-normal-thrills-jitters",
     "source": "latimes",
     "pubdate": "2025-08-14-10-00-00 +0000"
   },
   {
-    "headline": "Campus patrols, volunteer escorts: Fears of immigration raids cloud LAUSD's first day of school",
-    "link": "https://www.latimes.com/california/story/2025-08-14/l-a-school-year-begins-with-lookouts-for-ice-as-well-as-normal-thrills-jitters",
+    "headline": "Arellano: Can homegrown teens replace immigrant farm labor? In 1965, the U.S. tried",
+    "link": "https://www.latimes.com/california/story/2025-08-14/a-team-1965-bracero-program",
     "source": "latimes",
     "pubdate": "2025-08-14-10-00-00 +0000"
   },
@@ -3750,8 +3756,8 @@
     "pubdate": "2025-08-14-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: Can homegrown teens replace immigrant farm labor? In 1965, the U.S. tried",
-    "link": "https://www.latimes.com/california/story/2025-08-14/a-team-1965-bracero-program",
+    "headline": "Homeless people in detention camps? Fears grow about Trump and the Olympics",
+    "link": "https://www.latimes.com/california/story/2025-08-14/homeless-people-in-detention-camps-fears-grow-about-trump-and-the-olympics",
     "source": "latimes",
     "pubdate": "2025-08-14-10-00-00 +0000"
   },
@@ -3976,12 +3982,6 @@
     "link": "https://www.wsj.com/business/u-s-steel-explosion-presents-challenge-to-nippons-investment-plans-d6183fb9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-14-03-00-00 +0000"
-  },
-  {
-    "headline": "WATCH | 'Residents are terrified': advocate reacts as National Guard patrols in D.C.",
-    "link": "https://www.cbc.ca/player/play/9.6866401?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-14-02-02-33 +0000"
   },
   {
     "headline": "SoCal police officer accused of on-duty sexual assaults",
@@ -4590,12 +4590,6 @@
     "pubdate": "2025-08-13-10-04-31 +0000"
   },
   {
-    "headline": "Hiltzik: Social Security turns 90 this week. Republicans are trying to keep it from reaching 100",
-    "link": "https://www.latimes.com/business/story/2025-08-13/social-security-turns-90-this-week-republicans-would-prefer-that-it-not-reach-100",
-    "source": "latimes",
-    "pubdate": "2025-08-13-10-00-00 +0000"
-  },
-  {
     "headline": "Contributor: Unlike at Columbia, Trump's attack on UCLA is aimed at taxpayer money",
     "link": "https://www.latimes.com/opinion/story/2025-08-13/trump-ucla-1-billion-payment",
     "source": "latimes",
@@ -4608,8 +4602,8 @@
     "pubdate": "2025-08-13-10-00-00 +0000"
   },
   {
-    "headline": "California's richest agricultural family is shuttering a farm the UFW sought to unionize",
-    "link": "https://www.latimes.com/california/story/2025-08-13/ufw-wonderful-nurseries-uc-davis",
+    "headline": "Hiltzik: Social Security turns 90 this week. Republicans are trying to keep it from reaching 100",
+    "link": "https://www.latimes.com/business/story/2025-08-13/social-security-turns-90-this-week-republicans-would-prefer-that-it-not-reach-100",
     "source": "latimes",
     "pubdate": "2025-08-13-10-00-00 +0000"
   },
@@ -4620,14 +4614,8 @@
     "pubdate": "2025-08-13-10-00-00 +0000"
   },
   {
-    "headline": "L.A. volunteers who document ICE raids are being arrested. How to do it safely",
-    "link": "https://www.latimes.com/california/story/2025-08-13/la-volunteers-who-document-ice-raids-are-being-arrested-how-to-do-it-safely",
-    "source": "latimes",
-    "pubdate": "2025-08-13-10-00-00 +0000"
-  },
-  {
-    "headline": "The fliers say 'Save Our Services.' Airbnb is actually pulling the strings",
-    "link": "https://www.latimes.com/california/story/2025-08-13/the-fliers-say-save-our-services-airbnb-is-actually-pulling-the-strings",
+    "headline": "California's richest agricultural family is shuttering a farm the UFW sought to unionize",
+    "link": "https://www.latimes.com/california/story/2025-08-13/ufw-wonderful-nurseries-uc-davis",
     "source": "latimes",
     "pubdate": "2025-08-13-10-00-00 +0000"
   },
@@ -4646,6 +4634,18 @@
   {
     "headline": "From the L.A. Olympics to Oakland, California braces for Trump National Guard deployments",
     "link": "https://www.latimes.com/california/story/2025-08-13/california-braces-trump-national-guard-deployments",
+    "source": "latimes",
+    "pubdate": "2025-08-13-10-00-00 +0000"
+  },
+  {
+    "headline": "The fliers say 'Save Our Services.' Airbnb is actually pulling the strings",
+    "link": "https://www.latimes.com/california/story/2025-08-13/the-fliers-say-save-our-services-airbnb-is-actually-pulling-the-strings",
+    "source": "latimes",
+    "pubdate": "2025-08-13-10-00-00 +0000"
+  },
+  {
+    "headline": "L.A. volunteers who document ICE raids are being arrested. How to do it safely",
+    "link": "https://www.latimes.com/california/story/2025-08-13/la-volunteers-who-document-ice-raids-are-being-arrested-how-to-do-it-safely",
     "source": "latimes",
     "pubdate": "2025-08-13-10-00-00 +0000"
   },
@@ -5256,14 +5256,14 @@
     "pubdate": "2025-08-12-10-00-00 +0000"
   },
   {
-    "headline": "Contributor: California must fight Texas' redistricting fire with fire",
-    "link": "https://www.latimes.com/opinion/story/2025-08-12/california-texas-redistricting-gavin-newsom",
+    "headline": "The LAPD is struggling to hire Black recruits. Will Trump's war on DEI make it harder?",
+    "link": "https://www.latimes.com/california/story/2025-08-12/lapd-diversity-dei-recruiting",
     "source": "latimes",
     "pubdate": "2025-08-12-10-00-00 +0000"
   },
   {
-    "headline": "The LAPD is struggling to hire Black recruits. Will Trump's war on DEI make it harder?",
-    "link": "https://www.latimes.com/california/story/2025-08-12/lapd-diversity-dei-recruiting",
+    "headline": "Contributor: California must fight Texas' redistricting fire with fire",
+    "link": "https://www.latimes.com/opinion/story/2025-08-12/california-texas-redistricting-gavin-newsom",
     "source": "latimes",
     "pubdate": "2025-08-12-10-00-00 +0000"
   },
@@ -5706,14 +5706,14 @@
     "pubdate": "2025-08-11-10-51-50 +0000"
   },
   {
-    "headline": "'Uncharted territory': Newsom and UC go to battle against Trump's UCLA sanctions",
-    "link": "https://www.latimes.com/california/story/2025-08-11/newsom-trump-ucla-grant-freezes-antisemitism",
+    "headline": "From rescued to rescuer: Sydney helps Eaton fire evacuees heal",
+    "link": "https://www.latimes.com/california/story/2025-08-11/who-rescued-who-a-rescue-dog-helps-eaton-fire-evacuees-get-on-with-their-lives",
     "source": "latimes",
     "pubdate": "2025-08-11-10-00-00 +0000"
   },
   {
-    "headline": "From rescued to rescuer: Sydney helps Eaton fire evacuees heal",
-    "link": "https://www.latimes.com/california/story/2025-08-11/who-rescued-who-a-rescue-dog-helps-eaton-fire-evacuees-get-on-with-their-lives",
+    "headline": "'Uncharted territory': Newsom and UC go to battle against Trump's UCLA sanctions",
+    "link": "https://www.latimes.com/california/story/2025-08-11/newsom-trump-ucla-grant-freezes-antisemitism",
     "source": "latimes",
     "pubdate": "2025-08-11-10-00-00 +0000"
   },
@@ -5980,17 +5980,5 @@
     "link": "https://www.wsj.com/world/india/why-india-cant-afford-to-jettison-its-relationship-with-russia-5d495768",
     "source": "wsj",
     "pubdate": "2025-08-10-03-00-00 +0000"
-  },
-  {
-    "headline": "Thousands protest in Israel over Gaza City occupation plan",
-    "link": "https://www.bbc.com/news/videos/c5ylprlr3dzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-10-02-04-54 +0000"
-  },
-  {
-    "headline": "The Estate Tax Mistake That Can Cost Families Millions",
-    "link": "https://www.wsj.com/personal-finance/taxes/estate-taxes-portability-planning-mistakes-26111632?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-10-02-00-00 +0000"
   }
 ]
