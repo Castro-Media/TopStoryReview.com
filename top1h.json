@@ -1,30 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2025-08-17-18-54-28 +0000",
+    "score": 43,
+    "pubdate": "2025-08-17-20-34-10 +0000",
     "source": "nyt",
-    "headline": "U.S. Pauses Visitor Visas for Gazans After Laura Loomer Posts",
-    "link": "https://www.nytimes.com/2025/08/16/us/politics/gaza-visitor-visas-medical-trump-loomer.html"
+    "headline": "Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin",
+    "link": "https://www.nytimes.com/2025/08/17/us/politics/europe-trump-zelensky-putin.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-08-17-20-28-09 +0000",
+    "source": "nypost",
+    "headline": "Mayor Adams slams Mamdani for wanting to decriminalize prostitution: ‘Don’t know where in his Quran it states that it’s OK’",
+    "link": "https://nypost.com/2025/08/17/us-news/mayor-adams-slams-mamdani-for-wanting-to-decriminalize-prostitution/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-08-17-20-01-05 +0000",
+    "source": "nypost",
+    "headline": "Trump weaponization czar teases ‘more’ developments with Schiff, warns J6 Committee alums to ‘keep an eye on their mailbox’",
+    "link": "https://nypost.com/2025/08/17/us-news/trump-weaponization-czar-teases-more-developments-with-schiff-warns-j6-committee-alums-to-keep-an-eye-on-their-mailbox/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-17-20-13-47 +0000",
+    "source": "nyt",
+    "headline": "Air Canada Flight Attendants Say They Will Defy Back-to-Work Order",
+    "link": "https://www.nytimes.com/2025/08/17/world/canada/air-canada-strike.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-17-20-01-23 +0000",
+    "source": "nypost",
+    "headline": "NYC hookah lounge where 12 were shot Sunday was scene of gunfire less than a year ago",
+    "link": "https://nypost.com/2025/08/17/us-news/nyc-hookah-lounge-was-at-scene-of-another-shooting-last-year/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-17-20-47-03 +0000",
+    "source": "nyt",
+    "headline": "Israelis Join Nationwide Rallies to Call for Release of Hostages",
+    "link": "https://www.nytimes.com/2025/08/17/world/middleeast/israel-rallies-labor-strike.html"
   },
   {
     "score": 11,
-    "pubdate": "2025-08-17-18-52-45 +0000",
+    "pubdate": "2025-08-17-20-05-15 +0000",
     "source": "nypost",
-    "headline": "Nationwide strike erupts across Israel demanding hostage deal, end to Gaza war",
-    "link": "https://nypost.com/2025/08/17/world-news/nationwide-strike-erupts-across-israel-demanding-hostage-deal-end-to-gaza-war/"
+    "headline": "Meet the LI native who skipped college and turned Montauk into Margaritaville with his own tequila brand",
+    "link": "https://nypost.com/2025/08/17/us-news/millennial-turns-montauk-into-margaritaville/"
   },
   {
-    "score": 6,
-    "pubdate": "2025-08-17-18-53-07 +0000",
-    "source": "nyt",
-    "headline": "European Leaders to Join Zelensky for Meeting With Trump",
-    "link": "https://www.nytimes.com/2025/08/17/us/politics/trump-european-leaders-zelensky-meeting.html"
+    "score": 10,
+    "pubdate": "2025-08-17-20-10-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | Time to Shut Down the Failed U.N. Lebanon Mission",
+    "link": "https://www.wsj.com/opinion/time-to-shut-down-the-failed-u-n-lebanon-mission-7075a0ff"
   },
   {
-    "score": 0,
-    "pubdate": "2025-08-17-18-54-28 +0000",
-    "source": "nyt",
-    "headline": "U.S. Pauses Visitor Visas for Gazans After Laura Loomer Posts",
-    "link": "https://www.nytimes.com/2025/08/16/us/politics/gaza-visitor-visas-medical-trump-loomer.html"
+    "score": 10,
+    "pubdate": "2025-08-17-20-25-33 +0000",
+    "source": "nypost",
+    "headline": "Shocking footage shows illegal-migrant driver make outrageous rogue U-turn, killing 3: officials",
+    "link": "https://nypost.com/2025/08/17/us-news/illegal-migrant-driver-in-florida-make-rogue-u-turn-kills-3-officials/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-08-17-20-14-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | AI Won’t Replace Historians",
+    "link": "https://www.wsj.com/opinion/ai-wont-replace-historians-3b68751c?mod=pls_whats_news_us_business_f"
   }
 ]
