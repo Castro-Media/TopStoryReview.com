@@ -1,27 +1,34 @@
 [
   {
-    "score": 694,
+    "score": 689,
     "pubdate": "2025-08-15-15-56-48 +0000",
     "source": "nyt",
     "headline": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html"
   },
   {
-    "score": 166,
+    "score": 162,
     "pubdate": "2025-08-16-19-41-53 +0000",
     "source": "nypost",
     "headline": "Trump’s efforts at Alaska summit applauded by world leaders, while Russia rejoices at no longer being world’s pariah: ‘A glimmer of hope has finally opened’",
     "link": "https://nypost.com/2025/08/16/world-news/trumps-efforts-at-alaska-summit-applauded-by-world-leaders/"
   },
   {
-    "score": 161,
+    "score": 162,
     "pubdate": "2025-08-11-19-43-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration’s decision to charge Nvidia and AMD a portion of the sales from their AI chips to China opens up legal and national-security concerns. Here’s what to know.",
     "link": "https://www.wsj.com/politics/national-security/what-to-know-about-trumps-plan-to-take-15-of-ai-chip-sales-to-china-04c6537c"
   },
   {
-    "score": 131,
+    "score": 144,
+    "pubdate": "2025-08-17-01-10-58 +0000",
+    "source": "nypost",
+    "headline": "First Lady Melania Trump calls for end to war in Ukraine in ‘peace letter’ hand-delivered to Putin by the president: report",
+    "link": "https://nypost.com/2025/08/16/world-news/first-lady-melania-trump-calls-for-end-to-war-in-ukraine-in-peace-letter-hand-delivered-to-putin-by-the-president-report/"
+  },
+  {
+    "score": 130,
     "pubdate": "2025-08-16-21-07-31 +0000",
     "source": "nypost",
     "headline": "Netanyahu says Gaza City will be sacked unless Hamas agrees to all of Israel’s demands",
@@ -35,13 +42,6 @@
     "link": "https://www.washingtonpost.com/world/2025/08/16/air-canada-strike-flight-attendants/"
   },
   {
-    "score": 126,
-    "pubdate": "2025-08-15-20-58-21 +0000",
-    "source": "nypost",
-    "headline": "Trump reacts to Hillary Clinton saying she’d nominate him for Nobel Peace Prize if he helps end war in Ukraine",
-    "link": "https://nypost.com/2025/08/15/us-news/trump-reacts-to-hillary-clinton-saying-shed-nominate-him-for-nobel-peace-prize-if-he-helps-end-war-in-ukraine/"
-  },
-  {
     "score": 117,
     "pubdate": "2025-08-15-09-30-00 +0000",
     "source": "wsj",
@@ -49,24 +49,24 @@
     "link": "https://www.wsj.com/economy/trade/trump-tariff-inflation-expectations-83d06efa"
   },
   {
-    "score": 104,
+    "score": 88,
+    "pubdate": "2025-08-13-01-44-11 +0000",
+    "source": "latimes",
+    "headline": "She was killed while walking to her car, family says. Suspect, arrested weeks later, is free on bail",
+    "link": "https://www.latimes.com/california/story/2025-08-12/suspected-hollywood-hit-and-run-driver-has-arraignment-continued-until-october"
+  },
+  {
+    "score": 87,
     "pubdate": "2025-08-14-22-26-00 +0000",
     "source": "wsj",
     "headline": "California Democrats are planning their own redistricting to counter President Trump’s push for a congressional map shake-up in Texas to create more Republican House seats",
     "link": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b"
   },
   {
-    "score": 82,
-    "pubdate": "2025-08-15-08-22-31 +0000",
-    "source": "bbc",
-    "headline": "My family may be killed if deported, says son of Afghan caught in UK data breach",
-    "link": "https://www.bbc.com/news/articles/c776zgj73lpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 76,
-    "pubdate": "2025-08-16-22-11-19 +0000",
-    "source": "nypost",
-    "headline": "BB gun-wielding man fatally shot by off-duty cop on Staten Island had at least 22 prior arrests: police sources",
-    "link": "https://nypost.com/2025/08/16/us-news/bb-gun-wielding-man-fatally-shot-by-off-duty-cop-on-staten-island-had-at-least-22-prior-arrests-police-sources/"
+    "score": 84,
+    "pubdate": "2025-08-15-21-51-49 +0000",
+    "source": "missionlocal",
+    "headline": "Mayor Lurie takes credit for immigrant legal aid he had little to do with",
+    "link": "https://missionlocal.org/2025/08/sf-mayor-lurie-immigrant-defense-funding-crankstart/"
   }
 ]
