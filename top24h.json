@@ -1,6 +1,6 @@
 [
   {
-    "score": 135,
+    "score": 134,
     "pubdate": "2025-08-18-04-01-16 +0000",
     "source": "nypost",
     "headline": "Trump says Zelensky can end war with Russia ‘almost immediately’ by doing these two things, ahead of White House meeting",
@@ -49,13 +49,6 @@
     "link": "https://www.wsj.com/politics/national-security/national-guard-soldiers-prepare-to-carry-weapons-in-washington-d-c-3965923c"
   },
   {
-    "score": 32,
-    "pubdate": "2025-08-17-18-54-29 +0000",
-    "source": "nyt",
-    "headline": "U.S. Pauses Visitor Visas for Gazans After Laura Loomer Posts",
-    "link": "https://www.nytimes.com/2025/08/16/us/politics/gaza-visitor-visas-medical-trump-loomer.html"
-  },
-  {
     "score": 29,
     "pubdate": "2025-08-17-10-37-55 +0000",
     "source": "bbc",
@@ -64,9 +57,16 @@
   },
   {
     "score": 28,
-    "pubdate": "2025-08-18-02-51-39 +0000",
-    "source": "bbc",
-    "headline": "Bolivia set to elect first non-left wing president in two decades",
-    "link": "https://www.bbc.com/news/articles/c4gzlp85432o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-08-17-18-54-29 +0000",
+    "source": "nyt",
+    "headline": "U.S. Pauses Visitor Visas for Gazans After Laura Loomer Posts",
+    "link": "https://www.nytimes.com/2025/08/16/us/politics/gaza-visitor-visas-medical-trump-loomer.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-08-17-20-28-09 +0000",
+    "source": "nypost",
+    "headline": "Mayor Adams slams Mamdani for wanting to decriminalize prostitution: ‘Don’t know where in his Quran it states that it’s OK’",
+    "link": "https://nypost.com/2025/08/17/us-news/mayor-adams-slams-mamdani-for-wanting-to-decriminalize-prostitution/"
   }
 ]
