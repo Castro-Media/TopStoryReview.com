@@ -1,24 +1,31 @@
 [
   {
-    "score": 194,
+    "score": 205,
     "pubdate": "2025-08-18-04-01-16 +0000",
     "source": "nypost",
     "headline": "Trump says Zelensky can end war with Russia ‘almost immediately’ by doing these two things, ahead of White House meeting",
     "link": "https://nypost.com/2025/08/18/world-news/trump-says-zelensky-can-end-war-with-russia-almost-immediately-by-doing-these-two-things-ahead-of-white-house-meeting/"
   },
   {
-    "score": 67,
-    "pubdate": "2025-08-18-15-00-03 +0000",
-    "source": "nyt",
-    "headline": "Air Canada Flight Attendant Strike Declared Illegal by Labor Board",
-    "link": "https://www.nytimes.com/2025/08/18/world/canada/air-canada-strike-flight-attendant-labor-board.html"
+    "score": 70,
+    "pubdate": "2025-08-18-13-53-28 +0000",
+    "source": "cbc",
+    "headline": "Air Canada flight attendants to stay on the picket lines after strike deemed illegal",
+    "link": "https://www.cbc.ca/news/politics/air-canada-strike-illegal-1.7611447?cmp=rss"
   },
   {
-    "score": 64,
-    "pubdate": "2025-08-18-15-31-36 +0000",
-    "source": "bbc",
-    "headline": "'No-one was expecting this': European leaders rush to US to help Ukraine avoid 'capitulation'",
-    "link": "https://www.bbc.com/news/articles/c9d0v8ljw3no?at_medium=RSS&at_campaign=rss"
+    "score": 66,
+    "pubdate": "2025-08-18-11-06-00 +0000",
+    "source": "nyt",
+    "headline": "Trump Bows to Putin’s Approach on Ukraine: No Cease-Fire, Deadlines or Sanctions",
+    "link": "https://www.nytimes.com/2025/08/16/us/politics/trump-putin-approach-ukraine.html"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-08-18-14-15-38 +0000",
+    "source": "nypost",
+    "headline": "Illegal migrant suspect in deadly Florida crash was nearly deported — then allowed to stay after claiming he was afraid to return to India",
+    "link": "https://nypost.com/2025/08/18/us-news/illegal-migrant-suspect-in-deadly-florida-crash-was-nearly-deported-then-allowed-to-stay-after-claiming-he-was-afraid-to-return-to-india/"
   },
   {
     "score": 49,
@@ -28,45 +35,38 @@
     "link": "https://nypost.com/2025/08/18/world-news/israeli-hostages-will-only-be-freed-when-hamas-is-confronted-and-destroyed-trump/"
   },
   {
-    "score": 49,
+    "score": 44,
     "pubdate": "2025-08-18-15-56-08 +0000",
     "source": "nypost",
     "headline": "Texas Dems return home, paving the way for GOP to pass new congressional map",
     "link": "https://nypost.com/2025/08/18/us-news/texas-democrats-say-theyre-ending-a-two-week-walkout-over-gerrymandered-us-house-map-plan/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-08-18-15-42-00 +0000",
-    "source": "nyt",
-    "headline": "Putin’s Proposal for Land Deal, Made to Trump, Shifts Pressure to Zelensky",
-    "link": "https://www.nytimes.com/2025/08/18/world/europe/putin-trump-zelensky-ukraine.html"
+    "score": 37,
+    "pubdate": "2025-08-18-17-46-13 +0000",
+    "source": "nypost",
+    "headline": "Reporter Brian Glenn brags about DC being safe after walking streets with girlfriend Marjorie Taylor Greene",
+    "link": "https://nypost.com/2025/08/18/us-news/reporter-brian-glenn-brags-about-dc-being-safe-after-walking-streets-with-girlfriend-marjorie-taylor-greene/"
   },
   {
-    "score": 38,
-    "pubdate": "2025-08-18-14-15-38 +0000",
-    "source": "nypost",
-    "headline": "Illegal migrant suspect in deadly Florida crash was nearly deported — then allowed to stay after claiming he was afraid to return to India",
-    "link": "https://nypost.com/2025/08/18/us-news/illegal-migrant-suspect-in-deadly-florida-crash-was-nearly-deported-then-allowed-to-stay-after-claiming-he-was-afraid-to-return-to-india/"
+    "score": 37,
+    "pubdate": "2025-08-18-02-51-39 +0000",
+    "source": "bbc",
+    "headline": "Bolivia set to elect first non-left wing president in two decades",
+    "link": "https://www.bbc.com/news/articles/c4gzlp85432o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 36,
-    "pubdate": "2025-08-18-12-31-57 +0000",
-    "source": "nypost",
-    "headline": "Texas ICE shooting suspects tied to secretive far-left anarchist group formed during violent 2020 BLM protests",
-    "link": "https://nypost.com/2025/08/18/us-news/texas-ice-shooting-suspects-tied-to-secretive-far-left-group-formed-during-violent-2020-blm-protests/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-08-17-18-12-56 +0000",
-    "source": "bbc",
-    "headline": "Three Republican-led states to send National Guard troops to DC",
-    "link": "https://www.bbc.com/news/articles/cvgv1pmypdyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 34,
     "pubdate": "2025-08-18-14-44-25 +0000",
     "source": "bbc",
     "headline": "US East Coast faces life-threatening waves from Hurricane Erin",
     "link": "https://www.bbc.com/news/articles/c3r41zeqnexo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-08-18-01-25-05 +0000",
+    "source": "nypost",
+    "headline": "Spain deploys military to battle 20 major wildfires across country as heat wave ravages Southern Europe",
+    "link": "https://nypost.com/2025/08/17/world-news/spain-deploys-military-to-battle-20-major-wildfires-across-country-as-heat-wave-ravages-southern-europe/"
   }
 ]
