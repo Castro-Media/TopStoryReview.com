@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 24,
+    "pubdate": "2025-08-19-10-37-27 +0000",
+    "source": "bbc",
+    "headline": "Dangerous seas forecast for US East Coast as Hurricane Erin grows",
+    "link": "https://www.bbc.com/news/articles/c3r41zeqnexo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-08-19-09-59-18 +0000",
+    "source": "nyt",
+    "headline": "Air Canada and Striking Flight Attendants’ Union Reach Tentative Deal",
+    "link": "https://www.nytimes.com/2025/08/19/world/canada/air-canada-strike-flight-attendants-union-deal.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-08-19-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Ultra-luxurious Santa Monica hotel accused of failing to pay staff minimum wage",
+    "link": "https://www.latimes.com/california/story/2025-08-19/luxurious-santa-monica-proper-hotel-accused-of-failing-to-pay-staff-minimum-wage"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-08-19-10-42-59 +0000",
+    "source": "nyt",
+    "headline": "Securing Postwar Ukraine, Even With Trump’s Pledge to Help, Is Complex",
+    "link": "https://www.nytimes.com/2025/08/19/world/europe/ukraine-security-guarantees-trump.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-08-19-09-55-25 +0000",
+    "source": "bbc",
+    "headline": "Entire church begins two-day journey across Swedish city",
+    "link": "https://www.bbc.com/news/articles/cde3xp4xlw9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-19-10-36-51 +0000",
+    "source": "nypost",
+    "headline": "Chris Pratt calls RFK Jr ‘wonderful’ and wishes him success with getting ‘toxic stuff out of our kids’ food’",
+    "link": "https://nypost.com/2025/08/19/us-news/chris-pratt-calls-rfk-jr-wonderful-and-wishes-him-success-with-getting-toxic-stuff-out-of-our-kids-food/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-19-10-51-54 +0000",
+    "source": "nypost",
+    "headline": "Fifth New Yorker dies from Legionnaires disease outbreak in Harlem as cases rise to 108 sickened",
+    "link": "https://nypost.com/2025/08/19/us-news/fifth-person-dies-in-legionnaires-disease-outbreak-in-harlem-as-cases-rise-to-108/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-19-10-28-23 +0000",
+    "source": "bbc",
+    "headline": "People buying less fast food as grocery prices remain high",
+    "link": "https://www.bbc.com/news/articles/c5y042g11yvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-19-10-25-29 +0000",
+    "source": "nypost",
+    "headline": "Putin and Zelensky could meet within next two weeks thanks to Trump’s attempts to end brutal war",
+    "link": "https://nypost.com/2025/08/19/world-news/putin-and-zelensky-could-meet-within-next-two-weeks-thanks-to-trumps-attempts-to-end-brutal-war/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-19-10-49-17 +0000",
+    "source": "bbc",
+    "headline": "Burkina Faso's junta expels top UN official over child rights report",
+    "link": "https://www.bbc.com/news/articles/cvg35872dy0o?at_medium=RSS&at_campaign=rss"
+  }
+]
