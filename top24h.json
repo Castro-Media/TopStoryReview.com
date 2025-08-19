@@ -1,45 +1,38 @@
 [
   {
-    "score": 240,
+    "score": 234,
     "pubdate": "2025-08-18-18-02-57 +0000",
     "source": "nypost",
     "headline": "Trump ‘very happy’ after Ukraine peace summit with Zelensky and European leaders — says two Putin meetings in works",
     "link": "https://nypost.com/2025/08/18/us-news/trump-zelensky-talk-ukraine-security-avoiding-repeat-of-february-oval-office-blowup/"
   },
   {
-    "score": 100,
+    "score": 101,
     "pubdate": "2025-08-19-09-44-56 +0000",
     "source": "cbc",
     "headline": "Air Canada, flight attendants reach tentative deal to end strike",
     "link": "https://www.cbc.ca/news/business/air-canada-contract-dispute-flight-attendants-1.7612403?cmp=rss"
   },
   {
-    "score": 89,
-    "pubdate": "2025-08-19-04-24-10 +0000",
-    "source": "nypost",
-    "headline": "White House mocks ‘unserious’ NJ Dem Rep. LaMonica McIver after she claims ‘Liberation Day’ is ‘racist’ and code for ‘white power’",
-    "link": "https://nypost.com/2025/08/19/us-news/white-house-mocks-unserious-nj-dem-rep-lamonica-mciver-after-she-claims-liberation-day-is-racist-and-code-for-white-power/"
-  },
-  {
-    "score": 72,
+    "score": 76,
     "pubdate": "2025-08-19-14-54-58 +0000",
     "source": "nyt",
     "headline": "Netanyahu Faces Pressure From Far Right Over New Israel-Hamas Cease-Fire Proposal",
     "link": "https://www.nytimes.com/2025/08/19/world/middleeast/israel-hamas-cease-fire-talks.html"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2025-08-18-19-54-53 +0000",
     "source": "nypost",
     "headline": "Putin claims Ukraine should give up Donetsk because Russia will conquer region by October —despite a decade of failing to do so",
     "link": "https://nypost.com/2025/08/18/world-news/putin-claims-ukraine-should-give-up-donetsk-because-russia-will-conquer-region-by-october-despite-a-decade-of-failing-to-do-so/"
   },
   {
-    "score": 47,
-    "pubdate": "2025-08-19-13-57-56 +0000",
-    "source": "nyt",
-    "headline": "He Tried to Endorse From the Pulpit. He Wound Up Without a Church.",
-    "link": "https://www.nytimes.com/2025/08/19/us/politics/church-endorsements-irs-kenosha.html"
+    "score": 65,
+    "pubdate": "2025-08-19-00-01-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration has restored a website that tracks federal spending, in a victory for lawmakers who said the White House was using the blackout to freeze funding without public disclosures",
+    "link": "https://www.wsj.com/politics/policy/lawmakers-win-round-in-spending-fight-with-white-house-6c63de2e"
   },
   {
     "score": 46,
@@ -49,6 +42,13 @@
     "link": "https://nypost.com/2025/08/19/us-news/ri-prosecutor-threatens-cops-to-shut-off-body-cameras-while-being-arrested-for-alleged-trespassing-youre-going-to-regret-it/"
   },
   {
+    "score": 43,
+    "pubdate": "2025-08-19-13-57-56 +0000",
+    "source": "nyt",
+    "headline": "He Tried to Endorse From the Pulpit. He Wound Up Without a Church.",
+    "link": "https://www.nytimes.com/2025/08/19/us/politics/church-endorsements-irs-kenosha.html"
+  },
+  {
     "score": 41,
     "pubdate": "2025-08-19-05-37-10 +0000",
     "source": "bbc",
@@ -56,17 +56,17 @@
     "link": "https://www.bbc.com/news/videos/crlzey2j406o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 40,
-    "pubdate": "2025-08-18-16-11-47 +0000",
-    "source": "bbc",
-    "headline": "BBC at Rafah crossing as queues of aid trucks wait to enter Gaza",
-    "link": "https://www.bbc.com/news/videos/cev2nmwxe1po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 39,
+    "score": 38,
     "pubdate": "2025-08-19-01-01-32 +0000",
     "source": "bbc",
     "headline": "Four key takeaways from Ukraine talks in Washington",
     "link": "https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-08-19-14-56-07 +0000",
+    "source": "nyt",
+    "headline": "Republican Bid to Help Trump Move Past Epstein Falls Flat",
+    "link": "https://www.nytimes.com/2025/08/18/us/politics/republicans-epstein-files.html"
   }
 ]
