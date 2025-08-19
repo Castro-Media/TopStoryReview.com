@@ -1,20 +1,20 @@
 [
   {
-    "score": 234,
+    "score": 231,
     "pubdate": "2025-08-18-18-02-57 +0000",
     "source": "nypost",
     "headline": "Trump ‘very happy’ after Ukraine peace summit with Zelensky and European leaders — says two Putin meetings in works",
     "link": "https://nypost.com/2025/08/18/us-news/trump-zelensky-talk-ukraine-security-avoiding-repeat-of-february-oval-office-blowup/"
   },
   {
-    "score": 101,
+    "score": 99,
     "pubdate": "2025-08-19-09-44-56 +0000",
     "source": "cbc",
     "headline": "Air Canada, flight attendants reach tentative deal to end strike",
     "link": "https://www.cbc.ca/news/business/air-canada-contract-dispute-flight-attendants-1.7612403?cmp=rss"
   },
   {
-    "score": 76,
+    "score": 74,
     "pubdate": "2025-08-19-14-54-58 +0000",
     "source": "nyt",
     "headline": "Netanyahu Faces Pressure From Far Right Over New Israel-Hamas Cease-Fire Proposal",
@@ -28,18 +28,11 @@
     "link": "https://nypost.com/2025/08/18/world-news/putin-claims-ukraine-should-give-up-donetsk-because-russia-will-conquer-region-by-october-despite-a-decade-of-failing-to-do-so/"
   },
   {
-    "score": 65,
+    "score": 63,
     "pubdate": "2025-08-19-00-01-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration has restored a website that tracks federal spending, in a victory for lawmakers who said the White House was using the blackout to freeze funding without public disclosures",
     "link": "https://www.wsj.com/politics/policy/lawmakers-win-round-in-spending-fight-with-white-house-6c63de2e"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-08-19-06-32-16 +0000",
-    "source": "nypost",
-    "headline": "RI prosecutor threatens cops to shut off body cameras while being arrested for alleged trespassing: ‘You’re going to regret it’",
-    "link": "https://nypost.com/2025/08/19/us-news/ri-prosecutor-threatens-cops-to-shut-off-body-cameras-while-being-arrested-for-alleged-trespassing-youre-going-to-regret-it/"
   },
   {
     "score": 43,
@@ -47,6 +40,13 @@
     "source": "nyt",
     "headline": "He Tried to Endorse From the Pulpit. He Wound Up Without a Church.",
     "link": "https://www.nytimes.com/2025/08/19/us/politics/church-endorsements-irs-kenosha.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-08-19-06-32-16 +0000",
+    "source": "nypost",
+    "headline": "RI prosecutor threatens cops to shut off body cameras while being arrested for alleged trespassing: ‘You’re going to regret it’",
+    "link": "https://nypost.com/2025/08/19/us-news/ri-prosecutor-threatens-cops-to-shut-off-body-cameras-while-being-arrested-for-alleged-trespassing-youre-going-to-regret-it/"
   },
   {
     "score": 41,
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
-    "pubdate": "2025-08-19-14-56-07 +0000",
+    "score": 36,
+    "pubdate": "2025-08-19-16-26-30 +0000",
     "source": "nyt",
-    "headline": "Republican Bid to Help Trump Move Past Epstein Falls Flat",
-    "link": "https://www.nytimes.com/2025/08/18/us/politics/republicans-epstein-files.html"
+    "headline": "Economic Data Has Taken a Dark Turn. That Doesn’t Mean a Crash Is Near.",
+    "link": "https://www.nytimes.com/2025/08/19/business/economy/us-economic-trends-unemployment-inflation.html"
   }
 ]
