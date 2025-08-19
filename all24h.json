@@ -1,6 +1,180 @@
 [
   {
-    "headline": "Fifth New Yorker dies from Legionnaires disease outbreak in Harlem as cases rise to 108 sickened",
+    "headline": "Russia Strikes Ukraine Hours After White House Meetings",
+    "link": "https://www.nytimes.com/2025/08/19/us/russia-attack-drones-missiles-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-47-00 +0000"
+  },
+  {
+    "headline": "Air Canada to resume flights after making deal to end cabin crew strike",
+    "link": "https://www.washingtonpost.com/transportation/2025/08/19/air-canada-strike-deal/",
+    "source": "wapo",
+    "pubdate": "2025-08-19-11-45-18 +0000"
+  },
+  {
+    "headline": "Home Depot Sees Modest Price Movement, Says Consumers Deferring Larger Projects",
+    "link": "https://www.wsj.com/business/retail/home-depot-sees-sales-rise-shrugging-off-slow-housing-market-a4f71152?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-19-11-44-00 +0000"
+  },
+  {
+    "headline": "Texas police hunt convict 'mistakenly' freed from jail",
+    "link": "https://www.bbc.com/news/articles/cd0d32ezn17o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-19-11-39-01 +0000"
+  },
+  {
+    "headline": "Europe’s Leaders Headed Off Giveaway to Putin, but Emerged Without a Clear Path",
+    "link": "https://www.nytimes.com/2025/08/19/world/europe/ukraine-trump-meeting-europe-leaders-war.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-37-05 +0000"
+  },
+  {
+    "headline": "Europe’s Leaders Headed Off Giveaway to Putin, but Emerged Without a Clear Path",
+    "link": "https://www.nytimes.com/2025/08/19/world/europe/ukraine-trump-meeting-europe-leaders-war.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-37-05 +0000"
+  },
+  {
+    "headline": "Mediators await Israeli response to new Gaza ceasefire proposal",
+    "link": "https://www.bbc.com/news/articles/cjeynvp409vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-19-11-32-29 +0000"
+  },
+  {
+    "headline": "Mediators await Israeli response to new Gaza ceasefire proposal",
+    "link": "https://www.bbc.com/news/articles/cjeynvp409vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-19-11-32-29 +0000"
+  },
+  {
+    "headline": "Securing Postwar Ukraine, Even With Trump’s Pledge to Help, Is Complex",
+    "link": "https://www.nytimes.com/2025/08/19/world/europe/ukraine-security-guarantees-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-30-01 +0000"
+  },
+  {
+    "headline": "Securing Postwar Ukraine, Even With Trump’s Pledge to Help, Is Complex",
+    "link": "https://www.nytimes.com/2025/08/19/world/europe/ukraine-security-guarantees-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-30-01 +0000"
+  },
+  {
+    "headline": "Air Canada to resume flights after pay deal struck with union",
+    "link": "https://www.bbc.com/news/articles/cewyzg8rpxpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-19-11-28-40 +0000"
+  },
+  {
+    "headline": "U.K. drops ‘back door’ demand for Apple user data, U.S. intel chief says",
+    "link": "https://www.washingtonpost.com/technology/2025/08/19/uk-apple-backdoor-data-privacy-gabbard/",
+    "source": "wapo",
+    "pubdate": "2025-08-19-11-19-49 +0000"
+  },
+  {
+    "headline": "MSNBC’s Rebrand Invites Bemusement and Ridicule",
+    "link": "https://www.nytimes.com/2025/08/19/business/msnbc-ms-now-rebranding.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-15-56 +0000"
+  },
+  {
+    "headline": "Man convicted of killing woman abducted from insurance office to be executed in Florida’s 10th execution of the year",
+    "link": "https://nypost.com/2025/08/19/us-news/man-convicted-of-killing-woman-abducted-from-insurance-office-to-be-executed-in-floridas-10th-execution-of-the-year/",
+    "source": "nypost",
+    "pubdate": "2025-08-19-11-06-56 +0000"
+  },
+  {
+    "headline": "Netanyahu Faces Pressure From Far Right Over Cease-Fire Proposal",
+    "link": "https://www.nytimes.com/2025/08/19/world/middleeast/netanyahu-israel-hamas-gaza-cease-fire-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-04-00 +0000"
+  },
+  {
+    "headline": "Netanyahu Faces Pressure From Far Right Over Cease-Fire Proposal",
+    "link": "https://www.nytimes.com/2025/08/19/world/middleeast/netanyahu-israel-hamas-gaza-cease-fire-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-04-00 +0000"
+  },
+  {
+    "headline": "Medtronic to Add Directors After Elliott Becomes Big Shareholder",
+    "link": "https://www.wsj.com/business/deals/medtronic-to-add-directors-after-elliott-becomes-big-shareholder-9995d4a1?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-19-11-04-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/08/19/us/trump-zelensky-ukraine-russia/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-08-19-11-01-19 +0000"
+  },
+  {
+    "headline": "In diverse, conservative Willmar, immigration debate gets complicated quickly",
+    "link": "https://www.startribune.com/this-conservative-county-houses-more-ice-detainees-than-any-other-in-minn-it-also-has-nuanced-views-on-immigration/601450621",
+    "source": "startribune",
+    "pubdate": "2025-08-19-11-00-01 +0000"
+  },
+  {
+    "headline": "15 blue-ribbon ways to eat vegan at the Minnesota State Fair",
+    "link": "https://www.startribune.com/15-blue-ribbon-ways-to-eat-vegan-at-the-minnesota-state-fair/601457012",
+    "source": "startribune",
+    "pubdate": "2025-08-19-11-00-01 +0000"
+  },
+  {
+    "headline": "This Tenderloin film vanished after airing 60 years ago. It’s back.",
+    "link": "https://missionlocal.org/2025/08/sf-drugs-tenderloin-film-vanished-after-airing-robert-zagone/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Where to find the new foods at the State Fair",
+    "link": "https://www.startribune.com/where-to-find-the-new-foods-at-the-state-fair/601450792",
+    "source": "startribune",
+    "pubdate": "2025-08-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Meet the Minnesota high school boys soccer 2025 preseason Dream Team",
+    "link": "https://www.startribune.com/high-school-boys-soccer-dream-team-2025-minnesota-star-tribune/601445788",
+    "source": "startribune",
+    "pubdate": "2025-08-19-11-00-00 +0000"
+  },
+  {
+    "headline": "North Loop Red Cow taps luxury retailer neighbor for a makeover",
+    "link": "https://www.startribune.com/north-loop-red-cow-taps-luxury-retailer-neighbor-for-a-makeover/601454856",
+    "source": "startribune",
+    "pubdate": "2025-08-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Musk and Zuckerberg Praise This $3,000 Smart Mattress Cover. Will Regular People Buy, Too?",
+    "link": "https://www.wsj.com/articles/musk-and-zuckerberg-praise-this-3-000-smart-mattress-cover-will-regular-people-buy-too-587c41a5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Why European Leaders Want a Cease-Fire in Ukraine Before a Peace Deal",
+    "link": "https://www.nytimes.com/2025/08/19/us/ukraine-russia-war-ceasefire-trump-europe.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-10-58-32 +0000"
+  },
+  {
+    "headline": "Air Canada and Striking Flight Attendants’ Union Reach Tentative Deal",
+    "link": "https://www.nytimes.com/2025/08/19/world/canada/air-canada-strike-flight-attendants-union-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-10-55-21 +0000"
+  },
+  {
+    "headline": "Air Canada and Striking Flight Attendants’ Union Reach Tentative Deal",
+    "link": "https://www.nytimes.com/2025/08/19/world/canada/air-canada-strike-flight-attendants-union-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-19-10-55-21 +0000"
+  },
+  {
+    "headline": "Europe Defense Stocks Weaker Amid Trump’s Push for Ukraine Peace Conference",
+    "link": "https://www.wsj.com/world/europe/european-defense-stocks-fall-amid-trumps-push-for-ukraine-peace-conference-87ae648d",
+    "source": "wsj",
+    "pubdate": "2025-08-19-10-53-00 +0000"
+  },
+  {
+    "headline": "Fifth New Yorker dies from Legionnaires’ disease outbreak in Harlem as cases rise to 108 sickened",
     "link": "https://nypost.com/2025/08/19/us-news/fifth-person-dies-in-legionnaires-disease-outbreak-in-harlem-as-cases-rise-to-108/",
     "source": "nypost",
     "pubdate": "2025-08-19-10-51-54 +0000"
@@ -12,28 +186,28 @@
     "pubdate": "2025-08-19-10-49-17 +0000"
   },
   {
-    "headline": "Why European Leaders Want a Cease-Fire in Ukraine Before a Peace Deal",
-    "link": "https://www.nytimes.com/2025/08/19/us/ukraine-russia-war-ceasefire-trump-europe.html",
-    "source": "nyt",
-    "pubdate": "2025-08-19-10-43-14 +0000"
+    "headline": "Why Ukraine's first lady wrote Melania Trump a letter",
+    "link": "https://www.bbc.com/news/articles/czd08nj08r3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-19-10-48-33 +0000"
   },
   {
-    "headline": "Securing Postwar Ukraine, Even With Trump’s Pledge to Help, Is Complex",
-    "link": "https://www.nytimes.com/2025/08/19/world/europe/ukraine-security-guarantees-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-19-10-42-59 +0000"
-  },
-  {
-    "headline": "Securing Postwar Ukraine, Even With Trump’s Pledge to Help, Is Complex",
-    "link": "https://www.nytimes.com/2025/08/19/world/europe/ukraine-security-guarantees-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-19-10-42-59 +0000"
+    "headline": "Deputy leader of new Reform UK council steps down",
+    "link": "https://www.bbc.com/news/articles/c23pz43m00yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-19-10-44-25 +0000"
   },
   {
     "headline": "Air Canada Flight Attendants to End Strike",
     "link": "https://www.wsj.com/business/airlines/air-canada-flight-attendants-union-reaches-deal-to-end-strike-68626f96?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-19-10-40-00 +0000"
+  },
+  {
+    "headline": "Dangerous seas forecast for US East Coast as Hurricane Erin grows",
+    "link": "https://www.bbc.com/news/articles/c3r41zeqnexo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-19-10-37-27 +0000"
   },
   {
     "headline": "Dangerous seas forecast for US East Coast as Hurricane Erin grows",
@@ -84,22 +258,16 @@
     "pubdate": "2025-08-19-10-20-48 +0000"
   },
   {
-    "headline": "Home Depot Sees Sales Rise, Shrugging Off Slow Housing Market",
-    "link": "https://www.wsj.com/business/retail/home-depot-sees-sales-rise-shrugging-off-slow-housing-market-a4f71152?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-19-10-11-00 +0000"
-  },
-  {
     "headline": "White House Meeting Ends With Few Signs of Progress on Ukraine",
     "link": "https://www.nytimes.com/live/2025/08/18/us/trump-zelensky-ukraine-putin",
     "source": "nyt",
     "pubdate": "2025-08-19-10-08-04 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/08/19/us/trump-zelensky-ukraine-russia/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-08-19-10-04-50 +0000"
+    "headline": "Best Buy’s website will start selling sports apparel, Martha Stewart wares alongside electronics",
+    "link": "https://www.startribune.com/best-buy-third-party-marketplace-fanatics-martha-stewart-double-online-merchandise/601374680",
+    "source": "startribune",
+    "pubdate": "2025-08-19-10-01-52 +0000"
   },
   {
     "headline": "Seven-year-old New Yorker stuck in China over father’s political art",
@@ -108,26 +276,8 @@
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
   {
-    "headline": "How you can pack a lunch that a child will actually eat",
-    "link": "https://www.latimes.com/california/story/2025-08-19/how-do-you-pack-school-lunch-toddler-will-eat-experts-weigh-in",
-    "source": "latimes",
-    "pubdate": "2025-08-19-10-00-00 +0000"
-  },
-  {
     "headline": "Thousands of Cal State students require housing. But can the university system meet the need?",
     "link": "https://www.latimes.com/california/story/2025-08-19/csu-housing-crisis-prompts-bond-measure-effort",
-    "source": "latimes",
-    "pubdate": "2025-08-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Ultra-luxurious Santa Monica hotel accused of failing to pay staff minimum wage",
-    "link": "https://www.latimes.com/california/story/2025-08-19/luxurious-santa-monica-proper-hotel-accused-of-failing-to-pay-staff-minimum-wage",
-    "source": "latimes",
-    "pubdate": "2025-08-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Newsom's redistricting move isn't pretty. California GOP leaders are uglier",
-    "link": "https://www.latimes.com/california/story/2025-08-19/newsom-redistricting-special-election-california",
     "source": "latimes",
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
@@ -140,6 +290,24 @@
   {
     "headline": "Shaikin: Can L.A. decide on the Dodger Stadium gondola, or anything, in a timely manner?",
     "link": "https://www.latimes.com/sports/dodgers/story/2025-08-19/dodger-stadium-gondola-frank-mccourt-shohei-ohtani",
+    "source": "latimes",
+    "pubdate": "2025-08-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: Newsom's redistricting move isn't pretty. California GOP leaders are uglier",
+    "link": "https://www.latimes.com/california/story/2025-08-19/newsom-redistricting-special-election-california",
+    "source": "latimes",
+    "pubdate": "2025-08-19-10-00-00 +0000"
+  },
+  {
+    "headline": "How you can pack a lunch that a child will actually eat",
+    "link": "https://www.latimes.com/california/story/2025-08-19/how-do-you-pack-school-lunch-toddler-will-eat-experts-weigh-in",
+    "source": "latimes",
+    "pubdate": "2025-08-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Ultra-luxurious Santa Monica hotel accused of failing to pay staff minimum wage",
+    "link": "https://www.latimes.com/california/story/2025-08-19/luxurious-santa-monica-proper-hotel-accused-of-failing-to-pay-staff-minimum-wage",
     "source": "latimes",
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
@@ -162,16 +330,10 @@
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
   {
-    "headline": "Air Canada and Striking Flight Attendants’ Union Reach Tentative Deal",
-    "link": "https://www.nytimes.com/2025/08/19/world/canada/air-canada-strike-flight-attendants-union-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-19-09-59-18 +0000"
-  },
-  {
-    "headline": "Air Canada and Striking Flight Attendants’ Union Reach Tentative Deal",
-    "link": "https://www.nytimes.com/2025/08/19/world/canada/air-canada-strike-flight-attendants-union-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-19-09-59-18 +0000"
+    "headline": "Group looks to protect — rather than develop — Grand Marais bluff",
+    "link": "https://www.startribune.com/group-looks-to-protect-rather-than-develop-grand-marais-bluff/601394348",
+    "source": "startribune",
+    "pubdate": "2025-08-19-10-00-00 +0000"
   },
   {
     "headline": "Entire church begins two-day journey across Swedish city",
@@ -186,16 +348,10 @@
     "pubdate": "2025-08-19-09-55-25 +0000"
   },
   {
-    "headline": "Medtronic to Add Directors After Elliott Becomes Big Shareholder",
-    "link": "https://www.wsj.com/business/deals/medtronic-to-add-directors-after-elliott-becomes-big-shareholder-9995d4a1?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-19-09-45-00 +0000"
-  },
-  {
-    "headline": "Medtronic to Add Directors After Elliott Becomes Big Shareholder",
-    "link": "https://www.wsj.com/business/deals/medtronic-to-add-directors-after-elliott-becomes-big-shareholder-9995d4a1?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-19-09-45-00 +0000"
+    "headline": "Air Canada, flight attendants reach tentative deal to end strike",
+    "link": "https://www.cbc.ca/news/business/air-canada-contract-dispute-flight-attendants-1.7612403?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-19-09-44-56 +0000"
   },
   {
     "headline": "Watch: Two presidents, two very different Oval Office encounters",
@@ -576,7 +732,7 @@
     "pubdate": "2025-08-19-05-35-40 +0000"
   },
   {
-    "headline": "Illegal migrant caught working as police officer in Maine agrees to voluntarily self deport",
+    "headline": "Illegal migrant caught working as police officer in Maine agrees to voluntarily self-deport",
     "link": "https://nypost.com/2025/08/19/us-news/illegal-migrant-caught-working-as-police-officer-in-maine-agrees-to-voluntarily-self-deport/",
     "source": "nypost",
     "pubdate": "2025-08-19-05-28-13 +0000"
@@ -960,12 +1116,6 @@
     "pubdate": "2025-08-19-00-38-58 +0000"
   },
   {
-    "headline": "Are you State Fair ready? Here’s what you need to know as the Minnesota State Fair kicks off",
-    "link": "https://www.startribune.com/mn-state-fair/601456840",
-    "source": "startribune",
-    "pubdate": "2025-08-19-00-31-37 +0000"
-  },
-  {
     "headline": "Hamas Accepts New Gaza Cease-Fire Proposal, Officials Say",
     "link": "https://www.nytimes.com/2025/08/18/world/middleeast/hamas-israel-gaza-ceasefire.html",
     "source": "nyt",
@@ -1038,12 +1188,6 @@
     "pubdate": "2025-08-19-00-01-00 +0000"
   },
   {
-    "headline": "Souhan: Nobody knows how high the ceiling is for Koi Perich",
-    "link": "https://www.startribune.com/minnesota-gophers-koi-perich-ap-all-american-souhan/601448665",
-    "source": "startribune",
-    "pubdate": "2025-08-19-00-00-00 +0000"
-  },
-  {
     "headline": "Zelensky: Funding Ukraine military with $90B weapons package, security guarantees discussed",
     "link": "https://nypost.com/2025/08/18/us-news/zelensky-funding-ukraine-military-with-90b-weapons-package-security-guarantees-discussed/",
     "source": "nypost",
@@ -1078,12 +1222,6 @@
     "link": "https://nypost.com/2025/08/18/us-news/las-vegas-teen-who-killed-dad-during-fight-over-electronics-gets-no-prison-time-from-merciful-judge/",
     "source": "nypost",
     "pubdate": "2025-08-18-23-47-19 +0000"
-  },
-  {
-    "headline": "California mom, 8-month-old daughter missing for over a month found dead in canal",
-    "link": "https://nypost.com/2025/08/18/us-news/missing-california-mom-whisper-owen-8-month-old-infant-daughter-found-dead-in-canal/",
-    "source": "nypost",
-    "pubdate": "2025-08-18-23-43-12 +0000"
   },
   {
     "headline": "Justice Dept. Will Begin Sharing Epstein Files on Friday, Top Republican Says",
@@ -1192,12 +1330,6 @@
     "link": "https://nypost.com/2025/08/18/world-news/putins-biggest-demand-involves-ukraine-surrendering-donetsk-its-most-fortified-region/",
     "source": "nypost",
     "pubdate": "2025-08-18-22-50-24 +0000"
-  },
-  {
-    "headline": "Four girls rescued by helicopter off island near Lake Superior’s Black Beach",
-    "link": "https://www.startribune.com/four-girls-rescued-by-helicopter-off-island-near-lake-superiors-black-beach/601456869",
-    "source": "startribune",
-    "pubdate": "2025-08-18-22-50-16 +0000"
   },
   {
     "headline": "To counter Texas, California lawmakers take up plan to redraw congressional districts",
@@ -1446,12 +1578,6 @@
     "pubdate": "2025-08-18-20-51-15 +0000"
   },
   {
-    "headline": "Hamas source says group agrees to latest Gaza ceasefire proposal",
-    "link": "https://www.bbc.com/news/articles/ckgjye15zdlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-18-20-51-15 +0000"
-  },
-  {
     "headline": "Housing Agency to Offer Material Only in English, Official Says",
     "link": "https://www.nytimes.com/2025/08/18/us/politics/housing-agency-english-material-trump.html",
     "source": "nyt",
@@ -1548,12 +1674,6 @@
     "pubdate": "2025-08-18-19-54-53 +0000"
   },
   {
-    "headline": "Conviction reversed for man charged for role in murder during ambush robbery in St. Paul alley",
-    "link": "https://www.startribune.com/conviction-reversed-for-man-accused-of-role-in-murder-during-ambush-robbery-in-st-paul-alley/601456961",
-    "source": "startribune",
-    "pubdate": "2025-08-18-19-50-52 +0000"
-  },
-  {
     "headline": "Have You Been Unemployed for Six Months or More? We’d Like to Hear From You.",
     "link": "https://www.nytimes.com/2025/08/18/business/long-term-unemployment.html",
     "source": "nyt",
@@ -1578,12 +1698,6 @@
     "pubdate": "2025-08-18-19-38-00 +0000"
   },
   {
-    "headline": "Ramstad: Edina precision sprinkler maker aims at market obstacles and water efficiency",
-    "link": "https://www.startribune.com/ramstad-selling-homebuilders-on-precision-sprinklers-tough-for-this-edina-company/601447092",
-    "source": "startribune",
-    "pubdate": "2025-08-18-19-37-52 +0000"
-  },
-  {
     "headline": "US State Department revokes 6,000 student visas",
     "link": "https://www.bbc.com/news/articles/cz93vznxd07o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1594,12 +1708,6 @@
     "link": "https://www.cbc.ca/news/canada/cambridge-dictionary-skibidi-new-words-1.7611898?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-18-19-32-17 +0000"
-  },
-  {
-    "headline": "Rep. Cedrick Frazier announces run for Hennepin County Attorney, endorsed by Keith Ellison",
-    "link": "https://www.startribune.com/rep-cedrick-frazier-announces-run-for-hennepin-county-attorney-endorsed-by-keith-ellison/601456785",
-    "source": "startribune",
-    "pubdate": "2025-08-18-19-26-54 +0000"
   },
   {
     "headline": "What to know as Air Canada strike continues",
@@ -2142,18 +2250,6 @@
     "pubdate": "2025-08-18-13-04-04 +0000"
   },
   {
-    "headline": "Republican Stacy Garrity Announces Bid to Challenge Josh Shapiro in Pennsylvania",
-    "link": "https://www.nytimes.com/2025/08/18/us/politics/republican-stacy-garrity-josh-shapiro-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2025-08-18-13-03-07 +0000"
-  },
-  {
-    "headline": "Republican Stacy Garrity Announces Bid to Challenge Josh Shapiro in Pennsylvania",
-    "link": "https://www.nytimes.com/2025/08/18/us/politics/republican-stacy-garrity-josh-shapiro-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2025-08-18-13-03-07 +0000"
-  },
-  {
     "headline": "Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin",
     "link": "https://www.nytimes.com/2025/08/17/us/politics/europe-trump-zelensky-putin.html",
     "source": "nyt",
@@ -2202,12 +2298,6 @@
     "pubdate": "2025-08-18-12-05-11 +0000"
   },
   {
-    "headline": "What each side wants from Ukraine talks at White House",
-    "link": "https://www.bbc.com/news/articles/cy4dq2yve5lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-18-12-05-11 +0000"
-  },
-  {
     "headline": "Meta investigated over AI having 'sensual' chats with children",
     "link": "https://www.bbc.com/news/articles/c3dpmlvx1k2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2218,71 +2308,5 @@
     "link": "https://www.washingtonpost.com/world/2025/08/18/trump-ukraine-russia-europe/",
     "source": "wapo",
     "pubdate": "2025-08-18-12-03-49 +0000"
-  },
-  {
-    "headline": "Crypto trading for beginners — what to know before you buy",
-    "link": "https://nypost.com/business/how-to-start-crypto-trading/",
-    "source": "nypost",
-    "pubdate": "2025-08-18-11-45-00 +0000"
-  },
-  {
-    "headline": "'No going into Nato by Ukraine,' says Trump as Zelensky prepares for White House talks",
-    "link": "https://www.bbc.com/news/articles/cm21j1ve817o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-18-11-37-54 +0000"
-  },
-  {
-    "headline": "First group of Gaza children to be brought to UK 'in coming weeks'",
-    "link": "https://www.bbc.com/news/articles/c30z17376ego?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-18-11-24-50 +0000"
-  },
-  {
-    "headline": "First group of Gaza children to be brought to UK 'in coming weeks'",
-    "link": "https://www.bbc.com/news/articles/c30z17376ego?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-18-11-24-50 +0000"
-  },
-  {
-    "headline": "Trump Bows to Putin’s Approach on Ukraine: No Cease-Fire, Deadlines or Sanctions",
-    "link": "https://www.nytimes.com/2025/08/16/us/politics/trump-putin-approach-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-08-18-11-06-00 +0000"
-  },
-  {
-    "headline": "Trump Bows to Putin’s Approach on Ukraine: No Cease-Fire, Deadlines or Sanctions",
-    "link": "https://www.nytimes.com/2025/08/16/us/politics/trump-putin-approach-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-08-18-11-06-00 +0000"
-  },
-  {
-    "headline": "'The water had no mercy': Hundreds killed as floods ravage north Pakistan",
-    "link": "https://www.bbc.com/news/articles/ce3jeed2798o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-18-11-00-34 +0000"
-  },
-  {
-    "headline": "'The water had no mercy': Hundreds killed as floods ravage north Pakistan",
-    "link": "https://www.bbc.com/news/articles/ce3jeed2798o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-18-11-00-34 +0000"
-  },
-  {
-    "headline": "This Tenderloin street closed to cars and opened to kids. It could be a model for S.F.",
-    "link": "https://missionlocal.org/2025/08/elm-alley-tenderloin-community-school/",
-    "source": "missionlocal",
-    "pubdate": "2025-08-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Work Advice: Managing a quirky colleague’s interactions with outsiders",
-    "link": "https://www.washingtonpost.com/business/2025/08/18/work-advice-managing-neurodiversity/",
-    "source": "wapo",
-    "pubdate": "2025-08-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Cambria shifts quartz processing from Canada to Dakota County",
-    "link": "https://www.startribune.com/cambria-quartz-new-factory-minnesota-reshoring-canadian-operations-struggling-industry/601454082",
-    "source": "startribune",
-    "pubdate": "2025-08-18-11-00-00 +0000"
   }
 ]
