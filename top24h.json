@@ -1,13 +1,13 @@
 [
   {
-    "score": 230,
+    "score": 228,
     "pubdate": "2025-08-19-02-43-00 +0000",
     "source": "wsj",
     "headline": "Trump Pushes for Putin and Zelensky Meeting in Bid to End Ukraine War",
     "link": "https://www.wsj.com/world/trump-pushes-for-peace-summit-with-u-s-russia-and-ukraine-d4b81a57"
   },
   {
-    "score": 125,
+    "score": 124,
     "pubdate": "2025-08-19-21-56-00 +0000",
     "source": "wsj",
     "headline": "Flight Attendants Win Boarding Pay, Four-Year Deal, Ending Air Canada Strike",
@@ -42,25 +42,18 @@
     "link": "https://nypost.com/2025/08/19/us-news/pro-adams-pac-phones-nyc-voters-to-call-cuomo-a-sore-loser/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-08-19-16-34-37 +0000",
-    "source": "nypost",
-    "headline": "First biography from Oct. 7 hostage Eli Sharabi will reveal shocking abuse — and unimaginable news he learned after his release",
-    "link": "https://nypost.com/2025/08/19/world-news/first-biography-by-oct-7-hostage-eli-sharabi-reveals-horror-abuse/"
-  },
-  {
-    "score": 48,
+    "score": 47,
     "pubdate": "2025-08-19-19-55-47 +0000",
     "source": "nypost",
     "headline": "Texas Dem Rep. Nicole Collier slept in state House, calls herself ‘political prisoner’ for turning down escort after redistricting stunt",
     "link": "https://nypost.com/2025/08/19/us-news/texas-dem-nicole-collier-slept-in-state-house-calls-herself-political-prisoner/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-19-09-39-52 +0000",
-    "source": "bbc",
-    "headline": "Watch: Two presidents, two very different Oval Office encounters",
-    "link": "https://www.bbc.com/news/videos/c74173p9nexo?at_medium=RSS&at_campaign=rss"
+    "score": 46,
+    "pubdate": "2025-08-19-16-34-37 +0000",
+    "source": "nypost",
+    "headline": "First biography from Oct. 7 hostage Eli Sharabi will reveal shocking abuse — and unimaginable news he learned after his release",
+    "link": "https://nypost.com/2025/08/19/world-news/first-biography-by-oct-7-hostage-eli-sharabi-reveals-horror-abuse/"
   },
   {
     "score": 44,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Married Ohio teachers killed in fiery out-of-state crash while dropping eldest son off at college: ‘Just devastating’",
     "link": "https://nypost.com/2025/08/19/us-news/married-ohio-teachers-killed-in-fiery-out-of-state-crash-while-dropping-eldest-son-off-at-college/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-08-19-09-39-52 +0000",
+    "source": "bbc",
+    "headline": "Watch: Two presidents, two very different Oval Office encounters",
+    "link": "https://www.bbc.com/news/videos/c74173p9nexo?at_medium=RSS&at_campaign=rss"
   }
 ]
