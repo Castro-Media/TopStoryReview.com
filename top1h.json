@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 20,
+    "pubdate": "2025-08-21-10-15-01 +0000",
+    "source": "nyt",
+    "headline": "Wisconsin Woman Who Flew to UK to Try to Kill a Man Gets 30-Year Sentence",
+    "link": "https://www.nytimes.com/2025/08/21/world/europe/aimee-betro-assassination-attempt-sentence.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-21-10-47-04 +0000",
+    "source": "bbc",
+    "headline": "Russia launches biggest wave of strikes on Ukraine for weeks",
+    "link": "https://www.bbc.com/news/articles/c62wj8yje2eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-21-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Private land used for logging is more prone to severe fire than public lands. A new study shows why",
+    "link": "https://www.latimes.com/environment/story/2025-08-21/why-private-timber-land-is-more-prone-to-severe-fire-than-public-lands"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-21-10-02-50 +0000",
+    "source": "bbc",
+    "headline": "Ghanaian music star Shatta Wale detained over Lamborghini purchase",
+    "link": "https://www.bbc.com/news/articles/cq68j92yjd9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-21-10-51-17 +0000",
+    "source": "nypost",
+    "headline": "Fitness influencer and mom Nicole Brenda Santos Marins, 28, dead in motorcycle crash after being run over by truck",
+    "link": "https://nypost.com/2025/08/21/world-news/fitness-influencer-nicole-brenda-santos-marins-dead-at-28-cause-of-death-revealed/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-21-10-27-03 +0000",
+    "source": "nyt",
+    "headline": "How Tiffany Trump’s Husband Benefited From Proximity to Power",
+    "link": "https://www.nytimes.com/2025/08/21/world/europe/michael-boulos-tiffany-trump-business-deals.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-21-10-42-31 +0000",
+    "source": "nyt",
+    "headline": "The Trade That Binds the Indian and American Economies",
+    "link": "https://www.nytimes.com/2025/08/21/business/trump-tariffs-india.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-21-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Housing Tracker: Southern California home values dip slightly in July",
+    "link": "https://www.latimes.com/california/story/2025-08-21/housing-tracker-for-july"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-21-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "L.A. may land a new congressional seat. Is it already reserved?",
+    "link": "https://www.latimes.com/california/story/2025-08-21/l-a-may-land-a-new-congressional-seat-is-it-already-reserved"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-21-10-22-16 +0000",
+    "source": "nypost",
+    "headline": "Pope Leo opts to share papal residence with four associates, breaking with tradition",
+    "link": "https://nypost.com/2025/08/21/world-news/pope-leo-opts-to-share-papal-residence-with-four-associates-breaking-with-tradition/"
+  }
+]
