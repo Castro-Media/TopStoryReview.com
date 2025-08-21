@@ -1,164 +1,134 @@
 [
   {
+    "headline": "Jair Bolsonaro Planned to Seek Asylum in Argentina, Brazil’s Police Say",
+    "link": "https://www.nytimes.com/2025/08/20/world/americas/jair-bolsonaro-brazil-asylum-argentina.html",
+    "source": "nyt",
+    "pubdate": "2025-08-21-01-11-27 +0000"
+  },
+  {
+    "headline": "Dilapidated Bayview building to become S.F. homeless housing for young adults",
+    "link": "https://missionlocal.org/2025/08/dilapidated-bayview-building-to-become-s-f-homeless-housing-for-young-adults/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-21-01-07-55 +0000"
+  },
+  {
+    "headline": "A Huge Cave in Kentucky Was a Smelly Disaster. Now It’s Spectacular.",
+    "link": "https://www.nytimes.com/2025/08/20/climate/horse-hidden-river-cave-pollution-cleanup.html",
+    "source": "nyt",
+    "pubdate": "2025-08-21-01-00-36 +0000"
+  },
+  {
+    "headline": "Dusky Gopher Frogs Are Making a Comeback in Mississippi",
+    "link": "https://www.nytimes.com/2025/08/20/climate/mississippi-dusky-gopher-frog.html",
+    "source": "nyt",
+    "pubdate": "2025-08-21-01-00-21 +0000"
+  },
+  {
+    "headline": "Why Shop? In Maine, the Library of Things Has It All (Almost)",
+    "link": "https://www.nytimes.com/2025/08/20/climate/maine-library-of-things.html",
+    "source": "nyt",
+    "pubdate": "2025-08-21-01-00-19 +0000"
+  },
+  {
+    "headline": "In Eastern Ukraine, Fear and Disbelief Over Proposal to Cede Land to Russia",
+    "link": "https://www.wsj.com/world/ukraine-donetsk-russia-reaction-2adaef84",
+    "source": "wsj",
+    "pubdate": "2025-08-21-01-00-00 +0000"
+  },
+  {
+    "headline": "President Trump and his allies are waging a caustic, unprecedented campaign to pressure Fed Chair Jerome Powell into cutting interest rates. Powell is trying to keep his cool in the hot seat.",
+    "link": "https://www.wsj.com/economy/central-banking/fed-chair-powell-trump-pressure-2acf8e3b",
+    "source": "wsj",
+    "pubdate": "2025-08-21-01-00-00 +0000"
+  },
+  {
+    "headline": "Trump’s ‘Law and Order’ Push in D.C. Looks a Lot Like an Immigration Raid",
+    "link": "https://www.wsj.com/us-news/trump-dc-immigration-raid-ab03b4bc",
+    "source": "wsj",
+    "pubdate": "2025-08-21-01-00-00 +0000"
+  },
+  {
+    "headline": "Former Walmart worker indicted after trying to intervene in immigration arrest",
+    "link": "https://www.latimes.com/california/story/2025-08-20/walmart-worker-indicted-immigration-arrest",
+    "source": "latimes",
+    "pubdate": "2025-08-21-00-53-50 +0000"
+  },
+  {
+    "headline": "ICE tactics escalate at S.F. courthouse as protesters clash with officers",
+    "link": "https://eltecolote.org/content/en/sf-ice-courthouse-protest/",
+    "source": "eltecolote",
+    "pubdate": "2025-08-21-00-51-57 +0000"
+  },
+  {
+    "headline": "Most L.A. city employee layoffs averted by deals with unions",
+    "link": "https://www.latimes.com/california/story/2025-08-20/most-l-a-city-employee-layoffs-averted-by-deal-with-unions",
+    "source": "latimes",
+    "pubdate": "2025-08-21-00-50-18 +0000"
+  },
+  {
+    "headline": "LA junkie charged with killing ‘American Idol’ exec Robin Kaye  and her husband will undergo mental evaluation",
+    "link": "https://nypost.com/2025/08/20/us-news/la-junkie-charged-with-killing-american-idol-exec-robin-kaye-husband-to-undergo-mental-evaluation/",
+    "source": "nypost",
+    "pubdate": "2025-08-21-00-47-48 +0000"
+  },
+  {
+    "headline": "Camp Mystic Parents Demand Changes Before More Children Are Lost",
+    "link": "https://www.nytimes.com/2025/08/20/us/politics/camp-mystic-parents.html",
+    "source": "nyt",
+    "pubdate": "2025-08-21-00-46-35 +0000"
+  },
+  {
+    "headline": "Camp Mystic Parents Demand Changes Before More Children Are Lost",
+    "link": "https://www.nytimes.com/2025/08/20/us/politics/camp-mystic-parents.html",
+    "source": "nyt",
+    "pubdate": "2025-08-21-00-46-35 +0000"
+  },
+  {
+    "headline": "North Carolina’s Outer Banks Braces for Hurricane Erin",
+    "link": "https://www.wsj.com/us-news/climate-environment/north-carolinas-outer-banks-brace-for-hurricane-erin-f13b85af",
+    "source": "wsj",
+    "pubdate": "2025-08-21-00-45-00 +0000"
+  },
+  {
+    "headline": "Badenoch encourages Tory councils to challenge asylum hotels",
+    "link": "https://www.bbc.com/news/articles/cwy0j9n4qzwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-21-00-42-54 +0000"
+  },
+  {
+    "headline": "Supermarket chain Meijer under fire after manager has autistic deli worker arrested for allegedly stealing ‘orders of chicken and fruit cups’: bodycam video",
+    "link": "https://nypost.com/2025/08/20/us-news/hundreds-online-call-for-boycott-of-midwest-grocery-store-after-19-year-old-autistic-deli-worker-arrested-for-stealing-fruit-cups-and-portions-of-chicken-video/",
+    "source": "nypost",
+    "pubdate": "2025-08-21-00-42-34 +0000"
+  },
+  {
+    "headline": "India's biofuel drive is saving billions but also sparking worries",
+    "link": "https://www.bbc.com/news/articles/cvgv873y02eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-21-00-27-40 +0000"
+  },
+  {
+    "headline": "California resident tests positive for the plague after camping trip",
+    "link": "https://nypost.com/2025/08/20/us-news/california-resident-tests-positive-for-the-plague-after-camping-trip/",
+    "source": "nypost",
+    "pubdate": "2025-08-21-00-25-51 +0000"
+  },
+  {
+    "headline": "President Trump has ordered the Pentagon to send three Navy warships to interdict drug cartels off the coast of South America, including near Venezuela",
+    "link": "https://www.wsj.com/politics/national-security/trump-orders-pentagon-to-deploy-three-warships-against-latin-american-drug-cartels-939c8240",
+    "source": "wsj",
+    "pubdate": "2025-08-21-00-19-00 +0000"
+  },
+  {
     "headline": "Texas lawmakers approve redistricting map favouring Republicans",
     "link": "https://www.bbc.com/news/articles/cp8z4nj17dno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-08-20-23-50-00 +0000"
+    "pubdate": "2025-08-21-00-18-41 +0000"
   },
   {
     "headline": "Texas lawmakers approve redistricting map favouring Republicans",
     "link": "https://www.bbc.com/news/articles/cp8z4nj17dno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-08-20-23-50-00 +0000"
-  },
-  {
-    "headline": "U.S. Navy Sailor Is Convicted of Spying for China",
-    "link": "https://www.nytimes.com/2025/08/20/us/us-navy-sailor-china-spy-convicted.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-46-20 +0000"
-  },
-  {
-    "headline": "Nykia Hamilton, mom of 3 Burger King worker who was forced to run store alone, fired by franchise",
-    "link": "https://nypost.com/2025/08/20/us-news/burger-king-worker-nykia-hamilton-fired-after-running-store-alone/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-45-37 +0000"
-  },
-  {
-    "headline": "With Moves on West Bank and Gaza City, Israel Defies Global Outcry",
-    "link": "https://www.nytimes.com/2025/08/20/world/middleeast/israel-hamas-gaza-city.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-41-20 +0000"
-  },
-  {
-    "headline": "With Moves on West Bank and Gaza City, Israel Defies Global Outcry",
-    "link": "https://www.nytimes.com/2025/08/20/world/middleeast/israel-hamas-gaza-city.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-41-20 +0000"
-  },
-  {
-    "headline": "With Moves on West Bank and Gaza City, Israel Defies Global Outcry",
-    "link": "https://www.nytimes.com/2025/08/20/world/middleeast/israel-hamas-gaza-city.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-41-20 +0000"
-  },
-  {
-    "headline": "Stephen Miller Pledges Even More ‘Resources’ for D.C. Crackdown",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/stephen-miller-dc-crime-crackdown.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-36-55 +0000"
-  },
-  {
-    "headline": "Stephen Miller Pledges Even More ‘Resources’ for D.C. Crackdown",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/stephen-miller-dc-crime-crackdown.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-36-55 +0000"
-  },
-  {
-    "headline": "Trump says he has ‘solved’ 7 conflicts. Here’s what to know about them.",
-    "link": "https://www.washingtonpost.com/world/2025/08/20/trump-peace-seven-conflicts-wars/",
-    "source": "wapo",
-    "pubdate": "2025-08-20-23-31-21 +0000"
-  },
-  {
-    "headline": "Gavin Newsom’s Latest Role: Social Media Troll",
-    "link": "https://www.nytimes.com/2025/08/20/us/newsom-trump-social-media.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-30-45 +0000"
-  },
-  {
-    "headline": "Hurricane Erin's high waves thrash coast of North Carolina",
-    "link": "https://www.bbc.com/news/articles/ce934e9gyryo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-20-23-27-43 +0000"
-  },
-  {
-    "headline": "Texas House finally passes contentious redistricting map stalled by AWOL Democrats",
-    "link": "https://nypost.com/2025/08/20/us-news/texas-house-passes-redistricting-bill-stalled-by-awol-democrats/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-24-59 +0000"
-  },
-  {
-    "headline": "Texas House finally passes contentious redistricting map stalled by AWOL Democrats",
-    "link": "https://nypost.com/2025/08/20/us-news/texas-house-passes-redistricting-bill-stalled-by-awol-democrats/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-24-59 +0000"
-  },
-  {
-    "headline": "Vikings trade defensive tackle Harrison Phillips to the Jets as roster cutdown day nears",
-    "link": "https://www.startribune.com/minnesota-vikings-trade-harrison-phillips-new-york-jets-nfl-training-camp/601458312",
-    "source": "startribune",
-    "pubdate": "2025-08-20-23-22-48 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani doubles down on pro-prostitution policies as he praises ex-NYC Mayor Bill de Blasio’s decriminalization focus",
-    "link": "https://nypost.com/2025/08/20/us-news/zohran-mamdani-doubles-down-on-pro-prostitution-policies-as-he-praises-ex-nyc-mayor-bill-de-blasio/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-20-21 +0000"
-  },
-  {
-    "headline": "Texas House Approves Redistricting Maps, Just as Trump Wanted",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/texas-republicans-redistricting-maps.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-19-54 +0000"
-  },
-  {
-    "headline": "Texas House Approves Redistricting Maps, Just as Trump Wanted",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/texas-republicans-redistricting-maps.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-23-19-54 +0000"
-  },
-  {
-    "headline": "NYC judge’s slap-on-the-wrist sentence for convicted rapist could send dangerous message to sex assault victims: ‘An outrage!’",
-    "link": "https://nypost.com/2025/08/20/us-news/victims-advocates-warn-slap-on-the-wrist-sentence-for-convicted-nyc-rapist-could-send-dangerous-message-its-an-outrage/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-16-11 +0000"
-  },
-  {
-    "headline": "New Timberwolves and Lynx owners lay off dozens of business-side workers",
-    "link": "https://www.startribune.com/new-minnesota-timberwolves-and-lynx-owners-lay-off-dozens-of-business-side-workers/601458313",
-    "source": "startribune",
-    "pubdate": "2025-08-20-23-15-54 +0000"
-  },
-  {
-    "headline": "Ukrainian children captured and ‘brainwashed’ by Russia in preparation for war tell how they escaped",
-    "link": "https://nypost.com/2025/08/20/world-news/ukrainian-children-captured-and-brainwashed-by-russia-in-preparation-for-war-tell-how-they-escaped/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-09-47 +0000"
-  },
-  {
-    "headline": "Off-duty CBP agent shot by illegal migrant in NYC botched robbery suffered ‘devastating and lasting injuries’: prosecutors",
-    "link": "https://nypost.com/2025/08/20/us-news/off-duty-cbp-agent-shot-by-illegal-migrants-in-nyc-suffered-devastating-and-lasting-injuries-underwent-several-surgeries-prosecutors/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-05-32 +0000"
-  },
-  {
-    "headline": "Denmark's state postal service calls time on letter deliveries",
-    "link": "https://www.bbc.com/news/articles/c3v37plv2edo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-20-23-04-51 +0000"
-  },
-  {
-    "headline": "NYC boys, 12 and 15, stab good Samaritan who tried to stop pint-sized perps from harassing someone else: cops, sources",
-    "link": "https://nypost.com/2025/08/20/us-news/nyc-boys-12-and-15-stab-good-samaritan-who-tried-to-stop-pint-sized-perps-from-harassing-someone-else-cops-sources/",
-    "source": "nypost",
-    "pubdate": "2025-08-20-23-04-17 +0000"
-  },
-  {
-    "headline": "Fed governor says she won't be 'bullied' as Trump demands she quit over mortgage claim",
-    "link": "https://www.bbc.com/news/articles/cx276gg2gwro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-20-22-59-26 +0000"
-  },
-  {
-    "headline": "Fed governor says she won't be 'bullied' as Trump demands she quit over mortgage claim",
-    "link": "https://www.bbc.com/news/articles/cx276gg2gwro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-20-22-59-26 +0000"
-  },
-  {
-    "headline": "Target’s incoming CEO has a heavy lift, as a promised turnaround is not yet close",
-    "link": "https://www.startribune.com/target-ceo-transition-turnaround-struggles-sales-consumers/601454406",
-    "source": "startribune",
-    "pubdate": "2025-08-20-22-56-14 +0000"
+    "pubdate": "2025-08-21-00-18-41 +0000"
   }
 ]
