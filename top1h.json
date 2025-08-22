@@ -1,16 +1,58 @@
 [
   {
-    "score": 14,
-    "pubdate": "2025-08-22-03-53-25 +0000",
+    "score": 22,
+    "pubdate": "2025-08-22-05-00-15 +0000",
+    "source": "bbc",
+    "headline": "Proposed Ukraine land concessions are Putin's trap, EU's top diplomat tells BBC",
+    "link": "https://www.bbc.com/news/articles/cp8zdezm507o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-08-22-04-56-10 +0000",
+    "source": "nypost",
+    "headline": "Brute suspected of savagely knocking out woman during Rüfüs Du Sol concert at Rose Bowl arrested: report",
+    "link": "https://nypost.com/2025/08/22/us-news/california-rose-bowl-rufus-du-sol-attack-suspect-julio-cesar-lopez-zavala-arrested-in-hawthorne/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-22-05-44-58 +0000",
+    "source": "bbc",
+    "headline": "Israel says it will start talks to free all hostages as cabinet approves Gaza City assault",
+    "link": "https://www.bbc.com/news/articles/c754kknw2g2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-08-22-05-51-27 +0000",
     "source": "nyt",
-    "headline": "Thai Court to Rule in Thaksin’s Royal Defamation Case",
+    "headline": "Thaksin Shinawatra, Former Thai Premier, Cleared of Insulting Monarchy",
     "link": "https://www.nytimes.com/2025/08/21/world/asia/thailand-thaksin-royal-insult.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-08-22-03-53-25 +0000",
+    "score": 6,
+    "pubdate": "2025-08-22-05-38-37 +0000",
     "source": "nyt",
-    "headline": "Thai Court to Rule in Thaksin’s Royal Defamation Case",
-    "link": "https://www.nytimes.com/2025/08/21/world/asia/thailand-thaksin-royal-insult.html"
+    "headline": "Pickett Fire Forces Evacuations in Napa County",
+    "link": "https://www.nytimes.com/2025/08/21/us/pickett-fire-calistoga-napa-county.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-08-22-05-26-58 +0000",
+    "source": "bbc",
+    "headline": "Beijing opposes 'bully' US for 50% tariffs on India",
+    "link": "https://www.bbc.com/news/articles/cger04e8g0vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-08-22-05-19-48 +0000",
+    "source": "latimes",
+    "headline": "Video caught brutal assault at Rüfüs Du Sol show at Rose Bowl. Suspect, 23, arrested",
+    "link": "https://www.latimes.com/california/story/2025-08-21/man-arrested-assault-rufus-du-sol-show-rose-bowl"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-22-05-00-15 +0000",
+    "source": "bbc",
+    "headline": "Proposed Ukraine land concessions are Putin's trap, EU's top diplomat tells BBC",
+    "link": "https://www.bbc.com/news/articles/cp8zdezm507o?at_medium=RSS&at_campaign=rss"
   }
 ]
