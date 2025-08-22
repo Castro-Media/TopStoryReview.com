@@ -1,33 +1,201 @@
 [
   {
+    "headline": "Hurricane Erin to drench parts of Virginia while approaching US northeast",
+    "link": "https://www.bbc.com/news/articles/cwye3elwxd9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-22-02-19-12 +0000"
+  },
+  {
+    "headline": "Judge Orders ‘Alligator Alcatraz’ Detention Center in Florida to Shut Down for Now",
+    "link": "https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-02-18-01 +0000"
+  },
+  {
+    "headline": "Japan ‘bear attack’ victim, 93, was actually murdered, son arrested in shocking twist",
+    "link": "https://nypost.com/2025/08/21/world-news/japan-bear-attack-victim-was-murdered-son-arrested/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-02-17-10 +0000"
+  },
+  {
+    "headline": "Erik Menendez’s Parole Bid Is Rejected",
+    "link": "https://www.wsj.com/us-news/law/erik-menendezs-parole-bid-is-rejected-dc4de9c6",
+    "source": "wsj",
+    "pubdate": "2025-08-22-02-08-00 +0000"
+  },
+  {
+    "headline": "Japan’s Inflation Stays Well Above BOJ’s 2% Target",
+    "link": "https://www.wsj.com/economy/japans-inflation-stays-well-above-bojs-2-target-5e51f5df",
+    "source": "wsj",
+    "pubdate": "2025-08-22-02-07-00 +0000"
+  },
+  {
+    "headline": "After being denied parole, Erik Menendez still has other pathways to freedom.",
+    "link": "https://www.nytimes.com/2025/08/21/us/erik-menendez-parole-release-habeas.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-02-04-49 +0000"
+  },
+  {
+    "headline": "America’s last living ace pilot from World War II dead at 103: ‘So many honors and medals’",
+    "link": "https://nypost.com/2025/08/21/us-news/americas-last-living-ace-pilot-from-world-war-ii-dead-at-103/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-02-04-15 +0000"
+  },
+  {
+    "headline": "Erik Menendez, who was convicted of killing his parents, is denied parole",
+    "link": "https://www.washingtonpost.com/nation/2025/08/21/erik-menendez-parole-hearing-decision/",
+    "source": "wapo",
+    "pubdate": "2025-08-22-02-00-24 +0000"
+  },
+  {
+    "headline": "Lyle and Erik Menendez Make Their Case for Parole",
+    "link": "https://www.nytimes.com/live/2025/08/21/us/menendez-brothers-parole-hearing/menendez-brothers-parole",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-53-31 +0000"
+  },
+  {
+    "headline": "Erik Menendez denied parole in crushing defeat for celebrity killer — Lyle’s fate still in play",
+    "link": "https://nypost.com/2025/08/21/us-news/erik-menendez-denied-parole-in-crushing-defeat-for-celebrity-killer/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-01-51-42 +0000"
+  },
+  {
+    "headline": "Apple TV+ hikes monthly subscription price for Apple users",
+    "link": "https://nypost.com/2025/08/21/business/apple-tv-hikes-monthly-subscription-price-for-apple-users/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-01-50-38 +0000"
+  },
+  {
+    "headline": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
+    "link": "https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-50-26 +0000"
+  },
+  {
+    "headline": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
+    "link": "https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-50-26 +0000"
+  },
+  {
+    "headline": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
+    "link": "https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-50-26 +0000"
+  },
+  {
+    "headline": "Erik Menendez was questioned about illicit cellphone use inside the prison.",
+    "link": "https://www.nytimes.com/live/2025/08/21/us/menendez-brothers-parole-hearing/erik-menendez-was-questioned-about-illicit-cellphone-use-inside-the-prison",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-48-15 +0000"
+  },
+  {
+    "headline": "Police Helicopter Downed by Drone in Colombia, Killing 12",
+    "link": "https://www.wsj.com/world/americas/police-helicopter-downed-by-drone-in-colombia-killing-12-48117a0d",
+    "source": "wsj",
+    "pubdate": "2025-08-22-01-48-00 +0000"
+  },
+  {
+    "headline": "‘I was not raised with a moral foundation,’ Erik Menendez told the parole board.",
+    "link": "https://www.nytimes.com/live/2025/08/21/us/menendez-brothers-parole-hearing/i-was-not-raised-with-a-moral-foundation-erik-menendez-told-the-parole-board",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-47-47 +0000"
+  },
+  {
+    "headline": "Florida ordered to dismantle Alligator Alcatraz over environmental impact",
+    "link": "https://www.washingtonpost.com/nation/2025/08/21/florida-alligator-alcatraz-immigration-detention/",
+    "source": "wapo",
+    "pubdate": "2025-08-22-01-47-27 +0000"
+  },
+  {
+    "headline": "Erik Menendez apologized to his family in closing remarks.",
+    "link": "https://www.nytimes.com/live/2025/08/21/us/menendez-brothers-parole-hearing/erik-menendez-closing-statement",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-47-26 +0000"
+  },
+  {
+    "headline": "Erik Menendez to remain in prison after decision by California Parole Board",
+    "link": "https://www.latimes.com/california/story/2025-08-21/california-parole-board-erik-menendez",
+    "source": "latimes",
+    "pubdate": "2025-08-22-01-43-32 +0000"
+  },
+  {
+    "headline": "'He's trying to rig the election.' Newsom bashes Trump as redistricting campaign kicks off",
+    "link": "https://www.latimes.com/california/story/2025-08-21/newsom-trump-ballot-measure",
+    "source": "latimes",
+    "pubdate": "2025-08-22-01-37-38 +0000"
+  },
+  {
+    "headline": "'He's trying to rig the election.' Newsom bashes Trump as redistricting campaign kicks off",
+    "link": "https://www.latimes.com/california/story/2025-08-21/newsom-trump-ballot-measure",
+    "source": "latimes",
+    "pubdate": "2025-08-22-01-37-38 +0000"
+  },
+  {
+    "headline": "MTA’s poor track record of returning ‘lost’ items to subway, bus riders revealed after undercover probe: ‘Considerable concern’",
+    "link": "https://nypost.com/2025/08/21/us-news/mtas-poor-track-record-of-returning-lost-items-to-subway-bus-riders-revealed-after-undercover-probe-considerable-concern/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-01-32-58 +0000"
+  },
+  {
+    "headline": "Mother of Texas child who disappeared in 2022 arrested on murder charge after hiding in India for 2 years",
+    "link": "https://nypost.com/2025/08/21/us-news/mother-of-texas-child-who-disappeared-in-2022-arrested-on-murder-charge-after-hiding-in-india-for-2-years/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-01-32-04 +0000"
+  },
+  {
+    "headline": "Huge marijuana farm spewing toxic chemicals is busted in Sequoia National Park",
+    "link": "https://www.latimes.com/california/story/2025-08-21/massive-marijuana-grow-using-toxic-chemicals-busted-in-sequoia-national-park",
+    "source": "latimes",
+    "pubdate": "2025-08-22-01-28-57 +0000"
+  },
+  {
+    "headline": "Drone Explosion in Haiti Kills 2 SWAT Members and Injures 6 Others",
+    "link": "https://www.nytimes.com/2025/08/20/world/americas/haiti-drones-police-gangs.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-28-56 +0000"
+  },
+  {
+    "headline": "Drone Explosion in Haiti Kills 2 SWAT Members and Injures 6 Others",
+    "link": "https://www.nytimes.com/2025/08/20/world/americas/haiti-drones-police-gangs.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-28-56 +0000"
+  },
+  {
+    "headline": "Trump Starts Investigation That Could Lead to Tariffs on Wind Turbines",
+    "link": "https://www.nytimes.com/2025/08/21/us/politics/trump-investigation-tariffs-wind-turbines.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-28-45 +0000"
+  },
+  {
+    "headline": "Trump Starts Investigation That Could Lead to Tariffs on Wind Turbines",
+    "link": "https://www.nytimes.com/2025/08/21/us/politics/trump-investigation-tariffs-wind-turbines.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-28-45 +0000"
+  },
+  {
+    "headline": "Trump Starts Investigation That Could Lead to Tariffs on Wind Turbines",
+    "link": "https://www.nytimes.com/2025/08/21/us/politics/trump-investigation-tariffs-wind-turbines.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-01-28-45 +0000"
+  },
+  {
+    "headline": "Thai court to rule on former PM Thaksin's royal insult case",
+    "link": "https://www.bbc.com/news/articles/ckgyx62gk5wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-22-01-19-28 +0000"
+  },
+  {
     "headline": "Minnesota DFL revokes Omar Fateh’s endorsement for Minneapolis mayor",
     "link": "https://www.startribune.com/minneapolis-mayor-dfl-endorsement/601458249",
     "source": "startribune",
-    "pubdate": "2025-08-22-01-12-15 +0000"
+    "pubdate": "2025-08-22-01-15-38 +0000"
   },
   {
     "headline": "Truck bomb and helicopter downing in Colombia leave at least 13 dead",
     "link": "https://www.washingtonpost.com/world/2025/08/21/colombia-truck-bomb-helicopter-attack/",
     "source": "wapo",
     "pubdate": "2025-08-22-01-09-11 +0000"
-  },
-  {
-    "headline": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
-    "link": "https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-07-22 +0000"
-  },
-  {
-    "headline": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
-    "link": "https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-07-22 +0000"
-  },
-  {
-    "headline": "Trump Budget Office Is Withholding H.I.V. Funds That Congress Appropriated",
-    "link": "https://www.nytimes.com/2025/08/21/health/hiv-aids-pepfar-funding-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-07-22 +0000"
   },
   {
     "headline": "U.S. Kills Islamic State Operative in Rare Raid in Syria",
@@ -75,13 +243,13 @@
     "headline": "Newsom Signs California Redistricting Plan to Counter Texas Republicans",
     "link": "https://www.nytimes.com/2025/08/21/us/politics/california-newsom-redistricting-texas.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-00-55-55 +0000"
+    "pubdate": "2025-08-22-00-55-56 +0000"
   },
   {
     "headline": "Newsom Signs California Redistricting Plan to Counter Texas Republicans",
     "link": "https://www.nytimes.com/2025/08/21/us/politics/california-newsom-redistricting-texas.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-00-55-55 +0000"
+    "pubdate": "2025-08-22-00-55-56 +0000"
   },
   {
     "headline": "Horrified father catches pantsless tenant, sex offender in bed with 7-year-old daughter: ‘I was afraid of him’",
@@ -192,10 +360,10 @@
     "pubdate": "2025-08-21-23-52-00 +0000"
   },
   {
-    "headline": "Japan’s Inflation Stays Well Above BOJ’s 2% Target",
-    "link": "https://www.wsj.com/economy/japans-inflation-stays-well-above-bojs-2-target-5e51f5df",
-    "source": "wsj",
-    "pubdate": "2025-08-21-23-45-00 +0000"
+    "headline": "Computer science graduates struggle to secure their first jobs",
+    "link": "https://www.bbc.com/news/articles/cm21dvg8l1go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-21-23-50-34 +0000"
   },
   {
     "headline": "Noem’s Spending Rule Causes Delays at Homeland Security Dept.",
@@ -396,7 +564,7 @@
     "pubdate": "2025-08-21-22-28-00 +0000"
   },
   {
-    "headline": "Live: Miracle of Life Center welcomes newborn animals at State Fair",
+    "headline": "Live: Night falls on the State Fair, Old Dominion takes the grandstand",
     "link": "https://www.startribune.com/mn-state-fair-food-live/601445292",
     "source": "startribune",
     "pubdate": "2025-08-21-22-27-23 +0000"
@@ -430,6 +598,12 @@
     "link": "https://nypost.com/2025/08/21/business/wall-street-group-cfa-running-away-from-its-embrace-of-dei/",
     "source": "nypost",
     "pubdate": "2025-08-21-22-17-58 +0000"
+  },
+  {
+    "headline": "The Pentagon’s Mysterious X-37B Space Plane Embarks on New Mission",
+    "link": "https://www.wsj.com/science/space-astronomy/the-pentagons-mysterious-x-37b-space-plane-embarks-on-new-mission-bfa44914?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-21-22-15-00 +0000"
   },
   {
     "headline": "Opinion | The Gerrymander Race to the Bottom",
@@ -516,12 +690,6 @@
     "pubdate": "2025-08-21-21-46-50 +0000"
   },
   {
-    "headline": "SpaceX Starship prepares for 10th test flight after back-to-back explosions",
-    "link": "https://nypost.com/2025/08/21/us-news/spacex-starship-prepares-for-10th-test-flight-after-back-to-back-explosions/",
-    "source": "nypost",
-    "pubdate": "2025-08-21-21-39-11 +0000"
-  },
-  {
     "headline": "Supreme Court says Trump may cancel DEI-related health research grants",
     "link": "https://www.latimes.com/politics/story/2025-08-21/supreme-court-says-trump-may-cancel-equity-related-health-research-grants",
     "source": "latimes",
@@ -576,12 +744,6 @@
     "pubdate": "2025-08-21-21-26-37 +0000"
   },
   {
-    "headline": "State senator unveils new evidence suggesting NY’s massive $11B homecare contract was rigged",
-    "link": "https://nypost.com/2025/08/21/us-news/state-senator-unveils-new-evidence-suggesting-nys-massive-11b-homecare-contract-was-rigged/",
-    "source": "nypost",
-    "pubdate": "2025-08-21-21-26-24 +0000"
-  },
-  {
     "headline": "Opinion | How to Think About Trump and Ukraine",
     "link": "https://www.wsj.com/opinion/how-to-think-about-trump-and-ukraine-8de74704",
     "source": "wsj",
@@ -606,18 +768,6 @@
     "pubdate": "2025-08-21-21-25-15 +0000"
   },
   {
-    "headline": "NYC block still an eyesore with 125 e-bikes clogging the street, even after city enforcement",
-    "link": "https://nypost.com/2025/08/21/us-news/nyc-block-still-an-eyesore-with-125-e-bikes-clogging-the-street/",
-    "source": "nypost",
-    "pubdate": "2025-08-21-21-22-23 +0000"
-  },
-  {
-    "headline": "Lyle and Erik Menendez Make Their Case for Parole",
-    "link": "https://www.nytimes.com/2025/08/21/us/menendez-brothers-parole.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-21-22-12 +0000"
-  },
-  {
     "headline": "Uganda says it reached deal with U.S. to take ‘third country’ deportees",
     "link": "https://www.washingtonpost.com/world/2025/08/21/us-uganda-deportations/",
     "source": "wapo",
@@ -628,12 +778,6 @@
     "link": "https://www.cbc.ca/news/world/nfl-male-cheerleaders-minnesota-vikings-1.7614479?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-21-21-18-59 +0000"
-  },
-  {
-    "headline": "Villanova victim of ‘cruel’ active shooter ‘hoax’ that sends terrified new students, families scrambling during move-in, mass",
-    "link": "https://nypost.com/2025/08/21/us-news/active-shooter-at-villanova-university-causes-campus-chaos-shelter-in-place-order/",
-    "source": "nypost",
-    "pubdate": "2025-08-21-21-16-37 +0000"
   },
   {
     "headline": "Husband Charged With Murdering Woman Whose Body Was Found in Forest Near L.A.",
@@ -1410,12 +1554,6 @@
     "pubdate": "2025-08-21-16-19-40 +0000"
   },
   {
-    "headline": "See it live: No. 1 Marshall vs. No. 3 Willmar, girls volleyball rivals, in the first Strib Varsity livestream",
-    "link": "https://www.startribune.com/high-school-volleyball-football-strib-varsity-livestreams-willmar-marshall/601456838",
-    "source": "startribune",
-    "pubdate": "2025-08-21-16-16-34 +0000"
-  },
-  {
     "headline": "Former MP Dame Annette Brooke dies",
     "link": "https://www.bbc.com/news/articles/cvg30de4y40o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1444,6 +1582,12 @@
     "link": "https://www.bbc.com/news/articles/c05ed10zqj8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-21-15-55-33 +0000"
+  },
+  {
+    "headline": "McDonald's Japan postpones toy promo after Pokémon complaints",
+    "link": "https://www.bbc.com/news/articles/cwy0j5gjwq3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-21-15-51-52 +0000"
   },
   {
     "headline": "McDonald's Japan postpones toy promo after Pokémon complaints",
@@ -1890,12 +2034,6 @@
     "pubdate": "2025-08-21-12-36-41 +0000"
   },
   {
-    "headline": "Hurricane Erin to drench parts of Virginia while brushing US east coast",
-    "link": "https://www.bbc.com/news/articles/cwye3elwxd9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-21-12-36-32 +0000"
-  },
-  {
     "headline": "Officials race to protect one of the world’s tallest trees from a blaze",
     "link": "https://www.washingtonpost.com/nation/2025/08/21/doerner-fir-tree-fire-oregon/",
     "source": "wapo",
@@ -2049,6 +2187,12 @@
     "headline": "The $6.2 billion deal that could reshape local TV across America",
     "link": "https://www.washingtonpost.com/business/2025/08/21/local-tv-merger-fcc-nexstar-tegna/",
     "source": "wapo",
+    "pubdate": "2025-08-21-11-00-00 +0000"
+  },
+  {
+    "headline": "How a once-promising Minnesota tech company fizzled out, leaving workers ‘heartbroken’",
+    "link": "https://www.startribune.com/digital-river-demise-closes-employee-stories-barry-kasoff-imation-fails/601440547",
+    "source": "startribune",
     "pubdate": "2025-08-21-11-00-00 +0000"
   },
   {
@@ -2548,89 +2692,5 @@
     "link": "https://www.bbc.com/news/articles/c620l3y7ydro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-21-02-29-40 +0000"
-  },
-  {
-    "headline": "Why Georgia, Once on Democracy’s Vanguard, Is Drifting Toward Russia",
-    "link": "https://www.nytimes.com/2025/08/20/magazine/georgia-russia-autocracy-dictatorship.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-02-15-26 +0000"
-  },
-  {
-    "headline": "Trump Officials Demanded Confidential Data About Transgender Children Seeking Care",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/trump-transgender-children-care-subpoena.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-02-15-24 +0000"
-  },
-  {
-    "headline": "Trump Officials Demanded Confidential Data About Transgender Children Seeking Care",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/trump-transgender-children-care-subpoena.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-02-15-24 +0000"
-  },
-  {
-    "headline": "Italians Pay Final Respects to Pippo Baudo, Their ‘King of Television’",
-    "link": "https://www.nytimes.com/2025/08/20/world/europe/italy-pippo-baudo-funeral-rai.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-02-14-59 +0000"
-  },
-  {
-    "headline": "Italians Pay Final Respects to Pippo Baudo, Their ‘King of Television’",
-    "link": "https://www.nytimes.com/2025/08/20/world/europe/italy-pippo-baudo-funeral-rai.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-02-14-59 +0000"
-  },
-  {
-    "headline": "Why Does Xi Keep Purging Loyalists? Look to Stalin and Mao for the Answer.",
-    "link": "https://www.nytimes.com/2025/08/20/business/xi-jinping-china.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-02-11-47 +0000"
-  },
-  {
-    "headline": "Why Does Xi Keep Purging Loyalists? Look to Stalin and Mao for the Answer.",
-    "link": "https://www.nytimes.com/2025/08/20/business/xi-jinping-china.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-02-11-47 +0000"
-  },
-  {
-    "headline": "Vance slams Newsom’s efforts to ‘mimic’ Trump — and touts DC crackdown: ‘You don’t have to live with lawlessness’",
-    "link": "https://nypost.com/2025/08/20/us-news/vance-slams-newsoms-efforts-to-mimic-trump-and-touts-dc-crackdown/",
-    "source": "nypost",
-    "pubdate": "2025-08-21-02-02-10 +0000"
-  },
-  {
-    "headline": "L.A. hardware store was a front for a $4.5-million cargo theft ring, police say",
-    "link": "https://www.latimes.com/california/story/2025-08-20/l-a-hardware-store-front-for-4-5-million-cargo-theft-ring-police-say",
-    "source": "latimes",
-    "pubdate": "2025-08-21-02-01-28 +0000"
-  },
-  {
-    "headline": "Sony raises PlayStation 5 prices in US as tariff fears persist",
-    "link": "https://www.bbc.com/news/articles/cy081prg9jjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-21-01-45-10 +0000"
-  },
-  {
-    "headline": "State Dept. fires official after internal debates over Israel",
-    "link": "https://www.washingtonpost.com/national-security/2025/08/20/state-department-fires-official-israel-gaza/",
-    "source": "wapo",
-    "pubdate": "2025-08-21-01-35-00 +0000"
-  },
-  {
-    "headline": "Israel Approves Settlements, a Blow to Faded Hopes for a Palestinian State",
-    "link": "https://www.nytimes.com/2025/08/20/world/middleeast/israel-e1-settlement-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-01-34-07 +0000"
-  },
-  {
-    "headline": "Israel Approves Settlements, a Blow to Faded Hopes for a Palestinian State",
-    "link": "https://www.nytimes.com/2025/08/20/world/middleeast/israel-e1-settlement-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-01-34-07 +0000"
-  },
-  {
-    "headline": "Top Eric Adams adviser Winnie Greco caught handing reporter a bag of chips stuffed with cash",
-    "link": "https://nypost.com/2025/08/20/us-news/top-eric-adams-advisor-winnie-greco-busted-for-handing-city-reporter-a-bag-of-chips-stuffed-with-cash/",
-    "source": "nypost",
-    "pubdate": "2025-08-21-01-20-26 +0000"
   }
 ]
