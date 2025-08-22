@@ -1,260 +1,284 @@
 [
   {
+    "headline": "Abrego Garcia Is Released From Custody, But Threat Of Deportation Looms",
+    "link": "https://www.wsj.com/us-news/abrego-garcia-is-released-from-custody-but-threat-of-deportation-looms-bf76640e",
+    "source": "wsj",
+    "pubdate": "2025-08-22-21-51-00 +0000"
+  },
+  {
+    "headline": "US journalist survived on own urine, popped blister to drink blood after falling down cliff on solo hike: ‘My left foot was just flopping around’",
+    "link": "https://nypost.com/2025/08/22/us-news/journalist-survived-on-his-own-urine-after-falling-down-cliff-during-hike/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-21-50-49 +0000"
+  },
+  {
+    "headline": "Wired, Business Insider delete phony articles allegedly written by AI under alias ‘Margaux Blanchard’",
+    "link": "https://nypost.com/2025/08/22/business/wired-business-insider-delete-phony-articles-allegedly-written-by-ai/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-21-50-14 +0000"
+  },
+  {
+    "headline": "Colorado Judge Rejects Plea Deal in Corpse Abuse Case",
+    "link": "https://www.nytimes.com/2025/08/22/us/colorado-funeral-home-plea-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-47-23 +0000"
+  },
+  {
+    "headline": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
+    "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-46-02 +0000"
+  },
+  {
+    "headline": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
+    "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-46-02 +0000"
+  },
+  {
+    "headline": "More than 2,000 illegal marijuana plants removed from California’s Sequoia National Park",
+    "link": "https://nypost.com/2025/08/22/us-news/more-than-2000-illegal-marijuana-plants-removed-from-california-national-park/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-21-45-53 +0000"
+  },
+  {
+    "headline": "Justice Department Releases Ghislaine Maxwell Interview Transcripts",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-44-48 +0000"
+  },
+  {
+    "headline": "Justice Department Releases Ghislaine Maxwell Interview Transcripts",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-44-48 +0000"
+  },
+  {
+    "headline": "‘No Meeting Planned’ Between Putin and Zelensky, Top Russian Diplomat Says",
+    "link": "https://www.nytimes.com/2025/08/22/world/europe/putin-zelensky-meeting-russia-ukraine-summit.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-44-41 +0000"
+  },
+  {
+    "headline": "‘No Meeting Planned’ Between Putin and Zelensky, Top Russian Diplomat Says",
+    "link": "https://www.nytimes.com/2025/08/22/world/europe/putin-zelensky-meeting-russia-ukraine-summit.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-44-41 +0000"
+  },
+  {
+    "headline": "Roblox predator groomed 10-year-old girl, exchanging ‘Robux’ currency for explicit photos: lawsuit",
+    "link": "https://nypost.com/2025/08/22/business/roblox-predator-lured-girl-10-with-robux-for-explicit-photos-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-21-44-21 +0000"
+  },
+  {
+    "headline": "Parents of Missing 7-Month-Old Are Charged With His Murder",
+    "link": "https://www.nytimes.com/2025/08/22/us/california-missing-baby-parents-arrest-murder.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-38-23 +0000"
+  },
+  {
+    "headline": "Bay FC makes its play for San Francisco",
+    "link": "https://missionlocal.org/2025/08/bay-fc-makes-its-play-for-san-francisco/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-22-21-38-20 +0000"
+  },
+  {
+    "headline": "Michael Faulkender, the second-highest official at the Treasury Department, is leaving the administration less than five months after being confirmed by the Senate",
+    "link": "https://www.wsj.com/politics/treasury-michael-faulkender-depart-972160c7",
+    "source": "wsj",
+    "pubdate": "2025-08-22-21-37-00 +0000"
+  },
+  {
+    "headline": "Furniture Stocks Retreat After Trump Threatens Tariffs on Imports",
+    "link": "https://www.wsj.com/economy/trade/furniture-stocks-retreat-after-trump-threatens-tariffs-on-imports-961d8994",
+    "source": "wsj",
+    "pubdate": "2025-08-22-21-37-00 +0000"
+  },
+  {
+    "headline": "The White House Wants Indiana to Redistrict. Republicans There Are Split.",
+    "link": "https://www.nytimes.com/2025/08/22/us/indiana-redistricting-congress-republicans.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-36-50 +0000"
+  },
+  {
+    "headline": "Opinion | Powell Flips the Fed’s ‘Framework’",
+    "link": "https://www.wsj.com/opinion/jerome-powell-federal-reserve-framework-inflation-targeting-26deedb0",
+    "source": "wsj",
+    "pubdate": "2025-08-22-21-36-00 +0000"
+  },
+  {
+    "headline": "Johnson & Johnson to invest $2B in North Carolina plant as Trump’s 250% drug tariffs loom",
+    "link": "https://nypost.com/2025/08/22/business/johnson-amp-johnson-to-invest-2b-in-north-carolina-plant/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-21-34-34 +0000"
+  },
+  {
     "headline": "Pickett Fire Forces Evacuations in Napa County",
     "link": "https://www.nytimes.com/2025/08/21/us/pickett-fire-calistoga-napa-county.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-20-48-49 +0000"
+    "pubdate": "2025-08-22-21-34-26 +0000"
   },
   {
-    "headline": "Stray dog slaughters 23 baby sea turtles just hours after they hatched on Florida beach",
-    "link": "https://nypost.com/2025/08/22/us-news/stray-dog-kills-23-baby-sea-turtles-after-they-hatched-on-florida-beach/",
-    "source": "nypost",
-    "pubdate": "2025-08-22-20-44-45 +0000"
+    "headline": "Minneapolis residents hope Hiawatha Golf Course redesign will fix plague of errant golf balls",
+    "link": "https://www.startribune.com/minneapolis-residents-hope-hiawatha-golf-course-redesign-will-fix-plague-of-errant-golf-balls/601454964",
+    "source": "startribune",
+    "pubdate": "2025-08-22-21-34-13 +0000"
   },
   {
-    "headline": "F.B.I. Searches Home and Office of John Bolton, Ex-Trump Adviser",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/john-bolton-trump-home-fbi.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-42-08 +0000"
-  },
-  {
-    "headline": "F.B.I. Searches Home and Office of John Bolton, Ex-Trump Adviser",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/john-bolton-trump-home-fbi.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-42-08 +0000"
-  },
-  {
-    "headline": "LI pol rips MTA’s fare hike ‘cash grab’ after forcing commuters onto trains with congestion pricing",
-    "link": "https://nypost.com/2025/08/22/us-news/li-pol-rips-mtas-fare-hike-cash-grab-after-forcing-commuters-onto-trains-with-congestion-pricing/",
-    "source": "nypost",
-    "pubdate": "2025-08-22-20-40-28 +0000"
-  },
-  {
-    "headline": "Broadway theater owners fight back in iconic Playbill to oppose Times Square casino",
-    "link": "https://nypost.com/2025/08/22/us-news/does-not-fit-the-playbill-theatergoers-urged-to-oppose-times-square-casino/",
-    "source": "nypost",
-    "pubdate": "2025-08-22-20-36-10 +0000"
-  },
-  {
-    "headline": "Will Serena Williams's weight-loss admission help shed stigma of anti-obesity drugs?",
-    "link": "https://www.bbc.com/news/articles/c8de89lg21jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-20-34-35 +0000"
-  },
-  {
-    "headline": "Jerome Powell Suggests Fed Will Soon Cut Interest Rates in Jackson Hole Speech",
-    "link": "https://www.nytimes.com/2025/08/22/business/powell-speech-jackson-hole-fed-inflation.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-32-55 +0000"
-  },
-  {
-    "headline": "Maxwell Never Witnessed Trump in ‘Inappropriate Setting,’ Transcript Says",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-30-51 +0000"
-  },
-  {
-    "headline": "Maxwell Never Witnessed Trump in ‘Inappropriate Setting,’ Transcript Says",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-30-51 +0000"
-  },
-  {
-    "headline": "Gazans are starving. Here’s what lack of food does to the human body.",
-    "link": "https://www.washingtonpost.com/world/interactive/2025/gaza-hunger-starvation-children-body/",
-    "source": "wapo",
-    "pubdate": "2025-08-22-20-29-40 +0000"
-  },
-  {
-    "headline": "Russia is trying to stop meeting on peace and prolong war, Zelensky says",
-    "link": "https://www.bbc.com/news/articles/ckgjpmg4r23o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-20-27-18 +0000"
-  },
-  {
-    "headline": "Russia is trying to stop meeting on peace and prolong war, Zelensky says",
-    "link": "https://www.bbc.com/news/articles/ckgjpmg4r23o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-20-27-18 +0000"
-  },
-  {
-    "headline": "Trump Says Intel Has Agreed to Give U.S. a 10% Stake in Its Business",
-    "link": "https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-27-17 +0000"
-  },
-  {
-    "headline": "Powell says weaker labor market may merit rate cuts, fueling stock rally",
-    "link": "https://www.washingtonpost.com/business/2025/08/22/powell-jackson-hole-fed-rates/",
-    "source": "wapo",
-    "pubdate": "2025-08-22-20-26-02 +0000"
-  },
-  {
-    "headline": "The Trump administration released the transcript of a top Justice Department official’s interview with Ghislaine Maxwell, the former associate of Jeffrey Epstein",
-    "link": "https://www.wsj.com/politics/policy/justice-department-releases-ghislaine-maxwell-interview-transcript-98cd6d7f",
+    "headline": "Opinion | Trump’s Vendetta Campaign Targets John Bolton",
+    "link": "https://www.wsj.com/opinion/john-bolton-fbi-kash-patel-donald-trump-f44e7756",
     "source": "wsj",
-    "pubdate": "2025-08-22-20-24-00 +0000"
+    "pubdate": "2025-08-22-21-34-00 +0000"
   },
   {
-    "headline": "Justice Department Releases Ghislaine Maxwell Interview Transcript",
-    "link": "https://www.wsj.com/politics/policy/justice-department-releases-ghislaine-maxwell-interview-transcript-98cd6d7f",
+    "headline": "Opinion | What Teachers Think of ‘Equitable’ Grading",
+    "link": "https://www.wsj.com/opinion/teacher-survey-equitable-grading-fordham-institute-55e33cf4",
     "source": "wsj",
-    "pubdate": "2025-08-22-20-24-00 +0000"
+    "pubdate": "2025-08-22-21-34-00 +0000"
   },
   {
-    "headline": "Trump Says U.S. Will Take Nearly 10% Equity Stake in Intel",
-    "link": "https://www.wsj.com/tech/trump-to-announce-u-s-taking-nearly-10-stake-in-intel-1a38225d?mod=pls_whats_news_us_business_f",
+    "headline": "Bolton Investigation Linked to Overseas Intelligence",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/john-bolton-intelligence-fbi-classified.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-33-10 +0000"
+  },
+  {
+    "headline": "Bolton Investigation Linked to Overseas Intelligence",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/john-bolton-intelligence-fbi-classified.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-33-10 +0000"
+  },
+  {
+    "headline": "Noem’s Spending Rule Causes Delays at Homeland Security Dept.",
+    "link": "https://www.nytimes.com/2025/08/21/us/kristi-noem-spending-contracts-homeland-security-department.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-31-58 +0000"
+  },
+  {
+    "headline": "NYC to test Waymo self-driving cars on crowded  Manhattan and Brooklyn streets",
+    "link": "https://nypost.com/2025/08/22/us-news/nyc-to-test-waymo-self-driving-cars-on-crowded-manhattan-and-brooklyn-streets-a-really-bad-idea/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-21-28-56 +0000"
+  },
+  {
+    "headline": "The Score: Intel, Home Depot, Meta and More Stocks That Defined the Week",
+    "link": "https://www.wsj.com/finance/stocks/the-score-intel-home-depot-meta-and-more-stocks-that-defined-the-week-4c3a2ddd?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2025-08-22-20-24-00 +0000"
+    "pubdate": "2025-08-22-21-17-00 +0000"
+  },
+  {
+    "headline": "Pentagon Fires the Defense Intelligence Agency Chief",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/defense-intelligence-agency-chief-fired.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-16-01 +0000"
+  },
+  {
+    "headline": "Pentagon Fires the Defense Intelligence Agency Chief",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/defense-intelligence-agency-chief-fired.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-16-01 +0000"
+  },
+  {
+    "headline": "White House announces chipmaker Intel to give US government 10% stake",
+    "link": "https://www.bbc.com/news/articles/cvg3zpdl3xdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-22-21-14-00 +0000"
+  },
+  {
+    "headline": "White House announces chipmaker Intel to give US government 10% stake",
+    "link": "https://www.bbc.com/news/articles/cvg3zpdl3xdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-22-21-14-00 +0000"
+  },
+  {
+    "headline": "Abrego Garcia, Free From Tennessee Jail, Is Returning to Maryland, Lawyer Says",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/abrego-garcia-free-maryland.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-09-20 +0000"
+  },
+  {
+    "headline": "Abrego Garcia, Free From Tennessee Jail, Is Returning to Maryland, Lawyer Says",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/abrego-garcia-free-maryland.html",
+    "source": "nyt",
+    "pubdate": "2025-08-22-21-09-20 +0000"
+  },
+  {
+    "headline": "Spirit Airlines Engages Advisers to Explore Repeat Restructuring",
+    "link": "https://www.wsj.com/articles/spirit-airlines-engages-advisers-to-explore-repeat-restructuring-ddb50f24?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-22-21-09-00 +0000"
+  },
+  {
+    "headline": "Europe’s Fragile Energy Lifeline Exposed by Ukraine’s Strikes in Russia",
+    "link": "https://www.wsj.com/world/europe/europes-fragile-energy-lifeline-exposed-by-ukraines-strikes-in-russia-3ac3b3bf",
+    "source": "wsj",
+    "pubdate": "2025-08-22-21-06-00 +0000"
   },
   {
     "headline": "Justice Dept. Gives Congress Some Subpoenaed Epstein Files",
     "link": "https://www.nytimes.com/2025/08/22/us/politics/house-subpoena-epstein-files.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-20-22-43 +0000"
+    "pubdate": "2025-08-22-21-05-16 +0000"
   },
   {
     "headline": "Justice Dept. Gives Congress Some Subpoenaed Epstein Files",
     "link": "https://www.nytimes.com/2025/08/22/us/politics/house-subpoena-epstein-files.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-20-22-43 +0000"
+    "pubdate": "2025-08-22-21-05-16 +0000"
   },
   {
-    "headline": "Kilmar Abrego Garcia released from jail and will return to Maryland home",
-    "link": "https://www.bbc.com/news/articles/c5y0720p0x5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-20-20-21 +0000"
-  },
-  {
-    "headline": "Canada drops some retaliatory tariffs in bid to restart trade talks",
-    "link": "https://www.washingtonpost.com/world/2025/08/22/canada-carney-lifts-retaliatory-tariffs/",
+    "headline": "The GOP made a street fight a national scandal, roiling race relations",
+    "link": "https://www.washingtonpost.com/nation/2025/08/22/cincinnati-brawl-police-charges-race/",
     "source": "wapo",
-    "pubdate": "2025-08-22-20-19-22 +0000"
+    "pubdate": "2025-08-22-21-04-13 +0000"
   },
   {
-    "headline": "Canada drops some retaliatory tariffs in bid to restart trade talks",
-    "link": "https://www.washingtonpost.com/world/2025/08/22/canada-carney-lifts-retaliatory-tariffs/",
-    "source": "wapo",
-    "pubdate": "2025-08-22-20-19-22 +0000"
-  },
-  {
-    "headline": "National Guard in Washington DC to be armed amid crime crackdown",
-    "link": "https://www.bbc.com/news/articles/cd7yperjxneo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-20-18-19 +0000"
-  },
-  {
-    "headline": "ICE arrests Colombian asylum-seeker at S.F. court hearing",
-    "link": "https://missionlocal.org/2025/08/sf-ice-colombian-asylum-seeker-arrest/",
-    "source": "missionlocal",
-    "pubdate": "2025-08-22-20-11-58 +0000"
-  },
-  {
-    "headline": "Canada to drop some of its retaliatory tariffs on the US",
-    "link": "https://www.bbc.com/news/articles/c5yk9dqlvygo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-20-11-17 +0000"
-  },
-  {
-    "headline": "Canada to drop some of its retaliatory tariffs on the US",
-    "link": "https://www.bbc.com/news/articles/c5yk9dqlvygo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-20-11-17 +0000"
-  },
-  {
-    "headline": "Opinion | The Stop WOKE Act Makes Florida Campuses Safe for Jews",
-    "link": "https://www.wsj.com/opinion/the-stop-woke-act-makes-florida-campuses-safe-for-jews-45489b85",
+    "headline": "Dow Rises More Than 800 Points to First Record of 2025",
+    "link": "https://www.wsj.com/finance/stocks/dow-rises-more-than-800-points-to-first-record-of-2025-9fe99929?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2025-08-22-20-11-00 +0000"
+    "pubdate": "2025-08-22-21-04-00 +0000"
   },
   {
-    "headline": "CBS News fires back at bombshell report network is losing $50M a year",
-    "link": "https://nypost.com/2025/08/22/media/cbs-news-denies-inaccurate-puck-report-its-losing-50m-a-year/",
-    "source": "nypost",
-    "pubdate": "2025-08-22-20-09-29 +0000"
-  },
-  {
-    "headline": "The Federal Reserve said it would no longer intentionally allow inflation to run above the central bank’s 2% target, unveiling a revision to the central bank’s long-run strategy",
-    "link": "https://www.wsj.com/economy/central-banking/fed-officials-erase-old-policy-that-tolerated-higher-inflation-7636e3ee",
+    "headline": "Defense Secretary Pete Hegseth fired the Defense Intelligence Agency director, the latest in a slew of senior national-security officials dismissed by the Trump administration",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-fires-defense-intelligence-agency-chief-after-iran-report-ee86c7f9",
     "source": "wsj",
-    "pubdate": "2025-08-22-20-06-00 +0000"
+    "pubdate": "2025-08-22-21-03-00 +0000"
   },
   {
-    "headline": "Stocks and Bonds Rise After Powell Suggests Interest Rate Cuts Could Be Imminent",
-    "link": "https://www.nytimes.com/2025/08/22/business/powell-rate-cut-stocks-bonds.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-05-32 +0000"
-  },
-  {
-    "headline": "Year Will End With 300,000 Fewer Federal Workers, Trump Official Says",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/trump-federal-workers.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-05-20 +0000"
-  },
-  {
-    "headline": "Year Will End With 300,000 Fewer Federal Workers, Trump Official Says",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/trump-federal-workers.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-05-20 +0000"
-  },
-  {
-    "headline": "Hegseth Authorizes National Guard Troops in D.C. to Carry Weapons",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/national-guard-weapons.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-02-03 +0000"
-  },
-  {
-    "headline": "Hegseth Authorizes National Guard Troops in D.C. to Carry Weapons",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/national-guard-weapons.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-20-02-03 +0000"
-  },
-  {
-    "headline": "San Francisco mob assaults ICE agents, one keffiyeh-clad perp charged for threatening to ‘stab’ officer, hurt family",
-    "link": "https://nypost.com/2025/08/22/us-news/san-francisco-mob-assaults-ice-agents-and-one-keffiyeh-clad-perp-charged-for-threatening-to-stab-officer-hurt-family/",
+    "headline": "‘Toxic’ Apple executive leered at coworkers, remarked on fitness trainers’ breasts and butts: report",
+    "link": "https://nypost.com/2025/08/22/business/toxic-apple-executive-leered-at-coworkers-remarked-on-fitness-trainers-breasts-and-butts-report/",
     "source": "nypost",
-    "pubdate": "2025-08-22-19-58-35 +0000"
+    "pubdate": "2025-08-22-20-58-31 +0000"
   },
   {
-    "headline": "San Francisco mob assaults ICE agents, one keffiyeh-clad perp charged for threatening to ‘stab’ officer, hurt family",
-    "link": "https://nypost.com/2025/08/22/us-news/san-francisco-mob-assaults-ice-agents-and-one-keffiyeh-clad-perp-charged-for-threatening-to-stab-officer-hurt-family/",
+    "headline": "Rep. Mike Lawler floats bill to charge fentanyl trafficking as attempted murder",
+    "link": "https://nypost.com/2025/08/22/us-news/lawler-floats-bill-to-charge-fentanyl-trafficking-as-attempted-murder/",
     "source": "nypost",
-    "pubdate": "2025-08-22-19-58-35 +0000"
+    "pubdate": "2025-08-22-20-57-46 +0000"
   },
   {
-    "headline": "Global Monitors Confirm Famine in Part of Gaza. What Does That Mean?",
-    "link": "https://www.nytimes.com/2025/08/22/world/middleeast/gaza-famine-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-19-57-23 +0000"
+    "headline": "Rep. Mike Lawler floats bill to charge fentanyl trafficking as attempted murder",
+    "link": "https://nypost.com/2025/08/22/us-news/lawler-floats-bill-to-charge-fentanyl-trafficking-as-attempted-murder/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-20-57-46 +0000"
   },
   {
-    "headline": "Global Monitors Confirm Famine in Part of Gaza. What Does That Mean?",
-    "link": "https://www.nytimes.com/2025/08/22/world/middleeast/gaza-famine-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-19-57-23 +0000"
+    "headline": "Trump personnel honcho Sergio Gor picked as ambassador to India after Post reporting on Musk feud, vetting controversy",
+    "link": "https://nypost.com/2025/08/22/us-news/trump-white-house-personnel-honcho-sergio-gor-picked-as-ambassador-to-india-after-post-reporting-on-musk-feud-vetting-controversy/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-20-55-36 +0000"
   },
   {
-    "headline": "How Israel's policies created famine in Gaza",
-    "link": "https://www.bbc.com/news/articles/ckg4p90z1kxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump personnel honcho Sergio Gor picked as ambassador to India after Post reporting on Musk feud, vetting controversy",
+    "link": "https://nypost.com/2025/08/22/us-news/trump-white-house-personnel-honcho-sergio-gor-picked-as-ambassador-to-india-after-post-reporting-on-musk-feud-vetting-controversy/",
+    "source": "nypost",
+    "pubdate": "2025-08-22-20-55-36 +0000"
+  },
+  {
+    "headline": "Why California and Texas are at the centre of a redistricting battle",
+    "link": "https://www.bbc.com/news/articles/cdxydpr1zz2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-08-22-19-55-47 +0000"
-  },
-  {
-    "headline": "Order to purge Delhi streets of stray dogs reversed by India’s top court",
-    "link": "https://www.washingtonpost.com/world/2025/08/22/stray-dog-removal-india-delhi-court/",
-    "source": "wapo",
-    "pubdate": "2025-08-22-19-54-53 +0000"
-  },
-  {
-    "headline": "DeSantis Says He Is Undeterred by Order Shutting Down Florida’s ‘Alligator Alcatraz’",
-    "link": "https://www.nytimes.com/2025/08/22/us/desantis-florida-alligator-alcatraz.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-19-54-46 +0000"
-  },
-  {
-    "headline": "Judge Orders ‘Alligator Alcatraz’ Detention Center in Florida to Shut Down for Now",
-    "link": "https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-19-53-58 +0000"
+    "pubdate": "2025-08-22-20-55-23 +0000"
   }
 ]
