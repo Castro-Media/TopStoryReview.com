@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 41,
+    "pubdate": "2025-08-22-20-24-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration released the transcript of a top Justice Department official’s interview with Ghislaine Maxwell, the former associate of Jeffrey Epstein",
+    "link": "https://www.wsj.com/politics/policy/justice-department-releases-ghislaine-maxwell-interview-transcript-98cd6d7f"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-08-22-19-58-35 +0000",
+    "source": "nypost",
+    "headline": "San Francisco mob assaults ICE agents, one keffiyeh-clad perp charged for threatening to ‘stab’ officer, hurt family",
+    "link": "https://nypost.com/2025/08/22/us-news/san-francisco-mob-assaults-ice-agents-and-one-keffiyeh-clad-perp-charged-for-threatening-to-stab-officer-hurt-family/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-08-22-20-06-00 +0000",
+    "source": "wsj",
+    "headline": "The Federal Reserve said it would no longer intentionally allow inflation to run above the central bank’s 2% target, unveiling a revision to the central bank’s long-run strategy",
+    "link": "https://www.wsj.com/economy/central-banking/fed-officials-erase-old-policy-that-tolerated-higher-inflation-7636e3ee"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-08-22-20-19-22 +0000",
+    "source": "wapo",
+    "headline": "Canada drops some retaliatory tariffs in bid to restart trade talks",
+    "link": "https://www.washingtonpost.com/world/2025/08/22/canada-carney-lifts-retaliatory-tariffs/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-08-22-20-32-55 +0000",
+    "source": "nyt",
+    "headline": "Jerome Powell Suggests Fed Will Soon Cut Interest Rates in Jackson Hole Speech",
+    "link": "https://www.nytimes.com/2025/08/22/business/powell-speech-jackson-hole-fed-inflation.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-22-19-57-23 +0000",
+    "source": "nyt",
+    "headline": "Global Monitors Confirm Famine in Part of Gaza. What Does That Mean?",
+    "link": "https://www.nytimes.com/2025/08/22/world/middleeast/gaza-famine-what-to-know.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-22-20-02-03 +0000",
+    "source": "nyt",
+    "headline": "Hegseth Authorizes National Guard Troops in D.C. to Carry Weapons",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/national-guard-weapons.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-08-22-20-44-45 +0000",
+    "source": "nypost",
+    "headline": "Stray dog slaughters 23 baby sea turtles just hours after they hatched on Florida beach",
+    "link": "https://nypost.com/2025/08/22/us-news/stray-dog-kills-23-baby-sea-turtles-after-they-hatched-on-florida-beach/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-22-20-27-18 +0000",
+    "source": "bbc",
+    "headline": "Russia is trying to stop meeting on peace and prolong war, Zelensky says",
+    "link": "https://www.bbc.com/news/articles/ckgjpmg4r23o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-22-20-40-28 +0000",
+    "source": "nypost",
+    "headline": "LI pol rips MTA’s fare hike ‘cash grab’ after forcing commuters onto trains with congestion pricing",
+    "link": "https://nypost.com/2025/08/22/us-news/li-pol-rips-mtas-fare-hike-cash-grab-after-forcing-commuters-onto-trains-with-congestion-pricing/"
+  }
+]
