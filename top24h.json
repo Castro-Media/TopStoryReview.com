@@ -1,41 +1,55 @@
 [
   {
-    "score": 284,
+    "score": 311,
     "pubdate": "2025-08-22-18-08-00 +0000",
     "source": "wsj",
     "headline": "The FBI searched the Maryland home and D.C. office of former Trump national security adviser John Bolton, escalating a years-old probe into whether the Trump critic mishandled classified information",
     "link": "https://www.wsj.com/politics/policy/fbi-raids-home-of-former-trump-national-security-adviser-john-bolton-48f9dbc2"
   },
   {
-    "score": 89,
+    "score": 93,
     "pubdate": "2025-08-22-18-33-00 +0000",
     "source": "wsj",
     "headline": "Canada’s decision to drop tariffs on most U.S. imports could give the country’s central bank a freer hand in cutting interest rates because the threat of trade-related inflation has dissipated, economists say",
     "link": "https://www.wsj.com/articles/canadas-rollback-of-retaliatory-tariffs-could-set-stage-for-rate-cuts-economists-say-c422f36f"
   },
   {
-    "score": 83,
+    "score": 86,
+    "pubdate": "2025-08-22-19-27-10 +0000",
+    "source": "nypost",
+    "headline": "Trump threatens to fire Fed’s Lisa Cook over alleged mortage fraud: ‘What she did was bad’",
+    "link": "https://nypost.com/2025/08/22/business/trump-threatens-to-fire-feds-lisa-cook-over-alleged-mortage-fraud/"
+  },
+  {
+    "score": 82,
     "pubdate": "2025-08-21-23-43-37 +0000",
     "source": "nypost",
     "headline": "California Gov. Gavin Newsom signs redistricting measure in response to new Texas House map",
     "link": "https://nypost.com/2025/08/21/us-news/california-gov-gavin-newsom-signs-redistricting-measure-in-response-to-new-texas-house-map/"
   },
   {
-    "score": 72,
-    "pubdate": "2025-08-22-16-30-21 +0000",
-    "source": "nyt",
-    "headline": "Trump Threatens to Fire Fed Governor Lisa Cook If She Does Not Resign",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/trump-lisa-cook-federal-reserve-governor.html"
-  },
-  {
-    "score": 66,
-    "pubdate": "2025-08-22-17-03-14 +0000",
+    "score": 67,
+    "pubdate": "2025-08-22-11-36-52 +0000",
     "source": "nypost",
-    "headline": "Controversial NYC judge who flashed firearm in court hit with pay cut, demotion, gun ban: sources",
-    "link": "https://nypost.com/2025/08/22/us-news/controversial-nyc-judge-who-flashed-firearm-in-court-hit-with-pay-cut-demotion-gun-ban-sources/"
+    "headline": "Ukraine obliterates critical part of Russia’s Druzhba oil pipeline as attacks ramp up after Trump-Putin summit",
+    "link": "https://nypost.com/2025/08/22/world-news/ukraine-obliterates-critical-part-of-russias-druzhba-oil-pipeline/"
   },
   {
-    "score": 61,
+    "score": 65,
+    "pubdate": "2025-08-22-20-24-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration released the transcript of a top Justice Department official’s interview with Ghislaine Maxwell, the former associate of Jeffrey Epstein",
+    "link": "https://www.wsj.com/politics/policy/justice-department-releases-ghislaine-maxwell-interview-transcript-98cd6d7f"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-08-22-19-08-12 +0000",
+    "source": "latimes",
+    "headline": "Menendez family stunned after Erik denied parole; Lyle's fate still uncertain",
+    "link": "https://www.latimes.com/california/story/2025-08-22/menendez-family-parole-board-decision"
+  },
+  {
+    "score": 63,
     "pubdate": "2025-08-21-23-02-09 +0000",
     "source": "nypost",
     "headline": "Israeli stats show civilian death rate in Gaza war is 83%, report claims — as government denies data",
@@ -43,30 +57,16 @@
   },
   {
     "score": 59,
-    "pubdate": "2025-08-22-16-19-00 +0000",
-    "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth has authorized National Guard soldiers in Washington to carry weapons, the latest move in President Trump’s efforts to ramp up security in the nation’s capital",
-    "link": "https://www.wsj.com/politics/policy/defense-secretary-authorizes-national-guard-in-dc-to-carry-arms-a693d62b"
+    "pubdate": "2025-08-22-17-03-14 +0000",
+    "source": "nypost",
+    "headline": "Controversial NYC judge who flashed firearm in court hit with pay cut, demotion, gun ban: sources",
+    "link": "https://nypost.com/2025/08/22/us-news/controversial-nyc-judge-who-flashed-firearm-in-court-hit-with-pay-cut-demotion-gun-ban-sources/"
   },
   {
     "score": 55,
-    "pubdate": "2025-08-22-04-36-24 +0000",
-    "source": "wapo",
-    "headline": "Erik Menendez, who was convicted of killing his parents, is denied parole",
-    "link": "https://www.washingtonpost.com/nation/2025/08/21/erik-menendez-parole-hearing-decision/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-22-15-00-27 +0000",
-    "source": "nyt",
-    "headline": "‘No Meeting Planned’ Between Putin and Zelensky, Top Russian Diplomat Says",
-    "link": "https://www.nytimes.com/2025/08/22/world/europe/putin-zelensky-meeting-russia-ukraine-summit.html"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-08-21-20-39-00 +0000",
-    "source": "wsj",
-    "headline": "A Georgia-based reporter has sued the Trump administration over his monthslong detention, alleging he has been targeted for his reporting on immigration-enforcement actions",
-    "link": "https://www.wsj.com/politics/trump-immigration-reporter-lawsuit-mario-guevara-67f997c7"
+    "pubdate": "2025-08-21-21-51-52 +0000",
+    "source": "nypost",
+    "headline": "Trump tells deployed feds, cops that ‘spotless’ DC will be ‘best in the world’ after his crime crackdown",
+    "link": "https://nypost.com/2025/08/21/us-news/trump-tells-deployed-feds-cops-that-spotless-dc-will-be-best-in-the-world-after-his-crime-crackdown/"
   }
 ]
