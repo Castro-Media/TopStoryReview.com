@@ -1,41 +1,34 @@
 [
   {
-    "score": 310,
+    "score": 292,
     "pubdate": "2025-08-22-18-08-00 +0000",
     "source": "wsj",
     "headline": "The FBI searched the Maryland home and D.C. office of former Trump national security adviser John Bolton, escalating a years-old probe into whether the Trump critic mishandled classified information",
     "link": "https://www.wsj.com/politics/policy/fbi-raids-home-of-former-trump-national-security-adviser-john-bolton-48f9dbc2"
   },
   {
-    "score": 94,
+    "score": 92,
     "pubdate": "2025-08-22-18-33-00 +0000",
     "source": "wsj",
     "headline": "Canada’s decision to drop tariffs on most U.S. imports could give the country’s central bank a freer hand in cutting interest rates because the threat of trade-related inflation has dissipated, economists say",
     "link": "https://www.wsj.com/articles/canadas-rollback-of-retaliatory-tariffs-could-set-stage-for-rate-cuts-economists-say-c422f36f"
   },
   {
-    "score": 88,
+    "score": 86,
     "pubdate": "2025-08-22-19-27-10 +0000",
     "source": "nypost",
     "headline": "Trump threatens to fire Fed’s Lisa Cook over alleged mortage fraud: ‘What she did was bad’",
     "link": "https://nypost.com/2025/08/22/business/trump-threatens-to-fire-feds-lisa-cook-over-alleged-mortage-fraud/"
   },
   {
-    "score": 79,
+    "score": 71,
     "pubdate": "2025-08-21-23-43-37 +0000",
     "source": "nypost",
     "headline": "California Gov. Gavin Newsom signs redistricting measure in response to new Texas House map",
     "link": "https://nypost.com/2025/08/21/us-news/california-gov-gavin-newsom-signs-redistricting-measure-in-response-to-new-texas-house-map/"
   },
   {
-    "score": 72,
-    "pubdate": "2025-08-22-20-24-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration released the transcript of a top Justice Department official’s interview with Ghislaine Maxwell, the former associate of Jeffrey Epstein",
-    "link": "https://www.wsj.com/politics/policy/justice-department-releases-ghislaine-maxwell-interview-transcript-98cd6d7f"
-  },
-  {
-    "score": 70,
+    "score": 68,
     "pubdate": "2025-08-22-16-19-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth has authorized National Guard soldiers in Washington to carry weapons, the latest move in President Trump’s efforts to ramp up security in the nation’s capital",
@@ -56,17 +49,24 @@
     "link": "https://www.latimes.com/california/story/2025-08-22/menendez-family-parole-board-decision"
   },
   {
-    "score": 55,
-    "pubdate": "2025-08-22-10-29-25 +0000",
-    "source": "nyt",
-    "headline": "Denmark Wants Kids to Read More. Will a Tax Cut Help?",
-    "link": "https://www.nytimes.com/2025/08/21/world/europe/denmark-books-tax-reading.html"
+    "score": 51,
+    "pubdate": "2025-08-22-22-43-48 +0000",
+    "source": "nypost",
+    "headline": "Trump says he will place tariffs on furniture — causing shares of Wayfair, Williams-Sonoma to plunge",
+    "link": "https://nypost.com/2025/08/22/business/trump-threatens-furniture-tariffs-causing-wayfair-williams-sonoma-shares-to-plunge/"
   },
   {
-    "score": 48,
-    "pubdate": "2025-08-22-11-36-52 +0000",
-    "source": "nypost",
-    "headline": "Ukraine obliterates critical part of Russia’s Druzhba oil pipeline as attacks ramp up after Trump-Putin summit",
-    "link": "https://nypost.com/2025/08/22/world-news/ukraine-obliterates-critical-part-of-russias-druzhba-oil-pipeline/"
+    "score": 46,
+    "pubdate": "2025-08-22-21-44-41 +0000",
+    "source": "nyt",
+    "headline": "‘No Meeting Planned’ Between Putin and Zelensky, Top Russian Diplomat Says",
+    "link": "https://www.nytimes.com/2025/08/22/world/europe/putin-zelensky-meeting-russia-ukraine-summit.html"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-08-22-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Immigration to U.S. declines for first time in 50 years amid Trump crackdown, study shows",
+    "link": "https://www.latimes.com/california/story/2025-08-22/la-na-immigration-decline"
   }
 ]
