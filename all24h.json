@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Ghislaine Maxwell claims in DOJ interview that Epstein list doesn't exist",
+    "link": "https://www.bbc.com/news/articles/cdd3pe6189go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-23-02-10-39 +0000"
+  },
+  {
+    "headline": "Texas, Florida ask to join mifepristone case, boosting effort to ban abortion drug",
+    "link": "https://www.washingtonpost.com/nation/2025/08/22/texas-florida-mifepristone-lawsuit-abortion/",
+    "source": "wapo",
+    "pubdate": "2025-08-23-02-07-22 +0000"
+  },
+  {
+    "headline": "Abrego Garcia, Free From Tennessee Jail, Is Returning to Maryland, Lawyer Says",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/abrego-garcia-free-maryland.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-59-20 +0000"
+  },
+  {
+    "headline": "Abrego Garcia, Free From Tennessee Jail, Is Returning to Maryland, Lawyer Says",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/abrego-garcia-free-maryland.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-59-20 +0000"
+  },
+  {
+    "headline": "A former Superior Court judge accused of two sexual assaults and covering up the crime",
+    "link": "https://www.latimes.com/california/story/2025-08-22/former-california-superior-court-judge-faces-five-counts-of-sexual-assault-and-cover-up",
+    "source": "latimes",
+    "pubdate": "2025-08-23-01-57-11 +0000"
+  },
+  {
+    "headline": "Trump Administration Orders Work Halted on Wind Farm That Is Nearly Built",
+    "link": "https://www.nytimes.com/2025/08/22/climate/trump-administration-halts-revolution-wind.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-54-40 +0000"
+  },
+  {
+    "headline": "Justice Department Releases Ghislaine Maxwell Interview Transcripts",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-51-17 +0000"
+  },
+  {
+    "headline": "Justice Department Releases Ghislaine Maxwell Interview Transcripts",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-51-17 +0000"
+  },
+  {
+    "headline": "5 Takeaways From Ghislaine Maxwell’s Interview About Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-transcript-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-50-25 +0000"
+  },
+  {
+    "headline": "5 Takeaways From Ghislaine Maxwell’s Interview About Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-transcript-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-50-25 +0000"
+  },
+  {
+    "headline": "Hooters honcho rolls back skimpy shorts, says there won’t be ‘butt cheeks hanging out’",
+    "link": "https://nypost.com/2025/08/22/us-news/hooters-honcho-rolls-back-skimpy-shorts-says-there-wont-be-butt-cheeks-hanging-out/",
+    "source": "nypost",
+    "pubdate": "2025-08-23-01-47-24 +0000"
+  },
+  {
+    "headline": "Hooters honcho rolls back skimpy shorts, says there won’t be ‘butt cheeks hanging out’",
+    "link": "https://nypost.com/2025/08/22/us-news/hooters-honcho-rolls-back-skimpy-shorts-says-there-wont-be-butt-cheeks-hanging-out/",
+    "source": "nypost",
+    "pubdate": "2025-08-23-01-47-24 +0000"
+  },
+  {
+    "headline": "Trump admin. purportedly fires S.F. immigration judge with high asylum rate",
+    "link": "https://missionlocal.org/2025/08/trump-admin-purportedly-fires-s-f-immigration-judge-with-high-asylum-rate/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-23-01-35-17 +0000"
+  },
+  {
+    "headline": "Convicted rapist admits to spray-painting swastikas, posting them on social media",
+    "link": "https://www.latimes.com/california/story/2025-08-22/convicted-rapist-admits-to-spray-painting-swastikas-posting-them-on-social-media",
+    "source": "latimes",
+    "pubdate": "2025-08-23-01-23-26 +0000"
+  },
+  {
+    "headline": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
+    "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-19-42 +0000"
+  },
+  {
+    "headline": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
+    "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
+    "source": "nyt",
+    "pubdate": "2025-08-23-01-19-42 +0000"
+  },
+  {
     "headline": "Turning the Tables, Robert Menendez’s Wife Now Seeks to Blame Him",
     "link": "https://www.nytimes.com/2025/08/22/nyregion/nadine-menendez-blames-robert-menendez.html",
     "source": "nyt",
@@ -25,7 +121,7 @@
   },
   {
     "headline": "Texas’ redistricting plan has set off a national partisan arms race, reshuffling the landscape for next year’s midterm elections and altering the parties’ electoral calculations",
-    "link": "https://www.wsj.com/politics/policy/a-partisan-shot-fired-in-texas-reverberates-around-the-country-044ed705",
+    "link": "https://www.wsj.com/politics/a-partisan-shot-fired-in-texas-reverberates-around-the-country-044ed705",
     "source": "wsj",
     "pubdate": "2025-08-23-01-00-00 +0000"
   },
@@ -48,30 +144,6 @@
     "pubdate": "2025-08-23-01-00-00 +0000"
   },
   {
-    "headline": "Abrego Garcia, Free From Tennessee Jail, Is Returning to Maryland, Lawyer Says",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/abrego-garcia-free-maryland.html",
-    "source": "nyt",
-    "pubdate": "2025-08-23-00-58-10 +0000"
-  },
-  {
-    "headline": "Abrego Garcia, Free From Tennessee Jail, Is Returning to Maryland, Lawyer Says",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/abrego-garcia-free-maryland.html",
-    "source": "nyt",
-    "pubdate": "2025-08-23-00-58-10 +0000"
-  },
-  {
-    "headline": "Justice Department Releases Ghislaine Maxwell Interview Transcripts",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-23-00-56-29 +0000"
-  },
-  {
-    "headline": "Justice Department Releases Ghislaine Maxwell Interview Transcripts",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-23-00-56-29 +0000"
-  },
-  {
     "headline": "Trump Names His Personnel Chief as Ambassador to India",
     "link": "https://www.nytimes.com/2025/08/22/us/politics/sergio-gor-ambassador-india.html",
     "source": "nyt",
@@ -106,12 +178,6 @@
     "link": "https://www.nytimes.com/2025/08/22/business/trump-federal-reserve-bls.html",
     "source": "nyt",
     "pubdate": "2025-08-23-00-51-00 +0000"
-  },
-  {
-    "headline": "Trump Administration Orders Work Halted on Wind Farm That Is Nearly Built",
-    "link": "https://www.nytimes.com/2025/08/22/climate/trump-administration-halts-revolution-wind.html",
-    "source": "nyt",
-    "pubdate": "2025-08-23-00-44-36 +0000"
   },
   {
     "headline": "NASA captures ‘cosmic hand’ reaching through 150 light-years of space in stunning new image",
@@ -384,12 +450,6 @@
     "pubdate": "2025-08-22-22-42-31 +0000"
   },
   {
-    "headline": "Co-owner of popular deli Tinucci’s accused of gravely injuring a bicyclist with SUV and fleeing",
-    "link": "https://www.startribune.com/co-owner-of-popular-twin-cities-deli-tinuccis-gravely-injured-bicyclist-with-suv-charge-says/601459882",
-    "source": "startribune",
-    "pubdate": "2025-08-22-22-39-07 +0000"
-  },
-  {
     "headline": "Intel Agrees to Sell U.S. a 10% Stake in Its Business",
     "link": "https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html",
     "source": "nyt",
@@ -510,18 +570,6 @@
     "pubdate": "2025-08-22-21-47-23 +0000"
   },
   {
-    "headline": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
-    "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-21-46-02 +0000"
-  },
-  {
-    "headline": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
-    "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-21-46-02 +0000"
-  },
-  {
     "headline": "More than 2,000 illegal marijuana plants removed from California’s Sequoia National Park",
     "link": "https://nypost.com/2025/08/22/us-news/more-than-2000-illegal-marijuana-plants-removed-from-california-national-park/",
     "source": "nypost",
@@ -616,6 +664,12 @@
     "link": "https://nypost.com/2025/08/22/us-news/nyc-to-test-waymo-self-driving-cars-on-crowded-manhattan-and-brooklyn-streets-a-really-bad-idea/",
     "source": "nypost",
     "pubdate": "2025-08-22-21-28-56 +0000"
+  },
+  {
+    "headline": "High school tackle football participation numbers remain on the rise in Minnesota",
+    "link": "https://www.startribune.com/high-school-sports-participation-minnesota-football-rises-nfhs-national-survey/601456887",
+    "source": "startribune",
+    "pubdate": "2025-08-22-21-22-01 +0000"
   },
   {
     "headline": "The Score: Intel, Home Depot, Meta and More Stocks That Defined the Week",
@@ -801,7 +855,7 @@
     "headline": "Stocks and Bonds Rise After Powell Suggests Interest Rate Cuts Could Be Imminent",
     "link": "https://www.nytimes.com/2025/08/22/business/powell-rate-cut-stocks-bonds.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-20-05-32 +0000"
+    "pubdate": "2025-08-22-20-05-33 +0000"
   },
   {
     "headline": "Year Will End With 300,000 Fewer Federal Workers, Trump Official Says",
@@ -826,12 +880,6 @@
     "link": "https://www.nytimes.com/2025/08/22/us/politics/national-guard-weapons.html",
     "source": "nyt",
     "pubdate": "2025-08-22-20-02-04 +0000"
-  },
-  {
-    "headline": "San Francisco mob assaults ICE agents, one keffiyeh-clad perp charged for threatening to ‘stab’ officer, hurt family",
-    "link": "https://nypost.com/2025/08/22/us-news/san-francisco-mob-assaults-ice-agents-and-one-keffiyeh-clad-perp-charged-for-threatening-to-stab-officer-hurt-family/",
-    "source": "nypost",
-    "pubdate": "2025-08-22-19-58-35 +0000"
   },
   {
     "headline": "San Francisco mob assaults ICE agents, one keffiyeh-clad perp charged for threatening to ‘stab’ officer, hurt family",
@@ -870,12 +918,6 @@
     "pubdate": "2025-08-22-19-54-47 +0000"
   },
   {
-    "headline": "Judge Orders ‘Alligator Alcatraz’ Detention Center in Florida to Shut Down for Now",
-    "link": "https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-19-53-58 +0000"
-  },
-  {
     "headline": "Kim Jong Un acknowledges Ukraine war losses at ceremony for fallen soldiers",
     "link": "https://www.washingtonpost.com/world/2025/08/22/north-korea-war-ukraine-russia-kim-jong-un/",
     "source": "wapo",
@@ -906,7 +948,7 @@
     "pubdate": "2025-08-22-19-34-00 +0000"
   },
   {
-    "headline": "Tour bus rollover on New York state highway leaves 5 dead and many others hurt",
+    "headline": "Tour bus rollover on New York state highway leaves 5 dead, dozens injured",
     "link": "https://www.cbc.ca/news/world/ny-state-tour-bus-crash-fatalities-1.7615938?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-22-19-31-12 +0000"
@@ -1191,13 +1233,13 @@
     "headline": "Chris Wallace, a CBS News Scion, Is Advising Its New Owner",
     "link": "https://www.nytimes.com/2025/08/22/business/media/chris-wallace-redbird-cbs.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-18-23-55 +0000"
+    "pubdate": "2025-08-22-18-23-56 +0000"
   },
   {
     "headline": "Chris Wallace, a CBS News Scion, Is Advising Its New Owner",
     "link": "https://www.nytimes.com/2025/08/22/business/media/chris-wallace-redbird-cbs.html",
     "source": "nyt",
-    "pubdate": "2025-08-22-18-23-55 +0000"
+    "pubdate": "2025-08-22-18-23-56 +0000"
   },
   {
     "headline": "New York City to get federal police for crime crackdown after DC, Chicago: Trump",
@@ -1818,12 +1860,6 @@
     "pubdate": "2025-08-22-14-23-52 +0000"
   },
   {
-    "headline": "After being denied parole, Erik Menendez still has other pathways to freedom.",
-    "link": "https://www.nytimes.com/2025/08/21/us/erik-menendez-parole-release-habeas.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-14-22-37 +0000"
-  },
-  {
     "headline": "New bodies found near site of Kenya's starvation cult burials",
     "link": "https://www.bbc.com/news/articles/cdrkpjk0346o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2184,12 +2220,6 @@
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
   {
-    "headline": "A Vegas company wants to build a glamping resort near Joshua Tree National Park. Locals sued",
-    "link": "https://www.latimes.com/environment/story/2025-08-22/glamping-resort-joshua-tree-national-park-lawsuit",
-    "source": "latimes",
-    "pubdate": "2025-08-22-10-00-00 +0000"
-  },
-  {
     "headline": "Overnight lines and hours-long wait time at Washington state's first In-N-Out",
     "link": "https://www.latimes.com/california/story/2025-08-22/overnight-lines-hours-long-wait-time-at-washington-states-first-in-n-out",
     "source": "latimes",
@@ -2208,14 +2238,20 @@
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
   {
-    "headline": "Millions died from the plague in the 14th century. Here's how it just reappeared in California.",
-    "link": "https://www.latimes.com/california/story/2025-08-22/bubonic-plague-california-case-lake-tahoe-experts-explain",
+    "headline": "Lawsuit alleges Edison hid its role in 2019 Sylmar wildfire",
+    "link": "https://www.latimes.com/environment/story/2025-08-22/edisons-actions-called-deceptive-in-2019-wildfire-probe",
     "source": "latimes",
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
   {
-    "headline": "Lawsuit alleges Edison hid its role in 2019 Sylmar wildfire",
-    "link": "https://www.latimes.com/environment/story/2025-08-22/edisons-actions-called-deceptive-in-2019-wildfire-probe",
+    "headline": "A Vegas company wants to build a glamping resort near Joshua Tree National Park. Locals sued",
+    "link": "https://www.latimes.com/environment/story/2025-08-22/glamping-resort-joshua-tree-national-park-lawsuit",
+    "source": "latimes",
+    "pubdate": "2025-08-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Millions died from the plague in the 14th century. Here's how it just reappeared in California",
+    "link": "https://www.latimes.com/california/story/2025-08-22/bubonic-plague-california-case-lake-tahoe-experts-explain",
     "source": "latimes",
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
@@ -2584,95 +2620,5 @@
     "link": "https://nypost.com/2025/08/21/us-news/kamala-harris-skewered-over-book-tour-for-memoir-on-failed-presidential-campaign/",
     "source": "nypost",
     "pubdate": "2025-08-22-02-29-08 +0000"
-  },
-  {
-    "headline": "Japan ‘bear attack’ victim, 93, was actually murdered, son arrested in shocking twist",
-    "link": "https://nypost.com/2025/08/21/world-news/japan-bear-attack-victim-was-murdered-son-arrested/",
-    "source": "nypost",
-    "pubdate": "2025-08-22-02-17-10 +0000"
-  },
-  {
-    "headline": "Anger in Italy over non-consensual photos of women shared online",
-    "link": "https://www.bbc.com/news/articles/ce874j4ye3no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-01-59-57 +0000"
-  },
-  {
-    "headline": "Anger in Italy over non-consensual photos of women shared online",
-    "link": "https://www.bbc.com/news/articles/ce874j4ye3no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-22-01-59-57 +0000"
-  },
-  {
-    "headline": "Apple TV+ hikes monthly subscription price for Apple users",
-    "link": "https://nypost.com/2025/08/21/business/apple-tv-hikes-monthly-subscription-price-for-apple-users/",
-    "source": "nypost",
-    "pubdate": "2025-08-22-01-50-38 +0000"
-  },
-  {
-    "headline": "Erik Menendez was questioned about illicit cellphone use inside the prison.",
-    "link": "https://www.nytimes.com/live/2025/08/21/us/menendez-brothers-parole-hearing/erik-menendez-was-questioned-about-illicit-cellphone-use-inside-the-prison",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-48-15 +0000"
-  },
-  {
-    "headline": "Police Helicopter Downed by Drone in Colombia, Killing 12",
-    "link": "https://www.wsj.com/world/americas/police-helicopter-downed-by-drone-in-colombia-killing-12-48117a0d",
-    "source": "wsj",
-    "pubdate": "2025-08-22-01-48-00 +0000"
-  },
-  {
-    "headline": "‘I was not raised with a moral foundation,’ Erik Menendez told the parole board.",
-    "link": "https://www.nytimes.com/live/2025/08/21/us/menendez-brothers-parole-hearing/i-was-not-raised-with-a-moral-foundation-erik-menendez-told-the-parole-board",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-47-47 +0000"
-  },
-  {
-    "headline": "Erik Menendez to remain in prison after decision by California Parole Board",
-    "link": "https://www.latimes.com/california/story/2025-08-21/california-parole-board-erik-menendez",
-    "source": "latimes",
-    "pubdate": "2025-08-22-01-43-32 +0000"
-  },
-  {
-    "headline": "'He's trying to rig the election.' Newsom bashes Trump as redistricting campaign kicks off",
-    "link": "https://www.latimes.com/california/story/2025-08-21/newsom-trump-ballot-measure",
-    "source": "latimes",
-    "pubdate": "2025-08-22-01-37-38 +0000"
-  },
-  {
-    "headline": "'He's trying to rig the election.' Newsom bashes Trump as redistricting campaign kicks off",
-    "link": "https://www.latimes.com/california/story/2025-08-21/newsom-trump-ballot-measure",
-    "source": "latimes",
-    "pubdate": "2025-08-22-01-37-38 +0000"
-  },
-  {
-    "headline": "Huge marijuana farm spewing toxic chemicals is busted in Sequoia National Park",
-    "link": "https://www.latimes.com/california/story/2025-08-21/massive-marijuana-grow-using-toxic-chemicals-busted-in-sequoia-national-park",
-    "source": "latimes",
-    "pubdate": "2025-08-22-01-28-57 +0000"
-  },
-  {
-    "headline": "Drone Explosion in Haiti Kills 2 SWAT Members and Injures 6 Others",
-    "link": "https://www.nytimes.com/2025/08/20/world/americas/haiti-drones-police-gangs.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-28-56 +0000"
-  },
-  {
-    "headline": "Drone Explosion in Haiti Kills 2 SWAT Members and Injures 6 Others",
-    "link": "https://www.nytimes.com/2025/08/20/world/americas/haiti-drones-police-gangs.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-28-56 +0000"
-  },
-  {
-    "headline": "Trump Starts Investigation That Could Lead to Tariffs on Wind Turbines",
-    "link": "https://www.nytimes.com/2025/08/21/us/politics/trump-investigation-tariffs-wind-turbines.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-28-45 +0000"
-  },
-  {
-    "headline": "Trump Starts Investigation That Could Lead to Tariffs on Wind Turbines",
-    "link": "https://www.nytimes.com/2025/08/21/us/politics/trump-investigation-tariffs-wind-turbines.html",
-    "source": "nyt",
-    "pubdate": "2025-08-22-01-28-45 +0000"
   }
 ]
