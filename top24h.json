@@ -1,10 +1,10 @@
 [
   {
-    "score": 196,
-    "pubdate": "2025-08-22-18-08-00 +0000",
+    "score": 130,
+    "pubdate": "2025-08-23-12-29-00 +0000",
     "source": "wsj",
-    "headline": "The FBI searched the Maryland home and D.C. office of former Trump national security adviser John Bolton, escalating a years-old probe into whether the Trump critic mishandled classified information",
-    "link": "https://www.wsj.com/politics/policy/fbi-raids-home-of-former-trump-national-security-adviser-john-bolton-48f9dbc2"
+    "headline": "The Texas Senate approved a redistricting plan at the behest of President Trump that sets up a race to redraw congressional maps in California to neutralize Republican gains",
+    "link": "https://www.wsj.com/politics/policy/texas-congressional-map-vote-redistricting-5036a21f"
   },
   {
     "score": 87,
@@ -14,25 +14,11 @@
     "link": "https://www.latimes.com/california/story/2025-08-22/lyle-menendez-parole-board-decision"
   },
   {
-    "score": 66,
-    "pubdate": "2025-08-23-12-29-00 +0000",
-    "source": "wsj",
-    "headline": "The Texas Senate approved a redistricting plan at the behest of President Trump that sets up a race to redraw congressional maps in California to neutralize Republican gains",
-    "link": "https://www.wsj.com/politics/policy/texas-congressional-map-vote-redistricting-5036a21f"
-  },
-  {
-    "score": 65,
+    "score": 67,
     "pubdate": "2025-08-23-01-00-00 +0000",
     "source": "wsj",
     "headline": "Target’s New CEO Already Has Critics. He Bets He Can Prove Them Wrong.",
     "link": "https://www.wsj.com/business/retail/target-new-ceo-michael-fiddelke-008c0280?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 63,
-    "pubdate": "2025-08-22-18-33-00 +0000",
-    "source": "wsj",
-    "headline": "Canada’s decision to drop tariffs on most U.S. imports could give the country’s central bank a freer hand in cutting interest rates because the threat of trade-related inflation has dissipated, economists say",
-    "link": "https://www.wsj.com/articles/canadas-rollback-of-retaliatory-tariffs-could-set-stage-for-rate-cuts-economists-say-c422f36f"
   },
   {
     "score": 50,
@@ -42,31 +28,45 @@
     "link": "https://www.wsj.com/us-news/law/justice-department-releases-ghislaine-maxwell-interview-transcript-98cd6d7f"
   },
   {
-    "score": 46,
-    "pubdate": "2025-08-23-16-24-47 +0000",
-    "source": "bbc",
-    "headline": "Pentagon fires intelligence agency chief after Iran attack assessment",
-    "link": "https://www.bbc.com/news/articles/c2dj217z2w6o?at_medium=RSS&at_campaign=rss"
+    "score": 49,
+    "pubdate": "2025-08-22-21-03-00 +0000",
+    "source": "wsj",
+    "headline": "Defense Secretary Pete Hegseth fired the Defense Intelligence Agency director, the latest in a slew of senior national-security officials dismissed by the Trump administration",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-fires-defense-intelligence-agency-chief-after-iran-report-ee86c7f9"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-22-20-20-21 +0000",
-    "source": "bbc",
-    "headline": "Kilmar Abrego Garcia released from jail and reunited with family",
-    "link": "https://www.bbc.com/news/articles/c5y0720p0x5o?at_medium=RSS&at_campaign=rss"
+    "score": 45,
+    "pubdate": "2025-08-23-16-23-22 +0000",
+    "source": "nyt",
+    "headline": "Abrego Garcia’s Lawyers Say U.S. Officials Tried to Use Uganda Deportation Threat to ‘Coerce’ Guilty Plea",
+    "link": "https://www.nytimes.com/2025/08/23/us/politics/abrego-garcia-coercion.html"
   },
   {
     "score": 41,
+    "pubdate": "2025-08-22-19-58-35 +0000",
+    "source": "nypost",
+    "headline": "San Francisco mob assaults ICE agents, one keffiyeh-clad perp charged for threatening to ‘stab’ officer, hurt family",
+    "link": "https://nypost.com/2025/08/22/us-news/san-francisco-mob-assaults-ice-agents-and-one-keffiyeh-clad-perp-charged-for-threatening-to-stab-officer-hurt-family/"
+  },
+  {
+    "score": 40,
     "pubdate": "2025-08-23-13-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump called Gavin Newsom “Newscum” earlier this year, the California governor likened him to a bully and refused to engage. These days, Newsom is starting to act as the aggressor.",
     "link": "https://www.wsj.com/politics/policy/to-fight-trump-gavin-newsom-acts-more-like-him-f7186a46"
   },
   {
-    "score": 38,
-    "pubdate": "2025-08-22-19-27-10 +0000",
+    "score": 39,
+    "pubdate": "2025-08-23-18-49-49 +0000",
     "source": "nypost",
-    "headline": "Trump threatens to fire Fed’s Lisa Cook over alleged mortage fraud: ‘What she did was bad’",
-    "link": "https://nypost.com/2025/08/22/business/trump-threatens-to-fire-feds-lisa-cook-over-alleged-mortage-fraud/"
+    "headline": "Californians demand answers about missing infant Emmanuel Haro after parents are arrested for his murder",
+    "link": "https://nypost.com/2025/08/23/us-news/californians-demand-answers-about-missing-infant-emmanuel-haro-after-parents-are-arrested-for-his-murder/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-08-22-19-34-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Gives Familiar Two-Week Deadline for Next Steps to End War in Ukraine",
+    "link": "https://www.wsj.com/world/russia/trump-gives-familiar-two-week-deadline-for-next-steps-to-end-war-in-ukraine-24b546e7"
   }
 ]
