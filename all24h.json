@@ -1,5 +1,59 @@
 [
   {
+    "headline": "Zelensky vows to continue fighting as Ukraine marks independence day",
+    "link": "https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-24-11-51-42 +0000"
+  },
+  {
+    "headline": "Revealing Taste",
+    "link": "https://www.nytimes.com/2025/08/24/briefing/revealing-taste.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-11-45-06 +0000"
+  },
+  {
+    "headline": "Revealing Taste",
+    "link": "https://www.nytimes.com/2025/08/24/briefing/revealing-taste.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-11-45-06 +0000"
+  },
+  {
+    "headline": "South Korea promises Trump to ‘Make American Shipbuilding Great Again’",
+    "link": "https://www.washingtonpost.com/world/2025/08/24/south-korea-united-states-shipbuilding/",
+    "source": "wapo",
+    "pubdate": "2025-08-24-11-09-14 +0000"
+  },
+  {
+    "headline": "How Palm Springs learned to love its wind turbines",
+    "link": "https://www.washingtonpost.com/climate-environment/2025/08/24/palm-springs-wind-turbines-tourism/",
+    "source": "wapo",
+    "pubdate": "2025-08-24-11-00-05 +0000"
+  },
+  {
+    "headline": "Meet the man who leads tours of San Francisco City Hall",
+    "link": "https://missionlocal.org/2025/08/sf-city-hall-tours-greg-bayol/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Public Land opens art, plant, and home goods store on S.F’s Clement Street",
+    "link": "https://missionlocal.org/2025/08/public-land-opens-art-plant-and-home-goods-store-on-s-fs-clement-street/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Zelensky Marks Ukraine’s Independence Day With Diplomacy in Kyiv and a Plea for Peace",
+    "link": "https://www.nytimes.com/2025/08/24/world/europe/zelensky-ukraine-independence-day.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-10-58-30 +0000"
+  },
+  {
+    "headline": "Zelensky Marks Ukraine’s Independence Day With Diplomacy in Kyiv and a Plea for Peace",
+    "link": "https://www.nytimes.com/2025/08/24/world/europe/zelensky-ukraine-independence-day.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-10-58-30 +0000"
+  },
+  {
     "headline": "China’s Tropical Resort Island Orders Evacuations as Typhoon Kajiki Nears",
     "link": "https://www.nytimes.com/2025/08/24/world/asia/typhoon-kajiki-china-sanya.html",
     "source": "nyt",
@@ -42,30 +96,6 @@
     "pubdate": "2025-08-24-10-00-18 +0000"
   },
   {
-    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Most California voters disapprove of Trump's immigration enforcement policies, poll shows",
-    "link": "https://www.latimes.com/california/story/2025-08-24/la-me-latimes-berkeley-poll-on-immigration",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
-    "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
-    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
     "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
     "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
     "source": "latimes",
@@ -90,10 +120,28 @@
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
-    "headline": "Russia blames nuclear site attack on Ukraine as Kyiv marks independence day",
-    "link": "https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-24-09-50-47 +0000"
+    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Most California voters disapprove of Trump's immigration enforcement policies, poll shows",
+    "link": "https://www.latimes.com/california/story/2025-08-24/la-me-latimes-berkeley-poll-on-immigration",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
     "headline": "Trump’s Next Fight With Universities: Racial ‘Proxies’ in Admissions",
@@ -1036,23 +1084,5 @@
     "link": "https://www.nytimes.com/2025/08/23/business/dealbook/future-nick-foster.html",
     "source": "nyt",
     "pubdate": "2025-08-23-12-00-03 +0000"
-  },
-  {
-    "headline": "Mayor Lurie makes marathon visits to S.F. low-income housing. But what can he do?",
-    "link": "https://missionlocal.org/2025/08/mayor-lurie-makes-marathon-visits-to-s-f-low-income-housing-but-what-can-he-do/",
-    "source": "missionlocal",
-    "pubdate": "2025-08-23-11-00-00 +0000"
-  },
-  {
-    "headline": "San Diego Zoo mourns deaths of three beloved animals in less than a week",
-    "link": "https://www.latimes.com/california/story/2025-08-23/san-diego-zoo-mourns-deaths-of-three-beloved-animals",
-    "source": "latimes",
-    "pubdate": "2025-08-23-11-00-00 +0000"
-  },
-  {
-    "headline": "California elementary teacher filmed himself sexually assaulting kids at school, authorities say",
-    "link": "https://www.latimes.com/california/story/2025-08-23/california-elementary-teacher-filmed-himself-sexually-assaulting-kids-at-school-authorities-say",
-    "source": "latimes",
-    "pubdate": "2025-08-23-11-00-00 +0000"
   }
 ]
