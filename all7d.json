@@ -1,5 +1,59 @@
 [
   {
+    "headline": "Zelensky vows to continue fighting as Ukraine marks independence day",
+    "link": "https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-24-11-51-42 +0000"
+  },
+  {
+    "headline": "Revealing Taste",
+    "link": "https://www.nytimes.com/2025/08/24/briefing/revealing-taste.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-11-45-06 +0000"
+  },
+  {
+    "headline": "Revealing Taste",
+    "link": "https://www.nytimes.com/2025/08/24/briefing/revealing-taste.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-11-45-06 +0000"
+  },
+  {
+    "headline": "South Korea promises Trump to ‘Make American Shipbuilding Great Again’",
+    "link": "https://www.washingtonpost.com/world/2025/08/24/south-korea-united-states-shipbuilding/",
+    "source": "wapo",
+    "pubdate": "2025-08-24-11-09-14 +0000"
+  },
+  {
+    "headline": "How Palm Springs learned to love its wind turbines",
+    "link": "https://www.washingtonpost.com/climate-environment/2025/08/24/palm-springs-wind-turbines-tourism/",
+    "source": "wapo",
+    "pubdate": "2025-08-24-11-00-05 +0000"
+  },
+  {
+    "headline": "Meet the man who leads tours of San Francisco City Hall",
+    "link": "https://missionlocal.org/2025/08/sf-city-hall-tours-greg-bayol/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Public Land opens art, plant, and home goods store on S.F’s Clement Street",
+    "link": "https://missionlocal.org/2025/08/public-land-opens-art-plant-and-home-goods-store-on-s-fs-clement-street/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Zelensky Marks Ukraine’s Independence Day With Diplomacy in Kyiv and a Plea for Peace",
+    "link": "https://www.nytimes.com/2025/08/24/world/europe/zelensky-ukraine-independence-day.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-10-58-30 +0000"
+  },
+  {
+    "headline": "Zelensky Marks Ukraine’s Independence Day With Diplomacy in Kyiv and a Plea for Peace",
+    "link": "https://www.nytimes.com/2025/08/24/world/europe/zelensky-ukraine-independence-day.html",
+    "source": "nyt",
+    "pubdate": "2025-08-24-10-58-30 +0000"
+  },
+  {
     "headline": "China’s Tropical Resort Island Orders Evacuations as Typhoon Kajiki Nears",
     "link": "https://www.nytimes.com/2025/08/24/world/asia/typhoon-kajiki-china-sanya.html",
     "source": "nyt",
@@ -42,30 +96,6 @@
     "pubdate": "2025-08-24-10-00-18 +0000"
   },
   {
-    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Most California voters disapprove of Trump's immigration enforcement policies, poll shows",
-    "link": "https://www.latimes.com/california/story/2025-08-24/la-me-latimes-berkeley-poll-on-immigration",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
-    "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
-    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
     "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
     "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
     "source": "latimes",
@@ -90,10 +120,28 @@
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
-    "headline": "Russia blames nuclear site attack on Ukraine as Kyiv marks independence day",
-    "link": "https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-24-09-50-47 +0000"
+    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Most California voters disapprove of Trump's immigration enforcement policies, poll shows",
+    "link": "https://www.latimes.com/california/story/2025-08-24/la-me-latimes-berkeley-poll-on-immigration",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
     "headline": "Trump’s Next Fight With Universities: Racial ‘Proxies’ in Admissions",
@@ -1500,6 +1548,12 @@
     "pubdate": "2025-08-23-01-00-00 +0000"
   },
   {
+    "headline": "Too Rich for College Aid, Can’t Afford Full Price: How One Family Made It Work",
+    "link": "https://www.wsj.com/personal-finance/college-cost-financial-aid-3b3df06d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-08-23-01-00-00 +0000"
+  },
+  {
     "headline": "Target’s New CEO Already Has Critics. He Bets He Can Prove Them Wrong.",
     "link": "https://www.wsj.com/business/retail/target-new-ceo-michael-fiddelke-008c0280?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -2850,12 +2904,6 @@
     "pubdate": "2025-08-22-11-10-22 +0000"
   },
   {
-    "headline": "Texas boosts safety plans, flood-evacuation training for summer camps",
-    "link": "https://www.washingtonpost.com/nation/2025/08/22/texas-flooding-legislation-camp-mystic/",
-    "source": "wapo",
-    "pubdate": "2025-08-22-11-00-00 +0000"
-  },
-  {
     "headline": "The SF State-born project that lasted five decades: El Tecolote turns 55",
     "link": "https://missionlocal.org/2025/08/the-sf-state-born-project-that-lasted-five-decades-el-tecolote-turns-55/",
     "source": "missionlocal",
@@ -2940,14 +2988,8 @@
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
   {
-    "headline": "A Vegas company wants to build a glamping resort near Joshua Tree National Park. Locals sued",
-    "link": "https://www.latimes.com/environment/story/2025-08-22/glamping-resort-joshua-tree-national-park-lawsuit",
-    "source": "latimes",
-    "pubdate": "2025-08-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Overnight lines and hours-long wait time at Washington state's first In-N-Out",
-    "link": "https://www.latimes.com/california/story/2025-08-22/overnight-lines-hours-long-wait-time-at-washington-states-first-in-n-out",
+    "headline": "Love it or hate it? Poll shows how Californians feel about Newsom's redistricting fight with Trump",
+    "link": "https://www.latimes.com/california/story/2025-08-22/la-times-berkeley-poll-on-redistricting",
     "source": "latimes",
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
@@ -2958,8 +3000,14 @@
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
   {
-    "headline": "Love it or hate it? Poll shows how Californians feel about Newsom's redistricting fight with Trump",
-    "link": "https://www.latimes.com/california/story/2025-08-22/la-times-berkeley-poll-on-redistricting",
+    "headline": "A Vegas company wants to build a glamping resort near Joshua Tree National Park. Locals sued",
+    "link": "https://www.latimes.com/environment/story/2025-08-22/glamping-resort-joshua-tree-national-park-lawsuit",
+    "source": "latimes",
+    "pubdate": "2025-08-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Overnight lines and hours-long wait time at Washington state's first In-N-Out",
+    "link": "https://www.latimes.com/california/story/2025-08-22/overnight-lines-hours-long-wait-time-at-washington-states-first-in-n-out",
     "source": "latimes",
     "pubdate": "2025-08-22-10-00-00 +0000"
   },
@@ -3360,6 +3408,12 @@
     "pubdate": "2025-08-21-23-50-34 +0000"
   },
   {
+    "headline": "These 11 S.F. organizations support day laborers. Here’s what they offer",
+    "link": "https://eltecolote.org/content/en/sf-immigrant-worker-resources/",
+    "source": "eltecolote",
+    "pubdate": "2025-08-21-23-25-12 +0000"
+  },
+  {
     "headline": "The race for the two miles-a-second super weapons that Putin says turn targets to dust",
     "link": "https://www.bbc.com/news/articles/cgeqj1q8gj4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3640,12 +3694,6 @@
     "link": "https://www.nytimes.com/2025/08/20/nyregion/bruce-slovin-dead.html",
     "source": "nyt",
     "pubdate": "2025-08-21-18-40-18 +0000"
-  },
-  {
-    "headline": "Europe Gets a Written Trump Trade Deal, With a Caveat for Automakers",
-    "link": "https://www.nytimes.com/2025/08/21/us/politics/eu-us-trump-trade-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-18-32-58 +0000"
   },
   {
     "headline": "Europe Gets a Written Trump Trade Deal, With a Caveat for Automakers",
@@ -4008,12 +4056,6 @@
     "pubdate": "2025-08-21-14-13-00 +0000"
   },
   {
-    "headline": "Thursday Briefing: Israeli Troops Near Gaza City",
-    "link": "https://www.nytimes.com/2025/08/21/briefing/gaza-city-offensive-west-bank-settlements-ukraine-russia-china-tibet.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-14-11-40 +0000"
-  },
-  {
     "headline": "Thursday Briefing: Israel’s Planned Offensive",
     "link": "https://www.nytimes.com/2025/08/20/briefing/israel-military-gaza-ukraine-tibet.html",
     "source": "nyt",
@@ -4194,6 +4236,12 @@
     "pubdate": "2025-08-21-10-42-31 +0000"
   },
   {
+    "headline": "L.A. may land a new congressional seat. Is it already reserved?",
+    "link": "https://www.latimes.com/california/story/2025-08-21/l-a-may-land-a-new-congressional-seat-is-it-already-reserved",
+    "source": "latimes",
+    "pubdate": "2025-08-21-10-00-00 +0000"
+  },
+  {
     "headline": "Contributor: Immigration enforcement needs oversight. ICE can't just ban lawmakers",
     "link": "https://www.latimes.com/opinion/story/2025-08-21/ice-lawmakers-immigration-enforcement-oversight",
     "source": "latimes",
@@ -4206,20 +4254,14 @@
     "pubdate": "2025-08-21-10-00-00 +0000"
   },
   {
-    "headline": "L.A. may land a new congressional seat. Is it already reserved?",
-    "link": "https://www.latimes.com/california/story/2025-08-21/l-a-may-land-a-new-congressional-seat-is-it-already-reserved",
+    "headline": "L.A. touts results of using unarmed civilians instead of cops for some emergencies",
+    "link": "https://www.latimes.com/california/story/2025-08-21/unarmed-civilians-emergencies-los-angeles",
     "source": "latimes",
     "pubdate": "2025-08-21-10-00-00 +0000"
   },
   {
     "headline": "Housing Tracker: Southern California home values dip slightly in July",
     "link": "https://www.latimes.com/california/story/2025-08-21/housing-tracker-for-july",
-    "source": "latimes",
-    "pubdate": "2025-08-21-10-00-00 +0000"
-  },
-  {
-    "headline": "L.A. touts results of using unarmed civilians instead of cops for some emergencies",
-    "link": "https://www.latimes.com/california/story/2025-08-21/unarmed-civilians-emergencies-los-angeles",
     "source": "latimes",
     "pubdate": "2025-08-21-10-00-00 +0000"
   },
@@ -4270,12 +4312,6 @@
     "link": "https://www.bbc.com/news/articles/clyr7l0z9edo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-21-09-39-40 +0000"
-  },
-  {
-    "headline": "Women in Indian Sports Sweat for Their Share of a Booming Market",
-    "link": "https://www.nytimes.com/2025/08/21/world/asia/india-sports-women-female-athletes.html",
-    "source": "nyt",
-    "pubdate": "2025-08-21-09-34-43 +0000"
   },
   {
     "headline": "Women in Indian Sports Sweat for Their Share of a Booming Market",
@@ -4476,6 +4512,12 @@
     "pubdate": "2025-08-21-00-53-50 +0000"
   },
   {
+    "headline": "ICE tactics escalate at S.F. courthouse as protesters clash with officers",
+    "link": "https://eltecolote.org/content/en/sf-ice-courthouse-protest/",
+    "source": "eltecolote",
+    "pubdate": "2025-08-21-00-51-57 +0000"
+  },
+  {
     "headline": "Most L.A. city employee layoffs averted by deals with unions",
     "link": "https://www.latimes.com/california/story/2025-08-20/most-l-a-city-employee-layoffs-averted-by-deal-with-unions",
     "source": "latimes",
@@ -4666,12 +4708,6 @@
     "link": "https://www.cbc.ca/news/politics/pierre-poilievre-bishnoi-gang-terrorism-designation-1.7613826?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-20-20-02-38 +0000"
-  },
-  {
-    "headline": "Why Claiming Two Primary Residences Is a Problem, Even if Prosecutions Are Rare",
-    "link": "https://www.nytimes.com/2025/08/20/business/mortgage-primary-residence.html",
-    "source": "nyt",
-    "pubdate": "2025-08-20-19-59-00 +0000"
   },
   {
     "headline": "ICE pepper sprays protesters and press at S.F. immigration court",
@@ -4962,14 +4998,56 @@
     "pubdate": "2025-08-20-10-54-28 +0000"
   },
   {
+    "headline": "Barabak: Power grab may energize Newsom and Democrats. But it won't fix their bigger problem",
+    "link": "https://www.latimes.com/politics/story/2025-08-20/california-redistricting-newsom-special-election-trump-texas",
+    "source": "latimes",
+    "pubdate": "2025-08-20-10-00-00 +0000"
+  },
+  {
     "headline": "California Republicans push Democrats on transparency, timeline for redistricting",
     "link": "https://www.latimes.com/california/story/2025-08-20/republicans-preview-anti-redistricting-arguments-in-testy-legislative-hearings",
     "source": "latimes",
     "pubdate": "2025-08-20-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: Power grab may energize Newsom and Democrats. But it won't fix their bigger problem",
-    "link": "https://www.latimes.com/politics/story/2025-08-20/california-redistricting-newsom-special-election-trump-texas",
+    "headline": "He was delivering strawberries in L.A. when Border Patrol stopped him. 'The wrong place at the wrong time'",
+    "link": "https://www.latimes.com/california/story/2025-08-20/strawberry-delivery-driver-newsom-arrest",
+    "source": "latimes",
+    "pubdate": "2025-08-20-10-00-00 +0000"
+  },
+  {
+    "headline": "Southern California facing a triple threat: Extreme heat, fire risk and thunderstorms",
+    "link": "https://www.latimes.com/california/story/2025-08-20/southern-california-weather-risks-extreme-heat-fire-risk-thunderstorms",
+    "source": "latimes",
+    "pubdate": "2025-08-20-10-00-00 +0000"
+  },
+  {
+    "headline": "Will one of the Menendez brothers finally be set free? What to expect at today's hearing",
+    "link": "https://www.latimes.com/california/story/2025-08-20/menendez-brothers-parole-hearings",
+    "source": "latimes",
+    "pubdate": "2025-08-20-10-00-00 +0000"
+  },
+  {
+    "headline": "'Nobody wants to call LAPD anymore': Outrage follows killing of man with replica gun",
+    "link": "https://www.latimes.com/california/story/2025-08-20/boyle-heights-lapd-shooting",
+    "source": "latimes",
+    "pubdate": "2025-08-20-10-00-00 +0000"
+  },
+  {
+    "headline": "California Republicans push Democrats on transparency, timeline for redistricting",
+    "link": "https://www.latimes.com/california/story/2025-08-20/republicans-preview-anti-redistricting-arguments-in-testy-legislative-hearings",
+    "source": "latimes",
+    "pubdate": "2025-08-20-10-00-00 +0000"
+  },
+  {
+    "headline": "Denser housing near transit stops? L.A. City Council opposes state bill",
+    "link": "https://www.latimes.com/california/story/2025-08-20/denser-housing-near-transit-stops-l-a-city-council-opposes-state-bill",
+    "source": "latimes",
+    "pubdate": "2025-08-20-10-00-00 +0000"
+  },
+  {
+    "headline": "National Park Service employee fired for displaying trans-pride flag over El Capitan",
+    "link": "https://www.latimes.com/california/story/2025-08-20/national-park-service-employee-fired-for-displaying-trans-pride-flag-over-el-capitan",
     "source": "latimes",
     "pubdate": "2025-08-20-10-00-00 +0000"
   },
@@ -4986,50 +5064,8 @@
     "pubdate": "2025-08-20-10-00-00 +0000"
   },
   {
-    "headline": "He was delivering strawberries in L.A. when Border Patrol stopped him. 'The wrong place at the wrong time'",
-    "link": "https://www.latimes.com/california/story/2025-08-20/strawberry-delivery-driver-newsom-arrest",
-    "source": "latimes",
-    "pubdate": "2025-08-20-10-00-00 +0000"
-  },
-  {
-    "headline": "Denser housing near transit stops? L.A. City Council opposes state bill",
-    "link": "https://www.latimes.com/california/story/2025-08-20/denser-housing-near-transit-stops-l-a-city-council-opposes-state-bill",
-    "source": "latimes",
-    "pubdate": "2025-08-20-10-00-00 +0000"
-  },
-  {
-    "headline": "Will one of the Menendez brothers finally be set free? What to expect at today's hearing",
-    "link": "https://www.latimes.com/california/story/2025-08-20/menendez-brothers-parole-hearings",
-    "source": "latimes",
-    "pubdate": "2025-08-20-10-00-00 +0000"
-  },
-  {
-    "headline": "Southern California facing a triple threat: Extreme heat, fire risk and thunderstorms",
-    "link": "https://www.latimes.com/california/story/2025-08-20/southern-california-weather-risks-extreme-heat-fire-risk-thunderstorms",
-    "source": "latimes",
-    "pubdate": "2025-08-20-10-00-00 +0000"
-  },
-  {
-    "headline": "National Park Service employee fired for displaying trans-pride flag over El Capitan",
-    "link": "https://www.latimes.com/california/story/2025-08-20/national-park-service-employee-fired-for-displaying-trans-pride-flag-over-el-capitan",
-    "source": "latimes",
-    "pubdate": "2025-08-20-10-00-00 +0000"
-  },
-  {
     "headline": "Money for L.A. County voting machines ended up in bribery 'slush fund,' feds allege",
     "link": "https://www.latimes.com/california/story/2025-08-20/money-for-la-county-voting-machines-ended-up-in-bribery-slush-fund-feds-allege",
-    "source": "latimes",
-    "pubdate": "2025-08-20-10-00-00 +0000"
-  },
-  {
-    "headline": "'Nobody wants to call LAPD anymore': Outrage follows killing of man with replica gun",
-    "link": "https://www.latimes.com/california/story/2025-08-20/boyle-heights-lapd-shooting",
-    "source": "latimes",
-    "pubdate": "2025-08-20-10-00-00 +0000"
-  },
-  {
-    "headline": "California Republicans push Democrats on transparency, timeline for redistricting",
-    "link": "https://www.latimes.com/california/story/2025-08-20/republicans-preview-anti-redistricting-arguments-in-testy-legislative-hearings",
     "source": "latimes",
     "pubdate": "2025-08-20-10-00-00 +0000"
   },
@@ -5340,6 +5376,12 @@
     "pubdate": "2025-08-19-20-26-00 +0000"
   },
   {
+    "headline": "How immigrants can protect themselves from wage theft in California",
+    "link": "https://eltecolote.org/content/en/ca-wage-theft-report/",
+    "source": "eltecolote",
+    "pubdate": "2025-08-19-20-22-03 +0000"
+  },
+  {
     "headline": "Metro bus ridership continues to dip. Are fears over ICE raids partly to blame?",
     "link": "https://www.latimes.com/california/story/2025-08-19/metro-bus-ridership-down-july-ice-raids",
     "source": "latimes",
@@ -5368,6 +5410,12 @@
     "link": "https://www.wsj.com/economy/housing/housing-starts-climbed-unexpectedly-in-july-733fe08e",
     "source": "wsj",
     "pubdate": "2025-08-19-18-54-00 +0000"
+  },
+  {
+    "headline": "ICE fears and loss of work hit San Francisco’s day laborers hard",
+    "link": "https://eltecolote.org/content/en/sf-ice-immigrant-workers-jobs/",
+    "source": "eltecolote",
+    "pubdate": "2025-08-19-18-49-17 +0000"
   },
   {
     "headline": "Hamas Accepts New Gaza Cease-Fire Proposal, Officials Say",
@@ -5490,8 +5538,26 @@
     "pubdate": "2025-08-19-11-00-00 +0000"
   },
   {
+    "headline": "UCLA's Jewish community unites against Trump's $1-billion demand: 'Misguided and punitive'",
+    "link": "https://www.latimes.com/california/story/2025-08-19/ucla-jewish-community-trump-condemn-research-funding-freeze",
+    "source": "latimes",
+    "pubdate": "2025-08-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Ultra-luxurious Santa Monica hotel accused of failing to pay staff minimum wage",
+    "link": "https://www.latimes.com/california/story/2025-08-19/luxurious-santa-monica-proper-hotel-accused-of-failing-to-pay-staff-minimum-wage",
+    "source": "latimes",
+    "pubdate": "2025-08-19-10-00-00 +0000"
+  },
+  {
     "headline": "Shaikin: Can L.A. decide on the Dodger Stadium gondola, or anything, in a timely manner?",
     "link": "https://www.latimes.com/sports/dodgers/story/2025-08-19/dodger-stadium-gondola-frank-mccourt-shohei-ohtani",
+    "source": "latimes",
+    "pubdate": "2025-08-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Thousands of Cal State students require housing. But can the university system meet the need?",
+    "link": "https://www.latimes.com/california/story/2025-08-19/csu-housing-crisis-prompts-bond-measure-effort",
     "source": "latimes",
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
@@ -5504,24 +5570,6 @@
   {
     "headline": "Fun shaped sandwiches? Cute lunch boxes? Stickers? How to pack a lunch kids will actually eat",
     "link": "https://www.latimes.com/california/story/2025-08-19/how-do-you-pack-school-lunch-toddler-will-eat-experts-weigh-in",
-    "source": "latimes",
-    "pubdate": "2025-08-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Ultra-luxurious Santa Monica hotel accused of failing to pay staff minimum wage",
-    "link": "https://www.latimes.com/california/story/2025-08-19/luxurious-santa-monica-proper-hotel-accused-of-failing-to-pay-staff-minimum-wage",
-    "source": "latimes",
-    "pubdate": "2025-08-19-10-00-00 +0000"
-  },
-  {
-    "headline": "UCLA's Jewish community unites against Trump's $1-billion demand: 'Misguided and punitive'",
-    "link": "https://www.latimes.com/california/story/2025-08-19/ucla-jewish-community-trump-condemn-research-funding-freeze",
-    "source": "latimes",
-    "pubdate": "2025-08-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Thousands of Cal State students require housing. But can the university system meet the need?",
-    "link": "https://www.latimes.com/california/story/2025-08-19/csu-housing-crisis-prompts-bond-measure-effort",
     "source": "latimes",
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
@@ -5791,12 +5839,6 @@
   },
   {
     "headline": "The Chili’s Economy Is Here: What’s Behind the Casual-Dining Boom",
-    "link": "https://www.wsj.com/business/hospitality/the-chilis-economy-is-here-whats-behind-the-casual-dining-boom-9722cef5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-18-09-30-00 +0000"
-  },
-  {
-    "headline": "The Chili’s Economy Is Here: What’s Behind the Casual-Dining Boom",
     "link": "https://www.wsj.com/business/hospitality/the-chilis-economy-is-here-whats-behind-the-casual-dining-boom-9722cef5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-18-09-30-00 +0000"
@@ -5904,21 +5946,9 @@
     "pubdate": "2025-08-17-13-40-00 +0000"
   },
   {
-    "headline": "See you there!",
-    "link": "https://missionlocal.org/2025/08/sf-photos-see-you-there/",
-    "source": "missionlocal",
-    "pubdate": "2025-08-17-13-00-00 +0000"
-  },
-  {
     "headline": "Private Equity’s Big Fish See Deals Machinery Gearing Up",
     "link": "https://www.wsj.com/articles/private-equitys-big-fish-see-deals-machinery-gearing-up-85f30dde?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-08-17-13-00-00 +0000"
-  },
-  {
-    "headline": "Photos: Masjid Darussalam mosque",
-    "link": "https://missionlocal.org/2025/08/photos-masjid-darussalam-mosque/",
-    "source": "missionlocal",
-    "pubdate": "2025-08-17-11-00-00 +0000"
   }
 ]
