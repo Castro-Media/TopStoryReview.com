@@ -1,13 +1,13 @@
 [
   {
-    "score": 80,
+    "score": 78,
     "pubdate": "2025-08-23-13-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump called Gavin Newsom “Newscum” earlier this year, the California governor likened him to a bully and refused to engage. These days, Newsom is starting to act as the aggressor.",
     "link": "https://www.wsj.com/politics/policy/to-fight-trump-gavin-newsom-acts-more-like-him-f7186a46"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2025-08-23-20-55-27 +0000",
     "source": "nypost",
     "headline": "Civilian death toll in Ukraine tops 15,400 since Russia’s 2022 invasion, new data reveals",
@@ -28,11 +28,18 @@
     "link": "https://www.nytimes.com/2025/08/23/us/politics/abrego-garcia-coercion.html"
   },
   {
-    "score": 33,
-    "pubdate": "2025-08-23-18-55-49 +0000",
+    "score": 31,
+    "pubdate": "2025-08-24-00-05-20 +0000",
     "source": "nypost",
-    "headline": "Venezuelan President Nicolás Maduro condemns US destroyer deployment, calls it ‘illegal’ regime change attempt",
-    "link": "https://nypost.com/2025/08/23/world-news/venezuelan-president-nicolas-maduro-claims-us-destroyer-deployment-is-regime-change-attempt/"
+    "headline": "Zohran Mamdani fails at bench press while trying to show-off at Men’s Day in Brooklyn — as Cuomo, Adams roast rival",
+    "link": "https://nypost.com/2025/08/23/us-news/zohran-mamdani-fails-to-bench-press-meagre-weight-while-trying-to-show-off-at-annual-mens-day-in-brooklyn/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-08-24-01-14-02 +0000",
+    "source": "nypost",
+    "headline": "Rikers Island inmate found dead in cell, marking the 9th death in custody at NYC jail this year",
+    "link": "https://nypost.com/2025/08/23/us-news/rikers-island-inmate-found-dead-in-cell-marking-the-9th-death-in-custody-at-nyc-jail-this-year/"
   },
   {
     "score": 29,
@@ -40,20 +47,6 @@
     "source": "nypost",
     "headline": "North Korea builds secret military base, increasing its ‘potential nuclear threat,’ report warns",
     "link": "https://nypost.com/2025/08/23/world-news/north-korea-builds-secret-military-base-increasing-its-potential-nuclear-threat-report-warns/"
-  },
-  {
-    "score": 29,
-    "pubdate": "2025-08-24-00-05-20 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani fails at bench press while trying to show-off at Men’s Day in Brooklyn — as Cuomo, Adams roast rival",
-    "link": "https://nypost.com/2025/08/23/us-news/zohran-mamdani-fails-to-bench-press-meagre-weight-while-trying-to-show-off-at-annual-mens-day-in-brooklyn/"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-08-24-01-14-02 +0000",
-    "source": "nypost",
-    "headline": "Rikers Island inmate found dead in cell, marking the 9th death in custody at NYC jail this year",
-    "link": "https://nypost.com/2025/08/23/us-news/rikers-island-inmate-found-dead-in-cell-marking-the-9th-death-in-custody-at-nyc-jail-this-year/"
   },
   {
     "score": 26,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Justice Dept. Sent Congress Epstein Files That Were Already Public, Democrats Say",
     "link": "https://www.nytimes.com/2025/08/23/us/politics/congress-epstein-files-public.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-08-23-18-55-49 +0000",
+    "source": "nypost",
+    "headline": "Venezuelan President Nicolás Maduro condemns US destroyer deployment, calls it ‘illegal’ regime change attempt",
+    "link": "https://nypost.com/2025/08/23/world-news/venezuelan-president-nicolas-maduro-claims-us-destroyer-deployment-is-regime-change-attempt/"
   }
 ]
