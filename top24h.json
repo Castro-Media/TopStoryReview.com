@@ -1,45 +1,45 @@
 [
   {
-    "score": 73,
+    "score": 85,
     "pubdate": "2025-08-23-13-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump called Gavin Newsom “Newscum” earlier this year, the California governor likened him to a bully and refused to engage. These days, Newsom is starting to act as the aggressor.",
     "link": "https://www.wsj.com/politics/policy/to-fight-trump-gavin-newsom-acts-more-like-him-f7186a46"
   },
   {
-    "score": 55,
+    "score": 57,
     "pubdate": "2025-08-23-20-55-27 +0000",
     "source": "nypost",
     "headline": "Civilian death toll in Ukraine tops 15,400 since Russia’s 2022 invasion, new data reveals",
     "link": "https://nypost.com/2025/08/23/world-news/civilian-death-toll-in-ukraine-tops-15400-since-russias-2022-invasion-new-data-reveals/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-08-23-19-36-55 +0000",
-    "source": "nypost",
-    "headline": "FBI believes Bolton should face charges over alleged emailed classified docs to family — and questions why Biden shelved case",
-    "link": "https://nypost.com/2025/08/23/us-news/fbi-believes-bolton-should-face-charges-over-alleged-emailed-classified-docs-to-family-and-questions-why-biden-shelved-case/"
-  },
-  {
     "score": 35,
-    "pubdate": "2025-08-23-20-47-34 +0000",
-    "source": "nyt",
-    "headline": "Abrego Garcia’s Lawyers Say U.S. Officials Tried to Use Uganda Deportation Threat to ‘Coerce’ Guilty Plea",
-    "link": "https://www.nytimes.com/2025/08/23/us/politics/abrego-garcia-coercion.html"
+    "pubdate": "2025-08-23-18-30-32 +0000",
+    "source": "nypost",
+    "headline": "North Korea builds secret military base, increasing its ‘potential nuclear threat,’ report warns",
+    "link": "https://nypost.com/2025/08/23/world-news/north-korea-builds-secret-military-base-increasing-its-potential-nuclear-threat-report-warns/"
   },
   {
-    "score": 32,
+    "score": 34,
     "pubdate": "2025-08-24-00-05-20 +0000",
     "source": "nypost",
     "headline": "Zohran Mamdani fails at bench press while trying to show-off at Men’s Day in Brooklyn — as Cuomo, Adams roast rival",
     "link": "https://nypost.com/2025/08/23/us-news/zohran-mamdani-fails-to-bench-press-meagre-weight-while-trying-to-show-off-at-annual-mens-day-in-brooklyn/"
   },
   {
-    "score": 30,
-    "pubdate": "2025-08-23-18-30-32 +0000",
-    "source": "nypost",
-    "headline": "North Korea builds secret military base, increasing its ‘potential nuclear threat,’ report warns",
-    "link": "https://nypost.com/2025/08/23/world-news/north-korea-builds-secret-military-base-increasing-its-potential-nuclear-threat-report-warns/"
+    "score": 32,
+    "pubdate": "2025-08-24-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-08-23-20-47-34 +0000",
+    "source": "nyt",
+    "headline": "Abrego Garcia’s Lawyers Say U.S. Officials Tried to Use Uganda Deportation Threat to ‘Coerce’ Guilty Plea",
+    "link": "https://www.nytimes.com/2025/08/23/us/politics/abrego-garcia-coercion.html"
   },
   {
     "score": 30,
@@ -50,23 +50,23 @@
   },
   {
     "score": 26,
-    "pubdate": "2025-08-23-20-15-36 +0000",
-    "source": "nypost",
-    "headline": "Putin war hero, the ‘Executioner,’ exposed as ringleader of $2.5M scam that had his Russian elite troops shoot him, each other to get paid",
-    "link": "https://nypost.com/2025/08/23/world-news/putin-war-hero-the-executioner-exposed-as-ringleader-of-2-5m-scam-that-had-his-russian-elite-troops-shoot-him-each-other-to-get-paid/"
-  },
-  {
-    "score": 24,
     "pubdate": "2025-08-24-02-00-00 +0000",
     "source": "wsj",
     "headline": "Bashing the president’s tariff policies could earn GOP lawmakers a public rebuke from the White House, but embracing the new duties could be politically risky ahead of the 2026 midterm elections",
     "link": "https://www.wsj.com/politics/policy/gop-tariffs-public-vs-private-dac4fb76"
   },
   {
-    "score": 23,
-    "pubdate": "2025-08-23-18-55-49 +0000",
+    "score": 26,
+    "pubdate": "2025-08-23-20-15-36 +0000",
     "source": "nypost",
-    "headline": "Venezuelan President Nicolás Maduro condemns US destroyer deployment, calls it ‘illegal’ regime change attempt",
-    "link": "https://nypost.com/2025/08/23/world-news/venezuelan-president-nicolas-maduro-claims-us-destroyer-deployment-is-regime-change-attempt/"
+    "headline": "Putin war hero, the ‘Executioner,’ exposed as ringleader of $2.5M scam that had his Russian elite troops shoot him, each other to get paid",
+    "link": "https://nypost.com/2025/08/23/world-news/putin-war-hero-the-executioner-exposed-as-ringleader-of-2-5m-scam-that-had-his-russian-elite-troops-shoot-him-each-other-to-get-paid/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-08-24-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests"
   }
 ]
