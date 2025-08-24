@@ -1,13 +1,13 @@
 [
   {
-    "score": 90,
+    "score": 89,
     "pubdate": "2025-08-24-18-08-34 +0000",
     "source": "nypost",
     "headline": "Vance reveals what Putin has conceded in Ukraine peace deal negotiations with Trump",
     "link": "https://nypost.com/2025/08/24/us-news/vance-reveals-what-putin-has-conceded-in-ukraine-peace-deal-negotiations-with-trump/"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2025-08-24-14-05-19 +0000",
     "source": "nypost",
     "headline": "Russia’s foreign minister throws up a new condition for any Putin-Zelensky summit: ‘There is no meeting planned’",
@@ -28,13 +28,6 @@
     "link": "https://nypost.com/2025/08/24/world-news/lisa-marie-cunningham-blames-antipsychotic-drug-for-stepdaughters-death/"
   },
   {
-    "score": 37,
-    "pubdate": "2025-08-24-16-41-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s attempts to control monetary policy became the dominant—but unspoken—theme at the annual Jackson Hole central bankers’ retreat",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-officials-jackson-hole-8a559e1b"
-  },
-  {
     "score": 36,
     "pubdate": "2025-08-24-17-58-14 +0000",
     "source": "nyt",
@@ -43,6 +36,13 @@
   },
   {
     "score": 35,
+    "pubdate": "2025-08-24-16-41-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s attempts to control monetary policy became the dominant—but unspoken—theme at the annual Jackson Hole central bankers’ retreat",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-officials-jackson-hole-8a559e1b"
+  },
+  {
+    "score": 34,
     "pubdate": "2025-08-24-14-39-41 +0000",
     "source": "nypost",
     "headline": "Trump announces he’ll attend Ryder Cup in New York — as he weighs in on US lineup",
@@ -57,16 +57,16 @@
   },
   {
     "score": 33,
-    "pubdate": "2025-08-23-20-15-36 +0000",
-    "source": "nypost",
-    "headline": "Putin war hero, the ‘Executioner,’ exposed as ringleader of $2.5M scam that had his Russian elite troops shoot him, each other to get paid",
-    "link": "https://nypost.com/2025/08/23/world-news/putin-war-hero-the-executioner-exposed-as-ringleader-of-2-5m-scam-that-had-his-russian-elite-troops-shoot-him-each-other-to-get-paid/"
-  },
-  {
-    "score": 33,
     "pubdate": "2025-08-24-10-00-00 +0000",
     "source": "latimes",
     "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
     "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-08-23-20-15-36 +0000",
+    "source": "nypost",
+    "headline": "Putin war hero, the ‘Executioner,’ exposed as ringleader of $2.5M scam that had his Russian elite troops shoot him, each other to get paid",
+    "link": "https://nypost.com/2025/08/23/world-news/putin-war-hero-the-executioner-exposed-as-ringleader-of-2-5m-scam-that-had-his-russian-elite-troops-shoot-him-each-other-to-get-paid/"
   }
 ]
