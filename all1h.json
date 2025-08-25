@@ -1,8 +1,122 @@
 [
   {
-    "headline": "US confirms nation’s first travel-associated human screwworm case connected to Central American outbreak",
-    "link": "https://nypost.com/2025/08/25/us-news/us-confirms-nations-first-travel-associated-human-screwworm-case-connected-to-central-american-outbreak/",
+    "headline": "Four journalists among 15 killed in Israeli strike on hospital, Gaza officials say",
+    "link": "https://www.bbc.com/news/articles/cp89rp48246o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-25-10-45-47 +0000"
+  },
+  {
+    "headline": "Four journalists among 15 killed in Israeli strike on hospital, Gaza officials say",
+    "link": "https://www.bbc.com/news/articles/cp89rp48246o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-25-10-45-47 +0000"
+  },
+  {
+    "headline": "Alleged MS-13 gangbanger Kilmar Abrego Garcia to appear at ICE office in Baltimore",
+    "link": "https://nypost.com/2025/08/25/us-news/kilmar-abrego-garcia-to-appear-at-ice-office-in-baltimore-on-monday/",
     "source": "nypost",
-    "pubdate": "2025-08-25-08-53-39 +0000"
+    "pubdate": "2025-08-25-10-45-26 +0000"
+  },
+  {
+    "headline": "Trump wants a Nobel Peace Prize. Here’s how it’s awarded.",
+    "link": "https://www.washingtonpost.com/world/2025/08/25/trump-nobel-peace-prize-2025/",
+    "source": "wapo",
+    "pubdate": "2025-08-25-10-44-18 +0000"
+  },
+  {
+    "headline": "Israeli airstrikes on Gaza hospital kill at least 19 people, including 4 journalists",
+    "link": "https://www.cbc.ca/news/world/gaza-nasser-hospital-strike-1.7616802?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-25-10-39-11 +0000"
+  },
+  {
+    "headline": "Trump Threatens to Investigate Chris Christie Over ‘Bridgegate’",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-chris-christie-bridgegate.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-10-36-35 +0000"
+  },
+  {
+    "headline": "Trump Threatens to Investigate Chris Christie Over ‘Bridgegate’",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-chris-christie-bridgegate.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-10-36-35 +0000"
+  },
+  {
+    "headline": "Keurig Dr Pepper to Acquire Peet’s in $18 Billion Deal",
+    "link": "https://www.nytimes.com/2025/08/25/business/keurig-drpepper-peets-coffee-drinks.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-10-27-08 +0000"
+  },
+  {
+    "headline": "Will historians really be replaced by AI? They remain skeptical.",
+    "link": "https://www.washingtonpost.com/business/2025/08/24/ai-job-replacement-historians/",
+    "source": "wapo",
+    "pubdate": "2025-08-25-10-05-24 +0000"
+  },
+  {
+    "headline": "The truth about the US dollar’s weakness — and fears of its growing threat to US stocks",
+    "link": "https://nypost.com/2025/08/25/business/the-truth-about-the-us-dollars-weakness-and-fears-of-its-growing-threat-to-us-stocks/",
+    "source": "nypost",
+    "pubdate": "2025-08-25-10-00-12 +0000"
+  },
+  {
+    "headline": "Permits were expedited for this California clean energy project. Were residents sidelined?",
+    "link": "https://www.latimes.com/california/story/2025-08-25/battery-solar-project-darden-fresno-county-community-impacts",
+    "source": "latimes",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: In Texas and California redistricting battles, Latino voters hold the key",
+    "link": "https://www.latimes.com/california/story/2025-08-25/in-texas-and-california-redistricting-battles-latinos-hold-the-key",
+    "source": "latimes",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Contributor: Democrats will pay for ignoring base's qualms about Gaza",
+    "link": "https://www.latimes.com/opinion/story/2025-08-25/democrats-israel-gaza-donors",
+    "source": "latimes",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "UC marks red lines as it moves to negotiate with Trump administration over $1-billion fine",
+    "link": "https://www.latimes.com/california/story/2025-08-25/uc-ucla-trump-newsom-regents-research-grant-cuts-suspensions",
+    "source": "latimes",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Permits were expedited for this California clean energy project. Were residents sidelined?",
+    "link": "https://www.latimes.com/california/story/2025-08-25/battery-solar-project-darden-fresno-county-community-impacts",
+    "source": "latimes",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: In Texas and California redistricting battles, Latino voters hold the key",
+    "link": "https://www.latimes.com/california/story/2025-08-25/in-texas-and-california-redistricting-battles-latinos-hold-the-key",
+    "source": "latimes",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Fashion models reckon with AI models and digital clones after controversial ad appears in Vogue",
+    "link": "https://www.latimes.com/business/story/2025-08-25/fashion-models-reckon-with-guess-ai-model-in-vogue-and-digital-clones",
+    "source": "latimes",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Minneapolis may sue landlord with homeless encampment on his property",
+    "link": "https://www.startribune.com/minneapolis-homeless-encampments-citation/601460433",
+    "source": "startribune",
+    "pubdate": "2025-08-25-10-00-00 +0000"
+  },
+  {
+    "headline": "At Least One Dead as Typhoon Kajiki Slams Vietnam",
+    "link": "https://www.nytimes.com/2025/08/25/world/asia/vietnam-laos-typhoon-kajiki.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-09-59-44 +0000"
+  },
+  {
+    "headline": "At Least One Dead as Typhoon Kajiki Slams Vietnam",
+    "link": "https://www.nytimes.com/2025/08/25/world/asia/vietnam-laos-typhoon-kajiki.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-09-59-44 +0000"
   }
 ]
