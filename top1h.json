@@ -1,51 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-08-25-12-59-14 +0000",
-    "source": "nyt",
-    "headline": "Abrego Garcia Detained Again After Administration Signaled It Would Re-Deport Him",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/kilmar-abrego-garcia-arrested-ice-deportation.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-08-25-13-00-00 +0000",
-    "source": "startribune",
-    "headline": "Why some Minnesota high schools give free admission to students, and why some don’t",
-    "link": "https://www.startribune.com/free-admission-high-school-sports-events-for-students-mounds-view/601455869"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-08-25-13-01-00 +0000",
+    "score": 22,
+    "pubdate": "2025-08-25-14-45-00 +0000",
     "source": "wsj",
-    "headline": "The Alaskan Logging Fight Threatening Steinway’s Iconic Pianos",
-    "link": "https://www.wsj.com/business/the-alaskan-logging-fight-threatening-steinways-iconic-pianos-9d51a414?mod=pls_whats_news_us_business_f"
+    "headline": "Kilmar Abrego Garcia was arrested by immigration authorities at an ICE field office in Baltimore where he was set to be deported",
+    "link": "https://www.wsj.com/us-news/law/kilmar-abrego-garcia-deport-uganda-eb146949"
   },
   {
-    "score": 7,
-    "pubdate": "2025-08-25-12-53-36 +0000",
+    "score": 18,
+    "pubdate": "2025-08-25-14-25-00 +0000",
+    "source": "wsj",
+    "headline": "Molly Ball writes that the government’s plan to take a 10% stake in Intel is the latest example of the odd bedfellows created by President Trump’s idiosyncratic worldview",
+    "link": "https://www.wsj.com/politics/policy/trumps-intel-move-blurs-party-lines-on-economic-intervention-3c7665cc"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-08-25-14-05-10 +0000",
+    "source": "nypost",
+    "headline": "Asylum seeker held in murder of teen girl who called cops to report being followed — triggering angry protests",
+    "link": "https://nypost.com/2025/08/25/world-news/girl-17-murdered-while-calling-police-to-report-being-followed/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-25-14-49-10 +0000",
+    "source": "nypost",
+    "headline": "Perplexity to give media giants share of AI search revenue — as it faces massive legal pressures",
+    "link": "https://nypost.com/2025/08/25/business/perplexity-to-give-media-giants-share-of-ai-search-revenue/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-08-25-14-31-17 +0000",
     "source": "nyt",
-    "headline": "Cities Move Away From Strategies That Make Drug Use Safer",
-    "link": "https://www.nytimes.com/2025/08/25/health/harm-reduction-san-francisco-trump.html"
+    "headline": "Expecting on the Front Lines: Motherhood in Ukraine’s Military",
+    "link": "https://www.nytimes.com/2025/08/25/world/europe/ukraine-military-war-pregnancy.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-08-25-12-53-35 +0000",
+    "score": 12,
+    "pubdate": "2025-08-25-14-28-53 +0000",
     "source": "nyt",
-    "headline": "The Typical American College Student Is Not Who You Think",
-    "link": "https://www.nytimes.com/2025/08/25/us/us-typical-college-student.html"
+    "headline": "How China Influences Elections in America’s Biggest City",
+    "link": "https://www.nytimes.com/2025/08/25/nyregion/china-consulate-new-york-elections.html"
   },
   {
-    "score": 4,
-    "pubdate": "2025-08-25-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Café de la Esperanza",
-    "link": "https://missionlocal.org/2025/08/sf-photos-cafe-de-la-esperanza/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-08-25-12-59-14 +0000",
+    "score": 10,
+    "pubdate": "2025-08-25-14-35-26 +0000",
     "source": "nyt",
-    "headline": "Abrego Garcia Detained Again After Administration Signaled It Would Re-Deport Him",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/kilmar-abrego-garcia-arrested-ice-deportation.html"
+    "headline": "With Trump’s Takeover, Washington Finds a Mission to Resist",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/washington-dc-trump.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-25-14-29-59 +0000",
+    "source": "nypost",
+    "headline": "World shares are mixed after Fed Chair Powell hints at rate cuts in September",
+    "link": "https://nypost.com/2025/08/25/business/world-shares-are-mixed-after-federal-reserve-chair-jerome-powell-hints-at-interest-rate-cuts-in-september/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-25-14-16-42 +0000",
+    "source": "cbc",
+    "headline": "Poland's Donald Tusk won't send peacekeepers to Ukraine but will provide logistical support",
+    "link": "https://www.cbc.ca/news/politics/poland-carney-tusk-peacekeepers-1.7616912?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-08-25-13-58-11 +0000",
+    "source": "nyt",
+    "headline": "Venice Film Festival: A Director’s Quest for the Truth About Her Father’s Abduction",
+    "link": "https://www.nytimes.com/2025/08/25/movies/jihan-father-qaddafi-documentary.html"
   }
 ]
