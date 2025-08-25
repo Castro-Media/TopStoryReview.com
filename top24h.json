@@ -1,17 +1,24 @@
 [
   {
-    "score": 91,
+    "score": 89,
     "pubdate": "2025-08-24-18-08-34 +0000",
     "source": "nypost",
     "headline": "Vance reveals what Putin has conceded in Ukraine peace deal negotiations with Trump",
     "link": "https://nypost.com/2025/08/24/us-news/vance-reveals-what-putin-has-conceded-in-ukraine-peace-deal-negotiations-with-trump/"
   },
   {
-    "score": 56,
+    "score": 60,
     "pubdate": "2025-08-24-14-05-19 +0000",
     "source": "nypost",
     "headline": "Russia’s foreign minister throws up a new condition for any Putin-Zelensky summit: ‘There is no meeting planned’",
     "link": "https://nypost.com/2025/08/24/us-news/russias-foreign-minister-throws-up-a-new-conditions-for-any-putin-zelensky-summit/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-08-24-18-30-00 +0000",
+    "source": "nypost",
+    "headline": "Australian mom accused of killing American stepdaughter makes stunning claim about 7-year-old’s cause of death: ‘Kills people all the time’",
+    "link": "https://nypost.com/2025/08/24/world-news/lisa-marie-cunningham-blames-antipsychotic-drug-for-stepdaughters-death/"
   },
   {
     "score": 39,
@@ -21,20 +28,6 @@
     "link": "https://www.wsj.com/economy/central-banking/federal-reserve-officials-jackson-hole-8a559e1b"
   },
   {
-    "score": 38,
-    "pubdate": "2025-08-24-18-30-00 +0000",
-    "source": "nypost",
-    "headline": "Australian mom accused of killing American stepdaughter makes stunning claim about 7-year-old’s cause of death: ‘Kills people all the time’",
-    "link": "https://nypost.com/2025/08/24/world-news/lisa-marie-cunningham-blames-antipsychotic-drug-for-stepdaughters-death/"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-08-24-15-54-42 +0000",
-    "source": "nypost",
-    "headline": "House Dem leader Jeffries accuses Trump of trying to ‘steal’ midterms with redistricting — but won’t say if NY will gerrymander, too",
-    "link": "https://nypost.com/2025/08/24/us-news/hakeem-jeffries-accuses-trump-of-trying-to-steal-midterms/"
-  },
-  {
     "score": 36,
     "pubdate": "2025-08-24-22-42-36 +0000",
     "source": "nypost",
@@ -42,11 +35,11 @@
     "link": "https://nypost.com/2025/08/24/us-news/cracker-barrel-board-member-under-fire-for-dei-background-after-restaurant-ditches-traditional-logo/"
   },
   {
-    "score": 35,
-    "pubdate": "2025-08-24-16-34-05 +0000",
+    "score": 36,
+    "pubdate": "2025-08-24-10-24-22 +0000",
     "source": "nypost",
-    "headline": "Rep. Lawler backs Trump sending National Guard into NYC to fight crime",
-    "link": "https://nypost.com/2025/08/24/us-news/rep-lawler-backs-trump-sending-national-guard-into-nyc-to-fight-crime/"
+    "headline": "Russia accuses Kyiv of striking nuclear power plant as Ukraine marks independence day",
+    "link": "https://nypost.com/2025/08/24/world-news/russia-accuses-kyiv-of-striking-nuclear-power-plant-as-ukraine-marks-independence-day/"
   },
   {
     "score": 34,
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2025/08/24/us-news/dr-oz-urges-canada-to-toss-aside-court-ruling-to-save-the-ostriches/"
   },
   {
-    "score": 34,
-    "pubdate": "2025-08-24-10-24-22 +0000",
+    "score": 33,
+    "pubdate": "2025-08-24-20-14-54 +0000",
     "source": "nypost",
-    "headline": "Russia accuses Kyiv of striking nuclear power plant as Ukraine marks independence day",
-    "link": "https://nypost.com/2025/08/24/world-news/russia-accuses-kyiv-of-striking-nuclear-power-plant-as-ukraine-marks-independence-day/"
+    "headline": "Florida sheriff shows off $50K chain snatched from alleged drug dealer implicated in OD death: ‘She died so he could have this drip’",
+    "link": "https://nypost.com/2025/08/24/us-news/florida-sheriff-flaunts-50k-in-gold-drip-seized-during-drug-bust/"
   },
   {
     "score": 32,
-    "pubdate": "2025-08-24-10-00-18 +0000",
-    "source": "wapo",
-    "headline": "He was a child refugee. Now he’s a bishop navigating Trump’s deportation push.",
-    "link": "https://www.washingtonpost.com/nation/2025/08/24/pope-leo-bishop-san-diego-michael-pham/"
+    "pubdate": "2025-08-24-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-08-24-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "Here’s what you need to know about the unusual mid-decade redistricting pushes in various states as the GOP and Democrats look for an edge ahead of the 2026 midterms",
+    "link": "https://www.wsj.com/politics/policy/texas-california-redistricting-congressional-maps-fd2af203"
   }
 ]
