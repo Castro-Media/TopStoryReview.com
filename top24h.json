@@ -7,25 +7,39 @@
     "link": "https://nypost.com/2025/08/24/us-news/vance-reveals-what-putin-has-conceded-in-ukraine-peace-deal-negotiations-with-trump/"
   },
   {
-    "score": 70,
+    "score": 69,
+    "pubdate": "2025-08-25-12-09-58 +0000",
+    "source": "nyt",
+    "headline": "Four Journalists Among Those Killed in Israeli Strikes on Gaza Hospital, Officials Say",
+    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html"
+  },
+  {
+    "score": 66,
     "pubdate": "2025-08-24-14-05-19 +0000",
     "source": "nypost",
     "headline": "Russia’s foreign minister throws up a new condition for any Putin-Zelensky summit: ‘There is no meeting planned’",
     "link": "https://nypost.com/2025/08/24/us-news/russias-foreign-minister-throws-up-a-new-conditions-for-any-putin-zelensky-summit/"
   },
   {
-    "score": 66,
-    "pubdate": "2025-08-25-11-35-33 +0000",
-    "source": "nyt",
-    "headline": "Four Journalists Among Those Killed in Israeli Strikes in Gaza, Local Officials Say",
-    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html"
+    "score": 57,
+    "pubdate": "2025-08-25-12-52-00 +0000",
+    "source": "wsj",
+    "headline": "Kilmar Abrego Garcia was arrested by immigration authorities at an ICE field office in Baltimore where he was set to be deported",
+    "link": "https://www.wsj.com/us-news/law/kilmar-abrego-garcia-deport-uganda-eb146949"
   },
   {
-    "score": 41,
+    "score": 43,
     "pubdate": "2025-08-24-22-41-40 +0000",
     "source": "nypost",
     "headline": "China says ‘rampant’ US protectionism threatens agriculture, warns farmers shouldn’t suffer over trade war",
     "link": "https://nypost.com/2025/08/24/business/china-says-rampant-us-protectionism-threatens-agricultural-ties/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-08-24-23-00-35 +0000",
+    "source": "bbc",
+    "headline": "A cut-off finger ended her comfortable family life. Now she's hiding from US officials",
+    "link": "https://www.bbc.com/news/articles/cvg4kd385e4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 40,
@@ -33,13 +47,6 @@
     "source": "wsj",
     "headline": "President Trump’s attempts to control monetary policy became the dominant—but unspoken—theme at the annual Jackson Hole central bankers’ retreat",
     "link": "https://www.wsj.com/economy/central-banking/federal-reserve-officials-jackson-hole-8a559e1b"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-08-24-23-00-35 +0000",
-    "source": "bbc",
-    "headline": "A cut-off finger ended her comfortable family life. Now she's hiding from US officials",
-    "link": "https://www.bbc.com/news/articles/cvg4kd385e4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -50,23 +57,16 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-08-25-11-50-43 +0000",
-    "source": "nyt",
-    "headline": "Orsted Stock Plummets to Record Low After Trump Halts U.S. Wind Farm",
-    "link": "https://www.nytimes.com/2025/08/25/business/orsted-trump-wind-farm.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-08-25-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Permits were expedited for this California clean energy project. Were residents sidelined?",
-    "link": "https://www.latimes.com/california/story/2025-08-25/battery-solar-project-darden-fresno-county-community-impacts"
-  },
-  {
-    "score": 34,
     "pubdate": "2025-08-24-18-30-00 +0000",
     "source": "nypost",
     "headline": "Australian mom accused of killing American stepdaughter makes stunning claim about 7-year-old’s cause of death: ‘Kills people all the time’",
     "link": "https://nypost.com/2025/08/24/world-news/lisa-marie-cunningham-blames-antipsychotic-drug-for-stepdaughters-death/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-08-25-12-05-59 +0000",
+    "source": "nyt",
+    "headline": "Orsted Stock Plummets to Record Low After Trump Halts U.S. Wind Farm",
+    "link": "https://www.nytimes.com/2025/08/25/business/orsted-trump-wind-farm.html"
   }
 ]
