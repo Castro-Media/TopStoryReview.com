@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 22,
+    "pubdate": "2025-08-25-07-59-00 +0000",
+    "source": "wsj",
+    "headline": "Keurig Dr Pepper Strikes $18 Billion Deal for JDE Peet’s",
+    "link": "https://www.wsj.com/business/keurig-dr-pepper-near-18-billion-deal-for-jde-peets-33883fe4?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-08-25-08-44-07 +0000",
+    "source": "nyt",
+    "headline": "China Evergrande Delisted From Hong Kong Stock Exchange",
+    "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-25-08-53-39 +0000",
+    "source": "nypost",
+    "headline": "US confirms nation’s first travel-associated human screwworm case connected to Central American outbreak",
+    "link": "https://nypost.com/2025/08/25/us-news/us-confirms-nations-first-travel-associated-human-screwworm-case-connected-to-central-american-outbreak/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-08-25-08-07-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Prices Ease but Remain Supported by Supply Risks, Asian LNG Demand",
+    "link": "https://www.wsj.com/world/asia/european-gas-prices-ease-but-remain-supported-by-supply-risks-asian-lng-demand-fe3edb2c"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-08-25-08-41-24 +0000",
+    "source": "nyt",
+    "headline": "5 Years On, China’s Property Crisis Has No End in Sight",
+    "link": "https://www.nytimes.com/2025/08/25/business/china-property-downturn.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-08-25-08-30-00 +0000",
+    "source": "wsj",
+    "headline": "German Business Sentiment Keeps Improving Despite Economic Clouds",
+    "link": "https://www.wsj.com/economy/german-business-sentiment-keeps-improving-despite-economic-clouds-29b47666"
+  },
+  {
+    "score": 1,
+    "pubdate": "2025-08-25-08-48-43 +0000",
+    "source": "nyt",
+    "headline": "Keurig Dr Pepper to Acquire Peet’s in $18 Billion Deal",
+    "link": "https://www.nytimes.com/2025/08/25/business/keurig-drpepper-peets-coffee-drinks.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-25-08-44-07 +0000",
+    "source": "nyt",
+    "headline": "China Evergrande Delisted From Hong Kong Stock Exchange",
+    "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-25-08-41-24 +0000",
+    "source": "nyt",
+    "headline": "5 Years On, China’s Property Crisis Has No End in Sight",
+    "link": "https://www.nytimes.com/2025/08/25/business/china-property-downturn.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-25-07-59-00 +0000",
+    "source": "wsj",
+    "headline": "Keurig Dr Pepper Strikes $18 Billion Deal for JDE Peet’s",
+    "link": "https://www.wsj.com/business/keurig-dr-pepper-near-18-billion-deal-for-jde-peets-33883fe4?mod=pls_whats_news_us_business_f"
+  }
+]
