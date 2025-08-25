@@ -1,21 +1,75 @@
 [
   {
+    "headline": "You’re Probably Thinking About the Future All Wrong",
+    "link": "https://www.nytimes.com/2025/08/23/business/dealbook/future-nick-foster.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-03-58-24 +0000"
+  },
+  {
+    "headline": "California firefighters free mischievous dog trapped underneath shipping container",
+    "link": "https://nypost.com/2025/08/24/us-news/california-firefighters-free-wily-dog-trapped-underneath-shipping-container/",
+    "source": "nypost",
+    "pubdate": "2025-08-25-03-50-43 +0000"
+  },
+  {
+    "headline": "Hunting Russian Drones in a Prop Plane With Shotguns",
+    "link": "https://www.wsj.com/world/ukraine-russia-drone-hunting-e2fea5fc",
+    "source": "wsj",
+    "pubdate": "2025-08-25-03-00-00 +0000"
+  },
+  {
+    "headline": "California elementary school teacher recorded sexually abusing students for decades sentenced to 215 years to life",
+    "link": "https://nypost.com/2025/08/24/us-news/california-elementary-school-teacher-recorded-sexually-abusing-students-sentenced-to-215-years-to-life/",
+    "source": "nypost",
+    "pubdate": "2025-08-25-02-59-03 +0000"
+  },
+  {
+    "headline": "Bryan Kohberger’s panicked phone activity after car was ID’d following Idaho murders revealed by forensic team: ‘Huge stress point’",
+    "link": "https://nypost.com/2025/08/24/us-news/forensic-team-reveals-kohbergers-panicked-phone-activity-before-idaho-murders-arrest/",
+    "source": "nypost",
+    "pubdate": "2025-08-25-02-54-05 +0000"
+  },
+  {
+    "headline": "Jerry Adler, who starred in The Sopranos, dies aged 96",
+    "link": "https://www.bbc.com/news/articles/c36jyp6w32go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-25-02-46-58 +0000"
+  },
+  {
     "headline": "Napheesa Collier shines in return from injury as Lynx defeat Fever 97-84",
     "link": "https://www.startribune.com/napheesa-collier-shines-in-return-from-injury-as-lynx-defeat-fever-97-84/601345955",
     "source": "startribune",
-    "pubdate": "2025-08-25-02-17-45 +0000"
+    "pubdate": "2025-08-25-02-44-35 +0000"
+  },
+  {
+    "headline": "This Is the End of China’s Once Mightiest Property Firm",
+    "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-02-42-24 +0000"
+  },
+  {
+    "headline": "This Is the End of China’s Once Mightiest Property Firm",
+    "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html",
+    "source": "nyt",
+    "pubdate": "2025-08-25-02-42-24 +0000"
   },
   {
     "headline": "National Guard Patrols Begin to Carry Weapons in D.C.",
     "link": "https://www.nytimes.com/2025/08/24/us/politics/national-guard-weapons-guns-dc.html",
     "source": "nyt",
-    "pubdate": "2025-08-25-02-11-44 +0000"
+    "pubdate": "2025-08-25-02-39-40 +0000"
   },
   {
     "headline": "National Guard Patrols Begin to Carry Weapons in D.C.",
     "link": "https://www.nytimes.com/2025/08/24/us/politics/national-guard-weapons-guns-dc.html",
     "source": "nyt",
-    "pubdate": "2025-08-25-02-11-44 +0000"
+    "pubdate": "2025-08-25-02-39-40 +0000"
+  },
+  {
+    "headline": "Unexpected ‘erroneous’ release of Erik Menendez’s parole hearing audio causes family uproar as both brothers denied parole: ‘This is disgusting’",
+    "link": "https://nypost.com/2025/08/24/us-news/unexpected-release-of-erik-menendezs-parole-hearing-audio-file-causes-family-uproar-as-both-brothers-denied-parole/",
+    "source": "nypost",
+    "pubdate": "2025-08-25-02-32-53 +0000"
   },
   {
     "headline": "Demand for workers has cooled yet the unemployment rate held steady—and why? Alongside a sharp decline in immigration came an abrupt slowdown in the supply of labor",
@@ -58,18 +112,6 @@
     "link": "https://www.wsj.com/business/keurig-dr-pepper-near-18-billion-deal-for-jde-peets-33883fe4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-25-01-28-00 +0000"
-  },
-  {
-    "headline": "This Is the End of China’s Once Mightiest Property Firm",
-    "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-01-05-30 +0000"
-  },
-  {
-    "headline": "This Is the End of China’s Once Mightiest Property Firm",
-    "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-01-05-30 +0000"
   },
   {
     "headline": "Evergrande: Why should I care about the crisis-hit Chinese property giant?",
@@ -255,13 +297,13 @@
     "headline": "Russia’s Top Diplomat Says There Is No Plan for Putin-Zelensky Meeting",
     "link": "https://www.nytimes.com/2025/08/24/us/politics/lavrov-seems-to-erase-the-notion-that-a-putin-zelensky-meeting-is-in-the-works.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-23-35-38 +0000"
+    "pubdate": "2025-08-24-23-35-39 +0000"
   },
   {
     "headline": "Russia’s Top Diplomat Says There Is No Plan for Putin-Zelensky Meeting",
     "link": "https://www.nytimes.com/2025/08/24/us/politics/lavrov-seems-to-erase-the-notion-that-a-putin-zelensky-meeting-is-in-the-works.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-23-35-38 +0000"
+    "pubdate": "2025-08-24-23-35-39 +0000"
   },
   {
     "headline": "Villanova University targeted with second false active shooter report just 3 days after ‘cruel hoax’",
@@ -510,12 +552,6 @@
     "pubdate": "2025-08-24-20-51-09 +0000"
   },
   {
-    "headline": "‘Sex and the City’ fans honor ‘iconic’ star Kim Cattrall’s 69th birthday with quirky NYC events: ‘Perfect age to celebrate Samantha’",
-    "link": "https://nypost.com/2025/08/24/us-news/sex-and-the-city-fans-fete-stars-birthday-with-nyc-events/",
-    "source": "nypost",
-    "pubdate": "2025-08-24-20-46-12 +0000"
-  },
-  {
     "headline": "President Trump escalated a feud with Democratic Maryland Gov. Wes Moore, a possible 2028 presidential contender.",
     "link": "https://www.wsj.com/politics/trump-baltimore-wes-moore-crime-f8973d14",
     "source": "wsj",
@@ -588,18 +624,6 @@
     "pubdate": "2025-08-24-20-30-00 +0000"
   },
   {
-    "headline": "LI animal hospital left beloved dog to die, charged $2,500-a-night — and lied about his condition, grieving owners claim",
-    "link": "https://nypost.com/2025/08/24/us-news/li-animal-hospital-left-beloved-dog-to-die-charged-2500-a-night-and-lied-about-his-condition-grieving-owners-claim/",
-    "source": "nypost",
-    "pubdate": "2025-08-24-20-20-07 +0000"
-  },
-  {
-    "headline": "Florida sheriff shows off $50K chain snatched from alleged drug dealer implicated in OD death: ‘She died so he could have this drip’",
-    "link": "https://nypost.com/2025/08/24/us-news/florida-sheriff-flaunts-50k-in-gold-drip-seized-during-drug-bust/",
-    "source": "nypost",
-    "pubdate": "2025-08-24-20-14-54 +0000"
-  },
-  {
     "headline": "Israel hits Yemen's Houthis after reports group used cluster bomb",
     "link": "https://www.bbc.com/news/articles/c0kzy7r8pl1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -610,12 +634,6 @@
     "link": "https://www.bbc.com/news/articles/c0kzy7r8pl1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-24-20-07-58 +0000"
-  },
-  {
-    "headline": "NYC mom’s day of joy turns into ‘worst nightmare’ as teen daughter struck by stray bullet",
-    "link": "https://nypost.com/2025/08/24/us-news/nyc-moms-day-of-joy-turns-into-worst-nightmare-as-teen-daughter-struck-by-stray-bullet/",
-    "source": "nypost",
-    "pubdate": "2025-08-24-19-56-28 +0000"
   },
   {
     "headline": "‘KPop Demon Hunters’ Is Netflix’s First No. 1 Box-Office Hit",
@@ -717,13 +735,13 @@
     "headline": "Singer Marko Perkovic’s Fascist-Era Salute Evokes a Bloody Time in Croatia",
     "link": "https://www.nytimes.com/2025/08/24/world/europe/croatia-marko-perkovic-thompson-fascism.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-18-20-00 +0000"
+    "pubdate": "2025-08-24-18-20-01 +0000"
   },
   {
     "headline": "Singer Marko Perkovic’s Fascist-Era Salute Evokes a Bloody Time in Croatia",
     "link": "https://www.nytimes.com/2025/08/24/world/europe/croatia-marko-perkovic-thompson-fascism.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-18-20-00 +0000"
+    "pubdate": "2025-08-24-18-20-01 +0000"
   },
   {
     "headline": "Government plans to overhaul asylum appeals system",
@@ -969,13 +987,13 @@
     "headline": "Zelensky Marks Ukraine’s Independence Day With Diplomacy in Kyiv and a Plea for Peace",
     "link": "https://www.nytimes.com/2025/08/24/world/europe/zelensky-ukraine-independence-day.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-14-21-02 +0000"
+    "pubdate": "2025-08-24-14-21-03 +0000"
   },
   {
     "headline": "Zelensky Marks Ukraine’s Independence Day With Diplomacy in Kyiv and a Plea for Peace",
     "link": "https://www.nytimes.com/2025/08/24/world/europe/zelensky-ukraine-independence-day.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-14-21-02 +0000"
+    "pubdate": "2025-08-24-14-21-03 +0000"
   },
   {
     "headline": "Peace Talks in Ukraine All Lead to the Donbas",
@@ -999,13 +1017,13 @@
     "headline": "Hundreds Languish in Pakistan’s Prisons on Blasphemy Charges",
     "link": "https://www.nytimes.com/2025/08/24/world/asia/pakistan-blasphemy-islam.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-14-11-12 +0000"
+    "pubdate": "2025-08-24-14-11-13 +0000"
   },
   {
     "headline": "Hundreds Languish in Pakistan’s Prisons on Blasphemy Charges",
     "link": "https://www.nytimes.com/2025/08/24/world/asia/pakistan-blasphemy-islam.html",
     "source": "nyt",
-    "pubdate": "2025-08-24-14-11-12 +0000"
+    "pubdate": "2025-08-24-14-11-13 +0000"
   },
   {
     "headline": "Russia’s foreign minister throws up a new condition for any Putin-Zelensky summit: ‘There is no meeting planned’",
@@ -1074,18 +1092,6 @@
     "pubdate": "2025-08-24-12-18-44 +0000"
   },
   {
-    "headline": "Seven decades of all the milk you can drink at the State Fair",
-    "link": "https://www.startribune.com/minnesota-state-fair-rings-in-70-years-of-all-you-can-drink-milk/601454450",
-    "source": "startribune",
-    "pubdate": "2025-08-24-12-00-00 +0000"
-  },
-  {
-    "headline": "Love hazelnuts? Minnesota’s wild ones are ripe for the picking - if you can beat the squirrels",
-    "link": "https://www.startribune.com/love-hazelnuts-minnesotas-wild-ones-are-ripe-for-the-picking-if-you-can-beat-the-squirrels/601457613",
-    "source": "startribune",
-    "pubdate": "2025-08-24-12-00-00 +0000"
-  },
-  {
     "headline": "South Korea promises Trump to ‘Make American Shipbuilding Great Again’",
     "link": "https://www.washingtonpost.com/world/2025/08/24/south-korea-united-states-shipbuilding/",
     "source": "wapo",
@@ -1146,14 +1152,14 @@
     "pubdate": "2025-08-24-10-00-18 +0000"
   },
   {
-    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
+    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission",
     "source": "latimes",
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission",
+    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
     "source": "latimes",
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
@@ -1170,18 +1176,6 @@
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
-    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
-    "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
-    "source": "latimes",
-    "pubdate": "2025-08-24-10-00-00 +0000"
-  },
-  {
     "headline": "Barabak: They worked hard to draw fair political maps. How do they feel about Newsom undoing them?",
     "link": "https://www.latimes.com/politics/story/2025-08-24/california-redistricting-newsom-gerrymander-citizens-commission",
     "source": "latimes",
@@ -1190,6 +1184,18 @@
   {
     "headline": "Most California voters disapprove of Trump's immigration enforcement policies, poll shows",
     "link": "https://www.latimes.com/california/story/2025-08-24/la-me-latimes-berkeley-poll-on-immigration",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
+    "source": "latimes",
+    "pubdate": "2025-08-24-10-00-00 +0000"
+  },
+  {
+    "headline": "The Supreme Court could give immigration agents broad power to stop and question Latinos",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/supreme-court-reasonable-suspicion-border-agents-latino-arrests",
     "source": "latimes",
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
@@ -1716,12 +1722,6 @@
     "pubdate": "2025-08-23-16-24-47 +0000"
   },
   {
-    "headline": "Emily in Paris assistant director dies ‘suddenly’ during filming",
-    "link": "https://www.bbc.com/news/articles/crm4ppe9x31o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-23-16-12-59 +0000"
-  },
-  {
     "headline": "Frustrated, Trump signals pause in his Ukraine peace effort",
     "link": "https://www.washingtonpost.com/politics/2025/08/23/trump-ukraine-frustration/",
     "source": "wapo",
@@ -1839,13 +1839,7 @@
     "headline": "Trump Names His Personnel Chief as Ambassador to India",
     "link": "https://www.nytimes.com/2025/08/22/us/politics/sergio-gor-ambassador-india.html",
     "source": "nyt",
-    "pubdate": "2025-08-23-12-21-26 +0000"
-  },
-  {
-    "headline": "You’re Probably Thinking About the Future All Wrong",
-    "link": "https://www.nytimes.com/2025/08/23/business/dealbook/future-nick-foster.html",
-    "source": "nyt",
-    "pubdate": "2025-08-23-12-00-03 +0000"
+    "pubdate": "2025-08-23-12-21-27 +0000"
   },
   {
     "headline": "Mayor Lurie makes marathon visits to S.F. low-income housing. But what can he do?",
@@ -2222,6 +2216,12 @@
   {
     "headline": "The Trump administration has a new weapon at its disposal in its efforts to take down Democrats and their appointees: mortgage records",
     "link": "https://www.wsj.com/politics/policy/mortgage-fraud-accusations-are-trumps-new-political-weapon-05641cfd",
+    "source": "wsj",
+    "pubdate": "2025-08-23-01-00-00 +0000"
+  },
+  {
+    "headline": "Too Rich for College Aid, Can’t Afford Full Price: How One Family Made It Work",
+    "link": "https://www.wsj.com/personal-finance/college-cost-financial-aid-3b3df06d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-08-23-01-00-00 +0000"
   },
@@ -3216,6 +3216,12 @@
     "pubdate": "2025-08-22-11-00-00 +0000"
   },
   {
+    "headline": "How close can a public bus stop be to someone’s home?",
+    "link": "https://www.startribune.com/bus-stop-near-home-minnesota-metro-transit/601449237",
+    "source": "startribune",
+    "pubdate": "2025-08-22-11-00-00 +0000"
+  },
+  {
     "headline": "Why Solar and Wind Power Can Thrive Without Subsidies",
     "link": "https://www.wsj.com/business/energy-oil/why-solar-and-wind-power-can-thrive-without-subsidies-cee47663?mod=rss_markets_main",
     "source": "wsj",
@@ -3658,12 +3664,6 @@
     "link": "https://missionlocal.org/2025/08/ice-protester-charged-with-federal-misdemeanors-s-f/",
     "source": "missionlocal",
     "pubdate": "2025-08-22-00-15-00 +0000"
-  },
-  {
-    "headline": "Peter Thiel Leads Pack of Investors Piling Into Ether",
-    "link": "https://www.wsj.com/finance/currencies/peter-thiel-ether-investors-39b37a98?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-22-00-00-00 +0000"
   },
   {
     "headline": "Peter Thiel Leads Pack of Investors Piling Into Ether",
@@ -4470,6 +4470,12 @@
     "pubdate": "2025-08-21-10-42-31 +0000"
   },
   {
+    "headline": "L.A. may land a new congressional seat. Is it already reserved?",
+    "link": "https://www.latimes.com/california/story/2025-08-21/l-a-may-land-a-new-congressional-seat-is-it-already-reserved",
+    "source": "latimes",
+    "pubdate": "2025-08-21-10-00-00 +0000"
+  },
+  {
     "headline": "Contributor: Immigration enforcement needs oversight. ICE can't just ban lawmakers",
     "link": "https://www.latimes.com/opinion/story/2025-08-21/ice-lawmakers-immigration-enforcement-oversight",
     "source": "latimes",
@@ -4478,12 +4484,6 @@
   {
     "headline": "Calmes: The Big Lie is back and coming for American elections",
     "link": "https://www.latimes.com/opinion/story/2025-08-21/donald-trump-vladimir-putin-2020-election-mail-ballots",
-    "source": "latimes",
-    "pubdate": "2025-08-21-10-00-00 +0000"
-  },
-  {
-    "headline": "L.A. may land a new congressional seat. Is it already reserved?",
-    "link": "https://www.latimes.com/california/story/2025-08-21/l-a-may-land-a-new-congressional-seat-is-it-already-reserved",
     "source": "latimes",
     "pubdate": "2025-08-21-10-00-00 +0000"
   },
@@ -4594,12 +4594,6 @@
     "link": "https://www.nytimes.com/2025/08/21/business/stocks-nvidia-federal-reserve.html",
     "source": "nyt",
     "pubdate": "2025-08-21-09-03-26 +0000"
-  },
-  {
-    "headline": "Russia Draws Hard Line Over Security Guarantees for Ukraine",
-    "link": "https://www.wsj.com/world/europe/moscow-draws-hard-line-over-security-guarantees-for-ukraine-4b1e8428",
-    "source": "wsj",
-    "pubdate": "2025-08-21-08-56-00 +0000"
   },
   {
     "headline": "Labour councils consider asylum hotel legal challenges",
@@ -5112,14 +5106,14 @@
     "pubdate": "2025-08-20-10-54-28 +0000"
   },
   {
-    "headline": "California Republicans push Democrats on transparency, timeline for redistricting",
-    "link": "https://www.latimes.com/california/story/2025-08-20/republicans-preview-anti-redistricting-arguments-in-testy-legislative-hearings",
+    "headline": "Barabak: Power grab may energize Newsom and Democrats. But it won't fix their bigger problem",
+    "link": "https://www.latimes.com/politics/story/2025-08-20/california-redistricting-newsom-special-election-trump-texas",
     "source": "latimes",
     "pubdate": "2025-08-20-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: Power grab may energize Newsom and Democrats. But it won't fix their bigger problem",
-    "link": "https://www.latimes.com/politics/story/2025-08-20/california-redistricting-newsom-special-election-trump-texas",
+    "headline": "California Republicans push Democrats on transparency, timeline for redistricting",
+    "link": "https://www.latimes.com/california/story/2025-08-20/republicans-preview-anti-redistricting-arguments-in-testy-legislative-hearings",
     "source": "latimes",
     "pubdate": "2025-08-20-10-00-00 +0000"
   },
@@ -5616,6 +5610,12 @@
     "pubdate": "2025-08-19-11-04-00 +0000"
   },
   {
+    "headline": "In diverse, conservative Willmar, immigration debate gets complicated quickly",
+    "link": "https://www.startribune.com/this-conservative-county-houses-more-ice-detainees-than-any-other-in-minn-it-also-has-nuanced-views-on-immigration/601450621",
+    "source": "startribune",
+    "pubdate": "2025-08-19-11-00-01 +0000"
+  },
+  {
     "headline": "This Tenderloin film vanished after airing 60 years ago. It’s back.",
     "link": "https://missionlocal.org/2025/08/sf-drugs-tenderloin-film-vanished-after-airing-robert-zagone/",
     "source": "missionlocal",
@@ -5658,8 +5658,8 @@
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
   {
-    "headline": "Ultra-luxurious Santa Monica hotel accused of failing to pay staff minimum wage",
-    "link": "https://www.latimes.com/california/story/2025-08-19/luxurious-santa-monica-proper-hotel-accused-of-failing-to-pay-staff-minimum-wage",
+    "headline": "Hiltzik: Trump wants NASA to burn a crucial satellite to cinders, killing research into climate change",
+    "link": "https://www.latimes.com/business/story/2025-08-19/trump-wants-nasa-to-burn-a-crucial-satellite-to-cinders-killing-research-into-climate-change",
     "source": "latimes",
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
@@ -5670,8 +5670,8 @@
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Trump wants NASA to burn a crucial satellite to cinders, killing research into climate change",
-    "link": "https://www.latimes.com/business/story/2025-08-19/trump-wants-nasa-to-burn-a-crucial-satellite-to-cinders-killing-research-into-climate-change",
+    "headline": "Ultra-luxurious Santa Monica hotel accused of failing to pay staff minimum wage",
+    "link": "https://www.latimes.com/california/story/2025-08-19/luxurious-santa-monica-proper-hotel-accused-of-failing-to-pay-staff-minimum-wage",
     "source": "latimes",
     "pubdate": "2025-08-19-10-00-00 +0000"
   },
@@ -5896,17 +5896,5 @@
     "link": "https://www.wsj.com/business/deals/advent-international-to-buy-u-blox-for-1-3-billion-89d58fcb?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-18-09-14-00 +0000"
-  },
-  {
-    "headline": "A New Way to Reduce Children’s Deaths: Cash",
-    "link": "https://www.nytimes.com/2025/08/18/health/cash-transfer-kenya-poverty.html",
-    "source": "nyt",
-    "pubdate": "2025-08-18-04-01-05 +0000"
-  },
-  {
-    "headline": "A New Way to Reduce Children’s Deaths: Cash",
-    "link": "https://www.nytimes.com/2025/08/18/health/cash-transfer-kenya-poverty.html",
-    "source": "nyt",
-    "pubdate": "2025-08-18-04-01-05 +0000"
   }
 ]
