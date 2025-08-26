@@ -1,13 +1,13 @@
 [
   {
-    "score": 208,
+    "score": 205,
     "pubdate": "2025-08-26-03-44-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is removing Lisa Cook, a Biden-appointed Federal Reserve governor, citing allegations that Cook submitted fraudulent information on mortgage applications",
     "link": "https://www.wsj.com/politics/policy/trump-says-he-is-removing-fed-governor-lisa-cook-5e2ec2dd"
   },
   {
-    "score": 89,
+    "score": 88,
     "pubdate": "2025-08-25-17-11-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified his tough-on-crime push Monday, launching a national initiative to end cashless bail and signing an executive order to end the practice in Washington, D.C.",
@@ -28,14 +28,14 @@
     "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html"
   },
   {
-    "score": 68,
+    "score": 66,
     "pubdate": "2025-08-25-15-40-13 +0000",
     "source": "nypost",
     "headline": "Keurig Dr Pepper to buy JDE Peet’s in $18B deal that will make two new public companies",
     "link": "https://nypost.com/2025/08/25/business/keurig-dr-pepper-to-buy-jde-peets-in-18b-deal-spinning-off-two-new-us-listed-companies/"
   },
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2025-08-25-20-38-55 +0000",
     "source": "nypost",
     "headline": "Chicago’s far-left mayor calls locking up criminals ‘racist, immoral and unholy’ as he, Gov. Pritzker blast Trump threat to send in National Guard",
@@ -49,18 +49,11 @@
     "link": "https://nypost.com/2025/08/25/us-news/trump-claims-good-conversation-with-putin-since-monday-talks-but-no-details-on-ukraine-meeting-as-russia-keeps-striking/"
   },
   {
-    "score": 49,
+    "score": 48,
     "pubdate": "2025-08-26-08-35-07 +0000",
     "source": "nyt",
     "headline": "Australia Says Iran Was Behind Antisemitic Arson Attacks on Its Soil",
     "link": "https://www.nytimes.com/2025/08/26/world/australia/australia-iran-antisemitic-attacks.html"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-26-04-02-10 +0000",
-    "source": "nypost",
-    "headline": "Trump to allow 600,000 Chinese students entry to US for college as trade talks with China press on",
-    "link": "https://nypost.com/2025/08/26/us-news/trump-to-allow-600000-chinese-students-entry-to-us-for-college-as-trade-talks-with-china-press-on/"
   },
   {
     "score": 43,
@@ -68,5 +61,12 @@
     "source": "wapo",
     "headline": "She went viral running a Burger King solo. Then she got fired.",
     "link": "https://www.washingtonpost.com/business/2025/08/25/burger-king-worker-nykia-hamilton-fired-childcare/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-08-26-04-02-10 +0000",
+    "source": "nypost",
+    "headline": "Trump to allow 600,000 Chinese students entry to US for college as trade talks with China press on",
+    "link": "https://nypost.com/2025/08/26/us-news/trump-to-allow-600000-chinese-students-entry-to-us-for-college-as-trade-talks-with-china-press-on/"
   }
 ]
