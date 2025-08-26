@@ -1,15 +1,243 @@
 [
   {
+    "headline": "Can Trump Fire a Fed Governor? What to Know About the Legal Arguments.",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/can-trump-fire-a-fed-governor.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-01-16-09 +0000"
+  },
+  {
+    "headline": "North Korea’s Glossy New Surface: Apps, Beaches and a Fake Starbucks",
+    "link": "https://www.nytimes.com/2025/08/25/world/asia/north-korea-foreign-tourism.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-01-06-26 +0000"
+  },
+  {
+    "headline": "North Korea’s Glossy New Surface: Apps, Beaches and a Fake Starbucks",
+    "link": "https://www.nytimes.com/2025/08/25/world/asia/north-korea-foreign-tourism.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-01-06-26 +0000"
+  },
+  {
+    "headline": "Babe Ruth (Not That One) Stole Baseball Players’ Identities, U.S. Says",
+    "link": "https://www.nytimes.com/2025/08/25/us/babe-ruth-baseball-fraud.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-01-01-11 +0000"
+  },
+  {
+    "headline": "Top Chinese Trade Negotiator Set To Head To U.S. as Talks Resume",
+    "link": "https://www.wsj.com/world/china/top-chinese-trade-negotiator-set-to-head-to-u-s-as-talks-resume-b2c3f913",
+    "source": "wsj",
+    "pubdate": "2025-08-26-01-01-00 +0000"
+  },
+  {
+    "headline": "The Costly Ingredient That Big Food Companies Are Processing: MAHA",
+    "link": "https://www.wsj.com/business/food-companies-maha-kellogg-987d3915?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-26-01-00-00 +0000"
+  },
+  {
+    "headline": "A Local Ice-Cream Chain Shows What American Brands Are Doing Wrong in China",
+    "link": "https://www.wsj.com/business/retail/mr-wild-man-ice-cream-china-success-92050365?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-26-01-00-00 +0000"
+  },
+  {
+    "headline": "Trump order calls for broader National Guard role in domestic unrest",
+    "link": "https://www.washingtonpost.com/national-security/2025/08/25/trump-national-guard-domestic-unrest/",
+    "source": "wapo",
+    "pubdate": "2025-08-26-00-56-59 +0000"
+  },
+  {
+    "headline": "Lisa Cook Broke Ground at the Fed, Before Attack by Trump",
+    "link": "https://www.nytimes.com/2025/08/23/business/lisa-cook-fed-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-54-34 +0000"
+  },
+  {
+    "headline": "Suspect who allegedly sparked racially motivated Cincinnati brawl indicted on federal drug charges",
+    "link": "https://nypost.com/2025/08/25/us-news/suspect-who-allegedly-sparked-racially-motivated-cincinnati-brawl-indicted-on-federal-drug-charges/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-51-31 +0000"
+  },
+  {
+    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
+    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-49-51 +0000"
+  },
+  {
+    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
+    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-49-51 +0000"
+  },
+  {
+    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
+    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-49-51 +0000"
+  },
+  {
+    "headline": "Trump orders removal of Federal Reserve governor Lisa Cook",
+    "link": "https://www.bbc.com/news/articles/cx275n8gx0ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-48-25 +0000"
+  },
+  {
+    "headline": "Trump orders removal of Federal Reserve governor Lisa Cook",
+    "link": "https://www.bbc.com/news/articles/cx275n8gx0ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-48-25 +0000"
+  },
+  {
+    "headline": "Fire crews halt Sherman Oaks brush fire; officials warn of delays on 405 Freeway",
+    "link": "https://www.latimes.com/california/story/2025-08-25/fire-crews-douse-sherman-oaks-brush-fire-expect-traffic-on-405-freeway-through-tonight",
+    "source": "latimes",
+    "pubdate": "2025-08-26-00-43-59 +0000"
+  },
+  {
+    "headline": "Korean Air to buy more than 100 Boeing jets after Trump meeting",
+    "link": "https://www.bbc.com/news/articles/cgm2kv2erxlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-43-54 +0000"
+  },
+  {
+    "headline": "Korean Air to buy more than 100 Boeing jets after Trump meeting",
+    "link": "https://www.bbc.com/news/articles/cgm2kv2erxlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-43-54 +0000"
+  },
+  {
+    "headline": "Trump Says He Is Firing Lisa Cook From Fed Board of Governors",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/lisa-cook-fired-trump-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-43-41 +0000"
+  },
+  {
+    "headline": "Trump Says He Is Firing Lisa Cook From Fed Board of Governors",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/lisa-cook-fired-trump-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-43-41 +0000"
+  },
+  {
+    "headline": "Trump Says He Is Firing Lisa Cook From Fed Board of Governors",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/lisa-cook-fired-trump-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-43-41 +0000"
+  },
+  {
+    "headline": "Vikings keep dealing, trade cornerback Mekhi Blackmon to the Colts",
+    "link": "https://www.startribune.com/minnesota-vikings-trade-cornerback-mekhi-blackmon-indianapolis-colts/601461158",
+    "source": "startribune",
+    "pubdate": "2025-08-26-00-43-00 +0000"
+  },
+  {
+    "headline": "Trump moves to fire top Federal Reserve official Lisa Cook",
+    "link": "https://www.washingtonpost.com/business/2025/08/25/trump-lisa-cook-federal-reserve/",
+    "source": "wapo",
+    "pubdate": "2025-08-26-00-42-31 +0000"
+  },
+  {
+    "headline": "Wild dust storm wreaks havoc at Burning Man festival as campsites blown away, traffic delays pushed to 8 hours",
+    "link": "https://nypost.com/2025/08/25/us-news/wild-dust-storm-wreaks-havoc-at-burning-man-festival-as-campsites-blown-away-traffic-delays-pushed-to-8-hours/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-41-42 +0000"
+  },
+  {
+    "headline": "Trump signs order banning flag-burning — a right protected by the U.S. Constitution",
+    "link": "https://www.cbc.ca/news/world/trump-ban-flag-burning-1.7617620?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-26-00-40-15 +0000"
+  },
+  {
+    "headline": "S Korea's Lee turns on charm with Trump - and averts embarrassment",
+    "link": "https://www.bbc.com/news/articles/cy5pdlgl64zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-39-06 +0000"
+  },
+  {
+    "headline": "Trump fires Federal Reserve Gov. Lisa Cook over mortgage fraud allegations",
+    "link": "https://nypost.com/2025/08/25/us-news/trump-fires-federal-reserve-gov-lisa-cook-over-mortgage-fraud-allegations/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-33-23 +0000"
+  },
+  {
+    "headline": "Trump fires Federal Reserve Gov. Lisa Cook over mortgage fraud allegations",
+    "link": "https://nypost.com/2025/08/25/us-news/trump-fires-federal-reserve-gov-lisa-cook-over-mortgage-fraud-allegations/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-33-23 +0000"
+  },
+  {
+    "headline": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
+    "link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-32-28 +0000"
+  },
+  {
+    "headline": "Republicans try again to block California redistricting plan from November ballot",
+    "link": "https://www.latimes.com/california/story/2025-08-25/republican-lawsuit-seeks-to-block-newsoms-plan-to-tilt-the-scales-for-democrats",
+    "source": "latimes",
+    "pubdate": "2025-08-26-00-29-22 +0000"
+  },
+  {
+    "headline": "Republicans try again to block California redistricting plan from November ballot",
+    "link": "https://www.latimes.com/california/story/2025-08-25/republican-lawsuit-seeks-to-block-newsoms-plan-to-tilt-the-scales-for-democrats",
+    "source": "latimes",
+    "pubdate": "2025-08-26-00-29-22 +0000"
+  },
+  {
+    "headline": "President Trump said he is removing Lisa Cook, a Biden-appointed Federal Reserve governor, citing allegations that Cook submitted fraudulent information on mortgage applications",
+    "link": "https://www.wsj.com/politics/policy/trump-says-he-is-removing-fed-governor-lisa-cook-5e2ec2dd",
+    "source": "wsj",
+    "pubdate": "2025-08-26-00-27-00 +0000"
+  },
+  {
+    "headline": "Lawmakers urge $1 billion a year investments to save high-speed rail",
+    "link": "https://www.latimes.com/california/story/2025-08-25/lawmakers-urge-1-billion-year-for-high-speed-rail",
+    "source": "latimes",
+    "pubdate": "2025-08-26-00-17-27 +0000"
+  },
+  {
+    "headline": "Tesla rejected $60M settlement before losing $243M in deadly Autopilot crash case",
+    "link": "https://nypost.com/2025/08/25/business/tesla-rejected-60m-settlement-before-losing-243m-in-deadly-autopilot-crash-case/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-07-23 +0000"
+  },
+  {
+    "headline": "Crime Gone in a Week? The Politics Behind Trump’s Federal Crackdown.",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-crime-federal-crackdown-politics.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-07-13 +0000"
+  },
+  {
+    "headline": "Crime Gone in a Week? The Politics Behind Trump’s Federal Crackdown.",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-crime-federal-crackdown-politics.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-07-13 +0000"
+  },
+  {
+    "headline": "Illinois Democratic Gov. JB Pritzker promised to challenge President Trump’s plan to deploy the National Guard to Chicago, calling the move unconstitutional and un-American",
+    "link": "https://www.wsj.com/politics/policy/chicago-vows-to-challenge-trumps-national-guard-plans-913f6877",
+    "source": "wsj",
+    "pubdate": "2025-08-25-23-59-00 +0000"
+  },
+  {
+    "headline": "Chicago Vows to Challenge Trump’s National Guard Plans",
+    "link": "https://www.wsj.com/politics/policy/chicago-vows-to-challenge-trumps-national-guard-plans-913f6877",
+    "source": "wsj",
+    "pubdate": "2025-08-25-23-59-00 +0000"
+  },
+  {
     "headline": "Prosecutors Fail 3 Times to Charge Woman With Assault of F.B.I. Agent in D.C.",
     "link": "https://www.nytimes.com/2025/08/25/us/politics/fbi-agent-assault-dc.html",
     "source": "nyt",
     "pubdate": "2025-08-25-23-50-54 +0000"
   },
   {
-    "headline": "SpaceX Starship 10th Test Launch: How and When to Watch the Flight",
-    "link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+    "headline": "Prosecutors Fail 3 Times to Charge Woman With Assault of F.B.I. Agent in D.C.",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/fbi-agent-assault-dc.html",
     "source": "nyt",
-    "pubdate": "2025-08-25-23-50-45 +0000"
+    "pubdate": "2025-08-25-23-50-54 +0000"
   },
   {
     "headline": "A judge threatens to hold a Trump official in contempt over the silencing of Voice of America.",
@@ -76,12 +304,6 @@
     "link": "https://nypost.com/2025/08/25/us-news/long-island-dem-sues-largest-town-in-us-after-gop-opponent-is-appointed-to-seat-ahead-of-november-election/",
     "source": "nypost",
     "pubdate": "2025-08-25-23-28-45 +0000"
-  },
-  {
-    "headline": "Prosecutors Fail 3 Times to Charge Woman With Assault of F.B.I. Agent in D.C.",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/fbi-agent-assault-dc.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-24-46 +0000"
   },
   {
     "headline": "Mass evacuations as Typhoon Kajiki batters Vietnam's coast",
@@ -234,7 +456,7 @@
     "pubdate": "2025-08-25-22-34-05 +0000"
   },
   {
-    "headline": "U.S. funding break leaves Iran internet freedom projects in peril",
+    "headline": "U.S. funding break imperils internet freedom projects in Iran",
     "link": "https://www.washingtonpost.com/national-security/2025/08/25/state-department-iran-censorship-internet/",
     "source": "wapo",
     "pubdate": "2025-08-25-22-33-34 +0000"
@@ -294,16 +516,22 @@
     "pubdate": "2025-08-25-22-16-13 +0000"
   },
   {
-    "headline": "Australian punter Oscar Chapman among two Vikings cut 24 hours before roster deadline",
-    "link": "https://www.startribune.com/minnesota-vikings-roster-cuts-punter-oscar-chapman-practice-squad/601460942",
-    "source": "startribune",
-    "pubdate": "2025-08-25-22-15-20 +0000"
-  },
-  {
     "headline": "Lawyers call for inquiry after immigration agents fired at truck in San Bernardino",
     "link": "https://www.latimes.com/california/story/2025-08-25/lawyers-seek-probe-immigration-agents-shooting-truck-san-bernardino",
     "source": "latimes",
     "pubdate": "2025-08-25-22-14-53 +0000"
+  },
+  {
+    "headline": "Ukraine's naval band joins Scots Guards for joint performance",
+    "link": "https://www.bbc.com/news/videos/c627qgke3w3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-25-22-10-55 +0000"
+  },
+  {
+    "headline": "Ukraine's naval band joins Scots Guards for joint performance",
+    "link": "https://www.bbc.com/news/videos/c627qgke3w3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-25-22-10-55 +0000"
   },
   {
     "headline": "How Taiwan is preparing for Chinese attack with acting, fake blood and mock missile strikes",
@@ -406,24 +634,6 @@
     "link": "https://www.latimes.com/world-nation/story/2025-08-25/sinaloa-cartel-el-mayo-zambada-guilty-plea",
     "source": "latimes",
     "pubdate": "2025-08-25-21-45-00 +0000"
-  },
-  {
-    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
-    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-21-43-37 +0000"
-  },
-  {
-    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
-    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-21-43-37 +0000"
-  },
-  {
-    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
-    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-21-43-37 +0000"
   },
   {
     "headline": "Bob Menendez’ wife, Nadine, asks for light sentence in corruption case — as lawyers compare her to  victims of Combs, Weinstein",
@@ -660,13 +870,13 @@
     "pubdate": "2025-08-25-20-51-33 +0000"
   },
   {
-    "headline": "Illinois Gov. JB Pritzker calls Trump ‘wanna be dictator’ as he rails against White House plans to deploy National Guard to Chicago",
+    "headline": "Chicago’s far-left mayor calls locking up criminals ‘racist, immoral and unholy’ as he, Gov. Pritzker blast Trump threat to send in National Guard",
     "link": "https://nypost.com/2025/08/25/us-news/illinois-gov-jb-pritzker-calls-trump-wanna-be-dictator-as-he-rails-against-white-house-plans-to-deploy-national-guard-to-chicago/",
     "source": "nypost",
     "pubdate": "2025-08-25-20-38-55 +0000"
   },
   {
-    "headline": "Illinois Gov. JB Pritzker calls Trump ‘wanna be dictator’ as he rails against White House plans to deploy National Guard to Chicago",
+    "headline": "Chicago’s far-left mayor calls locking up criminals ‘racist, immoral and unholy’ as he, Gov. Pritzker blast Trump threat to send in National Guard",
     "link": "https://nypost.com/2025/08/25/us-news/illinois-gov-jb-pritzker-calls-trump-wanna-be-dictator-as-he-rails-against-white-house-plans-to-deploy-national-guard-to-chicago/",
     "source": "nypost",
     "pubdate": "2025-08-25-20-38-55 +0000"
@@ -750,10 +960,10 @@
     "pubdate": "2025-08-25-20-07-06 +0000"
   },
   {
-    "headline": "How our new newsletters work—and why you should sign up!",
-    "link": "https://48hills.org/2025/08/how-our-new-newsletters-work-and-why-you-should-sign-up/",
-    "source": "48hills",
-    "pubdate": "2025-08-25-20-06-24 +0000"
+    "headline": "Opinion | Feel free to disagree with my husband, Jacob Frey. Just don’t protest outside our house.",
+    "link": "https://www.startribune.com/jacob-frey-protest-ice-immigration-roof-depot/601460911",
+    "source": "startribune",
+    "pubdate": "2025-08-25-20-06-10 +0000"
   },
   {
     "headline": "In Minnesota Senate, Omar Fateh played hardball to achieve his goals",
@@ -810,12 +1020,6 @@
     "pubdate": "2025-08-25-19-53-56 +0000"
   },
   {
-    "headline": "Kilmar Abrego Garcia cannot be deported — for now — after ICE planned to send alleged MS-13 gangbanger to Uganda, judge rules",
-    "link": "https://nypost.com/2025/08/25/us-news/kilmar-abrego-garcia-cannot-be-deported-for-now-after-ice-planned-to-send-alleged-ms-13-gangbanger-to-uganda-judge-rules/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-19-53-56 +0000"
-  },
-  {
     "headline": "Israeli double strike on Gaza hospital - what we know",
     "link": "https://www.bbc.com/news/articles/c80d2zrdj7vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -826,12 +1030,6 @@
     "link": "https://www.bbc.com/news/articles/c80d2zrdj7vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-25-19-52-41 +0000"
-  },
-  {
-    "headline": "NYC straphanger pummels 64-year-old woman who confronted him for smoking on train",
-    "link": "https://nypost.com/2025/08/25/us-news/nyc-straphanger-pummel-woman-who-confronted-him-over-smoking/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-19-49-12 +0000"
   },
   {
     "headline": "Lil Nas X pleads not guilty to 4 felonies following naked altercation with L.A. police",
@@ -874,18 +1072,6 @@
     "link": "https://nypost.com/2025/08/25/us-news/trump-claims-good-conversation-with-putin-since-monday-talks-but-no-details-on-ukraine-meeting-as-russia-keeps-striking/",
     "source": "nypost",
     "pubdate": "2025-08-25-19-40-01 +0000"
-  },
-  {
-    "headline": "Trump claims ‘good conversation’ with Putin since Monday talks — but no details on Ukraine meeting as Russia keeps striking: ‘It’s tough’",
-    "link": "https://nypost.com/2025/08/25/us-news/trump-claims-good-conversation-with-putin-since-monday-talks-but-no-details-on-ukraine-meeting-as-russia-keeps-striking/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-19-40-01 +0000"
-  },
-  {
-    "headline": "Where does ‘Funkytown’ rank on the list of one-hit wonders?",
-    "link": "https://www.startribune.com/funkytown-minneapolis-one-hit-wonder-steve-greenberg-david-rivkin-sound-80-cynthia-johnson/601460826",
-    "source": "startribune",
-    "pubdate": "2025-08-25-19-36-46 +0000"
   },
   {
     "headline": "Judge temporarily blocks Abrego Garcia's deportation",
@@ -1344,12 +1530,6 @@
     "pubdate": "2025-08-25-15-47-07 +0000"
   },
   {
-    "headline": "Ficks’ Picks: Diving into CROSSROADS Fest’s river of experimental celluloid",
-    "link": "https://48hills.org/2025/08/ficks-picks-diving-into-crossroads-fests-river-of-experimental-celluloid/",
-    "source": "48hills",
-    "pubdate": "2025-08-25-15-46-11 +0000"
-  },
-  {
     "headline": "Tech executives including VC firm Andreessen Horowitz and the president of OpenAI are putting more than $100 million into a new super-PAC network focused on AI policy",
     "link": "https://www.wsj.com/politics/silicon-valley-launches-pro-ai-pacs-to-defend-industry-in-midterm-elections-287905b3",
     "source": "wsj",
@@ -1458,10 +1638,10 @@
     "pubdate": "2025-08-25-14-16-42 +0000"
   },
   {
-    "headline": "5 times Denzel’s character name tipped us off to greatness",
-    "link": "https://48hills.org/2025/08/5-times-denzels-character-name-tipped-us-off-to-greatness/",
-    "source": "48hills",
-    "pubdate": "2025-08-25-14-11-11 +0000"
+    "headline": "Poland's Donald Tusk won't send peacekeepers to Ukraine but will provide logistical support",
+    "link": "https://www.cbc.ca/news/politics/poland-carney-tusk-peacekeepers-1.7616912?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-25-14-16-42 +0000"
   },
   {
     "headline": "Teen girl murdered by asylum seeker while calling cops to report she was being followed— triggering furious protests",
@@ -1950,18 +2130,6 @@
     "pubdate": "2025-08-25-04-34-35 +0000"
   },
   {
-    "headline": "North Korea’s Glossy New Surface: Apps, Beaches and a Fake Starbucks",
-    "link": "https://www.nytimes.com/2025/08/25/world/asia/north-korea-foreign-tourism.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-04-01-06 +0000"
-  },
-  {
-    "headline": "North Korea’s Glossy New Surface: Apps, Beaches and a Fake Starbucks",
-    "link": "https://www.nytimes.com/2025/08/25/world/asia/north-korea-foreign-tourism.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-04-01-06 +0000"
-  },
-  {
     "headline": "Hongkongers squawk-off in city's first bird call contest",
     "link": "https://www.bbc.com/news/videos/ce83mgm7n1zo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1996,113 +2164,5 @@
     "link": "https://www.wsj.com/politics/policy/texas-california-redistricting-congressional-maps-fd2af203",
     "source": "wsj",
     "pubdate": "2025-08-25-01-56-00 +0000"
-  },
-  {
-    "headline": "Spotify will raise prices as music giant introduces new features, eyes 1 billion users: report",
-    "link": "https://nypost.com/2025/08/24/business/spotify-will-raise-prices-as-music-giant-introduces-new-features-eyes-1-billion-users-report/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-01-52-01 +0000"
-  },
-  {
-    "headline": "Evergrande: Why should I care about the crisis-hit Chinese property giant?",
-    "link": "https://www.bbc.com/news/articles/cvgn39d878ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-01-04-15 +0000"
-  },
-  {
-    "headline": "Chinese property giant Evergrande delisted after spectacular fall",
-    "link": "https://www.bbc.com/news/articles/c14g7r44566o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-01-03-35 +0000"
-  },
-  {
-    "headline": "Chinese property giant Evergrande delisted after spectacular fall",
-    "link": "https://www.bbc.com/news/articles/c14g7r44566o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-01-03-35 +0000"
-  },
-  {
-    "headline": "Chinese property giant Evergrande delisted after spectacular fall",
-    "link": "https://www.bbc.com/news/articles/c14g7r44566o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-01-03-35 +0000"
-  },
-  {
-    "headline": "How SF Democratic Party has become the right wing of the state party",
-    "link": "https://48hills.org/2025/08/how-sf-democratic-party-has-become-the-right-wing-of-the-state-party/",
-    "source": "48hills",
-    "pubdate": "2025-08-25-01-02-52 +0000"
-  },
-  {
-    "headline": "Tech Rally Shows Signs of Losing Steam",
-    "link": "https://www.wsj.com/finance/stocks/tech-stocks-magnificent-seven-losing-steam-e948af4d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-25-01-00-00 +0000"
-  },
-  {
-    "headline": "Inside Intel’s Tricky Dance With Trump",
-    "link": "https://www.wsj.com/tech/inside-intels-tricky-dance-with-trump-c03f729c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-25-01-00-00 +0000"
-  },
-  {
-    "headline": "Hong Kong Denies Visa Renewal for Senior Bloomberg Journalist",
-    "link": "https://www.nytimes.com/2025/08/23/world/asia/hong-kong-bloomberg-visa.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-00-48-15 +0000"
-  },
-  {
-    "headline": "Hong Kong Denies Visa Renewal for Senior Bloomberg Journalist",
-    "link": "https://www.nytimes.com/2025/08/23/world/asia/hong-kong-bloomberg-visa.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-00-48-15 +0000"
-  },
-  {
-    "headline": "Toddler and brother who vanished from their L.A. foster home have been found, LAPD says",
-    "link": "https://www.latimes.com/california/story/2025-08-24/missing-foster-children-found-unharmed-lapd-says",
-    "source": "latimes",
-    "pubdate": "2025-08-25-00-43-14 +0000"
-  },
-  {
-    "headline": "Eric Adams’ campaign misstates his age while ripping Mamdani over humiliating failed bench press",
-    "link": "https://nypost.com/2025/08/24/us-news/adams-campaign-misstates-his-age-while-ripping-mamdani/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-00-27-18 +0000"
-  },
-  {
-    "headline": "Pro-Cuomo super PAC raises whopping $1.26M in past week – marking largest weekly haul for mayoral candidate since Dem primary",
-    "link": "https://nypost.com/2025/08/24/us-news/pro-cuomo-super-pac-raises-whopping-1-26m-in-past-week/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-00-20-06 +0000"
-  },
-  {
-    "headline": "France summons US envoy Charles Kushner over antisemitism claims",
-    "link": "https://www.bbc.com/news/articles/cq58102wz47o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-00-13-00 +0000"
-  },
-  {
-    "headline": "France summons US envoy over antisemitism claims",
-    "link": "https://www.bbc.com/news/articles/cq58102wz47o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-00-13-00 +0000"
-  },
-  {
-    "headline": "France summons US envoy Charles Kushner over antisemitism claims",
-    "link": "https://www.bbc.com/news/articles/cq58102wz47o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-00-13-00 +0000"
-  },
-  {
-    "headline": "The big (GOP) money attacking Newsom’s redistricting plan",
-    "link": "https://48hills.org/2025/08/the-big-gop-money-attacking-newsoms-redistricting-plan/",
-    "source": "48hills",
-    "pubdate": "2025-08-25-00-08-35 +0000"
-  },
-  {
-    "headline": "How Eric Trump Became One of Crypto’s Greatest Evangelists",
-    "link": "https://www.wsj.com/finance/currencies/eric-trump-crypto-business-c92767bb?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-25-00-00-00 +0000"
   }
 ]

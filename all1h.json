@@ -1,176 +1,194 @@
 [
   {
-    "headline": "Prosecutors Fail 3 Times to Charge Woman With Assault of F.B.I. Agent in D.C.",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/fbi-agent-assault-dc.html",
+    "headline": "Can Trump Fire a Fed Governor? What to Know About the Legal Arguments.",
+    "link": "https://www.nytimes.com/2025/08/22/us/politics/can-trump-fire-a-fed-governor.html",
     "source": "nyt",
-    "pubdate": "2025-08-25-23-50-54 +0000"
+    "pubdate": "2025-08-26-01-16-09 +0000"
   },
   {
-    "headline": "SpaceX Starship 10th Test Launch: How and When to Watch the Flight",
+    "headline": "North Korea’s Glossy New Surface: Apps, Beaches and a Fake Starbucks",
+    "link": "https://www.nytimes.com/2025/08/25/world/asia/north-korea-foreign-tourism.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-01-06-26 +0000"
+  },
+  {
+    "headline": "North Korea’s Glossy New Surface: Apps, Beaches and a Fake Starbucks",
+    "link": "https://www.nytimes.com/2025/08/25/world/asia/north-korea-foreign-tourism.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-01-06-26 +0000"
+  },
+  {
+    "headline": "Babe Ruth (Not That One) Stole Baseball Players’ Identities, U.S. Says",
+    "link": "https://www.nytimes.com/2025/08/25/us/babe-ruth-baseball-fraud.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-01-01-11 +0000"
+  },
+  {
+    "headline": "Top Chinese Trade Negotiator Set To Head To U.S. as Talks Resume",
+    "link": "https://www.wsj.com/world/china/top-chinese-trade-negotiator-set-to-head-to-u-s-as-talks-resume-b2c3f913",
+    "source": "wsj",
+    "pubdate": "2025-08-26-01-01-00 +0000"
+  },
+  {
+    "headline": "The Costly Ingredient That Big Food Companies Are Processing: MAHA",
+    "link": "https://www.wsj.com/business/food-companies-maha-kellogg-987d3915?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-26-01-00-00 +0000"
+  },
+  {
+    "headline": "A Local Ice-Cream Chain Shows What American Brands Are Doing Wrong in China",
+    "link": "https://www.wsj.com/business/retail/mr-wild-man-ice-cream-china-success-92050365?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-26-01-00-00 +0000"
+  },
+  {
+    "headline": "Trump order calls for broader National Guard role in domestic unrest",
+    "link": "https://www.washingtonpost.com/national-security/2025/08/25/trump-national-guard-domestic-unrest/",
+    "source": "wapo",
+    "pubdate": "2025-08-26-00-56-59 +0000"
+  },
+  {
+    "headline": "Lisa Cook Broke Ground at the Fed, Before Attack by Trump",
+    "link": "https://www.nytimes.com/2025/08/23/business/lisa-cook-fed-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-54-34 +0000"
+  },
+  {
+    "headline": "Suspect who allegedly sparked racially motivated Cincinnati brawl indicted on federal drug charges",
+    "link": "https://nypost.com/2025/08/25/us-news/suspect-who-allegedly-sparked-racially-motivated-cincinnati-brawl-indicted-on-federal-drug-charges/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-51-31 +0000"
+  },
+  {
+    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
+    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-49-51 +0000"
+  },
+  {
+    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
+    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-49-51 +0000"
+  },
+  {
+    "headline": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
+    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-49-51 +0000"
+  },
+  {
+    "headline": "Trump orders removal of Federal Reserve governor Lisa Cook",
+    "link": "https://www.bbc.com/news/articles/cx275n8gx0ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-48-25 +0000"
+  },
+  {
+    "headline": "Trump orders removal of Federal Reserve governor Lisa Cook",
+    "link": "https://www.bbc.com/news/articles/cx275n8gx0ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-48-25 +0000"
+  },
+  {
+    "headline": "Fire crews halt Sherman Oaks brush fire; officials warn of delays on 405 Freeway",
+    "link": "https://www.latimes.com/california/story/2025-08-25/fire-crews-douse-sherman-oaks-brush-fire-expect-traffic-on-405-freeway-through-tonight",
+    "source": "latimes",
+    "pubdate": "2025-08-26-00-43-59 +0000"
+  },
+  {
+    "headline": "Korean Air to buy more than 100 Boeing jets after Trump meeting",
+    "link": "https://www.bbc.com/news/articles/cgm2kv2erxlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-43-54 +0000"
+  },
+  {
+    "headline": "Korean Air to buy more than 100 Boeing jets after Trump meeting",
+    "link": "https://www.bbc.com/news/articles/cgm2kv2erxlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-43-54 +0000"
+  },
+  {
+    "headline": "Trump Says He Is Firing Lisa Cook From Fed Board of Governors",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/lisa-cook-fired-trump-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-43-41 +0000"
+  },
+  {
+    "headline": "Trump Says He Is Firing Lisa Cook From Fed Board of Governors",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/lisa-cook-fired-trump-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-43-41 +0000"
+  },
+  {
+    "headline": "Trump Says He Is Firing Lisa Cook From Fed Board of Governors",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/lisa-cook-fired-trump-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-08-26-00-43-41 +0000"
+  },
+  {
+    "headline": "Vikings keep dealing, trade cornerback Mekhi Blackmon to the Colts",
+    "link": "https://www.startribune.com/minnesota-vikings-trade-cornerback-mekhi-blackmon-indianapolis-colts/601461158",
+    "source": "startribune",
+    "pubdate": "2025-08-26-00-43-00 +0000"
+  },
+  {
+    "headline": "Trump moves to fire top Federal Reserve official Lisa Cook",
+    "link": "https://www.washingtonpost.com/business/2025/08/25/trump-lisa-cook-federal-reserve/",
+    "source": "wapo",
+    "pubdate": "2025-08-26-00-42-31 +0000"
+  },
+  {
+    "headline": "Wild dust storm wreaks havoc at Burning Man festival as campsites blown away, traffic delays pushed to 8 hours",
+    "link": "https://nypost.com/2025/08/25/us-news/wild-dust-storm-wreaks-havoc-at-burning-man-festival-as-campsites-blown-away-traffic-delays-pushed-to-8-hours/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-41-42 +0000"
+  },
+  {
+    "headline": "Trump signs order banning flag-burning — a right protected by the U.S. Constitution",
+    "link": "https://www.cbc.ca/news/world/trump-ban-flag-burning-1.7617620?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-26-00-40-15 +0000"
+  },
+  {
+    "headline": "S Korea's Lee turns on charm with Trump - and averts embarrassment",
+    "link": "https://www.bbc.com/news/articles/cy5pdlgl64zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-26-00-39-06 +0000"
+  },
+  {
+    "headline": "Trump fires Federal Reserve Gov. Lisa Cook over mortgage fraud allegations",
+    "link": "https://nypost.com/2025/08/25/us-news/trump-fires-federal-reserve-gov-lisa-cook-over-mortgage-fraud-allegations/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-33-23 +0000"
+  },
+  {
+    "headline": "Trump fires Federal Reserve Gov. Lisa Cook over mortgage fraud allegations",
+    "link": "https://nypost.com/2025/08/25/us-news/trump-fires-federal-reserve-gov-lisa-cook-over-mortgage-fraud-allegations/",
+    "source": "nypost",
+    "pubdate": "2025-08-26-00-33-23 +0000"
+  },
+  {
+    "headline": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
     "link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
     "source": "nyt",
-    "pubdate": "2025-08-25-23-50-45 +0000"
+    "pubdate": "2025-08-26-00-32-28 +0000"
   },
   {
-    "headline": "A judge threatens to hold a Trump official in contempt over the silencing of Voice of America.",
-    "link": "https://www.nytimes.com/live/2025/08/25/us/trump-news/trump-official-voa-judge",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-47-14 +0000"
-  },
-  {
-    "headline": "A judge threatens to hold a Trump official in contempt over the silencing of Voice of America.",
-    "link": "https://www.nytimes.com/live/2025/08/25/us/trump-news/trump-official-voa-judge",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-47-14 +0000"
-  },
-  {
-    "headline": "Chicagoans say Trump’s plan to send troops to their city is ‘last thing’ they want",
-    "link": "https://www.washingtonpost.com/nation/2025/08/25/chicago-national-guard-trump/",
-    "source": "wapo",
-    "pubdate": "2025-08-25-23-47-07 +0000"
-  },
-  {
-    "headline": "Hero American tourist and model reveals extent of facial injuries suffered while defending two women in Germany: ‘Wear my scar with pride’",
-    "link": "https://nypost.com/2025/08/25/world-news/hero-american-tourist-and-model-reveals-extent-of-facial-injuries-suffered-while-defending-two-women-in-germany/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-23-42-39 +0000"
-  },
-  {
-    "headline": "Kennedy Center’s New Dance Director Criticized ‘Woke’ Ballet Culture",
-    "link": "https://www.nytimes.com/2025/08/25/arts/dance/kennedy-center-stephen-nakagawa.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-41-07 +0000"
-  },
-  {
-    "headline": "New memoir by CBRE’s Stephen Siegel an entertaining look at powerful NYC dealmaker’s career",
-    "link": "https://nypost.com/2025/08/25/business/new-memoir-by-cbres-stephen-siegel-an-entertaining-look-at-powerful-nyc-dealmakers-career/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-23-41-02 +0000"
-  },
-  {
-    "headline": "Mexico cartel leader 'El Mayo' enters guilty plea",
-    "link": "https://www.bbc.com/news/articles/c2eny8nz94vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-38-56 +0000"
-  },
-  {
-    "headline": "Mexico cartel leader 'El Mayo' enters guilty plea",
-    "link": "https://www.bbc.com/news/articles/c2eny8nz94vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-38-56 +0000"
-  },
-  {
-    "headline": "House Republican Seeks Documents From Epstein Estate",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/epstein-files-subpoena-comer.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-34-07 +0000"
-  },
-  {
-    "headline": "House Republican Seeks Documents From Epstein Estate",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/epstein-files-subpoena-comer.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-34-07 +0000"
-  },
-  {
-    "headline": "Long Island Dem sues largest town in US over political ‘backroom deal’ — GOP allies slam case as distraction from animal porn scandal",
-    "link": "https://nypost.com/2025/08/25/us-news/long-island-dem-sues-largest-town-in-us-after-gop-opponent-is-appointed-to-seat-ahead-of-november-election/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-23-28-45 +0000"
-  },
-  {
-    "headline": "Prosecutors Fail 3 Times to Charge Woman With Assault of F.B.I. Agent in D.C.",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/fbi-agent-assault-dc.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-24-46 +0000"
-  },
-  {
-    "headline": "Mass evacuations as Typhoon Kajiki batters Vietnam's coast",
-    "link": "https://www.cbc.ca/news/world/typhoon-kajiki-vietnam-1.7617529?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-25-23-19-44 +0000"
-  },
-  {
-    "headline": "US Open fans divided on $100 caviar-topped chicken nuggets: ‘Weird would be a good word’",
-    "link": "https://nypost.com/2025/08/25/us-news/us-open-fans-divided-on-100-caviar-topped-chicken-nuggets/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-23-18-55 +0000"
-  },
-  {
-    "headline": "Child sex abuse victim begs Elon Musk to remove links to her images",
-    "link": "https://www.bbc.com/news/articles/cq587wv4d5go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-17-45 +0000"
-  },
-  {
-    "headline": "Thunderstorms cause ground stop at LAX and other SoCal airports",
-    "link": "https://www.latimes.com/california/story/2025-08-25/thunderstorms-cause-ground-stop-at-lax-and-other-socal-airports",
+    "headline": "Republicans try again to block California redistricting plan from November ballot",
+    "link": "https://www.latimes.com/california/story/2025-08-25/republican-lawsuit-seeks-to-block-newsoms-plan-to-tilt-the-scales-for-democrats",
     "source": "latimes",
-    "pubdate": "2025-08-25-23-15-44 +0000"
+    "pubdate": "2025-08-26-00-29-22 +0000"
   },
   {
-    "headline": "Deep Transit Cuts in Philadelphia Set Commuters and Parents Scrambling",
-    "link": "https://www.nytimes.com/2025/08/25/us/philadelphia-transit-cuts.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-11-49 +0000"
+    "headline": "Republicans try again to block California redistricting plan from November ballot",
+    "link": "https://www.latimes.com/california/story/2025-08-25/republican-lawsuit-seeks-to-block-newsoms-plan-to-tilt-the-scales-for-democrats",
+    "source": "latimes",
+    "pubdate": "2025-08-26-00-29-22 +0000"
   },
   {
-    "headline": "The damning cost of cashless bail from one California county that tried it: ‘Imminent danger to communities’",
-    "link": "https://nypost.com/2025/08/25/us-news/damning-study-shows-chilling-threat-posed-by-cashless-bail/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-23-10-32 +0000"
-  },
-  {
-    "headline": "Chocolate and butter prices help drive food inflation to 18-month high",
-    "link": "https://www.bbc.com/news/articles/cly4eme0284o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-10-09 +0000"
-  },
-  {
-    "headline": "Chocolate and butter prices help drive food inflation to 18-month high",
-    "link": "https://www.bbc.com/news/articles/cly4eme0284o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-10-09 +0000"
-  },
-  {
-    "headline": "Lil Nas X pleads not guilty to 4 felony charges after LA arrest while naked",
-    "link": "https://www.bbc.com/news/articles/cly4ey0nm7xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-05-34 +0000"
-  },
-  {
-    "headline": "Lil Nas X pleads not guilty to 4 felony charges after LA arrest while naked",
-    "link": "https://www.bbc.com/news/articles/cly4ey0nm7xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-05-34 +0000"
-  },
-  {
-    "headline": "Schools, care homes and sports clubs sold off to pay spiralling council debt",
-    "link": "https://www.bbc.com/news/articles/cq87497v8ypo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-25-23-03-28 +0000"
-  },
-  {
-    "headline": "French Prime Minister Calls Special Parliamentary Session to Address Ballooning Debt",
-    "link": "https://www.nytimes.com/2025/08/25/world/europe/france-debt-parliament-vote.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-00-55 +0000"
-  },
-  {
-    "headline": "French Prime Minister Calls Special Parliamentary Session to Address Ballooning Debt",
-    "link": "https://www.nytimes.com/2025/08/25/world/europe/france-debt-parliament-vote.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-00-55 +0000"
-  },
-  {
-    "headline": "French Prime Minister Calls Special Parliamentary Session to Address Ballooning Debt",
-    "link": "https://www.nytimes.com/2025/08/25/world/europe/france-debt-parliament-vote.html",
-    "source": "nyt",
-    "pubdate": "2025-08-25-23-00-55 +0000"
-  },
-  {
-    "headline": "Waymo’s robotaxis hit NYC in test run — but locals, ex-mayor say hit the brakes: ‘Really bad idea’",
-    "link": "https://nypost.com/2025/08/25/us-news/waymos-robotaxis-hit-nyc-in-test-run-but-locals-ex-mayor-say-hit-the-brakes-really-bad-idea/",
-    "source": "nypost",
-    "pubdate": "2025-08-25-23-00-43 +0000"
+    "headline": "President Trump said he is removing Lisa Cook, a Biden-appointed Federal Reserve governor, citing allegations that Cook submitted fraudulent information on mortgage applications",
+    "link": "https://www.wsj.com/politics/policy/trump-says-he-is-removing-fed-governor-lisa-cook-5e2ec2dd",
+    "source": "wsj",
+    "pubdate": "2025-08-26-00-27-00 +0000"
   }
 ]
