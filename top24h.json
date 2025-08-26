@@ -1,27 +1,27 @@
 [
   {
-    "score": 227,
+    "score": 224,
     "pubdate": "2025-08-26-03-44-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is removing Lisa Cook, a Biden-appointed Federal Reserve governor, citing allegations that Cook submitted fraudulent information on mortgage applications",
     "link": "https://www.wsj.com/politics/policy/trump-says-he-is-removing-fed-governor-lisa-cook-5e2ec2dd"
   },
   {
-    "score": 82,
+    "score": 81,
     "pubdate": "2025-08-26-13-35-35 +0000",
     "source": "nypost",
     "headline": "Netanyahu calls deadly double strike on Gaza hospital that killed 20 people — including 5 journalists — a ‘tragic mishap’",
     "link": "https://nypost.com/2025/08/26/world-news/netanyahu-calls-deadly-double-strike-on-hospital-a-tragic-mishap/"
   },
   {
-    "score": 79,
+    "score": 78,
     "pubdate": "2025-08-25-17-11-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified his tough-on-crime push Monday, launching a national initiative to end cashless bail and signing an executive order to end the practice in Washington, D.C.",
     "link": "https://www.wsj.com/politics/policy/trump-executive-order-cashless-bail-dc-a76cd788"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2025-08-26-10-39-53 +0000",
     "source": "cbc",
     "headline": "Australia accuses Iran of being behind two antisemitic attacks, orders ambassador to leave",
@@ -35,13 +35,6 @@
     "link": "https://nypost.com/2025/08/25/us-news/trump-claims-good-conversation-with-putin-since-monday-talks-but-no-details-on-ukraine-meeting-as-russia-keeps-striking/"
   },
   {
-    "score": 64,
-    "pubdate": "2025-08-25-15-40-13 +0000",
-    "source": "nypost",
-    "headline": "Keurig Dr Pepper to buy JDE Peet’s in $18B deal that will make two new public companies",
-    "link": "https://nypost.com/2025/08/25/business/keurig-dr-pepper-to-buy-jde-peets-in-18b-deal-spinning-off-two-new-us-listed-companies/"
-  },
-  {
     "score": 62,
     "pubdate": "2025-08-26-11-52-00 +0000",
     "source": "wsj",
@@ -49,11 +42,25 @@
     "link": "https://www.wsj.com/politics/policy/chicago-vows-to-challenge-trumps-national-guard-plans-913f6877"
   },
   {
-    "score": 58,
+    "score": 54,
     "pubdate": "2025-08-25-19-53-56 +0000",
     "source": "nypost",
     "headline": "Kilmar Abrego Garcia cannot be deported — for now — after ICE planned to send alleged MS-13 gangbanger to Uganda, judge rules",
     "link": "https://nypost.com/2025/08/25/us-news/kilmar-abrego-garcia-cannot-be-deported-for-now-after-ice-planned-to-send-alleged-ms-13-gangbanger-to-uganda-judge-rules/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-08-25-23-55-07 +0000",
+    "source": "cbc",
+    "headline": "Canada narrows choices for new submarines to German and South Korean bidders",
+    "link": "https://www.cbc.ca/news/politics/carney-germany-trade-security-submarines-1.7617600?cmp=rss"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-08-26-04-36-34 +0000",
+    "source": "nypost",
+    "headline": "DNC agreed to pick up the tab for more than $20M of Kamala Harris campaign debt in ‘handshake deal’: report",
+    "link": "https://nypost.com/2025/08/26/us-news/dnc-agreed-to-pick-up-the-tab-for-more-than-20m-of-kamala-harris-campaign-debt-in-handshake-deal-report/"
   },
   {
     "score": 45,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Syrian migrant accused of slashing hero American model John Rudat was previously let go by cops before being busted for gruesome attack",
     "link": "https://nypost.com/2025/08/26/world-news/syrian-migrant-arrested-for-slashing-american-model-john-rudat-across-the-face-after-cops-previously-let-him-go/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-26-04-02-10 +0000",
-    "source": "nypost",
-    "headline": "Trump to allow 600,000 Chinese students entry to US for college as trade talks with China press on",
-    "link": "https://nypost.com/2025/08/26/us-news/trump-to-allow-600000-chinese-students-entry-to-us-for-college-as-trade-talks-with-china-press-on/"
   }
 ]
