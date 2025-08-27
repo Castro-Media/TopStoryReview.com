@@ -1,65 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2025-08-27-13-00-47 +0000",
+    "score": 41,
+    "pubdate": "2025-08-27-14-19-29 +0000",
     "source": "bbc",
-    "headline": "SpaceX pulls off Starship rocket launch in much-needed comeback",
-    "link": "https://www.bbc.com/news/articles/cly69z9lwnno?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump's 50% tariff on India kicks in as Modi urges self-reliance",
+    "link": "https://www.bbc.com/news/articles/c5ykznn158qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-08-27-14-44-39 +0000",
+    "source": "nyt",
+    "headline": "Court Records Detail Antisemitic Attack That Australia Says Is Linked to Iran",
+    "link": "https://www.nytimes.com/2025/08/27/world/australia/arson-antisemitism-australia-iran.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-08-27-14-52-16 +0000",
+    "source": "wapo",
+    "headline": "Annunciation Catholic School is a K-8 private school near the Tangletown area on Minneapolis’s southwest side....",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-27-14-20-45 +0000",
+    "source": "nyt",
+    "headline": "Late-Night Killing of a Teenage Girl on a Bicycle Unnerves Amsterdam",
+    "link": "https://www.nytimes.com/2025/08/27/world/europe/amsterdam-murder-lisa.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-27-14-28-07 +0000",
+    "source": "nypost",
+    "headline": "California crime ring stole over 600 times from Home Depot stores — swiping $4M in goods",
+    "link": "https://nypost.com/2025/08/27/business/california-crime-ring-stole-600-times-from-home-depot-swiping-4m-in-goods/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-27-14-30-00 +0000",
+    "source": "wsj",
+    "headline": "A Beijing-linked espionage campaign that hit U.S. telecom companies and swept up Donald Trump’s phone calls actually targeted more than 80 countries, reaching across the globe",
+    "link": "https://www.wsj.com/politics/national-security/chinese-spies-hit-more-than-80-countries-in-salt-typhoon-breach-fbi-reveals-59b2108f"
   },
   {
     "score": 16,
-    "pubdate": "2025-08-27-12-53-06 +0000",
+    "pubdate": "2025-08-27-14-32-27 +0000",
     "source": "nyt",
     "headline": "Prosecutors Fail to Secure Indictment Against Man Who Threw Sandwich at Federal Agent",
     "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-sandwich-assault-indictment-justice-department.html"
   },
   {
-    "score": 9,
-    "pubdate": "2025-08-27-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "How a 9-Year-Old Tiktoker Helped Turn a Joke Into Arizona Beverages’ Next Drink",
-    "link": "https://www.wsj.com/business/media/how-a-9-year-old-tiktoker-helped-turn-a-joke-into-arizona-beverages-next-drink-7d856e90?mod=pls_whats_news_us_business_f"
+    "score": 16,
+    "pubdate": "2025-08-27-14-10-02 +0000",
+    "source": "nypost",
+    "headline": "Three people suspected of carrying out covert influence operation in Greenland, Denmark summons US diplomat",
+    "link": "https://nypost.com/2025/08/27/world-news/denmark-summons-us-envoy-after-report-of-americans-carrying-out-influence-operations-in-greenland/"
   },
   {
-    "score": 8,
-    "pubdate": "2025-08-27-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Apple Makes Music Push in Radio After Losing Ground to Spotify",
-    "link": "https://www.wsj.com/business/media/apple-makes-music-push-in-radio-after-losing-ground-to-spotify-5931c467?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-08-27-13-01-23 +0000",
+    "score": 15,
+    "pubdate": "2025-08-27-14-31-12 +0000",
     "source": "nyt",
-    "headline": "Trump Is Set to Host a Meeting on Gaza. How Close Is a Cease-Fire?",
-    "link": "https://www.nytimes.com/2025/08/27/world/middleeast/trump-gaza-meeting-ceasefire.html"
+    "headline": "Trump Administration Asks Supreme Court to Allow Freeze on Foreign Aid",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/supreme-court-trump-foreign-aid.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-08-27-12-53-35 +0000",
-    "source": "startribune",
-    "headline": "Protest moved from Frey’s home as concerns rise over safety for public officials",
-    "link": "https://www.startribune.com/minneapolis-protest-jacob-frey-home-moved/601461518"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-08-27-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "San Francisco water taxi",
-    "link": "https://missionlocal.org/2025/08/sf-photos/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-08-27-13-00-47 +0000",
-    "source": "bbc",
-    "headline": "SpaceX pulls off Starship rocket launch in much-needed comeback",
-    "link": "https://www.bbc.com/news/articles/cly69z9lwnno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-08-27-12-53-06 +0000",
-    "source": "nyt",
-    "headline": "Prosecutors Fail to Secure Indictment Against Man Who Threw Sandwich at Federal Agent",
-    "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-sandwich-assault-indictment-justice-department.html"
+    "score": 15,
+    "pubdate": "2025-08-27-14-46-35 +0000",
+    "source": "wapo",
+    "headline": "The FBI had agents “en route” to the shooting scene, Deputy Director Dan Bongino confirmed Monday...",
+    "link": "https://www.washingtonpost.com"
   }
 ]
