@@ -1,20 +1,20 @@
 [
   {
-    "score": 275,
+    "score": 281,
     "pubdate": "2025-08-27-00-11-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s attempt to fire Fed governor Lisa Cook pushes his drive for unilateral control of the U.S. government to new levels",
     "link": "https://www.wsj.com/politics/policy/trumps-fed-aggression-poses-new-test-on-limits-of-presidential-power-19085baf"
   },
   {
-    "score": 86,
+    "score": 87,
     "pubdate": "2025-08-27-01-00-00 +0000",
     "source": "wsj",
     "headline": "The first Black woman to serve as a Federal Reserve Board governor is at the center of an unprecedented power struggle pitting the independence of the bank against the authority of the president",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-c4363d87"
   },
   {
-    "score": 81,
+    "score": 85,
     "pubdate": "2025-08-26-13-35-35 +0000",
     "source": "nypost",
     "headline": "Netanyahu calls deadly double strike on Gaza hospital that killed 20 people — including 5 journalists — a ‘tragic mishap’",
@@ -36,20 +36,27 @@
   },
   {
     "score": 49,
+    "pubdate": "2025-08-26-17-44-17 +0000",
+    "source": "nypost",
+    "headline": "Trump says he wants DOJ to seek death penalty for all DC murders: ‘Capital punishment’",
+    "link": "https://nypost.com/2025/08/26/us-news/trump-says-he-wants-doj-to-seek-death-penalty-for-all-dc-murders/"
+  },
+  {
+    "score": 49,
     "pubdate": "2025-08-27-11-39-04 +0000",
     "source": "bbc",
     "headline": "Denmark summons top US diplomat over alleged Greenland influence operation",
     "link": "https://www.bbc.com/news/articles/c0j9l08902eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2025-08-26-19-43-01 +0000",
-    "source": "nypost",
-    "headline": "Trump insists Russia refusal to meet Ukraine’s Zelensky ‘doesn’t matter’: ‘It’s all bulls—t’",
-    "link": "https://nypost.com/2025/08/26/us-news/trump-insists-russia-refusal-to-deal-with-zelensky-doesnt-matter-everybodys-posturing/"
+    "score": 48,
+    "pubdate": "2025-08-26-18-57-55 +0000",
+    "source": "nyt",
+    "headline": "Russia and Ukraine Target Energy Sites, Seeking Leverage Away From the Front",
+    "link": "https://www.nytimes.com/2025/08/26/world/europe/russia-ukraine-energy-war.html"
   },
   {
-    "score": 46,
+    "score": 47,
     "pubdate": "2025-08-26-21-51-00 +0000",
     "source": "wsj",
     "headline": "Canada’s manufacturers and wholesalers look to be steadying after taking a hit this year from trade uncertainty and higher tariffs, with early estimates of sales suggesting a tailwind for a sluggish economy entering the third quarter",
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Fed breaks silence on Trump’s firing of Lisa Cook, says she wants a court to decide if she can stay in job",
     "link": "https://nypost.com/2025/08/26/business/fed-breaks-silence-on-trumps-firing-of-lisa-cook/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-27-00-48-13 +0000",
-    "source": "bbc",
-    "headline": "Watch: SpaceX Starship completes successful test flight",
-    "link": "https://www.bbc.com/news/videos/cd0dxg4kxg1o?at_medium=RSS&at_campaign=rss"
   }
 ]
