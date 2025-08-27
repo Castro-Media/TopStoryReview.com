@@ -1,6 +1,6 @@
 [
   {
-    "score": 250,
+    "score": 241,
     "pubdate": "2025-08-27-00-11-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s attempt to fire Fed governor Lisa Cook pushes his drive for unilateral control of the U.S. government to new levels",
@@ -14,18 +14,18 @@
     "link": "https://www.washingtonpost.com/nation/2025/08/27/minneapolis-shooting-annunciation-catholic-school/"
   },
   {
-    "score": 81,
-    "pubdate": "2025-08-27-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The first Black woman to serve as a Federal Reserve Board governor is at the center of an unprecedented power struggle pitting the independence of the bank against the authority of the president",
-    "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-c4363d87"
-  },
-  {
     "score": 78,
     "pubdate": "2025-08-27-11-15-50 +0000",
     "source": "cbc",
     "headline": "Denmark summons top U.S. diplomat after reports of American influence operations in Greenland",
     "link": "https://www.cbc.ca/news/world/denmark-us-greenland-diplomatic-row-1.7618702?cmp=rss"
+  },
+  {
+    "score": 77,
+    "pubdate": "2025-08-27-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The first Black woman to serve as a Federal Reserve Board governor is at the center of an unprecedented power struggle pitting the independence of the bank against the authority of the president",
+    "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-c4363d87"
   },
   {
     "score": 69,
@@ -35,25 +35,18 @@
     "link": "https://www.nytimes.com/2025/08/26/world/middleeast/israel-hospital-attack-gaza-camera-hamas.html"
   },
   {
-    "score": 63,
+    "score": 61,
     "pubdate": "2025-08-27-16-53-21 +0000",
     "source": "wapo",
     "headline": "Madie Brandt was on her way to work Wednesday morning when her car was swarmed with...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2025-08-27-13-51-00 +0000",
     "source": "nypost",
     "headline": "Trump administration announces it’s going to run Washington, DC’s Union Station amid crime crackdown in city",
     "link": "https://nypost.com/2025/08/27/us-news/trump-administration-plans-to-reclaim-control-over-washington-dcs-union-station-amid-crime-crackdown-in-city/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-08-26-19-43-01 +0000",
-    "source": "nypost",
-    "headline": "Trump insists Russia refusal to meet Ukraine’s Zelensky ‘doesn’t matter’: ‘It’s all bulls—t’",
-    "link": "https://nypost.com/2025/08/26/us-news/trump-insists-russia-refusal-to-deal-with-zelensky-doesnt-matter-everybodys-posturing/"
   },
   {
     "score": 51,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "A Beijing-linked espionage campaign that hit U.S. telecom companies and swept up Donald Trump’s phone calls actually targeted more than 80 countries, reaching across the globe",
     "link": "https://www.wsj.com/politics/national-security/chinese-spies-hit-more-than-80-countries-in-salt-typhoon-breach-fbi-reveals-59b2108f"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-08-27-18-34-05 +0000",
+    "source": "nypost",
+    "headline": "Mom of Minneapolis mass shooter Robin Westman worked at Catholic school where he opened fire, killing 2 kids: police",
+    "link": "https://nypost.com/2025/08/27/us-news/mom-of-minneapolis-mass-shooter-robin-westman-worked-at-catholic-school-where-he-opened-fire-killing-2-kids-police/"
   }
 ]
