@@ -29,13 +29,6 @@
   },
   {
     "score": 116,
-    "pubdate": "2025-08-26-21-51-00 +0000",
-    "source": "wsj",
-    "headline": "Canada’s manufacturers and wholesalers look to be steadying after taking a hit this year from trade uncertainty and higher tariffs, with early estimates of sales suggesting a tailwind for a sluggish economy entering the third quarter",
-    "link": "https://www.wsj.com/articles/canada-factory-wholesale-sales-look-to-build-on-recovery-in-july-62f3b658"
-  },
-  {
-    "score": 116,
     "pubdate": "2025-08-26-23-17-20 +0000",
     "source": "bbc",
     "headline": "'I thought it was the end of my life': Inside Israel's attack on Iran's Evin Prison",
@@ -47,6 +40,13 @@
     "source": "wsj",
     "headline": "The first Black woman to serve as a Federal Reserve Board governor is at the center of an unprecedented power struggle pitting the independence of the bank against the authority of the president",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-c4363d87"
+  },
+  {
+    "score": 116,
+    "pubdate": "2025-08-26-21-51-00 +0000",
+    "source": "wsj",
+    "headline": "Canada’s manufacturers and wholesalers look to be steadying after taking a hit this year from trade uncertainty and higher tariffs, with early estimates of sales suggesting a tailwind for a sluggish economy entering the third quarter",
+    "link": "https://www.wsj.com/articles/canada-factory-wholesale-sales-look-to-build-on-recovery-in-july-62f3b658"
   },
   {
     "score": 100,
