@@ -1,24 +1,17 @@
 [
   {
-    "score": 241,
+    "score": 229,
     "pubdate": "2025-08-27-00-11-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s attempt to fire Fed governor Lisa Cook pushes his drive for unilateral control of the U.S. government to new levels",
     "link": "https://www.wsj.com/politics/policy/trumps-fed-aggression-poses-new-test-on-limits-of-presidential-power-19085baf"
   },
   {
-    "score": 124,
-    "pubdate": "2025-08-27-18-41-58 +0000",
-    "source": "wapo",
-    "headline": "Live updates: Two children dead, 17 injured in shooting during Mass at Minneapolis Catholic school",
-    "link": "https://www.washingtonpost.com/nation/2025/08/27/minneapolis-shooting-annunciation-catholic-school/"
-  },
-  {
-    "score": 78,
-    "pubdate": "2025-08-27-11-15-50 +0000",
-    "source": "cbc",
-    "headline": "Denmark summons top U.S. diplomat after reports of American influence operations in Greenland",
-    "link": "https://www.cbc.ca/news/world/denmark-us-greenland-diplomatic-row-1.7618702?cmp=rss"
+    "score": 147,
+    "pubdate": "2025-08-27-18-34-05 +0000",
+    "source": "nypost",
+    "headline": "Mom of Minneapolis mass shooter Robin Westman worked at Catholic school where he opened fire, killing 2 kids: police",
+    "link": "https://nypost.com/2025/08/27/us-news/mom-of-minneapolis-mass-shooter-robin-westman-worked-at-catholic-school-where-he-opened-fire-killing-2-kids-police/"
   },
   {
     "score": 77,
@@ -28,11 +21,18 @@
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-c4363d87"
   },
   {
-    "score": 69,
-    "pubdate": "2025-08-27-09-28-18 +0000",
-    "source": "nyt",
-    "headline": "Israel Links Deadly Hospital Attack in Gaza to Hamas Surveillance Camera",
-    "link": "https://www.nytimes.com/2025/08/26/world/middleeast/israel-hospital-attack-gaza-camera-hamas.html"
+    "score": 76,
+    "pubdate": "2025-08-27-11-15-50 +0000",
+    "source": "cbc",
+    "headline": "Denmark summons top U.S. diplomat after reports of American influence operations in Greenland",
+    "link": "https://www.cbc.ca/news/world/denmark-us-greenland-diplomatic-row-1.7618702?cmp=rss"
+  },
+  {
+    "score": 74,
+    "pubdate": "2025-08-27-15-37-54 +0000",
+    "source": "wapo",
+    "headline": "Six patients from the shooting have been transferred to Children’s Minnesota — Minneapolis Hospital, a hospital...",
+    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 61,
@@ -42,11 +42,25 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 54,
+    "score": 61,
+    "pubdate": "2025-08-27-09-28-18 +0000",
+    "source": "nyt",
+    "headline": "Israel Links Deadly Hospital Attack in Gaza to Hamas Surveillance Camera",
+    "link": "https://www.nytimes.com/2025/08/26/world/middleeast/israel-hospital-attack-gaza-camera-hamas.html"
+  },
+  {
+    "score": 56,
     "pubdate": "2025-08-27-13-51-00 +0000",
     "source": "nypost",
     "headline": "Trump administration announces it’s going to run Washington, DC’s Union Station amid crime crackdown in city",
     "link": "https://nypost.com/2025/08/27/us-news/trump-administration-plans-to-reclaim-control-over-washington-dcs-union-station-amid-crime-crackdown-in-city/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-08-27-19-31-00 +0000",
+    "source": "wapo",
+    "headline": "There have been seven school-related shootings this year that killed one student and injured seven others....",
+    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 51,
@@ -54,19 +68,5 @@
     "source": "bbc",
     "headline": "Kpop Demon Hunters becomes Netflix's most viewed film ever",
     "link": "https://www.bbc.com/news/articles/c1kz12v08l1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-27-14-30-00 +0000",
-    "source": "wsj",
-    "headline": "A Beijing-linked espionage campaign that hit U.S. telecom companies and swept up Donald Trump’s phone calls actually targeted more than 80 countries, reaching across the globe",
-    "link": "https://www.wsj.com/politics/national-security/chinese-spies-hit-more-than-80-countries-in-salt-typhoon-breach-fbi-reveals-59b2108f"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-08-27-18-34-05 +0000",
-    "source": "nypost",
-    "headline": "Mom of Minneapolis mass shooter Robin Westman worked at Catholic school where he opened fire, killing 2 kids: police",
-    "link": "https://nypost.com/2025/08/27/us-news/mom-of-minneapolis-mass-shooter-robin-westman-worked-at-catholic-school-where-he-opened-fire-killing-2-kids-police/"
   }
 ]
