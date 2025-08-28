@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2025-08-28-08-55-09 +0000",
+    "score": 27,
+    "pubdate": "2025-08-28-10-18-40 +0000",
+    "source": "nyt",
+    "headline": "Relics From an Ancient Egyptian ‘Party Town’ Are Pulled Out of the Sea",
+    "link": "https://www.nytimes.com/2025/08/28/world/middleeast/egypt-alexandria-sunken-city.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-08-28-10-36-36 +0000",
     "source": "bbc",
-    "headline": "Fourteen killed in Russian drone and missile attack on Kyiv, says Ukraine",
-    "link": "https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss"
+    "headline": "'My friend got hit in the back': Witnesses describe terror of US school shooting",
+    "link": "https://www.bbc.com/news/articles/cev2w1elx7wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-08-28-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Beverly Hills joins Trump's list of crime-ridden cities. Really? 'I've never felt unsafe here'",
+    "link": "https://www.latimes.com/california/story/2025-08-28/are-beverly-hills-residents-leaving-their-car-doors-open-for-vandals-president-trump-seems-to-think-so"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-28-10-42-56 +0000",
+    "source": "nyt",
+    "headline": "Russian Missile and Drone Attack Kills at Least 15 in Kyiv",
+    "link": "https://www.nytimes.com/2025/08/28/world/europe/ukraine-russia-strikes.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-08-28-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "America is not ready for influx of hyper-deadly new Narcan-resistant opioid from China, top DEA agent warns",
+    "link": "https://nypost.com/2025/08/28/us-news/america-not-ready-to-combat-nitazene-synthetic-opioids-dea-agent/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-08-28-10-35-40 +0000",
+    "source": "nypost",
+    "headline": "Cal Fire captain accused of killing girlfriend and her son to ‘prevent’ them from testifying against him for another crime",
+    "link": "https://nypost.com/2025/08/28/us-news/cal-fire-captain-darin-mcfarlin-accused-of-killing-girlfriend-and-her-son-to-prevent-them-from-testifying-against-him-for-another-crime/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-28-09-58-18 +0000",
+    "source": "nyt",
+    "headline": "Kim Jong-un to be Among U.S. Rivals Convening in Beijing",
+    "link": "https://www.nytimes.com/2025/08/28/world/asia/kim-jong-un-military-parade-beijing.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-08-28-10-27-07 +0000",
+    "source": "nypost",
+    "headline": "Police officer killed by fleeing suspect while deploying stop sticks during high-speed chase",
+    "link": "https://nypost.com/2025/08/28/us-news/kansas-city-police-officer-killed-by-fleeing-suspect-while-deploying-stop-sticks-during-high-speed-chase/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-08-28-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Chabria: Why Trump's death penalty threat is dangerous to all of us",
+    "link": "https://www.latimes.com/california/story/2025-08-28/chabria-column-trump-death-penalty-threat-dc"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-28-10-37-39 +0000",
+    "source": "bbc",
+    "headline": "Electric cars eligible for £3,750 discount announced",
+    "link": "https://www.bbc.com/news/articles/cvgvywyev1do?at_medium=RSS&at_campaign=rss"
   }
 ]
