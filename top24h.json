@@ -1,20 +1,20 @@
 [
   {
-    "score": 243,
+    "score": 238,
     "pubdate": "2025-08-28-16-12-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-trump-lawsuit-fed-reserve-62f1ef95"
   },
   {
-    "score": 129,
-    "pubdate": "2025-08-28-08-06-34 +0000",
-    "source": "bbc",
-    "headline": "FBI investigates Minneapolis school shooting as anti-Catholic hate crime",
-    "link": "https://www.bbc.com/news/articles/c7760x87r4po?at_medium=RSS&at_campaign=rss"
+    "score": 114,
+    "pubdate": "2025-08-28-11-59-49 +0000",
+    "source": "nypost",
+    "headline": "Minneapolis school shooter Robin Westman confessed he was ‘tired of being trans’: ‘I wish I never brain-washed myself’",
+    "link": "https://nypost.com/2025/08/28/us-news/minneapolis-school-shooter-robin-westman-confessed-he-was-tired-of-being-trans/"
   },
   {
-    "score": 104,
+    "score": 95,
     "pubdate": "2025-08-28-16-31-00 +0000",
     "source": "wsj",
     "headline": "Susan Monarez had two lines she wouldn’t cross when she was sworn in as CDC director, a former acting CDC director says",
@@ -28,32 +28,18 @@
     "link": "https://nypost.com/2025/08/27/world-news/russian-ballistic-missiles-hit-kyiv-in-large-scale-attack/"
   },
   {
+    "score": 70,
+    "pubdate": "2025-08-27-21-42-55 +0000",
+    "source": "wapo",
+    "headline": "Children’s Minnesota Hospital-Minneapolis said four shooting victims had been discharged as of Wednesday afternoon. Three children...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
     "score": 68,
     "pubdate": "2025-08-28-12-08-04 +0000",
     "source": "bbc",
     "headline": "Blair joins White House meeting with Trump on post-war Gaza",
     "link": "https://www.bbc.com/news/articles/c4gmrxd8ryno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-08-28-11-44-53 +0000",
-    "source": "nypost",
-    "headline": "Minneapolis mass shooter Robin Westman’s pro-trans lawmaker uncle wished ‘he had shot me instead of innocent schoolchildren’",
-    "link": "https://nypost.com/2025/08/28/us-news/minneapolis-mass-shooter-robin-westman-uncle-kentucky-gop-rep-bob-heleringer-wished-he-was-shot-instead-of-annunciation-church-schoolchildren/"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-08-27-17-31-48 +0000",
-    "source": "nypost",
-    "headline": "Denmark summons top US envoy to protest actions of Trump allies in Greenland",
-    "link": "https://nypost.com/2025/08/27/us-news/denmark-summons-top-us-envoy-to-protest-actions-of-trump-allies-in-greenland/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-08-27-19-31-00 +0000",
-    "source": "wapo",
-    "headline": "There have been seven school-related shootings this year that killed one student and injured seven others....",
-    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 50,
@@ -63,7 +49,21 @@
     "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
+    "score": 45,
+    "pubdate": "2025-08-27-19-31-00 +0000",
+    "source": "wapo",
+    "headline": "There have been seven school-related shootings this year that killed one student and injured seven others....",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-08-27-18-30-09 +0000",
+    "source": "nyt",
+    "headline": "Denmark Apologizes After Involuntary Birth Control Scandal in Greenland",
+    "link": "https://www.nytimes.com/2025/08/27/world/europe/denmark-involuntary-birth-control-greenland-apology.html"
+  },
+  {
+    "score": 40,
     "pubdate": "2025-08-28-16-28-40 +0000",
     "source": "bbc",
     "headline": "European leaders outraged after Russian strikes kill 19 and damage EU's HQ",
