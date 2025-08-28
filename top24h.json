@@ -1,45 +1,38 @@
 [
   {
-    "score": 205,
-    "pubdate": "2025-08-28-20-35-00 +0000",
+    "score": 217,
+    "pubdate": "2025-08-28-20-52-21 +0000",
+    "source": "nypost",
+    "headline": "Andrew Cuomo claims ‘President Trump will wind up being Mayor Trump’ if Mamdani wins election as part of NYC takeover",
+    "link": "https://nypost.com/2025/08/28/us-news/cuomo-claims-trump-will-target-nyc-if-mamdani-wins-as-he-shifts-blame-on-bail-reforms-he-passed-as-gov/"
+  },
+  {
+    "score": 109,
+    "pubdate": "2025-08-28-21-40-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-trump-lawsuit-fed-reserve-62f1ef95"
   },
   {
-    "score": 96,
+    "score": 102,
     "pubdate": "2025-08-28-03-19-08 +0000",
     "source": "nypost",
     "headline": "Russian ballistic missiles hit Kyiv in large-scale attack, killing at least 17 as Zelensky calls for ‘new, tough sanctions’ against Putin",
     "link": "https://nypost.com/2025/08/27/world-news/russian-ballistic-missiles-hit-kyiv-in-large-scale-attack/"
   },
   {
-    "score": 93,
+    "score": 86,
     "pubdate": "2025-08-28-19-06-50 +0000",
     "source": "nypost",
     "headline": "Minneapolis school shooting victim’s mother was a nurse treating victims when her 12-year-old daughter was shot",
     "link": "https://nypost.com/2025/08/28/us-news/minneapolis-school-shooting-victims-mother-was-a-nurse-treating-victims-when-her-12-year-old-daughter-was-shot-by-robin-westman/"
   },
   {
-    "score": 66,
+    "score": 62,
     "pubdate": "2025-08-28-04-19-34 +0000",
     "source": "nypost",
     "headline": "Jared Kushner and Tony Blair join Trump for Gaza ‘policy meeting’ at the White House",
     "link": "https://nypost.com/2025/08/28/us-news/jared-kushner-and-tony-blair-join-trump-for-gaza-policy-meeting-at-the-white-house/"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-08-28-18-47-27 +0000",
-    "source": "nypost",
-    "headline": "Mark Zuckerberg pressed Trump on digital taxes before EU tariff threat: report",
-    "link": "https://nypost.com/2025/08/28/business/mark-zuckerberg-pressed-trump-on-digital-taxes-before-eu-tariff-threat-report/"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-08-28-20-07-42 +0000",
-    "source": "nypost",
-    "headline": "Transgender Minneapolis shooter Robin Westman indiscriminately fired 116 rifle rounds at children who he ‘wanted to watch suffer’",
-    "link": "https://nypost.com/2025/08/28/us-news/minneapolis-shooter-robin-westman-indiscriminately-fired-116-rifle-rounds-at-children-who-he-wanted-to-watch-suffer/"
   },
   {
     "score": 52,
@@ -49,24 +42,31 @@
     "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 51,
-    "pubdate": "2025-08-28-18-13-08 +0000",
-    "source": "latimes",
-    "headline": "ICE will 'ramp up' immigration raids in Los Angeles, other 'sanctuary cities,' border advisor says",
-    "link": "https://www.latimes.com/california/story/2025-08-28/la-me-border-czar-ice"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-08-27-22-03-43 +0000",
-    "source": "cbc",
-    "headline": "CDC director Susan Monarez is being ousted less than a month after she was sworn in",
-    "link": "https://www.cbc.ca/news/world/cdc-director-susan-monarez-ousted-1.7619432?cmp=rss"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-27-21-01-42 +0000",
+    "score": 52,
+    "pubdate": "2025-08-28-18-47-27 +0000",
     "source": "nypost",
-    "headline": "Angry Cracker Barrel workers dish on skimpy pay and ‘frozen’ food that’s passed off as homestyle cooking: ‘in a bag off a truck’",
-    "link": "https://nypost.com/2025/08/27/business/angry-cracker-barrel-workers-dish-on-skimpy-pay-and-frozen-food-thats-passed-off-as-home-cooking/"
+    "headline": "Mark Zuckerberg pressed Trump on digital taxes before EU tariff threat: report",
+    "link": "https://nypost.com/2025/08/28/business/mark-zuckerberg-pressed-trump-on-digital-taxes-before-eu-tariff-threat-report/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-08-28-13-46-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump fired Robert Primus, a board member of the railroad regulator weighing the proposed merger of Union Pacific and Norfolk Southern. Primus said he plans to challenge the termination.",
+    "link": "https://www.wsj.com/politics/policy/trump-fires-board-member-of-regulator-weighing-rail-merger-4b108713"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-08-28-20-42-19 +0000",
+    "source": "nyt",
+    "headline": "RFK Jr. Sought to Fire CDC Director Susan Monarez Over Vaccine Policy",
+    "link": "https://www.nytimes.com/2025/08/28/health/rfk-jr-susan-monarez-cdc-vaccines.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-08-28-10-18-40 +0000",
+    "source": "nyt",
+    "headline": "Relics From an Ancient Egyptian ‘Party Town’ Are Pulled Out of the Sea",
+    "link": "https://www.nytimes.com/2025/08/28/world/middleeast/egypt-alexandria-sunken-city.html"
   }
 ]
