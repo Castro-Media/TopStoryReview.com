@@ -1,5 +1,245 @@
 [
   {
+    "headline": "Denmark Summons U.S. Envoy Over Greenland Espionage Allegations",
+    "link": "https://www.nytimes.com/2025/08/27/world/europe/trump-denmark-greenland-us-embassy.html",
+    "source": "nyt",
+    "pubdate": "2025-08-28-01-12-12 +0000"
+  },
+  {
+    "headline": "Denmark Summons U.S. Envoy Over Greenland Espionage Allegations",
+    "link": "https://www.nytimes.com/2025/08/27/world/europe/trump-denmark-greenland-us-embassy.html",
+    "source": "nyt",
+    "pubdate": "2025-08-28-01-12-12 +0000"
+  },
+  {
+    "headline": "Bank of Korea Stands Pat for Second Time; Lifts Growth Forecast",
+    "link": "https://www.wsj.com/articles/bank-of-korea-stands-pat-for-second-time-lifts-growth-forecast-415a43d8",
+    "source": "wsj",
+    "pubdate": "2025-08-28-01-07-00 +0000"
+  },
+  {
+    "headline": "Live: Vigils tonight after shooting killed two children, wounded 17",
+    "link": "https://www.startribune.com/minneapolis-shooting-annunciation-church/601462164",
+    "source": "startribune",
+    "pubdate": "2025-08-28-01-06-14 +0000"
+  },
+  {
+    "headline": "Live updates: 2 children killed, 17 people injured at Minneapolis Catholic school Mass",
+    "link": "https://www.washingtonpost.com/nation/2025/08/27/minneapolis-shooting-annunciation-catholic-school/",
+    "source": "wapo",
+    "pubdate": "2025-08-28-01-05-35 +0000"
+  },
+  {
+    "headline": "Children prayed for ‘a future filled with hope.’ Then the gunfire began.",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-08-28-01-05-35 +0000"
+  },
+  {
+    "headline": "Podcast: ‘I got down and ran’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-08-28-01-04-27 +0000"
+  },
+  {
+    "headline": "Inside the Minneapolis Catholic School Shooting",
+    "link": "https://www.wsj.com/us-news/minnesota-school-shooting-annunciation-catholic-minneapolis-281597d5",
+    "source": "wsj",
+    "pubdate": "2025-08-28-01-04-00 +0000"
+  },
+  {
+    "headline": "Inside the Minneapolis Catholic School Shooting",
+    "link": "https://www.wsj.com/us-news/minnesota-school-shooting-annunciation-catholic-minneapolis-281597d5",
+    "source": "wsj",
+    "pubdate": "2025-08-28-01-04-00 +0000"
+  },
+  {
+    "headline": "In his first term, administration officials regularly curbed President Trump’s impulses. In his second, Trump has been surrounded by fewer people who try to dissuade him",
+    "link": "https://www.wsj.com/politics/elections/in-trumps-second-term-a-bolder-president-charges-ahead-unchecked-1c8c5b79",
+    "source": "wsj",
+    "pubdate": "2025-08-28-01-00-00 +0000"
+  },
+  {
+    "headline": "The U.K. Tried to Clamp Down on Migration—and Wound Up With an Unprecedented Wave",
+    "link": "https://www.wsj.com/world/uk/britain-farage-migration-debacle-245baf3e",
+    "source": "wsj",
+    "pubdate": "2025-08-28-01-00-00 +0000"
+  },
+  {
+    "headline": "The Go-To Lawyer for Trump’s Targets",
+    "link": "https://www.wsj.com/us-news/law/the-go-to-lawyer-for-trumps-targets-76616b49",
+    "source": "wsj",
+    "pubdate": "2025-08-28-01-00-00 +0000"
+  },
+  {
+    "headline": "American Dream megamall sued in violation of 17th century NJ blue laws for selling clothes on Sunday",
+    "link": "https://nypost.com/2025/08/27/us-news/american-dream-megamall-sued-in-violation-of-17th-century-nj-blue-laws-for-selling-clothes-on-sunday/",
+    "source": "nypost",
+    "pubdate": "2025-08-28-00-59-08 +0000"
+  },
+  {
+    "headline": "CDC Director Susan Monarez Resists Ouster as Other Officials Resign",
+    "link": "https://www.nytimes.com/2025/08/27/health/cdc-monarez-kennedy-vaccines.html",
+    "source": "nyt",
+    "pubdate": "2025-08-28-00-55-56 +0000"
+  },
+  {
+    "headline": "Hollywood producer stole from films, ran 'ponzi-like scheme,' feds say",
+    "link": "https://www.latimes.com/california/story/2025-08-27/hollywood-producer-stole-from-films-defrauded-victims-out-of-12-million-feds-say",
+    "source": "latimes",
+    "pubdate": "2025-08-28-00-49-06 +0000"
+  },
+  {
+    "headline": "Tulsi Gabbard surprised CIA officials last week when she included an undercover senior CIA officer on a roster of 37 current and former officials she stripped of security clearances",
+    "link": "https://www.wsj.com/politics/national-security/tulsi-gabbard-blindsided-cia-over-revoking-clearance-of-undercover-officer-47b7b160",
+    "source": "wsj",
+    "pubdate": "2025-08-28-00-45-00 +0000"
+  },
+  {
+    "headline": "Neal: Anderson Arena will be a game-changer for St. Thomas",
+    "link": "https://www.startribune.com/lee-and-penny-anderson-arena-st-thomas-basketball-hockey/601448702",
+    "source": "startribune",
+    "pubdate": "2025-08-28-00-37-27 +0000"
+  },
+  {
+    "headline": "Minneapolis Suspect Knew Her Target, but Motive Is a Mystery",
+    "link": "https://www.nytimes.com/2025/08/27/us/minneapolis-school-shooting-suspect-gunman.html",
+    "source": "nyt",
+    "pubdate": "2025-08-28-00-36-26 +0000"
+  },
+  {
+    "headline": "Federal grand jury indicts two SoCal medical staffers on charges of interfering with ICE raid",
+    "link": "https://www.latimes.com/california/story/2025-08-27/two-ontario-medical-staffers-charged-with-interfering-with-ice-operation",
+    "source": "latimes",
+    "pubdate": "2025-08-28-00-35-06 +0000"
+  },
+  {
+    "headline": "The shooter was employed for “several months” this year at a cannabis dispensary in Minnesota called...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-08-28-00-35-04 +0000"
+  },
+  {
+    "headline": "Susan Monarez, the director of the Centers for Disease Control and Prevention, has been pushed out of the job",
+    "link": "https://www.wsj.com/politics/policy/cdc-director-susan-monarez-removed-from-post-2f60725c",
+    "source": "wsj",
+    "pubdate": "2025-08-28-00-35-00 +0000"
+  },
+  {
+    "headline": "The real reason so many people in the US have unhealthy diets",
+    "link": "https://48hills.org/2025/08/the-real-reason-so-many-people-in-the-us-have-unhealthy-diets/",
+    "source": "48hills",
+    "pubdate": "2025-08-28-00-27-25 +0000"
+  },
+  {
+    "headline": "Trump admin fines illegal migrants $6.1B for refusing deportation orders: report",
+    "link": "https://nypost.com/2025/08/27/us-news/trump-admin-fines-illegal-migrants-6-1b-for-refusing-deportation-orders-report/",
+    "source": "nypost",
+    "pubdate": "2025-08-28-00-27-15 +0000"
+  },
+  {
+    "headline": "Trump admin fines illegal migrants $6.1B for refusing deportation orders: report",
+    "link": "https://nypost.com/2025/08/27/us-news/trump-admin-fines-illegal-migrants-6-1b-for-refusing-deportation-orders-report/",
+    "source": "nypost",
+    "pubdate": "2025-08-28-00-27-15 +0000"
+  },
+  {
+    "headline": "Shooter posted rambling video manifesto",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-08-28-00-24-23 +0000"
+  },
+  {
+    "headline": "After lengthy delay, Mayor Bass names new film liaison for Los Angeles",
+    "link": "https://www.latimes.com/california/story/2025-08-27/bass-names-new-city-film-liaison-steve-kang",
+    "source": "latimes",
+    "pubdate": "2025-08-28-00-21-32 +0000"
+  },
+  {
+    "headline": "Children prayed for ‘a future filled with hope.’ Then the gunfire began.",
+    "link": "https://www.washingtonpost.com/nation/2025/08/27/annunciation-church-school-shooting-minneapolis/",
+    "source": "wapo",
+    "pubdate": "2025-08-28-00-21-22 +0000"
+  },
+  {
+    "headline": "A Casualty of Trump’s Tariffs: India’s Nascent Solar Industry",
+    "link": "https://www.nytimes.com/2025/08/27/climate/india-solar-panels-tariff-exports.html",
+    "source": "nyt",
+    "pubdate": "2025-08-28-00-18-49 +0000"
+  },
+  {
+    "headline": "Faculty acted ‘within seconds’ to shield students from bullets, the school said.",
+    "link": "https://www.nytimes.com/live/2025/08/27/us/minneapolis-church-shooting/faculty-acted-within-seconds-to-shield-students-from-bullets-the-school-said",
+    "source": "nyt",
+    "pubdate": "2025-08-28-00-16-36 +0000"
+  },
+  {
+    "headline": "Kyiv racking up possible bilateral summit locations ahead of Witkoff meeting as Russia drags its feet",
+    "link": "https://nypost.com/2025/08/27/us-news/kyiv-racking-up-possible-bilateral-summit-locations-ahead-of-witkoff-meeting/",
+    "source": "nypost",
+    "pubdate": "2025-08-28-00-07-00 +0000"
+  },
+  {
+    "headline": "Kyiv racking up possible bilateral summit locations ahead of Witkoff meeting as Russia drags its feet",
+    "link": "https://nypost.com/2025/08/27/us-news/kyiv-racking-up-possible-bilateral-summit-locations-ahead-of-witkoff-meeting/",
+    "source": "nypost",
+    "pubdate": "2025-08-28-00-07-00 +0000"
+  },
+  {
+    "headline": "A sixth-grader and her family are ‘trying to put the pieces together’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-08-28-00-06-31 +0000"
+  },
+  {
+    "headline": "Met Council votes to end Northstar commuter rail in January",
+    "link": "https://www.startribune.com/met-council-votes-end-northstar-rail/601456929",
+    "source": "startribune",
+    "pubdate": "2025-08-28-00-03-55 +0000"
+  },
+  {
+    "headline": "European countries to notify U.N. of ‘snapback’ sanctions on Iran",
+    "link": "https://www.washingtonpost.com/national-security/2025/08/27/iran-nuclear-program-snapback-sanctions/",
+    "source": "wapo",
+    "pubdate": "2025-08-28-00-02-29 +0000"
+  },
+  {
+    "headline": "After Cracker Barrel Uproar, Activist Investor Seizes the Moment",
+    "link": "https://www.wsj.com/business/retail/after-cracker-barrel-uproar-activist-investor-seizes-the-moment-6cfe8e66?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-08-28-00-00-00 +0000"
+  },
+  {
+    "headline": "Streetwise: Anyone concerned about Trump undermining Fed independence was surely already concerned, writes James Mackintosh",
+    "link": "https://www.wsj.com/economy/central-banking/five-reasons-the-market-doesnt-care-about-trump-firing-lisa-cook-0f647a03",
+    "source": "wsj",
+    "pubdate": "2025-08-28-00-00-00 +0000"
+  },
+  {
+    "headline": "First surviving victim in Minneapolis school shooting ID’d, now out of surgery",
+    "link": "https://nypost.com/2025/08/27/us-news/first-surviving-victim-in-minneapolis-school-shooting-idd-now-out-of-surgery/",
+    "source": "nypost",
+    "pubdate": "2025-08-27-23-56-56 +0000"
+  },
+  {
+    "headline": "Shooter who opened fire on Catholic school posted rambling videos",
+    "link": "https://www.washingtonpost.com/nation/2025/08/27/robin-westman-minneapolis-school-shooting/",
+    "source": "wapo",
+    "pubdate": "2025-08-27-23-55-11 +0000"
+  },
+  {
+    "headline": "Timeline of mass shooting at Minneapolis church",
+    "link": "https://www.startribune.com/timeline-annunciation-church-school-shooting-minneapolis/601462257",
+    "source": "startribune",
+    "pubdate": "2025-08-27-23-53-45 +0000"
+  },
+  {
+    "headline": "Authorities Respond to Reports of Shooting at Annunciation Church in Minneapolis",
+    "link": "https://www.nytimes.com/live/2025/08/27/us/minneapolis-church-shooting/annunciation-church-shooting-minneapolis",
+    "source": "nyt",
+    "pubdate": "2025-08-27-23-51-58 +0000"
+  },
+  {
     "headline": "Athletic event that allows steroids sues World Anti-Doping Agency, swimming governing bodies for $800 million",
     "link": "https://nypost.com/2025/08/27/sports/athletic-event-that-allows-steroids-sues-world-anti-doping-agency-swimming-governing-bodies-for-800-million/",
     "source": "nypost",
@@ -10,12 +250,6 @@
     "link": "https://www.nytimes.com/2025/08/27/us/minneapolis-shooting-reaction.html",
     "source": "nyt",
     "pubdate": "2025-08-27-23-49-39 +0000"
-  },
-  {
-    "headline": "Timeline of mass shooting at Minneapolis church",
-    "link": "https://www.startribune.com/timeline-annunciation-church-school-shooting-minneapolis/601462257",
-    "source": "startribune",
-    "pubdate": "2025-08-27-23-47-40 +0000"
   },
   {
     "headline": "Manhattan-sized interstellar object is covered in a layer of CO2, shocking scientists, NASA images reveal",
@@ -42,22 +276,10 @@
     "pubdate": "2025-08-27-23-45-35 +0000"
   },
   {
-    "headline": "Live: Vigils tonight after shooting killed two children, wounded 17",
-    "link": "https://www.startribune.com/minneapolis-shooting-annunciation-church/601462164",
-    "source": "startribune",
-    "pubdate": "2025-08-27-23-44-49 +0000"
-  },
-  {
-    "headline": "Susan Monarez, the director of the Centers for Disease Control and Prevention, has been pushed out of the job",
-    "link": "https://www.wsj.com/politics/policy/cdc-director-susan-monarez-removed-from-post-2f60725c",
-    "source": "wsj",
-    "pubdate": "2025-08-27-23-43-00 +0000"
-  },
-  {
-    "headline": "Authorities Respond to Reports of Shooting at Annunciation Church in Minneapolis",
-    "link": "https://www.nytimes.com/live/2025/08/27/us/minneapolis-church-shooting/annunciation-church-shooting-minneapolis",
-    "source": "nyt",
-    "pubdate": "2025-08-27-23-38-53 +0000"
+    "headline": "From boom to ban: The rise and fall of India's betting apps",
+    "link": "https://www.bbc.com/news/articles/cyvnlmde7dzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-27-23-43-31 +0000"
   },
   {
     "headline": "A pregnant woman's diary of escape from war zone: 'I prayed the baby wouldn't come'",
@@ -80,12 +302,6 @@
   {
     "headline": "Chicago archbishop calls for lawmakers to act on gun control",
     "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-08-27-23-33-05 +0000"
-  },
-  {
-    "headline": "Live updates: 2 children killed, 17 people injured at Minneapolis Catholic school Mass",
-    "link": "https://www.washingtonpost.com/nation/2025/08/27/minneapolis-shooting-annunciation-catholic-school/",
     "source": "wapo",
     "pubdate": "2025-08-27-23-33-05 +0000"
   },
@@ -126,6 +342,12 @@
     "pubdate": "2025-08-27-23-03-17 +0000"
   },
   {
+    "headline": "Woman says Zou raped her hours before other attack",
+    "link": "https://www.bbc.com/news/articles/c79l4z3v3p3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-27-23-01-51 +0000"
+  },
+  {
     "headline": "Minnesota Gov. Tim Walz (D) ordered flags to fly at half-staff indefinitely to honor the lives...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -150,10 +372,10 @@
     "pubdate": "2025-08-27-23-00-11 +0000"
   },
   {
-    "headline": "How Trump Administration Cuts Are Hurting National Parks",
-    "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-cuts-national-parks.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-22-59-18 +0000"
+    "headline": "MoD staff warned not to share hidden data before Afghan leak",
+    "link": "https://www.bbc.com/news/articles/cwy5e911j37o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-27-23-00-11 +0000"
   },
   {
     "headline": "How Trump Administration Cuts Are Hurting National Parks",
@@ -162,10 +384,10 @@
     "pubdate": "2025-08-27-22-59-18 +0000"
   },
   {
-    "headline": "A Casualty of Trump’s Tariffs: India’s Nascent Solar Industry",
-    "link": "https://www.nytimes.com/2025/08/27/climate/india-solar-panels-tariff-exports.html",
+    "headline": "How Trump Administration Cuts Are Hurting National Parks",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-cuts-national-parks.html",
     "source": "nyt",
-    "pubdate": "2025-08-27-22-54-20 +0000"
+    "pubdate": "2025-08-27-22-59-18 +0000"
   },
   {
     "headline": "Trump Raises Tariffs on India to 50% Over Russian Oil",
@@ -198,7 +420,7 @@
     "pubdate": "2025-08-27-22-47-05 +0000"
   },
   {
-    "headline": "Nvidia Breaks Sales Record Despite Chinese Trade Hiccups",
+    "headline": "Nvidia Predicts Cooler Growth After Sales Record",
     "link": "https://www.wsj.com/business/earnings/nvidia-nvda-q2-earnings-report-2026-2939143b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-27-22-43-00 +0000"
@@ -258,22 +480,10 @@
     "pubdate": "2025-08-27-22-37-57 +0000"
   },
   {
-    "headline": "Words of pain, caution from father whose family was hit in Eden Prairie by driver who fled",
-    "link": "https://www.startribune.com/words-of-pain-caution-from-father-whose-family-was-hit-in-eden-prairie-by-driver-who-fled/601461848",
-    "source": "startribune",
-    "pubdate": "2025-08-27-22-35-51 +0000"
-  },
-  {
     "headline": "Natural resources minister presses case for Canadian LNG exports to Europe",
     "link": "https://www.cbc.ca/news/politics/tim-hodgson-lng-port-european-markets-1.7619474?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-27-22-35-26 +0000"
-  },
-  {
-    "headline": "Bluestem, parent company of Fingerhut, to close St. Cloud hub",
-    "link": "https://www.startribune.com/bluestem-layoffs-st-cloud-eden-prairie-fingerhut/601462488",
-    "source": "startribune",
-    "pubdate": "2025-08-27-22-33-37 +0000"
   },
   {
     "headline": "Trump Administration Will Take Control of Union Station in D.C., Duffy Says",
@@ -336,18 +546,6 @@
     "pubdate": "2025-08-27-22-19-13 +0000"
   },
   {
-    "headline": "Denmark Summons U.S. Envoy Over Greenland Espionage Allegations",
-    "link": "https://www.nytimes.com/2025/08/27/world/europe/trump-denmark-greenland-us-embassy.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-22-17-32 +0000"
-  },
-  {
-    "headline": "Denmark Summons U.S. Envoy Over Greenland Espionage Allegations",
-    "link": "https://www.nytimes.com/2025/08/27/world/europe/trump-denmark-greenland-us-embassy.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-22-17-32 +0000"
-  },
-  {
     "headline": "After Threats, Mayors of Blue Cities Seek United Front Against Trump",
     "link": "https://www.nytimes.com/2025/08/27/us/politics/democrats-mayors-cities-trump-crime.html",
     "source": "nyt",
@@ -391,7 +589,7 @@
   },
   {
     "headline": "Susan Monarez out as CDC director less than a month after being sworn in",
-    "link": "https://www.cbc.ca/news/world/cdc-director-susan-monarez-1.7619432?cmp=rss",
+    "link": "https://www.cbc.ca/news/world/cdc-director-susan-monarez-ousted-1.7619432?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-27-22-03-43 +0000"
   },
@@ -492,12 +690,6 @@
     "pubdate": "2025-08-27-21-36-00 +0000"
   },
   {
-    "headline": "CDC Director Susan Monarez Departs After Just Weeks on the Job",
-    "link": "https://www.nytimes.com/2025/08/27/health/cdc-monarez-kennedy-vaccines.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-21-34-54 +0000"
-  },
-  {
     "headline": "Inside La Tomatina, the ‘world’s biggest food fight’ in Spain: Photos",
     "link": "https://nypost.com/2025/08/27/world-news/inside-la-tomatina-the-worlds-biggest-food-fight-in-spain-photos/",
     "source": "nypost",
@@ -510,13 +702,13 @@
     "pubdate": "2025-08-27-21-34-02 +0000"
   },
   {
-    "headline": "Trump administration presses rollback of 'Roadless Rule' on wild lands",
+    "headline": "Trump administration presses rollback of 'Roadless Rule' on wildlands",
     "link": "https://www.latimes.com/environment/story/2025-08-27/trump-administration-presses-rollback-roadless-rule-wild-forestland",
     "source": "latimes",
     "pubdate": "2025-08-27-21-32-26 +0000"
   },
   {
-    "headline": "L.A. City Council balks at request for $5 million for law firm in homelessness case",
+    "headline": "L.A. City Council balks at $5-million request for law firm in homelessness case",
     "link": "https://www.latimes.com/california/story/2025-08-27/city-council-declines-to-give-more-money-to-law-firm-in-homeless-case",
     "source": "latimes",
     "pubdate": "2025-08-27-21-31-15 +0000"
@@ -552,6 +744,12 @@
     "pubdate": "2025-08-27-21-21-18 +0000"
   },
   {
+    "headline": "Church, school at center of shooting is a south Minneapolis landmark",
+    "link": "https://www.startribune.com/annunciation-church-school-minneapolis/601462185",
+    "source": "startribune",
+    "pubdate": "2025-08-27-21-17-20 +0000"
+  },
+  {
     "headline": "Longest-Running Rafiki Says Goodbye to ‘The Lion King’",
     "link": "https://www.nytimes.com/2025/08/27/theater/tshidi-manye-lion-king-rafiki.html",
     "source": "nyt",
@@ -580,12 +778,6 @@
     "link": "https://www.latimes.com/delos/story/2025-08-27/fuerza-regida-street-mob-records-jop-csusb-scholarship",
     "source": "latimes",
     "pubdate": "2025-08-27-21-14-17 +0000"
-  },
-  {
-    "headline": "Shooter who opened fire during Catholic school Mass in Minneapolis identified",
-    "link": "https://www.washingtonpost.com/nation/2025/08/27/robin-westman-minneapolis-school-shooting/",
-    "source": "wapo",
-    "pubdate": "2025-08-27-21-14-09 +0000"
   },
   {
     "headline": "What we know about the Minneapolis Catholic school shooting",
@@ -708,7 +900,7 @@
     "pubdate": "2025-08-27-20-53-58 +0000"
   },
   {
-    "headline": "Leaders of California religious sect arrested after two members go missing",
+    "headline": "Leaders of California religious group arrested after two members go missing",
     "link": "https://www.latimes.com/california/story/2025-08-27/inland-empire-religious-group-arrests",
     "source": "latimes",
     "pubdate": "2025-08-27-20-53-20 +0000"
@@ -730,18 +922,6 @@
     "link": "https://www.nytimes.com/2025/08/27/us/alligator-alcatraz-immigration-center-empty.html",
     "source": "nyt",
     "pubdate": "2025-08-27-20-48-15 +0000"
-  },
-  {
-    "headline": "Two Children Killed in Minneapolis Catholic School Shooting",
-    "link": "https://www.wsj.com/us-news/minnesota-school-shooting-annunciation-catholic-minneapolis-281597d5",
-    "source": "wsj",
-    "pubdate": "2025-08-27-20-48-00 +0000"
-  },
-  {
-    "headline": "Two Children Killed in Minneapolis Catholic School Shooting",
-    "link": "https://www.wsj.com/us-news/minnesota-school-shooting-annunciation-catholic-minneapolis-281597d5",
-    "source": "wsj",
-    "pubdate": "2025-08-27-20-48-00 +0000"
   },
   {
     "headline": "Here's where remnants of Tropical Storm Juliette may hit Southern California this week",
@@ -828,10 +1008,10 @@
     "pubdate": "2025-08-27-20-34-51 +0000"
   },
   {
-    "headline": "Minneapolis mayor uses Catholic school shooting presser to speak out about transgender rights — as gunman ID’d as trans",
-    "link": "https://nypost.com/2025/08/27/us-news/minneapolis-mayor-uses-catholic-school-shooting-presser-to-speak-out-about-transgender-rights-as-gunman-robin-westman-idd-as-trans/",
-    "source": "nypost",
-    "pubdate": "2025-08-27-20-33-06 +0000"
+    "headline": "A Minnesota summer that started with a brazenly violent shooting ends with another one",
+    "link": "https://www.startribune.com/minneapolis-police-investigating-three-deadly-shootings-in-past-24-hours/601462100",
+    "source": "startribune",
+    "pubdate": "2025-08-27-20-31-01 +0000"
   },
   {
     "headline": "Murder suspect detained in Peru; wife's body was found dumped in Angeles National Forest",
@@ -846,12 +1026,6 @@
     "pubdate": "2025-08-27-20-26-01 +0000"
   },
   {
-    "headline": "Mom-and-pop NYC landlords fear getting stuck with unsellable properties if Mamdani wins: ‘The kiss of death’",
-    "link": "https://nypost.com/2025/08/27/real-estate/small-nyc-landlords-fear-inability-to-sell-if-mamdani-wins/",
-    "source": "nypost",
-    "pubdate": "2025-08-27-20-22-23 +0000"
-  },
-  {
     "headline": "Minneapolis Police Chief Brian O’Hara said there is no information on the shooter’s motive as of...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -862,12 +1036,6 @@
     "link": "https://www.bbc.com/news/articles/cpqv0zvnj0eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-27-20-20-04 +0000"
-  },
-  {
-    "headline": "Biotech CEO ‘shocked’ by Uber’s response after being left ‘for dead’ in assault by illegal Russian driver",
-    "link": "https://nypost.com/2025/08/27/us-news/biotech-ceo-left-stunned-by-ubers-response-to-alleged-assault-by-illegal-russian-driver/",
-    "source": "nypost",
-    "pubdate": "2025-08-27-20-16-25 +0000"
   },
   {
     "headline": "European leaders boost Moldova in face of 'relentless' Russia",
@@ -924,24 +1092,6 @@
     "pubdate": "2025-08-27-20-00-59 +0000"
   },
   {
-    "headline": "Through ups and downs, Gophers coach P.J. Fleck keeps promise on sustainability",
-    "link": "https://www.startribune.com/through-ups-and-downs-gophers-coach-pj-fleck-keeps-promise-on-sustainability/601455105",
-    "source": "startribune",
-    "pubdate": "2025-08-27-20-00-00 +0000"
-  },
-  {
-    "headline": "Trans Minneapolis shooter Robin Westman mused about slaughtering ‘filthy Zionist Jews’ in sick journal before deadly Catholic school massacre",
-    "link": "https://nypost.com/2025/08/27/us-news/robin-westman-mused-about-slaughtering-filthy-zionist-jews-in-sick-journal-before-deadly-catholic-school-shooting/",
-    "source": "nypost",
-    "pubdate": "2025-08-27-19-54-38 +0000"
-  },
-  {
-    "headline": "‘Spiritual Delusion’ Led to Father and Son’s Apparent Drownings, Sheriff Says",
-    "link": "https://www.nytimes.com/2025/08/26/us/ohio-lake-drowning-mother-son-spiritual.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-19-54-34 +0000"
-  },
-  {
     "headline": "Denmark apologises to Greenland's forced contraception victims",
     "link": "https://www.bbc.com/news/articles/c5yelp5466no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -970,12 +1120,6 @@
     "link": "https://nypost.com/2025/08/27/business/citi-wealth-boss-andy-sieg-denies-claims-he-threw-tirades-made-execs-cry/",
     "source": "nypost",
     "pubdate": "2025-08-27-19-39-01 +0000"
-  },
-  {
-    "headline": "Pope Leo XIV calls the shooting a ‘terrible tragedy’ and prays for the relatives of the dead",
-    "link": "https://www.startribune.com/pope-leo-xiv-calls-the-shooting-a-terrible-tragedy-and-prays-for-the-relatives-of-the-dead/601462530",
-    "source": "startribune",
-    "pubdate": "2025-08-27-19-37-52 +0000"
   },
   {
     "headline": "FBI identifies shooter, calls attack domestic terrorism",
@@ -1236,6 +1380,12 @@
     "pubdate": "2025-08-27-17-22-01 +0000"
   },
   {
+    "headline": "A brief look at mass shootings, school shootings in Minnesota",
+    "link": "https://www.startribune.com/a-brief-look-at-mass-shootings-in-minnesota/601462183",
+    "source": "startribune",
+    "pubdate": "2025-08-27-17-21-48 +0000"
+  },
+  {
     "headline": "EU deal fuelling Mauritania's abuse of migrants - rights group",
     "link": "https://www.bbc.com/news/articles/cnv7lyp05qzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1456,6 +1606,12 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2025-08-27-16-10-47 +0000"
+  },
+  {
+    "headline": "Thousands evacuated as 'exceptionally high' flooding devastates parts of Pakistan's Punjab",
+    "link": "https://www.bbc.com/news/articles/ckgywj819n7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-27-16-07-38 +0000"
   },
   {
     "headline": "Thousands evacuated as 'exceptionally high' flooding devastates parts of Pakistan's Punjab",
@@ -2154,12 +2310,6 @@
     "pubdate": "2025-08-27-11-00-00 +0000"
   },
   {
-    "headline": "Dizzying problem: Minnesota clinics treating more vertigo, imbalance",
-    "link": "https://www.startribune.com/dizzying-problem-minnesota-clinics-treating-more-vertigo-imbalance/601458136",
-    "source": "startribune",
-    "pubdate": "2025-08-27-11-00-00 +0000"
-  },
-  {
     "headline": "Real estate agent pokes fun at Twin Cities suburbs. Closings ensue.",
     "link": "https://www.startribune.com/minnesota-real-estate-agent-bryan-clapper-videos-twin-cities-suburbs/601451391",
     "source": "startribune",
@@ -2182,6 +2332,12 @@
     "link": "https://www.bbc.com/news/articles/c5ylv15xd0xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-27-10-57-46 +0000"
+  },
+  {
+    "headline": "Vast private zoo run by son of India's richest man faces inquiry",
+    "link": "https://www.bbc.com/news/articles/cgqn5jjk55no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-27-10-57-00 +0000"
   },
   {
     "headline": "Vast private zoo run by son of India's richest man faces inquiry",
@@ -2352,12 +2508,6 @@
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
   {
-    "headline": "Why COVID keeps roaring back every summer, even as pandemic fades from public view",
-    "link": "https://www.latimes.com/california/story/2025-08-27/why-covid-roars-back-every-summer-what-you-should-do",
-    "source": "latimes",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
     "headline": "On U.S. direction under Trump, Californians split sharply along partisan lines, poll finds",
     "link": "https://www.latimes.com/california/story/2025-08-27/la-times-berkeley-poll-trump-administration-tariffs-medicaid-high-speed-rail",
     "source": "latimes",
@@ -2376,8 +2526,8 @@
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
   {
-    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
-    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
+    "headline": "Why COVID keeps roaring back every summer, even as pandemic fades from public view",
+    "link": "https://www.latimes.com/california/story/2025-08-27/why-covid-roars-back-every-summer-what-you-should-do",
     "source": "latimes",
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
@@ -2394,10 +2544,22 @@
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
   {
+    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
+    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
+    "source": "latimes",
+    "pubdate": "2025-08-27-10-00-00 +0000"
+  },
+  {
     "headline": "A Peace Deal for Ukraine Could Test German Reluctance to Deploy Troops",
     "link": "https://www.nytimes.com/2025/08/26/world/europe/germany-ukraine-russia-peace-troops.html",
     "source": "nyt",
     "pubdate": "2025-08-27-09-49-04 +0000"
+  },
+  {
+    "headline": "Watch: Raging rivers cause destruction in parts of northern India",
+    "link": "https://www.bbc.com/news/videos/cp94eg1p7rvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-27-09-30-46 +0000"
   },
   {
     "headline": "Watch: Raging rivers cause destruction in parts of northern India",
@@ -2554,12 +2716,6 @@
     "link": "https://www.nytimes.com/2025/08/26/world/australia/australia-iran-antisemitic-attacks.html",
     "source": "nyt",
     "pubdate": "2025-08-27-08-59-35 +0000"
-  },
-  {
-    "headline": "Trump Calls for Death Penalty in All D.C. Murder Cases",
-    "link": "https://www.nytimes.com/2025/08/26/us/politics/trump-death-penalty-murder-dc.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-08-51-29 +0000"
   },
   {
     "headline": "Trump Calls for Death Penalty in All D.C. Murder Cases",
@@ -2784,12 +2940,6 @@
     "pubdate": "2025-08-27-04-42-33 +0000"
   },
   {
-    "headline": "10 FBI whistleblowers – who warned of ‘political weaponization’ and faced retaliation from Biden admin –  reach settlements with DOJ",
-    "link": "https://nypost.com/2025/08/27/us-news/10-fbi-whistleblowers-who-warned-of-political-weaponization-and-faced-retaliation-from-biden-admin-reach-settlements-with-doj/",
-    "source": "nypost",
-    "pubdate": "2025-08-27-04-42-25 +0000"
-  },
-  {
     "headline": "Princess Diana 90s time capsule contains Kylie CD and pocket TV",
     "link": "https://www.bbc.com/news/articles/cgqn5jzn2vgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2818,12 +2968,6 @@
     "link": "https://www.washingtonpost.com/world/2025/08/27/gaza-journalists-killed-israel/",
     "source": "wapo",
     "pubdate": "2025-08-27-04-00-05 +0000"
-  },
-  {
-    "headline": "Some FEMA employees put on leave following signing of dissent letter over capacity to respond to major disaster",
-    "link": "https://nypost.com/2025/08/26/us-news/some-fema-employees-put-on-leave-following-signing-of-dissent-letter-over-capacity-to-respond-to-major-disaster/",
-    "source": "nypost",
-    "pubdate": "2025-08-27-03-46-15 +0000"
   },
   {
     "headline": "Kpop Demon Hunters becomes Netflix's most viewed film ever",
@@ -2898,12 +3042,6 @@
     "pubdate": "2025-08-27-02-16-49 +0000"
   },
   {
-    "headline": "Australian Inflation Indicator Jumps, Backing RBA Caution on Rate Cuts",
-    "link": "https://www.wsj.com/economy/australian-inflation-indicator-jumps-backing-rba-caution-on-rate-cuts-206ea82b",
-    "source": "wsj",
-    "pubdate": "2025-08-27-02-14-00 +0000"
-  },
-  {
     "headline": "Homeless man kills mom of 3 with mallet after she invites him to stay in her London apartment",
     "link": "https://nypost.com/2025/08/26/world-news/uk-woman-killed-by-homeless-man-she-invited-to-stay-in-her-apartment/",
     "source": "nypost",
@@ -2932,161 +3070,5 @@
     "link": "https://www.washingtonpost.com/business/2025/08/26/spacex-starship-elon-musk-test-flight/",
     "source": "wapo",
     "pubdate": "2025-08-27-01-20-23 +0000"
-  },
-  {
-    "headline": "SpaceX Steers Starship to Space and Deploys Test Satellites in 10th Launch",
-    "link": "https://www.wsj.com/science/space-astronomy/spacex-steers-starship-to-space-and-deploys-test-satellites-in-10th-launch-f02c25c3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-27-01-12-00 +0000"
-  },
-  {
-    "headline": "Who is Dezi Freeman, the 'sovereign citizen' wanted for killing police?",
-    "link": "https://www.bbc.com/news/articles/cr4e9ddwd5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-01-10-09 +0000"
-  },
-  {
-    "headline": "Who is Dezi Freeman, the 'sovereign citizen' wanted for killing police?",
-    "link": "https://www.bbc.com/news/articles/cr4e9ddwd5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-01-10-09 +0000"
-  },
-  {
-    "headline": "The Trump administration is taking steps to collect financial penalties imposed on immigrants it says have ignored deportation orders",
-    "link": "https://www.wsj.com/politics/policy/ice-immigrant-fine-collection-db1a3610",
-    "source": "wsj",
-    "pubdate": "2025-08-27-01-00-00 +0000"
-  },
-  {
-    "headline": "The first Black woman to serve as a Federal Reserve Board governor is at the center of an unprecedented power struggle pitting the independence of the bank against the authority of the president",
-    "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-c4363d87",
-    "source": "wsj",
-    "pubdate": "2025-08-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Mexico’s Cartels Are Exporting Their Bloody Rivalry to Ecuador and Beyond",
-    "link": "https://www.wsj.com/world/americas/mexican-drug-cartels-ecuador-violence-29153688",
-    "source": "wsj",
-    "pubdate": "2025-08-27-01-00-00 +0000"
-  },
-  {
-    "headline": "The first Black woman to serve as a Federal Reserve Board governor is at the center of an unprecedented power struggle pitting the independence of the bank against the authority of the president",
-    "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-c4363d87",
-    "source": "wsj",
-    "pubdate": "2025-08-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Lafufus, Fake Labubus, Spawn Safety Warning and Raids",
-    "link": "https://www.nytimes.com/2025/08/26/world/asia/labubu-fake-safety.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-00-58-59 +0000"
-  },
-  {
-    "headline": "Lafufus, Fake Labubus, Spawn Safety Warning and Raids",
-    "link": "https://www.nytimes.com/2025/08/26/world/asia/labubu-fake-safety.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-00-58-59 +0000"
-  },
-  {
-    "headline": "Lafufus, Fake Labubus, Spawn Safety Warning and Raids",
-    "link": "https://www.nytimes.com/2025/08/26/world/asia/labubu-fake-safety.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-00-58-59 +0000"
-  },
-  {
-    "headline": "Lafufus, Fake Labubus, Spawn Safety Warning and Raids",
-    "link": "https://www.nytimes.com/2025/08/26/world/asia/labubu-fake-safety.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-00-58-59 +0000"
-  },
-  {
-    "headline": "US restaurant chain Cracker Barrel scraps new logo after backlash",
-    "link": "https://www.bbc.com/news/articles/ce835lry896o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-51-21 +0000"
-  },
-  {
-    "headline": "A democratic socialist victory: Affordable housing on Divisadero",
-    "link": "https://48hills.org/2025/08/a-democratic-socialist-victory-affordable-housing-on-divisadero-st/",
-    "source": "48hills",
-    "pubdate": "2025-08-27-00-48-39 +0000"
-  },
-  {
-    "headline": "Watch: SpaceX Starship completes successful test flight",
-    "link": "https://www.bbc.com/news/videos/cd0dxg4kxg1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-48-13 +0000"
-  },
-  {
-    "headline": "Watch: SpaceX Starship completes successful test flight",
-    "link": "https://www.bbc.com/news/videos/cd0dxg4kxg1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-48-13 +0000"
-  },
-  {
-    "headline": "Russia outsmarts France with nuclear power move in Niger",
-    "link": "https://www.bbc.com/news/articles/c5y23lvm05no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-40-59 +0000"
-  },
-  {
-    "headline": "Russia outsmarts France with nuclear power move in Niger",
-    "link": "https://www.bbc.com/news/articles/c5y23lvm05no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-40-59 +0000"
-  },
-  {
-    "headline": "Russia outsmarts France with nuclear power move in Niger",
-    "link": "https://www.bbc.com/news/articles/c5y23lvm05no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-40-59 +0000"
-  },
-  {
-    "headline": "Russia outsmarts France with nuclear power move in Niger",
-    "link": "https://www.bbc.com/news/articles/c5y23lvm05no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-40-59 +0000"
-  },
-  {
-    "headline": "Hey Gavin: Call out the National Guard…",
-    "link": "https://48hills.org/2025/08/hey-gavin-call-out-the-national-guard/",
-    "source": "48hills",
-    "pubdate": "2025-08-27-00-34-12 +0000"
-  },
-  {
-    "headline": "Watch: 'Please give me an invite' - Americans react to Taylor Swift's engagement",
-    "link": "https://www.bbc.com/news/videos/c0qlv2dwjglo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-27-00 +0000"
-  },
-  {
-    "headline": "Watch: 'Please give me an invite' - Americans react to Taylor Swift's engagement",
-    "link": "https://www.bbc.com/news/videos/c0qlv2dwjglo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-27-00-27-00 +0000"
-  },
-  {
-    "headline": "Russian Troops Gain a Toehold in Another Ukrainian Region",
-    "link": "https://www.nytimes.com/2025/08/26/world/europe/russia-ukraine-villages-dnipropetrovsk.html",
-    "source": "nyt",
-    "pubdate": "2025-08-27-00-19-02 +0000"
-  },
-  {
-    "headline": "Kroger to lay off nearly 1,000 employees",
-    "link": "https://www.latimes.com/business/story/2025-08-26/kroger-to-lay-off-nearly-1-000-corporate-employees",
-    "source": "latimes",
-    "pubdate": "2025-08-27-00-16-21 +0000"
-  },
-  {
-    "headline": "President Trump’s attempt to fire Fed governor Lisa Cook pushes his drive for unilateral control of the U.S. government to new levels",
-    "link": "https://www.wsj.com/politics/policy/trumps-fed-aggression-poses-new-test-on-limits-of-presidential-power-19085baf",
-    "source": "wsj",
-    "pubdate": "2025-08-27-00-11-00 +0000"
-  },
-  {
-    "headline": "Joseph I. Castro, first person of color to lead CSU, dies at 58",
-    "link": "https://www.latimes.com/california/story/2025-08-26/joseph-castro-first-person-of-color-to-lead-csu-dies-at-58",
-    "source": "latimes",
-    "pubdate": "2025-08-27-00-04-10 +0000"
   }
 ]
