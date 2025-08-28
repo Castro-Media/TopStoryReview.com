@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2025-08-28-03-54-46 +0000",
+    "score": 34,
+    "pubdate": "2025-08-28-05-18-28 +0000",
     "source": "nyt",
-    "headline": "Jimmy Lai’s Freedom May Now Hinge on Beijing and Trump",
-    "link": "https://www.nytimes.com/2025/08/27/world/asia/hong-kong-jimmy-lai-trump.html"
+    "headline": "North Korea’s Leader, Kim Jong-un, to Attend Military Parade in Beijing",
+    "link": "https://www.nytimes.com/2025/08/28/world/asia/kim-jong-un-military-parade-beijing.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-08-28-05-27-49 +0000",
+    "source": "nyt",
+    "headline": "Russian Missile and Drone Attack Kills at Least 4 in Kyiv",
+    "link": "https://www.nytimes.com/2025/08/28/world/europe/ukraine-russia-strikes.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-08-28-04-57-05 +0000",
+    "source": "nypost",
+    "headline": "Alabama death row inmate Christopher Barbour receives new trial from judge after 31 years",
+    "link": "https://nypost.com/2025/08/28/us-news/alabama-death-row-inmate-receives-new-trial-from-judge-after-31-years/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-08-28-04-59-02 +0000",
+    "source": "nypost",
+    "headline": "Cracker Barrel takes down pride page on website amid rebrand fiasco",
+    "link": "https://nypost.com/2025/08/28/business/cracker-barrel-takes-down-pride-page-on-website-amid-rebrand-fiasco/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-08-28-05-11-34 +0000",
+    "source": "bbc",
+    "headline": "Eight killed in major Kyiv attack, Zelensky says",
+    "link": "https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-08-28-05-31-50 +0000",
+    "source": "bbc",
+    "headline": "Starmer to replace third top aide in less than a year",
+    "link": "https://www.bbc.com/news/articles/czr6zmd5d0ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-08-28-05-02-43 +0000",
+    "source": "bbc",
+    "headline": "North Korea's Kim Jong Un to join Putin at China military parade",
+    "link": "https://www.bbc.com/news/articles/c17njr88ge4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-08-28-05-09-54 +0000",
+    "source": "bbc",
+    "headline": "'£150 for school uniform is money I don't really have'",
+    "link": "https://www.bbc.com/news/articles/cwypzl6erg1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-08-28-05-16-13 +0000",
+    "source": "bbc",
+    "headline": "Summer holiday childcare costs a 'struggle'",
+    "link": "https://www.bbc.com/news/articles/c626x2y2relo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-28-05-27-49 +0000",
+    "source": "nyt",
+    "headline": "Russian Missile and Drone Attack Kills at Least 4 in Kyiv",
+    "link": "https://www.nytimes.com/2025/08/28/world/europe/ukraine-russia-strikes.html"
   }
 ]
