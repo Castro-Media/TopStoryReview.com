@@ -1,6 +1,6 @@
 [
   {
-    "score": 225,
+    "score": 222,
     "pubdate": "2025-08-28-16-12-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
@@ -14,18 +14,18 @@
     "link": "https://www.wsj.com/politics/policy/cdc-director-refused-to-fire-leaders-approve-vaccine-recommendations-c777704c"
   },
   {
-    "score": 91,
-    "pubdate": "2025-08-28-08-06-34 +0000",
-    "source": "bbc",
-    "headline": "FBI investigates Minneapolis school shooting as anti-Catholic hate crime",
-    "link": "https://www.bbc.com/news/articles/c7760x87r4po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 90,
+    "score": 88,
     "pubdate": "2025-08-28-03-19-08 +0000",
     "source": "nypost",
     "headline": "Russian ballistic missiles hit Kyiv in large-scale attack, killing at least 17 as Zelensky calls for ‘new, tough sanctions’ against Putin",
     "link": "https://nypost.com/2025/08/27/world-news/russian-ballistic-missiles-hit-kyiv-in-large-scale-attack/"
+  },
+  {
+    "score": 87,
+    "pubdate": "2025-08-28-08-06-34 +0000",
+    "source": "bbc",
+    "headline": "FBI investigates Minneapolis school shooting as anti-Catholic hate crime",
+    "link": "https://www.bbc.com/news/articles/c7760x87r4po?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 67,
@@ -42,18 +42,11 @@
     "link": "https://nypost.com/2025/08/28/business/mark-zuckerberg-pressed-trump-on-digital-taxes-before-eu-tariff-threat-report/"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2025-08-28-18-13-08 +0000",
     "source": "latimes",
     "headline": "ICE will 'ramp up' immigration raids in Los Angeles, other 'sanctuary cities,' border advisor says",
     "link": "https://www.latimes.com/california/story/2025-08-28/la-me-border-czar-ice"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-08-27-21-29-33 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani would easily win NYC mayor race — but he’d have a real fight in a one-on-one battle: poll",
-    "link": "https://nypost.com/2025/08/27/us-news/zohran-mamdani-would-easily-win-nyc-mayor-race-but-hed-have-a-real-fight-in-a-one-on-one-battle-poll/"
   },
   {
     "score": 50,
@@ -63,7 +56,14 @@
     "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 45,
+    "score": 47,
+    "pubdate": "2025-08-27-21-29-33 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani would easily win NYC mayor race — but he’d have a real fight in a one-on-one battle: poll",
+    "link": "https://nypost.com/2025/08/27/us-news/zohran-mamdani-would-easily-win-nyc-mayor-race-but-hed-have-a-real-fight-in-a-one-on-one-battle-poll/"
+  },
+  {
+    "score": 44,
     "pubdate": "2025-08-28-17-34-14 +0000",
     "source": "nypost",
     "headline": "Minneapolis shooter Robin Westman lived in quaint home in tree-lined neighborhood: ‘Seemed like a great family’",
