@@ -1,31 +1,17 @@
 [
   {
-    "score": 234,
-    "pubdate": "2025-08-28-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "In his first term, administration officials regularly curbed President Trump’s impulses. In his second, Trump has been surrounded by fewer people who try to dissuade him",
-    "link": "https://www.wsj.com/politics/policy/in-trumps-second-term-a-bolder-president-charges-ahead-unchecked-1c8c5b79"
+    "score": 224,
+    "pubdate": "2025-08-27-18-11-14 +0000",
+    "source": "wapo",
+    "headline": "President Donald Trump has signed a proclamation honoring the victims of the school shooting in Minneapolis,...",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 160,
-    "pubdate": "2025-08-28-08-06-34 +0000",
-    "source": "bbc",
-    "headline": "FBI investigates Minneapolis school shooting as anti-Catholic hate crime",
-    "link": "https://www.bbc.com/news/articles/c7760x87r4po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 107,
+    "score": 108,
     "pubdate": "2025-08-28-03-19-08 +0000",
     "source": "nypost",
     "headline": "Russian ballistic missiles hit Kyiv in large-scale attack, killing at least 14 as Zelensky calls for ‘new, tough sanctions’ against Putin",
     "link": "https://nypost.com/2025/08/27/world-news/russian-ballistic-missiles-hit-kyiv-in-large-scale-attack/"
-  },
-  {
-    "score": 78,
-    "pubdate": "2025-08-28-11-44-53 +0000",
-    "source": "nypost",
-    "headline": "Minneapolis mass shooter Robin Westman’s pro-trans lawmaker uncle wished he was shot instead of ‘innocent’ children",
-    "link": "https://nypost.com/2025/08/28/us-news/minneapolis-mass-shooter-robin-westman-uncle-kentucky-gop-rep-bob-heleringer-wished-he-was-shot-instead-of-annunciation-church-schoolchildren/"
   },
   {
     "score": 72,
@@ -35,38 +21,52 @@
     "link": "https://nypost.com/2025/08/28/us-news/jared-kushner-and-tony-blair-join-trump-for-gaza-policy-meeting-at-the-white-house/"
   },
   {
-    "score": 63,
+    "score": 71,
+    "pubdate": "2025-08-27-21-42-55 +0000",
+    "source": "wapo",
+    "headline": "Children’s Minnesota Hospital-Minneapolis said four shooting victims had been discharged as of Wednesday afternoon. Three children...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 64,
     "pubdate": "2025-08-27-17-56-38 +0000",
     "source": "latimes",
     "headline": "Cal Fire captain fatally shot his girlfriend, then killed her son to cover it up, prosecutors say",
     "link": "https://www.latimes.com/california/story/2025-08-27/cal-fire-captain-murder-charges-filed"
   },
   {
-    "score": 57,
-    "pubdate": "2025-08-28-02-12-00 +0000",
+    "score": 63,
+    "pubdate": "2025-08-28-11-59-49 +0000",
+    "source": "nypost",
+    "headline": "Minneapolis school shooter Robin Westman confessed he was ‘tired of being trans’: ‘I wish I never brain-washed myself’",
+    "link": "https://nypost.com/2025/08/28/us-news/minneapolis-school-shooter-robin-westman-confessed-he-was-tired-of-being-trans/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2025-08-28-13-01-00 +0000",
     "source": "wsj",
     "headline": "Denmark Summons U.S. Envoy Over Suspected American Influence Campaign in Greenland",
     "link": "https://www.wsj.com/world/suspected-american-influence-campaign-in-greenland-prompts-denmark-to-summon-u-s-envoy-40e464ba"
   },
   {
-    "score": 49,
+    "score": 56,
+    "pubdate": "2025-08-27-13-51-00 +0000",
+    "source": "nypost",
+    "headline": "Trump administration announces it’s going to run Washington, DC’s Union Station amid crime crackdown in city",
+    "link": "https://nypost.com/2025/08/27/us-news/trump-administration-plans-to-reclaim-control-over-washington-dcs-union-station-amid-crime-crackdown-in-city/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-08-27-17-14-43 +0000",
+    "source": "wapo",
+    "headline": "FBI agents are knocking on the doors of homes around Annunciation Catholic School, gathering information. One...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 50,
     "pubdate": "2025-08-27-21-01-42 +0000",
     "source": "nypost",
     "headline": "Angry Cracker Barrel workers dish on skimpy pay and ‘frozen’ food that’s passed off as homestyle cooking: ‘in a bag off a truck’",
     "link": "https://nypost.com/2025/08/27/business/angry-cracker-barrel-workers-dish-on-skimpy-pay-and-frozen-food-thats-passed-off-as-home-cooking/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-08-28-03-32-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump on Wednesday fired Robert Primus, a board member of the railroad regulator that is weighing the proposed megamerger between Union Pacific and Norfolk Southern. Primus said he planned to challenge the termination.",
-    "link": "https://www.wsj.com/politics/policy/trump-fires-board-member-of-regulator-weighing-rail-merger-4b108713"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-08-28-05-02-43 +0000",
-    "source": "bbc",
-    "headline": "North Korea's Kim Jong Un to join Putin at China military parade",
-    "link": "https://www.bbc.com/news/articles/c17njr88ge4o?at_medium=RSS&at_campaign=rss"
   }
 ]
