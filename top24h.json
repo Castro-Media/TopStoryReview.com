@@ -1,13 +1,13 @@
 [
   {
-    "score": 209,
+    "score": 205,
     "pubdate": "2025-08-28-21-40-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-trump-lawsuit-fed-reserve-62f1ef95"
   },
   {
-    "score": 73,
+    "score": 74,
     "pubdate": "2025-08-29-03-49-25 +0000",
     "source": "bbc",
     "headline": "New video appears to show New Zealand fugitive dad with his child",
@@ -28,32 +28,18 @@
     "link": "https://nypost.com/2025/08/28/us-news/rfk-jrs-deputy-expected-to-replace-ousted-cdc-director-as-employees-stage-walkout/"
   },
   {
-    "score": 60,
-    "pubdate": "2025-08-29-00-41-41 +0000",
-    "source": "nypost",
-    "headline": "One of 37 intel pros whose clearance was pulled may have been undercover — but wrote articles, spoke at public forums touting CIA affiliation: sources",
-    "link": "https://nypost.com/2025/08/28/us-news/one-of-37-intel-pros-with-clearance-axed-may-have-been-undercover-sources/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-08-28-22-53-32 +0000",
-    "source": "nyt",
-    "headline": "Former Yankees First Baseman Mark Teixeira Says He Will Run for Congress",
-    "link": "https://www.nytimes.com/2025/08/28/us/politics/mark-teixeira-congress-texas-baseball.html"
-  },
-  {
-    "score": 57,
+    "score": 59,
     "pubdate": "2025-08-29-04-27-33 +0000",
     "source": "nypost",
     "headline": "JD Vance blasts Jen Psaki for post declaring prayer ‘is not freaking enough’ in response to Minnesota shooting",
     "link": "https://nypost.com/2025/08/29/us-news/jd-vance-blasts-jen-psaki-for-post-declaring-prayer-is-not-freaking-enough-in-response-to-minnesota-shooting/"
   },
   {
-    "score": 46,
-    "pubdate": "2025-08-29-00-53-40 +0000",
-    "source": "missionlocal",
-    "headline": "S.F. immigration judge ordered a woman into court. Then ICE took her.",
-    "link": "https://missionlocal.org/2025/08/six-arrested-immigration-court/"
+    "score": 56,
+    "pubdate": "2025-08-28-22-53-32 +0000",
+    "source": "nyt",
+    "headline": "Former Yankees First Baseman Mark Teixeira Says He Will Run for Congress",
+    "link": "https://www.nytimes.com/2025/08/28/us/politics/mark-teixeira-congress-texas-baseball.html"
   },
   {
     "score": 45,
@@ -63,10 +49,24 @@
     "link": "https://nypost.com/2025/08/28/world-news/european-nations-to-use-un-snapback-sanctions-on-iran-for-its-nuclear-plans/"
   },
   {
-    "score": 43,
+    "score": 45,
+    "pubdate": "2025-08-29-00-53-40 +0000",
+    "source": "missionlocal",
+    "headline": "S.F. immigration judge ordered a woman into court. Then ICE took her.",
+    "link": "https://missionlocal.org/2025/08/six-arrested-immigration-court/"
+  },
+  {
+    "score": 44,
     "pubdate": "2025-08-29-10-39-36 +0000",
     "source": "nypost",
     "headline": "Moment feds descend on Minneapolis shooter Robin Westman mom’s Florida home before she hires criminal defense attorney",
     "link": "https://nypost.com/2025/08/29/us-news/moment-federal-agents-descend-on-minneapolis-shooter-robin-westman-moms-florida-home-before-she-hires-criminal-defense-attorney/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-08-29-00-41-41 +0000",
+    "source": "nypost",
+    "headline": "One of 37 intel pros whose clearance was pulled may have been undercover — but wrote articles, spoke at public forums touting CIA affiliation: sources",
+    "link": "https://nypost.com/2025/08/28/us-news/one-of-37-intel-pros-with-clearance-axed-may-have-been-undercover-sources/"
   }
 ]
