@@ -1,6 +1,6 @@
 [
   {
-    "score": 193,
+    "score": 190,
     "pubdate": "2025-08-28-21-40-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
@@ -21,7 +21,7 @@
     "link": "https://www.nytimes.com/2025/08/28/us/minneapolis-school-shooting-victims-survivors-injuries.html"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2025-08-29-00-41-41 +0000",
     "source": "nypost",
     "headline": "One of 37 intel pros whose clearance was pulled may have been undercover — but wrote articles, spoke at public forums touting CIA affiliation: sources",
@@ -42,18 +42,11 @@
     "link": "https://nypost.com/2025/08/28/us-news/vance-says-uganda-born-mamdani-should-be-grateful-instead-of-attacking-us/"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2025-08-29-02-16-31 +0000",
     "source": "nypost",
     "headline": "RFK Jr’s deputy expected to replace ousted CDC director as employees stage walkout at agency headquarters",
     "link": "https://nypost.com/2025/08/28/us-news/rfk-jrs-deputy-expected-to-replace-ousted-cdc-director-as-employees-stage-walkout/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-08-28-04-19-34 +0000",
-    "source": "nypost",
-    "headline": "Jared Kushner and Tony Blair join Trump for Gaza ‘policy meeting’ at the White House",
-    "link": "https://nypost.com/2025/08/28/us-news/jared-kushner-and-tony-blair-join-trump-for-gaza-policy-meeting-at-the-white-house/"
   },
   {
     "score": 49,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "UK, France and Germany move to reimpose UN sanctions on Iran",
     "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-08-28-12-08-04 +0000",
+    "source": "bbc",
+    "headline": "Blair joins White House meeting with Trump on post-war Gaza",
+    "link": "https://www.bbc.com/news/articles/c4gmrxd8ryno?at_medium=RSS&at_campaign=rss"
   }
 ]
