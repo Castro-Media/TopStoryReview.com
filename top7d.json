@@ -1,45 +1,38 @@
 [
   {
-    "score": 451,
+    "score": 442,
     "pubdate": "2025-08-28-01-00-00 +0000",
     "source": "wsj",
     "headline": "In his first term, administration officials regularly curbed President Trump’s impulses. In his second, Trump has been surrounded by fewer people who try to dissuade him",
     "link": "https://www.wsj.com/politics/policy/in-trumps-second-term-a-bolder-president-charges-ahead-unchecked-1c8c5b79"
   },
   {
-    "score": 208,
-    "pubdate": "2025-08-27-00-11-00 +0000",
+    "score": 212,
+    "pubdate": "2025-08-29-17-40-00 +0000",
     "source": "wsj",
-    "headline": "President Trump’s attempt to fire Fed governor Lisa Cook pushes his drive for unilateral control of the U.S. government to new levels",
-    "link": "https://www.wsj.com/politics/policy/trumps-fed-aggression-poses-new-test-on-limits-of-presidential-power-19085baf"
+    "headline": "A federal judge signaled that she will move quickly to rule on whether President Trump acted unlawfully in moving to fire Fed Governor Lisa Cook",
+    "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
   },
   {
-    "score": 161,
-    "pubdate": "2025-08-29-14-03-22 +0000",
-    "source": "nypost",
-    "headline": "California Gov. Newsom says crime is higher in Republican-led cities as San Francisco residents sue over drug policies destroying their city",
-    "link": "https://nypost.com/2025/08/29/us-news/california-gov-newsom-says-crime-is-higher-in-republican-led-cities-as-san-francisco-residents-sue-over-drug-policies-destroying-their-city/"
-  },
-  {
-    "score": 135,
+    "score": 196,
     "pubdate": "2025-08-28-03-19-08 +0000",
     "source": "nypost",
     "headline": "Russian ballistic missiles hit Kyiv in large-scale attack, killing at least 17 as Zelensky calls for ‘new, tough sanctions’ against Putin",
     "link": "https://nypost.com/2025/08/27/world-news/russian-ballistic-missiles-hit-kyiv-in-large-scale-attack/"
   },
   {
-    "score": 133,
+    "score": 173,
+    "pubdate": "2025-08-29-14-03-22 +0000",
+    "source": "nypost",
+    "headline": "California Gov. Newsom says crime is higher in Republican-led cities as San Francisco residents sue over drug policies destroying their city",
+    "link": "https://nypost.com/2025/08/29/us-news/california-gov-newsom-says-crime-is-higher-in-republican-led-cities-as-san-francisco-residents-sue-over-drug-policies-destroying-their-city/"
+  },
+  {
+    "score": 127,
     "pubdate": "2025-08-29-15-23-48 +0000",
     "source": "nypost",
     "headline": "Minneapolis Catholic school shooter Robin Westman had recently broken up with partner, had ‘mental health’ call made to his home as teen",
     "link": "https://nypost.com/2025/08/29/us-news/minneapolis-catholic-school-shooter-robin-westman-had-recently-broken-up-with-partner-had-mental-health-call-made-to-his-home-as-teen/"
-  },
-  {
-    "score": 112,
-    "pubdate": "2025-08-27-16-53-21 +0000",
-    "source": "wapo",
-    "headline": "Madie Brandt was on her way to work Wednesday morning when her car was swarmed with...",
-    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 108,
@@ -49,24 +42,31 @@
     "link": "https://www.wsj.com/world/middle-east/israeli-troops-targeted-a-camera-in-gaza-hospital-strike-that-killed-20-army-says-6defd392"
   },
   {
-    "score": 95,
-    "pubdate": "2025-08-28-22-49-14 +0000",
-    "source": "bbc",
-    "headline": "'We love you, you will always be with us', says father of Minneapolis shooting victim",
-    "link": "https://www.bbc.com/news/videos/cwy5zzvgj44o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 86,
-    "pubdate": "2025-08-29-00-34-55 +0000",
-    "source": "bbc",
-    "headline": "UK, France and Germany move to reimpose UN sanctions on Iran",
-    "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 85,
+    "score": 90,
     "pubdate": "2025-08-29-00-53-40 +0000",
     "source": "missionlocal",
     "headline": "S.F. immigration judge ordered a woman into court. Then ICE took her.",
     "link": "https://missionlocal.org/2025/08/six-arrested-immigration-court/"
+  },
+  {
+    "score": 84,
+    "pubdate": "2025-08-24-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "Russia Covets This Ukraine Province Above All. These Maps and Charts Show Why.",
+    "link": "https://www.wsj.com/world/russia/russia-covets-this-ukraine-province-above-all-these-maps-and-charts-show-why-2988b2a5"
+  },
+  {
+    "score": 83,
+    "pubdate": "2025-08-28-21-44-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Republicans expressed alarm at the abrupt firing of the head of the Centers for Disease Control and Prevention and pushed to delay a vaccine meeting scheduled for next month",
+    "link": "https://www.wsj.com/politics/policy/cdc-director-refused-to-fire-leaders-approve-vaccine-recommendations-c777704c"
+  },
+  {
+    "score": 81,
+    "pubdate": "2025-08-27-21-42-55 +0000",
+    "source": "wapo",
+    "headline": "Children’s Minnesota Hospital-Minneapolis said four shooting victims had been discharged as of Wednesday afternoon. Three children...",
+    "link": "https://www.washingtonpost.com"
   }
 ]
