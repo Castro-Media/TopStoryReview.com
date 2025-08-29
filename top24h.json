@@ -1,27 +1,34 @@
 [
   {
-    "score": 194,
+    "score": 175,
     "pubdate": "2025-08-28-21-40-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-trump-lawsuit-fed-reserve-62f1ef95"
   },
   {
-    "score": 74,
+    "score": 77,
     "pubdate": "2025-08-29-03-49-25 +0000",
     "source": "bbc",
     "headline": "New video appears to show New Zealand fugitive dad with his child",
     "link": "https://www.bbc.com/news/articles/c4g6knz7e65o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 70,
+    "score": 71,
     "pubdate": "2025-08-29-14-03-22 +0000",
     "source": "nypost",
     "headline": "California Gov. Newsom says crime is higher in Republican-led cities as San Francisco residents sue over drug policies destroying their city",
     "link": "https://nypost.com/2025/08/29/us-news/california-gov-newsom-says-crime-is-higher-in-republican-led-cities-as-san-francisco-residents-sue-over-drug-policies-destroying-their-city/"
   },
   {
-    "score": 63,
+    "score": 67,
+    "pubdate": "2025-08-29-15-23-48 +0000",
+    "source": "nypost",
+    "headline": "Minneapolis Catholic school shooter Robin Westman had recently broken up with partner, had ‘mental health’ call made to his home as teen",
+    "link": "https://nypost.com/2025/08/29/us-news/minneapolis-catholic-school-shooter-robin-westman-had-recently-broken-up-with-partner-had-mental-health-call-made-to-his-home-as-teen/"
+  },
+  {
+    "score": 59,
     "pubdate": "2025-08-28-20-32-41 +0000",
     "source": "nypost",
     "headline": "UK, EU accuse Putin of ‘sabotaging peace’ after deadly Kyiv airstrikes hit their council offices: ‘Deliberate choice to escalate’",
@@ -29,44 +36,37 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-08-28-22-49-14 +0000",
-    "source": "bbc",
-    "headline": "'We love you, you will always be with us', says father of Minneapolis shooting victim",
-    "link": "https://www.bbc.com/news/videos/cwy5zzvgj44o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-29-00-39-00 +0000",
-    "source": "wsj",
-    "headline": "New Trial Ordered for Three Former Police Officers in Death of Tyre Nichols",
-    "link": "https://www.wsj.com/us-news/law/new-trial-ordered-for-three-former-police-officers-in-death-of-tyre-nichols-08db268e"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-08-29-02-16-31 +0000",
-    "source": "nypost",
-    "headline": "RFK Jr’s deputy expected to replace ousted CDC director as employees stage walkout at agency headquarters",
-    "link": "https://nypost.com/2025/08/28/us-news/rfk-jrs-deputy-expected-to-replace-ousted-cdc-director-as-employees-stage-walkout/"
+    "pubdate": "2025-08-28-22-53-32 +0000",
+    "source": "nyt",
+    "headline": "Former Yankees First Baseman Mark Teixeira Says He Will Run for Congress",
+    "link": "https://www.nytimes.com/2025/08/28/us/politics/mark-teixeira-congress-texas-baseball.html"
   },
   {
     "score": 47,
-    "pubdate": "2025-08-28-15-13-56 +0000",
-    "source": "nypost",
-    "headline": "European nations to use ‘snapback’ sanctions to isolate Iran over nuclear program",
-    "link": "https://nypost.com/2025/08/28/world-news/european-nations-to-use-un-snapback-sanctions-on-iran-for-its-nuclear-plans/"
+    "pubdate": "2025-08-29-14-15-59 +0000",
+    "source": "nyt",
+    "headline": "Britain Bars Israeli Government From a Leading Arms Trade Fair",
+    "link": "https://www.nytimes.com/2025/08/29/world/europe/uk-israel-military-trade-fair.html"
   },
   {
     "score": 46,
-    "pubdate": "2025-08-28-16-56-16 +0000",
-    "source": "latimes",
-    "headline": "ChatGPT pulled teen into a 'dark and hopeless place' before he took his life, lawsuit against OpenAI alleges",
-    "link": "https://www.latimes.com/business/story/2025-08-28/openai-lawsuit"
+    "pubdate": "2025-08-29-14-49-10 +0000",
+    "source": "nyt",
+    "headline": "Israel Military Says It Recovered Body of Ilan Weiss, Oct. 7 Victim, From Gaza",
+    "link": "https://www.nytimes.com/2025/08/29/world/middleeast/israel-hostages-remains-recovered.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-29-14-03-23 +0000",
-    "source": "bbc",
-    "headline": "Thai court removes PM over leaked phone call with Cambodian leader",
-    "link": "https://www.bbc.com/news/articles/ckgeqlw05rzo?at_medium=RSS&at_campaign=rss"
+    "score": 45,
+    "pubdate": "2025-08-29-04-27-33 +0000",
+    "source": "nypost",
+    "headline": "JD Vance blasts Jen Psaki for post declaring prayer ‘is not freaking enough’ in response to Minnesota shooting",
+    "link": "https://nypost.com/2025/08/29/us-news/jd-vance-blasts-jen-psaki-for-post-declaring-prayer-is-not-freaking-enough-in-response-to-minnesota-shooting/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-08-29-00-53-40 +0000",
+    "source": "missionlocal",
+    "headline": "S.F. immigration judge ordered a woman into court. Then ICE took her.",
+    "link": "https://missionlocal.org/2025/08/six-arrested-immigration-court/"
   }
 ]
