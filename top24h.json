@@ -1,20 +1,27 @@
 [
   {
-    "score": 282,
+    "score": 278,
     "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administrations-expansion-of-speedy-deportations-a5b033fe"
   },
   {
-    "score": 68,
+    "score": 66,
     "pubdate": "2025-08-30-07-22-55 +0000",
     "source": "bbc",
     "headline": "US blocks Palestinian leader from attending UN meeting in New York",
     "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 61,
+    "score": 62,
+    "pubdate": "2025-08-29-14-03-22 +0000",
+    "source": "nypost",
+    "headline": "California Gov. Newsom says crime is higher in Republican-led cities as San Francisco residents sue over drug policies destroying their city",
+    "link": "https://nypost.com/2025/08/29/us-news/california-gov-newsom-says-crime-is-higher-in-republican-led-cities-as-san-francisco-residents-sue-over-drug-policies-destroying-their-city/"
+  },
+  {
+    "score": 62,
     "pubdate": "2025-08-29-13-25-00 +0000",
     "source": "wsj",
     "headline": "Trump revokes former Vice President Kamala Harris’s Secret Service protection",
@@ -22,10 +29,10 @@
   },
   {
     "score": 61,
-    "pubdate": "2025-08-29-19-45-00 +0000",
-    "source": "wsj",
-    "headline": "A federal judge signaled that she will move quickly to rule on whether President Trump acted unlawfully in moving to fire Federal Reserve governor Lisa Cook",
-    "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
+    "pubdate": "2025-08-30-10-05-28 +0000",
+    "source": "nyt",
+    "headline": "Large Russian Air Attack Hits Ukraine, Amid Stalled Bid for Peace Talks",
+    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html"
   },
   {
     "score": 61,
@@ -35,18 +42,25 @@
     "link": "https://www.wsj.com/politics/policy/appeals-court-rejects-trumps-global-tariffs-aae2dc99"
   },
   {
-    "score": 59,
-    "pubdate": "2025-08-29-14-03-22 +0000",
-    "source": "nypost",
-    "headline": "California Gov. Newsom says crime is higher in Republican-led cities as San Francisco residents sue over drug policies destroying their city",
-    "link": "https://nypost.com/2025/08/29/us-news/california-gov-newsom-says-crime-is-higher-in-republican-led-cities-as-san-francisco-residents-sue-over-drug-policies-destroying-their-city/"
+    "score": 60,
+    "pubdate": "2025-08-29-19-45-00 +0000",
+    "source": "wsj",
+    "headline": "A federal judge signaled that she will move quickly to rule on whether President Trump acted unlawfully in moving to fire Federal Reserve governor Lisa Cook",
+    "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
   },
   {
-    "score": 52,
-    "pubdate": "2025-08-29-22-49-38 +0000",
+    "score": 49,
+    "pubdate": "2025-08-29-23-47-02 +0000",
     "source": "nypost",
-    "headline": "Top Zelensky adviser invites Trump special envoy Steve Witkoff to Ukraine after latest Russia attack",
-    "link": "https://nypost.com/2025/08/29/world-news/top-zelensky-adviser-invites-trump-special-envoy-steve-witkoff-to-ukraine-after-latest-russia-attack/"
+    "headline": "Missouri’s GOP governor calls special session to redraw congressional map after Texas passes redistricting bill",
+    "link": "https://nypost.com/2025/08/29/us-news/missouris-gop-governor-calls-special-session-to-redraw-congressional-map/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-08-30-01-47-56 +0000",
+    "source": "nypost",
+    "headline": "Transportation Secretary Sean Duffy withdraws $679M in funding for ‘doomed’ offshore wind projects – including three in NY, NJ and CT",
+    "link": "https://nypost.com/2025/08/29/us-news/transportation-secretary-withdraws-679m-in-funding-for-offshore-wind-projects-including-3-in-ny-nj-and-ct/"
   },
   {
     "score": 47,
@@ -54,19 +68,5 @@
     "source": "nypost",
     "headline": "Minneapolis Catholic school shooter Robin Westman’s weapons’ cache revealed as search warrants turn up pile of evidence",
     "link": "https://nypost.com/2025/08/29/us-news/pile-of-evidence-into-minneapolis-church-massacre-revealed-in-search-warrants/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-30-09-00-41 +0000",
-    "source": "nyt",
-    "headline": "Targeting Iran’s Leaders, Israel Found a Weak Link: Their Bodyguards",
-    "link": "https://www.nytimes.com/2025/08/30/us/politics/israel-iran-assassination.html"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-29-23-12-00 +0000",
-    "source": "wsj",
-    "headline": "A group of House lawmakers from across the political spectrum has agreed on a proposal that would ban members of Congress from trading individual stocks",
-    "link": "https://www.wsj.com/politics/policy/bipartisan-proposal-would-ban-stock-trading-by-lawmakers-e97c20a3"
   }
 ]
