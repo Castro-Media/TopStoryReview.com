@@ -7,18 +7,11 @@
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administrations-expansion-of-speedy-deportations-a5b033fe"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-08-30-15-09-16 +0000",
     "source": "nyt",
     "headline": "Large Russian Air Attack Hits Ukraine, Amid Stalled Bid for Peace Talks",
     "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-08-29-23-59-00 +0000",
-    "source": "wsj",
-    "headline": "A federal appeals court struck down the Trump administration’s signature tariffs, finding that the president had gone too far in using emergency powers to rewrite U.S. trade policy",
-    "link": "https://www.wsj.com/politics/policy/appeals-court-rejects-trumps-global-tariffs-aae2dc99"
   },
   {
     "score": 54,
@@ -28,18 +21,11 @@
     "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2025-08-29-17-00-01 +0000",
-    "source": "latimes",
-    "headline": "Newsom, California lawmakers strike deal that would allow Uber, Lyft drivers to unionize",
-    "link": "https://www.latimes.com/california/story/2025-08-29/california-lawmakers-strike-deal-to-allow-uber-lyft-drivers-to-unionize"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-08-30-16-30-55 +0000",
-    "source": "bbc",
-    "headline": "Houthis confirm their prime minister killed in Israeli strikes",
-    "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss"
+    "score": 54,
+    "pubdate": "2025-08-29-23-59-00 +0000",
+    "source": "wsj",
+    "headline": "A federal appeals court struck down the Trump administration’s signature tariffs, finding that the president had gone too far in using emergency powers to rewrite U.S. trade policy",
+    "link": "https://www.wsj.com/politics/policy/appeals-court-rejects-trumps-global-tariffs-aae2dc99"
   },
   {
     "score": 46,
@@ -49,6 +35,13 @@
     "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
   },
   {
+    "score": 46,
+    "pubdate": "2025-08-30-16-30-55 +0000",
+    "source": "bbc",
+    "headline": "Houthis confirm their prime minister killed in Israeli strikes",
+    "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 43,
     "pubdate": "2025-08-30-01-00-00 +0000",
     "source": "wsj",
@@ -56,14 +49,21 @@
     "link": "https://www.wsj.com/politics/elections/we-asked-tim-walz-why-everyone-is-tired-of-tim-walz-72358756"
   },
   {
-    "score": 40,
+    "score": 41,
+    "pubdate": "2025-08-29-23-44-53 +0000",
+    "source": "latimes",
+    "headline": "California Highway Patrol to protect Kamala Harris after Trump pulls Secret Service detail, sources say",
+    "link": "https://www.latimes.com/california/story/2025-08-29/chp-protection-kamala-harris"
+  },
+  {
+    "score": 39,
     "pubdate": "2025-08-30-15-08-37 +0000",
     "source": "nyt",
     "headline": "Targeting Iran’s Leaders, Israel Found a Weak Link: Their Bodyguards",
     "link": "https://www.nytimes.com/2025/08/30/us/politics/israel-iran-assassination.html"
   },
   {
-    "score": 40,
+    "score": 38,
     "pubdate": "2025-08-30-05-53-43 +0000",
     "source": "bbc",
     "headline": "Three dead after protests over death of taxi driver in Indonesia",
