@@ -1,6 +1,6 @@
 [
   {
-    "score": 223,
+    "score": 215,
     "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
@@ -8,52 +8,45 @@
   },
   {
     "score": 60,
-    "pubdate": "2025-08-30-17-25-31 +0000",
+    "pubdate": "2025-08-29-22-49-38 +0000",
     "source": "nypost",
-    "headline": "Russia launches sweeping attack on Southern Ukraine — two days after deadly barrage on Kyiv",
-    "link": "https://nypost.com/2025/08/30/world-news/russia-launches-sweeping-attack-on-southern-ukraine-two-days-after-deadly-barrage-on-kyiv/"
+    "headline": "Top Zelensky adviser invites Trump special envoy Steve Witkoff to Ukraine after latest Russia attack",
+    "link": "https://nypost.com/2025/08/29/world-news/top-zelensky-adviser-invites-trump-special-envoy-steve-witkoff-to-ukraine-after-latest-russia-attack/"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2025-08-29-23-59-00 +0000",
     "source": "wsj",
     "headline": "A federal appeals court struck down the Trump administration’s signature tariffs, finding that the president had gone too far in using emergency powers to rewrite U.S. trade policy",
     "link": "https://www.wsj.com/politics/policy/appeals-court-rejects-trumps-global-tariffs-aae2dc99"
   },
   {
-    "score": 53,
-    "pubdate": "2025-08-30-07-22-55 +0000",
-    "source": "bbc",
-    "headline": "US blocks Palestinian leader from attending UN meeting in New York",
-    "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-08-30-18-46-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
-    "link": "https://www.wsj.com/politics/national-security/white-house-moves-forward-on-plans-for-a-department-of-war-0119e010"
-  },
-  {
-    "score": 46,
+    "score": 50,
     "pubdate": "2025-08-30-15-08-37 +0000",
     "source": "nyt",
     "headline": "Targeting Iran’s Leaders, Israel Found a Weak Link: Their Bodyguards",
     "link": "https://www.nytimes.com/2025/08/30/us/politics/israel-iran-assassination.html"
   },
   {
-    "score": 45,
+    "score": 49,
+    "pubdate": "2025-08-30-07-22-55 +0000",
+    "source": "bbc",
+    "headline": "US blocks Palestinian leader from attending UN meeting in New York",
+    "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-08-30-18-46-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
+    "link": "https://www.wsj.com/politics/national-security/white-house-moves-forward-on-plans-for-a-department-of-war-0119e010"
+  },
+  {
+    "score": 40,
     "pubdate": "2025-08-30-14-52-31 +0000",
     "source": "cbc",
     "headline": "Houthis in Yemen say PM of rebel-controlled government killed in Israeli airstrike",
     "link": "https://www.cbc.ca/news/world/houthis-pm-killed-airstrikes-yemen-1.7622023?cmp=rss"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-08-29-19-45-00 +0000",
-    "source": "wsj",
-    "headline": "A federal judge signaled that she will move quickly to rule on whether President Trump acted unlawfully in moving to fire Federal Reserve governor Lisa Cook",
-    "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
   },
   {
     "score": 39,
@@ -63,10 +56,17 @@
     "link": "https://www.bbc.com/news/articles/cjw6el72xd4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
+    "score": 34,
     "pubdate": "2025-08-30-01-00-00 +0000",
     "source": "wsj",
     "headline": "Minnesota Gov. Tim Walz campaigned on the national ticket for just 91 days last year, but the unsuccessful vice presidential run left him politically vulnerable back home",
     "link": "https://www.wsj.com/politics/elections/we-asked-tim-walz-why-everyone-is-tired-of-tim-walz-72358756"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-08-30-15-09-16 +0000",
+    "source": "nyt",
+    "headline": "Large Russian Air Attack Hits Ukraine, Amid Stalled Bid for Peace Talks",
+    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html"
   }
 ]
