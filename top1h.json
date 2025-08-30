@@ -1,58 +1,65 @@
 [
   {
-    "score": 16,
-    "pubdate": "2025-08-30-06-24-46 +0000",
-    "source": "nyt",
-    "headline": "Trump Takes Aim at South Korean Chipmakers’ China Operations",
-    "link": "https://www.nytimes.com/2025/08/30/business/trump-samsung-skhynix-chips.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-08-30-06-52-08 +0000",
+    "score": 26,
+    "pubdate": "2025-08-30-06-55-22 +0000",
     "source": "nypost",
-    "headline": "Karen Read tells prosecutors ‘you lost big time’ in first public interview since acquittal",
-    "link": "https://nypost.com/2025/08/30/us-news/karen-read-tells-prosecutors-you-lost-big-time-in-first-public-interview-since-acquittal/"
+    "headline": "Legal group sues FDA over puberty blocker records, citing alleged Biden-era cover-up",
+    "link": "https://nypost.com/2025/08/30/us-news/legal-group-sues-fda-over-puberty-blocker-records-citing-alleged-biden-era-cover-up/"
   },
   {
-    "score": 12,
-    "pubdate": "2025-08-30-06-23-06 +0000",
+    "score": 20,
+    "pubdate": "2025-08-30-07-38-20 +0000",
     "source": "nyt",
-    "headline": "3 Killed as Protests in Indonesia Spread Beyond Jakarta",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html"
+    "headline": "Protests Spread Across Indonesia After a Deadly Clash With Police",
+    "link": "https://www.nytimes.com/2025/08/29/world/asia/indonesia-protests-inflation.html"
   },
   {
-    "score": 8,
-    "pubdate": "2025-08-30-06-12-08 +0000",
+    "score": 16,
+    "pubdate": "2025-08-30-07-22-55 +0000",
     "source": "bbc",
-    "headline": "Why have thousands of St George's flags gone up in cities and towns?",
-    "link": "https://www.bbc.com/news/articles/c626vxyxgj6o?at_medium=RSS&at_campaign=rss"
+    "headline": "US blocks Palestinian leader from attending UN meeting in New York",
+    "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-08-30-07-21-13 +0000",
+    "source": "wapo",
+    "headline": "An appeals court said Trump couldn’t levy his tariffs. What happens now?",
+    "link": "https://www.washingtonpost.com/business/2025/08/30/trump-tariffs-court-ruling-explained/"
   },
   {
     "score": 6,
-    "pubdate": "2025-08-30-06-21-30 +0000",
-    "source": "bbc",
-    "headline": "Demand for free school uniform rising - charities",
-    "link": "https://www.bbc.com/news/articles/c2l7ql4d5l1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-08-30-06-08-37 +0000",
-    "source": "bbc",
-    "headline": "Social supermarket an alternative to food banks",
-    "link": "https://www.bbc.com/news/articles/cvgn0ed5558o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-08-30-06-24-46 +0000",
-    "source": "nyt",
-    "headline": "Trump Takes Aim at South Korean Chipmakers’ China Operations",
-    "link": "https://www.nytimes.com/2025/08/30/business/trump-samsung-skhynix-chips.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-08-30-06-23-06 +0000",
+    "pubdate": "2025-08-30-07-32-30 +0000",
     "source": "nyt",
     "headline": "3 Killed as Protests in Indonesia Spread Beyond Jakarta",
     "link": "https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-30-07-38-20 +0000",
+    "source": "nyt",
+    "headline": "Protests Spread Across Indonesia After a Deadly Clash With Police",
+    "link": "https://www.nytimes.com/2025/08/29/world/asia/indonesia-protests-inflation.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-30-07-32-30 +0000",
+    "source": "nyt",
+    "headline": "3 Killed as Protests in Indonesia Spread Beyond Jakarta",
+    "link": "https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-30-07-22-55 +0000",
+    "source": "bbc",
+    "headline": "US blocks Palestinian leader from attending UN meeting in New York",
+    "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-08-30-06-55-22 +0000",
+    "source": "nypost",
+    "headline": "Legal group sues FDA over puberty blocker records, citing alleged Biden-era cover-up",
+    "link": "https://nypost.com/2025/08/30/us-news/legal-group-sues-fda-over-puberty-blocker-records-citing-alleged-biden-era-cover-up/"
   }
 ]
