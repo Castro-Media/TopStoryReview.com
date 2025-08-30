@@ -1,14 +1,14 @@
 [
   {
-    "score": 274,
+    "score": 277,
     "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administrations-expansion-of-speedy-deportations-a5b033fe"
   },
   {
-    "score": 69,
-    "pubdate": "2025-08-29-23-19-12 +0000",
+    "score": 68,
+    "pubdate": "2025-08-30-07-22-55 +0000",
     "source": "bbc",
     "headline": "US blocks Palestinian leader from attending UN meeting in New York",
     "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss"
@@ -19,13 +19,6 @@
     "source": "wsj",
     "headline": "A federal judge signaled that she will move quickly to rule on whether President Trump acted unlawfully in moving to fire Federal Reserve governor Lisa Cook",
     "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
-  },
-  {
-    "score": 61,
-    "pubdate": "2025-08-29-22-49-38 +0000",
-    "source": "nypost",
-    "headline": "Top Zelensky adviser invites Trump special envoy Steve Witkoff to Ukraine after latest Russia attack",
-    "link": "https://nypost.com/2025/08/29/world-news/top-zelensky-adviser-invites-trump-special-envoy-steve-witkoff-to-ukraine-after-latest-russia-attack/"
   },
   {
     "score": 61,
@@ -42,7 +35,7 @@
     "link": "https://nypost.com/2025/08/29/us-news/california-gov-newsom-says-crime-is-higher-in-republican-led-cities-as-san-francisco-residents-sue-over-drug-policies-destroying-their-city/"
   },
   {
-    "score": 55,
+    "score": 57,
     "pubdate": "2025-08-29-23-59-00 +0000",
     "source": "wsj",
     "headline": "A federal appeals court struck down the Trump administration’s signature tariffs, finding that the president had gone too far in using emergency powers to rewrite U.S. trade policy",
@@ -50,6 +43,13 @@
   },
   {
     "score": 49,
+    "pubdate": "2025-08-29-23-47-02 +0000",
+    "source": "nypost",
+    "headline": "Missouri’s GOP governor calls special session to redraw congressional map after Texas passes redistricting bill",
+    "link": "https://nypost.com/2025/08/29/us-news/missouris-gop-governor-calls-special-session-to-redraw-congressional-map/"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-08-29-09-37-24 +0000",
     "source": "cbc",
     "headline": "Thai PM Paetongtarn Shinawatra ordered removed from office over compromising phone call",
@@ -57,16 +57,16 @@
   },
   {
     "score": 46,
-    "pubdate": "2025-08-30-01-47-56 +0000",
-    "source": "nypost",
-    "headline": "Transportation Secretary Sean Duffy withdraws $679M in funding for ‘doomed’ offshore wind projects – including three in NY, NJ and CT",
-    "link": "https://nypost.com/2025/08/29/us-news/transportation-secretary-withdraws-679m-in-funding-for-offshore-wind-projects-including-3-in-ny-nj-and-ct/"
-  },
-  {
-    "score": 46,
     "pubdate": "2025-08-29-23-12-00 +0000",
     "source": "wsj",
     "headline": "A group of House lawmakers from across the political spectrum has agreed on a proposal that would ban members of Congress from trading individual stocks",
     "link": "https://www.wsj.com/politics/policy/bipartisan-proposal-would-ban-stock-trading-by-lawmakers-e97c20a3"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-08-30-01-18-37 +0000",
+    "source": "nypost",
+    "headline": "Minneapolis Catholic school shooter Robin Westman’s weapons’ cache revealed as search warrants turn up pile of evidence",
+    "link": "https://nypost.com/2025/08/29/us-news/pile-of-evidence-into-minneapolis-church-massacre-revealed-in-search-warrants/"
   }
 ]
