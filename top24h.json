@@ -1,20 +1,13 @@
 [
   {
-    "score": 209,
-    "pubdate": "2025-08-29-22-22-47 +0000",
-    "source": "cbc",
-    "headline": "U.S. appeals court finds Trump tariffs unlawful, setting up likely Supreme Court showdown",
-    "link": "https://www.cbc.ca/news/world/appeals-court-trump-tariffs-unconstitutional-1.7621773?cmp=rss"
-  },
-  {
-    "score": 93,
-    "pubdate": "2025-08-29-19-45-00 +0000",
+    "score": 285,
+    "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
-    "headline": "A federal judge signaled that she will move quickly to rule on whether President Trump acted unlawfully in moving to fire Federal Reserve governor Lisa Cook",
-    "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
+    "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
+    "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administrations-expansion-of-speedy-deportations-a5b033fe"
   },
   {
-    "score": 71,
+    "score": 72,
     "pubdate": "2025-08-29-23-19-12 +0000",
     "source": "bbc",
     "headline": "US blocks Palestinian leader from attending UN meeting in New York",
@@ -22,6 +15,13 @@
   },
   {
     "score": 67,
+    "pubdate": "2025-08-29-19-45-00 +0000",
+    "source": "wsj",
+    "headline": "A federal judge signaled that she will move quickly to rule on whether President Trump acted unlawfully in moving to fire Federal Reserve governor Lisa Cook",
+    "link": "https://www.wsj.com/politics/policy/judge-weighs-fed-governor-lisa-cooks-bid-to-stop-trump-from-firing-her-95c6a733"
+  },
+  {
+    "score": 64,
     "pubdate": "2025-08-29-22-49-38 +0000",
     "source": "nypost",
     "headline": "Top Zelensky adviser invites Trump special envoy Steve Witkoff to Ukraine after latest Russia attack",
@@ -35,18 +35,25 @@
     "link": "https://www.latimes.com/california/story/2025-08-29/chp-protection-kamala-harris"
   },
   {
-    "score": 61,
+    "score": 60,
+    "pubdate": "2025-08-29-07-56-31 +0000",
+    "source": "wsj",
+    "headline": "Stock Market News, Aug. 29, 2025: Appeals Court Strikes Down Trump's Global Tariffs; AI Worries Hit Nasdaq",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-inflation-08-29-2025?mod=rss_markets_main"
+  },
+  {
+    "score": 58,
     "pubdate": "2025-08-29-14-03-22 +0000",
     "source": "nypost",
     "headline": "California Gov. Newsom says crime is higher in Republican-led cities as San Francisco residents sue over drug policies destroying their city",
     "link": "https://nypost.com/2025/08/29/us-news/california-gov-newsom-says-crime-is-higher-in-republican-led-cities-as-san-francisco-residents-sue-over-drug-policies-destroying-their-city/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-08-29-23-12-00 +0000",
-    "source": "wsj",
-    "headline": "A group of House lawmakers from across the political spectrum has agreed on a proposal that would ban members of Congress from trading individual stocks",
-    "link": "https://www.wsj.com/politics/policy/bipartisan-proposal-would-ban-stock-trading-by-lawmakers-e97c20a3"
+    "score": 49,
+    "pubdate": "2025-08-29-09-37-24 +0000",
+    "source": "cbc",
+    "headline": "Thai PM Paetongtarn Shinawatra ordered removed from office over compromising phone call",
+    "link": "https://www.cbc.ca/news/world/thailand-pm-ousted-1.7620836?cmp=rss"
   },
   {
     "score": 49,
@@ -57,16 +64,9 @@
   },
   {
     "score": 48,
-    "pubdate": "2025-08-29-23-47-02 +0000",
-    "source": "nypost",
-    "headline": "Missouri’s GOP governor calls special session to redraw congressional map after Texas passes redistricting bill",
-    "link": "https://nypost.com/2025/08/29/us-news/missouris-gop-governor-calls-special-session-to-redraw-congressional-map/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-08-29-09-37-24 +0000",
-    "source": "cbc",
-    "headline": "Thai PM Paetongtarn Shinawatra ordered removed from office over compromising phone call",
-    "link": "https://www.cbc.ca/news/world/thailand-pm-ousted-1.7620836?cmp=rss"
+    "pubdate": "2025-08-29-23-12-00 +0000",
+    "source": "wsj",
+    "headline": "A group of House lawmakers from across the political spectrum has agreed on a proposal that would ban members of Congress from trading individual stocks",
+    "link": "https://www.wsj.com/politics/policy/bipartisan-proposal-would-ban-stock-trading-by-lawmakers-e97c20a3"
   }
 ]
