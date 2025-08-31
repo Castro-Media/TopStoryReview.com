@@ -1,24 +1,31 @@
 [
   {
-    "score": 460,
+    "score": 456,
     "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administrations-expansion-of-speedy-deportations-a5b033fe"
   },
   {
-    "score": 156,
-    "pubdate": "2025-08-29-00-25-37 +0000",
-    "source": "bbc",
-    "headline": "New footage shows Israel struck Gaza's Nasser Hospital four times",
-    "link": "https://www.bbc.com/news/articles/cly6lxn1l4po?at_medium=RSS&at_campaign=rss"
+    "score": 193,
+    "pubdate": "2025-08-31-21-23-44 +0000",
+    "source": "nypost",
+    "headline": "Israel begins heavy airstrikes ahead of Gaza City onslaught, warns Hamas fighters abroad that attacks ‘will reach them, too’",
+    "link": "https://nypost.com/2025/08/31/world-news/israel-begins-heavy-airstrikes-ahead-of-gaza-city-onslaught/"
   },
   {
-    "score": 147,
+    "score": 146,
     "pubdate": "2025-08-28-21-40-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-trump-lawsuit-fed-reserve-62f1ef95"
+  },
+  {
+    "score": 133,
+    "pubdate": "2025-08-29-03-49-25 +0000",
+    "source": "bbc",
+    "headline": "New video appears to show New Zealand fugitive dad with his child",
+    "link": "https://www.bbc.com/news/articles/c4g6knz7e65o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 126,
@@ -28,45 +35,38 @@
     "link": "https://nypost.com/2025/08/30/world-news/russia-launches-sweeping-attack-on-southern-ukraine-two-days-after-deadly-barrage-on-kyiv/"
   },
   {
-    "score": 115,
-    "pubdate": "2025-08-28-18-13-08 +0000",
-    "source": "latimes",
-    "headline": "ICE will 'ramp up' immigration raids in Los Angeles, other 'sanctuary cities,' border advisor says",
-    "link": "https://www.latimes.com/california/story/2025-08-28/la-me-border-czar-ice"
-  },
-  {
-    "score": 104,
-    "pubdate": "2025-08-30-00-45-55 +0000",
-    "source": "latimes",
-    "headline": "Former California city councilman molested underage relative, prosecutors say. Now he'll spend years in prison",
-    "link": "https://www.latimes.com/california/story/2025-08-29/former-san-jose-city-councilmember-sentenced-in-child-molestation-case"
-  },
-  {
-    "score": 95,
+    "score": 106,
     "pubdate": "2025-08-30-20-39-24 +0000",
     "source": "bbc",
     "headline": "Houthis confirm their prime minister killed in Israeli strike",
     "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 83,
-    "pubdate": "2025-08-29-23-59-00 +0000",
-    "source": "wsj",
-    "headline": "A federal appeals court struck down the Trump administration’s signature tariffs, finding that the president had gone too far in using emergency powers to rewrite U.S. trade policy",
-    "link": "https://www.wsj.com/politics/policy/appeals-court-rejects-trumps-global-tariffs-aae2dc99"
+    "score": 104,
+    "pubdate": "2025-08-28-07-13-23 +0000",
+    "source": "bbc",
+    "headline": "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin",
+    "link": "https://www.bbc.com/news/articles/cx29z9g2kl2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 75,
-    "pubdate": "2025-08-31-19-30-44 +0000",
-    "source": "nypost",
-    "headline": "Ex-Hempstead boss Don Clavin retires after being outed over $179K ‘no-show’ job at shuttered office",
-    "link": "https://nypost.com/2025/08/31/us-news/ex-hempstead-boss-don-clavin-retires-after-being-outed-over-179k-no-show-job-at-shuttered-office/"
+    "score": 90,
+    "pubdate": "2025-08-29-17-00-01 +0000",
+    "source": "latimes",
+    "headline": "Newsom, California lawmakers strike deal that would allow Uber, Lyft drivers to unionize",
+    "link": "https://www.latimes.com/california/story/2025-08-29/california-lawmakers-strike-deal-to-allow-uber-lyft-drivers-to-unionize"
   },
   {
-    "score": 74,
-    "pubdate": "2025-08-31-16-15-56 +0000",
+    "score": 87,
+    "pubdate": "2025-08-31-09-39-53 +0000",
+    "source": "bbc",
+    "headline": "Watch: Putin, Modi and other world leaders in China for summit",
+    "link": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 84,
+    "pubdate": "2025-08-31-21-49-36 +0000",
     "source": "nypost",
-    "headline": "Rep. Ilhan Omar slams Trump official for pointing out Minnesota church shooter’s trans identity: ‘Not the moment to point fingers’",
-    "link": "https://nypost.com/2025/08/31/us-news/rep-ilhan-omar-slams-trump-adviser-for-focusing-on-minnesota-church-shooter-robin-westmans-trans-identity/"
+    "headline": "Bullet fragment found in neck of Minneapolis Catholic school shooting survivor who was shielded by his friend",
+    "link": "https://nypost.com/2025/08/31/us-news/bullet-fragments-found-in-neck-of-minneapolis-catholic-school-shooting-survivor-who-was-shielded-by-his-friend/"
   }
 ]
