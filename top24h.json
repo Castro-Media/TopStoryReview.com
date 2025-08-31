@@ -1,31 +1,38 @@
 [
   {
-    "score": 83,
+    "score": 85,
     "pubdate": "2025-08-30-19-37-30 +0000",
     "source": "bbc",
     "headline": "Trump administration moves to fire most Voice of America journalists",
     "link": "https://www.bbc.com/news/articles/cdd38v3zvjdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
+    "score": 64,
     "pubdate": "2025-08-30-22-34-44 +0000",
     "source": "nyt",
     "headline": "Over 15 Killed in Gaza City, One Day After Israel Ends Daily Pauses for Aid",
     "link": "https://www.nytimes.com/2025/08/30/world/middleeast/gaza-israel-deadly-strikes.html"
   },
   {
-    "score": 50,
-    "pubdate": "2025-08-30-17-25-31 +0000",
-    "source": "nypost",
-    "headline": "Russia launches sweeping attack on Southern Ukraine — two days after deadly barrage on Kyiv",
-    "link": "https://nypost.com/2025/08/30/world-news/russia-launches-sweeping-attack-on-southern-ukraine-two-days-after-deadly-barrage-on-kyiv/"
+    "score": 48,
+    "pubdate": "2025-08-30-15-09-17 +0000",
+    "source": "nyt",
+    "headline": "Large Russian Air Attack Hits Ukraine, Amid Stalled Bid for Peace Talks",
+    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2025-08-30-18-46-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
     "link": "https://www.wsj.com/politics/national-security/white-house-moves-forward-on-plans-for-a-department-of-war-0119e010"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-08-31-07-18-58 +0000",
+    "source": "bbc",
+    "headline": "Putin and Modi in China for summit overshadowed by trade wars with US",
+    "link": "https://www.bbc.com/news/articles/clyrwv0egzro?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
@@ -36,13 +43,6 @@
   },
   {
     "score": 36,
-    "pubdate": "2025-08-30-18-38-46 +0000",
-    "source": "bbc",
-    "headline": "Three dead after protests over death of taxi driver in Indonesia",
-    "link": "https://www.bbc.com/news/articles/cjw6el72xd4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 35,
     "pubdate": "2025-08-30-19-00-34 +0000",
     "source": "nypost",
     "headline": "Graphic video shows Israeli father throw himself on grenade to save sons during Hamas’ Oct. 7 attack",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2025/08/30/obituaries/tina-modotti-overlooked.html"
   },
   {
-    "score": 33,
-    "pubdate": "2025-08-30-14-44-07 +0000",
-    "source": "nyt",
-    "headline": "China Rekindles Wartime Fury, Stirring Fears of Anti-Japan Hate",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/china-japan-wwii-nationalism.html"
+    "score": 32,
+    "pubdate": "2025-08-30-16-41-58 +0000",
+    "source": "bbc",
+    "headline": "Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv",
+    "link": "https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 31,
-    "pubdate": "2025-08-30-22-23-30 +0000",
-    "source": "nypost",
-    "headline": "NYC shooting vics were ‘targeted,’ police sources say, as Sliwa rips into Adams’ gang summit plan",
-    "link": "https://nypost.com/2025/08/30/us-news/nyc-shooting-vics-were-targeted-police-sources-say-as-sliwa-rips-into-adams-gang-summit-plan/"
+    "score": 29,
+    "pubdate": "2025-08-30-10-00-06 +0000",
+    "source": "nyt",
+    "headline": "Why Three Wealthy Bidders Are Fighting for What’s Left of Hudson’s Bay",
+    "link": "https://www.nytimes.com/2025/08/30/world/canada/hudsons-bay-legal-fight.html"
   }
 ]
