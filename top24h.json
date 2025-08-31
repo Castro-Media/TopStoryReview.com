@@ -1,31 +1,31 @@
 [
   {
-    "score": 69,
-    "pubdate": "2025-08-31-15-48-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court has flirted with a flurry of Trump administration matters in recent months, but the battle over the president’s sweeping global tariffs will put the justices directly on the spot",
-    "link": "https://www.wsj.com/politics/policy/trump-tariff-case-ups-ante-at-supreme-court-688f9df3"
+    "score": 79,
+    "pubdate": "2025-08-31-16-15-56 +0000",
+    "source": "nypost",
+    "headline": "Rep. Ilhan Omar slams Trump official for pointing out Minnesota church shooter’s trans identity: ‘Not the moment to point fingers’",
+    "link": "https://nypost.com/2025/08/31/us-news/rep-ilhan-omar-slams-trump-adviser-for-focusing-on-minnesota-church-shooter-robin-westmans-trans-identity/"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2025-08-30-22-34-44 +0000",
     "source": "nyt",
     "headline": "Over 15 Killed in Gaza City, One Day After Israel Ends Daily Pauses for Aid",
     "link": "https://www.nytimes.com/2025/08/30/world/middleeast/gaza-israel-deadly-strikes.html"
   },
   {
-    "score": 47,
+    "score": 46,
     "pubdate": "2025-08-31-10-00-11 +0000",
     "source": "wapo",
     "headline": "Putin heads to China to shore up trading partners as economic pressure rises",
     "link": "https://www.washingtonpost.com/world/2025/08/31/russia-economy-shanghai-india-tariffs-oil/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-08-30-19-00-34 +0000",
-    "source": "nypost",
-    "headline": "Graphic video shows Israeli father throw himself on grenade to save sons during Hamas’ Oct. 7 attack",
-    "link": "https://nypost.com/2025/08/30/world-news/video-shows-israeli-father-slaughtered-by-hamas-in-front-of-sons/"
+    "score": 39,
+    "pubdate": "2025-08-31-15-48-00 +0000",
+    "source": "wsj",
+    "headline": "The Supreme Court has flirted with a flurry of Trump administration matters in recent months, but the battle over the president’s sweeping global tariffs will put the justices directly on the spot",
+    "link": "https://www.wsj.com/politics/policy/trump-tariff-case-ups-ante-at-supreme-court-688f9df3"
   },
   {
     "score": 38,
@@ -35,32 +35,18 @@
     "link": "https://www.wsj.com/politics/elections/in-virginias-governor-race-a-democrat-strives-to-be-the-anti-mamdani-56beaa76"
   },
   {
-    "score": 32,
-    "pubdate": "2025-08-30-18-29-29 +0000",
-    "source": "nyt",
-    "headline": "3 Dead in Indonesia After Jumping From Building Protesters Set on Fire, Official Says",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html"
+    "score": 36,
+    "pubdate": "2025-08-30-19-00-34 +0000",
+    "source": "nypost",
+    "headline": "Graphic video shows Israeli father throw himself on grenade to save sons during Hamas’ Oct. 7 attack",
+    "link": "https://nypost.com/2025/08/30/world-news/video-shows-israeli-father-slaughtered-by-hamas-in-front-of-sons/"
   },
   {
     "score": 30,
-    "pubdate": "2025-08-31-15-52-32 +0000",
+    "pubdate": "2025-08-31-16-37-33 +0000",
     "source": "nyt",
     "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
     "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2025-08-30-17-15-49 +0000",
-    "source": "nyt",
-    "headline": "Overlooked No More: Tina Modotti, Whose Life Was as Striking as Her Photographs",
-    "link": "https://www.nytimes.com/2025/08/30/obituaries/tina-modotti-overlooked.html"
-  },
-  {
-    "score": 28,
-    "pubdate": "2025-08-31-00-05-56 +0000",
-    "source": "nypost",
-    "headline": "Chicago mayor orders police not to cooperate with federal troops or agents amid Trump’s planned immigration crackdown",
-    "link": "https://nypost.com/2025/08/30/us-news/chicago-mayor-orders-police-not-to-cooperate-with-federal-troops-or-agents-amid-trumps-planned-immigration-crackdown/"
   },
   {
     "score": 27,
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "Tennis star Karolína Muchová halts US Open match in tears after spotting ex in crowd: ‘Shows up … where he shouldn’t be’",
     "link": "https://nypost.com/2025/08/31/us-news/tennis-ace-karolina-muchova-cries-at-us-open-after-seeing-ex-in-crowd/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-08-30-23-41-40 +0000",
+    "source": "bbc",
+    "headline": "Life inside notorious immigration centre 'Alligator Alcatraz' as it enters final days",
+    "link": "https://www.bbc.com/news/articles/cwy3zel0r3go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-08-30-18-38-46 +0000",
+    "source": "bbc",
+    "headline": "Three dead after protests over death of taxi driver in Indonesia",
+    "link": "https://www.bbc.com/news/articles/cjw6el72xd4o?at_medium=RSS&at_campaign=rss"
   }
 ]
