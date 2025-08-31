@@ -1,6 +1,6 @@
 [
   {
-    "score": 456,
+    "score": 447,
     "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
@@ -14,25 +14,32 @@
     "link": "https://nypost.com/2025/08/31/world-news/israel-begins-heavy-airstrikes-ahead-of-gaza-city-onslaught/"
   },
   {
-    "score": 146,
+    "score": 145,
     "pubdate": "2025-08-28-21-40-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-trump-lawsuit-fed-reserve-62f1ef95"
   },
   {
-    "score": 133,
+    "score": 132,
     "pubdate": "2025-08-29-03-49-25 +0000",
     "source": "bbc",
     "headline": "New video appears to show New Zealand fugitive dad with his child",
     "link": "https://www.bbc.com/news/articles/c4g6knz7e65o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 126,
+    "score": 123,
     "pubdate": "2025-08-30-17-25-31 +0000",
     "source": "nypost",
     "headline": "Russia launches sweeping attack on Southern Ukraine — two days after deadly barrage on Kyiv",
     "link": "https://nypost.com/2025/08/30/world-news/russia-launches-sweeping-attack-on-southern-ukraine-two-days-after-deadly-barrage-on-kyiv/"
+  },
+  {
+    "score": 108,
+    "pubdate": "2025-08-31-21-49-36 +0000",
+    "source": "nypost",
+    "headline": "Bullet fragment found in neck of Minneapolis school shooting survivor as parents tout ‘miracle’: ‘If it went any further, he would’ve died’",
+    "link": "https://nypost.com/2025/08/31/us-news/bullet-fragments-found-in-neck-of-minneapolis-catholic-school-shooting-survivor-who-was-shielded-by-his-friend/"
   },
   {
     "score": 106,
@@ -42,31 +49,24 @@
     "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 104,
-    "pubdate": "2025-08-28-07-13-23 +0000",
-    "source": "bbc",
-    "headline": "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin",
-    "link": "https://www.bbc.com/news/articles/cx29z9g2kl2o?at_medium=RSS&at_campaign=rss"
+    "score": 101,
+    "pubdate": "2025-08-30-18-46-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
+    "link": "https://www.wsj.com/politics/national-security/white-house-moves-forward-on-plans-for-a-department-of-war-0119e010"
   },
   {
-    "score": 90,
-    "pubdate": "2025-08-29-17-00-01 +0000",
-    "source": "latimes",
-    "headline": "Newsom, California lawmakers strike deal that would allow Uber, Lyft drivers to unionize",
-    "link": "https://www.latimes.com/california/story/2025-08-29/california-lawmakers-strike-deal-to-allow-uber-lyft-drivers-to-unionize"
-  },
-  {
-    "score": 87,
+    "score": 100,
     "pubdate": "2025-08-31-09-39-53 +0000",
     "source": "bbc",
     "headline": "Watch: Putin, Modi and other world leaders in China for summit",
     "link": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 84,
-    "pubdate": "2025-08-31-21-49-36 +0000",
-    "source": "nypost",
-    "headline": "Bullet fragment found in neck of Minneapolis Catholic school shooting survivor who was shielded by his friend",
-    "link": "https://nypost.com/2025/08/31/us-news/bullet-fragments-found-in-neck-of-minneapolis-catholic-school-shooting-survivor-who-was-shielded-by-his-friend/"
+    "score": 81,
+    "pubdate": "2025-08-29-17-00-01 +0000",
+    "source": "latimes",
+    "headline": "Newsom, California lawmakers strike deal that would allow Uber, Lyft drivers to unionize",
+    "link": "https://www.latimes.com/california/story/2025-08-29/california-lawmakers-strike-deal-to-allow-uber-lyft-drivers-to-unionize"
   }
 ]
