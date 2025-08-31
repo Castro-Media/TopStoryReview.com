@@ -1,29 +1,161 @@
 [
   {
+    "headline": "Average number of sick days taken by public servants growing post-COVID, new data shows",
+    "link": "https://www.cbc.ca/news/politics/sick-days-federal-servants-canada-1.7622222?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-31-14-46-38 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-40-10 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-40-10 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-40-10 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-40-10 +0000"
+  },
+  {
+    "headline": "‘Teacher of the Year’ Brandyn Hargrove gets off with probation after admitting to abusing ex-student starting at age 15",
+    "link": "https://nypost.com/2025/08/31/us-news/teacher-of-the-year-brandyn-hargrove-gets-probation-after-pleading-guilty-to-sex-assault/",
+    "source": "nypost",
+    "pubdate": "2025-08-31-14-40-06 +0000"
+  },
+  {
+    "headline": "UK secures £10bn deal to supply Norway with warships",
+    "link": "https://www.bbc.com/news/articles/cr5rgdpvn63o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-14-36-04 +0000"
+  },
+  {
+    "headline": "UK secures £10bn deal to supply Norway with warships",
+    "link": "https://www.bbc.com/news/articles/cr5rgdpvn63o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-14-36-04 +0000"
+  },
+  {
+    "headline": "Pirro Defends Guard Deployment and Takeover of D.C. Police Force",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/pirro-national-guard-dc-police.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-32-59 +0000"
+  },
+  {
+    "headline": "Pirro Defends Guard Deployment and Takeover of D.C. Police Force",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/pirro-national-guard-dc-police.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-32-59 +0000"
+  },
+  {
+    "headline": "Temperatures drop as summer winds down during Labor Day weekend",
+    "link": "https://nypost.com/2025/08/31/us-news/temperatures-drop-as-summer-winds-down-on-labor-day-weekend/",
+    "source": "nypost",
+    "pubdate": "2025-08-31-14-31-47 +0000"
+  },
+  {
+    "headline": "Tennis star meets fan after US Open hat snatching viral video",
+    "link": "https://www.bbc.com/news/articles/cx298wd85d9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-14-25-08 +0000"
+  },
+  {
+    "headline": "Pro-Palestinian Protesters at the Venice Film Festival Raise Gaza War",
+    "link": "https://www.nytimes.com/2025/08/30/arts/gaza-protest-venice-film-festival.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-15-20 +0000"
+  },
+  {
+    "headline": "Pro-Palestinian Protesters at the Venice Film Festival Raise Gaza War",
+    "link": "https://www.nytimes.com/2025/08/30/arts/gaza-protest-venice-film-festival.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-14-15-20 +0000"
+  },
+  {
+    "headline": "Ukraine vows to retaliate after Russian attacks on power sector",
+    "link": "https://www.cbc.ca/news/world/russia-attacks-ukraine-power-sector-1.7622218?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-31-14-03-25 +0000"
+  },
+  {
+    "headline": "People We Meet: Ted Barrow says S.F. is a skateboarder’s Athens",
+    "link": "https://missionlocal.org/2025/08/people-we-meet-ted-barrow-skateboarding-history-embarcadero-plaza-redesign/",
+    "source": "missionlocal",
+    "pubdate": "2025-08-31-14-00-00 +0000"
+  },
+  {
+    "headline": "Israel Says It Has Killed Hamas Spokesman in Gaza City Strike Ahead of Planned Invasion",
+    "link": "https://www.wsj.com/world/middle-east/israel-says-it-has-killed-hamas-spokesman-in-gaza-city-strike-ahead-of-planned-invasion-19436f8e",
+    "source": "wsj",
+    "pubdate": "2025-08-31-13-54-00 +0000"
+  },
+  {
+    "headline": "Redistricting Push Creates Chaos for Incumbents in Both Parties",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/redistricting-demcorats-republicans-texas-california.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-13-42-05 +0000"
+  },
+  {
+    "headline": "Redistricting Push Creates Chaos for Incumbents in Both Parties",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/redistricting-demcorats-republicans-texas-california.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-13-42-05 +0000"
+  },
+  {
+    "headline": "Tories pledge to get all oil and gas out of North Sea",
+    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-13-41-49 +0000"
+  },
+  {
+    "headline": "Tories pledge to get all oil and gas out of North Sea",
+    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-13-41-49 +0000"
+  },
+  {
+    "headline": "Indonesian politicians to have perks cut in bid to quell unrest",
+    "link": "https://www.bbc.com/news/articles/clyrk2kxlngo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-13-36-31 +0000"
+  },
+  {
+    "headline": "Putin receives red carpet welcome in China for summit aiming to counter Western global influence",
+    "link": "https://nypost.com/2025/08/31/world-news/putin-gets-red-carpet-welcome-in-china-for-summit-aiming-to-counter-western-global-influence/",
+    "source": "nypost",
+    "pubdate": "2025-08-31-13-28-31 +0000"
+  },
+  {
+    "headline": "Indonesia’s Leader Says He Will Bow to Some Protester Demands After Riots",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/indonesia-protest-politicians-ransack-loot.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-13-03-56 +0000"
+  },
+  {
+    "headline": "Indonesia’s Leader Says He Will Bow to Some Protester Demands After Riots",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/indonesia-protest-politicians-ransack-loot.html",
+    "source": "nyt",
+    "pubdate": "2025-08-31-13-03-56 +0000"
+  },
+  {
     "headline": "Roof! roof!",
     "link": "https://missionlocal.org/2025/08/sf-photos-roof-roof/",
     "source": "missionlocal",
     "pubdate": "2025-08-31-13-00-00 +0000"
   },
   {
-    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-12-59-28 +0000"
-  },
-  {
-    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-12-59-28 +0000"
-  },
-  {
-    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-12-59-28 +0000"
-  },
-  {
     "headline": "In Trump’s Federal Work Force Cuts, Black Women Are Among the Hardest Hit",
     "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-federal-work-force-black-women.html",
     "source": "nyt",
@@ -34,24 +166,6 @@
     "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-federal-work-force-black-women.html",
     "source": "nyt",
     "pubdate": "2025-08-31-12-58-03 +0000"
-  },
-  {
-    "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-12-24-46 +0000"
-  },
-  {
-    "headline": "Indonesia’s Leader Says He Will Bow to Some Protester Demands After Riots",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/indonesia-protest-politicians-ransack-loot.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-12-21-59 +0000"
-  },
-  {
-    "headline": "Indonesia’s Leader Says He Will Bow to Some Protester Demands After Riots",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/indonesia-protest-politicians-ransack-loot.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-12-21-59 +0000"
   },
   {
     "headline": "Heart-stopping video shows small plane crash into ocean and flip over — as rescuers race to save pilot’s life",
@@ -84,7 +198,7 @@
     "pubdate": "2025-08-31-11-48-40 +0000"
   },
   {
-    "headline": "Australian state to ban iconic fish-shaped soy sauce containers",
+    "headline": "Australian state to ban iconic fish-shaped soy sauce bottles",
     "link": "https://www.bbc.com/news/articles/c1ejwgq3zw0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-31-11-45-34 +0000"
@@ -148,18 +262,6 @@
     "link": "https://www.bbc.com/news/articles/c3v3g9z139wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-31-10-49-12 +0000"
-  },
-  {
-    "headline": "Tories pledge to get all oil and gas out of North Sea",
-    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-10-43-50 +0000"
-  },
-  {
-    "headline": "Tories pledge to get all oil and gas out of North Sea",
-    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-10-43-50 +0000"
   },
   {
     "headline": "Xi Uses Summit, Parade and History to Flaunt China’s Global Pull",
@@ -348,18 +450,6 @@
     "pubdate": "2025-08-31-09-02-02 +0000"
   },
   {
-    "headline": "Redistricting Push Creates Chaos for Incumbents in Both Parties",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/redistricting-demcorats-republicans-texas-california.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-09-01-50 +0000"
-  },
-  {
-    "headline": "Redistricting Push Creates Chaos for Incumbents in Both Parties",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/redistricting-demcorats-republicans-texas-california.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-09-01-50 +0000"
-  },
-  {
     "headline": "In the Hills of Puerto Rico, Feasting on a Very Smelly Fruit",
     "link": "https://www.nytimes.com/2025/08/31/us/puerto-rico-durian.html",
     "source": "nyt",
@@ -393,13 +483,13 @@
     "headline": "‘There Was a Death’: A Mother Fights for Justice in the Age of Fentanyl",
     "link": "https://www.nytimes.com/2025/08/31/us/fentanyl-mother-dealer-conviction.html",
     "source": "nyt",
-    "pubdate": "2025-08-31-09-00-15 +0000"
+    "pubdate": "2025-08-31-09-00-16 +0000"
   },
   {
     "headline": "‘There Was a Death’: A Mother Fights for Justice in the Age of Fentanyl",
     "link": "https://www.nytimes.com/2025/08/31/us/fentanyl-mother-dealer-conviction.html",
     "source": "nyt",
-    "pubdate": "2025-08-31-09-00-15 +0000"
+    "pubdate": "2025-08-31-09-00-16 +0000"
   },
   {
     "headline": "Democratic Party moderates see Virginia governor hopeful Abigail Spanberger as a more politically viable standard-bearer than the likes of New York City mayoral candidate Zohran Mamdani",
@@ -426,6 +516,12 @@
     "pubdate": "2025-08-31-08-15-44 +0000"
   },
   {
+    "headline": "How, and at what cost, could Canada catch up to Poland's defence spending?",
+    "link": "https://www.cbc.ca/news/politics/carney-poland-military-spending-1.7621840?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-08-31-08-00-00 +0000"
+  },
+  {
     "headline": "Planting seeds among rubble — how Palestinians are desperately trying to stave off famine and starvation",
     "link": "https://www.cbc.ca/news/world/famine-gaza-palestinians-war-1.7621333?cmp=rss",
     "source": "cbc",
@@ -450,13 +546,13 @@
     "pubdate": "2025-08-31-07-54-35 +0000"
   },
   {
-    "headline": "Trump slams Pritzker on Chicago crime after at least 6 people killed during bloody weekend",
+    "headline": "Trump slams JB Pritzker on Chicago crime after at least 6 people killed during bloody weekend",
     "link": "https://nypost.com/2025/08/31/us-news/trump-slams-pritzker-on-chicago-crime-governors-reported-weight-loss-fuels-2028-speculation/",
     "source": "nypost",
     "pubdate": "2025-08-31-07-40-59 +0000"
   },
   {
-    "headline": "Trump slams Pritzker on Chicago crime after at least 6 people killed during bloody weekend",
+    "headline": "Trump slams JB Pritzker on Chicago crime after at least 6 people killed during bloody weekend",
     "link": "https://nypost.com/2025/08/31/us-news/trump-slams-pritzker-on-chicago-crime-governors-reported-weight-loss-fuels-2028-speculation/",
     "source": "nypost",
     "pubdate": "2025-08-31-07-40-59 +0000"
@@ -570,7 +666,7 @@
     "pubdate": "2025-08-31-02-20-14 +0000"
   },
   {
-    "headline": "Lisa Cook standing up for the Federal Reserve is a ploy to turn a blind eye from her mortgage scandal",
+    "headline": "Lisa Cook standing up for the Federal Reserve over possible mortgage fraud is really a ploy to turn a blind eye from the Fed’s mission creep into wokeness",
     "link": "https://nypost.com/2025/08/30/business/lisa-cook-standing-up-for-the-federal-reserve-is-a-ploy-to-turn-a-blind-eye-from-her-mortgage-scandal/",
     "source": "nypost",
     "pubdate": "2025-08-31-02-17-54 +0000"
@@ -618,6 +714,12 @@
     "pubdate": "2025-08-31-01-24-02 +0000"
   },
   {
+    "headline": "Intermittent fasting: benefits or risks? Study raises questions about heart health",
+    "link": "https://www.bbc.com/news/articles/c0l6ye6xe12o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-01-22-17 +0000"
+  },
+  {
     "headline": "Boulder pro-Israel group under siege after deadly June firebombing terror attack",
     "link": "https://nypost.com/2025/08/30/us-news/boulder-pro-israel-group-under-siege-after-deadly-firebombing-terror-attack/",
     "source": "nypost",
@@ -658,12 +760,6 @@
     "link": "https://www.bbc.com/news/articles/cy08jr6jwn2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-31-00-58-36 +0000"
-  },
-  {
-    "headline": "‘No going back.’ Minneapolis church shooter turned violent after sometimes turbulent upbringing.",
-    "link": "https://www.startribune.com/no-going-back-minneapolis-church-shooter-turned-violent-after-religious-but-sometimes-turbulent-upbringing/601464119",
-    "source": "startribune",
-    "pubdate": "2025-08-31-00-46-57 +0000"
   },
   {
     "headline": "French voice fears over Bayeux Tapestry move to UK",
@@ -774,22 +870,10 @@
     "pubdate": "2025-08-30-22-34-44 +0000"
   },
   {
-    "headline": "Disgraced priest who had sex on church altar getting his confiscated electronics back",
-    "link": "https://nypost.com/2025/08/30/us-news/ex-priest-to-receive-confiscated-electronics-five-years-after-arrest-for-altar-sex/",
-    "source": "nypost",
-    "pubdate": "2025-08-30-22-31-28 +0000"
-  },
-  {
     "headline": "In break from past practice, judge signals she may free 6 asylum-seekers from ICE",
     "link": "https://missionlocal.org/2025/08/in-break-from-past-practice-6-asylum-seekers-petition-release-from-ice-detention/",
     "source": "missionlocal",
     "pubdate": "2025-08-30-22-27-10 +0000"
-  },
-  {
-    "headline": "NYC shooting vics were ‘targeted,’ police sources say, as Sliwa rips into Adams’ gang summit plan",
-    "link": "https://nypost.com/2025/08/30/us-news/nyc-shooting-vics-were-targeted-police-sources-say-as-sliwa-rips-into-adams-gang-summit-plan/",
-    "source": "nypost",
-    "pubdate": "2025-08-30-22-23-30 +0000"
   },
   {
     "headline": "Behind Thai Premier’s Dismissal, Unraveling of an Uneasy Alliance",
@@ -843,7 +927,7 @@
     "headline": "An Under-the-Radar Art Collection Could Fetch $180 Million at Auction",
     "link": "https://www.nytimes.com/2025/08/30/arts/design/weis-art-collection-christies.html",
     "source": "nyt",
-    "pubdate": "2025-08-30-20-29-30 +0000"
+    "pubdate": "2025-08-30-20-29-31 +0000"
   },
   {
     "headline": "IDF identifies body of slain Israeli hostage recovered from Gaza as Idan Shtivi",
@@ -976,18 +1060,6 @@
     "link": "https://www.wsj.com/world/india/u-s-tariffs-on-india-skirt-around-its-biggest-buyer-of-russian-oil-98587311",
     "source": "wsj",
     "pubdate": "2025-08-30-17-53-00 +0000"
-  },
-  {
-    "headline": "Pro-Palestinian Protesters at the Venice Film Festival Raise Gaza War",
-    "link": "https://www.nytimes.com/2025/08/30/arts/gaza-protest-venice-film-festival.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-17-50-09 +0000"
-  },
-  {
-    "headline": "Pro-Palestinian Protesters at the Venice Film Festival Raise Gaza War",
-    "link": "https://www.nytimes.com/2025/08/30/arts/gaza-protest-venice-film-festival.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-17-50-09 +0000"
   },
   {
     "headline": "Russia launches sweeping attack on Southern Ukraine — two days after deadly barrage on Kyiv",
@@ -1180,119 +1252,5 @@
     "link": "https://www.wsj.com/business/hospitality/malibus-beloved-reel-inn-destroyed-by-l-a-fires-is-told-it-cant-rebuild-3b839b74?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-08-30-15-00-00 +0000"
-  },
-  {
-    "headline": "Houthis in Yemen say PM of rebel-controlled government killed in Israeli airstrike",
-    "link": "https://www.cbc.ca/news/world/houthis-pm-killed-airstrikes-yemen-1.7622023?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-30-14-52-31 +0000"
-  },
-  {
-    "headline": "Israeli airstrike kills Houthi rebel PM Ahmed al-Rahawi in Yemen",
-    "link": "https://nypost.com/2025/08/30/world-news/israeli-airstrike-kills-houthi-rebel-pm-ahmed-al-rahawi/",
-    "source": "nypost",
-    "pubdate": "2025-08-30-14-49-58 +0000"
-  },
-  {
-    "headline": "Former Ukrainian Parliamentary Leader Shot Dead",
-    "link": "https://www.wsj.com/world/former-ukrainian-parliamentary-leader-gunned-down-29b067bd",
-    "source": "wsj",
-    "pubdate": "2025-08-30-14-48-00 +0000"
-  },
-  {
-    "headline": "China Rekindles Wartime Fury, Stirring Fears of Anti-Japan Hate",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/china-japan-wwii-nationalism.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-44-07 +0000"
-  },
-  {
-    "headline": "China Rekindles Wartime Fury, Stirring Fears of Anti-Japan Hate",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/china-japan-wwii-nationalism.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-44-07 +0000"
-  },
-  {
-    "headline": "U.S. criticized for denying Mahmoud Abbas visa to attend UN as Palestinian statehood set for discussion",
-    "link": "https://www.cbc.ca/news/world/us-bars-palestinian-leader-abbas-from-un-1.7621995?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-30-14-43-32 +0000"
-  },
-  {
-    "headline": "Mexico’s President Struggles to Escape Trump’s Growing Demands",
-    "link": "https://www.nytimes.com/2025/08/30/world/americas/mexico-us-trump-sheinbaum.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-38-02 +0000"
-  },
-  {
-    "headline": "Mexico’s President Struggles to Escape Trump’s Growing Demands",
-    "link": "https://www.nytimes.com/2025/08/30/world/americas/mexico-us-trump-sheinbaum.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-38-02 +0000"
-  },
-  {
-    "headline": "London’s Peace Monk Chants, Drums and Walks to Urge an End to War",
-    "link": "https://www.nytimes.com/2025/08/30/world/europe/london-peace-monk-battersea.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-32-15 +0000"
-  },
-  {
-    "headline": "London’s Peace Monk Chants, Drums and Walks to Urge an End to War",
-    "link": "https://www.nytimes.com/2025/08/30/world/europe/london-peace-monk-battersea.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-32-15 +0000"
-  },
-  {
-    "headline": "The ‘Economic Storm’ of Crises That Is Battering Afghanistan",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/afghanistan-economy-deportation.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-22-57 +0000"
-  },
-  {
-    "headline": "The ‘Economic Storm’ of Crises That Is Battering Afghanistan",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/afghanistan-economy-deportation.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-22-57 +0000"
-  },
-  {
-    "headline": "Kari Lake lays off more than 500 staff at Voice of America parent agency",
-    "link": "https://www.washingtonpost.com/business/2025/08/30/voice-of-america-kari-lake-layoffs/",
-    "source": "wapo",
-    "pubdate": "2025-08-30-14-12-26 +0000"
-  },
-  {
-    "headline": "Golden Hour",
-    "link": "https://www.nytimes.com/2025/08/30/briefing/golden-hour.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-10-19 +0000"
-  },
-  {
-    "headline": "From Cracker Barrel to Sydney Sweeney, Trump Has an Opinion to Share",
-    "link": "https://www.nytimes.com/2025/08/30/us/politics/cracker-barrel-sweeney-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-06-43 +0000"
-  },
-  {
-    "headline": "From Cracker Barrel to Sydney Sweeney, Trump Has an Opinion to Share",
-    "link": "https://www.nytimes.com/2025/08/30/us/politics/cracker-barrel-sweeney-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-14-06-43 +0000"
-  },
-  {
-    "headline": "Russia Distracts Its Citizens From Ukraine War With Nonstop Festivals",
-    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-ukraine-war-summer-in-moscow.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-13-56-48 +0000"
-  },
-  {
-    "headline": "Russia Distracts Its Citizens From Ukraine War With Nonstop Festivals",
-    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-ukraine-war-summer-in-moscow.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-13-56-48 +0000"
-  },
-  {
-    "headline": "Canada crushes Wales 42-0, advances to quarterfinals at Women's Rugby World Cup",
-    "link": "https://www.cbc.ca/sports/olympics/summer/rugby/canada-wales-womens-rugby-world-cup-recap-august-30-1.7622002?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-08-30-13-53-43 +0000"
   }
 ]
