@@ -1,5 +1,11 @@
 [
   {
+    "headline": "Putin and Modi in China for summit overshadowed by trade wars with US",
+    "link": "https://www.bbc.com/news/articles/clyrwv0egzro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-08-31-06-49-04 +0000"
+  },
+  {
     "headline": "Three victims of Florida 18-wheeler U-turn crash ID’d as Haitian immigrants: report",
     "link": "https://nypost.com/2025/08/31/us-news/three-victims-of-florida-18-wheeler-u-turn-crash-idd-as-haitian-immigrants-report/",
     "source": "nypost",
@@ -63,13 +69,13 @@
     "headline": "America Closed Malls, but China Kept Building Them. Now It Has Too Many.",
     "link": "https://www.nytimes.com/2025/08/31/business/china-shopping-malls.html",
     "source": "nyt",
-    "pubdate": "2025-08-31-04-00-10 +0000"
+    "pubdate": "2025-08-31-04-00-11 +0000"
   },
   {
     "headline": "America Closed Malls, but China Kept Building Them. Now It Has Too Many.",
     "link": "https://www.nytimes.com/2025/08/31/business/china-shopping-malls.html",
     "source": "nyt",
-    "pubdate": "2025-08-31-04-00-10 +0000"
+    "pubdate": "2025-08-31-04-00-11 +0000"
   },
   {
     "headline": "Thousands demonstrate across Mexico for the 130,000 missing",
@@ -1170,14 +1176,14 @@
     "pubdate": "2025-08-30-10-00-00 +0000"
   },
   {
-    "headline": "Property owners recoil at cost, burden of Joshua tree protections",
-    "link": "https://www.latimes.com/environment/story/2025-08-30/joshua-tree-protections-anger-locals-over-fees-and-permits",
+    "headline": "'It's sickening.' More than a dozen headstones stolen from one of L.A.'s oldest cemeteries",
+    "link": "https://www.latimes.com/california/story/2025-08-30/its-sickening-more-than-a-dozen-headstones-stolen-from-one-of-l-a-s-oldest-cemeteries",
     "source": "latimes",
     "pubdate": "2025-08-30-10-00-00 +0000"
   },
   {
-    "headline": "'It's sickening.' More than a dozen headstones stolen from one of L.A.'s oldest cemeteries",
-    "link": "https://www.latimes.com/california/story/2025-08-30/its-sickening-more-than-a-dozen-headstones-stolen-from-one-of-l-a-s-oldest-cemeteries",
+    "headline": "Property owners recoil at cost, burden of Joshua tree protections",
+    "link": "https://www.latimes.com/environment/story/2025-08-30/joshua-tree-protections-anger-locals-over-fees-and-permits",
     "source": "latimes",
     "pubdate": "2025-08-30-10-00-00 +0000"
   },
@@ -3540,12 +3546,6 @@
     "pubdate": "2025-08-29-00-34-55 +0000"
   },
   {
-    "headline": "UK, France and Germany move to reimpose UN sanctions on Iran",
-    "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-29-00-34-55 +0000"
-  },
-  {
     "headline": "Did a prestigious Napa Valley winery play a role in sparking the 6,800-acre Pickett fire?",
     "link": "https://www.latimes.com/california/story/2025-08-28/did-a-prestigious-napa-valley-winery-play-a-role-in-sparking-the-6-800-acre-pickett-fire",
     "source": "latimes",
@@ -5040,8 +5040,14 @@
     "pubdate": "2025-08-27-10-16-24 +0000"
   },
   {
-    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
-    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
+    "headline": "On U.S. direction under Trump, Californians split sharply along partisan lines, poll finds",
+    "link": "https://www.latimes.com/california/story/2025-08-27/la-times-berkeley-poll-trump-administration-tariffs-medicaid-high-speed-rail",
+    "source": "latimes",
+    "pubdate": "2025-08-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: Pick for Nevada prosecutor shows justice under Trump isn't blind — it's been perverted",
+    "link": "https://www.latimes.com/politics/story/2025-08-27/trump-politicizing-justice-department-nevada-us-attorney-sigal-chattah",
     "source": "latimes",
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
@@ -5052,14 +5058,8 @@
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
   {
-    "headline": "On U.S. direction under Trump, Californians split sharply along partisan lines, poll finds",
-    "link": "https://www.latimes.com/california/story/2025-08-27/la-times-berkeley-poll-trump-administration-tariffs-medicaid-high-speed-rail",
-    "source": "latimes",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: Pick for Nevada prosecutor shows justice under Trump isn't blind — it's been perverted",
-    "link": "https://www.latimes.com/politics/story/2025-08-27/trump-politicizing-justice-department-nevada-us-attorney-sigal-chattah",
+    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
+    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
     "source": "latimes",
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
@@ -6084,14 +6084,14 @@
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
-    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
-    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
+    "headline": "Most California voters disapprove of Trump's immigration enforcement policies, poll shows",
+    "link": "https://www.latimes.com/california/story/2025-08-24/la-me-latimes-berkeley-poll-on-immigration",
     "source": "latimes",
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
   {
-    "headline": "Most California voters disapprove of Trump's immigration enforcement policies, poll shows",
-    "link": "https://www.latimes.com/california/story/2025-08-24/la-me-latimes-berkeley-poll-on-immigration",
+    "headline": "California's lightning-fast push for partisan redistricting reflects Trump's new America",
+    "link": "https://www.latimes.com/politics/story/2025-08-24/californias-lightning-fast-push-for-partisan-redistricting-reflects-trumps-new-america",
     "source": "latimes",
     "pubdate": "2025-08-24-10-00-00 +0000"
   },
