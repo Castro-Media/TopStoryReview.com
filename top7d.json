@@ -1,6 +1,6 @@
 [
   {
-    "score": 461,
+    "score": 463,
     "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
@@ -14,14 +14,14 @@
     "link": "https://www.bbc.com/news/articles/cly6lxn1l4po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 149,
+    "score": 147,
     "pubdate": "2025-08-28-21-40-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook sued President Trump, seeking to block his move to fire her, in an unprecedented legal battle testing the president’s power over the independent central bank’s board",
     "link": "https://www.wsj.com/economy/central-banking/lisa-cook-trump-lawsuit-fed-reserve-62f1ef95"
   },
   {
-    "score": 121,
+    "score": 123,
     "pubdate": "2025-08-30-17-25-31 +0000",
     "source": "nypost",
     "headline": "Russia launches sweeping attack on Southern Ukraine — two days after deadly barrage on Kyiv",
@@ -42,18 +42,25 @@
     "link": "https://www.latimes.com/california/story/2025-08-29/former-san-jose-city-councilmember-sentenced-in-child-molestation-case"
   },
   {
-    "score": 94,
+    "score": 93,
     "pubdate": "2025-08-30-20-39-24 +0000",
     "source": "bbc",
     "headline": "Houthis confirm their prime minister killed in Israeli strike",
     "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 82,
+    "score": 83,
     "pubdate": "2025-08-29-23-59-00 +0000",
     "source": "wsj",
     "headline": "A federal appeals court struck down the Trump administration’s signature tariffs, finding that the president had gone too far in using emergency powers to rewrite U.S. trade policy",
     "link": "https://www.wsj.com/politics/policy/appeals-court-rejects-trumps-global-tariffs-aae2dc99"
+  },
+  {
+    "score": 77,
+    "pubdate": "2025-08-31-19-30-44 +0000",
+    "source": "nypost",
+    "headline": "Ex-Hempstead boss Don Clavin retires after being outed over $179K ‘no-show’ job at shuttered office",
+    "link": "https://nypost.com/2025/08/31/us-news/ex-hempstead-boss-don-clavin-retires-after-being-outed-over-179k-no-show-job-at-shuttered-office/"
   },
   {
     "score": 74,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Rep. Ilhan Omar slams Trump official for pointing out Minnesota church shooter’s trans identity: ‘Not the moment to point fingers’",
     "link": "https://nypost.com/2025/08/31/us-news/rep-ilhan-omar-slams-trump-adviser-for-focusing-on-minnesota-church-shooter-robin-westmans-trans-identity/"
-  },
-  {
-    "score": 73,
-    "pubdate": "2025-08-31-18-44-11 +0000",
-    "source": "nypost",
-    "headline": "AI isn’t coming for your job, says Trump labor boss, but it’s here to stay",
-    "link": "https://nypost.com/2025/08/31/us-news/no-pink-slips-from-ai-only-pay-bumps-says-trump-labor-boss/"
   }
 ]
