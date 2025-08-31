@@ -1,38 +1,31 @@
 [
   {
-    "score": 72,
-    "pubdate": "2025-08-30-18-46-00 +0000",
+    "score": 69,
+    "pubdate": "2025-08-31-15-48-00 +0000",
     "source": "wsj",
-    "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
-    "link": "https://www.wsj.com/politics/national-security/white-house-moves-forward-on-plans-for-a-department-of-war-0119e010"
+    "headline": "The Supreme Court has flirted with a flurry of Trump administration matters in recent months, but the battle over the president’s sweeping global tariffs will put the justices directly on the spot",
+    "link": "https://www.wsj.com/politics/policy/trump-tariff-case-ups-ante-at-supreme-court-688f9df3"
   },
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2025-08-30-22-34-44 +0000",
     "source": "nyt",
     "headline": "Over 15 Killed in Gaza City, One Day After Israel Ends Daily Pauses for Aid",
     "link": "https://www.nytimes.com/2025/08/30/world/middleeast/gaza-israel-deadly-strikes.html"
   },
   {
-    "score": 45,
-    "pubdate": "2025-08-30-15-09-17 +0000",
-    "source": "nyt",
-    "headline": "Large Russian Air Attack Hits Ukraine, Amid Stalled Bid for Peace Talks",
-    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html"
+    "score": 47,
+    "pubdate": "2025-08-31-10-00-11 +0000",
+    "source": "wapo",
+    "headline": "Putin heads to China to shore up trading partners as economic pressure rises",
+    "link": "https://www.washingtonpost.com/world/2025/08/31/russia-economy-shanghai-india-tariffs-oil/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-08-31-13-28-31 +0000",
+    "score": 41,
+    "pubdate": "2025-08-30-19-00-34 +0000",
     "source": "nypost",
-    "headline": "Putin receives red carpet welcome in China for summit aiming to counter Western global influence",
-    "link": "https://nypost.com/2025/08/31/world-news/putin-gets-red-carpet-welcome-in-china-for-summit-aiming-to-counter-western-global-influence/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-08-30-15-08-37 +0000",
-    "source": "nyt",
-    "headline": "Targeting Iran’s Leaders, Israel Found a Weak Link: Their Bodyguards",
-    "link": "https://www.nytimes.com/2025/08/30/us/politics/israel-iran-assassination.html"
+    "headline": "Graphic video shows Israeli father throw himself on grenade to save sons during Hamas’ Oct. 7 attack",
+    "link": "https://nypost.com/2025/08/30/world-news/video-shows-israeli-father-slaughtered-by-hamas-in-front-of-sons/"
   },
   {
     "score": 38,
@@ -42,31 +35,38 @@
     "link": "https://www.wsj.com/politics/elections/in-virginias-governor-race-a-democrat-strives-to-be-the-anti-mamdani-56beaa76"
   },
   {
-    "score": 34,
-    "pubdate": "2025-08-30-19-00-34 +0000",
-    "source": "nypost",
-    "headline": "Graphic video shows Israeli father throw himself on grenade to save sons during Hamas’ Oct. 7 attack",
-    "link": "https://nypost.com/2025/08/30/world-news/video-shows-israeli-father-slaughtered-by-hamas-in-front-of-sons/"
+    "score": 32,
+    "pubdate": "2025-08-30-18-29-29 +0000",
+    "source": "nyt",
+    "headline": "3 Dead in Indonesia After Jumping From Building Protesters Set on Fire, Official Says",
+    "link": "https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html"
   },
   {
-    "score": 29,
-    "pubdate": "2025-08-31-14-40-10 +0000",
+    "score": 30,
+    "pubdate": "2025-08-31-15-52-32 +0000",
     "source": "nyt",
     "headline": "Judge Temporarily Blocks U.S. Efforts to Deport Guatemalan Children",
     "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html"
   },
   {
-    "score": 28,
-    "pubdate": "2025-08-31-13-03-56 +0000",
-    "source": "nyt",
-    "headline": "Indonesia’s Leader Says He Will Bow to Some Protester Demands After Riots",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/indonesia-protest-politicians-ransack-loot.html"
-  },
-  {
-    "score": 28,
+    "score": 29,
     "pubdate": "2025-08-30-17-15-49 +0000",
     "source": "nyt",
     "headline": "Overlooked No More: Tina Modotti, Whose Life Was as Striking as Her Photographs",
     "link": "https://www.nytimes.com/2025/08/30/obituaries/tina-modotti-overlooked.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-08-31-00-05-56 +0000",
+    "source": "nypost",
+    "headline": "Chicago mayor orders police not to cooperate with federal troops or agents amid Trump’s planned immigration crackdown",
+    "link": "https://nypost.com/2025/08/30/us-news/chicago-mayor-orders-police-not-to-cooperate-with-federal-troops-or-agents-amid-trumps-planned-immigration-crackdown/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-08-31-15-15-17 +0000",
+    "source": "nypost",
+    "headline": "Tennis star Karolína Muchová halts US Open match in tears after spotting ex in crowd: ‘Shows up … where he shouldn’t be’",
+    "link": "https://nypost.com/2025/08/31/us-news/tennis-ace-karolina-muchova-cries-at-us-open-after-seeing-ex-in-crowd/"
   }
 ]
