@@ -1,6 +1,6 @@
 [
   {
-    "score": 78,
+    "score": 75,
     "pubdate": "2025-08-31-07-40-59 +0000",
     "source": "nypost",
     "headline": "Trump slams Pritzker on Chicago crime after at least 6 people killed during bloody weekend",
@@ -14,7 +14,7 @@
     "link": "https://nypost.com/2025/08/30/world-news/tens-of-thousands-of-palestinians-flee-amid-gaza-city-takeover-fears-as-israel-reportedly-cuts-humanitarian-aid/"
   },
   {
-    "score": 50,
+    "score": 48,
     "pubdate": "2025-08-30-15-37-54 +0000",
     "source": "bbc",
     "headline": "Russia launches massive attack on Ukraine, as Kyiv hits oil refineries",
@@ -28,13 +28,6 @@
     "link": "https://www.nytimes.com/2025/08/30/us/politics/israel-iran-assassination.html"
   },
   {
-    "score": 39,
-    "pubdate": "2025-08-30-18-46-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
-    "link": "https://www.wsj.com/politics/national-security/white-house-moves-forward-on-plans-for-a-department-of-war-0119e010"
-  },
-  {
     "score": 38,
     "pubdate": "2025-08-31-09-21-41 +0000",
     "source": "cbc",
@@ -42,11 +35,18 @@
     "link": "https://www.cbc.ca/news/world/china-india-regional-summit-1.7622195?cmp=rss"
   },
   {
-    "score": 35,
-    "pubdate": "2025-08-30-18-29-29 +0000",
+    "score": 36,
+    "pubdate": "2025-08-30-19-37-30 +0000",
+    "source": "bbc",
+    "headline": "Trump administration moves to fire most Voice of America journalists",
+    "link": "https://www.bbc.com/news/articles/cdd38v3zvjdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-08-30-17-50-09 +0000",
     "source": "nyt",
-    "headline": "3 Dead in Indonesia After Jumping From Building Protesters Set on Fire, Official Says",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/indonesia-protests-dead-prabowo-subianto.html"
+    "headline": "Pro-Palestinian Protesters at the Venice Film Festival Raise Gaza War",
+    "link": "https://www.nytimes.com/2025/08/30/arts/gaza-protest-venice-film-festival.html"
   },
   {
     "score": 32,
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/politics/elections/in-virginias-governor-race-a-democrat-strives-to-be-the-anti-mamdani-56beaa76"
   },
   {
-    "score": 32,
-    "pubdate": "2025-08-30-17-15-49 +0000",
-    "source": "nyt",
-    "headline": "Overlooked No More: Tina Modotti, Whose Life Was as Striking as Her Photographs",
-    "link": "https://www.nytimes.com/2025/08/30/obituaries/tina-modotti-overlooked.html"
-  },
-  {
     "score": 31,
     "pubdate": "2025-08-30-19-00-34 +0000",
     "source": "nypost",
     "headline": "Graphic video shows Israeli father throw himself on grenade to save sons during Hamas’ Oct. 7 attack",
     "link": "https://nypost.com/2025/08/30/world-news/video-shows-israeli-father-slaughtered-by-hamas-in-front-of-sons/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-08-30-17-15-49 +0000",
+    "source": "nyt",
+    "headline": "Overlooked No More: Tina Modotti, Whose Life Was as Striking as Her Photographs",
+    "link": "https://www.nytimes.com/2025/08/30/obituaries/tina-modotti-overlooked.html"
   }
 ]
