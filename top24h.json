@@ -7,7 +7,7 @@
     "link": "https://nypost.com/2025/08/31/us-news/pritzker-floats-wild-conspiracy-theory-that-trump-has-other-aims-for-deploying-national-guard-to-blue-cities/"
   },
   {
-    "score": 69,
+    "score": 70,
     "pubdate": "2025-08-31-21-23-44 +0000",
     "source": "nypost",
     "headline": "Israel begins heavy airstrikes ahead of Gaza City onslaught, warns Hamas fighters abroad that attacks ‘will reach them, too’",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2025/08/31/us-news/rudy-giuliani-hurt-in-car-wreck-after-helping-domestic-violence-victim-spokesman/"
   },
   {
-    "score": 47,
+    "score": 49,
     "pubdate": "2025-08-31-10-00-11 +0000",
     "source": "wapo",
     "headline": "Putin heads to China to shore up trading partners as economic pressure rises",
@@ -35,7 +35,7 @@
     "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html"
   },
   {
-    "score": 37,
+    "score": 38,
     "pubdate": "2025-08-31-21-49-36 +0000",
     "source": "nypost",
     "headline": "Bullet fragment found in neck of Minneapolis school shooting survivor as parents tout ‘miracle’: ‘If it went any further, he would’ve died’",
@@ -49,11 +49,18 @@
     "link": "https://nypost.com/2025/08/31/us-news/trump-mulls-great-plan-to-pay-palestinians-5k-to-leave-gaza-during-post-war-rebuild-report/"
   },
   {
-    "score": 31,
+    "score": 32,
     "pubdate": "2025-08-31-16-15-56 +0000",
     "source": "nypost",
     "headline": "Rep. Ilhan Omar slams Trump official for pointing out Minnesota church shooter’s trans identity: ‘Not the moment to point fingers’",
     "link": "https://nypost.com/2025/08/31/us-news/rep-ilhan-omar-slams-trump-adviser-for-focusing-on-minnesota-church-shooter-robin-westmans-trans-identity/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-08-31-18-12-00 +0000",
+    "source": "wsj",
+    "headline": "The Supreme Court has flirted with a flurry of Trump administration matters in recent months, but the battle over the president’s sweeping global tariffs will put the justices directly on the spot",
+    "link": "https://www.wsj.com/politics/policy/trump-tariff-case-ups-ante-at-supreme-court-688f9df3"
   },
   {
     "score": 30,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Jeanine Pirro blames elitist jurors who don’t take crime seriously for failure to indict DC sandwich slinger",
     "link": "https://nypost.com/2025/08/31/us-news/jeanine-pirro-blames-elitist-jurors-who-dont-take-crime-seriously-for-failure-to-indict-dc-sandwich-slinger/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2025-08-31-18-12-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court has flirted with a flurry of Trump administration matters in recent months, but the battle over the president’s sweeping global tariffs will put the justices directly on the spot",
-    "link": "https://www.wsj.com/politics/policy/trump-tariff-case-ups-ante-at-supreme-court-688f9df3"
   }
 ]
