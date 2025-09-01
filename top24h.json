@@ -1,45 +1,52 @@
 [
   {
-    "score": 99,
+    "score": 100,
     "pubdate": "2025-09-01-09-39-10 +0000",
     "source": "bbc",
     "headline": "Judge blocks Trump administration move to deport Guatemalan children",
     "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2025-08-31-14-53-00 +0000",
     "source": "wsj",
     "headline": "Israel Says It Has Killed Hamas Spokesman in Gaza City Strike Ahead of Planned Invasion",
     "link": "https://www.wsj.com/world/middle-east/israel-says-it-has-killed-hamas-spokesman-in-gaza-city-strike-ahead-of-planned-invasion-19436f8e"
   },
   {
-    "score": 55,
-    "pubdate": "2025-08-31-21-49-36 +0000",
-    "source": "nypost",
-    "headline": "Bullet fragment found in neck of Minneapolis school shooting survivor as parents tout ‘miracle’: ‘If it went any further, he would’ve died’",
-    "link": "https://nypost.com/2025/08/31/us-news/bullet-fragments-found-in-neck-of-minneapolis-catholic-school-shooting-survivor-who-was-shielded-by-his-friend/"
-  },
-  {
-    "score": 49,
+    "score": 48,
     "pubdate": "2025-09-01-09-00-27 +0000",
     "source": "nyt",
     "headline": "Ukraine War Leads to Global Shortage of TNT for Military and Mining Use",
     "link": "https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html"
   },
   {
+    "score": 45,
+    "pubdate": "2025-08-31-19-58-46 +0000",
+    "source": "nypost",
+    "headline": "Illinois Gov. Pritzker floats conspiracy theory that Trump has ‘other aims’ for deploying National Guard to blue cities: ‘He would like to stop the elections’",
+    "link": "https://nypost.com/2025/08/31/us-news/pritzker-floats-wild-conspiracy-theory-that-trump-has-other-aims-for-deploying-national-guard-to-blue-cities/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-08-31-22-47-00 +0000",
+    "source": "wsj",
+    "headline": "Rudy Giuliani Injured in Car Crash in New Hampshire",
+    "link": "https://www.wsj.com/us-news/rudy-giuliani-injured-after-car-crash-in-new-hampshire-e6496cd8"
+  },
+  {
     "score": 38,
-    "pubdate": "2025-09-01-09-04-04 +0000",
+    "pubdate": "2025-09-01-11-32-56 +0000",
     "source": "nyt",
     "headline": "Xi, Putin and Modi Try to Signal Unity at China Summit",
     "link": "https://www.nytimes.com/2025/09/01/world/asia/china-xi-putin-modi.html"
   },
   {
     "score": 38,
-    "pubdate": "2025-08-31-22-47-00 +0000",
-    "source": "wsj",
-    "headline": "Rudy Giuliani Injured in Car Crash in New Hampshire",
-    "link": "https://www.wsj.com/us-news/rudy-giuliani-injured-after-car-crash-in-new-hampshire-e6496cd8"
+    "pubdate": "2025-09-01-06-11-59 +0000",
+    "source": "bbc",
+    "headline": "Fugitive wanted over Australia police killings being helped, police say",
+    "link": "https://www.bbc.com/news/articles/c4gzny0p0n9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
@@ -49,15 +56,8 @@
     "link": "https://nypost.com/2025/08/31/us-news/robert-mueller-former-trump-russia-special-prosecutor-diagnosed-with-parkinsons-4-years-ago-family/"
   },
   {
-    "score": 37,
-    "pubdate": "2025-09-01-06-11-59 +0000",
-    "source": "bbc",
-    "headline": "Fugitive wanted over Australia police killings being helped, police say",
-    "link": "https://www.bbc.com/news/articles/c4gzny0p0n9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 35,
-    "pubdate": "2025-09-01-10-49-39 +0000",
+    "pubdate": "2025-09-01-11-45-15 +0000",
     "source": "nyt",
     "headline": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
     "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html"
