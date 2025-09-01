@@ -1,9 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2025-09-01-08-53-15 +0000",
+    "score": 25,
+    "pubdate": "2025-09-01-10-49-39 +0000",
+    "source": "nyt",
+    "headline": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-09-01-10-42-48 +0000",
+    "source": "nyt",
+    "headline": "Israel’s New Negotiating Stance Is Likely to Prolong Gaza War, Experts Say",
+    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-01-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Reeling from Trump cuts, staffers unionize at Yosemite, Sequoia national parks",
+    "link": "https://www.latimes.com/environment/story/2025-09-01/yosemite-sequoia-national-parks-workers-unionize"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-01-10-00-00 +0000",
     "source": "nypost",
-    "headline": "Rosie O’Donnell apologizes for calling trans Minneapolis Catholic school shooter a MAGA supporter: ‘I messed up’",
-    "link": "https://nypost.com/2025/09/01/us-news/rosie-odonnell-apologizes-for-calling-trans-minneapolis-catholic-school-shooter-a-maga-supporter-i-messed-up/"
+    "headline": "Jason Ader, hedge fund boss who was sued by his own mother, declares bankruptcy — and faces $370K Amex bill after wild Monaco spree",
+    "link": "https://nypost.com/2025/09/01/business/jason-ader-hedge-fund-boss-who-was-sued-by-his-own-mother-declares-bankruptcy/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-01-10-32-17 +0000",
+    "source": "bbc",
+    "headline": "Tories pledge to get all oil and gas out of North Sea",
+    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-01-10-06-28 +0000",
+    "source": "bbc",
+    "headline": "UN chief demands release of 11 staff arrested in Yemen",
+    "link": "https://www.bbc.com/news/articles/ce93k7ye2geo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-01-10-07-09 +0000",
+    "source": "bbc",
+    "headline": "Mob burns Nigerian woman to death for alleged blasphemy",
+    "link": "https://www.bbc.com/news/articles/c5y21zxyd6mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-01-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Three teens murdered a girl in a 'satanic ritual.' Why is only one still in prison?",
+    "link": "https://www.latimes.com/california/story/2025-09-01/satanic-murder-parole"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-01-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Inspired by Rosie the Riveter, Bay Area women team up to repair WWII ship",
+    "link": "https://www.latimes.com/california/story/2025-09-01/modern-day-rosie-the-riveters-fix-old-ship"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-01-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Landmark club reopens in Altadena: Life isn't the same, community members say, but it's a start",
+    "link": "https://www.latimes.com/california/story/2025-09-01/altadena-town-country-club-reopens-community-rallying-point"
   }
 ]
