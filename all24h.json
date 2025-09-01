@@ -1,21 +1,501 @@
 [
   {
+    "headline": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-10-49-39 +0000"
+  },
+  {
+    "headline": "Hundreds Killed in 6.0-Magnitude Earthquake, Afghan Officials Say",
+    "link": "https://www.wsj.com/world/asia/afghanistan-struck-by-deadly-6-0-magnitude-earthquake-f2c5d84f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-10-44-00 +0000"
+  },
+  {
+    "headline": "More than 800 dead after earthquake hits eastern Afghanistan, Taliban say",
+    "link": "https://www.washingtonpost.com/world/2025/09/01/afghanistan-earthquake-death-toll/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-10-43-45 +0000"
+  },
+  {
+    "headline": "Israel’s New Negotiating Stance Is Likely to Prolong Gaza War, Experts Say",
+    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-10-42-48 +0000"
+  },
+  {
+    "headline": "Israel’s New Negotiating Stance Is Likely to Prolong Gaza War, Experts Say",
+    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-10-42-48 +0000"
+  },
+  {
+    "headline": "Gold Prices Hit New High, Overseas Stocks Rise",
+    "link": "https://www.wsj.com/finance/stocks/gold-prices-hit-new-high-overseas-stocks-rise-a10e926d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-01-10-41-00 +0000"
+  },
+  {
+    "headline": "What to Know About the Earthquake in Afghanistan",
+    "link": "https://www.nytimes.com/2025/09/01/world/asia/earthquake-afghanistan-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-10-38-27 +0000"
+  },
+  {
+    "headline": "What to Know About the Earthquake in Afghanistan",
+    "link": "https://www.nytimes.com/2025/09/01/world/asia/earthquake-afghanistan-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-10-38-27 +0000"
+  },
+  {
+    "headline": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-10-36-44 +0000"
+  },
+  {
+    "headline": "Man found dead in pool of blood at Burning Man, sparking investigation",
+    "link": "https://www.washingtonpost.com/nation/2025/09/01/burning-man-homicide-investigation/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-10-35-44 +0000"
+  },
+  {
+    "headline": "Man found dead at Burning Man festival",
+    "link": "https://www.bbc.com/news/articles/cp8z6x062y4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-34-49 +0000"
+  },
+  {
+    "headline": "Tories pledge to get all oil and gas out of North Sea",
+    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-32-17 +0000"
+  },
+  {
+    "headline": "Tories pledge to get all oil and gas out of North Sea",
+    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-32-17 +0000"
+  },
+  {
+    "headline": "UK to tighten family member rules for asylum cases",
+    "link": "https://www.bbc.com/news/articles/c626p66d6jxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-26-09 +0000"
+  },
+  {
+    "headline": "Ticketless train travel to be trialled across cities",
+    "link": "https://www.bbc.com/news/articles/cly702xd0edo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-15-38 +0000"
+  },
+  {
+    "headline": "I chose my Caesarean date to be eligible for earlier childcare funding",
+    "link": "https://www.bbc.com/news/articles/c5yeldz568jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-07-29 +0000"
+  },
+  {
+    "headline": "Mob burns Nigerian woman to death for alleged blasphemy",
+    "link": "https://www.bbc.com/news/articles/c5y21zxyd6mo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-07-09 +0000"
+  },
+  {
+    "headline": "Mob burns Nigerian woman to death for alleged blasphemy",
+    "link": "https://www.bbc.com/news/articles/c5y21zxyd6mo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-07-09 +0000"
+  },
+  {
+    "headline": "UN chief demands release of 11 staff arrested in Yemen",
+    "link": "https://www.bbc.com/news/articles/ce93k7ye2geo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-06-28 +0000"
+  },
+  {
+    "headline": "UN chief demands release of 11 staff arrested in Yemen",
+    "link": "https://www.bbc.com/news/articles/ce93k7ye2geo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-06-28 +0000"
+  },
+  {
+    "headline": "How hotels housing asylum seekers ignited a political firestorm in the U.K.",
+    "link": "https://www.washingtonpost.com/world/2025/09/01/uk-asylum-hotels-migration-protests-britain/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-10-00-41 +0000"
+  },
+  {
+    "headline": "Reeling from Trump cuts, staffers unionize at Yosemite, Sequoia national parks",
+    "link": "https://www.latimes.com/environment/story/2025-09-01/yosemite-sequoia-national-parks-workers-unionize",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "How a Macy's parking structure became L.A. latest luxury apartment complex",
+    "link": "https://www.latimes.com/business/story/2025-09-01/residents-are-moving-into-once-grand-westside-shopping-center",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "After high hopes, Hollywood's summer box office falls flat again",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-01/summer-box-office-fell-flat-again",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Jason Ader, hedge fund boss who was sued by his own mother, declares bankruptcy — and faces $370K Amex bill after wild Monaco spree",
+    "link": "https://nypost.com/2025/09/01/business/jason-ader-hedge-fund-boss-who-was-sued-by-his-own-mother-declares-bankruptcy/",
+    "source": "nypost",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Inspired by Rosie the Riveter, Bay Area women team up to repair WWII ship",
+    "link": "https://www.latimes.com/california/story/2025-09-01/modern-day-rosie-the-riveters-fix-old-ship",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Reeling from Trump cuts, staffers unionize at Yosemite, Sequoia national parks",
+    "link": "https://www.latimes.com/environment/story/2025-09-01/yosemite-sequoia-national-parks-workers-unionize",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Free AI training comes to California colleges — but at what cost?",
+    "link": "https://www.latimes.com/california/story/2025-09-01/free-ai-training-comes-to-california-colleges-but-at-what-cost",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Landmark club reopens in Altadena: Life isn't the same, community members say, but it's a start",
+    "link": "https://www.latimes.com/california/story/2025-09-01/altadena-town-country-club-reopens-community-rallying-point",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Three teens murdered a girl in a 'satanic ritual.' Why is only one still in prison?",
+    "link": "https://www.latimes.com/california/story/2025-09-01/satanic-murder-parole",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Plagued by geese, one city pays for drones and dogs to scare them away",
+    "link": "https://www.washingtonpost.com/nation/2025/09/01/canada-geese-droppings-california/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Royal Mail returns to profit for first time in three years",
+    "link": "https://www.bbc.com/news/articles/cger3w129l0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-09-56-07 +0000"
+  },
+  {
+    "headline": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
+    "link": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-42-33 +0000"
+  },
+  {
+    "headline": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
+    "link": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-42-33 +0000"
+  },
+  {
+    "headline": "Judge blocks Trump administration move to deport Guatemalan children",
+    "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-09-39-10 +0000"
+  },
+  {
+    "headline": "Judge blocks Trump administration move to deport Guatemalan children",
+    "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-09-39-10 +0000"
+  },
+  {
+    "headline": "Judge blocks Trump administration move to deport Guatemalan children",
+    "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-09-39-10 +0000"
+  },
+  {
+    "headline": "A Jamaican Man Served Time in the U.S., Then Was Deported to an African Prison",
+    "link": "https://www.nytimes.com/2025/09/01/world/africa/trump-deportations-prison-us-eswatini-africa-jamaica.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-33-44 +0000"
+  },
+  {
+    "headline": "A Jamaican Man Served Time in the U.S., Then Was Deported to an African Prison",
+    "link": "https://www.nytimes.com/2025/09/01/world/africa/trump-deportations-prison-us-eswatini-africa-jamaica.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-33-44 +0000"
+  },
+  {
+    "headline": "U.K. Secures $13.5 Billion Deal to Supply Warships to Norway",
+    "link": "https://www.wsj.com/world/europe/u-k-secures-13-5-billion-deal-to-supply-warships-to-norway-bc4624bf",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-31-00 +0000"
+  },
+  {
+    "headline": "USA250 | A Letter From The Wall Street Journal’s Editor in Chief",
+    "link": "https://www.wsj.com/economy/why-america-250-emma-tucker-letter-74135afe?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "How—and Why—U.S. Capitalism Is Unlike Any Other",
+    "link": "https://www.wsj.com/economy/us-capitalism-differences-eaecd208?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "USA250 | A Letter From The Wall Street Journal’s Editor in Chief",
+    "link": "https://www.wsj.com/economy/why-america-250-emma-tucker-letter-74135afe?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "ESPN Employees’ Favorite Sport: Lamenting Their Home Base",
+    "link": "https://www.wsj.com/business/espn-employees-favorite-sport-lamenting-their-home-base-6e34fd35?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "Data Centers That Don’t Exist Yet Are Already Haunting the Grid",
+    "link": "https://www.wsj.com/business/energy-oil/data-centers-that-dont-exist-yet-are-already-haunting-the-grid-c5ec7620?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "EV Deals Are Booming Ahead of Tax-Credit Expiration",
+    "link": "https://www.wsj.com/business/autos/ev-deals-tax-credits-ending-7558434f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "USA250 | A Letter From The Wall Street Journal’s Editor in Chief",
+    "link": "https://www.wsj.com/economy/why-america-250-emma-tucker-letter-74135afe",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "How and why is capitalism in the U.S. so different from its counterparts, especially in Europe? The answer can be found in the country’s origins",
+    "link": "https://www.wsj.com/economy/us-capitalism-differences-eaecd208",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "The Journal will be exploring the country’s nearly 250 years of achievements and ingenuity, in special reports",
+    "link": "https://www.wsj.com/economy/why-america-250-emma-tucker-letter-74135afe",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "USA250 | A Letter From The Wall Street Journal’s Editor in Chief",
+    "link": "https://www.wsj.com/economy/why-america-250-emma-tucker-letter-74135afe",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-30-00 +0000"
+  },
+  {
+    "headline": "House price growth slows amid property tax calls",
+    "link": "https://www.bbc.com/news/articles/cdrk1411ygdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-09-29-59 +0000"
+  },
+  {
+    "headline": "House price growth slows amid property tax calls",
+    "link": "https://www.bbc.com/news/articles/cdrk1411ygdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-09-29-59 +0000"
+  },
+  {
+    "headline": "Eurozone Unemployment Rate Fell To Match Record Low In July",
+    "link": "https://www.wsj.com/economy/global/eurozone-unemployment-rate-fell-to-match-record-low-in-july-3505b042",
+    "source": "wsj",
+    "pubdate": "2025-09-01-09-27-00 +0000"
+  },
+  {
+    "headline": "China tries to use Trump turmoil to unite leaders against U.S.-led order",
+    "link": "https://www.washingtonpost.com/world/2025/08/31/china-xi-jinping-hosts-sco-meeting/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-09-22-34 +0000"
+  },
+  {
+    "headline": "Punjab Floods Devastate Pakistan’s Breadbasket",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/summer-monsoon-floods-pakistan.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-19-27 +0000"
+  },
+  {
+    "headline": "Punjab Floods Devastate Pakistan’s Breadbasket",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/summer-monsoon-floods-pakistan.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-19-27 +0000"
+  },
+  {
+    "headline": "Peak rail fares scrapped on ScotRail trains",
+    "link": "https://www.bbc.com/news/articles/c98lzygd5vjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-09-15-49 +0000"
+  },
+  {
+    "headline": "Xi, Putin and Modi Try to Signal Unity at China Summit",
+    "link": "https://www.nytimes.com/2025/09/01/world/asia/china-xi-putin-modi.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-04-04 +0000"
+  },
+  {
+    "headline": "Xi, Putin and Modi Try to Signal Unity at China Summit",
+    "link": "https://www.nytimes.com/2025/09/01/world/asia/china-xi-putin-modi.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-04-04 +0000"
+  },
+  {
+    "headline": "He Burned a Flag and Won a Right. With Trump’s Order, He Worries That’s at Risk.",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/flag-burning-trump-johnson-supreme-court.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-03-36 +0000"
+  },
+  {
+    "headline": "He Burned a Flag and Won a Right. With Trump’s Order, He Worries That’s at Risk.",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/flag-burning-trump-johnson-supreme-court.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-03-36 +0000"
+  },
+  {
+    "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-03-18 +0000"
+  },
+  {
+    "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-03-18 +0000"
+  },
+  {
+    "headline": "Dan Rather Is Still Chasing the News",
+    "link": "https://www.nytimes.com/2025/09/01/business/media/dan-rather-steady-newsletter.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-03-11 +0000"
+  },
+  {
+    "headline": "How Bad Bunny’s Puerto Rico Residency is Boosting the Economy",
+    "link": "https://www.nytimes.com/2025/09/01/business/bad-bunny-puerto-rico-economy.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-03-07 +0000"
+  },
+  {
+    "headline": "In the Remains of Canada’s Jasper Wildfire, Clues to Tame Future Blazes",
+    "link": "https://www.nytimes.com/2025/09/01/world/canada/canada-wildfires-alberta-jasper.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-02-41 +0000"
+  },
+  {
+    "headline": "In the Remains of Canada’s Jasper Wildfire, Clues to Tame Future Blazes",
+    "link": "https://www.nytimes.com/2025/09/01/world/canada/canada-wildfires-alberta-jasper.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-02-41 +0000"
+  },
+  {
+    "headline": "Mexico’s Cartels Are Using Military Weapons",
+    "link": "https://www.nytimes.com/video/world/americas/100000010360152/mexicos-cartels-are-using-military-weapons.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-02-14 +0000"
+  },
+  {
+    "headline": "Mexico’s Cartels Are Using Military Weapons",
+    "link": "https://www.nytimes.com/video/world/americas/100000010360152/mexicos-cartels-are-using-military-weapons.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-02-14 +0000"
+  },
+  {
+    "headline": "With Drones and I.E.D.s, Mexico’s Cartels Adopt Arms of Modern War",
+    "link": "https://www.nytimes.com/2025/09/01/world/americas/mexico-cartel-weapons.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-02-01 +0000"
+  },
+  {
+    "headline": "With Drones and I.E.D.s, Mexico’s Cartels Adopt Arms of Modern War",
+    "link": "https://www.nytimes.com/2025/09/01/world/americas/mexico-cartel-weapons.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-02-01 +0000"
+  },
+  {
+    "headline": "Over 800 killed as earthquake destroys villages in eastern Afghanistan",
+    "link": "https://www.cbc.ca/news/world/afghanistan-earthquake-kunar-jalalabad-1.7622422?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-01-09-01-08 +0000"
+  },
+  {
+    "headline": "‘The Paper’ Spinoff Is Sabrina Impacciatore’s ‘American Dream’",
+    "link": "https://www.nytimes.com/2025/09/01/arts/television/the-paper-sabrina-impacciatore.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-00-48 +0000"
+  },
+  {
+    "headline": "On WWII anniversary, China seeks to erase U.S. role in victory",
+    "link": "https://www.washingtonpost.com/world/2025/09/01/china-world-war-2-history/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-09-00-47 +0000"
+  },
+  {
+    "headline": "Sophie Cunningham Avenged Caitlin Clark. Now Sponsors (and the Right) Love Her.",
+    "link": "https://www.nytimes.com/2025/09/01/business/sophie-cunningham-caitlin-clark-wnba.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-00-45 +0000"
+  },
+  {
+    "headline": "Ukraine War Leads to Global Shortage of TNT for Military and Mining Use",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-00-27 +0000"
+  },
+  {
+    "headline": "Ukraine War Leads to Global Shortage of TNT for Military and Mining Use",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-00-27 +0000"
+  },
+  {
+    "headline": "Ukraine War Leads to Global Shortage of TNT for Military and Mining Use",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-00-27 +0000"
+  },
+  {
+    "headline": "Why the Graffiti Artist Fonki Finds Inspiration in Angkorian Sculpture",
+    "link": "https://www.nytimes.com/2025/09/01/world/asia/fonki-graffiti-cambodia-angkor-wat.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-00-24 +0000"
+  },
+  {
+    "headline": "Why the Graffiti Artist Fonki Finds Inspiration in Angkorian Sculpture",
+    "link": "https://www.nytimes.com/2025/09/01/world/asia/fonki-graffiti-cambodia-angkor-wat.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-09-00-24 +0000"
+  },
+  {
+    "headline": "Art as activism: The music and murals of Kenya’s youth-led protests",
+    "link": "https://www.washingtonpost.com/world/2025/08/31/kenya-gen-z-protests-artists-ruto/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-09-00-07 +0000"
+  },
+  {
+    "headline": "In Bolsonaro trial, Brazil confronts Trump — and its authoritarian past",
+    "link": "https://www.washingtonpost.com/world/2025/09/01/brazil-bolsonaro-trial-coup-trump/",
+    "source": "wapo",
+    "pubdate": "2025-09-01-09-00-00 +0000"
+  },
+  {
     "headline": "Rosie O’Donnell apologizes for calling trans Minneapolis Catholic school shooter a MAGA supporter: ‘I messed up’",
     "link": "https://nypost.com/2025/09/01/us-news/rosie-odonnell-apologizes-for-calling-trans-minneapolis-catholic-school-shooter-a-maga-supporter-i-messed-up/",
     "source": "nypost",
     "pubdate": "2025-09-01-08-53-15 +0000"
-  },
-  {
-    "headline": "House price growth slows amid property tax calls",
-    "link": "https://www.bbc.com/news/articles/cdrk1411ygdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-08-50-41 +0000"
-  },
-  {
-    "headline": "House price growth slows amid property tax calls",
-    "link": "https://www.bbc.com/news/articles/cdrk1411ygdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-08-50-41 +0000"
   },
   {
     "headline": "What is at stake in Malawi's elections?",
@@ -36,22 +516,16 @@
     "pubdate": "2025-09-01-08-32-33 +0000"
   },
   {
+    "headline": "Putin says he reached 'understandings' with Trump over end of Ukraine war",
+    "link": "https://www.bbc.com/news/articles/c0qljy44553o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-08-32-33 +0000"
+  },
+  {
     "headline": "Indiana Walmart employee is beaten by mob of women in disturbing viral video",
     "link": "https://nypost.com/2025/09/01/us-news/indiana-walmart-employee-is-beaten-by-mob-of-women-in-disturbing-viral-video/",
     "source": "nypost",
     "pubdate": "2025-09-01-08-28-47 +0000"
-  },
-  {
-    "headline": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-08-00-09 +0000"
-  },
-  {
-    "headline": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-08-00-09 +0000"
   },
   {
     "headline": "Most of Canada's retaliatory tariffs are gone. Now what?",
@@ -64,12 +538,6 @@
     "link": "https://www.cbc.ca/news/canada/ottawa/ottawa-federal-disability-benefit-rollout-1.7621605?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-01-08-00-00 +0000"
-  },
-  {
-    "headline": "More than 600 dead after earthquake hits eastern Afghanistan",
-    "link": "https://www.washingtonpost.com/world/2025/09/01/afghanistan-earthquake-death-toll/",
-    "source": "wapo",
-    "pubdate": "2025-09-01-07-57-33 +0000"
   },
   {
     "headline": "Turkish Economy Picks Up Pace Amid Easing Interest Rates",
@@ -90,28 +558,10 @@
     "pubdate": "2025-09-01-07-50-54 +0000"
   },
   {
-    "headline": "Hundreds Killed in 6.0-Magnitude Earthquake, Afghan Officials Say",
-    "link": "https://www.wsj.com/world/asia/afghanistan-struck-by-deadly-6-0-magnitude-earthquake-f2c5d84f",
-    "source": "wsj",
-    "pubdate": "2025-09-01-07-43-00 +0000"
-  },
-  {
     "headline": "‘Rock of Love’ contestant Kelsey Bateman dead at 39",
     "link": "https://nypost.com/2025/09/01/us-news/rock-of-love-contestant-kelsey-bateman-dead-at-39/",
     "source": "nypost",
     "pubdate": "2025-09-01-07-41-12 +0000"
-  },
-  {
-    "headline": "UK to tighten family member rules for asylum cases",
-    "link": "https://www.bbc.com/news/articles/c626p66d6jxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-07-35-32 +0000"
-  },
-  {
-    "headline": "More parents to get childcare funding as nurseries struggle with demand",
-    "link": "https://www.bbc.com/news/articles/c5yeldz568jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-07-21-12 +0000"
   },
   {
     "headline": "Judge Halts U.S. Effort to Deport Guatemalan Children as Planes Sit on Tarmac",
@@ -148,12 +598,6 @@
     "link": "https://www.bbc.com/sport/football/articles/cy0qx4x8178o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-01-07-06-50 +0000"
-  },
-  {
-    "headline": "Peak rail fares scrapped on ScotRail trains",
-    "link": "https://www.bbc.com/news/articles/c98lzygd5vjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-07-06-48 +0000"
   },
   {
     "headline": "South Korea Doctors’ Strike Begins to Wind Down",
@@ -216,12 +660,6 @@
     "pubdate": "2025-09-01-04-44-50 +0000"
   },
   {
-    "headline": "China tries to use Trump turmoil to unite leaders against U.S.-led order",
-    "link": "https://www.washingtonpost.com/world/2025/08/31/china-xi-jinping-hosts-sco-meeting/",
-    "source": "wapo",
-    "pubdate": "2025-09-01-04-37-03 +0000"
-  },
-  {
     "headline": "China Shows Off Its Power",
     "link": "https://www.nytimes.com/2025/09/01/briefing/xi-modi-putin-summit-gaza.html",
     "source": "nyt",
@@ -238,24 +676,6 @@
     "link": "https://www.bbc.com/news/articles/cn02649ey2ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-01-04-28-41 +0000"
-  },
-  {
-    "headline": "Judge blocks Trump administration move to deport Guatemalan children",
-    "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-04-24-11 +0000"
-  },
-  {
-    "headline": "Judge blocks Trump administration move to deport Guatemalan children",
-    "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-04-24-11 +0000"
-  },
-  {
-    "headline": "Judge blocks Trump administration move to deport Guatemalan children",
-    "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-04-24-11 +0000"
   },
   {
     "headline": "Federal Judge Blocks Deportations of Guatemalan Children",
@@ -286,6 +706,12 @@
     "link": "https://www.nytimes.com/2025/09/01/world/europe/californias-potent-legal-weed-is-booming-in-britain-less-legally.html",
     "source": "nyt",
     "pubdate": "2025-09-01-04-01-07 +0000"
+  },
+  {
+    "headline": "India Was the Economic Alternative to China. Trump Ended That.",
+    "link": "https://www.nytimes.com/2025/09/01/business/india-china-trump-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-04-00-09 +0000"
   },
   {
     "headline": "India Was the Economic Alternative to China. Trump Ended That.",
@@ -334,12 +760,6 @@
     "link": "https://www.bbc.com/news/articles/clyrkj0d44vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-01-02-34-13 +0000"
-  },
-  {
-    "headline": "Ticketless train travel to be trialled across cities",
-    "link": "https://www.bbc.com/news/articles/cly702xd0edo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-02-33-40 +0000"
   },
   {
     "headline": "Texas man arrested for allegedly threatening to decapitate Trump staffer, slaughter entire family",
@@ -672,12 +1092,6 @@
     "pubdate": "2025-08-31-22-07-54 +0000"
   },
   {
-    "headline": "Minneapolis Community Grieves Together After Catholic School Shooting",
-    "link": "https://www.nytimes.com/2025/08/30/us/minneapolis-catholic-church-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-21-59-14 +0000"
-  },
-  {
     "headline": "Former NYC Mayor Rudy Giuliani injured in car accident",
     "link": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -844,18 +1258,6 @@
     "link": "https://www.cbc.ca/news/canada/indigenous-businesses-us-exports-free-trade-1.7622311?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-08-31-19-28-17 +0000"
-  },
-  {
-    "headline": "Punjab Floods Devastate Pakistan’s Breadbasket",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/summer-monsoon-floods-pakistan.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-19-25-21 +0000"
-  },
-  {
-    "headline": "Punjab Floods Devastate Pakistan’s Breadbasket",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/summer-monsoon-floods-pakistan.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-19-25-21 +0000"
   },
   {
     "headline": "Trump’s Plan to Pack the Fed With Loyalists",
@@ -1068,12 +1470,6 @@
     "pubdate": "2025-08-31-16-07-29 +0000"
   },
   {
-    "headline": "Trump Says He Will Sign Executive Order Mandating Voter I.D.",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-voter-id-executive-order.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-16-07-29 +0000"
-  },
-  {
     "headline": "Indonesian politicians to have perks cut in bid to quell unrest",
     "link": "https://www.bbc.com/news/articles/clyrk2kxlngo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1090,18 +1486,6 @@
     "link": "https://nypost.com/2025/08/31/world-news/greta-thunberg-joins-fleet-to-bring-aid-to-gaza-hopes-to-break-israels-naval-blockade/",
     "source": "nypost",
     "pubdate": "2025-08-31-15-32-48 +0000"
-  },
-  {
-    "headline": "Tories pledge to get all oil and gas out of North Sea",
-    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-15-26-44 +0000"
-  },
-  {
-    "headline": "Tories pledge to get all oil and gas out of North Sea",
-    "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-15-26-44 +0000"
   },
   {
     "headline": "Opinion | We Have Met the Enemy and He Isn’t Us",
@@ -1270,71 +1654,5 @@
     "link": "https://missionlocal.org/2025/08/sf-supervisors-summer-recess/",
     "source": "missionlocal",
     "pubdate": "2025-08-31-11-00-00 +0000"
-  },
-  {
-    "headline": "Xi Uses Summit, Parade and History to Flaunt China’s Global Pull",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/xi-putin-modi-china-summit.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-10-20-37 +0000"
-  },
-  {
-    "headline": "Xi Uses Summit, Parade and History to Flaunt China’s Global Pull",
-    "link": "https://www.nytimes.com/2025/08/30/world/asia/xi-putin-modi-china-summit.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-10-20-37 +0000"
-  },
-  {
-    "headline": "Minister warns parents on school attendance ahead of new term",
-    "link": "https://www.bbc.com/news/articles/cg7jk3rr225o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-10-01-06 +0000"
-  },
-  {
-    "headline": "For noncitizen veterans who commit crimes, deportation like a ‘second punishment’",
-    "link": "https://www.washingtonpost.com/nation/2025/08/31/veterans-deportation-past-crimes/",
-    "source": "wapo",
-    "pubdate": "2025-08-31-10-00-23 +0000"
-  },
-  {
-    "headline": "Oh mama! Qatar bankrolled over a decade worth of films directed by Zohran Mamdani’s mom",
-    "link": "https://nypost.com/2025/08/31/us-news/qatar-bankrolled-years-worth-of-films-by-zohran-mamdanis-mom/",
-    "source": "nypost",
-    "pubdate": "2025-08-31-10-00-18 +0000"
-  },
-  {
-    "headline": "Putin heads to China to shore up trading partners as economic pressure rises",
-    "link": "https://www.washingtonpost.com/world/2025/08/31/russia-economy-shanghai-india-tariffs-oil/",
-    "source": "wapo",
-    "pubdate": "2025-08-31-10-00-11 +0000"
-  },
-  {
-    "headline": "Putin heads to China to shore up trading partners as economic pressure rises",
-    "link": "https://www.washingtonpost.com/world/2025/08/31/russia-economy-shanghai-india-tariffs-oil/",
-    "source": "wapo",
-    "pubdate": "2025-08-31-10-00-11 +0000"
-  },
-  {
-    "headline": "Barabak: Their brotherly love transcends politics — and California's tooth-and-nail redistricting fight",
-    "link": "https://www.latimes.com/politics/story/2025-08-31/california-brothers-political-consultants-jim-tom-ross-opposite-sides-redistricting-fight",
-    "source": "latimes",
-    "pubdate": "2025-08-31-10-00-00 +0000"
-  },
-  {
-    "headline": "News Analysis: 'The party is in shambles.' But some Democrats see reasons for optimism",
-    "link": "https://www.latimes.com/politics/story/2025-08-31/democrats-midterms-2028-trump-analysis",
-    "source": "latimes",
-    "pubdate": "2025-08-31-10-00-00 +0000"
-  },
-  {
-    "headline": "CSU enrollment inches up 4,000 students, but number of non-Californians declines",
-    "link": "https://www.latimes.com/california/story/2025-08-31/csu-enrollment-up-4000-students-but-number-of-non-californians-declines",
-    "source": "latimes",
-    "pubdate": "2025-08-31-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: Their brotherly love transcends politics — and California's tooth-and-nail redistricting fight",
-    "link": "https://www.latimes.com/politics/story/2025-08-31/california-brothers-political-consultants-jim-tom-ross-opposite-sides-redistricting-fight",
-    "source": "latimes",
-    "pubdate": "2025-08-31-10-00-00 +0000"
   }
 ]
