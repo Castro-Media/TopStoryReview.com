@@ -1,23 +1,143 @@
 [
   {
+    "headline": "Delta flight takes 2,000-mile detour after pilot fell ill — adding 8 hours to journey",
+    "link": "https://nypost.com/2025/09/01/us-news/delta-flight-takes-2000-mile-detour-after-pilot-fell-ill/",
+    "source": "nypost",
+    "pubdate": "2025-09-01-15-51-33 +0000"
+  },
+  {
+    "headline": "Afghanistan earthquake: What we know - and what we don't",
+    "link": "https://www.bbc.com/news/articles/cwye0lpj9z6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-15-49-43 +0000"
+  },
+  {
+    "headline": "Afghanistan earthquake: What we know - and what we don't",
+    "link": "https://www.bbc.com/news/articles/cwye0lpj9z6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-15-49-43 +0000"
+  },
+  {
+    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-15-48-24 +0000"
+  },
+  {
+    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-15-48-24 +0000"
+  },
+  {
+    "headline": "Exxon and California Spar in Dueling Lawsuits Over Plastics",
+    "link": "https://www.nytimes.com/2025/09/01/climate/exxon-california-plastics-defamation-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-15-39-25 +0000"
+  },
+  {
+    "headline": "Opinion | Export Controls Failed? China Begs to Differ",
+    "link": "https://www.wsj.com/opinion/export-controls-failed-china-begs-to-differ-ginn-nvidia-chips-6de0a684",
+    "source": "wsj",
+    "pubdate": "2025-09-01-15-38-00 +0000"
+  },
+  {
+    "headline": "US suspends most visas for Palestinian passport-holders, reports say",
+    "link": "https://www.bbc.com/news/articles/cpv099421pro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-15-37-40 +0000"
+  },
+  {
+    "headline": "Opinion | Taiwan Can Spend on Weapons, but It Still Needs the U.S.",
+    "link": "https://www.wsj.com/opinion/taiwan-can-spend-but-it-still-needs-the-u-s-china-war-90b9d937",
+    "source": "wsj",
+    "pubdate": "2025-09-01-15-37-00 +0000"
+  },
+  {
+    "headline": "Trump’s Push to Punish Flag Burning Puts Landmark Free Speech Ruling at Risk",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/flag-burning-trump-johnson-supreme-court.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-15-33-21 +0000"
+  },
+  {
+    "headline": "Trump’s Push to Punish Flag Burning Puts Landmark Free Speech Ruling at Risk",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/flag-burning-trump-johnson-supreme-court.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-15-33-21 +0000"
+  },
+  {
+    "headline": "Israel’s New Negotiating Stance Is Likely to Prolong Gaza War, Experts Say",
+    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-15-26-18 +0000"
+  },
+  {
+    "headline": "Israel’s New Negotiating Stance Is Likely to Prolong Gaza War, Experts Say",
+    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-15-26-18 +0000"
+  },
+  {
+    "headline": "Under the Stars: Getting live in September with Sextile, KXSF’s seven-year bash, more",
+    "link": "https://48hills.org/2025/09/under-the-stars-getting-live-in-september-with-sextile-kxsfs-seven-year-bash-more/",
+    "source": "48hills",
+    "pubdate": "2025-09-01-15-23-05 +0000"
+  },
+  {
+    "headline": "Starmer backs Rayner amid row over Hove flat",
+    "link": "https://www.bbc.com/news/articles/cy850l982v0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-15-20-55 +0000"
+  },
+  {
+    "headline": "Guyana blames Venezuela for attack on election officials ahead of vote",
+    "link": "https://www.bbc.com/news/articles/cpdjwgygnd0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-14-56-53 +0000"
+  },
+  {
+    "headline": "Guyana blames Venezuela for attack on election officials ahead of vote",
+    "link": "https://www.bbc.com/news/articles/cpdjwgygnd0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-14-56-53 +0000"
+  },
+  {
+    "headline": "Trump demands drug companies release data on COVID vaccines to the public",
+    "link": "https://nypost.com/2025/09/01/us-news/president-trump-demands-drug-companies-release-data-on-covid-vaccines-to-the-public/",
+    "source": "nypost",
+    "pubdate": "2025-09-01-14-56-15 +0000"
+  },
+  {
+    "headline": "Trump demands drug companies release data on COVID vaccines to the public",
+    "link": "https://nypost.com/2025/09/01/us-news/president-trump-demands-drug-companies-release-data-on-covid-vaccines-to-the-public/",
+    "source": "nypost",
+    "pubdate": "2025-09-01-14-56-15 +0000"
+  },
+  {
+    "headline": "More than 800 killed after strong quake hits Afghanistan",
+    "link": "https://www.bbc.com/news/articles/c3ezgy1zlvwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-14-54-12 +0000"
+  },
+  {
+    "headline": "More than 800 killed after strong quake hits Afghanistan",
+    "link": "https://www.bbc.com/news/articles/c3ezgy1zlvwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-14-54-12 +0000"
+  },
+  {
+    "headline": "Behind Indonesia Protests, a Growing Economy That Doesn’t Deliver",
+    "link": "https://www.wsj.com/world/asia/behind-indonesia-protests-a-growing-economy-that-doesnt-deliver-8ecad1d9",
+    "source": "wsj",
+    "pubdate": "2025-09-01-14-52-00 +0000"
+  },
+  {
     "headline": "Rudy Giuliani to remain in hospital after he was badly injured in car crash",
     "link": "https://nypost.com/2025/09/01/us-news/rudy-giuliani-to-remain-in-hospital-after-he-was-badly-injured-in-car-crash/",
     "source": "nypost",
     "pubdate": "2025-09-01-14-47-18 +0000"
   },
   {
-    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-14-44-53 +0000"
-  },
-  {
-    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-14-44-53 +0000"
-  },
-  {
     "headline": "Why the Graffiti Artist Fonki Finds Inspiration in Angkorian Sculpture",
     "link": "https://www.nytimes.com/2025/09/01/world/asia/fonki-graffiti-cambodia-angkor-wat.html",
     "source": "nyt",
@@ -28,6 +148,18 @@
     "link": "https://www.nytimes.com/2025/09/01/world/asia/fonki-graffiti-cambodia-angkor-wat.html",
     "source": "nyt",
     "pubdate": "2025-09-01-14-41-42 +0000"
+  },
+  {
+    "headline": "North Korea's Kim leaves for China in armoured train",
+    "link": "https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-14-40-47 +0000"
+  },
+  {
+    "headline": "North Korea's Kim leaves for China in armoured train",
+    "link": "https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-14-40-47 +0000"
   },
   {
     "headline": "Israeli tanks advance in Gaza City as scholars' association says Israel is committing genocide",
@@ -82,6 +214,12 @@
     "link": "https://nypost.com/2025/09/01/us-news/mother-and-father-killed-in-atv-crash-that-injured-7-of-their-kids/",
     "source": "nypost",
     "pubdate": "2025-09-01-14-27-40 +0000"
+  },
+  {
+    "headline": "Trump defends U-turn on Chinese student visas after Maga backlash",
+    "link": "https://www.bbc.com/news/articles/c78m22x1j9do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-14-26-33 +0000"
   },
   {
     "headline": "Man found dead in pool of blood at Burning Man, sparking investigation",
@@ -192,10 +330,10 @@
     "pubdate": "2025-09-01-13-53-10 +0000"
   },
   {
-    "headline": "Mob burns Nigerian woman to death for alleged blasphemy",
-    "link": "https://www.bbc.com/news/articles/c5y21zxyd6mo?at_medium=RSS&at_campaign=rss",
+    "headline": "BBC reports from scene as Afghanistan earthquake rescue mission gets under way",
+    "link": "https://www.bbc.com/news/videos/c3v3gg6zr3yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-01-13-49-42 +0000"
+    "pubdate": "2025-09-01-13-53-10 +0000"
   },
   {
     "headline": "Mob burns Nigerian woman to death for alleged blasphemy",
@@ -204,10 +342,10 @@
     "pubdate": "2025-09-01-13-49-42 +0000"
   },
   {
-    "headline": "Afghanistan earthquake: What we know - and what we don't",
-    "link": "https://www.bbc.com/news/articles/cwye0lpj9z6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Mob burns Nigerian woman to death for alleged blasphemy",
+    "link": "https://www.bbc.com/news/articles/c5y21zxyd6mo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-01-13-49-37 +0000"
+    "pubdate": "2025-09-01-13-49-42 +0000"
   },
   {
     "headline": "Peak rail fares scrapped on ScotRail trains",
@@ -228,13 +366,13 @@
     "pubdate": "2025-09-01-13-45-34 +0000"
   },
   {
-    "headline": "Fed losing independence would pose a serious danger, says Lagarde",
+    "headline": "US Fed loss of independence a serious danger, says Lagarde",
     "link": "https://www.bbc.com/news/articles/c5y3110edzgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-01-13-43-08 +0000"
   },
   {
-    "headline": "Fed losing independence would pose a serious danger, says Lagarde",
+    "headline": "US Fed loss of independence a serious danger, says Lagarde",
     "link": "https://www.bbc.com/news/articles/c5y3110edzgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-01-13-43-08 +0000"
@@ -312,19 +450,7 @@
     "pubdate": "2025-09-01-13-09-31 +0000"
   },
   {
-    "headline": "Israel’s New Negotiating Stance Is Likely to Prolong Gaza War, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-13-08-42 +0000"
-  },
-  {
-    "headline": "Israel’s New Negotiating Stance Is Likely to Prolong Gaza War, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-13-08-42 +0000"
-  },
-  {
-    "headline": "High-rollers’ wild US Open tennis parties include chauffeurs, $38 sandwiches and crystal-netted ping pong tables",
+    "headline": "High rollers’ wild US Open tennis parties include chauffeurs, $38 sandwiches and crystal-netted ping-pong tables",
     "link": "https://nypost.com/2025/09/01/us-news/high-rollers-wild-us-open-tennis-parties-include-chauffeurs-38-sandwiches-and-crystal-netted-ping-pong-tables/",
     "source": "nypost",
     "pubdate": "2025-09-01-13-00-00 +0000"
@@ -468,6 +594,12 @@
     "pubdate": "2025-09-01-10-34-49 +0000"
   },
   {
+    "headline": "Man found dead at Burning Man festival",
+    "link": "https://www.bbc.com/news/articles/cp8z6x062y4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-10-34-49 +0000"
+  },
+  {
     "headline": "Tories pledge to get all oil and gas out of North Sea",
     "link": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -570,7 +702,7 @@
     "pubdate": "2025-09-01-10-00-00 +0000"
   },
   {
-    "headline": "Royal Mail returns to profit for first time in three years",
+    "headline": "Royal Mail in profit for first time in three years",
     "link": "https://www.bbc.com/news/articles/cger3w129l0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-01-09-56-07 +0000"
@@ -688,18 +820,6 @@
     "link": "https://www.nytimes.com/2025/08/31/world/asia/summer-monsoon-floods-pakistan.html",
     "source": "nyt",
     "pubdate": "2025-09-01-09-19-27 +0000"
-  },
-  {
-    "headline": "He Burned a Flag and Won a Right. With Trump’s Order, He Worries That’s at Risk.",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/flag-burning-trump-johnson-supreme-court.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-09-03-36 +0000"
-  },
-  {
-    "headline": "He Burned a Flag and Won a Right. With Trump’s Order, He Worries That’s at Risk.",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/flag-burning-trump-johnson-supreme-court.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-09-03-36 +0000"
   },
   {
     "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
@@ -1092,28 +1212,16 @@
     "pubdate": "2025-09-01-01-51-09 +0000"
   },
   {
-    "headline": "Robert Mueller, former Trump-Russia special prosecutor, diagnosed with Parkinson’s 4 years ago: family",
-    "link": "https://nypost.com/2025/08/31/us-news/robert-mueller-former-trump-russia-special-prosecutor-diagnosed-with-parkinsons-4-years-ago-family/",
-    "source": "nypost",
-    "pubdate": "2025-09-01-01-51-09 +0000"
+    "headline": "Robert Mueller Has Parkinson’s Disease, Family Says",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/robert-mueller-parkinsons-disease.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-01-45-55 +0000"
   },
   {
     "headline": "Robert Mueller Has Parkinson’s Disease, Family Says",
     "link": "https://www.nytimes.com/2025/08/31/us/politics/robert-mueller-parkinsons-disease.html",
     "source": "nyt",
-    "pubdate": "2025-09-01-01-45-54 +0000"
-  },
-  {
-    "headline": "Robert Mueller Has Parkinson’s Disease, Family Says",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/robert-mueller-parkinsons-disease.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-01-45-54 +0000"
-  },
-  {
-    "headline": "US judge blocks Trump admin from deporting unaccompanied Guatemalan children",
-    "link": "https://nypost.com/2025/08/31/us-news/us-judge-blocks-trump-admin-from-deporting-unaccompanied-guatemalan-children/",
-    "source": "nypost",
-    "pubdate": "2025-09-01-01-44-22 +0000"
+    "pubdate": "2025-09-01-01-45-55 +0000"
   },
   {
     "headline": "US judge blocks Trump admin from deporting unaccompanied Guatemalan children",
@@ -1236,7 +1344,7 @@
     "pubdate": "2025-09-01-00-00-00 +0000"
   },
   {
-    "headline": "Canada's first lunar rover looks to future space exploration",
+    "headline": "Why Canada is planning its first trip to the Moon now",
     "link": "https://www.bbc.com/news/articles/c1jn4ryxdp3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-31-23-35-37 +0000"
@@ -1288,12 +1396,6 @@
     "link": "https://www.wsj.com/us-news/rudy-giuliani-injured-after-car-crash-in-new-hampshire-e6496cd8",
     "source": "wsj",
     "pubdate": "2025-08-31-22-47-00 +0000"
-  },
-  {
-    "headline": "Trump is sending a 'great friend' to India. Some see him as a 'slap in the face'",
-    "link": "https://www.bbc.com/news/articles/cpv0w7njj2jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-22-42-38 +0000"
   },
   {
     "headline": "Trump is sending a 'great friend' to India. Some see him as a 'slap in the face'",
@@ -1690,47 +1792,5 @@
     "link": "https://www.bbc.com/news/articles/clyrk2kxlngo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-08-31-16-02-24 +0000"
-  },
-  {
-    "headline": "Israel threatens to arrest Greta Thunberg as a ‘terrorist’ after activist sails for Gaza again",
-    "link": "https://nypost.com/2025/08/31/world-news/greta-thunberg-joins-fleet-to-bring-aid-to-gaza-hopes-to-break-israels-naval-blockade/",
-    "source": "nypost",
-    "pubdate": "2025-08-31-15-32-48 +0000"
-  },
-  {
-    "headline": "Opinion | We Have Met the Enemy and He Isn’t Us",
-    "link": "https://www.wsj.com/opinion/we-have-met-the-enemy-and-he-isnt-us-b3faa55c",
-    "source": "wsj",
-    "pubdate": "2025-08-31-15-06-00 +0000"
-  },
-  {
-    "headline": "Opinion | Suddenly the Democrats Want an Independent Fed",
-    "link": "https://www.wsj.com/opinion/suddenly-the-democrats-want-an-independent-fed-9ed4c47c",
-    "source": "wsj",
-    "pubdate": "2025-08-31-15-06-00 +0000"
-  },
-  {
-    "headline": "Opinion | Remember the Children of Annunciation",
-    "link": "https://www.wsj.com/opinion/remember-the-children-of-annunciation-add5b127",
-    "source": "wsj",
-    "pubdate": "2025-08-31-15-04-00 +0000"
-  },
-  {
-    "headline": "Fiber-Packed Foods Are Hitting Store Shelves. Be Careful, Doctors Say.",
-    "link": "https://www.wsj.com/health/wellness/fiber-packed-foods-are-hitting-store-shelves-be-careful-doctors-say-c6dc0fd2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-31-15-00-00 +0000"
-  },
-  {
-    "headline": "US Open star gives boy cap after viral snatching video",
-    "link": "https://www.bbc.com/news/articles/cx298wd85d9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-14-58-01 +0000"
-  },
-  {
-    "headline": "US Open star gives boy cap after viral snatching video",
-    "link": "https://www.bbc.com/news/articles/cx298wd85d9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-08-31-14-58-01 +0000"
   }
 ]

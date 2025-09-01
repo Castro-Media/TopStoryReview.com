@@ -1,24 +1,31 @@
 [
   {
-    "score": 450,
+    "score": 446,
     "pubdate": "2025-08-30-04-15-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Washington, D.C., temporarily blocked the Trump administration from deporting a wider group of people without a court hearing, a blow to one of the key parts of President Trump’s deportation campaign",
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administrations-expansion-of-speedy-deportations-a5b033fe"
   },
   {
-    "score": 175,
+    "score": 176,
     "pubdate": "2025-08-31-21-23-44 +0000",
     "source": "nypost",
     "headline": "Israel begins heavy airstrikes ahead of Gaza City onslaught, warns Hamas fighters abroad that attacks ‘will reach them, too’",
     "link": "https://nypost.com/2025/08/31/world-news/israel-begins-heavy-airstrikes-ahead-of-gaza-city-onslaught/"
   },
   {
-    "score": 120,
-    "pubdate": "2025-08-29-00-39-00 +0000",
-    "source": "wsj",
-    "headline": "New Trial Ordered for Three Former Police Officers in Death of Tyre Nichols",
-    "link": "https://www.wsj.com/us-news/law/new-trial-ordered-for-three-former-police-officers-in-death-of-tyre-nichols-08db268e"
+    "score": 122,
+    "pubdate": "2025-08-31-14-46-38 +0000",
+    "source": "cbc",
+    "headline": "Average number of sick days taken by public servants growing post-COVID, new data shows",
+    "link": "https://www.cbc.ca/news/politics/sick-days-federal-servants-canada-1.7622222?cmp=rss"
+  },
+  {
+    "score": 115,
+    "pubdate": "2025-08-30-15-09-17 +0000",
+    "source": "nyt",
+    "headline": "Large Russian Air Attack Hits Ukraine, Amid Stalled Bid for Peace Talks",
+    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html"
   },
   {
     "score": 114,
@@ -28,13 +35,6 @@
     "link": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 110,
-    "pubdate": "2025-08-30-15-09-17 +0000",
-    "source": "nyt",
-    "headline": "Large Russian Air Attack Hits Ukraine, Amid Stalled Bid for Peace Talks",
-    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html"
-  },
-  {
     "score": 107,
     "pubdate": "2025-08-27-17-56-38 +0000",
     "source": "latimes",
@@ -42,14 +42,14 @@
     "link": "https://www.latimes.com/california/story/2025-08-27/cal-fire-captain-murder-charges-filed"
   },
   {
-    "score": 100,
+    "score": 96,
     "pubdate": "2025-09-01-14-47-18 +0000",
     "source": "nypost",
     "headline": "Rudy Giuliani to remain in hospital after he was badly injured in car crash",
     "link": "https://nypost.com/2025/09/01/us-news/rudy-giuliani-to-remain-in-hospital-after-he-was-badly-injured-in-car-crash/"
   },
   {
-    "score": 97,
+    "score": 96,
     "pubdate": "2025-08-29-17-00-01 +0000",
     "source": "latimes",
     "headline": "Newsom, California lawmakers strike deal that would allow Uber, Lyft drivers to unionize",
@@ -63,7 +63,7 @@
     "link": "https://nypost.com/2025/08/30/world-news/islamic-republic-close-to-collapse-in-iran-civil-war-possible-report/"
   },
   {
-    "score": 72,
+    "score": 73,
     "pubdate": "2025-08-29-23-59-00 +0000",
     "source": "wsj",
     "headline": "A federal appeals court struck down the Trump administration’s signature tariffs, finding that the president had gone too far in using emergency powers to rewrite U.S. trade policy",
