@@ -1,27 +1,153 @@
 [
   {
-    "headline": "'Covered in dust and too shocked to speak': Daylight reveals scale of Afghanistan quake's devastation",
+    "headline": "With Drones and I.E.D.s, Mexico’s Cartels Adopt Arms of Modern War",
+    "link": "https://www.nytimes.com/2025/09/01/world/americas/mexico-cartel-weapons.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-44-35 +0000"
+  },
+  {
+    "headline": "With Drones and I.E.D.s, Mexico’s Cartels Adopt Arms of Modern War",
+    "link": "https://www.nytimes.com/2025/09/01/world/americas/mexico-cartel-weapons.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-44-35 +0000"
+  },
+  {
+    "headline": "VOTE NOW in the 2025 Best of the Bay Readers’ Poll!",
+    "link": "https://48hills.org/2025/09/vote-now-in-the-2025-best-of-the-bay-readers-poll/",
+    "source": "48hills",
+    "pubdate": "2025-09-01-18-42-07 +0000"
+  },
+  {
+    "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-38-23 +0000"
+  },
+  {
+    "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-38-23 +0000"
+  },
+  {
+    "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
+    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-35-56 +0000"
+  },
+  {
+    "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
+    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-35-56 +0000"
+  },
+  {
+    "headline": "Bipartisan bill seeks to close loophole for nitazenes — a terrifying synthetic opioid 40x stronger than fentanyl",
+    "link": "https://nypost.com/2025/09/01/us-news/bipartisan-bill-seeks-to-close-nitazine-opioid-loophole/",
+    "source": "nypost",
+    "pubdate": "2025-09-01-18-33-52 +0000"
+  },
+  {
+    "headline": "Nestlé Ousts CEO After Romantic Relationship Probe",
+    "link": "https://www.wsj.com/business/nestle-ousts-ceo-after-romantic-relationship-probe-e33668a5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-18-29-00 +0000"
+  },
+  {
+    "headline": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
+    "link": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-26-18 +0000"
+  },
+  {
+    "headline": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
+    "link": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-26-18 +0000"
+  },
+  {
+    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-23-52 +0000"
+  },
+  {
+    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
+    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-18-23-52 +0000"
+  },
+  {
+    "headline": "Copper hits one-month peak on strong China factory data, weak dollar",
+    "link": "https://nypost.com/2025/09/01/business/copper-hits-one-month-peak-on-strong-china-factory-data-weak-dollar/",
+    "source": "nypost",
+    "pubdate": "2025-09-01-18-23-50 +0000"
+  },
+  {
+    "headline": "UK suspends refugee family reunion applications",
+    "link": "https://www.bbc.com/news/articles/c626p66d6jxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-18-17-20 +0000"
+  },
+  {
+    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
+    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-18-15-40 +0000"
+  },
+  {
+    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
+    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-18-15-40 +0000"
+  },
+  {
+    "headline": "Trump Family Amasses $6 Billion Fortune After Crypto Launch",
+    "link": "https://www.wsj.com/finance/currencies/trump-family-amasses-6-billion-fortune-after-crypto-launch-567faec5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-01-18-10-00 +0000"
+  },
+  {
+    "headline": "Russia Intensifies Strikes in Ukraine, Defying Trump’s Shifting Deadlines for Peace",
+    "link": "https://www.wsj.com/world/russia-intensifies-strikes-in-ukraine-defying-trumps-shifting-deadlines-for-peace-af9746c9",
+    "source": "wsj",
+    "pubdate": "2025-09-01-18-08-00 +0000"
+  },
+  {
+    "headline": "Trump Orders Have Stripped Nearly Half a Million Federal Workers of Union Rights",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/trumps-unions-federal-workers.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-17-54-39 +0000"
+  },
+  {
+    "headline": "Trump Orders Have Stripped Nearly Half a Million Federal Workers of Union Rights",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/trumps-unions-federal-workers.html",
+    "source": "nyt",
+    "pubdate": "2025-09-01-17-54-39 +0000"
+  },
+  {
+    "headline": "Hundreds gather for south Minneapolis march in show of unity, hope",
+    "link": "https://www.startribune.com/hundreds-gather-for-south-minneapolis-march-in-show-of-unity-hope/601464226",
+    "source": "startribune",
+    "pubdate": "2025-09-01-17-53-03 +0000"
+  },
+  {
+    "headline": "'Covered in dust and too shocked to speak': Afghan villagers reel at scale of quake's devastation",
     "link": "https://www.bbc.com/news/articles/cm2vm2r6dzdo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-01-17-46-47 +0000"
+  },
+  {
+    "headline": "India's Modi has 'insightful' talks in Putin's limo",
+    "link": "https://www.bbc.com/news/articles/ce3531lgg39o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-01-17-44-09 +0000"
   },
   {
     "headline": "Rowdy ‘party pirates’ are taking over the waters off NYC’s City Island and driving locals nuts: ‘Fun on steroids’",
     "link": "https://nypost.com/2025/09/01/us-news/party-pirates-are-taking-over-ny-waters-driving-locals-nuts/",
     "source": "nypost",
     "pubdate": "2025-09-01-17-43-12 +0000"
-  },
-  {
-    "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-17-39-13 +0000"
-  },
-  {
-    "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-17-39-13 +0000"
   },
   {
     "headline": "3 kids kidnapped, taken on wild chase after their mom left the car running outside a 7-Eleven",
@@ -36,7 +162,7 @@
     "pubdate": "2025-09-01-17-27-34 +0000"
   },
   {
-    "headline": "Chunk of building lands steps from tourist hotspot in West Village — and tenants had ‘no clue’ unit was crumbling",
+    "headline": "Blindsided residents ordered to evacuate crumbling NYC building after huge chunk of facade falls in tourist hotspot",
     "link": "https://nypost.com/2025/09/01/us-news/west-village-tenants-had-no-clue-they-were-ordered-to-evacuate-crumbling-apts-after-chunk-of-building-lands-steps-from-tourist-hotspot/",
     "source": "nypost",
     "pubdate": "2025-09-01-17-27-13 +0000"
@@ -70,18 +196,6 @@
     "link": "https://www.washingtonpost.com/world/2025/09/01/afghanistan-earthquake-death-toll/",
     "source": "wapo",
     "pubdate": "2025-09-01-17-18-39 +0000"
-  },
-  {
-    "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-17-18-35 +0000"
-  },
-  {
-    "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-17-18-35 +0000"
   },
   {
     "headline": "Finland finally removes swastikas from air force flags after admitting they caused ‘awkward situations’ with NATO allies",
@@ -148,18 +262,6 @@
     "link": "https://www.nytimes.com/2025/09/01/world/asia/earthquake-afghanistan-what-to-know.html",
     "source": "nyt",
     "pubdate": "2025-09-01-17-02-34 +0000"
-  },
-  {
-    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-17-02-10 +0000"
-  },
-  {
-    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-17-02-10 +0000"
   },
   {
     "headline": "Guyana blames Venezuela for attack on election officials ahead of vote",
@@ -250,18 +352,6 @@
     "link": "https://www.cbc.ca/player/play/9.6886515?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-01-16-35-01 +0000"
-  },
-  {
-    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
-    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-16-31-09 +0000"
-  },
-  {
-    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
-    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-16-31-09 +0000"
   },
   {
     "headline": "Pope Leo meets LGBTQ+ Catholic advocate, vows continuity with Pope Francis’ legacy",
@@ -540,18 +630,6 @@
     "pubdate": "2025-09-01-14-06-02 +0000"
   },
   {
-    "headline": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
-    "link": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-14-05-01 +0000"
-  },
-  {
-    "headline": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
-    "link": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-14-05-01 +0000"
-  },
-  {
     "headline": "Anti-Immigrant Protests Attended by Neo-Nazis in Australia Worry Leaders",
     "link": "https://www.nytimes.com/2025/09/01/world/australia/australia-immigration-protests.html",
     "source": "nyt",
@@ -672,16 +750,16 @@
     "pubdate": "2025-09-01-13-40-44 +0000"
   },
   {
-    "headline": "Crime Crackdown in D.C. Shows Trump Administration’s Uneasy Relationship With Guns",
+    "headline": "Trump’s D.C. Crime Crackdown Shows Administration’s Uneasy Relationship With Guns",
     "link": "https://www.nytimes.com/2025/09/01/us/politics/dc-crime-trump-guns.html",
     "source": "nyt",
-    "pubdate": "2025-09-01-13-36-02 +0000"
+    "pubdate": "2025-09-01-13-36-03 +0000"
   },
   {
-    "headline": "Crime Crackdown in D.C. Shows Trump Administration’s Uneasy Relationship With Guns",
+    "headline": "Trump’s D.C. Crime Crackdown Shows Administration’s Uneasy Relationship With Guns",
     "link": "https://www.nytimes.com/2025/09/01/us/politics/dc-crime-trump-guns.html",
     "source": "nyt",
-    "pubdate": "2025-09-01-13-36-02 +0000"
+    "pubdate": "2025-09-01-13-36-03 +0000"
   },
   {
     "headline": "Trump Administration Deports Jamaican Man to African Prison Years After U.S. Sentence",
@@ -694,12 +772,6 @@
     "link": "https://www.nytimes.com/2025/09/01/world/africa/trump-deportations-prison-us-eswatini-africa-jamaica.html",
     "source": "nyt",
     "pubdate": "2025-09-01-13-35-01 +0000"
-  },
-  {
-    "headline": "Inside a Long Island school’s revolutionary new security system: ‘Going to save lives’",
-    "link": "https://nypost.com/2025/09/01/us-news/inside-a-long-island-schools-revolutionary-new-security-system-going-to-save-lives/",
-    "source": "nypost",
-    "pubdate": "2025-09-01-13-30-00 +0000"
   },
   {
     "headline": "Ticketless train travel to be trialled across cities",
@@ -748,6 +820,12 @@
     "link": "https://www.wsj.com/business/corn-and-soybeans-rule-the-american-farm-why-thats-a-growing-problem-in-charts-ca03652f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-01-12-00-00 +0000"
+  },
+  {
+    "headline": "Chinese, Russian, Indian Leaders Pledge Cooperation, in a Message to Trump",
+    "link": "https://www.wsj.com/world/chinese-russian-indian-leaders-pledge-cooperation-in-a-message-to-trump-faae8d0c",
+    "source": "wsj",
+    "pubdate": "2025-09-01-11-57-00 +0000"
   },
   {
     "headline": "Chinese, Russian, Indian Leaders Pledge Cooperation, in a Message to Trump",
@@ -846,12 +924,6 @@
     "pubdate": "2025-09-01-10-30-00 +0000"
   },
   {
-    "headline": "UK to tighten family member rules for asylum cases",
-    "link": "https://www.bbc.com/news/articles/c626p66d6jxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-01-10-26-09 +0000"
-  },
-  {
     "headline": "UN chief demands release of 11 staff arrested in Yemen",
     "link": "https://www.bbc.com/news/articles/ce93k7ye2geo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -870,7 +942,7 @@
     "pubdate": "2025-09-01-10-00-41 +0000"
   },
   {
-    "headline": "Reeling from Trump cuts, staffers unionize at Yosemite, Sequoia national parks",
+    "headline": "'Scared' and angry: Here's why workers unionized at Yosemite, Sequoia national parks",
     "link": "https://www.latimes.com/environment/story/2025-09-01/yosemite-sequoia-national-parks-workers-unionize",
     "source": "latimes",
     "pubdate": "2025-09-01-10-00-00 +0000"
@@ -900,12 +972,6 @@
     "pubdate": "2025-09-01-10-00-00 +0000"
   },
   {
-    "headline": "Reeling from Trump cuts, staffers unionize at Yosemite, Sequoia national parks",
-    "link": "https://www.latimes.com/environment/story/2025-09-01/yosemite-sequoia-national-parks-workers-unionize",
-    "source": "latimes",
-    "pubdate": "2025-09-01-10-00-00 +0000"
-  },
-  {
     "headline": "Free AI training comes to California colleges — but at what cost?",
     "link": "https://www.latimes.com/california/story/2025-09-01/free-ai-training-comes-to-california-colleges-but-at-what-cost",
     "source": "latimes",
@@ -920,6 +986,12 @@
   {
     "headline": "Landmark club reopens in Altadena: Life isn't the same, community members say, but it's a start",
     "link": "https://www.latimes.com/california/story/2025-09-01/altadena-town-country-club-reopens-community-rallying-point",
+    "source": "latimes",
+    "pubdate": "2025-09-01-10-00-00 +0000"
+  },
+  {
+    "headline": "'Scared' and angry: Here's why workers unionized at Yosemite, Sequoia national parks",
+    "link": "https://www.latimes.com/environment/story/2025-09-01/yosemite-sequoia-national-parks-workers-unionize",
     "source": "latimes",
     "pubdate": "2025-09-01-10-00-00 +0000"
   },
@@ -984,14 +1056,14 @@
     "pubdate": "2025-09-01-09-30-00 +0000"
   },
   {
-    "headline": "Data Centers That Don’t Exist Yet Are Already Haunting the Grid",
-    "link": "https://www.wsj.com/business/energy-oil/data-centers-that-dont-exist-yet-are-already-haunting-the-grid-c5ec7620?mod=pls_whats_news_us_business_f",
+    "headline": "EV Deals Are Booming Ahead of Tax-Credit Expiration",
+    "link": "https://www.wsj.com/business/autos/ev-deals-tax-credits-ending-7558434f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-01-09-30-00 +0000"
   },
   {
-    "headline": "EV Deals Are Booming Ahead of Tax-Credit Expiration",
-    "link": "https://www.wsj.com/business/autos/ev-deals-tax-credits-ending-7558434f?mod=pls_whats_news_us_business_f",
+    "headline": "Data Centers That Don’t Exist Yet Are Already Haunting the Grid",
+    "link": "https://www.wsj.com/business/energy-oil/data-centers-that-dont-exist-yet-are-already-haunting-the-grid-c5ec7620?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-01-09-30-00 +0000"
   },
@@ -1078,18 +1150,6 @@
     "link": "https://www.nytimes.com/video/world/americas/100000010360152/mexicos-cartels-are-using-military-weapons.html",
     "source": "nyt",
     "pubdate": "2025-09-01-09-02-14 +0000"
-  },
-  {
-    "headline": "With Drones and I.E.D.s, Mexico’s Cartels Adopt Arms of Modern War",
-    "link": "https://www.nytimes.com/2025/09/01/world/americas/mexico-cartel-weapons.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-09-02-01 +0000"
-  },
-  {
-    "headline": "With Drones and I.E.D.s, Mexico’s Cartels Adopt Arms of Modern War",
-    "link": "https://www.nytimes.com/2025/09/01/world/americas/mexico-cartel-weapons.html",
-    "source": "nyt",
-    "pubdate": "2025-09-01-09-02-01 +0000"
   },
   {
     "headline": "Desperate search for survivors after Afghanistan earthquake kills at least 800",
@@ -1326,6 +1386,12 @@
     "pubdate": "2025-09-01-03-00-00 +0000"
   },
   {
+    "headline": "The Ice Cream That Beat Costco’s Hot Dog as the Best Money Loser in Business",
+    "link": "https://www.wsj.com/business/retail/the-ice-cream-that-beat-costcos-hot-dog-as-the-best-money-loser-in-business-7a8401ac?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-01-03-00-00 +0000"
+  },
+  {
     "headline": "Enforcing Australia's social media ban on kids is possible but contains risks, report says",
     "link": "https://www.bbc.com/news/articles/clyrkj0d44vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1440,14 +1506,14 @@
     "pubdate": "2025-09-01-01-00-00 +0000"
   },
   {
-    "headline": "China Ups Surveillance of Troubled People to Quell Rising Unrest",
-    "link": "https://www.wsj.com/world/china/china-surveillance-troubled-people-public-order-6e734df4",
+    "headline": "With Another Government on the Brink of Collapse, Is France the New Italy?",
+    "link": "https://www.wsj.com/world/europe/with-another-government-on-the-brink-of-collapse-is-france-the-new-italy-3f9484aa",
     "source": "wsj",
     "pubdate": "2025-09-01-01-00-00 +0000"
   },
   {
-    "headline": "With Another Government on the Brink of Collapse, Is France the New Italy?",
-    "link": "https://www.wsj.com/world/europe/with-another-government-on-the-brink-of-collapse-is-france-the-new-italy-3f9484aa",
+    "headline": "China Ups Surveillance of Troubled People to Quell Rising Unrest",
+    "link": "https://www.wsj.com/world/china/china-surveillance-troubled-people-public-order-6e734df4",
     "source": "wsj",
     "pubdate": "2025-09-01-01-00-00 +0000"
   },
@@ -1630,12 +1696,6 @@
     "link": "https://www.washingtonpost.com/world/2025/08/30/houthi-leader-ahmad-al-rahawi-killed/",
     "source": "wapo",
     "pubdate": "2025-08-31-21-38-25 +0000"
-  },
-  {
-    "headline": "‘No going back.’ Minneapolis church shooter turned violent after sometimes turbulent upbringing.",
-    "link": "https://www.startribune.com/no-going-back-minneapolis-church-shooter-turned-violent-after-religious-but-sometimes-turbulent-upbringing/601464119",
-    "source": "startribune",
-    "pubdate": "2025-08-31-21-38-18 +0000"
   },
   {
     "headline": "Israel says it killed longtime spokesman of Hamas’s military wing",
@@ -1920,12 +1980,6 @@
     "pubdate": "2025-08-31-16-37-12 +0000"
   },
   {
-    "headline": "In Trump’s Federal Work Force Cuts, Black Women Are Among the Hardest Hit",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-federal-work-force-black-women.html",
-    "source": "nyt",
-    "pubdate": "2025-08-31-16-37-12 +0000"
-  },
-  {
     "headline": "Rep. Ilhan Omar slams Trump official for pointing out Minnesota church shooter’s trans identity: ‘Not the moment to point fingers’",
     "link": "https://nypost.com/2025/08/31/us-news/rep-ilhan-omar-slams-trump-adviser-for-focusing-on-minnesota-church-shooter-robin-westmans-trans-identity/",
     "source": "nypost",
@@ -2088,12 +2142,6 @@
     "pubdate": "2025-08-31-11-00-00 +0000"
   },
   {
-    "headline": "The Podcast Gold Rush: Media Companies Race to License Star Creators",
-    "link": "https://www.wsj.com/business/media/podcast-creators-goldrush-b948a175?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-31-11-00-00 +0000"
-  },
-  {
     "headline": "What survivors of Red Lake, Rocori school shootings say in the wake of Annunciation attack",
     "link": "https://www.startribune.com/what-survivors-of-red-lake-rocori-school-shootings-say-in-the-wake-of-annunciation-attack/601462786",
     "source": "startribune",
@@ -2148,26 +2196,26 @@
     "pubdate": "2025-08-31-10-00-11 +0000"
   },
   {
-    "headline": "Barabak: Their brotherly love transcends politics — and California's tooth-and-nail redistricting fight",
-    "link": "https://www.latimes.com/politics/story/2025-08-31/california-brothers-political-consultants-jim-tom-ross-opposite-sides-redistricting-fight",
-    "source": "latimes",
-    "pubdate": "2025-08-31-10-00-00 +0000"
-  },
-  {
     "headline": "News Analysis: 'The party is in shambles.' But some Democrats see reasons for optimism",
     "link": "https://www.latimes.com/politics/story/2025-08-31/democrats-midterms-2028-trump-analysis",
     "source": "latimes",
     "pubdate": "2025-08-31-10-00-00 +0000"
   },
   {
-    "headline": "CSU enrollment inches up 4,000 students, but number of non-Californians declines",
-    "link": "https://www.latimes.com/california/story/2025-08-31/csu-enrollment-up-4000-students-but-number-of-non-californians-declines",
+    "headline": "Barabak: Their brotherly love transcends politics — and California's tooth-and-nail redistricting fight",
+    "link": "https://www.latimes.com/politics/story/2025-08-31/california-brothers-political-consultants-jim-tom-ross-opposite-sides-redistricting-fight",
     "source": "latimes",
     "pubdate": "2025-08-31-10-00-00 +0000"
   },
   {
     "headline": "Barabak: Their brotherly love transcends politics — and California's tooth-and-nail redistricting fight",
     "link": "https://www.latimes.com/politics/story/2025-08-31/california-brothers-political-consultants-jim-tom-ross-opposite-sides-redistricting-fight",
+    "source": "latimes",
+    "pubdate": "2025-08-31-10-00-00 +0000"
+  },
+  {
+    "headline": "CSU enrollment inches up 4,000 students, but number of non-Californians declines",
+    "link": "https://www.latimes.com/california/story/2025-08-31/csu-enrollment-up-4000-students-but-number-of-non-californians-declines",
     "source": "latimes",
     "pubdate": "2025-08-31-10-00-00 +0000"
   },
@@ -2184,14 +2232,14 @@
     "pubdate": "2025-08-31-09-39-53 +0000"
   },
   {
-    "headline": "Yale’s Trendsetting Private-Equity Strategy Is Getting Harder to Pull Off",
-    "link": "https://www.wsj.com/finance/investing/yales-trendsetting-private-equity-strategy-is-getting-harder-to-pull-off-b06741eb?mod=rss_markets_main",
+    "headline": "Taylor Swift and Tariffs Can Both Help Sell Diamonds",
+    "link": "https://www.wsj.com/finance/stocks/taylor-swift-and-tariffs-can-both-help-sell-diamonds-a659daa1?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-08-31-09-30-00 +0000"
   },
   {
-    "headline": "Taylor Swift and Tariffs Can Both Help Sell Diamonds",
-    "link": "https://www.wsj.com/finance/stocks/taylor-swift-and-tariffs-can-both-help-sell-diamonds-a659daa1?mod=rss_markets_main",
+    "headline": "Yale’s Trendsetting Private-Equity Strategy Is Getting Harder to Pull Off",
+    "link": "https://www.wsj.com/finance/investing/yales-trendsetting-private-equity-strategy-is-getting-harder-to-pull-off-b06741eb?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-08-31-09-30-00 +0000"
   },
@@ -2524,12 +2572,6 @@
     "link": "https://www.startribune.com/he-couldnt-run-so-they-covered-him-instead/601464488",
     "source": "startribune",
     "pubdate": "2025-08-30-22-52-25 +0000"
-  },
-  {
-    "headline": "New York’s Very Rich Reel Over the NYC Mayoral Race and Mamdani’s Lead",
-    "link": "https://www.nytimes.com/2025/08/30/style/hamptons-nyc-mayor-cuomo-adams-mamdani-fundraising.html",
-    "source": "nyt",
-    "pubdate": "2025-08-30-22-36-49 +0000"
   },
   {
     "headline": "Over 15 Killed in Gaza City, One Day After Israel Ends Daily Pauses for Aid",
@@ -2988,18 +3030,6 @@
     "pubdate": "2025-08-30-10-00-00 +0000"
   },
   {
-    "headline": "Can I still get a COVID shot? What you need to know after a confounding week",
-    "link": "https://www.latimes.com/california/story/2025-08-30/can-i-still-get-a-covid-shot-what-you-need-to-know-after-a-confounding-week",
-    "source": "latimes",
-    "pubdate": "2025-08-30-10-00-00 +0000"
-  },
-  {
-    "headline": "California gas prices jump, bringing extra pain to the pump for Labor Day weekend",
-    "link": "https://www.latimes.com/california/story/2025-08-30/socal-gas-prices-surge-ahead-of-labor-day-weekend",
-    "source": "latimes",
-    "pubdate": "2025-08-30-10-00-00 +0000"
-  },
-  {
     "headline": "Merrick Bobb, oversight pioneer who probed LAPD and Sheriff's Department, dies at 79",
     "link": "https://www.latimes.com/california/story/2025-08-30/merrick-bobb-death",
     "source": "latimes",
@@ -3008,6 +3038,18 @@
   {
     "headline": "Property owners recoil at cost, burden of Joshua tree protections",
     "link": "https://www.latimes.com/environment/story/2025-08-30/joshua-tree-protections-anger-locals-over-fees-and-permits",
+    "source": "latimes",
+    "pubdate": "2025-08-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Can I still get a COVID shot? What you need to know after a confounding week",
+    "link": "https://www.latimes.com/california/story/2025-08-30/can-i-still-get-a-covid-shot-what-you-need-to-know-after-a-confounding-week",
+    "source": "latimes",
+    "pubdate": "2025-08-30-10-00-00 +0000"
+  },
+  {
+    "headline": "California gas prices jump, bringing extra pain to the pump for Labor Day weekend",
+    "link": "https://www.latimes.com/california/story/2025-08-30/socal-gas-prices-surge-ahead-of-labor-day-weekend",
     "source": "latimes",
     "pubdate": "2025-08-30-10-00-00 +0000"
   },
@@ -3762,12 +3804,6 @@
     "pubdate": "2025-08-29-19-27-20 +0000"
   },
   {
-    "headline": "Ex-ABC reporter Terry Moran accuses Disney of ‘failing the American people’ by avoiding ‘problem’ Trump coverage",
-    "link": "https://nypost.com/2025/08/29/media/ex-abc-reporter-terry-moran-slams-disney-for-trump-coverage/",
-    "source": "nypost",
-    "pubdate": "2025-08-29-19-25-53 +0000"
-  },
-  {
     "headline": "Tories call for investigation into Rayner's tax affairs",
     "link": "https://www.bbc.com/news/articles/cjw6evl4zy8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4224,6 +4260,12 @@
     "pubdate": "2025-08-29-10-00-00 +0000"
   },
   {
+    "headline": "'It's happening everywhere': 1 in 3 ICE detainees held in overcrowded facilities, data show",
+    "link": "https://www.latimes.com/politics/story/2025-08-29/as-ice-detainees-top-60000-some-detention-centers-stack-mattresses-on-the-floor",
+    "source": "latimes",
+    "pubdate": "2025-08-29-10-00-00 +0000"
+  },
+  {
     "headline": "L.A. has enough rental subsidies to end veteran homelessness. Why aren't they being used?",
     "link": "https://www.latimes.com/california/story/2025-08-29/la-has-enough-rental-subsidies-to-end-veteran-homelessness-why-arent-they-used",
     "source": "latimes",
@@ -4242,20 +4284,14 @@
     "pubdate": "2025-08-29-10-00-00 +0000"
   },
   {
-    "headline": "'It's happening everywhere': 1 in 3 ICE detainees held in overcrowded facilities, data show",
-    "link": "https://www.latimes.com/politics/story/2025-08-29/as-ice-detainees-top-60000-some-detention-centers-stack-mattresses-on-the-floor",
+    "headline": "Latinos built a vibrant community on the sea in Oxnard. Trump raids are shattering it",
+    "link": "https://www.latimes.com/california/story/2025-08-29/trump-raids-shattered-latino-community-oxnard",
     "source": "latimes",
     "pubdate": "2025-08-29-10-00-00 +0000"
   },
   {
     "headline": "Lopez: L.A. parks get low marks, but opening schoolyards could improve grades",
     "link": "https://www.latimes.com/california/story/2025-08-29/l-a-s-parks-get-low-marks-in-national-ranking-but-schoolyards-could-boost-report-card",
-    "source": "latimes",
-    "pubdate": "2025-08-29-10-00-00 +0000"
-  },
-  {
-    "headline": "Latinos built a vibrant community on the sea in Oxnard. Trump raids are shattering it",
-    "link": "https://www.latimes.com/california/story/2025-08-29/trump-raids-shattered-latino-community-oxnard",
     "source": "latimes",
     "pubdate": "2025-08-29-10-00-00 +0000"
   },
@@ -5256,12 +5292,6 @@
     "pubdate": "2025-08-27-22-22-47 +0000"
   },
   {
-    "headline": "Win tickets to see Supergrass, BabyTron, Ash Island, Lagrimas…",
-    "link": "https://48hills.org/2025/08/win-tickets-to-see-supergrass-babytron-ash-island-lagrimas/",
-    "source": "48hills",
-    "pubdate": "2025-08-27-22-12-15 +0000"
-  },
-  {
     "headline": "Padilla sidesteps questions about a possible run for governor, says he is focused on redistricting",
     "link": "https://www.latimes.com/california/story/2025-08-27/padilla-governor-special-redistricting-election-newsom-harris-porter-becerra-villaraigosa-thurmond-atkins-yee",
     "source": "latimes",
@@ -5538,6 +5568,18 @@
     "pubdate": "2025-08-27-10-23-22 +0000"
   },
   {
+    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
+    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
+    "source": "latimes",
+    "pubdate": "2025-08-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: Trump's assault on the Fed's independence is very scary",
+    "link": "https://www.latimes.com/business/story/2025-08-27/trumps-assault-on-the-feds-independence-is-very-scary",
+    "source": "latimes",
+    "pubdate": "2025-08-27-10-00-00 +0000"
+  },
+  {
     "headline": "On U.S. direction under Trump, Californians split sharply along partisan lines, poll finds",
     "link": "https://www.latimes.com/california/story/2025-08-27/la-times-berkeley-poll-trump-administration-tariffs-medicaid-high-speed-rail",
     "source": "latimes",
@@ -5556,44 +5598,8 @@
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
   {
-    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
-    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
-    "source": "latimes",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: Trump's assault on the Fed's independence is very scary",
-    "link": "https://www.latimes.com/business/story/2025-08-27/trumps-assault-on-the-feds-independence-is-very-scary",
-    "source": "latimes",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
     "headline": "Employees are back, bosses say. In California? Not so much",
     "link": "https://www.latimes.com/business/story/2025-08-27/employees-are-back-bosses-say-in-california-not-so-much",
-    "source": "latimes",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
-    "headline": "GTCR Acquires Innovative Systems in Rural Broadband Push",
-    "link": "https://www.wsj.com/articles/gtcr-acquires-innovative-systems-in-rural-broadband-push-f32ea28a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
-    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
-    "source": "latimes",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Protester shot in face by a police projectile awarded more than $3 million",
-    "link": "https://www.latimes.com/california/story/2025-08-27/2020-protest-projectile-verdict",
-    "source": "latimes",
-    "pubdate": "2025-08-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Santa Monica's police chief resigns, citing clash with city administration",
-    "link": "https://www.latimes.com/california/story/2025-08-27/santa-monica-police-chief-resigns",
     "source": "latimes",
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
@@ -5604,8 +5610,26 @@
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
   {
+    "headline": "Protester shot in face by a police projectile awarded more than $3 million",
+    "link": "https://www.latimes.com/california/story/2025-08-27/2020-protest-projectile-verdict",
+    "source": "latimes",
+    "pubdate": "2025-08-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Commentary: Newsom teaches Democrats the art of trolling Trump",
+    "link": "https://www.latimes.com/california/story/2025-08-27/gavin-newsom-maga-inspired-patriot-shop-trolls-trump",
+    "source": "latimes",
+    "pubdate": "2025-08-27-10-00-00 +0000"
+  },
+  {
     "headline": "Clean electricity from the Earth: Bidders show interest in geothermal in the California desert",
     "link": "https://www.latimes.com/environment/story/2025-08-27/heat-from-the-earth-bidders-vie-for-geothermal-energy-rights-in-the-california-desert",
+    "source": "latimes",
+    "pubdate": "2025-08-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Santa Monica's police chief resigns, citing clash with city administration",
+    "link": "https://www.latimes.com/california/story/2025-08-27/santa-monica-police-chief-resigns",
     "source": "latimes",
     "pubdate": "2025-08-27-10-00-00 +0000"
   },
@@ -6030,12 +6054,6 @@
     "pubdate": "2025-08-26-09-24-58 +0000"
   },
   {
-    "headline": "U.N. Peacekeepers in Lebanon Face Uncertain Future",
-    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/lebanon-israel-un-unifil-peacekeeping.html",
-    "source": "nyt",
-    "pubdate": "2025-08-26-07-00-11 +0000"
-  },
-  {
     "headline": "How to stop AI agents going rogue",
     "link": "https://www.bbc.com/news/articles/cq87e0dwj25o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -6052,12 +6070,6 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-08-25/fox-news-sports-may-be-dropped-from-youtube-tv",
     "source": "latimes",
     "pubdate": "2025-08-26-04-36-10 +0000"
-  },
-  {
-    "headline": "The Ukrainian Attacks That Are Forcing Russia to Ration Its Fuel",
-    "link": "https://www.wsj.com/world/russia/ukraine-russia-drone-attack-oil-2f14c1aa",
-    "source": "wsj",
-    "pubdate": "2025-08-26-03-00-00 +0000"
   },
   {
     "headline": "The Ukrainian Attacks That Are Forcing Russia to Ration Its Fuel",
@@ -6166,11 +6178,5 @@
     "link": "https://www.wsj.com/us-news/law/kilmar-abrego-garcia-deport-uganda-eb146949",
     "source": "wsj",
     "pubdate": "2025-08-25-19-11-00 +0000"
-  },
-  {
-    "headline": "How a Cracker Barrel Logo Change Spawned a Political Firestorm",
-    "link": "https://www.wsj.com/business/hospitality/cracker-barrel-logo-change-rebranding-64e04b49?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-08-25-18-19-00 +0000"
   }
 ]
