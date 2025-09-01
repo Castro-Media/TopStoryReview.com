@@ -1,17 +1,10 @@
 [
   {
-    "score": 99,
-    "pubdate": "2025-08-31-19-58-46 +0000",
-    "source": "nypost",
-    "headline": "Illinois Gov. Pritzker floats conspiracy theory that Trump has ‘other aims’ for deploying National Guard to blue cities: ‘He would like to stop the elections’",
-    "link": "https://nypost.com/2025/08/31/us-news/pritzker-floats-wild-conspiracy-theory-that-trump-has-other-aims-for-deploying-national-guard-to-blue-cities/"
-  },
-  {
-    "score": 63,
-    "pubdate": "2025-09-01-02-40-01 +0000",
-    "source": "nyt",
-    "headline": "Judge Halts U.S. Effort to Deport Guatemalan Children as Planes Sit on Tarmac",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html"
+    "score": 96,
+    "pubdate": "2025-09-01-04-24-11 +0000",
+    "source": "bbc",
+    "headline": "Judge blocks Trump administration move to deport Guatemalan children",
+    "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 63,
@@ -21,28 +14,28 @@
     "link": "https://nypost.com/2025/08/31/world-news/israel-begins-heavy-airstrikes-ahead-of-gaza-city-onslaught/"
   },
   {
+    "score": 51,
+    "pubdate": "2025-08-31-09-39-53 +0000",
+    "source": "bbc",
+    "headline": "Watch: Putin, Modi and other world leaders in China for summit",
+    "link": "https://www.bbc.com/news/videos/c5y310qngqpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 50,
-    "pubdate": "2025-08-31-10-00-11 +0000",
-    "source": "wapo",
-    "headline": "Putin heads to China to shore up trading partners as economic pressure rises",
-    "link": "https://www.washingtonpost.com/world/2025/08/31/russia-economy-shanghai-india-tariffs-oil/"
-  },
-  {
-    "score": 39,
-    "pubdate": "2025-08-31-22-47-00 +0000",
-    "source": "wsj",
-    "headline": "Rudy Giuliani Injured in Car Crash in New Hampshire",
-    "link": "https://www.wsj.com/us-news/rudy-giuliani-injured-after-car-crash-in-new-hampshire-e6496cd8"
-  },
-  {
-    "score": 38,
     "pubdate": "2025-08-31-21-49-36 +0000",
     "source": "nypost",
     "headline": "Bullet fragment found in neck of Minneapolis school shooting survivor as parents tout ‘miracle’: ‘If it went any further, he would’ve died’",
     "link": "https://nypost.com/2025/08/31/us-news/bullet-fragments-found-in-neck-of-minneapolis-catholic-school-shooting-survivor-who-was-shielded-by-his-friend/"
   },
   {
-    "score": 36,
+    "score": 41,
+    "pubdate": "2025-08-31-22-47-00 +0000",
+    "source": "wsj",
+    "headline": "Rudy Giuliani Injured in Car Crash in New Hampshire",
+    "link": "https://www.wsj.com/us-news/rudy-giuliani-injured-after-car-crash-in-new-hampshire-e6496cd8"
+  },
+  {
+    "score": 37,
     "pubdate": "2025-08-31-21-45-30 +0000",
     "source": "nypost",
     "headline": "Trump mulls ‘GREAT’ plan to pay Palestinians $5K to leave Gaza during post-war rebuild: report",
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/08/31/us-news/11-year-old-boy-allegedly-shot-and-killed-by-texas-homeowner-while-playing-ding-dong-ditch/"
   },
   {
-    "score": 32,
-    "pubdate": "2025-08-31-18-12-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court has flirted with a flurry of Trump administration matters in recent months, but the battle over the president’s sweeping global tariffs will put the justices directly on the spot",
-    "link": "https://www.wsj.com/politics/policy/trump-tariff-case-ups-ante-at-supreme-court-688f9df3"
+    "score": 30,
+    "pubdate": "2025-08-31-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Their brotherly love transcends politics — and California's tooth-and-nail redistricting fight",
+    "link": "https://www.latimes.com/politics/story/2025-08-31/california-brothers-political-consultants-jim-tom-ross-opposite-sides-redistricting-fight"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-08-31-16-15-56 +0000",
+    "source": "nypost",
+    "headline": "Rep. Ilhan Omar slams Trump official for pointing out Minnesota church shooter’s trans identity: ‘Not the moment to point fingers’",
+    "link": "https://nypost.com/2025/08/31/us-news/rep-ilhan-omar-slams-trump-adviser-for-focusing-on-minnesota-church-shooter-robin-westmans-trans-identity/"
   }
 ]
