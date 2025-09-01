@@ -1,72 +1,72 @@
 [
   {
     "score": 22,
-    "pubdate": "2025-09-01-18-35-56 +0000",
+    "pubdate": "2025-09-01-19-37-12 +0000",
+    "source": "bbc",
+    "headline": "Nestle fires boss after romantic relationship with employee",
+    "link": "https://www.bbc.com/news/articles/c1mpm9ee9p9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-09-01-19-16-01 +0000",
     "source": "nyt",
     "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
     "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html"
   },
   {
-    "score": 22,
-    "pubdate": "2025-09-01-18-15-40 +0000",
-    "source": "bbc",
-    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
-    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 18,
-    "pubdate": "2025-09-01-17-54-39 +0000",
-    "source": "nyt",
-    "headline": "Trump Orders Have Stripped Nearly Half a Million Federal Workers of Union Rights",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/trumps-unions-federal-workers.html"
+    "pubdate": "2025-09-01-19-46-28 +0000",
+    "source": "nypost",
+    "headline": "Here are the jobs that qualify for Trump’s ‘no tax on tips’",
+    "link": "https://nypost.com/2025/09/01/us-news/here-are-the-list-of-jobs-that-qualify-for-president-trumps-no-tax-on-tips/"
   },
   {
-    "score": 16,
-    "pubdate": "2025-09-01-18-38-23 +0000",
-    "source": "nyt",
-    "headline": "Crime Festers in Republican States While Their Troops Patrol Washington",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/crime-republican-states.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-09-01-18-26-18 +0000",
-    "source": "nyt",
-    "headline": "Kyiv Links Moscow to Killing of Former Ukrainian Parliament Speaker",
-    "link": "https://www.nytimes.com/2025/09/01/world/europe/ukraine-andriy-parubiy-murder.html"
+    "score": 17,
+    "pubdate": "2025-09-01-18-59-57 +0000",
+    "source": "nypost",
+    "headline": "J’Ouvert and West Indian American Carnival celebrations draw hundreds of thousands as NYPD boosts security: ‘We are all one’",
+    "link": "https://nypost.com/2025/09/01/us-news/jouvert-and-west-indian-american-carnival-celebrations-draw-hundreds-of-thousands-of-revelers-as-nypd-boosts-security/"
   },
   {
     "score": 12,
-    "pubdate": "2025-09-01-18-44-35 +0000",
-    "source": "nyt",
-    "headline": "With Drones and I.E.D.s, Mexico’s Cartels Adopt Arms of Modern War",
-    "link": "https://www.nytimes.com/2025/09/01/world/americas/mexico-cartel-weapons.html"
+    "pubdate": "2025-09-01-18-53-58 +0000",
+    "source": "nypost",
+    "headline": "Murder suspect who shot 3 in backyard dispute dies in custody on Rikers Island days after arrest",
+    "link": "https://nypost.com/2025/09/01/us-news/murder-suspect-who-shot-3-in-backyard-dispute-dies-at-rikers/"
   },
   {
     "score": 11,
-    "pubdate": "2025-09-01-18-33-52 +0000",
+    "pubdate": "2025-09-01-19-00-11 +0000",
     "source": "nypost",
-    "headline": "Bipartisan bill seeks to close loophole for nitazenes — a terrifying synthetic opioid 40x stronger than fentanyl",
-    "link": "https://nypost.com/2025/09/01/us-news/bipartisan-bill-seeks-to-close-nitazine-opioid-loophole/"
+    "headline": "One Baghdad afternoon — and its political aftermath — made Blackwater a household name and tarnished four Americans",
+    "link": "https://nypost.com/2025/09/01/us-news/one-baghdad-afternoon-and-its-political-aftermath-made-blackwater-a-household-name-and-tarnished-four-americans/"
   },
   {
     "score": 10,
-    "pubdate": "2025-09-01-18-23-50 +0000",
-    "source": "nypost",
-    "headline": "Copper hits one-month peak on strong China factory data, weak dollar",
-    "link": "https://nypost.com/2025/09/01/business/copper-hits-one-month-peak-on-strong-china-factory-data-weak-dollar/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-01-18-23-52 +0000",
-    "source": "nyt",
-    "headline": "Afghanistan Earthquake Leaves More Than 800 Dead",
-    "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-01-18-08-00 +0000",
+    "pubdate": "2025-09-01-18-54-00 +0000",
     "source": "wsj",
-    "headline": "Russia Intensifies Strikes in Ukraine, Defying Trump’s Shifting Deadlines for Peace",
-    "link": "https://www.wsj.com/world/russia-intensifies-strikes-in-ukraine-defying-trumps-shifting-deadlines-for-peace-af9746c9"
+    "headline": "Opinion | By Tying Ukraine’s Hands, the Pentagon Undermines Trump",
+    "link": "https://www.wsj.com/opinion/by-tying-ukraines-hands-the-pentagon-undermines-trump-00b761b3"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-01-19-11-03 +0000",
+    "source": "nyt",
+    "headline": "Nestlé Dismisses CEO Laurent Freixe Over Inappropriate Relationship With a Subordinate",
+    "link": "https://www.nytimes.com/2025/09/01/business/nestle-laurent-freixe-inappropriate-relationship.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-01-19-27-26 +0000",
+    "source": "nypost",
+    "headline": "Mom of two dies slipping off 300-foot tower while posing for selfie with son",
+    "link": "https://nypost.com/2025/09/01/world-news/mom-of-2-dies-slipping-off-300-foot-tower-posing-for-selfie-with-son/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-01-19-46-10 +0000",
+    "source": "wapo",
+    "headline": "Nationwide Labor Day protests denounce billionaires in Trump’s orbit",
+    "link": "https://www.washingtonpost.com/nation/2025/09/01/nationwide-labor-day-protests-denounce-billionaires-trumps-orbit/"
   }
 ]
