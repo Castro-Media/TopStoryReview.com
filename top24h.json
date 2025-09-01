@@ -1,27 +1,27 @@
 [
   {
-    "score": 100,
+    "score": 101,
     "pubdate": "2025-09-01-09-39-10 +0000",
     "source": "bbc",
     "headline": "Judge blocks Trump administration move to deport Guatemalan children",
     "link": "https://www.bbc.com/news/articles/cwy59ppq522o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-08-31-14-53-00 +0000",
     "source": "wsj",
     "headline": "Israel Says It Has Killed Hamas Spokesman in Gaza City Strike Ahead of Planned Invasion",
     "link": "https://www.wsj.com/world/middle-east/israel-says-it-has-killed-hamas-spokesman-in-gaza-city-strike-ahead-of-planned-invasion-19436f8e"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2025-09-01-09-00-27 +0000",
     "source": "nyt",
     "headline": "Ukraine War Leads to Global Shortage of TNT for Military and Mining Use",
     "link": "https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html"
   },
   {
-    "score": 45,
+    "score": 43,
     "pubdate": "2025-08-31-19-58-46 +0000",
     "source": "nypost",
     "headline": "Illinois Gov. Pritzker floats conspiracy theory that Trump has ‘other aims’ for deploying National Guard to blue cities: ‘He would like to stop the elections’",
@@ -43,6 +43,13 @@
   },
   {
     "score": 38,
+    "pubdate": "2025-09-01-01-51-09 +0000",
+    "source": "nypost",
+    "headline": "Robert Mueller, former Trump-Russia special prosecutor, diagnosed with Parkinson’s 4 years ago: family",
+    "link": "https://nypost.com/2025/08/31/us-news/robert-mueller-former-trump-russia-special-prosecutor-diagnosed-with-parkinsons-4-years-ago-family/"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-09-01-06-11-59 +0000",
     "source": "bbc",
     "headline": "Fugitive wanted over Australia police killings being helped, police say",
@@ -50,23 +57,16 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-09-01-01-51-09 +0000",
-    "source": "nypost",
-    "headline": "Robert Mueller, former Trump-Russia special prosecutor, diagnosed with Parkinson’s 4 years ago: family",
-    "link": "https://nypost.com/2025/08/31/us-news/robert-mueller-former-trump-russia-special-prosecutor-diagnosed-with-parkinsons-4-years-ago-family/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-09-01-11-45-15 +0000",
+    "pubdate": "2025-09-01-12-52-02 +0000",
     "source": "nyt",
     "headline": "Hundreds Dead After 6.0-Magnitude Earthquake Hits Afghanistan",
     "link": "https://www.nytimes.com/2025/08/31/world/asia/afghanistan-earthquake-jalalabad.html"
   },
   {
-    "score": 33,
-    "pubdate": "2025-08-31-19-11-24 +0000",
+    "score": 37,
+    "pubdate": "2025-09-01-12-16-54 +0000",
     "source": "bbc",
-    "headline": "UK closes embassy in Cairo amid row over activist's arrest",
-    "link": "https://www.bbc.com/news/articles/cx27xr2jkp9o?at_medium=RSS&at_campaign=rss"
+    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
+    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss"
   }
 ]
