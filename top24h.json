@@ -1,27 +1,34 @@
 [
   {
-    "score": 151,
+    "score": 152,
     "pubdate": "2025-09-01-20-19-52 +0000",
     "source": "nypost",
     "headline": "India’s leader Modi cozies up to Putin and Xi Jinping at Shanghai summit — after he was spurned by Trump",
     "link": "https://nypost.com/2025/09/01/world-news/indias-leader-modi-cozies-up-to-putin-and-xi-jinping-at-shanghai-summit/"
   },
   {
-    "score": 77,
+    "score": 73,
     "pubdate": "2025-09-02-00-05-47 +0000",
     "source": "nypost",
     "headline": "Bessent says Trump admin willing to hit Russia with new sanctions in bid to end Ukraine war: ‘All options are on the table’",
     "link": "https://nypost.com/2025/09/01/world-news/bessent-says-trump-administration-willing-to-hit-russian-with-new-sanctions-in-bid-to-end-ukraine-war/"
   },
   {
-    "score": 59,
+    "score": 66,
+    "pubdate": "2025-09-02-19-04-50 +0000",
+    "source": "nypost",
+    "headline": "‘Morning Joe’ host Joe Scarborough urges defiant Chicago Dems to allow Trump to send National Guard after bloody Labor Day weekend",
+    "link": "https://nypost.com/2025/09/02/us-news/joe-scarborough-urges-defiant-chicago-dems-to-allow-trump-to-send-national-guard-after-bloody-labor-day-weekend/"
+  },
+  {
+    "score": 60,
     "pubdate": "2025-09-02-18-01-25 +0000",
     "source": "bbc",
     "headline": "North Korea's Kim arrives in Beijing with daughter to attend massive military parade",
     "link": "https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
+    "score": 55,
     "pubdate": "2025-09-01-20-43-57 +0000",
     "source": "nypost",
     "headline": "Trump awarding Presidential Medal of Freedom to Rudy Giuliani after ex-NYC mayor seriously injured in harrowing car crash",
@@ -29,24 +36,10 @@
   },
   {
     "score": 52,
-    "pubdate": "2025-09-01-21-01-44 +0000",
+    "pubdate": "2025-09-02-04-30-07 +0000",
     "source": "nyt",
     "headline": "An Earthquake Killed Hundreds in Afghanistan",
-    "link": "https://www.nytimes.com/2025/09/01/briefing/afghanistan-earthquake-bolsonaro-trial-bad-bunny.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-09-02-17-48-32 +0000",
-    "source": "bbc",
-    "headline": "Trump's use of National Guard in Los Angeles was illegal, judge rules",
-    "link": "https://www.bbc.com/news/articles/c5ylyd9lkkqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-09-01-19-16-01 +0000",
-    "source": "nyt",
-    "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html"
+    "link": "https://www.nytimes.com/2025/09/02/briefing/afghanistant-earthquake-bolsonaro-modi-putin-xi.html"
   },
   {
     "score": 49,
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2025/09/02/world-news/sudan-landslide-kills-over-1000-people-and-wipes-out-entire-village/"
   },
   {
-    "score": 48,
-    "pubdate": "2025-09-02-18-31-01 +0000",
+    "score": 46,
+    "pubdate": "2025-09-02-18-31-02 +0000",
     "source": "nyt",
     "headline": "Rubio Flies to Mexico for Security Talks Amid Trump Pressure Campaign",
     "link": "https://www.nytimes.com/2025/09/02/us/politics/rubio-sheinbaum-cartels-mexico.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-09-01-20-43-00 +0000",
-    "source": "wsj",
-    "headline": "Nestlé Fires CEO Following Probe of Romantic Relationship With Subordinate",
-    "link": "https://www.wsj.com/business/nestle-ousts-ceo-after-romantic-relationship-probe-e33668a5?mod=pls_whats_news_us_business_f"
+    "score": 43,
+    "pubdate": "2025-09-02-19-43-03 +0000",
+    "source": "nyt",
+    "headline": "Trump Signals Imminent Supreme Court Appeal to Protect Tariffs",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/trump-tariffs-appeals-court-ruling-economy.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-09-02-18-15-46 +0000",
+    "source": "bbc",
+    "headline": "Thousands of Israeli reservists report for duty ahead of Gaza City offensive",
+    "link": "https://www.bbc.com/news/articles/cyvnv5lv4zpo?at_medium=RSS&at_campaign=rss"
   }
 ]
