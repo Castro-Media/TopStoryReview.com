@@ -1,65 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2025-09-01-22-56-26 +0000",
+    "score": 36,
+    "pubdate": "2025-09-02-00-53-27 +0000",
+    "source": "nyt",
+    "headline": "Ukraine War Leads to Global Shortage of TNT for Military and Mining Use",
+    "link": "https://www.nytimes.com/2025/09/01/us/politics/ukraine-war-tnt-shortage.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-09-02-00-36-00 +0000",
     "source": "nyt",
     "headline": "Trump Family Profits Even With Tepid Launch of Crypto Tokens",
     "link": "https://www.nytimes.com/2025/09/01/us/politics/trump-crypto-trading.html"
   },
   {
-    "score": 15,
-    "pubdate": "2025-09-01-23-38-09 +0000",
-    "source": "nypost",
-    "headline": "University of Kentucky cheerleader, 21, arrested after infant she gave birth to found dead ‘inside of a black trash bag’ in closet",
-    "link": "https://nypost.com/2025/09/01/us-news/university-of-kentucky-cheerleader-21-arrested-after-dead-infant-found-stuffed-in-trash-bag-inside-closet/"
+    "score": 20,
+    "pubdate": "2025-09-02-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Disparate factions inside MAHA are sparring over some of RFK Jr.’s biggest priorities. One top FDA scientist was hired, ousted, then hired again.",
+    "link": "https://www.wsj.com/politics/policy/maha-kennedy-vaccines-hhs-cdc-f5c0a6a8"
   },
   {
-    "score": 9,
-    "pubdate": "2025-09-01-23-05-23 +0000",
-    "source": "nypost",
-    "headline": "World’s largest cruise ship sets sail from Florida on maiden voyage",
-    "link": "https://nypost.com/2025/09/01/world-news/worlds-largest-cruise-ship-sets-sail-on-maiden-voyage/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-01-23-05-14 +0000",
-    "source": "bbc",
-    "headline": "Will drones deliver your next hot food order?",
-    "link": "https://www.bbc.com/news/articles/crlze41zygdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-01-22-57-54 +0000",
+    "score": 13,
+    "pubdate": "2025-09-02-01-14-25 +0000",
     "source": "48hills",
-    "headline": "Lurie is damaging transit, the environment—and democracy—on Market Street",
-    "link": "https://48hills.org/2025/09/lurie-is-damaging-transit-the-environment-and-democracy-on-market-street/"
+    "headline": "Screen Grabs: Bernal Heights Outdoor Cinema beckons cinephile families and al fresco film freaks",
+    "link": "https://48hills.org/2025/09/screen-grabs-bernal-heights-outdoor-cinema-beckons-cinephile-families-and-al-fresco-film-freaks/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-02-00-18-28 +0000",
+    "source": "bbc",
+    "headline": "Body seen in secret mortuary could solve 50-year mystery of vanished religious leader",
+    "link": "https://www.bbc.com/news/articles/clyr1qr529xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-02-01-12-03 +0000",
+    "source": "missionlocal",
+    "headline": "Hundreds march in S.F. Labor Day rally to protest ‘billionaire takeover’",
+    "link": "https://missionlocal.org/2025/09/hundreds-march-in-s-f-labor-day-rally-to-protest-billionaire-takeover/"
   },
   {
     "score": 6,
-    "pubdate": "2025-09-01-23-04-18 +0000",
-    "source": "bbc",
-    "headline": "Justice secretary to get power to veto sentencing guidance",
-    "link": "https://www.bbc.com/news/articles/cn848g3ll09o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-09-02-00-25-00 +0000",
+    "source": "wsj",
+    "headline": "South Korea’s Inflation Hits Nine-Month Low",
+    "link": "https://www.wsj.com/economy/south-korea-inflation-eased-for-second-month-in-august-e61d12e5"
   },
   {
     "score": 5,
-    "pubdate": "2025-09-01-23-22-00 +0000",
+    "pubdate": "2025-09-02-01-00-00 +0000",
     "source": "wsj",
-    "headline": "South Korea Inflation Eased for Second Month in August",
-    "link": "https://www.wsj.com/economy/global/south-korea-inflation-eased-for-second-month-in-august-e61d12e5"
+    "headline": "America is becoming a nation of economic pessimists",
+    "link": "https://www.wsj.com/economy/wsj-norc-economic-poll-73bce003"
   },
   {
-    "score": 0,
-    "pubdate": "2025-09-01-22-56-26 +0000",
-    "source": "nyt",
-    "headline": "Trump Family Profits Even With Tepid Launch of Crypto Tokens",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/trump-crypto-trading.html"
+    "score": 4,
+    "pubdate": "2025-09-02-00-52-50 +0000",
+    "source": "latimes",
+    "headline": "Body is found in MacArthur Park Lake",
+    "link": "https://www.latimes.com/california/story/2025-09-01/body-found-in-macarthur-park-lake"
   },
   {
-    "score": 0,
-    "pubdate": "2025-09-01-22-56-26 +0000",
+    "score": 4,
+    "pubdate": "2025-09-02-00-37-24 +0000",
     "source": "nyt",
-    "headline": "Trump Family Profits Even With Tepid Launch of Crypto Tokens",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/trump-crypto-trading.html"
+    "headline": "Labor Day Protests Denounce Trump While Supporting Workers",
+    "link": "https://www.nytimes.com/2025/09/01/us/trump-labor-day-protests.html"
   }
 ]
