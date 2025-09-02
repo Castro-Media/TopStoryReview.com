@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 42,
+    "pubdate": "2025-09-02-18-31-01 +0000",
+    "source": "nyt",
+    "headline": "Rubio Flies to Mexico for Security Talks Amid Trump Pressure Campaign",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/rubio-sheinbaum-cartels-mexico.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-09-02-18-01-25 +0000",
+    "source": "bbc",
+    "headline": "North Korea's Kim arrives in Beijing with daughter to attend massive military parade",
+    "link": "https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-09-02-18-15-46 +0000",
+    "source": "bbc",
+    "headline": "Thousands of Israeli reservists report for duty ahead of Gaza City offensive",
+    "link": "https://www.bbc.com/news/articles/cyvnv5lv4zpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-09-02-18-32-06 +0000",
+    "source": "nypost",
+    "headline": "Pentagon approves sending up to 600 military lawyers to serve as temporary immigration judges",
+    "link": "https://nypost.com/2025/09/02/us-news/pentagon-approves-sending-up-to-600-military-lawyers-to-serve-as-temporary-immigration-judges/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-02-18-29-35 +0000",
+    "source": "latimes",
+    "headline": "Disney to pay $10 million for violating kids online privacy laws",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-02/disney-to-pay-10-million-for-violating-kids-privacy-laws"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-02-17-59-49 +0000",
+    "source": "nypost",
+    "headline": "Kraft Heinz splitting into dual companies — as billionaire investor Warren Buffett knocks the move",
+    "link": "https://nypost.com/2025/09/02/business/kraft-heinz-splitting-into-2-companies-to-warren-buffetts-disappointment/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-02-18-17-51 +0000",
+    "source": "nyt",
+    "headline": "House Oversight Committee Is Set to Meet With Accusers of Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/epstein-accusers-house-oversight-committee.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-02-18-47-11 +0000",
+    "source": "nyt",
+    "headline": "A C.E.O. Stirred Anger at the U.S. Open. Another Man Bore the Internet’s Wrath.",
+    "link": "https://www.nytimes.com/2025/09/02/world/europe/us-open-drog-bruk-ceo-szczerek.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-02-18-37-11 +0000",
+    "source": "nyt",
+    "headline": "Netanyahu Faces High-Level Opposition to His Stance on Gaza Truce",
+    "link": "https://www.nytimes.com/2025/09/02/world/middleeast/netanyahu-israel-gaza-war-ceasefire.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-02-18-07-11 +0000",
+    "source": "nypost",
+    "headline": "Rep. Elise Stefanik calls for federal probe of political foe Gov. Hochul over layoffs during NY prisons strike",
+    "link": "https://nypost.com/2025/09/02/us-news/rep-elise-stefanik-calls-for-federal-probe-of-political-foe-gov-hochul-over-layoffs-during-ny-prisons-strike/"
+  }
+]
