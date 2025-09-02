@@ -1,51 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-09-02-12-53-42 +0000",
+    "score": 45,
+    "pubdate": "2025-09-02-14-16-14 +0000",
+    "source": "latimes",
+    "headline": "Trump deployment of military troops to Los Angeles was illegal, judge rules in blistering opinion",
+    "link": "https://www.latimes.com/california/story/2025-09-02/trump-deployment-military-troops-los-angeles-illegal"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-09-02-14-03-09 +0000",
+    "source": "nyt",
+    "headline": "First War, Then Floods Drive Pakistani Families From Their Homes",
+    "link": "https://www.nytimes.com/2025/09/02/world/asia/pakistan-india-floods.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-09-02-14-33-25 +0000",
     "source": "bbc",
     "headline": "UK borrowing costs hit 27-year high adding to pressure on Reeves",
     "link": "https://www.bbc.com/news/articles/cy989njnq2wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2025-09-02-12-57-51 +0000",
-    "source": "nyt",
-    "headline": "House Oversight Committee Is Set to Meet With Accusers of Jeffrey Epstein",
-    "link": "https://www.nytimes.com/2025/09/02/us/politics/epstein-accusers-house-oversight-committee.html"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-02-12-59-39 +0000",
+    "score": 22,
+    "pubdate": "2025-09-02-14-00-58 +0000",
     "source": "nypost",
-    "headline": "Wedding crasher steals $100K in gifts from newlyweds’ reception: Video",
-    "link": "https://nypost.com/2025/09/02/us-news/wedding-crasher-steals-100k-in-gifts-from-reception-video/"
+    "headline": "Trump’s use of National Guard during LA immigration protests violated federal law, judge rules",
+    "link": "https://nypost.com/2025/09/02/us-news/trumps-use-of-national-guard-during-la-immigration-protests-violated-federal-law-judge-rules/"
   },
   {
-    "score": 6,
-    "pubdate": "2025-09-02-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "A Tiny Town Takes on a ‘Zombie Mall’ Giant",
-    "link": "https://www.wsj.com/real-estate/commercial/a-tiny-town-takes-on-a-zombie-mall-giant-baa7003c"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-09-02-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Temporary agave height variance",
-    "link": "https://missionlocal.org/2025/09/sf-photos-temporary-agave-height-variance/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-02-12-57-51 +0000",
+    "score": 20,
+    "pubdate": "2025-09-02-14-17-43 +0000",
     "source": "nyt",
-    "headline": "House Oversight Committee Is Set to Meet With Accusers of Jeffrey Epstein",
-    "link": "https://www.nytimes.com/2025/09/02/us/politics/epstein-accusers-house-oversight-committee.html"
+    "headline": "After Deadly Earthquake in Afghanistan, Emergency Aid Trickles In",
+    "link": "https://www.nytimes.com/2025/09/02/world/asia/afghanistan-earthquake.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-09-02-12-53-42 +0000",
+    "score": 18,
+    "pubdate": "2025-09-02-14-03-25 +0000",
+    "source": "nyt",
+    "headline": "Why China Is Trying to Tame Its Electric Car Frenzy",
+    "link": "https://www.nytimes.com/2025/09/02/business/china-electric-vehicles-overcapacity.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-02-14-07-02 +0000",
     "source": "bbc",
-    "headline": "UK borrowing costs hit 27-year high adding to pressure on Reeves",
-    "link": "https://www.bbc.com/news/articles/cy989njnq2wo?at_medium=RSS&at_campaign=rss"
+    "headline": "Scotland scraps peak rail fares - will the rest of the UK follow?",
+    "link": "https://www.bbc.com/news/articles/czxp9zl0k90o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-02-14-21-33 +0000",
+    "source": "bbc",
+    "headline": "North Korea's Kim arrives in Beijing with daughter and possible heir",
+    "link": "https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-02-14-28-39 +0000",
+    "source": "nyt",
+    "headline": "California’s High Potency Cannabis is Fueling a ‘Cali Weed’ Trend in the UK",
+    "link": "https://www.nytimes.com/2025/09/01/world/europe/california-uk-cannabis-smuggling.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-02-14-37-16 +0000",
+    "source": "nypost",
+    "headline": "Venezuela President Nicolás Maduro claims US seeks ‘regime change through military threat’ amid Caribbean naval buildup",
+    "link": "https://nypost.com/2025/09/02/world-news/maduro-claims-us-seeks-regime-change-through-military-threat/"
   }
 ]
