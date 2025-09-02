@@ -1,52 +1,45 @@
 [
   {
-    "score": 157,
+    "score": 154,
     "pubdate": "2025-09-01-20-19-52 +0000",
     "source": "nypost",
     "headline": "India’s leader Modi cozies up to Putin and Xi Jinping at Shanghai summit — after he was spurned by Trump",
     "link": "https://nypost.com/2025/09/01/world-news/indias-leader-modi-cozies-up-to-putin-and-xi-jinping-at-shanghai-summit/"
   },
   {
-    "score": 83,
+    "score": 80,
     "pubdate": "2025-09-02-00-05-47 +0000",
     "source": "nypost",
     "headline": "Bessent says Trump admin willing to hit Russia with new sanctions in bid to end Ukraine war: ‘All options are on the table’",
     "link": "https://nypost.com/2025/09/01/world-news/bessent-says-trump-administration-willing-to-hit-russian-with-new-sanctions-in-bid-to-end-ukraine-war/"
   },
   {
-    "score": 59,
+    "score": 58,
+    "pubdate": "2025-09-02-14-16-14 +0000",
+    "source": "latimes",
+    "headline": "Trump deployment of military troops to Los Angeles was illegal, judge rules in blistering opinion",
+    "link": "https://www.latimes.com/california/story/2025-09-02/trump-deployment-military-troops-los-angeles-illegal"
+  },
+  {
+    "score": 55,
     "pubdate": "2025-09-01-20-43-57 +0000",
     "source": "nypost",
     "headline": "Trump awarding Presidential Medal of Freedom to Rudy Giuliani after ex-NYC mayor seriously injured in harrowing car crash",
     "link": "https://nypost.com/2025/09/01/us-news/trump-awarding-presidential-medal-of-freedom-to-rudy-giuliani-after-ex-nyc-mayor-seriously-injured-in-car-crash/"
   },
   {
-    "score": 58,
-    "pubdate": "2025-09-01-16-49-00 +0000",
+    "score": 53,
+    "pubdate": "2025-09-01-21-01-44 +0000",
+    "source": "nyt",
+    "headline": "An Earthquake Killed Hundreds in Afghanistan",
+    "link": "https://www.nytimes.com/2025/09/01/briefing/afghanistan-earthquake-bolsonaro-trial-bad-bunny.html"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-09-02-13-48-00 +0000",
     "source": "wsj",
-    "headline": "Hundreds Killed in 6.0-Magnitude Earthquake in Afghanistan",
-    "link": "https://www.wsj.com/world/asia/afghanistan-struck-by-deadly-6-0-magnitude-earthquake-f2c5d84f"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-09-01-16-48-15 +0000",
-    "source": "nypost",
-    "headline": "US companies doing business in China say they’re staying put despite tariffs: ‘We’re trapped’",
-    "link": "https://nypost.com/2025/09/01/business/us-companies-doing-business-in-china-staying-put-despite-tariffs/"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-09-02-15-08-33 +0000",
-    "source": "bbc",
-    "headline": "Trump's use of National Guard in Los Angeles was illegal, judge rules",
-    "link": "https://www.bbc.com/news/articles/c5ylyd9lkkqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-09-02-14-37-16 +0000",
-    "source": "nypost",
-    "headline": "Venezuela President Nicolás Maduro claims US seeks ‘regime change through military threat’ amid Caribbean naval buildup",
-    "link": "https://nypost.com/2025/09/02/world-news/maduro-claims-us-seeks-regime-change-through-military-threat/"
+    "headline": "Russia, China Close In on Pipeline Deal, Leaving Beijing With the Upper Hand",
+    "link": "https://www.wsj.com/world/russia/russia-china-agree-pipeline-plan-leaving-beijing-with-the-upper-hand-f61a92d6"
   },
   {
     "score": 46,
@@ -57,13 +50,20 @@
   },
   {
     "score": 45,
-    "pubdate": "2025-09-02-14-33-25 +0000",
+    "pubdate": "2025-09-02-16-46-17 +0000",
     "source": "bbc",
     "headline": "UK borrowing costs hit 27-year high adding to pressure on Reeves",
     "link": "https://www.bbc.com/news/articles/cy989njnq2wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 44,
+    "pubdate": "2025-09-02-15-17-28 +0000",
+    "source": "nyt",
+    "headline": "After Court Defeat, Trump Warns of Economic Chaos From Loss of Tariffs",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/trump-tariffs-appeals-court-ruling-economy.html"
+  },
+  {
+    "score": 43,
     "pubdate": "2025-09-01-20-43-00 +0000",
     "source": "wsj",
     "headline": "Nestlé Fires CEO Following Probe of Romantic Relationship With Subordinate",
