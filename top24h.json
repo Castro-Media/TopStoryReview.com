@@ -1,6 +1,6 @@
 [
   {
-    "score": 143,
+    "score": 140,
     "pubdate": "2025-09-02-00-05-47 +0000",
     "source": "nypost",
     "headline": "Bessent says Trump admin willing to hit Russia with new sanctions in bid to end Ukraine war: ‘All options are on the table’",
@@ -15,38 +15,17 @@
   },
   {
     "score": 57,
-    "pubdate": "2025-09-01-16-49-00 +0000",
-    "source": "wsj",
-    "headline": "Hundreds Killed in 6.0-Magnitude Earthquake in Afghanistan",
-    "link": "https://www.wsj.com/world/asia/afghanistan-struck-by-deadly-6-0-magnitude-earthquake-f2c5d84f"
-  },
-  {
-    "score": 57,
     "pubdate": "2025-09-01-20-43-57 +0000",
     "source": "nypost",
     "headline": "Trump awarding Presidential Medal of Freedom to Rudy Giuliani after ex-NYC mayor seriously injured in harrowing car crash",
     "link": "https://nypost.com/2025/09/01/us-news/trump-awarding-presidential-medal-of-freedom-to-rudy-giuliani-after-ex-nyc-mayor-seriously-injured-in-car-crash/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-09-01-14-01-36 +0000",
-    "source": "nyt",
-    "headline": "Judge Halts U.S. Effort to Deport Guatemalan Children as Planes Sit on Tarmac",
-    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-09-01-18-15-40 +0000",
-    "source": "bbc",
-    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
-    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-09-02-00-13-00 +0000",
-    "source": "nypost",
-    "headline": "Rep. Jerrold Nadler, 78, will not seek re-election as longtime NY Democrat stresses need for ‘generational change’ after Biden’s decline",
-    "link": "https://nypost.com/2025/09/01/us-news/rep-jerrold-nadler-78-will-not-seek-re-election-as-longtime-ny-democrat-stresses-need-for-generational-change-after-watching-biden/"
+    "score": 55,
+    "pubdate": "2025-09-01-16-49-00 +0000",
+    "source": "wsj",
+    "headline": "Hundreds Killed in 6.0-Magnitude Earthquake in Afghanistan",
+    "link": "https://www.wsj.com/world/asia/afghanistan-struck-by-deadly-6-0-magnitude-earthquake-f2c5d84f"
   },
   {
     "score": 48,
@@ -57,10 +36,31 @@
   },
   {
     "score": 48,
+    "pubdate": "2025-09-02-00-13-00 +0000",
+    "source": "nypost",
+    "headline": "Rep. Jerrold Nadler, 78, will not seek re-election as longtime NY Democrat stresses need for ‘generational change’ after Biden’s decline",
+    "link": "https://nypost.com/2025/09/01/us-news/rep-jerrold-nadler-78-will-not-seek-re-election-as-longtime-ny-democrat-stresses-need-for-generational-change-after-watching-biden/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-09-01-18-15-40 +0000",
+    "source": "bbc",
+    "headline": "EU chief von der Leyen's plane hit by suspected Russian GPS jamming",
+    "link": "https://www.bbc.com/news/articles/c9d07z1439zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
     "pubdate": "2025-09-01-20-20-50 +0000",
     "source": "nypost",
     "headline": "TikTok influencer and her family found dead, wrapped in plastic inside pickup truck after cartel-style execution",
     "link": "https://nypost.com/2025/09/01/world-news/influencers-family-found-wrapped-in-plastic-after-cartel-style-execution/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-09-01-14-01-36 +0000",
+    "source": "nyt",
+    "headline": "Judge Halts U.S. Effort to Deport Guatemalan Children as Planes Sit on Tarmac",
+    "link": "https://www.nytimes.com/2025/08/31/us/politics/trump-deportations-judge-guatemala-children.html"
   },
   {
     "score": 42,
