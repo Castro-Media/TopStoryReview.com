@@ -1,17 +1,24 @@
 [
   {
-    "score": 427,
+    "score": 445,
     "pubdate": "2025-09-03-05-07-00 +0000",
     "source": "nypost",
     "headline": "Trump accuses Putin, Kim Jong Un and Xi Jinping of conspiring against the US as they meet at military parade in China",
     "link": "https://nypost.com/2025/09/03/us-news/trump-accuses-putin-kim-jong-un-and-xi-jinping-of-conspiring-against-us-as-they-meet-at-military-parade-in-china/"
   },
   {
-    "score": 151,
+    "score": 154,
     "pubdate": "2025-09-03-19-24-00 +0000",
     "source": "wsj",
     "headline": "New Orleans might be the next city to get additional law enforcement from the National Guard, President Trump said Wednesday",
     "link": "https://www.wsj.com/politics/policy/trump-mulls-sending-national-guard-to-new-orleans-a401b8f0"
+  },
+  {
+    "score": 137,
+    "pubdate": "2025-09-03-22-33-42 +0000",
+    "source": "nypost",
+    "headline": "JD and Usha Vance pay their respects to victims of Minneapolis Catholic school shooting: ‘Never had a day that will stay with me like this’",
+    "link": "https://nypost.com/2025/09/03/us-news/jd-and-usha-vance-pay-their-respects-to-victims-of-minneapolis-catholic-church-shooting-never-had-a-day-that-will-stay-with-me-like-this/"
   },
   {
     "score": 127,
@@ -21,52 +28,45 @@
     "link": "https://nypost.com/2025/09/02/world-news/footage-shows-us-strike-that-obliterated-drug-carrying-boat-off-venezuela-killing-11-tda-narcoterrorists/"
   },
   {
-    "score": 122,
-    "pubdate": "2025-08-28-18-13-08 +0000",
-    "source": "latimes",
-    "headline": "ICE will 'ramp up' immigration raids in Los Angeles, other 'sanctuary cities,' border advisor says",
-    "link": "https://www.latimes.com/california/story/2025-08-28/la-me-border-czar-ice"
+    "score": 127,
+    "pubdate": "2025-08-30-18-46-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
+    "link": "https://www.wsj.com/politics/national-security/white-house-moves-forward-on-plans-for-a-department-of-war-0119e010"
   },
   {
-    "score": 113,
-    "pubdate": "2025-09-01-19-16-01 +0000",
-    "source": "nyt",
-    "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html"
-  },
-  {
-    "score": 100,
+    "score": 99,
     "pubdate": "2025-09-02-16-46-17 +0000",
     "source": "bbc",
     "headline": "UK borrowing costs hit 27-year high adding to pressure on Reeves",
     "link": "https://www.bbc.com/news/articles/cy989njnq2wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 88,
-    "pubdate": "2025-09-02-21-29-07 +0000",
-    "source": "nypost",
-    "headline": "Would-be assassin Ryan Wesley Routh challenges Trump to golf game in bizarre court filing: ‘he wins he can execute me’",
-    "link": "https://nypost.com/2025/09/02/us-news/would-be-assassin-ryan-wesley-routh-challenges-trump-to-golf-game-in-bizarre-court-filing-he-wins-he-can-execute-me/"
+    "score": 93,
+    "pubdate": "2025-08-30-22-34-44 +0000",
+    "source": "nyt",
+    "headline": "Over 15 Killed in Gaza City, One Day After Israel Ends Daily Pauses for Aid",
+    "link": "https://www.nytimes.com/2025/08/30/world/middleeast/gaza-israel-deadly-strikes.html"
   },
   {
-    "score": 85,
-    "pubdate": "2025-09-03-21-50-46 +0000",
-    "source": "nypost",
-    "headline": "5 suspects, mostly teens, charged with murder in deadly Labor Day drive-by shooting outside known NYC weed spot: sources",
-    "link": "https://nypost.com/2025/09/03/us-news/5-suspects-mostly-teens-charged-with-murder-in-deadly-labor-day-drive-by-shooting-outside-known-nyc-weed-spot-cops-sources/"
-  },
-  {
-    "score": 82,
-    "pubdate": "2025-09-02-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Disparate factions inside MAHA are sparring over some of RFK Jr.’s biggest priorities. One top FDA scientist was hired, ousted, then hired again.",
-    "link": "https://www.wsj.com/politics/policy/maha-kennedy-vaccines-hhs-cdc-f5c0a6a8"
-  },
-  {
-    "score": 82,
-    "pubdate": "2025-09-03-14-20-52 +0000",
+    "score": 90,
+    "pubdate": "2025-08-29-17-00-01 +0000",
     "source": "latimes",
-    "headline": "Wildfire burns into historic California Gold Rush of Chinese Camp as well as old mining town",
-    "link": "https://www.latimes.com/california/story/2025-09-03/california-fires-lightning-strikes"
+    "headline": "Newsom, California lawmakers strike deal that would allow Uber, Lyft drivers to unionize",
+    "link": "https://www.latimes.com/california/story/2025-08-29/california-lawmakers-strike-deal-to-allow-uber-lyft-drivers-to-unionize"
+  },
+  {
+    "score": 84,
+    "pubdate": "2025-08-29-00-53-40 +0000",
+    "source": "missionlocal",
+    "headline": "S.F. immigration judge ordered a woman into court. Then ICE took her.",
+    "link": "https://missionlocal.org/2025/08/six-arrested-immigration-court/"
+  },
+  {
+    "score": 78,
+    "pubdate": "2025-08-29-00-12-39 +0000",
+    "source": "latimes",
+    "headline": "His Fresno restaurant was struggling so he allegedly hired a gang member to set it on fire, prosecutors say",
+    "link": "https://www.latimes.com/california/story/2025-08-28/his-fresno-restaurant-was-struggling-so-he-allegedly-hired-a-gang-member-to-set-it-on-fire-prosecutors-say"
   }
 ]
