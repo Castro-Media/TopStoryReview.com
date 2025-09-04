@@ -1,72 +1,72 @@
 [
   {
-    "score": 49,
-    "pubdate": "2025-09-03-23-43-03 +0000",
-    "source": "nyt",
-    "headline": "Trump Grows Frustrated With Putin, as Russian President Bonds With China’s Leader",
-    "link": "https://www.nytimes.com/2025/09/03/us/politics/trump-putin-russia-ukraine-china.html"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-09-03-23-02-02 +0000",
-    "source": "latimes",
-    "headline": "C-SPAN joins YouTube TV and Hulu + Live TV in move toward streaming future",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-03/c-span-joins-hulu-live-tv"
+    "score": 33,
+    "pubdate": "2025-09-04-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s campaign to bring the Federal Reserve under White House control faces a major test Thursday when the Senate weighs confirming Stephen Miran to the central bank’s board of governors",
+    "link": "https://www.wsj.com/economy/central-banking/trump-fed-nominee-stephen-miran-hearing-a8255a6b"
   },
   {
     "score": 24,
-    "pubdate": "2025-09-03-23-25-01 +0000",
+    "pubdate": "2025-09-04-00-58-06 +0000",
     "source": "nyt",
     "headline": "U.S. and Mexico Vow to Cooperate Against Crime as Rubio Meets Sheinbaum",
     "link": "https://www.nytimes.com/2025/09/03/world/americas/us-mexico-rubio-sheinbaum-crime.html"
   },
   {
-    "score": 21,
-    "pubdate": "2025-09-03-23-12-31 +0000",
+    "score": 20,
+    "pubdate": "2025-09-04-00-39-44 +0000",
     "source": "nyt",
-    "headline": "Epstein Victims Demand Release of More Files as Trump Labels Campaign a ‘Hoax’",
-    "link": "https://www.nytimes.com/2025/09/03/us/politics/trump-epstein-files-victims-survivors.html"
+    "headline": "Senator’s Visit to Spy Agency Was Canceled After Laura Loomer Complained",
+    "link": "https://www.nytimes.com/2025/09/03/us/politics/senator-warner-laura-loomer.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-04-00-17-51 +0000",
+    "source": "nyt",
+    "headline": "Nemat Shafik, Columbia President During Protests, Takes Another Tough Job",
+    "link": "https://www.nytimes.com/2025/09/03/world/europe/minouche-shafik-uk-columbia-starmer.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-04-00-27-21 +0000",
+    "source": "bbc",
+    "headline": "How China spectacle shows dangers of Trump's high risk trade policy",
+    "link": "https://www.bbc.com/news/articles/c98d5gplj52o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-04-00-28-10 +0000",
+    "source": "bbc",
+    "headline": "Lost in translation - How Africa is trying to close the AI language gap",
+    "link": "https://www.bbc.com/news/articles/crkzgkkpx0lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-04-01-02-27 +0000",
+    "source": "nyt",
+    "headline": "Venezuela, Drug Boats and Trump’s Latest Claim: What to Know",
+    "link": "https://www.nytimes.com/2025/09/03/world/americas/venezuela-drug-boat-trump-us.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-04-00-59-29 +0000",
+    "source": "nypost",
+    "headline": "Google must pay $425 million in class action lawsuit over invading users’ privacy,  jury rules",
+    "link": "https://nypost.com/2025/09/03/business/google-must-pay-425-million-in-class-action-lawsuit-over-invading-users-privacy-jury-rules/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-04-00-36-02 +0000",
+    "source": "nypost",
+    "headline": "Paramount to buy Bari Weiss’ Free Press for up to $200M, give her senior editorial role at CBS News",
+    "link": "https://nypost.com/2025/09/03/business/paramount-to-buy-bari-weiss-free-press-for-up-to-200m-give-her-senior-editorial-role-at-cbs-news-report/"
   },
   {
     "score": 13,
-    "pubdate": "2025-09-03-23-37-20 +0000",
+    "pubdate": "2025-09-04-00-54-31 +0000",
     "source": "nypost",
-    "headline": "Frequent NJ town hall menace breakdances in silence, complains about taxes — before moonwalking away",
-    "link": "https://nypost.com/2025/09/03/us-news/nj-town-hall-menace-breakdances-complains-about-taxes-before-moonwalking-away/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-03-23-27-50 +0000",
-    "source": "bbc",
-    "headline": "Don't say sorry - the six things you should do if you're in a car accident",
-    "link": "https://www.bbc.com/news/articles/c5ypypy2jk2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-09-03-23-05-49 +0000",
-    "source": "nypost",
-    "headline": "NYC eyes cutting number of liquor stores to curb health-threatening booze abuse",
-    "link": "https://nypost.com/2025/09/03/us-news/nyc-eyes-cutting-booze-outlets-sales-to-curb-excessive-drinking/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-09-03-23-00-20 +0000",
-    "source": "bbc",
-    "headline": "30,000 homes fitted with botched insulation under government schemes, ministers admit",
-    "link": "https://www.bbc.com/news/articles/c8606gp4711o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-03-23-00-50 +0000",
-    "source": "bbc",
-    "headline": "Epstein accusers say they are compiling list of his associates",
-    "link": "https://www.bbc.com/news/articles/c5yvpgyjed8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-03-23-03-58 +0000",
-    "source": "nyt",
-    "headline": "The Odd Couple Keeping Epstein in the Headlines",
-    "link": "https://www.nytimes.com/2025/09/03/us/politics/epstein-files-massie-khanna.html"
+    "headline": "Records show ex-Kentucky sheriff charged in judge’s killing fought jail staff after shooting",
+    "link": "https://nypost.com/2025/09/03/us-news/records-show-ex-kentucky-sheriff-charged-in-judges-killing-fought-jail-staff-after-shooting/"
   }
 ]
