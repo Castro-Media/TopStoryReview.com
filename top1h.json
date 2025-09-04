@@ -1,24 +1,10 @@
 [
   {
-    "score": 34,
-    "pubdate": "2025-09-04-01-34-14 +0000",
-    "source": "nypost",
-    "headline": "Ex-Rep. Carolyn Maloney keeping ‘options open’ following Nadler’s retirement announcement, says she’s being urged to run for old House seat",
-    "link": "https://nypost.com/2025/09/03/us-news/ex-rep-carolyn-maloney-keeping-options-open-following-nadlers-retirement-announcement/"
-  },
-  {
-    "score": 25,
+    "score": 21,
     "pubdate": "2025-09-04-02-06-22 +0000",
     "source": "nyt",
     "headline": "Trump Asks Supreme Court to Allow His Sweeping Tariffs",
     "link": "https://www.nytimes.com/2025/09/03/us/politics/trump-supreme-court-tariffs.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-09-04-01-21-36 +0000",
-    "source": "nypost",
-    "headline": "North Carolina husband married to 3 women at once arrested on bigamy charges — as authorities look for other unwitting victims",
-    "link": "https://nypost.com/2025/09/03/us-news/north-carolina-man-married-to-3-women-at-once-arrested-on-bigamy-charges-as-authorities-look-for-other-unwitting-victims/"
   },
   {
     "score": 13,
@@ -28,11 +14,11 @@
     "link": "https://nypost.com/2025/09/03/world-news/hiker-falls-60-feet-off-canadian-peak-trying-to-rescue-dog-both-survive/"
   },
   {
-    "score": 13,
-    "pubdate": "2025-09-04-01-19-00 +0000",
-    "source": "wsj",
-    "headline": "Trump Administration’s Cuts to Harvard Funding Are Unconstitutional, Judge Rules",
-    "link": "https://www.wsj.com/us-news/education/harvard-ruling-trump-court-funding-8cc5026c"
+    "score": 10,
+    "pubdate": "2025-09-04-02-14-07 +0000",
+    "source": "nypost",
+    "headline": "Pennsylvania couple arrested after 5 children found locked in ‘sickening,’ feces-covered dungeon",
+    "link": "https://nypost.com/2025/09/03/us-news/pennsylvania-couple-arrested-after-5-children-found-locked-in-sickening-dungeon/"
   },
   {
     "score": 10,
@@ -42,31 +28,24 @@
     "link": "https://www.bbc.com/news/articles/c5yvpgyjed8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 9,
-    "pubdate": "2025-09-04-02-14-07 +0000",
-    "source": "nypost",
-    "headline": "Pennsylvania couple arrested after 5 children found locked in ‘sickening,’ feces-covered dungeon",
-    "link": "https://nypost.com/2025/09/03/us-news/pennsylvania-couple-arrested-after-5-children-found-locked-in-sickening-dungeon/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-09-04-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "In Front-Line Ukrainian Towns, Those Who Stayed Become Moving Targets",
-    "link": "https://www.wsj.com/world/europe/ukraine-russia-frontline-towns-ee644d95"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-04-01-20-00 +0000",
+    "score": 0,
+    "pubdate": "2025-09-04-02-11-32 +0000",
     "source": "bbc",
-    "headline": "American Eagle shares soar after Sydney Sweeney ads",
-    "link": "https://www.bbc.com/news/articles/cddm7z3p2vlo?at_medium=RSS&at_campaign=rss"
+    "headline": "Epstein accusers say they are compiling list of his associates",
+    "link": "https://www.bbc.com/news/articles/c5yvpgyjed8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 5,
-    "pubdate": "2025-09-04-02-02-13 +0000",
-    "source": "bbc",
-    "headline": "Google told to pay $425m in privacy lawsuit",
-    "link": "https://www.bbc.com/news/articles/c3dr91z0g4zo?at_medium=RSS&at_campaign=rss"
+    "score": 0,
+    "pubdate": "2025-09-04-02-06-22 +0000",
+    "source": "nyt",
+    "headline": "Trump Asks Supreme Court to Allow His Sweeping Tariffs",
+    "link": "https://www.nytimes.com/2025/09/03/us/politics/trump-supreme-court-tariffs.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-04-02-06-22 +0000",
+    "source": "nyt",
+    "headline": "Trump Asks Supreme Court to Allow His Sweeping Tariffs",
+    "link": "https://www.nytimes.com/2025/09/03/us/politics/trump-supreme-court-tariffs.html"
   }
 ]
