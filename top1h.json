@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 31,
+    "pubdate": "2025-09-04-10-45-37 +0000",
+    "source": "nyt",
+    "headline": "Portugal Searches for Cause of Lisbon Funicular Crash as Death Toll Rises",
+    "link": "https://www.nytimes.com/2025/09/04/world/europe/lisbon-funicular-crash-elevador-da-gloria-portugal.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California lawmakers push to restrict immigration actions at schools and hospitals",
+    "link": "https://www.latimes.com/california/story/2025-09-04/immigration-bills-state-legislature"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Lopez: L.A. parks are too vital to suffer such neglect. Here's your chance to weigh in on a rescue plan",
+    "link": "https://www.latimes.com/california/story/2025-09-04/lopez-column-neglected-la-parks-rescue-plan"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-04-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Boar’s Head is secretly paying out millions to dozens of victims of last year’s listeria outbreak",
+    "link": "https://nypost.com/2025/09/04/business/boars-head-is-secretly-paying-out-millions-to-dozens-of-victims-of-last-years-listeria-outbreak/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-04-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Chicago tried a Trump-style surge to stop crime a decade ago, and it worked — but Dem leaders canned it because of ‘optics’",
+    "link": "https://nypost.com/2025/09/04/us-news/chicago-tried-a-trump-style-surge-to-stop-crime-a-decade-ago-and-it-worked/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "3 L.A. County deputies relieved of duty after alleged off-duty beating of man at bar",
+    "link": "https://www.latimes.com/california/story/2025-09-04/lawsuit-off-duty-deputies-bar-beating"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-04-10-35-35 +0000",
+    "source": "bbc",
+    "headline": "Dozens die after boat hits tree stump in Nigeria",
+    "link": "https://www.bbc.com/news/articles/c3dr903xeleo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "UC warns of 'distinct possibility' of billions in funding losses beyond UCLA in Trump battle",
+    "link": "https://www.latimes.com/california/story/2025-09-04/uc-ucla-billions-at-risk-in-federal-funding-trump"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Was the young bald eagle that dropped by Jackie and Shadow's nest their baby?",
+    "link": "https://www.latimes.com/environment/story/2025-09-04/young-eagle-visits-nest-of-jackie-and-shadow-big-bear-gizmo"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-04-10-14-49 +0000",
+    "source": "nyt",
+    "headline": "Russia Wants ‘Security Guarantees’ Too. Here’s What They Look Like.",
+    "link": "https://www.nytimes.com/2025/09/04/world/europe/russia-security-guarantees.html"
+  }
+]
