@@ -1,20 +1,13 @@
 [
   {
-    "score": 307,
+    "score": 301,
     "pubdate": "2025-09-03-05-07-00 +0000",
     "source": "nypost",
     "headline": "Trump accuses Putin, Kim Jong Un and Xi Jinping of conspiring against the US as they meet at military parade in China",
     "link": "https://nypost.com/2025/09/03/us-news/trump-accuses-putin-kim-jong-un-and-xi-jinping-of-conspiring-against-us-as-they-meet-at-military-parade-in-china/"
   },
   {
-    "score": 94,
-    "pubdate": "2025-09-02-23-16-19 +0000",
-    "source": "nypost",
-    "headline": "Dramatic footage shows US strike that obliterated ‘drug-carrying boat’ off Venezuela, killing 11 Tren de Aragua ‘narcoterrorists’",
-    "link": "https://nypost.com/2025/09/02/world-news/footage-shows-us-strike-that-obliterated-drug-carrying-boat-off-venezuela-killing-11-tda-narcoterrorists/"
-  },
-  {
-    "score": 93,
+    "score": 90,
     "pubdate": "2025-09-03-05-23-07 +0000",
     "source": "nypost",
     "headline": "Vice President JD Vance and second lady Usha will visit Minnesota to pay their respects to victims of Catholic school mass shooting",
@@ -28,32 +21,32 @@
     "link": "https://nypost.com/2025/09/03/us-news/nigel-farage-warns-americans-could-be-censored-for-posts-in-uk/"
   },
   {
-    "score": 68,
+    "score": 65,
+    "pubdate": "2025-09-03-21-34-15 +0000",
+    "source": "bbc",
+    "headline": "US strike on 'Venezuela drug boat': What do we know, and was it legal?",
+    "link": "https://www.bbc.com/news/articles/cdjzw3gplv7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
     "pubdate": "2025-09-03-19-24-00 +0000",
     "source": "wsj",
     "headline": "New Orleans might be the next city to get additional law enforcement from the National Guard, President Trump said Wednesday",
     "link": "https://www.wsj.com/politics/policy/trump-mulls-sending-national-guard-to-new-orleans-a401b8f0"
   },
   {
-    "score": 62,
-    "pubdate": "2025-09-03-02-14-48 +0000",
-    "source": "nyt",
-    "headline": "House Oversight Panel Releases Some Epstein Files as Pressure Mounts",
-    "link": "https://www.nytimes.com/2025/09/02/us/politics/epstein-files-release-house-oversight.html"
-  },
-  {
-    "score": 51,
+    "score": 55,
     "pubdate": "2025-09-03-18-37-21 +0000",
     "source": "bbc",
     "headline": "Newsmax sues Fox News in battle of right-wing TV networks",
     "link": "https://www.bbc.com/news/articles/c1jzlgw1d7eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2025-09-03-22-07-00 +0000",
+    "score": 47,
+    "pubdate": "2025-09-03-17-29-00 +0000",
     "source": "wsj",
-    "headline": "Florida is proposing to eliminate all vaccine mandates, including for schoolchildren, which would make it the first state in the U.S. to end immunization requirements",
-    "link": "https://www.wsj.com/health/florida-seeks-to-end-states-vaccine-mandates-ca1db927"
+    "headline": "Several of Epstein’s victims stepped into the public spotlight, putting pressure on lawmakers to release government files on the convicted sex offender",
+    "link": "https://www.wsj.com/politics/policy/epstein-victims-speak-out-and-pressure-congress-to-release-more-files-2153d76c"
   },
   {
     "score": 42,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/09/03/world/americas/mexico-rubio-sheinbaum.html"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2025-09-03-17-16-35 +0000",
     "source": "nyt",
     "headline": "After Graham Linehan’s Arrest, Police Chief Says UK Should Clarify Free-Speech Laws",
     "link": "https://www.nytimes.com/2025/09/03/world/europe/uk-graham-linehan-arrest-free-speech.html"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-09-03-04-01-10 +0000",
+    "source": "nyt",
+    "headline": "Nemat Shafik, Columbia President During Protests, Takes Another Tough Job",
+    "link": "https://www.nytimes.com/2025/09/03/world/europe/minouche-shafik-uk-columbia-starmer.html"
   }
 ]
