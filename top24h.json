@@ -1,27 +1,27 @@
 [
   {
-    "score": 151,
+    "score": 157,
     "pubdate": "2025-09-05-00-19-00 +0000",
     "source": "wsj",
     "headline": "President Trump is expected to sign an executive order Friday to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
     "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
   },
   {
-    "score": 92,
+    "score": 81,
+    "pubdate": "2025-09-05-20-08-47 +0000",
+    "source": "nyt",
+    "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
+    "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
+  },
+  {
+    "score": 81,
     "pubdate": "2025-09-05-15-41-00 +0000",
     "source": "wsj",
     "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
     "link": "https://www.wsj.com/politics/policy/florida-alligator-alcatraz-detention-center-open-d45283be"
   },
   {
-    "score": 85,
-    "pubdate": "2025-09-05-17-04-18 +0000",
-    "source": "nyt",
-    "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
-    "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
-  },
-  {
-    "score": 74,
+    "score": 75,
     "pubdate": "2025-09-05-15-18-34 +0000",
     "source": "nyt",
     "headline": "After Boat Strike, Rubio Says U.S. Will Help Other Nations ‘Blow Up’ Crime Groups",
@@ -36,10 +36,17 @@
   },
   {
     "score": 60,
-    "pubdate": "2025-09-05-01-00-00 +0000",
+    "pubdate": "2025-09-05-07-53-33 +0000",
     "source": "wsj",
-    "headline": "President Trump’s sprint to take control of the Federal Reserve played out in a striking split-screen fashion on Thursday, just two weeks before the central bank’s next policy meeting",
-    "link": "https://www.wsj.com/politics/policy/trump-fed-takeover-stephen-miran-confirmation-1ce92d65"
+    "headline": "Stock Market Today: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls",
+    "link": "https://www.wsj.com/livecoverage/jobs-report-august-stock-market-today-09-05-2025?mod=rss_markets_main"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-09-05-20-32-09 +0000",
+    "source": "nypost",
+    "headline": "UFC match on White House lawn penciled in for June with weigh-ins on Lincoln Memorial steps: report",
+    "link": "https://nypost.com/2025/09/05/us-news/ufc-match-on-white-house-lawn-penciled-in-for-june-with-weigh-ins-on-lincoln-memorial-steps-report/"
   },
   {
     "score": 57,
@@ -57,16 +64,9 @@
   },
   {
     "score": 56,
-    "pubdate": "2025-09-04-22-12-54 +0000",
-    "source": "nypost",
-    "headline": "Biden White House lawyers, DOJ were befuddled by autopen clemencies, emails show: ‘He doesn’t review the warrants’",
-    "link": "https://nypost.com/2025/09/04/us-news/biden-white-house-lawyers-doj-were-befuddled-by-autopen-clemencies-emails-show-he-doesnt-review-the-warrants/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-09-05-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "China-backed hackers 'almost certainly' targeted Canada during theft of millions of Americans' data",
-    "link": "https://www.cbc.ca/news/politics/salt-typhoon-canada-cyber-security-1.7625122?cmp=rss"
+    "pubdate": "2025-09-05-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s sprint to take control of the Federal Reserve played out in a striking split-screen fashion on Thursday, just two weeks before the central bank’s next policy meeting",
+    "link": "https://www.wsj.com/politics/policy/trump-fed-takeover-stephen-miran-confirmation-1ce92d65"
   }
 ]
