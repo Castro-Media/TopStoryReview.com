@@ -1,5 +1,539 @@
 [
   {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b7fde7e7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-05-10-50-00 +0000"
+  },
+  {
+    "headline": "South Carolina woman finds car ticketed multiple times after flash flooding floats car into tow away zone",
+    "link": "https://nypost.com/2025/09/05/us-news/south-carolina-woman-ana-brooks-finds-car-ticketed-multiple-times-after-flash-flooding-floats-car-into-tow-away-zone/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-10-49-38 +0000"
+  },
+  {
+    "headline": "Hotheaded North Carolina driver sucker-punches construction worker in road rage attack",
+    "link": "https://nypost.com/2025/09/05/us-news/north-carolina-driver-punches-construction-traffic-flagger-caleb-johnson-in-road-rage-attack/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-10-49-21 +0000"
+  },
+  {
+    "headline": "Trump gloats over ‘disgusting’ Dem Rep. Jerry Nadler’s decision to quit: ‘pathetic lightweight’",
+    "link": "https://nypost.com/2025/09/05/us-news/trump-gloats-over-disgusting-democratic-rep-jerry-nadlers-decision-to-quit-congress/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-10-46-49 +0000"
+  },
+  {
+    "headline": "Trump gloats over ‘disgusting’ Dem Rep. Jerry Nadler’s decision to quit: ‘pathetic lightweight’",
+    "link": "https://nypost.com/2025/09/05/us-news/trump-gloats-over-disgusting-democratic-rep-jerry-nadlers-decision-to-quit-congress/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-10-46-49 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9cd0b424?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-05-10-46-00 +0000"
+  },
+  {
+    "headline": "Three British nationals among 16 killed in Lisbon crash",
+    "link": "https://www.bbc.com/news/articles/c62lmed42p1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-43-48 +0000"
+  },
+  {
+    "headline": "What we know about Lisbon's deadly funicular crash",
+    "link": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-35-38 +0000"
+  },
+  {
+    "headline": "What we know about Lisbon's deadly funicular crash",
+    "link": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-35-38 +0000"
+  },
+  {
+    "headline": "A weak jobs report would strengthen the case for rate cuts.",
+    "link": "https://www.nytimes.com/live/2025/09/05/business/jobs-report-august-economy/a-weak-jobs-report-would-strengthen-the-case-for-rate-cuts",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-35-03 +0000"
+  },
+  {
+    "headline": "Boy, 3, pulled from funicular crash that has shocked Portugal",
+    "link": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-33-53 +0000"
+  },
+  {
+    "headline": "Boy, 3, pulled from funicular crash that has shocked Portugal",
+    "link": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-33-53 +0000"
+  },
+  {
+    "headline": "Defense Dept. warns Venezuela after ‘provocative’ jets fly near Navy ship",
+    "link": "https://www.washingtonpost.com/world/2025/09/05/venezuela-military-jets-us-warship/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-10-31-49 +0000"
+  },
+  {
+    "headline": "A Nighttime Raid",
+    "link": "https://www.nytimes.com/2025/09/05/briefing/a-nighttime-raid.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-31-42 +0000"
+  },
+  {
+    "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
+    "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-30-29 +0000"
+  },
+  {
+    "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
+    "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-30-29 +0000"
+  },
+  {
+    "headline": "Trump to Sign Order Renaming the Defense Department as the Department of War",
+    "link": "https://www.nytimes.com/2025/09/04/us/politics/trump-department-of-war-defense.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-29-41 +0000"
+  },
+  {
+    "headline": "Trump to Sign Order Renaming the Defense Department as the Department of War",
+    "link": "https://www.nytimes.com/2025/09/04/us/politics/trump-department-of-war-defense.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-29-41 +0000"
+  },
+  {
+    "headline": "Sunny weather and football boosted retail sales in July",
+    "link": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-29-36 +0000"
+  },
+  {
+    "headline": "Sunny weather and football boosted retail sales in July",
+    "link": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-29-36 +0000"
+  },
+  {
+    "headline": "Aid workers use donkeys to reach remote Sudan landslide site",
+    "link": "https://www.bbc.com/news/articles/cly7zr0lzx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-29-13 +0000"
+  },
+  {
+    "headline": "Lisbon funicular worker among those killed in crash",
+    "link": "https://www.bbc.com/news/articles/cnvryg271ymo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-27-59 +0000"
+  },
+  {
+    "headline": "Lisbon funicular worker among those killed in crash",
+    "link": "https://www.bbc.com/news/articles/cnvryg271ymo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-27-59 +0000"
+  },
+  {
+    "headline": "Questions Focus on Cable in Lisbon Funicular Crash",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/portugal-lisbon-funicular-crash.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-27-42 +0000"
+  },
+  {
+    "headline": "Questions Focus on Cable in Lisbon Funicular Crash",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/portugal-lisbon-funicular-crash.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-27-42 +0000"
+  },
+  {
+    "headline": "Sterling Faces Fresh Losses Ahead of Budget",
+    "link": "https://www.wsj.com/finance/currencies/dollar-falls-ahead-of-nonfarm-payolls-data-364981ee",
+    "source": "wsj",
+    "pubdate": "2025-09-05-10-25-00 +0000"
+  },
+  {
+    "headline": "Mixed picture for energy bills as SSE and Power NI confirm price changes",
+    "link": "https://www.bbc.com/news/articles/c33rv41g2jgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-24-45 +0000"
+  },
+  {
+    "headline": "Rubio says US will 'blow up' foreign crime groups if needed",
+    "link": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-23-23 +0000"
+  },
+  {
+    "headline": "Rubio says US will 'blow up' foreign crime groups if needed",
+    "link": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-23-23 +0000"
+  },
+  {
+    "headline": "Rubio says US will 'blow up' foreign crime groups if needed",
+    "link": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-10-23-23 +0000"
+  },
+  {
+    "headline": "Mounting Deportations Meet Slow Hiring in a ‘Curious Kind of Balance’",
+    "link": "https://www.nytimes.com/2025/09/05/business/economy/jobs-immigration-deportations-hiring.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-20-22 +0000"
+  },
+  {
+    "headline": "Mounting Deportations Meet Slow Hiring in a ‘Curious Kind of Balance’",
+    "link": "https://www.nytimes.com/2025/09/05/business/economy/jobs-immigration-deportations-hiring.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-10-20-22 +0000"
+  },
+  {
+    "headline": "Eurozone Posts Marginal Economic Growth in 2Q, But ECB Rate Cut Remains Unlikely",
+    "link": "https://www.wsj.com/economy/global/eurozone-posts-marginal-economic-growth-in-2q-but-ecb-rate-cut-remains-unlikely-6e8af2cc",
+    "source": "wsj",
+    "pubdate": "2025-09-05-10-09-00 +0000"
+  },
+  {
+    "headline": "Britain confronts rash of robberies of Jellycats, a posh plush toy",
+    "link": "https://www.washingtonpost.com/world/2025/09/05/britain-confronts-rash-robberies-jellycats-posh-plush-toy/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-10-00-21 +0000"
+  },
+  {
+    "headline": "Arellano: Trump wants to erase the tragedy of the Californios. We shouldn't let him",
+    "link": "https://www.latimes.com/california/story/2025-09-05/trump-californios-smithsonian",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Poilievre 'playing politics' by targeting temporary foreign workers, U of Regina prof says",
+    "link": "https://www.cbc.ca/news/canada/saskatoon/pierre-poilievre-temporary-foreign-worker-program-u-regina-1.7625502?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Chevron’s CEO on AI, energy equality and fueling the future",
+    "link": "https://nypost.com/2025/09/05/business/chevrons-ceo-on-ai-energy-equality-and-fueling-the-future/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Viral security app Protector launches service for corporations",
+    "link": "https://nypost.com/2025/09/05/business/viral-security-app-protector-launches-corporate-service/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "The Powerball jackpot is $1.7 billion. Here’s my advice to the winner.",
+    "link": "https://www.washingtonpost.com/business/2025/09/05/powerball-jackpot-billion-windfall-plan/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "People can't get COVID vaccines as cases surge. Anger is building against Trump",
+    "link": "https://www.latimes.com/california/story/2025-09-05/covid-vaccines-are-harder-to-get-under-trump-and-people-are-angry-about-it",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "A 'Roomba for the forest' could be SoCal's next wildfire weapon",
+    "link": "https://www.latimes.com/environment/story/2025-09-05/burnbot-roomba-for-the-forest-wildfire-weapon-southern-california",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: Trump wants to erase the tragedy of the Californios. We shouldn't let him",
+    "link": "https://www.latimes.com/california/story/2025-09-05/trump-californios-smithsonian",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Nudist ranch's owners want them to put their clothes on and get out, residents say. They're suing",
+    "link": "https://www.latimes.com/california/story/2025-09-05/nudist-colony-residents-sue-owners-who-want-clothed-resort",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "L.A. releases record $387 million for affordable housing projects this fall",
+    "link": "https://www.latimes.com/california/story/2025-09-05/l-a-offers-up-387-million-for-affordable-housing-projects-its-largest-pool-ever",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump's veterans housing plan in West L.A. advances behind a wall of secrecy",
+    "link": "https://www.latimes.com/california/story/2025-09-05/a-wall-of-secrecy-surrounds-trumps-plan-for-a-national-center-for-warrior-independence-in-west-los-angeles",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Heartbroken dad of Burning Man attendee Vadim Kruglov who was found dead in ‘pool of blood’ demands justice",
+    "link": "https://nypost.com/2025/09/05/us-news/heartbroken-dad-of-burning-man-attendee-vadim-kruglov-found-dead-in-pool-of-blood-demands-justice/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-09-51-58 +0000"
+  },
+  {
+    "headline": "Western Troops in Ukraine Before a Peace Deal Would Be ‘Targets’, Putin Says",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/russia-ukraine-putin-western-troops.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-48-13 +0000"
+  },
+  {
+    "headline": "Western Troops in Ukraine Before a Peace Deal Would Be ‘Targets’, Putin Says",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/russia-ukraine-putin-western-troops.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-48-13 +0000"
+  },
+  {
+    "headline": "Two powerful aftershocks pummel Afghanistan after earthquakes kill 2,200",
+    "link": "https://nypost.com/2025/09/05/world-news/two-powerful-aftershocks-pummel-afghanistan-after-earthquakes-kill-2200/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-09-46-15 +0000"
+  },
+  {
+    "headline": "Trump Administration Drops Biden Plan for Flight Delay Compensation",
+    "link": "https://www.nytimes.com/2025/09/05/business/flight-delays-cancellations-compensation.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-45-43 +0000"
+  },
+  {
+    "headline": "Here’s what to expect on jobs day.",
+    "link": "https://www.nytimes.com/live/2025/09/05/business/jobs-report-august-economy/heres-what-to-expect-on-jobs-day",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-44-26 +0000"
+  },
+  {
+    "headline": "Is Jobs Data Still Reliable? Why Economists Say Yes.",
+    "link": "https://www.nytimes.com/2025/09/05/business/jobs-data-reliability.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-44-25 +0000"
+  },
+  {
+    "headline": "Putin says foreign troops deployed to Ukraine before any peace deal would be ‘legitimate targets’",
+    "link": "https://nypost.com/2025/09/05/world-news/russia-putin-warns-foreign-leaders-of-deploying-troops-to-ukraine-before-peace-deal/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-09-42-52 +0000"
+  },
+  {
+    "headline": "Putin threatens any troops sent to Ukraine as Europe readies postwar force",
+    "link": "https://www.washingtonpost.com/world/2025/09/05/ukraine-russia-europe-troops-security-guarantees/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-09-35-15 +0000"
+  },
+  {
+    "headline": "Putin rejects Western security in Ukraine, warning troops would be target",
+    "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-09-32-21 +0000"
+  },
+  {
+    "headline": "Putin rejects Western security in Ukraine, warning troops would be target",
+    "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-09-32-21 +0000"
+  },
+  {
+    "headline": "Coming next year to the White House’s South Lawn: a mixed martial arts throwdown",
+    "link": "https://www.wsj.com/politics/policy/trump-ufc-white-house-south-lawn-2dbc23a4",
+    "source": "wsj",
+    "pubdate": "2025-09-05-09-30-00 +0000"
+  },
+  {
+    "headline": "Pot Stocks’ Risky Bet: The IRS Will Chill Out",
+    "link": "https://www.wsj.com/finance/investing/pot-stocks-risky-bet-the-irs-will-chill-out-f447fb85?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-05-09-30-00 +0000"
+  },
+  {
+    "headline": "Tycoon’s Abrupt Departure Presages End of Political Era in Thailand",
+    "link": "https://www.wsj.com/world/asia/tycoons-abrupt-departure-presages-end-of-political-era-in-thailand-4afc1f9c",
+    "source": "wsj",
+    "pubdate": "2025-09-05-09-28-00 +0000"
+  },
+  {
+    "headline": "Hundreds Arrested in Immigration Raid at Hyundai Site in Georgia",
+    "link": "https://www.wsj.com/us-news/u-s-arrests-hundreds-in-raid-at-hyundai-plant-construction-site-in-georgia-4e150feb",
+    "source": "wsj",
+    "pubdate": "2025-09-05-09-24-00 +0000"
+  },
+  {
+    "headline": "Why Hamas Refuses to Give Up Fighting",
+    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-hamas-surrender-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-22-54 +0000"
+  },
+  {
+    "headline": "Why Hamas Refuses to Give Up Fighting",
+    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-hamas-surrender-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-22-54 +0000"
+  },
+  {
+    "headline": "LGBTQ+ pilgrimage to Rome could test Pope Leo on gay Catholics",
+    "link": "https://www.washingtonpost.com/world/2025/09/05/lgbtq-pilgrimage-rome-pope-leo-gay-catholics/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-09-14-45 +0000"
+  },
+  {
+    "headline": "The Luckiest Gas Station in America",
+    "link": "https://www.nytimes.com/2025/09/05/us/lottery-tickets-california-gas-station.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-03-52 +0000"
+  },
+  {
+    "headline": "Amy Coney Barrett defends Jackson jabs as ‘warranted’ in rare public appearance",
+    "link": "https://nypost.com/2025/09/05/us-news/justice-amy-coney-barrett-defends-jackson-jabs-as-warranted-in-rare-public-appearance/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-09-03-02 +0000"
+  },
+  {
+    "headline": "Amy Coney Barrett defends Jackson jabs as ‘warranted’ in rare public appearance",
+    "link": "https://nypost.com/2025/09/05/us-news/justice-amy-coney-barrett-defends-jackson-jabs-as-warranted-in-rare-public-appearance/",
+    "source": "nypost",
+    "pubdate": "2025-09-05-09-03-02 +0000"
+  },
+  {
+    "headline": "French Winemaker Gets Prison for Selling Fake Champagne",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/france-fake-champagne-sentence.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-02-49 +0000"
+  },
+  {
+    "headline": "French Winemaker Gets Prison for Selling Fake Champagne",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/france-fake-champagne-sentence.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-02-49 +0000"
+  },
+  {
+    "headline": "ICE Agents Are Wearing Masks. Is That Un-American?",
+    "link": "https://www.nytimes.com/2025/09/05/us/ice-agents-wearing-masks.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-02-42 +0000"
+  },
+  {
+    "headline": "The Trump Administration Wants to Switch Off Climate Satellites",
+    "link": "https://www.nytimes.com/2025/09/05/climate/trump-climate-satellites.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-02-24 +0000"
+  },
+  {
+    "headline": "Carlo Acutis, a Saint for the Modern Age",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/vatican-carlo-acutis-sainthood.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-02-11 +0000"
+  },
+  {
+    "headline": "Carlo Acutis, a Saint for the Modern Age",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/vatican-carlo-acutis-sainthood.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-02-11 +0000"
+  },
+  {
+    "headline": "The Doctors Are Real, but the Sales Pitches Are Frauds",
+    "link": "https://www.nytimes.com/2025/09/05/technology/ai-doctor-scams.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-01-06 +0000"
+  },
+  {
+    "headline": "Was Your Passport Lost or Stolen While Traveling? Here’s How to Replace It.",
+    "link": "https://www.nytimes.com/2025/09/05/travel/passport-lost-emergency-replacement.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-00-54 +0000"
+  },
+  {
+    "headline": "Fighting the Power, One Political Cartoon at a Time",
+    "link": "https://www.nytimes.com/2025/09/05/movies/a-savage-art-pat-oliphant-political-cartoon.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-00-49 +0000"
+  },
+  {
+    "headline": "‘Something Is Wrong With My Brain’: A Police Officer’s Descent",
+    "link": "https://www.nytimes.com/2025/09/05/us/cte-police.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-00-42 +0000"
+  },
+  {
+    "headline": "As labor market cracks deepen, economists await Friday jobs report",
+    "link": "https://www.washingtonpost.com/business/2025/09/05/jobs-report-economy-unemployment/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-09-00-41 +0000"
+  },
+  {
+    "headline": "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+    "link": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-00-22 +0000"
+  },
+  {
+    "headline": "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+    "link": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-00-22 +0000"
+  },
+  {
+    "headline": "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+    "link": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-00-22 +0000"
+  },
+  {
+    "headline": "Climate change turns Pakistan’s summer oases into deadly flood zones",
+    "link": "https://www.washingtonpost.com/weather/2025/08/30/pakistan-floods-climate-change-gilgit/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-09-00-15 +0000"
+  },
+  {
+    "headline": "The Secret Mission to Spy on North Korea’s Leader",
+    "link": "https://www.nytimes.com/video/us/100000010310279/the-secret-mission-to-spy-on-north-koreas-leader.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-09-00-09 +0000"
+  },
+  {
+    "headline": "‘The World’s Worst Bet’: Bill Clinton looks back on the world he built",
+    "link": "https://www.washingtonpost.com/business/2025/09/05/bill-clinton-trade-deals/",
+    "source": "wapo",
+    "pubdate": "2025-09-05-09-00-00 +0000"
+  },
+  {
+    "headline": "Trump seeks to rebrand Department of Defense as Department of War",
+    "link": "https://www.bbc.com/news/articles/cgr9r4qr0ppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-08-59-03 +0000"
+  },
+  {
+    "headline": "Food Prices Hold Broadly Steady in August, UN Says",
+    "link": "https://www.wsj.com/finance/commodities-futures/food-prices-hold-broadly-steady-in-august-un-says-aec0e6f5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-05-08-59-00 +0000"
+  },
+  {
+    "headline": "Reform may need to rethink £90bn tax cuts pledge, deputy suggests",
+    "link": "https://www.bbc.com/news/articles/cvg0wrww8j4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-08-57-20 +0000"
+  },
+  {
+    "headline": "Thailand names third prime minister in two years",
+    "link": "https://www.bbc.com/news/articles/cr4q051zxgyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-08-56-04 +0000"
+  },
+  {
+    "headline": "Thailand names third prime minister in two years",
+    "link": "https://www.bbc.com/news/articles/cr4q051zxgyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-05-08-56-04 +0000"
+  },
+  {
+    "headline": "Thai Parliament Picks New Prime Minister but National Election Looms",
+    "link": "https://www.nytimes.com/2025/09/05/world/asia/thailand-prime-minister-anutin.html",
+    "source": "nyt",
+    "pubdate": "2025-09-05-08-53-00 +0000"
+  },
+  {
     "headline": "Thai Parliament Picks New Prime Minister but National Election Looms",
     "link": "https://www.nytimes.com/2025/09/05/world/asia/thailand-prime-minister-anutin.html",
     "source": "nyt",
@@ -10,24 +544,6 @@
     "link": "https://www.bbc.com/news/articles/c1jzl1lw4y1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-05-08-44-31 +0000"
-  },
-  {
-    "headline": "Putin Warns Western Troops in Ukraine Before a Peace Deal Would Be ‘Targets’",
-    "link": "https://www.nytimes.com/2025/09/05/world/europe/russia-ukraine-putin-western-troops.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-08-43-13 +0000"
-  },
-  {
-    "headline": "Putin Warns Western Troops in Ukraine Before a Peace Deal Would Be ‘Targets’",
-    "link": "https://www.nytimes.com/2025/09/05/world/europe/russia-ukraine-putin-western-troops.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-08-43-13 +0000"
-  },
-  {
-    "headline": "Weaker Jobs Data Could Move Dollar More Than Strong Data",
-    "link": "https://www.wsj.com/finance/currencies/dollar-falls-ahead-of-nonfarm-payolls-data-364981ee",
-    "source": "wsj",
-    "pubdate": "2025-09-05-08-34-00 +0000"
   },
   {
     "headline": "Ex-Tory minister Nadine Dorries defects to Reform UK",
@@ -46,36 +562,6 @@
     "link": "https://www.cbc.ca/news/canada/cbsa-removals-ice-detention-1.7625362?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-05-08-22-31 +0000"
-  },
-  {
-    "headline": "Trump seeks to rebrand Department of Defense as Department of War",
-    "link": "https://www.bbc.com/news/articles/cgr9r4qr0ppo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-08-21-12 +0000"
-  },
-  {
-    "headline": "Putin rejects Western security in Ukraine, warning troops would be target",
-    "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-08-04-44 +0000"
-  },
-  {
-    "headline": "Putin rejects Western security in Ukraine, warning troops would be target",
-    "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-08-04-44 +0000"
-  },
-  {
-    "headline": "Sunny weather and football boosted retail sales in July",
-    "link": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-08-01-23 +0000"
-  },
-  {
-    "headline": "Sunny weather and football boosted retail sales in July",
-    "link": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-08-01-23 +0000"
   },
   {
     "headline": "Chinese-backed hackers 'almost certainly' targeted Canada during theft of millions of Americans' data",
@@ -249,13 +735,13 @@
     "headline": "With Trump and Ukraine, Europe’s Leaders Are Playing a Long Game",
     "link": "https://www.nytimes.com/2025/09/05/world/europe/europe-ukraine-trump-war-putin.html",
     "source": "nyt",
-    "pubdate": "2025-09-05-05-27-59 +0000"
+    "pubdate": "2025-09-05-05-28-00 +0000"
   },
   {
     "headline": "With Trump and Ukraine, Europe’s Leaders Are Playing a Long Game",
     "link": "https://www.nytimes.com/2025/09/05/world/europe/europe-ukraine-trump-war-putin.html",
     "source": "nyt",
-    "pubdate": "2025-09-05-05-27-59 +0000"
+    "pubdate": "2025-09-05-05-28-00 +0000"
   },
   {
     "headline": "UK's first foodbank marks 25 years",
@@ -426,7 +912,7 @@
     "pubdate": "2025-09-05-03-27-29 +0000"
   },
   {
-    "headline": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
+    "headline": "Huge demand for Australian indie video game crashes online stores",
     "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-05-03-27-29 +0000"
@@ -594,24 +1080,6 @@
     "pubdate": "2025-09-05-01-45-00 +0000"
   },
   {
-    "headline": "Rubio says US will 'blow up' foreign crime groups if needed",
-    "link": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-01-43-49 +0000"
-  },
-  {
-    "headline": "Rubio says US will 'blow up' foreign crime groups if needed",
-    "link": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-01-43-49 +0000"
-  },
-  {
-    "headline": "Rubio says US will 'blow up' foreign crime groups if needed",
-    "link": "https://www.bbc.com/news/articles/cx23nzwjnwwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-05-01-43-49 +0000"
-  },
-  {
     "headline": "LAPD is assisting CHP in protecting Kamala Harris after Trump pulls Secret Service",
     "link": "https://www.latimes.com/california/story/2025-09-04/lapd-metro-cops-join-chp-protecting-kamala-harris",
     "source": "latimes",
@@ -628,24 +1096,6 @@
     "link": "https://www.nytimes.com/2025/09/04/us/politics/trump-sept-11-museum.html",
     "source": "nyt",
     "pubdate": "2025-09-05-01-25-10 +0000"
-  },
-  {
-    "headline": "Gun-wielding figure who sparked lockdown at UMass Lowell identified as juvenile with replica firearm",
-    "link": "https://nypost.com/2025/09/04/us-news/gun-wielding-figure-who-sparked-lockdown-at-umass-lowell-identified-as-juvenile-with-replica-firearm/",
-    "source": "nypost",
-    "pubdate": "2025-09-05-01-21-08 +0000"
-  },
-  {
-    "headline": "Trump to Sign Order Renaming the Defense Department as the Department of War",
-    "link": "https://www.nytimes.com/2025/09/04/us/politics/trump-department-of-war-defense.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-01-16-42 +0000"
-  },
-  {
-    "headline": "Trump to Sign Order Renaming the Defense Department as the Department of War",
-    "link": "https://www.nytimes.com/2025/09/04/us/politics/trump-department-of-war-defense.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-01-16-42 +0000"
   },
   {
     "headline": "ICE arrests five asylum-seekers in S.F., despite judge blocking Trump deportation policy",
@@ -708,12 +1158,6 @@
     "pubdate": "2025-09-05-00-47-53 +0000"
   },
   {
-    "headline": "Rude passenger booted off American Airlines airplane after telling flight attendant to ‘shut up’: viral video",
-    "link": "https://nypost.com/2025/09/04/us-news/boorish-passenger-booted-for-telling-american-airlines-flight-attendant-to-shut-up-video/",
-    "source": "nypost",
-    "pubdate": "2025-09-05-00-35-53 +0000"
-  },
-  {
     "headline": "Rec-Park director knew well in advance of major nonprofit problems—and did nothing",
     "link": "https://48hills.org/2025/09/rec-park-director-knew-well-in-advance-of-major-nonprofit-problems-and-did-nothing/",
     "source": "48hills",
@@ -726,12 +1170,6 @@
     "pubdate": "2025-09-05-00-19-00 +0000"
   },
   {
-    "headline": "Elderly couple turns tables on thieves who tried to snatch $48K Rolex: ‘Gave her arm a three-quarter twist’",
-    "link": "https://nypost.com/2025/09/04/us-news/elderly-couple-turns-tables-on-thieves-who-tried-to-snatch-48k-rolex-gave-her-arm-a-three-quarter-twist/",
-    "source": "nypost",
-    "pubdate": "2025-09-05-00-13-52 +0000"
-  },
-  {
     "headline": "At Harvard, Judge’s Ruling on Funding Gives Students One More Thing to Ponder",
     "link": "https://www.nytimes.com/2025/09/04/us/harvard-funding-decision-reaction-students.html",
     "source": "nyt",
@@ -742,18 +1180,6 @@
     "link": "https://www.nytimes.com/2025/09/04/us/harvard-funding-decision-reaction-students.html",
     "source": "nyt",
     "pubdate": "2025-09-05-00-09-26 +0000"
-  },
-  {
-    "headline": "School bus drops autistic boy off 40 miles from Conn. home: ‘What is this woman doing with my baby’",
-    "link": "https://nypost.com/2025/09/04/us-news/conn-school-bus-drops-autistic-boy-off-40-miles-from-home/",
-    "source": "nypost",
-    "pubdate": "2025-09-05-00-00-21 +0000"
-  },
-  {
-    "headline": "Dive team finds nearly 100 cars submerged in Chicago River while searching for missing couple in 1970 cold case",
-    "link": "https://nypost.com/2025/09/04/us-news/dive-team-finds-nearly-100-submerged-cars-in-chicago-river-while-investigating-missing-couple-cold-case/",
-    "source": "nypost",
-    "pubdate": "2025-09-04-23-50-52 +0000"
   },
   {
     "headline": "Pennsylvania Couple Kept 5 Children in ‘Deplorable’ Conditions, Police Say",
@@ -880,6 +1306,12 @@
     "link": "https://www.wsj.com/economy/trade/trump-prepares-to-start-north-american-trade-deal-renegotiation-304e0292",
     "source": "wsj",
     "pubdate": "2025-09-04-22-50-00 +0000"
+  },
+  {
+    "headline": "'My mother was my shelter and storm': Arundhati Roy on her fierce new memoir",
+    "link": "https://www.bbc.com/news/articles/c4gzdnp43l8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-04-22-47-37 +0000"
   },
   {
     "headline": "'My mother was my shelter and storm': Arundhati Roy on her fierce new memoir",
@@ -1188,18 +1620,6 @@
     "pubdate": "2025-09-04-21-37-00 +0000"
   },
   {
-    "headline": "RFK Jr. Faces Senate Grilling After Vaccine Changes and C.D.C. Shake-Up",
-    "link": "https://www.nytimes.com/2025/09/04/us/politics/kennedy-senate-hearing-vaccines-cdc.html",
-    "source": "nyt",
-    "pubdate": "2025-09-04-21-35-29 +0000"
-  },
-  {
-    "headline": "RFK Jr. Faces Senate Grilling After Vaccine Changes and C.D.C. Shake-Up",
-    "link": "https://www.nytimes.com/2025/09/04/us/politics/kennedy-senate-hearing-vaccines-cdc.html",
-    "source": "nyt",
-    "pubdate": "2025-09-04-21-35-29 +0000"
-  },
-  {
     "headline": "Justice Dept. Accuses California Utility of Starting Deadly Eaton Fire",
     "link": "https://www.nytimes.com/2025/09/04/us/eaton-fire-altadena-lawsuit.html",
     "source": "nyt",
@@ -1242,10 +1662,22 @@
     "pubdate": "2025-09-04-21-28-08 +0000"
   },
   {
+    "headline": "Sweden accuses Russia of GPS jamming over Baltic Sea",
+    "link": "https://www.bbc.com/news/articles/clyx3ly54veo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-04-21-28-08 +0000"
+  },
+  {
     "headline": "Quakes on Mars Reveal New Features of the Planet’s Interior",
     "link": "https://www.nytimes.com/2025/09/04/science/astronomy-geology-mars-quakes.html",
     "source": "nyt",
     "pubdate": "2025-09-04-21-27-54 +0000"
+  },
+  {
+    "headline": "Immigration Tracker: Updates on TPS, ICE arrests and more",
+    "link": "https://eltecolote.org/content/en/immigration-news-tps-ice/",
+    "source": "eltecolote",
+    "pubdate": "2025-09-04-21-26-21 +0000"
   },
   {
     "headline": "Health Secretary Robert F. Kennedy Jr. was grilled by lawmakers from both parties over his leadership of the CDC and the future of U.S. vaccine policy at a Senate hearing",
@@ -1464,6 +1896,12 @@
     "pubdate": "2025-09-04-20-49-24 +0000"
   },
   {
+    "headline": "Are China, India and Russia banding together against the U.S.? | About That",
+    "link": "https://www.cbc.ca/player/play/9.6890591?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-04-20-46-23 +0000"
+  },
+  {
     "headline": "Tech executives, but not Elon Musk, to attend Trump's Rose Garden dinner",
     "link": "https://www.latimes.com/business/story/2025-09-04/tech-executives-but-not-elon-musk-expected-to-attend-trumps-rose-garden-dinner",
     "source": "latimes",
@@ -1510,18 +1948,6 @@
     "link": "https://nypost.com/2025/09/04/us-news/zohran-mamdani-challenges-president-trump-to-public-debate/",
     "source": "nypost",
     "pubdate": "2025-09-04-20-33-35 +0000"
-  },
-  {
-    "headline": "Boy, 3, pulled from funicular crash that has shocked Portugal",
-    "link": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-04-20-33-09 +0000"
-  },
-  {
-    "headline": "Boy, 3, pulled from funicular crash that has shocked Portugal",
-    "link": "https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-04-20-33-09 +0000"
   },
   {
     "headline": "Secretary Robert F. Kennedy Jr’s expansive moves to remake American healthcare were dissected by a skeptical Senate committee on Thursday. Here’s what to know.",
@@ -1576,18 +2002,6 @@
     "link": "https://www.nytimes.com/2025/09/04/fashion/giorgio-armani-dead.html",
     "source": "nyt",
     "pubdate": "2025-09-04-19-53-20 +0000"
-  },
-  {
-    "headline": "What we know about Lisbon's deadly funicular crash",
-    "link": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-04-19-48-00 +0000"
-  },
-  {
-    "headline": "What we know about Lisbon's deadly funicular crash",
-    "link": "https://www.bbc.com/news/articles/cn95l12epxzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-04-19-48-00 +0000"
   },
   {
     "headline": "Members of Congress Grasp for a Stopgap Deal to Avert a Shutdown",
@@ -1720,18 +2134,6 @@
     "link": "https://www.nytimes.com/2025/09/04/world/middleeast/palestinian-leaders-visa-ban-statehood-conference.html",
     "source": "nyt",
     "pubdate": "2025-09-04-19-14-35 +0000"
-  },
-  {
-    "headline": "Who are the victims of the Lisbon funicular cable crash?",
-    "link": "https://www.bbc.com/news/articles/cnvryg271ymo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-04-19-14-12 +0000"
-  },
-  {
-    "headline": "Who are the victims of the Lisbon funicular cable crash?",
-    "link": "https://www.bbc.com/news/articles/cnvryg271ymo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-04-19-14-12 +0000"
   },
   {
     "headline": "Trump’s tariffs help U.S. avoid worst of global bond market rout",
@@ -2076,12 +2478,6 @@
     "pubdate": "2025-09-04-16-27-37 +0000"
   },
   {
-    "headline": "Trump’s DC crime crackdown nets murder suspects, sex criminals, illegal immigrants and more in one night",
-    "link": "https://nypost.com/2025/09/04/us-news/murder-sex-crime-and-fentanyl-suspects-busted-in-one-night-of-trumps-dc-crime-crackdown/",
-    "source": "nypost",
-    "pubdate": "2025-09-04-16-27-30 +0000"
-  },
-  {
     "headline": "United cashing in on rival after bankrupt Spirit Airlines axes flights to 11 cities",
     "link": "https://nypost.com/2025/09/04/business/united-airlines-adds-new-flights-after-bankrupt-spirit-axes-service-to-11-cities/",
     "source": "nypost",
@@ -2092,12 +2488,6 @@
     "link": "https://nypost.com/2025/09/04/business/trump-posts-ai-video-showing-him-dancing-alongside-cracker-barrel-uncle-herschel/",
     "source": "nypost",
     "pubdate": "2025-09-04-16-25-16 +0000"
-  },
-  {
-    "headline": "RFK Jr. grilled by Republicans, Democrats in heated Senate hearing: ‘We have to fire people’",
-    "link": "https://nypost.com/2025/09/04/us-news/gop-sen-bill-cassidy-a-doctor-accuses-rfk-jr-of-denying-people-vaccines/",
-    "source": "nypost",
-    "pubdate": "2025-09-04-16-24-29 +0000"
   },
   {
     "headline": "Trump’s L.A. Military Deployment Cost $120 Million So Far, Newsom Says",
@@ -2310,6 +2700,12 @@
     "pubdate": "2025-09-04-15-18-55 +0000"
   },
   {
+    "headline": "For Mission food vendors, San Francisco’s new ‘pathway’ is actually a crackdown",
+    "link": "https://eltecolote.org/content/en/sf-mission-street-vendors-crackdown/",
+    "source": "eltecolote",
+    "pubdate": "2025-09-04-15-17-57 +0000"
+  },
+  {
     "headline": "Swinney sets out latest plan for an independence referendum",
     "link": "https://www.bbc.com/news/articles/cy4rlxz2kz0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2434,12 +2830,6 @@
     "link": "https://www.bbc.com/news/videos/cyv6p2m85m2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-04-14-10-13 +0000"
-  },
-  {
-    "headline": "Benjamin Franklin arrived in France in 1776 to raise money to help the U.S. survive the war. How he pulled it off is a master class in diplomacy.",
-    "link": "https://www.wsj.com/politics/policy/ben-franklin-us-history-diplomacy-67583a0f",
-    "source": "wsj",
-    "pubdate": "2025-09-04-14-00-00 +0000"
   },
   {
     "headline": "CrossCountry train drivers to strike in disciplinary process row",
@@ -2728,89 +3118,5 @@
     "link": "https://missionlocal.org/2025/09/sf-tenderloin-cant-have-nice-things-adding-removing-public-spaces/",
     "source": "missionlocal",
     "pubdate": "2025-09-04-11-00-00 +0000"
-  },
-  {
-    "headline": "World's largest sports piracy site shut down by police",
-    "link": "https://www.bbc.com/news/articles/c62q4l0d171o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-04-10-33-38 +0000"
-  },
-  {
-    "headline": "Italian teen Carlo Acutis to become first millennial Catholic saint on Sunday",
-    "link": "https://nypost.com/2025/09/04/world-news/italian-teen-carlo-acutis-to-become-first-millennial-catholic-saint-on-sunday/",
-    "source": "nypost",
-    "pubdate": "2025-09-04-10-22-38 +0000"
-  },
-  {
-    "headline": "California lawmakers push to restrict immigration actions at schools and hospitals",
-    "link": "https://www.latimes.com/california/story/2025-09-04/immigration-bills-state-legislature",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Contributor: Why is California losing good jobs to other states?  It's not rocket science",
-    "link": "https://www.latimes.com/opinion/story/2025-09-04/california-aerospace",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Boar’s Head is secretly paying out millions to dozens of victims of last year’s listeria outbreak",
-    "link": "https://nypost.com/2025/09/04/business/boars-head-is-secretly-paying-out-millions-to-dozens-of-victims-of-last-years-listeria-outbreak/",
-    "source": "nypost",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "California lawmakers push to restrict immigration actions at schools and hospitals",
-    "link": "https://www.latimes.com/california/story/2025-09-04/immigration-bills-state-legislature",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "3 L.A. County deputies relieved of duty after alleged off-duty beating of man at bar",
-    "link": "https://www.latimes.com/california/story/2025-09-04/lawsuit-off-duty-deputies-bar-beating",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Lopez: L.A. parks are too vital to suffer such neglect. Here's your chance to weigh in on a rescue plan",
-    "link": "https://www.latimes.com/california/story/2025-09-04/lopez-column-neglected-la-parks-rescue-plan",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Heavily armed 'Angel of Death' from Alabama charged with threatening SoCal church",
-    "link": "https://www.latimes.com/california/story/2025-09-04/heavily-armed-angel-of-death-from-alabama-charged-with-threatening-socal-church",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Homelessness has declined in L.A. County, but progress is at risk",
-    "link": "https://www.latimes.com/california/story/2025-09-04/homelessness-has-declined-in-la-county-funding-cuts-threaten-that-progress",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Was the young bald eagle that dropped by Jackie and Shadow's nest their baby?",
-    "link": "https://www.latimes.com/environment/story/2025-09-04/young-eagle-visits-nest-of-jackie-and-shadow-big-bear-gizmo",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Parents can now opt kids out of LGBTQ+ lessons. How schools are bracing for the change",
-    "link": "https://www.latimes.com/california/story/2025-09-04/parents-opt-kids-out-of-lgbtq-lessons-religious-beliefs-schools-preparing",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "UC warns Trump funding cuts could impact entire 10-campus system: 'The risks are very real'",
-    "link": "https://www.latimes.com/california/story/2025-09-04/uc-ucla-billions-at-risk-in-federal-funding-trump",
-    "source": "latimes",
-    "pubdate": "2025-09-04-10-00-00 +0000"
-  },
-  {
-    "headline": "Death toll in Lisbon streetcar crash rises to 17 as Portugal observes national day of mourning",
-    "link": "https://nypost.com/2025/09/04/world-news/lisbon-streetcar-crash-death-toll-rises-to-17-23-injured-as-portugal-observes-a-day-of-mourning/",
-    "source": "nypost",
-    "pubdate": "2025-09-04-09-58-51 +0000"
   }
 ]
