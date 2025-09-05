@@ -1,10 +1,17 @@
 [
   {
-    "score": 157,
-    "pubdate": "2025-09-05-00-19-00 +0000",
+    "score": 149,
+    "pubdate": "2025-09-05-02-44-00 +0000",
     "source": "wsj",
-    "headline": "President Trump is expected to sign an executive order Friday to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
-    "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
+    "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
+    "link": "https://www.wsj.com/politics/national-security/did-a-boat-strike-in-caribbean-exceed-trumps-authority-to-use-military-force-828db8c6"
+  },
+  {
+    "score": 86,
+    "pubdate": "2025-09-05-20-58-03 +0000",
+    "source": "nypost",
+    "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
+    "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
   },
   {
     "score": 81,
@@ -14,21 +21,21 @@
     "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
   },
   {
-    "score": 81,
+    "score": 79,
     "pubdate": "2025-09-05-15-41-00 +0000",
     "source": "wsj",
     "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
     "link": "https://www.wsj.com/politics/policy/florida-alligator-alcatraz-detention-center-open-d45283be"
   },
   {
-    "score": 75,
+    "score": 74,
     "pubdate": "2025-09-05-15-18-34 +0000",
     "source": "nyt",
     "headline": "After Boat Strike, Rubio Says U.S. Will Help Other Nations ‘Blow Up’ Crime Groups",
     "link": "https://www.nytimes.com/2025/09/04/world/americas/rubio-ecuador-crime-groups-boat-strike.html"
   },
   {
-    "score": 68,
+    "score": 66,
     "pubdate": "2025-09-05-09-42-52 +0000",
     "source": "nypost",
     "headline": "Putin warns Western troops deployed to Ukraine would be ‘legitimate targets’ if sent before peace deal",
@@ -36,17 +43,10 @@
   },
   {
     "score": 60,
-    "pubdate": "2025-09-05-07-53-33 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls",
-    "link": "https://www.wsj.com/livecoverage/jobs-report-august-stock-market-today-09-05-2025?mod=rss_markets_main"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-09-05-20-32-09 +0000",
-    "source": "nypost",
-    "headline": "UFC match on White House lawn penciled in for June with weigh-ins on Lincoln Memorial steps: report",
-    "link": "https://nypost.com/2025/09/05/us-news/ufc-match-on-white-house-lawn-penciled-in-for-june-with-weigh-ins-on-lincoln-memorial-steps-report/"
+    "pubdate": "2025-09-05-20-53-16 +0000",
+    "source": "bbc",
+    "headline": "Hundreds of South Koreans detained in massive ICE raid at Hyundai plant",
+    "link": "https://www.bbc.com/news/articles/cj6xe5d6103o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 57,
@@ -57,13 +57,13 @@
   },
   {
     "score": 56,
-    "pubdate": "2025-09-05-19-30-09 +0000",
-    "source": "bbc",
-    "headline": "Hundreds of South Koreans detained in massive ICE raid at Hyundai plant",
-    "link": "https://www.bbc.com/news/articles/cj6xe5d6103o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-09-05-07-53-33 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls",
+    "link": "https://www.wsj.com/livecoverage/jobs-report-august-stock-market-today-09-05-2025?mod=rss_markets_main"
   },
   {
-    "score": 56,
+    "score": 51,
     "pubdate": "2025-09-05-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s sprint to take control of the Federal Reserve played out in a striking split-screen fashion on Thursday, just two weeks before the central bank’s next policy meeting",
