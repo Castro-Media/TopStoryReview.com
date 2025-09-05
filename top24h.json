@@ -1,10 +1,10 @@
 [
   {
-    "score": 149,
-    "pubdate": "2025-09-05-02-44-00 +0000",
+    "score": 183,
+    "pubdate": "2025-09-05-22-38-00 +0000",
     "source": "wsj",
-    "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
-    "link": "https://www.wsj.com/politics/national-security/did-a-boat-strike-in-caribbean-exceed-trumps-authority-to-use-military-force-828db8c6"
+    "headline": "New York City Mayor Eric Adams has fielded proposals for a private-sector gig or a job in the Trump administration in exchange for ending his re-lection bid, but he insists he isn’t dropping out",
+    "link": "https://www.wsj.com/politics/elections/the-campaign-to-get-eric-adams-to-drop-his-re-election-bid-e65a7939"
   },
   {
     "score": 86,
@@ -14,14 +14,7 @@
     "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
   },
   {
-    "score": 81,
-    "pubdate": "2025-09-05-20-08-47 +0000",
-    "source": "nyt",
-    "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
-    "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
-  },
-  {
-    "score": 79,
+    "score": 85,
     "pubdate": "2025-09-05-15-41-00 +0000",
     "source": "wsj",
     "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
@@ -29,6 +22,13 @@
   },
   {
     "score": 74,
+    "pubdate": "2025-09-05-21-37-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump signed an executive order to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
+    "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
+  },
+  {
+    "score": 70,
     "pubdate": "2025-09-05-15-18-34 +0000",
     "source": "nyt",
     "headline": "After Boat Strike, Rubio Says U.S. Will Help Other Nations ‘Blow Up’ Crime Groups",
@@ -36,6 +36,13 @@
   },
   {
     "score": 66,
+    "pubdate": "2025-09-05-20-08-47 +0000",
+    "source": "nyt",
+    "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
+    "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
+  },
+  {
+    "score": 65,
     "pubdate": "2025-09-05-09-42-52 +0000",
     "source": "nypost",
     "headline": "Putin warns Western troops deployed to Ukraine would be ‘legitimate targets’ if sent before peace deal",
@@ -56,17 +63,10 @@
     "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
   },
   {
-    "score": 56,
+    "score": 54,
     "pubdate": "2025-09-05-07-53-33 +0000",
     "source": "wsj",
     "headline": "Stock Market Today: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls",
     "link": "https://www.wsj.com/livecoverage/jobs-report-august-stock-market-today-09-05-2025?mod=rss_markets_main"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-09-05-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s sprint to take control of the Federal Reserve played out in a striking split-screen fashion on Thursday, just two weeks before the central bank’s next policy meeting",
-    "link": "https://www.wsj.com/politics/policy/trump-fed-takeover-stephen-miran-confirmation-1ce92d65"
   }
 ]
