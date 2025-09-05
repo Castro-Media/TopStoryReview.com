@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 16,
+    "pubdate": "2025-09-05-05-27-59 +0000",
+    "source": "nyt",
+    "headline": "With Trump and Ukraine, Europe’s Leaders Are Playing a Long Game",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/europe-ukraine-trump-war-putin.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-05-05-35-30 +0000",
+    "source": "nyt",
+    "headline": "Kim Jong-un Leaves Beijing With Big Diplomatic Wins",
+    "link": "https://www.nytimes.com/2025/09/05/world/asia/north-korea-china-nuclear.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-09-05-05-04-18 +0000",
+    "source": "nypost",
+    "headline": "Michigan doctor arrested in sting operation after allegedly asking mother if he could have sex with her 5-year-old child",
+    "link": "https://nypost.com/2025/09/05/us-news/michigan-doctor-arrested-in-sting-operation-after-allegedly-asking-mother-if-he-could-have-sex-with-5-year-old-child/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-05-05-53-05 +0000",
+    "source": "nypost",
+    "headline": "Keith Ellison’s son to keep 6-figure Minneapolis councilmember salary during fellowship at Harvard",
+    "link": "https://nypost.com/2025/09/05/us-news/keith-ellisons-son-to-keep-6-figure-minneapolis-councilmember-salary-during-fellowship-at-harvard/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-05-05-12-02 +0000",
+    "source": "bbc",
+    "headline": "Moscow rejects Western security guarantees for Ukraine",
+    "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-05-05-50-19 +0000",
+    "source": "cbc",
+    "headline": "U.S. says 2 Venezuelan planes flew near U.S. navy ship in international waters",
+    "link": "https://www.cbc.ca/news/world/venzeuela-planes-us-ship-1.7625855?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-05-05-34-10 +0000",
+    "source": "nypost",
+    "headline": "Locals call out ‘excessive tourism’ after tram crash leaves at least 15 dead and 18 injured",
+    "link": "https://nypost.com/2025/09/05/world-news/portugal-locals-blame-excessive-tourism-for-fatal-gloria-funicular-derailment-crash/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-05-05-18-08 +0000",
+    "source": "nypost",
+    "headline": "Family misses $1B powerball jackpot by just one number, collects $150K instead",
+    "link": "https://nypost.com/2025/09/05/us-news/louisiana-family-misses-1b-powerball-jackpot-by-one-number-collects-150k-instead/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-05-05-12-16 +0000",
+    "source": "bbc",
+    "headline": "UK safe 'for now and next few years', says outgoing military chief",
+    "link": "https://www.bbc.com/news/articles/c3rvdgn0538o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-09-05-05-33-51 +0000",
+    "source": "bbc",
+    "headline": "Rosyth shipyard expected to win £1bn Danish navy contract",
+    "link": "https://www.bbc.com/news/articles/cge2d4vngvdo?at_medium=RSS&at_campaign=rss"
+  }
+]
