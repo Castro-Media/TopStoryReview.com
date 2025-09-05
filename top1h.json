@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 30,
+    "pubdate": "2025-09-05-08-43-13 +0000",
+    "source": "nyt",
+    "headline": "Putin Warns Western Troops in Ukraine Before a Peace Deal Would Be ‘Targets’",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/russia-ukraine-putin-western-troops.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-09-05-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Chinese-backed hackers 'almost certainly' targeted Canada during theft of millions of Americans' data",
+    "link": "https://www.cbc.ca/news/politics/salt-typhoon-canada-cyber-security-1.7625122?cmp=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-05-08-01-23 +0000",
+    "source": "bbc",
+    "headline": "Sunny weather and football boosted retail sales in July",
+    "link": "https://www.bbc.com/news/articles/c5yjd7v9xj0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-05-08-22-31 +0000",
+    "source": "cbc",
+    "headline": "2 families rejected at Canadian border are now mired in what lawyer calls a 'black hole' of ICE detention",
+    "link": "https://www.cbc.ca/news/canada/cbsa-removals-ice-detention-1.7625362?cmp=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-05-08-53-00 +0000",
+    "source": "nyt",
+    "headline": "Thai Parliament Picks New Prime Minister but National Election Looms",
+    "link": "https://www.nytimes.com/2025/09/05/world/asia/thailand-prime-minister-anutin.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-05-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Liberal MPs form environmental caucus as some want stronger climate focus from Carney",
+    "link": "https://www.cbc.ca/news/politics/liberal-climate-change-environment-caucus-1.7625657?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-05-08-21-12 +0000",
+    "source": "bbc",
+    "headline": "Trump seeks to rebrand Department of Defense as Department of War",
+    "link": "https://www.bbc.com/news/articles/cgr9r4qr0ppo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-05-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Israeli reservists are risking jail time rather than serve in Gaza again",
+    "link": "https://www.cbc.ca/news/world/israeli-reservists-gaza-war-1.7625466?cmp=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-05-08-44-31 +0000",
+    "source": "bbc",
+    "headline": "Jaguar Land Rover staff to stay at home in cyber attack fallout",
+    "link": "https://www.bbc.com/news/articles/c1jzl1lw4y1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-05-08-04-44 +0000",
+    "source": "bbc",
+    "headline": "Putin rejects Western security in Ukraine, warning troops would be target",
+    "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss"
+  }
+]
