@@ -1,45 +1,38 @@
 [
   {
-    "score": 133,
+    "score": 131,
     "pubdate": "2025-09-05-22-25-26 +0000",
     "source": "nyt",
     "headline": "A Second Weak Jobs Report Challenges Trump’s Claim the Economy Is Booming",
     "link": "https://www.nytimes.com/2025/09/05/us/politics/trump-jobs-report-tariffs-deportations.html"
   },
   {
-    "score": 89,
+    "score": 88,
     "pubdate": "2025-09-05-20-08-47 +0000",
     "source": "nyt",
     "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
     "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
   },
   {
-    "score": 81,
+    "score": 78,
     "pubdate": "2025-09-06-02-58-41 +0000",
     "source": "bbc",
     "headline": "ICE raid on Hyundai plant in Georgia swept up workers on visitor visas",
     "link": "https://www.bbc.com/news/articles/cy50yge052xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 74,
+    "score": 76,
     "pubdate": "2025-09-05-09-42-52 +0000",
     "source": "nypost",
     "headline": "Putin warns Western troops deployed to Ukraine would be ‘legitimate targets’ if sent before peace deal",
     "link": "https://nypost.com/2025/09/05/world-news/russia-putin-warns-foreign-leaders-of-deploying-troops-to-ukraine-before-peace-deal/"
   },
   {
-    "score": 59,
-    "pubdate": "2025-09-05-20-58-03 +0000",
-    "source": "nypost",
-    "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
-    "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
-  },
-  {
     "score": 57,
-    "pubdate": "2025-09-05-15-39-10 +0000",
+    "pubdate": "2025-09-05-19-55-18 +0000",
     "source": "nyt",
-    "headline": "Angela Rayner, UK Deputy Prime Minister, Resigns After Underpaying Tax",
-    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
+    "headline": "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+    "link": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html"
   },
   {
     "score": 56,
@@ -50,20 +43,27 @@
   },
   {
     "score": 55,
-    "pubdate": "2025-09-06-02-17-09 +0000",
-    "source": "nypost",
-    "headline": "Ex-FBI official tipped off Chinese firm doing business with Biden family about arrests: DOJ watchdog",
-    "link": "https://nypost.com/2025/09/05/us-news/ex-fbi-official-tipped-off-chinese-firm-doing-business-with-biden-family-about-arrests-doj-watchdog/"
+    "pubdate": "2025-09-05-15-39-10 +0000",
+    "source": "nyt",
+    "headline": "Angela Rayner, UK Deputy Prime Minister, Resigns After Underpaying Tax",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
   },
   {
-    "score": 54,
+    "score": 55,
     "pubdate": "2025-09-05-22-57-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed an executive order to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
     "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
   },
   {
-    "score": 46,
+    "score": 54,
+    "pubdate": "2025-09-06-02-17-09 +0000",
+    "source": "nypost",
+    "headline": "Ex-FBI official tipped off Chinese firm doing business with Biden family about arrests: DOJ watchdog",
+    "link": "https://nypost.com/2025/09/05/us-news/ex-fbi-official-tipped-off-chinese-firm-doing-business-with-biden-family-about-arrests-doj-watchdog/"
+  },
+  {
+    "score": 45,
     "pubdate": "2025-09-05-15-41-00 +0000",
     "source": "wsj",
     "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
