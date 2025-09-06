@@ -1,6 +1,6 @@
 [
   {
-    "score": 131,
+    "score": 130,
     "pubdate": "2025-09-05-22-25-26 +0000",
     "source": "nyt",
     "headline": "A Second Weak Jobs Report Challenges Trump’s Claim the Economy Is Booming",
@@ -43,17 +43,17 @@
   },
   {
     "score": 55,
-    "pubdate": "2025-09-05-15-39-10 +0000",
-    "source": "nyt",
-    "headline": "Angela Rayner, UK Deputy Prime Minister, Resigns After Underpaying Tax",
-    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
-  },
-  {
-    "score": 55,
     "pubdate": "2025-09-05-22-57-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed an executive order to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
     "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-09-05-15-39-10 +0000",
+    "source": "nyt",
+    "headline": "Angela Rayner, UK Deputy Prime Minister, Resigns After Underpaying Tax",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
   },
   {
     "score": 54,
@@ -64,9 +64,9 @@
   },
   {
     "score": 45,
-    "pubdate": "2025-09-05-15-41-00 +0000",
-    "source": "wsj",
-    "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
-    "link": "https://www.wsj.com/politics/policy/florida-alligator-alcatraz-detention-center-open-d45283be"
+    "pubdate": "2025-09-05-21-41-52 +0000",
+    "source": "nyt",
+    "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
+    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
   }
 ]
