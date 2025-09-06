@@ -1,24 +1,17 @@
 [
   {
-    "score": 140,
-    "pubdate": "2025-09-05-22-57-00 +0000",
+    "score": 134,
+    "pubdate": "2025-09-05-02-44-00 +0000",
     "source": "wsj",
-    "headline": "President Trump signed an executive order to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
-    "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
+    "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
+    "link": "https://www.wsj.com/politics/national-security/did-a-boat-strike-in-caribbean-exceed-trumps-authority-to-use-military-force-828db8c6"
   },
   {
-    "score": 85,
+    "score": 83,
     "pubdate": "2025-09-05-20-08-47 +0000",
     "source": "nyt",
     "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
     "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
-  },
-  {
-    "score": 85,
-    "pubdate": "2025-09-05-20-58-03 +0000",
-    "source": "nypost",
-    "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
-    "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
   },
   {
     "score": 75,
@@ -28,18 +21,25 @@
     "link": "https://www.nytimes.com/2025/09/04/world/americas/rubio-ecuador-crime-groups-boat-strike.html"
   },
   {
-    "score": 74,
+    "score": 75,
     "pubdate": "2025-09-05-09-42-52 +0000",
     "source": "nypost",
     "headline": "Putin warns Western troops deployed to Ukraine would be ‘legitimate targets’ if sent before peace deal",
     "link": "https://nypost.com/2025/09/05/world-news/russia-putin-warns-foreign-leaders-of-deploying-troops-to-ukraine-before-peace-deal/"
   },
   {
-    "score": 64,
-    "pubdate": "2025-09-05-23-19-00 +0000",
+    "score": 73,
+    "pubdate": "2025-09-05-20-58-03 +0000",
+    "source": "nypost",
+    "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
+    "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-09-05-07-53-33 +0000",
     "source": "wsj",
-    "headline": "The IT unemployment rate fell to 4.5% in August from 5.5% the prior month. But there are still fewer jobs available for tech workers, especially those who don’t specialize in AI.",
-    "link": "https://www.wsj.com/articles/it-unemployment-fell-in-august-but-the-tech-jobs-market-is-still-shrinking-e80225e3"
+    "headline": "Stock Market News, Sept. 5, 2025: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls",
+    "link": "https://www.wsj.com/livecoverage/jobs-report-august-stock-market-today-09-05-2025?mod=rss_markets_main"
   },
   {
     "score": 59,
@@ -56,14 +56,14 @@
     "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
   },
   {
-    "score": 50,
-    "pubdate": "2025-09-05-02-44-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
-    "link": "https://www.wsj.com/politics/national-security/did-a-boat-strike-in-caribbean-exceed-trumps-authority-to-use-military-force-828db8c6"
+    "score": 47,
+    "pubdate": "2025-09-05-04-03-14 +0000",
+    "source": "nypost",
+    "headline": "Is there a fast-food price war looming? Companies face difficult challenge if they go too high",
+    "link": "https://nypost.com/2025/09/05/business/is-there-a-fast-food-price-war-looming-companies-face-difficult-challenge-if-they-go-too-high/"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2025-09-05-15-41-00 +0000",
     "source": "wsj",
     "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
