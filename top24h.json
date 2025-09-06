@@ -1,66 +1,59 @@
 [
   {
-    "score": 129,
+    "score": 127,
     "pubdate": "2025-09-05-22-57-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed an executive order to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
     "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
   },
   {
-    "score": 93,
-    "pubdate": "2025-09-06-01-20-10 +0000",
+    "score": 90,
+    "pubdate": "2025-09-06-13-02-35 +0000",
     "source": "nyt",
-    "headline": "South Koreans Are Swept Up in Immigration Raid at Hyundai Plant in Georgia",
-    "link": "https://www.nytimes.com/2025/09/05/us/georgia-battery-plant-hyundai-lg-ice-raid.html"
+    "headline": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
+    "link": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2025-09-05-20-08-47 +0000",
     "source": "nyt",
     "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
     "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
   },
   {
-    "score": 60,
+    "score": 61,
     "pubdate": "2025-09-05-20-58-03 +0000",
     "source": "nypost",
     "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
     "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
   },
   {
-    "score": 57,
-    "pubdate": "2025-09-06-07-23-56 +0000",
-    "source": "nypost",
-    "headline": "Joe Kennedy III blasts RFK Jr. after fiery Senate hearing, fueling Kennedy family infighting: ‘He must resign’",
-    "link": "https://nypost.com/2025/09/06/us-news/joe-kennedy-iii-blasts-rfk-jr-after-fiery-senate-hearing-fueling-kennedy-family-infighting-he-must-resign/"
-  },
-  {
-    "score": 57,
+    "score": 54,
     "pubdate": "2025-09-06-13-22-00 +0000",
     "source": "wsj",
     "headline": "Putin Wagers Ukraine’s Army Will Break Before His Economy Does",
     "link": "https://www.wsj.com/world/putin-wagers-ukraines-army-will-break-before-his-economy-does-d3ab22fb"
   },
   {
-    "score": 49,
+    "score": 52,
+    "pubdate": "2025-09-05-21-41-53 +0000",
+    "source": "nyt",
+    "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
+    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
+  },
+  {
+    "score": 42,
     "pubdate": "2025-09-05-23-19-00 +0000",
     "source": "wsj",
     "headline": "The IT unemployment rate fell to 4.5% in August from 5.5% the prior month. But there are still fewer jobs available for tech workers, especially those who don’t specialize in AI.",
     "link": "https://www.wsj.com/articles/it-unemployment-fell-in-august-but-the-tech-jobs-market-is-still-shrinking-e80225e3"
   },
   {
-    "score": 42,
-    "pubdate": "2025-09-06-12-06-46 +0000",
-    "source": "nyt",
-    "headline": "Israel Targets More Buildings in Gaza City and Warns Residents to Flee",
-    "link": "https://www.nytimes.com/2025/09/06/world/middleeast/israel-gaza-humanitarian.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-09-05-17-49-27 +0000",
-    "source": "nyt",
-    "headline": "After Rayner’s Resignation, Farage’s Reform UK Party Sees An Opportunity",
-    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-nigel-farage-reform-uk-labour.html"
+    "score": 40,
+    "pubdate": "2025-09-06-02-17-09 +0000",
+    "source": "nypost",
+    "headline": "Ex-FBI official tipped off Chinese firm doing business with Biden family about arrests: DOJ watchdog",
+    "link": "https://nypost.com/2025/09/05/us-news/ex-fbi-official-tipped-off-chinese-firm-doing-business-with-biden-family-about-arrests-doj-watchdog/"
   },
   {
     "score": 39,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "CBS News vows to air only uncut interviews on ‘Face the Nation’ after Kristi Noem uproar",
     "link": "https://nypost.com/2025/09/05/media/cbs-news-vows-to-air-only-uncut-interviews-on-face-the-nation-after-kristi-noem-uproar/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-09-05-17-49-27 +0000",
+    "source": "nyt",
+    "headline": "After Rayner’s Resignation, Farage’s Reform UK Party Sees An Opportunity",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-nigel-farage-reform-uk-labour.html"
   }
 ]
