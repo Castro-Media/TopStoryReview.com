@@ -1,44 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2025-09-06-08-40-11 +0000",
+    "score": 40,
+    "pubdate": "2025-09-06-09-32-35 +0000",
+    "source": "nyt",
+    "headline": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
+    "link": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-09-06-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Marjorie Taylor Greene is walking a tightrope: splitting with the White House on the release of Epstein files while trying not to cross President Trump or his supporters",
+    "link": "https://www.wsj.com/politics/policy/marjorie-taylor-greene-epstein-trump-79beda3b"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-09-06-09-00-35 +0000",
+    "source": "nyt",
+    "headline": "Karina Milei, Argentina’s Mysterious First Sister, Captivates Nation After Audio Leaks",
+    "link": "https://www.nytimes.com/2025/09/06/world/americas/javier-milei-karina-argentina-leaked-audio.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-06-09-02-26 +0000",
+    "source": "nyt",
+    "headline": "Keir Starmer’s Miserable Moment in the U.K. Has Nigel Farage Gloating",
+    "link": "https://www.nytimes.com/2025/09/06/world/europe/uk-starmer-farage.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-09-06-09-02-07 +0000",
+    "source": "nyt",
+    "headline": "Settlement Talks Stall Between Harvard and the Trump Administration",
+    "link": "https://www.nytimes.com/2025/09/06/us/politics/harvard-trump-negotiations-stall.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-09-06-09-21-14 +0000",
+    "source": "nypost",
+    "headline": "South Carolina college instructor who loved to travel ID’d as American killed in Lisbon streetcar crash",
+    "link": "https://nypost.com/2025/09/06/us-news/south-carolina-college-instructor-heather-hall-who-loved-to-travel-idd-as-american-killed-in-lisbon-streetcar-derailment/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-06-09-46-41 +0000",
     "source": "bbc",
-    "headline": "Raid on Hyundai plant in US swept up workers on visitor visas",
-    "link": "https://www.bbc.com/news/articles/cy50yge052xo?at_medium=RSS&at_campaign=rss"
+    "headline": "'No doubt' Russia will cross Nato border if Ukraine falls, former US VP says",
+    "link": "https://www.bbc.com/news/videos/cq65410424qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-06-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Armani Stuck to the Classics. But His Business Needs a Refresh.",
+    "link": "https://www.wsj.com/business/retail/armani-stuck-to-the-classics-but-his-business-needs-a-refresh-17beeba7?mod=rss_markets_main"
   },
   {
     "score": 9,
-    "pubdate": "2025-09-06-08-42-42 +0000",
-    "source": "nypost",
-    "headline": "Iran paves over mass grave of 1979 revolution victims, turning it into a parking lot",
-    "link": "https://nypost.com/2025/09/06/world-news/iran-paves-over-mass-grave-of-1979-revolution-victims-turning-it-into-a-parking-lot/"
+    "pubdate": "2025-09-06-09-00-00 +0000",
+    "source": "wapo",
+    "headline": "Israel backs off talk of annexing West Bank after UAE warning",
+    "link": "https://www.washingtonpost.com/world/2025/09/06/israel-annex-west-bank-emirates-warning/"
   },
   {
-    "score": 8,
-    "pubdate": "2025-09-06-08-29-59 +0000",
+    "score": 9,
+    "pubdate": "2025-09-06-09-02-23 +0000",
     "source": "nyt",
-    "headline": "Trump Administration Drops Biden Plan for Flight Delay Compensation",
-    "link": "https://www.nytimes.com/2025/09/05/business/flight-delays-cancellations-compensation.html"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-06-08-12-55 +0000",
-    "source": "bbc",
-    "headline": "Lisbon funicular worker among those killed in crash",
-    "link": "https://www.bbc.com/news/articles/cnvryg271ymo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-06-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Is the zero-emission vehicle mandate dead or merely sleeping?",
-    "link": "https://www.cbc.ca/news/politics/zev-mandate-carney-poilievre-analysis-1.7626712?cmp=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-06-08-40-11 +0000",
-    "source": "bbc",
-    "headline": "Raid on Hyundai plant in US swept up workers on visitor visas",
-    "link": "https://www.bbc.com/news/articles/cy50yge052xo?at_medium=RSS&at_campaign=rss"
+    "headline": "My Employer Changed Hate Speech Policy That Protected Trans People. What Can I Do?",
+    "link": "https://www.nytimes.com/2025/09/06/business/hate-speech-protections-rolled-back.html"
   }
 ]
