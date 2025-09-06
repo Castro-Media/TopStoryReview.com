@@ -1,6 +1,6 @@
 [
   {
-    "score": 334,
+    "score": 333,
     "pubdate": "2025-08-30-18-46-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is drawing up plans to rebrand the Department of Defense as the Department of War, according to a White House official",
@@ -57,16 +57,16 @@
   },
   {
     "score": 87,
-    "pubdate": "2025-09-04-22-50-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. is getting ready to start a renegotiation of its largest free trade deal—the U.S.-Mexico-Canada Agreement.",
-    "link": "https://www.wsj.com/economy/trade/trump-prepares-to-start-north-american-trade-deal-renegotiation-304e0292"
-  },
-  {
-    "score": 87,
     "pubdate": "2025-09-04-09-00-30 +0000",
     "source": "wapo",
     "headline": "After Tesla sales crash in Europe, new model faces a hostile market",
     "link": "https://www.washingtonpost.com/world/2025/09/04/tesla-europe-germany-musk-sales/"
+  },
+  {
+    "score": 87,
+    "pubdate": "2025-09-04-22-50-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. is getting ready to start a renegotiation of its largest free trade deal—the U.S.-Mexico-Canada Agreement.",
+    "link": "https://www.wsj.com/economy/trade/trump-prepares-to-start-north-american-trade-deal-renegotiation-304e0292"
   }
 ]
