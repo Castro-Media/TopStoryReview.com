@@ -1,5 +1,107 @@
 [
   {
+    "headline": "How the Minnesota Top 25 fared in Week 2 high school football",
+    "link": "https://www.startribune.com/high-school-football-how-minnesota-top-25-fared-strib-varsity-week-2/601467307",
+    "source": "startribune",
+    "pubdate": "2025-09-06-04-24-25 +0000"
+  },
+  {
+    "headline": "With ‘Ghost Bat’ Drone, Australia Gears Up for New Arms Race",
+    "link": "https://www.nytimes.com/2025/09/06/world/australia/australia-ghost-bat-drone.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-09-04 +0000"
+  },
+  {
+    "headline": "With ‘Ghost Bat’ Drone, Australia Gears Up for New Arms Race",
+    "link": "https://www.nytimes.com/2025/09/06/world/australia/australia-ghost-bat-drone.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-09-04 +0000"
+  },
+  {
+    "headline": "102-year-old man sets Guinness World Record as oldest to climb Mount Fuji",
+    "link": "https://nypost.com/2025/09/06/world-news/102-year-old-man-sets-guinness-world-record-as-oldest-to-climb-mount-fuji/",
+    "source": "nypost",
+    "pubdate": "2025-09-06-04-03-34 +0000"
+  },
+  {
+    "headline": "Food Delivery Drivers Feel Strain of Italy’s Ban on Outdoor Work on Hottest Days",
+    "link": "https://www.nytimes.com/2025/09/06/world/europe/italy-food-delivery-drivers-heat-rules.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-32 +0000"
+  },
+  {
+    "headline": "Food Delivery Drivers Feel Strain of Italy’s Ban on Outdoor Work on Hottest Days",
+    "link": "https://www.nytimes.com/2025/09/06/world/europe/italy-food-delivery-drivers-heat-rules.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-32 +0000"
+  },
+  {
+    "headline": "Inside Iran After the 12-Day War",
+    "link": "https://www.nytimes.com/video/world/middleeast/100000010381500/behind-the-reporting-iran-reporter-israel-war.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-28 +0000"
+  },
+  {
+    "headline": "Inside Iran After the 12-Day War",
+    "link": "https://www.nytimes.com/video/world/middleeast/100000010381500/behind-the-reporting-iran-reporter-israel-war.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-28 +0000"
+  },
+  {
+    "headline": "A Japanese Island Preserves an Ancient and Ghostly Theater Form",
+    "link": "https://www.nytimes.com/2025/09/06/world/asia/sado-island-japan-noh-theater.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-25 +0000"
+  },
+  {
+    "headline": "A Japanese Island Preserves an Ancient and Ghostly Theater Form",
+    "link": "https://www.nytimes.com/2025/09/06/world/asia/sado-island-japan-noh-theater.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-25 +0000"
+  },
+  {
+    "headline": "Thrust Into the Line of Fire, Iranians Worry About What Comes Next",
+    "link": "https://www.nytimes.com/2025/09/06/world/africa/thrust-into-the-line-of-fire-iranians-worry-about-what-comes-next.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-24 +0000"
+  },
+  {
+    "headline": "Thrust Into the Line of Fire, Iranians Worry About What Comes Next",
+    "link": "https://www.nytimes.com/2025/09/06/world/africa/thrust-into-the-line-of-fire-iranians-worry-about-what-comes-next.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-24 +0000"
+  },
+  {
+    "headline": "Rome’s Delivery Riders Lose Out in Heat Ban",
+    "link": "https://www.nytimes.com/video/world/europe/100000010305752/romes-delivery-riders-lose-out-in-heat-ban.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-00 +0000"
+  },
+  {
+    "headline": "Rome’s Delivery Riders Lose Out in Heat Ban",
+    "link": "https://www.nytimes.com/video/world/europe/100000010305752/romes-delivery-riders-lose-out-in-heat-ban.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-01-00 +0000"
+  },
+  {
+    "headline": "Would Anyone Use a Chinese Stablecoin?",
+    "link": "https://www.nytimes.com/2025/09/06/business/china-stablecoin-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-00-04 +0000"
+  },
+  {
+    "headline": "Would Anyone Use a Chinese Stablecoin?",
+    "link": "https://www.nytimes.com/2025/09/06/business/china-stablecoin-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-09-06-04-00-04 +0000"
+  },
+  {
+    "headline": "Man dies after suspected shark attack in Sydney",
+    "link": "https://www.bbc.com/news/articles/cy8r9p28yp7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-06-03-41-44 +0000"
+  },
+  {
     "headline": "‘Volnado’ spins skyward as Hawaii’s Kīlauea volcano erupts",
     "link": "https://nypost.com/2025/09/05/media/volnado-spins-skyward-as-hawaiis-kilauea-volcano-erupts/",
     "source": "nypost",
@@ -46,12 +148,6 @@
     "link": "https://nypost.com/2025/09/05/us-news/trump-mulling-military-strikes-on-cartel-targets-inside-venezuela-report/",
     "source": "nypost",
     "pubdate": "2025-09-06-02-46-06 +0000"
-  },
-  {
-    "headline": "‘Strib Varsity Live With Randy Shaver’ Episode 3: Live football on Friday night",
-    "link": "https://www.startribune.com/strib-varsity-live-with-randy-shaver-september-5-2025/601465992",
-    "source": "startribune",
-    "pubdate": "2025-09-06-02-28-07 +0000"
   },
   {
     "headline": "Judge rules ending protections for Venezuelan and Haitian migrants is unlawful",
@@ -978,6 +1074,12 @@
     "pubdate": "2025-09-05-20-20-00 +0000"
   },
   {
+    "headline": "‘Rays of hope’ for 12-year-old victim of Annunciation shooting in critical condition",
+    "link": "https://www.startribune.com/rays-of-hope-for-12-year-old-victim-of-annunciation-shooting-in-critical-condition/601467793",
+    "source": "startribune",
+    "pubdate": "2025-09-05-20-16-22 +0000"
+  },
+  {
     "headline": "Newsmax Lawsuit Against Fox News Is Dismissed",
     "link": "https://www.nytimes.com/2025/09/05/business/media/newsmax-fox-news-lawsuit.html",
     "source": "nyt",
@@ -1056,10 +1158,10 @@
     "pubdate": "2025-09-05-19-52-48 +0000"
   },
   {
-    "headline": "Meteorologist Wren Clair’s short stint at KARE 11 is over",
-    "link": "https://www.startribune.com/wren-clairs-short-stint-at-kare-11-is-over/601467836",
-    "source": "startribune",
-    "pubdate": "2025-09-05-19-50-56 +0000"
+    "headline": "Anthropic Agrees to Pay at Least $1.5 Billion in Landmark Copyright Settlement",
+    "link": "https://www.wsj.com/tech/ai/anthropic-to-pay-at-least-1-5-billion-in-landmark-copyright-settlement-with-authors-bfcdd57b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-05-19-49-00 +0000"
   },
   {
     "headline": "U.S. Is Increasingly Exposed to Chinese Election Threats, Lawmakers Say",
@@ -1104,6 +1206,12 @@
     "pubdate": "2025-09-05-19-40-00 +0000"
   },
   {
+    "headline": "Bloomington fights delays to open two football stadiums worth $6.3 million",
+    "link": "https://www.startribune.com/bloomington-public-schools-new-stadiums-for-kennedy-and-jefferson-high-completion-delayed-by-weather/601467168",
+    "source": "startribune",
+    "pubdate": "2025-09-05-19-38-37 +0000"
+  },
+  {
     "headline": "Iconic LAX airport sign is being removed letter by letter. Here's why",
     "link": "https://www.latimes.com/california/story/2025-09-05/lax-sign-will-be-removed-during-construction",
     "source": "latimes",
@@ -1120,12 +1228,6 @@
     "link": "https://www.nytimes.com/2025/09/05/business/american-eagle-sydney-sweeney-ad-earnings.html",
     "source": "nyt",
     "pubdate": "2025-09-05-19-32-46 +0000"
-  },
-  {
-    "headline": "House GOP calls for school security, mental health resources in wake of Annunciation shooting",
-    "link": "https://www.startribune.com/house-gop-calls-for-school-security-mental-health-resources-in-wake-of-annunciation-shooting/601467635",
-    "source": "startribune",
-    "pubdate": "2025-09-05-19-30-56 +0000"
   },
   {
     "headline": "Ex-Biden aide Andrew Bates stone-faced arriving at Capitol for health coverup questions",
@@ -1168,6 +1270,12 @@
     "link": "https://www.startribune.com/craig-flanagan-us-senate-race-reflects-larger-fight-over-democrats-future/601458063",
     "source": "startribune",
     "pubdate": "2025-09-05-19-02-39 +0000"
+  },
+  {
+    "headline": "Minnesota’s first K-pop convention brings fans together in St. Paul",
+    "link": "https://www.startribune.com/minnesota-k-pop-convention-st-paul-demon-hunters/601466331",
+    "source": "startribune",
+    "pubdate": "2025-09-05-19-00-00 +0000"
   },
   {
     "headline": "US-backed Gaza group says boy thought to be killed by Israeli troops was found alive",
@@ -1410,12 +1518,6 @@
     "pubdate": "2025-09-05-16-59-55 +0000"
   },
   {
-    "headline": "Portugal Searches for Cause of Lisbon Funicular Crash as Death Toll Rises",
-    "link": "https://www.nytimes.com/2025/09/04/world/europe/lisbon-funicular-crash-elevador-da-gloria-portugal.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-16-59-55 +0000"
-  },
-  {
     "headline": "‘Face the Nation’ to Air Only Unedited Interviews After Administration Criticism",
     "link": "https://www.wsj.com/business/media/cbs-live-interviews-kristi-noem-a963b370?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1480,12 +1582,6 @@
     "link": "https://www.latimes.com/homeless-housing/story/2025-09-05/norwalk-agrees-to-repeal-law-that-banned-homeless-shelters-to-end-state-lawsuit-ag-says",
     "source": "latimes",
     "pubdate": "2025-09-05-16-38-02 +0000"
-  },
-  {
-    "headline": "Amelia Santaniello says anchor shakeup at WCCO is ‘great news’ for her",
-    "link": "https://www.startribune.com/amelia-santaniello-frank-vascellaro-anchor-shakeup-wcco/601467667",
-    "source": "startribune",
-    "pubdate": "2025-09-05-16-34-08 +0000"
   },
   {
     "headline": "AP reporting calls into question Israel's attack on Gaza hospital last week killing 5 journalists",
@@ -2190,20 +2286,20 @@
     "pubdate": "2025-09-05-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: Trump wants to erase the tragedy of the Californios. We shouldn't let him",
-    "link": "https://www.latimes.com/california/story/2025-09-05/trump-californios-smithsonian",
-    "source": "latimes",
-    "pubdate": "2025-09-05-10-00-00 +0000"
-  },
-  {
     "headline": "People can't get COVID vaccines as cases surge. Anger is building against Trump",
     "link": "https://www.latimes.com/california/story/2025-09-05/covid-vaccines-are-harder-to-get-under-trump-and-people-are-angry-about-it",
     "source": "latimes",
     "pubdate": "2025-09-05-10-00-00 +0000"
   },
   {
-    "headline": "A 'Roomba for the forest' could be SoCal's next wildfire weapon",
-    "link": "https://www.latimes.com/environment/story/2025-09-05/burnbot-roomba-for-the-forest-wildfire-weapon-southern-california",
+    "headline": "Arellano: Trump wants to erase the tragedy of the Californios. We shouldn't let him",
+    "link": "https://www.latimes.com/california/story/2025-09-05/trump-californios-smithsonian",
+    "source": "latimes",
+    "pubdate": "2025-09-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump's veterans housing plan in West L.A. advances behind a wall of secrecy",
+    "link": "https://www.latimes.com/california/story/2025-09-05/a-wall-of-secrecy-surrounds-trumps-plan-for-a-national-center-for-warrior-independence-in-west-los-angeles",
     "source": "latimes",
     "pubdate": "2025-09-05-10-00-00 +0000"
   },
@@ -2214,8 +2310,8 @@
     "pubdate": "2025-09-05-10-00-00 +0000"
   },
   {
-    "headline": "Trump's veterans housing plan in West L.A. advances behind a wall of secrecy",
-    "link": "https://www.latimes.com/california/story/2025-09-05/a-wall-of-secrecy-surrounds-trumps-plan-for-a-national-center-for-warrior-independence-in-west-los-angeles",
+    "headline": "A 'Roomba for the forest' could be SoCal's next wildfire weapon",
+    "link": "https://www.latimes.com/environment/story/2025-09-05/burnbot-roomba-for-the-forest-wildfire-weapon-southern-california",
     "source": "latimes",
     "pubdate": "2025-09-05-10-00-00 +0000"
   },
@@ -2518,71 +2614,5 @@
     "link": "https://www.bbc.com/news/articles/cy9n4e1g1gyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-05-04-54-17 +0000"
-  },
-  {
-    "headline": "Macron Said That 26 Countries Would Secure Ukraine",
-    "link": "https://www.nytimes.com/2025/09/05/briefing/macron-ukraine-europe-afghan-quake-giorgio-armani.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-04-31-03 +0000"
-  },
-  {
-    "headline": "Macron Said That 26 Countries Would Secure Ukraine",
-    "link": "https://www.nytimes.com/2025/09/05/briefing/macron-ukraine-europe-afghan-quake-giorgio-armani.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-04-31-03 +0000"
-  },
-  {
-    "headline": "Thailand Ex-Premier Thaksin Shinawatra Abruptly Leaves Country",
-    "link": "https://www.nytimes.com/2025/09/04/world/asia/thailand-thaksin-shinawatra-dubai.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-04-04-46 +0000"
-  },
-  {
-    "headline": "Thailand Ex-Premier Thaksin Shinawatra Abruptly Leaves Country",
-    "link": "https://www.nytimes.com/2025/09/04/world/asia/thailand-thaksin-shinawatra-dubai.html",
-    "source": "nyt",
-    "pubdate": "2025-09-05-04-04-46 +0000"
-  },
-  {
-    "headline": "Is there a fast-food price war looming? Companies face difficult challenge if they go too high",
-    "link": "https://nypost.com/2025/09/05/business/is-there-a-fast-food-price-war-looming-companies-face-difficult-challenge-if-they-go-too-high/",
-    "source": "nypost",
-    "pubdate": "2025-09-05-04-03-14 +0000"
-  },
-  {
-    "headline": "Dirty Sodas and Crispy Chicken: How Taco Bell Aims to Keep Beating Burgers",
-    "link": "https://www.wsj.com/business/hospitality/dirty-sodas-and-crispy-chicken-how-taco-bell-aims-to-keep-beating-burgers-05bf5950?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-05-04-01-00 +0000"
-  },
-  {
-    "headline": "Dirty Sodas and Crispy Chicken: How Taco Bell Aims to Keep Beating Burgers",
-    "link": "https://www.wsj.com/business/hospitality/dirty-sodas-and-crispy-chicken-how-taco-bell-aims-to-keep-beating-burgers-05bf5950?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-05-04-01-00 +0000"
-  },
-  {
-    "headline": "SF’s most gallant ‘gator celebrates 30 years since his hatch day",
-    "link": "https://48hills.org/2025/09/sfs-most-gallant-gator-celebrates-30-years-since-his-hatch-day/",
-    "source": "48hills",
-    "pubdate": "2025-09-05-04-00-36 +0000"
-  },
-  {
-    "headline": "Best of the Bay 2025 Editors’ Pick: Bones Bagels",
-    "link": "https://48hills.org/2025/09/best-of-the-bay-2025-editors-pick-bones-bagels/",
-    "source": "48hills",
-    "pubdate": "2025-09-05-04-00-20 +0000"
-  },
-  {
-    "headline": "Best of the Bay 2025 Editors’ Pick: Boardroom’s Tequila Trivia Tuesdays",
-    "link": "https://48hills.org/2025/09/best-of-the-bay-2025-editors-pick-boardrooms-tequila-trivia-tuesdays/",
-    "source": "48hills",
-    "pubdate": "2025-09-05-04-00-02 +0000"
-  },
-  {
-    "headline": "In Washington, Farage builds on right-wing alliance with Trump",
-    "link": "https://www.washingtonpost.com/world/2025/09/05/farage-reform-trump-uk/",
-    "source": "wapo",
-    "pubdate": "2025-09-05-04-00-00 +0000"
   }
 ]
