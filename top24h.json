@@ -1,6 +1,6 @@
 [
   {
-    "score": 130,
+    "score": 129,
     "pubdate": "2025-09-05-22-25-26 +0000",
     "source": "nyt",
     "headline": "A Second Weak Jobs Report Challenges Trump’s Claim the Economy Is Booming",
@@ -14,6 +14,13 @@
     "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
   },
   {
+    "score": 79,
+    "pubdate": "2025-09-05-09-42-52 +0000",
+    "source": "nypost",
+    "headline": "Putin warns Western troops deployed to Ukraine would be ‘legitimate targets’ if sent before peace deal",
+    "link": "https://nypost.com/2025/09/05/world-news/russia-putin-warns-foreign-leaders-of-deploying-troops-to-ukraine-before-peace-deal/"
+  },
+  {
     "score": 78,
     "pubdate": "2025-09-06-02-58-41 +0000",
     "source": "bbc",
@@ -21,11 +28,11 @@
     "link": "https://www.bbc.com/news/articles/cy50yge052xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 76,
-    "pubdate": "2025-09-05-09-42-52 +0000",
+    "score": 58,
+    "pubdate": "2025-09-06-07-23-56 +0000",
     "source": "nypost",
-    "headline": "Putin warns Western troops deployed to Ukraine would be ‘legitimate targets’ if sent before peace deal",
-    "link": "https://nypost.com/2025/09/05/world-news/russia-putin-warns-foreign-leaders-of-deploying-troops-to-ukraine-before-peace-deal/"
+    "headline": "Joe Kennedy III blasts RFK Jr. after fiery Senate hearing, fueling Kennedy family infighting: ‘He must resign’",
+    "link": "https://nypost.com/2025/09/06/us-news/joe-kennedy-iii-blasts-rfk-jr-after-fiery-senate-hearing-fueling-kennedy-family-infighting-he-must-resign/"
   },
   {
     "score": 57,
@@ -36,13 +43,6 @@
   },
   {
     "score": 56,
-    "pubdate": "2025-09-05-15-18-34 +0000",
-    "source": "nyt",
-    "headline": "After Boat Strike, Rubio Says U.S. Will Help Other Nations ‘Blow Up’ Crime Groups",
-    "link": "https://www.nytimes.com/2025/09/04/world/americas/rubio-ecuador-crime-groups-boat-strike.html"
-  },
-  {
-    "score": 55,
     "pubdate": "2025-09-05-22-57-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed an executive order to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
   },
   {
-    "score": 54,
+    "score": 53,
+    "pubdate": "2025-09-05-15-18-34 +0000",
+    "source": "nyt",
+    "headline": "After Boat Strike, Rubio Says U.S. Will Help Other Nations ‘Blow Up’ Crime Groups",
+    "link": "https://www.nytimes.com/2025/09/04/world/americas/rubio-ecuador-crime-groups-boat-strike.html"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-09-06-02-17-09 +0000",
     "source": "nypost",
     "headline": "Ex-FBI official tipped off Chinese firm doing business with Biden family about arrests: DOJ watchdog",
     "link": "https://nypost.com/2025/09/05/us-news/ex-fbi-official-tipped-off-chinese-firm-doing-business-with-biden-family-about-arrests-doj-watchdog/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-09-05-21-41-52 +0000",
-    "source": "nyt",
-    "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
-    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
   }
 ]
