@@ -1,27 +1,20 @@
 [
   {
-    "score": 308,
+    "score": 310,
     "pubdate": "2025-09-04-15-00-00 +0000",
     "source": "wsj",
     "headline": "The BLS will publish its first jobs report Friday since President Trump fired the agency’s leader after she delivered surprisingly lousy news about spring employment",
     "link": "https://www.wsj.com/economy/jobs/jobs-report-august-2025-what-to-know-8ec1e0a3"
   },
   {
-    "score": 139,
-    "pubdate": "2025-09-06-15-27-41 +0000",
+    "score": 137,
+    "pubdate": "2025-09-05-21-41-53 +0000",
     "source": "nyt",
-    "headline": "South Koreans Are Swept Up in Immigration Raid at Hyundai Plant in Georgia",
-    "link": "https://www.nytimes.com/2025/09/05/us/georgia-battery-plant-hyundai-lg-ice-raid.html"
+    "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
+    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
   },
   {
-    "score": 133,
-    "pubdate": "2025-09-01-19-16-01 +0000",
-    "source": "nyt",
-    "headline": "Israel’s Push for a Permanent Gaza Deal May Mean a Longer War, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html"
-  },
-  {
-    "score": 128,
+    "score": 127,
     "pubdate": "2025-09-03-02-20-57 +0000",
     "source": "bbc",
     "headline": "Moment Xi, Putin and Kim pose with world leaders at China's military parade",
@@ -42,31 +35,38 @@
     "link": "https://www.wsj.com/politics/policy/trump-fed-takeover-stephen-miran-confirmation-1ce92d65"
   },
   {
-    "score": 101,
-    "pubdate": "2025-09-02-14-16-14 +0000",
-    "source": "latimes",
-    "headline": "Trump deployment of military troops to Los Angeles was illegal, judge rules in blistering opinion",
-    "link": "https://www.latimes.com/california/story/2025-09-02/trump-deployment-military-troops-los-angeles-illegal"
+    "score": 106,
+    "pubdate": "2025-09-06-13-02-35 +0000",
+    "source": "nyt",
+    "headline": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
+    "link": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html"
+  },
+  {
+    "score": 103,
+    "pubdate": "2025-09-05-02-44-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
+    "link": "https://www.wsj.com/politics/national-security/did-a-boat-strike-in-caribbean-exceed-trumps-authority-to-use-military-force-828db8c6"
+  },
+  {
+    "score": 88,
+    "pubdate": "2025-09-05-11-25-38 +0000",
+    "source": "nyt",
+    "headline": "Western Troops in Ukraine Before a Peace Deal Would Be ‘Targets’, Putin Says",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/russia-ukraine-putin-western-troops.html"
   },
   {
     "score": 83,
+    "pubdate": "2025-09-05-04-03-14 +0000",
+    "source": "nypost",
+    "headline": "Is there a fast-food price war looming? Companies face difficult challenge if they go too high",
+    "link": "https://nypost.com/2025/09/05/business/is-there-a-fast-food-price-war-looming-companies-face-difficult-challenge-if-they-go-too-high/"
+  },
+  {
+    "score": 82,
     "pubdate": "2025-09-04-11-30-00 +0000",
     "source": "latimes",
     "headline": "Job cuts hit hard in California as uncertainty and AI rise",
     "link": "https://www.latimes.com/business/story/2025-09-04/job-cuts-jump-as-ai-and-doge-contribute-to-layoffs"
-  },
-  {
-    "score": 80,
-    "pubdate": "2025-09-05-15-41-00 +0000",
-    "source": "wsj",
-    "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
-    "link": "https://www.wsj.com/politics/policy/florida-alligator-alcatraz-detention-center-open-d45283be"
-  },
-  {
-    "score": 79,
-    "pubdate": "2025-09-05-20-58-03 +0000",
-    "source": "nypost",
-    "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
-    "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
   }
 ]
