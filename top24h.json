@@ -1,45 +1,38 @@
 [
   {
-    "score": 130,
+    "score": 132,
     "pubdate": "2025-09-05-22-57-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed an executive order to rebrand the Department of Defense as the Department of War, reviving a name that was last used in 1947",
     "link": "https://www.wsj.com/politics/national-security/trump-to-sign-order-calling-pentagon-the-department-of-war-f68d88d6"
   },
   {
-    "score": 94,
+    "score": 89,
     "pubdate": "2025-09-06-01-20-10 +0000",
     "source": "nyt",
     "headline": "South Koreans Are Swept Up in Immigration Raid at Hyundai Plant in Georgia",
     "link": "https://www.nytimes.com/2025/09/05/us/georgia-battery-plant-hyundai-lg-ice-raid.html"
   },
   {
-    "score": 90,
+    "score": 85,
     "pubdate": "2025-09-05-20-08-47 +0000",
     "source": "nyt",
     "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
     "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
   },
   {
-    "score": 64,
+    "score": 62,
     "pubdate": "2025-09-05-20-58-03 +0000",
     "source": "nypost",
     "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
     "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
   },
   {
-    "score": 61,
+    "score": 60,
     "pubdate": "2025-09-06-09-46-41 +0000",
     "source": "bbc",
     "headline": "'No doubt' Russia will cross Nato border if Ukraine falls, former US VP Mike Pence says",
     "link": "https://www.bbc.com/news/videos/cq65410424qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 60,
-    "pubdate": "2025-09-05-12-40-59 +0000",
-    "source": "cbc",
-    "headline": "Canadian economy bled 66,000 jobs in August as unemployment rate at its highest since 'pandemic days'",
-    "link": "https://www.cbc.ca/news/business/canadian-economy-bled-66-000-jobs-in-august-as-unemployment-rate-at-its-highest-since-pandemic-days-1.7625918?cmp=rss"
   },
   {
     "score": 56,
@@ -50,23 +43,30 @@
   },
   {
     "score": 52,
-    "pubdate": "2025-09-06-11-49-10 +0000",
+    "pubdate": "2025-09-06-12-06-46 +0000",
     "source": "nyt",
     "headline": "Israel Targets More Buildings in Gaza City and Warns Residents to Flee",
     "link": "https://www.nytimes.com/2025/09/06/world/middleeast/israel-gaza-humanitarian.html"
   },
   {
-    "score": 48,
+    "score": 51,
+    "pubdate": "2025-09-05-23-19-00 +0000",
+    "source": "wsj",
+    "headline": "The IT unemployment rate fell to 4.5% in August from 5.5% the prior month. But there are still fewer jobs available for tech workers, especially those who don’t specialize in AI.",
+    "link": "https://www.wsj.com/articles/it-unemployment-fell-in-august-but-the-tech-jobs-market-is-still-shrinking-e80225e3"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-09-06-07-23-56 +0000",
     "source": "nypost",
     "headline": "Joe Kennedy III blasts RFK Jr. after fiery Senate hearing, fueling Kennedy family infighting: ‘He must resign’",
     "link": "https://nypost.com/2025/09/06/us-news/joe-kennedy-iii-blasts-rfk-jr-after-fiery-senate-hearing-fueling-kennedy-family-infighting-he-must-resign/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-09-05-15-18-39 +0000",
-    "source": "bbc",
-    "headline": "Aid workers use donkeys to reach remote Sudan landslide site where hundreds feared dead",
-    "link": "https://www.bbc.com/news/articles/cly7zr0lzx0o?at_medium=RSS&at_campaign=rss"
+    "score": 42,
+    "pubdate": "2025-09-05-17-49-27 +0000",
+    "source": "nyt",
+    "headline": "After Rayner’s Resignation, Farage’s Reform UK Party Sees An Opportunity",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-nigel-farage-reform-uk-labour.html"
   }
 ]
