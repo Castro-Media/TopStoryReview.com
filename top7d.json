@@ -1,20 +1,20 @@
 [
   {
-    "score": 306,
+    "score": 305,
     "pubdate": "2025-09-04-15-00-00 +0000",
     "source": "wsj",
     "headline": "The BLS will publish its first jobs report Friday since President Trump fired the agency’s leader after she delivered surprisingly lousy news about spring employment",
     "link": "https://www.wsj.com/economy/jobs/jobs-report-august-2025-what-to-know-8ec1e0a3"
   },
   {
-    "score": 141,
+    "score": 138,
     "pubdate": "2025-09-05-21-41-53 +0000",
     "source": "nyt",
     "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
     "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
   },
   {
-    "score": 131,
+    "score": 130,
     "pubdate": "2025-09-03-02-20-57 +0000",
     "source": "bbc",
     "headline": "Moment Xi, Putin and Kim pose with world leaders at China's military parade",
@@ -28,18 +28,18 @@
     "link": "https://www.wsj.com/politics/policy/trump-fed-takeover-stephen-miran-confirmation-1ce92d65"
   },
   {
-    "score": 117,
+    "score": 115,
     "pubdate": "2025-09-05-20-08-47 +0000",
     "source": "nyt",
     "headline": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
     "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html"
   },
   {
-    "score": 105,
-    "pubdate": "2025-09-06-13-02-35 +0000",
-    "source": "nyt",
-    "headline": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
-    "link": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html"
+    "score": 106,
+    "pubdate": "2025-09-05-15-41-00 +0000",
+    "source": "wsj",
+    "headline": "The Florida immigration detention facility known as Alligator Alcatraz can stay open after a federal appeals court put on hold a decision that would have seen much of the facility dismantled",
+    "link": "https://www.wsj.com/politics/policy/florida-alligator-alcatraz-detention-center-open-d45283be"
   },
   {
     "score": 103,
@@ -49,7 +49,14 @@
     "link": "https://www.latimes.com/california/story/2025-09-02/trump-deployment-military-troops-los-angeles-illegal"
   },
   {
-    "score": 85,
+    "score": 87,
+    "pubdate": "2025-09-05-20-53-16 +0000",
+    "source": "bbc",
+    "headline": "Hundreds of South Koreans detained in massive ICE raid at Hyundai plant",
+    "link": "https://www.bbc.com/news/articles/cj6xe5d6103o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 84,
     "pubdate": "2025-09-05-04-03-14 +0000",
     "source": "nypost",
     "headline": "Is there a fast-food price war looming? Companies face difficult challenge if they go too high",
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "The U.S. is getting ready to start a renegotiation of its largest free trade deal—the U.S.-Mexico-Canada Agreement.",
     "link": "https://www.wsj.com/economy/trade/trump-prepares-to-start-north-american-trade-deal-renegotiation-304e0292"
-  },
-  {
-    "score": 82,
-    "pubdate": "2025-09-05-20-58-03 +0000",
-    "source": "nypost",
-    "headline": "Top secret SEAL Team 6 killed North Korean civilians during failed covert mission in 2019: report",
-    "link": "https://nypost.com/2025/09/05/us-news/top-secret-seal-team-6-killed-north-korean-civilians-during-failed-covert-mission-in-2019-report/"
   }
 ]
