@@ -14,7 +14,7 @@
     "link": "https://nypost.com/2025/09/07/us-news/south-korea-and-us-reach-deal-for-release-of-workers-detained-during-hyundai-plant-raid-in-georgia/"
   },
   {
-    "score": 57,
+    "score": 55,
     "pubdate": "2025-09-07-08-42-01 +0000",
     "source": "nypost",
     "headline": "Pope Leo XIV names first two saints of his pontificate, including first millennial to be canonized",
@@ -43,10 +43,17 @@
   },
   {
     "score": 39,
-    "pubdate": "2025-09-07-04-59-51 +0000",
-    "source": "nypost",
-    "headline": "US teen pilot Ethan Guo released from Antarctic air base after two months",
-    "link": "https://nypost.com/2025/09/07/world-news/us-teen-pilot-ethan-guo-released-from-antarctic-air-base-after-two-months/"
+    "pubdate": "2025-09-07-15-54-53 +0000",
+    "source": "bbc",
+    "headline": "US pilot and influencer released from Chilean air base in Antarctica",
+    "link": "https://www.bbc.com/news/articles/cn4l2ld4j9do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-09-07-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "When President Trump unveiled his EU trade deal, businesses across the bloc thought it would end months of uncertainty. Less than two months on, frustration is growing in Europe.",
+    "link": "https://www.wsj.com/economy/trade/the-eus-trade-truce-with-the-u-s-is-in-danger-of-unraveling-d8238c07"
   },
   {
     "score": 35,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Immigration Raid Exposes Tensions From Seoul to Washington to Rural Georgia",
     "link": "https://www.nytimes.com/2025/09/06/us/immigration-raid-georgia.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-09-07-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "The story of American capitalism may have begun with the Founding Fathers, but much of the plot was written in the years since then. Here are six people who made a difference.",
-    "link": "https://www.wsj.com/economy/capitalism-american-visionaries-b5cc7832"
   }
 ]
