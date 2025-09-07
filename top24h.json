@@ -1,20 +1,20 @@
 [
   {
-    "score": 144,
+    "score": 142,
     "pubdate": "2025-09-07-12-19-07 +0000",
     "source": "nypost",
     "headline": "South Korean workers arrested in ICE raid at Georgia Hyundai plant set to be freed after deal with Trump admin",
     "link": "https://nypost.com/2025/09/07/us-news/south-korea-and-us-reach-deal-for-release-of-workers-detained-during-hyundai-plant-raid-in-georgia/"
   },
   {
-    "score": 92,
+    "score": 98,
     "pubdate": "2025-09-07-15-08-17 +0000",
     "source": "nypost",
     "headline": "Russian attack on Ukraine’s government HQ in largest-ever strike shows Putin’s ‘disdain’ for Trump’s peace efforts: Kyiv",
     "link": "https://nypost.com/2025/09/07/world-news/russia-launches-largest-ever-air-strike-on-ukraine-making-mockery-of-trumps-peace-efforts-kyiv/"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-09-07-08-42-01 +0000",
     "source": "nypost",
     "headline": "Pope Leo XIV names first two saints of his pontificate, including first millennial to be canonized",
@@ -28,32 +28,39 @@
     "link": "https://www.nytimes.com/2025/09/07/world/asia/japan-shigeru-ishiba-resign.html"
   },
   {
-    "score": 41,
-    "pubdate": "2025-09-07-16-31-15 +0000",
+    "score": 46,
+    "pubdate": "2025-09-07-17-43-29 +0000",
     "source": "nyt",
     "headline": "Russia Strikes Ukraine Government Building in Largest Drone Assault of War",
     "link": "https://www.nytimes.com/2025/09/07/world/europe/russian-strike-kyiv-ukraine.html"
   },
   {
-    "score": 37,
-    "pubdate": "2025-09-07-10-48-17 +0000",
-    "source": "nypost",
-    "headline": "Off-duty Alaska Airlines pilot who tried shutting down engines after taking psychedelic mushrooms pleads guilty",
-    "link": "https://nypost.com/2025/09/07/us-news/off-duty-alaska-airlines-pilot-joseph-emerson-who-tried-shutting-down-engines-after-taking-psychedelic-mushrooms-pleads-guilty/"
-  },
-  {
-    "score": 37,
+    "score": 39,
     "pubdate": "2025-09-07-03-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump unveiled his EU trade deal, businesses across the bloc thought it would end months of uncertainty. Less than two months on, frustration is growing in Europe.",
     "link": "https://www.wsj.com/economy/trade/the-eus-trade-truce-with-the-u-s-is-in-danger-of-unraveling-d8238c07"
   },
   {
-    "score": 36,
-    "pubdate": "2025-09-07-00-03-18 +0000",
+    "score": 38,
+    "pubdate": "2025-09-06-18-06-05 +0000",
+    "source": "bbc",
+    "headline": "Pilot who tried to cut off engine midair after taking mushrooms pleads guilty",
+    "link": "https://www.bbc.com/news/articles/c4gq9n6kwxeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-09-07-17-41-45 +0000",
+    "source": "bbc",
+    "headline": "South Korea reaches deal to release citizens detained in Hyundai raid in US",
+    "link": "https://www.bbc.com/news/articles/cj07jzgve45o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-09-07-16-37-49 +0000",
     "source": "nyt",
-    "headline": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
-    "link": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html"
+    "headline": "Egypt-Israel Tensions Rise Over Attack on Gaza City",
+    "link": "https://www.nytimes.com/2025/09/07/world/middleeast/egypt-israel-gaza-city.html"
   },
   {
     "score": 34,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Authorities Point to Cable Disconnecting in First Report on Lisbon Funicular Crash",
     "link": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-09-07-16-37-49 +0000",
-    "source": "nyt",
-    "headline": "Egypt-Israel Tensions Rise Over Attack on Gaza City",
-    "link": "https://www.nytimes.com/2025/09/07/world/middleeast/egypt-israel-gaza-city.html"
   }
 ]
