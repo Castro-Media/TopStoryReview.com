@@ -21,7 +21,7 @@
     "link": "https://www.bbc.com/news/articles/czx0d71gryzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 131,
+    "score": 130,
     "pubdate": "2025-09-05-02-44-00 +0000",
     "source": "wsj",
     "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
@@ -35,11 +35,11 @@
     "link": "https://www.wsj.com/politics/policy/trump-fed-takeover-stephen-miran-confirmation-1ce92d65"
   },
   {
-    "score": 114,
-    "pubdate": "2025-09-07-08-32-53 +0000",
-    "source": "nypost",
-    "headline": "Russia assaults Ukraine with over 800 drones and decoys, largest such attack in war, killing at least 2",
-    "link": "https://nypost.com/2025/09/07/world-news/russia-assaults-ukraine-with-over-800-drones-and-decoys-the-largest-such-attack-in-the-war/"
+    "score": 108,
+    "pubdate": "2025-09-07-09-34-43 +0000",
+    "source": "cbc",
+    "headline": "Russia's largest air attack on Ukraine sets fire to main government building",
+    "link": "https://www.cbc.ca/news/world/russia-mass-assault-on-ukraine-1.7627307?cmp=rss"
   },
   {
     "score": 98,
@@ -57,16 +57,16 @@
   },
   {
     "score": 88,
+    "pubdate": "2025-09-05-04-03-14 +0000",
+    "source": "nypost",
+    "headline": "Is there a fast-food price war looming? Companies face difficult challenge if they go too high",
+    "link": "https://nypost.com/2025/09/05/business/is-there-a-fast-food-price-war-looming-companies-face-difficult-challenge-if-they-go-too-high/"
+  },
+  {
+    "score": 87,
     "pubdate": "2025-09-05-15-39-10 +0000",
     "source": "nyt",
     "headline": "Angela Rayner, UK Deputy Prime Minister, Resigns After Underpaying Tax",
     "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
-  },
-  {
-    "score": 80,
-    "pubdate": "2025-09-05-23-19-00 +0000",
-    "source": "wsj",
-    "headline": "The IT unemployment rate fell to 4.5% in August from 5.5% the prior month. But there are still fewer jobs available for tech workers, especially those who don’t specialize in AI.",
-    "link": "https://www.wsj.com/articles/it-unemployment-fell-in-august-but-the-tech-jobs-market-is-still-shrinking-e80225e3"
   }
 ]

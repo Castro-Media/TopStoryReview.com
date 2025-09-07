@@ -14,13 +14,6 @@
     "link": "https://www.wsj.com/economy/trade/the-eus-trade-truce-with-the-u-s-is-in-danger-of-unraveling-d8238c07"
   },
   {
-    "score": 53,
-    "pubdate": "2025-09-07-09-34-43 +0000",
-    "source": "cbc",
-    "headline": "Russia's largest air attack on Ukraine sets fire to main government building",
-    "link": "https://www.cbc.ca/news/world/russia-mass-assault-on-ukraine-1.7627307?cmp=rss"
-  },
-  {
     "score": 52,
     "pubdate": "2025-09-06-22-20-46 +0000",
     "source": "nyt",
@@ -28,8 +21,15 @@
     "link": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html"
   },
   {
-    "score": 48,
-    "pubdate": "2025-09-07-09-23-31 +0000",
+    "score": 51,
+    "pubdate": "2025-09-07-09-34-43 +0000",
+    "source": "cbc",
+    "headline": "Russia's largest air attack on Ukraine sets fire to main government building",
+    "link": "https://www.cbc.ca/news/world/russia-mass-assault-on-ukraine-1.7627307?cmp=rss"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-09-07-11-04-30 +0000",
     "source": "nyt",
     "headline": "Prime Minister Shigeru Ishiba of Japan Says He Will Step Down",
     "link": "https://www.nytimes.com/2025/09/07/world/asia/japan-shigeru-ishiba-resign.html"
@@ -42,7 +42,7 @@
     "link": "https://nypost.com/2025/09/06/world-news/israel-issues-evacuation-orders-tells-palestinians-to-flee-for-humanitarian-zone-as-it-targets-more-gaza-city-high-rises/"
   },
   {
-    "score": 40,
+    "score": 41,
     "pubdate": "2025-09-07-10-48-17 +0000",
     "source": "nypost",
     "headline": "Off-duty Alaska Airlines pilot who tried shutting down engines after taking psychedelic mushrooms pleads guilty",
@@ -63,7 +63,7 @@
     "link": "https://nypost.com/2025/09/06/us-news/vance-defends-venezuela-strike-says-best-use-of-military/"
   },
   {
-    "score": 31,
+    "score": 30,
     "pubdate": "2025-09-07-02-45-24 +0000",
     "source": "nyt",
     "headline": "A World War II Dispute Between Ukraine and Poland Is Put to Rest",
