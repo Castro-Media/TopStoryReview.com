@@ -1,6 +1,6 @@
 [
   {
-    "score": 90,
+    "score": 102,
     "pubdate": "2025-09-07-04-24-23 +0000",
     "source": "nypost",
     "headline": "South Korean President vows support to over 300 Koreans arrested in immigration raid at Georgia Hyundai factory",
@@ -14,6 +14,13 @@
     "link": "https://www.wsj.com/economy/trade/the-eus-trade-truce-with-the-u-s-is-in-danger-of-unraveling-d8238c07"
   },
   {
+    "score": 49,
+    "pubdate": "2025-09-06-22-20-46 +0000",
+    "source": "nyt",
+    "headline": "Authorities Point to Cable Disconnecting in First Report on Lisbon Funicular Crash",
+    "link": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html"
+  },
+  {
     "score": 47,
     "pubdate": "2025-09-07-02-52-37 +0000",
     "source": "nypost",
@@ -21,21 +28,14 @@
     "link": "https://nypost.com/2025/09/06/us-news/mamdani-sanders-use-brooklyn-college-event-to-push-pro-palestine-anti-israel-agenda/"
   },
   {
-    "score": 47,
-    "pubdate": "2025-09-06-22-20-46 +0000",
-    "source": "nyt",
-    "headline": "Authorities Point to Cable Disconnecting in First Report on Lisbon Funicular Crash",
-    "link": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html"
-  },
-  {
-    "score": 35,
+    "score": 37,
     "pubdate": "2025-09-07-02-45-24 +0000",
     "source": "nyt",
     "headline": "A World War II Dispute Between Ukraine and Poland Is Put to Rest",
     "link": "https://www.nytimes.com/2025/09/06/world/europe/ukraine-poland-reburial-worldwar.html"
   },
   {
-    "score": 35,
+    "score": 36,
     "pubdate": "2025-09-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "Trump has so far stood by RFK Jr., the health and human services secretary, as he moves to dismantle public health institutions and overhaul U.S. vaccine policy",
@@ -50,17 +50,17 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-09-06-11-52-58 +0000",
-    "source": "bbc",
-    "headline": "'Strange noises' heard before squatter found in house with lights, TV and bed",
-    "link": "https://www.bbc.com/news/articles/c059gqml15go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 35,
     "pubdate": "2025-09-06-18-41-11 +0000",
     "source": "nypost",
     "headline": "LAPD yanks cops off Kamala Harris’ mansion after uproar over diverted patrols",
     "link": "https://nypost.com/2025/09/06/us-news/lapd-pulls-cops-from-kamala-harris-home-security-detail/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-09-06-11-52-58 +0000",
+    "source": "bbc",
+    "headline": "'Strange noises' heard before squatter found in house with lights, TV and bed",
+    "link": "https://www.bbc.com/news/articles/c059gqml15go?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 31,
