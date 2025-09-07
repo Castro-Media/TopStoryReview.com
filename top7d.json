@@ -1,20 +1,20 @@
 [
   {
-    "score": 304,
+    "score": 305,
     "pubdate": "2025-09-04-15-00-00 +0000",
     "source": "wsj",
     "headline": "The BLS will publish its first jobs report Friday since President Trump fired the agency’s leader after she delivered surprisingly lousy news about spring employment",
     "link": "https://www.wsj.com/economy/jobs/jobs-report-august-2025-what-to-know-8ec1e0a3"
   },
   {
-    "score": 152,
+    "score": 162,
     "pubdate": "2025-09-06-15-27-41 +0000",
     "source": "nyt",
     "headline": "South Koreans Are Swept Up in Immigration Raid at Hyundai Plant in Georgia",
     "link": "https://www.nytimes.com/2025/09/05/us/georgia-battery-plant-hyundai-lg-ice-raid.html"
   },
   {
-    "score": 132,
+    "score": 133,
     "pubdate": "2025-09-05-14-25-09 +0000",
     "source": "bbc",
     "headline": "Israel destroys dozens of buildings in Gaza City as new offensive intensifies",
@@ -28,45 +28,45 @@
     "link": "https://www.wsj.com/politics/national-security/did-a-boat-strike-in-caribbean-exceed-trumps-authority-to-use-military-force-828db8c6"
   },
   {
-    "score": 121,
+    "score": 119,
     "pubdate": "2025-09-05-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s sprint to take control of the Federal Reserve played out in a striking split-screen fashion on Thursday, just two weeks before the central bank’s next policy meeting",
     "link": "https://www.wsj.com/politics/policy/trump-fed-takeover-stephen-miran-confirmation-1ce92d65"
   },
   {
-    "score": 105,
+    "score": 114,
     "pubdate": "2025-09-07-08-32-53 +0000",
     "source": "nypost",
     "headline": "Russia assaults Ukraine with over 800 drones and decoys, largest such attack in war, killing at least 2",
     "link": "https://nypost.com/2025/09/07/world-news/russia-assaults-ukraine-with-over-800-drones-and-decoys-the-largest-such-attack-in-the-war/"
   },
   {
-    "score": 99,
-    "pubdate": "2025-09-03-02-20-57 +0000",
-    "source": "bbc",
-    "headline": "Moment Xi, Putin and Kim pose with world leaders at China's military parade",
-    "link": "https://www.bbc.com/news/videos/cly6ylk070zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 97,
+    "score": 98,
     "pubdate": "2025-09-07-03-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump unveiled his EU trade deal, businesses across the bloc thought it would end months of uncertainty. Less than two months on, frustration is growing in Europe.",
     "link": "https://www.wsj.com/economy/trade/the-eus-trade-truce-with-the-u-s-is-in-danger-of-unraveling-d8238c07"
   },
   {
-    "score": 82,
-    "pubdate": "2025-09-04-11-30-00 +0000",
-    "source": "latimes",
-    "headline": "Job cuts hit hard in California as uncertainty and AI rise",
-    "link": "https://www.latimes.com/business/story/2025-09-04/job-cuts-jump-as-ai-and-doge-contribute-to-layoffs"
+    "score": 95,
+    "pubdate": "2025-09-03-02-20-57 +0000",
+    "source": "bbc",
+    "headline": "Moment Xi, Putin and Kim pose with world leaders at China's military parade",
+    "link": "https://www.bbc.com/news/videos/cly6ylk070zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 79,
-    "pubdate": "2025-09-04-16-20-00 +0000",
+    "score": 88,
+    "pubdate": "2025-09-05-15-39-10 +0000",
+    "source": "nyt",
+    "headline": "Angela Rayner, UK Deputy Prime Minister, Resigns After Underpaying Tax",
+    "link": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html"
+  },
+  {
+    "score": 80,
+    "pubdate": "2025-09-05-23-19-00 +0000",
     "source": "wsj",
-    "headline": "President Trump’s campaign to bring the Federal Reserve under White House control faces a major test Thursday when the Senate weighs confirming Stephen Miran to the central bank’s board of governors",
-    "link": "https://www.wsj.com/economy/central-banking/trump-fed-nominee-stephen-miran-hearing-a8255a6b"
+    "headline": "The IT unemployment rate fell to 4.5% in August from 5.5% the prior month. But there are still fewer jobs available for tech workers, especially those who don’t specialize in AI.",
+    "link": "https://www.wsj.com/articles/it-unemployment-fell-in-august-but-the-tech-jobs-market-is-still-shrinking-e80225e3"
   }
 ]
