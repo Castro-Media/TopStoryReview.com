@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 19,
+    "pubdate": "2025-09-07-10-21-00 +0000",
+    "source": "bbc",
+    "headline": "Japan's Prime Minister Shigeru Ishiba resigns after election defeats",
+    "link": "https://www.bbc.com/news/articles/c98edpz2yn9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-07-09-56-14 +0000",
+    "source": "nyt",
+    "headline": "Pope Leo XIV Declares Two Saints, Including Carlo Acutis",
+    "link": "https://www.nytimes.com/2025/09/07/world/europe/carlo-acutis-frassati-pope-leo-saints.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-07-10-48-17 +0000",
+    "source": "nypost",
+    "headline": "Off-duty Alaska Airlines pilot who tried shutting down engines after taking psychedelic mushrooms pleads guilty",
+    "link": "https://nypost.com/2025/09/07/us-news/off-duty-alaska-airlines-pilot-joseph-emerson-who-tried-shutting-down-engines-after-taking-psychedelic-mushrooms-pleads-guilty/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-07-10-30-16 +0000",
+    "source": "wapo",
+    "headline": "Russia’s largest ever drone attack on Ukraine burns Kyiv government building",
+    "link": "https://www.washingtonpost.com/world/2025/09/07/ukraine-russia-attacks-missile-kyiv/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-07-10-01-19 +0000",
+    "source": "nypost",
+    "headline": "Daughter of accused NJ killer Paul Caneiro still haunted by family murders: ‘Everyday is a struggle’",
+    "link": "https://nypost.com/2025/09/07/us-news/accused-nj-killer-paul-caneiros-daughter-still-haunted-by-family-murders/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Finally some fairness in redistricting fight. In Utah, a judge stands up for voters",
+    "link": "https://www.latimes.com/politics/story/2025-09-07/redistricting-fight-utah-california-texas"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-07-10-00-14 +0000",
+    "source": "wapo",
+    "headline": "Rising school costs force some families to choose: Buy pencils or pay bills?",
+    "link": "https://www.washingtonpost.com/nation/2025/09/07/school-supplies-budget-parents/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-09-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "'I lost me': How frontotemporal dementia changed a mind and a marriage",
+    "link": "https://www.latimes.com/science/story/2025-09-07/how-frontotemporal-dementia-changed-a-mind-and-a-marriage"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-07-10-49-31 +0000",
+    "source": "bbc",
+    "headline": "Healey says more military sites could house asylum seekers",
+    "link": "https://www.bbc.com/news/articles/c5yvxergw4xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-07-10-00-00 +0000",
+    "source": "wapo",
+    "headline": "Why companies are laying off so many workers and slowing hiring",
+    "link": "https://www.washingtonpost.com/business/2025/09/07/layoffs-hiring-slowdown/"
+  }
+]
