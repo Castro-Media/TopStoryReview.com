@@ -1,9 +1,45 @@
 [
   {
-    "headline": "Baby among two killed in Russian drone attack on Kyiv, officials say",
+    "headline": "Japan Prime Minister Shigeru Ishiba decides to resign, NHK says",
+    "link": "https://nypost.com/2025/09/07/world-news/japan-prime-minister-shigeru-ishiba-decides-to-resign-from-office/",
+    "source": "nypost",
+    "pubdate": "2025-09-07-06-37-55 +0000"
+  },
+  {
+    "headline": "Ukrainian government building ablaze after Russian drone, missile attacks",
+    "link": "https://www.washingtonpost.com/world/2025/09/07/ukraine-russia-attacks-missile-kyiv/",
+    "source": "wapo",
+    "pubdate": "2025-09-07-06-30-55 +0000"
+  },
+  {
+    "headline": "Ukraine's main government building in Kyiv hit for first time, PM says",
     "link": "https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-07-05-07-51 +0000"
+    "pubdate": "2025-09-07-06-25-39 +0000"
+  },
+  {
+    "headline": "Pope Leo set to canonize Carlo Acutis, the teen deemed ‘God’s Influencer’",
+    "link": "https://www.washingtonpost.com/world/2025/09/07/influencer-saint-carlo-acutis-pope-leo/",
+    "source": "wapo",
+    "pubdate": "2025-09-07-06-12-15 +0000"
+  },
+  {
+    "headline": "One of America's most wanted evaded the FBI for 21 years - only to be found in Wales",
+    "link": "https://www.bbc.com/news/articles/ckgjpn8gl97o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-07-06-08-20 +0000"
+  },
+  {
+    "headline": "One of America's most wanted evaded the FBI for 21 years - only to be found in Wales",
+    "link": "https://www.bbc.com/news/articles/ckgjpn8gl97o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-07-06-08-20 +0000"
+  },
+  {
+    "headline": "Sanctions on Palestinian rights groups expand Trump’s fight with ICC",
+    "link": "https://www.washingtonpost.com/world/2025/09/07/trump-sanctions-palestinian-israel-icc/",
+    "source": "wapo",
+    "pubdate": "2025-09-07-06-00-03 +0000"
   },
   {
     "headline": "Stephen King predicts Trump supporters will deny voting for him 20 years as White House fires back with a zinger",
@@ -28,12 +64,6 @@
     "link": "https://www.washingtonpost.com/nation/2025/09/07/ice-boston-massachusetts-operation-patriot/",
     "source": "wapo",
     "pubdate": "2025-09-07-04-46-59 +0000"
-  },
-  {
-    "headline": "Pope Leo set to canonize Carlo Acutis, the teen deemed ‘God’s Influencer’",
-    "link": "https://www.washingtonpost.com/world/2025/09/07/influencer-saint-carlo-acutis-pope-leo/",
-    "source": "wapo",
-    "pubdate": "2025-09-07-04-28-20 +0000"
   },
   {
     "headline": "Powerball players win historic $1.79B jackpot, ending three-month drought",
@@ -496,18 +526,6 @@
     "link": "https://nypost.com/2025/09/06/us-news/vance-defends-venezuela-strike-says-best-use-of-military/",
     "source": "nypost",
     "pubdate": "2025-09-06-21-07-36 +0000"
-  },
-  {
-    "headline": "One of America's most wanted evaded the FBI for 21 years - only to be found in Wales",
-    "link": "https://www.bbc.com/news/articles/ckgjpn8gl97o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-06-21-00-17 +0000"
-  },
-  {
-    "headline": "One of America's most wanted evaded the FBI for 21 years - only to be found in Wales",
-    "link": "https://www.bbc.com/news/articles/ckgjpn8gl97o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-06-21-00-17 +0000"
   },
   {
     "headline": "With ‘Christy,’ Can Sydney Sweeney Rebrand as a Serious Actress?",
@@ -1468,23 +1486,5 @@
     "link": "https://www.nytimes.com/2025/09/06/style/venice-film-festival-red-carpet-2025-best-dressed.html",
     "source": "nyt",
     "pubdate": "2025-09-06-07-00-11 +0000"
-  },
-  {
-    "headline": "Reform supporters' top priorities if party gains power",
-    "link": "https://www.bbc.com/news/videos/c9dxy42vnwlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-06-06-23-39 +0000"
-  },
-  {
-    "headline": "American Who Posed as Irish Heiress Is Found Guilty of Theft and Fraud",
-    "link": "https://www.nytimes.com/2025/09/05/world/europe/fake-heiress-fraud-guilty-northern-ireland.html",
-    "source": "nyt",
-    "pubdate": "2025-09-06-06-07-59 +0000"
-  },
-  {
-    "headline": "American Who Posed as Irish Heiress Is Found Guilty of Theft and Fraud",
-    "link": "https://www.nytimes.com/2025/09/05/world/europe/fake-heiress-fraud-guilty-northern-ireland.html",
-    "source": "nyt",
-    "pubdate": "2025-09-06-06-07-59 +0000"
   }
 ]
