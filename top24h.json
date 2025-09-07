@@ -28,25 +28,18 @@
     "link": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html"
   },
   {
-    "score": 39,
+    "score": 35,
     "pubdate": "2025-09-07-02-45-24 +0000",
     "source": "nyt",
     "headline": "A World War II Dispute Between Ukraine and Poland Is Put to Rest",
     "link": "https://www.nytimes.com/2025/09/06/world/europe/ukraine-poland-reburial-worldwar.html"
   },
   {
-    "score": 38,
+    "score": 35,
     "pubdate": "2025-09-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "Trump has so far stood by RFK Jr., the health and human services secretary, as he moves to dismantle public health institutions and overhaul U.S. vaccine policy",
     "link": "https://www.wsj.com/politics/policy/trump-said-rfk-jr-could-go-wild-the-health-secretary-is-testing-the-limits-e118dc87"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-09-06-18-41-11 +0000",
-    "source": "nypost",
-    "headline": "LAPD yanks cops off Kamala Harris’ mansion after uproar over diverted patrols",
-    "link": "https://nypost.com/2025/09/06/us-news/lapd-pulls-cops-from-kamala-harris-home-security-detail/"
   },
   {
     "score": 35,
@@ -63,10 +56,17 @@
     "link": "https://www.bbc.com/news/articles/c059gqml15go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 30,
-    "pubdate": "2025-09-06-22-35-02 +0000",
-    "source": "nyt",
-    "headline": "Air Canada Flight Attendants Overwhelmingly Reject Proposed Contract",
-    "link": "https://www.nytimes.com/2025/09/06/world/canada/air-canada-union-strike-contract.html"
+    "score": 35,
+    "pubdate": "2025-09-06-18-41-11 +0000",
+    "source": "nypost",
+    "headline": "LAPD yanks cops off Kamala Harris’ mansion after uproar over diverted patrols",
+    "link": "https://nypost.com/2025/09/06/us-news/lapd-pulls-cops-from-kamala-harris-home-security-detail/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-09-07-07-41-25 +0000",
+    "source": "bbc",
+    "headline": "Watch: BBC at the scene of Ukrainian government building strike",
+    "link": "https://www.bbc.com/news/videos/cy04lx67e1eo?at_medium=RSS&at_campaign=rss"
   }
 ]
