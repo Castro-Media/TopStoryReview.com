@@ -1,212 +1,158 @@
 [
   {
-    "headline": "Milei’s Election Setback Rattles Markets in Argentina",
-    "link": "https://www.wsj.com/world/americas/mileis-election-setback-rattles-markets-in-argentina-d4d1e7d3",
+    "headline": "Employment Survey Weakens, Adding to Signs of Faltering Labor Market",
+    "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5",
     "source": "wsj",
-    "pubdate": "2025-09-08-14-51-00 +0000"
+    "pubdate": "2025-09-08-15-49-00 +0000"
   },
   {
-    "headline": "Hurricane Kiko rolls closer to Hawaii as residents brace for life-threatening rip currents",
-    "link": "https://nypost.com/2025/09/08/us-news/hurricane-kiko-rolls-closer-to-hawaii-as-residents-brace-for-life-threatening-rip-currents/",
-    "source": "nypost",
-    "pubdate": "2025-09-08-14-44-22 +0000"
-  },
-  {
-    "headline": "At Least 12 Are Killed in Nepal in Protests Over Social Media Ban",
-    "link": "https://www.nytimes.com/2025/09/08/world/asia/nepal-protests-gen-z-social-media.html",
+    "headline": "DJI’s Chinese Drones Face U.S. Ban",
+    "link": "https://www.nytimes.com/2025/09/08/business/dji-chinese-drones-ban.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-14-44-01 +0000"
+    "pubdate": "2025-09-08-15-48-33 +0000"
   },
   {
-    "headline": "At Least 12 Are Killed in Nepal in Protests Over Social Media Ban",
-    "link": "https://www.nytimes.com/2025/09/08/world/asia/nepal-protests-gen-z-social-media.html",
+    "headline": "In the Battle for Congress, Working-Class Democrats Try a Hardscrabble Pitch",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/in-the-battle-for-congress-working-class-democrats-try-a-hardscrabble-pitch.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-14-44-01 +0000"
+    "pubdate": "2025-09-08-15-44-54 +0000"
   },
   {
-    "headline": "Jaguar Land Rover extends shutdown after cyber attack",
-    "link": "https://www.bbc.com/news/articles/c15k9gjg05go?at_medium=RSS&at_campaign=rss",
+    "headline": "In the Battle for Congress, Working-Class Democrats Try a Hardscrabble Pitch",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/in-the-battle-for-congress-working-class-democrats-try-a-hardscrabble-pitch.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-15-44-54 +0000"
+  },
+  {
+    "headline": "Baby snatched at knifepoint by father and grandparents rescued in Arizona, authorities say",
+    "link": "https://www.latimes.com/california/story/2025-09-08/baby-snatched-knifepoint-recovered-arizona",
+    "source": "latimes",
+    "pubdate": "2025-09-08-15-41-32 +0000"
+  },
+  {
+    "headline": "At Least Six Killed in Jerusalem Shooting Attack",
+    "link": "https://www.wsj.com/world/middle-east/jerusalem-shooting-attack-updates-079d3b49",
+    "source": "wsj",
+    "pubdate": "2025-09-08-15-38-00 +0000"
+  },
+  {
+    "headline": "Musk's SpaceX buys $17 billion in wireless spectrum to boost cellular service",
+    "link": "https://www.latimes.com/business/story/2025-09-08/musks-spacex-buys-17-billion-in-wireless-spectrum-to-boost-satellite-network",
+    "source": "latimes",
+    "pubdate": "2025-09-08-15-35-50 +0000"
+  },
+  {
+    "headline": "McDonald rules herself out of Irish presidential election",
+    "link": "https://www.bbc.com/news/articles/cvgv708jzj4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-08-14-43-12 +0000"
+    "pubdate": "2025-09-08-15-33-54 +0000"
   },
   {
-    "headline": "Curtis Sliwa’s wife Nancy promotes him for NYC mayor in first, $350K TV ad buy",
-    "link": "https://nypost.com/2025/09/08/us-news/curtis-sliwas-wife-nancy-promotes-him-for-nyc-mayor-in-first-350k-tv-ad-buy/",
-    "source": "nypost",
-    "pubdate": "2025-09-08-14-39-27 +0000"
+    "headline": "Lumber Prices Are Flashing a Warning Sign for the U.S. Economy",
+    "link": "https://www.wsj.com/finance/commodities-futures/lumber-prices-are-flashing-a-warning-sign-for-the-u-s-economy-2119c5dc?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-08-15-33-00 +0000"
   },
   {
-    "headline": "Curtis Sliwa’s wife Nancy promotes him for NYC mayor in first, $350K TV ad buy",
-    "link": "https://nypost.com/2025/09/08/us-news/curtis-sliwas-wife-nancy-promotes-him-for-nyc-mayor-in-first-350k-tv-ad-buy/",
-    "source": "nypost",
-    "pubdate": "2025-09-08-14-39-27 +0000"
+    "headline": "Appeals Court Upholds $83 Million Defamation Judgment Against Trump",
+    "link": "https://www.wsj.com/us-news/law/trump-e-jean-carroll-case-appeal-5acce6db",
+    "source": "wsj",
+    "pubdate": "2025-09-08-15-31-00 +0000"
   },
   {
-    "headline": "How the coup trial of Jair Bolsonaro has divided Brazil",
-    "link": "https://www.bbc.com/news/articles/cn4wx9zlpj5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-14-37-59 +0000"
+    "headline": "China’s Exports to Africa Are Soaring as Trade to U.S. Plunges",
+    "link": "https://www.nytimes.com/2025/09/08/business/china-exports-africa.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-15-30-10 +0000"
+  },
+  {
+    "headline": "China’s Exports to Africa Are Soaring as Trade to U.S. Plunges",
+    "link": "https://www.nytimes.com/2025/09/08/business/china-exports-africa.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-15-30-10 +0000"
   },
   {
     "headline": "UK could suspend visas for countries with no migrant return deals",
     "link": "https://www.bbc.com/news/articles/c4g7xyn03yno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-08-14-35-14 +0000"
+    "pubdate": "2025-09-08-15-27-45 +0000"
   },
   {
-    "headline": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-14-34-38 +0000"
-  },
-  {
-    "headline": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-14-34-38 +0000"
-  },
-  {
-    "headline": "New York AG will fight Texas over abortion pills in ‘shield’ law challenge",
-    "link": "https://www.washingtonpost.com/nation/2025/09/08/abortion-pills-shield-texas-new-york/",
-    "source": "wapo",
-    "pubdate": "2025-09-08-14-32-30 +0000"
-  },
-  {
-    "headline": "France poised to oust another prime minister, deepening Macron’s troubles",
-    "link": "https://www.washingtonpost.com/world/2025/09/08/france-no-confidence-vote-macron/",
-    "source": "wapo",
-    "pubdate": "2025-09-08-14-30-58 +0000"
-  },
-  {
-    "headline": "Pint-sized Auburn veterinary prof hacked to death by fiend while walking her dog in the park",
-    "link": "https://nypost.com/2025/09/08/us-news/auburn-vet-prof-julie-schnuelle-hacked-to-death-in-alabama-park/",
-    "source": "nypost",
-    "pubdate": "2025-09-08-14-29-12 +0000"
-  },
-  {
-    "headline": "Trump Administration, Again, Asks Supreme Court to Let It Block Foreign Aid",
-    "link": "https://www.nytimes.com/2025/09/08/us/politics/trump-supreme-court-foreign-aid.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-14-27-06 +0000"
-  },
-  {
-    "headline": "Trump Administration, Again, Asks Supreme Court to Let It Block Foreign Aid",
-    "link": "https://www.nytimes.com/2025/09/08/us/politics/trump-supreme-court-foreign-aid.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-14-27-06 +0000"
-  },
-  {
-    "headline": "Another New Hampshire man gets a pig kidney as transplant trials are poised to start",
-    "link": "https://nypost.com/2025/09/08/health/another-new-hampshire-man-gets-a-pig-kidney-as-transplant-trials-are-poised-to-start/",
-    "source": "nypost",
-    "pubdate": "2025-09-08-14-26-15 +0000"
-  },
-  {
-    "headline": "New Banksy Work Seen as Comment on Crackdown on Palestine Action Supporters",
-    "link": "https://www.nytimes.com/2025/09/08/world/europe/new-banksy-rcj-palestine-action-uk-protests.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-14-25-34 +0000"
-  },
-  {
-    "headline": "New Banksy Work Seen as Comment on Crackdown on Palestine Action Supporters",
-    "link": "https://www.nytimes.com/2025/09/08/world/europe/new-banksy-rcj-palestine-action-uk-protests.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-14-25-34 +0000"
-  },
-  {
-    "headline": "Brendan Carr Channeling Trump’s Showman Instincts to Overhaul FCC",
-    "link": "https://www.wsj.com/business/media/brendan-carr-fcc-chairman-3565c857?mod=pls_whats_news_us_business_f",
+    "headline": "Milei’s Election Setback Rattles Markets in Argentina",
+    "link": "https://www.wsj.com/world/americas/mileis-election-setback-rattles-markets-in-argentina-d4d1e7d3",
     "source": "wsj",
-    "pubdate": "2025-09-08-14-23-00 +0000"
+    "pubdate": "2025-09-08-15-27-00 +0000"
   },
   {
-    "headline": "How four-year hunt for NZ dad on the run with his children unfolded",
-    "link": "https://www.bbc.com/news/articles/cly0279yervo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-14-19-33 +0000"
-  },
-  {
-    "headline": "At least 19 dead in Nepal in protests sparked by social media ban",
-    "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-14-18-24 +0000"
-  },
-  {
-    "headline": "At least 19 dead in Nepal after Gen Z protests at corruption and social media ban",
-    "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-14-18-24 +0000"
-  },
-  {
-    "headline": "Fugitive dad killed in police shootout after years on the run with 3 kids",
-    "link": "https://www.washingtonpost.com/world/2025/09/08/tom-phillips-new-zealand-fugitive/",
-    "source": "wapo",
-    "pubdate": "2025-09-08-14-17-43 +0000"
-  },
-  {
-    "headline": "Maryland Democrat governor reveals if he’s going to run for president",
-    "link": "https://nypost.com/2025/09/08/us-news/maryland-democrat-reveals-whether-hell-run-for-president-in-2028/",
-    "source": "nypost",
-    "pubdate": "2025-09-08-14-16-28 +0000"
-  },
-  {
-    "headline": "Juggling Congress and Life, She Opted to Freeze Her Eggs",
-    "link": "https://www.nytimes.com/2025/09/08/us/politics/sara-jacobs-egg-freezing-pregnancy-bill.html",
+    "headline": "London’s Commuters Wrestle With a Massive Tube Strike: ‘It’s Just Annoying’",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/london-tube-strike-voices.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-14-09-14 +0000"
+    "pubdate": "2025-09-08-15-23-37 +0000"
   },
   {
-    "headline": "Juggling Congress and Life, She Opted to Freeze Her Eggs",
-    "link": "https://www.nytimes.com/2025/09/08/us/politics/sara-jacobs-egg-freezing-pregnancy-bill.html",
+    "headline": "London’s Commuters Wrestle With a Massive Tube Strike: ‘It’s Just Annoying’",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/london-tube-strike-voices.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-14-09-14 +0000"
+    "pubdate": "2025-09-08-15-23-37 +0000"
   },
   {
-    "headline": "Police in Nepal open fire on protesters outside parliament, killing 17 amid social media ban",
-    "link": "https://nypost.com/2025/09/08/world-news/police-in-nepal-open-fire-on-protesters-outside-parliament-killing-11/",
-    "source": "nypost",
-    "pubdate": "2025-09-08-14-06-44 +0000"
-  },
-  {
-    "headline": "States Face Off Ferociously Over Abortion Shield Laws",
+    "headline": "States Heading Toward Constitutional Showdown Over Abortion Shield Laws",
     "link": "https://www.nytimes.com/2025/09/08/health/abortion-shield-laws.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-14-00-11 +0000"
+    "pubdate": "2025-09-08-15-20-40 +0000"
   },
   {
-    "headline": "Financial Bubbles Happen Less Often Than You Think",
-    "link": "https://www.wsj.com/finance/investing/market-bubble-history-f6b3487b?mod=rss_markets_main",
+    "headline": "Trump fails to overturn E. Jean Carroll’s $83 million verdict",
+    "link": "https://nypost.com/2025/09/08/us-news/trump-fails-to-overturn-e-jean-carrolls-83-million-verdict/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-15-19-18 +0000"
+  },
+  {
+    "headline": "SpaceX’s $17 Billion Deal Plunges Musk Deeper Into Wireless Market",
+    "link": "https://www.wsj.com/business/telecom/spacex-agrees-to-buy-wireless-airwaves-in-17-billion-deal-5ab4ba55?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-09-08-14-00-00 +0000"
+    "pubdate": "2025-09-08-15-14-00 +0000"
   },
   {
-    "headline": "A Tax Strategy Peddled to the Rich Comes Under Federal Scrutiny",
-    "link": "https://www.wsj.com/us-news/law/a-tax-strategy-peddled-to-the-rich-comes-under-federal-scrutiny-ee013e82?mod=rss_markets_main",
+    "headline": "SpaceX’s $17 Billion Deal Plunges Musk Deeper Into Wireless Market",
+    "link": "https://www.wsj.com/business/telecom/spacex-agrees-to-buy-wireless-airwaves-in-17-billion-deal-5ab4ba55?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-09-08-14-00-00 +0000"
+    "pubdate": "2025-09-08-15-14-00 +0000"
   },
   {
-    "headline": "A Tax Strategy Peddled to the Rich Comes Under Federal Scrutiny",
-    "link": "https://www.wsj.com/us-news/law/a-tax-strategy-peddled-to-the-rich-comes-under-federal-scrutiny-ee013e82",
+    "headline": "Elon Musk’s SpaceX to pay $17B to EchoStar for wireless licenses to boost Starlink network",
+    "link": "https://nypost.com/2025/09/08/business/elon-musks-spacex-to-pay-17b-for-wireless-licenses-from-echostar/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-15-12-31 +0000"
+  },
+  {
+    "headline": "Gunmen kill 6 in shooting attack at Jerusalem bus stop, police say",
+    "link": "https://www.washingtonpost.com/world/2025/09/08/jerusalem-bus-shooting-israel/",
+    "source": "wapo",
+    "pubdate": "2025-09-08-15-10-08 +0000"
+  },
+  {
+    "headline": "Special education school staffer charged after video showed her having sex with teen student: cops",
+    "link": "https://nypost.com/2025/09/08/us-news/staffer-at-special-education-school-charged-with-sex-with-student/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-15-08-54 +0000"
+  },
+  {
+    "headline": "Federal Prosecutors Charge Financier Who Offered ‘Guaranteed’ High Yields",
+    "link": "https://www.wsj.com/finance/investing/federal-prosecutors-charge-financier-who-offered-guaranteed-high-yields-fa9592c6?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2025-09-08-14-00-00 +0000"
+    "pubdate": "2025-09-08-15-08-00 +0000"
   },
   {
-    "headline": "Justice Barrett Declares Her Independence Ahead of Trump-Dominated Term",
-    "link": "https://www.wsj.com/us-news/law/amy-coney-barrett-supreme-court-listening-to-the-law-book-d9497be7",
-    "source": "wsj",
-    "pubdate": "2025-09-08-14-00-00 +0000"
+    "headline": "Rayner replacement for deputy leader must be a woman, says Harman",
+    "link": "https://www.bbc.com/news/articles/c059z4g836eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-14-56-51 +0000"
   },
   {
-    "headline": "My Employer Changed Hate Speech Policy That Protected Trans People. What Can I Do?",
-    "link": "https://www.nytimes.com/2025/09/06/business/hate-speech-protections-rolled-back.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-13-59-52 +0000"
-  },
-  {
-    "headline": "A New, ‘Adorable’ Deep-Sea Fish Swims Into View",
-    "link": "https://www.nytimes.com/2025/09/08/science/fish-ocean-deep-sea.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-13-54-45 +0000"
+    "headline": "Trump demands foreign firms in US ‘hire and train’ Americans — as ICE raid on Hyundai jolts Korean companies",
+    "link": "https://nypost.com/2025/09/08/business/trump-demands-foreign-firms-in-us-hire-and-train-americans/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-55-27 +0000"
   }
 ]
