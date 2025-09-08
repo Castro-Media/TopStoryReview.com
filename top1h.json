@@ -1,58 +1,65 @@
 [
   {
-    "score": 17,
-    "pubdate": "2025-09-08-05-17-27 +0000",
-    "source": "nypost",
-    "headline": "Elderly California jewelry store owner assaulted by gang of masked thieves during smash-and-grab robbery: ‘Made my blood boil’",
-    "link": "https://nypost.com/2025/09/08/us-news/california-jewelry-store-owner-88-assaulted-by-gang-of-masked-thieves-during-smash-and-grab-robbery/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-08-05-35-42 +0000",
+    "score": 16,
+    "pubdate": "2025-09-08-06-37-03 +0000",
     "source": "nyt",
-    "headline": "Why France’s Financial Woes Are Pushing Its Government to the Brink",
-    "link": "https://www.nytimes.com/2025/09/07/business/france-government-collapse-economy.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-08-05-12-14 +0000",
-    "source": "bbc",
-    "headline": "'Suitcase murder' trial begins in New Zealand",
-    "link": "https://www.bbc.com/news/articles/cn83jjx9pjvo?at_medium=RSS&at_campaign=rss"
+    "headline": "Millions of Londoners Face Transit Disruption as Tube Strike Begins",
+    "link": "https://www.nytimes.com/2025/09/07/world/europe/london-tube-strike.html"
   },
   {
     "score": 10,
-    "pubdate": "2025-09-08-05-12-07 +0000",
+    "pubdate": "2025-09-08-06-13-00 +0000",
+    "source": "wsj",
+    "headline": "ECB Expected to Stay on Hold, Give Little Guidance on Future Rate Path",
+    "link": "https://www.wsj.com/articles/ecb-expected-to-stay-on-hold-give-little-guidance-on-future-rate-path-4ed6e71b"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-08-06-05-13 +0000",
     "source": "latimes",
-    "headline": "David Baltimore, Nobel Prize-winning scientist and former Caltech president, dies at 87",
-    "link": "https://www.latimes.com/obituaries/story/2025-09-07/david-baltimore-nobel-prize-caltech-dead"
+    "headline": "Garnet fire, burning near sequoias, turns 'dynamic,' scorches 10,000 more acres",
+    "link": "https://www.latimes.com/environment/story/2025-09-07/firefighters-hold-the-line-garnet-fire-sierras-amid-a-day-of-dynamic-fire-activity"
   },
   {
-    "score": 7,
-    "pubdate": "2025-09-08-05-33-58 +0000",
-    "source": "wapo",
-    "headline": "Australian woman gets life in prison for ‘mushroom murders’",
-    "link": "https://www.washingtonpost.com/world/2025/09/08/mushroom-murder-erin-patterson-life-sentence/"
+    "score": 9,
+    "pubdate": "2025-09-08-06-21-00 +0000",
+    "source": "nypost",
+    "headline": "Speeding ‘Phantom Ferrari driver’ finally nabbed after 6 years of evading Czech authorities",
+    "link": "https://nypost.com/2025/09/08/us-news/speeding-phantom-ferrari-driver-finally-nabbed-after-6-years-of-evading-czech-authorities/"
   },
   {
-    "score": 7,
-    "pubdate": "2025-09-08-05-02-40 +0000",
+    "score": 8,
+    "pubdate": "2025-09-08-06-47-17 +0000",
     "source": "bbc",
-    "headline": "Huge drugs bust reveals battles on cocaine 'superhighway'",
-    "link": "https://www.bbc.com/news/articles/c5yvplyrrwno?at_medium=RSS&at_campaign=rss"
+    "headline": "Tight vote in Norway to decide whether to stick with Labour or turn right",
+    "link": "https://www.bbc.com/news/articles/c701382e994o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-08-06-27-28 +0000",
+    "source": "bbc",
+    "headline": "South Korean officials will travel to US to secure return of detained workers",
+    "link": "https://www.bbc.com/news/articles/cx2plmxm4r3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-08-06-22-19 +0000",
+    "source": "bbc",
+    "headline": "Spurs 'not for sale' as owner rejects buyout interest",
+    "link": "https://www.bbc.com/news/articles/cy04l6dr687o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-09-08-06-47-00 +0000",
+    "source": "wsj",
+    "headline": "German Exports to U.S. Fall to Lowest Since 2021",
+    "link": "https://www.wsj.com/economy/trade/german-exports-to-u-s-fall-to-lowest-since-2021-e50e6c0e"
   },
   {
     "score": 0,
-    "pubdate": "2025-09-08-05-35-42 +0000",
+    "pubdate": "2025-09-08-06-37-03 +0000",
     "source": "nyt",
-    "headline": "Why France’s Financial Woes Are Pushing Its Government to the Brink",
-    "link": "https://www.nytimes.com/2025/09/07/business/france-government-collapse-economy.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-08-05-12-14 +0000",
-    "source": "bbc",
-    "headline": "'Suitcase murder' trial begins in New Zealand",
-    "link": "https://www.bbc.com/news/articles/cn83jjx9pjvo?at_medium=RSS&at_campaign=rss"
+    "headline": "Millions of Londoners Face Transit Disruption as Tube Strike Begins",
+    "link": "https://www.nytimes.com/2025/09/07/world/europe/london-tube-strike.html"
   }
 ]
