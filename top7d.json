@@ -1,6 +1,6 @@
 [
   {
-    "score": 335,
+    "score": 334,
     "pubdate": "2025-09-07-12-19-07 +0000",
     "source": "nypost",
     "headline": "South Korean workers arrested in ICE raid at Georgia Hyundai plant set to be freed after deal with Trump admin",
@@ -21,7 +21,7 @@
     "link": "https://www.cbc.ca/news/world/russia-mass-assault-on-ukraine-1.7627307?cmp=rss"
   },
   {
-    "score": 128,
+    "score": 127,
     "pubdate": "2025-09-05-02-44-00 +0000",
     "source": "wsj",
     "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
@@ -29,24 +29,17 @@
   },
   {
     "score": 121,
-    "pubdate": "2025-09-08-15-49-37 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court upholds 'roving patrols' for immigration stops in Los Angeles",
-    "link": "https://www.latimes.com/politics/story/2025-09-08/supreme-court-immigration-stops-los-angeles"
-  },
-  {
-    "score": 117,
-    "pubdate": "2025-09-05-21-41-53 +0000",
-    "source": "nyt",
-    "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
-    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
-  },
-  {
-    "score": 107,
-    "pubdate": "2025-09-04-15-00-00 +0000",
+    "pubdate": "2025-09-08-16-51-00 +0000",
     "source": "wsj",
-    "headline": "The BLS will publish its first jobs report Friday since President Trump fired the agency’s leader after she delivered surprisingly lousy news about spring employment",
-    "link": "https://www.wsj.com/economy/jobs/jobs-report-august-2025-what-to-know-8ec1e0a3"
+    "headline": "Supreme Court Lifts Limits on Immigration Raids in Los Angeles",
+    "link": "https://www.wsj.com/us-news/law/supreme-court-lifts-limits-on-immigration-enforcement-tactics-in-los-angeles-327f4922"
+  },
+  {
+    "score": 116,
+    "pubdate": "2025-09-05-15-18-34 +0000",
+    "source": "nyt",
+    "headline": "After Boat Strike, Rubio Says U.S. Will Help Other Nations ‘Blow Up’ Crime Groups",
+    "link": "https://www.nytimes.com/2025/09/04/world/americas/rubio-ecuador-crime-groups-boat-strike.html"
   },
   {
     "score": 105,
@@ -56,6 +49,13 @@
     "link": "https://www.cbc.ca/news/world/nepal-deadly-protests-1.7627595?cmp=rss"
   },
   {
+    "score": 101,
+    "pubdate": "2025-09-08-11-46-03 +0000",
+    "source": "nypost",
+    "headline": "Israel threatens to destroy Gaza City in a ‘mighty hurricane’ of strikes: ‘This is a final warning’",
+    "link": "https://nypost.com/2025/09/08/world-news/israel-threatens-to-destroy-gaza-city-in-a-mighty-hurricane-of-strikes/"
+  },
+  {
     "score": 91,
     "pubdate": "2025-09-07-01-00-00 +0000",
     "source": "wsj",
@@ -63,10 +63,10 @@
     "link": "https://www.wsj.com/politics/policy/trump-said-rfk-jr-could-go-wild-the-health-secretary-is-testing-the-limits-e118dc87"
   },
   {
-    "score": 78,
-    "pubdate": "2025-09-05-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "China-backed hackers 'almost certainly' targeted Canada during theft of millions of Americans' data",
-    "link": "https://www.cbc.ca/news/politics/salt-typhoon-canada-cyber-security-1.7625122?cmp=rss"
+    "score": 85,
+    "pubdate": "2025-09-04-15-00-00 +0000",
+    "source": "wsj",
+    "headline": "The BLS will publish its first jobs report Friday since President Trump fired the agency’s leader after she delivered surprisingly lousy news about spring employment",
+    "link": "https://www.wsj.com/economy/jobs/jobs-report-august-2025-what-to-know-8ec1e0a3"
   }
 ]
