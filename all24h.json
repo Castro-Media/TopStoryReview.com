@@ -1,9 +1,333 @@
 [
   {
+    "headline": "Milei’s Election Setback Rattles Markets in Argentina",
+    "link": "https://www.wsj.com/world/americas/mileis-election-setback-rattles-markets-in-argentina-d4d1e7d3",
+    "source": "wsj",
+    "pubdate": "2025-09-08-14-51-00 +0000"
+  },
+  {
+    "headline": "Hurricane Kiko rolls closer to Hawaii as residents brace for life-threatening rip currents",
+    "link": "https://nypost.com/2025/09/08/us-news/hurricane-kiko-rolls-closer-to-hawaii-as-residents-brace-for-life-threatening-rip-currents/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-44-22 +0000"
+  },
+  {
+    "headline": "At Least 12 Are Killed in Nepal in Protests Over Social Media Ban",
+    "link": "https://www.nytimes.com/2025/09/08/world/asia/nepal-protests-gen-z-social-media.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-44-01 +0000"
+  },
+  {
+    "headline": "At Least 12 Are Killed in Nepal in Protests Over Social Media Ban",
+    "link": "https://www.nytimes.com/2025/09/08/world/asia/nepal-protests-gen-z-social-media.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-44-01 +0000"
+  },
+  {
+    "headline": "Jaguar Land Rover extends shutdown after cyber attack",
+    "link": "https://www.bbc.com/news/articles/c15k9gjg05go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-14-43-12 +0000"
+  },
+  {
+    "headline": "Curtis Sliwa’s wife Nancy promotes him for NYC mayor in first, $350K TV ad buy",
+    "link": "https://nypost.com/2025/09/08/us-news/curtis-sliwas-wife-nancy-promotes-him-for-nyc-mayor-in-first-350k-tv-ad-buy/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-39-27 +0000"
+  },
+  {
+    "headline": "Curtis Sliwa’s wife Nancy promotes him for NYC mayor in first, $350K TV ad buy",
+    "link": "https://nypost.com/2025/09/08/us-news/curtis-sliwas-wife-nancy-promotes-him-for-nyc-mayor-in-first-350k-tv-ad-buy/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-39-27 +0000"
+  },
+  {
+    "headline": "How the coup trial of Jair Bolsonaro has divided Brazil",
+    "link": "https://www.bbc.com/news/articles/cn4wx9zlpj5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-14-37-59 +0000"
+  },
+  {
+    "headline": "UK could suspend visas for countries with no migrant return deals",
+    "link": "https://www.bbc.com/news/articles/c4g7xyn03yno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-14-35-14 +0000"
+  },
+  {
+    "headline": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-34-38 +0000"
+  },
+  {
+    "headline": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-34-38 +0000"
+  },
+  {
+    "headline": "New York AG will fight Texas over abortion pills in ‘shield’ law challenge",
+    "link": "https://www.washingtonpost.com/nation/2025/09/08/abortion-pills-shield-texas-new-york/",
+    "source": "wapo",
+    "pubdate": "2025-09-08-14-32-30 +0000"
+  },
+  {
+    "headline": "France poised to oust another prime minister, deepening Macron’s troubles",
+    "link": "https://www.washingtonpost.com/world/2025/09/08/france-no-confidence-vote-macron/",
+    "source": "wapo",
+    "pubdate": "2025-09-08-14-30-58 +0000"
+  },
+  {
+    "headline": "Pint-sized Auburn veterinary prof hacked to death by fiend while walking her dog in the park",
+    "link": "https://nypost.com/2025/09/08/us-news/auburn-vet-prof-julie-schnuelle-hacked-to-death-in-alabama-park/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-29-12 +0000"
+  },
+  {
+    "headline": "Trump Administration, Again, Asks Supreme Court to Let It Block Foreign Aid",
+    "link": "https://www.nytimes.com/2025/09/08/us/politics/trump-supreme-court-foreign-aid.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-27-06 +0000"
+  },
+  {
+    "headline": "Trump Administration, Again, Asks Supreme Court to Let It Block Foreign Aid",
+    "link": "https://www.nytimes.com/2025/09/08/us/politics/trump-supreme-court-foreign-aid.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-27-06 +0000"
+  },
+  {
+    "headline": "Another New Hampshire man gets a pig kidney as transplant trials are poised to start",
+    "link": "https://nypost.com/2025/09/08/health/another-new-hampshire-man-gets-a-pig-kidney-as-transplant-trials-are-poised-to-start/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-26-15 +0000"
+  },
+  {
+    "headline": "New Banksy Work Seen as Comment on Crackdown on Palestine Action Supporters",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/new-banksy-rcj-palestine-action-uk-protests.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-25-34 +0000"
+  },
+  {
+    "headline": "New Banksy Work Seen as Comment on Crackdown on Palestine Action Supporters",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/new-banksy-rcj-palestine-action-uk-protests.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-25-34 +0000"
+  },
+  {
+    "headline": "Brendan Carr Channeling Trump’s Showman Instincts to Overhaul FCC",
+    "link": "https://www.wsj.com/business/media/brendan-carr-fcc-chairman-3565c857?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-08-14-23-00 +0000"
+  },
+  {
+    "headline": "How four-year hunt for NZ dad on the run with his children unfolded",
+    "link": "https://www.bbc.com/news/articles/cly0279yervo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-14-19-33 +0000"
+  },
+  {
+    "headline": "At least 19 dead in Nepal in protests sparked by social media ban",
+    "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-14-18-24 +0000"
+  },
+  {
+    "headline": "At least 19 dead in Nepal after Gen Z protests at corruption and social media ban",
+    "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-14-18-24 +0000"
+  },
+  {
+    "headline": "Fugitive dad killed in police shootout after years on the run with 3 kids",
+    "link": "https://www.washingtonpost.com/world/2025/09/08/tom-phillips-new-zealand-fugitive/",
+    "source": "wapo",
+    "pubdate": "2025-09-08-14-17-43 +0000"
+  },
+  {
+    "headline": "Maryland Democrat governor reveals if he’s going to run for president",
+    "link": "https://nypost.com/2025/09/08/us-news/maryland-democrat-reveals-whether-hell-run-for-president-in-2028/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-16-28 +0000"
+  },
+  {
+    "headline": "Juggling Congress and Life, She Opted to Freeze Her Eggs",
+    "link": "https://www.nytimes.com/2025/09/08/us/politics/sara-jacobs-egg-freezing-pregnancy-bill.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-09-14 +0000"
+  },
+  {
+    "headline": "Juggling Congress and Life, She Opted to Freeze Her Eggs",
+    "link": "https://www.nytimes.com/2025/09/08/us/politics/sara-jacobs-egg-freezing-pregnancy-bill.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-09-14 +0000"
+  },
+  {
+    "headline": "Police in Nepal open fire on protesters outside parliament, killing 17 amid social media ban",
+    "link": "https://nypost.com/2025/09/08/world-news/police-in-nepal-open-fire-on-protesters-outside-parliament-killing-11/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-14-06-44 +0000"
+  },
+  {
+    "headline": "States Face Off Ferociously Over Abortion Shield Laws",
+    "link": "https://www.nytimes.com/2025/09/08/health/abortion-shield-laws.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-14-00-11 +0000"
+  },
+  {
+    "headline": "Financial Bubbles Happen Less Often Than You Think",
+    "link": "https://www.wsj.com/finance/investing/market-bubble-history-f6b3487b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-08-14-00-00 +0000"
+  },
+  {
+    "headline": "A Tax Strategy Peddled to the Rich Comes Under Federal Scrutiny",
+    "link": "https://www.wsj.com/us-news/law/a-tax-strategy-peddled-to-the-rich-comes-under-federal-scrutiny-ee013e82?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-08-14-00-00 +0000"
+  },
+  {
+    "headline": "A Tax Strategy Peddled to the Rich Comes Under Federal Scrutiny",
+    "link": "https://www.wsj.com/us-news/law/a-tax-strategy-peddled-to-the-rich-comes-under-federal-scrutiny-ee013e82",
+    "source": "wsj",
+    "pubdate": "2025-09-08-14-00-00 +0000"
+  },
+  {
+    "headline": "Justice Barrett Declares Her Independence Ahead of Trump-Dominated Term",
+    "link": "https://www.wsj.com/us-news/law/amy-coney-barrett-supreme-court-listening-to-the-law-book-d9497be7",
+    "source": "wsj",
+    "pubdate": "2025-09-08-14-00-00 +0000"
+  },
+  {
+    "headline": "My Employer Changed Hate Speech Policy That Protected Trans People. What Can I Do?",
+    "link": "https://www.nytimes.com/2025/09/06/business/hate-speech-protections-rolled-back.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-59-52 +0000"
+  },
+  {
+    "headline": "A New, ‘Adorable’ Deep-Sea Fish Swims Into View",
+    "link": "https://www.nytimes.com/2025/09/08/science/fish-ocean-deep-sea.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-54-45 +0000"
+  },
+  {
+    "headline": "Trump Issues Warning to Hamas as Israeli Military Moves on Gaza City",
+    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/trump-hamas-warning-israel-gaza-city.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-52-53 +0000"
+  },
+  {
+    "headline": "Trump Issues Warning to Hamas as Israeli Military Moves on Gaza City",
+    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/trump-hamas-warning-israel-gaza-city.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-52-53 +0000"
+  },
+  {
+    "headline": "Treasury Secretary Scott Bessent threatens housing regulator Bill Pulte in explosive Trump admin fight: ‘Punch you in your f—ing face’",
+    "link": "https://nypost.com/2025/09/08/us-news/treasury-secretary-scott-bessent-threatens-housing-regulator-bill-pulte-in-explosive-trump-admin-fight/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-13-51-11 +0000"
+  },
+  {
+    "headline": "Treasury Secretary Scott Bessent threatens housing regulator Bill Pulte in explosive Trump admin fight: ‘Punch you in your f—ing face’",
+    "link": "https://nypost.com/2025/09/08/us-news/treasury-secretary-scott-bessent-threatens-housing-regulator-bill-pulte-in-explosive-trump-admin-fight/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-13-51-11 +0000"
+  },
+  {
+    "headline": "Champion bodybuilder stabbed to death in fight with girlfriend: cops",
+    "link": "https://nypost.com/2025/09/08/world-news/champion-bodybuilder-stabbed-to-death-in-fight-with-girlfriend-cops/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-13-49-46 +0000"
+  },
+  {
+    "headline": "Gunmen Attack Bus Stop in Jerusalem, Killing at Least 6",
+    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/jerusalem-shooting-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-45-50 +0000"
+  },
+  {
+    "headline": "Gunmen Attack Bus Stop in Jerusalem, Killing at Least 6",
+    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/jerusalem-shooting-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-45-50 +0000"
+  },
+  {
+    "headline": "Experiencing Japan’s Fiery Autumnal Foliage",
+    "link": "https://www.nytimes.com/2025/09/08/travel/japan-momijigari-autumn-foliage.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-45-48 +0000"
+  },
+  {
+    "headline": "Sonoco to Sell ThermoSafe Business to Arsenal Capital Partners for Up to $725 Million",
+    "link": "https://www.wsj.com/articles/sonoco-to-sell-thermosafe-business-to-arsenal-capital-partners-for-up-to-725-million-6b060cb9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-08-13-38-00 +0000"
+  },
+  {
     "headline": "Rayner replacement for deputy leader must be a woman, says Harman",
     "link": "https://www.bbc.com/news/articles/c059z4g836eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-08-13-02-23 +0000"
+    "pubdate": "2025-09-08-13-31-39 +0000"
+  },
+  {
+    "headline": "Government must deliver workers' rights bill in full, says TUC",
+    "link": "https://www.bbc.com/news/articles/cge2j0rrwvjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-13-27-25 +0000"
+  },
+  {
+    "headline": "Government must deliver workers' rights bill in full, says TUC",
+    "link": "https://www.bbc.com/news/articles/cge2j0rrwvjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-13-27-25 +0000"
+  },
+  {
+    "headline": "UK launches defence growth strategy to try to boost jobs",
+    "link": "https://www.bbc.com/news/articles/cm2dzlrm0jno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-13-25-33 +0000"
+  },
+  {
+    "headline": "UK launches defence growth strategy to try to boost jobs",
+    "link": "https://www.bbc.com/news/articles/cm2dzlrm0jno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-13-25-33 +0000"
+  },
+  {
+    "headline": "Rick Davies, Lead Singer of Supertramp, Dies at 81",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/supertramp-rick-davies-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-15-16 +0000"
+  },
+  {
+    "headline": "Rick Davies, Lead Singer of Supertramp, Dies at 81",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/supertramp-rick-davies-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-15-16 +0000"
+  },
+  {
+    "headline": "Six killed by Palestinian gunmen at Jerusalem bus stop",
+    "link": "https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-13-09-39 +0000"
+  },
+  {
+    "headline": "Six killed by Palestinian gunmen at Jerusalem bus stop",
+    "link": "https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-08-13-09-39 +0000"
+  },
+  {
+    "headline": "2 busted over shocking theft of $60K in gifts during wedding",
+    "link": "https://nypost.com/2025/09/08/us-news/2-busted-over-shocking-theft-of-60k-in-gifts-during-wedding/",
+    "source": "nypost",
+    "pubdate": "2025-09-08-13-08-59 +0000"
+  },
+  {
+    "headline": "Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/trump-chicago-war-us-open.html",
+    "source": "nyt",
+    "pubdate": "2025-09-08-13-02-16 +0000"
   },
   {
     "headline": "Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City",
@@ -27,37 +351,13 @@
     "headline": "London Tube Strike Takes Effect, Causing Travel Chaos",
     "link": "https://www.nytimes.com/2025/09/08/world/europe/london-tube-strike-tfl.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-12-49-51 +0000"
+    "pubdate": "2025-09-08-12-49-52 +0000"
   },
   {
     "headline": "London Tube Strike Takes Effect, Causing Travel Chaos",
     "link": "https://www.nytimes.com/2025/09/08/world/europe/london-tube-strike-tfl.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-12-49-51 +0000"
-  },
-  {
-    "headline": "At Least 12 Are Killed in Nepal in Protests Over Social Media Ban",
-    "link": "https://www.nytimes.com/2025/09/08/world/asia/nepal-protests-gen-z-social-media.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-12-46-16 +0000"
-  },
-  {
-    "headline": "At Least 12 Are Killed in Nepal in Protests Over Social Media Ban",
-    "link": "https://www.nytimes.com/2025/09/08/world/asia/nepal-protests-gen-z-social-media.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-12-46-16 +0000"
-  },
-  {
-    "headline": "Trump Issues Warning to Hamas as Israeli Military Moves on Gaza City",
-    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/trump-hamas-warning-israel-gaza-city.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-12-39-39 +0000"
-  },
-  {
-    "headline": "Trump Issues Warning to Hamas as Israeli Military Moves on Gaza City",
-    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/trump-hamas-warning-israel-gaza-city.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-12-39-39 +0000"
+    "pubdate": "2025-09-08-12-49-52 +0000"
   },
   {
     "headline": "Man stole $228K Rolex, thousands in cash from boat docked at Lake Minnetonka restaurant, charge says",
@@ -96,22 +396,16 @@
     "pubdate": "2025-09-08-12-14-00 +0000"
   },
   {
+    "headline": "SpaceX Agrees to Buy Wireless Airwaves in $17 Billion Deal",
+    "link": "https://www.wsj.com/business/telecom/spacex-agrees-to-buy-wireless-airwaves-in-17-billion-deal-5ab4ba55?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-08-12-14-00 +0000"
+  },
+  {
     "headline": "South Korea Says Hyundai Plant Detainees to Go Home Without Being Deported",
     "link": "https://www.wsj.com/world/asia/south-korea-says-hyundai-plant-detainees-will-go-home-without-being-deported-09a10b56",
     "source": "wsj",
     "pubdate": "2025-09-08-12-13-00 +0000"
-  },
-  {
-    "headline": "Shooting in Jerusalem Leaves at Least 6 Dead",
-    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/jerusalem-shooting-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-12-12-04 +0000"
-  },
-  {
-    "headline": "Shooting in Jerusalem Leaves at Least 6 Dead",
-    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/jerusalem-shooting-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-12-12-04 +0000"
   },
   {
     "headline": "In a First, Korean Women Target U.S. Military in Suit Over Prostitution",
@@ -174,46 +468,16 @@
     "pubdate": "2025-09-08-11-57-20 +0000"
   },
   {
-    "headline": "At least 13 dead after protests against Nepal social media ban",
-    "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-11-53-42 +0000"
-  },
-  {
-    "headline": "At least 13 dead after protests against Nepal social media ban",
-    "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-11-53-42 +0000"
-  },
-  {
     "headline": "Israel vows 'hurricane' of strikes on Gaza to force Hamas to surrender, accept Trump deal",
     "link": "https://www.cbc.ca/news/world/israel-gaza-city-offensive-trump-1.7627603?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-08-11-52-35 +0000"
   },
   {
-    "headline": "Six killed in shooting attack at bus stop in Jerusalem",
-    "link": "https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-11-46-09 +0000"
-  },
-  {
-    "headline": "Six killed in shooting attack at bus stop in Jerusalem",
-    "link": "https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-11-46-09 +0000"
-  },
-  {
     "headline": "Israel threatens to destroy Gaza City in a ‘mighty hurricane’ of strikes: ‘This is a final warning’",
     "link": "https://nypost.com/2025/09/08/world-news/israel-threatens-to-destroy-gaza-city-in-a-mighty-hurricane-of-strikes/",
     "source": "nypost",
     "pubdate": "2025-09-08-11-46-03 +0000"
-  },
-  {
-    "headline": "UK could suspend visas for countries with no migrant return deals",
-    "link": "https://www.bbc.com/news/articles/c4g7xyn03yno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-11-39-30 +0000"
   },
   {
     "headline": "Outrage, confusion in South Korea after Georgia immigration raid",
@@ -237,13 +501,13 @@
     "headline": "What We Know About the Hyundai-LG Plant Immigration Raid in Georgia",
     "link": "https://www.nytimes.com/2025/09/07/us/politics/hyundai-plant-immigration-raid-georgia.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-11-27-54 +0000"
+    "pubdate": "2025-09-08-11-27-55 +0000"
   },
   {
     "headline": "What We Know About the Hyundai-LG Plant Immigration Raid in Georgia",
     "link": "https://www.nytimes.com/2025/09/07/us/politics/hyundai-plant-immigration-raid-georgia.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-11-27-54 +0000"
+    "pubdate": "2025-09-08-11-27-55 +0000"
   },
   {
     "headline": "Raid on Georgia E.V. Battery Plant Raises New Risks for a Shaken Industry",
@@ -252,13 +516,13 @@
     "pubdate": "2025-09-08-11-27-00 +0000"
   },
   {
-    "headline": "At least 14 killed as Nepal government protests turn deadly",
+    "headline": "At least 19 killed as Nepal government protests turn deadly",
     "link": "https://www.cbc.ca/news/world/nepal-deadly-protests-1.7627595?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-08-11-26-15 +0000"
   },
   {
-    "headline": "Horrifying video shows frantic beachgoers scramble to save boys trapped in sand hole after it’s filled with water",
+    "headline": "Horrifying video shows frantic beachgoers scramble to save boys trapped in sand hole after it fills with water",
     "link": "https://nypost.com/2025/09/08/us-news/frantic-calif-beachgoers-scramble-to-save-boys-trapped-in-sand-hole-after-its-filled-with-water/",
     "source": "nypost",
     "pubdate": "2025-09-08-11-23-07 +0000"
@@ -276,7 +540,7 @@
     "pubdate": "2025-09-08-11-15-00 +0000"
   },
   {
-    "headline": "GoFundMe pulls horrific fundraisers for ex-con accused of murdering Ukrainian refugee on train",
+    "headline": "GoFundMe pulls horrific fundraisers for ex-con Decarlos Brown Jr. accused of murdering Ukrainian refugee on train",
     "link": "https://nypost.com/2025/09/08/us-news/gofundme-pulls-horrific-fundraiser-for-ex-con-accused-of-murdering-ukrainian-refugee-on-train/",
     "source": "nypost",
     "pubdate": "2025-09-08-11-07-19 +0000"
@@ -402,8 +666,8 @@
     "pubdate": "2025-09-08-10-00-00 +0000"
   },
   {
-    "headline": "4 off-the-grid ideas to rebuild after the L.A. fires from design students",
-    "link": "https://www.latimes.com/entertainment-arts/story/2025-09-08/rebuilding-ideas-from-design-students-after-los-angeles-fires",
+    "headline": "How long will California's COVID surge continue? 5 things to know",
+    "link": "https://www.latimes.com/california/story/2025-09-08/how-longer-will-californias-covid-surge-continue-5-things-to-know",
     "source": "latimes",
     "pubdate": "2025-09-08-10-00-00 +0000"
   },
@@ -414,8 +678,8 @@
     "pubdate": "2025-09-08-10-00-00 +0000"
   },
   {
-    "headline": "How long will California's COVID surge continue? 5 things to know",
-    "link": "https://www.latimes.com/california/story/2025-09-08/how-longer-will-californias-covid-surge-continue-5-things-to-know",
+    "headline": "4 off-the-grid ideas to rebuild after the L.A. fires from design students",
+    "link": "https://www.latimes.com/entertainment-arts/story/2025-09-08/rebuilding-ideas-from-design-students-after-los-angeles-fires",
     "source": "latimes",
     "pubdate": "2025-09-08-10-00-00 +0000"
   },
@@ -430,18 +694,6 @@
     "link": "https://www.washingtonpost.com/world/2025/09/08/jerusalem-bus-shooting-israel/",
     "source": "wapo",
     "pubdate": "2025-09-08-09-41-11 +0000"
-  },
-  {
-    "headline": "UK launches defence growth strategy to try to boost jobs",
-    "link": "https://www.bbc.com/news/articles/cm2dzlrm0jno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-09-35-41 +0000"
-  },
-  {
-    "headline": "UK launches defence growth strategy to try to boost jobs",
-    "link": "https://www.bbc.com/news/articles/cm2dzlrm0jno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-09-35-41 +0000"
   },
   {
     "headline": "New Zealand dad shot dead by police after years on the run with children",
@@ -482,12 +734,6 @@
   {
     "headline": "PepsiCo CEO’s Tall Order: Win Over Investor Calling for Strategy Reset",
     "link": "https://www.wsj.com/business/retail/pepsico-ceos-tall-order-win-over-investor-calling-for-strategy-reset-95378d30?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-08-09-30-00 +0000"
-  },
-  {
-    "headline": "The Regulator Who Thinks He Can Win Trump’s Battle With the Media",
-    "link": "https://www.wsj.com/business/media/brendan-carr-fcc-chairman-3565c857?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-08-09-30-00 +0000"
   },
@@ -594,20 +840,20 @@
     "pubdate": "2025-09-08-09-02-26 +0000"
   },
   {
-    "headline": "Fall Travel: Off-Season No Longer",
+    "headline": "‘The Off-Season Is Now Its Own Season’: Fall Travel Comes Into Its Own",
     "link": "https://www.nytimes.com/2025/09/08/travel/fall-travel.html",
     "source": "nyt",
     "pubdate": "2025-09-08-09-02-14 +0000"
   },
   {
-    "headline": "Fall Travel: Off-Season No Longer",
+    "headline": "‘The Off-Season Is Now Its Own Season’: Fall Travel Comes Into Its Own",
     "link": "https://www.nytimes.com/2025/09/08/travel/fall-travel.html",
     "source": "nyt",
     "pubdate": "2025-09-08-09-02-14 +0000"
   },
   {
     "headline": "Miami Has a Padel ‘Obsession’",
-    "link": "https://www.nytimes.com/2025/09/08/us/miami-has-a-padel-obsession.html",
+    "link": "https://www.nytimes.com/2025/09/08/us/miami-padel-courts.html",
     "source": "nyt",
     "pubdate": "2025-09-08-09-02-05 +0000"
   },
@@ -616,12 +862,6 @@
     "link": "https://www.washingtonpost.com/world/interactive/2025/ukraine-bombing-sounds-war-sirens-russia/",
     "source": "wapo",
     "pubdate": "2025-09-08-09-00-52 +0000"
-  },
-  {
-    "headline": "Experiencing Japan’s Fiery Autumnal Foliage",
-    "link": "https://www.nytimes.com/2025/09/08/travel/japan-momijigari-autumn-foliage.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-09-00-46 +0000"
   },
   {
     "headline": "6 Autumn Strolls in 6 Vibrant Cities",
@@ -648,34 +888,10 @@
     "pubdate": "2025-09-08-08-52-36 +0000"
   },
   {
-    "headline": "Lone survivor of mushroom murders pleads to grieve in private as killer jailed for life",
-    "link": "https://www.bbc.com/news/articles/cly1v06xz7qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-08-52-36 +0000"
-  },
-  {
-    "headline": "Unions warn government not to water down workers' rights bill",
-    "link": "https://www.bbc.com/news/articles/cq65l5epl3eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-08-48-28 +0000"
-  },
-  {
-    "headline": "Unions warn government not to water down workers' rights bill",
-    "link": "https://www.bbc.com/news/articles/cq65l5epl3eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-08-08-48-28 +0000"
-  },
-  {
     "headline": "Global Markets Rise Slightly as Fed Rate-Cut Expectations Hiked",
     "link": "https://www.wsj.com/finance/global-markets-rise-slightly-as-fed-rate-cut-expectations-hiked-17d7fe0e",
     "source": "wsj",
     "pubdate": "2025-09-08-08-28-00 +0000"
-  },
-  {
-    "headline": "France poised to oust another prime minister, deepening Macron’s troubles",
-    "link": "https://www.washingtonpost.com/world/2025/09/08/france-no-confidence-vote-macron/",
-    "source": "wapo",
-    "pubdate": "2025-09-08-08-14-11 +0000"
   },
   {
     "headline": "How Taiwan took the American convenience store — and turbocharged it",
@@ -690,7 +906,7 @@
     "pubdate": "2025-09-08-08-00-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Futures Rise on Hopes for Faster Rate Cuts",
+    "headline": "Stock Market Today: S&P 500, Nasdaq Rise on Hopes for Faster Rate Cuts",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-08-07-55-44 +0000"
@@ -894,12 +1110,6 @@
     "pubdate": "2025-09-08-04-00-42 +0000"
   },
   {
-    "headline": "Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/trump-chicago-war-us-open.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-03-48-53 +0000"
-  },
-  {
     "headline": "Father on run with 3 kids in wilderness for 4 years is killed during shootout with New Zealand cops",
     "link": "https://nypost.com/2025/09/07/world-news/fugitive-dad-tom-phillips-shot-dead-during-shootout-with-nz-cops/",
     "source": "nypost",
@@ -928,12 +1138,6 @@
     "link": "https://www.wsj.com/us-news/hyundai-raid-rattles-a-hot-spot-of-growth-in-georgia-d1fcd585",
     "source": "wsj",
     "pubdate": "2025-09-08-03-26-00 +0000"
-  },
-  {
-    "headline": "Immigration Raid Exposes Tensions From Seoul to Washington to Rural Georgia",
-    "link": "https://www.nytimes.com/2025/09/06/us/immigration-raid-georgia.html",
-    "source": "nyt",
-    "pubdate": "2025-09-08-03-08-49 +0000"
   },
   {
     "headline": "Immigration Raid Exposes Tensions From Seoul to Washington to Rural Georgia",
@@ -1023,13 +1227,13 @@
     "headline": "West Point Alumni Group Cancels Award Honoring Tom Hanks",
     "link": "https://www.nytimes.com/2025/09/07/us/politics/tom-hanks-west-point-award.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-01-02-47 +0000"
+    "pubdate": "2025-09-08-01-02-48 +0000"
   },
   {
     "headline": "West Point Alumni Group Cancels Award Honoring Tom Hanks",
     "link": "https://www.nytimes.com/2025/09/07/us/politics/tom-hanks-west-point-award.html",
     "source": "nyt",
-    "pubdate": "2025-09-08-01-02-47 +0000"
+    "pubdate": "2025-09-08-01-02-48 +0000"
   },
   {
     "headline": "Gift-grabbing wedding crasher is arrested and some of couple's cash is recovered, police say",
@@ -1126,18 +1330,6 @@
     "link": "https://nypost.com/2025/09/07/us-news/nycs-new-e-bike-battery-crackdown-includes-push-to-confiscate-uncertified-batteries/",
     "source": "nypost",
     "pubdate": "2025-09-08-00-02-23 +0000"
-  },
-  {
-    "headline": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-07-23-54-58 +0000"
-  },
-  {
-    "headline": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-07-23-54-58 +0000"
   },
   {
     "headline": "France is set to vote out another PM. Can anything break its political deadlock?",
@@ -1254,22 +1446,10 @@
     "pubdate": "2025-09-07-22-43-52 +0000"
   },
   {
-    "headline": "Kathy Hochul hides cost of cell phone ban mascot ‘Frankie Focus’ — who gets called ‘tone deaf’",
-    "link": "https://nypost.com/2025/09/07/us-news/kathy-hochul-hides-cost-of-cell-phone-ban-mascot-frankie-focus-who-gets-called-tone-deaf/",
-    "source": "nypost",
-    "pubdate": "2025-09-07-22-42-20 +0000"
-  },
-  {
     "headline": "The six fatal flaws in Mayor Lurie’s so-called ‘Family Zoning Plan’",
     "link": "https://48hills.org/2025/09/the-six-fatal-flaws-in-mayor-luries-so-called-family-zoning-plan/",
     "source": "48hills",
     "pubdate": "2025-09-07-22-41-01 +0000"
-  },
-  {
-    "headline": "Meet the NYC shop cat working for over a decade — one of dozens of feline workers profiled in new book",
-    "link": "https://nypost.com/2025/09/07/us-news/meet-the-nyc-shop-cat-working-for-over-a-decade-one-of-dozens-of-feline-workers-profiled-in-new-book/",
-    "source": "nypost",
-    "pubdate": "2025-09-07-22-38-27 +0000"
   },
   {
     "headline": "GLŌM FEST’s polyglot nocturnal liturgy brings deathrock, darkwave artists from around the globe",
@@ -1290,34 +1470,10 @@
     "pubdate": "2025-09-07-22-34-11 +0000"
   },
   {
-    "headline": "Theater lovers brave the rain for free Broadway performances in Times Square: ‘Really cool’",
-    "link": "https://nypost.com/2025/09/07/us-news/theater-lovers-see-free-broadway-performances-in-times-square/",
-    "source": "nypost",
-    "pubdate": "2025-09-07-22-28-21 +0000"
-  },
-  {
     "headline": "OPEC+ agrees to further boost oil output to regain market share",
     "link": "https://nypost.com/2025/09/07/business/opec-agrees-to-further-boost-oil-output-to-regain-market-share/",
     "source": "nypost",
     "pubdate": "2025-09-07-22-27-20 +0000"
-  },
-  {
-    "headline": "Fan wrongly ID’d as ‘Phillies Karen’ who snatched home run ball from boy sets record straight in hilarious post: ‘I’m a Red Sox fan’",
-    "link": "https://nypost.com/2025/09/07/sports/fan-wrongly-idd-as-phillies-karen-who-snatched-home-run-ball-from-boy-sets-record-straight-in-hilarious-post-im-a-red-sox-fan/",
-    "source": "nypost",
-    "pubdate": "2025-09-07-22-27-19 +0000"
-  },
-  {
-    "headline": "DOJ shuts down $18M human smuggling scheme that brought hundreds of Cubans to America",
-    "link": "https://nypost.com/2025/09/07/us-news/doj-shuts-down-18m-human-smuggling-scheme-that-brought-hundreds-of-cubans-to-us/",
-    "source": "nypost",
-    "pubdate": "2025-09-07-22-23-26 +0000"
-  },
-  {
-    "headline": "Georgia day care worker who allegedly beat 1-year-old boy black and blue released on bail",
-    "link": "https://nypost.com/2025/09/07/us-news/georgia-day-care-worker-who-allegedly-beat-1-year-old-released-on-bail/",
-    "source": "nypost",
-    "pubdate": "2025-09-07-22-12-40 +0000"
   },
   {
     "headline": "Alcaraz edges Sinner trilogy to win US Open",
@@ -1342,12 +1498,6 @@
     "link": "https://www.bbc.com/news/articles/c059j8759rlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-07-22-04-15 +0000"
-  },
-  {
-    "headline": "OnlyFans explosion rocks college campuses as students ditch tradition for quick cash",
-    "link": "https://nypost.com/2025/09/07/us-news/onlyfans-explosion-rocks-college-campuses-as-students-ditch-tradition-for-quick-cash/",
-    "source": "nypost",
-    "pubdate": "2025-09-07-21-58-49 +0000"
   },
   {
     "headline": "State bill to provide safe parking for homeless community college students is in jeopardy",
@@ -1420,6 +1570,12 @@
     "link": "https://www.bbc.com/news/articles/c4gjz0d366eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-07-20-53-14 +0000"
+  },
+  {
+    "headline": "Treasury Board president says ministers have identified nearly 500 ways to cut red tape",
+    "link": "https://www.cbc.ca/news/politics/red-tape-progress-reports-federal-government-1.7627428?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-07-20-35-19 +0000"
   },
   {
     "headline": "Opinion | A Senate Confirmation Fast Lane?",
@@ -1888,29 +2044,5 @@
     "link": "https://nypost.com/2025/09/07/world-news/russia-launches-largest-ever-air-strike-on-ukraine-making-mockery-of-trumps-peace-efforts-kyiv/",
     "source": "nypost",
     "pubdate": "2025-09-07-15-08-17 +0000"
-  },
-  {
-    "headline": "Czech police finally catch up with 'phantom racing car driver'",
-    "link": "https://www.bbc.com/news/articles/c4g7xl4p53ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-07-14-51-04 +0000"
-  },
-  {
-    "headline": "Stock Funds Continue to Score",
-    "link": "https://www.wsj.com/finance/investing/stock-funds-bull-market-1ca949d5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-07-14-00-00 +0000"
-  },
-  {
-    "headline": "Japan’s Prime Minister to Resign After Clinching Tariff Deal",
-    "link": "https://www.wsj.com/world/asia/japans-prime-minister-to-resign-4ffaf6e4",
-    "source": "wsj",
-    "pubdate": "2025-09-07-13-59-00 +0000"
-  },
-  {
-    "headline": "Kenya's Chepkirui wins Great North Run",
-    "link": "https://www.bbc.com/sport/athletics/articles/c20e7r4jg35o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-07-13-56-17 +0000"
   }
 ]

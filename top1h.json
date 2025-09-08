@@ -1,30 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2025-09-08-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "La Misión, La Cultura, La Lucha, La Gente",
-    "link": "https://missionlocal.org/2025/09/sf-photos-la-mision-la-cultura-la-lucha-la-gente/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-08-13-02-16 +0000",
-    "source": "nyt",
-    "headline": "Trump Downplays Post Threatening Chicago, Saying He Wants to ‘Clean Up’ City",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/trump-chicago-war-us-open.html"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-08-13-02-23 +0000",
+    "score": 32,
+    "pubdate": "2025-09-08-14-18-24 +0000",
     "source": "bbc",
-    "headline": "Rayner replacement for deputy leader must be a woman, says Harman",
-    "link": "https://www.bbc.com/news/articles/c059z4g836eo?at_medium=RSS&at_campaign=rss"
+    "headline": "At least 19 dead in Nepal after Gen Z protests at corruption and social media ban",
+    "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2025-09-08-13-00-00 +0000",
+    "score": 24,
+    "pubdate": "2025-09-08-14-39-27 +0000",
+    "source": "nypost",
+    "headline": "Curtis Sliwa’s wife Nancy promotes him for NYC mayor in first, $350K TV ad buy",
+    "link": "https://nypost.com/2025/09/08/us-news/curtis-sliwas-wife-nancy-promotes-him-for-nyc-mayor-in-first-350k-tv-ad-buy/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-09-08-14-27-06 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration, Again, Asks Supreme Court to Let It Block Foreign Aid",
+    "link": "https://www.nytimes.com/2025/09/08/us/politics/trump-supreme-court-foreign-aid.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-09-08-14-25-34 +0000",
+    "source": "nyt",
+    "headline": "New Banksy Work Seen as Comment on Crackdown on Palestine Action Supporters",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/new-banksy-rcj-palestine-action-uk-protests.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-09-08-14-09-14 +0000",
+    "source": "nyt",
+    "headline": "Juggling Congress and Life, She Opted to Freeze Her Eggs",
+    "link": "https://www.nytimes.com/2025/09/08/us/politics/sara-jacobs-egg-freezing-pregnancy-bill.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-08-14-34-38 +0000",
+    "source": "nyt",
+    "headline": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-08-14-00-00 +0000",
     "source": "wsj",
-    "headline": "Lumber Prices Are Flashing a Warning Sign for the U.S. Economy",
-    "link": "https://www.wsj.com/finance/commodities-futures/lumber-prices-are-flashing-a-warning-sign-for-the-u-s-economy-2119c5dc?mod=rss_markets_main"
+    "headline": "A Tax Strategy Peddled to the Rich Comes Under Federal Scrutiny",
+    "link": "https://www.wsj.com/us-news/law/a-tax-strategy-peddled-to-the-rich-comes-under-federal-scrutiny-ee013e82"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-09-08-14-17-43 +0000",
+    "source": "wapo",
+    "headline": "Fugitive dad killed in police shootout after years on the run with 3 kids",
+    "link": "https://www.washingtonpost.com/world/2025/09/08/tom-phillips-new-zealand-fugitive/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-08-14-32-30 +0000",
+    "source": "wapo",
+    "headline": "New York AG will fight Texas over abortion pills in ‘shield’ law challenge",
+    "link": "https://www.washingtonpost.com/nation/2025/09/08/abortion-pills-shield-texas-new-york/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-08-14-30-58 +0000",
+    "source": "wapo",
+    "headline": "France poised to oust another prime minister, deepening Macron’s troubles",
+    "link": "https://www.washingtonpost.com/world/2025/09/08/france-no-confidence-vote-macron/"
   }
 ]
