@@ -15,20 +15,20 @@
   },
   {
     "score": 133,
-    "pubdate": "2025-09-05-21-41-53 +0000",
-    "source": "nyt",
-    "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
-    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
-  },
-  {
-    "score": 133,
     "pubdate": "2025-09-04-15-00-00 +0000",
     "source": "wsj",
     "headline": "The BLS will publish its first jobs report Friday since President Trump fired the agency’s leader after she delivered surprisingly lousy news about spring employment",
     "link": "https://www.wsj.com/economy/jobs/jobs-report-august-2025-what-to-know-8ec1e0a3"
   },
   {
-    "score": 112,
+    "score": 133,
+    "pubdate": "2025-09-05-21-41-53 +0000",
+    "source": "nyt",
+    "headline": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
+    "link": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html"
+  },
+  {
+    "score": 111,
     "pubdate": "2025-09-05-02-44-00 +0000",
     "source": "wsj",
     "headline": "President Trump was within his authority when he ordered the U.S. military to destroy a vessel in the Caribbean, administration officials say. But legal experts and some lawmakers dispute that claim",
@@ -63,7 +63,7 @@
     "link": "https://www.latimes.com/business/story/2025-09-04/job-cuts-jump-as-ai-and-doge-contribute-to-layoffs"
   },
   {
-    "score": 82,
+    "score": 80,
     "pubdate": "2025-09-05-08-00-00 +0000",
     "source": "cbc",
     "headline": "China-backed hackers 'almost certainly' targeted Canada during theft of millions of Americans' data",
