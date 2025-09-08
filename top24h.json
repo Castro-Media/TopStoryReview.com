@@ -1,13 +1,13 @@
 [
   {
-    "score": 105,
+    "score": 103,
     "pubdate": "2025-09-08-14-55-27 +0000",
     "source": "nypost",
     "headline": "Trump demands foreign firms in US ‘hire and train’ Americans — as ICE raid on Hyundai jolts Korean companies",
     "link": "https://nypost.com/2025/09/08/business/trump-demands-foreign-firms-in-us-hire-and-train-americans/"
   },
   {
-    "score": 103,
+    "score": 102,
     "pubdate": "2025-09-08-17-20-00 +0000",
     "source": "wsj",
     "headline": "New polling by the Federal Reserve Bank of New York shows American workers’ confidence in finding a new job if they lose the position they currently hold has hit a record low",
@@ -21,21 +21,21 @@
     "link": "https://www.cbc.ca/news/world/nepal-deadly-protests-1.7627595?cmp=rss"
   },
   {
-    "score": 74,
+    "score": 72,
     "pubdate": "2025-09-08-03-32-23 +0000",
     "source": "bbc",
     "headline": "What it was like inside court as mushroom murderer was jailed for life",
     "link": "https://www.bbc.com/news/videos/c15k4y5nwz7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-09-07-23-14-55 +0000",
     "source": "bbc",
     "headline": "South Korean worker tells BBC of panic during US immigration raid at Hyundai plant",
     "link": "https://www.bbc.com/news/articles/c5yqg0rln74o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
+    "score": 46,
     "pubdate": "2025-09-08-17-57-08 +0000",
     "source": "nyt",
     "headline": "Trump Issues Warning to Hamas as Israeli Military Moves on Gaza City",
@@ -49,18 +49,11 @@
     "link": "https://nypost.com/2025/09/08/us-news/trump-admin-launches-operation-midway-blitz-in-push-to-fight-crime-and-target-illegal-immigrants-in-chicago/"
   },
   {
-    "score": 42,
-    "pubdate": "2025-09-08-16-10-32 +0000",
-    "source": "nyt",
-    "headline": "‘The Off-Season Is Now Its Own Season’: Fall Travel Comes Into Its Own",
-    "link": "https://www.nytimes.com/2025/09/08/travel/fall-travel.html"
-  },
-  {
     "score": 41,
-    "pubdate": "2025-09-08-12-31-59 +0000",
+    "pubdate": "2025-09-08-18-35-52 +0000",
     "source": "nyt",
-    "headline": "Millions of Londoners Face Transit Disruption as Tube Strike Takes Effect",
-    "link": "https://www.nytimes.com/2025/09/07/world/europe/london-tube-strike.html"
+    "headline": "London Tube Strike Takes Effect, Causing Travel Chaos",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/london-tube-strike-tfl.html"
   },
   {
     "score": 40,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "SpaceX’s $17 Billion Deal Plunges Musk Deeper Into Wireless Market",
     "link": "https://www.wsj.com/business/telecom/spacex-agrees-to-buy-wireless-airwaves-in-17-billion-deal-5ab4ba55?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-09-08-09-46-24 +0000",
+    "source": "nypost",
+    "headline": "Police see ‘terrorist attack’ in Jerusalem bus stop shooting that left 6 dead",
+    "link": "https://nypost.com/2025/09/08/world-news/four-killed-in-jerusalem-shooting-israeli-ambulance-service-says/"
   }
 ]
