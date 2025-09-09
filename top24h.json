@@ -1,20 +1,20 @@
 [
   {
-    "score": 132,
+    "score": 136,
     "pubdate": "2025-09-08-17-20-00 +0000",
     "source": "wsj",
     "headline": "New polling by the Federal Reserve Bank of New York shows American workers’ confidence in finding a new job if they lose the position they currently hold has hit a record low",
     "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5"
   },
   {
-    "score": 123,
-    "pubdate": "2025-09-08-20-12-00 +0000",
+    "score": 131,
+    "pubdate": "2025-09-08-18-46-52 +0000",
     "source": "nyt",
-    "headline": "Trump Issues Warning to Hamas as Israeli Military Moves on Gaza City",
-    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/trump-hamas-warning-israel-gaza-city.html"
+    "headline": "Trump Administration, Again, Asks Supreme Court to Let It Block Foreign Aid",
+    "link": "https://www.nytimes.com/2025/09/08/us/politics/trump-supreme-court-foreign-aid.html"
   },
   {
-    "score": 112,
+    "score": 121,
     "pubdate": "2025-09-08-11-26-15 +0000",
     "source": "cbc",
     "headline": "At least 19 killed as police open fire on Nepal protests over corruption, social media ban",
@@ -28,28 +28,28 @@
     "link": "https://nypost.com/2025/09/09/us-news/bill-clinton-letter-in-epstein-birthday-book-among-new-files-released-by-house-oversight-committee/"
   },
   {
-    "score": 82,
-    "pubdate": "2025-09-08-20-43-00 +0000",
-    "source": "wsj",
-    "headline": "Supreme Court Lifts Limits on Immigration Raids in Los Angeles",
-    "link": "https://www.wsj.com/us-news/law/supreme-court-lifts-limits-on-immigration-enforcement-tactics-in-los-angeles-327f4922"
+    "score": 72,
+    "pubdate": "2025-09-08-20-12-00 +0000",
+    "source": "nyt",
+    "headline": "Trump Issues Warning to Hamas as Israeli Military Moves on Gaza City",
+    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/trump-hamas-warning-israel-gaza-city.html"
   },
   {
-    "score": 55,
+    "score": 59,
     "pubdate": "2025-09-08-13-51-11 +0000",
     "source": "nypost",
     "headline": "Treasury Secretary Scott Bessent threatens housing regulator Bill Pulte in explosive Trump admin fight: ‘Punch you in your f—ing face’",
     "link": "https://nypost.com/2025/09/08/us-news/treasury-secretary-scott-bessent-threatens-housing-regulator-bill-pulte-in-explosive-trump-admin-fight/"
   },
   {
-    "score": 53,
+    "score": 55,
     "pubdate": "2025-09-08-22-53-00 +0000",
     "source": "nypost",
     "headline": "Lachlan Murdoch takes control of media empire after family ends legal battle over Fox, News Corp",
     "link": "https://nypost.com/2025/09/08/media/lachlan-murdoch-takes-control-of-media-empire-after-family-ends-legal-battle-over-fox-news-corp/"
   },
   {
-    "score": 50,
+    "score": 54,
     "pubdate": "2025-09-09-06-41-09 +0000",
     "source": "bbc",
     "headline": "Thai court rules ex-PM Thaksin must serve one year in jail",
@@ -57,16 +57,16 @@
   },
   {
     "score": 50,
-    "pubdate": "2025-09-09-02-23-16 +0000",
-    "source": "bbc",
-    "headline": "Tunisia denies claims Greta Thunberg's Gaza flotilla was hit by drone",
-    "link": "https://www.bbc.com/news/articles/cly67g7pdlko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 46,
     "pubdate": "2025-09-08-19-11-14 +0000",
     "source": "bbc",
     "headline": "France in fresh political crisis after MPs oust prime minister",
     "link": "https://www.bbc.com/news/articles/c2dnxxekyezo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-09-09-00-10-07 +0000",
+    "source": "nypost",
+    "headline": "Ukrainian refugee Iryna Zarutska’s father couldn’t attend her funeral because of war with Russia: ‘He had to stay back’",
+    "link": "https://nypost.com/2025/09/08/us-news/ukrainian-refugee-iryna-zarutskas-father-couldnt-attend-her-funeral-because-of-war-with-russia/"
   }
 ]
