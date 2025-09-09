@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 25,
+    "pubdate": "2025-09-09-05-04-20 +0000",
+    "source": "nyt",
+    "headline": "Thai Court Orders Thaksin, Ex-Premier, to Serve One Year in Prison",
+    "link": "https://www.nytimes.com/2025/09/08/world/asia/thailand-thaksin-verdict.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-09-09-05-04-44 +0000",
+    "source": "nyt",
+    "headline": "Social Media Goes Back Online in Nepal After 19 Are Killed in Protests",
+    "link": "https://www.nytimes.com/2025/09/08/world/asia/nepal-protests-gen-z-social-media.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-09-05-11-00 +0000",
+    "source": "nypost",
+    "headline": "Brave victim hands out tissues during mother’s tearful testimony of horrors he faced as predator principal is sentenced for child sex abuse",
+    "link": "https://nypost.com/2025/09/09/us-news/brave-victim-hands-out-tissues-during-mothers-tearful-testimony-as-predator-principal-is-sentenced-for-child-sex-abuse/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-09-05-47-47 +0000",
+    "source": "nyt",
+    "headline": "Why 7-Eleven and Convenience Stores in Japan Are So Special",
+    "link": "https://www.nytimes.com/2025/09/09/business/7-eleven-japan-convenience-stores.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-09-05-14-36 +0000",
+    "source": "startribune",
+    "headline": "J.J. McCarthy Era makes dramatic fourth-quarter arrival as Vikings beat Bears 27-24",
+    "link": "https://www.startribune.com/minnesota-vikings-chicago-bears-monday-night-football/601454613"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-09-05-45-48 +0000",
+    "source": "nyt",
+    "headline": "In Epstein’s ‘Birthday Book,’ a Celebration of His Lecherous Exploits",
+    "link": "https://www.nytimes.com/2025/09/09/business/jeffrey-epstein-birthday-book.html"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-09-09-05-21-20 +0000",
+    "source": "bbc",
+    "headline": "Nepal lifts social media ban after 19 killed in protests",
+    "link": "https://www.bbc.com/news/articles/cp98n1eg443o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-09-09-05-09-35 +0000",
+    "source": "bbc",
+    "headline": "Thai court rules ex-PM Thaksin must serve one year in jail",
+    "link": "https://www.bbc.com/news/articles/cly7k2g37g4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-09-05-47-47 +0000",
+    "source": "nyt",
+    "headline": "Why 7-Eleven and Convenience Stores in Japan Are So Special",
+    "link": "https://www.nytimes.com/2025/09/09/business/7-eleven-japan-convenience-stores.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-09-05-21-20 +0000",
+    "source": "bbc",
+    "headline": "Nepal lifts social media ban after 19 killed in protests",
+    "link": "https://www.bbc.com/news/articles/cp98n1eg443o?at_medium=RSS&at_campaign=rss"
+  }
+]
