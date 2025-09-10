@@ -1,72 +1,44 @@
 [
   {
-    "score": 22,
-    "pubdate": "2025-09-10-02-17-28 +0000",
-    "source": "nyt",
-    "headline": "Protesters Call Trump ‘Hitler’ as He Dines out in Washington",
-    "link": "https://www.nytimes.com/2025/09/09/us/politics/protesters-call-trump-hitler-as-he-dines-out-in-washington.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-09-10-01-32-56 +0000",
-    "source": "nypost",
-    "headline": "Iryna Zarutska’s family speaks out after Ukrainian refugee slaughtered on train: ‘No family should have to go through this’",
-    "link": "https://nypost.com/2025/09/09/us-news/iryna-zarutskas-family-speaks-out-after-ukrainian-refugee-slaughtered-on-train/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-10-01-42-06 +0000",
-    "source": "nyt",
-    "headline": "Latest Revelations Complicate Trump’s Sweeping Denials About Epstein",
-    "link": "https://www.nytimes.com/2025/09/09/us/politics/trumps-epstein-response.html"
-  },
-  {
-    "score": 10,
+    "score": 13,
     "pubdate": "2025-09-10-02-10-00 +0000",
     "source": "wsj",
     "headline": "Judge Blocks Trump From Removing Fed Governor Lisa Cook",
     "link": "https://www.wsj.com/economy/central-banking/judge-blocks-trump-from-removing-fed-governor-lisa-cook-354c6d2b"
   },
   {
-    "score": 10,
-    "pubdate": "2025-09-10-01-41-57 +0000",
+    "score": 8,
+    "pubdate": "2025-09-10-02-06-16 +0000",
+    "source": "bbc",
+    "headline": "Trump says he's 'not thrilled' about Israel's strike in Qatar targeting Hamas",
+    "link": "https://www.bbc.com/news/articles/ced58zywdwno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-09-10-02-11-00 +0000",
+    "source": "wsj",
+    "headline": "Meta’s Elite AI Unit Sparks Tension With Old Guard",
+    "link": "https://www.wsj.com/tech/ai/meta-ai-superintelligence-hiring-tension-96c9e993?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-09-10-02-17-28 +0000",
     "source": "nyt",
-    "headline": "Oliver North and Fawn Hall, Key Figures in Iran-Contra Scandal, Are Married",
-    "link": "https://www.nytimes.com/2025/09/09/us/oliver-north-fawn-hall-married-iran-contra.html"
+    "headline": "Protesters Call Trump ‘Hitler’ as He Dines out in Washington",
+    "link": "https://www.nytimes.com/2025/09/09/us/politics/protesters-call-trump-hitler-as-he-dines-out-in-washington.html"
   },
   {
-    "score": 10,
-    "pubdate": "2025-09-10-01-37-15 +0000",
-    "source": "latimes",
-    "headline": "GirlsDoPorn boss, once one of FBI's 10 most wanted, hears from victims at sentencing",
-    "link": "https://www.latimes.com/california/story/2025-09-09/girlsdoporn-owner-sentenced"
+    "score": 5,
+    "pubdate": "2025-09-10-02-06-00 +0000",
+    "source": "wsj",
+    "headline": "China’s Deflationary Woes Continue Unabated",
+    "link": "https://www.wsj.com/economy/chinas-deflationary-woes-continue-unabated-fd725f0e"
   },
   {
-    "score": 10,
-    "pubdate": "2025-09-10-01-46-32 +0000",
-    "source": "nypost",
-    "headline": "Veteran NYPD officer dies in apparent suicide after learning he’s under federal probe: sources",
-    "link": "https://nypost.com/2025/09/09/us-news/nypd-officer-under-federal-probe-dies-in-apparent-suicide-sources/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-10-02-05-05 +0000",
-    "source": "bbc",
-    "headline": "Meta covered up potential child harms, whistleblowers claim",
-    "link": "https://www.bbc.com/news/articles/c5y8x3md05no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-09-10-01-38-31 +0000",
-    "source": "bbc",
-    "headline": "Nepal anti-corruption protests explained",
-    "link": "https://www.bbc.com/news/articles/crkj0lzlr3ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-09-10-01-40-54 +0000",
-    "source": "48hills",
-    "headline": "Opposition grows to Lurie’s zoning plan that would transform San Francisco",
-    "link": "https://48hills.org/2025/09/opposition-grows-to-luries-zoning-plan-that-would-transform-san-francisco/"
+    "score": 3,
+    "pubdate": "2025-09-10-02-12-28 +0000",
+    "source": "nyt",
+    "headline": "Judge Rules Fed Governor Can Remain in Role, for Now",
+    "link": "https://www.nytimes.com/2025/09/09/business/federal-reserve-lisa-cook-ruling.html"
   }
 ]
