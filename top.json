@@ -1,24 +1,31 @@
 [
   {
-    "score": 128,
+    "score": 134,
     "pubdate": "2025-09-09-22-19-57 +0000",
     "source": "wapo",
     "title": "Israeli strike targeting Hamas in Qatar &#8216;does not advance Israel or America&#8217;s goals,&#8217; Trump says",
     "link": "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion-israel-hamas/"
   },
   {
-    "score": 83,
+    "score": 81,
     "pubdate": "2025-09-09-18-28-45 +0000",
     "source": "nypost",
     "title": "French President Emmanuel Macron names loyalist Sebastien Lecornu as new prime minister &#8212; a day after government collapse",
     "link": "https://nypost.com/2025/09/09/world-news/french-president-emmanuel-macron-names-loyalist-sebastien-lecornu-as-new-prime-minister/"
   },
   {
-    "score": 77,
+    "score": 78,
     "pubdate": "2025-09-09-17-00-25 +0000",
     "source": "nyt",
     "title": "Protests Against Nepal&#8217;s Social Media Ban Show Resistance to a Global Censorship Trend",
     "link": "https://www.nytimes.com/2025/09/09/world/asia/nepal-protests-social-media-ban-censorship.html"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-09-10-01-32-56 +0000",
+    "source": "nypost",
+    "title": "Iryna Zarutska&#8217;s family speaks out after Ukrainian refugee slaughtered on train: &#8216;No family should have to go through this&#8217;",
+    "link": "https://nypost.com/2025/09/09/us-news/iryna-zarutskas-family-speaks-out-after-ukrainian-refugee-slaughtered-on-train/"
   },
   {
     "score": 53,
@@ -28,45 +35,38 @@
     "link": "https://nypost.com/2025/09/09/us-news/bill-clinton-letter-in-epstein-birthday-book-among-new-files-released-by-house-oversight-committee/"
   },
   {
-    "score": 50,
-    "pubdate": "2025-09-09-14-49-29 +0000",
-    "source": "nypost",
-    "title": "Greta Thunberg&#8217;s Gaza flotilla was not hit by a drone, Tunisia says: &#8216;No basis in truth&#8217;",
-    "link": "https://nypost.com/2025/09/09/world-news/greta-thunbergs-gaza-flotilla-not-hit-by-drone-tunisia-says/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-09-09-10-36-47 +0000",
-    "source": "nypost",
-    "title": "&#8216;Brutally savage&#8217; Russian airstrike kills 24 people lining up for pensions in eastern Ukraine, Zelensky says",
-    "link": "https://nypost.com/2025/09/09/world-news/russian-airstrike-kills-more-than-20-people-in-eastern-ukraine-zelensky-says/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-09-09-06-41-09 +0000",
-    "source": "bbc",
-    "title": "Thai court rules ex-PM Thaksin must serve one year in jail",
-    "link": "https://www.bbc.com/news/articles/cly7k2g37g4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 43,
+    "score": 49,
     "pubdate": "2025-09-09-17-05-42 +0000",
     "source": "nypost",
     "title": "US test scores hit damning new lows in math, reading since COVID school closures, &#8216;nation&#8217;s report card&#8217; shows",
     "link": "https://nypost.com/2025/09/09/us-news/us-test-scores-hit-new-low-in-math-reading-post-covid-nations-report-card-shows/"
   },
   {
-    "score": 37,
-    "pubdate": "2025-09-09-19-29-47 +0000",
+    "score": 49,
+    "pubdate": "2025-09-09-10-36-47 +0000",
     "source": "nypost",
-    "title": "Sicko accused of brutally stabbing Ukrainian refugee Iryna Zarutska to death on train hit with federal charge",
-    "link": "https://nypost.com/2025/09/09/us-news/ukrainian-refugee-iryna-zarutskas-alleged-murderer-hit-with-federal-charge/"
+    "title": "&#8216;Brutally savage&#8217; Russian airstrike kills 24 people lining up for pensions in eastern Ukraine, Zelensky says",
+    "link": "https://nypost.com/2025/09/09/world-news/russian-airstrike-kills-more-than-20-people-in-eastern-ukraine-zelensky-says/"
   },
   {
-    "score": 35,
-    "pubdate": "2025-09-09-17-15-05 +0000",
+    "score": 47,
+    "pubdate": "2025-09-09-09-30-00 +0000",
+    "source": "wsj",
+    "title": "When a federal appeals court recently rejected President Trump&#8217;s claim of unilateral authority to impose global tariffs, his loss was Congress&#8217;s gain",
+    "link": "https://www.wsj.com/politics/policy/cases-on-trumps-powers-raise-stakes-for-congress-dbf44dd8"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-09-09-03-37-16 +0000",
     "source": "nypost",
-    "title": "Jobs growth revised down by staggering 911K &#8212; all but sealing case for Fed to cut rates next week",
-    "link": "https://nypost.com/2025/09/09/business/jobs-growth-revised-down-by-911000-all-but-sealing-case-for-fed-rate-cuts/"
+    "title": "Drone strikes Greta Thunberg-led Gaza flotilla in Tunisian port, organizers say",
+    "link": "https://nypost.com/2025/09/08/world-news/drone-strikes-greta-thunberg-led-gaza-flotilla-in-tunisian-port-organizers-say/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-09-09-10-00-00 +0000",
+    "source": "latimes",
+    "title": "An AI-animated film will debut next year. Is this AI's 'Toy Story' moment?",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-09/ai-animated-film-debut-next-year"
   }
 ]
