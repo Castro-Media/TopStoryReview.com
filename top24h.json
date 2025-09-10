@@ -1,13 +1,13 @@
 [
   {
-    "score": 261,
+    "score": 262,
     "pubdate": "2025-09-09-22-19-57 +0000",
     "source": "wapo",
     "headline": "Israeli strike targeting Hamas in Qatar ‘does not advance Israel or America’s goals,’ Trump says",
     "link": "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion-israel-hamas/"
   },
   {
-    "score": 114,
+    "score": 111,
     "pubdate": "2025-09-09-17-00-25 +0000",
     "source": "nyt",
     "headline": "Protests Against Nepal’s Social Media Ban Show Resistance to a Global Censorship Trend",
@@ -28,25 +28,18 @@
     "link": "https://nypost.com/2025/09/09/world-news/greta-thunbergs-gaza-flotilla-not-hit-by-drone-tunisia-says/"
   },
   {
-    "score": 93,
-    "pubdate": "2025-09-10-00-03-37 +0000",
+    "score": 80,
+    "pubdate": "2025-09-10-00-36-34 +0000",
     "source": "nypost",
-    "headline": "Trump asks EU to levy up to 100% tariffs on China, India to punish rogue states for buying Russian oil",
-    "link": "https://nypost.com/2025/09/09/world-news/trump-asks-eu-to-levy-up-to-100-tariffs-on-china-india-for-buying-russian-oil/"
+    "headline": "Poland’s airspace ‘repeatedly violated’ by Russian ‘drone-type objects’ during attack on Ukraine",
+    "link": "https://nypost.com/2025/09/09/world-news/ukraines-air-force-warns-russian-drones-entered-polands-airspace/"
   },
   {
-    "score": 79,
-    "pubdate": "2025-09-09-06-41-09 +0000",
-    "source": "bbc",
-    "headline": "Thai court rules ex-PM Thaksin must serve one year in jail",
-    "link": "https://www.bbc.com/news/articles/cly7k2g37g4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 69,
-    "pubdate": "2025-09-10-02-06-16 +0000",
-    "source": "bbc",
-    "headline": "Hamas claims leadership survived Israeli attack in Doha, but confirms six deaths",
-    "link": "https://www.bbc.com/news/articles/ced58zywdwno?at_medium=RSS&at_campaign=rss"
+    "score": 65,
+    "pubdate": "2025-09-10-02-45-20 +0000",
+    "source": "nypost",
+    "headline": "Court rules that Lisa Cook can keep job as Fed governor while fighting Trump’s firing efforts",
+    "link": "https://nypost.com/2025/09/09/us-news/court-rules-that-lisa-cook-can-keep-job-as-fed-governor-while-fighting-trumps-firing-efforts/"
   },
   {
     "score": 65,
@@ -56,6 +49,13 @@
     "link": "https://nypost.com/2025/09/09/us-news/iryna-zarutskas-family-speaks-out-after-ukrainian-refugee-slaughtered-on-train/"
   },
   {
+    "score": 61,
+    "pubdate": "2025-09-10-00-03-37 +0000",
+    "source": "nypost",
+    "headline": "Trump asks EU to levy up to 100% tariffs on China, India to punish rogue states for buying Russian oil",
+    "link": "https://nypost.com/2025/09/09/world-news/trump-asks-eu-to-levy-up-to-100-tariffs-on-china-india-for-buying-russian-oil/"
+  },
+  {
     "score": 59,
     "pubdate": "2025-09-09-17-44-10 +0000",
     "source": "nypost",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2025/09/09/us-news/wh-fumes-over-epstein-birthday-book-said-to-include-notes-by-trump-clinton-and-other-big-names/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-09-09-22-05-59 +0000",
-    "source": "nypost",
-    "headline": "Ukraine’s defenses may collapse under escalating Russian attacks as US aid slows: report",
-    "link": "https://nypost.com/2025/09/09/world-news/ukraines-defenses-may-collapse-under-escalating-russian-attacks/"
+    "score": 58,
+    "pubdate": "2025-09-10-06-39-08 +0000",
+    "source": "nyt",
+    "headline": "Nepalis Worry About Security Forces’ Next Step After Crackdown Leaves 22 Dead",
+    "link": "https://www.nytimes.com/2025/09/10/world/asia/nepal-security-forces-army-police.html"
   }
 ]
