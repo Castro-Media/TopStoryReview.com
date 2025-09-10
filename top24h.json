@@ -1,52 +1,45 @@
 [
   {
-    "score": 265,
+    "score": 260,
     "pubdate": "2025-09-09-22-19-57 +0000",
     "source": "wapo",
     "headline": "Israeli strike targeting Hamas in Qatar ‘does not advance Israel or America’s goals,’ Trump says",
     "link": "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion-israel-hamas/"
   },
   {
-    "score": 117,
+    "score": 115,
     "pubdate": "2025-09-09-13-28-42 +0000",
     "source": "nypost",
     "headline": "Nepal’s prime minister resigns as anti-corruption protests turn violent, leaving 19 dead",
     "link": "https://nypost.com/2025/09/09/world-news/nepals-prime-minister-resigns-after-19-killed-in-protests/"
   },
   {
-    "score": 99,
+    "score": 97,
     "pubdate": "2025-09-10-00-36-34 +0000",
     "source": "nypost",
     "headline": "Poland’s airspace ‘repeatedly violated’ by Russian ‘drone-type objects’ during attack on Ukraine",
     "link": "https://nypost.com/2025/09/09/world-news/ukraines-air-force-warns-russian-drones-entered-polands-airspace/"
   },
   {
-    "score": 87,
+    "score": 85,
     "pubdate": "2025-09-09-18-28-45 +0000",
     "source": "nypost",
     "headline": "French President Emmanuel Macron names loyalist Sebastien Lecornu as new prime minister — a day after government collapse",
     "link": "https://nypost.com/2025/09/09/world-news/french-president-emmanuel-macron-names-loyalist-sebastien-lecornu-as-new-prime-minister/"
   },
   {
-    "score": 78,
-    "pubdate": "2025-09-09-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "When a federal appeals court recently rejected President Trump’s claim of unilateral authority to impose global tariffs, his loss was Congress’s gain",
-    "link": "https://www.wsj.com/politics/policy/cases-on-trumps-powers-raise-stakes-for-congress-dbf44dd8"
-  },
-  {
-    "score": 67,
-    "pubdate": "2025-09-09-11-48-49 +0000",
-    "source": "bbc",
-    "headline": "Israeli military orders all Gaza City residents to evacuate ahead of ground assault",
-    "link": "https://www.bbc.com/news/articles/cvg47kvld8go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-09-10-01-32-56 +0000",
+    "score": 75,
+    "pubdate": "2025-09-09-14-49-29 +0000",
     "source": "nypost",
-    "headline": "Iryna Zarutska’s family speaks out after Ukrainian refugee slaughtered on train: ‘No family should have to go through this’",
-    "link": "https://nypost.com/2025/09/09/us-news/iryna-zarutskas-family-speaks-out-after-ukrainian-refugee-slaughtered-on-train/"
+    "headline": "Greta Thunberg’s Gaza flotilla was not hit by a drone, Tunisia says: ‘No basis in truth’",
+    "link": "https://nypost.com/2025/09/09/world-news/greta-thunbergs-gaza-flotilla-not-hit-by-drone-tunisia-says/"
+  },
+  {
+    "score": 66,
+    "pubdate": "2025-09-10-02-45-20 +0000",
+    "source": "nypost",
+    "headline": "Court rules that Lisa Cook can keep job as Fed governor while fighting Trump’s firing efforts",
+    "link": "https://nypost.com/2025/09/09/us-news/court-rules-that-lisa-cook-can-keep-job-as-fed-governor-while-fighting-trumps-firing-efforts/"
   },
   {
     "score": 64,
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2025/09/09/us-news/wh-fumes-over-epstein-birthday-book-said-to-include-notes-by-trump-clinton-and-other-big-names/"
   },
   {
-    "score": 55,
-    "pubdate": "2025-09-09-17-05-42 +0000",
+    "score": 60,
+    "pubdate": "2025-09-10-00-03-37 +0000",
     "source": "nypost",
-    "headline": "US test scores hit damning new lows in math, reading since COVID school closures, ‘nation’s report card’ shows",
-    "link": "https://nypost.com/2025/09/09/us-news/us-test-scores-hit-new-low-in-math-reading-post-covid-nations-report-card-shows/"
+    "headline": "Trump asks EU to levy up to 100% tariffs on China, India to punish rogue states for buying Russian oil",
+    "link": "https://nypost.com/2025/09/09/world-news/trump-asks-eu-to-levy-up-to-100-tariffs-on-china-india-for-buying-russian-oil/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-09-09-13-59-52 +0000",
-    "source": "wapo",
-    "headline": "The U.S. Embassy in Doha has advised American citizens in Qatar to shelter-in-place following Israeli strikes...",
-    "link": "https://www.washingtonpost.com"
+    "score": 58,
+    "pubdate": "2025-09-10-01-32-56 +0000",
+    "source": "nypost",
+    "headline": "Iryna Zarutska’s family speaks out after Ukrainian refugee slaughtered on train: ‘No family should have to go through this’",
+    "link": "https://nypost.com/2025/09/09/us-news/iryna-zarutskas-family-speaks-out-after-ukrainian-refugee-slaughtered-on-train/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-09-09-17-00-25 +0000",
+    "source": "nyt",
+    "headline": "Protests Against Nepal’s Social Media Ban Show Resistance to a Global Censorship Trend",
+    "link": "https://www.nytimes.com/2025/09/09/world/asia/nepal-protests-social-media-ban-censorship.html"
   }
 ]
