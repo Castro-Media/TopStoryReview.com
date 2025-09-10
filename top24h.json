@@ -1,20 +1,20 @@
 [
   {
-    "score": 261,
+    "score": 263,
     "pubdate": "2025-09-09-22-19-57 +0000",
     "source": "wapo",
     "headline": "Israeli strike targeting Hamas in Qatar ‘does not advance Israel or America’s goals,’ Trump says",
     "link": "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion-israel-hamas/"
   },
   {
-    "score": 123,
+    "score": 127,
     "pubdate": "2025-09-09-17-00-25 +0000",
     "source": "nyt",
     "headline": "Protests Against Nepal’s Social Media Ban Show Resistance to a Global Censorship Trend",
     "link": "https://www.nytimes.com/2025/09/09/world/asia/nepal-protests-social-media-ban-censorship.html"
   },
   {
-    "score": 110,
+    "score": 107,
     "pubdate": "2025-09-09-18-28-45 +0000",
     "source": "nypost",
     "headline": "French President Emmanuel Macron names loyalist Sebastien Lecornu as new prime minister — a day after government collapse",
@@ -28,7 +28,7 @@
     "link": "https://nypost.com/2025/09/09/world-news/greta-thunbergs-gaza-flotilla-not-hit-by-drone-tunisia-says/"
   },
   {
-    "score": 89,
+    "score": 93,
     "pubdate": "2025-09-10-00-03-37 +0000",
     "source": "nypost",
     "headline": "Trump asks EU to levy up to 100% tariffs on China, India to punish rogue states for buying Russian oil",
@@ -57,16 +57,16 @@
   },
   {
     "score": 53,
-    "pubdate": "2025-09-09-13-59-52 +0000",
-    "source": "wapo",
-    "headline": "The U.S. Embassy in Doha has advised American citizens in Qatar to shelter-in-place following Israeli strikes...",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 53,
     "pubdate": "2025-09-09-22-05-59 +0000",
     "source": "nypost",
     "headline": "Ukraine’s defenses may collapse under escalating Russian attacks as US aid slows: report",
     "link": "https://nypost.com/2025/09/09/world-news/ukraines-defenses-may-collapse-under-escalating-russian-attacks/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-09-09-13-59-52 +0000",
+    "source": "wapo",
+    "headline": "The U.S. Embassy in Doha has advised American citizens in Qatar to shelter-in-place following Israeli strikes...",
+    "link": "https://www.washingtonpost.com"
   }
 ]
