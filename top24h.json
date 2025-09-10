@@ -1,13 +1,13 @@
 [
   {
-    "score": 263,
+    "score": 261,
     "pubdate": "2025-09-09-22-19-57 +0000",
     "source": "wapo",
     "headline": "Israeli strike targeting Hamas in Qatar ‘does not advance Israel or America’s goals,’ Trump says",
     "link": "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion-israel-hamas/"
   },
   {
-    "score": 127,
+    "score": 114,
     "pubdate": "2025-09-09-17-00-25 +0000",
     "source": "nyt",
     "headline": "Protests Against Nepal’s Social Media Ban Show Resistance to a Global Censorship Trend",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2025/09/09/world-news/french-president-emmanuel-macron-names-loyalist-sebastien-lecornu-as-new-prime-minister/"
   },
   {
-    "score": 94,
+    "score": 95,
     "pubdate": "2025-09-09-14-49-29 +0000",
     "source": "nypost",
     "headline": "Greta Thunberg’s Gaza flotilla was not hit by a drone, Tunisia says: ‘No basis in truth’",
@@ -35,18 +35,25 @@
     "link": "https://nypost.com/2025/09/09/world-news/trump-asks-eu-to-levy-up-to-100-tariffs-on-china-india-for-buying-russian-oil/"
   },
   {
-    "score": 78,
+    "score": 79,
     "pubdate": "2025-09-09-06-41-09 +0000",
     "source": "bbc",
     "headline": "Thai court rules ex-PM Thaksin must serve one year in jail",
     "link": "https://www.bbc.com/news/articles/cly7k2g37g4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 67,
-    "pubdate": "2025-09-09-18-15-44 +0000",
-    "source": "wapo",
-    "headline": "Hamas said the attack “failed” to take out Hamas leaders, including Khalil al-Hayya, a central figure...",
-    "link": "https://www.washingtonpost.com"
+    "score": 69,
+    "pubdate": "2025-09-10-02-06-16 +0000",
+    "source": "bbc",
+    "headline": "Hamas claims leadership survived Israeli attack in Doha, but confirms six deaths",
+    "link": "https://www.bbc.com/news/articles/ced58zywdwno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 65,
+    "pubdate": "2025-09-10-01-32-56 +0000",
+    "source": "nypost",
+    "headline": "Iryna Zarutska’s family speaks out after Ukrainian refugee slaughtered on train: ‘No family should have to go through this’",
+    "link": "https://nypost.com/2025/09/09/us-news/iryna-zarutskas-family-speaks-out-after-ukrainian-refugee-slaughtered-on-train/"
   },
   {
     "score": 59,
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2025/09/09/us-news/wh-fumes-over-epstein-birthday-book-said-to-include-notes-by-trump-clinton-and-other-big-names/"
   },
   {
-    "score": 53,
+    "score": 54,
     "pubdate": "2025-09-09-22-05-59 +0000",
     "source": "nypost",
     "headline": "Ukraine’s defenses may collapse under escalating Russian attacks as US aid slows: report",
     "link": "https://nypost.com/2025/09/09/world-news/ukraines-defenses-may-collapse-under-escalating-russian-attacks/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-09-09-13-59-52 +0000",
-    "source": "wapo",
-    "headline": "The U.S. Embassy in Doha has advised American citizens in Qatar to shelter-in-place following Israeli strikes...",
-    "link": "https://www.washingtonpost.com"
   }
 ]
