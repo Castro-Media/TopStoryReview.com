@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 70,
+    "pubdate": "2025-09-10-20-46-03 +0000",
+    "source": "wapo",
+    "headline": "Charlie Kirk has died after being shot at a Utah Valley University event on Wednesday, President...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-09-10-20-37-00 +0000",
+    "source": "wsj",
+    "headline": "Nearly half a day after NATO ordered jet fighters to shoot down Russian drones over Polish territory, President Trump issued his first public comment, but it was a seemingly ambiguous reaction",
+    "link": "https://www.wsj.com/politics/national-security/here-we-go-trump-weighs-in-on-russian-drone-nato-incursion-24f1dba1"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-09-10-20-48-55 +0000",
+    "source": "nypost",
+    "headline": "Speaker Johnson announces moment of silence for Charlie Kirk following UVU shooting: ‘Political violence has become all too common’",
+    "link": "https://nypost.com/2025/09/10/us-news/speaker-johnson-announces-moment-of-silence-for-kirk-political-violence-has-become-all-too-common/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-09-10-19-57-26 +0000",
+    "source": "startribune",
+    "headline": "Former Minnesota Teacher of the Year found guilty of sexually assaulting his 14-year-old student",
+    "link": "https://www.startribune.com/former-minnesota-teacher-of-the-year-found-guilty-of-sexually-assaulting-his-14-year-old-student/601471328"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-10-20-31-24 +0000",
+    "source": "latimes",
+    "headline": "DoorDash plans to test drone deliveries in San Francisco warehouse",
+    "link": "https://www.latimes.com/business/story/2025-09-10/doordash-plans-to-test-drone-deliveries-in-san-francisco"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-10-20-42-55 +0000",
+    "source": "nypost",
+    "headline": "Subway surge of overnight NYPD cops will be extended, Hochul says — as transit crime hits record lows",
+    "link": "https://nypost.com/2025/09/10/us-news/subway-surge-of-overnight-nypd-cops-will-be-extended-hochul-says-as-transit-crime-hits-record-lows/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-10-19-59-15 +0000",
+    "source": "wapo",
+    "headline": "Outside Turning Point’s headquarters in Phoenix, security officials turned away reporters and others seeking access to...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-10-20-21-18 +0000",
+    "source": "nyt",
+    "headline": "A New 9/11 Generation: These Children Promise to Never Forget",
+    "link": "https://www.nytimes.com/2025/09/10/us/politics/911-september-11-2001-attack-children.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-10-20-44-04 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Rules for Transgender Boy in Bathroom Dispute",
+    "link": "https://www.nytimes.com/2025/09/10/us/politics/supreme-court-transgender-bathroom.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-09-10-20-08-00 +0000",
+    "source": "wsj",
+    "headline": "Oracle, OpenAI Sign Massive $300 Billion Cloud Computing Deal",
+    "link": "https://www.wsj.com/business/openai-oracle-sign-300-billion-computing-deal-among-biggest-in-history-ff27c8fe?mod=pls_whats_news_us_business_f"
+  }
+]
