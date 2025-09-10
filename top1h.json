@@ -1,51 +1,72 @@
 [
   {
+    "score": 37,
+    "pubdate": "2025-09-10-14-52-06 +0000",
+    "source": "nyt",
+    "headline": "NATO Says It Scrambled Fighter Jets to Shoot Down Russian Drones Over Poland",
+    "link": "https://www.nytimes.com/2025/09/10/world/europe/poland-russia-drones-ukraine-attack.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-09-10-14-15-58 +0000",
+    "source": "nypost",
+    "headline": "Dem James Walkinshaw takes Virginia special election, narrowing House GOP majority",
+    "link": "https://nypost.com/2025/09/10/us-news/democrat-james-walkinshaw-takes-virginia-special-election-narrowing-house-gop-majority/"
+  },
+  {
     "score": 18,
-    "pubdate": "2025-09-10-13-00-00 +0000",
+    "pubdate": "2025-09-10-14-12-12 +0000",
+    "source": "nyt",
+    "headline": "Facing Israeli Assault, Many in Gaza City Say Fleeing Again Is Worse",
+    "link": "https://www.nytimes.com/2025/09/10/world/middleeast/gaza-city-residents-israel.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-10-14-11-30 +0000",
+    "source": "nyt",
+    "headline": "The Moment Nepal’s Gen Z Protesters Felt the Vibe Change",
+    "link": "https://www.nytimes.com/2025/09/10/world/asia/nepal-gen-z-protesters.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-10-14-00-00 +0000",
     "source": "wsj",
-    "headline": "If the Supreme Court rules in favor of the president on tariffs, it could greenlight his raising other new tax revenue without Congress, WSJ’s @greg_ip writes",
-    "link": "https://www.wsj.com/economy/trade/tariff-case-could-give-trump-massive-new-fiscal-powers-cfa385a1"
+    "headline": "It is a miracle that the government stayed so fiscally responsible for so much of our history. But now, what would Alexander Hamilton say?",
+    "link": "https://www.wsj.com/economy/alexander-hamilton-national-debt-155e2634"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-10-14-29-05 +0000",
+    "source": "nypost",
+    "headline": "Oracle stock soars 40% as it projects half a trillion dollars in revenue, setting Ellison up for $90B gain",
+    "link": "https://nypost.com/2025/09/10/business/oracle-shares-skyrocket-as-it-projects-half-a-trillion-dollars-in-revenue-setting-ellison-up-for-90b-gain/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-10-14-04-13 +0000",
+    "source": "bbc",
+    "headline": "Samantha Cameron's fashion label Cefinn to shut",
+    "link": "https://www.bbc.com/news/articles/cj4y8vzxdwvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 11,
-    "pubdate": "2025-09-10-12-55-00 +0000",
-    "source": "wsj",
-    "headline": "NATO Planes Shoot Down Russian Drones Deep Inside Poland",
-    "link": "https://www.wsj.com/world/europe/poland-shoots-down-drones-deep-inside-nato-members-territory-692452e8"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-10-13-02-38 +0000",
-    "source": "bbc",
-    "headline": "Children feared among three dead in Channel crossing attempt",
-    "link": "https://www.bbc.com/news/articles/ckgy0n4d99jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-09-10-12-59-16 +0000",
+    "pubdate": "2025-09-10-14-44-52 +0000",
     "source": "wapo",
-    "headline": "What to know as Poland invokes NATO Article 4, citing Russian drone violation",
-    "link": "https://www.washingtonpost.com/world/2025/09/10/poland-russia-ukraine-drone-article-4-nato/"
+    "headline": "Israel threatens ‘enemies everywhere’ after strike against Hamas in Qatar",
+    "link": "https://www.washingtonpost.com/world/2025/09/10/israel-qatar-strike-hamas/"
   },
   {
-    "score": 4,
-    "pubdate": "2025-09-10-12-57-53 +0000",
+    "score": 11,
+    "pubdate": "2025-09-10-14-34-02 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/10/world/nepal-protests/heres-the-latest"
+    "headline": "New Yorkers Support Free Buses, but They Don’t Think It Should Happen",
+    "link": "https://www.nytimes.com/2025/09/10/upshot/polling-experiment-free-buses.html"
   },
   {
-    "score": 2,
-    "pubdate": "2025-09-10-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Basket case",
-    "link": "https://missionlocal.org/2025/09/sf-photos-basket-case/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-10-12-57-53 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/10/world/nepal-protests/heres-the-latest"
+    "score": 11,
+    "pubdate": "2025-09-10-14-11-25 +0000",
+    "source": "nypost",
+    "headline": "Steve Irwin’s dad trashes ‘d–khead’ American influencer’s viral crocodile-catching videos",
+    "link": "https://nypost.com/2025/09/10/world-news/steve-irwins-dad-slams-influencers-crocodile-catching-video/"
   }
 ]
