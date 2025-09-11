@@ -1,6 +1,6 @@
 [
   {
-    "score": 349,
+    "score": 347,
     "pubdate": "2025-09-11-00-08-00 +0000",
     "source": "wsj",
     "headline": "Charlie Kirk was a provocative conservative influencer who built a powerful media and political organization and became a confidant of President Trump",
@@ -28,18 +28,11 @@
     "link": "https://www.wsj.com/politics/national-security/here-we-go-trump-weighs-in-on-russian-drone-nato-incursion-24f1dba1"
   },
   {
-    "score": 84,
+    "score": 80,
     "pubdate": "2025-09-10-19-05-25 +0000",
     "source": "bbc",
     "headline": "'Netanyahu, we're not leaving': Defiance in Gaza City as Israel shows aid sites planned for evacuees",
     "link": "https://www.bbc.com/news/articles/c0lkz0l4x51o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-09-10-08-07-20 +0000",
-    "source": "nyt",
-    "headline": "Before and after photos show how protests damaged Nepal’s government buildings.",
-    "link": "https://www.nytimes.com/live/2025/09/10/world/nepal-protests/before-and-after-photos-show-how-protests-damaged-nepals-government-buildings"
   },
   {
     "score": 71,
@@ -49,7 +42,7 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2025-09-10-15-04-00 +0000",
     "source": "wsj",
     "headline": "If the Supreme Court rules in favor of the president on tariffs, it could greenlight his raising other new tax revenue without Congress, WSJ’s @greg_ip writes",
@@ -61,6 +54,13 @@
     "source": "nypost",
     "headline": "UK ambassador Peter Mandelson told Jeffrey Epstein ‘I think the world of you’ ahead of 2008 guilty plea: emails",
     "link": "https://nypost.com/2025/09/10/us-news/uk-ambassador-peter-mandelson-told-jeffrey-epstein-i-think-the-world-of-you-ahead-of-2008-guilty-plea-emails/"
+  },
+  {
+    "score": 68,
+    "pubdate": "2025-09-10-08-07-20 +0000",
+    "source": "nyt",
+    "headline": "Before and after photos show how protests damaged Nepal’s government buildings.",
+    "link": "https://www.nytimes.com/live/2025/09/10/world/nepal-protests/before-and-after-photos-show-how-protests-damaged-nepals-government-buildings"
   },
   {
     "score": 66,
