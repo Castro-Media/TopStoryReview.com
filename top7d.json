@@ -1,34 +1,27 @@
 [
   {
-    "score": 555,
+    "score": 556,
     "pubdate": "2025-09-11-00-08-00 +0000",
     "source": "wsj",
     "headline": "Charlie Kirk was a provocative conservative influencer who built a powerful media and political organization and became a confidant of President Trump",
     "link": "https://www.wsj.com/politics/charlie-kirk-turning-point-usa-5cfe4015"
   },
   {
-    "score": 297,
+    "score": 295,
     "pubdate": "2025-09-08-17-20-00 +0000",
     "source": "wsj",
     "headline": "New polling by the Federal Reserve Bank of New York shows American workers’ confidence in finding a new job if they lose the position they currently hold has hit a record low",
     "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5"
   },
   {
-    "score": 196,
+    "score": 201,
     "pubdate": "2025-09-09-22-19-57 +0000",
     "source": "wapo",
     "headline": "Israeli strike targeting Hamas in Qatar ‘does not advance Israel or America’s goals,’ Trump says",
     "link": "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion-israel-hamas/"
   },
   {
-    "score": 151,
-    "pubdate": "2025-09-10-23-45-36 +0000",
-    "source": "latimes",
-    "headline": "Amy Coney Barrett visits SoCal a day after the Supreme Court's immigration raid ruling",
-    "link": "https://www.latimes.com/california/story/2025-09-10/amy-coney-barrett-memoir"
-  },
-  {
-    "score": 148,
+    "score": 150,
     "pubdate": "2025-09-10-17-08-00 +0000",
     "source": "wsj",
     "headline": "Former Vice President Kamala Harris said in a new memoir that it was reckless to let Joe Biden and his wife decide on their own whether he should run for re-election",
@@ -36,37 +29,44 @@
   },
   {
     "score": 148,
+    "pubdate": "2025-09-10-23-45-36 +0000",
+    "source": "latimes",
+    "headline": "Amy Coney Barrett visits SoCal a day after the Supreme Court's immigration raid ruling",
+    "link": "https://www.latimes.com/california/story/2025-09-10/amy-coney-barrett-memoir"
+  },
+  {
+    "score": 144,
     "pubdate": "2025-09-10-20-07-35 +0000",
     "source": "cbc",
     "headline": "Poland says it found 14 Russian drones on its territory. Just how will NATO respond?",
     "link": "https://www.cbc.ca/news/world/poland-nato-1.7630155?cmp=rss"
   },
   {
-    "score": 145,
+    "score": 143,
     "pubdate": "2025-09-10-23-40-09 +0000",
     "source": "nypost",
     "headline": "UK ambassador Peter Mandelson told Jeffrey Epstein ‘I think the world of you’ ahead of 2008 guilty plea: emails",
     "link": "https://nypost.com/2025/09/10/us-news/uk-ambassador-peter-mandelson-told-jeffrey-epstein-i-think-the-world-of-you-ahead-of-2008-guilty-plea-emails/"
   },
   {
-    "score": 128,
+    "score": 127,
     "pubdate": "2025-09-10-21-12-12 +0000",
     "source": "wapo",
     "headline": "The Utah Republican Party characterized the shooting as an attack on free speech, “peddled by radical...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 119,
-    "pubdate": "2025-09-10-16-03-48 +0000",
-    "source": "nypost",
-    "headline": "Wholesale inflation unexpectedly fell in August, teeing up Fed for interest rate cut next week",
-    "link": "https://nypost.com/2025/09/10/business/wholesale-inflation-unexpectedly-fell-in-august-teeing-up-fed-for-interest-rate-cut-next-week/"
-  },
-  {
-    "score": 118,
+    "score": 121,
     "pubdate": "2025-09-07-03-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump unveiled his EU trade deal, businesses across the bloc thought it would end months of uncertainty. Less than two months on, frustration is growing in Europe.",
     "link": "https://www.wsj.com/economy/trade/the-eus-trade-truce-with-the-u-s-is-in-danger-of-unraveling-d8238c07"
+  },
+  {
+    "score": 118,
+    "pubdate": "2025-09-10-16-03-48 +0000",
+    "source": "nypost",
+    "headline": "Wholesale inflation unexpectedly fell in August, teeing up Fed for interest rate cut next week",
+    "link": "https://nypost.com/2025/09/10/business/wholesale-inflation-unexpectedly-fell-in-august-teeing-up-fed-for-interest-rate-cut-next-week/"
   }
 ]
