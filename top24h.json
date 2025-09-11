@@ -1,20 +1,20 @@
 [
   {
-    "score": 288,
+    "score": 299,
     "pubdate": "2025-09-10-19-16-21 +0000",
     "source": "wapo",
     "headline": "President Donald Trump posted on Truth Social that Kirk, a Trump supporter, had been shot.",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 172,
+    "score": 192,
     "pubdate": "2025-09-10-22-42-00 +0000",
     "source": "wsj",
     "headline": "Shots were fired Wednesday at Utah Valley University, where American political activist and author Charlie Kirk was speaking",
     "link": "https://www.wsj.com/us-news/charlie-kirk-shooting-utah-valley-university-9c2f9817"
   },
   {
-    "score": 142,
+    "score": 140,
     "pubdate": "2025-09-10-17-08-00 +0000",
     "source": "wsj",
     "headline": "Former Vice President Kamala Harris said in a new memoir that it was reckless to let Joe Biden and his wife decide on their own whether he should run for re-election",
@@ -28,21 +28,14 @@
     "link": "https://www.washingtonpost.com/world/2025/09/10/israel-gaza-city/"
   },
   {
-    "score": 90,
+    "score": 92,
     "pubdate": "2025-09-10-20-37-00 +0000",
     "source": "wsj",
     "headline": "Nearly half a day after NATO ordered jet fighters to shoot down Russian drones over Polish territory, President Trump issued his first public comment, but it was a seemingly ambiguous reaction",
     "link": "https://www.wsj.com/politics/national-security/here-we-go-trump-weighs-in-on-russian-drone-nato-incursion-24f1dba1"
   },
   {
-    "score": 71,
-    "pubdate": "2025-09-10-08-07-20 +0000",
-    "source": "nyt",
-    "headline": "Before and after photos show how protests damaged Nepal’s government buildings.",
-    "link": "https://www.nytimes.com/live/2025/09/10/world/nepal-protests/before-and-after-photos-show-how-protests-damaged-nepals-government-buildings"
-  },
-  {
-    "score": 70,
+    "score": 72,
     "pubdate": "2025-09-10-10-00-00 +0000",
     "source": "nypost",
     "headline": "Lisa Cook should be kicked out of Fed’s September meeting, Larry Kudlow tells ‘Pod Force One’",
@@ -50,20 +43,27 @@
   },
   {
     "score": 70,
-    "pubdate": "2025-09-10-00-36-34 +0000",
-    "source": "nypost",
-    "headline": "Poland’s airspace ‘repeatedly violated’ by Russian ‘drone-type objects’ during attack on Ukraine",
-    "link": "https://nypost.com/2025/09/09/world-news/ukraines-air-force-warns-russian-drones-entered-polands-airspace/"
-  },
-  {
-    "score": 69,
     "pubdate": "2025-09-10-15-04-00 +0000",
     "source": "wsj",
     "headline": "If the Supreme Court rules in favor of the president on tariffs, it could greenlight his raising other new tax revenue without Congress, WSJ’s @greg_ip writes",
     "link": "https://www.wsj.com/economy/trade/tariff-case-could-give-trump-massive-new-fiscal-powers-cfa385a1"
   },
   {
-    "score": 65,
+    "score": 69,
+    "pubdate": "2025-09-10-08-07-20 +0000",
+    "source": "nyt",
+    "headline": "Before and after photos show how protests damaged Nepal’s government buildings.",
+    "link": "https://www.nytimes.com/live/2025/09/10/world/nepal-protests/before-and-after-photos-show-how-protests-damaged-nepals-government-buildings"
+  },
+  {
+    "score": 67,
+    "pubdate": "2025-09-10-00-36-34 +0000",
+    "source": "nypost",
+    "headline": "Poland’s airspace ‘repeatedly violated’ by Russian ‘drone-type objects’ during attack on Ukraine",
+    "link": "https://nypost.com/2025/09/09/world-news/ukraines-air-force-warns-russian-drones-entered-polands-airspace/"
+  },
+  {
+    "score": 67,
     "pubdate": "2025-09-10-19-03-28 +0000",
     "source": "latimes",
     "headline": "'Person of interest' in custody in fatal shooting of Turning Point USA founder Charlie Kirk",
