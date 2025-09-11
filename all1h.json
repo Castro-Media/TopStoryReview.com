@@ -1,236 +1,272 @@
 [
   {
-    "headline": "June Wilkinson, Pinup Star and Screen Siren, Is Dead at 85",
-    "link": "https://www.nytimes.com/2025/09/11/movies/june-wilkinson-dead.html",
+    "headline": "Brazil’s Supreme Court Is On Course to Convict Bolsonaro in Coup Plot",
+    "link": "https://www.nytimes.com/2025/09/11/world/americas/brazil-supreme-court-bolsonaro-coup-convict.html",
     "source": "nyt",
-    "pubdate": "2025-09-11-20-52-14 +0000"
+    "pubdate": "2025-09-11-21-52-57 +0000"
   },
   {
-    "headline": "Bolsonaro found guilty in attempted coup, assassination plot",
-    "link": "https://www.washingtonpost.com/world/2025/09/11/bolsonaro-convicted-election-plot-assassinations/",
-    "source": "wapo",
-    "pubdate": "2025-09-11-20-44-26 +0000"
+    "headline": "Microsoft, OpenAI Announce Deal to Extend Partnership",
+    "link": "https://www.wsj.com/tech/microsoft-openai-announce-deal-to-extend-partnership-9273ec55?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-51-00 +0000"
   },
   {
-    "headline": "Carney Unveils Major Projects for Canada to Offset Damage of Trump’s Tariffs",
-    "link": "https://www.nytimes.com/2025/09/11/world/canada/carney-trump-infrastructure-tariffs-natural-gas.html",
+    "headline": "Senate Republicans invoked the so-called nuclear option to fast-track confirmation of the Trump administration’s subcabinet nominees, after negotiations with Democrats broke down",
+    "link": "https://www.wsj.com/politics/policy/senate-republicans-go-nuclear-to-fast-track-nominations-9f8954b2",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-50-00 +0000"
+  },
+  {
+    "headline": "YIMBY rally gets testy ahead of vote on upzoning plan",
+    "link": "https://missionlocal.org/2025/09/sf-upzoning-rally-planning-commission-vote/",
+    "source": "missionlocal",
+    "pubdate": "2025-09-11-21-46-49 +0000"
+  },
+  {
+    "headline": "‘Beautiful’ LI library with secret history – and infamous arson case – finally lands on historical registry after years-long push",
+    "link": "https://nypost.com/2025/09/11/us-news/li-librarys-wild-past-including-arson-lands-it-on-historical-registry/",
+    "source": "nypost",
+    "pubdate": "2025-09-11-21-45-51 +0000"
+  },
+  {
+    "headline": "Security at Charlie Kirk Event Seemed Light to Those Who Attended",
+    "link": "https://www.nytimes.com/2025/09/11/us/politics/charlie-kirk-security-shooting.html",
     "source": "nyt",
-    "pubdate": "2025-09-11-20-43-07 +0000"
+    "pubdate": "2025-09-11-21-44-15 +0000"
   },
   {
-    "headline": "Carney Unveils Major Projects for Canada to Offset Damage of Trump’s Tariffs",
-    "link": "https://www.nytimes.com/2025/09/11/world/canada/carney-trump-infrastructure-tariffs-natural-gas.html",
+    "headline": "Security at Charlie Kirk Event Seemed Light to Those Who Attended",
+    "link": "https://www.nytimes.com/2025/09/11/us/politics/charlie-kirk-security-shooting.html",
     "source": "nyt",
-    "pubdate": "2025-09-11-20-43-07 +0000"
+    "pubdate": "2025-09-11-21-44-15 +0000"
   },
   {
-    "headline": "Bolsonaro found guilty - what you need to know",
-    "link": "https://www.bbc.com/news/articles/cy4d409v2neo?at_medium=RSS&at_campaign=rss",
+    "headline": "Opinion | Sorry, Inflation Still Lives",
+    "link": "https://www.wsj.com/opinion/inflation-consumer-price-index-u-s-economy-tariffs-federal-reserve-rate-cuts-8289d9b5",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-42-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Campus Vigils for Charlie Kirk",
+    "link": "https://www.wsj.com/opinion/charlie-kirk-vigils-college-campus-students-12bf52d3",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-40-00 +0000"
+  },
+  {
+    "headline": "Warner Bros Discovery shares surge on buyout reports",
+    "link": "https://www.bbc.com/news/articles/cz9jed2qpq1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-11-20-43-02 +0000"
+    "pubdate": "2025-09-11-21-39-49 +0000"
+  },
+  {
+    "headline": "The Larry and David show: Flush Ellisons set sights on Warner Bros. Discovery",
+    "link": "https://nypost.com/2025/09/11/business/the-larry-and-david-show-flush-ellisons-set-sights-on-warner-bros-discovery/",
+    "source": "nypost",
+    "pubdate": "2025-09-11-21-39-48 +0000"
+  },
+  {
+    "headline": "President Trump’s team began putting in place tighter security measures as shock and anger reverberated through the White House following the killing of conservative activist Charlie Kirk",
+    "link": "https://www.wsj.com/politics/elections/angry-and-in-mourning-trumps-team-tightens-security-after-kirk-shooting-2dab1edd",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-39-00 +0000"
+  },
+  {
+    "headline": "Opinion | Will the Supreme Court Overturn Gay Marriage?",
+    "link": "https://www.wsj.com/opinion/supreme-court-obergefell-gay-marriage-hillary-clinton-kim-davis-roe-v-wade-c8b343df",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-39-00 +0000"
+  },
+  {
+    "headline": "The Manhunt for Charlie Kirk’s Killer",
+    "link": "https://www.nytimes.com/2025/09/11/briefing/charlie-kirk-suspect-bolsonaro-trial-nepal.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-37-22 +0000"
+  },
+  {
+    "headline": "The Manhunt for Charlie Kirk’s Killer",
+    "link": "https://www.nytimes.com/2025/09/11/briefing/charlie-kirk-suspect-bolsonaro-trial-nepal.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-37-22 +0000"
   },
   {
     "headline": "For Trump, Charlie Kirk Is a Deeply Personal Loss",
     "link": "https://www.nytimes.com/2025/09/11/us/politics/trump-kirk.html",
     "source": "nyt",
-    "pubdate": "2025-09-11-20-42-16 +0000"
+    "pubdate": "2025-09-11-21-34-14 +0000"
   },
   {
     "headline": "For Trump, Charlie Kirk Is a Deeply Personal Loss",
     "link": "https://www.nytimes.com/2025/09/11/us/politics/trump-kirk.html",
     "source": "nyt",
-    "pubdate": "2025-09-11-20-42-16 +0000"
-  },
-  {
-    "headline": "Predator rapes, robs 25-year-old NYC woman after threatening her at knifepoint at Bronx hotel: cops",
-    "link": "https://nypost.com/2025/09/11/us-news/predator-rapes-robs-25-year-old-nyc-woman-after-threatening-her-at-knifepoint-at-bronx-hotel-cops/",
-    "source": "nypost",
-    "pubdate": "2025-09-11-20-42-04 +0000"
-  },
-  {
-    "headline": "Consumer prices were up 2.9% in August from a year earlier, hotter than July’s gain of 2.7%",
-    "link": "https://www.wsj.com/economy/cpi-inflation-august-2025-interest-rate-ed9f1e7c",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-40-00 +0000"
-  },
-  {
-    "headline": "Dow Rallies Above 46000 for the First Time",
-    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-11-2025-a873f45d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-34-00 +0000"
-  },
-  {
-    "headline": "Opinion | Charlie Kirk Gave Me Purpose",
-    "link": "https://www.wsj.com/opinion/charlie-kirk-gave-me-purpose-by-4e6e754a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-29-00 +0000"
-  },
-  {
-    "headline": "Opinion | Charlie Kirk Gave Me Purpose",
-    "link": "https://www.wsj.com/opinion/charlie-kirk-gave-me-purpose-by-4e6e754a",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-29-00 +0000"
-  },
-  {
-    "headline": "Where Charlie Kirk Stood on Key Political Issues",
-    "link": "https://www.nytimes.com/2025/09/11/us/charlie-kirk-views-guns-gender-climate.html",
-    "source": "nyt",
-    "pubdate": "2025-09-11-20-27-18 +0000"
-  },
-  {
-    "headline": "Paramount Plans Bid for Warner Bros. Discovery",
-    "link": "https://www.nytimes.com/2025/09/11/business/media/paramount-warner-bros-discovery-bid.html",
-    "source": "nyt",
-    "pubdate": "2025-09-11-20-26-09 +0000"
-  },
-  {
-    "headline": "Opinion | The Judicial Insubordination Crisis",
-    "link": "https://www.wsj.com/opinion/the-judicial-insubordination-crisis-092e7500",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-26-00 +0000"
-  },
-  {
-    "headline": "FBI releases photos of person of interest in Charlie Kirk's killing on a Utah university campus",
-    "link": "https://www.startribune.com/conservative-activist-charlie-kirk-assassinated-at-utah-university-shooter-still-at-large/601471921",
-    "source": "startribune",
-    "pubdate": "2025-09-11-20-25-02 +0000"
-  },
-  {
-    "headline": "Stunning symbolic ‘Way of Light’ fills WTC’s Oculus at 10:28 a.m. on 9/11 — exact minute the North Twin Tower fell",
-    "link": "https://nypost.com/2025/09/11/us-news/stunning-symbolic-way-of-light-fills-wtcs-oculus-at-1028-a-m-on-9-11-the-exact-minute-the-north-twin-tower-fell/",
-    "source": "nypost",
-    "pubdate": "2025-09-11-20-24-42 +0000"
-  },
-  {
-    "headline": "Walz enters 2026 race with cash, name recognition and political baggage",
-    "link": "https://www.startribune.com/walz-enters-2026-race-with-cash-name-recognition-and-political-baggage/601471749",
-    "source": "startribune",
-    "pubdate": "2025-09-11-20-21-10 +0000"
-  },
-  {
-    "headline": "NPR Names Thomas Evans as Its New Editor",
-    "link": "https://www.nytimes.com/2025/09/11/business/media/npr-editor-thomas-evans.html",
-    "source": "nyt",
-    "pubdate": "2025-09-11-20-20-47 +0000"
-  },
-  {
-    "headline": "Live updates: FBI releases images of person of interest in Charlie Kirk shooting",
-    "link": "https://www.washingtonpost.com/nation/2025/09/11/charlie-kirk-fatal-shooting-investigation-utah/",
-    "source": "wapo",
-    "pubdate": "2025-09-11-20-20-17 +0000"
-  },
-  {
-    "headline": "Bolsonaro's coup trial gripped Brazil - and his conviction will divide the country",
-    "link": "https://www.bbc.com/news/articles/cj3yekj2xygo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-11-20-18-21 +0000"
-  },
-  {
-    "headline": "Bolsonaro's coup trial gripped Brazil - and his conviction will divide the country",
-    "link": "https://www.bbc.com/news/articles/cj3yekj2xygo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-11-20-18-21 +0000"
-  },
-  {
-    "headline": "Wild brawl breaks out during Charlie Kirk vigil at Idaho State Capitol: ‘Beat his ass’",
-    "link": "https://nypost.com/2025/09/11/us-news/wild-brawl-breaks-out-during-charlie-kirk-vigil-at-idaho-state-capitol/",
-    "source": "nypost",
-    "pubdate": "2025-09-11-20-14-24 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani draws FDR comparison from Jamie Raskin as top NY Dems still withhold endorsements in NYC mayoral race",
-    "link": "https://nypost.com/2025/09/11/us-news/zohran-mamdani-draws-praise-from-jamie-raskin-as-top-ny-dems-still-withhold-endorsements-in-nyc-mayoral-race/",
-    "source": "nypost",
-    "pubdate": "2025-09-11-20-12-15 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani draws FDR comparison from Jamie Raskin as top NY Dems still withhold endorsements in NYC mayoral race",
-    "link": "https://nypost.com/2025/09/11/us-news/zohran-mamdani-draws-praise-from-jamie-raskin-as-top-ny-dems-still-withhold-endorsements-in-nyc-mayoral-race/",
-    "source": "nypost",
-    "pubdate": "2025-09-11-20-12-15 +0000"
-  },
-  {
-    "headline": "Russian drone incursion over Poland was ‘deliberate’ test — and warning to NATO, expert says",
-    "link": "https://nypost.com/2025/09/11/world-news/russian-drone-incursion-over-poland-deliberate-test-and-warning-to-nato-expert/",
-    "source": "nypost",
-    "pubdate": "2025-09-11-20-10-31 +0000"
-  },
-  {
-    "headline": "Student Who Shot 2 Others at Colorado School Was ‘Radicalized,’ Officials Say",
-    "link": "https://www.nytimes.com/2025/09/11/us/colorado-high-school-shooter-identified.html",
-    "source": "nyt",
-    "pubdate": "2025-09-11-20-10-12 +0000"
-  },
-  {
-    "headline": "Trump Asks Appeals Court to Allow Firing of Lisa Cook Ahead of Key Fed Meeting",
-    "link": "https://www.nytimes.com/live/2025/09/11/us/trump-news/trump-lisa-cook-appeal-fed",
-    "source": "nyt",
-    "pubdate": "2025-09-11-20-08-50 +0000"
-  },
-  {
-    "headline": "Trump Asks Appeals Court to Allow Firing of Lisa Cook Ahead of Key Fed Meeting",
-    "link": "https://www.nytimes.com/live/2025/09/11/us/trump-news/trump-lisa-cook-appeal-fed",
-    "source": "nyt",
-    "pubdate": "2025-09-11-20-08-50 +0000"
-  },
-  {
-    "headline": "The Young Men Who Saw Charlie Kirk as Their Champion",
-    "link": "https://www.nytimes.com/2025/09/11/us/charlie-kirk-men.html",
-    "source": "nyt",
-    "pubdate": "2025-09-11-20-08-49 +0000"
-  },
-  {
-    "headline": "Brazil's former President Bolsonaro found guilty of plotting coup",
-    "link": "https://www.bbc.com/news/articles/c147n38k800o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-11-20-08-06 +0000"
-  },
-  {
-    "headline": "Brazil's former President Bolsonaro found guilty of plotting coup",
-    "link": "https://www.bbc.com/news/articles/c147n38k800o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-11-20-08-06 +0000"
-  },
-  {
-    "headline": "Canada to Champion Mining, Energy and Port Projects in Economic Revamp",
-    "link": "https://www.wsj.com/world/americas/canada-to-champion-mining-energy-and-port-projects-in-economic-revamp-b89a9db7",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-08-00 +0000"
-  },
-  {
-    "headline": "Opinion | Wasn’t Hell Supposed to Break Loose if the U.S. Struck Iran?",
-    "link": "https://www.wsj.com/opinion/wasnt-hell-supposed-to-break-loose-if-the-u-s-struck-iran-dc5bd219",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-05-00 +0000"
-  },
-  {
-    "headline": "Opinion | Europe Has Been Going Cold on Net Zero",
-    "link": "https://www.wsj.com/opinion/europe-has-been-going-cold-on-net-zero-5d0ab184",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-05-00 +0000"
-  },
-  {
-    "headline": "Opinion | Europe Has Been Going Cold on Net Zero",
-    "link": "https://www.wsj.com/opinion/europe-has-been-going-cold-on-net-zero-5d0ab184",
-    "source": "wsj",
-    "pubdate": "2025-09-11-20-05-00 +0000"
-  },
-  {
-    "headline": "Parolee busted in shocking murder of NYC elderly couple was given a pass for sex offender registry violation: officials",
-    "link": "https://nypost.com/2025/09/11/us-news/parolee-busted-in-shocking-murder-of-nyc-elderly-couple-was-given-a-pass-for-sex-offender-registry-violation-officials/",
-    "source": "nypost",
-    "pubdate": "2025-09-11-20-03-44 +0000"
+    "pubdate": "2025-09-11-21-34-14 +0000"
   },
   {
     "headline": "Jerry Seinfeld Compares ‘Free Palestine’ Movement to K.K.K., Report Says",
     "link": "https://www.nytimes.com/2025/09/11/us/jerry-seinfeld-palestine-kkk-duke.html",
     "source": "nyt",
-    "pubdate": "2025-09-11-19-57-36 +0000"
+    "pubdate": "2025-09-11-21-34-13 +0000"
   },
   {
-    "headline": "Southwest Airlines eyes long-haul flights, luxe lounges in strategic overhaul",
-    "link": "https://nypost.com/2025/09/11/business/southwest-airlines-eyes-long-haul-flights-in-strategic-overhaul/",
+    "headline": "Rep. Ilhan Omar cruelly stomps on conservative activist Charlie Kirk’s legacy: ‘Full of s—‘",
+    "link": "https://nypost.com/2025/09/11/us-news/rep-ilhan-omar-cruelly-stomps-on-conservative-activist-charlie-kirks-legacy-full-of-s/",
     "source": "nypost",
-    "pubdate": "2025-09-11-19-54-44 +0000"
+    "pubdate": "2025-09-11-21-33-56 +0000"
+  },
+  {
+    "headline": "Live updates: Manhunt continues for Charlie Kirk shooter; FBI Director Kash Patel heads to Utah",
+    "link": "https://www.washingtonpost.com/nation/2025/09/11/charlie-kirk-fatal-shooting-investigation-utah/",
+    "source": "wapo",
+    "pubdate": "2025-09-11-21-32-32 +0000"
+  },
+  {
+    "headline": "President Donald Trump told reporters he had an “indication” of the shooter’s motive but added that...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-11-21-32-32 +0000"
+  },
+  {
+    "headline": "Brazil's former President Bolsonaro found guilty of plotting coup",
+    "link": "https://www.bbc.com/news/articles/c147n38k800o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-11-21-30-03 +0000"
+  },
+  {
+    "headline": "Brazil's former President Bolsonaro found guilty of plotting coup",
+    "link": "https://www.bbc.com/news/articles/c147n38k800o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-11-21-30-03 +0000"
+  },
+  {
+    "headline": "In Public and in Private, New York Marks 9/11 Anniversary",
+    "link": "https://www.nytimes.com/2025/09/11/us/9-11-anniversary-nyc.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-29-02 +0000"
+  },
+  {
+    "headline": "Student who witnessed Kirk shooting says silence isn’t an option",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-11-21-28-22 +0000"
+  },
+  {
+    "headline": "House Speaker Mike Johnson and other congressional leaders implored colleagues to lower the political temperature following the killing of Charlie Kirk, but tensions remained high on Capitol Hill",
+    "link": "https://www.wsj.com/politics/policy/charlie-kirk-killing-sparks-tensions-and-security-fears-on-capitol-hill-08fe6981",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-28-00 +0000"
+  },
+  {
+    "headline": "Why Klarna’s Formerly Flashy Marketing Might Seem ‘More Boring’",
+    "link": "https://www.wsj.com/articles/why-klarnas-formerly-flashy-marketing-might-seem-more-boring-43b71f0a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-26-00 +0000"
+  },
+  {
+    "headline": "South Korean Leader Warns of U.S. Investments After Hyundai-LG Plant Raid",
+    "link": "https://www.nytimes.com/2025/09/11/world/asia/south-korea-us-investments-hyundai-raid.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-23-39 +0000"
+  },
+  {
+    "headline": "South Korean Leader Warns of U.S. Investments After Hyundai-LG Plant Raid",
+    "link": "https://www.nytimes.com/2025/09/11/world/asia/south-korea-us-investments-hyundai-raid.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-23-39 +0000"
+  },
+  {
+    "headline": "What visuals show of security before shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-11-21-23-33 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/11/us/charlie-kirk-shooting-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-23-03 +0000"
+  },
+  {
+    "headline": "Ryan Routh, Defendant in Trump Assassination Attempt Trial, Gets Off to Shaky Start",
+    "link": "https://www.nytimes.com/2025/09/11/us/ryan-routh-trump-assassination-attempt-trial.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-19-48 +0000"
+  },
+  {
+    "headline": "Paramount Skydance Prepares Ellison-Backed Bid for Warner Bros. Discovery",
+    "link": "https://www.wsj.com/business/media/paramount-skydance-prepares-ellison-backed-bid-for-warner-bros-discovery-0b921c20?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-19-00 +0000"
+  },
+  {
+    "headline": "Paramount Skydance Prepares Ellison-Backed Bid for Warner Bros. Discovery",
+    "link": "https://www.wsj.com/business/media/paramount-skydance-prepares-ellison-backed-bid-for-warner-bros-discovery-0b921c20?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-19-00 +0000"
+  },
+  {
+    "headline": "Law-Enforcement Officials Sow Confusion on Manhunt for Kirk Shooter",
+    "link": "https://www.wsj.com/us-news/charlie-kirk-shooting-manhunt-e7f3eae4",
+    "source": "wsj",
+    "pubdate": "2025-09-11-21-18-00 +0000"
+  },
+  {
+    "headline": "Student Who Shot 2 Others at Colorado School Was ‘Radicalized,’ Officials Say",
+    "link": "https://www.nytimes.com/2025/09/11/us/colorado-high-school-shooter-identified.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-17-41 +0000"
+  },
+  {
+    "headline": "Bolsonaro Convicted of Attempting a Coup in Brazil",
+    "link": "https://www.nytimes.com/2025/09/11/world/americas/bolsonaro-convicted-coup-attempt.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-16-25 +0000"
+  },
+  {
+    "headline": "Bolsonaro Convicted of Attempting a Coup in Brazil",
+    "link": "https://www.nytimes.com/2025/09/11/world/americas/bolsonaro-convicted-coup-attempt.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-16-25 +0000"
+  },
+  {
+    "headline": "Joe Rogan shocked after learning of Charlie Kirk assassination during podcast taping with Charlie Sheen",
+    "link": "https://nypost.com/2025/09/11/us-news/joe-rogan-shocked-after-learning-of-charlie-kirk-assassination-during-podcast-taping-with-charlie-sheen/",
+    "source": "nypost",
+    "pubdate": "2025-09-11-21-16-12 +0000"
+  },
+  {
+    "headline": "Wall Street trader hits $5 million jackpot with well-timed bet on Warner Bros stock",
+    "link": "https://nypost.com/2025/09/11/business/wall-street-trader-hits-5-million-jackpot-with-well-timed-bet-on-warner-bros-stock/",
+    "source": "nypost",
+    "pubdate": "2025-09-11-21-15-12 +0000"
+  },
+  {
+    "headline": "FBI releases photos of person of interest in Charlie Kirk's killing on a Utah university campus",
+    "link": "https://www.startribune.com/conservative-activist-charlie-kirk-assassinated-at-utah-university-shooter-still-at-large/601471921",
+    "source": "startribune",
+    "pubdate": "2025-09-11-21-10-01 +0000"
+  },
+  {
+    "headline": "June Wilkinson, Pinup Star and Screen Siren, Is Dead at 85",
+    "link": "https://www.nytimes.com/2025/09/11/movies/june-wilkinson-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-11-21-09-52 +0000"
+  },
+  {
+    "headline": "In abrupt turnabout, Mayor Karen Bass withdraws her bill to overhaul L.A.'s mansion tax",
+    "link": "https://www.latimes.com/california/story/2025-09-11/state-bill-to-overhaul-measure-ula-falls-apart",
+    "source": "latimes",
+    "pubdate": "2025-09-11-21-01-46 +0000"
+  },
+  {
+    "headline": "Could protests lead to Vuelta being abandoned?",
+    "link": "https://www.bbc.com/sport/cycling/articles/cwyr707drego?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-11-20-58-07 +0000"
+  },
+  {
+    "headline": "Democratic content creator who was questioning Kirk at event condemns shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-11-20-55-08 +0000"
   }
 ]
