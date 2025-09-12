@@ -1,37 +1,72 @@
 [
   {
+    "score": 52,
+    "pubdate": "2025-09-12-14-10-23 +0000",
+    "source": "wapo",
+    "headline": "Utah Gov. Spencer Cox (R) identified the suspect in Charlie Kirk’s fatal shooting as Tyler Robinson.",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-09-12-14-46-32 +0000",
+    "source": "nypost",
+    "headline": "Trump predicts ‘my little communist’ Zohran Mamdani will win NYC mayoral race",
+    "link": "https://nypost.com/2025/09/12/us-news/trump-predicts-zohran-mamdani-will-win-nyc-mayoral-race/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-09-12-14-43-31 +0000",
+    "source": "bbc",
+    "headline": "UK says 'great news' British national freed in Belarus release deal",
+    "link": "https://www.bbc.com/news/articles/cx27xk9vdd8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-12-14-52-32 +0000",
+    "source": "bbc",
+    "headline": "South African rapist loses bid to block Netflix film about his life",
+    "link": "https://www.bbc.com/news/articles/cq65ygpv7p1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-12-14-43-17 +0000",
+    "source": "nypost",
+    "headline": "Warner Bros. Discovery CEO David Zaslav wants bidding war for his media giant — even as Paramount Skydance plans takeover offer: sources",
+    "link": "https://nypost.com/2025/09/12/business/warner-bros-discovery-ceo-david-zaslav-wants-bidding-war-sources/"
+  },
+  {
     "score": 14,
-    "pubdate": "2025-09-12-12-59-51 +0000",
+    "pubdate": "2025-09-12-14-42-56 +0000",
     "source": "nyt",
-    "headline": "Freed South Korean Workers Return From the U.S. to Tearful Cheers",
-    "link": "https://www.nytimes.com/2025/09/12/world/asia/korean-workers-georgia-arrest.html"
+    "headline": "Opposition to Putin Pulls Up European Leaders Dragged Down at Home",
+    "link": "https://www.nytimes.com/2025/09/12/world/europe/europe-starmer-macron-merz.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-12-14-11-42 +0000",
+    "source": "wapo",
+    "headline": "A family member of suspect Tyler Robinson’s told investigators that Robinson had “become more political in...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-12-13-56-37 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Will Send the National Guard to Memphis Next",
+    "link": "https://www.nytimes.com/2025/09/12/us/politics/trump-memphis-national-guard.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-12-14-16-41 +0000",
+    "source": "nyt",
+    "headline": "Qatar Prime Minister to Meet Trump Officials After Israeli Strikes in Doha",
+    "link": "https://www.nytimes.com/2025/09/12/world/middleeast/qatar-prime-minister-trump-rubio.html"
   },
   {
     "score": 12,
-    "pubdate": "2025-09-12-12-55-09 +0000",
-    "source": "bbc",
-    "headline": "A palm print and a figure in black - what we know so far",
-    "link": "https://www.bbc.com/news/articles/cy04p4x21e5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 2,
-    "pubdate": "2025-09-12-12-57-00 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/12/us/charlie-kirk-news-suspect/heres-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-12-12-59-51 +0000",
-    "source": "nyt",
-    "headline": "Freed South Korean Workers Return From the U.S. to Tearful Cheers",
-    "link": "https://www.nytimes.com/2025/09/12/world/asia/korean-workers-georgia-arrest.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-12-12-55-09 +0000",
-    "source": "bbc",
-    "headline": "A palm print and a figure in black - what we know so far",
-    "link": "https://www.bbc.com/news/articles/cy04p4x21e5o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-09-12-14-33-09 +0000",
+    "source": "48hills",
+    "headline": "Best of the Bay 2025 Editors’ Pick: San Francisco Bay Area Bench Collective",
+    "link": "https://48hills.org/2025/09/best-of-the-bay-2025-editors-pick-san-francisco-bay-area-bench-collective/"
   }
 ]
