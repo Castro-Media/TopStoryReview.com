@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-09-12-08-53-31 +0000",
-    "source": "bbc",
-    "headline": "Prince Harry vows to help war injured during surprise visit to Ukraine",
-    "link": "https://www.bbc.com/news/articles/c3dr859vxxjo?at_medium=RSS&at_campaign=rss"
+    "score": 22,
+    "pubdate": "2025-09-12-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Arellano: Against the backdrop of the Hollywood sign, the Border Patrol takes a hellaweird group photo",
+    "link": "https://www.latimes.com/california/story/2025-09-12/border-patrol-hollywood-sign-portrait"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-09-12-10-40-30 +0000",
+    "source": "nyt",
+    "headline": "Lawyers for Venezuelans Ask Court to Press D.H.S. on Temporary Protections",
+    "link": "https://www.nytimes.com/2025/09/11/us/lawyers-for-venezuelans-ask-court-to-press-dhs-on-temporary-protections.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-12-10-18-00 +0000",
+    "source": "wsj",
+    "headline": "Paramount Skydance Prepares Ellison-Backed Bid for Warner Bros. Discovery",
+    "link": "https://www.wsj.com/business/media/paramount-skydance-prepares-ellison-backed-bid-for-warner-bros-discovery-0b921c20?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-12-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California lawmakers pass bill banning law enforcement officers from covering their faces",
+    "link": "https://www.latimes.com/california/story/2025-09-12/bill-banning-masks-on-law-enforcement-officers-passes-state-legislature"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-12-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Yes, that's a human brain on a cafeteria tray. UCLA fair shows off science cuts under Trump",
+    "link": "https://www.latimes.com/california/story/2025-09-12/ucla-science-fair-trump-grant-cancellations"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-12-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Steve Stoute is the go-to guy when Meta or McDonald’s want to look cool and if the NBA or Jay-Z need advice",
+    "link": "https://nypost.com/2025/09/12/business/steve-stoute-is-the-go-to-guy-when-power-players-need-to-look-cool/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-12-10-47-22 +0000",
+    "source": "nypost",
+    "headline": "Meghan Markle’s half sister Samantha suffers setback as judge casts doubt on latest legal appeal",
+    "link": "https://nypost.com/2025/09/12/us-news/meghan-markles-half-sister-samantha-suffers-setback-as-judge-casts-doubt-on-latest-legal-appeal/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-12-10-30-00 +0000",
+    "source": "nypost",
+    "headline": "Garden City high school’s 54-game win streak on line in opener",
+    "link": "https://nypost.com/2025/09/12/sports/garden-city-high-schools-54-game-win-streak-on-line-in-opener/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-12-10-05-24 +0000",
+    "source": "wapo",
+    "headline": "How Charlie Kirk’s fatal shooting unfolded on a Utah college campus",
+    "link": "https://www.washingtonpost.com/nation/interactive/2025/charlie-kirk-shooting-timeline/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-12-10-00-44 +0000",
+    "source": "wapo",
+    "headline": "Inflation is relentless. Here are 5 ways to help you ride it out.",
+    "link": "https://www.washingtonpost.com/business/2025/09/12/inflation-budget-hacks/"
   }
 ]
