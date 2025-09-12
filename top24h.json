@@ -1,62 +1,48 @@
 [
   {
-    "score": 304,
-    "pubdate": "2025-09-12-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Charlie Kirk and JD Vance spoke regularly, talked about their families and ribbed each other. Kirk spoke to the WSJ in April about their friendship.",
-    "link": "https://www.wsj.com/politics/elections/jd-vance-charlie-kirk-relationship-f6db26e0"
-  },
-  {
-    "score": 130,
-    "pubdate": "2025-09-12-14-46-32 +0000",
-    "source": "nypost",
-    "headline": "Trump predicts ‘my little Communist’ Zohran Mamdani will win NYC mayoral race",
-    "link": "https://nypost.com/2025/09/12/us-news/trump-predicts-zohran-mamdani-will-win-nyc-mayoral-race/"
-  },
-  {
-    "score": 128,
+    "score": 306,
     "pubdate": "2025-09-12-14-10-23 +0000",
     "source": "wapo",
     "headline": "Utah Gov. Spencer Cox (R) identified the suspect in Charlie Kirk’s fatal shooting as Tyler Robinson.",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 79,
-    "pubdate": "2025-09-11-19-15-08 +0000",
-    "source": "cbc",
-    "headline": "Former Brazilian president Jair Bolsonaro sentenced to more than 27 years in prison for plotting coup",
-    "link": "https://www.cbc.ca/news/world/bolsonaro-convicted-coup-1.7631517?cmp=rss"
+    "score": 121,
+    "pubdate": "2025-09-11-23-04-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s team began putting in place tighter security measures as shock and anger reverberated through the White House following the killing of conservative activist Charlie Kirk",
+    "link": "https://www.wsj.com/politics/elections/angry-and-in-mourning-trumps-team-tightens-security-after-kirk-shooting-2dab1edd"
   },
   {
-    "score": 74,
+    "score": 91,
+    "pubdate": "2025-09-11-20-18-21 +0000",
+    "source": "bbc",
+    "headline": "Bolsonaro's coup trial gripped Brazil - and his conviction will divide the country",
+    "link": "https://www.bbc.com/news/articles/cj3yekj2xygo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 71,
     "pubdate": "2025-09-12-14-43-17 +0000",
     "source": "nypost",
     "headline": "Warner Bros. Discovery CEO David Zaslav wants bidding war for his media giant — even as Paramount Skydance plans takeover offer: sources",
     "link": "https://nypost.com/2025/09/12/business/warner-bros-discovery-ceo-david-zaslav-wants-bidding-war-sources/"
   },
   {
-    "score": 65,
-    "pubdate": "2025-09-11-20-10-31 +0000",
-    "source": "nypost",
-    "headline": "Russian drone incursion over Poland was ‘deliberate’ test — and warning to NATO, expert says",
-    "link": "https://nypost.com/2025/09/11/world-news/russian-drone-incursion-over-poland-deliberate-test-and-warning-to-nato-expert/"
-  },
-  {
-    "score": 65,
+    "score": 66,
     "pubdate": "2025-09-12-02-10-06 +0000",
     "source": "wapo",
     "headline": "Law enforcement officials shared new still images during Thursday’s news conference and played video footage showing...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2025-09-11-23-55-50 +0000",
     "source": "nyt",
     "headline": "Appeals Court Lets Government Cut Off Medicaid Funds to Planned Parenthood",
     "link": "https://www.nytimes.com/2025/09/11/us/politics/medicaid-funds-planned-parenthood.html"
   },
   {
-    "score": 59,
+    "score": 57,
     "pubdate": "2025-09-11-23-19-55 +0000",
     "source": "nypost",
     "headline": "Israel strike on Doha ‘killed any hope’ of hostage release deal in Gaza: Qatar",
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "Prince Harry makes surprise visit to Kyiv as he vows help for thousands injured in Ukraine war",
     "link": "https://nypost.com/2025/09/12/world-news/prince-harry-makes-surprise-visit-to-kyiv-as-he-vows-help-for-thousands-injured-in-ukraine-war/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-09-11-20-10-31 +0000",
+    "source": "nypost",
+    "headline": "Russian drone incursion over Poland was ‘deliberate’ test — and warning to NATO, expert says",
+    "link": "https://nypost.com/2025/09/11/world-news/russian-drone-incursion-over-poland-deliberate-test-and-warning-to-nato-expert/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-09-12-19-45-03 +0000",
+    "source": "nyt",
+    "headline": "Former Judge Sushila Karki Named Nepal’s Leader After Gen Z Protests",
+    "link": "https://www.nytimes.com/2025/09/12/world/asia/nepal-protests-leader-karki-gen-z.html"
   }
 ]
