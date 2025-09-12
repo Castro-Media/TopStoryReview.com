@@ -1,27 +1,20 @@
 [
   {
-    "score": 391,
+    "score": 400,
     "pubdate": "2025-09-11-23-04-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s team began putting in place tighter security measures as shock and anger reverberated through the White House following the killing of conservative activist Charlie Kirk",
     "link": "https://www.wsj.com/politics/elections/angry-and-in-mourning-trumps-team-tightens-security-after-kirk-shooting-2dab1edd"
   },
   {
-    "score": 103,
+    "score": 106,
     "pubdate": "2025-09-11-09-00-00 +0000",
     "source": "wsj",
     "headline": "The killing of the conservative activist Charlie Kirk, as he spoke at a Utah university campus, is the latest evidence that political violence is a fact of life in America",
     "link": "https://www.wsj.com/politics/political-violence-america-charlie-kirk-09acfef7"
   },
   {
-    "score": 82,
-    "pubdate": "2025-09-11-23-33-55 +0000",
-    "source": "nyt",
-    "headline": "Nepal’s Social Media Ban Backfires as Citizens Nominate New Leader in Chat Room",
-    "link": "https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html"
-  },
-  {
-    "score": 80,
+    "score": 81,
     "pubdate": "2025-09-11-13-50-47 +0000",
     "source": "latimes",
     "headline": "FBI releases photos of 'person of interest' in Charlie Kirk shooting as manhunt intensifies",
@@ -35,38 +28,45 @@
     "link": "https://www.bbc.com/news/articles/cj3yekj2xygo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 62,
     "pubdate": "2025-09-11-10-00-00 +0000",
     "source": "latimes",
     "headline": "California legislators strike last-minute deal to help oil industry but limit offshore drilling",
     "link": "https://www.latimes.com/california/story/2025-09-11/refineries-bills"
   },
   {
-    "score": 58,
-    "pubdate": "2025-09-11-00-22-00 +0000",
-    "source": "wsj",
-    "headline": "Senate Republicans voted down a measure to release more material related to convicted sex offender Jeffrey Epstein, staying mostly united in blocking an effort led by Minority Leader Chuck Schumer",
-    "link": "https://www.wsj.com/politics/policy/senate-republicans-vote-down-democrats-push-on-epstein-files-129a04c8"
+    "score": 62,
+    "pubdate": "2025-09-11-17-58-01 +0000",
+    "source": "latimes",
+    "headline": "New Paramount owner already has his sights on next target: Warner Bros. Discovery",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-11/warner-bros-stock-jumps-amid-ellison-takeover-report-paramount"
   },
   {
-    "score": 52,
+    "score": 54,
     "pubdate": "2025-09-11-08-27-23 +0000",
     "source": "nypost",
     "headline": "JD Vance pens heartfelt tribute to Charlie Kirk after assassination: ‘You ran a good race, my friend’",
     "link": "https://nypost.com/2025/09/11/us-news/jd-vance-pens-heartfelt-tribute-to-charlie-kirk-after-assassination-you-ran-a-good-race-my-friend/"
   },
   {
-    "score": 50,
-    "pubdate": "2025-09-11-21-52-00 +0000",
-    "source": "wsj",
-    "headline": "Paramount Skydance Prepares Ellison-Backed Bid for Warner Bros. Discovery",
-    "link": "https://www.wsj.com/business/media/paramount-skydance-prepares-ellison-backed-bid-for-warner-bros-discovery-0b921c20?mod=pls_whats_news_us_business_f"
+    "score": 54,
+    "pubdate": "2025-09-12-01-10-01 +0000",
+    "source": "nyt",
+    "headline": "Nepal’s Social Media Ban Backfires as Politics Moves to a Chat Room",
+    "link": "https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html"
   },
   {
-    "score": 48,
-    "pubdate": "2025-09-11-23-24-07 +0000",
-    "source": "nypost",
-    "headline": "Hospital bigwig finally jailed for vicious attack on wife after first being freed by soft NYC judge",
-    "link": "https://nypost.com/2025/09/11/us-news/hospital-bigwig-finally-jailed-for-vicious-attack-on-wife-after-first-being-freed-by-soft-nyc-judge/"
+    "score": 53,
+    "pubdate": "2025-09-11-23-31-18 +0000",
+    "source": "nyt",
+    "headline": "Trump Asks Appeals Court to Allow Firing of Lisa Cook Ahead of Key Fed Meeting",
+    "link": "https://www.nytimes.com/2025/09/11/us/politics/trump-lisa-cook-appeal-fed.html"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-09-11-01-51-37 +0000",
+    "source": "wapo",
+    "headline": "Utah Valley University, where Charlie Kirk was fatally shot, said there was no longer an ongoing...",
+    "link": "https://www.washingtonpost.com"
   }
 ]

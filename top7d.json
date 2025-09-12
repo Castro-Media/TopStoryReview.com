@@ -1,31 +1,31 @@
 [
   {
-    "score": 575,
+    "score": 572,
     "pubdate": "2025-09-11-23-04-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s team began putting in place tighter security measures as shock and anger reverberated through the White House following the killing of conservative activist Charlie Kirk",
     "link": "https://www.wsj.com/politics/elections/angry-and-in-mourning-trumps-team-tightens-security-after-kirk-shooting-2dab1edd"
   },
   {
-    "score": 276,
+    "score": 267,
     "pubdate": "2025-09-08-17-20-00 +0000",
     "source": "wsj",
     "headline": "New polling by the Federal Reserve Bank of New York shows American workers’ confidence in finding a new job if they lose the position they currently hold has hit a record low",
     "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5"
   },
   {
-    "score": 172,
-    "pubdate": "2025-09-11-23-19-55 +0000",
-    "source": "nypost",
-    "headline": "Israel strike on Doha ‘killed any hope’ of hostage release deal in Gaza, Qatar says",
-    "link": "https://nypost.com/2025/09/11/world-news/israel-strike-on-doha-killed-any-hope-of-hostage-deal-qatar-says/"
-  },
-  {
-    "score": 168,
+    "score": 171,
     "pubdate": "2025-09-10-20-37-00 +0000",
     "source": "wsj",
     "headline": "Nearly half a day after NATO ordered jet fighters to shoot down Russian drones over Polish territory, President Trump issued his first public comment, but it was a seemingly ambiguous reaction",
     "link": "https://www.wsj.com/politics/national-security/here-we-go-trump-weighs-in-on-russian-drone-nato-incursion-24f1dba1"
+  },
+  {
+    "score": 171,
+    "pubdate": "2025-09-11-23-19-55 +0000",
+    "source": "nypost",
+    "headline": "Israel strike on Doha ‘killed any hope’ of hostage release deal in Gaza: Qatar",
+    "link": "https://nypost.com/2025/09/11/world-news/israel-strike-on-doha-killed-any-hope-of-hostage-deal-qatar-says/"
   },
   {
     "score": 153,
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/politics/political-violence-america-charlie-kirk-09acfef7"
   },
   {
-    "score": 143,
+    "score": 142,
     "pubdate": "2025-09-10-23-40-09 +0000",
     "source": "nypost",
     "headline": "UK ambassador Peter Mandelson told Jeffrey Epstein ‘I think the world of you’ ahead of 2008 guilty plea: emails",
@@ -49,11 +49,18 @@
     "link": "https://www.latimes.com/california/story/2025-09-10/amy-coney-barrett-memoir"
   },
   {
-    "score": 121,
+    "score": 126,
     "pubdate": "2025-09-08-23-53-34 +0000",
     "source": "latimes",
     "headline": "California lawmakers pass bill that will bar some popular puppy sellers",
     "link": "https://www.latimes.com/california/story/2025-09-08/california-puppy-mill-pipeline"
+  },
+  {
+    "score": 105,
+    "pubdate": "2025-09-11-13-50-47 +0000",
+    "source": "latimes",
+    "headline": "FBI releases photos of 'person of interest' in Charlie Kirk shooting as manhunt intensifies",
+    "link": "https://www.latimes.com/world-nation/story/2025-09-11/massive-manhunt-as-desperation-grow-to-capture-charlie-kirk-killer"
   },
   {
     "score": 103,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "Former Vice President Kamala Harris said in a new memoir that it was reckless to let Joe Biden and his wife decide on their own whether he should run for re-election",
     "link": "https://www.wsj.com/politics/elections/harris-second-guesses-bidens-decision-to-run-again-in-new-memoir-770ccb6d"
-  },
-  {
-    "score": 101,
-    "pubdate": "2025-09-11-13-50-47 +0000",
-    "source": "latimes",
-    "headline": "FBI releases photos of 'person of interest' in Charlie Kirk shooting as manhunt intensifies",
-    "link": "https://www.latimes.com/world-nation/story/2025-09-11/massive-manhunt-as-desperation-grow-to-capture-charlie-kirk-killer"
   }
 ]
