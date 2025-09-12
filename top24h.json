@@ -1,38 +1,45 @@
 [
   {
-    "score": 326,
+    "score": 315,
     "pubdate": "2025-09-11-23-04-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s team began putting in place tighter security measures as shock and anger reverberated through the White House following the killing of conservative activist Charlie Kirk",
     "link": "https://www.wsj.com/politics/elections/angry-and-in-mourning-trumps-team-tightens-security-after-kirk-shooting-2dab1edd"
   },
   {
-    "score": 96,
-    "pubdate": "2025-09-12-06-29-26 +0000",
-    "source": "wapo",
-    "headline": "Officials release new video of person fleeing in Charlie Kirk shooting, still lack a name or location",
-    "link": "https://www.washingtonpost.com/nation/2025/09/11/charlie-kirk-fatal-shooting-investigation-utah/"
-  },
-  {
-    "score": 95,
+    "score": 97,
     "pubdate": "2025-09-11-09-00-00 +0000",
     "source": "wsj",
     "headline": "The killing of the conservative activist Charlie Kirk, as he spoke at a Utah university campus, is the latest evidence that political violence is a fact of life in America",
     "link": "https://www.wsj.com/politics/political-violence-america-charlie-kirk-09acfef7"
   },
   {
-    "score": 74,
+    "score": 93,
+    "pubdate": "2025-09-12-06-29-26 +0000",
+    "source": "wapo",
+    "headline": "Officials release new video of person fleeing in Charlie Kirk shooting, still lack a name or location",
+    "link": "https://www.washingtonpost.com/nation/2025/09/11/charlie-kirk-fatal-shooting-investigation-utah/"
+  },
+  {
+    "score": 76,
     "pubdate": "2025-09-11-20-18-21 +0000",
     "source": "bbc",
     "headline": "Bolsonaro's coup trial gripped Brazil - and his conviction will divide the country",
     "link": "https://www.bbc.com/news/articles/cj3yekj2xygo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 63,
     "pubdate": "2025-09-12-02-58-50 +0000",
     "source": "nyt",
     "headline": "South Korean Leader Warns of U.S. Investments After Hyundai-LG Plant Raid",
     "link": "https://www.nytimes.com/2025/09/11/world/asia/south-korea-us-investments-hyundai-raid.html"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-09-12-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Israel's attack on Qatar was an escalation, but its invasion of Gaza City is even more consequential",
+    "link": "https://www.cbc.ca/news/world/israel-qatar-invasion-gaza-city-1.7631107?cmp=rss"
   },
   {
     "score": 57,
@@ -43,30 +50,23 @@
   },
   {
     "score": 55,
-    "pubdate": "2025-09-12-00-08-18 +0000",
-    "source": "nypost",
-    "headline": "GOP Rep. Derrick Van Orden blames media for Charlie Kirk’s assassination: ‘You’re at fault’",
-    "link": "https://nypost.com/2025/09/11/us-news/gop-rep-derrick-van-orden-blames-media-for-charlie-kirks-assassination-youre-at-fault/"
-  },
-  {
-    "score": 54,
     "pubdate": "2025-09-11-10-00-00 +0000",
     "source": "latimes",
     "headline": "California legislators strike last-minute deal to help oil industry but limit offshore drilling",
     "link": "https://www.latimes.com/california/story/2025-09-11/refineries-bills"
   },
   {
-    "score": 51,
-    "pubdate": "2025-09-11-20-10-31 +0000",
-    "source": "nypost",
-    "headline": "Russian drone incursion over Poland was ‘deliberate’ test — and warning to NATO, expert says",
-    "link": "https://nypost.com/2025/09/11/world-news/russian-drone-incursion-over-poland-deliberate-test-and-warning-to-nato-expert/"
-  },
-  {
-    "score": 50,
+    "score": 52,
     "pubdate": "2025-09-11-10-32-06 +0000",
     "source": "nypost",
     "headline": "UK PM Starmer fires ambassador to US ahead of Trump state visit over fawning emails to Jeffrey Epstein",
     "link": "https://nypost.com/2025/09/11/world-news/uks-starmer-fires-britains-ambassador-to-the-us-peter-mandelson-over-his-links-to-jeffrey-epstein/"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-09-11-21-52-00 +0000",
+    "source": "wsj",
+    "headline": "Paramount Skydance Prepares Ellison-Backed Bid for Warner Bros. Discovery",
+    "link": "https://www.wsj.com/business/media/paramount-skydance-prepares-ellison-backed-bid-for-warner-bros-discovery-0b921c20?mod=pls_whats_news_us_business_f"
   }
 ]
