@@ -1,48 +1,41 @@
 [
   {
-    "score": 239,
+    "score": 231,
     "pubdate": "2025-09-12-22-57-31 +0000",
     "source": "wapo",
     "headline": "Charlie Kirk’s widow, Erika Kirk, will deliver remarks to the media Friday evening, her first public...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 81,
+    "score": 76,
     "pubdate": "2025-09-13-15-34-13 +0000",
     "source": "nypost",
     "headline": "Trump ready to hit Moscow with ‘major’ sanctions, demands NATO countries halt purchases of Russian oil",
     "link": "https://nypost.com/2025/09/13/us-news/trump-ready-to-hit-moscow-with-major-sanctions-demands-nato-countries-halt-purchases-of-russian-oil/"
   },
   {
-    "score": 81,
-    "pubdate": "2025-09-13-03-51-29 +0000",
+    "score": 72,
+    "pubdate": "2025-09-13-03-51-30 +0000",
     "source": "nyt",
     "headline": "Tyler Robinson, Charlie Kirk Shooting Suspect, Went From Scholarship Winner to Wanted Man",
     "link": "https://www.nytimes.com/2025/09/12/us/politics/tyler-robinson-charlie-kirk.html"
   },
   {
-    "score": 56,
+    "score": 53,
     "pubdate": "2025-09-13-09-00-00 +0000",
     "source": "wsj",
     "headline": "Spencer Cox, Utah’s Republican governor, addressed young people after Charlie Kirk’s killing, saying that rage might feel like the only option, but “we can choose a different path”",
     "link": "https://www.wsj.com/politics/policy/utah-spencer-cox-interview-01b5132b"
   },
   {
-    "score": 45,
-    "pubdate": "2025-09-13-14-09-15 +0000",
+    "score": 44,
+    "pubdate": "2025-09-13-18-38-36 +0000",
     "source": "nyt",
     "headline": "Nepal’s New Government Calls Elections. Its Critics Cry Foul.",
     "link": "https://www.nytimes.com/2025/09/13/world/asia/nepal-government-politics-election-protest.html"
   },
   {
-    "score": 42,
-    "pubdate": "2025-09-12-18-40-00 +0000",
-    "source": "wsj",
-    "headline": "How Israel Used Ballistic Missiles From the Red Sea to Carry Out Its Audacious Qatar Attack",
-    "link": "https://www.wsj.com/world/middle-east/how-israels-audacious-qatar-strike-left-trump-little-time-to-object-c2369608"
-  },
-  {
-    "score": 40,
+    "score": 39,
     "pubdate": "2025-09-12-19-17-06 +0000",
     "source": "nyt",
     "headline": "Bolsonaro was Sentenced to 27 Years for Plotting a Coup in Brazil. What Comes Next?",
@@ -50,23 +43,30 @@
   },
   {
     "score": 36,
-    "pubdate": "2025-09-12-22-00-11 +0000",
-    "source": "latimes",
-    "headline": "Paramount denounces boycott of Israeli film industry as Gaza conflict divides Hollywood",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-12/paramount-denounces-israel-filmmaker-boycott"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-09-12-21-32-17 +0000",
-    "source": "cbc",
-    "headline": "Poilievre says he worries for his family as political violence concerns grow in Canada, U.S.",
-    "link": "https://www.cbc.ca/news/politics/pierre-poilievre-political-violence-charlie-kirk-1.7632801?cmp=rss"
-  },
-  {
-    "score": 35,
     "pubdate": "2025-09-13-12-00-00 +0000",
     "source": "latimes",
     "headline": "Lopez: The immigration raids are crushing L.A.'s fire recovery and California's economy",
     "link": "https://www.latimes.com/california/story/2025-09-13/lopez-column-immigration-raids-price-we-all-pay"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-09-13-17-26-06 +0000",
+    "source": "nyt",
+    "headline": "Rubio Heads to a Defiant Israel After Qatar Strike",
+    "link": "https://www.nytimes.com/2025/09/13/us/politics/rubio-israel-natanyahu.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-09-13-15-26-15 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani PAC’s top donors worked for firm accused of being national security threat with alleged China ties",
+    "link": "https://nypost.com/2025/09/13/us-news/top-donors-to-mamdani-pac-are-ex-honchos-at-silicon-valley-tech-firm-accused-of-being-national-security-threat/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-09-12-22-00-11 +0000",
+    "source": "latimes",
+    "headline": "Paramount denounces boycott of Israeli film industry as Gaza conflict divides Hollywood",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-12/paramount-denounces-israel-filmmaker-boycott"
   }
 ]
