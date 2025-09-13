@@ -1,13 +1,13 @@
 [
   {
-    "score": 552,
+    "score": 562,
     "pubdate": "2025-09-12-22-57-31 +0000",
     "source": "wapo",
     "headline": "Charlie Kirk’s widow, Erika Kirk, will deliver remarks to the media Friday evening, her first public...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 279,
+    "score": 280,
     "pubdate": "2025-09-10-20-37-00 +0000",
     "source": "wsj",
     "headline": "Nearly half a day after NATO ordered jet fighters to shoot down Russian drones over Polish territory, President Trump issued his first public comment, but it was a seemingly ambiguous reaction",
@@ -21,14 +21,14 @@
     "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5"
   },
   {
-    "score": 181,
+    "score": 179,
     "pubdate": "2025-09-12-14-10-23 +0000",
     "source": "wapo",
     "headline": "Utah Gov. Spencer Cox (R) identified the suspect in Charlie Kirk’s fatal shooting as Tyler Robinson.",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 156,
+    "score": 155,
     "pubdate": "2025-09-11-23-19-55 +0000",
     "source": "nypost",
     "headline": "Israel strike on Doha ‘killed any hope’ of hostage release deal in Gaza: Qatar",
@@ -49,24 +49,24 @@
     "link": "https://www.nytimes.com/2025/09/11/world/americas/brazil-supreme-court-bolsonaro-coup-convict.html"
   },
   {
-    "score": 115,
+    "score": 118,
     "pubdate": "2025-09-12-10-00-00 +0000",
     "source": "latimes",
     "headline": "California lawmakers pass bill banning law enforcement officers from covering their faces",
     "link": "https://www.latimes.com/california/story/2025-09-12/bill-banning-masks-on-law-enforcement-officers-passes-state-legislature"
   },
   {
-    "score": 100,
-    "pubdate": "2025-09-13-02-28-51 +0000",
-    "source": "nyt",
-    "headline": "Former Judge Sushila Karki Named Nepal’s Leader After Gen Z Protests",
-    "link": "https://www.nytimes.com/2025/09/12/world/asia/nepal-protests-leader-karki-gen-z.html"
-  },
-  {
-    "score": 100,
+    "score": 104,
     "pubdate": "2025-09-12-21-08-55 +0000",
     "source": "nypost",
     "headline": "Ukraine strikes key Russian oil terminal in largest drone attack in months",
     "link": "https://nypost.com/2025/09/12/world-news/ukraine-strikes-key-russian-oil-terminal-in-overnight-attack/"
+  },
+  {
+    "score": 96,
+    "pubdate": "2025-09-13-02-28-51 +0000",
+    "source": "nyt",
+    "headline": "Former Judge Sushila Karki Named Nepal’s Leader After Gen Z Protests",
+    "link": "https://www.nytimes.com/2025/09/12/world/asia/nepal-protests-leader-karki-gen-z.html"
   }
 ]
