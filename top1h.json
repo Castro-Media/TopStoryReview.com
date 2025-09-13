@@ -1,23 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-09-13-07-10-14 +0000",
+    "score": 16,
+    "pubdate": "2025-09-13-08-13-14 +0000",
+    "source": "nyt",
+    "headline": "U.C. Berkeley Gives Names of Students and Faculty to Government for Antisemitism Probe",
+    "link": "https://www.nytimes.com/2025/09/13/us/politics/trump-berkeley-antisemitism-investigation.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-13-08-20-40 +0000",
+    "source": "nyt",
+    "headline": "7.4-Magnitude Earthquake Strikes Russia’s Far East",
+    "link": "https://www.nytimes.com/2025/09/12/world/asia/russia-earthquake.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-13-08-51-18 +0000",
+    "source": "nypost",
+    "headline": "Front-end loader helps elephant get back on her feet after fall at Milwaukee zoo",
+    "link": "https://nypost.com/2025/09/13/us-news/milwaukee-county-zoo-uses-front-end-loader-to-upright-elephant-ruth/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-13-08-42-17 +0000",
     "source": "bbc",
-    "headline": "New Nato mission to bolster eastern flank after Russia drone incursion",
-    "link": "https://www.bbc.com/news/articles/c0q719qg1wko?at_medium=RSS&at_campaign=rss"
+    "headline": "Colombian court rules Meta was wrong to bar porn star's Instagram account",
+    "link": "https://www.bbc.com/news/articles/cp8wlxwy1exo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 10,
-    "pubdate": "2025-09-13-07-17-16 +0000",
+    "pubdate": "2025-09-13-07-59-36 +0000",
     "source": "nypost",
-    "headline": "Brian Walshe stabbed in Massachusetts jail ahead of murder trial for wife’s death",
-    "link": "https://nypost.com/2025/09/13/us-news/brian-walshe-stabbed-in-massachusetts-jail-ahead-of-murder-trial-for-wife-ana-walshes-death/"
+    "headline": "America’s new stealth B-21 Raider takes next step with second bomber’s first flight",
+    "link": "https://nypost.com/2025/09/13/us-news/americas-new-stealth-b-21-raider-takes-next-step-with-second-bombers-first-flight/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-13-08-48-20 +0000",
+    "source": "bbc",
+    "headline": "Starmer defended Mandelson after officials knew about Epstein emails, BBC understands",
+    "link": "https://www.bbc.com/news/articles/c5yq455w36vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-09-13-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "A $20,000 tax? Here's what we know about Ottawa's zero-emission vehicle mandate",
+    "link": "https://www.cbc.ca/news/politics/canada-ev-mandate-explained-1.7631327?cmp=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-13-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Carney says there's been a 'rupture.' What's he going to do about it this fall?",
+    "link": "https://www.cbc.ca/news/politics/carney-parliamentary-fall-analysis-1.7632717?cmp=rss"
   },
   {
     "score": 0,
-    "pubdate": "2025-09-13-07-10-14 +0000",
-    "source": "bbc",
-    "headline": "New Nato mission to bolster eastern flank after Russia drone incursion",
-    "link": "https://www.bbc.com/news/articles/c0q719qg1wko?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-09-13-08-20-40 +0000",
+    "source": "nyt",
+    "headline": "7.4-Magnitude Earthquake Strikes Russia’s Far East",
+    "link": "https://www.nytimes.com/2025/09/12/world/asia/russia-earthquake.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-13-08-13-14 +0000",
+    "source": "nyt",
+    "headline": "U.C. Berkeley Gives Names of Students and Faculty to Government for Antisemitism Probe",
+    "link": "https://www.nytimes.com/2025/09/13/us/politics/trump-berkeley-antisemitism-investigation.html"
   }
 ]
