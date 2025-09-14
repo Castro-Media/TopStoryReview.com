@@ -1,48 +1,41 @@
 [
   {
-    "score": 214,
-    "pubdate": "2025-09-12-22-57-31 +0000",
-    "source": "wapo",
-    "headline": "Charlie Kirk’s widow, Erika Kirk, will deliver remarks to the media Friday evening, her first public...",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-09-13-15-34-13 +0000",
-    "source": "nypost",
-    "headline": "Trump ready to hit Moscow with ‘major’ sanctions, demands NATO countries halt purchases of Russian oil",
-    "link": "https://nypost.com/2025/09/13/us-news/trump-ready-to-hit-moscow-with-major-sanctions-demands-nato-countries-halt-purchases-of-russian-oil/"
-  },
-  {
-    "score": 67,
+    "score": 182,
     "pubdate": "2025-09-13-03-51-30 +0000",
     "source": "nyt",
     "headline": "Tyler Robinson, Charlie Kirk Shooting Suspect, Went From Scholarship Winner to Wanted Man",
     "link": "https://www.nytimes.com/2025/09/12/us/politics/tyler-robinson-charlie-kirk.html"
   },
   {
-    "score": 46,
-    "pubdate": "2025-09-13-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Spencer Cox, Utah’s Republican governor, addressed young people after Charlie Kirk’s killing, saying that rage might feel like the only option, but “we can choose a different path”",
-    "link": "https://www.wsj.com/politics/policy/utah-spencer-cox-interview-01b5132b"
+    "score": 64,
+    "pubdate": "2025-09-13-19-03-59 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Will Impose More Sanctions on Russia if NATO Does",
+    "link": "https://www.nytimes.com/2025/09/13/us/politics/trump-sanctions-russia-ukraine.html"
   },
   {
-    "score": 42,
+    "score": 44,
     "pubdate": "2025-09-13-18-38-36 +0000",
     "source": "nyt",
     "headline": "Nepal’s New Government Calls Elections. Its Critics Cry Foul.",
     "link": "https://www.nytimes.com/2025/09/13/world/asia/nepal-government-politics-election-protest.html"
   },
   {
-    "score": 36,
+    "score": 40,
+    "pubdate": "2025-09-13-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Spencer Cox, Utah’s Republican governor, addressed young people after Charlie Kirk’s killing, saying that rage might feel like the only option, but “we can choose a different path”",
+    "link": "https://www.wsj.com/politics/policy/utah-spencer-cox-interview-01b5132b"
+  },
+  {
+    "score": 37,
     "pubdate": "2025-09-13-21-32-26 +0000",
     "source": "nypost",
     "headline": "Israel bombs Hamas operatives in another Gaza City high-rise attack, as thousands of Palestinians flee",
     "link": "https://nypost.com/2025/09/13/world-news/israel-bombs-hamas-operatives-in-another-gaza-city-high-rise-attack-as-thousands-of-palestinians-flee/"
   },
   {
-    "score": 35,
+    "score": 37,
     "pubdate": "2025-09-13-19-30-01 +0000",
     "source": "nypost",
     "headline": "NJ nurse suspended without pay for calling out doctor who ‘cheered’ Charlie Kirk’s death: suit",
@@ -56,17 +49,24 @@
     "link": "https://www.latimes.com/california/story/2025-09-13/lopez-column-immigration-raids-price-we-all-pay"
   },
   {
-    "score": 32,
-    "pubdate": "2025-09-13-20-26-52 +0000",
-    "source": "nyt",
-    "headline": "As Sabotage in Europe Mounts, So Do Calls to Retaliate Against Russia",
-    "link": "https://www.nytimes.com/2025/09/13/world/europe/russia-hybrid-attack-nato-penalties.html"
+    "score": 30,
+    "pubdate": "2025-09-13-20-08-47 +0000",
+    "source": "nypost",
+    "headline": "Savage gunman chased 21-year-old into her Queens apartment before shooting her in the head: police sources",
+    "link": "https://nypost.com/2025/09/13/us-news/heartbroken-mom-of-slain-21-year-old-daughter-a-piece-of-me-is-gone/"
   },
   {
-    "score": 31,
+    "score": 29,
     "pubdate": "2025-09-13-22-25-29 +0000",
     "source": "nyt",
     "headline": "Far-Right Rally in London Draws Huge Crowd and a Counterprotest",
     "link": "https://www.nytimes.com/2025/09/13/world/europe/london-far-right-rally-robinson.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-09-13-15-08-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Reserve governor Lisa Cook described one of the properties at the heart of President Trump’s allegations as a vacation home or second home on at least two documents",
+    "link": "https://www.wsj.com/economy/central-banking/documents-show-lisa-cook-described-property-as-second-home-95877208"
   }
 ]
