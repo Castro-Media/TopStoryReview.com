@@ -1,37 +1,72 @@
 [
   {
+    "score": 34,
+    "pubdate": "2025-09-14-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "In the weeks since President Trump’s 50% tariffs on Indian imports took effect, apparel, food and jewelry businesses on central New Jersey’s Oak Tree Road are wrestling with how to cope",
+    "link": "https://www.wsj.com/economy/trade/global-trade-war-comes-to-new-jerseys-little-india-182d8cbe"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-09-14-09-02-17 +0000",
+    "source": "nyt",
+    "headline": "U.S. and China to Resume Talks on Tariffs, TikTok in Madrid",
+    "link": "https://www.nytimes.com/2025/09/14/business/us-china-trade-tiktok-negotiations.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-09-14-09-01-06 +0000",
+    "source": "bbc",
+    "headline": "Pot breaks as Nigerian chef attempts largest pot of jollof rice",
+    "link": "https://www.bbc.com/news/articles/c306m1j542po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-09-14-09-02-04 +0000",
+    "source": "nyt",
+    "headline": "Russia Made Drone Production a Supreme Priority. Now It Swarms the Skies.",
+    "link": "https://www.nytimes.com/2025/09/14/world/europe/russia-ukraine-drone-attacks-production.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-14-09-01-01 +0000",
+    "source": "nyt",
+    "headline": "How Nancy Pelosi Quietly Shaped California’s Redistricting Fight",
+    "link": "https://www.nytimes.com/2025/09/14/us/politics/nancy-pelosi-california-redistricting.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-14-09-01-01 +0000",
+    "source": "nyt",
+    "headline": "On the Supreme Court’s Emergency Docket, Sharp Partisan Divides",
+    "link": "https://www.nytimes.com/2025/09/14/us/politics/supreme-court-emergency-docket-partisan.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-14-09-02-11 +0000",
+    "source": "nyt",
+    "headline": "After Landmark Election, a Frustrated Malawi Returns to Polls",
+    "link": "https://www.nytimes.com/2025/09/14/world/africa/after-a-landmark-election-a-disillusioned-malawi-returns-to-the-polls.html"
+  },
+  {
     "score": 11,
-    "pubdate": "2025-09-14-08-00-26 +0000",
-    "source": "cbc",
-    "headline": "Art supplies, beachside walks and a town hall: Inside the bruised NDP's attempts to rebuild",
-    "link": "https://www.cbc.ca/news/politics/ndp-caucus-retreat-rebuild-party-1.7632870?cmp=rss"
+    "pubdate": "2025-09-14-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "‘It Will Scar This Generation.’ Charlie Kirk’s Death Ignites a Campus Reckoning",
+    "link": "https://www.wsj.com/us-news/education/charlie-kirk-shot-college-campuses-students-debate-a15ce232"
   },
   {
     "score": 10,
-    "pubdate": "2025-09-14-08-10-26 +0000",
+    "pubdate": "2025-09-14-09-02-25 +0000",
     "source": "nyt",
-    "headline": "Romania Reports Russian Drone in Its Airspace",
-    "link": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html"
+    "headline": "Trump’s Reversals on Immigration Mount Over Economic Concerns",
+    "link": "https://www.nytimes.com/2025/09/14/us/politics/trump-immigration-policy-reversals.html"
   },
   {
     "score": 10,
-    "pubdate": "2025-09-14-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Poilievre to address caucus on Sunday as Conservatives gear up to return to Parliament",
-    "link": "https://www.cbc.ca/news/politics/poilievre-conservatives-caucus-parliament-1.7633357?cmp=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-14-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "The Arctic is heating up quickly, but scientists say polar geoengineering is 'unrealistic' and 'dangerous'",
-    "link": "https://www.cbc.ca/news/science/the-arctic-is-heating-up-quickly-but-scientists-say-polar-geoengineering-is-unrealistic-and-dangerous-1.7632993?cmp=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-14-08-10-26 +0000",
+    "pubdate": "2025-09-14-09-02-32 +0000",
     "source": "nyt",
-    "headline": "Romania Reports Russian Drone in Its Airspace",
-    "link": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html"
+    "headline": "In an Era of Deep Polarization, Unity Is Not Trump’s Mission",
+    "link": "https://www.nytimes.com/2025/09/14/us/politics/trump-kirk-polarization-unity.html"
   }
 ]
