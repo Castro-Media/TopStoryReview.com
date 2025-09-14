@@ -1,13 +1,13 @@
 [
   {
-    "score": 145,
+    "score": 134,
     "pubdate": "2025-09-14-15-50-46 +0000",
     "source": "nypost",
     "headline": "Utah gov reveals details of ‘sobering’ call he had with Trump after Charlie Kirk assassination",
     "link": "https://nypost.com/2025/09/14/us-news/utah-gov-coxs-sobering-call-with-trump-over-charlie-kirk-assassination/"
   },
   {
-    "score": 51,
+    "score": 54,
     "pubdate": "2025-09-14-14-55-08 +0000",
     "source": "cbc",
     "headline": "Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza",
@@ -21,18 +21,11 @@
     "link": "https://www.latimes.com/california/story/2025-09-13/legislature-environmental-and-climate-bills"
   },
   {
-    "score": 45,
+    "score": 43,
     "pubdate": "2025-09-14-03-00-00 +0000",
     "source": "wsj",
     "headline": "Israeli Prime Minister Benjamin Netanyahu and Russian President Vladimir Putin both have consistently disregarded President Trump’s wishes, often without major consequences",
     "link": "https://www.wsj.com/politics/national-security/trump-reluctant-to-pressure-putin-and-netanyahu-risks-sidelining-himself-ffded6e7"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-09-14-13-57-20 +0000",
-    "source": "nypost",
-    "headline": "Charlie Kirk suspect Tyler Robinson not cooperating with cops, Utah gov says — as he confirms alleged shooter’s relationship with trans roommate",
-    "link": "https://nypost.com/2025/09/14/us-news/charlie-kirk-suspect-tyler-robinson-not-cooperating-with-cops-utah-gov-says-as-he-confirms-alleged-shooters-relationship-with-trans-roommate/"
   },
   {
     "score": 39,
@@ -49,24 +42,31 @@
     "link": "https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html"
   },
   {
-    "score": 37,
+    "score": 36,
+    "pubdate": "2025-09-14-13-48-20 +0000",
+    "source": "cbc",
+    "headline": "Ukrainian drones strike one of Russia's top oil refineries, sparking fire",
+    "link": "https://www.cbc.ca/news/world/ukraine-drones-russia-oil-refinery-1.7633534?cmp=rss"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-09-14-13-57-20 +0000",
+    "source": "nypost",
+    "headline": "Charlie Kirk suspect Tyler Robinson not cooperating with cops, Utah gov says — as he confirms alleged shooter’s relationship with trans roommate",
+    "link": "https://nypost.com/2025/09/14/us-news/charlie-kirk-suspect-tyler-robinson-not-cooperating-with-cops-utah-gov-says-as-he-confirms-alleged-shooters-relationship-with-trans-roommate/"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-09-14-09-30-00 +0000",
     "source": "wsj",
     "headline": "In the weeks since President Trump’s 50% tariffs on Indian imports took effect, apparel, food and jewelry businesses on central New Jersey’s Oak Tree Road are wrestling with how to cope",
     "link": "https://www.wsj.com/economy/trade/global-trade-war-comes-to-new-jerseys-little-india-182d8cbe"
   },
   {
-    "score": 37,
-    "pubdate": "2025-09-13-20-26-52 +0000",
-    "source": "nyt",
-    "headline": "As Sabotage in Europe Mounts, So Do Calls to Retaliate Against Russia",
-    "link": "https://www.nytimes.com/2025/09/13/world/europe/russia-hybrid-attack-nato-penalties.html"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-09-14-16-41-33 +0000",
-    "source": "bbc",
-    "headline": "Romania becomes second Nato country to report Russian drone in its airspace",
-    "link": "https://www.bbc.com/news/articles/c80g7g5rmlno?at_medium=RSS&at_campaign=rss"
+    "score": 33,
+    "pubdate": "2025-09-13-19-09-02 +0000",
+    "source": "nypost",
+    "headline": "Russian drone breaches Romanian airspace in second NATO incursion this week, as Zelensky calls it an ‘expansion of the war’",
+    "link": "https://nypost.com/2025/09/13/world-news/russian-drone-breaches-romanian-airspace-in-second-nato-incursion-this-week-as-zelensky-calls-it-an-expansion-of-the-war/"
   }
 ]
