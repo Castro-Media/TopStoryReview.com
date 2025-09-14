@@ -1,30 +1,51 @@
 [
   {
-    "score": 12,
-    "pubdate": "2025-09-14-06-28-56 +0000",
+    "score": 24,
+    "pubdate": "2025-09-14-07-04-07 +0000",
     "source": "nypost",
-    "headline": "Charlie Kirk’s alleged assassin Tyler Robinson under ‘special watch’ in Utah jail: report",
-    "link": "https://nypost.com/2025/09/14/us-news/charlie-kirks-alleged-assassin-tyler-robinson-under-special-watch-in-utah-jail-report/"
+    "headline": "Sotomayor admits conservative Supreme Court colleagues frustrate her, tries to look for ‘good’ in them",
+    "link": "https://nypost.com/2025/09/14/us-news/supreme-court-justice-sonia-sotomayor-admits-conservative-justices-frustrate-her/"
   },
   {
-    "score": 10,
-    "pubdate": "2025-09-14-06-27-37 +0000",
+    "score": 13,
+    "pubdate": "2025-09-14-06-57-09 +0000",
+    "source": "nypost",
+    "headline": "Washington felon caught impersonating police officer at crime scene: ‘He’s got a firefighter helmet too’",
+    "link": "https://nypost.com/2025/09/14/us-news/washington-felon-michael-scaletta-teates-caught-impersonating-cops-after-arriving-to-crime-scene-police/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-14-07-09-53 +0000",
+    "source": "nypost",
+    "headline": "Kim Jong Un’s sister warns against US, South Korea and Japan joint drills",
+    "link": "https://nypost.com/2025/09/14/world-news/north-korean-leaders-sister-warns-against-us-joint-drills/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-14-07-00-19 +0000",
     "source": "nyt",
-    "headline": "Romania Reports Russian Drone in Its Airspace",
-    "link": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html"
+    "headline": "After Bolsonaro’s Conviction, Brazil Already Considers His Amnesty",
+    "link": "https://www.nytimes.com/2025/09/14/world/americas/bolsonaro-convicted-coup-amnesty.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-09-14-05-55-03 +0000",
-    "source": "bbc",
-    "headline": "History-maker Crawford stuns Canelo in Vegas",
-    "link": "https://www.bbc.com/sport/boxing/articles/c62nz9w1kl0o?at_medium=RSS&at_campaign=rss"
+    "score": 8,
+    "pubdate": "2025-09-14-07-00-00 +0000",
+    "source": "wapo",
+    "headline": "Boosted by summits in Alaska and China, Putin moves against Europe, Ukraine",
+    "link": "https://www.washingtonpost.com/world/2025/09/14/putin-trump-summits-alaska-china-ukraine/"
   },
   {
     "score": 0,
-    "pubdate": "2025-09-14-06-27-37 +0000",
+    "pubdate": "2025-09-14-07-04-07 +0000",
+    "source": "nypost",
+    "headline": "Sotomayor admits conservative Supreme Court colleagues frustrate her, tries to look for ‘good’ in them",
+    "link": "https://nypost.com/2025/09/14/us-news/supreme-court-justice-sonia-sotomayor-admits-conservative-justices-frustrate-her/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-14-07-00-19 +0000",
     "source": "nyt",
-    "headline": "Romania Reports Russian Drone in Its Airspace",
-    "link": "https://www.nytimes.com/2025/09/14/world/europe/romania-drone-russia-ukraine.html"
+    "headline": "After Bolsonaro’s Conviction, Brazil Already Considers His Amnesty",
+    "link": "https://www.nytimes.com/2025/09/14/world/americas/bolsonaro-convicted-coup-amnesty.html"
   }
 ]

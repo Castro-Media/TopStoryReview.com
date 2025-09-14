@@ -14,13 +14,6 @@
     "link": "https://www.latimes.com/california/story/2025-09-13/legislature-environmental-and-climate-bills"
   },
   {
-    "score": 50,
-    "pubdate": "2025-09-13-07-10-14 +0000",
-    "source": "bbc",
-    "headline": "New Nato mission to bolster eastern flank after Russia drone incursion",
-    "link": "https://www.bbc.com/news/articles/c0q719qg1wko?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 47,
     "pubdate": "2025-09-14-03-00-00 +0000",
     "source": "wsj",
@@ -35,11 +28,25 @@
     "link": "https://www.wsj.com/politics/policy/utah-spencer-cox-interview-01b5132b"
   },
   {
-    "score": 39,
+    "score": 42,
+    "pubdate": "2025-09-13-18-38-36 +0000",
+    "source": "nyt",
+    "headline": "Nepal’s New Government Calls Elections. Its Critics Cry Foul.",
+    "link": "https://www.nytimes.com/2025/09/13/world/asia/nepal-government-politics-election-protest.html"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-09-13-21-32-26 +0000",
     "source": "nypost",
     "headline": "Israel bombs Hamas operatives in another Gaza City high-rise attack, as thousands of Palestinians flee",
     "link": "https://nypost.com/2025/09/13/world-news/israel-bombs-hamas-operatives-in-another-gaza-city-high-rise-attack-as-thousands-of-palestinians-flee/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-09-13-20-08-47 +0000",
+    "source": "nypost",
+    "headline": "Savage gunman chased 21-year-old into her Queens apartment before shooting her in the head: police sources",
+    "link": "https://nypost.com/2025/09/13/us-news/heartbroken-mom-of-slain-21-year-old-daughter-a-piece-of-me-is-gone/"
   },
   {
     "score": 35,
@@ -56,17 +63,10 @@
     "link": "https://www.nytimes.com/2025/09/13/world/europe/london-far-right-rally-robinson.html"
   },
   {
-    "score": 33,
-    "pubdate": "2025-09-13-19-30-01 +0000",
-    "source": "nypost",
-    "headline": "NJ nurse suspended without pay for calling out doctor who ‘cheered’ Charlie Kirk’s death: suit",
-    "link": "https://nypost.com/2025/09/13/us-news/nj-nurse-suspended-without-pay-for-calling-out-doctor-who-cheered-charlie-kirks-death-lawsuit/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-09-13-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "'A cancer on our society': Toxic social media after Kirk shooting brings calls to log off, put down phones",
-    "link": "https://www.latimes.com/california/story/2025-09-13/social-media-discourse-utah-governor-comments-on-charlie-kirk-shooting"
+    "score": 34,
+    "pubdate": "2025-09-13-19-04-00 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Will Impose More Sanctions on Russia if NATO Does",
+    "link": "https://www.nytimes.com/2025/09/13/us/politics/trump-sanctions-russia-ukraine.html"
   }
 ]
