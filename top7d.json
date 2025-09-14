@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5"
   },
   {
-    "score": 165,
+    "score": 164,
     "pubdate": "2025-09-14-14-55-08 +0000",
     "source": "cbc",
     "headline": "Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza",
@@ -50,17 +50,10 @@
   },
   {
     "score": 109,
-    "pubdate": "2025-09-10-20-33-00 +0000",
-    "source": "wsj",
-    "headline": "Inside NATO’s Scramble to Shoot Down Russia’s All-Night Drone Raid Over Poland",
-    "link": "https://www.wsj.com/world/europe/inside-natos-scramble-to-shoot-down-russias-all-night-drone-raid-over-poland-6f98d56f"
-  },
-  {
-    "score": 107,
-    "pubdate": "2025-09-14-12-41-38 +0000",
-    "source": "nypost",
-    "headline": "Ukrainian drones strike a Russian top oil refinery, sparking massive fire",
-    "link": "https://nypost.com/2025/09/14/world-news/ukrainian-drones-strike-a-russian-top-oil-refinery-sparks-fire/"
+    "pubdate": "2025-09-13-14-10-04 +0000",
+    "source": "cbc",
+    "headline": "Beijing slams Trump's call for NATO countries to stop buying Russian oil, hit China with heavy tariffs",
+    "link": "https://www.cbc.ca/news/world/trump-nato-countries-russian-oil-1.7633295?cmp=rss"
   },
   {
     "score": 103,
@@ -68,5 +61,12 @@
     "source": "wapo",
     "headline": "Charlie Kirk shooting suspect in custody; family friend identified 22-year-old Utah man",
     "link": "https://www.washingtonpost.com/nation/2025/09/12/charlie-kirk-shooting-person-interest-manhunt-utah/"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-09-10-23-09-00 +0000",
+    "source": "wsj",
+    "headline": "A U.S. military aircraft struck a boat suspected of smuggling drugs in the Caribbean several times from the air last week, even though the vessel had turned around before the strike began",
+    "link": "https://www.wsj.com/politics/national-security/suspected-venezuela-drug-boat-had-turned-around-before-u-s-strike-89e2925f"
   }
 ]
