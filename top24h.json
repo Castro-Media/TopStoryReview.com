@@ -1,31 +1,38 @@
 [
   {
-    "score": 109,
+    "score": 116,
     "pubdate": "2025-09-14-15-50-46 +0000",
     "source": "nypost",
     "headline": "Trump still furious over Charlie Kirk’s murder and fears he and other GOPers could be next: Utah gov",
     "link": "https://nypost.com/2025/09/14/us-news/utah-gov-coxs-sobering-call-with-trump-over-charlie-kirk-assassination/"
   },
   {
-    "score": 59,
-    "pubdate": "2025-09-15-05-20-06 +0000",
+    "score": 58,
+    "pubdate": "2025-09-15-07-30-55 +0000",
     "source": "bbc",
-    "headline": "US-China trade talks set for day two as TikTok deadline looms",
+    "headline": "US and China hold second day of trade talks as TikTok deadline looms",
     "link": "https://www.bbc.com/news/articles/cj9zedgkm21o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
+    "score": 46,
     "pubdate": "2025-09-14-09-30-00 +0000",
     "source": "wsj",
     "headline": "In the weeks since President Trump’s 50% tariffs on Indian imports took effect, apparel, food and jewelry businesses on central New Jersey’s Oak Tree Road are wrestling with how to cope",
     "link": "https://www.wsj.com/economy/trade/global-trade-war-comes-to-new-jerseys-little-india-182d8cbe"
   },
   {
-    "score": 42,
+    "score": 43,
     "pubdate": "2025-09-14-17-33-45 +0000",
     "source": "nyt",
     "headline": "White House Seeks More Supreme Court Security Funding After Kirk Killing",
     "link": "https://www.nytimes.com/2025/09/14/us/politics/trump-security-supreme-court-congress.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-09-15-08-35-34 +0000",
+    "source": "bbc",
+    "headline": "Rubio meets Netanyahu to discuss fallout from Israel's Qatar strike",
+    "link": "https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 36,
@@ -36,6 +43,13 @@
   },
   {
     "score": 35,
+    "pubdate": "2025-09-15-03-16-12 +0000",
+    "source": "nypost",
+    "headline": "Speaker Johnson, RFK Jr., other GOPers  mourn loss of Charlie Kirk at touching DC vigil: ‘Leaders of the nation have been shaken’",
+    "link": "https://nypost.com/2025/09/14/us-news/speaker-johnson-rfk-jr-other-gopers-mourn-loss-of-charlie-kirk-at-dc-vigil-leaders-of-the-nation-have-been-shaken/"
+  },
+  {
+    "score": 35,
     "pubdate": "2025-09-14-22-36-38 +0000",
     "source": "nypost",
     "headline": "Utah Gov. Spencer Cox decries ‘cancer’ of social media and its ‘direct role’ in every assassination over past 5 years",
@@ -43,30 +57,16 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-09-14-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "As America’s 250th birthday approaches, Robert Reed Church’s legacy proves Black economic power was no accident",
-    "link": "https://www.wsj.com/business/robert-reed-church-black-millionaire-memphis-tennessee-2c93bbf6"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-09-15-03-16-12 +0000",
-    "source": "nypost",
-    "headline": "Speaker Johnson, RFK Jr., other GOPers  mourn loss of Charlie Kirk at touching DC vigil: ‘Leaders of the nation have been shaken’",
-    "link": "https://nypost.com/2025/09/14/us-news/speaker-johnson-rfk-jr-other-gopers-mourn-loss-of-charlie-kirk-at-dc-vigil-leaders-of-the-nation-have-been-shaken/"
-  },
-  {
-    "score": 34,
     "pubdate": "2025-09-14-23-38-15 +0000",
     "source": "nyt",
     "headline": "Protests Against an Israeli Cycling Team Shut Down a Major Race",
     "link": "https://www.nytimes.com/2025/09/14/world/canada/cycling-palestinian-protests.html"
   },
   {
-    "score": 34,
-    "pubdate": "2025-09-14-23-08-02 +0000",
-    "source": "bbc",
-    "headline": "Boss of degrading sex-trade ring in Dubai's glamour districts unmasked by BBC",
-    "link": "https://www.bbc.com/news/articles/cx2r9y3kxy9o?at_medium=RSS&at_campaign=rss"
+    "score": 35,
+    "pubdate": "2025-09-14-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "As America’s 250th birthday approaches, Robert Reed Church’s legacy proves Black economic power was no accident",
+    "link": "https://www.wsj.com/business/robert-reed-church-black-millionaire-memphis-tennessee-2c93bbf6"
   }
 ]
