@@ -1,34 +1,48 @@
 [
   {
-    "score": 127,
-    "pubdate": "2025-09-14-15-50-46 +0000",
-    "source": "nypost",
-    "headline": "Trump still furious over Charlie Kirk’s murder and fears he and other GOPers could be next: Utah gov",
-    "link": "https://nypost.com/2025/09/14/us-news/utah-gov-coxs-sobering-call-with-trump-over-charlie-kirk-assassination/"
-  },
-  {
-    "score": 84,
-    "pubdate": "2025-09-15-14-07-49 +0000",
+    "score": 140,
+    "pubdate": "2025-09-15-14-16-39 +0000",
     "source": "nyt",
-    "headline": "U.S., China Conclude Talks With ‘Framework’ on TikTok Sale",
-    "link": "https://www.nytimes.com/2025/09/15/business/us-china-trade-talks-tariffs-tiktok.html"
+    "headline": "U.S.-China Deal to Avert TikTok Ban May be Close, Trump Official Says",
+    "link": "https://www.nytimes.com/2025/09/15/technology/tiktok-ban-us-china-deal.html"
   },
   {
-    "score": 55,
-    "pubdate": "2025-09-15-14-02-37 +0000",
-    "source": "nyt",
-    "headline": "Rubio, in Israel, Says a Diplomatic Solution to Gaza War May Not be Possible",
-    "link": "https://www.nytimes.com/2025/09/15/us/politics/rubio-israel-netanyahu-trump-gaza.html"
-  },
-  {
-    "score": 54,
+    "score": 100,
     "pubdate": "2025-09-15-13-44-49 +0000",
     "source": "nypost",
     "headline": "Chilling new video shows Charlie Kirk suspect Tyler Robinson casing campus hours before assassination",
     "link": "https://nypost.com/2025/09/15/us-news/video-shows-tyler-robinson-hours-before-charlie-kirk-shooting/"
   },
   {
-    "score": 48,
+    "score": 73,
+    "pubdate": "2025-09-15-15-04-49 +0000",
+    "source": "nypost",
+    "headline": "Top GOP foreign-policy Rep. Michael McCaul won’t seek re-election — and gives chilling warning on ‘World War III’",
+    "link": "https://nypost.com/2025/09/15/us-news/texas-rep-michael-mccaul-wont-seek-re-election/"
+  },
+  {
+    "score": 70,
+    "pubdate": "2025-09-15-15-34-52 +0000",
+    "source": "nyt",
+    "headline": "In Giant Deals, U.A.E. Got Chips, and Trump Team Got Crypto Riches",
+    "link": "https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-09-15-15-15-00 +0000",
+    "source": "wsj",
+    "headline": "Canadian factories notched the biggest rise in sales in almost two years in July as manufacturing activity showed signs of recovery from the blow dealt by the shift in U.S. trade policy and tariffs",
+    "link": "https://www.wsj.com/articles/canada-factory-and-wholesale-sales-continue-to-bounce-back-recovering-from-tariff-hit-ed3e24ae"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-09-15-13-52-39 +0000",
+    "source": "wapo",
+    "headline": "Rubio downplays U.S. tensions with Israel, plans to visit Qatar after strike",
+    "link": "https://www.washingtonpost.com/national-security/2025/09/15/rubio-israel-qatar/"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-09-14-17-33-46 +0000",
     "source": "nyt",
     "headline": "White House Seeks More Supreme Court Security Funding After Kirk Killing",
@@ -42,31 +56,17 @@
     "link": "https://nypost.com/2025/09/15/us-news/zohran-mamdani-shares-eerie-similarities-to-former-nyc-mayor-who-nearly-bankrupted-city-experts/"
   },
   {
-    "score": 43,
-    "pubdate": "2025-09-15-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Edison electric bills set to rise 10% under state plan. More hikes coming soon",
-    "link": "https://www.latimes.com/environment/story/2025-09-15/la-fi-edison-rate-hikes"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-09-15-07-59-34 +0000",
-    "source": "nyt",
-    "headline": "Trump’s State Visit Will be Biggest UK Security Operation Since Coronation",
-    "link": "https://www.nytimes.com/2025/09/14/world/europe/trump-uk-state-visit-security.html"
-  },
-  {
     "score": 41,
-    "pubdate": "2025-09-15-06-49-38 +0000",
-    "source": "bbc",
-    "headline": "Qatar hosts Arab-Islamic emergency summit over Israeli strike on Doha",
-    "link": "https://www.bbc.com/news/articles/c4gk8nx5nw3o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-09-15-15-48-34 +0000",
+    "source": "nyt",
+    "headline": "Elon Musk Buys $1 Billion in Tesla Stock as Board Defends His Pay",
+    "link": "https://www.nytimes.com/2025/09/15/business/elon-musk-buys-tesla-shares.html"
   },
   {
     "score": 40,
-    "pubdate": "2025-09-14-15-00-00 +0000",
-    "source": "wsj",
-    "headline": "Tariffs are rolling into the Treasury, but there’s another source of rising revenue that is proving to be just as important: the stock market",
-    "link": "https://www.wsj.com/economy/capital-gains-tax-revenue-surge-c225bfa1"
+    "pubdate": "2025-09-15-13-41-37 +0000",
+    "source": "wapo",
+    "headline": "Nvidia broke antitrust law, China says on second day of U.S. trade talks",
+    "link": "https://www.washingtonpost.com/world/2025/09/15/china-nvidia-antitrust/"
   }
 ]
