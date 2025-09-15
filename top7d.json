@@ -1,38 +1,45 @@
 [
   {
-    "score": 411,
+    "score": 405,
     "pubdate": "2025-09-11-23-04-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s team began putting in place tighter security measures as shock and anger reverberated through the White House following the killing of conservative activist Charlie Kirk",
     "link": "https://www.wsj.com/politics/elections/angry-and-in-mourning-trumps-team-tightens-security-after-kirk-shooting-2dab1edd"
   },
   {
-    "score": 253,
+    "score": 272,
     "pubdate": "2025-09-08-17-20-00 +0000",
     "source": "wsj",
     "headline": "New polling by the Federal Reserve Bank of New York shows American workers’ confidence in finding a new job if they lose the position they currently hold has hit a record low",
     "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5"
   },
   {
-    "score": 166,
+    "score": 171,
     "pubdate": "2025-09-09-13-31-30 +0000",
     "source": "cbc",
     "headline": "Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza",
     "link": "https://www.cbc.ca/news/world/marco-rubia-israel-visit-1.7633551?cmp=rss"
   },
   {
-    "score": 137,
-    "pubdate": "2025-09-08-23-53-34 +0000",
+    "score": 139,
+    "pubdate": "2025-09-11-10-00-00 +0000",
     "source": "latimes",
-    "headline": "California lawmakers pass bill that will bar some popular puppy sellers",
-    "link": "https://www.latimes.com/california/story/2025-09-08/california-puppy-mill-pipeline"
+    "headline": "California legislators strike last-minute deal to help oil industry but limit offshore drilling",
+    "link": "https://www.latimes.com/california/story/2025-09-11/refineries-bills"
   },
   {
-    "score": 134,
+    "score": 131,
     "pubdate": "2025-09-10-17-08-00 +0000",
     "source": "wsj",
     "headline": "Former Vice President Kamala Harris said in a new memoir that it was reckless to let Joe Biden and his wife decide on their own whether he should run for re-election",
     "link": "https://www.wsj.com/politics/elections/harris-second-guesses-bidens-decision-to-run-again-in-new-memoir-770ccb6d"
+  },
+  {
+    "score": 126,
+    "pubdate": "2025-09-15-11-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "S.F. will be one of the smallest losers in Trump’s tariff war, city controller’s report finds",
+    "link": "https://missionlocal.org/2025/09/sf-smallest-loser-trump-tariff-war/"
   },
   {
     "score": 118,
@@ -42,31 +49,24 @@
     "link": "https://www.wsj.com/economy/trade/tariff-case-could-give-trump-massive-new-fiscal-powers-cfa385a1"
   },
   {
-    "score": 112,
-    "pubdate": "2025-09-13-19-09-02 +0000",
-    "source": "nypost",
-    "headline": "Russian drone breaches Romanian airspace in second NATO incursion this week, as Zelensky calls it an ‘expansion of the war’",
-    "link": "https://nypost.com/2025/09/13/world-news/russian-drone-breaches-romanian-airspace-in-second-nato-incursion-this-week-as-zelensky-calls-it-an-expansion-of-the-war/"
+    "score": 102,
+    "pubdate": "2025-09-15-13-41-37 +0000",
+    "source": "wapo",
+    "headline": "Nvidia broke antitrust law, China says on second day of U.S. trade talks",
+    "link": "https://www.washingtonpost.com/world/2025/09/15/china-nvidia-antitrust/"
   },
   {
-    "score": 91,
+    "score": 90,
+    "pubdate": "2025-09-10-23-12-16 +0000",
+    "source": "latimes",
+    "headline": "Woman threw up, so Uber driver kicked her out. Then, she was sexually assaulted, lawsuit alleges",
+    "link": "https://www.latimes.com/california/story/2025-09-10/she-vomited-in-uber-driver-kicked-her-out-she-was-sexually-assaulted-lawsuit-says"
+  },
+  {
+    "score": 89,
     "pubdate": "2025-09-12-12-44-13 +0000",
     "source": "bbc",
     "headline": "From political outsider to a president like no other: Bolsonaro's rise and fall",
     "link": "https://www.bbc.com/news/articles/c5yqendv7k5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 91,
-    "pubdate": "2025-09-14-02-56-48 +0000",
-    "source": "nypost",
-    "headline": "Warner Bros. Discovery shares spike as CEO David Zaslav shops media group around — setting up bidding war for Paramount Skydance",
-    "link": "https://nypost.com/2025/09/13/business/warner-bros-discovery-shares-spike-as-ceo-shops-media-group-around-setting-up-bidding-war/"
-  },
-  {
-    "score": 88,
-    "pubdate": "2025-09-15-12-57-28 +0000",
-    "source": "wapo",
-    "headline": "Nvidia broke antitrust law, China says on second day of U.S. trade talks",
-    "link": "https://www.washingtonpost.com/world/2025/09/15/china-nvidia-antitrust/"
   }
 ]
