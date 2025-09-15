@@ -1,24 +1,17 @@
 [
   {
-    "score": 148,
+    "score": 146,
     "pubdate": "2025-09-15-14-16-39 +0000",
     "source": "nyt",
     "headline": "U.S.-China Deal to Avert TikTok Ban May be Close, Trump Official Says",
     "link": "https://www.nytimes.com/2025/09/15/technology/tiktok-ban-us-china-deal.html"
   },
   {
-    "score": 103,
+    "score": 100,
     "pubdate": "2025-09-15-13-44-49 +0000",
     "source": "nypost",
     "headline": "Chilling new video shows Charlie Kirk suspect Tyler Robinson casing campus hours before assassination",
     "link": "https://nypost.com/2025/09/15/us-news/video-shows-tyler-robinson-hours-before-charlie-kirk-shooting/"
-  },
-  {
-    "score": 71,
-    "pubdate": "2025-09-15-15-04-49 +0000",
-    "source": "nypost",
-    "headline": "Top GOP foreign-policy Rep. Michael McCaul won’t seek re-election — and gives chilling warning on ‘World War III’",
-    "link": "https://nypost.com/2025/09/15/us-news/texas-rep-michael-mccaul-wont-seek-re-election/"
   },
   {
     "score": 70,
@@ -26,6 +19,13 @@
     "source": "nyt",
     "headline": "In Giant Deals, U.A.E. Got Chips, and Trump Team Got Crypto Riches",
     "link": "https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html"
+  },
+  {
+    "score": 70,
+    "pubdate": "2025-09-15-15-04-49 +0000",
+    "source": "nypost",
+    "headline": "Top GOP foreign-policy Rep. Michael McCaul won’t seek re-election — and gives chilling warning on ‘World War III’",
+    "link": "https://nypost.com/2025/09/15/us-news/texas-rep-michael-mccaul-wont-seek-re-election/"
   },
   {
     "score": 64,
@@ -42,18 +42,18 @@
     "link": "https://nypost.com/2025/09/15/business/trump-renews-controversial-idea-for-axing-quarterly-reports-for-companies/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-09-15-16-35-32 +0000",
-    "source": "wapo",
-    "headline": "Rubio downplays U.S. tensions with Israel, plans to visit Qatar after strike",
-    "link": "https://www.washingtonpost.com/national-security/2025/09/15/rubio-israel-qatar/"
-  },
-  {
     "score": 48,
     "pubdate": "2025-09-15-10-26-35 +0000",
     "source": "nypost",
     "headline": "Zohran Mamdani shares eerie similarities to former NYC mayor who nearly bankrupted city: experts",
     "link": "https://nypost.com/2025/09/15/us-news/zohran-mamdani-shares-eerie-similarities-to-former-nyc-mayor-who-nearly-bankrupted-city-experts/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-09-15-16-48-23 +0000",
+    "source": "nyt",
+    "headline": "Angered by Israel’s Attack in Qatar, Arab Leaders Meet to Weigh Response",
+    "link": "https://www.nytimes.com/2025/09/15/world/middleeast/qatar-arab-leaders-israel.html"
   },
   {
     "score": 45,
@@ -64,9 +64,9 @@
   },
   {
     "score": 45,
-    "pubdate": "2025-09-14-17-33-46 +0000",
-    "source": "nyt",
-    "headline": "White House Seeks More Supreme Court Security Funding After Kirk Killing",
-    "link": "https://www.nytimes.com/2025/09/14/us/politics/trump-security-supreme-court-congress.html"
+    "pubdate": "2025-09-15-12-51-01 +0000",
+    "source": "wapo",
+    "headline": "Utah men arrested after incendiary device is left under TV news vehicle",
+    "link": "https://www.washingtonpost.com/business/2025/09/15/fox-13-news-utah-incendiary-device/"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
-    "score": 414,
+    "score": 413,
     "pubdate": "2025-09-11-23-04-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s team began putting in place tighter security measures as shock and anger reverberated through the White House following the killing of conservative activist Charlie Kirk",
     "link": "https://www.wsj.com/politics/elections/angry-and-in-mourning-trumps-team-tightens-security-after-kirk-shooting-2dab1edd"
   },
   {
-    "score": 267,
-    "pubdate": "2025-09-08-17-20-00 +0000",
+    "score": 196,
+    "pubdate": "2025-09-10-17-08-00 +0000",
     "source": "wsj",
-    "headline": "New polling by the Federal Reserve Bank of New York shows American workers’ confidence in finding a new job if they lose the position they currently hold has hit a record low",
-    "link": "https://www.wsj.com/economy/jobs/employment-survey-weakens-adding-to-signs-of-faltering-labor-market-5c6348f5"
+    "headline": "Former Vice President Kamala Harris said in a new memoir that it was reckless to let Joe Biden and his wife decide on their own whether he should run for re-election",
+    "link": "https://www.wsj.com/politics/elections/harris-second-guesses-bidens-decision-to-run-again-in-new-memoir-770ccb6d"
   },
   {
     "score": 175,
@@ -19,13 +19,6 @@
     "source": "cbc",
     "headline": "Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza",
     "link": "https://www.cbc.ca/news/world/marco-rubia-israel-visit-1.7633551?cmp=rss"
-  },
-  {
-    "score": 139,
-    "pubdate": "2025-09-10-17-08-00 +0000",
-    "source": "wsj",
-    "headline": "Former Vice President Kamala Harris said in a new memoir that it was reckless to let Joe Biden and his wife decide on their own whether he should run for re-election",
-    "link": "https://www.wsj.com/politics/elections/harris-second-guesses-bidens-decision-to-run-again-in-new-memoir-770ccb6d"
   },
   {
     "score": 138,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "Nearly half a day after NATO ordered jet fighters to shoot down Russian drones over Polish territory, President Trump issued his first public comment, but it was a seemingly ambiguous reaction",
     "link": "https://www.wsj.com/politics/national-security/here-we-go-trump-weighs-in-on-russian-drone-nato-incursion-24f1dba1"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-09-10-19-38-00 +0000",
+    "source": "wsj",
+    "headline": "Three former FBI leaders accuse Kash Patel of carrying out a political purge, in a lawsuit that alleges they were illegally terminated",
+    "link": "https://www.wsj.com/politics/policy/former-fbi-leaders-accuse-kash-patel-of-carrying-out-political-purge-84f6c361"
   }
 ]
