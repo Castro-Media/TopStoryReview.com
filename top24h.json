@@ -1,48 +1,55 @@
 [
   {
-    "score": 109,
+    "score": 119,
     "pubdate": "2025-09-14-15-50-46 +0000",
     "source": "nypost",
     "headline": "Trump still furious over Charlie Kirk’s murder and fears he and other GOPers could be next: Utah gov",
     "link": "https://nypost.com/2025/09/14/us-news/utah-gov-coxs-sobering-call-with-trump-over-charlie-kirk-assassination/"
   },
   {
-    "score": 58,
+    "score": 59,
     "pubdate": "2025-09-15-07-30-55 +0000",
     "source": "bbc",
     "headline": "US and China hold second day of trade talks as TikTok deadline looms",
     "link": "https://www.bbc.com/news/articles/cj9zedgkm21o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
+    "score": 53,
+    "pubdate": "2025-09-15-10-07-59 +0000",
+    "source": "bbc",
+    "headline": "Rubio meets Netanyahu to discuss fallout from Israel's Qatar strike",
+    "link": "https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 49,
     "pubdate": "2025-09-14-17-33-45 +0000",
     "source": "nyt",
     "headline": "White House Seeks More Supreme Court Security Funding After Kirk Killing",
     "link": "https://www.nytimes.com/2025/09/14/us/politics/trump-security-supreme-court-congress.html"
   },
   {
-    "score": 38,
-    "pubdate": "2025-09-15-08-35-34 +0000",
-    "source": "bbc",
-    "headline": "Rubio meets Netanyahu to discuss fallout from Israel's Qatar strike",
-    "link": "https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss"
+    "score": 45,
+    "pubdate": "2025-09-15-10-26-35 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani shares eerie similarities to former NYC mayor who nearly bankrupted city: experts",
+    "link": "https://nypost.com/2025/09/15/us-news/zohran-mamdani-shares-eerie-similarities-to-former-nyc-mayor-who-nearly-bankrupted-city-experts/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-09-15-07-59-34 +0000",
+    "source": "nyt",
+    "headline": "Trump’s State Visit Will be Biggest UK Security Operation Since Coronation",
+    "link": "https://www.nytimes.com/2025/09/14/world/europe/trump-uk-state-visit-security.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-09-14-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "As America’s 250th birthday approaches, Robert Reed Church’s legacy proves Black economic power was no accident",
+    "link": "https://www.wsj.com/business/robert-reed-church-black-millionaire-memphis-tennessee-2c93bbf6"
   },
   {
     "score": 36,
-    "pubdate": "2025-09-15-06-35-58 +0000",
-    "source": "nypost",
-    "headline": "UK police say 49-year-old German remains a suspect in disappearance of Madeleine McCann",
-    "link": "https://nypost.com/2025/09/15/world-news/uk-police-say-49-year-old-german-remains-a-suspect-in-disappearance-of-madeleine-mccann/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-09-15-03-16-12 +0000",
-    "source": "nypost",
-    "headline": "Speaker Johnson, RFK Jr., other GOPers  mourn loss of Charlie Kirk at touching DC vigil: ‘Leaders of the nation have been shaken’",
-    "link": "https://nypost.com/2025/09/14/us-news/speaker-johnson-rfk-jr-other-gopers-mourn-loss-of-charlie-kirk-at-dc-vigil-leaders-of-the-nation-have-been-shaken/"
-  },
-  {
-    "score": 35,
     "pubdate": "2025-09-14-23-38-15 +0000",
     "source": "nyt",
     "headline": "Protests Against an Israeli Cycling Team Shut Down a Major Race",
@@ -50,23 +57,16 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-09-14-13-00-00 +0000",
+    "pubdate": "2025-09-15-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Edison electric bills set to rise 10% under state plan. More hikes coming soon",
+    "link": "https://www.latimes.com/environment/story/2025-09-15/la-fi-edison-rate-hikes"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-09-14-15-00-00 +0000",
     "source": "wsj",
-    "headline": "As America’s 250th birthday approaches, Robert Reed Church’s legacy proves Black economic power was no accident",
-    "link": "https://www.wsj.com/business/robert-reed-church-black-millionaire-memphis-tennessee-2c93bbf6"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-09-14-22-36-38 +0000",
-    "source": "nypost",
-    "headline": "Utah Gov. Spencer Cox decries ‘cancer’ of social media and its ‘direct role’ in every assassination over past 5 years",
-    "link": "https://nypost.com/2025/09/14/us-news/utah-gov-savages-cancer-of-social-media-played-a-direct-role-in-every-single-assassination-over-past-five-years/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-09-15-04-43-10 +0000",
-    "source": "nypost",
-    "headline": "Maniac NYC driver who mowed down teen girl after she rejected lewd advances asked cops ‘Did I kill her?’: prosecutors",
-    "link": "https://nypost.com/2025/09/15/us-news/maniac-nyc-driver-who-mowed-down-teen-girl-after-she-rejected-lewd-advances-asked-cops-did-i-kill-her-prosecutors/"
+    "headline": "Tariffs are rolling into the Treasury, but there’s another source of rising revenue that is proving to be just as important: the stock market",
+    "link": "https://www.wsj.com/economy/capital-gains-tax-revenue-surge-c225bfa1"
   }
 ]
