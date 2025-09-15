@@ -1,6 +1,6 @@
 [
   {
-    "score": 116,
+    "score": 109,
     "pubdate": "2025-09-14-15-50-46 +0000",
     "source": "nypost",
     "headline": "Trump still furious over Charlie Kirk’s murder and fears he and other GOPers could be next: Utah gov",
@@ -14,13 +14,6 @@
     "link": "https://www.bbc.com/news/articles/cj9zedgkm21o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
-    "pubdate": "2025-09-14-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "In the weeks since President Trump’s 50% tariffs on Indian imports took effect, apparel, food and jewelry businesses on central New Jersey’s Oak Tree Road are wrestling with how to cope",
-    "link": "https://www.wsj.com/economy/trade/global-trade-war-comes-to-new-jerseys-little-india-182d8cbe"
-  },
-  {
     "score": 43,
     "pubdate": "2025-09-14-17-33-45 +0000",
     "source": "nyt",
@@ -28,7 +21,7 @@
     "link": "https://www.nytimes.com/2025/09/14/us/politics/trump-security-supreme-court-congress.html"
   },
   {
-    "score": 42,
+    "score": 38,
     "pubdate": "2025-09-15-08-35-34 +0000",
     "source": "bbc",
     "headline": "Rubio meets Netanyahu to discuss fallout from Israel's Qatar strike",
@@ -50,13 +43,6 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-09-14-22-36-38 +0000",
-    "source": "nypost",
-    "headline": "Utah Gov. Spencer Cox decries ‘cancer’ of social media and its ‘direct role’ in every assassination over past 5 years",
-    "link": "https://nypost.com/2025/09/14/us-news/utah-gov-savages-cancer-of-social-media-played-a-direct-role-in-every-single-assassination-over-past-five-years/"
-  },
-  {
-    "score": 35,
     "pubdate": "2025-09-14-23-38-15 +0000",
     "source": "nyt",
     "headline": "Protests Against an Israeli Cycling Team Shut Down a Major Race",
@@ -68,5 +54,19 @@
     "source": "wsj",
     "headline": "As America’s 250th birthday approaches, Robert Reed Church’s legacy proves Black economic power was no accident",
     "link": "https://www.wsj.com/business/robert-reed-church-black-millionaire-memphis-tennessee-2c93bbf6"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-09-14-22-36-38 +0000",
+    "source": "nypost",
+    "headline": "Utah Gov. Spencer Cox decries ‘cancer’ of social media and its ‘direct role’ in every assassination over past 5 years",
+    "link": "https://nypost.com/2025/09/14/us-news/utah-gov-savages-cancer-of-social-media-played-a-direct-role-in-every-single-assassination-over-past-five-years/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-09-15-04-43-10 +0000",
+    "source": "nypost",
+    "headline": "Maniac NYC driver who mowed down teen girl after she rejected lewd advances asked cops ‘Did I kill her?’: prosecutors",
+    "link": "https://nypost.com/2025/09/15/us-news/maniac-nyc-driver-who-mowed-down-teen-girl-after-she-rejected-lewd-advances-asked-cops-did-i-kill-her-prosecutors/"
   }
 ]
