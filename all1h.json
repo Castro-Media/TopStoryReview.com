@@ -1,50 +1,164 @@
 [
   {
-    "headline": "That Single-Use Coffee Cup Could Be on the Way Out",
-    "link": "https://www.wsj.com/business/hospitality/eu-coffee-cup-reusable-single-use-02b080d9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-17-13-00-00 +0000"
-  },
-  {
-    "headline": "Spirit Airlines pilots scolded by air traffic control for flying too close to Air Force One: ‘Get off the iPad!’",
-    "link": "https://nypost.com/2025/09/17/us-news/spirit-airlines-pilots-scolded-by-air-traffic-control-for-flying-too-close-to-air-force-one/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-12-58-02 +0000"
-  },
-  {
-    "headline": "Israel Pounds Gaza City as Fears Mount for Those Inside",
-    "link": "https://www.nytimes.com/2025/09/17/world/middleeast/israel-gaza-city.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-12-56-51 +0000"
-  },
-  {
-    "headline": "Israel Pounds Gaza City as Fears Mount for Those Inside",
-    "link": "https://www.nytimes.com/2025/09/17/world/middleeast/israel-gaza-city.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-12-56-51 +0000"
-  },
-  {
-    "headline": "100 Liberal Philanthropies Prepare to Push Back Against Trump Crackdown",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/trump-liberal-philanthropies-pushback.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-12-55-46 +0000"
-  },
-  {
-    "headline": "100 Liberal Philanthropies Prepare to Push Back Against Trump Crackdown",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/trump-liberal-philanthropies-pushback.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-12-55-46 +0000"
-  },
-  {
     "headline": "Live Updates: U.K. Gives Trump a Royal Welcome in 2nd State Visit",
     "link": "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit",
     "source": "nyt",
-    "pubdate": "2025-09-17-12-54-30 +0000"
+    "pubdate": "2025-09-17-14-52-59 +0000"
   },
   {
-    "headline": "America and Britain were pillars of the world order. The world has changed.",
-    "link": "https://www.washingtonpost.com/world/2025/09/16/america-britain-trump-world-order/",
+    "headline": "EU Proposes Sanctions, Partial Suspension of Israel Trade Deal in Gaza Response",
+    "link": "https://www.wsj.com/world/europe/eu-proposes-sanctions-partial-suspension-of-israel-trade-deal-in-gaza-response-37eb5975",
+    "source": "wsj",
+    "pubdate": "2025-09-17-14-50-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-49-30 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-49-30 +0000"
+  },
+  {
+    "headline": "Trump and Europe Are at Odds Over How to Sanction Russia",
+    "link": "https://www.wsj.com/world/trump-and-europe-are-at-odds-over-how-to-sanction-russia-041f51c0",
+    "source": "wsj",
+    "pubdate": "2025-09-17-14-48-00 +0000"
+  },
+  {
+    "headline": "See the terrifying moment flames shoot from plane’s engine at Boston airport as it desperately tries to abort takeoff",
+    "link": "https://nypost.com/2025/09/17/us-news/see-the-terrifying-moment-flames-shoot-from-planes-engine-at-bostons-logan-airport-as-it-desperately-tries-to-abort-takeoff/",
+    "source": "nypost",
+    "pubdate": "2025-09-17-14-47-35 +0000"
+  },
+  {
+    "headline": "ABC News reporter Matt Gutman issues groveling apology after calling texts from alleged Charlie Kirk assassin ‘very touching’",
+    "link": "https://nypost.com/2025/09/17/media/abc-news-reporter-matt-gutman-apologizes-for-sympathetic-charlie-kirk-assassin-coverage/",
+    "source": "nypost",
+    "pubdate": "2025-09-17-14-40-55 +0000"
+  },
+  {
+    "headline": "Wells Fargo banker banned from leaving China for months finally released to US",
+    "link": "https://nypost.com/2025/09/17/business/wells-fargo-banker-banned-from-leaving-china-released-to-us-after-months/",
+    "source": "nypost",
+    "pubdate": "2025-09-17-14-40-14 +0000"
+  },
+  {
+    "headline": "Barack Obama decries Charlie Kirk’s ‘horrific’ murder as nation hits ‘inflection point’: ‘Threat to all of us’",
+    "link": "https://nypost.com/2025/09/17/us-news/barack-obama-decries-charlie-kirks-horrific-murder-as-nation-hits-inflection-point/",
+    "source": "nypost",
+    "pubdate": "2025-09-17-14-37-18 +0000"
+  },
+  {
+    "headline": "Barack Obama decries Charlie Kirk’s ‘horrific’ murder as nation hits ‘inflection point’: ‘Threat to all of us’",
+    "link": "https://nypost.com/2025/09/17/us-news/barack-obama-decries-charlie-kirks-horrific-murder-as-nation-hits-inflection-point/",
+    "source": "nypost",
+    "pubdate": "2025-09-17-14-37-18 +0000"
+  },
+  {
+    "headline": "Wales' FM rejects Trump state banquet invite",
+    "link": "https://www.bbc.com/news/articles/cly68lerg8vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-17-14-33-36 +0000"
+  },
+  {
+    "headline": "Why You Should Own (Some) Gold",
+    "link": "https://www.wsj.com/finance/investing/why-you-should-own-some-gold-c647859d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-17-14-33-00 +0000"
+  },
+  {
+    "headline": "2 firefighters among 3 killed in ‘horrific’ head-on collision in Arizona",
+    "link": "https://nypost.com/2025/09/17/us-news/2-firefighters-among-trio-killed-in-horrific-head-on-collision/",
+    "source": "nypost",
+    "pubdate": "2025-09-17-14-30-03 +0000"
+  },
+  {
+    "headline": "What Trump needs to know about royal etiquette on his U.K. state visit",
+    "link": "https://www.washingtonpost.com/world/2025/09/17/royal-etiquette-101-trump-britain/",
     "source": "wapo",
-    "pubdate": "2025-09-17-12-53-21 +0000"
+    "pubdate": "2025-09-17-14-28-50 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/17/us/trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-27-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/17/us/trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-27-00 +0000"
+  },
+  {
+    "headline": "MSNBC’s Rachel Maddow spent just 22 seconds of air time on Charlie Kirk assassination",
+    "link": "https://nypost.com/2025/09/17/media/msnbcs-rachel-maddow-devoted-22-seconds-of-air-time-to-charlie-kirk-killing/",
+    "source": "nypost",
+    "pubdate": "2025-09-17-14-25-13 +0000"
+  },
+  {
+    "headline": "Climate Change’s Toll in Europe This Summer: Thousands of Extra Deaths",
+    "link": "https://www.nytimes.com/2025/09/17/climate/europe-heat-deaths-climate-change.html",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-24-34 +0000"
+  },
+  {
+    "headline": "Trump’s Birthday Call to Modi Raises Hopes in India for a Trade Deal",
+    "link": "https://www.nytimes.com/2025/09/17/world/asia/modi-trump-birthday.html",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-12-08 +0000"
+  },
+  {
+    "headline": "Trump’s Birthday Call to Modi Raises Hopes in India for a Trade Deal",
+    "link": "https://www.nytimes.com/2025/09/17/world/asia/modi-trump-birthday.html",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-12-08 +0000"
+  },
+  {
+    "headline": "Trump’s Birthday Call to Modi Raises Hopes in India for a Trade Deal",
+    "link": "https://www.nytimes.com/2025/09/17/world/asia/modi-trump-birthday.html",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-12-08 +0000"
+  },
+  {
+    "headline": "What to expect when eating at Vagabondo, the new David Fhima restaurant",
+    "link": "https://www.startribune.com/what-to-expect-when-eating-at-vagabondo-the-new-david-fhima-restaurant/601472186",
+    "source": "startribune",
+    "pubdate": "2025-09-17-14-04-39 +0000"
+  },
+  {
+    "headline": "How Nepal’s Government Went Up in Smoke",
+    "link": "https://www.nytimes.com/2025/09/17/world/asia/nepal-protests-arson-singha-durbar.html",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-02-42 +0000"
+  },
+  {
+    "headline": "How Nepal’s Government Went Up in Smoke",
+    "link": "https://www.nytimes.com/2025/09/17/world/asia/nepal-protests-arson-singha-durbar.html",
+    "source": "nyt",
+    "pubdate": "2025-09-17-14-02-42 +0000"
+  },
+  {
+    "headline": "With no clear leader, Democrats are unable to effectively answer GOP claims that the left fosters extremism",
+    "link": "https://www.wsj.com/politics/policy/for-democrats-kirks-shooting-lays-bare-their-struggle-to-rebut-trump-25d73093",
+    "source": "wsj",
+    "pubdate": "2025-09-17-14-00-00 +0000"
+  },
+  {
+    "headline": "AI Agents Are Getting Ready to Handle Your Whole Financial Life",
+    "link": "https://www.wsj.com/tech/ai/ai-wall-street-investors-15ab24af",
+    "source": "wsj",
+    "pubdate": "2025-09-17-14-00-00 +0000"
+  },
+  {
+    "headline": "Investors Are Bullish as a Pivotal Fed Decision Looms",
+    "link": "https://www.nytimes.com/2025/09/17/business/investors-are-bullish-as-a-pivotal-fed-decision-looms.html",
+    "source": "nyt",
+    "pubdate": "2025-09-17-13-56-58 +0000"
   }
 ]
