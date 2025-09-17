@@ -1,12 +1,5 @@
 [
   {
-    "score": 24,
-    "pubdate": "2025-09-17-01-37-02 +0000",
-    "source": "nypost",
-    "headline": "House plans Thursday vote on ‘clean’ government funding bill to extend spending through November",
-    "link": "https://nypost.com/2025/09/16/us-news/house-plans-thursday-vote-on-government-funding-bill-to-extend-spending-through-november/"
-  },
-  {
     "score": 18,
     "pubdate": "2025-09-17-02-15-13 +0000",
     "source": "nypost",
@@ -14,53 +7,11 @@
     "link": "https://nypost.com/2025/09/16/us-news/ice-receives-more-than-150k-job-applications-amid-trumps-crackdown-on-illegal-immigration/"
   },
   {
-    "score": 18,
-    "pubdate": "2025-09-17-01-37-21 +0000",
-    "source": "nyt",
-    "headline": "European Countries Condemn Israel’s Ground Offensive in Gaza City",
-    "link": "https://www.nytimes.com/2025/09/16/world/middleeast/european-countries-condemn-israel-gaza-city.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-09-17-02-03-46 +0000",
-    "source": "bbc",
-    "headline": "Canadian writer Robert Munsch approved for assisted dying",
-    "link": "https://www.bbc.com/news/articles/c931y04jg1vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
+    "score": 11,
     "pubdate": "2025-09-17-02-12-00 +0000",
     "source": "startribune",
     "headline": "Democrat Xp Lee wins special election to succeed Melissa Hortman in Minnesota House",
     "link": "https://www.startribune.com/voters-head-to-the-polls-in-special-election-to-fill-slain-rep-melissa-hortmans-seat/601471472"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-09-17-01-34-49 +0000",
-    "source": "startribune",
-    "headline": "Four mass shootings in three weeks leave Minneapolis on edge as leaders search for solutions",
-    "link": "https://www.startribune.com/minneapolis-mass-shootings/601475350"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-17-02-08-27 +0000",
-    "source": "nypost",
-    "headline": "Sam Ponder’s DMs ‘more disturbing than ever’ after mourning Charlie Kirk",
-    "link": "https://nypost.com/2025/09/16/sports/sam-ponders-dms-disturbing-after-mourning-charlie-kirk/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-17-01-55-47 +0000",
-    "source": "latimes",
-    "headline": "Train derails in downtown Los Angeles. Now Metro has to move it before service can be restored",
-    "link": "https://www.latimes.com/california/story/2025-09-16/metro-train-derails-downtown-los-angeles"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-09-17-01-24-29 +0000",
-    "source": "nypost",
-    "headline": "New Jersey legalizes human composting as eco-friendly burial alternative",
-    "link": "https://nypost.com/2025/09/16/us-news/new-jersey-legalizes-human-composting-as-eco-friendly-burial-alternative/"
   },
   {
     "score": 8,
@@ -68,5 +19,19 @@
     "source": "nyt",
     "headline": "Hiker Found Dead in Cascade Mountains of Washington State After Apparent Fall",
     "link": "https://www.nytimes.com/2025/09/16/us/hiker-death-enchantments-washington.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-17-02-08-27 +0000",
+    "source": "nypost",
+    "headline": "Sam Ponder’s DMs ‘more disturbing than ever’ after mourning Charlie Kirk",
+    "link": "https://nypost.com/2025/09/16/sports/sam-ponders-dms-disturbing-after-mourning-charlie-kirk/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-17-02-15-13 +0000",
+    "source": "nypost",
+    "headline": "ICE receives more than 150K job applications as Trump’s crackdown on illegal immigration continues",
+    "link": "https://nypost.com/2025/09/16/us-news/ice-receives-more-than-150k-job-applications-amid-trumps-crackdown-on-illegal-immigration/"
   }
 ]
