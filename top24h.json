@@ -1,13 +1,13 @@
 [
   {
-    "score": 245,
+    "score": 252,
     "pubdate": "2025-09-16-14-28-43 +0000",
     "source": "wapo",
     "headline": "President Donald Trump praised FBI Director Kash Patel’s handling of the Charlie Kirk shooting probe while...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 159,
+    "score": 158,
     "pubdate": "2025-09-16-17-37-00 +0000",
     "source": "wsj",
     "headline": "Israel Launches New Ground Offensive Seeking to Force End to Gaza War",
@@ -21,18 +21,25 @@
     "link": "https://www.wsj.com/economy/central-banking/senate-democrats-target-mirans-dual-fed-white-house-roles-a588151c"
   },
   {
-    "score": 103,
+    "score": 99,
     "pubdate": "2025-09-16-21-18-13 +0000",
     "source": "wapo",
     "headline": "Tyler Robinson will be assigned a court-appointed attorney, Fourth District Court Judge Tony Graf said during...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 95,
+    "score": 98,
     "pubdate": "2025-09-17-03-28-00 +0000",
     "source": "wsj",
     "headline": "In her first public comments since Trump fired her, the former head of the government agency that measures inflation and job growth called her dismissal “a dangerous step” for the economy",
     "link": "https://www.wsj.com/economy/jobs/fired-bls-chief-breaks-silence-calls-her-dismissal-a-dangerous-step-7e3a6a86"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-09-16-19-22-57 +0000",
+    "source": "bbc",
+    "headline": "Eritrean man wins block on removal from UK to France under 'one in, one out' deal",
+    "link": "https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 69,
@@ -42,11 +49,11 @@
     "link": "https://www.bbc.com/news/articles/cly0qnnx5w5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 65,
-    "pubdate": "2025-09-16-19-22-57 +0000",
-    "source": "bbc",
-    "headline": "Eritrean man wins block on removal to France under 'one in, one out' deal",
-    "link": "https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss"
+    "score": 62,
+    "pubdate": "2025-09-16-13-19-35 +0000",
+    "source": "nypost",
+    "headline": "DA Fani Willis loses bid to appeal Trump’s Georgia election interference case ‘She is a disaster’",
+    "link": "https://nypost.com/2025/09/16/us-news/da-fani-willis-loses-bid-to-appeal-trumps-georgia-election-interference-case/"
   },
   {
     "score": 62,
@@ -56,17 +63,10 @@
     "link": "https://www.cbc.ca/news/judge-dismisses-terrorism-charges-against-luigi-mangione-1.7634970?cmp=rss"
   },
   {
-    "score": 62,
-    "pubdate": "2025-09-16-13-19-35 +0000",
+    "score": 49,
+    "pubdate": "2025-09-16-21-19-23 +0000",
     "source": "nypost",
-    "headline": "DA Fani Willis loses bid to appeal Trump’s Georgia election interference case ‘She is a disaster’",
-    "link": "https://nypost.com/2025/09/16/us-news/da-fani-willis-loses-bid-to-appeal-trumps-georgia-election-interference-case/"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-09-16-09-44-20 +0000",
-    "source": "bbc",
-    "headline": "Google owner reveals £5bn AI investment in UK ahead of Trump visit",
-    "link": "https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&at_campaign=rss"
+    "headline": "Andrew Cuomo quips Zohran Mamdani ‘should be arrested’ after socialist said he’d order NYPD to cuff Netanyahu",
+    "link": "https://nypost.com/2025/09/16/us-news/andrew-cuomo-quips-zohran-mamdani-should-be-arrested-after-socialist-said-hed-order-nypd-to-cuff-netanyahu/"
   }
 ]
