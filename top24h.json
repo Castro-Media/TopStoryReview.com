@@ -1,31 +1,38 @@
 [
   {
-    "score": 289,
+    "score": 284,
     "pubdate": "2025-09-16-14-28-43 +0000",
     "source": "wapo",
     "headline": "President Donald Trump praised FBI Director Kash Patel’s handling of the Charlie Kirk shooting probe while...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 163,
-    "pubdate": "2025-09-16-17-37-00 +0000",
-    "source": "wsj",
-    "headline": "Israel Launches New Ground Offensive Seeking to Force End to Gaza War",
-    "link": "https://www.wsj.com/world/middle-east/israel-launches-new-ground-offensive-in-bid-to-end-gaza-war-73ae2089"
+    "score": 158,
+    "pubdate": "2025-09-17-11-44-17 +0000",
+    "source": "cbc",
+    "headline": "Israel opens new temporary route out of Gaza City as tanks advance, more forced to flee",
+    "link": "https://www.cbc.ca/news/world/gaza-city-israel-new-route-1.7635863?cmp=rss"
   },
   {
-    "score": 130,
+    "score": 132,
     "pubdate": "2025-09-16-20-14-00 +0000",
     "source": "wsj",
     "headline": "Democrats are introducing a bill in the Senate aimed at drawing a firmer line between the White House and the Federal Reserve, hours after White House official Stephen Miran was sworn in as a Fed governor",
     "link": "https://www.wsj.com/economy/central-banking/senate-democrats-target-mirans-dual-fed-white-house-roles-a588151c"
   },
   {
-    "score": 120,
+    "score": 124,
     "pubdate": "2025-09-17-03-28-00 +0000",
     "source": "wsj",
     "headline": "In her first public comments since Trump fired her, the former head of the government agency that measures inflation and job growth called her dismissal “a dangerous step” for the economy",
     "link": "https://www.wsj.com/economy/jobs/fired-bls-chief-breaks-silence-calls-her-dismissal-a-dangerous-step-7e3a6a86"
+  },
+  {
+    "score": 93,
+    "pubdate": "2025-09-17-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Kristi Noem tears into predecessor Alejandro Mayorkas on ‘Pod Force One’ for opening southern border: ‘Don’t know how he slept at night’",
+    "link": "https://nypost.com/2025/09/17/us-news/kristi-noem-tears-into-predecessor-alejandro-mayorkas-on-pod-force-one-for-opening-southern-border-dont-know-how-he-slept-at-night/"
   },
   {
     "score": 86,
@@ -35,38 +42,31 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 78,
-    "pubdate": "2025-09-17-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "Kristi Noem tears into predecessor Alejandro Mayorkas on ‘Pod Force One’ for opening southern border: ‘Don’t know how he slept at night’",
-    "link": "https://nypost.com/2025/09/17/us-news/kristi-noem-tears-into-predecessor-alejandro-mayorkas-on-pod-force-one-for-opening-southern-border-dont-know-how-he-slept-at-night/"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-09-16-15-42-06 +0000",
-    "source": "bbc",
-    "headline": "'The bombing has been insane': Palestinians scramble to flee Israeli assault on Gaza City",
-    "link": "https://www.bbc.com/news/articles/cly0qnnx5w5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-09-16-22-28-55 +0000",
     "source": "nypost",
     "headline": "Hochul argues Zohran Mamdani would be best candidate to ‘stand up’ to Trump — as she defends shock endorsement in NYC mayoral race",
     "link": "https://nypost.com/2025/09/16/us-news/hochul-argues-zohran-mamdani-would-be-best-candidate-to-stand-up-to-trump-as-she-defends-shock-endorsement-in-nyc-mayoral-race/"
   },
   {
-    "score": 58,
-    "pubdate": "2025-09-16-14-43-00 +0000",
-    "source": "wsj",
-    "headline": "Judge Throws Out Terror-Related Murder Charges Against Luigi Mangione",
-    "link": "https://www.wsj.com/us-news/law/judge-throws-out-two-murder-charges-against-luigi-mangione-579588ad"
+    "score": 57,
+    "pubdate": "2025-09-17-07-09-00 +0000",
+    "source": "nypost",
+    "headline": "Ben & Jerry’s co-founder Jerry Greenfield resigns citing loss of independence under parent company",
+    "link": "https://nypost.com/2025/09/17/business/ben-amp-jerrys-co-founder-jerry-greenfield-resigns-citing-loss-of-independence-under-unilever/"
   },
   {
     "score": 56,
-    "pubdate": "2025-09-16-22-59-07 +0000",
+    "pubdate": "2025-09-17-11-31-00 +0000",
+    "source": "wsj",
+    "headline": "Heightened fears of politically motivated attacks have prompted Republican leaders to throw their support behind tens of millions of dollars in new spending for lawmaker security",
+    "link": "https://www.wsj.com/politics/policy/rattled-lawmakers-demand-extra-security-protection-253088be"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-09-16-19-30-30 +0000",
     "source": "nypost",
-    "headline": "Trump’s TikTok deal could face hitch over billionaires’ stakes in China parent ByteDance: sources",
-    "link": "https://nypost.com/2025/09/16/business/tiktok-deal-could-face-major-hurdles-fas-questions-surround-billionaires-stakes-in-china-parent-bytedance/"
+    "headline": "Trump delays TikTok ban for fourth time to allow for US-China deal",
+    "link": "https://nypost.com/2025/09/16/business/trump-delays-tiktok-ban-for-fourth-time-to-allow-for-us-china-deal/"
   }
 ]
