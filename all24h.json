@@ -1,21 +1,363 @@
 [
   {
-    "headline": "E.P.A. Keeps Polluters on the Hook to Clean Up ‘Forever Chemicals’",
-    "link": "https://www.nytimes.com/2025/09/18/climate/epa-pfas-forever-chemicals.html",
+    "headline": "UK set for talks over access to EU defence loans",
+    "link": "https://www.bbc.com/news/articles/c07vdy4yz9do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-52-14 +0000"
+  },
+  {
+    "headline": "UK set for talks over access to EU defence loans",
+    "link": "https://www.bbc.com/news/articles/c07vdy4yz9do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-52-14 +0000"
+  },
+  {
+    "headline": "Climate Activists Argue 3 Executive Orders Violate Their Constitutional Rights",
+    "link": "https://www.nytimes.com/2025/09/18/climate/lighthiser-trial-climate-trump.html",
     "source": "nyt",
-    "pubdate": "2025-09-18-15-52-08 +0000"
+    "pubdate": "2025-09-18-16-51-25 +0000"
+  },
+  {
+    "headline": "Live Updates: Trump and Starmer Acknowledge Divide Over Palestinian Statehood",
+    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-50-23 +0000"
   },
   {
     "headline": "First migrant deported to France under 'one in one out' deal",
     "link": "https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-18-15-49-48 +0000"
+    "pubdate": "2025-09-18-16-48-58 +0000"
+  },
+  {
+    "headline": "Live: Feds announce charges related to housing program ‘riddled with fraud’",
+    "link": "https://www.startribune.com/live-feds-to-announce-charges-in-housing-instability-program/601476579",
+    "source": "startribune",
+    "pubdate": "2025-09-18-16-48-24 +0000"
+  },
+  {
+    "headline": "Bluestem, parent company of Fingerhut, closing Eden Prairie HQ and laying off 100",
+    "link": "https://www.startribune.com/bluestem-fingerhut-eden-prairie-layoffs-headquarters-closure-bankruptcy/601476205",
+    "source": "startribune",
+    "pubdate": "2025-09-18-16-47-28 +0000"
   },
   {
     "headline": "Kimmel's future hangs in balance after ABC suspends his late-night show over Charlie Kirk comments",
     "link": "https://www.startribune.com/kimmels-future-hangs-in-balance-after-abc-suspends-his-late-night-show-over-charlie-kirk-comments/601476599",
     "source": "startribune",
-    "pubdate": "2025-09-18-15-46-03 +0000"
+    "pubdate": "2025-09-18-16-46-06 +0000"
+  },
+  {
+    "headline": "Assailant Kills 2 Israelis at West Bank-Jordan Border",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-45-07 +0000"
+  },
+  {
+    "headline": "Assailant Kills 2 Israelis at West Bank-Jordan Border",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-45-07 +0000"
+  },
+  {
+    "headline": "The Trump Administration Is Dismantling Climate Policies",
+    "link": "https://www.nytimes.com/2025/09/18/us/trump-climate-denial-banquet-kimmel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-40-49 +0000"
+  },
+  {
+    "headline": "The Trump administration asked the Supreme Court to let it remove Fed governor Lisa Cook from the central bank’s board while a lawsuit challenging the president’s effort to fire her proceeds",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-asks-supreme-court-to-allow-fed-governors-removal-3329003d",
+    "source": "wsj",
+    "pubdate": "2025-09-18-16-40-00 +0000"
+  },
+  {
+    "headline": "L.A. County confirms first 4 West Nile virus cases of the summer in local residents",
+    "link": "https://www.latimes.com/california/story/2025-09-18/la-county-west-nile-virus-cases",
+    "source": "latimes",
+    "pubdate": "2025-09-18-16-39-38 +0000"
+  },
+  {
+    "headline": "'Was it worth it?' - BBC correspondents assess Trump's state visit",
+    "link": "https://www.bbc.com/news/videos/ckgq6e9dqw1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-36-57 +0000"
+  },
+  {
+    "headline": "Trump Asks Supreme Court to Allow Removal of Fed Governor",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-supreme-court-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-35-02 +0000"
+  },
+  {
+    "headline": "Trump Asks Supreme Court to Allow Removal of Fed Governor",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-supreme-court-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-35-02 +0000"
+  },
+  {
+    "headline": "Trump Asks Supreme Court to Allow Removal of Fed Governor",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-supreme-court-fed.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-35-02 +0000"
+  },
+  {
+    "headline": "Trump, Starmer Paper Over Cracks Amid Royal Pageantry",
+    "link": "https://www.wsj.com/world/uk/donald-trump-keir-starmer-uk-trip-8e56bcd7",
+    "source": "wsj",
+    "pubdate": "2025-09-18-16-34-00 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/us-aid-health-ngos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-33-10 +0000"
+  },
+  {
+    "headline": "Trump asks Supreme Court to uphold his firing of Federal Reserve Governor Lisa Cook",
+    "link": "https://www.latimes.com/politics/story/2025-09-18/trump-appeals-to-supreme-court-seeking-to-fire-fed-governor-lisa-cook",
+    "source": "latimes",
+    "pubdate": "2025-09-18-16-31-15 +0000"
+  },
+  {
+    "headline": "Chipmaker Nvidia to invest $5bn in rival Intel",
+    "link": "https://www.bbc.com/news/articles/c4gjd1mnjpyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-30-58 +0000"
+  },
+  {
+    "headline": "Chipmaker Nvidia to invest $5bn in rival Intel",
+    "link": "https://www.bbc.com/news/articles/c4gjd1mnjpyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-30-58 +0000"
+  },
+  {
+    "headline": "Trump suggests Starmer could use military to control UK borders",
+    "link": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-23-49 +0000"
+  },
+  {
+    "headline": "AmEx unveils Platinum card updates with new perks — and a whopping $895 fee",
+    "link": "https://nypost.com/2025/09/18/business/amex-unveils-platinum-card-updates-with-new-perks-and-a-whopping-895-fee/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-16-22-50 +0000"
+  },
+  {
+    "headline": "Shimia Nord, a Duluth East grad who kept pushing beyond terminal cancer diagnosis, has died. She was 18.",
+    "link": "https://www.startribune.com/shimia-nord-a-duluth-east-grad-who-kept-pushing-beyond-terminal-cancer-diagnosis-has-died-she-was-18/601476148",
+    "source": "startribune",
+    "pubdate": "2025-09-18-16-18-27 +0000"
+  },
+  {
+    "headline": "Teenager Celeste Rivas went missing a year ago. She was found dead in singer D4vd's Tesla",
+    "link": "https://www.latimes.com/california/story/2025-09-18/teenage-girl-missing-found-dead-singers-tesla",
+    "source": "latimes",
+    "pubdate": "2025-09-18-16-17-43 +0000"
+  },
+  {
+    "headline": "Judge Stops Trump Administration From Deporting Guatemalan Children",
+    "link": "https://www.wsj.com/us-news/law/trump-guatemala-children-deportation-blocked-621e63a2",
+    "source": "wsj",
+    "pubdate": "2025-09-18-16-17-00 +0000"
+  },
+  {
+    "headline": "Malawi's parties warned not to prematurely declare election victory",
+    "link": "https://www.bbc.com/news/articles/cwyrqz4egddo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-16-53 +0000"
+  },
+  {
+    "headline": "Malawi's parties warned not to prematurely declare election victory",
+    "link": "https://www.bbc.com/news/articles/cwyrqz4egddo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-16-53 +0000"
+  },
+  {
+    "headline": "Mexican naval ship that fatally smashed into Brooklyn Bridge leaves for ‘sea trial’ to test repairs",
+    "link": "https://nypost.com/2025/09/18/us-news/mexican-naval-ship-that-smashed-into-brooklyn-bridge-is-on-sea-trial/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-16-16-00 +0000"
+  },
+  {
+    "headline": "How China Is Losing Its Title as the World’s Sneaker Factory",
+    "link": "https://www.nytimes.com/2025/09/17/business/vietnam-sneaker-manufacturing-china.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-14-17 +0000"
+  },
+  {
+    "headline": "How China Is Losing Its Title as the World’s Sneaker Factory",
+    "link": "https://www.nytimes.com/2025/09/17/business/vietnam-sneaker-manufacturing-china.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-14-17 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-14-02 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-14-02 +0000"
+  },
+  {
+    "headline": "Gaza aid truck driver shoots 2 Israelis to death at border crossing, officials say",
+    "link": "https://nypost.com/2025/09/18/world-news/gaza-aid-truck-driver-shoots-2-israelis-to-death-at-border-crossing-officials-say/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-16-13-46 +0000"
+  },
+  {
+    "headline": "Man dies after riding Stardust Racers roller coaster at Universal’s Epic Universe",
+    "link": "https://nypost.com/2025/09/18/us-news/man-dies-after-riding-stardust-racers-roller-coaster-at-universal/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-16-07-39 +0000"
+  },
+  {
+    "headline": "Donald Trump's second UK state visit: Here's what we know",
+    "link": "https://www.bbc.com/news/articles/c8rynvlm6zjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-07-04 +0000"
+  },
+  {
+    "headline": "With Amex’s Platinum Refresh, an Even More Exclusive Card Emerges",
+    "link": "https://www.nytimes.com/2025/09/18/travel/amexs-platinum-card-benefits.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-05-49 +0000"
+  },
+  {
+    "headline": "Corbyn and Sultana clash over new party membership",
+    "link": "https://www.bbc.com/news/articles/cgkn3v1e7g3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-16-05-18 +0000"
+  },
+  {
+    "headline": "Kennedy Announces Firing of Organ Transplant Group After Safety Problems",
+    "link": "https://www.nytimes.com/2025/09/18/us/organ-transplants-rfk-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-16-05-00 +0000"
+  },
+  {
+    "headline": "Trump’s Trade War Split Canada and Mexico. Now They Want United Front.",
+    "link": "https://www.wsj.com/world/americas/canada-mexico-carney-sheinbaum-meeting-f913d0d7",
+    "source": "wsj",
+    "pubdate": "2025-09-18-16-02-00 +0000"
+  },
+  {
+    "headline": "Housing, office, Wolves arena: What’s next for the Star Tribune printing plant?",
+    "link": "https://www.startribune.com/star-tribune-heritage-printing-downtown-minneapolis-north-loop-development-sale/601474958",
+    "source": "startribune",
+    "pubdate": "2025-09-18-16-01-00 +0000"
+  },
+  {
+    "headline": "Meta in talks with Fox Corp, News Corp, Axel Springer over AI content licensing: report",
+    "link": "https://nypost.com/2025/09/18/business/meta-in-talks-with-fox-corp-news-corp-over-ai-content-licensing-report/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-15-59-54 +0000"
+  },
+  {
+    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-15-57-20 +0000"
+  },
+  {
+    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-15-57-20 +0000"
+  },
+  {
+    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-15-57-20 +0000"
+  },
+  {
+    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-15-57-20 +0000"
+  },
+  {
+    "headline": "He was set to break a record cycling across Eurasia, then came Russia",
+    "link": "https://www.washingtonpost.com/world/2025/09/18/sofiane-sehili-cyclist-arrested-vladivostok-russia/",
+    "source": "wapo",
+    "pubdate": "2025-09-18-15-54-38 +0000"
+  },
+  {
+    "headline": "In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/vaccine-mandates-covid-measles.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-15-54-29 +0000"
+  },
+  {
+    "headline": "In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/vaccine-mandates-covid-measles.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-15-54-29 +0000"
+  },
+  {
+    "headline": "Disney Pulls Jimmy Kimmel’s Show After Kirk Remarks",
+    "link": "https://www.wsj.com/business/media/disney-to-pull-jimmy-kimmels-show-after-kirk-remarks-47b4b400?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-18-15-53-00 +0000"
+  },
+  {
+    "headline": "Disney Pulls Jimmy Kimmel’s Show After Kirk Remarks",
+    "link": "https://www.wsj.com/business/media/disney-to-pull-jimmy-kimmels-show-after-kirk-remarks-47b4b400?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-18-15-53-00 +0000"
+  },
+  {
+    "headline": "E.P.A. Keeps Polluters on the Hook to Clean Up ‘Forever Chemicals’",
+    "link": "https://www.nytimes.com/2025/09/18/climate/epa-pfas-forever-chemicals.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-15-52-08 +0000"
   },
   {
     "headline": "Free welcome cafe opens to help community connect",
@@ -48,18 +390,6 @@
     "pubdate": "2025-09-18-15-39-00 +0000"
   },
   {
-    "headline": "Live Updates: Trump and Starmer Acknowledge Divide Over Palestinian Statehood",
-    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit",
-    "source": "nyt",
-    "pubdate": "2025-09-18-15-38-40 +0000"
-  },
-  {
-    "headline": "The U.S. labor market is slowing. Minnesota’s is bucking the trend for now",
-    "link": "https://www.startribune.com/minnesota-us-labor-market-jobs-unemployment-economic-slowdown-outpace/601472239",
-    "source": "startribune",
-    "pubdate": "2025-09-18-15-37-19 +0000"
-  },
-  {
     "headline": "Newark Airport Crisis Has Eased but Tech and Staffing Issues Persist",
     "link": "https://www.nytimes.com/2025/09/18/business/newark-airport-air-traffic-control.html",
     "source": "nyt",
@@ -88,18 +418,6 @@
     "link": "https://www.bbc.com/news/articles/cp98031vyjko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-18-15-34-16 +0000"
-  },
-  {
-    "headline": "Chipmaker Nvidia to invest $5bn in rival Intel",
-    "link": "https://www.bbc.com/news/articles/c4gjd1mnjpyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-15-34-09 +0000"
-  },
-  {
-    "headline": "Bird flu has returned to Minnesota, health board says",
-    "link": "https://www.startribune.com/avian-bird-flu-minnesota-turkeys-redwood-county/601476138",
-    "source": "startribune",
-    "pubdate": "2025-09-18-15-33-43 +0000"
   },
   {
     "headline": "MPs write to government over JLR supply chain jobs",
@@ -144,18 +462,6 @@
     "pubdate": "2025-09-18-15-26-54 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-09-18-15-25-55 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-09-18-15-25-55 +0000"
-  },
-  {
     "headline": "Fed Faces No Good Options as Labor Market Wobbles While Inflation Firms",
     "link": "https://www.nytimes.com/2025/09/18/business/fed-interest-rates-labor-inflation.html",
     "source": "nyt",
@@ -171,7 +477,7 @@
     "headline": "How Did Hands Evolve? Look to Your Anus, a New Study Suggests.",
     "link": "https://www.nytimes.com/2025/09/17/science/evolution-crispr-hands.html",
     "source": "nyt",
-    "pubdate": "2025-09-18-15-16-13 +0000"
+    "pubdate": "2025-09-18-15-16-14 +0000"
   },
   {
     "headline": "Egypt says 3,000-year-old bracelet was stolen and melted down",
@@ -192,12 +498,6 @@
     "pubdate": "2025-09-18-15-16-01 +0000"
   },
   {
-    "headline": "Corbyn and Sultana clash over new party membership",
-    "link": "https://www.bbc.com/news/articles/cgkn3v1e7g3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-15-15-26 +0000"
-  },
-  {
     "headline": "Trump admits Putin ‘let me down’ on Ukraine peace talks as UK PM Keir Starmer says dictator ‘has shown his true face’",
     "link": "https://nypost.com/2025/09/18/us-news/trump-admits-putin-let-me-down-on-ukraine-peace-talks/",
     "source": "nypost",
@@ -216,28 +516,16 @@
     "pubdate": "2025-09-18-15-15-02 +0000"
   },
   {
-    "headline": "Jimmy Kimmel yanked off the air over ‘bad ratings,’ Trump claims — and for saying ‘horrible thing’ about Charlie Kirk",
+    "headline": "Trump claims Jimmy Kimmel was taken off air for ‘bad ratings’ — and ‘said a horrible thing’ about Charlie Kirk",
     "link": "https://nypost.com/2025/09/18/us-news/trump-claims-jimmy-kimmel-was-fired-for-bad-ratings-and-for-saying-a-horrible-thing-about-charlie-kirk/",
     "source": "nypost",
     "pubdate": "2025-09-18-15-10-04 +0000"
   },
   {
-    "headline": "Jimmy Kimmel yanked off the air over ‘bad ratings,’ Trump claims — and for saying ‘horrible thing’ about Charlie Kirk",
+    "headline": "Trump claims Jimmy Kimmel was taken off air for ‘bad ratings’ — and ‘said a horrible thing’ about Charlie Kirk",
     "link": "https://nypost.com/2025/09/18/us-news/trump-claims-jimmy-kimmel-was-fired-for-bad-ratings-and-for-saying-a-horrible-thing-about-charlie-kirk/",
     "source": "nypost",
     "pubdate": "2025-09-18-15-10-04 +0000"
-  },
-  {
-    "headline": "Malawi's parties warned not to prematurely declare election victory",
-    "link": "https://www.bbc.com/news/articles/cwyrqz4egddo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-15-09-25 +0000"
-  },
-  {
-    "headline": "Malawi's parties warned not to prematurely declare election victory",
-    "link": "https://www.bbc.com/news/articles/cwyrqz4egddo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-15-09-25 +0000"
   },
   {
     "headline": "Anti-Austerity Strikes and Protests Grip France",
@@ -312,18 +600,6 @@
     "pubdate": "2025-09-18-14-44-32 +0000"
   },
   {
-    "headline": "Disney Pulls Jimmy Kimmel’s Show After Kirk Remarks",
-    "link": "https://www.wsj.com/business/media/disney-to-pull-jimmy-kimmels-show-after-kirk-remarks-47b4b400?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-18-14-44-00 +0000"
-  },
-  {
-    "headline": "Disney Pulls Jimmy Kimmel’s Show After Kirk Remarks",
-    "link": "https://www.wsj.com/business/media/disney-to-pull-jimmy-kimmels-show-after-kirk-remarks-47b4b400?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-18-14-44-00 +0000"
-  },
-  {
     "headline": "U.S. Leading Indicators Continue to Show Weakening Economy",
     "link": "https://www.wsj.com/economy/central-banking/u-s-leading-indicators-continue-to-show-weakening-economy-727296b6",
     "source": "wsj",
@@ -360,6 +636,12 @@
     "pubdate": "2025-09-18-14-31-16 +0000"
   },
   {
+    "headline": "Class resumes at Utah Valley University after Charlie Kirk shooting",
+    "link": "https://www.bbc.com/news/videos/c203nweed07o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-14-30-37 +0000"
+  },
+  {
     "headline": "Nvidia to Buy $5 Billion Stake in Intel, Giving Rival a Lifeline",
     "link": "https://www.nytimes.com/2025/09/18/business/nvidia-intel-stake.html",
     "source": "nyt",
@@ -390,12 +672,6 @@
     "pubdate": "2025-09-18-14-18-36 +0000"
   },
   {
-    "headline": "Kennedy to Announce Firing of Organ Transplant Group After Safety Problems",
-    "link": "https://www.nytimes.com/2025/09/18/us/organ-transplants-rfk-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-14-13-26 +0000"
-  },
-  {
     "headline": "Israeli officials say two shot dead in gun attack at Jordanian border",
     "link": "https://www.washingtonpost.com/world/2025/09/18/israel-jordan-allenby-crossing-attack/",
     "source": "wapo",
@@ -406,12 +682,6 @@
     "link": "https://www.wsj.com/world/europe/why-putin-cant-afford-to-let-ukraine-prosper-9854e35e",
     "source": "wsj",
     "pubdate": "2025-09-18-14-08-00 +0000"
-  },
-  {
-    "headline": "With Amex’s Platinum Refresh, an Even More Exclusive Card Emerges",
-    "link": "https://www.nytimes.com/2025/09/18/travel/amexs-platinum-card-benefits.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-14-04-21 +0000"
   },
   {
     "headline": "Suspect accused of racist death threats against Zohran Mamdani is busted in Texas on hate charges",
@@ -480,12 +750,6 @@
     "pubdate": "2025-09-18-13-55-08 +0000"
   },
   {
-    "headline": "Donald Trump's second UK state visit: Here's what we know",
-    "link": "https://www.bbc.com/news/articles/c8rynvlm6zjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-13-52-31 +0000"
-  },
-  {
     "headline": "Syria’s President Says Border Deal With Israel Could Come ‘Within Days’",
     "link": "https://www.nytimes.com/2025/09/18/world/middleeast/syria-israel.html",
     "source": "nyt",
@@ -534,34 +798,10 @@
     "pubdate": "2025-09-18-13-22-03 +0000"
   },
   {
-    "headline": "Two Fatally Shot at West Bank-Jordan Border Crossing",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-13-20-49 +0000"
-  },
-  {
-    "headline": "Two Fatally Shot at West Bank-Jordan Border Crossing",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-13-20-49 +0000"
-  },
-  {
     "headline": "3 police officers killed, 2 wounded in southern Pennsylvania shooting",
     "link": "https://www.washingtonpost.com/nation/2025/09/17/pennsylvania-shooting-york-county-police/",
     "source": "wapo",
     "pubdate": "2025-09-18-13-14-51 +0000"
-  },
-  {
-    "headline": "UK set for talks over access to EU defence loans",
-    "link": "https://www.bbc.com/news/articles/c07vdy4yz9do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-13-13-01 +0000"
-  },
-  {
-    "headline": "UK set for talks over access to EU defence loans",
-    "link": "https://www.bbc.com/news/articles/c07vdy4yz9do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-13-13-01 +0000"
   },
   {
     "headline": "U.S. Jobless Claims Fell Last Week",
@@ -642,6 +882,12 @@
     "pubdate": "2025-09-18-12-25-49 +0000"
   },
   {
+    "headline": "Facebook owner unveils new AI-powered smart glasses",
+    "link": "https://www.bbc.com/news/articles/c5y599yz0l3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-12-25-49 +0000"
+  },
+  {
     "headline": "Why is UK inflation still rising?",
     "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -690,12 +936,6 @@
     "pubdate": "2025-09-18-11-58-35 +0000"
   },
   {
-    "headline": "He was set to break a record cycling across Eurasia, then came Russia",
-    "link": "https://www.washingtonpost.com/world/2025/09/18/sofiane-sehili-cyclist-arrested-vladivostok-russia/",
-    "source": "wapo",
-    "pubdate": "2025-09-18-11-48-09 +0000"
-  },
-  {
     "headline": "Protesters in France target Paris Metro amid nationwide transport strikes",
     "link": "https://nypost.com/2025/09/18/world-news/protesters-hit-france-with-transport-strikes-on-thursday/",
     "source": "nypost",
@@ -726,7 +966,7 @@
     "pubdate": "2025-09-18-11-24-26 +0000"
   },
   {
-    "headline": "Why Mayor Jacob Frey and his polarizing politics are at the center of the Minneapolis election",
+    "headline": "Roper: Why Mayor Jacob Frey and his polarizing politics are at the center of the Minneapolis election",
     "link": "https://www.startribune.com/jacob-frey-mayor-minneapolis-election-campaign/601466369",
     "source": "startribune",
     "pubdate": "2025-09-18-11-23-40 +0000"
@@ -774,12 +1014,6 @@
     "pubdate": "2025-09-18-11-13-14 +0000"
   },
   {
-    "headline": "The Trump Administration Is Dismantling Climate Policies",
-    "link": "https://www.nytimes.com/2025/09/18/us/trump-climate-denial-banquet-kimmel.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-11-13-13 +0000"
-  },
-  {
     "headline": "The Bank of England left its key interest rate unchanged, but scaled back a program designed to shrink its holdings of government bonds",
     "link": "https://www.wsj.com/economy/central-banking/bank-of-england-leaves-key-rate-on-hold-slows-quantitative-tightening-d760dcb6",
     "source": "wsj",
@@ -807,12 +1041,6 @@
     "headline": "Amex Revamps Its Platinum Card, Raises Fee to $895",
     "link": "https://www.wsj.com/personal-finance/amex-revamps-its-platinum-card-raises-fee-to-895-5c32cb3b?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2025-09-18-11-00-00 +0000"
-  },
-  {
-    "headline": "How downtown Excelsior became a suburban restaurant row",
-    "link": "https://www.startribune.com/excelsior-new-dining-restaurant-destination-twin-cities-suburbs/601448238",
-    "source": "startribune",
     "pubdate": "2025-09-18-11-00-00 +0000"
   },
   {
@@ -876,12 +1104,6 @@
     "pubdate": "2025-09-18-10-30-53 +0000"
   },
   {
-    "headline": "Scoggins: Vikings’ season has veered off script. How will Kevin O’Connell handle it?",
-    "link": "https://www.startribune.com/minnesota-vikings-injuries-kevin-oconnell-carson-wentz-chip-scoggins/601448705",
-    "source": "startribune",
-    "pubdate": "2025-09-18-10-30-00 +0000"
-  },
-  {
     "headline": "Calmes: What came of Trump's Putin summit? Nothing good",
     "link": "https://www.latimes.com/opinion/story/2025-09-18/la-oe-calmes-russia",
     "source": "latimes",
@@ -916,30 +1138,6 @@
     "link": "https://www.washingtonpost.com/nation/2025/09/18/new-mexico-free-child-care-grisham/",
     "source": "wapo",
     "pubdate": "2025-09-18-10-00-16 +0000"
-  },
-  {
-    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-00-10 +0000"
-  },
-  {
-    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-00-10 +0000"
-  },
-  {
-    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-00-10 +0000"
-  },
-  {
-    "headline": "Democratic Senators Call for U.S. Recognition of Palestinian State",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/democrats-senators-palestinian-state.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-00-10 +0000"
   },
   {
     "headline": "Contributor: The right now embraces cancel culture",
@@ -984,14 +1182,14 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
+    "headline": "Edison details how much it plans to pay Eaton fire victims",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "Edison details how much it plans to pay Eaton fire victims",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
+    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -1020,12 +1218,6 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
     "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
     "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
     "source": "latimes",
@@ -1040,6 +1232,12 @@
   {
     "headline": "Edison details how much it plans to pay Eaton fire victims",
     "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -1368,12 +1566,6 @@
     "pubdate": "2025-09-18-07-30-41 +0000"
   },
   {
-    "headline": "‘The Walking Dead’ script supervisor Amy Blanc Lacy killed in hit-and-run as alleged driver fled scene with his golf clubs",
-    "link": "https://nypost.com/2025/09/18/us-news/the-walking-dead-script-supervisor-amy-blanc-lacy-killed-in-hit-and-run-as-alleged-driver-fled-scene-with-his-golf-clubs/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-07-22-33 +0000"
-  },
-  {
     "headline": "Hong Kong’s Dim Sum Cart ‘Aunties’ Make Their Final Rounds",
     "link": "https://www.nytimes.com/2025/09/18/world/asia/hong-kong-dim-sum-cart.html",
     "source": "nyt",
@@ -1387,15 +1579,9 @@
   },
   {
     "headline": "Day 180 at the 16th St. Plaza: ‘The Bear’",
-    "link": "https://missionlocal.org/2025/09/day-180-at-the-16th-st-plaza-the-bear-jacob-heller/",
+    "link": "https://missionlocal.org/2025/09/day-180-at-the-16th-st-plaza-the-bear/",
     "source": "missionlocal",
     "pubdate": "2025-09-18-05-54-03 +0000"
-  },
-  {
-    "headline": "Texas man died outside steakhouse after staff assumed he was sleeping homeless man: family",
-    "link": "https://nypost.com/2025/09/18/us-news/texas-man-jessie-mobley-jr-died-in-houston-steakhouse-parking-lot-after-staff-assumed-he-was-homeless/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-05-47-36 +0000"
   },
   {
     "headline": "Irish Central Bank Raises Growth Forecasts on U.S. Tariff Agreement",
@@ -1498,6 +1684,12 @@
     "link": "https://www.nytimes.com/2025/09/18/briefing/europes-far-right-charlie-kirk.html",
     "source": "nyt",
     "pubdate": "2025-09-18-04-30-05 +0000"
+  },
+  {
+    "headline": "Katty Kay: Why America is at a dangerous crossroads following the Charlie Kirk shooting",
+    "link": "https://www.bbc.com/news/articles/c78n0e83ye0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-04-18-51 +0000"
   },
   {
     "headline": "Katty Kay: Why America is at a dangerous crossroads following the Charlie Kirk shooting",
@@ -1794,12 +1986,6 @@
     "pubdate": "2025-09-18-00-14-00 +0000"
   },
   {
-    "headline": "100 Liberal Philanthropies Prepare to Push Back Against Trump Crackdown",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/trump-liberal-philanthropies-pushback.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-00-12-45 +0000"
-  },
-  {
     "headline": "Senator Says Meeting Between Kennedy and His C.D.C. Director Was Recorded, Then Backtracks",
     "link": "https://www.nytimes.com/2025/09/17/us/politics/kennedy-cdc-director-recording.html",
     "source": "nyt",
@@ -1980,7 +2166,7 @@
     "pubdate": "2025-09-17-23-04-55 +0000"
   },
   {
-    "headline": "Cracker Barrel expects fewer patrons  after failed logo rebrand",
+    "headline": "Cracker Barrel expects fewer patrons after failed logo rebrand",
     "link": "https://www.washingtonpost.com/business/2025/09/17/cracker-barrel-reduced-traffic-logo/",
     "source": "wapo",
     "pubdate": "2025-09-17-23-03-37 +0000"
@@ -2056,6 +2242,12 @@
     "link": "https://www.latimes.com/california/story/2025-09-17/gibson-dunn-crutcher-los-angeles-homeless",
     "source": "latimes",
     "pubdate": "2025-09-17-22-50-13 +0000"
+  },
+  {
+    "headline": "Watch: Mexico and Canada are meeting without Trump - here's why",
+    "link": "https://www.bbc.com/news/videos/cx20qqzz6eko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-17-22-46-06 +0000"
   },
   {
     "headline": "Watch: Mexico and Canada are meeting without Trump - here's why",
@@ -2412,12 +2604,6 @@
     "pubdate": "2025-09-17-20-12-27 +0000"
   },
   {
-    "headline": "Fed Reserve cuts interest rates but cautions over stalling job market",
-    "link": "https://www.bbc.com/news/articles/c3e75y90pw0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-20-12-27 +0000"
-  },
-  {
     "headline": "Thieves Steal $700,000 in Gold From Natural History Museum in Paris",
     "link": "https://www.nytimes.com/2025/09/17/us/paris-museum-gold-theft.html",
     "source": "nyt",
@@ -2652,12 +2838,6 @@
     "pubdate": "2025-09-17-18-21-00 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/heres-the-latest.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-18-19-21 +0000"
-  },
-  {
     "headline": "What the Fed rate cut means for your home, car and credit card loans",
     "link": "https://www.washingtonpost.com/business/2025/09/17/fed-rate-cut-mortgage-car-loans/",
     "source": "wapo",
@@ -2686,12 +2866,6 @@
     "link": "https://www.latimes.com/california/story/2025-09-17/california-vaccine-guidance",
     "source": "latimes",
     "pubdate": "2025-09-17-18-00-01 +0000"
-  },
-  {
-    "headline": "Georgia Election Official Who Defied Trump Enters Governor’s Race",
-    "link": "https://www.nytimes.com/2025/09/17/us/brad-raffensperger-georgia-governor-election.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-17-57-22 +0000"
   },
   {
     "headline": "JLR hack could see thousands laid off - MP",
@@ -2818,155 +2992,5 @@
     "link": "https://www.nytimes.com/2025/09/17/world/asia/modi-trump-birthday.html",
     "source": "nyt",
     "pubdate": "2025-09-17-16-58-00 +0000"
-  },
-  {
-    "headline": "Trump’s Birthday Call to Modi Raises Hopes in India for a Trade Deal",
-    "link": "https://www.nytimes.com/2025/09/17/world/asia/modi-trump-birthday.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-58-00 +0000"
-  },
-  {
-    "headline": "Top Bessent Aide, Daniel Katz, Expected to Be Tapped as No. 2 at I.M.F.",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/daniel-katz-imf.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-53-41 +0000"
-  },
-  {
-    "headline": "Top Bessent Aide, Daniel Katz, Expected to Be Tapped as No. 2 at I.M.F.",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/daniel-katz-imf.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-53-41 +0000"
-  },
-  {
-    "headline": "Top Bessent Aide, Daniel Katz, Expected to Be Tapped as No. 2 at I.M.F.",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/daniel-katz-imf.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-53-41 +0000"
-  },
-  {
-    "headline": "What to Know About ‘Hate Speech’ and the First Amendment",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/what-to-know-hate-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-51-41 +0000"
-  },
-  {
-    "headline": "What to Know About ‘Hate Speech’ and the First Amendment",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/what-to-know-hate-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-51-41 +0000"
-  },
-  {
-    "headline": "KPMG Ignored Flaws at Regional Banks Before 2023 Crisis, Senate Report Finds",
-    "link": "https://www.wsj.com/articles/kpmg-ignored-flaws-at-regional-banks-before-2023-crisis-senate-report-finds-e30bc988?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-17-16-51-00 +0000"
-  },
-  {
-    "headline": "Teens fined $300K after urinating fiasco at hotpot chain in China",
-    "link": "https://nypost.com/2025/09/17/world-news/teens-fined-thousands-after-urinating-fiasco-at-hotpot-chain-in-china/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-16-50-51 +0000"
-  },
-  {
-    "headline": "JLR supply chain staff told to apply for universal credit, union claims",
-    "link": "https://www.bbc.com/news/articles/c784nwvj1l3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-16-50-02 +0000"
-  },
-  {
-    "headline": "The Fed meeting brings together a Trump ally with a target of his ire.",
-    "link": "https://www.nytimes.com/live/2025/09/17/business/federal-reserve-interest-rates/the-fed-meeting-brings-together-a-trump-ally-with-a-target-of-his-ire",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-45-05 +0000"
-  },
-  {
-    "headline": "How to read the Fed’s projections like a pro.",
-    "link": "https://www.nytimes.com/live/2025/09/17/business/federal-reserve-interest-rates/how-to-read-the-feds-projections-like-a-pro",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-41-18 +0000"
-  },
-  {
-    "headline": "Protest in London Contrasts With Trump’s Warm Royal Reception",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/london-protests.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-33-32 +0000"
-  },
-  {
-    "headline": "Protest in London Contrasts With Trump’s Warm Royal Reception",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/london-protests.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-33-32 +0000"
-  },
-  {
-    "headline": "Protesters unveil visual stunts as Trump arrives.",
-    "link": "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit/trump-uk-visit-protest",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-33-06 +0000"
-  },
-  {
-    "headline": "Senate GOP bill would form public transit violence task force after Iryna Zarutska’s murder on Charlotte train",
-    "link": "https://nypost.com/2025/09/17/us-news/senate-gop-bill-would-form-public-transit-violence-task-force-after-iryna-zarutkas-murder-on-charlotte-train/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-16-32-20 +0000"
-  },
-  {
-    "headline": "Robert Redford Didn’t Love Hollywood, Yet Hollywood Loved Him",
-    "link": "https://www.nytimes.com/2025/09/17/business/robert-redford-hollywood.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-25-22 +0000"
-  },
-  {
-    "headline": "Israeli tanks advance on Gaza, military opens new evacuation route amid IDF push",
-    "link": "https://nypost.com/2025/09/17/world-news/israeli-tanks-advance-on-gaza-as-military-opens-new-evacuation-route/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-16-24-48 +0000"
-  },
-  {
-    "headline": "Jemele Hill deletes post claiming Charlie Kirk was victim of ‘white supremacist gang hit’",
-    "link": "https://nypost.com/2025/09/17/media/jemele-hill-deletes-post-claiming-charlie-kirk-was-victim-of-white-supremacist-gang-hit/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-16-18-02 +0000"
-  },
-  {
-    "headline": "The Fed’s cautious approach to defending itself against Trump is drawing scrutiny.",
-    "link": "https://www.nytimes.com/live/2025/09/17/business/federal-reserve-interest-rates/the-feds-cautious-approach-to-defending-itself-against-trump-is-drawing-scrutiny",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-15-04 +0000"
-  },
-  {
-    "headline": "King Charles and Trump erupt in laughter as they inspect royal guards: ‘Watch the sword’",
-    "link": "https://nypost.com/2025/09/17/us-news/king-charles-and-trump-erupt-with-laughter-after-royals-silly-joke/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-16-06-52 +0000"
-  },
-  {
-    "headline": "How China Is Losing Its Title as the World’s Sneaker Factory",
-    "link": "https://www.nytimes.com/2025/09/17/business/vietnam-sneaker-manufacturing-china.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-00-18 +0000"
-  },
-  {
-    "headline": "How China Is Losing Its Title as the World’s Sneaker Factory",
-    "link": "https://www.nytimes.com/2025/09/17/business/vietnam-sneaker-manufacturing-china.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-16-00-18 +0000"
-  },
-  {
-    "headline": "Nvidia boss says UK will be 'AI superpower' as tech firms invest billions",
-    "link": "https://www.bbc.com/news/articles/c7016ljre03o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-16-00-11 +0000"
-  },
-  {
-    "headline": "Nvidia boss says UK will be 'AI superpower' as tech firms invest billions",
-    "link": "https://www.bbc.com/news/articles/c7016ljre03o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-16-00-11 +0000"
-  },
-  {
-    "headline": "Thousands of Palestinians flee as Israeli troops push into Gaza City",
-    "link": "https://www.bbc.com/news/articles/cx270y1rgzeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-15-55-43 +0000"
   }
 ]
