@@ -1,12 +1,354 @@
 [
   {
+    "headline": "What Jimmy Kimmel’s Suspension Says About the Trump Administration’s Crackdown Against Mainstream Media",
+    "link": "https://www.nytimes.com/2025/09/18/business/media/trump-kimmel-cancel-culture-free-speech.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-50-35 +0000"
+  },
+  {
+    "headline": "Why students like me are happier living at home",
+    "link": "https://www.bbc.com/news/articles/c15kwylxjglo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-21-47-02 +0000"
+  },
+  {
+    "headline": "NYC student, 16, pledges to shoot up school on social media, found with loaded gun after Instagram steps in",
+    "link": "https://nypost.com/2025/09/18/us-news/nyc-student-16-pledges-to-shoot-up-school-on-social-media-found-with-loaded-gun-after-instagram-steps-in/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-44-59 +0000"
+  },
+  {
+    "headline": "D4vd’s eerie unreleased ‘Celeste’ song surfaces as cops search home where he stayed before Celeste Rivas Hernandez’s decomposing body found in his Tesla",
+    "link": "https://nypost.com/2025/09/18/us-news/d4vds-unreleased-celeste-song-surfaces-as-cops-search-home/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-43-34 +0000"
+  },
+  {
+    "headline": "Texas Man Dies in Fall From Alaska Mountain Trail",
+    "link": "https://www.nytimes.com/2025/09/18/us/alaska-hikers-dead-juneau.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-42-27 +0000"
+  },
+  {
+    "headline": "Trump nixed $400 million in Taiwan military aid, pushing future arms sales",
+    "link": "https://www.washingtonpost.com/national-security/2025/09/18/trump-taiwan-arms-sales-military-aid/",
+    "source": "wapo",
+    "pubdate": "2025-09-18-21-41-58 +0000"
+  },
+  {
+    "headline": "That UPS bill isn’t a scam: Minnesotans now directly paying tariffs on even small orders",
+    "link": "https://www.startribune.com/de-minimis-exemption-trump-tariff-trade-war-pay-ups-fedex-dhl-kinoko-kids-moona-moono/601472700",
+    "source": "startribune",
+    "pubdate": "2025-09-18-21-41-53 +0000"
+  },
+  {
+    "headline": "In Their Own Words: Trump and Top Officials Change Tone on Free Speech",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-free-speech.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-41-06 +0000"
+  },
+  {
+    "headline": "In Their Own Words: Trump and Top Officials Change Tone on Free Speech",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-free-speech.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-41-06 +0000"
+  },
+  {
+    "headline": "Opinion | The FCC, Disney and Jimmy Kimmel",
+    "link": "https://www.wsj.com/opinion/fcc-disney-jimmy-kimmel-brendan-carr-media-regulation-197bdf0a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-39-00 +0000"
+  },
+  {
+    "headline": "Opinion | The FCC, Disney and Jimmy Kimmel",
+    "link": "https://www.wsj.com/opinion/fcc-disney-jimmy-kimmel-brendan-carr-media-regulation-197bdf0a",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-39-00 +0000"
+  },
+  {
+    "headline": "How China Became a Wedge Between Two South Pacific Neighbors",
+    "link": "https://www.nytimes.com/2025/09/18/world/australia/china-pacific-nz-cook-islands.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-38-32 +0000"
+  },
+  {
+    "headline": "How China Became a Wedge Between Two South Pacific Neighbors",
+    "link": "https://www.nytimes.com/2025/09/18/world/australia/china-pacific-nz-cook-islands.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-38-32 +0000"
+  },
+  {
+    "headline": "Ros Atkins on… What Kimmel's suspension means for free speech in the US",
+    "link": "https://www.bbc.com/news/videos/crme42nr8exo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-21-38-29 +0000"
+  },
+  {
+    "headline": "Opinion | Israeli Lasers and American Defense",
+    "link": "https://www.wsj.com/opinion/israel-iron-beam-laser-air-defense-18b48b00",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-37-00 +0000"
+  },
+  {
+    "headline": "Fellow inmate reveals what notorious ‘Preppy Killer’ Robert Chambers confessed about crime in prison",
+    "link": "https://nypost.com/2025/09/18/us-news/what-preppy-killer-robert-chambers-confessed-in-prison/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-35-44 +0000"
+  },
+  {
+    "headline": "Opinion | Chuck Schumer Courts a Government Shutdown",
+    "link": "https://www.wsj.com/opinion/government-shutdown-congress-chuck-schumer-mike-johnson-continuing-resolution-gop-democrats-ea4fd8af",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-35-00 +0000"
+  },
+  {
+    "headline": "IRS Official Sues Agency, Accusing It of Leaking Private Data to Fox News and Others",
+    "link": "https://www.nytimes.com/2025/09/18/business/irs-lawsuit-holly-paz-fox-news.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-34-50 +0000"
+  },
+  {
+    "headline": "Opinion | Why Johnny Can’t Add Anymore",
+    "link": "https://www.wsj.com/opinion/u-s-math-education-crpe-report-naep-scores-648adf94",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-34-00 +0000"
+  },
+  {
+    "headline": "Opinion | Robert Redford Was the Last Movie Star",
+    "link": "https://www.wsj.com/opinion/robert-redford-was-the-last-movie-star-b1234699",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-32-00 +0000"
+  },
+  {
+    "headline": "All about the business decision to suspend Jimmy Kimmel from ABC after his Charlie Kirk comments",
+    "link": "https://nypost.com/2025/09/18/media/all-about-the-business-decision-to-suspend-jimmy-kimmel-from-abc-after-his-charlie-kirk-comments/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-30-41 +0000"
+  },
+  {
+    "headline": "Top NY Dem blasted for not firing school cop who celebrated Charlie Kirk shooting: ‘Betrayal of trust’",
+    "link": "https://nypost.com/2025/09/18/us-news/top-ny-dem-blasted-for-not-firing-school-cop-who-celebrated-charlie-kirk-shooting-betrayal-of-trust/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-30-27 +0000"
+  },
+  {
+    "headline": "Opinion | Back to Censor Culture",
+    "link": "https://www.wsj.com/opinion/back-to-censor-culture-f6bd4637?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-30-00 +0000"
+  },
+  {
+    "headline": "Opinion | Back to Censor Culture",
+    "link": "https://www.wsj.com/opinion/back-to-censor-culture-f6bd4637",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-30-00 +0000"
+  },
+  {
+    "headline": "Judge Blocks Administration From Immediately Removing Guatemalan Children",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/guatemalan-children-deportation.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-29-18 +0000"
+  },
+  {
+    "headline": "Judge Blocks Administration From Immediately Removing Guatemalan Children",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/guatemalan-children-deportation.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-29-18 +0000"
+  },
+  {
+    "headline": "Fetid asphalt plant near trendy NYC neighborhood blasted by locals for ‘noxious’ fumes seeping into homes",
+    "link": "https://nypost.com/2025/09/18/us-news/nyc-asphalt-plant-blasted-by-locals-for-noxious-fumes-seeping-into-homes-were-all-getting-sick/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-28-05 +0000"
+  },
+  {
+    "headline": "Parents, students, teachers demand more charter schools be allowed to open in NYC in massive march across the Brooklyn Bridge",
+    "link": "https://nypost.com/2025/09/18/us-news/parents-students-teachers-demand-more-charter-schools-be-allowed-to-open-in-nyc-in-massive-march-across-the-brooklyn-bridge/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-26-08 +0000"
+  },
+  {
+    "headline": "Trump suggests Starmer could use military to control UK borders",
+    "link": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-21-23-45 +0000"
+  },
+  {
+    "headline": "Trump suggests Starmer could use military to control UK borders",
+    "link": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-21-23-45 +0000"
+  },
+  {
+    "headline": "Drones vs. Lasers",
+    "link": "https://www.nytimes.com/2025/09/18/briefing/nato-air-defense-trump-media-britain-tech-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-22-13 +0000"
+  },
+  {
+    "headline": "Drones vs. Lasers",
+    "link": "https://www.nytimes.com/2025/09/18/briefing/nato-air-defense-trump-media-britain-tech-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-22-13 +0000"
+  },
+  {
+    "headline": "U.S. ambassador 'disappointed' with anti-American sentiment in Canada",
+    "link": "https://www.cbc.ca/news/politics/us-ambassador-to-canada-disappointed-anti-american-campaign-1.7637534?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-18-21-21-51 +0000"
+  },
+  {
+    "headline": "What Is a Money Market Account?",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-21-00 +0000"
+  },
+  {
+    "headline": "What Is a Money Market Account?",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-21-00 +0000"
+  },
+  {
+    "headline": "Quick-thinking dog named Oakley guides Illinois cop to his leash during rescue from burning home: bodycam video",
+    "link": "https://nypost.com/2025/09/18/us-news/quick-thinking-dog-named-oakley-guides-illinois-cop-to-his-leash-during-rescue-from-burning-home-bodycam-video/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-18-39 +0000"
+  },
+  {
+    "headline": "Man Dies After Roller Coaster Ride at Epic Universe",
+    "link": "https://www.nytimes.com/2025/09/18/us/universal-ride-death-stardust-racers.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-18-14 +0000"
+  },
+  {
+    "headline": "Assailant Kills 2 Israeli Soldiers at West Bank-Jordan Border",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-14-58 +0000"
+  },
+  {
+    "headline": "Assailant Kills 2 Israeli Soldiers at West Bank-Jordan Border",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-14-58 +0000"
+  },
+  {
+    "headline": "At U.K. Leader’s Country House, Trump’s State Visit Gets a Little More Political",
+    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-photos.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-14-17 +0000"
+  },
+  {
+    "headline": "Is Nvidia Intel’s Savior? Not Quite",
+    "link": "https://www.wsj.com/tech/intel-nvidia-deal-strategy-two-companies-ec7d7632?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-14-00 +0000"
+  },
+  {
+    "headline": "Trump says TV networks 'against' him should 'maybe' lose licence, after Kimmel suspension",
+    "link": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-21-12-37 +0000"
+  },
+  {
+    "headline": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
+    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-09-43 +0000"
+  },
+  {
+    "headline": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
+    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-09-43 +0000"
+  },
+  {
+    "headline": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
+    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-09-43 +0000"
+  },
+  {
+    "headline": "Watchdogs say new L.A. County rule is an attempt to muzzle criticism",
+    "link": "https://www.latimes.com/california/story/2025-09-18/los-angeles-county-oversight-communications",
+    "source": "latimes",
+    "pubdate": "2025-09-18-21-07-43 +0000"
+  },
+  {
+    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-05-55 +0000"
+  },
+  {
+    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-05-55 +0000"
+  },
+  {
+    "headline": "Gov. Hochul’s Mamdani endorsement has sent support for Elise Stefanik into overdrive",
+    "link": "https://nypost.com/2025/09/18/us-news/hochuls-mamdani-endorsement-is-a-boon-for-elise-stefanik/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-21-03-23 +0000"
+  },
+  {
+    "headline": "Tech Deal, Rate Cut Push Stocks to Records",
+    "link": "https://www.wsj.com/finance/stocks/tech-deal-rate-cut-push-stocks-to-records-f9b92d8e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-18-21-01-00 +0000"
+  },
+  {
+    "headline": "‘Come From Away’ Will Be This Season’s Most Produced Show in the U.S.",
+    "link": "https://www.nytimes.com/2025/09/18/theater/come-from-away-most-produced-list.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-21-00-06 +0000"
+  },
+  {
+    "headline": "Catholics Project Many Images Onto Pope Leo: Liberal? Conservative? Cubs Fan?",
+    "link": "https://www.nytimes.com/2025/09/18/world/asia/pope-leo-liberal-conservative.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-20-57-59 +0000"
+  },
+  {
+    "headline": "Catholics Project Many Images Onto Pope Leo: Liberal? Conservative? Cubs Fan?",
+    "link": "https://www.nytimes.com/2025/09/18/world/asia/pope-leo-liberal-conservative.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-20-57-59 +0000"
+  },
+  {
+    "headline": "In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/vaccine-mandates-covid-measles.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-20-56-28 +0000"
+  },
+  {
+    "headline": "In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning",
+    "link": "https://www.nytimes.com/2025/09/18/us/politics/vaccine-mandates-covid-measles.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-20-56-28 +0000"
+  },
+  {
+    "headline": "What to Know About the North American Summit Taking Place Without the U.S.",
+    "link": "https://www.nytimes.com/2025/09/18/world/americas/canada-mexico-us-carney-sheinbaum-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-20-55-21 +0000"
+  },
+  {
+    "headline": "What to Know About the North American Summit Taking Place Without the U.S.",
+    "link": "https://www.nytimes.com/2025/09/18/world/americas/canada-mexico-us-carney-sheinbaum-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-20-55-21 +0000"
+  },
+  {
     "headline": "Stalking suspect killed officers at ex-girlfriend’s home, officials say",
     "link": "https://www.washingtonpost.com/nation/2025/09/18/matthew-ruth-york-pennsylvania-shooting/",
     "source": "wapo",
-    "pubdate": "2025-09-18-20-49-05 +0000"
+    "pubdate": "2025-09-18-20-55-08 +0000"
   },
   {
-    "headline": "UK cops show up at cancer patient’s home to force her to apologize for ‘offensive’ Facebook post",
+    "headline": "UK cops show up at Trump-supporting cancer patient’s home to force her to apologize for ‘offensive’ Facebook post",
     "link": "https://nypost.com/2025/09/18/world-news/uk-cops-show-up-at-cancer-patients-home-over-offensive-post/",
     "source": "nypost",
     "pubdate": "2025-09-18-20-48-39 +0000"
@@ -27,7 +369,7 @@
     "headline": "Exxon Urges Europe to Repeal Rules to Make Companies Track Climate Pollution",
     "link": "https://www.nytimes.com/2025/09/18/climate/exxon-woods-europe-climate-sustainability-repeal.html",
     "source": "nyt",
-    "pubdate": "2025-09-18-20-47-56 +0000"
+    "pubdate": "2025-09-18-20-47-57 +0000"
   },
   {
     "headline": "Cracker Barrel facing aggressive proxy battle from Steak ‘n Shake owner",
@@ -54,6 +396,12 @@
     "pubdate": "2025-09-18-20-39-43 +0000"
   },
   {
+    "headline": "Commentary: After Kimmel and Colbert, who's next in the war against free speech? Not Gutfeld",
+    "link": "https://www.latimes.com/entertainment-arts/tv/story/2025-09-18/jimmy-kimmel-stephen-colbert-who-is-next-free-speech",
+    "source": "latimes",
+    "pubdate": "2025-09-18-20-39-27 +0000"
+  },
+  {
     "headline": "Brooks: Trump administration won’t stop with Jimmy Kimmel",
     "link": "https://www.startribune.com/brooks-trump-administration-wont-stop-with-jimmy-kimmel/601476701",
     "source": "startribune",
@@ -63,13 +411,13 @@
     "headline": "As Shutdown Looms, Democrats Outline Demands on Medicaid and Obamacare",
     "link": "https://www.nytimes.com/2025/09/17/us/politics/democrats-spending-demands-shutdown.html",
     "source": "nyt",
-    "pubdate": "2025-09-18-20-38-48 +0000"
+    "pubdate": "2025-09-18-20-38-49 +0000"
   },
   {
     "headline": "As Shutdown Looms, Democrats Outline Demands on Medicaid and Obamacare",
     "link": "https://www.nytimes.com/2025/09/17/us/politics/democrats-spending-demands-shutdown.html",
     "source": "nyt",
-    "pubdate": "2025-09-18-20-38-48 +0000"
+    "pubdate": "2025-09-18-20-38-49 +0000"
   },
   {
     "headline": "Opinion | The Great White Whale of Education Reform",
@@ -78,32 +426,14 @@
     "pubdate": "2025-09-18-20-37-00 +0000"
   },
   {
-    "headline": "Opinion | Pro Bono Help for Pam Bondi",
-    "link": "https://www.wsj.com/opinion/pro-bono-help-for-pam-bondi-hate-speech-first-amendment-7e7ea532",
-    "source": "wsj",
-    "pubdate": "2025-09-18-20-35-00 +0000"
-  },
-  {
-    "headline": "What Jimmy Kimmel’s Suspension Says About the Trump Administration’s Crackdown Against Mainstream Media",
-    "link": "https://www.nytimes.com/2025/09/18/business/media/trump-kimmel-cancel-culture-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-34-58 +0000"
+    "headline": "Federal prosecutors charge 8 in connection with Minnesota housing program ‘riddled with fraud’",
+    "link": "https://www.startribune.com/federal-prosecutors-charge-8-in-connection-with-minnesota-housing-program-riddled-with-fraud/601475500",
+    "source": "startribune",
+    "pubdate": "2025-09-18-20-34-38 +0000"
   },
   {
     "headline": "Opinion | Russia’s Drone Attack Is an Opening for U.S.-India Repair",
     "link": "https://www.wsj.com/opinion/russias-drone-attack-is-an-opening-for-u-s-india-repair-60be4de9",
-    "source": "wsj",
-    "pubdate": "2025-09-18-20-33-00 +0000"
-  },
-  {
-    "headline": "Opinion | Russia’s Drone Attack Is an Opening for U.S.-India Repair",
-    "link": "https://www.wsj.com/opinion/russias-drone-attack-is-an-opening-for-u-s-india-repair-60be4de9",
-    "source": "wsj",
-    "pubdate": "2025-09-18-20-33-00 +0000"
-  },
-  {
-    "headline": "Opinion | Now the Right Muzzles Free Speech",
-    "link": "https://www.wsj.com/opinion/now-the-right-muzzles-free-speech-00acde84",
     "source": "wsj",
     "pubdate": "2025-09-18-20-33-00 +0000"
   },
@@ -118,18 +448,6 @@
     "link": "https://nypost.com/2025/09/18/us-news/boardwalk-empire-star-michael-pitt-makes-bizarre-overture-to-post-reporter-before-court-hearing-in-sex-crimes-case/",
     "source": "nypost",
     "pubdate": "2025-09-18-20-29-35 +0000"
-  },
-  {
-    "headline": "In Their Own Words: Trump and Top Officials Change Tone on Free Speech",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-27-36 +0000"
-  },
-  {
-    "headline": "In Their Own Words: Trump and Top Officials Change Tone on Free Speech",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-27-36 +0000"
   },
   {
     "headline": "Trump and Starmer Acknowledge Divide Over Palestinian Statehood",
@@ -228,18 +546,6 @@
     "pubdate": "2025-09-18-20-06-48 +0000"
   },
   {
-    "headline": "What to Know About the North American Summit Taking Place Without the U.S.",
-    "link": "https://www.nytimes.com/2025/09/18/world/americas/canada-mexico-us-carney-sheinbaum-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-04-26 +0000"
-  },
-  {
-    "headline": "What to Know About the North American Summit Taking Place Without the U.S.",
-    "link": "https://www.nytimes.com/2025/09/18/world/americas/canada-mexico-us-carney-sheinbaum-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-04-26 +0000"
-  },
-  {
     "headline": "News Analysis: Trump, showered by British royalty, airs political grievances overseas",
     "link": "https://www.latimes.com/politics/story/2025-09-18/trump-regaled-by-royalty-brings-u-s-politics-overseas",
     "source": "latimes",
@@ -258,28 +564,10 @@
     "pubdate": "2025-09-18-20-01-45 +0000"
   },
   {
-    "headline": "At U.K. Leader’s Country House, Trump’s State Visit Gets a Little More Political",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-photos.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-01-24 +0000"
-  },
-  {
     "headline": "Corbyn and Sultana clash over new party membership",
     "link": "https://www.bbc.com/news/articles/cgkn3v1e7g3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-18-19-59-22 +0000"
-  },
-  {
-    "headline": "In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/vaccine-mandates-covid-measles.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-19-58-46 +0000"
-  },
-  {
-    "headline": "In Texas, Parents Fighting Vaccinations Say Their Movement Is Winning",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/vaccine-mandates-covid-measles.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-19-58-46 +0000"
   },
   {
     "headline": "Trump, Starmer sign $350B tech deal to spur AI, nuclear energy and quantum computing",
@@ -408,24 +696,6 @@
     "pubdate": "2025-09-18-19-38-00 +0000"
   },
   {
-    "headline": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-19-27-56 +0000"
-  },
-  {
-    "headline": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-19-27-56 +0000"
-  },
-  {
-    "headline": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-19-27-56 +0000"
-  },
-  {
     "headline": "Sicko rapes teen sitting on NYC park bench – in second random sex attack in two days: cops",
     "link": "https://nypost.com/2025/09/18/us-news/sicko-rapes-teen-sitting-on-nyc-park-bench-in-second-random-sex-attack-in-two-days-cops/",
     "source": "nypost",
@@ -540,12 +810,6 @@
     "pubdate": "2025-09-18-18-45-00 +0000"
   },
   {
-    "headline": "ABC takes Jimmy Kimmel off air over Charlie Kirk comments",
-    "link": "https://www.bbc.com/news/articles/c203n52x1y9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-18-40-16 +0000"
-  },
-  {
     "headline": "Climate Activists Argue 3 Executive Orders Violate Their Constitutional Rights",
     "link": "https://www.nytimes.com/2025/09/18/climate/lighthiser-trial-climate-trump.html",
     "source": "nyt",
@@ -574,18 +838,6 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-18/federal-trade-comission-sues-ticketmaster-and-livenation-illegal-ticketing-practices",
     "source": "latimes",
     "pubdate": "2025-09-18-18-30-52 +0000"
-  },
-  {
-    "headline": "Judge Blocks Administration From Immediately Removing Guatemalan Children",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/guatemalan-children-deportation.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-18-27-22 +0000"
-  },
-  {
-    "headline": "Judge Blocks Administration From Immediately Removing Guatemalan Children",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/guatemalan-children-deportation.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-18-27-22 +0000"
   },
   {
     "headline": "Protesters in France Push Back on Efforts to Rein In Spending",
@@ -622,18 +874,6 @@
     "link": "https://nypost.com/2025/09/18/media/charlie-kirk-had-break-up-with-candace-owens-after-she-went-down-rabbit-holes/",
     "source": "nypost",
     "pubdate": "2025-09-18-18-17-02 +0000"
-  },
-  {
-    "headline": "Trump suggests Starmer could use military to control UK borders",
-    "link": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-18-16-47 +0000"
-  },
-  {
-    "headline": "Trump suggests Starmer could use military to control UK borders",
-    "link": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-18-16-47 +0000"
   },
   {
     "headline": "Israeli air strikes hit southern Lebanon",
@@ -684,22 +924,10 @@
     "pubdate": "2025-09-18-18-11-10 +0000"
   },
   {
-    "headline": "Republican Senator Casts Doubt on Kennedy’s Vaccine Advisers",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/cassidy-vaccine-panel-doubt.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-18-11-10 +0000"
-  },
-  {
     "headline": "Woody Allen fawns over Andrew Cuomo, backs ex-gov for NYC mayor over Zohran Mamdani",
     "link": "https://nypost.com/2025/09/18/us-news/woody-allen-fawns-over-andrew-cuomo-backs-him-over-zohran-mamdani-for-nyc-mayor/",
     "source": "nypost",
     "pubdate": "2025-09-18-18-04-32 +0000"
-  },
-  {
-    "headline": "Let’s check in on P.J. Fleck’s Gophers football recruits from Minnesota",
-    "link": "https://www.startribune.com/gophers-football-recruits-minnesota-roman-voss-howie-johnson-andrew-trout/601475904",
-    "source": "startribune",
-    "pubdate": "2025-09-18-18-00-00 +0000"
   },
   {
     "headline": "MPs write to government over JLR supply chain jobs",
@@ -762,28 +990,10 @@
     "pubdate": "2025-09-18-17-42-08 +0000"
   },
   {
-    "headline": "Assailant Kills 2 Israeli Soldiers at West Bank-Jordan Border",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-17-38-21 +0000"
-  },
-  {
-    "headline": "Assailant Kills 2 Israeli Soldiers at West Bank-Jordan Border",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-17-38-21 +0000"
-  },
-  {
     "headline": "Opinion | Britain’s Conservative Party Heads for Extinction",
     "link": "https://www.wsj.com/opinion/britains-conservative-party-heads-for-extinction-7e2e10a0",
     "source": "wsj",
     "pubdate": "2025-09-18-17-37-00 +0000"
-  },
-  {
-    "headline": "Feds charge eight in connection with housing program ‘riddled with fraud’",
-    "link": "https://www.startribune.com/live-feds-to-announce-charges-in-housing-instability-program/601476579",
-    "source": "startribune",
-    "pubdate": "2025-09-18-17-33-40 +0000"
   },
   {
     "headline": "The boring crypto play that actually pays",
@@ -840,12 +1050,6 @@
     "pubdate": "2025-09-18-17-09-08 +0000"
   },
   {
-    "headline": "Charlie Kirk’s widow, Erika, elected chair and CEO of Turning Point USA",
-    "link": "https://nypost.com/2025/09/18/us-news/charlie-kirks-widow-erika-elected-chair-and-ceo-of-turning-point-usa/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-17-06-59 +0000"
-  },
-  {
     "headline": "Jimmy Kimmel’s ratings were plummeting before ABC suspended him for Charlie Kirk comments",
     "link": "https://nypost.com/2025/09/18/media/jimmy-kimmels-ratings-were-slipping-before-abc-suspended-him-for-charlie-kirk-comments/",
     "source": "nypost",
@@ -868,18 +1072,6 @@
     "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-supreme-court-fed.html",
     "source": "nyt",
     "pubdate": "2025-09-18-17-03-49 +0000"
-  },
-  {
-    "headline": "Souhan: Should Lynx crave a rematch with New York?",
-    "link": "https://www.startribune.com/minnesota-lynx-new-york-liberty-phoenix-mercury-wnba-playoffs/601474457",
-    "source": "startribune",
-    "pubdate": "2025-09-18-17-00-00 +0000"
-  },
-  {
-    "headline": "Man Dies After Roller Coaster Ride at Epic Universe",
-    "link": "https://www.nytimes.com/2025/09/18/us/universal-ride-death-stardust-racers.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-16-56-54 +0000"
   },
   {
     "headline": "Aid driver kills 2 Israeli military personnel at Jordan border crossing, authorities say",
@@ -954,12 +1146,6 @@
     "pubdate": "2025-09-18-16-22-50 +0000"
   },
   {
-    "headline": "Shimia Nord, a Duluth East grad who kept pushing beyond terminal cancer diagnosis, has died. She was 18.",
-    "link": "https://www.startribune.com/shimia-nord-a-duluth-east-grad-who-kept-pushing-beyond-terminal-cancer-diagnosis-has-died-she-was-18/601476148",
-    "source": "startribune",
-    "pubdate": "2025-09-18-16-18-27 +0000"
-  },
-  {
     "headline": "Teenager Celeste Rivas went missing a year ago. She was found dead in singer D4vd's Tesla in the Hollywood Hills",
     "link": "https://www.latimes.com/california/story/2025-09-18/teenage-girl-missing-found-dead-singers-tesla",
     "source": "latimes",
@@ -978,12 +1164,6 @@
     "pubdate": "2025-09-18-16-16-53 +0000"
   },
   {
-    "headline": "Mexican naval ship that fatally smashed into Brooklyn Bridge leaves for ‘sea trial’ to test repairs",
-    "link": "https://nypost.com/2025/09/18/us-news/mexican-naval-ship-that-smashed-into-brooklyn-bridge-is-on-sea-trial/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-16-16-00 +0000"
-  },
-  {
     "headline": "How China Is Losing Its Title as the World’s Sneaker Factory",
     "link": "https://www.nytimes.com/2025/09/17/business/vietnam-sneaker-manufacturing-china.html",
     "source": "nyt",
@@ -1000,12 +1180,6 @@
     "link": "https://nypost.com/2025/09/18/world-news/gaza-aid-truck-driver-shoots-2-israelis-to-death-at-border-crossing-officials-say/",
     "source": "nypost",
     "pubdate": "2025-09-18-16-13-46 +0000"
-  },
-  {
-    "headline": "Man dies after riding Stardust Racers roller coaster at Universal’s Epic Universe",
-    "link": "https://nypost.com/2025/09/18/us-news/man-dies-after-riding-stardust-racers-roller-coaster-at-universal/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-16-07-39 +0000"
   },
   {
     "headline": "Donald Trump's second UK state visit: Here's what we know",
@@ -1128,12 +1302,6 @@
     "pubdate": "2025-09-18-15-36-52 +0000"
   },
   {
-    "headline": "Charlie Kirk alleged assassin’s roommate was ‘problematic’ before family kicked him out, relative says",
-    "link": "https://nypost.com/2025/09/18/us-news/charlie-kirk-alleged-assassins-roommate-was-problematic-before-family-kicked-him-out-relative-says/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-15-36-24 +0000"
-  },
-  {
     "headline": "Wildfire Smoke Will Kill Thousands More by 2050, Study Finds",
     "link": "https://www.nytimes.com/2025/09/18/climate/wildfire-smoke-health-deaths.html",
     "source": "nyt",
@@ -1156,12 +1324,6 @@
     "link": "https://nypost.com/2025/09/18/business/nvidia-makes-5b-bet-on-struggling-intel-with-stake-chip-deal-after-trump-talks/",
     "source": "nypost",
     "pubdate": "2025-09-18-15-28-22 +0000"
-  },
-  {
-    "headline": "Alleged Charlie Kirk assassin Tyler Robinson played ‘Furry Shades of Gay’ porn video games online: report",
-    "link": "https://nypost.com/2025/09/18/us-news/tyler-robinson-played-furry-shades-of-gay-porn-game-report/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-15-21-30 +0000"
   },
   {
     "headline": "How Did Hands Evolve? Look to Your Anus, a New Study Suggests.",
@@ -1200,40 +1362,10 @@
     "pubdate": "2025-09-18-15-15-02 +0000"
   },
   {
-    "headline": "Trump admits Putin ‘let me down’ on Ukraine peace talks as UK PM Keir Starmer says dictator ‘has shown his true face’",
-    "link": "https://nypost.com/2025/09/18/us-news/trump-admits-putin-let-me-down-on-ukraine-peace-talks/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-15-15-02 +0000"
-  },
-  {
     "headline": "Trump claims Jimmy Kimmel was taken off air for ‘bad ratings’ — and ‘said a horrible thing’ about Charlie Kirk",
     "link": "https://nypost.com/2025/09/18/us-news/trump-claims-jimmy-kimmel-was-fired-for-bad-ratings-and-for-saying-a-horrible-thing-about-charlie-kirk/",
     "source": "nypost",
     "pubdate": "2025-09-18-15-10-04 +0000"
-  },
-  {
-    "headline": "Trump claims Jimmy Kimmel was taken off air for ‘bad ratings’ — and ‘said a horrible thing’ about Charlie Kirk",
-    "link": "https://nypost.com/2025/09/18/us-news/trump-claims-jimmy-kimmel-was-fired-for-bad-ratings-and-for-saying-a-horrible-thing-about-charlie-kirk/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-15-10-04 +0000"
-  },
-  {
-    "headline": "Missing Teen’s Remains Found in Tesla Registered to the Singer D4vd",
-    "link": "https://www.nytimes.com/2025/09/17/us/tesla-body-found-d4vd.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-15-04-22 +0000"
-  },
-  {
-    "headline": "Matthew James Ruth ID’d as suspect in fatal shooting of 3 Pennsylvania cops as they served stalking warrant",
-    "link": "https://nypost.com/2025/09/18/us-news/matthew-james-ruth-idd-as-suspect-in-fatal-shooting-of-3-pennsylvania-cops/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-15-04-17 +0000"
-  },
-  {
-    "headline": "IRS Official Sues Agency, Accusing It of Leaking Private Data to Fox News and Others",
-    "link": "https://www.nytimes.com/2025/09/18/business/irs-lawsuit-holly-paz-fox-news.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-15-02-15 +0000"
   },
   {
     "headline": "Burnham refuses to rule out Labour leadership hopes",
@@ -1476,18 +1608,6 @@
     "pubdate": "2025-09-18-12-50-04 +0000"
   },
   {
-    "headline": "Catholics Project Many Images Onto Pope Leo: Liberal? Conservative? Cubs Fan?",
-    "link": "https://www.nytimes.com/2025/09/18/world/asia/pope-leo-liberal-conservative.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-12-49-03 +0000"
-  },
-  {
-    "headline": "Catholics Project Many Images Onto Pope Leo: Liberal? Conservative? Cubs Fan?",
-    "link": "https://www.nytimes.com/2025/09/18/world/asia/pope-leo-liberal-conservative.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-12-49-03 +0000"
-  },
-  {
     "headline": "How More Railroads Could Cut Pollution and Lighten Traffic",
     "link": "https://www.nytimes.com/2025/09/18/business/railroads-trucks-shipping.html",
     "source": "nyt",
@@ -1590,18 +1710,6 @@
     "pubdate": "2025-09-18-11-20-15 +0000"
   },
   {
-    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-11-19-12 +0000"
-  },
-  {
-    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-11-19-12 +0000"
-  },
-  {
     "headline": "In pictures: US President Donald Trump on second state to UK",
     "link": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1644,7 +1752,7 @@
     "pubdate": "2025-09-18-11-00-00 +0000"
   },
   {
-    "headline": "S.F. is full of AI-startup billboards. One of them is this guy.",
+    "headline": "San Francisco is full of AI billboards. One of them is this guy.",
     "link": "https://missionlocal.org/2025/09/s-f-is-full-of-ai-billboards-one-of-those-billboards-is-this-guy/",
     "source": "missionlocal",
     "pubdate": "2025-09-18-11-00-00 +0000"
@@ -1722,6 +1830,12 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
+    "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
+    "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
     "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
     "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
     "source": "latimes",
@@ -1730,12 +1844,6 @@
   {
     "headline": "Edison details how much it plans to pay Eaton fire victims",
     "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
-    "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -1752,14 +1860,14 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
+    "headline": "Loyola Marymount abruptly rescinds recognition of faculty union, claiming religious exemption",
+    "link": "https://www.latimes.com/business/story/2025-09-18/loyola-marymount-university-abruptly-stops-bargaining-with-faculty-union-claiming-religious-exemption",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "Loyola Marymount abruptly rescinds recognition of faculty union, claiming religious exemption",
-    "link": "https://www.latimes.com/business/story/2025-09-18/loyola-marymount-university-abruptly-stops-bargaining-with-faculty-union-claiming-religious-exemption",
+    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -1782,14 +1890,14 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "West Hollywood to become first in L.A. County to ban pet sales",
-    "link": "https://www.latimes.com/california/story/2025-09-18/live-animals-are-not-for-sale-in-west-hollywood-officials-say",
+    "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
+    "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
-    "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
+    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -1800,14 +1908,14 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
-    "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
+    "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
+    "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
+    "headline": "West Hollywood to become first in L.A. County to ban pet sales",
+    "link": "https://www.latimes.com/california/story/2025-09-18/live-animals-are-not-for-sale-in-west-hollywood-officials-say",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -2118,18 +2226,6 @@
     "pubdate": "2025-09-18-05-06-00 +0000"
   },
   {
-    "headline": "How China Became a Wedge Between Two South Pacific Neighbors",
-    "link": "https://www.nytimes.com/2025/09/18/world/australia/china-pacific-nz-cook-islands.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-05-05-24 +0000"
-  },
-  {
-    "headline": "How China Became a Wedge Between Two South Pacific Neighbors",
-    "link": "https://www.nytimes.com/2025/09/18/world/australia/china-pacific-nz-cook-islands.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-05-05-24 +0000"
-  },
-  {
     "headline": "Macrons to offer 'scientific evidence' to US court to prove Brigitte is a woman, lawyer says",
     "link": "https://www.bbc.com/news/articles/ckg3llj5nxdo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2256,12 +2352,6 @@
     "pubdate": "2025-09-18-03-00-00 +0000"
   },
   {
-    "headline": "El Tecolote wins national award for community-centered visuals",
-    "link": "https://eltecolote.org/content/en/el-tecolote-wins-national-award-for-community-centered-visuals/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-02-56-29 +0000"
-  },
-  {
     "headline": "Has Britain Gone Too Far With Its Digital Controls?",
     "link": "https://www.nytimes.com/2025/09/17/technology/britain-facial-recognition-digital-controls.html",
     "source": "nyt",
@@ -2296,12 +2386,6 @@
     "link": "https://48hills.org/2025/09/puff-sampling-the-best-of-blooms-at-a-streamlined-hall-of-flowers/",
     "source": "48hills",
     "pubdate": "2025-09-18-02-12-05 +0000"
-  },
-  {
-    "headline": "Become a member of El Tecolote: Meet the moment for immigrant, working-class Latinos",
-    "link": "https://eltecolote.org/content/en/el-tecolote-membership/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-02-02-51 +0000"
   },
   {
     "headline": "Jimmy Kimmel’s ‘unprecedented’ rejection by broadcasters a ‘turning point’ in media, FCC chair Brendan Carr: ‘There’s more work to go’",
@@ -2356,18 +2440,6 @@
     "link": "https://nypost.com/2025/09/17/business/cracker-barrel-ceo-masino-admits-in-4th-quarter-earnings-call-they-underestimated-customer-connection-to-iconic-logo/",
     "source": "nypost",
     "pubdate": "2025-09-18-01-39-57 +0000"
-  },
-  {
-    "headline": "His mother’s death pushed him into homelessness. At 72, he’s now living in an RV",
-    "link": "https://eltecolote.org/content/en/aging-homeless-rv-san-francisco/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-01-33-45 +0000"
-  },
-  {
-    "headline": "Lowrider parade in S.F.’s Mission goes live on TV for first time",
-    "link": "https://eltecolote.org/content/en/lowrider-parade-in-s-f-s-mission-goes-live-on-tv-for-first-time/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-01-31-52 +0000"
   },
   {
     "headline": "Democrats and Republicans are both claiming it is the other one that is driving the country to a disastrous shutdown over a spending bill",
@@ -2470,18 +2542,6 @@
     "link": "https://nypost.com/2025/09/17/us-news/reps-lawler-gottheimer-rip-mamdani-for-scrapping-holocaust-groups-antisemitism-definition/",
     "source": "nypost",
     "pubdate": "2025-09-18-00-05-01 +0000"
-  },
-  {
-    "headline": "After Kirk’s Death, Students Return to Campus and Learn ‘How to Be Adults’",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/charlie-kirk-campus.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-00-04-31 +0000"
-  },
-  {
-    "headline": "After Kirk’s Death, Students Return to Campus and Learn ‘How to Be Adults’",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/charlie-kirk-campus.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-00-04-31 +0000"
   },
   {
     "headline": "Trump Administration Announces New Civics Effort With MAGA-Aligned Groups",
@@ -2814,12 +2874,6 @@
     "pubdate": "2025-09-17-22-13-20 +0000"
   },
   {
-    "headline": "Here’s the menu for the state dinner at Windsor Castle.",
-    "link": "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit/heres-the-menu-for-the-state-dinner-at-windsor-castle",
-    "source": "nyt",
-    "pubdate": "2025-09-17-22-13-20 +0000"
-  },
-  {
     "headline": "Fury over corruption and 'nepo babies' as floods paralyse Philippines",
     "link": "https://www.bbc.com/news/articles/czrp7xkd2gpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2830,113 +2884,5 @@
     "link": "https://www.bbc.com/news/articles/czrp7xkd2gpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-17-22-06-32 +0000"
-  },
-  {
-    "headline": "Watch: Pomp and protests on day one of Trump state visit",
-    "link": "https://www.bbc.com/news/videos/cd07v4g0yy3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-21-53-29 +0000"
-  },
-  {
-    "headline": "Canadian journalist placed on leave after claiming US politics, Hollywood ‘run by Jews’ on live radio",
-    "link": "https://nypost.com/2025/09/17/world-news/canadian-journalist-placed-on-leave-for-antisemitic-comments/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-21-45-31 +0000"
-  },
-  {
-    "headline": "Opinion | It’s Trump’s Federal Reserve Now",
-    "link": "https://www.wsj.com/opinion/donald-trump-federal-reserve-rate-cut-jerome-powell-stephen-miran-ebaae514",
-    "source": "wsj",
-    "pubdate": "2025-09-17-21-45-00 +0000"
-  },
-  {
-    "headline": "Nancy Mace and Ilhan Omar go to war amid push to censure ‘Squad’ rep: ‘You belong in rehab, not Congress’",
-    "link": "https://nypost.com/2025/09/17/us-news/nancy-mace-and-ilhan-omar-go-to-war-amid-push-to-censure-squad-rep-you-belong-in-rehab-not-congress/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-21-42-48 +0000"
-  },
-  {
-    "headline": "Opinion | The Strange Attack on Rebecca Taibleson",
-    "link": "https://www.wsj.com/opinion/rebecca-taibleson-seventh-circuit-nominee-conservative-critics-27ff7251",
-    "source": "wsj",
-    "pubdate": "2025-09-17-21-41-00 +0000"
-  },
-  {
-    "headline": "Bear Injures Hiker at Yellowstone National Park in Surprise Encounter",
-    "link": "https://www.nytimes.com/2025/09/17/us/bear-yellowstone-park-injures-hiker.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-21-40-40 +0000"
-  },
-  {
-    "headline": "Opinion | The Pope and Trillion-Dollar Elon Musk",
-    "link": "https://www.wsj.com/opinion/elon-musk-compensation-trillionaire-tesla-pope-leo-d4329603?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-17-21-38-00 +0000"
-  },
-  {
-    "headline": "Opinion | The Pope and Trillion-Dollar Elon Musk",
-    "link": "https://www.wsj.com/opinion/elon-musk-compensation-trillionaire-tesla-pope-leo-d4329603?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-17-21-38-00 +0000"
-  },
-  {
-    "headline": "Government to table bill Friday criminalizing use of certain symbols to promote hate",
-    "link": "https://www.cbc.ca/news/politics/hate-symbols-bill-1.7636559?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-17-21-34-24 +0000"
-  },
-  {
-    "headline": "Texas company makes major breakthrough in de-extinction of dodo bird 300 years after it roamed Earth",
-    "link": "https://nypost.com/2025/09/17/business/texas-company-makes-major-breakthrough-in-de-extinction-of-dodo-bird/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-21-28-15 +0000"
-  },
-  {
-    "headline": "Windsor Castle’s State Dinner Features Lavish Menu",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/windsor-castle-state-dinner-menu.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-21-24-40 +0000"
-  },
-  {
-    "headline": "Windsor Castle’s State Dinner Features Lavish Menu",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/windsor-castle-state-dinner-menu.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-21-24-40 +0000"
-  },
-  {
-    "headline": "Opinion | Rising Electricity Price? Thank Trump",
-    "link": "https://www.wsj.com/opinion/rising-electricity-price-thank-trump-2270cf1f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-17-21-21-00 +0000"
-  },
-  {
-    "headline": "Top Scientists Find Growing Evidence That Greenhouse Gases Are, in Fact, a Danger",
-    "link": "https://www.nytimes.com/2025/09/17/climate/national-academies-climate-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-21-20-29 +0000"
-  },
-  {
-    "headline": "EU to hit Israel with tariffs, sanctions over Gaza war",
-    "link": "https://nypost.com/2025/09/17/world-news/eu-to-hit-israel-with-tariffs-sanctions-over-gaza-war/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-21-18-35 +0000"
-  },
-  {
-    "headline": "Putin critic Alexei Navalny was poisoned, widow says, citing lab results",
-    "link": "https://nypost.com/2025/09/17/world-news/putin-critic-alexei-navalny-was-poisoned-widow/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-21-14-13 +0000"
-  },
-  {
-    "headline": "Opinion | Hamas Gets a Gentle Reproche",
-    "link": "https://www.wsj.com/opinion/hamas-gets-a-gentle-reproche-1c03d048",
-    "source": "wsj",
-    "pubdate": "2025-09-17-21-13-00 +0000"
-  },
-  {
-    "headline": "Dow Climbs, S&P 500 Slips After Fed Cuts Interest Rates",
-    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-17-2025-28cf3b5b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-17-21-05-00 +0000"
   }
 ]
