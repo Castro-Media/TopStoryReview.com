@@ -1,29 +1,233 @@
 [
   {
+    "headline": "He was set to break a record cycling across Eurasia, then came Russia",
+    "link": "https://www.washingtonpost.com/world/2025/09/18/sofiane-sehili-cyclist-arrested-vladivostok-russia/",
+    "source": "wapo",
+    "pubdate": "2025-09-18-11-48-09 +0000"
+  },
+  {
+    "headline": "First migrant deported to France under new returns deal",
+    "link": "https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-46-39 +0000"
+  },
+  {
+    "headline": "Live Updates: Trump Meets With Starmer on Day 2 of State Visit",
+    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-44-11 +0000"
+  },
+  {
+    "headline": "Protesters in France target Paris Metro amid nationwide transport strikes",
+    "link": "https://nypost.com/2025/09/18/world-news/protesters-hit-france-with-transport-strikes-on-thursday/",
+    "source": "nypost",
+    "pubdate": "2025-09-18-11-42-43 +0000"
+  },
+  {
+    "headline": "Nvidia to Buy $5 Billion Stake in Intel",
+    "link": "https://www.nytimes.com/2025/09/18/business/nvidia-intel-stake.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-40-38 +0000"
+  },
+  {
+    "headline": "UK 'not out of woods' on inflation, says Bank as rates held",
+    "link": "https://www.bbc.com/news/articles/cge2q7wvyz3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-39-17 +0000"
+  },
+  {
+    "headline": "UK 'not out of woods' on inflation, says Bank as rates held",
+    "link": "https://www.bbc.com/news/articles/cge2q7wvyz3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-39-17 +0000"
+  },
+  {
+    "headline": "UK 'not out of woods' on inflation, says Bank as rates held",
+    "link": "https://www.bbc.com/news/articles/cge2q7wvyz3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-39-17 +0000"
+  },
+  {
+    "headline": "Europe’s far-right and Charlie Kirk",
+    "link": "https://www.nytimes.com/2025/09/17/briefing/europes-far-right-charlie-kirk-trump-uk-state-visit.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-36-29 +0000"
+  },
+  {
+    "headline": "Europe’s far-right and Charlie Kirk",
+    "link": "https://www.nytimes.com/2025/09/17/briefing/europes-far-right-charlie-kirk-trump-uk-state-visit.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-36-29 +0000"
+  },
+  {
+    "headline": "Three arrested in UK on suspicion of spying for Russia",
+    "link": "https://www.bbc.com/news/articles/cvgq19751d6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-25-51 +0000"
+  },
+  {
+    "headline": "When will UK interest rates fall again?",
+    "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-24-26 +0000"
+  },
+  {
+    "headline": "When will UK interest rates fall again?",
+    "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-24-26 +0000"
+  },
+  {
+    "headline": "Why Mayor Jacob Frey and his polarizing politics are at the center of the Minneapolis election",
+    "link": "https://www.startribune.com/jacob-frey-mayor-minneapolis-election-campaign/601466369",
+    "source": "startribune",
+    "pubdate": "2025-09-18-11-23-40 +0000"
+  },
+  {
+    "headline": "Togo leader's sister-in-law arrested after calling for end to family rule",
+    "link": "https://www.bbc.com/news/articles/ce863ppp3k5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-20-15 +0000"
+  },
+  {
+    "headline": "Togo leader's sister-in-law arrested after calling for end to family rule",
+    "link": "https://www.bbc.com/news/articles/ce863ppp3k5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-20-15 +0000"
+  },
+  {
+    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-19-12 +0000"
+  },
+  {
+    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
+    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-19-12 +0000"
+  },
+  {
+    "headline": "Anti-Austerity Strikes and Protests Grip France",
+    "link": "https://www.nytimes.com/2025/09/18/world/europe/france-protests-austerity.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-18-11 +0000"
+  },
+  {
+    "headline": "Anti-Austerity Strikes and Protests Grip France",
+    "link": "https://www.nytimes.com/2025/09/18/world/europe/france-protests-austerity.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-18-11 +0000"
+  },
+  {
+    "headline": "In pictures: US President Donald Trump on second state to UK",
+    "link": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-15-06 +0000"
+  },
+  {
+    "headline": "In pictures: Trump and Melania meet royals at Windsor",
+    "link": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-11-15-06 +0000"
+  },
+  {
+    "headline": "Longtime Putin Aide Who Opposed Ukraine War Is Granted Rare Resignation",
+    "link": "https://www.nytimes.com/2025/09/18/world/europe/russia-putin-kozak-resigns.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-13-14 +0000"
+  },
+  {
+    "headline": "Longtime Putin Aide Who Opposed Ukraine War Is Granted Rare Resignation",
+    "link": "https://www.nytimes.com/2025/09/18/world/europe/russia-putin-kozak-resigns.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-13-14 +0000"
+  },
+  {
+    "headline": "The Trump Administration Is Dismantling Climate Policies",
+    "link": "https://www.nytimes.com/2025/09/18/us/trump-climate-denial-banquet-kimmel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-13-13 +0000"
+  },
+  {
+    "headline": "Pope Leo, in new biography, resists doctrinal change on hot-button topics",
+    "link": "https://www.washingtonpost.com/world/2025/09/18/pope-leo-biography-first-interview/",
+    "source": "wapo",
+    "pubdate": "2025-09-18-11-10-55 +0000"
+  },
+  {
+    "headline": "The Bank of England left its key interest rate unchanged, but scaled back a program designed to shrink its holdings of government bonds",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-england-leaves-key-rate-on-hold-slows-quantitative-tightening-d760dcb6",
+    "source": "wsj",
+    "pubdate": "2025-09-18-11-10-00 +0000"
+  },
+  {
+    "headline": "St. Paul Mayor Melvin Carter wants to ‘reinvent’ downtown after major landlord’s collapse",
+    "link": "https://www.startribune.com/st-paul-mayor-melvin-carter-reinvent-downtown-madison-equities-collapse/601464262",
+    "source": "startribune",
+    "pubdate": "2025-09-18-11-01-00 +0000"
+  },
+  {
+    "headline": "With Amex’s Platinum Refresh, an Even More Exclusive Card Emerges",
+    "link": "https://www.nytimes.com/2025/09/18/travel/amexs-platinum-card-benefits.html",
+    "source": "nyt",
+    "pubdate": "2025-09-18-11-00-06 +0000"
+  },
+  {
+    "headline": "Xcel is cutting power to Minnesota homes in record numbers",
+    "link": "https://www.startribune.com/xcel-is-cutting-power-to-minnesota-homes-in-record-numbers/601336735",
+    "source": "startribune",
+    "pubdate": "2025-09-18-11-00-01 +0000"
+  },
+  {
+    "headline": "How downtown Excelsior became a suburban restaurant row",
+    "link": "https://www.startribune.com/excelsior-new-dining-restaurant-destination-twin-cities-suburbs/601448238",
+    "source": "startribune",
+    "pubdate": "2025-09-18-11-00-00 +0000"
+  },
+  {
+    "headline": "What does it take to keep a Minneapolis music club going for decades?",
+    "link": "https://www.startribune.com/dakota-first-avenue-bunkers-lowell-pickett-prince-nate-kranz-james-klein/601457273",
+    "source": "startribune",
+    "pubdate": "2025-09-18-11-00-00 +0000"
+  },
+  {
+    "headline": "S.F. is full of AI billboards. One of them is this guy.",
+    "link": "https://missionlocal.org/2025/09/s-f-is-full-of-ai-billboards-one-of-those-billboards-is-this-guy/",
+    "source": "missionlocal",
+    "pubdate": "2025-09-18-11-00-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-18-10-55-41 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-18-10-55-41 +0000"
+  },
+  {
+    "headline": "Workers across France strike over budget cut plans",
+    "link": "https://www.bbc.com/news/articles/cj9zvg03elzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-10-54-33 +0000"
+  },
+  {
+    "headline": "Workers across France strike over budget cut plans",
+    "link": "https://www.bbc.com/news/articles/cj9zvg03elzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-10-54-33 +0000"
+  },
+  {
     "headline": "Trump makes dig at Prince Harry after praising William as King Charles’ ‘remarkable son’ in state banquet speech",
     "link": "https://nypost.com/2025/09/18/world-news/trump-makes-dig-at-prince-harry-after-praising-william-as-king-charless-remarkable-son-in-state-banquet-speech/",
     "source": "nypost",
     "pubdate": "2025-09-18-10-51-36 +0000"
   },
   {
-    "headline": "Live Updates: Trump and Starmer to Talk Business on Day 2 of State Visit",
-    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-49-58 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-49-56 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-49-56 +0000"
-  },
-  {
     "headline": "U.K. to Formally Recognize Palestinian Statehood After Trump Departs",
     "link": "https://www.nytimes.com/2025/09/18/world/europe/uk-formally-recognize-palestinian-statehood.html",
     "source": "nyt",
@@ -34,12 +238,6 @@
     "link": "https://www.nytimes.com/2025/09/18/world/europe/uk-formally-recognize-palestinian-statehood.html",
     "source": "nyt",
     "pubdate": "2025-09-18-10-49-38 +0000"
-  },
-  {
-    "headline": "First 'one in, one out' migrant sent back to France",
-    "link": "https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-10-48-09 +0000"
   },
   {
     "headline": "Vance describes ‘tough moment’ he broke news of Charlie Kirk’s assassination to Trump, Oval Office",
@@ -72,34 +270,28 @@
     "pubdate": "2025-09-18-10-39-23 +0000"
   },
   {
-    "headline": "Trump Hails Kimmel Suspension After Criticizing U.K. on Free Speech",
+    "headline": "Trump Hails Kimmel Suspension After Criticizing UK on Free Speech",
     "link": "https://www.nytimes.com/2025/09/18/world/europe/trump-kimmel-suspension-uk-free-speech.html",
     "source": "nyt",
     "pubdate": "2025-09-18-10-33-53 +0000"
   },
   {
-    "headline": "Trump Hails Kimmel Suspension After Criticizing U.K. on Free Speech",
+    "headline": "Trump Hails Kimmel Suspension After Criticizing UK on Free Speech",
     "link": "https://www.nytimes.com/2025/09/18/world/europe/trump-kimmel-suspension-uk-free-speech.html",
     "source": "nyt",
     "pubdate": "2025-09-18-10-33-53 +0000"
-  },
-  {
-    "headline": "Longtime Putin Aide Who Opposed Ukraine War Is Granted Rare Resignation",
-    "link": "https://www.nytimes.com/2025/09/18/world/europe/russia-putin-kozak-resigns.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-32-15 +0000"
-  },
-  {
-    "headline": "Longtime Putin Aide Who Opposed Ukraine War Is Granted Rare Resignation",
-    "link": "https://www.nytimes.com/2025/09/18/world/europe/russia-putin-kozak-resigns.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-10-32-15 +0000"
   },
   {
     "headline": "Threatened by Trump, Canada tries to make up and team up with Mexico",
     "link": "https://www.washingtonpost.com/world/2025/09/18/canada-mexico-trade-carney-sheinbaum-usmca/",
     "source": "wapo",
     "pubdate": "2025-09-18-10-30-53 +0000"
+  },
+  {
+    "headline": "Scoggins: Vikings’ season has veered off script. How will Kevin O’Connell handle it?",
+    "link": "https://www.startribune.com/minnesota-vikings-injuries-kevin-oconnell-carson-wentz-chip-scoggins/601448705",
+    "source": "startribune",
+    "pubdate": "2025-09-18-10-30-00 +0000"
   },
   {
     "headline": "US firms pledge £150bn investment in UK, as Starmer hosts Trump",
@@ -174,6 +366,12 @@
     "pubdate": "2025-09-18-10-00-10 +0000"
   },
   {
+    "headline": "Edison details how much it plans to pay Eaton fire victims",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
     "headline": "Contributor: The right now embraces cancel culture",
     "link": "https://www.latimes.com/opinion/story/2025-09-18/jimmy-kimmel-cancel-culture-charlie-kirk",
     "source": "latimes",
@@ -188,12 +386,6 @@
   {
     "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
     "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Edison details how much it plans to pay Eaton fire victims",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -288,18 +480,6 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "France Braces for Anti-Austerity Strikes and Protests",
-    "link": "https://www.nytimes.com/2025/09/18/world/europe/france-protests-austerity.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-09-58-48 +0000"
-  },
-  {
-    "headline": "France Braces for Anti-Austerity Strikes and Protests",
-    "link": "https://www.nytimes.com/2025/09/18/world/europe/france-protests-austerity.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-09-58-48 +0000"
-  },
-  {
     "headline": "The Road",
     "link": "https://www.nytimes.com/2025/09/18/world/middleeast/gaza-city-evacuation.html",
     "source": "nyt",
@@ -388,18 +568,6 @@
     "link": "https://www.wsj.com/economy/central-banking/the-fed-rolls-back-recession-risk-4e812cc3",
     "source": "wsj",
     "pubdate": "2025-09-18-09-30-00 +0000"
-  },
-  {
-    "headline": "Togo leader's sister-in-law arrested after calling for end to family rule",
-    "link": "https://www.bbc.com/news/articles/ce863ppp3k5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-09-28-52 +0000"
-  },
-  {
-    "headline": "Togo leader's sister-in-law arrested after calling for end to family rule",
-    "link": "https://www.bbc.com/news/articles/ce863ppp3k5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-09-28-52 +0000"
   },
   {
     "headline": "Government to appeal against ruling blocking migrant deportation to France",
@@ -564,18 +732,6 @@
     "pubdate": "2025-09-18-08-46-00 +0000"
   },
   {
-    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-08-45-46 +0000"
-  },
-  {
-    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-08-45-46 +0000"
-  },
-  {
     "headline": "Long Island HS multi-sport star Ryan Leary barred from playing both football and soccer — despite coaches’ approval",
     "link": "https://nypost.com/2025/09/18/sports/carle-place-high-school-star-ryan-leary-barred-from-playing-football-and-soccer-despite-coaches-approval/",
     "source": "nypost",
@@ -588,19 +744,13 @@
     "pubdate": "2025-09-18-08-26-22 +0000"
   },
   {
-    "headline": "Pope Leo, in new biography, resists doctrinal change on hot-button topics",
-    "link": "https://www.washingtonpost.com/world/2025/09/18/pope-leo-biography-first-interview/",
-    "source": "wapo",
-    "pubdate": "2025-09-18-08-21-16 +0000"
-  },
-  {
     "headline": "Disney influencer’s children killed, husband in ICU after fatal car crash: ‘Worst day of my life’",
     "link": "https://nypost.com/2025/09/18/us-news/disney-influencers-children-killed-husband-in-icu-after-fatal-car-crash-worst-day-of-my-life/",
     "source": "nypost",
     "pubdate": "2025-09-18-08-18-40 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Futures Rise After Fed Signals More Rate Cuts Coming",
+    "headline": "Stock Market Today: Dow Futures Rise After Fed; Intel Surges on Nvidia Deal",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-18-08-08-57 +0000"
@@ -954,12 +1104,6 @@
     "pubdate": "2025-09-18-03-00-00 +0000"
   },
   {
-    "headline": "El Tecolote wins national award for community-centered visuals",
-    "link": "https://eltecolote.org/content/en/el-tecolote-wins-national-award-for-community-centered-visuals/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-02-56-29 +0000"
-  },
-  {
     "headline": "Has Britain Gone Too Far With Its Digital Controls?",
     "link": "https://www.nytimes.com/2025/09/17/technology/britain-facial-recognition-digital-controls.html",
     "source": "nyt",
@@ -1024,12 +1168,6 @@
     "link": "https://48hills.org/2025/09/puff-sampling-the-best-of-blooms-at-a-streamlined-hall-of-flowers/",
     "source": "48hills",
     "pubdate": "2025-09-18-02-12-05 +0000"
-  },
-  {
-    "headline": "Become a member of El Tecolote: Meet the moment for immigrant, working-class Latinos",
-    "link": "https://eltecolote.org/content/en/el-tecolote-membership/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-02-02-51 +0000"
   },
   {
     "headline": "Jimmy Kimmel’s ‘unprecedented’ rejection by broadcasters a ‘turning point’ in media, FCC chair Brendan Carr: ‘There’s more work to go’",
@@ -1098,24 +1236,6 @@
     "pubdate": "2025-09-18-01-39-57 +0000"
   },
   {
-    "headline": "His mother’s death pushed him into homelessness. At 72, he’s now living in an RV",
-    "link": "https://eltecolote.org/content/en/aging-homeless-rv-san-francisco/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-01-33-45 +0000"
-  },
-  {
-    "headline": "Lowrider parade in S.F.’s Mission goes live on TV for first time",
-    "link": "https://eltecolote.org/content/en/lowrider-parade-in-s-f-s-mission-goes-live-on-tv-for-first-time/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-01-31-52 +0000"
-  },
-  {
-    "headline": "Vikings’ adversity is an opportunity for quarterback Carson Wentz",
-    "link": "https://www.startribune.com/minnesota-vikings-carson-wentz-jj-mccarthy-nfl-qb-bengals/601474991",
-    "source": "startribune",
-    "pubdate": "2025-09-18-01-30-00 +0000"
-  },
-  {
     "headline": "Democrats and Republicans are both claiming it is the other one that is driving the country to a disastrous shutdown over a spending bill",
     "link": "https://www.wsj.com/politics/policy/gop-democrats-refuse-to-make-the-first-move-on-shutdown-talks-24f2e289",
     "source": "wsj",
@@ -1170,12 +1290,6 @@
     "pubdate": "2025-09-18-01-10-17 +0000"
   },
   {
-    "headline": "Democrats block GOP effort to censure Rep. Ilhan Omar for Charlie Kirk comments",
-    "link": "https://www.startribune.com/omars-remarks-about-charlie-kirk-become-fodder-for-gop-censure-push/601475932",
-    "source": "startribune",
-    "pubdate": "2025-09-18-01-04-35 +0000"
-  },
-  {
     "headline": "Banks Race to Prove They’re Not Biased Against Conservatives",
     "link": "https://www.wsj.com/finance/regulation/debanking-banks-bias-92135ef9?mod=rss_markets_main",
     "source": "wsj",
@@ -1210,12 +1324,6 @@
     "link": "https://www.wsj.com/politics/policy/rattled-lawmakers-demand-extra-security-protection-253088be",
     "source": "wsj",
     "pubdate": "2025-09-18-00-14-00 +0000"
-  },
-  {
-    "headline": "100 Liberal Philanthropies Prepare to Push Back Against Trump Crackdown",
-    "link": "https://www.nytimes.com/2025/09/17/us/politics/trump-liberal-philanthropies-pushback.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-00-12-45 +0000"
   },
   {
     "headline": "100 Liberal Philanthropies Prepare to Push Back Against Trump Crackdown",
@@ -1284,12 +1392,6 @@
     "pubdate": "2025-09-18-00-02-04 +0000"
   },
   {
-    "headline": "Minneapolis ramps up police presence, erects fences following 2 mass shootings along Lake Street",
-    "link": "https://www.startribune.com/minneapolis-ramps-up-police-presence-erects-fences-following-2-mass-shootings-along-lake-street/601475923",
-    "source": "startribune",
-    "pubdate": "2025-09-18-00-01-37 +0000"
-  },
-  {
     "headline": "Battling a rare brain-eating disease in an Indian state",
     "link": "https://www.bbc.com/news/articles/c79ven0xxyqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1350,12 +1452,6 @@
     "pubdate": "2025-09-17-23-23-25 +0000"
   },
   {
-    "headline": "Hennepin County to limit felony charges stemming from low-level traffic stops",
-    "link": "https://www.startribune.com/mary-moriarty-announces-hennepin-county-will-stop-charging-cases-from-low-level-traffic-stops/601475624",
-    "source": "startribune",
-    "pubdate": "2025-09-17-23-20-48 +0000"
-  },
-  {
     "headline": "'Pay attention' - Spirit aircraft warned as it gets too close to Air Force One",
     "link": "https://www.bbc.com/news/articles/cy4jndzj9wjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1408,24 +1504,6 @@
     "link": "https://www.nytimes.com/2025/09/17/us/politics/cassidy-monorez-kennedy-vaccines-cdc.html",
     "source": "nyt",
     "pubdate": "2025-09-17-23-09-56 +0000"
-  },
-  {
-    "headline": "Interest rates expected to be held by Bank of England",
-    "link": "https://www.bbc.com/news/articles/cge2q7wvyz3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-23-09-13 +0000"
-  },
-  {
-    "headline": "Interest rates expected to be held by Bank of England",
-    "link": "https://www.bbc.com/news/articles/cge2q7wvyz3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-23-09-13 +0000"
-  },
-  {
-    "headline": "Interest rates expected to be held by Bank of England",
-    "link": "https://www.bbc.com/news/articles/cge2q7wvyz3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-23-09-13 +0000"
   },
   {
     "headline": "Volkswagen Breaks Off Talks With UAW Local in Tennessee",
@@ -1806,24 +1884,6 @@
     "pubdate": "2025-09-17-21-10-25 +0000"
   },
   {
-    "headline": "Minnesota’s gravel cycling out in front with national stage this weekend",
-    "link": "https://www.startribune.com/minnesotas-gravel-cycling-out-in-front-with-national-stage-this-weekend/601470178",
-    "source": "startribune",
-    "pubdate": "2025-09-17-21-08-20 +0000"
-  },
-  {
-    "headline": "Europe’s far-right and Charlie Kirk",
-    "link": "https://www.nytimes.com/2025/09/17/briefing/europes-far-right-charlie-kirk-trump-uk-state-visit.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-21-08-00 +0000"
-  },
-  {
-    "headline": "Europe’s far-right and Charlie Kirk",
-    "link": "https://www.nytimes.com/2025/09/17/briefing/europes-far-right-charlie-kirk-trump-uk-state-visit.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-21-08-00 +0000"
-  },
-  {
     "headline": "Dow Climbs, S&P 500 Slips After Fed Cuts Interest Rates",
     "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-09-17-2025-28cf3b5b?mod=rss_markets_main",
     "source": "wsj",
@@ -1852,18 +1912,6 @@
     "link": "https://www.latimes.com/business/story/2025-09-17/hawthorne-demands-zombie-mall-be-put-out-of-its-misery",
     "source": "latimes",
     "pubdate": "2025-09-17-20-45-08 +0000"
-  },
-  {
-    "headline": "In pictures: US President Donald Trump on second state to UK",
-    "link": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-20-37-24 +0000"
-  },
-  {
-    "headline": "In pictures: Trump and Melania meet royals at Windsor",
-    "link": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-20-37-24 +0000"
   },
   {
     "headline": "Orange County judge convicted of drunkenly killing wife gets 35 years to life in prison",
@@ -1960,12 +2008,6 @@
     "link": "https://www.washingtonpost.com/world/2025/09/17/gaza-city-israel/",
     "source": "wapo",
     "pubdate": "2025-09-17-20-06-01 +0000"
-  },
-  {
-    "headline": "Bob Dylan will perform at Farm Aid 40 in Minneapolis",
-    "link": "https://www.startribune.com/bob-dylan-will-perform-at-farm-aid-40-on-saturday-in-minneapolis/601476075",
-    "source": "startribune",
-    "pubdate": "2025-09-17-19-57-05 +0000"
   },
   {
     "headline": "Parents sue Character AI — firm behind ‘Harry Potter’ chatbots — over teen deaths, suicide attempts",
@@ -2236,12 +2278,6 @@
     "link": "https://www.bbc.com/news/articles/cwyrqxj3eqqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-17-17-51-54 +0000"
-  },
-  {
-    "headline": "New RV permit: How San Francisco’s new rules will limit large vehicles",
-    "link": "https://eltecolote.org/content/en/rv-permit-large-vehicles-san-francisco/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-17-17-51-11 +0000"
   },
   {
     "headline": "Authorities say missing 15-year-old girl found dead in singer D4vd's impounded Tesla",
@@ -2860,143 +2896,5 @@
     "link": "https://www.bbc.com/sport/athletics/articles/cddm2j73n3eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-17-11-57-59 +0000"
-  },
-  {
-    "headline": "Powell Faces Challenges From Within the Fed, Too",
-    "link": "https://www.nytimes.com/2025/09/17/business/dealbook/powell-fed-rates.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-50-59 +0000"
-  },
-  {
-    "headline": "Israel opens new temporary route out of Gaza City as tanks advance, more forced to flee",
-    "link": "https://www.cbc.ca/news/world/gaza-city-israel-new-route-1.7635863?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-17-11-44-17 +0000"
-  },
-  {
-    "headline": "Why is UK inflation still rising?",
-    "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-11-38-55 +0000"
-  },
-  {
-    "headline": "Trump welcomed by Prince William, Kate Middleton at Windsor Castle, laughs with King Charles during lavish procession",
-    "link": "https://nypost.com/2025/09/17/world-news/president-trump-receives-warm-welcome-at-windsor-castle-as-king-charles-holds-grand-royal-procession/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-11-35-43 +0000"
-  },
-  {
-    "headline": "Labour councillor defects to Reform UK",
-    "link": "https://www.bbc.com/news/articles/cwy9wzewqy8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-11-32-52 +0000"
-  },
-  {
-    "headline": "How the British royal family — and its staff — prepare for a state visit.",
-    "link": "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit/how-the-british-royal-family-and-its-staff-prepare-for-a-state-visit",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-25-16 +0000"
-  },
-  {
-    "headline": "Nvidia boss 'disappointed' by report of China chip ban",
-    "link": "https://www.bbc.com/news/articles/cqxz29pe1v0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-11-23-24 +0000"
-  },
-  {
-    "headline": "Nvidia boss 'disappointed' by reported China chip ban",
-    "link": "https://www.bbc.com/news/articles/cqxz29pe1v0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-11-23-24 +0000"
-  },
-  {
-    "headline": "Ex-Labour councillor charged in Westminster 'honeytrap' case",
-    "link": "https://www.bbc.com/news/articles/cn76dr2jm0ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-11-22-21 +0000"
-  },
-  {
-    "headline": "A Visual Guide to Trump’s State Visit to the U.K.",
-    "link": "https://www.wsj.com/world/uk/a-visual-guide-to-trumps-state-visit-to-the-u-k-e21dc6b3",
-    "source": "wsj",
-    "pubdate": "2025-09-17-11-20-00 +0000"
-  },
-  {
-    "headline": "Is the Economy as Healthy as Trump Claims?",
-    "link": "https://www.nytimes.com/2025/09/17/us/the-morning-economy-trump-gaza-redford.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-12-25 +0000"
-  },
-  {
-    "headline": "Is the Economy as Healthy as Trump Claims?",
-    "link": "https://www.nytimes.com/2025/09/17/us/the-morning-economy-trump-gaza-redford.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-12-25 +0000"
-  },
-  {
-    "headline": "Yulia Navalnaya says lab tests show Alexei Navalny was poisoned in prison",
-    "link": "https://www.cbc.ca/news/world/alexei-navalny-lab-tests-yulia-1.7635853?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-17-11-10-28 +0000"
-  },
-  {
-    "headline": "Ten sick Gazan children arrive in UK for treatment",
-    "link": "https://www.bbc.com/news/articles/c1l8jvn2je0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-11-10-10 +0000"
-  },
-  {
-    "headline": "Israel’s Assault on Gaza City Stifles Hope of Diplomatic Resolution to War",
-    "link": "https://www.nytimes.com/2025/09/17/world/middleeast/israel-assault-gaza-city-diplomacy.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-04-55 +0000"
-  },
-  {
-    "headline": "Israel’s Assault on Gaza City Stifles Hope of Diplomatic Resolution to War",
-    "link": "https://www.nytimes.com/2025/09/17/world/middleeast/israel-assault-gaza-city-diplomacy.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-04-55 +0000"
-  },
-  {
-    "headline": "Netanyahu and an Israel Without Restraint",
-    "link": "https://www.nytimes.com/2025/09/17/world/middleeast/netanyahu-israel-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-04-46 +0000"
-  },
-  {
-    "headline": "Netanyahu and an Israel Without Restraint",
-    "link": "https://www.nytimes.com/2025/09/17/world/middleeast/netanyahu-israel-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-17-11-04-46 +0000"
-  },
-  {
-    "headline": "Madeleine McCann suspect freed from German prison",
-    "link": "https://www.bbc.com/news/articles/cy4rydzmrmvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-11-03-40 +0000"
-  },
-  {
-    "headline": "Pope Leo XIV told US ambassador he is praying for Charlie Kirk, his family after assassination",
-    "link": "https://nypost.com/2025/09/17/world-news/pope-leo-xiv-told-us-ambassador-he-is-praying-for-charlie-kirk-his-family-after-assassination/",
-    "source": "nypost",
-    "pubdate": "2025-09-17-11-01-08 +0000"
-  },
-  {
-    "headline": "Gunmen kill 22 after shooting at baptism ceremony in Niger - reports",
-    "link": "https://www.bbc.com/news/articles/ce863x3g7jko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-10-58-03 +0000"
-  },
-  {
-    "headline": "Food prices continue to surge as inflation remains at 3.8%",
-    "link": "https://www.bbc.com/news/articles/cderznjj4r7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-10-56-31 +0000"
-  },
-  {
-    "headline": "Food prices continue to surge as inflation remains at 3.8%",
-    "link": "https://www.bbc.com/news/articles/cderznjj4r7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-17-10-56-31 +0000"
   }
 ]
