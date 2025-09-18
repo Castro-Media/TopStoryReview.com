@@ -1,13 +1,13 @@
 [
   {
-    "score": 230,
+    "score": 229,
     "pubdate": "2025-09-17-13-46-17 +0000",
     "source": "nyt",
     "headline": "As Trump Arrives, Europe’s Right Claims Charlie Kirk as One of Their Own",
     "link": "https://www.nytimes.com/2025/09/17/world/europe/europe-charlie-kirk-trump-far-right.html"
   },
   {
-    "score": 119,
+    "score": 121,
     "pubdate": "2025-09-17-18-21-00 +0000",
     "source": "wsj",
     "headline": "Former CDC Director Susan Monarez rebutted Robert F. Kennedy Jr.’s characterization of her dismissal, telling a Senate committee she was fired after she refused to compromise her scientific integrity",
@@ -21,25 +21,25 @@
     "link": "https://www.cbc.ca/news/world/gaza-city-israel-new-route-1.7635863?cmp=rss"
   },
   {
-    "score": 91,
+    "score": 92,
     "pubdate": "2025-09-17-20-12-27 +0000",
     "source": "bbc",
     "headline": "Fed Reserve cuts interest rates but cautions over stalling job market",
     "link": "https://www.bbc.com/news/articles/c3e75y90pw0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 71,
-    "pubdate": "2025-09-17-16-00-11 +0000",
-    "source": "bbc",
-    "headline": "Nvidia boss says UK will be 'AI superpower' as tech firms invest billions",
-    "link": "https://www.bbc.com/news/articles/c7016ljre03o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 70,
+    "score": 72,
     "pubdate": "2025-09-17-20-25-00 +0000",
     "source": "wsj",
     "headline": "U.S. military operations against Latin American drug smugglers in the past month have repeatedly echoed the tactics and jargon of the post-9/11 global war against terrorist groups",
     "link": "https://www.wsj.com/politics/national-security/trump-invokes-post-9-11-playbook-in-attacks-on-drug-cartels-137515ea"
+  },
+  {
+    "score": 72,
+    "pubdate": "2025-09-17-16-00-11 +0000",
+    "source": "bbc",
+    "headline": "Nvidia boss says UK will be 'AI superpower' as tech firms invest billions",
+    "link": "https://www.bbc.com/news/articles/c7016ljre03o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 65,
@@ -57,16 +57,16 @@
   },
   {
     "score": 54,
-    "pubdate": "2025-09-18-01-21-00 +0000",
-    "source": "wsj",
-    "headline": "Democrats defeated a Republican effort to censure Rep. Ilhan Omar (D., Minn.) for reposting another user’s social-media video that disparaged slain conservative activist Charlie Kirk",
-    "link": "https://www.wsj.com/politics/policy/democrats-defeat-gop-effort-to-censure-ilhan-omar-c97d5cc9"
-  },
-  {
-    "score": 53,
     "pubdate": "2025-09-17-10-20-31 +0000",
     "source": "nyt",
     "headline": "Security plans for Trump’s visit are the biggest since the coronation of King Charles III.",
     "link": "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit/security-plans-for-trumps-visit-are-the-biggest-since-the-coronation-of-king-charles-iii"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-09-18-01-21-00 +0000",
+    "source": "wsj",
+    "headline": "Democrats defeated a Republican effort to censure Rep. Ilhan Omar (D., Minn.) for reposting another user’s social-media video that disparaged slain conservative activist Charlie Kirk",
+    "link": "https://www.wsj.com/politics/policy/democrats-defeat-gop-effort-to-censure-ilhan-omar-c97d5cc9"
   }
 ]
