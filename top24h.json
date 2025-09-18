@@ -1,27 +1,27 @@
 [
   {
-    "score": 271,
+    "score": 253,
     "pubdate": "2025-09-18-15-10-04 +0000",
     "source": "nypost",
     "headline": "Trump claims Jimmy Kimmel was taken off air for ‘bad ratings’ — and ‘said a horrible thing’ about Charlie Kirk",
     "link": "https://nypost.com/2025/09/18/us-news/trump-claims-jimmy-kimmel-was-fired-for-bad-ratings-and-for-saying-a-horrible-thing-about-charlie-kirk/"
   },
   {
-    "score": 130,
+    "score": 127,
     "pubdate": "2025-09-18-20-13-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration asked the Supreme Court to let it remove Fed governor Lisa Cook from the central bank’s board while a lawsuit challenging the president’s effort to fire her proceeds",
     "link": "https://www.wsj.com/politics/policy/trump-administration-asks-supreme-court-to-allow-fed-governors-removal-3329003d"
   },
   {
-    "score": 97,
+    "score": 83,
     "pubdate": "2025-09-18-15-15-02 +0000",
     "source": "nypost",
     "headline": "Trump admits Putin ‘let me down’ on Ukraine peace talks as UK PM Keir Starmer says dictator ‘has shown his true face’",
     "link": "https://nypost.com/2025/09/18/us-news/trump-admits-putin-let-me-down-on-ukraine-peace-talks/"
   },
   {
-    "score": 81,
+    "score": 82,
     "pubdate": "2025-09-18-19-45-55 +0000",
     "source": "nyt",
     "headline": "U.S. to Cut Out Nongovernmental Groups in Refocusing Health Aid",
@@ -36,13 +36,20 @@
   },
   {
     "score": 63,
+    "pubdate": "2025-09-17-23-03-00 +0000",
+    "source": "wsj",
+    "headline": "Some military lawyers and other Defense Department officials are raising concerns about the legal implications of President Trump’s military campaign against Latin American-based drug cartels",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-lawyers-raise-concerns-over-trumps-drug-boat-strikes-b8327a5c"
+  },
+  {
+    "score": 58,
     "pubdate": "2025-09-18-09-02-59 +0000",
     "source": "nyt",
     "headline": "At Windsor Castle, Melania Trump and Queen Camilla will view a 100-year-old royal dolls’ house.",
     "link": "https://www.nytimes.com/live/2025/09/18/world/trump-uk-visit/at-windsor-castle-melania-trump-and-queen-camilla-will-view-a-100-year-old-royal-dolls-house"
   },
   {
-    "score": 62,
+    "score": 57,
     "pubdate": "2025-09-18-09-30-14 +0000",
     "source": "wapo",
     "headline": "For the first time, Bernie Sanders calls Israel’s war in Gaza a genocide",
@@ -50,23 +57,16 @@
   },
   {
     "score": 56,
-    "pubdate": "2025-09-18-01-41-00 +0000",
-    "source": "wsj",
-    "headline": "When the Federal Reserve cut interest rates Wednesday, Chair Jerome Powell mostly avoided acrimonious dissents despite a climate of unprecedented political confrontation",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-jerome-powell-rate-cut-0df13920"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-09-17-23-03-00 +0000",
-    "source": "wsj",
-    "headline": "Some military lawyers and other Defense Department officials are raising concerns about the legal implications of President Trump’s military campaign against Latin American-based drug cartels",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-lawyers-raise-concerns-over-trumps-drug-boat-strikes-b8327a5c"
-  },
-  {
-    "score": 52,
     "pubdate": "2025-09-18-08-08-57 +0000",
     "source": "wsj",
     "headline": "Stock Market Today: Dow Rises After Fed Signals More Rate Cuts; Intel Surges on Nvidia Deal",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2025?mod=rss_markets_main"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-09-18-01-41-00 +0000",
+    "source": "wsj",
+    "headline": "When the Federal Reserve cut interest rates Wednesday, Chair Jerome Powell mostly avoided acrimonious dissents despite a climate of unprecedented political confrontation",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-jerome-powell-rate-cut-0df13920"
   }
 ]
