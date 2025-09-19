@@ -1,13 +1,13 @@
 [
   {
-    "score": 246,
+    "score": 239,
     "pubdate": "2025-09-18-15-10-04 +0000",
     "source": "nypost",
     "headline": "Trump claims Jimmy Kimmel was taken off air for ‘bad ratings’ — and ‘said a horrible thing’ about Charlie Kirk",
     "link": "https://nypost.com/2025/09/18/us-news/trump-claims-jimmy-kimmel-was-fired-for-bad-ratings-and-for-saying-a-horrible-thing-about-charlie-kirk/"
   },
   {
-    "score": 110,
+    "score": 109,
     "pubdate": "2025-09-18-20-13-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration asked the Supreme Court to let it remove Fed governor Lisa Cook from the central bank’s board while a lawsuit challenging the president’s effort to fire her proceeds",
@@ -28,25 +28,32 @@
     "link": "https://nypost.com/2025/09/18/us-news/trump-admits-putin-let-me-down-on-ukraine-peace-talks/"
   },
   {
-    "score": 70,
-    "pubdate": "2025-09-19-00-00-33 +0000",
-    "source": "nypost",
-    "headline": "Billionaire Mets owner Steve Cohen emerges as one of top bidders for new NY casino — here’s who else has the best odds",
-    "link": "https://nypost.com/2025/09/18/us-news/billionaire-mets-owner-steve-cohen-emerges-as-one-of-top-bidders-for-new-ny-casino-heres-who-else-has-the-best-odds/"
-  },
-  {
-    "score": 67,
+    "score": 66,
     "pubdate": "2025-09-18-14-58-31 +0000",
     "source": "nypost",
     "headline": "Jimmy Kimmel’s ABC suspension sparks boycott calls against Disney: ‘Hit them where it hurts’",
     "link": "https://nypost.com/2025/09/18/media/jimmy-kimmel-suspension-from-abc-sparks-boycott-calls-against-disney/"
   },
   {
-    "score": 65,
+    "score": 66,
+    "pubdate": "2025-09-19-00-00-33 +0000",
+    "source": "nypost",
+    "headline": "Billionaire Mets owner Steve Cohen emerges as one of top bidders for new NY casino — here’s who else has the best odds",
+    "link": "https://nypost.com/2025/09/18/us-news/billionaire-mets-owner-steve-cohen-emerges-as-one-of-top-bidders-for-new-ny-casino-heres-who-else-has-the-best-odds/"
+  },
+  {
+    "score": 64,
     "pubdate": "2025-09-18-22-52-57 +0000",
     "source": "nypost",
     "headline": "Ex-Biden chief of staff Jeff Zients called for post-debate cognitive test, said 46th prez’s memory grew worse in office: source",
     "link": "https://nypost.com/2025/09/18/us-news/ex-biden-chief-of-staff-jeff-zients-called-for-post-debate-cognitive-test-said-46th-prezs-memory-grew-worse-in-office-source/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2025-09-18-08-08-57 +0000",
+    "source": "wsj",
+    "headline": "Stock Market News, Sept. 18, 2025: Dow Rises After Fed Signals More Rate Cuts; Intel Surges on Nvidia Deal",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2025?mod=rss_markets_main"
   },
   {
     "score": 56,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Two shot dead in attack near West Bank-Jordan crossing, Israeli military says",
     "link": "https://www.bbc.com/news/articles/cr5qv0qmgmjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-09-18-08-08-57 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Dow Rises After Fed Signals More Rate Cuts; Intel Surges on Nvidia Deal",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2025?mod=rss_markets_main"
   }
 ]
