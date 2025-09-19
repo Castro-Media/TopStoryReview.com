@@ -1,9 +1,225 @@
 [
   {
+    "headline": "Travel chaos as FAA orders ground stops for two Dallas airports over phone issue",
+    "link": "https://nypost.com/2025/09/19/us-news/ground-stops-at-two-dallas-airports-due-to-telephone-issue/",
+    "source": "nypost",
+    "pubdate": "2025-09-19-21-42-59 +0000"
+  },
+  {
+    "headline": "Kin of teen found in D4vd’s Tesla launches GoFundMe to help cover burial costs",
+    "link": "https://nypost.com/2025/09/19/us-news/kin-of-teen-found-in-d4vds-tesla-launches-gofundme-to-help-cover-burial-costs/",
+    "source": "nypost",
+    "pubdate": "2025-09-19-21-39-19 +0000"
+  },
+  {
+    "headline": "Global agreement to protect the oceans set to take effect after 60th ratification",
+    "link": "https://www.cbc.ca/news/science/oceans-conservation-treaty-un-1.7638780?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-19-21-37-28 +0000"
+  },
+  {
+    "headline": "NATO Planes Intercept Russian Jet Fighters Over Estonia",
+    "link": "https://www.wsj.com/world/europe/nato-planes-intercept-russian-jet-fighters-over-estonia-fae5c61a",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-36-00 +0000"
+  },
+  {
+    "headline": "Senate Democrats blocked Republicans’ stopgap measure keeping the government funded until late November, setting up a down-to-the wire negotiation over how to avoid a government shutdown in two weeks",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-gop-spending-bill-1681b711",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-31-00 +0000"
+  },
+  {
+    "headline": "Estonia seeks Nato consultation after Russian jets violate airspace",
+    "link": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-19-21-30-29 +0000"
+  },
+  {
+    "headline": "Senate Confirms Michael Waltz as U.N. Ambassador",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/senate-michael-waltz-un-ambassador.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-21-30-19 +0000"
+  },
+  {
+    "headline": "Senate Confirms Michael Waltz as U.N. Ambassador",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/senate-michael-waltz-un-ambassador.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-21-30-19 +0000"
+  },
+  {
+    "headline": "Lib Dems call for police desks in supermarkets and libraries",
+    "link": "https://www.bbc.com/news/articles/ckg6dd8207ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-19-21-30-04 +0000"
+  },
+  {
+    "headline": "High School Student Is Fatally Shot During F.B.I. and A.T.F. Operation in Pennsylvania",
+    "link": "https://www.nytimes.com/2025/09/19/us/atf-shooting-student-aliquippa-pennsylvania.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-21-23-49 +0000"
+  },
+  {
+    "headline": "Erika Kirk is ‘absolute force,’ ready to grow Turning Point USA ‘10x’ after tragedy: source",
+    "link": "https://nypost.com/2025/09/19/us-news/erika-kirk-is-absolute-force-ready-to-grow-turning-point-usa-10x-after-tragedy/",
+    "source": "nypost",
+    "pubdate": "2025-09-19-21-23-03 +0000"
+  },
+  {
+    "headline": "Opinion | Iran Loses ‘Snap-Back’ Vote in a Landslide",
+    "link": "https://www.wsj.com/opinion/iran-snap-back-sanctions-united-nations-nuclear-proliferation-09fa9653",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-21-00 +0000"
+  },
+  {
+    "headline": "Jim Edgar, 79, Popular and Moderate Republican Governor of Illinois, Dies",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/jim-edgar-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-21-20-31 +0000"
+  },
+  {
+    "headline": "Jim Edgar, 79, Popular and Moderate Republican Governor of Illinois, Dies",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/jim-edgar-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-21-20-31 +0000"
+  },
+  {
+    "headline": "Opinion | The Brendan Carr Democrats",
+    "link": "https://www.wsj.com/opinion/democrats-fcc-speech-media-regulation-brendan-carr-jimmy-kimmel-d811d54a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-20-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Brendan Carr Democrats",
+    "link": "https://www.wsj.com/opinion/democrats-fcc-speech-media-regulation-brendan-carr-jimmy-kimmel-d811d54a",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-20-00 +0000"
+  },
+  {
+    "headline": "Opinion | California’s Great Climate Backfire",
+    "link": "https://www.wsj.com/opinion/california-democrats-oil-gas-prices-climate-co2-emissions-smog-e0ed4e4f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-18-00 +0000"
+  },
+  {
+    "headline": "Opinion | What Does Trump Want in Venezuela?",
+    "link": "https://www.wsj.com/opinion/donald-trump-venezuela-cartels-nicolas-maduro-d374cef7",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-18-00 +0000"
+  },
+  {
+    "headline": "Opinion | California’s Great Climate Backfire",
+    "link": "https://www.wsj.com/opinion/california-democrats-oil-gas-prices-climate-co2-emissions-smog-e0ed4e4f",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-18-00 +0000"
+  },
+  {
+    "headline": "Opinion | What Does Trump Want in Venezuela?",
+    "link": "https://www.wsj.com/opinion/donald-trump-venezuela-cartels-nicolas-maduro-d374cef7",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-18-00 +0000"
+  },
+  {
+    "headline": "Eric Adams continues gender bathroom crusade as NYC ‘reviews’ Trump admin letter: ‘It’s not safe”",
+    "link": "https://nypost.com/2025/09/19/us-news/eric-adams-continues-gender-bathroom-crusade-as-nyc-reviews-trump-admin-letter-its-not-safe/",
+    "source": "nypost",
+    "pubdate": "2025-09-19-21-17-35 +0000"
+  },
+  {
+    "headline": "In “107 Days,” former Vice President Kamala Harris laments not separating herself from Joe Biden during her short 2024 bid for the presidency",
+    "link": "https://www.wsj.com/politics/elections/what-we-learned-from-kamala-harriss-campaign-book-b24559ce",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-17-00 +0000"
+  },
+  {
+    "headline": "Bill to avert government shutdown stalls in Senate as Democrats demand talks",
+    "link": "https://www.washingtonpost.com/business/2025/09/19/house-vote-avert-government-shutdown/",
+    "source": "wapo",
+    "pubdate": "2025-09-19-21-15-59 +0000"
+  },
+  {
+    "headline": "U.S. Government Expected to Get Multibillion-Dollar Fee in TikTok Deal",
+    "link": "https://www.wsj.com/business/deals/u-s-government-expected-to-get-multibillion-dollar-fee-in-tiktok-deal-685e3944?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-12-00 +0000"
+  },
+  {
+    "headline": "Jimmy Kimmel is ‘incredibly pissed’ and still balking at apologizing for Charlie Kirk comments as Disney bosses scramble",
+    "link": "https://nypost.com/2025/09/19/media/jimmy-kimmel-is-incredibly-pissed-and-still-balking-at-apologizing-for-charlie-kirk-comments-as-disney-bosses-scramble/",
+    "source": "nypost",
+    "pubdate": "2025-09-19-21-08-41 +0000"
+  },
+  {
+    "headline": "Trump Asks the Supreme Court, Again, to Lift Protections for Venezuelans",
+    "link": "https://www.nytimes.com/2025/09/19/us/trump-supreme-court-protections-venezuelans.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-21-07-55 +0000"
+  },
+  {
+    "headline": "Irish language band Kneecap barred from Canada over UK terror charges",
+    "link": "https://www.bbc.com/news/articles/cvgrvw4ejn4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-19-21-05-46 +0000"
+  },
+  {
+    "headline": "U.S. Stocks Rose This Week After the Fed Made a Rate Cut and Signaled More to Come",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rose-this-week-after-the-fed-made-a-rate-cut-and-signaled-more-to-come-2f29d509?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-19-21-05-00 +0000"
+  },
+  {
+    "headline": "Travis Decker’s Remains Believed to Be Found in Forest, Sheriff Says",
+    "link": "https://www.nytimes.com/2025/09/19/us/travis-decker-remains-found-washington-state.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-21-00-28 +0000"
+  },
+  {
+    "headline": "Cracker Barrel kitchens in turmoil as chain fights to win back customers after food scandals",
+    "link": "https://nypost.com/2025/09/19/business/cracker-barrel-kitchens-in-turmoil-as-chain-fights-to-win-back-customers-after-food-scandals/",
+    "source": "nypost",
+    "pubdate": "2025-09-19-20-58-09 +0000"
+  },
+  {
+    "headline": "President Trump plans to add a $100,000 fee to applications for H1-B visas, which are used to bring in highly skilled workers",
+    "link": "https://www.wsj.com/politics/policy/trump-to-add-100-000-fee-to-h-1b-visas-e41ffe48",
+    "source": "wsj",
+    "pubdate": "2025-09-19-20-58-00 +0000"
+  },
+  {
+    "headline": "4 Soldiers Presumed Dead in Military Helicopter Crash in Washington State",
+    "link": "https://www.nytimes.com/2025/09/18/us/military-helicopter-crash-washington.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-20-57-29 +0000"
+  },
+  {
+    "headline": "Europeans announce fresh sanctions on Russian economy, trade in latest push to end Ukraine war",
+    "link": "https://nypost.com/2025/09/19/world-news/europeans-announce-fresh-sanctions-on-russian-economy-trade-in-latest-push-to-end-ukraine-war/",
+    "source": "nypost",
+    "pubdate": "2025-09-19-20-57-19 +0000"
+  },
+  {
+    "headline": "L.A. Taco journalist sues LAPD in latest allegation of police mistreatment of media",
+    "link": "https://www.latimes.com/california/story/2025-09-19/l-a-taco-journalist-sues-lapd",
+    "source": "latimes",
+    "pubdate": "2025-09-19-20-53-15 +0000"
+  },
+  {
     "headline": "New to the Fed, Miran Defends Calls for Sharper Reduction in Interest Rates",
     "link": "https://www.nytimes.com/2025/09/19/us/politics/stephen-miran-fed-interest-rates.html",
     "source": "nyt",
-    "pubdate": "2025-09-19-20-50-11 +0000"
+    "pubdate": "2025-09-19-20-50-12 +0000"
+  },
+  {
+    "headline": "New to the Fed, Miran Defends Calls for Sharper Reduction in Interest Rates",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/stephen-miran-fed-interest-rates.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-20-50-12 +0000"
+  },
+  {
+    "headline": "New to the Fed, Miran Defends Calls for Sharper Reduction in Interest Rates",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/stephen-miran-fed-interest-rates.html",
+    "source": "nyt",
+    "pubdate": "2025-09-19-20-50-12 +0000"
   },
   {
     "headline": "Opinion | How Democrats Lost the Whole Foods Vote",
@@ -18,7 +234,7 @@
     "pubdate": "2025-09-19-20-45-33 +0000"
   },
   {
-    "headline": "Stephen Miran argues for aggressive interest-rate cuts in his first television interview since taking the job, signaling he is likely to stay closely aligned with President Trump’s demands for lower rates",
+    "headline": "Stephen Miran argues for aggressive interest-rate cuts in a television interview, signaling he is likely to stay closely aligned with President Trump’s demands for lower rates",
     "link": "https://www.wsj.com/economy/central-banking/stephen-miran-makes-his-case-for-moreand-biggerinterest-rate-cuts-c2237b7a",
     "source": "wsj",
     "pubdate": "2025-09-19-20-45-00 +0000"
@@ -144,12 +360,6 @@
     "pubdate": "2025-09-19-20-16-00 +0000"
   },
   {
-    "headline": "High School Student Is Fatally Shot During F.B.I. and A.T.F. Operation in Pennsylvania",
-    "link": "https://www.nytimes.com/2025/09/19/us/atf-shooting-student-aliquippa-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-20-15-53 +0000"
-  },
-  {
     "headline": "RFK Jr.’s advisers won’t recommend COVID-19 vaccines to Americans — calling them individual decisions",
     "link": "https://nypost.com/2025/09/19/us-news/rfk-jr-s-advisers-wont-recommend-covid-19-vaccine-to-all-americans/",
     "source": "nypost",
@@ -264,30 +474,12 @@
     "pubdate": "2025-09-19-19-54-03 +0000"
   },
   {
-    "headline": "In “107 Days,” former Vice President Kamala Harris laments not separating herself from President Joe Biden during her short 2024 bid for the presidency",
-    "link": "https://www.wsj.com/politics/elections/what-we-learned-from-kamala-harriss-campaign-book-b24559ce",
-    "source": "wsj",
-    "pubdate": "2025-09-19-19-54-00 +0000"
-  },
-  {
-    "headline": "Senate Democrats blocked Republicans’ stopgap measure keeping the government funded until late November, setting up a down-to-the wire negotiation over how to avoid a government shutdown in two weeks",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-gop-spending-bill-1681b711",
-    "source": "wsj",
-    "pubdate": "2025-09-19-19-50-00 +0000"
-  },
-  {
     "headline": "Brett James, Grammy-Winning Songwriter, Dies in Plane Crash in North Carolina",
     "link": "https://www.nytimes.com/2025/09/19/us/plane-crash-north-carolina-brett-james.html",
     "source": "nyt",
     "pubdate": "2025-09-19-19-43-52 +0000"
   },
   {
-    "headline": "Nato intercepts Russian warplanes violating Estonian airspace",
-    "link": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-19-42-20 +0000"
-  },
-  {
     "headline": "Taliban Releases British Couple, Peter and Barbie Reynolds, Detained for Months in Afghanistan",
     "link": "https://www.nytimes.com/2025/09/19/world/asia/aghanistan-taliban-britain-detained-couple.html",
     "source": "nyt",
@@ -298,18 +490,6 @@
     "link": "https://www.nytimes.com/2025/09/19/world/asia/aghanistan-taliban-britain-detained-couple.html",
     "source": "nyt",
     "pubdate": "2025-09-19-19-41-25 +0000"
-  },
-  {
-    "headline": "New to the Fed, Miran Defends Calls for Sharper Reduction in Interest Rates",
-    "link": "https://www.nytimes.com/2025/09/19/us/politics/stephen-miran-fed-interest-rates.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-19-39-41 +0000"
-  },
-  {
-    "headline": "New to the Fed, Miran Defends Calls for Sharper Reduction in Interest Rates",
-    "link": "https://www.nytimes.com/2025/09/19/us/politics/stephen-miran-fed-interest-rates.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-19-39-41 +0000"
   },
   {
     "headline": "Ted Cruz rips FCC’s Brendan Carr, compares him to Mafia boss for Jimmy Kimmel attacks: ‘Right out of Goodfellas’",
@@ -370,12 +550,6 @@
     "link": "https://www.bbc.com/news/articles/c62n7025wdgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-19-19-12-36 +0000"
-  },
-  {
-    "headline": "Trump plans to add a $100,000 fee to H-1B visa applications",
-    "link": "https://www.wsj.com/politics/policy/trump-to-add-100-000-fee-to-h-1b-visas-e41ffe48",
-    "source": "wsj",
-    "pubdate": "2025-09-19-19-12-00 +0000"
   },
   {
     "headline": "Sally Rooney skips literary award ceremony out of fear of U.K. arrest",
@@ -588,12 +762,6 @@
     "pubdate": "2025-09-19-18-00-00 +0000"
   },
   {
-    "headline": "Opinion | Newsom Falls for the ‘Red Moocher State’ Myth",
-    "link": "https://www.wsj.com/opinion/newsom-falls-for-the-red-moocher-state-myth-ccae1b33",
-    "source": "wsj",
-    "pubdate": "2025-09-19-17-50-00 +0000"
-  },
-  {
     "headline": "Opinion | Europe Tries to Export Censorship to America",
     "link": "https://www.wsj.com/opinion/europe-tries-to-export-censorship-to-america-7a7b1fa4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -606,12 +774,6 @@
     "pubdate": "2025-09-19-17-49-00 +0000"
   },
   {
-    "headline": "Opinion | Europe Tries to Export Censorship to America",
-    "link": "https://www.wsj.com/opinion/europe-tries-to-export-censorship-to-america-7a7b1fa4",
-    "source": "wsj",
-    "pubdate": "2025-09-19-17-49-00 +0000"
-  },
-  {
     "headline": "Trump and China Suggest TikTok Deal Could Move Ahead in Vague Statements",
     "link": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html",
     "source": "nyt",
@@ -628,12 +790,6 @@
     "link": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html",
     "source": "nyt",
     "pubdate": "2025-09-19-17-48-54 +0000"
-  },
-  {
-    "headline": "Opinion | Why Employment Division v. Smith Must Go",
-    "link": "https://www.wsj.com/opinion/why-employment-division-vs-smith-must-go-supreme-court-28ecb69a",
-    "source": "wsj",
-    "pubdate": "2025-09-19-17-48-00 +0000"
   },
   {
     "headline": "Schumer, Wary of Blowback, Holds Out on Mamdani",
@@ -696,12 +852,6 @@
     "pubdate": "2025-09-19-17-23-24 +0000"
   },
   {
-    "headline": "Bill to avert government shutdown stalls in Senate as Democrats demand talks",
-    "link": "https://www.washingtonpost.com/business/2025/09/19/house-vote-avert-government-shutdown/",
-    "source": "wapo",
-    "pubdate": "2025-09-19-17-22-16 +0000"
-  },
-  {
     "headline": "Brett James died with his wife, her daughter — who just celebrated birthday — in private plane crash",
     "link": "https://nypost.com/2025/09/19/us-news/brett-james-died-with-new-wife-her-daughter-in-private-plane-crash/",
     "source": "nypost",
@@ -712,12 +862,6 @@
     "link": "https://www.bbc.com/news/articles/cj4ywy0j0rgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-19-17-13-26 +0000"
-  },
-  {
-    "headline": "Irish language band Kneecap barred from Canada over UK terror charges",
-    "link": "https://www.bbc.com/news/articles/cvgrvw4ejn4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-17-13-25 +0000"
   },
   {
     "headline": "She’s Starting a Blood Bank for Zoos",
@@ -1044,28 +1188,10 @@
     "pubdate": "2025-09-19-15-21-53 +0000"
   },
   {
-    "headline": "Trump says he told Charlie Kirk ‘you have a good chance at being president’",
-    "link": "https://nypost.com/2025/09/19/us-news/trump-says-he-told-charlie-kirk-you-have-a-good-chance-at-being-president/",
-    "source": "nypost",
-    "pubdate": "2025-09-19-15-21-53 +0000"
-  },
-  {
-    "headline": "Cause of death revealed for man who died after riding Universal’s Epic Universe roller coaster",
-    "link": "https://nypost.com/2025/09/19/us-news/mans-cause-of-death-after-riding-roller-coaster-at-universals-epic-universe-revealed/",
-    "source": "nypost",
-    "pubdate": "2025-09-19-15-16-41 +0000"
-  },
-  {
     "headline": "Minnesota seeks slice of $50B in federal funds to address rural health crisis",
     "link": "https://www.startribune.com/minnesota-seeks-slice-of-50b-in-federal-funds-to-address-rural-health-crisis/601475405",
     "source": "startribune",
     "pubdate": "2025-09-19-15-11-53 +0000"
-  },
-  {
-    "headline": "New coral species is named after a ‘Star Wars’ character",
-    "link": "https://nypost.com/2025/09/19/us-news/new-coral-species-is-named-after-star-wars-character-chewbacca/",
-    "source": "nypost",
-    "pubdate": "2025-09-19-15-09-34 +0000"
   },
   {
     "headline": "Raja Jackson arrested following wrestling beatdown livestreamed at event",
@@ -1114,12 +1240,6 @@
     "link": "https://nypost.com/2025/09/19/world-news/russian-warplanes-violate-nato-member-estonias-airspace/",
     "source": "nypost",
     "pubdate": "2025-09-19-14-56-46 +0000"
-  },
-  {
-    "headline": "Senate rejects House-passed stopgap funding bill, as government shutdown looms at end of month",
-    "link": "https://nypost.com/2025/09/19/us-news/house-passes-stopgap-funding-bill-in-bid-to-avoid-government-shutdown/",
-    "source": "nypost",
-    "pubdate": "2025-09-19-14-52-21 +0000"
   },
   {
     "headline": "Senate rejects House-passed stopgap funding bill, as government shutdown looms at end of month",
@@ -1644,7 +1764,7 @@
     "pubdate": "2025-09-19-10-00-00 +0000"
   },
   {
-    "headline": "‘Historic’ housing bill aims to address California’s affordability crisis",
+    "headline": "Controversial housing bill aims to address California’s affordability crisis",
     "link": "https://www.washingtonpost.com/nation/2025/09/19/california-housing-transit-bill/",
     "source": "wapo",
     "pubdate": "2025-09-19-10-00-00 +0000"
@@ -2220,12 +2340,6 @@
     "pubdate": "2025-09-19-00-18-24 +0000"
   },
   {
-    "headline": "Helicopter Carrying 4 Soldiers Crashes in Washington State",
-    "link": "https://www.nytimes.com/2025/09/18/us/military-helicopter-crash-washington.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-00-09-23 +0000"
-  },
-  {
     "headline": "Climate Activists Argue 3 Executive Orders Violate Their Constitutional Rights",
     "link": "https://www.nytimes.com/2025/09/18/climate/lighthiser-trial-climate-trump.html",
     "source": "nyt",
@@ -2382,12 +2496,6 @@
     "pubdate": "2025-09-18-22-06-01 +0000"
   },
   {
-    "headline": "Suspected stalker ambushed and killed 3 Pennsylvania officers, prosecutor says",
-    "link": "https://www.cbc.ca/news/world/pennsylvania-officers-killed-1.7637624?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-18-21-58-58 +0000"
-  },
-  {
     "headline": "Opinion | Gatekeepers and National Traumas",
     "link": "https://www.wsj.com/opinion/gatekeepers-and-national-traumas-5b1fef30?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -2410,167 +2518,5 @@
     "link": "https://www.nytimes.com/video/world/middleeast/100000010405069/where-will-gazans-go.html",
     "source": "nyt",
     "pubdate": "2025-09-18-21-54-13 +0000"
-  },
-  {
-    "headline": "Texas Man Dies in Fall From Alaska Mountain Trail",
-    "link": "https://www.nytimes.com/2025/09/18/us/alaska-hikers-dead-juneau.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-42-27 +0000"
-  },
-  {
-    "headline": "Opinion | The FCC, Disney and Jimmy Kimmel",
-    "link": "https://www.wsj.com/opinion/fcc-disney-jimmy-kimmel-brendan-carr-media-regulation-197bdf0a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-18-21-39-00 +0000"
-  },
-  {
-    "headline": "How China Became a Wedge Between Two South Pacific Neighbors",
-    "link": "https://www.nytimes.com/2025/09/18/world/australia/china-pacific-nz-cook-islands.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-38-32 +0000"
-  },
-  {
-    "headline": "How China Became a Wedge Between Two South Pacific Neighbors",
-    "link": "https://www.nytimes.com/2025/09/18/world/australia/china-pacific-nz-cook-islands.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-38-32 +0000"
-  },
-  {
-    "headline": "Ros Atkins on… What Kimmel's suspension means for free speech in the US",
-    "link": "https://www.bbc.com/news/videos/crme42nr8exo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-21-38-29 +0000"
-  },
-  {
-    "headline": "Ros Atkins on… What Kimmel's suspension means for free speech in the US",
-    "link": "https://www.bbc.com/news/videos/crme42nr8exo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-21-38-29 +0000"
-  },
-  {
-    "headline": "Opinion | Israeli Lasers and American Defense",
-    "link": "https://www.wsj.com/opinion/israel-iron-beam-laser-air-defense-18b48b00",
-    "source": "wsj",
-    "pubdate": "2025-09-18-21-37-00 +0000"
-  },
-  {
-    "headline": "IRS Official Sues Agency, Accusing It of Leaking Private Data to Fox News and Others",
-    "link": "https://www.nytimes.com/2025/09/18/business/irs-lawsuit-holly-paz-fox-news.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-34-50 +0000"
-  },
-  {
-    "headline": "All about the business decision to suspend Jimmy Kimmel from ABC after his Charlie Kirk comments",
-    "link": "https://nypost.com/2025/09/18/media/all-about-the-business-decision-to-suspend-jimmy-kimmel-from-abc-after-his-charlie-kirk-comments/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-21-30-41 +0000"
-  },
-  {
-    "headline": "Opinion | Back to Censor Culture",
-    "link": "https://www.wsj.com/opinion/back-to-censor-culture-f6bd4637?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-18-21-30-00 +0000"
-  },
-  {
-    "headline": "Trump suggests Starmer could use military to control UK borders",
-    "link": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-21-23-45 +0000"
-  },
-  {
-    "headline": "Drones vs. Lasers",
-    "link": "https://www.nytimes.com/2025/09/18/briefing/nato-air-defense-trump-media-britain-tech-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-22-13 +0000"
-  },
-  {
-    "headline": "Drones vs. Lasers",
-    "link": "https://www.nytimes.com/2025/09/18/briefing/nato-air-defense-trump-media-britain-tech-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-22-13 +0000"
-  },
-  {
-    "headline": "U.S. ambassador 'disappointed' with anti-American sentiment in Canada",
-    "link": "https://www.cbc.ca/news/politics/us-ambassador-to-canada-disappointed-anti-american-campaign-1.7637534?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-18-21-21-51 +0000"
-  },
-  {
-    "headline": "What Is a Money Market Account?",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-18-21-21-00 +0000"
-  },
-  {
-    "headline": "What Is a Money Market Account?",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-18-21-21-00 +0000"
-  },
-  {
-    "headline": "Assailant Kills 2 Israeli Soldiers at West Bank-Jordan Border",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-14-58 +0000"
-  },
-  {
-    "headline": "Assailant Kills 2 Israeli Soldiers at West Bank-Jordan Border",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/allenby-shooting-jordan-west-bank.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-14-58 +0000"
-  },
-  {
-    "headline": "Is Nvidia Intel’s Savior? Not Quite",
-    "link": "https://www.wsj.com/tech/intel-nvidia-deal-strategy-two-companies-ec7d7632?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-18-21-14-00 +0000"
-  },
-  {
-    "headline": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-09-44 +0000"
-  },
-  {
-    "headline": "Watchdogs say new L.A. County rule is an attempt to muzzle criticism",
-    "link": "https://www.latimes.com/california/story/2025-09-18/los-angeles-county-oversight-communications",
-    "source": "latimes",
-    "pubdate": "2025-09-18-21-07-43 +0000"
-  },
-  {
-    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-05-55 +0000"
-  },
-  {
-    "headline": "Rifts Grow Between Netanyahu and His Security Chiefs",
-    "link": "https://www.nytimes.com/2025/09/18/world/middleeast/israel-netanyahu-military-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-05-55 +0000"
-  },
-  {
-    "headline": "Tech Deal, Rate Cut Push Stocks to Records",
-    "link": "https://www.wsj.com/finance/stocks/tech-deal-rate-cut-push-stocks-to-records-f9b92d8e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-18-21-01-00 +0000"
-  },
-  {
-    "headline": "‘Come From Away’ Will Be This Season’s Most Produced Show in the U.S.",
-    "link": "https://www.nytimes.com/2025/09/18/theater/come-from-away-most-produced-list.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-21-00-07 +0000"
-  },
-  {
-    "headline": "Catholics Project Many Images Onto Pope Leo: Liberal? Conservative? Cubs Fan?",
-    "link": "https://www.nytimes.com/2025/09/18/world/asia/pope-leo-liberal-conservative.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-57-59 +0000"
-  },
-  {
-    "headline": "Catholics Project Many Images Onto Pope Leo: Liberal? Conservative? Cubs Fan?",
-    "link": "https://www.nytimes.com/2025/09/18/world/asia/pope-leo-liberal-conservative.html",
-    "source": "nyt",
-    "pubdate": "2025-09-18-20-57-59 +0000"
   }
 ]
