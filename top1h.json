@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 30,
+    "pubdate": "2025-09-19-08-17-46 +0000",
+    "source": "nyt",
+    "headline": "Taliban Rebuffs Trump’s Effort to Regain Air Base in Afghanistan",
+    "link": "https://www.nytimes.com/2025/09/19/world/asia/trump-bagram-taliban.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-19-08-23-40 +0000",
+    "source": "bbc",
+    "headline": "Migrant returned to France after government wins court challenge",
+    "link": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-19-08-01-00 +0000",
+    "source": "cbc",
+    "headline": "NATO deterrence mission in Latvia drains the Canadian Army's fleet of vehicles",
+    "link": "https://www.cbc.ca/news/politics/nato-canadian-army-latvia-military-vehicles-1.7637922?cmp=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-19-08-21-16 +0000",
+    "source": "bbc",
+    "headline": "Trump says TV networks opposed to him should 'maybe' lose licence",
+    "link": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-19-08-23-31 +0000",
+    "source": "nypost",
+    "headline": "Nearly 1,000 tourists trapped near Machu Picchu as protests shut down train services",
+    "link": "https://nypost.com/2025/09/19/world-news/peru-protests-strand-1000-tourists-at-machu-picchu/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-19-08-10-20 +0000",
+    "source": "wapo",
+    "headline": "Trump nixed $400 million in Taiwan military aid, pushing future arms sales",
+    "link": "https://www.washingtonpost.com/national-security/2025/09/18/trump-taiwan-arms-sales-military-aid/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-19-08-02-42 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Futures Waver; Xi-Trump Call Expected",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-19-2025?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-19-08-05-38 +0000",
+    "source": "bbc",
+    "headline": "Highest government borrowing in August for five years",
+    "link": "https://www.bbc.com/news/articles/cly9m4lqznro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-19-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Canadians are taking a big step back from the U.S. — and here's the data to prove it",
+    "link": "https://www.cbc.ca/news/politics/canada-big-step-back-from-us-data-1.7637651?cmp=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-09-19-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Federal government pulls plug on home retrofit loan program",
+    "link": "https://www.cbc.ca/news/canada/calgary/bakx-greener-homes-cghl-retrofit-1.7636591?cmp=rss"
+  }
+]
