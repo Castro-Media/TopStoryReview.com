@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 45,
+    "pubdate": "2025-09-19-20-19-48 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Will End Deportation Protections for Thousands of Syrians",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/temporary-protected-status-syrians.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-09-19-20-15-30 +0000",
+    "source": "nypost",
+    "headline": "RFK Jr.’s advisers won’t recommend COVID-19 vaccines to Americans — calling them individual decisions",
+    "link": "https://nypost.com/2025/09/19/us-news/rfk-jr-s-advisers-wont-recommend-covid-19-vaccine-to-all-americans/"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-09-19-20-45-00 +0000",
+    "source": "wsj",
+    "headline": "Stephen Miran argues for aggressive interest-rate cuts in his first television interview since taking the job, signaling he is likely to stay closely aligned with President Trump’s demands for lower rates",
+    "link": "https://www.wsj.com/economy/central-banking/stephen-miran-makes-his-case-for-moreand-biggerinterest-rate-cuts-c2237b7a"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-09-19-20-28-00 +0000",
+    "source": "wsj",
+    "headline": "House lawmakers adopted a Republican-led resolution to honor Charlie Kirk, with slightly less than half of the Democratic caucus joining with GOP colleagues to back the measure",
+    "link": "https://www.wsj.com/politics/house-charlie-kirk-resolution-vote-c3e1114d"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-09-19-20-02-22 +0000",
+    "source": "nyt",
+    "headline": "Protesters and Federal Agents Clash Outside an ICE Detention Facility Near Chicago",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/ice-protests-chicago.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-19-20-20-46 +0000",
+    "source": "nyt",
+    "headline": "Dozens Killed in Missile Strike on Sudan Mosque: ‘Harrowing Beyond Description’",
+    "link": "https://www.nytimes.com/2025/09/19/world/africa/sudan-strike-mosque-rsf.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-19-20-39-01 +0000",
+    "source": "nyt",
+    "headline": "Trump Officials Question Harvard’s Stability, Saying Federal Inquiries Raise Financial Risk",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/trump-harvard-financial-risk.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-19-19-55-13 +0000",
+    "source": "nypost",
+    "headline": "Boy, 16, caught with loaded gun at NYC high school charged as officials reveal the weapon was one of 4,000 seized this year",
+    "link": "https://nypost.com/2025/09/19/us-news/boy-16-caught-with-loaded-gun-at-nyc-high-school-charged-as-officials-reveal-the-weapon-was-one-of-4000-seized-in-nyc-this-year/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-19-19-57-49 +0000",
+    "source": "nypost",
+    "headline": "Trump adding $100K fee to H1-B visa applications in latest crackdown on foreign workers",
+    "link": "https://nypost.com/2025/09/19/us-news/trump-adding-100k-fee-to-h1-b-visa-applications-in-latest-crackdown-on-foreign-workers/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-19-20-21-00 +0000",
+    "source": "wsj",
+    "headline": "Trump administration officials are in discussions with the Taliban about re-establishing a small U.S. military presence at Afghanistan’s Bagram Air Base as a launch point for counterterrorism operations",
+    "link": "https://www.wsj.com/politics/national-security/u-s-in-talks-with-taliban-on-returning-counterterrorism-forces-to-afghan-base-25d5dcd0"
+  }
+]
