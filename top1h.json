@@ -1,9 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2025-09-19-08-54-11 +0000",
+    "score": 19,
+    "pubdate": "2025-09-19-10-30-52 +0000",
     "source": "nyt",
-    "headline": "How Xi Is Using a TikTok Tradeoff to Court Trump",
-    "link": "https://www.nytimes.com/2025/09/19/world/asia/tiktok-xi-trump-china.html"
+    "headline": "The Race Is on to Make Rare Earth Magnets Outside China",
+    "link": "https://www.nytimes.com/2025/09/19/business/china-rare-earths-magnets.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-19-10-17-09 +0000",
+    "source": "nyt",
+    "headline": "Battered but Undefeated, Hamas Remains a Fighting Force in Gaza",
+    "link": "https://www.nytimes.com/2025/09/19/world/middleeast/hamas-remaining-in-gaza.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-19-10-07-49 +0000",
+    "source": "bbc",
+    "headline": "Minister rejects Trump's call for military to tackle illegal migration",
+    "link": "https://www.bbc.com/news/articles/c04qre9l0v3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-19-10-22-00 +0000",
+    "source": "wsj",
+    "headline": "The Bank of Japan said it would start to offload its huge portfolio of exchange-traded funds, a sign of growing confidence in the economy",
+    "link": "https://www.wsj.com/articles/bank-of-japan-leaves-rates-unchanged-announces-etf-sales-22f98b86"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-19-09-55-46 +0000",
+    "source": "nypost",
+    "headline": "Texas A&M president Mark A. Welsh III stepping down after upheaval over gender identity video",
+    "link": "https://nypost.com/2025/09/19/us-news/texas-aampm-president-mark-a-welsh-iii-stepping-down-after-upheaval-over-gender-identity-video/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-19-10-23-42 +0000",
+    "source": "bbc",
+    "headline": "Highest government borrowing in August for five years",
+    "link": "https://www.bbc.com/news/articles/cly9m4lqznro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-19-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "They met at a festival. He was a sheriff's deputy — and a stalker, her lawsuit claims",
+    "link": "https://www.latimes.com/california/story/2025-09-19/riverside-deputy-briana-ortega-lawsuit"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-19-10-13-20 +0000",
+    "source": "bbc",
+    "headline": "Peers agree to extra scrutiny as they debate assisted dying bill",
+    "link": "https://www.bbc.com/news/articles/cj9zw3399jdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-19-10-35-18 +0000",
+    "source": "bbc",
+    "headline": "MI6 launches dark web portal to attract spies in Russia",
+    "link": "https://www.bbc.com/news/articles/c0r0vk1j4j8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-19-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Apple Store is offering a bogus EBT app for Californians. Here's how to avoid it",
+    "link": "https://www.latimes.com/california/story/2025-09-19/apple-store-is-offering-a-bogus-ebt-app-for-californians-heres-how-to-avoid-it"
   }
 ]
