@@ -1,72 +1,44 @@
 [
   {
-    "score": 21,
-    "pubdate": "2025-09-20-10-24-09 +0000",
-    "source": "nyt",
-    "headline": "Oil Sanctions Have Made Russia’s Shadow Fleet Swell",
-    "link": "https://www.nytimes.com/2025/09/20/world/europe/russia-shadow-fleet-oil-sanctions-ukraine-war.html"
+    "score": 11,
+    "pubdate": "2025-09-20-11-20-04 +0000",
+    "source": "nypost",
+    "headline": "Wisconsin pizza factory worker crushed to death by robotic machine in horrific industrial accident",
+    "link": "https://nypost.com/2025/09/20/us-news/wisconsin-pizza-factory-worker-robert-cherone-crushed-to-death-by-robotic-machine/"
   },
   {
-    "score": 20,
-    "pubdate": "2025-09-20-10-10-48 +0000",
-    "source": "nyt",
-    "headline": "Some Europeans Fear Trump Aides Want a Far-Right Takeover",
-    "link": "https://www.nytimes.com/2025/09/20/world/europe/trump-europe-far-right.html"
+    "score": 9,
+    "pubdate": "2025-09-20-11-17-32 +0000",
+    "source": "nypost",
+    "headline": "Thousands evacuated in Hong Kong after discovery of large WWII-era bomb",
+    "link": "https://nypost.com/2025/09/20/world-news/thousands-evacuated-in-hong-kong-after-discovery-of-large-wwii-era-bomb/"
   },
   {
-    "score": 16,
-    "pubdate": "2025-09-20-10-51-09 +0000",
-    "source": "nyt",
-    "headline": "Cyberattack Slows Check-Ins and Threatens Delays at European Airports",
-    "link": "https://www.nytimes.com/2025/09/20/world/europe/europe-airports-delays-brussels-london-berlin.html"
+    "score": 9,
+    "pubdate": "2025-09-20-11-00-04 +0000",
+    "source": "wapo",
+    "headline": "Low-income Americans slash spending, a bad sign for the economy",
+    "link": "https://www.washingtonpost.com/business/2025/09/20/low-income-spending-economy/"
   },
   {
-    "score": 16,
-    "pubdate": "2025-09-20-10-47-20 +0000",
+    "score": 7,
+    "pubdate": "2025-09-20-11-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "From low riders to Frida on the Bay, Hispanic Heritage kicks off in S.F. this month",
+    "link": "https://missionlocal.org/2025/09/from-low-riders-to-frida-on-the-bay-hispanic-heritage-kicks-off-in-s-f-this-month/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-20-11-41-58 +0000",
     "source": "bbc",
-    "headline": "Estonia seeks Nato consultation after Russian jets violate airspace",
-    "link": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss"
+    "headline": "Sultana accuses Corbyn of 'baseless' character attacks",
+    "link": "https://www.bbc.com/news/articles/cn4l3elkzwjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 16,
-    "pubdate": "2025-09-20-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "In a race back to the moon, U.S. and China see a fast-approaching finish line",
-    "link": "https://www.latimes.com/politics/story/2025-09-20/trump-artemis-program-moon-race-with-china"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-09-20-10-00-11 +0000",
-    "source": "nyt",
-    "headline": "Canada and Mexico Turn to Trains and Ports to Skirt U.S. Tariff Wall",
-    "link": "https://www.nytimes.com/2025/09/20/world/canada/canada-mexico-trains-ports.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-09-20-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "A strawberry delivery driver arrested by Border Patrol tries to make his way home",
-    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-09-20-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "After ICE raids surged this summer, calls to LAPD plummeted",
-    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-09-20-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "'This town has been very good to me': How a top Hollywood producer refused to abandon L.A. after fires",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-20/david-e-kelley-california-film-tax-credit-hollywood-filming-la-ally-mcbeal-the-practice-lincoln-lawyer"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-09-20-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Jail watchdog that exposed grim conditions faces elimination under L.A. County plan",
-    "link": "https://www.latimes.com/california/story/2025-09-20/sybil-brand-commission-sunsetting"
+    "score": 3,
+    "pubdate": "2025-09-20-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "The People Betting on a Baltimore Comeback",
+    "link": "https://www.wsj.com/us-news/the-people-betting-on-a-baltimore-comeback-3b1932a1"
   }
 ]

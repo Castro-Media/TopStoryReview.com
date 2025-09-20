@@ -1,5 +1,41 @@
 [
   {
+    "headline": "Sultana accuses Corbyn of 'baseless' character attacks",
+    "link": "https://www.bbc.com/news/articles/cn4l3elkzwjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-11-41-58 +0000"
+  },
+  {
+    "headline": "Wisconsin pizza factory worker crushed to death by robotic machine in horrific industrial accident",
+    "link": "https://nypost.com/2025/09/20/us-news/wisconsin-pizza-factory-worker-robert-cherone-crushed-to-death-by-robotic-machine/",
+    "source": "nypost",
+    "pubdate": "2025-09-20-11-20-04 +0000"
+  },
+  {
+    "headline": "Thousands evacuated in Hong Kong after discovery of large WWII-era bomb",
+    "link": "https://nypost.com/2025/09/20/world-news/thousands-evacuated-in-hong-kong-after-discovery-of-large-wwii-era-bomb/",
+    "source": "nypost",
+    "pubdate": "2025-09-20-11-17-32 +0000"
+  },
+  {
+    "headline": "Low-income Americans slash spending, a bad sign for the economy",
+    "link": "https://www.washingtonpost.com/business/2025/09/20/low-income-spending-economy/",
+    "source": "wapo",
+    "pubdate": "2025-09-20-11-00-04 +0000"
+  },
+  {
+    "headline": "The People Betting on a Baltimore Comeback",
+    "link": "https://www.wsj.com/us-news/the-people-betting-on-a-baltimore-comeback-3b1932a1",
+    "source": "wsj",
+    "pubdate": "2025-09-20-11-00-00 +0000"
+  },
+  {
+    "headline": "From low riders to Frida on the Bay, Hispanic Heritage kicks off in S.F. this month",
+    "link": "https://missionlocal.org/2025/09/from-low-riders-to-frida-on-the-bay-hispanic-heritage-kicks-off-in-s-f-this-month/",
+    "source": "missionlocal",
+    "pubdate": "2025-09-20-11-00-00 +0000"
+  },
+  {
     "headline": "Cyberattack Slows Check-Ins and Threatens Delays at European Airports",
     "link": "https://www.nytimes.com/2025/09/20/world/europe/europe-airports-delays-brussels-london-berlin.html",
     "source": "nyt",
@@ -90,6 +126,12 @@
     "pubdate": "2025-09-20-10-00-11 +0000"
   },
   {
+    "headline": "A strawberry delivery driver arrested by Border Patrol tries to make his way home",
+    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
+    "source": "latimes",
+    "pubdate": "2025-09-20-10-00-00 +0000"
+  },
+  {
     "headline": "In a race back to the moon, U.S. and China see a fast-approaching finish line",
     "link": "https://www.latimes.com/politics/story/2025-09-20/trump-artemis-program-moon-race-with-china",
     "source": "latimes",
@@ -98,12 +140,6 @@
   {
     "headline": "After ICE raids surged this summer, calls to LAPD plummeted",
     "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
-    "source": "latimes",
-    "pubdate": "2025-09-20-10-00-00 +0000"
-  },
-  {
-    "headline": "A strawberry delivery driver arrested by Border Patrol tries to make his way home",
-    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -132,14 +168,14 @@
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "A strawberry delivery driver arrested by Border Patrol tries to make his way home",
-    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
+    "headline": "After ICE raids surged this summer, calls to LAPD plummeted",
+    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "After ICE raids surged this summer, calls to LAPD plummeted",
-    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
+    "headline": "A strawberry delivery driver arrested by Border Patrol tries to make his way home",
+    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -213,13 +249,13 @@
     "headline": "Inside The Times’s Reporting and Judgment Calls on Charlie Kirk’s Assassination",
     "link": "https://www.nytimes.com/2025/09/20/us/charlie-kirk-shooting-news-coverage.html",
     "source": "nyt",
-    "pubdate": "2025-09-20-09-02-25 +0000"
+    "pubdate": "2025-09-20-09-02-26 +0000"
   },
   {
     "headline": "Inside The Times’s Reporting and Judgment Calls on Charlie Kirk’s Assassination",
     "link": "https://www.nytimes.com/2025/09/20/us/charlie-kirk-shooting-news-coverage.html",
     "source": "nyt",
-    "pubdate": "2025-09-20-09-02-25 +0000"
+    "pubdate": "2025-09-20-09-02-26 +0000"
   },
   {
     "headline": "What to Know About Jimmy Kimmel’s Show Being Suspended",
@@ -394,12 +430,6 @@
     "link": "https://nypost.com/2025/09/20/world-news/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/",
     "source": "nypost",
     "pubdate": "2025-09-20-08-21-49 +0000"
-  },
-  {
-    "headline": "Canada needs all evidence assessed before recognizing genocide in Gaza, says new UN ambassador",
-    "link": "https://www.cbc.ca/news/politics/canada-gaza-genocide-david-lametti-un-ambassador-1.7638638?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-20-08-00-00 +0000"
   },
   {
     "headline": "Carney's 'Buy Canadian' policy expected to be fully in place next year: source",
@@ -882,6 +912,12 @@
     "pubdate": "2025-09-20-00-35-15 +0000"
   },
   {
+    "headline": "Canada needs all evidence assessed before recognizing genocide in Gaza, says incoming UN ambassador",
+    "link": "https://www.cbc.ca/news/politics/canada-gaza-genocide-david-lametti-un-ambassador-1.7638638?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-20-00-34-50 +0000"
+  },
+  {
     "headline": "What does the FCC do - and can it revoke a TV network's licence?",
     "link": "https://www.bbc.com/news/articles/c87yel3wgqgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1336,12 +1372,6 @@
     "link": "https://www.nytimes.com/2025/09/19/us/atf-shooting-student-aliquippa-pennsylvania.html",
     "source": "nyt",
     "pubdate": "2025-09-19-21-23-49 +0000"
-  },
-  {
-    "headline": "Erika Kirk is ‘absolute force,’ ready to grow Turning Point USA ‘10x’ after tragedy: source",
-    "link": "https://nypost.com/2025/09/19/us-news/erika-kirk-is-absolute-force-ready-to-grow-turning-point-usa-10x-after-tragedy/",
-    "source": "nypost",
-    "pubdate": "2025-09-19-21-23-03 +0000"
   },
   {
     "headline": "Opinion | Iran Loses ‘Snap-Back’ Vote in a Landslide",
@@ -2524,12 +2554,6 @@
     "link": "https://www.bbc.com/news/articles/cly73n2drg4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-19-11-18-55 +0000"
-  },
-  {
-    "headline": "What Jimmy Kimmel’s Suspension Says About Free Speech",
-    "link": "https://www.nytimes.com/2025/09/19/us/jimmy-kimmel-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-11-15-32 +0000"
   },
   {
     "headline": "What Jimmy Kimmel’s Suspension Says About the Trump Administration’s Crackdown Against Mainstream Media",
@@ -3750,12 +3774,6 @@
     "pubdate": "2025-09-18-18-19-59 +0000"
   },
   {
-    "headline": "US deportees sue Ghana over 'illegal' detention",
-    "link": "https://www.bbc.com/news/articles/cn821dk851do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-18-18-05 +0000"
-  },
-  {
     "headline": "Israeli air strikes hit southern Lebanon",
     "link": "https://www.bbc.com/news/articles/ckgedgjd648o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3784,12 +3802,6 @@
     "link": "https://www.bbc.com/news/articles/ce327e2rdw3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-18-17-58-18 +0000"
-  },
-  {
-    "headline": "Morgan reveals more reasons for Trump banquet refusal",
-    "link": "https://www.bbc.com/news/articles/cy8rkd21m57o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-18-17-43-48 +0000"
   },
   {
     "headline": "Opinion | Britain’s Conservative Party Heads for Extinction",
@@ -3912,12 +3924,6 @@
     "pubdate": "2025-09-18-16-14-17 +0000"
   },
   {
-    "headline": "Gaza aid truck driver shoots 2 Israelis to death at border crossing, officials say",
-    "link": "https://nypost.com/2025/09/18/world-news/gaza-aid-truck-driver-shoots-2-israelis-to-death-at-border-crossing-officials-say/",
-    "source": "nypost",
-    "pubdate": "2025-09-18-16-13-46 +0000"
-  },
-  {
     "headline": "With Amex’s Platinum Refresh, an Even More Exclusive Card Emerges",
     "link": "https://www.nytimes.com/2025/09/18/travel/amexs-platinum-card-benefits.html",
     "source": "nyt",
@@ -4036,6 +4042,12 @@
     "link": "https://www.bbc.com/news/videos/c203nweed07o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-18-14-30-37 +0000"
+  },
+  {
+    "headline": "African pride as Rwanda prepares for cycling history",
+    "link": "https://www.bbc.com/sport/cycling/articles/cddm2gpg5z3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-18-14-21-14 +0000"
   },
   {
     "headline": "US firms pledge £150bn investment in UK as tech deal signed",
@@ -4242,12 +4254,6 @@
     "pubdate": "2025-09-18-10-10-00 +0000"
   },
   {
-    "headline": "Edison details how much it plans to pay Eaton fire victims",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
     "headline": "Contributor: The right now embraces cancel culture",
     "link": "https://www.latimes.com/opinion/story/2025-09-18/jimmy-kimmel-cancel-culture-charlie-kirk",
     "source": "latimes",
@@ -4266,12 +4272,6 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
     "headline": "Edison details how much it plans to pay Eaton fire victims",
     "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
     "source": "latimes",
@@ -4284,26 +4284,8 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "Loyola Marymount abruptly rescinds recognition of faculty union, claiming religious exemption",
-    "link": "https://www.latimes.com/business/story/2025-09-18/loyola-marymount-university-abruptly-stops-bargaining-with-faculty-union-claiming-religious-exemption",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "West Hollywood to become first in L.A. County to ban pet sales",
-    "link": "https://www.latimes.com/california/story/2025-09-18/live-animals-are-not-for-sale-in-west-hollywood-officials-say",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
-    "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
-    "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
+    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -4314,8 +4296,38 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
+    "headline": "Loyola Marymount abruptly rescinds recognition of faculty union, claiming religious exemption",
+    "link": "https://www.latimes.com/business/story/2025-09-18/loyola-marymount-university-abruptly-stops-bargaining-with-faculty-union-claiming-religious-exemption",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
+    "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "West Hollywood to become first in L.A. County to ban pet sales",
+    "link": "https://www.latimes.com/california/story/2025-09-18/live-animals-are-not-for-sale-in-west-hollywood-officials-say",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
+    "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
     "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
     "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Edison details how much it plans to pay Eaton fire victims",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -5160,8 +5172,8 @@
     "pubdate": "2025-09-17-10-03-18 +0000"
   },
   {
-    "headline": "'It's all at stake': As Prop. 50 fight intensifies, Newsom, partisan influencers rally their bases",
-    "link": "https://www.latimes.com/california/story/2025-09-17/redistricting-prop-50-newsom-warren-schwarzenegger",
+    "headline": "A Pride flag at half-staff to honor Charlie Kirk: Trump order to lower flags spurs SoCal furor",
+    "link": "https://www.latimes.com/california/story/2025-09-17/trumps-order-to-lower-flags-in-honor-of-charlie-kirk-sparks-controversy",
     "source": "latimes",
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
@@ -5172,8 +5184,8 @@
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
   {
-    "headline": "A Pride flag at half-staff to honor Charlie Kirk: Trump order to lower flags spurs SoCal furor",
-    "link": "https://www.latimes.com/california/story/2025-09-17/trumps-order-to-lower-flags-in-honor-of-charlie-kirk-sparks-controversy",
+    "headline": "'It's all at stake': As Prop. 50 fight intensifies, Newsom, partisan influencers rally their bases",
+    "link": "https://www.latimes.com/california/story/2025-09-17/redistricting-prop-50-newsom-warren-schwarzenegger",
     "source": "latimes",
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
@@ -5196,14 +5208,14 @@
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
   {
-    "headline": "A Pride flag at half-staff to honor Charlie Kirk: Trump order to lower flags spurs SoCal furor",
-    "link": "https://www.latimes.com/california/story/2025-09-17/trumps-order-to-lower-flags-in-honor-of-charlie-kirk-sparks-controversy",
+    "headline": "Chabria: Charlie Kirk gave young men something to believe in. Newsom wants to do the same",
+    "link": "https://www.latimes.com/california/story/2025-09-17/chabria-column-gavin-newsom-mentorship-program",
     "source": "latimes",
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: Charlie Kirk gave young men something to believe in. Newsom wants to do the same",
-    "link": "https://www.latimes.com/california/story/2025-09-17/chabria-column-gavin-newsom-mentorship-program",
+    "headline": "A Pride flag at half-staff to honor Charlie Kirk: Trump order to lower flags spurs SoCal furor",
+    "link": "https://www.latimes.com/california/story/2025-09-17/trumps-order-to-lower-flags-in-honor-of-charlie-kirk-sparks-controversy",
     "source": "latimes",
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
@@ -5232,6 +5244,12 @@
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
   {
+    "headline": "'It's all at stake': As Prop. 50 fight intensifies, Newsom, partisan influencers rally their bases",
+    "link": "https://www.latimes.com/california/story/2025-09-17/redistricting-prop-50-newsom-warren-schwarzenegger",
+    "source": "latimes",
+    "pubdate": "2025-09-17-10-00-00 +0000"
+  },
+  {
     "headline": "Did L.A. wildfire debris worsen this year's toxic algal bloom? Researchers say it's unlikely",
     "link": "https://www.latimes.com/environment/story/2025-09-17/algae-bloom-southern-california-january-fires",
     "source": "latimes",
@@ -5240,12 +5258,6 @@
   {
     "headline": "Pentagon plan pits U.S. Marines against California off-roaders and civilian pilots",
     "link": "https://www.latimes.com/california/story/2025-09-17/pentagon-airspace-proposal-marines-off-road",
-    "source": "latimes",
-    "pubdate": "2025-09-17-10-00-00 +0000"
-  },
-  {
-    "headline": "'It's all at stake': As Prop. 50 fight intensifies, Newsom, partisan influencers rally their bases",
-    "link": "https://www.latimes.com/california/story/2025-09-17/redistricting-prop-50-newsom-warren-schwarzenegger",
     "source": "latimes",
     "pubdate": "2025-09-17-10-00-00 +0000"
   },
@@ -5790,8 +5802,8 @@
     "pubdate": "2025-09-16-10-00-00 +0000"
   },
   {
-    "headline": "These L.A.-area community colleges are the best return on investment, study shows",
-    "link": "https://www.latimes.com/california/story/2025-09-16/community-college-rankings",
+    "headline": "Arellano: Empathy is the only way forward after Charlie Kirk's death",
+    "link": "https://www.latimes.com/california/story/2025-09-16/charlie-kirk-assassination-empathy",
     "source": "latimes",
     "pubdate": "2025-09-16-10-00-00 +0000"
   },
@@ -5802,8 +5814,8 @@
     "pubdate": "2025-09-16-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: Empathy is the only way forward after Charlie Kirk's death",
-    "link": "https://www.latimes.com/california/story/2025-09-16/charlie-kirk-assassination-empathy",
+    "headline": "These L.A.-area community colleges are the best return on investment, study shows",
+    "link": "https://www.latimes.com/california/story/2025-09-16/community-college-rankings",
     "source": "latimes",
     "pubdate": "2025-09-16-10-00-00 +0000"
   },
@@ -6114,12 +6126,6 @@
     "pubdate": "2025-09-15-17-22-42 +0000"
   },
   {
-    "headline": "‘When You Come at the King’ Review: Untouchable Persecutors",
-    "link": "https://www.wsj.com/us-news/law/when-you-come-at-the-king-review-untouchable-persecutors-a5dc328d",
-    "source": "wsj",
-    "pubdate": "2025-09-15-17-17-00 +0000"
-  },
-  {
     "headline": "Hermeto Pascoal, Prolific Brazilian Composer, Dies at 89",
     "link": "https://www.nytimes.com/2025/09/14/arts/music/hermeto-pascoal-dead.html",
     "source": "nyt",
@@ -6252,20 +6258,14 @@
     "pubdate": "2025-09-15-10-22-00 +0000"
   },
   {
-    "headline": "California will fare better than other states as Trump guts climate reporting rules",
-    "link": "https://www.latimes.com/environment/story/2025-09-15/trump-epa-greenhouse-gas-reporting-what-it-means-for-california",
-    "source": "latimes",
-    "pubdate": "2025-09-15-10-00-00 +0000"
-  },
-  {
     "headline": "Edison electric bills set to rise 10% under state plan. More hikes coming soon",
     "link": "https://www.latimes.com/environment/story/2025-09-15/la-fi-edison-rate-hikes",
     "source": "latimes",
     "pubdate": "2025-09-15-10-00-00 +0000"
   },
   {
-    "headline": "Retro movies are hitting big at the box office. Why cinephiles and theaters are going back in time",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-15/movie-theater-anniversary-screenings-rereleases-jaws-twilight-back-to-the-future-toy-story",
+    "headline": "California will fare better than other states as Trump guts climate reporting rules",
+    "link": "https://www.latimes.com/environment/story/2025-09-15/trump-epa-greenhouse-gas-reporting-what-it-means-for-california",
     "source": "latimes",
     "pubdate": "2025-09-15-10-00-00 +0000"
   },
@@ -6276,20 +6276,20 @@
     "pubdate": "2025-09-15-10-00-00 +0000"
   },
   {
+    "headline": "Retro movies are hitting big at the box office. Why cinephiles and theaters are going back in time",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-15/movie-theater-anniversary-screenings-rereleases-jaws-twilight-back-to-the-future-toy-story",
+    "source": "latimes",
+    "pubdate": "2025-09-15-10-00-00 +0000"
+  },
+  {
     "headline": "Edison electric bills set to rise 10% under state plan. More hikes coming soon",
     "link": "https://www.latimes.com/environment/story/2025-09-15/la-fi-edison-rate-hikes",
     "source": "latimes",
     "pubdate": "2025-09-15-10-00-00 +0000"
   },
   {
-    "headline": "Here are the details of Trump's $1.2-billion call to remake UCLA in a conservative image",
-    "link": "https://www.latimes.com/california/story/2025-09-15/trump-doj-proposed-settlement-demand-letter-ucla-university-of-california",
-    "source": "latimes",
-    "pubdate": "2025-09-15-10-00-00 +0000"
-  },
-  {
-    "headline": "Water bills in L.A. County are rising faster than inflation, UCLA research shows",
-    "link": "https://www.latimes.com/environment/story/2025-09-15/ucla-southern-california-drinking-water-study",
+    "headline": "'All of a sudden, kaboom!' Why lightning is so terrifying on California's highest peaks",
+    "link": "https://www.latimes.com/california/story/2025-09-15/lightning-terror-california-sierra-summits",
     "source": "latimes",
     "pubdate": "2025-09-15-10-00-00 +0000"
   },
@@ -6622,11 +6622,5 @@
     "link": "https://www.latimes.com/california/story/2025-09-13/lopez-column-immigration-raids-price-we-all-pay",
     "source": "latimes",
     "pubdate": "2025-09-13-12-00-00 +0000"
-  },
-  {
-    "headline": "South Africa inflict record defeat on New Zealand",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cpd9e3028elo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-13-11-48-10 +0000"
   }
 ]
