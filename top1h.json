@@ -1,58 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2025-09-20-08-45-46 +0000",
-    "source": "bbc",
-    "headline": "Malawi police arrest eight for alleged election fraud",
-    "link": "https://www.bbc.com/news/articles/cx239dj0yx7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-20-08-44-30 +0000",
-    "source": "nypost",
-    "headline": "Disturbing video shows Florida senior citizen, 83, stabbing property manager during bloody argument",
-    "link": "https://nypost.com/2025/09/20/us-news/florida-man-john-gula-83-stabs-miami-senior-living-landlord-amelia-sola-ortiz-during-argument-police/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-20-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Canada needs all evidence assessed before recognizing genocide in Gaza, says new UN ambassador",
-    "link": "https://www.cbc.ca/news/politics/canada-gaza-genocide-david-lametti-un-ambassador-1.7638638?cmp=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-09-20-08-40-50 +0000",
-    "source": "startribune",
-    "headline": "Pablo López departs after four innings because of injury as Twins fall to surging Guardians 6-2",
-    "link": "https://www.startribune.com/pablo-lopez-departs-after-four-innings-because-of-injury-as-twins-fall-to-surging-guardians-6-2/601346056"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-20-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Carney's 'Buy Canadian' policy expected to be fully in place next year: source",
-    "link": "https://www.cbc.ca/news/politics/buy-canadian-policy-tariffs-2026-1.7636363?cmp=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-09-20-08-21-49 +0000",
-    "source": "nypost",
-    "headline": "Russia launches large-scale attack on Ukraine, killing 3 and injuring dozens",
-    "link": "https://nypost.com/2025/09/20/world-news/russia-launches-large-scale-attack-on-ukraine-killing-3-and-injuring-dozens/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-20-08-40-00 +0000",
+    "score": 29,
+    "pubdate": "2025-09-20-09-30-00 +0000",
     "source": "wsj",
-    "headline": "NATO Planes Intercept Russian Jet Fighters Over Estonia",
-    "link": "https://www.wsj.com/world/europe/nato-planes-intercept-russian-jet-fighters-over-estonia-fae5c61a"
+    "headline": "President Trump’s speech to the U.N. General Assembly will tout his assertion of unilateral U.S. power abroad to a global body where his administration has surrendered much of its once-leading role",
+    "link": "https://www.wsj.com/politics/policy/trumps-u-n-speech-to-tout-achievements-at-a-place-where-he-has-given-up-influence-ffaad09f"
   },
   {
-    "score": 0,
-    "pubdate": "2025-09-20-08-45-46 +0000",
+    "score": 21,
+    "pubdate": "2025-09-20-09-00-05 +0000",
+    "source": "nyt",
+    "headline": "How Oil Sanctions Made Russia’s Shadow Fleet Swell",
+    "link": "https://www.nytimes.com/2025/09/20/world/europe/russia-shadow-fleet-oil-sanctions-ukraine-war.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-09-20-09-02-02 +0000",
+    "source": "nyt",
+    "headline": "Dozens of Nations Support France’s Mideast Peace Plan, but Not the Crucial Two",
+    "link": "https://www.nytimes.com/2025/09/20/world/middleeast/france-palestinian-state-peace-plan.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-09-20-09-02-25 +0000",
+    "source": "nyt",
+    "headline": "Inside The Times’s Reporting and Judgment Calls on Charlie Kirk’s Assassination",
+    "link": "https://www.nytimes.com/2025/09/20/us/charlie-kirk-shooting-news-coverage.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-20-09-02-10 +0000",
+    "source": "nyt",
+    "headline": "Inspired by Conservative Tactics, an Obscure Group Seeks Sway for Democrats",
+    "link": "https://www.nytimes.com/2025/09/20/us/politics/pipeline-fund-democrats-local-elections.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-20-09-00-22 +0000",
+    "source": "nyt",
+    "headline": "Some Europeans Fear Trump Aides Want a Far-Right Takeover",
+    "link": "https://www.nytimes.com/2025/09/20/world/europe/trump-europe-far-right.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-20-09-19-26 +0000",
     "source": "bbc",
-    "headline": "Malawi police arrest eight for alleged election fraud",
-    "link": "https://www.bbc.com/news/articles/cx239dj0yx7o?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump adds $100,000 fee for skilled worker visa applicants",
+    "link": "https://www.bbc.com/news/articles/cm2zk4l8g26o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-20-09-02-01 +0000",
+    "source": "nyt",
+    "headline": "How Poland Scrambled the NATO Jets to Shoot Down Russian Drones",
+    "link": "https://www.nytimes.com/2025/09/20/world/europe/poland-drones-russia-nato.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-20-09-00-42 +0000",
+    "source": "nyt",
+    "headline": "U.S. Is Losing Race to Return to Moon, Critics Say, Pointing at SpaceX",
+    "link": "https://www.nytimes.com/2025/09/20/us/politics/spacex-us-moon-race.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-20-09-00-26 +0000",
+    "source": "nyt",
+    "headline": "They Helped Oust a Dictator. Now the New Regime Is Coming for Them.",
+    "link": "https://www.nytimes.com/2025/09/20/world/americas/nicaragua-ortega-arrests.html"
   }
 ]
