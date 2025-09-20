@@ -1,6 +1,6 @@
 [
   {
-    "score": 163,
+    "score": 155,
     "pubdate": "2025-09-20-00-32-00 +0000",
     "source": "wsj",
     "headline": "A top federal prosecutor who has been under pressure to bring criminal charges against New York Attorney General Letitia James, a vocal Trump critic, is resigning after the president said he wanted him ousted",
@@ -14,28 +14,21 @@
     "link": "https://www.wsj.com/us-news/erika-kirk-charlie-widow-turning-point-usa-9030afff"
   },
   {
-    "score": 78,
+    "score": 79,
     "pubdate": "2025-09-20-19-50-05 +0000",
     "source": "nypost",
     "headline": "White House rips Barack Obama for suggesting Trump had a hand in Jimmy Kimmel’s show being yanked",
     "link": "https://nypost.com/2025/09/20/us-news/white-house-slams-barack-obama-for-suggesting-trump-had-something-to-do-with-jimmy-kimmels-show-being-yanked/"
   },
   {
-    "score": 50,
-    "pubdate": "2025-09-20-15-22-28 +0000",
-    "source": "nypost",
-    "headline": "Q&A: NYC Mayor Eric Adams calls Jews his secret weapon in longshot re-election bid, dubs Mamdani a phony",
-    "link": "https://nypost.com/2025/09/20/us-news/q-amp-a-nyc-mayor-eric-adams-calls-jews-his-secret-weapon-in-longshot-re-election-bid-dubs-mamdani-a-phony/"
-  },
-  {
-    "score": 49,
+    "score": 56,
     "pubdate": "2025-09-20-20-04-18 +0000",
     "source": "nypost",
     "headline": "White House tries easing panic over high-skill H1-B visa crackdown, says new $100 K fee won’t apply to existing visa holders",
     "link": "https://nypost.com/2025/09/20/us-news/white-house-tries-easing-panic-over-high-skill-h1-b-visa-crackdown-says-new-100-k-fee-wont-apply-to-existing-visa-holders/"
   },
   {
-    "score": 47,
+    "score": 48,
     "pubdate": "2025-09-20-12-00-00 +0000",
     "source": "latimes",
     "headline": "Lopez: Don't hold your breath, but as raids stifle economy, Trump proves case for immigration reform",
@@ -56,6 +49,13 @@
     "link": "https://www.bbc.com/news/articles/crme4pv224wo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 39,
+    "pubdate": "2025-09-20-01-21-29 +0000",
+    "source": "nyt",
+    "headline": "Trump and China Suggest TikTok Deal Could Move Ahead in Vague Statements",
+    "link": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html"
+  },
+  {
     "score": 38,
     "pubdate": "2025-09-20-00-34-50 +0000",
     "source": "cbc",
@@ -63,10 +63,10 @@
     "link": "https://www.cbc.ca/news/politics/canada-gaza-genocide-david-lametti-un-ambassador-1.7638638?cmp=rss"
   },
   {
-    "score": 37,
-    "pubdate": "2025-09-20-21-33-56 +0000",
+    "score": 36,
+    "pubdate": "2025-09-20-15-22-28 +0000",
     "source": "nypost",
-    "headline": "High-speed police chase ends in deadly shootout outside California In-N-Out Burger with murder suspect",
-    "link": "https://nypost.com/2025/09/20/us-news/massive-high-speed-police-chase-ends-in-deadly-shootout-with-homicide-suspect-outside-california-in-n-out/"
+    "headline": "Q&A: NYC Mayor Eric Adams calls Jews his secret weapon in longshot re-election bid, dubs Mamdani a phony",
+    "link": "https://nypost.com/2025/09/20/us-news/q-amp-a-nyc-mayor-eric-adams-calls-jews-his-secret-weapon-in-longshot-re-election-bid-dubs-mamdani-a-phony/"
   }
 ]
