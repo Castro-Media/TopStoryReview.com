@@ -1,6 +1,6 @@
 [
   {
-    "score": 271,
+    "score": 266,
     "pubdate": "2025-09-20-00-32-00 +0000",
     "source": "wsj",
     "headline": "A top federal prosecutor who has been under pressure to bring criminal charges against New York Attorney General Letitia James, a vocal Trump critic, is resigning after the president said he wanted him ousted",
@@ -14,7 +14,7 @@
     "link": "https://nypost.com/2025/09/19/media/bill-maher-says-jimmy-kimmel-was-wrong-to-suggest-charlie-kirks-killer-supported-maga-as-he-blasts-ex-network-over-suspension/"
   },
   {
-    "score": 87,
+    "score": 84,
     "pubdate": "2025-09-19-21-31-00 +0000",
     "source": "wsj",
     "headline": "Senate Democrats blocked Republicans’ stopgap measure keeping the government funded until late November, setting up a down-to-the wire negotiation over how to avoid a government shutdown in two weeks",
@@ -28,14 +28,14 @@
     "link": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2025-09-20-00-35-15 +0000",
     "source": "nypost",
-    "headline": "Anti-ICE protesters arrested — hit with tear gas, pepper balls — during clash with federal agents outside Chicago facility",
+    "headline": "Dem mayor, anti-ICE protesters hit with tear gas, pepper balls during clash with federal agents outside Chicago facility",
     "link": "https://nypost.com/2025/09/19/us-news/anti-ice-protesters-arrested-during-clash-with-federal-agents-outside-chicago-facility/"
   },
   {
-    "score": 61,
+    "score": 60,
     "pubdate": "2025-09-19-20-21-00 +0000",
     "source": "wsj",
     "headline": "Trump administration officials are in discussions with the Taliban about re-establishing a small U.S. military presence at Afghanistan’s Bagram Air Base as a launch point for counterterrorism operations",
@@ -49,18 +49,11 @@
     "link": "https://www.wsj.com/economy/central-banking/fed-reserve-rate-cut-national-debt-interest-157d3ff1"
   },
   {
-    "score": 50,
-    "pubdate": "2025-09-19-22-35-37 +0000",
+    "score": 51,
+    "pubdate": "2025-09-20-04-20-06 +0000",
     "source": "bbc",
     "headline": "Estonia seeks Nato consultation after Russian jets violate airspace",
     "link": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-09-19-15-00-00 +0000",
-    "source": "wsj",
-    "headline": "To teach her high-school students about economics, Rachel Money has them play a modified game of Monopoly. Some come away angry.",
-    "link": "https://www.wsj.com/us-news/education/how-teacher-schools-capitalism-5abcacdb"
   },
   {
     "score": 44,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Ted Cruz rips FCC’s Brendan Carr, compares him to Mafia boss for Jimmy Kimmel attacks: ‘Right out of Goodfellas’",
     "link": "https://nypost.com/2025/09/19/business/ted-cruz-compares-fccs-brendan-carr-to-mafia-boss-for-jimmy-kimmel-attacks/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-09-19-15-00-00 +0000",
+    "source": "wsj",
+    "headline": "To teach her high-school students about economics, Rachel Money has them play a modified game of Monopoly. Some come away angry.",
+    "link": "https://www.wsj.com/us-news/education/how-teacher-schools-capitalism-5abcacdb"
   }
 ]
