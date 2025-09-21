@@ -1,13 +1,13 @@
 [
   {
-    "score": 112,
+    "score": 96,
     "pubdate": "2025-09-20-19-50-05 +0000",
     "source": "nypost",
     "headline": "White House rips Barack Obama for suggesting Trump had a hand in Jimmy Kimmel’s show being yanked",
     "link": "https://nypost.com/2025/09/20/us-news/white-house-slams-barack-obama-for-suggesting-trump-had-something-to-do-with-jimmy-kimmels-show-being-yanked/"
   },
   {
-    "score": 80,
+    "score": 62,
     "pubdate": "2025-09-20-20-04-18 +0000",
     "source": "nypost",
     "headline": "White House tries easing panic over high-skill H1-B visa crackdown, says new $100 K fee won’t apply to existing visa holders",
@@ -28,13 +28,6 @@
     "link": "https://www.latimes.com/california/story/2025-09-20/newsom-signs-immigration-bills"
   },
   {
-    "score": 40,
-    "pubdate": "2025-09-20-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s speech to the U.N. General Assembly will tout his assertion of unilateral U.S. power abroad to a global body where his administration has surrendered much of its once-leading role",
-    "link": "https://www.wsj.com/politics/policy/trumps-u-n-speech-to-tout-achievements-at-a-place-where-he-has-given-up-influence-ffaad09f"
-  },
-  {
     "score": 37,
     "pubdate": "2025-09-21-04-17-42 +0000",
     "source": "bbc",
@@ -42,11 +35,11 @@
     "link": "https://www.bbc.com/news/videos/cvg998q0557o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2025-09-20-21-33-56 +0000",
-    "source": "nypost",
-    "headline": "High-speed police chase ends in deadly shootout outside California In-N-Out Burger with murder suspect",
-    "link": "https://nypost.com/2025/09/20/us-news/massive-high-speed-police-chase-ends-in-deadly-shootout-with-homicide-suspect-outside-california-in-n-out/"
+    "score": 37,
+    "pubdate": "2025-09-20-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s speech to the U.N. General Assembly will tout his assertion of unilateral U.S. power abroad to a global body where his administration has surrendered much of its once-leading role",
+    "link": "https://www.wsj.com/politics/policy/trumps-u-n-speech-to-tout-achievements-at-a-place-where-he-has-given-up-influence-ffaad09f"
   },
   {
     "score": 35,
@@ -56,7 +49,14 @@
     "link": "https://nypost.com/2025/09/20/us-news/chuck-schumer-and-hakeem-jeffries-demand-meeting-with-trump-as-government-shutdown-deadline-nears/"
   },
   {
-    "score": 33,
+    "score": 35,
+    "pubdate": "2025-09-20-21-33-56 +0000",
+    "source": "nypost",
+    "headline": "High-speed police chase ends in deadly shootout outside California In-N-Out Burger with murder suspect",
+    "link": "https://nypost.com/2025/09/20/us-news/massive-high-speed-police-chase-ends-in-deadly-shootout-with-homicide-suspect-outside-california-in-n-out/"
+  },
+  {
+    "score": 34,
     "pubdate": "2025-09-21-00-37-05 +0000",
     "source": "bbc",
     "headline": "Murdered Kenyan's friends want UK soldier to face justice",
@@ -64,9 +64,9 @@
   },
   {
     "score": 33,
-    "pubdate": "2025-09-20-23-02-17 +0000",
+    "pubdate": "2025-09-20-15-30-15 +0000",
     "source": "bbc",
-    "headline": "Why Starmer decided the time was right to recognise a Palestinian state",
-    "link": "https://www.bbc.com/news/articles/cp9848kxp2go?at_medium=RSS&at_campaign=rss"
+    "headline": "Ukraine says three killed in 'massive' Russian aerial attack",
+    "link": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss"
   }
 ]
