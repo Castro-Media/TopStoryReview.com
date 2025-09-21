@@ -1,31 +1,38 @@
 [
   {
-    "score": 98,
+    "score": 99,
     "pubdate": "2025-09-20-19-50-05 +0000",
     "source": "nypost",
     "headline": "White House rips Barack Obama for suggesting Trump had a hand in Jimmy Kimmel’s show being yanked",
     "link": "https://nypost.com/2025/09/20/us-news/white-house-slams-barack-obama-for-suggesting-trump-had-something-to-do-with-jimmy-kimmels-show-being-yanked/"
   },
   {
-    "score": 62,
-    "pubdate": "2025-09-20-20-04-18 +0000",
-    "source": "nypost",
-    "headline": "White House tries easing panic over high-skill H1-B visa crackdown, says new $100 K fee won’t apply to existing visa holders",
-    "link": "https://nypost.com/2025/09/20/us-news/white-house-tries-easing-panic-over-high-skill-h1-b-visa-crackdown-says-new-100-k-fee-wont-apply-to-existing-visa-holders/"
-  },
-  {
-    "score": 57,
+    "score": 66,
     "pubdate": "2025-09-21-00-48-31 +0000",
     "source": "nyt",
     "headline": "Arrest in Arizona Before Charlie Kirk Memorial Heightens Security Concerns",
     "link": "https://www.nytimes.com/2025/09/20/us/charlie-kirk-memorial-security-arizona.html"
   },
   {
-    "score": 41,
+    "score": 65,
+    "pubdate": "2025-09-20-20-04-18 +0000",
+    "source": "nypost",
+    "headline": "White House tries easing panic over high-skill H1-B visa crackdown, says new $100 K fee won’t apply to existing visa holders",
+    "link": "https://nypost.com/2025/09/20/us-news/white-house-tries-easing-panic-over-high-skill-h1-b-visa-crackdown-says-new-100-k-fee-wont-apply-to-existing-visa-holders/"
+  },
+  {
+    "score": 42,
     "pubdate": "2025-09-20-21-08-30 +0000",
     "source": "latimes",
     "headline": "'We're not North Korea.' Newsom signs bills to limit immigration raids at schools and unmask federal agents",
     "link": "https://www.latimes.com/california/story/2025-09-20/newsom-signs-immigration-bills"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-09-20-21-33-56 +0000",
+    "source": "nypost",
+    "headline": "High-speed police chase ends in deadly shootout outside California In-N-Out Burger with murder suspect",
+    "link": "https://nypost.com/2025/09/20/us-news/massive-high-speed-police-chase-ends-in-deadly-shootout-with-homicide-suspect-outside-california-in-n-out/"
   },
   {
     "score": 38,
@@ -35,13 +42,6 @@
     "link": "https://www.bbc.com/news/articles/c4g5kl0n5d2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
-    "pubdate": "2025-09-20-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s speech to the U.N. General Assembly will tout his assertion of unilateral U.S. power abroad to a global body where his administration has surrendered much of its once-leading role",
-    "link": "https://www.wsj.com/politics/policy/trumps-u-n-speech-to-tout-achievements-at-a-place-where-he-has-given-up-influence-ffaad09f"
-  },
-  {
     "score": 36,
     "pubdate": "2025-09-21-04-17-42 +0000",
     "source": "bbc",
@@ -49,11 +49,11 @@
     "link": "https://www.bbc.com/news/videos/cvg998q0557o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2025-09-20-21-33-56 +0000",
+    "score": 35,
+    "pubdate": "2025-09-21-01-22-42 +0000",
     "source": "nypost",
-    "headline": "High-speed police chase ends in deadly shootout outside California In-N-Out Burger with murder suspect",
-    "link": "https://nypost.com/2025/09/20/us-news/massive-high-speed-police-chase-ends-in-deadly-shootout-with-homicide-suspect-outside-california-in-n-out/"
+    "headline": "Elon Musk resurfaces Harris tweet calling for Trump to be booted from Twitter in 2019 as she claims ‘free speech’ over Kimmel suspension",
+    "link": "https://nypost.com/2025/09/20/us-news/elon-musk-resurfaces-kamala-harris-tweet-calling-for-trump-to-be-suspended-from-x-in-2019-amid-kimmel-drama/"
   },
   {
     "score": 34,
@@ -64,9 +64,9 @@
   },
   {
     "score": 34,
-    "pubdate": "2025-09-20-20-44-23 +0000",
-    "source": "nypost",
-    "headline": "Chuck Schumer and Hakeem Jeffries ‘demand’ meeting with Trump after Dems stopped bill to avert looming shutdown",
-    "link": "https://nypost.com/2025/09/20/us-news/chuck-schumer-and-hakeem-jeffries-demand-meeting-with-trump-as-government-shutdown-deadline-nears/"
+    "pubdate": "2025-09-21-05-01-20 +0000",
+    "source": "bbc",
+    "headline": "Israel will occupy more West Bank land, but recognition matters, mayor tells BBC",
+    "link": "https://www.bbc.com/news/articles/c0ez9qxzl2jo?at_medium=RSS&at_campaign=rss"
   }
 ]
