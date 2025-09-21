@@ -1,92 +1,98 @@
 [
   {
-    "headline": "Live: Dave Matthews  and Sierra Ferrell join Lukas Nelson at Farm Aid 40",
-    "link": "https://www.startribune.com/live-farm-aid-40-kicks-off-at-huntington-bank-stadium-in-minneapolis/601475512",
-    "source": "startribune",
-    "pubdate": "2025-09-20-22-44-07 +0000"
-  },
-  {
-    "headline": "Rock legend Andy Summers takes aim with a different instrument",
-    "link": "https://48hills.org/2025/09/rock-legend-andy-summers-takes-aim-with-a-different-instrument/",
-    "source": "48hills",
-    "pubdate": "2025-09-20-22-41-17 +0000"
-  },
-  {
-    "headline": "Trump Justice Dept. Closed Investigation Into Tom Homan for Accepting Bag of Cash",
-    "link": "https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-22-38-30 +0000"
-  },
-  {
-    "headline": "Trump Justice Dept. Closed Investigation Into Tom Homan for Accepting Bag of Cash",
-    "link": "https://www.nytimes.com/2025/09/20/us/politics/tom-homan-fbi-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-22-38-30 +0000"
-  },
-  {
-    "headline": "Trump’s $100,000 H1-B Visa Fee Spurs Confusion and Chaos for Companies",
-    "link": "https://www.nytimes.com/2025/09/20/business/trump-h1b-visas-fee-employees.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-22-38-05 +0000"
-  },
-  {
-    "headline": "Tech CEO falls 3,000 feet to his death while climbing California’s Mt. Shasta: reports",
-    "link": "https://nypost.com/2025/09/20/us-news/tech-ceo-falls-2000-feet-to-his-death-on-shasta-mountain-reports/",
+    "headline": "Calif. Gov. Newsom signs anti-ICE bill banning masks statewide",
+    "link": "https://nypost.com/2025/09/20/us-news/california-bans-all-masking-including-by-ice-agents/",
     "source": "nypost",
-    "pubdate": "2025-09-20-22-36-57 +0000"
+    "pubdate": "2025-09-20-23-52-13 +0000"
   },
   {
-    "headline": "Equipment Outage Disrupts More Than 1,000 Flights at Dallas Airports",
-    "link": "https://www.nytimes.com/2025/09/20/us/dallas-airports-flight-disruptions.html",
+    "headline": "Arrest in Arizona Before Charlie Kirk Memorial Heightens Security Concerns",
+    "link": "https://www.nytimes.com/2025/09/20/us/charlie-kirk-memorial-security-arizona.html",
     "source": "nyt",
-    "pubdate": "2025-09-20-22-32-32 +0000"
+    "pubdate": "2025-09-20-23-48-19 +0000"
   },
   {
-    "headline": "Equipment Outage Disrupts More Than 1,000 Flights at Dallas Airports",
-    "link": "https://www.nytimes.com/2025/09/20/us/dallas-airports-flight-disruptions.html",
+    "headline": "Why Russia Revived a Cold War-Era Song Contest",
+    "link": "https://www.nytimes.com/2025/09/20/arts/music/intervision-song-contest.html",
     "source": "nyt",
-    "pubdate": "2025-09-20-22-32-32 +0000"
+    "pubdate": "2025-09-20-23-42-52 +0000"
   },
   {
-    "headline": "White House outlines TikTok deal that would give US control of algorithm",
-    "link": "https://www.bbc.com/news/articles/c89dd747yz7o?at_medium=RSS&at_campaign=rss",
+    "headline": "Charlie Kirk, the conservative influencer who became the voice of MAGA youth",
+    "link": "https://www.bbc.com/news/articles/cdxqnkwerj7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-20-22-19-16 +0000"
+    "pubdate": "2025-09-20-23-28-44 +0000"
   },
   {
-    "headline": "White House outlines TikTok deal that would give US control of algorithm",
-    "link": "https://www.bbc.com/news/articles/c89dd747yz7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-20-22-19-16 +0000"
+    "headline": "With Ouster, Justice Dept. Independence Teeters as Trump Exerts Control",
+    "link": "https://www.nytimes.com/2025/09/20/us/politics/trump-justice-department-us-attorneys.html",
+    "source": "nyt",
+    "pubdate": "2025-09-20-23-25-28 +0000"
   },
   {
-    "headline": "Trump administration cancels annual hunger survey",
-    "link": "https://www.wsj.com/economy/trump-administration-cancels-annual-hunger-survey-ca3d3793",
-    "source": "wsj",
-    "pubdate": "2025-09-20-22-18-00 +0000"
-  },
-  {
-    "headline": "‘Pioneering’ police Det. Mary ‘Mae’ Foley honored with NYC street renaming",
-    "link": "https://nypost.com/2025/09/20/us-news/pioneering-police-det-mary-mae-foley-honored-with-nyc-street-renaming/",
-    "source": "nypost",
-    "pubdate": "2025-09-20-22-16-32 +0000"
-  },
-  {
-    "headline": "The Trump administration’s moves to upend the immigration system set off a wave of anxiety and confusion this weekend as workers and employers raced to respond ahead of a key Sunday deadline",
-    "link": "https://www.wsj.com/politics/policy/trumps-100-000-h-1b-visa-fee-sets-off-scramble-across-corporate-america-adb14a3c",
-    "source": "wsj",
-    "pubdate": "2025-09-20-22-11-00 +0000"
-  },
-  {
-    "headline": "Trump’s $100,000 H-1B Visa Fee Sets Off Scramble Across Corporate America",
-    "link": "https://www.wsj.com/politics/policy/trumps-100-000-h-1b-visa-fee-sets-off-scramble-across-corporate-america-adb14a3c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-20-22-11-00 +0000"
+    "headline": "With Ouster, Justice Dept. Independence Teeters as Trump Exerts Control",
+    "link": "https://www.nytimes.com/2025/09/20/us/politics/trump-justice-department-us-attorneys.html",
+    "source": "nyt",
+    "pubdate": "2025-09-20-23-25-28 +0000"
   },
   {
     "headline": "4 Men Sentenced in Warrant Scam Targeting Women From Prison",
     "link": "https://www.nytimes.com/2025/09/20/us/warrant-scam-prison.html",
     "source": "nyt",
-    "pubdate": "2025-09-20-22-05-15 +0000"
+    "pubdate": "2025-09-20-23-16-07 +0000"
+  },
+  {
+    "headline": "California bans federal agents from using masks to hide their faces",
+    "link": "https://www.washingtonpost.com/nation/2025/09/20/california-ice-face-mask-ban/",
+    "source": "wapo",
+    "pubdate": "2025-09-20-23-13-40 +0000"
+  },
+  {
+    "headline": "White House scrambles to clarify Trump plan to add $100K fee to visas for highly skilled workers",
+    "link": "https://www.cbc.ca/news/world/trump-travel-ban-1.7639454?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-20-23-11-48 +0000"
+  },
+  {
+    "headline": "Pedestrian dead after being pinned under car near NYC expressway",
+    "link": "https://nypost.com/2025/09/20/us-news/pedestrian-dead-after-tragic-queens-accident-near-van-wyck-expressway/",
+    "source": "nypost",
+    "pubdate": "2025-09-20-23-08-21 +0000"
+  },
+  {
+    "headline": "Live: Dave Matthews, Sierra Ferrell join Lukas Nelson at Farm Aid 40",
+    "link": "https://www.startribune.com/live-farm-aid-40-kicks-off-at-huntington-bank-stadium-in-minneapolis/601475512",
+    "source": "startribune",
+    "pubdate": "2025-09-20-23-06-04 +0000"
+  },
+  {
+    "headline": "One of Minnesota’s Hautman brothers wins the Federal Duck Stamp Art Contest again",
+    "link": "https://www.startribune.com/one-of-minnesotas-hautman-brothers-wins-the-federal-duck-stamp-art-contest-again/601477773",
+    "source": "startribune",
+    "pubdate": "2025-09-20-23-04-47 +0000"
+  },
+  {
+    "headline": "Dutch police clash with anti-immigration protesters",
+    "link": "https://www.bbc.com/news/articles/c0jqqg755wwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-04-01 +0000"
+  },
+  {
+    "headline": "Dutch police clash with anti-immigration protesters",
+    "link": "https://www.bbc.com/news/articles/c0jqqg755wwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-04-01 +0000"
+  },
+  {
+    "headline": "Heightened security as Americans gather for Kirk memorial",
+    "link": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-02-10 +0000"
+  },
+  {
+    "headline": "Heightened security as Americans gather for Kirk memorial",
+    "link": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-02-10 +0000"
   }
 ]

@@ -1,9 +1,111 @@
 [
   {
-    "headline": "Live: Dave Matthews  and Sierra Ferrell join Lukas Nelson at Farm Aid 40",
+    "headline": "Calif. Gov. Newsom signs anti-ICE bill banning masks statewide",
+    "link": "https://nypost.com/2025/09/20/us-news/california-bans-all-masking-including-by-ice-agents/",
+    "source": "nypost",
+    "pubdate": "2025-09-20-23-52-13 +0000"
+  },
+  {
+    "headline": "Arrest in Arizona Before Charlie Kirk Memorial Heightens Security Concerns",
+    "link": "https://www.nytimes.com/2025/09/20/us/charlie-kirk-memorial-security-arizona.html",
+    "source": "nyt",
+    "pubdate": "2025-09-20-23-48-19 +0000"
+  },
+  {
+    "headline": "Why Russia Revived a Cold War-Era Song Contest",
+    "link": "https://www.nytimes.com/2025/09/20/arts/music/intervision-song-contest.html",
+    "source": "nyt",
+    "pubdate": "2025-09-20-23-42-52 +0000"
+  },
+  {
+    "headline": "Charlie Kirk, the conservative influencer who became the voice of MAGA youth",
+    "link": "https://www.bbc.com/news/articles/cdxqnkwerj7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-28-44 +0000"
+  },
+  {
+    "headline": "With Ouster, Justice Dept. Independence Teeters as Trump Exerts Control",
+    "link": "https://www.nytimes.com/2025/09/20/us/politics/trump-justice-department-us-attorneys.html",
+    "source": "nyt",
+    "pubdate": "2025-09-20-23-25-28 +0000"
+  },
+  {
+    "headline": "With Ouster, Justice Dept. Independence Teeters as Trump Exerts Control",
+    "link": "https://www.nytimes.com/2025/09/20/us/politics/trump-justice-department-us-attorneys.html",
+    "source": "nyt",
+    "pubdate": "2025-09-20-23-25-28 +0000"
+  },
+  {
+    "headline": "4 Men Sentenced in Warrant Scam Targeting Women From Prison",
+    "link": "https://www.nytimes.com/2025/09/20/us/warrant-scam-prison.html",
+    "source": "nyt",
+    "pubdate": "2025-09-20-23-16-07 +0000"
+  },
+  {
+    "headline": "California bans federal agents from using masks to hide their faces",
+    "link": "https://www.washingtonpost.com/nation/2025/09/20/california-ice-face-mask-ban/",
+    "source": "wapo",
+    "pubdate": "2025-09-20-23-13-40 +0000"
+  },
+  {
+    "headline": "White House scrambles to clarify Trump plan to add $100K fee to visas for highly skilled workers",
+    "link": "https://www.cbc.ca/news/world/trump-travel-ban-1.7639454?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-20-23-11-48 +0000"
+  },
+  {
+    "headline": "Pedestrian dead after being pinned under car near NYC expressway",
+    "link": "https://nypost.com/2025/09/20/us-news/pedestrian-dead-after-tragic-queens-accident-near-van-wyck-expressway/",
+    "source": "nypost",
+    "pubdate": "2025-09-20-23-08-21 +0000"
+  },
+  {
+    "headline": "Live: Dave Matthews, Sierra Ferrell join Lukas Nelson at Farm Aid 40",
     "link": "https://www.startribune.com/live-farm-aid-40-kicks-off-at-huntington-bank-stadium-in-minneapolis/601475512",
     "source": "startribune",
-    "pubdate": "2025-09-20-22-44-07 +0000"
+    "pubdate": "2025-09-20-23-06-04 +0000"
+  },
+  {
+    "headline": "One of Minnesota’s Hautman brothers wins the Federal Duck Stamp Art Contest again",
+    "link": "https://www.startribune.com/one-of-minnesotas-hautman-brothers-wins-the-federal-duck-stamp-art-contest-again/601477773",
+    "source": "startribune",
+    "pubdate": "2025-09-20-23-04-47 +0000"
+  },
+  {
+    "headline": "Dutch police clash with anti-immigration protesters",
+    "link": "https://www.bbc.com/news/articles/c0jqqg755wwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-04-01 +0000"
+  },
+  {
+    "headline": "Dutch police clash with anti-immigration protesters",
+    "link": "https://www.bbc.com/news/articles/c0jqqg755wwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-04-01 +0000"
+  },
+  {
+    "headline": "Heightened security as Americans gather for Kirk memorial",
+    "link": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-02-10 +0000"
+  },
+  {
+    "headline": "Heightened security as Americans gather for Kirk memorial",
+    "link": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-23-02-10 +0000"
+  },
+  {
+    "headline": "Press could lose Pentagon access for releasing 'unauthorised information'",
+    "link": "https://www.bbc.com/news/articles/cwywwjevprwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-22-53-37 +0000"
+  },
+  {
+    "headline": "Press could lose Pentagon access for releasing 'unauthorised information'",
+    "link": "https://www.bbc.com/news/articles/cwywwjevprwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-20-22-53-37 +0000"
   },
   {
     "headline": "Rock legend Andy Summers takes aim with a different instrument",
@@ -34,6 +136,12 @@
     "link": "https://nypost.com/2025/09/20/us-news/tech-ceo-falls-2000-feet-to-his-death-on-shasta-mountain-reports/",
     "source": "nypost",
     "pubdate": "2025-09-20-22-36-57 +0000"
+  },
+  {
+    "headline": "Neal: Lynx preparing for Mercury team that is finally at full strength",
+    "link": "https://www.startribune.com/neal-lynx-preparing-for-mercury-team-that-is-finally-at-full-strength/601474462",
+    "source": "startribune",
+    "pubdate": "2025-09-20-22-34-40 +0000"
   },
   {
     "headline": "Equipment Outage Disrupts More Than 1,000 Flights at Dallas Airports",
@@ -84,12 +192,6 @@
     "pubdate": "2025-09-20-22-11-00 +0000"
   },
   {
-    "headline": "4 Men Sentenced in Warrant Scam Targeting Women From Prison",
-    "link": "https://www.nytimes.com/2025/09/20/us/warrant-scam-prison.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-22-05-15 +0000"
-  },
-  {
     "headline": "California Bars ICE Agents From Wearing Masks in the State",
     "link": "https://www.nytimes.com/2025/09/20/us/california-ice-agents-masks-law.html",
     "source": "nyt",
@@ -106,6 +208,12 @@
     "link": "https://www.nytimes.com/2025/09/20/world/europe/germany-munich-oktoberfest.html",
     "source": "nyt",
     "pubdate": "2025-09-20-21-44-43 +0000"
+  },
+  {
+    "headline": "Second person dies days after two mass shootings along stretch of Lake Street in Minneapolis",
+    "link": "https://www.startribune.com/woman-wounded-in-south-minneapolis-encampment-shooting-has-died-of-injuries/601477453",
+    "source": "startribune",
+    "pubdate": "2025-09-20-21-40-46 +0000"
   },
   {
     "headline": "High-speed police chase ends in deadly shootout outside California In-N-Out Burger with murder suspect",
@@ -144,18 +252,6 @@
     "pubdate": "2025-09-20-21-08-30 +0000"
   },
   {
-    "headline": "With Ouster, Justice Dept. Independence Teeters as Trump Exerts Control",
-    "link": "https://www.nytimes.com/2025/09/20/us/politics/trump-justice-department-us-attorneys.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-21-07-17 +0000"
-  },
-  {
-    "headline": "With Ouster, Justice Dept. Independence Teeters as Trump Exerts Control",
-    "link": "https://www.nytimes.com/2025/09/20/us/politics/trump-justice-department-us-attorneys.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-21-07-17 +0000"
-  },
-  {
     "headline": "Zelensky says he will meet with Trump in NYC next week",
     "link": "https://nypost.com/2025/09/20/world-news/zelensky-says-he-will-meet-with-trump-in-nyc-next-week/",
     "source": "nypost",
@@ -178,12 +274,6 @@
     "link": "https://www.nytimes.com/2025/09/20/world/europe/justice-alito-rome-religious-liberty.html",
     "source": "nyt",
     "pubdate": "2025-09-20-21-02-07 +0000"
-  },
-  {
-    "headline": "Arrest in Arizona Before Charlie Kirk Memorial Heightens Security Concerns",
-    "link": "https://www.nytimes.com/2025/09/20/us/charlie-kirk-memorial-security-arizona.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-21-02-06 +0000"
   },
   {
     "headline": "RAF jets join Nato air defence mission over Poland",
@@ -220,12 +310,6 @@
     "link": "https://nypost.com/2025/09/20/world-news/ukraine-armed-forces-releases-dramatic-footage-of-damaging-infrastructure-attacks-on-russian-oil-targets/",
     "source": "nypost",
     "pubdate": "2025-09-20-20-33-46 +0000"
-  },
-  {
-    "headline": "Joe Ryan gives up four home runs as Twins lose to Guardians in Game 1 of doubleheader",
-    "link": "https://www.startribune.com/joe-ryan-gives-up-four-home-runs-as-twins-lose-to-guardians-in-game-1-of-doubleheader/601346061",
-    "source": "startribune",
-    "pubdate": "2025-09-20-20-29-19 +0000"
   },
   {
     "headline": "Sacramento man arrested after opening fire on ABC10 news station lobby in broad daylight",
@@ -460,12 +544,6 @@
     "link": "https://www.startribune.com/twin-cities-charges-man-unleashes-sweeping-violent-threats-in-retaliation-for-charlie-kirk-killing/601477662",
     "source": "startribune",
     "pubdate": "2025-09-20-18-31-24 +0000"
-  },
-  {
-    "headline": "Why Russia Is Reviving a Cold War-Era Song Contest",
-    "link": "https://www.nytimes.com/2025/09/20/arts/music/intervision-song-contest.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-18-27-49 +0000"
   },
   {
     "headline": "India warns new US fee for H-1B visa will have 'humanitarian consequences'",
@@ -714,12 +792,6 @@
     "pubdate": "2025-09-20-15-34-35 +0000"
   },
   {
-    "headline": "Ghislaine Maxwell’s former NYC mansion hits the market for cool $18M",
-    "link": "https://nypost.com/2025/09/20/us-news/ghislaine-maxwells-upper-east-side-mansion-back-on-market/",
-    "source": "nypost",
-    "pubdate": "2025-09-20-15-30-47 +0000"
-  },
-  {
     "headline": "Ukraine says three killed in 'massive' Russian aerial attack",
     "link": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -736,12 +808,6 @@
     "link": "https://www.nytimes.com/2025/09/20/business/splurging-spending-budgeting.html",
     "source": "nyt",
     "pubdate": "2025-09-20-15-29-29 +0000"
-  },
-  {
-    "headline": "Retired cop alleges now-98-year-old NYPD doctor sexually abused him for months",
-    "link": "https://nypost.com/2025/09/20/us-news/your-future-is-in-my-hands-doctor-allegedly-claimed/",
-    "source": "nypost",
-    "pubdate": "2025-09-20-15-29-14 +0000"
   },
   {
     "headline": "What are my rights if my flight is cancelled or delayed?",
@@ -1056,14 +1122,14 @@
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "His cell-mates self-deported. He fought to get back to his family",
-    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
+    "headline": "After ICE raids surged this summer, calls to LAPD plummeted",
+    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "After ICE raids surged this summer, calls to LAPD plummeted",
-    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
+    "headline": "His cell-mates self-deported. He fought to get back to his family",
+    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -1288,12 +1354,6 @@
     "link": "https://www.washingtonpost.com/national-security/2025/09/20/trump-us-strike-drug-boat-attack/",
     "source": "wapo",
     "pubdate": "2025-09-20-05-14-17 +0000"
-  },
-  {
-    "headline": "Watch the show: ‘Strib Varsity Live With Randy Shaver’ Episode 5",
-    "link": "https://www.startribune.com/strib-varsity-live-with-randy-shaver-september-19-2025/601474612",
-    "source": "startribune",
-    "pubdate": "2025-09-20-04-40-29 +0000"
   },
   {
     "headline": "On-duty LAPD vehicle fatally strikes pedestrian in Highland Park",
@@ -1642,119 +1702,5 @@
     "link": "https://nypost.com/2025/09/19/world-news/us-strikes-venezuela-drug-trafficking-boat-enroute-to-poison-americans-trump-says/",
     "source": "nypost",
     "pubdate": "2025-09-19-23-59-44 +0000"
-  },
-  {
-    "headline": "Trump announced a move to dramatically reshape the immigration system, attaching new fees to H-1B visas and rolling out a “gold card” for those willing to pay $1 million to secure U.S. residency",
-    "link": "https://www.wsj.com/politics/policy/trump-to-add-100-000-fee-to-h-1b-visas-e41ffe48",
-    "source": "wsj",
-    "pubdate": "2025-09-19-23-43-00 +0000"
-  },
-  {
-    "headline": "Ted Cruz Accuses FCC Chair of Mafia-Like Tactics Amid Jimmy Kimmel Fallout",
-    "link": "https://www.nytimes.com/2025/09/19/us/politics/ted-cruz-fcc-abc-jimmy-kimmel.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-23-34-43 +0000"
-  },
-  {
-    "headline": "As Farm Aid Reaches 40 Years, It Deals With Familiar Farming Crises",
-    "link": "https://www.nytimes.com/2025/09/19/business/farm-aid-40-concert-farmers-crisis-hotline.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-23-34-01 +0000"
-  },
-  {
-    "headline": "Health Secretary Robert F. Kennedy Jr.’s handpicked vaccine advisers voted Friday to nix positive recommendations for Covid shots for all Americans",
-    "link": "https://www.wsj.com/politics/policy/rfk-jr-cdc-vaccine-shots-ac33ac96",
-    "source": "wsj",
-    "pubdate": "2025-09-19-23-30-00 +0000"
-  },
-  {
-    "headline": "Jimmy Kimmel foresaw his demise after second Trump win, vowed to keep ‘very important voice’ on TV right before ratings dive",
-    "link": "https://nypost.com/2025/09/19/us-news/jimmy-kimmel-predicted-his-own-demise-after-trump-win-pledged-to-keep-very-important-voice-on-tv-before-ratings-dive/",
-    "source": "nypost",
-    "pubdate": "2025-09-19-23-29-42 +0000"
-  },
-  {
-    "headline": "Former Miami US Attorney Acosta faults ‘evidentiary issues’ for infamous Epstein plea deal: House pols",
-    "link": "https://nypost.com/2025/09/19/us-news/alex-acosta-faults-evidentiary-issues-for-epstein-plea-deal-house-pols/",
-    "source": "nypost",
-    "pubdate": "2025-09-19-23-23-42 +0000"
-  },
-  {
-    "headline": "'Jesus, Take the Wheel' songwriter Brett James dies in US plane crash",
-    "link": "https://www.bbc.com/news/articles/c24rzgrez59o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-23-10-14 +0000"
-  },
-  {
-    "headline": "'The guy barely hung on when the the mud came through.' Rain, mudslides batter SoCal mountain towns.",
-    "link": "https://www.latimes.com/california/story/2025-09-19/san-bernardino-mudslide-neighborhood",
-    "source": "latimes",
-    "pubdate": "2025-09-19-23-09-24 +0000"
-  },
-  {
-    "headline": "'I'm Kenyan, don't shoot' - the athlete who says he was duped into the Russian army",
-    "link": "https://www.bbc.com/news/articles/c79vqpnqgy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-23-05-28 +0000"
-  },
-  {
-    "headline": "'I'm Kenyan, don't shoot' - the athlete who says he was duped into the Russian army",
-    "link": "https://www.bbc.com/news/articles/c79vqpnqgy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-23-05-28 +0000"
-  },
-  {
-    "headline": "'I'm Kenyan, don't shoot' - the athlete who says he was duped into the Russian army",
-    "link": "https://www.bbc.com/news/articles/c79vqpnqgy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-23-05-28 +0000"
-  },
-  {
-    "headline": "Russia's answer to Eurovision is less kitsch, more Kremlin",
-    "link": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-23-04-07 +0000"
-  },
-  {
-    "headline": "Russia's answer to Eurovision is less kitsch, more Kremlin",
-    "link": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-23-04-07 +0000"
-  },
-  {
-    "headline": "Faisal Islam: Will the US tech bromance turn around the UK economy?",
-    "link": "https://www.bbc.com/news/articles/cn4w7wp24llo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-19-23-03-55 +0000"
-  },
-  {
-    "headline": "A Week of Deepening Political Divides",
-    "link": "https://www.nytimes.com/2025/09/19/us/politics/trump-kimmel-charlie-kirk.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-23-01-03 +0000"
-  },
-  {
-    "headline": "A Week of Deepening Political Divides",
-    "link": "https://www.nytimes.com/2025/09/19/us/politics/trump-kimmel-charlie-kirk.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-23-01-03 +0000"
-  },
-  {
-    "headline": "With Calls for Retribution Over Kirk, Some See Rise of a ‘Woke Right’",
-    "link": "https://www.nytimes.com/2025/09/19/us/charlie-kirk-free-speech-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-09-19-23-00-14 +0000"
-  },
-  {
-    "headline": "One of Globalization’s Biggest Winners Navigates a Less Predictable World",
-    "link": "https://www.wsj.com/world/asia/one-of-globalizations-biggest-winners-navigates-a-less-predictable-world-2511d361",
-    "source": "wsj",
-    "pubdate": "2025-09-19-23-00-00 +0000"
-  },
-  {
-    "headline": "Man with 10 by 12 inch tumor escapes ICE detention in S.F. — for now",
-    "link": "https://missionlocal.org/2025/09/man-with-10-by-12-in-tumor-escapes-ice-detention-in-s-f-for-now/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-19-22-57-03 +0000"
   }
 ]
