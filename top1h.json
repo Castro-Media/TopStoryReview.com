@@ -1,44 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2025-09-21-07-14-37 +0000",
-    "source": "nypost",
-    "headline": "Mother ‘furious’ after Rep. Jasmine Crockett calls daughter murdered by illegal migrant a ‘random dead person’",
-    "link": "https://nypost.com/2025/09/21/us-news/maryland-mom-of-kayla-hamilton-fumes-at-crockett-for-random-dead-person-comments-after-daughter-murdered-by-illegal-immigrant/"
+    "score": 22,
+    "pubdate": "2025-09-21-08-26-04 +0000",
+    "source": "bbc",
+    "headline": "How Russian-funded fake news network aims to disrupt election in Europe - BBC investigation",
+    "link": "https://www.bbc.com/news/articles/c4g5kl0n5d2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 12,
-    "pubdate": "2025-09-21-06-59-08 +0000",
-    "source": "nypost",
-    "headline": "Sean Duffy warns Chicago, Boston transit systems could risk federal support amid rising violence",
-    "link": "https://nypost.com/2025/09/21/us-news/sean-duffy-warns-chicago-boston-transit-systems-could-risk-federal-support-amid-rising-violence/"
+    "score": 20,
+    "pubdate": "2025-09-21-08-21-05 +0000",
+    "source": "bbc",
+    "headline": "Murdered Kenyan's friends want UK soldier to face justice",
+    "link": "https://www.bbc.com/news/articles/ce3yn033xewo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 10,
-    "pubdate": "2025-09-21-07-46-51 +0000",
-    "source": "nypost",
-    "headline": "Texas school superintendent defends teachers criticized for assigning book with profanity to students",
-    "link": "https://nypost.com/2025/09/21/us-news/texas-superintendent-john-kuhn-defends-teachers-assigning-9-11-book-with-profanity-to-students/"
+    "score": 16,
+    "pubdate": "2025-09-21-08-43-00 +0000",
+    "source": "bbc",
+    "headline": "What are my rights if my flight is cancelled or delayed?",
+    "link": "https://www.bbc.com/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-21-08-29-47 +0000",
+    "source": "nyt",
+    "headline": "A Polish Soldier, an Unusual Radar Dot and Then NATO Jets",
+    "link": "https://www.nytimes.com/2025/09/20/world/europe/poland-drones-russia-nato.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-21-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "How a 'made for television' state visit gave Trump what he wanted — and acted like a 'shield' for the U.K.",
+    "link": "https://www.cbc.ca/news/world/state-visit-donald-trump-prince-harry-funeral-duchess-of-kent-1.7637562?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-21-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "As Canada prepares to recognize a Palestinian state, some in the West Bank fear it's too late",
+    "link": "https://www.cbc.ca/news/world/west-bank-palestinian-state-1.7638854?cmp=rss"
   },
   {
     "score": 8,
-    "pubdate": "2025-09-21-07-36-01 +0000",
-    "source": "nypost",
-    "headline": "Chinese COVID whistleblower Zhang Zhan sentenced to 4 more years in jail, group says",
-    "link": "https://nypost.com/2025/09/21/world-news/chinese-covid-whistleblower-zhang-zhan-sentenced-to-4-more-years-in-jail-group-says/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-21-06-58-52 +0000",
-    "source": "startribune",
-    "headline": "Country icon Willie Nelson takes the stage at Farm Aid 40",
-    "link": "https://www.startribune.com/live-farm-aid-40-kicks-off-at-huntington-bank-stadium-in-minneapolis/601475512"
+    "pubdate": "2025-09-21-08-16-05 +0000",
+    "source": "wapo",
+    "headline": "Trump ends annual report on U.S. hunger amid rising food insecurity",
+    "link": "https://www.washingtonpost.com/nation/2025/09/21/trump-usda-hunger-report-food-insecurity/"
   },
   {
     "score": 7,
-    "pubdate": "2025-09-21-07-13-14 +0000",
+    "pubdate": "2025-09-21-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "How the votes need to land to get legislation passed this parliamentary session",
+    "link": "https://www.cbc.ca/news/politics/house-of-commons-vote-breakdown-numbers-1.7638541?cmp=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-21-08-52-42 +0000",
     "source": "bbc",
-    "headline": "British couple held by Taliban arrive in UK after release",
-    "link": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss"
+    "headline": "Starmer set to announce UK recognition of Palestinian state",
+    "link": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-21-08-52-42 +0000",
+    "source": "bbc",
+    "headline": "Starmer set to announce UK recognition of Palestinian state",
+    "link": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss"
   }
 ]
