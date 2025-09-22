@@ -1,13 +1,13 @@
 [
   {
-    "score": 304,
+    "score": 302,
     "pubdate": "2025-09-21-23-18-41 +0000",
     "source": "wapo",
     "headline": "President Donald Trump called Erika Kirk, Charlie Kirk’s widow, to the stage as he wrapped up...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 80,
+    "score": 81,
     "pubdate": "2025-09-21-13-36-12 +0000",
     "source": "nypost",
     "headline": "Canada, UK and Australia all recognize Palestinian state as rebuke to Israel for Gaza war",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2025/09/21/us-news/trump-calls-charlie-kirk-one-of-americas-greatest-patriots-in-impassioned-speech-at-maga-influencers-memorial/"
   },
   {
-    "score": 53,
+    "score": 51,
     "pubdate": "2025-09-21-22-27-41 +0000",
     "source": "nypost",
     "headline": "Erika Kirk forgives assassin who killed husband Charlie: ‘He wanted to save young men — Just like the one who took his life’",
@@ -43,13 +43,6 @@
   },
   {
     "score": 40,
-    "pubdate": "2025-09-22-03-21-19 +0000",
-    "source": "nypost",
-    "headline": "New dad receives 24-year-old letter penned by his hero flight attendant mom shortly before she was killed on 9/11: ‘Very proud of him’",
-    "link": "https://nypost.com/2025/09/21/us-news/new-dad-receives-24-year-old-letter-penned-by-his-hero-flight-attendant-mom-shortly-before-she-was-killed-on-9-11/"
-  },
-  {
-    "score": 39,
     "pubdate": "2025-09-22-05-50-32 +0000",
     "source": "bbc",
     "headline": "European airport disruption continues after weekend cyber-attack",
@@ -63,10 +56,17 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 35,
-    "pubdate": "2025-09-21-08-26-04 +0000",
-    "source": "bbc",
-    "headline": "How Russian-funded fake news network aims to disrupt election in Europe - BBC investigation",
-    "link": "https://www.bbc.com/news/articles/c4g5kl0n5d2o?at_medium=RSS&at_campaign=rss"
+    "score": 37,
+    "pubdate": "2025-09-22-05-16-50 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris reveals what Biden told her just before crucial debate with Trump that left her ‘angry’",
+    "link": "https://nypost.com/2025/09/22/us-news/kamala-harris-reveals-what-biden-told-her-just-before-crucial-debate-with-trump-that-left-her-angry/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-09-21-21-50-25 +0000",
+    "source": "nypost",
+    "headline": "President Trump, Elon Musk shake hands at Charlie Kirk funeral service in first public sighting together after bitter feud",
+    "link": "https://nypost.com/2025/09/21/us-news/president-trump-elon-musk-reunite-at-charlie-kirk-funeral-service-after-bitter-feud/"
   }
 ]
