@@ -1,55 +1,48 @@
 [
   {
-    "score": 590,
+    "score": 589,
     "pubdate": "2025-09-21-23-18-41 +0000",
     "source": "wapo",
     "headline": "President Donald Trump called Erika Kirk, Charlie Kirk’s widow, to the stage as he wrapped up...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 194,
+    "score": 204,
     "pubdate": "2025-09-21-13-36-12 +0000",
     "source": "nypost",
     "headline": "Canada, UK and Australia all recognize Palestinian state as rebuke to Israel for Gaza war",
     "link": "https://nypost.com/2025/09/21/world-news/canada-uk-and-australia-all-recognize-palestinian-state-as-rebuke-to-israel-for-gaza-war/"
   },
   {
-    "score": 159,
+    "score": 162,
     "pubdate": "2025-09-20-00-32-00 +0000",
     "source": "wsj",
     "headline": "A top federal prosecutor who has been under pressure to bring criminal charges against New York Attorney General Letitia James, a vocal Trump critic, is resigning after the president said he wanted him ousted",
     "link": "https://www.wsj.com/politics/policy/trump-calls-for-dismissal-of-prosecutor-handling-probe-of-his-adversaries-ec269d20"
   },
   {
-    "score": 152,
+    "score": 155,
     "pubdate": "2025-09-17-03-28-00 +0000",
     "source": "wsj",
     "headline": "In her first public comments since Trump fired her, the former head of the government agency that measures inflation and job growth called her dismissal “a dangerous step” for the economy",
     "link": "https://www.wsj.com/economy/jobs/fired-bls-chief-breaks-silence-calls-her-dismissal-a-dangerous-step-7e3a6a86"
   },
   {
-    "score": 127,
+    "score": 126,
     "pubdate": "2025-09-19-19-37-40 +0000",
     "source": "nypost",
     "headline": "Ted Cruz rips FCC’s Brendan Carr, compares him to Mafia boss for Jimmy Kimmel attacks: ‘Right out of Goodfellas’",
     "link": "https://nypost.com/2025/09/19/business/ted-cruz-compares-fccs-brendan-carr-to-mafia-boss-for-jimmy-kimmel-attacks/"
   },
   {
-    "score": 114,
+    "score": 115,
     "pubdate": "2025-09-19-09-30-00 +0000",
     "source": "wsj",
     "headline": "The Fed’s rate cut will likely reduce U.S. borrowing costs for short-term Treasury bills, but annual interest expense won’t shrink much",
     "link": "https://www.wsj.com/economy/central-banking/fed-reserve-rate-cut-national-debt-interest-157d3ff1"
   },
   {
-    "score": 99,
-    "pubdate": "2025-09-17-02-25-39 +0000",
-    "source": "latimes",
-    "headline": "Barabak: A governor for red California, blue California or both? Redistricting fight poses that question",
-    "link": "https://www.latimes.com/politics/story/2025-09-16/redistricting-california-democrats-governor-race-newsom-proposition-50"
-  },
-  {
-    "score": 99,
+    "score": 103,
     "pubdate": "2025-09-22-00-09-00 +0000",
     "source": "wsj",
     "headline": "In a powerful moment, Charlie Kirk’s wife, Erika, said she forgave her husband’s killer. Here are the key moments from his memorial.",
@@ -57,16 +50,23 @@
   },
   {
     "score": 98,
-    "pubdate": "2025-09-18-18-59-08 +0000",
-    "source": "bbc",
-    "headline": "Two shot dead in attack near West Bank-Jordan crossing, Israeli military says",
-    "link": "https://www.bbc.com/news/articles/cr5qv0qmgmjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 96,
     "pubdate": "2025-09-20-01-21-29 +0000",
     "source": "nyt",
     "headline": "Trump and China Suggest TikTok Deal Could Move Ahead in Vague Statements",
     "link": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html"
+  },
+  {
+    "score": 98,
+    "pubdate": "2025-09-17-02-25-39 +0000",
+    "source": "latimes",
+    "headline": "Barabak: A governor for red California, blue California or both? Redistricting fight poses that question",
+    "link": "https://www.latimes.com/politics/story/2025-09-16/redistricting-california-democrats-governor-race-newsom-proposition-50"
+  },
+  {
+    "score": 97,
+    "pubdate": "2025-09-18-18-59-08 +0000",
+    "source": "bbc",
+    "headline": "Two shot dead in attack near West Bank-Jordan crossing, Israeli military says",
+    "link": "https://www.bbc.com/news/articles/cr5qv0qmgmjo?at_medium=RSS&at_campaign=rss"
   }
 ]
