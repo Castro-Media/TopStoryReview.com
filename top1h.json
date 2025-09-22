@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 48,
+    "pubdate": "2025-09-22-20-34-05 +0000",
+    "source": "nypost",
+    "headline": "Turning Point USA announces star-studded lineup of campus speaking dates after Charlie Kirk’s murder — with guests including Megyn Kelly, Vivek Ramaswamy",
+    "link": "https://nypost.com/2025/09/22/us-news/turning-point-usa-announces-star-studded-lineup-of-campus-speaking-dates-after-charlie-kirks-murder/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-09-22-20-35-04 +0000",
+    "source": "nyt",
+    "headline": "Jimmy Kimmel’s Suspension Showed How Trump Echoes China’s Crackdown on Dissent",
+    "link": "https://www.nytimes.com/2025/09/22/business/china-censorship-jimmy-kimmel.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-09-22-20-09-34 +0000",
+    "source": "nyt",
+    "headline": "Macron, saying ‘the time has come, says France formally recognizes a Palestinian state.",
+    "link": "https://www.nytimes.com/live/2025/09/22/world/united-nations-assembly/macron-france-palestinian-statehood"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-09-22-20-23-16 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Tax Cut Is Underwater. Can a ‘Refund Boom’ Save It?",
+    "link": "https://www.nytimes.com/2025/09/22/us/politics/trump-tax-cuts.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-09-22-20-11-00 +0000",
+    "source": "wsj",
+    "headline": "Kimmel’s Late-Night Show Will Return to Air Tuesday",
+    "link": "https://www.wsj.com/business/media/kimmels-late-night-show-will-return-to-air-tuesday-7450ea40?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-09-22-20-30-04 +0000",
+    "source": "bbc",
+    "headline": "Copenhagen airport shut after drone sightings, police say",
+    "link": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-09-22-20-19-07 +0000",
+    "source": "nyt",
+    "headline": "Egypt Pardons Alaa Abd El Fattah, Its Most Prominent Political Prisoner",
+    "link": "https://www.nytimes.com/2025/09/22/world/middleeast/egypt-pardon-alaa-abd-el-fattah-political-prisoner.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-22-20-29-14 +0000",
+    "source": "nyt",
+    "headline": "Putin Proposes One More Year of Nuclear Caps With U.S.",
+    "link": "https://www.nytimes.com/2025/09/22/world/europe/putin-trump-start-nuclear-treaty.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-22-20-31-46 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Allows Trump to Fire F.T.C. Commissioner",
+    "link": "https://www.nytimes.com/2025/09/22/us/politics/supreme-court-ftc-commissioner-firing.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-22-20-10-29 +0000",
+    "source": "nyt",
+    "headline": "Kenvue, the Company Behind Tylenol, Tries to Navigate Its Latest Crisis",
+    "link": "https://www.nytimes.com/2025/09/22/health/tylenol-autism-kenvue.html"
+  }
+]
