@@ -1,26 +1,5 @@
 [
   {
-    "score": 25,
-    "pubdate": "2025-09-23-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Under the radar: The possible link between U.S. Baltic security cuts and airspace incursions",
-    "link": "https://www.cbc.ca/news/politics/russian-drone-incursions-1.7640816?cmp=rss"
-  },
-  {
-    "score": 20,
-    "pubdate": "2025-09-23-08-46-01 +0000",
-    "source": "nyt",
-    "headline": "Drone Sightings Force Copenhagen and Oslo Airports to Close Temporarily",
-    "link": "https://www.nytimes.com/2025/09/22/world/europe/copenhagen-oslo-airport-closed-drone.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-09-23-08-19-42 +0000",
-    "source": "nyt",
-    "headline": "Jaguar Land Rover Says Cyberattack Will Halt Production Through Oct. 1",
-    "link": "https://www.nytimes.com/2025/09/23/business/jaguar-land-rover-cyberattack-production.html"
-  },
-  {
     "score": 16,
     "pubdate": "2025-09-23-08-54-53 +0000",
     "source": "bbc",
@@ -28,45 +7,10 @@
     "link": "https://www.bbc.com/news/articles/czjvp0pr3eko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2025-09-23-08-27-00 +0000",
-    "source": "wsj",
-    "headline": "Global Markets Mixed as Traders Await Further Cues on Fed Rate-Cut Path",
-    "link": "https://www.wsj.com/finance/stocks/global-markets-mixed-as-traders-await-further-cues-on-fed-rate-cut-path-56b8985c?mod=rss_markets_main"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-09-23-08-01-31 +0000",
+    "score": 0,
+    "pubdate": "2025-09-23-08-54-53 +0000",
     "source": "bbc",
-    "headline": "JLR shutdown extended again as ministers meet suppliers",
-    "link": "https://www.bbc.com/news/articles/c15kpxnn2p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-09-23-08-14-00 +0000",
-    "source": "wsj",
-    "headline": "Eurozone Faces Inflation, Growth Threat From China’s Rare Earths Dominance, ECB Warns",
-    "link": "https://www.wsj.com/articles/eurozone-faces-inflation-growth-threat-from-chinas-rare-earths-dominance-ecb-warns-b5abf9ba"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-23-08-00-32 +0000",
-    "source": "cbc",
-    "headline": "CSIS, RCMP face 'significant challenges' obtaining private data: Intelligence watchdog",
-    "link": "https://www.cbc.ca/news/politics/csis-rcmp-lawful-access-nsicop-1.7640075?cmp=rss"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-23-08-03-21 +0000",
-    "source": "nypost",
-    "headline": "Ukraine seeks support as Zelensky visits US to address UN, meet Trump",
-    "link": "https://nypost.com/2025/09/23/world-news/ukraine-seeks-support-as-zelensky-visits-us-to-address-un-meet-trump/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-09-23-08-11-03 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Dow Futures Steady Ahead of Powell Comments",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-23-2025?mod=rss_markets_main"
+    "headline": "Three West African countries to quit International Criminal Court",
+    "link": "https://www.bbc.com/news/articles/czjvp0pr3eko?at_medium=RSS&at_campaign=rss"
   }
 ]
