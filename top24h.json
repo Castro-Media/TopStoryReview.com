@@ -1,13 +1,13 @@
 [
   {
-    "score": 193,
+    "score": 192,
     "pubdate": "2025-09-23-03-02-00 +0000",
     "source": "wsj",
     "headline": "In labeling Tylenol use in pregnant women as a potential cause of autism, President Trump threw the full weight of his office behind a theory that he acknowledged has yet to be proven",
     "link": "https://www.wsj.com/politics/in-targeting-a-common-painkiller-trump-oversteps-his-own-advisers-guidance-on-autism-571e9eae"
   },
   {
-    "score": 113,
+    "score": 110,
     "pubdate": "2025-09-23-11-31-12 +0000",
     "source": "bbc",
     "headline": "Jimmy Kimmel show to return after suspension over Charlie Kirk comments",
@@ -21,18 +21,18 @@
     "link": "https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
-    "pubdate": "2025-09-23-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "New bill would crack down on bureaucrats working more than 1 government gig at same time",
-    "link": "https://nypost.com/2025/09/23/us-news/new-bill-would-crack-down-on-bureaucrats-working-more-than-1-govt-gig-simultaneously/"
-  },
-  {
-    "score": 58,
+    "score": 57,
     "pubdate": "2025-09-23-14-27-53 +0000",
     "source": "nyt",
     "headline": "Elon Musk’s Father, Errol Musk, Accused of Child Sexual Abuse",
     "link": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-09-23-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "New bill would crack down on bureaucrats working more than 1 government gig at same time",
+    "link": "https://nypost.com/2025/09/23/us-news/new-bill-would-crack-down-on-bureaucrats-working-more-than-1-govt-gig-simultaneously/"
   },
   {
     "score": 55,
@@ -42,7 +42,7 @@
     "link": "https://www.nytimes.com/2025/09/22/us/politics/us-argentina-bessent-javier-milei.html"
   },
   {
-    "score": 52,
+    "score": 51,
     "pubdate": "2025-09-22-17-59-22 +0000",
     "source": "nyt",
     "headline": "American Investors Will License and Oversee TikTok’s U.S. Version, White House Says",
@@ -50,17 +50,17 @@
   },
   {
     "score": 50,
-    "pubdate": "2025-09-23-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The worker visas that President Trump says now require $100,000 application fees fill a tiny portion of the U.S. workforce but include jobs at some of the biggest tech companies",
-    "link": "https://www.wsj.com/economy/jobs/h1b-visas-workers-charts-cb81493c"
-  },
-  {
-    "score": 50,
     "pubdate": "2025-09-23-05-15-00 +0000",
     "source": "nypost",
     "headline": "Kamala Harris offers half-hearted endorsement of NYC mayoral candidate Zohran Mamdani: ‘Sure’",
     "link": "https://nypost.com/2025/09/23/us-news/kamala-harris-offers-half-hearted-endorsement-of-nyc-mayoral-candidate-zohran-mamdani-sure/"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-09-23-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The worker visas that President Trump says now require $100,000 application fees fill a tiny portion of the U.S. workforce but include jobs at some of the biggest tech companies",
+    "link": "https://www.wsj.com/economy/jobs/h1b-visas-workers-charts-cb81493c"
   },
   {
     "score": 50,
