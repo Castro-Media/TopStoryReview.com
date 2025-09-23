@@ -1,52 +1,45 @@
 [
   {
-    "score": 502,
+    "score": 496,
     "pubdate": "2025-09-21-23-18-41 +0000",
     "source": "wapo",
     "headline": "President Donald Trump called Erika Kirk, Charlie Kirk’s widow, to the stage as he wrapped up...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 198,
+    "score": 187,
     "pubdate": "2025-09-21-13-36-12 +0000",
     "source": "nypost",
     "headline": "Canada, UK and Australia all recognize Palestinian state as rebuke to Israel for Gaza war",
     "link": "https://nypost.com/2025/09/21/world-news/canada-uk-and-australia-all-recognize-palestinian-state-as-rebuke-to-israel-for-gaza-war/"
   },
   {
-    "score": 173,
+    "score": 167,
     "pubdate": "2025-09-17-03-28-00 +0000",
     "source": "wsj",
     "headline": "In her first public comments since Trump fired her, the former head of the government agency that measures inflation and job growth called her dismissal “a dangerous step” for the economy",
     "link": "https://www.wsj.com/economy/jobs/fired-bls-chief-breaks-silence-calls-her-dismissal-a-dangerous-step-7e3a6a86"
   },
   {
-    "score": 147,
-    "pubdate": "2025-09-22-15-31-23 +0000",
+    "score": 145,
+    "pubdate": "2025-09-22-14-26-38 +0000",
     "source": "nypost",
-    "headline": "Howard Stern blasts ABC suspension of Jimmy Kimmel, cancels Disney+ subscription: ‘Can no longer keep my mouth shut’",
-    "link": "https://nypost.com/2025/09/22/media/howard-stern-blasts-abc-suspension-of-jimmy-kimmel-cancels-disney/"
+    "headline": "Disney could be forced to choose between Jimmy Kimmel and the NFL as massive ESPN deal looms: report",
+    "link": "https://nypost.com/2025/09/22/business/disney-in-crisis-over-jimmy-kimmel-suspension-as-nfl-deal-looms/"
   },
   {
-    "score": 116,
-    "pubdate": "2025-09-22-16-34-11 +0000",
-    "source": "nypost",
-    "headline": "Trump’s new Fed Governor Stephen Miran says refusal to cut rates further is a risk to jobs",
-    "link": "https://nypost.com/2025/09/22/business/trumps-new-fed-governor-stephen-miran-says-refusal-to-cut-rates-further-is-a-risk-to-jobs/"
-  },
-  {
-    "score": 112,
+    "score": 114,
     "pubdate": "2025-09-17-18-00-01 +0000",
     "source": "latimes",
     "headline": "California, West Coast states roll out their own vaccine guidance amid clash with CDC",
     "link": "https://www.latimes.com/california/story/2025-09-17/california-vaccine-guidance"
   },
   {
-    "score": 102,
-    "pubdate": "2025-09-22-21-34-40 +0000",
-    "source": "nypost",
-    "headline": "Trump announces FDA will change Tylenol safety label, urges pregnant mothers to prevent autism risk in children: ‘Don’t take it!’",
-    "link": "https://nypost.com/2025/09/22/us-news/trump-announces-fda-will-change-tylenol-safety-label-urges-pregnant-mothers-to-prevent-autism-risk-in-children/"
+    "score": 112,
+    "pubdate": "2025-09-22-15-44-10 +0000",
+    "source": "bbc",
+    "headline": "How Lib Dems hope 'punchy' new strategy will get them attention",
+    "link": "https://www.bbc.com/news/videos/c4g7p03y715o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 101,
@@ -56,17 +49,24 @@
     "link": "https://www.wsj.com/politics/national-security/trump-invokes-post-9-11-playbook-in-attacks-on-drug-cartels-137515ea"
   },
   {
-    "score": 98,
-    "pubdate": "2025-09-22-06-35-15 +0000",
-    "source": "bbc",
-    "headline": "South Korea would accept a Trump-Kim deal to freeze nuclear programme, president tells BBC",
-    "link": "https://www.bbc.com/news/articles/cwy91w0e1z2o?at_medium=RSS&at_campaign=rss"
+    "score": 95,
+    "pubdate": "2025-09-22-11-58-49 +0000",
+    "source": "cbc",
+    "headline": "Zelenskyy calls for 'strong sanctions' on Russia ahead of UN General Assembly",
+    "link": "https://www.cbc.ca/news/world/ukraine-war-un-assembly-1.7639845?cmp=rss"
   },
   {
-    "score": 93,
+    "score": 90,
     "pubdate": "2025-09-18-16-17-43 +0000",
     "source": "latimes",
     "headline": "Celeste Rivas went missing a year ago. Her decomposing body was found in singer D4vd's Tesla",
     "link": "https://www.latimes.com/california/story/2025-09-18/teenage-girl-missing-found-dead-singers-tesla"
+  },
+  {
+    "score": 82,
+    "pubdate": "2025-09-22-21-34-40 +0000",
+    "source": "nypost",
+    "headline": "Trump announces FDA will change Tylenol safety label, urges pregnant mothers to prevent autism risk in children: ‘Don’t take it!’",
+    "link": "https://nypost.com/2025/09/22/us-news/trump-announces-fda-will-change-tylenol-safety-label-urges-pregnant-mothers-to-prevent-autism-risk-in-children/"
   }
 ]
