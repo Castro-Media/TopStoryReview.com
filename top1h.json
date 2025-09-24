@@ -1,44 +1,72 @@
 [
   {
-    "score": 19,
-    "pubdate": "2025-09-24-12-59-08 +0000",
+    "score": 37,
+    "pubdate": "2025-09-24-14-05-20 +0000",
+    "source": "nypost",
+    "headline": "Trump threatens to sue ABC over Jimmy Kimmel’s sudden return to air: ‘A true bunch of losers!’",
+    "link": "https://nypost.com/2025/09/24/us-news/trump-threatens-to-sue-abc-over-jimmy-kimmels-sudden-return-to-air-a-true-bunch-of-losers/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-09-24-14-03-30 +0000",
+    "source": "bbc",
+    "headline": "Italy condemns 'drone attack' on Gaza aid flotilla and deploys frigate",
+    "link": "https://www.bbc.com/news/articles/ce3yz939qnpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-09-24-14-45-26 +0000",
+    "source": "wapo",
+    "headline": "Live updates: One killed in shooting at ICE facility in Dallas, police say",
+    "link": "https://www.washingtonpost.com/nation/2025/09/24/dallas-ice-facility-shooting/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-09-24-14-26-28 +0000",
+    "source": "bbc",
+    "headline": "Rosenberg: Russia brushes off Trump's claim of 'paper tiger' in aimless war",
+    "link": "https://www.bbc.com/news/articles/c3e70n4keyjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-24-14-16-01 +0000",
     "source": "nyt",
-    "headline": "Israeli Strike on Gaza City Kills Civilians, Local Rescue Service Says",
-    "link": "https://www.nytimes.com/2025/09/24/world/middleeast/israel-strike-gaza-city-civilians.html"
+    "headline": "A Statue of Trump and Epstein Holding Hands Is Removed From the National Mall",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/trump-epstein-statue-dc-national-mall.html"
   },
   {
-    "score": 9,
-    "pubdate": "2025-09-24-13-00-34 +0000",
+    "score": 14,
+    "pubdate": "2025-09-24-14-20-23 +0000",
     "source": "nyt",
-    "headline": "U.N. General Assembly Updates: Zelensky to Speak After Trump Signals Shift on War",
-    "link": "https://www.nytimes.com/live/2025/09/24/world/un-general-assembly-ukraine"
+    "headline": "Typhoon Ragasa Slams Into China After Deaths in Taiwan and the Philippines",
+    "link": "https://www.nytimes.com/2025/09/24/world/asia/typhoon-ragasa-hong-kong-china.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-09-24-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Global Ports Leader Sees Trade Shifting, Not Slowing",
-    "link": "https://www.wsj.com/articles/global-ports-leader-sees-trade-shifting-not-slowing-991fffe4?mod=pls_whats_news_us_business_f"
+    "score": 14,
+    "pubdate": "2025-09-24-13-55-04 +0000",
+    "source": "nypost",
+    "headline": "Mom of boy left brain dead in NYC shooting outside Dunkin’ prays for recovery: ‘Miracles do happen’",
+    "link": "https://nypost.com/2025/09/24/us-news/mom-of-13-year-old-left-brain-dead-after-shooting-at-nyc-dunkin-praying-for-recovery-miracles-do-happen/"
   },
   {
-    "score": 7,
-    "pubdate": "2025-09-24-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Wedding day is every day at City Hall",
-    "link": "https://missionlocal.org/2025/09/sf-photos-3/"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-09-24-12-59-27 +0000",
+    "score": 12,
+    "pubdate": "2025-09-24-13-55-45 +0000",
     "source": "nyt",
-    "headline": "Multiple People Wounded in Shooting at Dallas ICE Facility",
-    "link": "https://www.nytimes.com/2025/09/24/us/multiple-people-wounded-in-shooting-at-dallas-ice-facility.html"
+    "headline": "The S.E.C. Dropped a Complaint Against Its Chairman’s Former Client",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/sec-paul-atkins-devon-archer-trump.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-09-24-12-59-08 +0000",
-    "source": "nyt",
-    "headline": "Israeli Strike on Gaza City Kills Civilians, Local Rescue Service Says",
-    "link": "https://www.nytimes.com/2025/09/24/world/middleeast/israel-strike-gaza-city-civilians.html"
+    "score": 11,
+    "pubdate": "2025-09-24-14-29-56 +0000",
+    "source": "nypost",
+    "headline": "Treasure found near where Jesus lived is connected to forgotten Jewish uprising: archaeologists",
+    "link": "https://nypost.com/2025/09/24/world-news/treasure-found-near-jesus-galilee-site-tied-to-forgotten-jewish-uprising-archaeologists/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-09-24-14-23-07 +0000",
+    "source": "nypost",
+    "headline": "Hurricane Gabrielle to slam the Azores with destructive force, prompting hurricane warning",
+    "link": "https://nypost.com/2025/09/24/us-news/hurricane-gabrielle-to-slam-azores-with-destructive-waves-urging-hurricane-warning/"
   }
 ]
