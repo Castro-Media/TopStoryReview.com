@@ -1,35 +1,311 @@
 [
   {
+    "headline": "Germany Woos Indian Workers Spooked by U.S. Visa Changes",
+    "link": "https://www.nytimes.com/2025/09/24/business/germany-india-skilled-workers-visa.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-54-09 +0000"
+  },
+  {
+    "headline": "Germany Woos Indian Workers Spooked by U.S. Visa Changes",
+    "link": "https://www.nytimes.com/2025/09/24/business/germany-india-skilled-workers-visa.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-54-09 +0000"
+  },
+  {
+    "headline": "Opinion | Saudi-Pakistan Defense Pact Is Less Than Meets the Eye",
+    "link": "https://www.wsj.com/opinion/saudi-pakistan-defense-pact-is-less-than-meets-the-eye-52c466c4",
+    "source": "wsj",
+    "pubdate": "2025-09-24-16-53-00 +0000"
+  },
+  {
+    "headline": "U.N. General Assembly Updates: Zelensky Appeals for Arms to Fight Russia After Trump Signals Shift on War",
+    "link": "https://www.nytimes.com/live/2025/09/24/world/un-general-assembly-ukraine",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-51-09 +0000"
+  },
+  {
+    "headline": "A Federal Shutdown May Be Imminent. How Would It Affect the Economy?",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/government-shutdown-us-economy.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-50-54 +0000"
+  },
+  {
+    "headline": "A Federal Shutdown May Be Imminent. How Would It Affect the Economy?",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/government-shutdown-us-economy.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-50-53 +0000"
+  },
+  {
+    "headline": "Zelensky Issues Call to Arms, Saying Global Institutions Have Failed",
+    "link": "https://www.nytimes.com/2025/09/24/world/europe/unga-zelensky.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-49-53 +0000"
+  },
+  {
+    "headline": "Zelensky Issues Call to Arms, Saying Global Institutions Have Failed",
+    "link": "https://www.nytimes.com/2025/09/24/world/europe/unga-zelensky.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-49-53 +0000"
+  },
+  {
+    "headline": "Trump, Epstein ‘Best Friends Forever’ statue hastily removed from DC’s National Mall",
+    "link": "https://nypost.com/2025/09/24/us-news/trump-epstein-best-friends-forever-statue-hastily-removed-from-dcs-national-mall/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-16-49-03 +0000"
+  },
+  {
+    "headline": "Trump, Epstein ‘Best Friends Forever’ statue hastily removed from DC’s National Mall",
+    "link": "https://nypost.com/2025/09/24/us-news/trump-epstein-best-friends-forever-statue-hastily-removed-from-dcs-national-mall/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-16-49-03 +0000"
+  },
+  {
+    "headline": "Corbyn sorry for 'confusion' as new party membership launched",
+    "link": "https://www.bbc.com/news/articles/cm2zvy74e1eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-24-16-42-32 +0000"
+  },
+  {
+    "headline": "Live updates: One killed in Dallas ICE facility shooting; no law enforcement injured",
+    "link": "https://www.washingtonpost.com/nation/2025/09/24/dallas-ice-facility-shooting/",
+    "source": "wapo",
+    "pubdate": "2025-09-24-16-39-57 +0000"
+  },
+  {
+    "headline": "Dallas ICE facility faced bomb threat in August, authorities say",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-24-16-39-57 +0000"
+  },
+  {
+    "headline": "Israeli Strike Kills Gazans Sheltering in Warehouse, Local Reports Say",
+    "link": "https://www.nytimes.com/2025/09/24/world/middleeast/israel-strike-gaza-city-civilians.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-37-52 +0000"
+  },
+  {
+    "headline": "Israeli Strike Kills Gazans Sheltering in Warehouse, Local Reports Say",
+    "link": "https://www.nytimes.com/2025/09/24/world/middleeast/israel-strike-gaza-city-civilians.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-37-52 +0000"
+  },
+  {
+    "headline": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
+    "link": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-24-16-36-48 +0000"
+  },
+  {
+    "headline": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
+    "link": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-24-16-36-48 +0000"
+  },
+  {
+    "headline": "Somalia's president: They tried to kill me five times",
+    "link": "https://www.bbc.com/news/videos/cx23e9d5wjgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-24-16-35-58 +0000"
+  },
+  {
+    "headline": "Northern Powerhouse Rail plans delayed again",
+    "link": "https://www.bbc.com/news/articles/ckge94030g7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-24-16-35-52 +0000"
+  },
+  {
+    "headline": "Five Pearls of Financial Wisdom from Jonathan Clements",
+    "link": "https://www.nytimes.com/2025/09/23/business/jonathan-clements-wsj-personal-finance.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-35-09 +0000"
+  },
+  {
+    "headline": "Phillipson: I've been the victim of sexist briefings",
+    "link": "https://www.bbc.com/news/articles/c1jz9w7xkyeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-24-16-33-24 +0000"
+  },
+  {
+    "headline": "Jimmy Kimmel accused of lying again about casting blame for Charlie Kirk assassination",
+    "link": "https://nypost.com/2025/09/24/media/jimmy-kimmel-accused-of-lying-again-about-casting-blame-for-charlie-kirk-assassination/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-16-26-07 +0000"
+  },
+  {
+    "headline": "Authorities are not yet releasing the identities of the victims, said R. Joseph Rothrock, the head...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-24-16-25-02 +0000"
+  },
+  {
+    "headline": "Shooting at Dallas ICE Facility Leaves One Dead, Two Injured",
+    "link": "https://www.wsj.com/us-news/dallas-texas-ice-office-shooting-dac9c165",
+    "source": "wsj",
+    "pubdate": "2025-09-24-16-24-00 +0000"
+  },
+  {
+    "headline": "Denmark, hoping to reconcile, apologizes for forced contraception in Greenland",
+    "link": "https://www.washingtonpost.com/world/2025/09/24/denmark-forced-contraception-apology-greenland/",
+    "source": "wapo",
+    "pubdate": "2025-09-24-16-20-21 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/24/world/un-general-assembly-ukraine/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-17-46 +0000"
+  },
+  {
+    "headline": "Apple Postpones ‘Savant’ Show About Online Hate Groups",
+    "link": "https://www.nytimes.com/2025/09/24/business/media/apple-postpones-savant.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-15-25 +0000"
+  },
+  {
+    "headline": "Democrats Investigating Law Firms Over Work for Trump’s Commerce Dept.",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/democrats-law-firms-trump-investigation.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-13-43 +0000"
+  },
+  {
+    "headline": "Democrats Investigating Law Firms Over Work for Trump’s Commerce Dept.",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/democrats-law-firms-trump-investigation.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-13-43 +0000"
+  },
+  {
+    "headline": "Charlie Kirk’s alleged assassin in special housing despite mental evaluation",
+    "link": "https://nypost.com/2025/09/24/us-news/charlie-kirks-alleged-assassin-in-special-housing-despite-mental-evaluation/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-16-08-38 +0000"
+  },
+  {
+    "headline": "Luigi Mangione pushing for Pennsylvania court hearing — in ‘smart’ bid to get lesser gun raps dropped: experts",
+    "link": "https://nypost.com/2025/09/24/us-news/luigi-mangiones-lawyers-push-for-pa-court-hearing-in-smart-bid-to-get-lesser-gun-raps-dropped-experts/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-16-04-46 +0000"
+  },
+  {
+    "headline": "Portola’s party daze triumphed. But will it return in 2026?",
+    "link": "https://48hills.org/2025/09/portolas-party-daze-triumphed-but-will-it-return-in-2026/",
+    "source": "48hills",
+    "pubdate": "2025-09-24-16-03-57 +0000"
+  },
+  {
+    "headline": "Patel: Shell casing near shooter’s location engraved with ‘ANTI-ICE’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-24-16-02-07 +0000"
+  },
+  {
+    "headline": "Small Plane Crashes in Brazil, Killing Chinese Architect",
+    "link": "https://www.nytimes.com/2025/09/24/world/americas/brazil-plane-crash-architect-kongjian-yu.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-00-39 +0000"
+  },
+  {
+    "headline": "Small Plane Crashes in Brazil, Killing Chinese Architect",
+    "link": "https://www.nytimes.com/2025/09/24/world/americas/brazil-plane-crash-architect-kongjian-yu.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-16-00-39 +0000"
+  },
+  {
+    "headline": "Oceans dangerously acidic from carbon emissions, report warns",
+    "link": "https://www.cbc.ca/news/climate/planetary-health-check-ocean-acidification-1.7642148?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-24-16-00-00 +0000"
+  },
+  {
+    "headline": "ICE field office was subject of complaints from families, Democrats",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-24-15-57-54 +0000"
+  },
+  {
+    "headline": "RBC employee charged for allegedly accessing Carney, Trudeau's banking information",
+    "link": "https://www.cbc.ca/news/politics/rbc-bank-employee-carney-trudeau-1.7642279?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-24-15-57-52 +0000"
+  },
+  {
+    "headline": "This Conquistador Changed History. Neglect Haunts His Tomb in Mexico",
+    "link": "https://www.nytimes.com/2025/09/24/world/americas/mexico-city-cortes-legacy.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-15-57-19 +0000"
+  },
+  {
+    "headline": "This Conquistador Changed History. Neglect Haunts His Tomb in Mexico",
+    "link": "https://www.nytimes.com/2025/09/24/world/americas/mexico-city-cortes-legacy.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-15-57-19 +0000"
+  },
+  {
+    "headline": "Threats, assaults against ICE have spiked under Trump, DHS says",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-09-24-15-56-51 +0000"
+  },
+  {
+    "headline": "Children to be auto-enrolled for free school meals",
+    "link": "https://www.bbc.com/news/articles/cly7163g4gro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-24-15-56-23 +0000"
+  },
+  {
+    "headline": "Trump’s ‘Surreal’ Tylenol Guidance Worries Pregnant Women",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/pregnant-women-tylenol-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-15-56-09 +0000"
+  },
+  {
+    "headline": "Trump’s ‘Surreal’ Tylenol Guidance Worries Pregnant Women",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/pregnant-women-tylenol-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-15-56-09 +0000"
+  },
+  {
+    "headline": "Scott Bessent warns that the feds won’t bail out NYC under Zohran Mamdani: ‘Drop dead’",
+    "link": "https://nypost.com/2025/09/24/business/scott-bessent-says-feds-wont-bail-out-nyc-zohran-mamdani/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-15-56-05 +0000"
+  },
+  {
+    "headline": "Scott Bessent warns that the feds won’t bail out NYC under Zohran Mamdani: ‘Drop dead’",
+    "link": "https://nypost.com/2025/09/24/business/scott-bessent-says-feds-wont-bail-out-nyc-zohran-mamdani/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-15-56-05 +0000"
+  },
+  {
+    "headline": "Scott Bessent warns that the feds won’t bail out NYC under Zohran Mamdani: ‘Drop dead’",
+    "link": "https://nypost.com/2025/09/24/business/scott-bessent-says-feds-wont-bail-out-nyc-zohran-mamdani/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-15-56-05 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/09/24/us/dallas-ice-shooting/ice-dallas-shooting",
+    "source": "nyt",
+    "pubdate": "2025-09-24-15-54-04 +0000"
+  },
+  {
+    "headline": "Trump Aides’ Involvement in Chips and Crypto Deals Draw Senate Calls for Inquiries",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/trump-witkoff-sacks-saudi-chips-crypto.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-15-51-57 +0000"
+  },
+  {
+    "headline": "Trump Aides’ Involvement in Chips and Crypto Deals Draw Senate Calls for Inquiries",
+    "link": "https://www.nytimes.com/2025/09/24/us/politics/trump-witkoff-sacks-saudi-chips-crypto.html",
+    "source": "nyt",
+    "pubdate": "2025-09-24-15-51-57 +0000"
+  },
+  {
     "headline": "The Gen Z uprising in Asia shows social media is a double-edged sword",
     "link": "https://www.bbc.com/news/articles/cn4ljv39em7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-24-15-50-08 +0000"
   },
   {
-    "headline": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
-    "link": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-24-15-48-42 +0000"
-  },
-  {
-    "headline": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
-    "link": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-24-15-48-42 +0000"
-  },
-  {
-    "headline": "Israeli Strike Kills Gazans Sheltering in Warehouse, Local Reports Say",
-    "link": "https://www.nytimes.com/2025/09/24/world/middleeast/israel-strike-gaza-city-civilians.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-48-21 +0000"
-  },
-  {
-    "headline": "Israeli Strike Kills Gazans Sheltering in Warehouse, Local Reports Say",
-    "link": "https://www.nytimes.com/2025/09/24/world/middleeast/israel-strike-gaza-city-civilians.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-48-21 +0000"
-  },
-  {
     "headline": "Jimmy Kimmel calls out 'anti-American' threats to free speech in tearful TV return",
     "link": "https://www.bbc.com/news/articles/c9dx6dlelw8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -40,12 +316,6 @@
     "link": "https://www.bbc.com/news/articles/c9dx6dlelw8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-24-15-46-02 +0000"
-  },
-  {
-    "headline": "U.N. General Assembly Updates: Zelensky Issues Call to Arms After Trump Signals Shift on War",
-    "link": "https://www.nytimes.com/live/2025/09/24/world/un-general-assembly-ukraine",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-43-41 +0000"
   },
   {
     "headline": "London’s Mayor Calls Trump Racist and Islamophobic After U.N. Comments",
@@ -90,28 +360,10 @@
     "pubdate": "2025-09-24-15-41-30 +0000"
   },
   {
-    "headline": "Live updates: One killed in shooting at ICE facility in Dallas, police say",
-    "link": "https://www.washingtonpost.com/nation/2025/09/24/dallas-ice-facility-shooting/",
-    "source": "wapo",
-    "pubdate": "2025-09-24-15-41-30 +0000"
-  },
-  {
     "headline": "Claudia Cardinale, Actress Who Was ‘Italy’s Girlfriend,’ Is Dead at 87",
     "link": "https://www.nytimes.com/2025/09/23/movies/claudia-cardinale-dead.html",
     "source": "nyt",
     "pubdate": "2025-09-24-15-41-16 +0000"
-  },
-  {
-    "headline": "Trump Aides’ Involvement in Chips and Crypto Deals Draw Senate Calls for Inquiries",
-    "link": "https://www.nytimes.com/2025/09/24/us/politics/trump-witkoff-sacks-saudi-chips-crypto.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-40-39 +0000"
-  },
-  {
-    "headline": "Trump Aides’ Involvement in Chips and Crypto Deals Draw Senate Calls for Inquiries",
-    "link": "https://www.nytimes.com/2025/09/24/us/politics/trump-witkoff-sacks-saudi-chips-crypto.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-40-39 +0000"
   },
   {
     "headline": "Why Kordofan is key in Sudan's civil war",
@@ -126,25 +378,13 @@
     "pubdate": "2025-09-24-15-40-05 +0000"
   },
   {
-    "headline": "Denmark, hoping to reconcile, will apologize for forced contraception in Greenland",
-    "link": "https://www.washingtonpost.com/world/2025/09/24/denmark-forced-contraception-apology-greenland/",
-    "source": "wapo",
-    "pubdate": "2025-09-24-15-38-09 +0000"
-  },
-  {
-    "headline": "Phillipson: I've been the victim of sexist briefings",
-    "link": "https://www.bbc.com/news/articles/c1jz9w7xkyeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-24-15-36-11 +0000"
-  },
-  {
     "headline": "He May Be a ‘Slow Horse,’ but Christopher Chung Is in Peak Condition",
     "link": "https://www.nytimes.com/2025/09/24/arts/television/slow-horses-season-5-christopher-chung.html",
     "source": "nyt",
     "pubdate": "2025-09-24-15-34-54 +0000"
   },
   {
-    "headline": "Dallas sniper had anti-ICE messages written on ammo; 2 dead, 1 injured",
+    "headline": "Dallas sniper had anti-ICE messages written on ammo; 1 dead, 2 wounded",
     "link": "https://nypost.com/2025/09/24/us-news/dallas-sniper-had-anti-ice-messages-written-on-ammo-fbi/",
     "source": "nypost",
     "pubdate": "2025-09-24-15-34-02 +0000"
@@ -178,18 +418,6 @@
     "link": "https://www.nytimes.com/2025/09/24/world/europe/trump-uk.html",
     "source": "nyt",
     "pubdate": "2025-09-24-15-21-33 +0000"
-  },
-  {
-    "headline": "Small Plane Crashes in Brazil, Killing Chinese Architect",
-    "link": "https://www.nytimes.com/2025/09/24/world/americas/brazil-plane-crash-architect-kongjian-yu.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-16-49 +0000"
-  },
-  {
-    "headline": "Small Plane Crashes in Brazil, Killing Chinese Architect",
-    "link": "https://www.nytimes.com/2025/09/24/world/americas/brazil-plane-crash-architect-kongjian-yu.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-16-49 +0000"
   },
   {
     "headline": "Bessent Says U.S. Talking With Argentina About $20 Billion in Aid",
@@ -228,12 +456,6 @@
     "pubdate": "2025-09-24-15-06-31 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/24/us/dallas-ice-shooting/ice-dallas-shooting",
-    "source": "nyt",
-    "pubdate": "2025-09-24-15-05-49 +0000"
-  },
-  {
     "headline": "Authorities are setting up a media briefing near the scene of the shooting, live stream video...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -264,7 +486,7 @@
     "pubdate": "2025-09-24-15-01-38 +0000"
   },
   {
-    "headline": "New home sales surge over 20% as lower mortgage rates spurred demand",
+    "headline": "New home sales surge over 20% to 3-year high as lower mortgage rates spurred demand",
     "link": "https://nypost.com/2025/09/24/business/new-home-sales-surge-over-20-as-lower-mortgage-rates-spurred-demand/",
     "source": "nypost",
     "pubdate": "2025-09-24-15-00-55 +0000"
@@ -273,7 +495,7 @@
     "headline": "How Did Maria Branyas Morera, Who Was the World’s Oldest Person, Live So Long?",
     "link": "https://www.nytimes.com/2025/09/24/health/maria-branyas-longevity-genes-microbiome.html",
     "source": "nyt",
-    "pubdate": "2025-09-24-15-00-06 +0000"
+    "pubdate": "2025-09-24-15-00-07 +0000"
   },
   {
     "headline": "Wall Street Has Had Its Own Language for Centuries. How Well Do You Speak It?",
@@ -328,12 +550,6 @@
     "link": "https://www.nytimes.com/2025/09/24/climate/europe-emissions-targets-united-nations.html",
     "source": "nyt",
     "pubdate": "2025-09-24-14-44-32 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/09/24/world/un-general-assembly-ukraine/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-09-24-14-43-09 +0000"
   },
   {
     "headline": "As Israel’s isolation mounts at U.N., full toll remains limited",
@@ -426,12 +642,6 @@
     "pubdate": "2025-09-24-14-13-09 +0000"
   },
   {
-    "headline": "Corbyn sorry for 'confusion' as new party membership launched",
-    "link": "https://www.bbc.com/news/articles/cm2zvy74e1eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-24-14-10-15 +0000"
-  },
-  {
     "headline": "Trump threatens to sue ABC over Jimmy Kimmel’s sudden return to air: ‘A true bunch of losers!’",
     "link": "https://nypost.com/2025/09/24/us-news/trump-threatens-to-sue-abc-over-jimmy-kimmels-sudden-return-to-air-a-true-bunch-of-losers/",
     "source": "nypost",
@@ -471,13 +681,13 @@
     "headline": "The S.E.C. Dropped a Complaint Against Its Chairman’s Former Client",
     "link": "https://www.nytimes.com/2025/09/24/us/politics/sec-paul-atkins-devon-archer-trump.html",
     "source": "nyt",
-    "pubdate": "2025-09-24-13-55-45 +0000"
+    "pubdate": "2025-09-24-13-55-46 +0000"
   },
   {
     "headline": "The S.E.C. Dropped a Complaint Against Its Chairman’s Former Client",
     "link": "https://www.nytimes.com/2025/09/24/us/politics/sec-paul-atkins-devon-archer-trump.html",
     "source": "nyt",
-    "pubdate": "2025-09-24-13-55-45 +0000"
+    "pubdate": "2025-09-24-13-55-46 +0000"
   },
   {
     "headline": "Mom of boy left brain-dead in NYC shooting outside Dunkin’ prays for recovery: ‘Miracles do happen’",
@@ -502,12 +712,6 @@
     "link": "https://www.nytimes.com/2025/09/24/world/middleeast/evacuation-flight-gaza-abu-dhabi.html",
     "source": "nyt",
     "pubdate": "2025-09-24-13-46-55 +0000"
-  },
-  {
-    "headline": "Shooting at Dallas ICE Facility Leaves One Dead, Two Injured",
-    "link": "https://www.wsj.com/us-news/dallas-texas-ice-office-shooting-dac9c165",
-    "source": "wsj",
-    "pubdate": "2025-09-24-13-43-00 +0000"
   },
   {
     "headline": "Israel Shuts Key Border Crossing Between Jordan and West Bank",
@@ -576,7 +780,7 @@
     "pubdate": "2025-09-24-13-08-39 +0000"
   },
   {
-    "headline": "3 people shot at Dallas immigration office and shooter dead, official says",
+    "headline": "Shooter dead after killing at least 1, injuring others at Dallas ICE facility",
     "link": "https://www.cbc.ca/news/world/immigration-office-dallas-shooting-1.7642033?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-24-13-03-54 +0000"
@@ -708,12 +912,6 @@
     "pubdate": "2025-09-24-12-20-46 +0000"
   },
   {
-    "headline": "Jaguar Faces Prolonged Shutdown After a Cyberattack",
-    "link": "https://www.nytimes.com/2025/09/23/business/jaguar-land-rover-cyberattack-production.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-12-20-46 +0000"
-  },
-  {
     "headline": "Typhoon Ragasa makes landfall in China after 17 killed in Taiwan",
     "link": "https://www.bbc.com/news/articles/clyd580lx3mo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -730,6 +928,12 @@
     "link": "https://www.startribune.com/minnesota-vikings-linebacker-eric-kendricks-sell-downtown-minneapolis-condo-whitney-lofts/601478929",
     "source": "startribune",
     "pubdate": "2025-09-24-12-01-00 +0000"
+  },
+  {
+    "headline": "Boats damaged, communications jammed in drone attacks on Gaza flotilla, activists say",
+    "link": "https://www.cbc.ca/news/world/gaza-flotilla-drone-damage-israel-1.7641984?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-24-11-55-50 +0000"
   },
   {
     "headline": "Man arrested in connection with cyber-attack on airports",
@@ -918,6 +1122,12 @@
     "pubdate": "2025-09-24-10-25-04 +0000"
   },
   {
+    "headline": "Typhoon Ragasa makes landfall in China after killing at least 17 in Taiwan",
+    "link": "https://www.cbc.ca/news/world/typhoon-ragasa-china-hong-kong-taiwan-philippines-1.7641963?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-24-10-24-08 +0000"
+  },
+  {
     "headline": "Kimmel pulls no punches as he sends defiant message to Trump",
     "link": "https://www.bbc.com/news/articles/c0r09qdnd4yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1008,12 +1218,6 @@
     "pubdate": "2025-09-24-10-00-09 +0000"
   },
   {
-    "headline": "RFK Jr. wants an answer to rising autism rates. Scientists say he's ignoring some obvious ones",
-    "link": "https://www.latimes.com/science/story/2025-09-24/rfk-wants-an-answer-to-rising-autism-rates-scientists-say-hes-ignoring-these-obvious-ones",
-    "source": "latimes",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
     "headline": "Barabak: Who's winning the redistricting fight? Here's how to read the polls",
     "link": "https://www.latimes.com/politics/story/2025-09-24/california-redistricting-polling-proposition-50",
     "source": "latimes",
@@ -1022,6 +1226,12 @@
   {
     "headline": "Trump is using Tren de Aragua to justify a military buildup and strikes in Latin America",
     "link": "https://www.latimes.com/world-nation/story/2025-09-24/trump-tren-de-aragua-venezeula-bombing",
+    "source": "latimes",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
+    "headline": "RFK Jr. wants an answer to rising autism rates. Scientists say he's ignoring some obvious ones",
+    "link": "https://www.latimes.com/science/story/2025-09-24/rfk-wants-an-answer-to-rising-autism-rates-scientists-say-hes-ignoring-these-obvious-ones",
     "source": "latimes",
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
@@ -1080,14 +1290,14 @@
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
   {
-    "headline": "RFK Jr. wants an answer to rising autism rates. Scientists say he's ignoring some obvious ones",
-    "link": "https://www.latimes.com/science/story/2025-09-24/rfk-wants-an-answer-to-rising-autism-rates-scientists-say-hes-ignoring-these-obvious-ones",
+    "headline": "Barabak: Who's winning the redistricting fight? Here's how to read the polls",
+    "link": "https://www.latimes.com/politics/story/2025-09-24/california-redistricting-polling-proposition-50",
     "source": "latimes",
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: Who's winning the redistricting fight? Here's how to read the polls",
-    "link": "https://www.latimes.com/politics/story/2025-09-24/california-redistricting-polling-proposition-50",
+    "headline": "RFK Jr. wants an answer to rising autism rates. Scientists say he's ignoring some obvious ones",
+    "link": "https://www.latimes.com/science/story/2025-09-24/rfk-wants-an-answer-to-rising-autism-rates-scientists-say-hes-ignoring-these-obvious-ones",
     "source": "latimes",
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
@@ -1188,12 +1398,6 @@
     "pubdate": "2025-09-24-09-21-21 +0000"
   },
   {
-    "headline": "Vance mourns Mission BBQ co-founder’s son killed in military helicopter crash",
-    "link": "https://nypost.com/2025/09/24/us-news/vance-mourns-mission-bbq-co-founders-son-killed-in-military-helicopter-crash/",
-    "source": "nypost",
-    "pubdate": "2025-09-24-09-21-21 +0000"
-  },
-  {
     "headline": "YouTube content creators contributed £2.2bn to UK economy in 2024",
     "link": "https://www.bbc.com/news/articles/c0knpm6v36go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1222,24 +1426,6 @@
     "link": "https://www.wsj.com/economy/german-companies-no-longer-feeling-cheerier-as-clouds-gather-055326f6",
     "source": "wsj",
     "pubdate": "2025-09-24-09-02-00 +0000"
-  },
-  {
-    "headline": "This Conquistador Changed History. Neglect Haunts His Tomb in Mexico",
-    "link": "https://www.nytimes.com/2025/09/24/world/americas/mexico-city-cortes-legacy.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-09-01-00 +0000"
-  },
-  {
-    "headline": "This Conquistador Changed History. Neglect Haunts His Tomb in Mexico",
-    "link": "https://www.nytimes.com/2025/09/24/world/americas/mexico-city-cortes-legacy.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-09-01-00 +0000"
-  },
-  {
-    "headline": "New book reveals what Kamala Harris ‘moaned’ to her husband during Walz’s disastrous VP debate",
-    "link": "https://nypost.com/2025/09/24/us-news/new-book-reveals-what-kamala-harris-moaned-to-her-husband-during-walzs-disastrous-vp-debate/",
-    "source": "nypost",
-    "pubdate": "2025-09-24-09-00-44 +0000"
   },
   {
     "headline": "New book reveals what Kamala Harris ‘moaned’ to her husband during Walz’s disastrous VP debate",
@@ -1282,12 +1468,6 @@
     "link": "https://www.bbc.com/news/articles/cgknzk46kz6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-24-08-42-35 +0000"
-  },
-  {
-    "headline": "Homeland Security releases Pokémon-themed video to highlight immigration arrests: ‘Gotta Catch ‘Em All’",
-    "link": "https://nypost.com/2025/09/24/us-news/homeland-security-releases-pokemon-themed-video-to-highlight-immigration-arrests-gotta-catch-em-all/",
-    "source": "nypost",
-    "pubdate": "2025-09-24-08-27-47 +0000"
   },
   {
     "headline": "Like His Suspension, Kimmel’s Return Draws a Divided Reaction",
@@ -1354,18 +1534,6 @@
     "link": "https://www.bbc.com/news/articles/c0m4xe20p8ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-24-07-28-45 +0000"
-  },
-  {
-    "headline": "Would-be Trump assassin Ryan Routh’s daughter screams and runs from courthouse after guilty verdict is read",
-    "link": "https://nypost.com/2025/09/24/us-news/would-be-trump-assassin-ryan-rouths-daughter-screams-and-runs-from-courthouse-after-guilty-verdict-read/",
-    "source": "nypost",
-    "pubdate": "2025-09-24-07-24-49 +0000"
-  },
-  {
-    "headline": "The Rapture Was Predicted to Happen Today. TikTok Has Some Advice.",
-    "link": "https://www.nytimes.com/2025/09/23/us/rapture-tiktok-sept-23.html",
-    "source": "nyt",
-    "pubdate": "2025-09-24-07-13-24 +0000"
   },
   {
     "headline": "AI tool helped recover £500m lost to fraud, government says",
@@ -1593,13 +1761,13 @@
     "headline": "Moulton Readies Primary Challenge Against Markey in Massachusetts",
     "link": "https://www.nytimes.com/2025/09/23/us/politics/seth-moulton-ed-markey-senate.html",
     "source": "nyt",
-    "pubdate": "2025-09-24-02-33-13 +0000"
+    "pubdate": "2025-09-24-02-33-14 +0000"
   },
   {
     "headline": "Moulton Readies Primary Challenge Against Markey in Massachusetts",
     "link": "https://www.nytimes.com/2025/09/23/us/politics/seth-moulton-ed-markey-senate.html",
     "source": "nyt",
-    "pubdate": "2025-09-24-02-33-13 +0000"
+    "pubdate": "2025-09-24-02-33-14 +0000"
   },
   {
     "headline": "Australian Inflation Accelerates to Highest Level in a Year",
@@ -1750,6 +1918,12 @@
     "link": "https://nypost.com/2025/09/23/us-news/curtis-sliwa-demands-equal-time-from-abc-with-same-town-hall-event-offered-to-zohran-mamdani/",
     "source": "nypost",
     "pubdate": "2025-09-23-23-50-48 +0000"
+  },
+  {
+    "headline": "Dr. Phil Faces Trial on Broadcast Venture’s Bankruptcy",
+    "link": "https://www.wsj.com/articles/dr-phil-faces-trial-on-broadcast-ventures-bankruptcy-d772eacd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-23-23-35-00 +0000"
   },
   {
     "headline": "In a Sudden Shift, Trump Says Ukraine Can Win the War With Russia",
@@ -1908,12 +2082,6 @@
     "pubdate": "2025-09-23-21-54-08 +0000"
   },
   {
-    "headline": "Five Pearls of Financial Wisdom from Jonathan Clements",
-    "link": "https://www.nytimes.com/2025/09/23/business/jonathan-clements-wsj-personal-finance.html",
-    "source": "nyt",
-    "pubdate": "2025-09-23-21-52-07 +0000"
-  },
-  {
     "headline": "How to Watch Jimmy Kimmel’s Return Tonight if Your ABC Station Isn’t Airing It",
     "link": "https://www.nytimes.com/2025/09/23/business/media/jimmy-kimmel-watch-time-stream.html",
     "source": "nyt",
@@ -2070,6 +2238,12 @@
     "pubdate": "2025-09-23-21-29-41 +0000"
   },
   {
+    "headline": "Claudia Cardinale, alluring star of 1960s cinema, dies at 87",
+    "link": "https://www.washingtonpost.com/obituaries/2025/09/23/claudia-cardinale-actress-dead/",
+    "source": "wapo",
+    "pubdate": "2025-09-23-21-29-37 +0000"
+  },
+  {
     "headline": "Trump cancels meetings with Democrats, bringing shutdown closer",
     "link": "https://www.washingtonpost.com/business/2025/09/23/trump-cancels-democrat-meeting-shutdown/",
     "source": "wapo",
@@ -2124,12 +2298,6 @@
     "pubdate": "2025-09-23-21-13-00 +0000"
   },
   {
-    "headline": "Jury Finds Ryan Routh Guilty of Trying to Assassinate Trump in Florida",
-    "link": "https://www.nytimes.com/2025/09/23/us/trump-ryan-routh-trial-florida.html",
-    "source": "nyt",
-    "pubdate": "2025-09-23-21-12-32 +0000"
-  },
-  {
     "headline": "Opinion | Failing Schools Are Why We Need H-1B Visas",
     "link": "https://www.wsj.com/opinion/failing-schools-are-why-we-need-h-1b-visas-6630267c",
     "source": "wsj",
@@ -2138,12 +2306,6 @@
   {
     "headline": "Opinion | The Left’s Plan to Keep Control of Public Broadcasting",
     "link": "https://www.wsj.com/opinion/the-lefts-plan-to-keep-control-of-public-broadcasting-20060166?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-23-21-08-00 +0000"
-  },
-  {
-    "headline": "Opinion | The Left’s Plan to Keep Control of Public Broadcasting",
-    "link": "https://www.wsj.com/opinion/the-lefts-plan-to-keep-control-of-public-broadcasting-20060166",
     "source": "wsj",
     "pubdate": "2025-09-23-21-08-00 +0000"
   },
@@ -2412,12 +2574,6 @@
     "pubdate": "2025-09-23-18-51-18 +0000"
   },
   {
-    "headline": "Powell Stresses ‘Challenging Situation’ for Fed as Rate Debate Intensifies",
-    "link": "https://www.nytimes.com/2025/09/23/business/jerome-powell-federal-reserve-interest-rates.html",
-    "source": "nyt",
-    "pubdate": "2025-09-23-18-51-18 +0000"
-  },
-  {
     "headline": "Burkina Faso, Mali and Niger Leaving International Criminal Court",
     "link": "https://www.nytimes.com/2025/09/23/world/africa/africa-international-criminal-court.html",
     "source": "nyt",
@@ -2562,12 +2718,6 @@
     "pubdate": "2025-09-23-17-51-24 +0000"
   },
   {
-    "headline": "NY House Dems defend decision to duck vote honoring Charlie Kirk",
-    "link": "https://nypost.com/2025/09/23/us-news/ny-house-dems-defend-decision-to-duck-vote-honoring-charlie-kirk/",
-    "source": "nypost",
-    "pubdate": "2025-09-23-17-48-28 +0000"
-  },
-  {
     "headline": "Dozens of Protesters Are Arrested Near the U.N. Before Trump’s Speech",
     "link": "https://www.nytimes.com/2025/09/23/nyregion/united-nations-protest-trump.html",
     "source": "nyt",
@@ -2656,12 +2806,6 @@
     "link": "https://www.bbc.com/news/videos/cy50qzgyyexo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-23-17-21-39 +0000"
-  },
-  {
-    "headline": "Republicans top Democrats among Americans concerned about crime, immigration and the economy",
-    "link": "https://nypost.com/2025/09/23/us-news/republicans-top-dems-among-americans-concerned-about-crime-immigration-and-the-economy/",
-    "source": "nypost",
-    "pubdate": "2025-09-23-17-19-02 +0000"
   },
   {
     "headline": "Jerome Powell says Fed in ‘challenging situation’ as central bank officials divided over rates",
@@ -2880,12 +3024,6 @@
     "pubdate": "2025-09-23-15-18-00 +0000"
   },
   {
-    "headline": "Defense Department Delays Cleanup of ‘Forever Chemicals’ Nationwide",
-    "link": "https://www.nytimes.com/2025/09/23/climate/military-defense-pfas-forever-chemicals-cleanup-delay.html",
-    "source": "nyt",
-    "pubdate": "2025-09-23-15-17-38 +0000"
-  },
-  {
     "headline": "More than 80 buffaloes drown in Namibia after falling off cliff",
     "link": "https://www.bbc.com/news/articles/cvg97m6mqe9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3018,6 +3156,12 @@
     "pubdate": "2025-09-23-14-00-00 +0000"
   },
   {
+    "headline": "When Boring Became Beautiful for Stock-Market Investors",
+    "link": "https://www.wsj.com/finance/investing/index-funds-investing-stock-market-f747f46f",
+    "source": "wsj",
+    "pubdate": "2025-09-23-14-00-00 +0000"
+  },
+  {
     "headline": "It was cheaper to oust Joel Engardio than to elect him, data shows",
     "link": "https://missionlocal.org/2025/09/sf-recall-joel-engardio-data-analysis/",
     "source": "missionlocal",
@@ -3112,12 +3256,6 @@
     "link": "https://www.bbc.com/news/articles/cwy8ee2w73jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-23-13-33-33 +0000"
-  },
-  {
-    "headline": "‘Thin-skinned’ Disney CEO Bob Iger relented on Jimmy Kimmel after criticism from Michael Eisner, whom he ‘loathes,’ insiders say",
-    "link": "https://nypost.com/2025/09/23/business/disney-ceo-bob-iger-relented-on-jimmy-kimmel-after-michael-eisner-criticism/",
-    "source": "nypost",
-    "pubdate": "2025-09-23-13-24-14 +0000"
   },
   {
     "headline": "He's back! Schwarzenegger aims to terminate gerrymandering once again in California",
@@ -3222,12 +3360,6 @@
     "pubdate": "2025-09-23-11-35-31 +0000"
   },
   {
-    "headline": "Super-complaint launched against 'broken' insurance industry",
-    "link": "https://www.bbc.com/news/articles/c87yey5neggo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-23-11-35-31 +0000"
-  },
-  {
     "headline": "Drone flights shut airports in Denmark, Norway as anxiety over Russia soars",
     "link": "https://www.washingtonpost.com/world/2025/09/23/drones-denmark-norway-russia-airports/",
     "source": "wapo",
@@ -3246,9 +3378,9 @@
     "pubdate": "2025-09-23-11-11-25 +0000"
   },
   {
-    "headline": "Tom Brady joins forces with pioneering robotic massage company Aescape",
-    "link": "https://nypost.com/2025/09/23/business/tom-brady-joins-robotic-massage-company-aescape/",
-    "source": "nypost",
+    "headline": "High Cost of H-1B Visas Changes Hiring Calculus at Startups",
+    "link": "https://www.wsj.com/articles/high-cost-of-h-1b-visas-changes-hiring-calculus-at-startups-c788aa8e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
     "pubdate": "2025-09-23-11-00-00 +0000"
   },
   {
@@ -3258,22 +3390,10 @@
     "pubdate": "2025-09-23-11-00-00 +0000"
   },
   {
-    "headline": "8 children killed in drone attack in gang-controlled Haitian neighbourhood",
-    "link": "https://www.cbc.ca/news/world/haiti-deadly-drone-attack-1.7640892?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-23-10-39-52 +0000"
-  },
-  {
     "headline": "Want to retain young talent? Start offering financial advice.",
     "link": "https://www.washingtonpost.com/business/2025/09/23/want-retain-young-talent-start-offering-financial-advice/",
     "source": "wapo",
     "pubdate": "2025-09-23-10-30-00 +0000"
-  },
-  {
-    "headline": "Drones over Copenhagen shut Denmark's largest airport to air traffic for hours",
-    "link": "https://www.cbc.ca/news/world/denmark-drones-airports-1.7640887?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-23-10-08-24 +0000"
   },
   {
     "headline": "Colombian president: Trump’s boat strikes won’t stop narco traffickers",
@@ -3480,12 +3600,6 @@
     "pubdate": "2025-09-23-08-00-00 +0000"
   },
   {
-    "headline": "Under the radar: The possible link between U.S. Baltic security cuts and airspace incursions",
-    "link": "https://www.cbc.ca/news/politics/russian-drone-incursions-1.7640816?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-23-08-00-00 +0000"
-  },
-  {
     "headline": "Sydney 'Night Stalker' pleads guilty to string of sexual assaults in 90s",
     "link": "https://www.bbc.com/news/articles/cjw7915842lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3544,12 +3658,6 @@
     "link": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-23-05-31-13 +0000"
-  },
-  {
-    "headline": "As U.S. Pulls Back From the U.N., Rivals Stand to Gain",
-    "link": "https://www.nytimes.com/2025/09/23/briefing/un-trump-france-palestine.html",
-    "source": "nyt",
-    "pubdate": "2025-09-23-04-30-02 +0000"
   },
   {
     "headline": "Police officer charged with assault at pro-Palestinian protest in Sydney",
@@ -4326,12 +4434,6 @@
     "pubdate": "2025-09-22-16-37-57 +0000"
   },
   {
-    "headline": "Netanyahu vows retaliation ahead of more Palestine recognitions at U.N.",
-    "link": "https://www.washingtonpost.com/world/2025/09/22/palestine-state-recognize-un-israel/",
-    "source": "wapo",
-    "pubdate": "2025-09-22-16-20-43 +0000"
-  },
-  {
     "headline": "How Universal Child Care Could Change the Economy",
     "link": "https://www.nytimes.com/2025/09/22/business/universal-child-care-us-economy.html",
     "source": "nyt",
@@ -4476,12 +4578,6 @@
     "pubdate": "2025-09-22-13-59-00 +0000"
   },
   {
-    "headline": "Trump’s $100,000 H1-B Visa Fee Spurs Confusion and Chaos for Companies",
-    "link": "https://www.nytimes.com/2025/09/20/business/trump-h1b-visas-fee-employees.html",
-    "source": "nyt",
-    "pubdate": "2025-09-22-13-49-22 +0000"
-  },
-  {
     "headline": "Reform plans to scrap indefinite leave to remain for migrants",
     "link": "https://www.bbc.com/news/articles/c930xypxpqpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4602,12 +4698,6 @@
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
   {
-    "headline": "ICE offers big bucks — but California police officers prove tough to poach",
-    "link": "https://www.latimes.com/california/story/2025-09-22/ice-poaching-cops",
-    "source": "latimes",
-    "pubdate": "2025-09-22-10-00-00 +0000"
-  },
-  {
     "headline": "The L.A. wildfire cleanup was fast. Residents eager to rebuild worry officials chose speed over safety",
     "link": "https://www.latimes.com/environment/story/2025-09-22/la-wildfire-cleanup-historically-fast-safety-cost",
     "source": "latimes",
@@ -4620,14 +4710,20 @@
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
   {
+    "headline": "Can one of L.A.'s tallest towers survive a huge quake? L.A. County won't tell the public what its report found",
+    "link": "https://www.latimes.com/california/story/2025-09-22/l-a-county-refuses-to-disclose-seismic-reports-on-its-downtown-skyscraper",
+    "source": "latimes",
+    "pubdate": "2025-09-22-10-00-00 +0000"
+  },
+  {
     "headline": "Predator drones shift from border patrol to protest surveillance",
     "link": "https://www.latimes.com/california/story/2025-09-22/predator-drones-shift-from-border-patrol-to-protest-surveillance",
     "source": "latimes",
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
   {
-    "headline": "Can one of L.A.'s tallest towers survive a huge quake? L.A. County won't tell the public what its report found",
-    "link": "https://www.latimes.com/california/story/2025-09-22/l-a-county-refuses-to-disclose-seismic-reports-on-its-downtown-skyscraper",
+    "headline": "ICE offers big bucks — but California police officers prove tough to poach",
+    "link": "https://www.latimes.com/california/story/2025-09-22/ice-poaching-cops",
     "source": "latimes",
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
@@ -4776,12 +4872,6 @@
     "pubdate": "2025-09-22-01-30-00 +0000"
   },
   {
-    "headline": "Here’s what Scott Wiener has done",
-    "link": "https://48hills.org/2025/09/heres-what-scott-wiener-has-done/",
-    "source": "48hills",
-    "pubdate": "2025-09-22-01-24-25 +0000"
-  },
-  {
     "headline": "The Rush to Return to the Office Is Stalling",
     "link": "https://www.wsj.com/lifestyle/workplace/return-to-office-workers-fail-3d966807?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -4918,12 +5008,6 @@
     "link": "https://www.wsj.com/opinion/are-mexican-politicians-running-cartels-5437c36e",
     "source": "wsj",
     "pubdate": "2025-09-21-20-04-00 +0000"
-  },
-  {
-    "headline": "Canada should be ready for 'generational investment,' Champagne says ahead of budget",
-    "link": "https://www.cbc.ca/news/politics/canada-generational-investment-finance-minister-1.7639708?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-21-19-48-37 +0000"
   },
   {
     "headline": "U.N. Gathers Amid Its 80th Anniversary and a ‘Free Fall’",
@@ -5076,14 +5160,14 @@
     "pubdate": "2025-09-21-10-31-32 +0000"
   },
   {
-    "headline": "Barabak: Here's why the redistricting fight is raging. And why it may be moot",
-    "link": "https://www.latimes.com/politics/story/2025-09-21/redistricting-california-midterm-2026-house-fight-for-control-proposition-50",
+    "headline": "Jimmy Kimmel celebrated Hollywood Boulevard's wacky character. Locals fear life without him",
+    "link": "https://www.latimes.com/california/story/2025-09-21/how-jimmy-kimmel-boosted-hollywood-the-neighborhood",
     "source": "latimes",
     "pubdate": "2025-09-21-10-00-00 +0000"
   },
   {
-    "headline": "Jimmy Kimmel celebrated Hollywood Boulevard's wacky character. Locals fear life without him",
-    "link": "https://www.latimes.com/california/story/2025-09-21/how-jimmy-kimmel-boosted-hollywood-the-neighborhood",
+    "headline": "Barabak: Here's why the redistricting fight is raging. And why it may be moot",
+    "link": "https://www.latimes.com/politics/story/2025-09-21/redistricting-california-midterm-2026-house-fight-for-control-proposition-50",
     "source": "latimes",
     "pubdate": "2025-09-21-10-00-00 +0000"
   },
@@ -5256,18 +5340,6 @@
     "pubdate": "2025-09-20-19-59-15 +0000"
   },
   {
-    "headline": "What Wall Street Sees in the Data Center Boom",
-    "link": "https://www.nytimes.com/2025/09/20/business/dealbook/data-centers-ai.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-19-13-02 +0000"
-  },
-  {
-    "headline": "White House Outlines a TikTok Deal With a U.S. Board",
-    "link": "https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-09-20-18-34-40 +0000"
-  },
-  {
     "headline": "Corrections officers at Norco prison make plea to state to keep it open",
     "link": "https://www.latimes.com/california/story/2025-09-20/corrections-officers-at-norco-prison-make-plea-to-state-to-keep-it-open",
     "source": "latimes",
@@ -5340,8 +5412,8 @@
     "pubdate": "2025-09-20-10-00-11 +0000"
   },
   {
-    "headline": "His cellmates self-deported. He fought to get back to his family",
-    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
+    "headline": "As ICE raids surged this summer, emergency calls to LAPD plummeted",
+    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -5352,8 +5424,8 @@
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "As ICE raids surged this summer, emergency calls to LAPD plummeted",
-    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
+    "headline": "His cellmates self-deported. He fought to get back to his family",
+    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -5382,14 +5454,14 @@
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "As ICE raids surged this summer, emergency calls to LAPD plummeted",
-    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
+    "headline": "His cellmates self-deported. He fought to get back to his family",
+    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "His cellmates self-deported. He fought to get back to his family",
-    "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
+    "headline": "As ICE raids surged this summer, emergency calls to LAPD plummeted",
+    "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -5474,12 +5546,6 @@
   {
     "headline": "Wall Street Bets Rates Will Drop Much More Than the Fed’s Forecasts",
     "link": "https://www.wsj.com/finance/investing/interest-rates-bets-investors-f47c12be?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-20-01-00-00 +0000"
-  },
-  {
-    "headline": "Erika Kirk, Who Helped Build a Movement at Her Husband’s Side, Takes Center Stage",
-    "link": "https://www.wsj.com/us-news/erika-kirk-charlie-widow-turning-point-usa-9030afff",
     "source": "wsj",
     "pubdate": "2025-09-20-01-00-00 +0000"
   },
@@ -6258,6 +6324,12 @@
     "pubdate": "2025-09-18-10-10-00 +0000"
   },
   {
+    "headline": "Edison details how much it plans to pay Eaton fire victims",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
     "headline": "Contributor: The right now embraces cancel culture",
     "link": "https://www.latimes.com/opinion/story/2025-09-18/jimmy-kimmel-cancel-culture-charlie-kirk",
     "source": "latimes",
@@ -6276,20 +6348,14 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "Edison details how much it plans to pay Eaton fire victims",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Edison details how much it plans to pay Eaton fire victims",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
     "headline": "Hiltzik: Sen. Cassidy, whose vote got RFK Jr. his job, finally starts to make amends",
     "link": "https://www.latimes.com/business/story/2025-09-18/sen-cassidy-whose-vote-got-rfk-jr-his-job-finally-starts-to-make-amends",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Edison details how much it plans to pay Eaton fire victims",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -6306,12 +6372,6 @@
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
-    "headline": "Edison details how much it plans to pay Eaton fire victims",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
     "headline": "Trump administration moves to make U.S. citizenship harder with revised civics test",
     "link": "https://www.latimes.com/politics/story/2025-09-18/trump-administration-moves-again-to-make-u-s-citizenship-test-harder",
     "source": "latimes",
@@ -6320,6 +6380,12 @@
   {
     "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
     "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Edison details how much it plans to pay Eaton fire victims",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -6544,11 +6610,5 @@
     "link": "https://www.latimes.com/world-nation/story/2025-09-17/israel-gaza-ground-offensive-international-pressure",
     "source": "latimes",
     "pubdate": "2025-09-17-17-13-13 +0000"
-  },
-  {
-    "headline": "KPMG Ignored Flaws at Regional Banks Before 2023 Crisis, Senate Report Finds",
-    "link": "https://www.wsj.com/articles/kpmg-ignored-flaws-at-regional-banks-before-2023-crisis-senate-report-finds-e30bc988?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-17-16-51-00 +0000"
   }
 ]
