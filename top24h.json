@@ -1,48 +1,41 @@
 [
   {
-    "score": 187,
-    "pubdate": "2025-09-23-03-02-00 +0000",
+    "score": 179,
+    "pubdate": "2025-09-24-01-43-00 +0000",
     "source": "wsj",
-    "headline": "In labeling Tylenol use in pregnant women as a potential cause of autism, President Trump threw the full weight of his office behind a theory that he acknowledged has yet to be proven",
-    "link": "https://www.wsj.com/politics/in-targeting-a-common-painkiller-trump-oversteps-his-own-advisers-guidance-on-autism-571e9eae"
+    "headline": "When Trump announced changes to the H-1B visa program Friday, it was the middle of the night in India. For some H-1B holders there, the next day and a half was a chaotic race around the world.",
+    "link": "https://www.wsj.com/politics/policy/the-frantic-race-back-to-america-for-a-plane-full-of-h-1b-tech-workers-07bf65f6"
   },
   {
-    "score": 101,
+    "score": 99,
     "pubdate": "2025-09-23-15-26-23 +0000",
     "source": "latimes",
     "headline": "Nexstar and Sinclair TV stations will not run 'Jimmy Kimmel Live!' after return to ABC",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-23/nexstar-station-group-preempts-abc-jimmy-kimmel"
   },
   {
-    "score": 66,
+    "score": 77,
+    "pubdate": "2025-09-23-03-02-00 +0000",
+    "source": "wsj",
+    "headline": "In labeling Tylenol use in pregnant women as a potential cause of autism, President Trump threw the full weight of his office behind a theory that he acknowledged has yet to be proven",
+    "link": "https://www.wsj.com/politics/in-targeting-a-common-painkiller-trump-oversteps-his-own-advisers-guidance-on-autism-571e9eae"
+  },
+  {
+    "score": 70,
     "pubdate": "2025-09-23-16-52-00 +0000",
     "source": "wsj",
     "headline": "The Secret Service said it dismantled a network of electronic devices capable of carrying out telecommunications-related threats aimed at U.S. officials ahead of the annual U.N. General Assembly",
     "link": "https://www.wsj.com/politics/national-security/un-secret-service-electronic-device-network-8d30e7de"
   },
   {
-    "score": 61,
+    "score": 63,
     "pubdate": "2025-09-23-14-27-53 +0000",
     "source": "nyt",
     "headline": "Elon Musk’s Father, Errol Musk, Accused of Child Sexual Abuse",
     "link": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html"
   },
   {
-    "score": 56,
-    "pubdate": "2025-09-23-03-48-28 +0000",
-    "source": "bbc",
-    "headline": "NZ woman found guilty of killing her two children in 'suitcase murders'",
-    "link": "https://www.bbc.com/news/articles/c2lxpvj19xdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 53,
-    "pubdate": "2025-09-23-19-35-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump attacked global immigration and efforts to fight climate change during an address to the United Nations, claiming they were among the world’s top threats to Western civilization",
-    "link": "https://www.wsj.com/politics/trump-says-migration-and-climate-change-policies-are-destroying-western-nations-e7047e00"
-  },
-  {
-    "score": 52,
+    "score": 49,
     "pubdate": "2025-09-23-05-31-13 +0000",
     "source": "bbc",
     "headline": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
@@ -50,10 +43,10 @@
   },
   {
     "score": 48,
-    "pubdate": "2025-09-23-08-03-21 +0000",
-    "source": "nypost",
-    "headline": "Ukraine seeks support as Zelensky visits US to address UN, meet Trump",
-    "link": "https://nypost.com/2025/09/23/world-news/ukraine-seeks-support-as-zelensky-visits-us-to-address-un-meet-trump/"
+    "pubdate": "2025-09-23-19-35-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump attacked global immigration and efforts to fight climate change during an address to the United Nations, claiming they were among the world’s top threats to Western civilization",
+    "link": "https://www.wsj.com/politics/trump-says-migration-and-climate-change-policies-are-destroying-western-nations-e7047e00"
   },
   {
     "score": 48,
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/economy/central-banking/fed-chair-jerome-powell-speaks-rate-cuts-397ac3f7"
   },
   {
-    "score": 47,
-    "pubdate": "2025-09-23-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "New bill would crack down on bureaucrats working more than 1 government gig at same time",
-    "link": "https://nypost.com/2025/09/23/us-news/new-bill-would-crack-down-on-bureaucrats-working-more-than-1-govt-gig-simultaneously/"
+    "score": 46,
+    "pubdate": "2025-09-23-23-34-55 +0000",
+    "source": "nyt",
+    "headline": "In a Sudden Shift, Trump Says Ukraine Can Win the War With Russia",
+    "link": "https://www.nytimes.com/2025/09/23/us/politics/trump-russia-ukraine.html"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-09-23-03-48-28 +0000",
+    "source": "bbc",
+    "headline": "NZ woman found guilty of killing her two children in 'suitcase murders'",
+    "link": "https://www.bbc.com/news/articles/c2lxpvj19xdo?at_medium=RSS&at_campaign=rss"
   }
 ]
