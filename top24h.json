@@ -1,17 +1,24 @@
 [
   {
-    "score": 229,
+    "score": 215,
     "pubdate": "2025-09-24-14-05-20 +0000",
     "source": "nypost",
     "headline": "Trump threatens to sue ABC over Jimmy Kimmel’s sudden return to air: ‘A true bunch of losers!’",
     "link": "https://nypost.com/2025/09/24/us-news/trump-threatens-to-sue-abc-over-jimmy-kimmels-sudden-return-to-air-a-true-bunch-of-losers/"
   },
   {
-    "score": 101,
+    "score": 98,
     "pubdate": "2025-09-24-10-00-00 +0000",
     "source": "nypost",
     "headline": "Vivek Ramaswamy tells ‘Pod Force One’ he was offered a cabinet position, dishes on DOGE split with ‘smart’ Elon Musk",
     "link": "https://nypost.com/2025/09/24/us-news/vivek-ramaswamy-tells-pod-force-one-he-was-offered-a-cabinet-position-dishes-on-doge-split-with-smart-elon-musk/"
+  },
+  {
+    "score": 79,
+    "pubdate": "2025-09-24-13-01-18 +0000",
+    "source": "cbc",
+    "headline": "Zelenskyy warns UN of arms race, as Russia scoffs at Trump's latest assessment of Ukraine war",
+    "link": "https://www.cbc.ca/news/world/ukraine-war-zelenskyy-trump-kremlin-response-1.7641996?cmp=rss"
   },
   {
     "score": 76,
@@ -21,52 +28,45 @@
     "link": "https://www.wsj.com/politics/trump-says-migration-and-climate-change-policies-are-destroying-western-nations-e7047e00"
   },
   {
-    "score": 71,
+    "score": 72,
+    "pubdate": "2025-09-24-12-52-41 +0000",
+    "source": "nypost",
+    "headline": "Dallas ICE facility shooting kills at least 1 detainee — sniper found dead on roof: authorities",
+    "link": "https://nypost.com/2025/09/24/us-news/sniper-critically-wounds-at-least-three-people-at-dallas-ice-facility-authorities-say/"
+  },
+  {
+    "score": 69,
+    "pubdate": "2025-09-24-15-06-31 +0000",
+    "source": "bbc",
+    "headline": "Israeli forces near Gaza City centre as Hamas reportedly prepares for street-to-street fighting",
+    "link": "https://www.bbc.com/news/articles/c4gk9dreldxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 69,
     "pubdate": "2025-09-24-07-04-00 +0000",
     "source": "wsj",
     "headline": "China said it will no longer seek new special treatment for developing countries at the WTO, signaling a possible effort to ease a friction point with the U.S.",
     "link": "https://www.wsj.com/economy/trade/china-to-stop-seeking-special-wto-treatment-in-future-talks-30c611f1"
   },
   {
-    "score": 69,
-    "pubdate": "2025-09-24-13-01-18 +0000",
-    "source": "cbc",
-    "headline": "Zelenskyy addresses UN, as Russia scoffs at Trump's latest assessment of Ukraine war",
-    "link": "https://www.cbc.ca/news/world/ukraine-war-zelenskyy-trump-kremlin-response-1.7641996?cmp=rss"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-09-24-12-52-41 +0000",
-    "source": "nypost",
-    "headline": "Dallas ICE facility shooting kills at least 2 detainees — sniper found dead on roof: authorities",
-    "link": "https://nypost.com/2025/09/24/us-news/sniper-critically-wounds-at-least-three-people-at-dallas-ice-facility-authorities-say/"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-09-24-08-57-06 +0000",
+    "score": 55,
+    "pubdate": "2025-09-24-15-46-02 +0000",
     "source": "bbc",
     "headline": "Jimmy Kimmel calls out 'anti-American' threats to free speech in tearful TV return",
     "link": "https://www.bbc.com/news/articles/c9dx6dlelw8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 53,
+    "score": 50,
     "pubdate": "2025-09-24-01-43-00 +0000",
     "source": "wsj",
     "headline": "When Trump announced changes to the H-1B visa program Friday, it was the middle of the night in India. For some H-1B holders there, the next day and a half was a chaotic race around the world.",
     "link": "https://www.wsj.com/politics/policy/air-india-flight-h1b-workers-07bf65f6"
   },
   {
-    "score": 51,
-    "pubdate": "2025-09-23-17-37-22 +0000",
-    "source": "nyt",
-    "headline": "Israel, citing Rosh Hashana, said it wouldn’t attend a U.N. Security Council meeting on Gaza.",
-    "link": "https://www.nytimes.com/live/2025/09/23/world/un-general-assembly-trump/israel-citing-rosh-hashana-said-it-wouldnt-attend-a-un-security-council-meeting-on-gaza"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-09-23-17-53-00 +0000",
-    "source": "wsj",
-    "headline": "Fed Chair Jerome Powell said he judged the Federal Reserve’s interest-rate stance as “still modestly restrictive” even after last week’s rate cut, implying more wiggle room to reduce rates",
-    "link": "https://www.wsj.com/economy/central-banking/fed-chair-jerome-powell-speaks-rate-cuts-397ac3f7"
+    "score": 47,
+    "pubdate": "2025-09-23-17-29-24 +0000",
+    "source": "nypost",
+    "headline": "Megyn Kelly slams ‘coward’ Van Jones for branding Charlie Kirk ‘racist’ 2 days before assassination — then writing CNN op-ed praising him",
+    "link": "https://nypost.com/2025/09/23/media/megyn-kelly-slams-cnns-van-jones-for-calling-charlie-kirk-racist/"
   }
 ]
