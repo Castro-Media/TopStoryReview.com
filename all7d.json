@@ -132,12 +132,6 @@
     "pubdate": "2025-09-25-01-08-09 +0000"
   },
   {
-    "headline": "Delta Replaces Engine Units in Effort to Address Toxic-Fume Surge on Planes",
-    "link": "https://www.wsj.com/business/airlines/delta-airlines-engine-unit-replacement-fumes-0bfae0aa?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-25-01-00-00 +0000"
-  },
-  {
     "headline": "The White House wanted to tame the Epstein crisis. Finger-pointing, disorganization and unforced errors by Trump’s advisers made it worse.",
     "link": "https://www.wsj.com/politics/policy/trump-epstein-white-house-response-8be88051",
     "source": "wsj",
@@ -146,6 +140,12 @@
   {
     "headline": "RFK Jr.’s team wanted to tout an autism therapy. But a meeting with Tylenol’s maker convinced the U.S. health secretary to put the emphasis on acetaminophen",
     "link": "https://www.wsj.com/health/healthcare/tylenol-autism-rfk-jr-trump-administration-split-a1ad44fc",
+    "source": "wsj",
+    "pubdate": "2025-09-25-01-00-00 +0000"
+  },
+  {
+    "headline": "Delta Replaces Engine Units in Effort to Address Toxic-Fume Surge on Planes",
+    "link": "https://www.wsj.com/business/airlines/delta-airlines-engine-unit-replacement-fumes-0bfae0aa?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-25-01-00-00 +0000"
   },
@@ -252,6 +252,12 @@
     "pubdate": "2025-09-25-00-00-39 +0000"
   },
   {
+    "headline": "How Intel’s $28 Billion Pledge Left an Ohio Town in Limbo",
+    "link": "https://www.wsj.com/tech/ohio-intel-chipmaking-investment-status-d135e52c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-25-00-00-00 +0000"
+  },
+  {
     "headline": "China’s Xi Takes Veiled Swipe at Trump, Announces Climate Plan",
     "link": "https://www.wsj.com/world/chinas-xi-takes-veiled-swipe-at-trump-announces-climate-plan-d68a0c2f",
     "source": "wsj",
@@ -272,12 +278,6 @@
   {
     "headline": "Shooting at Dallas ICE Facility Leaves One Detainee Dead",
     "link": "https://www.wsj.com/us-news/dallas-texas-ice-office-shooting-dac9c165",
-    "source": "wsj",
-    "pubdate": "2025-09-25-00-00-00 +0000"
-  },
-  {
-    "headline": "How Intel’s $28 Billion Pledge Left an Ohio Town in Limbo",
-    "link": "https://www.wsj.com/tech/ohio-intel-chipmaking-investment-status-d135e52c?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-25-00-00-00 +0000"
   },
@@ -763,19 +763,19 @@
   },
   {
     "headline": "Opinion | When the Left Censored Speech",
-    "link": "https://www.wsj.com/opinion/google-alphabet-youtube-censorship-jim-jordan-trump-administration-d4c45469",
-    "source": "wsj",
-    "pubdate": "2025-09-24-21-44-00 +0000"
-  },
-  {
-    "headline": "Opinion | When the Left Censored Speech",
     "link": "https://www.wsj.com/opinion/google-alphabet-youtube-censorship-jim-jordan-trump-administration-d4c45469?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-24-21-44-00 +0000"
   },
   {
+    "headline": "Opinion | When the Left Censored Speech",
+    "link": "https://www.wsj.com/opinion/google-alphabet-youtube-censorship-jim-jordan-trump-administration-d4c45469",
+    "source": "wsj",
+    "pubdate": "2025-09-24-21-44-00 +0000"
+  },
+  {
     "headline": "Bessent Says U.S. Is in Talks With Argentina for $20 Billion in Aid",
-    "link": "https://www.wsj.com/world/americas/bessent-says-u-s-talking-with-argentina-about-20-billion-in-aid-0a821d79",
+    "link": "https://www.wsj.com/world/americas/bessent-says-u-s-talking-with-argentina-about-20-billion-in-aid-0a821d79?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-24-21-40-00 +0000"
   },
@@ -787,20 +787,20 @@
   },
   {
     "headline": "Bessent Says U.S. Is in Talks With Argentina for $20 Billion in Aid",
-    "link": "https://www.wsj.com/world/americas/bessent-says-u-s-talking-with-argentina-about-20-billion-in-aid-0a821d79?mod=rss_markets_main",
+    "link": "https://www.wsj.com/world/americas/bessent-says-u-s-talking-with-argentina-about-20-billion-in-aid-0a821d79",
     "source": "wsj",
     "pubdate": "2025-09-24-21-40-00 +0000"
-  },
-  {
-    "headline": "President Donald Trump wrote on TruthSocial that he had been briefed on the shooting and vowed...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-09-24-21-39-41 +0000"
   },
   {
     "headline": "Top hedge fund D.E. Shaw fires DEI chief after The Post’s exposé on woke HR policies",
     "link": "https://nypost.com/2025/09/24/business/top-hedge-fund-de-shaw-fires-dei-chief-after-the-posts-expose-on-woke-hr-policies/",
     "source": "nypost",
+    "pubdate": "2025-09-24-21-39-41 +0000"
+  },
+  {
+    "headline": "President Donald Trump wrote on TruthSocial that he had been briefed on the shooting and vowed...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
     "pubdate": "2025-09-24-21-39-41 +0000"
   },
   {
@@ -996,6 +996,12 @@
     "pubdate": "2025-09-24-20-57-00 +0000"
   },
   {
+    "headline": "Opinion | ‘Energy Dominance’ Needn’t Be Dirty",
+    "link": "https://www.wsj.com/opinion/energy-dominance-neednt-be-dirty-8e072ce2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-24-20-56-00 +0000"
+  },
+  {
     "headline": "Opinion | Bolivia’s Chance to Rejoin the World",
     "link": "https://www.wsj.com/opinion/bolivias-chance-to-rejoin-the-world-73b95a03",
     "source": "wsj",
@@ -1004,12 +1010,6 @@
   {
     "headline": "Opinion | ‘Energy Dominance’ Needn’t Be Dirty",
     "link": "https://www.wsj.com/opinion/energy-dominance-neednt-be-dirty-8e072ce2",
-    "source": "wsj",
-    "pubdate": "2025-09-24-20-56-00 +0000"
-  },
-  {
-    "headline": "Opinion | ‘Energy Dominance’ Needn’t Be Dirty",
-    "link": "https://www.wsj.com/opinion/energy-dominance-neednt-be-dirty-8e072ce2?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-24-20-56-00 +0000"
   },
@@ -1891,13 +1891,13 @@
   },
   {
     "headline": "Wall Street Has Had Its Own Language for Centuries. How Well Do You Speak It?",
-    "link": "https://www.wsj.com/finance/investing/wall-street-jargon-quiz-d2585442",
+    "link": "https://www.wsj.com/finance/investing/wall-street-jargon-quiz-d2585442?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-24-15-00-00 +0000"
   },
   {
     "headline": "Wall Street Has Had Its Own Language for Centuries. How Well Do You Speak It?",
-    "link": "https://www.wsj.com/finance/investing/wall-street-jargon-quiz-d2585442?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/investing/wall-street-jargon-quiz-d2585442",
     "source": "wsj",
     "pubdate": "2025-09-24-15-00-00 +0000"
   },
@@ -1999,13 +1999,13 @@
   },
   {
     "headline": "Trial Separation: Courtroom Lawyers Are Breaking Up With Big Law",
-    "link": "https://www.wsj.com/us-news/law/trial-separation-courtroom-lawyers-are-breaking-up-with-big-law-e22655b4",
+    "link": "https://www.wsj.com/us-news/law/trial-separation-courtroom-lawyers-are-breaking-up-with-big-law-e22655b4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-24-14-00-00 +0000"
   },
   {
     "headline": "Trial Separation: Courtroom Lawyers Are Breaking Up With Big Law",
-    "link": "https://www.wsj.com/us-news/law/trial-separation-courtroom-lawyers-are-breaking-up-with-big-law-e22655b4?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/us-news/law/trial-separation-courtroom-lawyers-are-breaking-up-with-big-law-e22655b4",
     "source": "wsj",
     "pubdate": "2025-09-24-14-00-00 +0000"
   },
@@ -2100,15 +2100,15 @@
     "pubdate": "2025-09-24-13-03-54 +0000"
   },
   {
-    "headline": "Wedding day is every day at City Hall",
-    "link": "https://missionlocal.org/2025/09/sf-photos-3/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-24-13-00-00 +0000"
-  },
-  {
     "headline": "Global Ports Leader Sees Trade Shifting, Not Slowing",
     "link": "https://www.wsj.com/articles/global-ports-leader-sees-trade-shifting-not-slowing-991fffe4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
+    "pubdate": "2025-09-24-13-00-00 +0000"
+  },
+  {
+    "headline": "Wedding day is every day at City Hall",
+    "link": "https://missionlocal.org/2025/09/sf-photos-3/",
+    "source": "missionlocal",
     "pubdate": "2025-09-24-13-00-00 +0000"
   },
   {
@@ -2262,9 +2262,9 @@
     "pubdate": "2025-09-24-11-00-06 +0000"
   },
   {
-    "headline": "Inside ICE’s crackdown in San Francisco — an illustrated timeline",
-    "link": "https://missionlocal.org/2025/09/sf-ice-immigration-crackdown-illustrated/",
-    "source": "missionlocal",
+    "headline": "Ridgemont Equity Collects Nearly $4 Billion for Latest Fund",
+    "link": "https://www.wsj.com/articles/ridgemont-equity-collects-nearly-4-billion-for-latest-fund-81c0ec84?mod=rss_markets_main",
+    "source": "wsj",
     "pubdate": "2025-09-24-11-00-00 +0000"
   },
   {
@@ -2274,9 +2274,9 @@
     "pubdate": "2025-09-24-11-00-00 +0000"
   },
   {
-    "headline": "Ridgemont Equity Collects Nearly $4 Billion for Latest Fund",
-    "link": "https://www.wsj.com/articles/ridgemont-equity-collects-nearly-4-billion-for-latest-fund-81c0ec84?mod=rss_markets_main",
-    "source": "wsj",
+    "headline": "Inside ICE’s crackdown in San Francisco — an illustrated timeline",
+    "link": "https://missionlocal.org/2025/09/sf-ice-immigration-crackdown-illustrated/",
+    "source": "missionlocal",
     "pubdate": "2025-09-24-11-00-00 +0000"
   },
   {
@@ -2406,6 +2406,48 @@
     "pubdate": "2025-09-24-10-00-09 +0000"
   },
   {
+    "headline": "RFK Jr. wants an answer to rising autism rates. Scientists say he's ignoring some obvious ones",
+    "link": "https://www.latimes.com/science/story/2025-09-24/rfk-wants-an-answer-to-rising-autism-rates-scientists-say-hes-ignoring-these-obvious-ones",
+    "source": "latimes",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Is Tren de Aragua a real threat -- or a convenient villain?",
+    "link": "https://www.latimes.com/world-nation/story/2025-09-24/trump-tren-de-aragua-venezeula-bombing",
+    "source": "latimes",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: Who's winning the redistricting fight? Here's how to read the polls",
+    "link": "https://www.latimes.com/politics/story/2025-09-24/california-redistricting-polling-proposition-50",
+    "source": "latimes",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Vivek Ramaswamy tells ‘Pod Force One’ he was offered a cabinet position, dishes on DOGE split with ‘smart’ Elon Musk",
+    "link": "https://nypost.com/2025/09/24/us-news/vivek-ramaswamy-tells-pod-force-one-he-was-offered-a-cabinet-position-dishes-on-doge-split-with-smart-elon-musk/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Vivek Ramaswamy describes ‘modern Apollo mission’ for US in ‘Pod Force One’ interview",
+    "link": "https://nypost.com/2025/09/24/us-news/vivek-ramaswamy-describes-modern-apollo-mission-for-us-in-pod-force-one-interview/",
+    "source": "nypost",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: H-1B visas have always been a scam. Trump's changes won't fix the problem",
+    "link": "https://www.latimes.com/business/story/2025-09-24/h-1b-visas-have-always-been-a-scam-trumps-changes-wont-fix-the-problem",
+    "source": "latimes",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump’s tax break on tips has a catch. Here’s what to know.",
+    "link": "https://www.washingtonpost.com/business/2025/09/24/no-tax-on-tips-qualifications/",
+    "source": "wapo",
+    "pubdate": "2025-09-24-10-00-00 +0000"
+  },
+  {
     "headline": "Trump administration eyes USAID money to advance America First goals",
     "link": "https://www.washingtonpost.com/national-security/2025/09/24/trump-usaid-funding/",
     "source": "wapo",
@@ -2426,48 +2468,6 @@
   {
     "headline": "Man who served 38 years for gory murder he did not commit settles for $25 million",
     "link": "https://www.latimes.com/california/story/2025-09-24/man-freed-after-38-years-of-imprisonment-settles-for-25-million-in-wrongful-conviction-lawsuit",
-    "source": "latimes",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: Who's winning the redistricting fight? Here's how to read the polls",
-    "link": "https://www.latimes.com/politics/story/2025-09-24/california-redistricting-polling-proposition-50",
-    "source": "latimes",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: H-1B visas have always been a scam. Trump's changes won't fix the problem",
-    "link": "https://www.latimes.com/business/story/2025-09-24/h-1b-visas-have-always-been-a-scam-trumps-changes-wont-fix-the-problem",
-    "source": "latimes",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump’s tax break on tips has a catch. Here’s what to know.",
-    "link": "https://www.washingtonpost.com/business/2025/09/24/no-tax-on-tips-qualifications/",
-    "source": "wapo",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Vivek Ramaswamy tells ‘Pod Force One’ he was offered a cabinet position, dishes on DOGE split with ‘smart’ Elon Musk",
-    "link": "https://nypost.com/2025/09/24/us-news/vivek-ramaswamy-tells-pod-force-one-he-was-offered-a-cabinet-position-dishes-on-doge-split-with-smart-elon-musk/",
-    "source": "nypost",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Vivek Ramaswamy describes ‘modern Apollo mission’ for US in ‘Pod Force One’ interview",
-    "link": "https://nypost.com/2025/09/24/us-news/vivek-ramaswamy-describes-modern-apollo-mission-for-us-in-pod-force-one-interview/",
-    "source": "nypost",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
-    "headline": "RFK Jr. wants an answer to rising autism rates. Scientists say he's ignoring some obvious ones",
-    "link": "https://www.latimes.com/science/story/2025-09-24/rfk-wants-an-answer-to-rising-autism-rates-scientists-say-hes-ignoring-these-obvious-ones",
-    "source": "latimes",
-    "pubdate": "2025-09-24-10-00-00 +0000"
-  },
-  {
-    "headline": "Is Tren de Aragua a real threat -- or a convenient villain?",
-    "link": "https://www.latimes.com/world-nation/story/2025-09-24/trump-tren-de-aragua-venezeula-bombing",
     "source": "latimes",
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
@@ -2508,14 +2508,8 @@
     "pubdate": "2025-09-24-09-33-48 +0000"
   },
   {
-    "headline": "Gen Z’s New Symbol of Resistance: A Cartoon Jolly Roger",
-    "link": "https://www.wsj.com/world/gen-zs-new-symbol-of-resistance-a-cartoon-jolly-roger-851e8587",
-    "source": "wsj",
-    "pubdate": "2025-09-24-09-30-00 +0000"
-  },
-  {
-    "headline": "Gen Z’s New Symbol of Resistance: A Cartoon Jolly Roger",
-    "link": "https://www.wsj.com/world/gen-zs-new-symbol-of-resistance-a-cartoon-jolly-roger-851e8587",
+    "headline": "High Earners Age 50 and Older Are About to Lose a Major 401(k) Tax Break",
+    "link": "https://www.wsj.com/personal-finance/retirement/high-earners-age-50-and-older-are-about-to-lose-a-major-401-k-tax-break-75572091?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-24-09-30-00 +0000"
   },
@@ -2526,8 +2520,14 @@
     "pubdate": "2025-09-24-09-30-00 +0000"
   },
   {
-    "headline": "High Earners Age 50 and Older Are About to Lose a Major 401(k) Tax Break",
-    "link": "https://www.wsj.com/personal-finance/retirement/high-earners-age-50-and-older-are-about-to-lose-a-major-401-k-tax-break-75572091?mod=rss_markets_main",
+    "headline": "Gen Z’s New Symbol of Resistance: A Cartoon Jolly Roger",
+    "link": "https://www.wsj.com/world/gen-zs-new-symbol-of-resistance-a-cartoon-jolly-roger-851e8587",
+    "source": "wsj",
+    "pubdate": "2025-09-24-09-30-00 +0000"
+  },
+  {
+    "headline": "Gen Z’s New Symbol of Resistance: A Cartoon Jolly Roger",
+    "link": "https://www.wsj.com/world/gen-zs-new-symbol-of-resistance-a-cartoon-jolly-roger-851e8587",
     "source": "wsj",
     "pubdate": "2025-09-24-09-30-00 +0000"
   },
@@ -2628,14 +2628,14 @@
     "pubdate": "2025-09-24-08-00-09 +0000"
   },
   {
-    "headline": "Trump's autism announcement leaves Tylenol's parent company with PR crisis",
-    "link": "https://www.cbc.ca/news/world/tylenol-response-trump-1.7641843?cmp=rss",
+    "headline": "3 problems with the temporary foreign worker program and 3 possible fixes, according to experts",
+    "link": "https://www.cbc.ca/news/canada/calgary/temporary-foreign-worker-program-fixes-1.7633045?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-24-08-00-00 +0000"
   },
   {
-    "headline": "3 problems with the temporary foreign worker program and 3 possible fixes, according to experts",
-    "link": "https://www.cbc.ca/news/canada/calgary/temporary-foreign-worker-program-fixes-1.7633045?cmp=rss",
+    "headline": "Trump's autism announcement leaves Tylenol's parent company with PR crisis",
+    "link": "https://www.cbc.ca/news/world/tylenol-response-trump-1.7641843?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-24-08-00-00 +0000"
   },
@@ -2898,13 +2898,13 @@
     "pubdate": "2025-09-24-01-46-55 +0000"
   },
   {
-    "headline": "The Race Back to America for a Plane Full of H-1B Workers",
+    "headline": "When Trump announced changes to the H-1B visa program Friday, it was the middle of the night in India. For some H-1B holders there, the next day and a half was a chaotic race around the world.",
     "link": "https://www.wsj.com/politics/policy/air-india-flight-h1b-workers-07bf65f6",
     "source": "wsj",
     "pubdate": "2025-09-24-01-43-00 +0000"
   },
   {
-    "headline": "When Trump announced changes to the H-1B visa program Friday, it was the middle of the night in India. For some H-1B holders there, the next day and a half was a chaotic race around the world.",
+    "headline": "The Race Back to America for a Plane Full of H-1B Workers",
     "link": "https://www.wsj.com/politics/policy/air-india-flight-h1b-workers-07bf65f6",
     "source": "wsj",
     "pubdate": "2025-09-24-01-43-00 +0000"
@@ -3114,8 +3114,8 @@
     "pubdate": "2025-09-23-21-51-46 +0000"
   },
   {
-    "headline": "Trump Says Ukraine Can Take Back All Lost Territory",
-    "link": "https://www.wsj.com/world/trump-says-ukraine-can-take-back-all-lost-territory-6d8e7be7",
+    "headline": "SEC Says RadioShack Brand Buyer Ran a Ponzi Scheme",
+    "link": "https://www.wsj.com/articles/sec-says-radioshack-brand-buyer-ran-a-ponzi-scheme-9c3485a4?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-23-21-49-00 +0000"
   },
@@ -3126,8 +3126,8 @@
     "pubdate": "2025-09-23-21-49-00 +0000"
   },
   {
-    "headline": "SEC Says RadioShack Brand Buyer Ran a Ponzi Scheme",
-    "link": "https://www.wsj.com/articles/sec-says-radioshack-brand-buyer-ran-a-ponzi-scheme-9c3485a4?mod=rss_markets_main",
+    "headline": "Trump Says Ukraine Can Take Back All Lost Territory",
+    "link": "https://www.wsj.com/world/trump-says-ukraine-can-take-back-all-lost-territory-6d8e7be7",
     "source": "wsj",
     "pubdate": "2025-09-23-21-49-00 +0000"
   },
@@ -3253,13 +3253,13 @@
   },
   {
     "headline": "Opinion | Your Vote Doesn’t Count at ExxonMobil",
-    "link": "https://www.wsj.com/opinion/your-vote-doesnt-count-at-exxonmobil-3912bd36?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/your-vote-doesnt-count-at-exxonmobil-3912bd36?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-23-21-14-00 +0000"
   },
   {
     "headline": "Opinion | Your Vote Doesn’t Count at ExxonMobil",
-    "link": "https://www.wsj.com/opinion/your-vote-doesnt-count-at-exxonmobil-3912bd36?mod=rss_markets_main",
+    "link": "https://www.wsj.com/opinion/your-vote-doesnt-count-at-exxonmobil-3912bd36?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-23-21-14-00 +0000"
   },
@@ -3396,13 +3396,13 @@
     "pubdate": "2025-09-23-19-39-56 +0000"
   },
   {
-    "headline": "Trump Says Migration and Climate-Change Policies Are Destroying the West",
+    "headline": "President Trump attacked global immigration and efforts to fight climate change during an address to the United Nations, claiming they were among the world’s top threats to Western civilization",
     "link": "https://www.wsj.com/politics/trump-says-migration-and-climate-change-policies-are-destroying-western-nations-e7047e00",
     "source": "wsj",
     "pubdate": "2025-09-23-19-35-00 +0000"
   },
   {
-    "headline": "President Trump attacked global immigration and efforts to fight climate change during an address to the United Nations, claiming they were among the world’s top threats to Western civilization",
+    "headline": "Trump Says Migration and Climate-Change Policies Are Destroying the West",
     "link": "https://www.wsj.com/politics/trump-says-migration-and-climate-change-policies-are-destroying-western-nations-e7047e00",
     "source": "wsj",
     "pubdate": "2025-09-23-19-35-00 +0000"
@@ -3660,13 +3660,13 @@
     "pubdate": "2025-09-23-16-53-13 +0000"
   },
   {
-    "headline": "Secret Service Thwarts Telecom Threat in NYC Area Ahead of U.N. General Assembly",
+    "headline": "The Secret Service said it dismantled a network of electronic devices capable of carrying out telecommunications-related threats aimed at U.S. officials ahead of the annual U.N. General Assembly",
     "link": "https://www.wsj.com/politics/national-security/un-secret-service-electronic-device-network-8d30e7de",
     "source": "wsj",
     "pubdate": "2025-09-23-16-52-00 +0000"
   },
   {
-    "headline": "The Secret Service said it dismantled a network of electronic devices capable of carrying out telecommunications-related threats aimed at U.S. officials ahead of the annual U.N. General Assembly",
+    "headline": "Secret Service Thwarts Telecom Threat in NYC Area Ahead of U.N. General Assembly",
     "link": "https://www.wsj.com/politics/national-security/un-secret-service-electronic-device-network-8d30e7de",
     "source": "wsj",
     "pubdate": "2025-09-23-16-52-00 +0000"
@@ -3900,27 +3900,27 @@
     "pubdate": "2025-09-23-14-13-00 +0000"
   },
   {
-    "headline": "It was cheaper to oust Joel Engardio than to elect him, data shows",
-    "link": "https://missionlocal.org/2025/09/sf-recall-joel-engardio-data-analysis/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-23-14-00-00 +0000"
-  },
-  {
-    "headline": "When Boring Became Beautiful for Stock-Market Investors",
-    "link": "https://www.wsj.com/finance/investing/index-funds-investing-stock-market-f747f46f",
-    "source": "wsj",
-    "pubdate": "2025-09-23-14-00-00 +0000"
-  },
-  {
-    "headline": "When Boring Became Beautiful for Stock-Market Investors",
-    "link": "https://www.wsj.com/finance/investing/index-funds-investing-stock-market-f747f46f",
-    "source": "wsj",
-    "pubdate": "2025-09-23-14-00-00 +0000"
-  },
-  {
     "headline": "When Boring Became Beautiful for Stock-Market Investors",
     "link": "https://www.wsj.com/finance/investing/index-funds-investing-stock-market-f747f46f?mod=rss_markets_main",
     "source": "wsj",
+    "pubdate": "2025-09-23-14-00-00 +0000"
+  },
+  {
+    "headline": "When Boring Became Beautiful for Stock-Market Investors",
+    "link": "https://www.wsj.com/finance/investing/index-funds-investing-stock-market-f747f46f",
+    "source": "wsj",
+    "pubdate": "2025-09-23-14-00-00 +0000"
+  },
+  {
+    "headline": "When Boring Became Beautiful for Stock-Market Investors",
+    "link": "https://www.wsj.com/finance/investing/index-funds-investing-stock-market-f747f46f",
+    "source": "wsj",
+    "pubdate": "2025-09-23-14-00-00 +0000"
+  },
+  {
+    "headline": "It was cheaper to oust Joel Engardio than to elect him, data shows",
+    "link": "https://missionlocal.org/2025/09/sf-recall-joel-engardio-data-analysis/",
+    "source": "missionlocal",
     "pubdate": "2025-09-23-14-00-00 +0000"
   },
   {
@@ -3990,12 +3990,6 @@
     "pubdate": "2025-09-23-13-33-33 +0000"
   },
   {
-    "headline": "Vacancy",
-    "link": "https://missionlocal.org/2025/09/sf-photos-vacancy/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-23-13-00-00 +0000"
-  },
-  {
     "headline": "He's back! Schwarzenegger aims to terminate gerrymandering once again in California",
     "link": "https://www.latimes.com/politics/story/2025-09-23/hes-back-former-gov-schwarzenegger-speaks-out-against-gerrymandering",
     "source": "latimes",
@@ -4011,6 +4005,12 @@
     "headline": "He's back! Schwarzenegger aims to terminate gerrymandering once again in California",
     "link": "https://www.latimes.com/politics/story/2025-09-23/hes-back-former-gov-schwarzenegger-speaks-out-against-gerrymandering",
     "source": "latimes",
+    "pubdate": "2025-09-23-13-00-00 +0000"
+  },
+  {
+    "headline": "Vacancy",
+    "link": "https://missionlocal.org/2025/09/sf-photos-vacancy/",
+    "source": "missionlocal",
     "pubdate": "2025-09-23-13-00-00 +0000"
   },
   {
@@ -4092,15 +4092,15 @@
     "pubdate": "2025-09-23-11-11-25 +0000"
   },
   {
-    "headline": "Engardio recallers draw line in the sand at Mayor Lurie’s upzoning plan",
-    "link": "https://missionlocal.org/2025/09/sf-sunset-joel-engardio-recall-mayor-upzoning/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-23-11-00-00 +0000"
-  },
-  {
     "headline": "High Cost of H-1B Visas Changes Hiring Calculus at Startups",
     "link": "https://www.wsj.com/articles/high-cost-of-h-1b-visas-changes-hiring-calculus-at-startups-c788aa8e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
+    "pubdate": "2025-09-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Engardio recallers draw line in the sand at Mayor Lurie’s upzoning plan",
+    "link": "https://missionlocal.org/2025/09/sf-sunset-joel-engardio-recall-mayor-upzoning/",
+    "source": "missionlocal",
     "pubdate": "2025-09-23-11-00-00 +0000"
   },
   {
@@ -4114,6 +4114,30 @@
     "link": "https://www.washingtonpost.com/world/2025/09/23/colombia-petro-interview-trump/",
     "source": "wapo",
     "pubdate": "2025-09-23-10-00-13 +0000"
+  },
+  {
+    "headline": "Harris seemed to touch a nerve with Newsom, but says he has 'a great sense of humor'",
+    "link": "https://www.latimes.com/politics/story/2025-09-23/kamala-harris-rachel-maddow-book-107-days-campaign-trump",
+    "source": "latimes",
+    "pubdate": "2025-09-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump taps 'Tough Patriot' — L.A. lawyer known for crypto, guns — as 9th Circuit judge",
+    "link": "https://www.latimes.com/california/story/2025-09-23/eric-tung-trump-9th-circuit",
+    "source": "latimes",
+    "pubdate": "2025-09-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Nvidia Has a Problem: Too Much Money",
+    "link": "https://www.wsj.com/tech/why-nvidia-is-spending-so-much-money-309dfae3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-23-10-00-00 +0000"
+  },
+  {
+    "headline": "A shutdown would give Trump more power over federal spending",
+    "link": "https://www.washingtonpost.com/business/2025/09/23/government-shutdown-federal-spending/",
+    "source": "wapo",
+    "pubdate": "2025-09-23-10-00-00 +0000"
   },
   {
     "headline": "This program is using augmented reality to teach preschoolers spatial awareness",
@@ -4158,34 +4182,16 @@
     "pubdate": "2025-09-23-10-00-00 +0000"
   },
   {
-    "headline": "Nvidia Has a Problem: Too Much Money",
-    "link": "https://www.wsj.com/tech/why-nvidia-is-spending-so-much-money-309dfae3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-23-10-00-00 +0000"
-  },
-  {
-    "headline": "A shutdown would give Trump more power over federal spending",
-    "link": "https://www.washingtonpost.com/business/2025/09/23/government-shutdown-federal-spending/",
-    "source": "wapo",
-    "pubdate": "2025-09-23-10-00-00 +0000"
-  },
-  {
-    "headline": "Harris seemed to touch a nerve with Newsom, but says he has 'a great sense of humor'",
-    "link": "https://www.latimes.com/politics/story/2025-09-23/kamala-harris-rachel-maddow-book-107-days-campaign-trump",
-    "source": "latimes",
-    "pubdate": "2025-09-23-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump taps 'Tough Patriot' — L.A. lawyer known for crypto, guns — as 9th Circuit judge",
-    "link": "https://www.latimes.com/california/story/2025-09-23/eric-tung-trump-9th-circuit",
-    "source": "latimes",
-    "pubdate": "2025-09-23-10-00-00 +0000"
-  },
-  {
     "headline": "The origin story of the U.N. General Assembly, forged in the ashes of WWII",
     "link": "https://www.washingtonpost.com/history/2025/09/23/un-general-assembly-anniversary/",
     "source": "wapo",
     "pubdate": "2025-09-23-09-49-32 +0000"
+  },
+  {
+    "headline": "This Hated Stock Suddenly Looks Like an Obesity Bargain",
+    "link": "https://www.wsj.com/health/pharma/pfizer-stock-obesity-investment-bargain-7cdb6ca2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-23-09-30-00 +0000"
   },
   {
     "headline": "A Charlie Kirk Poster Reignites Debate Over When Businesses Can Refuse Service",
@@ -4202,12 +4208,6 @@
   {
     "headline": "A Charlie Kirk Poster Reignites Debate Over When Businesses Can Refuse Service",
     "link": "https://www.wsj.com/business/charlie-kirk-office-depot-workers-politics-7dbc52ab?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-23-09-30-00 +0000"
-  },
-  {
-    "headline": "This Hated Stock Suddenly Looks Like an Obesity Bargain",
-    "link": "https://www.wsj.com/health/pharma/pfizer-stock-obesity-investment-bargain-7cdb6ca2?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-23-09-30-00 +0000"
   },
@@ -4386,14 +4386,14 @@
     "pubdate": "2025-09-23-03-00-00 +0000"
   },
   {
-    "headline": "USDA Puts Food Researchers on Leave",
-    "link": "https://www.wsj.com/politics/policy/usda-puts-food-researchers-on-leave-ef287cd7?mod=pls_whats_news_us_business_f",
+    "headline": "The team of federal economists and researchers responsible for producing the government survey that measures hunger in America were put on indefinite paid leave Monday, according to the union that represents the workers",
+    "link": "https://www.wsj.com/politics/policy/usda-puts-food-researchers-on-leave-ef287cd7",
     "source": "wsj",
     "pubdate": "2025-09-23-02-51-00 +0000"
   },
   {
-    "headline": "The team of federal economists and researchers responsible for producing the government survey that measures hunger in America were put on indefinite paid leave Monday, according to the union that represents the workers",
-    "link": "https://www.wsj.com/politics/policy/usda-puts-food-researchers-on-leave-ef287cd7",
+    "headline": "USDA Puts Food Researchers on Leave",
+    "link": "https://www.wsj.com/politics/policy/usda-puts-food-researchers-on-leave-ef287cd7?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-23-02-51-00 +0000"
   },
@@ -4434,6 +4434,12 @@
     "pubdate": "2025-09-23-01-26-27 +0000"
   },
   {
+    "headline": "President Trump’s demand that Attorney General Pam Bondi prosecute his adversaries has alarmed current and former DOJ officials who say it threatens the department’s credibility",
+    "link": "https://www.wsj.com/politics/policy/trumps-pressure-campaign-strains-justice-department-614d2151",
+    "source": "wsj",
+    "pubdate": "2025-09-23-01-00-00 +0000"
+  },
+  {
     "headline": "The Catholic Church Has a Manpower Problem: Fewer Priests Every Year",
     "link": "https://www.wsj.com/world/catholic-church-problem-priest-numbers-42b6140b",
     "source": "wsj",
@@ -4448,12 +4454,6 @@
   {
     "headline": "The worker visas that President Trump says now require $100,000 application fees fill a tiny portion of the U.S. workforce but include jobs at some of the biggest tech companies",
     "link": "https://www.wsj.com/economy/jobs/h1b-visas-workers-charts-cb81493c",
-    "source": "wsj",
-    "pubdate": "2025-09-23-01-00-00 +0000"
-  },
-  {
-    "headline": "President Trump’s demand that Attorney General Pam Bondi prosecute his adversaries has alarmed current and former DOJ officials who say it threatens the department’s credibility",
-    "link": "https://www.wsj.com/politics/policy/trumps-pressure-campaign-strains-justice-department-614d2151",
     "source": "wsj",
     "pubdate": "2025-09-23-01-00-00 +0000"
   },
@@ -4687,12 +4687,6 @@
   },
   {
     "headline": "Jonathan Clements, Longtime WSJ Columnist, Dies at 62",
-    "link": "https://www.wsj.com/finance/investing/jonathan-clements-longtime-wsj-columnist-dies-at-62-8753c01d",
-    "source": "wsj",
-    "pubdate": "2025-09-22-22-04-00 +0000"
-  },
-  {
-    "headline": "Jonathan Clements, Longtime WSJ Columnist, Dies at 62",
     "link": "https://www.wsj.com/finance/investing/jonathan-clements-longtime-wsj-columnist-dies-at-62-8753c01d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-22-22-04-00 +0000"
@@ -4700,6 +4694,12 @@
   {
     "headline": "ProPhase Puts Covid Testing Unit in Bankruptcy to Collect Insurance Debts",
     "link": "https://www.wsj.com/articles/prophase-puts-covid-testing-unitin-bankruptcyto-collect-insurance-debts-3a34ae9d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-22-22-04-00 +0000"
+  },
+  {
+    "headline": "Jonathan Clements, Longtime WSJ Columnist, Dies at 62",
+    "link": "https://www.wsj.com/finance/investing/jonathan-clements-longtime-wsj-columnist-dies-at-62-8753c01d",
     "source": "wsj",
     "pubdate": "2025-09-22-22-04-00 +0000"
   },
@@ -5136,15 +5136,15 @@
     "pubdate": "2025-09-22-13-02-17 +0000"
   },
   {
-    "headline": "Feline affordable housing",
-    "link": "https://missionlocal.org/2025/09/sf-photos-feline-affordable-housing/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-22-13-00-00 +0000"
-  },
-  {
     "headline": "PrizePicks Sells Majority Stake to Lottery Operator for $1.6 Billion",
     "link": "https://www.wsj.com/business/media/prizepicks-sells-majority-stake-to-lottery-operator-for-1-6-billion-f2f75cc8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
+    "pubdate": "2025-09-22-13-00-00 +0000"
+  },
+  {
+    "headline": "Feline affordable housing",
+    "link": "https://missionlocal.org/2025/09/sf-photos-feline-affordable-housing/",
+    "source": "missionlocal",
     "pubdate": "2025-09-22-13-00-00 +0000"
   },
   {
@@ -5190,12 +5190,6 @@
     "pubdate": "2025-09-22-11-01-00 +0000"
   },
   {
-    "headline": "T-Mobile Names Telecom Veteran as Next CEO",
-    "link": "https://www.wsj.com/business/telecom/t-mobile-names-telecom-veteran-as-next-ceo-abb4194b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-22-11-00-00 +0000"
-  },
-  {
     "headline": "Black Swan Manager Sees Huge Rally, Then 1929-Style Crash",
     "link": "https://www.wsj.com/finance/stocks/black-swan-manager-sees-huge-rally-then-1929-style-crash-f2d16c9b?mod=rss_markets_main",
     "source": "wsj",
@@ -5214,6 +5208,12 @@
     "pubdate": "2025-09-22-11-00-00 +0000"
   },
   {
+    "headline": "T-Mobile Names Telecom Veteran as Next CEO",
+    "link": "https://www.wsj.com/business/telecom/t-mobile-names-telecom-veteran-as-next-ceo-abb4194b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-22-11-00-00 +0000"
+  },
+  {
     "headline": "Lib Dems want health warnings on teens' social media",
     "link": "https://www.bbc.com/news/articles/cp3vdw7wv2go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5224,6 +5224,18 @@
     "link": "https://www.latimes.com/california/story/2025-09-22/earthquake-shakes-san-francisco-bay-area",
     "source": "latimes",
     "pubdate": "2025-09-22-10-06-14 +0000"
+  },
+  {
+    "headline": "ICE offers big bucks — but California police officers prove tough to poach",
+    "link": "https://www.latimes.com/california/story/2025-09-22/ice-poaching-cops",
+    "source": "latimes",
+    "pubdate": "2025-09-22-10-00-00 +0000"
+  },
+  {
+    "headline": "The Guardian’s New Pitch to Americans—It’s Not Just About Trump",
+    "link": "https://www.wsj.com/articles/the-guardians-new-pitch-to-americansits-not-just-about-trump-a2ce14f7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-22-10-00-00 +0000"
   },
   {
     "headline": "Kindergarten is important, but illness, tears make chronic absenteeism a challenge",
@@ -5252,18 +5264,6 @@
   {
     "headline": "The L.A. wildfire cleanup was fast. Residents eager to rebuild worry officials chose speed over safety",
     "link": "https://www.latimes.com/environment/story/2025-09-22/la-wildfire-cleanup-historically-fast-safety-cost",
-    "source": "latimes",
-    "pubdate": "2025-09-22-10-00-00 +0000"
-  },
-  {
-    "headline": "The Guardian’s New Pitch to Americans—It’s Not Just About Trump",
-    "link": "https://www.wsj.com/articles/the-guardians-new-pitch-to-americansits-not-just-about-trump-a2ce14f7?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-22-10-00-00 +0000"
-  },
-  {
-    "headline": "ICE offers big bucks — but California police officers prove tough to poach",
-    "link": "https://www.latimes.com/california/story/2025-09-22/ice-poaching-cops",
     "source": "latimes",
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
@@ -5586,39 +5586,39 @@
     "pubdate": "2025-09-21-13-03-34 +0000"
   },
   {
-    "headline": "(W)under",
-    "link": "https://missionlocal.org/2025/09/sf-photos-wunder/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-21-13-00-00 +0000"
-  },
-  {
     "headline": "Home-Energy Tax Credits Are Expiring Soon. Act Fast.",
     "link": "https://www.wsj.com/us-news/climate-environment/home-energy-tax-credits-expiration-00c5e6aa",
     "source": "wsj",
     "pubdate": "2025-09-21-13-00-00 +0000"
   },
   {
-    "headline": "'We can't sit on the sidelines': LGBTQ+ candidates step up amid threats to queer rights",
-    "link": "https://www.latimes.com/politics/story/2025-09-21/democrat-republican-lgbtq-americans-running-for-office",
-    "source": "latimes",
-    "pubdate": "2025-09-21-12-00-00 +0000"
-  },
-  {
-    "headline": "'We can't sit on the sidelines': LGBTQ+ candidates step up amid threats to queer rights",
-    "link": "https://www.latimes.com/politics/story/2025-09-21/democrat-republican-lgbtq-americans-running-for-office",
-    "source": "latimes",
-    "pubdate": "2025-09-21-12-00-00 +0000"
-  },
-  {
-    "headline": "ArtSpan kicks off 51st season with Art Launch gallery event",
-    "link": "https://missionlocal.org/2025/09/artspan-s-f-kicks-off-51st-season-with-art-launch-gallery-event/",
+    "headline": "(W)under",
+    "link": "https://missionlocal.org/2025/09/sf-photos-wunder/",
     "source": "missionlocal",
-    "pubdate": "2025-09-21-11-00-00 +0000"
+    "pubdate": "2025-09-21-13-00-00 +0000"
+  },
+  {
+    "headline": "'We can't sit on the sidelines': LGBTQ+ candidates step up amid threats to queer rights",
+    "link": "https://www.latimes.com/politics/story/2025-09-21/democrat-republican-lgbtq-americans-running-for-office",
+    "source": "latimes",
+    "pubdate": "2025-09-21-12-00-00 +0000"
+  },
+  {
+    "headline": "'We can't sit on the sidelines': LGBTQ+ candidates step up amid threats to queer rights",
+    "link": "https://www.latimes.com/politics/story/2025-09-21/democrat-republican-lgbtq-americans-running-for-office",
+    "source": "latimes",
+    "pubdate": "2025-09-21-12-00-00 +0000"
   },
   {
     "headline": "Ozempic’s Maker Got Crushed. The Rebound Is Under Way.",
     "link": "https://www.wsj.com/health/pharma/ozempics-maker-got-crushed-the-rebound-is-underway-36da4587?mod=rss_markets_main",
     "source": "wsj",
+    "pubdate": "2025-09-21-11-00-00 +0000"
+  },
+  {
+    "headline": "ArtSpan kicks off 51st season with Art Launch gallery event",
+    "link": "https://missionlocal.org/2025/09/artspan-s-f-kicks-off-51st-season-with-art-launch-gallery-event/",
+    "source": "missionlocal",
     "pubdate": "2025-09-21-11-00-00 +0000"
   },
   {
@@ -5634,8 +5634,8 @@
     "pubdate": "2025-09-21-10-31-32 +0000"
   },
   {
-    "headline": "L.A.'s repertory cinemas endure through an age of streaming and Hollywood turmoil",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-21/in-the-age-of-streaming-las-revival-cinemas-offer-something-more",
+    "headline": "Barabak: Here's why the redistricting fight is raging. And why it may be moot",
+    "link": "https://www.latimes.com/politics/story/2025-09-21/redistricting-california-midterm-2026-house-fight-for-control-proposition-50",
     "source": "latimes",
     "pubdate": "2025-09-21-10-00-00 +0000"
   },
@@ -5652,8 +5652,8 @@
     "pubdate": "2025-09-21-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: Here's why the redistricting fight is raging. And why it may be moot",
-    "link": "https://www.latimes.com/politics/story/2025-09-21/redistricting-california-midterm-2026-house-fight-for-control-proposition-50",
+    "headline": "L.A.'s repertory cinemas endure through an age of streaming and Hollywood turmoil",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-21/in-the-age-of-streaming-las-revival-cinemas-offer-something-more",
     "source": "latimes",
     "pubdate": "2025-09-21-10-00-00 +0000"
   },
@@ -5868,6 +5868,12 @@
     "pubdate": "2025-09-20-10-00-11 +0000"
   },
   {
+    "headline": "In a race back to the moon, U.S. and China see a fast-approaching finish line",
+    "link": "https://www.latimes.com/politics/story/2025-09-20/trump-artemis-program-moon-race-with-china",
+    "source": "latimes",
+    "pubdate": "2025-09-20-10-00-00 +0000"
+  },
+  {
     "headline": "As ICE raids surged this summer, emergency calls to LAPD plummeted",
     "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
     "source": "latimes",
@@ -5876,12 +5882,6 @@
   {
     "headline": "His cellmates self-deported. He fought to get back to his family",
     "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
-    "source": "latimes",
-    "pubdate": "2025-09-20-10-00-00 +0000"
-  },
-  {
-    "headline": "Jail watchdog that exposed grim conditions faces elimination under L.A. County plan",
-    "link": "https://www.latimes.com/california/story/2025-09-20/sybil-brand-commission-sunsetting",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -5904,12 +5904,6 @@
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
   {
-    "headline": "In a race back to the moon, U.S. and China see a fast-approaching finish line",
-    "link": "https://www.latimes.com/politics/story/2025-09-20/trump-artemis-program-moon-race-with-china",
-    "source": "latimes",
-    "pubdate": "2025-09-20-10-00-00 +0000"
-  },
-  {
     "headline": "As ICE raids surged this summer, emergency calls to LAPD plummeted",
     "link": "https://www.latimes.com/california/story/2025-09-20/ice-raids-911-calls",
     "source": "latimes",
@@ -5918,6 +5912,12 @@
   {
     "headline": "His cellmates self-deported. He fought to get back to his family",
     "link": "https://www.latimes.com/california/story/2025-09-20/strawberry-delivery-border-patrol-reunion",
+    "source": "latimes",
+    "pubdate": "2025-09-20-10-00-00 +0000"
+  },
+  {
+    "headline": "Jail watchdog that exposed grim conditions faces elimination under L.A. County plan",
+    "link": "https://www.latimes.com/california/story/2025-09-20/sybil-brand-commission-sunsetting",
     "source": "latimes",
     "pubdate": "2025-09-20-10-00-00 +0000"
   },
@@ -6228,15 +6228,15 @@
     "pubdate": "2025-09-19-13-13-43 +0000"
   },
   {
-    "headline": "Sunset",
-    "link": "https://missionlocal.org/2025/09/sf-photos-sunset-2/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-19-13-00-00 +0000"
-  },
-  {
     "headline": "How Much Training Should an Airline Pilot Need?",
     "link": "https://www.wsj.com/business/airlines/how-much-training-should-an-airline-pilot-need-db974a91?mod=pls_whats_news_us_business_f",
     "source": "wsj",
+    "pubdate": "2025-09-19-13-00-00 +0000"
+  },
+  {
+    "headline": "Sunset",
+    "link": "https://missionlocal.org/2025/09/sf-photos-sunset-2/",
+    "source": "missionlocal",
     "pubdate": "2025-09-19-13-00-00 +0000"
   },
   {
@@ -6481,13 +6481,13 @@
   },
   {
     "headline": "What Is a Money Market Account?",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-09-18-21-21-00 +0000"
   },
   {
     "headline": "What Is a Money Market Account?",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=rss_markets_main",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/money-market-accounts?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-18-21-21-00 +0000"
   },
@@ -6678,14 +6678,14 @@
     "pubdate": "2025-09-18-14-06-23 +0000"
   },
   {
-    "headline": "From Gray Flannel to Birkin: How Wall Street Fashion Has Changed Over the Decades",
-    "link": "https://www.wsj.com/style/fashion/wall-street-fashion-history-78bafda7",
+    "headline": "California Wants to Halt Oil Industry Exodus After Years of Climate Focus",
+    "link": "https://www.wsj.com/business/energy-oil/california-wants-to-halt-oil-industry-exodus-after-years-of-climate-focus-e5da733e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-09-18-14-00-00 +0000"
   },
   {
-    "headline": "California Wants to Halt Oil Industry Exodus After Years of Climate Focus",
-    "link": "https://www.wsj.com/business/energy-oil/california-wants-to-halt-oil-industry-exodus-after-years-of-climate-focus-e5da733e?mod=pls_whats_news_us_business_f",
+    "headline": "From Gray Flannel to Birkin: How Wall Street Fashion Has Changed Over the Decades",
+    "link": "https://www.wsj.com/style/fashion/wall-street-fashion-history-78bafda7",
     "source": "wsj",
     "pubdate": "2025-09-18-14-00-00 +0000"
   },
@@ -6702,15 +6702,15 @@
     "pubdate": "2025-09-18-13-00-00 +0000"
   },
   {
-    "headline": "San Francisco is full of AI billboards. One of them is this guy.",
-    "link": "https://missionlocal.org/2025/09/s-f-is-full-of-ai-billboards-one-of-those-billboards-is-this-guy/",
-    "source": "missionlocal",
-    "pubdate": "2025-09-18-11-00-00 +0000"
-  },
-  {
     "headline": "Amex Revamps Its Platinum Card, Raises Fee to $895",
     "link": "https://www.wsj.com/personal-finance/amex-revamps-its-platinum-card-raises-fee-to-895-5c32cb3b?mod=rss_markets_main",
     "source": "wsj",
+    "pubdate": "2025-09-18-11-00-00 +0000"
+  },
+  {
+    "headline": "San Francisco is full of AI billboards. One of them is this guy.",
+    "link": "https://missionlocal.org/2025/09/s-f-is-full-of-ai-billboards-one-of-those-billboards-is-this-guy/",
+    "source": "missionlocal",
     "pubdate": "2025-09-18-11-00-00 +0000"
   },
   {
@@ -6724,30 +6724,6 @@
     "link": "https://www.latimes.com/opinion/story/2025-09-18/la-oe-calmes-russia",
     "source": "latimes",
     "pubdate": "2025-09-18-10-10-00 +0000"
-  },
-  {
-    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Edison details how much it plans to pay Eaton fire victims",
-    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: Sen. Cassidy, whose vote got RFK Jr. his job, finally starts to make amends",
-    "link": "https://www.latimes.com/business/story/2025-09-18/sen-cassidy-whose-vote-got-rfk-jr-his-job-finally-starts-to-make-amends",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
-  },
-  {
-    "headline": "Loyola Marymount abruptly rescinds recognition of faculty union, claiming religious exemption",
-    "link": "https://www.latimes.com/business/story/2025-09-18/loyola-marymount-university-abruptly-stops-bargaining-with-faculty-union-claiming-religious-exemption",
-    "source": "latimes",
-    "pubdate": "2025-09-18-10-00-00 +0000"
   },
   {
     "headline": "Edison details how much it plans to pay Eaton fire victims",
@@ -6770,6 +6746,30 @@
   {
     "headline": "Trump administration increasingly places immigrants in solitary confinement, report finds",
     "link": "https://www.latimes.com/politics/story/2025-09-18/immigrants-are-increasingly-placed-in-solitary-confinement-report-finds",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "California isn't backing down on offshore wind power despite Trump cancellation",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/despite-federal-setbacks-california-is-staying-the-course-on-offshore-wind",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Edison details how much it plans to pay Eaton fire victims",
+    "link": "https://www.latimes.com/environment/story/2025-09-18/edison-details-how-much-it-plans-to-pay-eaton-fire-victims",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: Sen. Cassidy, whose vote got RFK Jr. his job, finally starts to make amends",
+    "link": "https://www.latimes.com/business/story/2025-09-18/sen-cassidy-whose-vote-got-rfk-jr-his-job-finally-starts-to-make-amends",
+    "source": "latimes",
+    "pubdate": "2025-09-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Loyola Marymount abruptly rescinds recognition of faculty union, claiming religious exemption",
+    "link": "https://www.latimes.com/business/story/2025-09-18/loyola-marymount-university-abruptly-stops-bargaining-with-faculty-union-claiming-religious-exemption",
     "source": "latimes",
     "pubdate": "2025-09-18-10-00-00 +0000"
   },
@@ -6814,17 +6814,5 @@
     "link": "https://missionlocal.org/2025/09/day-180-at-the-16th-st-plaza-the-bear/",
     "source": "missionlocal",
     "pubdate": "2025-09-18-05-54-03 +0000"
-  },
-  {
-    "headline": "A Cyberattack Crippled Range Rover Production. The Reboot Is Proving Tough.",
-    "link": "https://www.wsj.com/business/autos/a-cyberattack-crippled-range-rover-production-the-reboot-is-proving-tough-09663dcf?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-18-03-00-00 +0000"
-  },
-  {
-    "headline": "El Tecolote wins national award for community-centered visuals",
-    "link": "https://eltecolote.org/content/en/el-tecolote-wins-national-award-for-community-centered-visuals/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-18-02-56-29 +0000"
   }
 ]
