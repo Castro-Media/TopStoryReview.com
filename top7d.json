@@ -1,24 +1,24 @@
 [
   {
-    "score": 359,
+    "score": 353,
     "pubdate": "2025-09-24-01-43-00 +0000",
     "source": "wsj",
     "headline": "When Trump announced changes to the H-1B visa program Friday, it was the middle of the night in India. For some H-1B holders there, the next day and a half was a chaotic race around the world.",
     "link": "https://www.wsj.com/politics/policy/air-india-flight-h1b-workers-07bf65f6"
   },
   {
-    "score": 178,
+    "score": 179,
     "pubdate": "2025-09-24-00-42-57 +0000",
     "source": "cbc",
     "headline": "Carney says he will meet China's president 'at appropriate time' to talk trade",
     "link": "https://www.cbc.ca/news/politics/carney-china-president-trade-meeting-1.7641825?cmp=rss"
   },
   {
-    "score": 163,
-    "pubdate": "2025-09-24-23-28-04 +0000",
-    "source": "nyt",
-    "headline": "Dallas ICE Facility Shooting Leaves One Detainee Dead and Two Injured",
-    "link": "https://www.nytimes.com/2025/09/24/us/dallas-ice-shooting.html"
+    "score": 158,
+    "pubdate": "2025-09-24-15-07-14 +0000",
+    "source": "wapo",
+    "headline": "No Immigration and Customs Enforcement officers were injured in the Dallas shooting, ICE Deputy Director Madison...",
+    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 148,
@@ -28,18 +28,18 @@
     "link": "https://nypost.com/2025/09/25/business/over-100-ex-abc-journalists-urge-disney-ceo-bob-iger-to-defend-free-speech/"
   },
   {
-    "score": 141,
-    "pubdate": "2025-09-25-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration will offer AI models from Elon Musk’s xAI to federal agencies through a new partnership, a move that could signal that his relationship with the White House is thawing",
-    "link": "https://www.wsj.com/tech/ai/trump-elon-musk-xai-federal-agency-partnership-511458f6"
-  },
-  {
-    "score": 133,
+    "score": 138,
     "pubdate": "2025-09-25-20-27-00 +0000",
     "source": "wsj",
     "headline": "The Bank of Mexico cut its benchmark interest rate to a three-year low Thursday as expected and said further reductions are possible, while it still sees inflation returning to its target next year.",
     "link": "https://www.wsj.com/articles/bank-of-mexico-makes-10th-straight-interest-rate-cut-cf549d88"
+  },
+  {
+    "score": 137,
+    "pubdate": "2025-09-25-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration will offer AI models from Elon Musk’s xAI to federal agencies through a new partnership, a move that could signal that his relationship with the White House is thawing",
+    "link": "https://www.wsj.com/tech/ai/trump-elon-musk-xai-federal-agency-partnership-511458f6"
   },
   {
     "score": 105,
@@ -49,13 +49,6 @@
     "link": "https://www.wsj.com/politics/policy/fed-governor-lisa-cook-tells-supreme-court-the-central-banks-independence-at-stake-1ed47a57"
   },
   {
-    "score": 104,
-    "pubdate": "2025-09-25-20-48-46 +0000",
-    "source": "nypost",
-    "headline": "Trump signs TikTok deal that gives American investors majority control after ‘very good talk’ with President Xi",
-    "link": "https://nypost.com/2025/09/25/business/trump-signs-tiktok-deal-after-very-good-talk-with-president-xi/"
-  },
-  {
     "score": 103,
     "pubdate": "2025-09-24-15-06-31 +0000",
     "source": "bbc",
@@ -63,10 +56,17 @@
     "link": "https://www.bbc.com/news/articles/c4gk9dreldxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 100,
-    "pubdate": "2025-09-20-12-00-00 +0000",
-    "source": "latimes",
-    "headline": "Lopez: Don't hold your breath, but as raids stifle economy, Trump proves case for immigration reform",
-    "link": "https://www.latimes.com/california/story/2025-09-20/lopez-column-trump-ice-raids-economy-immigration-reform"
+    "score": 99,
+    "pubdate": "2025-09-24-16-27-23 +0000",
+    "source": "cbc",
+    "headline": "Return-to-office push thwarting plans to off-load office space, government says",
+    "link": "https://www.cbc.ca/news/canada/ottawa/canada-federal-public-service-office-space-cuts-1.7642176?cmp=rss"
+  },
+  {
+    "score": 94,
+    "pubdate": "2025-09-22-11-11-45 +0000",
+    "source": "bbc",
+    "headline": "UK says Israel must not retaliate against Palestinian statehood push",
+    "link": "https://www.bbc.com/news/articles/c1wggrdn9dno?at_medium=RSS&at_campaign=rss"
   }
 ]
