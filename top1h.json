@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 36,
+    "pubdate": "2025-09-26-20-38-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump announced many new tariffs Thursday, including a large one on pharmaceutical companies that aren’t building plants in the U.S.",
+    "link": "https://www.wsj.com/economy/trade/trump-to-slap-new-tariffs-on-pharma-big-trucks-ab37416e"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-09-26-20-27-23 +0000",
+    "source": "bbc",
+    "headline": "Assata Shakur, black liberation activist exiled in Cuba dies at 78",
+    "link": "https://www.bbc.com/news/articles/cm28yrz6502o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-26-20-43-37 +0000",
+    "source": "nyt",
+    "headline": "Summoned U.S. Military Officers Are Expected to Hear a ‘Rally the Troops’ Message",
+    "link": "https://www.nytimes.com/2025/09/26/us/politics/hegseth-military-summit.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-26-20-43-00 +0000",
+    "source": "wsj",
+    "headline": "Even as Senate Minority Leader Chuck Schumer stands on the brink of a government shutdown, he can see a potential way out",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-democrat-policy-demands-0f84eadd"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-26-20-01-58 +0000",
+    "source": "nyt",
+    "headline": "Defiant Netanyahu Denounces Palestine Recognition, to a Mostly Empty U.N. Hall",
+    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/netanyahu-speech-united-nations.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-26-20-16-26 +0000",
+    "source": "bbc",
+    "headline": "ICE officer disciplined after shoving woman to ground in courthouse",
+    "link": "https://www.bbc.com/news/articles/cn4w23yjzj1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-26-20-25-31 +0000",
+    "source": "nyt",
+    "headline": "How Trump’s Latest Tariffs May Affect Your Medicines",
+    "link": "https://www.nytimes.com/2025/09/26/health/trump-drug-tariffs-prescription-costs.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-26-20-40-17 +0000",
+    "source": "nyt",
+    "headline": "Hackers Steal Children’s Data and Photos from U.K. Nursery Chain",
+    "link": "https://www.nytimes.com/2025/09/26/world/europe/uk-nursery-school-hack.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-26-20-01-53 +0000",
+    "source": "bbc",
+    "headline": "Elon Musk and Prince Andrew named in new Epstein files",
+    "link": "https://www.bbc.com/news/articles/cwyl8j1we0lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-26-20-24-32 +0000",
+    "source": "nyt",
+    "headline": "Sinclair Ends Jimmy Kimmel Boycott and Will Resume Airing Show on ABC Stations",
+    "link": "https://www.nytimes.com/2025/09/26/business/media/sinclair-jimmy-kimmel-boycott.html"
+  }
+]
