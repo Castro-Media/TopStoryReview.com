@@ -1,20 +1,20 @@
 [
   {
-    "score": 199,
+    "score": 197,
     "pubdate": "2025-09-26-01-00-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court is poised to decide whether President Trump can remove Lisa Cook from the Fed board in a case that economists and former officials say threatens to erode central bank independence",
     "link": "https://www.wsj.com/economy/central-banking/fed-lisa-cook-supreme-court-trump-66fdd1b0"
   },
   {
-    "score": 85,
+    "score": 80,
     "pubdate": "2025-09-25-12-58-45 +0000",
     "source": "nypost",
     "headline": "White House orders agencies to prep for mass firings during a government shutdown — as Dems vow ‘we will not be intimidated’",
     "link": "https://nypost.com/2025/09/25/us-news/white-house-orders-agencies-to-prep-for-mass-firings-during-a-government-shutdown/"
   },
   {
-    "score": 70,
+    "score": 69,
     "pubdate": "2025-09-25-15-16-38 +0000",
     "source": "nypost",
     "headline": "Anti-ICE gunman Joshua Jahn carefully plotted fatal Dallas shooting, wanted to instill ‘terror’ in agents, FBI reveals",
@@ -28,18 +28,25 @@
     "link": "https://nypost.com/2025/09/25/business/over-100-ex-abc-journalists-urge-disney-ceo-bob-iger-to-defend-free-speech/"
   },
   {
-    "score": 61,
-    "pubdate": "2025-09-25-11-24-18 +0000",
-    "source": "bbc",
-    "headline": "French navy seizes nearly 10 tonnes of cocaine off West African coast",
-    "link": "https://www.bbc.com/news/articles/c15k7j9ken4o?at_medium=RSS&at_campaign=rss"
+    "score": 63,
+    "pubdate": "2025-09-25-23-56-17 +0000",
+    "source": "nypost",
+    "headline": "Trump celebrates James Comey indictment in scathing Truth Social post: ‘JUSTICE IN AMERICA!’",
+    "link": "https://nypost.com/2025/09/25/us-news/trump-celebrates-james-comey-indictment-in-scathing-truth-social-post/"
   },
   {
-    "score": 61,
+    "score": 63,
     "pubdate": "2025-09-25-20-27-00 +0000",
     "source": "wsj",
     "headline": "The Bank of Mexico cut its benchmark interest rate to a three-year low Thursday as expected and said further reductions are possible, while it still sees inflation returning to its target next year.",
     "link": "https://www.wsj.com/articles/bank-of-mexico-makes-10th-straight-interest-rate-cut-cf549d88"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-09-25-11-24-18 +0000",
+    "source": "bbc",
+    "headline": "French navy seizes nearly 10 tonnes of cocaine off West African coast",
+    "link": "https://www.bbc.com/news/articles/c15k7j9ken4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 60,
@@ -56,17 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c8d7yrp80m8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
-    "pubdate": "2025-09-25-23-56-17 +0000",
-    "source": "nypost",
-    "headline": "Trump celebrates James Comey indictment in scathing Truth Social post: ‘JUSTICE IN AMERICA!’",
-    "link": "https://nypost.com/2025/09/25/us-news/trump-celebrates-james-comey-indictment-in-scathing-truth-social-post/"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-09-25-21-59-13 +0000",
-    "source": "nypost",
-    "headline": "Trump DOJ official tells prosecutors to probe George Soros group for potential ‘pro-terror’ funding: report",
-    "link": "https://nypost.com/2025/09/25/us-news/trump-doj-official-tells-prosecutors-to-probe-george-soros-group-for-potential-pro-terror-funding-report/"
+    "score": 51,
+    "pubdate": "2025-09-25-21-52-36 +0000",
+    "source": "bbc",
+    "headline": "Trump claims a TikTok deal is done. Who would own it, and how would it work?",
+    "link": "https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&at_campaign=rss"
   }
 ]
