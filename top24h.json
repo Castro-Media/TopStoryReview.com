@@ -1,13 +1,13 @@
 [
   {
-    "score": 197,
+    "score": 195,
     "pubdate": "2025-09-26-01-00-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court is poised to decide whether President Trump can remove Lisa Cook from the Fed board in a case that economists and former officials say threatens to erode central bank independence",
     "link": "https://www.wsj.com/economy/central-banking/fed-lisa-cook-supreme-court-trump-66fdd1b0"
   },
   {
-    "score": 80,
+    "score": 78,
     "pubdate": "2025-09-25-12-58-45 +0000",
     "source": "nypost",
     "headline": "White House orders agencies to prep for mass firings during a government shutdown — as Dems vow ‘we will not be intimidated’",
@@ -29,17 +29,17 @@
   },
   {
     "score": 63,
-    "pubdate": "2025-09-25-23-56-17 +0000",
-    "source": "nypost",
-    "headline": "Trump celebrates James Comey indictment in scathing Truth Social post: ‘JUSTICE IN AMERICA!’",
-    "link": "https://nypost.com/2025/09/25/us-news/trump-celebrates-james-comey-indictment-in-scathing-truth-social-post/"
-  },
-  {
-    "score": 63,
     "pubdate": "2025-09-25-20-27-00 +0000",
     "source": "wsj",
     "headline": "The Bank of Mexico cut its benchmark interest rate to a three-year low Thursday as expected and said further reductions are possible, while it still sees inflation returning to its target next year.",
     "link": "https://www.wsj.com/articles/bank-of-mexico-makes-10th-straight-interest-rate-cut-cf549d88"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-09-25-23-56-17 +0000",
+    "source": "nypost",
+    "headline": "Trump celebrates James Comey indictment in scathing Truth Social post: ‘JUSTICE IN AMERICA!’",
+    "link": "https://nypost.com/2025/09/25/us-news/trump-celebrates-james-comey-indictment-in-scathing-truth-social-post/"
   },
   {
     "score": 60,
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c8d7yrp80m8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 51,
-    "pubdate": "2025-09-25-21-52-36 +0000",
-    "source": "bbc",
-    "headline": "Trump claims a TikTok deal is done. Who would own it, and how would it work?",
-    "link": "https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&at_campaign=rss"
+    "score": 48,
+    "pubdate": "2025-09-25-20-48-46 +0000",
+    "source": "nypost",
+    "headline": "Trump signs TikTok deal that gives American investors majority control after ‘very good talk’ with President Xi",
+    "link": "https://nypost.com/2025/09/25/business/trump-signs-tiktok-deal-after-very-good-talk-with-president-xi/"
   }
 ]
