@@ -1,152 +1,122 @@
 [
   {
+    "headline": "Des Moines Schools Superintendent Ian Roberts Detained by ICE, Officials Say",
+    "link": "https://www.nytimes.com/2025/09/26/us/des-moines-schools-ice-immigration.html",
+    "source": "nyt",
+    "pubdate": "2025-09-27-02-10-01 +0000"
+  },
+  {
+    "headline": "Why Companies Like Disney and Paramount Are Caving to Trump",
+    "link": "https://www.nytimes.com/2025/09/26/business/trump-disney-paramount-shareholder-capitalism.html",
+    "source": "nyt",
+    "pubdate": "2025-09-27-02-05-05 +0000"
+  },
+  {
+    "headline": "The Supreme Court on Friday granted the Trump administration’s emergency request to allow it to withhold $4 billion in foreign-aid spending that had been approved by Congress",
+    "link": "https://www.wsj.com/politics/policy/supreme-court-allows-trump-to-withhold-4-billion-in-foreign-aid-53cae54d",
+    "source": "wsj",
+    "pubdate": "2025-09-27-02-03-00 +0000"
+  },
+  {
+    "headline": "Justice Dept. Agents to Protect ICE Facilities, Bondi Says",
+    "link": "https://www.nytimes.com/2025/09/26/us/doj-agents-ice-facilities.html",
+    "source": "nyt",
+    "pubdate": "2025-09-27-02-02-51 +0000"
+  },
+  {
+    "headline": "A U.S. plan to field thousands of cutting-edge drones for a potential conflict with China has fallen behind, and the Pentagon is moving the effort to a secretive new warfare group to speed it up",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-ai-weapons-delay-0f560d7e",
+    "source": "wsj",
+    "pubdate": "2025-09-27-02-00-00 +0000"
+  },
+  {
+    "headline": "Kamala Harris’s book about the 2024 presidential campaign, “107 Days,” is a more unvarnished account than expected, even among those close to the typically cautious former vice president",
+    "link": "https://www.wsj.com/politics/kamala-harris-campaign-book-2028-113f41c0",
+    "source": "wsj",
+    "pubdate": "2025-09-27-02-00-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Asks Supreme Court to Allow End of Birthright Citizenship",
+    "link": "https://www.nytimes.com/2025/09/26/us/politics/supreme-court-birthright-citizenship.html",
+    "source": "nyt",
+    "pubdate": "2025-09-27-01-53-22 +0000"
+  },
+  {
+    "headline": "Trump Administration Asks Supreme Court to Allow End of Birthright Citizenship",
+    "link": "https://www.nytimes.com/2025/09/26/us/politics/supreme-court-birthright-citizenship.html",
+    "source": "nyt",
+    "pubdate": "2025-09-27-01-53-22 +0000"
+  },
+  {
+    "headline": "FBI fires agents who were caught kneeling during 2020 George Floyd protests",
+    "link": "https://nypost.com/2025/09/26/us-news/fbi-fires-agents-who-were-caught-kneeling-during-2020-george-floyd-protests/",
+    "source": "nypost",
+    "pubdate": "2025-09-27-01-49-31 +0000"
+  },
+  {
+    "headline": "China Industrial Profit Rises Sharply in August",
+    "link": "https://www.wsj.com/world/china/china-industrial-profit-rises-sharply-in-august-9c15de7b",
+    "source": "wsj",
+    "pubdate": "2025-09-27-01-49-00 +0000"
+  },
+  {
+    "headline": "Celeste Rivas seen running away from home more than a year before her body was found in D4vd’s Tesla",
+    "link": "https://nypost.com/2025/09/26/us-news/celeste-rivas-seen-running-away-more-than-a-year-before-body-found-in-d4vds-tesla/",
+    "source": "nypost",
+    "pubdate": "2025-09-27-01-48-29 +0000"
+  },
+  {
     "headline": "Trump Predicts More Indictments After Comey and Claims It’s Not Revenge",
     "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-comey-revenge.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-01-12-25 +0000"
+    "pubdate": "2025-09-27-01-45-14 +0000"
   },
   {
     "headline": "Trump Predicts More Indictments After Comey and Claims It’s Not Revenge",
     "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-comey-revenge.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-01-12-25 +0000"
+    "pubdate": "2025-09-27-01-45-14 +0000"
   },
   {
-    "headline": "Examining James Comey’s 2020 Testimony at the Heart of His Indictment",
-    "link": "https://www.nytimes.com/2025/09/26/us/politics/james-comey-testimony-trump.html",
+    "headline": "Trump’s Targeting of Soros Foundations Sparks Fear and Defiance on Left",
+    "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-soros-foundations-donors.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-01-10-18 +0000"
+    "pubdate": "2025-09-27-01-42-01 +0000"
   },
   {
-    "headline": "Examining James Comey’s 2020 Testimony at the Heart of His Indictment",
-    "link": "https://www.nytimes.com/2025/09/26/us/politics/james-comey-testimony-trump.html",
+    "headline": "Trump’s Targeting of Soros Foundations Sparks Fear and Defiance on Left",
+    "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-soros-foundations-donors.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-01-10-18 +0000"
+    "pubdate": "2025-09-27-01-42-01 +0000"
   },
   {
-    "headline": "U.N. reimposes sanctions on Iran after weeks of failed diplomacy",
-    "link": "https://www.washingtonpost.com/national-security/2025/09/26/iran-sanctions-witkoff-nuclear-un/",
-    "source": "wapo",
-    "pubdate": "2025-09-27-01-04-06 +0000"
-  },
-  {
-    "headline": "Inside the Crisis at Tylenol",
-    "link": "https://www.wsj.com/business/tylenol-autism-kirk-perry-acetaminophen-trump-7dc652e3",
-    "source": "wsj",
-    "pubdate": "2025-09-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Inside the Crisis at Tylenol",
-    "link": "https://www.wsj.com/business/tylenol-autism-kirk-perry-acetaminophen-trump-7dc652e3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Walmart CEO Issues Wake-Up Call: ‘AI Is Going to Change Literally Every Job’",
-    "link": "https://www.wsj.com/tech/ai/walmart-ceo-doug-mcmillon-ai-job-losses-dbaca3aa?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-09-27-01-00-00 +0000"
-  },
-  {
-    "headline": "The indictment of James Comey sealed the remarkable transformation of the Justice Department in Trump’s second term, from an independent enforcer of the law into an extension of the White House",
-    "link": "https://www.wsj.com/politics/policy/trump-overcame-internal-dissent-to-get-his-case-against-comey-320e8ee1",
-    "source": "wsj",
-    "pubdate": "2025-09-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Trump Orders Unsealing of All Files on Amelia Earhart and Her Disappearance",
-    "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-amelia-earhart-files.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-51-31 +0000"
-  },
-  {
-    "headline": "Trump Orders Unsealing of All Files on Amelia Earhart and Her Disappearance",
-    "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-amelia-earhart-files.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-51-31 +0000"
-  },
-  {
-    "headline": "Feds indict three women for alleged 'doxing' of ICE agent in Los Angeles",
-    "link": "https://www.latimes.com/california/story/2025-09-26/ice-agent-doxing-charges-los-angeles",
+    "headline": "He was body-slammed by immigration agents. Now a car wash owner has filed a $50-million claim against DHS",
+    "link": "https://www.latimes.com/california/story/2025-09-26/he-was-body-slammed-by-immigration-agents-now-a-car-wash-owners-has-filed-a-50-million-claim-against-dhs",
     "source": "latimes",
-    "pubdate": "2025-09-27-00-51-13 +0000"
+    "pubdate": "2025-09-27-01-25-33 +0000"
   },
   {
-    "headline": "ICE arrests top educator at Iowa's largest school district",
-    "link": "https://www.bbc.com/news/articles/c8d70n4gpvpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-00-48-34 +0000"
+    "headline": "Halloween display sparks outrage over lynched mannequins in MAGA-like red hats, Mexican flag",
+    "link": "https://nypost.com/2025/09/26/us-news/halloween-display-sparks-outrage-over-lynched-mannequins-in-maga-like-red-hats-mexican-flag/",
+    "source": "nypost",
+    "pubdate": "2025-09-27-01-23-22 +0000"
+  },
+  {
+    "headline": "Sara Jane Moore, would-be assassin of President Gerald Ford, dead at 95",
+    "link": "https://nypost.com/2025/09/26/us-news/sara-jane-moore-would-be-assassin-of-president-gerald-ford-dead-at-95/",
+    "source": "nypost",
+    "pubdate": "2025-09-27-01-22-11 +0000"
   },
   {
     "headline": "Dallas ICE Shooting Victim, a Detainee, Is Now Fighting for His Life",
     "link": "https://www.nytimes.com/2025/09/26/us/politics/victims-dallas-ice.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-00-47-46 +0000"
+    "pubdate": "2025-09-27-01-21-14 +0000"
   },
   {
     "headline": "Dallas ICE Shooting Victim, a Detainee, Is Now Fighting for His Life",
     "link": "https://www.nytimes.com/2025/09/26/us/politics/victims-dallas-ice.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-00-47-46 +0000"
-  },
-  {
-    "headline": "Police Kill Man Who Shot at Cars Outside Georgia Elementary School",
-    "link": "https://www.nytimes.com/2025/09/26/us/valdosta-georgia-school-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-43-10 +0000"
-  },
-  {
-    "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
-    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-31-47 +0000"
-  },
-  {
-    "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
-    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-31-47 +0000"
-  },
-  {
-    "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
-    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-31-47 +0000"
-  },
-  {
-    "headline": "Justice Dept. Seeks Information on Fani Willis, Georgia D.A. Who Prosecuted Trump",
-    "link": "https://www.nytimes.com/2025/09/26/us/justice-department-fani-willis-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-29-30 +0000"
-  },
-  {
-    "headline": "Texas Tech Moves to Limit Academic Discussion to 2 Genders",
-    "link": "https://www.nytimes.com/2025/09/26/us/politics/texas-tech-gender.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-24-16 +0000"
-  },
-  {
-    "headline": "Texas Tech Moves to Limit Academic Discussion to 2 Genders",
-    "link": "https://www.nytimes.com/2025/09/26/us/politics/texas-tech-gender.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-24-16 +0000"
-  },
-  {
-    "headline": "Chris Mason: Starmer unflinching as he seeks to take on Reform",
-    "link": "https://www.bbc.com/news/articles/cvg41lljnryo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-00-23-17 +0000"
-  },
-  {
-    "headline": "Brutal Murder of 3 Women, Broadcast On Instagram, Shocks Argentina",
-    "link": "https://www.nytimes.com/2025/09/26/world/americas/argentina-women-murder-instagram.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-22-53 +0000"
-  },
-  {
-    "headline": "Brutal Murder of 3 Women, Broadcast On Instagram, Shocks Argentina",
-    "link": "https://www.nytimes.com/2025/09/26/world/americas/argentina-women-murder-instagram.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-00-22-53 +0000"
+    "pubdate": "2025-09-27-01-21-14 +0000"
   }
 ]
