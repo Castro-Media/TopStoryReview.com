@@ -7,7 +7,7 @@
     "link": "https://www.wsj.com/economy/central-banking/fed-lisa-cook-supreme-court-trump-66fdd1b0"
   },
   {
-    "score": 193,
+    "score": 196,
     "pubdate": "2025-09-26-16-22-23 +0000",
     "source": "nypost",
     "headline": "Netanyahu shrugs off UN walkout, says Israel must ‘finish the job’ against Hamas in Gaza during blistering UN address",
@@ -21,7 +21,7 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-23/nexstar-station-group-preempts-abc-jimmy-kimmel"
   },
   {
-    "score": 176,
+    "score": 175,
     "pubdate": "2025-09-27-02-00-00 +0000",
     "source": "wsj",
     "headline": "A U.S. plan to field thousands of cutting-edge drones for a potential conflict with China has fallen behind, and the Pentagon is moving the effort to a secretive new warfare group to speed it up",
@@ -42,31 +42,31 @@
     "link": "https://nypost.com/2025/09/25/us-news/trump-celebrates-james-comey-indictment-in-scathing-truth-social-post/"
   },
   {
-    "score": 117,
-    "pubdate": "2025-09-26-10-00-00 +0000",
+    "score": 116,
+    "pubdate": "2025-09-26-20-43-00 +0000",
+    "source": "wsj",
+    "headline": "Even as Senate Minority Leader Chuck Schumer stands on the brink of a government shutdown, he can see a potential way out",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-democrat-policy-demands-0f84eadd"
+  },
+  {
+    "score": 93,
+    "pubdate": "2025-09-27-02-12-14 +0000",
     "source": "latimes",
-    "headline": "A U.S. veteran spoke out against his wrongful arrest by ICE. Now he's being accused of assault",
-    "link": "https://www.latimes.com/california/story/2025-09-26/dhs-accuses-veteran-of-assault-after-he-details-his-arrest"
+    "headline": "Veteran U.S. attorney in California insisted Border Patrol follow a court order. Then she was fired",
+    "link": "https://www.latimes.com/california/story/2025-09-26/federal-attorney-fired-after-telling-border-patrol-to-follow-the-law"
+  },
+  {
+    "score": 92,
+    "pubdate": "2025-09-26-10-32-37 +0000",
+    "source": "nypost",
+    "headline": "Iran and Russia sign $25 billion agreement to build four nuclear power plants in Iran, IRNA says",
+    "link": "https://nypost.com/2025/09/26/world-news/iran-and-russia-sign-25-billion-agreement-to-build-four-nuclear-power-plants-in-iran-irna-says/"
   },
   {
     "score": 91,
-    "pubdate": "2025-09-26-10-02-14 +0000",
-    "source": "bbc",
-    "headline": "Is the US-China TikTok deal done? Here's what you need to know",
-    "link": "https://www.bbc.com/news/videos/cg5ege645reo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 90,
-    "pubdate": "2025-09-27-02-03-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court on Friday granted the Trump administration’s emergency request to allow it to withhold $4 billion in foreign-aid spending that had been approved by Congress",
-    "link": "https://www.wsj.com/politics/policy/supreme-court-allows-trump-to-withhold-4-billion-in-foreign-aid-53cae54d"
-  },
-  {
-    "score": 89,
-    "pubdate": "2025-09-20-12-00-00 +0000",
-    "source": "latimes",
-    "headline": "Lopez: Don't hold your breath, but as raids stifle economy, Trump proves case for immigration reform",
-    "link": "https://www.latimes.com/california/story/2025-09-20/lopez-column-trump-ice-raids-economy-immigration-reform"
+    "pubdate": "2025-09-26-23-49-31 +0000",
+    "source": "nypost",
+    "headline": "Trump’s TikTok deal still worries  GOP China hawks — but here’s why they’ll go along",
+    "link": "https://nypost.com/2025/09/26/business/trumps-tiktok-deal-still-worries-gop-china-hawks-but-heres-why-theyll-go-along/"
   }
 ]
