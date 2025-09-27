@@ -1,65 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-09-27-08-28-09 +0000",
+    "score": 24,
+    "pubdate": "2025-09-27-09-02-41 +0000",
     "source": "nyt",
-    "headline": "Fire at South Korean Data Center Causes Government Service Outages",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/south-korea-fire-government-data-center.html"
+    "headline": "Trump Displays Little Interest in Fostering Unity Amid Political Violence",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/political-violence-kirk-trump.html"
   },
   {
-    "score": 18,
-    "pubdate": "2025-09-27-08-23-23 +0000",
-    "source": "bbc",
-    "headline": "Watch: Polar bears occupy abandoned Soviet-era research station",
-    "link": "https://www.bbc.com/news/videos/c0ezre2x3gvo?at_medium=RSS&at_campaign=rss"
+    "score": 22,
+    "pubdate": "2025-09-27-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
+    "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-27-09-01-06 +0000",
+    "source": "nyt",
+    "headline": "On Pennsylvania Ave., Michael Milken’s Curious Temple to the American Dream",
+    "link": "https://www.nytimes.com/2025/09/27/business/michael-milken-center-museum.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-27-09-00-45 +0000",
+    "source": "nyt",
+    "headline": "For Want of a Ferryman, a Two-Century U.S.-Canada Link Is Severed",
+    "link": "https://www.nytimes.com/2025/09/27/world/canada/horne-ferry-ontario-canada-new-york.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-27-09-02-34 +0000",
+    "source": "nyt",
+    "headline": "Unexpected Critics of Trump’s Attacks on Wind Energy: Oil Executives",
+    "link": "https://www.nytimes.com/2025/09/27/business/energy-environment/oil-gas-trump-offshore-wind.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-09-27-09-02-31 +0000",
+    "source": "nyt",
+    "headline": "Iowa Matters Less Than Ever for Democrats, but They Can’t Quit It",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/iowa-democrats-president.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-27-09-02-52 +0000",
+    "source": "nyt",
+    "headline": "Netanyahu’s Defiant U.N. Speech Aimed at Home as Well as the World",
+    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/israel-netanyahu-united-nations.html"
   },
   {
     "score": 11,
-    "pubdate": "2025-09-27-08-47-09 +0000",
+    "pubdate": "2025-09-27-09-01-01 +0000",
     "source": "nyt",
-    "headline": "U.S. Says It Will Revoke Colombian President’s Visa",
-    "link": "https://www.nytimes.com/2025/09/27/us/colombia-petro-visa-palestine.html"
+    "headline": "New Retail Leaders Confront Trump’s Tariffs, Policy Shifts and Weak Spending",
+    "link": "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-27-09-49-45 +0000",
+    "source": "nyt",
+    "headline": "Marketing Movies Is Harder Than Ever. And Here Comes ‘One Battle After Another.’",
+    "link": "https://www.nytimes.com/2025/09/26/business/media/marketing-warner-bros-one-battle-after-another.html"
   },
   {
     "score": 8,
-    "pubdate": "2025-09-27-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "How a Russian oligarch imported a Canadian-made luxury jet despite sanctions",
-    "link": "https://www.cbc.ca/news/canada/russia-canadian-planes-sanctions-1.7641141?cmp=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-27-08-40-32 +0000",
+    "pubdate": "2025-09-27-09-00-14 +0000",
     "source": "nyt",
-    "headline": "Hegseth Says Honors for Soldiers in Wounded Knee Massacre Will Remain",
-    "link": "https://www.nytimes.com/2025/09/27/us/hegseth-wounded-knee.html"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-09-27-08-00-27 +0000",
-    "source": "cbc",
-    "headline": "Amid threats of annexation, could Canada and Greenland grow closer?",
-    "link": "https://www.cbc.ca/news/politics/annexation-canada-greenland-trump-1.7645001?cmp=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-27-08-47-09 +0000",
-    "source": "nyt",
-    "headline": "U.S. Says It Will Revoke Colombian President’s Visa",
-    "link": "https://www.nytimes.com/2025/09/27/us/colombia-petro-visa-palestine.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-27-08-28-09 +0000",
-    "source": "nyt",
-    "headline": "Fire at South Korean Data Center Causes Government Service Outages",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/south-korea-fire-government-data-center.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-09-27-08-23-23 +0000",
-    "source": "bbc",
-    "headline": "Watch: Polar bears occupy abandoned Soviet-era research station",
-    "link": "https://www.bbc.com/news/videos/c0ezre2x3gvo?at_medium=RSS&at_campaign=rss"
+    "headline": "Making Florida More Flood Resistant Is Forcing Hard Choices for Homeowners",
+    "link": "https://www.nytimes.com/2025/09/27/us/making-florida-more-flood-resistant-is-forcing-hard-choices-for-homeowners.html"
   }
 ]
