@@ -1,6 +1,6 @@
 [
   {
-    "score": 168,
+    "score": 170,
     "pubdate": "2025-09-26-18-49-37 +0000",
     "source": "nypost",
     "headline": "Trump predicts ‘there will be others’ after James Comey indictment, but denies having ‘list’ of enemies to prosecute",
@@ -14,11 +14,18 @@
     "link": "https://nypost.com/2025/09/26/us-news/netanyahu-shrugs-off-un-walkout-says-israel-must-finish-the-job-against-hamas-in-gaza/"
   },
   {
-    "score": 79,
+    "score": 83,
     "pubdate": "2025-09-27-02-03-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court on Friday granted the Trump administration’s emergency request to allow it to withhold $4 billion in foreign-aid spending that had been approved by Congress",
     "link": "https://www.wsj.com/politics/policy/supreme-court-allows-trump-to-withhold-4-billion-in-foreign-aid-53cae54d"
+  },
+  {
+    "score": 75,
+    "pubdate": "2025-09-27-06-45-39 +0000",
+    "source": "nypost",
+    "headline": "US to revoke Colombian president’s visa after he urged troops to ‘disobey’ Trump at NYC protest with Roger Waters",
+    "link": "https://nypost.com/2025/09/27/us-news/us-to-revoke-colombian-president-gustavo-petros-visa-after-nyc-protest-with-roger-waters/"
   },
   {
     "score": 74,
@@ -28,18 +35,11 @@
     "link": "https://www.wsj.com/politics/national-security/pentagon-ai-weapons-delay-0f560d7e"
   },
   {
-    "score": 70,
-    "pubdate": "2025-09-27-06-45-39 +0000",
+    "score": 53,
+    "pubdate": "2025-09-27-14-47-55 +0000",
     "source": "nypost",
-    "headline": "US to revoke Colombian president’s visa after he urged troops to ‘disobey’ Trump at NYC protest with Roger Waters",
-    "link": "https://nypost.com/2025/09/27/us-news/us-to-revoke-colombian-president-gustavo-petros-visa-after-nyc-protest-with-roger-waters/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-09-26-20-27-23 +0000",
-    "source": "bbc",
-    "headline": "Assata Shakur, black liberation activist exiled in Cuba, dies at 78",
-    "link": "https://www.bbc.com/news/articles/cm28yrz6502o?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump orders troop deployment to ‘war ravaged’ Portland to protect ICE facilities: ‘Authorizing full force’",
+    "link": "https://nypost.com/2025/09/27/us-news/trump-orders-troop-deployment-to-war-ravaged-portland-to-protect-ice-facilities-authorizing-full-force/"
   },
   {
     "score": 49,
@@ -49,11 +49,11 @@
     "link": "https://www.nytimes.com/2025/09/26/business/media/sinclair-jimmy-kimmel-boycott.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-09-27-14-47-55 +0000",
-    "source": "nypost",
-    "headline": "Trump orders troop deployment to ‘war ravaged’ Portland to protect ICE facilities: ‘Authorizing full force’",
-    "link": "https://nypost.com/2025/09/27/us-news/trump-orders-troop-deployment-to-war-ravaged-portland-to-protect-ice-facilities-authorizing-full-force/"
+    "score": 48,
+    "pubdate": "2025-09-26-20-27-23 +0000",
+    "source": "bbc",
+    "headline": "Assata Shakur, black liberation activist exiled in Cuba, dies at 78",
+    "link": "https://www.bbc.com/news/articles/cm28yrz6502o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 46,
