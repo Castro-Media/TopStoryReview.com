@@ -1,24 +1,17 @@
 [
   {
-    "score": 164,
+    "score": 165,
     "pubdate": "2025-09-27-02-03-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court on Friday granted the Trump administration’s emergency request to allow it to withhold $4 billion in foreign-aid spending that had been approved by Congress",
     "link": "https://www.wsj.com/politics/policy/supreme-court-allows-trump-to-withhold-4-billion-in-foreign-aid-53cae54d"
   },
   {
-    "score": 75,
+    "score": 73,
     "pubdate": "2025-09-27-06-45-39 +0000",
     "source": "nypost",
     "headline": "US to revoke Colombian president’s visa after he urged troops to ‘disobey’ Trump at NYC protest with Roger Waters",
     "link": "https://nypost.com/2025/09/27/us-news/us-to-revoke-colombian-president-gustavo-petros-visa-after-nyc-protest-with-roger-waters/"
-  },
-  {
-    "score": 74,
-    "pubdate": "2025-09-26-18-49-37 +0000",
-    "source": "nypost",
-    "headline": "Trump predicts ‘there will be others’ after James Comey indictment, but denies having ‘list’ of enemies to prosecute",
-    "link": "https://nypost.com/2025/09/26/us-news/trump-predicts-there-will-be-others-after-james-comey-indictment/"
   },
   {
     "score": 71,
@@ -35,18 +28,18 @@
     "link": "https://nypost.com/2025/09/27/us-news/trump-orders-troop-deployment-to-war-ravaged-portland-to-protect-ice-facilities-authorizing-full-force/"
   },
   {
+    "score": 59,
+    "pubdate": "2025-09-26-18-49-37 +0000",
+    "source": "nypost",
+    "headline": "Trump predicts ‘there will be others’ after James Comey indictment, but denies having ‘list’ of enemies to prosecute",
+    "link": "https://nypost.com/2025/09/26/us-news/trump-predicts-there-will-be-others-after-james-comey-indictment/"
+  },
+  {
     "score": 57,
     "pubdate": "2025-09-27-00-31-47 +0000",
     "source": "nyt",
     "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
     "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-09-26-17-21-07 +0000",
-    "source": "bbc",
-    "headline": "Walk-out and loudspeakers near Gaza: See how Netanyahu's UN speech unfolded",
-    "link": "https://www.bbc.com/news/videos/cz9jvqnk004o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 49,
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2025/09/26/business/media/sinclair-jimmy-kimmel-boycott.html"
   },
   {
-    "score": 47,
+    "score": 48,
     "pubdate": "2025-09-26-20-27-23 +0000",
     "source": "bbc",
     "headline": "Assata Shakur, black liberation activist exiled in Cuba, dies at 78",
     "link": "https://www.bbc.com/news/articles/cm28yrz6502o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2025-09-26-19-31-03 +0000",
+    "score": 45,
+    "pubdate": "2025-09-27-16-38-32 +0000",
     "source": "nyt",
-    "headline": "As Witkoff Pitched Mideast Peace, His Son Pitched Mideast Investors",
-    "link": "https://www.nytimes.com/2025/09/26/business/witkoff-son-qatar-gaza.html"
+    "headline": "FBI Fires Agents Seen Kneeling During 2020 Racial Justice Protests",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/kash-patel-fbi-firing.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-09-27-13-23-14 +0000",
+    "source": "nypost",
+    "headline": "Cornell law professor demands civil rights probe after Israeli  student allegedly excluded from course on Gaza",
+    "link": "https://nypost.com/2025/09/27/us-news/cornell-law-professor-demands-civil-rights-probe-into-colleagues-alleged-exclusion-of-israeli-student-from-course-on-gaza/"
   }
 ]
