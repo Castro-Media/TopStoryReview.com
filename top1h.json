@@ -1,72 +1,30 @@
 [
   {
-    "score": 23,
-    "pubdate": "2025-09-27-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "In Trump's 'domestic terrorism' memo, some see blueprint for vengeance that echoes history",
-    "link": "https://www.latimes.com/politics/story/2025-09-27/trumps-domestic-terrorism-memo-some-see-blueprint-for-vengeance"
+    "score": 18,
+    "pubdate": "2025-09-27-11-19-43 +0000",
+    "source": "bbc",
+    "headline": "Police break up ring trafficking Kenyans to fight for Russia in Ukraine",
+    "link": "https://www.bbc.com/news/articles/cdxqjqjln1ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 21,
-    "pubdate": "2025-09-27-10-03-55 +0000",
-    "source": "nyt",
-    "headline": "Fire at South Korean Data Center Causes Government Service Outages",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/south-korea-fire-government-data-center.html"
+    "score": 9,
+    "pubdate": "2025-09-27-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "Sonoma’s Bold Idea to Woo Younger Wine Drinkers: Raise Prices",
+    "link": "https://www.wsj.com/us-news/sonoma-wine-maker-young-consumers-1dba6f78"
   },
   {
-    "score": 14,
-    "pubdate": "2025-09-27-10-10-37 +0000",
-    "source": "nyt",
-    "headline": "China’s Small Steps Look Bigger Next to Trump’s Retreat",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/china-un-trump-leader.html"
+    "score": 8,
+    "pubdate": "2025-09-27-10-59-15 +0000",
+    "source": "bbc",
+    "headline": "Drones seen over Danish military bases in latest air disruption",
+    "link": "https://www.bbc.com/news/articles/c3rvzdq93yro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 13,
-    "pubdate": "2025-09-27-10-01-34 +0000",
-    "source": "nypost",
-    "headline": "DNA evidence cracks cold case, connects dead suspect to murders of 4 teens at Texas yogurt shop",
-    "link": "https://nypost.com/2025/09/27/us-news/texas-man-robert-eugene-brashers-idd-as-suspect-in-1991-yogurt-shop-murder-cold-case/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-27-10-45-39 +0000",
-    "source": "nyt",
-    "headline": "Netanyahu’s Defiant U.N. Speech Aimed at Home as Well as the World",
-    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/israel-netanyahu-united-nations.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-27-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Reputed Mexican Mafia figure accused of brokering drug cartel alliance strikes plea deal",
-    "link": "https://www.latimes.com/california/story/2025-09-27/jose-landa-rodriguez-plea"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-27-10-00-00 +0000",
-    "source": "wapo",
-    "headline": "A year before the Little Rock Nine, Bobby Cain helped integrate Southern schools",
-    "link": "https://www.washingtonpost.com/obituaries/2025/09/27/bobby-cain-dead-clinton-twelve/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-27-10-00-07 +0000",
-    "source": "nyt",
-    "headline": "Government Sets the Stage for a Labor Showdown at Canada Post",
-    "link": "https://www.nytimes.com/2025/09/27/world/canada/canada-post-labor-strike.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-09-27-10-00-57 +0000",
-    "source": "nyt",
-    "headline": "India Detains Popular Leader of Protest Movement",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/india-ladakh-protests-sonam-wangchuk.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-09-27-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "'No smoking gun': Why Eaton fire report didn't name names or assign blame",
-    "link": "https://www.latimes.com/california/story/2025-09-27/no-smoking-gun-report-on-altadena-cites-failures-but-did-not-name-names"
+    "score": 0,
+    "pubdate": "2025-09-27-11-19-43 +0000",
+    "source": "bbc",
+    "headline": "Police break up ring trafficking Kenyans to fight for Russia in Ukraine",
+    "link": "https://www.bbc.com/news/articles/cdxqjqjln1ko?at_medium=RSS&at_campaign=rss"
   }
 ]
