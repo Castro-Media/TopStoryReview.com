@@ -1,6 +1,156 @@
 [
   {
-    "headline": "Mormon church in Michigan ‘actively on fire’ as multiple victims reported in mass shooting: police",
+    "headline": "Shooting at Mormon Church in Grand Blanc, Michigan, Leaves Multiple Injured",
+    "link": "https://www.nytimes.com/2025/09/28/us/grand-blanc-shooting-fire-mormon-church.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-49-01 +0000"
+  },
+  {
+    "headline": "Live: Vikings trail the Steelers 24-21 in the fourth quarter the NFL’s first game in Dublin",
+    "link": "https://www.startribune.com/minnesota-vikings-pittsburgh-steelers-dublin-nfl-week-4-live-updates/601479101",
+    "source": "startribune",
+    "pubdate": "2025-09-28-16-46-08 +0000"
+  },
+  {
+    "headline": "'Jaguar Land Rover supply chain workers are really struggling'",
+    "link": "https://www.bbc.com/news/articles/c0q7395np59o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-16-45-30 +0000"
+  },
+  {
+    "headline": "Multiple victims in Michigan church shooting, police say; building on fire",
+    "link": "https://www.washingtonpost.com/nation/2025/09/28/shooting-church-michigan/",
+    "source": "wapo",
+    "pubdate": "2025-09-28-16-40-50 +0000"
+  },
+  {
+    "headline": "Several injured in shooting and fire at Michigan Mormon church",
+    "link": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-16-39-06 +0000"
+  },
+  {
+    "headline": "U.S. Ambassador to Israel Is Expected to Make Rare Visit to Egypt",
+    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-37-35 +0000"
+  },
+  {
+    "headline": "U.S. Ambassador to Israel Is Expected to Make Rare Visit to Egypt",
+    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-37-35 +0000"
+  },
+  {
+    "headline": "What Salt Typhoon Shows About the Cyber Power of China’s Spy Agency",
+    "link": "https://www.nytimes.com/2025/09/28/world/asia/how-chinas-secretive-spy-agency-became-a-cyber-powerhouse.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-32-53 +0000"
+  },
+  {
+    "headline": "What Salt Typhoon Shows About the Cyber Power of China’s Spy Agency",
+    "link": "https://www.nytimes.com/2025/09/28/world/asia/how-chinas-secretive-spy-agency-became-a-cyber-powerhouse.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-32-53 +0000"
+  },
+  {
+    "headline": "Inside Venezuela After U.S. Strikes Boats",
+    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-29-36 +0000"
+  },
+  {
+    "headline": "Inside Venezuela After U.S. Strikes Boats",
+    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-29-36 +0000"
+  },
+  {
+    "headline": "'One Battle After Another' lands solidly at the box office with a $22 million debut",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-28/one-battle-after-another-box-office",
+    "source": "latimes",
+    "pubdate": "2025-09-28-16-28-26 +0000"
+  },
+  {
+    "headline": "Russia Hammers Kyiv in 12-Hour Drone and Missile Assault",
+    "link": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-11-33 +0000"
+  },
+  {
+    "headline": "Russia Hammers Kyiv in 12-Hour Drone and Missile Assault",
+    "link": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-11-33 +0000"
+  },
+  {
+    "headline": "Trump Plans to Attend Gathering of U.S. Military Officers",
+    "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-hegseth-military.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-08-05 +0000"
+  },
+  {
+    "headline": "Trump Plans to Attend Gathering of U.S. Military Officers",
+    "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-hegseth-military.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-16-08-05 +0000"
+  },
+  {
+    "headline": "Protesters clash with ICE agents as Trump deploys federal troops to ‘war-ravaged’ Portland",
+    "link": "https://nypost.com/2025/09/28/us-news/protesters-clash-with-ice-as-federal-troops-enter-portland/",
+    "source": "nypost",
+    "pubdate": "2025-09-28-16-05-59 +0000"
+  },
+  {
+    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
+    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-16-00-04 +0000"
+  },
+  {
+    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
+    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-16-00-04 +0000"
+  },
+  {
+    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
+    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-16-00-04 +0000"
+  },
+  {
+    "headline": "Swiss voters narrowly approve plan for electronic ID cards",
+    "link": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-15-55-38 +0000"
+  },
+  {
+    "headline": "Swiss voters narrowly approve plan for electronic ID cards",
+    "link": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-15-55-38 +0000"
+  },
+  {
+    "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda",
+    "source": "wsj",
+    "pubdate": "2025-09-28-15-55-00 +0000"
+  },
+  {
+    "headline": "Arrests at protest supporting Palestine Action near Labour conference",
+    "link": "https://www.bbc.com/news/articles/cx20l1257l4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-15-53-59 +0000"
+  },
+  {
+    "headline": "Oura Health’s C.E.O. Knows the Secret to Better Sleep",
+    "link": "https://www.nytimes.com/2025/09/27/business/oura-ring-tom-hale.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-15-51-34 +0000"
+  },
+  {
+    "headline": "Up to 11 wounded, including kids, in mass shooting at Grand Blanc Township Mormon church; building set ablaze",
     "link": "https://nypost.com/2025/09/28/us-news/michigan-mormon-church-on-fire-as-multiple-victims-reported-in-mass-shooting-police/",
     "source": "nypost",
     "pubdate": "2025-09-28-15-50-50 +0000"
@@ -16,18 +166,6 @@
     "link": "https://nypost.com/2025/09/28/us-news/comeys-ex-no-2-andrew-mccabe-not-aware-of-him-authorizing-leaks/",
     "source": "nypost",
     "pubdate": "2025-09-28-15-48-56 +0000"
-  },
-  {
-    "headline": "Watch: PM refuses to rule out VAT rise ahead of Budget",
-    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-15-47-37 +0000"
-  },
-  {
-    "headline": "Live: Vikings trail the Steelers 21-6 in the NFL’s first game in Dublin",
-    "link": "https://www.startribune.com/minnesota-vikings-pittsburgh-steelers-dublin-nfl-week-4-live-updates/601479101",
-    "source": "startribune",
-    "pubdate": "2025-09-28-15-46-14 +0000"
   },
   {
     "headline": "$1M worth of rare whiskey stolen from Washington distillery in wild liquor heist",
@@ -102,22 +240,10 @@
     "pubdate": "2025-09-28-15-24-17 +0000"
   },
   {
-    "headline": "Swiss voters approve plan for electronic identity cards",
-    "link": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: World's highest bridge opens in China",
+    "link": "https://www.bbc.com/news/videos/c0jq5ywngx6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-28-15-21-52 +0000"
-  },
-  {
-    "headline": "Russia Hammers Kyiv in 12-Hour Drone and Missile Assault",
-    "link": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-15-15-13 +0000"
-  },
-  {
-    "headline": "Russia Hammers Kyiv in 12-Hour Drone and Missile Assault",
-    "link": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-15-15-13 +0000"
+    "pubdate": "2025-09-28-15-24-09 +0000"
   },
   {
     "headline": "Best crypto wallet 2025: Why this Best Wallet wins",
@@ -132,28 +258,10 @@
     "pubdate": "2025-09-28-15-11-02 +0000"
   },
   {
-    "headline": "Trump Plans to Attend Gathering of U.S. Military Officers",
-    "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-hegseth-military.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-15-03-40 +0000"
-  },
-  {
-    "headline": "Trump Plans to Attend Gathering of U.S. Military Officers",
-    "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-hegseth-military.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-15-03-40 +0000"
-  },
-  {
     "headline": "Food bank appeals for help due to soaring demand",
     "link": "https://www.bbc.com/news/articles/c62l0j5037eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-14-46-34 +0000"
-  },
-  {
-    "headline": "Young Labour members rate the government out of 10",
-    "link": "https://www.bbc.com/news/videos/c708kv9lr45o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-14-45-24 +0000"
   },
   {
     "headline": "Young Labour members rate the government out of 10",
@@ -202,18 +310,6 @@
     "link": "https://www.cbc.ca/news/world/denmark-bans-drone-flights-1.7645876?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-28-14-30-03 +0000"
-  },
-  {
-    "headline": "U.S. Ambassador to Israel Is Expected to Make Rare Visit to Egypt",
-    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-14-21-21 +0000"
-  },
-  {
-    "headline": "U.S. Ambassador to Israel Is Expected to Make Rare Visit to Egypt",
-    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-14-21-21 +0000"
   },
   {
     "headline": "Three dead and several injured after shooting at US waterfront bar",
@@ -282,7 +378,7 @@
     "pubdate": "2025-09-28-13-26-53 +0000"
   },
   {
-    "headline": "Southport mass shooting suspect identified as Nigel Edge after deadly attack on crowded North Carolina restaurant: report",
+    "headline": "Southport mass shooting suspect identified as Nigel Edge after deadly attack on crowded North Carolina restaurant",
     "link": "https://nypost.com/2025/09/28/us-news/southport-mass-shooting-suspect-identified-as-nigel-edge-after-deadly-north-carolina-attack-report/",
     "source": "nypost",
     "pubdate": "2025-09-28-13-21-43 +0000"
@@ -414,6 +510,12 @@
     "pubdate": "2025-09-28-12-00-00 +0000"
   },
   {
+    "headline": "Swiss opinion split over second vote on digital ID",
+    "link": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-11-56-34 +0000"
+  },
+  {
     "headline": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
     "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -470,12 +572,6 @@
   {
     "headline": "After Rep. Melissa Hortman’s assassination, her mentee takes up the mantle as House DFL leader",
     "link": "https://www.startribune.com/after-rep-melissa-hortmans-assassination-her-mentee-takes-up-the-mantle-as-house-dfl-leader/601480182",
-    "source": "startribune",
-    "pubdate": "2025-09-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Bumblebee mating season: Queens have left the colony in search of mates",
-    "link": "https://www.startribune.com/bumblebee-mating-season-queens-have-left-the-colony-in-search-of-mates/601477192",
     "source": "startribune",
     "pubdate": "2025-09-28-11-00-00 +0000"
   },
@@ -624,18 +720,6 @@
     "pubdate": "2025-09-28-09-02-25 +0000"
   },
   {
-    "headline": "Inside Venezuela After U.S. Strikes Boats",
-    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-09-02-24 +0000"
-  },
-  {
-    "headline": "Inside Venezuela After U.S. Strikes Boats",
-    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-09-02-24 +0000"
-  },
-  {
     "headline": "Greene, Straying From Trump, Reflects an Emerging MAGA Split",
     "link": "https://www.nytimes.com/2025/09/28/us/politics/marjorie-taylor-greene-maga-split.html",
     "source": "nyt",
@@ -666,18 +750,6 @@
     "pubdate": "2025-09-28-09-00-59 +0000"
   },
   {
-    "headline": "What Salt Typhoon Shows About the Cyber Power of China’s Spy Agency",
-    "link": "https://www.nytimes.com/2025/09/28/world/asia/how-chinas-secretive-spy-agency-became-a-cyber-powerhouse.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-09-00-53 +0000"
-  },
-  {
-    "headline": "What Salt Typhoon Shows About the Cyber Power of China’s Spy Agency",
-    "link": "https://www.nytimes.com/2025/09/28/world/asia/how-chinas-secretive-spy-agency-became-a-cyber-powerhouse.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-09-00-53 +0000"
-  },
-  {
     "headline": "Still Cashing In on the ‘Field of Dreams’",
     "link": "https://www.nytimes.com/2025/09/28/business/field-of-dreams.html",
     "source": "nyt",
@@ -693,7 +765,7 @@
     "headline": "Forget Labubus: We’re Collecting Semi-Cured Gel Nail Strips",
     "link": "https://www.nytimes.com/2025/09/28/business/semi-cured-gel-nails-manicures.html",
     "source": "nyt",
-    "pubdate": "2025-09-28-09-00-06 +0000"
+    "pubdate": "2025-09-28-09-00-07 +0000"
   },
   {
     "headline": "Videos of fatal ICE shooting in Chicago raise questions about DHS account",
@@ -864,22 +936,10 @@
     "pubdate": "2025-09-28-02-56-21 +0000"
   },
   {
-    "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown within days",
-    "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda",
-    "source": "wsj",
-    "pubdate": "2025-09-28-02-26-00 +0000"
-  },
-  {
     "headline": "The Slow Demise of Russian Oil",
     "link": "https://www.wsj.com/world/russia/the-slow-demise-of-russian-oil-007fbbf7",
     "source": "wsj",
     "pubdate": "2025-09-28-02-00-00 +0000"
-  },
-  {
-    "headline": "GOP lawmaker calls for investigation after son’s high school celebrates ‘Bisexual Plus Awareness Week’",
-    "link": "https://nypost.com/2025/09/27/us-news/iowa-rep-ashley-hinson-calls-for-department-of-education-to-investigate-iowa-high-school-after-it-celebrates-bisexual-plus-awareness-week/",
-    "source": "nypost",
-    "pubdate": "2025-09-28-01-53-02 +0000"
   },
   {
     "headline": "Stampede at India political rally kills 36, including 8 children",
@@ -969,13 +1029,13 @@
     "headline": "Giuliani and Dominion Voting Systems Settle $1.3 Billion Defamation Suit",
     "link": "https://www.nytimes.com/2025/09/27/us/politics/rudy-giuliani-dominion-case-settlement.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-23-32-22 +0000"
+    "pubdate": "2025-09-27-23-32-23 +0000"
   },
   {
     "headline": "Giuliani and Dominion Voting Systems Settle $1.3 Billion Defamation Suit",
     "link": "https://www.nytimes.com/2025/09/27/us/politics/rudy-giuliani-dominion-case-settlement.html",
     "source": "nyt",
-    "pubdate": "2025-09-27-23-32-22 +0000"
+    "pubdate": "2025-09-27-23-32-23 +0000"
   },
   {
     "headline": "The US navy killed 17 in deadly strikes. Now Venezuela is giving civilians guns",
@@ -1222,12 +1282,6 @@
     "link": "https://nypost.com/business/crypto-faucets-free-bitcoin-guide/",
     "source": "nypost",
     "pubdate": "2025-09-27-19-00-00 +0000"
-  },
-  {
-    "headline": "FBI fires agents pictured kneeling at George Floyd protest, US media report",
-    "link": "https://www.bbc.com/news/articles/cr4q5xrz9dpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-18-50-03 +0000"
   },
   {
     "headline": "FBI fires agents pictured kneeling at George Floyd protest, US media report",
@@ -1536,12 +1590,6 @@
     "pubdate": "2025-09-27-12-51-55 +0000"
   },
   {
-    "headline": "Oura Heath’s C.E.O. Knows the Secret to Better Sleep",
-    "link": "https://www.nytimes.com/2025/09/27/business/oura-ring-tom-hale.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-12-45-30 +0000"
-  },
-  {
     "headline": "Government Sets the Stage for a Labor Showdown at Canada Post",
     "link": "https://www.nytimes.com/2025/09/27/world/canada/canada-post-labor-strike.html",
     "source": "nyt",
@@ -1593,6 +1641,12 @@
     "headline": "Lopez: Nine months after the Eaton fire, 'moments of wavering, or wanting to give up' on ever returning",
     "link": "https://www.latimes.com/california/story/2025-09-27/nine-months-after-eaton-fire-moments-residents-debate-returning",
     "source": "latimes",
+    "pubdate": "2025-09-27-12-00-00 +0000"
+  },
+  {
+    "headline": "Tolkkinen: Growing veggies paid for siblings’ college and fed thousands of Minnesota kids",
+    "link": "https://www.startribune.com/tolkkinen-growing-veggies-paid-for-siblings-college-and-fed-thousands-of-minnesota-kids/601454023",
+    "source": "startribune",
     "pubdate": "2025-09-27-12-00-00 +0000"
   },
   {
@@ -1728,14 +1782,14 @@
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "L.A. buyers scramble to snap up EVs as tax breaks end",
-    "link": "https://www.latimes.com/business/story/2025-09-27/oc-auto-show-ev-demand",
+    "headline": "Shooting for the moon. How Elon Musk's SpaceX is faring",
+    "link": "https://www.latimes.com/business/story/2025-09-27/after-starship-success-spacex-faces-challenges-opportunities",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "Shooting for the moon. How Elon Musk's SpaceX is faring",
-    "link": "https://www.latimes.com/business/story/2025-09-27/after-starship-success-spacex-faces-challenges-opportunities",
+    "headline": "L.A. buyers scramble to snap up EVs as tax breaks end",
+    "link": "https://www.latimes.com/business/story/2025-09-27/oc-auto-show-ev-demand",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -1776,12 +1830,6 @@
     "pubdate": "2025-09-27-09-07-53 +0000"
   },
   {
-    "headline": "US revokes Colombian president's visa over 'reckless and incendiary' remarks",
-    "link": "https://www.bbc.com/news/articles/cz9jv8kne7no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-09-07-53 +0000"
-  },
-  {
     "headline": "Unexpected Critics of Trump’s Attacks on Wind Energy: Oil Executives",
     "link": "https://www.nytimes.com/2025/09/27/business/energy-environment/oil-gas-trump-offshore-wind.html",
     "source": "nyt",
@@ -1804,12 +1852,6 @@
     "link": "https://www.nytimes.com/2025/09/27/us/politics/iowa-democrats-president.html",
     "source": "nyt",
     "pubdate": "2025-09-27-09-02-32 +0000"
-  },
-  {
-    "headline": "Jeanne Shaheen Wants to Make Foreign Policy Bipartisan Again",
-    "link": "https://www.nytimes.com/2025/09/27/us/politics/jeanne-shaheen-foreign-policy.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-09-02-24 +0000"
   },
   {
     "headline": "Jeanne Shaheen Wants to Make Foreign Policy Bipartisan Again",
@@ -1914,12 +1956,6 @@
     "pubdate": "2025-09-27-07-00-38 +0000"
   },
   {
-    "headline": "TV station owners reinstate Jimmy Kimmel show after ban",
-    "link": "https://www.bbc.com/news/articles/cy7pm1jz0dlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-07-00-38 +0000"
-  },
-  {
     "headline": "Whom Might the Trump Administration Go After Next?",
     "link": "https://www.nytimes.com/2025/09/26/business/dealbook/trump-soros-hoffman.html",
     "source": "nyt",
@@ -1992,10 +2028,10 @@
     "pubdate": "2025-09-27-03-49-42 +0000"
   },
   {
-    "headline": "Elon Musk and Prince Andrew named in new Epstein files",
-    "link": "https://www.bbc.com/news/articles/cwyl8j1we0lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Moldova holds key election as Russia's shadow looms large",
+    "link": "https://www.bbc.com/news/articles/c179z9d4vl1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-27-03-39-38 +0000"
+    "pubdate": "2025-09-27-03-49-42 +0000"
   },
   {
     "headline": "Supreme Court rules Trump can withhold $4B in foreign aid",
@@ -2020,12 +2056,6 @@
     "link": "https://nypost.com/2025/09/26/us-news/federal-grand-jury-subpoena-issued-for-fani-willis-travel-records-report/",
     "source": "nypost",
     "pubdate": "2025-09-27-02-56-27 +0000"
-  },
-  {
-    "headline": "Watch: Moment freediver sets new world record with breath-defying 126m plunge",
-    "link": "https://www.bbc.com/news/videos/c4gvw7zmwgko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-02-39-36 +0000"
   },
   {
     "headline": "Watch: Moment freediver sets new world record with breath-defying 126m plunge",
@@ -2152,12 +2182,6 @@
     "link": "https://www.latimes.com/california/story/2025-09-26/ice-agent-doxing-charges-los-angeles",
     "source": "latimes",
     "pubdate": "2025-09-27-00-51-13 +0000"
-  },
-  {
-    "headline": "ICE arrests top educator at Iowa's largest school district",
-    "link": "https://www.bbc.com/news/articles/c8d70n4gpvpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-00-48-34 +0000"
   },
   {
     "headline": "ICE arrests top educator at Iowa's largest school district",
@@ -2950,12 +2974,6 @@
     "link": "https://www.bbc.com/news/articles/cj07ndrnr34o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-26-17-23-04 +0000"
-  },
-  {
-    "headline": "Walk-out and loudspeakers near Gaza: See how Netanyahu's UN speech unfolded",
-    "link": "https://www.bbc.com/news/videos/cz9jvqnk004o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-26-17-21-07 +0000"
   },
   {
     "headline": "Walk-out and loudspeakers near Gaza: See how Netanyahu's UN speech unfolded",
@@ -5272,12 +5290,6 @@
     "link": "https://www.bbc.com/news/videos/cx23e9d5wjgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-24-16-35-58 +0000"
-  },
-  {
-    "headline": "Phillipson: I've been the victim of sexist briefings",
-    "link": "https://www.bbc.com/news/articles/c1jz9w7xkyeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-24-16-33-24 +0000"
   },
   {
     "headline": "Meet the history-making astronauts headed for the Moon",
