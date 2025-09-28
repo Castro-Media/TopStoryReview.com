@@ -1,13 +1,13 @@
 [
   {
-    "score": 115,
+    "score": 113,
     "pubdate": "2025-09-28-02-26-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown within days",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2025-09-28-10-00-00 +0000",
     "source": "latimes",
     "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
@@ -36,24 +36,31 @@
   },
   {
     "score": 44,
-    "pubdate": "2025-09-28-09-08-40 +0000",
-    "source": "nypost",
-    "headline": "Russia fires over 600 drones, missiles in deadly overnight assault on Ukraine",
-    "link": "https://nypost.com/2025/09/28/world-news/large-russian-drone-and-missile-attack-on-kyiv-kills-4-and-wounds-at-least-10/"
-  },
-  {
-    "score": 44,
     "pubdate": "2025-09-27-19-50-39 +0000",
     "source": "nypost",
     "headline": "US preps for attacks against drug lords deep inside Venezuela as tensions flare: report",
     "link": "https://nypost.com/2025/09/27/us-news/us-preps-for-attacks-against-drug-lords-deep-inside-venezuela-as-tensions-flare-report/"
   },
   {
-    "score": 42,
+    "score": 44,
     "pubdate": "2025-09-27-22-19-00 +0000",
     "source": "wsj",
     "headline": "Trump Says He Is Ordering Troops to Portland, Escalating Domestic Use of Military",
     "link": "https://www.wsj.com/us-news/trump-says-he-is-ordering-troops-to-portland-escalating-domestic-use-of-military-0a473152"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-09-28-15-48-56 +0000",
+    "source": "nypost",
+    "headline": "James Comey’s ex-No. 2 gives mealy-mouthed answer about whether FBI director authorized leaks",
+    "link": "https://nypost.com/2025/09/28/us-news/comeys-ex-no-2-andrew-mccabe-not-aware-of-him-authorizing-leaks/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-09-28-09-08-40 +0000",
+    "source": "nypost",
+    "headline": "Russia fires over 600 drones, missiles in deadly overnight assault on Ukraine",
+    "link": "https://nypost.com/2025/09/28/world-news/large-russian-drone-and-missile-attack-on-kyiv-kills-4-and-wounds-at-least-10/"
   },
   {
     "score": 36,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Building of three new towns will start before election, Labour pledges",
     "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-09-28-13-48-38 +0000",
-    "source": "nypost",
-    "headline": "Eric Adams leaves door open to dropping out of NYC mayoral race in tone shift, says he’ll make ‘right decision’ for city",
-    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-leaves-door-open-to-dropping-out-of-nyc-mayoral-race-in-tone-shift/"
   }
 ]
