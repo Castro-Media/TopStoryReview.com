@@ -1,24 +1,38 @@
 [
   {
-    "score": 101,
+    "score": 95,
     "pubdate": "2025-09-28-02-26-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown within days",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 52,
+    "score": 53,
+    "pubdate": "2025-09-27-21-27-07 +0000",
+    "source": "nypost",
+    "headline": "Anti-ICE protesters led by paid activists march across NYC in latest push against immigration enforcement",
+    "link": "https://nypost.com/2025/09/27/us-news/brooklyn-anti-ice-protest-draws-200/"
+  },
+  {
+    "score": 51,
     "pubdate": "2025-09-27-18-06-21 +0000",
     "source": "bbc",
     "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
     "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
-    "pubdate": "2025-09-27-21-27-07 +0000",
+    "score": 50,
+    "pubdate": "2025-09-28-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
+    "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-09-28-03-29-21 +0000",
     "source": "nypost",
-    "headline": "Anti-ICE protesters led by paid activists march across NYC in latest push against immigration enforcement",
-    "link": "https://nypost.com/2025/09/27/us-news/brooklyn-anti-ice-protest-draws-200/"
+    "headline": "Rep. Marjorie Taylor Greene warns  in X rant that she is ‘not suicidal’ should something happen to her as she pushes for Epstein files",
+    "link": "https://nypost.com/2025/09/27/us-news/rep-marjorie-taylor-greene-states-she-is-not-suicidal-as-she-pushes-for-epstein-transparency-from-doj/"
   },
   {
     "score": 45,
@@ -28,25 +42,18 @@
     "link": "https://www.washingtonpost.com/politics/2025/09/27/trump-military-portland-ice/"
   },
   {
-    "score": 45,
+    "score": 42,
+    "pubdate": "2025-09-28-04-38-00 +0000",
+    "source": "bbc",
+    "headline": "At least 39 dead in crush at political rally in India",
+    "link": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
     "pubdate": "2025-09-27-18-50-03 +0000",
     "source": "bbc",
     "headline": "FBI fires agents pictured kneeling at George Floyd protest, US media report",
     "link": "https://www.bbc.com/news/articles/cr4q5xrz9dpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 43,
-    "pubdate": "2025-09-28-08-04-40 +0000",
-    "source": "nyt",
-    "headline": "Stampede at Actor’s Political Rally Kills at Least 38 in India",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/stampede-vijay-rally-india.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-09-28-03-29-21 +0000",
-    "source": "nypost",
-    "headline": "Rep. Marjorie Taylor Greene warns  in X rant that she is ‘not suicidal’ should something happen to her as she pushes for Epstein files",
-    "link": "https://nypost.com/2025/09/27/us-news/rep-marjorie-taylor-greene-states-she-is-not-suicidal-as-she-pushes-for-epstein-transparency-from-doj/"
   },
   {
     "score": 35,
@@ -56,17 +63,10 @@
     "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 34,
-    "pubdate": "2025-09-28-07-54-06 +0000",
+    "score": 33,
+    "pubdate": "2025-09-27-11-19-43 +0000",
     "source": "bbc",
-    "headline": "Russia has no intention of attacking EU or Nato states, foreign minister says",
-    "link": "https://www.bbc.com/news/articles/c5ygjv0r2myo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 30,
-    "pubdate": "2025-09-28-03-05-31 +0000",
-    "source": "nypost",
-    "headline": "3 dead, 8 injured after gunman on boat opens fire on crowd at dockside NC restaurant — person of interest detained",
-    "link": "https://nypost.com/2025/09/27/us-news/north-carolina-american-fish-company-shooting-leaves-multiple-injured/"
+    "headline": "Police break up ring trafficking Kenyans to fight for Russia in Ukraine",
+    "link": "https://www.bbc.com/news/articles/cdxqjqjln1ko?at_medium=RSS&at_campaign=rss"
   }
 ]
