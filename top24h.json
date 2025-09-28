@@ -1,6 +1,6 @@
 [
   {
-    "score": 90,
+    "score": 115,
     "pubdate": "2025-09-28-02-26-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown within days",
@@ -14,6 +14,13 @@
     "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
   },
   {
+    "score": 49,
+    "pubdate": "2025-09-27-18-06-21 +0000",
+    "source": "bbc",
+    "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
+    "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 48,
     "pubdate": "2025-09-28-03-29-21 +0000",
     "source": "nypost",
@@ -21,18 +28,18 @@
     "link": "https://nypost.com/2025/09/27/us-news/rep-marjorie-taylor-greene-states-she-is-not-suicidal-as-she-pushes-for-epstein-transparency-from-doj/"
   },
   {
-    "score": 48,
-    "pubdate": "2025-09-27-18-06-21 +0000",
-    "source": "bbc",
-    "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-    "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss"
+    "score": 44,
+    "pubdate": "2025-09-28-12-40-10 +0000",
+    "source": "cbc",
+    "headline": "40 dead, 124 injured following political rally stampede in India",
+    "link": "https://www.cbc.ca/news/world/india-political-rally-stampede-1.7645814?cmp=rss"
   },
   {
     "score": 44,
-    "pubdate": "2025-09-28-12-51-56 +0000",
-    "source": "nyt",
-    "headline": "Stampede at Actor’s Political Rally Kills at Least 38 in India",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/stampede-vijay-rally-india.html"
+    "pubdate": "2025-09-28-09-08-40 +0000",
+    "source": "nypost",
+    "headline": "Russia fires over 600 drones, missiles in deadly overnight assault on Ukraine",
+    "link": "https://nypost.com/2025/09/28/world-news/large-russian-drone-and-missile-attack-on-kyiv-kills-4-and-wounds-at-least-10/"
   },
   {
     "score": 44,
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2025/09/27/us-news/us-preps-for-attacks-against-drug-lords-deep-inside-venezuela-as-tensions-flare-report/"
   },
   {
-    "score": 43,
-    "pubdate": "2025-09-27-23-18-16 +0000",
-    "source": "nyt",
-    "headline": "Trump Says He Has Ordered Troops to Portland, Oregon, to Protect ICE Facilities",
-    "link": "https://www.nytimes.com/2025/09/27/us/politics/trump-portland-troops.html"
+    "score": 42,
+    "pubdate": "2025-09-27-22-19-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Says He Is Ordering Troops to Portland, Escalating Domestic Use of Military",
+    "link": "https://www.wsj.com/us-news/trump-says-he-is-ordering-troops-to-portland-escalating-domestic-use-of-military-0a473152"
   },
   {
     "score": 36,
-    "pubdate": "2025-09-27-18-50-03 +0000",
-    "source": "bbc",
-    "headline": "FBI fires agents pictured kneeling at George Floyd protest, US media report",
-    "link": "https://www.bbc.com/news/articles/cr4q5xrz9dpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-09-28-06-26-13 +0000",
+    "pubdate": "2025-09-28-13-13-51 +0000",
     "source": "bbc",
     "headline": "Building of three new towns will start before election, Labour pledges",
     "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 32,
-    "pubdate": "2025-09-28-07-54-06 +0000",
-    "source": "bbc",
-    "headline": "Russia has no intention of attacking EU or Nato states, foreign minister says",
-    "link": "https://www.bbc.com/news/articles/c5ygjv0r2myo?at_medium=RSS&at_campaign=rss"
+    "score": 33,
+    "pubdate": "2025-09-28-13-48-38 +0000",
+    "source": "nypost",
+    "headline": "Eric Adams leaves door open to dropping out of NYC mayoral race in tone shift, says he’ll make ‘right decision’ for city",
+    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-leaves-door-open-to-dropping-out-of-nyc-mayoral-race-in-tone-shift/"
   }
 ]
