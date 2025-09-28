@@ -1,30 +1,51 @@
 [
   {
-    "score": 11,
-    "pubdate": "2025-09-28-05-52-41 +0000",
-    "source": "nypost",
-    "headline": "Three members of TLC’s ‘Meet the Putmans’ family killed in Michigan car crash, 5 hospitalized",
-    "link": "https://nypost.com/2025/09/28/us-news/meet-the-putmans-family-says-3-members-killed-in-michigan-car-crash-5-injured/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-09-28-05-49-01 +0000",
+    "score": 12,
+    "pubdate": "2025-09-28-06-36-20 +0000",
     "source": "bbc",
-    "headline": "'At our library you can borrow drills, telescopes and life jackets'",
-    "link": "https://www.bbc.com/news/articles/cn5q61kywx1o?at_medium=RSS&at_campaign=rss"
+    "headline": "Kyiv hit by 'massive' Russian attack, mayor says",
+    "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-28-06-26-13 +0000",
+    "source": "bbc",
+    "headline": "Building of three new towns will start before election, Labour pledges",
+    "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 8,
-    "pubdate": "2025-09-28-04-56-29 +0000",
+    "pubdate": "2025-09-28-06-32-38 +0000",
     "source": "nyt",
     "headline": "Gunman Fires on Riverside Bar in North Carolina From Boat, Killing 3",
     "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html"
   },
   {
-    "score": 5,
-    "pubdate": "2025-09-28-05-27-37 +0000",
+    "score": 7,
+    "pubdate": "2025-09-28-06-03-13 +0000",
+    "source": "nyt",
+    "headline": "Hegseth Says Honors for Soldiers in Wounded Knee Massacre Will Remain",
+    "link": "https://www.nytimes.com/2025/09/27/us/hegseth-wounded-knee.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-28-06-02-32 +0000",
     "source": "bbc",
-    "headline": "Swiss vote on electronic identity cards for second time",
-    "link": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss"
+    "headline": "Dad-of-three turns to food bank after job loss",
+    "link": "https://www.bbc.com/news/articles/c8d7y1gj319o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-09-28-06-00-00 +0000",
+    "source": "wapo",
+    "headline": "1 million people have returned to Syria since fall of Assad, U.N. says",
+    "link": "https://www.washingtonpost.com/world/2025/09/28/syria-one-million-displaced-return/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-09-28-06-36-20 +0000",
+    "source": "bbc",
+    "headline": "Kyiv hit by 'massive' Russian attack, mayor says",
+    "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss"
   }
 ]
