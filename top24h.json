@@ -1,66 +1,59 @@
 [
   {
-    "score": 122,
+    "score": 116,
     "pubdate": "2025-09-27-06-45-39 +0000",
     "source": "nypost",
     "headline": "US to revoke Colombian president’s visa after he urged troops to ‘disobey’ Trump at NYC protest with Roger Waters",
     "link": "https://nypost.com/2025/09/27/us-news/us-to-revoke-colombian-president-gustavo-petros-visa-after-nyc-protest-with-roger-waters/"
   },
   {
-    "score": 61,
+    "score": 59,
     "pubdate": "2025-09-27-19-50-39 +0000",
     "source": "nypost",
     "headline": "US preps for attacks against drug lords deep inside Venezuela as tensions flare: report",
     "link": "https://nypost.com/2025/09/27/us-news/us-preps-for-attacks-against-drug-lords-deep-inside-venezuela-as-tensions-flare-report/"
   },
   {
-    "score": 58,
-    "pubdate": "2025-09-27-02-03-00 +0000",
+    "score": 51,
+    "pubdate": "2025-09-27-09-30-00 +0000",
     "source": "wsj",
-    "headline": "The Supreme Court on Friday granted the Trump administration’s emergency request to allow it to withhold $4 billion in foreign-aid spending that had been approved by Congress",
-    "link": "https://www.wsj.com/politics/policy/supreme-court-allows-trump-to-withhold-4-billion-in-foreign-aid-53cae54d"
+    "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
+    "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
   },
   {
-    "score": 55,
-    "pubdate": "2025-09-27-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "A U.S. plan to field thousands of cutting-edge drones for a potential conflict with China has fallen behind, and the Pentagon is moving the effort to a secretive new warfare group to speed it up",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-ai-weapons-delay-0f560d7e"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-09-27-16-38-32 +0000",
-    "source": "nyt",
-    "headline": "FBI Fires Agents Seen Kneeling During 2020 Racial Justice Protests",
-    "link": "https://www.nytimes.com/2025/09/27/us/politics/kash-patel-fbi-firing.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-09-27-18-06-21 +0000",
-    "source": "bbc",
-    "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-    "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss"
+    "score": 41,
+    "pubdate": "2025-09-27-19-05-46 +0000",
+    "source": "nypost",
+    "headline": "Trump’s 21-point Gaza peace plan revealed — and it’s getting rave reviews from Arab allies",
+    "link": "https://nypost.com/2025/09/27/us-news/leak-reveals-trumps-full-21-point-gaza-peace-plan-that-was-met-with-fanfare-from-arab-allies/"
   },
   {
     "score": 39,
+    "pubdate": "2025-09-28-01-46-27 +0000",
+    "source": "nypost",
+    "headline": "Stampede at India political rally kills 36, including 8 children",
+    "link": "https://nypost.com/2025/09/27/world-news/stampede-at-india-political-rally-kills-36-injures-40/"
+  },
+  {
+    "score": 37,
     "pubdate": "2025-09-27-21-27-07 +0000",
     "source": "nypost",
     "headline": "Anti-ICE protesters led by paid activists march across NYC in latest push against immigration enforcement",
     "link": "https://nypost.com/2025/09/27/us-news/brooklyn-anti-ice-protest-draws-200/"
   },
   {
-    "score": 35,
-    "pubdate": "2025-09-27-21-03-57 +0000",
-    "source": "nyt",
-    "headline": "Stampede at Actor’s Political Rally Kills at Least 36 in India",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/stampede-vijay-rally-india.html"
+    "score": 37,
+    "pubdate": "2025-09-27-11-19-43 +0000",
+    "source": "bbc",
+    "headline": "Police break up ring trafficking Kenyans to fight for Russia in Ukraine",
+    "link": "https://www.bbc.com/news/articles/cdxqjqjln1ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
-    "pubdate": "2025-09-27-02-12-14 +0000",
-    "source": "latimes",
-    "headline": "Veteran U.S. attorney in California insisted Border Patrol follow a court order. Then she was fired",
-    "link": "https://www.latimes.com/california/story/2025-09-26/federal-attorney-fired-after-telling-border-patrol-to-follow-the-law"
+    "score": 35,
+    "pubdate": "2025-09-27-16-38-32 +0000",
+    "source": "nyt",
+    "headline": "FBI Fires Agents Seen Kneeling During 2020 Racial Justice Protests",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/kash-patel-fbi-firing.html"
   },
   {
     "score": 30,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "Trump Says He Is Ordering Troops to Portland, Escalating Domestic Use of Military",
     "link": "https://www.wsj.com/us-news/trump-says-he-is-ordering-troops-to-portland-escalating-domestic-use-of-military-0a473152"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-09-28-01-18-34 +0000",
+    "source": "nyt",
+    "headline": "Jerome Cohen, Lawyer Who Saw a Future in China, Dies at 95",
+    "link": "https://www.nytimes.com/2025/09/27/world/asia/jerome-cohen-dead.html"
   }
 ]
