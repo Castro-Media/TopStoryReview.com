@@ -1,140 +1,146 @@
 [
   {
+    "headline": "New York Mayor Eric Adams ends reelection bid",
+    "link": "https://www.washingtonpost.com/politics/2025/09/28/eric-adamsnew-york-mayor-campaign/",
+    "source": "wapo",
+    "pubdate": "2025-09-28-17-48-44 +0000"
+  },
+  {
+    "headline": "Canada Post denies Ottawa's reforms give it leverage over striking union in negotiations",
+    "link": "https://www.cbc.ca/news/politics/canada-post-ottawa-changes-leverage-1.7645944?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-28-17-48-21 +0000"
+  },
+  {
     "headline": "Shooting at Mormon Church in Grand Blanc, Michigan, Leaves Multiple Injured",
-    "link": "https://www.nytimes.com/2025/09/28/us/grand-blanc-shooting-fire-mormon-church.html",
+    "link": "https://www.nytimes.com/live/2025/09/28/us/grand-blanc-shooting-church-michigan/grand-blanc-shooting-fire-mormon-church",
     "source": "nyt",
-    "pubdate": "2025-09-28-16-49-01 +0000"
+    "pubdate": "2025-09-28-17-48-15 +0000"
   },
   {
-    "headline": "Live: Vikings trail the Steelers 24-21 in the fourth quarter the NFL’s first game in Dublin",
-    "link": "https://www.startribune.com/minnesota-vikings-pittsburgh-steelers-dublin-nfl-week-4-live-updates/601479101",
-    "source": "startribune",
-    "pubdate": "2025-09-28-16-46-08 +0000"
+    "headline": "‘One Battle After Another’ Ticket Sales Are Solid (With an Asterisk)",
+    "link": "https://www.nytimes.com/2025/09/28/business/media/one-battle-after-another-box-office.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-17-44-49 +0000"
   },
   {
-    "headline": "'Jaguar Land Rover supply chain workers are really struggling'",
-    "link": "https://www.bbc.com/news/articles/c0q7395np59o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-16-45-30 +0000"
+    "headline": "Eric Adams rips political ‘extremism’ as he drops out of NYC mayoral race — in clear dig at socialist  Zohran Mamdani",
+    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-rips-political-extremism-as-he-drops-out-of-nyc-mayoral-race/",
+    "source": "nypost",
+    "pubdate": "2025-09-28-17-44-38 +0000"
   },
   {
-    "headline": "Multiple victims in Michigan church shooting, police say; building on fire",
+    "headline": "At least one dead, nine injured in Michigan church shooting, police say",
     "link": "https://www.washingtonpost.com/nation/2025/09/28/shooting-church-michigan/",
     "source": "wapo",
-    "pubdate": "2025-09-28-16-40-50 +0000"
+    "pubdate": "2025-09-28-17-42-29 +0000"
   },
   {
-    "headline": "Several injured in shooting and fire at Michigan Mormon church",
+    "headline": "New York City Mayor Eric Adams Ends Re-election Bid",
+    "link": "https://www.wsj.com/us-news/new-york-city-mayor-eric-adams-ends-re-election-bid-018e6d0a",
+    "source": "wsj",
+    "pubdate": "2025-09-28-17-42-00 +0000"
+  },
+  {
+    "headline": "Michigan Mormon Church Shooting Leaves at Least One Dead, Several Injured",
+    "link": "https://www.wsj.com/us-news/michigan-mormon-church-shooting-f69b3d67",
+    "source": "wsj",
+    "pubdate": "2025-09-28-17-42-00 +0000"
+  },
+  {
+    "headline": "At least one person dead after shooting and fire at Mormon church in Michigan",
     "link": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-28-16-39-06 +0000"
+    "pubdate": "2025-09-28-17-36-43 +0000"
   },
   {
-    "headline": "U.S. Ambassador to Israel Is Expected to Make Rare Visit to Egypt",
-    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html",
+    "headline": "Trump’s Repeated Attacks May Undercut Case Against Comey",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/trump-comey-vindictive-prosecution.html",
     "source": "nyt",
-    "pubdate": "2025-09-28-16-37-35 +0000"
+    "pubdate": "2025-09-28-17-32-47 +0000"
   },
   {
-    "headline": "U.S. Ambassador to Israel Is Expected to Make Rare Visit to Egypt",
-    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html",
+    "headline": "Trump’s Repeated Attacks May Undercut Case Against Comey",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/trump-comey-vindictive-prosecution.html",
     "source": "nyt",
-    "pubdate": "2025-09-28-16-37-35 +0000"
+    "pubdate": "2025-09-28-17-32-47 +0000"
   },
   {
-    "headline": "What Salt Typhoon Shows About the Cyber Power of China’s Spy Agency",
-    "link": "https://www.nytimes.com/2025/09/28/world/asia/how-chinas-secretive-spy-agency-became-a-cyber-powerhouse.html",
+    "headline": "Takeaways: Vikings fall to Aaron Rodgers again with 24-21 loss in Dublin",
+    "link": "https://www.startribune.com/minnesota-vikings-pittsburgh-steelers-24-21-dublin-aaron-rodgers-carson-wentz/601479088",
+    "source": "startribune",
+    "pubdate": "2025-09-28-17-27-31 +0000"
+  },
+  {
+    "headline": "Hackers contact Harrods after 430,000 customer records hit by IT breach",
+    "link": "https://www.bbc.com/news/articles/cpq5w324pd3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-17-25-38 +0000"
+  },
+  {
+    "headline": "Bar Shooting in Southport, N.C., Leaves 3 Dead and 8 Injured",
+    "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html",
     "source": "nyt",
-    "pubdate": "2025-09-28-16-32-53 +0000"
+    "pubdate": "2025-09-28-17-23-07 +0000"
   },
   {
-    "headline": "What Salt Typhoon Shows About the Cyber Power of China’s Spy Agency",
-    "link": "https://www.nytimes.com/2025/09/28/world/asia/how-chinas-secretive-spy-agency-became-a-cyber-powerhouse.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-16-32-53 +0000"
-  },
-  {
-    "headline": "Inside Venezuela After U.S. Strikes Boats",
-    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-16-29-36 +0000"
-  },
-  {
-    "headline": "Inside Venezuela After U.S. Strikes Boats",
-    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-16-29-36 +0000"
-  },
-  {
-    "headline": "'One Battle After Another' lands solidly at the box office with a $22 million debut",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-28/one-battle-after-another-box-office",
+    "headline": "Inside the NBA investigation into Steve Ballmer's Clippers",
+    "link": "https://www.latimes.com/sports/story/2025-09-28/clippers-steve-ballmer-allegations-nba-investigation",
     "source": "latimes",
-    "pubdate": "2025-09-28-16-28-26 +0000"
+    "pubdate": "2025-09-28-17-20-38 +0000"
   },
   {
-    "headline": "Russia Hammers Kyiv in 12-Hour Drone and Missile Assault",
-    "link": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-16-11-33 +0000"
+    "headline": "Don't underestimate peril for Labour, says Burnham",
+    "link": "https://www.bbc.com/news/articles/cn0xzpngj5xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-17-12-07 +0000"
   },
   {
-    "headline": "Russia Hammers Kyiv in 12-Hour Drone and Missile Assault",
-    "link": "https://www.nytimes.com/2025/09/28/world/europe/ukraine-kyiv-russia-strikes.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-16-11-33 +0000"
+    "headline": "Army sent to battle fire in Namibia tourist hotspot",
+    "link": "https://www.bbc.com/news/articles/c9wdne7kdw8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-17-11-17 +0000"
   },
   {
-    "headline": "Trump Plans to Attend Gathering of U.S. Military Officers",
-    "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-hegseth-military.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-16-08-05 +0000"
+    "headline": "Army sent to battle fire in Namibia tourist hotspot",
+    "link": "https://www.bbc.com/news/articles/c9wdne7kdw8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-17-11-17 +0000"
   },
   {
-    "headline": "Trump Plans to Attend Gathering of U.S. Military Officers",
-    "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-hegseth-military.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-16-08-05 +0000"
-  },
-  {
-    "headline": "Protesters clash with ICE agents as Trump deploys federal troops to ‘war-ravaged’ Portland",
-    "link": "https://nypost.com/2025/09/28/us-news/protesters-clash-with-ice-as-federal-troops-enter-portland/",
+    "headline": "JD Vance mocks Russians over ‘stalled’ war in Ukraine with little ‘territorial gain’",
+    "link": "https://nypost.com/2025/09/28/us-news/vance-mocks-russians-over-stalled-war-in-ukraine-dont-have-much-to-show-for-it/",
     "source": "nypost",
-    "pubdate": "2025-09-28-16-05-59 +0000"
+    "pubdate": "2025-09-28-17-07-31 +0000"
   },
   {
-    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
-    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
+    "headline": "JD Vance mocks Russians over ‘stalled’ war in Ukraine with little ‘territorial gain’",
+    "link": "https://nypost.com/2025/09/28/us-news/vance-mocks-russians-over-stalled-war-in-ukraine-dont-have-much-to-show-for-it/",
+    "source": "nypost",
+    "pubdate": "2025-09-28-17-07-31 +0000"
+  },
+  {
+    "headline": "Arrests at protest supporting Palestine Action near Labour conference",
+    "link": "https://www.bbc.com/news/articles/cx20l1257l4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-28-16-00-04 +0000"
+    "pubdate": "2025-09-28-17-05-04 +0000"
   },
   {
-    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
-    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Eric Adams drops out of NYC mayoral race amid increasing pressure: ‘I know I cannot continue my campaign’",
+    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-drops-out-of-nyc-mayoral-race-amid-increasing-pressure-i-know-i-cannot-continue-my-campaign/",
+    "source": "nypost",
+    "pubdate": "2025-09-28-17-00-26 +0000"
+  },
+  {
+    "headline": "Eric Adams drops out of NYC mayoral race amid increasing pressure: ‘I know I cannot continue my campaign’",
+    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-drops-out-of-nyc-mayoral-race-amid-increasing-pressure-i-know-i-cannot-continue-my-campaign/",
+    "source": "nypost",
+    "pubdate": "2025-09-28-17-00-26 +0000"
+  },
+  {
+    "headline": "Labour peer calls for Treasury to be abolished",
+    "link": "https://www.bbc.com/news/articles/cy4rw9gvkmeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-28-16-00-04 +0000"
-  },
-  {
-    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
-    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-16-00-04 +0000"
-  },
-  {
-    "headline": "Swiss voters narrowly approve plan for electronic ID cards",
-    "link": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-15-55-38 +0000"
-  },
-  {
-    "headline": "Swiss voters narrowly approve plan for electronic ID cards",
-    "link": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-15-55-38 +0000"
-  },
-  {
-    "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda",
-    "source": "wsj",
-    "pubdate": "2025-09-28-15-55-00 +0000"
+    "pubdate": "2025-09-28-16-57-49 +0000"
   }
 ]
