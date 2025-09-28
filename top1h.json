@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "score": 11,
+    "pubdate": "2025-09-28-05-52-41 +0000",
+    "source": "nypost",
+    "headline": "Three members of TLC’s ‘Meet the Putmans’ family killed in Michigan car crash, 5 hospitalized",
+    "link": "https://nypost.com/2025/09/28/us-news/meet-the-putmans-family-says-3-members-killed-in-michigan-car-crash-5-injured/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-28-05-49-01 +0000",
+    "source": "bbc",
+    "headline": "'At our library you can borrow drills, telescopes and life jackets'",
+    "link": "https://www.bbc.com/news/articles/cn5q61kywx1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-09-28-04-56-29 +0000",
+    "source": "nyt",
+    "headline": "Gunman Fires on Riverside Bar in North Carolina From Boat, Killing 3",
+    "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-09-28-05-27-37 +0000",
+    "source": "bbc",
+    "headline": "Swiss vote on electronic identity cards for second time",
+    "link": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss"
+  }
+]
