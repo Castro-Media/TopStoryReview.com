@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Kyiv hit by 'massive' Russian attack, mayor says",
+    "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-36-20 +0000"
+  },
+  {
+    "headline": "Kyiv hit by 'massive' Russian attack, mayor says",
+    "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-36-20 +0000"
+  },
+  {
+    "headline": "Gunman Fires on Riverside Bar in North Carolina From Boat, Killing 3",
+    "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-06-32-38 +0000"
+  },
+  {
+    "headline": "Building of three new towns will start before election, Labour pledges",
+    "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-26-13 +0000"
+  },
+  {
+    "headline": "Hegseth Says Honors for Soldiers in Wounded Knee Massacre Will Remain",
+    "link": "https://www.nytimes.com/2025/09/27/us/hegseth-wounded-knee.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-06-03-13 +0000"
+  },
+  {
+    "headline": "Dad-of-three turns to food bank after job loss",
+    "link": "https://www.bbc.com/news/articles/c8d7y1gj319o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-02-32 +0000"
+  },
+  {
+    "headline": "1 million people have returned to Syria since fall of Assad, U.N. says",
+    "link": "https://www.washingtonpost.com/world/2025/09/28/syria-one-million-displaced-return/",
+    "source": "wapo",
+    "pubdate": "2025-09-28-06-00-00 +0000"
+  },
+  {
     "headline": "Three members of TLC’s ‘Meet the Putmans’ family killed in Michigan car crash, 5 hospitalized",
     "link": "https://nypost.com/2025/09/28/us-news/meet-the-putmans-family-says-3-members-killed-in-michigan-car-crash-5-injured/",
     "source": "nypost",
@@ -16,12 +58,6 @@
     "link": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-05-27-37 +0000"
-  },
-  {
-    "headline": "Gunman Fires on Riverside Bar in North Carolina From Boat, Killing 3",
-    "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-04-56-29 +0000"
   },
   {
     "headline": "At least 39 dead in crush at political rally in India",
@@ -120,13 +156,13 @@
     "pubdate": "2025-09-28-03-00-00 +0000"
   },
   {
-    "headline": "Brutal killings of young women leave Argentina in shock and anger",
+    "headline": "Argentines demand justice at protest against brutal killings of young women",
     "link": "https://www.bbc.com/news/articles/c20zl9pydezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-02-56-21 +0000"
   },
   {
-    "headline": "Brutal killings of young women leave Argentina in shock and anger",
+    "headline": "Argentines demand justice at protest against brutal killings of young women",
     "link": "https://www.bbc.com/news/articles/c20zl9pydezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-02-56-21 +0000"
@@ -204,7 +240,7 @@
     "pubdate": "2025-09-28-01-26-46 +0000"
   },
   {
-    "headline": "Iran warned not to escalate tensions as UN sanctions reimposed",
+    "headline": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
     "link": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-01-26-29 +0000"
@@ -430,12 +466,6 @@
     "link": "https://www.nytimes.com/2025/09/27/us/cte-high-school-football.html",
     "source": "nyt",
     "pubdate": "2025-09-27-21-45-47 +0000"
-  },
-  {
-    "headline": "Building of three new towns will start before election, Labour pledges",
-    "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-21-45-12 +0000"
   },
   {
     "headline": "Trump authorises 'full force' as Portland becomes latest city to see troops deployed",
@@ -712,12 +742,6 @@
     "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-27-18-06-21 +0000"
-  },
-  {
-    "headline": "Hegseth Says Honors for Soldiers in Wounded Knee Massacre Will Remain",
-    "link": "https://www.nytimes.com/2025/09/27/us/hegseth-wounded-knee.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-17-59-25 +0000"
   },
   {
     "headline": "Russia Steps Up Provocations in Europe, Alarming Leaders There",
@@ -1134,8 +1158,14 @@
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "The iconic Beverly Hills palm tree streets have a tourist problem",
-    "link": "https://www.latimes.com/california/story/2025-09-27/beverly-hills-tourists-tree-photos",
+    "headline": "AI is infiltrating the classroom. Here's how teachers and students say they use it",
+    "link": "https://www.latimes.com/california/story/2025-09-27/what-students-teachers-say-about-ai-school",
+    "source": "latimes",
+    "pubdate": "2025-09-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Reputed Mexican Mafia figure accused of brokering drug cartel alliance strikes plea deal",
+    "link": "https://www.latimes.com/california/story/2025-09-27/jose-landa-rodriguez-plea",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -1146,20 +1176,14 @@
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
+    "headline": "The iconic Beverly Hills palm tree streets have a tourist problem",
+    "link": "https://www.latimes.com/california/story/2025-09-27/beverly-hills-tourists-tree-photos",
+    "source": "latimes",
+    "pubdate": "2025-09-27-10-00-00 +0000"
+  },
+  {
     "headline": "No 'smoking gun': Why Eaton fire report didn't name names or assign blame",
     "link": "https://www.latimes.com/california/story/2025-09-27/no-smoking-gun-report-on-altadena-cites-failures-but-did-not-name-names",
-    "source": "latimes",
-    "pubdate": "2025-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "AI is infiltrating the classroom. Here's how teachers and students say they use it",
-    "link": "https://www.latimes.com/california/story/2025-09-27/what-students-teachers-say-about-ai-school",
-    "source": "latimes",
-    "pubdate": "2025-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Reputed Mexican Mafia figure accused of brokering drug cartel alliance strikes plea deal",
-    "link": "https://www.latimes.com/california/story/2025-09-27/jose-landa-rodriguez-plea",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -1182,14 +1206,14 @@
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "L.A. buyers scramble to snap up EVs as tax breaks end",
-    "link": "https://www.latimes.com/business/story/2025-09-27/oc-auto-show-ev-demand",
+    "headline": "Shooting for the moon. How Elon Musk's SpaceX is faring",
+    "link": "https://www.latimes.com/business/story/2025-09-27/after-starship-success-spacex-faces-challenges-opportunities",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "Shooting for the moon. How Elon Musk's SpaceX is faring",
-    "link": "https://www.latimes.com/business/story/2025-09-27/after-starship-success-spacex-faces-challenges-opportunities",
+    "headline": "L.A. buyers scramble to snap up EVs as tax breaks end",
+    "link": "https://www.latimes.com/business/story/2025-09-27/oc-auto-show-ev-demand",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -1390,17 +1414,5 @@
     "link": "https://www.nytimes.com/2025/09/26/business/dealbook/trump-soros-hoffman.html",
     "source": "nyt",
     "pubdate": "2025-09-27-06-56-18 +0000"
-  },
-  {
-    "headline": "US to revoke Colombian president’s visa after he urged troops to ‘disobey’ Trump at NYC protest with Roger Waters",
-    "link": "https://nypost.com/2025/09/27/us-news/us-to-revoke-colombian-president-gustavo-petros-visa-after-nyc-protest-with-roger-waters/",
-    "source": "nypost",
-    "pubdate": "2025-09-27-06-45-39 +0000"
-  },
-  {
-    "headline": "E.U. and Russia battle over Moldova’s future as elections loom",
-    "link": "https://www.washingtonpost.com/world/2025/09/27/moldova-elections-eu-russia/",
-    "source": "wapo",
-    "pubdate": "2025-09-27-06-00-00 +0000"
   }
 ]

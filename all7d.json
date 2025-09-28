@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Kyiv hit by 'massive' Russian attack, mayor says",
+    "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-36-20 +0000"
+  },
+  {
+    "headline": "Kyiv hit by 'massive' Russian attack, mayor says",
+    "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-36-20 +0000"
+  },
+  {
+    "headline": "Gunman Fires on Riverside Bar in North Carolina From Boat, Killing 3",
+    "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-06-32-38 +0000"
+  },
+  {
+    "headline": "Building of three new towns will start before election, Labour pledges",
+    "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-26-13 +0000"
+  },
+  {
+    "headline": "Hegseth Says Honors for Soldiers in Wounded Knee Massacre Will Remain",
+    "link": "https://www.nytimes.com/2025/09/27/us/hegseth-wounded-knee.html",
+    "source": "nyt",
+    "pubdate": "2025-09-28-06-03-13 +0000"
+  },
+  {
+    "headline": "Dad-of-three turns to food bank after job loss",
+    "link": "https://www.bbc.com/news/articles/c8d7y1gj319o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-28-06-02-32 +0000"
+  },
+  {
+    "headline": "1 million people have returned to Syria since fall of Assad, U.N. says",
+    "link": "https://www.washingtonpost.com/world/2025/09/28/syria-one-million-displaced-return/",
+    "source": "wapo",
+    "pubdate": "2025-09-28-06-00-00 +0000"
+  },
+  {
     "headline": "Three members of TLC’s ‘Meet the Putmans’ family killed in Michigan car crash, 5 hospitalized",
     "link": "https://nypost.com/2025/09/28/us-news/meet-the-putmans-family-says-3-members-killed-in-michigan-car-crash-5-injured/",
     "source": "nypost",
@@ -16,12 +58,6 @@
     "link": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-05-27-37 +0000"
-  },
-  {
-    "headline": "Gunman Fires on Riverside Bar in North Carolina From Boat, Killing 3",
-    "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-09-28-04-56-29 +0000"
   },
   {
     "headline": "At least 39 dead in crush at political rally in India",
@@ -120,13 +156,13 @@
     "pubdate": "2025-09-28-03-00-00 +0000"
   },
   {
-    "headline": "Brutal killings of young women leave Argentina in shock and anger",
+    "headline": "Argentines demand justice at protest against brutal killings of young women",
     "link": "https://www.bbc.com/news/articles/c20zl9pydezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-02-56-21 +0000"
   },
   {
-    "headline": "Brutal killings of young women leave Argentina in shock and anger",
+    "headline": "Argentines demand justice at protest against brutal killings of young women",
     "link": "https://www.bbc.com/news/articles/c20zl9pydezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-02-56-21 +0000"
@@ -204,7 +240,7 @@
     "pubdate": "2025-09-28-01-26-46 +0000"
   },
   {
-    "headline": "Iran warned not to escalate tensions as UN sanctions reimposed",
+    "headline": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
     "link": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-28-01-26-29 +0000"
@@ -430,12 +466,6 @@
     "link": "https://www.nytimes.com/2025/09/27/us/cte-high-school-football.html",
     "source": "nyt",
     "pubdate": "2025-09-27-21-45-47 +0000"
-  },
-  {
-    "headline": "Building of three new towns will start before election, Labour pledges",
-    "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-21-45-12 +0000"
   },
   {
     "headline": "Trump authorises 'full force' as Portland becomes latest city to see troops deployed",
@@ -712,12 +742,6 @@
     "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-27-18-06-21 +0000"
-  },
-  {
-    "headline": "Hegseth Says Honors for Soldiers in Wounded Knee Massacre Will Remain",
-    "link": "https://www.nytimes.com/2025/09/27/us/hegseth-wounded-knee.html",
-    "source": "nyt",
-    "pubdate": "2025-09-27-17-59-25 +0000"
   },
   {
     "headline": "Russia Steps Up Provocations in Europe, Alarming Leaders There",
@@ -1134,8 +1158,14 @@
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "The iconic Beverly Hills palm tree streets have a tourist problem",
-    "link": "https://www.latimes.com/california/story/2025-09-27/beverly-hills-tourists-tree-photos",
+    "headline": "AI is infiltrating the classroom. Here's how teachers and students say they use it",
+    "link": "https://www.latimes.com/california/story/2025-09-27/what-students-teachers-say-about-ai-school",
+    "source": "latimes",
+    "pubdate": "2025-09-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Reputed Mexican Mafia figure accused of brokering drug cartel alliance strikes plea deal",
+    "link": "https://www.latimes.com/california/story/2025-09-27/jose-landa-rodriguez-plea",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -1146,20 +1176,14 @@
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
+    "headline": "The iconic Beverly Hills palm tree streets have a tourist problem",
+    "link": "https://www.latimes.com/california/story/2025-09-27/beverly-hills-tourists-tree-photos",
+    "source": "latimes",
+    "pubdate": "2025-09-27-10-00-00 +0000"
+  },
+  {
     "headline": "No 'smoking gun': Why Eaton fire report didn't name names or assign blame",
     "link": "https://www.latimes.com/california/story/2025-09-27/no-smoking-gun-report-on-altadena-cites-failures-but-did-not-name-names",
-    "source": "latimes",
-    "pubdate": "2025-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "AI is infiltrating the classroom. Here's how teachers and students say they use it",
-    "link": "https://www.latimes.com/california/story/2025-09-27/what-students-teachers-say-about-ai-school",
-    "source": "latimes",
-    "pubdate": "2025-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Reputed Mexican Mafia figure accused of brokering drug cartel alliance strikes plea deal",
-    "link": "https://www.latimes.com/california/story/2025-09-27/jose-landa-rodriguez-plea",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -1182,14 +1206,14 @@
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "L.A. buyers scramble to snap up EVs as tax breaks end",
-    "link": "https://www.latimes.com/business/story/2025-09-27/oc-auto-show-ev-demand",
+    "headline": "Shooting for the moon. How Elon Musk's SpaceX is faring",
+    "link": "https://www.latimes.com/business/story/2025-09-27/after-starship-success-spacex-faces-challenges-opportunities",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "Shooting for the moon. How Elon Musk's SpaceX is faring",
-    "link": "https://www.latimes.com/business/story/2025-09-27/after-starship-success-spacex-faces-challenges-opportunities",
+    "headline": "L.A. buyers scramble to snap up EVs as tax breaks end",
+    "link": "https://www.latimes.com/business/story/2025-09-27/oc-auto-show-ev-demand",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -1678,6 +1702,12 @@
     "link": "https://www.latimes.com/california/story/2025-09-26/thousands-of-lightning-strikes-light-up-southern-california-skies-could-more-rain-be-on-the-way",
     "source": "latimes",
     "pubdate": "2025-09-27-00-11-20 +0000"
+  },
+  {
+    "headline": "Immigration Tracker: Updates on H1B, ICE face coverings and more",
+    "link": "https://eltecolote.org/content/en/h1b-ice-immigration-updates/",
+    "source": "eltecolote",
+    "pubdate": "2025-09-27-00-08-39 +0000"
   },
   {
     "headline": "Hedge-Fund Stars Are Making So Much Now That They Are Hiring Agents",
@@ -3096,20 +3126,14 @@
     "pubdate": "2025-09-26-10-00-02 +0000"
   },
   {
+    "headline": "Mt. Whitney hikers love this Chinese restaurant pitstop that looks like a merry-go-round",
+    "link": "https://www.latimes.com/environment/story/2025-09-26/mt-whitney-hikers-love-this-chinese-restaurant-that-looks-like-a-merry-go-round",
+    "source": "latimes",
+    "pubdate": "2025-09-26-10-00-00 +0000"
+  },
+  {
     "headline": "Insults are already flying in the crowded race for L.A. County sheriff",
     "link": "https://www.latimes.com/california/story/2025-09-26/luna-sheriff-election-2026",
-    "source": "latimes",
-    "pubdate": "2025-09-26-10-00-00 +0000"
-  },
-  {
-    "headline": "Cannibal and the Headhunters founder and L.A. Chicano rock pioneer dies",
-    "link": "https://www.latimes.com/obituaries/story/2025-09-26/robert-rabbit-jaramillo-cannibal-and-the-headhunters-dead",
-    "source": "latimes",
-    "pubdate": "2025-09-26-10-00-00 +0000"
-  },
-  {
-    "headline": "Lopez: From a Catholic school alum, a response to President Trump's call to prayer",
-    "link": "https://www.latimes.com/california/story/2025-09-26/from-a-catholic-school-alum-a-response-to-president-trumps-call-to-prayer",
     "source": "latimes",
     "pubdate": "2025-09-26-10-00-00 +0000"
   },
@@ -3120,8 +3144,20 @@
     "pubdate": "2025-09-26-10-00-00 +0000"
   },
   {
-    "headline": "Mt. Whitney hikers love this Chinese restaurant pitstop that looks like a merry-go-round",
-    "link": "https://www.latimes.com/environment/story/2025-09-26/mt-whitney-hikers-love-this-chinese-restaurant-that-looks-like-a-merry-go-round",
+    "headline": "Lopez: From a Catholic school alum, a response to President Trump's call to prayer",
+    "link": "https://www.latimes.com/california/story/2025-09-26/from-a-catholic-school-alum-a-response-to-president-trumps-call-to-prayer",
+    "source": "latimes",
+    "pubdate": "2025-09-26-10-00-00 +0000"
+  },
+  {
+    "headline": "Cannibal and the Headhunters founder and L.A. Chicano rock pioneer dies",
+    "link": "https://www.latimes.com/obituaries/story/2025-09-26/robert-rabbit-jaramillo-cannibal-and-the-headhunters-dead",
+    "source": "latimes",
+    "pubdate": "2025-09-26-10-00-00 +0000"
+  },
+  {
+    "headline": "In Los Feliz, a Hearst heiress's estate asks $21.5 million",
+    "link": "https://www.latimes.com/california/story/2025-09-26/in-los-feliz-a-hearst-heiresss-estate-asks-21-5-million",
     "source": "latimes",
     "pubdate": "2025-09-26-10-00-00 +0000"
   },
@@ -3134,12 +3170,6 @@
   {
     "headline": "UCLA chancellor ready to stand firm against Trump demands, unless they're 'valid'",
     "link": "https://www.latimes.com/california/story/2025-09-26/ucla-chancellor-julio-frenk-trump",
-    "source": "latimes",
-    "pubdate": "2025-09-26-10-00-00 +0000"
-  },
-  {
-    "headline": "In Los Feliz, a Hearst heiress's estate asks $21.5 million",
-    "link": "https://www.latimes.com/california/story/2025-09-26/in-los-feliz-a-hearst-heiresss-estate-asks-21-5-million",
     "source": "latimes",
     "pubdate": "2025-09-26-10-00-00 +0000"
   },
@@ -3352,12 +3382,6 @@
     "link": "https://www.bbc.com/news/articles/cly19zld70qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-26-05-36-16 +0000"
-  },
-  {
-    "headline": "'I'll be living off vegetables' - people fear rising food costs",
-    "link": "https://www.bbc.com/news/articles/c77dzm681ygo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-26-05-09-38 +0000"
   },
   {
     "headline": "No 'pensioner deportations' under Reform, says Kruger",
@@ -4488,14 +4512,14 @@
     "pubdate": "2025-09-25-10-00-00 +0000"
   },
   {
-    "headline": "A Woodland Hills nursery is turning into a cemetery. Some locals are fighting it",
-    "link": "https://www.latimes.com/california/story/2025-09-25/woodland-hills-nursery-is-turning-into-a-cemetery-some-locals-are-fighting-it",
+    "headline": "Millions of Californians are getting a refund on their electric bill. What you need to know",
+    "link": "https://www.latimes.com/california/story/2025-09-25/millions-of-californians-are-getting-a-refund-on-their-electric-bill-what-you-need-to-know",
     "source": "latimes",
     "pubdate": "2025-09-25-10-00-00 +0000"
   },
   {
-    "headline": "Millions of Californians are getting a refund on their electric bill. What you need to know",
-    "link": "https://www.latimes.com/california/story/2025-09-25/millions-of-californians-are-getting-a-refund-on-their-electric-bill-what-you-need-to-know",
+    "headline": "A Woodland Hills nursery is turning into a cemetery. Some locals are fighting it",
+    "link": "https://www.latimes.com/california/story/2025-09-25/woodland-hills-nursery-is-turning-into-a-cemetery-some-locals-are-fighting-it",
     "source": "latimes",
     "pubdate": "2025-09-25-10-00-00 +0000"
   },
@@ -5268,14 +5292,14 @@
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: Who's winning the redistricting fight? Here's how to read the polls",
-    "link": "https://www.latimes.com/politics/story/2025-09-24/california-redistricting-polling-proposition-50",
+    "headline": "How one man in East L.A. ended up with the world's most famous feet",
+    "link": "https://www.latimes.com/lifestyle/story/2025-09-24/celebrity-shoemaker-pasquale-difabrizio-chris-francis-collection",
     "source": "latimes",
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
   {
-    "headline": "How one man in East L.A. ended up with the world's most famous feet",
-    "link": "https://www.latimes.com/lifestyle/story/2025-09-24/celebrity-shoemaker-pasquale-difabrizio-chris-francis-collection",
+    "headline": "Barabak: Who's winning the redistricting fight? Here's how to read the polls",
+    "link": "https://www.latimes.com/politics/story/2025-09-24/california-redistricting-polling-proposition-50",
     "source": "latimes",
     "pubdate": "2025-09-24-10-00-00 +0000"
   },
@@ -5778,14 +5802,14 @@
     "pubdate": "2025-09-23-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: In the world of 'South Park,' Mexicans are cool while ICE is the joke",
-    "link": "https://www.latimes.com/california/story/2025-09-23/south-park-casa-bonita-ice",
+    "headline": "This program is using augmented reality to teach preschoolers spatial awareness",
+    "link": "https://www.latimes.com/california/story/2025-09-23/this-program-is-using-augmented-reality-to-teach-kids-spatial-awareness",
     "source": "latimes",
     "pubdate": "2025-09-23-10-00-00 +0000"
   },
   {
-    "headline": "This program is using augmented reality to teach preschoolers spatial awareness",
-    "link": "https://www.latimes.com/california/story/2025-09-23/this-program-is-using-augmented-reality-to-teach-kids-spatial-awareness",
+    "headline": "Arellano: In the world of 'South Park,' Mexicans are cool while ICE is the joke",
+    "link": "https://www.latimes.com/california/story/2025-09-23/south-park-casa-bonita-ice",
     "source": "latimes",
     "pubdate": "2025-09-23-10-00-00 +0000"
   },
@@ -5824,12 +5848,6 @@
     "link": "https://www.latimes.com/politics/story/2025-09-23/kamala-harris-rachel-maddow-book-107-days-campaign-trump",
     "source": "latimes",
     "pubdate": "2025-09-23-10-00-00 +0000"
-  },
-  {
-    "headline": "European recognition of Palestinian state shows US still only power that counts",
-    "link": "https://www.bbc.com/news/articles/c87y4ljx85qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-23-09-09-46 +0000"
   },
   {
     "headline": "European recognition of Palestinian state shows US still only power that counts",
@@ -6240,14 +6258,14 @@
     "pubdate": "2025-09-22-10-06-14 +0000"
   },
   {
-    "headline": "The L.A. wildfire cleanup was fast. Residents eager to rebuild worry officials chose speed over safety",
-    "link": "https://www.latimes.com/environment/story/2025-09-22/la-wildfire-cleanup-historically-fast-safety-cost",
+    "headline": "Kindergarten is important, but illness, tears make chronic absenteeism a challenge",
+    "link": "https://www.latimes.com/california/story/2025-09-22/lausd-aims-to-address-the-one-third-of-latino-kindergarteners-who-are-chronically-absent",
     "source": "latimes",
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
   {
-    "headline": "Predator drones shift from border patrol to protest surveillance",
-    "link": "https://www.latimes.com/california/story/2025-09-22/predator-drones-shift-from-border-patrol-to-protest-surveillance",
+    "headline": "The L.A. wildfire cleanup was fast. Residents eager to rebuild worry officials chose speed over safety",
+    "link": "https://www.latimes.com/environment/story/2025-09-22/la-wildfire-cleanup-historically-fast-safety-cost",
     "source": "latimes",
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
@@ -6258,8 +6276,8 @@
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
   {
-    "headline": "ICE offers big bucks — but California police officers prove tough to poach",
-    "link": "https://www.latimes.com/california/story/2025-09-22/ice-poaching-cops",
+    "headline": "Predator drones shift from border patrol to protest surveillance",
+    "link": "https://www.latimes.com/california/story/2025-09-22/predator-drones-shift-from-border-patrol-to-protest-surveillance",
     "source": "latimes",
     "pubdate": "2025-09-22-10-00-00 +0000"
   },
