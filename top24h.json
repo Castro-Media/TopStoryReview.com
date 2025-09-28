@@ -1,10 +1,24 @@
 [
   {
-    "score": 113,
-    "pubdate": "2025-09-28-02-26-00 +0000",
+    "score": 109,
+    "pubdate": "2025-09-28-15-55-00 +0000",
     "source": "wsj",
-    "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown within days",
+    "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-09-27-18-06-21 +0000",
+    "source": "bbc",
+    "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
+    "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-09-28-16-00-04 +0000",
+    "source": "bbc",
+    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
+    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 49,
@@ -14,13 +28,6 @@
     "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
   },
   {
-    "score": 49,
-    "pubdate": "2025-09-27-18-06-21 +0000",
-    "source": "bbc",
-    "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-    "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 48,
     "pubdate": "2025-09-28-03-29-21 +0000",
     "source": "nypost",
@@ -28,7 +35,7 @@
     "link": "https://nypost.com/2025/09/27/us-news/rep-marjorie-taylor-greene-states-she-is-not-suicidal-as-she-pushes-for-epstein-transparency-from-doj/"
   },
   {
-    "score": 44,
+    "score": 46,
     "pubdate": "2025-09-28-12-40-10 +0000",
     "source": "cbc",
     "headline": "40 dead, 124 injured following political rally stampede in India",
@@ -36,37 +43,30 @@
   },
   {
     "score": 44,
-    "pubdate": "2025-09-27-19-50-39 +0000",
-    "source": "nypost",
-    "headline": "US preps for attacks against drug lords deep inside Venezuela as tensions flare: report",
-    "link": "https://nypost.com/2025/09/27/us-news/us-preps-for-attacks-against-drug-lords-deep-inside-venezuela-as-tensions-flare-report/"
+    "pubdate": "2025-09-27-21-15-59 +0000",
+    "source": "wapo",
+    "headline": "Trump calls for troops in Portland, escalating use of military inside U.S.",
+    "link": "https://www.washingtonpost.com/politics/2025/09/27/trump-military-portland-ice/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-09-27-22-19-00 +0000",
-    "source": "wsj",
-    "headline": "Trump Says He Is Ordering Troops to Portland, Escalating Domestic Use of Military",
-    "link": "https://www.wsj.com/us-news/trump-says-he-is-ordering-troops-to-portland-escalating-domestic-use-of-military-0a473152"
-  },
-  {
-    "score": 43,
+    "score": 40,
     "pubdate": "2025-09-28-15-48-56 +0000",
     "source": "nypost",
     "headline": "James Comey’s ex-No. 2 gives mealy-mouthed answer about whether FBI director authorized leaks",
     "link": "https://nypost.com/2025/09/28/us-news/comeys-ex-no-2-andrew-mccabe-not-aware-of-him-authorizing-leaks/"
   },
   {
-    "score": 43,
+    "score": 40,
     "pubdate": "2025-09-28-09-08-40 +0000",
     "source": "nypost",
     "headline": "Russia fires over 600 drones, missiles in deadly overnight assault on Ukraine",
     "link": "https://nypost.com/2025/09/28/world-news/large-russian-drone-and-missile-attack-on-kyiv-kills-4-and-wounds-at-least-10/"
   },
   {
-    "score": 36,
-    "pubdate": "2025-09-28-13-13-51 +0000",
-    "source": "bbc",
-    "headline": "Building of three new towns will start before election, Labour pledges",
-    "link": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss"
+    "score": 39,
+    "pubdate": "2025-09-27-21-27-07 +0000",
+    "source": "nypost",
+    "headline": "Anti-ICE protesters led by paid activists march across NYC in latest push against immigration enforcement",
+    "link": "https://nypost.com/2025/09/27/us-news/brooklyn-anti-ice-protest-draws-200/"
   }
 ]
