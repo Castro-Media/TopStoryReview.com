@@ -1,45 +1,52 @@
 [
   {
-    "score": 376,
+    "score": 378,
     "pubdate": "2025-09-28-20-43-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 161,
+    "score": 158,
     "pubdate": "2025-09-24-07-04-00 +0000",
     "source": "wsj",
     "headline": "China said it will no longer seek new special treatment for developing countries at the WTO, signaling a possible effort to ease a friction point with the U.S.",
     "link": "https://www.wsj.com/economy/trade/china-to-stop-seeking-special-wto-treatment-in-future-talks-30c611f1"
   },
   {
-    "score": 134,
+    "score": 135,
     "pubdate": "2025-09-28-10-00-00 +0000",
     "source": "latimes",
     "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
     "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
   },
   {
-    "score": 130,
-    "pubdate": "2025-09-29-17-06-00 +0000",
+    "score": 132,
+    "pubdate": "2025-09-29-18-11-00 +0000",
     "source": "wsj",
     "headline": "Trump’s Gaza Cease-Fire Plan Faces Obstacles as He Meets With Netanyahu",
     "link": "https://www.wsj.com/world/middle-east/trumps-gaza-cease-fire-plan-faces-obstacles-as-he-meets-with-netanyahu-4a4d9e9d"
   },
   {
-    "score": 118,
+    "score": 121,
     "pubdate": "2025-09-29-17-11-23 +0000",
     "source": "nypost",
     "headline": "Michigan church shooter Thomas Sanford had prior arrests ahead of deadly attack, officials reveal, as all worshippers inside accounted for",
     "link": "https://nypost.com/2025/09/29/us-news/michigan-church-shooter-thomas-sanford-had-prior-arrests-ahead-of-deadly-attack-officials-reveal/"
   },
   {
-    "score": 100,
+    "score": 97,
     "pubdate": "2025-09-27-00-31-47 +0000",
     "source": "nyt",
     "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
     "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html"
+  },
+  {
+    "score": 96,
+    "pubdate": "2025-09-26-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Supreme Court is poised to decide whether President Trump can remove Lisa Cook from the Fed board in a case that economists and former officials say threatens to erode central bank independence",
+    "link": "https://www.wsj.com/economy/central-banking/fed-lisa-cook-supreme-court-trump-66fdd1b0"
   },
   {
     "score": 96,
@@ -49,24 +56,17 @@
     "link": "https://www.bbc.com/news/videos/cg5ege645reo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 95,
-    "pubdate": "2025-09-27-02-03-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court on Friday granted the Trump administration’s emergency request to allow it to withhold $4 billion in foreign-aid spending that had been approved by Congress",
-    "link": "https://www.wsj.com/politics/policy/supreme-court-allows-trump-to-withhold-4-billion-in-foreign-aid-53cae54d"
-  },
-  {
     "score": 91,
-    "pubdate": "2025-09-25-21-33-30 +0000",
-    "source": "cbc",
-    "headline": "Canada Post workers walk off the job after government demands reforms",
-    "link": "https://www.cbc.ca/news/politics/canada-post-strike-government-reforms-1.7644025?cmp=rss"
+    "pubdate": "2025-09-27-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
+    "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
   },
   {
-    "score": 88,
-    "pubdate": "2025-09-28-17-00-26 +0000",
-    "source": "nypost",
-    "headline": "Eric Adams drops out of NYC mayoral race amid increasing pressure: ‘I know I cannot continue my campaign’",
-    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-drops-out-of-nyc-mayoral-race-amid-increasing-pressure-i-know-i-cannot-continue-my-campaign/"
+    "score": 86,
+    "pubdate": "2025-09-29-10-44-08 +0000",
+    "source": "cbc",
+    "headline": "Moldova's pro-EU party wins election after campaign with Russian interference alleged",
+    "link": "https://www.cbc.ca/news/world/moldova-parliamentary-election-1.7646093?cmp=rss"
   }
 ]
