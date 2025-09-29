@@ -1,6 +1,6 @@
 [
   {
-    "score": 378,
+    "score": 377,
     "pubdate": "2025-09-28-20-43-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
@@ -36,17 +36,10 @@
   },
   {
     "score": 97,
-    "pubdate": "2025-09-27-00-31-47 +0000",
-    "source": "nyt",
-    "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
-    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html"
-  },
-  {
-    "score": 96,
-    "pubdate": "2025-09-26-01-00-00 +0000",
+    "pubdate": "2025-09-29-15-31-00 +0000",
     "source": "wsj",
-    "headline": "The Supreme Court is poised to decide whether President Trump can remove Lisa Cook from the Fed board in a case that economists and former officials say threatens to erode central bank independence",
-    "link": "https://www.wsj.com/economy/central-banking/fed-lisa-cook-supreme-court-trump-66fdd1b0"
+    "headline": "President Trump said films made outside the U.S. would face a 100% tariff, repeating his threat made earlier this year against the movie industry",
+    "link": "https://www.wsj.com/politics/elections/trump-re-ups-tariff-plan-for-movies-made-outside-of-u-s-a0065a89"
   },
   {
     "score": 96,
@@ -54,6 +47,13 @@
     "source": "bbc",
     "headline": "Is the US-China TikTok deal done? Here's what you need to know",
     "link": "https://www.bbc.com/news/videos/cg5ege645reo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 96,
+    "pubdate": "2025-09-26-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Supreme Court is poised to decide whether President Trump can remove Lisa Cook from the Fed board in a case that economists and former officials say threatens to erode central bank independence",
+    "link": "https://www.wsj.com/economy/central-banking/fed-lisa-cook-supreme-court-trump-66fdd1b0"
   },
   {
     "score": 91,
@@ -64,9 +64,9 @@
   },
   {
     "score": 86,
-    "pubdate": "2025-09-29-10-44-08 +0000",
-    "source": "cbc",
-    "headline": "Moldova's pro-EU party wins election after campaign with Russian interference alleged",
-    "link": "https://www.cbc.ca/news/world/moldova-parliamentary-election-1.7646093?cmp=rss"
+    "pubdate": "2025-09-28-17-00-26 +0000",
+    "source": "nypost",
+    "headline": "Eric Adams drops out of NYC mayoral race amid increasing pressure: ‘I know I cannot continue my campaign’",
+    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-drops-out-of-nyc-mayoral-race-amid-increasing-pressure-i-know-i-cannot-continue-my-campaign/"
   }
 ]
