@@ -1,72 +1,72 @@
 [
   {
-    "score": 22,
-    "pubdate": "2025-09-29-00-22-46 +0000",
-    "source": "wapo",
-    "headline": "At least four dead, eight injured in Michigan church shooting, police say",
-    "link": "https://www.washingtonpost.com/nation/2025/09/28/shooting-church-michigan/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-09-29-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump wants to shrink FEMA and shift disaster responsibility to the states. In the meantime, St. Louis is still waiting for hundreds of millions in federal recovery funds months after its tornado.",
-    "link": "https://www.wsj.com/politics/policy/fema-delay-disaster-response-st-louis-1152f03c"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-09-29-00-39-48 +0000",
+    "score": 33,
+    "pubdate": "2025-09-29-01-58-54 +0000",
     "source": "nypost",
-    "headline": "Ex-Catholic priest who served in 2 Louisiana governors’ admins accused of raping physically disabled, autistic child",
-    "link": "https://nypost.com/2025/09/28/us-news/ex-catholic-priest-who-served-in-2-louisiana-governors-admins-accused-of-raping-physically-disabled-autistic-child/"
+    "headline": "President Trump shows off new White House bling in social media video: ‘Best Oval Office ever’",
+    "link": "https://nypost.com/2025/09/28/us-news/president-trump-shows-off-new-white-house-gold-decor-in-social-media-video/"
   },
   {
-    "score": 8,
-    "pubdate": "2025-09-29-01-05-13 +0000",
+    "score": 24,
+    "pubdate": "2025-09-29-01-25-43 +0000",
     "source": "bbc",
-    "headline": "High-speed falcon crowned New Zealand Bird of the Year",
-    "link": "https://www.bbc.com/news/articles/cx25y1e5qrwo?at_medium=RSS&at_campaign=rss"
+    "headline": "At least four dead and several injured in shooting at Mormon church in Michigan",
+    "link": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2025-09-29-01-00-32 +0000",
-    "source": "wapo",
-    "headline": "Oregon sues Trump administration over order to deploy troops in Portland",
-    "link": "https://www.washingtonpost.com/national-security/2025/09/28/trump-portland-national-guard/"
+    "score": 14,
+    "pubdate": "2025-09-29-02-02-44 +0000",
+    "source": "nyt",
+    "headline": "Trump Raises Possibility of Inquiry Into Wray, Another Former F.B.I. Director",
+    "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-wray-fbi.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-09-29-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The Credit Market Is Humming—and That Has Wall Street On Edge",
-    "link": "https://www.wsj.com/finance/the-credit-market-is-hummingand-that-has-wall-street-on-edge-0721c324?mod=rss_markets_main"
+    "score": 12,
+    "pubdate": "2025-09-29-02-02-06 +0000",
+    "source": "nyt",
+    "headline": "With Scant Information, Federal Workers Brace for Possible Shutdown",
+    "link": "https://www.nytimes.com/2025/09/28/us/politics/federal-government-shutdown-trump.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-09-29-02-06-00 +0000",
+    "source": "nyt",
+    "headline": "Afghanistan Frees a U.S. Citizen Held in Prison",
+    "link": "https://www.nytimes.com/2025/09/28/world/asia/afghanistan-us-prisoner-freed.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-09-29-01-23-48 +0000",
+    "source": "latimes",
+    "headline": "After Michigan church shooting, Mayor Bass calls for more police near houses of worship",
+    "link": "https://www.latimes.com/lifestyle/story/2025-09-28/after-michigan-church-shooting-mayor-bass-calls-for-more-police-near-houses-of-worship"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-09-29-02-13-46 +0000",
+    "source": "startribune",
+    "headline": "Phoenix eliminates shorthanded Lynx from WNBA playoffs with 86-81 victory",
+    "link": "https://www.startribune.com/phoenix-eliminates-shorthanded-lynx-from-wnba-playoffs-with-86-81-victory/601479942"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-09-29-01-28-22 +0000",
+    "source": "nypost",
+    "headline": "Stowaway found dead in landing gear of American Airlines plane",
+    "link": "https://nypost.com/2025/09/28/us-news/stowaway-found-dead-in-landing-gear-of-american-airlines-plane/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-09-29-01-52-44 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Plan to Send Troops to Portland, Oregon, Prompts Frustration",
+    "link": "https://www.nytimes.com/2025/09/28/us/portland-trump-ice-protests.html"
   },
   {
     "score": 5,
-    "pubdate": "2025-09-29-00-48-57 +0000",
-    "source": "nyt",
-    "headline": "Shooting at Mormon Church in Grand Blanc, Michigan, Leaves Multiple Injured",
-    "link": "https://www.nytimes.com/live/2025/09/28/us/grand-blanc-shooting-church-michigan/grand-blanc-shooting-fire-mormon-church"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-09-29-00-31-58 +0000",
-    "source": "nyt",
-    "headline": "Bar Shooting in Southport, N.C., Was ‘Targeted,’ Police Say",
-    "link": "https://www.nytimes.com/2025/09/28/us/north-carolina-boat-shooting.html"
-  },
-  {
-    "score": 3,
-    "pubdate": "2025-09-29-01-03-00 +0000",
-    "source": "wsj",
-    "headline": "Four Killed After Man Rams Into Michigan Church and Starts Shooting",
-    "link": "https://www.wsj.com/us-news/michigan-church-shooting-f69b3d67"
-  },
-  {
-    "score": 1,
-    "pubdate": "2025-09-29-00-35-47 +0000",
-    "source": "nyt",
-    "headline": "What We Know About the Suspect in the Michigan Church Shooting",
-    "link": "https://www.nytimes.com/2025/09/28/us/what-we-know-suspect-michigan-church-shooting.html"
+    "pubdate": "2025-09-29-01-21-45 +0000",
+    "source": "48hills",
+    "headline": "How Scott Wiener is undermining affordable housing",
+    "link": "https://48hills.org/2025/09/how-scott-wiener-is-undermining-affordable-housing/"
   }
 ]
