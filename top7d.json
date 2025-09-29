@@ -1,45 +1,31 @@
 [
   {
-    "score": 365,
+    "score": 358,
     "pubdate": "2025-09-28-20-43-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 165,
-    "pubdate": "2025-09-27-09-30-00 +0000",
+    "score": 166,
+    "pubdate": "2025-09-24-07-04-00 +0000",
     "source": "wsj",
-    "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
-    "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
-  },
-  {
-    "score": 137,
-    "pubdate": "2025-09-29-12-55-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s Gaza Cease-Fire Plan Faces Obstacles as He Meets With Netanyahu",
-    "link": "https://www.wsj.com/world/middle-east/trumps-gaza-cease-fire-plan-faces-obstacles-as-he-meets-with-netanyahu-4a4d9e9d"
+    "headline": "China said it will no longer seek new special treatment for developing countries at the WTO, signaling a possible effort to ease a friction point with the U.S.",
+    "link": "https://www.wsj.com/economy/trade/china-to-stop-seeking-special-wto-treatment-in-future-talks-30c611f1"
   },
   {
     "score": 132,
-    "pubdate": "2025-09-27-00-31-47 +0000",
-    "source": "nyt",
-    "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
-    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html"
-  },
-  {
-    "score": 125,
-    "pubdate": "2025-09-23-15-26-23 +0000",
-    "source": "latimes",
-    "headline": "Nexstar and Sinclair TV stations will not run 'Jimmy Kimmel Live!' after return to ABC",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-23/nexstar-station-group-preempts-abc-jimmy-kimmel"
-  },
-  {
-    "score": 114,
     "pubdate": "2025-09-28-10-00-00 +0000",
     "source": "latimes",
     "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
     "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
+  },
+  {
+    "score": 132,
+    "pubdate": "2025-09-29-13-53-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s Gaza Cease-Fire Plan Faces Obstacles as He Meets With Netanyahu",
+    "link": "https://www.wsj.com/world/middle-east/trumps-gaza-cease-fire-plan-faces-obstacles-as-he-meets-with-netanyahu-4a4d9e9d"
   },
   {
     "score": 99,
@@ -49,7 +35,21 @@
     "link": "https://www.wsj.com/economy/central-banking/fed-lisa-cook-supreme-court-trump-66fdd1b0"
   },
   {
-    "score": 91,
+    "score": 97,
+    "pubdate": "2025-09-27-00-31-47 +0000",
+    "source": "nyt",
+    "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
+    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html"
+  },
+  {
+    "score": 96,
+    "pubdate": "2025-09-27-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
+    "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
+  },
+  {
+    "score": 93,
     "pubdate": "2025-09-26-10-02-14 +0000",
     "source": "bbc",
     "headline": "Is the US-China TikTok deal done? Here's what you need to know",
@@ -57,13 +57,13 @@
   },
   {
     "score": 90,
-    "pubdate": "2025-09-28-17-00-26 +0000",
-    "source": "nypost",
-    "headline": "Eric Adams drops out of NYC mayoral race amid increasing pressure: ‘I know I cannot continue my campaign’",
-    "link": "https://nypost.com/2025/09/28/us-news/eric-adams-drops-out-of-nyc-mayoral-race-amid-increasing-pressure-i-know-i-cannot-continue-my-campaign/"
+    "pubdate": "2025-09-23-15-26-23 +0000",
+    "source": "latimes",
+    "headline": "Nexstar and Sinclair TV stations will not run 'Jimmy Kimmel Live!' after return to ABC",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-09-23/nexstar-station-group-preempts-abc-jimmy-kimmel"
   },
   {
-    "score": 89,
+    "score": 88,
     "pubdate": "2025-09-29-01-23-48 +0000",
     "source": "latimes",
     "headline": "After Michigan church shooting, Mayor Bass calls for more police near houses of worship",
