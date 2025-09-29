@@ -1,62 +1,55 @@
 [
   {
-    "score": 340,
+    "score": 335,
     "pubdate": "2025-09-28-20-43-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 168,
-    "pubdate": "2025-09-24-07-04-00 +0000",
+    "score": 165,
+    "pubdate": "2025-09-27-09-30-00 +0000",
     "source": "wsj",
-    "headline": "China said it will no longer seek new special treatment for developing countries at the WTO, signaling a possible effort to ease a friction point with the U.S.",
-    "link": "https://www.wsj.com/economy/trade/china-to-stop-seeking-special-wto-treatment-in-future-talks-30c611f1"
+    "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
+    "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
   },
   {
-    "score": 141,
+    "score": 146,
+    "pubdate": "2025-09-28-16-00-04 +0000",
+    "source": "bbc",
+    "headline": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
+    "link": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 142,
     "pubdate": "2025-09-25-20-27-00 +0000",
     "source": "wsj",
     "headline": "The Bank of Mexico cut its benchmark interest rate to a three-year low Thursday as expected and said further reductions are possible, while it still sees inflation returning to its target next year.",
     "link": "https://www.wsj.com/articles/bank-of-mexico-makes-10th-straight-interest-rate-cut-cf549d88"
   },
   {
-    "score": 136,
-    "pubdate": "2025-09-26-10-00-00 +0000",
+    "score": 139,
+    "pubdate": "2025-09-27-00-31-47 +0000",
+    "source": "nyt",
+    "headline": "Russia and China Fail to Delay U.N. ‘Snapback’ Sanctions Against Iran Over Nuclear Program",
+    "link": "https://www.nytimes.com/2025/09/26/world/middleeast/iran-sanctions-europe-russia-un.html"
+  },
+  {
+    "score": 112,
+    "pubdate": "2025-09-27-02-12-14 +0000",
     "source": "latimes",
-    "headline": "A U.S. veteran spoke out against his wrongful arrest by ICE. Now he's being accused of assault",
-    "link": "https://www.latimes.com/california/story/2025-09-26/dhs-accuses-veteran-of-assault-after-he-details-his-arrest"
+    "headline": "Veteran U.S. attorney in California insisted Border Patrol follow a court order. Then she was fired",
+    "link": "https://www.latimes.com/california/story/2025-09-26/federal-attorney-fired-after-telling-border-patrol-to-follow-the-law"
   },
   {
-    "score": 124,
-    "pubdate": "2025-09-28-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
-    "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
+    "score": 109,
+    "pubdate": "2025-09-27-18-29-53 +0000",
+    "source": "nypost",
+    "headline": "Israel strikes 120 targets in Gaza Strip — including terror tunnels, surveillance post",
+    "link": "https://nypost.com/2025/09/27/world-news/israel-strikes-120-targets-in-gaza-strip-over-past-day-as-gaza-health-officials-say-at-least-44-killed/"
   },
   {
-    "score": 114,
-    "pubdate": "2025-09-27-18-06-21 +0000",
-    "source": "bbc",
-    "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-    "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 98,
-    "pubdate": "2025-09-27-02-03-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court on Friday granted the Trump administration’s emergency request to allow it to withhold $4 billion in foreign-aid spending that had been approved by Congress",
-    "link": "https://www.wsj.com/politics/policy/supreme-court-allows-trump-to-withhold-4-billion-in-foreign-aid-53cae54d"
-  },
-  {
-    "score": 97,
-    "pubdate": "2025-09-28-21-22-46 +0000",
-    "source": "wapo",
-    "headline": "At least two dead, eight injured in Michigan church shooting, police say",
-    "link": "https://www.washingtonpost.com/nation/2025/09/28/shooting-church-michigan/"
-  },
-  {
-    "score": 95,
+    "score": 93,
     "pubdate": "2025-09-23-15-26-23 +0000",
     "source": "latimes",
     "headline": "Nexstar and Sinclair TV stations will not run 'Jimmy Kimmel Live!' after return to ABC",
@@ -64,9 +57,16 @@
   },
   {
     "score": 86,
-    "pubdate": "2025-09-25-21-35-57 +0000",
-    "source": "nyt",
-    "headline": "Israel Attacks Yemeni Capital, a Day After Houthi Drone Strike",
-    "link": "https://www.nytimes.com/2025/09/25/world/middleeast/israel-yemen-houthis.html"
+    "pubdate": "2025-09-28-21-27-11 +0000",
+    "source": "bbc",
+    "headline": "At least two dead and several injured in shooting at Mormon church in Michigan",
+    "link": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-09-26-16-41-44 +0000",
+    "source": "bbc",
+    "headline": "Netanyahu attacks Palestinian recognition as dozens walk out of UN speech",
+    "link": "https://www.bbc.com/news/articles/cderxxylpzdo?at_medium=RSS&at_campaign=rss"
   }
 ]
