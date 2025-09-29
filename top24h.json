@@ -1,31 +1,38 @@
 [
   {
-    "score": 130,
+    "score": 137,
     "pubdate": "2025-09-28-20-43-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 75,
+    "score": 82,
     "pubdate": "2025-09-28-23-53-00 +0000",
     "source": "wsj",
     "headline": "Eric Adams Ends Re-Election Bid, Reshaping Race for New York Mayor",
     "link": "https://www.wsj.com/us-news/new-york-city-mayor-eric-adams-ends-re-election-bid-018e6d0a"
   },
   {
-    "score": 57,
-    "pubdate": "2025-09-29-03-39-05 +0000",
-    "source": "bbc",
-    "headline": "Death toll rises to four after Michigan church shooting and arson attack",
-    "link": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss"
+    "score": 62,
+    "pubdate": "2025-09-28-16-54-04 +0000",
+    "source": "cbc",
+    "headline": "4 dead, 8 wounded in shooting and fire at Michigan church, police say",
+    "link": "https://www.cbc.ca/news/world/multiple-people-shot-michigan-church-1.7645943?cmp=rss"
   },
   {
-    "score": 56,
+    "score": 59,
     "pubdate": "2025-09-29-09-00-00 +0000",
     "source": "wsj",
     "headline": "Congressional leaders will head to the White House Monday amid low expectations from either party of avoiding at least a brief government shutdown, less than 48 hours before federal funding lapses",
     "link": "https://www.wsj.com/politics/policy/trump-faces-democrats-as-shutdown-deadline-nears-ec8e5d54"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-09-29-11-14-42 +0000",
+    "source": "bbc",
+    "headline": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
+    "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -36,37 +43,30 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-09-28-12-40-10 +0000",
-    "source": "cbc",
-    "headline": "40 dead, 124 injured following political rally stampede in India",
-    "link": "https://www.cbc.ca/news/world/india-political-rally-stampede-1.7645814?cmp=rss"
-  },
-  {
-    "score": 35,
     "pubdate": "2025-09-28-23-26-36 +0000",
     "source": "nypost",
     "headline": "Mississippi man shows up drunk to bail out pal arrested for DUI, gets his own DUI month later then dies in jail cell",
     "link": "https://nypost.com/2025/09/28/us-news/mississippi-man-shows-up-drunk-to-bail-out-pal-arrested-for-dui-gets-his-own-dui-month-later-then-dies-in-jail-cell/"
   },
   {
-    "score": 34,
-    "pubdate": "2025-09-29-08-54-55 +0000",
-    "source": "bbc",
-    "headline": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
-    "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 31,
+    "score": 32,
     "pubdate": "2025-09-29-09-30-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon, alarmed at the low weapons stockpiles the U.S. would have on hand for a potential future conflict with China, is urging its missile suppliers to double or even quadruple production rates on a breakneck schedule",
     "link": "https://www.wsj.com/politics/national-security/pentagon-pushes-to-double-missile-production-for-potential-china-conflict-ee153ad3"
   },
   {
-    "score": 30,
-    "pubdate": "2025-09-28-21-34-26 +0000",
-    "source": "latimes",
-    "headline": "Four takeaways from California's first gubernatorial debate since Kamala Harris said she wasn't running",
-    "link": "https://www.latimes.com/california/story/2025-09-28/governor-race-debate-healthcare-workers"
+    "score": 32,
+    "pubdate": "2025-09-29-11-46-19 +0000",
+    "source": "nyt",
+    "headline": "Typhoon Bualoi Slams Into Central Vietnam, Adding to Death Toll",
+    "link": "https://www.nytimes.com/2025/09/29/world/asia/typhoon-bualoi-vietnam.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-09-28-12-51-56 +0000",
+    "source": "nyt",
+    "headline": "Stampede at Actor’s Political Rally Kills at Least 38 in India",
+    "link": "https://www.nytimes.com/2025/09/27/world/asia/stampede-vijay-rally-india.html"
   }
 ]
