@@ -1,27 +1,27 @@
 [
   {
-    "score": 104,
+    "score": 101,
     "pubdate": "2025-09-28-20-43-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2025-09-28-23-53-00 +0000",
     "source": "wsj",
     "headline": "Eric Adams Ends Re-Election Bid, Reshaping Race for New York Mayor",
     "link": "https://www.wsj.com/us-news/new-york-city-mayor-eric-adams-ends-re-election-bid-018e6d0a"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2025-09-29-02-40-06 +0000",
     "source": "wapo",
     "headline": "At least 4 dead, 8 injured in Michigan church shooting, police say",
     "link": "https://www.washingtonpost.com/nation/2025/09/28/shooting-church-michigan/"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-09-28-10-00-00 +0000",
     "source": "latimes",
     "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
@@ -29,10 +29,10 @@
   },
   {
     "score": 38,
-    "pubdate": "2025-09-28-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: Did Kamala Harris just destroy her 2028 chances? Is Gavin Newsom glad she did?",
-    "link": "https://www.latimes.com/politics/story/2025-09-28/kamala-harris-book-gavin-newsom-democrats-2028-presidential-race"
+    "pubdate": "2025-09-29-05-40-31 +0000",
+    "source": "bbc",
+    "headline": "Pro-EU party in Moldova set to win vote mired in claims of Russian interference",
+    "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -43,17 +43,10 @@
   },
   {
     "score": 38,
-    "pubdate": "2025-09-29-05-40-31 +0000",
-    "source": "bbc",
-    "headline": "Pro-EU party in Moldova set to win vote mired in claims of Russian interference",
-    "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 36,
-    "pubdate": "2025-09-28-18-22-07 +0000",
-    "source": "nypost",
-    "headline": "Trump administration scores fifth release of American citizen from Afghanistan so far this year",
-    "link": "https://nypost.com/2025/09/28/us-news/trump-admin-scores-5th-release-of-us-citizen-from-afghanistan/"
+    "pubdate": "2025-09-28-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Did Kamala Harris just destroy her 2028 chances? Is Gavin Newsom glad she did?",
+    "link": "https://www.latimes.com/politics/story/2025-09-28/kamala-harris-book-gavin-newsom-democrats-2028-presidential-race"
   },
   {
     "score": 36,
@@ -61,6 +54,13 @@
     "source": "nypost",
     "headline": "President Trump shows off new White House bling in social media video: ‘Best Oval Office ever’",
     "link": "https://nypost.com/2025/09/28/us-news/president-trump-shows-off-new-white-house-gold-decor-in-social-media-video/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-09-28-18-22-07 +0000",
+    "source": "nypost",
+    "headline": "Trump administration scores fifth release of American citizen from Afghanistan so far this year",
+    "link": "https://nypost.com/2025/09/28/us-news/trump-admin-scores-5th-release-of-us-citizen-from-afghanistan/"
   },
   {
     "score": 32,
