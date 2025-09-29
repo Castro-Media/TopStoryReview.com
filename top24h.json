@@ -1,52 +1,59 @@
 [
   {
-    "score": 137,
+    "score": 139,
     "pubdate": "2025-09-28-20-43-00 +0000",
     "source": "wsj",
     "headline": "President Trump has agreed to meet with the four top congressional leaders, setting up dramatic last-minute talks just as Republicans and Democrats are bracing for a government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-to-host-last-ditch-talks-to-avoid-government-shutdown-956b4bda"
   },
   {
-    "score": 82,
+    "score": 84,
     "pubdate": "2025-09-28-23-53-00 +0000",
     "source": "wsj",
     "headline": "Eric Adams Ends Re-Election Bid, Reshaping Race for New York Mayor",
     "link": "https://www.wsj.com/us-news/new-york-city-mayor-eric-adams-ends-re-election-bid-018e6d0a"
   },
   {
-    "score": 62,
-    "pubdate": "2025-09-28-16-54-04 +0000",
-    "source": "cbc",
-    "headline": "4 dead, 8 wounded in shooting and fire at Michigan church, police say",
-    "link": "https://www.cbc.ca/news/world/multiple-people-shot-michigan-church-1.7645943?cmp=rss"
+    "score": 67,
+    "pubdate": "2025-09-29-12-13-00 +0000",
+    "source": "nypost",
+    "headline": "Trump blasts Michigan church shooting as ‘attack on Christians’ — declares ‘epidemic of violence’ must end",
+    "link": "https://nypost.com/2025/09/29/us-news/trump-blasts-michigan-church-shooting-as-attack-on-christians-declares-epidemic-of-violence-must-end/"
   },
   {
-    "score": 59,
+    "score": 58,
     "pubdate": "2025-09-29-09-00-00 +0000",
     "source": "wsj",
     "headline": "Congressional leaders will head to the White House Monday amid low expectations from either party of avoiding at least a brief government shutdown, less than 48 hours before federal funding lapses",
-    "link": "https://www.wsj.com/politics/policy/trump-faces-democrats-as-shutdown-deadline-nears-ec8e5d54"
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-2025-democrats-trump-meeting-ec8e5d54"
   },
   {
-    "score": 38,
-    "pubdate": "2025-09-29-11-14-42 +0000",
-    "source": "bbc",
-    "headline": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
-    "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss"
+    "score": 40,
+    "pubdate": "2025-09-29-12-30-52 +0000",
+    "source": "nypost",
+    "headline": "Netanyahu teases immunity for Hamas in proposed peace plan if terror group releases hostages: ‘We’ll let them out’",
+    "link": "https://nypost.com/2025/09/29/world-news/netanyahu-teases-immunity-for-hamas-if-terror-group-releases-hostages/"
   },
   {
-    "score": 38,
+    "score": 37,
     "pubdate": "2025-09-28-18-22-07 +0000",
     "source": "nypost",
     "headline": "Trump administration scores fifth release of American citizen from Afghanistan so far this year",
     "link": "https://nypost.com/2025/09/28/us-news/trump-admin-scores-5th-release-of-us-citizen-from-afghanistan/"
   },
   {
-    "score": 37,
-    "pubdate": "2025-09-28-23-26-36 +0000",
-    "source": "nypost",
-    "headline": "Mississippi man shows up drunk to bail out pal arrested for DUI, gets his own DUI month later then dies in jail cell",
-    "link": "https://nypost.com/2025/09/28/us-news/mississippi-man-shows-up-drunk-to-bail-out-pal-arrested-for-dui-gets-his-own-dui-month-later-then-dies-in-jail-cell/"
+    "score": 35,
+    "pubdate": "2025-09-29-11-14-42 +0000",
+    "source": "bbc",
+    "headline": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
+    "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-09-29-09-45-12 +0000",
+    "source": "bbc",
+    "headline": "Denmark bans all civilian drone flights ahead of European summit",
+    "link": "https://www.bbc.com/news/articles/c708dzqvz1vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 32,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Typhoon Bualoi Slams Into Central Vietnam, Adding to Death Toll",
     "link": "https://www.nytimes.com/2025/09/29/world/asia/typhoon-bualoi-vietnam.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2025-09-28-12-51-56 +0000",
-    "source": "nyt",
-    "headline": "Stampede at Actor’s Political Rally Kills at Least 38 in India",
-    "link": "https://www.nytimes.com/2025/09/27/world/asia/stampede-vijay-rally-india.html"
   }
 ]
