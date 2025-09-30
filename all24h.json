@@ -1,33 +1,237 @@
 [
   {
+    "headline": "Middle East Updates: Trump Releases Gaza Plan and Says Hamas Must Accept It",
+    "link": "https://www.nytimes.com/live/2025/09/29/world/trump-netanyahu-israel-gaza",
+    "source": "nyt",
+    "pubdate": "2025-09-30-01-09-21 +0000"
+  },
+  {
+    "headline": "Judge blocks Kari Lake from laying off over 500 Voice of America staffers",
+    "link": "https://www.washingtonpost.com/business/2025/09/29/voa-usagm-kari-lake-judge/",
+    "source": "wapo",
+    "pubdate": "2025-09-30-01-06-55 +0000"
+  },
+  {
+    "headline": "Why General Motors Boss Mary Barra Is Slamming the Brakes on Lofty EV Ambitions",
+    "link": "https://www.wsj.com/business/autos/general-motors-ev-mary-barra-8e5c1eb2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "This Windowless Plane Is Vying to Be the Private Jet of the Future",
+    "link": "https://www.wsj.com/business/airlines/this-windowless-plane-is-vying-to-be-the-private-jet-of-the-future-2fdf184b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "Boeing Has Started Working on a 737 MAX Replacement",
+    "link": "https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "Investors Are Fretting That the Stock-Market Rally Is on Borrowed Time",
+    "link": "https://www.wsj.com/finance/stocks/investors-are-fretting-that-the-stock-market-rally-is-on-borrowed-time-dc6834d8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "Afghanistan telecom blackout as Taliban shuts off internet",
+    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-59-57 +0000"
+  },
+  {
+    "headline": "Afghanistan telecom blackout as Taliban shuts off internet",
+    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-59-57 +0000"
+  },
+  {
+    "headline": "Twins fire manager Rocco Baldelli a day after 92-loss season ends",
+    "link": "https://www.startribune.com/minnesota-twins-fire-manager-rocco-baldelli-derek-falvey-american-league-central/601480116",
+    "source": "startribune",
+    "pubdate": "2025-09-30-00-56-46 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Lurie appointee to Airport Commission opposed measure to block ICE in California",
+    "link": "https://48hills.org/2025/09/lurie-appointee-to-airport-commission-opposed-measure-to-block-ice-in-california/",
+    "source": "48hills",
+    "pubdate": "2025-09-30-00-52-33 +0000"
+  },
+  {
+    "headline": "Michigan Church Attacker Is Said to Have Held a Grudge Against Mormons",
+    "link": "https://www.nytimes.com/2025/09/29/us/michigan-church-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-50-09 +0000"
+  },
+  {
+    "headline": "Iowa Superintendent Arrested by ICE Loses State License and Is Placed on Unpaid Leave",
+    "link": "https://www.nytimes.com/2025/09/29/us/des-moines-superintendent-ice-roberts.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-45-04 +0000"
+  },
+  {
+    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-45-01 +0000"
+  },
+  {
+    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-45-01 +0000"
+  },
+  {
+    "headline": "Elephant charges at tourists, shoves floundering woman underwater after party drifts too close to its calves: video",
+    "link": "https://nypost.com/2025/09/29/world-news/elephant-charges-at-tourists-shoves-floundering-woman-underwater-after-party-drifts-too-close-to-its-calves-video/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-37-23 +0000"
+  },
+  {
+    "headline": "Who Was Michigan Church Shooting Suspect Thomas Jacob Sanford?",
+    "link": "https://www.wsj.com/us-news/who-was-michigan-church-shooting-suspect-thomas-jacob-sanford-d3b90f57",
+    "source": "wsj",
+    "pubdate": "2025-09-30-00-37-00 +0000"
+  },
+  {
+    "headline": "Mumbai's new airport faces traffic woes as it takes on Singapore and Dubai",
+    "link": "https://www.bbc.com/news/articles/c8xr9dyln42o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-36-32 +0000"
+  },
+  {
+    "headline": "4-year-old girl critically injured after being struck by school bus while crossing NYC street",
+    "link": "https://nypost.com/2025/09/29/us-news/4-year-old-girl-critically-injured-after-shes-struck-by-school-bus-while-crossing-nyc-street/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-35-12 +0000"
+  },
+  {
+    "headline": "Tariffs, Uncertainty to Slow Asia’s Economic Growth, ADB Says",
+    "link": "https://www.wsj.com/economy/trade/tariffs-uncertainty-to-slow-asias-economic-growth-adb-says-855e54b9",
+    "source": "wsj",
+    "pubdate": "2025-09-30-00-34-00 +0000"
+  },
+  {
+    "headline": "Holtsville Ecology Center’s animal refuge — Long Island’s largest zoo — to close for good after 40 years and alarming abuse allegations: ‘We hoped for this’",
+    "link": "https://nypost.com/2025/09/29/us-news/holtsville-ecology-centers-animal-refuge-long-islands-largest-zoo-to-close-for-good-after-40-years-and-alarming-abuse-allegations-we-hoped-for-this/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-29-03 +0000"
+  },
+  {
+    "headline": "American Airlines plane aborts takeoff at LAX after cargo jet crosses runway ‘without authorization’",
+    "link": "https://nypost.com/2025/09/29/us-news/american-airlines-plane-aborts-takeoff-at-lax-after-cargo-jet-crosses-runway-without-authorization/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-20-54 +0000"
+  },
+  {
+    "headline": "Beloved NYC supermarket worker, 64, dies in aftermath of scuffle with would-be Heineken thief: cops, sources",
+    "link": "https://nypost.com/2025/09/29/us-news/beloved-nyc-supermarket-worker-64-dies-in-aftermath-of-scuffle-with-would-be-heineken-thief-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-20-09 +0000"
+  },
+  {
+    "headline": "Trump and Netanyahu agree new Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-15-32 +0000"
+  },
+  {
+    "headline": "Billionaire Knicks owner James Dolan endorses ex-Manhattan prosecutor in bid to unseat DA Bragg: ‘Just reading the tea leaves’",
+    "link": "https://nypost.com/2025/09/29/us-news/knicks-owner-james-dolan-endorses-ex-manhattan-prosecutor-in-bid-to-unseat-da-bragg/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-14-55 +0000"
+  },
+  {
+    "headline": "Government Shutdown Appears Imminent After Trump Meets With Democrats",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-14-24 +0000"
+  },
+  {
+    "headline": "Government Shutdown Appears Imminent After Trump Meets With Democrats",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-14-24 +0000"
+  },
+  {
+    "headline": "Michigan churchgoers saved fellow congregants; motive still unclear, FBI says",
+    "link": "https://www.washingtonpost.com/nation/2025/09/29/michigan-church-shooting/",
+    "source": "wapo",
+    "pubdate": "2025-09-30-00-06-33 +0000"
+  },
+  {
+    "headline": "‘You Can’t Run From Fear’: American Eagle’s CEO on the Sydney Sweeney Fallout",
+    "link": "https://www.wsj.com/business/retail/you-cant-run-from-fear-american-eagles-ceo-on-the-sydney-sweeney-fallout-df8ec465?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-30-00-01-00 +0000"
+  },
+  {
+    "headline": "American Eagle Outfitters’ chief executive had a message for staff when a Sydney Sweeney ad campaign blew up the internet: Hold tight.",
+    "link": "https://www.wsj.com/business/retail/you-cant-run-from-fear-american-eagles-ceo-on-the-sydney-sweeney-fallout-df8ec465",
+    "source": "wsj",
+    "pubdate": "2025-09-30-00-01-00 +0000"
+  },
+  {
+    "headline": "Top Democrats made their case to Trump for restoring billions of dollars in healthcare spending as part of any deal to avoid a shutdown, but they said there was no breakthrough in talks",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-2025-democrats-trump-meeting-ec8e5d54",
+    "source": "wsj",
+    "pubdate": "2025-09-30-00-00-00 +0000"
+  },
+  {
+    "headline": "JPMorgan Chase now employs more workers in Texas than NY — top city biz advocate calls it ‘scary’ development",
+    "link": "https://nypost.com/2025/09/29/us-news/jpmorgan-chase-now-employs-more-workers-in-texas-than-ny-top-city-biz-advocate-calls-it-scary-development/",
+    "source": "nypost",
+    "pubdate": "2025-09-29-23-55-33 +0000"
+  },
+  {
+    "headline": "JPMorgan Chase now employs more workers in Texas than NY — top city biz advocate calls it ‘scary’ development",
+    "link": "https://nypost.com/2025/09/29/us-news/jpmorgan-chase-now-employs-more-workers-in-texas-than-ny-top-city-biz-advocate-calls-it-scary-development/",
+    "source": "nypost",
+    "pubdate": "2025-09-29-23-55-33 +0000"
+  },
+  {
+    "headline": "California, other states again sue Trump administration for tying aid to immigration laws",
+    "link": "https://www.latimes.com/politics/story/2025-09-29/california-sues-trump-administration-again-for-tying-funding-to-immigration-cooperation",
+    "source": "latimes",
+    "pubdate": "2025-09-29-23-51-43 +0000"
+  },
+  {
+    "headline": "California, other states again sue Trump administration for tying aid to immigration laws",
+    "link": "https://www.latimes.com/politics/story/2025-09-29/california-sues-trump-administration-again-for-tying-funding-to-immigration-cooperation",
+    "source": "latimes",
+    "pubdate": "2025-09-29-23-51-43 +0000"
+  },
+  {
     "headline": "Ken Griffin project to build Midtown’s tallest skyscraper on Park Avenue gets green light",
     "link": "https://nypost.com/2025/09/29/business/ken-griffin-project-to-build-midtowns-tallest-skyscraper-approved/",
     "source": "nypost",
     "pubdate": "2025-09-29-23-47-42 +0000"
-  },
-  {
-    "headline": "Government Shutdown Appears Imminent After Trump Meets With Democrats",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-45-07 +0000"
-  },
-  {
-    "headline": "Government Shutdown Appears Imminent After Trump Meets With Democrats",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-45-07 +0000"
-  },
-  {
-    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-44-42 +0000"
-  },
-  {
-    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-44-42 +0000"
   },
   {
     "headline": "Explaining the G.O.P.’s Misleading Talking Point on the Looming Shutdown",
@@ -66,6 +270,12 @@
     "pubdate": "2025-09-29-23-34-44 +0000"
   },
   {
+    "headline": "Missing Cheryl Grimmer: Family's anger over Australian police decision not to contact witnesses",
+    "link": "https://www.bbc.com/news/articles/c1ed4g1q52no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-29-23-29-14 +0000"
+  },
+  {
     "headline": "Trump and Netanyahu Tell Hamas to Accept Gaza Cease-Fire Plan, Or Else",
     "link": "https://www.nytimes.com/2025/09/29/us/politics/trump-netanyahu-hamas-ultimatum.html",
     "source": "nyt",
@@ -102,12 +312,6 @@
     "pubdate": "2025-09-29-23-18-59 +0000"
   },
   {
-    "headline": "Live Updates: Trump Releases Gaza Plan and Says Hamas Must Accept It",
-    "link": "https://www.nytimes.com/live/2025/09/29/world/trump-netanyahu-israel-gaza",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-15-00 +0000"
-  },
-  {
     "headline": "Inside Venezuela After U.S. Strikes Boats",
     "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
     "source": "nyt",
@@ -120,13 +324,13 @@
     "pubdate": "2025-09-29-23-12-37 +0000"
   },
   {
-    "headline": "Mikie Sherrill’s under scrutinty over her 2 kids being accepted into highly competitive Naval Academy: ‘What are the chances?’",
+    "headline": "Mikie Sherrill’s under scrutiny over her 2 kids being accepted into highly competitive Naval Academy: ‘What are the chances?’",
     "link": "https://nypost.com/2025/09/29/us-news/mikie-sherrills-two-children-got-into-naval-academy-raising-eyebrows/",
     "source": "nypost",
     "pubdate": "2025-09-29-23-11-54 +0000"
   },
   {
-    "headline": "Mikie Sherrill’s under scrutinty over her 2 kids being accepted into highly competitive Naval Academy: ‘What are the chances?’",
+    "headline": "Mikie Sherrill’s under scrutiny over her 2 kids being accepted into highly competitive Naval Academy: ‘What are the chances?’",
     "link": "https://nypost.com/2025/09/29/us-news/mikie-sherrills-two-children-got-into-naval-academy-raising-eyebrows/",
     "source": "nypost",
     "pubdate": "2025-09-29-23-11-54 +0000"
@@ -148,30 +352,6 @@
     "link": "https://www.wsj.com/world/middle-east/trumps-gaza-cease-fire-plan-faces-obstacles-as-he-meets-with-netanyahu-4a4d9e9d",
     "source": "wsj",
     "pubdate": "2025-09-29-23-10-00 +0000"
-  },
-  {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
-  },
-  {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
-  },
-  {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
-  },
-  {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
   },
   {
     "headline": "Tourist found dead near site where 2 hunters were fatally struck by lightning in Colorado national forest",
@@ -198,12 +378,6 @@
     "pubdate": "2025-09-29-23-02-20 +0000"
   },
   {
-    "headline": "Top Democrats made their case to Trump for restoring billions of dollars in healthcare spending as part of any deal to avoid a shutdown, but they said there was no breakthrough in talks",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-2025-democrats-trump-meeting-ec8e5d54",
-    "source": "wsj",
-    "pubdate": "2025-09-29-22-56-00 +0000"
-  },
-  {
     "headline": "Trump and Netanyahu say they've agreed on a plan to end the Gaza war. Hamas is now reviewing it",
     "link": "https://www.startribune.com/netanyahu-and-trump-are-set-to-meet-as-pressure-mounts-to-end-war-in-gaza/601482705",
     "source": "startribune",
@@ -214,12 +388,6 @@
     "link": "https://www.washingtonpost.com/world/2025/09/29/tony-blair-gaza-strip/",
     "source": "wapo",
     "pubdate": "2025-09-29-22-50-52 +0000"
-  },
-  {
-    "headline": "Twins fire manager Rocco Baldelli a day after 92-loss season ends",
-    "link": "https://www.startribune.com/minnesota-twins-fire-manager-rocco-baldelli-derek-falvey-american-league-central/601480116",
-    "source": "startribune",
-    "pubdate": "2025-09-29-22-50-35 +0000"
   },
   {
     "headline": "'Canada does not retreat' during a crisis, Anand tells United Nations",
@@ -282,7 +450,7 @@
     "pubdate": "2025-09-29-22-23-00 +0000"
   },
   {
-    "headline": "Blair to help oversee Gaza transition under Trump plan",
+    "headline": "Blair would help oversee Gaza transition under Trump plan",
     "link": "https://www.bbc.com/news/articles/cq5j989107lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-29-22-21-22 +0000"
@@ -322,12 +490,6 @@
     "link": "https://nypost.com/2025/09/29/world-news/city-spends-33500-to-rename-street-after-indigenous-tribe-lawmaker-claims/",
     "source": "nypost",
     "pubdate": "2025-09-29-22-11-43 +0000"
-  },
-  {
-    "headline": "Trump and Netanyahu agree new US peace plan for Gaza",
-    "link": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-22-06-46 +0000"
   },
   {
     "headline": "US issues urgent warning about Trader Joe’s, Walmart meals as listeria deaths climb to 4 people",
@@ -442,12 +604,6 @@
     "link": "https://www.nytimes.com/2025/09/29/world/africa/africa-wildfire-etosha-park-namibia-wildlife-reserve.html",
     "source": "nyt",
     "pubdate": "2025-09-29-21-31-24 +0000"
-  },
-  {
-    "headline": "Michigan churchgoers saved fellow congregants; motive still unclear, FBI says",
-    "link": "https://www.washingtonpost.com/nation/2025/09/29/michigan-church-shooting/",
-    "source": "wapo",
-    "pubdate": "2025-09-29-21-30-55 +0000"
   },
   {
     "headline": "Both sides dig in ahead of threatened government shutdown",
@@ -690,12 +846,6 @@
     "pubdate": "2025-09-29-20-43-00 +0000"
   },
   {
-    "headline": "Former Brooklyn Nets co-owner drugged, sexually assaulted single mom in Miami hotel room: suit",
-    "link": "https://nypost.com/2025/09/29/us-news/former-brooklyn-nets-co-owner-sexually-assaulted-single-mom-suit-claims/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-20-40-49 +0000"
-  },
-  {
     "headline": "ChatGPT launches new parental controls for teens amid growing safety concerns",
     "link": "https://www.latimes.com/business/story/2025-09-29/openai-introduces-new-parental-controls-for-teen-users",
     "source": "latimes",
@@ -730,12 +880,6 @@
     "link": "https://nypost.com/2025/09/29/media/comcast-names-michael-cavanagh-to-serve-as-co-ceo-with-brian-roberts/",
     "source": "nypost",
     "pubdate": "2025-09-29-20-30-47 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani slams Andrew Cuomo over cuts to rental assistance program: ‘Record of broken promises’",
-    "link": "https://nypost.com/2025/09/29/us-news/zohran-mamdani-slams-andrew-cuomo-over-cuts-to-rental-assistance-program-record-of-broken-promises/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-20-27-46 +0000"
   },
   {
     "headline": "Nilfisk to close Brooklyn Park plant, lay off 105 workers",
@@ -786,12 +930,6 @@
     "pubdate": "2025-09-29-19-54-58 +0000"
   },
   {
-    "headline": "Charlie Kirk wrote of his ‘deep love’ for Israel in letter to Netanyahu about how to counter rising opposition to the Jewish state in the US",
-    "link": "https://nypost.com/2025/09/29/us-news/charlie-kirk-wrote-of-his-deep-love-for-israel-in-letter-to-netanyahu-about-how-to-counter-rising-opposition-to-the-jewish-state-in-the-us/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-19-54-58 +0000"
-  },
-  {
     "headline": "Two HUD Civil Rights Lawyers Dismissed After Raising Concerns About Fair Housing Act Enforcement",
     "link": "https://www.nytimes.com/2025/09/29/us/politics/hud-lawyers-whistleblowers.html",
     "source": "nyt",
@@ -814,24 +952,6 @@
     "link": "https://www.nytimes.com/2025/09/29/world/asia/internet-blackout-afghanistan.html",
     "source": "nyt",
     "pubdate": "2025-09-29-19-45-56 +0000"
-  },
-  {
-    "headline": "Perv teacher who sexually assaulted boy, 11, during ‘play dates’ — then blamed him — jailed for 10 years",
-    "link": "https://nypost.com/2025/09/29/us-news/illinois-sub-teacher-who-sexually-assaulted-boy-at-play-dates-jailed/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-19-45-38 +0000"
-  },
-  {
-    "headline": "ICE detainee shot at Dallas facility fighting for life as wife set to give birth to their fifth child: ‘They miss him’",
-    "link": "https://nypost.com/2025/09/29/us-news/ice-detainee-shot-in-dallas-fighting-for-life-pregnant-wife-says/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-19-40-46 +0000"
-  },
-  {
-    "headline": "Investigators Seek Motive for Michigan Church Attack That Killed 4",
-    "link": "https://www.nytimes.com/2025/09/29/us/michigan-church-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-19-37-15 +0000"
   },
   {
     "headline": "Death of Trey Reed, a Black Man, in Mississippi Strikes Nerves in the U.S.",
@@ -870,12 +990,6 @@
     "pubdate": "2025-09-29-19-31-42 +0000"
   },
   {
-    "headline": "Bally’s clears hurdle for casino at former Trump golf course in The Bronx",
-    "link": "https://nypost.com/2025/09/29/us-news/ballys-clears-hurdle-for-casino-at-former-trump-golf-course-in-the-bronx/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-19-26-13 +0000"
-  },
-  {
     "headline": "The Low-Cost Icelandic Airline Play Suddenly Folds, Leaving Passengers Stranded",
     "link": "https://www.nytimes.com/2025/09/29/business/play-airline-iceland-shut-down.html",
     "source": "nyt",
@@ -900,18 +1014,6 @@
     "pubdate": "2025-09-29-19-22-00 +0000"
   },
   {
-    "headline": "Afghanistan telecom blackout as Taliban shuts off internet",
-    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-19-20-43 +0000"
-  },
-  {
-    "headline": "Afghanistan telecom blackout as Taliban shuts off internet",
-    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-19-20-43 +0000"
-  },
-  {
     "headline": "Israel’s Netanyahu expresses ‘deep regret’ for Israel’s strike on Qatar in three-way call with Trump",
     "link": "https://nypost.com/2025/09/29/us-news/netanyahu-apologizes-for-israels-qatar-strike/",
     "source": "nypost",
@@ -927,13 +1029,13 @@
     "headline": "Typhoon Bualoi Slams Into Central Vietnam, Adding to Death Toll",
     "link": "https://www.nytimes.com/2025/09/29/world/asia/typhoon-bualoi-vietnam.html",
     "source": "nyt",
-    "pubdate": "2025-09-29-19-11-20 +0000"
+    "pubdate": "2025-09-29-19-11-21 +0000"
   },
   {
     "headline": "Typhoon Bualoi Slams Into Central Vietnam, Adding to Death Toll",
     "link": "https://www.nytimes.com/2025/09/29/world/asia/typhoon-bualoi-vietnam.html",
     "source": "nyt",
-    "pubdate": "2025-09-29-19-11-20 +0000"
+    "pubdate": "2025-09-29-19-11-21 +0000"
   },
   {
     "headline": "She Was Fired for a Comment on Her Private Facebook Account",
@@ -1167,13 +1269,13 @@
     "headline": "Missing From a U.N. Meeting on Helping Refugees? The Refugees.",
     "link": "https://www.nytimes.com/2025/09/29/world/asia/rohingya-refugees-un-general-assembly.html",
     "source": "nyt",
-    "pubdate": "2025-09-29-17-39-11 +0000"
+    "pubdate": "2025-09-29-17-39-12 +0000"
   },
   {
     "headline": "Missing From a U.N. Meeting on Helping Refugees? The Refugees.",
     "link": "https://www.nytimes.com/2025/09/29/world/asia/rohingya-refugees-un-general-assembly.html",
     "source": "nyt",
-    "pubdate": "2025-09-29-17-39-11 +0000"
+    "pubdate": "2025-09-29-17-39-12 +0000"
   },
   {
     "headline": "Strike Threats Greet Appointment of Venice Opera’s New Conductor",
@@ -1210,12 +1312,6 @@
     "link": "https://www.cbc.ca/sports/soccer/south-africa-ineligible-player-ruling-overturned-world-cup-qualifying-1.7646453?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-09-29-17-24-37 +0000"
-  },
-  {
-    "headline": "Why Bad Bunny is a good pick for Super Bowl LX’s halftime",
-    "link": "https://www.startribune.com/why-bad-bunny-is-a-good-pick-for-super-bowl-lxs-halftime/601482878",
-    "source": "startribune",
-    "pubdate": "2025-09-29-17-12-49 +0000"
   },
   {
     "headline": "Kamala Harris reveals plans for hypothetical abortion clash during Trump debate — and the ‘dark joke’ she had ready",
@@ -1404,12 +1500,6 @@
     "pubdate": "2025-09-29-16-00-16 +0000"
   },
   {
-    "headline": "Vintage carnival and 8 other free things to do this week",
-    "link": "https://www.startribune.com/vintage-carnival-and-8-other-free-things-to-do-this-week/601479163",
-    "source": "startribune",
-    "pubdate": "2025-09-29-16-00-00 +0000"
-  },
-  {
     "headline": "Japanese brewing giant Asahi hit by cyber-attack",
     "link": "https://www.bbc.com/news/articles/cdjz7l1pxwgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1569,13 +1659,13 @@
     "headline": "Brazil’s Homegrown Payment System Is Target of Trump Administration",
     "link": "https://www.nytimes.com/2025/09/29/world/americas/brazil-digital-payments.html",
     "source": "nyt",
-    "pubdate": "2025-09-29-15-10-40 +0000"
+    "pubdate": "2025-09-29-15-10-41 +0000"
   },
   {
     "headline": "Brazil’s Homegrown Payment System Is Target of Trump Administration",
     "link": "https://www.nytimes.com/2025/09/29/world/americas/brazil-digital-payments.html",
     "source": "nyt",
-    "pubdate": "2025-09-29-15-10-40 +0000"
+    "pubdate": "2025-09-29-15-10-41 +0000"
   },
   {
     "headline": "Texas Factory Activity Deteriorates Again",
@@ -1932,6 +2022,12 @@
     "pubdate": "2025-09-29-11-18-52 +0000"
   },
   {
+    "headline": "China sentences 11 members of mafia family to death",
+    "link": "https://www.bbc.com/news/articles/c78nrx309kzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-29-11-18-52 +0000"
+  },
+  {
     "headline": "Stars turn out for final Armani fashion show in Milan",
     "link": "https://www.bbc.com/news/articles/cjw78l98lg4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2070,14 +2166,14 @@
     "pubdate": "2025-09-29-10-00-00 +0000"
   },
   {
-    "headline": "How California families are already bracing for looming Medicaid cuts",
-    "link": "https://www.latimes.com/science/story/2025-09-29/looming-medicaid-california-impacts",
+    "headline": "'They just don't come': What's making L.A.'s tourism tumble",
+    "link": "https://www.latimes.com/business/story/2025-09-29/with-less-tourism-in-la-international-visitors-proceed-with-caution",
     "source": "latimes",
     "pubdate": "2025-09-29-10-00-00 +0000"
   },
   {
-    "headline": "'They just don't come': What's making L.A.'s tourism tumble",
-    "link": "https://www.latimes.com/business/story/2025-09-29/with-less-tourism-in-la-international-visitors-proceed-with-caution",
+    "headline": "How California families are already bracing for looming Medicaid cuts",
+    "link": "https://www.latimes.com/science/story/2025-09-29/looming-medicaid-california-impacts",
     "source": "latimes",
     "pubdate": "2025-09-29-10-00-00 +0000"
   },
@@ -2254,12 +2350,6 @@
     "link": "https://www.bbc.com/news/articles/c9wdqrv00k0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-29-08-33-30 +0000"
-  },
-  {
-    "headline": "The resignation of Japan’s prime minister has set up a crucial leadership election that will effectively determine who will be the country’s next leader",
-    "link": "https://www.wsj.com/economy/japans-ruling-party-gears-up-to-select-next-prime-minister-13ab3fa5",
-    "source": "wsj",
-    "pubdate": "2025-09-29-08-31-00 +0000"
   },
   {
     "headline": "Russell M Nelson, head of Church of Latter-day Saints, dies aged 101",
@@ -2452,41 +2542,5 @@
     "link": "https://48hills.org/2025/09/how-scott-wiener-is-undermining-affordable-housing/",
     "source": "48hills",
     "pubdate": "2025-09-29-01-21-45 +0000"
-  },
-  {
-    "headline": "Falcon crowned Bird of the Year in New Zealand",
-    "link": "https://www.bbc.com/news/articles/cx25y1e5qrwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-01-05-13 +0000"
-  },
-  {
-    "headline": "Oregon sues Trump administration over order to deploy troops in Portland",
-    "link": "https://www.washingtonpost.com/national-security/2025/09/28/trump-portland-national-guard/",
-    "source": "wapo",
-    "pubdate": "2025-09-29-01-00-32 +0000"
-  },
-  {
-    "headline": "Trump wants to shrink FEMA and shift disaster responsibility to the states. In the meantime, St. Louis is still waiting for hundreds of millions in federal recovery funds months after its tornado.",
-    "link": "https://www.wsj.com/politics/policy/fema-delay-disaster-response-st-louis-1152f03c",
-    "source": "wsj",
-    "pubdate": "2025-09-29-01-00-00 +0000"
-  },
-  {
-    "headline": "How the New Tax Law Can Drive Your Bill to $0",
-    "link": "https://www.wsj.com/personal-finance/taxes/how-the-new-tax-law-can-drive-your-bill-to-0-5c1a7195?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-29-00-00-00 +0000"
-  },
-  {
-    "headline": "India court crippled by a million-case backlog",
-    "link": "https://www.bbc.com/news/articles/c4gz4y4p80po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-23-57-57 +0000"
-  },
-  {
-    "headline": "Justice on hold: India court crippled by a million-case backlog",
-    "link": "https://www.bbc.com/news/articles/c4gz4y4p80po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-23-57-57 +0000"
   }
 ]
