@@ -1,212 +1,158 @@
 [
   {
-    "headline": "Ken Griffin project to build Midtown’s tallest skyscraper on Park Avenue gets green light",
-    "link": "https://nypost.com/2025/09/29/business/ken-griffin-project-to-build-midtowns-tallest-skyscraper-approved/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-23-47-42 +0000"
-  },
-  {
-    "headline": "Government Shutdown Appears Imminent After Trump Meets With Democrats",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-45-07 +0000"
-  },
-  {
-    "headline": "Government Shutdown Appears Imminent After Trump Meets With Democrats",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/government-shutdown-trump-vance-congress.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-45-07 +0000"
-  },
-  {
-    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-44-42 +0000"
-  },
-  {
-    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-44-42 +0000"
-  },
-  {
-    "headline": "Explaining the G.O.P.’s Misleading Talking Point on the Looming Shutdown",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/republicans-shutdown-fact-check-health-immigration.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-42-13 +0000"
-  },
-  {
-    "headline": "Explaining the G.O.P.’s Misleading Talking Point on the Looming Shutdown",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/republicans-shutdown-fact-check-health-immigration.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-42-13 +0000"
-  },
-  {
-    "headline": "Trump renews threat to impose 100% tariffs on non-US made movies",
-    "link": "https://www.bbc.com/news/articles/c4g78e809zqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-23-40-34 +0000"
-  },
-  {
-    "headline": "Trump renews threat to impose 100% tariffs on non-US made movies",
-    "link": "https://www.bbc.com/news/articles/c4g78e809zqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-23-40-34 +0000"
-  },
-  {
-    "headline": "Trump renews threat to impose 100% tariffs on non-US made movies",
-    "link": "https://www.bbc.com/news/articles/c4g78e809zqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-23-40-34 +0000"
-  },
-  {
-    "headline": "Madison Bergmann, teacher accused of ‘making out’ with 5th-grader, weeps in court as she accepts plea agreement",
-    "link": "https://nypost.com/2025/09/29/us-news/madison-bergmann-teacher-accused-of-making-out-with-5th-grader-accepts-plea-agreement/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-23-34-44 +0000"
-  },
-  {
-    "headline": "Trump and Netanyahu Tell Hamas to Accept Gaza Cease-Fire Plan, Or Else",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/trump-netanyahu-hamas-ultimatum.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-27-45 +0000"
-  },
-  {
-    "headline": "Trump and Netanyahu Tell Hamas to Accept Gaza Cease-Fire Plan, Or Else",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/trump-netanyahu-hamas-ultimatum.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-27-45 +0000"
-  },
-  {
-    "headline": "White House issues blistering response to Ariana Grande’s anti-Trump voter message: ‘Save your tears’",
-    "link": "https://nypost.com/2025/09/29/us-news/white-house-issues-blistering-response-to-ariana-grandes-anti-trump-voter-message-save-your-tears/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-23-26-48 +0000"
-  },
-  {
-    "headline": "Trump Administration Will Deploy 100 National Guard Troops to Illinois",
-    "link": "https://www.nytimes.com/2025/09/29/us/trump-national-guard-chicago.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-24-29 +0000"
-  },
-  {
-    "headline": "Lally Weymouth, Post journalist from storied Graham family, dies at 82",
-    "link": "https://www.washingtonpost.com/obituaries/2025/09/29/lally-weymouth-dead-washington-post/",
-    "source": "wapo",
-    "pubdate": "2025-09-29-23-19-24 +0000"
-  },
-  {
-    "headline": "Nigeria banned shea butter exports to help women profit. But it backfired",
-    "link": "https://www.bbc.com/news/articles/c740jzlpd7po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-23-18-59 +0000"
-  },
-  {
-    "headline": "Live Updates: Trump Releases Gaza Plan and Says Hamas Must Accept It",
+    "headline": "Middle East Updates: Trump Releases Gaza Plan and Says Hamas Must Accept It",
     "link": "https://www.nytimes.com/live/2025/09/29/world/trump-netanyahu-israel-gaza",
     "source": "nyt",
-    "pubdate": "2025-09-29-23-15-00 +0000"
+    "pubdate": "2025-09-30-01-09-21 +0000"
   },
   {
-    "headline": "Inside Venezuela After U.S. Strikes Boats",
-    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-12-37 +0000"
+    "headline": "Judge blocks Kari Lake from laying off over 500 Voice of America staffers",
+    "link": "https://www.washingtonpost.com/business/2025/09/29/voa-usagm-kari-lake-judge/",
+    "source": "wapo",
+    "pubdate": "2025-09-30-01-06-55 +0000"
   },
   {
-    "headline": "Inside Venezuela After U.S. Strikes Boats",
-    "link": "https://www.nytimes.com/video/world/americas/100000010416376/inside-venezuela-after-us-strikes-boats.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-12-37 +0000"
-  },
-  {
-    "headline": "Mikie Sherrill’s under scrutinty over her 2 kids being accepted into highly competitive Naval Academy: ‘What are the chances?’",
-    "link": "https://nypost.com/2025/09/29/us-news/mikie-sherrills-two-children-got-into-naval-academy-raising-eyebrows/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-23-11-54 +0000"
-  },
-  {
-    "headline": "Mikie Sherrill’s under scrutinty over her 2 kids being accepted into highly competitive Naval Academy: ‘What are the chances?’",
-    "link": "https://nypost.com/2025/09/29/us-news/mikie-sherrills-two-children-got-into-naval-academy-raising-eyebrows/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-23-11-54 +0000"
-  },
-  {
-    "headline": "Health Department Moves to Block Harvard From Future Research Grants",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/trump-administration-harvard-research-grants.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-11-42 +0000"
-  },
-  {
-    "headline": "Health Department Moves to Block Harvard From Future Research Grants",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/trump-administration-harvard-research-grants.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-11-42 +0000"
-  },
-  {
-    "headline": "Trump Gives Hamas Ultimatum to Release Hostages or Face Destruction by Israel",
-    "link": "https://www.wsj.com/world/middle-east/trumps-gaza-cease-fire-plan-faces-obstacles-as-he-meets-with-netanyahu-4a4d9e9d",
+    "headline": "Why General Motors Boss Mary Barra Is Slamming the Brakes on Lofty EV Ambitions",
+    "link": "https://www.wsj.com/business/autos/general-motors-ev-mary-barra-8e5c1eb2?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-09-29-23-10-00 +0000"
+    "pubdate": "2025-09-30-01-00-00 +0000"
   },
   {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
-  },
-  {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
-  },
-  {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
-  },
-  {
-    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-09-02 +0000"
-  },
-  {
-    "headline": "Tourist found dead near site where 2 hunters were fatally struck by lightning in Colorado national forest",
-    "link": "https://nypost.com/2025/09/29/us-news/tourist-found-dead-near-site-where-2-hunters-were-fatally-struck-by-lightning-in-colorado-national-forest/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-23-08-42 +0000"
-  },
-  {
-    "headline": "Rail Operator CSX Ousts Chief Executive After Activist Pressure",
-    "link": "https://www.nytimes.com/2025/09/29/business/csx-ousts-chief-executive.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-23-08-00 +0000"
-  },
-  {
-    "headline": "YouTube to pay $24.5m to settle Trump lawsuit over Capitol riot",
-    "link": "https://www.bbc.com/news/articles/c9dx46qgp1jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-23-06-19 +0000"
-  },
-  {
-    "headline": "Why burnout is a growing problem in cybersecurity",
-    "link": "https://www.bbc.com/news/articles/cgqn8e4e700o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-23-02-20 +0000"
-  },
-  {
-    "headline": "Top Democrats made their case to Trump for restoring billions of dollars in healthcare spending as part of any deal to avoid a shutdown, but they said there was no breakthrough in talks",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-2025-democrats-trump-meeting-ec8e5d54",
+    "headline": "This Windowless Plane Is Vying to Be the Private Jet of the Future",
+    "link": "https://www.wsj.com/business/airlines/this-windowless-plane-is-vying-to-be-the-private-jet-of-the-future-2fdf184b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-09-29-22-56-00 +0000"
+    "pubdate": "2025-09-30-01-00-00 +0000"
   },
   {
-    "headline": "Trump and Netanyahu say they've agreed on a plan to end the Gaza war. Hamas is now reviewing it",
-    "link": "https://www.startribune.com/netanyahu-and-trump-are-set-to-meet-as-pressure-mounts-to-end-war-in-gaza/601482705",
+    "headline": "Boeing Has Started Working on a 737 MAX Replacement",
+    "link": "https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "Investors Are Fretting That the Stock-Market Rally Is on Borrowed Time",
+    "link": "https://www.wsj.com/finance/stocks/investors-are-fretting-that-the-stock-market-rally-is-on-borrowed-time-dc6834d8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "Afghanistan telecom blackout as Taliban shuts off internet",
+    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-59-57 +0000"
+  },
+  {
+    "headline": "Afghanistan telecom blackout as Taliban shuts off internet",
+    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-59-57 +0000"
+  },
+  {
+    "headline": "Twins fire manager Rocco Baldelli a day after 92-loss season ends",
+    "link": "https://www.startribune.com/minnesota-twins-fire-manager-rocco-baldelli-derek-falvey-american-league-central/601480116",
     "source": "startribune",
-    "pubdate": "2025-09-29-22-55-03 +0000"
+    "pubdate": "2025-09-30-00-56-46 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Top Trump Aides Push for Ousting Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/maduro-venezuela-trump-rubio.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-56-32 +0000"
+  },
+  {
+    "headline": "Lurie appointee to Airport Commission opposed measure to block ICE in California",
+    "link": "https://48hills.org/2025/09/lurie-appointee-to-airport-commission-opposed-measure-to-block-ice-in-california/",
+    "source": "48hills",
+    "pubdate": "2025-09-30-00-52-33 +0000"
+  },
+  {
+    "headline": "Michigan Church Attacker Is Said to Have Held a Grudge Against Mormons",
+    "link": "https://www.nytimes.com/2025/09/29/us/michigan-church-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-50-09 +0000"
+  },
+  {
+    "headline": "Iowa Superintendent Arrested by ICE Loses State License and Is Placed on Unpaid Leave",
+    "link": "https://www.nytimes.com/2025/09/29/us/des-moines-superintendent-ice-roberts.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-45-04 +0000"
+  },
+  {
+    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-45-01 +0000"
+  },
+  {
+    "headline": "Lally Weymouth, Globe-Trotting Reporter and Scion of Graham Family, Dies at 82",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/lally-weymouth-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-00-45-01 +0000"
+  },
+  {
+    "headline": "Elephant charges at tourists, shoves floundering woman underwater after party drifts too close to its calves: video",
+    "link": "https://nypost.com/2025/09/29/world-news/elephant-charges-at-tourists-shoves-floundering-woman-underwater-after-party-drifts-too-close-to-its-calves-video/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-37-23 +0000"
+  },
+  {
+    "headline": "Who Was Michigan Church Shooting Suspect Thomas Jacob Sanford?",
+    "link": "https://www.wsj.com/us-news/who-was-michigan-church-shooting-suspect-thomas-jacob-sanford-d3b90f57",
+    "source": "wsj",
+    "pubdate": "2025-09-30-00-37-00 +0000"
+  },
+  {
+    "headline": "Mumbai's new airport faces traffic woes as it takes on Singapore and Dubai",
+    "link": "https://www.bbc.com/news/articles/c8xr9dyln42o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-36-32 +0000"
+  },
+  {
+    "headline": "4-year-old girl critically injured after being struck by school bus while crossing NYC street",
+    "link": "https://nypost.com/2025/09/29/us-news/4-year-old-girl-critically-injured-after-shes-struck-by-school-bus-while-crossing-nyc-street/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-35-12 +0000"
+  },
+  {
+    "headline": "Tariffs, Uncertainty to Slow Asia’s Economic Growth, ADB Says",
+    "link": "https://www.wsj.com/economy/trade/tariffs-uncertainty-to-slow-asias-economic-growth-adb-says-855e54b9",
+    "source": "wsj",
+    "pubdate": "2025-09-30-00-34-00 +0000"
+  },
+  {
+    "headline": "Holtsville Ecology Center’s animal refuge — Long Island’s largest zoo — to close for good after 40 years and alarming abuse allegations: ‘We hoped for this’",
+    "link": "https://nypost.com/2025/09/29/us-news/holtsville-ecology-centers-animal-refuge-long-islands-largest-zoo-to-close-for-good-after-40-years-and-alarming-abuse-allegations-we-hoped-for-this/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-29-03 +0000"
+  },
+  {
+    "headline": "American Airlines plane aborts takeoff at LAX after cargo jet crosses runway ‘without authorization’",
+    "link": "https://nypost.com/2025/09/29/us-news/american-airlines-plane-aborts-takeoff-at-lax-after-cargo-jet-crosses-runway-without-authorization/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-20-54 +0000"
+  },
+  {
+    "headline": "Beloved NYC supermarket worker, 64, dies in aftermath of scuffle with would-be Heineken thief: cops, sources",
+    "link": "https://nypost.com/2025/09/29/us-news/beloved-nyc-supermarket-worker-64-dies-in-aftermath-of-scuffle-with-would-be-heineken-thief-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-00-20-09 +0000"
   }
 ]
