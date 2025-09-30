@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 42,
+    "pubdate": "2025-09-30-20-27-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump hailed the use of military force to police American cities, telling generals and admirals in a Tuesday address that it was important to quell “the enemy within”",
+    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-trump-quantico-military-speech-80ffabe5"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-09-30-20-44-01 +0000",
+    "source": "nyt",
+    "headline": "A.I. Fighter Jets and Cockroach Spies: Inside the Changing Business of War",
+    "link": "https://www.nytimes.com/2025/09/30/business/economy/defense-spending-startups.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-09-30-20-00-04 +0000",
+    "source": "nypost",
+    "headline": "Kash Patel gave New Zealand officials 3D-printed guns that are illegal under local laws",
+    "link": "https://nypost.com/2025/09/30/us-news/kash-patel-gave-new-zealand-officials-3d-printed-guns-that-are-illegal-under-local-laws/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-09-30-20-31-36 +0000",
+    "source": "nyt",
+    "headline": "Trump Announces Pfizer Deal to Lower Some Drug Prices and Unveils TrumpRx Website",
+    "link": "https://www.nytimes.com/2025/09/30/health/trump-pfizer-trumprx-medications.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-09-30-20-21-56 +0000",
+    "source": "nyt",
+    "headline": "Trump and Hegseth Recount Familiar Partisan Complaints to Top Military Leaders",
+    "link": "https://www.nytimes.com/2025/09/30/us/politics/trump-hegseth-military-officers.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-09-30-20-34-41 +0000",
+    "source": "nyt",
+    "headline": "Harvard Blasts Administration Over ‘Distorted’ Civil Rights Investigation",
+    "link": "https://www.nytimes.com/2025/09/30/us/politics/harvard-response-trump.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-30-20-24-45 +0000",
+    "source": "nypost",
+    "headline": "Brooklyn Dem infuriates party for backing Republican Curtis Sliwa — slamming Andrew Cuomo’s NYC mayoral bid",
+    "link": "https://nypost.com/2025/09/30/us-news/brooklyn-democrat-infuriates-party-for-backing-republican-curtis-sliwa-for-nyc-mayor/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-30-20-24-35 +0000",
+    "source": "nyt",
+    "headline": "Multiple Federal Agencies Blame ‘Radical’ Left and Democrats for Shutdown",
+    "link": "https://www.nytimes.com/2025/09/30/us/politics/federal-agencies-government-shutdown.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-09-30-20-45-57 +0000",
+    "source": "cbc",
+    "headline": "Nicole Kidman files for divorce from Keith Urban after 19 years of marriage",
+    "link": "https://www.cbc.ca/news/entertainment/nicole-kidman-keith-urban-divorce-1.7647566?cmp=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-09-30-19-59-50 +0000",
+    "source": "nypost",
+    "headline": "Girl, 15, and two cousins tortured to death in gruesome, livestreamed killings inside ‘House of Horrors’",
+    "link": "https://nypost.com/2025/09/30/world-news/argentina-teen-girl-among-three-tortured-to-death-in-livestream/"
+  }
+]
