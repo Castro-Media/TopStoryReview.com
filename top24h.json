@@ -1,6 +1,6 @@
 [
   {
-    "score": 199,
+    "score": 196,
     "pubdate": "2025-09-29-21-14-29 +0000",
     "source": "nypost",
     "headline": "Trump unveils 20-point Gaza cease-fire plan with him running ‘board of peace,’ warns Israel will ‘finish the job’ if Hamas objects",
@@ -42,13 +42,6 @@
     "link": "https://www.cbc.ca/news/canada/windsor/deadly-michigan-shooting-probe-motivation-fire-detroit-1.7646358?cmp=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2025-09-29-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon, alarmed at the low weapons stockpiles the U.S. would have on hand for a potential future conflict with China, is urging its missile suppliers to double or even quadruple production rates on a breakneck schedule",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-pushes-to-double-missile-production-for-potential-china-conflict-ee153ad3"
-  },
-  {
     "score": 48,
     "pubdate": "2025-09-29-11-14-42 +0000",
     "source": "bbc",
@@ -56,7 +49,14 @@
     "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 48,
+    "score": 47,
+    "pubdate": "2025-09-29-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon, alarmed at the low weapons stockpiles the U.S. would have on hand for a potential future conflict with China, is urging its missile suppliers to double or even quadruple production rates on a breakneck schedule",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-pushes-to-double-missile-production-for-potential-china-conflict-ee153ad3"
+  },
+  {
+    "score": 46,
     "pubdate": "2025-09-29-20-53-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it is cracking down on companies that pose national-security risks by adding them to a trade blacklist, a move that threatens hundreds of Chinese companies",
