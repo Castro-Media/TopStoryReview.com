@@ -1,24 +1,31 @@
 [
   {
-    "score": 215,
-    "pubdate": "2025-09-29-21-14-29 +0000",
-    "source": "nypost",
-    "headline": "Trump unveils 20-point Gaza cease-fire plan with him running ‘board of peace,’ warns Israel will ‘finish the job’ if Hamas objects",
-    "link": "https://nypost.com/2025/09/29/us-news/trump-unveils-20-point-gaza-cease-fire-plan-with-him-running-board-of-peace-warns-israel-will-finish-the-job-if-hamas-objects/"
-  },
-  {
-    "score": 120,
+    "score": 219,
     "pubdate": "2025-09-30-03-05-00 +0000",
     "source": "wsj",
     "headline": "Top Democrats made their case to Trump for restoring billions of dollars in healthcare spending as part of any deal to avoid a shutdown, but they said there was no breakthrough in talks",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-2025-democrats-trump-meeting-ec8e5d54"
   },
   {
-    "score": 81,
-    "pubdate": "2025-09-30-09-30-00 +0000",
+    "score": 116,
+    "pubdate": "2025-09-29-21-14-29 +0000",
+    "source": "nypost",
+    "headline": "Trump unveils 20-point Gaza cease-fire plan with him running ‘board of peace,’ warns Israel will ‘finish the job’ if Hamas objects",
+    "link": "https://nypost.com/2025/09/29/us-news/trump-unveils-20-point-gaza-cease-fire-plan-with-him-running-board-of-peace-warns-israel-will-finish-the-job-if-hamas-objects/"
+  },
+  {
+    "score": 70,
+    "pubdate": "2025-09-30-12-43-00 +0000",
     "source": "wsj",
-    "headline": "With roughly a month left in the New York City mayoral race, former Gov. Andrew Cuomo is banking on a campaign reset to power him to victory after incumbent Eric Adams dropped out",
-    "link": "https://www.wsj.com/politics/elections/cuomo-pins-longshot-comeback-on-reshaped-new-york-mayors-race-f1ccf966"
+    "headline": "President Trump and Defense Secretary Pete Hegseth are addressing the nation’s top military officers in an extraordinary gathering that comes amid a mounting debate over the national defense strategy",
+    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-trump-quantico-military-speech-80ffabe5"
+  },
+  {
+    "score": 67,
+    "pubdate": "2025-09-30-12-24-03 +0000",
+    "source": "nyt",
+    "headline": "With New U.S. Proposal to End Gaza War, a Rare Moment of Triumph for Netanyahu",
+    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/trump-netanyahu-israel-gaza-war.html"
   },
   {
     "score": 67,
@@ -28,11 +35,11 @@
     "link": "https://nypost.com/2025/09/30/us-news/trump-mocks-chuck-schumer-and-hakeem-jeffries-in-ai-generated-video-after-government-shutdown-meeting/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-09-29-15-31-00 +0000",
+    "score": 60,
+    "pubdate": "2025-09-29-19-32-00 +0000",
     "source": "wsj",
-    "headline": "President Trump said films made outside the U.S. would face a 100% tariff, repeating his threat made earlier this year against the movie industry",
-    "link": "https://www.wsj.com/politics/elections/trump-re-ups-tariff-plan-for-movies-made-outside-of-u-s-a0065a89"
+    "headline": "The clock is ticking down to an Oct. 1 deadline when federal agencies will run out of money because Congress hasn’t passed funding for the next fiscal year. Here is what to expect.",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-2026-what-happens-234c1458"
   },
   {
     "score": 51,
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2025/09/29/business/charlie-javice-sobs-as-shes-sentenced-to-7-years-in-prison-for-jpmorgan-fraud/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-09-29-20-53-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration said it is cracking down on companies that pose national-security risks by adding them to a trade blacklist, a move that threatens hundreds of Chinese companies",
-    "link": "https://www.wsj.com/politics/national-security/trump-targets-chinas-tech-sector-by-expanding-trade-blacklist-9873ad34"
-  },
-  {
-    "score": 48,
+    "score": 47,
     "pubdate": "2025-09-30-00-01-00 +0000",
     "source": "wsj",
     "headline": "American Eagle Outfitters’ chief executive had a message for staff when a Sydney Sweeney ad campaign blew up the internet: Hold tight",
-    "link": "https://www.wsj.com/business/retail/you-cant-run-from-fear-american-eagles-ceo-on-the-sydney-sweeney-fallout-df8ec465"
+    "link": "https://www.wsj.com/business/retail/jay-schottenstein-american-eagle-ceo-df8ec465"
   },
   {
-    "score": 46,
-    "pubdate": "2025-09-30-10-29-10 +0000",
-    "source": "nyt",
-    "headline": "With New U.S. Proposal to End Gaza War, a Rare Moment of Triumph for Netanyahu",
-    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/trump-netanyahu-israel-gaza-war.html"
-  },
-  {
-    "score": 41,
+    "score": 42,
     "pubdate": "2025-09-30-09-22-04 +0000",
     "source": "bbc",
     "headline": "Three dead, dozens trapped after Indonesian school collapses on students",
     "link": "https://www.bbc.com/news/articles/cj4y0zpvp8go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-09-29-20-53-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration said it is cracking down on companies that pose national-security risks by adding them to a trade blacklist, a move that threatens hundreds of Chinese companies",
+    "link": "https://www.wsj.com/politics/national-security/trump-targets-chinas-tech-sector-by-expanding-trade-blacklist-9873ad34"
   }
 ]
