@@ -1,57 +1,219 @@
 [
   {
-    "headline": "Trump mocks Chuck Schumer and Hakeem Jeffries in AI-generated video after failed government shutdown meeting",
-    "link": "https://nypost.com/2025/09/30/us-news/trump-mocks-chuck-schumer-and-hakeem-jeffries-in-ai-generated-video-after-government-shutdown-meeting/",
-    "source": "nypost",
-    "pubdate": "2025-09-30-06-50-20 +0000"
-  },
-  {
-    "headline": "Trump mocks Chuck Schumer and Hakeem Jeffries in AI-generated video after failed government shutdown meeting",
-    "link": "https://nypost.com/2025/09/30/us-news/trump-mocks-chuck-schumer-and-hakeem-jeffries-in-ai-generated-video-after-government-shutdown-meeting/",
-    "source": "nypost",
-    "pubdate": "2025-09-30-06-50-20 +0000"
-  },
-  {
-    "headline": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Why Starmer wants to keep talking about Farage",
+    "link": "https://www.bbc.com/news/articles/cge20pnx1rqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-30-06-42-55 +0000"
+    "pubdate": "2025-09-30-08-46-30 +0000"
   },
   {
-    "headline": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "headline": "Rescuers in Indonesia Race to Save Students Trapped by Deadly School Collapse",
+    "link": "https://www.nytimes.com/2025/09/30/world/asia/students-trapped-indonesia-school-collapse.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-08-46-08 +0000"
+  },
+  {
+    "headline": "Rescuers in Indonesia Race to Save Students Trapped by Deadly School Collapse",
+    "link": "https://www.nytimes.com/2025/09/30/world/asia/students-trapped-indonesia-school-collapse.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-08-46-08 +0000"
+  },
+  {
+    "headline": "Former aide to far-right German politician jailed for spying for China",
+    "link": "https://www.bbc.com/news/articles/c99g52y7k1xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-30-06-42-55 +0000"
+    "pubdate": "2025-09-30-08-42-24 +0000"
+  },
+  {
+    "headline": "Former aide to far-right German politician jailed for spying for China",
+    "link": "https://www.bbc.com/news/articles/c99g52y7k1xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-08-42-24 +0000"
+  },
+  {
+    "headline": "Blair would help oversee Gaza transition under Trump plan",
+    "link": "https://www.bbc.com/news/articles/cq5j989107lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-08-34-27 +0000"
+  },
+  {
+    "headline": "French Inflation Picks Up Pace as ECB Looks Likely to Keep Rates in Place",
+    "link": "https://www.wsj.com/world/europe/french-inflation-picks-up-pace-as-ecb-looks-likely-to-keep-rates-in-place-9019dbed",
+    "source": "wsj",
+    "pubdate": "2025-09-30-08-33-00 +0000"
+  },
+  {
+    "headline": "French Inflation Picks Up Pace as ECB Looks Likely to Keep Rates in Place",
+    "link": "https://www.wsj.com/world/europe/french-inflation-picks-up-pace-as-ecb-looks-likely-to-keep-rates-in-place-9019dbed",
+    "source": "wsj",
+    "pubdate": "2025-09-30-08-33-00 +0000"
+  },
+  {
+    "headline": "Why the US government might shut down and what to know",
+    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-08-18-21 +0000"
+  },
+  {
+    "headline": "Why the US government might shut down and what to know",
+    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-08-18-21 +0000"
+  },
+  {
+    "headline": "Influencer dies after aircraft crashes, erupts into flames during livestream",
+    "link": "https://nypost.com/2025/09/30/world-news/influencer-tang-feiji-dies-after-aircraft-crashes-erupts-into-flames-during-livestream/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-08-15-39 +0000"
+  },
+  {
+    "headline": "Afghanistan’s internet goes down amid fears of a Taliban crackdown",
+    "link": "https://www.washingtonpost.com/world/2025/09/29/afghanistan-taliban-internet-blackout/",
+    "source": "wapo",
+    "pubdate": "2025-09-30-08-06-36 +0000"
+  },
+  {
+    "headline": "US shutdown looms after Trump and Democrats end meeting without a deal",
+    "link": "https://www.bbc.com/news/articles/c2kn3n315lko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-08-01-11 +0000"
+  },
+  {
+    "headline": "Comedians performing at Saudi Arabia comedy festival called out for 'whitewashing' country's regime",
+    "link": "https://www.cbc.ca/news/entertainment/riyadh-comedy-festival-1.7646744?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-09-30-08-00-00 +0000"
+  },
+  {
+    "headline": "Streeting rules out VAT on private healthcare",
+    "link": "https://www.bbc.com/news/articles/c0knr2dmn4mo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-07-53-57 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Dow Futures Edge Lower; Shutdown Deadline Nears",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-09-30-07-44-34 +0000"
+  },
+  {
+    "headline": "Thousands of workers in limbo as US-Africa trade deal set to expire",
+    "link": "https://www.bbc.com/news/articles/c1kwrv9k4eno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-07-42-47 +0000"
+  },
+  {
+    "headline": "Woman disrobes at California school board meeting in protest of locker room policies",
+    "link": "https://nypost.com/2025/09/30/us-news/woman-disrobes-at-california-school-board-meeting-in-protest-of-locker-room-policies/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-07-40-13 +0000"
+  },
+  {
+    "headline": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+    "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-07-37-28 +0000"
+  },
+  {
+    "headline": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+    "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-07-37-28 +0000"
+  },
+  {
+    "headline": "In Germany, a boxing match decides fight over birthplace of bratwurst",
+    "link": "https://www.washingtonpost.com/world/2025/09/30/germany-oldest-bratwurst-sausage-boxing/",
+    "source": "wapo",
+    "pubdate": "2025-09-30-07-36-25 +0000"
+  },
+  {
+    "headline": "Judge Reinstates Over 500 Voice of America Journalists and Staff",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/voa-voice-of-america-layoffs.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-07-33-32 +0000"
+  },
+  {
+    "headline": "Judge Reinstates Over 500 Voice of America Journalists and Staff",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/voa-voice-of-america-layoffs.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-07-33-32 +0000"
   },
   {
     "headline": "New online NHS hospital service by 2027, PM to promise",
     "link": "https://www.bbc.com/news/articles/c9317k58xkjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-30-06-36-13 +0000"
+    "pubdate": "2025-09-30-07-20-36 +0000"
   },
   {
-    "headline": "U.S. Deports Planeload of Iranians After Deal With Tehran, Officials Say",
-    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/us-iran-deportation-flight.html",
-    "source": "nyt",
-    "pubdate": "2025-09-30-06-34-31 +0000"
-  },
-  {
-    "headline": "U.S. Deports Planeload of Iranians After Deal With Tehran, Officials Say",
-    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/us-iran-deportation-flight.html",
-    "source": "nyt",
-    "pubdate": "2025-09-30-06-34-31 +0000"
-  },
-  {
-    "headline": "U.S. Deports Planeload of Iranians After Deal With Tehran, Officials Say",
-    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/us-iran-deportation-flight.html",
-    "source": "nyt",
-    "pubdate": "2025-09-30-06-34-31 +0000"
-  },
-  {
-    "headline": "Dollar Falls Amid Risk of Government Shutdown",
-    "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-be-supported-by-u-s-government-shutdown-risks-d304f33f",
+    "headline": "RBA Keeps Rates on Hold as Economy’s Pulse Returns, But Uncertainty Lingers",
+    "link": "https://www.wsj.com/articles/australias-central-bank-keeps-rates-on-hold-as-economys-pulse-returns-f23d08ea",
     "source": "wsj",
-    "pubdate": "2025-09-30-06-31-00 +0000"
+    "pubdate": "2025-09-30-07-16-00 +0000"
+  },
+  {
+    "headline": "After Vesuvius Buried Pompeii, Some Survivors Moved Back In",
+    "link": "https://www.nytimes.com/2025/09/30/science/archaeology-vesuvius-pompeii.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-07-00-27 +0000"
+  },
+  {
+    "headline": "Afghanistan sees telecom shutdown as Taliban cut off internet",
+    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-06-58-36 +0000"
+  },
+  {
+    "headline": "Afghanistan sees telecom shutdown as Taliban cut off internet",
+    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-06-58-36 +0000"
+  },
+  {
+    "headline": "Grieving father blasts pols for lax policies that allowed daughter’s career criminal killer to remain on the streets",
+    "link": "https://nypost.com/2025/09/30/us-news/grieving-father-of-logan-federico-blasts-pols-for-lax-crime-policies-that-allowed-daughters-career-criminal-killer-to-remain-on-the-streets/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-06-56-11 +0000"
+  },
+  {
+    "headline": "Trump mocks Chuck Schumer and Hakeem Jeffries in AI-generated video after failed government shutdown meeting",
+    "link": "https://nypost.com/2025/09/30/us-news/trump-mocks-chuck-schumer-and-hakeem-jeffries-in-ai-generated-video-after-government-shutdown-meeting/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-06-50-20 +0000"
+  },
+  {
+    "headline": "Trump mocks Chuck Schumer and Hakeem Jeffries in AI-generated video after failed government shutdown meeting",
+    "link": "https://nypost.com/2025/09/30/us-news/trump-mocks-chuck-schumer-and-hakeem-jeffries-in-ai-generated-video-after-government-shutdown-meeting/",
+    "source": "nypost",
+    "pubdate": "2025-09-30-06-50-20 +0000"
+  },
+  {
+    "headline": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-06-42-55 +0000"
+  },
+  {
+    "headline": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-06-42-55 +0000"
+  },
+  {
+    "headline": "U.S. Deports Planeload of Iranians After Deal With Tehran, Officials Say",
+    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/us-iran-deportation-flight.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-06-34-32 +0000"
+  },
+  {
+    "headline": "U.S. Deports Planeload of Iranians After Deal With Tehran, Officials Say",
+    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/us-iran-deportation-flight.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-06-34-32 +0000"
+  },
+  {
+    "headline": "U.S. Deports Planeload of Iranians After Deal With Tehran, Officials Say",
+    "link": "https://www.nytimes.com/2025/09/30/world/middleeast/us-iran-deportation-flight.html",
+    "source": "nyt",
+    "pubdate": "2025-09-30-06-34-32 +0000"
   },
   {
     "headline": "Madagascar’s President Dissolves Government Amid Deadly Protests",
@@ -96,7 +258,19 @@
     "pubdate": "2025-09-30-05-13-00 +0000"
   },
   {
-    "headline": "'I can kill and not be convicted': The Ukrainian convicts swapping jail for the battlefield",
+    "headline": "Port Talbot's green future takes shape a year after closure",
+    "link": "https://www.bbc.com/news/articles/c89d5yvqknwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-05-11-26 +0000"
+  },
+  {
+    "headline": "Carpet poverty: 'I cried when I saw our new home had bare floorboards'",
+    "link": "https://www.bbc.com/news/articles/cewnj99j15no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-05-09-45 +0000"
+  },
+  {
+    "headline": "The Ukrainian convicts swapping jail for the battlefield",
     "link": "https://www.bbc.com/news/articles/cvgjk8z47gko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-30-05-03-31 +0000"
@@ -112,24 +286,6 @@
     "link": "https://www.wsj.com/politics/policy/democrats-stare-down-the-political-risks-of-a-government-shutdown-ae176bbf",
     "source": "wsj",
     "pubdate": "2025-09-30-04-56-00 +0000"
-  },
-  {
-    "headline": "Australia’s Central Bank Keeps Rates on Hold as Economy’s Pulse Returns",
-    "link": "https://www.wsj.com/articles/australias-central-bank-keeps-rates-on-hold-as-economys-pulse-returns-f23d08ea",
-    "source": "wsj",
-    "pubdate": "2025-09-30-04-54-00 +0000"
-  },
-  {
-    "headline": "Afghanistan sees telecom shutdown as Taliban cut off internet",
-    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-30-04-53-11 +0000"
-  },
-  {
-    "headline": "Afghanistan sees telecom shutdown as Taliban cut off internet",
-    "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-30-04-53-11 +0000"
   },
   {
     "headline": "Partial skeletal remains, including human skull, found near NYC strip mall: cops",
@@ -174,12 +330,6 @@
     "pubdate": "2025-09-30-04-16-07 +0000"
   },
   {
-    "headline": "Thousands of workers in limbo as US-Africa trade deal set to expire",
-    "link": "https://www.bbc.com/news/articles/c1kwrv9k4eno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-30-04-01-58 +0000"
-  },
-  {
     "headline": "Far-left gun club professor placed on leave after radical group exposed",
     "link": "https://nypost.com/2025/09/29/us-news/unc-professor-placed-on-leave-after-far-left-redneck-revolt-gun-club-membership-exposed/",
     "source": "nypost",
@@ -190,18 +340,6 @@
     "link": "https://www.nytimes.com/2025/09/28/world/venezuela-trump-comey-russia-ukraine-drones.html",
     "source": "nyt",
     "pubdate": "2025-09-30-03-26-02 +0000"
-  },
-  {
-    "headline": "Judge Reinstates Over 500 Voice of America Journalists and Staff",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/voa-voice-of-america-layoffs.html",
-    "source": "nyt",
-    "pubdate": "2025-09-30-03-19-42 +0000"
-  },
-  {
-    "headline": "Judge Reinstates Over 500 Voice of America Journalists and Staff",
-    "link": "https://www.nytimes.com/2025/09/29/us/politics/voa-voice-of-america-layoffs.html",
-    "source": "nyt",
-    "pubdate": "2025-09-30-03-19-42 +0000"
   },
   {
     "headline": "Weak Japan Data Poses Headache for Central Bank",
@@ -220,24 +358,6 @@
     "link": "https://nypost.com/2025/09/29/us-news/first-victim-of-michigan-lds-church-shooting-idd-as-77-year-old-navy-veteran/",
     "source": "nypost",
     "pubdate": "2025-09-30-03-03-54 +0000"
-  },
-  {
-    "headline": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
-    "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-30-02-55-36 +0000"
-  },
-  {
-    "headline": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
-    "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-30-02-55-36 +0000"
-  },
-  {
-    "headline": "Middle East Updates: Trump Releases Gaza Plan and Says Hamas Must Accept It",
-    "link": "https://www.nytimes.com/live/2025/09/29/world/trump-netanyahu-israel-gaza",
-    "source": "nyt",
-    "pubdate": "2025-09-30-02-46-24 +0000"
   },
   {
     "headline": "Two mountain lions that were found malnourished and alone as cubs are released back into the wild",
@@ -304,6 +424,12 @@
     "link": "https://www.bbc.com/news/articles/cn4w37x524wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-30-02-21-51 +0000"
+  },
+  {
+    "headline": "Trump's Gaza plan is a significant step - but faces fundamental obstacles",
+    "link": "https://www.bbc.com/news/articles/cy4r1xjy90ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-02-18-29 +0000"
   },
   {
     "headline": "Trump's Gaza plan is a significant step - but faces fundamental obstacles",
@@ -522,6 +648,12 @@
     "pubdate": "2025-09-30-00-45-01 +0000"
   },
   {
+    "headline": "Nicole Kidman and Keith Urban separate after almost 20 years",
+    "link": "https://www.bbc.com/news/articles/cdjz7r8jk3ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-30-00-38-37 +0000"
+  },
+  {
     "headline": "Elephant charges at tourists, shoves floundering woman underwater after party drifts too close to its calves: video",
     "link": "https://nypost.com/2025/09/29/world-news/elephant-charges-at-tourists-shoves-floundering-woman-underwater-after-party-drifts-too-close-to-its-calves-video/",
     "source": "nypost",
@@ -648,6 +780,12 @@
     "pubdate": "2025-09-29-23-27-45 +0000"
   },
   {
+    "headline": "Trump and Netanyahu Tell Hamas to Accept Gaza Cease-Fire Plan, Or Else",
+    "link": "https://www.nytimes.com/2025/09/29/us/politics/trump-netanyahu-hamas-ultimatum.html",
+    "source": "nyt",
+    "pubdate": "2025-09-29-23-27-45 +0000"
+  },
+  {
     "headline": "White House issues blistering response to Ariana Grande’s anti-Trump voter message: ‘Save your tears’",
     "link": "https://nypost.com/2025/09/29/us-news/white-house-issues-blistering-response-to-ariana-grandes-anti-trump-voter-message-save-your-tears/",
     "source": "nypost",
@@ -672,7 +810,7 @@
     "pubdate": "2025-09-29-23-19-24 +0000"
   },
   {
-    "headline": "Nigeria banned shea butter exports to help women profit. But it backfired",
+    "headline": "Nigeria banned shea nut exports to help women profit. But it backfired",
     "link": "https://www.bbc.com/news/articles/c740jzlpd7po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-29-23-18-59 +0000"
@@ -726,12 +864,6 @@
     "pubdate": "2025-09-29-23-10-00 +0000"
   },
   {
-    "headline": "Tourist found dead near site where 2 hunters were fatally struck by lightning in Colorado national forest",
-    "link": "https://nypost.com/2025/09/29/us-news/tourist-found-dead-near-site-where-2-hunters-were-fatally-struck-by-lightning-in-colorado-national-forest/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-23-08-42 +0000"
-  },
-  {
     "headline": "Rail Operator CSX Ousts Chief Executive After Activist Pressure",
     "link": "https://www.nytimes.com/2025/09/29/business/csx-ousts-chief-executive.html",
     "source": "nyt",
@@ -742,6 +874,12 @@
     "link": "https://www.bbc.com/news/articles/ce9r1e5j3r3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-29-23-07-03 +0000"
+  },
+  {
+    "headline": "YouTube to pay $24.5m to settle Trump lawsuit over Capitol riot",
+    "link": "https://www.bbc.com/news/articles/c9dx46qgp1jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-09-29-23-06-19 +0000"
   },
   {
     "headline": "YouTube to pay $24.5m to settle Trump lawsuit over Capitol riot",
@@ -792,12 +930,6 @@
     "pubdate": "2025-09-29-22-29-55 +0000"
   },
   {
-    "headline": "Ex-UK PM Tony Blair to help run Gaza under Trump’s peace plan",
-    "link": "https://nypost.com/2025/09/29/us-news/ex-uk-pm-tony-blair-to-help-run-gaza-under-trumps-peace-plan/",
-    "source": "nypost",
-    "pubdate": "2025-09-29-22-29-55 +0000"
-  },
-  {
     "headline": "SFPD nixes 24/7 police bus at 16th St., offers varying rationales",
     "link": "https://missionlocal.org/2025/09/sfpd-nixes-24-7-bus-at-16th-and-mission-offers-varying-rationales/",
     "source": "missionlocal",
@@ -808,12 +940,6 @@
     "link": "https://www.wsj.com/us-news/education/harvard-trump-debarment-federal-funds-32023931",
     "source": "wsj",
     "pubdate": "2025-09-29-22-23-00 +0000"
-  },
-  {
-    "headline": "Blair would help oversee Gaza transition under Trump plan",
-    "link": "https://www.bbc.com/news/articles/cq5j989107lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-22-21-22 +0000"
   },
   {
     "headline": "YouTube to pay $24.5M to settle Trump’s lawsuit over 2021 account suspension",
@@ -1016,6 +1142,12 @@
   {
     "headline": "Opinion | Time to Abandon ‘Active Defense’ in Ukraine",
     "link": "https://www.wsj.com/opinion/time-to-abandon-active-defense-in-ukraine-dd3a4d59",
+    "source": "wsj",
+    "pubdate": "2025-09-29-21-14-00 +0000"
+  },
+  {
+    "headline": "YouTube to Pay $24.5 Million to Settle Lawsuit Brought by Trump",
+    "link": "https://www.wsj.com/us-news/law/youtube-to-pay-24-5-million-to-settle-lawsuit-brought-by-trump-808f6823",
     "source": "wsj",
     "pubdate": "2025-09-29-21-14-00 +0000"
   },
@@ -1284,12 +1416,6 @@
     "pubdate": "2025-09-29-19-24-04 +0000"
   },
   {
-    "headline": "Afghanistan’s internet goes down amid fears of a Taliban crackdown",
-    "link": "https://www.washingtonpost.com/world/2025/09/29/afghanistan-taliban-internet-blackout/",
-    "source": "wapo",
-    "pubdate": "2025-09-29-19-23-00 +0000"
-  },
-  {
     "headline": "BOE Has Scope for Careful and Gradual Rate Cuts, Says Ramsden",
     "link": "https://www.wsj.com/articles/boe-has-scope-for-careful-and-gradual-rate-cuts-says-ramsden-701abbbc",
     "source": "wsj",
@@ -1324,12 +1450,6 @@
     "link": "https://www.nytimes.com/2025/09/29/us/charlie-kirk-free-speech.html",
     "source": "nyt",
     "pubdate": "2025-09-29-19-10-43 +0000"
-  },
-  {
-    "headline": "Canada Post Strike: What to Know",
-    "link": "https://www.nytimes.com/2025/09/29/world/canada/post-canada-strike.html",
-    "source": "nyt",
-    "pubdate": "2025-09-29-19-03-29 +0000"
   },
   {
     "headline": "Charlie Javice Sentenced to 85 Months in Prison for Fraud",
@@ -1614,16 +1734,10 @@
     "pubdate": "2025-09-29-17-06-40 +0000"
   },
   {
-    "headline": "Why the US government might shut down and what to know",
-    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
+    "headline": "MP becomes first to create himself as an AI bot",
+    "link": "https://www.bbc.com/news/videos/clyljxrr0deo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-09-29-17-06-10 +0000"
-  },
-  {
-    "headline": "Why the US government might shut down and what to know",
-    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-17-06-10 +0000"
+    "pubdate": "2025-09-29-17-06-40 +0000"
   },
   {
     "headline": "Texas police link deceased serial killer to 1991 yogurt shop killings of 4 teen girls",
@@ -2566,65 +2680,5 @@
     "link": "https://www.wsj.com/politics/policy/rahm-emanuel-democratic-party-70a5275a",
     "source": "wsj",
     "pubdate": "2025-09-29-09-00-00 +0000"
-  },
-  {
-    "headline": "Reeves to guarantee paid work for young people unemployed for 18 months",
-    "link": "https://www.bbc.com/news/articles/c80gj2knrx4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-08-51-03 +0000"
-  },
-  {
-    "headline": "Bad Bunny revealed as Super Bowl half-time show performer",
-    "link": "https://www.bbc.com/news/articles/c9wdqrv00k0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-08-33-30 +0000"
-  },
-  {
-    "headline": "Bad Bunny revealed as Super Bowl half-time show performer",
-    "link": "https://www.bbc.com/news/articles/c9wdqrv00k0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-08-33-30 +0000"
-  },
-  {
-    "headline": "Russell M Nelson, head of Church of Latter-day Saints, dies aged 101",
-    "link": "https://www.bbc.com/news/articles/cp8jrppk3l3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-08-18-50 +0000"
-  },
-  {
-    "headline": "Seychelles to hold presidential run-off after vote fails to produce clear winner",
-    "link": "https://www.bbc.com/news/articles/c36kre10g8eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-08-18-40 +0000"
-  },
-  {
-    "headline": "The Credit Market Is Humming—and That Has Wall Street On Edge",
-    "link": "https://www.wsj.com/finance/the-credit-market-is-hummingand-that-has-wall-street-on-edge-0721c324?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-29-08-07-00 +0000"
-  },
-  {
-    "headline": "The Credit Market Is Humming—and That Has Wall Street On Edge",
-    "link": "https://www.wsj.com/finance/the-credit-market-is-hummingand-that-has-wall-street-on-edge-0721c324?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-09-29-08-07-00 +0000"
-  },
-  {
-    "headline": "Chris Mason: Labour grapples with threat from Reform at party conference",
-    "link": "https://www.bbc.com/news/articles/cr701vn0rjmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-08-06-22 +0000"
-  },
-  {
-    "headline": "Labour grapples with threat from Reform UK at party conference",
-    "link": "https://www.bbc.com/news/articles/cr701vn0rjmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-08-06-22 +0000"
-  },
-  {
-    "headline": "Under Trump 2.0, this looming U.S. government shutdown looks different",
-    "link": "https://www.cbc.ca/news/world/trump-government-shutdown-republican-democrat-congress-1.7645906?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-09-29-08-00-00 +0000"
   }
 ]
