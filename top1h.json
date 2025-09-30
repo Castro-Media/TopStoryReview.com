@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 44,
+    "pubdate": "2025-09-30-16-47-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump hailed the use of military force to police American cities, telling generals and admirals in a Tuesday address that it was important to quell “the enemy within”",
+    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-trump-quantico-military-speech-80ffabe5"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-09-30-16-30-00 +0000",
+    "source": "wsj",
+    "headline": "Congress’s decision about what to do about expiring subsidies for Affordable Care Act health-insurance plans could be crucial to any deal to avoid or end a government shutdown",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-aca-subsidies-obamacare-762ed9a9"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-09-30-16-15-54 +0000",
+    "source": "nyt",
+    "headline": "A.I. Fighter Jets and Cockroach Spies: Inside the Changing Business of War",
+    "link": "https://www.nytimes.com/2025/09/30/business/economy/defense-spending-startups.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-09-30-16-34-09 +0000",
+    "source": "bbc",
+    "headline": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+    "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-09-30-16-12-31 +0000",
+    "source": "nyt",
+    "headline": "In Unusual Move, Prosecutors Secure Federal Charges From Local Grand Jury",
+    "link": "https://www.nytimes.com/2025/09/30/us/politics/federal-charges-grand-jury-dc.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-30-16-20-12 +0000",
+    "source": "nyt",
+    "headline": "Fight Over Hidden Report on Trump Documents Case Goes to Appeals Court",
+    "link": "https://www.nytimes.com/2025/09/30/us/politics/trump-documents-case-report.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-09-30-16-10-24 +0000",
+    "source": "nyt",
+    "headline": "Russia’s Military Budget Shrinks as War Costs Hit Kremlin’s Economic Limits",
+    "link": "https://www.nytimes.com/2025/09/30/world/europe/russia-budget-military.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-30-16-54-08 +0000",
+    "source": "nyt",
+    "headline": "Trump and Hegseth Recount Familiar Partisan Complaints to Top Military Leaders",
+    "link": "https://www.nytimes.com/2025/09/30/us/politics/trump-hegseth-military-officers.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-09-30-15-56-58 +0000",
+    "source": "nypost",
+    "headline": "Trump threatens foes and ‘enemy from within’ while demanding Nobel Peace Prize in speech to generals",
+    "link": "https://nypost.com/2025/09/30/us-news/trump-threatens-foes-and-enemy-from-within-while-demanding-nobel-peace-prize-in-speech-to-generals/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-09-30-16-11-40 +0000",
+    "source": "bbc",
+    "headline": "Why the US government might shut down and when it might happen",
+    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss"
+  }
+]
