@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 40,
+    "pubdate": "2025-10-01-20-48-01 +0000",
+    "source": "nypost",
+    "headline": "Senate Dems block bid to end government shutdown as agencies set to lay off 750K employees daily",
+    "link": "https://nypost.com/2025/10/01/us-news/senate-dems-block-fresh-bid-to-end-government-shutdown-as-agencies-set-to-lay-off-750k-employees-daily/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-10-01-20-07-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration said it is withholding $18 billion in infrastructure funds for some major transportation projects in New York City, citing concerns about diversity, equity and inclusion",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-freezes-18-billion-in-nyc-infrastructure-funds-ee7f8148"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-10-01-19-54-15 +0000",
+    "source": "nyt",
+    "headline": "Activists Say Israel Has Intercepted Boats Headed to Gaza With Aid",
+    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-01-20-31-19 +0000",
+    "source": "nypost",
+    "headline": "‘Wheel of Fortune’ winner kept her $1M prize secret from her new boyfriend for months: ‘He had no idea’",
+    "link": "https://nypost.com/2025/10/01/lifestyle/wheel-of-fortune-winner-kept-1m-prize-secret-from-new-boyfriend-for-months-he-had-no-idea/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-01-20-26-37 +0000",
+    "source": "bbc",
+    "headline": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
+    "link": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-01-19-54-28 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Allows Lisa Cook to Remain at Fed, for Now",
+    "link": "https://www.nytimes.com/2025/10/01/us/politics/supreme-court-lisa-cook-fed.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-01-20-53-27 +0000",
+    "source": "nypost",
+    "headline": "Kash Patel severs FBI’s ties with James Comey-backed Anti–Defamation League after group ripped Charlie Kirk’s TPUSA",
+    "link": "https://nypost.com/2025/10/01/us-news/kash-patel-cuts-fbis-ties-with-the-anti-defamation-league-after-group-called-charlie-kirks-turning-point-usa-extremist/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-01-20-37-50 +0000",
+    "source": "nyt",
+    "headline": "Congress Remains Deadlocked as Shutdown Enters First Day",
+    "link": "https://www.nytimes.com/2025/10/01/us/politics/congress-shutdown-deadlock.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-01-20-36-10 +0000",
+    "source": "nypost",
+    "headline": "Ex-NYC correction officer defies odds to walk again — now he’s driving his hot rod to LI car show",
+    "link": "https://nypost.com/2025/10/01/us-news/ex-nyc-correction-officers-love-of-hot-rods-saved-his-life-now-hes-heading-to-popular-li-car-show/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-01-20-19-46 +0000",
+    "source": "nypost",
+    "headline": "Disney orders Character.AI to scrap Marvel, Star Wars chatbots over ‘grooming and exploitation’ concerns: ‘Dangerous to children’",
+    "link": "https://nypost.com/2025/10/01/business/disney-orders-character-ai-to-delete-marvel-star-wars-chatbots/"
+  }
+]
