@@ -1,65 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2025-10-01-12-59-34 +0000",
+    "score": 31,
+    "pubdate": "2025-10-01-14-17-00 +0000",
+    "source": "wsj",
+    "headline": "Jeffrey Epstein never got kicked out of Wall Street’s VIP club. His banking and investment activities before his death were more widespread than previously known, including accounts at multiple banks",
+    "link": "https://www.wsj.com/finance/jeffrey-epstein-wealth-89bf772f"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-01-14-45-35 +0000",
+    "source": "bbc",
+    "headline": "Munich Oktoberfest to re-open after fatal house fire and bomb threat",
+    "link": "https://www.bbc.com/news/articles/c3rv2pv20rvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-01-14-48-23 +0000",
     "source": "nyt",
-    "headline": "Gaza City Exodus as Israel Expands Offensive Is Overwhelming Aid Efforts",
+    "headline": "Stocks Waver, Gold Rises as U.S. Government Shutdown Takes Effect",
+    "link": "https://www.nytimes.com/2025/10/01/us/politics/stocks-gold-government-shutdown.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-01-14-23-25 +0000",
+    "source": "nyt",
+    "headline": "Gaza City Exodus Is Overwhelming Relief Efforts, Aid Agencies Say",
     "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-city-exodus-aid.html"
   },
   {
-    "score": 12,
-    "pubdate": "2025-10-01-13-00-00 +0000",
+    "score": 17,
+    "pubdate": "2025-10-01-14-05-00 +0000",
     "source": "wsj",
-    "headline": "Here’s what to know about President Trump’s deployment of the National Guard on U.S. soil",
-    "link": "https://www.wsj.com/politics/national-security/national-guard-troops-us-cities-bcc6a894"
+    "headline": "White House nominees to lead the BLS and the Commodity Futures Trading Commission were withdrawn after both ran into political resistance, according to people familiar with the decisions",
+    "link": "https://www.wsj.com/politics/policy/white-house-withdraws-nominee-to-lead-bureau-of-labor-statistics-ceeae242"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-01-13-02-08 +0000",
-    "source": "nypost",
-    "headline": "Hamas signals it could reject Trump’s Gaza peace plan that only ‘serves Israel’s interests’",
-    "link": "https://nypost.com/2025/10/01/world-news/hamas-signals-it-could-reject-trumps-gaza-peace-plan/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-01-12-54-39 +0000",
-    "source": "cbc",
-    "headline": "B.C. union leader becomes latest candidate in federal NDP leadership race",
-    "link": "https://www.cbc.ca/news/politics/ndp-leadership-rob-ashton-1.7647767?cmp=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-01-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Automakers Brace for EV Sales Plunge After Tax Credit Expires",
-    "link": "https://www.wsj.com/business/autos/ev-sales-tax-credit-expires-18c001ec?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-01-12-53-57 +0000",
+    "score": 16,
+    "pubdate": "2025-10-01-14-38-45 +0000",
     "source": "bbc",
     "headline": "Baroness Mone-linked company ordered to pay £122m over PPE contract",
     "link": "https://www.bbc.com/news/articles/c1792rk7ynko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 2,
-    "pubdate": "2025-10-01-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "The Star Girl",
-    "link": "https://missionlocal.org/2025/10/sf-photos-the-star-girl/"
-  },
-  {
-    "score": 2,
-    "pubdate": "2025-10-01-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s Deployment of National Guard Troops, Explained",
-    "link": "https://www.wsj.com/politics/national-security/national-guard-troops-us-cities-bcc6a894"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-01-12-59-34 +0000",
+    "score": 16,
+    "pubdate": "2025-10-01-14-13-39 +0000",
     "source": "nyt",
-    "headline": "Gaza City Exodus as Israel Expands Offensive Is Overwhelming Aid Efforts",
-    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-city-exodus-aid.html"
+    "headline": "After Kirk’s Death, Turning Point Vows to Go On. That May Be Easier Said Than Done.",
+    "link": "https://www.nytimes.com/2025/10/01/us/politics/charlie-kirk.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-01-14-31-48 +0000",
+    "source": "nyt",
+    "headline": "Moscow Indicates Retaliation if Europe Uses Russian Assets for Ukraine",
+    "link": "https://www.nytimes.com/2025/10/01/world/europe/russia-frozen-assets-ukraine-loan.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-10-01-14-49-55 +0000",
+    "source": "bbc",
+    "headline": "Activists say Gaza flotilla circled by Israeli warship",
+    "link": "https://www.bbc.com/news/articles/cwyr2lwg1rjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-01-14-38-44 +0000",
+    "source": "nypost",
+    "headline": "$18B in NYC infrastructure funding ‘on hold’ to probe whether it was going to illegal DEI practices: OMB",
+    "link": "https://nypost.com/2025/10/01/us-news/18b-in-nyc-infrastructure-funding-on-hold-to-probe-whether-it-was-going-to-illegal-dei-practices-omb/"
   }
 ]
