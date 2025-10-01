@@ -1,6 +1,6 @@
 [
   {
-    "score": 242,
+    "score": 236,
     "pubdate": "2025-10-01-10-47-06 +0000",
     "source": "nypost",
     "headline": "Trump taunts Dems with ‘Trump 2028’ hats during failed government shutdown negotiations",
@@ -14,14 +14,14 @@
     "link": "https://nypost.com/2025/10/01/health/what-will-trumprx-mean-for-patients-who-saves-and-how-much/"
   },
   {
-    "score": 100,
+    "score": 97,
     "pubdate": "2025-10-01-16-45-19 +0000",
     "source": "wapo",
     "headline": "Israel steps up Gaza City assault as Hamas weighs Trump peace deal",
     "link": "https://www.washingtonpost.com/world/2025/10/01/israel-gaza-city-hamas-ceasefire-deal-flotilla/"
   },
   {
-    "score": 81,
+    "score": 78,
     "pubdate": "2025-09-30-20-27-00 +0000",
     "source": "wsj",
     "headline": "President Trump hailed the use of military force to police American cities, telling generals and admirals in a Tuesday address that it was important to quell “the enemy within”",
@@ -35,7 +35,7 @@
     "link": "https://www.latimes.com/california/story/2025-09-30/newsom-signs-bill-expanding-california-labor-board-oversight-of-disputes-union-elections"
   },
   {
-    "score": 72,
+    "score": 70,
     "pubdate": "2025-10-01-15-20-56 +0000",
     "source": "latimes",
     "headline": "Supreme Court puts off decision on whether Trump may fire Federal Reserve Governor Lisa Cook",
@@ -57,16 +57,16 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-10-01-17-25-53 +0000",
-    "source": "nypost",
-    "headline": "Zillow, Redfin sued by New York, 4 other states over rental listings after feds alleged $100M payoff",
-    "link": "https://nypost.com/2025/10/01/business/zillow-redfin-sued-by-new-york-4-other-states-over-rental-listings-deal/"
-  },
-  {
-    "score": 58,
     "pubdate": "2025-10-01-13-50-00 +0000",
     "source": "wsj",
     "headline": "The White House and lawmakers failed to reach a spending deal, triggering a government shutdown that is expected to halt some federal services and put hundreds of thousands of workers on furlough",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-begins-as-funding-lapses-07f1027d"
+  },
+  {
+    "score": 56,
+    "pubdate": "2025-10-01-17-25-53 +0000",
+    "source": "nypost",
+    "headline": "Zillow, Redfin sued by New York, 4 other states over rental listings after feds alleged $100M payoff",
+    "link": "https://nypost.com/2025/10/01/business/zillow-redfin-sued-by-new-york-4-other-states-over-rental-listings-deal/"
   }
 ]
