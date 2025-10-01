@@ -1,20 +1,20 @@
 [
   {
-    "score": 485,
+    "score": 493,
     "pubdate": "2025-10-01-10-47-06 +0000",
     "source": "nypost",
     "headline": "Trump taunts Dems with ‘Trump 2028’ hats during failed government shutdown negotiations",
     "link": "https://nypost.com/2025/10/01/us-news/president-trump-taunting-top-democratic-leaders-with-trump-2028-hats/"
   },
   {
-    "score": 195,
+    "score": 192,
     "pubdate": "2025-09-30-03-05-00 +0000",
     "source": "wsj",
     "headline": "Top Democrats made their case to Trump for restoring billions of dollars in healthcare spending as part of any deal to avoid a shutdown, but they said there was no breakthrough in talks",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-2025-democrats-trump-meeting-ec8e5d54"
   },
   {
-    "score": 172,
+    "score": 167,
     "pubdate": "2025-09-30-13-35-39 +0000",
     "source": "nyt",
     "headline": "With New U.S. Proposal to End Gaza War, a Rare Moment of Triumph for Netanyahu",
@@ -35,11 +35,18 @@
     "link": "https://www.wsj.com/politics/policy/government-shutdown-2026-what-happens-234c1458"
   },
   {
-    "score": 129,
+    "score": 127,
     "pubdate": "2025-09-29-09-00-00 +0000",
     "source": "wsj",
     "headline": "Rahm Emanuel, former Democratic congressman, White House chief of staff, and Chicago mayor has plenty of government experience to tout as he appears increasingly serious about running for president",
     "link": "https://www.wsj.com/politics/policy/rahm-emanuel-democratic-party-70a5275a"
+  },
+  {
+    "score": 111,
+    "pubdate": "2025-09-27-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "A U.S. plan to field thousands of cutting-edge drones for a potential conflict with China has fallen behind, and the Pentagon is moving the effort to a secretive new warfare group to speed it up",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-ai-weapons-delay-0f560d7e"
   },
   {
     "score": 110,
@@ -49,24 +56,17 @@
     "link": "https://www.wsj.com/politics/national-security/trump-targets-chinas-tech-sector-by-expanding-trade-blacklist-9873ad34"
   },
   {
-    "score": 110,
-    "pubdate": "2025-09-27-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "A U.S. plan to field thousands of cutting-edge drones for a potential conflict with China has fallen behind, and the Pentagon is moving the effort to a secretive new warfare group to speed it up",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-ai-weapons-delay-0f560d7e"
-  },
-  {
-    "score": 96,
-    "pubdate": "2025-09-30-20-27-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump hailed the use of military force to police American cities, telling generals and admirals in a Tuesday address that it was important to quell “the enemy within”",
-    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-trump-quantico-military-speech-80ffabe5"
-  },
-  {
-    "score": 92,
+    "score": 103,
     "pubdate": "2025-09-29-19-13-15 +0000",
     "source": "nypost",
     "headline": "Israel’s Netanyahu expresses ‘deep regret’ for Israel’s strike on Qatar in three-way call with Trump",
     "link": "https://nypost.com/2025/09/29/us-news/netanyahu-apologizes-for-israels-qatar-strike/"
+  },
+  {
+    "score": 94,
+    "pubdate": "2025-09-30-20-27-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump hailed the use of military force to police American cities, telling generals and admirals in a Tuesday address that it was important to quell “the enemy within”",
+    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-trump-quantico-military-speech-80ffabe5"
   }
 ]
