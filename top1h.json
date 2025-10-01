@@ -1,59 +1,17 @@
 [
   {
-    "score": 28,
-    "pubdate": "2025-10-01-02-12-54 +0000",
-    "source": "nypost",
-    "headline": "Gov. Spencer Cox reflects on Charlie Kirk’s assassination in Turning Point USA’s Utah return: ‘Changed all of us’",
-    "link": "https://nypost.com/2025/09/30/us-news/gov-spencer-cox-reflects-on-charlie-kirk-assassination-in-turning-point-usas-utah-return/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2025-10-01-02-07-54 +0000",
-    "source": "nyt",
-    "headline": "White House Withdraws Nomination of E.J. Antoni, Trump’s Pick to Lead BLS",
-    "link": "https://www.nytimes.com/2025/09/30/business/bls-nominee-withdrawn.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-10-01-01-48-34 +0000",
-    "source": "nyt",
-    "headline": "Government Shutdown Hours Away as Senate Spending Votes Fail",
-    "link": "https://www.nytimes.com/2025/09/30/us/politics/government-shutdown-deadlock.html"
-  },
-  {
     "score": 16,
-    "pubdate": "2025-10-01-01-33-19 +0000",
-    "source": "nypost",
-    "headline": "Daughter of Mormon church shooting victim recalls coming face to face with gunman in intense moment of forgiveness: letter",
-    "link": "https://nypost.com/2025/09/30/us-news/daughter-of-mormon-church-shooting-victim-recalls-coming-face-to-face-with-gunman-in-intense-moment-of-forgiveness/"
-  },
-  {
-    "score": 14,
     "pubdate": "2025-10-01-02-18-40 +0000",
     "source": "bbc",
     "headline": "US cities should be military training grounds, Trump tells generals",
     "link": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 11,
+    "score": 10,
     "pubdate": "2025-10-01-02-24-06 +0000",
     "source": "nypost",
     "headline": "Ex-porn star Austin Wolf sentenced to 19 years for sickening child sex crimes",
     "link": "https://nypost.com/2025/09/30/us-news/ex-porn-star-austin-wolf-sentenced-to-19-years-for-sickening-child-sex-crimes/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-10-01-02-05-43 +0000",
-    "source": "nypost",
-    "headline": "Idaho bikers discover missing hiker wandering wilderness nearly naked with bleeding feet",
-    "link": "https://nypost.com/2025/09/30/us-news/idaho-bikers-discover-missing-hiker-wandering-wilderness-nearly-naked-with-bleeding-feet/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-01-01-58-25 +0000",
-    "source": "startribune",
-    "headline": "City clears way for tax subsidy for $432 million Mall of America water park",
-    "link": "https://www.startribune.com/mall-of-america-mystery-cove-water-park/601483674"
   },
   {
     "score": 8,
@@ -63,10 +21,17 @@
     "link": "https://www.bbc.com/news/articles/c62qdje2ll4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-01-01-46-00 +0000",
-    "source": "wsj",
-    "headline": "Japanese Manufacturers’ Mood Brightens Slightly as Tariff Fears Ease",
-    "link": "https://www.wsj.com/economy/japanese-manufacturers-turn-slightly-more-upbeat-as-tariff-fears-ease-58dc61ae"
+    "score": 5,
+    "pubdate": "2025-10-01-02-21-55 +0000",
+    "source": "nyt",
+    "headline": "A More Polarized Senate Drives Shutdown Gridlock",
+    "link": "https://www.nytimes.com/2025/09/30/us/politics/polarized-senate-shutdown-gridlock.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-01-02-18-40 +0000",
+    "source": "bbc",
+    "headline": "US cities should be military training grounds, Trump tells generals",
+    "link": "https://www.bbc.com/news/articles/cvgq044n72po?at_medium=RSS&at_campaign=rss"
   }
 ]
