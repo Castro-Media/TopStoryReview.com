@@ -1,20 +1,20 @@
 [
   {
-    "score": 258,
+    "score": 252,
     "pubdate": "2025-10-01-10-47-06 +0000",
     "source": "nypost",
     "headline": "Trump taunts Dems with ‘Trump 2028’ hats during failed government shutdown negotiations",
     "link": "https://nypost.com/2025/10/01/us-news/president-trump-taunting-top-democratic-leaders-with-trump-2028-hats/"
   },
   {
-    "score": 96,
+    "score": 90,
     "pubdate": "2025-10-01-16-45-19 +0000",
     "source": "wapo",
     "headline": "Israel steps up Gaza City assault as Hamas weighs Trump peace deal",
     "link": "https://www.washingtonpost.com/world/2025/10/01/israel-gaza-city-hamas-ceasefire-deal-flotilla/"
   },
   {
-    "score": 83,
+    "score": 82,
     "pubdate": "2025-10-01-15-14-50 +0000",
     "source": "nypost",
     "headline": "Supreme Court sets date for Lisa Cook’s mortgage fraud case arguments — and will decide if Trump can fire her",
@@ -42,14 +42,7 @@
     "link": "https://www.wsj.com/politics/policy/government-shutdown-2026-deadline-80170a2a"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-01-16-37-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration said it is withholding $18 billion in infrastructure funds for some major transportation projects in New York City, citing concerns about diversity, equity and inclusion",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-freezes-18-billion-in-nyc-infrastructure-funds-ee7f8148"
-  },
-  {
-    "score": 55,
+    "score": 54,
     "pubdate": "2025-10-01-14-17-00 +0000",
     "source": "wsj",
     "headline": "Jeffrey Epstein never got kicked out of Wall Street’s VIP club. His banking and investment activities before his death were more widespread than previously known, including accounts at multiple banks",
@@ -57,16 +50,23 @@
   },
   {
     "score": 54,
-    "pubdate": "2025-09-30-20-27-00 +0000",
+    "pubdate": "2025-10-01-16-37-00 +0000",
     "source": "wsj",
-    "headline": "President Trump hailed the use of military force to police American cities, telling generals and admirals in a Tuesday address that it was important to quell “the enemy within”",
-    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-trump-quantico-military-speech-80ffabe5"
+    "headline": "The Trump administration said it is withholding $18 billion in infrastructure funds for some major transportation projects in New York City, citing concerns about diversity, equity and inclusion",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-freezes-18-billion-in-nyc-infrastructure-funds-ee7f8148"
   },
   {
-    "score": 54,
+    "score": 52,
     "pubdate": "2025-10-01-13-50-00 +0000",
     "source": "wsj",
     "headline": "The White House and lawmakers failed to reach a spending deal, triggering a government shutdown that is expected to halt some federal services and put hundreds of thousands of workers on furlough",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-begins-as-funding-lapses-07f1027d"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-09-30-20-27-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump hailed the use of military force to police American cities, telling generals and admirals in a Tuesday address that it was important to quell “the enemy within”",
+    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-trump-quantico-military-speech-80ffabe5"
   }
 ]
