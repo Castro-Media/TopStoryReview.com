@@ -1,45 +1,147 @@
 [
   {
-    "headline": "Swiss Inflation Holds Steady Close to Zero",
-    "link": "https://www.wsj.com/economy/central-banking/swiss-inflation-holds-steady-close-to-zero-555110e8",
+    "headline": "Meghan Markle’s dad, Thomas, fires back at claims he’s ‘trapped’ in Philippines apartment after deadly earthquake",
+    "link": "https://nypost.com/2025/10/02/world-news/meghan-markles-dad-thomas-markle-sr-denies-claims-hes-trapped-in-philippines-apartment-after-earthquake/",
+    "source": "nypost",
+    "pubdate": "2025-10-02-08-44-43 +0000"
+  },
+  {
+    "headline": "No More Signs of Life From Rubble of Collapsed School in Indonesia",
+    "link": "https://www.nytimes.com/2025/10/02/world/asia/indonesia-school-collapse.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-08-34-36 +0000"
+  },
+  {
+    "headline": "No More Signs of Life From Rubble of Collapsed School in Indonesia",
+    "link": "https://www.nytimes.com/2025/10/02/world/asia/indonesia-school-collapse.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-08-34-36 +0000"
+  },
+  {
+    "headline": "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid",
+    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-08-32-27 +0000"
+  },
+  {
+    "headline": "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid",
+    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-08-32-27 +0000"
+  },
+  {
+    "headline": "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid",
+    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-08-32-27 +0000"
+  },
+  {
+    "headline": "Ukrainian nuclear plant’s longest stretch on backup power raises alarm",
+    "link": "https://www.washingtonpost.com/world/2025/10/01/ukraine-nuclear-znpp-zaporizhzhia-generators/",
+    "source": "wapo",
+    "pubdate": "2025-10-02-08-29-07 +0000"
+  },
+  {
+    "headline": "Kenyan activists abducted in Uganda, opposition leader says",
+    "link": "https://www.bbc.com/news/articles/c0kn205174po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-08-25-20 +0000"
+  },
+  {
+    "headline": "Kenyan activists abducted in Uganda, opposition leader says",
+    "link": "https://www.bbc.com/news/articles/c0kn205174po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-08-25-20 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Shutdown Enters Second Day; S&P 500 Futures Inch Up",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-government-shutdown-10-02-2025?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2025-10-02-06-39-00 +0000"
+    "pubdate": "2025-10-02-08-16-55 +0000"
+  },
+  {
+    "headline": "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
+    "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/",
+    "source": "wapo",
+    "pubdate": "2025-10-02-08-11-26 +0000"
+  },
+  {
+    "headline": "Defence procurement vs. defence production: What's best for Canada?",
+    "link": "https://www.cbc.ca/news/politics/defence-production-politics-military-1.7648184?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-02-08-00-00 +0000"
+  },
+  {
+    "headline": "Refugees to face longer route to UK settlement rights",
+    "link": "https://www.bbc.com/news/articles/cddmpr21yr2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-07-56-07 +0000"
+  },
+  {
+    "headline": "Shein to open its first permanent outlets in France",
+    "link": "https://www.bbc.com/news/articles/ckg2p87de58o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-07-34-21 +0000"
+  },
+  {
+    "headline": "Bear walked into southern Arizona grocery store and ran around for a few minutes",
+    "link": "https://nypost.com/2025/10/02/us-news/bear-walked-into-southern-arizona-grocery-store-and-ran-around-for-a-few-minutes/",
+    "source": "nypost",
+    "pubdate": "2025-10-02-07-32-15 +0000"
+  },
+  {
+    "headline": "Israeli naval ships intercept Gaza-bound flotilla",
+    "link": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-07-11-37 +0000"
+  },
+  {
+    "headline": "Israeli naval ships intercept Gaza-bound flotilla",
+    "link": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-07-11-37 +0000"
+  },
+  {
+    "headline": "Dozens feared dead in Indonesia school collapse, officials say",
+    "link": "https://www.bbc.com/news/articles/c8d783yjvpyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-07-04-20 +0000"
+  },
+  {
+    "headline": "Dozens feared dead in Indonesia school collapse, officials say",
+    "link": "https://www.bbc.com/news/articles/c8d783yjvpyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-07-04-20 +0000"
   },
   {
     "headline": "Thames Water lenders submit rescue plan to stave off collapse",
     "link": "https://www.bbc.com/news/articles/cn82pm40915o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-02-06-26-37 +0000"
+    "pubdate": "2025-10-02-07-01-56 +0000"
+  },
+  {
+    "headline": "Khan ‘appalled’ by Met officers’ behaviour as Mahmood calls footage ‘sickening’",
+    "link": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-07-00-57 +0000"
+  },
+  {
+    "headline": "Federal agents raid Dallas strip club, arrest 41 illegal immigrants in human trafficking investigation",
+    "link": "https://nypost.com/2025/10/02/us-news/texas-ice-raid-arrests-41-illegal-immigrants-at-dallas-strip-club-chicas-bonitas-cabaret/",
+    "source": "nypost",
+    "pubdate": "2025-10-02-06-59-39 +0000"
+  },
+  {
+    "headline": "Swiss Inflation Holds Steady Close to Zero",
+    "link": "https://www.wsj.com/economy/central-banking/swiss-inflation-holds-steady-close-to-zero-555110e8",
+    "source": "wsj",
+    "pubdate": "2025-10-02-06-56-00 +0000"
   },
   {
     "headline": "Illegal immigrant tied to 17 rapes and deported 8 times, faces reinstated charges",
     "link": "https://nypost.com/2025/10/02/us-news/mexican-illegal-immigrant-carlos-nava-withdraws-plea-deal-with-nevada-facing-rape-charges/",
     "source": "nypost",
     "pubdate": "2025-10-02-06-22-44 +0000"
-  },
-  {
-    "headline": "'No signs of life' for dozens missing in Indonesia school collapse",
-    "link": "https://www.bbc.com/news/articles/c8d783yjvpyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-06-22-24 +0000"
-  },
-  {
-    "headline": "'No signs of life' for dozens missing in Indonesia school collapse",
-    "link": "https://www.bbc.com/news/articles/c8d783yjvpyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-06-22-24 +0000"
-  },
-  {
-    "headline": "Israeli naval ships intercept Gaza-bound flotilla",
-    "link": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-06-13-34 +0000"
-  },
-  {
-    "headline": "Israeli naval ships intercept Gaza-bound flotilla",
-    "link": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-06-13-34 +0000"
   },
   {
     "headline": "Bollywood superstar Shah Rukh Khan enters the billionaire club",
@@ -126,7 +228,7 @@
     "pubdate": "2025-10-02-04-56-14 +0000"
   },
   {
-    "headline": "Two Delta planes collide while taxiing at LaGuardia Airport, injuring 1",
+    "headline": "Two Delta planes collide while taxiing at LaGuardia Airport as passenger describes moment flights ‘absolutely smashed’",
     "link": "https://nypost.com/2025/10/02/us-news/nyc-delta-jets-collide-at-laguardia-airport/",
     "source": "nypost",
     "pubdate": "2025-10-02-04-49-49 +0000"
@@ -172,12 +274,6 @@
     "link": "https://www.nytimes.com/2025/10/01/world/asia/afghanistan-internet-blackout-taliban.html",
     "source": "nyt",
     "pubdate": "2025-10-02-04-08-06 +0000"
-  },
-  {
-    "headline": "Israel intercepts Gaza aid flotilla, activist Greta Thunberg detained",
-    "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/",
-    "source": "wapo",
-    "pubdate": "2025-10-02-03-49-03 +0000"
   },
   {
     "headline": "Did a Green Beret Unit Commit One of the Worst U.S. War Crimes in Decades?",
@@ -246,12 +342,6 @@
     "pubdate": "2025-10-02-03-09-54 +0000"
   },
   {
-    "headline": "Khan ‘appalled’ by Met officers’ behaviour as Mahmood calls footage ‘sickening’",
-    "link": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-03-06-13 +0000"
-  },
-  {
     "headline": "How Steve Schwarzman Landed in Hot Water With His British Neighbors",
     "link": "https://www.wsj.com/world/uk/steve-schwarzman-blackstone-britain-conholt-park-estate-water-fe489f4e",
     "source": "wsj",
@@ -294,6 +384,12 @@
     "pubdate": "2025-10-02-02-43-05 +0000"
   },
   {
+    "headline": "Could US government ban apps which track ICE agents?",
+    "link": "https://www.bbc.com/news/articles/c2lxwxnnx2zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-02-42-26 +0000"
+  },
+  {
     "headline": "Tattooed brute kills himself inside NJ jail cell one day after being convicted for wife’s murder",
     "link": "https://nypost.com/2025/10/01/us-news/man-kills-himself-inside-nj-jail-cell-1-day-after-being-convicted-for-wifes-murder/",
     "source": "nypost",
@@ -322,24 +418,6 @@
     "link": "https://www.nytimes.com/2025/10/01/world/asia/philippines-earthquake-cebu.html",
     "source": "nyt",
     "pubdate": "2025-10-02-02-19-17 +0000"
-  },
-  {
-    "headline": "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid",
-    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-02-17-12 +0000"
-  },
-  {
-    "headline": "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid",
-    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-02-17-12 +0000"
-  },
-  {
-    "headline": "Israel Intercepts Boats Headed to Gaza With Humanitarian Aid",
-    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-02-17-12 +0000"
   },
   {
     "headline": "India ignite maiden Women's World Cup win dream on home turf",
@@ -624,6 +702,12 @@
     "pubdate": "2025-10-02-00-09-05 +0000"
   },
   {
+    "headline": "I’m an immigrant mom. How do I reclaim power and visibility at work? | Querida Consejera",
+    "link": "https://eltecolote.org/content/en/immigrant-mother-workplace-advice/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-02-00-06-01 +0000"
+  },
+  {
     "headline": "White House Seeks to Blunt Democrats’ Shutdown Strategy on Health Care",
     "link": "https://www.nytimes.com/2025/10/01/us/politics/trump-democrats-health-care.html",
     "source": "nyt",
@@ -702,18 +786,6 @@
     "pubdate": "2025-10-01-23-07-36 +0000"
   },
   {
-    "headline": "NYPD Commissioner Jessica Tisch saved cop’s job despite Mamdani-supported civilian board’s push for firing",
-    "link": "https://nypost.com/2025/10/01/us-news/nypd-commissioner-jessica-tisch-saved-cops-job-despite-mamdani-supported-civilian-boards-push-for-firing/",
-    "source": "nypost",
-    "pubdate": "2025-10-01-23-05-35 +0000"
-  },
-  {
-    "headline": "Judge blocks Trump admin from cutting $34M in funds for NY counterterrorism",
-    "link": "https://nypost.com/2025/10/01/us-news/judge-blocks-feds-from-cutting-34m-in-funds-for-ny-counterterrorism/",
-    "source": "nypost",
-    "pubdate": "2025-10-01-23-03-54 +0000"
-  },
-  {
     "headline": "Trump signs order pledging to defend Qatar against any armed attack",
     "link": "https://www.cbc.ca/news/world/trump-pledge-defend-qatar-1.7648735?cmp=rss",
     "source": "cbc",
@@ -748,6 +820,12 @@
     "link": "https://www.bbc.com/news/articles/c8rv83mrlyyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-01-23-01-12 +0000"
+  },
+  {
+    "headline": "U.S. to Provide Ukraine With Intelligence for Missile Strikes Deep Inside Russia",
+    "link": "https://www.wsj.com/world/u-s-to-provide-ukraine-with-intelligence-for-missile-strikes-deep-inside-russia-ca7b2276",
+    "source": "wsj",
+    "pubdate": "2025-10-01-23-00-00 +0000"
   },
   {
     "headline": "U.S. to Provide Ukraine With Intelligence for Missile Strikes Deep Inside Russia",
@@ -882,7 +960,13 @@
     "pubdate": "2025-10-01-21-59-56 +0000"
   },
   {
-    "headline": "'None of us have ever asked for special treatment' - female veterans respond to Hegseth",
+    "headline": "'None of us have ever asked for special treatment' - US female veterans respond to Hegseth speech",
+    "link": "https://www.bbc.com/news/articles/cy8525w2v5wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-01-21-59-48 +0000"
+  },
+  {
+    "headline": "'None of us have ever asked for special treatment' - US female veterans respond to Hegseth speech",
     "link": "https://www.bbc.com/news/articles/cy8525w2v5wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-01-21-59-48 +0000"
@@ -940,12 +1024,6 @@
     "link": "https://www.latimes.com/entertainment-arts/story/2025-10-01/eric-dane-als-advocacy-legislation",
     "source": "latimes",
     "pubdate": "2025-10-01-21-37-25 +0000"
-  },
-  {
-    "headline": "Refugees to face longer route to UK settlement rights",
-    "link": "https://www.bbc.com/news/articles/cddmpr21yr2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-21-30-05 +0000"
   },
   {
     "headline": "Opinion | America’s Pharmacist in Chief",
@@ -1270,6 +1348,12 @@
     "link": "https://www.nytimes.com/2025/10/01/nyregion/government-shutdown-affects-new-york.html",
     "source": "nyt",
     "pubdate": "2025-10-01-20-10-43 +0000"
+  },
+  {
+    "headline": "Across cultures, S.F. immigrants rally behind this 3,000-year-old ancient remedy",
+    "link": "https://eltecolote.org/content/en/acupunctures-sf-lati/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-01-20-07-42 +0000"
   },
   {
     "headline": "Watch: Jane Goodall tells BBC how she became interested in animals",
@@ -1674,12 +1758,6 @@
     "pubdate": "2025-10-01-17-33-39 +0000"
   },
   {
-    "headline": "Chunk of NYC building collapses in possible explosion",
-    "link": "https://www.bbc.com/news/articles/cp8jp4y0jdmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-17-33-39 +0000"
-  },
-  {
     "headline": "Bomb Threat Delays Oktoberfest in Munich",
     "link": "https://www.nytimes.com/2025/10/01/world/europe/oktoberfest-munich-bomb-threat-explosion.html",
     "source": "nyt",
@@ -1690,6 +1768,12 @@
     "link": "https://www.nytimes.com/2025/10/01/world/europe/oktoberfest-munich-bomb-threat-explosion.html",
     "source": "nyt",
     "pubdate": "2025-10-01-17-32-51 +0000"
+  },
+  {
+    "headline": "Automakers Brace for EV Sales Plunge After Tax Credit Expires",
+    "link": "https://www.wsj.com/business/autos/ev-sales-tax-credit-expires-18c001ec?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-01-17-32-00 +0000"
   },
   {
     "headline": "Automakers Brace for EV Sales Plunge After Tax Credit Expires",
@@ -1888,12 +1972,6 @@
     "link": "https://www.bbc.com/news/articles/c98dr6yj8dlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-01-15-34-24 +0000"
-  },
-  {
-    "headline": "Hunter S Thompson's death to be reviewed 20 years on",
-    "link": "https://www.bbc.com/news/articles/cgrqpqe81qjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-15-32-56 +0000"
   },
   {
     "headline": "Hunter S Thompson's death to be reviewed 20 years on",
@@ -2370,12 +2448,6 @@
     "pubdate": "2025-10-01-11-33-10 +0000"
   },
   {
-    "headline": "Kenya offers reward as anger grows over failure to arrest suspected serial killer",
-    "link": "https://www.bbc.com/news/articles/ckgqpnx7577o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-11-33-10 +0000"
-  },
-  {
     "headline": "Will recognition lead to a Palestinian state?",
     "link": "https://www.cbc.ca/radio/frontburner/will-recognition-lead-to-a-palestinian-state-1.7647584?cmp=rss",
     "source": "cbc",
@@ -2394,22 +2466,10 @@
     "pubdate": "2025-10-01-11-02-57 +0000"
   },
   {
-    "headline": "Ukrainian nuclear plant’s longest stretch on backup power raises alarm",
-    "link": "https://www.washingtonpost.com/world/2025/10/01/ukraine-nuclear-znpp-zaporizhzhia-generators/",
-    "source": "wapo",
-    "pubdate": "2025-10-01-11-01-24 +0000"
-  },
-  {
     "headline": "How to stay safe during a storm and what to do in a power cut",
     "link": "https://www.bbc.com/news/articles/cm2ezv1e680o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-01-11-00-47 +0000"
-  },
-  {
-    "headline": "South African firebrand MP Malema convicted of firing a gun in public",
-    "link": "https://www.bbc.com/news/articles/c79vj85px54o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-10-57-45 +0000"
   },
   {
     "headline": "South African firebrand MP Malema convicted of firing a gun in public",
@@ -2446,12 +2506,6 @@
     "link": "https://nypost.com/2025/10/01/us-news/president-trump-taunting-top-democratic-leaders-with-trump-2028-hats/",
     "source": "nypost",
     "pubdate": "2025-10-01-10-47-06 +0000"
-  },
-  {
-    "headline": "Man suspected of ordering murder of three Argentine women arrested",
-    "link": "https://www.bbc.com/news/articles/cx2x1vyqd4po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-10-39-54 +0000"
   },
   {
     "headline": "Man suspected of ordering murder of three Argentine women arrested",
@@ -2550,14 +2604,14 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "'Wannabe gangsters' described killing two women. Why did convicting them take a decade?",
-    "link": "https://www.latimes.com/california/story/2025-10-01/echeverria-pineda-murder-trial",
+    "headline": "With solo drivers kicked out of California carpool lanes, how bad will traffic get for rest of us?",
+    "link": "https://www.latimes.com/california/story/2025-10-01/with-solo-drivers-kicked-out-of-california-carpool-lanes-how-bad-will-traffic-get-for-rest-of-us",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "With solo drivers kicked out of California carpool lanes, how bad will traffic get for rest of us?",
-    "link": "https://www.latimes.com/california/story/2025-10-01/with-solo-drivers-kicked-out-of-california-carpool-lanes-how-bad-will-traffic-get-for-rest-of-us",
+    "headline": "'Wannabe gangsters' described killing two women. Why did convicting them take a decade?",
+    "link": "https://www.latimes.com/california/story/2025-10-01/echeverria-pineda-murder-trial",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -2598,14 +2652,14 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Howard Lutnick tells ‘Pod Force One’ ex-neighbor Jeffrey Epstein showed off massage room, made creepy comment during townhouse tour",
-    "link": "https://nypost.com/2025/10/01/us-news/howard-lutnick-calls-ex-neighbor-jeffrey-epstein-greatest-blackmailer-ever/",
+    "headline": "How Mikie Sherrill’s family made millions after she was elected to Congress",
+    "link": "https://nypost.com/2025/10/01/us-news/how-mikie-sherrills-family-made-millions-after-she-was-elected-to-congress/",
     "source": "nypost",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "How Mikie Sherrill’s family made millions after she was elected to Congress",
-    "link": "https://nypost.com/2025/10/01/us-news/how-mikie-sherrills-family-made-millions-after-she-was-elected-to-congress/",
+    "headline": "Howard Lutnick tells ‘Pod Force One’ ex-neighbor Jeffrey Epstein showed off massage room, made creepy comment during townhouse tour",
+    "link": "https://nypost.com/2025/10/01/us-news/howard-lutnick-calls-ex-neighbor-jeffrey-epstein-greatest-blackmailer-ever/",
     "source": "nypost",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -2619,6 +2673,18 @@
     "headline": "Howard Lutnick tells ‘Pod Force One’ how he ‘set the table’ for Trump’s EU trade deal",
     "link": "https://nypost.com/2025/10/01/us-news/howard-lutnick-tells-pod-force-one-how-he-set-the-table-for-trumps-eu-trade-deal/",
     "source": "nypost",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "YouTube, Disney and Meta have all settled. Inside President Trump's $90-million payday",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-01/youtube-latest-company-to-settle-with-trump-disney-paramount-meta-90-million",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
+    "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump",
+    "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
@@ -2636,18 +2702,6 @@
   {
     "headline": "Your guide to the 2025 California special election",
     "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "YouTube, Disney and Meta have all settled. Inside President Trump's $90-million payday",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-01/youtube-latest-company-to-settle-with-trump-disney-paramount-meta-90-million",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
-    "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -2724,12 +2778,6 @@
     "pubdate": "2025-10-01-09-19-59 +0000"
   },
   {
-    "headline": "State of calamity in Philippines province as earthquake kills 69",
-    "link": "https://www.bbc.com/news/articles/ced5pyjzej3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-09-19-59 +0000"
-  },
-  {
     "headline": "Time Running Out for Trapped Students After School Collapse in Indonesia",
     "link": "https://www.nytimes.com/2025/10/01/world/asia/trapped-school-collapse-indonesia.html",
     "source": "nyt",
@@ -2770,71 +2818,5 @@
     "link": "https://www.washingtonpost.com/business/2025/10/01/government-shutdown-affects-agencies-closed-open/",
     "source": "wapo",
     "pubdate": "2025-10-01-09-00-00 +0000"
-  },
-  {
-    "headline": "Half of UK adults now regularly use mobile payments",
-    "link": "https://www.bbc.com/news/articles/c2ejvld0ypyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-08-49-07 +0000"
-  },
-  {
-    "headline": "Brown bear heavyweight Chunk wins Fat Bear Week despite injury",
-    "link": "https://www.bbc.com/news/articles/cy8r2ej4m0ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-08-29-20 +0000"
-  },
-  {
-    "headline": "Brown bear heavyweight Chunk wins Fat Bear Week despite injury",
-    "link": "https://www.bbc.com/news/articles/cy8r2ej4m0ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-08-29-20 +0000"
-  },
-  {
-    "headline": "Deported from the US to Ghana then 'dumped' at the border: Nigerian man speaks out",
-    "link": "https://www.bbc.com/news/articles/c33rllxnm35o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-08-20-40 +0000"
-  },
-  {
-    "headline": "Deported from the US to Ghana then 'dumped' at the border: Nigerian man speaks out",
-    "link": "https://www.bbc.com/news/articles/c33rllxnm35o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-08-20-40 +0000"
-  },
-  {
-    "headline": "Deported from the US to Ghana then 'dumped' at the border: Nigerian man speaks out",
-    "link": "https://www.bbc.com/news/articles/c33rllxnm35o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-08-20-40 +0000"
-  },
-  {
-    "headline": "Senator defends spending nearly $22K for English classes in Vancouver",
-    "link": "https://www.cbc.ca/news/politics/amina-gerba-vancouver-english-courses-1.7646785?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-01-08-00-00 +0000"
-  },
-  {
-    "headline": "GM is moving production from Oshawa to Indiana. Here's what they're saying across the border",
-    "link": "https://www.cbc.ca/news/canada/toronto/gm-production-fort-wayne-1.7642742?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-01-08-00-00 +0000"
-  },
-  {
-    "headline": "Canadians may have needlessly filed bare trust tax forms as feds propose exemptions",
-    "link": "https://www.cbc.ca/news/politics/government-bare-trust-reporting-changes-1.7646619?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-01-08-00-00 +0000"
-  },
-  {
-    "headline": "Starmer Describes ‘Fight for the Soul’ of U.K. as Populist Right Rises",
-    "link": "https://www.nytimes.com/2025/09/30/world/europe/starmer-speech-soul-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-07-59-04 +0000"
-  },
-  {
-    "headline": "Starmer Describes ‘Fight for the Soul’ of U.K. as Populist Right Rises",
-    "link": "https://www.nytimes.com/2025/09/30/world/europe/starmer-speech-soul-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-07-59-04 +0000"
   }
 ]
