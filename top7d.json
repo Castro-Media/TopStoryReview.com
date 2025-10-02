@@ -1,52 +1,45 @@
 [
   {
-    "score": 391,
+    "score": 379,
     "pubdate": "2025-10-02-16-28-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb"
   },
   {
-    "score": 180,
+    "score": 182,
     "pubdate": "2025-10-01-23-07-36 +0000",
     "source": "wapo",
     "headline": "Israel steps up Gaza City assault as Hamas weighs Trump peace deal",
     "link": "https://www.washingtonpost.com/world/2025/10/01/israel-gaza-city-hamas-ceasefire-deal-flotilla/"
   },
   {
-    "score": 164,
+    "score": 165,
     "pubdate": "2025-10-01-18-00-00 +0000",
     "source": "latimes",
     "headline": "As California glaciers disappear, people will see ice-free peaks exposed for the first time in millennia",
     "link": "https://www.latimes.com/environment/story/2025-10-01/californias-glaciers-vanishing"
   },
   {
-    "score": 155,
+    "score": 154,
     "pubdate": "2025-09-27-09-30-00 +0000",
     "source": "wsj",
     "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
     "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
   },
   {
-    "score": 122,
+    "score": 129,
     "pubdate": "2025-10-02-10-09-41 +0000",
     "source": "cbc",
     "headline": "U.K. police say deadly rampage at Manchester synagogue was terrorist attack",
     "link": "https://www.cbc.ca/news/world/uk-synagogue-incident-1.7648977?cmp=rss"
   },
   {
-    "score": 97,
+    "score": 95,
     "pubdate": "2025-10-02-00-30-00 +0000",
     "source": "wsj",
     "headline": "The Court kept Lisa Cook in her job until it could hear her case. Other institutions had provided little pushback to the unprecedented removal attempt.",
     "link": "https://www.wsj.com/politics/policy/the-supreme-court-just-became-the-last-line-of-defense-for-fed-independence-4b8d18e9"
-  },
-  {
-    "score": 93,
-    "pubdate": "2025-09-29-20-46-24 +0000",
-    "source": "bbc",
-    "headline": "Watch: Trump and Netanyahu outline peace plan to end war in Gaza",
-    "link": "https://www.bbc.com/news/videos/c24r8zj1mnro?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 92,
@@ -56,7 +49,14 @@
     "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
   },
   {
-    "score": 86,
+    "score": 92,
+    "pubdate": "2025-09-29-20-46-24 +0000",
+    "source": "bbc",
+    "headline": "Watch: Trump and Netanyahu outline peace plan to end war in Gaza",
+    "link": "https://www.bbc.com/news/videos/c24r8zj1mnro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 87,
     "pubdate": "2025-09-29-20-53-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it is cracking down on companies that pose national-security risks by adding them to a trade blacklist, a move that threatens hundreds of Chinese companies",
@@ -64,9 +64,9 @@
   },
   {
     "score": 80,
-    "pubdate": "2025-09-29-15-31-00 +0000",
+    "pubdate": "2025-10-02-13-17-00 +0000",
     "source": "wsj",
-    "headline": "President Trump said films made outside the U.S. would face a 100% tariff, repeating his threat made earlier this year against the movie industry",
-    "link": "https://www.wsj.com/politics/elections/trump-re-ups-tariff-plan-for-movies-made-outside-of-u-s-a0065a89"
+    "headline": "Office of Management and Budget Director Russell Vought might be one of the shutdown’s biggest beneficiaries, as it gives him the chance to implement government cuts he has long advocated",
+    "link": "https://www.wsj.com/politics/policy/russell-vought-omb-director-government-shutdown-6dd92725"
   }
 ]
