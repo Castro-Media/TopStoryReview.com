@@ -1,30 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2025-10-02-12-56-23 +0000",
+    "score": 31,
+    "pubdate": "2025-10-02-14-23-33 +0000",
     "source": "nyt",
-    "headline": "Live Updates: 2 Killed in Car Ramming and Stabbing Outside U.K. Synagogue, Police Say",
+    "headline": "The Global Sumud Flotilla Is Approaching Gaza. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-aid-global-sumud-israel.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-10-02-14-38-44 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Police Say Deadly Attack Outside U.K. Synagogue Was Terrorism",
     "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk"
   },
   {
-    "score": 9,
-    "pubdate": "2025-10-02-12-57-22 +0000",
-    "source": "wapo",
-    "headline": "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
-    "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/"
+    "score": 28,
+    "pubdate": "2025-10-02-14-27-33 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls Shutdown an ‘Unprecedented Opportunity,’ and Eyes Deep Cuts",
+    "link": "https://www.nytimes.com/2025/10/02/us/politics/trump-vought-shutdown-cuts.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-10-02-13-00-31 +0000",
-    "source": "bbc",
-    "headline": "Tories pledge to scrap landmark climate legislation",
-    "link": "https://www.bbc.com/news/articles/czrp2k3m3deo?at_medium=RSS&at_campaign=rss"
+    "score": 22,
+    "pubdate": "2025-10-02-14-29-15 +0000",
+    "source": "nypost",
+    "headline": "Judge rejects Kilmar Abrego Garcia’s bid to reopen case, lets removal order stand",
+    "link": "https://nypost.com/2025/10/02/us-news/judge-rejects-kilmar-abrego-garcias-bid-to-reopen-case-lets-removal-order-stand/"
   },
   {
-    "score": 1,
-    "pubdate": "2025-10-02-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "The birds",
-    "link": "https://missionlocal.org/2025/10/sf-photos-the-birds/"
+    "score": 20,
+    "pubdate": "2025-10-02-14-06-50 +0000",
+    "source": "nyt",
+    "headline": "How Social Media Is Changing the Narrative of the Israel-Gaza War",
+    "link": "https://www.nytimes.com/2025/10/01/business/israel-gaza-war-social-media.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-02-14-19-49 +0000",
+    "source": "nypost",
+    "headline": "NYC Mayor Eric Adams’ ex who landed $160K City Hall gig is releasing tell-all book on secret romance",
+    "link": "https://nypost.com/2025/10/02/us-news/nyc-mayor-eric-adams-ex-girlfriend-jasmine-ray-is-releasing-tell-all-book/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-02-14-19-00 +0000",
+    "source": "wsj",
+    "headline": "Tesla Surprises Wall Street, Turns Around Sales Decline",
+    "link": "https://www.wsj.com/business/autos/tesla-sales-q3-2025-844e1394?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-02-14-30-44 +0000",
+    "source": "nyt",
+    "headline": "At Saudi Comedy Festival, American Free Speech Becomes the Punchline",
+    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/saudi-comedy-festival-riyadh-free-speech.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-02-14-00-14 +0000",
+    "source": "nyt",
+    "headline": "Heading to L.A. for the Olympics? If You’re Into These Sports, You’re in the Wrong State.",
+    "link": "https://www.nytimes.com/2025/10/02/us/los-angeles-olympics-oklahoma-city.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-02-14-48-36 +0000",
+    "source": "startribune",
+    "headline": "She turned the world on with her smile. But where will Mary Tyler Moore’s hat land?",
+    "link": "https://www.startribune.com/she-turned-the-world-on-with-her-smile-but-where-will-mary-tyler-moores-hat-land/601485058"
   }
 ]
