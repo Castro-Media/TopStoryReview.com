@@ -1,5 +1,173 @@
 [
   {
+    "headline": "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
+    "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/",
+    "source": "wapo",
+    "pubdate": "2025-10-02-11-47-04 +0000"
+  },
+  {
+    "headline": "Attenborough and Prince William lead tributes to Dr Jane Goodall",
+    "link": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-11-45-13 +0000"
+  },
+  {
+    "headline": "Attack at synagogue on Yom Kippur leaves two dead in England",
+    "link": "https://www.washingtonpost.com/world/2025/10/02/synagogue-stabbing-manchester-yom-kippur/",
+    "source": "wapo",
+    "pubdate": "2025-10-02-11-35-28 +0000"
+  },
+  {
+    "headline": "4 People Injured After Stabbing Outside Manchester Synagogue, UK Police Say",
+    "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk/manchester-synagogue-stabbing-uk",
+    "source": "nyt",
+    "pubdate": "2025-10-02-11-31-06 +0000"
+  },
+  {
+    "headline": "4 People Injured After Stabbing Outside Manchester Synagogue, UK Police Say",
+    "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk/manchester-synagogue-stabbing-uk",
+    "source": "nyt",
+    "pubdate": "2025-10-02-11-31-06 +0000"
+  },
+  {
+    "headline": "First killings in Morocco since Gen Z protests erupted",
+    "link": "https://www.bbc.com/news/articles/cgrqpekyxpvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-11-31-03 +0000"
+  },
+  {
+    "headline": "First killings in Morocco since Gen Z protests erupted",
+    "link": "https://www.bbc.com/news/articles/cgrqpekyxpvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-11-31-03 +0000"
+  },
+  {
+    "headline": "Manchester synagogue car and stabbing attack leaves at least 2 dead on Yom Kippur",
+    "link": "https://nypost.com/2025/10/02/world-news/manchester-synagogue-car-and-stabbing-attack-leaves-at-least-2-dead-on-yom-kippur/",
+    "source": "nypost",
+    "pubdate": "2025-10-02-11-30-18 +0000"
+  },
+  {
+    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
+    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-11-28-50 +0000"
+  },
+  {
+    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
+    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-11-28-50 +0000"
+  },
+  {
+    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
+    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-11-28-50 +0000"
+  },
+  {
+    "headline": "Australia Expands Sunscreen Recalls Over False SPF Claims",
+    "link": "https://www.nytimes.com/2025/10/02/world/australia/australia-sunscreen-recall.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-11-28-13 +0000"
+  },
+  {
+    "headline": "U.K. Synagogue Hit by Deadly Stabbing, Ramming Attack",
+    "link": "https://www.wsj.com/world/europe/u-k-synagogue-hit-by-stabbing-attack-1938e70e",
+    "source": "wsj",
+    "pubdate": "2025-10-02-11-23-00 +0000"
+  },
+  {
+    "headline": "Shutdown adds more uncertainty for anxious federal workers",
+    "link": "https://www.startribune.com/government-workers-worried-pay-cutbacks-minnesota-federal-shutdown-trump-buyouts/601484412",
+    "source": "startribune",
+    "pubdate": "2025-10-02-11-00-01 +0000"
+  },
+  {
+    "headline": "Minnesota workers, in a tough job market, wonder: Is AI coming for my job?",
+    "link": "https://www.startribune.com/ai-artificial-intelligence-take-replace-job-minnesota-labor-market-chatgpt-generative/601475409",
+    "source": "startribune",
+    "pubdate": "2025-10-02-11-00-01 +0000"
+  },
+  {
+    "headline": "‘Make America Healthy Again’ movement, Minnesota farm groups in fight over pesticides",
+    "link": "https://www.startribune.com/why-maha-and-minnesota-farm-groups-are-fighting-about-pesticides/601483701",
+    "source": "startribune",
+    "pubdate": "2025-10-02-11-00-01 +0000"
+  },
+  {
+    "headline": "Hole opens onto NYC street — giving peek into subway below: ‘Special rat express entrance’",
+    "link": "https://nypost.com/2025/10/02/us-news/hole-opens-onto-nyc-street-giving-peek-into-subway-below/",
+    "source": "nypost",
+    "pubdate": "2025-10-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Abandoned suitcase reveals vanished ‘Harlem of the West’",
+    "link": "https://missionlocal.org/2025/10/abandoned-suitcase-reveals-vanished-harlem-of-the-west/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Judges Show Strains From Trump’s Emergency Appeals",
+    "link": "https://www.wsj.com/us-news/law/supreme-court-shadow-docket-trump-4dae7bcd",
+    "source": "wsj",
+    "pubdate": "2025-10-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Stay out too late dancing to Taylor Swift at these Minneapolis events",
+    "link": "https://www.startribune.com/taylor-swift-minneapolis-dance-parties-cowboy-jacks-fine-line/601484549",
+    "source": "startribune",
+    "pubdate": "2025-10-02-11-00-00 +0000"
+  },
+  {
+    "headline": "There’s a matcha shortage. Could Minnesota outdrink its supply?",
+    "link": "https://www.startribune.com/theres-a-matcha-shortage-could-minnesota-outdrink-its-supply/601480275",
+    "source": "startribune",
+    "pubdate": "2025-10-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Why Pfizer’s Trump Deal Is Good News for All of Big Pharma",
+    "link": "https://www.wsj.com/health/pharma/pfizer-trumprx-deal-pharma-stocks-7e2724f4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Canada announces Defence Investment Agency to manage purchase, delivery of military equipment",
+    "link": "https://www.cbc.ca/news/politics/canada-defence-investment-agency-1.7648729?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Hamas military leader in Gaza objects to ceasefire plan, BBC understands",
+    "link": "https://www.bbc.com/news/articles/c708v2q5r09o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-10-54-37 +0000"
+  },
+  {
+    "headline": "Hamas military leader in Gaza objects to ceasefire plan, BBC understands",
+    "link": "https://www.bbc.com/news/articles/c708v2q5r09o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-10-54-37 +0000"
+  },
+  {
+    "headline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
+    "link": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-10-54-31 +0000"
+  },
+  {
+    "headline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
+    "link": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-10-54-31 +0000"
+  },
+  {
+    "headline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
+    "link": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html",
+    "source": "nyt",
+    "pubdate": "2025-10-02-10-54-31 +0000"
+  },
+  {
     "headline": "Government shutdown continues with no end in sight amid partisan divide",
     "link": "https://www.washingtonpost.com/business/2025/10/02/government-shutdown-talks-stall/",
     "source": "wapo",
@@ -54,12 +222,6 @@
     "pubdate": "2025-10-02-10-43-38 +0000"
   },
   {
-    "headline": "Attack at synagogue on Yom Kippur leaves four injured in England",
-    "link": "https://www.washingtonpost.com/world/2025/10/02/synagogue-stabbing-manchester-yom-kippur/",
-    "source": "wapo",
-    "pubdate": "2025-10-02-10-42-08 +0000"
-  },
-  {
     "headline": "Kennedy Center board member says families are ‘welcome’ again as gala breaks fundraising records",
     "link": "https://nypost.com/2025/10/02/us-news/kennedy-center-board-member-says-families-are-welcome-again-as-gala-breaks-fundraising-records/",
     "source": "nypost",
@@ -90,12 +252,6 @@
     "pubdate": "2025-10-02-10-39-57 +0000"
   },
   {
-    "headline": "Why the US government has shut down and what happens now",
-    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-10-39-57 +0000"
-  },
-  {
     "headline": "Deported from the US to Ghana then 'dumped' at the border: Nigerian man speaks out",
     "link": "https://www.bbc.com/news/articles/c33rllxnm35o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -106,18 +262,6 @@
     "link": "https://www.bbc.com/news/articles/c33rllxnm35o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-02-10-38-05 +0000"
-  },
-  {
-    "headline": "4 People Injured After Stabbing Outside Manchester Synagogue, UK Police Say",
-    "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk/manchester-synagogue-stabbing-uk",
-    "source": "nyt",
-    "pubdate": "2025-10-02-10-36-23 +0000"
-  },
-  {
-    "headline": "4 People Injured After Stabbing Outside Manchester Synagogue, UK Police Say",
-    "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk/manchester-synagogue-stabbing-uk",
-    "source": "nyt",
-    "pubdate": "2025-10-02-10-36-23 +0000"
   },
   {
     "headline": "Telegram founder Pavel Durov reveals he was target of 2018 poisoning attempt that shut down his body: ‘Thought I was dying’",
@@ -144,22 +288,16 @@
     "pubdate": "2025-10-02-10-25-43 +0000"
   },
   {
-    "headline": "U.K. Synagogue Hit by Stabbing, Ramming Attack",
-    "link": "https://www.wsj.com/world/europe/u-k-synagogue-hit-by-stabbing-attack-1938e70e",
-    "source": "wsj",
-    "pubdate": "2025-10-02-10-20-00 +0000"
-  },
-  {
-    "headline": "U.K. Synagogue Hit by Stabbing, Ramming Attack",
-    "link": "https://www.wsj.com/world/europe/u-k-synagogue-hit-by-stabbing-attack-1938e70e",
-    "source": "wsj",
-    "pubdate": "2025-10-02-10-20-00 +0000"
-  },
-  {
     "headline": "Shein picks France to open its first permanent outlets",
     "link": "https://www.bbc.com/news/articles/ckg2p87de58o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-02-10-09-53 +0000"
+  },
+  {
+    "headline": "British police shoot suspect after 4 injured in attack near synagogue",
+    "link": "https://www.cbc.ca/news/world/uk-synagogue-incident-1.7648977?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-02-10-09-41 +0000"
   },
   {
     "headline": "With Iran under pressure, fears grow of new Israeli strikes",
@@ -216,6 +354,12 @@
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
   {
+    "headline": "Neal: Who should the Twins hire as their next manager?",
+    "link": "https://www.startribune.com/neal-who-should-the-twins-hire/601448707",
+    "source": "startribune",
+    "pubdate": "2025-10-02-10-00-00 +0000"
+  },
+  {
     "headline": "How companies might avoid Trump’s new $100k visa",
     "link": "https://www.washingtonpost.com/business/2025/10/02/h1b-visas-alternatives/",
     "source": "wapo",
@@ -268,6 +412,12 @@
     "link": "https://www.wsj.com/world/asia/hope-fades-for-boys-trapped-under-collapsed-indonesian-school-7c71f010",
     "source": "wsj",
     "pubdate": "2025-10-02-09-49-00 +0000"
+  },
+  {
+    "headline": "The personal trainer hoping to help Nigeria to first World Cup",
+    "link": "https://www.bbc.com/sport/rugby-league/articles/ced27xzn940o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-09-37-42 +0000"
   },
   {
     "headline": "Diddy Brings the Power of Positive Thinking to Jail",
@@ -336,6 +486,12 @@
     "pubdate": "2025-10-02-09-07-14 +0000"
   },
   {
+    "headline": "'Area of interest' found in search for girl who vanished 55 years ago",
+    "link": "https://www.bbc.com/news/articles/cr4qp95n0pzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-02-09-07-14 +0000"
+  },
+  {
     "headline": "Fed’s Independence in Jeopardy Despite Latest Lisa Cook Victory",
     "link": "https://www.nytimes.com/2025/10/02/business/federal-reserve-independence-lisa-cook.html",
     "source": "nyt",
@@ -358,24 +514,6 @@
     "link": "https://www.nytimes.com/2025/10/02/business/tariffs-lumber-furniture-housing-crisis.html",
     "source": "nyt",
     "pubdate": "2025-10-02-09-04-11 +0000"
-  },
-  {
-    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
-    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-09-03-06 +0000"
-  },
-  {
-    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
-    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-09-03-06 +0000"
-  },
-  {
-    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
-    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-09-03-06 +0000"
   },
   {
     "headline": "After Michigan Church Shooting, One Man Raised $200,000 for the Suspect’s Family",
@@ -478,12 +616,6 @@
     "link": "https://www.wsj.com/livecoverage/stock-market-today-government-shutdown-10-02-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-02-08-16-55 +0000"
-  },
-  {
-    "headline": "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
-    "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/",
-    "source": "wapo",
-    "pubdate": "2025-10-02-08-11-26 +0000"
   },
   {
     "headline": "Defence procurement vs. defence production: What's best for Canada?",
@@ -696,12 +828,6 @@
     "pubdate": "2025-10-02-03-35-56 +0000"
   },
   {
-    "headline": "Dame Jane Goodall remembered as a 'true hero for the planet'",
-    "link": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-03-30-57 +0000"
-  },
-  {
     "headline": "'We only have the sea to live on' - Senegal's fishermen blame BP project for lack of fish",
     "link": "https://www.bbc.com/news/articles/cly9gg3vervo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -712,6 +838,12 @@
     "link": "https://www.bbc.com/news/articles/cly9gg3vervo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-02-03-26-31 +0000"
+  },
+  {
+    "headline": "White House Asks Colleges to Sign Sweeping Agreement to Get Funding Advantage",
+    "link": "https://www.wsj.com/us-news/education/trump-universities-compact-federal-funds-agreement-df158493",
+    "source": "wsj",
+    "pubdate": "2025-10-02-03-23-00 +0000"
   },
   {
     "headline": "White House Asks Colleges to Sign Sweeping Agreement to Get Funding Advantage",
@@ -738,40 +870,10 @@
     "pubdate": "2025-10-02-03-00-00 +0000"
   },
   {
-    "headline": "Grandma’s Marathon registration on pace to sell out in record time",
-    "link": "https://www.startribune.com/grandmas-marathon-registration-duluth-race-run/601484861",
-    "source": "startribune",
-    "pubdate": "2025-10-02-02-56-57 +0000"
-  },
-  {
-    "headline": "Latest filings in Feeding Our Future case reveal more allegations of witness intimidation",
-    "link": "https://www.startribune.com/latest-filings-in-feeding-our-future-case-reveal-more-allegations-of-witness-intimidation/601484859",
-    "source": "startribune",
-    "pubdate": "2025-10-02-02-56-50 +0000"
-  },
-  {
     "headline": "Bouncer turns himself in after viral video captures brutal chokehold assault in front of Baltimore restaurant",
     "link": "https://nypost.com/2025/10/01/us-news/bouncer-turns-himself-in-after-viral-video-captures-brutal-chokehold-assault-in-front-of-baltimore-restaurant/",
     "source": "nypost",
     "pubdate": "2025-10-02-02-50-28 +0000"
-  },
-  {
-    "headline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
-    "link": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-02-43-05 +0000"
-  },
-  {
-    "headline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
-    "link": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-02-43-05 +0000"
-  },
-  {
-    "headline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
-    "link": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-02-43-05 +0000"
   },
   {
     "headline": "Could US government ban apps which track ICE agents?",
@@ -858,7 +960,7 @@
     "pubdate": "2025-10-02-01-57-31 +0000"
   },
   {
-    "headline": "Some flotilla boats stopped by Israeli navy as others near Gaza coast, activists say",
+    "headline": "Israel intercepts 39 aid boats heading for Gaza, organizers say, sparking global outcry",
     "link": "https://www.cbc.ca/news/world/gaza-aid-flotilla-intercepted-greta-thunberg-1.7648834?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-02-01-53-31 +0000"
@@ -1026,28 +1128,10 @@
     "pubdate": "2025-10-02-00-40-13 +0000"
   },
   {
-    "headline": "South Minneapolis renters launch union, threaten rent strike as problems persist with mold and pests",
-    "link": "https://www.startribune.com/south-minneapolis-renters-launch-union-threaten-rent-strike-as-problems-persist-with-mold-and-pests/601484467",
-    "source": "startribune",
-    "pubdate": "2025-10-02-00-36-37 +0000"
-  },
-  {
     "headline": "‘There Will Always Only Be One Jane Goodall’",
     "link": "https://www.nytimes.com/2025/10/01/science/jane-goodall-chimpanzees-career.html",
     "source": "nyt",
     "pubdate": "2025-10-02-00-34-28 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/01/us/government-shutdown-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-02-00-32-54 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/01/us/government-shutdown-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-02-00-32-54 +0000"
   },
   {
     "headline": "The Court kept Lisa Cook in her job until it could hear her case. Other institutions had provided little pushback to the unprecedented removal attempt.",
@@ -1086,13 +1170,13 @@
     "pubdate": "2025-10-02-00-13-05 +0000"
   },
   {
-    "headline": "Sinaloa cartel leader admits to CNN that Trump’s border crackdown is stifling criminal operations",
+    "headline": "Sinaloa Cartel leader admits to CNN that Trump’s border crackdown is stifling criminal operations",
     "link": "https://nypost.com/2025/10/01/us-news/sinaloa-cartel-leader-admits-trumps-border-crackdown-is-working-in-cnn-interview/",
     "source": "nypost",
     "pubdate": "2025-10-02-00-09-05 +0000"
   },
   {
-    "headline": "Sinaloa cartel leader admits to CNN that Trump’s border crackdown is stifling criminal operations",
+    "headline": "Sinaloa Cartel leader admits to CNN that Trump’s border crackdown is stifling criminal operations",
     "link": "https://nypost.com/2025/10/01/us-news/sinaloa-cartel-leader-admits-trumps-border-crackdown-is-working-in-cnn-interview/",
     "source": "nypost",
     "pubdate": "2025-10-02-00-09-05 +0000"
@@ -1114,12 +1198,6 @@
     "link": "https://www.nytimes.com/2025/10/01/us/politics/trump-democrats-health-care.html",
     "source": "nyt",
     "pubdate": "2025-10-02-00-05-46 +0000"
-  },
-  {
-    "headline": "D4vd’s family home targeted in ‘swatting’ call nearly a month after teen girl’s remains found in his abandoned Tesla",
-    "link": "https://nypost.com/2025/10/01/us-news/d4vds-family-home-targeted-in-swatting-call-nearly-a-month-after-teen-girls-remains-found-in-his-abandoned-tesla/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-00-04-13 +0000"
   },
   {
     "headline": "Office of Management and Budget Director Russell Vought might be one of the shutdown’s biggest beneficiaries, as it gives him the chance to implement government cuts he has long advocated",
@@ -1260,12 +1338,6 @@
     "pubdate": "2025-10-01-22-24-03 +0000"
   },
   {
-    "headline": "Minnesota reports 13 more measles cases, raising 2025 total to 18",
-    "link": "https://www.startribune.com/minnesota-reports-13-more-measles-cases-raising-2025-total-to-18/601484655",
-    "source": "startribune",
-    "pubdate": "2025-10-01-22-21-52 +0000"
-  },
-  {
     "headline": "An animal-style problem at SoCal In-N-Out's grand opening: A big snake",
     "link": "https://www.latimes.com/california/story/2025-10-01/snake-discovered-at-in-n-out-drive-thru-in-monrovia",
     "source": "latimes",
@@ -1336,12 +1408,6 @@
     "link": "https://www.bbc.com/news/articles/cy8525w2v5wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-01-21-59-48 +0000"
-  },
-  {
-    "headline": "Twin Cities Marathon still on track despite potential for a very hot weekend",
-    "link": "https://www.startribune.com/twin-cities-marathon-still-on-track-despite-potential-for-a-very-hot-weekend/601484502",
-    "source": "startribune",
-    "pubdate": "2025-10-01-21-57-54 +0000"
   },
   {
     "headline": "South African Politician Julius Malema, Subject of Trump Attacks, Is Convicted of Gun Charge",
@@ -1644,12 +1710,6 @@
     "pubdate": "2025-10-01-20-26-37 +0000"
   },
   {
-    "headline": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
-    "link": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-20-26-37 +0000"
-  },
-  {
     "headline": "Elon Musk announces xAI building ‘Grokipedia’ to rival Wikipedia amid bias accusations",
     "link": "https://nypost.com/2025/10/01/business/elon-musk-announces-xai-building-grokipedia-to-rival-wikipedia-amid-bias-accusations/",
     "source": "nypost",
@@ -1755,7 +1815,13 @@
     "headline": "When a Driverless Car Makes an Illegal U-Turn, Who Gets the Ticket?",
     "link": "https://www.nytimes.com/2025/10/01/us/waymo-tickets-san-bruno.html",
     "source": "nyt",
-    "pubdate": "2025-10-01-19-56-27 +0000"
+    "pubdate": "2025-10-01-19-56-28 +0000"
+  },
+  {
+    "headline": "When a Driverless Car Makes an Illegal U-Turn, Who Gets the Ticket?",
+    "link": "https://www.nytimes.com/2025/10/01/us/waymo-tickets-san-bruno.html",
+    "source": "nyt",
+    "pubdate": "2025-10-01-19-56-28 +0000"
   },
   {
     "headline": "AOL pulls the plug on dial-up internet after decades of service",
@@ -2094,12 +2160,6 @@
     "pubdate": "2025-10-01-17-43-30 +0000"
   },
   {
-    "headline": "Liberal arts are on a long decline. Some Minnesota schools are finding new ways to boost them.",
-    "link": "https://www.startribune.com/liberal-arts-are-on-a-long-decline-some-minnesota-schools-are-finding-new-ways-to-boost-them/601467983",
-    "source": "startribune",
-    "pubdate": "2025-10-01-17-37-56 +0000"
-  },
-  {
     "headline": "Afghans rejoice as internet returns after Taliban blackout",
     "link": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2214,7 +2274,7 @@
     "pubdate": "2025-10-01-16-55-24 +0000"
   },
   {
-    "headline": "How Government Shutdowns Got More Severe and Further Reaching",
+    "headline": "How Long Will the Government Shutdown Last? The Past Offers Clues.",
     "link": "https://www.nytimes.com/2025/10/01/us/past-government-shutdowns-length.html",
     "source": "nyt",
     "pubdate": "2025-10-01-16-53-14 +0000"
@@ -2556,12 +2616,6 @@
     "pubdate": "2025-10-01-13-58-05 +0000"
   },
   {
-    "headline": "Higher premiums, less choice ahead for Medicare Advantage shoppers in Minnesota",
-    "link": "https://www.startribune.com/medicare-advantage-minnesota-higher-premiums-fewer-options-unitedhealthcare-healthpartners/601483594",
-    "source": "startribune",
-    "pubdate": "2025-10-01-13-54-20 +0000"
-  },
-  {
     "headline": "The $400 Million Restaurant Man",
     "link": "https://www.nytimes.com/2025/09/30/dining/stephen-starr-restaurants.html",
     "source": "nyt",
@@ -2746,83 +2800,5 @@
     "link": "https://www.cbc.ca/news/world/us-court-trump-ruling-1.7647862?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-01-11-59-27 +0000"
-  },
-  {
-    "headline": "How a Government Shutdown Could Affect the Economy",
-    "link": "https://www.nytimes.com/2025/09/30/business/dealbook/federal-shutdown-economic-stakes.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-11-52-46 +0000"
-  },
-  {
-    "headline": "Markets Brace for the Costs of a Shutdown",
-    "link": "https://www.nytimes.com/2025/10/01/business/dealbook/markets-shutdown-costs.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-11-50-37 +0000"
-  },
-  {
-    "headline": "Trump Promises to Defend Qatar, a Reassurance After Israel’s Strike",
-    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/qatar-trump-executive-order.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-11-47-03 +0000"
-  },
-  {
-    "headline": "Trump Promises to Defend Qatar, a Reassurance After Israel’s Strike",
-    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/qatar-trump-executive-order.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-11-47-03 +0000"
-  },
-  {
-    "headline": "Trump Promises to Defend Qatar, a Reassurance After Israel’s Strike",
-    "link": "https://www.nytimes.com/2025/10/01/world/middleeast/qatar-trump-executive-order.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-11-47-03 +0000"
-  },
-  {
-    "headline": "Will the Government Shutdown Affect Flights? What to Know.",
-    "link": "https://www.nytimes.com/2025/10/01/business/government-shutdown-flights-air-travel.html",
-    "source": "nyt",
-    "pubdate": "2025-10-01-11-37-10 +0000"
-  },
-  {
-    "headline": "Kenya offers reward as anger grows over failure to arrest suspected serial killer",
-    "link": "https://www.bbc.com/news/articles/ckgqpnx7577o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-11-33-10 +0000"
-  },
-  {
-    "headline": "Will recognition lead to a Palestinian state?",
-    "link": "https://www.cbc.ca/radio/frontburner/will-recognition-lead-to-a-palestinian-state-1.7647584?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-01-11-30-00 +0000"
-  },
-  {
-    "headline": "Funfair ride breaks apart at school event in LA",
-    "link": "https://www.bbc.com/news/videos/cd9yp73jw0do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-11-16-28 +0000"
-  },
-  {
-    "headline": "Bills forced mum to choose heating or eating",
-    "link": "https://www.bbc.com/news/articles/cy7p14g388do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-11-02-57 +0000"
-  },
-  {
-    "headline": "How to stay safe during a storm and what to do in a power cut",
-    "link": "https://www.bbc.com/news/articles/cm2ezv1e680o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-11-00-47 +0000"
-  },
-  {
-    "headline": "South African firebrand MP Malema convicted of firing a gun in public",
-    "link": "https://www.bbc.com/news/articles/c79vj85px54o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-01-10-57-45 +0000"
-  },
-  {
-    "headline": "Taliban’s ongoing internet shutdown paralyzes Afghanistan",
-    "link": "https://www.washingtonpost.com/world/2025/09/30/afghanistan-internet-blackout-taliban/",
-    "source": "wapo",
-    "pubdate": "2025-10-01-10-57-25 +0000"
   }
 ]
