@@ -1,20 +1,20 @@
 [
   {
-    "score": 170,
+    "score": 166,
     "pubdate": "2025-10-02-22-15-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb"
   },
   {
-    "score": 127,
+    "score": 130,
     "pubdate": "2025-10-03-07-13-06 +0000",
     "source": "nypost",
     "headline": "UK police name 2 victims of Manchester synagogue attack on Yom Kippur",
     "link": "https://nypost.com/2025/10/03/world-news/uk-police-name-2-victims-of-manchester-synagogue-attack-on-yom-kippur/"
   },
   {
-    "score": 68,
+    "score": 69,
     "pubdate": "2025-10-02-21-25-48 +0000",
     "source": "nypost",
     "headline": "Ukraine pitches plan to help US sell American oil to Europe — icing out Russia and bringing in profits",
@@ -28,7 +28,14 @@
     "link": "https://www.wsj.com/politics/policy/nvidia-trump-uae-chip-deal-delay-c49aaa5c"
   },
   {
-    "score": 51,
+    "score": 55,
+    "pubdate": "2025-10-03-10-46-15 +0000",
+    "source": "nypost",
+    "headline": "Sarah Mullally named the first female Archbishop of Canterbury in history of Church of England",
+    "link": "https://nypost.com/2025/10/03/world-news/church-of-england-sarah-mullally-named-new-archbishop-of-canterbury/"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-10-02-13-17-00 +0000",
     "source": "wsj",
     "headline": "Office of Management and Budget Director Russell Vought might be one of the shutdown’s biggest beneficiaries, as it gives him the chance to implement government cuts he has long advocated",
@@ -36,37 +43,30 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-10-03-10-46-15 +0000",
-    "source": "nypost",
-    "headline": "Sarah Mullally named the first female Archbishop of Canterbury in history of Church of England",
-    "link": "https://nypost.com/2025/10/03/world-news/church-of-england-sarah-mullally-named-new-archbishop-of-canterbury/"
+    "pubdate": "2025-10-03-11-00-46 +0000",
+    "source": "nyt",
+    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html"
   },
   {
     "score": 48,
-    "pubdate": "2025-10-03-04-01-43 +0000",
-    "source": "nypost",
-    "headline": "Apple removes ICE tracking apps from App Store over ‘safety risks’ to law enforcement",
-    "link": "https://nypost.com/2025/10/03/us-news/apple-removes-ice-tracking-apps-from-app-store-over-safety-risks-to-law-enforcement/"
-  },
-  {
-    "score": 47,
     "pubdate": "2025-10-02-13-39-46 +0000",
     "source": "wapo",
     "headline": "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
     "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/"
   },
   {
-    "score": 45,
-    "pubdate": "2025-10-03-05-30-17 +0000",
-    "source": "bbc",
-    "headline": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
-    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
+    "score": 48,
+    "pubdate": "2025-10-02-21-46-24 +0000",
+    "source": "nyt",
+    "headline": "Des Moines Schools Superintendent Arrested by ICE Faces New Gun Charge",
+    "link": "https://www.nytimes.com/2025/10/02/us/des-moines-superintendent-ice-gun-charge.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-10-03-09-01-11 +0000",
+    "score": 43,
+    "pubdate": "2025-10-02-13-36-04 +0000",
     "source": "nyt",
-    "headline": "She Speaks Trump’s Language: Meet Ukraine’s New Prime Minister",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-prime-minister-trump-war-svyrydenko.html"
+    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
+    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html"
   }
 ]

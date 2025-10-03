@@ -1,62 +1,55 @@
 [
   {
-    "score": 362,
+    "score": 354,
     "pubdate": "2025-10-02-22-15-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb"
   },
   {
-    "score": 165,
+    "score": 174,
+    "pubdate": "2025-10-03-11-21-21 +0000",
+    "source": "wapo",
+    "headline": "One victim in Yom Kippur synagogue attack in England was shot dead by police",
+    "link": "https://www.washingtonpost.com/world/2025/10/03/synagogue-yom-kippur-attack-england/"
+  },
+  {
+    "score": 166,
     "pubdate": "2025-10-01-18-00-00 +0000",
     "source": "latimes",
     "headline": "As California glaciers disappear, people will see ice-free peaks exposed for the first time in millennia",
     "link": "https://www.latimes.com/environment/story/2025-10-01/californias-glaciers-vanishing"
   },
   {
-    "score": 157,
-    "pubdate": "2025-10-03-10-44-43 +0000",
-    "source": "cbc",
-    "headline": "British police may have shot 2 of the Manchester synagogue attack victims, one fatally, officals say",
-    "link": "https://www.cbc.ca/news/world/manchester-synagogue-attack-police-shooting-1.7650095?cmp=rss"
-  },
-  {
-    "score": 155,
+    "score": 158,
     "pubdate": "2025-10-01-23-07-36 +0000",
     "source": "wapo",
     "headline": "Israel steps up Gaza City assault as Hamas weighs Trump peace deal",
     "link": "https://www.washingtonpost.com/world/2025/10/01/israel-gaza-city-hamas-ceasefire-deal-flotilla/"
   },
   {
-    "score": 142,
+    "score": 143,
     "pubdate": "2025-09-27-09-30-00 +0000",
     "source": "wsj",
     "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
     "link": "https://www.wsj.com/economy/jobs/trump-h1b-fees-tech-worker-reactions-c43e0c96"
   },
   {
-    "score": 121,
+    "score": 122,
     "pubdate": "2025-10-02-21-25-48 +0000",
     "source": "nypost",
     "headline": "Ukraine pitches plan to help US sell American oil to Europe — icing out Russia and bringing in profits",
     "link": "https://nypost.com/2025/10/02/world-news/ukraine-pitches-plan-to-help-us-sell-american-oil-to-europe-and-ice-out-russia/"
   },
   {
-    "score": 108,
-    "pubdate": "2025-10-01-00-43-26 +0000",
-    "source": "latimes",
-    "headline": "L.A. County will pay $20 million to family of 4-year-old boy who was tortured, killed",
-    "link": "https://www.latimes.com/california/story/2025-09-30/noah-cuatro-settlement"
-  },
-  {
-    "score": 93,
+    "score": 94,
     "pubdate": "2025-10-01-10-00-00 +0000",
     "source": "latimes",
     "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
     "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump"
   },
   {
-    "score": 91,
+    "score": 90,
     "pubdate": "2025-09-28-10-00-00 +0000",
     "source": "latimes",
     "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "The Court kept Lisa Cook in her job until it could hear her case. Other institutions had provided little pushback to the unprecedented removal attempt.",
     "link": "https://www.wsj.com/politics/policy/the-supreme-court-just-became-the-last-line-of-defense-for-fed-independence-4b8d18e9"
+  },
+  {
+    "score": 84,
+    "pubdate": "2025-09-29-20-53-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration said it is cracking down on companies that pose national-security risks by adding them to a trade blacklist, a move that threatens hundreds of Chinese companies",
+    "link": "https://www.wsj.com/politics/national-security/trump-targets-chinas-tech-sector-by-expanding-trade-blacklist-9873ad34"
   }
 ]
