@@ -1,31 +1,24 @@
 [
   {
-    "score": 176,
-    "pubdate": "2025-10-03-20-03-20 +0000",
-    "source": "nypost",
-    "headline": "Hamas agrees to release all Israeli hostages per Trump Gaza peace deal — but only under certain conditions",
-    "link": "https://nypost.com/2025/10/03/world-news/hamas-agrees-to-release-all-israeli-hostages-under-trump-gaza-peace-deal/"
+    "score": 177,
+    "pubdate": "2025-10-03-22-22-09 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html"
   },
   {
-    "score": 103,
-    "pubdate": "2025-10-02-22-12-02 +0000",
-    "source": "nypost",
-    "headline": "Israeli officials rip ‘weak’ UK government for Manchester synagogue attack: ‘Failed to…curb this toxic wave of antisemitism’",
-    "link": "https://nypost.com/2025/10/02/world-news/israeli-officials-blame-uk-government-for-manchester-synagogue-attack-after-repeated-warnings-about-mounting-antisemitism/"
+    "score": 104,
+    "pubdate": "2025-10-03-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Inside the White House, concerns are growing that the issue at the center of the government-shutdown debate—healthcare subsidies—will cost the Republicans in the 2026 midterms",
+    "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-healthcare-risk-d5b7e197"
   },
   {
-    "score": 83,
-    "pubdate": "2025-10-03-14-42-11 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court will decide if gun owners may carry in private places open to the public",
-    "link": "https://www.latimes.com/politics/story/2025-10-03/supreme-court-will-decide-if-gun-owners-have-a-right-to-carry-in-parks-beaches-stores"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-10-03-19-34-23 +0000",
-    "source": "nypost",
-    "headline": "Only victim set to speak at Sean ‘Diddy’ Combs’ sentencing was scared off by ‘bullying’ letter from his legal team: feds",
-    "link": "https://nypost.com/2025/10/03/us-news/only-victim-set-to-speak-at-sean-diddy-combs-sentencing-was-scared-off-by-bullying-letter-from-his-team-feds/"
+    "score": 91,
+    "pubdate": "2025-10-03-12-00-08 +0000",
+    "source": "wapo",
+    "headline": "One victim in Yom Kippur synagogue attack in England was shot dead by police",
+    "link": "https://www.washingtonpost.com/world/2025/10/03/synagogue-yom-kippur-attack-england/"
   },
   {
     "score": 72,
@@ -35,38 +28,45 @@
     "link": "https://www.bbc.com/news/articles/cn0xvpxk9dqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
-    "pubdate": "2025-10-03-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Inside the White House, concerns are growing that the issue at the center of the government-shutdown debate—healthcare subsidies—will cost the Republicans in the 2026 midterms",
-    "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-healthcare-risk-d5b7e197"
+    "score": 64,
+    "pubdate": "2025-10-03-14-42-11 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court will decide if gun owners may carry in private places open to the public",
+    "link": "https://www.latimes.com/politics/story/2025-10-03/supreme-court-will-decide-if-gun-owners-have-a-right-to-carry-in-parks-beaches-stores"
   },
   {
-    "score": 59,
-    "pubdate": "2025-10-03-15-33-14 +0000",
-    "source": "nyt",
-    "headline": "Trump Sets Sunday Deadline for Hamas to Agree to Cease-fire Plan With Israel",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html"
+    "score": 63,
+    "pubdate": "2025-10-03-21-38-40 +0000",
+    "source": "nypost",
+    "headline": "Sean ‘Diddy’ Combs still faces nearly 70 lawsuits accusing ex-mogul of sex abuse after prison sentencing",
+    "link": "https://nypost.com/2025/10/03/us-news/sean-diddy-combs-still-faces-nearly-70-lawsuits-after-sentencing-stronger-than-ever/"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-10-03-20-03-20 +0000",
+    "source": "nypost",
+    "headline": "Hamas agrees to release all Israeli hostages per Trump Gaza peace deal — but only under certain conditions",
+    "link": "https://nypost.com/2025/10/03/world-news/hamas-agrees-to-release-all-israeli-hostages-under-trump-gaza-peace-deal/"
   },
   {
     "score": 52,
+    "pubdate": "2025-10-03-14-23-50 +0000",
+    "source": "nypost",
+    "headline": "Cops probe whether Manchester synagogue terrorist Jihad Al-Shamie threatened politician — as officials reveal why his name astonished them",
+    "link": "https://nypost.com/2025/10/03/world-news/manchester-synagogue-terrorist-jihad-al-shamie-might-have-threatened-john-howell/"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-10-03-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
+    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-10-03-10-46-15 +0000",
     "source": "nypost",
     "headline": "Sarah Mullally named the first female Archbishop of Canterbury in history of Church of England",
     "link": "https://nypost.com/2025/10/03/world-news/church-of-england-sarah-mullally-named-new-archbishop-of-canterbury/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-10-03-19-00-00 +0000",
-    "source": "startribune",
-    "headline": "These fans grew up going to Chi-Chi’s. Here’s what they want from the new one.",
-    "link": "https://www.startribune.com/these-fans-grew-up-going-to-chi-chis-heres-what-they-want-from-the-new-one/601485362"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-10-03-16-36-50 +0000",
-    "source": "nyt",
-    "headline": "Apple Takes Down ICE Tracking Apps in Response to Trump Pressure Campaign",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html"
   }
 ]
