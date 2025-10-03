@@ -1,72 +1,44 @@
 [
   {
-    "score": 22,
-    "pubdate": "2025-10-03-04-01-43 +0000",
-    "source": "nypost",
-    "headline": "Apple removes ICE tracking apps from App Store over ‘safety risks’ to law enforcement",
-    "link": "https://nypost.com/2025/10/03/us-news/apple-removes-ice-tracking-apps-from-app-store-over-safety-risks-to-law-enforcement/"
-  },
-  {
     "score": 14,
-    "pubdate": "2025-10-03-04-21-41 +0000",
-    "source": "bbc",
-    "headline": "Japan faces Asahi beer shortage after cyber-attack",
-    "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-10-03-05-22-46 +0000",
+    "source": "nypost",
+    "headline": "NYC hospital patient attacked in her sleep by roommate with violent history — dies weeks before 56th birthday",
+    "link": "https://nypost.com/2025/10/03/us-news/nyc-woman-cynthia-vann-dies-after-being-attacked-in-sleep-by-roommate-at-bronx-lincoln-hospital/"
   },
   {
     "score": 12,
-    "pubdate": "2025-10-03-04-01-07 +0000",
-    "source": "nyt",
-    "headline": "A.I. Is Driving a Stock Market Rally in China, Too",
-    "link": "https://www.nytimes.com/2025/10/03/business/china-tech-stocks-artificial-intelligence.html"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-10-03-04-03-02 +0000",
-    "source": "nyt",
-    "headline": "Leo Hindery Jr., Dealmaking Power in the Cable TV Industry, Dies at 77",
-    "link": "https://www.nytimes.com/2025/10/02/business/dealbook/leo-hindery-dead.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-03-04-26-28 +0000",
-    "source": "missionlocal",
-    "headline": "Club Pilates has more than 1,000 locations. Valencia Street won’t be one of them",
-    "link": "https://missionlocal.org/2025/10/club-pilates-has-more-than-1000-locations-valencia-street-wont-be-one-of-them/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-03-04-01-00 +0000",
-    "source": "wsj",
-    "headline": "Munich Airport Pauses Flights After Latest Europe Drone Sighting",
-    "link": "https://www.wsj.com/world/europe/munich-airport-pauses-flights-after-latest-europe-drone-sighting-a85bd9e9"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-10-03-04-44-44 +0000",
-    "source": "nyt",
-    "headline": "American Soldiers in American Cities",
-    "link": "https://www.nytimes.com/2025/10/02/world/american-military-trump-manchester-synagogue-taylor-swift.html"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-10-03-03-58-36 +0000",
-    "source": "wapo",
-    "headline": "Israel may have underestimated Trump’s links with Qatar",
-    "link": "https://www.washingtonpost.com/world/2025/10/03/qatar-trump-security-guarantee-israel/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-03-04-21-41 +0000",
-    "source": "bbc",
-    "headline": "Japan faces Asahi beer shortage after cyber-attack",
-    "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-03-04-01-43 +0000",
+    "pubdate": "2025-10-03-05-06-35 +0000",
     "source": "nypost",
-    "headline": "Apple removes ICE tracking apps from App Store over ‘safety risks’ to law enforcement",
-    "link": "https://nypost.com/2025/10/03/us-news/apple-removes-ice-tracking-apps-from-app-store-over-safety-risks-to-law-enforcement/"
+    "headline": "Lost dog found 2,000 miles away from home after running away during a storm",
+    "link": "https://nypost.com/2025/10/03/lifestyle/lost-dog-found-2000-miles-away-from-home-after-running-away-during-a-storm/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-03-05-20-36 +0000",
+    "source": "nypost",
+    "headline": "14-year-old usher hailed a hero for protecting brothers during Michigan LDS church attack",
+    "link": "https://nypost.com/2025/10/03/us-news/14-year-old-usher-hailed-a-hero-for-protecting-brothers-during-michigan-lds-church-attack/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-03-05-30-17 +0000",
+    "source": "bbc",
+    "headline": "Former Israeli hostage 'very worried' Trump's peace plan will not happen",
+    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-03-05-45-47 +0000",
+    "source": "nyt",
+    "headline": "Large Fire Burns at Chevron Refinery in El Segundo",
+    "link": "https://www.nytimes.com/2025/10/03/us/el-segundo-refinery-fire-chevron.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-03-05-40-23 +0000",
+    "source": "bbc",
+    "headline": "Munich airport reopens after drone sightings force closure",
+    "link": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss"
   }
 ]

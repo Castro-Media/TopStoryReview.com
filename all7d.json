@@ -1,9 +1,57 @@
 [
   {
+    "headline": "Large Fire Burns at Chevron Refinery in El Segundo",
+    "link": "https://www.nytimes.com/2025/10/03/us/el-segundo-refinery-fire-chevron.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-05-45-47 +0000"
+  },
+  {
+    "headline": "Munich airport reopens after drone sightings force closure",
+    "link": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-05-40-23 +0000"
+  },
+  {
+    "headline": "Former Israeli hostage 'very worried' Trump's peace plan will not happen",
+    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-05-30-17 +0000"
+  },
+  {
+    "headline": "NYC hospital patient attacked in her sleep by roommate with violent history — dies weeks before 56th birthday",
+    "link": "https://nypost.com/2025/10/03/us-news/nyc-woman-cynthia-vann-dies-after-being-attacked-in-sleep-by-roommate-at-bronx-lincoln-hospital/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-05-22-46 +0000"
+  },
+  {
+    "headline": "14-year-old usher hailed a hero for protecting brothers during Michigan LDS church attack",
+    "link": "https://nypost.com/2025/10/03/us-news/14-year-old-usher-hailed-a-hero-for-protecting-brothers-during-michigan-lds-church-attack/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-05-20-36 +0000"
+  },
+  {
+    "headline": "Lost dog found 2,000 miles away from home after running away during a storm",
+    "link": "https://nypost.com/2025/10/03/lifestyle/lost-dog-found-2000-miles-away-from-home-after-running-away-during-a-storm/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-05-06-35 +0000"
+  },
+  {
+    "headline": "Massive fire erupts at Chevron refinery in El Segundo, sending plumes across South Bay",
+    "link": "https://www.latimes.com/california/story/2025-10-02/la-me-fire-refinery",
+    "source": "latimes",
+    "pubdate": "2025-10-03-04-53-33 +0000"
+  },
+  {
     "headline": "American Soldiers in American Cities",
     "link": "https://www.nytimes.com/2025/10/02/world/american-military-trump-manchester-synagogue-taylor-swift.html",
     "source": "nyt",
     "pubdate": "2025-10-03-04-44-44 +0000"
+  },
+  {
+    "headline": "Ancient Egyptian sick notes and invoices go on show",
+    "link": "https://www.bbc.com/news/articles/cy8r2k1g043o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-04-30-05 +0000"
   },
   {
     "headline": "Club Pilates has more than 1,000 locations. Valencia Street won’t be one of them",
@@ -120,7 +168,7 @@
     "pubdate": "2025-10-03-03-08-54 +0000"
   },
   {
-    "headline": "Sleeping in fields and struggling for basics: Filipinos contend with quake aftermath",
+    "headline": "'When I stand, I feel dizzy': Deadly earthquake leaves Filipinos struggling in ghost towns",
     "link": "https://www.bbc.com/news/articles/c80g9ng3ed4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-03-02-59-13 +0000"
@@ -148,12 +196,6 @@
     "link": "https://nypost.com/2025/10/02/us-news/best-man-at-minnesota-wedding-busted-after-allegedly-shooting-guest-during-heated-scuffle/",
     "source": "nypost",
     "pubdate": "2025-10-03-02-23-26 +0000"
-  },
-  {
-    "headline": "Munich airport closes after drones spotted nearby",
-    "link": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-02-13-56 +0000"
   },
   {
     "headline": "Woman charged with murder in connection with a body found in a burned Honda in South L.A.",
@@ -654,6 +696,12 @@
     "pubdate": "2025-10-02-22-24-56 +0000"
   },
   {
+    "headline": "U.K. police say deadly rampage at Manchester synagogue was terrorist attack",
+    "link": "https://www.cbc.ca/news/world/uk-synagogue-incident-1.7648977?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-02-22-24-30 +0000"
+  },
+  {
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb",
     "source": "wsj",
@@ -712,18 +760,6 @@
     "link": "https://nypost.com/2025/10/02/us-news/ex-adelphi-university-president-charged-with-drunken-driving-after-wild-crash-ends-with-car-landing-onto-lirr-tracks-cops/",
     "source": "nypost",
     "pubdate": "2025-10-02-22-05-24 +0000"
-  },
-  {
-    "headline": "Disturbed man fatally stabbed mother-in-law, wounded teen before setting NYC home on fire amid marital woes",
-    "link": "https://nypost.com/2025/10/02/us-news/disturbed-man-fatally-stabbed-mother-in-law-wounded-teen-before-setting-nyc-home-on-fire-amid-marital-woes/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-22-03-15 +0000"
-  },
-  {
-    "headline": "Michael Bloomberg broke Eric Adams’ heart when he endorsed Andrew Cuomo in NYC mayoral election: book",
-    "link": "https://nypost.com/2025/10/02/us-news/michael-bloomberg-broke-eric-adams-heart-when-he-endorsed-andrew-cuomo-in-nyc-mayoral-election-book/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-22-02-49 +0000"
   },
   {
     "headline": "Are Democrats really pushing for free healthcare for undocumented migrants?",
@@ -802,12 +838,6 @@
     "link": "https://www.wsj.com/world/europe/british-jews-say-u-k-terrorist-attack-was-just-a-matter-of-time-ae498baf",
     "source": "wsj",
     "pubdate": "2025-10-02-21-36-00 +0000"
-  },
-  {
-    "headline": "Frenzy for Sean ‘Diddy’ Combs sentencing begins with paid line-sitters staking out spots 24 hours in advance",
-    "link": "https://nypost.com/2025/10/02/us-news/sean-diddy-combs-nyc-sentencing-draws-paid-line-sitters-24-hours-early/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-21-34-45 +0000"
   },
   {
     "headline": "‘Bummed’ Visitors Are Turned Away From Closed Presidential Library",
@@ -2268,12 +2298,6 @@
     "pubdate": "2025-10-02-10-09-53 +0000"
   },
   {
-    "headline": "U.K. police say deadly rampage at Manchester synagogue was terrorist attack",
-    "link": "https://www.cbc.ca/news/world/uk-synagogue-incident-1.7648977?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-02-10-09-41 +0000"
-  },
-  {
     "headline": "With Iran under pressure, fears grow of new Israeli strikes",
     "link": "https://www.washingtonpost.com/world/2025/10/02/iran-strikes-sanctions-israel-gulf-nuclear-trump/",
     "source": "wapo",
@@ -2316,14 +2340,14 @@
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
   {
-    "headline": "Maui vacations, luxury watches: Wine buyer at major California grocery chain accused of taking bribes",
-    "link": "https://www.latimes.com/california/story/2025-10-02/buyer-at-albertsons-grocery-chain-charged-for-allegedly-taking-bribes-to-carry-certain-wines",
+    "headline": "This Beverly Hills haven for the rich has a floating garden for the public. Here's a sneak peek",
+    "link": "https://www.latimes.com/business/story/2025-10-02/planned-beverly-hills-public-gardens-unveiled",
     "source": "latimes",
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
   {
-    "headline": "This Beverly Hills haven for the rich has a floating garden for the public. Here's a sneak peek",
-    "link": "https://www.latimes.com/business/story/2025-10-02/planned-beverly-hills-public-gardens-unveiled",
+    "headline": "Maui vacations, luxury watches: Wine buyer at major California grocery chain accused of taking bribes",
+    "link": "https://www.latimes.com/california/story/2025-10-02/buyer-at-albertsons-grocery-chain-charged-for-allegedly-taking-bribes-to-carry-certain-wines",
     "source": "latimes",
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
@@ -2784,12 +2808,6 @@
     "pubdate": "2025-10-02-00-09-05 +0000"
   },
   {
-    "headline": "I’m an immigrant mom. How do I reclaim power and visibility at work? | Querida Consejera",
-    "link": "https://eltecolote.org/content/en/immigrant-mother-workplace-advice/",
-    "source": "eltecolote",
-    "pubdate": "2025-10-02-00-06-01 +0000"
-  },
-  {
     "headline": "South Korea’s Inflation Rebounds in September",
     "link": "https://www.wsj.com/economy/south-koreas-inflation-rebounds-in-september-a50fb4cf",
     "source": "wsj",
@@ -3082,12 +3100,6 @@
     "link": "https://www.washingtonpost.com/obituaries/2025/10/01/jane-goodall-dead/",
     "source": "wapo",
     "pubdate": "2025-10-01-20-12-14 +0000"
-  },
-  {
-    "headline": "Across cultures, S.F. immigrants rally behind this 3,000-year-old ancient remedy",
-    "link": "https://eltecolote.org/content/en/acupunctures-sf-lati/",
-    "source": "eltecolote",
-    "pubdate": "2025-10-01-20-07-42 +0000"
   },
   {
     "headline": "Watch: Jane Goodall tells BBC how she became interested in animals",
@@ -3756,18 +3768,6 @@
     "pubdate": "2025-10-01-10-05-47 +0000"
   },
   {
-    "headline": "Your guide to the 2025 California special election",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
-    "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
     "headline": "Government shutdown means 90% of EPA staff won't be working",
     "link": "https://www.latimes.com/environment/story/2025-10-01/government-shutdown-will-furlough-nearly-all-epa-staff",
     "source": "latimes",
@@ -3792,8 +3792,20 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Your guide to Proposition 50: California redistricting",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
+    "headline": "Your guide to the 2025 California special election",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
+    "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "'Wannabe gangsters' described killing two women. Why did convicting them take a decade?",
+    "link": "https://www.latimes.com/california/story/2025-10-01/echeverria-pineda-murder-trial",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -3804,8 +3816,8 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "'Wannabe gangsters' described killing two women. Why did convicting them take a decade?",
-    "link": "https://www.latimes.com/california/story/2025-10-01/echeverria-pineda-murder-trial",
+    "headline": "Your guide to Proposition 50: California redistricting",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -3852,6 +3864,18 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
+    "headline": "Your guide to the 2025 California special election",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
+    "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
     "headline": "Where to vote in California's 2025 special election: Find a vote center or drop box",
     "link": "https://www.latimes.com/california/story/2025-10-01/where-to-vote-in-californias-2025-special-election-ballot-boxes-guide-redistricting",
     "source": "latimes",
@@ -3864,20 +3888,8 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Your guide to the 2025 California special election",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
     "headline": "YouTube, Disney and Meta have all settled. Inside President Trump's $90-million payday",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-01/youtube-latest-company-to-settle-with-trump-disney-paramount-meta-90-million",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
-    "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -4042,12 +4054,6 @@
     "link": "https://www.bbc.com/news/articles/c1wg4dyxjv9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-01-05-00-51 +0000"
-  },
-  {
-    "headline": "Powerful earthquake in central Philippines kills at least 69",
-    "link": "https://www.washingtonpost.com/climate-environment/2025/09/30/philippines-earthquake-cebu-bogo/",
-    "source": "wapo",
-    "pubdate": "2025-10-01-04-56-34 +0000"
   },
   {
     "headline": "Dozens of Students Are Missing After School Collapses in Indonesia",
@@ -4710,12 +4716,6 @@
     "pubdate": "2025-09-30-13-32-34 +0000"
   },
   {
-    "headline": "US deporting 120 Iranians after deal struck with Tehran, Iran says",
-    "link": "https://www.bbc.com/news/articles/cgrql7gd10do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-30-13-21-54 +0000"
-  },
-  {
     "headline": "The balloon",
     "link": "https://missionlocal.org/2025/09/sf-photos-the-balloon/",
     "source": "missionlocal",
@@ -4818,12 +4818,6 @@
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
   {
-    "headline": "Eager for 'home,' students return to school destroyed by L.A. fires — in temporary classrooms",
-    "link": "https://www.latimes.com/california/story/2025-09-30/students-make-fast-return-to-burned-down-palisades-campus-in-temporary-bungalows",
-    "source": "latimes",
-    "pubdate": "2025-09-30-10-00-00 +0000"
-  },
-  {
     "headline": "California needs biomass energy to meet its wildfire goals. Its projects keep going South",
     "link": "https://www.latimes.com/environment/story/2025-09-30/california-wants-biomass-energy-its-projects-keep-going-south",
     "source": "latimes",
@@ -4832,6 +4826,18 @@
   {
     "headline": "How we determined the number of homes rebuilt after major California wildfires",
     "link": "https://www.latimes.com/homeless-housing/story/2025-09-30/how-we-determined-the-number-of-homes-rebuilt-after-major-california-wildfires",
+    "source": "latimes",
+    "pubdate": "2025-09-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Eager for 'home,' students return to school destroyed by L.A. fires — in temporary classrooms",
+    "link": "https://www.latimes.com/california/story/2025-09-30/students-make-fast-return-to-burned-down-palisades-campus-in-temporary-bungalows",
+    "source": "latimes",
+    "pubdate": "2025-09-30-10-00-00 +0000"
+  },
+  {
+    "headline": "22,500 homes lost. Over five years later, only 38% rebuilt: What California fire survivors face",
+    "link": "https://www.latimes.com/homeless-housing/story/2025-09-30/rebuilding-california-after-major-wildfires",
     "source": "latimes",
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
@@ -4850,12 +4856,6 @@
   {
     "headline": "Emergency abortion denials by Catholic hospitals put woman in danger, lawsuit claims",
     "link": "https://www.latimes.com/california/story/2025-09-30/california-emergency-abortion-lawsuit",
-    "source": "latimes",
-    "pubdate": "2025-09-30-10-00-00 +0000"
-  },
-  {
-    "headline": "22,500 homes lost. Over five years later, only 38% rebuilt: What California fire survivors face",
-    "link": "https://www.latimes.com/homeless-housing/story/2025-09-30/rebuilding-california-after-major-wildfires",
     "source": "latimes",
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
@@ -5364,12 +5364,6 @@
     "pubdate": "2025-09-29-16-07-13 +0000"
   },
   {
-    "headline": "UN experts condemn 'staggering scale' of executions in Iran",
-    "link": "https://www.bbc.com/news/articles/cvgn078zlgro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-29-16-02-08 +0000"
-  },
-  {
     "headline": "Opinion | Why Your Electric Bill Keeps Rising",
     "link": "https://www.wsj.com/opinion/why-your-electric-bill-keeps-rising-91661789?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -5688,12 +5682,6 @@
     "pubdate": "2025-09-28-13-20-41 +0000"
   },
   {
-    "headline": "Thunberg denies claims Gaza flotilla is a publicity stunt",
-    "link": "https://www.bbc.com/news/articles/cx25grpxzd3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-13-15-04 +0000"
-  },
-  {
     "headline": "'Hundreds' of drones and missiles fired at Ukraine by Russia",
     "link": "https://www.bbc.com/news/videos/cn95eq59djlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5724,10 +5712,10 @@
     "pubdate": "2025-09-28-11-00-00 +0000"
   },
   {
-    "headline": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
-    "link": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-28-10-49-28 +0000"
+    "headline": "Camp Pendleton, an oasis from urban sprawl, could see unprecedented development",
+    "link": "https://www.latimes.com/california/story/2025-09-28/camp-pendleton",
+    "source": "latimes",
+    "pubdate": "2025-09-28-10-00-00 +0000"
   },
   {
     "headline": "Barabak: Did Kamala Harris just destroy her 2028 chances? Is Gavin Newsom glad she did?",
@@ -5738,12 +5726,6 @@
   {
     "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
     "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them",
-    "source": "latimes",
-    "pubdate": "2025-09-28-10-00-00 +0000"
-  },
-  {
-    "headline": "Camp Pendleton, an oasis from urban sprawl, could see unprecedented development",
-    "link": "https://www.latimes.com/california/story/2025-09-28/camp-pendleton",
     "source": "latimes",
     "pubdate": "2025-09-28-10-00-00 +0000"
   },
@@ -5910,12 +5892,6 @@
     "pubdate": "2025-09-27-18-12-09 +0000"
   },
   {
-    "headline": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-    "link": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-27-18-06-21 +0000"
-  },
-  {
     "headline": "Singer D4vd broke lease and moved out of Hollywood Hills home searched in 15-year-old girl's death",
     "link": "https://www.latimes.com/california/story/2025-09-27/singer-d4vd-broke-lease-and-moved-out-of-hollywood-hills-home-searched-in-15-year-old-girls-death",
     "source": "latimes",
@@ -6000,26 +5976,20 @@
     "pubdate": "2025-09-27-10-45-39 +0000"
   },
   {
+    "headline": "What counts as cheating with AI? Teachers are grappling with how to draw the line",
+    "link": "https://www.latimes.com/california/story/2025-09-27/ai-students-cheating-tests-teachers-respond-lausd",
+    "source": "latimes",
+    "pubdate": "2025-09-27-10-00-00 +0000"
+  },
+  {
     "headline": "No 'smoking gun': Why Eaton fire report didn't name names or assign blame",
     "link": "https://www.latimes.com/california/story/2025-09-27/no-smoking-gun-report-on-altadena-cites-failures-but-did-not-name-names",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
   {
-    "headline": "Cal State universities now target of antisemitism probe by Trump administration",
-    "link": "https://www.latimes.com/california/story/2025-09-27/trump-administration-probes-alleged-antisemitism-in-cal-state-university-system",
-    "source": "latimes",
-    "pubdate": "2025-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Reputed Mexican Mafia figure accused of brokering drug cartel alliance strikes plea deal",
-    "link": "https://www.latimes.com/california/story/2025-09-27/jose-landa-rodriguez-plea",
-    "source": "latimes",
-    "pubdate": "2025-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "In Trump's 'domestic terrorism' memo, some see blueprint for vengeance that echoes history",
-    "link": "https://www.latimes.com/politics/story/2025-09-27/trumps-domestic-terrorism-memo-some-see-blueprint-for-vengeance",
+    "headline": "AI is infiltrating the classroom. Here's how teachers and students say they use it",
+    "link": "https://www.latimes.com/california/story/2025-09-27/what-students-teachers-say-about-ai-school",
     "source": "latimes",
     "pubdate": "2025-09-27-10-00-00 +0000"
   },
@@ -6112,12 +6082,6 @@
     "link": "https://www.bbc.com/news/articles/cvg41lljnryo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-09-27-00-23-17 +0000"
-  },
-  {
-    "headline": "Immigration Tracker: Updates on H1B, ICE face coverings and more",
-    "link": "https://eltecolote.org/content/en/h1b-ice-immigration-updates/",
-    "source": "eltecolote",
-    "pubdate": "2025-09-27-00-08-39 +0000"
   },
   {
     "headline": "Hedge-Fund Stars Are Making So Much Now That They Are Hiring Agents",
@@ -6372,6 +6336,12 @@
     "pubdate": "2025-09-26-10-00-00 +0000"
   },
   {
+    "headline": "Lopez: From a Catholic school alum, a response to President Trump's call to prayer",
+    "link": "https://www.latimes.com/california/story/2025-09-26/from-a-catholic-school-alum-a-response-to-president-trumps-call-to-prayer",
+    "source": "latimes",
+    "pubdate": "2025-09-26-10-00-00 +0000"
+  },
+  {
     "headline": "Insults are already flying in the crowded race for L.A. County sheriff",
     "link": "https://www.latimes.com/california/story/2025-09-26/luna-sheriff-election-2026",
     "source": "latimes",
@@ -6380,24 +6350,6 @@
   {
     "headline": "Contributor: Trump is doing everything he can to raise your energy bills",
     "link": "https://www.latimes.com/opinion/story/2025-09-26/donald-trump-energy-bills",
-    "source": "latimes",
-    "pubdate": "2025-09-26-10-00-00 +0000"
-  },
-  {
-    "headline": "Lopez: From a Catholic school alum, a response to President Trump's call to prayer",
-    "link": "https://www.latimes.com/california/story/2025-09-26/from-a-catholic-school-alum-a-response-to-president-trumps-call-to-prayer",
-    "source": "latimes",
-    "pubdate": "2025-09-26-10-00-00 +0000"
-  },
-  {
-    "headline": "A U.S. veteran spoke out against his wrongful arrest by ICE. Now he's being accused of assault",
-    "link": "https://www.latimes.com/california/story/2025-09-26/dhs-accuses-veteran-of-assault-after-he-details-his-arrest",
-    "source": "latimes",
-    "pubdate": "2025-09-26-10-00-00 +0000"
-  },
-  {
-    "headline": "How ICE detainees are moved miles away from families and attorneys",
-    "link": "https://www.latimes.com/politics/story/2025-09-26/faster-more-frequent-transfers-of-immigrant-ice-detainees-sow-fear-and-cut-off-resources",
     "source": "latimes",
     "pubdate": "2025-09-26-10-00-00 +0000"
   },
@@ -6414,6 +6366,18 @@
     "pubdate": "2025-09-26-10-00-00 +0000"
   },
   {
+    "headline": "A U.S. veteran spoke out against his wrongful arrest by ICE. Now he's being accused of assault",
+    "link": "https://www.latimes.com/california/story/2025-09-26/dhs-accuses-veteran-of-assault-after-he-details-his-arrest",
+    "source": "latimes",
+    "pubdate": "2025-09-26-10-00-00 +0000"
+  },
+  {
+    "headline": "How ICE detainees are moved miles away from families and attorneys",
+    "link": "https://www.latimes.com/politics/story/2025-09-26/faster-more-frequent-transfers-of-immigrant-ice-detainees-sow-fear-and-cut-off-resources",
+    "source": "latimes",
+    "pubdate": "2025-09-26-10-00-00 +0000"
+  },
+  {
     "headline": "The Path to the American Dream Is Narrowing for Indian Tech Workers",
     "link": "https://www.wsj.com/world/india/h1b-visas-india-tech-engineering-834e079a",
     "source": "wsj",
@@ -6424,11 +6388,5 @@
     "link": "https://www.nytimes.com/2025/09/26/insider/franz-lidz.html",
     "source": "nyt",
     "pubdate": "2025-09-26-07-00-10 +0000"
-  },
-  {
-    "headline": "Chris Mason: Starmer's irritation with Burnham shows as he seeks to tackle critics",
-    "link": "https://www.bbc.com/news/articles/cly19zld70qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-09-26-05-36-16 +0000"
   }
 ]
