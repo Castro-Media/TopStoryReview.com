@@ -1,20 +1,20 @@
 [
   {
-    "score": 354,
+    "score": 355,
     "pubdate": "2025-10-02-22-15-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb"
   },
   {
-    "score": 165,
-    "pubdate": "2025-10-03-12-00-08 +0000",
+    "score": 171,
+    "pubdate": "2025-10-01-23-07-36 +0000",
     "source": "wapo",
-    "headline": "One victim in Yom Kippur synagogue attack in England was shot dead by police",
-    "link": "https://www.washingtonpost.com/world/2025/10/03/synagogue-yom-kippur-attack-england/"
+    "headline": "Israel steps up Gaza City assault as Hamas weighs Trump peace deal",
+    "link": "https://www.washingtonpost.com/world/2025/10/01/israel-gaza-city-hamas-ceasefire-deal-flotilla/"
   },
   {
-    "score": 164,
+    "score": 167,
     "pubdate": "2025-10-01-18-00-00 +0000",
     "source": "latimes",
     "headline": "As California glaciers disappear, people will see ice-free peaks exposed for the first time in millennia",
@@ -22,13 +22,13 @@
   },
   {
     "score": 162,
-    "pubdate": "2025-10-01-23-07-36 +0000",
+    "pubdate": "2025-10-03-12-00-08 +0000",
     "source": "wapo",
-    "headline": "Israel steps up Gaza City assault as Hamas weighs Trump peace deal",
-    "link": "https://www.washingtonpost.com/world/2025/10/01/israel-gaza-city-hamas-ceasefire-deal-flotilla/"
+    "headline": "One victim in Yom Kippur synagogue attack in England was shot dead by police",
+    "link": "https://www.washingtonpost.com/world/2025/10/03/synagogue-yom-kippur-attack-england/"
   },
   {
-    "score": 146,
+    "score": 147,
     "pubdate": "2025-09-27-09-30-00 +0000",
     "source": "wsj",
     "headline": "A new barrier for foreign workers could open some opportunities for U.S. tech workers, who for months have faced a dismal job market. But many aren’t expecting much help.",
@@ -49,24 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/the-supreme-court-just-became-the-last-line-of-defense-for-fed-independence-4b8d18e9"
   },
   {
-    "score": 91,
+    "score": 89,
+    "pubdate": "2025-09-28-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
+    "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
+  },
+  {
+    "score": 88,
     "pubdate": "2025-10-01-10-00-00 +0000",
     "source": "latimes",
     "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
     "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump"
   },
   {
-    "score": 89,
+    "score": 87,
     "pubdate": "2025-09-29-20-53-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it is cracking down on companies that pose national-security risks by adding them to a trade blacklist, a move that threatens hundreds of Chinese companies",
     "link": "https://www.wsj.com/politics/national-security/trump-targets-chinas-tech-sector-by-expanding-trade-blacklist-9873ad34"
-  },
-  {
-    "score": 89,
-    "pubdate": "2025-09-28-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "AI chatbot safety bills under threat as Newsom ponders restrictions tech groups say would hurt California",
-    "link": "https://www.latimes.com/business/story/2025-09-28/california-lawmakers-passed-bills-to-regulate-ai-chatbots-will-newsom-sign-them"
   }
 ]
