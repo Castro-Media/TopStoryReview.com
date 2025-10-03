@@ -1,15 +1,147 @@
 [
   {
+    "headline": "The Colombo Market Arch",
+    "link": "https://missionlocal.org/2025/10/sf-photos-the-colombo-market-arch/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-03-13-00-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/us/trump-news-government-shutdown/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-55-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/us/trump-news-government-shutdown/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-55-06 +0000"
+  },
+  {
+    "headline": "Synagogue Attack on Yom Kippur in Manchester, UK: What We Know",
+    "link": "https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-41-54 +0000"
+  },
+  {
+    "headline": "Jobs Report Withheld by Shutdown Leaves Economists Guessing",
+    "link": "https://www.nytimes.com/2025/10/03/business/economy/jobs-report-unemployment-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-41-44 +0000"
+  },
+  {
+    "headline": "Jobs Report Withheld by Shutdown Leaves Economists Guessing",
+    "link": "https://www.nytimes.com/2025/10/03/business/economy/jobs-report-unemployment-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-41-44 +0000"
+  },
+  {
+    "headline": "FDA Approves Generic Version of Abortion Pill Mifepristone",
+    "link": "https://www.nytimes.com/2025/10/02/health/abortion-pill-generic-fda.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-31-42 +0000"
+  },
+  {
+    "headline": "FDA Approves Generic Version of Abortion Pill Mifepristone",
+    "link": "https://www.nytimes.com/2025/10/02/health/abortion-pill-generic-fda.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-31-42 +0000"
+  },
+  {
+    "headline": "D4vd hires Harvey Weinstein lawyer — as cops probe how teen’s remains ended up in his abandoned Tesla",
+    "link": "https://nypost.com/2025/10/03/us-news/d4vd-hires-harvey-weinstein-lawyer-blair-berk/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-12-31-08 +0000"
+  },
+  {
+    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-28-58 +0000"
+  },
+  {
+    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-28-58 +0000"
+  },
+  {
+    "headline": "Botswana 'on the verge of zero tariff deal with US on diamonds', president tells BBC",
+    "link": "https://www.bbc.com/news/videos/ce80mqmz7d7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-12-25-44 +0000"
+  },
+  {
+    "headline": "Baltimore’s Billion-Dollar Plans to Reinvent Itself",
+    "link": "https://www.nytimes.com/2025/10/03/business/baltimore-inner-harbor-downtown-redevelopment.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-21-35 +0000"
+  },
+  {
+    "headline": "Blackout in Spain and Portugal 'first of its kind', report finds",
+    "link": "https://www.bbc.com/news/articles/cg7d4vjdlrmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-12-20-30 +0000"
+  },
+  {
+    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-18-27 +0000"
+  },
+  {
+    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-12-18-27 +0000"
+  },
+  {
+    "headline": "Prominent Alaskan climber dies in fall from Yosemite’s El Capitan",
+    "link": "https://www.washingtonpost.com/nation/2025/10/03/yosemite-climber-balin-miller-dies/",
+    "source": "wapo",
+    "pubdate": "2025-10-03-12-11-03 +0000"
+  },
+  {
+    "headline": "Suspect captured 4 months after 2 teens found fatally shot in Arizona national forest",
+    "link": "https://nypost.com/2025/10/03/us-news/suspect-captured-in-shooting-deaths-of-teens-pandora-kjolsrud-and-evan-clark/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-12-01-11 +0000"
+  },
+  {
+    "headline": "One victim in Yom Kippur synagogue attack in England was shot dead by police",
+    "link": "https://www.washingtonpost.com/world/2025/10/03/synagogue-yom-kippur-attack-england/",
+    "source": "wapo",
+    "pubdate": "2025-10-03-12-00-08 +0000"
+  },
+  {
+    "headline": "Before she was found dead in D4vd's Tesla, girl's mysterious disappearances distressed family",
+    "link": "https://www.latimes.com/california/story/2025-10-03/grief-hangs-over-lake-elsinore-for-celeste-rivas-who-repeatedly-ran-away",
+    "source": "latimes",
+    "pubdate": "2025-10-03-12-00-00 +0000"
+  },
+  {
+    "headline": "23-Year-Old Climber Dies in Fall from Yosemite’s El Capitan",
+    "link": "https://www.nytimes.com/2025/10/03/us/climber-dies-yosemite-el-capitan.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-11-59-37 +0000"
+  },
+  {
+    "headline": "Government Shutdown Leaves Wall Street Without Jobs Data",
+    "link": "https://www.nytimes.com/2025/10/03/business/dealbook/shutdown-wall-street-data.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-11-50-55 +0000"
+  },
+  {
     "headline": "Man Killed in U.K. Synagogue Attack Was Accidentally Shot by Police",
     "link": "https://www.wsj.com/world/uk/u-k-officers-killed-victim-in-synagogue-attack-by-accident-police-believe-25369d0b",
     "source": "wsj",
     "pubdate": "2025-10-03-11-50-00 +0000"
   },
   {
-    "headline": "Baltimore’s Billion-Dollar Plans to Reinvent Itself",
-    "link": "https://www.nytimes.com/2025/10/03/business/baltimore-inner-harbor-downtown-redevelopment.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-11-49-12 +0000"
+    "headline": "Ex-school board member accused of $93,000 embezzlement scheme at Burbank Unified",
+    "link": "https://www.latimes.com/california/story/2025-10-03/burbank-school-board-accusation-embezzled",
+    "source": "latimes",
+    "pubdate": "2025-10-03-11-44-15 +0000"
   },
   {
     "headline": "Indonesia School Collapse Leaves Families Gripped by Grief and Fury",
@@ -66,12 +198,6 @@
     "pubdate": "2025-10-03-11-22-35 +0000"
   },
   {
-    "headline": "One victim in Yom Kippur synagogue attack in England was shot dead by police",
-    "link": "https://www.washingtonpost.com/world/2025/10/03/synagogue-yom-kippur-attack-england/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-11-21-21 +0000"
-  },
-  {
     "headline": "Hamas Still Considering Trump Gaza Plan but Rejects ‘Take It or Leave It’ Deal",
     "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
     "source": "nyt",
@@ -82,30 +208,12 @@
     "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
     "source": "nyt",
     "pubdate": "2025-10-03-11-20-06 +0000"
-  },
-  {
-    "headline": "Man Killed in U.K. Synagogue Attack Was Accidentally Shot by Police",
-    "link": "https://www.wsj.com/world/uk/u-k-officers-killed-victim-in-synagogue-attack-by-accident-police-believe-25369d0b",
-    "source": "wsj",
-    "pubdate": "2025-10-03-11-01-00 +0000"
   },
   {
     "headline": "Unemployed Minnesotans face longer job searches as labor market tightens",
     "link": "https://www.startribune.com/long-term-unemployment-minnesota-labor-market-job-hire/601484513",
     "source": "startribune",
     "pubdate": "2025-10-03-11-01-00 +0000"
-  },
-  {
-    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-11-00-46 +0000"
-  },
-  {
-    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-11-00-46 +0000"
   },
   {
     "headline": "This small group of lawmakers is in the middle of the gun rights debate after Annunciation",
@@ -144,12 +252,6 @@
     "pubdate": "2025-10-03-11-00-00 +0000"
   },
   {
-    "headline": "The 5 best things our food writers ate this week",
-    "link": "https://www.startribune.com/the-5-best-things-our-food-writers-ate-this-week/601478996",
-    "source": "startribune",
-    "pubdate": "2025-10-03-11-00-00 +0000"
-  },
-  {
     "headline": "SEC Probes Scientology Connections at Startup Stock Exchange",
     "link": "https://www.wsj.com/finance/regulation/sec-probes-scientology-connections-at-startup-stock-exchange-cbb4312d?mod=rss_markets_main",
     "source": "wsj",
@@ -166,18 +268,6 @@
     "link": "https://nypost.com/2025/10/03/us-news/woman-caught-on-camera-allegedly-lunging-at-maga-activist-in-viral-confrontation/",
     "source": "nypost",
     "pubdate": "2025-10-03-10-58-08 +0000"
-  },
-  {
-    "headline": "Synagogue Attack on Yom Kippur in Manchester, UK: What We Know",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-51-56 +0000"
-  },
-  {
-    "headline": "Synagogue Attack on Yom Kippur in Manchester, UK: What We Know",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-51-56 +0000"
   },
   {
     "headline": "Labour just handmaidens to Reform, says Green leader",
@@ -216,7 +306,13 @@
     "pubdate": "2025-10-03-10-26-49 +0000"
   },
   {
-    "headline": "Drones sightings shut down Munich airport overnight",
+    "headline": "Japan faces Asahi beer shortage after cyber-attack",
+    "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-10-26-49 +0000"
+  },
+  {
+    "headline": "Drones shut Munich airport overnight as E.U. leaders debate defense plans",
     "link": "https://www.washingtonpost.com/world/2025/10/03/munich-drones-airspace-nato-russia/",
     "source": "wapo",
     "pubdate": "2025-10-03-10-25-48 +0000"
@@ -226,18 +322,6 @@
     "link": "https://www.cbc.ca/news/world/mullally-church-england-1.7650091?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-03-10-21-41 +0000"
-  },
-  {
-    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-21-14 +0000"
-  },
-  {
-    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-21-14 +0000"
   },
   {
     "headline": "Munich Airport reopens after drone sightings disrupt flights overnight",
@@ -324,6 +408,18 @@
     "pubdate": "2025-10-03-10-00-08 +0000"
   },
   {
+    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
+    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
+    "source": "latimes",
+    "pubdate": "2025-10-03-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: L.A.'s federal public defender says Trump has inundated his office with immigration cases",
+    "link": "https://www.latimes.com/california/story/2025-10-03/cuauhtemoc-ortega-federal-public-defender",
+    "source": "latimes",
+    "pubdate": "2025-10-03-10-00-00 +0000"
+  },
+  {
     "headline": "A historic housing bill is on Newsom's desk. Cities are scrambling to figure out how it works",
     "link": "https://www.latimes.com/california/story/2025-10-03/upzoning-story",
     "source": "latimes",
@@ -342,26 +438,14 @@
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
   {
-    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
-    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: L.A.'s federal public defender says Trump has inundated his office with immigration cases",
-    "link": "https://www.latimes.com/california/story/2025-10-03/cuauhtemoc-ortega-federal-public-defender",
-    "source": "latimes",
+    "headline": "Inside the legal spat between one of the world’s richest men and his longtime interior designer",
+    "link": "https://nypost.com/2025/10/03/business/inside-the-legal-spat-between-billionaire-jan-koum-and-interior-designer-remi-tessier/",
+    "source": "nypost",
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
   {
     "headline": "These founders want to create a private sector DOGE",
     "link": "https://nypost.com/2025/10/03/business/the-antifraud-company-aims-to-be-a-private-sector-doge/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Inside the legal spat between one of the world’s richest men and his longtime interior designer",
-    "link": "https://nypost.com/2025/10/03/business/inside-the-legal-spat-between-billionaire-jan-koum-and-interior-designer-remi-tessier/",
     "source": "nypost",
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
@@ -462,18 +546,6 @@
     "pubdate": "2025-10-03-09-10-28 +0000"
   },
   {
-    "headline": "Jobs Report Withheld by Shutdown Leaves Economists Guessing",
-    "link": "https://www.nytimes.com/2025/10/03/business/economy/jobs-report-unemployment-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-09-03-33 +0000"
-  },
-  {
-    "headline": "Jobs Report Withheld by Shutdown Leaves Economists Guessing",
-    "link": "https://www.nytimes.com/2025/10/03/business/economy/jobs-report-unemployment-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-09-03-33 +0000"
-  },
-  {
     "headline": "‘Czech Trump’ Andrej Babis Is Poised to Return as Prime Minister in Elections",
     "link": "https://www.nytimes.com/2025/10/03/world/europe/andrej-babis-czech-elections.html",
     "source": "nyt",
@@ -570,7 +642,7 @@
     "pubdate": "2025-10-03-09-00-00 +0000"
   },
   {
-    "headline": "The monthly jobs numbers from the Bureau of Labor Statistics won’t arrive on time due to the government shutdown. But private firms are helping fill the gap.",
+    "headline": "The monthly jobs numbers from the Bureau of Labor Statistics won’t arrive on time because of the government shutdown. But private firms are helping fill the gap.",
     "link": "https://www.wsj.com/economy/jobs/adp-jobs-report-bls-data-42362dae",
     "source": "wsj",
     "pubdate": "2025-10-03-09-00-00 +0000"
@@ -636,12 +708,6 @@
     "pubdate": "2025-10-03-08-16-55 +0000"
   },
   {
-    "headline": "Prominent Alaskan climber dies in fall from Yosemite’s El Capitan",
-    "link": "https://www.washingtonpost.com/nation/2025/10/03/yosemite-climber-balin-miller-dies/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-08-16-41 +0000"
-  },
-  {
     "headline": "Indian students say new social media scrutiny cost them U.S. visas",
     "link": "https://www.washingtonpost.com/world/2025/10/03/india-students-visas-trump-social-media/",
     "source": "wapo",
@@ -654,13 +720,7 @@
     "pubdate": "2025-10-03-08-00-00 +0000"
   },
   {
-    "headline": "23-Year-Old Climber Dies in Fall from Yosemite’s El Capitan",
-    "link": "https://www.nytimes.com/2025/10/03/us/climber-dies-yosemite-el-capitan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-07-58-58 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Dow Futures, Chip Stocks Rise as Shutdown Enters Day Three",
+    "headline": "Stock Market Today: Dow Futures Edge Up; Shutdown Enters Day Three",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-government-shutdown-10-03-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-03-07-55-01 +0000"
@@ -780,7 +840,7 @@
     "pubdate": "2025-10-03-05-06-35 +0000"
   },
   {
-    "headline": "Massive fire erupts at Chevron refinery in El Segundo, sending plumes across South Bay",
+    "headline": "Massive fire, explosion rocks Chevron refinery in El Segundo",
     "link": "https://www.latimes.com/california/story/2025-10-02/la-me-fire-refinery",
     "source": "latimes",
     "pubdate": "2025-10-03-04-53-33 +0000"
@@ -1002,12 +1062,6 @@
     "pubdate": "2025-10-03-01-07-50 +0000"
   },
   {
-    "headline": "'I lost my way' - Diddy begs judge for leniency on eve of sentencing",
-    "link": "https://www.bbc.com/news/articles/c5y8zgey6lgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-01-07-50 +0000"
-  },
-  {
     "headline": "Texas Megachurch Pastor Pleads Guilty to Child Sex Abuse",
     "link": "https://www.nytimes.com/2025/10/02/world/asia/robert-morris-pastor-sex-abuse.html",
     "source": "nyt",
@@ -1030,12 +1084,6 @@
     "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-healthcare-risk-d5b7e197",
     "source": "wsj",
     "pubdate": "2025-10-03-01-00-00 +0000"
-  },
-  {
-    "headline": "Trump morbidly says part of his ‘big plans’ for 2026 midterms is to ‘survive’",
-    "link": "https://nypost.com/2025/10/02/us-news/trump-says-part-of-his-big-plans-for-2026-is-to-survive/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-00-59-35 +0000"
   },
   {
     "headline": "Trump morbidly says part of his ‘big plans’ for 2026 midterms is to ‘survive’",
@@ -1086,12 +1134,6 @@
     "pubdate": "2025-10-03-00-38-29 +0000"
   },
   {
-    "headline": "Long Island Dem Rep. Tom Suozzi slapped with ethics complaint over alleged STOCK Act violations",
-    "link": "https://nypost.com/2025/10/02/us-news/long-island-dem-rep-tom-suozzi-slapped-with-ethics-complaint-over-alleged-stock-act-violations/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-00-38-29 +0000"
-  },
-  {
     "headline": "How can S.F. families prepare if a relative is detained by ICE?",
     "link": "https://missionlocal.org/2025/10/how-can-s-f-families-prepare-if-a-relative-is-detained-by-ice/",
     "source": "missionlocal",
@@ -1132,18 +1174,6 @@
     "link": "https://www.wsj.com/business/energy-oil/berkshire-hathaway-occidental-petroleum-acquisition-db3f7c14?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-03-00-00-00 +0000"
-  },
-  {
-    "headline": "FDA Approves Generic Version of Abortion Pill Mifepristone",
-    "link": "https://www.nytimes.com/2025/10/02/health/abortion-pill-generic-fda.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-23-47-20 +0000"
-  },
-  {
-    "headline": "FDA Approves Generic Version of Abortion Pill Mifepristone",
-    "link": "https://www.nytimes.com/2025/10/02/health/abortion-pill-generic-fda.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-23-47-20 +0000"
   },
   {
     "headline": "Trump wields axe over 'Democrat Agencies' as shutdown blame game rages",
@@ -1215,13 +1245,13 @@
     "headline": "As Russian Drones Menace Europe, Putin Says Moscow Has No Plans to Invade",
     "link": "https://www.nytimes.com/2025/10/02/world/europe/putin-russia-drones.html",
     "source": "nyt",
-    "pubdate": "2025-10-02-23-26-41 +0000"
+    "pubdate": "2025-10-02-23-26-42 +0000"
   },
   {
     "headline": "As Russian Drones Menace Europe, Putin Says Moscow Has No Plans to Invade",
     "link": "https://www.nytimes.com/2025/10/02/world/europe/putin-russia-drones.html",
     "source": "nyt",
-    "pubdate": "2025-10-02-23-26-41 +0000"
+    "pubdate": "2025-10-02-23-26-42 +0000"
   },
   {
     "headline": "Nine Colleges in Hot Seat as Trump’s Sweeping ‘Compact’ Sparks Sharp Reactions",
@@ -1314,16 +1344,16 @@
     "pubdate": "2025-10-02-22-36-51 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/02/us/trump-government-shutdown/here-is-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-02-22-36-51 +0000"
-  },
-  {
     "headline": "Here's the latest design for the newly issued California driver's license",
     "link": "https://www.latimes.com/california/story/2025-10-02/heres-the-latest-design-for-the-newly-issued-california-drivers-license",
     "source": "latimes",
     "pubdate": "2025-10-02-22-32-46 +0000"
+  },
+  {
+    "headline": "Trump administration cancels nearly half-billion-dollar grant to Minnesota for power lines serving seven states",
+    "link": "https://www.startribune.com/trump-cancels-464-million-minnesota-grant-for-power-lines-in-five-states/601485232",
+    "source": "startribune",
+    "pubdate": "2025-10-02-22-24-56 +0000"
   },
   {
     "headline": "U.K. police may have shot 2 Manchester synagogue attack victims, officials say",
@@ -1582,12 +1612,6 @@
     "link": "https://www.wsj.com/business/autos/tesla-sales-q3-2025-844e1394?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-02-21-03-00 +0000"
-  },
-  {
-    "headline": "Official quits after dispute over Trump's Eisenhower sword gift to King Charles",
-    "link": "https://www.bbc.com/news/articles/cx2xkygxpy1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-21-01-13 +0000"
   },
   {
     "headline": "Official quits after dispute over Trump's Eisenhower sword gift to King Charles",
@@ -1998,12 +2022,6 @@
     "pubdate": "2025-10-02-17-51-04 +0000"
   },
   {
-    "headline": "Captain of tanker linked to Russian 'shadow fleet' charged in France",
-    "link": "https://www.bbc.com/news/articles/cqxz1wvqvzqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-17-51-04 +0000"
-  },
-  {
     "headline": "What We Know About the Protests in Madagascar",
     "link": "https://www.nytimes.com/video/world/africa/100000010433171/what-we-know-about-the-protests-in-madagascar.html",
     "source": "nyt",
@@ -2352,12 +2370,6 @@
     "pubdate": "2025-10-02-15-36-27 +0000"
   },
   {
-    "headline": "Scaffolding collapsed as people climbed to see Ethiopia church mural, eyewitness tells BBC",
-    "link": "https://www.bbc.com/news/articles/cly6en6l141o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-15-36-27 +0000"
-  },
-  {
     "headline": "Bermuda bashed by Hurricane Imelda’s massive waves, public urged to ‘remain sheltered’",
     "link": "https://nypost.com/2025/10/02/world-news/bermuda-bashed-by-hurricane-imeldas-powerful-winds-massive-waves/",
     "source": "nypost",
@@ -2526,12 +2538,6 @@
     "pubdate": "2025-10-02-13-42-34 +0000"
   },
   {
-    "headline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
-    "link": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-13-42-34 +0000"
-  },
-  {
     "headline": "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
     "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/",
     "source": "wapo",
@@ -2644,77 +2650,5 @@
     "link": "https://www.nytimes.com/2025/10/02/world/australia/australia-sunscreen-recall.html",
     "source": "nyt",
     "pubdate": "2025-10-02-13-07-49 +0000"
-  },
-  {
-    "headline": "Petrit Halilaj Is the Winner of the Nasher Prize for Sculpture",
-    "link": "https://www.nytimes.com/2025/10/02/arts/design/petrit-halilaj-wins-nasher-prize-for-sculpture.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-13-00-08 +0000"
-  },
-  {
-    "headline": "The birds",
-    "link": "https://missionlocal.org/2025/10/sf-photos-the-birds/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-02-13-00-00 +0000"
-  },
-  {
-    "headline": "Benidorm cracks down on lewd t-shirts and items in shop windows",
-    "link": "https://www.bbc.com/news/articles/cgkn6yxnvpno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-12-57-32 +0000"
-  },
-  {
-    "headline": "Shocking video shows cop frantically warn crowd Manchester synagogue attacker ‘has a bomb’",
-    "link": "https://nypost.com/2025/10/02/world-news/manchester-attacker-has-a-bomb-cop-yells-while-warning-yom-kippur-crowd/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-12-47-21 +0000"
-  },
-  {
-    "headline": "Canadians with ‘X’ passports warned they could face problems at U.S. border",
-    "link": "https://www.washingtonpost.com/world/2025/10/02/us-canada-x-gender-passport/",
-    "source": "wapo",
-    "pubdate": "2025-10-02-12-47-20 +0000"
-  },
-  {
-    "headline": "5 million Canadians now covered by national dental care plan, but nearly half haven't been to a dentist",
-    "link": "https://www.cbc.ca/news/politics/5-million-patients-covered-canadian-dental-care-plan-1.7648516?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-02-12-45-00 +0000"
-  },
-  {
-    "headline": "A Run on Canned Mackerel and Emergency Radios. The Reason? Drones.",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/denmark-drones-prepping.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-12-37-28 +0000"
-  },
-  {
-    "headline": "A Run on Canned Mackerel and Emergency Radios. The Reason? Drones.",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/denmark-drones-prepping.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-12-37-28 +0000"
-  },
-  {
-    "headline": "Anti-government youth protests in Morocco turn deadly",
-    "link": "https://www.cbc.ca/player/play/9.6924281?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-02-12-21-20 +0000"
-  },
-  {
-    "headline": "How to stay safe during a storm and what to do in a power cut",
-    "link": "https://www.bbc.com/news/articles/cm2ezv1e680o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-12-08-40 +0000"
-  },
-  {
-    "headline": "California man accused of decapitating sea lion, putting head in plastic bag. All lies, he says",
-    "link": "https://www.latimes.com/california/story/2025-10-02/california-man-accused-of-decapitating-sea-lion-putting-head-in-plastic-bag-all-lies-he-says",
-    "source": "latimes",
-    "pubdate": "2025-10-02-11-57-19 +0000"
-  },
-  {
-    "headline": "Inside the lab analysing the world's oldest ice",
-    "link": "https://www.bbc.com/news/videos/cgl1pl8699ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-11-55-43 +0000"
   }
 ]
