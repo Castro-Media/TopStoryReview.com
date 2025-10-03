@@ -1,5 +1,221 @@
 [
   {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza/hamas-hostage-release-gaza-trump",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-52-51 +0000"
+  },
+  {
+    "headline": "Trump orders Israel to stop bombing Gaza after Hamas partially accepts his peace plan",
+    "link": "https://www.startribune.com/trump-sets-sunday-deadline-for-hamas-to-agree-to-a-deal-for-ending-the-war-in-gaza/601485628",
+    "source": "startribune",
+    "pubdate": "2025-10-03-22-50-06 +0000"
+  },
+  {
+    "headline": "Gig Drivers Win the Right to Unionize in California",
+    "link": "https://www.nytimes.com/2025/10/03/business/uber-lyft-drivers-unionize-california-newsom.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-49-05 +0000"
+  },
+  {
+    "headline": "Live scores and updates from Week 6 football around Minnesota",
+    "link": "https://www.startribune.com/live-scores-blog-updates-streams-game-results-mn-high-school-football-week-6/601484407",
+    "source": "startribune",
+    "pubdate": "2025-10-03-22-47-24 +0000"
+  },
+  {
+    "headline": "Live Updates: Trump Says Hamas Is Ready for Peace and Tells Israel to Stop Bombing",
+    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-44-04 +0000"
+  },
+  {
+    "headline": "Senate stalemate sends US shutdown into second week",
+    "link": "https://www.bbc.com/news/articles/ce32eegrlpko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-22-43-06 +0000"
+  },
+  {
+    "headline": "The White House Can’t Decide: Is the Shutdown Bad or Good?",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/white-house-trump-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-39-30 +0000"
+  },
+  {
+    "headline": "The White House Can’t Decide: Is the Shutdown Bad or Good?",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/white-house-trump-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-39-30 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza/hamas-hostage-release-gaza-trump",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-37-31 +0000"
+  },
+  {
+    "headline": "NYC to welcome Beverly Hills hotspot Croft Alley beloved by DiCaprio, Kendall Jenner",
+    "link": "https://nypost.com/2025/10/03/business/beverly-hills-hotspot-croft-alley-frequented-by-hollywood-stars-coming-to-nyc/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-22-27-49 +0000"
+  },
+  {
+    "headline": "Is South Korea’s ‘Buddhistcore’ Aesthetic a Fad or a Spiritual Awakening?",
+    "link": "https://www.nytimes.com/2025/10/03/world/asia/south-korea-buddhism-young-people.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-27-00 +0000"
+  },
+  {
+    "headline": "Is South Korea’s ‘Buddhistcore’ Aesthetic a Fad or a Spiritual Awakening?",
+    "link": "https://www.nytimes.com/2025/10/03/world/asia/south-korea-buddhism-young-people.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-27-00 +0000"
+  },
+  {
+    "headline": "Judge Finds ‘Likelihood’ That Charges Against Abrego Garcia Are Vindictive",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/abrego-garcia-vindictive-prosecution.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-26-12 +0000"
+  },
+  {
+    "headline": "Judge Finds ‘Likelihood’ That Charges Against Abrego Garcia Are Vindictive",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/abrego-garcia-vindictive-prosecution.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-26-12 +0000"
+  },
+  {
+    "headline": "Georgia-Based Immigration Reporter Is Deported to El Salvador",
+    "link": "https://www.wsj.com/us-news/law/immigration-reporter-mario-guevara-deportation-el-salvador-20f54684",
+    "source": "wsj",
+    "pubdate": "2025-10-03-22-25-00 +0000"
+  },
+  {
+    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-22-09 +0000"
+  },
+  {
+    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-22-09 +0000"
+  },
+  {
+    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-22-09 +0000"
+  },
+  {
+    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-22-09 +0000"
+  },
+  {
+    "headline": "Prominent NYC Bangladeshi business leader turns back on Zohran Mamdani over pro-prostitution stance",
+    "link": "https://nypost.com/2025/10/03/us-news/prominent-nyc-bangladeshi-business-leader-turns-back-on-zohran-mamdani-over-pro-prostitution-stance/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-22-20-59 +0000"
+  },
+  {
+    "headline": "Sean ‘Diddy’ Combs Sentenced to More Than Four Years in Prison",
+    "link": "https://www.wsj.com/us-news/diddy-sean-combs-sentencing-cb02fc3f",
+    "source": "wsj",
+    "pubdate": "2025-10-03-22-16-00 +0000"
+  },
+  {
+    "headline": "Rite Aid Closes Its Remaining Stores",
+    "link": "https://www.nytimes.com/2025/10/03/business/rite-aid-closes-stores-bankruptcy.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-14-16 +0000"
+  },
+  {
+    "headline": "'I love you, I'm sorry': What Sean 'Diddy' Combs did the moment he learned his fate",
+    "link": "https://www.bbc.com/news/articles/c62z19lpwd2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-22-14-05 +0000"
+  },
+  {
+    "headline": "Judge Says Trump Wrongly Removed Puerto Rico Oversight Board Members",
+    "link": "https://www.nytimes.com/2025/10/03/us/trump-puerto-rico-oversight-board.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-13-09 +0000"
+  },
+  {
+    "headline": "UK deputy PM heckled at vigil for Manchester synagogue terror attack victims: ‘Shame on you’",
+    "link": "https://nypost.com/2025/10/03/world-news/uk-deputy-pm-david-lammy-heckled-at-vigil-for-manchester-synagogue-terror-attack-victims/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-22-12-36 +0000"
+  },
+  {
+    "headline": "The Star of These American Air Shows Will Be … Canada?",
+    "link": "https://www.nytimes.com/2025/10/03/us/california-air-show-fleet-week-canada.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-07-51 +0000"
+  },
+  {
+    "headline": "How Fury Over Israel’s Qatar Attack Pushed Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-07-39 +0000"
+  },
+  {
+    "headline": "How Fury Over Israel’s Qatar Attack Pushed Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-07-39 +0000"
+  },
+  {
+    "headline": "How Fury Over Israel’s Qatar Attack Pushed Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-07-39 +0000"
+  },
+  {
+    "headline": "How Fury Over Israel’s Qatar Attack Pushed Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-07-39 +0000"
+  },
+  {
+    "headline": "Energy Dept. Cancels $7.5 Billion for Hundreds of Projects, Mostly in Blue States",
+    "link": "https://www.nytimes.com/2025/10/02/climate/doe-clean-energy-programs-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-22-07-22 +0000"
+  },
+  {
+    "headline": "After exodus of major banks, Mark Carney-launched net-zero alliance shuts down",
+    "link": "https://www.cbc.ca/news/science/carney-banking-climate-1.7651041?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-03-22-04-45 +0000"
+  },
+  {
+    "headline": "L.A.'s healthcare workers rally for affordable coverage after federal cuts",
+    "link": "https://www.latimes.com/business/story/2025-10-03/dtla-healthcare-rally-government-shutdown-st-johns-new-ballot-trump-obamacare",
+    "source": "latimes",
+    "pubdate": "2025-10-03-22-02-37 +0000"
+  },
+  {
+    "headline": "L.A.'s healthcare workers rally for affordable coverage after federal cuts",
+    "link": "https://www.latimes.com/business/story/2025-10-03/dtla-healthcare-rally-government-shutdown-st-johns-new-ballot-trump-obamacare",
+    "source": "latimes",
+    "pubdate": "2025-10-03-22-02-37 +0000"
+  },
+  {
+    "headline": "L.A.'s healthcare workers rally for affordable coverage after federal cuts",
+    "link": "https://www.latimes.com/business/story/2025-10-03/dtla-healthcare-rally-government-shutdown-st-johns-new-ballot-trump-obamacare",
+    "source": "latimes",
+    "pubdate": "2025-10-03-22-02-37 +0000"
+  },
+  {
+    "headline": "A healthcare-staffing business and labor unions are suing the Trump administration over the huge new $100,000 fee for H-1B visas",
+    "link": "https://www.wsj.com/politics/policy/healthcare-and-education-groups-sue-over-trumps-100-000-h-1b-visa-fee-bccb5d35",
+    "source": "wsj",
+    "pubdate": "2025-10-03-21-56-00 +0000"
+  },
+  {
     "headline": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
     "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -22,12 +238,6 @@
     "link": "https://nypost.com/2025/10/03/business/bitcoin-nears-record-high-in-latest-sign-it-may-be-turning-into-digital-gold/",
     "source": "nypost",
     "pubdate": "2025-10-03-21-50-53 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza/hamas-hostage-release-gaza-trump",
-    "source": "nyt",
-    "pubdate": "2025-10-03-21-50-41 +0000"
   },
   {
     "headline": "Federal budget watchdog's comments are 'just wrong,' says one of his predecessors",
@@ -54,12 +264,6 @@
     "pubdate": "2025-10-03-21-49-04 +0000"
   },
   {
-    "headline": "Live Updates: Trump Says Hamas Is Ready for Peace and Tells Israel to Stop Bombing",
-    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza",
-    "source": "nyt",
-    "pubdate": "2025-10-03-21-48-27 +0000"
-  },
-  {
     "headline": "Opinion | The Triumph of the Roberts Court",
     "link": "https://www.wsj.com/opinion/chief-justice-john-roberts-20-years-supreme-court-bb977114",
     "source": "wsj",
@@ -82,12 +286,6 @@
     "link": "https://www.wsj.com/opinion/gavin-newsom-elon-musk-tesla-california-ev-mandate-68fec964?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-03-21-41-00 +0000"
-  },
-  {
-    "headline": "Moment Sean 'Diddy' Combs learned his fate after tearful day in court",
-    "link": "https://www.bbc.com/news/articles/c62z19lpwd2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-21-40-34 +0000"
   },
   {
     "headline": "Person Who Tried to Assassinate Brett Kavanaugh Sentenced to 8 Years",
@@ -150,22 +348,10 @@
     "pubdate": "2025-10-03-21-32-41 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza/hamas-hostage-release-gaza-trump",
-    "source": "nyt",
-    "pubdate": "2025-10-03-21-32-08 +0000"
-  },
-  {
     "headline": "Trump's Grim Reaper - from Project 2025 to shutdown enforcer",
     "link": "https://www.bbc.com/news/articles/c059ydyqe19o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-03-21-31-21 +0000"
-  },
-  {
-    "headline": "Trump orders Israel to stop bombing Gaza after Hamas partially accepts his peace plan",
-    "link": "https://www.startribune.com/trump-sets-sunday-deadline-for-hamas-to-agree-to-a-deal-for-ending-the-war-in-gaza/601485628",
-    "source": "startribune",
-    "pubdate": "2025-10-03-21-30-10 +0000"
   },
   {
     "headline": "How an Attack on a Synagogue in Manchester Unfolded",
@@ -276,12 +462,6 @@
     "pubdate": "2025-10-03-21-08-51 +0000"
   },
   {
-    "headline": "Sean ‘Diddy’ Combs Sentenced to More Than Four Years in Prison",
-    "link": "https://www.wsj.com/us-news/diddy-sean-combs-sentencing-cb02fc3f",
-    "source": "wsj",
-    "pubdate": "2025-10-03-21-07-00 +0000"
-  },
-  {
     "headline": "Neighbors fled for their lives, ignored shelter-in-place order after apocalyptic California refinery blast",
     "link": "https://nypost.com/2025/10/03/us-news/neighbors-fled-for-their-lives-ignored-shelter-in-place-order-after-apocalyptic-california-refinery-blast/",
     "source": "nypost",
@@ -297,25 +477,25 @@
     "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
     "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
     "source": "nyt",
-    "pubdate": "2025-10-03-20-59-51 +0000"
+    "pubdate": "2025-10-03-20-59-52 +0000"
   },
   {
     "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
     "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
     "source": "nyt",
-    "pubdate": "2025-10-03-20-59-51 +0000"
+    "pubdate": "2025-10-03-20-59-52 +0000"
   },
   {
     "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
     "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
     "source": "nyt",
-    "pubdate": "2025-10-03-20-59-51 +0000"
+    "pubdate": "2025-10-03-20-59-52 +0000"
   },
   {
     "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
     "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
     "source": "nyt",
-    "pubdate": "2025-10-03-20-59-51 +0000"
+    "pubdate": "2025-10-03-20-59-52 +0000"
   },
   {
     "headline": "Nutrition Program for Mothers and Infants May Run Out of Money Within Weeks",
@@ -354,10 +534,10 @@
     "pubdate": "2025-10-03-20-54-50 +0000"
   },
   {
-    "headline": "Senate stalemate sends US shutdown into second week",
-    "link": "https://www.bbc.com/news/articles/ce32eegrlpko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-20-54-07 +0000"
+    "headline": "Six Vikings, including J.J. McCarthy and four offensive linemen, are out of action Sunday",
+    "link": "https://www.startribune.com/minnesota-vikings-injury-report-offensive-line-oneill-kelly-jackson-jurgens-mccarthy-london-browns/601482536",
+    "source": "startribune",
+    "pubdate": "2025-10-03-20-53-56 +0000"
   },
   {
     "headline": "Senators Again Block Plans to Reopen Government as Shutdown Drags On",
@@ -394,30 +574,6 @@
     "link": "https://www.washingtonpost.com/business/2025/10/03/shutdown-bipartisan-talks-funding-bills/",
     "source": "wapo",
     "pubdate": "2025-10-03-20-47-12 +0000"
-  },
-  {
-    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-20-46-35 +0000"
-  },
-  {
-    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-20-46-35 +0000"
-  },
-  {
-    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-20-46-35 +0000"
-  },
-  {
-    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-20-46-35 +0000"
   },
   {
     "headline": "Watch: Nasa research equipment accidentally lands on Texas farm",
@@ -798,12 +954,6 @@
     "pubdate": "2025-10-03-18-16-07 +0000"
   },
   {
-    "headline": "Dangerous Man Brewing is coming back, but with a new owner",
-    "link": "https://www.startribune.com/dangerous-man-beer-back-rafters-brewing-maple-lake-mpls/601485680",
-    "source": "startribune",
-    "pubdate": "2025-10-03-18-15-00 +0000"
-  },
-  {
     "headline": "Trump directs admin to review federal funding to Portland amid anti-ICE ‘anarchy,’ Leavitt says",
     "link": "https://nypost.com/2025/10/03/us-news/trump-directs-admin-to-review-federal-funding-to-portland-amid-anti-ice-anarchy-leavitt-says/",
     "source": "nypost",
@@ -952,12 +1102,6 @@
     "link": "https://nypost.com/2025/10/03/us-news/us-boat-strike-kills-4-alleged-narco-terrorists-off-venezuela-pete-hegseth-says/",
     "source": "nypost",
     "pubdate": "2025-10-03-17-09-43 +0000"
-  },
-  {
-    "headline": "NYC Halloween 2025: The scary best ways to celebrate spooky season in ghoulish Gotham — all October long",
-    "link": "https://nypost.com/2025/10/03/lifestyle/nyc-halloween-2025-the-best-haunted-houses-parties-and-more/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-17-07-59 +0000"
   },
   {
     "headline": "First woman is named archbishop of Canterbury, leader of Church of England",
@@ -1168,30 +1312,6 @@
     "link": "https://www.nytimes.com/2025/10/03/theater/julien-gosselin-odeon-theater-paris.html",
     "source": "nyt",
     "pubdate": "2025-10-03-15-33-56 +0000"
-  },
-  {
-    "headline": "Trump Sets Sunday Deadline for Hamas to Agree to Cease-fire Plan With Israel",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-33-14 +0000"
-  },
-  {
-    "headline": "Trump Sets Sunday Deadline for Hamas to Agree to Cease-fire Plan With Israel",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-33-14 +0000"
-  },
-  {
-    "headline": "Trump Sets Sunday Deadline for Hamas to Agree to Cease-fire Plan With Israel",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-33-14 +0000"
-  },
-  {
-    "headline": "Trump Sets Sunday Deadline for Hamas to Agree to Cease-fire Plan With Israel",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-33-14 +0000"
   },
   {
     "headline": "Ukraine’s New Prime Minister Speaks Trump’s Language",
@@ -1440,18 +1560,6 @@
     "pubdate": "2025-10-03-13-54-00 +0000"
   },
   {
-    "headline": "Partisan Language Inserted Into Education Dept. Workers’ Automated Emails",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/education-dept-shutdown-emails.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-13-49-25 +0000"
-  },
-  {
-    "headline": "Partisan Language Inserted Into Education Dept. Workers’ Automated Emails",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/education-dept-shutdown-emails.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-13-49-25 +0000"
-  },
-  {
     "headline": "Celebrations in Luxembourg as new Crown Duke sworn in",
     "link": "https://www.bbc.com/news/videos/c2kny8qxw23o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1662,12 +1770,6 @@
     "pubdate": "2025-10-03-11-32-54 +0000"
   },
   {
-    "headline": "From ‘Mighty Ducks’ to ‘Bring It On!’: Our high school sports movie recs",
-    "link": "https://www.startribune.com/heres-a-list-of-the-all-time-top-high-school-sports-movies-to-watch/601479953",
-    "source": "startribune",
-    "pubdate": "2025-10-03-11-31-08 +0000"
-  },
-  {
     "headline": "Unemployed Minnesotans face longer job searches in ‘no hire, no fire’ market",
     "link": "https://www.startribune.com/long-term-unemployment-minnesota-labor-market-job-hire/601484513",
     "source": "startribune",
@@ -1782,6 +1884,12 @@
     "pubdate": "2025-10-03-10-00-08 +0000"
   },
   {
+    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
+    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
+    "source": "latimes",
+    "pubdate": "2025-10-03-10-00-00 +0000"
+  },
+  {
     "headline": "She went to get her green card and now faces deportation. Did the feds trick her?",
     "link": "https://www.latimes.com/california/story/2025-10-03/film-director-brazil-detained-by-ice-green-card-interview",
     "source": "latimes",
@@ -1790,12 +1898,6 @@
   {
     "headline": "Millions rely on dwindling Colorado River — but are kept 'in the dark' about fixes, critics say",
     "link": "https://www.latimes.com/environment/story/2025-10-03/colorado-river-impasse",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
-    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
     "source": "latimes",
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
@@ -1920,18 +2022,6 @@
     "pubdate": "2025-10-03-09-02-05 +0000"
   },
   {
-    "headline": "Is South Korea’s ‘Buddhistcore’ Aesthetic a Fad or a Spiritual Awakening?",
-    "link": "https://www.nytimes.com/2025/10/03/world/asia/south-korea-buddhism-young-people.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-09-00-41 +0000"
-  },
-  {
-    "headline": "Is South Korea’s ‘Buddhistcore’ Aesthetic a Fad or a Spiritual Awakening?",
-    "link": "https://www.nytimes.com/2025/10/03/world/asia/south-korea-buddhism-young-people.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-09-00-41 +0000"
-  },
-  {
     "headline": "Can This Isolated British Island Keep Its Economy Afloat?",
     "link": "https://www.nytimes.com/2025/10/03/business/isle-wight-beaches-economy-uk.html",
     "source": "nyt",
@@ -1984,12 +2074,6 @@
     "link": "https://www.bbc.com/news/articles/c740yj8g1p2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-03-08-32-07 +0000"
-  },
-  {
-    "headline": "Trump Asked Universities to Sign a Compact. Some See a Trap.",
-    "link": "https://www.nytimes.com/2025/10/02/us/trump-universities-compact-funding.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-08-28-14 +0000"
   },
   {
     "headline": "Munich airport reopens after drone sightings force closure",
@@ -2442,12 +2526,6 @@
     "pubdate": "2025-10-02-23-06-49 +0000"
   },
   {
-    "headline": "Georgia-Based Immigration Reporter to Be Deported to El Salvador",
-    "link": "https://www.wsj.com/us-news/law/immigration-reporter-mario-guevara-deportation-el-salvador-20f54684",
-    "source": "wsj",
-    "pubdate": "2025-10-02-23-06-00 +0000"
-  },
-  {
     "headline": "Ukraine can decimate Russian oil refineries, military bases if US extends help with intel, missiles: experts",
     "link": "https://nypost.com/2025/10/02/world-news/ukraine-can-eliminate-russian-oil-refineries-military-bases-if-us-extends-help-with-intel-missiles-experts/",
     "source": "nypost",
@@ -2464,59 +2542,5 @@
     "link": "https://nypost.com/2025/10/02/us-news/trump-sharpens-ax-on-government-shutdown-day-two-with-thousands-of-federal-firings-planned/",
     "source": "nypost",
     "pubdate": "2025-10-02-22-55-39 +0000"
-  },
-  {
-    "headline": "‘A Crazy Moment’: Shock and Terror Spreads in Manchester Synagogue’s Community",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/manchester-synagogue-neighborhood.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-22-38-09 +0000"
-  },
-  {
-    "headline": "‘A Crazy Moment’: Shock and Terror Spreads in Manchester Synagogue’s Community",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/manchester-synagogue-neighborhood.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-22-38-09 +0000"
-  },
-  {
-    "headline": "Here's the latest design for the newly issued California driver's license",
-    "link": "https://www.latimes.com/california/story/2025-10-02/heres-the-latest-design-for-the-newly-issued-california-drivers-license",
-    "source": "latimes",
-    "pubdate": "2025-10-02-22-32-46 +0000"
-  },
-  {
-    "headline": "U.K. police may have shot 2 Manchester synagogue attack victims, officials say",
-    "link": "https://www.cbc.ca/news/world/manchester-synagogue-attack-police-shooting-1.7650095?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-02-22-24-30 +0000"
-  },
-  {
-    "headline": "Trump Name-Checks Project 2025 as He Threatens to Dismantle Agencies",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/trump-project-2025-vought.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-22-14-37 +0000"
-  },
-  {
-    "headline": "Trump Name-Checks Project 2025 as He Threatens to Dismantle Agencies",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/trump-project-2025-vought.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-22-14-37 +0000"
-  },
-  {
-    "headline": "Israeli officials rip ‘weak’ UK government for Manchester synagogue attack: ‘Failed to…curb this toxic wave of antisemitism’",
-    "link": "https://nypost.com/2025/10/02/world-news/israeli-officials-blame-uk-government-for-manchester-synagogue-attack-after-repeated-warnings-about-mounting-antisemitism/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-22-12-02 +0000"
-  },
-  {
-    "headline": "Are Democrats really pushing for free healthcare for undocumented migrants?",
-    "link": "https://www.bbc.com/news/articles/c3vzyl5x15ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-21-58-05 +0000"
-  },
-  {
-    "headline": "Senate tightens rules for language study trips",
-    "link": "https://www.cbc.ca/news/politics/senate-travel-rules-change-language-courses-1.7649781?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-02-21-55-03 +0000"
   }
 ]
