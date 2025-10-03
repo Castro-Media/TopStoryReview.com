@@ -1,31 +1,45 @@
 [
   {
-    "score": 160,
+    "score": 170,
     "pubdate": "2025-10-02-22-15-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb"
   },
   {
-    "score": 124,
-    "pubdate": "2025-10-02-22-24-30 +0000",
-    "source": "cbc",
-    "headline": "U.K. police say deadly rampage at Manchester synagogue was terrorist attack",
-    "link": "https://www.cbc.ca/news/world/uk-synagogue-incident-1.7648977?cmp=rss"
+    "score": 127,
+    "pubdate": "2025-10-03-07-13-06 +0000",
+    "source": "nypost",
+    "headline": "UK police name 2 victims of Manchester synagogue attack on Yom Kippur",
+    "link": "https://nypost.com/2025/10/03/world-news/uk-police-name-2-victims-of-manchester-synagogue-attack-on-yom-kippur/"
   },
   {
-    "score": 67,
+    "score": 68,
     "pubdate": "2025-10-02-21-25-48 +0000",
     "source": "nypost",
     "headline": "Ukraine pitches plan to help US sell American oil to Europe — icing out Russia and bringing in profits",
     "link": "https://nypost.com/2025/10/02/world-news/ukraine-pitches-plan-to-help-us-sell-american-oil-to-europe-and-ice-out-russia/"
   },
   {
-    "score": 49,
+    "score": 64,
+    "pubdate": "2025-10-03-00-45-00 +0000",
+    "source": "wsj",
+    "headline": "A multibillion-dollar deal to send Nvidia’s AI chips to the U.A.E. is stuck in neutral nearly five months after it was signed, frustrating CEO Jensen Huang and some senior administration officials",
+    "link": "https://www.wsj.com/politics/policy/nvidia-trump-uae-chip-deal-delay-c49aaa5c"
+  },
+  {
+    "score": 51,
     "pubdate": "2025-10-02-13-17-00 +0000",
     "source": "wsj",
     "headline": "Office of Management and Budget Director Russell Vought might be one of the shutdown’s biggest beneficiaries, as it gives him the chance to implement government cuts he has long advocated",
     "link": "https://www.wsj.com/politics/policy/russell-vought-omb-director-government-shutdown-6dd92725"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-10-03-10-46-15 +0000",
+    "source": "nypost",
+    "headline": "Sarah Mullally named the first female Archbishop of Canterbury in history of Church of England",
+    "link": "https://nypost.com/2025/10/03/world-news/church-of-england-sarah-mullally-named-new-archbishop-of-canterbury/"
   },
   {
     "score": 48,
@@ -42,31 +56,17 @@
     "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/"
   },
   {
-    "score": 46,
-    "pubdate": "2025-10-03-00-45-00 +0000",
-    "source": "wsj",
-    "headline": "A multibillion-dollar deal to send Nvidia’s AI chips to the U.A.E. is stuck in neutral nearly five months after it was signed, frustrating CEO Jensen Huang and some senior administration officials",
-    "link": "https://www.wsj.com/politics/policy/nvidia-trump-uae-chip-deal-delay-c49aaa5c"
+    "score": 45,
+    "pubdate": "2025-10-03-05-30-17 +0000",
+    "source": "bbc",
+    "headline": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
+    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
-    "pubdate": "2025-10-03-05-06-35 +0000",
-    "source": "nypost",
-    "headline": "Lost dog found 2,000 miles away from home after running away during a storm",
-    "link": "https://nypost.com/2025/10/03/lifestyle/lost-dog-found-2000-miles-away-from-home-after-running-away-during-a-storm/"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-10-02-13-36-04 +0000",
+    "score": 44,
+    "pubdate": "2025-10-03-09-01-11 +0000",
     "source": "nyt",
-    "headline": "A Family’s Global Efforts to Free the Only Nepali Kidnapped by Hamas",
-    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-10-02-23-26-41 +0000",
-    "source": "nyt",
-    "headline": "As Russian Drones Menace Europe, Putin Says Moscow Has No Plans to Invade",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/putin-russia-drones.html"
+    "headline": "She Speaks Trump’s Language: Meet Ukraine’s New Prime Minister",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-prime-minister-trump-war-svyrydenko.html"
   }
 ]
