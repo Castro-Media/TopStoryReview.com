@@ -1,34 +1,34 @@
 [
   {
-    "score": 151,
+    "score": 149,
     "pubdate": "2025-10-02-22-15-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb"
   },
   {
-    "score": 116,
+    "score": 114,
     "pubdate": "2025-10-03-07-13-06 +0000",
     "source": "nypost",
     "headline": "UK police name 2 victims of Manchester synagogue attack on Yom Kippur",
     "link": "https://nypost.com/2025/10/03/world-news/uk-police-name-2-victims-of-manchester-synagogue-attack-on-yom-kippur/"
   },
   {
-    "score": 80,
-    "pubdate": "2025-10-03-15-33-14 +0000",
+    "score": 76,
+    "pubdate": "2025-10-03-15-33-13 +0000",
     "source": "nyt",
     "headline": "Trump Sets Sunday Deadline for Hamas to Agree to Cease-fire Plan With Israel",
     "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html"
   },
   {
-    "score": 63,
-    "pubdate": "2025-10-03-00-45-00 +0000",
-    "source": "wsj",
-    "headline": "A multibillion-dollar deal to send Nvidia’s AI chips to the U.A.E. is stuck in neutral nearly five months after it was signed, frustrating CEO Jensen Huang and some senior administration officials",
-    "link": "https://www.wsj.com/politics/policy/nvidia-trump-uae-chip-deal-delay-c49aaa5c"
+    "score": 62,
+    "pubdate": "2025-10-03-05-30-17 +0000",
+    "source": "bbc",
+    "headline": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
+    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-10-02-21-25-48 +0000",
     "source": "nypost",
     "headline": "Ukraine pitches plan to help US sell American oil to Europe — icing out Russia and bringing in profits",
@@ -42,25 +42,18 @@
     "link": "https://www.latimes.com/politics/story/2025-10-03/supreme-court-will-decide-if-gun-owners-have-a-right-to-carry-in-parks-beaches-stores"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-03-16-17-17 +0000",
+    "score": 46,
+    "pubdate": "2025-10-03-10-46-15 +0000",
     "source": "nypost",
-    "headline": "Throng of glitzed-up Taylor Swift fans grab old-school CDs, vinyl at midnight release of pop star’s  ‘The Life of a Showgirl’ album",
-    "link": "https://nypost.com/2025/10/03/us-news/taylor-swift-fans-line-up-for-midnight-cd-copies-of-the-life-of-a-showgirl/"
+    "headline": "Sarah Mullally named the first female Archbishop of Canterbury in history of Church of England",
+    "link": "https://nypost.com/2025/10/03/world-news/church-of-england-sarah-mullally-named-new-archbishop-of-canterbury/"
   },
   {
     "score": 46,
-    "pubdate": "2025-10-03-16-20-02 +0000",
-    "source": "nyt",
-    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-10-03-11-33-16 +0000",
-    "source": "wapo",
-    "headline": "First woman is named archbishop of Canterbury, leader of Church of England",
-    "link": "https://www.washingtonpost.com/world/2025/10/03/archbishop-canterbury-first-woman-england/"
+    "pubdate": "2025-10-03-00-45-00 +0000",
+    "source": "wsj",
+    "headline": "A multibillion-dollar deal to send Nvidia’s AI chips to the U.A.E. is stuck in neutral nearly five months after it was signed, frustrating CEO Jensen Huang and some senior administration officials",
+    "link": "https://www.wsj.com/politics/policy/nvidia-trump-uae-chip-deal-delay-c49aaa5c"
   },
   {
     "score": 45,
@@ -68,5 +61,12 @@
     "source": "startribune",
     "headline": "Unemployed Minnesotans face longer job searches in ‘no hire, no fire’ market",
     "link": "https://www.startribune.com/long-term-unemployment-minnesota-labor-market-job-hire/601484513"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-10-03-01-22-00 +0000",
+    "source": "wsj",
+    "headline": "Senators on both sides of the aisle pressed the Pentagon’s top lawyer in a closed-door meeting to provide a better legal explanation for striking alleged Latin American drug boats in the Caribbean",
+    "link": "https://www.wsj.com/politics/national-security/lawmakers-from-both-sides-pressed-pentagon-on-legal-basis-for-cartel-boat-strikes-a61b9de0"
   }
 ]
