@@ -1,242 +1,170 @@
 [
   {
-    "headline": "Synagogue Attack on Yom Kippur in Manchester, UK: What We Know",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html",
+    "headline": "Man Killed in U.K. Synagogue Attack Was Accidentally Shot by Police",
+    "link": "https://www.wsj.com/world/uk/u-k-officers-killed-victim-in-synagogue-attack-by-accident-police-believe-25369d0b",
+    "source": "wsj",
+    "pubdate": "2025-10-03-11-50-00 +0000"
+  },
+  {
+    "headline": "Baltimore’s Billion-Dollar Plans to Reinvent Itself",
+    "link": "https://www.nytimes.com/2025/10/03/business/baltimore-inner-harbor-downtown-redevelopment.html",
     "source": "nyt",
-    "pubdate": "2025-10-03-10-51-56 +0000"
+    "pubdate": "2025-10-03-11-49-12 +0000"
   },
   {
-    "headline": "Labour just handmaidens to Reform, says Green leader",
-    "link": "https://www.bbc.com/news/articles/c708y9nq174o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-10-50-35 +0000"
-  },
-  {
-    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "headline": "Indonesia School Collapse Leaves Families Gripped by Grief and Fury",
+    "link": "https://www.nytimes.com/2025/10/03/world/asia/indonesia-school-collapse-families.html",
     "source": "nyt",
-    "pubdate": "2025-10-03-10-47-27 +0000"
+    "pubdate": "2025-10-03-11-39-50 +0000"
   },
   {
-    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "headline": "Indonesia School Collapse Leaves Families Gripped by Grief and Fury",
+    "link": "https://www.nytimes.com/2025/10/03/world/asia/indonesia-school-collapse-families.html",
     "source": "nyt",
-    "pubdate": "2025-10-03-10-47-27 +0000"
+    "pubdate": "2025-10-03-11-39-50 +0000"
   },
   {
-    "headline": "Sarah Mullally named the first female Archbishop of Canterbury in history of Church of England",
-    "link": "https://nypost.com/2025/10/03/world-news/church-of-england-sarah-mullally-named-new-archbishop-of-canterbury/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-10-46-15 +0000"
+    "headline": "Who Is Sarah Mullally, the Anglican Church’s First Female Leader?",
+    "link": "https://www.wsj.com/world/uk/who-is-sarah-mullally-the-anglican-churchs-first-female-leader-b78d6255",
+    "source": "wsj",
+    "pubdate": "2025-10-03-11-39-00 +0000"
+  },
+  {
+    "headline": "Europe to Push Back as Illegal Drone Incursions Multiply",
+    "link": "https://www.wsj.com/world/europe/munich-airport-pauses-flights-after-latest-europe-drone-sighting-a85bd9e9",
+    "source": "wsj",
+    "pubdate": "2025-10-03-11-35-00 +0000"
   },
   {
     "headline": "First woman is named archbishop of Canterbury, leader of Church of England",
     "link": "https://www.washingtonpost.com/world/2025/10/03/archbishop-canterbury-first-woman-england/",
     "source": "wapo",
-    "pubdate": "2025-10-03-10-45-31 +0000"
+    "pubdate": "2025-10-03-11-33-16 +0000"
   },
   {
-    "headline": "British police may have shot 2 of the Manchester synagogue attack victims, one fatally, officals say",
-    "link": "https://www.cbc.ca/news/world/manchester-synagogue-attack-police-shooting-1.7650095?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-03-10-44-43 +0000"
-  },
-  {
-    "headline": "Carle Place junior sets lofty sports goals in more ways than one",
-    "link": "https://nypost.com/2025/10/03/us-news/carle-place-junior-sets-lofty-sports-goals-in-more-ways-than-one/",
+    "headline": "Manchester victim was accidentally killed by police in panic to stop knife-wielding terrorist",
+    "link": "https://nypost.com/2025/10/03/world-news/manchester-victim-was-accidentally-killed-by-police-in-panic-to-stop-knife-wielding-terrorist/",
     "source": "nypost",
-    "pubdate": "2025-10-03-10-30-00 +0000"
-  },
-  {
-    "headline": "Japan faces Asahi beer shortage after cyber-attack",
-    "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-10-26-49 +0000"
-  },
-  {
-    "headline": "Japan faces Asahi beer shortage after cyber-attack",
-    "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-10-26-49 +0000"
-  },
-  {
-    "headline": "Japan faces Asahi beer shortage after cyber-attack",
-    "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-10-26-49 +0000"
-  },
-  {
-    "headline": "Drones sightings shut down Munich airport overnight",
-    "link": "https://www.washingtonpost.com/world/2025/10/03/munich-drones-airspace-nato-russia/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-10-25-48 +0000"
-  },
-  {
-    "headline": "Sarah Mullally becomes the first woman tasked to lead the Anglican Church",
-    "link": "https://www.cbc.ca/news/world/mullally-church-england-1.7650091?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-03-10-21-41 +0000"
-  },
-  {
-    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-21-14 +0000"
-  },
-  {
-    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-21-14 +0000"
+    "pubdate": "2025-10-03-11-32-54 +0000"
   },
   {
     "headline": "Pro-Palestinian protests 'un-British' after Manchester attack, Mahmood says",
     "link": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-03-10-17-04 +0000"
+    "pubdate": "2025-10-03-11-31-43 +0000"
   },
   {
-    "headline": "Munich airport reopens after drone sightings disrupt flights overnight",
-    "link": "https://www.cbc.ca/news/world/germany-munich-airport-drones-1.7650085?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-03-10-11-47 +0000"
-  },
-  {
-    "headline": "Sean ‘Diddy’ Combs set to learn sentence in sex crimes trial that exposed his depraved secrets",
-    "link": "https://nypost.com/2025/10/03/us-news/diddy-set-to-learn-sentence-in-hearing-for-blockbuster-sex-crimes-trial/",
+    "headline": "Jets to honor Long Island-based heroic veteran during Cowboys game",
+    "link": "https://nypost.com/2025/10/03/sports/jets-to-honor-long-island-based-heroic-veteran-during-cowboys-game/",
     "source": "nypost",
-    "pubdate": "2025-10-03-10-07-27 +0000"
+    "pubdate": "2025-10-03-11-30-00 +0000"
   },
   {
-    "headline": "What to Know About Japan’s Leadership Election",
-    "link": "https://www.nytimes.com/2025/10/03/world/asia/japan-election-leader-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-06-54 +0000"
+    "headline": "Swifties flock to Target stores for midnight ‘Showgirl’ release",
+    "link": "https://www.startribune.com/taylor-swift-life-of-showgirl-album-release-target-minnesota/601484398",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-22-35 +0000"
   },
   {
-    "headline": "What to Know About Japan’s Leadership Election",
-    "link": "https://www.nytimes.com/2025/10/03/world/asia/japan-election-leader-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-06-54 +0000"
-  },
-  {
-    "headline": "Behind the Gen Z protesters who want to force Madagascar's president from power",
-    "link": "https://www.bbc.com/news/articles/cz082y8j3jzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-10-04-57 +0000"
-  },
-  {
-    "headline": "Behind the Gen Z protesters who want to force Madagascar's president from power",
-    "link": "https://www.bbc.com/news/articles/cz082y8j3jzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-10-04-57 +0000"
-  },
-  {
-    "headline": "Contributor: Congress' Democrats are wildly unprepared to face down Trump",
-    "link": "https://www.latimes.com/opinion/story/2025-10-03/chuck-schumer-hakeem-jeffries-democrats-maga-trump",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-03-00 +0000"
-  },
-  {
-    "headline": "Manchester Synagogue Attack Fuels Fears of Antisemitism in Britain",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/britain-antisemitism-manchester.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-01-30 +0000"
-  },
-  {
-    "headline": "Manchester Synagogue Attack Fuels Fears of Antisemitism in Britain",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/britain-antisemitism-manchester.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-10-01-30 +0000"
-  },
-  {
-    "headline": "A Venezuelan singer won asylum. ICE detained him for two more months.",
-    "link": "https://www.washingtonpost.com/immigration/2025/10/03/asylum-venezuelan-singer-ice-detention/",
+    "headline": "One victim in Yom Kippur synagogue attack in England was shot dead by police",
+    "link": "https://www.washingtonpost.com/world/2025/10/03/synagogue-yom-kippur-attack-england/",
     "source": "wapo",
-    "pubdate": "2025-10-03-10-00-18 +0000"
+    "pubdate": "2025-10-03-11-21-21 +0000"
   },
   {
-    "headline": "Shutdown stretches on as lawmakers continue informal bipartisan talks",
-    "link": "https://www.washingtonpost.com/business/2025/10/03/shutdown-bipartisan-talks-funding-bills/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-10-00-15 +0000"
+    "headline": "Hamas Still Considering Trump Gaza Plan but Rejects ‘Take It or Leave It’ Deal",
+    "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-11-20-06 +0000"
   },
   {
-    "headline": "What Jane Goodall’s work with chimps can teach us about investing",
-    "link": "https://www.washingtonpost.com/business/2025/10/03/jane-goodall-investing-lessons/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-10-00-14 +0000"
+    "headline": "Hamas Still Considering Trump Gaza Plan but Rejects ‘Take It or Leave It’ Deal",
+    "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-11-20-06 +0000"
   },
   {
-    "headline": "AI will trigger financial calamity. It’ll also remake world.",
-    "link": "https://www.washingtonpost.com/business/2025/10/03/ai-will-trigger-financial-calamity-itll-also-remake-world/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-10-00-08 +0000"
+    "headline": "Man Killed in U.K. Synagogue Attack Was Accidentally Shot by Police",
+    "link": "https://www.wsj.com/world/uk/u-k-officers-killed-victim-in-synagogue-attack-by-accident-police-believe-25369d0b",
+    "source": "wsj",
+    "pubdate": "2025-10-03-11-01-00 +0000"
   },
   {
-    "headline": "A historic housing bill is on Newsom's desk. Cities are scrambling to figure out how it works",
-    "link": "https://www.latimes.com/california/story/2025-10-03/upzoning-story",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
+    "headline": "Unemployed Minnesotans face longer job searches as labor market tightens",
+    "link": "https://www.startribune.com/long-term-unemployment-minnesota-labor-market-job-hire/601484513",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-01-00 +0000"
   },
   {
-    "headline": "She went to get her green card and now faces deportation. Did the feds trick her?",
-    "link": "https://www.latimes.com/california/story/2025-10-03/film-director-brazil-detained-by-ice-green-card-interview",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
+    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-11-00-46 +0000"
   },
   {
-    "headline": "Millions rely on dwindling Colorado River — but are kept 'in the dark' about fixes, critics say",
-    "link": "https://www.latimes.com/environment/story/2025-10-03/colorado-river-impasse",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
+    "headline": "Police Accidentally Shot and Killed a Victim During Manchester Terrorist Attack",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-11-00-46 +0000"
   },
   {
-    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
-    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
+    "headline": "This small group of lawmakers is in the middle of the gun rights debate after Annunciation",
+    "link": "https://www.startribune.com/after-annunciation-shooting-swing-district-lawmakers-confront-thorny-politics-of-guns/601482794",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-00-01 +0000"
   },
   {
-    "headline": "Arellano: L.A.'s federal public defender says Trump has inundated his office with immigration cases",
-    "link": "https://www.latimes.com/california/story/2025-10-03/cuauhtemoc-ortega-federal-public-defender",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
+    "headline": "S.F. residents want cops on the street. SFPD only staffs 1/3 of its foot beats.",
+    "link": "https://missionlocal.org/2025/10/s-f-wants-cops-on-the-street-sfpd-only-staffs-1-3-of-its-foot-beats/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-03-11-00-00 +0000"
   },
   {
-    "headline": "These founders want to create a private sector DOGE",
-    "link": "https://nypost.com/2025/10/03/business/the-antifraud-company-aims-to-be-a-private-sector-doge/",
+    "headline": "High school football players worth knowing: These 15 are coming on strong",
+    "link": "https://www.startribune.com/high-school-football-under-radar-players-minnesota-jim-paulsen-strib-varsity/601482662",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-00-00 +0000"
+  },
+  {
+    "headline": "Clinic on wheels brings acupuncture, pain relief to opioid overdose hot spots",
+    "link": "https://www.startribune.com/clinic-on-wheels-brings-acupuncture-pain-relief-alternatives-to-opioid-overdose-hot-spots/601484543",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-00-00 +0000"
+  },
+  {
+    "headline": "U.S. Bank retools a leaner Minnesota branch network to be more useful in a digital age",
+    "link": "https://www.startribune.com/us-bank-retools-a-leaner-minnesota-branch-network-to-be-more-useful-in-a-digital-age/601479451",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-00-00 +0000"
+  },
+  {
+    "headline": "Minneapolis’ Witch’s Hat has a fascinating history. Will it ever reopen to the public?",
+    "link": "https://www.startribune.com/minneapolis-historic-stone-water-towers/601483475",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-00-00 +0000"
+  },
+  {
+    "headline": "The 5 best things our food writers ate this week",
+    "link": "https://www.startribune.com/the-5-best-things-our-food-writers-ate-this-week/601478996",
+    "source": "startribune",
+    "pubdate": "2025-10-03-11-00-00 +0000"
+  },
+  {
+    "headline": "SEC Probes Scientology Connections at Startup Stock Exchange",
+    "link": "https://www.wsj.com/finance/regulation/sec-probes-scientology-connections-at-startup-stock-exchange-cbb4312d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-03-11-00-00 +0000"
+  },
+  {
+    "headline": "Woman caught on camera allegedly lunging at MAGA activist in viral confrontation",
+    "link": "https://nypost.com/2025/10/03/us-news/woman-caught-on-camera-allegedly-lunging-at-maga-activist-in-viral-confrontation/",
     "source": "nypost",
-    "pubdate": "2025-10-03-10-00-00 +0000"
+    "pubdate": "2025-10-03-10-58-08 +0000"
   },
   {
-    "headline": "Inside the legal spat between one of the world’s richest men and his longtime interior designer",
-    "link": "https://nypost.com/2025/10/03/business/inside-the-legal-spat-between-billionaire-jan-koum-and-interior-designer-remi-tessier/",
+    "headline": "Woman caught on camera allegedly lunging at MAGA activist in viral confrontation",
+    "link": "https://nypost.com/2025/10/03/us-news/woman-caught-on-camera-allegedly-lunging-at-maga-activist-in-viral-confrontation/",
     "source": "nypost",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Flying taxis are coming to L.A. This developer is already picking places to land them",
-    "link": "https://www.latimes.com/business/story/2025-10-03/the-hunt-is-on-for-flying-taxi-landing-sites",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Shutdown delays jobs report, obscuring potential economic problems",
-    "link": "https://www.washingtonpost.com/business/2025/10/03/shutdown-economy-jobs-data-labor-department/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
-    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Texas sheriff arrested by his own deputies, now faces new charge for lying to grand jury",
-    "link": "https://nypost.com/2025/10/03/us-news/texas-sheriff-adam-king-arrested-by-his-own-deputies-now-faces-new-charge-for-lying-to-grand-jury/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-09-59-33 +0000"
+    "pubdate": "2025-10-03-10-58-08 +0000"
   }
 ]
