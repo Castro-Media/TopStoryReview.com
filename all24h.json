@@ -1,45 +1,489 @@
 [
   {
-    "headline": "Heartless thief robs 10-year-old of piggy bank money at knife point in sick Brooklyn hold-up",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza/hamas-hostage-release-gaza-trump",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-48-12 +0000"
+  },
+  {
+    "headline": "Government will remain closed as Senate again votes down funding extension",
+    "link": "https://www.washingtonpost.com/business/2025/10/03/shutdown-bipartisan-talks-funding-bills/",
+    "source": "wapo",
+    "pubdate": "2025-10-03-20-47-12 +0000"
+  },
+  {
+    "headline": "Live Updates: Hamas Agrees to Release Hostages but Seeks Talks on Gaza Cease-Fire Plan",
+    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-46-37 +0000"
+  },
+  {
+    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-46-35 +0000"
+  },
+  {
+    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-46-35 +0000"
+  },
+  {
+    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-46-35 +0000"
+  },
+  {
+    "headline": "How Trump Used Fury Over Israel’s Qatar Attack to Push Netanyahu on Gaza",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-46-35 +0000"
+  },
+  {
+    "headline": "Watch: Nasa research equipment accidentally lands on Texas farm",
+    "link": "https://www.bbc.com/news/videos/c784ygw4lnzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-20-46-02 +0000"
+  },
+  {
+    "headline": "Journalists at 3 Alaska Newspapers Quit Over Charlie Kirk Story",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/alaska-newspapers-resignations-charlie-kirk.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-44-26 +0000"
+  },
+  {
+    "headline": "Journalists at 3 Alaska Newspapers Quit Over Charlie Kirk Story",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/alaska-newspapers-resignations-charlie-kirk.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-44-26 +0000"
+  },
+  {
+    "headline": "Sean ‘Diddy’ Combs Sentenced to More Than Four Years in Prison",
+    "link": "https://www.wsj.com/us-news/diddy-sean-combs-sentencing-cb02fc3f",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-44-00 +0000"
+  },
+  {
+    "headline": "Sean ‘Diddy’ Combs sentenced to more than 4 years in prison after salacious trial exposed mogul’s reign of terror",
+    "link": "https://nypost.com/2025/10/03/us-news/sean-diddy-combs-sentenced-to-more-than-4-years-prison-after-salacious-trial-exposed-moguls-reign-of-terror/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-20-41-31 +0000"
+  },
+  {
+    "headline": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-20-40-56 +0000"
+  },
+  {
+    "headline": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-20-40-56 +0000"
+  },
+  {
+    "headline": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-20-40-56 +0000"
+  },
+  {
+    "headline": "Opinion | How Politics Became a Legal Battlefield",
+    "link": "https://www.wsj.com/opinion/how-politics-became-a-legal-battlefield-bb636c22",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-39-00 +0000"
+  },
+  {
+    "headline": "Opinion | GM Changes Its Song and Dance on EVs",
+    "link": "https://www.wsj.com/opinion/gm-changes-its-song-and-dance-on-evs-35a40856",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-38-00 +0000"
+  },
+  {
+    "headline": "Opinion | States Need to Clean Up Their Food-Stamp Programs",
+    "link": "https://www.wsj.com/opinion/states-need-to-clean-up-their-food-stamp-programs-8ab2debf",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-38-00 +0000"
+  },
+  {
+    "headline": "Opinion | GM Changes Its Song and Dance on EVs",
+    "link": "https://www.wsj.com/opinion/gm-changes-its-song-and-dance-on-evs-35a40856?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-38-00 +0000"
+  },
+  {
+    "headline": "Former Dem Newark City councilman says he can’t back Rep. Mikie Sherrill in NJ governor’s race",
+    "link": "https://nypost.com/2025/10/03/us-news/former-dem-newark-city-councilman-says-he-cant-back-rep-mikie-sherrill-in-nj-governors-race/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-20-37-18 +0000"
+  },
+  {
+    "headline": "Opinion | The Global Intifada Has Arrived in England",
+    "link": "https://www.wsj.com/opinion/the-global-intifada-has-arrived-in-england-81778115",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-37-00 +0000"
+  },
+  {
+    "headline": "Hamas accepts Trump’s plan to end Israel’s war in Gaza but with conditions",
+    "link": "https://www.washingtonpost.com/world/2025/10/03/hamas-gaza-peace-ceasefire-deal/",
+    "source": "wapo",
+    "pubdate": "2025-10-03-20-36-59 +0000"
+  },
+  {
+    "headline": "Arizona Man Is Arrested in Murders of 2 Teens at Tonto National Forest",
+    "link": "https://www.nytimes.com/2025/10/03/us/arizona-murders-tonto-national-forests.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-36-32 +0000"
+  },
+  {
+    "headline": "Opinion | How Catholics Can Solve the Vocations Crisis",
+    "link": "https://www.wsj.com/opinion/how-catholics-can-solve-the-vocations-crisis-clarity-women-church-b5cf1c96",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-36-00 +0000"
+  },
+  {
+    "headline": "Opinion | Let the Market Do Its Thing",
+    "link": "https://www.wsj.com/opinion/let-the-market-do-its-thing-energy-supply-wind-solar-fc35b5af?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-34-00 +0000"
+  },
+  {
+    "headline": "Opinion | Lamont’s Risky Pension Play",
+    "link": "https://www.wsj.com/opinion/ned-lamonts-costly-air-ball-pensions-funds-wnba-2962b7e3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-34-00 +0000"
+  },
+  {
+    "headline": "Precious metals dealer reports $50,000 theft while on bathroom break at Edina hotel",
+    "link": "https://www.startribune.com/precious-metals-dealer-reports-50000-theft-while-on-bathroom-break-in-edina-hotel/601485658",
+    "source": "startribune",
+    "pubdate": "2025-10-03-20-31-56 +0000"
+  },
+  {
+    "headline": "The Trump administration has frozen $2.1 billion in federal funds allocated for Chicago in its latest budgetary maneuver targeting Democratic priorities during the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-chicago-federal-funds-russell-vought-02052c4b",
+    "source": "wsj",
+    "pubdate": "2025-10-03-20-27-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/us/trump-news-government-shutdown/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-20-20 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/us/trump-news-government-shutdown/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-20-20 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/03/world/hamas-hostages-israel-gaza/hamas-hostage-release-gaza-trump",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-16-56 +0000"
+  },
+  {
+    "headline": "Marc Rowan, a Billionaire Financier, Is Behind Trump’s Deal for Universities",
+    "link": "https://www.nytimes.com/2025/10/03/us/billionaire-marc-rowan-trump-deal-universities.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-10-18 +0000"
+  },
+  {
+    "headline": "After Stabbing of Ukrainian Refugee, North Carolina Passes Crime Bill",
+    "link": "https://www.nytimes.com/2025/10/03/us/north-carolina-crime-bill-stein.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-20-03-32 +0000"
+  },
+  {
+    "headline": "Hamas agrees to release all Israeli hostages under Trump Gaza peace deal, enter negotiations to end war",
+    "link": "https://nypost.com/2025/10/03/world-news/hamas-agrees-to-release-all-israeli-hostages-under-trump-gaza-peace-deal/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-20-03-20 +0000"
+  },
+  {
+    "headline": "Statue of Trump and Epstein Holding Hands Returns to National Mall",
+    "link": "https://www.nytimes.com/2025/10/03/us/donald-trump-jeffrey-epstein-statue-washington.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-57-04 +0000"
+  },
+  {
+    "headline": "US to release special Trump silver dollar to celebrate America’s 250th",
+    "link": "https://nypost.com/2025/10/03/us-news/us-treasurer-confirms-plans-for-trump-silver-dollar-to-celebrate-americas-250th/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-19-53-47 +0000"
+  },
+  {
+    "headline": "US to release special Trump silver dollar to celebrate America’s 250th",
+    "link": "https://nypost.com/2025/10/03/us-news/us-treasurer-confirms-plans-for-trump-silver-dollar-to-celebrate-americas-250th/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-19-53-47 +0000"
+  },
+  {
+    "headline": "Body Camera Video Shows Police Confronting Michigan Church Gunman",
+    "link": "https://www.nytimes.com/2025/10/03/us/michigan-church-attack-body-camera-video.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-50-54 +0000"
+  },
+  {
+    "headline": "Starmer tells protesters to 'respect grief of British Jews'",
+    "link": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-19-50-00 +0000"
+  },
+  {
+    "headline": "TikTok pushes porn and sexual content to 13-year-olds’ accounts, disturbing report claims",
+    "link": "https://nypost.com/2025/10/03/business/tiktok-pushes-porn-sexual-content-to-13-year-olds-accounts-report/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-19-44-49 +0000"
+  },
+  {
+    "headline": "The White House says California uses a 'loophole' to give undocumented immigrants Medicaid. Experts disagree",
+    "link": "https://www.latimes.com/environment/story/2025-10-03/the-white-house-says-california-uses-a-loophole-to-give-undocumented-immigrants-medicaid-experts-disagree",
+    "source": "latimes",
+    "pubdate": "2025-10-03-19-44-37 +0000"
+  },
+  {
+    "headline": "The White House says California uses a 'loophole' to give undocumented immigrants Medicaid. Experts disagree",
+    "link": "https://www.latimes.com/environment/story/2025-10-03/the-white-house-says-california-uses-a-loophole-to-give-undocumented-immigrants-medicaid-experts-disagree",
+    "source": "latimes",
+    "pubdate": "2025-10-03-19-44-37 +0000"
+  },
+  {
+    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-41-21 +0000"
+  },
+  {
+    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-41-21 +0000"
+  },
+  {
+    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-41-21 +0000"
+  },
+  {
+    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-41-21 +0000"
+  },
+  {
+    "headline": "How Video Games Are Shaping a Generation of Boys, for Better and Worse",
+    "link": "https://www.nytimes.com/2025/10/03/upshot/video-games-boys-young-men.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-40-17 +0000"
+  },
+  {
+    "headline": "Gen-Z protests are spreading globally. What's driving this youth-led movement?",
+    "link": "https://www.cbc.ca/news/world/gen-z-protests-1.7649127?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-03-19-39-25 +0000"
+  },
+  {
+    "headline": "$20+ monthly members get a free ticket to our Gala! Join us",
+    "link": "https://48hills.org/2025/10/20-monthly-members-get-a-free-ticket-to-our-gala-join-us/",
+    "source": "48hills",
+    "pubdate": "2025-10-03-19-37-44 +0000"
+  },
+  {
+    "headline": "Trump ordered another lethal military strike on an alleged drug-trafficking boat in the Caribbean, signaling the administration is undeterred by mounting legal questions about the campaign",
+    "link": "https://www.wsj.com/politics/national-security/u-s-strikes-boat-off-venezuela-amid-questions-over-action-against-drug-gangs-6a8c83aa",
+    "source": "wsj",
+    "pubdate": "2025-10-03-19-37-00 +0000"
+  },
+  {
+    "headline": "Hamas Looks to Avoid ‘Take It or Leave It’ on Trump Proposal",
+    "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-35-44 +0000"
+  },
+  {
+    "headline": "Hamas Looks to Avoid ‘Take It or Leave It’ on Trump Proposal",
+    "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-35-44 +0000"
+  },
+  {
+    "headline": "Only victim set to speak at Sean ‘Diddy’ Combs’ sentencing was scared off by ‘bullying’ letter from his legal team: feds",
+    "link": "https://nypost.com/2025/10/03/us-news/only-victim-set-to-speak-at-sean-diddy-combs-sentencing-was-scared-off-by-bullying-letter-from-his-team-feds/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-19-34-23 +0000"
+  },
+  {
+    "headline": "Synagogue Attack on Yom Kippur in Manchester, UK: What We Know",
+    "link": "https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-32-56 +0000"
+  },
+  {
+    "headline": "Lally Weymouth, Who Questioned Dictators and Hosted High Society, Dies at 82",
+    "link": "https://www.wsj.com/business/media/lally-graham-weymouth-journalist-washington-post-446d1204?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-03-19-30-00 +0000"
+  },
+  {
+    "headline": "Lally Weymouth was known for her tough questioning of news subjects, and almost as much for her lavish parties",
+    "link": "https://www.wsj.com/business/media/lally-graham-weymouth-journalist-washington-post-446d1204",
+    "source": "wsj",
+    "pubdate": "2025-10-03-19-30-00 +0000"
+  },
+  {
+    "headline": "Large Fire Burns at Chevron Refinery in El Segundo After Explosion",
+    "link": "https://www.nytimes.com/2025/10/03/us/el-segundo-refinery-fire-chevron.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-29-50 +0000"
+  },
+  {
+    "headline": "Putin Warns West as Drones Appear in European Skies",
+    "link": "https://www.wsj.com/world/europe/putin-warns-west-as-drones-appear-in-european-skies-1e8cb3ba",
+    "source": "wsj",
+    "pubdate": "2025-10-03-19-28-00 +0000"
+  },
+  {
+    "headline": "As Political Violence Rises, Justice Kavanaugh’s Would-Be Assassin to Be Sentenced",
+    "link": "https://www.nytimes.com/2025/10/03/us/supreme-court-assassination-attempt-sentencing.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-17-49 +0000"
+  },
+  {
+    "headline": "Kennedy’s Ties to Ally Leading Vaccine Lawsuits Raise Ethical Concerns",
+    "link": "https://www.nytimes.com/2025/10/03/health/kennedy-aaron-siri-vaccines-lawsuits.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-13-36 +0000"
+  },
+  {
+    "headline": "Kennedy’s Ties to Ally Leading Vaccine Lawsuits Raise Ethical Concerns",
+    "link": "https://www.nytimes.com/2025/10/03/health/kennedy-aaron-siri-vaccines-lawsuits.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-13-36 +0000"
+  },
+  {
+    "headline": "Somali activist Omar Jamal says he’s confident he won’t be deported",
+    "link": "https://www.startribune.com/somali-activist-omar-jamal-says-hes-confident-he-wont-be-deported/601485342",
+    "source": "startribune",
+    "pubdate": "2025-10-03-19-11-19 +0000"
+  },
+  {
+    "headline": "Newly promoted NYPD sergeant becomes fourth in his blue blood family to attain the title: ‘Something we all grew into’",
+    "link": "https://nypost.com/2025/10/03/us-news/newly-promoted-nypd-sergeant-becomes-fourth-in-his-blue-blood-family-to-attain-the-title-something-we-all-grew-into/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-19-09-52 +0000"
+  },
+  {
+    "headline": "Senators Again Block Plans to Reopen Government as Shutdown Drags On",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/senate-government-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-06-56 +0000"
+  },
+  {
+    "headline": "Senators Again Block Plans to Reopen Government as Shutdown Drags On",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/senate-government-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-06-56 +0000"
+  },
+  {
+    "headline": "U.S. kills 4 alleged drug smugglers near Venezuela, Hegseth says",
+    "link": "https://www.washingtonpost.com/national-security/2025/10/03/hegseth-venezuela-drug-strike/",
+    "source": "wapo",
+    "pubdate": "2025-10-03-19-05-43 +0000"
+  },
+  {
+    "headline": "Groups File Suit Over Trump’s $100,000 H-1B Visa Fee",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/h-1b-visa-fee-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-04-22 +0000"
+  },
+  {
+    "headline": "Groups File Suit Over Trump’s $100,000 H-1B Visa Fee",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/h-1b-visa-fee-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-04-22 +0000"
+  },
+  {
+    "headline": "Groups File Suit Over Trump’s $100,000 H-1B Visa Fee",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/h-1b-visa-fee-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-04-22 +0000"
+  },
+  {
+    "headline": "With the prosecution of former FBI director James Comey, President Trump is waging ‘lawfare’—after being its target himself, writes Andrew C. McCarthy.",
+    "link": "https://www.wsj.com/politics/trump-is-waging-lawfareafter-being-its-target-himself-c783fa1f",
+    "source": "wsj",
+    "pubdate": "2025-10-03-19-03-00 +0000"
+  },
+  {
+    "headline": "Fired Prosecutor Assails Justice Dept.’s Pursuit of Trump’s Enemies",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-michael-benary-letter-comey.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-02-11 +0000"
+  },
+  {
+    "headline": "Fired Prosecutor Assails Justice Dept.’s Pursuit of Trump’s Enemies",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-michael-benary-letter-comey.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-19-02-11 +0000"
+  },
+  {
+    "headline": "These fans grew up going to Chi-Chi’s. Here’s what they want from the new one.",
+    "link": "https://www.startribune.com/these-fans-grew-up-going-to-chi-chis-heres-what-they-want-from-the-new-one/601485362",
+    "source": "startribune",
+    "pubdate": "2025-10-03-19-00-00 +0000"
+  },
+  {
+    "headline": "Screams erupted from Queens home before deranged man allegedly killed mother-in-law, wounded teen",
+    "link": "https://nypost.com/2025/10/03/us-news/queens-woman-was-the-boss-of-home-where-son-in-law-killed-her/",
+    "source": "nypost",
+    "pubdate": "2025-10-03-18-57-51 +0000"
+  },
+  {
+    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-18-56-43 +0000"
+  },
+  {
+    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-18-56-43 +0000"
+  },
+  {
+    "headline": "U.S. Research Focus in the Arctic Shifts: Less Climate, More Security",
+    "link": "https://www.nytimes.com/2025/10/03/climate/arctic-research-security.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-18-52-42 +0000"
+  },
+  {
+    "headline": "California gave counties power to inspect ICE detention centers. They're not using it",
+    "link": "https://www.latimes.com/california/story/2025-10-03/california-gave-counties-power-to-inspect-ice-detention-centers-theyre-not-using-it",
+    "source": "latimes",
+    "pubdate": "2025-10-03-18-52-08 +0000"
+  },
+  {
+    "headline": "Trump and Carney to Hold Tariff and Security Talks in D.C.",
+    "link": "https://www.nytimes.com/2025/10/03/world/canada/trump-carney-meeting-tariffs-canada.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-18-51-03 +0000"
+  },
+  {
+    "headline": "Trump and Carney to Hold Tariff and Security Talks in D.C.",
+    "link": "https://www.nytimes.com/2025/10/03/world/canada/trump-carney-meeting-tariffs-canada.html",
+    "source": "nyt",
+    "pubdate": "2025-10-03-18-51-03 +0000"
+  },
+  {
+    "headline": "Heartless thief robs 10-year-old of piggy bank money at knifepoint in sick Brooklyn hold-up",
     "link": "https://nypost.com/2025/10/03/us-news/10-year-old-robbed-at-knifepoint-in-crown-heights-gives-up-20-from-piggy-bank/",
     "source": "nypost",
     "pubdate": "2025-10-03-18-46-42 +0000"
-  },
-  {
-    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-40-18 +0000"
-  },
-  {
-    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-40-18 +0000"
-  },
-  {
-    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-39-42 +0000"
-  },
-  {
-    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-39-42 +0000"
-  },
-  {
-    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-39-42 +0000"
-  },
-  {
-    "headline": "U.S. Military Attacked Boat Off Venezuela, Killing Four Men, Hegseth Says",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/hegseth-military-boat-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-39-42 +0000"
   },
   {
     "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
@@ -64,24 +508,6 @@
     "link": "https://missionlocal.org/2025/10/sfpd-posts-50k-reward-for-info-on-2012-mission-district-homicide/",
     "source": "missionlocal",
     "pubdate": "2025-10-03-18-31-39 +0000"
-  },
-  {
-    "headline": "Trump gives Hamas Sunday deadline to accept Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-18-28-36 +0000"
-  },
-  {
-    "headline": "Trump gives Hamas Sunday deadline to accept Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-18-28-36 +0000"
-  },
-  {
-    "headline": "Trump gives Hamas Sunday deadline to accept Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-18-28-36 +0000"
   },
   {
     "headline": "Manchester Synagogue Terrorist Was Under Investigation for Rape",
@@ -126,34 +552,10 @@
     "pubdate": "2025-10-03-18-22-12 +0000"
   },
   {
-    "headline": "The Trump administration has frozen $2.1 billion in federal funds allocated for Chicago in its latest budgetary maneuver targeting Democratic priorities during the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-chicago-federal-funds-russell-vought-02052c4b",
-    "source": "wsj",
-    "pubdate": "2025-10-03-18-18-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/03/us/trump-news-government-shutdown/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-17-45 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/03/us/trump-news-government-shutdown/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-17-45 +0000"
-  },
-  {
     "headline": "Lorde off Apple Music in Israel after yelling ‘free f–king Palestine’ at NYC show",
     "link": "https://nypost.com/2025/10/03/business/lorde-off-apple-music-in-israel-after-free-f-king-palestine-at-nyc-show/",
     "source": "nypost",
     "pubdate": "2025-10-03-18-16-44 +0000"
-  },
-  {
-    "headline": "Statue of Trump and Epstein Holding Hands Returns to National Mall",
-    "link": "https://www.nytimes.com/2025/10/03/us/donald-trump-jeffrey-epstein-statue-washington.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-16-31 +0000"
   },
   {
     "headline": "Man dead, another injured after helicopter crash at Australian airport",
@@ -168,22 +570,10 @@
     "pubdate": "2025-10-03-18-15-00 +0000"
   },
   {
-    "headline": "Precious metals dealer reports $50,000 theft while on bathroom break in Edina hotel",
-    "link": "https://www.startribune.com/precious-metals-dealer-reports-50000-theft-while-on-bathroom-break-in-edina-hotel/601485658",
-    "source": "startribune",
-    "pubdate": "2025-10-03-18-12-07 +0000"
-  },
-  {
     "headline": "Trump directs admin to review federal funding to Portland amid anti-ICE ‘anarchy,’ Leavitt says",
     "link": "https://nypost.com/2025/10/03/us-news/trump-directs-admin-to-review-federal-funding-to-portland-amid-anti-ice-anarchy-leavitt-says/",
     "source": "nypost",
     "pubdate": "2025-10-03-18-11-25 +0000"
-  },
-  {
-    "headline": "Body Camera Video Shows Police Confronting Michigan Church Gunman",
-    "link": "https://www.nytimes.com/2025/10/03/us/michigan-church-attack-body-camera-video.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-18-10-21 +0000"
   },
   {
     "headline": "Drizzly, windy weather ahead for Southern California. Here's how long it will last",
@@ -216,10 +606,10 @@
     "pubdate": "2025-10-03-17-58-37 +0000"
   },
   {
-    "headline": "Trump ordered another lethal military strike on an alleged drug-trafficking boat in the Caribbean, signaling the administration is undeterred by mounting legal questions about the campaign",
-    "link": "https://www.wsj.com/politics/national-security/u-s-strikes-boat-off-venezuela-amid-questions-over-action-against-drug-gangs-6a8c83aa",
-    "source": "wsj",
-    "pubdate": "2025-10-03-17-57-00 +0000"
+    "headline": "Four killed in latest US strike on alleged drug vessel near Venezuela",
+    "link": "https://www.bbc.com/news/articles/cn0xvpxk9dqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-03-17-58-37 +0000"
   },
   {
     "headline": "SPLC helped train Biden’s DOJ prosecutors, had exclusive access to hate crimes data: bombshell records",
@@ -240,12 +630,6 @@
     "pubdate": "2025-10-03-17-54-03 +0000"
   },
   {
-    "headline": "U.S. kills 4 alleged drug smugglers near Venezuela, Hegseth says",
-    "link": "https://www.washingtonpost.com/national-security/2025/10/03/hegseth-venezuela-drug-strike/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-17-53-49 +0000"
-  },
-  {
     "headline": "Sean ‘Diddy’ Combs shown feeding hospital patients, playing with kids in cringey video played at NYC sentencing",
     "link": "https://nypost.com/2025/10/03/us-news/sean-diddy-combs-portrayed-as-hero-to-kids-generous-philanthropist-in-bizarre-video-played-at-nyc-sentencing/",
     "source": "nypost",
@@ -256,12 +640,6 @@
     "link": "https://nypost.com/2025/10/03/business/sec-probes-startup-dream-exchange-over-alleged-scientology-links-report/",
     "source": "nypost",
     "pubdate": "2025-10-03-17-42-23 +0000"
-  },
-  {
-    "headline": "Large Fire Burns at Chevron Refinery in El Segundo After Explosion",
-    "link": "https://www.nytimes.com/2025/10/03/us/el-segundo-refinery-fire-chevron.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-17-40-52 +0000"
   },
   {
     "headline": "Charlie Kirk assassination case weak spots revealed as experts assess prosecution of Tyler Robinson",
@@ -336,22 +714,10 @@
     "pubdate": "2025-10-03-17-25-57 +0000"
   },
   {
-    "headline": "Synagogue Attack on Yom Kippur in Manchester, UK: What We Know",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-17-09-49 +0000"
-  },
-  {
     "headline": "US boat strike kills 4 alleged ‘narco-terrorists’ off Venezuela, Pete Hegseth says",
     "link": "https://nypost.com/2025/10/03/us-news/us-boat-strike-kills-4-alleged-narco-terrorists-off-venezuela-pete-hegseth-says/",
     "source": "nypost",
     "pubdate": "2025-10-03-17-09-43 +0000"
-  },
-  {
-    "headline": "Pro-Palestinian protests 'un-British' after Manchester attack, Mahmood says",
-    "link": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-17-09-15 +0000"
   },
   {
     "headline": "NYC Halloween 2025: The scary best ways to celebrate spooky season in ghoulish Gotham — all October long",
@@ -372,7 +738,7 @@
     "pubdate": "2025-10-03-17-01-07 +0000"
   },
   {
-    "headline": "Prop. E was supposed to rein-in mayoral power, instead, it’s recommending the opposite.",
+    "headline": "Prop. E was supposed to rein in mayoral power. Instead, it’s recommending the opposite.",
     "link": "https://missionlocal.org/2025/10/sf-prop-e-commission-streamlining-gets-messy/",
     "source": "missionlocal",
     "pubdate": "2025-10-03-17-00-00 +0000"
@@ -594,12 +960,6 @@
     "pubdate": "2025-10-03-15-43-16 +0000"
   },
   {
-    "headline": "How Video Games Are Shaping a Generation of Boys, for Better and Worse",
-    "link": "https://www.nytimes.com/2025/10/03/upshot/video-games-boys-young-men.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-41-44 +0000"
-  },
-  {
     "headline": "Why Are H-1B Visas Suddenly a Big Deal? One Reason: Tech Jobs Disappeared",
     "link": "https://www.nytimes.com/2025/10/03/business/h1b-visas-tech-jobs-layoffs.html",
     "source": "nyt",
@@ -648,12 +1008,6 @@
     "pubdate": "2025-10-03-15-28-34 +0000"
   },
   {
-    "headline": "Sean ‘Diddy’ Combs booked speaking event for next week — despite facing decade in prison at NYC sentencing: ‘Height of hubris’",
-    "link": "https://nypost.com/2025/10/03/us-news/sean-diddy-combs-has-speaking-events-booked-for-next-week-feds-reveal-at-his-prostitution-sentencing/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-15-27-23 +0000"
-  },
-  {
     "headline": "Overlooked No More: Bessie Margolin, Lawyer Who Turned Workers’ Hopes Into Law",
     "link": "https://www.nytimes.com/2025/10/02/obituaries/bessie-margolin-overlooked.html",
     "source": "nyt",
@@ -678,19 +1032,7 @@
     "pubdate": "2025-10-03-15-19-47 +0000"
   },
   {
-    "headline": "Hamas Looks to Avoid ‘Take It or Leave It’ on Trump Proposal",
-    "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-15-14 +0000"
-  },
-  {
-    "headline": "Hamas Looks to Avoid ‘Take It or Leave It’ on Trump Proposal",
-    "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-15-14 +0000"
-  },
-  {
-    "headline": "Trump Sets Sunday Evening Deadline for Hamas to Agree to Peace Deal",
+    "headline": "Hamas Agrees to Release Gaza Hostages, but Sets Conditions",
     "link": "https://www.wsj.com/world/middle-east/trump-hamas-deadline-israel-hostages-bbd88db4",
     "source": "wsj",
     "pubdate": "2025-10-03-15-15-00 +0000"
@@ -702,40 +1044,16 @@
     "pubdate": "2025-10-03-15-13-49 +0000"
   },
   {
-    "headline": "Trump admin reinstates $187M in counterterrorism funding grants to NY following uproar",
-    "link": "https://nypost.com/2025/10/03/us-news/trump-admin-reinstates-187m-in-counterterrorism-funding-grants-to-ny-following-uproar/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-15-12-57 +0000"
-  },
-  {
     "headline": "Your favorite Pepsi products will get natural dye makeover, including Gatorade and Cheetos",
     "link": "https://nypost.com/2025/10/03/business/gatorade-and-cheetos-are-among-the-pepsi-products-getting-a-natural-dye-makeover/",
     "source": "nypost",
     "pubdate": "2025-10-03-15-09-10 +0000"
   },
   {
-    "headline": "OMB chief Russ Vought pauses $2.1B in Chicago metro funding over DEI concerns",
-    "link": "https://nypost.com/2025/10/03/us-news/omb-chief-russ-vought-pauses-2-1b-in-chicago-metro-funding/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-15-07-52 +0000"
-  },
-  {
     "headline": "Nissan recalls 19K US vehicles over battery fire risk",
     "link": "https://nypost.com/2025/10/03/business/nissan-recalls-19k-us-vehicles-over-battery-fire-risk/",
     "source": "nypost",
     "pubdate": "2025-10-03-15-05-43 +0000"
-  },
-  {
-    "headline": "Suspected NJ stalker was driving 70 mph when he allegedly killed teen girls on e-bike: court records",
-    "link": "https://nypost.com/2025/10/03/us-news/suspected-nj-stalker-was-driving-70-mph-when-he-allegedly-killed-teens-on-e-bike-court-records/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-15-02-10 +0000"
-  },
-  {
-    "headline": "Lumber titan’s midcentury Minneapolis home listed at $1.595 million",
-    "link": "https://www.startribune.com/mid-century-house-for-sale-bde-maka-ska-james-e-stewart-minikhada-golf-club/601480388",
-    "source": "startribune",
-    "pubdate": "2025-10-03-15-01-00 +0000"
   },
   {
     "headline": "Massive fire at Chevron refinery in California contained, officials say",
@@ -804,12 +1122,6 @@
     "pubdate": "2025-10-03-14-42-11 +0000"
   },
   {
-    "headline": "Shutdown stretches on as lawmakers continue informal bipartisan talks",
-    "link": "https://www.washingtonpost.com/business/2025/10/03/shutdown-bipartisan-talks-funding-bills/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-14-41-16 +0000"
-  },
-  {
     "headline": "Behind the Gen Z protesters who want to force Madagascar's president from power",
     "link": "https://www.bbc.com/news/articles/cz082y8j3jzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -822,7 +1134,7 @@
     "pubdate": "2025-10-03-14-38-34 +0000"
   },
   {
-    "headline": "Sean (Diddy) Combs in court for sentencing",
+    "headline": "Sean (Diddy) Combs sentenced to 50 months in prison",
     "link": "https://www.cbc.ca/news/entertainment/diddy-sentencing-1.7650241?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-03-14-29-50 +0000"
@@ -858,12 +1170,6 @@
     "pubdate": "2025-10-03-14-13-43 +0000"
   },
   {
-    "headline": "ICE director says Portland facility faces violence with ‘little help from local police’",
-    "link": "https://nypost.com/2025/10/03/us-news/ice-director-says-portland-facility-faces-violence-with-little-help-from-local-police/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-14-12-02 +0000"
-  },
-  {
     "headline": "Some Workers Are Turning to Pay-Advance Apps for Basic Expenses",
     "link": "https://www.nytimes.com/2025/10/03/your-money/cash-advance-apps-workers-expenses.html",
     "source": "nyt",
@@ -892,12 +1198,6 @@
     "link": "https://www.bbc.com/news/articles/cewnqj27eg4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-03-14-06-02 +0000"
-  },
-  {
-    "headline": "New Orleans chef murdered by crazed carjacker while picking up son from daycare",
-    "link": "https://nypost.com/2025/10/03/us-news/new-orleans-chef-murdered-while-picking-up-son-from-daycare/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-14-01-57 +0000"
   },
   {
     "headline": "Zack Polanski: 'We will say it loud, migrants and refugees are welcome here'",
@@ -982,12 +1282,6 @@
     "link": "https://nypost.com/2025/10/03/business/goldman-sachs-ceo-david-solomon-warns-of-ai-stock-market-drawdown/",
     "source": "nypost",
     "pubdate": "2025-10-03-13-38-31 +0000"
-  },
-  {
-    "headline": "Veterans See Costs and Risks in Hegseth’s Military Rewind to 1990",
-    "link": "https://www.nytimes.com/2025/10/02/us/hegseth-military-veterans-standards.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-13-28-13 +0000"
   },
   {
     "headline": "Four Gaza flotilla activists deported by Israel",
@@ -1084,12 +1378,6 @@
     "link": "https://www.nytimes.com/2025/10/03/business/economy/jobs-report-unemployment-shutdown.html",
     "source": "nyt",
     "pubdate": "2025-10-03-12-41-44 +0000"
-  },
-  {
-    "headline": "FDA Approves Generic Version of Abortion Pill Mifepristone",
-    "link": "https://www.nytimes.com/2025/10/02/health/abortion-pill-generic-fda.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-12-31-42 +0000"
   },
   {
     "headline": "FDA Approves Generic Version of Abortion Pill Mifepristone",
@@ -1314,6 +1602,12 @@
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
   {
+    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
+    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
+    "source": "latimes",
+    "pubdate": "2025-10-03-10-00-00 +0000"
+  },
+  {
     "headline": "A historic housing bill is on Newsom's desk. Cities are scrambling to figure out how it works",
     "link": "https://www.latimes.com/california/story/2025-10-03/upzoning-story",
     "source": "latimes",
@@ -1322,12 +1616,6 @@
   {
     "headline": "Arellano: L.A.'s federal public defender says Trump has inundated his office with immigration cases",
     "link": "https://www.latimes.com/california/story/2025-10-03/cuauhtemoc-ortega-federal-public-defender",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
-    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
     "source": "latimes",
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
@@ -1440,12 +1728,6 @@
     "pubdate": "2025-10-03-09-02-05 +0000"
   },
   {
-    "headline": "As Political Violence Rises, Justice Kavanaugh’s Would-Be Assassin to Be Sentenced",
-    "link": "https://www.nytimes.com/2025/10/03/us/supreme-court-assassination-attempt-sentencing.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-09-01-59 +0000"
-  },
-  {
     "headline": "Is South Korea’s ‘Buddhistcore’ Aesthetic a Fad or a Spiritual Awakening?",
     "link": "https://www.nytimes.com/2025/10/03/world/asia/south-korea-buddhism-young-people.html",
     "source": "nyt",
@@ -1488,7 +1770,7 @@
     "pubdate": "2025-10-03-09-00-00 +0000"
   },
   {
-    "headline": "Sean 'Diddy' Combs' children plead for leniency at sentencing hearing: 'He is transformed'",
+    "headline": "Sean 'Diddy' Combs sentenced to more than 4 years in prison for using prostitutes in 'freak-offs'",
     "link": "https://www.latimes.com/california/story/2025-10-03/sean-diddy-combs-sentencing",
     "source": "latimes",
     "pubdate": "2025-10-03-09-00-00 +0000"
@@ -1548,7 +1830,7 @@
     "pubdate": "2025-10-03-08-00-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Rises; Shutdown Enters Day Three",
+    "headline": "Stock Market Today: Dow Closes at Record on Third Day of Shutdown",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-government-shutdown-10-03-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-03-07-55-01 +0000"
@@ -1620,7 +1902,7 @@
     "pubdate": "2025-10-03-05-11-38 +0000"
   },
   {
-    "headline": "Massive fire, explosion rock Chevron refinery in El Segundo",
+    "headline": "'I thought we got nuked or something.' Massive explosion, fire at Chevron refinery rocks El Segundo",
     "link": "https://www.latimes.com/california/story/2025-10-02/la-me-fire-refinery",
     "source": "latimes",
     "pubdate": "2025-10-03-04-53-33 +0000"
@@ -1638,7 +1920,7 @@
     "pubdate": "2025-10-03-04-30-05 +0000"
   },
   {
-    "headline": "Club Pilates has more than 1,000 locations. Valencia Street won’t be one of them",
+    "headline": "Club Pilates has more than 1,000 locations. Valencia Street won’t be one of them.",
     "link": "https://missionlocal.org/2025/10/club-pilates-has-more-than-1000-locations-valencia-street-wont-be-one-of-them/",
     "source": "missionlocal",
     "pubdate": "2025-10-03-04-26-28 +0000"
@@ -1782,12 +2064,6 @@
     "pubdate": "2025-10-03-01-13-09 +0000"
   },
   {
-    "headline": "'I lost my way' - Diddy begs judge for leniency on eve of sentencing",
-    "link": "https://www.bbc.com/news/articles/c5y8zgey6lgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-01-07-50 +0000"
-  },
-  {
     "headline": "Texas Megachurch Pastor Pleads Guilty to Child Sex Abuse",
     "link": "https://www.nytimes.com/2025/10/02/world/asia/robert-morris-pastor-sex-abuse.html",
     "source": "nyt",
@@ -1926,12 +2202,6 @@
     "pubdate": "2025-10-02-23-32-17 +0000"
   },
   {
-    "headline": "Trump ‘Determined’ the U.S. Is Now in a War With Drug Cartels, Congress Is Told",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/trump-drug-cartels-war.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-23-32-17 +0000"
-  },
-  {
     "headline": "The attack in Manchester comes amid a rising wave of antisemitism.",
     "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk/manchester-uk-synagogue-attack-antisemitism",
     "source": "nyt",
@@ -2028,12 +2298,6 @@
     "pubdate": "2025-10-02-22-32-46 +0000"
   },
   {
-    "headline": "Trump administration cancels nearly half-billion-dollar grant to Minnesota for power lines serving seven states",
-    "link": "https://www.startribune.com/trump-cancels-464-million-minnesota-grant-for-power-lines-in-five-states/601485232",
-    "source": "startribune",
-    "pubdate": "2025-10-02-22-24-56 +0000"
-  },
-  {
     "headline": "U.K. police may have shot 2 Manchester synagogue attack victims, officials say",
     "link": "https://www.cbc.ca/news/world/manchester-synagogue-attack-police-shooting-1.7650095?cmp=rss",
     "source": "cbc",
@@ -2094,22 +2358,10 @@
     "pubdate": "2025-10-02-21-51-48 +0000"
   },
   {
-    "headline": "Des Moines Schools Superintendent Arrested by ICE Faces New Gun Charge",
-    "link": "https://www.nytimes.com/2025/10/02/us/des-moines-superintendent-ice-gun-charge.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-21-46-24 +0000"
-  },
-  {
     "headline": "Opinion | Europe’s New War on the Jews",
     "link": "https://www.wsj.com/opinion/manchester-attack-jews-yom-kippur-u-k-germany-europe-1438ee86",
     "source": "wsj",
     "pubdate": "2025-10-02-21-46-00 +0000"
-  },
-  {
-    "headline": "Opinion | Volkswagen Gets What It Paid For",
-    "link": "https://www.wsj.com/opinion/volkswagen-work-stoppage-united-auto-workers-union-edb2d83a",
-    "source": "wsj",
-    "pubdate": "2025-10-02-21-43-00 +0000"
   },
   {
     "headline": "Opinion | Volkswagen Gets What It Paid For",
@@ -2152,12 +2404,6 @@
     "link": "https://www.nytimes.com/2025/10/02/us/politics/jimmy-carter-presidential-library-shutdown.html",
     "source": "nyt",
     "pubdate": "2025-10-02-21-32-02 +0000"
-  },
-  {
-    "headline": "Opinion | Russell M. Nelson’s Style Directive",
-    "link": "https://www.wsj.com/opinion/russell-m-nelsons-style-directive-018ea97e",
-    "source": "wsj",
-    "pubdate": "2025-10-02-21-31-00 +0000"
   },
   {
     "headline": "This 'naughty' black swan has been evicted from Shakespeare's hometown",
@@ -2238,135 +2484,9 @@
     "pubdate": "2025-10-02-21-03-00 +0000"
   },
   {
-    "headline": "Official quits after dispute over Trump's Eisenhower sword gift to King Charles",
-    "link": "https://www.bbc.com/news/articles/cx2xkygxpy1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-21-01-13 +0000"
-  },
-  {
     "headline": "Two killed in attack at synagogue on Yom Kippur in England",
     "link": "https://www.washingtonpost.com/world/2025/10/02/synagogue-stabbing-manchester-yom-kippur/",
     "source": "wapo",
     "pubdate": "2025-10-02-20-54-44 +0000"
-  },
-  {
-    "headline": "‘Appalled,’ ‘horrified,’ ‘sickening’: Leaders and residents condemn the Manchester attack.",
-    "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk/appalled-horrified-sickening-leaders-and-residents-condemn-the-manchester-attack",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-52-51 +0000"
-  },
-  {
-    "headline": "4 People Injured After Stabbing Outside Manchester Synagogue, UK Police Say",
-    "link": "https://www.nytimes.com/live/2025/10/02/world/manchester-synagogue-stabbing-uk/manchester-synagogue-stabbing-uk",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-50-55 +0000"
-  },
-  {
-    "headline": "OpenAI’s Latest Funding Deal Returns Focus to AI Economy, Lifting U.S. Stocks",
-    "link": "https://www.wsj.com/finance/stocks/openais-latest-funding-deal-returns-focus-to-ai-economy-lifting-u-s-stocks-87460af0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-02-20-49-00 +0000"
-  },
-  {
-    "headline": "Police Seize Possible Forgeries From Dalí Show in Italy",
-    "link": "https://www.nytimes.com/2025/10/02/arts/design/dali-fakes-forgeries-italy.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-42-10 +0000"
-  },
-  {
-    "headline": "Police Seize Possible Forgeries From Dalí Show in Italy",
-    "link": "https://www.nytimes.com/2025/10/02/arts/design/dali-fakes-forgeries-italy.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-42-10 +0000"
-  },
-  {
-    "headline": "President Trump is considering providing $10 billion or more in aid to U.S. farmers as the agriculture sector warns of economic fallout from his far-reaching tariffs, according to people familiar with the discussions",
-    "link": "https://www.wsj.com/politics/policy/trump-explores-bailout-of-at-least-10-billion-for-u-s-farmers-258d2975",
-    "source": "wsj",
-    "pubdate": "2025-10-02-20-38-00 +0000"
-  },
-  {
-    "headline": "Treasury Secretary Bessent bemoans shutdown, says Dems are negotiating like ‘terrorists’",
-    "link": "https://nypost.com/2025/10/02/business/treasury-secretary-bessent-bemoans-shutdown-says-dems-are-negotiating-like-terrorists/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-20-32-08 +0000"
-  },
-  {
-    "headline": "ICE Transfers 18 Migrants From Guantánamo, Emptying Detention Site",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/migrants-guantanamo-detention-removal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-31-17 +0000"
-  },
-  {
-    "headline": "ICE Transfers 18 Migrants From Guantánamo, Emptying Detention Site",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/migrants-guantanamo-detention-removal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-31-17 +0000"
-  },
-  {
-    "headline": "Rewards program Bilt to move NYC headquarters to Meatpacking District",
-    "link": "https://nypost.com/2025/10/02/business/rewards-program-bilt-to-move-nyc-headquarters-to-meatpacking-district/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-20-28-14 +0000"
-  },
-  {
-    "headline": "Two Killed in Terrorist Attack at U.K. Synagogue",
-    "link": "https://www.wsj.com/world/europe/u-k-synagogue-hit-by-stabbing-attack-1938e70e",
-    "source": "wsj",
-    "pubdate": "2025-10-02-20-28-00 +0000"
-  },
-  {
-    "headline": "UK terror suspect who killed 2 at Manchester synagogue on Yom Kippur ID’d",
-    "link": "https://nypost.com/2025/10/02/world-news/uk-terror-suspect-who-killed-2-at-manchester-synagogue-on-yom-kippur-idd/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-20-26-39 +0000"
-  },
-  {
-    "headline": "David Hogg’s PAC splurged $2.5M on consultants, fitness classes— while candidates it backed got blown out",
-    "link": "https://nypost.com/2025/10/02/us-news/david-hoggs-pac-splurged-2-5m-on-consultants-fitness-classes-while-candidates-it-backed-got-blown-out/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-20-21-53 +0000"
-  },
-  {
-    "headline": "At Saudi Comedy Festival, American Free Speech Becomes the Punchline",
-    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/saudi-comedy-festival-riyadh-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-12-06 +0000"
-  },
-  {
-    "headline": "At Saudi Comedy Festival, American Free Speech Becomes the Punchline",
-    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/saudi-comedy-festival-riyadh-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-12-06 +0000"
-  },
-  {
-    "headline": "'Find common ground', tourists in Washington tell lawmakers amid shutdown",
-    "link": "https://www.bbc.com/news/videos/c701yk41x86o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-20-10-49 +0000"
-  },
-  {
-    "headline": "'Find common ground', tourists in Washington tell lawmakers amid shutdown",
-    "link": "https://www.bbc.com/news/videos/c701yk41x86o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-20-10-49 +0000"
-  },
-  {
-    "headline": "Hamas military chief rejects Trump’s cease-fire plan, aims to keep fighting: report",
-    "link": "https://nypost.com/2025/10/02/world-news/hamas-military-chief-rejects-trumps-cease-fire-plan-aims-to-keep-fighting-report/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-20-08-12 +0000"
-  },
-  {
-    "headline": "NBCUniversal, YouTube TV mend rift with new distribution deal",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-02/nbcuniversal-youtube-tv-reach-new-distribution-deal",
-    "source": "latimes",
-    "pubdate": "2025-10-02-19-57-46 +0000"
-  },
-  {
-    "headline": "What are your financial goals? We want to hear about them.",
-    "link": "https://www.nytimes.com/2025/10/02/business/financial-goals.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-19-55-07 +0000"
   }
 ]
