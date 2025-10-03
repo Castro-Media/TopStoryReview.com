@@ -1,34 +1,34 @@
 [
   {
-    "score": 168,
+    "score": 167,
     "pubdate": "2025-10-02-22-15-00 +0000",
     "source": "wsj",
     "headline": "President Trump intensified pressure on Democrats as the government shutdown entered its second day, saying he would begin a process to make far-reaching cuts at federal agencies",
     "link": "https://www.wsj.com/politics/trump-to-meet-with-budget-chief-to-discuss-cuts-to-agencies-0ac5a7cb"
   },
   {
-    "score": 107,
+    "score": 108,
     "pubdate": "2025-10-02-10-09-41 +0000",
     "source": "cbc",
     "headline": "U.K. police say deadly rampage at Manchester synagogue was terrorist attack",
     "link": "https://www.cbc.ca/news/world/uk-synagogue-incident-1.7648977?cmp=rss"
   },
   {
-    "score": 85,
+    "score": 72,
     "pubdate": "2025-10-02-21-25-48 +0000",
     "source": "nypost",
     "headline": "Ukraine pitches plan to help US sell American oil to Europe — icing out Russia and bringing in profits",
     "link": "https://nypost.com/2025/10/02/world-news/ukraine-pitches-plan-to-help-us-sell-american-oil-to-europe-and-ice-out-russia/"
   },
   {
-    "score": 61,
+    "score": 62,
     "pubdate": "2025-10-02-13-39-46 +0000",
     "source": "wapo",
     "headline": "Israel intercepts Gaza aid flotilla, detains Thunberg and other activists",
     "link": "https://www.washingtonpost.com/world/2025/10/01/flotilla-gaza-israel-activists-greta-thunberg/"
   },
   {
-    "score": 53,
+    "score": 54,
     "pubdate": "2025-10-02-13-17-00 +0000",
     "source": "wsj",
     "headline": "Office of Management and Budget Director Russell Vought might be one of the shutdown’s biggest beneficiaries, as it gives him the chance to implement government cuts he has long advocated",
@@ -36,10 +36,24 @@
   },
   {
     "score": 49,
+    "pubdate": "2025-10-03-04-01-43 +0000",
+    "source": "nypost",
+    "headline": "Apple removes ICE tracking apps from App Store over ‘safety risks’ to law enforcement",
+    "link": "https://nypost.com/2025/10/03/us-news/apple-removes-ice-tracking-apps-from-app-store-over-safety-risks-to-law-enforcement/"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-10-03-00-45-00 +0000",
     "source": "wsj",
     "headline": "A multibillion-dollar deal to send Nvidia’s AI chips to the U.A.E. is stuck in neutral nearly five months after it was signed, frustrating CEO Jensen Huang and some senior administration officials",
     "link": "https://www.wsj.com/politics/policy/nvidia-trump-uae-chip-deal-delay-c49aaa5c"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-10-03-01-22-00 +0000",
+    "source": "wsj",
+    "headline": "Senators on both sides of the aisle pressed the Pentagon’s top lawyer in a closed-door meeting to provide a better legal explanation for striking alleged Latin American drug boats in the Caribbean",
+    "link": "https://www.wsj.com/politics/national-security/lawmakers-from-both-sides-pressed-pentagon-on-legal-basis-for-cartel-boat-strikes-a61b9de0"
   },
   {
     "score": 44,
@@ -54,19 +68,5 @@
     "source": "nyt",
     "headline": "As Russian Drones Menace Europe, Putin Says Moscow Has No Plans to Invade",
     "link": "https://www.nytimes.com/2025/10/02/world/europe/putin-russia-drones.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-10-03-01-22-00 +0000",
-    "source": "wsj",
-    "headline": "Senators on both sides of the aisle pressed the Pentagon’s top lawyer in a closed-door meeting to provide a better legal explanation for striking alleged Latin American drug boats in the Caribbean",
-    "link": "https://www.wsj.com/politics/national-security/lawmakers-from-both-sides-pressed-pentagon-on-legal-basis-for-cartel-boat-strikes-a61b9de0"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-10-03-00-03-38 +0000",
-    "source": "nypost",
-    "headline": "FDA approves another abortion pill after RFK Jr. pledged to review safety of mifepristone – outraging conservatives",
-    "link": "https://nypost.com/2025/10/02/us-news/fda-approves-another-abortion-pill-after-rfk-jr-pledged-to-review-safety-outraging-conservatives/"
   }
 ]
