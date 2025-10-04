@@ -1,5 +1,143 @@
 [
   {
+    "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-50-40 +0000"
+  },
+  {
+    "headline": "Trump to Send Witkoff, Kushner to Middle East to Seal Hostage Release Deal",
+    "link": "https://www.wsj.com/world/middle-east/israels-military-signals-an-easing-of-its-gaza-offensive-6d4e3d25",
+    "source": "wsj",
+    "pubdate": "2025-10-04-16-50-00 +0000"
+  },
+  {
+    "headline": "Trump’s Gaza Peace Plan: What to Know",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-48-57 +0000"
+  },
+  {
+    "headline": "Trump’s Gaza Peace Plan: What to Know",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-48-57 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/04/world/israel-hamas-gaza-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-46-45 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/04/world/israel-hamas-gaza-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-46-45 +0000"
+  },
+  {
+    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-45-25 +0000"
+  },
+  {
+    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-45-25 +0000"
+  },
+  {
+    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-42-47 +0000"
+  },
+  {
+    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-42-47 +0000"
+  },
+  {
+    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-42-47 +0000"
+  },
+  {
+    "headline": "Who Still Has Temporary Protected Status?",
+    "link": "https://www.nytimes.com/2025/10/04/us/politics/temporary-protected-status-scotus.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-39-00 +0000"
+  },
+  {
+    "headline": "Who Still Has Temporary Protected Status?",
+    "link": "https://www.nytimes.com/2025/10/04/us/politics/temporary-protected-status-scotus.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-39-00 +0000"
+  },
+  {
+    "headline": "London police arrest dozens of protesters against Palestine Action ban — days after deadly Manchester synagogue attack",
+    "link": "https://nypost.com/2025/10/04/world-news/london-police-arrest-protesters-against-palestine-action-ban/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-28-25 +0000"
+  },
+  {
+    "headline": "Attorney General Pam Bondi says DOJ will appeal ‘woefully insufficient’ sentence for would-be Kavanaugh assassin",
+    "link": "https://nypost.com/2025/10/04/us-news/attorney-general-pam-bondi-says-doj-will-appeal-woefully-insufficient-sentence-for-would-be-kavanaugh-assassin/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-23-45 +0000"
+  },
+  {
+    "headline": "Attorney General Pam Bondi says DOJ will appeal ‘woefully insufficient’ sentence for would-be Kavanaugh assassin",
+    "link": "https://nypost.com/2025/10/04/us-news/attorney-general-pam-bondi-says-doj-will-appeal-woefully-insufficient-sentence-for-would-be-kavanaugh-assassin/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-23-45 +0000"
+  },
+  {
+    "headline": "NYC police union calls for ouster of ‘anti-cop’ Mamdani-esque Civilian Complaint Review Board chair",
+    "link": "https://nypost.com/2025/10/04/us-news/pba-calls-chairman-of-anti-cop-complaint-board-blatantly-biased/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-15-10 +0000"
+  },
+  {
+    "headline": "AOC resorting to ‘baseless hysteria’ over stalled stopgap funding bill to score donations: White House",
+    "link": "https://nypost.com/2025/10/04/us-news/aoc-resorting-to-baseless-hysteria-over-stalled-stopgap-funding-bill-to-score-donations-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-05-02 +0000"
+  },
+  {
+    "headline": "AOC resorting to ‘baseless hysteria’ over stalled stopgap funding bill to score donations: White House",
+    "link": "https://nypost.com/2025/10/04/us-news/aoc-resorting-to-baseless-hysteria-over-stalled-stopgap-funding-bill-to-score-donations-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-05-02 +0000"
+  },
+  {
+    "headline": "NYC man charged with murder for allegedly stabbing mother-in-law, teen in terrifying drunken rampage: cops",
+    "link": "https://nypost.com/2025/10/04/us-news/nyc-man-facing-murder-charges-for-allegedlly-stabbing-mother-in-law-teen-in-drunken-rampage-cops/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-04-20 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-02-17 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-02-17 +0000"
+  },
+  {
+    "headline": "To hear the top House Democrat tell it, beyond the trash talk and nasty memes, there is a deal to be had with Republicans to end the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/hakeem-jeffries-trump-insults-73122e15",
+    "source": "wsj",
+    "pubdate": "2025-10-04-16-00-00 +0000"
+  },
+  {
     "headline": "Munich airport reopens after closing twice in less than 24 hours over alarming drone sightings",
     "link": "https://nypost.com/2025/10/04/world-news/munich-airport-reopens-after-closing-twice-in-less-than-24-hours-over-alarming-drone-sightings/",
     "source": "nypost",
@@ -42,24 +180,6 @@
     "pubdate": "2025-10-04-15-34-49 +0000"
   },
   {
-    "headline": "Trump’s Gaza Peace Plan: What to Know",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-33-12 +0000"
-  },
-  {
-    "headline": "Trump’s Gaza Peace Plan: What to Know",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-33-12 +0000"
-  },
-  {
-    "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
-    "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-29-16 +0000"
-  },
-  {
     "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
     "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
     "source": "nyt",
@@ -78,7 +198,7 @@
     "pubdate": "2025-10-04-15-28-06 +0000"
   },
   {
-    "headline": "Brain drain: highly processed foods linked to cognitive decline",
+    "headline": "Brain drain: Highly processed foods linked to cognitive decline, groundbreaking study finds",
     "link": "https://nypost.com/2025/10/04/world-news/midlife-snack-habits-could-be-rotting-your-brain/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-27-30 +0000"
@@ -90,28 +210,16 @@
     "pubdate": "2025-10-04-15-26-56 +0000"
   },
   {
-    "headline": "Road to City Haul: NYC council candidate Phil Wong moves campaign HQ to U-haul truck",
+    "headline": "NYC council candidate Phil Wong moves campaign HQ to U-haul truck after losing lease",
     "link": "https://nypost.com/2025/10/04/us-news/wong-city-council-candidate-forced-out-of-maspeth-campaign-hq/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-26-51 +0000"
   },
   {
-    "headline": "Zohran Mamdani volunteer shares pic showing him giving NYPD cops  finger — and he isn’t sorry",
+    "headline": "Zohran Mamdani volunteer shares pic showing him giving NYPD cops finger — and he isn’t sorry",
     "link": "https://nypost.com/2025/10/04/us-news/zohran-backer-gives-brooklyn-wave-to-nys-finest-shares-photo-online/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-26-08 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-25-36 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-25-36 +0000"
   },
   {
     "headline": "NYC granny loses life savings to online scam — and she’s placing the blame on banks: lawsuit",
@@ -126,13 +234,13 @@
     "pubdate": "2025-10-04-15-22-08 +0000"
   },
   {
-    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza: report",
+    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza",
     "link": "https://nypost.com/2025/10/04/us-news/us-envoy-steve-witkoff-jared-kushner-headed-to-cairo-for-talks-to-finalize-end-of-war-in-gaza-report/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-22-06 +0000"
   },
   {
-    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza: report",
+    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza",
     "link": "https://nypost.com/2025/10/04/us-news/us-envoy-steve-witkoff-jared-kushner-headed-to-cairo-for-talks-to-finalize-end-of-war-in-gaza-report/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-22-06 +0000"
@@ -222,12 +330,6 @@
     "pubdate": "2025-10-04-14-31-40 +0000"
   },
   {
-    "headline": "Trump to Send Witkoff, Kushner to Middle East to Seal Hostage Release Deal",
-    "link": "https://www.wsj.com/world/middle-east/israels-military-signals-an-easing-of-its-gaza-offensive-6d4e3d25",
-    "source": "wsj",
-    "pubdate": "2025-10-04-14-19-00 +0000"
-  },
-  {
     "headline": "Hamas’ response to Trump’s Gaza peace plan wins hardline support from hostage-holding ally",
     "link": "https://nypost.com/2025/10/04/world-news/hamas-response-to-trumps-plan-to-end-war-wins-hardline-support/",
     "source": "nypost",
@@ -297,13 +399,13 @@
     "headline": "For the New Archbishop of Canterbury, Nursing Roots Could Bring a Pastoral Sensibility",
     "link": "https://www.nytimes.com/2025/10/04/world/europe/sarah-mullally-archbishop-of-canterbury.html",
     "source": "nyt",
-    "pubdate": "2025-10-04-13-36-56 +0000"
+    "pubdate": "2025-10-04-13-36-57 +0000"
   },
   {
     "headline": "For the New Archbishop of Canterbury, Nursing Roots Could Bring a Pastoral Sensibility",
     "link": "https://www.nytimes.com/2025/10/04/world/europe/sarah-mullally-archbishop-of-canterbury.html",
     "source": "nyt",
-    "pubdate": "2025-10-04-13-36-56 +0000"
+    "pubdate": "2025-10-04-13-36-57 +0000"
   },
   {
     "headline": "Two teen girls — one just 13 — found dead on Brooklyn train in suspected subway surfing  incident: cops",
@@ -492,12 +594,6 @@
     "pubdate": "2025-10-04-12-00-00 +0000"
   },
   {
-    "headline": "Ex-husband of NYC teacher in school sex scandal has gunshots fired into his house: ‘This was attempted murder’",
-    "link": "https://nypost.com/2025/10/04/us-news/ex-husband-of-nyc-teacher-in-sex-scandal-calls-gunshots-fired-into-his-home-attempted-murder/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-11-45-30 +0000"
-  },
-  {
     "headline": "Starmer tells protesters to 'respect grief of British Jews'",
     "link": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -532,30 +628,6 @@
     "link": "https://www.wsj.com/economy/jobs/federal-worker-buyouts-are-kicking-in-darkening-the-u-s-employment-picture-4c3f044b",
     "source": "wsj",
     "pubdate": "2025-10-04-11-00-00 +0000"
-  },
-  {
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-10-59-43 +0000"
-  },
-  {
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-10-59-43 +0000"
-  },
-  {
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-10-59-43 +0000"
-  },
-  {
-    "headline": "Seattle mayor rejects locking up repeat criminals during tense debate: ‘Maybe they’re hungry’",
-    "link": "https://nypost.com/2025/10/04/us-news/seattle-mayor-bruce-harrell-rejects-locking-up-repeat-criminals-during-tense-debate/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-10-25-12 +0000"
   },
   {
     "headline": "Best Intentions",
@@ -612,14 +684,14 @@
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
   {
-    "headline": "California's home insurer of last resort seeks 36% rate hike following January fires",
-    "link": "https://www.latimes.com/business/story/2025-10-04/californias-home-insurer-of-last-resort-seeks-36-rate-hike-following-january-fires",
+    "headline": "The Writers Guild helped bring Kimmel back. Here's what its new president plans next",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-04/wga-west-president-michele-mulroney",
     "source": "latimes",
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
   {
-    "headline": "The Writers Guild helped bring Kimmel back. Here's what its new president plans next",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-04/wga-west-president-michele-mulroney",
+    "headline": "California's home insurer of last resort seeks 36% rate hike following January fires",
+    "link": "https://www.latimes.com/business/story/2025-10-04/californias-home-insurer-of-last-resort-seeks-36-rate-hike-following-january-fires",
     "source": "latimes",
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
@@ -690,13 +762,13 @@
     "pubdate": "2025-10-04-09-01-27 +0000"
   },
   {
-    "headline": "Partisan Shutdown Messages Could Hurt Civil Service, Experts Warn",
+    "headline": "Partisan Messaging During Government Shutdown Could Hurt Civil Service, Experts Warn",
     "link": "https://www.nytimes.com/2025/10/04/us/politics/partisan-messages-shutdown-trump.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-01-25 +0000"
   },
   {
-    "headline": "Partisan Shutdown Messages Could Hurt Civil Service, Experts Warn",
+    "headline": "Partisan Messaging During Government Shutdown Could Hurt Civil Service, Experts Warn",
     "link": "https://www.nytimes.com/2025/10/04/us/politics/partisan-messages-shutdown-trump.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-01-25 +0000"
@@ -870,12 +942,6 @@
     "pubdate": "2025-10-04-06-11-18 +0000"
   },
   {
-    "headline": "Maryland firefighters charged after flooding baseball field with truck hose during long-running feud",
-    "link": "https://nypost.com/2025/10/04/us-news/maryland-firefighters-charged-after-flooding-baseball-field-with-truck-hose-during-long-running-feud/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-06-03-24 +0000"
-  },
-  {
     "headline": "What to Know About Japan’s Leadership Election",
     "link": "https://www.nytimes.com/2025/10/03/world/asia/japan-election-leader-what-to-know.html",
     "source": "nyt",
@@ -942,12 +1008,6 @@
     "pubdate": "2025-10-04-04-13-00 +0000"
   },
   {
-    "headline": "50 Cent trolls longtime rival Sean ‘Diddy’ Combs with brutal post-sentencing offer",
-    "link": "https://nypost.com/2025/10/03/entertainment/50-cent-trolls-longtime-rival-sean-diddy-combs-with-brutal-post-sentencing-offer/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-03-28-52 +0000"
-  },
-  {
     "headline": "Navy chief of staff out at Pentagon in Hegseth’s latest shakeup",
     "link": "https://nypost.com/2025/10/03/us-news/navy-chief-of-staff-jon-harrison-out-at-pentagon-in-hegseths-latest-shakeup/",
     "source": "nypost",
@@ -1012,18 +1072,6 @@
     "link": "https://www.bbc.com/news/articles/c8rv2l3me40o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-04-01-59-49 +0000"
-  },
-  {
-    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-01-55-28 +0000"
-  },
-  {
-    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-01-55-28 +0000"
   },
   {
     "headline": "Sean 'Diddy' Combs sentenced to more than four years in prison",
@@ -2196,12 +2244,6 @@
     "pubdate": "2025-10-03-16-53-10 +0000"
   },
   {
-    "headline": "Jane Fonda Revives Her Father’s McCarthy-Era Free Speech Group",
-    "link": "https://www.nytimes.com/2025/10/03/arts/jane-fonda-henry-fonda-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-51-33 +0000"
-  },
-  {
     "headline": "Conservative church group condemns choice of female Archbishop of Canterbury",
     "link": "https://www.bbc.com/news/articles/c179yvn08njo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2298,28 +2340,10 @@
     "pubdate": "2025-10-03-16-00-00 +0000"
   },
   {
-    "headline": "Father of Manchester synagogue terrorist Jihad al-Shamie praised Hamas for Oct. 7 slaughter",
-    "link": "https://nypost.com/2025/10/03/world-news/father-of-manchester-synagogue-terrorist-jihad-al-shamie-praised-hamas-for-oct-7-slaughter/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-15-56-41 +0000"
-  },
-  {
     "headline": "Apple Drops ICE-Tracking Apps From App Store",
     "link": "https://www.wsj.com/tech/apple-ice-tracking-app-store-removal-4b4ef019?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-03-15-54-00 +0000"
-  },
-  {
-    "headline": "Supreme Court to Hear Challenge to Hawaii Law Limiting Guns on Private Property",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/supreme-court-hawaii-gun-law.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-52-40 +0000"
-  },
-  {
-    "headline": "Supreme Court to Hear Challenge to Hawaii Law Limiting Guns on Private Property",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/supreme-court-hawaii-gun-law.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-15-52-40 +0000"
   },
   {
     "headline": "Tax wealthiest to end rip-off Britain, says Green leader",
@@ -2844,12 +2868,6 @@
     "pubdate": "2025-10-03-10-00-08 +0000"
   },
   {
-    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
-    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
-    "source": "latimes",
-    "pubdate": "2025-10-03-10-00-00 +0000"
-  },
-  {
     "headline": "She went to get her green card and now faces deportation. Did the feds trick her?",
     "link": "https://www.latimes.com/california/story/2025-10-03/film-director-brazil-detained-by-ice-green-card-interview",
     "source": "latimes",
@@ -2862,14 +2880,20 @@
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
   {
+    "headline": "Arellano: L.A.'s federal public defender says Trump has inundated his office with immigration cases",
+    "link": "https://www.latimes.com/california/story/2025-10-03/cuauhtemoc-ortega-federal-public-defender",
+    "source": "latimes",
+    "pubdate": "2025-10-03-10-00-00 +0000"
+  },
+  {
     "headline": "A historic housing bill is on Newsom's desk. Cities are scrambling to figure out how it works",
     "link": "https://www.latimes.com/california/story/2025-10-03/upzoning-story",
     "source": "latimes",
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: L.A.'s federal public defender says Trump has inundated his office with immigration cases",
-    "link": "https://www.latimes.com/california/story/2025-10-03/cuauhtemoc-ortega-federal-public-defender",
+    "headline": "Trump uses repeated funding cuts to pressure California, complicating state's legal fight",
+    "link": "https://www.latimes.com/california/story/2025-10-03/trump-funding-cuts-california-legal-fight",
     "source": "latimes",
     "pubdate": "2025-10-03-10-00-00 +0000"
   },
@@ -3384,12 +3408,6 @@
     "pubdate": "2025-10-02-23-01-20 +0000"
   },
   {
-    "headline": "Trump plans for ‘thousands’ of federal firings on government shutdown day 2  — and they could be permanent",
-    "link": "https://nypost.com/2025/10/02/us-news/trump-sharpens-ax-on-government-shutdown-day-two-with-thousands-of-federal-firings-planned/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-22-55-39 +0000"
-  },
-  {
     "headline": "‘A Crazy Moment’: Shock and Terror Spreads in Manchester Synagogue’s Community",
     "link": "https://www.nytimes.com/2025/10/02/world/europe/manchester-synagogue-neighborhood.html",
     "source": "nyt",
@@ -3472,12 +3490,6 @@
     "link": "https://www.cbc.ca/radio/asithappens/reggie-black-swan-1.7649709?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-02-21-30-55 +0000"
-  },
-  {
-    "headline": "Ukraine pitches plan to help US sell American oil to Europe — icing out Russia and bringing in profits",
-    "link": "https://nypost.com/2025/10/02/world-news/ukraine-pitches-plan-to-help-us-sell-american-oil-to-europe-and-ice-out-russia/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-21-25-48 +0000"
   },
   {
     "headline": "Opinion | Ukraine at the Rubicon",
@@ -3580,12 +3592,6 @@
     "link": "https://www.wsj.com/world/europe/u-k-synagogue-hit-by-stabbing-attack-1938e70e",
     "source": "wsj",
     "pubdate": "2025-10-02-20-28-00 +0000"
-  },
-  {
-    "headline": "At Saudi Comedy Festival, American Free Speech Becomes the Punchline",
-    "link": "https://www.nytimes.com/2025/10/02/world/middleeast/saudi-comedy-festival-riyadh-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-20-12-06 +0000"
   },
   {
     "headline": "At Saudi Comedy Festival, American Free Speech Becomes the Punchline",
@@ -3930,12 +3936,6 @@
     "pubdate": "2025-10-02-15-51-35 +0000"
   },
   {
-    "headline": "Hackers stole data from British nursery schools — then apologized to parents",
-    "link": "https://www.washingtonpost.com/world/2025/10/02/hackers-nursery-school-profiles-ransom/",
-    "source": "wapo",
-    "pubdate": "2025-10-02-15-50-28 +0000"
-  },
-  {
     "headline": "How TrumpRx Website May Affect Your Drug Costs After Pfizer Deal",
     "link": "https://www.nytimes.com/2025/10/01/health/trump-pfizer-prescription-drug-prices.html",
     "source": "nyt",
@@ -4068,12 +4068,6 @@
     "pubdate": "2025-10-02-13-19-57 +0000"
   },
   {
-    "headline": "Office of Management and Budget Director Russell Vought might be one of the shutdown’s biggest beneficiaries, as it gives him the chance to implement government cuts he has long advocated",
-    "link": "https://www.wsj.com/politics/policy/russell-vought-omb-director-government-shutdown-6dd92725",
-    "source": "wsj",
-    "pubdate": "2025-10-02-13-17-00 +0000"
-  },
-  {
     "headline": "'My pay is being held hostage': Federal workers on US government shutdown",
     "link": "https://www.bbc.com/news/articles/cvg0z2dx7w1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4176,12 +4170,6 @@
     "pubdate": "2025-10-02-10-09-53 +0000"
   },
   {
-    "headline": "SoCal homeless nonprofit labors to nourish stomachs and souls. A theft has left it reeling",
-    "link": "https://www.latimes.com/california/story/2025-10-02/socal-homeless-organization-labors-to-nourish-stomachs-and-souls-a-theft-has-left-it-reeling",
-    "source": "latimes",
-    "pubdate": "2025-10-02-10-00-00 +0000"
-  },
-  {
     "headline": "Maui vacations, luxury watches: Wine buyer at major California grocery chain accused of taking bribes",
     "link": "https://www.latimes.com/california/story/2025-10-02/buyer-at-albertsons-grocery-chain-charged-for-allegedly-taking-bribes-to-carry-certain-wines",
     "source": "latimes",
@@ -4196,6 +4184,12 @@
   {
     "headline": "Which homeless shelters have open beds? Advocates say botched data make it hard to know",
     "link": "https://www.latimes.com/california/story/2025-10-02/shelter-occupancy",
+    "source": "latimes",
+    "pubdate": "2025-10-02-10-00-00 +0000"
+  },
+  {
+    "headline": "SoCal homeless nonprofit labors to nourish stomachs and souls. A theft has left it reeling",
+    "link": "https://www.latimes.com/california/story/2025-10-02/socal-homeless-organization-labors-to-nourish-stomachs-and-souls-a-theft-has-left-it-reeling",
     "source": "latimes",
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
@@ -4488,12 +4482,6 @@
     "pubdate": "2025-10-02-00-42-41 +0000"
   },
   {
-    "headline": "I’m an immigrant mom. How do I reclaim power and visibility at work? | Querida Consejera",
-    "link": "https://eltecolote.org/content/en/immigrant-mother-workplace-advice/",
-    "source": "eltecolote",
-    "pubdate": "2025-10-02-00-06-01 +0000"
-  },
-  {
     "headline": "France Detains Russian ‘Shadow Fleet’ Tanker Suspected in Drone Attack",
     "link": "https://www.wsj.com/world/europe/france-detains-russian-shadow-fleet-tanker-suspected-in-drone-attack-80d9177b",
     "source": "wsj",
@@ -4672,12 +4660,6 @@
     "link": "https://www.wsj.com/us-news/law/supreme-court-lisa-cook-update-9f954366",
     "source": "wsj",
     "pubdate": "2025-10-01-20-19-00 +0000"
-  },
-  {
-    "headline": "Across cultures, S.F. immigrants rally behind this 3,000-year-old ancient remedy",
-    "link": "https://eltecolote.org/content/en/acupunctures-sf-lati/",
-    "source": "eltecolote",
-    "pubdate": "2025-10-01-20-07-42 +0000"
   },
   {
     "headline": "The IT Executive Tasked With Revamping How Tesla Sells Cars",
@@ -5106,20 +5088,14 @@
     "pubdate": "2025-10-01-10-05-47 +0000"
   },
   {
-    "headline": "Your guide to Proposition 50: California redistricting",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
+    "headline": "Your guide to the 2025 California special election",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
     "headline": "Jane Fonda, derided as 'Hanoi Jane' and a traitor during the Vietnam War, is a modern-day force in Democratic politics",
     "link": "https://www.latimes.com/california/story/2025-10-01/jane-fonda-hanoi-vietnam-war-democrat-politics-climate-change-trump",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "How to vote in California's Nov. 4 special election",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-special-election-how-to-vote-november-redistricting",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -5142,20 +5118,14 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Your guide to the 2025 California special election",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
+    "headline": "How to vote in California's Nov. 4 special election",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-special-election-how-to-vote-november-redistricting",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: There's no nice way to deport someone. But Trump's ICE is hosting a cruelty Olympics",
-    "link": "https://www.latimes.com/california/story/2025-10-01/ice-immigration-cruelty-krist-noem-dehumanizing",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Polarizing L.A. police official keeps post by default after City Council fails to vote",
-    "link": "https://www.latimes.com/california/story/2025-10-01/erroll-southers-los-angeles-police-commission",
+    "headline": "Your guide to Proposition 50: California redistricting",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -5168,6 +5138,18 @@
   {
     "headline": "'Wannabe gangsters' described killing two women. Why did convicting them take a decade?",
     "link": "https://www.latimes.com/california/story/2025-10-01/echeverria-pineda-murder-trial",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: There's no nice way to deport someone. But Trump's ICE is hosting a cruelty Olympics",
+    "link": "https://www.latimes.com/california/story/2025-10-01/ice-immigration-cruelty-krist-noem-dehumanizing",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Polarizing L.A. police official keeps post by default after City Council fails to vote",
+    "link": "https://www.latimes.com/california/story/2025-10-01/erroll-southers-los-angeles-police-commission",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -5196,8 +5178,20 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Your guide to Proposition 50: California redistricting",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
+    "headline": "Where to vote in California's 2025 special election: Find a vote center or drop box",
+    "link": "https://www.latimes.com/california/story/2025-10-01/where-to-vote-in-californias-2025-special-election-ballot-boxes-guide-redistricting",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: He's a real pain for Gavin Newsom. And a rising Democratic star",
+    "link": "https://www.latimes.com/politics/story/2025-10-01/matt-mahan-san-jose-mayor-gavin-newsom-california-different-kind-of-democrat",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Your guide to the 2025 California special election",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -5214,20 +5208,8 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Where to vote in California's 2025 special election: Find a vote center or drop box",
-    "link": "https://www.latimes.com/california/story/2025-10-01/where-to-vote-in-californias-2025-special-election-ballot-boxes-guide-redistricting",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: He's a real pain for Gavin Newsom. And a rising Democratic star",
-    "link": "https://www.latimes.com/politics/story/2025-10-01/matt-mahan-san-jose-mayor-gavin-newsom-california-different-kind-of-democrat",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Your guide to the 2025 California special election",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
+    "headline": "Your guide to Proposition 50: California redistricting",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -5850,14 +5832,14 @@
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
   {
-    "headline": "California needs biomass energy to meet its wildfire goals. Its projects keep going South",
-    "link": "https://www.latimes.com/environment/story/2025-09-30/california-wants-biomass-energy-its-projects-keep-going-south",
+    "headline": "Eager for 'home,' students return to school destroyed by L.A. fires — in temporary classrooms",
+    "link": "https://www.latimes.com/california/story/2025-09-30/students-make-fast-return-to-burned-down-palisades-campus-in-temporary-bungalows",
     "source": "latimes",
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
   {
-    "headline": "Eager for 'home,' students return to school destroyed by L.A. fires — in temporary classrooms",
-    "link": "https://www.latimes.com/california/story/2025-09-30/students-make-fast-return-to-burned-down-palisades-campus-in-temporary-bungalows",
+    "headline": "California needs biomass energy to meet its wildfire goals. Its projects keep going South",
+    "link": "https://www.latimes.com/environment/story/2025-09-30/california-wants-biomass-energy-its-projects-keep-going-south",
     "source": "latimes",
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
@@ -5874,12 +5856,6 @@
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
   {
-    "headline": "'Now there is nothing for us': Towns disappear when wildfire survivors can't rebuild",
-    "link": "https://www.latimes.com/california/story/2025-09-30/berry-creek-fire-victims-ignored",
-    "source": "latimes",
-    "pubdate": "2025-09-30-10-00-00 +0000"
-  },
-  {
     "headline": "Younger, richer and smaller: How California's era of wildfire has changed communities forever",
     "link": "https://www.latimes.com/homeless-housing/story/2025-09-30/how-communities-change-after-wildfire",
     "source": "latimes",
@@ -5888,6 +5864,12 @@
   {
     "headline": "22,500 homes lost. Over five years later, only 38% rebuilt: What California fire survivors face",
     "link": "https://www.latimes.com/homeless-housing/story/2025-09-30/rebuilding-california-after-major-wildfires",
+    "source": "latimes",
+    "pubdate": "2025-09-30-10-00-00 +0000"
+  },
+  {
+    "headline": "'Now there is nothing for us': Towns disappear when wildfire survivors can't rebuild",
+    "link": "https://www.latimes.com/california/story/2025-09-30/berry-creek-fire-victims-ignored",
     "source": "latimes",
     "pubdate": "2025-09-30-10-00-00 +0000"
   },
@@ -6604,11 +6586,5 @@
     "link": "https://missionlocal.org/2025/09/yvonnes-southern-sweets-in-bayview-reopens-after-fire-and-vandalism/",
     "source": "missionlocal",
     "pubdate": "2025-09-27-16-55-16 +0000"
-  },
-  {
-    "headline": "Rwanda’s President Turns to Sport to Give Tarnished Image a Makeover",
-    "link": "https://www.wsj.com/world/africa/rwanda-sports-president-paul-kagame-99eb6e60",
-    "source": "wsj",
-    "pubdate": "2025-09-27-16-00-00 +0000"
   }
 ]
