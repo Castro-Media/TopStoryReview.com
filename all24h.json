@@ -1,5 +1,143 @@
 [
   {
+    "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-50-40 +0000"
+  },
+  {
+    "headline": "Trump to Send Witkoff, Kushner to Middle East to Seal Hostage Release Deal",
+    "link": "https://www.wsj.com/world/middle-east/israels-military-signals-an-easing-of-its-gaza-offensive-6d4e3d25",
+    "source": "wsj",
+    "pubdate": "2025-10-04-16-50-00 +0000"
+  },
+  {
+    "headline": "Trump’s Gaza Peace Plan: What to Know",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-48-57 +0000"
+  },
+  {
+    "headline": "Trump’s Gaza Peace Plan: What to Know",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-48-57 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/04/world/israel-hamas-gaza-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-46-45 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/04/world/israel-hamas-gaza-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-46-45 +0000"
+  },
+  {
+    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-45-25 +0000"
+  },
+  {
+    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-45-25 +0000"
+  },
+  {
+    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-42-47 +0000"
+  },
+  {
+    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-42-47 +0000"
+  },
+  {
+    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-42-47 +0000"
+  },
+  {
+    "headline": "Who Still Has Temporary Protected Status?",
+    "link": "https://www.nytimes.com/2025/10/04/us/politics/temporary-protected-status-scotus.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-39-00 +0000"
+  },
+  {
+    "headline": "Who Still Has Temporary Protected Status?",
+    "link": "https://www.nytimes.com/2025/10/04/us/politics/temporary-protected-status-scotus.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-39-00 +0000"
+  },
+  {
+    "headline": "London police arrest dozens of protesters against Palestine Action ban — days after deadly Manchester synagogue attack",
+    "link": "https://nypost.com/2025/10/04/world-news/london-police-arrest-protesters-against-palestine-action-ban/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-28-25 +0000"
+  },
+  {
+    "headline": "Attorney General Pam Bondi says DOJ will appeal ‘woefully insufficient’ sentence for would-be Kavanaugh assassin",
+    "link": "https://nypost.com/2025/10/04/us-news/attorney-general-pam-bondi-says-doj-will-appeal-woefully-insufficient-sentence-for-would-be-kavanaugh-assassin/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-23-45 +0000"
+  },
+  {
+    "headline": "Attorney General Pam Bondi says DOJ will appeal ‘woefully insufficient’ sentence for would-be Kavanaugh assassin",
+    "link": "https://nypost.com/2025/10/04/us-news/attorney-general-pam-bondi-says-doj-will-appeal-woefully-insufficient-sentence-for-would-be-kavanaugh-assassin/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-23-45 +0000"
+  },
+  {
+    "headline": "NYC police union calls for ouster of ‘anti-cop’ Mamdani-esque Civilian Complaint Review Board chair",
+    "link": "https://nypost.com/2025/10/04/us-news/pba-calls-chairman-of-anti-cop-complaint-board-blatantly-biased/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-15-10 +0000"
+  },
+  {
+    "headline": "AOC resorting to ‘baseless hysteria’ over stalled stopgap funding bill to score donations: White House",
+    "link": "https://nypost.com/2025/10/04/us-news/aoc-resorting-to-baseless-hysteria-over-stalled-stopgap-funding-bill-to-score-donations-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-05-02 +0000"
+  },
+  {
+    "headline": "AOC resorting to ‘baseless hysteria’ over stalled stopgap funding bill to score donations: White House",
+    "link": "https://nypost.com/2025/10/04/us-news/aoc-resorting-to-baseless-hysteria-over-stalled-stopgap-funding-bill-to-score-donations-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-05-02 +0000"
+  },
+  {
+    "headline": "NYC man charged with murder for allegedly stabbing mother-in-law, teen in terrifying drunken rampage: cops",
+    "link": "https://nypost.com/2025/10/04/us-news/nyc-man-facing-murder-charges-for-allegedlly-stabbing-mother-in-law-teen-in-drunken-rampage-cops/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-16-04-20 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-02-17 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-16-02-17 +0000"
+  },
+  {
+    "headline": "To hear the top House Democrat tell it, beyond the trash talk and nasty memes, there is a deal to be had with Republicans to end the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/hakeem-jeffries-trump-insults-73122e15",
+    "source": "wsj",
+    "pubdate": "2025-10-04-16-00-00 +0000"
+  },
+  {
     "headline": "Munich airport reopens after closing twice in less than 24 hours over alarming drone sightings",
     "link": "https://nypost.com/2025/10/04/world-news/munich-airport-reopens-after-closing-twice-in-less-than-24-hours-over-alarming-drone-sightings/",
     "source": "nypost",
@@ -42,24 +180,6 @@
     "pubdate": "2025-10-04-15-34-49 +0000"
   },
   {
-    "headline": "Trump’s Gaza Peace Plan: What to Know",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-33-12 +0000"
-  },
-  {
-    "headline": "Trump’s Gaza Peace Plan: What to Know",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-33-12 +0000"
-  },
-  {
-    "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
-    "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-29-16 +0000"
-  },
-  {
     "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
     "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
     "source": "nyt",
@@ -78,7 +198,7 @@
     "pubdate": "2025-10-04-15-28-06 +0000"
   },
   {
-    "headline": "Brain drain: highly processed foods linked to cognitive decline",
+    "headline": "Brain drain: Highly processed foods linked to cognitive decline, groundbreaking study finds",
     "link": "https://nypost.com/2025/10/04/world-news/midlife-snack-habits-could-be-rotting-your-brain/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-27-30 +0000"
@@ -90,28 +210,16 @@
     "pubdate": "2025-10-04-15-26-56 +0000"
   },
   {
-    "headline": "Road to City Haul: NYC council candidate Phil Wong moves campaign HQ to U-haul truck",
+    "headline": "NYC council candidate Phil Wong moves campaign HQ to U-haul truck after losing lease",
     "link": "https://nypost.com/2025/10/04/us-news/wong-city-council-candidate-forced-out-of-maspeth-campaign-hq/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-26-51 +0000"
   },
   {
-    "headline": "Zohran Mamdani volunteer shares pic showing him giving NYPD cops  finger — and he isn’t sorry",
+    "headline": "Zohran Mamdani volunteer shares pic showing him giving NYPD cops finger — and he isn’t sorry",
     "link": "https://nypost.com/2025/10/04/us-news/zohran-backer-gives-brooklyn-wave-to-nys-finest-shares-photo-online/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-26-08 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-25-36 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-15-25-36 +0000"
   },
   {
     "headline": "NYC granny loses life savings to online scam — and she’s placing the blame on banks: lawsuit",
@@ -126,13 +234,13 @@
     "pubdate": "2025-10-04-15-22-08 +0000"
   },
   {
-    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza: report",
+    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza",
     "link": "https://nypost.com/2025/10/04/us-news/us-envoy-steve-witkoff-jared-kushner-headed-to-cairo-for-talks-to-finalize-end-of-war-in-gaza-report/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-22-06 +0000"
   },
   {
-    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza: report",
+    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza",
     "link": "https://nypost.com/2025/10/04/us-news/us-envoy-steve-witkoff-jared-kushner-headed-to-cairo-for-talks-to-finalize-end-of-war-in-gaza-report/",
     "source": "nypost",
     "pubdate": "2025-10-04-15-22-06 +0000"
@@ -222,12 +330,6 @@
     "pubdate": "2025-10-04-14-31-40 +0000"
   },
   {
-    "headline": "Trump to Send Witkoff, Kushner to Middle East to Seal Hostage Release Deal",
-    "link": "https://www.wsj.com/world/middle-east/israels-military-signals-an-easing-of-its-gaza-offensive-6d4e3d25",
-    "source": "wsj",
-    "pubdate": "2025-10-04-14-19-00 +0000"
-  },
-  {
     "headline": "Hamas’ response to Trump’s Gaza peace plan wins hardline support from hostage-holding ally",
     "link": "https://nypost.com/2025/10/04/world-news/hamas-response-to-trumps-plan-to-end-war-wins-hardline-support/",
     "source": "nypost",
@@ -297,13 +399,13 @@
     "headline": "For the New Archbishop of Canterbury, Nursing Roots Could Bring a Pastoral Sensibility",
     "link": "https://www.nytimes.com/2025/10/04/world/europe/sarah-mullally-archbishop-of-canterbury.html",
     "source": "nyt",
-    "pubdate": "2025-10-04-13-36-56 +0000"
+    "pubdate": "2025-10-04-13-36-57 +0000"
   },
   {
     "headline": "For the New Archbishop of Canterbury, Nursing Roots Could Bring a Pastoral Sensibility",
     "link": "https://www.nytimes.com/2025/10/04/world/europe/sarah-mullally-archbishop-of-canterbury.html",
     "source": "nyt",
-    "pubdate": "2025-10-04-13-36-56 +0000"
+    "pubdate": "2025-10-04-13-36-57 +0000"
   },
   {
     "headline": "Two teen girls — one just 13 — found dead on Brooklyn train in suspected subway surfing  incident: cops",
@@ -492,12 +594,6 @@
     "pubdate": "2025-10-04-12-00-00 +0000"
   },
   {
-    "headline": "Ex-husband of NYC teacher in school sex scandal has gunshots fired into his house: ‘This was attempted murder’",
-    "link": "https://nypost.com/2025/10/04/us-news/ex-husband-of-nyc-teacher-in-sex-scandal-calls-gunshots-fired-into-his-home-attempted-murder/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-11-45-30 +0000"
-  },
-  {
     "headline": "Starmer tells protesters to 'respect grief of British Jews'",
     "link": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -532,30 +628,6 @@
     "link": "https://www.wsj.com/economy/jobs/federal-worker-buyouts-are-kicking-in-darkening-the-u-s-employment-picture-4c3f044b",
     "source": "wsj",
     "pubdate": "2025-10-04-11-00-00 +0000"
-  },
-  {
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-10-59-43 +0000"
-  },
-  {
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-10-59-43 +0000"
-  },
-  {
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-10-59-43 +0000"
-  },
-  {
-    "headline": "Seattle mayor rejects locking up repeat criminals during tense debate: ‘Maybe they’re hungry’",
-    "link": "https://nypost.com/2025/10/04/us-news/seattle-mayor-bruce-harrell-rejects-locking-up-repeat-criminals-during-tense-debate/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-10-25-12 +0000"
   },
   {
     "headline": "Best Intentions",
@@ -612,14 +684,14 @@
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
   {
-    "headline": "California's home insurer of last resort seeks 36% rate hike following January fires",
-    "link": "https://www.latimes.com/business/story/2025-10-04/californias-home-insurer-of-last-resort-seeks-36-rate-hike-following-january-fires",
+    "headline": "The Writers Guild helped bring Kimmel back. Here's what its new president plans next",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-04/wga-west-president-michele-mulroney",
     "source": "latimes",
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
   {
-    "headline": "The Writers Guild helped bring Kimmel back. Here's what its new president plans next",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-04/wga-west-president-michele-mulroney",
+    "headline": "California's home insurer of last resort seeks 36% rate hike following January fires",
+    "link": "https://www.latimes.com/business/story/2025-10-04/californias-home-insurer-of-last-resort-seeks-36-rate-hike-following-january-fires",
     "source": "latimes",
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
@@ -690,13 +762,13 @@
     "pubdate": "2025-10-04-09-01-27 +0000"
   },
   {
-    "headline": "Partisan Shutdown Messages Could Hurt Civil Service, Experts Warn",
+    "headline": "Partisan Messaging During Government Shutdown Could Hurt Civil Service, Experts Warn",
     "link": "https://www.nytimes.com/2025/10/04/us/politics/partisan-messages-shutdown-trump.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-01-25 +0000"
   },
   {
-    "headline": "Partisan Shutdown Messages Could Hurt Civil Service, Experts Warn",
+    "headline": "Partisan Messaging During Government Shutdown Could Hurt Civil Service, Experts Warn",
     "link": "https://www.nytimes.com/2025/10/04/us/politics/partisan-messages-shutdown-trump.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-01-25 +0000"
@@ -870,12 +942,6 @@
     "pubdate": "2025-10-04-06-11-18 +0000"
   },
   {
-    "headline": "Maryland firefighters charged after flooding baseball field with truck hose during long-running feud",
-    "link": "https://nypost.com/2025/10/04/us-news/maryland-firefighters-charged-after-flooding-baseball-field-with-truck-hose-during-long-running-feud/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-06-03-24 +0000"
-  },
-  {
     "headline": "What to Know About Japan’s Leadership Election",
     "link": "https://www.nytimes.com/2025/10/03/world/asia/japan-election-leader-what-to-know.html",
     "source": "nyt",
@@ -942,12 +1008,6 @@
     "pubdate": "2025-10-04-04-13-00 +0000"
   },
   {
-    "headline": "50 Cent trolls longtime rival Sean ‘Diddy’ Combs with brutal post-sentencing offer",
-    "link": "https://nypost.com/2025/10/03/entertainment/50-cent-trolls-longtime-rival-sean-diddy-combs-with-brutal-post-sentencing-offer/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-03-28-52 +0000"
-  },
-  {
     "headline": "Navy chief of staff out at Pentagon in Hegseth’s latest shakeup",
     "link": "https://nypost.com/2025/10/03/us-news/navy-chief-of-staff-jon-harrison-out-at-pentagon-in-hegseths-latest-shakeup/",
     "source": "nypost",
@@ -1012,18 +1072,6 @@
     "link": "https://www.bbc.com/news/articles/c8rv2l3me40o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-04-01-59-49 +0000"
-  },
-  {
-    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-01-55-28 +0000"
-  },
-  {
-    "headline": "French Photojournalist Killed in Drone Attack in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-drone-attack-journalist-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-01-55-28 +0000"
   },
   {
     "headline": "Sean 'Diddy' Combs sentenced to more than four years in prison",
@@ -2188,119 +2236,5 @@
     "link": "https://www.wsj.com/business/the-self-taught-engineer-going-head-to-head-with-elon-musk-and-jeff-bezos-14d67c27?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-03-16-58-00 +0000"
-  },
-  {
-    "headline": "Patricia Crowther, dead at 97, brought witchcraft out of the shadows",
-    "link": "https://www.washingtonpost.com/obituaries/2025/10/03/patricia-crowther-witch-dead/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-16-53-10 +0000"
-  },
-  {
-    "headline": "Jane Fonda Revives Her Father’s McCarthy-Era Free Speech Group",
-    "link": "https://www.nytimes.com/2025/10/03/arts/jane-fonda-henry-fonda-free-speech.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-51-33 +0000"
-  },
-  {
-    "headline": "Conservative church group condemns choice of female Archbishop of Canterbury",
-    "link": "https://www.bbc.com/news/articles/c179yvn08njo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-16-40-55 +0000"
-  },
-  {
-    "headline": "Conservative church group condemns choice of female Archbishop of Canterbury",
-    "link": "https://www.bbc.com/news/articles/c179yvn08njo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-16-40-55 +0000"
-  },
-  {
-    "headline": "Week Ahead for FX, Bonds: Focus on Fed Minutes, U.S. Shutdown Developments",
-    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-focus-on-fed-minutes-u-s-shutdown-developments-f0e6be53",
-    "source": "wsj",
-    "pubdate": "2025-10-03-16-37-00 +0000"
-  },
-  {
-    "headline": "Apple Takes Down ICE Tracking Apps in Response to Trump Pressure Campaign",
-    "link": "https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-36-50 +0000"
-  },
-  {
-    "headline": "'No good outcome' - voters across US share concerns about shutdown",
-    "link": "https://www.bbc.com/news/articles/c4gjyzv6vv8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-16-34-36 +0000"
-  },
-  {
-    "headline": "Indian Comedian Kunal Kamra Forced Offstage Amid Political Censorship",
-    "link": "https://www.nytimes.com/2025/10/03/world/asia/india-comedian-kunal-kamra.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-24-57 +0000"
-  },
-  {
-    "headline": "Indian Comedian Kunal Kamra Forced Offstage Amid Political Censorship",
-    "link": "https://www.nytimes.com/2025/10/03/world/asia/india-comedian-kunal-kamra.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-24-57 +0000"
-  },
-  {
-    "headline": "Putin Suggests Trump Will Decide Against Sending Tomahawk Missiles to Ukraine",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/putin-trump-ukraine-tomahawk-missiles.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-22-35 +0000"
-  },
-  {
-    "headline": "Putin Suggests Trump Will Decide Against Sending Tomahawk Missiles to Ukraine",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/putin-trump-ukraine-tomahawk-missiles.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-22-35 +0000"
-  },
-  {
-    "headline": "Jeff Bezos makes wild prediction about data centers as energy demand grows",
-    "link": "https://nypost.com/2025/10/03/business/jeff-bezos-expects-data-centers-will-be-built-in-space-in-10-to-20-years/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-16-20-58 +0000"
-  },
-  {
-    "headline": "Trump wanted to extend a key U.S.-Africa trade agreement. It expired anyway.",
-    "link": "https://www.washingtonpost.com/world/2025/10/03/africa-us-trade-program-expired/",
-    "source": "wapo",
-    "pubdate": "2025-10-03-16-15-03 +0000"
-  },
-  {
-    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-14-47 +0000"
-  },
-  {
-    "headline": "Sarah Mullally Is Named as First Female Archbishop of Canterbury",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-archbishop-canterbury-woman-church-sarah-mullally.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-16-14-47 +0000"
-  },
-  {
-    "headline": "Michelle Mone has 'no wish' to return as Tory in House of Lords",
-    "link": "https://www.bbc.com/news/articles/ckgy8l1km8lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-16-04-35 +0000"
-  },
-  {
-    "headline": "Reform issues legal threat over Putin jibe",
-    "link": "https://www.bbc.com/news/articles/c20vyzjvld4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-16-02-46 +0000"
-  },
-  {
-    "headline": "The Hidden Cost of Playing the Stock Market’s Slot Machine",
-    "link": "https://www.wsj.com/finance/investing/the-hidden-cost-of-playing-the-stock-markets-slot-machine-0512d452?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-03-16-00-00 +0000"
-  },
-  {
-    "headline": "Father of Manchester synagogue terrorist Jihad al-Shamie praised Hamas for Oct. 7 slaughter",
-    "link": "https://nypost.com/2025/10/03/world-news/father-of-manchester-synagogue-terrorist-jihad-al-shamie-praised-hamas-for-oct-7-slaughter/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-15-56-41 +0000"
   }
 ]
