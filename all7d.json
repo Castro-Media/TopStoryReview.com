@@ -1,9 +1,189 @@
 [
   {
+    "headline": "Munich airport reopens after closing twice in less than 24 hours over alarming drone sightings",
+    "link": "https://nypost.com/2025/10/04/world-news/munich-airport-reopens-after-closing-twice-in-less-than-24-hours-over-alarming-drone-sightings/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-41-12 +0000"
+  },
+  {
+    "headline": "Pornhub suffers 50% drop in UK traffic after age restrictions added",
+    "link": "https://nypost.com/2025/10/04/world-news/pornhub-suffers-50-drop-in-uk-traffic-after-age-restrictions-added/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-40-14 +0000"
+  },
+  {
+    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-38-43 +0000"
+  },
+  {
+    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-38-43 +0000"
+  },
+  {
+    "headline": "Manchester Synagogue Terrorist Was Under Investigation for Rape",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-38-30 +0000"
+  },
+  {
+    "headline": "Manchester Synagogue Terrorist Was Under Investigation for Rape",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-38-30 +0000"
+  },
+  {
+    "headline": "At least 30 injured in Russian strike on railway station, Zelensky says",
+    "link": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-04-15-34-49 +0000"
+  },
+  {
+    "headline": "Trump’s Gaza Peace Plan: What to Know",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-33-12 +0000"
+  },
+  {
+    "headline": "Trump’s Gaza Peace Plan: What to Know",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-33-12 +0000"
+  },
+  {
     "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
     "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
     "source": "nyt",
-    "pubdate": "2025-10-04-14-52-41 +0000"
+    "pubdate": "2025-10-04-15-29-16 +0000"
+  },
+  {
+    "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-29-16 +0000"
+  },
+  {
+    "headline": "Missouri man mauled to death at Arkansas campsite after texting family photos of bear",
+    "link": "https://nypost.com/2025/10/04/us-news/missouri-man-mauled-to-death-at-arkansas-campsite/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-28-10 +0000"
+  },
+  {
+    "headline": "Hope and fear for hostage families after Hamas response to Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/cly9e6mnve9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-04-15-28-06 +0000"
+  },
+  {
+    "headline": "Brain drain: highly processed foods linked to cognitive decline",
+    "link": "https://nypost.com/2025/10/04/world-news/midlife-snack-habits-could-be-rotting-your-brain/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-27-30 +0000"
+  },
+  {
+    "headline": "Who are the hostages believed to still be alive in Gaza?",
+    "link": "https://www.washingtonpost.com/world/2025/05/12/hamas-gaza-remaining-israel-hostages/",
+    "source": "wapo",
+    "pubdate": "2025-10-04-15-26-56 +0000"
+  },
+  {
+    "headline": "Road to City Haul: NYC council candidate Phil Wong moves campaign HQ to U-haul truck",
+    "link": "https://nypost.com/2025/10/04/us-news/wong-city-council-candidate-forced-out-of-maspeth-campaign-hq/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-26-51 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani volunteer shares pic showing him giving NYPD cops  finger — and he isn’t sorry",
+    "link": "https://nypost.com/2025/10/04/us-news/zohran-backer-gives-brooklyn-wave-to-nys-finest-shares-photo-online/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-26-08 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-25-36 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-25-36 +0000"
+  },
+  {
+    "headline": "NYC granny loses life savings to online scam — and she’s placing the blame on banks: lawsuit",
+    "link": "https://nypost.com/2025/10/04/us-news/nyc-granny-loses-life-savings-to-sick-online-scam-claims-banks-are-to-blame-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-22-50 +0000"
+  },
+  {
+    "headline": "NYC councilwoman and Zohran Mamdani ally Alexa Aviles emerges as latest name in socialist millionaire’s club",
+    "link": "https://nypost.com/2025/10/04/us-news/nyc-councilwoman-and-mamdani-ally-alexa-aviles-latest-revealed-in-socialist-millionaires-club/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-22-08 +0000"
+  },
+  {
+    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza: report",
+    "link": "https://nypost.com/2025/10/04/us-news/us-envoy-steve-witkoff-jared-kushner-headed-to-cairo-for-talks-to-finalize-end-of-war-in-gaza-report/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-22-06 +0000"
+  },
+  {
+    "headline": "US envoy Steve Witkoff, Jared Kushner headed to Cairo for talks to finalize end of war in Gaza: report",
+    "link": "https://nypost.com/2025/10/04/us-news/us-envoy-steve-witkoff-jared-kushner-headed-to-cairo-for-talks-to-finalize-end-of-war-in-gaza-report/",
+    "source": "nypost",
+    "pubdate": "2025-10-04-15-22-06 +0000"
+  },
+  {
+    "headline": "Synagogue Attack Increases Pressure on Starmer in the U.K.",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/manchester-synagogue-palestine-antisemitism-starmer-labour-party.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-20-30 +0000"
+  },
+  {
+    "headline": "Synagogue Attack Increases Pressure on Starmer in the U.K.",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/manchester-synagogue-palestine-antisemitism-starmer-labour-party.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-20-30 +0000"
+  },
+  {
+    "headline": "Rail firm fined £1m over train passenger's death",
+    "link": "https://www.bbc.com/news/articles/c20ej7rkj3ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-04-15-17-17 +0000"
+  },
+  {
+    "headline": "Israel pauses Gaza City push after Hamas accepts Trump plan with conditions",
+    "link": "https://www.washingtonpost.com/world/2025/10/04/israel-hamas-war-peace-plan-netanyahu/",
+    "source": "wapo",
+    "pubdate": "2025-10-04-15-14-32 +0000"
+  },
+  {
+    "headline": "Man Drives Car Onto Sidewalk Outside L.A. City Hall, Barricading Himself Inside",
+    "link": "https://www.nytimes.com/2025/10/03/us/la-city-hall-car.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-11-58 +0000"
+  },
+  {
+    "headline": "Trump’s Approach on Gaza: Deal First, Details Later",
+    "link": "https://www.nytimes.com/2025/10/04/us/politics/trump-gaza-diplomacy.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-10-15 +0000"
+  },
+  {
+    "headline": "Trump’s Approach on Gaza: Deal First, Details Later",
+    "link": "https://www.nytimes.com/2025/10/04/us/politics/trump-gaza-diplomacy.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-15-10-15 +0000"
+  },
+  {
+    "headline": "Statue of Trump and Epstein Holding Hands Returns to National Mall",
+    "link": "https://www.nytimes.com/2025/10/03/us/donald-trump-jeffrey-epstein-statue-washington.html",
+    "source": "nyt",
+    "pubdate": "2025-10-04-14-50-50 +0000"
   },
   {
     "headline": "‘Czech Trump’ Andrej Babis Is Poised to Return as Prime Minister in Elections",
@@ -16,18 +196,18 @@
     "link": "https://www.nytimes.com/2025/10/03/world/europe/andrej-babis-czech-elections.html",
     "source": "nyt",
     "pubdate": "2025-10-04-14-46-43 +0000"
-  },
-  {
-    "headline": "Ivan Klima, Czech Novelist Who Chafed Under Totalitarian Regimes, Dies at 94",
-    "link": "https://www.nytimes.com/2025/10/04/world/europe/ivan-klima-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-14-46-40 +0000"
   },
   {
     "headline": "The Interview: Senator Alex Padilla Says His Viral Moment Was a Sign of Things to Come",
     "link": "https://www.nytimes.com/2025/10/04/magazine/alex-padilla-interview.html",
     "source": "nyt",
     "pubdate": "2025-10-04-14-45-10 +0000"
+  },
+  {
+    "headline": "Wild goalie Filip Gustavsson gets $34 million contract extension",
+    "link": "https://www.startribune.com/wild-goalie-filip-gustavsson-marc-andre-fleury-jesper-wallstedt-wife-rebecka/601456966",
+    "source": "startribune",
+    "pubdate": "2025-10-04-14-45-04 +0000"
   },
   {
     "headline": "Six people arrested on suspicion of terror offenses after Manchester synagogue attack",
@@ -40,12 +220,6 @@
     "link": "https://www.bbc.com/news/articles/cx20ky6n79eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-04-14-31-40 +0000"
-  },
-  {
-    "headline": "At least 30 injured in Russian strike on railway station, Zelensky says",
-    "link": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-04-14-28-58 +0000"
   },
   {
     "headline": "Trump to Send Witkoff, Kushner to Middle East to Seal Hostage Release Deal",
@@ -70,18 +244,6 @@
     "link": "https://www.bbc.com/news/articles/c701y9de2dro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-04-14-12-23 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-14-02-01 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Say They’ll Work With Trump’s Gaza Plan, but Gaps Remain",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-14-02-01 +0000"
   },
   {
     "headline": "From notario to notorious: S.F.’s most famous accused fake lawyer blames it on ‘satanic’ Dems",
@@ -234,7 +396,7 @@
     "pubdate": "2025-10-04-12-38-59 +0000"
   },
   {
-    "headline": "Russian strike hits passenger train in Ukraine, injuring at least 30 people",
+    "headline": "Russian drone strike hits passenger train in Ukraine, killing 1 person and injuring 30",
     "link": "https://www.cbc.ca/news/world/russia-drone-ukraine-train-station-1.7651324?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-04-12-37-30 +0000"
@@ -276,7 +438,7 @@
     "pubdate": "2025-10-04-12-27-57 +0000"
   },
   {
-    "headline": "Russia launches ‘savage’ drone strike on Ukraine railway station",
+    "headline": "Russia launches ‘savage’ drone strike on Ukraine railway station, injuring dozens",
     "link": "https://nypost.com/2025/10/04/world-news/russian-launch-savage-drone-strike-on-railway-station-in-ukraine/",
     "source": "nypost",
     "pubdate": "2025-10-04-12-24-27 +0000"
@@ -292,12 +454,6 @@
     "link": "https://www.bbc.com/news/articles/c864dzn827xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-04-12-23-06 +0000"
-  },
-  {
-    "headline": "Leaf-peeping crowds are thronging the North Shore as the season hits its peak",
-    "link": "https://www.startribune.com/up-the-north-shore-crowds-get-as-intense-as-fall-colors/601476090",
-    "source": "startribune",
-    "pubdate": "2025-10-04-12-14-25 +0000"
   },
   {
     "headline": "A Utah teen fell to his death. Strangers at the cliff keep his memory alive.",
@@ -348,18 +504,6 @@
     "pubdate": "2025-10-04-11-42-19 +0000"
   },
   {
-    "headline": "Cautious Optimism on Gaza Peace Plan, but No Guarantees. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-11-38-27 +0000"
-  },
-  {
-    "headline": "Cautious Optimism on Gaza Peace Plan, but No Guarantees. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-11-38-27 +0000"
-  },
-  {
     "headline": "UK will leave ECHR if Tories win election, Badenoch says",
     "link": "https://www.bbc.com/news/articles/c1mxy2j2elro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -408,12 +552,6 @@
     "pubdate": "2025-10-04-10-59-43 +0000"
   },
   {
-    "headline": "High stakes for Gaza peace talks as Hamas accepts Trump plan with conditions",
-    "link": "https://www.washingtonpost.com/world/2025/10/04/israel-hamas-war-peace-plan-netanyahu/",
-    "source": "wapo",
-    "pubdate": "2025-10-04-10-44-52 +0000"
-  },
-  {
     "headline": "Seattle mayor rejects locking up repeat criminals during tense debate: ‘Maybe they’re hungry’",
     "link": "https://nypost.com/2025/10/04/us-news/seattle-mayor-bruce-harrell-rejects-locking-up-repeat-criminals-during-tense-debate/",
     "source": "nypost",
@@ -424,12 +562,6 @@
     "link": "https://www.nytimes.com/2025/10/04/briefing/best-intentions.html",
     "source": "nyt",
     "pubdate": "2025-10-04-10-21-46 +0000"
-  },
-  {
-    "headline": "Rail firm fined £1m over train passenger's death",
-    "link": "https://www.bbc.com/news/articles/c20ej7rkj3ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-04-10-13-36 +0000"
   },
   {
     "headline": "Japan Is Set for Its First Female Prime Minister",
@@ -540,25 +672,19 @@
     "pubdate": "2025-10-04-09-30-00 +0000"
   },
   {
-    "headline": "Statue of Trump and Epstein Holding Hands Returns to National Mall",
-    "link": "https://www.nytimes.com/2025/10/03/us/donald-trump-jeffrey-epstein-statue-washington.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-09-14-26 +0000"
-  },
-  {
-    "headline": "Trump Seizes on Shutdown to Punish Political Foes",
+    "headline": "Trump Seizes On Government Shutdown to Punish Political Foes",
     "link": "https://www.nytimes.com/2025/10/04/us/politics/trump-shutdown-punish-foes.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-01-27 +0000"
   },
   {
-    "headline": "Trump Seizes on Shutdown to Punish Political Foes",
+    "headline": "Trump Seizes On Government Shutdown to Punish Political Foes",
     "link": "https://www.nytimes.com/2025/10/04/us/politics/trump-shutdown-punish-foes.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-01-27 +0000"
   },
   {
-    "headline": "Trump Seizes on Shutdown to Punish Political Foes",
+    "headline": "Trump Seizes On Government Shutdown to Punish Political Foes",
     "link": "https://www.nytimes.com/2025/10/04/us/politics/trump-shutdown-punish-foes.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-01-27 +0000"
@@ -595,7 +721,7 @@
   },
   {
     "headline": "The Tech Jester Who Pranks San Francisco",
-    "link": "https://www.nytimes.com/2025/10/04/us/the-tech-jester-who-pranks-san-francisco.html",
+    "link": "https://www.nytimes.com/2025/10/04/us/riley-walz-san-francisco-parking-tickets-app.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-00-58 +0000"
   },
@@ -828,40 +954,16 @@
     "pubdate": "2025-10-04-03-22-05 +0000"
   },
   {
-    "headline": "Navy chief of staff out at Pentagon in Hegseth’s latest shakeup",
-    "link": "https://nypost.com/2025/10/03/us-news/navy-chief-of-staff-jon-harrison-out-at-pentagon-in-hegseths-latest-shakeup/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-03-22-05 +0000"
-  },
-  {
     "headline": "Hamas internal rift over hostages, weapons could pose challenges to Trump’s Gaza peace plan: report",
     "link": "https://nypost.com/2025/10/03/world-news/hamas-internal-rift-over-hostages-weapons-could-pose-challenges-to-trumps-gaza-peace-plan-report/",
     "source": "nypost",
     "pubdate": "2025-10-04-03-10-45 +0000"
   },
   {
-    "headline": "Man Drives Car Onto Sidewalk Outside L.A. City Hall, Barricading Himself Inside",
-    "link": "https://www.nytimes.com/2025/10/03/us/la-city-hall-car.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-02-49-33 +0000"
-  },
-  {
     "headline": "Dem Virginia AG candidate Jay Jones fantasized about a GOP pol getting ‘two bullets to the head’ in shocking text messages",
     "link": "https://nypost.com/2025/10/03/us-news/dem-virginia-ag-candidate-jay-jones-fantasized-about-a-gop-pol-getting-two-bullets-to-the-head-in-shocking-text-messages/",
     "source": "nypost",
     "pubdate": "2025-10-04-02-40-11 +0000"
-  },
-  {
-    "headline": "Dem Virginia AG candidate Jay Jones fantasized about a GOP pol getting ‘two bullets to the head’ in shocking text messages",
-    "link": "https://nypost.com/2025/10/03/us-news/dem-virginia-ag-candidate-jay-jones-fantasized-about-a-gop-pol-getting-two-bullets-to-the-head-in-shocking-text-messages/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-02-40-11 +0000"
-  },
-  {
-    "headline": "Father of slain 6-year-old issues ominous threat to son’s killer who was freed early after serving just 8 years",
-    "link": "https://nypost.com/2025/10/03/us-news/father-of-slain-6-year-old-issues-threat-to-sons-killer-who-was-freed-after-serving-8-years/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-02-27-58 +0000"
   },
   {
     "headline": "Poilievre chooses words carefully when asked about ostrich cull, May calls for re-testing",
@@ -930,12 +1032,6 @@
     "pubdate": "2025-10-04-01-54-53 +0000"
   },
   {
-    "headline": "Kristi Noem slams Illinois officials after being ‘blocked’ from entering Chicago-area government building to use restroom",
-    "link": "https://nypost.com/2025/10/03/us-news/kristi-noem-blocked-from-entering-chicago-area-government-building/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-01-53-53 +0000"
-  },
-  {
     "headline": "Watch: Emotional day in court as Diddy sentenced",
     "link": "https://www.bbc.com/news/videos/cyv60zdvdvno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -996,12 +1092,6 @@
     "pubdate": "2025-10-04-01-11-19 +0000"
   },
   {
-    "headline": "Read Sean ‘Diddy’ Combs’ plea to the judge before sentencing on prostitution charges",
-    "link": "https://nypost.com/2025/10/03/us-news/read-sean-diddy-combs-plea-to-the-judge-before-sentencing-on-prostitution-charges/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-01-09-58 +0000"
-  },
-  {
     "headline": "They're making sex jokes in Saudi: Inside the controversial comedy festival",
     "link": "https://www.bbc.com/news/articles/cwyn2yqpnnpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1024,12 +1114,6 @@
     "link": "https://www.startribune.com/golden-valley-police-chief-resigns-following-findings-of-alleged-misconduct/601485880",
     "source": "startribune",
     "pubdate": "2025-10-04-00-53-28 +0000"
-  },
-  {
-    "headline": "Israel ready for ‘immediate implementation’ of Trump’s Gaza peace plan after Hamas agrees to free hostages: Netanyahu’s office",
-    "link": "https://nypost.com/2025/10/03/world-news/israel-ready-for-immediate-implantation-of-trumps-gaza-peace-plan-after-hamas-agrees-to-free-hostages-netanyahus-office/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-00-42-44 +0000"
   },
   {
     "headline": "Israel ready for ‘immediate implementation’ of Trump’s Gaza peace plan after Hamas agrees to free hostages: Netanyahu’s office",
@@ -1398,18 +1482,6 @@
     "pubdate": "2025-10-03-22-22-09 +0000"
   },
   {
-    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-22-22-09 +0000"
-  },
-  {
-    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-22-22-09 +0000"
-  },
-  {
     "headline": "Rite Aid Closes Its Remaining Stores",
     "link": "https://www.nytimes.com/2025/10/03/business/rite-aid-closes-stores-bankruptcy.html",
     "source": "nyt",
@@ -1584,18 +1656,6 @@
     "pubdate": "2025-10-03-21-31-21 +0000"
   },
   {
-    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-21-29-13 +0000"
-  },
-  {
-    "headline": "How an Attack on a Synagogue in Manchester Unfolded",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/manchester-synagogue-terrorist-attack-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-21-29-13 +0000"
-  },
-  {
     "headline": "Hamas accepts Trump’s plan to end the war in Gaza, but with conditions",
     "link": "https://www.washingtonpost.com/world/2025/10/03/hamas-gaza-peace-ceasefire-deal/",
     "source": "wapo",
@@ -1606,18 +1666,6 @@
     "link": "https://nypost.com/2025/10/03/us-news/brett-kavanaughs-would-be-assassin-gets-just-over-8-years-in-prison/",
     "source": "nypost",
     "pubdate": "2025-10-03-21-22-01 +0000"
-  },
-  {
-    "headline": "Manchester Synagogue Terrorist Was Under Investigation for Rape",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-21-21-39 +0000"
-  },
-  {
-    "headline": "Manchester Synagogue Terrorist Was Under Investigation for Rape",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-21-21-39 +0000"
   },
   {
     "headline": "The Score: Pfizer, Tesla, Electronic Arts and More Stocks That Defined the Week",
@@ -1912,12 +1960,6 @@
     "link": "https://www.nytimes.com/2025/10/03/world/middleeast/hamas-response-trump-gaza-deal.html",
     "source": "nyt",
     "pubdate": "2025-10-03-19-35-44 +0000"
-  },
-  {
-    "headline": "Synagogue Attack on Yom Kippur in Manchester, UK: What We Know",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html",
-    "source": "nyt",
-    "pubdate": "2025-10-03-19-32-56 +0000"
   },
   {
     "headline": "Lally Weymouth, Who Questioned Dictators and Hosted High Society, Dies at 82",
@@ -2346,12 +2388,6 @@
     "pubdate": "2025-10-03-15-26-55 +0000"
   },
   {
-    "headline": "Trump gives Hamas 6 p.m. Sunday deadline to accept peace proposal before ‘all hell’ breaks loose",
-    "link": "https://nypost.com/2025/10/03/world-news/trump-gives-hamas-6-p-m-sunday-deadline-to-accept-peace-proposal-before-all-hell-breaks-loose/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-15-20-56 +0000"
-  },
-  {
     "headline": "Best of the Bay: The Post Room",
     "link": "https://48hills.org/2025/10/best-of-the-bay-the-post-room/",
     "source": "48hills",
@@ -2446,12 +2482,6 @@
     "link": "https://www.bbc.com/news/articles/cly092r70zjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-03-14-25-12 +0000"
-  },
-  {
-    "headline": "Cops probe whether Manchester synagogue terrorist Jihad Al-Shamie threatened politician — as officials reveal why his name astonished them",
-    "link": "https://nypost.com/2025/10/03/world-news/manchester-synagogue-terrorist-jihad-al-shamie-might-have-threatened-john-howell/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-14-23-50 +0000"
   },
   {
     "headline": "It’s a Bad Time for Trump’s Plan to Cut Back on Corporate Reporting",
@@ -2728,12 +2758,6 @@
     "link": "https://www.wsj.com/world/europe/munich-airport-pauses-flights-after-latest-europe-drone-sighting-a85bd9e9",
     "source": "wsj",
     "pubdate": "2025-10-03-11-35-00 +0000"
-  },
-  {
-    "headline": "Manchester victim was accidentally killed by police in panic to stop knife-wielding terrorist",
-    "link": "https://nypost.com/2025/10/03/world-news/manchester-victim-was-accidentally-killed-by-police-in-panic-to-stop-knife-wielding-terrorist/",
-    "source": "nypost",
-    "pubdate": "2025-10-03-11-32-54 +0000"
   },
   {
     "headline": "S.F. residents want cops on the street. SFPD only staffs 1/3 of its foot beats.",
@@ -3324,12 +3348,6 @@
     "pubdate": "2025-10-02-23-26-42 +0000"
   },
   {
-    "headline": "As Russian Drones Menace Europe, Putin Says Moscow Has No Plans to Invade",
-    "link": "https://www.nytimes.com/2025/10/02/world/europe/putin-russia-drones.html",
-    "source": "nyt",
-    "pubdate": "2025-10-02-23-26-42 +0000"
-  },
-  {
     "headline": "Nine Colleges in Hot Seat as Trump’s Sweeping ‘Compact’ Sparks Sharp Reactions",
     "link": "https://www.wsj.com/us-news/education/trump-college-compact-funding-reactions-79f45f91",
     "source": "wsj",
@@ -3460,12 +3478,6 @@
     "link": "https://nypost.com/2025/10/02/world-news/ukraine-pitches-plan-to-help-us-sell-american-oil-to-europe-and-ice-out-russia/",
     "source": "nypost",
     "pubdate": "2025-10-02-21-25-48 +0000"
-  },
-  {
-    "headline": "Rudy Giuliani allies back Andrew  Cuomo over Curtis Sliwa for NYC mayor: ‘Socialist and a fruit loop’",
-    "link": "https://nypost.com/2025/10/02/us-news/rudy-giuliani-allies-back-andrew-cuomo-over-curtis-sliwa-for-nyc-mayor-socialist-and-a-fruit-loop/",
-    "source": "nypost",
-    "pubdate": "2025-10-02-21-24-36 +0000"
   },
   {
     "headline": "Opinion | Ukraine at the Rubicon",
@@ -4188,14 +4200,14 @@
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
   {
-    "headline": "Maui vacations, luxury watches: Wine buyer at major California grocery chain accused of taking bribes",
-    "link": "https://www.latimes.com/california/story/2025-10-02/buyer-at-albertsons-grocery-chain-charged-for-allegedly-taking-bribes-to-carry-certain-wines",
+    "headline": "This Beverly Hills haven for the rich has a floating garden for the public. Here's a sneak peek",
+    "link": "https://www.latimes.com/business/story/2025-10-02/planned-beverly-hills-public-gardens-unveiled",
     "source": "latimes",
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
   {
-    "headline": "This Beverly Hills haven for the rich has a floating garden for the public. Here's a sneak peek",
-    "link": "https://www.latimes.com/business/story/2025-10-02/planned-beverly-hills-public-gardens-unveiled",
+    "headline": "Maui vacations, luxury watches: Wine buyer at major California grocery chain accused of taking bribes",
+    "link": "https://www.latimes.com/california/story/2025-10-02/buyer-at-albertsons-grocery-chain-charged-for-allegedly-taking-bribes-to-carry-certain-wines",
     "source": "latimes",
     "pubdate": "2025-10-02-10-00-00 +0000"
   },
@@ -5172,20 +5184,26 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Gov. Newsom orders study of California's ailing utility and insurance markets",
-    "link": "https://www.latimes.com/business/story/2025-10-01/governor-proposes-reforms-to-state-insurance-market",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
     "headline": "Hiltzik: A former NLRB chair looks at the past, present and Trumpian future of labor rights in the U.S.",
     "link": "https://www.latimes.com/business/story/2025-10-01/a-former-nlrb-chairman-looks-at-the-past-present-and-trumpian-future-of-labor-rights-in-the-u-s",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "Your guide to the 2025 California special election",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
+    "headline": "Gov. Newsom orders study of California's ailing utility and insurance markets",
+    "link": "https://www.latimes.com/business/story/2025-10-01/governor-proposes-reforms-to-state-insurance-market",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Your guide to Proposition 50: California redistricting",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
+    "source": "latimes",
+    "pubdate": "2025-10-01-10-00-00 +0000"
+  },
+  {
+    "headline": "YouTube, Disney and Meta have all settled. Inside President Trump's $90-million payday",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-01/youtube-latest-company-to-settle-with-trump-disney-paramount-meta-90-million",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
@@ -5208,14 +5226,8 @@
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
   {
-    "headline": "YouTube, Disney and Meta have all settled. Inside President Trump's $90-million payday",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-01/youtube-latest-company-to-settle-with-trump-disney-paramount-meta-90-million",
-    "source": "latimes",
-    "pubdate": "2025-10-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Your guide to Proposition 50: California redistricting",
-    "link": "https://www.latimes.com/california/story/2025-10-01/2025-california-election-proposition-50-redistricting-voter-guide",
+    "headline": "Your guide to the 2025 California special election",
+    "link": "https://www.latimes.com/california/story/2025-10-01/2025-november-special-election-redistricting-california-voter-guide-ballot",
     "source": "latimes",
     "pubdate": "2025-10-01-10-00-00 +0000"
   },
