@@ -1,51 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-10-04-06-58-01 +0000",
+    "score": 22,
+    "pubdate": "2025-10-04-08-02-11 +0000",
     "source": "nyt",
-    "headline": "Hamas News Brings Hope, but No Guarantees, That Peace in Gaza Is Close",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html"
+    "headline": "Israel Says It Will Work With Trump Gaza Plan; Hamas Says It Will Release Hostages",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-04-08-01-49 +0000",
+    "source": "bbc",
+    "headline": "Munich airport resumes flights after suspected drones force second closure in 24 hours",
+    "link": "https://www.bbc.com/news/articles/cge2v4r4gr1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 14,
-    "pubdate": "2025-10-04-07-08-38 +0000",
+    "pubdate": "2025-10-04-08-26-46 +0000",
     "source": "nyt",
     "headline": "A Japanese Ski Resort Town Is Roiled by a Debate Over Immigration",
     "link": "https://www.nytimes.com/2025/10/04/business/japan-foreign-workers-hokkaido.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-04-07-24-05 +0000",
-    "source": "bbc",
-    "headline": "Sudanese city under siege: 'My son's whole body is full of shrapnel'",
-    "link": "https://www.bbc.com/news/articles/cvgnz76vr6lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 9,
-    "pubdate": "2025-10-04-07-15-00 +0000",
-    "source": "wsj",
-    "headline": "Japan Set for First Female Prime Minister Amid U.S. Friction Over Trade, Security",
-    "link": "https://www.wsj.com/world/asia/japan-prime-minister-election-sanae-takaichi-08e09216"
+    "pubdate": "2025-10-04-08-30-36 +0000",
+    "source": "nypost",
+    "headline": "Nationalist Sanae Takaichi set to be Japan’s first female prime minister",
+    "link": "https://nypost.com/2025/10/04/world-news/japan-sanae-takaichi-elected-leader-of-liberal-democratic-party-on-course-to-be-first-female-prime-minister/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-04-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "There could be 'mutual interest' in Canada building its submarines, says German armament secretary",
+    "link": "https://www.cbc.ca/news/politics/submarines-canada-germany-rearmament-1.7650508?cmp=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-04-08-45-12 +0000",
+    "source": "wapo",
+    "headline": "Meloni’s Italy looks to restrict talk of LBGTQ+ sexuality in schools",
+    "link": "https://www.washingtonpost.com/world/2025/10/04/italy-schools-lgbtq-legislation-gender/"
   },
   {
     "score": 7,
-    "pubdate": "2025-10-04-07-50-37 +0000",
-    "source": "bbc",
-    "headline": "Starmer tells protesters to 'respect grief of British Jews'",
-    "link": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-10-04-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Energy minister dismisses 'hypothetical' question of repealing B.C. tanker ban",
+    "link": "https://www.cbc.ca/news/politics/tim-hodgson-british-columbia-alberta-tanker-ban-1.7651035?cmp=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-10-04-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "What is the Supreme Court going to say about the notwithstanding clause?",
+    "link": "https://www.cbc.ca/news/politics/supreme-court-notwithstanding-bill-21-analysis-1.7650639?cmp=rss"
   },
   {
     "score": 0,
-    "pubdate": "2025-10-04-07-08-38 +0000",
+    "pubdate": "2025-10-04-08-26-46 +0000",
     "source": "nyt",
     "headline": "A Japanese Ski Resort Town Is Roiled by a Debate Over Immigration",
     "link": "https://www.nytimes.com/2025/10/04/business/japan-foreign-workers-hokkaido.html"
   },
   {
     "score": 0,
-    "pubdate": "2025-10-04-06-58-01 +0000",
+    "pubdate": "2025-10-04-08-02-11 +0000",
     "source": "nyt",
-    "headline": "Hamas News Brings Hope, but No Guarantees, That Peace in Gaza Is Close",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/hamas-trump-gaza-deal.html"
+    "headline": "Israel Says It Will Work With Trump Gaza Plan; Hamas Says It Will Release Hostages",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html"
   }
 ]
