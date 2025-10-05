@@ -1,5 +1,41 @@
 [
   {
+    "headline": "Poland scrambles jets as Ukraine says 5 killed in Russian strikes",
+    "link": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-05-08-41-58 +0000"
+  },
+  {
+    "headline": "Home secretary wants police to get more powers to restrict repeated protests",
+    "link": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-05-08-36-25 +0000"
+  },
+  {
+    "headline": "Typhoon Matmo Makes Landfall in Southern China",
+    "link": "https://www.nytimes.com/2025/10/05/world/asia/typhoon-matmo-china-guangdong.html",
+    "source": "nyt",
+    "pubdate": "2025-10-05-08-33-28 +0000"
+  },
+  {
+    "headline": "Typhoon Matmo Makes Landfall in Southern China",
+    "link": "https://www.nytimes.com/2025/10/05/world/asia/typhoon-matmo-china-guangdong.html",
+    "source": "nyt",
+    "pubdate": "2025-10-05-08-33-28 +0000"
+  },
+  {
+    "headline": "Wafcon expands to 16 teams for 2026 finals",
+    "link": "https://www.bbc.com/sport/football/articles/c07p44r1z2zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-05-08-25-01 +0000"
+  },
+  {
+    "headline": "Conservatives won't support Liberal border bill without major changes: Pierre Poilievre",
+    "link": "https://www.cbc.ca/news/politics/conservatives-liberal-border-bill-1.7651357?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-05-08-00-00 +0000"
+  },
+  {
     "headline": "Bitcoin hits all-time high above $125,000",
     "link": "https://nypost.com/2025/10/05/business/bitcoin-hits-all-time-high-above-125000/",
     "source": "nypost",
@@ -22,18 +58,6 @@
     "link": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-05-07-45-21 +0000"
-  },
-  {
-    "headline": "Police to get broader powers to restrict repeated protests",
-    "link": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-05-07-43-13 +0000"
-  },
-  {
-    "headline": "Poland scrambles jets as Russia strikes western Ukraine",
-    "link": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-05-07-23-18 +0000"
   },
   {
     "headline": "Ukraine’s New Prime Minister Speaks Trump’s Language",
@@ -144,10 +168,16 @@
     "pubdate": "2025-10-05-05-21-00 +0000"
   },
   {
-    "headline": "Russian air strikes hit Ukraine, forcing Poland and its allies to lock down the skies, at least 2 dead",
+    "headline": "5 dead as Russia strikes Ukraine with 50 missiles and 500 drones, forcing Poland and its allies to lock down skies",
     "link": "https://nypost.com/2025/10/05/world-news/russian-air-strikes-hit-ukraine-forcing-poland-and-its-allies-to-lock-down-the-skies/",
     "source": "nypost",
     "pubdate": "2025-10-05-05-16-40 +0000"
+  },
+  {
+    "headline": "'I have your nudes and everything to ruin your life': The cyber-scammers targeting teenagers",
+    "link": "https://www.bbc.com/news/articles/czrpedexleno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-05-05-00-04 +0000"
   },
   {
     "headline": "Federal Agent in Chicago Shot Motorist in Confrontation, Officials Say",
@@ -1050,6 +1080,12 @@
     "pubdate": "2025-10-04-15-17-17 +0000"
   },
   {
+    "headline": "South Africa win back-to-back Rugby Championships",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cpw1e05rlwgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-04-15-14-16 +0000"
+  },
+  {
     "headline": "Man Drives Car Onto Sidewalk Outside L.A. City Hall, Barricading Himself Inside",
     "link": "https://www.nytimes.com/2025/10/03/us/la-city-hall-car.html",
     "source": "nyt",
@@ -1522,71 +1558,5 @@
     "link": "https://www.nytimes.com/2025/10/04/us/politics/stonewall-national-museum-trump-funding-cuts.html",
     "source": "nyt",
     "pubdate": "2025-10-04-09-00-12 +0000"
-  },
-  {
-    "headline": "Meloni’s Italy looks to restrict talk of LBGTQ+ sexuality in schools",
-    "link": "https://www.washingtonpost.com/world/2025/10/04/italy-schools-lgbtq-legislation-gender/",
-    "source": "wapo",
-    "pubdate": "2025-10-04-08-45-12 +0000"
-  },
-  {
-    "headline": "Nationalist Sanae Takaichi set to be Japan’s first female prime minister",
-    "link": "https://nypost.com/2025/10/04/world-news/japan-sanae-takaichi-elected-leader-of-liberal-democratic-party-on-course-to-be-first-female-prime-minister/",
-    "source": "nypost",
-    "pubdate": "2025-10-04-08-30-36 +0000"
-  },
-  {
-    "headline": "A Japanese Ski Resort Town Is Roiled by a Debate Over Immigration",
-    "link": "https://www.nytimes.com/2025/10/04/business/japan-foreign-workers-hokkaido.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-08-26-46 +0000"
-  },
-  {
-    "headline": "A Japanese Ski Resort Town Is Roiled by a Debate Over Immigration",
-    "link": "https://www.nytimes.com/2025/10/04/business/japan-foreign-workers-hokkaido.html",
-    "source": "nyt",
-    "pubdate": "2025-10-04-08-26-46 +0000"
-  },
-  {
-    "headline": "Munich airport resumes flights after suspected drones force second closure in 24 hours",
-    "link": "https://www.bbc.com/news/articles/cge2v4r4gr1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-04-08-01-49 +0000"
-  },
-  {
-    "headline": "Munich airport resumes flights after suspected drones force second closure in 24 hours",
-    "link": "https://www.bbc.com/news/articles/cge2v4r4gr1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-04-08-01-49 +0000"
-  },
-  {
-    "headline": "In 4 months, Canadian Jeremy Hansen will blast off to the moon — where he'll also be a human guinea pig",
-    "link": "https://www.cbc.ca/news/science/jeremy-hansen-moon-1.7649455?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-04-08-00-00 +0000"
-  },
-  {
-    "headline": "There could be 'mutual interest' in Canada building its submarines, says German armament secretary",
-    "link": "https://www.cbc.ca/news/politics/submarines-canada-germany-rearmament-1.7650508?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-04-08-00-00 +0000"
-  },
-  {
-    "headline": "What is the Supreme Court going to say about the notwithstanding clause?",
-    "link": "https://www.cbc.ca/news/politics/supreme-court-notwithstanding-bill-21-analysis-1.7650639?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-04-08-00-00 +0000"
-  },
-  {
-    "headline": "Energy minister dismisses 'hypothetical' question of repealing B.C. tanker ban",
-    "link": "https://www.cbc.ca/news/politics/tim-hodgson-british-columbia-alberta-tanker-ban-1.7651035?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-04-08-00-00 +0000"
-  },
-  {
-    "headline": "There could be 'mutual interest' in Canada building its submarines, says German armament secretary",
-    "link": "https://www.cbc.ca/news/politics/submarines-canada-germany-rearmament-1.7650508?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-04-08-00-00 +0000"
   }
 ]
