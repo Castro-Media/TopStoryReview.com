@@ -1,58 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2025-10-05-06-05-34 +0000",
+    "score": 25,
+    "pubdate": "2025-10-05-07-00-17 +0000",
+    "source": "nyt",
+    "headline": "A Pacific Gateway Shows the Kremlin’s Grip on Russia’s Vast Expanse",
+    "link": "https://www.nytimes.com/2025/10/05/world/europe/vladivostok-moscow-kremlin-rule.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-10-05-07-45-21 +0000",
     "source": "bbc",
-    "headline": "Watch: Pets around the world blessed for Feast of Saint Francis",
-    "link": "https://www.bbc.com/news/videos/cn83n2gl2nlo?at_medium=RSS&at_campaign=rss"
+    "headline": "How the US got left behind in the global electric car race",
+    "link": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 18,
-    "pubdate": "2025-10-05-06-38-01 +0000",
-    "source": "bbc",
-    "headline": "Billionaire populist Andrej Babis' party wins Czech parliamentary election",
-    "link": "https://www.bbc.com/news/articles/c62qezmr92lo?at_medium=RSS&at_campaign=rss"
+    "score": 15,
+    "pubdate": "2025-10-05-07-00-49 +0000",
+    "source": "nyt",
+    "headline": "Amid the Gaza War, Israel Is More Divided and Isolated Than Ever",
+    "link": "https://www.nytimes.com/2025/10/05/world/middleeast/israel-challenges-gaza-war.html"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-05-06-19-47 +0000",
-    "source": "nypost",
-    "headline": "Egypt reopens massive tomb of  Pharaoh Amenhotep III after over 20 years of renovation",
-    "link": "https://nypost.com/2025/10/05/world-news/egypt-reopens-amenhotep-iiis-tomb-after-over-20-years-of-renovation/"
+    "score": 15,
+    "pubdate": "2025-10-05-07-14-47 +0000",
+    "source": "nyt",
+    "headline": "Ukraine’s New Prime Minister Speaks Trump’s Language",
+    "link": "https://www.nytimes.com/2025/10/03/world/europe/ukraine-prime-minister-trump-war-svyrydenko.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-10-05-06-11-12 +0000",
-    "source": "bbc",
-    "headline": "Halloween costume swap aims to save families money",
-    "link": "https://www.bbc.com/news/articles/cr5q98njrqyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-05-06-00-26 +0000",
+    "score": 11,
+    "pubdate": "2025-10-05-07-00-00 +0000",
     "source": "wapo",
-    "headline": "Afghans awaited U.S. resettlement. Pakistan sent them back to the Taliban.",
-    "link": "https://www.washingtonpost.com/world/2025/10/05/pakistan-deports-afghan-refugees-taliban-resettlement/"
+    "headline": "AI lets Russian war widows see their soldier husbands one more time",
+    "link": "https://www.washingtonpost.com/world/2025/10/05/russia-ai-digital-resurrection-soldiers/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-05-07-43-13 +0000",
+    "source": "bbc",
+    "headline": "Police to get broader powers to restrict repeated protests",
+    "link": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-10-05-07-47-12 +0000",
+    "source": "nypost",
+    "headline": "Bitcoin hits all-time high above $125,000",
+    "link": "https://nypost.com/2025/10/05/business/bitcoin-hits-all-time-high-above-125000/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-10-05-07-23-18 +0000",
+    "source": "bbc",
+    "headline": "Poland scrambles jets as Russia strikes western Ukraine",
+    "link": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 0,
-    "pubdate": "2025-10-05-06-38-01 +0000",
+    "pubdate": "2025-10-05-07-45-21 +0000",
     "source": "bbc",
-    "headline": "Billionaire populist Andrej Babis' party wins Czech parliamentary election",
-    "link": "https://www.bbc.com/news/articles/c62qezmr92lo?at_medium=RSS&at_campaign=rss"
+    "headline": "How the US got left behind in the global electric car race",
+    "link": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 0,
-    "pubdate": "2025-10-05-06-05-34 +0000",
+    "pubdate": "2025-10-05-07-45-21 +0000",
     "source": "bbc",
-    "headline": "Watch: Pets around the world blessed for Feast of Saint Francis",
-    "link": "https://www.bbc.com/news/videos/cn83n2gl2nlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-05-06-05-34 +0000",
-    "source": "bbc",
-    "headline": "Watch: Pets around the world blessed for Feast of Saint Francis",
-    "link": "https://www.bbc.com/news/videos/cn83n2gl2nlo?at_medium=RSS&at_campaign=rss"
+    "headline": "How the US got left behind in the global electric car race",
+    "link": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss"
   }
 ]
