@@ -1,13 +1,13 @@
 [
   {
-    "score": 172,
+    "score": 177,
     "pubdate": "2025-10-05-14-41-00 +0000",
     "source": "wsj",
     "headline": "President Trump pressed ahead with plans to mobilize federal troops in cities led by Democrats, this time in Illinois. A U.S. judge blocked Trump from sending National Guard members to Portland, Ore.",
     "link": "https://www.wsj.com/politics/policy/trump-authorizes-sending-national-guard-to-illinois-fb9f06e4"
   },
   {
-    "score": 90,
+    "score": 88,
     "pubdate": "2025-10-04-20-36-56 +0000",
     "source": "nypost",
     "headline": "Israel agrees to ‘initial withdrawal line’ in Gaza, hostage release to begin when Hamas confirms deal: Trump",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2025/10/05/us-news/dems-back-virginia-ag-nominee-jay-jones-despite-violent-texts-about-republicans/"
   },
   {
-    "score": 53,
+    "score": 50,
     "pubdate": "2025-10-05-17-22-31 +0000",
     "source": "nypost",
     "headline": "Kristi Noem slams ‘delusional’ Chicago mayor who let city become ‘war zone’ as Trump deploys National Guard",
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/politics/policy/donald-trump-jr-friend-gentry-beach-03824825"
   },
   {
-    "score": 40,
+    "score": 42,
     "pubdate": "2025-10-04-20-42-26 +0000",
     "source": "latimes",
     "headline": "The show must go on: Pacific Airshow attendees grieve over absent U.S. aircraft amid government shutdown",
@@ -43,24 +43,10 @@
   },
   {
     "score": 36,
-    "pubdate": "2025-10-04-18-27-11 +0000",
-    "source": "bbc",
-    "headline": "Watch: Protesters attempt to storm Georgia's presidential palace",
-    "link": "https://www.bbc.com/news/videos/cgq45vxywdko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-10-05-14-06-41 +0000",
-    "source": "nyt",
-    "headline": "Andrej Babis Likely to Return as Czech Prime Minister After Parliamentary Win",
-    "link": "https://www.nytimes.com/2025/10/04/world/europe/czech-election-populist-babis-win.html"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-10-05-01-06-18 +0000",
-    "source": "nyt",
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html"
+    "pubdate": "2025-10-04-23-14-00 +0000",
+    "source": "wsj",
+    "headline": "Defense Secretary Pete Hegseth’s emphasis on physical prowess comes as experts say future wars will depend more on cutting-edge technology, precision strikes and AI",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-focuses-on-fitness-even-as-pentagon-goes-high-tech-723eadfb"
   },
   {
     "score": 35,
@@ -68,5 +54,19 @@
     "source": "bbc",
     "headline": "'They're not just sharing needles, they're sharing blood': How HIV cases soared in Fiji",
     "link": "https://www.bbc.com/news/articles/c0m42dwvlk8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-10-05-01-06-18 +0000",
+    "source": "nyt",
+    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-10-05-14-06-42 +0000",
+    "source": "nyt",
+    "headline": "Andrej Babis Likely to Return as Czech Prime Minister After Parliamentary Win",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/czech-election-populist-babis-win.html"
   }
 ]
