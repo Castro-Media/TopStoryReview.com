@@ -1,6 +1,6 @@
 [
   {
-    "score": 180,
+    "score": 175,
     "pubdate": "2025-10-04-20-36-56 +0000",
     "source": "nypost",
     "headline": "Israel agrees to ‘initial withdrawal line’ in Gaza, hostage release to begin when Hamas confirms deal: Trump",
@@ -8,10 +8,10 @@
   },
   {
     "score": 73,
-    "pubdate": "2025-10-04-06-15-54 +0000",
-    "source": "wapo",
-    "headline": "Sanae Takaichi is set to become Japan’s first female prime minister",
-    "link": "https://www.washingtonpost.com/world/2025/10/04/sanae-takaichi-japan-prime-minister/"
+    "pubdate": "2025-10-04-06-23-16 +0000",
+    "source": "bbc",
+    "headline": "Sanae Takaichi set to become Japan's first female prime minister",
+    "link": "https://www.bbc.com/news/articles/cx2pmy7m72lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 65,
@@ -21,13 +21,6 @@
     "link": "https://www.wsj.com/politics/policy/trump-authorizes-sending-national-guard-to-illinois-fb9f06e4"
   },
   {
-    "score": 55,
-    "pubdate": "2025-10-04-23-05-09 +0000",
-    "source": "nypost",
-    "headline": "Youngkin calls for embattled Dem AG hopeful Jay Jones to drop out after vile texts surface wishing GOP lawmaker, children be shot dead",
-    "link": "https://nypost.com/2025/10/04/us-news/virginia-gov-glenn-youngkin-urges-attorney-general-candidate-jay-jones-to-dop-out-of-race-in-disgrace-after-vile-texts-surface/"
-  },
-  {
     "score": 52,
     "pubdate": "2025-10-04-16-28-25 +0000",
     "source": "nypost",
@@ -35,11 +28,18 @@
     "link": "https://nypost.com/2025/10/04/world-news/london-police-arrest-protesters-against-palestine-action-ban/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-04-03-10-45 +0000",
+    "score": 49,
+    "pubdate": "2025-10-04-23-05-09 +0000",
     "source": "nypost",
-    "headline": "Hamas internal rift over hostages, weapons could pose challenges to Trump’s Gaza peace plan: report",
-    "link": "https://nypost.com/2025/10/03/world-news/hamas-internal-rift-over-hostages-weapons-could-pose-challenges-to-trumps-gaza-peace-plan-report/"
+    "headline": "Youngkin calls for embattled Dem AG hopeful Jay Jones to drop out after vile texts surface wishing GOP lawmaker, children be shot dead",
+    "link": "https://nypost.com/2025/10/04/us-news/virginia-gov-glenn-youngkin-urges-attorney-general-candidate-jay-jones-to-dop-out-of-race-in-disgrace-after-vile-texts-surface/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-10-04-14-18-43 +0000",
+    "source": "nypost",
+    "headline": "Hamas’ response to Trump’s Gaza peace plan wins hardline support from hostage-holding ally",
+    "link": "https://nypost.com/2025/10/04/world-news/hamas-response-to-trumps-plan-to-end-war-wins-hardline-support/"
   },
   {
     "score": 45,
@@ -63,7 +63,7 @@
     "link": "https://www.cbc.ca/news/world/russia-drone-ukraine-train-station-1.7651324?cmp=rss"
   },
   {
-    "score": 39,
+    "score": 37,
     "pubdate": "2025-10-05-00-58-12 +0000",
     "source": "bbc",
     "headline": "'They're not just sharing needles, they're sharing blood': How HIV cases soared in Fiji",
