@@ -1,72 +1,30 @@
 [
   {
-    "score": 15,
-    "pubdate": "2025-10-04-22-18-38 +0000",
-    "source": "bbc",
-    "headline": "Georgia protesters try to storm Tbilisi presidential palace",
-    "link": "https://www.bbc.com/news/articles/ce86kgnj7zro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-10-04-22-36-25 +0000",
-    "source": "nyt",
-    "headline": "Netanyahu Says Israel and Hamas Are on the Brink of a Hostage Deal",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-04-22-14-51 +0000",
-    "source": "nyt",
-    "headline": "Hamas Partially Accepts Trump’s Peace Plan",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010438653/hamas-partially-accepts-trumps-peace-plan.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-04-22-23-10 +0000",
+    "score": 38,
+    "pubdate": "2025-10-04-23-05-09 +0000",
     "source": "nypost",
-    "headline": "Queens cousins die in murder-suicide after dispute over sale of home: family, police sources",
-    "link": "https://nypost.com/2025/10/04/us-news/nyc-cousins-die-in-murder-suicide-after-dispute-over-sale-of-queens-home-family-police-sources/"
+    "headline": "Youngkin calls for embattled Dem AG hopeful Jay Jones to drop out after vile texts surface wishing GOP lawmaker, children be shot dead",
+    "link": "https://nypost.com/2025/10/04/us-news/virginia-gov-glenn-youngkin-urges-attorney-general-candidate-jay-jones-to-dop-out-of-race-in-disgrace-after-vile-texts-surface/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-04-23-14-00 +0000",
+    "source": "wsj",
+    "headline": "Defense Secretary Pete Hegseth’s emphasis on physical prowess comes as experts say future wars will depend more on cutting-edge technology, precision strikes and AI",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-focuses-on-fitness-even-as-pentagon-goes-high-tech-723eadfb"
   },
   {
     "score": 9,
-    "pubdate": "2025-10-04-22-51-19 +0000",
-    "source": "wapo",
-    "headline": "ICE agents, protesters clash in Chicago; state warns against Guard deployment",
-    "link": "https://www.washingtonpost.com/nation/2025/10/04/chicago-national-guard-ice/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-04-21-54-42 +0000",
-    "source": "latimes",
-    "headline": "Chevron's El Segundo refinery has a history of safety and environmental violations",
-    "link": "https://www.latimes.com/environment/story/2025-10-04/chevrons-el-segundo-refinery-had-a-history-of-safety-environmental-violations"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-04-22-08-22 +0000",
-    "source": "nyt",
-    "headline": "Mark Sanchez, Ex-N.F.L. Quarterback, Is Charged in Stabbing in Indianapolis",
-    "link": "https://www.nytimes.com/2025/10/04/us/mark-sanchez-stabbing.html"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-10-04-22-09-29 +0000",
-    "source": "bbc",
-    "headline": "Who is Japan's 'Iron Lady' Sanae Takaichi?",
-    "link": "https://www.bbc.com/news/articles/crkj5e73xkmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-10-04-22-24-53 +0000",
-    "source": "nyt",
-    "headline": "Federal Agent in Chicago Shot Motorist in Confrontation, Officials Say",
-    "link": "https://www.nytimes.com/2025/10/04/us/federal-agent-shooting-chicago.html"
+    "pubdate": "2025-10-04-23-38-14 +0000",
+    "source": "cbc",
+    "headline": "U.S. Border Patrol shoots woman in Chicago as federal troop deployment to Illinois looms",
+    "link": "https://www.cbc.ca/news/world/national-guard-troops-illinois-trump-1.7651497?cmp=rss"
   },
   {
     "score": 0,
-    "pubdate": "2025-10-04-22-36-25 +0000",
-    "source": "nyt",
-    "headline": "Netanyahu Says Israel and Hamas Are on the Brink of a Hostage Deal",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/israel-hamas-trump-netanyahu.html"
+    "pubdate": "2025-10-04-23-05-09 +0000",
+    "source": "nypost",
+    "headline": "Youngkin calls for embattled Dem AG hopeful Jay Jones to drop out after vile texts surface wishing GOP lawmaker, children be shot dead",
+    "link": "https://nypost.com/2025/10/04/us-news/virginia-gov-glenn-youngkin-urges-attorney-general-candidate-jay-jones-to-dop-out-of-race-in-disgrace-after-vile-texts-surface/"
   }
 ]
