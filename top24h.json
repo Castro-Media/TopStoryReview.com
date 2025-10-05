@@ -1,38 +1,31 @@
 [
   {
-    "score": 168,
+    "score": 169,
     "pubdate": "2025-10-04-20-36-56 +0000",
     "source": "nypost",
     "headline": "Israel agrees to ‘initial withdrawal line’ in Gaza, hostage release to begin when Hamas confirms deal: Trump",
     "link": "https://nypost.com/2025/10/04/world-news/israel-agrees-to-initial-withdrawal-line-in-gaza-trump-says/"
   },
   {
-    "score": 66,
+    "score": 72,
     "pubdate": "2025-10-05-02-19-00 +0000",
     "source": "wsj",
     "headline": "President Trump pressed ahead with plans to mobilize federal troops in cities led by Democrats, this time in Illinois. A U.S. judge blocked Trump from sending National Guard members to Portland, Ore.",
     "link": "https://www.wsj.com/politics/policy/trump-authorizes-sending-national-guard-to-illinois-fb9f06e4"
   },
   {
-    "score": 58,
-    "pubdate": "2025-10-04-20-11-06 +0000",
-    "source": "nyt",
-    "headline": "Andrej Babis Likely to Return as Czech Prime Minister After Parliamentary Win",
-    "link": "https://www.nytimes.com/2025/10/04/world/europe/czech-election-populist-babis-win.html"
-  },
-  {
-    "score": 52,
+    "score": 56,
     "pubdate": "2025-10-04-16-28-25 +0000",
     "source": "nypost",
     "headline": "London police arrest dozens of protesters against Palestine Action ban — days after deadly Manchester synagogue attack",
     "link": "https://nypost.com/2025/10/04/world-news/london-police-arrest-protesters-against-palestine-action-ban/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-05-04-01-05 +0000",
+    "score": 56,
+    "pubdate": "2025-10-04-20-11-06 +0000",
     "source": "nyt",
-    "headline": "Syria Holds First Parliamentary Elections Since End of Civil War",
-    "link": "https://www.nytimes.com/2025/10/05/world/middleeast/syria-elections.html"
+    "headline": "Andrej Babis Likely to Return as Czech Prime Minister After Parliamentary Win",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/czech-election-populist-babis-win.html"
   },
   {
     "score": 50,
@@ -43,10 +36,10 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-10-04-20-42-26 +0000",
+    "pubdate": "2025-10-04-12-00-00 +0000",
     "source": "latimes",
-    "headline": "The show must go on: Pacific Airshow attendees grieve over absent U.S. aircraft amid government shutdown",
-    "link": "https://www.latimes.com/california/story/2025-10-04/pacific-airshow-attendees-grieve-over-absent-u-s-aircraft-amid-government-shutdown"
+    "headline": "Lopez: He might be the first one to rebuild a house in Altadena, and he credits his golden retriever",
+    "link": "https://www.latimes.com/california/story/2025-10-04/he-might-be-the-first-one-to-rebuild-a-house-in-altadena-and-he-credits-his-dog"
   },
   {
     "score": 48,
@@ -56,17 +49,24 @@
     "link": "https://www.cbc.ca/news/world/russia-drone-ukraine-train-station-1.7651324?cmp=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2025-10-05-01-06-18 +0000",
-    "source": "nyt",
-    "headline": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
-    "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html"
+    "score": 43,
+    "pubdate": "2025-10-04-20-42-26 +0000",
+    "source": "latimes",
+    "headline": "The show must go on: Pacific Airshow attendees grieve over absent U.S. aircraft amid government shutdown",
+    "link": "https://www.latimes.com/california/story/2025-10-04/pacific-airshow-attendees-grieve-over-absent-u-s-aircraft-amid-government-shutdown"
   },
   {
-    "score": 37,
-    "pubdate": "2025-10-05-00-58-12 +0000",
+    "score": 42,
+    "pubdate": "2025-10-04-21-11-07 +0000",
     "source": "bbc",
-    "headline": "'They're not just sharing needles, they're sharing blood': How HIV cases soared in Fiji",
-    "link": "https://www.bbc.com/news/articles/c0m42dwvlk8o?at_medium=RSS&at_campaign=rss"
+    "headline": "Hope and fear for hostage families after Hamas response to Gaza peace plan",
+    "link": "https://www.bbc.com/news/articles/cly9e6mnve9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-10-05-04-01-05 +0000",
+    "source": "nyt",
+    "headline": "Syria Holds First Parliamentary Elections Since End of Civil War",
+    "link": "https://www.nytimes.com/2025/10/05/world/middleeast/syria-elections.html"
   }
 ]
