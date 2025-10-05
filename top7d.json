@@ -1,38 +1,31 @@
 [
   {
-    "score": 454,
+    "score": 459,
     "pubdate": "2025-10-05-14-41-00 +0000",
     "source": "wsj",
     "headline": "President Trump pressed ahead with plans to mobilize federal troops in cities led by Democrats, this time in Illinois. A U.S. judge blocked Trump from sending National Guard members to Portland, Ore.",
     "link": "https://www.wsj.com/politics/policy/trump-authorizes-sending-national-guard-to-illinois-fb9f06e4"
   },
   {
-    "score": 268,
+    "score": 275,
     "pubdate": "2025-10-04-00-42-44 +0000",
     "source": "nypost",
     "headline": "Israel ready for ‘immediate implementation’ of Trump’s Gaza peace plan after Hamas agrees to free hostages: Netanyahu’s office",
     "link": "https://nypost.com/2025/10/03/world-news/israel-ready-for-immediate-implantation-of-trumps-gaza-peace-plan-after-hamas-agrees-to-free-hostages-netanyahus-office/"
   },
   {
-    "score": 193,
+    "score": 197,
     "pubdate": "2025-10-01-15-42-56 +0000",
     "source": "latimes",
     "headline": "Here's how the U.S. government shutdown will impact California",
     "link": "https://www.latimes.com/california/story/2025-10-01/la-me-shutdown-california"
   },
   {
-    "score": 158,
+    "score": 159,
     "pubdate": "2025-10-04-01-14-00 +0000",
     "source": "wsj",
     "headline": "President Trump on Friday said he restored money slashed from New York state’s counterterrorism and law-enforcement funding, following a call last weekend with New York Gov. Kathy Hochul",
     "link": "https://www.wsj.com/politics/policy/trump-says-he-reversed-funding-cuts-to-new-yorks-counterterrorism-program-0c61389f"
-  },
-  {
-    "score": 122,
-    "pubdate": "2025-10-04-16-28-25 +0000",
-    "source": "nypost",
-    "headline": "London police arrest dozens of protesters against Palestine Action ban — days after deadly Manchester synagogue attack",
-    "link": "https://nypost.com/2025/10/04/world-news/london-police-arrest-protesters-against-palestine-action-ban/"
   },
   {
     "score": 120,
@@ -42,7 +35,14 @@
     "link": "https://www.wsj.com/world/asia/japan-prime-minister-election-sanae-takaichi-08e09216"
   },
   {
-    "score": 114,
+    "score": 119,
+    "pubdate": "2025-10-04-16-28-25 +0000",
+    "source": "nypost",
+    "headline": "London police arrest dozens of protesters against Palestine Action ban — days after deadly Manchester synagogue attack",
+    "link": "https://nypost.com/2025/10/04/world-news/london-police-arrest-protesters-against-palestine-action-ban/"
+  },
+  {
+    "score": 116,
     "pubdate": "2025-10-04-16-00-00 +0000",
     "source": "wsj",
     "headline": "To hear the top House Democrat tell it, beyond the trash talk and nasty memes, there is a deal to be had with Republicans to end the government shutdown",
@@ -50,17 +50,17 @@
   },
   {
     "score": 103,
-    "pubdate": "2025-10-03-19-37-00 +0000",
-    "source": "wsj",
-    "headline": "Trump ordered another lethal military strike on an alleged drug-trafficking boat in the Caribbean, signaling the administration is undeterred by mounting legal questions about the campaign",
-    "link": "https://www.wsj.com/politics/national-security/u-s-strikes-boat-off-venezuela-amid-questions-over-action-against-drug-gangs-6a8c83aa"
-  },
-  {
-    "score": 101,
     "pubdate": "2025-10-01-15-20-56 +0000",
     "source": "latimes",
     "headline": "Supreme Court puts off decision on whether Trump may fire Federal Reserve Governor Lisa Cook",
     "link": "https://www.latimes.com/politics/story/2025-10-01/supreme-court-will-decide-if-trump-may-fire-federal-reserve-gov-lisa-cook"
+  },
+  {
+    "score": 102,
+    "pubdate": "2025-10-03-19-37-00 +0000",
+    "source": "wsj",
+    "headline": "Trump ordered another lethal military strike on an alleged drug-trafficking boat in the Caribbean, signaling the administration is undeterred by mounting legal questions about the campaign",
+    "link": "https://www.wsj.com/politics/national-security/u-s-strikes-boat-off-venezuela-amid-questions-over-action-against-drug-gangs-6a8c83aa"
   },
   {
     "score": 93,
