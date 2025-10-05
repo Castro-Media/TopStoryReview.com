@@ -1,13 +1,13 @@
 [
   {
-    "score": 177,
+    "score": 176,
     "pubdate": "2025-10-05-14-41-00 +0000",
     "source": "wsj",
     "headline": "President Trump pressed ahead with plans to mobilize federal troops in cities led by Democrats, this time in Illinois. A U.S. judge blocked Trump from sending National Guard members to Portland, Ore.",
     "link": "https://www.wsj.com/politics/policy/trump-authorizes-sending-national-guard-to-illinois-fb9f06e4"
   },
   {
-    "score": 88,
+    "score": 86,
     "pubdate": "2025-10-04-20-36-56 +0000",
     "source": "nypost",
     "headline": "Israel agrees to ‘initial withdrawal line’ in Gaza, hostage release to begin when Hamas confirms deal: Trump",
@@ -21,25 +21,25 @@
     "link": "https://nypost.com/2025/10/05/us-news/dems-back-virginia-ag-nominee-jay-jones-despite-violent-texts-about-republicans/"
   },
   {
-    "score": 50,
+    "score": 51,
     "pubdate": "2025-10-05-17-22-31 +0000",
     "source": "nypost",
     "headline": "Kristi Noem slams ‘delusional’ Chicago mayor who let city become ‘war zone’ as Trump deploys National Guard",
     "link": "https://nypost.com/2025/10/05/us-news/kristi-noem-slams-delusional-chicago-mayor-who-let-city-become-war-zone/"
   },
   {
-    "score": 42,
-    "pubdate": "2025-10-05-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "A college friend of Donald Trump Jr., has left a trail of confusion as he courts foreign officials and businesses to lock up investments in mining, oil pipelines and real estate.",
-    "link": "https://www.wsj.com/politics/policy/donald-trump-jr-friend-gentry-beach-03824825"
-  },
-  {
-    "score": 42,
+    "score": 45,
     "pubdate": "2025-10-04-20-42-26 +0000",
     "source": "latimes",
     "headline": "The show must go on: Pacific Airshow attendees grieve over absent U.S. aircraft amid government shutdown",
     "link": "https://www.latimes.com/california/story/2025-10-04/pacific-airshow-attendees-grieve-over-absent-u-s-aircraft-amid-government-shutdown"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-10-05-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "A college friend of Donald Trump Jr., has left a trail of confusion as he courts foreign officials and businesses to lock up investments in mining, oil pipelines and real estate.",
+    "link": "https://www.wsj.com/politics/policy/donald-trump-jr-friend-gentry-beach-03824825"
   },
   {
     "score": 36,
@@ -49,13 +49,6 @@
     "link": "https://www.wsj.com/politics/national-security/hegseth-focuses-on-fitness-even-as-pentagon-goes-high-tech-723eadfb"
   },
   {
-    "score": 35,
-    "pubdate": "2025-10-05-00-58-12 +0000",
-    "source": "bbc",
-    "headline": "'They're not just sharing needles, they're sharing blood': How HIV cases soared in Fiji",
-    "link": "https://www.bbc.com/news/articles/c0m42dwvlk8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 34,
     "pubdate": "2025-10-05-01-06-18 +0000",
     "source": "nyt",
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html"
   },
   {
+    "score": 34,
+    "pubdate": "2025-10-05-00-58-12 +0000",
+    "source": "bbc",
+    "headline": "'They're not just sharing needles, they're sharing blood': How HIV cases soared in Fiji",
+    "link": "https://www.bbc.com/news/articles/c0m42dwvlk8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 33,
-    "pubdate": "2025-10-05-14-06-42 +0000",
-    "source": "nyt",
-    "headline": "Andrej Babis Likely to Return as Czech Prime Minister After Parliamentary Win",
-    "link": "https://www.nytimes.com/2025/10/04/world/europe/czech-election-populist-babis-win.html"
+    "pubdate": "2025-10-04-23-05-09 +0000",
+    "source": "nypost",
+    "headline": "Youngkin calls for embattled Dem AG hopeful Jay Jones to drop out after vile texts surface wishing GOP lawmaker, children be shot dead",
+    "link": "https://nypost.com/2025/10/04/us-news/virginia-gov-glenn-youngkin-urges-attorney-general-candidate-jay-jones-to-dop-out-of-race-in-disgrace-after-vile-texts-surface/"
   }
 ]
