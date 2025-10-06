@@ -1,45 +1,38 @@
 [
   {
-    "score": 203,
+    "score": 213,
     "pubdate": "2025-10-05-14-41-00 +0000",
     "source": "wsj",
     "headline": "President Trump pressed ahead with plans to mobilize federal troops in cities led by Democrats, this time in Illinois. A U.S. judge blocked Trump from sending National Guard members to Portland, Ore.",
     "link": "https://www.wsj.com/politics/policy/trump-authorizes-sending-national-guard-to-illinois-fb9f06e4"
   },
   {
-    "score": 60,
+    "score": 68,
     "pubdate": "2025-10-05-23-53-33 +0000",
     "source": "bbc",
     "headline": "Trump urges mediators to 'move fast' as key Gaza peace talks set to begin",
     "link": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 60,
     "pubdate": "2025-10-06-09-56-24 +0000",
     "source": "wapo",
     "headline": "Prime minister of France resigns hours after naming new government",
     "link": "https://www.washingtonpost.com/world/2025/10/06/france-prime-minister-sebastien-lecornu-resigns/"
   },
   {
-    "score": 55,
+    "score": 58,
     "pubdate": "2025-10-05-23-07-07 +0000",
     "source": "bbc",
     "headline": "Gisèle Pelicot to face one of her rapists in court as French women fear nothing has changed",
     "link": "https://www.bbc.com/news/articles/cdx2d9lynk1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
+    "score": 51,
     "pubdate": "2025-10-06-10-00-00 +0000",
     "source": "nypost",
     "headline": "These Americans died fighting in Ukraine, now their parents have a message for President Trump: ‘Freedom isn’t just for America’",
     "link": "https://nypost.com/2025/10/06/world-news/parents-of-americans-who-died-fighting-in-ukraine-tell-trump-freedom-isnt-just-for-americans/"
-  },
-  {
-    "score": 43,
-    "pubdate": "2025-10-06-06-52-43 +0000",
-    "source": "nypost",
-    "headline": "California biotech tycoon found guilty in murder-for-hire plot that led to killing of father of six after failed oil deal: ‘Your lies die here in this courtroom’",
-    "link": "https://nypost.com/2025/10/06/us-news/california-biotech-tycoon-serhat-gumrukcu-found-guilty-in-murder-for-hire-plot-that-led-to-killing-of-father-of-six-after-failed-oil-deal/"
   },
   {
     "score": 42,
@@ -49,6 +42,20 @@
     "link": "https://www.bbc.com/news/videos/c2375x5endlo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 42,
+    "pubdate": "2025-10-06-06-52-43 +0000",
+    "source": "nypost",
+    "headline": "California biotech tycoon found guilty in murder-for-hire plot that led to killing of father of six after failed oil deal: ‘Your lies die here in this courtroom’",
+    "link": "https://nypost.com/2025/10/06/us-news/california-biotech-tycoon-serhat-gumrukcu-found-guilty-in-murder-for-hire-plot-that-led-to-killing-of-father-of-six-after-failed-oil-deal/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-10-06-04-55-00 +0000",
+    "source": "wsj",
+    "headline": "A federal judge in Oregon temporarily blocked the deployment of any National Guard under the Trump administration’s control inside Oregon in an emergency hearing Sunday night",
+    "link": "https://www.wsj.com/politics/policy/california-troops-sent-to-oregon-after-court-bars-oregon-guard-deployment-5545de00"
+  },
+  {
     "score": 40,
     "pubdate": "2025-10-05-20-59-08 +0000",
     "source": "nypost",
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2025/10/05/us-news/jersey-city-mayor-steve-fulop-being-eyed-for-partnership-for-nyc-job/"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-06-04-55-00 +0000",
-    "source": "wsj",
-    "headline": "A federal judge in Oregon temporarily blocked the deployment of any National Guard under the Trump administration’s control inside Oregon in an emergency hearing Sunday night",
-    "link": "https://www.wsj.com/politics/policy/california-troops-sent-to-oregon-after-court-bars-oregon-guard-deployment-5545de00"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-10-05-18-38-09 +0000",
-    "source": "nyt",
-    "headline": "Pritzker Says Federal Agents Are Trying to Make Chicago a ‘War Zone’",
-    "link": "https://www.nytimes.com/2025/10/05/us/politics/pritzker-chicago-immigration.html"
+    "score": 38,
+    "pubdate": "2025-10-06-10-23-28 +0000",
+    "source": "bbc",
+    "headline": "'I was lucky to get out': Everest hikers battle hypothermia as blizzard rescue continues",
+    "link": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss"
   }
 ]
