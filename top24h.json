@@ -1,38 +1,38 @@
 [
   {
-    "score": 188,
+    "score": 190,
     "pubdate": "2025-10-06-22-57-48 +0000",
     "source": "nypost",
     "headline": "Senate Democrats reject latest effort to end government shutdown – as Trump signals he’s open to negotiating a healthcare deal",
     "link": "https://nypost.com/2025/10/06/us-news/senate-democrats-reject-latest-effort-to-end-government-shutdown/"
   },
   {
-    "score": 108,
+    "score": 110,
     "pubdate": "2025-10-06-20-29-42 +0000",
     "source": "nyt",
     "headline": "Paramount Buys Bari Weiss’s Free Press, Starting a New Era at CBS News",
     "link": "https://www.nytimes.com/2025/10/06/business/media/paramount-bari-weiss-free-press-cbs-news.html"
   },
   {
-    "score": 90,
+    "score": 88,
     "pubdate": "2025-10-06-20-04-32 +0000",
     "source": "nypost",
     "headline": "Trump appealing ruling against Portland National Guard deployment, judge ‘untethered in reality’: White House",
     "link": "https://nypost.com/2025/10/06/us-news/trump-appealing-ruling-against-portland-national-guard-deployment-judge-untethered-in-reality-white-house/"
   },
   {
-    "score": 82,
+    "score": 83,
     "pubdate": "2025-10-07-01-58-41 +0000",
     "source": "nyt",
     "headline": "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
     "link": "https://www.nytimes.com/2025/10/06/world/middleeast/israel-gaza-hamas-peace-talks.html"
   },
   {
-    "score": 65,
-    "pubdate": "2025-10-06-19-11-11 +0000",
-    "source": "bbc",
-    "headline": "US Supreme Court rejects Ghislaine Maxwell appeal in Epstein case",
-    "link": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss"
+    "score": 58,
+    "pubdate": "2025-10-06-15-51-14 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Rejects Appeal From Ghislaine Maxwell, Longtime Epstein Associate",
+    "link": "https://www.nytimes.com/2025/10/06/us/politics/supreme-court-ghislaine-maxwell-epstein-appeal.html"
   },
   {
     "score": 51,
@@ -49,7 +49,7 @@
     "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html"
   },
   {
-    "score": 43,
+    "score": 44,
     "pubdate": "2025-10-06-19-46-24 +0000",
     "source": "nyt",
     "headline": "Trump Gave Partisan Speech to Navy Troops, as He Deployed Troops to U.S. Cities",
@@ -57,16 +57,16 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-10-07-04-59-56 +0000",
-    "source": "nypost",
-    "headline": "Ex-LA deputy mayor of public safety sentenced for calling in fake bomb threat to get out of virtual meeting",
-    "link": "https://nypost.com/2025/10/07/us-news/ex-la-deputy-mayor-of-public-safety-sentenced-for-calling-in-fake-bomb-threat-to-get-out-of-virtual-meeting/"
-  },
-  {
-    "score": 42,
     "pubdate": "2025-10-06-18-05-00 +0000",
     "source": "bbc",
     "headline": "Yet another French PM resigns, spelling yet more trouble for Macron",
     "link": "https://www.bbc.com/news/articles/c749k11vnzgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-10-07-04-59-56 +0000",
+    "source": "nypost",
+    "headline": "Ex-LA deputy mayor of public safety sentenced for calling in fake bomb threat to get out of virtual meeting",
+    "link": "https://nypost.com/2025/10/07/us-news/ex-la-deputy-mayor-of-public-safety-sentenced-for-calling-in-fake-bomb-threat-to-get-out-of-virtual-meeting/"
   }
 ]
