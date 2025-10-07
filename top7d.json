@@ -1,6 +1,6 @@
 [
   {
-    "score": 546,
+    "score": 532,
     "pubdate": "2025-10-05-14-41-00 +0000",
     "source": "wsj",
     "headline": "President Trump pressed ahead with plans to mobilize federal troops in cities led by Democrats, this time in Illinois. A U.S. judge blocked Trump from sending National Guard members to Portland, Ore.",
@@ -14,21 +14,21 @@
     "link": "https://nypost.com/2025/10/06/us-news/senate-democrats-reject-latest-effort-to-end-government-shutdown/"
   },
   {
-    "score": 196,
-    "pubdate": "2025-10-07-01-58-41 +0000",
+    "score": 194,
+    "pubdate": "2025-10-03-22-22-09 +0000",
     "source": "nyt",
-    "headline": "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
-    "link": "https://www.nytimes.com/2025/10/06/world/middleeast/israel-gaza-hamas-peace-talks.html"
+    "headline": "Trump Calls on Israel to Stop Bombing Gaza After Hamas Agrees to Parts of Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-hamas-israel-cease-fire.html"
   },
   {
-    "score": 153,
+    "score": 150,
     "pubdate": "2025-10-06-20-08-48 +0000",
     "source": "bbc",
-    "headline": "New US Supreme Court term will reshape Trump's powers",
+    "headline": "New Supreme Court term will reshape Trump's powers",
     "link": "https://www.bbc.com/news/articles/cly959ppezeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 129,
+    "score": 123,
     "pubdate": "2025-10-06-19-34-39 +0000",
     "source": "cbc",
     "headline": "Bari Weiss named editor-in-chief of CBS News under Free Press-Paramount deal",
@@ -42,21 +42,14 @@
     "link": "https://www.latimes.com/california/story/2025-10-01/body-missing-woman-secret-wall-attic"
   },
   {
-    "score": 98,
-    "pubdate": "2025-10-03-05-30-17 +0000",
-    "source": "bbc",
-    "headline": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
-    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
+    "score": 107,
+    "pubdate": "2025-10-07-16-52-49 +0000",
+    "source": "nyt",
+    "headline": "White House May Try to Deny Back Pay to Furloughed Federal Workers",
+    "link": "https://www.nytimes.com/2025/10/07/us/politics/trump-back-pay-furloughed-workers-shutdown.html"
   },
   {
-    "score": 96,
-    "pubdate": "2025-10-04-09-49-00 +0000",
-    "source": "wsj",
-    "headline": "Japan Set for First Female Prime Minister Amid U.S. Friction Over Trade, Security",
-    "link": "https://www.wsj.com/world/asia/japan-prime-minister-election-sanae-takaichi-08e09216"
-  },
-  {
-    "score": 95,
+    "score": 99,
     "pubdate": "2025-10-06-16-48-36 +0000",
     "source": "bbc",
     "headline": "Sudan militia leader convicted of war crimes during Darfur war",
@@ -64,9 +57,16 @@
   },
   {
     "score": 95,
-    "pubdate": "2025-10-04-12-00-00 +0000",
+    "pubdate": "2025-10-04-09-49-00 +0000",
     "source": "wsj",
-    "headline": "Many government leaders have had the chance to voice opposition to President Trump’s tariffs inside the White House. The mayor of Pohang, in South Korea, is the rare official who can say he has protested outside it",
-    "link": "https://www.wsj.com/economy/trade/south-korea-trump-steel-tariffs-6537ee98"
+    "headline": "Japan Set for First Female Prime Minister Amid U.S. Friction Over Trade, Security",
+    "link": "https://www.wsj.com/world/asia/japan-prime-minister-election-sanae-takaichi-08e09216"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-10-03-05-30-17 +0000",
+    "source": "bbc",
+    "headline": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
+    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
   }
 ]
