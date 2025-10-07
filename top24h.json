@@ -1,13 +1,13 @@
 [
   {
-    "score": 191,
+    "score": 193,
     "pubdate": "2025-10-06-22-57-48 +0000",
     "source": "nypost",
     "headline": "Senate Democrats reject latest effort to end government shutdown – as Trump signals he’s open to negotiating a healthcare deal",
     "link": "https://nypost.com/2025/10/06/us-news/senate-democrats-reject-latest-effort-to-end-government-shutdown/"
   },
   {
-    "score": 106,
+    "score": 107,
     "pubdate": "2025-10-06-20-29-42 +0000",
     "source": "nyt",
     "headline": "Paramount Buys Bari Weiss’s Free Press, Starting a New Era at CBS News",
@@ -21,13 +21,6 @@
     "link": "https://www.wsj.com/politics/policy/california-troops-sent-to-oregon-after-court-bars-oregon-guard-deployment-5545de00"
   },
   {
-    "score": 73,
-    "pubdate": "2025-10-06-17-27-02 +0000",
-    "source": "bbc",
-    "headline": "Israel and Hamas begin indirect talks in Egypt on Trump's Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 72,
     "pubdate": "2025-10-06-19-11-11 +0000",
     "source": "bbc",
@@ -35,11 +28,25 @@
     "link": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 65,
+    "pubdate": "2025-10-07-01-58-41 +0000",
+    "source": "nyt",
+    "headline": "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
+    "link": "https://www.nytimes.com/2025/10/06/world/middleeast/israel-gaza-hamas-peace-talks.html"
+  },
+  {
+    "score": 54,
     "pubdate": "2025-10-06-10-00-00 +0000",
     "source": "nypost",
     "headline": "These Americans died fighting in Ukraine, now their parents have a message for President Trump: ‘Freedom isn’t just for America’",
     "link": "https://nypost.com/2025/10/06/world-news/parents-of-americans-who-died-fighting-in-ukraine-tell-trump-freedom-isnt-just-for-americans/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-10-07-01-30-25 +0000",
+    "source": "nypost",
+    "headline": "Young girls, 12 and 13, killed in horrific NYC subway surfing tragedy ID’d: ‘Full of life, and taken from us far too soon’",
+    "link": "https://nypost.com/2025/10/06/us-news/young-girls-12-and-13-killed-in-horrific-nyc-subway-surfing-tragedy-idd-full-of-life-and-taken-from-us-far-too-soon/"
   },
   {
     "score": 45,
@@ -57,16 +64,9 @@
   },
   {
     "score": 42,
-    "pubdate": "2025-10-06-19-46-24 +0000",
-    "source": "nyt",
-    "headline": "Trump Gave Partisan Speech to Navy Troops, as He Deployed Troops to U.S. Cities",
-    "link": "https://www.nytimes.com/2025/10/06/us/politics/trump-navy-portland-troops.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-10-06-21-05-53 +0000",
-    "source": "nypost",
-    "headline": "Virginia AG candidate Jay Jones said if more cops got killed, they wouldn’t shoot so many people, lawmaker claims",
-    "link": "https://nypost.com/2025/10/06/us-news/virginia-ag-candidate-jay-jones-said-if-more-cops-got-killed-they-wouldnt-shoot-so-many-people-lawmaker-claims/"
+    "pubdate": "2025-10-06-07-36-00 +0000",
+    "source": "wsj",
+    "headline": "Japan’s Next Prime Minister Could Make Rate Increases Tricky for Bank of Japan",
+    "link": "https://www.wsj.com/articles/japans-next-prime-minister-could-make-rate-increases-tricky-for-bank-of-japan-20396126"
   }
 ]
