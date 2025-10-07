@@ -1,6 +1,6 @@
 [
   {
-    "score": 190,
+    "score": 186,
     "pubdate": "2025-10-06-22-57-48 +0000",
     "source": "nypost",
     "headline": "Senate Democrats reject latest effort to end government shutdown – as Trump signals he’s open to negotiating a healthcare deal",
@@ -14,53 +14,46 @@
     "link": "https://www.bbc.com/news/articles/cvgqyj268ljo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 85,
+    "score": 84,
     "pubdate": "2025-10-07-13-46-50 +0000",
     "source": "nyt",
     "headline": "Supreme Court Hears Free Speech Challenge to Ban on Conversion Therapy",
     "link": "https://www.nytimes.com/2025/10/07/us/politics/supreme-court-colorado-conversion-therapy.html"
   },
   {
-    "score": 83,
-    "pubdate": "2025-10-06-22-37-00 +0000",
-    "source": "wsj",
-    "headline": "The Reserve Bank of New Zealand has established a new committee for financial policy, giving it power over issues around financial stability and prudential issues for banks",
-    "link": "https://www.wsj.com/articles/new-zealand-central-bank-creates-board-to-manage-financial-stability-issues-1d61a4cd"
-  },
-  {
-    "score": 80,
+    "score": 74,
     "pubdate": "2025-10-06-20-04-32 +0000",
     "source": "nypost",
     "headline": "Trump appealing ruling against Portland National Guard deployment, judge ‘untethered in reality’: White House",
     "link": "https://nypost.com/2025/10/06/us-news/trump-appealing-ruling-against-portland-national-guard-deployment-judge-untethered-in-reality-white-house/"
   },
   {
-    "score": 64,
+    "score": 74,
+    "pubdate": "2025-10-06-22-37-00 +0000",
+    "source": "wsj",
+    "headline": "The Reserve Bank of New Zealand has established a new committee for financial policy, giving it power over issues around financial stability and prudential issues for banks",
+    "link": "https://www.wsj.com/articles/new-zealand-central-bank-creates-board-to-manage-financial-stability-issues-1d61a4cd"
+  },
+  {
+    "score": 63,
     "pubdate": "2025-10-06-18-34-32 +0000",
     "source": "nypost",
     "headline": "Trump says Gaza peace talks going ‘very well’ as Steve Witkoff and Jared Kushner aim to seal deal",
     "link": "https://nypost.com/2025/10/06/us-news/trump-pushes-for-his-gaza-peace-deal-to-be-put-into-place-quickly/"
   },
   {
-    "score": 60,
+    "score": 58,
     "pubdate": "2025-10-07-14-35-20 +0000",
     "source": "nypost",
     "headline": "Virginia Fraternal Order of Police demands ‘unfit’ Jay Jones drop out of AG race immediately",
     "link": "https://nypost.com/2025/10/07/us-news/virginia-fraternal-order-of-police-demands-jay-jones-drop-out-of-ag-race/"
   },
   {
-    "score": 51,
+    "score": 48,
     "pubdate": "2025-10-06-19-34-39 +0000",
     "source": "cbc",
     "headline": "Bari Weiss named editor-in-chief of CBS News under Free Press-Paramount deal",
     "link": "https://www.cbc.ca/news/entertainment/bari-weiss-editor-in-chief-cbs-news-1.7652348?cmp=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-10-07-15-56-00 +0000",
-    "source": "bbc",
-    "headline": "Time may be running out for Master of clocks Macron: What next for France?",
-    "link": "https://www.bbc.com/news/articles/c0kn04453z8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 46,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Biden covered up Ukrainian complaints of corruption ‘double standard,’ secret CIA files reveal",
     "link": "https://nypost.com/2025/10/07/us-news/biden-covered-up-ukrainian-complaints-of-corruption-double-standard-secret-cia-files-reveal/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-10-07-02-49-17 +0000",
+    "source": "nyt",
+    "headline": "Marine Park in Ontario Warns It May Euthanize Beluga Whales Without Cash Infusion",
+    "link": "https://www.nytimes.com/2025/10/06/world/canada/marineland-canada-beluga-whales.html"
   }
 ]
