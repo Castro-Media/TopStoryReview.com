@@ -1,20 +1,20 @@
 [
   {
-    "score": 193,
+    "score": 198,
     "pubdate": "2025-10-06-22-57-48 +0000",
     "source": "nypost",
     "headline": "Senate Democrats reject latest effort to end government shutdown – as Trump signals he’s open to negotiating a healthcare deal",
     "link": "https://nypost.com/2025/10/06/us-news/senate-democrats-reject-latest-effort-to-end-government-shutdown/"
   },
   {
-    "score": 106,
+    "score": 108,
     "pubdate": "2025-10-06-20-29-42 +0000",
     "source": "nyt",
     "headline": "Paramount Buys Bari Weiss’s Free Press, Starting a New Era at CBS News",
     "link": "https://www.nytimes.com/2025/10/06/business/media/paramount-bari-weiss-free-press-cbs-news.html"
   },
   {
-    "score": 88,
+    "score": 90,
     "pubdate": "2025-10-06-15-47-00 +0000",
     "source": "wsj",
     "headline": "A federal judge in Oregon temporarily blocked the deployment of any National Guard under the Trump administration’s control inside Oregon in an emergency hearing Sunday night",
@@ -22,31 +22,24 @@
   },
   {
     "score": 71,
-    "pubdate": "2025-10-06-15-51-14 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Rejects Appeal From Ghislaine Maxwell, Longtime Epstein Associate",
-    "link": "https://www.nytimes.com/2025/10/06/us/politics/supreme-court-ghislaine-maxwell-epstein-appeal.html"
+    "pubdate": "2025-10-06-19-11-11 +0000",
+    "source": "bbc",
+    "headline": "US Supreme Court rejects Ghislaine Maxwell appeal in Epstein case",
+    "link": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 65,
+    "score": 69,
     "pubdate": "2025-10-07-01-58-41 +0000",
     "source": "nyt",
     "headline": "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
     "link": "https://www.nytimes.com/2025/10/06/world/middleeast/israel-gaza-hamas-peace-talks.html"
   },
   {
-    "score": 54,
+    "score": 53,
     "pubdate": "2025-10-06-10-00-00 +0000",
     "source": "nypost",
     "headline": "These Americans died fighting in Ukraine, now their parents have a message for President Trump: ‘Freedom isn’t just for America’",
     "link": "https://nypost.com/2025/10/06/world-news/parents-of-americans-who-died-fighting-in-ukraine-tell-trump-freedom-isnt-just-for-americans/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-10-06-10-23-28 +0000",
-    "source": "bbc",
-    "headline": "'I was lucky to get out': Everest hikers battle hypothermia as blizzard rescue continues",
-    "link": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 44,
@@ -57,16 +50,23 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-10-06-16-48-36 +0000",
-    "source": "bbc",
-    "headline": "Sudan militia leader convicted of war crimes during Darfur war",
-    "link": "https://www.bbc.com/news/articles/cly1egd5d0vo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-10-07-04-59-56 +0000",
+    "source": "nypost",
+    "headline": "Ex-LA deputy mayor of public safety sentenced for calling in fake bomb threat to get out of virtual meeting",
+    "link": "https://nypost.com/2025/10/07/us-news/ex-la-deputy-mayor-of-public-safety-sentenced-for-calling-in-fake-bomb-threat-to-get-out-of-virtual-meeting/"
   },
   {
-    "score": 42,
+    "score": 43,
     "pubdate": "2025-10-06-19-46-24 +0000",
     "source": "nyt",
     "headline": "Trump Gave Partisan Speech to Navy Troops, as He Deployed Troops to U.S. Cities",
     "link": "https://www.nytimes.com/2025/10/06/us/politics/trump-navy-portland-troops.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-10-06-16-48-36 +0000",
+    "source": "bbc",
+    "headline": "Sudan militia leader convicted of war crimes during Darfur war",
+    "link": "https://www.bbc.com/news/articles/cly1egd5d0vo?at_medium=RSS&at_campaign=rss"
   }
 ]
