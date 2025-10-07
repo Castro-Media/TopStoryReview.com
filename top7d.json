@@ -1,20 +1,20 @@
 [
   {
-    "score": 538,
+    "score": 545,
     "pubdate": "2025-10-05-14-41-00 +0000",
     "source": "wsj",
     "headline": "President Trump pressed ahead with plans to mobilize federal troops in cities led by Democrats, this time in Illinois. A U.S. judge blocked Trump from sending National Guard members to Portland, Ore.",
     "link": "https://www.wsj.com/politics/policy/trump-authorizes-sending-national-guard-to-illinois-fb9f06e4"
   },
   {
-    "score": 219,
+    "score": 216,
     "pubdate": "2025-10-06-22-57-48 +0000",
     "source": "nypost",
     "headline": "Senate Democrats reject latest effort to end government shutdown – as Trump signals he’s open to negotiating a healthcare deal",
     "link": "https://nypost.com/2025/10/06/us-news/senate-democrats-reject-latest-effort-to-end-government-shutdown/"
   },
   {
-    "score": 193,
+    "score": 192,
     "pubdate": "2025-10-07-01-58-41 +0000",
     "source": "nyt",
     "headline": "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
@@ -28,7 +28,7 @@
     "link": "https://www.latimes.com/environment/story/2025-10-01/californias-glaciers-vanishing"
   },
   {
-    "score": 147,
+    "score": 149,
     "pubdate": "2025-10-06-22-37-00 +0000",
     "source": "wsj",
     "headline": "The Reserve Bank of New Zealand has established a new committee for financial policy, giving it power over issues around financial stability and prudential issues for banks",
@@ -49,13 +49,6 @@
     "link": "https://www.cbc.ca/news/entertainment/bari-weiss-editor-in-chief-cbs-news-1.7652348?cmp=rss"
   },
   {
-    "score": 103,
-    "pubdate": "2025-10-03-05-30-17 +0000",
-    "source": "bbc",
-    "headline": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
-    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 102,
     "pubdate": "2025-10-04-12-00-00 +0000",
     "source": "wsj",
@@ -63,7 +56,14 @@
     "link": "https://www.wsj.com/economy/trade/south-korea-trump-steel-tariffs-6537ee98"
   },
   {
-    "score": 92,
+    "score": 99,
+    "pubdate": "2025-10-03-05-30-17 +0000",
+    "source": "bbc",
+    "headline": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
+    "link": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 90,
     "pubdate": "2025-10-06-16-48-36 +0000",
     "source": "bbc",
     "headline": "Sudan militia leader convicted of war crimes during Darfur war",
