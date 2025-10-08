@@ -1,59 +1,45 @@
 [
   {
-    "score": 135,
-    "pubdate": "2025-10-07-18-11-39 +0000",
-    "source": "nypost",
-    "headline": "Trump Middle East envoy won’t leave Egypt until Hamas agrees to release Israeli hostages, end Gaza war",
-    "link": "https://nypost.com/2025/10/07/world-news/kushner-witkoff-wont-leave-egypt-without-agreement-to-release-israeli-hostages-end-gaza-war/"
-  },
-  {
-    "score": 76,
-    "pubdate": "2025-10-07-22-08-30 +0000",
-    "source": "bbc",
-    "headline": "White House suggests some federal workers may not get back pay after shutdown",
-    "link": "https://www.bbc.com/news/articles/cwyld9qqgv8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 74,
-    "pubdate": "2025-10-08-13-51-28 +0000",
-    "source": "nypost",
-    "headline": "Inside the Hunter Biden-linked proposal to sell off land around the US Embassy in Romania",
-    "link": "https://nypost.com/2025/10/08/us-news/hunter-biden-linked-to-proposal-to-sell-land-around-us-embassy-in-romania/"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-10-08-13-33-06 +0000",
-    "source": "nypost",
-    "headline": "Ex-FBI Director James Comey insists he’s innocent as he faces down charges of lying to Congress 5 years ago",
-    "link": "https://nypost.com/2025/10/08/us-news/ex-fbi-director-james-comey-to-appear-in-federal-court-to-face-trump-dojs-criminal-charges/"
-  },
-  {
-    "score": 68,
+    "score": 123,
     "pubdate": "2025-10-08-14-46-38 +0000",
     "source": "nyt",
     "headline": "Trump Says Chicago Mayor and Illinois Governor Should Be Jailed Amid National Guard Tensions",
     "link": "https://www.nytimes.com/2025/10/08/us/trump-pritzker-brandon-johnson-jail-ice.html"
   },
   {
-    "score": 62,
-    "pubdate": "2025-10-08-14-44-00 +0000",
-    "source": "wsj",
-    "headline": "In Japan, as in the U.S., a new leader wants the central bank to make government debt more bearable, which could feed inflation, writes WSJ’s Greg Ip",
-    "link": "https://www.wsj.com/economy/central-banking/gold-price-central-bank-28eac30f"
+    "score": 84,
+    "pubdate": "2025-10-08-13-33-06 +0000",
+    "source": "nypost",
+    "headline": "Ex-FBI Director James Comey insists he’s innocent as he faces down charges of lying to Congress 5 years ago",
+    "link": "https://nypost.com/2025/10/08/us-news/ex-fbi-director-james-comey-to-appear-in-federal-court-to-face-trump-dojs-criminal-charges/"
   },
   {
-    "score": 55,
+    "score": 79,
+    "pubdate": "2025-10-08-13-51-28 +0000",
+    "source": "nypost",
+    "headline": "Inside the Hunter Biden-linked proposal to sell off land around the US Embassy in Romania",
+    "link": "https://nypost.com/2025/10/08/us-news/hunter-biden-linked-to-proposal-to-sell-land-around-us-embassy-in-romania/"
+  },
+  {
+    "score": 67,
+    "pubdate": "2025-10-08-10-53-48 +0000",
+    "source": "bbc",
+    "headline": "Israeli forces intercept new aid flotilla bound for Gaza",
+    "link": "https://www.bbc.com/news/articles/cwyn9qp9v11o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 65,
+    "pubdate": "2025-10-07-22-08-30 +0000",
+    "source": "bbc",
+    "headline": "White House suggests some federal workers may not get back pay after shutdown",
+    "link": "https://www.bbc.com/news/articles/cwyld9qqgv8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 56,
     "pubdate": "2025-10-08-12-06-52 +0000",
     "source": "nypost",
     "headline": "California gubernatorial hopeful Katie Porter tries to storm out of CBS interview after meltdown over Trump question",
     "link": "https://nypost.com/2025/10/08/us-news/california-gubernatorial-hopeful-katie-porter-tries-to-storm-out-of-cbs-interview-after-meltdown-over-trump-question/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-10-08-02-46-58 +0000",
-    "source": "nyt",
-    "headline": "Israel Marks Two-Year Anniversary of Oct. 7 in Subdued Fashion",
-    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html"
   },
   {
     "score": 54,
@@ -64,9 +50,23 @@
   },
   {
     "score": 53,
-    "pubdate": "2025-10-07-23-30-36 +0000",
+    "pubdate": "2025-10-08-11-02-10 +0000",
+    "source": "bbc",
+    "headline": "Spy case collapse blamed on UK government failure to label China a threat",
+    "link": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-10-07-19-20-11 +0000",
+    "source": "nypost",
+    "headline": "Tesla unveils long-awaited cheaper Model Y, Model 3 — here’s what they cost",
+    "link": "https://nypost.com/2025/10/07/business/tesla-unveils-cheaper-model-y-model-3-in-drive-to-reignite-sales/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-10-08-02-46-58 +0000",
     "source": "nyt",
-    "headline": "Pam Bondi Goes on the Attack During Senate Hearing",
-    "link": "https://www.nytimes.com/2025/10/07/us/politics/pam-bondi-hearing.html"
+    "headline": "Israel Marks Two-Year Anniversary of Oct. 7 in Subdued Fashion",
+    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html"
   }
 ]
