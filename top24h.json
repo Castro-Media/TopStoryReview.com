@@ -1,6 +1,6 @@
 [
   {
-    "score": 128,
+    "score": 127,
     "pubdate": "2025-10-08-17-33-40 +0000",
     "source": "nyt",
     "headline": "Trump Says Chicago Mayor and Illinois Governor Should Be Jailed Amid National Guard Tensions",
@@ -14,11 +14,11 @@
     "link": "https://nypost.com/2025/10/08/us-news/ex-fbi-director-james-comey-to-appear-in-federal-court-to-face-trump-dojs-criminal-charges/"
   },
   {
-    "score": 81,
-    "pubdate": "2025-10-08-13-51-28 +0000",
-    "source": "nypost",
-    "headline": "Inside the Hunter Biden-linked proposal to sell off land around the US Embassy in Romania",
-    "link": "https://nypost.com/2025/10/08/us-news/hunter-biden-linked-to-proposal-to-sell-land-around-us-embassy-in-romania/"
+    "score": 76,
+    "pubdate": "2025-10-08-12-15-20 +0000",
+    "source": "bbc",
+    "headline": "Inside one battle-scarred Gaza building, displaced families tell the story of the war",
+    "link": "https://www.bbc.com/news/articles/cy4jz7l7qv8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 69,
@@ -28,25 +28,11 @@
     "link": "https://www.bbc.com/news/articles/cwyld9qqgv8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 67,
-    "pubdate": "2025-10-08-15-21-29 +0000",
-    "source": "bbc",
-    "headline": "Key US and regional mediators join talks in push to end Gaza war",
-    "link": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 56,
+    "score": 54,
     "pubdate": "2025-10-07-21-10-44 +0000",
     "source": "latimes",
     "headline": "Sensitive police files to be opened up for watchdogs under new law signed by Newsom",
     "link": "https://www.latimes.com/california/story/2025-10-07/newsom-law-enforcement-personnel-records-bill"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-10-08-11-02-10 +0000",
-    "source": "bbc",
-    "headline": "Spy case collapse blamed on UK government failure to label China a threat",
-    "link": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 54,
@@ -56,11 +42,11 @@
     "link": "https://www.nytimes.com/2025/10/07/world/europe/athens-democracy-forum-womens-rights.html"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-07-19-20-11 +0000",
-    "source": "nypost",
-    "headline": "Tesla unveils long-awaited cheaper Model Y, Model 3 — here’s what they cost",
-    "link": "https://nypost.com/2025/10/07/business/tesla-unveils-cheaper-model-y-model-3-in-drive-to-reignite-sales/"
+    "score": 54,
+    "pubdate": "2025-10-08-11-02-10 +0000",
+    "source": "bbc",
+    "headline": "Spy case collapse blamed on UK government failure to label China a threat",
+    "link": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 48,
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "Israel Marks Two-Year Anniversary of Oct. 7 in Subdued Fashion",
     "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-10-08-18-05-58 +0000",
+    "source": "nypost",
+    "headline": "Palisades firebug Jonathan Rinderknecht listened to disturbing French song repeatedly before setting ‘malicious’ fire: court docs",
+    "link": "https://nypost.com/2025/10/08/us-news/palisades-firebug-jonathan-rinderknecht-listened-to-disturbing-french-song-repeatedly-before-setting-malicious-fire/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-10-08-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Arellano: Who knew ICE could be so funny? Just check out videos of their fails",
+    "link": "https://www.latimes.com/california/story/2025-10-08/videos-of-ice-failing-good-for-laughs"
   }
 ]
