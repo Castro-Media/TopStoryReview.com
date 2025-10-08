@@ -1,13 +1,13 @@
 [
   {
-    "score": 141,
+    "score": 135,
     "pubdate": "2025-10-07-18-11-39 +0000",
     "source": "nypost",
     "headline": "Trump Middle East envoy won’t leave Egypt until Hamas agrees to release Israeli hostages, end Gaza war",
     "link": "https://nypost.com/2025/10/07/world-news/kushner-witkoff-wont-leave-egypt-without-agreement-to-release-israeli-hostages-end-gaza-war/"
   },
   {
-    "score": 78,
+    "score": 76,
     "pubdate": "2025-10-07-22-08-30 +0000",
     "source": "bbc",
     "headline": "White House suggests some federal workers may not get back pay after shutdown",
@@ -35,25 +35,11 @@
     "link": "https://www.nytimes.com/2025/10/08/us/trump-pritzker-brandon-johnson-jail-ice.html"
   },
   {
-    "score": 64,
+    "score": 62,
     "pubdate": "2025-10-08-14-44-00 +0000",
     "source": "wsj",
     "headline": "In Japan, as in the U.S., a new leader wants the central bank to make government debt more bearable, which could feed inflation, writes WSJ’s Greg Ip",
     "link": "https://www.wsj.com/economy/central-banking/gold-price-central-bank-28eac30f"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-10-07-15-50-55 +0000",
-    "source": "nypost",
-    "headline": "NY woman refuses to pay $440 fine to Hertz after AI scanner flags ‘small scuff’ on wheel: ‘ I will never use their car company again’",
-    "link": "https://nypost.com/2025/10/07/business/ny-woman-refuses-to-pay-440-to-hertz-after-ai-scanner-flags-scuff-on-tire/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-10-08-02-46-58 +0000",
-    "source": "nyt",
-    "headline": "Israel Marks Two-Year Anniversary of Oct. 7 in Subdued Fashion",
-    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html"
   },
   {
     "score": 55,
@@ -64,9 +50,23 @@
   },
   {
     "score": 54,
+    "pubdate": "2025-10-08-02-46-58 +0000",
+    "source": "nyt",
+    "headline": "Israel Marks Two-Year Anniversary of Oct. 7 in Subdued Fashion",
+    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html"
+  },
+  {
+    "score": 54,
     "pubdate": "2025-10-08-00-44-44 +0000",
     "source": "nyt",
     "headline": "Athens Democracy Forum: As Democracy Erodes Globally, So Do Women’s Rights",
     "link": "https://www.nytimes.com/2025/10/07/world/europe/athens-democracy-forum-womens-rights.html"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-10-07-23-30-36 +0000",
+    "source": "nyt",
+    "headline": "Pam Bondi Goes on the Attack During Senate Hearing",
+    "link": "https://www.nytimes.com/2025/10/07/us/politics/pam-bondi-hearing.html"
   }
 ]
