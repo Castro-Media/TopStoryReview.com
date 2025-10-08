@@ -1,5 +1,65 @@
 [
   {
+    "headline": "New Zealand’s Central Bank Delivers Outsized Cut to Revive Stalled Economy",
+    "link": "https://www.wsj.com/articles/new-zealands-central-bank-delivers-outsized-cut-to-revive-stalled-economy-0e3479df",
+    "source": "wsj",
+    "pubdate": "2025-10-08-02-02-00 +0000"
+  },
+  {
+    "headline": "Trump-Backed Republican Prevails in Tennessee Congressional Primary",
+    "link": "https://www.nytimes.com/2025/10/07/us/politics/tennessee-special-election.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-02-00-51 +0000"
+  },
+  {
+    "headline": "Trump-Backed Republican Prevails in Tennessee Congressional Primary",
+    "link": "https://www.nytimes.com/2025/10/07/us/politics/tennessee-special-election.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-02-00-51 +0000"
+  },
+  {
+    "headline": "Toyota recalls nearly 394K vehicles over rearview camera issue",
+    "link": "https://nypost.com/2025/10/07/business/toyota-recalls-nearly-394k-vehicles-over-rearview-camera-issue/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-01-58-59 +0000"
+  },
+  {
+    "headline": "Wolves’ Bones Hyland has a supporter in Tim Connelly and hopes to find his niche",
+    "link": "https://www.startribune.com/minnesota-timberwolves-bones-hyland-tim-connelly-jaylen-clark-nba-preseason/601457784",
+    "source": "startribune",
+    "pubdate": "2025-10-08-01-52-22 +0000"
+  },
+  {
+    "headline": "City seeks to overturn judge's order limiting LAPD use of crowd control weapons",
+    "link": "https://www.latimes.com/california/story/2025-10-07/lapd-crowd-control-weapons-challenge",
+    "source": "latimes",
+    "pubdate": "2025-10-08-01-48-34 +0000"
+  },
+  {
+    "headline": "Kentucky sues Roblox gaming platform over child safety issues, citing ‘Charlie Kirk assassination simulators’",
+    "link": "https://nypost.com/2025/10/07/us-news/kentucky-sues-roblox-gaming-platform-over-child-safety-issues-citing-charlie-kirk-assassination-simulators/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-01-34-29 +0000"
+  },
+  {
+    "headline": "Massive Mission District affordable housing plan slashed, dropping from 465 to 100 units",
+    "link": "https://missionlocal.org/2025/10/massive-465-unit-mission-district-affordable-housing-project-slashed-to-just-100-units/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-08-01-31-55 +0000"
+  },
+  {
+    "headline": "Senate confirms Daniel Rosen as Minnesota’s next U.S. Attorney",
+    "link": "https://www.startribune.com/senate-confirms-daniel-rosen-as-minnesotas-next-us-attorney/601487917",
+    "source": "startribune",
+    "pubdate": "2025-10-08-01-22-19 +0000"
+  },
+  {
+    "headline": "Defunct marine park threatens to kill 30 beluga whales if emergency government funding isn’t approved",
+    "link": "https://nypost.com/2025/10/07/world-news/canadas-marineland-threatens-to-kill-30-beluga-whales-if-emergency-government-funding-isnt-approved/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-01-21-59 +0000"
+  },
+  {
     "headline": "Powerful nor’easter threatens upcoming weekend on East Coast with rain, high winds",
     "link": "https://nypost.com/2025/10/07/us-news/noreaster-threatens-upcoming-weekend-on-east-coast-with-rain-high-winds/",
     "source": "nypost",
@@ -48,7 +108,7 @@
     "pubdate": "2025-10-08-01-00-00 +0000"
   },
   {
-    "headline": "Deputy, dad of 2 shot dead after La. courthouse tussle with arrestee who reached for cop’s gun",
+    "headline": "Deputy, dad of 2 shot dead after Louisiana courthouse tussle with arrestee who reached for cop’s gun",
     "link": "https://nypost.com/2025/10/07/us-news/deputy-shot-dead-another-critical-after-arrestee-reaches-for-cops-gun-inside-la-courthouse/",
     "source": "nypost",
     "pubdate": "2025-10-08-00-57-05 +0000"
@@ -94,6 +154,12 @@
     "link": "https://www.nytimes.com/2025/10/07/world/maria-ressa-truth-athens-democracy-forum.html",
     "source": "nyt",
     "pubdate": "2025-10-08-00-46-21 +0000"
+  },
+  {
+    "headline": "Catch a new film about the brutality of sweeps and attacks on the unhoused",
+    "link": "https://48hills.org/2025/10/catch-a-new-film-about-the-brutality-of-sweeps-and-attacks-on-the-unhoused/",
+    "source": "48hills",
+    "pubdate": "2025-10-08-00-45-00 +0000"
   },
   {
     "headline": "Athens Democracy Forum: As Democracy Erodes Globally, So Do Women’s Rights",
@@ -214,12 +280,6 @@
     "link": "https://www.nytimes.com/2025/10/07/us/politics/bondi-hearing-takeaways.html",
     "source": "nyt",
     "pubdate": "2025-10-08-00-11-39 +0000"
-  },
-  {
-    "headline": "Senate confirms Daniel Rosen as Minnesota’s next U.S. Attorney",
-    "link": "https://www.startribune.com/senate-confirms-daniel-rosen-as-minnesotas-next-us-attorney/601487917",
-    "source": "startribune",
-    "pubdate": "2025-10-08-00-11-18 +0000"
   },
   {
     "headline": "Here’s the latest.",
@@ -414,7 +474,7 @@
     "pubdate": "2025-10-07-23-09-07 +0000"
   },
   {
-    "headline": "Minneapolis crime is falling in 2025, even amid high-profile violence.",
+    "headline": "Minneapolis crime is falling in 2025, even amid high-profile violence",
     "link": "https://www.startribune.com/minneapolis-crime-is-falling-in-2025-but-mass-shootings-and-ongoing-issues-fuel-fear/601484405",
     "source": "startribune",
     "pubdate": "2025-10-07-23-08-58 +0000"
@@ -474,7 +534,7 @@
     "pubdate": "2025-10-07-22-55-56 +0000"
   },
   {
-    "headline": "Man beaten to death outside NYC subway station — and attacker remains on the loose: sources",
+    "headline": "Man beaten to death outside NYC subway station — and cops nab attacker in different borough: sources",
     "link": "https://nypost.com/2025/10/07/us-news/man-beaten-to-death-outside-jay-street-metrotech-station-in-brooklyn/",
     "source": "nypost",
     "pubdate": "2025-10-07-22-55-31 +0000"
@@ -580,12 +640,6 @@
     "link": "https://www.washingtonpost.com/obituaries/2025/10/07/john-gurdon-dead/",
     "source": "wapo",
     "pubdate": "2025-10-07-22-11-17 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani PACs raked in thousands from media allies, progressives with ties to radicals",
-    "link": "https://nypost.com/2025/10/07/us-news/pacs-supporting-mamdani-raised-cash-from-lefty-establisment/",
-    "source": "nypost",
-    "pubdate": "2025-10-07-22-09-54 +0000"
   },
   {
     "headline": "Zohran Mamdani PACs raked in thousands from media allies, progressives with ties to radicals",
@@ -886,12 +940,6 @@
     "link": "https://www.nytimes.com/2025/10/07/world/middleeast/trump-witkoff-kushner-israel-hamas-talks.html",
     "source": "nyt",
     "pubdate": "2025-10-07-20-55-59 +0000"
-  },
-  {
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-2003613e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-07-20-55-00 +0000"
   },
   {
     "headline": "Israelis mark 7 October anniversary as talks on Gaza peace plan continue",
@@ -1374,12 +1422,6 @@
     "pubdate": "2025-10-07-17-52-03 +0000"
   },
   {
-    "headline": "Immigration Tracker: Updates on ICE enforcement, DACA and more",
-    "link": "https://eltecolote.org/content/en/trump-immigration-news-october/",
-    "source": "eltecolote",
-    "pubdate": "2025-10-07-17-48-25 +0000"
-  },
-  {
     "headline": "Trump says trade talks 'complicated' but Canada will be 'very happy' with eventual deal",
     "link": "https://www.bbc.com/news/articles/cj6xje2778go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1464,12 +1506,6 @@
     "pubdate": "2025-10-07-17-16-57 +0000"
   },
   {
-    "headline": "Yet to open, ‘Purple Rain’ gets extended by a week",
-    "link": "https://www.startribune.com/yet-to-open-purple-rain-gets-extended-by-a-week/601487257",
-    "source": "startribune",
-    "pubdate": "2025-10-07-17-15-00 +0000"
-  },
-  {
     "headline": "Tories promise to treble stop and search in crime hotspots",
     "link": "https://www.bbc.com/news/articles/cp8wgnz1r3xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1548,12 +1584,6 @@
     "pubdate": "2025-10-07-16-46-17 +0000"
   },
   {
-    "headline": "RandBall: Deciphering KOC on Vikings QBs, Reichard kick and more",
-    "link": "https://www.startribune.com/minnesota-vikings-kevin-oconnell-jj-mccarthy-will-reichard/601487577",
-    "source": "startribune",
-    "pubdate": "2025-10-07-16-46-14 +0000"
-  },
-  {
     "headline": "'The vibe is flat' at Conservative Party conference",
     "link": "https://www.bbc.com/news/videos/c0q7xjv5vd3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1600,6 +1630,12 @@
     "link": "https://www.bbc.com/news/articles/cx25zvy78ldo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-07-16-18-54 +0000"
+  },
+  {
+    "headline": "To treat a common bladder condition, Medtronic implant goes under the skin near the ankle",
+    "link": "https://www.startribune.com/medtronic-bladder-implant-altaviva-urinary-urge-incontinence-ankle-bluewind-medical-revi-overactive/601479309",
+    "source": "startribune",
+    "pubdate": "2025-10-07-16-16-44 +0000"
   },
   {
     "headline": "Canada Goods-Trade Deficit Widens as Exports Retreat",
@@ -2001,13 +2037,13 @@
     "headline": "Who is the therapist behind the lawsuit challenging Colorado’s conversion therapy law?",
     "link": "https://www.nytimes.com/live/2025/10/07/us/supreme-court-conversion-therapy/who-is-the-therapist-behind-the-lawsuit-challenging-colorados-conversion-therapy-law",
     "source": "nyt",
-    "pubdate": "2025-10-07-13-18-47 +0000"
+    "pubdate": "2025-10-07-13-18-48 +0000"
   },
   {
     "headline": "Who is the therapist behind the lawsuit challenging Colorado’s conversion therapy law?",
     "link": "https://www.nytimes.com/live/2025/10/07/us/supreme-court-conversion-therapy/who-is-the-therapist-behind-the-lawsuit-challenging-colorados-conversion-therapy-law",
     "source": "nyt",
-    "pubdate": "2025-10-07-13-18-47 +0000"
+    "pubdate": "2025-10-07-13-18-48 +0000"
   },
   {
     "headline": "Trying to Survive Gaza’s War-Torn Present, and Hoping for a Future",
@@ -2412,18 +2448,6 @@
     "pubdate": "2025-10-07-09-08-53 +0000"
   },
   {
-    "headline": "In Tennessee Special Election, a Crowded Field for an Open Congressional Seat",
-    "link": "https://www.nytimes.com/2025/10/07/us/politics/tennessee-special-election.html",
-    "source": "nyt",
-    "pubdate": "2025-10-07-09-01-34 +0000"
-  },
-  {
-    "headline": "In Tennessee Special Election, a Crowded Field for an Open Congressional Seat",
-    "link": "https://www.nytimes.com/2025/10/07/us/politics/tennessee-special-election.html",
-    "source": "nyt",
-    "pubdate": "2025-10-07-09-01-34 +0000"
-  },
-  {
     "headline": "Germans meet up to eat pudding with forks — and the trend goes global",
     "link": "https://www.washingtonpost.com/world/2025/10/07/germans-pudding-forks-trend/",
     "source": "wapo",
@@ -2452,12 +2476,6 @@
     "link": "https://www.bbc.com/news/articles/cvgqyj268ljo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-07-08-32-25 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Dow Drops; Gold Tops $4,000",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2025?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-07-08-11-32 +0000"
   },
   {
     "headline": "Carney under pressure at White House talks",
@@ -2506,12 +2524,6 @@
     "link": "https://www.bbc.com/news/articles/c80g4d5epm8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-07-07-20-45 +0000"
-  },
-  {
-    "headline": "German Factory Orders Unexpectedly Fall Again Amid Tariff Uncertainty",
-    "link": "https://www.wsj.com/economy/german-factory-orders-unexpectedly-fall-again-amid-tariff-uncertainty-35a35647",
-    "source": "wsj",
-    "pubdate": "2025-10-07-06-54-00 +0000"
   },
   {
     "headline": "'I deeply hurt people by moving to Saudi Arabia'",
@@ -2626,41 +2638,5 @@
     "link": "https://www.nytimes.com/2025/10/06/business/media/trump-pentagon-reporters-press.html",
     "source": "nyt",
     "pubdate": "2025-10-07-02-20-52 +0000"
-  },
-  {
-    "headline": "Trump says chance of Gaza peace deal 'really good' as talks to continue in Egypt",
-    "link": "https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-07-02-07-21 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
-    "link": "https://www.nytimes.com/2025/10/06/world/middleeast/israel-gaza-hamas-peace-talks.html",
-    "source": "nyt",
-    "pubdate": "2025-10-07-01-58-41 +0000"
-  },
-  {
-    "headline": "Israel and Hamas Meet in Egypt to Discuss Gaza Peace Plan",
-    "link": "https://www.nytimes.com/2025/10/06/world/middleeast/israel-gaza-hamas-peace-talks.html",
-    "source": "nyt",
-    "pubdate": "2025-10-07-01-58-41 +0000"
-  },
-  {
-    "headline": "President Trump signaled a willingness to strike a deal on extending healthcare subsidies demanded by Democrats, as the government shutdown entered its second week",
-    "link": "https://www.wsj.com/politics/policy/trump-open-to-healthcare-talks-with-democrats-amid-shutdown-83c4b910",
-    "source": "wsj",
-    "pubdate": "2025-10-07-01-27-00 +0000"
-  },
-  {
-    "headline": "Rampage Jackson's son Raja to face charges in wrestling beating, L.A. prosecutors say",
-    "link": "https://www.latimes.com/california/story/2025-10-06/rampage-jackson-son-raja-criminal-charges",
-    "source": "latimes",
-    "pubdate": "2025-10-07-01-18-57 +0000"
-  },
-  {
-    "headline": "New poll shows resounding support for public bank in San Francisco",
-    "link": "https://48hills.org/2025/10/new-poll-shows-resounding-support-for-public-bank-in-san-francisco/",
-    "source": "48hills",
-    "pubdate": "2025-10-07-01-18-51 +0000"
   }
 ]
