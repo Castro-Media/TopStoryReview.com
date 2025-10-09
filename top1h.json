@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 51,
+    "pubdate": "2025-10-09-20-11-44 +0000",
+    "source": "nyt",
+    "headline": "With Mideast Deal, Trump Is on the Brink of a Major Diplomatic Accomplishment",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-mideast-visit-israel-gaza.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-10-09-20-47-46 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages",
+    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-10-09-20-39-00 +0000",
+    "source": "wsj",
+    "headline": "Justice Department Secures Indictment Of New York Attorney General Letitia James",
+    "link": "https://www.wsj.com/politics/justice-department-secures-indictment-of-new-york-attorney-general-letitia-james-0cc2ce4f"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-10-09-20-40-43 +0000",
+    "source": "nyt",
+    "headline": "Big Investors Await Windfall From Trump’s Argentina Bailout",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/argentina-bailout-investors.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-09-20-32-08 +0000",
+    "source": "nyt",
+    "headline": "How Jared Kushner, a Self-Described ‘Deal Guy,’ Helped Broker a Gaza Breakthrough",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/jared-kushner-gaza-deal.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-09-19-58-36 +0000",
+    "source": "nyt",
+    "headline": "As Israelis Express Relief at Hamas Deal, Some Ask Why It Took So Long",
+    "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-response-hamas-gaza-deal.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-09-20-05-49 +0000",
+    "source": "startribune",
+    "headline": "Walz: Minnesota will take Trump administration to court if it sends troops here",
+    "link": "https://www.startribune.com/walz-minnesota-will-take-trump-administration-to-court-if-it-sends-troops-here/601488975"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-10-09-20-37-37 +0000",
+    "source": "nypost",
+    "headline": "NY AG Letitia James indicted over mortgage fraud claims: source",
+    "link": "https://nypost.com/2025/10/09/us-news/ny-ag-letitia-james-indicted-over-mortgage-fraud-claims-source/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-09-19-54-31 +0000",
+    "source": "nypost",
+    "headline": "NYC pool complex with massive Keith Haring mural may be saved from demolition under next mayor",
+    "link": "https://nypost.com/2025/10/09/us-news/beloved-nyc-pool-complex-with-massive-keith-haring-mural-slated-for-demolition-may-be-saved-under-new-mayor-locals-say/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-09-20-34-44 +0000",
+    "source": "nypost",
+    "headline": "Inside the crafty DMV scam that rigged Long Island truck-driving licenses: ‘Cheaters never win’",
+    "link": "https://nypost.com/2025/10/09/us-news/inside-the-crafty-dmv-scam-that-rigged-long-island-truck-driving-licenses/"
+  }
+]
