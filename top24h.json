@@ -1,27 +1,27 @@
 [
   {
-    "score": 225,
+    "score": 242,
     "pubdate": "2025-10-08-23-17-50 +0000",
     "source": "nypost",
-    "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace plan: ‘Hostages will be released very soon’",
+    "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace deal: ‘Hostages will be released very soon’",
     "link": "https://nypost.com/2025/10/08/world-news/trump-announces-israel-and-hamas-sign-off-on-phase-one-of-gaza-peace-plan/"
   },
   {
-    "score": 100,
+    "score": 105,
     "pubdate": "2025-10-08-13-33-06 +0000",
     "source": "nypost",
     "headline": "Ex-FBI Director James Comey insists he’s innocent as he faces down charges of lying to Congress 5 years ago",
     "link": "https://nypost.com/2025/10/08/us-news/ex-fbi-director-james-comey-to-appear-in-federal-court-to-face-trump-dojs-criminal-charges/"
   },
   {
-    "score": 87,
-    "pubdate": "2025-10-08-21-33-46 +0000",
-    "source": "nypost",
-    "headline": "Andrew Cuomo would scrap plan to close Rikers Island if elected NYC mayor: ‘New York City’s Big Ditch’",
-    "link": "https://nypost.com/2025/10/08/us-news/andrew-cuomo-would-scrap-plan-to-close-rikers-island-if-hes-elected-nyc-mayor/"
+    "score": 82,
+    "pubdate": "2025-10-08-22-55-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump called for the jailing of Chicago Mayor Brandon Johnson and Illinois Gov. JB Pritzker, saying the Democratic leaders have failed to protect ICE",
+    "link": "https://www.wsj.com/politics/policy/trump-calls-for-jailing-of-chicago-mayor-and-illinois-governor-03d2f173"
   },
   {
-    "score": 77,
+    "score": 74,
     "pubdate": "2025-10-08-19-34-04 +0000",
     "source": "nypost",
     "headline": "House Speaker Mike Johnson rejects standalone bill to pay US troops, adds feds ‘should’ get back pay as shutdown drags on",
@@ -35,38 +35,38 @@
     "link": "https://www.latimes.com/california/story/2025-10-08/la-me-palisades-fire-reactions"
   },
   {
-    "score": 70,
-    "pubdate": "2025-10-08-22-55-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump called for the jailing of Chicago Mayor Brandon Johnson and Illinois Gov. JB Pritzker, saying the Democratic leaders have failed to protect ICE",
-    "link": "https://www.wsj.com/politics/policy/trump-calls-for-jailing-of-chicago-mayor-and-illinois-governor-03d2f173"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-10-08-00-44-44 +0000",
-    "source": "nyt",
-    "headline": "Athens Democracy Forum: As Democracy Erodes Globally, So Do Women’s Rights",
-    "link": "https://www.nytimes.com/2025/10/07/world/europe/athens-democracy-forum-womens-rights.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-10-08-19-36-45 +0000",
-    "source": "latimes",
-    "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
-    "link": "https://www.latimes.com/politics/story/2025-10-08/california-national-guard-soldiers-to-illinois"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-10-08-16-28-37 +0000",
+    "score": 67,
+    "pubdate": "2025-10-08-21-33-46 +0000",
     "source": "nypost",
-    "headline": "Dad accused of killing girlfriend had sex with another woman hours before horrific knife attack",
-    "link": "https://nypost.com/2025/10/08/world-news/dad-accused-of-killing-girlfriend-had-sex-with-another-woman-just-hours-before-horrific-knife-attack/"
+    "headline": "Andrew Cuomo would scrap plan to close Rikers Island if elected NYC mayor: ‘New York City’s Big Ditch’",
+    "link": "https://nypost.com/2025/10/08/us-news/andrew-cuomo-would-scrap-plan-to-close-rikers-island-if-hes-elected-nyc-mayor/"
   },
   {
-    "score": 45,
+    "score": 51,
+    "pubdate": "2025-10-08-23-41-55 +0000",
+    "source": "nypost",
+    "headline": "California gubernatorial candidate Katie Porter screams at staffer during video call: ‘Get out of my f—ing shot!’",
+    "link": "https://nypost.com/2025/10/08/us-news/katie-porter-screams-at-staffer-during-video-call-get-out-of-my-fing-shot/"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-10-08-19-09-53 +0000",
     "source": "bbc",
     "headline": "Spy case collapse blamed on UK government failure to label China a threat",
     "link": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-10-08-23-53-36 +0000",
+    "source": "nyt",
+    "headline": "Qatar Pushes U.S.-Venezuela Diplomacy as Trump Focuses on Military Action",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/venezuela-trump-qatar.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-10-08-16-28-37 +0000",
+    "source": "nypost",
+    "headline": "Dad accused of killing girlfriend had sex with another woman hours before horrific knife attack",
+    "link": "https://nypost.com/2025/10/08/world-news/dad-accused-of-killing-girlfriend-had-sex-with-another-woman-just-hours-before-horrific-knife-attack/"
   }
 ]

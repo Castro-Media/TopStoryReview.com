@@ -1,38 +1,45 @@
 [
   {
-    "score": 438,
+    "score": 461,
     "pubdate": "2025-10-08-23-17-50 +0000",
     "source": "nypost",
-    "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace plan: ‘Hostages will be released very soon’",
+    "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace deal: ‘Hostages will be released very soon’",
     "link": "https://nypost.com/2025/10/08/world-news/trump-announces-israel-and-hamas-sign-off-on-phase-one-of-gaza-peace-plan/"
   },
   {
-    "score": 176,
+    "score": 174,
     "pubdate": "2025-10-06-22-37-00 +0000",
     "source": "wsj",
     "headline": "The Reserve Bank of New Zealand has established a new committee for financial policy, giving it power over issues around financial stability and prudential issues for banks",
     "link": "https://www.wsj.com/articles/new-zealand-central-bank-creates-board-to-manage-financial-stability-issues-1d61a4cd"
   },
   {
-    "score": 153,
-    "pubdate": "2025-10-07-01-27-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump signaled a willingness to strike a deal on extending healthcare subsidies demanded by Democrats, as the government shutdown entered its second week",
-    "link": "https://www.wsj.com/politics/policy/trump-open-to-healthcare-talks-with-democrats-amid-shutdown-83c4b910"
+    "score": 145,
+    "pubdate": "2025-10-06-21-45-09 +0000",
+    "source": "latimes",
+    "headline": "Trump advisors amp up extreme rhetoric against Democrats during government shutdown, immigration raids",
+    "link": "https://www.latimes.com/politics/story/2025-10-06/trump-aides-stephen-miller-russell-vought-portland-chicago-shutdown"
   },
   {
-    "score": 145,
+    "score": 139,
     "pubdate": "2025-10-08-19-36-45 +0000",
     "source": "latimes",
     "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
     "link": "https://www.latimes.com/politics/story/2025-10-08/california-national-guard-soldiers-to-illinois"
   },
   {
-    "score": 131,
+    "score": 136,
     "pubdate": "2025-10-08-13-33-06 +0000",
     "source": "nypost",
     "headline": "Ex-FBI Director James Comey insists he’s innocent as he faces down charges of lying to Congress 5 years ago",
     "link": "https://nypost.com/2025/10/08/us-news/ex-fbi-director-james-comey-to-appear-in-federal-court-to-face-trump-dojs-criminal-charges/"
+  },
+  {
+    "score": 119,
+    "pubdate": "2025-10-08-22-51-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s declaration that Illinois Gov. JB Pritzker should be jailed is the latest clash between two feuding billionaires",
+    "link": "https://www.wsj.com/politics/policy/trump-pritzker-illinois-governor-relationship-9db5ab09"
   },
   {
     "score": 114,
@@ -42,31 +49,24 @@
     "link": "https://www.latimes.com/california/story/2025-10-08/la-me-palisades-fire-reactions"
   },
   {
-    "score": 109,
+    "score": 97,
     "pubdate": "2025-10-08-20-56-43 +0000",
     "source": "nypost",
     "headline": "Supreme Court likely to favor GOP challenge to Illinois mail-in ballot rules in case with major election implications",
     "link": "https://nypost.com/2025/10/08/us-news/supreme-court-likely-to-favor-gop-reps-challenge-to-illinois-mail-in-ballot-rules-in-case-with-major-election-implications/"
   },
   {
-    "score": 84,
-    "pubdate": "2025-10-04-09-49-00 +0000",
-    "source": "wsj",
-    "headline": "Japan Set for First Female Prime Minister Amid U.S. Friction Over Trade, Security",
-    "link": "https://www.wsj.com/world/asia/japan-prime-minister-election-sanae-takaichi-08e09216"
-  },
-  {
-    "score": 83,
-    "pubdate": "2025-10-08-22-51-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s declaration that Illinois Gov. JB Pritzker should be jailed is the latest clash between two feuding billionaires",
-    "link": "https://www.wsj.com/politics/policy/trump-pritzker-illinois-governor-relationship-9db5ab09"
-  },
-  {
-    "score": 81,
-    "pubdate": "2025-10-08-20-58-55 +0000",
+    "score": 93,
+    "pubdate": "2025-10-08-21-33-46 +0000",
     "source": "nypost",
-    "headline": "Hotheaded lunatic suspected in NYC subway beating death was free despite eerily similar attack months ago: ‘Could have been me’",
-    "link": "https://nypost.com/2025/10/08/us-news/hotheaded-suspect-in-nyc-subway-beating-death-was-free-despite-eerily-similar-attack-months-ago-could-have-been-me/"
+    "headline": "Andrew Cuomo would scrap plan to close Rikers Island if elected NYC mayor: ‘New York City’s Big Ditch’",
+    "link": "https://nypost.com/2025/10/08/us-news/andrew-cuomo-would-scrap-plan-to-close-rikers-island-if-hes-elected-nyc-mayor/"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-10-03-19-37-00 +0000",
+    "source": "wsj",
+    "headline": "Trump ordered another lethal military strike on an alleged drug-trafficking boat in the Caribbean, signaling the administration is undeterred by mounting legal questions about the campaign",
+    "link": "https://www.wsj.com/politics/national-security/u-s-strikes-boat-off-venezuela-amid-questions-over-action-against-drug-gangs-6a8c83aa"
   }
 ]
