@@ -1,72 +1,72 @@
 [
   {
-    "score": 45,
-    "pubdate": "2025-10-09-00-20-53 +0000",
-    "source": "nyt",
-    "headline": "Trump Says Gaza Talks Are Going ‘Very Well’ and Will Visit Middle East",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-mideast-visit-israel-gaza.html"
+    "score": 29,
+    "pubdate": "2025-10-09-01-53-53 +0000",
+    "source": "nypost",
+    "headline": "Trump expects Israeli hostages to be released Monday after admin brokered breakthrough peace deal",
+    "link": "https://nypost.com/2025/10/08/us-news/trump-expects-israeli-hostages-to-be-released-monday-as-families-cheer-gaza-peace-deal/"
   },
   {
-    "score": 29,
-    "pubdate": "2025-10-09-00-19-19 +0000",
-    "source": "nypost",
-    "headline": "Mike Lawler and Hakeem Jeffries get into fiery shouting match over government shutdown: ‘Keep your mouth shut’",
-    "link": "https://nypost.com/2025/10/08/us-news/mike-lawler-and-hakeem-jeffries-get-into-fiery-shouting-match-keep-your-mouth-shut/"
+    "score": 17,
+    "pubdate": "2025-10-09-02-14-00 +0000",
+    "source": "wsj",
+    "headline": "Authorities Arrest Man Accused of Sparking Palisades Fire",
+    "link": "https://www.wsj.com/us-news/palisades-fire-california-arrest-johnathan-rinderknecht-31e2dbe7"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-10-09-01-33-00 +0000",
+    "source": "wsj",
+    "headline": "The Senate rejected a resolution that would have required President Trump to seek congressional approval before authorizing further U.S. military action in the Caribbean",
+    "link": "https://www.wsj.com/politics/policy/measure-to-curb-trumps-caribbean-boat-strikes-fails-in-senate-21c6ec48"
   },
   {
     "score": 14,
-    "pubdate": "2025-10-09-00-49-43 +0000",
+    "pubdate": "2025-10-09-02-06-44 +0000",
+    "source": "nypost",
+    "headline": "Transportation Secretary Sean Duffy urges air traffic controllers to show up for work: ‘Need to go to their jobs’",
+    "link": "https://nypost.com/2025/10/08/us-news/transportation-secretary-sean-duffy-urges-air-traffic-controllers-to-show-up-for-work/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-09-01-59-30 +0000",
+    "source": "nypost",
+    "headline": "New Jersey Gov race gets personal at final debate: ‘First of all, shame on you’",
+    "link": "https://nypost.com/2025/10/08/us-news/new-jersey-gov-race-gets-personal-at-final-debate-between-sherrill-ciattarelli/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-09-01-56-00 +0000",
+    "source": "wsj",
+    "headline": "Here are five things to know about the Gaza deal between Israel and Hamas",
+    "link": "https://www.wsj.com/world/middle-east/five-things-to-know-about-the-gaza-deal-2a7442ac"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-09-01-19-42 +0000",
+    "source": "latimes",
+    "headline": "8 injured at Union Station as Metrolink train slams into stationary train",
+    "link": "https://www.latimes.com/california/story/2025-10-08/8-injured-los-angeles-union-station-metrolink-train-hits-stationary-train"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-09-01-53-34 +0000",
     "source": "nyt",
-    "headline": "Colombia’s President Says Boat Bombed by U.S. Was Carrying Colombians",
-    "link": "https://www.nytimes.com/2025/10/08/world/americas/colombia-citizens-boat-us-bombed.html"
+    "headline": "Katie Porter Goes Viral for ‘Unhappy’ TV Interview in California Governor’s Race",
+    "link": "https://www.nytimes.com/2025/10/08/us/katie-porter-goes-viral-for-unhappy-tv-interview-in-california-governors-race.html"
   },
   {
-    "score": 11,
-    "pubdate": "2025-10-09-01-03-56 +0000",
-    "source": "nypost",
-    "headline": "Wild video shows man punch fellow shopper in NYC Costco brawl over shopping cart",
-    "link": "https://nypost.com/2025/10/08/us-news/wild-video-shows-man-punch-fellow-shopper-knocking-him-to-the-ground-in-brawl-over-shopping-cart-in-nyc-costco/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-10-09-00-47-24 +0000",
-    "source": "latimes",
-    "headline": "Manager of historic California strip club, site of infamous death by piano, is fatally shot",
-    "link": "https://www.latimes.com/california/story/2025-10-08/manager-san-francisco-condor-club-strip-club-shot-dead"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-10-09-00-44-48 +0000",
-    "source": "latimes",
-    "headline": "Disneyland visitor dies after riding the Haunted Mansion. Expert says theme park deaths are rare",
-    "link": "https://www.latimes.com/california/story/2025-10-08/disneyland-guest-dies-after-riding-a-halloween-attraction"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-09-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Drug Rehabs Lure In Patients for Insurance Money—Then Leave Them on the Street",
-    "link": "https://www.wsj.com/us-news/drug-rehabs-insurance-curbing-6c56ded6"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-09-00-31-57 +0000",
-    "source": "nypost",
-    "headline": "Pet spider monkey escapes from owner — is later lured back and caught with a cup of coffee",
-    "link": "https://nypost.com/2025/10/08/us-news/small-town-clerk-catches-loose-money-with-a-fresh-cup-of-coffee/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-09-00-37-00 +0000",
-    "source": "wsj",
-    "headline": "Trump Says Israel and Hamas Agree to Hostage Release in Step Toward Peace",
-    "link": "https://www.wsj.com/world/middle-east/trump-travel-middle-east-gaza-peace-deal-81e18ccd"
+    "score": 9,
+    "pubdate": "2025-10-09-01-49-28 +0000",
+    "source": "48hills",
+    "headline": "BIG WEEK: Techno-cyborgian Blackness, Rocky Horror, Litquake, BART Jazz Fest…",
+    "link": "https://48hills.org/2025/10/big-week-techno-cyborgian-blackness-rocky-horror-litquake-bart-jazz-fest/"
   },
   {
     "score": 8,
-    "pubdate": "2025-10-09-00-39-05 +0000",
-    "source": "wapo",
-    "headline": "Remaining trekkers rescued from Mount Everest after snowstorm",
-    "link": "https://www.washingtonpost.com/world/2025/10/08/everest-hikers-trapped-blizzard/"
+    "pubdate": "2025-10-09-01-46-45 +0000",
+    "source": "nyt",
+    "headline": "Jonathan Rinderknecht Arrested in Connection With Palisades Fire in Los Angeles",
+    "link": "https://www.nytimes.com/2025/10/08/us/los-angeles-palisades-fire-arrest.html"
   }
 ]
