@@ -1,24 +1,24 @@
 [
   {
-    "score": 350,
+    "score": 355,
     "pubdate": "2025-10-08-23-17-50 +0000",
     "source": "nypost",
     "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace deal: ‘Hostages will be released very soon’",
     "link": "https://nypost.com/2025/10/08/world-news/trump-announces-israel-and-hamas-sign-off-on-phase-one-of-gaza-peace-plan/"
   },
   {
-    "score": 95,
-    "pubdate": "2025-10-09-10-39-00 +0000",
-    "source": "wsj",
-    "headline": "China introduced new controls on rare-earth exports on Thursday, requiring foreign entities to obtain government approval before re-exporting products of Chinese origin to other countries",
-    "link": "https://www.wsj.com/economy/trade/china-imposes-new-controls-over-rare-earth-exports-35a4b106"
-  },
-  {
-    "score": 87,
+    "score": 93,
     "pubdate": "2025-10-08-23-12-49 +0000",
     "source": "latimes",
     "headline": "After Palisades fire failures, L.A. promises to beef up staffing during high-risk fire weather",
     "link": "https://www.latimes.com/california/story/2025-10-08/los-angeles-firefighters-were-hampered-by-a-lack-of-resources-in-initial-fire-attack-report-says"
+  },
+  {
+    "score": 93,
+    "pubdate": "2025-10-09-10-39-00 +0000",
+    "source": "wsj",
+    "headline": "China introduced new controls on rare-earth exports on Thursday, requiring foreign entities to obtain government approval before re-exporting products of Chinese origin to other countries",
+    "link": "https://www.wsj.com/economy/trade/china-imposes-new-controls-over-rare-earth-exports-35a4b106"
   },
   {
     "score": 78,
@@ -28,39 +28,32 @@
     "link": "https://www.wsj.com/politics/policy/trump-calls-for-jailing-of-chicago-mayor-and-illinois-governor-03d2f173"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2025-10-08-19-34-04 +0000",
     "source": "nypost",
     "headline": "House Speaker Mike Johnson rejects standalone bill to pay US troops, adds feds ‘should’ get back pay as shutdown drags on",
     "link": "https://nypost.com/2025/10/08/us-news/house-speaker-mike-johnson-rejects-standalone-bill-to-pay-us-troops-adds-feds-should-get-back-pay-as-shutdown-drags-on/"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-08-20-33-26 +0000",
-    "source": "nyt",
-    "headline": "Tom Homan Was Said to Have Received $50,000 From Agents. He May Not Have to Return It.",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/tom-homan-sting-money.html"
-  },
-  {
     "score": 53,
-    "pubdate": "2025-10-09-15-09-23 +0000",
+    "pubdate": "2025-10-09-16-41-03 +0000",
     "source": "wapo",
-    "headline": "Live updates: Israelis and Palestinians celebrate Gaza ceasefire deal that would release hostages",
+    "headline": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages",
     "link": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-09-08-03-35 +0000",
-    "source": "nypost",
-    "headline": "Four people, including two kids, found dead inside $2M California home — cops probing ‘suspicious deaths’",
-    "link": "https://nypost.com/2025/10/09/us-news/four-dead-in-san-francisco-home-police-investigating-suspicious-deaths/"
+    "score": 52,
+    "pubdate": "2025-10-09-16-41-31 +0000",
+    "source": "bbc",
+    "headline": "Texas court blocks death row inmate's execution in shaken baby case",
+    "link": "https://www.bbc.com/news/articles/cn4lexk7wn7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
-    "pubdate": "2025-10-09-13-23-24 +0000",
-    "source": "bbc",
-    "headline": "All Post Office Horizon victims entitled to free legal advice for first time",
-    "link": "https://www.bbc.com/news/articles/cg7dx7le0ddo?at_medium=RSS&at_campaign=rss"
+    "score": 47,
+    "pubdate": "2025-10-09-12-21-58 +0000",
+    "source": "nypost",
+    "headline": "Burglars hit Saints defensive end Cam Jordan’s home while he was in the middle of a game, cops say",
+    "link": "https://nypost.com/2025/10/09/us-news/saints-defensive-end-cam-jordans-home-burglarized-during-game/"
   },
   {
     "score": 46,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Qatar Pushes U.S.-Venezuela Diplomacy as Trump Focuses on Military Action",
     "link": "https://www.nytimes.com/2025/10/08/us/politics/venezuela-trump-qatar.html"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-10-08-23-41-55 +0000",
+    "source": "nypost",
+    "headline": "California gubernatorial candidate Katie Porter screams at staffer during video call: ‘Get out of my f—ing shot!’",
+    "link": "https://nypost.com/2025/10/08/us-news/katie-porter-screams-at-staffer-during-video-call-get-out-of-my-fing-shot/"
   }
 ]
