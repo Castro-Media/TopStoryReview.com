@@ -1,34 +1,48 @@
 [
   {
-    "score": 374,
+    "score": 395,
     "pubdate": "2025-10-08-23-17-50 +0000",
     "source": "nypost",
     "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace deal: ‘Hostages will be released very soon’",
     "link": "https://nypost.com/2025/10/08/world-news/trump-announces-israel-and-hamas-sign-off-on-phase-one-of-gaza-peace-plan/"
   },
   {
-    "score": 102,
+    "score": 99,
     "pubdate": "2025-10-09-09-05-56 +0000",
     "source": "nyt",
     "headline": "New York Fed President Backs Interest Rate Cuts to Protect Labor Market",
     "link": "https://www.nytimes.com/2025/10/09/us/politics/new-york-fed-president-williams-interview-interest-rate-cuts.html"
   },
   {
-    "score": 74,
+    "score": 82,
     "pubdate": "2025-10-09-13-21-56 +0000",
     "source": "nypost",
     "headline": "Trump tells The Post he’ll visit the Middle East after cease-fire brokered hours before Nobel Prize announcement",
     "link": "https://nypost.com/2025/10/09/us-news/trump-tells-post-tremendous-things-will-happen-in-middle-east-next-week/"
   },
   {
-    "score": 67,
+    "score": 66,
     "pubdate": "2025-10-09-19-35-40 +0000",
     "source": "nypost",
     "headline": "Chuck Schumer ripped for claiming shutdown is ‘better’ for Democrats — as troops, fed workers expected to miss first paychecks",
     "link": "https://nypost.com/2025/10/09/us-news/chuck-schumer-ripped-for-claiming-shutdown-is-better-for-democrats/"
   },
   {
-    "score": 57,
+    "score": 62,
+    "pubdate": "2025-10-09-21-06-00 +0000",
+    "source": "wsj",
+    "headline": "Homeland Security Secretary Kristi Noem said that ICE is “doubling down” in and around Chicago despite opposition from local officials and a legal challenge to the deployment of federalized National Guard members",
+    "link": "https://www.wsj.com/us-news/ice-to-expand-footprint-in-chicagoland-homeland-secretary-noem-pledges-c057b08b"
+  },
+  {
+    "score": 61,
+    "pubdate": "2025-10-09-10-39-00 +0000",
+    "source": "wsj",
+    "headline": "China introduced new controls on rare-earth exports on Thursday, requiring foreign entities to obtain government approval before re-exporting products of Chinese origin to other countries",
+    "link": "https://www.wsj.com/economy/trade/china-imposes-new-controls-over-rare-earth-exports-35a4b106"
+  },
+  {
+    "score": 60,
     "pubdate": "2025-10-09-10-20-50 +0000",
     "source": "wapo",
     "headline": "Israeli military operations in the West Bank should not be ignored following the ceasefire agreement, Shaina...",
@@ -36,37 +50,23 @@
   },
   {
     "score": 55,
-    "pubdate": "2025-10-09-10-39-00 +0000",
-    "source": "wsj",
-    "headline": "China introduced new controls on rare-earth exports on Thursday, requiring foreign entities to obtain government approval before re-exporting products of Chinese origin to other countries",
-    "link": "https://www.wsj.com/economy/trade/china-imposes-new-controls-over-rare-earth-exports-35a4b106"
+    "pubdate": "2025-10-09-19-23-47 +0000",
+    "source": "nyt",
+    "headline": "Texas High Court Halts Execution of Robert Roberson in Shaken Baby Case",
+    "link": "https://www.nytimes.com/2025/10/09/us/texas-shaken-baby-execution.html"
   },
   {
-    "score": 55,
-    "pubdate": "2025-10-09-16-41-31 +0000",
-    "source": "bbc",
-    "headline": "Texas court blocks death row inmate's execution in shaken baby case",
-    "link": "https://www.bbc.com/news/articles/cn4lexk7wn7o?at_medium=RSS&at_campaign=rss"
+    "score": 51,
+    "pubdate": "2025-10-08-23-25-18 +0000",
+    "source": "nyt",
+    "headline": "Texts from Jay Jones, Democratic Attorney General Candidate, Roil Virginia Governor’s Race",
+    "link": "https://www.nytimes.com/2025/10/08/us/jay-jones-text-messages-va-attorney-general.html"
   },
   {
-    "score": 50,
-    "pubdate": "2025-10-09-17-37-51 +0000",
-    "source": "nypost",
-    "headline": "Portland police union head welcomes fed support to help ‘horrifically understaffed’ cops end ‘burst’ in crime",
-    "link": "https://nypost.com/2025/10/09/us-news/portland-police-union-head-welcomes-fed-support-to-help-end-burst-in-crime/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-10-09-04-30-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump called for the jailing of Chicago Mayor Brandon Johnson and Illinois Gov. JB Pritzker, saying the Democratic leaders have failed to protect ICE",
-    "link": "https://www.wsj.com/politics/policy/trump-calls-for-jailing-of-chicago-mayor-and-illinois-governor-03d2f173"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-10-08-23-41-55 +0000",
-    "source": "nypost",
-    "headline": "California gubernatorial candidate Katie Porter screams at staffer during video call: ‘Get out of my f—ing shot!’",
-    "link": "https://nypost.com/2025/10/08/us-news/katie-porter-screams-at-staffer-during-video-call-get-out-of-my-fing-shot/"
+    "score": 45,
+    "pubdate": "2025-10-09-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "U.S. bill calls for more integration between Canadian, American border agents",
+    "link": "https://www.cbc.ca/news/politics/canada-united-states-border-bill-9.6931988?cmp=rss"
   }
 ]
