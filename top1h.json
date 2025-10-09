@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 45,
+    "pubdate": "2025-10-09-10-28-41 +0000",
+    "source": "nyt",
+    "headline": "Israel-Hamas Deal Is Celebrated in Gaza, but Key Questions Remain Unanswered",
+    "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-deal-gaza-palestinians.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-09-10-39-00 +0000",
+    "source": "wsj",
+    "headline": "China introduced new controls on rare-earth exports on Thursday, requiring foreign entities to obtain government approval before re-exporting products of Chinese origin to other countries",
+    "link": "https://www.wsj.com/economy/trade/china-imposes-new-controls-over-rare-earth-exports-35a4b106"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-10-09-10-00-35 +0000",
+    "source": "nyt",
+    "headline": "Pope Leo Calls on Christians to Care for the Poor in His First Teaching",
+    "link": "https://www.nytimes.com/2025/10/09/world/europe/pope-leo-poverty-first-teaching.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-09-10-20-50 +0000",
+    "source": "wapo",
+    "headline": "Israeli military operations in the West Bank should not be ignored following the ceasefire agreement, Shaina...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-09-10-35-20 +0000",
+    "source": "bbc",
+    "headline": "Pubs could stay open longer under licensing reforms",
+    "link": "https://www.bbc.com/news/articles/c1l830m55dno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-09-10-23-24 +0000",
+    "source": "nypost",
+    "headline": "‘Biggest ever’ great white shark Contender surfaces just off Canada – plumping up on seals",
+    "link": "https://nypost.com/2025/10/09/us-news/contender-atlantic-biggest-great-white-shark-surfaces-in-canada/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-09-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Leaked list shows Trump administration considering $15 billion in additional clean energy cuts",
+    "link": "https://www.latimes.com/environment/story/2025-10-09/energy-department-considers-more-than-15-billion-in-additional-project-cuts"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-09-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "She found an LAPD official's AirTag. Her lawsuit claims it derailed her career",
+    "link": "https://www.latimes.com/california/story/2025-10-09/lapd-whistleblower-retaliation-allegations"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-09-10-09-01 +0000",
+    "source": "nypost",
+    "headline": "Central Park visitors support horse carriage rides, oppose NYC’s ban: poll",
+    "link": "https://nypost.com/2025/10/09/us-news/central-park-visitors-support-horse-carriage-rides-oppose-nycs-ban-poll/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-09-10-23-54 +0000",
+    "source": "nypost",
+    "headline": "Tropical Storm Jerry churns in the Atlantic as a weakened Priscilla nears Mexico’s Baja peninsula",
+    "link": "https://nypost.com/2025/10/09/us-news/tropical-storm-jerry-churns-in-the-atlantic-as-a-weakened-priscilla-nears-mexicos-baja-peninsula/"
+  }
+]
