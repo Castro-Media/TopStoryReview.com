@@ -1,254 +1,224 @@
 [
   {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/08/world/israel-hamas-gaza-ceasefire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-08-23-42-37 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/08/world/israel-hamas-gaza-ceasefire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-08-23-42-37 +0000"
+  },
+  {
+    "headline": "California gubernatorial candidate Katie Porter screams at staffer during video call: ‘Get out of my f—ing shot!’",
+    "link": "https://nypost.com/2025/10/08/us-news/katie-porter-screams-at-staffer-during-video-call-get-out-of-my-fing-shot/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-41-55 +0000"
+  },
+  {
+    "headline": "California gubernatorial candidate Katie Porter screams at staffer during video call: ‘Get out of my f—ing shot!’",
+    "link": "https://nypost.com/2025/10/08/us-news/katie-porter-screams-at-staffer-during-video-call-get-out-of-my-fing-shot/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-41-55 +0000"
+  },
+  {
+    "headline": "Lawler Confronts Jeffries in Showy Exchange in a Tense Capitol",
+    "link": "https://www.nytimes.com/2025/10/08/nyregion/lawler-jeffries-confrontation.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-23-37-03 +0000"
+  },
+  {
+    "headline": "Ciattarelli gives President Trump an ‘A’ grade for second term: ‘I think he’s right about everything he’s doing’",
+    "link": "https://nypost.com/2025/10/08/us-news/ciattarelli-gives-president-trump-an-a-grade-for-second-term-i-think-hes-right-about-everything-hes-doing/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-35-52 +0000"
+  },
+  {
+    "headline": "Ciattarelli gives President Trump an ‘A’ grade for second term: ‘I think he’s right about everything he’s doing’",
+    "link": "https://nypost.com/2025/10/08/us-news/ciattarelli-gives-president-trump-an-a-grade-for-second-term-i-think-hes-right-about-everything-hes-doing/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-35-52 +0000"
+  },
+  {
+    "headline": "Diwali becomes an official California state holiday. Where to celebrate the festivities",
+    "link": "https://www.latimes.com/california/story/2025-10-08/diwali-becomes-official-state-holiday-where-to-celebrate-the-festivities",
+    "source": "latimes",
+    "pubdate": "2025-10-08-23-31-24 +0000"
+  },
+  {
+    "headline": "Liberals introduce 2nd border bill with aim to quickly pass less controversial measures",
+    "link": "https://www.cbc.ca/news/politics/liberals-introduce-new-border-bill-9.6932461?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-08-23-29-17 +0000"
+  },
+  {
+    "headline": "Trump Says Israel and Hamas Agree to Hostage Release in Step Toward Peace",
+    "link": "https://www.wsj.com/world/middle-east/trump-travel-middle-east-gaza-peace-deal-81e18ccd",
+    "source": "wsj",
+    "pubdate": "2025-10-08-23-29-00 +0000"
+  },
+  {
+    "headline": "Texts from Jay Jones, Democratic Attorney General Candidate, Roil Virginia Governor’s Race",
+    "link": "https://www.nytimes.com/2025/10/08/us/jay-jones-text-messages-va-attorney-general.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-23-25-18 +0000"
+  },
+  {
+    "headline": "Jack Ciattarelli jeers Mikie Sherrill’s plan to freeze electric bill hike with state of emergency",
+    "link": "https://nypost.com/2025/10/08/us-news/jack-ciattarelli-jeers-mikie-sherrills-plan-to-freeze-electric-bill-hike-with-state-of-emergency/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-23-53 +0000"
+  },
+  {
+    "headline": "Jack Ciattarelli jeers Mikie Sherrill’s plan to freeze electric bill hike with state of emergency",
+    "link": "https://nypost.com/2025/10/08/us-news/jack-ciattarelli-jeers-mikie-sherrills-plan-to-freeze-electric-bill-hike-with-state-of-emergency/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-23-53 +0000"
+  },
+  {
+    "headline": "What Ignited California’s Most Destructive Fires",
+    "link": "https://www.nytimes.com/2025/10/08/us/what-ignited-californias-most-destructive-fires.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-23-21-40 +0000"
+  },
+  {
+    "headline": "No 'closure' for Pacific Palisades even as the cause of the devastating fire is  determined",
+    "link": "https://www.latimes.com/california/story/2025-10-08/pacific-palisades-fire-cause-revealed-no-closure",
+    "source": "latimes",
+    "pubdate": "2025-10-08-23-21-16 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani dodges again on NYC ballot measures as some allies grow frustrated: ‘Honeymoon period is already over’",
+    "link": "https://nypost.com/2025/10/08/us-news/zohran-mamdani-dodges-again-on-nyc-ballot-measures-as-some-allies-grow-frustrated-honeymoon-period-is-already-over/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-19-14 +0000"
+  },
+  {
+    "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace plan: ‘Hostages will be released very soon’",
+    "link": "https://nypost.com/2025/10/08/world-news/trump-announces-israel-and-hamas-sign-off-on-phase-one-of-gaza-peace-plan/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-17-50 +0000"
+  },
+  {
+    "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace plan: ‘Hostages will be released very soon’",
+    "link": "https://nypost.com/2025/10/08/world-news/trump-announces-israel-and-hamas-sign-off-on-phase-one-of-gaza-peace-plan/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-17-50 +0000"
+  },
+  {
+    "headline": "Trump announces Israel and Hamas signed off on phase one of Gaza peace plan: ‘Hostages will be released very soon’",
+    "link": "https://nypost.com/2025/10/08/world-news/trump-announces-israel-and-hamas-sign-off-on-phase-one-of-gaza-peace-plan/",
+    "source": "nypost",
+    "pubdate": "2025-10-08-23-17-50 +0000"
+  },
+  {
+    "headline": "Senior GOP lawmakers have quietly advised the White House not to move forward with mass layoffs and sharp cuts as the government shutdown enters its second week",
+    "link": "https://www.wsj.com/politics/policy/republicans-caution-white-house-on-inflicting-shutdown-pain-33e3bee7",
+    "source": "wsj",
+    "pubdate": "2025-10-08-23-16-00 +0000"
+  },
+  {
+    "headline": "The Redistricting Fight You Haven’t Heard About",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/on-politics-utah-redistricting.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-23-15-16 +0000"
+  },
+  {
+    "headline": "The Redistricting Fight You Haven’t Heard About",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/on-politics-utah-redistricting.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-23-15-16 +0000"
+  },
+  {
     "headline": "84-Year-Old Climber Who Died in Fall Was an Avid Mountaineer",
     "link": "https://www.nytimes.com/2025/10/08/us/pete-cleveland-dead-climber-wisconsin.html",
     "source": "nyt",
-    "pubdate": "2025-10-08-22-52-24 +0000"
+    "pubdate": "2025-10-08-23-13-10 +0000"
   },
   {
-    "headline": "President Trump’s declaration that Illinois Gov. JB Pritzker should be jailed is the latest clash between two feuding billionaires",
-    "link": "https://www.wsj.com/politics/policy/trump-pritzker-illinois-governor-relationship-9db5ab09",
-    "source": "wsj",
-    "pubdate": "2025-10-08-22-51-00 +0000"
+    "headline": "Los Angeles firefighters lacked resources in initial attack on Palisades fire, report says",
+    "link": "https://www.latimes.com/california/story/2025-10-08/los-angeles-firefighters-were-hampered-by-a-lack-of-resources-in-initial-fire-attack-report-says",
+    "source": "latimes",
+    "pubdate": "2025-10-08-23-12-49 +0000"
   },
   {
-    "headline": "She Found a Link Between Air Pollution and Infertility",
-    "link": "https://www.nytimes.com/2025/10/08/climate/mahalingaiah-air-pollution-infertility.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-46-03 +0000"
+    "headline": "Trump says Chicago mayor, Illinois governor should be jailed amid militarized campaign",
+    "link": "https://www.latimes.com/politics/story/2025-10-08/trump-chicago-mayor-illinois-governor-national-guard-troops",
+    "source": "latimes",
+    "pubdate": "2025-10-08-23-09-59 +0000"
   },
   {
-    "headline": "He Studied How Emissions Are Heating Up U.S. Cities",
-    "link": "https://www.nytimes.com/2025/10/08/climate/kevin-gurney-emissions-science.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-45-48 +0000"
+    "headline": "Warner Bros. renews deals for film chiefs after turnaround year",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-08/warner-bros-renews-deals-for-film-chiefs-mike-de-luca-and-pam-abdy",
+    "source": "latimes",
+    "pubdate": "2025-10-08-23-05-17 +0000"
   },
   {
-    "headline": "Has Your Scientific Work Been Cut? We Want to Hear.",
-    "link": "https://www.nytimes.com/2025/10/08/climate/trump-climate-science-funding.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-45-11 +0000"
-  },
-  {
-    "headline": "North Carolina man accused of removing IV and ‘spraying HIV blood’ into hospital employees’ eyes",
-    "link": "https://nypost.com/2025/10/08/us-news/north-carolina-man-accused-of-removing-iv-and-spraying-hiv-blood-into-hospital-employees-eyes/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-44-58 +0000"
-  },
-  {
-    "headline": "Christian Pop Star Wins Battle Over Nashville Church Takeover",
-    "link": "https://www.wsj.com/us-news/christian-pop-star-wins-battle-over-nashville-church-takeover-aaeaef5d",
-    "source": "wsj",
-    "pubdate": "2025-10-08-22-44-00 +0000"
-  },
-  {
-    "headline": "US airlines say it is ‘imperative’ FAA get quick wins in air traffic overhaul",
-    "link": "https://nypost.com/2025/10/08/business/us-airlines-say-it-is-imperative-faa-get-quick-wins-in-air-traffic-overhaul/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-40-33 +0000"
-  },
-  {
-    "headline": "Mutilated birds found drained of blood in NY as conspiracies of dark rituals and cult-like killings loom",
-    "link": "https://nypost.com/2025/10/08/us-news/mutilated-birds-found-drained-of-blood-in-ny-as-dark-rituals-suspected/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-39-24 +0000"
-  },
-  {
-    "headline": "Spencer Pratt slams LA officials after feds finally confirm Palisades Fire was sparked by blaze that was never extinguished",
-    "link": "https://nypost.com/2025/10/08/us-news/spencer-pratt-slams-la-officials-after-feds-finally-confirm-palisades-fire-was-sparked-by-earlier-blaze/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-38-55 +0000"
-  },
-  {
-    "headline": "On Politics: The Redistricting Fight You Haven’t Heard About",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/on-politics-utah-redistricting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-38-45 +0000"
-  },
-  {
-    "headline": "On Politics: The Redistricting Fight You Haven’t Heard About",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/on-politics-utah-redistricting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-38-45 +0000"
-  },
-  {
-    "headline": "Carney and Trump discussed Keystone XL pipeline revival, sources says",
-    "link": "https://www.bbc.com/news/articles/c0lkde341x1o?at_medium=RSS&at_campaign=rss",
+    "headline": "How Britain's membership of the ECHR became a political hot potato",
+    "link": "https://www.bbc.com/news/articles/cm283eqje03o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-08-22-36-30 +0000"
+    "pubdate": "2025-10-08-23-04-21 +0000"
   },
   {
-    "headline": "Minnesota Supreme Court: Counties must pay legal fees of mentally ill defendants awaiting placement",
-    "link": "https://www.startribune.com/minnesota-supreme-court-counties-must-pay-legal-fees-of-mentally-ill-defendants-awaiting-placement/601488250",
-    "source": "startribune",
-    "pubdate": "2025-10-08-22-35-17 +0000"
-  },
-  {
-    "headline": "Derrick Groves, the last remaining New Orleans jail escapee, captured after five-month manhunt",
-    "link": "https://nypost.com/2025/10/08/us-news/derrick-groves-the-last-remaining-new-orleans-jail-escapee-captured-after-five-month-manhunt/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-33-25 +0000"
-  },
-  {
-    "headline": "Trump, Hamas officials say Gaza ceasefire deal ‘very close’",
-    "link": "https://www.washingtonpost.com/world/2025/10/08/us-israel-gaza-egypt-peace-talks/",
-    "source": "wapo",
-    "pubdate": "2025-10-08-22-30-24 +0000"
-  },
-  {
-    "headline": "Federal Judge Imposes New Limits on Chicago ICE Arrests Without Warrants",
-    "link": "https://www.nytimes.com/2025/10/08/us/chicago-ice-federal-judge-warrantless-arrests.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-29-46 +0000"
-  },
-  {
-    "headline": "Comey’s Two Legal Challenges to His Indictment, Explained",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/comey-legal-challenges-explained.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-28-13 +0000"
-  },
-  {
-    "headline": "Comey’s Two Legal Challenges to His Indictment, Explained",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/comey-legal-challenges-explained.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-28-13 +0000"
-  },
-  {
-    "headline": "Texas’ Blue-State Deployments Shred Relations Between Governors",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/national-guard-governors.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-23-22 +0000"
-  },
-  {
-    "headline": "Texas’ Blue-State Deployments Shred Relations Between Governors",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/national-guard-governors.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-23-22 +0000"
-  },
-  {
-    "headline": "Trump Says Middle East Deal Is ‘Very Close,’ May Travel to Region This Week",
-    "link": "https://www.wsj.com/world/middle-east/trump-travel-middle-east-gaza-peace-deal-81e18ccd",
-    "source": "wsj",
-    "pubdate": "2025-10-08-22-20-00 +0000"
-  },
-  {
-    "headline": "Summons tossed for ex-‘The Bear’ writer handcuffed in Metro-North train seating dispute",
-    "link": "https://nypost.com/2025/10/08/us-news/nyc-judge-tosses-summons-for-former-the-bear-writer-handcuffed-in-metro-north-train-seating-dispute/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-18-52 +0000"
-  },
-  {
-    "headline": "Without saying ‘Golden Dome,’ McGuinty touts U.S. missile defence co-operation",
-    "link": "https://www.cbc.ca/news/politics/golden-dome-mcguinty-9.6932329?cmp=rss",
+    "headline": "Carney says he’s spoken with Tony Blair, Jared Kushner about Israel, Gaza",
+    "link": "https://www.cbc.ca/news/politics/carney-israel-gaza-blair-kushner-9.6932400?cmp=rss",
     "source": "cbc",
-    "pubdate": "2025-10-08-22-18-38 +0000"
+    "pubdate": "2025-10-08-23-03-56 +0000"
   },
   {
-    "headline": "Serial creep tried raping girl, 12, inside NYC apartment building — a week after being sprung in similar attacks",
-    "link": "https://nypost.com/2025/10/08/us-news/serial-creep-tried-to-rape-girl-12-inside-nyc-apartment-building-just-a-week-after-being-cut-loose-in-similar-attacks/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-17-24 +0000"
+    "headline": "America's top banker sounds warning on US stock market fall",
+    "link": "https://www.bbc.com/news/articles/cg5ej03p604o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-08-23-02-24 +0000"
   },
   {
-    "headline": "NYC sues Facebook, Google, TikTok claiming social media is addicting kids, harming mental health",
-    "link": "https://nypost.com/2025/10/08/business/nyc-sues-social-media-companies-for-allegedly-addicting-children/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-14-02 +0000"
-  },
-  {
-    "headline": "NYC sues Facebook, Google, TikTok claiming social media is addicting kids, harming mental health",
-    "link": "https://nypost.com/2025/10/08/business/nyc-sues-social-media-companies-for-allegedly-addicting-children/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-14-02 +0000"
-  },
-  {
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/08/us/trump-national-guard-chicago-illinois/here-is-the-latest",
+    "headline": "His Lab Tested Cutting-Edge Spacecraft",
+    "link": "https://www.nytimes.com/2025/10/08/science/nsf-spacecraft-technology.html",
     "source": "nyt",
-    "pubdate": "2025-10-08-22-10-16 +0000"
+    "pubdate": "2025-10-08-23-02-09 +0000"
   },
   {
-    "headline": "IMF head issues dire warning about tariffs, ‘uncertainty’ in the global economy: ‘Buckle up’",
-    "link": "https://nypost.com/2025/10/08/business/imf-head-issues-dire-warning-about-tariffs-buckle-up/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-07-47 +0000"
-  },
-  {
-    "headline": "Hegseth’s sprawling hunt for Charlie Kirk critics spans nearly 300 investigations",
-    "link": "https://www.startribune.com/hegseths-sprawling-hunt-for-charlie-kirk-critics-spans-nearly-300-investigations/601488528",
-    "source": "startribune",
-    "pubdate": "2025-10-08-22-05-13 +0000"
-  },
-  {
-    "headline": "Colombia’s President Says Boat Bombed by U.S. Was Carrying Colombians",
-    "link": "https://www.nytimes.com/2025/10/08/world/americas/colombia-citizens-boat-us-bombed.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-03-22 +0000"
-  },
-  {
-    "headline": "Colombia’s President Says Boat Bombed by U.S. Was Carrying Colombians",
-    "link": "https://www.nytimes.com/2025/10/08/world/americas/colombia-citizens-boat-us-bombed.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-03-22 +0000"
-  },
-  {
-    "headline": "Macron Will Name New Prime Minister Rather Than Call Elections",
-    "link": "https://www.nytimes.com/2025/10/08/world/europe/france-lecornu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-01-16 +0000"
-  },
-  {
-    "headline": "Macron Will Name New Prime Minister Rather Than Call Elections",
-    "link": "https://www.nytimes.com/2025/10/08/world/europe/france-lecornu.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-22-01-16 +0000"
-  },
-  {
-    "headline": "Driver accused of mowing down 4 Pepperdine sorority sisters wants murder charges dropped",
-    "link": "https://nypost.com/2025/10/08/us-news/driver-accused-of-mowing-down-4-pepperdine-sorority-sisters-wants-murder-charges-dropped/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-22-00-25 +0000"
-  },
-  {
-    "headline": "Authorities Arrest Man Accused of Sparking Palisades Fire",
-    "link": "https://www.wsj.com/us-news/palisades-fire-california-arrest-johnathan-rinderknecht-31e2dbe7",
+    "headline": "In his second term, Trump has taken control of the Justice Department in ways he could have only dreamed of during his first",
+    "link": "https://www.wsj.com/politics/policy/trump-doj-inside-political-enemies-17f13f72",
     "source": "wsj",
-    "pubdate": "2025-10-08-22-00-00 +0000"
+    "pubdate": "2025-10-08-23-00-00 +0000"
   },
   {
-    "headline": "Authorities Arrest Man Accused of Sparking Palisades Fire",
-    "link": "https://www.wsj.com/us-news/palisades-fire-california-arrest-johnathan-rinderknecht-31e2dbe7",
+    "headline": "Trump Says Chicago Mayor and Illinois Governor Should Be Jailed Amid National Guard Tensions",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-pritzker-chicago-ice.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-22-56-57 +0000"
+  },
+  {
+    "headline": "Trump Says Chicago Mayor and Illinois Governor Should Be Jailed Amid National Guard Tensions",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-pritzker-chicago-ice.html",
+    "source": "nyt",
+    "pubdate": "2025-10-08-22-56-57 +0000"
+  },
+  {
+    "headline": "Trump Calls for Jailing of Chicago Mayor and Illinois Governor",
+    "link": "https://www.wsj.com/politics/policy/trump-calls-for-jailing-of-chicago-mayor-and-illinois-governor-03d2f173",
     "source": "wsj",
-    "pubdate": "2025-10-08-22-00-00 +0000"
+    "pubdate": "2025-10-08-22-55-00 +0000"
   },
   {
-    "headline": "California Renters Won’t Have to Buy Their Own Fridge Under New Law",
-    "link": "https://www.nytimes.com/2025/10/08/us/newsom-california-law-apartments-appliances.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-21-59-42 +0000"
+    "headline": "President Trump called for the jailing of Chicago Mayor Brandon Johnson and Illinois Gov. JB Pritzker, saying the Democratic leaders have failed to protect ICE",
+    "link": "https://www.wsj.com/politics/policy/trump-calls-for-jailing-of-chicago-mayor-and-illinois-governor-03d2f173",
+    "source": "wsj",
+    "pubdate": "2025-10-08-22-55-00 +0000"
   },
   {
-    "headline": "Trump Says Gaza Talks Are Going ‘Very Well’ and Will Visit Middle East",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-mideast-visit-israel-gaza.html",
+    "headline": "Inside the Capitol, a Heated Spat Over the Shutdown and Epstein",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/mike-johnson-spat-democrats-shutdown-epstein.html",
     "source": "nyt",
-    "pubdate": "2025-10-08-21-54-57 +0000"
+    "pubdate": "2025-10-08-22-54-16 +0000"
   },
   {
-    "headline": "Trump Says Gaza Talks Are Going ‘Very Well’ and Will Visit Middle East",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-mideast-visit-israel-gaza.html",
+    "headline": "Inside the Capitol, a Heated Spat Over the Shutdown and Epstein",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/mike-johnson-spat-democrats-shutdown-epstein.html",
     "source": "nyt",
-    "pubdate": "2025-10-08-21-54-57 +0000"
-  },
-  {
-    "headline": "Trump Says Gaza Talks Are Going ‘Very Well’ and Will Visit Middle East",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-mideast-visit-israel-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-21-54-57 +0000"
-  },
-  {
-    "headline": "Trump Says Gaza Talks Are Going ‘Very Well’ and Will Visit Middle East",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-mideast-visit-israel-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-21-54-57 +0000"
+    "pubdate": "2025-10-08-22-54-16 +0000"
   }
 ]
