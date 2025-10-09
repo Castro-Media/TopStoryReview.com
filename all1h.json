@@ -1,20 +1,272 @@
 [
   {
-    "headline": "Starmer praises Trump over role in Gaza ceasefire deal",
-    "link": "https://www.bbc.com/news/articles/c33rgd5gmrxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-16-54-57 +0000"
+    "headline": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages",
+    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/",
+    "source": "wapo",
+    "pubdate": "2025-10-09-18-52-31 +0000"
   },
   {
-    "headline": "Pelosi challenger Saikat Chakrabarti launches upset bid at packed Mission event",
-    "link": "https://missionlocal.org/2025/10/pelosi-challenger-saikat-chakrabarti-launches/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-09-16-54-30 +0000"
+    "headline": "Hamas received guarantee war ‘fully and completely ended,' Hamas official says",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-09-18-52-31 +0000"
   },
   {
     "headline": "Live Updates: Trump Calls Gaza Deal a ‘Momentous Breakthrough’",
     "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire",
     "source": "nyt",
-    "pubdate": "2025-10-09-16-52-54 +0000"
+    "pubdate": "2025-10-09-18-50-01 +0000"
+  },
+  {
+    "headline": "Trump Baselessly Claims He ‘Took the Freedom of Speech Away’ From Flag Burners",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/trump-freedom-of-speech-flag-burning.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-50-01 +0000"
+  },
+  {
+    "headline": "Trump Baselessly Claims He ‘Took the Freedom of Speech Away’ From Flag Burners",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/trump-freedom-of-speech-flag-burning.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-50-01 +0000"
+  },
+  {
+    "headline": "Circumcision ‘highly likely’ linked to autism, RFK Jr. says in wild new Tylenol claim",
+    "link": "https://nypost.com/2025/10/09/us-news/tylenol-used-after-circumcision-highly-likely-linked-to-autism-rfk-jr/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-18-49-43 +0000"
+  },
+  {
+    "headline": "Circumcision ‘highly likely’ linked to autism, RFK Jr. says in wild new Tylenol claim",
+    "link": "https://nypost.com/2025/10/09/us-news/tylenol-used-after-circumcision-highly-likely-linked-to-autism-rfk-jr/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-18-49-43 +0000"
+  },
+  {
+    "headline": "What we know — and don’t know — about the ceasefire deal so far",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-09-18-49-32 +0000"
+  },
+  {
+    "headline": "Canada’s Financial System Facing Heightened Risks But Remains Resilient, Regulator Says",
+    "link": "https://www.wsj.com/articles/canadas-financial-system-facing-heightened-risks-but-remains-resilient-regulator-says-9ae87de8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-09-18-49-00 +0000"
+  },
+  {
+    "headline": "Alex Jones Asks Supreme Court to Halt $1.4 Billion Payment to Sandy Hook Families",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/supreme-court-alex-jones.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-48-00 +0000"
+  },
+  {
+    "headline": "Alex Jones Asks Supreme Court to Halt $1.4 Billion Payment to Sandy Hook Families",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/supreme-court-alex-jones.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-48-00 +0000"
+  },
+  {
+    "headline": "When Will Israel and Hamas Exchange Hostages and Prisoners? What to Know.",
+    "link": "https://www.nytimes.com/2025/10/09/world/middleeast/hamas-israel-hostage-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-47-25 +0000"
+  },
+  {
+    "headline": "When Will Israel and Hamas Exchange Hostages and Prisoners? What to Know.",
+    "link": "https://www.nytimes.com/2025/10/09/world/middleeast/hamas-israel-hostage-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-47-25 +0000"
+  },
+  {
+    "headline": "Federal Judge Imposes New Limits on Chicago ICE Arrests Without Warrants",
+    "link": "https://www.nytimes.com/2025/10/08/us/chicago-ice-federal-judge-warrantless-arrests.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-45-07 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-42-57 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-42-57 +0000"
+  },
+  {
+    "headline": "U.S. envoy Steve Witkoff and Trump’s son-in-law Jared Kushner landed in Israel as the country’s security...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-09-18-41-10 +0000"
+  },
+  {
+    "headline": "For parents of U.S. hostage Omer Neutra, relief and dread",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-09-18-38-20 +0000"
+  },
+  {
+    "headline": "Google’s ex-CEO Eric Schmidt shares dire warning of homicidal AI models",
+    "link": "https://nypost.com/2025/10/09/business/googles-ex-ceo-eric-schmidt-shares-warns-of-homicidal-ai-models/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-18-38-12 +0000"
+  },
+  {
+    "headline": "LA fire suspect Jonathan Rinderknecht accused neighbor of stalking him, watching loud porn",
+    "link": "https://nypost.com/2025/10/09/us-news/la-fire-suspect-jonathan-rinderknecht-accused-neighbor-of-stalking-him-watching-loud-porn/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-18-37-08 +0000"
+  },
+  {
+    "headline": "Texas’ Blue-State Deployments Shred Relations Between Governors",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/national-guard-governors.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-27-45 +0000"
+  },
+  {
+    "headline": "Texas’ Blue-State Deployments Shred Relations Between Governors",
+    "link": "https://www.nytimes.com/2025/10/08/us/politics/national-guard-governors.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-27-45 +0000"
+  },
+  {
+    "headline": "Oscar S. Wyatt Jr., Wily Texas Oilman, Is Dead at 101",
+    "link": "https://www.nytimes.com/2025/10/09/business/dealbook/oscar-s-wyatt-jr-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-23-33 +0000"
+  },
+  {
+    "headline": "Five-time-married Sarah Hartsfield sentenced to life in prison for fatal insulin poisoning of last husband",
+    "link": "https://nypost.com/2025/10/09/us-news/sarah-hartsfield-sentenced-to-life-in-prison-for-killing-latest-husband/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-18-22-40 +0000"
+  },
+  {
+    "headline": "JPMorgan’s Jamie Dimon is ‘far more worried’ about potential stock market fall than most of Wall Street",
+    "link": "https://nypost.com/2025/10/09/business/jpmorgans-jamie-dimon-is-far-more-worried-about-potential-stock-market-fall-than-most-of-wall-street/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-18-22-40 +0000"
+  },
+  {
+    "headline": "Fed’s Barr Urges Caution With Further Rate Moves, Underscoring Committee’s Divisions",
+    "link": "https://www.wsj.com/economy/central-banking/feds-barr-urges-caution-with-further-rate-moves-underscoring-committees-divisions-3cca4e1a",
+    "source": "wsj",
+    "pubdate": "2025-10-09-18-22-00 +0000"
+  },
+  {
+    "headline": "Centuries-old Virginia lighthouse home hits the market for $450K— but you’ll need a boat to get there",
+    "link": "https://nypost.com/2025/10/09/us-news/centuries-old-virginia-lighthouse-home-hits-the-market-for-450k-but-youll-need-a-boat-to-get-there/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-18-17-11 +0000"
+  },
+  {
+    "headline": "A Stolen Dinosaur Named Clair Is Returned to a California Gas Station",
+    "link": "https://www.nytimes.com/2025/10/08/us/dinosaur-stolen-california-gas-station.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-16-14 +0000"
+  },
+  {
+    "headline": "Trump wants to be 5th U.S. president to win the Nobel Peace Prize. There are obstacles",
+    "link": "https://www.cbc.ca/news/world/trump-nobel-peace-prize-prospects-9.6932861?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-09-18-13-34 +0000"
+  },
+  {
+    "headline": "Palestinian Authority President Mahmoud Abbas met with a delegation of Israeli and Palestinian peace activists in...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-09-18-11-36 +0000"
+  },
+  {
+    "headline": "China Clamps Down Even Harder on Rare Earth Exports",
+    "link": "https://www.nytimes.com/2025/10/09/business/china-rare-earth-exports.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-08-07 +0000"
+  },
+  {
+    "headline": "China Clamps Down Even Harder on Rare Earth Exports",
+    "link": "https://www.nytimes.com/2025/10/09/business/china-rare-earth-exports.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-08-07 +0000"
+  },
+  {
+    "headline": "Democratic Alarm Over an Unbound Trump Fuels Shutdown Standoff",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/democrats-shutdown-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-07-06 +0000"
+  },
+  {
+    "headline": "Democratic Alarm Over an Unbound Trump Fuels Shutdown Standoff",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/democrats-shutdown-trump-administration.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-07-06 +0000"
+  },
+  {
+    "headline": "Oklahoma’s Republican Governor Criticizes National Guard Deployment in Chicago",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/oklahoma-governor-national-guard.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-06-33 +0000"
+  },
+  {
+    "headline": "Oklahoma’s Republican Governor Criticizes National Guard Deployment in Chicago",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/oklahoma-governor-national-guard.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-06-33 +0000"
+  },
+  {
+    "headline": "Naked mole rats' DNA could hold key to long life",
+    "link": "https://www.bbc.com/news/articles/cz7rxy21lxwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-09-18-06-04 +0000"
+  },
+  {
+    "headline": "MnDOT closing I-94 in St. Paul to take down John Ireland Bridge",
+    "link": "https://www.startribune.com/mndot-closing-i-94-in-st-paul-to-take-down-john-ireland-bridge/601488889",
+    "source": "startribune",
+    "pubdate": "2025-10-09-18-04-43 +0000"
+  },
+  {
+    "headline": "Reflection AI Raises $2 Billion as It Aims to Compete With DeepSeek",
+    "link": "https://www.nytimes.com/2025/10/09/business/dealbook/reflection-ai-2-billion-funding.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-02-45 +0000"
+  },
+  {
+    "headline": "Attacks, while slowed, continue in Gaza with deal not yet in force",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-09-18-02-01 +0000"
+  },
+  {
+    "headline": "Bats Catch Migratory Birds and Eat Them in Midair",
+    "link": "https://www.nytimes.com/2025/10/09/science/bats-birds-prey.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-18-00-05 +0000"
+  },
+  {
+    "headline": "Sutter has big healthcare plans for California streets. It’s starting in S.F.",
+    "link": "https://missionlocal.org/2025/10/sf-healthright360-sutter-mobile-healthcare/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-09-18-00-00 +0000"
+  },
+  {
+    "headline": "10 Months Later, Russia Admits Deadly Downing of Azerbaijani Plane",
+    "link": "https://www.nytimes.com/2025/10/09/world/europe/russia-azerbaijan-flight-8243-crash.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-17-58-07 +0000"
+  },
+  {
+    "headline": "10 Months Later, Russia Admits Deadly Downing of Azerbaijani Plane",
+    "link": "https://www.nytimes.com/2025/10/09/world/europe/russia-azerbaijan-flight-8243-crash.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-17-58-07 +0000"
+  },
+  {
+    "headline": "German Leaders and Auto Chiefs Team Up in Push to Relax Emissions Rules",
+    "link": "https://www.nytimes.com/2025/10/09/business/germany-auto-industry-emissions-rules.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-17-56-28 +0000"
   }
 ]
