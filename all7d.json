@@ -1,18 +1,228 @@
 [
   {
+    "headline": "Cosplayers unite! Best looks as NYC Comic Con takes over Javits Center",
+    "link": "https://nypost.com/2025/10/09/us-news/best-looks-as-nyc-comic-con-takes-over-javits-center/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-23-50-24 +0000"
+  },
+  {
+    "headline": "Trump's use of National Guard in US cities faces key court tests",
+    "link": "https://www.bbc.com/news/articles/c1kw9exvejko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-09-23-50-07 +0000"
+  },
+  {
+    "headline": "Judge Tosses Drake’s ‘Not Like Us’ Defamation Suit",
+    "link": "https://www.wsj.com/us-news/judge-tosses-drakes-not-like-us-defamation-suit-06b20a9c",
+    "source": "wsj",
+    "pubdate": "2025-10-09-23-45-00 +0000"
+  },
+  {
+    "headline": "Judge orders halt to DHS agents’ targeting of journalists in Chicago",
+    "link": "https://www.washingtonpost.com/business/2025/10/09/judge-orders-halt-dhs-agents-targeting-journalists-chicago/",
+    "source": "wapo",
+    "pubdate": "2025-10-09-23-43-56 +0000"
+  },
+  {
+    "headline": "Mark Sanchez’s alleged victim says ‘faith guided my hands’ in self-defense stabbing",
+    "link": "https://nypost.com/2025/10/09/us-news/mark-sanchezs-alleged-victim-says-faith-guided-my-hands-in-self-defense-stabbing-as-new-details-emerge/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-23-43-20 +0000"
+  },
+  {
+    "headline": "Live Updates: Israel Approves Gaza Deal That Would Free Hostages and Prisoners",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-40-47 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-40-45 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-40-45 +0000"
+  },
+  {
+    "headline": "What Are the Charges in Letitia James’s Indictment?",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-indictment-charges.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-37-22 +0000"
+  },
+  {
+    "headline": "What Are the Charges in Letitia James’s Indictment?",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-indictment-charges.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-37-22 +0000"
+  },
+  {
+    "headline": "A Timeline of the Conflict Between Letitia James and Donald Trump",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-trump-conflict-timeline.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-35-10 +0000"
+  },
+  {
+    "headline": "A Timeline of the Conflict Between Letitia James and Donald Trump",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-trump-conflict-timeline.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-35-10 +0000"
+  },
+  {
+    "headline": "Oscar S. Wyatt Jr., Wily Texas Oilman, Is Dead at 101",
+    "link": "https://www.nytimes.com/2025/10/09/business/oscar-s-wyatt-jr-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-32-11 +0000"
+  },
+  {
+    "headline": "Israel’s cabinet approves ceasefire deal, advancing hostage release timeline",
+    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/",
+    "source": "wapo",
+    "pubdate": "2025-10-09-23-30-11 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks Trump’s Illinois National Guard Deployment",
+    "link": "https://www.wsj.com/us-news/ice-to-expand-footprint-in-chicagoland-homeland-secretary-noem-pledges-c057b08b",
+    "source": "wsj",
+    "pubdate": "2025-10-09-23-28-00 +0000"
+  },
+  {
+    "headline": "Israeli ministers approve Gaza ceasefire, but tougher talks loom",
+    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-approves-hamas-gaza-ceasefire-deal-hostages/",
+    "source": "wapo",
+    "pubdate": "2025-10-09-23-27-15 +0000"
+  },
+  {
+    "headline": "Alberta will need B.C. government’s backing to build proposed pipeline: energy minister",
+    "link": "https://www.cbc.ca/news/politics/energy-minister-alberta-b-c-pipeline-9.6934083?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-09-23-26-49 +0000"
+  },
+  {
     "headline": "Here is the latest.",
     "link": "https://www.nytimes.com/live/2025/10/09/us/trump-national-guard-chicago-portland/here-is-the-latest",
     "source": "nyt",
-    "pubdate": "2025-10-09-22-51-27 +0000"
+    "pubdate": "2025-10-09-23-23-53 +0000"
+  },
+  {
+    "headline": "Judge temporarily blocks National Guard troop deployment in Illinois",
+    "link": "https://www.cbc.ca/news/world/national-guard-deployment-chicago-9.6934020?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-09-23-19-24 +0000"
+  },
+  {
+    "headline": "Judge blocks Trump from deploying troops in Illinois for now",
+    "link": "https://www.washingtonpost.com/politics/2025/10/09/trump-portland-chicago-national-guard-appeal/",
+    "source": "wapo",
+    "pubdate": "2025-10-09-23-18-12 +0000"
+  },
+  {
+    "headline": "New York Attorney General Letitia James Indicted",
+    "link": "https://www.nytimes.com/live/2025/10/09/us/trump-news/letitia-james-indicted-trump",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-14-45 +0000"
+  },
+  {
+    "headline": "New York Attorney General Letitia James Indicted",
+    "link": "https://www.nytimes.com/live/2025/10/09/us/trump-news/letitia-james-indicted-trump",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-14-45 +0000"
+  },
+  {
+    "headline": "Who is Jonathan Rinderknecht? What We Know About The Palisades Fire Arrest",
+    "link": "https://www.nytimes.com/2025/10/08/us/palisades-fire-arrest-jonathan-rinderknecht.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-12-41 +0000"
+  },
+  {
+    "headline": "The U.N. says it is ready to rush aid into Gaza.",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/the-un-says-it-is-ready-to-rush-aid-into-gaza",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-11-32 +0000"
+  },
+  {
+    "headline": "The U.N. says it is ready to rush aid into Gaza.",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/the-un-says-it-is-ready-to-rush-aid-into-gaza",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-11-32 +0000"
+  },
+  {
+    "headline": "Has the clock stopped on Swiss US trade?",
+    "link": "https://www.bbc.com/news/articles/cy4r12pzxgko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-09-23-10-24 +0000"
+  },
+  {
+    "headline": "Has the clock stopped on Swiss US trade?",
+    "link": "https://www.bbc.com/news/articles/cy4r12pzxgko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-09-23-10-24 +0000"
+  },
+  {
+    "headline": "What we know about the Gaza ceasefire deal",
+    "link": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-09-23-09-03 +0000"
+  },
+  {
+    "headline": "Republican and Democratic senators are trading ideas on healthcare funding to forge a path out of the government shutdown, as tensions rise on Capitol Hill",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-senate-aca-funding-ideas-a52df679",
+    "source": "wsj",
+    "pubdate": "2025-10-09-23-06-00 +0000"
+  },
+  {
+    "headline": "Don't force drivers to use parking apps, RAC says",
+    "link": "https://www.bbc.com/news/articles/ce847ngn7n8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-09-23-05-56 +0000"
+  },
+  {
+    "headline": "Inflation Report Will Be Released Despite Shutdown",
+    "link": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-04-16 +0000"
+  },
+  {
+    "headline": "Inflation Report Will Be Released Despite Shutdown",
+    "link": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-23-04-16 +0000"
+  },
+  {
+    "headline": "The 11th-Hour Campaign to Land Trump a Nobel Peace Prize",
+    "link": "https://www.wsj.com/world/trump-nobel-peace-prize-campaign-e30ec554",
+    "source": "wsj",
+    "pubdate": "2025-10-09-23-03-00 +0000"
+  },
+  {
+    "headline": "Tech billionaires seem to be doom prepping. Should we all be worried?",
+    "link": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-09-23-02-51 +0000"
+  },
+  {
+    "headline": "Paramount facing competition for Warner Bros. Discovery as Comcast could emerge as suitor",
+    "link": "https://nypost.com/2025/10/09/media/paramount-facing-competition-for-warner-bros-discovery-as-comcast-could-emerge-as-suitor/",
+    "source": "nypost",
+    "pubdate": "2025-10-09-23-02-04 +0000"
   },
   {
     "headline": "As Gaza Deal Nears, Palestinians and Israelis Cheer — and Worry",
     "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-gaza-deal-reactions.html",
     "source": "nyt",
-    "pubdate": "2025-10-09-22-51-25 +0000"
+    "pubdate": "2025-10-09-22-54-46 +0000"
   },
   {
-    "headline": "Florida lawmaker’s bill would require public universities to rename roads after Charlie Kirk — or else lose state funding",
+    "headline": "As Gaza Deal Nears, Palestinians and Israelis Cheer — and Worry",
+    "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-gaza-deal-reactions.html",
+    "source": "nyt",
+    "pubdate": "2025-10-09-22-54-46 +0000"
+  },
+  {
+    "headline": "Florida bill would force public universities to rename roads after Charlie Kirk — or lose state funding",
     "link": "https://nypost.com/2025/10/09/us-news/florida-lawmakers-bill-would-require-public-universities-to-rename-roads-after-charlie-kirk-or-else-lose-state-funding/",
     "source": "nypost",
     "pubdate": "2025-10-09-22-51-08 +0000"
@@ -30,46 +240,10 @@
     "pubdate": "2025-10-09-22-48-24 +0000"
   },
   {
-    "headline": "New York Attorney General Letitia James Indicted",
-    "link": "https://www.nytimes.com/live/2025/10/09/us/trump-news/letitia-james-indicted-trump",
-    "source": "nyt",
-    "pubdate": "2025-10-09-22-48-01 +0000"
-  },
-  {
-    "headline": "New York Attorney General Letitia James Indicted",
-    "link": "https://www.nytimes.com/live/2025/10/09/us/trump-news/letitia-james-indicted-trump",
-    "source": "nyt",
-    "pubdate": "2025-10-09-22-48-01 +0000"
-  },
-  {
     "headline": "How South Korea is using a holographic cop to fight crime",
     "link": "https://www.bbc.com/news/videos/czewx81yjx0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-09-22-46-57 +0000"
-  },
-  {
-    "headline": "Live Updates: Israel Approves Gaza Deal That Trump Calls a ‘Momentous Breakthrough’",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire",
-    "source": "nyt",
-    "pubdate": "2025-10-09-22-46-56 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-09-22-46-55 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-09-22-46-55 +0000"
-  },
-  {
-    "headline": "Judge Temporarily Blocks Trump’s Illinois National Guard Deployment",
-    "link": "https://www.wsj.com/us-news/ice-to-expand-footprint-in-chicagoland-homeland-secretary-noem-pledges-c057b08b",
-    "source": "wsj",
-    "pubdate": "2025-10-09-22-44-00 +0000"
   },
   {
     "headline": "Israeli Cabinet approves Gaza hostage release deal after hours of debate",
@@ -92,12 +266,6 @@
   {
     "headline": "U.S. Central Command is establishing a “civil military coordination center” in Israel to support the Gaza...",
     "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-10-09-22-36-11 +0000"
-  },
-  {
-    "headline": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages",
-    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/",
     "source": "wapo",
     "pubdate": "2025-10-09-22-36-11 +0000"
   },
@@ -132,7 +300,7 @@
     "pubdate": "2025-10-09-22-27-45 +0000"
   },
   {
-    "headline": "Faulty breath test may have compromised DWI charges in at least three Minnesota counties",
+    "headline": "Faulty breath test may have compromised DWI charges in at least three counties",
     "link": "https://www.startribune.com/faulty-breath-test-may-have-compromised-dwi-charges-in-at-least-three-minnesota-counties/601487571",
     "source": "startribune",
     "pubdate": "2025-10-09-22-23-17 +0000"
@@ -192,12 +360,6 @@
     "pubdate": "2025-10-09-22-20-00 +0000"
   },
   {
-    "headline": "Judge Tosses Drake’s ‘Not Like Us’ Defamation Suit",
-    "link": "https://www.wsj.com/us-news/judge-tosses-drakes-not-like-us-defamation-suit-06b20a9c",
-    "source": "wsj",
-    "pubdate": "2025-10-09-22-20-00 +0000"
-  },
-  {
     "headline": "Opinion | Trump’s Big Beautiful Gaza Peace Plan",
     "link": "https://www.wsj.com/opinion/trumps-big-beautiful-gaza-peace-plan-0c4e142c",
     "source": "wsj",
@@ -222,13 +384,7 @@
     "pubdate": "2025-10-09-22-18-03 +0000"
   },
   {
-    "headline": "As Gaza Deal Nears, Palestinians and Israelis Cheer — and Worry",
-    "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-gaza-deal-reactions.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-22-17-43 +0000"
-  },
-  {
-    "headline": "Father of slain Hamas hostage Omer Neutra says family hopes for closure as cease-fire deal struck",
+    "headline": "Father of slain American hostage Omer Neutra says family hopes for closure as cease-fire deal struck",
     "link": "https://nypost.com/2025/10/09/us-news/father-of-slain-hamas-hostage-omer-neutra-says-family-hopes-for-closure-as-cease-fire-deal-struck/",
     "source": "nypost",
     "pubdate": "2025-10-09-22-17-29 +0000"
@@ -324,12 +480,6 @@
     "pubdate": "2025-10-09-22-00-36 +0000"
   },
   {
-    "headline": "Who is Jonathan Rinderknecht? What We Know About The Palisades Fire Arrest",
-    "link": "https://www.nytimes.com/2025/10/08/us/palisades-fire-arrest-jonathan-rinderknecht.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-21-57-56 +0000"
-  },
-  {
     "headline": "New S.F. sheriff chief of staff shoved BLM protester in 2020 video",
     "link": "https://missionlocal.org/2025/10/sf-sheriff-john-ramirez-protest-video/",
     "source": "missionlocal",
@@ -352,18 +502,6 @@
     "link": "https://www.wsj.com/opinion/gavin-newsom-housing-san-francisco-daniel-lurie-matt-haney-california-e089762f",
     "source": "wsj",
     "pubdate": "2025-10-09-21-48-00 +0000"
-  },
-  {
-    "headline": "Inflation Report Will Be Released Despite Shutdown",
-    "link": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-21-46-02 +0000"
-  },
-  {
-    "headline": "Inflation Report Will Be Released Despite Shutdown",
-    "link": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-21-46-02 +0000"
   },
   {
     "headline": "Opinion | The Latest Beltway Deficit: $1.8 Trillion",
@@ -442,12 +580,6 @@
     "link": "https://nypost.com/2025/10/09/us-news/lafd-probe-into-disastrous-palisades-fire-response-ignores-feds-claim-deadly-inferno-began-with-missed-blaze/",
     "source": "nypost",
     "pubdate": "2025-10-09-21-24-13 +0000"
-  },
-  {
-    "headline": "Judge orders halt to DHS agents’ targeting of journalists in Chicago",
-    "link": "https://www.washingtonpost.com/business/2025/10/09/judge-orders-halt-dhs-agents-targeting-journalists-chicago/",
-    "source": "wapo",
-    "pubdate": "2025-10-09-21-21-07 +0000"
   },
   {
     "headline": "A beloved Indian singer drowned in Singapore. Now fans want answers",
@@ -576,12 +708,6 @@
     "pubdate": "2025-10-09-20-47-20 +0000"
   },
   {
-    "headline": "Republican and Democratic senators are trading ideas on healthcare funding to forge a path out of the government shutdown, as tensions rose on Capitol Hill",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-senate-aca-funding-ideas-a52df679",
-    "source": "wsj",
-    "pubdate": "2025-10-09-20-42-00 +0000"
-  },
-  {
     "headline": "Big Investors Await Windfall From Trump’s Argentina Bailout",
     "link": "https://www.nytimes.com/2025/10/09/us/politics/argentina-bailout-investors.html",
     "source": "nyt",
@@ -702,12 +828,6 @@
     "pubdate": "2025-10-09-20-29-52 +0000"
   },
   {
-    "headline": "Out-of-control taxi cab slams into pole outside Chinese consulate, injures 4",
-    "link": "https://nypost.com/2025/10/09/us-news/out-of-control-taxi-cab-slams-into-pole-outside-chinese-consulate-injures-4/",
-    "source": "nypost",
-    "pubdate": "2025-10-09-20-26-19 +0000"
-  },
-  {
     "headline": "Opinion | Time to Protect Workers’ Pay",
     "link": "https://www.wsj.com/opinion/time-to-protect-workers-pay-vw-tennessee-uaw-11cf7185?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -768,22 +888,10 @@
     "pubdate": "2025-10-09-20-05-49 +0000"
   },
   {
-    "headline": "Trump's use of National Guard in US cities faces key court tests",
-    "link": "https://www.bbc.com/news/articles/c1kw9exvejko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-20-05-12 +0000"
-  },
-  {
     "headline": "Trattoria dell Arte ‘one-of-a-kind’ restaurateur Shelly Fireman dead at 93",
     "link": "https://nypost.com/2025/10/09/lifestyle/trattoria-dell-arte-restaurateur-shelly-fireman-dead-at-93/",
     "source": "nypost",
     "pubdate": "2025-10-09-20-04-37 +0000"
-  },
-  {
-    "headline": "NYPD gets fleet of 140 new hybrid SUVs with high-tech features to thwart ambushes",
-    "link": "https://nypost.com/2025/10/09/us-news/nypd-gets-fleet-of-140-new-hybrid-suvs-with-ambush-thwarting-police-perimeter-alert/",
-    "source": "nypost",
-    "pubdate": "2025-10-09-20-04-28 +0000"
   },
   {
     "headline": "Bari Weiss ‘vocal’ in CBS News meetings on coverage of Israel-Hamas: ‘Making her presence known’",
@@ -792,7 +900,7 @@
     "pubdate": "2025-10-09-20-03-39 +0000"
   },
   {
-    "headline": "Man allegedly crashed into a car in Montclair, killing one occupant and kidnapping another, police say",
+    "headline": "Man crashed into a car in Montclair, killing one occupant and kidnapping another, police say",
     "link": "https://www.latimes.com/california/story/2025-10-09/man-allegedly-crashed-into-another-persons-car-and-kidnapped-one-of-the-passengers-montclair-police-say",
     "source": "latimes",
     "pubdate": "2025-10-09-20-02-09 +0000"
@@ -852,18 +960,6 @@
     "pubdate": "2025-10-09-19-50-32 +0000"
   },
   {
-    "headline": "The U.N. says it is ready to rush aid into Gaza.",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/the-un-says-it-is-ready-to-rush-aid-into-gaza",
-    "source": "nyt",
-    "pubdate": "2025-10-09-19-49-36 +0000"
-  },
-  {
-    "headline": "The U.N. says it is ready to rush aid into Gaza.",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/the-un-says-it-is-ready-to-rush-aid-into-gaza",
-    "source": "nyt",
-    "pubdate": "2025-10-09-19-49-36 +0000"
-  },
-  {
     "headline": "North Korea to flaunt nuclear arsenal at military parade in challenge to West",
     "link": "https://www.washingtonpost.com/world/2025/10/09/north-korea-kim-jong-un-military-parade/",
     "source": "wapo",
@@ -912,7 +1008,7 @@
     "pubdate": "2025-10-09-19-31-48 +0000"
   },
   {
-    "headline": "Opinion | Ukraine is Starving Russia of Oil",
+    "headline": "Opinion | Ukraine Is Starving Russia of Oil",
     "link": "https://www.wsj.com/opinion/ukraine-is-starving-russia-of-oil-de6ca866?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-09-19-28-00 +0000"
@@ -1066,12 +1162,6 @@
     "link": "https://nypost.com/2025/10/09/business/googles-ex-ceo-eric-schmidt-shares-warns-of-homicidal-ai-models/",
     "source": "nypost",
     "pubdate": "2025-10-09-18-38-12 +0000"
-  },
-  {
-    "headline": "Oscar S. Wyatt Jr., Wily Texas Oilman, Is Dead at 101",
-    "link": "https://www.nytimes.com/2025/10/09/business/oscar-s-wyatt-jr-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-18-23-33 +0000"
   },
   {
     "headline": "JPMorgan’s Jamie Dimon is ‘far more worried’ about potential stock market fall than most of Wall Street",
@@ -1251,7 +1341,7 @@
     "headline": "Why Arguments About Free Speech Don’t Apply to the Riyadh Comedy Festival",
     "link": "https://www.nytimes.com/2025/10/09/arts/television/riyadh-comedy-festival-free-speech.html",
     "source": "nyt",
-    "pubdate": "2025-10-09-17-30-16 +0000"
+    "pubdate": "2025-10-09-17-30-17 +0000"
   },
   {
     "headline": "Obese dog survives being run over by a car thanks to extra layers of fat",
@@ -1696,12 +1786,6 @@
     "link": "https://www.latimes.com/politics/story/2025-10-09/trump-threats-on-back-pay-public-servants-government-shutdown",
     "source": "latimes",
     "pubdate": "2025-10-09-14-51-22 +0000"
-  },
-  {
-    "headline": "What we know about the Gaza ceasefire deal",
-    "link": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-14-47-19 +0000"
   },
   {
     "headline": "The government shutdown will soon hit the wallets of federal workers nationwide—here’s what to know",
@@ -2280,20 +2364,20 @@
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "Leaked list shows Trump administration considering $15 billion in additional clean energy cuts",
-    "link": "https://www.latimes.com/environment/story/2025-10-09/energy-department-considers-more-than-15-billion-in-additional-project-cuts",
-    "source": "latimes",
-    "pubdate": "2025-10-09-10-00-00 +0000"
-  },
-  {
     "headline": "Thunderstorms, muggy weather ahead for Southern California thanks to Hurricane Priscilla",
     "link": "https://www.latimes.com/california/story/2025-10-09/socal-moisture-hurricane-priscilla",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "Shoppers in California plan to splurge this holiday season — out of fear",
-    "link": "https://www.latimes.com/business/story/2025-10-09/inflation-fears-set-to-boost-holiday-shopping",
+    "headline": "Leaked list shows Trump administration considering $15 billion in additional clean energy cuts",
+    "link": "https://www.latimes.com/environment/story/2025-10-09/energy-department-considers-more-than-15-billion-in-additional-project-cuts",
+    "source": "latimes",
+    "pubdate": "2025-10-09-10-00-00 +0000"
+  },
+  {
+    "headline": "This 'The Bear'-esque dining experience puts you in the center of the kitchen chaos",
+    "link": "https://www.latimes.com/lifestyle/story/2025-10-09/family-meal-interactive-dinner-experience-the-bear",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
@@ -2304,8 +2388,8 @@
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "This 'The Bear'-esque dining experience puts you in the center of the kitchen chaos",
-    "link": "https://www.latimes.com/lifestyle/story/2025-10-09/family-meal-interactive-dinner-experience-the-bear",
+    "headline": "Shoppers in California plan to splurge this holiday season — out of fear",
+    "link": "https://www.latimes.com/business/story/2025-10-09/inflation-fears-set-to-boost-holiday-shopping",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
@@ -2790,12 +2874,6 @@
     "pubdate": "2025-10-09-01-13-34 +0000"
   },
   {
-    "headline": "Lawler Confronts Jeffries in Showy Exchange in a Tense Capitol",
-    "link": "https://www.nytimes.com/2025/10/08/nyregion/lawler-jeffries-confrontation.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-01-06-04 +0000"
-  },
-  {
     "headline": "Drug Rehabs Lure In Patients for Insurance Money—Then Leave Them on the Street",
     "link": "https://www.wsj.com/us-news/drug-rehabs-insurance-curbing-6c56ded6",
     "source": "wsj",
@@ -2934,18 +3012,6 @@
     "pubdate": "2025-10-08-23-29-17 +0000"
   },
   {
-    "headline": "Texts from Jay Jones, Democratic Attorney General Candidate, Roil Virginia Governor’s Race",
-    "link": "https://www.nytimes.com/2025/10/08/us/jay-jones-text-messages-va-attorney-general.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-23-25-18 +0000"
-  },
-  {
-    "headline": "What Ignited California’s Most Destructive Fires",
-    "link": "https://www.nytimes.com/2025/10/08/us/california-wildfires-worst-most-destructive.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-23-21-41 +0000"
-  },
-  {
     "headline": "No 'closure' for Pacific Palisades even as the cause of the devastating fire is determined",
     "link": "https://www.latimes.com/california/story/2025-10-08/pacific-palisades-fire-cause-revealed-no-closure",
     "source": "latimes",
@@ -3016,12 +3082,6 @@
     "link": "https://www.bbc.com/news/articles/cg5ej03p604o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-08-23-02-24 +0000"
-  },
-  {
-    "headline": "His Lab Tested Cutting-Edge Spacecraft",
-    "link": "https://www.nytimes.com/2025/10/08/science/nsf-spacecraft-technology.html",
-    "source": "nyt",
-    "pubdate": "2025-10-08-23-02-09 +0000"
   },
   {
     "headline": "'Half my mind is still in Gaza': Evacuated teacher begins studies in UK",
@@ -3550,12 +3610,6 @@
     "link": "https://missionlocal.org/2025/10/after-fatal-hit-and-run-bernal-residents-ask-for-more-lights-police-enforcement/",
     "source": "missionlocal",
     "pubdate": "2025-10-08-17-04-01 +0000"
-  },
-  {
-    "headline": "Elon Musk’s X settles fired Twitter executives’ $128M severance pay lawsuit",
-    "link": "https://nypost.com/2025/10/08/business/elon-musks-x-settles-fired-twitter-executives-128m-severance-pay-lawsuit/",
-    "source": "nypost",
-    "pubdate": "2025-10-08-17-03-16 +0000"
   },
   {
     "headline": "For Israel’s Hostage Families, Another Anxious Wait for Their Loved Ones to Be Released",
@@ -4098,12 +4152,6 @@
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
-    "headline": "New conservation plan seeks to shoot Catalina's deer on the ground instead of from helicopters",
-    "link": "https://www.latimes.com/environment/story/2025-10-08/new-proposal-seeks-to-eliminate-catalina-nonnative-deer",
-    "source": "latimes",
-    "pubdate": "2025-10-08-10-00-00 +0000"
-  },
-  {
     "headline": "Sicilian man said to work for Mexican Mafia charged with racketeering in L.A. gang bust",
     "link": "https://www.latimes.com/california/story/2025-10-08/rancho-san-pedro-gang-racketeering-charges",
     "source": "latimes",
@@ -4128,14 +4176,20 @@
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
+    "headline": "'I don't want this all on camera,' gubernatorial hopeful Katie Porter says in testy interview",
+    "link": "https://www.latimes.com/politics/story/2025-10-08/katie-porter-interview",
+    "source": "latimes",
+    "pubdate": "2025-10-08-10-00-00 +0000"
+  },
+  {
     "headline": "In the fire zones, an immigrant workforce warily carries out cleanups",
     "link": "https://www.latimes.com/california/story/2025-10-08/in-the-fire-zones-an-immigrant-workforce-carries-out-clean-ups",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
-    "headline": "'I don't want this all on camera,' gubernatorial hopeful Katie Porter says in testy interview",
-    "link": "https://www.latimes.com/politics/story/2025-10-08/katie-porter-interview",
+    "headline": "New conservation plan seeks to shoot Catalina's deer on the ground instead of from helicopters",
+    "link": "https://www.latimes.com/environment/story/2025-10-08/new-proposal-seeks-to-eliminate-catalina-nonnative-deer",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
@@ -4312,12 +4366,6 @@
     "link": "https://www.bbc.com/news/articles/c5y8nr1dg54o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-08-07-40-57 +0000"
-  },
-  {
-    "headline": "Mount Everest hikers rescued after severe snowstorm",
-    "link": "https://www.cbc.ca/news/world/mount-everest-rescue-snowstorm-9.6931224?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-08-07-20-00 +0000"
   },
   {
     "headline": "Payouts of £700 per claim after car finance scandal",
@@ -4630,12 +4678,6 @@
     "link": "https://www.nytimes.com/2025/10/07/science/mars-interstellar-comet-3i-atlas.html",
     "source": "nyt",
     "pubdate": "2025-10-07-22-00-23 +0000"
-  },
-  {
-    "headline": "5 premiers urge Carney to withdraw court submission on notwithstanding clause",
-    "link": "https://www.cbc.ca/news/politics/premiers-carney-withdraw-court-submission-notwithstanding-1.7653648?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-07-21-51-35 +0000"
   },
   {
     "headline": "Trump to Unveil Farmer Aid as China Shuns U.S. Crops",
@@ -5118,22 +5160,10 @@
     "pubdate": "2025-10-07-12-21-01 +0000"
   },
   {
-    "headline": "North Korean hackers increasingly targeting wealthy crypto holders",
-    "link": "https://www.bbc.com/news/articles/cwy8z7wxe03o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-07-12-07-08 +0000"
-  },
-  {
     "headline": "More holidaymakers using AI to plan trips",
     "link": "https://www.bbc.com/news/articles/czdjzm2gv7qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-07-12-04-11 +0000"
-  },
-  {
-    "headline": "JLR to restart production on Wednesday after cyber-attack",
-    "link": "https://www.bbc.com/news/articles/c99gd88kgxdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-07-11-16-36 +0000"
   },
   {
     "headline": "S.F. Asian leaders form new group to boost City Hall representation",
@@ -5226,14 +5256,14 @@
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
   {
-    "headline": "A huge $600-million casino — bigger than many Vegas rivals — is coming to California next month",
-    "link": "https://www.latimes.com/california/story/2025-10-07/a-huge-600-million-casino-bigger-than-many-vegas-rivals-coming-to-california-next-month",
+    "headline": "California consumers get surprise sticker shock ordering imports online",
+    "link": "https://www.latimes.com/business/story/2025-10-07/new-import-tariff-rule-delivers-shock-to-consumers",
     "source": "latimes",
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
   {
-    "headline": "California consumers get surprise sticker shock ordering imports online",
-    "link": "https://www.latimes.com/business/story/2025-10-07/new-import-tariff-rule-delivers-shock-to-consumers",
+    "headline": "A huge $600-million casino — bigger than many Vegas rivals — is coming to California next month",
+    "link": "https://www.latimes.com/california/story/2025-10-07/a-huge-600-million-casino-bigger-than-many-vegas-rivals-coming-to-california-next-month",
     "source": "latimes",
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
@@ -5326,12 +5356,6 @@
     "link": "https://www.cbc.ca/news/politics/trump-carney-meeting-white-house-1.7652510?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-07-08-00-00 +0000"
-  },
-  {
-    "headline": "Ineos cuts 60 jobs at UK plant blaming \"dirt-cheap\" Chinese imports",
-    "link": "https://www.bbc.com/news/articles/c147d1x5kljo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-07-07-59-58 +0000"
   },
   {
     "headline": "'I deeply hurt people by moving to Saudi Arabia'",
@@ -6778,17 +6802,5 @@
     "link": "https://www.wsj.com/business/energy-oil/berkshire-hathaway-occidental-petroleum-acquisition-db3f7c14?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-03-00-00-00 +0000"
-  },
-  {
-    "headline": "Nine Colleges in Hot Seat as Trump’s Sweeping ‘Compact’ Sparks Sharp Reactions",
-    "link": "https://www.wsj.com/us-news/education/trump-college-compact-funding-reactions-79f45f91",
-    "source": "wsj",
-    "pubdate": "2025-10-02-23-26-00 +0000"
-  },
-  {
-    "headline": "The people turning to AI for dating and relationship advice",
-    "link": "https://www.bbc.com/news/articles/c0kn4e377e2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-02-23-01-20 +0000"
   }
 ]
