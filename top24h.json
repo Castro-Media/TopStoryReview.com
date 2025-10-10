@@ -1,52 +1,59 @@
 [
   {
-    "score": 342,
+    "score": 340,
     "pubdate": "2025-10-10-14-32-26 +0000",
     "source": "nypost",
     "headline": "Fresh off Nobel Peace Prize win, opposition leader María Corina Machado says Venezuela is counting on Trump ‘more than ever’",
     "link": "https://nypost.com/2025/10/10/world-news/nobel-peace-prize-winner-maria-corina-machado-says-venezuela-is-counting-on-trump/"
   },
   {
-    "score": 139,
+    "score": 136,
+    "pubdate": "2025-10-10-21-12-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
+    "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
+  },
+  {
+    "score": 133,
     "pubdate": "2025-10-09-22-34-27 +0000",
     "source": "nypost",
     "headline": "American military to oversee initial Gaza peacekeeping force — but ‘no US troops are intended to go into Gaza’",
     "link": "https://nypost.com/2025/10/09/us-news/american-military-to-oversee-initial-gaza-peacekeeping-force-but-no-us-troops-are-intended-to-go-into-gaza/"
   },
   {
-    "score": 138,
-    "pubdate": "2025-10-10-20-40-05 +0000",
-    "source": "nyt",
-    "headline": "Trump Threatens to Impose New Tariffs on China and Cancel Meeting With Xi",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/trump-xi-china-tariffs-rare-earth.html"
-  },
-  {
-    "score": 105,
-    "pubdate": "2025-10-09-22-41-00 +0000",
-    "source": "cbc",
-    "headline": "N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe",
-    "link": "https://www.cbc.ca/news/world/letitia-james-indicted-fraud-9.6933831?cmp=rss"
+    "score": 103,
+    "pubdate": "2025-10-10-21-45-36 +0000",
+    "source": "nypost",
+    "headline": "How indicted NY AG Letitia James will pay for her legal defense — which could cost up to $10M: experts",
+    "link": "https://nypost.com/2025/10/10/us-news/how-indicted-ny-ag-letitia-james-will-pay-for-her-legal-defense-which-could-cost-up-to-10m-experts/"
   },
   {
     "score": 79,
-    "pubdate": "2025-10-10-02-15-52 +0000",
-    "source": "nyt",
-    "headline": "Iran, a Longtime Hamas Backer, Signals Support for Truce Deal With Israel",
-    "link": "https://www.nytimes.com/2025/10/09/world/europe/iran-hamas-truce-deal-israel-support.html"
-  },
-  {
-    "score": 70,
-    "pubdate": "2025-10-10-20-42-00 +0000",
+    "pubdate": "2025-10-10-21-13-00 +0000",
     "source": "wsj",
-    "headline": "A top White House official said Friday that mass layoffs of federal employees had started in response to the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-federal-employee-layoffs-government-shutdown-d28b0acc"
+    "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/mike-johnson-freedom-caucus-government-shutdown-37ff1c8e"
   },
   {
-    "score": 62,
+    "score": 73,
+    "pubdate": "2025-10-09-23-30-11 +0000",
+    "source": "wapo",
+    "headline": "Israel’s cabinet approves ceasefire deal, advancing hostage release timeline",
+    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/"
+  },
+  {
+    "score": 60,
     "pubdate": "2025-10-10-17-44-55 +0000",
     "source": "nyt",
     "headline": "Melania Trump Says She Has Been Working With Putin to Reunite Missing Ukrainian Children",
     "link": "https://www.nytimes.com/2025/10/10/us/politics/melania-trump-putin-ukraine-children.html"
+  },
+  {
+    "score": 58,
+    "pubdate": "2025-10-10-16-59-38 +0000",
+    "source": "nypost",
+    "headline": "Trump raises China tariffs by 100% and threatens to scrap Xi meeting over export rules",
+    "link": "https://nypost.com/2025/10/10/us-news/trump-threatens-to-scrap-meeting-with-chinese-president-xi-jinping-impose-massive-china-tariffs/"
   },
   {
     "score": 57,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/politics/policy/federal-government-recalls-workers-to-produce-key-inflation-report-5bb2a231"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-10-18-56-38 +0000",
-    "source": "wapo",
-    "headline": "Peru’s president removed amid rising crime, corruption allegations",
-    "link": "https://www.washingtonpost.com/world/2025/10/10/peru-president-dina-boluarte-impeached-jose-jeri/"
-  },
-  {
     "score": 53,
-    "pubdate": "2025-10-10-18-55-50 +0000",
-    "source": "nypost",
-    "headline": "Katie Porter verbally abused then-husband in explicit tirade: ‘F–king idiot,’ and ‘too f–king dumb’ to operate a phone, court docs say",
-    "link": "https://nypost.com/2025/10/10/us-news/katie-porter-dumped-scalding-mashed-potatoes-on-then-husbands-head-resurfaced-divorce-docs-reveal/"
+    "pubdate": "2025-10-10-14-45-15 +0000",
+    "source": "latimes",
+    "headline": "Sister Jean, nun who became a national icon during Loyola Chicago's Final Four run, dies at 106",
+    "link": "https://www.latimes.com/sports/story/2025-10-10/sister-jean-dead-loyola-chicago-final-four-ncaa-tournament"
   }
 ]
