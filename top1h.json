@@ -1,44 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-10-10-13-01-52 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: María Corina Machado of Venezuela Is Awarded the Nobel Peace Prize",
-    "link": "https://www.nytimes.com/live/2025/10/10/world/nobel-peace-prize"
+    "score": 32,
+    "pubdate": "2025-10-10-14-32-26 +0000",
+    "source": "nypost",
+    "headline": "Fresh off Nobel Peace Prize win, opposition leader María Corina Machado says Venezuela is counting on Trump ‘more than ever’",
+    "link": "https://nypost.com/2025/10/10/world-news/nobel-peace-prize-winner-maria-corina-machado-says-venezuela-is-counting-on-trump/"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-10-12-55-00 +0000",
+    "score": 30,
+    "pubdate": "2025-10-10-14-30-14 +0000",
+    "source": "nyt",
+    "headline": "Aid Groups Prepare to Provide Quick Relief to Gaza Under Cease-Fire",
+    "link": "https://www.nytimes.com/2025/10/10/world/middleeast/aid-groups-gaza-cease-fire.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-10-14-00-43 +0000",
+    "source": "bbc",
+    "headline": "My one-month-old grandson was killed by police tear gas",
+    "link": "https://www.bbc.com/news/articles/cvg02rjn0r8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-10-14-13-15 +0000",
+    "source": "nypost",
+    "headline": "Tense video shows small child run down highway, almost get hit by car before being saved by cop",
+    "link": "https://nypost.com/2025/10/10/us-news/shocking-video-shows-small-child-running-down-florida-highway/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-10-14-51-00 +0000",
     "source": "wsj",
-    "headline": "Israel Says Cease-Fire Has Begun, Troops Withdraw From Parts of Gaza",
-    "link": "https://www.wsj.com/world/middle-east/israel-says-cease-fire-has-begun-troops-start-withdrawing-from-parts-of-gaza-098b90dc"
+    "headline": "Week Ahead for FX, Bonds: Eyes on U.S. Government Shutdown, Fed Rate-Cut Prospects",
+    "link": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-eyes-on-u-s-government-shutdown-fed-rate-cut-prospects-5ecacdc0"
   },
   {
-    "score": 7,
-    "pubdate": "2025-10-10-13-00-12 +0000",
+    "score": 13,
+    "pubdate": "2025-10-10-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "Susan Xenarios, Who Invented a New Model of Care for Rape Survivors, Dies at 79",
+    "link": "https://www.wsj.com/us-news/susan-xenarios-dead-7244474b"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-10-14-39-00 +0000",
     "source": "nyt",
-    "headline": "Fintech Start-Ups and Investment Firms Are Battling Over Your 401(k)",
-    "link": "https://www.nytimes.com/2025/10/10/your-money/401-k-fintech-advisers-fidelity.html"
+    "headline": "If an Energy Drink Drank an Energy Drink, You’d Get a Celsius",
+    "link": "https://www.nytimes.com/2025/10/10/magazine/celsius-energy-drinks.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-10-10-13-00-07 +0000",
+    "score": 11,
+    "pubdate": "2025-10-10-14-31-27 +0000",
     "source": "nyt",
-    "headline": "Nasty News? Forget About It. The Markets Say All Is Well.",
-    "link": "https://www.nytimes.com/2025/10/10/business/markets-stocks-bonds-investment-funds.html"
+    "headline": "Gaza Cease-Fire Begins, Israel Says, as Thousands Return to the North",
+    "link": "https://www.nytimes.com/2025/10/10/world/middleeast/gaza-cease-fire-israel-hamas.html"
   },
   {
-    "score": 5,
-    "pubdate": "2025-10-10-13-00-08 +0000",
+    "score": 9,
+    "pubdate": "2025-10-10-14-07-29 +0000",
     "source": "nyt",
-    "headline": "The W.N.B.A Gets More Attention Now. That’s Not Always a Good Thing.",
-    "link": "https://www.nytimes.com/2025/10/10/business/wnba-misinformation-hate-speech.html"
+    "headline": "The Fiscal Gambit at the Center of the Shutdown",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/shutdown-government-funding-health-insurance.html"
   },
   {
-    "score": 3,
-    "pubdate": "2025-10-10-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "No parking on the bridge",
-    "link": "https://missionlocal.org/2025/10/sf-photos-no-parking-on-the-bridge/"
+    "score": 9,
+    "pubdate": "2025-10-10-14-02-34 +0000",
+    "source": "startribune",
+    "headline": "Ramstad: With countdown on to Minnesota’s new paid leave law, workers can already make plans",
+    "link": "https://www.startribune.com/ramstad-if-youre-expecting-its-time-to-make-plans-under-minnesotas-new-paid-leave-law/601486914"
   }
 ]
