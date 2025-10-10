@@ -1,12 +1,5 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-10-10-02-11-47 +0000",
-    "source": "nyt",
-    "headline": "Judge Rejects ‘Unprecedented’ Indictment Amid Trump’s D.C. Clampdown",
-    "link": "https://www.nytimes.com/2025/10/09/us/politics/judge-rejects-indictment-dc.html"
-  },
-  {
     "score": 14,
     "pubdate": "2025-10-10-02-16-21 +0000",
     "source": "nyt",
@@ -14,18 +7,11 @@
     "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire"
   },
   {
-    "score": 12,
-    "pubdate": "2025-10-10-01-20-46 +0000",
+    "score": 14,
+    "pubdate": "2025-10-10-02-11-47 +0000",
     "source": "nyt",
-    "headline": "Democratic Alarm Over an Unbound Trump Fuels Shutdown Standoff",
-    "link": "https://www.nytimes.com/2025/10/09/us/politics/democrats-shutdown-trump-administration.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-10-10-01-48-45 +0000",
-    "source": "nypost",
-    "headline": "Connecticut man allegedly executed parents over money — then cops found him in just underwear",
-    "link": "https://nypost.com/2025/10/09/us-news/connecticut-man-allegedly-executed-parents-after-mom-called-him-out-for-being-financial-failure-report/"
+    "headline": "Judge Rejects ‘Unprecedented’ Indictment Amid Trump’s D.C. Clampdown",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/judge-rejects-indictment-dc.html"
   },
   {
     "score": 11,
@@ -42,13 +28,6 @@
     "link": "https://www.nytimes.com/2025/10/09/world/asia/philippines-mindanao-earthquake.html"
   },
   {
-    "score": 10,
-    "pubdate": "2025-10-10-01-34-59 +0000",
-    "source": "nypost",
-    "headline": "Wild video captures police struggle to capture giant runaway inflatable pumpkin",
-    "link": "https://nypost.com/2025/10/09/us-news/footage-captures-police-struggle-to-pursue-giant-runaway-inflatable-pumpkin/"
-  },
-  {
     "score": 9,
     "pubdate": "2025-10-10-02-13-44 +0000",
     "source": "nypost",
@@ -56,17 +35,24 @@
     "link": "https://nypost.com/2025/10/09/us-news/council-law-boosts-testing-for-legionnaires-disease-in-cooling-towers/"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-10-01-45-35 +0000",
-    "source": "missionlocal",
-    "headline": "S.F. supervisor slams Lurie’s move of tiny cabins to Bayview as ‘dishonest’",
-    "link": "https://missionlocal.org/2025/10/s-f-supervisor-decries-luries-move-of-tiny-cabins-to-bayview-as-dishonest/"
+    "score": 7,
+    "pubdate": "2025-10-10-02-15-52 +0000",
+    "source": "nyt",
+    "headline": "Iran, a Longtime Hamas Backer, Signals Support for Truce Deal With Israel",
+    "link": "https://www.nytimes.com/2025/10/09/world/europe/iran-hamas-truce-deal-israel-support.html"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-10-01-28-25 +0000",
-    "source": "nypost",
-    "headline": "Indiana mother found alive in the woods over a week after she vanished from her burning home",
-    "link": "https://nypost.com/2025/10/09/us-news/indiana-mother-found-alive-in-the-woods-over-a-week-after-she-vanished-from-her-burning-home/"
+    "score": 0,
+    "pubdate": "2025-10-10-02-14-14 +0000",
+    "source": "nyt",
+    "headline": "Powerful Earthquake Strikes Southern Philippines",
+    "link": "https://www.nytimes.com/2025/10/09/world/asia/philippines-mindanao-earthquake.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-10-02-11-47 +0000",
+    "source": "nyt",
+    "headline": "Judge Rejects ‘Unprecedented’ Indictment Amid Trump’s D.C. Clampdown",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/judge-rejects-indictment-dc.html"
   }
 ]
