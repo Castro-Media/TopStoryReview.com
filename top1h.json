@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 18,
+    "pubdate": "2025-10-10-05-43-10 +0000",
+    "source": "nyt",
+    "headline": "Two Dead After Powerful Earthquake Strikes Southern Philippines",
+    "link": "https://www.nytimes.com/2025/10/09/world/asia/philippines-mindanao-earthquake.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-10-05-23-17 +0000",
+    "source": "nypost",
+    "headline": "Connecticut boy, 10, sends emotional message to father’s Halloween killer during sentencing: ‘Taken from me too early’",
+    "link": "https://nypost.com/2025/10/10/us-news/connecticut-boy-niko-reveals-he-misses-dead-fernando-chino-rivera-killed-by-terrence-johnson/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-10-05-46-56 +0000",
+    "source": "nyt",
+    "headline": "Peru Ousts President Amid Crime Surge",
+    "link": "https://www.nytimes.com/2025/10/10/world/americas/peru-ousts-president-amid-crime-surge.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-10-05-42-49 +0000",
+    "source": "nypost",
+    "headline": "California ‘butt lady’ convicted in murder of ‘Married… With Children’ actress Cindyana Santangelo over silicone injection",
+    "link": "https://nypost.com/2025/10/10/us-news/california-butt-lady-convicted-in-murder-of-married-with-children-actress-cindyana-santangelo-over-silicone-injection/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-10-05-30-13 +0000",
+    "source": "nypost",
+    "headline": "Texas shopper fatally shot outside PetSmart after dispute over not saying ‘thank you’: officials",
+    "link": "https://nypost.com/2025/10/10/us-news/texas-woman-cecillia-simpson-murdered-at-dallas-petsmart-keona-zachyua-hampton/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-10-05-01-40 +0000",
+    "source": "nypost",
+    "headline": "Killer of 6-year-old boy who was freed after serving only 8 years rearrested in Florida on new charges: officials",
+    "link": "https://nypost.com/2025/10/10/us-news/freed-killer-of-6-year-old-boy-logan-tipton-rearrested-in-florida-on-new-charges-officials/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-10-05-48-47 +0000",
+    "source": "bbc",
+    "headline": "Taiwan to build air defence dome against 'hostile threats'",
+    "link": "https://www.bbc.com/news/articles/c4gwnwep9qeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-10-05-39-20 +0000",
+    "source": "nypost",
+    "headline": "Person stabbed outside of Hollywood Hills home linked to Bono: report",
+    "link": "https://nypost.com/2025/10/10/us-news/person-stabbed-outside-of-hollywood-hills-home-linked-to-bono-report/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-10-05-33-30 +0000",
+    "source": "bbc",
+    "headline": "Universities risk sanctions over Gaza protests, watchdog says",
+    "link": "https://www.bbc.com/news/articles/crl5gn3499eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 2,
+    "pubdate": "2025-10-10-05-16-00 +0000",
+    "source": "wapo",
+    "headline": "Powerful 7.4 magnitude earthquake rocks southern Philippines",
+    "link": "https://www.washingtonpost.com/world/2025/10/10/powerful-quake-hits-philippines-davao/"
+  }
+]
