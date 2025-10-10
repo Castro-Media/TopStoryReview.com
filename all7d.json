@@ -1,21 +1,57 @@
 [
   {
+    "headline": "Peru Ousts President Amid Crime Surge",
+    "link": "https://www.nytimes.com/2025/10/10/world/americas/peru-president-boluarte-impeached.html",
+    "source": "nyt",
+    "pubdate": "2025-10-10-06-30-36 +0000"
+  },
+  {
+    "headline": "Peru Ousts President Amid Crime Surge",
+    "link": "https://www.nytimes.com/2025/10/10/world/americas/peru-president-boluarte-impeached.html",
+    "source": "nyt",
+    "pubdate": "2025-10-10-06-30-36 +0000"
+  },
+  {
+    "headline": "Strong 7.4 magnitude quake hits southern Philippines",
+    "link": "https://www.bbc.com/news/articles/cjr5e0jrqnyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-10-06-30-36 +0000"
+  },
+  {
+    "headline": "How will the EU's new border system work?",
+    "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-10-06-27-16 +0000"
+  },
+  {
+    "headline": "Middle East Crisis Updates: Israel Approves Gaza Deal That Would Free Hostages and Prisoners",
+    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire",
+    "source": "nyt",
+    "pubdate": "2025-10-10-06-25-36 +0000"
+  },
+  {
+    "headline": "Tech billionaires seem to be doom prepping. Should we all be worried?",
+    "link": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-10-06-10-40 +0000"
+  },
+  {
+    "headline": "Tech billionaires seem to be doom prepping. Should we all be worried?",
+    "link": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-10-06-10-40 +0000"
+  },
+  {
+    "headline": "Major Russian strikes cut power across Kyiv",
+    "link": "https://www.bbc.com/news/articles/cvgq2vnxzlvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-10-05-57-11 +0000"
+  },
+  {
     "headline": "Taiwan to build air defence dome against 'hostile threats'",
     "link": "https://www.bbc.com/news/articles/c4gwnwep9qeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-10-05-48-47 +0000"
-  },
-  {
-    "headline": "Peru Ousts President Amid Crime Surge",
-    "link": "https://www.nytimes.com/2025/10/10/world/americas/peru-ousts-president-amid-crime-surge.html",
-    "source": "nyt",
-    "pubdate": "2025-10-10-05-46-56 +0000"
-  },
-  {
-    "headline": "Peru Ousts President Amid Crime Surge",
-    "link": "https://www.nytimes.com/2025/10/10/world/americas/peru-ousts-president-amid-crime-surge.html",
-    "source": "nyt",
-    "pubdate": "2025-10-10-05-46-56 +0000"
   },
   {
     "headline": "Two Dead After Powerful Earthquake Strikes Southern Philippines",
@@ -60,10 +96,16 @@
     "pubdate": "2025-10-10-05-23-17 +0000"
   },
   {
-    "headline": "Powerful 7.4 magnitude earthquake rocks southern Philippines",
+    "headline": "Powerful 7.4-magnitude earthquake rocks southern Philippines",
     "link": "https://www.washingtonpost.com/world/2025/10/10/powerful-quake-hits-philippines-davao/",
     "source": "wapo",
     "pubdate": "2025-10-10-05-16-00 +0000"
+  },
+  {
+    "headline": "Plaid ready to replace Welsh Labour, says leader",
+    "link": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-10-05-03-17 +0000"
   },
   {
     "headline": "Killer of 6-year-old boy who was freed after serving only 8 years rearrested in Florida on new charges: officials",
@@ -150,7 +192,7 @@
     "pubdate": "2025-10-10-03-50-18 +0000"
   },
   {
-    "headline": "Judge tosses Drake's lawsuit over Kendrick Lamar's 'Not Like Us'",
+    "headline": "Judge dismisses Drake's lawsuit over Kendrick Lamar's Not Like Us",
     "link": "https://www.bbc.com/news/articles/cd9y104g7kno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-10-03-44-19 +0000"
@@ -180,7 +222,7 @@
     "pubdate": "2025-10-10-02-58-58 +0000"
   },
   {
-    "headline": "NYPD cop rushed to hospital with head wound after ‘violent struggle’ with Bronx suspect who opened fire: sources",
+    "headline": "NYPD cop rushed to hospital for head wound after ‘violent struggle’ with Bronx suspect who opened fire: police",
     "link": "https://nypost.com/2025/10/09/us-news/nypd-cop-shot-in-the-head-in-nyc-suspect-in-custody-sources/",
     "source": "nypost",
     "pubdate": "2025-10-10-02-57-52 +0000"
@@ -196,6 +238,12 @@
     "link": "https://www.nytimes.com/2025/10/09/us/senate-passes-bipartisan-925-billion-defense-policy-bill.html",
     "source": "nyt",
     "pubdate": "2025-10-10-02-50-30 +0000"
+  },
+  {
+    "headline": "What’s on now at San Francisco museums, October 2025",
+    "link": "https://missionlocal.org/2025/10/whats-on-now-at-san-francisco-museums-october-2025/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-10-02-44-30 +0000"
   },
   {
     "headline": "What to know about the Gaza ceasefire deal",
@@ -220,12 +268,6 @@
     "link": "https://nypost.com/2025/10/09/world-news/cindy-mccain-widow-of-sen-john-mccain-and-head-of-un-world-food-program-suffers-stroke/",
     "source": "nypost",
     "pubdate": "2025-10-10-02-31-37 +0000"
-  },
-  {
-    "headline": "Middle East Crisis Updates: Israel Approves Gaza Deal That Would Free Hostages and Prisoners",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire",
-    "source": "nyt",
-    "pubdate": "2025-10-10-02-18-16 +0000"
   },
   {
     "headline": "Netanyahu’s Political Fortunes May Be Transformed by Gaza Deal",
@@ -370,6 +412,12 @@
     "link": "https://www.latimes.com/business/story/2025-10-09/newsom-signs-bills-to-prop-up-and-modernize-californias-home-insurer-of-last-resort",
     "source": "latimes",
     "pubdate": "2025-10-10-01-09-52 +0000"
+  },
+  {
+    "headline": "Thousands more university jobs cut as financial crisis deepens",
+    "link": "https://www.bbc.com/news/articles/cp3ve5jegkvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-10-01-05-07 +0000"
   },
   {
     "headline": "What we know about the Gaza ceasefire deal",
@@ -726,7 +774,7 @@
     "pubdate": "2025-10-09-23-10-24 +0000"
   },
   {
-    "headline": "Don't force drivers to use parking apps, RAC says",
+    "headline": "Don't force drivers to use parking apps, says RAC",
     "link": "https://www.bbc.com/news/articles/ce847ngn7n8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-09-23-05-56 +0000"
@@ -736,18 +784,6 @@
     "link": "https://www.wsj.com/world/trump-nobel-peace-prize-campaign-e30ec554",
     "source": "wsj",
     "pubdate": "2025-10-09-23-03-00 +0000"
-  },
-  {
-    "headline": "Tech billionaires seem to be doom prepping. Should we all be worried?",
-    "link": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-23-02-51 +0000"
-  },
-  {
-    "headline": "Tech billionaires seem to be doom prepping. Should we all be worried?",
-    "link": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-23-02-51 +0000"
   },
   {
     "headline": "Paramount facing competition for Warner Bros. Discovery as Comcast could emerge as suitor",
@@ -2574,12 +2610,6 @@
     "pubdate": "2025-10-09-11-08-38 +0000"
   },
   {
-    "headline": "How will the EU's new border system work?",
-    "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-11-00-02 +0000"
-  },
-  {
     "headline": "Mayor Lurie ends 20-year partnership with S.F. indigenous group",
     "link": "https://missionlocal.org/2025/10/sf-mayor-lurie-american-indian-cultural-center/",
     "source": "missionlocal",
@@ -2700,14 +2730,14 @@
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "This 'The Bear'-esque dining experience puts you in the center of the kitchen chaos",
-    "link": "https://www.latimes.com/lifestyle/story/2025-10-09/family-meal-interactive-dinner-experience-the-bear",
+    "headline": "Hiltzik: Say farewell to the TiVo box, the device that revolutionized how we watch television",
+    "link": "https://www.latimes.com/business/story/2025-10-09/say-goodbye-to-tivo-the-box-that-revolutionized-how-we-watch-television",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Say farewell to the TiVo box, the device that revolutionized how we watch television",
-    "link": "https://www.latimes.com/business/story/2025-10-09/say-goodbye-to-tivo-the-box-that-revolutionized-how-we-watch-television",
+    "headline": "This 'The Bear'-esque dining experience puts you in the center of the kitchen chaos",
+    "link": "https://www.latimes.com/lifestyle/story/2025-10-09/family-meal-interactive-dinner-experience-the-bear",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
@@ -4350,14 +4380,14 @@
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
-    "headline": "What caused the massive El Segundo explosion? Refinery experts have some theories",
-    "link": "https://www.latimes.com/california/story/2025-10-08/what-it-takes-to-contain-a-oil-refinery-fire",
+    "headline": "Arellano: Who knew ICE could be so funny? Just check out videos of their fails",
+    "link": "https://www.latimes.com/california/story/2025-10-08/videos-of-ice-failing-good-for-laughs",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: Who knew ICE could be so funny? Just check out videos of their fails",
-    "link": "https://www.latimes.com/california/story/2025-10-08/videos-of-ice-failing-good-for-laughs",
+    "headline": "What caused the massive El Segundo explosion? Refinery experts have some theories",
+    "link": "https://www.latimes.com/california/story/2025-10-08/what-it-takes-to-contain-a-oil-refinery-fire",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
@@ -4392,14 +4422,14 @@
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: At Trump's Justice Department, partisan pugnacity where honor, integrity should be",
-    "link": "https://www.latimes.com/politics/story/2025-10-08/south-carolina-judge-home-fire-politics-harmeet-dhillon",
+    "headline": "Chabria: They cuffed and tackled Sen. Alex Padilla. But he sees a bigger crisis ahead",
+    "link": "https://www.latimes.com/california/story/2025-10-08/chabria-column-sen-alex-padilla-shutdown-immigration",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: They cuffed and tackled Sen. Alex Padilla. But he sees a bigger crisis ahead",
-    "link": "https://www.latimes.com/california/story/2025-10-08/chabria-column-sen-alex-padilla-shutdown-immigration",
+    "headline": "Barabak: At Trump's Justice Department, partisan pugnacity where honor, integrity should be",
+    "link": "https://www.latimes.com/politics/story/2025-10-08/south-carolina-judge-home-fire-politics-harmeet-dhillon",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
@@ -4414,12 +4444,6 @@
     "link": "https://www.latimes.com/politics/story/2025-10-08/katie-porter-interview",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
-  },
-  {
-    "headline": "Burkina Faso junta detains NGO workers for 'spying'",
-    "link": "https://www.bbc.com/news/articles/crkjyzkn1n3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-08-09-55-09 +0000"
   },
   {
     "headline": "Hundreds of US National Guard troops arrive in Chicago",
@@ -4590,12 +4614,6 @@
     "pubdate": "2025-10-08-06-54-21 +0000"
   },
   {
-    "headline": "Bob Ross artwork to be sold to help public television after funding cuts",
-    "link": "https://www.washingtonpost.com/nation/2025/10/08/bob-ross-auction-public-television-trump/",
-    "source": "wapo",
-    "pubdate": "2025-10-08-06-38-12 +0000"
-  },
-  {
     "headline": "'One of the greatest things' - Nigeria's art innovators on display in London",
     "link": "https://www.bbc.com/news/articles/ckgyxyjvyvxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4720,12 +4738,6 @@
     "link": "https://www.bbc.com/news/articles/cy4jx8x9428o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-08-00-31-57 +0000"
-  },
-  {
-    "headline": "DPD drivers call off action over pay, says firm",
-    "link": "https://www.bbc.com/news/articles/c701ddg4ep9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-08-00-28-53 +0000"
   },
   {
     "headline": "Thin Air-Traffic Staffing Spurs Delays at U.S. Airports",
@@ -5166,12 +5178,6 @@
     "pubdate": "2025-10-07-15-08-00 +0000"
   },
   {
-    "headline": "Trump's farmer bailout raises fears about trade war winners and losers",
-    "link": "https://www.bbc.com/news/articles/c3rvy3z3rllo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-07-15-08-00 +0000"
-  },
-  {
     "headline": "Trio Wins Nobel Prize in Medicine for Discoveries on Immune System",
     "link": "https://www.wsj.com/science/trio-wins-nobel-prize-in-medicine-for-discoveries-on-immune-system-0b566e73",
     "source": "wsj",
@@ -5346,14 +5352,14 @@
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
   {
-    "headline": "USC faculty members denounce Trump compact that would shift university to the right",
-    "link": "https://www.latimes.com/california/story/2025-10-07/usc-academic-senate",
+    "headline": "Chabria: So much winning. Can Bonta maintain California's legal hot streak against Trump?",
+    "link": "https://www.latimes.com/california/story/2025-10-07/la-me-chabria-column-trump-california-lawsuits-national-guard",
     "source": "latimes",
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: So much winning. Can Bonta maintain California's legal hot streak against Trump?",
-    "link": "https://www.latimes.com/california/story/2025-10-07/la-me-chabria-column-trump-california-lawsuits-national-guard",
+    "headline": "USC faculty members denounce Trump compact that would shift university to the right",
+    "link": "https://www.latimes.com/california/story/2025-10-07/usc-academic-senate",
     "source": "latimes",
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
@@ -5370,12 +5376,6 @@
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
   {
-    "headline": "Who is spending money on Prop. 50,  the redistricting measure on California's November ballot",
-    "link": "https://www.latimes.com/politics/story/2025-10-07/who-is-spending-money-on-prop-50-the-redistricting-measure-on-californias-november-ballot",
-    "source": "latimes",
-    "pubdate": "2025-10-07-10-00-00 +0000"
-  },
-  {
     "headline": "Relief from ear-splitting commercials on streamers with new California law",
     "link": "https://www.latimes.com/california/story/2025-10-07/new-california-law-declares-no-more-loud-commercials-on-streaming-services",
     "source": "latimes",
@@ -5384,6 +5384,12 @@
   {
     "headline": "SoCal firefighters rescue goat from baaaad situation trapped between giant boulders",
     "link": "https://www.latimes.com/california/story/2025-10-07/socal-firefighters-rescue-goat-trapped-between-two-minivan-sized-boulders",
+    "source": "latimes",
+    "pubdate": "2025-10-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Who is spending money on Prop. 50,  the redistricting measure on California's November ballot",
+    "link": "https://www.latimes.com/politics/story/2025-10-07/who-is-spending-money-on-prop-50-the-redistricting-measure-on-californias-november-ballot",
     "source": "latimes",
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
@@ -6174,12 +6180,6 @@
     "pubdate": "2025-10-05-16-36-00 +0000"
   },
   {
-    "headline": "My approach will pay off eventually, says Kemi Badenoch",
-    "link": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-05-16-20-37 +0000"
-  },
-  {
     "headline": "Justice Department Takes Case Against Trump Supporter to Trial",
     "link": "https://www.wsj.com/us-news/law/justice-department-takes-case-against-trump-supporter-to-trial-3d3d67aa",
     "source": "wsj",
@@ -6240,12 +6240,6 @@
     "pubdate": "2025-10-05-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: McCarthyism in a MAGA hat? Trump's campus deal sounds familiar to her",
-    "link": "https://www.latimes.com/california/story/2025-10-05/trumps-education-deal-is-worse-than-it-seems",
-    "source": "latimes",
-    "pubdate": "2025-10-05-10-00-00 +0000"
-  },
-  {
     "headline": "Tariffs and birthright citizenship will test whether Trump's power has limits",
     "link": "https://www.latimes.com/politics/story/2025-10-05/supreme-court-trump-claims-of-unchecked-power",
     "source": "latimes",
@@ -6260,6 +6254,12 @@
   {
     "headline": "Barabak: Beyond the fight for the House, here's what at stake in the Senate",
     "link": "https://www.latimes.com/politics/story/2025-10-05/senate-2028-election-texas-cornyn-paxton-allred-talarico",
+    "source": "latimes",
+    "pubdate": "2025-10-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: McCarthyism in a MAGA hat? Trump's campus deal sounds familiar to her",
+    "link": "https://www.latimes.com/california/story/2025-10-05/trumps-education-deal-is-worse-than-it-seems",
     "source": "latimes",
     "pubdate": "2025-10-05-10-00-00 +0000"
   },
@@ -6468,14 +6468,14 @@
     "pubdate": "2025-10-04-11-00-00 +0000"
   },
   {
-    "headline": "Trump slashed $8 billion for energy projects in blue states. In California, that could be felt in red areas as well",
-    "link": "https://www.latimes.com/environment/story/2025-10-04/trump-slashed-8-billion-for-energy-projects-in-blue-states-in-california-red-areas-will-feel-the-pain",
+    "headline": "California's home insurer of last resort seeks 36% rate hike following January fires",
+    "link": "https://www.latimes.com/business/story/2025-10-04/californias-home-insurer-of-last-resort-seeks-36-rate-hike-following-january-fires",
     "source": "latimes",
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
   {
-    "headline": "California's home insurer of last resort seeks 36% rate hike following January fires",
-    "link": "https://www.latimes.com/business/story/2025-10-04/californias-home-insurer-of-last-resort-seeks-36-rate-hike-following-january-fires",
+    "headline": "Trump slashed $8 billion for energy projects in blue states. In California, that could be felt in red areas as well",
+    "link": "https://www.latimes.com/environment/story/2025-10-04/trump-slashed-8-billion-for-energy-projects-in-blue-states-in-california-red-areas-will-feel-the-pain",
     "source": "latimes",
     "pubdate": "2025-10-04-10-00-00 +0000"
   },
@@ -6586,12 +6586,6 @@
     "link": "https://www.latimes.com/california/story/2025-10-03/officials-voice-outrage-lawyers-sex-abuse-settlement",
     "source": "latimes",
     "pubdate": "2025-10-03-23-05-19 +0000"
-  },
-  {
-    "headline": "¿Cómo pueden prepararse familias de SF si un familiar es detenido por ICE?",
-    "link": "https://missionlocal.org/2025/10/como-pueden-prepararse-familias-de-sf-si-un-familiar-es-detenido-por-ice/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-03-22-59-05 +0000"
   },
   {
     "headline": "Hamas response to US Gaza plan is significant - but there are key omissions",
@@ -6808,11 +6802,5 @@
     "link": "https://www.wsj.com/economy/jobs/adp-jobs-report-bls-data-42362dae",
     "source": "wsj",
     "pubdate": "2025-10-03-09-00-00 +0000"
-  },
-  {
-    "headline": "Deported from the US to Ghana then 'dumped' at the border: Nigerian man speaks out",
-    "link": "https://www.bbc.com/news/articles/c33rllxnm35o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-03-06-36-52 +0000"
   }
 ]
