@@ -1,224 +1,104 @@
 [
   {
-    "headline": "Cosplayers unite! Best looks as NYC Comic Con takes over Javits Center",
-    "link": "https://nypost.com/2025/10/09/us-news/best-looks-as-nyc-comic-con-takes-over-javits-center/",
-    "source": "nypost",
-    "pubdate": "2025-10-09-23-50-24 +0000"
-  },
-  {
-    "headline": "Trump's use of National Guard in US cities faces key court tests",
-    "link": "https://www.bbc.com/news/articles/c1kw9exvejko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-23-50-07 +0000"
-  },
-  {
-    "headline": "Judge Tosses Drake’s ‘Not Like Us’ Defamation Suit",
-    "link": "https://www.wsj.com/us-news/judge-tosses-drakes-not-like-us-defamation-suit-06b20a9c",
-    "source": "wsj",
-    "pubdate": "2025-10-09-23-45-00 +0000"
-  },
-  {
-    "headline": "Judge orders halt to DHS agents’ targeting of journalists in Chicago",
-    "link": "https://www.washingtonpost.com/business/2025/10/09/judge-orders-halt-dhs-agents-targeting-journalists-chicago/",
-    "source": "wapo",
-    "pubdate": "2025-10-09-23-43-56 +0000"
-  },
-  {
-    "headline": "Mark Sanchez’s alleged victim says ‘faith guided my hands’ in self-defense stabbing",
-    "link": "https://nypost.com/2025/10/09/us-news/mark-sanchezs-alleged-victim-says-faith-guided-my-hands-in-self-defense-stabbing-as-new-details-emerge/",
-    "source": "nypost",
-    "pubdate": "2025-10-09-23-43-20 +0000"
-  },
-  {
-    "headline": "Live Updates: Israel Approves Gaza Deal That Would Free Hostages and Prisoners",
+    "headline": "Middle East Crisis Updates: Israel Approves Gaza Deal That Would Free Hostages and Prisoners",
     "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire",
     "source": "nyt",
-    "pubdate": "2025-10-09-23-40-47 +0000"
+    "pubdate": "2025-10-10-01-14-13 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2025-10-09-23-40-45 +0000"
+    "pubdate": "2025-10-10-01-14-12 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2025-10-09-23-40-45 +0000"
+    "pubdate": "2025-10-10-01-14-12 +0000"
   },
   {
-    "headline": "What Are the Charges in Letitia James’s Indictment?",
-    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-indictment-charges.html",
+    "headline": "Letitia James Has Marshaled States to Sue Trump",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-lawsuits-trump.html",
     "source": "nyt",
-    "pubdate": "2025-10-09-23-37-22 +0000"
+    "pubdate": "2025-10-10-01-10-46 +0000"
   },
   {
-    "headline": "What Are the Charges in Letitia James’s Indictment?",
-    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-indictment-charges.html",
+    "headline": "Letitia James Has Marshaled States to Sue Trump",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-lawsuits-trump.html",
     "source": "nyt",
-    "pubdate": "2025-10-09-23-37-22 +0000"
-  },
-  {
-    "headline": "A Timeline of the Conflict Between Letitia James and Donald Trump",
-    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-trump-conflict-timeline.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-35-10 +0000"
-  },
-  {
-    "headline": "A Timeline of the Conflict Between Letitia James and Donald Trump",
-    "link": "https://www.nytimes.com/2025/10/09/us/politics/letitia-james-trump-conflict-timeline.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-35-10 +0000"
-  },
-  {
-    "headline": "Oscar S. Wyatt Jr., Wily Texas Oilman, Is Dead at 101",
-    "link": "https://www.nytimes.com/2025/10/09/business/oscar-s-wyatt-jr-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-32-11 +0000"
-  },
-  {
-    "headline": "Israel’s cabinet approves ceasefire deal, advancing hostage release timeline",
-    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/",
-    "source": "wapo",
-    "pubdate": "2025-10-09-23-30-11 +0000"
-  },
-  {
-    "headline": "Judge Temporarily Blocks Trump’s Illinois National Guard Deployment",
-    "link": "https://www.wsj.com/us-news/ice-to-expand-footprint-in-chicagoland-homeland-secretary-noem-pledges-c057b08b",
-    "source": "wsj",
-    "pubdate": "2025-10-09-23-28-00 +0000"
-  },
-  {
-    "headline": "Israeli ministers approve Gaza ceasefire, but tougher talks loom",
-    "link": "https://www.washingtonpost.com/world/2025/10/09/israel-approves-hamas-gaza-ceasefire-deal-hostages/",
-    "source": "wapo",
-    "pubdate": "2025-10-09-23-27-15 +0000"
-  },
-  {
-    "headline": "Alberta will need B.C. government’s backing to build proposed pipeline: energy minister",
-    "link": "https://www.cbc.ca/news/politics/energy-minister-alberta-b-c-pipeline-9.6934083?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-09-23-26-49 +0000"
-  },
-  {
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/09/us/trump-national-guard-chicago-portland/here-is-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-23-53 +0000"
-  },
-  {
-    "headline": "Judge temporarily blocks National Guard troop deployment in Illinois",
-    "link": "https://www.cbc.ca/news/world/national-guard-deployment-chicago-9.6934020?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-09-23-19-24 +0000"
-  },
-  {
-    "headline": "Judge blocks Trump from deploying troops in Illinois for now",
-    "link": "https://www.washingtonpost.com/politics/2025/10/09/trump-portland-chicago-national-guard-appeal/",
-    "source": "wapo",
-    "pubdate": "2025-10-09-23-18-12 +0000"
-  },
-  {
-    "headline": "New York Attorney General Letitia James Indicted",
-    "link": "https://www.nytimes.com/live/2025/10/09/us/trump-news/letitia-james-indicted-trump",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-14-45 +0000"
-  },
-  {
-    "headline": "New York Attorney General Letitia James Indicted",
-    "link": "https://www.nytimes.com/live/2025/10/09/us/trump-news/letitia-james-indicted-trump",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-14-45 +0000"
-  },
-  {
-    "headline": "Who is Jonathan Rinderknecht? What We Know About The Palisades Fire Arrest",
-    "link": "https://www.nytimes.com/2025/10/08/us/palisades-fire-arrest-jonathan-rinderknecht.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-12-41 +0000"
-  },
-  {
-    "headline": "The U.N. says it is ready to rush aid into Gaza.",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/the-un-says-it-is-ready-to-rush-aid-into-gaza",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-11-32 +0000"
-  },
-  {
-    "headline": "The U.N. says it is ready to rush aid into Gaza.",
-    "link": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/the-un-says-it-is-ready-to-rush-aid-into-gaza",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-11-32 +0000"
-  },
-  {
-    "headline": "Has the clock stopped on Swiss US trade?",
-    "link": "https://www.bbc.com/news/articles/cy4r12pzxgko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-23-10-24 +0000"
-  },
-  {
-    "headline": "Has the clock stopped on Swiss US trade?",
-    "link": "https://www.bbc.com/news/articles/cy4r12pzxgko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-23-10-24 +0000"
+    "pubdate": "2025-10-10-01-10-46 +0000"
   },
   {
     "headline": "What we know about the Gaza ceasefire deal",
     "link": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-09-23-09-03 +0000"
+    "pubdate": "2025-10-10-01-04-29 +0000"
   },
   {
-    "headline": "Republican and Democratic senators are trading ideas on healthcare funding to forge a path out of the government shutdown, as tensions rise on Capitol Hill",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-senate-aca-funding-ideas-a52df679",
-    "source": "wsj",
-    "pubdate": "2025-10-09-23-06-00 +0000"
+    "headline": "'The butt lady' convicted of murder after second SoCal client dies from silicone injections",
+    "link": "https://www.latimes.com/california/story/2025-10-09/the-butt-lady-convicted-of-murder-after-second-client-dies-from-silicone-injections",
+    "source": "latimes",
+    "pubdate": "2025-10-10-01-04-26 +0000"
   },
   {
-    "headline": "Don't force drivers to use parking apps, RAC says",
-    "link": "https://www.bbc.com/news/articles/ce847ngn7n8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-23-05-56 +0000"
-  },
-  {
-    "headline": "Inflation Report Will Be Released Despite Shutdown",
-    "link": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
+    "headline": "L.A. County Considers Emergency Declaration Over Immigration Raids",
+    "link": "https://www.nytimes.com/2025/10/09/us/los-angeles-county-ice-raids-emergency.html",
     "source": "nyt",
-    "pubdate": "2025-10-09-23-04-16 +0000"
+    "pubdate": "2025-10-10-01-03-38 +0000"
   },
   {
-    "headline": "Inflation Report Will Be Released Despite Shutdown",
-    "link": "https://www.nytimes.com/2025/10/09/business/economy/inflation-report-release-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-09-23-04-16 +0000"
-  },
-  {
-    "headline": "The 11th-Hour Campaign to Land Trump a Nobel Peace Prize",
-    "link": "https://www.wsj.com/world/trump-nobel-peace-prize-campaign-e30ec554",
+    "headline": "China’s Rare-Earth Escalation Threatens Trade Talks—and the Global Economy",
+    "link": "https://www.wsj.com/world/china/china-trade-rare-earth-restrictions-ai-c2535244",
     "source": "wsj",
-    "pubdate": "2025-10-09-23-03-00 +0000"
+    "pubdate": "2025-10-10-01-00-00 +0000"
   },
   {
-    "headline": "Tech billionaires seem to be doom prepping. Should we all be worried?",
-    "link": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-09-23-02-51 +0000"
+    "headline": "What a National Guard Deployment Means",
+    "link": "https://www.nytimes.com/video/us/100000010446054/how-trump-is-using-the-national-guard.html",
+    "source": "nyt",
+    "pubdate": "2025-10-10-00-49-50 +0000"
   },
   {
-    "headline": "Paramount facing competition for Warner Bros. Discovery as Comcast could emerge as suitor",
-    "link": "https://nypost.com/2025/10/09/media/paramount-facing-competition-for-warner-bros-discovery-as-comcast-could-emerge-as-suitor/",
+    "headline": "Grown Minnesota man who posed as high schooler accused of sexually assaulting students",
+    "link": "https://nypost.com/2025/10/09/us-news/minnesota-man-22-accused-of-sexually-assaulting-teen-students-while-posing-as-high-schooler/",
     "source": "nypost",
-    "pubdate": "2025-10-09-23-02-04 +0000"
+    "pubdate": "2025-10-10-00-39-47 +0000"
   },
   {
     "headline": "As Gaza Deal Nears, Palestinians and Israelis Cheer — and Worry",
     "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-gaza-deal-reactions.html",
     "source": "nyt",
-    "pubdate": "2025-10-09-22-54-46 +0000"
+    "pubdate": "2025-10-10-00-28-08 +0000"
   },
   {
     "headline": "As Gaza Deal Nears, Palestinians and Israelis Cheer — and Worry",
     "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-gaza-deal-reactions.html",
     "source": "nyt",
-    "pubdate": "2025-10-09-22-54-46 +0000"
+    "pubdate": "2025-10-10-00-28-08 +0000"
+  },
+  {
+    "headline": "Federal judge blocks Trump’s Chicago National Guard deployment",
+    "link": "https://nypost.com/2025/10/09/us-news/federal-judge-blocks-trumps-chicago-national-guard-deployment/",
+    "source": "nypost",
+    "pubdate": "2025-10-10-00-27-26 +0000"
+  },
+  {
+    "headline": "Federal judge blocks Trump’s Chicago National Guard deployment",
+    "link": "https://nypost.com/2025/10/09/us-news/federal-judge-blocks-trumps-chicago-national-guard-deployment/",
+    "source": "nypost",
+    "pubdate": "2025-10-10-00-27-26 +0000"
+  },
+  {
+    "headline": "Trump-appointed judges signal willingness to let president deploy troops to states",
+    "link": "https://www.latimes.com/california/story/2025-10-09/trump-oregon-troops-case",
+    "source": "latimes",
+    "pubdate": "2025-10-10-00-27-22 +0000"
+  },
+  {
+    "headline": "Trump-appointed judges signal willingness to let president deploy troops to states",
+    "link": "https://www.latimes.com/california/story/2025-10-09/trump-oregon-troops-case",
+    "source": "latimes",
+    "pubdate": "2025-10-10-00-27-22 +0000"
   }
 ]
