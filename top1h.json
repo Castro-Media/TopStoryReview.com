@@ -1,9 +1,72 @@
 [
   {
-    "score": 3,
-    "pubdate": "2025-10-10-18-52-41 +0000",
+    "score": 88,
+    "pubdate": "2025-10-10-20-40-05 +0000",
+    "source": "nyt",
+    "headline": "Trump Threatens to Impose New Tariffs on China and Cancel Meeting With Xi",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/trump-xi-china-tariffs-rare-earth.html"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-10-10-20-03-22 +0000",
+    "source": "nyt",
+    "headline": "White House Signals Federal Layoffs Have Begun Amid Government Shutdown",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/federal-layoffs-government-shutdown.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-10-10-20-22-13 +0000",
+    "source": "nyt",
+    "headline": "Macron Reappoints Sébastien Lecornu as France’s Prime Minister",
+    "link": "https://www.nytimes.com/2025/10/10/world/europe/france-prime-minister-lecornu-macron.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-10-20-48-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump threatened to raise tariffs and impose export controls on China, after the country’s newest restrictions on rare-earth materials marked an escalation in trade negotiations",
+    "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-10-19-56-04 +0000",
+    "source": "nyt",
+    "headline": "Ancient Roman Gravestone Found in New Orleans Backyard Touches Off a Mystery",
+    "link": "https://www.nytimes.com/2025/10/10/us/roman-tablet-new-orleans.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-10-20-25-53 +0000",
+    "source": "nyt",
+    "headline": "María Corina Machado Wins Nobel Peace Prize Despite Trump’s Campaign",
+    "link": "https://www.nytimes.com/2025/10/10/world/americas/machado-venezuela-nobel-peace-prize.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-10-19-56-11 +0000",
+    "source": "nyt",
+    "headline": "Families of Uvalde Shooting Victims Attend ‘Bittersweet’ School Opening",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/uvalde-shooting-new-school-texas.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-10-20-46-56 +0000",
+    "source": "nypost",
+    "headline": "Bari Weiss looks to calm nerves at CBS News as chatter swirls around Gayle King, Norah O’Donnell — and possible layoffs",
+    "link": "https://nypost.com/2025/10/10/media/bari-weiss-looks-to-calm-nerves-at-cbs-news-as-chatter-swirls-around-gayle-king-norah-odonnell-and-layoffs/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-10-20-02-10 +0000",
+    "source": "nyt",
+    "headline": "Peter M. Fishbein, Lawyer Accused in Savings-and-Loan Lawsuit, Dies at 91",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/peter-fishbein-dead.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-10-20-29-36 +0000",
     "source": "bbc",
-    "headline": "What is the Senedd by-election in Caerphilly?",
-    "link": "https://www.bbc.com/news/videos/c77d2g5mgelo?at_medium=RSS&at_campaign=rss"
+    "headline": "US markets reel as Trump threatens to pull out of meeting with China's Xi",
+    "link": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss"
   }
 ]
