@@ -1,27 +1,20 @@
 [
   {
-    "score": 207,
+    "score": 192,
     "pubdate": "2025-10-10-23-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
     "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
   },
   {
-    "score": 115,
-    "pubdate": "2025-10-10-18-28-13 +0000",
-    "source": "bbc",
-    "headline": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
-    "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
+    "score": 103,
+    "pubdate": "2025-10-11-17-17-44 +0000",
+    "source": "nypost",
+    "headline": "Putin chides Nobel winners who ‘did nothing for peace’ — tries to cozy up to Trump with Gaza deal praise",
+    "link": "https://nypost.com/2025/10/11/world-news/putin-chides-nobel-winners-who-did-nothing-for-peace-praises-trump-for-brokering-gaza-cease-fire-deal/"
   },
   {
-    "score": 81,
-    "pubdate": "2025-10-10-21-51-01 +0000",
-    "source": "nyt",
-    "headline": "Gaza Cease-Fire Begins, Israel Says, as Thousands Return to the North",
-    "link": "https://www.nytimes.com/2025/10/10/world/middleeast/gaza-cease-fire-israel-hamas.html"
-  },
-  {
-    "score": 76,
+    "score": 73,
     "pubdate": "2025-10-10-21-13-00 +0000",
     "source": "wsj",
     "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
@@ -35,38 +28,45 @@
     "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
   },
   {
-    "score": 53,
+    "score": 64,
+    "pubdate": "2025-10-10-18-28-13 +0000",
+    "source": "bbc",
+    "headline": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
+    "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 55,
     "pubdate": "2025-10-11-02-31-03 +0000",
     "source": "nypost",
     "headline": "NY AG Letitia James admitted Virginia home at center of bank fraud indictment was ‘investment’ property: ethics filings",
     "link": "https://nypost.com/2025/10/10/us-news/ny-ag-letitia-james-admitted-virginia-home-at-center-of-bank-fraud-indictment-was-investment-property/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-10-10-17-44-55 +0000",
+    "score": 52,
+    "pubdate": "2025-10-11-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Palisades fire suspect placed gun in stuffed animal, made recent fire threat, feds allege",
+    "link": "https://www.latimes.com/california/story/2025-10-11/feds-say-palisades-suspect-court"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-10-11-13-44-51 +0000",
+    "source": "nypost",
+    "headline": "Joe Biden undergoing radiation in new phase of prostate cancer treatment, spokesperson says",
+    "link": "https://nypost.com/2025/10/11/us-news/joe-biden-undergoing-radiation-in-new-phase-of-prostate-cancer-treatment-spokesperson-says/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-10-11-17-39-31 +0000",
+    "source": "bbc",
+    "headline": "No survivors found after Tennessee explosives plant blast",
+    "link": "https://www.bbc.com/news/articles/cx2523997p9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-10-11-06-44-04 +0000",
     "source": "nyt",
-    "headline": "Melania Trump Says She Has Been Working With Putin to Reunite Missing Ukrainian Children",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/melania-trump-putin-ukraine-children.html"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-10-11-16-09-51 +0000",
-    "source": "nypost",
-    "headline": "Trump set to fly to Israel to mark historic peace deal while preparing public for grim hostage release",
-    "link": "https://nypost.com/2025/10/11/us-news/trump-set-to-fly-to-israel-to-mark-historic-peace-deal-as-he-prepares-public-for-grim-hostage-release/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-10-11-12-55-02 +0000",
-    "source": "nypost",
-    "headline": "AOC tries to squeeze campaign cash off Trump’s Portland ‘propaganda’ — while a fearful resident wears gas mask inside her home",
-    "link": "https://nypost.com/2025/10/11/us-news/aoc-tries-to-squeeze-campaign-cash-off-trumps-portland-propaganda/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-10-11-02-09-00 +0000",
-    "source": "wsj",
-    "headline": "A California new law to make it easier for developers to build multistory apartment buildings near major commuter stops, has triggered fierce opposition from Los Angeles and other coastal cities",
-    "link": "https://www.wsj.com/economy/housing/california-housing-bill-los-angeles-pushback-e339bc20"
+    "headline": "North Korea Flaunts New Missiles ​in Parade With Chinese and Russian Officials",
+    "link": "https://www.nytimes.com/2025/10/11/world/asia/north-korea-military-parade-china-russia.html"
   }
 ]
