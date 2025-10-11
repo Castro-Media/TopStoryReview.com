@@ -1,72 +1,37 @@
 [
   {
-    "score": 35,
-    "pubdate": "2025-10-11-02-01-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump underwent his latest physical exam on Friday, with his doctor concluding he has maintained exceptional health and that he received a Covid-19 booster vaccine",
-    "link": "https://www.wsj.com/politics/trump-in-exceptional-health-says-white-house-doctor-643e444c"
-  },
-  {
-    "score": 28,
+    "score": 27,
     "pubdate": "2025-10-11-02-09-00 +0000",
     "source": "wsj",
     "headline": "A California new law to make it easier for developers to build multistory apartment buildings near major commuter stops, has triggered fierce opposition from Los Angeles and other coastal cities",
     "link": "https://www.wsj.com/economy/housing/california-housing-bill-los-angeles-pushback-e339bc20"
   },
   {
-    "score": 28,
-    "pubdate": "2025-10-11-01-51-02 +0000",
-    "source": "nyt",
-    "headline": "White House Signals Federal Layoffs Have Begun Amid Government Shutdown",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/federal-layoffs-government-shutdown.html"
-  },
-  {
-    "score": 17,
+    "score": 16,
     "pubdate": "2025-10-11-02-05-50 +0000",
     "source": "nyt",
     "headline": "Peter M. Fishbein, Lawyer Accused in Savings-and-Loan Lawsuit, Dies at 91",
     "link": "https://www.nytimes.com/2025/10/10/us/politics/peter-fishbein-dead.html"
   },
   {
-    "score": 16,
-    "pubdate": "2025-10-11-02-02-22 +0000",
-    "source": "nyt",
-    "headline": "Blocking Chicago Guard Deployment, Judge Questions Government’s Veracity",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/ice-national-guard.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-10-11-01-24-00 +0000",
+    "score": 7,
+    "pubdate": "2025-10-11-02-07-00 +0000",
     "source": "wsj",
-    "headline": "Qatar Facility at U.S. Air Force Base in Idaho Sparks Controversy",
-    "link": "https://www.wsj.com/politics/national-security/qatar-facility-at-u-s-air-force-base-in-idaho-sparks-controversy-8c9f8b4e"
+    "headline": "North Korea’s Kim Flaunts New ICBM Able to Reach U.S.",
+    "link": "https://www.wsj.com/world/asia/north-korea-military-parade-kim-jong-un-9ff47edc"
   },
   {
-    "score": 12,
-    "pubdate": "2025-10-11-01-27-49 +0000",
+    "score": 2,
+    "pubdate": "2025-10-11-02-09-00 +0000",
+    "source": "wsj",
+    "headline": "California Wants to Make It Easier to Build Housing. Los Angeles Objects.",
+    "link": "https://www.wsj.com/economy/housing/california-housing-bill-los-angeles-pushback-e339bc20"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-11-02-05-50 +0000",
     "source": "nyt",
-    "headline": "Judge Signals She Is Likely to Order Abrego Garcia’s Release Soon",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/abrego-garcia-hearing.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2025-10-11-01-56-11 +0000",
-    "source": "nyt",
-    "headline": "The Trump Split Screen: A Peacemaker Abroad, a Retribution Campaign at Home",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/trump-peace-retribution.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-11-01-51-38 +0000",
-    "source": "startribune",
-    "headline": "Watch live Friday: ‘Strib Varsity Live With Randy Shaver’ Episode 8",
-    "link": "https://www.startribune.com/strib-varsity-live-with-randy-shaver-october-10-2025/601487166"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-10-11-01-36-29 +0000",
-    "source": "latimes",
-    "headline": "Fiber optic cable vandalism to blame for Verizon service outage, company says",
-    "link": "https://www.latimes.com/california/story/2025-10-10/fiber-cable-vandalism-likely-to-blame-for-verizon-service-outage"
+    "headline": "Peter M. Fishbein, Lawyer Accused in Savings-and-Loan Lawsuit, Dies at 91",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/peter-fishbein-dead.html"
   }
 ]
