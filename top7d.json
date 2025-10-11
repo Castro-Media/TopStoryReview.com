@@ -1,62 +1,55 @@
 [
   {
-    "score": 450,
-    "pubdate": "2025-10-10-19-38-56 +0000",
-    "source": "nyt",
-    "headline": "Democrats Praise Israel-Gaza Peace Deal, but Not Trump for Forging It",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/democrats-israel-gaza-trump.html"
-  },
-  {
-    "score": 244,
-    "pubdate": "2025-10-10-23-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
-    "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
-  },
-  {
-    "score": 212,
+    "score": 443,
     "pubdate": "2025-10-10-14-32-26 +0000",
     "source": "nypost",
     "headline": "Fresh off Nobel Peace Prize win, opposition leader María Corina Machado says Venezuela is counting on Trump ‘more than ever’",
     "link": "https://nypost.com/2025/10/10/world-news/nobel-peace-prize-winner-maria-corina-machado-says-venezuela-is-counting-on-trump/"
   },
   {
-    "score": 160,
+    "score": 266,
+    "pubdate": "2025-10-09-14-33-18 +0000",
+    "source": "bbc",
+    "headline": "Israel and Hamas agree first phase of Gaza ceasefire deal",
+    "link": "https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 241,
+    "pubdate": "2025-10-10-23-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
+    "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
+  },
+  {
+    "score": 159,
     "pubdate": "2025-10-10-21-13-00 +0000",
     "source": "wsj",
     "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
     "link": "https://www.wsj.com/politics/policy/mike-johnson-freedom-caucus-government-shutdown-37ff1c8e"
   },
   {
-    "score": 140,
-    "pubdate": "2025-10-11-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Jared Kushner, who had sworn off any formal role in President Trump’s second term, has been at the center of every decision leading up to the breakthrough agreement between Israel and Hamas",
-    "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
+    "score": 141,
+    "pubdate": "2025-10-08-23-12-49 +0000",
+    "source": "latimes",
+    "headline": "After Palisades fire failures, L.A. promises to beef up staffing during high-risk fire weather",
+    "link": "https://www.latimes.com/california/story/2025-10-08/los-angeles-firefighters-were-hampered-by-a-lack-of-resources-in-initial-fire-attack-report-says"
   },
   {
     "score": 127,
-    "pubdate": "2025-10-09-23-54-00 +0000",
-    "source": "wsj",
-    "headline": "The Bureau of Labor Statistics will bring some furloughed employees back to work so it can publish the September consumer-price index, a key inflation report, an administration official said",
-    "link": "https://www.wsj.com/politics/policy/federal-government-recalls-workers-to-produce-key-inflation-report-5bb2a231"
-  },
-  {
-    "score": 116,
-    "pubdate": "2025-10-08-20-00-18 +0000",
-    "source": "latimes",
-    "headline": "'Why wasn't the fire put out on the 1st?' Cause of Palisades fire leaves residents with more questions",
-    "link": "https://www.latimes.com/california/story/2025-10-08/la-me-palisades-fire-reactions"
-  },
-  {
-    "score": 116,
     "pubdate": "2025-10-11-02-31-03 +0000",
     "source": "nypost",
     "headline": "NY AG Letitia James admitted Virginia home at center of bank fraud indictment was ‘investment’ property: ethics filings",
     "link": "https://nypost.com/2025/10/10/us-news/ny-ag-letitia-james-admitted-virginia-home-at-center-of-bank-fraud-indictment-was-investment-property/"
   },
   {
-    "score": 113,
+    "score": 126,
+    "pubdate": "2025-10-09-23-54-00 +0000",
+    "source": "wsj",
+    "headline": "The Bureau of Labor Statistics will bring some furloughed employees back to work so it can publish the September consumer-price index, a key inflation report, an administration official said",
+    "link": "https://www.wsj.com/politics/policy/federal-government-recalls-workers-to-produce-key-inflation-report-5bb2a231"
+  },
+  {
+    "score": 115,
     "pubdate": "2025-10-05-18-37-30 +0000",
     "source": "latimes",
     "headline": "Judge blocks Trump from deploying California National Guard — or any Guard troops — in Oregon",
@@ -64,9 +57,16 @@
   },
   {
     "score": 85,
-    "pubdate": "2025-10-09-16-00-32 +0000",
-    "source": "bbc",
-    "headline": "All Post Office Horizon victims entitled to free legal advice for first time",
-    "link": "https://www.bbc.com/news/articles/cg7dx7le0ddo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-10-10-17-44-55 +0000",
+    "source": "nyt",
+    "headline": "Melania Trump Says She Has Been Working With Putin to Reunite Missing Ukrainian Children",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/melania-trump-putin-ukraine-children.html"
+  },
+  {
+    "score": 81,
+    "pubdate": "2025-10-11-09-40-22 +0000",
+    "source": "nypost",
+    "headline": "Kim Jong Un shows off ‘most powerful’ ballistic missile as foreign leaders watch North Korea military parade",
+    "link": "https://nypost.com/2025/10/11/world-news/kim-jong-un-shows-off-most-powerful-ballistic-missile-during-north-korea-military-parade/"
   }
 ]

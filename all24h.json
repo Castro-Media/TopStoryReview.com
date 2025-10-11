@@ -1,5 +1,77 @@
 [
   {
+    "headline": "Luigi Mangione’s lawyers seek dismissal of federal charges in assassination of UnitedHealthcare CEO",
+    "link": "https://nypost.com/2025/10/11/us-news/luigi-mangione-asks-for-federal-charges-to-be-dropped-in-unitedhealthcare-ceo-brian-thompson-murder/",
+    "source": "nypost",
+    "pubdate": "2025-10-11-10-22-09 +0000"
+  },
+  {
+    "headline": "Following Through",
+    "link": "https://www.nytimes.com/2025/10/11/briefing/following-through.html",
+    "source": "nyt",
+    "pubdate": "2025-10-11-10-03-32 +0000"
+  },
+  {
+    "headline": "Trump administration says immigration enforcement threatens higher food prices",
+    "link": "https://www.washingtonpost.com/business/2025/10/11/immigration-crackdown-food-prices/",
+    "source": "wapo",
+    "pubdate": "2025-10-11-10-00-47 +0000"
+  },
+  {
+    "headline": "A New Book Asks, What Is Canada?",
+    "link": "https://www.nytimes.com/2025/10/11/world/canada/canada-elbows-up.html",
+    "source": "nyt",
+    "pubdate": "2025-10-11-10-00-06 +0000"
+  },
+  {
+    "headline": "A New Book Asks, What Is Canada?",
+    "link": "https://www.nytimes.com/2025/10/11/world/canada/canada-elbows-up.html",
+    "source": "nyt",
+    "pubdate": "2025-10-11-10-00-06 +0000"
+  },
+  {
+    "headline": "As hydrants ran dry, LAFD crews faced delays getting water tankers to the Palisades",
+    "link": "https://www.latimes.com/california/story/2025-10-11/report-reveals-delays-in-water-tenders-to-palisades-fire",
+    "source": "latimes",
+    "pubdate": "2025-10-11-10-00-00 +0000"
+  },
+  {
+    "headline": "In fire-scorched Palisades, a library and rec center become linchpins of fury with City Hall",
+    "link": "https://www.latimes.com/california/story/2025-10-11/pacific-palisades-fire-anger-los-angeles-city-hall-rebuild",
+    "source": "latimes",
+    "pubdate": "2025-10-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Palisades fire suspect placed gun in stuffed animal, made recent fire threat, feds allege",
+    "link": "https://www.latimes.com/california/story/2025-10-11/feds-say-palisades-suspect-court",
+    "source": "latimes",
+    "pubdate": "2025-10-11-10-00-00 +0000"
+  },
+  {
+    "headline": "The Miami Seaquarium was once beloved. It’s shutting down after accusations of neglect.",
+    "link": "https://www.washingtonpost.com/nation/2025/10/11/miami-seaquarium-closing/",
+    "source": "wapo",
+    "pubdate": "2025-10-11-10-00-00 +0000"
+  },
+  {
+    "headline": "The controversial solution Long Beach has picked to battle shoplifters",
+    "link": "https://www.latimes.com/business/story/2025-10-11/long-beach-checkout-lane-ordinance",
+    "source": "latimes",
+    "pubdate": "2025-10-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Hollywood-AI battle heats up, as OpenAI and studios clash over copyrights and consent",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-11/hollywood-ai-battle-heats-up-sora2-openai-sam-altman",
+    "source": "latimes",
+    "pubdate": "2025-10-11-10-00-00 +0000"
+  },
+  {
+    "headline": "News Quiz for Oct. 11, 2025",
+    "link": "https://www.wsj.com/lifestyle/news-quiz-for-oct-11-2025-191aa5b8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-11-10-00-00 +0000"
+  },
+  {
     "headline": "Thousands Return to Northern Gaza, Hopeful, but Faced With Devastation",
     "link": "https://www.nytimes.com/2025/10/11/world/middleeast/return-gaza-city-ceasefire.html",
     "source": "nyt",
@@ -226,6 +298,12 @@
     "link": "https://www.bbc.com/news/articles/cgknlj3vr76o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-11-08-17-58 +0000"
+  },
+  {
+    "headline": "Eighteen missing after explosion at Tennessee munitions factory",
+    "link": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-11-08-16-44 +0000"
   },
   {
     "headline": "Eighteen missing after explosion at Tennessee munitions factory",
@@ -1284,12 +1362,6 @@
     "pubdate": "2025-10-10-21-53-40 +0000"
   },
   {
-    "headline": "Gavin Newsom claims he’s ‘punching back’ at ‘son of a bitch’ Joe Rogan in vulgar plea to appear on his show: ‘Have me on’",
-    "link": "https://nypost.com/2025/10/10/us-news/gavin-newsom-calls-joe-rogan-a-son-of-a-bitch-as-he-asks-for-invite/",
-    "source": "nypost",
-    "pubdate": "2025-10-10-21-53-40 +0000"
-  },
-  {
     "headline": "Who Is María Corina Machado, the Winner of the 2025 Nobel Peace Prize?",
     "link": "https://www.nytimes.com/2025/10/10/world/americas/maria-corina-machado-nobel-peace-prize-venezuela.html",
     "source": "nyt",
@@ -2280,7 +2352,7 @@
     "pubdate": "2025-10-10-15-34-28 +0000"
   },
   {
-    "headline": "Red alert as Spain hit by heavy rain and flooding",
+    "headline": "Red alerts lifted in Spain but more heavy rain in the forecast",
     "link": "https://www.bbc.com/weather/articles/c8ex0grwxw0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-10-15-34-26 +0000"
@@ -2746,101 +2818,5 @@
     "link": "https://www.startribune.com/camp-snoopy-giant-dog-bowl-anoka-county/601464356",
     "source": "startribune",
     "pubdate": "2025-10-10-11-00-00 +0000"
-  },
-  {
-    "headline": "Duck family rescued from busy Australian motorway",
-    "link": "https://www.bbc.com/news/videos/c1mxdj7klzvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-10-10-52-11 +0000"
-  },
-  {
-    "headline": "A musical homecoming for bassist Samuel Adams at Brava in Other Minds 29",
-    "link": "https://missionlocal.org/2025/10/a-musical-homecoming-for-samuel-adams-at-brava-in-other-minds-29/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-10-10-50-00 +0000"
-  },
-  {
-    "headline": "Google may be forced to make changes to search engine in UK",
-    "link": "https://www.bbc.com/news/articles/c98d7p8l9pro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-10-10-47-33 +0000"
-  },
-  {
-    "headline": "Don't force drivers to use parking apps, says RAC",
-    "link": "https://www.bbc.com/news/articles/ce847ngn7n8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-10-10-35-39 +0000"
-  },
-  {
-    "headline": "Japan’s Ruling Coalition Fractures",
-    "link": "https://www.wsj.com/world/asia/japans-komeito-party-withdraws-from-ruling-coalition-0315bdd6",
-    "source": "wsj",
-    "pubdate": "2025-10-10-10-30-00 +0000"
-  },
-  {
-    "headline": "Canada-U.S.-Mexico trade deals are over, says Mexican lawmaker",
-    "link": "https://www.cbc.ca/news/world/mexico-canada-us-trade-9.6934160?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-10-10-26-20 +0000"
-  },
-  {
-    "headline": "Sister Jean, nun and sensation on basketball sidelines, dies at 106",
-    "link": "https://www.washingtonpost.com/obituaries/2025/10/10/dolores-jean-schmidt-nun-loyola-chicago-basketball-dead/",
-    "source": "wapo",
-    "pubdate": "2025-10-10-10-04-09 +0000"
-  },
-  {
-    "headline": "Reputed Mexican Mafia member long ago linked to mysterious killing, testimony reveals",
-    "link": "https://www.latimes.com/california/story/2025-10-10/manuel-quintero-snuffy-murder",
-    "source": "latimes",
-    "pubdate": "2025-10-10-10-00-00 +0000"
-  },
-  {
-    "headline": "Cal State Long Beach student stabbed to death. Roommate charged with murder",
-    "link": "https://www.latimes.com/california/story/2025-10-10/csu-long-beach-student-stabbed-to-death-roomate-charged-with-murder",
-    "source": "latimes",
-    "pubdate": "2025-10-10-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Former bracero doesn't want the program to return. 'People will be treated like slaves'",
-    "link": "https://www.latimes.com/california/story/2025-10-10/bracero-program-donald-trump",
-    "source": "latimes",
-    "pubdate": "2025-10-10-10-00-00 +0000"
-  },
-  {
-    "headline": "An L.A. AIDS trailblazer has advice on how to stay hopeful in dark times for public health",
-    "link": "https://www.latimes.com/science/story/2025-10-10/aids-walk-los-angeles-2025-phill-wilson-public-health-trailblazer",
-    "source": "latimes",
-    "pubdate": "2025-10-10-10-00-00 +0000"
-  },
-  {
-    "headline": "The Trump loyalist who picked up where Musk left off with slashing federal workforce: 'We're having fun'",
-    "link": "https://www.latimes.com/politics/story/2025-10-10/russ-vought-trump-budget-director-federal-workforce-cuts",
-    "source": "latimes",
-    "pubdate": "2025-10-10-10-00-00 +0000"
-  },
-  {
-    "headline": "US to send 200 troops to Israel to monitor Gaza ceasefire",
-    "link": "https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-10-09-58-12 +0000"
-  },
-  {
-    "headline": "US to send 200 troops to Israel to monitor Gaza ceasefire",
-    "link": "https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-10-09-58-12 +0000"
-  },
-  {
-    "headline": "US to send 200 troops to Israel to monitor Gaza ceasefire",
-    "link": "https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-10-09-58-12 +0000"
-  },
-  {
-    "headline": "Israeli forces start pulling back from parts of Gaza as cease-fire deal with Hamas starts",
-    "link": "https://nypost.com/2025/10/10/world-news/israeli-forces-start-pulling-back-from-parts-of-gaza-under-ceasefire-deal/",
-    "source": "nypost",
-    "pubdate": "2025-10-10-09-57-29 +0000"
   }
 ]
