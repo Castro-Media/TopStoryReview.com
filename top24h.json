@@ -1,45 +1,38 @@
 [
   {
-    "score": 223,
-    "pubdate": "2025-10-10-22-46-56 +0000",
-    "source": "nyt",
-    "headline": "María Corina Machado Wins Nobel Peace Prize Despite Trump’s Campaign",
-    "link": "https://www.nytimes.com/2025/10/10/world/americas/machado-venezuela-nobel-peace-prize.html"
-  },
-  {
-    "score": 127,
+    "score": 218,
     "pubdate": "2025-10-10-23-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
     "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
   },
   {
-    "score": 83,
+    "score": 126,
+    "pubdate": "2025-10-10-18-28-13 +0000",
+    "source": "bbc",
+    "headline": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
+    "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 84,
     "pubdate": "2025-10-10-21-13-00 +0000",
     "source": "wsj",
     "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
     "link": "https://www.wsj.com/politics/policy/mike-johnson-freedom-caucus-government-shutdown-37ff1c8e"
   },
   {
-    "score": 77,
+    "score": 80,
     "pubdate": "2025-10-11-09-30-00 +0000",
     "source": "wsj",
     "headline": "Jared Kushner, who had sworn off any formal role in President Trump’s second term, has been at the center of every decision leading up to the breakthrough agreement between Israel and Hamas",
     "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
   },
   {
-    "score": 67,
+    "score": 69,
     "pubdate": "2025-10-10-21-51-01 +0000",
     "source": "nyt",
     "headline": "Gaza Cease-Fire Begins, Israel Says, as Thousands Return to the North",
     "link": "https://www.nytimes.com/2025/10/10/world/middleeast/gaza-cease-fire-israel-hamas.html"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-10-10-17-44-55 +0000",
-    "source": "nyt",
-    "headline": "Melania Trump Says She Has Been Working With Putin to Reunite Missing Ukrainian Children",
-    "link": "https://www.nytimes.com/2025/10/10/us/politics/melania-trump-putin-ukraine-children.html"
   },
   {
     "score": 53,
@@ -49,21 +42,28 @@
     "link": "https://nypost.com/2025/10/10/us-news/ny-ag-letitia-james-admitted-virginia-home-at-center-of-bank-fraud-indictment-was-investment-property/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-10-11-02-09-00 +0000",
-    "source": "wsj",
-    "headline": "A California new law to make it easier for developers to build multistory apartment buildings near major commuter stops, has triggered fierce opposition from Los Angeles and other coastal cities",
-    "link": "https://www.wsj.com/economy/housing/california-housing-bill-los-angeles-pushback-e339bc20"
+    "score": 51,
+    "pubdate": "2025-10-10-17-44-55 +0000",
+    "source": "nyt",
+    "headline": "Melania Trump Says She Has Been Working With Putin to Reunite Missing Ukrainian Children",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/melania-trump-putin-ukraine-children.html"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2025-10-10-16-11-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is recalling some furloughed workers to publish a key inflation report, showing just how critical the data is for a variety of government services",
     "link": "https://www.wsj.com/economy/cpi-inflation-report-social-security-e69e0b6a"
   },
   {
-    "score": 46,
+    "score": 48,
+    "pubdate": "2025-10-11-12-55-02 +0000",
+    "source": "nypost",
+    "headline": "AOC tries to squeeze campaign cash off Trump’s Portland ‘propaganda’ — while a fearful resident wears gas mask inside her home",
+    "link": "https://nypost.com/2025/10/11/us-news/aoc-tries-to-squeeze-campaign-cash-off-trumps-portland-propaganda/"
+  },
+  {
+    "score": 45,
     "pubdate": "2025-10-11-09-40-22 +0000",
     "source": "nypost",
     "headline": "Kim Jong Un shows off ‘most powerful’ missile during NK parade, plans to ‘eliminates all threats’",
