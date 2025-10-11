@@ -1,65 +1,72 @@
 [
   {
+    "score": 30,
+    "pubdate": "2025-10-11-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Jared Kushner, who had sworn off any formal role in President Trump’s second term, has been at the center of every decision leading up to the breakthrough agreement between Israel and Hamas",
+    "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
+  },
+  {
     "score": 18,
-    "pubdate": "2025-10-11-08-04-53 +0000",
+    "pubdate": "2025-10-11-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Behind the Collapse of an Auto-Parts Giant: a $2 Billion Hole and a Mysterious CEO",
+    "link": "https://www.wsj.com/business/first-brands-collapse-patrick-james-306d7869?mod=rss_markets_main"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-11-09-02-08 +0000",
     "source": "nyt",
-    "headline": "China Flexed. Trump Hit Back. So Much for the Thaw.",
-    "link": "https://www.nytimes.com/2025/10/11/world/asia/china-trump-tariff-threat.html"
+    "headline": "Some Americans Are Starting to Feel the Impact of the Government Shutdown",
+    "link": "https://www.nytimes.com/2025/10/11/us/politics/government-shutdown-effects.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-11-09-01-41 +0000",
+    "source": "nyt",
+    "headline": "N.B.A. Head Criticizes Chinese Party Paper Over LeBron James ‘Op-Ed’",
+    "link": "https://www.nytimes.com/2025/10/11/world/asia/china-nba-lebron.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-11-09-43-55 +0000",
+    "source": "nyt",
+    "headline": "Thousands Return to Northern Gaza, Hopeful, but Faced With Devastation",
+    "link": "https://www.nytimes.com/2025/10/11/world/middleeast/return-gaza-city-ceasefire.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-10-11-09-40-22 +0000",
+    "source": "nypost",
+    "headline": "Kim Jong Un shows off ‘most powerful’ ballistic missile as foreign leaders watch North Korea military parade",
+    "link": "https://nypost.com/2025/10/11/world-news/kim-jong-un-shows-off-most-powerful-ballistic-missile-during-north-korea-military-parade/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-11-09-00-31 +0000",
+    "source": "nyt",
+    "headline": "Federal Judges, Warning of ‘Judicial Crisis,’ Fault Supreme Court’s Emergency Orders",
+    "link": "https://www.nytimes.com/2025/10/11/us/politics/judicial-crisis-supreme-court-trump.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-11-09-01-11 +0000",
+    "source": "nyt",
+    "headline": "How Las Vegas Sands Helped Get the N.B.A. Back Into China",
+    "link": "https://www.nytimes.com/2025/10/11/world/asia/las-vegas-sands-nba-china-macau-casino-dumont-games.html"
   },
   {
     "score": 11,
-    "pubdate": "2025-10-11-08-16-30 +0000",
-    "source": "nypost",
-    "headline": "Shirtless Florida man strikes shoppers with metal shelf during brawl inside Publix supermarket",
-    "link": "https://nypost.com/2025/10/11/us-news/shirtless-florida-man-climont-mann-strikes-shoppers-with-metal-shelf-in-brawl-inside-publix-supermarket/"
+    "pubdate": "2025-10-11-09-00-55 +0000",
+    "source": "nyt",
+    "headline": "Understanding Post-Soviet Tyranny, in Order to Fight It",
+    "link": "https://www.nytimes.com/2025/10/11/world/europe/russia-svetlana-alexievich.html"
   },
   {
     "score": 10,
-    "pubdate": "2025-10-11-08-49-08 +0000",
+    "pubdate": "2025-10-11-09-01-58 +0000",
     "source": "nyt",
-    "headline": "Criticism Greets Macron’s Repeat Pick of Lecornu for Prime Minister: ‘Bad Joke’",
-    "link": "https://www.nytimes.com/2025/10/11/world/europe/france-macron-lecornu-prime-minister.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-11-08-17-58 +0000",
-    "source": "bbc",
-    "headline": "How John Swinney plans to put his stamp on the SNP as election looms",
-    "link": "https://www.bbc.com/news/articles/cgknlj3vr76o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-11-08-16-44 +0000",
-    "source": "bbc",
-    "headline": "Eighteen missing after explosion at Tennessee munitions factory",
-    "link": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-11-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Will AI make or break Canada? Innovators, researchers call for more guardrails",
-    "link": "https://www.cbc.ca/news/politics/ai-canada-regulations-innovators-researchers-9.6935017?cmp=rss"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-10-11-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "What’s missing from the deficit debate? Any plan to eliminate it",
-    "link": "https://www.cbc.ca/news/politics/deficit-budget-carney-poilievre-9.6935205?cmp=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-11-08-04-53 +0000",
-    "source": "nyt",
-    "headline": "China Flexed. Trump Hit Back. So Much for the Thaw.",
-    "link": "https://www.nytimes.com/2025/10/11/world/asia/china-trump-tariff-threat.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-11-08-04-53 +0000",
-    "source": "nyt",
-    "headline": "China Flexed. Trump Hit Back. So Much for the Thaw.",
-    "link": "https://www.nytimes.com/2025/10/11/world/asia/china-trump-tariff-threat.html"
+    "headline": "Trump’s Shutdown Layoffs Deepen Impasse, Angering Democrats",
+    "link": "https://www.nytimes.com/2025/10/11/us/politics/trump-government-shutdown-layoffs-democrats.html"
   }
 ]
