@@ -1,13 +1,13 @@
 [
   {
-    "score": 312,
+    "score": 315,
     "pubdate": "2025-10-10-14-32-26 +0000",
     "source": "nypost",
     "headline": "Fresh off Nobel Peace Prize win, opposition leader María Corina Machado says Venezuela is counting on Trump ‘more than ever’",
     "link": "https://nypost.com/2025/10/10/world-news/nobel-peace-prize-winner-maria-corina-machado-says-venezuela-is-counting-on-trump/"
   },
   {
-    "score": 122,
+    "score": 125,
     "pubdate": "2025-10-10-23-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
@@ -35,25 +35,18 @@
     "link": "https://nypost.com/2025/10/10/world-news/israeli-forces-start-pulling-back-from-parts-of-gaza-under-ceasefire-deal/"
   },
   {
-    "score": 67,
+    "score": 69,
     "pubdate": "2025-10-10-17-44-55 +0000",
     "source": "nyt",
     "headline": "Melania Trump Says She Has Been Working With Putin to Reunite Missing Ukrainian Children",
     "link": "https://www.nytimes.com/2025/10/10/us/politics/melania-trump-putin-ukraine-children.html"
   },
   {
-    "score": 52,
+    "score": 53,
     "pubdate": "2025-10-10-14-45-15 +0000",
     "source": "latimes",
     "headline": "Sister Jean, nun who became a national icon during Loyola Chicago's Final Four run, dies at 106",
     "link": "https://www.latimes.com/sports/story/2025-10-10/sister-jean-dead-loyola-chicago-final-four-ncaa-tournament"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-10-10-08-13-48 +0000",
-    "source": "nyt",
-    "headline": "As Winter Nears, Russian Strikes on Ukraine’s Energy Grid Cause Blackouts",
-    "link": "https://www.nytimes.com/2025/10/10/world/europe/russia-ukraine-power-energy.html"
   },
   {
     "score": 49,
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/economy/cpi-inflation-report-social-security-e69e0b6a"
   },
   {
-    "score": 46,
+    "score": 44,
     "pubdate": "2025-10-11-02-09-00 +0000",
     "source": "wsj",
     "headline": "A California new law to make it easier for developers to build multistory apartment buildings near major commuter stops, has triggered fierce opposition from Los Angeles and other coastal cities",
     "link": "https://www.wsj.com/economy/housing/california-housing-bill-los-angeles-pushback-e339bc20"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-10-11-01-24-00 +0000",
+    "source": "wsj",
+    "headline": "Qatar Facility at U.S. Air Force Base in Idaho Sparks Controversy",
+    "link": "https://www.wsj.com/politics/national-security/qatar-facility-at-u-s-air-force-base-in-idaho-sparks-controversy-8c9f8b4e"
   }
 ]
