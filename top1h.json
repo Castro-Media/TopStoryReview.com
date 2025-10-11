@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 25,
+    "pubdate": "2025-10-11-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Recent moves by President Trump reflect a commander in chief who feels as though he has faced surprisingly little resistance to his ambitious agenda in his second term",
+    "link": "https://www.wsj.com/politics/policy/trump-second-term-policies-gifts-494731c7"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-11-00-35-36 +0000",
+    "source": "bbc",
+    "headline": "'They treated us like animals' - Inside the epicentre of deportations in New York City",
+    "link": "https://www.bbc.com/news/articles/cn0rxrxd444o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-11-00-38-09 +0000",
+    "source": "nyt",
+    "headline": "Boston Prosecutors Invoke Law Used Against Anarchists to Charge Protesters",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/boston-protesters-anarchists-national-guard.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-11-00-55-29 +0000",
+    "source": "nyt",
+    "headline": "Blocking Chicago Guard Deployment, Judge Questions Government’s Veracity",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/ice-national-guard.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-11-00-45-53 +0000",
+    "source": "nyt",
+    "headline": "Strikes on Venezuelan Boats Prompt Rare U.N. Meeting on the United States",
+    "link": "https://www.nytimes.com/2025/10/10/world/middleeast/un-attacks-venezuela-boats.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-11-01-14-45 +0000",
+    "source": "nypost",
+    "headline": "Atlanta International Airport sees ground stop following fire incident with ‘strong gas fumes’: FAA",
+    "link": "https://nypost.com/2025/10/10/us-news/ground-stop-issued-at-busy-atlanta-airport-following-fire-incident-with-strong-gas-fumes-faa-confirms/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-11-01-04-23 +0000",
+    "source": "nyt",
+    "headline": "The Trump Split Screen: A Peacemaker Abroad, a Retribution Campaign at Home",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/trump-peace-retribution.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-11-00-43-32 +0000",
+    "source": "nypost",
+    "headline": "Largest US teachers union sends 3 million members map that completely ‘erases’ Israel: ‘An inexcusable lapse’",
+    "link": "https://nypost.com/2025/10/10/us-news/nea-sends-3m-members-disturbing-map-that-completely-erases-israel/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-11-00-24-13 +0000",
+    "source": "nyt",
+    "headline": "Trump Cuts a Deal With AstraZeneca to Lower Drug Prices",
+    "link": "https://www.nytimes.com/2025/10/10/health/trump-drug-prices-astrazeneca.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-11-00-18-24 +0000",
+    "source": "startribune",
+    "headline": "Minnesota tells Trump administration it won’t respond now to demands over transgender athletes",
+    "link": "https://www.startribune.com/minnesota-transgender-athletes-title-ix/601488992"
+  }
+]
