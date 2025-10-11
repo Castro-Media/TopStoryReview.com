@@ -1,30 +1,72 @@
 [
   {
-    "score": 32,
-    "pubdate": "2025-10-11-12-55-02 +0000",
-    "source": "nypost",
-    "headline": "AOC tries to squeeze campaign cash off Trump’s Portland ‘propaganda’ — while a fearful resident wears gas mask inside her home",
-    "link": "https://nypost.com/2025/10/11/us-news/aoc-tries-to-squeeze-campaign-cash-off-trumps-portland-propaganda/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-11-12-55-48 +0000",
-    "source": "nypost",
-    "headline": "See it: Heart pounding video shows wild NYPD car chase in the Bronx",
-    "link": "https://nypost.com/2025/10/11/us-news/heart-pounding-video-shows-wild-nypd-car-chase-in-nyc/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-11-12-55-07 +0000",
+    "score": 30,
+    "pubdate": "2025-10-11-14-50-11 +0000",
     "source": "nyt",
-    "headline": "John Lodge, Singer and Bassist With the Moody Blues, Dies at 82",
-    "link": "https://www.nytimes.com/2025/10/10/arts/music/john-lodge-dead-moody-blues.html"
+    "headline": "Trump Threatens 100% Tariffs on Chinese Goods",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/trump-xi-china-tariffs-rare-earth.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-10-11-12-55-02 +0000",
+    "score": 20,
+    "pubdate": "2025-10-11-14-14-58 +0000",
+    "source": "nyt",
+    "headline": "Criticism Greets Macron’s Repeat Pick of Lecornu for Prime Minister: ‘Bad Joke’",
+    "link": "https://www.nytimes.com/2025/10/11/world/europe/france-macron-lecornu-prime-minister.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-11-14-33-19 +0000",
     "source": "nypost",
-    "headline": "AOC tries to squeeze campaign cash off Trump’s Portland ‘propaganda’ — while a fearful resident wears gas mask inside her home",
-    "link": "https://nypost.com/2025/10/11/us-news/aoc-tries-to-squeeze-campaign-cash-off-trumps-portland-propaganda/"
+    "headline": "At least 4 killed, 12 hurt in Mississippi mass shooting after homecoming football game in small town",
+    "link": "https://nypost.com/2025/10/11/us-news/at-least-4-killed-12-hurt-in-mississippi-shooting-after-homecoming-football-game/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-11-14-38-20 +0000",
+    "source": "nyt",
+    "headline": "Israelis to Rally for Hostages in Gaza, Hoping It Will Be the Last Time",
+    "link": "https://www.nytimes.com/2025/10/11/world/middleeast/israel-hostages-square-rally.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-11-14-07-33 +0000",
+    "source": "nyt",
+    "headline": "Peter M. Fishbein, Lawyer Named in Savings-and-Loan Lawsuit, Dies at 91",
+    "link": "https://www.nytimes.com/2025/10/10/us/politics/peter-fishbein-dead.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-11-14-40-49 +0000",
+    "source": "nyt",
+    "headline": "Thousands Return to Northern Gaza, Hopeful, but Faced With Devastation",
+    "link": "https://www.nytimes.com/2025/10/11/world/middleeast/return-gaza-city-ceasefire.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-11-14-04-47 +0000",
+    "source": "wapo",
+    "headline": "U.S. files reveal Israeli-Arab military cooperation, even as Gaza war raged",
+    "link": "https://www.washingtonpost.com/national-security/2025/10/11/us-israel-arab-military-leaked-documents/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-11-14-14-33 +0000",
+    "source": "startribune",
+    "headline": "BCA says it’s suspending statewide use of alcohol breath machines in suspected DWIs",
+    "link": "https://www.startribune.com/as-questions-loom-over-data-hennepin-sheriffs-office-says-its-alcohol-breath-tests-are-not-faulty/601489869"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-11-14-06-06 +0000",
+    "source": "bbc",
+    "headline": "Hamas presses Israel to free prominent prisoners as part of Gaza deal",
+    "link": "https://www.bbc.com/news/articles/cd727d2ne42o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-11-14-21-07 +0000",
+    "source": "bbc",
+    "headline": "Drone strike in besieged Sudan city kills at least 60 people",
+    "link": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss"
   }
 ]
