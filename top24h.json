@@ -7,7 +7,7 @@
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2025-10-12-12-36-07 +0000",
     "source": "nypost",
     "headline": "Hamas ready to begin freeing 20 living Israeli hostages a day earlier than expected in Trump peace deal",
@@ -21,25 +21,18 @@
     "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-11-17-33-00 +0000",
-    "source": "wsj",
-    "headline": "Authorities Find No Survivors After Deadly Blast at Tennessee Explosives Plant",
-    "link": "https://www.wsj.com/us-news/tennessee-explosion-accurate-energetic-systems-23d64ca2"
-  },
-  {
-    "score": 50,
+    "score": 55,
     "pubdate": "2025-10-12-14-45-04 +0000",
     "source": "nypost",
     "headline": "At least 4 killed, 20 injured in mass shooting at popular South Carolina island bar",
     "link": "https://nypost.com/2025/10/12/us-news/4-dead-after-mass-shooting-at-popular-south-carolina-island-bar/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-10-12-04-37-28 +0000",
-    "source": "bbc",
-    "headline": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
-    "link": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss"
+    "score": 50,
+    "pubdate": "2025-10-11-18-19-42 +0000",
+    "source": "cbc",
+    "headline": "Tennessee authorities confirm 16 dead, no survivors from explosives factory blast",
+    "link": "https://www.cbc.ca/news/world/tennessee-explosives-factory-no-survivors-9.6936059?cmp=rss"
   },
   {
     "score": 44,
@@ -49,8 +42,15 @@
     "link": "https://www.wsj.com/politics/policy/what-to-know-about-trumps-latest-round-of-government-layoffs-354b7b45"
   },
   {
+    "score": 44,
+    "pubdate": "2025-10-12-04-37-28 +0000",
+    "source": "bbc",
+    "headline": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
+    "link": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 34,
-    "pubdate": "2025-10-12-12-30-12 +0000",
+    "pubdate": "2025-10-12-17-47-23 +0000",
     "source": "wapo",
     "headline": "Afghanistan and Pakistan claim to kill dozens of soldiers in border clash",
     "link": "https://www.washingtonpost.com/world/2025/10/12/afghanistan-taliban-pakistan-border-clash/"
@@ -63,10 +63,10 @@
     "link": "https://www.nytimes.com/2025/10/11/us/national-guard-chicago.html"
   },
   {
-    "score": 30,
-    "pubdate": "2025-10-12-15-45-25 +0000",
-    "source": "nyt",
-    "headline": "World Cup Qualifiers Become a Venue for European Protests of Israel",
-    "link": "https://www.nytimes.com/2025/10/12/world/europe/israel-soccer-protests-norway-italy.html"
+    "score": 32,
+    "pubdate": "2025-10-12-13-09-30 +0000",
+    "source": "nypost",
+    "headline": "Trump announces Dan Scavino as new head of White House Presidential Personnel Office",
+    "link": "https://nypost.com/2025/10/12/us-news/trump-announces-dan-scavino-as-head-of-presidential-personnel-office/"
   }
 ]
