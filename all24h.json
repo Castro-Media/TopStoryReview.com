@@ -1,5 +1,23 @@
 [
   {
+    "headline": "Ontario Sikh leader explains why he refused protection: 'I’d rather take India’s bullet'",
+    "link": "https://www.cbc.ca/news/politics/ontario-sikh-leader-explains-why-he-refused-protection-id-rather-take-indias-bullet-9.6935190?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-12-08-24-19 +0000"
+  },
+  {
+    "headline": "Moment iconic replica of Christopher Columbus ship sinks off coast of Mexican resort town",
+    "link": "https://nypost.com/2025/10/12/world-news/marigalante-ship-replica-of-christopher-columbus-santa-maria-sinks-off-mexico-coast/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-08-12-57 +0000"
+  },
+  {
+    "headline": "Ontario Sikh leader explains why he refused protection: 'I’d rather take India’s bullet'",
+    "link": "https://www.cbc.ca/news/politics/ontario-sikh-leader-explains-why-he-refused-protection-id-rather-take-indias-bullet-9.6935190?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-12-08-00-00 +0000"
+  },
+  {
     "headline": "How will the EU's new border system work?",
     "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -448,6 +466,12 @@
     "link": "https://www.nytimes.com/2025/10/11/us/politics/trump-troops-pay-shutdown.html",
     "source": "nyt",
     "pubdate": "2025-10-11-23-27-30 +0000"
+  },
+  {
+    "headline": "Thirty belugas in Canada face being euthanised. Can they be saved?",
+    "link": "https://www.bbc.com/news/articles/c0kn6x711y2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-11-23-23-30 +0000"
   },
   {
     "headline": "Thirty belugas in Canada face being euthanised. Can they be saved?",
@@ -1164,6 +1188,12 @@
     "pubdate": "2025-10-11-14-44-59 +0000"
   },
   {
+    "headline": "Hamas mobilises fighters in Gaza as fears of internal violence mount",
+    "link": "https://www.bbc.com/news/articles/ce8482418plo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-11-14-44-59 +0000"
+  },
+  {
     "headline": "Ruth Weiss, Who Chronicled Apartheid After Fleeing the Nazis, Dies at 101",
     "link": "https://www.nytimes.com/2025/10/09/books/ruth-weiss-dead.html",
     "source": "nyt",
@@ -1392,14 +1422,14 @@
     "pubdate": "2025-10-11-10-00-06 +0000"
   },
   {
-    "headline": "Palisades fire suspect placed gun in stuffed animal, made recent fire threat, feds allege",
-    "link": "https://www.latimes.com/california/story/2025-10-11/feds-say-palisades-suspect-court",
+    "headline": "In fire-scorched Palisades, a library and rec center become linchpins of fury with City Hall",
+    "link": "https://www.latimes.com/california/story/2025-10-11/pacific-palisades-fire-anger-los-angeles-city-hall-rebuild",
     "source": "latimes",
     "pubdate": "2025-10-11-10-00-00 +0000"
   },
   {
-    "headline": "In fire-scorched Palisades, a library and rec center become linchpins of fury with City Hall",
-    "link": "https://www.latimes.com/california/story/2025-10-11/pacific-palisades-fire-anger-los-angeles-city-hall-rebuild",
+    "headline": "Palisades fire suspect placed gun in stuffed animal, made recent fire threat, feds allege",
+    "link": "https://www.latimes.com/california/story/2025-10-11/feds-say-palisades-suspect-court",
     "source": "latimes",
     "pubdate": "2025-10-11-10-00-00 +0000"
   },
@@ -1438,12 +1468,6 @@
     "link": "https://www.washingtonpost.com/world/2025/10/11/germany-nonalcoholic-beer-sales-boom/",
     "source": "wapo",
     "pubdate": "2025-10-11-09-41-29 +0000"
-  },
-  {
-    "headline": "Kim Jong Un shows off ‘most powerful’ missile during NK parade, plans to ‘eliminates all threats’",
-    "link": "https://nypost.com/2025/10/11/world-news/kim-jong-un-shows-off-most-powerful-ballistic-missile-during-north-korea-military-parade/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-09-40-22 +0000"
   },
   {
     "headline": "Jared Kushner Is Back, and His Imprint Is All Over the Gaza Deal",
@@ -1570,23 +1594,5 @@
     "link": "https://www.washingtonpost.com/world/interactive/2025/gaza-city-bombing-high-rise-towers/",
     "source": "wapo",
     "pubdate": "2025-10-11-09-00-01 +0000"
-  },
-  {
-    "headline": "How John Swinney plans to put his stamp on the SNP as election looms",
-    "link": "https://www.bbc.com/news/articles/cgknlj3vr76o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-11-08-17-58 +0000"
-  },
-  {
-    "headline": "The political fight over the deficit is still a phoney war",
-    "link": "https://www.cbc.ca/news/politics/deficit-budget-carney-poilievre-9.6935205?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-11-08-00-00 +0000"
-  },
-  {
-    "headline": "Will AI make or break Canada? Innovators, researchers call for more guardrails",
-    "link": "https://www.cbc.ca/news/politics/ai-canada-regulations-innovators-researchers-9.6935017?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-11-08-00-00 +0000"
   }
 ]
