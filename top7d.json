@@ -1,7 +1,7 @@
 [
   {
     "score": 393,
-    "pubdate": "2025-10-12-20-42-19 +0000",
+    "pubdate": "2025-10-12-20-55-49 +0000",
     "source": "nyt",
     "headline": "Trump leaves for a visit to Israel, and will later co-chair a meeting in Egypt on the Gaza peace plan.",
     "link": "https://www.nytimes.com/live/2025/10/12/us/trump-news/trump-leaves-for-a-visit-to-israel-and-will-later-co-chair-a-meeting-in-egypt-on-the-gaza-peace-plan"
@@ -14,42 +14,49 @@
     "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
   },
   {
-    "score": 159,
-    "pubdate": "2025-10-11-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Jared Kushner, who had sworn off any formal role in President Trump’s second term, has been at the center of every decision leading up to the breakthrough agreement between Israel and Hamas",
-    "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
-  },
-  {
-    "score": 152,
-    "pubdate": "2025-10-10-21-13-00 +0000",
-    "source": "wsj",
-    "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/mike-johnson-freedom-caucus-government-shutdown-37ff1c8e"
-  },
-  {
-    "score": 138,
-    "pubdate": "2025-10-10-21-40-19 +0000",
-    "source": "wapo",
-    "headline": "María Corina Machado, Venezuelan opposition leader, wins Nobel Peace Prize",
-    "link": "https://www.washingtonpost.com/world/2025/10/10/maria-machado-nobel-peace-prize-venezuela/"
-  },
-  {
-    "score": 137,
+    "score": 160,
     "pubdate": "2025-10-11-08-00-00 +0000",
     "source": "cbc",
     "headline": "One of the world's biggest AI companies wants a deal with Canada. Is sovereignty the trade-off?",
     "link": "https://www.cbc.ca/news/business/open-ai-canada-data-centres-digital-sovereignty-9.6935195?cmp=rss"
   },
   {
-    "score": 133,
-    "pubdate": "2025-10-08-20-00-18 +0000",
-    "source": "latimes",
-    "headline": "'Why wasn't the fire put out on the 1st?' Cause of Palisades fire leaves residents with more questions",
-    "link": "https://www.latimes.com/california/story/2025-10-08/la-me-palisades-fire-reactions"
+    "score": 153,
+    "pubdate": "2025-10-10-21-13-00 +0000",
+    "source": "wsj",
+    "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/mike-johnson-freedom-caucus-government-shutdown-37ff1c8e"
   },
   {
-    "score": 99,
+    "score": 150,
+    "pubdate": "2025-10-08-23-12-49 +0000",
+    "source": "latimes",
+    "headline": "After Palisades fire failures, L.A. promises to beef up staffing during high-risk fire weather",
+    "link": "https://www.latimes.com/california/story/2025-10-08/los-angeles-firefighters-were-hampered-by-a-lack-of-resources-in-initial-fire-attack-report-says"
+  },
+  {
+    "score": 129,
+    "pubdate": "2025-10-10-18-28-13 +0000",
+    "source": "bbc",
+    "headline": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
+    "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 115,
+    "pubdate": "2025-10-11-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Jared Kushner, who had sworn off any formal role in President Trump’s second term, has been at the center of every decision leading up to the breakthrough agreement between Israel and Hamas",
+    "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
+  },
+  {
+    "score": 103,
+    "pubdate": "2025-10-12-18-39-55 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris reveals Biden sent her call to voicemail when ex-VP reached out about cancer treatment",
+    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-left-biden-voicemail-after-radiation-therapy-news/"
+  },
+  {
+    "score": 102,
     "pubdate": "2025-10-08-19-36-45 +0000",
     "source": "latimes",
     "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "Hyundai Factory Was a Deadly Job Site Before It Was Raided by ICE",
     "link": "https://www.wsj.com/us-news/hyundai-factory-was-a-deadly-job-site-before-it-was-raided-by-ice-42f77360?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 84,
-    "pubdate": "2025-10-12-02-04-52 +0000",
-    "source": "bbc",
-    "headline": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
-    "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
   }
 ]
