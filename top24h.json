@@ -1,13 +1,20 @@
 [
   {
-    "score": 118,
+    "score": 109,
+    "pubdate": "2025-10-12-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
+    "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
+  },
+  {
+    "score": 64,
     "pubdate": "2025-10-12-04-37-28 +0000",
     "source": "bbc",
     "headline": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
     "link": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 71,
+    "score": 59,
     "pubdate": "2025-10-11-18-12-00 +0000",
     "source": "nypost",
     "headline": "President Trump will make sure military troops are paid if government shutdown lasts through missed check",
@@ -21,52 +28,45 @@
     "link": "https://www.wsj.com/us-news/tennessee-explosion-accurate-energetic-systems-23d64ca2"
   },
   {
-    "score": 51,
+    "score": 49,
+    "pubdate": "2025-10-12-14-45-04 +0000",
+    "source": "nypost",
+    "headline": "At least 4 killed, 20 injured in mass shooting at popular South Carolina island bar",
+    "link": "https://nypost.com/2025/10/12/us-news/4-dead-after-mass-shooting-at-popular-south-carolina-island-bar/"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-10-11-16-09-51 +0000",
     "source": "nypost",
     "headline": "Trump set to fly to Israel to mark historic peace deal while preparing public for grim hostage release",
     "link": "https://nypost.com/2025/10/11/us-news/trump-set-to-fly-to-israel-to-mark-historic-peace-deal-as-he-prepares-public-for-grim-hostage-release/"
   },
   {
-    "score": 45,
-    "pubdate": "2025-10-12-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Hyundai Factory Was a Deadly Job Site Before It Was Raided by ICE",
-    "link": "https://www.wsj.com/us-news/hyundai-factory-was-a-deadly-job-site-before-it-was-raided-by-ice-42f77360?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-10-12-07-22-45 +0000",
-    "source": "nypost",
-    "headline": "Chinese coast guard fires water cannon, rams Philippine vessel off island in South China Sea",
-    "link": "https://nypost.com/2025/10/12/world-news/chinese-coast-guard-rams-damages-philippine-vessel-off-island-in-south-china-sea/"
-  },
-  {
-    "score": 40,
+    "score": 38,
     "pubdate": "2025-10-11-21-29-00 +0000",
     "source": "wsj",
     "headline": "Budget chief Russell Vought had vowed to fire federal workers if Democrats refused to vote to reopen the government. On Friday, he did so.",
     "link": "https://www.wsj.com/politics/policy/what-to-know-about-trumps-latest-round-of-government-layoffs-354b7b45"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-11-19-59-52 +0000",
-    "source": "nyt",
-    "headline": "Dozens Killed in Strikes at Shelter in Besieged Sudanese City",
-    "link": "https://www.nytimes.com/2025/10/11/world/africa/sudan-shelter-strike-rsf.html"
-  },
-  {
-    "score": 35,
+    "score": 34,
     "pubdate": "2025-10-12-02-04-52 +0000",
     "source": "bbc",
     "headline": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
     "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 31,
-    "pubdate": "2025-10-12-12-29-04 +0000",
+    "score": 33,
+    "pubdate": "2025-10-12-12-30-12 +0000",
+    "source": "wapo",
+    "headline": "Afghanistan and Pakistan claim to kill dozens of soldiers in border clash",
+    "link": "https://www.washingtonpost.com/world/2025/10/12/afghanistan-taliban-pakistan-border-clash/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-10-12-12-10-56 +0000",
     "source": "nyt",
-    "headline": "Overnight Violence Between Afghanistan and Pakistan Threatens a Wider Conflict",
-    "link": "https://www.nytimes.com/2025/10/12/world/asia/afghanistan-pakistan-violence-conflict.html"
+    "headline": "Appeals Court Allows Federalized National Guard, but Retains Block on Chicago Deployment",
+    "link": "https://www.nytimes.com/2025/10/11/us/national-guard-chicago.html"
   }
 ]
