@@ -1,17 +1,24 @@
 [
   {
-    "score": 380,
+    "score": 379,
     "pubdate": "2025-10-10-23-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
     "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
   },
   {
-    "score": 220,
-    "pubdate": "2025-10-09-14-33-18 +0000",
-    "source": "bbc",
-    "headline": "Israel and Hamas agree first phase of Gaza ceasefire deal",
-    "link": "https://www.bbc.com/news/articles/ce80rmq3g5qo?at_medium=RSS&at_campaign=rss"
+    "score": 219,
+    "pubdate": "2025-10-09-22-42-00 +0000",
+    "source": "wsj",
+    "headline": "Israeli Government Approves Hostage Deal Setting a Cease-Fire in Gaza",
+    "link": "https://www.wsj.com/world/middle-east/israel-hamas-gaza-hostage-ceasefire-deal-815d533f"
+  },
+  {
+    "score": 187,
+    "pubdate": "2025-10-11-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Jared Kushner, who had sworn off any formal role in President Trump’s second term, has been at the center of every decision leading up to the breakthrough agreement between Israel and Hamas",
+    "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
   },
   {
     "score": 183,
@@ -21,52 +28,45 @@
     "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 148,
+    "score": 124,
     "pubdate": "2025-10-10-21-13-00 +0000",
     "source": "wsj",
     "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
     "link": "https://www.wsj.com/politics/policy/mike-johnson-freedom-caucus-government-shutdown-37ff1c8e"
   },
   {
-    "score": 141,
-    "pubdate": "2025-10-08-23-12-49 +0000",
-    "source": "latimes",
-    "headline": "After Palisades fire failures, L.A. promises to beef up staffing during high-risk fire weather",
-    "link": "https://www.latimes.com/california/story/2025-10-08/los-angeles-firefighters-were-hampered-by-a-lack-of-resources-in-initial-fire-attack-report-says"
-  },
-  {
-    "score": 114,
-    "pubdate": "2025-10-11-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "One of the world's biggest AI companies wants a deal with Canada. Is sovereignty the trade-off?",
-    "link": "https://www.cbc.ca/news/business/open-ai-canada-data-centres-digital-sovereignty-9.6935195?cmp=rss"
+    "score": 101,
+    "pubdate": "2025-10-12-19-22-46 +0000",
+    "source": "nypost",
+    "headline": "NYC machete attack suspect has 45 prior arrests — and was just charged with hit and run that left cancer survivor dead",
+    "link": "https://nypost.com/2025/10/12/us-news/nyc-machete-attack-suspect-charged-in-fatal-hit-and-run/"
   },
   {
     "score": 99,
-    "pubdate": "2025-10-12-18-39-55 +0000",
-    "source": "nypost",
-    "headline": "Kamala Harris reveals Biden sent her call to voicemail when ex-VP reached out about cancer treatment",
-    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-left-biden-voicemail-after-radiation-therapy-news/"
-  },
-  {
-    "score": 97,
     "pubdate": "2025-10-08-19-36-45 +0000",
     "source": "latimes",
     "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
     "link": "https://www.latimes.com/politics/story/2025-10-08/california-national-guard-soldiers-to-illinois"
   },
   {
-    "score": 94,
-    "pubdate": "2025-10-12-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Hyundai Factory Was a Deadly Job Site Before It Was Raided by ICE",
-    "link": "https://www.wsj.com/us-news/hyundai-factory-was-a-deadly-job-site-before-it-was-raided-by-ice-42f77360?mod=pls_whats_news_us_business_f"
+    "score": 91,
+    "pubdate": "2025-10-12-15-23-44 +0000",
+    "source": "cbc",
+    "headline": "Canada's tariffs on Chinese EVs created '2-front trade war' hurting Prairie canola, pork producers: Kinew",
+    "link": "https://www.cbc.ca/news/canada/manitoba/kinew-carney-canola-tariffs-prairie-pork-9.6936340?cmp=rss"
   },
   {
-    "score": 84,
-    "pubdate": "2025-10-11-20-36-00 +0000",
-    "source": "wsj",
-    "headline": "Trump said funds have been identified to pay military servicemembers next week, with the government shutdown expected to continue and Congress still at an impasse",
-    "link": "https://www.wsj.com/politics/policy/trump-says-military-will-be-paid-despite-shutdown-a73e1587"
+    "score": 89,
+    "pubdate": "2025-10-12-18-39-55 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris reveals Biden sent her call to voicemail when ex-VP reached out about cancer treatment",
+    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-left-biden-voicemail-after-radiation-therapy-news/"
+  },
+  {
+    "score": 83,
+    "pubdate": "2025-10-12-02-04-52 +0000",
+    "source": "bbc",
+    "headline": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
+    "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
   }
 ]
