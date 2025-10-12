@@ -1,13 +1,13 @@
 [
   {
-    "score": 383,
+    "score": 380,
     "pubdate": "2025-10-10-23-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
     "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
   },
   {
-    "score": 215,
+    "score": 220,
     "pubdate": "2025-10-09-14-33-18 +0000",
     "source": "bbc",
     "headline": "Israel and Hamas agree first phase of Gaza ceasefire deal",
@@ -21,35 +21,42 @@
     "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 149,
+    "score": 148,
     "pubdate": "2025-10-10-21-13-00 +0000",
     "source": "wsj",
     "headline": "House Speaker Mike Johnson (R., La.) received a rare public show of support from his right flank as he faces questions about his strategy for ending the government shutdown",
     "link": "https://www.wsj.com/politics/policy/mike-johnson-freedom-caucus-government-shutdown-37ff1c8e"
   },
   {
-    "score": 140,
+    "score": 141,
     "pubdate": "2025-10-08-23-12-49 +0000",
     "source": "latimes",
     "headline": "After Palisades fire failures, L.A. promises to beef up staffing during high-risk fire weather",
     "link": "https://www.latimes.com/california/story/2025-10-08/los-angeles-firefighters-were-hampered-by-a-lack-of-resources-in-initial-fire-attack-report-says"
   },
   {
-    "score": 120,
-    "pubdate": "2025-10-05-18-37-30 +0000",
-    "source": "latimes",
-    "headline": "Judge blocks Trump from deploying California National Guard — or any Guard troops — in Oregon",
-    "link": "https://www.latimes.com/world-nation/story/2025-10-05/newsom-trump-national-guard-oregon"
-  },
-  {
-    "score": 115,
+    "score": 114,
     "pubdate": "2025-10-11-08-00-00 +0000",
     "source": "cbc",
     "headline": "One of the world's biggest AI companies wants a deal with Canada. Is sovereignty the trade-off?",
     "link": "https://www.cbc.ca/news/business/open-ai-canada-data-centres-digital-sovereignty-9.6935195?cmp=rss"
   },
   {
-    "score": 93,
+    "score": 99,
+    "pubdate": "2025-10-12-18-39-55 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris reveals Biden sent her call to voicemail when ex-VP reached out about cancer treatment",
+    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-left-biden-voicemail-after-radiation-therapy-news/"
+  },
+  {
+    "score": 97,
+    "pubdate": "2025-10-08-19-36-45 +0000",
+    "source": "latimes",
+    "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
+    "link": "https://www.latimes.com/politics/story/2025-10-08/california-national-guard-soldiers-to-illinois"
+  },
+  {
+    "score": 94,
     "pubdate": "2025-10-12-09-30-00 +0000",
     "source": "wsj",
     "headline": "Hyundai Factory Was a Deadly Job Site Before It Was Raided by ICE",
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "Trump said funds have been identified to pay military servicemembers next week, with the government shutdown expected to continue and Congress still at an impasse",
     "link": "https://www.wsj.com/politics/policy/trump-says-military-will-be-paid-despite-shutdown-a73e1587"
-  },
-  {
-    "score": 81,
-    "pubdate": "2025-10-11-18-19-42 +0000",
-    "source": "cbc",
-    "headline": "Tennessee authorities confirm 16 dead, no survivors from explosives factory blast",
-    "link": "https://www.cbc.ca/news/world/tennessee-explosives-factory-no-survivors-9.6936059?cmp=rss"
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
-    "score": 111,
+    "score": 105,
     "pubdate": "2025-10-12-13-00-00 +0000",
     "source": "wsj",
     "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 65,
-    "pubdate": "2025-10-12-12-36-07 +0000",
-    "source": "nypost",
-    "headline": "Hamas ready to begin freeing 20 living Israeli hostages a day earlier than expected in Trump peace deal",
-    "link": "https://nypost.com/2025/10/12/world-news/hamas-to-begin-freeing-20-living-israeli-hostages-a-day-earlier-than-expected-in-trump-peace-deal/"
+    "score": 68,
+    "pubdate": "2025-10-12-04-37-28 +0000",
+    "source": "bbc",
+    "headline": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
+    "link": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 57,
     "pubdate": "2025-10-12-02-04-52 +0000",
     "source": "bbc",
     "headline": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
     "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 52,
+    "pubdate": "2025-10-12-18-39-55 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris reveals Biden sent her call to voicemail when ex-VP reached out about cancer treatment",
+    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-left-biden-voicemail-after-radiation-therapy-news/"
+  },
+  {
+    "score": 45,
     "pubdate": "2025-10-12-14-45-04 +0000",
     "source": "nypost",
     "headline": "At least 4 killed, 20 injured in mass shooting at popular South Carolina island bar",
     "link": "https://nypost.com/2025/10/12/us-news/4-dead-after-mass-shooting-at-popular-south-carolina-island-bar/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-10-11-18-19-42 +0000",
-    "source": "cbc",
-    "headline": "Tennessee authorities confirm 16 dead, no survivors from explosives factory blast",
-    "link": "https://www.cbc.ca/news/world/tennessee-explosives-factory-no-survivors-9.6936059?cmp=rss"
   },
   {
     "score": 44,
@@ -42,11 +42,18 @@
     "link": "https://www.wsj.com/politics/policy/what-to-know-about-trumps-latest-round-of-government-layoffs-354b7b45"
   },
   {
-    "score": 44,
-    "pubdate": "2025-10-12-04-37-28 +0000",
+    "score": 43,
+    "pubdate": "2025-10-12-12-36-07 +0000",
+    "source": "nypost",
+    "headline": "Hamas ready to begin freeing 20 living Israeli hostages a day earlier than expected in Trump peace deal",
+    "link": "https://nypost.com/2025/10/12/world-news/hamas-to-begin-freeing-20-living-israeli-hostages-a-day-earlier-than-expected-in-trump-peace-deal/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-10-12-17-52-14 +0000",
     "source": "bbc",
-    "headline": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
-    "link": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss"
+    "headline": "'In an instant, they were gone' - small town mourns after Tennessee explosives factory blast",
+    "link": "https://www.bbc.com/news/articles/cwy8y0rnw2eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 34,
@@ -57,16 +64,9 @@
   },
   {
     "score": 33,
-    "pubdate": "2025-10-12-12-10-56 +0000",
+    "pubdate": "2025-10-12-17-23-38 +0000",
     "source": "nyt",
-    "headline": "Appeals Court Allows Federalized National Guard, but Retains Block on Chicago Deployment",
-    "link": "https://www.nytimes.com/2025/10/11/us/national-guard-chicago.html"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-10-12-13-09-30 +0000",
-    "source": "nypost",
-    "headline": "Trump announces Dan Scavino as new head of White House Presidential Personnel Office",
-    "link": "https://nypost.com/2025/10/12/us-news/trump-announces-dan-scavino-as-head-of-presidential-personnel-office/"
+    "headline": "Cars to Fighter Jets: China’s New Export Curbs May Level a Heavy Blow Worldwide",
+    "link": "https://www.nytimes.com/2025/10/12/business/china-rare-earth-export-controls.html"
   }
 ]
