@@ -1,23 +1,51 @@
 [
   {
-    "score": 14,
-    "pubdate": "2025-10-12-04-58-16 +0000",
+    "score": 22,
+    "pubdate": "2025-10-12-06-43-01 +0000",
     "source": "nypost",
-    "headline": "ICE director fumes over illegal migrant’s NY-issued ‘No Name Given’ driver’s license: ‘Really scary’",
-    "link": "https://nypost.com/2025/10/12/us-news/ice-director-todd-lyons-fumes-over-illegal-migrant-anmol-anmols-ny-issued-no-name-given-drivers-license/"
+    "headline": "Protesters interrupt Kamala Harris’ Chicago book tour event, forcing multiple removals",
+    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-chicago-book-tour-event-interrupted-by-protesters/"
   },
   {
-    "score": 10,
-    "pubdate": "2025-10-12-05-14-07 +0000",
-    "source": "nypost",
-    "headline": "Crypto trader Konstantin Galich found dead in Lamborghini in Kyiv as market plunges",
-    "link": "https://nypost.com/2025/10/12/world-news/ukrainian-crypto-trader-konstantin-galich-found-dead-inside-lamborghini-as-market-plunges/"
+    "score": 16,
+    "pubdate": "2025-10-12-06-25-29 +0000",
+    "source": "bbc",
+    "headline": "Academy Award-winning actress Diane Keaton dies aged 79",
+    "link": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-12-06-07-53 +0000",
+    "source": "nyt",
+    "headline": "Heavy Rain, Floods and Landslides in Mexico Kill at Least 41",
+    "link": "https://www.nytimes.com/2025/10/11/world/americas/mexico-floods-rain.html"
   },
   {
     "score": 6,
-    "pubdate": "2025-10-12-05-32-46 +0000",
-    "source": "startribune",
-    "headline": "Takeaways: Gophers turn it on late to defeat Purdue 27-20",
-    "link": "https://www.startribune.com/gophers-homecoming-victory-purdue-drake-lindsey-koi-perich-pick-six/601487060"
+    "pubdate": "2025-10-12-06-00-21 +0000",
+    "source": "wapo",
+    "headline": "Climate-curious but confused? Grab a beer and some cards.",
+    "link": "https://www.washingtonpost.com/climate-solutions/2025/10/12/fresk-climate-change-ipcc-games/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-12-06-43-01 +0000",
+    "source": "nypost",
+    "headline": "Protesters interrupt Kamala Harris’ Chicago book tour event, forcing multiple removals",
+    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-chicago-book-tour-event-interrupted-by-protesters/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-12-06-25-29 +0000",
+    "source": "bbc",
+    "headline": "Academy Award-winning actress Diane Keaton dies aged 79",
+    "link": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-12-06-07-53 +0000",
+    "source": "nyt",
+    "headline": "Heavy Rain, Floods and Landslides in Mexico Kill at Least 41",
+    "link": "https://www.nytimes.com/2025/10/11/world/americas/mexico-floods-rain.html"
   }
 ]
