@@ -1,5 +1,107 @@
 [
   {
+    "headline": "Israel and Hamas Were Not Ready for a Comprehensive Peace Deal, Mediator Says",
+    "link": "https://www.nytimes.com/2025/10/12/world/middleeast/israel-hamas-peace-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-50-23 +0000"
+  },
+  {
+    "headline": "Afghanistan says it killed 58 Pakistani soldiers after repeated airspace, territory violations",
+    "link": "https://nypost.com/2025/10/12/world-news/afghanistan-says-it-killed-58-pakistani-soldiers-overnight/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-49-57 +0000"
+  },
+  {
+    "headline": "Hamas Says It Is Ready to Hand Over 20 Living Israeli Hostages",
+    "link": "https://www.wsj.com/world/middle-east/hamas-says-its-ready-to-hand-over-20-living-israeli-hostages-8bf40741",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-39-00 +0000"
+  },
+  {
+    "headline": "Opinion | Can Cuomo Beat Mamdani?",
+    "link": "https://www.wsj.com/opinion/can-cuomo-beat-mamdani-5521cefe",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-31-00 +0000"
+  },
+  {
+    "headline": "Mali imposes $10,000 visa bond on US visitors in tit-for-tat move",
+    "link": "https://www.bbc.com/news/articles/cx2729glzx8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-12-16-30-23 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s War Drums in Venezuela",
+    "link": "https://www.wsj.com/opinion/trumps-war-drums-in-venezuela-5346a06d",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-30-00 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s War Drums in Venezuela",
+    "link": "https://www.wsj.com/opinion/trumps-war-drums-in-venezuela-5346a06d",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-30-00 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Were Not Ready for a Comprehensive Peace Deal, Mediator Says",
+    "link": "https://www.nytimes.com/2025/10/12/world/middleeast/israel-hamas-peace-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-15-31 +0000"
+  },
+  {
+    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
+    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-12-50 +0000"
+  },
+  {
+    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
+    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-12-50 +0000"
+  },
+  {
+    "headline": "A Coordinated Squeeze Play Forced Hamas to Accept a Deal It Didn’t Want",
+    "link": "https://www.wsj.com/world/middle-east/a-coordinated-squeeze-play-forced-hamas-to-accept-a-deal-it-didnt-want-7753f9c8",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-12-00 +0000"
+  },
+  {
+    "headline": "Lawmakers, residents demand helicopter ban after relentless $1,275-a-seat flights to Ryder Cup torment Brooklyn",
+    "link": "https://nypost.com/2025/10/12/us-news/helicopter-ban-demanded-after-ryder-cup-flights-tortured-ny/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-06-55 +0000"
+  },
+  {
+    "headline": "How UK’s ‘worst sex offender’ got away with murder — and was finally caught 17 years later",
+    "link": "https://nypost.com/2025/10/12/world-news/how-uks-worst-sex-offender-got-away-with-murder-and-was-finally-caught/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-02-40 +0000"
+  },
+  {
+    "headline": "South Carolina Bar Shooting Leaves at Least 4 Dead, Sheriff Says",
+    "link": "https://www.nytimes.com/2025/10/12/us/south-carolina-st-helena-shooting-bar.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-02-32 +0000"
+  },
+  {
+    "headline": "Hillary Clinton draws Sydney Sweeney comparisons with 50th wedding anniversary throwback post: ‘I see the vision, Bill’",
+    "link": "https://nypost.com/2025/10/12/lifestyle/hillary-clinton-posts-throwback-pics-is-compared-to-sydney-sweeney/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-00-39 +0000"
+  },
+  {
+    "headline": "Hillary Clinton draws Sydney Sweeney comparisons with 50th wedding anniversary throwback post: ‘I see the vision, Bill’",
+    "link": "https://nypost.com/2025/10/12/lifestyle/hillary-clinton-posts-throwback-pics-is-compared-to-sydney-sweeney/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-00-39 +0000"
+  },
+  {
+    "headline": "‘Superheroes’ save the Gophers against Purdue",
+    "link": "https://www.startribune.com/superheroes-save-the-gophers-against-purdue/601486980",
+    "source": "startribune",
+    "pubdate": "2025-10-12-16-00-00 +0000"
+  },
+  {
     "headline": "How Trump’s Chicago Immigration Crackdown Escalated, in 10 Videos",
     "link": "https://www.nytimes.com/2025/10/12/us/chicago-immigration-crackdown-videos.html",
     "source": "nyt",
@@ -144,12 +246,6 @@
     "pubdate": "2025-10-12-14-45-04 +0000"
   },
   {
-    "headline": "South Carolina Bar Shooting Leaves at Least 4 Dead, Sheriff Says",
-    "link": "https://www.nytimes.com/2025/10/12/us/south-carolina-st-helena-shooting-bar.html",
-    "source": "nyt",
-    "pubdate": "2025-10-12-14-38-41 +0000"
-  },
-  {
     "headline": "Madagascar president warns of coup attempt as more soldiers join protests",
     "link": "https://www.cbc.ca/news/world/madagascar-president-warns-coup-attempt-9.6936321?cmp=rss",
     "source": "cbc",
@@ -174,28 +270,10 @@
     "pubdate": "2025-10-12-14-29-23 +0000"
   },
   {
-    "headline": "'Oldest Black barbershop' in San Fernando Valley receives city landmark plaque",
+    "headline": "Historic Black barbershop in San Fernando Valley receives city landmark plaque",
     "link": "https://www.latimes.com/california/story/2025-10-12/pacoima-black-owned-barbershop-receives-landmark-status",
     "source": "latimes",
     "pubdate": "2025-10-12-14-23-32 +0000"
-  },
-  {
-    "headline": "Hamas Says It’s Ready to Hand Over 20 Living Israeli Hostages",
-    "link": "https://www.wsj.com/world/middle-east/hamas-says-its-ready-to-hand-over-20-living-israeli-hostages-8bf40741",
-    "source": "wsj",
-    "pubdate": "2025-10-12-14-05-00 +0000"
-  },
-  {
-    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
-    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
-    "source": "nyt",
-    "pubdate": "2025-10-12-13-58-28 +0000"
-  },
-  {
-    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
-    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
-    "source": "nyt",
-    "pubdate": "2025-10-12-13-58-28 +0000"
   },
   {
     "headline": "What to Know About the Gaza Deal",
@@ -324,20 +402,14 @@
     "pubdate": "2025-10-12-12-00-11 +0000"
   },
   {
-    "headline": "Not all stuffed, mounted animals are created equal when it comes to secondhand market",
-    "link": "https://www.startribune.com/youre-not-the-only-one-having-trouble-selling-that-old-stuffed-deer-head/601471052",
-    "source": "startribune",
-    "pubdate": "2025-10-12-12-00-00 +0000"
-  },
-  {
-    "headline": "Scoggins: Gophers got the job done vs. Purdue, but still have plenty to figure out",
-    "link": "https://www.startribune.com/gophers-issues-offensive-line-turnover-battle-purdue-chip-scoggins/601487110",
-    "source": "startribune",
-    "pubdate": "2025-10-12-12-00-00 +0000"
-  },
-  {
     "headline": "Yuen: The classroom distraction no one wants to talk about",
     "link": "https://www.startribune.com/yuen-the-classroom-distraction-no-one-wants-to-talk-about/601487161",
+    "source": "startribune",
+    "pubdate": "2025-10-12-12-00-00 +0000"
+  },
+  {
+    "headline": "Not all stuffed, mounted animals are created equal when it comes to secondhand market",
+    "link": "https://www.startribune.com/youre-not-the-only-one-having-trouble-selling-that-old-stuffed-deer-head/601471052",
     "source": "startribune",
     "pubdate": "2025-10-12-12-00-00 +0000"
   },
@@ -1044,6 +1116,12 @@
     "pubdate": "2025-10-12-01-00-00 +0000"
   },
   {
+    "headline": "Lockdowns and a Mysterious Meeting: A Quiet Texas Prison Adapts to Life With Ghislaine Maxwell",
+    "link": "https://www.wsj.com/us-news/ghislaine-maxwell-prison-transfer-epstein-b5efd6ac",
+    "source": "wsj",
+    "pubdate": "2025-10-12-01-00-00 +0000"
+  },
+  {
     "headline": "Here are some of the most notorious of the 250 Palestinian prisoners set to be released next week — and what they did",
     "link": "https://nypost.com/2025/10/11/world-news/here-are-some-of-the-most-notorious-of-the-250-palestinian-prisoners-set-to-be-released-next-week-and-what-they-did/",
     "source": "nypost",
@@ -1224,12 +1302,6 @@
     "pubdate": "2025-10-11-22-40-29 +0000"
   },
   {
-    "headline": "Veterans trek through Manhattan on horseback to promote suicide awareness for 8th annual Trail to Zero ride",
-    "link": "https://nypost.com/2025/10/11/us-news/veterans-trek-through-manhattan-on-horseback-to-promote-suicide-awareness-for-8th-annual-trail-to-zero-ride/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-22-24-18 +0000"
-  },
-  {
     "headline": "Trump orders Defense Dept. to issue military paychecks during shutdown",
     "link": "https://www.washingtonpost.com/politics/2025/10/11/military-pay-shutdown-trump/",
     "source": "wapo",
@@ -1246,12 +1318,6 @@
     "link": "https://www.bbc.com/news/articles/cx2jwgnwmezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-11-22-17-35 +0000"
-  },
-  {
-    "headline": "5 injured after helicopter loses control, crashes steps from bustling California beach",
-    "link": "https://nypost.com/2025/10/11/us-news/huntington-beach-california-helicopter-crash/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-22-16-53 +0000"
   },
   {
     "headline": "Outbursts by Katie Porter threaten gubernatorial ambitions",
@@ -1632,12 +1698,6 @@
     "pubdate": "2025-10-11-16-09-51 +0000"
   },
   {
-    "headline": "Trump set to fly to Israel to mark historic peace deal while preparing public for grim hostage release",
-    "link": "https://nypost.com/2025/10/11/us-news/trump-set-to-fly-to-israel-to-mark-historic-peace-deal-as-he-prepares-public-for-grim-hostage-release/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-16-09-51 +0000"
-  },
-  {
     "headline": "The Gold Rush in Manhattan’s Diamond District",
     "link": "https://www.wsj.com/finance/commodities-futures/the-gold-rush-in-manhattans-diamond-district-b5cb8671?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1660,12 +1720,6 @@
     "link": "https://www.wsj.com/us-news/law/trumps-favored-prosecutor-is-moving-at-full-steam-8b3cdecb",
     "source": "wsj",
     "pubdate": "2025-10-11-15-45-00 +0000"
-  },
-  {
-    "headline": "200 US soldiers arrive in Israel, as Witkoff confirms IDF troops completed first phase of withdrawal from Gaza",
-    "link": "https://nypost.com/2025/10/11/world-news/200-us-soldiers-arrive-in-israel-as-witkoff-confirms-idf-troops-completed-first-phase-of-withdrawal-from-gaza/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-15-43-04 +0000"
   },
   {
     "headline": "Critics Say Select Investors Gained From US Aid to Argentina",
@@ -1932,14 +1986,14 @@
     "pubdate": "2025-10-11-10-00-00 +0000"
   },
   {
-    "headline": "The controversial solution Long Beach has picked to battle shoplifters",
-    "link": "https://www.latimes.com/business/story/2025-10-11/long-beach-checkout-lane-ordinance",
+    "headline": "Hollywood-AI battle heats up, as OpenAI and studios clash over copyrights and consent",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-11/hollywood-ai-battle-heats-up-sora2-openai-sam-altman",
     "source": "latimes",
     "pubdate": "2025-10-11-10-00-00 +0000"
   },
   {
-    "headline": "Hollywood-AI battle heats up, as OpenAI and studios clash over copyrights and consent",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-11/hollywood-ai-battle-heats-up-sora2-openai-sam-altman",
+    "headline": "The controversial solution Long Beach has picked to battle shoplifters",
+    "link": "https://www.latimes.com/business/story/2025-10-11/long-beach-checkout-lane-ordinance",
     "source": "latimes",
     "pubdate": "2025-10-11-10-00-00 +0000"
   },
@@ -2904,18 +2958,6 @@
     "pubdate": "2025-10-10-19-37-00 +0000"
   },
   {
-    "headline": "Opinion | California Doesn’t Deserve Credit for Phonics",
-    "link": "https://www.wsj.com/opinion/phonics-is-a-train-wreck-switch-conductors-california-indiana-7db01588",
-    "source": "wsj",
-    "pubdate": "2025-10-10-19-36-00 +0000"
-  },
-  {
-    "headline": "AOC pleads with supporters to ‘rush’ donations to NY AG Letitia James after federal indictment",
-    "link": "https://nypost.com/2025/10/10/us-news/aoc-pleads-with-supporters-to-donate-to-ny-ag-letitia-james-after-federal-indictment/",
-    "source": "nypost",
-    "pubdate": "2025-10-10-19-35-23 +0000"
-  },
-  {
     "headline": "Parisians Protest Shein’s First Physical Store",
     "link": "https://www.nytimes.com/2025/10/10/business/shein-retail-store-paris-backlash.html",
     "source": "nyt",
@@ -2932,12 +2974,6 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-10/parents-television-council-conservative-watchdog-bankrupt-bush-fcc",
     "source": "latimes",
     "pubdate": "2025-10-10-19-32-57 +0000"
-  },
-  {
-    "headline": "Opinion | The Peace Deal Proves That Netanyahu’s Critics Were Wrong",
-    "link": "https://www.wsj.com/opinion/the-peace-deal-proves-that-netanyahus-critics-were-wrong-7be5b1cf",
-    "source": "wsj",
-    "pubdate": "2025-10-10-19-29-00 +0000"
   },
   {
     "headline": "Opinion | The Peace Deal Proves That Netanyahu’s Critics Were Wrong",
@@ -3070,12 +3106,6 @@
     "link": "https://www.nytimes.com/2025/10/10/business/first-brands-bankruptcy-wall-street.html",
     "source": "nyt",
     "pubdate": "2025-10-10-17-50-43 +0000"
-  },
-  {
-    "headline": "Taliban Expand Ties with India, While Accusing Pakistan of Bombing Afghanistan",
-    "link": "https://www.nytimes.com/2025/10/10/world/asia/kabul-explosions-india-pakistan.html",
-    "source": "nyt",
-    "pubdate": "2025-10-10-17-47-17 +0000"
   },
   {
     "headline": "Taliban Expand Ties with India, While Accusing Pakistan of Bombing Afghanistan",
@@ -3246,12 +3276,6 @@
     "pubdate": "2025-10-10-16-27-00 +0000"
   },
   {
-    "headline": "What to know about the Gaza ceasefire deal as it takes effect",
-    "link": "https://www.washingtonpost.com/world/2025/10/10/gaza-ceasefire-trump-israel-hamas/",
-    "source": "wapo",
-    "pubdate": "2025-10-10-16-26-41 +0000"
-  },
-  {
     "headline": "What Trump’s 20-Point Gaza Peace Plan Envisions",
     "link": "https://www.nytimes.com/2025/10/08/world/middleeast/trump-israel-hamas-gaza-ceasefire-deal.html",
     "source": "nyt",
@@ -3410,12 +3434,6 @@
   {
     "headline": "The Beauty Queens of MAGA World",
     "link": "https://www.wsj.com/politics/the-beauty-queens-of-maga-world-23bf590b",
-    "source": "wsj",
-    "pubdate": "2025-10-10-15-00-00 +0000"
-  },
-  {
-    "headline": "What Is the One Trait That Makes for a Great Manager? You Might Be Surprised",
-    "link": "https://www.wsj.com/business/c-suite/manager-strengths-rellocating-talent-f0add2da",
     "source": "wsj",
     "pubdate": "2025-10-10-15-00-00 +0000"
   },
@@ -3696,14 +3714,14 @@
     "pubdate": "2025-10-10-10-26-20 +0000"
   },
   {
-    "headline": "Cal State Long Beach student stabbed to death. Roommate charged with murder",
-    "link": "https://www.latimes.com/california/story/2025-10-10/csu-long-beach-student-stabbed-to-death-roomate-charged-with-murder",
+    "headline": "Arellano: Former bracero doesn't want the program to return. 'People will be treated like slaves'",
+    "link": "https://www.latimes.com/california/story/2025-10-10/bracero-program-donald-trump",
     "source": "latimes",
     "pubdate": "2025-10-10-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: Former bracero doesn't want the program to return. 'People will be treated like slaves'",
-    "link": "https://www.latimes.com/california/story/2025-10-10/bracero-program-donald-trump",
+    "headline": "Cal State Long Beach student stabbed to death. Roommate charged with murder",
+    "link": "https://www.latimes.com/california/story/2025-10-10/csu-long-beach-student-stabbed-to-death-roomate-charged-with-murder",
     "source": "latimes",
     "pubdate": "2025-10-10-10-00-00 +0000"
   },
@@ -4332,12 +4350,6 @@
     "pubdate": "2025-10-09-20-40-00 +0000"
   },
   {
-    "headline": "Opinion | Manchester and the Exodus From Britain",
-    "link": "https://www.wsj.com/opinion/manchester-and-the-exodus-from-britain-jews-antisemitism-63e32c90",
-    "source": "wsj",
-    "pubdate": "2025-10-09-20-37-00 +0000"
-  },
-  {
     "headline": "Opinion | Why Did Business Jump on the Trump Train?",
     "link": "https://www.wsj.com/opinion/why-did-business-jump-on-the-trump-train-corporations-df99a1a4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -4698,12 +4710,6 @@
     "pubdate": "2025-10-09-15-41-56 +0000"
   },
   {
-    "headline": "Canada’s Banking Sector Needs Increased Competition, Bank of Canada Official Says",
-    "link": "https://www.wsj.com/articles/canadas-banking-sector-needs-increased-competition-bank-of-canada-official-says-1d762931",
-    "source": "wsj",
-    "pubdate": "2025-10-09-15-40-00 +0000"
-  },
-  {
     "headline": "Lay’s Chips Are Getting a Makeover for the MAHA Era",
     "link": "https://www.wsj.com/business/retail/pepsico-lays-potato-chips-maha-fcbc9ee0?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -5034,14 +5040,14 @@
     "pubdate": "2025-10-09-10-04-26 +0000"
   },
   {
-    "headline": "L.A. County considers declaring state of emergency to fight back against ICE raids",
-    "link": "https://www.latimes.com/california/story/2025-10-09/la-county-considers-declaring-state-of-emergency-to-fight-back-against-ice-raids",
+    "headline": "Thunderstorms, muggy weather ahead for Southern California thanks to Hurricane Priscilla",
+    "link": "https://www.latimes.com/california/story/2025-10-09/socal-moisture-hurricane-priscilla",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "Thunderstorms, muggy weather ahead for Southern California thanks to Hurricane Priscilla",
-    "link": "https://www.latimes.com/california/story/2025-10-09/socal-moisture-hurricane-priscilla",
+    "headline": "L.A. County considers declaring state of emergency to fight back against ICE raids",
+    "link": "https://www.latimes.com/california/story/2025-10-09/la-county-considers-declaring-state-of-emergency-to-fight-back-against-ice-raids",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
@@ -5058,14 +5064,14 @@
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "Shoppers in California plan to splurge this holiday season — out of fear",
-    "link": "https://www.latimes.com/business/story/2025-10-09/inflation-fears-set-to-boost-holiday-shopping",
+    "headline": "This 'The Bear'-esque dining experience puts you in the center of the kitchen chaos",
+    "link": "https://www.latimes.com/lifestyle/story/2025-10-09/family-meal-interactive-dinner-experience-the-bear",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
   {
-    "headline": "This 'The Bear'-esque dining experience puts you in the center of the kitchen chaos",
-    "link": "https://www.latimes.com/lifestyle/story/2025-10-09/family-meal-interactive-dinner-experience-the-bear",
+    "headline": "Shoppers in California plan to splurge this holiday season — out of fear",
+    "link": "https://www.latimes.com/business/story/2025-10-09/inflation-fears-set-to-boost-holiday-shopping",
     "source": "latimes",
     "pubdate": "2025-10-09-10-00-00 +0000"
   },
@@ -5670,6 +5676,12 @@
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
+    "headline": "In the fire zones, an immigrant workforce warily carries out cleanups",
+    "link": "https://www.latimes.com/california/story/2025-10-08/in-the-fire-zones-an-immigrant-workforce-carries-out-clean-ups",
+    "source": "latimes",
+    "pubdate": "2025-10-08-10-00-00 +0000"
+  },
+  {
     "headline": "Arellano: Who knew ICE could be so funny? Just check out videos of their fails",
     "link": "https://www.latimes.com/california/story/2025-10-08/videos-of-ice-failing-good-for-laughs",
     "source": "latimes",
@@ -5682,8 +5694,8 @@
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
   {
-    "headline": "In the fire zones, an immigrant workforce warily carries out cleanups",
-    "link": "https://www.latimes.com/california/story/2025-10-08/in-the-fire-zones-an-immigrant-workforce-carries-out-clean-ups",
+    "headline": "A fridge for every apartment in California, thanks to a new law",
+    "link": "https://www.latimes.com/california/story/2025-10-08/new-law-refigerator-stove-required-los-angeles-apartments",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
@@ -5702,12 +5714,6 @@
   {
     "headline": "New conservation plan seeks to shoot Catalina's deer on the ground instead of from helicopters",
     "link": "https://www.latimes.com/environment/story/2025-10-08/new-proposal-seeks-to-eliminate-catalina-nonnative-deer",
-    "source": "latimes",
-    "pubdate": "2025-10-08-10-00-00 +0000"
-  },
-  {
-    "headline": "A fridge for every apartment in California, thanks to a new law",
-    "link": "https://www.latimes.com/california/story/2025-10-08/new-law-refigerator-stove-required-los-angeles-apartments",
     "source": "latimes",
     "pubdate": "2025-10-08-10-00-00 +0000"
   },
@@ -6042,12 +6048,6 @@
     "pubdate": "2025-10-07-17-32-49 +0000"
   },
   {
-    "headline": "Pope Leo to Visit Lebanon and Turkey",
-    "link": "https://www.nytimes.com/2025/10/07/world/europe/pope-leo-lebanon-turkey.html",
-    "source": "nyt",
-    "pubdate": "2025-10-07-17-16-57 +0000"
-  },
-  {
     "headline": "Lurie warns Sunset: Upzone, or S.F. could see ‘towers everywhere’",
     "link": "https://missionlocal.org/2025/10/sf-lurie-sunset-rezone-town-hall/",
     "source": "missionlocal",
@@ -6138,20 +6138,14 @@
     "pubdate": "2025-10-07-10-22-20 +0000"
   },
   {
-    "headline": "Signs of dyslexia and reading troubles can be spotted in kindergarten — or even preschool",
-    "link": "https://www.latimes.com/california/story/2025-10-07/dyslexia-spotted-early-kindergarten-literacy",
-    "source": "latimes",
-    "pubdate": "2025-10-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Fire after fire, L.A. County keeps promising to fix failures but doesn't deliver",
-    "link": "https://www.latimes.com/california/story/2025-10-07/another-report-finds-l-a-unprepared-for-fires-why-dont-we-do-this-any-better",
-    "source": "latimes",
-    "pubdate": "2025-10-07-10-00-00 +0000"
-  },
-  {
     "headline": "A huge $600-million casino — bigger than many Vegas rivals — is coming to California next month",
     "link": "https://www.latimes.com/california/story/2025-10-07/a-huge-600-million-casino-bigger-than-many-vegas-rivals-coming-to-california-next-month",
+    "source": "latimes",
+    "pubdate": "2025-10-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: So much winning. Can Bonta maintain California's legal hot streak against Trump?",
+    "link": "https://www.latimes.com/california/story/2025-10-07/la-me-chabria-column-trump-california-lawsuits-national-guard",
     "source": "latimes",
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
@@ -6162,8 +6156,14 @@
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: So much winning. Can Bonta maintain California's legal hot streak against Trump?",
-    "link": "https://www.latimes.com/california/story/2025-10-07/la-me-chabria-column-trump-california-lawsuits-national-guard",
+    "headline": "Signs of dyslexia and reading troubles can be spotted in kindergarten — or even preschool",
+    "link": "https://www.latimes.com/california/story/2025-10-07/dyslexia-spotted-early-kindergarten-literacy",
+    "source": "latimes",
+    "pubdate": "2025-10-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Fire after fire, L.A. County keeps promising to fix failures but doesn't deliver",
+    "link": "https://www.latimes.com/california/story/2025-10-07/another-report-finds-l-a-unprepared-for-fires-why-dont-we-do-this-any-better",
     "source": "latimes",
     "pubdate": "2025-10-07-10-00-00 +0000"
   },
@@ -6268,12 +6268,6 @@
     "link": "https://www.wsj.com/politics/elections/curtis-sliwa-nyc-mayor-race-7285cf35",
     "source": "wsj",
     "pubdate": "2025-10-07-09-30-00 +0000"
-  },
-  {
-    "headline": "'I deeply hurt people by moving to Saudi Arabia'",
-    "link": "https://www.bbc.com/sport/football/articles/c99gl941vedo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-07-06-38-54 +0000"
   },
   {
     "headline": "What are the key sticking points in Trump's Gaza peace plan?",
@@ -6562,11 +6556,5 @@
     "link": "https://www.latimes.com/world-nation/story/2025-10-05/newsom-trump-national-guard-oregon",
     "source": "latimes",
     "pubdate": "2025-10-05-18-37-30 +0000"
-  },
-  {
-    "headline": "Opinion | Retail Investors Finally Earn a Voice at Exxon",
-    "link": "https://www.wsj.com/opinion/retail-investors-finally-earn-a-voice-at-exxon-voting-program-ffdde636?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-05-16-36-00 +0000"
   }
 ]

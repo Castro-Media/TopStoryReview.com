@@ -1,5 +1,107 @@
 [
   {
+    "headline": "Israel and Hamas Were Not Ready for a Comprehensive Peace Deal, Mediator Says",
+    "link": "https://www.nytimes.com/2025/10/12/world/middleeast/israel-hamas-peace-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-50-23 +0000"
+  },
+  {
+    "headline": "Afghanistan says it killed 58 Pakistani soldiers after repeated airspace, territory violations",
+    "link": "https://nypost.com/2025/10/12/world-news/afghanistan-says-it-killed-58-pakistani-soldiers-overnight/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-49-57 +0000"
+  },
+  {
+    "headline": "Hamas Says It Is Ready to Hand Over 20 Living Israeli Hostages",
+    "link": "https://www.wsj.com/world/middle-east/hamas-says-its-ready-to-hand-over-20-living-israeli-hostages-8bf40741",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-39-00 +0000"
+  },
+  {
+    "headline": "Opinion | Can Cuomo Beat Mamdani?",
+    "link": "https://www.wsj.com/opinion/can-cuomo-beat-mamdani-5521cefe",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-31-00 +0000"
+  },
+  {
+    "headline": "Mali imposes $10,000 visa bond on US visitors in tit-for-tat move",
+    "link": "https://www.bbc.com/news/articles/cx2729glzx8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-12-16-30-23 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s War Drums in Venezuela",
+    "link": "https://www.wsj.com/opinion/trumps-war-drums-in-venezuela-5346a06d",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-30-00 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s War Drums in Venezuela",
+    "link": "https://www.wsj.com/opinion/trumps-war-drums-in-venezuela-5346a06d",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-30-00 +0000"
+  },
+  {
+    "headline": "Israel and Hamas Were Not Ready for a Comprehensive Peace Deal, Mediator Says",
+    "link": "https://www.nytimes.com/2025/10/12/world/middleeast/israel-hamas-peace-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-15-31 +0000"
+  },
+  {
+    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
+    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-12-50 +0000"
+  },
+  {
+    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
+    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-12-50 +0000"
+  },
+  {
+    "headline": "A Coordinated Squeeze Play Forced Hamas to Accept a Deal It Didn’t Want",
+    "link": "https://www.wsj.com/world/middle-east/a-coordinated-squeeze-play-forced-hamas-to-accept-a-deal-it-didnt-want-7753f9c8",
+    "source": "wsj",
+    "pubdate": "2025-10-12-16-12-00 +0000"
+  },
+  {
+    "headline": "Lawmakers, residents demand helicopter ban after relentless $1,275-a-seat flights to Ryder Cup torment Brooklyn",
+    "link": "https://nypost.com/2025/10/12/us-news/helicopter-ban-demanded-after-ryder-cup-flights-tortured-ny/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-06-55 +0000"
+  },
+  {
+    "headline": "How UK’s ‘worst sex offender’ got away with murder — and was finally caught 17 years later",
+    "link": "https://nypost.com/2025/10/12/world-news/how-uks-worst-sex-offender-got-away-with-murder-and-was-finally-caught/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-02-40 +0000"
+  },
+  {
+    "headline": "South Carolina Bar Shooting Leaves at Least 4 Dead, Sheriff Says",
+    "link": "https://www.nytimes.com/2025/10/12/us/south-carolina-st-helena-shooting-bar.html",
+    "source": "nyt",
+    "pubdate": "2025-10-12-16-02-32 +0000"
+  },
+  {
+    "headline": "Hillary Clinton draws Sydney Sweeney comparisons with 50th wedding anniversary throwback post: ‘I see the vision, Bill’",
+    "link": "https://nypost.com/2025/10/12/lifestyle/hillary-clinton-posts-throwback-pics-is-compared-to-sydney-sweeney/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-00-39 +0000"
+  },
+  {
+    "headline": "Hillary Clinton draws Sydney Sweeney comparisons with 50th wedding anniversary throwback post: ‘I see the vision, Bill’",
+    "link": "https://nypost.com/2025/10/12/lifestyle/hillary-clinton-posts-throwback-pics-is-compared-to-sydney-sweeney/",
+    "source": "nypost",
+    "pubdate": "2025-10-12-16-00-39 +0000"
+  },
+  {
+    "headline": "‘Superheroes’ save the Gophers against Purdue",
+    "link": "https://www.startribune.com/superheroes-save-the-gophers-against-purdue/601486980",
+    "source": "startribune",
+    "pubdate": "2025-10-12-16-00-00 +0000"
+  },
+  {
     "headline": "How Trump’s Chicago Immigration Crackdown Escalated, in 10 Videos",
     "link": "https://www.nytimes.com/2025/10/12/us/chicago-immigration-crackdown-videos.html",
     "source": "nyt",
@@ -144,12 +246,6 @@
     "pubdate": "2025-10-12-14-45-04 +0000"
   },
   {
-    "headline": "South Carolina Bar Shooting Leaves at Least 4 Dead, Sheriff Says",
-    "link": "https://www.nytimes.com/2025/10/12/us/south-carolina-st-helena-shooting-bar.html",
-    "source": "nyt",
-    "pubdate": "2025-10-12-14-38-41 +0000"
-  },
-  {
     "headline": "Madagascar president warns of coup attempt as more soldiers join protests",
     "link": "https://www.cbc.ca/news/world/madagascar-president-warns-coup-attempt-9.6936321?cmp=rss",
     "source": "cbc",
@@ -174,28 +270,10 @@
     "pubdate": "2025-10-12-14-29-23 +0000"
   },
   {
-    "headline": "'Oldest Black barbershop' in San Fernando Valley receives city landmark plaque",
+    "headline": "Historic Black barbershop in San Fernando Valley receives city landmark plaque",
     "link": "https://www.latimes.com/california/story/2025-10-12/pacoima-black-owned-barbershop-receives-landmark-status",
     "source": "latimes",
     "pubdate": "2025-10-12-14-23-32 +0000"
-  },
-  {
-    "headline": "Hamas Says It’s Ready to Hand Over 20 Living Israeli Hostages",
-    "link": "https://www.wsj.com/world/middle-east/hamas-says-its-ready-to-hand-over-20-living-israeli-hostages-8bf40741",
-    "source": "wsj",
-    "pubdate": "2025-10-12-14-05-00 +0000"
-  },
-  {
-    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
-    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
-    "source": "nyt",
-    "pubdate": "2025-10-12-13-58-28 +0000"
-  },
-  {
-    "headline": "Trump Is Blowing Up Boats Off Venezuela. Could Mexico’s Cartels Be Next?",
-    "link": "https://www.nytimes.com/2025/10/12/world/americas/mexico-drugs-venezuela-us-military.html",
-    "source": "nyt",
-    "pubdate": "2025-10-12-13-58-28 +0000"
   },
   {
     "headline": "What to Know About the Gaza Deal",
@@ -324,20 +402,14 @@
     "pubdate": "2025-10-12-12-00-11 +0000"
   },
   {
-    "headline": "Not all stuffed, mounted animals are created equal when it comes to secondhand market",
-    "link": "https://www.startribune.com/youre-not-the-only-one-having-trouble-selling-that-old-stuffed-deer-head/601471052",
-    "source": "startribune",
-    "pubdate": "2025-10-12-12-00-00 +0000"
-  },
-  {
-    "headline": "Scoggins: Gophers got the job done vs. Purdue, but still have plenty to figure out",
-    "link": "https://www.startribune.com/gophers-issues-offensive-line-turnover-battle-purdue-chip-scoggins/601487110",
-    "source": "startribune",
-    "pubdate": "2025-10-12-12-00-00 +0000"
-  },
-  {
     "headline": "Yuen: The classroom distraction no one wants to talk about",
     "link": "https://www.startribune.com/yuen-the-classroom-distraction-no-one-wants-to-talk-about/601487161",
+    "source": "startribune",
+    "pubdate": "2025-10-12-12-00-00 +0000"
+  },
+  {
+    "headline": "Not all stuffed, mounted animals are created equal when it comes to secondhand market",
+    "link": "https://www.startribune.com/youre-not-the-only-one-having-trouble-selling-that-old-stuffed-deer-head/601471052",
     "source": "startribune",
     "pubdate": "2025-10-12-12-00-00 +0000"
   },
@@ -1044,6 +1116,12 @@
     "pubdate": "2025-10-12-01-00-00 +0000"
   },
   {
+    "headline": "Lockdowns and a Mysterious Meeting: A Quiet Texas Prison Adapts to Life With Ghislaine Maxwell",
+    "link": "https://www.wsj.com/us-news/ghislaine-maxwell-prison-transfer-epstein-b5efd6ac",
+    "source": "wsj",
+    "pubdate": "2025-10-12-01-00-00 +0000"
+  },
+  {
     "headline": "Here are some of the most notorious of the 250 Palestinian prisoners set to be released next week — and what they did",
     "link": "https://nypost.com/2025/10/11/world-news/here-are-some-of-the-most-notorious-of-the-250-palestinian-prisoners-set-to-be-released-next-week-and-what-they-did/",
     "source": "nypost",
@@ -1224,12 +1302,6 @@
     "pubdate": "2025-10-11-22-40-29 +0000"
   },
   {
-    "headline": "Veterans trek through Manhattan on horseback to promote suicide awareness for 8th annual Trail to Zero ride",
-    "link": "https://nypost.com/2025/10/11/us-news/veterans-trek-through-manhattan-on-horseback-to-promote-suicide-awareness-for-8th-annual-trail-to-zero-ride/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-22-24-18 +0000"
-  },
-  {
     "headline": "Trump orders Defense Dept. to issue military paychecks during shutdown",
     "link": "https://www.washingtonpost.com/politics/2025/10/11/military-pay-shutdown-trump/",
     "source": "wapo",
@@ -1246,12 +1318,6 @@
     "link": "https://www.bbc.com/news/articles/cx2jwgnwmezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-11-22-17-35 +0000"
-  },
-  {
-    "headline": "5 injured after helicopter loses control, crashes steps from bustling California beach",
-    "link": "https://nypost.com/2025/10/11/us-news/huntington-beach-california-helicopter-crash/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-22-16-53 +0000"
   },
   {
     "headline": "Outbursts by Katie Porter threaten gubernatorial ambitions",
@@ -1588,71 +1654,5 @@
     "link": "https://www.cbc.ca/news/world/darfur-sudan-drone-attack-9.6935989?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-11-16-56-17 +0000"
-  },
-  {
-    "headline": "María Corina Machado Wins Nobel Peace Prize Despite Trump’s Campaign",
-    "link": "https://www.nytimes.com/2025/10/10/world/americas/machado-venezuela-nobel-peace-prize.html",
-    "source": "nyt",
-    "pubdate": "2025-10-11-16-52-40 +0000"
-  },
-  {
-    "headline": "María Corina Machado Wins Nobel Peace Prize Despite Trump’s Campaign",
-    "link": "https://www.nytimes.com/2025/10/10/world/americas/machado-venezuela-nobel-peace-prize.html",
-    "source": "nyt",
-    "pubdate": "2025-10-11-16-52-40 +0000"
-  },
-  {
-    "headline": "Trump administration says immigration enforcement threatens higher food prices",
-    "link": "https://www.washingtonpost.com/business/2025/10/11/immigration-crackdown-food-prices/",
-    "source": "wapo",
-    "pubdate": "2025-10-11-16-24-14 +0000"
-  },
-  {
-    "headline": "Half-priced iPhone? Inside the Mission’s hidden shop full of major bargains",
-    "link": "https://eltecolote.org/content/en/sf-discount-outlet-barato-barato/",
-    "source": "eltecolote",
-    "pubdate": "2025-10-11-16-11-36 +0000"
-  },
-  {
-    "headline": "Biden Is Receiving Radiation Therapy for Cancer",
-    "link": "https://www.nytimes.com/2025/10/11/us/politics/biden-cancer-radiation.html",
-    "source": "nyt",
-    "pubdate": "2025-10-11-16-10-30 +0000"
-  },
-  {
-    "headline": "Biden Is Receiving Radiation Therapy for Cancer",
-    "link": "https://www.nytimes.com/2025/10/11/us/politics/biden-cancer-radiation.html",
-    "source": "nyt",
-    "pubdate": "2025-10-11-16-10-30 +0000"
-  },
-  {
-    "headline": "Trump set to fly to Israel to mark historic peace deal while preparing public for grim hostage release",
-    "link": "https://nypost.com/2025/10/11/us-news/trump-set-to-fly-to-israel-to-mark-historic-peace-deal-as-he-prepares-public-for-grim-hostage-release/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-16-09-51 +0000"
-  },
-  {
-    "headline": "Trump set to fly to Israel to mark historic peace deal while preparing public for grim hostage release",
-    "link": "https://nypost.com/2025/10/11/us-news/trump-set-to-fly-to-israel-to-mark-historic-peace-deal-as-he-prepares-public-for-grim-hostage-release/",
-    "source": "nypost",
-    "pubdate": "2025-10-11-16-09-51 +0000"
-  },
-  {
-    "headline": "The Gold Rush in Manhattan’s Diamond District",
-    "link": "https://www.wsj.com/finance/commodities-futures/the-gold-rush-in-manhattans-diamond-district-b5cb8671?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-11-16-00-00 +0000"
-  },
-  {
-    "headline": "The Gold Rush in Manhattan’s Diamond District",
-    "link": "https://www.wsj.com/finance/commodities-futures/the-gold-rush-in-manhattans-diamond-district-b5cb8671?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-11-16-00-00 +0000"
-  },
-  {
-    "headline": "Trump administration starts laying off thousands of workers",
-    "link": "https://www.bbc.com/news/articles/c1mxd1g71vxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-11-15-58-17 +0000"
   }
 ]
