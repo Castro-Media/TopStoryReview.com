@@ -1,6 +1,6 @@
 [
   {
-    "score": 404,
+    "score": 410,
     "pubdate": "2025-10-12-22-52-05 +0000",
     "source": "nypost",
     "headline": "Hillary Clinton heaps rare praise on President Trump for handling of Israel-Hamas peace deal: ‘I really commend’",
@@ -14,11 +14,18 @@
     "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
   },
   {
-    "score": 178,
-    "pubdate": "2025-10-09-22-42-00 +0000",
-    "source": "wsj",
-    "headline": "Israeli Government Approves Hostage Deal Setting a Cease-Fire in Gaza",
-    "link": "https://www.wsj.com/world/middle-east/israel-hamas-gaza-hostage-ceasefire-deal-815d533f"
+    "score": 154,
+    "pubdate": "2025-10-11-14-04-47 +0000",
+    "source": "wapo",
+    "headline": "Arab states expanded cooperation with Israeli military during Gaza war, files show",
+    "link": "https://www.washingtonpost.com/national-security/2025/10/11/us-israel-arab-military-leaked-documents/"
+  },
+  {
+    "score": 141,
+    "pubdate": "2025-10-08-20-00-18 +0000",
+    "source": "latimes",
+    "headline": "'Why wasn't the fire put out on the 1st?' Cause of Palisades fire leaves residents with more questions",
+    "link": "https://www.latimes.com/california/story/2025-10-08/la-me-palisades-fire-reactions"
   },
   {
     "score": 129,
@@ -28,45 +35,38 @@
     "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 126,
-    "pubdate": "2025-10-13-03-42-00 +0000",
+    "score": 119,
+    "pubdate": "2025-10-11-20-36-00 +0000",
     "source": "wsj",
-    "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
-    "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
+    "headline": "Trump said funds have been identified to pay military servicemembers next week, with the government shutdown expected to continue and Congress still at an impasse",
+    "link": "https://www.wsj.com/politics/policy/trump-says-military-will-be-paid-despite-shutdown-a73e1587"
   },
   {
-    "score": 120,
-    "pubdate": "2025-10-12-02-04-52 +0000",
-    "source": "bbc",
-    "headline": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
-    "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 115,
+    "score": 114,
     "pubdate": "2025-10-08-19-36-45 +0000",
     "source": "latimes",
     "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
     "link": "https://www.latimes.com/politics/story/2025-10-08/california-national-guard-soldiers-to-illinois"
   },
   {
-    "score": 98,
-    "pubdate": "2025-10-11-11-55-13 +0000",
-    "source": "bbc",
-    "headline": "Watch: North Korea shows off huge missile at military parade",
-    "link": "https://www.bbc.com/news/videos/c8rvrk3y1rno?at_medium=RSS&at_campaign=rss"
+    "score": 112,
+    "pubdate": "2025-10-11-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "One of the world's biggest AI companies wants a deal with Canada. Is sovereignty the trade-off?",
+    "link": "https://www.cbc.ca/news/business/open-ai-canada-data-centres-digital-sovereignty-9.6935195?cmp=rss"
+  },
+  {
+    "score": 90,
+    "pubdate": "2025-10-12-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Hyundai Factory Was a Deadly Job Site Before It Was Raided by ICE",
+    "link": "https://www.wsj.com/us-news/hyundai-factory-was-a-deadly-job-site-before-it-was-raided-by-ice-42f77360?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 88,
-    "pubdate": "2025-10-08-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Arellano: Who knew ICE could be so funny? Just check out videos of their fails",
-    "link": "https://www.latimes.com/california/story/2025-10-08/videos-of-ice-failing-good-for-laughs"
-  },
-  {
-    "score": 82,
-    "pubdate": "2025-10-11-20-54-09 +0000",
-    "source": "nyt",
-    "headline": "Israelis Rally for Hostages in Gaza, Hoping It Will Be the Last Time",
-    "link": "https://www.nytimes.com/2025/10/11/world/middleeast/israel-hostages-square-rally.html"
+    "pubdate": "2025-10-13-06-34-59 +0000",
+    "source": "wapo",
+    "headline": "The seven hostages released so far have been named by Israeli Prime Minister Benjamin Netanyahu’s office...",
+    "link": "https://www.washingtonpost.com"
   }
 ]
