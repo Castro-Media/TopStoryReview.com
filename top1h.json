@@ -1,45 +1,10 @@
 [
   {
-    "score": 24,
-    "pubdate": "2025-10-13-06-47-09 +0000",
-    "source": "wapo",
-    "headline": "Live updates: Hamas releases first 7 hostages as Trump set to arrive in Israel",
-    "link": "https://www.washingtonpost.com/world/2025/10/13/trump-israel-gaza-hostage-release-news/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2025-10-13-06-00-00 +0000",
-    "source": "wsj",
-    "headline": "China’s Exports Rise at Fastest Pace in Six Months Despite U.S. Tariffs",
-    "link": "https://www.wsj.com/economy/trade/chinas-exports-rise-at-fastest-pace-in-six-months-despite-u-s-tariffs-123f115c"
-  },
-  {
-    "score": 17,
+    "score": 16,
     "pubdate": "2025-10-13-06-53-39 +0000",
     "source": "bbc",
     "headline": "Reeves urged to avoid 'half-baked' tax fixes in Budget",
     "link": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-10-13-06-05-09 +0000",
-    "source": "nyt",
-    "headline": "What Is Hostages Square, Where Israelis Are Waiting for the Captives’ Release?",
-    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/hostages-square-israel-tel-aviv.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-10-13-06-34-59 +0000",
-    "source": "wapo",
-    "headline": "The seven hostages released so far have been named by Israeli Prime Minister Benjamin Netanyahu’s office...",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-10-13-06-19-19 +0000",
-    "source": "wapo",
-    "headline": "President Donald Trump is expected to land in Israel soon, White House press secretary Karoline Leavitt...",
-    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 10,
@@ -49,24 +14,24 @@
     "link": "https://www.wsj.com/finance/banking/lloyds-banking-group-sets-aside-further-1-07-billion-for-car-loan-redress-68c2992d?mod=rss_markets_main"
   },
   {
-    "score": 10,
-    "pubdate": "2025-10-13-06-28-00 +0000",
-    "source": "wsj",
-    "headline": "Eurozone Bond Yields Rise as Investors Await Reappointed French PM’s Budget Draft",
-    "link": "https://www.wsj.com/articles/oversees-investors-may-be-reluctant-to-buy-jgbs-for-now-72f898b9?mod=rss_markets_main"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-13-06-21-00 +0000",
-    "source": "bbc",
-    "headline": "Boy, 11, shoots farm worker dead in tragic South Africa accident, police say",
-    "link": "https://www.bbc.com/news/articles/ce86dvr03zqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 9,
-    "pubdate": "2025-10-13-06-07-46 +0000",
-    "source": "nypost",
-    "headline": "Community near site of deadly Tennessee plant explosion mourns 16 killed",
-    "link": "https://nypost.com/2025/10/13/us-news/community-near-site-of-deadly-tennessee-plant-explosion-mourns-16-killed/"
+    "pubdate": "2025-10-13-06-55-41 +0000",
+    "source": "bbc",
+    "headline": "Badenoch demands PM address 'unanswered' China spy case questions",
+    "link": "https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-10-13-06-55-00 +0000",
+    "source": "wsj",
+    "headline": "What to know about the Gaza deal between Israel and Hamas",
+    "link": "https://www.wsj.com/world/middle-east/israel-hamas-peace-plan-gaza-explained-2a7442ac"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-13-06-53-39 +0000",
+    "source": "bbc",
+    "headline": "Reeves urged to avoid 'half-baked' tax fixes in Budget",
+    "link": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss"
   }
 ]
