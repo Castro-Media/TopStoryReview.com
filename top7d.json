@@ -1,24 +1,31 @@
 [
   {
-    "score": 409,
+    "score": 400,
     "pubdate": "2025-10-12-22-52-05 +0000",
     "source": "nypost",
     "headline": "Hillary Clinton heaps rare praise on President Trump for handling of Israel-Hamas peace deal: ‘I really commend’",
     "link": "https://nypost.com/2025/10/12/us-news/hillary-clinton-heaps-rare-praise-on-president-trump-for-handling-of-israel-hamas-peace-deal-i-really-commend/"
   },
   {
-    "score": 197,
-    "pubdate": "2025-10-10-23-00-00 +0000",
+    "score": 190,
+    "pubdate": "2025-10-09-10-39-00 +0000",
     "source": "wsj",
-    "headline": "President Trump said Friday he would hit China with a 100% additional tariff and impose new export controls on critical software products",
-    "link": "https://www.wsj.com/politics/policy/trump-china-tariffs-rare-earths-xi-meeting-8053c81a"
+    "headline": "China introduced new controls on rare-earth exports on Thursday, requiring foreign entities to obtain government approval before re-exporting products of Chinese origin to other countries",
+    "link": "https://www.wsj.com/economy/trade/china-imposes-new-controls-over-rare-earth-exports-35a4b106"
   },
   {
-    "score": 177,
-    "pubdate": "2025-10-09-22-42-00 +0000",
-    "source": "wsj",
-    "headline": "Israeli Government Approves Hostage Deal Setting a Cease-Fire in Gaza",
-    "link": "https://www.wsj.com/world/middle-east/israel-hamas-gaza-hostage-ceasefire-deal-815d533f"
+    "score": 158,
+    "pubdate": "2025-10-11-14-04-47 +0000",
+    "source": "wapo",
+    "headline": "Arab states expanded cooperation with Israeli military during Gaza war, files show",
+    "link": "https://www.washingtonpost.com/national-security/2025/10/11/us-israel-arab-military-leaked-documents/"
+  },
+  {
+    "score": 142,
+    "pubdate": "2025-10-08-20-00-18 +0000",
+    "source": "latimes",
+    "headline": "'Why wasn't the fire put out on the 1st?' Cause of Palisades fire leaves residents with more questions",
+    "link": "https://www.latimes.com/california/story/2025-10-08/la-me-palisades-fire-reactions"
   },
   {
     "score": 129,
@@ -28,42 +35,35 @@
     "link": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 121,
-    "pubdate": "2025-10-11-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Jared Kushner, who had sworn off any formal role in President Trump’s second term, has been at the center of every decision leading up to the breakthrough agreement between Israel and Hamas",
-    "link": "https://www.wsj.com/world/middle-east/jared-kushner-trump-second-term-5738956b"
-  },
-  {
-    "score": 117,
+    "score": 119,
     "pubdate": "2025-10-08-19-36-45 +0000",
     "source": "latimes",
     "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
     "link": "https://www.latimes.com/politics/story/2025-10-08/california-national-guard-soldiers-to-illinois"
   },
   {
-    "score": 117,
-    "pubdate": "2025-10-12-02-04-52 +0000",
-    "source": "bbc",
-    "headline": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
-    "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
+    "score": 114,
+    "pubdate": "2025-10-11-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "One of the world's biggest AI companies wants a deal with Canada. Is sovereignty the trade-off?",
+    "link": "https://www.cbc.ca/news/business/open-ai-canada-data-centres-digital-sovereignty-9.6935195?cmp=rss"
   },
   {
-    "score": 104,
-    "pubdate": "2025-10-12-18-39-55 +0000",
-    "source": "nypost",
-    "headline": "Kamala Harris reveals Biden sent her call to voicemail when ex-VP reached out about cancer treatment",
-    "link": "https://nypost.com/2025/10/12/us-news/kamala-harris-left-biden-voicemail-after-radiation-therapy-news/"
+    "score": 112,
+    "pubdate": "2025-10-11-23-27-30 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Will Pay Troops Despite Government Shutdown",
+    "link": "https://www.nytimes.com/2025/10/11/us/politics/trump-troops-pay-shutdown.html"
   },
   {
-    "score": 99,
+    "score": 89,
     "pubdate": "2025-10-12-13-00-00 +0000",
     "source": "wsj",
     "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 79,
+    "score": 80,
     "pubdate": "2025-10-11-18-19-42 +0000",
     "source": "cbc",
     "headline": "Tennessee authorities confirm 16 dead, no survivors from explosives factory blast",
