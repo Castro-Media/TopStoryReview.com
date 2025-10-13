@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 36,
+    "pubdate": "2025-10-13-05-18-15 +0000",
+    "source": "wapo",
+    "headline": "China vows to retaliate if Trump makes good on 100 percent tariff threat",
+    "link": "https://www.washingtonpost.com/world/2025/10/12/trump-tariff-threat-china-retaliation/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-10-13-05-19-36 +0000",
+    "source": "bbc",
+    "headline": "Netherlands cracks down on China-owned chip firm over security risk",
+    "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-13-05-31-15 +0000",
+    "source": "nypost",
+    "headline": "‘War is over’ Trump declares on Air Force One as he heads to Israel for hostage release",
+    "link": "https://nypost.com/2025/10/13/world-news/war-is-over-trump-declares-on-air-force-one-as-he-heads-to-israel-for-hostage-release/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-13-05-48-15 +0000",
+    "source": "wapo",
+    "headline": "The International Committee of the Red Cross early Monday said it had begun “a multi-phase operation...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-13-05-34-11 +0000",
+    "source": "nyt",
+    "headline": "What Is Hostages Square, Where Israelis Are Waiting for the Captives’ Release?",
+    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/hostages-square-israel-tel-aviv.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-13-04-57-37 +0000",
+    "source": "bbc",
+    "headline": "China accuses US of 'double standards' over tariff threat",
+    "link": "https://www.bbc.com/news/articles/cn828kg8rmzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-13-05-04-09 +0000",
+    "source": "startribune",
+    "headline": "Rep. Ilhan Omar endorses Omar Fateh for Minneapolis mayor",
+    "link": "https://www.startribune.com/rep-ilhan-omar-endorses-omar-fateh-for-minneapolis-mayor/601491100"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-13-05-43-02 +0000",
+    "source": "nyt",
+    "headline": "Mexico’s President Is Popular. So Is Her Professional Lookalike.",
+    "link": "https://www.nytimes.com/2025/10/10/world/americas/mexico-president-sheinbaum-impersonator.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-13-05-26-56 +0000",
+    "source": "wapo",
+    "headline": "The Palestinian Prisoners Club on Monday morning published a list of names of more than 1,700...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-13-05-22-32 +0000",
+    "source": "nyt",
+    "headline": "What Is the Red Cross’s Role in Israel-Hamas Exchanges?",
+    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/red-cross-israel-hamas-exchanges.html"
+  }
+]
