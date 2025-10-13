@@ -1,38 +1,212 @@
 [
   {
+    "headline": "Israel begins releasing Palestinian detainees and prisoners",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-13-14-49-51 +0000"
+  },
+  {
+    "headline": "Live updates: Trump says war in Gaza ‘is over,’ arrives in Egypt as Israel celebrates release of hostages",
+    "link": "https://www.washingtonpost.com/world/2025/10/13/trump-israel-gaza-hostage-release-news/",
+    "source": "wapo",
+    "pubdate": "2025-10-13-14-49-51 +0000"
+  },
+  {
     "headline": "Live Updates: Hostages and Palestinian Prisoners Are Freed as Trump Hails ‘Historic Dawn’ in Mideast",
     "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump",
     "source": "nyt",
-    "pubdate": "2025-10-13-13-03-23 +0000"
+    "pubdate": "2025-10-13-14-46-27 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-13-13-00-32 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-10-13-13-00-32 +0000"
-  },
-  {
-    "headline": "Living hostages and Palestinian prisoners are released as part of ceasefire in Gaza",
-    "link": "https://www.startribune.com/israel-prepares-to-welcome-the-last-living-hostages-from-gaza-as-a-ceasefire-holds/601491079",
-    "source": "startribune",
-    "pubdate": "2025-10-13-13-00-02 +0000"
-  },
-  {
-    "headline": "Families in Gaza rejoice, others mourn as they scour list of detainees set for release",
+    "headline": "U.K. to announce $26 million Gaza aid package, host rebuilding conference",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
-    "pubdate": "2025-10-13-12-54-42 +0000"
+    "pubdate": "2025-10-13-14-45-52 +0000"
   },
   {
-    "headline": "Live updates: Trump declares ‘dawn of a new Middle East,’ celebrating release of all living hostages",
-    "link": "https://www.washingtonpost.com/world/2025/10/13/trump-israel-gaza-hostage-release-news/",
+    "headline": "What We Know About the Deal Between Israel and Hamas",
+    "link": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-deal-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-45-48 +0000"
+  },
+  {
+    "headline": "Trump arrives in Egypt for Gaza summit after urging Israel to seize a chance for peace",
+    "link": "https://www.startribune.com/trump-arriving-in-israel-to-tout-a-ceasefire-he-believes-could-foster-lasting-middle-east-peace/601491113",
+    "source": "startribune",
+    "pubdate": "2025-10-13-14-45-04 +0000"
+  },
+  {
+    "headline": "Israel has released all the Palestinian detainees and prisoners it had pledged to as part of...",
+    "link": "https://www.washingtonpost.com",
     "source": "wapo",
-    "pubdate": "2025-10-13-12-54-42 +0000"
+    "pubdate": "2025-10-13-14-44-35 +0000"
+  },
+  {
+    "headline": "Gold Scales New Peaks on Trade Tensions, Rate-Cut Hopes",
+    "link": "https://www.wsj.com/articles/gold-rises-buoyed-by-monetary-debasement-fears-bf234140?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-13-14-44-00 +0000"
+  },
+  {
+    "headline": "Air Force One was escorted by F-16s from the Egyptian Air Force as Trump arrived in...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-13-14-43-31 +0000"
+  },
+  {
+    "headline": "The controversy over the collapsed China spy case explained",
+    "link": "https://www.bbc.com/news/articles/ceq057734w1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-13-14-42-49 +0000"
+  },
+  {
+    "headline": "Billions of Dollars ‘Vanished’: Low-Profile Bankruptcy Rings Alarms on Wall Street",
+    "link": "https://www.nytimes.com/2025/10/10/business/first-brands-bankruptcy-wall-street.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-41-03 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-32-12 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-32-12 +0000"
+  },
+  {
+    "headline": "Carmakers go on trial over 'dieselgate' emissions cheat claims",
+    "link": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-13-14-31-36 +0000"
+  },
+  {
+    "headline": "Egypt aims to cement Trump commitment to end war at summit with world leaders",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-13-14-30-51 +0000"
+  },
+  {
+    "headline": "President Donald Trump’s plane has arrived in Sharm el-Sheikh, Egypt, where he’ll greet world leaders gathered...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-13-14-29-44 +0000"
+  },
+  {
+    "headline": "Silver Soars to New Highs Driven by Gold’s Rally, Liquidity Squeeze",
+    "link": "https://www.wsj.com/finance/commodities-futures/silver-soars-to-new-highs-driven-by-golds-rally-liquidity-squeeze-ebb39595?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-13-14-29-00 +0000"
+  },
+  {
+    "headline": "The Release of Israeli Hostages and Palestinian Prisoners in Photos and Videos",
+    "link": "https://www.nytimes.com/2025/10/13/world/europe/israel-hostages-gaza-prisoner-released-photos.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-24-38 +0000"
+  },
+  {
+    "headline": "The Release of Israeli Hostages and Palestinian Prisoners in Photos and Videos",
+    "link": "https://www.nytimes.com/2025/10/13/world/europe/israel-hostages-gaza-prisoner-released-photos.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-24-38 +0000"
+  },
+  {
+    "headline": "Joel Mokyr, Philippe Aghion and Peter Howitt Share Nobel in Economics",
+    "link": "https://www.nytimes.com/2025/10/13/business/nobel-prize-economics.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-24-21 +0000"
+  },
+  {
+    "headline": "Nobel economics prize recognizes creative destruction in innovation, growth",
+    "link": "https://www.washingtonpost.com/business/2025/10/13/nobel-economics-prize/",
+    "source": "wapo",
+    "pubdate": "2025-10-13-14-21-38 +0000"
+  },
+  {
+    "headline": "Trump Declares an End to Gaza War in Middle East Victory Lap",
+    "link": "https://www.wsj.com/world/middle-east/trump-declares-an-end-to-gaza-war-in-middle-east-victory-lap-7e01c217",
+    "source": "wsj",
+    "pubdate": "2025-10-13-14-20-00 +0000"
+  },
+  {
+    "headline": "Here are the key developments",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-13-14-14-29 +0000"
+  },
+  {
+    "headline": "Macron Urges Stability Despite Calls for Government Ouster in France",
+    "link": "https://www.nytimes.com/2025/10/13/world/europe/macron-france-government.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-12-06 +0000"
+  },
+  {
+    "headline": "Macron Urges Stability Despite Calls for Government Ouster in France",
+    "link": "https://www.nytimes.com/2025/10/13/world/europe/macron-france-government.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-12-06 +0000"
+  },
+  {
+    "headline": "Miami Says Farewell to Its Seaquarium",
+    "link": "https://www.nytimes.com/2025/10/13/us/miami-seaquarium-closing.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-14-08-56 +0000"
+  },
+  {
+    "headline": "Gov. Newsom signs AI safety bill aimed at protecting children from chatbots",
+    "link": "https://www.latimes.com/business/story/2025-10-13/gov-newsom-signs-ai-safety-bill",
+    "source": "latimes",
+    "pubdate": "2025-10-13-14-06-13 +0000"
+  },
+  {
+    "headline": "Salesforce’s $15 Billion Investment in San Francisco Will Support AI Innovation",
+    "link": "https://www.wsj.com/tech/ai/salesforces-15-billion-investment-in-san-francisco-will-support-ai-innovation-9a98dfc5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-13-14-04-00 +0000"
+  },
+  {
+    "headline": "Trump Wants More Natural-Gas Exports and Lower Energy Prices. It’s Going to Be Tricky.",
+    "link": "https://www.wsj.com/business/energy-oil/trump-wants-more-natural-gas-exports-and-lower-energy-prices-its-going-to-be-tricky-d716bd9e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-13-14-00-00 +0000"
+  },
+  {
+    "headline": "Trump Wants More Natural-Gas Exports and Lower Energy Prices. It’s Going to Be Tricky.",
+    "link": "https://www.wsj.com/business/energy-oil/trump-wants-more-natural-gas-exports-and-lower-energy-prices-its-going-to-be-tricky-d716bd9e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-13-14-00-00 +0000"
+  },
+  {
+    "headline": "Coal Miners With Black Lung Say They Are ‘Cast Aside to Die’ Under Trump",
+    "link": "https://www.nytimes.com/2025/10/13/climate/coal-miners-black-lung-protest-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-10-13-13-59-58 +0000"
+  },
+  {
+    "headline": "Trump says Gaza war ‘is over,’ offers sweeping claims of peace in Middle East",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-10-13-13-57-29 +0000"
+  },
+  {
+    "headline": "State of emergency declared in NYC, Long Island and Westchester County as nor’easter slams area",
+    "link": "https://nypost.com/2025/10/13/us-news/state-of-emergency-declared-in-nyc-long-island-and-westchester-county-as-noreaster-slams-area/",
+    "source": "nypost",
+    "pubdate": "2025-10-13-13-56-55 +0000"
+  },
+  {
+    "headline": "Israel starts releasing nearly 2,000 Palestinian prisoners — including murderers and terrorists",
+    "link": "https://nypost.com/2025/10/13/world-news/israel-starts-releasing-nearly-2000-palestinian-prisoners/",
+    "source": "nypost",
+    "pubdate": "2025-10-13-13-56-50 +0000"
+  },
+  {
+    "headline": "Click Energy announces first electricity rise in over three years",
+    "link": "https://www.bbc.com/news/articles/c709j8z52ldo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-13-13-56-03 +0000"
   }
 ]

@@ -1,44 +1,72 @@
 [
   {
-    "score": 21,
-    "pubdate": "2025-10-13-12-54-42 +0000",
+    "score": 44,
+    "pubdate": "2025-10-13-14-49-51 +0000",
     "source": "wapo",
-    "headline": "Live updates: Trump declares ‘dawn of a new Middle East,’ celebrating release of all living hostages",
+    "headline": "Live updates: Trump says war in Gaza ‘is over,’ arrives in Egypt as Israel celebrates release of hostages",
     "link": "https://www.washingtonpost.com/world/2025/10/13/trump-israel-gaza-hostage-release-news/"
   },
   {
-    "score": 9,
-    "pubdate": "2025-10-13-12-54-42 +0000",
+    "score": 19,
+    "pubdate": "2025-10-13-13-56-50 +0000",
+    "source": "nypost",
+    "headline": "Israel starts releasing nearly 2,000 Palestinian prisoners — including murderers and terrorists",
+    "link": "https://nypost.com/2025/10/13/world-news/israel-starts-releasing-nearly-2000-palestinian-prisoners/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-13-14-29-44 +0000",
     "source": "wapo",
-    "headline": "Families in Gaza rejoice, others mourn as they scour list of detainees set for release",
+    "headline": "President Donald Trump’s plane has arrived in Sharm el-Sheikh, Egypt, where he’ll greet world leaders gathered...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-13-13-03-23 +0000",
+    "score": 14,
+    "pubdate": "2025-10-13-14-12-06 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Hostages and Palestinian Prisoners Are Freed as Trump Hails ‘Historic Dawn’ in Mideast",
-    "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump"
+    "headline": "Macron Urges Stability Despite Calls for Government Ouster in France",
+    "link": "https://www.nytimes.com/2025/10/13/world/europe/macron-france-government.html"
   },
   {
-    "score": 4,
-    "pubdate": "2025-10-13-13-00-32 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest"
+    "score": 13,
+    "pubdate": "2025-10-13-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Wants More Natural-Gas Exports and Lower Energy Prices. It’s Going to Be Tricky.",
+    "link": "https://www.wsj.com/business/energy-oil/trump-wants-more-natural-gas-exports-and-lower-energy-prices-its-going-to-be-tricky-d716bd9e?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 3,
-    "pubdate": "2025-10-13-13-00-02 +0000",
-    "source": "startribune",
-    "headline": "Living hostages and Palestinian prisoners are released as part of ceasefire in Gaza",
-    "link": "https://www.startribune.com/israel-prepares-to-welcome-the-last-living-hostages-from-gaza-as-a-ceasefire-holds/601491079"
+    "score": 12,
+    "pubdate": "2025-10-13-14-43-31 +0000",
+    "source": "wapo",
+    "headline": "Air Force One was escorted by F-16s from the Egyptian Air Force as Trump arrived in...",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 0,
-    "pubdate": "2025-10-13-13-00-32 +0000",
+    "score": 11,
+    "pubdate": "2025-10-13-14-44-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Scales New Peaks on Trade Tensions, Rate-Cut Hopes",
+    "link": "https://www.wsj.com/articles/gold-rises-buoyed-by-monetary-debasement-fears-bf234140?mod=rss_markets_main"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-13-14-06-13 +0000",
+    "source": "latimes",
+    "headline": "Gov. Newsom signs AI safety bill aimed at protecting children from chatbots",
+    "link": "https://www.latimes.com/business/story/2025-10-13/gov-newsom-signs-ai-safety-bill"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-13-13-56-55 +0000",
+    "source": "nypost",
+    "headline": "State of emergency declared in NYC, Long Island and Westchester County as nor’easter slams area",
+    "link": "https://nypost.com/2025/10/13/us-news/state-of-emergency-declared-in-nyc-long-island-and-westchester-county-as-noreaster-slams-area/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-13-14-24-21 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest"
+    "headline": "Joel Mokyr, Philippe Aghion and Peter Howitt Share Nobel in Economics",
+    "link": "https://www.nytimes.com/2025/10/13/business/nobel-prize-economics.html"
   }
 ]
