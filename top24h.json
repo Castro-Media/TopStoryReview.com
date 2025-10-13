@@ -1,31 +1,45 @@
 [
   {
-    "score": 163,
+    "score": 188,
     "pubdate": "2025-10-13-07-02-16 +0000",
     "source": "wapo",
     "headline": "President Donald Trump landed in Israel Monday morning, shortly after Hamas released seven Israeli hostages from...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 95,
+    "score": 101,
     "pubdate": "2025-10-13-03-42-00 +0000",
     "source": "wsj",
     "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 67,
+    "score": 74,
+    "pubdate": "2025-10-12-22-22-15 +0000",
+    "source": "nypost",
+    "headline": "Israeli hostage release feels tantalizingly close for Central Park hostage supporters: ‘A new day has begun’",
+    "link": "https://nypost.com/2025/10/12/us-news/hundreds-celebrate-gaza-cease-fire-in-central-park-on-the-eve-of-hostage-release/"
+  },
+  {
+    "score": 58,
     "pubdate": "2025-10-13-03-49-11 +0000",
     "source": "nyt",
     "headline": "Why Now? The Lost Chances to Reach a Hostage Deal, and a Cease-Fire, Months Ago",
     "link": "https://www.nytimes.com/2025/10/12/us/politics/lost-chances-hostage-deal-gaza-israel.html"
   },
   {
-    "score": 49,
-    "pubdate": "2025-10-13-07-05-15 +0000",
-    "source": "nypost",
-    "headline": "Fighting breaks out between Hamas and armed clan members in Gaza City: report",
-    "link": "https://nypost.com/2025/10/13/world-news/fighting-breaks-out-between-hamas-and-armed-clan-members-in-gaza-city-report/"
+    "score": 53,
+    "pubdate": "2025-10-12-19-54-18 +0000",
+    "source": "cbc",
+    "headline": "Carney to attend Gaza peace summit in Egypt on Monday: Prime Minister's Office",
+    "link": "https://www.cbc.ca/news/politics/carney-gaza-peace-summit-egypt-9.6936495?cmp=rss"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-10-13-09-57-44 +0000",
+    "source": "bbc",
+    "headline": "Forty-two killed as bus crashes on South Africa mountain pass",
+    "link": "https://www.bbc.com/news/articles/cr5en8325yno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 42,
@@ -35,38 +49,24 @@
     "link": "https://nypost.com/2025/10/12/us-news/zelensky-suggests-tomahawk-missiles-could-make-progress-toward-ending-war-vows-to-only-use-them-on-military-targets/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-10-12-17-23-38 +0000",
-    "source": "nyt",
-    "headline": "Cars to Fighter Jets: China’s New Export Curbs May Level a Heavy Blow Worldwide",
-    "link": "https://www.nytimes.com/2025/10/12/business/china-rare-earth-export-controls.html"
+    "score": 40,
+    "pubdate": "2025-10-13-10-05-00 +0000",
+    "source": "wsj",
+    "headline": "Joel Mokyr, Philippe Aghion and Peter Howitt were awarded the Nobel Prize in Economic Sciences for their work explaining how innovation and creative destruction drive growth",
+    "link": "https://www.wsj.com/economy/nobel-economics-prize-2025-joel-mokyr-philippe-aghion-peter-howitt-1d26f359"
   },
   {
-    "score": 38,
+    "score": 39,
     "pubdate": "2025-10-13-08-24-18 +0000",
     "source": "nypost",
     "headline": "Mamdani’s wife mourns death of Palestinian influencer Saleh al-Jafarawi, who celebrated Oct. 7 attacks",
     "link": "https://nypost.com/2025/10/13/world-news/mamdanis-wife-mourns-death-of-palestinian-influencer-saleh-al-jafarawi-who-celebrated-oct-7-attacks/"
   },
   {
-    "score": 37,
-    "pubdate": "2025-10-12-23-00-00 +0000",
+    "score": 36,
+    "pubdate": "2025-10-12-16-52-00 +0000",
     "source": "wsj",
-    "headline": "South Korea Promises It Will Rekindle U.S. Shipbuilding. That’s Still Far Off.",
-    "link": "https://www.wsj.com/economy/trade/south-korea-us-shipbuilding-industry-timeline-5857c728"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-10-13-08-00-00 +0000",
-    "source": "latimes",
-    "headline": "This is 'a test,' Obama says of the U.S. under Trump. He gets candid with podcaster Marc Maron",
-    "link": "https://www.latimes.com/politics/story/2025-10-13/obama-podcast-marc-maron-convictions-decency-norms-california"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-10-12-12-36-07 +0000",
-    "source": "nypost",
-    "headline": "Hamas ready to begin freeing 20 living Israeli hostages a day earlier than expected in Trump peace deal",
-    "link": "https://nypost.com/2025/10/12/world-news/hamas-to-begin-freeing-20-living-israeli-hostages-a-day-earlier-than-expected-in-trump-peace-deal/"
+    "headline": "Behind the Collapse of an Auto-Parts Giant: $2 Billion Hole and Mysterious CEO",
+    "link": "https://www.wsj.com/business/first-brands-collapse-patrick-james-306d7869?mod=pls_whats_news_us_business_f"
   }
 ]
