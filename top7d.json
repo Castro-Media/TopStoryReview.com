@@ -1,6 +1,6 @@
 [
   {
-    "score": 521,
+    "score": 516,
     "pubdate": "2025-10-13-10-42-59 +0000",
     "source": "wapo",
     "headline": "Israeli officials praised President Donald Trump during a special parliamentary session that Trump is expected to...",
@@ -29,24 +29,17 @@
   },
   {
     "score": 155,
-    "pubdate": "2025-10-07-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Curtis Sliwa has six cats, wears a red beret and is running to be the next mayor of New York City. Many wish he wouldn’t.",
-    "link": "https://www.wsj.com/politics/elections/curtis-sliwa-nyc-mayor-race-7285cf35"
+    "pubdate": "2025-10-14-01-59-18 +0000",
+    "source": "cbc",
+    "headline": "New York Times, AP, Reuters and Newsmax among news organizations fighting new press rules",
+    "link": "https://www.cbc.ca/news/world/new-york-times-ap-newsmax-pentagon-rules-9.6937341?cmp=rss"
   },
   {
-    "score": 139,
-    "pubdate": "2025-10-08-20-00-18 +0000",
-    "source": "latimes",
-    "headline": "'Why wasn't the fire put out on the 1st?' Cause of Palisades fire leaves residents with more questions",
-    "link": "https://www.latimes.com/california/story/2025-10-08/la-me-palisades-fire-reactions"
-  },
-  {
-    "score": 138,
-    "pubdate": "2025-10-14-01-00-00 +0000",
+    "score": 153,
+    "pubdate": "2025-10-11-21-29-00 +0000",
     "source": "wsj",
-    "headline": "The White House move to lay off roughly 4,000 government workers amid the shutdown is expected to affect everything from financing community development to supporting special education",
-    "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-federal-layoffs-agencies-5f58cd1a"
+    "headline": "Budget chief Russell Vought had vowed to fire federal workers if Democrats refused to vote to reopen the government. On Friday, he did so.",
+    "link": "https://www.wsj.com/politics/policy/what-to-know-about-trumps-latest-round-of-government-layoffs-354b7b45"
   },
   {
     "score": 121,
@@ -56,17 +49,24 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 118,
+    "score": 116,
+    "pubdate": "2025-10-08-19-36-45 +0000",
+    "source": "latimes",
+    "headline": "Trump sends California National Guard to Chicago as White House seeks to extend control",
+    "link": "https://www.latimes.com/politics/story/2025-10-08/california-national-guard-soldiers-to-illinois"
+  },
+  {
+    "score": 116,
     "pubdate": "2025-10-13-09-06-41 +0000",
     "source": "nypost",
     "headline": "Heartwarming moment shows Israeli hostage speaking with mother for the first time in two years: ‘You’re coming home!’",
     "link": "https://nypost.com/2025/10/13/world-news/mother-of-israeli-hostage-matan-zangauker-speaks-with-son-for-the-first-time-in-two-years/"
   },
   {
-    "score": 97,
-    "pubdate": "2025-10-13-06-34-59 +0000",
-    "source": "wapo",
-    "headline": "The seven hostages released so far have been named by Israeli Prime Minister Benjamin Netanyahu’s office...",
-    "link": "https://www.washingtonpost.com"
+    "score": 100,
+    "pubdate": "2025-10-12-02-04-52 +0000",
+    "source": "bbc",
+    "headline": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
+    "link": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss"
   }
 ]
