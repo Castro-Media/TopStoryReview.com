@@ -1,6 +1,6 @@
 [
   {
-    "score": 193,
+    "score": 190,
     "pubdate": "2025-10-14-20-13-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced another lethal military strike on an alleged drug-trafficking boat off the coast of Venezuela, which killed six people",
@@ -35,13 +35,6 @@
     "link": "https://nypost.com/2025/10/14/us-news/hamas-will-disarm-or-we-will-disarm-them-trump/"
   },
   {
-    "score": 61,
-    "pubdate": "2025-10-14-03-14-28 +0000",
-    "source": "bbc",
-    "headline": "Dutch government takes control of China-owned chip firm",
-    "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 59,
     "pubdate": "2025-10-14-13-00-00 +0000",
     "source": "wsj",
@@ -56,6 +49,13 @@
     "link": "https://nypost.com/2025/10/14/us-news/california-gov-candidate-katie-porter-refuses-to-say-there-arent-more-videos-of-her-bullying-behavior/"
   },
   {
+    "score": 57,
+    "pubdate": "2025-10-14-03-14-28 +0000",
+    "source": "bbc",
+    "headline": "Dutch government takes control of China-owned chip firm",
+    "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 49,
     "pubdate": "2025-10-14-22-49-20 +0000",
     "source": "nyt",
@@ -64,9 +64,9 @@
   },
   {
     "score": 45,
-    "pubdate": "2025-10-14-19-42-00 +0000",
-    "source": "wsj",
-    "headline": "Maine’s Democratic Gov. Janet Mills officially launched a bid to unseat GOP Sen. Susan Collins, in what is shaping up to be one of the most competitive Senate races next year",
-    "link": "https://www.wsj.com/politics/elections/susan-collins-could-face-toughest-re-election-fight-yet-9955d6c2"
+    "pubdate": "2025-10-14-18-08-02 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Denies Alex Jones’s Appeal of Payment to Sandy Hook Families",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/supreme-court-alex-jones-defamation.html"
   }
 ]
