@@ -1,116 +1,164 @@
 [
   {
-    "headline": "Suspect Pleads Guilty in Firebombing of Pennsylvania Governor’s Residence",
-    "link": "https://www.nytimes.com/2025/10/14/us/arson-harrisburg-cody-balmer-josh-shapiro.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-41-19 +0000"
-  },
-  {
-    "headline": "Share Your Videos of ICE Interactions",
-    "link": "https://www.nytimes.com/2025/10/14/us/videos-ice-interactions.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-39-23 +0000"
-  },
-  {
-    "headline": "Stellantis says it will invest $13B to expand its U.S. operations, adding more than 5,000 jobs",
-    "link": "https://www.cbc.ca/news/canada/windsor/stellantis-expansion-us-9.6938613?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-14-23-35-24 +0000"
-  },
-  {
-    "headline": "Former Rep. Katie Porter expresses remorse about her behavior in damaging videos",
-    "link": "https://www.latimes.com/california/story/2025-10-14/former-rep-katie-porter-says-something-about-the-damaging-videos-that-could-sink-her-gubernatorial-bid",
-    "source": "latimes",
-    "pubdate": "2025-10-14-23-26-28 +0000"
-  },
-  {
-    "headline": "Former Rep. Katie Porter expresses remorse about her behavior in damaging videos",
-    "link": "https://www.latimes.com/california/story/2025-10-14/former-rep-katie-porter-says-something-about-the-damaging-videos-that-could-sink-her-gubernatorial-bid",
-    "source": "latimes",
-    "pubdate": "2025-10-14-23-26-28 +0000"
-  },
-  {
-    "headline": "Trump Dangles $20 Billion Lifeline for Argentina, With Strings Attached",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-argentina-leader-bailout.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-21-38 +0000"
-  },
-  {
-    "headline": "Trump Dangles $20 Billion Lifeline for Argentina, With Strings Attached",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-argentina-leader-bailout.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-21-38 +0000"
-  },
-  {
-    "headline": "Trump Dangles $20 Billion Lifeline for Argentina, With Strings Attached",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-argentina-leader-bailout.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-21-38 +0000"
-  },
-  {
-    "headline": "Trump Dangles $20 Billion Lifeline for Argentina, With Strings Attached",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-argentina-leader-bailout.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-21-38 +0000"
-  },
-  {
-    "headline": "ChatGPT will soon allow erotica for verified adults, says OpenAI boss",
-    "link": "https://www.bbc.com/news/articles/cpd2qv58yl5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-14-23-19-53 +0000"
-  },
-  {
-    "headline": "U.S. kills 6 alleged drug smugglers in new strike off Venezuela, Trump says",
-    "link": "https://www.washingtonpost.com/national-security/2025/10/14/trump-drug-boat-venezuela/",
-    "source": "wapo",
-    "pubdate": "2025-10-14-23-18-03 +0000"
-  },
-  {
-    "headline": "Trump says US will not 'waste our time' helping Argentina if Milei loses",
-    "link": "https://www.bbc.com/news/articles/cg7n82gd7pvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-14-23-17-50 +0000"
-  },
-  {
-    "headline": "Trump says US will not 'waste our time' helping Argentina if Milei loses",
-    "link": "https://www.bbc.com/news/articles/cg7n82gd7pvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-14-23-17-50 +0000"
-  },
-  {
-    "headline": "Two years after law passed, Minnesota still lacks early prison release program",
-    "link": "https://www.startribune.com/minnesota-rehabilitative-prison-early-release-program-not-implemented-protests/601488395",
-    "source": "startribune",
-    "pubdate": "2025-10-14-23-17-08 +0000"
-  },
-  {
-    "headline": "Dad of 4, dog die after fishing boat capsizes on Mississippi River: ‘Huge and immense void’",
-    "link": "https://nypost.com/2025/10/14/us-news/dad-of-4-dog-die-when-fishing-boat-capsizes-on-mississippi-river/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-23-14-57 +0000"
-  },
-  {
-    "headline": "White House Guts Education Department With More Layoffs",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-education-department-federal-layoffs.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-12-41 +0000"
-  },
-  {
-    "headline": "White House Guts Education Department With More Layoffs",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-education-department-federal-layoffs.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-23-12-41 +0000"
-  },
-  {
-    "headline": "Jeep-Maker Stellantis Plans $13 Billion Investment to Boost U.S. Manufacturing",
-    "link": "https://www.wsj.com/business/autos/jeep-maker-stellantis-plans-13-billion-investment-to-boost-u-s-manufacturing-75dee147?mod=pls_whats_news_us_business_f",
+    "headline": "Oracle Co-CEOs Defend Massive Data-Center Expansion, Plan to Offer AI Ecosystem",
+    "link": "https://www.wsj.com/articles/oracle-co-ceos-defend-massive-data-center-expansion-plan-to-offer-ai-ecosystem-af644dee?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-10-14-23-06-00 +0000"
+    "pubdate": "2025-10-15-01-10-00 +0000"
   },
   {
-    "headline": "Victim bravely tells sicko who raped her in NYC apartment building ‘you did not end me’— as perv learns fate",
-    "link": "https://nypost.com/2025/10/14/us-news/you-did-not-end-me-victim-bravely-tells-sicko-who-raped-her-in-nyc-apartment-building-as-perv-learns-fate/",
+    "headline": "Woman Is Granted a Protective Order Against Representative Cory Mills",
+    "link": "https://www.nytimes.com/2025/10/14/us/cory-mills-lindsey-langston-florida-rep.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-01-08-24 +0000"
+  },
+  {
+    "headline": "Bangladesh garment factory fire kills at least 16",
+    "link": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-15-01-06-09 +0000"
+  },
+  {
+    "headline": "Asian Currencies Consolidate; Ongoing U.S.-China Trade Tensions May Weigh",
+    "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ongoing-u-s-china-trade-tensions-may-weigh-95a8a4f4",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-03-00 +0000"
+  },
+  {
+    "headline": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-01-01-31 +0000"
+  },
+  {
+    "headline": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-01-01-31 +0000"
+  },
+  {
+    "headline": "After Israeli Withdrawal, Hamas Launches Violent Crackdown on Rivals in Gaza",
+    "link": "https://www.wsj.com/world/middle-east/hamas-gaza-israel-withdrawal-33d69b55",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-00-00 +0000"
+  },
+  {
+    "headline": "China, Betting It Can Win a Trade War, Is Playing Hardball With Trump",
+    "link": "https://www.wsj.com/world/china/china-trade-war-trump-talks-25c50136",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-00-00 +0000"
+  },
+  {
+    "headline": "Here’s a Sneak Peek Into Southwest’s New Boarding Plan",
+    "link": "https://www.wsj.com/lifestyle/travel/heres-a-sneak-peek-into-southwests-new-boarding-plan-4b96251b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-00-00 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks Transfer of Miami Property for Trump Library",
+    "link": "https://www.nytimes.com/2025/10/14/us/miami-trump-library.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-57-06 +0000"
+  },
+  {
+    "headline": "Inmates Make Brazen Escape in Guatemala",
+    "link": "https://www.nytimes.com/2025/10/14/world/americas/guatemala-prison-escape.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-56-18 +0000"
+  },
+  {
+    "headline": "Inmates Make Brazen Escape in Guatemala",
+    "link": "https://www.nytimes.com/2025/10/14/world/americas/guatemala-prison-escape.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-56-18 +0000"
+  },
+  {
+    "headline": "Rachmaninoff rocks… pop? You bet your sweet ‘A’ Train",
+    "link": "https://48hills.org/2025/10/rachmaninoff-rocks-pop-pianist-conrad-tao-san-francisco-performances/",
+    "source": "48hills",
+    "pubdate": "2025-10-15-00-55-54 +0000"
+  },
+  {
+    "headline": "Marc Benioff exposed himself as craven and hollow. He has company.",
+    "link": "https://missionlocal.org/2025/10/marc-benioff-national-guard-san-francisco-donald-trump/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-15-00-50-49 +0000"
+  },
+  {
+    "headline": "Florida mother arrested for allegedly forcing 11-year-old daughter to perform sex acts on video – including bestiality",
+    "link": "https://nypost.com/2025/10/14/us-news/florida-mother-arrested-for-allegedly-forcing-11-year-old-daughter-to-perform-sex-acts-on-video/",
     "source": "nypost",
-    "pubdate": "2025-10-14-23-01-28 +0000"
+    "pubdate": "2025-10-15-00-49-32 +0000"
+  },
+  {
+    "headline": "Ukraine tells residents to leave dozens of villages near city of Kupiansk",
+    "link": "https://www.cbc.ca/news/world/ukraine-kupiansk-mass-evacuations-9.6938708?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-15-00-47-29 +0000"
+  },
+  {
+    "headline": "Suspected copper wire thief found inside a manhole in West L.A., faces charges, authorities say",
+    "link": "https://www.latimes.com/california/story/2025-10-14/suspected-copper-thief-found-inside-a-manwhole-in-west-l-a-arrested-and-charged",
+    "source": "latimes",
+    "pubdate": "2025-10-15-00-43-16 +0000"
+  },
+  {
+    "headline": "NRA sues California over alleged Glock ban aimed at illegal machine gun 'switches'",
+    "link": "https://www.latimes.com/california/story/2025-10-14/nra-sues-to-block-a-new-california-law-outlawing-sale-of-glock-handguns",
+    "source": "latimes",
+    "pubdate": "2025-10-15-00-38-44 +0000"
+  },
+  {
+    "headline": "NRA sues California over alleged Glock ban aimed at illegal machine gun 'switches'",
+    "link": "https://www.latimes.com/california/story/2025-10-14/nra-sues-to-block-a-new-california-law-outlawing-sale-of-glock-handguns",
+    "source": "latimes",
+    "pubdate": "2025-10-15-00-38-44 +0000"
+  },
+  {
+    "headline": "ICE Is Cracking Down on Chicago. Some Chicagoans Are Fighting Back.",
+    "link": "https://www.nytimes.com/2025/10/14/us/chicago-ice-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-38-07 +0000"
+  },
+  {
+    "headline": "British social media star 'Big John' detained in Australia over visa",
+    "link": "https://www.bbc.com/news/articles/cwy196k9p4po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-15-00-35-55 +0000"
+  },
+  {
+    "headline": "State Department revokes visas from 6 foreigners over vile Charlie Kirk comments",
+    "link": "https://nypost.com/2025/10/14/media/state-department-revokes-visas-from-foreigners-over-offensive-charlie-kirk-comments/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-30-30 +0000"
+  },
+  {
+    "headline": "The Nature Conservancy buys more than 12,000 acres in northeastern Minnesota for conservation",
+    "link": "https://www.startribune.com/the-nature-conservancy-buys-more-than-12000-acres-in-northeastern-minnesota-for-conservation/601492041",
+    "source": "startribune",
+    "pubdate": "2025-10-15-00-27-54 +0000"
+  },
+  {
+    "headline": "Jack Smith Calls Idea That Politics Infected Trump Prosecutions ‘Ludicrous’",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-24-43 +0000"
+  },
+  {
+    "headline": "Jack Smith Calls Idea That Politics Infected Trump Prosecutions ‘Ludicrous’",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-24-43 +0000"
+  },
+  {
+    "headline": "California gov. candidate Katie Porter refuses to say there aren’t more videos of her bullying behavior",
+    "link": "https://nypost.com/2025/10/14/us-news/california-gov-candidate-katie-porter-refuses-to-say-there-arent-more-videos-of-her-bullying-behavior/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-23-28 +0000"
+  },
+  {
+    "headline": "California gov. candidate Katie Porter refuses to say there aren’t more videos of her bullying behavior",
+    "link": "https://nypost.com/2025/10/14/us-news/california-gov-candidate-katie-porter-refuses-to-say-there-arent-more-videos-of-her-bullying-behavior/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-23-28 +0000"
   }
 ]
