@@ -1,59 +1,59 @@
 [
   {
-    "score": 193,
+    "score": 181,
     "pubdate": "2025-10-14-20-13-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced another lethal military strike on an alleged drug-trafficking boat off the coast of Venezuela, which killed six people",
     "link": "https://www.wsj.com/politics/national-security/trump-venezuela-boat-strike-c4130a61"
   },
   {
-    "score": 94,
+    "score": 93,
     "pubdate": "2025-10-15-14-11-10 +0000",
     "source": "latimes",
     "headline": "Supreme Court might upend Voting Rights Act and help GOP keep control of the House",
     "link": "https://www.latimes.com/politics/story/2025-10-15/supreme-court-may-help-gop-control-house-majority"
   },
   {
-    "score": 93,
+    "score": 88,
     "pubdate": "2025-10-14-21-30-20 +0000",
     "source": "nyt",
     "headline": "Israel Pressures Hamas to Return Bodies, but Gaza’s Destruction Poses Challenge",
     "link": "https://www.nytimes.com/2025/10/14/world/middleeast/israeli-hostages-bodies-hamas.html"
   },
   {
-    "score": 79,
-    "pubdate": "2025-10-15-16-29-59 +0000",
-    "source": "nypost",
-    "headline": "Federal workers face mounting financial strain, new uncertainty as government shutdown drags on",
-    "link": "https://nypost.com/2025/10/15/us-news/federal-workers-face-mounting-financial-strain-as-government-shutdown-drags-on/"
+    "score": 78,
+    "pubdate": "2025-10-15-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Governors across 15 states are forming a new public-health alliance to take on disease threats, saying funding cuts and policy changes by the Trump administration are putting their citizens at risk",
+    "link": "https://www.wsj.com/health/healthcare/rfk-jr-hhs-democratic-public-health-alliance-6a6a7e28"
   },
   {
-    "score": 75,
-    "pubdate": "2025-10-15-14-38-01 +0000",
+    "score": 73,
+    "pubdate": "2025-10-15-10-00-00 +0000",
     "source": "nypost",
-    "headline": "Family of kidnapped IDF soldier, 18, only found out he was dead when remains returned: ‘The moment we so feared’",
-    "link": "https://nypost.com/2025/10/15/world-news/idf-soldier-tamir-nimrodi-18-final-israeli-hostage-to-be-confirmed-dead-after-remains-returned/"
+    "headline": "Dr. Keith Ablow tells ‘Pod Force One’ why he felt there was ‘an element of dementia’ in Joe Biden as far back as 2012",
+    "link": "https://nypost.com/2025/10/15/us-news/dr-keith-ablow-explains-why-he-felt-there-was-an-element-of-dementia-in-joe-biden-as-far-back-as-2012/"
   },
   {
-    "score": 72,
+    "score": 71,
+    "pubdate": "2025-10-15-13-59-09 +0000",
+    "source": "bbc",
+    "headline": "Government will publish evidence in collapsed China case, PM says",
+    "link": "https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 68,
     "pubdate": "2025-10-15-18-37-00 +0000",
     "source": "wsj",
     "headline": "A reduction in the tariffs faced by Indian businesses exporting to the U.S. would likely boost growth this year, Reserve Bank of India Gov. Sanjay Malhotra said",
     "link": "https://www.wsj.com/articles/lower-u-s-tariffs-would-boost-india-growth-outlook-says-central-bank-chief-5415c300"
   },
   {
-    "score": 68,
-    "pubdate": "2025-10-15-18-29-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration is putting together a $20 billion private finance facility that could act as a backstop for Argentina’s debt, Treasury Secretary Scott Bessent said Wednesday",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-arranging-20-billion-private-finance-facility-for-argentina-6c536551"
-  },
-  {
     "score": 62,
-    "pubdate": "2025-10-15-13-59-09 +0000",
-    "source": "bbc",
-    "headline": "Government will publish evidence in collapsed China case, PM says",
-    "link": "https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-10-14-22-48-00 +0000",
+    "source": "wsj",
+    "headline": "Visas were revoked from nationals of countries including Argentina, South Africa and Mexico, the department said in a social-media post",
+    "link": "https://www.wsj.com/politics/state-department-revokes-visas-over-charlie-kirk-comments-3c30d9ae"
   },
   {
     "score": 55,
@@ -63,10 +63,10 @@
     "link": "https://www.wsj.com/us-news/trump-honors-charlie-kirk-with-posthumous-presidential-medal-of-freedom-79018bba"
   },
   {
-    "score": 55,
-    "pubdate": "2025-10-14-19-42-00 +0000",
+    "score": 52,
+    "pubdate": "2025-10-15-14-52-00 +0000",
     "source": "wsj",
-    "headline": "Maine’s Democratic Gov. Janet Mills officially launched a bid to unseat GOP Sen. Susan Collins, in what is shaping up to be one of the most competitive Senate races next year",
-    "link": "https://www.wsj.com/politics/elections/susan-collins-could-face-toughest-re-election-fight-yet-9955d6c2"
+    "headline": "BlackRock’s AI Consortium to Buy Aligned Data Centers in $20 Billion Deal",
+    "link": "https://www.wsj.com/finance/investing/blackrocks-ai-consortium-to-buy-aligned-data-centers-in-40-billion-deal-b3637f9b?mod=pls_whats_news_us_business_f"
   }
 ]
