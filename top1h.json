@@ -1,37 +1,72 @@
 [
   {
+    "score": 40,
+    "pubdate": "2025-10-15-14-21-58 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He May Give Tomahawks to Ukraine. Is He Bluffing?",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-tomahawks-ukraine-russia.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-15-14-03-52 +0000",
+    "source": "nyt",
+    "headline": "Spies, Burgers and Bombs: After a New War, Old Wounds Resurface in Tehran",
+    "link": "https://www.nytimes.com/2025/10/15/world/middleeast/iran-tehran-united-states.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-15-14-03-33 +0000",
+    "source": "bbc",
+    "headline": "'Father of our democracy': Kenya's Raila Odinga dies in India aged 80",
+    "link": "https://www.bbc.com/news/articles/c1m39xg4dggo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-15-14-30-31 +0000",
+    "source": "nyt",
+    "headline": "South Korea Targets Cambodia’s Scam Industry After Kidnappings, Torture and a Death",
+    "link": "https://www.nytimes.com/2025/10/15/world/asia/cambodia-south-korea-scams.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-15-14-38-01 +0000",
+    "source": "nypost",
+    "headline": "Family of kidnapped IDF soldier, 18, only found out he was dead when remains returned: ‘The moment we so feared’",
+    "link": "https://nypost.com/2025/10/15/world-news/idf-soldier-tamir-nimrodi-18-final-israeli-hostage-to-be-confirmed-dead-after-remains-returned/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-15-14-11-10 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court might upend Voting Rights Act and help GOP keep control of the House",
+    "link": "https://www.latimes.com/politics/story/2025-10-15/supreme-court-may-help-gop-control-house-majority"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-15-14-13-00 +0000",
+    "source": "wsj",
+    "headline": "‘I’ll Have Eric Call’: Trump Sets Up Son’s Meeting With Indonesian President",
+    "link": "https://www.wsj.com/us-news/ill-have-eric-call-trump-sets-up-sons-meeting-with-indonesian-president-19b816c7"
+  },
+  {
     "score": 14,
-    "pubdate": "2025-10-15-12-57-59 +0000",
-    "source": "nyt",
-    "headline": "What Are Tomahawk Missiles, and Why Might Trump Give Them to Ukraine?",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/tomahawk-missiles-trump-ukraine.html"
+    "pubdate": "2025-10-15-14-53-46 +0000",
+    "source": "bbc",
+    "headline": "Reeves says she is looking at tax rises ahead of Budget",
+    "link": "https://www.bbc.com/news/articles/c2drpzxpkp3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 4,
-    "pubdate": "2025-10-15-13-00-18 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/15/us/supreme-court-voting-rights/heres-the-latest"
+    "score": 13,
+    "pubdate": "2025-10-15-13-59-09 +0000",
+    "source": "bbc",
+    "headline": "Government will publish evidence in collapsed China case, PM says",
+    "link": "https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 2,
-    "pubdate": "2025-10-15-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Crome Panther",
-    "link": "https://missionlocal.org/2025/10/sf-photos-crome-panther/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-15-13-00-18 +0000",
+    "score": 12,
+    "pubdate": "2025-10-15-14-22-41 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/10/15/us/supreme-court-voting-rights/heres-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-15-12-57-59 +0000",
-    "source": "nyt",
-    "headline": "What Are Tomahawk Missiles, and Why Might Trump Give Them to Ukraine?",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/tomahawk-missiles-trump-ukraine.html"
+    "headline": "Trump Threatens Spain With Higher Tariffs Over Defense Spending",
+    "link": "https://www.nytimes.com/2025/10/15/us/politics/trump-tariffs-spain-military-defense-spending-nato.html"
   }
 ]
