@@ -1,66 +1,59 @@
 [
   {
-    "score": 386,
+    "score": 393,
     "pubdate": "2025-10-13-03-42-00 +0000",
     "source": "wsj",
     "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 186,
+    "score": 183,
     "pubdate": "2025-10-14-14-33-51 +0000",
     "source": "nyt",
     "headline": "How Trump’s Gaza Peace Plan Presents Hurdles for Israel and Hamas",
     "link": "https://www.nytimes.com/2025/10/14/world/middleeast/gaza-talks-phase-two.html"
   },
   {
-    "score": 170,
+    "score": 161,
     "pubdate": "2025-10-14-20-13-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced another lethal military strike on an alleged drug-trafficking boat off the coast of Venezuela, which killed six people",
     "link": "https://www.wsj.com/politics/national-security/trump-venezuela-boat-strike-c4130a61"
   },
   {
-    "score": 154,
+    "score": 159,
     "pubdate": "2025-10-15-09-30-00 +0000",
     "source": "wsj",
     "headline": "Governors across 15 states are forming a new public-health alliance to take on disease threats, saying funding cuts and policy changes by the Trump administration are putting their citizens at risk",
     "link": "https://www.wsj.com/health/healthcare/rfk-jr-hhs-democratic-public-health-alliance-6a6a7e28"
   },
   {
-    "score": 132,
+    "score": 141,
     "pubdate": "2025-10-14-01-00-00 +0000",
     "source": "wsj",
     "headline": "The White House move to lay off roughly 4,000 government workers amid the shutdown is expected to affect everything from financing community development to supporting special education",
     "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-federal-layoffs-agencies-5f58cd1a"
   },
   {
-    "score": 126,
+    "score": 128,
     "pubdate": "2025-10-15-18-37-00 +0000",
     "source": "wsj",
     "headline": "A reduction in the tariffs faced by Indian businesses exporting to the U.S. would likely boost growth this year, Reserve Bank of India Gov. Sanjay Malhotra said",
     "link": "https://www.wsj.com/articles/lower-u-s-tariffs-would-boost-india-growth-outlook-says-central-bank-chief-5415c300"
   },
   {
-    "score": 120,
+    "score": 118,
     "pubdate": "2025-10-11-08-00-00 +0000",
     "source": "cbc",
     "headline": "One of the world's biggest AI companies wants a deal with Canada. Is sovereignty the trade-off?",
     "link": "https://www.cbc.ca/news/business/open-ai-canada-data-centres-digital-sovereignty-9.6935195?cmp=rss"
   },
   {
-    "score": 118,
+    "score": 117,
     "pubdate": "2025-10-15-13-12-06 +0000",
     "source": "nyt",
     "headline": "The case will test what is left of the Voting Rights Act after the Shelby County ruling.",
     "link": "https://www.nytimes.com/live/2025/10/15/us/supreme-court-voting-rights/the-case-will-test-what-is-left-of-the-voting-rights-act-after-the-shelby-county-ruling"
-  },
-  {
-    "score": 112,
-    "pubdate": "2025-10-12-02-45-06 +0000",
-    "source": "latimes",
-    "headline": "Former schools chief Austin Beutner plans to challenge Bass, blasting her over Palisades fire",
-    "link": "https://www.latimes.com/california/story/2025-10-11/former-l-a-schools-chief-plans-to-announce-a-run-for-mayor"
   },
   {
     "score": 108,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Family of kidnapped IDF soldier, 18, only found out he was dead when remains returned: ‘The moment we so feared’",
     "link": "https://nypost.com/2025/10/15/world-news/idf-soldier-tamir-nimrodi-18-final-israeli-hostage-to-be-confirmed-dead-after-remains-returned/"
+  },
+  {
+    "score": 106,
+    "pubdate": "2025-10-12-02-45-06 +0000",
+    "source": "latimes",
+    "headline": "Former schools chief Austin Beutner plans to challenge Bass, blasting her over Palisades fire",
+    "link": "https://www.latimes.com/california/story/2025-10-11/former-l-a-schools-chief-plans-to-announce-a-run-for-mayor"
   }
 ]
