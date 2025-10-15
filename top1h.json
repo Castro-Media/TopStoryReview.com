@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 48,
+    "pubdate": "2025-10-15-19-58-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is putting together a $20 billion private finance facility that could act as a backstop for Argentina’s debt, Treasury Secretary Scott Bessent said Wednesday",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-arranging-20-billion-private-finance-facility-for-argentina-6c536551"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-10-15-20-04-00 +0000",
+    "source": "nyt",
+    "headline": "Hegseth Warns U.S. Will Impose ‘Costs’ on Russia if Peace Efforts Falter",
+    "link": "https://www.nytimes.com/2025/10/15/us/politics/hegseth-russia-ukraine.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-10-15-19-58-31 +0000",
+    "source": "latimes",
+    "headline": "California judge halts Trump federal job cuts amid government shutdown",
+    "link": "https://www.latimes.com/politics/story/2025-10-15/federal-judge-california-blocks-shutdown-job-cuts"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-10-15-20-46-21 +0000",
+    "source": "nyt",
+    "headline": "Jeep Parent Stellantis, Faced With Trump’s Tariffs, Shifts Auto Production From Canada to the U.S.",
+    "link": "https://www.nytimes.com/2025/10/15/world/canada/stellantis-auto-production-canada-us-trump-tariffs.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-10-15-20-31-18 +0000",
+    "source": "nypost",
+    "headline": "US ‘certainly looking’ at striking Venezuelan territory after blowing up drug boats: Trump",
+    "link": "https://nypost.com/2025/10/15/us-news/us-certainly-looking-at-striking-venezuelan-territory-after-taking-out-drug-boats-trump/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-10-15-20-08-24 +0000",
+    "source": "nyt",
+    "headline": "Spies, Burgers and Bombs: After a New War, Old Wounds Resurface in Tehran",
+    "link": "https://www.nytimes.com/2025/10/15/world/middleeast/iran-tehran-united-states.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-10-15-20-21-05 +0000",
+    "source": "nyt",
+    "headline": "Hamas Says It Has Returned All Hostage Remains It Can Recover, Putting Fragile Truce at Risk",
+    "link": "https://www.nytimes.com/2025/10/15/world/middleeast/hamas-gaza-hostages-remains-israel.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-10-15-20-52-20 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Appears Skeptical of Key Provision of Voting Rights Act",
+    "link": "https://www.nytimes.com/2025/10/15/us/politics/supreme-court-voting-rights-act.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-10-15-20-13-45 +0000",
+    "source": "nypost",
+    "headline": "Mom of murdered Army vet backs Curtis Sliwa for NYC mayor, slams Andrew Cuomo over bail reforms: ‘He was the one who signed off’",
+    "link": "https://nypost.com/2025/10/15/us-news/mom-of-murdered-army-vet-backs-sliwa-for-nyc-mayor-slams-andrew-cuomo-over-bail-reforms-he-was-the-one-who-signed-off/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-15-20-29-00 +0000",
+    "source": "wsj",
+    "headline": "More than three dozen organizations and individuals are expected to attend a dinner with Trump on Wednesday after opening their checkbooks to support a $250 million White House ballroom",
+    "link": "https://www.wsj.com/politics/policy/trump-ballroom-donors-white-house-dinner-ccba9448"
+  }
+]
