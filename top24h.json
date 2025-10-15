@@ -1,45 +1,52 @@
 [
   {
-    "score": 180,
-    "pubdate": "2025-10-15-19-58-00 +0000",
+    "score": 183,
+    "pubdate": "2025-10-15-09-30-00 +0000",
     "source": "wsj",
-    "headline": "The Trump administration is putting together a $20 billion private finance facility that could act as a backstop for Argentina’s debt, Treasury Secretary Scott Bessent said Wednesday",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-arranging-20-billion-private-finance-facility-for-argentina-6c536551"
+    "headline": "Governors across 15 states are forming a new public-health alliance to take on disease threats, saying funding cuts and policy changes by the Trump administration are putting their citizens at risk",
+    "link": "https://www.wsj.com/health/healthcare/rfk-jr-hhs-democratic-public-health-alliance-6a6a7e28"
   },
   {
-    "score": 93,
-    "pubdate": "2025-10-14-21-30-20 +0000",
-    "source": "nyt",
-    "headline": "Israel Pressures Hamas to Return Bodies, but Gaza’s Destruction Poses Challenge",
-    "link": "https://www.nytimes.com/2025/10/14/world/middleeast/israeli-hostages-bodies-hamas.html"
-  },
-  {
-    "score": 78,
-    "pubdate": "2025-10-15-14-38-01 +0000",
-    "source": "nypost",
-    "headline": "Family of kidnapped IDF soldier, 18, only found out he was dead when remains returned: ‘The moment we so feared’",
-    "link": "https://nypost.com/2025/10/15/world-news/idf-soldier-tamir-nimrodi-18-final-israeli-hostage-to-be-confirmed-dead-after-remains-returned/"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-10-15-16-29-59 +0000",
-    "source": "nypost",
-    "headline": "Federal workers face mounting financial strain, new uncertainty as government shutdown drags on",
-    "link": "https://nypost.com/2025/10/15/us-news/federal-workers-face-mounting-financial-strain-as-government-shutdown-drags-on/"
-  },
-  {
-    "score": 74,
+    "score": 88,
     "pubdate": "2025-10-15-20-52-20 +0000",
     "source": "nyt",
     "headline": "Supreme Court Appears Skeptical of Key Provision of Voting Rights Act",
     "link": "https://www.nytimes.com/2025/10/15/us/politics/supreme-court-voting-rights-act.html"
   },
   {
-    "score": 70,
+    "score": 85,
+    "pubdate": "2025-10-15-14-38-01 +0000",
+    "source": "nypost",
+    "headline": "Family of kidnapped IDF soldier, 18, only found out he was dead when remains returned: ‘The moment we so feared’",
+    "link": "https://nypost.com/2025/10/15/world-news/idf-soldier-tamir-nimrodi-18-final-israeli-hostage-to-be-confirmed-dead-after-remains-returned/"
+  },
+  {
+    "score": 78,
     "pubdate": "2025-10-15-18-37-00 +0000",
     "source": "wsj",
     "headline": "A reduction in the tariffs faced by Indian businesses exporting to the U.S. would likely boost growth this year, Reserve Bank of India Gov. Sanjay Malhotra said",
     "link": "https://www.wsj.com/articles/lower-u-s-tariffs-would-boost-india-growth-outlook-says-central-bank-chief-5415c300"
+  },
+  {
+    "score": 76,
+    "pubdate": "2025-10-15-16-07-50 +0000",
+    "source": "nypost",
+    "headline": "US student group calls for ‘death’ to Zionist collaborators as Hamas carries out brutal executions across Gaza",
+    "link": "https://nypost.com/2025/10/15/world-news/students-for-justice-in-palestine-call-for-death-to-collaborators-as-hamas-carries-out-brutal-executions-across-gaza/"
+  },
+  {
+    "score": 72,
+    "pubdate": "2025-10-15-21-22-30 +0000",
+    "source": "nyt",
+    "headline": "Judge Temporarily Blocks Trump From Firing Government Workers During Shutdown",
+    "link": "https://www.nytimes.com/2025/10/15/us/politics/government-shutdown-trump-layoffs-unions.html"
+  },
+  {
+    "score": 65,
+    "pubdate": "2025-10-14-23-17-50 +0000",
+    "source": "bbc",
+    "headline": "Trump says US will not 'waste our time' helping Argentina if Milei loses",
+    "link": "https://www.bbc.com/news/articles/cg7n82gd7pvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 62,
@@ -49,24 +56,17 @@
     "link": "https://www.nytimes.com/2025/10/15/us/politics/us-government-companies-china.html"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-15-20-04-00 +0000",
-    "source": "nyt",
-    "headline": "Hegseth Warns U.S. Will Impose ‘Costs’ on Russia if Peace Efforts Falter",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/hegseth-russia-ukraine.html"
+    "score": 53,
+    "pubdate": "2025-10-15-00-23-28 +0000",
+    "source": "nypost",
+    "headline": "California gov candidate Katie Porter refuses to say there aren’t more videos of her bullying behavior",
+    "link": "https://nypost.com/2025/10/14/us-news/california-gov-candidate-katie-porter-refuses-to-say-there-arent-more-videos-of-her-bullying-behavior/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-14-22-48-00 +0000",
+    "score": 53,
+    "pubdate": "2025-10-15-14-52-00 +0000",
     "source": "wsj",
-    "headline": "Visas were revoked from nationals of countries including Argentina, South Africa and Mexico, the department said in a social-media post",
-    "link": "https://www.wsj.com/politics/state-department-revokes-visas-over-charlie-kirk-comments-3c30d9ae"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-10-15-19-57-27 +0000",
-    "source": "cbc",
-    "headline": "Finance minister says world economy showing signs of resilience in face of U.S. trade war",
-    "link": "https://www.cbc.ca/news/politics/champagne-world-economy-us-trade-war-9.6939735?cmp=rss"
+    "headline": "BlackRock’s AI Consortium to Buy Aligned Data Centers in $20 Billion Deal",
+    "link": "https://www.wsj.com/finance/investing/blackrocks-ai-consortium-to-buy-aligned-data-centers-in-40-billion-deal-b3637f9b?mod=rss_markets_main"
   }
 ]
