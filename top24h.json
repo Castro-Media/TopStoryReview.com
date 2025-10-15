@@ -1,17 +1,17 @@
 [
   {
-    "score": 183,
+    "score": 182,
     "pubdate": "2025-10-15-09-30-00 +0000",
     "source": "wsj",
     "headline": "Governors across 15 states are forming a new public-health alliance to take on disease threats, saying funding cuts and policy changes by the Trump administration are putting their citizens at risk",
     "link": "https://www.wsj.com/health/healthcare/rfk-jr-hhs-democratic-public-health-alliance-6a6a7e28"
   },
   {
-    "score": 88,
-    "pubdate": "2025-10-15-20-52-20 +0000",
+    "score": 86,
+    "pubdate": "2025-10-15-13-12-06 +0000",
     "source": "nyt",
-    "headline": "Supreme Court Appears Skeptical of Key Provision of Voting Rights Act",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/supreme-court-voting-rights-act.html"
+    "headline": "The case will test what is left of the Voting Rights Act after the Shelby County ruling.",
+    "link": "https://www.nytimes.com/live/2025/10/15/us/supreme-court-voting-rights/the-case-will-test-what-is-left-of-the-voting-rights-act-after-the-shelby-county-ruling"
   },
   {
     "score": 85,
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2025/10/15/world-news/idf-soldier-tamir-nimrodi-18-final-israeli-hostage-to-be-confirmed-dead-after-remains-returned/"
   },
   {
-    "score": 78,
+    "score": 77,
     "pubdate": "2025-10-15-18-37-00 +0000",
     "source": "wsj",
     "headline": "A reduction in the tariffs faced by Indian businesses exporting to the U.S. would likely boost growth this year, Reserve Bank of India Gov. Sanjay Malhotra said",
@@ -35,18 +35,11 @@
     "link": "https://nypost.com/2025/10/15/world-news/students-for-justice-in-palestine-call-for-death-to-collaborators-as-hamas-carries-out-brutal-executions-across-gaza/"
   },
   {
-    "score": 72,
-    "pubdate": "2025-10-15-21-22-30 +0000",
-    "source": "nyt",
-    "headline": "Judge Temporarily Blocks Trump From Firing Government Workers During Shutdown",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/government-shutdown-trump-layoffs-unions.html"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-10-14-23-17-50 +0000",
-    "source": "bbc",
-    "headline": "Trump says US will not 'waste our time' helping Argentina if Milei loses",
-    "link": "https://www.bbc.com/news/articles/cg7n82gd7pvo?at_medium=RSS&at_campaign=rss"
+    "score": 76,
+    "pubdate": "2025-10-15-19-58-31 +0000",
+    "source": "latimes",
+    "headline": "California judge halts Trump federal job cuts amid government shutdown",
+    "link": "https://www.latimes.com/politics/story/2025-10-15/federal-judge-california-blocks-shutdown-job-cuts"
   },
   {
     "score": 62,
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2025/10/15/us/politics/us-government-companies-china.html"
   },
   {
-    "score": 53,
-    "pubdate": "2025-10-15-00-23-28 +0000",
-    "source": "nypost",
-    "headline": "California gov candidate Katie Porter refuses to say there aren’t more videos of her bullying behavior",
-    "link": "https://nypost.com/2025/10/14/us-news/california-gov-candidate-katie-porter-refuses-to-say-there-arent-more-videos-of-her-bullying-behavior/"
+    "score": 56,
+    "pubdate": "2025-10-15-21-09-00 +0000",
+    "source": "wsj",
+    "headline": "SL Green’s deal to buy the 36-story building in Midtown Manhattan shows momentum for desirable office space in prime locations is heating up",
+    "link": "https://www.wsj.com/real-estate/commercial/sl-green-is-buying-nycs-park-avenue-tower-in-one-of-the-years-biggest-deals-15a9eda6"
   },
   {
-    "score": 53,
-    "pubdate": "2025-10-15-14-52-00 +0000",
+    "score": 55,
+    "pubdate": "2025-10-15-19-58-00 +0000",
     "source": "wsj",
-    "headline": "BlackRock’s AI Consortium to Buy Aligned Data Centers in $20 Billion Deal",
-    "link": "https://www.wsj.com/finance/investing/blackrocks-ai-consortium-to-buy-aligned-data-centers-in-40-billion-deal-b3637f9b?mod=rss_markets_main"
+    "headline": "The Trump administration is putting together a $20 billion private finance facility that could act as a backstop for Argentina’s debt, Treasury Secretary Scott Bessent said Wednesday",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-arranging-20-billion-private-finance-facility-for-argentina-6c536551"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-10-15-19-08-54 +0000",
+    "source": "bbc",
+    "headline": "Syria's Sharaa meets Putin in Moscow for first time since fall of Assad",
+    "link": "https://www.bbc.com/news/articles/c201p2dd6r4o?at_medium=RSS&at_campaign=rss"
   }
 ]
