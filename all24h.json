@@ -1,9 +1,273 @@
 [
   {
+    "headline": "Oracle Co-CEOs Defend Massive Data-Center Expansion, Plan to Offer AI Ecosystem",
+    "link": "https://www.wsj.com/articles/oracle-co-ceos-defend-massive-data-center-expansion-plan-to-offer-ai-ecosystem-af644dee?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-10-00 +0000"
+  },
+  {
+    "headline": "Woman Is Granted a Protective Order Against Representative Cory Mills",
+    "link": "https://www.nytimes.com/2025/10/14/us/cory-mills-lindsey-langston-florida-rep.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-01-08-24 +0000"
+  },
+  {
+    "headline": "Bangladesh garment factory fire kills at least 16",
+    "link": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-15-01-06-09 +0000"
+  },
+  {
+    "headline": "Asian Currencies Consolidate; Ongoing U.S.-China Trade Tensions May Weigh",
+    "link": "https://www.wsj.com/articles/asian-currencies-consolidate-ongoing-u-s-china-trade-tensions-may-weigh-95a8a4f4",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-03-00 +0000"
+  },
+  {
+    "headline": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-01-01-31 +0000"
+  },
+  {
+    "headline": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-01-01-31 +0000"
+  },
+  {
+    "headline": "After Israeli Withdrawal, Hamas Launches Violent Crackdown on Rivals in Gaza",
+    "link": "https://www.wsj.com/world/middle-east/hamas-gaza-israel-withdrawal-33d69b55",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-00-00 +0000"
+  },
+  {
+    "headline": "China, Betting It Can Win a Trade War, Is Playing Hardball With Trump",
+    "link": "https://www.wsj.com/world/china/china-trade-war-trump-talks-25c50136",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-00-00 +0000"
+  },
+  {
+    "headline": "Here’s a Sneak Peek Into Southwest’s New Boarding Plan",
+    "link": "https://www.wsj.com/lifestyle/travel/heres-a-sneak-peek-into-southwests-new-boarding-plan-4b96251b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-15-01-00-00 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks Transfer of Miami Property for Trump Library",
+    "link": "https://www.nytimes.com/2025/10/14/us/miami-trump-library.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-57-06 +0000"
+  },
+  {
+    "headline": "Inmates Make Brazen Escape in Guatemala",
+    "link": "https://www.nytimes.com/2025/10/14/world/americas/guatemala-prison-escape.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-56-18 +0000"
+  },
+  {
+    "headline": "Inmates Make Brazen Escape in Guatemala",
+    "link": "https://www.nytimes.com/2025/10/14/world/americas/guatemala-prison-escape.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-56-18 +0000"
+  },
+  {
+    "headline": "Rachmaninoff rocks… pop? You bet your sweet ‘A’ Train",
+    "link": "https://48hills.org/2025/10/rachmaninoff-rocks-pop-pianist-conrad-tao-san-francisco-performances/",
+    "source": "48hills",
+    "pubdate": "2025-10-15-00-55-54 +0000"
+  },
+  {
+    "headline": "Marc Benioff exposed himself as craven and hollow. He has company.",
+    "link": "https://missionlocal.org/2025/10/marc-benioff-national-guard-san-francisco-donald-trump/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-15-00-50-49 +0000"
+  },
+  {
+    "headline": "Florida mother arrested for allegedly forcing 11-year-old daughter to perform sex acts on video – including bestiality",
+    "link": "https://nypost.com/2025/10/14/us-news/florida-mother-arrested-for-allegedly-forcing-11-year-old-daughter-to-perform-sex-acts-on-video/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-49-32 +0000"
+  },
+  {
+    "headline": "Ukraine tells residents to leave dozens of villages near city of Kupiansk",
+    "link": "https://www.cbc.ca/news/world/ukraine-kupiansk-mass-evacuations-9.6938708?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-15-00-47-29 +0000"
+  },
+  {
+    "headline": "Suspected copper wire thief found inside a manhole in West L.A., faces charges, authorities say",
+    "link": "https://www.latimes.com/california/story/2025-10-14/suspected-copper-thief-found-inside-a-manwhole-in-west-l-a-arrested-and-charged",
+    "source": "latimes",
+    "pubdate": "2025-10-15-00-43-16 +0000"
+  },
+  {
+    "headline": "NRA sues California over alleged Glock ban aimed at illegal machine gun 'switches'",
+    "link": "https://www.latimes.com/california/story/2025-10-14/nra-sues-to-block-a-new-california-law-outlawing-sale-of-glock-handguns",
+    "source": "latimes",
+    "pubdate": "2025-10-15-00-38-44 +0000"
+  },
+  {
+    "headline": "NRA sues California over alleged Glock ban aimed at illegal machine gun 'switches'",
+    "link": "https://www.latimes.com/california/story/2025-10-14/nra-sues-to-block-a-new-california-law-outlawing-sale-of-glock-handguns",
+    "source": "latimes",
+    "pubdate": "2025-10-15-00-38-44 +0000"
+  },
+  {
+    "headline": "ICE Is Cracking Down on Chicago. Some Chicagoans Are Fighting Back.",
+    "link": "https://www.nytimes.com/2025/10/14/us/chicago-ice-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-38-07 +0000"
+  },
+  {
+    "headline": "British social media star 'Big John' detained in Australia over visa",
+    "link": "https://www.bbc.com/news/articles/cwy196k9p4po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-15-00-35-55 +0000"
+  },
+  {
+    "headline": "State Department revokes visas from 6 foreigners over vile Charlie Kirk comments",
+    "link": "https://nypost.com/2025/10/14/media/state-department-revokes-visas-from-foreigners-over-offensive-charlie-kirk-comments/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-30-30 +0000"
+  },
+  {
+    "headline": "The Nature Conservancy buys more than 12,000 acres in northeastern Minnesota for conservation",
+    "link": "https://www.startribune.com/the-nature-conservancy-buys-more-than-12000-acres-in-northeastern-minnesota-for-conservation/601492041",
+    "source": "startribune",
+    "pubdate": "2025-10-15-00-27-54 +0000"
+  },
+  {
+    "headline": "Jack Smith Calls Idea That Politics Infected Trump Prosecutions ‘Ludicrous’",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-24-43 +0000"
+  },
+  {
+    "headline": "Jack Smith Calls Idea That Politics Infected Trump Prosecutions ‘Ludicrous’",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-24-43 +0000"
+  },
+  {
+    "headline": "California gov. candidate Katie Porter refuses to say there aren’t more videos of her bullying behavior",
+    "link": "https://nypost.com/2025/10/14/us-news/california-gov-candidate-katie-porter-refuses-to-say-there-arent-more-videos-of-her-bullying-behavior/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-23-28 +0000"
+  },
+  {
+    "headline": "California gov. candidate Katie Porter refuses to say there aren’t more videos of her bullying behavior",
+    "link": "https://nypost.com/2025/10/14/us-news/california-gov-candidate-katie-porter-refuses-to-say-there-arent-more-videos-of-her-bullying-behavior/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-23-28 +0000"
+  },
+  {
+    "headline": "D4vd’s former Hollywood Hills landlord hires private investigator to probe death of Celeste Rivas",
+    "link": "https://nypost.com/2025/10/14/us-news/d4vds-former-hollywood-hills-landlord-hires-private-investigator-to-probe-death-of-celeste-rivas/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-13-19 +0000"
+  },
+  {
+    "headline": "Appeals court defends ban of ‘Let’s Go Brandon’ shirts in Michigan school",
+    "link": "https://nypost.com/2025/10/14/us-news/appeals-court-defends-ban-of-lets-go-brandon-shirts-in-michigan-school/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-08-48 +0000"
+  },
+  {
+    "headline": "Dog leads authorities to uncover suspected human remains near Palmdale",
+    "link": "https://www.latimes.com/california/story/2025-10-14/dog-leads-authorities-to-uncover-suspected-human-remains-near-palmdale",
+    "source": "latimes",
+    "pubdate": "2025-10-15-00-08-13 +0000"
+  },
+  {
+    "headline": "Trump administration looks for ways to pay federal officers during shutdown",
+    "link": "https://www.bbc.com/news/articles/c4gp55kkk2wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-15-00-03-23 +0000"
+  },
+  {
+    "headline": "Trump administration looks for ways to pay federal officers during shutdown",
+    "link": "https://www.bbc.com/news/articles/c4gp55kkk2wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-15-00-03-23 +0000"
+  },
+  {
+    "headline": "Trump Awards Charlie Kirk the Presidential Medal of Freedom",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-charlie-kirk-medal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-03-00 +0000"
+  },
+  {
+    "headline": "Trump Awards Charlie Kirk the Presidential Medal of Freedom",
+    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-charlie-kirk-medal.html",
+    "source": "nyt",
+    "pubdate": "2025-10-15-00-03-00 +0000"
+  },
+  {
+    "headline": "Maniac who allegedly killed, burned elderly NYC couple snatched Yankees ball from inside their home",
+    "link": "https://nypost.com/2025/10/14/us-news/maniac-who-allegedly-killed-burned-elderly-nyc-couple-snatched-yankees-ball-from-inside-their-home/",
+    "source": "nypost",
+    "pubdate": "2025-10-15-00-02-14 +0000"
+  },
+  {
+    "headline": "Authorities identify 16 killed in Tennessee explosives factory blast",
+    "link": "https://www.bbc.com/news/articles/c98n4g3p1x8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-15-00-01-25 +0000"
+  },
+  {
+    "headline": "As Israel’s Hostages Came Home, a Mother From Nepal Learned Her Son Would Not",
+    "link": "https://www.wsj.com/world/as-israels-hostages-came-home-a-mother-from-nepal-learned-her-son-would-not-5b27683a",
+    "source": "wsj",
+    "pubdate": "2025-10-15-00-00-00 +0000"
+  },
+  {
+    "headline": "Analysis: As the Vikings quarterbacks turn, Max Brosmer watches and learns",
+    "link": "https://www.startribune.com/minnesota-vikings-max-brosmer-jj-mccarthy-carson-wentz-gophers-qb/601488557",
+    "source": "startribune",
+    "pubdate": "2025-10-15-00-00-00 +0000"
+  },
+  {
+    "headline": "The U.S. military is making one of its most significant pushes yet into modern nuclear power with a program to put small reactors on Army bases across much of the country where power grids can’t keep up with energy demands",
+    "link": "https://www.wsj.com/politics/national-security/u-s-army-plans-to-power-bases-with-tiny-nuclear-reactors-c41c1383",
+    "source": "wsj",
+    "pubdate": "2025-10-14-23-58-00 +0000"
+  },
+  {
+    "headline": "Stefanik, Cotton urge Trump administration to probe CAIR over ‘potential ties’ to Hamas",
+    "link": "https://nypost.com/2025/10/14/us-news/elise-stefanik-tom-cotton-push-trump-admin-to-probe-cair-for-potential-hamas-financial-link/",
+    "source": "nypost",
+    "pubdate": "2025-10-14-23-55-56 +0000"
+  },
+  {
+    "headline": "Stefanik, Cotton urge Trump administration to probe CAIR over ‘potential ties’ to Hamas",
+    "link": "https://nypost.com/2025/10/14/us-news/elise-stefanik-tom-cotton-push-trump-admin-to-probe-cair-for-potential-hamas-financial-link/",
+    "source": "nypost",
+    "pubdate": "2025-10-14-23-55-56 +0000"
+  },
+  {
+    "headline": "As U.S. Warships Patrol Caribbean, Drug Smugglers Shift Tactics",
+    "link": "https://www.nytimes.com/2025/10/14/us/us-drug-trafficking-boats-caribbean.html",
+    "source": "nyt",
+    "pubdate": "2025-10-14-23-52-05 +0000"
+  },
+  {
+    "headline": "As U.S. Warships Patrol Caribbean, Drug Smugglers Shift Tactics",
+    "link": "https://www.nytimes.com/2025/10/14/us/us-drug-trafficking-boats-caribbean.html",
+    "source": "nyt",
+    "pubdate": "2025-10-14-23-52-05 +0000"
+  },
+  {
     "headline": "Suspect Pleads Guilty in Firebombing of Pennsylvania Governor’s Residence",
     "link": "https://www.nytimes.com/2025/10/14/us/arson-harrisburg-cody-balmer-josh-shapiro.html",
     "source": "nyt",
     "pubdate": "2025-10-14-23-41-19 +0000"
+  },
+  {
+    "headline": "Trump says he could pull Boston’s World Cup games, though FIFA chooses sites",
+    "link": "https://www.cbc.ca/sports/soccer/worldcup/trump-world-cup-threat-games-boston-9.6938672?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-14-23-40-49 +0000"
   },
   {
     "headline": "Share Your Videos of ICE Interactions",
@@ -90,16 +354,22 @@
     "pubdate": "2025-10-14-23-14-57 +0000"
   },
   {
-    "headline": "White House Guts Education Department With More Layoffs",
+    "headline": "Trump Administration Guts Education Department With More Layoffs",
     "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-education-department-federal-layoffs.html",
     "source": "nyt",
-    "pubdate": "2025-10-14-23-12-41 +0000"
+    "pubdate": "2025-10-14-23-12-42 +0000"
   },
   {
-    "headline": "White House Guts Education Department With More Layoffs",
+    "headline": "Trump Administration Guts Education Department With More Layoffs",
     "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-education-department-federal-layoffs.html",
     "source": "nyt",
-    "pubdate": "2025-10-14-23-12-41 +0000"
+    "pubdate": "2025-10-14-23-12-42 +0000"
+  },
+  {
+    "headline": "The Indian woman who stood up to moral policing - and won a pageant",
+    "link": "https://www.bbc.com/news/articles/cqlzqzlnvvpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-14-23-10-21 +0000"
   },
   {
     "headline": "Jeep-Maker Stellantis Plans $13 Billion Investment to Boost U.S. Manufacturing",
@@ -186,8 +456,8 @@
     "pubdate": "2025-10-14-22-31-05 +0000"
   },
   {
-    "headline": "Liberals holding slight edge in tight race for Newfoundland and Labrador’s next government",
-    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/livestory/liberals-holding-slight-edge-in-tight-race-for-newfoundland-and-labradors-next-government-9.6935250?cmp=rss",
+    "headline": "Progressive Conservatives end 10 years of Liberal rule in N.L., CBC News projects",
+    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/livestory/progressive-conservatives-end-10-years-of-liberal-rule-in-n-l-cbc-news-projects-9.6935250?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-14-22-29-22 +0000"
   },
@@ -420,16 +690,10 @@
     "pubdate": "2025-10-14-21-28-57 +0000"
   },
   {
-    "headline": "Gun-wielding NYPD surgeon, Touro professor forced himself on younger woman asking for job advice: prosecutors",
+    "headline": "Gun-wielding purported NYPD surgeon, Touro professor forced himself on younger woman asking for job advice: prosecutors",
     "link": "https://nypost.com/2025/10/14/us-news/gun-wielding-nypd-surgeon-touro-professor-forced-himself-on-younger-woman-asking-for-job-advice-prosecutors/",
     "source": "nypost",
     "pubdate": "2025-10-14-21-19-58 +0000"
-  },
-  {
-    "headline": "As Vikings prepare for Saquon Barkley, Brian Flores says fixes for run defense are ‘non-sexy’",
-    "link": "https://www.startribune.com/minnesota-vikings-philadelphia-eagles-saquon-barkley-blake-cashman-will-reichard/601488542",
-    "source": "startribune",
-    "pubdate": "2025-10-14-21-15-00 +0000"
   },
   {
     "headline": "1 Dead, 2 Missing After Flooding in Alaska",
@@ -454,18 +718,6 @@
     "link": "https://www.nytimes.com/2025/10/14/business/economy/us-china-trade-tariffs-global-economy.html",
     "source": "nyt",
     "pubdate": "2025-10-14-21-10-44 +0000"
-  },
-  {
-    "headline": "Republicans Summon Jack Smith to Testify Before House Judiciary Committee",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-21-10-30 +0000"
-  },
-  {
-    "headline": "Republicans Summon Jack Smith to Testify Before House Judiciary Committee",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-21-10-30 +0000"
   },
   {
     "headline": "Energy & Utilities Roundup: Market Talk",
@@ -510,7 +762,7 @@
     "pubdate": "2025-10-14-21-00-47 +0000"
   },
   {
-    "headline": "Twins anticipating managerial interviews with Rowson, Shelton and Vázquez on the list",
+    "headline": "Twins to interview Rowson, Shelton, Vázquez for manager position",
     "link": "https://www.startribune.com/twins-manager-search-rocco-baldelli-shelton-vazquez-rowson-yankees-red-sox/601492296",
     "source": "startribune",
     "pubdate": "2025-10-14-20-57-45 +0000"
@@ -556,18 +808,6 @@
     "link": "https://www.nytimes.com/2025/10/14/us/dallin-oaks-mormon-latter-day-saints.html",
     "source": "nyt",
     "pubdate": "2025-10-14-20-53-28 +0000"
-  },
-  {
-    "headline": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-20-52-14 +0000"
-  },
-  {
-    "headline": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
-    "link": "https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-20-52-14 +0000"
   },
   {
     "headline": "How the U.S. and the Arab World Teamed Up to Seal the Gaza Deal",
@@ -621,19 +861,13 @@
     "headline": "Trump Enacts Tariffs on Imported Lumber and Furniture",
     "link": "https://www.nytimes.com/2025/10/14/business/economy/trump-tariffs-lumber-furniture-china.html",
     "source": "nyt",
-    "pubdate": "2025-10-14-20-43-18 +0000"
+    "pubdate": "2025-10-14-20-43-19 +0000"
   },
   {
     "headline": "Trump Enacts Tariffs on Imported Lumber and Furniture",
     "link": "https://www.nytimes.com/2025/10/14/business/economy/trump-tariffs-lumber-furniture-china.html",
     "source": "nyt",
-    "pubdate": "2025-10-14-20-43-18 +0000"
-  },
-  {
-    "headline": "Mexican cartels put bounties of up to $50K on heads of ICE, CBP officers in Chicago: DHS",
-    "link": "https://nypost.com/2025/10/14/us-news/mexican-cartels-put-bounties-of-up-to-50k-on-heads-of-ice-cbp-officers-in-chicago-dhs/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-20-41-57 +0000"
+    "pubdate": "2025-10-14-20-43-19 +0000"
   },
   {
     "headline": "Mexican cartels put bounties of up to $50K on heads of ICE, CBP officers in Chicago: DHS",
@@ -652,12 +886,6 @@
     "link": "https://www.nytimes.com/2025/10/14/world/africa/madagascar.html",
     "source": "nyt",
     "pubdate": "2025-10-14-20-39-11 +0000"
-  },
-  {
-    "headline": "Cops nab ruffian linked to robbery of 99-year-old NYC landlord who had stroke and died: sources",
-    "link": "https://nypost.com/2025/10/14/us-news/cops-nab-ruffian-linked-to-robbery-of-99-year-old-nyc-landlord-who-had-stroke-and-died-sources/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-20-35-47 +0000"
   },
   {
     "headline": "See Advanced Weaponry the U.S. Is Deploying to the Caribbean",
@@ -676,18 +904,6 @@
     "link": "https://www.latimes.com/politics/story/2025-10-14/hegseth-pentagon-press-policy-1st-amendment",
     "source": "latimes",
     "pubdate": "2025-10-14-20-30-41 +0000"
-  },
-  {
-    "headline": "Eric Adams’ chilling warning on Zohran Mamdani, DSA as outgoing mayor rips into front-runner",
-    "link": "https://nypost.com/2025/10/14/us-news/eric-adams-chilling-warning-on-zohran-mamdani-dsa-as-outgoing-mayor-rips-into-front-runner/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-20-28-30 +0000"
-  },
-  {
-    "headline": "Stubborn Columbia now the last Ivy League holdout to not require SAT or ACT scores — but why?",
-    "link": "https://nypost.com/2025/10/14/opinion/princeton-reinstates-sat-requirement-making-stubborn-columbia-the-last-test-optional-ivy/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-20-27-38 +0000"
   },
   {
     "headline": "Opinion | Racial Gerrymandering Is a Bad Idea Whose Time Has Gone",
@@ -720,22 +936,10 @@
     "pubdate": "2025-10-14-20-25-00 +0000"
   },
   {
-    "headline": "Patriotic painting unveiled at Port Authority cops’ World Trade Center  HQ",
-    "link": "https://nypost.com/2025/10/14/us-news/patriotic-painting-unveiled-at-port-authority-cops-world-trade-center-hq/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-20-22-32 +0000"
-  },
-  {
     "headline": "Reusse: A tribute to Gregg Wong, a fine sportswriter and a fine human being",
     "link": "https://www.startribune.com/patrick-reusse-column-gregg-wong-pioneer-press-sportswriter-alzheimers/601448692",
     "source": "startribune",
     "pubdate": "2025-10-14-20-21-41 +0000"
-  },
-  {
-    "headline": "Long Island’s oldest police force turns 150: ‘We’ve met every challenge’",
-    "link": "https://nypost.com/2025/10/14/us-news/long-islands-oldest-highly-battle-tested-police-force-turns-150/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-20-21-15 +0000"
   },
   {
     "headline": "Italian PM Giorgia Meloni jokes she’d ‘kill someone’ if she was forced to quit smoking: ‘Impossible’",
@@ -778,12 +982,6 @@
     "link": "https://www.cbc.ca/news/world/us-fifth-venezuela-boat-strike-9.6938219?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-14-20-07-01 +0000"
-  },
-  {
-    "headline": "Letitia James’ ‘fugitive’ relative who lives in her Virginia home was arrested twice for assaulting cops: docs",
-    "link": "https://nypost.com/2025/10/14/us-news/letitia-james-fugitive-relative-was-arrested-twice-for-assaulting-cops-docs/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-20-06-45 +0000"
   },
   {
     "headline": "Letitia James’ ‘fugitive’ relative who lives in her Virginia home was arrested twice for assaulting cops: docs",
@@ -852,13 +1050,13 @@
     "pubdate": "2025-10-14-19-57-13 +0000"
   },
   {
-    "headline": "Military says it has seized power in Madagascar after president moves to 'safe place'",
+    "headline": "Madagascar military says it has seized power as president moves to 'safe place'",
     "link": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-14-19-55-46 +0000"
   },
   {
-    "headline": "Military says it has seized power in Madagascar after president moves to 'safe place'",
+    "headline": "Madagascar military says it has seized power as president moves to 'safe place'",
     "link": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-14-19-55-46 +0000"
@@ -1164,18 +1362,6 @@
     "pubdate": "2025-10-14-18-05-18 +0000"
   },
   {
-    "headline": "As U.S. Warships Patrol Caribbean, Drug Smugglers Shift Tactics",
-    "link": "https://www.nytimes.com/2025/10/14/us/us-drug-trafficking-boats-caribbean.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-18-05-08 +0000"
-  },
-  {
-    "headline": "As U.S. Warships Patrol Caribbean, Drug Smugglers Shift Tactics",
-    "link": "https://www.nytimes.com/2025/10/14/us/us-drug-trafficking-boats-caribbean.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-18-05-08 +0000"
-  },
-  {
     "headline": "Gold Finds Another Record as Traders Eye Further Upside",
     "link": "https://www.wsj.com/articles/gold-rises-buoyed-by-bullish-fundamental-backdrop-4ff3f866?mod=rss_markets_main",
     "source": "wsj",
@@ -1228,12 +1414,6 @@
     "link": "https://www.nytimes.com/2025/10/14/business/france-economy-prime-minister.html",
     "source": "nyt",
     "pubdate": "2025-10-14-17-57-13 +0000"
-  },
-  {
-    "headline": "Major Media Outlets Rebuff New Pentagon Press Policy",
-    "link": "https://www.wsj.com/business/media/major-media-outlets-rebuff-new-pentagon-press-policy-6c6b05c7?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-14-17-53-00 +0000"
   },
   {
     "headline": "Major Media Outlets Rebuff New Pentagon Press Policy",
@@ -1458,18 +1638,6 @@
     "pubdate": "2025-10-14-16-34-00 +0000"
   },
   {
-    "headline": "Trump administration looks for ways to pay federal officers during shutdown",
-    "link": "https://www.bbc.com/news/articles/c4gp55kkk2wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-14-16-32-44 +0000"
-  },
-  {
-    "headline": "Trump administration looks for ways to pay federal officers during shutdown",
-    "link": "https://www.bbc.com/news/articles/c4gp55kkk2wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-14-16-32-44 +0000"
-  },
-  {
     "headline": "LendingTree CEO Dies in ATV Accident on Family Farm",
     "link": "https://www.wsj.com/business/lendingtree-ceo-dies-in-accident-60bb76d8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1480,6 +1648,12 @@
     "link": "https://www.bbc.com/news/articles/c5y4558r5gko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-14-16-20-31 +0000"
+  },
+  {
+    "headline": "My friend Bipin threw back Hamas grenade - and saved my life",
+    "link": "https://www.bbc.com/news/articles/cy0kllzqk1vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-14-16-20-30 +0000"
   },
   {
     "headline": "My friend Bipin threw back Hamas grenade - and saved my life",
@@ -2016,12 +2190,6 @@
     "pubdate": "2025-10-14-11-48-10 +0000"
   },
   {
-    "headline": "Authorities identify 16 killed in Tennessee explosives factory blast",
-    "link": "https://www.bbc.com/news/articles/c98n4g3p1x8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-14-11-22-07 +0000"
-  },
-  {
     "headline": "Cuban dissident begins US exile after release from jail",
     "link": "https://www.bbc.com/news/articles/clykwd9e256o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2038,6 +2206,12 @@
     "link": "https://www.cbc.ca/news/world/kremlin-khodorkovsky-9.6937416?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-14-11-09-59 +0000"
+  },
+  {
+    "headline": "Two of the Biggest U.S. Timberland Owners Strike Deal to Combine",
+    "link": "https://www.wsj.com/business/deals/two-of-the-biggest-u-s-timberland-owners-near-deal-to-combine-93cbfbc8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-14-11-07-00 +0000"
   },
   {
     "headline": "Two of the Biggest U.S. Timberland Owners Strike Deal to Combine",
@@ -2196,12 +2370,6 @@
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
   {
-    "headline": "Minnesota often at the receiving end of Trump Justice Department’s legal blitz",
-    "link": "https://www.startribune.com/trump-justice-departments-blitz-of-lawsuits-frequently-targets-minnesota-whats-the-impact/601484434",
-    "source": "startribune",
-    "pubdate": "2025-10-14-10-00-00 +0000"
-  },
-  {
     "headline": "Inside Advertising’s Most Grueling New Genre: ‘You Have to Have Zero Social Anxiety’",
     "link": "https://www.wsj.com/articles/inside-advertisings-most-grueling-new-genre-you-have-to-have-zero-social-anxiety-a196ec6d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -2332,12 +2500,6 @@
     "link": "https://www.washingtonpost.com/national-security/2025/10/14/trump-gaza-middle-east-peace/",
     "source": "wapo",
     "pubdate": "2025-10-14-09-00-00 +0000"
-  },
-  {
-    "headline": "Trump Takes a Victory Lap, but Avoids Questions About What’s Next",
-    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/trump-victory-lap-whats-next.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-08-47-44 +0000"
   },
   {
     "headline": "Trump Takes a Victory Lap, but Avoids Questions About What’s Next",
@@ -2668,101 +2830,5 @@
     "link": "https://48hills.org/2025/10/news-media-coverage-about-luries-upzoning-plan-misses-the-most-important-player/",
     "source": "48hills",
     "pubdate": "2025-10-14-01-29-54 +0000"
-  },
-  {
-    "headline": "California governor rejects bill to phase out \"forever\" chemicals used in cookware, children's products",
-    "link": "https://www.latimes.com/california/story/2025-10-13/nonstick-cookware-forever-chemicals-bill",
-    "source": "latimes",
-    "pubdate": "2025-10-14-01-16-54 +0000"
-  },
-  {
-    "headline": "Cautious RBA in No Rush to Cut Rates Further",
-    "link": "https://www.wsj.com/articles/cautious-rba-in-no-rush-to-cut-rates-further-6f8bbd6c",
-    "source": "wsj",
-    "pubdate": "2025-10-14-01-16-00 +0000"
-  },
-  {
-    "headline": "Trump’s Big Gamble on Tackling the Middle East’s Intractable Problems",
-    "link": "https://www.wsj.com/world/middle-east/trump-middle-east-peace-plan-fc13d83e",
-    "source": "wsj",
-    "pubdate": "2025-10-14-01-00-00 +0000"
-  },
-  {
-    "headline": "The White House move to lay off roughly 4,000 government workers amid the shutdown is expected to affect everything from financing community development to supporting special education",
-    "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-federal-layoffs-agencies-5f58cd1a",
-    "source": "wsj",
-    "pubdate": "2025-10-14-01-00-00 +0000"
-  },
-  {
-    "headline": "Elevated levels of a dangerous chemical detected near two L.A. County factories",
-    "link": "https://www.latimes.com/environment/story/2025-10-13/regulators-issue-violations-to-two-paramount-foundries-for-hexavalent-chromium",
-    "source": "latimes",
-    "pubdate": "2025-10-14-00-56-15 +0000"
-  },
-  {
-    "headline": "Nato chief jokes about 'limping' Russian submarine",
-    "link": "https://www.bbc.com/news/articles/ckgk2pn4v9lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-14-00-39-23 +0000"
-  },
-  {
-    "headline": "Inside SF’s private surveillance state",
-    "link": "https://48hills.org/2025/10/sfs-private-surveillance-state/",
-    "source": "48hills",
-    "pubdate": "2025-10-14-00-37-03 +0000"
-  },
-  {
-    "headline": "Catapult Targets Soccer Transfer Fees With Latest Acquisition, CEO Says",
-    "link": "https://www.wsj.com/business/catapult-targets-soccer-transfer-fees-with-latest-acquisition-ceo-says-ce23f2aa?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-14-00-37-00 +0000"
-  },
-  {
-    "headline": "Nvidia CEO Jensen Huang expresses gratitude after Israeli employee released by Hamas: ‘Welcome home’",
-    "link": "https://nypost.com/2025/10/13/business/nvidia-ceo-jensen-huang-expresses-gratitude-after-israeli-employee-released-by-hamas/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-00-35-31 +0000"
-  },
-  {
-    "headline": "Nvidia CEO Jensen Huang expresses gratitude after Israeli employee released by Hamas: ‘Welcome home’",
-    "link": "https://nypost.com/2025/10/13/business/nvidia-ceo-jensen-huang-expresses-gratitude-after-israeli-employee-released-by-hamas/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-00-35-31 +0000"
-  },
-  {
-    "headline": "Newsom vetoes bill that would have granted priority college admission for descendants of slavery",
-    "link": "https://www.latimes.com/california/story/2025-10-13/governor-vetos-reparations-bill",
-    "source": "latimes",
-    "pubdate": "2025-10-14-00-31-47 +0000"
-  },
-  {
-    "headline": "Newsom vetoes bill that would have granted priority college admission for descendants of slavery",
-    "link": "https://www.latimes.com/california/story/2025-10-13/governor-vetos-reparations-bill",
-    "source": "latimes",
-    "pubdate": "2025-10-14-00-31-47 +0000"
-  },
-  {
-    "headline": "A Divided Israel Unites in Joy as Hostages Come Home",
-    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/israel-hostages-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-00-20-04 +0000"
-  },
-  {
-    "headline": "A Divided Israel Unites in Joy as Hostages Come Home",
-    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/israel-hostages-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-00-20-04 +0000"
-  },
-  {
-    "headline": "A Divided Israel Unites in Joy as Hostages Come Home",
-    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/israel-hostages-gaza.html",
-    "source": "nyt",
-    "pubdate": "2025-10-14-00-20-04 +0000"
-  },
-  {
-    "headline": "Mitt Romney’s sister-in-law Carrie Elizabeth found dead at 64 on LA suburb street",
-    "link": "https://nypost.com/2025/10/13/us-news/mitt-romneys-sister-in-law-carrie-elizabeth-found-dead-at-64-on-la-suburb-street/",
-    "source": "nypost",
-    "pubdate": "2025-10-14-00-11-04 +0000"
   }
 ]
