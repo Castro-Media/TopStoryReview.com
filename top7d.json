@@ -1,41 +1,34 @@
 [
   {
-    "score": 395,
+    "score": 393,
     "pubdate": "2025-10-13-03-42-00 +0000",
     "source": "wsj",
     "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 182,
+    "score": 180,
     "pubdate": "2025-10-16-02-09-00 +0000",
     "source": "wsj",
     "headline": "Democrats and Republicans both feel they have the upper hand in the government shutdown, and President Trump hasn’t signaled what deal he would support",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-deal-difficult-ba9df10b"
   },
   {
-    "score": 172,
+    "score": 161,
     "pubdate": "2025-10-14-14-33-51 +0000",
     "source": "nyt",
     "headline": "How Trump’s Gaza Peace Plan Presents Hurdles for Israel and Hamas",
     "link": "https://www.nytimes.com/2025/10/14/world/middleeast/gaza-talks-phase-two.html"
   },
   {
-    "score": 151,
+    "score": 155,
     "pubdate": "2025-10-16-09-13-15 +0000",
     "source": "wapo",
     "headline": "Trump says India will stop buying Russian oil. New Delhi won’t confirm.",
     "link": "https://www.washingtonpost.com/world/2025/10/16/india-trump-russian-oil-trade-us/"
   },
   {
-    "score": 115,
-    "pubdate": "2025-10-14-20-13-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump announced another lethal military strike on an alleged drug-trafficking boat off the coast of Venezuela, which killed six people",
-    "link": "https://www.wsj.com/politics/national-security/trump-venezuela-boat-strike-c4130a61"
-  },
-  {
-    "score": 110,
+    "score": 108,
     "pubdate": "2025-10-15-19-58-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is putting together a $20 billion private finance facility that could act as a backstop for Argentina’s debt, Treasury Secretary Scott Bessent said Wednesday",
@@ -49,6 +42,13 @@
     "link": "https://www.latimes.com/california/story/2025-10-11/former-l-a-schools-chief-plans-to-announce-a-run-for-mayor"
   },
   {
+    "score": 104,
+    "pubdate": "2025-10-14-20-13-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump announced another lethal military strike on an alleged drug-trafficking boat off the coast of Venezuela, which killed six people",
+    "link": "https://www.wsj.com/politics/national-security/trump-venezuela-boat-strike-c4130a61"
+  },
+  {
     "score": 101,
     "pubdate": "2025-10-13-14-06-13 +0000",
     "source": "latimes",
@@ -56,17 +56,17 @@
     "link": "https://www.latimes.com/business/story/2025-10-13/gov-newsom-signs-ai-safety-bill"
   },
   {
-    "score": 98,
-    "pubdate": "2025-10-13-16-51-39 +0000",
-    "source": "bbc",
-    "headline": "'You're my life, my hero': Hostages reunite with families after two years",
-    "link": "https://www.bbc.com/news/articles/cyv8p8m4qg6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 95,
+    "score": 96,
     "pubdate": "2025-10-14-01-16-54 +0000",
     "source": "latimes",
     "headline": "California governor rejects bill to phase out \"forever\" chemicals used in cookware, children's products",
     "link": "https://www.latimes.com/california/story/2025-10-13/nonstick-cookware-forever-chemicals-bill"
+  },
+  {
+    "score": 93,
+    "pubdate": "2025-10-14-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The White House move to lay off roughly 4,000 government workers amid the shutdown is expected to affect everything from financing community development to supporting special education",
+    "link": "https://www.wsj.com/politics/policy/trump-government-shutdown-federal-layoffs-agencies-5f58cd1a"
   }
 ]
