@@ -1,20 +1,20 @@
 [
   {
-    "score": 210,
+    "score": 208,
     "pubdate": "2025-10-16-02-09-00 +0000",
     "source": "wsj",
     "headline": "Democrats and Republicans both feel they have upper hand in the government shutdown, and President Trump hasn’t signaled what deal he would support",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-deal-difficult-ba9df10b"
   },
   {
-    "score": 86,
+    "score": 87,
     "pubdate": "2025-10-15-20-52-20 +0000",
     "source": "nyt",
     "headline": "Supreme Court Appears Skeptical of Key Provision of Voting Rights Act",
     "link": "https://www.nytimes.com/2025/10/15/us/politics/supreme-court-voting-rights-act.html"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2025-10-15-16-07-50 +0000",
     "source": "nypost",
     "headline": "US student group calls for ‘death’ to Zionist collaborators as Hamas carries out brutal executions across Gaza",
@@ -35,7 +35,7 @@
     "link": "https://www.latimes.com/california/story/2025-10-15/palisades-fire-suspect-indicted-felony-charges-45-years-prison"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2025-10-15-16-59-39 +0000",
     "source": "nyt",
     "headline": "U.S. to Take Control of More Companies as China’s Rare Earth Dominance Grows",
@@ -49,13 +49,6 @@
     "link": "https://www.wsj.com/articles/lower-u-s-tariffs-would-boost-india-growth-outlook-says-central-bank-chief-5415c300"
   },
   {
-    "score": 59,
-    "pubdate": "2025-10-16-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "AI Data Centers, Desperate for Electricity, Are Building Their Own Power Plants",
-    "link": "https://www.wsj.com/business/energy-oil/ai-data-centers-desperate-for-electricity-are-building-their-own-power-plants-291f5c81?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 58,
     "pubdate": "2025-10-15-23-55-36 +0000",
     "source": "nypost",
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/10/15/us-news/democratic-rep-seth-moulton-launches-primary-challenge-for-ed-markeys-massachusetts-senate-seat-argues-longtime-lawmaker-is-too-old-to-serve-another-term/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-15-20-57-00 +0000",
+    "score": 57,
+    "pubdate": "2025-10-16-01-00-00 +0000",
     "source": "wsj",
-    "headline": "Canada Threatens Stellantis With Legal Action Over Jeep Move to U.S.",
-    "link": "https://www.wsj.com/world/americas/canada-threatens-stellantis-with-legal-action-over-jeep-move-to-u-s-24f5b293"
+    "headline": "AI Data Centers, Desperate for Electricity, Are Building Their Own Power Plants",
+    "link": "https://www.wsj.com/business/energy-oil/ai-data-centers-desperate-for-electricity-are-building-their-own-power-plants-291f5c81?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-10-15-20-04-01 +0000",
+    "source": "nyt",
+    "headline": "Hegseth Warns U.S. Will Impose ‘Costs’ on Russia if Peace Efforts Falter",
+    "link": "https://www.nytimes.com/2025/10/15/us/politics/hegseth-russia-ukraine.html"
   }
 ]
