@@ -1,17 +1,10 @@
 [
   {
-    "score": 211,
+    "score": 210,
     "pubdate": "2025-10-16-02-09-00 +0000",
     "source": "wsj",
     "headline": "Democrats and Republicans both feel they have upper hand in the government shutdown, and President Trump hasn’t signaled what deal he would support",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-deal-difficult-ba9df10b"
-  },
-  {
-    "score": 84,
-    "pubdate": "2025-10-15-20-52-20 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Appears Skeptical of Key Provision of Voting Rights Act",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/supreme-court-voting-rights-act.html"
   },
   {
     "score": 84,
@@ -21,7 +14,14 @@
     "link": "https://nypost.com/2025/10/15/world-news/students-for-justice-in-palestine-call-for-death-to-collaborators-as-hamas-carries-out-brutal-executions-across-gaza/"
   },
   {
-    "score": 69,
+    "score": 84,
+    "pubdate": "2025-10-15-20-52-20 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Appears Skeptical of Key Provision of Voting Rights Act",
+    "link": "https://www.nytimes.com/2025/10/15/us/politics/supreme-court-voting-rights-act.html"
+  },
+  {
+    "score": 68,
     "pubdate": "2025-10-15-23-41-38 +0000",
     "source": "latimes",
     "headline": "Man accused of maliciously igniting Palisades fire faces new charges, up to 45 years in prison",
