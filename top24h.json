@@ -1,52 +1,66 @@
 [
   {
-    "score": 204,
+    "score": 198,
     "pubdate": "2025-10-16-02-09-00 +0000",
     "source": "wsj",
     "headline": "Democrats and Republicans both feel they have the upper hand in the government shutdown, and President Trump hasn’t signaled what deal he would support",
     "link": "https://www.wsj.com/politics/policy/government-shutdown-deal-difficult-ba9df10b"
   },
   {
-    "score": 94,
+    "score": 92,
     "pubdate": "2025-10-16-14-19-27 +0000",
     "source": "bbc",
     "headline": "India casts doubt on Trump's claim Modi will stop buying Russian oil",
     "link": "https://www.bbc.com/news/articles/c8eykdy0567o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 79,
-    "pubdate": "2025-10-15-17-27-42 +0000",
-    "source": "nyt",
-    "headline": "Putin Welcomes Syria’s New President in Moscow, While Still Harboring al-Assad",
-    "link": "https://www.nytimes.com/2025/10/15/world/europe/russia-syria-putin-al-shara-moscow-visit-assad.html"
+    "score": 73,
+    "pubdate": "2025-10-15-20-20-41 +0000",
+    "source": "nypost",
+    "headline": "Bodies of 2 more hostages returned to Israel — as Hamas has access to more than it claims: report",
+    "link": "https://nypost.com/2025/10/15/world-news/red-cross-received-remains-of-2-more-hamas-hostages-to-be-handed-over-to-israel/"
   },
   {
-    "score": 76,
-    "pubdate": "2025-10-16-15-57-07 +0000",
-    "source": "nyt",
-    "headline": "Israel Marks Two Years Since Oct. 7 as a Fragile Cease-Fire in Gaza Holds",
-    "link": "https://www.nytimes.com/2025/10/16/world/middleeast/israel-october-7-attack-hamas-ceasefire.html"
+    "score": 72,
+    "pubdate": "2025-10-16-08-38-00 +0000",
+    "source": "wsj",
+    "headline": "Global Markets Mixed as Dollar Drops on Fed Rate-Cut Hopes, Gold Reaches New Record",
+    "link": "https://www.wsj.com/finance/commodities-futures/global-markets-mixed-as-dollar-drops-on-fed-rate-cut-hopes-gold-reaches-new-record-9fe7e7f0"
   },
   {
-    "score": 69,
+    "score": 63,
     "pubdate": "2025-10-16-10-12-08 +0000",
     "source": "nyt",
     "headline": "China Fans Patriotic Sentiment as Trade War With U.S. Heats Up",
     "link": "https://www.nytimes.com/2025/10/16/world/asia/china-nationalism-trade-war.html"
   },
   {
-    "score": 63,
+    "score": 62,
+    "pubdate": "2025-10-16-14-00-14 +0000",
+    "source": "nypost",
+    "headline": "Chaos erupts after Kenyan forces fire in air, lob tear gas to disperse mourners at opposition leader Raila Odinga’s viewing",
+    "link": "https://nypost.com/2025/10/16/world-news/kenyan-forces-fire-in-air-lob-tear-gas-to-disperse-mourners-at-odinga-viewing/"
+  },
+  {
+    "score": 60,
     "pubdate": "2025-10-15-19-58-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is putting together a $20 billion private finance facility that could act as a backstop for Argentina’s debt, Treasury Secretary Scott Bessent said Wednesday",
     "link": "https://www.wsj.com/politics/policy/trump-administration-arranging-20-billion-private-finance-facility-for-argentina-6c536551"
   },
   {
-    "score": 60,
-    "pubdate": "2025-10-15-20-20-41 +0000",
+    "score": 56,
+    "pubdate": "2025-10-15-19-08-54 +0000",
+    "source": "bbc",
+    "headline": "Syria's Sharaa meets Putin in Moscow for first time since fall of Assad",
+    "link": "https://www.bbc.com/news/articles/c201p2dd6r4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-10-16-07-13-35 +0000",
     "source": "nypost",
-    "headline": "Bodies of 2 more hostages returned to Israel — as Hamas has access to more than it claims: report",
-    "link": "https://nypost.com/2025/10/15/world-news/red-cross-received-remains-of-2-more-hamas-hostages-to-be-handed-over-to-israel/"
+    "headline": "Just-released hostage attends funeral of fellow soldier, whose body was among few returned from Gaza",
+    "link": "https://nypost.com/2025/10/16/world-news/just-released-hostage-attends-funeral-of-fellow-soldier-whose-body-was-among-few-returned-from-gaza/"
   },
   {
     "score": 53,
@@ -54,19 +68,5 @@
     "source": "nyt",
     "headline": "Jeep Parent Stellantis, Faced With Trump’s Tariffs, Shifts Auto Production From Canada to the U.S.",
     "link": "https://www.nytimes.com/2025/10/15/world/canada/stellantis-auto-production-canada-us-trump-tariffs.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-10-16-16-19-23 +0000",
-    "source": "bbc",
-    "headline": "EU sets 2027 target for anti-drone system to defend against Russia",
-    "link": "https://www.bbc.com/news/articles/c4gz2ppye5zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-10-16-01-36-00 +0000",
-    "source": "wsj",
-    "headline": "More than three dozen organizations and individuals are expected to attend a dinner with Trump on Wednesday after opening their checkbooks to support a $250 million White House ballroom",
-    "link": "https://www.wsj.com/politics/policy/trump-ballroom-donors-white-house-dinner-ccba9448"
   }
 ]
