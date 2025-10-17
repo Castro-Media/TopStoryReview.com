@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 50,
+    "pubdate": "2025-10-17-19-55-00 +0000",
+    "source": "wsj",
+    "headline": "Salesforce Chief Executive Marc Benioff is apologizing for comments in which he called for President Trump to send the National Guard to San Francisco",
+    "link": "https://www.wsj.com/politics/policy/marc-benioff-apologizes-for-national-guard-comments-bc4d6827"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-10-17-19-56-00 +0000",
+    "source": "wsj",
+    "headline": "Bank of Canada Gov. Tiff Macklem said data next week gauging the corporate sales outlook and inflation are likely to tip the scales on whether the central bank follows up September’s rate cut with another reduction later this month",
+    "link": "https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-10-17-20-49-26 +0000",
+    "source": "nypost",
+    "headline": "Trump says Ukraine might not need Tomahawks to end war as Zelensky pitches drone deal",
+    "link": "https://nypost.com/2025/10/17/us-news/trump-says-ukraine-might-not-need-tomahawks-to-end-war-as-zelensky-pitches-drone-deal/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-17-20-34-36 +0000",
+    "source": "nyt",
+    "headline": "Trump Threatens New Cuts to Federal Aid, Workers During Shutdown",
+    "link": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-17-19-56-37 +0000",
+    "source": "nyt",
+    "headline": "Maps: Where the U.S. Is Building Up Military Force in the Caribbean",
+    "link": "https://www.nytimes.com/2025/10/17/us/politics/trump-caribbean-venezuela-us-military-maps.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-10-17-20-02-54 +0000",
+    "source": "nypost",
+    "headline": "Swing district House GOP incumbents haul in $100K more than vulnerable Dems as midterm odds brighten",
+    "link": "https://nypost.com/2025/10/17/us-news/swing-district-house-gop-incumbents-haul-in-100k-more-than-vulnerable-dems/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-17-20-06-32 +0000",
+    "source": "bbc",
+    "headline": "Polish judge refuses to extradite Ukrainian Nord Stream blasts suspect",
+    "link": "https://www.bbc.com/news/articles/c8drmzv98jzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-17-20-30-59 +0000",
+    "source": "nyt",
+    "headline": "Federal Courts Run Out of Funding Amid Government Shutdown, Threatening Delays",
+    "link": "https://www.nytimes.com/2025/10/17/us/politics/courts-funding-shutdown.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-17-20-16-34 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani’s top staffer caught saying ‘who gives a s–t’ what cops think of NYC mayoral front-runner: video",
+    "link": "https://nypost.com/2025/10/17/us-news/zohran-mamdanis-top-campaign-staffer-caught-saying-who-gives-a-s-t-what-cops-think-of-nyc-mayoral-front-runner-video/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-10-17-19-58-50 +0000",
+    "source": "nyt",
+    "headline": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
+    "link": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html"
+  }
+]
