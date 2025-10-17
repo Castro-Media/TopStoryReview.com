@@ -78,8 +78,14 @@
     "pubdate": "2025-10-17-08-04-45 +0000"
   },
   {
-    "headline": "Canada Post labour dispute disrupts delivery of voter cards, mail-in ballots",
-    "link": "https://www.cbc.ca/news/politics/canada-post-elections-ballots-9.6940722?cmp=rss",
+    "headline": "Why Ukraine-Russia peace will be harder for Trump than Gaza deal",
+    "link": "https://www.cbc.ca/news/world/trump-ukraine-russia-zelenskyy-washington-9.6940012?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-17-08-00-00 +0000"
+  },
+  {
+    "headline": "Thousands of aid vehicles must reach Gaza weekly to ease crisis, UN's humanitarian relief chief says",
+    "link": "https://www.cbc.ca/news/world/humanitarian-aid-gaza-rafah-border-tom-fletcher-9.6941704?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-17-08-00-00 +0000"
   },
@@ -90,14 +96,8 @@
     "pubdate": "2025-10-17-08-00-00 +0000"
   },
   {
-    "headline": "Why Ukraine-Russia peace will be harder for Trump than Gaza deal",
-    "link": "https://www.cbc.ca/news/world/trump-ukraine-russia-zelenskyy-washington-9.6940012?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-17-08-00-00 +0000"
-  },
-  {
-    "headline": "Thousands of aid vehicles must reach Gaza weekly to ease crisis, UN's humanitarian relief chief says",
-    "link": "https://www.cbc.ca/news/world/humanitarian-aid-gaza-rafah-border-tom-fletcher-9.6941704?cmp=rss",
+    "headline": "Canada Post labour dispute disrupts delivery of voter cards, mail-in ballots",
+    "link": "https://www.cbc.ca/news/politics/canada-post-elections-ballots-9.6940722?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-17-08-00-00 +0000"
   },
@@ -307,13 +307,13 @@
   },
   {
     "headline": "BBVA’s $19 Billion Hostile Takeover Bid for Sabadell Falls Through",
-    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-17-05-45-00 +0000"
   },
   {
     "headline": "BBVA’s $19 Billion Hostile Takeover Bid for Sabadell Falls Through",
-    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-17-05-45-00 +0000"
   },
@@ -738,14 +738,8 @@
     "pubdate": "2025-10-17-01-00-00 +0000"
   },
   {
-    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
-    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-17-01-00-00 +0000"
-  },
-  {
-    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
-    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
+    "headline": "Venezuela Mobilizes Troops and Militias as U.S. Military Looms Offshore",
+    "link": "https://www.wsj.com/world/americas/venezuela-military-movement-militia-c59ca9ef",
     "source": "wsj",
     "pubdate": "2025-10-17-01-00-00 +0000"
   },
@@ -756,8 +750,14 @@
     "pubdate": "2025-10-17-01-00-00 +0000"
   },
   {
-    "headline": "Venezuela Mobilizes Troops and Militias as U.S. Military Looms Offshore",
-    "link": "https://www.wsj.com/world/americas/venezuela-military-movement-militia-c59ca9ef",
+    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
+    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-17-01-00-00 +0000"
+  },
+  {
+    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
+    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-17-01-00-00 +0000"
   },
@@ -1333,18 +1333,6 @@
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7d10dc72?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-16-21-02-00 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-41fd36c2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-16-21-02-00 +0000"
-  },
-  {
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7d10dc72?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-21-02-00 +0000"
@@ -1356,6 +1344,18 @@
     "pubdate": "2025-10-16-21-02-00 +0000"
   },
   {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7d10dc72?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-16-21-02-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-41fd36c2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-16-21-02-00 +0000"
+  },
+  {
     "headline": "Machado’s Nobel Peace Prize Brings Hope and Scrutiny to Venezuela’s Opposition",
     "link": "https://www.nytimes.com/2025/10/16/world/americas/machado-nobel-peace-prize-venezuela-opposition.html",
     "source": "nyt",
@@ -1369,13 +1369,13 @@
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=rss_markets_main",
+    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-21-00-00 +0000"
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-21-00-00 +0000"
   },
@@ -1501,13 +1501,13 @@
   },
   {
     "headline": "Oil Prices Drop to the Lowest Level in Nearly Five Years",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-20-15-00 +0000"
   },
   {
     "headline": "Oil Prices Drop to the Lowest Level in Nearly Five Years",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-20-15-00 +0000"
   },
@@ -1981,13 +1981,13 @@
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-16-44-00 +0000"
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-16-44-00 +0000"
   },
@@ -2838,9 +2838,9 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "PCAOB Proposes 20% Cut to Board Pay Amid SEC Scrutiny",
-    "link": "https://www.wsj.com/articles/pcaob-proposes-20-cut-to-board-pay-amid-sec-scrutiny-9de99b12?mod=rss_markets_main",
-    "source": "wsj",
+    "headline": "Beyond Meat's stock collapses after debt deal",
+    "link": "https://www.latimes.com/business/story/2025-10-16/beyond-meat-fake-meat-pioneer-financial-trouble-plant-based-impossible",
+    "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
@@ -2850,9 +2850,9 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "Beyond Meat's stock collapses after debt deal",
-    "link": "https://www.latimes.com/business/story/2025-10-16/beyond-meat-fake-meat-pioneer-financial-trouble-plant-based-impossible",
-    "source": "latimes",
+    "headline": "PCAOB Proposes 20% Cut to Board Pay Amid SEC Scrutiny",
+    "link": "https://www.wsj.com/articles/pcaob-proposes-20-cut-to-board-pay-amid-sec-scrutiny-9de99b12?mod=rss_markets_main",
+    "source": "wsj",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
@@ -2878,131 +2878,5 @@
     "link": "https://nypost.com/2025/10/16/world-news/brazilian-priest-father-luciano-braga-simplicio-hid-parishioners-fiancee-underneath-bathroom-sink/",
     "source": "nypost",
     "pubdate": "2025-10-16-09-58-20 +0000"
-  },
-  {
-    "headline": "Uruguay legalises euthanasia after 10-hour debate",
-    "link": "https://www.bbc.com/news/articles/c7v8336zmvro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-09-47-31 +0000"
-  },
-  {
-    "headline": "Hamas hands over bodies of Israel’s last female hostage Inbar Hayman, dad of 13 Muhammad Al-Atresh",
-    "link": "https://nypost.com/2025/10/16/world-news/hamas-hands-over-bodies-of-two-more-israeli-hostages-inbar-hayman-and-muhammad-al-atresh/",
-    "source": "nypost",
-    "pubdate": "2025-10-16-09-45-16 +0000"
-  },
-  {
-    "headline": "Titan submersible imploded due to poor engineering, say US officials",
-    "link": "https://www.bbc.com/news/articles/cdeg7y4171xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-09-43-48 +0000"
-  },
-  {
-    "headline": "UK economy grew slightly in August ahead of key Budget",
-    "link": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-09-42-45 +0000"
-  },
-  {
-    "headline": "UK economy grew slightly in August ahead of key Budget",
-    "link": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-09-42-45 +0000"
-  },
-  {
-    "headline": "L.A. County Declares State of Emergency Over Immigration Raids",
-    "link": "https://www.nytimes.com/2025/10/15/world/americas/los-angeles-emergency-immigration-raids.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-40-15 +0000"
-  },
-  {
-    "headline": "L.A. County Declares State of Emergency Over Immigration Raids",
-    "link": "https://www.nytimes.com/2025/10/15/world/americas/los-angeles-emergency-immigration-raids.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-40-15 +0000"
-  },
-  {
-    "headline": "Israel Begins Burying Its Dead Hostages",
-    "link": "https://www.nytimes.com/2025/10/15/world/middleeast/israel-hostages-funerals.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-32-35 +0000"
-  },
-  {
-    "headline": "Israel Begins Burying Its Dead Hostages",
-    "link": "https://www.nytimes.com/2025/10/15/world/middleeast/israel-hostages-funerals.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-32-35 +0000"
-  },
-  {
-    "headline": "Big Banks Cash In on Well-Heeled Borrowers",
-    "link": "https://www.wsj.com/finance/banking/big-banks-cash-in-on-well-heeled-borrowers-379e4701?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-16-09-30-00 +0000"
-  },
-  {
-    "headline": "They Signed Up for Citi’s New Premium Card. It Turned Into a Nightmare.",
-    "link": "https://www.wsj.com/personal-finance/credit/citi-new-premium-credit-card-problems-b99f7642?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-16-09-30-00 +0000"
-  },
-  {
-    "headline": "TiVo Has Sold Its Last DVR. These People Refuse to Let Go.",
-    "link": "https://www.wsj.com/lifestyle/tivo-dvr-cord-cutting-5a428638?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-16-09-30-00 +0000"
-  },
-  {
-    "headline": "Diane Keaton's family thank public for 'love and support' after actress's death",
-    "link": "https://www.bbc.com/news/articles/c1e38xqx1qwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-09-28-29 +0000"
-  },
-  {
-    "headline": "Armed With Anemones: How Some Young Fish Survive in the Sea",
-    "link": "https://www.nytimes.com/2025/10/16/science/marine-biology-blackwater-anemones-fishes.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-03-22 +0000"
-  },
-  {
-    "headline": "Faulty Engineering Among Causes of Titan Submersible Implosion, NTSB Concludes",
-    "link": "https://www.nytimes.com/2025/10/16/us/titan-submersible-implosion-cause-ntsb-investigation.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-00-55 +0000"
-  },
-  {
-    "headline": "Inside the Reporting on Assad’s Top Officials Who Fled Syria",
-    "link": "https://www.nytimes.com/2025/10/16/world/middleeast/assad-regime-officials-reporting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-00-38 +0000"
-  },
-  {
-    "headline": "Inside the Reporting on Assad’s Top Officials Who Fled Syria",
-    "link": "https://www.nytimes.com/2025/10/16/world/middleeast/assad-regime-officials-reporting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-00-38 +0000"
-  },
-  {
-    "headline": "High-End Amenities in Office Buildings? These N.Y. Tenants Say No Thanks.",
-    "link": "https://www.nytimes.com/2025/10/16/business/office-amenities-class-b-buildings.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-09-00-22 +0000"
-  },
-  {
-    "headline": "‘It broke me’: Inside the FBI hunt for the online predators who persuaded a 13-year-old to die",
-    "link": "https://www.washingtonpost.com/investigations/interactive/2025/white-tiger-764-fbi-search/",
-    "source": "wapo",
-    "pubdate": "2025-10-16-09-00-11 +0000"
-  },
-  {
-    "headline": "What Happens When Oil and Gas Wells Die? West Virginia Has a New Plan for That",
-    "link": "https://www.wsj.com/business/energy-oil/what-happens-when-oil-and-gas-wells-die-west-virginia-has-a-new-plan-for-that-8beb4856?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-16-09-00-00 +0000"
-  },
-  {
-    "headline": "What Happens When Oil and Gas Wells Die? West Virginia Has a New Plan for That",
-    "link": "https://www.wsj.com/business/energy-oil/what-happens-when-oil-and-gas-wells-die-west-virginia-has-a-new-plan-for-that-8beb4856?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-16-09-00-00 +0000"
   }
 ]
