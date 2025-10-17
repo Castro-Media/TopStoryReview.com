@@ -1,39 +1,243 @@
 [
   {
+    "headline": "Trump, buoyed by Gaza deal, plans Putin summit on Ukraine peace",
+    "link": "https://www.washingtonpost.com/politics/2025/10/16/trump-buoyed-by-gaza-deal-plans-putin-summit-ukraine-peace/",
+    "source": "wapo",
+    "pubdate": "2025-10-17-08-47-22 +0000"
+  },
+  {
+    "headline": "Massachusetts school staffer dies after she’s allegedly kicked in chest by 14-year-old student",
+    "link": "https://nypost.com/2025/10/17/us-news/massachusetts-school-staffer-amy-morrell-dies-after-shes-allegedly-kicked-in-chest-by-14-year-old-student/",
+    "source": "nypost",
+    "pubdate": "2025-10-17-08-40-36 +0000"
+  },
+  {
+    "headline": "Major UK rare earths refinery scrapped in favour of US",
+    "link": "https://www.bbc.com/news/articles/czxnv7y03nno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-08-37-15 +0000"
+  },
+  {
+    "headline": "Global Markets Largely Down, Gold Extends Streak as Fed Rate-Cut Hopes Grow",
+    "link": "https://www.wsj.com/finance/stocks/global-markets-largely-down-gold-extends-streak-as-fed-rate-cut-hopes-grow-3aaae2b7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-17-08-36-00 +0000"
+  },
+  {
+    "headline": "Tomiichi Murayama, Japanese Leader Who Gave War Apology, Dies at 101",
+    "link": "https://www.nytimes.com/2025/10/17/world/asia/tomiichi-murayama-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-08-30-24 +0000"
+  },
+  {
+    "headline": "Tomiichi Murayama, Japanese Leader Who Gave War Apology, Dies at 101",
+    "link": "https://www.nytimes.com/2025/10/17/world/asia/tomiichi-murayama-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-08-30-24 +0000"
+  },
+  {
+    "headline": "Madagascar military leader sworn in as president after youth-led protests",
+    "link": "https://www.bbc.com/news/articles/cr7mn1n53jno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-08-20-29 +0000"
+  },
+  {
+    "headline": "Taylor Swift fans flock to German museum to see Ophelia painting",
+    "link": "https://www.bbc.com/news/articles/cvgvwvq2jg4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-08-11-35 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Dow Futures Drop",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-17-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-17-08-10-07 +0000"
+  },
+  {
+    "headline": "Explosive device destroys prominent Italian journalist Sigfrido Ranucci’s car outside his home: ‘Serious act of intimidation’",
+    "link": "https://nypost.com/2025/10/17/world-news/italy-journalist-sigfrido-ranucci-car-destroyed-in-targeted-explosion-in-pomezia/",
+    "source": "nypost",
+    "pubdate": "2025-10-17-08-07-44 +0000"
+  },
+  {
+    "headline": "Explosion Destroys Vehicles Outside Home of Italian Journalist",
+    "link": "https://www.nytimes.com/2025/10/17/world/europe/sigfrido-ranucci-car-bomb.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-08-07-01 +0000"
+  },
+  {
+    "headline": "Explosion Destroys Vehicles Outside Home of Italian Journalist",
+    "link": "https://www.nytimes.com/2025/10/17/world/europe/sigfrido-ranucci-car-bomb.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-08-07-01 +0000"
+  },
+  {
+    "headline": "Ukraine in maps: Tracking the war with Russia",
+    "link": "https://www.bbc.com/news/articles/c0l0k4389g2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-08-04-45 +0000"
+  },
+  {
+    "headline": "Canada Post labour dispute disrupts delivery of voter cards, mail-in ballots",
+    "link": "https://www.cbc.ca/news/politics/canada-post-elections-ballots-9.6940722?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-17-08-00-00 +0000"
+  },
+  {
+    "headline": "Canadian charities complicit in helping fund Israeli settlement movement in West Bank, critics say",
+    "link": "https://www.cbc.ca/news/canada/canadian-charities-israeli-settlement-movement-west-bank-9.6939381?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-17-08-00-00 +0000"
+  },
+  {
+    "headline": "Why Ukraine-Russia peace will be harder for Trump than Gaza deal",
+    "link": "https://www.cbc.ca/news/world/trump-ukraine-russia-zelenskyy-washington-9.6940012?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-17-08-00-00 +0000"
+  },
+  {
+    "headline": "Thousands of aid vehicles must reach Gaza weekly to ease crisis, UN's humanitarian relief chief says",
+    "link": "https://www.cbc.ca/news/world/humanitarian-aid-gaza-rafah-border-tom-fletcher-9.6941704?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-17-08-00-00 +0000"
+  },
+  {
+    "headline": "Canadian charities complicit in helping fund Israeli settlement movement in West Bank, critics say",
+    "link": "https://www.cbc.ca/news/canada/canadian-charities-israeli-settlement-movement-west-bank-9.6939381?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-17-08-00-00 +0000"
+  },
+  {
+    "headline": "Thousands gather for state funeral of former Kenyan Prime Minister Odinga",
+    "link": "https://www.bbc.com/news/articles/cwyp98k9rnpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-07-55-09 +0000"
+  },
+  {
+    "headline": "Thousands gather for state funeral of former Kenyan Prime Minister Odinga",
+    "link": "https://www.bbc.com/news/articles/cwyp98k9rnpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-07-55-09 +0000"
+  },
+  {
+    "headline": "Gold’s Safe-Haven Demand Grows on Worries About U.S. Credit Sector",
+    "link": "https://www.wsj.com/articles/gold-climbs-amid-safe-haven-demand-33d47716?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-17-07-55-00 +0000"
+  },
+  {
+    "headline": "Apple, Caught Between U.S. and China, Pledges Investment in Both",
+    "link": "https://www.nytimes.com/2025/10/17/business/apple-china-us-tim-cook-investment-tech-war.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-41-40 +0000"
+  },
+  {
+    "headline": "Zelensky to make case for missiles at White House, after Trump and Putin agree meeting",
+    "link": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-07-40-01 +0000"
+  },
+  {
+    "headline": "Zelensky to make case for missiles at White House, after Trump and Putin agree meeting",
+    "link": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-07-40-01 +0000"
+  },
+  {
+    "headline": "Zelensky to make case for missiles at White House, after Trump and Putin agree meeting",
+    "link": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-07-40-01 +0000"
+  },
+  {
+    "headline": "Kanchha Sherpa, Last Member of First Team to Conquer Everest, Dies at 92",
+    "link": "https://www.nytimes.com/2025/10/16/world/asia/kanchha-sherpa-mt-everest-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-30-35 +0000"
+  },
+  {
+    "headline": "Kanchha Sherpa, Last Member of First Team to Conquer Everest, Dies at 92",
+    "link": "https://www.nytimes.com/2025/10/16/world/asia/kanchha-sherpa-mt-everest-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-30-35 +0000"
+  },
+  {
+    "headline": "After ‘Productive’ Call, Trump Plans Another Meeting With Putin",
+    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-25-40 +0000"
+  },
+  {
+    "headline": "After ‘Productive’ Call, Trump Plans Another Meeting With Putin",
+    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-25-40 +0000"
+  },
+  {
+    "headline": "After ‘Productive’ Call, Trump Plans Another Meeting With Putin",
+    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-25-40 +0000"
+  },
+  {
+    "headline": "After ‘Productive’ Call, Trump Plans Another Meeting With Putin",
+    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-25-40 +0000"
+  },
+  {
+    "headline": "'Wrong' to block Tel Aviv fans from Aston Villa match, says PM",
+    "link": "https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-07-14-54 +0000"
+  },
+  {
+    "headline": "Volvo Expects North American Truck Market to Weaken Next Year",
+    "link": "https://www.wsj.com/business/earnings/volvo-expects-north-american-truck-market-to-decline-next-year-f9c1c65b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-17-07-13-00 +0000"
+  },
+  {
+    "headline": "Devastating Floods in Mexico Test President Claudia Sheinbaum",
+    "link": "https://www.nytimes.com/2025/10/17/world/americas/mexico-floods-missing.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-08-54 +0000"
+  },
+  {
+    "headline": "Devastating Floods in Mexico Test President Claudia Sheinbaum",
+    "link": "https://www.nytimes.com/2025/10/17/world/americas/mexico-floods-missing.html",
+    "source": "nyt",
+    "pubdate": "2025-10-17-07-08-54 +0000"
+  },
+  {
+    "headline": "Cafes and food delivery apps are our new rivals, says Greene King boss",
+    "link": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-07-01-09 +0000"
+  },
+  {
+    "headline": "Smiths Group to Sell Smiths Interconnect to Molex in $1.75 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/smiths-group-to-sell-smiths-interconnect-to-molex-in-1-75-billion-deal-3b688880?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-17-06-59-00 +0000"
+  },
+  {
     "headline": "UK emissions would rise under Tory energy plan, Coutinho says",
     "link": "https://www.bbc.com/news/articles/cn97x3jy8w1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-06-50-09 +0000"
   },
   {
+    "headline": "Family of British girl missing for 55 years gives ultimatum to person of interest",
+    "link": "https://www.bbc.com/news/articles/c1e374lgn0wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-06-41-03 +0000"
+  },
+  {
     "headline": "Officials release cause of death for newlywed couple found in car just days before anniversary",
     "link": "https://nypost.com/2025/10/17/us-news/officials-release-cause-of-death-for-newlywed-couple-rachel-brandon-dumovich-found-in-car-just-days-before-anniversary/",
     "source": "nypost",
     "pubdate": "2025-10-17-06-36-03 +0000"
-  },
-  {
-    "headline": "Trump Plans to Meet With Putin to Talk About a Cease-Fire in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-06-24-41 +0000"
-  },
-  {
-    "headline": "Trump Plans to Meet With Putin to Talk About a Cease-Fire in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-06-24-41 +0000"
-  },
-  {
-    "headline": "Trump Plans to Meet With Putin to Talk About a Cease-Fire in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-06-24-41 +0000"
-  },
-  {
-    "headline": "Trump Plans to Meet With Putin to Talk About a Cease-Fire in Ukraine",
-    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-06-24-41 +0000"
   },
   {
     "headline": "Dem school board chair drops Senate bid after ‘radical empathy’ backlash over illegal immigrant superintendent",
@@ -54,30 +258,18 @@
     "pubdate": "2025-10-17-06-20-46 +0000"
   },
   {
+    "headline": "Author of I Want To Die But I Want To Eat Tteokbokki dies at 35",
+    "link": "https://www.bbc.com/news/articles/cpq1dy8w3jwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-06-20-46 +0000"
+  },
+  {
     "headline": "Revivals and farewells: Africa's top shots",
     "link": "https://www.bbc.com/news/articles/cze633w1775o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-06-18-00 +0000"
   },
   {
-    "headline": "Explosion Destroys Vehicles Outside Home of Italian Journalist",
-    "link": "https://www.nytimes.com/2025/10/17/world/europe/sigfrido-ranucci-car-bomb.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-06-16-38 +0000"
-  },
-  {
-    "headline": "Explosion Destroys Vehicles Outside Home of Italian Journalist",
-    "link": "https://www.nytimes.com/2025/10/17/world/europe/sigfrido-ranucci-car-bomb.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-06-16-38 +0000"
-  },
-  {
-    "headline": "Volvo Expects North American Truck Market to Decline Next Year",
-    "link": "https://www.wsj.com/business/earnings/volvo-expects-north-american-truck-market-to-decline-next-year-f9c1c65b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-17-06-15-00 +0000"
-  },
-  {
     "headline": "‘Squad’ Dem Rep. Rashida Tlaib spends eye-popping amount on luxury limo services in one year",
     "link": "https://nypost.com/2025/10/17/us-news/rep-rashida-tlaib-spends-eye-popping-amount-on-luxury-limo-services-in-one-year/",
     "source": "nypost",
@@ -100,30 +292,12 @@
     "link": "https://www.nytimes.com/2025/10/17/us/politics/nancy-pelosi-scott-wiener.html",
     "source": "nyt",
     "pubdate": "2025-10-17-06-08-56 +0000"
-  },
-  {
-    "headline": "'Wrong' to block Tel Aviv fans from Aston Villa match, says PM",
-    "link": "https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-06-02-19 +0000"
   },
   {
     "headline": "Fans from all over go crazy for ‘Purple Rain’ musical preview",
     "link": "https://www.startribune.com/fans-from-all-over-go-crazy-for-purple-rain-musical-preview/601482772",
     "source": "startribune",
     "pubdate": "2025-10-17-06-01-26 +0000"
-  },
-  {
-    "headline": "Tomiichi Murayama, Japanese Leader Who Gave War Apology, Dies at 101",
-    "link": "https://www.nytimes.com/2025/10/17/world/asia/tomiichi-murayama-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-05-53-38 +0000"
-  },
-  {
-    "headline": "Tomiichi Murayama, Japanese Leader Who Gave War Apology, Dies at 101",
-    "link": "https://www.nytimes.com/2025/10/17/world/asia/tomiichi-murayama-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-05-53-38 +0000"
   },
   {
     "headline": "Michigan underfire for plan to euthanize non-releasable fawn, Peanut, and coyote, Kota",
@@ -133,13 +307,13 @@
   },
   {
     "headline": "BBVA’s $19 Billion Hostile Takeover Bid for Sabadell Falls Through",
-    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-17-05-45-00 +0000"
   },
   {
     "headline": "BBVA’s $19 Billion Hostile Takeover Bid for Sabadell Falls Through",
-    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/banking/bbvas-19-billion-hostile-takeover-bid-for-sabadell-falls-through-74cea66a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-17-05-45-00 +0000"
   },
@@ -222,12 +396,6 @@
     "pubdate": "2025-10-17-04-09-12 +0000"
   },
   {
-    "headline": "Taylor Swift fans flock to German museum to see Ophelia painting",
-    "link": "https://www.bbc.com/news/articles/cvgvwvq2jg4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-04-08-13 +0000"
-  },
-  {
     "headline": "Souhan: Two Minnesota first-round draft picks in 2024 find themselves under the microscope",
     "link": "https://www.startribune.com/minnesota-vikings-jj-mccarthy-timberwolves-rob-dillingham-jim-souhan/601490872",
     "source": "startribune",
@@ -238,24 +406,6 @@
     "link": "https://www.nytimes.com/2025/10/17/business/media/trump-lawsuit-new-york-times.html",
     "source": "nyt",
     "pubdate": "2025-10-17-04-05-29 +0000"
-  },
-  {
-    "headline": "Zelensky to make missile case in US after Trump-Putin phone call",
-    "link": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-04-05-23 +0000"
-  },
-  {
-    "headline": "Zelensky to make missile case in US after Trump-Putin phone call",
-    "link": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-04-05-23 +0000"
-  },
-  {
-    "headline": "Zelensky to make missile case in US after Trump-Putin phone call",
-    "link": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-04-05-23 +0000"
   },
   {
     "headline": "Connecticut pup abandoned, tied to fence during heavy nor’easter downpours",
@@ -354,25 +504,19 @@
     "pubdate": "2025-10-17-02-55-32 +0000"
   },
   {
-    "headline": "Gold’s Long-Term Uptrend Remains Intact, Charts Show",
-    "link": "https://www.wsj.com/articles/gold-climbs-amid-safe-haven-demand-33d47716?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-17-02-55-00 +0000"
-  },
-  {
     "headline": "In Virginia A.G. Debate, Spotlight Is on Democratic Candidate’s Violent Texts",
     "link": "https://www.nytimes.com/2025/10/16/us/elections/virginia-debate-jay-jones-jason-miyares.html",
     "source": "nyt",
     "pubdate": "2025-10-17-02-46-16 +0000"
   },
   {
-    "headline": "Five takeaways from the Mamdani-Cuomo NYC mayoral debate",
+    "headline": "Five takeaways from NYC mayoral debate as Mamdani and Cuomo clash",
     "link": "https://www.bbc.com/news/articles/cn8xlx53jn6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-02-43-13 +0000"
   },
   {
-    "headline": "Five takeaways from the Mamdani-Cuomo NYC mayoral debate",
+    "headline": "Five takeaways from NYC mayoral debate as Mamdani and Cuomo clash",
     "link": "https://www.bbc.com/news/articles/cn8xlx53jn6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-02-43-13 +0000"
@@ -540,6 +684,12 @@
     "pubdate": "2025-10-17-01-31-59 +0000"
   },
   {
+    "headline": "China has found Trump's pain point - rare earths",
+    "link": "https://www.bbc.com/news/articles/ckg1jr18z4ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-01-31-59 +0000"
+  },
+  {
     "headline": "Small Plane Crashes in Michigan, Killing 3",
     "link": "https://www.nytimes.com/2025/10/16/us/plane-crash-bath-township-michigan.html",
     "source": "nyt",
@@ -588,8 +738,14 @@
     "pubdate": "2025-10-17-01-00-00 +0000"
   },
   {
-    "headline": "Venezuela Mobilizes Troops and Militias as U.S. Military Looms Offshore",
-    "link": "https://www.wsj.com/world/americas/venezuela-military-movement-militia-c59ca9ef",
+    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
+    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-17-01-00-00 +0000"
+  },
+  {
+    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
+    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-17-01-00-00 +0000"
   },
@@ -600,22 +756,10 @@
     "pubdate": "2025-10-17-01-00-00 +0000"
   },
   {
-    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
-    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
+    "headline": "Venezuela Mobilizes Troops and Militias as U.S. Military Looms Offshore",
+    "link": "https://www.wsj.com/world/americas/venezuela-military-movement-militia-c59ca9ef",
     "source": "wsj",
     "pubdate": "2025-10-17-01-00-00 +0000"
-  },
-  {
-    "headline": "The Auto Industry Is Panicking About Another Potential Chip Shortage",
-    "link": "https://www.wsj.com/business/autos/nexperia-auto-industry-chip-shortage-02f92559?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-17-01-00-00 +0000"
-  },
-  {
-    "headline": "Chamber of Commerce sues Trump over H-1B visa $100K fee for skilled foreign workers",
-    "link": "https://nypost.com/2025/10/16/us-news/chamber-of-commerce-sues-trump-over-h-1b-visa-100k-fee/",
-    "source": "nypost",
-    "pubdate": "2025-10-17-00-58-14 +0000"
   },
   {
     "headline": "Chamber of Commerce sues Trump over H-1B visa $100K fee for skilled foreign workers",
@@ -664,6 +808,12 @@
     "link": "https://www.wsj.com/business/invite-to-an-anti-dei-activist-prompts-hr-pros-to-pull-out-of-industry-event-ed514287?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-17-00-30-00 +0000"
+  },
+  {
+    "headline": "Venezuelan fishermen in fear after US strikes on boats in the Caribbean",
+    "link": "https://www.bbc.com/news/articles/c77z48lg2l5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-17-00-20-45 +0000"
   },
   {
     "headline": "Venezuelan fishermen in fear after US strikes on boats in the Caribbean",
@@ -774,6 +924,12 @@
     "pubdate": "2025-10-16-23-24-11 +0000"
   },
   {
+    "headline": "CIA deployment gives Trump no 'limitations' on Venezuela action",
+    "link": "https://www.bbc.com/news/articles/c751l7gqx1no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-16-23-24-11 +0000"
+  },
+  {
     "headline": "Justice Department Indicts Former Trump Adviser John Bolton",
     "link": "https://www.wsj.com/us-news/law/doj-john-bolton-indictment-95810188",
     "source": "wsj",
@@ -826,12 +982,6 @@
     "link": "https://www.bbc.com/news/articles/c2dn5gxxgz1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-16-23-06-33 +0000"
-  },
-  {
-    "headline": "Cafes and food delivery apps are our new rivals, Greene King CEO says",
-    "link": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-23-05-11 +0000"
   },
   {
     "headline": "British Gas owner among firms fined for underpaying staff",
@@ -1183,18 +1333,6 @@
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7d10dc72?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-16-21-02-00 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-41fd36c2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-16-21-02-00 +0000"
-  },
-  {
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7d10dc72?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-21-02-00 +0000"
@@ -1206,6 +1344,18 @@
     "pubdate": "2025-10-16-21-02-00 +0000"
   },
   {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7d10dc72?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-16-21-02-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-41fd36c2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-16-21-02-00 +0000"
+  },
+  {
     "headline": "Machado’s Nobel Peace Prize Brings Hope and Scrutiny to Venezuela’s Opposition",
     "link": "https://www.nytimes.com/2025/10/16/world/americas/machado-nobel-peace-prize-venezuela-opposition.html",
     "source": "nyt",
@@ -1219,13 +1369,13 @@
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-21-00-00 +0000"
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=rss_markets_main",
+    "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-74a69059?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-21-00-00 +0000"
   },
@@ -1290,18 +1440,6 @@
     "pubdate": "2025-10-16-20-33-09 +0000"
   },
   {
-    "headline": "Kanchha Sherpa, Last Member of First Team to Conquer Everest, Dies at 92",
-    "link": "https://www.nytimes.com/2025/10/16/world/asia/kanchha-sherpa-mt-everest-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-20-29-20 +0000"
-  },
-  {
-    "headline": "Kanchha Sherpa, Last Member of First Team to Conquer Everest, Dies at 92",
-    "link": "https://www.nytimes.com/2025/10/16/world/asia/kanchha-sherpa-mt-everest-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-20-29-20 +0000"
-  },
-  {
     "headline": "What we know about White House plans for an 'Arc de Trump'",
     "link": "https://www.bbc.com/news/articles/cy7e8lv176go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1363,13 +1501,13 @@
   },
   {
     "headline": "Oil Prices Drop to the Lowest Level in Nearly Five Years",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-20-15-00 +0000"
   },
   {
     "headline": "Oil Prices Drop to the Lowest Level in Nearly Five Years",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-20-15-00 +0000"
   },
@@ -1422,12 +1560,6 @@
     "pubdate": "2025-10-16-19-58-28 +0000"
   },
   {
-    "headline": "Treasury Yields Sink Amid Credit Jitters",
-    "link": "https://www.wsj.com/articles/jgbs-consolidate-ahead-of-expected-boj-policy-board-members-speech-2d4f2883?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-16-19-48-00 +0000"
-  },
-  {
     "headline": "Trump says he'll meet with Putin again after 'great progress' in Thursday phone call",
     "link": "https://www.cbc.ca/news/world/trump-putin-meeting-9.6941179?cmp=rss",
     "source": "cbc",
@@ -1462,18 +1594,6 @@
     "link": "https://www.wsj.com/finance/how-jefferies-found-itself-at-the-center-of-first-brands-collapse-290f0a74?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-19-18-00 +0000"
-  },
-  {
-    "headline": "At least three dead after Kenya police open fire to disperse mourners of ex-PM Raila Odinga",
-    "link": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-19-13-22 +0000"
-  },
-  {
-    "headline": "At least three dead after Kenya police open fire to disperse mourners of ex-PM Raila Odinga",
-    "link": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-19-13-22 +0000"
   },
   {
     "headline": "Harvard’s Endowment Jumps to $56.9 Billion",
@@ -1830,12 +1950,6 @@
     "pubdate": "2025-10-16-16-44-32 +0000"
   },
   {
-    "headline": "Ukraine in maps: Tracking the war with Russia",
-    "link": "https://www.bbc.com/news/articles/c0l0k4389g2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-16-44-26 +0000"
-  },
-  {
     "headline": "Russia Is Arming Drones With North Korean Cluster Weapons, Report Says",
     "link": "https://www.nytimes.com/2025/10/16/us/politics/russia-north-korean-cluster-weapons.html",
     "source": "nyt",
@@ -1867,13 +1981,13 @@
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-16-16-44-00 +0000"
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-c4b66217?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-16-44-00 +0000"
   },
@@ -2016,12 +2130,6 @@
     "pubdate": "2025-10-16-15-55-03 +0000"
   },
   {
-    "headline": "Bears kill seven people in Japan this year as attacks hit record high",
-    "link": "https://www.bbc.com/news/articles/cj41vn9q81ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-15-55-03 +0000"
-  },
-  {
     "headline": "Top US Army general says he’s using ChatGPT to help make key command decisions",
     "link": "https://nypost.com/2025/10/16/business/us-army-general-william-hank-taylor-uses-chatgpt-to-help-make-command-decisions/",
     "source": "nypost",
@@ -2062,12 +2170,6 @@
     "link": "https://www.nytimes.com/2025/10/16/us/oklahoma-schools-superintendent-bible-mandate.html",
     "source": "nyt",
     "pubdate": "2025-10-16-15-36-32 +0000"
-  },
-  {
-    "headline": "Major UK rare earths refinery scrapped in favour of US",
-    "link": "https://www.bbc.com/news/articles/czxnv7y03nno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-15-32-05 +0000"
   },
   {
     "headline": "PayPal partner accidentally mints $300 trillion in stablecoins in huge ‘technical error’",
@@ -2676,8 +2778,26 @@
     "pubdate": "2025-10-16-10-00-28 +0000"
   },
   {
+    "headline": "Housing Tracker: Southern California home values drop in August",
+    "link": "https://www.latimes.com/california/story/2025-10-16/housing-tracker-southern-california-home-values-dip-in-august",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
     "headline": "A popular charter faces closure to make more room for an LAUSD school",
     "link": "https://www.latimes.com/california/story/2025-10-16/charter-school-shut-down-by-la-school-board-to-make-room-for-a-district-campus",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "A major earthquake hasn't struck California's big cities in 3 decades. On Thursday, we will get a glimpse of one",
+    "link": "https://www.latimes.com/california/story/2025-10-16/what-do-you-do-when-an-earthquake-strikes-shakeout-drill-gives-pivotal-tips",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "Newsom signs veteran-backed bill to accelerate study of psychedelics for PTSD, mental health",
+    "link": "https://www.latimes.com/california/story/2025-10-16/newsom-signs-veteran-backed-bill-to-accelerate-study-of-psychedelics-for-ptsd-mental-health",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -2700,32 +2820,14 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "Inside the Brink's heist probe: how alleged burglars behind $100-million theft were caught",
-    "link": "https://www.latimes.com/california/story/2025-10-16/brinks-heist-investigation",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "A major earthquake hasn't struck California's big cities in 3 decades. On Thursday, we will get a glimpse of one",
-    "link": "https://www.latimes.com/california/story/2025-10-16/what-do-you-do-when-an-earthquake-strikes-shakeout-drill-gives-pivotal-tips",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "Housing Tracker: Southern California home values drop in August",
-    "link": "https://www.latimes.com/california/story/2025-10-16/housing-tracker-southern-california-home-values-dip-in-august",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "Newsom signs veteran-backed bill to accelerate study of psychedelics for PTSD, mental health",
-    "link": "https://www.latimes.com/california/story/2025-10-16/newsom-signs-veteran-backed-bill-to-accelerate-study-of-psychedelics-for-ptsd-mental-health",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
     "headline": "Beyond Meat's stock collapses after debt deal",
     "link": "https://www.latimes.com/business/story/2025-10-16/beyond-meat-fake-meat-pioneer-financial-trouble-plant-based-impossible",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "Inside the Brink's heist probe: how alleged burglars behind $100-million theft were caught",
+    "link": "https://www.latimes.com/california/story/2025-10-16/brinks-heist-investigation",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -2736,9 +2838,9 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "Beyond Meat's stock collapses after debt deal",
-    "link": "https://www.latimes.com/business/story/2025-10-16/beyond-meat-fake-meat-pioneer-financial-trouble-plant-based-impossible",
-    "source": "latimes",
+    "headline": "PCAOB Proposes 20% Cut to Board Pay Amid SEC Scrutiny",
+    "link": "https://www.wsj.com/articles/pcaob-proposes-20-cut-to-board-pay-amid-sec-scrutiny-9de99b12?mod=rss_markets_main",
+    "source": "wsj",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
@@ -2748,9 +2850,9 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "PCAOB Proposes 20% Cut to Board Pay Amid SEC Scrutiny",
-    "link": "https://www.wsj.com/articles/pcaob-proposes-20-cut-to-board-pay-amid-sec-scrutiny-9de99b12?mod=rss_markets_main",
-    "source": "wsj",
+    "headline": "Beyond Meat's stock collapses after debt deal",
+    "link": "https://www.latimes.com/business/story/2025-10-16/beyond-meat-fake-meat-pioneer-financial-trouble-plant-based-impossible",
+    "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
@@ -2796,12 +2898,6 @@
     "pubdate": "2025-10-16-09-43-48 +0000"
   },
   {
-    "headline": "Titan submersible imploded due to poor engineering, say US officials",
-    "link": "https://www.bbc.com/news/articles/cdeg7y4171xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-09-43-48 +0000"
-  },
-  {
     "headline": "UK economy grew slightly in August ahead of key Budget",
     "link": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2836,12 +2932,6 @@
     "link": "https://www.nytimes.com/2025/10/15/world/middleeast/israel-hostages-funerals.html",
     "source": "nyt",
     "pubdate": "2025-10-16-09-32-35 +0000"
-  },
-  {
-    "headline": "TiVo Has Sold Its Last DVR. These People Refuse to Let Go.",
-    "link": "https://www.wsj.com/lifestyle/tivo-dvr-cord-cutting-5a428638?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-16-09-30-00 +0000"
   },
   {
     "headline": "Big Banks Cash In on Well-Heeled Borrowers",
@@ -2852,6 +2942,12 @@
   {
     "headline": "They Signed Up for Citi’s New Premium Card. It Turned Into a Nightmare.",
     "link": "https://www.wsj.com/personal-finance/credit/citi-new-premium-credit-card-problems-b99f7642?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-16-09-30-00 +0000"
+  },
+  {
+    "headline": "TiVo Has Sold Its Last DVR. These People Refuse to Let Go.",
+    "link": "https://www.wsj.com/lifestyle/tivo-dvr-cord-cutting-5a428638?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-09-30-00 +0000"
   },
@@ -2908,53 +3004,5 @@
     "link": "https://www.wsj.com/business/energy-oil/what-happens-when-oil-and-gas-wells-die-west-virginia-has-a-new-plan-for-that-8beb4856?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-16-09-00-00 +0000"
-  },
-  {
-    "headline": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/trump-covert-cia-action-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-08-45-31 +0000"
-  },
-  {
-    "headline": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela",
-    "link": "https://www.nytimes.com/2025/10/15/us/politics/trump-covert-cia-action-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-10-16-08-45-31 +0000"
-  },
-  {
-    "headline": "Hamas releases two more bodies but says return of others will be difficult",
-    "link": "https://www.washingtonpost.com/world/2025/10/14/hamas-gaza-israel-hostages-killed/",
-    "source": "wapo",
-    "pubdate": "2025-10-16-08-41-45 +0000"
-  },
-  {
-    "headline": "Galeries Lafayette to open its first store in India amid luxury boom",
-    "link": "https://www.bbc.com/news/articles/cpq1zq0xgqxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-08-39-56 +0000"
-  },
-  {
-    "headline": "Global Markets Mixed as Dollar Drops on Fed Rate-Cut Hopes, Gold Reaches New Record",
-    "link": "https://www.wsj.com/finance/commodities-futures/global-markets-mixed-as-dollar-drops-on-fed-rate-cut-hopes-gold-reaches-new-record-9fe7e7f0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-16-08-38-00 +0000"
-  },
-  {
-    "headline": "Global Markets Mixed as Dollar Drops on Fed Rate-Cut Hopes, Gold Reaches New Record",
-    "link": "https://www.wsj.com/finance/commodities-futures/global-markets-mixed-as-dollar-drops-on-fed-rate-cut-hopes-gold-reaches-new-record-9fe7e7f0",
-    "source": "wsj",
-    "pubdate": "2025-10-16-08-38-00 +0000"
-  },
-  {
-    "headline": "Reeves urged to make Budget 'bold' or risk future tax rises",
-    "link": "https://www.bbc.com/news/articles/cg7n8v34jvlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-08-36-46 +0000"
-  },
-  {
-    "headline": "Reeves urged to make Budget 'bold' or risk future tax rises",
-    "link": "https://www.bbc.com/news/articles/cg7n8v34jvlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-16-08-36-46 +0000"
   }
 ]
