@@ -1,59 +1,66 @@
 [
   {
-    "score": 164,
+    "score": 179,
     "pubdate": "2025-10-17-21-16-00 +0000",
     "source": "wsj",
     "headline": "Salesforce Chief Executive Marc Benioff is apologizing for comments in which he called for President Trump to send the National Guard to San Francisco",
     "link": "https://www.wsj.com/politics/policy/marc-benioff-apologizes-for-national-guard-comments-bc4d6827"
   },
   {
-    "score": 79,
-    "pubdate": "2025-10-17-19-56-00 +0000",
-    "source": "wsj",
-    "headline": "Bank of Canada Gov. Tiff Macklem said data next week gauging the corporate sales outlook and inflation are likely to tip the scales on whether the central bank follows up September’s rate cut with another reduction later this month",
-    "link": "https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763"
-  },
-  {
-    "score": 79,
-    "pubdate": "2025-10-17-20-49-26 +0000",
-    "source": "nypost",
-    "headline": "Trump urges Russia, Ukraine to end war ‘where they are’ — and Zelensky agrees ‘both sides must stop’",
-    "link": "https://nypost.com/2025/10/17/us-news/trump-says-ukraine-might-not-need-tomahawks-to-end-war-as-zelensky-pitches-drone-deal/"
-  },
-  {
-    "score": 77,
+    "score": 84,
     "pubdate": "2025-10-17-16-42-19 +0000",
     "source": "nypost",
     "headline": "John Bolton spotted still using White House bag tag as he surrenders in classified documents case",
     "link": "https://nypost.com/2025/10/17/us-news/john-bolton-spotted-still-using-white-house-bag-tag-as-he-surrenders-in-classified-documents-case/"
   },
   {
+    "score": 80,
+    "pubdate": "2025-10-17-22-32-13 +0000",
+    "source": "nypost",
+    "headline": "Andrew Cuomo’s NYC public mayoral campaign schedule leaves insiders baffled as he tries to catch up to Zohran Mamdani",
+    "link": "https://nypost.com/2025/10/17/us-news/andrew-cuomos-public-nyc-mayoral-campaign-schedule-leaves-insiders-baffled-as-he-tries-to-catch-up-to-zohran-mamdani/"
+  },
+  {
+    "score": 76,
+    "pubdate": "2025-10-17-20-49-26 +0000",
+    "source": "nypost",
+    "headline": "Trump urges Russia, Ukraine to end war ‘where they are’ — and Zelensky agrees ‘both sides must stop’",
+    "link": "https://nypost.com/2025/10/17/us-news/trump-says-ukraine-might-not-need-tomahawks-to-end-war-as-zelensky-pitches-drone-deal/"
+  },
+  {
     "score": 67,
-    "pubdate": "2025-10-17-22-38-00 +0000",
+    "pubdate": "2025-10-17-19-56-00 +0000",
     "source": "wsj",
-    "headline": "President Trump has commuted the sentence of former Rep. George Santos, who is serving a prison sentence after pleading guilty to federal charges",
-    "link": "https://www.wsj.com/politics/trump-commutes-sentence-of-former-congressman-george-santos-9480834f"
+    "headline": "Bank of Canada Gov. Tiff Macklem said data next week gauging the corporate sales outlook and inflation are likely to tip the scales on whether the central bank follows up September’s rate cut with another reduction later this month",
+    "link": "https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763"
   },
   {
-    "score": 67,
-    "pubdate": "2025-10-17-08-57-37 +0000",
-    "source": "cbc",
-    "headline": "Andrew Cuomo and Zohran Mamdani trade jabs in heated NYC mayoral debate",
-    "link": "https://www.cbc.ca/news/world/andrew-cuomo-and-zohran-mamdani-trade-jabs-in-heated-nyc-mayoral-debate-9.6941981?cmp=rss"
-  },
-  {
-    "score": 61,
+    "score": 62,
     "pubdate": "2025-10-17-20-34-36 +0000",
     "source": "nyt",
     "headline": "Trump Threatens New Cuts to Federal Aid, Workers During Shutdown",
     "link": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-17-01-35-28 +0000",
+    "score": 61,
+    "pubdate": "2025-10-17-22-26-18 +0000",
+    "source": "nypost",
+    "headline": "Trump orders lying ex-Long Island Rep. George Santos released from prison: ‘Have a great life!’",
+    "link": "https://nypost.com/2025/10/17/us-news/trump-orders-lying-ex-long-island-rep-george-santos-released-from-prison-have-a-great-life/"
+  },
+  {
+    "score": 59,
+    "pubdate": "2025-10-17-23-37-23 +0000",
+    "source": "wapo",
+    "headline": "U.S. military detains survivors of latest boat strike near Venezuela",
+    "link": "https://www.washingtonpost.com/national-security/2025/10/17/boat-strike-survivors-detained-venezuela-caribbean/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-10-17-15-18-45 +0000",
     "source": "nyt",
-    "headline": "U.S. Military Killed Venezuelan Fisherman in Suspected Drug Boat Attack, Family Says",
-    "link": "https://www.nytimes.com/2025/10/16/world/americas/trinidad-us-military-venezuela-boats.html"
+    "headline": "Baek Sehee, South Korean Author of ‘I Want to Die, but I Want to Eat Tteokbokki,’ Dies at 35",
+    "link": "https://www.nytimes.com/2025/10/17/arts/baek-se-hee-dead-author.html"
   },
   {
     "score": 54,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Jeffrey Epstein-linked Prince Andrew forced to give up royal title as Duke of York",
     "link": "https://nypost.com/2025/10/17/world-news/prince-andrew-announces-hes-giving-up-royal-duke-of-york-title/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-10-17-08-10-07 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Dow Rises; Trump Says Extra China Tariffs 'Not Sustainable'",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-17-2025?mod=rss_markets_main"
   }
 ]
