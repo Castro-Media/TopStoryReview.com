@@ -1,20 +1,27 @@
 [
   {
-    "score": 171,
+    "score": 167,
     "pubdate": "2025-10-17-21-16-00 +0000",
     "source": "wsj",
     "headline": "Salesforce Chief Executive Marc Benioff is apologizing for comments in which he called for President Trump to send the National Guard to San Francisco",
     "link": "https://www.wsj.com/politics/policy/marc-benioff-apologizes-for-national-guard-comments-bc4d6827"
   },
   {
-    "score": 89,
+    "score": 88,
     "pubdate": "2025-10-17-18-19-43 +0000",
     "source": "nypost",
     "headline": "Jeffrey Epstein-linked Prince Andrew forced to give up royal title as Duke of York",
     "link": "https://nypost.com/2025/10/17/world-news/prince-andrew-announces-hes-giving-up-royal-duke-of-york-title/"
   },
   {
-    "score": 72,
+    "score": 71,
+    "pubdate": "2025-10-18-14-31-54 +0000",
+    "source": "latimes",
+    "headline": "Interstate 5 will close today through Camp Pendleton as military confirms it will fire artillery",
+    "link": "https://www.latimes.com/politics/story/2025-10-18/california-to-close-parts-of-i-5-today-after-military-confirms-it-it-will-fire-artillery-over-freeway"
+  },
+  {
+    "score": 69,
     "pubdate": "2025-10-18-03-30-12 +0000",
     "source": "nypost",
     "headline": "Disgraced ex-Long Island Rep. George Santos released from NJ prison hours after Trump commuted 7-year sentence",
@@ -28,32 +35,25 @@
     "link": "https://www.nytimes.com/2025/10/18/world/europe/ukraine-trump-talks.html"
   },
   {
-    "score": 68,
-    "pubdate": "2025-10-18-14-31-54 +0000",
-    "source": "latimes",
-    "headline": "Interstate 5 will close today through Camp Pendleton as military confirms it will fire artillery",
-    "link": "https://www.latimes.com/politics/story/2025-10-18/california-to-close-parts-of-i-5-today-after-military-confirms-it-it-will-fire-artillery-over-freeway"
-  },
-  {
-    "score": 58,
+    "score": 56,
     "pubdate": "2025-10-18-14-39-50 +0000",
     "source": "bbc",
     "headline": "Eleven killed after Israel hits bus in Gaza, Hamas-run civil defence says",
     "link": "https://www.bbc.com/news/articles/cpv1nk7dy4yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 53,
-    "pubdate": "2025-10-18-16-05-14 +0000",
-    "source": "startribune",
-    "headline": "Live: Thousands expected at anti-Trump ‘No Kings’ protests across Minnesota",
-    "link": "https://www.startribune.com/live-thousands-expected-at-anti-trump-no-kings-protests-across-minnesota/601496304"
+    "score": 56,
+    "pubdate": "2025-10-18-16-03-12 +0000",
+    "source": "bbc",
+    "headline": "No Kings protests begin as huge anti-Trump rallies sweep across US",
+    "link": "https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 50,
-    "pubdate": "2025-10-18-12-30-00 +0000",
-    "source": "nypost",
-    "headline": "Ex-Sen. Kyrsten Sinema spends campaign funds on hotels, travel and luxe makeup — despite being out of office for months",
-    "link": "https://nypost.com/2025/10/18/us-news/kyrsten-sinema-spends-campaign-funds-on-hotels-travel-and-luxe-makeup-despite-being-out-of-office-for-months/"
+    "pubdate": "2025-10-18-16-01-44 +0000",
+    "source": "bbc",
+    "headline": "Afghanistan pulls out of cricket series after it says Pakistan air strike killed local players",
+    "link": "https://www.bbc.com/news/articles/c20pnz01x0eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 48,
@@ -63,10 +63,10 @@
     "link": "https://www.wsj.com/politics/elections/white-house-hires-stop-the-steal-lawyer-to-investigate-2020-election-claims-6395d322"
   },
   {
-    "score": 47,
-    "pubdate": "2025-10-18-00-29-39 +0000",
-    "source": "nyt",
-    "headline": "A bid to give Charlie Kirk an honorary degree from the Air Force Academy was withdrawn.",
-    "link": "https://www.nytimes.com/live/2025/10/17/us/trump-news-zelensky/a-bid-to-give-charlie-kirk-an-honorary-degree-from-the-air-force-academy-was-withdrawn"
+    "score": 42,
+    "pubdate": "2025-10-17-20-49-26 +0000",
+    "source": "nypost",
+    "headline": "Trump urges Russia, Ukraine to end war ‘where they are’ — and Zelensky agrees ‘both sides must stop’",
+    "link": "https://nypost.com/2025/10/17/us-news/trump-says-ukraine-might-not-need-tomahawks-to-end-war-as-zelensky-pitches-drone-deal/"
   }
 ]
