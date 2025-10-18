@@ -1,5 +1,65 @@
 [
   {
+    "headline": "10 Injured in Balcony Collapse in Cincinnati",
+    "link": "https://www.nytimes.com/2025/10/18/us/cincinnati-balcony-collapse.html",
+    "source": "nyt",
+    "pubdate": "2025-10-18-11-50-45 +0000"
+  },
+  {
+    "headline": "Staten Island teen who allegedly beheaded mom’s boyfriend put brains in blender: police sources",
+    "link": "https://nypost.com/2025/10/18/us-news/nyc-teen-who-allegedly-beheaded-moms-boyfriend-put-brains-in-blender-police-sources/",
+    "source": "nypost",
+    "pubdate": "2025-10-18-11-49-39 +0000"
+  },
+  {
+    "headline": "'We are orphans': Kenyans bid farewell to ex-PM Odinga in his political heartland",
+    "link": "https://www.bbc.com/news/articles/c0rpn5pv4eko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-36-58 +0000"
+  },
+  {
+    "headline": "'We are orphans': Kenyans bid farewell to ex-PM Odinga in his political heartland",
+    "link": "https://www.bbc.com/news/articles/c0rpn5pv4eko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-36-58 +0000"
+  },
+  {
+    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
+    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-35-47 +0000"
+  },
+  {
+    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
+    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-35-47 +0000"
+  },
+  {
+    "headline": "Vermont Legislator Resigns Over Racist Texts in Republican Group Chat",
+    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
+    "source": "nyt",
+    "pubdate": "2025-10-18-11-09-58 +0000"
+  },
+  {
+    "headline": "Vermont Legislator Resigns Over Racist Texts in Republican Group Chat",
+    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
+    "source": "nyt",
+    "pubdate": "2025-10-18-11-09-58 +0000"
+  },
+  {
+    "headline": "Rise of ‘shadow banking’ brings new financial risks, experts say",
+    "link": "https://www.washingtonpost.com/business/2025/10/18/first-brands-tricolor-shadow-banking-risk/",
+    "source": "wapo",
+    "pubdate": "2025-10-18-11-00-42 +0000"
+  },
+  {
+    "headline": "S.F. day laborers showing up for work, but often struggle to get paid",
+    "link": "https://missionlocal.org/2025/10/s-f-day-laborers-showing-up-for-work-but-often-struggle-to-get-paid/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-18-11-00-00 +0000"
+  },
+  {
     "headline": "Israel Still Carrying Out Some Strikes During Gaza Cease-Fire",
     "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e",
     "source": "wsj",
@@ -16,6 +76,12 @@
     "link": "https://www.nytimes.com/2025/10/18/world/europe/ukraine-trump-talks.html",
     "source": "nyt",
     "pubdate": "2025-10-18-10-43-49 +0000"
+  },
+  {
+    "headline": "Spanish players protest at La Liga plans to play in Miami",
+    "link": "https://www.bbc.com/sport/football/articles/cly2n8lplgno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-10-25-35 +0000"
   },
   {
     "headline": "Down Time",
@@ -106,18 +172,6 @@
     "link": "https://www.bbc.com/news/videos/ckgk1eknvzpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-18-09-51-09 +0000"
-  },
-  {
-    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
-    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-18-09-41-11 +0000"
-  },
-  {
-    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
-    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-18-09-41-11 +0000"
   },
   {
     "headline": "With a phone call, Putin appears to change Trump’s mind on Ukraine. Again.",
@@ -354,10 +408,10 @@
     "pubdate": "2025-10-18-08-00-00 +0000"
   },
   {
-    "headline": "10 Injured in Balcony Collapse in Cincinnati",
-    "link": "https://www.nytimes.com/2025/10/18/us/cincinnati-balcony-collapse.html",
-    "source": "nyt",
-    "pubdate": "2025-10-18-07-58-27 +0000"
+    "headline": "The Bishnoi gang attempts a rebrand as community protectors",
+    "link": "https://www.cbc.ca/news/politics/the-bishnoi-gang-attempts-a-rebrand-as-community-protectors-9.6940903?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-18-08-00-00 +0000"
   },
   {
     "headline": "10 Injured in Balcony Collapse in Cincinnati",
@@ -424,6 +478,12 @@
     "link": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-18-06-49-31 +0000"
+  },
+  {
+    "headline": "Ohtani rewrites history to send Dodgers to World Series",
+    "link": "https://www.bbc.com/sport/baseball/articles/cy40p88wzelo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-06-35-36 +0000"
   },
   {
     "headline": "Ohtani rewrites history to send Dodgers to World Series",
@@ -960,13 +1020,13 @@
     "pubdate": "2025-10-17-23-44-09 +0000"
   },
   {
-    "headline": "'It's scary to think I could have died': How Americans are coming back from fentanyl addiction",
+    "headline": "'It's scary to think I could have died' - the Americans coming back from fentanyl addiction",
     "link": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-23-42-24 +0000"
   },
   {
-    "headline": "'It's scary to think I could have died': How Americans are coming back from fentanyl addiction",
+    "headline": "'It's scary to think I could have died' - the Americans coming back from fentanyl addiction",
     "link": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-23-42-24 +0000"
@@ -1042,18 +1102,6 @@
     "link": "https://www.nytimes.com/2025/10/17/us/university-of-virginia-white-house-compact.html",
     "source": "nyt",
     "pubdate": "2025-10-17-23-17-44 +0000"
-  },
-  {
-    "headline": "Vermont Legislator Resigns Over Racist Republican Texts",
-    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-23-16-27 +0000"
-  },
-  {
-    "headline": "Vermont Legislator Resigns Over Racist Republican Texts",
-    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-23-16-27 +0000"
   },
   {
     "headline": "Here’s how Tesla responded after shareholders were urged to reject Elon Musk’s $1T pay package",
@@ -1186,12 +1234,6 @@
     "link": "https://www.nytimes.com/2025/10/17/us/politics/democrats-age-primaries-midterms.html",
     "source": "nyt",
     "pubdate": "2025-10-17-22-31-09 +0000"
-  },
-  {
-    "headline": "Oregon man charged with shining green laser at CBP helicopter in Portland as anti-ICE protests rage on",
-    "link": "https://nypost.com/2025/10/17/us-news/oregon-man-charged-with-shining-green-laser-at-cbp-helicopter/",
-    "source": "nypost",
-    "pubdate": "2025-10-17-22-29-55 +0000"
   },
   {
     "headline": "Trump orders lying ex-Long Island Rep. George Santos released from prison: ‘Have a great life!’",
@@ -1786,12 +1828,6 @@
     "link": "https://nypost.com/2025/10/17/us-news/alex-acosta-claimed-jeffrey-epstein-prosecution-would-have-been-a-crapshoot-due-to-lack-of-victims-cooperating/",
     "source": "nypost",
     "pubdate": "2025-10-17-18-20-52 +0000"
-  },
-  {
-    "headline": "Emotional send-off for Kenya's revered ex-PM Raila Odinga at state funeral",
-    "link": "https://www.bbc.com/news/articles/cwyp98k9rnpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-18-20-41 +0000"
   },
   {
     "headline": "The Attempted Assassination of a Russian Dissident Is Foiled in France",
@@ -2790,12 +2826,6 @@
     "pubdate": "2025-10-17-10-00-00 +0000"
   },
   {
-    "headline": "California invests big in battery energy storage — and leaves rolling blackouts behind",
-    "link": "https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert",
-    "source": "latimes",
-    "pubdate": "2025-10-17-10-00-00 +0000"
-  },
-  {
     "headline": "New details emerge in murder of L.A. model found stuffed inside her own refrigerator",
     "link": "https://www.latimes.com/california/story/2025-10-17/los-angeles-model-murder-preliminary-body-in-refrigerator",
     "source": "latimes",
@@ -2804,6 +2834,12 @@
   {
     "headline": "Citing fire risk, Malibu wants to arrest homeless people who refuse to stop camping illegally",
     "link": "https://www.latimes.com/california/story/2025-10-17/malibu-arrest-camping",
+    "source": "latimes",
+    "pubdate": "2025-10-17-10-00-00 +0000"
+  },
+  {
+    "headline": "California invests big in battery energy storage — and leaves rolling blackouts behind",
+    "link": "https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert",
     "source": "latimes",
     "pubdate": "2025-10-17-10-00-00 +0000"
   },
@@ -4422,12 +4458,6 @@
     "pubdate": "2025-10-16-11-17-32 +0000"
   },
   {
-    "headline": "The rat of the famed Chicago Rat Hole was almost certainly a squirrel",
-    "link": "https://www.washingtonpost.com/nation/2025/10/16/chicago-rat-hole-research-squirrel/",
-    "source": "wapo",
-    "pubdate": "2025-10-16-11-00-03 +0000"
-  },
-  {
     "headline": "Review: Precita Social offers upscale casual cooking in a familiar space",
     "link": "https://missionlocal.org/2025/10/precita-social-a-new-star-in-an-familiar-space/",
     "source": "missionlocal",
@@ -4482,20 +4512,14 @@
     "pubdate": "2025-10-16-10-12-08 +0000"
   },
   {
-    "headline": "A popular charter faces closure to make more room for an LAUSD school",
-    "link": "https://www.latimes.com/california/story/2025-10-16/charter-school-shut-down-by-la-school-board-to-make-room-for-a-district-campus",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "A major earthquake hasn't struck California's big cities in 3 decades. On Thursday, we will get a glimpse of one",
-    "link": "https://www.latimes.com/california/story/2025-10-16/what-do-you-do-when-an-earthquake-strikes-shakeout-drill-gives-pivotal-tips",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
     "headline": "Housing Tracker: Southern California home values drop in August",
     "link": "https://www.latimes.com/california/story/2025-10-16/housing-tracker-southern-california-home-values-dip-in-august",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "A popular charter faces closure to make more room for an LAUSD school",
+    "link": "https://www.latimes.com/california/story/2025-10-16/charter-school-shut-down-by-la-school-board-to-make-room-for-a-district-campus",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -4512,6 +4536,18 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
+    "headline": "Echoing the raids in L.A., parts of Chicago are untouched by ICE, others under siege",
+    "link": "https://www.latimes.com/world-nation/story/2025-10-16/a-day-in-chicago-during-the-amped-up-ice-era",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "Inside the Brink's heist probe: how alleged burglars behind $100-million theft were caught",
+    "link": "https://www.latimes.com/california/story/2025-10-16/brinks-heist-investigation",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
     "headline": "New fraud claims in L.A. County's $4-billion sex settlement leave victims outraged",
     "link": "https://www.latimes.com/california/story/2025-10-16/sex-abuse-fraud-claims-la-county-victims",
     "source": "latimes",
@@ -4524,8 +4560,8 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "Is Lindsey Horvath running for mayor of Los Angeles?",
-    "link": "https://www.latimes.com/california/story/2025-10-16/lindsey-horvath-mayor-karen-bass",
+    "headline": "A major earthquake hasn't struck California's big cities in 3 decades. On Thursday, we will get a glimpse of one",
+    "link": "https://www.latimes.com/california/story/2025-10-16/what-do-you-do-when-an-earthquake-strikes-shakeout-drill-gives-pivotal-tips",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -4536,14 +4572,8 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "Echoing the raids in L.A., parts of Chicago are untouched by ICE, others under siege",
-    "link": "https://www.latimes.com/world-nation/story/2025-10-16/a-day-in-chicago-during-the-amped-up-ice-era",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "Inside the Brink's heist probe: how alleged burglars behind $100-million theft were caught",
-    "link": "https://www.latimes.com/california/story/2025-10-16/brinks-heist-investigation",
+    "headline": "Is Lindsey Horvath running for mayor of Los Angeles?",
+    "link": "https://www.latimes.com/california/story/2025-10-16/lindsey-horvath-mayor-karen-bass",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -5142,12 +5172,6 @@
     "pubdate": "2025-10-15-19-25-00 +0000"
   },
   {
-    "headline": "Syria's Sharaa meets Putin in Moscow for first time since fall of Assad",
-    "link": "https://www.bbc.com/news/articles/c201p2dd6r4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-15-19-08-54 +0000"
-  },
-  {
     "headline": "Baroness Mone-linked PPE firm misses deadline to pay £122m",
     "link": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5460,12 +5484,6 @@
     "pubdate": "2025-10-15-13-00-00 +0000"
   },
   {
-    "headline": "Canadian woman's boyfriend to serve at least 25 years for her murder on remote Scottish island",
-    "link": "https://www.cbc.ca/news/canada/manitoba/claire-leveque-murder-scotland-boyfriend-guilty-9.6938784?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-15-12-56-30 +0000"
-  },
-  {
     "headline": "New York Manufacturing Activity Increases for Third Time in Four Months",
     "link": "https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-increases-for-third-time-in-four-months-5a00daae",
     "source": "wsj",
@@ -5532,6 +5550,12 @@
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
+    "headline": "Federal shutdown stalls legal battles between California, Trump administration",
+    "link": "https://www.latimes.com/california/story/2025-10-15/federal-shutdown-stalls-legal-battles-between-california-trump-administration",
+    "source": "latimes",
+    "pubdate": "2025-10-15-10-00-00 +0000"
+  },
+  {
     "headline": "Dangerous 'supershear' earthquakes pose risk to California, new research suggests",
     "link": "https://www.latimes.com/california/story/2025-10-15/supershear-earthquakes-are-more-common-than-once-believed-whats-the-threat-to-california",
     "source": "latimes",
@@ -5544,14 +5568,8 @@
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "Federal shutdown stalls legal battles between California, Trump administration",
-    "link": "https://www.latimes.com/california/story/2025-10-15/federal-shutdown-stalls-legal-battles-between-california-trump-administration",
-    "source": "latimes",
-    "pubdate": "2025-10-15-10-00-00 +0000"
-  },
-  {
-    "headline": "The secrets behind the South Korean cosmetics boom: K-pop, Kardashians and churn",
-    "link": "https://www.latimes.com/business/story/2025-10-15/the-secret-sauce-that-made-south-korea-a-cosmetics-superpower",
+    "headline": "$2-billion mega-development in Skid Row clears major hurdle with L.A. officials",
+    "link": "https://www.latimes.com/business/story/2025-10-15/2-billion-downtown-la-project-approved",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
@@ -5562,14 +5580,14 @@
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "L.A.'s KFI cancels its evening talk show as AM radio woes mount",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-15/iheart-radio-layoffs-mo-kelly-radio-show-ends",
+    "headline": "The secrets behind the South Korean cosmetics boom: K-pop, Kardashians and churn",
+    "link": "https://www.latimes.com/business/story/2025-10-15/the-secret-sauce-that-made-south-korea-a-cosmetics-superpower",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "$2-billion mega-development in Skid Row clears major hurdle with L.A. officials",
-    "link": "https://www.latimes.com/business/story/2025-10-15/2-billion-downtown-la-project-approved",
+    "headline": "L.A.'s KFI cancels its evening talk show as AM radio woes mount",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-15/iheart-radio-layoffs-mo-kelly-radio-show-ends",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
@@ -6198,8 +6216,14 @@
     "pubdate": "2025-10-14-11-00-00 +0000"
   },
   {
-    "headline": "As atmospheric river storm eases, evacuation warnings lifted in L.A.-area burn scars",
-    "link": "https://www.latimes.com/california/story/2025-10-14/atmospheric-river-storm-hits-southern-california-how-bad-will-it-get",
+    "headline": "Student programs in peril after federal cuts at Latino-serving community colleges",
+    "link": "https://www.latimes.com/california/story/2025-10-14/federal-cuts-to-latino-hispanic-serving-community-colleges-imperil-programs",
+    "source": "latimes",
+    "pubdate": "2025-10-14-10-00-00 +0000"
+  },
+  {
+    "headline": "California ballot design prompts false conspiracy theories that the November election is rigged",
+    "link": "https://www.latimes.com/california/story/2025-10-14/california-ballot-design-unfounded-viral-conspiracy-theories-november-election-rigged",
     "source": "latimes",
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
@@ -6222,20 +6246,14 @@
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
   {
+    "headline": "As atmospheric river storm eases, evacuation warnings lifted in L.A.-area burn scars",
+    "link": "https://www.latimes.com/california/story/2025-10-14/atmospheric-river-storm-hits-southern-california-how-bad-will-it-get",
+    "source": "latimes",
+    "pubdate": "2025-10-14-10-00-00 +0000"
+  },
+  {
     "headline": "Light boxes, braille writers and smell: How this child care center serves visually impaired kids",
     "link": "https://www.latimes.com/california/story/2025-10-14/child-care-center-tailors-learning-for-visually-impaired-toddlers-preschoolers",
-    "source": "latimes",
-    "pubdate": "2025-10-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Student programs in peril after federal cuts at Latino-serving community colleges",
-    "link": "https://www.latimes.com/california/story/2025-10-14/federal-cuts-to-latino-hispanic-serving-community-colleges-imperil-programs",
-    "source": "latimes",
-    "pubdate": "2025-10-14-10-00-00 +0000"
-  },
-  {
-    "headline": "California ballot design prompts false conspiracy theories that the November election is rigged",
-    "link": "https://www.latimes.com/california/story/2025-10-14/california-ballot-design-unfounded-viral-conspiracy-theories-november-election-rigged",
     "source": "latimes",
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
@@ -6790,11 +6808,5 @@
     "link": "https://www.latimes.com/california/story/2025-10-11/tech-billionaire-marc-benioff-says-trump-should-deploy-national-guard-to-san-francisco",
     "source": "latimes",
     "pubdate": "2025-10-11-12-00-00 +0000"
-  },
-  {
-    "headline": "Suzanne Jackson is still making art and supporting other artists",
-    "link": "https://missionlocal.org/2025/10/suzanne-jackson-is-still-making-art-and-supporting-other-artists/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-11-11-00-00 +0000"
   }
 ]

@@ -1,5 +1,65 @@
 [
   {
+    "headline": "10 Injured in Balcony Collapse in Cincinnati",
+    "link": "https://www.nytimes.com/2025/10/18/us/cincinnati-balcony-collapse.html",
+    "source": "nyt",
+    "pubdate": "2025-10-18-11-50-45 +0000"
+  },
+  {
+    "headline": "Staten Island teen who allegedly beheaded mom’s boyfriend put brains in blender: police sources",
+    "link": "https://nypost.com/2025/10/18/us-news/nyc-teen-who-allegedly-beheaded-moms-boyfriend-put-brains-in-blender-police-sources/",
+    "source": "nypost",
+    "pubdate": "2025-10-18-11-49-39 +0000"
+  },
+  {
+    "headline": "'We are orphans': Kenyans bid farewell to ex-PM Odinga in his political heartland",
+    "link": "https://www.bbc.com/news/articles/c0rpn5pv4eko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-36-58 +0000"
+  },
+  {
+    "headline": "'We are orphans': Kenyans bid farewell to ex-PM Odinga in his political heartland",
+    "link": "https://www.bbc.com/news/articles/c0rpn5pv4eko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-36-58 +0000"
+  },
+  {
+    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
+    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-35-47 +0000"
+  },
+  {
+    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
+    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-11-35-47 +0000"
+  },
+  {
+    "headline": "Vermont Legislator Resigns Over Racist Texts in Republican Group Chat",
+    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
+    "source": "nyt",
+    "pubdate": "2025-10-18-11-09-58 +0000"
+  },
+  {
+    "headline": "Vermont Legislator Resigns Over Racist Texts in Republican Group Chat",
+    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
+    "source": "nyt",
+    "pubdate": "2025-10-18-11-09-58 +0000"
+  },
+  {
+    "headline": "Rise of ‘shadow banking’ brings new financial risks, experts say",
+    "link": "https://www.washingtonpost.com/business/2025/10/18/first-brands-tricolor-shadow-banking-risk/",
+    "source": "wapo",
+    "pubdate": "2025-10-18-11-00-42 +0000"
+  },
+  {
+    "headline": "S.F. day laborers showing up for work, but often struggle to get paid",
+    "link": "https://missionlocal.org/2025/10/s-f-day-laborers-showing-up-for-work-but-often-struggle-to-get-paid/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-18-11-00-00 +0000"
+  },
+  {
     "headline": "Israel Still Carrying Out Some Strikes During Gaza Cease-Fire",
     "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e",
     "source": "wsj",
@@ -16,6 +76,12 @@
     "link": "https://www.nytimes.com/2025/10/18/world/europe/ukraine-trump-talks.html",
     "source": "nyt",
     "pubdate": "2025-10-18-10-43-49 +0000"
+  },
+  {
+    "headline": "Spanish players protest at La Liga plans to play in Miami",
+    "link": "https://www.bbc.com/sport/football/articles/cly2n8lplgno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-10-25-35 +0000"
   },
   {
     "headline": "Down Time",
@@ -106,18 +172,6 @@
     "link": "https://www.bbc.com/news/videos/ckgk1eknvzpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-18-09-51-09 +0000"
-  },
-  {
-    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
-    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-18-09-41-11 +0000"
-  },
-  {
-    "headline": "Israel confirms latest body returned from Gaza is dead hostage",
-    "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-18-09-41-11 +0000"
   },
   {
     "headline": "With a phone call, Putin appears to change Trump’s mind on Ukraine. Again.",
@@ -354,10 +408,10 @@
     "pubdate": "2025-10-18-08-00-00 +0000"
   },
   {
-    "headline": "10 Injured in Balcony Collapse in Cincinnati",
-    "link": "https://www.nytimes.com/2025/10/18/us/cincinnati-balcony-collapse.html",
-    "source": "nyt",
-    "pubdate": "2025-10-18-07-58-27 +0000"
+    "headline": "The Bishnoi gang attempts a rebrand as community protectors",
+    "link": "https://www.cbc.ca/news/politics/the-bishnoi-gang-attempts-a-rebrand-as-community-protectors-9.6940903?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-18-08-00-00 +0000"
   },
   {
     "headline": "10 Injured in Balcony Collapse in Cincinnati",
@@ -424,6 +478,12 @@
     "link": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-18-06-49-31 +0000"
+  },
+  {
+    "headline": "Ohtani rewrites history to send Dodgers to World Series",
+    "link": "https://www.bbc.com/sport/baseball/articles/cy40p88wzelo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-18-06-35-36 +0000"
   },
   {
     "headline": "Ohtani rewrites history to send Dodgers to World Series",
@@ -960,13 +1020,13 @@
     "pubdate": "2025-10-17-23-44-09 +0000"
   },
   {
-    "headline": "'It's scary to think I could have died': How Americans are coming back from fentanyl addiction",
+    "headline": "'It's scary to think I could have died' - the Americans coming back from fentanyl addiction",
     "link": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-23-42-24 +0000"
   },
   {
-    "headline": "'It's scary to think I could have died': How Americans are coming back from fentanyl addiction",
+    "headline": "'It's scary to think I could have died' - the Americans coming back from fentanyl addiction",
     "link": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-23-42-24 +0000"
@@ -1042,18 +1102,6 @@
     "link": "https://www.nytimes.com/2025/10/17/us/university-of-virginia-white-house-compact.html",
     "source": "nyt",
     "pubdate": "2025-10-17-23-17-44 +0000"
-  },
-  {
-    "headline": "Vermont Legislator Resigns Over Racist Republican Texts",
-    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-23-16-27 +0000"
-  },
-  {
-    "headline": "Vermont Legislator Resigns Over Racist Republican Texts",
-    "link": "https://www.nytimes.com/2025/10/17/us/politics/samuel-douglass-resigns-vermont-young-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-23-16-27 +0000"
   },
   {
     "headline": "Here’s how Tesla responded after shareholders were urged to reject Elon Musk’s $1T pay package",
@@ -1186,12 +1234,6 @@
     "link": "https://www.nytimes.com/2025/10/17/us/politics/democrats-age-primaries-midterms.html",
     "source": "nyt",
     "pubdate": "2025-10-17-22-31-09 +0000"
-  },
-  {
-    "headline": "Oregon man charged with shining green laser at CBP helicopter in Portland as anti-ICE protests rage on",
-    "link": "https://nypost.com/2025/10/17/us-news/oregon-man-charged-with-shining-green-laser-at-cbp-helicopter/",
-    "source": "nypost",
-    "pubdate": "2025-10-17-22-29-55 +0000"
   },
   {
     "headline": "Trump orders lying ex-Long Island Rep. George Santos released from prison: ‘Have a great life!’",
@@ -1786,12 +1828,6 @@
     "link": "https://nypost.com/2025/10/17/us-news/alex-acosta-claimed-jeffrey-epstein-prosecution-would-have-been-a-crapshoot-due-to-lack-of-victims-cooperating/",
     "source": "nypost",
     "pubdate": "2025-10-17-18-20-52 +0000"
-  },
-  {
-    "headline": "Emotional send-off for Kenya's revered ex-PM Raila Odinga at state funeral",
-    "link": "https://www.bbc.com/news/articles/cwyp98k9rnpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-18-20-41 +0000"
   },
   {
     "headline": "The Attempted Assassination of a Russian Dissident Is Foiled in France",
@@ -2626,113 +2662,5 @@
     "link": "https://www.wsj.com/business/earnings/state-street-posts-higher-profit-as-fee-revenue-rises-65c395e4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-17-12-09-00 +0000"
-  },
-  {
-    "headline": "The Growing Blowback Against Marc Benioff",
-    "link": "https://www.nytimes.com/2025/10/17/business/dealbook/salesforce-benioff-trump-ice.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-11-51-23 +0000"
-  },
-  {
-    "headline": "Xi Removes China’s No. 2 General in Escalating Purge of Military Leadership",
-    "link": "https://www.wsj.com/world/china/xi-removes-chinas-no-2-general-in-escalating-purge-of-military-leadership-15eb3dfd",
-    "source": "wsj",
-    "pubdate": "2025-10-17-11-45-00 +0000"
-  },
-  {
-    "headline": "How to make money from your bank in time for Christmas",
-    "link": "https://www.bbc.com/news/videos/c751l9x9370o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-11-42-44 +0000"
-  },
-  {
-    "headline": "How to make money from your bank in time for Christmas",
-    "link": "https://www.bbc.com/news/videos/c751l9x9370o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-11-42-44 +0000"
-  },
-  {
-    "headline": "MPs demand chief prosecutor explain China spy case collapse",
-    "link": "https://www.bbc.com/news/articles/cvgd5jgzdweo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-11-31-08 +0000"
-  },
-  {
-    "headline": "Fifth Third Profit Rises, Comerica’s Slips Ahead of Tie-Up",
-    "link": "https://www.wsj.com/business/earnings/fifth-third-profit-rises-comericas-slips-ahead-of-tie-up-259be126?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-17-11-28-00 +0000"
-  },
-  {
-    "headline": "Fifth Third Profit Rises, Comerica’s Slips Ahead of Tie-Up",
-    "link": "https://www.wsj.com/business/earnings/fifth-third-profit-rises-comericas-slips-ahead-of-tie-up-259be126?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-17-11-28-00 +0000"
-  },
-  {
-    "headline": "Powerful apartment building blast in Bucharest, Romania kills 3, injures at least 13",
-    "link": "https://nypost.com/2025/10/17/world-news/romania-apartment-explosion-kills-2-injures-13-in-bucharest-powerful-blast/",
-    "source": "nypost",
-    "pubdate": "2025-10-17-11-24-09 +0000"
-  },
-  {
-    "headline": "A Somali Hospital Closed After U.S. Aid Cuts. Fired Employees Reopened It Without Pay.",
-    "link": "https://www.nytimes.com/2025/10/17/health/somalia-hospital-reopen-employees.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-11-21-35 +0000"
-  },
-  {
-    "headline": "A History of the C.I.A.’s Involvement in Latin America, From Bay of Pigs to Chile Coups",
-    "link": "https://www.nytimes.com/2025/10/16/world/americas/cia-latin-america-coups.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-11-20-51 +0000"
-  },
-  {
-    "headline": "A History of the C.I.A.’s Involvement in Latin America, From Bay of Pigs to Chile Coups",
-    "link": "https://www.nytimes.com/2025/10/16/world/americas/cia-latin-america-coups.html",
-    "source": "nyt",
-    "pubdate": "2025-10-17-11-20-51 +0000"
-  },
-  {
-    "headline": "US governor wins $1.4m playing blackjack in Las Vegas",
-    "link": "https://www.bbc.com/news/articles/c5y0gr4y4r2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-17-11-10-43 +0000"
-  },
-  {
-    "headline": "China’s Communist Elites Gather to Map Strategy",
-    "link": "https://www.wsj.com/economy/chinas-communist-elites-gather-to-map-strategy-e69bb0ed",
-    "source": "wsj",
-    "pubdate": "2025-10-17-11-05-00 +0000"
-  },
-  {
-    "headline": "China’s Communist Elites Gather to Map Strategy",
-    "link": "https://www.wsj.com/economy/chinas-communist-elites-gather-to-map-strategy-e69bb0ed",
-    "source": "wsj",
-    "pubdate": "2025-10-17-11-05-00 +0000"
-  },
-  {
-    "headline": "Gold Stocks Are Surging. They Still Lag Behind Cold, Hard Bullion.",
-    "link": "https://www.wsj.com/finance/stocks/gold-stocks-are-surging-they-still-lag-behind-cold-hard-bullion-301de60c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-17-11-04-00 +0000"
-  },
-  {
-    "headline": "Hit by an e-bike, she can no longer taste or smell. Cities are trying to protect pedestrians like her.",
-    "link": "https://www.startribune.com/minnesota-ebike-speed-laws/601466543",
-    "source": "startribune",
-    "pubdate": "2025-10-17-11-00-01 +0000"
-  },
-  {
-    "headline": "For attorney visits in S.F. jails: Goodbye, strip searches — hello, body scans",
-    "link": "https://missionlocal.org/2025/10/sf-inmate-attorney-visits-strip-search-body-scan/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-17-11-00-00 +0000"
-  },
-  {
-    "headline": "The truth behind the MTV rumors  — as corporate bosses look to slash costs",
-    "link": "https://nypost.com/2025/10/17/media/the-truth-behind-the-mtv-rumors-as-corporate-bosses-look-to-slash-costs/",
-    "source": "nypost",
-    "pubdate": "2025-10-17-11-00-00 +0000"
   }
 ]
