@@ -1,13 +1,20 @@
 [
   {
-    "score": 373,
+    "score": 372,
     "pubdate": "2025-10-13-03-42-00 +0000",
     "source": "wsj",
     "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 174,
+    "score": 178,
+    "pubdate": "2025-10-18-10-43-49 +0000",
+    "source": "nyt",
+    "headline": "Ukraine Braces for New Talks Without the Leverage of New Missiles",
+    "link": "https://www.nytimes.com/2025/10/18/world/europe/ukraine-trump-talks.html"
+  },
+  {
+    "score": 177,
     "pubdate": "2025-10-17-21-16-00 +0000",
     "source": "wsj",
     "headline": "Salesforce Chief Executive Marc Benioff is apologizing for comments in which he called for President Trump to send the National Guard to San Francisco",
@@ -22,48 +29,41 @@
   },
   {
     "score": 139,
-    "pubdate": "2025-10-17-10-00-00 +0000",
-    "source": "wapo",
-    "headline": "The average new-car price hit a record $50,000. Can only the rich buy new?",
-    "link": "https://www.washingtonpost.com/business/2025/10/17/50000-new-car-price-record/"
+    "pubdate": "2025-10-18-10-45-00 +0000",
+    "source": "wsj",
+    "headline": "Israel Still Carrying Out Some Strikes During Gaza Cease-Fire",
+    "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e"
   },
   {
-    "score": 135,
+    "score": 134,
     "pubdate": "2025-10-17-19-56-00 +0000",
     "source": "wsj",
     "headline": "Bank of Canada Gov. Tiff Macklem said data next week gauging the corporate sales outlook and inflation are likely to tip the scales on whether the central bank follows up September’s rate cut with another reduction later this month",
     "link": "https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763"
   },
   {
-    "score": 125,
+    "score": 124,
     "pubdate": "2025-10-15-19-58-31 +0000",
     "source": "latimes",
     "headline": "California judge halts Trump federal job cuts amid government shutdown",
     "link": "https://www.latimes.com/politics/story/2025-10-15/federal-judge-california-blocks-shutdown-job-cuts"
   },
   {
-    "score": 124,
-    "pubdate": "2025-10-16-15-57-08 +0000",
-    "source": "nyt",
-    "headline": "Israel Marks Two Years Since Oct. 7 as a Fragile Cease-Fire in Gaza Holds",
-    "link": "https://www.nytimes.com/2025/10/16/world/middleeast/israel-october-7-attack-hamas-ceasefire.html"
-  },
-  {
-    "score": 109,
+    "score": 105,
     "pubdate": "2025-10-18-03-30-12 +0000",
     "source": "nypost",
     "headline": "Disgraced ex-Long Island Rep. George Santos released from NJ prison hours after Trump commuted 7-year sentence",
     "link": "https://nypost.com/2025/10/17/us-news/george-santos-released-from-nj-prison-hours-after-trump-commuted-7-year-sentence/"
   },
   {
-    "score": 100,
-    "pubdate": "2025-10-17-13-05-55 +0000",
-    "source": "wapo",
-    "headline": "Trump plans Putin summit on Ukraine, raising stakes for Zelensky meeting",
-    "link": "https://www.washingtonpost.com/politics/2025/10/16/trump-buoyed-by-gaza-deal-plans-putin-summit-ukraine-peace/"
+    "score": 96,
+    "pubdate": "2025-10-17-02-08-18 +0000",
+    "source": "bbc",
+    "headline": "Putin-Trump call a curveball for Zelensky ahead of White House meeting",
+    "link": "https://www.bbc.com/news/articles/cze63r34213o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 93,
+    "score": 94,
     "pubdate": "2025-10-17-18-19-43 +0000",
     "source": "nypost",
     "headline": "Jeffrey Epstein-linked Prince Andrew forced to give up royal title as Duke of York",
