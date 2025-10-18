@@ -1,17 +1,24 @@
 [
   {
-    "score": 377,
+    "score": 372,
     "pubdate": "2025-10-16-20-59-00 +0000",
     "source": "wsj",
     "headline": "The four-star U.S. Navy admiral in charge of U.S. Southern Command will step down as the Trump administration ramps up its military campaign against alleged drug traffickers in Latin America",
     "link": "https://www.wsj.com/politics/national-security/head-of-u-s-southern-command-to-step-down-at-years-end-2d3d66ed"
   },
   {
-    "score": 179,
+    "score": 181,
     "pubdate": "2025-10-18-10-43-49 +0000",
     "source": "nyt",
     "headline": "Ukraine Braces for New Talks Without the Leverage of New Missiles",
     "link": "https://www.nytimes.com/2025/10/18/world/europe/ukraine-trump-talks.html"
+  },
+  {
+    "score": 157,
+    "pubdate": "2025-10-18-10-45-00 +0000",
+    "source": "wsj",
+    "headline": "Israel Still Carrying Out Some Strikes During Gaza Cease-Fire",
+    "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e"
   },
   {
     "score": 157,
@@ -21,52 +28,45 @@
     "link": "https://www.wsj.com/politics/policy/marc-benioff-apologizes-for-national-guard-comments-bc4d6827"
   },
   {
-    "score": 156,
-    "pubdate": "2025-10-18-10-45-00 +0000",
-    "source": "wsj",
-    "headline": "Israel Still Carrying Out Some Strikes During Gaza Cease-Fire",
-    "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e"
-  },
-  {
-    "score": 149,
+    "score": 151,
     "pubdate": "2025-10-13-03-42-00 +0000",
     "source": "wsj",
     "headline": "China was already seeing economic momentum slow before Trump announced the latest 100% tariff increase, part of a trade-war flare-up that Beijing on Sunday blamed on the U.S.",
     "link": "https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d"
   },
   {
-    "score": 134,
+    "score": 131,
     "pubdate": "2025-10-17-19-56-00 +0000",
     "source": "wsj",
     "headline": "Bank of Canada Gov. Tiff Macklem said data next week gauging the corporate sales outlook and inflation are likely to tip the scales on whether the central bank follows up September’s rate cut with another reduction later this month",
     "link": "https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763"
   },
   {
-    "score": 120,
+    "score": 117,
     "pubdate": "2025-10-15-19-58-31 +0000",
     "source": "latimes",
     "headline": "California judge halts Trump federal job cuts amid government shutdown",
     "link": "https://www.latimes.com/politics/story/2025-10-15/federal-judge-california-blocks-shutdown-job-cuts"
   },
   {
-    "score": 102,
+    "score": 100,
     "pubdate": "2025-10-18-03-30-12 +0000",
     "source": "nypost",
     "headline": "Disgraced ex-Long Island Rep. George Santos released from NJ prison hours after Trump commuted 7-year sentence",
     "link": "https://nypost.com/2025/10/17/us-news/george-santos-released-from-nj-prison-hours-after-trump-commuted-7-year-sentence/"
   },
   {
-    "score": 98,
+    "score": 100,
     "pubdate": "2025-10-17-18-19-43 +0000",
     "source": "nypost",
     "headline": "Jeffrey Epstein-linked Prince Andrew forced to give up royal title as Duke of York",
     "link": "https://nypost.com/2025/10/17/world-news/prince-andrew-announces-hes-giving-up-royal-duke-of-york-title/"
   },
   {
-    "score": 91,
-    "pubdate": "2025-10-17-02-08-18 +0000",
-    "source": "bbc",
-    "headline": "Putin-Trump call a curveball for Zelensky ahead of White House meeting",
-    "link": "https://www.bbc.com/news/articles/cze63r34213o?at_medium=RSS&at_campaign=rss"
+    "score": 93,
+    "pubdate": "2025-10-18-19-36-15 +0000",
+    "source": "nypost",
+    "headline": "‘Billion-Dollar Baby’ Heather Hardy sues boxing world for brain injuries: ‘They lined their pockets with her pain’",
+    "link": "https://nypost.com/2025/10/18/us-news/brooklyn-boxing-legend-heather-hardy-suing-for-access-to-medical-insurance-for-bout-related-injuries/"
   }
 ]
