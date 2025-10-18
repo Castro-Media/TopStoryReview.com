@@ -1,17 +1,10 @@
 [
   {
-    "score": 163,
+    "score": 164,
     "pubdate": "2025-10-17-21-16-00 +0000",
     "source": "wsj",
     "headline": "Salesforce Chief Executive Marc Benioff is apologizing for comments in which he called for President Trump to send the National Guard to San Francisco",
     "link": "https://www.wsj.com/politics/policy/marc-benioff-apologizes-for-national-guard-comments-bc4d6827"
-  },
-  {
-    "score": 81,
-    "pubdate": "2025-10-18-14-31-54 +0000",
-    "source": "latimes",
-    "headline": "Interstate 5 closes through Camp Pendleton, traffic backs up in Southern California as military set to fire artillery",
-    "link": "https://www.latimes.com/politics/story/2025-10-18/california-to-close-parts-of-i-5-today-after-military-confirms-it-it-will-fire-artillery-over-freeway"
   },
   {
     "score": 67,
@@ -21,39 +14,46 @@
     "link": "https://nypost.com/2025/10/17/us-news/george-santos-released-from-nj-prison-hours-after-trump-commuted-7-year-sentence/"
   },
   {
-    "score": 65,
+    "score": 63,
     "pubdate": "2025-10-18-10-43-49 +0000",
     "source": "nyt",
     "headline": "Ukraine Braces for New Talks Without the Leverage of New Missiles",
     "link": "https://www.nytimes.com/2025/10/18/world/europe/ukraine-trump-talks.html"
   },
   {
-    "score": 57,
-    "pubdate": "2025-10-18-14-39-50 +0000",
-    "source": "bbc",
-    "headline": "Eleven killed after Israel hits bus in Gaza, Hamas-run civil defence says",
-    "link": "https://www.bbc.com/news/articles/cpv1nk7dy4yo?at_medium=RSS&at_campaign=rss"
+    "score": 62,
+    "pubdate": "2025-10-18-10-45-00 +0000",
+    "source": "wsj",
+    "headline": "Israel Still Carrying Out Some Strikes During Gaza Cease-Fire",
+    "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e"
   },
   {
-    "score": 52,
-    "pubdate": "2025-10-18-16-03-12 +0000",
-    "source": "bbc",
-    "headline": "No Kings protests begin as huge anti-Trump rallies sweep across US",
-    "link": "https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-10-17-20-00-12 +0000",
+    "score": 59,
+    "pubdate": "2025-10-18-19-23-16 +0000",
     "source": "nypost",
-    "headline": "Virginia Giuffre family celebrates Prince Andrew dropping Duke of York title",
-    "link": "https://nypost.com/2025/10/17/world-news/epstein-victim-virginia-giuffres-family-celebrates-prince-andrew-dropping-duke-of-york-title/"
+    "headline": "Virginia Giuffre beaten, raped by ‘well-known prime minister’ in attack that broke Epstein spell, her memoir reveals",
+    "link": "https://nypost.com/2025/10/18/us-news/virginia-giuffre-was-left-bloodied-and-beaten-by-prime-minister/"
   },
   {
-    "score": 50,
-    "pubdate": "2025-10-18-16-01-44 +0000",
-    "source": "bbc",
-    "headline": "Afghanistan pulls out of cricket series after it says Pakistan air strike killed local players",
-    "link": "https://www.bbc.com/news/articles/c20pnz01x0eo?at_medium=RSS&at_campaign=rss"
+    "score": 57,
+    "pubdate": "2025-10-18-18-55-54 +0000",
+    "source": "latimes",
+    "headline": "'No Kings' protests getting underway across Southern California",
+    "link": "https://www.latimes.com/california/story/2025-10-18/no-kings-day-protests-getting-underway-across-southern-california"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-10-17-23-37-23 +0000",
+    "source": "wapo",
+    "headline": "U.S. military detains survivors of latest boat strike near Venezuela",
+    "link": "https://www.washingtonpost.com/national-security/2025/10/17/boat-strike-survivors-detained-venezuela-caribbean/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-10-18-00-29-39 +0000",
+    "source": "nyt",
+    "headline": "A bid to give Charlie Kirk an honorary degree from the Air Force Academy was withdrawn.",
+    "link": "https://www.nytimes.com/live/2025/10/17/us/trump-news-zelensky/a-bid-to-give-charlie-kirk-an-honorary-degree-from-the-air-force-academy-was-withdrawn"
   },
   {
     "score": 46,
@@ -63,10 +63,10 @@
     "link": "https://www.wsj.com/politics/elections/white-house-hires-stop-the-steal-lawyer-to-investigate-2020-election-claims-6395d322"
   },
   {
-    "score": 40,
-    "pubdate": "2025-10-18-00-29-39 +0000",
-    "source": "nyt",
-    "headline": "A bid to give Charlie Kirk an honorary degree from the Air Force Academy was withdrawn.",
-    "link": "https://www.nytimes.com/live/2025/10/17/us/trump-news-zelensky/a-bid-to-give-charlie-kirk-an-honorary-degree-from-the-air-force-academy-was-withdrawn"
+    "score": 46,
+    "pubdate": "2025-10-17-19-56-00 +0000",
+    "source": "wsj",
+    "headline": "Bank of Canada Gov. Tiff Macklem said data next week gauging the corporate sales outlook and inflation are likely to tip the scales on whether the central bank follows up September’s rate cut with another reduction later this month",
+    "link": "https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763"
   }
 ]
