@@ -1,37 +1,72 @@
 [
   {
-    "score": 17,
-    "pubdate": "2025-10-19-12-53-42 +0000",
+    "score": 30,
+    "pubdate": "2025-10-19-14-05-09 +0000",
     "source": "nyt",
-    "headline": "Gaza Cease-Fire Strained by New Flare-Up of Violence",
-    "link": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html"
+    "headline": "Trump Posts Fake Video of Himself Flying a ‘King Trump’ Jet Over Protesters",
+    "link": "https://www.nytimes.com/2025/10/19/us/politics/trump-fake-video-no-kings.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-19-14-36-35 +0000",
+    "source": "nyt",
+    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
+    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-19-14-45-11 +0000",
+    "source": "nyt",
+    "headline": "Vance Flexes Marines’ Might as Mass Protests Against Trump’s Agenda Take Place",
+    "link": "https://www.nytimes.com/2025/10/19/us/politics/vance-marines-california-protests.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-19-14-21-25 +0000",
+    "source": "nyt",
+    "headline": "‘Everything Is Gone’: Gazans Return Home to Find Devastation and Little Hope",
+    "link": "https://www.nytimes.com/2025/10/19/world/middleeast/gaza-city-israel-hamas-cease-fire.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-19-14-41-35 +0000",
+    "source": "nyt",
+    "headline": "‘Don’t Touch My Retirement!’ Wins the Day in France",
+    "link": "https://www.nytimes.com/2025/10/19/world/europe/dont-touch-my-retirement-wins-the-day-in-france.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-19-14-14-14 +0000",
+    "source": "wapo",
+    "headline": "Thieves steal treasured jewelry from Louvre in 7-minute daylight heist",
+    "link": "https://www.washingtonpost.com/world/2025/10/19/louvre-museum-robbery-jewels/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-19-14-27-42 +0000",
+    "source": "nyt",
+    "headline": "Bolivia’s Presidential Runoff Election: Here’s What to Know",
+    "link": "https://www.nytimes.com/2025/10/19/world/americas/bolivia-presidential-runoff-election.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-19-14-04-05 +0000",
+    "source": "nypost",
+    "headline": "Active shooter at Oklahoma State University dorm leaves 3 wounded",
+    "link": "https://nypost.com/2025/10/19/us-news/active-shooter-at-oklahoma-state-university-dorm-leaves-3-wounded/"
   },
   {
     "score": 7,
-    "pubdate": "2025-10-19-12-59-10 +0000",
-    "source": "bbc",
-    "headline": "VAT rate on energy bills could be cut, minister hints",
-    "link": "https://www.bbc.com/news/articles/cdjrg4vylzko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-19-12-55-00 +0000",
-    "source": "wsj",
-    "headline": "Heist at Louvre Leaves Museum Missing Priceless Jewels",
-    "link": "https://www.wsj.com/world/europe/seven-minute-heist-at-louvre-leaves-museum-missing-priceless-jewels-2b4b586e"
+    "pubdate": "2025-10-19-13-58-16 +0000",
+    "source": "nyt",
+    "headline": "Manuel Trujillo, Who Helped New Yorkers Heal After 9/11, Dies at 80",
+    "link": "https://www.nytimes.com/2025/10/18/nyregion/dr-manuel-trujillo-dead.html"
   },
   {
     "score": 6,
-    "pubdate": "2025-10-19-12-53-56 +0000",
-    "source": "cbc",
-    "headline": "Israeli military says it conducted airstrikes in Gaza's Rafah area",
-    "link": "https://www.cbc.ca/news/world/israel-military-gaza-ceasefire-9.6944297?cmp=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-19-12-53-42 +0000",
+    "pubdate": "2025-10-19-14-49-19 +0000",
     "source": "nyt",
-    "headline": "Gaza Cease-Fire Strained by New Flare-Up of Violence",
-    "link": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html"
+    "headline": "Hit-and-Run at a Child’s Birthday Party Injures 14",
+    "link": "https://www.nytimes.com/2025/10/19/us/crash-birthday-party-bladensburg.html"
   }
 ]

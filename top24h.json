@@ -1,38 +1,45 @@
 [
   {
-    "score": 125,
-    "pubdate": "2025-10-19-12-09-54 +0000",
-    "source": "nyt",
-    "headline": "‘No Kings’ Protests Against Trump Draws Thousands Across the U.S.",
-    "link": "https://www.nytimes.com/2025/10/18/us/protests-trump-no-kings.html"
+    "score": 134,
+    "pubdate": "2025-10-19-12-33-49 +0000",
+    "source": "nypost",
+    "headline": "Trump posts wild AI video showing him flying fighter jet, dropping sewage on No Kings protesters",
+    "link": "https://nypost.com/2025/10/19/us-news/trump-posts-wild-ai-video-showing-him-flying-fighter-jet-dropping-sewage-on-no-kings-protesters/"
   },
   {
-    "score": 70,
-    "pubdate": "2025-10-19-12-46-39 +0000",
-    "source": "bbc",
-    "headline": "Israel launches air strikes in Gaza, accusing Hamas of 'blatant violation of ceasefire'",
-    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss"
+    "score": 72,
+    "pubdate": "2025-10-19-12-41-57 +0000",
+    "source": "nypost",
+    "headline": "Israel strikes Gaza after Hamas allegedly violated cease-fire with ‘multiple attacks’",
+    "link": "https://nypost.com/2025/10/19/world-news/israel-strikes-gaza-after-hamas-allegedly-violated-ceasefire-with-multiple-attacks/"
   },
   {
-    "score": 46,
-    "pubdate": "2025-10-18-16-13-09 +0000",
-    "source": "nyt",
-    "headline": "Lithium Battery Fire Aboard Air China Flight Forces Emergency Landing",
-    "link": "https://www.nytimes.com/2025/10/18/world/asia/air-china-flight-lithium-battery-fire.html"
+    "score": 54,
+    "pubdate": "2025-10-19-13-21-31 +0000",
+    "source": "nypost",
+    "headline": "Trump says he’s cutting off all subsidies to Colombia, accuses Prez Gustavo Petro of being ‘illegal drug leader’",
+    "link": "https://nypost.com/2025/10/19/us-news/trump-cutting-off-subsidies-to-colombia-calls-prez-illegal-drug-leader/"
   },
   {
-    "score": 41,
+    "score": 49,
     "pubdate": "2025-10-19-06-31-02 +0000",
     "source": "bbc",
     "headline": "Afghanistan pulls out of cricket series after it says Pakistan air strike killed local players",
     "link": "https://www.bbc.com/news/articles/c20pnz01x0eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-18-21-08-36 +0000",
+    "score": 42,
+    "pubdate": "2025-10-19-14-45-11 +0000",
+    "source": "nyt",
+    "headline": "Vance Flexes Marines’ Might as Mass Protests Against Trump’s Agenda Take Place",
+    "link": "https://www.nytimes.com/2025/10/19/us/politics/vance-marines-california-protests.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-10-19-13-53-46 +0000",
     "source": "nypost",
-    "headline": "Jeffrey Epstein sent nasty emails to billionaire Leon Black demanding millions per year before arrest: report",
-    "link": "https://nypost.com/2025/10/18/us-news/jeffrey-epstein-sent-nasty-emails-to-apollo-founder-leon-black/"
+    "headline": "Lying ex-Rep. George Santos evokes ‘Jesus Christ on the cross,’ slams critics of Trump’s decision to free him from prison",
+    "link": "https://nypost.com/2025/10/19/us-news/ex-rep-george-santos-evokes-jesus-christ-on-the-cross-slams-critics-of-trumps-pardon/"
   },
   {
     "score": 35,
@@ -49,24 +56,17 @@
     "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-administration-bluesky.html"
   },
   {
-    "score": 35,
-    "pubdate": "2025-10-18-20-09-11 +0000",
-    "source": "nypost",
-    "headline": "Zelensky’s drone attacks on oil refineries cause Russian fossil fuel exports to drop to lowest point during Ukraine war",
-    "link": "https://nypost.com/2025/10/18/world-news/zelenskys-drone-attacks-on-oil-refineries-causes-russian-fossil-fuel-exports-to-drop-to-lowest-point-during-ukraine-war/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-10-19-04-31-22 +0000",
-    "source": "nyt",
-    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
-  },
-  {
     "score": 34,
     "pubdate": "2025-10-18-23-34-33 +0000",
     "source": "bbc",
     "headline": "Mystery lingers weeks after missing schoolgirl found dead in pop star D4vd's Tesla",
     "link": "https://www.bbc.com/news/articles/c205g10g0nvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-10-18-20-09-11 +0000",
+    "source": "nypost",
+    "headline": "Zelensky’s drone attacks on oil refineries cause Russian fossil fuel exports to drop to lowest point during Ukraine war",
+    "link": "https://nypost.com/2025/10/18/world-news/zelenskys-drone-attacks-on-oil-refineries-causes-russian-fossil-fuel-exports-to-drop-to-lowest-point-during-ukraine-war/"
   }
 ]
