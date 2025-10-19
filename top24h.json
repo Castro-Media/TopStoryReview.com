@@ -1,14 +1,14 @@
 [
   {
     "score": 121,
-    "pubdate": "2025-10-19-06-45-06 +0000",
+    "pubdate": "2025-10-19-11-30-46 +0000",
     "source": "nyt",
     "headline": "‘No Kings’ Protests Against Trump Draws Thousands Across the U.S.",
     "link": "https://www.nytimes.com/2025/10/18/us/protests-trump-no-kings.html"
   },
   {
-    "score": 63,
-    "pubdate": "2025-10-19-10-38-32 +0000",
+    "score": 62,
+    "pubdate": "2025-10-19-11-26-40 +0000",
     "source": "bbc",
     "headline": "Israel launches air strikes in Gaza accusing Hamas of 'bold violation of ceasefire'",
     "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss"
@@ -28,7 +28,7 @@
     "link": "https://www.nytimes.com/2025/10/18/world/asia/air-china-flight-lithium-battery-fire.html"
   },
   {
-    "score": 39,
+    "score": 40,
     "pubdate": "2025-10-18-20-45-37 +0000",
     "source": "nyt",
     "headline": "White House and Government Agencies Join Bluesky, Then Attack Democrats",
@@ -49,6 +49,13 @@
     "link": "https://nypost.com/2025/10/18/us-news/jeffrey-epstein-sent-nasty-emails-to-apollo-founder-leon-black/"
   },
   {
+    "score": 36,
+    "pubdate": "2025-10-19-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "These Jobs Often Go Overseas. One Company Is Bringing Them to Rural America.",
+    "link": "https://www.wsj.com/economy/jobs/these-jobs-often-go-overseas-one-company-is-bringing-them-to-rural-america-127f110c"
+  },
+  {
     "score": 35,
     "pubdate": "2025-10-18-23-34-33 +0000",
     "source": "bbc",
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Zelensky’s drone attacks on oil refineries cause Russian fossil fuel exports to drop to lowest point during Ukraine war",
     "link": "https://nypost.com/2025/10/18/world-news/zelenskys-drone-attacks-on-oil-refineries-causes-russian-fossil-fuel-exports-to-drop-to-lowest-point-during-ukraine-war/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-10-18-22-04-02 +0000",
-    "source": "nypost",
-    "headline": "NYC police union leader calls out Zohran Mamdani for his staffer’s anti-cop slight",
-    "link": "https://nypost.com/2025/10/18/us-news/nyc-detectives-union-head-says-mayor-mamdani-would-mean-more-crime-more-victims/"
   }
 ]
