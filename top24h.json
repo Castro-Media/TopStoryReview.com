@@ -1,31 +1,38 @@
 [
   {
-    "score": 129,
-    "pubdate": "2025-10-19-12-33-49 +0000",
-    "source": "nypost",
-    "headline": "Trump posts wild AI video showing him flying fighter jet, dropping sewage on No Kings protesters",
-    "link": "https://nypost.com/2025/10/19/us-news/trump-posts-wild-ai-video-showing-him-flying-fighter-jet-dropping-sewage-on-no-kings-protesters/"
+    "score": 124,
+    "pubdate": "2025-10-19-17-32-48 +0000",
+    "source": "nyt",
+    "headline": "Vance Hosts Marines Demonstration Amid ‘No Kings’ Mass Protests Against Trump",
+    "link": "https://www.nytimes.com/2025/10/19/us/politics/vance-marines-california-protests.html"
   },
   {
-    "score": 71,
+    "score": 70,
+    "pubdate": "2025-10-19-16-10-25 +0000",
+    "source": "bbc",
+    "headline": "Trump ends aid to Colombia and calls country's leader a 'drug leader'",
+    "link": "https://www.bbc.com/news/articles/cn8xg1jve73o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 62,
+    "pubdate": "2025-10-19-12-41-57 +0000",
+    "source": "nypost",
+    "headline": "Israel launches ‘extensive’ Gaza airstrikes in response to Hamas cease-fire violation",
+    "link": "https://nypost.com/2025/10/19/world-news/israel-strikes-gaza-after-hamas-allegedly-violated-ceasefire-with-multiple-attacks/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-10-19-06-31-02 +0000",
+    "source": "bbc",
+    "headline": "Afghanistan pulls out of cricket series after it says Pakistan air strike killed local players",
+    "link": "https://www.bbc.com/news/articles/c20pnz01x0eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 53,
     "pubdate": "2025-10-19-19-13-36 +0000",
     "source": "nypost",
     "headline": "House Dem leader Hakeem Jeffries has awkward pause when asked about not endorsing Zohran Mamdani in NYC mayoral race",
     "link": "https://nypost.com/2025/10/19/us-news/hakeem-jeffries-has-awkward-pause-when-asked-about-not-endorsing-zohran-mamdani-in-nyc-mayoral-race/"
-  },
-  {
-    "score": 67,
-    "pubdate": "2025-10-19-19-17-32 +0000",
-    "source": "nyt",
-    "headline": "Israel Strikes Gaza and Temporarily Halts Aid, Saying Hamas Broke Truce",
-    "link": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-10-19-17-23-13 +0000",
-    "source": "nyt",
-    "headline": "A Fragile Cease-fire Between Afghanistan and Pakistan Ends Violence, for Now",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/afghanistan-pakistan-cease-fire.html"
   },
   {
     "score": 48,
@@ -35,38 +42,31 @@
     "link": "https://nypost.com/2025/10/19/world-news/louvre-museum-in-paris-closed-after-robbery-frances-culture-minister-says/"
   },
   {
-    "score": 46,
-    "pubdate": "2025-10-19-13-21-31 +0000",
-    "source": "nypost",
-    "headline": "Trump says he’s cutting off all subsidies to Colombia, accuses Prez Gustavo Petro of being ‘illegal drug leader’",
-    "link": "https://nypost.com/2025/10/19/us-news/trump-cutting-off-subsidies-to-colombia-calls-prez-illegal-drug-leader/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-10-19-19-27-11 +0000",
-    "source": "nypost",
-    "headline": "Secret Service investigating possible sniper’s nest with sight line to Trump Air Force One arrival near Palm Beach airport",
-    "link": "https://nypost.com/2025/10/19/us-news/secret-service-investigating-possible-snipers-nest-with-sight-line-to-trump-air-force-one-arrival-near-palm-beach-airport/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-10-19-13-53-46 +0000",
-    "source": "nypost",
-    "headline": "Lying ex-Rep. George Santos evokes ‘Jesus Christ on the cross,’ slams critics of Trump’s decision to free him from prison",
-    "link": "https://nypost.com/2025/10/19/us-news/ex-rep-george-santos-evokes-jesus-christ-on-the-cross-slams-critics-of-trumps-pardon/"
-  },
-  {
-    "score": 41,
+    "score": 44,
     "pubdate": "2025-10-19-17-38-31 +0000",
     "source": "nypost",
     "headline": "New Jersey GOP sounds alarms about ballot security in key county ahead of tight gov election",
     "link": "https://nypost.com/2025/10/19/us-news/nj-gop-sounds-alarm-about-passaic-county-ballot-security-ahead-of-governor-election/"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-19-17-32-47 +0000",
+    "score": 39,
+    "pubdate": "2025-10-19-19-27-11 +0000",
+    "source": "nypost",
+    "headline": "Secret Service investigating possible sniper’s nest with sight line to Trump Air Force One arrival near Palm Beach airport",
+    "link": "https://nypost.com/2025/10/19/us-news/secret-service-investigating-possible-snipers-nest-with-sight-line-to-trump-air-force-one-arrival-near-palm-beach-airport/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-10-19-14-36-35 +0000",
     "source": "nyt",
-    "headline": "Vance Flexes Marines’ Might as Mass Protests Against Trump’s Agenda Take Place",
-    "link": "https://www.nytimes.com/2025/10/19/us/politics/vance-marines-california-protests.html"
+    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
+    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-10-19-19-12-37 +0000",
+    "source": "nyt",
+    "headline": "Trump and Colombian President Trade Digital Attacks Over Boat Strikes",
+    "link": "https://www.nytimes.com/2025/10/19/us/politics/trump-colombia-petro-aid.html"
   }
 ]
