@@ -1,27 +1,27 @@
 [
   {
-    "score": 121,
+    "score": 120,
     "pubdate": "2025-10-19-06-11-20 +0000",
     "source": "bbc",
     "headline": "'No Kings' protests draw huge crowds as anti-Trump rallies sweep across US",
     "link": "https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
+    "score": 59,
     "pubdate": "2025-10-19-01-01-00 +0000",
     "source": "wsj",
     "headline": "U.S. Warns Hamas Against Attacks in Gaza as Pressure on Cease-Fire Deal Builds",
     "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e"
   },
   {
-    "score": 51,
+    "score": 50,
     "pubdate": "2025-10-19-06-31-02 +0000",
     "source": "bbc",
     "headline": "Afghanistan pulls out of cricket series after it says Pakistan air strike killed local players",
     "link": "https://www.bbc.com/news/articles/c20pnz01x0eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
+    "score": 38,
     "pubdate": "2025-10-18-10-43-49 +0000",
     "source": "nyt",
     "headline": "Ukraine Braces for New Talks Without the Leverage of New Missiles",
@@ -35,18 +35,11 @@
     "link": "https://www.nytimes.com/2025/10/19/us/politics/vance-marines-california-protests.html"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-18-19-51-55 +0000",
-    "source": "nypost",
-    "headline": "Parents of Long Island teacher accused of sexting teen put up own house to secure bail",
-    "link": "https://nypost.com/2025/10/18/us-news/parents-set-bail-for-long-island-elementary-school-teacher-accused-of-sexting-girl-13/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-10-19-06-30-28 +0000",
-    "source": "bbc",
-    "headline": "One of latest bodies returned from Gaza is dead hostage, Israel confirms",
-    "link": "https://www.bbc.com/news/articles/c7v8e1484n5o?at_medium=RSS&at_campaign=rss"
+    "score": 35,
+    "pubdate": "2025-10-18-20-45-37 +0000",
+    "source": "nyt",
+    "headline": "White House and Government Agencies Join Bluesky, Then Attack Democrats",
+    "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-administration-bluesky.html"
   },
   {
     "score": 34,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/10/18/us-news/jeffrey-epstein-sent-nasty-emails-to-apollo-founder-leon-black/"
   },
   {
-    "score": 32,
-    "pubdate": "2025-10-18-16-13-09 +0000",
+    "score": 33,
+    "pubdate": "2025-10-18-09-03-31 +0000",
     "source": "nyt",
-    "headline": "Lithium Battery Fire Aboard Air China Flight Forces Emergency Landing",
-    "link": "https://www.nytimes.com/2025/10/18/world/asia/air-china-flight-lithium-battery-fire.html"
+    "headline": "Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines",
+    "link": "https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-10-18-23-34-33 +0000",
+    "source": "bbc",
+    "headline": "Mystery lingers weeks after missing schoolgirl found dead in pop star D4vd's Tesla",
+    "link": "https://www.bbc.com/news/articles/c205g10g0nvo?at_medium=RSS&at_campaign=rss"
   }
 ]
