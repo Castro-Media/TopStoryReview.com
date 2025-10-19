@@ -1,45 +1,52 @@
 [
   {
-    "score": 120,
-    "pubdate": "2025-10-19-06-11-20 +0000",
-    "source": "bbc",
-    "headline": "'No Kings' protests draw huge crowds as anti-Trump rallies sweep across US",
-    "link": "https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss"
+    "score": 114,
+    "pubdate": "2025-10-19-06-45-06 +0000",
+    "source": "nyt",
+    "headline": "‘No Kings’ Protests Against Trump Draws Thousands Across the U.S.",
+    "link": "https://www.nytimes.com/2025/10/18/us/protests-trump-no-kings.html"
   },
   {
-    "score": 59,
+    "score": 54,
     "pubdate": "2025-10-19-01-01-00 +0000",
     "source": "wsj",
     "headline": "U.S. Warns Hamas Against Attacks in Gaza as Pressure on Cease-Fire Deal Builds",
     "link": "https://www.wsj.com/world/middle-east/israel-still-carrying-out-some-strikes-during-gaza-cease-fire-a3027f2e"
   },
   {
-    "score": 50,
+    "score": 51,
     "pubdate": "2025-10-19-06-31-02 +0000",
     "source": "bbc",
     "headline": "Afghanistan pulls out of cricket series after it says Pakistan air strike killed local players",
     "link": "https://www.bbc.com/news/articles/c20pnz01x0eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
+    "score": 37,
+    "pubdate": "2025-10-18-20-45-37 +0000",
+    "source": "nyt",
+    "headline": "White House and Government Agencies Join Bluesky, Then Attack Democrats",
+    "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-administration-bluesky.html"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-10-18-22-04-02 +0000",
+    "source": "nypost",
+    "headline": "NYC police union leader calls out Zohran Mamdani for his staffer’s anti-cop slight",
+    "link": "https://nypost.com/2025/10/18/us-news/nyc-detectives-union-head-says-mayor-mamdani-would-mean-more-crime-more-victims/"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-10-18-10-43-49 +0000",
     "source": "nyt",
     "headline": "Ukraine Braces for New Talks Without the Leverage of New Missiles",
     "link": "https://www.nytimes.com/2025/10/18/world/europe/ukraine-trump-talks.html"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-19-05-05-25 +0000",
-    "source": "nyt",
-    "headline": "Vance Flexes the Marines’ Might as Thousands Protest Trump’s Agenda",
-    "link": "https://www.nytimes.com/2025/10/19/us/politics/vance-marines-california-protests.html"
-  },
-  {
     "score": 35,
-    "pubdate": "2025-10-18-20-45-37 +0000",
-    "source": "nyt",
-    "headline": "White House and Government Agencies Join Bluesky, Then Attack Democrats",
-    "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-administration-bluesky.html"
+    "pubdate": "2025-10-18-21-08-36 +0000",
+    "source": "nypost",
+    "headline": "Jeffrey Epstein sent nasty emails to billionaire Leon Black demanding millions per year before arrest: report",
+    "link": "https://nypost.com/2025/10/18/us-news/jeffrey-epstein-sent-nasty-emails-to-apollo-founder-leon-black/"
   },
   {
     "score": 34,
@@ -49,24 +56,17 @@
     "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
   },
   {
-    "score": 33,
-    "pubdate": "2025-10-18-21-08-36 +0000",
-    "source": "nypost",
-    "headline": "Jeffrey Epstein sent nasty emails to billionaire Leon Black demanding millions per year before arrest: report",
-    "link": "https://nypost.com/2025/10/18/us-news/jeffrey-epstein-sent-nasty-emails-to-apollo-founder-leon-black/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-10-18-09-03-31 +0000",
-    "source": "nyt",
-    "headline": "Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines",
-    "link": "https://www.nytimes.com/2025/10/18/us/lego-theft-california-arrest.html"
-  },
-  {
     "score": 32,
     "pubdate": "2025-10-18-23-34-33 +0000",
     "source": "bbc",
     "headline": "Mystery lingers weeks after missing schoolgirl found dead in pop star D4vd's Tesla",
     "link": "https://www.bbc.com/news/articles/c205g10g0nvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-10-18-16-13-09 +0000",
+    "source": "nyt",
+    "headline": "Lithium Battery Fire Aboard Air China Flight Forces Emergency Landing",
+    "link": "https://www.nytimes.com/2025/10/18/world/asia/air-china-flight-lithium-battery-fire.html"
   }
 ]
