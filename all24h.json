@@ -1,33 +1,87 @@
 [
   {
-    "headline": "The Spritzes and Carbonaras That Ate Italy",
-    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
+    "headline": "‘No Kings’ Protests Against Trump Draws Thousands Across the U.S.",
+    "link": "https://www.nytimes.com/2025/10/18/us/protests-trump-no-kings.html",
     "source": "nyt",
-    "pubdate": "2025-10-19-02-19-29 +0000"
-  },
-  {
-    "headline": "The Spritzes and Carbonaras That Ate Italy",
-    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
-    "source": "nyt",
-    "pubdate": "2025-10-19-02-19-29 +0000"
-  },
-  {
-    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
-    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-19-02-16-33 +0000"
-  },
-  {
-    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
-    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-19-02-16-33 +0000"
+    "pubdate": "2025-10-19-03-50-33 +0000"
   },
   {
     "headline": "Takeaways: Wild remain winless on road trip with 2-1 overtime loss to Flyers",
     "link": "https://www.startribune.com/takeaways-wild-remain-winless-on-road-with-2-1-overtime-loss-to-flyers/601456984",
     "source": "startribune",
-    "pubdate": "2025-10-19-02-11-44 +0000"
+    "pubdate": "2025-10-19-03-48-50 +0000"
+  },
+  {
+    "headline": "Kamala Harris criticizes Joe Biden for snubbing Elon Musk in 2021: ‘Big mistake’",
+    "link": "https://nypost.com/2025/10/18/us-news/kamala-harris-criticizes-joe-biden-for-snubbing-elon-musk-in-2021/",
+    "source": "nypost",
+    "pubdate": "2025-10-19-03-37-52 +0000"
+  },
+  {
+    "headline": "Photos: Defiance and solidarity fill the streets as thousands protest Trump for ‘No Kings’ day in S.F.",
+    "link": "https://missionlocal.org/2025/10/photos-defiance-and-solidarity-fill-the-streets-as-thousands-protest-trump-for-no-kings-day-in-s-f/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-19-03-33-45 +0000"
+  },
+  {
+    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
+    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
+    "source": "wsj",
+    "pubdate": "2025-10-19-03-26-00 +0000"
+  },
+  {
+    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
+    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
+    "source": "wsj",
+    "pubdate": "2025-10-19-03-26-00 +0000"
+  },
+  {
+    "headline": "The Israeli Politician Who Became Netanyahu’s Top Trump Whisperer",
+    "link": "https://www.wsj.com/world/middle-east/the-israeli-politician-who-became-netanyahus-top-trump-whisperer-e7d517d0",
+    "source": "wsj",
+    "pubdate": "2025-10-19-03-00-00 +0000"
+  },
+  {
+    "headline": "'We never lost faith': Culver City palatero reunites with family after 114 days detained",
+    "link": "https://www.latimes.com/california/story/2025-10-18/culver-city-palatero-ice-detention-green-card",
+    "source": "latimes",
+    "pubdate": "2025-10-19-02-52-30 +0000"
+  },
+  {
+    "headline": "Military Fired Artillery Over California Freeway on Saturday",
+    "link": "https://www.nytimes.com/2025/10/18/us/artillery-interstate-5-marines.html",
+    "source": "nyt",
+    "pubdate": "2025-10-19-02-47-51 +0000"
+  },
+  {
+    "headline": "Lithium battery ignites on Air China flight in mid air, horrifying passengers as flames burst out in  cabin",
+    "link": "https://nypost.com/2025/10/18/world-news/air-china-flight-makes-emergency-landing-after-lithium-battery-ignites-mid-air/",
+    "source": "nypost",
+    "pubdate": "2025-10-19-02-41-22 +0000"
+  },
+  {
+    "headline": "The Spritzes and Carbonaras That Ate Italy",
+    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
+    "source": "nyt",
+    "pubdate": "2025-10-19-02-19-29 +0000"
+  },
+  {
+    "headline": "The Spritzes and Carbonaras That Ate Italy",
+    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
+    "source": "nyt",
+    "pubdate": "2025-10-19-02-19-29 +0000"
+  },
+  {
+    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
+    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-19-02-16-33 +0000"
+  },
+  {
+    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
+    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-19-02-16-33 +0000"
   },
   {
     "headline": "U.S. to Repatriate Survivors of Strike on Suspected Drug Vessel",
@@ -40,12 +94,6 @@
     "link": "https://www.wsj.com/world/china/a-new-challenge-for-chinas-economy-involution-419500f1",
     "source": "wsj",
     "pubdate": "2025-10-19-02-00-00 +0000"
-  },
-  {
-    "headline": "‘No Kings’ Protests Against Trump Draws Thousands Across the U.S.",
-    "link": "https://www.nytimes.com/2025/10/18/us/protests-trump-no-kings.html",
-    "source": "nyt",
-    "pubdate": "2025-10-19-01-51-29 +0000"
   },
   {
     "headline": "Afghanistan and Pakistan have agreed to an immediate ceasefire, Qatar says",
@@ -72,18 +120,6 @@
     "pubdate": "2025-10-19-01-00-00 +0000"
   },
   {
-    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
-    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
-    "source": "wsj",
-    "pubdate": "2025-10-19-00-54-00 +0000"
-  },
-  {
-    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
-    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
-    "source": "wsj",
-    "pubdate": "2025-10-19-00-54-00 +0000"
-  },
-  {
     "headline": "Joe Biden seen publicly for first time since beginning radiation therapy for prostate cancer",
     "link": "https://nypost.com/2025/10/18/us-news/joe-biden-seen-publicly-for-first-time-since-beginning-radiation-therapy-for-prostate-cancer/",
     "source": "nypost",
@@ -100,12 +136,6 @@
     "link": "https://www.nytimes.com/2025/10/18/us/minnesota-amish-buggy-crash-sentence.html",
     "source": "nyt",
     "pubdate": "2025-10-19-00-39-29 +0000"
-  },
-  {
-    "headline": "Military Fired Artillery Over California Freeway on Saturday",
-    "link": "https://www.nytimes.com/2025/10/18/us/artillery-interstate-5-marines.html",
-    "source": "nyt",
-    "pubdate": "2025-10-19-00-37-10 +0000"
   },
   {
     "headline": "Scenes from the ‘No Kings’ Anti-Trump Protests in Video and Photos",
@@ -609,19 +639,13 @@
     "headline": "For Prince Andrew, a Steady Fall From Grace Ends in a Hard Landing",
     "link": "https://www.nytimes.com/2025/10/18/world/europe/prince-andrew-britain-epstein.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-17-48-19 +0000"
+    "pubdate": "2025-10-18-17-48-20 +0000"
   },
   {
     "headline": "For Prince Andrew, a Steady Fall From Grace Ends in a Hard Landing",
     "link": "https://www.nytimes.com/2025/10/18/world/europe/prince-andrew-britain-epstein.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-17-48-19 +0000"
-  },
-  {
-    "headline": "Maxwell, Epstein pleaded for Virginia Giuffre to ‘have our baby’ — prompting teen to hatch escape plan: memoir",
-    "link": "https://nypost.com/2025/10/18/us-news/maxwell-epstein-pleaded-for-virginia-giuffre-to-have-our-baby-she-wrote-in-memoir/",
-    "source": "nypost",
-    "pubdate": "2025-10-18-17-45-23 +0000"
+    "pubdate": "2025-10-18-17-48-20 +0000"
   },
   {
     "headline": "Paramount Skydance to cut 2,000 jobs starting final week of October: report",
@@ -945,7 +969,7 @@
     "headline": "The Shutdown Is Stretching On. Trump Doesn’t Seem to Mind.",
     "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-12-44-58 +0000"
+    "pubdate": "2025-10-18-12-44-59 +0000"
   },
   {
     "headline": "Disappointment in Kyiv as Zelensky leaves White House empty-handed",
@@ -1110,12 +1134,6 @@
     "pubdate": "2025-10-18-10-00-07 +0000"
   },
   {
-    "headline": "The little-known groundwater Los Angeles pumps in the Owens Valley, and the tribes who want it back",
-    "link": "https://www.latimes.com/environment/story/2025-10-18/owens-valley-tribes-water",
-    "source": "latimes",
-    "pubdate": "2025-10-18-10-00-00 +0000"
-  },
-  {
     "headline": "Federal troops in San Francisco? Locals, leaders scoff at Trump's plan",
     "link": "https://www.latimes.com/politics/story/2025-10-18/trump-federal-troops-san-francisco",
     "source": "latimes",
@@ -1130,6 +1148,12 @@
   {
     "headline": "Chabria: Is Pelosi getting 'Bidened'? High drama in the scramble for her congressional seat",
     "link": "https://www.latimes.com/california/story/2025-10-18/chabria-column-scott-wiener-nancy-pelosi-congress",
+    "source": "latimes",
+    "pubdate": "2025-10-18-10-00-00 +0000"
+  },
+  {
+    "headline": "The little-known groundwater Los Angeles pumps in the Owens Valley, and the tribes who want it back",
+    "link": "https://www.latimes.com/environment/story/2025-10-18/owens-valley-tribes-water",
     "source": "latimes",
     "pubdate": "2025-10-18-10-00-00 +0000"
   },
@@ -1185,13 +1209,13 @@
     "headline": "The Indonesian Free-Food Program That Has Sickened Thousands",
     "link": "https://www.nytimes.com/2025/10/18/world/asia/indonesia-school-lunch-program-poisoning.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-09-19-41 +0000"
+    "pubdate": "2025-10-18-09-19-42 +0000"
   },
   {
     "headline": "The Indonesian Free-Food Program That Has Sickened Thousands",
     "link": "https://www.nytimes.com/2025/10/18/world/asia/indonesia-school-lunch-program-poisoning.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-09-19-41 +0000"
+    "pubdate": "2025-10-18-09-19-42 +0000"
   },
   {
     "headline": "Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines",
@@ -1456,23 +1480,5 @@
     "link": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
     "source": "nyt",
     "pubdate": "2025-10-18-04-02-38 +0000"
-  },
-  {
-    "headline": "Disgraced ex-Long Island Rep. George Santos released from NJ prison hours after Trump commuted 7-year sentence",
-    "link": "https://nypost.com/2025/10/17/us-news/george-santos-released-from-nj-prison-hours-after-trump-commuted-7-year-sentence/",
-    "source": "nypost",
-    "pubdate": "2025-10-18-03-30-12 +0000"
-  },
-  {
-    "headline": "U.S. Agency That Protects Nuclear Arsenal to Furlough Workers",
-    "link": "https://www.nytimes.com/2025/10/17/us/politics/nuclear-weapons-agency-furloughs-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-18-03-19-38 +0000"
-  },
-  {
-    "headline": "U.S. Agency That Protects Nuclear Arsenal to Furlough Workers",
-    "link": "https://www.nytimes.com/2025/10/17/us/politics/nuclear-weapons-agency-furloughs-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-10-18-03-19-38 +0000"
   }
 ]
