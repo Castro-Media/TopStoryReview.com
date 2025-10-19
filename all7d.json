@@ -1,33 +1,87 @@
 [
   {
-    "headline": "The Spritzes and Carbonaras That Ate Italy",
-    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
+    "headline": "‘No Kings’ Protests Against Trump Draws Thousands Across the U.S.",
+    "link": "https://www.nytimes.com/2025/10/18/us/protests-trump-no-kings.html",
     "source": "nyt",
-    "pubdate": "2025-10-19-02-19-29 +0000"
-  },
-  {
-    "headline": "The Spritzes and Carbonaras That Ate Italy",
-    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
-    "source": "nyt",
-    "pubdate": "2025-10-19-02-19-29 +0000"
-  },
-  {
-    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
-    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-19-02-16-33 +0000"
-  },
-  {
-    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
-    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-19-02-16-33 +0000"
+    "pubdate": "2025-10-19-03-50-33 +0000"
   },
   {
     "headline": "Takeaways: Wild remain winless on road trip with 2-1 overtime loss to Flyers",
     "link": "https://www.startribune.com/takeaways-wild-remain-winless-on-road-with-2-1-overtime-loss-to-flyers/601456984",
     "source": "startribune",
-    "pubdate": "2025-10-19-02-11-44 +0000"
+    "pubdate": "2025-10-19-03-48-50 +0000"
+  },
+  {
+    "headline": "Kamala Harris criticizes Joe Biden for snubbing Elon Musk in 2021: ‘Big mistake’",
+    "link": "https://nypost.com/2025/10/18/us-news/kamala-harris-criticizes-joe-biden-for-snubbing-elon-musk-in-2021/",
+    "source": "nypost",
+    "pubdate": "2025-10-19-03-37-52 +0000"
+  },
+  {
+    "headline": "Photos: Defiance and solidarity fill the streets as thousands protest Trump for ‘No Kings’ day in S.F.",
+    "link": "https://missionlocal.org/2025/10/photos-defiance-and-solidarity-fill-the-streets-as-thousands-protest-trump-for-no-kings-day-in-s-f/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-19-03-33-45 +0000"
+  },
+  {
+    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
+    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
+    "source": "wsj",
+    "pubdate": "2025-10-19-03-26-00 +0000"
+  },
+  {
+    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
+    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
+    "source": "wsj",
+    "pubdate": "2025-10-19-03-26-00 +0000"
+  },
+  {
+    "headline": "The Israeli Politician Who Became Netanyahu’s Top Trump Whisperer",
+    "link": "https://www.wsj.com/world/middle-east/the-israeli-politician-who-became-netanyahus-top-trump-whisperer-e7d517d0",
+    "source": "wsj",
+    "pubdate": "2025-10-19-03-00-00 +0000"
+  },
+  {
+    "headline": "'We never lost faith': Culver City palatero reunites with family after 114 days detained",
+    "link": "https://www.latimes.com/california/story/2025-10-18/culver-city-palatero-ice-detention-green-card",
+    "source": "latimes",
+    "pubdate": "2025-10-19-02-52-30 +0000"
+  },
+  {
+    "headline": "Military Fired Artillery Over California Freeway on Saturday",
+    "link": "https://www.nytimes.com/2025/10/18/us/artillery-interstate-5-marines.html",
+    "source": "nyt",
+    "pubdate": "2025-10-19-02-47-51 +0000"
+  },
+  {
+    "headline": "Lithium battery ignites on Air China flight in mid air, horrifying passengers as flames burst out in  cabin",
+    "link": "https://nypost.com/2025/10/18/world-news/air-china-flight-makes-emergency-landing-after-lithium-battery-ignites-mid-air/",
+    "source": "nypost",
+    "pubdate": "2025-10-19-02-41-22 +0000"
+  },
+  {
+    "headline": "The Spritzes and Carbonaras That Ate Italy",
+    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
+    "source": "nyt",
+    "pubdate": "2025-10-19-02-19-29 +0000"
+  },
+  {
+    "headline": "The Spritzes and Carbonaras That Ate Italy",
+    "link": "https://www.nytimes.com/2025/10/18/world/europe/italy-tourism-restaurants.html",
+    "source": "nyt",
+    "pubdate": "2025-10-19-02-19-29 +0000"
+  },
+  {
+    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
+    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-19-02-16-33 +0000"
+  },
+  {
+    "headline": "US says Hamas is planning 'imminent' attack on Gaza civilians",
+    "link": "https://www.bbc.com/news/articles/cm2elr16jjqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-19-02-16-33 +0000"
   },
   {
     "headline": "U.S. to Repatriate Survivors of Strike on Suspected Drug Vessel",
@@ -40,12 +94,6 @@
     "link": "https://www.wsj.com/world/china/a-new-challenge-for-chinas-economy-involution-419500f1",
     "source": "wsj",
     "pubdate": "2025-10-19-02-00-00 +0000"
-  },
-  {
-    "headline": "‘No Kings’ Protests Against Trump Draws Thousands Across the U.S.",
-    "link": "https://www.nytimes.com/2025/10/18/us/protests-trump-no-kings.html",
-    "source": "nyt",
-    "pubdate": "2025-10-19-01-51-29 +0000"
   },
   {
     "headline": "Afghanistan and Pakistan have agreed to an immediate ceasefire, Qatar says",
@@ -72,18 +120,6 @@
     "pubdate": "2025-10-19-01-00-00 +0000"
   },
   {
-    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
-    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
-    "source": "wsj",
-    "pubdate": "2025-10-19-00-54-00 +0000"
-  },
-  {
-    "headline": "Across the U.S., ‘No Kings’ Protesters Rally to Oppose Trump",
-    "link": "https://www.wsj.com/us-news/no-kings-protests-ebd5a596",
-    "source": "wsj",
-    "pubdate": "2025-10-19-00-54-00 +0000"
-  },
-  {
     "headline": "Joe Biden seen publicly for first time since beginning radiation therapy for prostate cancer",
     "link": "https://nypost.com/2025/10/18/us-news/joe-biden-seen-publicly-for-first-time-since-beginning-radiation-therapy-for-prostate-cancer/",
     "source": "nypost",
@@ -100,12 +136,6 @@
     "link": "https://www.nytimes.com/2025/10/18/us/minnesota-amish-buggy-crash-sentence.html",
     "source": "nyt",
     "pubdate": "2025-10-19-00-39-29 +0000"
-  },
-  {
-    "headline": "Military Fired Artillery Over California Freeway on Saturday",
-    "link": "https://www.nytimes.com/2025/10/18/us/artillery-interstate-5-marines.html",
-    "source": "nyt",
-    "pubdate": "2025-10-19-00-37-10 +0000"
   },
   {
     "headline": "Scenes from the ‘No Kings’ Anti-Trump Protests in Video and Photos",
@@ -609,19 +639,13 @@
     "headline": "For Prince Andrew, a Steady Fall From Grace Ends in a Hard Landing",
     "link": "https://www.nytimes.com/2025/10/18/world/europe/prince-andrew-britain-epstein.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-17-48-19 +0000"
+    "pubdate": "2025-10-18-17-48-20 +0000"
   },
   {
     "headline": "For Prince Andrew, a Steady Fall From Grace Ends in a Hard Landing",
     "link": "https://www.nytimes.com/2025/10/18/world/europe/prince-andrew-britain-epstein.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-17-48-19 +0000"
-  },
-  {
-    "headline": "Maxwell, Epstein pleaded for Virginia Giuffre to ‘have our baby’ — prompting teen to hatch escape plan: memoir",
-    "link": "https://nypost.com/2025/10/18/us-news/maxwell-epstein-pleaded-for-virginia-giuffre-to-have-our-baby-she-wrote-in-memoir/",
-    "source": "nypost",
-    "pubdate": "2025-10-18-17-45-23 +0000"
+    "pubdate": "2025-10-18-17-48-20 +0000"
   },
   {
     "headline": "Paramount Skydance to cut 2,000 jobs starting final week of October: report",
@@ -945,7 +969,7 @@
     "headline": "The Shutdown Is Stretching On. Trump Doesn’t Seem to Mind.",
     "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-12-44-58 +0000"
+    "pubdate": "2025-10-18-12-44-59 +0000"
   },
   {
     "headline": "Disappointment in Kyiv as Zelensky leaves White House empty-handed",
@@ -1110,12 +1134,6 @@
     "pubdate": "2025-10-18-10-00-07 +0000"
   },
   {
-    "headline": "The little-known groundwater Los Angeles pumps in the Owens Valley, and the tribes who want it back",
-    "link": "https://www.latimes.com/environment/story/2025-10-18/owens-valley-tribes-water",
-    "source": "latimes",
-    "pubdate": "2025-10-18-10-00-00 +0000"
-  },
-  {
     "headline": "Federal troops in San Francisco? Locals, leaders scoff at Trump's plan",
     "link": "https://www.latimes.com/politics/story/2025-10-18/trump-federal-troops-san-francisco",
     "source": "latimes",
@@ -1130,6 +1148,12 @@
   {
     "headline": "Chabria: Is Pelosi getting 'Bidened'? High drama in the scramble for her congressional seat",
     "link": "https://www.latimes.com/california/story/2025-10-18/chabria-column-scott-wiener-nancy-pelosi-congress",
+    "source": "latimes",
+    "pubdate": "2025-10-18-10-00-00 +0000"
+  },
+  {
+    "headline": "The little-known groundwater Los Angeles pumps in the Owens Valley, and the tribes who want it back",
+    "link": "https://www.latimes.com/environment/story/2025-10-18/owens-valley-tribes-water",
     "source": "latimes",
     "pubdate": "2025-10-18-10-00-00 +0000"
   },
@@ -1185,13 +1209,13 @@
     "headline": "The Indonesian Free-Food Program That Has Sickened Thousands",
     "link": "https://www.nytimes.com/2025/10/18/world/asia/indonesia-school-lunch-program-poisoning.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-09-19-41 +0000"
+    "pubdate": "2025-10-18-09-19-42 +0000"
   },
   {
     "headline": "The Indonesian Free-Food Program That Has Sickened Thousands",
     "link": "https://www.nytimes.com/2025/10/18/world/asia/indonesia-school-lunch-program-poisoning.html",
     "source": "nyt",
-    "pubdate": "2025-10-18-09-19-41 +0000"
+    "pubdate": "2025-10-18-09-19-42 +0000"
   },
   {
     "headline": "Police Break Up Lego Theft Ring, Recovering Hundreds of Beheaded Figurines",
@@ -1713,7 +1737,7 @@
     "headline": "Food Stamp Benefits May Run Out in November, Officials Warn",
     "link": "https://www.nytimes.com/2025/10/17/us/politics/food-stamps-agriculture-department.html",
     "source": "nyt",
-    "pubdate": "2025-10-17-23-45-10 +0000"
+    "pubdate": "2025-10-17-23-45-11 +0000"
   },
   {
     "headline": "'We have to prioritise South Africans': Anti-migrant movement blocks foreigners from healthcare",
@@ -1947,13 +1971,13 @@
     "headline": "Tomiichi Murayama, Japanese Leader Who Gave Landmark War Apology, Dies at 101",
     "link": "https://www.nytimes.com/2025/10/17/world/asia/tomiichi-murayama-dead.html",
     "source": "nyt",
-    "pubdate": "2025-10-17-22-04-22 +0000"
+    "pubdate": "2025-10-17-22-04-23 +0000"
   },
   {
     "headline": "Tomiichi Murayama, Japanese Leader Who Gave Landmark War Apology, Dies at 101",
     "link": "https://www.nytimes.com/2025/10/17/world/asia/tomiichi-murayama-dead.html",
     "source": "nyt",
-    "pubdate": "2025-10-17-22-04-22 +0000"
+    "pubdate": "2025-10-17-22-04-23 +0000"
   },
   {
     "headline": "California labor leader charged over blocking ICE agents sees felony cut to misdemeanor",
@@ -1996,12 +2020,6 @@
     "link": "https://www.bbc.com/news/articles/clykvq2955qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-17-21-45-04 +0000"
-  },
-  {
-    "headline": "Virginia Giuffre’s memoir details abuse by ‘profusely’ sweating Prince Andrew — including creepy feet kissing: excerpt",
-    "link": "https://nypost.com/2025/10/17/world-news/virginia-giuffres-memoir-details-abuse-at-hands-of-prince-andrew/",
-    "source": "nypost",
-    "pubdate": "2025-10-17-21-38-39 +0000"
   },
   {
     "headline": "Opinion | The U.N. Blinks on Its Carbon Tax",
@@ -3186,6 +3204,12 @@
     "pubdate": "2025-10-17-10-00-47 +0000"
   },
   {
+    "headline": "Citing fire risk, Malibu wants to arrest homeless people who refuse to stop camping illegally",
+    "link": "https://www.latimes.com/california/story/2025-10-17/malibu-arrest-camping",
+    "source": "latimes",
+    "pubdate": "2025-10-17-10-00-00 +0000"
+  },
+  {
     "headline": "Arellano: Trump has turned the White House into a government of 'snowflakes'",
     "link": "https://www.latimes.com/california/story/2025-10-17/republicans-snowflakes",
     "source": "latimes",
@@ -3200,12 +3224,6 @@
   {
     "headline": "New details emerge in murder of L.A. model found stuffed inside her own refrigerator",
     "link": "https://www.latimes.com/california/story/2025-10-17/los-angeles-model-murder-preliminary-body-in-refrigerator",
-    "source": "latimes",
-    "pubdate": "2025-10-17-10-00-00 +0000"
-  },
-  {
-    "headline": "Citing fire risk, Malibu wants to arrest homeless people who refuse to stop camping illegally",
-    "link": "https://www.latimes.com/california/story/2025-10-17/malibu-arrest-camping",
     "source": "latimes",
     "pubdate": "2025-10-17-10-00-00 +0000"
   },
@@ -3538,12 +3556,6 @@
     "link": "https://www.wsj.com/us-news/zohran-mamdani-new-york-city-wealthy-230722ac",
     "source": "wsj",
     "pubdate": "2025-10-17-03-11-00 +0000"
-  },
-  {
-    "headline": "Trump refiles $15B suit against New York Times after judge’s rebuke",
-    "link": "https://www.washingtonpost.com/business/2025/10/16/trump-new-york-times-lawsuit/",
-    "source": "wapo",
-    "pubdate": "2025-10-17-03-10-44 +0000"
   },
   {
     "headline": "Death penalty sought for Bangladesh's ex-leader Sheikh Hasina",
@@ -4662,14 +4674,38 @@
     "pubdate": "2025-10-16-10-12-08 +0000"
   },
   {
+    "headline": "A popular charter faces closure to make more room for an LAUSD school",
+    "link": "https://www.latimes.com/california/story/2025-10-16/charter-school-shut-down-by-la-school-board-to-make-room-for-a-district-campus",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "A major earthquake hasn't struck California's big cities in 3 decades. On Thursday, we will get a glimpse of one",
+    "link": "https://www.latimes.com/california/story/2025-10-16/what-do-you-do-when-an-earthquake-strikes-shakeout-drill-gives-pivotal-tips",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
     "headline": "Housing Tracker: Southern California home values drop in August",
     "link": "https://www.latimes.com/california/story/2025-10-16/housing-tracker-southern-california-home-values-dip-in-august",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "A popular charter faces closure to make more room for an LAUSD school",
-    "link": "https://www.latimes.com/california/story/2025-10-16/charter-school-shut-down-by-la-school-board-to-make-room-for-a-district-campus",
+    "headline": "Newsom signs veteran-backed bill to accelerate study of psychedelics for PTSD, mental health",
+    "link": "https://www.latimes.com/california/story/2025-10-16/newsom-signs-veteran-backed-bill-to-accelerate-study-of-psychedelics-for-ptsd-mental-health",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "New fraud claims in L.A. County's $4-billion sex settlement leave victims outraged",
+    "link": "https://www.latimes.com/california/story/2025-10-16/sex-abuse-fraud-claims-la-county-victims",
+    "source": "latimes",
+    "pubdate": "2025-10-16-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump keeps name-checking the Insurrection Act. It could give him extraordinary powers",
+    "link": "https://www.latimes.com/california/story/2025-10-16/trump-insurrection-act",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -4688,30 +4724,6 @@
   {
     "headline": "Echoing the raids in L.A., parts of Chicago are untouched by ICE, others under siege",
     "link": "https://www.latimes.com/world-nation/story/2025-10-16/a-day-in-chicago-during-the-amped-up-ice-era",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "New fraud claims in L.A. County's $4-billion sex settlement leave victims outraged",
-    "link": "https://www.latimes.com/california/story/2025-10-16/sex-abuse-fraud-claims-la-county-victims",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump keeps name-checking the Insurrection Act. It could give him extraordinary powers",
-    "link": "https://www.latimes.com/california/story/2025-10-16/trump-insurrection-act",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "A major earthquake hasn't struck California's big cities in 3 decades. On Thursday, we will get a glimpse of one",
-    "link": "https://www.latimes.com/california/story/2025-10-16/what-do-you-do-when-an-earthquake-strikes-shakeout-drill-gives-pivotal-tips",
-    "source": "latimes",
-    "pubdate": "2025-10-16-10-00-00 +0000"
-  },
-  {
-    "headline": "Newsom signs veteran-backed bill to accelerate study of psychedelics for PTSD, mental health",
-    "link": "https://www.latimes.com/california/story/2025-10-16/newsom-signs-veteran-backed-bill-to-accelerate-study-of-psychedelics-for-ptsd-mental-health",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -4746,14 +4758,14 @@
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "Trump keeps name-checking the Insurrection Act. It could give him extraordinary powers",
-    "link": "https://www.latimes.com/california/story/2025-10-16/trump-insurrection-act",
+    "headline": "Echoing the raids in L.A., parts of Chicago are untouched by ICE, others under siege",
+    "link": "https://www.latimes.com/world-nation/story/2025-10-16/a-day-in-chicago-during-the-amped-up-ice-era",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
   {
-    "headline": "Echoing the raids in L.A., parts of Chicago are untouched by ICE, others under siege",
-    "link": "https://www.latimes.com/world-nation/story/2025-10-16/a-day-in-chicago-during-the-amped-up-ice-era",
+    "headline": "Trump keeps name-checking the Insurrection Act. It could give him extraordinary powers",
+    "link": "https://www.latimes.com/california/story/2025-10-16/trump-insurrection-act",
     "source": "latimes",
     "pubdate": "2025-10-16-10-00-00 +0000"
   },
@@ -5020,12 +5032,6 @@
     "link": "https://www.wsj.com/world/middle-east/israel-and-hamas-start-next-phase-of-talks-on-trump-plan-3c4ecd36",
     "source": "wsj",
     "pubdate": "2025-10-16-00-36-00 +0000"
-  },
-  {
-    "headline": "The Disrupter in Chief Gets Transformational Results at Home and Abroad",
-    "link": "https://www.wsj.com/politics/trump-the-disrupter-in-chief-479da627",
-    "source": "wsj",
-    "pubdate": "2025-10-16-00-00-00 +0000"
   },
   {
     "headline": "Drama Masks: A gloriously naughty ‘Rocky Horror,’ just when we need it",
@@ -5604,26 +5610,20 @@
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "Federal shutdown stalls legal battles between California, Trump administration",
-    "link": "https://www.latimes.com/california/story/2025-10-15/federal-shutdown-stalls-legal-battles-between-california-trump-administration",
-    "source": "latimes",
-    "pubdate": "2025-10-15-10-00-00 +0000"
-  },
-  {
     "headline": "Newsom denies parole for Manson follower convicted of 7 counts of murder",
     "link": "https://www.latimes.com/california/story/2025-10-15/newsom-denies-parole-for-manson-follower-patricia-krenwinkel",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "Dangerous 'supershear' earthquakes pose risk to California, new research suggests",
-    "link": "https://www.latimes.com/california/story/2025-10-15/supershear-earthquakes-are-more-common-than-once-believed-whats-the-threat-to-california",
+    "headline": "Federal shutdown stalls legal battles between California, Trump administration",
+    "link": "https://www.latimes.com/california/story/2025-10-15/federal-shutdown-stalls-legal-battles-between-california-trump-administration",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "$2-billion mega-development in Skid Row clears major hurdle with L.A. officials",
-    "link": "https://www.latimes.com/business/story/2025-10-15/2-billion-downtown-la-project-approved",
+    "headline": "Dangerous 'supershear' earthquakes pose risk to California, new research suggests",
+    "link": "https://www.latimes.com/california/story/2025-10-15/supershear-earthquakes-are-more-common-than-once-believed-whats-the-threat-to-california",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
@@ -5640,20 +5640,26 @@
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
+    "headline": "$2-billion mega-development in Skid Row clears major hurdle with L.A. officials",
+    "link": "https://www.latimes.com/business/story/2025-10-15/2-billion-downtown-la-project-approved",
+    "source": "latimes",
+    "pubdate": "2025-10-15-10-00-00 +0000"
+  },
+  {
     "headline": "L.A.'s KFI cancels its evening talk show as AM radio woes mount",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-15/iheart-radio-layoffs-mo-kelly-radio-show-ends",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: In shutdown fight, this Nevada Democrat stands (almost) alone. And she's fine with that",
-    "link": "https://www.latimes.com/politics/story/2025-10-15/government-shutdown-democratic-dissenter-cathleen-cortez-masto-nevada-senator",
+    "headline": "Arellano: One of O.C.'s loudest pro-immigrant politicians is one of the unlikeliest",
+    "link": "https://www.latimes.com/california/story/2025-10-15/arianna-barrios-orange-city-council-immigration",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: One of O.C.'s loudest pro-immigrant politicians is one of the unlikeliest",
-    "link": "https://www.latimes.com/california/story/2025-10-15/arianna-barrios-orange-city-council-immigration",
+    "headline": "Barabak: In shutdown fight, this Nevada Democrat stands (almost) alone. And she's fine with that",
+    "link": "https://www.latimes.com/politics/story/2025-10-15/government-shutdown-democratic-dissenter-cathleen-cortez-masto-nevada-senator",
     "source": "latimes",
     "pubdate": "2025-10-15-10-00-00 +0000"
   },
@@ -6240,12 +6246,6 @@
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
   {
-    "headline": "California ballot design prompts false conspiracy theories that the November election is rigged",
-    "link": "https://www.latimes.com/california/story/2025-10-14/california-ballot-design-unfounded-viral-conspiracy-theories-november-election-rigged",
-    "source": "latimes",
-    "pubdate": "2025-10-14-10-00-00 +0000"
-  },
-  {
     "headline": "Drake, DiCaprio, the Clippers backed this 'green' L.A. firm. It crumbled amid fraud claims",
     "link": "https://www.latimes.com/california/story/2025-10-14/company-involved-in-kawhi-leonard-salary-cap-investigation-had-troubled-dealings",
     "source": "latimes",
@@ -6264,6 +6264,12 @@
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
   {
+    "headline": "California ballot design prompts false conspiracy theories that the November election is rigged",
+    "link": "https://www.latimes.com/california/story/2025-10-14/california-ballot-design-unfounded-viral-conspiracy-theories-november-election-rigged",
+    "source": "latimes",
+    "pubdate": "2025-10-14-10-00-00 +0000"
+  },
+  {
     "headline": "As atmospheric river storm eases, evacuation warnings lifted in L.A.-area burn scars",
     "link": "https://www.latimes.com/california/story/2025-10-14/atmospheric-river-storm-hits-southern-california-how-bad-will-it-get",
     "source": "latimes",
@@ -6276,14 +6282,14 @@
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: RFK Jr., Tylenol and circumcision--the lowdown",
-    "link": "https://www.latimes.com/business/story/2025-10-14/rfk-jr-tylenol-and-circumcision-the-lowdown",
+    "headline": "California cracks down on water theft but spares data centers from disclosing how much they use",
+    "link": "https://www.latimes.com/environment/story/2025-10-14/newsom-ai-data-center-water",
     "source": "latimes",
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
   {
-    "headline": "California cracks down on water theft but spares data centers from disclosing how much they use",
-    "link": "https://www.latimes.com/environment/story/2025-10-14/newsom-ai-data-center-water",
+    "headline": "Hiltzik: RFK Jr., Tylenol and circumcision--the lowdown",
+    "link": "https://www.latimes.com/business/story/2025-10-14/rfk-jr-tylenol-and-circumcision-the-lowdown",
     "source": "latimes",
     "pubdate": "2025-10-14-10-00-00 +0000"
   },
@@ -6444,12 +6450,6 @@
     "pubdate": "2025-10-13-21-32-01 +0000"
   },
   {
-    "headline": "Palmdale mother charged with murder in toddler's fentanyl overdose death",
-    "link": "https://www.latimes.com/california/story/2025-10-13/palmdale-mother-murder-charge-toddler-overdose",
-    "source": "latimes",
-    "pubdate": "2025-10-13-21-23-41 +0000"
-  },
-  {
     "headline": "News Analysis: For Trump, celebration and a victory lap in the Middle East",
     "link": "https://www.latimes.com/politics/story/2025-10-13/trump-celebration-victory-lap-in-the-middle-east-gaza-israel",
     "source": "latimes",
@@ -6534,14 +6534,14 @@
     "pubdate": "2025-10-13-10-21-29 +0000"
   },
   {
-    "headline": "Insurance commissioner proposes controversial changes to landmark insurance law",
-    "link": "https://www.latimes.com/business/story/2025-10-13/insurance-commissioner-proposes-controversial-changes-to-landmark-insurance-law",
+    "headline": "How grand plans to restart oil drilling off Santa Barbara's coast hit California's green wall",
+    "link": "https://www.latimes.com/california/story/2025-10-13/legal-troubles-mount-california-offshore-oil",
     "source": "latimes",
     "pubdate": "2025-10-13-10-00-00 +0000"
   },
   {
-    "headline": "How grand plans to restart oil drilling off Santa Barbara's coast hit California's green wall",
-    "link": "https://www.latimes.com/california/story/2025-10-13/legal-troubles-mount-california-offshore-oil",
+    "headline": "Insurance commissioner proposes controversial changes to landmark insurance law",
+    "link": "https://www.latimes.com/business/story/2025-10-13/insurance-commissioner-proposes-controversial-changes-to-landmark-insurance-law",
     "source": "latimes",
     "pubdate": "2025-10-13-10-00-00 +0000"
   },
