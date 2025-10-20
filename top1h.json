@@ -1,16 +1,51 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-10-20-03-56-00 +0000",
-    "source": "wsj",
-    "headline": "China said economic momentum decelerated to its slowest pace in a year, putting Beijing on alert in the midst of hardball trade negotiations with the U.S.",
-    "link": "https://www.wsj.com/economy/chinas-economic-growth-slows-to-one-year-low-07e36e7b"
+    "score": 24,
+    "pubdate": "2025-10-20-05-21-50 +0000",
+    "source": "nyt",
+    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
+    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
   },
   {
-    "score": 2,
-    "pubdate": "2025-10-20-03-56-00 +0000",
+    "score": 13,
+    "pubdate": "2025-10-20-05-33-06 +0000",
+    "source": "nypost",
+    "headline": "Twitch faces backlash after popular streamer Emiru allegedly assaulted by fan on video at TwitchCon meet and greet",
+    "link": "https://nypost.com/2025/10/20/us-news/twitch-faces-backlash-after-popular-streamer-emiru-allegedly-assaulted-by-fan-on-video-at-twitchcon-meet-and-greet/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-20-05-32-00 +0000",
     "source": "wsj",
-    "headline": "China’s Economy Expands at Slowest Pace in a Year",
-    "link": "https://www.wsj.com/economy/chinas-economic-growth-slows-to-one-year-low-07e36e7b"
+    "headline": "Holcim Plans to Acquire Xella for $2.16 Billion",
+    "link": "https://www.wsj.com/business/deals/holcim-plans-to-acquire-xella-for-2-16-billion-bf9d4eb9?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-20-05-14-31 +0000",
+    "source": "wapo",
+    "headline": "China’s economy grows at slowest pace in a year as trade war bites",
+    "link": "https://www.washingtonpost.com/world/2025/10/20/china-economy-gdp-growth/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-20-05-02-57 +0000",
+    "source": "wapo",
+    "headline": "Shell detonated over California highway during Marine exercise, officials say",
+    "link": "https://www.washingtonpost.com/nation/2025/10/20/marine-exercise-trump-newsom-shell-interstate/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-20-05-32-00 +0000",
+    "source": "wsj",
+    "headline": "Holcim Plans to Acquire Xella for $2.16 Billion",
+    "link": "https://www.wsj.com/business/deals/holcim-plans-to-acquire-xella-for-2-16-billion-bf9d4eb9?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-20-05-21-50 +0000",
+    "source": "nyt",
+    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
+    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
   }
 ]
