@@ -1,13 +1,13 @@
 [
   {
-    "score": 135,
+    "score": 133,
     "pubdate": "2025-10-20-22-46-37 +0000",
     "source": "nyt",
     "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
   },
   {
-    "score": 81,
+    "score": 79,
     "pubdate": "2025-10-21-00-04-11 +0000",
     "source": "nyt",
     "headline": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu",
@@ -28,14 +28,21 @@
     "link": "https://nypost.com/2025/10/20/world-news/louvre-robbery-authorities-admit-they-failed-after-paris-gallery-theft/"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2025-10-20-05-21-50 +0000",
     "source": "nyt",
     "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
     "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
   },
   {
-    "score": 48,
+    "score": 47,
+    "pubdate": "2025-10-20-10-41-23 +0000",
+    "source": "nyt",
+    "headline": "Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew",
+    "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-10-20-12-48-54 +0000",
     "source": "bbc",
     "headline": "Deadly Gaza flare-up tests Israel-Hamas ceasefire",
@@ -49,13 +56,6 @@
     "link": "https://www.bbc.com/news/articles/c5y9x1w2ee1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 47,
-    "pubdate": "2025-10-20-10-41-23 +0000",
-    "source": "nyt",
-    "headline": "Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html"
-  },
-  {
     "score": 41,
     "pubdate": "2025-10-20-21-18-51 +0000",
     "source": "bbc",
@@ -64,9 +64,9 @@
   },
   {
     "score": 36,
-    "pubdate": "2025-10-21-01-28-12 +0000",
+    "pubdate": "2025-10-20-21-06-29 +0000",
     "source": "nyt",
-    "headline": "Trump Hopes Argentina Can Help Bring Down Beef Prices",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-argentina-beef.html"
+    "headline": "Senior German General Says Europe Must Do All It Can to Help Ukraine",
+    "link": "https://www.nytimes.com/2025/10/20/world/europe/ukraine-russia-war-europe.html"
   }
 ]
