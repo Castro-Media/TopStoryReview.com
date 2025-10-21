@@ -1,59 +1,66 @@
 [
   {
-    "score": 169,
+    "score": 170,
     "pubdate": "2025-10-20-22-36-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s $100,000 H-1B visa fee will only apply to new visa applicants outside the country, the government confirmed in new guidance on Monday",
     "link": "https://www.wsj.com/politics/policy/u-s-narrows-who-pays-100-000-h-1b-visa-fee-c019f09f"
   },
   {
-    "score": 119,
-    "pubdate": "2025-10-21-11-50-06 +0000",
+    "score": 137,
+    "pubdate": "2025-10-21-14-19-48 +0000",
     "source": "nyt",
     "headline": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
     "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
   },
   {
-    "score": 84,
+    "score": 80,
     "pubdate": "2025-10-20-22-46-37 +0000",
     "source": "nyt",
     "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
   },
   {
-    "score": 78,
+    "score": 71,
     "pubdate": "2025-10-21-11-17-00 +0000",
     "source": "wsj",
     "headline": "The Treasury Department instructed employees not to share photos of the demolition of parts of the White House’s East Wing after images of construction equipment dismantling the facade of the building went viral online",
     "link": "https://www.wsj.com/politics/policy/treasury-tells-employees-not-to-share-photos-of-white-house-ballroom-construction-1d4f2c49"
   },
   {
-    "score": 67,
-    "pubdate": "2025-10-20-23-05-53 +0000",
-    "source": "nypost",
-    "headline": "Trump can deploy National Guard to Portland, Oregon, 9th Circuit court rules in major legal victory",
-    "link": "https://nypost.com/2025/10/20/us-news/9th-circuit-court-rules-trump-can-deploy-national-guard-to-portland/"
-  },
-  {
-    "score": 63,
+    "score": 71,
     "pubdate": "2025-10-21-04-53-16 +0000",
     "source": "wapo",
     "headline": "Japan elects first female leader, a hawk who promotes ‘Japan First’",
     "link": "https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-10-20-15-10-02 +0000",
+    "score": 66,
+    "pubdate": "2025-10-20-23-05-53 +0000",
     "source": "nypost",
-    "headline": "French authorities admit they ‘failed’ in Louvre robbery, stymied cops have no leads",
-    "link": "https://nypost.com/2025/10/20/world-news/louvre-robbery-authorities-admit-they-failed-after-paris-gallery-theft/"
+    "headline": "Trump can deploy National Guard to Portland, Oregon, 9th Circuit court rules in major legal victory",
+    "link": "https://nypost.com/2025/10/20/us-news/9th-circuit-court-rules-trump-can-deploy-national-guard-to-portland/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-10-21-13-25-26 +0000",
+    "source": "nypost",
+    "headline": "Former French President Sarkozy begins 5-year sentence, brings sweaters because prison is cold: lawyer",
+    "link": "https://nypost.com/2025/10/21/world-news/former-french-president-sarkozy-begins-5-year-sentence-for-campaign-finance-conspiracy/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-10-21-13-32-06 +0000",
+    "source": "nyt",
+    "headline": "Suspect Charged in Paris Museum Heist (No, Not That One)",
+    "link": "https://www.nytimes.com/2025/10/21/world/europe/france-museum-theft-gold-nugget-arrest.html"
   },
   {
     "score": 47,
-    "pubdate": "2025-10-21-12-56-15 +0000",
-    "source": "nyt",
-    "headline": "France Sends Former President Nicolas Sarkozy to Prison to Start 5-Year Sentence",
-    "link": "https://www.nytimes.com/2025/10/21/world/europe/sarkozy-france-president-jail.html"
+    "pubdate": "2025-10-20-23-00-00 +0000",
+    "source": "wsj",
+    "headline": "Business and political leaders have intensified pressure on Curtis Sliwa to drop out of New York’s mayoral race, seeking to avert a win by current front-runner Zohran Mamdani",
+    "link": "https://www.wsj.com/politics/elections/nyc-mayoral-election-curtis-sliwa-drop-out-pressure-d354355e"
   },
   {
     "score": 42,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Senior German General Says Europe Must Do All It Can to Help Ukraine",
     "link": "https://www.nytimes.com/2025/10/20/world/europe/ukraine-russia-war-europe.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-10-21-04-55-46 +0000",
-    "source": "nypost",
-    "headline": "Student loan debt will be forgiven for millions of borrowers under new Trump admin agreement– here’s how to know if you’re one of them",
-    "link": "https://nypost.com/2025/10/21/us-news/student-loan-debt-will-be-forgiven-for-millions-of-borrowers-under-new-trump-admin-agreement-heres-how-to-know-if-youre-one-of-them/"
   }
 ]
