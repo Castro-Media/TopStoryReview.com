@@ -1,45 +1,38 @@
 [
   {
-    "score": 136,
+    "score": 138,
     "pubdate": "2025-10-20-22-46-37 +0000",
     "source": "nyt",
     "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
   },
   {
-    "score": 84,
-    "pubdate": "2025-10-20-22-27-28 +0000",
+    "score": 83,
+    "pubdate": "2025-10-21-00-04-11 +0000",
     "source": "nyt",
-    "headline": "White House Scrambles to Preserve Gaza Deal Amid Concerns About Netanyahu",
+    "headline": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-gaza-israel-netanyahu.html"
   },
   {
-    "score": 57,
-    "pubdate": "2025-10-20-09-07-26 +0000",
-    "source": "bbc",
-    "headline": "Two dead after cargo plane skids off Hong Kong runway into sea",
-    "link": "https://www.bbc.com/news/articles/c5y0eeqz732o?at_medium=RSS&at_campaign=rss"
+    "score": 73,
+    "pubdate": "2025-10-20-23-05-53 +0000",
+    "source": "nypost",
+    "headline": "Trump can deploy National Guard to Portland, Oregon, 9th Circuit court rules in major legal victory",
+    "link": "https://nypost.com/2025/10/20/us-news/9th-circuit-court-rules-trump-can-deploy-national-guard-to-portland/"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-20-05-21-50 +0000",
-    "source": "nyt",
-    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
-  },
-  {
-    "score": 56,
+    "score": 54,
     "pubdate": "2025-10-20-15-10-02 +0000",
     "source": "nypost",
     "headline": "French authorities admit they ‘failed’ in Louvre robbery, stymied cops have no leads",
     "link": "https://nypost.com/2025/10/20/world-news/louvre-robbery-authorities-admit-they-failed-after-paris-gallery-theft/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-20-23-45-15 +0000",
+    "score": 53,
+    "pubdate": "2025-10-20-05-21-50 +0000",
     "source": "nyt",
-    "headline": "Appeals Court Ruling Allows Trump to Deploy National Guard Troops to Portland",
-    "link": "https://www.nytimes.com/2025/10/20/us/appeals-court-national-guard-troops-portland-trump.html"
+    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
+    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
   },
   {
     "score": 52,
@@ -49,14 +42,21 @@
     "link": "https://www.bbc.com/news/articles/czxk8k4xlv1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2025-10-20-21-15-39 +0000",
     "source": "bbc",
     "headline": "These confederate statues caused US protests. Knocked down, they're the centre of a new art show",
     "link": "https://www.bbc.com/news/articles/c5y9x1w2ee1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
+    "score": 47,
+    "pubdate": "2025-10-20-10-41-23 +0000",
+    "source": "nyt",
+    "headline": "Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew",
+    "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-10-20-02-37-11 +0000",
     "source": "nypost",
     "headline": "Thousands of Orthodox Jews protest around Israeli Consulate in NYC to call for change in country’s military draft rules",
@@ -64,9 +64,9 @@
   },
   {
     "score": 38,
-    "pubdate": "2025-10-20-21-06-28 +0000",
-    "source": "nyt",
-    "headline": "Senior German General Says Europe Must Do All It Can to Help Ukraine",
-    "link": "https://www.nytimes.com/2025/10/20/world/europe/ukraine-russia-war-europe.html"
+    "pubdate": "2025-10-20-13-54-07 +0000",
+    "source": "bbc",
+    "headline": "Nigerian police fire tear gas as protesters gather over separatist leader",
+    "link": "https://www.bbc.com/news/articles/c867342lde9o?at_medium=RSS&at_campaign=rss"
   }
 ]
