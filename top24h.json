@@ -1,20 +1,20 @@
 [
   {
-    "score": 262,
+    "score": 257,
     "pubdate": "2025-10-21-20-51-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is planning to release more than $3 billion in aid to U.S. farmers that had been frozen as a result of the government shutdown, as the agriculture sector grapples with the fallout from President Trump’s tariffs.",
     "link": "https://www.wsj.com/politics/policy/trump-administration-to-release-farm-aid-frozen-by-shutdown-e338d9ce"
   },
   {
-    "score": 134,
+    "score": 126,
     "pubdate": "2025-10-21-19-53-54 +0000",
     "source": "nyt",
     "headline": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
     "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
   },
   {
-    "score": 99,
+    "score": 97,
     "pubdate": "2025-10-21-17-27-00 +0000",
     "source": "wsj",
     "headline": "Key Senate Republicans are calling for the withdrawal of President Trump’s nominee to lead a White House ethics-watchdog office following a report that he made racist and antisemitic comments",
@@ -50,13 +50,6 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-10-21-10-05-40 +0000",
-    "source": "wapo",
-    "headline": "Israel IDs more hostages’ bodies as Hamas says return of others will be hard",
-    "link": "https://www.washingtonpost.com/world/2025/10/14/hamas-gaza-israel-hostages-killed/"
-  },
-  {
-    "score": 58,
     "pubdate": "2025-10-21-19-05-13 +0000",
     "source": "nypost",
     "headline": "Trump agencies ‘working to undo’ past abuses under Biden — including calling Post’s Hunter Biden scoop Russian hoax",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Former French President Sarkozy begins 5-year sentence, brings sweaters because prison is cold: lawyer",
     "link": "https://nypost.com/2025/10/21/world-news/former-french-president-sarkozy-begins-5-year-sentence-for-campaign-finance-conspiracy/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-10-21-10-05-40 +0000",
+    "source": "wapo",
+    "headline": "Israel IDs more hostages’ bodies as Hamas says return of others will be hard",
+    "link": "https://www.washingtonpost.com/world/2025/10/14/hamas-gaza-israel-hostages-killed/"
   }
 ]
