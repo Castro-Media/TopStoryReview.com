@@ -1,17 +1,24 @@
 [
   {
-    "score": 144,
+    "score": 146,
+    "pubdate": "2025-10-20-20-06-32 +0000",
+    "source": "latimes",
+    "headline": "Trump again suggests sending troops to San Francisco. Local officials call Trump 'chaos' unnecessary",
+    "link": "https://www.latimes.com/california/story/2025-10-20/trump-again-says-he-wants-to-send-troops-to-san-francisco"
+  },
+  {
+    "score": 99,
+    "pubdate": "2025-10-21-08-53-12 +0000",
+    "source": "nyt",
+    "headline": "Vance Heads to Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
+    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
+  },
+  {
+    "score": 79,
     "pubdate": "2025-10-20-22-46-37 +0000",
     "source": "nyt",
     "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
-  },
-  {
-    "score": 99,
-    "pubdate": "2025-10-21-05-54-21 +0000",
-    "source": "nyt",
-    "headline": "Vance Heads to Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
-    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
   },
   {
     "score": 78,
@@ -42,28 +49,21 @@
     "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html"
   },
   {
-    "score": 43,
+    "score": 45,
     "pubdate": "2025-10-21-04-55-46 +0000",
     "source": "nypost",
     "headline": "Student loan debt will be forgiven for millions of borrowers under new Trump admin agreement– here’s how to know if you’re one of them",
     "link": "https://nypost.com/2025/10/21/us-news/student-loan-debt-will-be-forgiven-for-millions-of-borrowers-under-new-trump-admin-agreement-heres-how-to-know-if-youre-one-of-them/"
   },
   {
+    "score": 44,
+    "pubdate": "2025-10-21-04-53-16 +0000",
+    "source": "wapo",
+    "headline": "Japan elects first female leader, a hawk who promotes ‘Japan First’",
+    "link": "https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/"
+  },
+  {
     "score": 43,
-    "pubdate": "2025-10-21-05-47-11 +0000",
-    "source": "nypost",
-    "headline": "Lawyers for wealthy Texas housewife accused of plowing Porsche into man on first date argue her designer heels caused deadly crash",
-    "link": "https://nypost.com/2025/10/21/us-news/texas-housewife-kristina-chambers-accused-of-plowing-porsche-into-man-on-first-date-argue-her-designer-heels-caused-deadly-crash/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-10-21-03-30-02 +0000",
-    "source": "bbc",
-    "headline": "Amazon outage 'resolved' as Snapchat and banks among sites impacted",
-    "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 41,
     "pubdate": "2025-10-20-21-18-51 +0000",
     "source": "bbc",
     "headline": "Former NFL player Doug Martin dies in police custody in California",
