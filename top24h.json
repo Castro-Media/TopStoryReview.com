@@ -1,24 +1,17 @@
 [
   {
-    "score": 146,
+    "score": 138,
     "pubdate": "2025-10-20-20-06-32 +0000",
     "source": "latimes",
     "headline": "Trump again suggests sending troops to San Francisco. Local officials call Trump 'chaos' unnecessary",
     "link": "https://www.latimes.com/california/story/2025-10-20/trump-again-says-he-wants-to-send-troops-to-san-francisco"
   },
   {
-    "score": 99,
+    "score": 94,
     "pubdate": "2025-10-21-08-53-12 +0000",
     "source": "nyt",
     "headline": "Vance Heads to Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
     "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
-  },
-  {
-    "score": 79,
-    "pubdate": "2025-10-20-22-46-37 +0000",
-    "source": "nyt",
-    "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
   },
   {
     "score": 78,
@@ -28,6 +21,13 @@
     "link": "https://nypost.com/2025/10/20/us-news/demolition-begins-on-east-wing-of-white-house-for-trumps-new-250-million-ballroom/"
   },
   {
+    "score": 75,
+    "pubdate": "2025-10-20-22-46-37 +0000",
+    "source": "nyt",
+    "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
+  },
+  {
     "score": 72,
     "pubdate": "2025-10-20-23-05-53 +0000",
     "source": "nypost",
@@ -35,18 +35,11 @@
     "link": "https://nypost.com/2025/10/20/us-news/9th-circuit-court-rules-trump-can-deploy-national-guard-to-portland/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-20-15-10-02 +0000",
-    "source": "nypost",
-    "headline": "French authorities admit they ‘failed’ in Louvre robbery, stymied cops have no leads",
-    "link": "https://nypost.com/2025/10/20/world-news/louvre-robbery-authorities-admit-they-failed-after-paris-gallery-theft/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-10-20-10-41-23 +0000",
-    "source": "nyt",
-    "headline": "Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html"
+    "score": 52,
+    "pubdate": "2025-10-20-10-25-11 +0000",
+    "source": "bbc",
+    "headline": "'It's like a scene from a film' - Paris tourists surprised at Louvre jewel theft",
+    "link": "https://www.bbc.com/news/videos/cev1ez7y92ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 45,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Former NFL player Doug Martin dies in police custody in California",
     "link": "https://www.bbc.com/news/articles/c6297qm94z0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-10-21-03-30-02 +0000",
+    "source": "bbc",
+    "headline": "Amazon outage 'resolved' as Snapchat and banks among sites impacted",
+    "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss"
   }
 ]
