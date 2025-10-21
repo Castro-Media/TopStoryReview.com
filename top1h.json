@@ -1,9 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2025-10-21-16-54-28 +0000",
-    "source": "bbc",
-    "headline": "AWS outage: Is the world relying too much on US big tech?",
-    "link": "https://www.bbc.com/news/articles/c0jdgp6n45po?at_medium=RSS&at_campaign=rss"
+    "score": 34,
+    "pubdate": "2025-10-21-18-21-32 +0000",
+    "source": "nyt",
+    "headline": "Trump Will Not Meet With Putin Soon, Official Says in a Reversal",
+    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-putin-ukraine-meeting.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-10-21-18-54-38 +0000",
+    "source": "nyt",
+    "headline": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
+    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-10-21-18-02-33 +0000",
+    "source": "nypost",
+    "headline": "Karine Jean-Pierre details ‘campaign to push me out’ of White House — that the Post revealed",
+    "link": "https://nypost.com/2025/10/21/us-news/karine-jean-pierre-details-campaign-to-push-me-out-of-white-house-that-post-revealed/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-21-18-19-52 +0000",
+    "source": "nyt",
+    "headline": "How Trump Reprogrammed Funds to Pay Some Workers During the Government Shutdown",
+    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-shutdown-pay.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-21-18-06-31 +0000",
+    "source": "nyt",
+    "headline": "G.M. Raises Profit Forecast on Strong Demand and Lower Tariff Costs",
+    "link": "https://www.nytimes.com/2025/10/21/business/general-motors-earnings-tariffs-evs.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-21-18-39-13 +0000",
+    "source": "nyt",
+    "headline": "Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases",
+    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-justice-department-compensation.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-21-18-40-20 +0000",
+    "source": "nyt",
+    "headline": "North Carolina Senate Approves New Map in Effort to Add G.O.P. Congressional Seat",
+    "link": "https://www.nytimes.com/2025/10/21/us/north-carolina-congressional-map-republicans.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-21-18-22-13 +0000",
+    "source": "nypost",
+    "headline": "OpenAI cracks down on Sora 2 deepfakes after Bryan Cranston, actors’ union complain",
+    "link": "https://nypost.com/2025/10/21/business/openai-cracks-down-on-sora-2-deepfakes-after-complaints-by-bryan-cranston-actors-union/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-21-18-37-56 +0000",
+    "source": "latimes",
+    "headline": "A 2-year-old died in last month's flooding. Now Barstow police have arrested the father on a murder charge",
+    "link": "https://www.latimes.com/california/story/2025-10-21/a-2-year-old-died-in-last-months-flooding-now-barstow-police-have-arrested-the-father-on-a-murder-charge"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-21-18-39-57 +0000",
+    "source": "nyt",
+    "headline": "2025 General Election Guide for This November",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/elections-california-new-jersey-nyc.html"
   }
 ]
