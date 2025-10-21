@@ -1,72 +1,51 @@
 [
   {
-    "score": 23,
-    "pubdate": "2025-10-21-05-21-53 +0000",
+    "score": 10,
+    "pubdate": "2025-10-21-06-47-05 +0000",
+    "source": "bbc",
+    "headline": "Highest government borrowing in  September for five years",
+    "link": "https://www.bbc.com/news/articles/c8035130918o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-21-06-21-33 +0000",
+    "source": "bbc",
+    "headline": "Toxic haze in Delhi despite 'green' Diwali",
+    "link": "https://www.bbc.com/news/articles/cy8vxl0k15ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-21-06-02-08 +0000",
     "source": "nyt",
-    "headline": "Sanae Takaichi is Japan’s New Prime Minister, and She’s a Heavy Metal Drummer",
-    "link": "https://www.nytimes.com/2025/10/21/world/asia/sanae-takaichi-japan-prime-minister.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2025-10-21-05-09-50 +0000",
-    "source": "nypost",
-    "headline": "Joe Biden completes radiation treatment for aggressive prostate cancer: ‘Rung the bell!’",
-    "link": "https://nypost.com/2025/10/21/us-news/joe-biden-completes-radiation-treatment-for-aggressive-prostate-cancer/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-10-21-04-55-46 +0000",
-    "source": "nypost",
-    "headline": "Student loan debt will be forgiven for millions of borrowers under new Trump admin agreement– here’s how to know if you’re one of them",
-    "link": "https://nypost.com/2025/10/21/us-news/student-loan-debt-will-be-forgiven-for-millions-of-borrowers-under-new-trump-admin-agreement-heres-how-to-know-if-youre-one-of-them/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-10-21-05-47-11 +0000",
-    "source": "nypost",
-    "headline": "Lawyers for wealthy Texas housewife accused of plowing Porsche into man on first date argue her designer heels caused deadly crash",
-    "link": "https://nypost.com/2025/10/21/us-news/texas-housewife-kristina-chambers-accused-of-plowing-porsche-into-man-on-first-date-argue-her-designer-heels-caused-deadly-crash/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-10-21-05-13-28 +0000",
-    "source": "nyt",
-    "headline": "With Diwali Comes the Start of Air Pollution Season in New Delhi",
-    "link": "https://www.nytimes.com/2025/10/21/world/asia/india-diwali-air-pollution.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-10-21-05-04-19 +0000",
-    "source": "nyt",
-    "headline": "Republican Representative Says Democrats ‘Hate the Military,’ Echoing Trump’s Attacks",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/scott-perry-democrats-military-trump.html"
+    "headline": "Deadly Tornado Hits Suburbs of Paris",
+    "link": "https://www.nytimes.com/2025/10/21/world/europe/tornado-paris-france.html"
   },
   {
     "score": 8,
-    "pubdate": "2025-10-21-05-35-55 +0000",
-    "source": "startribune",
-    "headline": "Suspect arrested in firebomb attack on Minneapolis ice cream shop",
-    "link": "https://www.startribune.com/firebomb/601497716"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-21-05-18-36 +0000",
+    "pubdate": "2025-10-21-06-24-21 +0000",
     "source": "bbc",
-    "headline": "Minimum wage rise needed 'as prices getting high'",
-    "link": "https://www.bbc.com/news/articles/c4gzp0ypd60o?at_medium=RSS&at_campaign=rss"
+    "headline": "Two grooming gang survivors quit national inquiry panel",
+    "link": "https://www.bbc.com/news/articles/cy5qkq7zex3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2025-10-21-05-33-41 +0000",
-    "source": "startribune",
-    "headline": "Federal cuts have emptied Minnesota food shelves. Officials say things could get worse.",
-    "link": "https://www.startribune.com/food-shelf-snap-minnesota-tefap-pantry-federal-cuts/601488519"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-10-21-05-10-29 +0000",
+    "score": 0,
+    "pubdate": "2025-10-21-06-47-05 +0000",
     "source": "bbc",
-    "headline": "Cooking classes to follow free air fryer giveaway",
-    "link": "https://www.bbc.com/news/articles/cy7ege5m8nzo?at_medium=RSS&at_campaign=rss"
+    "headline": "Highest government borrowing in  September for five years",
+    "link": "https://www.bbc.com/news/articles/c8035130918o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-21-06-21-33 +0000",
+    "source": "bbc",
+    "headline": "Toxic haze in Delhi despite 'green' Diwali",
+    "link": "https://www.bbc.com/news/articles/cy8vxl0k15ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-21-06-02-08 +0000",
+    "source": "nyt",
+    "headline": "Deadly Tornado Hits Suburbs of Paris",
+    "link": "https://www.nytimes.com/2025/10/21/world/europe/tornado-paris-france.html"
   }
 ]

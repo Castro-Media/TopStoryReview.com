@@ -1,17 +1,24 @@
 [
   {
-    "score": 145,
+    "score": 144,
     "pubdate": "2025-10-20-22-46-37 +0000",
     "source": "nyt",
     "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
   },
   {
-    "score": 85,
-    "pubdate": "2025-10-21-00-04-11 +0000",
+    "score": 99,
+    "pubdate": "2025-10-21-05-54-21 +0000",
     "source": "nyt",
-    "headline": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-gaza-israel-netanyahu.html"
+    "headline": "Vance Heads to Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
+    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
+  },
+  {
+    "score": 78,
+    "pubdate": "2025-10-20-19-28-34 +0000",
+    "source": "nypost",
+    "headline": "Demolition begins on East Wing of White House for Trump’s new $250 million ballroom",
+    "link": "https://nypost.com/2025/10/20/us-news/demolition-begins-on-east-wing-of-white-house-for-trumps-new-250-million-ballroom/"
   },
   {
     "score": 72,
@@ -19,20 +26,6 @@
     "source": "nypost",
     "headline": "Trump can deploy National Guard to Portland, Oregon, 9th Circuit court rules in major legal victory",
     "link": "https://nypost.com/2025/10/20/us-news/9th-circuit-court-rules-trump-can-deploy-national-guard-to-portland/"
-  },
-  {
-    "score": 68,
-    "pubdate": "2025-10-21-04-55-46 +0000",
-    "source": "nypost",
-    "headline": "Student loan debt will be forgiven for millions of borrowers under new Trump admin agreement– here’s how to know if you’re one of them",
-    "link": "https://nypost.com/2025/10/21/us-news/student-loan-debt-will-be-forgiven-for-millions-of-borrowers-under-new-trump-admin-agreement-heres-how-to-know-if-youre-one-of-them/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-10-20-12-48-54 +0000",
-    "source": "bbc",
-    "headline": "Deadly Gaza flare-up tests Israel-Hamas ceasefire",
-    "link": "https://www.bbc.com/news/articles/czxk8k4xlv1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 54,
@@ -49,6 +42,20 @@
     "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html"
   },
   {
+    "score": 45,
+    "pubdate": "2025-10-21-04-55-46 +0000",
+    "source": "nypost",
+    "headline": "Student loan debt will be forgiven for millions of borrowers under new Trump admin agreement– here’s how to know if you’re one of them",
+    "link": "https://nypost.com/2025/10/21/us-news/student-loan-debt-will-be-forgiven-for-millions-of-borrowers-under-new-trump-admin-agreement-heres-how-to-know-if-youre-one-of-them/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-10-21-05-47-11 +0000",
+    "source": "nypost",
+    "headline": "Lawyers for wealthy Texas housewife accused of plowing Porsche into man on first date argue her designer heels caused deadly crash",
+    "link": "https://nypost.com/2025/10/21/us-news/texas-housewife-kristina-chambers-accused-of-plowing-porsche-into-man-on-first-date-argue-her-designer-heels-caused-deadly-crash/"
+  },
+  {
     "score": 42,
     "pubdate": "2025-10-21-03-30-02 +0000",
     "source": "bbc",
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Former NFL player Doug Martin dies in police custody in California",
     "link": "https://www.bbc.com/news/articles/c6297qm94z0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 39,
-    "pubdate": "2025-10-21-04-53-16 +0000",
-    "source": "wapo",
-    "headline": "Japan elects first female leader, a hawk who promotes ‘Japan First’",
-    "link": "https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/"
   }
 ]
