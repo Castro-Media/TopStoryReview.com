@@ -1,6 +1,6 @@
 [
   {
-    "score": 144,
+    "score": 142,
     "pubdate": "2025-10-20-22-46-37 +0000",
     "source": "nyt",
     "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
@@ -14,14 +14,14 @@
     "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
   },
   {
-    "score": 76,
+    "score": 75,
     "pubdate": "2025-10-20-19-28-34 +0000",
     "source": "nypost",
     "headline": "Demolition begins on East Wing of White House for Trump’s new $250 million ballroom",
     "link": "https://nypost.com/2025/10/20/us-news/demolition-begins-on-east-wing-of-white-house-for-trumps-new-250-million-ballroom/"
   },
   {
-    "score": 62,
+    "score": 61,
     "pubdate": "2025-10-20-23-05-53 +0000",
     "source": "nypost",
     "headline": "Trump can deploy National Guard to Portland, Oregon, 9th Circuit court rules in major legal victory",
@@ -35,13 +35,6 @@
     "link": "https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-20-15-10-02 +0000",
-    "source": "nypost",
-    "headline": "French authorities admit they ‘failed’ in Louvre robbery, stymied cops have no leads",
-    "link": "https://nypost.com/2025/10/20/world-news/louvre-robbery-authorities-admit-they-failed-after-paris-gallery-theft/"
-  },
-  {
     "score": 53,
     "pubdate": "2025-10-21-04-55-46 +0000",
     "source": "nypost",
@@ -49,11 +42,11 @@
     "link": "https://nypost.com/2025/10/21/us-news/student-loan-debt-will-be-forgiven-for-millions-of-borrowers-under-new-trump-admin-agreement-heres-how-to-know-if-youre-one-of-them/"
   },
   {
-    "score": 43,
-    "pubdate": "2025-10-20-11-17-29 +0000",
-    "source": "cbc",
-    "headline": "Hamas turns over another hostage body after Israeli strikes over weekend kill dozens",
-    "link": "https://www.cbc.ca/news/world/gaza-israel-mediators-bombings-9.6944883?cmp=rss"
+    "score": 50,
+    "pubdate": "2025-10-20-15-10-02 +0000",
+    "source": "nypost",
+    "headline": "French authorities admit they ‘failed’ in Louvre robbery, stymied cops have no leads",
+    "link": "https://nypost.com/2025/10/20/world-news/louvre-robbery-authorities-admit-they-failed-after-paris-gallery-theft/"
   },
   {
     "score": 41,
@@ -63,7 +56,14 @@
     "link": "https://www.nytimes.com/2025/10/21/world/europe/sarkozy-france-president-jail.html"
   },
   {
-    "score": 39,
+    "score": 38,
+    "pubdate": "2025-10-21-03-30-02 +0000",
+    "source": "bbc",
+    "headline": "Amazon outage 'resolved' as Snapchat and banks among sites impacted",
+    "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-10-21-00-19-52 +0000",
     "source": "nyt",
     "headline": "Government Shutdown Threatens Pay for Air Traffic Controllers",
