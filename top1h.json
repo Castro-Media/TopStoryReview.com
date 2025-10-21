@@ -1,72 +1,72 @@
 [
   {
-    "score": 21,
-    "pubdate": "2025-10-21-01-05-39 +0000",
+    "score": 41,
+    "pubdate": "2025-10-21-01-28-12 +0000",
+    "source": "nyt",
+    "headline": "Trump Hopes Argentina Can Help Bring Down Beef Prices",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-argentina-beef.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-21-02-08-08 +0000",
     "source": "bbc",
-    "headline": "White House begins demolishing part of East Wing for Trump ballroom",
-    "link": "https://www.bbc.com/news/articles/ced6np51532o?at_medium=RSS&at_campaign=rss"
+    "headline": "US and Australia sign rare earths deal to counter China's dominance",
+    "link": "https://www.bbc.com/news/articles/cly9kvrdk2xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 18,
-    "pubdate": "2025-10-21-01-00-56 +0000",
-    "source": "latimes",
-    "headline": "Newsom warns Californians' SNAP benefits could be delayed because of federal shutdown",
-    "link": "https://www.latimes.com/california/story/2025-10-20/newsom-warns-californians-snap-benefits-could-be-halted-nov-1-under-federal-shutdown"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-10-21-00-58-45 +0000",
-    "source": "nyt",
-    "headline": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
-    "link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-10-21-00-53-48 +0000",
+    "score": 24,
+    "pubdate": "2025-10-21-01-52-48 +0000",
     "source": "nypost",
-    "headline": "Curtis Sliwa’s checkered past catches up to him as calls for him to ditch NYC mayoral campaign hit crescendo",
-    "link": "https://nypost.com/2025/10/20/us-news/curtis-sliwas-checkered-past-catches-up-to-him-as-calls-for-him-to-ditch-nyc-mayoral-campaign-hit-crescendo/"
+    "headline": "Cheryl Hines refused RFK Jr’s offer to fake separation during heated presidential campaign",
+    "link": "https://nypost.com/2025/10/20/us-news/cheryl-hines-refused-rfk-jrs-offer-to-fake-separation-during-heated-presidential-campaign/"
   },
   {
-    "score": 12,
-    "pubdate": "2025-10-21-00-52-27 +0000",
+    "score": 20,
+    "pubdate": "2025-10-21-01-40-47 +0000",
     "source": "nyt",
-    "headline": "Louvre Museum Remains Closed After Jewelry Robbery: What to Know",
-    "link": "https://www.nytimes.com/2025/10/20/world/europe/france-louvre-jewel-heist.html"
+    "headline": "Some States With Democratic Governors Are Posting Partisan Shutdown Messages on Official Websites",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/shutdown-messages-state-websites.html"
   },
   {
-    "score": 12,
-    "pubdate": "2025-10-21-00-19-52 +0000",
+    "score": 20,
+    "pubdate": "2025-10-21-01-50-44 +0000",
+    "source": "nypost",
+    "headline": "Karoline Leavitt slams lefty reporter’s ‘bulls–t’ questions in fiery text response",
+    "link": "https://nypost.com/2025/10/20/us-news/karoline-leavitt-slams-lefty-reporters-bullst-questions-in-fiery-text-response/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-21-01-22-29 +0000",
     "source": "nyt",
-    "headline": "Government Shutdown Threatens Pay for Air Traffic Controllers",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/shutdown-air-traffic-controllers-pay.html"
+    "headline": "James Comey’s Lawyers Move to Dismiss Case Brought by Trump’s Justice Dept.",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/james-comey-lawyers-charges.html"
   },
   {
-    "score": 10,
-    "pubdate": "2025-10-21-00-58-44 +0000",
-    "source": "48hills",
-    "headline": "Screen Grabs: East LA guerrilla artists fire up SF Latino Film Fest",
-    "link": "https://48hills.org/2025/10/screen-grabs-east-la-guerrilla-artists-fire-up-sf-latino-film-fest/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-21-00-37-51 +0000",
+    "score": 16,
+    "pubdate": "2025-10-21-01-52-38 +0000",
     "source": "nyt",
-    "headline": "What to Know About Diwali, the Hindu Festival of Lights",
-    "link": "https://www.nytimes.com/article/diwali-india-festival-lights.html"
+    "headline": "White House’s East Wing Partially Demolished to Build Trump’s Ballroom",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-white-house-east-wing-demolition-ballroom.html"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-21-00-53-44 +0000",
+    "score": 15,
+    "pubdate": "2025-10-21-01-22-36 +0000",
+    "source": "nypost",
+    "headline": "Former NY AG Bob Abrams rips ‘disaster’ Zohran Mamdani, backs Andrew Cuomo for NYC mayor",
+    "link": "https://nypost.com/2025/10/20/us-news/former-ny-ag-bob-abrams-rips-disaster-zohran-mamdani-backs-andrew-cuomo-for-nyc-mayor/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-21-02-15-10 +0000",
     "source": "nyt",
-    "headline": "Justice Department Scrutinizes a Trip Fani Willis Took to the Bahamas",
-    "link": "https://www.nytimes.com/2025/10/20/us/fani-willis-trump-justice-department-investigation.html"
+    "headline": "Republican Representative Says Democrats ‘Hate the Military,’ Echoing Trump’s Attacks",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/scott-perry-democrats-military-trump.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-10-21-00-41-30 +0000",
-    "source": "48hills",
-    "headline": "The GOP speaker finds some anarchists in San Francisco",
-    "link": "https://48hills.org/2025/10/the-gop-speaker-finds-some-anarchists-in-san-francisco/"
+    "score": 14,
+    "pubdate": "2025-10-21-01-33-14 +0000",
+    "source": "nyt",
+    "headline": "Amazon’s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
+    "link": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html"
   }
 ]
