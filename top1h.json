@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 25,
+    "pubdate": "2025-10-21-08-05-05 +0000",
+    "source": "nyt",
+    "headline": "Sanae Takaichi is Japan’s New Prime Minister, and She’s a Heavy Metal Drummer",
+    "link": "https://www.nytimes.com/2025/10/21/world/asia/sanae-takaichi-japan-prime-minister.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-21-08-07-51 +0000",
+    "source": "bbc",
+    "headline": "Palestinian woman in hospital after being clubbed by masked Israeli settler",
+    "link": "https://www.bbc.com/news/articles/cx20p0qx50no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-21-08-17-54 +0000",
+    "source": "bbc",
+    "headline": "Kevin Federline has held off writing about Britney Spears. Until now",
+    "link": "https://www.bbc.com/news/articles/cdx4nr1415wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-21-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Air force defends bonus pay system as pilots file dozens of grievances, refuse promotions",
+    "link": "https://www.cbc.ca/news/politics/air-force-bonus-system-9.6946010?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-21-08-53-12 +0000",
+    "source": "nyt",
+    "headline": "Vance Heads to Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
+    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-21-08-41-06 +0000",
+    "source": "bbc",
+    "headline": "SNP moves to have MPs strip Prince Andrew of all titles",
+    "link": "https://www.bbc.com/news/articles/cdeg9xd310zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-21-08-01-40 +0000",
+    "source": "bbc",
+    "headline": "Can France retrieve its priceless crown jewels - or is it too late?",
+    "link": "https://www.bbc.com/news/articles/ckgk0y97v0go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-21-08-29-43 +0000",
+    "source": "bbc",
+    "headline": "What caused the AWS outage - and why did it make the internet fall apart?",
+    "link": "https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-21-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "On Ukraine, Trump reverts yet again to the Kremlin's view",
+    "link": "https://www.cbc.ca/news/world/trump-ukraine-putin-russia-9.6945537?cmp=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-21-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "The consensus on immigration is crumbling as 8 in 10 Conservatives say too many are coming in: poll",
+    "link": "https://www.cbc.ca/news/politics/conservatives-too-many-immigrants-9.6945905?cmp=rss"
+  }
+]
