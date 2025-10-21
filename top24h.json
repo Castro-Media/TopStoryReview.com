@@ -1,24 +1,38 @@
 [
   {
-    "score": 133,
+    "score": 145,
     "pubdate": "2025-10-20-22-46-37 +0000",
     "source": "nyt",
     "headline": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html"
   },
   {
-    "score": 79,
+    "score": 85,
     "pubdate": "2025-10-21-00-04-11 +0000",
     "source": "nyt",
     "headline": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu",
     "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-gaza-israel-netanyahu.html"
   },
   {
-    "score": 71,
+    "score": 72,
     "pubdate": "2025-10-20-23-05-53 +0000",
     "source": "nypost",
     "headline": "Trump can deploy National Guard to Portland, Oregon, 9th Circuit court rules in major legal victory",
     "link": "https://nypost.com/2025/10/20/us-news/9th-circuit-court-rules-trump-can-deploy-national-guard-to-portland/"
+  },
+  {
+    "score": 68,
+    "pubdate": "2025-10-21-04-55-46 +0000",
+    "source": "nypost",
+    "headline": "Student loan debt will be forgiven for millions of borrowers under new Trump admin agreement– here’s how to know if you’re one of them",
+    "link": "https://nypost.com/2025/10/21/us-news/student-loan-debt-will-be-forgiven-for-millions-of-borrowers-under-new-trump-admin-agreement-heres-how-to-know-if-youre-one-of-them/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-10-20-12-48-54 +0000",
+    "source": "bbc",
+    "headline": "Deadly Gaza flare-up tests Israel-Hamas ceasefire",
+    "link": "https://www.bbc.com/news/articles/czxk8k4xlv1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 54,
@@ -28,32 +42,18 @@
     "link": "https://nypost.com/2025/10/20/world-news/louvre-robbery-authorities-admit-they-failed-after-paris-gallery-theft/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-10-20-05-21-50 +0000",
-    "source": "nyt",
-    "headline": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html"
-  },
-  {
-    "score": 47,
+    "score": 46,
     "pubdate": "2025-10-20-10-41-23 +0000",
     "source": "nyt",
     "headline": "Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew",
     "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-10-20-12-48-54 +0000",
+    "score": 42,
+    "pubdate": "2025-10-21-03-30-02 +0000",
     "source": "bbc",
-    "headline": "Deadly Gaza flare-up tests Israel-Hamas ceasefire",
-    "link": "https://www.bbc.com/news/articles/czxk8k4xlv1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-10-20-21-15-39 +0000",
-    "source": "bbc",
-    "headline": "These confederate statues caused US protests. Knocked down, they're the centre of a new art show",
-    "link": "https://www.bbc.com/news/articles/c5y9x1w2ee1o?at_medium=RSS&at_campaign=rss"
+    "headline": "Amazon outage 'resolved' as Snapchat and banks among sites impacted",
+    "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 41,
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c6297qm94z0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-20-21-06-29 +0000",
-    "source": "nyt",
-    "headline": "Senior German General Says Europe Must Do All It Can to Help Ukraine",
-    "link": "https://www.nytimes.com/2025/10/20/world/europe/ukraine-russia-war-europe.html"
+    "score": 39,
+    "pubdate": "2025-10-21-04-53-16 +0000",
+    "source": "wapo",
+    "headline": "Japan elects first female leader, a hawk who promotes ‘Japan First’",
+    "link": "https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/"
   }
 ]
