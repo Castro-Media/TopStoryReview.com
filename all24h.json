@@ -1,21 +1,171 @@
 [
   {
+    "headline": "Vehicle Crashes Into Security Gate Outside the White House",
+    "link": "https://www.nytimes.com/2025/10/21/us/white-house-car-crash.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-05-47-14 +0000"
+  },
+  {
+    "headline": "Vehicle Crashes Into Security Gate Outside the White House",
+    "link": "https://www.nytimes.com/2025/10/21/us/white-house-car-crash.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-05-47-14 +0000"
+  },
+  {
+    "headline": "Customer shoots dead alleged creep who groped shopper, threatened to kill everyone inside LA beauty store",
+    "link": "https://nypost.com/2025/10/22/us-news/la-customer-shoots-dead-alleged-creep-who-groped-shopper-and-threatened-to-kill-everyone-inside-beauty-store/",
+    "source": "nypost",
+    "pubdate": "2025-10-22-05-36-13 +0000"
+  },
+  {
+    "headline": "U.S. Marshal and Mexican Immigrant Are Shot During L.A. Traffic Stop",
+    "link": "https://www.nytimes.com/2025/10/21/us/us-marshal-immigrant-shot-la-traffic-stop.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-05-17-52 +0000"
+  },
+  {
+    "headline": "Japan’s Exports Rebound From Months of Decline, But Tariff Risks Remain",
+    "link": "https://www.wsj.com/economy/japans-exports-rebound-for-first-time-in-five-months-61e68270",
+    "source": "wsj",
+    "pubdate": "2025-10-22-05-16-00 +0000"
+  },
+  {
+    "headline": "Japan’s Exports Rebound From Months of Decline, But Tariff Risks Remain",
+    "link": "https://www.wsj.com/economy/japans-exports-rebound-for-first-time-in-five-months-61e68270",
+    "source": "wsj",
+    "pubdate": "2025-10-22-05-16-00 +0000"
+  },
+  {
+    "headline": "Gaza health crisis will last for 'generations', WHO chief warns",
+    "link": "https://www.bbc.com/news/articles/cnvezzdnmrno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-22-05-11-28 +0000"
+  },
+  {
+    "headline": "Mosquitoes found in Iceland for first time after record heat",
+    "link": "https://www.bbc.com/news/articles/clyz3vv62pgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-22-04-59-23 +0000"
+  },
+  {
+    "headline": "Who are the released hostages?",
+    "link": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-22-04-57-53 +0000"
+  },
+  {
+    "headline": "What to Know About Trump’s Plan for a Triumphal Arch in Washington",
+    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-arch-washington-memorial.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-47-47 +0000"
+  },
+  {
+    "headline": "What to Know About Trump’s Plan for a Triumphal Arch in Washington",
+    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-arch-washington-memorial.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-47-47 +0000"
+  },
+  {
+    "headline": "Ex-NY Rep. George Santos reveals why he’s fleeing NYC if Zohran Mamdani is elected mayor",
+    "link": "https://nypost.com/2025/10/22/us-news/ny-ex-rep-george-santos-to-move-out-of-nyc-if-zohran-mamdani-elected-mayor/",
+    "source": "nypost",
+    "pubdate": "2025-10-22-04-42-35 +0000"
+  },
+  {
+    "headline": "China, Xi and the S-Word",
+    "link": "https://www.nytimes.com/2025/10/21/world/china-xi-succession-japan-prime-minister.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-34-20 +0000"
+  },
+  {
+    "headline": "The 22-day government shutdown is now the second-longest in US history",
+    "link": "https://nypost.com/2025/10/22/us-news/the-22-day-government-shutdown-is-now-the-second-longest-in-us-history/",
+    "source": "nypost",
+    "pubdate": "2025-10-22-04-31-03 +0000"
+  },
+  {
+    "headline": "The 22-day government shutdown is now the second-longest in US history",
+    "link": "https://nypost.com/2025/10/22/us-news/the-22-day-government-shutdown-is-now-the-second-longest-in-us-history/",
+    "source": "nypost",
+    "pubdate": "2025-10-22-04-31-03 +0000"
+  },
+  {
+    "headline": "Woman struck by small plane that crashed into busy California park",
+    "link": "https://nypost.com/2025/10/22/us-news/woman-struck-by-small-plane-that-crashed-into-busy-california-park/",
+    "source": "nypost",
+    "pubdate": "2025-10-22-04-28-50 +0000"
+  },
+  {
+    "headline": "Man arrested after driving his car into security gate outside White House: authorities",
+    "link": "https://nypost.com/2025/10/22/us-news/driver-crashes-car-into-security-barrier-outside-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-10-22-04-28-40 +0000"
+  },
+  {
+    "headline": "Around Here, It’s Not a Party Without a Bone-Rattling Speaker Truck",
+    "link": "https://www.nytimes.com/2025/10/22/world/asia/indonesia-sound-horeg.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-20-22 +0000"
+  },
+  {
+    "headline": "Around Here, It’s Not a Party Without a Bone-Rattling Speaker Truck",
+    "link": "https://www.nytimes.com/2025/10/22/world/asia/indonesia-sound-horeg.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-20-22 +0000"
+  },
+  {
+    "headline": "Neo-Nazi Case in UK Highlights Threat From Extreme-Right Wing Terrorism",
+    "link": "https://www.nytimes.com/2025/10/22/world/europe/uk-neo-nazis-extreme-right-wing-terrorism.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-01-08 +0000"
+  },
+  {
+    "headline": "Neo-Nazi Case in UK Highlights Threat From Extreme-Right Wing Terrorism",
+    "link": "https://www.nytimes.com/2025/10/22/world/europe/uk-neo-nazis-extreme-right-wing-terrorism.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-01-08 +0000"
+  },
+  {
+    "headline": "The Louvre’s Attraction Is Its History. That’s Also Its Weakness.",
+    "link": "https://www.nytimes.com/2025/10/22/arts/design/louvre-security-history.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-00-09 +0000"
+  },
+  {
+    "headline": "Silicon Valley Has China Envy, and That Reveals a Lot About America",
+    "link": "https://www.nytimes.com/2025/10/22/business/china-tech-silicon-valley.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-00-06 +0000"
+  },
+  {
+    "headline": "Silicon Valley Has China Envy, and That Reveals a Lot About America",
+    "link": "https://www.nytimes.com/2025/10/22/business/china-tech-silicon-valley.html",
+    "source": "nyt",
+    "pubdate": "2025-10-22-04-00-06 +0000"
+  },
+  {
+    "headline": "The decline of the welfare state has boosted the rise of the far right",
+    "link": "https://www.washingtonpost.com/world/2025/10/22/unga-report-welfare-far-right/",
+    "source": "wapo",
+    "pubdate": "2025-10-22-04-00-05 +0000"
+  },
+  {
+    "headline": "No trial for S.F. sheriff chief-of-staff who lied about hit and run",
+    "link": "https://missionlocal.org/2025/10/no-trial-chief-of-staff-lied-hit-and-run/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-22-04-00-00 +0000"
+  },
+  {
     "headline": "Israel identifies bodies of two hostages returned by Hamas",
     "link": "https://www.bbc.com/news/articles/cd675jygwp1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-22-03-58-08 +0000"
   },
   {
-    "headline": "Vehicle Crashes Into Security Gate Outside the White House",
-    "link": "https://www.nytimes.com/2025/10/21/us/white-house-car-crash.html",
-    "source": "nyt",
-    "pubdate": "2025-10-22-03-56-14 +0000"
-  },
-  {
-    "headline": "Vehicle Crashes Into Security Gate Outside the White House",
-    "link": "https://www.nytimes.com/2025/10/21/us/white-house-car-crash.html",
-    "source": "nyt",
-    "pubdate": "2025-10-22-03-56-14 +0000"
+    "headline": "Israel identifies bodies of two hostages returned by Hamas",
+    "link": "https://www.bbc.com/news/articles/cd675jygwp1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-22-03-58-08 +0000"
   },
   {
     "headline": "Pop Mart Sales Top Market Expectation, Signals Sustained Momentum",
@@ -168,12 +318,6 @@
     "pubdate": "2025-10-22-02-00-00 +0000"
   },
   {
-    "headline": "U.S. Marshal and Mexican Immigrant Are Shot During L.A. Traffic Stop",
-    "link": "https://www.nytimes.com/2025/10/21/us/us-marshal-immigrant-shot-la-traffic-stop.html",
-    "source": "nyt",
-    "pubdate": "2025-10-22-01-46-26 +0000"
-  },
-  {
     "headline": "If the National Guard arrives in SF, the Lurie Administration isn’t ready",
     "link": "https://48hills.org/2025/10/if-the-national-guard-arrives-in-sf-the-lurie-administration-isnt-ready/",
     "source": "48hills",
@@ -270,12 +414,6 @@
     "pubdate": "2025-10-22-00-54-51 +0000"
   },
   {
-    "headline": "Paul Ingrassia, Trump Nominee for Watchdog Role, Out After Report of Racist Texts",
-    "link": "https://www.nytimes.com/2025/10/21/us/politics/paul-ingrassia-trump-senate.html",
-    "source": "nyt",
-    "pubdate": "2025-10-22-00-54-51 +0000"
-  },
-  {
     "headline": "Knife-wielding Florida man allegedly threatened to eat neighbor’s dog over trespassing dispute",
     "link": "https://nypost.com/2025/10/21/us-news/knife-wielding-florida-man-arrested-after-allegedly-threatening-to-eat-neighbors-dog/",
     "source": "nypost",
@@ -292,6 +430,12 @@
     "link": "https://48hills.org/2025/10/the-warriors-score-six-new-season-eateries/",
     "source": "48hills",
     "pubdate": "2025-10-22-00-35-34 +0000"
+  },
+  {
+    "headline": "Ukraine hits Russian chemical plant with UK-made Storm Shadow missiles",
+    "link": "https://www.bbc.com/news/articles/crmxjverzzro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-22-00-31-37 +0000"
   },
   {
     "headline": "Top AI assistants misrepresent news content, study finds",
@@ -322,18 +466,6 @@
     "link": "https://nypost.com/2025/10/21/us-news/hunter-biden-says-watching-obama-lead-joe-off-stage-at-infamous-hollywood-fundraiser-really-pissed-me-off-book/",
     "source": "nypost",
     "pubdate": "2025-10-22-00-24-39 +0000"
-  },
-  {
-    "headline": "Japan’s Exports Rebound for First Time in Five Months",
-    "link": "https://www.wsj.com/economy/japans-exports-rebound-for-first-time-in-five-months-61e68270",
-    "source": "wsj",
-    "pubdate": "2025-10-22-00-22-00 +0000"
-  },
-  {
-    "headline": "Japan’s Exports Rebound for First Time in Five Months",
-    "link": "https://www.wsj.com/economy/japans-exports-rebound-for-first-time-in-five-months-61e68270",
-    "source": "wsj",
-    "pubdate": "2025-10-22-00-22-00 +0000"
   },
   {
     "headline": "G.M. to Stop Making Electric Vans in Canada Amid Trump Tariffs",
@@ -402,6 +534,12 @@
     "pubdate": "2025-10-21-23-57-52 +0000"
   },
   {
+    "headline": "Why Trump made breakthrough in Gaza but can't with Putin over Ukraine",
+    "link": "https://www.bbc.com/news/articles/cx2y9je4d3go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-21-23-57-52 +0000"
+  },
+  {
     "headline": "After legal fight, Hennepin County releases 911 transcript from attempted political assassination",
     "link": "https://www.startribune.com/911-transcript-vance-boelter-political-assassinations-minnesota/601497998",
     "source": "startribune",
@@ -462,7 +600,7 @@
     "pubdate": "2025-10-21-23-33-26 +0000"
   },
   {
-    "headline": "3 dead in fiery crash involving 4 semitrucks, 4 cars on I-10 in Ontario",
+    "headline": "3 dead in fiery crash on 10 Freeway in Ontario. Man arrested on suspicion of DUI",
     "link": "https://www.latimes.com/california/story/2025-10-21/3-dead-fiery-crash-involving-semi-trucks-passenger-cars-i-10-ontario",
     "source": "latimes",
     "pubdate": "2025-10-21-23-31-16 +0000"
@@ -576,18 +714,6 @@
     "pubdate": "2025-10-21-23-10-23 +0000"
   },
   {
-    "headline": "What to Know About Trump’s Plan for a Triumphal Arch in Washington",
-    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-arch-washington-memorial.html",
-    "source": "nyt",
-    "pubdate": "2025-10-21-23-07-58 +0000"
-  },
-  {
-    "headline": "What to Know About Trump’s Plan for a Triumphal Arch in Washington",
-    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-arch-washington-memorial.html",
-    "source": "nyt",
-    "pubdate": "2025-10-21-23-07-58 +0000"
-  },
-  {
     "headline": "Analysis: J.J. McCarthy’s long-term future remains the Vikings’ guiding principle",
     "link": "https://www.startribune.com/minnesota-vikings-qb-jj-mccarthy-carson-wentz-chargers/601491354",
     "source": "startribune",
@@ -630,12 +756,6 @@
     "pubdate": "2025-10-21-22-30-03 +0000"
   },
   {
-    "headline": "Target advertising communist Karl Marx book alongside its fall women’s accessories",
-    "link": "https://nypost.com/2025/10/21/us-news/target-advertising-communist-karl-marx-book-alongside-its-fall-womens-accessories/",
-    "source": "nypost",
-    "pubdate": "2025-10-21-22-27-09 +0000"
-  },
-  {
     "headline": "U.S. Attacks More Boats as Tensions With Venezuela Rise: What’s Happened So Far",
     "link": "https://www.nytimes.com/2025/10/21/us/trump-attacks-venezuela-boats.html",
     "source": "nyt",
@@ -664,12 +784,6 @@
     "link": "https://www.wsj.com/politics/policy/musk-tosses-barbs-at-nasa-chief-after-spacex-criticism-b506128d",
     "source": "wsj",
     "pubdate": "2025-10-21-22-22-00 +0000"
-  },
-  {
-    "headline": "Maine police search for ‘older’ man accused of stealing $7,400 he found on the side of the road",
-    "link": "https://nypost.com/2025/10/21/us-news/maine-police-search-for-older-man-accused-of-stealing-7400-he-found-on-the-side-of-the-road/",
-    "source": "nypost",
-    "pubdate": "2025-10-21-22-15-07 +0000"
   },
   {
     "headline": "Walmart halts job offers for H-1B visa candidates",
@@ -738,12 +852,6 @@
     "pubdate": "2025-10-21-21-47-03 +0000"
   },
   {
-    "headline": "Beauty queen charged with ambushing, gunning down Mexican cartel rival in California shootout",
-    "link": "https://nypost.com/2025/10/21/us-news/vanessa-gurrola-charged-with-murder-of-suspected-cartel-associate-in-california-parking-garage/",
-    "source": "nypost",
-    "pubdate": "2025-10-21-21-46-38 +0000"
-  },
-  {
     "headline": "With Israel-Hamas Cease-Fire, Some Pro-Palestinian Protesters Look Back at Their Movement, Ruefully",
     "link": "https://www.nytimes.com/2025/10/21/us/politics/campus-protesters-israel-gaza-cease-fire-reaction.html",
     "source": "nyt",
@@ -760,24 +868,12 @@
     "link": "https://www.nytimes.com/2025/10/21/us/politics/campus-protesters-israel-gaza-cease-fire-reaction.html",
     "source": "nyt",
     "pubdate": "2025-10-21-21-45-13 +0000"
-  },
-  {
-    "headline": "Democratic Maine Senate candidate Graham Platner admits he got Nazi-linked tattoo while ‘very inebriated’",
-    "link": "https://nypost.com/2025/10/21/us-news/maine-senate-candidate-graham-platner-addresses-nazi-linked-tattoo/",
-    "source": "nypost",
-    "pubdate": "2025-10-21-21-43-50 +0000"
   },
   {
     "headline": "Driverless Waymo taxis under investigation after failing to stop for a school bus",
     "link": "https://www.latimes.com/business/story/2025-10-21/driverless-waymo-taxis-under-investigation-after-failing-to-stop-for-a-school-bus",
     "source": "latimes",
     "pubdate": "2025-10-21-21-42-55 +0000"
-  },
-  {
-    "headline": "Meet the $150K ‘B2’ robo dog that can blast fires away with a cannon",
-    "link": "https://nypost.com/2025/10/21/us-news/meet-the-150k-b2-robo-dog-that-can-blast-fires-away-with-a-canon/",
-    "source": "nypost",
-    "pubdate": "2025-10-21-21-40-34 +0000"
   },
   {
     "headline": "Opinion | China’s Big London Spy Platform",
@@ -814,12 +910,6 @@
     "link": "https://www.wsj.com/business/draftkings-to-launch-prediction-markets-platform-ab70e7d5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-21-21-36-00 +0000"
-  },
-  {
-    "headline": "China, Xi and the S-word",
-    "link": "https://www.nytimes.com/2025/10/21/world/china-xi-succession-japan-prime-minister.html",
-    "source": "nyt",
-    "pubdate": "2025-10-21-21-29-41 +0000"
   },
   {
     "headline": "Trump Says Ukraine Summit With Putin Would Be a ‘Waste of Time’",
@@ -952,12 +1042,6 @@
     "link": "https://www.cbc.ca/news/politics/system-error-health-canada-dental-insurance-plan-9.6947506?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-21-20-37-07 +0000"
-  },
-  {
-    "headline": "Israel receives two bodies Hamas says are dead hostages",
-    "link": "https://www.bbc.com/news/articles/cd675jygwp1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-21-20-33-56 +0000"
   },
   {
     "headline": "Carson Wentz will start at QB for the Vikings against the Chargers on Thursday night",
@@ -2028,12 +2112,6 @@
     "pubdate": "2025-10-21-12-39-00 +0000"
   },
   {
-    "headline": "Colombia’s president muses about getting ‘rid of’ Trump in menacing interview as drug feud intensifies",
-    "link": "https://nypost.com/2025/10/21/us-news/colombias-president-muses-about-getting-rid-of-trump-amid-drug-feud/",
-    "source": "nypost",
-    "pubdate": "2025-10-21-12-37-54 +0000"
-  },
-  {
     "headline": "Madagascar's Gen Z protesters angry at coup leader's choice of PM",
     "link": "https://www.bbc.com/news/articles/cgkzm7prngzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2280,6 +2358,12 @@
     "pubdate": "2025-10-21-10-00-48 +0000"
   },
   {
+    "headline": "Firing artillery over Interstate 5 is 'really rare' for Camp Pendleton, expert says",
+    "link": "https://www.latimes.com/california/story/2025-10-21/marine-shrapnel-incident-on-i-5-draws-increasing-scrutiny-from-officials",
+    "source": "latimes",
+    "pubdate": "2025-10-21-10-00-00 +0000"
+  },
+  {
     "headline": "More rain could be on the way this week to Southern California",
     "link": "https://www.latimes.com/california/story/2025-10-21/more-rain-could-be-on-the-way-this-week-to-southern-california",
     "source": "latimes",
@@ -2300,12 +2384,6 @@
   {
     "headline": "California young people are struggling with anxiety and stress, study finds",
     "link": "https://www.latimes.com/california/story/2025-10-21/la-ed-mental-health-survey",
-    "source": "latimes",
-    "pubdate": "2025-10-21-10-00-00 +0000"
-  },
-  {
-    "headline": "Firing artillery over Interstate 5 is 'really rare' for Camp Pendleton, expert says",
-    "link": "https://www.latimes.com/california/story/2025-10-21/marine-shrapnel-incident-on-i-5-draws-increasing-scrutiny-from-officials",
     "source": "latimes",
     "pubdate": "2025-10-21-10-00-00 +0000"
   },
@@ -2698,17 +2776,5 @@
     "link": "https://www.bbc.com/news/articles/cly275d3dvdo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-21-05-56-08 +0000"
-  },
-  {
-    "headline": "Minimum wage rise needed 'as prices getting high'",
-    "link": "https://www.bbc.com/news/articles/c4gzp0ypd60o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-21-05-18-36 +0000"
-  },
-  {
-    "headline": "Cooking classes to follow free air fryer giveaway",
-    "link": "https://www.bbc.com/news/articles/cy7ege5m8nzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-21-05-10-29 +0000"
   }
 ]
