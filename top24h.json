@@ -1,20 +1,20 @@
 [
   {
-    "score": 151,
+    "score": 141,
     "pubdate": "2025-10-22-11-30-00 +0000",
     "source": "wsj",
     "headline": "Two of Jack Smith’s top deputies are starting their own law firm, in one of the first significant forays into the private sector by former Justice Department officials who prosecuted President Trump",
     "link": "https://www.wsj.com/us-news/law/former-jack-smith-deputies-venture-into-private-practice-7748e47b"
   },
   {
-    "score": 104,
+    "score": 109,
     "pubdate": "2025-10-22-03-11-49 +0000",
     "source": "nyt",
     "headline": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
     "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
   },
   {
-    "score": 97,
+    "score": 101,
     "pubdate": "2025-10-22-02-00-00 +0000",
     "source": "wsj",
     "headline": "Zohran Mamdani, the Democratic candidate in the NYC mayoral race, will need billions of dollars to fund his agenda, including a $30 minimum wage, but it isn’t clear he will be able to deliver",
@@ -22,20 +22,34 @@
   },
   {
     "score": 73,
-    "pubdate": "2025-10-22-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "Biden’s cognitive decline emboldened Putin to invade Ukraine, Sen. John Kennedy tells ‘Pod Force One’",
-    "link": "https://nypost.com/2025/10/22/us-news/bidens-decline-emboldened-putin-to-invade-ukraine-sen-john-kennedy-tells-pod-force-one/"
+    "pubdate": "2025-10-22-16-25-18 +0000",
+    "source": "nyt",
+    "headline": "Zelensky Says Russian Strike on School Shows Putin Isn’t Serious About Ukraine Talks",
+    "link": "https://www.nytimes.com/2025/10/22/world/europe/russia-ukraine-putin-trump.html"
   },
   {
-    "score": 66,
+    "score": 69,
+    "pubdate": "2025-10-22-18-39-26 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes Boat in Pacific, Expanding Operation Against Drug Running Suspects",
+    "link": "https://www.nytimes.com/2025/10/22/us/politics/trump-drug-boat-strike-colombia.html"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-10-22-18-30-12 +0000",
+    "source": "nypost",
+    "headline": "DNC pays off $1.6M in debt for Kamala Harris’ failed campaign as Dems face tight race in New Jersey",
+    "link": "https://nypost.com/2025/10/22/us-news/dnc-pays-off-1-6m-in-debt-for-kamala-harris-failed-campaign-as-democrats-face-tight-race-in-new-jersey/"
+  },
+  {
+    "score": 58,
     "pubdate": "2025-10-22-13-31-00 +0000",
     "source": "wsj",
     "headline": "Paul Ingrassia withdrew Tuesday from a Senate confirmation hearing to lead a White House ethics watchdog office, following a report that he made racist and antisemitic comments in a text chain",
     "link": "https://www.wsj.com/politics/policy/paul-ingrassia-trump-nominee-716b875f"
   },
   {
-    "score": 59,
+    "score": 50,
     "pubdate": "2025-10-22-10-00-00 +0000",
     "source": "latimes",
     "headline": "Barabak: She was highly qualified to be California governor. Why did her campaign fizzle?",
@@ -43,30 +57,16 @@
   },
   {
     "score": 48,
-    "pubdate": "2025-10-22-00-09-33 +0000",
+    "pubdate": "2025-10-22-18-46-50 +0000",
     "source": "nyt",
-    "headline": "Paris Tour Guide Saw Stolen Louvre Jewels Just Before Heist",
-    "link": "https://www.nytimes.com/2025/10/21/style/louvre-heist-jewels-tour-guide.html"
+    "headline": "The U.S. Struggles to Break Out From China’s Grip on Rare Earths",
+    "link": "https://www.nytimes.com/2025/10/22/us/politics/china-trump-rare-earths.html"
   },
   {
-    "score": 44,
+    "score": 45,
     "pubdate": "2025-10-22-16-24-00 +0000",
     "source": "wsj",
     "headline": "Fed officials, who are unable to receive U.S. economic statistics due to the government shutdown, recently lost access to a separate measure of employment data from a third-party provider",
     "link": "https://www.wsj.com/economy/central-banking/fed-lost-access-to-private-jobs-data-ahead-of-government-shutdown-95225bd4"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-10-22-14-34-06 +0000",
-    "source": "nypost",
-    "headline": "Gruesome new video shows moment former Mass. mayor was stabbed outside his cannabis dispensary",
-    "link": "https://nypost.com/2025/10/22/us-news/ex-mayor-horrifically-stabbed-by-attacker-who-ambushed-him-outside-his-weed-shop-video/"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-10-22-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "Sen. John Kennedy talks Trump’s social media habits with ‘Pod Force One’: ‘Bit less would not cause brain damage’",
-    "link": "https://nypost.com/2025/10/22/us-news/sen-john-kennedy-talks-trumps-social-media-habits-with-pod-force-one-bit-less-would-not-cause-brain-damage/"
   }
 ]
