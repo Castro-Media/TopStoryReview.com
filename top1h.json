@@ -1,72 +1,72 @@
 [
   {
-    "score": 54,
-    "pubdate": "2025-10-22-21-25-00 +0000",
+    "score": 60,
+    "pubdate": "2025-10-22-22-03-15 +0000",
+    "source": "bbc",
+    "headline": "Trump says Putin talks 'don't go anywhere' as he imposes new sanctions",
+    "link": "https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-10-22-22-37-42 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes Boat in Pacific, Expanding Operation Against Drug Running Suspects",
+    "link": "https://www.nytimes.com/2025/10/22/us/politics/trump-drug-boat-strike-colombia.html"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-10-22-22-04-00 +0000",
+    "source": "wsj",
+    "headline": "The White House is tearing down the entire East Wing as President Trump moves to build a 90,000-square-foot ballroom—making the demolition more extensive than previously known",
+    "link": "https://www.wsj.com/politics/policy/white-house-east-wing-construction-ballroom-19f36199"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-10-22-22-45-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration has lifted a key restriction on Ukraine’s use of some long-range missiles provided by Western allies",
+    "link": "https://www.wsj.com/politics/national-security/u-s-lifts-key-restriction-on-ukraines-use-of-western-long-range-missiles-5a15c12d"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-10-22-22-05-39 +0000",
+    "source": "nypost",
+    "headline": "Rep. Mikie Sherrill missed critical Congress votes on energy costs, rebuking antisemitism and much, much more",
+    "link": "https://nypost.com/2025/10/22/us-news/sherrill-missed-critical-congress-votes-on-energy-costs-antisemitism/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-10-22-22-15-38 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani will ask Jessica Tisch to stay on as NYPD commissioner if he’s elected mayor: sources",
+    "link": "https://nypost.com/2025/10/22/us-news/zohran-mamdani-will-ask-jessica-tisch-to-stay-on-as-nypd-commissioner-if-hes-elected-mayor-sources/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-22-21-59-00 +0000",
     "source": "wsj",
     "headline": "Targeting one of Russia’s largest sources of revenue, the Trump administration is imposing substantial new sanctions on Russian oil giants Lukoil and Rosneft",
     "link": "https://www.wsj.com/politics/policy/bessent-u-s-to-impose-substantial-sanctions-on-russia-84132054"
   },
   {
-    "score": 24,
-    "pubdate": "2025-10-22-21-17-00 +0000",
+    "score": 18,
+    "pubdate": "2025-10-22-22-02-00 +0000",
     "source": "wsj",
     "headline": "Tesla Profit Plunges Despite Third-Quarter Rush to Buy EVs",
     "link": "https://www.wsj.com/business/autos/tesla-tsla-q3-earnings-report-2025-653ea365?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 21,
-    "pubdate": "2025-10-22-21-36-03 +0000",
-    "source": "nypost",
-    "headline": "Trump shoots down sending Ukraine ‘highly complex’ Tomahawk missiles: ‘Tremendous learning curve’",
-    "link": "https://nypost.com/2025/10/22/us-news/trump-shoots-down-sending-ukraine-tomahawk-missiles/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2025-10-22-21-01-00 +0000",
-    "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-806acd62?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 21,
-    "pubdate": "2025-10-22-20-58-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump has privately told allies he believes Democrat Zohran Mamdani is unbeatable in the New York City mayor’s race, according to people familiar with the matter",
-    "link": "https://www.wsj.com/politics/elections/trump-zohran-mamdani-nyc-mayor-election-ae987565"
-  },
-  {
-    "score": 20,
-    "pubdate": "2025-10-22-21-43-37 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Dropped 18%, Helping Drivers, but Squeezing the Industry",
-    "link": "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2025-10-22-21-04-25 +0000",
-    "source": "nypost",
-    "headline": "Dems admit to prolonging shutdown for ‘leverage,’ as Nov. 1 open enrollment deadline nears",
-    "link": "https://nypost.com/2025/10/22/us-news/dems-admit-to-prolonging-shutdown-for-leverage-as-nov-1-open-enrollment-deadline-nears/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-10-22-21-46-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Widens Campaign Against Alleged Drug Boats With Eastern Pacific Strike",
-    "link": "https://www.wsj.com/world/americas/u-s-widens-campaign-against-alleged-drug-boats-with-eastern-pacific-strike-79ab0cdf"
+    "score": 16,
+    "pubdate": "2025-10-22-22-09-58 +0000",
+    "source": "latimes",
+    "headline": "Federal agents heading to San Francisco — an attempt by Trump to invoke chaos, Newsom says",
+    "link": "https://www.latimes.com/california/story/2025-10-22/trump-administration-sending-federal-agents-to-san-francisco"
   },
   {
     "score": 16,
-    "pubdate": "2025-10-22-21-03-53 +0000",
+    "pubdate": "2025-10-22-22-28-10 +0000",
     "source": "nyt",
-    "headline": "What’s Left to Be Done in the Gaza Cease-Fire Deal",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010457972/whats-left-to-be-done-in-the-gaza-cease-fire-deal.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-10-22-21-45-05 +0000",
-    "source": "bbc",
-    "headline": "Trump says 'existing structure' of White House East Wing to be torn down",
-    "link": "https://www.bbc.com/news/articles/czxn7lwzx5po?at_medium=RSS&at_campaign=rss"
+    "headline": "London Woman Fined After Pouring Coffee in Drain Gets a Break",
+    "link": "https://www.nytimes.com/2025/10/22/world/europe/woman-pours-coffee-down-drain-fine.html"
   }
 ]
