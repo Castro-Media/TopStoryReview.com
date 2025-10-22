@@ -1,52 +1,38 @@
 [
   {
-    "score": 185,
-    "pubdate": "2025-10-21-17-27-00 +0000",
-    "source": "wsj",
-    "headline": "Key Senate Republicans are calling for the withdrawal of President Trump’s nominee to lead a White House ethics-watchdog office following a report that he made racist and antisemitic comments",
-    "link": "https://www.wsj.com/politics/policy/paul-ingrassia-trump-nominee-716b875f"
+    "score": 152,
+    "pubdate": "2025-10-21-17-39-21 +0000",
+    "source": "nyt",
+    "headline": "Latest Trump-Zelensky Meeting Yields No Progress Toward a Cease-fire in Ukraine",
+    "link": "https://www.nytimes.com/2025/10/21/world/europe/ukraine-russia-trump-zelensky-meeting.html"
   },
   {
-    "score": 130,
+    "score": 108,
     "pubdate": "2025-10-21-22-12-51 +0000",
     "source": "nyt",
     "headline": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
     "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
   },
   {
-    "score": 63,
-    "pubdate": "2025-10-20-23-00-00 +0000",
+    "score": 89,
+    "pubdate": "2025-10-21-23-38-00 +0000",
     "source": "wsj",
-    "headline": "Business and political leaders have intensified pressure on Curtis Sliwa to drop out of New York’s mayoral race, seeking to avert a win by current front-runner Zohran Mamdani",
-    "link": "https://www.wsj.com/politics/elections/nyc-mayoral-election-curtis-sliwa-drop-out-pressure-d354355e"
+    "headline": "Paul Ingrassia withdrew Tuesday from a Senate confirmation hearing to lead a White House ethics watchdog office, following a report that he made racist and antisemitic comments in a text chain",
+    "link": "https://www.wsj.com/politics/policy/paul-ingrassia-trump-nominee-716b875f"
   },
   {
-    "score": 63,
-    "pubdate": "2025-10-21-04-53-16 +0000",
-    "source": "wapo",
-    "headline": "Japan elects first female leader, a hawk who promotes ‘Japan First’",
-    "link": "https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-10-21-13-32-06 +0000",
-    "source": "nyt",
-    "headline": "Suspect Charged in Paris Museum Heist (No, Not That One)",
-    "link": "https://www.nytimes.com/2025/10/21/world/europe/france-museum-theft-gold-nugget-arrest.html"
-  },
-  {
-    "score": 56,
+    "score": 66,
     "pubdate": "2025-10-21-13-25-26 +0000",
     "source": "nypost",
     "headline": "Former French President Sarkozy begins 5-year sentence, brings sweaters because prison is cold: lawyer",
     "link": "https://nypost.com/2025/10/21/world-news/former-french-president-sarkozy-begins-5-year-sentence-for-campaign-finance-conspiracy/"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-21-17-02-40 +0000",
-    "source": "nypost",
-    "headline": "Top Trump adviser boldly predicts Democrats will agree to end government shutdown this week",
-    "link": "https://nypost.com/2025/10/21/us-news/top-trump-adviser-predicts-democrats-will-agree-to-end-government-shutdown-this-week/"
+    "score": 62,
+    "pubdate": "2025-10-21-04-53-16 +0000",
+    "source": "wapo",
+    "headline": "Japan elects first female leader, a hawk who promotes ‘Japan First’",
+    "link": "https://www.washingtonpost.com/world/2025/10/20/japan-prime-minister-sanae-takaichi/"
   },
   {
     "score": 55,
@@ -56,6 +42,13 @@
     "link": "https://nypost.com/2025/10/21/world-news/hamas-to-release-bodies-of-two-more-dead-hostages-as-vance-warns-return-of-all-wont-happen-overnight/"
   },
   {
+    "score": 53,
+    "pubdate": "2025-10-21-22-11-36 +0000",
+    "source": "nyt",
+    "headline": "Paris Tour Guide Saw Stolen Louvre Jewels Just Before Heist",
+    "link": "https://www.nytimes.com/2025/10/21/style/louvre-heist-jewels-tour-guide.html"
+  },
+  {
     "score": 49,
     "pubdate": "2025-10-21-19-52-08 +0000",
     "source": "bbc",
@@ -63,7 +56,14 @@
     "link": "https://www.bbc.com/news/articles/c4gp9lqzkpzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
+    "score": 48,
+    "pubdate": "2025-10-21-18-19-52 +0000",
+    "source": "nyt",
+    "headline": "How Trump Reprogrammed Funds to Pay Some Workers During the Government Shutdown",
+    "link": "https://www.nytimes.com/2025/10/21/us/politics/trump-shutdown-pay.html"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-10-21-02-08-08 +0000",
     "source": "bbc",
     "headline": "US and Australia sign rare earths deal to counter China's dominance",
