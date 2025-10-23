@@ -1,6 +1,6 @@
 [
   {
-    "score": 193,
+    "score": 195,
     "pubdate": "2025-10-23-03-10-21 +0000",
     "source": "nypost",
     "headline": "Entire White House East Wing will be demolished to make way for ballroom – as Trump reveals new price tag for the project",
@@ -14,18 +14,25 @@
     "link": "https://nypost.com/2025/10/22/us-news/andrew-cuomo-mocks-zohran-mamdani-over-anti-israel-stance-during-nyc-mayoral-debate/"
   },
   {
-    "score": 90,
+    "score": 97,
     "pubdate": "2025-10-22-22-47-41 +0000",
     "source": "wapo",
     "headline": "U.S. imposes sanctions on Russian oil companies after strikes on Ukraine kill 7",
     "link": "https://www.washingtonpost.com/world/2025/10/22/ukraine-russia-war-summit-trump-suspension/"
   },
   {
-    "score": 69,
+    "score": 71,
     "pubdate": "2025-10-23-02-41-32 +0000",
     "source": "nypost",
     "headline": "Mom of 4 shot dead by ‘obsessed’ ex-boyfriend who kidnapped 1-year-old daughter — before he was killed by cop",
     "link": "https://nypost.com/2025/10/22/world-news/young-mom-of-4-shot-dead-by-ex-boyfriend-who-kidnapped-1-year-old-daughter-before-he-was-killed-by-cop/"
+  },
+  {
+    "score": 61,
+    "pubdate": "2025-10-22-20-05-16 +0000",
+    "source": "bbc",
+    "headline": "No camera covered Louvre wall where jewel thieves broke in, director says",
+    "link": "https://www.bbc.com/news/articles/c9d6e2wv884o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 60,
@@ -35,6 +42,13 @@
     "link": "https://www.wsj.com/politics/policy/israel-us-officials-visit-gaza-peace-deal-eb4186be"
   },
   {
+    "score": 57,
+    "pubdate": "2025-10-23-00-36-29 +0000",
+    "source": "bbc",
+    "headline": "US forces kill two in strike on alleged drug boat in the Pacific",
+    "link": "https://www.bbc.com/news/articles/cd9k2w8ell0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 55,
     "pubdate": "2025-10-22-15-43-53 +0000",
     "source": "nypost",
@@ -42,31 +56,17 @@
     "link": "https://nypost.com/2025/10/22/us-news/why-nj-gov-poll-that-shows-mikie-sherrill-up-5-points-is-actually-really-bad-news-for-her/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-23-00-36-29 +0000",
-    "source": "bbc",
-    "headline": "US forces kill two in strike on alleged drug boat in the Pacific",
-    "link": "https://www.bbc.com/news/articles/cd9k2w8ell0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 54,
+    "score": 53,
     "pubdate": "2025-10-22-18-46-50 +0000",
     "source": "nyt",
     "headline": "The U.S. Struggles to Break Out From China’s Grip on Rare Earths",
     "link": "https://www.nytimes.com/2025/10/22/us/politics/china-trump-rare-earths.html"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-22-22-08-46 +0000",
+    "score": 49,
+    "pubdate": "2025-10-22-20-16-45 +0000",
     "source": "nypost",
-    "headline": "Elon Musk’s Tesla disappoints investors despite record sales as profit dented by higher costs, fading credits",
-    "link": "https://nypost.com/2025/10/22/business/elon-musks-tesla-disappoints-investors-despite-record-sales/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-10-22-09-12-43 +0000",
-    "source": "nypost",
-    "headline": "US tourists describe ‘very scary’ moment Louvre Museum thieves pulled off daytime jewel heist",
-    "link": "https://nypost.com/2025/10/22/world-news/us-tourists-describe-very-scary-moment-louvre-museum-thieves-pulled-off-daytime-jewel-heist/"
+    "headline": "GM embraces AI with plans to use ‘eyes-off’ driving, other high-tech features for 2026 vehicle lineup",
+    "link": "https://nypost.com/2025/10/22/business/gm-embraces-ai-with-plans-to-use-eyes-off-driving-other-high-tech-features-for-2026-vehicle-lineup/"
   }
 ]
