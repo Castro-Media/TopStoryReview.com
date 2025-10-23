@@ -1,13 +1,20 @@
 [
   {
-    "score": 388,
+    "score": 398,
+    "pubdate": "2025-10-19-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: This Las Vegas Republican had high hopes for Trump. But a 'Trump slump' made life worse",
+    "link": "https://www.latimes.com/politics/story/2025-10-19/trumps-america-las-vegas-lagging-economy-struggling-food-server"
+  },
+  {
+    "score": 223,
     "pubdate": "2025-10-23-08-18-00 +0000",
     "source": "wsj",
     "headline": "Targeting one of Russia’s largest sources of revenue, the Trump administration is imposing substantial new sanctions on Russian oil giants Lukoil and Rosneft",
     "link": "https://www.wsj.com/politics/policy/bessent-u-s-to-impose-substantial-sanctions-on-russia-84132054"
   },
   {
-    "score": 201,
+    "score": 199,
     "pubdate": "2025-10-22-03-11-49 +0000",
     "source": "nyt",
     "headline": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
@@ -21,7 +28,7 @@
     "link": "https://www.wsj.com/politics/elections/zohran-mamdani-affordability-nyc-mayor-c1e2a398"
   },
   {
-    "score": 130,
+    "score": 129,
     "pubdate": "2025-10-17-23-20-00 +0000",
     "source": "wsj",
     "headline": "Kurt Olsen, a lawyer who worked on the ’Stop the Steal’ effort to overturn the 2020 election results, has joined the Trump White House to investigate that year’s election and voting-related issues, according to people familiar with the matter",
@@ -35,38 +42,31 @@
     "link": "https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763"
   },
   {
-    "score": 119,
+    "score": 117,
     "pubdate": "2025-10-16-20-59-00 +0000",
     "source": "wsj",
     "headline": "The four-star U.S. Navy admiral in charge of U.S. Southern Command will step down as the Trump administration ramps up its military campaign against alleged drug traffickers in Latin America",
     "link": "https://www.wsj.com/politics/national-security/head-of-u-s-southern-command-to-step-down-at-years-end-2d3d66ed"
   },
   {
-    "score": 116,
-    "pubdate": "2025-10-23-05-03-29 +0000",
-    "source": "nypost",
-    "headline": "Heroic police officer, 25, killed while responding to fatal California highway crash days after her birthday",
-    "link": "https://nypost.com/2025/10/23/us-news/california-police-officer-lauren-craven-killed-in-san-diego-fatal-crash/"
-  },
-  {
-    "score": 97,
-    "pubdate": "2025-10-22-22-09-32 +0000",
-    "source": "bbc",
-    "headline": "Myanmar's army is taking back territory with relentless air strikes - and China's help",
-    "link": "https://www.bbc.com/news/articles/c051m0jn392o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 97,
+    "score": 101,
     "pubdate": "2025-10-22-20-36-30 +0000",
     "source": "nyt",
     "headline": "Zelensky Says Russian Strike on School Shows Putin Isn’t Serious About Ukraine Talks",
     "link": "https://www.nytimes.com/2025/10/22/world/europe/russia-ukraine-putin-trump.html"
   },
   {
-    "score": 91,
-    "pubdate": "2025-10-21-21-40-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration is planning to release more than $3 billion in aid to U.S. farmers that had been frozen as a result of the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-to-release-farm-aid-frozen-by-shutdown-e338d9ce"
+    "score": 99,
+    "pubdate": "2025-10-21-23-22-38 +0000",
+    "source": "latimes",
+    "headline": "California officer, 25, is struck and killed as she stops to help at freeway crash site",
+    "link": "https://www.latimes.com/california/story/2025-10-21/25-year-old-officer-killed-by-vehicle-while-assisting-motorists-in-san-diego"
+  },
+  {
+    "score": 92,
+    "pubdate": "2025-10-19-22-46-24 +0000",
+    "source": "bbc",
+    "headline": "China will soon have a new Five Year Plan. Here's how they have changed the world so far",
+    "link": "https://www.bbc.com/news/articles/cjr045x425vo?at_medium=RSS&at_campaign=rss"
   }
 ]
