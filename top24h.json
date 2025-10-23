@@ -1,31 +1,31 @@
 [
   {
-    "score": 252,
+    "score": 249,
     "pubdate": "2025-10-23-08-18-00 +0000",
     "source": "wsj",
     "headline": "Targeting one of Russia’s largest sources of revenue, the Trump administration is imposing substantial new sanctions on Russian oil giants Lukoil and Rosneft",
     "link": "https://www.wsj.com/politics/policy/bessent-u-s-to-impose-substantial-sanctions-on-russia-84132054"
   },
   {
-    "score": 94,
+    "score": 90,
     "pubdate": "2025-10-23-15-57-00 +0000",
     "source": "wsj",
     "headline": "New York City Mayor Eric Adams will endorse Andrew Cuomo in the city’s mayoral race",
     "link": "https://www.wsj.com/politics/elections/eric-adams-to-endorse-cuomo-for-new-york-city-mayor-cbf2d5e7"
   },
   {
-    "score": 77,
-    "pubdate": "2025-10-23-01-26-00 +0000",
-    "source": "wsj",
-    "headline": "A high-level relay of U.S. officials has been descending on Israel, with the goal of ensuring the cease-fire deal in Gaza doesn’t fall apart",
-    "link": "https://www.wsj.com/politics/policy/israel-us-officials-visit-gaza-peace-deal-eb4186be"
-  },
-  {
-    "score": 77,
+    "score": 76,
     "pubdate": "2025-10-23-16-31-00 +0000",
     "source": "wsj",
     "headline": "Darren Bailey, a Republican candidate for governor of Illinois, lost four members of his family in a helicopter crash in Montana, according to his campaign",
     "link": "https://www.wsj.com/us-news/montana-helicopter-crash-darren-bailey-family-6939f662"
+  },
+  {
+    "score": 76,
+    "pubdate": "2025-10-23-01-26-00 +0000",
+    "source": "wsj",
+    "headline": "A high-level relay of U.S. officials has been descending on Israel, with the goal of ensuring the cease-fire deal in Gaza doesn’t fall apart",
+    "link": "https://www.wsj.com/politics/policy/israel-us-officials-visit-gaza-peace-deal-eb4186be"
   },
   {
     "score": 74,
@@ -35,25 +35,18 @@
     "link": "https://www.wsj.com/politics/policy/white-house-east-wing-construction-ballroom-19f36199"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2025-10-23-02-41-32 +0000",
     "source": "nypost",
     "headline": "Mom of 4 shot dead by ‘obsessed’ ex-boyfriend who kidnapped 1-year-old daughter — before he was killed by cop",
     "link": "https://nypost.com/2025/10/22/world-news/young-mom-of-4-shot-dead-by-ex-boyfriend-who-kidnapped-1-year-old-daughter-before-he-was-killed-by-cop/"
   },
   {
-    "score": 68,
+    "score": 67,
     "pubdate": "2025-10-22-20-36-30 +0000",
     "source": "nyt",
     "headline": "Zelensky Says Russian Strike on School Shows Putin Isn’t Serious About Ukraine Talks",
     "link": "https://www.nytimes.com/2025/10/22/world/europe/russia-ukraine-putin-trump.html"
-  },
-  {
-    "score": 61,
-    "pubdate": "2025-10-22-20-11-34 +0000",
-    "source": "nypost",
-    "headline": "Top Wall Street investor warns Zohran Mamdani’s rent control plan will decimate NYC’s housing market",
-    "link": "https://nypost.com/2025/10/22/business/top-wall-street-investor-warns-mamdanis-uneconomic-rent-freeze-plans-will-choke-off-new-housing-supply/"
   },
   {
     "score": 61,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "King Charles, Pope Leo pray together in rare moment that hasn’t happened in nearly 500 years",
     "link": "https://nypost.com/2025/10/23/world-news/king-charles-pope-leo-pray-together-in-rare-moment-that-hasnt-happened-in-nearly-500-years/"
+  },
+  {
+    "score": 56,
+    "pubdate": "2025-10-22-20-11-34 +0000",
+    "source": "nypost",
+    "headline": "Top Wall Street investor warns Zohran Mamdani’s rent control plan will decimate NYC’s housing market",
+    "link": "https://nypost.com/2025/10/22/business/top-wall-street-investor-warns-mamdanis-uneconomic-rent-freeze-plans-will-choke-off-new-housing-supply/"
   }
 ]
