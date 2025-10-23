@@ -1,17 +1,10 @@
 [
   {
-    "score": 176,
+    "score": 175,
     "pubdate": "2025-10-22-20-58-00 +0000",
     "source": "wsj",
     "headline": "President Trump has privately told allies he believes Democrat Zohran Mamdani is unbeatable in the New York City mayor’s race, according to people familiar with the matter",
     "link": "https://www.wsj.com/politics/elections/trump-zohran-mamdani-nyc-mayor-election-ae987565"
-  },
-  {
-    "score": 104,
-    "pubdate": "2025-10-22-03-11-49 +0000",
-    "source": "nyt",
-    "headline": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
-    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
   },
   {
     "score": 92,
@@ -21,11 +14,11 @@
     "link": "https://www.washingtonpost.com/world/2025/10/22/ukraine-russia-war-summit-trump-suspension/"
   },
   {
-    "score": 65,
-    "pubdate": "2025-10-22-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "Biden’s cognitive decline emboldened Putin to invade Ukraine, Sen. John Kennedy tells ‘Pod Force One’",
-    "link": "https://nypost.com/2025/10/22/us-news/bidens-decline-emboldened-putin-to-invade-ukraine-sen-john-kennedy-tells-pod-force-one/"
+    "score": 80,
+    "pubdate": "2025-10-23-01-26-00 +0000",
+    "source": "wsj",
+    "headline": "A high-level relay of U.S. officials has been descending on Israel, with the goal of ensuring the cease-fire deal in Gaza doesn’t fall apart",
+    "link": "https://www.wsj.com/politics/policy/israel-us-officials-visit-gaza-peace-deal-eb4186be"
   },
   {
     "score": 65,
@@ -33,6 +26,13 @@
     "source": "wsj",
     "headline": "Paul Ingrassia withdrew Tuesday from a Senate confirmation hearing to lead a White House ethics watchdog office, following a report that he made racist and antisemitic comments in a text chain",
     "link": "https://www.wsj.com/politics/policy/paul-ingrassia-trump-nominee-716b875f"
+  },
+  {
+    "score": 65,
+    "pubdate": "2025-10-22-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Biden’s cognitive decline emboldened Putin to invade Ukraine, Sen. John Kennedy tells ‘Pod Force One’",
+    "link": "https://nypost.com/2025/10/22/us-news/bidens-decline-emboldened-putin-to-invade-ukraine-sen-john-kennedy-tells-pod-force-one/"
   },
   {
     "score": 62,
@@ -49,13 +49,6 @@
     "link": "https://www.bbc.com/news/articles/cd9k2w8ell0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-22-20-16-45 +0000",
-    "source": "nypost",
-    "headline": "GM embraces AI with plans to use ‘eyes-off’ driving, other high-tech features for 2026 vehicle lineup",
-    "link": "https://nypost.com/2025/10/22/business/gm-embraces-ai-with-plans-to-use-eyes-off-driving-other-high-tech-features-for-2026-vehicle-lineup/"
-  },
-  {
     "score": 55,
     "pubdate": "2025-10-22-22-08-46 +0000",
     "source": "nypost",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "America’s most infamous jewel thief slams Louvre robbers as ‘idiots’ — and reveals shocking way they could have smuggled gems out of Paris",
     "link": "https://nypost.com/2025/10/22/lifestyle/infamous-jewel-thief-slams-louvre-robbers-as-idiots-and-reveals-shocking-way-they-could-have-smuggled-gems-out-of-paris/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-10-22-15-43-53 +0000",
+    "source": "nypost",
+    "headline": "Why NJ gov poll that shows Mikie Sherrill up 5 points is actually really bad news for her",
+    "link": "https://nypost.com/2025/10/22/us-news/why-nj-gov-poll-that-shows-mikie-sherrill-up-5-points-is-actually-really-bad-news-for-her/"
   }
 ]
