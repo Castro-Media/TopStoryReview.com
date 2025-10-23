@@ -1,38 +1,296 @@
 [
   {
+    "headline": "Trump Administration Cuts Cyberdefense Even as Threats Grow",
+    "link": "https://www.nytimes.com/2025/10/22/us/politics/trump-cyber-threats.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-54-08 +0000"
+  },
+  {
+    "headline": "Rose Byrne on the Lynchian winks of ‘If I Had Legs I’d Kick You’",
+    "link": "https://48hills.org/2025/10/rose-byrne-on-the-lynchian-winks-of-if-i-had-legs-id-kick-you/",
+    "source": "48hills",
+    "pubdate": "2025-10-23-14-53-04 +0000"
+  },
+  {
+    "headline": "King Charles and Pope Leo Pray Together in Groundbreaking Moment",
+    "link": "https://www.nytimes.com/2025/10/23/world/europe/king-charles-pope-leo-praying.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-52-17 +0000"
+  },
+  {
+    "headline": "Louvre director acknowledges ‘terrible failure’ after jewel heist — and offers to resign",
+    "link": "https://nypost.com/2025/10/23/world-news/louvre-director-acknowledges-failure-after-jewel-heist-offered-to-resign/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-14-52-03 +0000"
+  },
+  {
+    "headline": "Sanae Takaichi is Japan’s New Prime Minister, and She’s a Heavy Metal Drummer",
+    "link": "https://www.nytimes.com/2025/10/21/world/asia/sanae-takaichi-japan-prime-minister.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-49-55 +0000"
+  },
+  {
+    "headline": "Trump Administration in Talks to Take Equity Stakes in Quantum-Computing Firms",
+    "link": "https://www.wsj.com/business/entrepreneurship/trump-administration-in-talks-to-take-equity-stakes-in-quantum-computing-firms-60ee5143?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-23-14-46-00 +0000"
+  },
+  {
+    "headline": "Trump Administration in Talks to Take Equity Stakes in Quantum-Computing Firms",
+    "link": "https://www.wsj.com/business/entrepreneurship/trump-administration-in-talks-to-take-equity-stakes-in-quantum-computing-firms-60ee5143?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-23-14-46-00 +0000"
+  },
+  {
+    "headline": "Portland Trail Blazers’ Chauncey Billups and Miami Heat’s Terry Rozier among dozens arrested in gambling probe tied to the Mafia",
+    "link": "https://www.startribune.com/portland-trail-blazers-chauncey-billups-and-miami-heats-terry-rozier-arrested-in-gambling-probe-sources-say/601499950",
+    "source": "startribune",
+    "pubdate": "2025-10-23-14-44-16 +0000"
+  },
+  {
+    "headline": "Family Health Insurance Coverage Nears $27,000 a Year",
+    "link": "https://www.nytimes.com/2025/10/22/health/health-insurance-costs-2025.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-42-53 +0000"
+  },
+  {
+    "headline": "Not guilty verdict for Soldier F in Bloody Sunday murder trial",
+    "link": "https://www.bbc.com/news/articles/c993nlken18o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-23-14-40-52 +0000"
+  },
+  {
+    "headline": "Helicopter Crash Kills Four Family Members of Illinois Republican Gubernatorial Candidate",
+    "link": "https://www.wsj.com/us-news/illinois-darren-bailey-family-helicopter-crash-montana-6939f662",
+    "source": "wsj",
+    "pubdate": "2025-10-23-14-39-00 +0000"
+  },
+  {
+    "headline": "Darren Bailey, a Republican candidate for governor of Illinois, lost four members of his family in a helicopter crash in Montana, according to his campaign",
+    "link": "https://www.wsj.com/us-news/illinois-darren-bailey-family-helicopter-crash-montana-6939f662",
+    "source": "wsj",
+    "pubdate": "2025-10-23-14-39-00 +0000"
+  },
+  {
+    "headline": "Trump says ‘I will’ visit Gaza, calls ‘respect’  for president ‘most important factor’ in peace deal",
+    "link": "https://nypost.com/2025/10/23/us-news/trump-says-i-will-visit-gaza-calls-respect-for-president-most-important-factor-in-peace-deal/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-14-38-47 +0000"
+  },
+  {
+    "headline": "Trump says ‘I will’ visit Gaza, calls ‘respect’  for president ‘most important factor’ in peace deal",
+    "link": "https://nypost.com/2025/10/23/us-news/trump-says-i-will-visit-gaza-calls-respect-for-president-most-important-factor-in-peace-deal/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-14-38-47 +0000"
+  },
+  {
+    "headline": "Soo Catwoman, ‘the Female Face of Punk,’ Is Dead at 70",
+    "link": "https://www.nytimes.com/2025/10/22/fashion/soo-catwoman-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-33-24 +0000"
+  },
+  {
+    "headline": "Warner Bros. Discovery launches formal auction as it seeks bidding war for media giant: sources",
+    "link": "https://nypost.com/2025/10/23/business/warner-bros-discovery-launches-formal-auction-of-media-giant-sources/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-14-30-10 +0000"
+  },
+  {
+    "headline": "Feds, province to spend $3B on mini nuclear power plant in Bowmanville, Ont.",
+    "link": "https://www.cbc.ca/news/canada/toronto/carney-ford-announce-smr-spending-9.6949828?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-23-14-28-38 +0000"
+  },
+  {
+    "headline": "Home sales rose in September to a seven-month high after buyers seized on declining mortgage rates",
+    "link": "https://www.wsj.com/economy/housing/home-sales-in-september-rose-boosted-by-falling-mortgage-rates-97ba9261",
+    "source": "wsj",
+    "pubdate": "2025-10-23-14-28-00 +0000"
+  },
+  {
+    "headline": "She Worked on Tsunami Alerts. Then She Was Fired.",
+    "link": "https://www.nytimes.com/2025/10/23/climate/tsunami-warnings-alerts-noaa.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-26-49 +0000"
+  },
+  {
+    "headline": "Britain’s Got Talent phenom Susan Boyle stuns fans with unrecognizable new look",
+    "link": "https://nypost.com/2025/10/23/entertainment/susan-boyle-stuns-fans-with-unrecognizable-new-look/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-14-26-34 +0000"
+  },
+  {
+    "headline": "Former UK teacher arrested on sex abuse charges in South Africa",
+    "link": "https://www.bbc.com/news/articles/cp85kngeke4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-23-14-25-36 +0000"
+  },
+  {
+    "headline": "New Sanctions Aim at Heart of Russia’s Economy, but Russia Has Prepared",
+    "link": "https://www.nytimes.com/2025/10/23/world/europe/russia-trump-oil-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-21-16 +0000"
+  },
+  {
+    "headline": "New Sanctions Aim at Heart of Russia’s Economy, but Russia Has Prepared",
+    "link": "https://www.nytimes.com/2025/10/23/world/europe/russia-trump-oil-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-21-16 +0000"
+  },
+  {
+    "headline": "New Sanctions Aim at Heart of Russia’s Economy, but Russia Has Prepared",
+    "link": "https://www.nytimes.com/2025/10/23/world/europe/russia-trump-oil-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-21-16 +0000"
+  },
+  {
+    "headline": "New Sanctions Aim at Heart of Russia’s Economy, but Russia Has Prepared",
+    "link": "https://www.nytimes.com/2025/10/23/world/europe/russia-trump-oil-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-21-16 +0000"
+  },
+  {
+    "headline": "King Charles and Pope Leo Pray Together in Groundbreaking Moment",
+    "link": "https://www.nytimes.com/2025/10/23/world/europe/king-charles-pope-leo-praying.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-21-15 +0000"
+  },
+  {
+    "headline": "Tropical Storm Melissa kills elderly man in Haiti as it lumbers through Caribbean",
+    "link": "https://www.cbc.ca/news/world/hurricane-melissa-caribbean-9.6949916?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-23-14-19-03 +0000"
+  },
+  {
+    "headline": "Rosenberg: Trump abandons carrot and wields stick over Putin in Ukraine talks",
+    "link": "https://www.bbc.com/news/articles/cnve5532v7yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-23-14-18-28 +0000"
+  },
+  {
+    "headline": "Nigerian separatist leader sacks lawyers at start of his defence in court",
+    "link": "https://www.bbc.com/news/articles/ce864vqr564o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-23-14-16-55 +0000"
+  },
+  {
+    "headline": "JB Pritzker Creates Watchdog for Federal Immigration Actions in Illinois",
+    "link": "https://www.wsj.com/us-news/jb-pritzker-creates-watchdog-for-federal-immigration-actions-in-illinois-174f4ab7",
+    "source": "wsj",
+    "pubdate": "2025-10-23-14-16-00 +0000"
+  },
+  {
+    "headline": "Minnesota native and stylist to Hollywood stars dishes on Prince and fashion",
+    "link": "https://www.startribune.com/chaise-dennis-styles-severance-actor-tramell-tillman-and-celebrities/601489955",
+    "source": "startribune",
+    "pubdate": "2025-10-23-14-14-12 +0000"
+  },
+  {
     "headline": "4 Members of Illinois Politician Darren Bailey’s Family Are Killed in Helicopter Crash",
     "link": "https://www.nytimes.com/2025/10/23/us/politics/darren-bailey-family-helicopter-crash-montana.html",
     "source": "nyt",
-    "pubdate": "2025-10-23-13-05-13 +0000"
+    "pubdate": "2025-10-23-14-12-46 +0000"
   },
   {
-    "headline": "Portland Trail Blazers coach Chauncey Billups arrested over alleged organized crime-tied poker scheme",
-    "link": "https://nypost.com/2025/10/23/us-news/portland-trail-blazers-coach-chauncey-billups-arrested-in-alleged-poker-scheme/",
-    "source": "nypost",
-    "pubdate": "2025-10-23-13-00-27 +0000"
-  },
-  {
-    "headline": "Under Trump, National Symphony Opens Concerts With the National Anthem",
-    "link": "https://www.nytimes.com/2025/10/23/arts/music/kennedy-center-national-anthem.html",
+    "headline": "4 Members of Illinois Politician Darren Bailey’s Family Are Killed in Helicopter Crash",
+    "link": "https://www.nytimes.com/2025/10/23/us/politics/darren-bailey-family-helicopter-crash-montana.html",
     "source": "nyt",
-    "pubdate": "2025-10-23-13-00-05 +0000"
+    "pubdate": "2025-10-23-14-12-46 +0000"
   },
   {
-    "headline": "Baseball player",
-    "link": "https://missionlocal.org/2025/10/sf-photos-baseball-player/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-23-13-00-00 +0000"
+    "headline": "A Curious Collaboration Between Prisoners and the Military at Guantánamo",
+    "link": "https://www.nytimes.com/2025/10/23/us/politics/guantanamo-prisoners-portraits.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-11-25 +0000"
   },
   {
-    "headline": "Live updates: Trump deploys federal agents to the Bay Area",
+    "headline": "A Curious Collaboration Between Prisoners and the Military at Guantánamo",
+    "link": "https://www.nytimes.com/2025/10/23/us/politics/guantanamo-prisoners-portraits.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-11-25 +0000"
+  },
+  {
+    "headline": "U.S. May Seek United Nations Mandate for Gaza Security Force, Rubio Says",
+    "link": "https://www.nytimes.com/2025/10/23/world/middleeast/rubio-israel-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-08-11 +0000"
+  },
+  {
+    "headline": "U.S. May Seek United Nations Mandate for Gaza Security Force, Rubio Says",
+    "link": "https://www.nytimes.com/2025/10/23/world/middleeast/rubio-israel-gaza.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-08-11 +0000"
+  },
+  {
+    "headline": "Three Offers in One Month: Paramount’s Secret Pursuit of Warner Bros. Discovery",
+    "link": "https://www.nytimes.com/2025/10/22/business/dealbook/paramounts-secret-bids-warner-bros-discovery.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-07-46 +0000"
+  },
+  {
+    "headline": "U.S. Sanctions on Russian Oil Could Push India to Stop Buying It",
+    "link": "https://www.nytimes.com/2025/10/23/business/russia-india-oil-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-06-32 +0000"
+  },
+  {
+    "headline": "Dollar Strengthens Ahead of CPI",
+    "link": "https://www.wsj.com/articles/asian-currencies-consolidate-risk-off-sentiment-may-weigh-b5493777?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-23-14-05-00 +0000"
+  },
+  {
+    "headline": "Republican gubernatorial hopeful Darren Bailey mourns son, daughter-in-law, two grandchildren after Montana helicopter crash",
+    "link": "https://nypost.com/2025/10/23/us-news/darren-bailey-mourns-son-daughter-in-law-grandkids-after-montana-helicopter-crash/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-14-00-28 +0000"
+  },
+  {
+    "headline": "Republican gubernatorial hopeful Darren Bailey mourns son, daughter-in-law, two grandchildren after Montana helicopter crash",
+    "link": "https://nypost.com/2025/10/23/us-news/darren-bailey-mourns-son-daughter-in-law-grandkids-after-montana-helicopter-crash/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-14-00-28 +0000"
+  },
+  {
+    "headline": "The White House Wrecking Ball",
+    "link": "https://www.nytimes.com/2025/10/22/us/politics/trump-white-house-demolition.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-00-25 +0000"
+  },
+  {
+    "headline": "The White House Wrecking Ball",
+    "link": "https://www.nytimes.com/2025/10/22/us/politics/trump-white-house-demolition.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-00-25 +0000"
+  },
+  {
+    "headline": "Trump Is Seeking $230 Million From the Justice Dept.",
+    "link": "https://www.nytimes.com/video/us/politics/100000010470822/trump-is-seeking-230-million-from-the-justice-dept.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-00-05 +0000"
+  },
+  {
+    "headline": "Trump Is Seeking $230 Million From the Justice Dept.",
+    "link": "https://www.nytimes.com/video/us/politics/100000010470822/trump-is-seeking-230-million-from-the-justice-dept.html",
+    "source": "nyt",
+    "pubdate": "2025-10-23-14-00-05 +0000"
+  },
+  {
+    "headline": "Live updates: Border agents arrive in Bay Area, tear gas launched",
     "link": "https://missionlocal.org/2025/10/ice-agents-sf-bay-area/",
     "source": "missionlocal",
-    "pubdate": "2025-10-23-13-00-00 +0000"
+    "pubdate": "2025-10-23-14-00-00 +0000"
   },
   {
-    "headline": "Macy’s Employs Warehouse Robots to Speed Up Deliveries",
-    "link": "https://www.wsj.com/articles/macys-employs-warehouse-robots-to-speed-up-deliveries-81385a14?mod=pls_whats_news_us_business_f",
+    "headline": "Hollywood Sees Big Opportunity in Tiny Dramas",
+    "link": "https://www.wsj.com/business/media/hollywood-sees-big-opportunity-in-tiny-dramas-aa333984?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-10-23-13-00-00 +0000"
+    "pubdate": "2025-10-23-14-00-00 +0000"
+  },
+  {
+    "headline": "Tesla recalls over 63K Cybertrucks over parking light issue that could increase risk of crash",
+    "link": "https://nypost.com/2025/10/23/business/tesla-recalls-over-63k-cybertrucks-over-parking-light-issue-that-could-increase-risk-of-crash/",
+    "source": "nypost",
+    "pubdate": "2025-10-23-13-56-03 +0000"
   }
 ]
