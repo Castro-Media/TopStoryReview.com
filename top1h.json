@@ -1,51 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2025-10-24-13-00-06 +0000",
-    "source": "wapo",
-    "headline": "Rubio warns there is ‘no plan B’ as Trump’s Gaza deal faces fresh hurdles",
-    "link": "https://www.washingtonpost.com/world/2025/10/24/israel-hamas-gaza-war-ceasefire-rubio/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-24-13-00-07 +0000",
+    "score": 60,
+    "pubdate": "2025-10-24-14-47-22 +0000",
     "source": "nyt",
-    "headline": "Comparing Savings Accounts and CDs Before the Fed Looks at a Possible Rate Cut",
-    "link": "https://www.nytimes.com/2025/10/24/business/interest-rates-cds-savings-accounts.html"
+    "headline": "Trump Says He’s Cutting Off Trade Negotiations With Canada",
+    "link": "https://www.nytimes.com/2025/10/23/us/politics/trump-trade-negotiation-canada.html"
   },
   {
-    "score": 9,
-    "pubdate": "2025-10-24-13-01-00 +0000",
-    "source": "wsj",
-    "headline": "Alaska Airlines Works to Restore Operations After Tech Outage Grounds Flights",
-    "link": "https://www.wsj.com/business/airlines/alaska-airlines-grounds-flights-due-to-tech-outage-844dc044?mod=pls_whats_news_us_business_f"
+    "score": 29,
+    "pubdate": "2025-10-24-14-43-59 +0000",
+    "source": "bbc",
+    "headline": "Six dead in US strikes on alleged Tren de Aragua drug traffickers in Caribbean",
+    "link": "https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-24-12-58-00 +0000",
-    "source": "wsj",
-    "headline": "Beyond Meat Expects Impairment Charge, Revenue In Line With Target",
-    "link": "https://www.wsj.com/business/retail/beyond-meat-expects-impairment-charge-revenue-in-line-with-target-b484c86f?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-10-24-13-02-40 +0000",
+    "score": 28,
+    "pubdate": "2025-10-24-14-04-29 +0000",
     "source": "nyt",
-    "headline": "Social Security Announces a 2.8% Cost-of-Living Increase for Beneficiaries",
-    "link": "https://www.nytimes.com/2025/10/24/business/social-security-cola-cost-of-living.html"
+    "headline": "U.S. Diplomats Will Work With Troops to Maintain Gaza Cease-Fire, Rubio Says",
+    "link": "https://www.nytimes.com/2025/10/24/world/middleeast/gaza-ceasefire-israel-hamas-rubio-us.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-10-24-13-00-06 +0000",
-    "source": "nyt",
-    "headline": "Bonds Should Be Boring. But They’ve Been on a Roller Coaster.",
-    "link": "https://www.nytimes.com/2025/10/24/business/bonds-trump-market-stocks-investing.html"
+    "score": 22,
+    "pubdate": "2025-10-24-14-46-42 +0000",
+    "source": "nypost",
+    "headline": "White House trolls Dems over ballroom drama with Hunter Biden scandal timeline",
+    "link": "https://nypost.com/2025/10/24/us-news/white-house-ballroom-hunter-biden-scandal-timeline-trolls-dems/"
   },
   {
-    "score": 1,
-    "pubdate": "2025-10-24-13-00-09 +0000",
+    "score": 20,
+    "pubdate": "2025-10-24-14-26-48 +0000",
+    "source": "nypost",
+    "headline": "Teacher union boss Randi Weingarten accused of ignoring  antisemitism in bombshell letter",
+    "link": "https://nypost.com/2025/10/24/us-news/teacher-union-boss-randi-weingarten-accused-of-ignoring-antisemitism-in-bombshell-letter/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-24-14-23-47 +0000",
     "source": "nyt",
-    "headline": "What to know about the report.",
-    "link": "https://www.nytimes.com/live/2025/10/24/business/cpi-inflation-tariffs-fed/inflation-report-cpi-federal-reserve"
+    "headline": "Trump Decries Anti-Tariff Ad From Ontario, Canada, That Faithfully Quotes Reagan Speech",
+    "link": "https://www.nytimes.com/2025/10/24/us/politics/trump-tariffs-canada-reagan-tv-ad-video.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-24-14-16-09 +0000",
+    "source": "nypost",
+    "headline": "Dinosaurs thrived in North America before the mass-extinction asteroid strike, new study shows",
+    "link": "https://nypost.com/2025/10/24/us-news/dinosaurs-thrived-in-north-america-before-the-mass-extinction-asteroid-strike-new-study-shows/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-24-14-14-35 +0000",
+    "source": "nyt",
+    "headline": "Trump Official Warns California Against Arresting Federal Agents",
+    "link": "https://www.nytimes.com/2025/10/24/us/federal-ice-agents-arrests-california-pelosi.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-24-14-14-56 +0000",
+    "source": "nyt",
+    "headline": "The Peril of a White House That Flaunts Its Indifference to the Law",
+    "link": "https://www.nytimes.com/2025/10/24/us/politics/white-house-boats-law.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-24-14-14-00 +0000",
+    "source": "bbc",
+    "headline": "Should you pay off your mortgage early?",
+    "link": "https://www.bbc.com/news/videos/cx2pw55lq1jo?at_medium=RSS&at_campaign=rss"
   }
 ]
