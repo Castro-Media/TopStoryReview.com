@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 50,
+    "pubdate": "2025-10-24-05-44-18 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He’s Cutting Off Trade Negotiations With Canada",
+    "link": "https://www.nytimes.com/2025/10/23/us/politics/trump-trade-negotiation-canada.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-24-05-48-00 +0000",
+    "source": "wsj",
+    "headline": "Lithium Giant Cheers U.S., Australia Minerals Pact, Warns on Price Supports",
+    "link": "https://www.wsj.com/business/lithium-giant-cheers-u-s-australia-minerals-pact-warns-on-price-supports-6359580c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-24-05-34-26 +0000",
+    "source": "bbc",
+    "headline": "NBA stars and mafia among dozens arrested in illegal gambling crackdown",
+    "link": "https://www.bbc.com/news/articles/cvgmpp3x5x5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-24-05-27-00 +0000",
+    "source": "wsj",
+    "headline": "Full Impact of Tariffs on Asia-Pacific Still to Come, IMF Warns",
+    "link": "https://www.wsj.com/economy/full-impact-of-tariffs-on-asia-pacific-still-to-come-imf-warns-3bd877b8"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-24-05-00-38 +0000",
+    "source": "bbc",
+    "headline": "Trump will meet with Xi in South Korea, says White House",
+    "link": "https://www.bbc.com/news/articles/cjw9vy19qvgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-24-05-16-27 +0000",
+    "source": "bbc",
+    "headline": "'Getting financial help through my GP has improved my health'",
+    "link": "https://www.bbc.com/news/articles/c0rpq9y2gq0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-24-05-02-31 +0000",
+    "source": "bbc",
+    "headline": "Gaza doctors struggle to investigate 'signs of torture' on unnamed dead returned by Israel",
+    "link": "https://www.bbc.com/news/articles/c4gz3r46e37o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-24-04-56-15 +0000",
+    "source": "nyt",
+    "headline": "Asian American Students Increase at Harvard, as Black Students Decline",
+    "link": "https://www.nytimes.com/2025/10/23/us/harvard-admissions-data-black-asian-latino-students.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-24-04-54-42 +0000",
+    "source": "bbc",
+    "headline": "Trump says trade talks with Canada 'terminated' over anti-tariffs advert",
+    "link": "https://www.bbc.com/news/articles/cdjrlmd4pmeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-24-05-48-00 +0000",
+    "source": "wsj",
+    "headline": "Lithium Giant Cheers U.S., Australia Minerals Pact, Warns on Price Supports",
+    "link": "https://www.wsj.com/business/lithium-giant-cheers-u-s-australia-minerals-pact-warns-on-price-supports-6359580c?mod=rss_markets_main"
+  }
+]
