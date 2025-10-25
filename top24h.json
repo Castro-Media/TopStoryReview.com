@@ -1,72 +1,72 @@
 [
   {
-    "score": 245,
+    "score": 252,
     "pubdate": "2025-10-24-21-43-10 +0000",
     "source": "nypost",
     "headline": "Ontario to pause anti-tariff Reagan ads after Trump calls off trade talks with Canada",
     "link": "https://nypost.com/2025/10/24/us-news/ontario-to-pause-anti-tariff-reagan-ads-after-trump-calls-off-trade-talks-with-canada/"
   },
   {
-    "score": 95,
-    "pubdate": "2025-10-24-18-35-00 +0000",
-    "source": "wsj",
-    "headline": "Senior White House and Navy officials are in early discussions to replace the current mix of warships with a new “Golden Fleet” that would be better suited to counter China",
-    "link": "https://www.wsj.com/politics/national-security/trump-pushes-for-new-classes-of-navy-warships-0fe217b9"
+    "score": 100,
+    "pubdate": "2025-10-24-16-12-41 +0000",
+    "source": "latimes",
+    "headline": "U.S. sanctions Colombia's president, deploys aircraft carrier in new escalation in Latin America",
+    "link": "https://www.latimes.com/world-nation/story/2025-10-24/another-us-strike-in-caribbean-targets-alleged-drug-running-boat-killing-6-hegseth-says"
   },
   {
-    "score": 91,
+    "score": 89,
     "pubdate": "2025-10-24-15-22-00 +0000",
     "source": "wsj",
     "headline": "Annual inflation heated up slightly in September, but not as much as economists expected, giving the Fed a clear path for widely expected rate cuts heading into their remaining meetings this year",
     "link": "https://www.wsj.com/economy/consumer-price-index-september-2025-e50c3716"
   },
   {
-    "score": 77,
+    "score": 78,
+    "pubdate": "2025-10-24-18-35-00 +0000",
+    "source": "wsj",
+    "headline": "Senior White House and Navy officials are in early discussions to replace the current mix of warships with a new “Golden Fleet” that would be better suited to counter China",
+    "link": "https://www.wsj.com/politics/national-security/trump-pushes-for-new-classes-of-navy-warships-0fe217b9"
+  },
+  {
+    "score": 73,
+    "pubdate": "2025-10-24-14-04-30 +0000",
+    "source": "nyt",
+    "headline": "U.S. Diplomats Will Work With Troops to Maintain Gaza Cease-Fire, Rubio Says",
+    "link": "https://www.nytimes.com/2025/10/24/world/middleeast/gaza-ceasefire-israel-hamas-rubio-us.html"
+  },
+  {
+    "score": 59,
     "pubdate": "2025-10-25-00-52-00 +0000",
     "source": "wsj",
     "headline": "President Trump was ready to send troops into San Francisco. The city’s business leaders needed a way to talk him out of it—and they found it.",
     "link": "https://www.wsj.com/politics/policy/san-francisco-troops-tech-ceos-45623a7f"
   },
   {
-    "score": 72,
-    "pubdate": "2025-10-25-04-37-58 +0000",
+    "score": 54,
+    "pubdate": "2025-10-25-03-18-59 +0000",
+    "source": "nypost",
+    "headline": "Department of War receives $130 million from mystery donor to cover troop salaries during shutdown",
+    "link": "https://nypost.com/2025/10/24/us-news/department-of-war-receives-130-million-from-mystery-donor-to-pay-troops/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-10-25-04-52-30 +0000",
+    "source": "nypost",
+    "headline": "Arizona dad who left toddler in hot car to die as he watched porn, played video games pleads guilty",
+    "link": "https://nypost.com/2025/10/25/us-news/arizona-dad-christopher-scholtes-pleads-guilty-to-murder-for-leaving-2-year-old-daughter-in-hot-car-for-hours/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-10-25-00-55-26 +0000",
+    "source": "nypost",
+    "headline": "Prosecutor who opposed charging Letitia James was fired for allegedly mishandling case information: report",
+    "link": "https://nypost.com/2025/10/24/us-news/prosecutor-who-opposed-charging-letitia-james-was-fired-for-allegedly-mishandling-case-information-report/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-10-25-02-39-23 +0000",
     "source": "nyt",
-    "headline": "U.S. Deploys Aircraft Carrier to Latin America as Drug Operation Expands",
-    "link": "https://www.nytimes.com/2025/10/24/us/politics/caribbean-sea-boat-strike-us-venezuela.html"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-10-24-13-00-06 +0000",
-    "source": "wapo",
-    "headline": "Rubio stresses there is ‘no plan B’ amid questions over Trump’s Gaza deal",
-    "link": "https://www.washingtonpost.com/world/2025/10/24/israel-hamas-gaza-war-ceasefire-rubio/"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-10-24-15-15-04 +0000",
-    "source": "nypost",
-    "headline": "Letitia James mimics MLK’s ‘I Have A Dream’ speech as NY AG pleads not guilty to federal bank charge",
-    "link": "https://nypost.com/2025/10/24/us-news/new-york-attorney-general-letitia-james-pleads-not-guilty-to-bank-fraud-false-statements-charges/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-10-24-19-11-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon said it received $130 million from a private donor to pay members of the military during the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/anonymous-donor-gives-130-million-to-pay-troops-during-shutdown-pentagon-says-7bfe17e2"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-10-24-20-56-50 +0000",
-    "source": "latimes",
-    "headline": "Video shows security opening fire on U-Haul truck outside Coast Guard base in California",
-    "link": "https://www.latimes.com/california/story/2025-10-24/coast-guard-uhaul-alameda-shooting"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-10-24-23-42-29 +0000",
-    "source": "nypost",
-    "headline": "Hunter Biden claims he didn’t think ‘laptop from hell’ was really his when damning contents first revealed by The Post",
-    "link": "https://nypost.com/2025/10/24/us-news/hunter-biden-says-he-didnt-think-laptop-from-hell-was-really-his/"
+    "headline": "Sirikit, Glamorous Former Queen of Thailand Who Wielded Power, Dies at 93",
+    "link": "https://www.nytimes.com/2025/10/24/world/asia/queen-sirikit-thailand-dead.html"
   }
 ]
