@@ -1,19 +1,5 @@
 [
   {
-    "score": 20,
-    "pubdate": "2025-10-25-01-56-49 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Plans a Shake-Up at ICE to Speed Deportations",
-    "link": "https://www.nytimes.com/2025/10/24/us/politics/trump-deportations-ice.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2025-10-25-01-31-28 +0000",
-    "source": "nypost",
-    "headline": "Damning DOT report blames Newsom for illegal immigrant trucker’s deadly Calif. crash: ‘There will be consequences’",
-    "link": "https://nypost.com/2025/10/24/us-news/calif-upgraded-jashanpreet-singhs-cdl-week-before-deadly-crash/"
-  },
-  {
     "score": 16,
     "pubdate": "2025-10-25-02-16-00 +0000",
     "source": "bbc",
@@ -21,52 +7,24 @@
     "link": "https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2025-10-25-01-22-42 +0000",
-    "source": "latimes",
-    "headline": "First West Nile virus death confirmed in L.A. County, as studies show that drought conditions may increase risk",
-    "link": "https://www.latimes.com/science/story/2025-10-24/first-west-nile-virus-death-confirmed-in-la-county-san-fernando-valley"
+    "score": 7,
+    "pubdate": "2025-10-25-02-16-06 +0000",
+    "source": "bbc",
+    "headline": "US beef prices are soaring. Will Trump's plans lower them?",
+    "link": "https://www.bbc.com/news/articles/cr7m2pd3810o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 12,
-    "pubdate": "2025-10-25-01-29-12 +0000",
-    "source": "nyt",
-    "headline": "Bannon Claims ‘There Is a Plan’ for Trump to Run for a Third Term",
-    "link": "https://www.nytimes.com/2025/10/24/us/politics/president-trump-2028-steve-bannon.html"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-10-25-01-43-49 +0000",
-    "source": "nypost",
-    "headline": "Neighbor accused of shooting woman because her horse was getting ‘too fat’",
-    "link": "https://nypost.com/2025/10/24/us-news/neighbor-accused-of-shooting-woman-because-her-horse-was-getting-too-fat/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-25-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Milei’s Overhaul of Argentina Has Another Problem: He Isn’t Great at Politics",
-    "link": "https://www.wsj.com/world/americas/mileis-overhaul-of-argentina-has-another-problem-he-isnt-great-at-politics-2a43f161"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-10-25-01-43-28 +0000",
-    "source": "missionlocal",
-    "headline": "Old-school Italian restaurant Gold Mirror returns after two-year remodel",
-    "link": "https://missionlocal.org/2025/10/sf-sunset-gold-mirror-reopens/"
-  },
-  {
-    "score": 5,
+    "score": 6,
     "pubdate": "2025-10-25-02-16-00 +0000",
     "source": "bbc",
     "headline": "US strikes another alleged drug boat in Caribbean",
     "link": "https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 4,
-    "pubdate": "2025-10-25-02-16-06 +0000",
+    "score": 0,
+    "pubdate": "2025-10-25-02-16-00 +0000",
     "source": "bbc",
-    "headline": "US beef prices are soaring. Will Trump's plans lower them?",
-    "link": "https://www.bbc.com/news/articles/cr7m2pd3810o?at_medium=RSS&at_campaign=rss"
+    "headline": "Venezuela's Maduro says US 'fabricating war' as it deploys world's largest warship",
+    "link": "https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss"
   }
 ]
