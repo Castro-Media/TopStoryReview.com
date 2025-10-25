@@ -1,6 +1,6 @@
 [
   {
-    "score": 219,
+    "score": 200,
     "pubdate": "2025-10-24-21-43-10 +0000",
     "source": "nypost",
     "headline": "Ontario to pause anti-tariff Reagan ads after Trump calls off trade talks with Canada",
@@ -14,25 +14,18 @@
     "link": "https://www.wsj.com/politics/national-security/trump-pushes-for-new-classes-of-navy-warships-0fe217b9"
   },
   {
-    "score": 75,
+    "score": 77,
     "pubdate": "2025-10-24-16-12-41 +0000",
     "source": "latimes",
     "headline": "U.S. sanctions Colombia's president, deploys aircraft carrier in new escalation in Latin America",
     "link": "https://www.latimes.com/world-nation/story/2025-10-24/another-us-strike-in-caribbean-targets-alleged-drug-running-boat-killing-6-hegseth-says"
   },
   {
-    "score": 67,
+    "score": 66,
     "pubdate": "2025-10-24-16-29-21 +0000",
     "source": "latimes",
     "headline": "Justice Department says it will monitor California poll sites amid Prop. 50 voting",
     "link": "https://www.latimes.com/politics/story/2025-10-24/justice-department-says-it-will-monitor-california-poll-sites-amid-prop-50-voting"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-10-24-15-22-00 +0000",
-    "source": "wsj",
-    "headline": "Annual inflation heated up slightly in September, but not as much as economists expected, giving the Fed a clear path for widely expected rate cuts heading into their remaining meetings this year",
-    "link": "https://www.wsj.com/economy/consumer-price-index-september-2025-e50c3716"
   },
   {
     "score": 62,
@@ -42,31 +35,38 @@
     "link": "https://www.wsj.com/politics/policy/san-francisco-troops-tech-ceos-45623a7f"
   },
   {
-    "score": 58,
-    "pubdate": "2025-10-25-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Palestinian man says he wishes he could see family, Gaza after losing eyesight in prison",
-    "link": "https://www.cbc.ca/news/world/gaza-palestinian-detainee-blind-israeli-sde-teiman-9.6950125?cmp=rss"
+    "score": 59,
+    "pubdate": "2025-10-25-14-56-21 +0000",
+    "source": "nypost",
+    "headline": "Trump ‘open’ to meeting with Kim Jong Un during Asia trip, calls North Korea ‘sort of a nuclear power’",
+    "link": "https://nypost.com/2025/10/25/world-news/trump-open-to-meeting-with-kim-jong-un-during-asia-trip-calls-north-korea-sort-of-a-nuclear-power/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-10-24-19-11-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon said it received $130 million from a private donor to pay members of the military during the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/anonymous-donor-gives-130-million-to-pay-troops-during-shutdown-pentagon-says-7bfe17e2"
-  },
-  {
-    "score": 51,
+    "score": 55,
     "pubdate": "2025-10-25-13-38-40 +0000",
     "source": "nypost",
     "headline": "House Republicans want to strip Zohran Mamdani of citizenship, possibly deport NYC mayoral frontrunner over form omissions",
     "link": "https://nypost.com/2025/10/25/us-news/house-republicans-push-to-denaturalize-mamdani-over-citizenship-form/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-10-25-11-48-32 +0000",
+    "score": 51,
+    "pubdate": "2025-10-24-17-59-23 +0000",
     "source": "nypost",
-    "headline": "Zelensky pleads for air defense help as Russian missile, drone attacks kill at least 4 in Ukraine",
-    "link": "https://nypost.com/2025/10/25/world-news/zelensky-pleads-for-air-defense-help-as-russian-missile-drone-attacks-kill-at-least-4-in-ukraine/"
+    "headline": "Rubio warns West Bank annexation would threaten peace, vows US won’t work with Hamas ‘subsidiary’ UNRWA to rebuild Gaza",
+    "link": "https://nypost.com/2025/10/24/world-news/rubio-warns-west-bank-annexation-would-threaten-peace-vows-us-wont-work-with-hamas-subsidiary-unrwa-to-rebuild-gaza/"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-10-25-15-21-49 +0000",
+    "source": "nypost",
+    "headline": "Chilling footage shows Russian drone hunting down Ukrainian farmers in ‘staged safari’: ‘This is another war crime’",
+    "link": "https://nypost.com/2025/10/25/world-news/chilling-footage-shows-russian-drone-hunting-down-ukrainian-farmers-in-staged-safari-this-is-another-war-crime/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-10-24-19-11-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon said it received $130 million from a private donor to pay members of the military during the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/anonymous-donor-gives-130-million-to-pay-troops-during-shutdown-pentagon-says-7bfe17e2"
   }
 ]
