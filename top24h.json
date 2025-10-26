@@ -1,17 +1,24 @@
 [
   {
-    "score": 147,
+    "score": 149,
     "pubdate": "2025-10-26-01-51-00 +0000",
     "source": "wsj",
     "headline": "The U.S. will impose an additional 10% tariff on Canada, a punitive measure in response to an ad campaign there that President Trump said misrepresented comments by former President Ronald Reagan",
     "link": "https://www.wsj.com/politics/policy/trump-hikes-tariffs-on-canada-by-10-over-ontario-ad-0fc64764"
   },
   {
-    "score": 79,
+    "score": 82,
     "pubdate": "2025-10-25-09-38-00 +0000",
     "source": "wsj",
     "headline": "Trump Pitches Meeting With Kim Jong Un During Asia Tour: ‘Put Out the Word’",
     "link": "https://www.wsj.com/world/asia/trump-pitches-meeting-with-kim-jong-un-during-asia-tour-ba0c55ec"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-10-25-12-00-31 +0000",
+    "source": "bbc",
+    "headline": "'I am not done' - Kamala Harris tells BBC she may run for president again",
+    "link": "https://www.bbc.com/news/articles/cx2n7k2veywo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 51,
@@ -21,52 +28,45 @@
     "link": "https://www.latimes.com/california/story/2025-10-25/trump-drug-boats-latin-america"
   },
   {
-    "score": 50,
-    "pubdate": "2025-10-25-13-08-09 +0000",
+    "score": 46,
+    "pubdate": "2025-10-26-06-49-24 +0000",
     "source": "nypost",
-    "headline": "Kamala Harris teases new White House run: ‘I am not done’",
-    "link": "https://nypost.com/2025/10/25/us-news/kamala-harris-teases-new-white-house-run-i-am-not-done/"
+    "headline": "Trump signs peace and trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
+    "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/"
   },
   {
-    "score": 43,
+    "score": 44,
     "pubdate": "2025-10-25-22-00-26 +0000",
     "source": "bbc",
     "headline": "Venezuela's Maduro says US 'fabricating war' as it deploys world's largest warship",
     "link": "https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 41,
+    "score": 40,
     "pubdate": "2025-10-25-23-10-24 +0000",
     "source": "nypost",
     "headline": "NYC voters run to the polls on first day of early voting — with impressive five time increase to last mayoral race",
     "link": "https://nypost.com/2025/10/25/us-news/nyc-voters-run-to-the-polls-on-first-day-of-early-voting-with-impressive-five-time-increase-to-last-mayoral-race/"
   },
   {
-    "score": 41,
+    "score": 37,
+    "pubdate": "2025-10-25-21-58-46 +0000",
+    "source": "nypost",
+    "headline": "Louvre heist being investigated as inside job with security guard eyed in landmark robbery: report",
+    "link": "https://nypost.com/2025/10/25/world-news/louvre-heist-being-investigated-as-inside-job-with-security-guard-eyed-in-landmark-robbery-report/"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-10-25-13-07-30 +0000",
     "source": "bbc",
     "headline": "Trump hopes China will help push Russia towards Ukraine peace talks",
     "link": "https://www.bbc.com/news/articles/cn51yk9vgrko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2025-10-26-05-21-38 +0000",
-    "source": "nypost",
-    "headline": "Bikini-clad Brazilian influencer Melissa Said breaks silence after she’s arrested, accused of being drug trafficking queen",
-    "link": "https://nypost.com/2025/10/26/world-news/brazilian-influencer-melissa-said-breaks-silence-after-shes-arrested-accused-of-being-drug-trafficking-queen/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-10-25-15-56-23 +0000",
+    "score": 35,
+    "pubdate": "2025-10-26-00-31-54 +0000",
     "source": "nyt",
-    "headline": "‘It’s Got to Be an Inside Job’: Jewelry Thieves Weigh In on Louvre Heist",
-    "link": "https://www.nytimes.com/2025/10/25/world/europe/louvre-heist-jewelry-thieves.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2025-10-25-15-54-02 +0000",
-    "source": "bbc",
-    "headline": "Mystery donor gives $130m to US military for paying troops during shutdown",
-    "link": "https://www.bbc.com/news/articles/c891p1pez42o?at_medium=RSS&at_campaign=rss"
+    "headline": "Navy Begins Evacuating Families From Guantánamo Bay Ahead of Hurricane Melissa",
+    "link": "https://www.nytimes.com/2025/10/25/us/politics/guantanamo-bay-hurricane-melissa-evacuations.html"
   }
 ]
