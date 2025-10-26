@@ -1,20 +1,20 @@
 [
   {
-    "score": 161,
+    "score": 160,
     "pubdate": "2025-10-26-16-00-33 +0000",
     "source": "bbc",
     "headline": "US and China agree framework of trade deal ahead of Trump-Xi meeting",
     "link": "https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 77,
+    "score": 74,
     "pubdate": "2025-10-26-16-10-00 +0000",
     "source": "wsj",
     "headline": "The U.S. will impose an additional 10% tariff on Canada, a punitive measure in response to an ad campaign there that President Trump said misrepresented comments by former President Ronald Reagan",
     "link": "https://www.wsj.com/politics/policy/trump-hikes-tariffs-on-canada-by-10-over-ontario-ad-0fc64764"
   },
   {
-    "score": 62,
+    "score": 61,
     "pubdate": "2025-10-26-09-47-45 +0000",
     "source": "nypost",
     "headline": "2 Louvre robbery suspects busted in $100M museum heist, one caught at Paris airport trying to flee France",
@@ -29,24 +29,10 @@
   },
   {
     "score": 50,
-    "pubdate": "2025-10-25-18-55-14 +0000",
-    "source": "nyt",
-    "headline": "Canada-U.S. Tensions Stay on Baseball Field During Blue Jays-Dodgers World Series",
-    "link": "https://www.nytimes.com/2025/10/25/sports/baseball/blue-jays-dodgers-trump-canada-us.html"
-  },
-  {
-    "score": 50,
     "pubdate": "2025-10-26-06-49-24 +0000",
     "source": "nypost",
     "headline": "Trump signs peace, trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
     "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-10-26-18-28-41 +0000",
-    "source": "nypost",
-    "headline": "NJ in-person voting shows GOP uptick over 2021 — as voters turn out in droves for close governor’s race",
-    "link": "https://nypost.com/2025/10/26/us-news/nj-in-person-voting-shows-gop-uptick-over-2021-as-voters-turn-out-in-droves-for-close-governors-race/"
   },
   {
     "score": 42,
@@ -56,17 +42,31 @@
     "link": "https://www.latimes.com/california/story/2025-10-26/strings-attached-to-bills-newsom-signed-on-ai-transparency-and-other-major-new-laws"
   },
   {
-    "score": 40,
-    "pubdate": "2025-10-26-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "“You have zero zoning conditions, you’re the president.” How Trump cut through red tape to get his White House ballroom.",
-    "link": "https://www.wsj.com/politics/policy/trump-white-house-ballroom-construction-d1616a3e"
+    "score": 42,
+    "pubdate": "2025-10-26-18-28-41 +0000",
+    "source": "nypost",
+    "headline": "NJ in-person voting shows GOP uptick over 2021 — as voters turn out in droves for close governor’s race",
+    "link": "https://nypost.com/2025/10/26/us-news/nj-in-person-voting-shows-gop-uptick-over-2021-as-voters-turn-out-in-droves-for-close-governors-race/"
   },
   {
     "score": 40,
-    "pubdate": "2025-10-26-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "A State Department intelligence bureau cast doubt on the notion that Putin was prepared to negotiate an end to the Ukraine war, dissenting from a more optimistic CIA assessment of potential talks",
-    "link": "https://www.wsj.com/politics/national-security/putin-ukraine-peace-state-department-c9ed6cef"
+    "pubdate": "2025-10-25-22-00-26 +0000",
+    "source": "bbc",
+    "headline": "Venezuela's Maduro says US 'fabricating war' as it deploys world's largest warship",
+    "link": "https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-10-26-17-33-08 +0000",
+    "source": "nyt",
+    "headline": "Hurricane Melissa Could Hit as One of Jamaica’s Strongest Storms Ever",
+    "link": "https://www.nytimes.com/2025/10/26/weather/jamaica-worst-storms-hurricane-melissa.html"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-10-26-15-53-01 +0000",
+    "source": "nypost",
+    "headline": "Jeffrey Epstein victim Virginia Giuffre feared she might be killed ‘like Diana’ after sex with Prince Andrew: ex-beau",
+    "link": "https://nypost.com/2025/10/26/us-news/virginia-giuffre-feared-she-might-be-killed-like-diana-after-sex-with-prince-andrew-ex-beau/"
   }
 ]
