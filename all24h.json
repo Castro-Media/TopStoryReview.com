@@ -1,45 +1,135 @@
 [
   {
-    "headline": "Mystery donor gives $130m to US military to pay troops during shutdown",
-    "link": "https://www.bbc.com/news/articles/c891p1pez42o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-26-06-51-07 +0000"
+    "headline": "Trump Administration Live Updates: President Oversees Signing of Cambodia-Thailand Peace Pact",
+    "link": "https://www.nytimes.com/live/2025/10/25/us/trump-asia-news",
+    "source": "nyt",
+    "pubdate": "2025-10-26-08-49-27 +0000"
   },
   {
-    "headline": "Mystery donor gives $130m to US military to pay troops during shutdown",
-    "link": "https://www.bbc.com/news/articles/c891p1pez42o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump's week in Asia: BBC correspondents on the wins and potential losses",
+    "link": "https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-26-06-51-07 +0000"
+    "pubdate": "2025-10-26-08-23-22 +0000"
   },
   {
-    "headline": "Trump signs peace and trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
-    "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/",
+    "headline": "Trump's week in Asia: BBC correspondents on the wins and potential losses",
+    "link": "https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-08-23-22 +0000"
+  },
+  {
+    "headline": "Three killed in Russian strikes on Kyiv, officials say",
+    "link": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-08-12-29 +0000"
+  },
+  {
+    "headline": "Three killed in Russian strikes on Kyiv, officials say",
+    "link": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-08-12-29 +0000"
+  },
+  {
+    "headline": "Russian attack on Kyiv kills three, injures 29, including 6 children, Ukraine says",
+    "link": "https://nypost.com/2025/10/26/world-news/russia-ukraine-strike-kills-3-injures-29-in-overnight-attack-on-kyiv/",
     "source": "nypost",
-    "pubdate": "2025-10-26-06-49-24 +0000"
+    "pubdate": "2025-10-26-08-11-41 +0000"
   },
   {
-    "headline": "Trump signs peace and trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
-    "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/",
-    "source": "nypost",
-    "pubdate": "2025-10-26-06-49-24 +0000"
-  },
-  {
-    "headline": "Trump raises tariffs on Canadian goods over Reagan advert",
-    "link": "https://www.bbc.com/news/articles/cx2ljgrm78zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-26-06-38-54 +0000"
-  },
-  {
-    "headline": "Trump raises tariffs on Canadian goods over Reagan advert",
-    "link": "https://www.bbc.com/news/articles/cx2ljgrm78zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-26-06-38-54 +0000"
-  },
-  {
-    "headline": "Harris expresses concern she did not ask Biden not to run",
+    "headline": "Harris 'concerned' she did not ask Biden to quit race",
     "link": "https://www.bbc.com/news/articles/cj412zgvy4do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-26-06-01-22 +0000"
+    "pubdate": "2025-10-26-08-07-39 +0000"
+  },
+  {
+    "headline": "Harris 'concerned' she did not ask Biden to quit race",
+    "link": "https://www.bbc.com/news/articles/cj412zgvy4do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-08-07-39 +0000"
+  },
+  {
+    "headline": "How one cyber-scamming syndicate used Singapore for legitimacy",
+    "link": "https://www.washingtonpost.com/world/2025/10/26/cyber-scamming-prince-group-syndicate-singapore/",
+    "source": "wapo",
+    "pubdate": "2025-10-26-08-00-00 +0000"
+  },
+  {
+    "headline": "U.S. to photograph Canadian travellers when they enter and exit at all land borders, airports",
+    "link": "https://www.cbc.ca/news/business/u-s-photograph-border-9.6953627?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-26-08-00-00 +0000"
+  },
+  {
+    "headline": "‘Right now, we don’t have the votes’ to pass federal budget, says Liberal House leader",
+    "link": "https://www.cbc.ca/news/politics/liberal-house-leader-budget-votes-9.6953599?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-26-08-00-00 +0000"
+  },
+  {
+    "headline": "Trump in Malaysia: Dancing and a 'peace deal'",
+    "link": "https://www.bbc.com/news/videos/cly9g3j9e84o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-07-55-24 +0000"
+  },
+  {
+    "headline": "Trump presides over Thai-Cambodia 'peace deal' - but what does it mean?",
+    "link": "https://www.bbc.com/news/articles/c93dy2kk7vzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-07-18-49 +0000"
+  },
+  {
+    "headline": "Trump presides over Thai-Cambodia 'peace deal' - but what does it mean?",
+    "link": "https://www.bbc.com/news/articles/c93dy2kk7vzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-07-18-49 +0000"
+  },
+  {
+    "headline": "Hurricane Melissa strengthens into Category 3 storm — threatening catastrophic flooding in Jamaica, Haiti",
+    "link": "https://nypost.com/2025/10/26/world-news/hurricane-melissa-strengthens-into-category-3-storm-threatening-catastrophic-flooding-in-jamaica-haiti/",
+    "source": "nypost",
+    "pubdate": "2025-10-26-07-02-02 +0000"
+  },
+  {
+    "headline": "As the Left’s Biggest Stars Unite Behind Mamdani, a Bigger Test Awaits",
+    "link": "https://www.nytimes.com/2025/10/26/nyregion/mamdani-sanders-aoc-rally.html",
+    "source": "nyt",
+    "pubdate": "2025-10-26-07-00-17 +0000"
+  },
+  {
+    "headline": "Mystery donor gives $130m to US military to pay troops during shutdown",
+    "link": "https://www.bbc.com/news/articles/c891p1pez42o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-06-51-07 +0000"
+  },
+  {
+    "headline": "Mystery donor gives $130m to US military to pay troops during shutdown",
+    "link": "https://www.bbc.com/news/articles/c891p1pez42o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-06-51-07 +0000"
+  },
+  {
+    "headline": "Trump signs peace and trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
+    "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/",
+    "source": "nypost",
+    "pubdate": "2025-10-26-06-49-24 +0000"
+  },
+  {
+    "headline": "Trump signs peace and trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
+    "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/",
+    "source": "nypost",
+    "pubdate": "2025-10-26-06-49-24 +0000"
+  },
+  {
+    "headline": "Trump raises tariffs on Canadian goods over Reagan advert",
+    "link": "https://www.bbc.com/news/articles/cx2ljgrm78zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-06-38-54 +0000"
+  },
+  {
+    "headline": "Trump raises tariffs on Canadian goods over Reagan advert",
+    "link": "https://www.bbc.com/news/articles/cx2ljgrm78zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-06-38-54 +0000"
   },
   {
     "headline": "Line drawn by 19th-century Britain stokes Pakistan-Taliban tension",
@@ -70,12 +160,6 @@
     "link": "https://nypost.com/2025/10/26/world-news/brazilian-influencer-melissa-said-breaks-silence-after-shes-arrested-accused-of-being-drug-trafficking-queen/",
     "source": "nypost",
     "pubdate": "2025-10-26-05-21-38 +0000"
-  },
-  {
-    "headline": "Children injured in Russian strikes on Kyiv, Ukrainian officials say",
-    "link": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-26-04-53-17 +0000"
   },
   {
     "headline": "Watch the show: ‘Strib Varsity Live With Randy Shaver’ Episode 11",
@@ -210,18 +294,6 @@
     "pubdate": "2025-10-26-02-24-35 +0000"
   },
   {
-    "headline": "Trump's week in Asia: BBC correspondents on the wins and potential losses",
-    "link": "https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-26-02-02-23 +0000"
-  },
-  {
-    "headline": "Trump's week in Asia: BBC correspondents on the wins and potential losses",
-    "link": "https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-26-02-02-23 +0000"
-  },
-  {
     "headline": "U.S. Stocks Are Breaking Records. The Rest of the World Is Doing Better.",
     "link": "https://www.wsj.com/finance/stocks/u-s-stocks-are-breaking-records-the-rest-of-the-world-is-doing-better-8e1005be?mod=rss_markets_main",
     "source": "wsj",
@@ -336,6 +408,12 @@
     "pubdate": "2025-10-26-00-13-40 +0000"
   },
   {
+    "headline": "Watch: Moment nuclear plant towers collapse during demolition",
+    "link": "https://www.bbc.com/news/videos/cd7rgp2zlwgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-26-00-13-40 +0000"
+  },
+  {
     "headline": "Florida teacher who forced students to address her as ‘Mx.’ instead of ‘Ms.’ or ‘Mrs.’ put on leave",
     "link": "https://nypost.com/2025/10/25/us-news/florida-teacher-who-forced-students-to-address-her-as-mx-put-on-leave/",
     "source": "nypost",
@@ -378,10 +456,10 @@
     "pubdate": "2025-10-25-23-32-21 +0000"
   },
   {
-    "headline": "Sudan's fertile region where food is rotting amid famine and war",
-    "link": "https://www.bbc.com/news/articles/c20enql8027o?at_medium=RSS&at_campaign=rss",
+    "headline": "Representation to red flags: The fall and future of Manchester Pride",
+    "link": "https://www.bbc.com/news/articles/cp8evd7vl6ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-25-23-24-40 +0000"
+    "pubdate": "2025-10-25-23-25-57 +0000"
   },
   {
     "headline": "Sudan's fertile region where food is rotting amid famine and war",
@@ -390,7 +468,13 @@
     "pubdate": "2025-10-25-23-24-40 +0000"
   },
   {
-    "headline": "'Heroes of Kharkiv': How 48 children were saved from kindergarten hit by Russian drone",
+    "headline": "Sudan's fertile region where food is rotting amid famine and war",
+    "link": "https://www.bbc.com/news/articles/c20enql8027o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-25-23-24-40 +0000"
+  },
+  {
+    "headline": "The 'Heroes of Kharkiv' who saved 48 children from kindergarten hit by Russian drone",
     "link": "https://www.bbc.com/news/articles/c9q1w9ypl8jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-25-23-21-09 +0000"
@@ -420,10 +504,28 @@
     "pubdate": "2025-10-25-23-04-19 +0000"
   },
   {
+    "headline": "How the nation lost its appetite for Pizza Hut",
+    "link": "https://www.bbc.com/news/articles/cn97vdpv13wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-25-23-04-19 +0000"
+  },
+  {
     "headline": "The best time to turn on the heating – according to you",
     "link": "https://www.bbc.com/news/articles/cgqly9ynnd4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-25-23-02-32 +0000"
+  },
+  {
+    "headline": "The best time to turn on the heating – according to you",
+    "link": "https://www.bbc.com/news/articles/cgqly9ynnd4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-25-23-02-32 +0000"
+  },
+  {
+    "headline": "Tax rises could push food prices higher, warn supermarkets",
+    "link": "https://www.bbc.com/news/articles/c620gy43pe4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-25-23-00-58 +0000"
   },
   {
     "headline": "In Trump, Families of Cambodian Troops Detained by Thailand See Hope",
@@ -924,6 +1026,12 @@
     "pubdate": "2025-10-25-16-00-00 +0000"
   },
   {
+    "headline": "The Christian Podcaster Rallying a New Generation of Conservative Women",
+    "link": "https://www.wsj.com/us-news/allie-beth-stuckey-christian-podcaster-2220d64c",
+    "source": "wsj",
+    "pubdate": "2025-10-25-16-00-00 +0000"
+  },
+  {
     "headline": "The ‘Hands Problem’ Holding Back the Humanoid Revolution",
     "link": "https://www.wsj.com/tech/the-hands-problem-holding-back-the-humanoid-revolution-c1aa6123?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1086,28 +1194,10 @@
     "pubdate": "2025-10-25-13-28-31 +0000"
   },
   {
-    "headline": "Find out which airline was rated the worst by customers — and it’s not Spirit",
-    "link": "https://nypost.com/2025/10/25/world-news/find-out-which-airline-was-rated-the-worst-by-customers-its-not-spirit/",
-    "source": "nypost",
-    "pubdate": "2025-10-25-13-28-21 +0000"
-  },
-  {
-    "headline": "Manhattan-sized space object 3I/ATLAS has grown a tail — a possible sign of alien ‘maneuver’: Harvard scientist",
-    "link": "https://nypost.com/2025/10/25/world-news/manhattan-sized-interstellar-object-3i-atlas-has-grown-a-tail-as-it-approaches-the-sun-which-could-be-sign-of-a-maneuver/",
-    "source": "nypost",
-    "pubdate": "2025-10-25-13-21-30 +0000"
-  },
-  {
     "headline": "Kamala Harris teases new White House run: ‘I am not done’",
     "link": "https://nypost.com/2025/10/25/us-news/kamala-harris-teases-new-white-house-run-i-am-not-done/",
     "source": "nypost",
     "pubdate": "2025-10-25-13-08-09 +0000"
-  },
-  {
-    "headline": "Trump hopes China will help push Russia towards Ukraine peace talks",
-    "link": "https://www.bbc.com/news/articles/cn51yk9vgrko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-25-13-07-30 +0000"
   },
   {
     "headline": "Trump hopes China will help push Russia towards Ukraine peace talks",
@@ -1174,12 +1264,6 @@
     "link": "https://www.startribune.com/minneapolis-mayor-election-2025-polling-fundraising/601496188",
     "source": "startribune",
     "pubdate": "2025-10-25-12-05-07 +0000"
-  },
-  {
-    "headline": "'I am not done' - Kamala Harris tells BBC she may run for president again",
-    "link": "https://www.bbc.com/news/articles/cx2n7k2veywo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-25-12-00-31 +0000"
   },
   {
     "headline": "'I am not done' - Kamala Harris tells BBC she may run for president again",
@@ -1456,41 +1540,5 @@
     "link": "https://www.washingtonpost.com/national-security/2025/10/24/aircraft-carrier-trump-caribbean-latin-america/",
     "source": "wapo",
     "pubdate": "2025-10-25-08-59-01 +0000"
-  },
-  {
-    "headline": "Take a Look at Rare Photos of Red Lightning in New Zealand",
-    "link": "https://www.nytimes.com/2025/10/25/science/red-lightning-new-zealand.html",
-    "source": "nyt",
-    "pubdate": "2025-10-25-08-37-38 +0000"
-  },
-  {
-    "headline": "Switzerland is spending millions revamping its vast network of bunkers",
-    "link": "https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/",
-    "source": "wapo",
-    "pubdate": "2025-10-25-08-00-14 +0000"
-  },
-  {
-    "headline": "As Trump lavishes money and praise on Argentina, more Americans ask: Why?",
-    "link": "https://www.cbc.ca/news/politics/trump-argentina-farmers-trade-9.6950426?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-25-08-00-00 +0000"
-  },
-  {
-    "headline": "Palestinian man says he wishes he could see family, Gaza after losing eyesight in prison",
-    "link": "https://www.cbc.ca/news/world/gaza-palestinian-detainee-blind-israeli-sde-teiman-9.6950125?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-25-08-00-00 +0000"
-  },
-  {
-    "headline": "Shadow of Trump's trade war follows Carney to Malaysia",
-    "link": "https://www.cbc.ca/news/politics/trade-canada-trump-carney-asia-9.6953292?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-25-08-00-00 +0000"
-  },
-  {
-    "headline": "As Trump lavishes money and praise on Argentina, more Americans ask: Why?",
-    "link": "https://www.cbc.ca/news/politics/trump-argentina-farmers-trade-9.6950426?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-25-08-00-00 +0000"
   }
 ]
