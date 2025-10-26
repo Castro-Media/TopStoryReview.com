@@ -1,23 +1,72 @@
 [
   {
+    "score": 34,
+    "pubdate": "2025-10-26-14-37-34 +0000",
+    "source": "bbc",
+    "headline": "US and China agree framework of trade deal ahead of Trump-Xi meeting",
+    "link": "https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-26-14-39-33 +0000",
+    "source": "nypost",
+    "headline": "Potential 2028 hopeful Pete Buttigieg slams Cuomo, gushes over Mamdani’s ‘capacity to be a great mayor’",
+    "link": "https://nypost.com/2025/10/26/us-news/potential-2028-hopeful-pete-buttigieg-slams-cuomo-gushes-over-mamdanis-capacity-to-be-a-great-mayor/"
+  },
+  {
     "score": 14,
-    "pubdate": "2025-10-26-12-53-41 +0000",
-    "source": "nyt",
-    "headline": "3 Years Ago It Was a Casting Agency. Now It Has $1 Billion in Drone Contracts.",
-    "link": "https://www.nytimes.com/2025/10/26/world/europe/ukraine-fire-point-drones-flamingo.html"
+    "pubdate": "2025-10-26-14-33-39 +0000",
+    "source": "bbc",
+    "headline": "Two arrested over theft of jewels at Louvre museum in Paris",
+    "link": "https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 3,
-    "pubdate": "2025-10-26-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "The way he fits",
-    "link": "https://missionlocal.org/2025/10/sf-photos-the-way-he-fits/"
+    "score": 10,
+    "pubdate": "2025-10-26-14-41-53 +0000",
+    "source": "nyt",
+    "headline": "Trump Leans Into Showmanship on Day 1 of His Asia Trip",
+    "link": "https://www.nytimes.com/2025/10/25/world/asia/trump-asean-malaysia-asia.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-10-26-12-53-41 +0000",
+    "score": 10,
+    "pubdate": "2025-10-26-14-03-37 +0000",
     "source": "nyt",
-    "headline": "3 Years Ago It Was a Casting Agency. Now It Has $1 Billion in Drone Contracts.",
-    "link": "https://www.nytimes.com/2025/10/26/world/europe/ukraine-fire-point-drones-flamingo.html"
+    "headline": "How Maduro Is Responding to Trump’s Pressure on Venezuela’s Economy",
+    "link": "https://www.nytimes.com/2025/10/26/world/americas/trump-maduro-venezuela-economy.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-10-26-14-03-15 +0000",
+    "source": "nyt",
+    "headline": "Arthur Waskow, 92, Influential Rabbi and Activist for Social Justice, Dies",
+    "link": "https://www.nytimes.com/2025/10/25/us/arthur-waskow-dead.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-10-26-14-41-55 +0000",
+    "source": "nyt",
+    "headline": "President Oversees Signing of Cambodia-Thailand Peace Pact",
+    "link": "https://www.nytimes.com/live/2025/10/25/us/trump-asia-news"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-26-14-00-00 +0000",
+    "source": "startribune",
+    "headline": "Gophers outclassed, outcoached in brutal defeat at Iowa",
+    "link": "https://www.startribune.com/gophers-outclassed-outcoached-in-brutal-defeat-at-iowa/601492063"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-10-26-13-59-51 +0000",
+    "source": "wapo",
+    "headline": "Chinese and U.S. officials tentatively agree to avert 100 percent tariffs",
+    "link": "https://www.washingtonpost.com/politics/2025/10/26/trump-china-trade-deal/"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-10-26-14-35-00 +0000",
+    "source": "wsj",
+    "headline": "U.S., China Sound Confident Note After Trade Talks",
+    "link": "https://www.wsj.com/world/china/bessent-sounds-confident-note-after-trade-talks-with-china-f09d310d"
   }
 ]
