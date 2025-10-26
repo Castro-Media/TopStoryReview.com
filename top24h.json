@@ -1,20 +1,20 @@
 [
   {
-    "score": 151,
-    "pubdate": "2025-10-26-14-37-34 +0000",
+    "score": 154,
+    "pubdate": "2025-10-26-16-00-33 +0000",
     "source": "bbc",
     "headline": "US and China agree framework of trade deal ahead of Trump-Xi meeting",
     "link": "https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 73,
-    "pubdate": "2025-10-26-15-27-00 +0000",
+    "pubdate": "2025-10-26-16-10-00 +0000",
     "source": "wsj",
     "headline": "The U.S. will impose an additional 10% tariff on Canada, a punitive measure in response to an ad campaign there that President Trump said misrepresented comments by former President Ronald Reagan",
     "link": "https://www.wsj.com/politics/policy/trump-hikes-tariffs-on-canada-by-10-over-ontario-ad-0fc64764"
   },
   {
-    "score": 65,
+    "score": 61,
     "pubdate": "2025-10-26-09-47-45 +0000",
     "source": "nypost",
     "headline": "2 Louvre robbery suspects busted in $100M museum heist, one caught at Paris airport trying to flee France",
@@ -35,7 +35,7 @@
     "link": "https://www.nytimes.com/2025/10/25/sports/baseball/blue-jays-dodgers-trump-canada-us.html"
   },
   {
-    "score": 50,
+    "score": 48,
     "pubdate": "2025-10-26-15-13-13 +0000",
     "source": "nypost",
     "headline": "Sen. Chris Murphy suggests Dems could end shutdown if GOP agrees to $20 billion deal, far less than prior $1.5 trillion ask",
@@ -43,13 +43,6 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-10-26-05-21-38 +0000",
-    "source": "nypost",
-    "headline": "Bikini-clad Brazilian influencer Melissa Said breaks silence after she’s arrested, accused of being drug trafficking queen",
-    "link": "https://nypost.com/2025/10/26/world-news/brazilian-influencer-melissa-said-breaks-silence-after-shes-arrested-accused-of-being-drug-trafficking-queen/"
-  },
-  {
-    "score": 42,
     "pubdate": "2025-10-26-09-00-00 +0000",
     "source": "wsj",
     "headline": "A State Department intelligence bureau cast doubt on the notion that Putin was prepared to negotiate an end to the Ukraine war, dissenting from a more optimistic CIA assessment of potential talks",
@@ -63,7 +56,14 @@
     "link": "https://nypost.com/2025/10/25/us-news/trump-dances-as-he-arrives-in-kuala-lampur-for-asia-tour/"
   },
   {
-    "score": 38,
+    "score": 40,
+    "pubdate": "2025-10-26-05-21-38 +0000",
+    "source": "nypost",
+    "headline": "Bikini-clad Brazilian influencer Melissa Said breaks silence after she’s arrested, accused of being drug trafficking queen",
+    "link": "https://nypost.com/2025/10/26/world-news/brazilian-influencer-melissa-said-breaks-silence-after-shes-arrested-accused-of-being-drug-trafficking-queen/"
+  },
+  {
+    "score": 39,
     "pubdate": "2025-10-26-10-00-00 +0000",
     "source": "latimes",
     "headline": "Strings attached to bills Newsom signed on antisemitism, AI transparency and other major California policies",
