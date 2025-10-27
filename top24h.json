@@ -1,13 +1,13 @@
 [
   {
-    "score": 156,
+    "score": 142,
     "pubdate": "2025-10-27-02-01-40 +0000",
     "source": "bbc",
     "headline": "US and China agree framework of trade deal ahead of Trump-Xi meeting",
     "link": "https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2025-10-26-16-10-00 +0000",
     "source": "wsj",
     "headline": "The U.S. will impose an additional 10% tariff on Canada, a punitive measure in response to an ad campaign there that President Trump said misrepresented comments by former President Ronald Reagan",
@@ -28,18 +28,11 @@
     "link": "https://nypost.com/2025/10/26/us-news/gavin-newsoms-story-about-hustling-to-pay-the-bills-raises-eyebrows-given-his-familys-ties-to-billionaire-heir/"
   },
   {
-    "score": 50,
-    "pubdate": "2025-10-26-21-09-52 +0000",
+    "score": 51,
+    "pubdate": "2025-10-26-16-59-27 +0000",
     "source": "nyt",
-    "headline": "Trump, Long Erratic on the World Stage, Reaches a New Level",
-    "link": "https://www.nytimes.com/2025/10/26/us/politics/trump-erratic-foreign-policy.html"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-10-26-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Jared Golden didn’t just side with the GOP in the House vote to avoid the government shutdown. the Maine Democrat said they were right in their central criticism of his party’s stance",
-    "link": "https://www.wsj.com/politics/policy/jared-golden-maine-democrat-shutdown-f18bb2fb"
+    "headline": "‘No Idea How Long People Can Hold Out’: Federal Workers Feel Brunt of Shutdown",
+    "link": "https://www.nytimes.com/2025/10/26/us/politics/federal-workers-shutdown-pay.html"
   },
   {
     "score": 45,
@@ -49,7 +42,7 @@
     "link": "https://nypost.com/2025/10/26/world-news/louvre-heist-suspects-arrested-after-french-police-tipped-on-plan-to-flee-to-africa/"
   },
   {
-    "score": 43,
+    "score": 44,
     "pubdate": "2025-10-26-09-00-00 +0000",
     "source": "wsj",
     "headline": "A State Department intelligence bureau cast doubt on the notion that Putin was prepared to negotiate an end to the Ukraine war, dissenting from a more optimistic CIA assessment of potential talks",
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/10/25/us/politics/guantanamo-bay-hurricane-melissa-evacuations.html"
   },
   {
-    "score": 35,
-    "pubdate": "2025-10-26-18-00-40 +0000",
+    "score": 40,
+    "pubdate": "2025-10-26-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Jared Golden didn’t just side with the GOP in the House vote to avoid the government shutdown. the Maine Democrat said they were right in their central criticism of his party’s stance",
+    "link": "https://www.wsj.com/politics/policy/jared-golden-maine-democrat-shutdown-f18bb2fb"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-10-26-21-09-52 +0000",
     "source": "nyt",
-    "headline": "Palestinian Leader Lays Out Succession Plan, Elevating Deputy as Apparent Heir",
-    "link": "https://www.nytimes.com/2025/10/26/world/middleeast/palestinian-authority-abbas-deputy-succession.html"
+    "headline": "Trump, Long Erratic on the World Stage, Reaches a New Level",
+    "link": "https://www.nytimes.com/2025/10/26/us/politics/trump-erratic-foreign-policy.html"
   }
 ]
