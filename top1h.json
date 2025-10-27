@@ -1,35 +1,70 @@
 [
   {
+    "score": 18,
+    "pubdate": "2025-10-27-05-28-00 +0000",
+    "source": "wsj",
+    "headline": "Softbank-Backed Lenskart Solutions Seeks to Raise Up to $829M in India IPO",
+    "link": "https://www.wsj.com/business/retail/softbank-backed-lenskart-solutions-seeks-to-raise-up-to-829m-in-india-ipo-301ffcbe?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-27-05-22-00 +0000",
+    "source": "wsj",
+    "headline": "Two U.S. Navy Aircraft From Same Carrier Crash Into South China Sea",
+    "link": "https://www.wsj.com/us-news/two-u-s-navy-aircraft-from-same-carrier-crash-into-south-china-sea-efc10fad"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-27-05-21-20 +0000",
+    "source": "bbc",
+    "headline": "Four killed in Cameroon protests as results due in contested election",
+    "link": "https://www.bbc.com/news/articles/cly4x9n0yvno?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 14,
-    "pubdate": "2025-10-27-04-00-35 +0000",
+    "pubdate": "2025-10-27-04-57-25 +0000",
     "source": "nyt",
     "headline": "Javier Milei’s Party Triumphs in Argentina Midterm Election",
     "link": "https://www.nytimes.com/2025/10/26/world/americas/argentina-election-javier-milei.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-10-27-04-01-25 +0000",
-    "source": "nyt",
-    "headline": "2 U.S. Navy Aircraft Go Down in South China Sea",
-    "link": "https://www.nytimes.com/2025/10/27/world/asia/navy-aircraft-crash-south-china-sea.html"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-10-27-04-00-06 +0000",
-    "source": "nyt",
-    "headline": "Diphtheria, a Once Vanquished Killer of Children, Is Resurgent",
-    "link": "https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html"
+    "score": 11,
+    "pubdate": "2025-10-27-05-38-29 +0000",
+    "source": "nypost",
+    "headline": "Laugh Factory manager arrested in front of mother outside Chicago comedy club by federal agents",
+    "link": "https://nypost.com/2025/10/27/us-news/laugh-factory-manager-arrested-in-front-of-mother-outside-chicago-comedy-club-by-federal-agents/"
   },
   {
     "score": 4,
-    "pubdate": "2025-10-27-04-01-05 +0000",
-    "source": "nyt",
-    "headline": "In U.K., China Is a Threat and a Coveted Trade Partner",
-    "link": "https://www.nytimes.com/2025/10/27/world/europe/britain-china-national-security-economy.html"
+    "pubdate": "2025-10-27-05-14-10 +0000",
+    "source": "bbc",
+    "headline": "Argentina's Milei wins big in midterms with 'chainsaw' austerity",
+    "link": "https://www.bbc.com/news/articles/c4gw8qpyvqdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 0,
-    "pubdate": "2025-10-27-04-00-35 +0000",
+    "pubdate": "2025-10-27-05-28-00 +0000",
+    "source": "wsj",
+    "headline": "Softbank-Backed Lenskart Solutions Seeks to Raise Up to $829M in India IPO",
+    "link": "https://www.wsj.com/business/retail/softbank-backed-lenskart-solutions-seeks-to-raise-up-to-829m-in-india-ipo-301ffcbe?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-27-05-22-00 +0000",
+    "source": "wsj",
+    "headline": "Two U.S. Navy Aircraft From Same Carrier Crash Into South China Sea",
+    "link": "https://www.wsj.com/us-news/two-u-s-navy-aircraft-from-same-carrier-crash-into-south-china-sea-efc10fad"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-27-05-21-20 +0000",
+    "source": "bbc",
+    "headline": "Four killed in Cameroon protests as results due in contested election",
+    "link": "https://www.bbc.com/news/articles/cly4x9n0yvno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-27-04-57-25 +0000",
     "source": "nyt",
     "headline": "Javier Milei’s Party Triumphs in Argentina Midterm Election",
     "link": "https://www.nytimes.com/2025/10/26/world/americas/argentina-election-javier-milei.html"
