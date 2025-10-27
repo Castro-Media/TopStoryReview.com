@@ -1,17 +1,31 @@
 [
   {
-    "score": 143,
+    "score": 147,
     "pubdate": "2025-10-26-16-00-33 +0000",
     "source": "bbc",
     "headline": "US and China agree framework of trade deal ahead of Trump-Xi meeting",
     "link": "https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 74,
+    "score": 72,
     "pubdate": "2025-10-26-16-10-00 +0000",
     "source": "wsj",
     "headline": "The U.S. will impose an additional 10% tariff on Canada, a punitive measure in response to an ad campaign there that President Trump said misrepresented comments by former President Ronald Reagan",
     "link": "https://www.wsj.com/politics/policy/trump-hikes-tariffs-on-canada-by-10-over-ontario-ad-0fc64764"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-10-26-21-09-52 +0000",
+    "source": "nyt",
+    "headline": "Trump, Long Erratic on the World Stage, Reaches a New Level",
+    "link": "https://www.nytimes.com/2025/10/26/us/politics/trump-erratic-foreign-policy.html"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-10-26-20-12-23 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom’s story about ‘hustling’ to pay the bills raises eyebrows — given his family’s ties to billionaire heir",
+    "link": "https://nypost.com/2025/10/26/us-news/gavin-newsoms-story-about-hustling-to-pay-the-bills-raises-eyebrows-given-his-familys-ties-to-billionaire-heir/"
   },
   {
     "score": 49,
@@ -28,25 +42,11 @@
     "link": "https://www.nytimes.com/2025/10/26/weather/jamaica-worst-storms-hurricane-melissa.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-10-26-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Strings attached to bills Newsom signed on antisemitism, AI transparency and other major California policies",
-    "link": "https://www.latimes.com/california/story/2025-10-26/strings-attached-to-bills-newsom-signed-on-ai-transparency-and-other-major-new-laws"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-10-26-18-28-41 +0000",
-    "source": "nypost",
-    "headline": "NJ in-person voting shows GOP uptick over 2021 — as voters turn out in droves for close governor’s race",
-    "link": "https://nypost.com/2025/10/26/us-news/nj-in-person-voting-shows-gop-uptick-over-2021-as-voters-turn-out-in-droves-for-close-governors-race/"
-  },
-  {
-    "score": 43,
-    "pubdate": "2025-10-26-06-49-24 +0000",
-    "source": "nypost",
-    "headline": "Trump signs peace, trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
-    "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/"
+    "score": 45,
+    "pubdate": "2025-10-26-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Jared Golden didn’t just side with the GOP in the House vote to avoid the government shutdown. the Maine Democrat said they were right in their central criticism of his party’s stance",
+    "link": "https://www.wsj.com/politics/policy/jared-golden-maine-democrat-shutdown-f18bb2fb"
   },
   {
     "score": 41,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2025/10/26/world-news/louvre-heist-suspects-arrested-after-french-police-tipped-on-plan-to-flee-to-africa/"
   },
   {
+    "score": 41,
+    "pubdate": "2025-10-26-06-49-24 +0000",
+    "source": "nypost",
+    "headline": "Trump signs peace, trade deals ending conflict between Cambodia and Thailand — rips UN: ‘Didn’t get involved’",
+    "link": "https://nypost.com/2025/10/26/us-news/trump-signs-peace-and-trade-deals-ending-conflict-between-cambodia-and-thailand-rips-un-didnt-get-involved/"
+  },
+  {
     "score": 38,
     "pubdate": "2025-10-26-09-00-00 +0000",
     "source": "wsj",
     "headline": "A State Department intelligence bureau cast doubt on the notion that Putin was prepared to negotiate an end to the Ukraine war, dissenting from a more optimistic CIA assessment of potential talks",
     "link": "https://www.wsj.com/politics/national-security/putin-ukraine-peace-state-department-c9ed6cef"
-  },
-  {
-    "score": 37,
-    "pubdate": "2025-10-26-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Jared Golden didn’t just side with the GOP in the House vote to avoid the government shutdown. the Maine Democrat said they were right in their central criticism of his party’s stance",
-    "link": "https://www.wsj.com/politics/policy/jared-golden-maine-democrat-shutdown-f18bb2fb"
   }
 ]
