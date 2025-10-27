@@ -1,51 +1,72 @@
 [
   {
-    "score": 22,
-    "pubdate": "2025-10-27-13-00-37 +0000",
-    "source": "nypost",
-    "headline": "Trump issues chilling warning to Putin after Russia tests new ‘invincible’ nuclear missile",
-    "link": "https://nypost.com/2025/10/27/us-news/trump-warns-putin-after-russia-tests-new-invincible-nuclear-missile/"
+    "score": 28,
+    "pubdate": "2025-10-27-13-59-48 +0000",
+    "source": "nyt",
+    "headline": "ICE Detains British Media Commentator Sami Hamdi",
+    "link": "https://www.nytimes.com/2025/10/27/us/sami-hamdi-detained-ice.html"
   },
   {
-    "score": 14,
-    "pubdate": "2025-10-27-12-55-09 +0000",
+    "score": 17,
+    "pubdate": "2025-10-27-14-46-00 +0000",
+    "source": "wsj",
+    "headline": "Argentina’s Bonds, Stocks, Currency Rally After Milei Victory",
+    "link": "https://www.wsj.com/finance/investing/argentinas-bonds-rally-after-milei-victory-738e1966?mod=rss_markets_main"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-27-14-45-03 +0000",
+    "source": "wapo",
+    "headline": "Trump rebukes Putin for testing new missiles, tells him to end the war",
+    "link": "https://www.washingtonpost.com/world/2025/10/27/russia-us-trump-putin-missile-test/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-27-14-41-00 +0000",
+    "source": "wsj",
+    "headline": "Janus Henderson Gets $7.2 Billion Offer From Trian, General Catalyst",
+    "link": "https://www.wsj.com/finance/investing/janus-henderson-gets-46-per-share-offer-from-trian-general-catalyst-d8569273?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-27-14-07-08 +0000",
+    "source": "nyt",
+    "headline": "Carney of Canada Says He’ll Meet Xi of China",
+    "link": "https://www.nytimes.com/2025/10/27/us/politics/carney-xi-meeting-china-canada.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-10-27-14-24-03 +0000",
+    "source": "cbc",
+    "headline": "Nearly 42 million Americans who use food assistance program could be impacted in days as U.S. shutdown lingers",
+    "link": "https://www.cbc.ca/news/world/us-govt-shutdown-snap-benefits-expiration-9.6954590?cmp=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-27-14-37-36 +0000",
     "source": "nypost",
-    "headline": "Navy fighter jet, helicopter based off aircraft carrier crash into South China Sea within 30 minutes",
-    "link": "https://nypost.com/2025/10/27/us-news/navy-fighter-jet-helicopter-based-off-uss-nimitz-aircraft-carrier-crash-into-south-china-sea-within-30-minutes/"
+    "headline": "‘CBS Evening News’ co-anchor John Dickerson to leave network by year’s end: source",
+    "link": "https://nypost.com/2025/10/27/media/cbs-evening-news-co-anchor-john-dickerson-to-leave-network-by-years-end-source/"
   },
   {
     "score": 12,
-    "pubdate": "2025-10-27-13-02-18 +0000",
-    "source": "nyt",
-    "headline": "U.S. Assessment of Israeli Shooting of Journalist Divided American Officials",
-    "link": "https://www.nytimes.com/2025/10/27/world/middleeast/shooting-palestinian-american-journalist.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-10-27-13-00-07 +0000",
-    "source": "nyt",
-    "headline": "In Ancient Spain, a Nail Through the Skull Could Mean Enmity, or Honor",
-    "link": "https://www.nytimes.com/2025/10/27/science/archaeology-spain-skulls.html"
-  },
-  {
-    "score": 2,
-    "pubdate": "2025-10-27-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Seal of California",
-    "link": "https://missionlocal.org/2025/10/sf-photos-seal-of-california/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-27-13-02-18 +0000",
-    "source": "nyt",
-    "headline": "U.S. Assessment of Israeli Shooting of Journalist Divided American Officials",
-    "link": "https://www.nytimes.com/2025/10/27/world/middleeast/shooting-palestinian-american-journalist.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-27-13-00-37 +0000",
+    "pubdate": "2025-10-27-13-54-41 +0000",
     "source": "nypost",
-    "headline": "Trump issues chilling warning to Putin after Russia tests new ‘invincible’ nuclear missile",
-    "link": "https://nypost.com/2025/10/27/us-news/trump-warns-putin-after-russia-tests-new-invincible-nuclear-missile/"
+    "headline": "Dow soars 300 points over possible China trade deal on rare earths, soybeans and TikTok",
+    "link": "https://nypost.com/2025/10/27/business/dow-soars-300-points-on-possible-china-trade-deal-for-rare-earths/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-27-14-04-48 +0000",
+    "source": "nypost",
+    "headline": "University scraps job posting after DEI requirement exposed — and current professor says ‘I would not be hired’ today",
+    "link": "https://nypost.com/2025/10/27/us-news/university-of-washington-scraps-job-posting-after-dei-requirement-exposed/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-27-14-30-23 +0000",
+    "source": "nyt",
+    "headline": "Virginia Democrats to Begin Redistricting Votes in Latest Battle for Congress",
+    "link": "https://www.nytimes.com/2025/10/27/us/virginia-redistricting-vote.html"
   }
 ]
