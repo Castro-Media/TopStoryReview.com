@@ -1,6 +1,6 @@
 [
   {
-    "score": 213,
+    "score": 210,
     "pubdate": "2025-10-27-09-37-17 +0000",
     "source": "nypost",
     "headline": "Trump rules out running as Vance’s VP to gain third term, but open to Bannon plan: ‘Let AOC go against Trump’",
@@ -14,7 +14,7 @@
     "link": "https://nypost.com/2025/10/27/business/treasury-secretary-bessent-says-he-has-felt-pain-from-tariffs-because-he-is-a-soybean-farmer/"
   },
   {
-    "score": 78,
+    "score": 73,
     "pubdate": "2025-10-27-09-01-23 +0000",
     "source": "wsj",
     "headline": "Stock Market Today: Dow Hits New Record on U.S.-China Trade Deal Hopes",
@@ -26,13 +26,6 @@
     "source": "latimes",
     "headline": "'CBS Evening News' co-anchor John Dickerson will leave the network this year",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-27/cbs-evening-news-co-anchor-john-dickerson-will-leave-the-network-at-the-end-of-the-year"
-  },
-  {
-    "score": 57,
-    "pubdate": "2025-10-26-19-51-18 +0000",
-    "source": "nyt",
-    "headline": "Hurricane Melissa Could Hit as One of Jamaica’s Strongest Storms Ever",
-    "link": "https://www.nytimes.com/2025/10/26/weather/jamaica-worst-storms-hurricane-melissa.html"
   },
   {
     "score": 56,
@@ -57,10 +50,17 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-10-27-13-44-37 +0000",
-    "source": "nyt",
-    "headline": "Javier Milei’s Party Triumphs in Argentina Midterm Election",
-    "link": "https://www.nytimes.com/2025/10/26/world/americas/argentina-election-javier-milei.html"
+    "pubdate": "2025-10-27-12-01-00 +0000",
+    "source": "wsj",
+    "headline": "Milei Wins Mandate for Free-Market Revolution in Argentina’s Election",
+    "link": "https://www.wsj.com/world/americas/milei-wins-mandate-for-free-market-revolution-in-argentinas-election-3be65f38"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-10-27-17-43-30 +0000",
+    "source": "bbc",
+    "headline": "Jamaica in path of 'life-threatening' category five Hurricane Melissa",
+    "link": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 43,
