@@ -1,6 +1,6 @@
 [
   {
-    "score": 593,
+    "score": 591,
     "pubdate": "2025-10-26-18-31-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it reached trade agreements with Malaysia and Cambodia, and frameworks for deals with Thailand and Vietnam during President Trump’s trip across Asia",
@@ -28,7 +28,7 @@
     "link": "https://www.wsj.com/politics/policy/san-francisco-troops-tech-ceos-45623a7f"
   },
   {
-    "score": 111,
+    "score": 110,
     "pubdate": "2025-10-28-01-00-00 +0000",
     "source": "wsj",
     "headline": "The poor suburbs that ring Argentina’s capital long powered the leftist Peronist movement. On Sunday, they made a historic shift that propelled President Milei’s party to a surprise victory.",
@@ -50,17 +50,10 @@
   },
   {
     "score": 102,
-    "pubdate": "2025-10-22-21-03-53 +0000",
-    "source": "nyt",
-    "headline": "What’s Left to Be Done in the Gaza Cease-Fire Deal",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010457972/whats-left-to-be-done-in-the-gaza-cease-fire-deal.html"
-  },
-  {
-    "score": 102,
-    "pubdate": "2025-10-26-10-00-00 +0000",
+    "pubdate": "2025-10-24-20-56-50 +0000",
     "source": "latimes",
-    "headline": "For California delegation and its staffers, here's what shutdown life looks like",
-    "link": "https://www.latimes.com/politics/story/2025-10-26/government-shutdown-california-delegation-congress"
+    "headline": "Video shows security opening fire on U-Haul truck outside Coast Guard base in California",
+    "link": "https://www.latimes.com/california/story/2025-10-24/coast-guard-uhaul-alameda-shooting"
   },
   {
     "score": 99,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Storm chaser captures stunning eye of Hurricane Melissa before Category 5 storm clobbers Jamaica — as 3 already dead",
     "link": "https://nypost.com/2025/10/27/world-news/hurricane-melissas-eye-revealed-before-storm-clobbers-jamaica/"
+  },
+  {
+    "score": 98,
+    "pubdate": "2025-10-28-05-18-42 +0000",
+    "source": "wapo",
+    "headline": "Trump signs rare earth minerals deal with Japan ahead of China meeting",
+    "link": "https://www.washingtonpost.com/politics/2025/10/27/trump-japan-critical-minerals-china/"
   }
 ]
