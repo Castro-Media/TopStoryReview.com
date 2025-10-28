@@ -1,9 +1,459 @@
 [
   {
-    "headline": "Tourist plane with 12 on board crashes near Kenya's coast",
+    "headline": "Sudan's army loses key city of el-Fasher to paramilitary RSF after 18-month siege",
+    "link": "https://www.bbc.com/news/articles/clyld9w0283o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-13-03-39 +0000"
+  },
+  {
+    "headline": "Nighttime",
+    "link": "https://missionlocal.org/2025/10/sf-photos-nighttime/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-28-13-00-00 +0000"
+  },
+  {
+    "headline": "Texas Sues Tylenol Makers, Claiming They Hid Autism Risks",
+    "link": "https://www.nytimes.com/2025/10/28/health/tylenol-autism-texas-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-58-07 +0000"
+  },
+  {
+    "headline": "Texas Sues Tylenol Makers, Claiming They Hid Autism Risks",
+    "link": "https://www.nytimes.com/2025/10/28/health/tylenol-autism-texas-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-58-07 +0000"
+  },
+  {
+    "headline": "Mexican journalist found dead with sinister note after reporting on cartel boss arrest: ‘For spreading false accusations’",
+    "link": "https://nypost.com/2025/10/28/world-news/journalist-found-dead-after-reporting-on-cartel-boss-arrest/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-12-57-58 +0000"
+  },
+  {
+    "headline": "Texas Sues Kenvue, Alleging Omission of Autism Link From Tylenol Marketing",
+    "link": "https://www.wsj.com/health/healthcare/texas-sues-kenvue-alleging-omission-of-autism-link-from-tylenol-marketing-d5ab7d50?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-57-00 +0000"
+  },
+  {
+    "headline": "Amazon cutting 14,000 corporate jobs to spend more on AI",
+    "link": "https://www.cbc.ca/news/business/amazon-14000-corporate-layoffs-artificial-intelligence-9.6956357?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-28-12-56-49 +0000"
+  },
+  {
+    "headline": "UPS Cuts 48,000 Jobs in Management and Operations",
+    "link": "https://www.wsj.com/business/logistics/united-parcel-service-ups-q3-earnings-report-2025-stock-jobs-layoffs-1d954f75?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-56-00 +0000"
+  },
+  {
+    "headline": "Awkward White House talks await Orban as US-Hungary relations sour",
+    "link": "https://www.bbc.com/news/articles/c5ypl16pp81o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-55-46 +0000"
+  },
+  {
+    "headline": "Live Updates: Jamaica Warns Hurricane Melissa Will Bring Catastrophic Winds and Rain",
+    "link": "https://www.nytimes.com/live/2025/10/28/weather/hurricane-melissa-jamaica-landfall",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-55-05 +0000"
+  },
+  {
+    "headline": "Jamaica’s Beach Towns and Fishing Villages Brace for Hurricane Melissa",
+    "link": "https://www.nytimes.com/2025/10/28/world/americas/jamaica-hurricane-melissa-resorts.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-54-46 +0000"
+  },
+  {
+    "headline": "Jamaica’s Beach Towns and Fishing Villages Brace for Hurricane Melissa",
+    "link": "https://www.nytimes.com/2025/10/28/world/americas/jamaica-hurricane-melissa-resorts.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-54-46 +0000"
+  },
+  {
+    "headline": "Israel says coffin from Hamas did not contain another hostage's body",
+    "link": "https://www.bbc.com/news/articles/cly9z0mvzyko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-43-39 +0000"
+  },
+  {
+    "headline": "Israel says coffin from Hamas did not contain another hostage's body",
+    "link": "https://www.bbc.com/news/articles/cly9z0mvzyko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-43-39 +0000"
+  },
+  {
+    "headline": "On the Menu for Trump in Tokyo: American Rice",
+    "link": "https://www.nytimes.com/2025/10/28/world/asia/trump-japan-america-rice.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-42-40 +0000"
+  },
+  {
+    "headline": "On the Menu for Trump in Tokyo: American Rice",
+    "link": "https://www.nytimes.com/2025/10/28/world/asia/trump-japan-america-rice.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-42-40 +0000"
+  },
+  {
+    "headline": "On the Menu for Trump in Tokyo: American Rice",
+    "link": "https://www.nytimes.com/2025/10/28/world/asia/trump-japan-america-rice.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-42-40 +0000"
+  },
+  {
+    "headline": "Bill Gates Says Climate Change ‘Will Not Lead to Humanity’s Demise’",
+    "link": "https://www.nytimes.com/2025/10/28/climate/bill-gates-climate-change-humanity.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-40-49 +0000"
+  },
+  {
+    "headline": "When is the Budget and what might be in it?",
+    "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-37-48 +0000"
+  },
+  {
+    "headline": "When is the Budget and what might be in it?",
+    "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-37-48 +0000"
+  },
+  {
+    "headline": "Amazon confirms 14,000 job losses in corporate division",
+    "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-37-16 +0000"
+  },
+  {
+    "headline": "Amazon confirms 14,000 job losses in corporate division",
+    "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-37-16 +0000"
+  },
+  {
+    "headline": "Amazon confirms 14,000 job losses in corporate division",
+    "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-37-16 +0000"
+  },
+  {
+    "headline": "Will Bill Gates’s ‘Strategic Pivot’ Shake Up Climate Policy?",
+    "link": "https://www.nytimes.com/2025/10/28/business/dealbook/bill-gates-climate-pivot.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-36-03 +0000"
+  },
+  {
+    "headline": "Prunella Scales, comic battle-ax of ‘Fawlty Towers,’ dies at 93",
+    "link": "https://www.washingtonpost.com/obituaries/2025/10/28/prunella-scales-dead-fawlty-towers/",
+    "source": "wapo",
+    "pubdate": "2025-10-28-12-35-51 +0000"
+  },
+  {
+    "headline": "Novartis Expects to Ride Out Patent Losses With Sales, Profit Growth Ahead",
+    "link": "https://www.wsj.com/business/earnings/novartis-posts-higher-net-profit-as-key-drugs-lift-sales-4ba2d5c2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-30-00 +0000"
+  },
+  {
+    "headline": "Amazon cuts 14,000 corporate jobs as spending on artificial intelligence accelerates",
+    "link": "https://www.startribune.com/amazon-cuts-14000-corporate-jobs-as-spending-on-artificial-intelligence-accelerates/601507987",
+    "source": "startribune",
+    "pubdate": "2025-10-28-12-25-06 +0000"
+  },
+  {
+    "headline": "Prunella Scales, sharp-tongued and long-suffering wife on Fawlty Towers, dead at 93",
+    "link": "https://www.cbc.ca/news/entertainment/obit-uk-actor-prunella-scales-obit-9.6956315?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-28-12-22-55 +0000"
+  },
+  {
+    "headline": "Tourist plane crashes in Kenya on way to world-famous reserve — killing everyone on board",
+    "link": "https://nypost.com/2025/10/28/world-news/tourist-plane-crashes-in-kenya-on-way-to-world-famous-reserve-killing-everyone-on-board/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-12-21-33 +0000"
+  },
+  {
+    "headline": "A Tidy Dutch Town Offers a Window Into a Messy Dutch Election",
+    "link": "https://www.nytimes.com/2025/10/28/world/europe/netherlands-geert-wilders-election.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-20-21 +0000"
+  },
+  {
+    "headline": "A Tidy Dutch Town Offers a Window Into a Messy Dutch Election",
+    "link": "https://www.nytimes.com/2025/10/28/world/europe/netherlands-geert-wilders-election.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-20-21 +0000"
+  },
+  {
+    "headline": "UPS Profit, Revenue Fall but Saw Strong International Growth",
+    "link": "https://www.wsj.com/business/earnings/ups-profit-revenue-fall-but-beat-expectations-on-strong-international-growth-37949f58?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-20-00 +0000"
+  },
+  {
+    "headline": "D.R. Horton Profit Falls as Housing Market Remains Stagnant",
+    "link": "https://www.wsj.com/business/earnings/d-r-horton-profit-falls-as-housing-market-remains-stagnant-8aa97f24?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-17-00 +0000"
+  },
+  {
+    "headline": "Wayfair Posts Higher Revenue on Increased Orders",
+    "link": "https://www.wsj.com/business/earnings/wayfair-posts-higher-revenue-on-increased-orders-5eec0b62?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-12-00 +0000"
+  },
+  {
+    "headline": "Whatnot Raises $225 Million as Investors Bet on Livestream Shopping",
+    "link": "https://www.nytimes.com/2025/10/28/business/dealbook/whatnot-livestream-shopping-fundraise.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-12-11-25 +0000"
+  },
+  {
+    "headline": "Anglo American Warns on 2026 Copper Output",
+    "link": "https://www.wsj.com/business/anglo-american-steelmaking-coal-output-tumbles-after-australian-mine-fire-34104b36?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-08-00 +0000"
+  },
+  {
+    "headline": "Trump’s Big Tariff Task in Asia Is to Close the Deal",
+    "link": "https://www.wsj.com/economy/trade/trump-tariffs-asia-visit-86d4a6a6",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-06-00 +0000"
+  },
+  {
+    "headline": "President Trump’s ability to reorder global trade through personal diplomacy will be tested during his tour of Asia this week",
+    "link": "https://www.wsj.com/economy/trade/trump-tariffs-asia-visit-86d4a6a6",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-06-00 +0000"
+  },
+  {
+    "headline": "Two military sites earmarked as asylum seeker accommodation",
+    "link": "https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-12-04-15 +0000"
+  },
+  {
+    "headline": "‘Stable chaos’ — Ukraine’s fortress city of Pokrovsk holds out, barely",
+    "link": "https://www.washingtonpost.com/world/2025/10/28/ukraine-pokrovsk-russia-infiltrating-holding-out/",
+    "source": "wapo",
+    "pubdate": "2025-10-28-12-01-27 +0000"
+  },
+  {
+    "headline": "Japan’s new leader tries to charm Trump with gold, golf and deal on rare minerals",
+    "link": "https://www.washingtonpost.com/politics/2025/10/27/trump-japan-critical-minerals-china/",
+    "source": "wapo",
+    "pubdate": "2025-10-28-12-01-13 +0000"
+  },
+  {
+    "headline": "Commvault Revenue Rises on Continuing Demand but Profit Slips",
+    "link": "https://www.wsj.com/business/earnings/commvault-revenue-rises-on-continuing-demand-but-profit-slips-c06f26ec?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-12-01-00 +0000"
+  },
+  {
+    "headline": "Young woman’s naked body found stuffed in green duffel bag and dumped on NYC sidewalk",
+    "link": "https://nypost.com/2025/10/28/us-news/young-womans-naked-body-found-stuffed-in-green-duffel-bag-and-dumped-on-nyc-sidewalk/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-11-59-52 +0000"
+  },
+  {
+    "headline": "Royal Caribbean Posts Higher Profit; Says Weather, Destination Closure Hurting 4th Quarter",
+    "link": "https://www.wsj.com/business/earnings/royal-caribbean-posts-higher-profit-says-weather-destination-closure-hurting-4th-quarter-0221d01a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-57-00 +0000"
+  },
+  {
+    "headline": "Israel Conducts First Airstrike in West Bank in Months and Kills 3",
+    "link": "https://www.nytimes.com/2025/10/28/world/middleeast/jenin-west-bank-airstrike-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-11-56-01 +0000"
+  },
+  {
+    "headline": "Israel Conducts First Airstrike in West Bank in Months and Kills 3",
+    "link": "https://www.nytimes.com/2025/10/28/world/middleeast/jenin-west-bank-airstrike-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-11-56-01 +0000"
+  },
+  {
+    "headline": "Amid a Record Party Investment, Two Candidates for Governor Join Forces",
+    "link": "https://www.nytimes.com/2025/10/28/us/politics/amid-a-record-party-investment-two-candidates-for-governor-join-forces.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-11-55-04 +0000"
+  },
+  {
+    "headline": "Amid a Record Party Investment, Two Candidates for Governor Join Forces",
+    "link": "https://www.nytimes.com/2025/10/28/us/politics/amid-a-record-party-investment-two-candidates-for-governor-join-forces.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-11-55-04 +0000"
+  },
+  {
+    "headline": "JetBlue Quarterly Loss Widens, Demand Expected to Continue Improving",
+    "link": "https://www.wsj.com/business/earnings/jetblue-quarterly-loss-widens-demand-expected-to-continue-improving-3a67764b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-54-00 +0000"
+  },
+  {
+    "headline": "Toyota pledges $10B toward new auto plants in US: ‘Go out and buy a Toyota,’ Trump says",
+    "link": "https://nypost.com/2025/10/28/us-news/trump-toyota-pledges-10b-toward-new-auto-plants-in-us/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-11-49-55 +0000"
+  },
+  {
+    "headline": "Toyota pledges $10B toward new auto plants in US: ‘Go out and buy a Toyota,’ Trump says",
+    "link": "https://nypost.com/2025/10/28/us-news/trump-toyota-pledges-10b-toward-new-auto-plants-in-us/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-11-49-55 +0000"
+  },
+  {
+    "headline": "Toyota pledges $10B toward new auto plants in US: ‘Go out and buy a Toyota,’ Trump says",
+    "link": "https://nypost.com/2025/10/28/us-news/trump-toyota-pledges-10b-toward-new-auto-plants-in-us/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-11-49-55 +0000"
+  },
+  {
+    "headline": "American Tower Swings to a Profit Amid Strong Cell-Phone, AI Demand",
+    "link": "https://www.wsj.com/business/earnings/american-tower-swings-to-a-profit-amid-strong-cell-phone-ai-demand-085114c9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-49-00 +0000"
+  },
+  {
+    "headline": "Banijay to Buy Majority Stake in Tipico Group at $5.4 Billion Valuation",
+    "link": "https://www.wsj.com/business/deals/banijay-to-buy-majority-stake-in-tipico-group-at-5-4-billion-valuation-676196f0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-44-00 +0000"
+  },
+  {
+    "headline": "Cruise ship crew member mysteriously plunges overboard into Mediterranean Sea",
+    "link": "https://nypost.com/2025/10/28/world-news/cruise-ship-crew-member-goes-overboard-in-mediterranean-urgent-search-underway/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-11-41-30 +0000"
+  },
+  {
+    "headline": "Japan-U.S. Outline Investment Plan; Trump Says Toyota to Invest $10 Billion in U.S. Auto Plants",
+    "link": "https://www.wsj.com/economy/trade/japan-u-s-outline-investment-plan-trump-says-toyota-to-invest-10-billion-in-u-s-auto-plants-dcf3d8a2",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-41-00 +0000"
+  },
+  {
+    "headline": "Japan-U.S. Outline Investment Plan; Trump Says Toyota to Invest $10 Billion in U.S. Auto Plants",
+    "link": "https://www.wsj.com/economy/trade/japan-u-s-outline-investment-plan-trump-says-toyota-to-invest-10-billion-in-u-s-auto-plants-dcf3d8a2",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-41-00 +0000"
+  },
+  {
+    "headline": "Renters' Rights Act: Here's what it means for you",
+    "link": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-11-39-42 +0000"
+  },
+  {
+    "headline": "Renters' Rights Act: Here's what it means for you",
+    "link": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-11-39-42 +0000"
+  },
+  {
+    "headline": "Sherwin-Williams’ Profit Higher as Same-Store Sales Rise",
+    "link": "https://www.wsj.com/business/retail/sherwin-williams-profit-higher-as-same-store-sales-rise-ccb91de5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-39-00 +0000"
+  },
+  {
+    "headline": "Barclays to Buy U.S. Lending Startup Best Egg for $800 Million",
+    "link": "https://www.wsj.com/business/deals/barclays-to-buy-u-s-lending-startup-best-egg-for-800-million-fdae4fb2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-28-00 +0000"
+  },
+  {
+    "headline": "Barclays to Buy U.S. Lending Startup Best Egg for $800 Million",
+    "link": "https://www.wsj.com/business/deals/barclays-to-buy-u-s-lending-startup-best-egg-for-800-million-fdae4fb2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-28-00 +0000"
+  },
+  {
+    "headline": "Minneapolis teachers union votes to authorize strike",
+    "link": "https://www.startribune.com/minneapolis-teachers-union-votes-to-authorize-strike/601508016",
+    "source": "startribune",
+    "pubdate": "2025-10-28-11-27-45 +0000"
+  },
+  {
+    "headline": "PayPal to Partner with OpenAI for ChatGPT Checkout; Lifts Earnings Forecast",
+    "link": "https://www.wsj.com/business/earnings/paypal-to-partner-with-openai-for-chatgpt-checkout-lifts-earnings-forecast-e01e3212?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-24-00 +0000"
+  },
+  {
+    "headline": "Amazon Lays Off 14,000 Corporate Workers",
+    "link": "https://www.wsj.com/tech/amazon-to-layoff-tens-of-thousands-of-corporate-workers-056ebc4d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-20-00 +0000"
+  },
+  {
+    "headline": "Amazon Lays Off 14,000 Corporate Workers",
+    "link": "https://www.wsj.com/tech/amazon-to-layoff-tens-of-thousands-of-corporate-workers-056ebc4d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-11-20-00 +0000"
+  },
+  {
+    "headline": "Tourist plane crash in Kenya kills 11 on board",
     "link": "https://www.bbc.com/news/articles/c75146k9z4no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-28-10-53-27 +0000"
+    "pubdate": "2025-10-28-11-14-05 +0000"
+  },
+  {
+    "headline": "Tourist plane crash in Kenya kills 11 on board",
+    "link": "https://www.bbc.com/news/articles/c75146k9z4no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-11-14-05 +0000"
+  },
+  {
+    "headline": "Trump Bonds With Japan’s Leader Over Baseball and U.S. Beef",
+    "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-takaichi-japan-meeting.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-11-12-16 +0000"
+  },
+  {
+    "headline": "Trump Bonds With Japan’s Leader Over Baseball and U.S. Beef",
+    "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-takaichi-japan-meeting.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-11-12-16 +0000"
+  },
+  {
+    "headline": "Trump Bonds With Japan’s Leader Over Baseball and U.S. Beef",
+    "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-takaichi-japan-meeting.html",
+    "source": "nyt",
+    "pubdate": "2025-10-28-11-12-16 +0000"
+  },
+  {
+    "headline": "Anti-Israel trans rabbi who was once tossed out of the White House headlines ‘Jews for Zohran’ ad",
+    "link": "https://nypost.com/2025/10/28/us-news/anti-israel-trans-rabbi-abby-stein-who-was-once-tossed-out-of-the-white-house-headlines-jews-for-zohran-ad/",
+    "source": "nypost",
+    "pubdate": "2025-10-28-11-10-16 +0000"
+  },
+  {
+    "headline": "Most countries fail to submit new climate pledges ahead of summit",
+    "link": "https://www.bbc.com/news/articles/czdrv8m5v4lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-11-08-57 +0000"
+  },
+  {
+    "headline": "Resentment building for federal workers in Minnesota as shutdown nears one month",
+    "link": "https://www.startribune.com/federal-workers-resentment-building-gig-jobs-substitute-teaching-savings-deferring-bills/601499303",
+    "source": "startribune",
+    "pubdate": "2025-10-28-11-00-01 +0000"
+  },
+  {
+    "headline": "Tow trucks are coming for S.F.’s RVs. Their residents struggle for reprieve.",
+    "link": "https://missionlocal.org/2025/10/they-were-missed-in-s-f-s-city-wide-rv-count-as-tow-trucks-prepare-to-deploy-some-have-struggled-to-prove-they-were-there/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-28-11-00-00 +0000"
+  },
+  {
+    "headline": "13 horror-esque movies to catch before Halloween",
+    "link": "https://www.startribune.com/13-horror-esque-movies-to-catch-in-theaters-before-halloween/601499487",
+    "source": "startribune",
+    "pubdate": "2025-10-28-11-00-00 +0000"
   },
   {
     "headline": "Sudan’s Military Withdraws From El Fasher in Darfur, Handing City to R.S.F.",
@@ -34,18 +484,6 @@
     "link": "https://www.nytimes.com/2025/10/28/us/los-alamos-nuclear-program.html",
     "source": "nyt",
     "pubdate": "2025-10-28-10-46-14 +0000"
-  },
-  {
-    "headline": "Amazon Lays Off 14,000 Corporate Workers",
-    "link": "https://www.wsj.com/tech/amazon-to-layoff-tens-of-thousands-of-corporate-workers-056ebc4d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-10-45-00 +0000"
-  },
-  {
-    "headline": "Amazon Lays Off 14,000 Corporate Workers",
-    "link": "https://www.wsj.com/tech/amazon-to-layoff-tens-of-thousands-of-corporate-workers-056ebc4d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-10-45-00 +0000"
   },
   {
     "headline": "China Vows to Significantly Boost Household Consumption Rate",
@@ -56,12 +494,6 @@
   {
     "headline": "Trump Hails Golden Era in Japan Relations",
     "link": "https://www.wsj.com/world/asia/trump-hails-golden-era-in-japan-relations-63888687",
-    "source": "wsj",
-    "pubdate": "2025-10-28-10-41-00 +0000"
-  },
-  {
-    "headline": "UPS Profit, Revenue Fall but Beat Expectations on Strong International Growth",
-    "link": "https://www.wsj.com/business/earnings/ups-profit-revenue-fall-but-beat-expectations-on-strong-international-growth-37949f58?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-28-10-41-00 +0000"
   },
@@ -78,28 +510,10 @@
     "pubdate": "2025-10-28-10-34-32 +0000"
   },
   {
-    "headline": "Two military sites earmarked as asylum seeker accommodation",
-    "link": "https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-10-31-29 +0000"
-  },
-  {
-    "headline": "With golf, gold and deals, Japan’s new prime minister tries to charm Trump",
-    "link": "https://www.washingtonpost.com/politics/2025/10/27/trump-japan-critical-minerals-china/",
-    "source": "wapo",
-    "pubdate": "2025-10-28-10-28-57 +0000"
-  },
-  {
     "headline": "Jamaica, Cuba brace for Hurricane Melissa to make landfall today",
     "link": "https://www.cbc.ca/news/world/hurricane-melissa-tuesday-st-ann-jamaica-santiago-cuba-9.6956280?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-28-10-27-30 +0000"
-  },
-  {
-    "headline": "Novartis Expects to Ride Out Patent Losses With Sales, Profit Growth Ahead",
-    "link": "https://www.wsj.com/business/earnings/novartis-posts-higher-net-profit-as-key-drugs-lift-sales-4ba2d5c2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-10-26-00 +0000"
   },
   {
     "headline": "How much gas and electricity does a typical household use?",
@@ -108,16 +522,10 @@
     "pubdate": "2025-10-28-10-20-35 +0000"
   },
   {
-    "headline": "Amazon confirms 14,000 job losses in corporate division",
-    "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Pregnant British teenager's family pay £137,000 to reduce sentence in Georgia jail",
+    "link": "https://www.bbc.com/news/articles/cwypqwn4epyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-10-28-10-19-14 +0000"
-  },
-  {
-    "headline": "Amazon confirms 14,000 job losses in corporate division",
-    "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-10-19-14 +0000"
+    "pubdate": "2025-10-28-10-19-01 +0000"
   },
   {
     "headline": "Bella Culley's family pay £137k to reduce sentence",
@@ -132,10 +540,10 @@
     "pubdate": "2025-10-28-10-17-31 +0000"
   },
   {
-    "headline": "Rare earths, Nobel nomination and cheers: Trump ends Japan leg of Asia tour",
-    "link": "https://www.bbc.com/news/articles/c8drem8518do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-10-08-04 +0000"
+    "headline": "Carney mum on whether he saw Ontario's anti-tariff ad beforehand",
+    "link": "https://www.cbc.ca/news/politics/carney-trump-trade-tariffs-ad-9.6956269?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-28-10-14-40 +0000"
   },
   {
     "headline": "Rare earths, Nobel nomination and cheers: Trump ends Japan leg of Asia tour",
@@ -144,10 +552,10 @@
     "pubdate": "2025-10-28-10-08-04 +0000"
   },
   {
-    "headline": "UnitedHealth Revenue Rises as Turnaround Efforts Continue",
-    "link": "https://www.wsj.com/business/earnings/unitedhealth-revenue-rises-as-turnaround-efforts-continue-c66c3d8d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-10-07-00 +0000"
+    "headline": "Rare earths, Nobel nomination and cheers: Trump ends Japan leg of Asia tour",
+    "link": "https://www.bbc.com/news/articles/c8drem8518do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-28-10-08-04 +0000"
   },
   {
     "headline": "Headlights to be reviewed after drivers complain of being 'blinded' at night",
@@ -210,14 +618,14 @@
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
   {
-    "headline": "These protesters blocked the 110 Freeway. Now, their cases are on track to be dismissed",
-    "link": "https://www.latimes.com/california/story/2025-10-28/pro-palestinian-freeway-protesters-could-see-charges-dropped",
+    "headline": "Chabria: From 'election integrity' to voter suppression: America's long, slow slide",
+    "link": "https://www.latimes.com/california/story/2025-10-28/chabria-column-poll-monitoring-election-supression",
     "source": "latimes",
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: From 'election integrity' to voter suppression: America's long, slow slide",
-    "link": "https://www.latimes.com/california/story/2025-10-28/chabria-column-poll-monitoring-election-supression",
+    "headline": "These protesters blocked the 110 Freeway. Now, their cases are on track to be dismissed",
+    "link": "https://www.latimes.com/california/story/2025-10-28/pro-palestinian-freeway-protesters-could-see-charges-dropped",
     "source": "latimes",
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
@@ -228,14 +636,14 @@
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
   {
-    "headline": "Raid of fireworks lab that spurred school evacuations is connected to massive California explosion",
-    "link": "https://www.latimes.com/california/story/2025-10-28/students-evacuated-as-law-enforcement-raids-illegal-fireworks-lab-in-east-l-a",
+    "headline": "L.A. County asks court to block release of thousands of sheriff's deputy photos",
+    "link": "https://www.latimes.com/california/story/2025-10-28/los-angeles-county-sheriff-deputy-headshot-photos-case",
     "source": "latimes",
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
   {
-    "headline": "L.A. County asks court to block release of thousands of sheriff's deputy photos",
-    "link": "https://www.latimes.com/california/story/2025-10-28/los-angeles-county-sheriff-deputy-headshot-photos-case",
+    "headline": "Raid of fireworks lab that spurred school evacuations is connected to massive California explosion",
+    "link": "https://www.latimes.com/california/story/2025-10-28/students-evacuated-as-law-enforcement-raids-illegal-fireworks-lab-in-east-l-a",
     "source": "latimes",
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
@@ -249,6 +657,12 @@
     "headline": "Hiltzik: The NBA's gambling scandal was utterly predictable — and other pro sports will be next",
     "link": "https://www.latimes.com/business/story/2025-10-28/the-nbas-gambling-scandal-was-utterly-predictable-and-other-pro-sports-will-be-next",
     "source": "latimes",
+    "pubdate": "2025-10-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Ramstad: Minneapolis shooting and provocative documentary columns sparked reader outpouring",
+    "link": "https://www.startribune.com/ramstad-readers-praise-annunciation-shooting-column-lament-precarious-state-coverage/601491351",
+    "source": "startribune",
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
   {
@@ -274,12 +688,6 @@
     "link": "https://www.latimes.com/california/story/2025-10-28/chabria-column-poll-monitoring-election-supression",
     "source": "latimes",
     "pubdate": "2025-10-28-10-00-00 +0000"
-  },
-  {
-    "headline": "Live Updates: Jamaica Warns Hurricane Melissa Will Bring Catastrophic Winds and Rain",
-    "link": "https://www.nytimes.com/live/2025/10/28/weather/hurricane-melissa-jamaica-landfall",
-    "source": "nyt",
-    "pubdate": "2025-10-28-09-50-40 +0000"
   },
   {
     "headline": "Shinzo Abe’s Killer Says ‘I Did It’ as Trial Begins",
@@ -312,18 +720,6 @@
     "pubdate": "2025-10-28-09-30-00 +0000"
   },
   {
-    "headline": "A Tidy Dutch Town Offers a Window Into a Messy Dutch Election",
-    "link": "https://www.nytimes.com/2025/10/28/world/europe/netherlands-geert-wilders-election.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-09-27-06 +0000"
-  },
-  {
-    "headline": "A Tidy Dutch Town Offers a Window Into a Messy Dutch Election",
-    "link": "https://www.nytimes.com/2025/10/28/world/europe/netherlands-geert-wilders-election.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-09-27-06 +0000"
-  },
-  {
     "headline": "Reeves could face £20bn Budget hole as UK productivity downgraded",
     "link": "https://www.bbc.com/news/articles/c0rpve82jxvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -339,19 +735,19 @@
     "headline": "Will Trump Meet Kim Jong-un Again? He’s Very Open to the Idea.",
     "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-kim-jong-un-north-korea.html",
     "source": "nyt",
-    "pubdate": "2025-10-28-09-21-04 +0000"
+    "pubdate": "2025-10-28-09-21-05 +0000"
   },
   {
     "headline": "Will Trump Meet Kim Jong-un Again? He’s Very Open to the Idea.",
     "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-kim-jong-un-north-korea.html",
     "source": "nyt",
-    "pubdate": "2025-10-28-09-21-04 +0000"
+    "pubdate": "2025-10-28-09-21-05 +0000"
   },
   {
     "headline": "Will Trump Meet Kim Jong-un Again? He’s Very Open to the Idea.",
     "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-kim-jong-un-north-korea.html",
     "source": "nyt",
-    "pubdate": "2025-10-28-09-21-04 +0000"
+    "pubdate": "2025-10-28-09-21-05 +0000"
   },
   {
     "headline": "U.S. Futures, Global Markets Fall After Hitting Record Highs; Oil, Gold Down",
@@ -378,24 +774,6 @@
     "pubdate": "2025-10-28-09-08-00 +0000"
   },
   {
-    "headline": "Danone Reports Sales Rise on China Growth",
-    "link": "https://www.wsj.com/business/retail/danone-reports-sales-rise-on-china-growth-2234a821?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-09-07-00 +0000"
-  },
-  {
-    "headline": "Amid a Record Party Investment, Two Candidates for Governor Join Forces",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/amid-a-record-party-investment-two-candidates-for-governor-join-forces.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-09-04-17 +0000"
-  },
-  {
-    "headline": "Amid a Record Party Investment, Two Candidates for Governor Join Forces",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/amid-a-record-party-investment-two-candidates-for-governor-join-forces.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-09-04-17 +0000"
-  },
-  {
     "headline": "More Food Reaches Gaza, but It’s Still Not Enough",
     "link": "https://www.nytimes.com/2025/10/28/nyregion/more-food-reaches-gaza-but-its-still-not-enough.html",
     "source": "nyt",
@@ -408,13 +786,13 @@
     "pubdate": "2025-10-28-09-03-11 +0000"
   },
   {
-    "headline": "Tear Gas Can Be Dangerous. The Rules on How to Use It Vary.",
+    "headline": "What to Know About Tear Gas, the Chemicals Federal Agents Are Using During Immigration Raids",
     "link": "https://www.nytimes.com/2025/10/28/us/tear-gas-chicago-immigration-enforcement.html",
     "source": "nyt",
     "pubdate": "2025-10-28-09-03-05 +0000"
   },
   {
-    "headline": "Judge Expected to Quiz Border Patrol Leader Over Immigration Crackdown Tactics",
+    "headline": "Judge Expected to Quiz Gregory Bovino Over Immigration Crackdown Tactics",
     "link": "https://www.nytimes.com/2025/10/28/us/chicago-bovino-tear-gas.html",
     "source": "nyt",
     "pubdate": "2025-10-28-09-02-58 +0000"
@@ -423,13 +801,13 @@
     "headline": "Beyond Dubai’s Glitter, the UAE Coast Offers a Glimpse of Life Before Oil",
     "link": "https://www.nytimes.com/2025/10/28/travel/dubai-uae-oil-wealth.html",
     "source": "nyt",
-    "pubdate": "2025-10-28-09-01-45 +0000"
+    "pubdate": "2025-10-28-09-01-46 +0000"
   },
   {
     "headline": "Beyond Dubai’s Glitter, the UAE Coast Offers a Glimpse of Life Before Oil",
     "link": "https://www.nytimes.com/2025/10/28/travel/dubai-uae-oil-wealth.html",
     "source": "nyt",
-    "pubdate": "2025-10-28-09-01-45 +0000"
+    "pubdate": "2025-10-28-09-01-46 +0000"
   },
   {
     "headline": "A City Council Race in Arizona Turns Toxic Over Charlie Kirk’s Legacy",
@@ -510,12 +888,6 @@
     "pubdate": "2025-10-28-08-58-25 +0000"
   },
   {
-    "headline": "Iberdrola Raises Guidance After Net Profit Jumps",
-    "link": "https://www.wsj.com/business/earnings/iberdrola-raises-guidance-after-net-profit-jumps-4980075e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-08-52-00 +0000"
-  },
-  {
     "headline": "Hurricane Melissa Barrels Down on Jamaica as Category 5 Storm",
     "link": "https://www.wsj.com/world/americas/hurricane-melissa-barrels-down-on-jamaica-as-category-5-storm-11a39b95",
     "source": "wsj",
@@ -528,28 +900,16 @@
     "pubdate": "2025-10-28-08-50-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Futures Inch Up After UnitedHealth Earnings",
+    "headline": "Stock Market Today: Dow Futures Gain After UnitedHealth Earnings",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-28-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-28-08-49-20 +0000"
-  },
-  {
-    "headline": "Capgemini Lifts Full-Year Revenue Outlook Boosted by Growth in Key Markets",
-    "link": "https://www.wsj.com/business/retail/capgemini-lifts-full-year-revenue-outlook-boosted-by-growth-in-key-markets-f5983538?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-08-38-00 +0000"
   },
   {
     "headline": "Michael D Higgins spends second night in hospital for treatment",
     "link": "https://www.bbc.com/news/articles/cn8v128ljrro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-28-08-31-13 +0000"
-  },
-  {
-    "headline": "Plane with 12 on board crashes near Kenya's coast",
-    "link": "https://www.bbc.com/news/articles/c75146k9z4no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-08-29-43 +0000"
   },
   {
     "headline": "BOJ Mulls Rate-Hike Timing Amid Tariff Impacts, Political Shift",
@@ -582,12 +942,6 @@
     "pubdate": "2025-10-28-08-18-13 +0000"
   },
   {
-    "headline": "Air Liquide Posts Higher Revenue on Portfolio Strength",
-    "link": "https://www.wsj.com/business/earnings/air-liquide-posts-higher-revenue-on-portfolio-strength-a3c292be?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-08-16-00 +0000"
-  },
-  {
     "headline": "Once Again: The Pope Likes That Other Chicago Team, Not the Cubs",
     "link": "https://www.nytimes.com/2025/10/28/world/europe/pope-white-sox-chicago-baseball.html",
     "source": "nyt",
@@ -598,18 +952,18 @@
     "link": "https://www.nytimes.com/2025/10/28/world/europe/pope-white-sox-chicago-baseball.html",
     "source": "nyt",
     "pubdate": "2025-10-28-08-01-18 +0000"
+  },
+  {
+    "headline": "Trade deal or no trade deal, China still holds crucial minerals leverage over U.S.",
+    "link": "https://www.cbc.ca/news/world/trump-xi-us-china-apec-meeting-9.6955385?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-28-08-00-00 +0000"
   },
   {
     "headline": "Which industry in each province is most threatened by tariffs?",
     "link": "https://www.cbc.ca/news/politics/tariffs-industries-canadian-provinces-9.6950272?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-28-08-00-00 +0000"
-  },
-  {
-    "headline": "Anglo American Steelmaking Coal Output Tumbles After Australian Mine Fire",
-    "link": "https://www.wsj.com/business/anglo-american-steelmaking-coal-output-tumbles-after-australian-mine-fire-34104b36?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-28-07-52-00 +0000"
   },
   {
     "headline": "ICE leadership shakeup exposes growing DHS friction over deportation tactics, priorities",
@@ -619,39 +973,15 @@
   },
   {
     "headline": "BNP Paribas Profit Rises on Retail Recovery, Investment Banking Performance",
-    "link": "https://www.wsj.com/business/earnings/bnp-paribas-profit-rises-on-retail-recovery-investment-banking-performance-d2ab8478?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-07-35-00 +0000"
-  },
-  {
-    "headline": "BNP Paribas Profit Rises on Retail Recovery, Investment Banking Performance",
     "link": "https://www.wsj.com/business/earnings/bnp-paribas-profit-rises-on-retail-recovery-investment-banking-performance-d2ab8478?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-28-07-35-00 +0000"
-  },
-  {
-    "headline": "Sudan's army loses key city of el-Fasher to paramilitary RSF after 18-month siege",
-    "link": "https://www.bbc.com/news/articles/clyld9w0283o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-07-21-08 +0000"
-  },
-  {
-    "headline": "Sudan's army loses key city of el-Fasher to paramilitary RSF after 18-month siege",
-    "link": "https://www.bbc.com/news/articles/clyld9w0283o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-07-21-08 +0000"
   },
   {
     "headline": "German Consumer Sentiment Returns to Worsening Trend",
     "link": "https://www.wsj.com/economy/central-banking/german-consumer-sentiment-returns-to-worsening-trend-cbb0b539",
     "source": "wsj",
     "pubdate": "2025-10-28-07-20-00 +0000"
-  },
-  {
-    "headline": "HSBC Profit Drops on Billion-Dollar Hit From Madoff Suit",
-    "link": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-falls-on-1-1-billion-hit-from-madoff-lawsuit-539c3699?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-28-07-18-00 +0000"
   },
   {
     "headline": "HSBC Profit Drops on Billion-Dollar Hit From Madoff Suit",
@@ -702,24 +1032,6 @@
     "pubdate": "2025-10-28-07-00-09 +0000"
   },
   {
-    "headline": "Trump Win Praise, But No Movements on Trade in Japan",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-takaichi-japan-meeting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-06-32-18 +0000"
-  },
-  {
-    "headline": "Trump Win Praise, But No Movements on Trade in Japan",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-takaichi-japan-meeting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-06-32-18 +0000"
-  },
-  {
-    "headline": "Trump Win Praise, But No Movements on Trade in Japan",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-takaichi-japan-meeting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-06-32-18 +0000"
-  },
-  {
     "headline": "Rise in vet bills leave pet owners cutting back",
     "link": "https://www.bbc.com/news/articles/c629gye0ee6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -768,22 +1080,16 @@
     "pubdate": "2025-10-28-05-36-26 +0000"
   },
   {
+    "headline": "Takeaways: Shorthanded Timberwolves can’t keep up with Nuggets in 127-114 loss",
+    "link": "https://www.startribune.com/takeaways-shorthanded-timberwolves-cant-keep-up-with-nuggets-in-127-114-loss/601461897",
+    "source": "startribune",
+    "pubdate": "2025-10-28-05-30-54 +0000"
+  },
+  {
     "headline": "First deadly mine explosion in Australia since 2015 kills man and woman",
     "link": "https://www.bbc.com/news/articles/cwy5ez34yezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-28-05-25-47 +0000"
-  },
-  {
-    "headline": "Jamaica’s Beach Towns and Fishing Villages Brace for Hurricane Melissa",
-    "link": "https://www.nytimes.com/2025/10/28/world/americas/jamaica-hurricane-melissa-resorts.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-05-18-48 +0000"
-  },
-  {
-    "headline": "Jamaica’s Beach Towns and Fishing Villages Brace for Hurricane Melissa",
-    "link": "https://www.nytimes.com/2025/10/28/world/americas/jamaica-hurricane-melissa-resorts.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-05-18-48 +0000"
   },
   {
     "headline": "TikTok star dead at 25, devastated girlfriend reveals: ‘Most generous person’",
@@ -804,12 +1110,6 @@
     "pubdate": "2025-10-28-04-39-19 +0000"
   },
   {
-    "headline": "Minnesota United takes Game 1 of MLS playoff series vs. Sounders in 3-2 penalty shootout",
-    "link": "https://www.startribune.com/minnesota-united-takes-game-1-of-mls-playoff-series-vs-sounders-in-3-2-penalty-shootout/601498875",
-    "source": "startribune",
-    "pubdate": "2025-10-28-04-39-12 +0000"
-  },
-  {
     "headline": "Japan PM nominates Trump for Nobel Peace Prize after declaring ‘Golden Age’ of alliance",
     "link": "https://nypost.com/2025/10/28/us-news/japan-joins-list-of-countries-nominating-trump-for-nobel-peace-prize-after-declaring-golden-age-of-alliance/",
     "source": "nypost",
@@ -832,30 +1132,6 @@
     "link": "https://www.nytimes.com/2025/10/28/world/asia/trump-tariffs-china-taiwan.html",
     "source": "nyt",
     "pubdate": "2025-10-28-04-08-08 +0000"
-  },
-  {
-    "headline": "Bill Gates Says Climate Change ‘Will Not Lead to Humanity’s Demise’",
-    "link": "https://www.nytimes.com/2025/10/28/climate/bill-gates-climate-change-humanity.html",
-    "source": "nyt",
-    "pubdate": "2025-10-28-04-01-08 +0000"
-  },
-  {
-    "headline": "Hurricane Melissa: Jamaica braces for world's strongest storm of 2025",
-    "link": "https://www.bbc.com/news/articles/c2dr0z57nygo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-03-59-18 +0000"
-  },
-  {
-    "headline": "Trump’s Big Tariff Task in Asia Is to Close the Deal",
-    "link": "https://www.wsj.com/economy/trade/trump-tariffs-asia-visit-86d4a6a6",
-    "source": "wsj",
-    "pubdate": "2025-10-28-03-54-00 +0000"
-  },
-  {
-    "headline": "President Trump’s ability to reorder global trade through personal diplomacy will be tested during his tour of Asia this week",
-    "link": "https://www.wsj.com/economy/trade/trump-tariffs-asia-visit-86d4a6a6",
-    "source": "wsj",
-    "pubdate": "2025-10-28-03-54-00 +0000"
   },
   {
     "headline": "More than 20 ‘ill-prepared’ hikers — some first-time — rescued from  Mount Washington in frigid, snowy conditions",
@@ -876,22 +1152,16 @@
     "pubdate": "2025-10-28-03-00-00 +0000"
   },
   {
-    "headline": "Watch: Storm chasers fly inside the eye of Hurricane Melissa",
-    "link": "https://www.bbc.com/news/videos/cwypk4e3v3lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-02-54-13 +0000"
-  },
-  {
     "headline": "Why ‘Yellowstone’ Mastermind Taylor Sheridan Decided to Ditch Paramount",
     "link": "https://www.wsj.com/business/media/why-yellowstone-mastermind-taylor-sheridan-decided-to-ditch-paramount-2192d401?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-28-02-53-00 +0000"
   },
   {
-    "headline": "Firefighters race to rescue man badly burned after bucket truck touches Minneapolis power line",
-    "link": "https://www.startribune.com/firefighters-race-to-rescue-man-badly-burned-after-bucket-truck-touches-power-line/601507559",
-    "source": "startribune",
-    "pubdate": "2025-10-28-02-45-47 +0000"
+    "headline": "Why ‘Yellowstone’ Mastermind Taylor Sheridan Decided to Ditch Paramount",
+    "link": "https://www.wsj.com/business/media/why-yellowstone-mastermind-taylor-sheridan-decided-to-ditch-paramount-2192d401?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-28-02-53-00 +0000"
   },
   {
     "headline": "Lawsuit argues New York’s GOP-held 11th Congressional District should be redrawn –‘dilutes Black, Latino voting’",
@@ -960,12 +1230,6 @@
     "pubdate": "2025-10-28-02-06-29 +0000"
   },
   {
-    "headline": "Tributes grow after head-on crash in Chisago County that killed 2 teens including hockey player",
-    "link": "https://www.startribune.com/tributes-grow-after-head-on-crash-in-chisago-county-that-killed-2-teens-including-hockey-player/601507252",
-    "source": "startribune",
-    "pubdate": "2025-10-28-02-02-54 +0000"
-  },
-  {
     "headline": "Why the 5G symbol on your phone doesn't mean you have 5G",
     "link": "https://www.bbc.com/news/articles/crexqyj7n5lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -976,12 +1240,6 @@
     "link": "https://nypost.com/2025/10/27/us-news/indian-masters-student-allegedly-stabbed-2-teens-with-metal-fork-on-lufthansa-flight-from-chicago-to-germany/",
     "source": "nypost",
     "pubdate": "2025-10-28-01-56-47 +0000"
-  },
-  {
-    "headline": "Harvard says it’s been giving away too many A grades to undergrad students",
-    "link": "https://nypost.com/2025/10/27/us-news/harvard-says-its-been-giving-away-too-many-a-grades-to-undergrads/",
-    "source": "nypost",
-    "pubdate": "2025-10-28-01-49-11 +0000"
   },
   {
     "headline": "The ‘Sleeper Issue’ at the Heart of Trump’s Trade War on China",
@@ -996,12 +1254,6 @@
     "pubdate": "2025-10-28-01-40-06 +0000"
   },
   {
-    "headline": "Alleged NBA poker scammer ‘Pookie’ painted portraits for celebrities and singers",
-    "link": "https://nypost.com/2025/10/27/us-news/alleged-nba-poker-scammer-pookie-painted-portraits-for-celebrities-and-singers/",
-    "source": "nypost",
-    "pubdate": "2025-10-28-01-23-00 +0000"
-  },
-  {
     "headline": "Government Shutdown Imperils SNAP and Other Antipoverty Programs",
     "link": "https://www.nytimes.com/2025/10/27/us/politics/trump-shutdown-snap-food-stamps-aid.html",
     "source": "nyt",
@@ -1030,12 +1282,6 @@
     "link": "https://www.nytimes.com/2025/10/26/world/middleeast/palestinian-authority-abbas-deputy-succession.html",
     "source": "nyt",
     "pubdate": "2025-10-28-01-15-23 +0000"
-  },
-  {
-    "headline": "Brooklyn Republican sends mailer tying Democrat Simcha Felder to Zohran Mamdani",
-    "link": "https://nypost.com/2025/10/27/us-news/brooklyn-republican-sends-mailer-tying-democrat-simcha-felder-to-mamdani/",
-    "source": "nypost",
-    "pubdate": "2025-10-28-01-03-33 +0000"
   },
   {
     "headline": "Brooklyn Republican sends mailer tying Democrat Simcha Felder to Zohran Mamdani",
@@ -1062,14 +1308,14 @@
     "pubdate": "2025-10-28-01-00-00 +0000"
   },
   {
-    "headline": "Watering down dish soap. Trading down to grocery discounters. Buying half a cow. Americans struggling with higher costs are going to great lengths to stretch spending on food and household staples",
-    "link": "https://www.wsj.com/economy/consumers/the-lengths-americans-are-willing-to-go-to-make-every-penny-count-a79501fd",
+    "headline": "The Lengths Americans Are Willing to Go to Make Every Penny Count",
+    "link": "https://www.wsj.com/economy/consumers/the-lengths-americans-are-willing-to-go-to-make-every-penny-count-a79501fd?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-28-01-00-00 +0000"
   },
   {
-    "headline": "The poor suburbs that ring Argentina’s capital long powered the leftist Peronist movement. On Sunday, they made a historic shift that propelled President Milei’s party to a surprise victory.",
-    "link": "https://www.wsj.com/world/americas/argentina-election-peronism-milei-2f8185b9",
+    "headline": "Watering down dish soap. Trading down to grocery discounters. Buying half a cow. Americans struggling with higher costs are going to great lengths to stretch spending on food and household staples",
+    "link": "https://www.wsj.com/economy/consumers/the-lengths-americans-are-willing-to-go-to-make-every-penny-count-a79501fd",
     "source": "wsj",
     "pubdate": "2025-10-28-01-00-00 +0000"
   },
@@ -1156,12 +1402,6 @@
     "link": "https://www.washingtonpost.com/weather/2025/10/21/hurricane-melissa-tracker-map/",
     "source": "wapo",
     "pubdate": "2025-10-28-00-20-52 +0000"
-  },
-  {
-    "headline": "Minnesota food shelves to get $4 million as state prepares for loss of SNAP benefits",
-    "link": "https://www.startribune.com/minnesota-food-shelves-to-get-4-million-as-state-prepares-for-loss-of-snap-benefits/601507593",
-    "source": "startribune",
-    "pubdate": "2025-10-28-00-07-24 +0000"
   },
   {
     "headline": "The South African start-up bringing tech to townships",
@@ -1434,12 +1674,6 @@
     "pubdate": "2025-10-27-21-58-46 +0000"
   },
   {
-    "headline": "J.J. McCarthy in line to start as Vikings quarterback after Carson Wentz goes on IR",
-    "link": "https://www.startribune.com/vikings-quarterback-carson-wentz-jj-mccarthy-injured-nfl-detroit-lions-starter/601507567",
-    "source": "startribune",
-    "pubdate": "2025-10-27-21-57-51 +0000"
-  },
-  {
     "headline": "Charlie Kirk murder suspect can wear civilian clothes in court, judge says",
     "link": "https://www.bbc.com/news/articles/c0516qvlppjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1456,12 +1690,6 @@
     "link": "https://www.wsj.com/opinion/fda-drug-approvals-replimune-marty-makary-vinay-prasad-aecbd68a",
     "source": "wsj",
     "pubdate": "2025-10-27-21-46-00 +0000"
-  },
-  {
-    "headline": "Minneapolis grocery store bounces back after copper thief inflicts ‘massive hit,’ huge loss of food",
-    "link": "https://www.startribune.com/minneapolis-grocery-store-bounces-back-after-copper-thief-inflicts-massive-hit-huge-loss-of-food/601507403",
-    "source": "startribune",
-    "pubdate": "2025-10-27-21-44-55 +0000"
   },
   {
     "headline": "Paramount Skydance to slash 1,000 jobs this week in first wave of mass layoffs",
@@ -1498,18 +1726,6 @@
     "link": "https://nypost.com/2025/10/27/world-news/ukrainians-mourn-reporter-cameraman-killed-during-russian-drone-strike/",
     "source": "nypost",
     "pubdate": "2025-10-27-21-35-49 +0000"
-  },
-  {
-    "headline": "Israel receives body Hamas says belongs to Gaza hostage",
-    "link": "https://www.bbc.com/news/articles/cly9z0mvzyko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-27-21-32-47 +0000"
-  },
-  {
-    "headline": "Israel receives body Hamas says belongs to Gaza hostage",
-    "link": "https://www.bbc.com/news/articles/cly9z0mvzyko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-27-21-32-47 +0000"
   },
   {
     "headline": "Keurig Dr Pepper Turns to Private Capital to Back $18 Billion Deal",
@@ -1708,12 +1924,6 @@
     "link": "https://www.washingtonpost.com/investigations/2025/10/27/injustice-jack-smith-trump-florida/",
     "source": "wapo",
     "pubdate": "2025-10-27-20-39-05 +0000"
-  },
-  {
-    "headline": "Bed Bath & Beyond Quarterly Loss Narrows, Expects Revenue Growth Next Year",
-    "link": "https://www.wsj.com/business/retail/bed-bath-beyond-quarterly-loss-narrows-expects-revenue-growth-next-year-7f748c11?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-27-20-32-00 +0000"
   },
   {
     "headline": "Fox News’ Jesse Watters lands first TV interview with Erika Kirk since husband’s assassination",
@@ -1924,18 +2134,6 @@
     "link": "https://www.latimes.com/business/story/2025-10-27/grindr-receives-buyout-offer-to-take-dating-app-private",
     "source": "latimes",
     "pubdate": "2025-10-27-18-34-59 +0000"
-  },
-  {
-    "headline": "Renters' Rights Bill becomes law - here's what it means for you",
-    "link": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-27-18-32-41 +0000"
-  },
-  {
-    "headline": "Renters' Rights Bill becomes law - here's what it means for you",
-    "link": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-27-18-32-41 +0000"
   },
   {
     "headline": "John Dickerson announces he’s leaving CBS News",
@@ -2388,12 +2586,6 @@
     "pubdate": "2025-10-27-14-52-35 +0000"
   },
   {
-    "headline": "More than 2M pounds of Korean barbecue pork jerky recalled over possible metal wires",
-    "link": "https://nypost.com/2025/10/27/business/more-than-2m-pounds-of-korean-barbecue-pork-jerky-recalled-over-possible-metal-wires/",
-    "source": "nypost",
-    "pubdate": "2025-10-27-14-49-49 +0000"
-  },
-  {
     "headline": "Trump says he had 'perfect' MRI at Walter Reed hospital",
     "link": "https://www.bbc.com/news/articles/cze6y0y36ppo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2508,18 +2700,6 @@
     "pubdate": "2025-10-27-13-59-49 +0000"
   },
   {
-    "headline": "ICE Detains British Media Commentator Sami Hamdi",
-    "link": "https://www.nytimes.com/2025/10/27/us/sami-hamdi-detained-ice.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-13-59-49 +0000"
-  },
-  {
-    "headline": "ICE Detains British Media Commentator Sami Hamdi",
-    "link": "https://www.nytimes.com/2025/10/27/us/sami-hamdi-detained-ice.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-13-59-49 +0000"
-  },
-  {
     "headline": "10 on trial for claiming French president’s wife Brigitte Macron is really a man",
     "link": "https://nypost.com/2025/10/27/world-news/10-on-trial-for-claiming-french-presidents-wife-brigitte-macron-is-a-man/",
     "source": "nypost",
@@ -2572,143 +2752,5 @@
     "link": "https://www.cbc.ca/news/world/sudan-el-fasher-9.6954622?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-27-13-10-27 +0000"
-  },
-  {
-    "headline": "U.S. Assessment of Israeli Shooting of Journalist Divided American Officials",
-    "link": "https://www.nytimes.com/2025/10/27/world/middleeast/shooting-palestinian-american-journalist.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-13-02-19 +0000"
-  },
-  {
-    "headline": "U.S. Assessment of Israeli Shooting of Journalist Divided American Officials",
-    "link": "https://www.nytimes.com/2025/10/27/world/middleeast/shooting-palestinian-american-journalist.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-13-02-19 +0000"
-  },
-  {
-    "headline": "Trump issues chilling warning to Putin after Russia tests new ‘invincible’ nuclear missile",
-    "link": "https://nypost.com/2025/10/27/us-news/trump-warns-putin-after-russia-tests-new-invincible-nuclear-missile/",
-    "source": "nypost",
-    "pubdate": "2025-10-27-13-00-37 +0000"
-  },
-  {
-    "headline": "In Ancient Spain, a Nail Through the Skull Could Mean Enmity, or Honor",
-    "link": "https://www.nytimes.com/2025/10/27/science/archaeology-spain-skulls.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-13-00-08 +0000"
-  },
-  {
-    "headline": "Seal of California",
-    "link": "https://missionlocal.org/2025/10/sf-photos-seal-of-california/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-27-13-00-00 +0000"
-  },
-  {
-    "headline": "America’s Hottest New Investment: Rare-Earth Companies",
-    "link": "https://www.wsj.com/business/rare-earth-companies-funding-231d1c85",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-49-00 +0000"
-  },
-  {
-    "headline": "America’s Hottest New Investment: Rare-Earth Companies",
-    "link": "https://www.wsj.com/business/rare-earth-companies-funding-231d1c85?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-49-00 +0000"
-  },
-  {
-    "headline": "America’s Hottest New Investment: Rare-Earth Companies",
-    "link": "https://www.wsj.com/business/rare-earth-companies-funding-231d1c85?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-49-00 +0000"
-  },
-  {
-    "headline": "When will Trump's tariff increase hit Canada? Not even he knows",
-    "link": "https://www.cbc.ca/news/world/trump-tariff-canada-10-per-cent-i-dont-know-9.6954578?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-27-12-47-34 +0000"
-  },
-  {
-    "headline": "Carney says he's not spoken to Trump since trade talks scuttled — but door remains open",
-    "link": "https://www.cbc.ca/news/politics/carney-trump-trade-tariffs-9.6954597?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-27-12-36-47 +0000"
-  },
-  {
-    "headline": "Two U.S. Navy Aircraft From Same Carrier Crash Into South China Sea",
-    "link": "https://www.wsj.com/us-news/two-u-s-navy-aircraft-from-same-carrier-crash-into-south-china-sea-efc10fad",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-22-00 +0000"
-  },
-  {
-    "headline": "Two U.S. Navy Aircraft From Same Carrier Crash Into South China Sea",
-    "link": "https://www.wsj.com/us-news/two-u-s-navy-aircraft-from-same-carrier-crash-into-south-china-sea-efc10fad",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-22-00 +0000"
-  },
-  {
-    "headline": "Two U.S. Navy Aircraft From Same Carrier Crash Into South China Sea",
-    "link": "https://www.wsj.com/us-news/two-u-s-navy-aircraft-from-same-carrier-crash-into-south-china-sea-efc10fad",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-22-00 +0000"
-  },
-  {
-    "headline": "As Trump Tours Asia, Democracy’s Ideals Aren’t on the Agenda",
-    "link": "https://www.nytimes.com/2025/10/27/us/politics/trump-asia-democracy.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-12-21-13 +0000"
-  },
-  {
-    "headline": "As Trump Tours Asia, Democracy’s Ideals Aren’t on the Agenda",
-    "link": "https://www.nytimes.com/2025/10/27/us/politics/trump-asia-democracy.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-12-21-13 +0000"
-  },
-  {
-    "headline": "As Trump Tours Asia, Democracy’s Ideals Aren’t on the Agenda",
-    "link": "https://www.nytimes.com/2025/10/27/us/politics/trump-asia-democracy.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-12-21-13 +0000"
-  },
-  {
-    "headline": "Juventus sack manager Tudor after seven months",
-    "link": "https://www.bbc.com/sport/football/articles/cpq1nypl884o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-27-12-19-19 +0000"
-  },
-  {
-    "headline": "Milei Wins Mandate for Free-Market Revolution in Argentina’s Election",
-    "link": "https://www.wsj.com/world/americas/milei-wins-mandate-for-free-market-revolution-in-argentinas-election-3be65f38",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-01-00 +0000"
-  },
-  {
-    "headline": "Milei Wins Mandate for Free-Market Revolution in Argentina’s Election",
-    "link": "https://www.wsj.com/world/americas/milei-wins-mandate-for-free-market-revolution-in-argentinas-election-3be65f38",
-    "source": "wsj",
-    "pubdate": "2025-10-27-12-01-00 +0000"
-  },
-  {
-    "headline": "Trial begins for 10 accused of sexist cyber-bullying of Brigitte Macron",
-    "link": "https://www.bbc.com/news/articles/ce3knel0895o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-27-11-59-48 +0000"
-  },
-  {
-    "headline": "UN peacekeeping force in Lebanon shoots down Israeli drone",
-    "link": "https://www.bbc.com/news/articles/cjw9n1d7njyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-27-11-55-37 +0000"
-  },
-  {
-    "headline": "Japan’s New Prime Minister Has an Advantage in Winning Over Trump",
-    "link": "https://www.nytimes.com/2025/10/26/world/asia/japan-trump-takaichi.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-11-53-00 +0000"
-  },
-  {
-    "headline": "Japan’s New Prime Minister Has an Advantage in Winning Over Trump",
-    "link": "https://www.nytimes.com/2025/10/26/world/asia/japan-trump-takaichi.html",
-    "source": "nyt",
-    "pubdate": "2025-10-27-11-53-00 +0000"
   }
 ]
