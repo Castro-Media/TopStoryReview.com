@@ -1,38 +1,45 @@
 [
   {
-    "score": 573,
+    "score": 585,
     "pubdate": "2025-10-26-18-31-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it reached trade agreements with Malaysia and Cambodia, and frameworks for deals with Thailand and Vietnam during President Trump’s trip across Asia",
     "link": "https://www.wsj.com/economy/trade/trump-reaches-trade-pacts-with-southeast-asian-nations-e51b3627"
   },
   {
-    "score": 206,
+    "score": 211,
     "pubdate": "2025-10-22-02-00-00 +0000",
     "source": "wsj",
     "headline": "Zohran Mamdani, the Democratic candidate in the NYC mayoral race, will need billions of dollars to fund his agenda, including a $30 minimum wage, but it isn’t clear he will be able to deliver",
     "link": "https://www.wsj.com/politics/elections/zohran-mamdani-affordability-nyc-mayor-c1e2a398"
   },
   {
-    "score": 189,
+    "score": 195,
     "pubdate": "2025-10-24-18-35-00 +0000",
     "source": "wsj",
     "headline": "Senior White House and Navy officials are in early discussions to replace the current mix of warships with a new “Golden Fleet” that would be better suited to counter China",
     "link": "https://www.wsj.com/politics/national-security/trump-pushes-for-new-classes-of-navy-warships-0fe217b9"
   },
   {
-    "score": 146,
+    "score": 144,
     "pubdate": "2025-10-25-00-52-00 +0000",
     "source": "wsj",
     "headline": "President Trump was ready to send troops into San Francisco. The city’s business leaders needed a way to talk him out of it—and they found it.",
     "link": "https://www.wsj.com/politics/policy/san-francisco-troops-tech-ceos-45623a7f"
   },
   {
-    "score": 129,
+    "score": 142,
     "pubdate": "2025-10-27-21-54-59 +0000",
     "source": "nypost",
     "headline": "Storm chaser captures stunning eye of Hurricane Melissa before Category 5 storm clobbers Jamaica — as 3 already dead",
     "link": "https://nypost.com/2025/10/27/world-news/hurricane-melissas-eye-revealed-before-storm-clobbers-jamaica/"
+  },
+  {
+    "score": 123,
+    "pubdate": "2025-10-28-22-07-35 +0000",
+    "source": "nyt",
+    "headline": "Netanyahu Orders Strikes in Gaza, as Israel Says Hamas Violated Cease-Fire",
+    "link": "https://www.nytimes.com/2025/10/28/world/middleeast/israel-gaza-netanyahu-strikes.html"
   },
   {
     "score": 117,
@@ -42,31 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/shutdown-challenges-republicans-vow-to-never-end-the-filibuster-a97b9035"
   },
   {
-    "score": 112,
-    "pubdate": "2025-10-28-20-09-50 +0000",
-    "source": "nyt",
-    "headline": "Netanyahu Orders Strikes in Gaza, as Israel Says Hamas Violated Cease-Fire",
-    "link": "https://www.nytimes.com/2025/10/28/world/middleeast/israel-gaza-netanyahu-strikes.html"
-  },
-  {
     "score": 104,
-    "pubdate": "2025-10-23-22-26-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. flew B-1 bombers near Venezuela on Thursday, stepping up pressure on President Nicolás Maduro only days after other American warplanes carried out an “attack demonstration”",
-    "link": "https://www.wsj.com/politics/national-security/u-s-sends-b-1-bombers-near-venezuela-ramping-up-military-pressure-f9514126"
-  },
-  {
-    "score": 102,
     "pubdate": "2025-10-28-12-01-13 +0000",
     "source": "wapo",
     "headline": "Japan’s new leader tries to charm Trump with gold, golf and deal on rare minerals",
     "link": "https://www.washingtonpost.com/politics/2025/10/27/trump-japan-critical-minerals-china/"
   },
   {
-    "score": 99,
-    "pubdate": "2025-10-24-10-00-11 +0000",
+    "score": 100,
+    "pubdate": "2025-10-23-20-25-31 +0000",
     "source": "nyt",
-    "headline": "Blue Jays Face Dodgers in World Series With All of Canada Behind Them",
-    "link": "https://www.nytimes.com/2025/10/24/world/canada/blue-jays-dodgers-world-series-canada.html"
+    "headline": "Trump’s Sanctions on Russian Oil Sector Ratchet Up Economic War",
+    "link": "https://www.nytimes.com/2025/10/23/us/politics/trump-sanctions-russian-oil.html"
+  },
+  {
+    "score": 99,
+    "pubdate": "2025-10-27-19-06-37 +0000",
+    "source": "bbc",
+    "headline": "'We achieved our goal': Canada's Ford stands firm on Reagan anti-tariff ad",
+    "link": "https://www.bbc.com/news/articles/cn40lp7xqy4o?at_medium=RSS&at_campaign=rss"
   }
 ]
