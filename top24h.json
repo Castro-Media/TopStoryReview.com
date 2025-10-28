@@ -7,13 +7,6 @@
     "link": "https://nypost.com/2025/10/28/us-news/trump-toyota-pledges-10b-toward-new-auto-plants-in-us/"
   },
   {
-    "score": 93,
-    "pubdate": "2025-10-28-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Trade deal or no trade deal, China still holds crucial minerals leverage over U.S.",
-    "link": "https://www.cbc.ca/news/world/trump-xi-us-china-apec-meeting-9.6955385?cmp=rss"
-  },
-  {
     "score": 90,
     "pubdate": "2025-10-27-21-54-59 +0000",
     "source": "nypost",
@@ -21,18 +14,32 @@
     "link": "https://nypost.com/2025/10/27/world-news/hurricane-melissas-eye-revealed-before-storm-clobbers-jamaica/"
   },
   {
-    "score": 86,
+    "score": 90,
+    "pubdate": "2025-10-28-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Trade deal or no trade deal, China still holds crucial minerals leverage over U.S.",
+    "link": "https://www.cbc.ca/news/world/trump-xi-us-china-apec-meeting-9.6955385?cmp=rss"
+  },
+  {
+    "score": 84,
     "pubdate": "2025-10-28-09-08-00 +0000",
     "source": "wsj",
     "headline": "The Republican-led House Oversight Committee is recommending that the Justice Department investigate former President Biden’s executive actions and determine whether he authorized them",
     "link": "https://www.wsj.com/politics/policy/republican-led-panel-recommends-justice-department-investigate-bidens-executive-actions-6a9fb60a"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2025-10-27-16-33-34 +0000",
     "source": "latimes",
     "headline": "'CBS Evening News' co-anchor John Dickerson will leave the network this year",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-27/cbs-evening-news-co-anchor-john-dickerson-will-leave-the-network-at-the-end-of-the-year"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-10-28-02-19-38 +0000",
+    "source": "bbc",
+    "headline": "Brother of journalist killed in occupied West Bank says new report reveals cover-up",
+    "link": "https://www.bbc.com/news/articles/cx2dnz5zvgxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 57,
@@ -42,14 +49,7 @@
     "link": "https://www.bbc.com/news/articles/c8drem8518do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 57,
-    "pubdate": "2025-10-28-09-00-00 +0000",
-    "source": "nypost",
-    "headline": "Biden White House doctor Kevin O’Connor referred for investigation of ex-prez health cover-up — could lose license",
-    "link": "https://nypost.com/2025/10/28/us-news/biden-white-house-doctor-kevin-oconnor-referred-for-investigation-of-ex-prez-health-cover-up-could-lose-license/"
-  },
-  {
-    "score": 54,
+    "score": 53,
     "pubdate": "2025-10-28-00-26-19 +0000",
     "source": "nyt",
     "headline": "Ivory Coast President Secures 4th Term in Election Without Top Opponents",
@@ -57,16 +57,16 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-10-27-23-52-00 +0000",
-    "source": "wsj",
-    "headline": "“Both political parties have made their point,” said the president of the nation’s largest federal workers’ union, urging Congress to end the shutdown",
-    "link": "https://www.wsj.com/politics/policy/union-pressures-democrats-to-end-government-shutdown-6028b2b1"
-  },
-  {
-    "score": 49,
     "pubdate": "2025-10-27-18-01-17 +0000",
     "source": "nypost",
     "headline": "Andrew Cuomo narrows gap against Zohran Mamdani in NYC mayoral race as Dem socialist’s lead cut in half: new poll",
     "link": "https://nypost.com/2025/10/27/us-news/andrew-cuomo-narrows-gap-against-zohran-mamdani-in-nyc-mayoral-race-new-poll/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-10-27-23-52-00 +0000",
+    "source": "wsj",
+    "headline": "“Both political parties have made their point,” said the president of the nation’s largest federal workers’ union, urging Congress to end the shutdown",
+    "link": "https://www.wsj.com/politics/policy/union-pressures-democrats-to-end-government-shutdown-6028b2b1"
   }
 ]
