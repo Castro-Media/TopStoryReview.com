@@ -1,24 +1,31 @@
 [
   {
-    "score": 626,
+    "score": 631,
     "pubdate": "2025-10-26-18-31-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it reached trade agreements with Malaysia and Cambodia, and frameworks for deals with Thailand and Vietnam during President Trump’s trip across Asia",
     "link": "https://www.wsj.com/economy/trade/trump-reaches-trade-pacts-with-southeast-asian-nations-e51b3627"
   },
   {
-    "score": 193,
+    "score": 195,
     "pubdate": "2025-10-24-18-35-00 +0000",
     "source": "wsj",
     "headline": "Senior White House and Navy officials are in early discussions to replace the current mix of warships with a new “Golden Fleet” that would be better suited to counter China",
     "link": "https://www.wsj.com/politics/national-security/trump-pushes-for-new-classes-of-navy-warships-0fe217b9"
   },
   {
-    "score": 144,
+    "score": 142,
     "pubdate": "2025-10-27-12-47-34 +0000",
     "source": "cbc",
     "headline": "When will Trump's tariff increase hit Canada? Not even he knows",
     "link": "https://www.cbc.ca/news/world/trump-tariff-canada-10-per-cent-i-dont-know-9.6954578?cmp=rss"
+  },
+  {
+    "score": 135,
+    "pubdate": "2025-10-23-21-43-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. is set to reopen an old trade dispute with China, upping the ante just days before President Trump and Chinese leader Xi Jinping are set to meet in South Korea",
+    "link": "https://www.wsj.com/economy/trade/u-s-set-to-examine-chinas-compliance-with-2020-trade-deal-7034e588"
   },
   {
     "score": 133,
@@ -26,13 +33,6 @@
     "source": "nypost",
     "headline": "Hurricane Melissa branded ‘storm of the century’ as it ravages Jamaica with one of the most powerful cyclones ever",
     "link": "https://nypost.com/2025/10/28/world-news/hurricane-melissa-branded-storm-of-the-century-as-it-ravages-jamaica-with-one-of-the-most-powerful-cyclones-ever/"
-  },
-  {
-    "score": 127,
-    "pubdate": "2025-10-23-21-43-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. is set to reopen an old trade dispute with China, upping the ante just days before President Trump and Chinese leader Xi Jinping are set to meet in South Korea",
-    "link": "https://www.wsj.com/economy/trade/u-s-set-to-examine-chinas-compliance-with-2020-trade-deal-7034e588"
   },
   {
     "score": 124,
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2025/10/28/world/middleeast/israel-gaza-netanyahu-strikes.html"
   },
   {
-    "score": 99,
-    "pubdate": "2025-10-26-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Strings attached to bills Newsom signed on antisemitism, AI transparency and other major California policies",
-    "link": "https://www.latimes.com/california/story/2025-10-26/strings-attached-to-bills-newsom-signed-on-ai-transparency-and-other-major-new-laws"
-  },
-  {
-    "score": 99,
+    "score": 101,
     "pubdate": "2025-10-24-22-17-00 +0000",
     "source": "wsj",
     "headline": "Inflation isn’t as high as many economists expected earlier this year, but that’s not much comfort for Americans still flabbergasted at the prices of necessities like food, housing and insurance",
     "link": "https://www.wsj.com/economy/consumers/inflation-isnt-as-bad-as-economists-thought-but-americans-still-hate-it-34ec9494"
+  },
+  {
+    "score": 97,
+    "pubdate": "2025-10-26-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Strings attached to bills Newsom signed on antisemitism, AI transparency and other major California policies",
+    "link": "https://www.latimes.com/california/story/2025-10-26/strings-attached-to-bills-newsom-signed-on-ai-transparency-and-other-major-new-laws"
   }
 ]
