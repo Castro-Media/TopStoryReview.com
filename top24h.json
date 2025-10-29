@@ -1,20 +1,34 @@
 [
   {
-    "score": 193,
+    "score": 202,
     "pubdate": "2025-10-28-20-45-01 +0000",
     "source": "latimes",
     "headline": "News Analysis: Trade deal or trade truce? Questions remain as Trump meets with China's Xi",
     "link": "https://www.latimes.com/politics/story/2025-10-28/trumps-trade-agreement-with-china-might-leave-key-disputes-unresolved"
   },
   {
-    "score": 88,
-    "pubdate": "2025-10-28-23-36-57 +0000",
+    "score": 114,
+    "pubdate": "2025-10-29-10-02-11 +0000",
     "source": "nypost",
-    "headline": "Hurricane Melissa branded ‘storm of the century’ as it ravages Jamaica with one of the most powerful cyclones ever",
-    "link": "https://nypost.com/2025/10/28/world-news/hurricane-melissa-branded-storm-of-the-century-as-it-ravages-jamaica-with-one-of-the-most-powerful-cyclones-ever/"
+    "headline": "JD Vance tells ‘Pod Force One’ he’s ‘turned over a new leaf’ with Ukraine’s Zelensky post-Oval Office argument",
+    "link": "https://nypost.com/2025/10/29/us-news/jd-vance-tells-pod-force-one-hes-turned-over-a-new-leaf-with-ukraines-zelensky-post-oval-office-argument/"
   },
   {
-    "score": 76,
+    "score": 90,
+    "pubdate": "2025-10-28-13-06-47 +0000",
+    "source": "nypost",
+    "headline": "Influencer slammed for bragging about flying to Jamaica during deadly Hurricane Melissa: ‘Messing with my vacation’",
+    "link": "https://nypost.com/2025/10/28/world-news/influencer-slammed-for-jamaica-trip-during-hurricane-melissa/"
+  },
+  {
+    "score": 79,
+    "pubdate": "2025-10-29-10-06-22 +0000",
+    "source": "bbc",
+    "headline": "Israeli strikes in Gaza kill 104, health ministry says, after Hamas accused of killing soldier",
+    "link": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 74,
     "pubdate": "2025-10-29-01-40-00 +0000",
     "source": "wsj",
     "headline": "Millions of Americans are now learning how much more their Affordable Care Act plans will cost next year. Many face hefty increases.",
@@ -22,48 +36,34 @@
   },
   {
     "score": 72,
-    "pubdate": "2025-10-28-11-49-55 +0000",
-    "source": "nypost",
-    "headline": "Toyota pledges $10B toward new auto plants in US: ‘Go out and buy a Toyota,’ Trump says",
-    "link": "https://nypost.com/2025/10/28/us-news/trump-toyota-pledges-10b-toward-new-auto-plants-in-us/"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-10-28-22-56-05 +0000",
-    "source": "nyt",
-    "headline": "House Report Details Biden’s Decline, Claiming He Was Impaired as President",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/biden-decline-impairment-president-house-report.html"
-  },
-  {
-    "score": 71,
     "pubdate": "2025-10-29-02-10-44 +0000",
     "source": "nypost",
     "headline": "North Korea boasts missile test-firings as Trump makes South Korea visit",
     "link": "https://nypost.com/2025/10/28/world-news/north-korea-boasts-missile-test-firings-as-trump-makes-south-korea-visit/"
   },
   {
-    "score": 67,
-    "pubdate": "2025-10-28-21-46-55 +0000",
-    "source": "wapo",
-    "headline": "U.S. military strikes four alleged drug boats in eastern Pacific, killing 14",
-    "link": "https://www.washingtonpost.com/national-security/2025/10/28/drug-boat-strike-mexico-pacific-hegseth/"
-  },
-  {
     "score": 56,
-    "pubdate": "2025-10-28-22-44-55 +0000",
-    "source": "nyt",
-    "headline": "Dozens of States Sue Trump Administration Over SNAP Funding During Shutdown",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-food-stamps-snap-lawsuit.html"
-  },
-  {
-    "score": 53,
     "pubdate": "2025-10-29-07-24-21 +0000",
     "source": "bbc",
     "headline": "Tight race in Dutch election as anti-Islam populist Wilders' hope of power declines",
     "link": "https://www.bbc.com/news/articles/c20p6z2j5dro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 53,
+    "score": 55,
+    "pubdate": "2025-10-28-22-56-05 +0000",
+    "source": "nyt",
+    "headline": "House Report Details Biden’s Decline, Claiming He Was Impaired as President",
+    "link": "https://www.nytimes.com/2025/10/28/us/politics/biden-decline-impairment-president-house-report.html"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-10-28-11-41-00 +0000",
+    "source": "wsj",
+    "headline": "Japan-U.S. Outline Investment Plan; Trump Says Toyota to Invest $10 Billion in U.S. Auto Plants",
+    "link": "https://www.wsj.com/economy/trade/japan-u-s-outline-investment-plan-trump-says-toyota-to-invest-10-billion-in-u-s-auto-plants-dcf3d8a2"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-10-28-20-16-07 +0000",
     "source": "nypost",
     "headline": "Chuck Schumer doesn’t need to endorse ‘wack’ Mamdani for NYC mayor, GOP Senate leader John Thune tells Post",
