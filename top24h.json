@@ -1,17 +1,24 @@
 [
   {
-    "score": 200,
+    "score": 203,
     "pubdate": "2025-10-29-00-39-18 +0000",
     "source": "cbc",
     "headline": "North Korea says it test-fired cruise-missiles hours ahead of Trump's arrival in South Korea",
     "link": "https://www.cbc.ca/news/world/north-korea-missiles-trump-visit-9.6957701?cmp=rss"
   },
   {
-    "score": 89,
+    "score": 100,
     "pubdate": "2025-10-29-11-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump said he would send the National Guard to Democratic-led cities like Washington, D.C., Chicago and Portland, Ore., he met with condemnation and protest. But not in Memphis Tenn.",
     "link": "https://www.wsj.com/us-news/memphis-tennessee-national-guard-reactions-d7f7bb54"
+  },
+  {
+    "score": 90,
+    "pubdate": "2025-10-29-21-43-47 +0000",
+    "source": "nypost",
+    "headline": "UK paid $41M to shoot new ‘Knives Out’ Netflix movie in London instead of New York",
+    "link": "https://nypost.com/2025/10/29/media/uk-paid-41m-to-shoot-new-knives-out-netflix-movie-in-london-instead-of-new-york/"
   },
   {
     "score": 82,
@@ -21,52 +28,45 @@
     "link": "https://www.washingtonpost.com/business/2025/10/29/government-shutdown-economic-impact/"
   },
   {
-    "score": 76,
-    "pubdate": "2025-10-29-19-29-33 +0000",
-    "source": "nypost",
-    "headline": "New FBI files reveal Jack Smith targeted the ‘entire Republican political apparatus,’ spark calls for Judge Boasberg’s impeachment",
-    "link": "https://nypost.com/2025/10/29/us-news/jack-smiths-arctic-frost-probe-targeted-entire-republican-political-apparatus-sen-chuck-grassley/"
-  },
-  {
-    "score": 74,
-    "pubdate": "2025-10-28-23-36-57 +0000",
-    "source": "nypost",
-    "headline": "Hurricane Melissa branded ‘storm of the century’ as it ravages Jamaica with one of the most powerful cyclones ever",
-    "link": "https://nypost.com/2025/10/28/world-news/hurricane-melissa-branded-storm-of-the-century-as-it-ravages-jamaica-with-one-of-the-most-powerful-cyclones-ever/"
-  },
-  {
-    "score": 72,
+    "score": 70,
     "pubdate": "2025-10-29-16-04-58 +0000",
     "source": "bbc",
     "headline": "Israeli strikes in Gaza kill 104, health ministry says, after Hamas accused of killing soldier",
     "link": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 68,
+    "score": 67,
     "pubdate": "2025-10-29-06-52-00 +0000",
     "source": "wsj",
     "headline": "Trump Expects to Sign China Trade Deal at Xi Summit",
     "link": "https://www.wsj.com/economy/trade/trump-expects-to-sign-china-trade-deal-at-xi-summit-66512555"
   },
   {
-    "score": 60,
+    "score": 66,
+    "pubdate": "2025-10-29-20-56-14 +0000",
+    "source": "wapo",
+    "headline": "Hurricane Melissa hits Cuba; has killed at least 26 in Haiti and Jamaica",
+    "link": "https://www.washingtonpost.com/weather/2025/10/29/hurricane-melissa-cuba-jamaica-damage/"
+  },
+  {
+    "score": 65,
+    "pubdate": "2025-10-29-22-41-05 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani’s DSA allies make last ditch push for ‘show of force’ at ballot box ahead of NYC mayoral election",
+    "link": "https://nypost.com/2025/10/29/us-news/zohran-mamdanis-dsa-allies-make-last-ditch-push-for-show-of-force-ahead-of-nyc-mayoral-election/"
+  },
+  {
+    "score": 61,
+    "pubdate": "2025-10-29-22-14-02 +0000",
+    "source": "nypost",
+    "headline": "Teen ‘stalker’ charged in fatal hit-and-run of 2 NJ girls was detained — then cut loose to ex-cop dad hours later: records",
+    "link": "https://nypost.com/2025/10/29/us-news/teen-charged-in-fatal-hit-and-run-of-2-nj-girls-cut-loose-to-ex-cop-dad-records/"
+  },
+  {
+    "score": 61,
     "pubdate": "2025-10-29-18-09-32 +0000",
     "source": "nypost",
     "headline": "Fed cuts interest rates by quarter point for second time in a row, showing concern about job market",
     "link": "https://nypost.com/2025/10/29/business/fed-cuts-interest-rates-by-quarter-point-for-second-time-in-a-row/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-10-29-15-08-02 +0000",
-    "source": "nypost",
-    "headline": "Nvidia becomes first $5T company powered by AI frenzy: Here’s how much CEO Jensen Huang is worth",
-    "link": "https://nypost.com/2025/10/29/business/nvidia-becomes-first-5t-company-on-ai-frenzy-heres-what-jensen-huang-is-worth/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-10-29-19-17-17 +0000",
-    "source": "nypost",
-    "headline": "Pentagon move to pull troops from Romania ‘directly at odds’ with Trump strategy: GOP lawmakers",
-    "link": "https://nypost.com/2025/10/29/world-news/pentagon-move-to-pull-troops-from-romania-directly-at-odds-with-trump-strategy-gop-lawmakers/"
   }
 ]
