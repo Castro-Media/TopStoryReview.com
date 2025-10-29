@@ -1,51 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2025-10-29-12-57-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said the U.S. and South Korea are close to completing a trade pact, a surprise breakthrough following months of contentious talks",
-    "link": "https://www.wsj.com/economy/trade/trump-says-south-korea-trade-deal-is-virtually-done-60654740"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-10-29-13-01-36 +0000",
+    "score": 53,
+    "pubdate": "2025-10-29-14-47-53 +0000",
     "source": "nyt",
-    "headline": "The Netherlands’ Election Is a Referendum on the Far Right",
-    "link": "https://www.nytimes.com/2025/10/29/world/europe/netherlands-election-geert-wilders.html"
+    "headline": "Feted as a Peacemaker in South Korea, Trump Vows to End Hostilities With North Korea",
+    "link": "https://www.nytimes.com/2025/10/29/world/asia/trump-south-north-korea-kim.html"
   },
   {
-    "score": 9,
-    "pubdate": "2025-10-29-12-57-57 +0000",
+    "score": 38,
+    "pubdate": "2025-10-29-14-38-11 +0000",
+    "source": "nypost",
+    "headline": "Confident Trump teases plans for summit with China’s Xi Jinping on hot mic, predicts ‘very, very satisfactory’ result",
+    "link": "https://nypost.com/2025/10/29/us-news/trump-heard-on-hot-mic-teasing-plans-for-summit-with-chinese-president-xi-jinping/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-29-14-31-23 +0000",
     "source": "bbc",
-    "headline": "Sudan's military expels top UN food aid officials as conflict escalates",
-    "link": "https://www.bbc.com/news/articles/c5yp2v4n1d5o?at_medium=RSS&at_campaign=rss"
+    "headline": "Bodies lined up in neighbourhood square after deadly Rio police raid",
+    "link": "https://www.bbc.com/news/articles/c8x155engwpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2025-10-29-13-03-21 +0000",
+    "score": 19,
+    "pubdate": "2025-10-29-14-02-11 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Hurricane Melissa Sweeps Into Cuba After Lashing Jamaica",
-    "link": "https://www.nytimes.com/live/2025/10/29/weather/hurricane-melissa-cuba-jamaica"
+    "headline": "In Mississippi, Democrats Hope New Maps Lead to Statehouse Wins",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/mississippi-elections.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-10-29-13-00-07 +0000",
-    "source": "nyt",
-    "headline": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
-    "link": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html"
+    "score": 18,
+    "pubdate": "2025-10-29-14-11-09 +0000",
+    "source": "nypost",
+    "headline": "Mamdani’s dad sits with Hamas-linked financier on Gaza Tribunal pushing for US, Israel to face war charges",
+    "link": "https://nypost.com/2025/10/29/world-news/mamdanis-dad-sits-with-hamas-linked-financier-on-gaza-tribunal/"
   },
   {
-    "score": 3,
-    "pubdate": "2025-10-29-12-57-00 +0000",
+    "score": 17,
+    "pubdate": "2025-10-29-13-59-00 +0000",
     "source": "wsj",
-    "headline": "Trump Says South Korea Trade Deal Is Virtually Done",
-    "link": "https://www.wsj.com/economy/trade/trump-says-south-korea-trade-deal-is-virtually-done-60654740"
+    "headline": "President Trump acknowledged that the Constitution prohibits him from seeking a third term: “If you read it, it’s pretty clear. I’m not allowed to run. It’s too bad”",
+    "link": "https://www.wsj.com/politics/elections/trump-says-hes-barred-from-running-for-third-term-after-weeks-of-speculation-e4a94eb8"
   },
   {
-    "score": 0,
-    "pubdate": "2025-10-29-13-01-36 +0000",
+    "score": 16,
+    "pubdate": "2025-10-29-14-31-54 +0000",
+    "source": "bbc",
+    "headline": "Jamaicans start to reveal devastation as hurricane causes floods, power cuts and splits city in two",
+    "link": "https://www.bbc.com/news/articles/c5yl09v025lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-29-13-58-31 +0000",
+    "source": "bbc",
+    "headline": "Migrant sex offender given £500 after threat to disrupt deportation",
+    "link": "https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-29-13-58-03 +0000",
+    "source": "nypost",
+    "headline": "Paris police admit errors in Louvre’s security, including technical negligence may have aided jewel thieves",
+    "link": "https://nypost.com/2025/10/29/world-news/paris-police-note-errors-in-louvres-security-after-jewel-theft/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-29-14-10-47 +0000",
     "source": "nyt",
-    "headline": "The Netherlands’ Election Is a Referendum on the Far Right",
-    "link": "https://www.nytimes.com/2025/10/29/world/europe/netherlands-election-geert-wilders.html"
+    "headline": "Small Island Nations Lack Funds to Fight Climate Disasters",
+    "link": "https://www.nytimes.com/2025/10/28/climate/hurricane-jamaica-caribbean.html"
   }
 ]
