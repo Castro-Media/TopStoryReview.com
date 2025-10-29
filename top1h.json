@@ -1,51 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2025-10-29-04-56-58 +0000",
-    "source": "nyt",
-    "headline": "Trump Suggests He Knows He Can’t Run Again: ‘It’s Too Bad’",
-    "link": "https://www.nytimes.com/2025/10/29/us/politics/third-term-limit.html"
+    "score": 26,
+    "pubdate": "2025-10-29-06-29-52 +0000",
+    "source": "nypost",
+    "headline": "Trump gets huge gold crown in South Korea as host hails his ‘golden age’",
+    "link": "https://nypost.com/2025/10/29/us-news/trump-gets-huge-gold-crown-in-south-korea-as-host-hails-his-golden-age/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-29-05-58-50 +0000",
+    "source": "bbc",
+    "headline": "Tight race in Dutch election as anti-Islam populist Wilders' hope of power declines",
+    "link": "https://www.bbc.com/news/articles/c20p6z2j5dro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-29-06-48-00 +0000",
+    "source": "wsj",
+    "headline": "UBS Net Profit Surges on Provision Releases, Client Momentum",
+    "link": "https://www.wsj.com/business/earnings/ubs-net-profit-surges-on-provision-releases-client-momentum-376646ca?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 18,
-    "pubdate": "2025-10-29-05-28-37 +0000",
+    "pubdate": "2025-10-29-06-02-42 +0000",
+    "source": "nyt",
+    "headline": "Ahead of Trump-Xi Meeting, China Doubles Down on Tech Ambitions",
+    "link": "https://www.nytimes.com/2025/10/29/world/asia/trump-xi-china-industrial-plan.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-29-06-03-02 +0000",
     "source": "nyt",
     "headline": "Hurricane Melissa’s Direct Hit Knocks Most of Jamaica Offline",
     "link": "https://www.nytimes.com/2025/10/29/world/americas/hurricane-melissa-jamaica-damage-deaths.html"
   },
   {
-    "score": 13,
-    "pubdate": "2025-10-29-05-30-07 +0000",
+    "score": 14,
+    "pubdate": "2025-10-29-06-05-24 +0000",
     "source": "nypost",
-    "headline": "TikTok influencer Ben Bader was found ‘unresponsive’ at private club in Florida before his death: report",
-    "link": "https://nypost.com/2025/10/29/us-news/influencer-ben-bader-was-found-unresponsive-at-private-club-in-florida-before-his-death/"
+    "headline": "US citizen, 67, suffers broken ribs after Border Patrol agents drag him out of car in shocking video: report",
+    "link": "https://nypost.com/2025/10/29/us-news/us-citizen-suffers-broken-ribs-after-border-patrol-agents-drag-him-out-of-car-while-driving-into-blocked-off-street-in-immigration-operation-during-chicago-childrens-halloween-parade/"
   },
   {
     "score": 11,
-    "pubdate": "2025-10-29-05-08-20 +0000",
+    "pubdate": "2025-10-29-05-58-58 +0000",
+    "source": "bbc",
+    "headline": "Israeli strikes kill 33 in Gaza, Hamas-run civil defence says, as Trump insists ceasefire remains",
+    "link": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-10-29-06-48-28 +0000",
     "source": "nypost",
-    "headline": "P&O Cruise employee dies after onboard ‘accident’, forcing unscheduled stop at start of 14-day transatlantic voyage",
-    "link": "https://nypost.com/2025/10/29/world-news/pampo-cruise-crew-member-dies-onboard-ms-arvia-following-accident-after-setting-sail-from-england/"
+    "headline": "Ex-Army sergeant sentenced for trying to give state secrets to China after mental health spiral",
+    "link": "https://nypost.com/2025/10/29/us-news/ex-army-sergeant-joseph-daniel-schmidt-sentenced-for-trying-to-give-state-secrets-to-china-after-mental-health-spiral/"
   },
   {
-    "score": 3,
-    "pubdate": "2025-10-29-04-56-59 +0000",
-    "source": "nyt",
-    "headline": "Melissa Devastates Jamaica as Officials Assess Destruction",
-    "link": "https://www.nytimes.com/live/2025/10/28/weather/hurricane-melissa-jamaica-landfall"
+    "score": 9,
+    "pubdate": "2025-10-29-06-45-00 +0000",
+    "source": "wsj",
+    "headline": "Mercedes-Benz Confirms Guidance After Tariffs, Chinese Weakness Weigh on Earnings",
+    "link": "https://www.wsj.com/business/earnings/mercedes-benz-confirms-guidance-after-tariffs-chinese-weakness-weigh-on-earnings-8f328060?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 0,
-    "pubdate": "2025-10-29-05-28-37 +0000",
-    "source": "nyt",
-    "headline": "Hurricane Melissa’s Direct Hit Knocks Most of Jamaica Offline",
-    "link": "https://www.nytimes.com/2025/10/29/world/americas/hurricane-melissa-jamaica-damage-deaths.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-10-29-04-56-58 +0000",
-    "source": "nyt",
-    "headline": "Trump Suggests He Knows He Can’t Run Again: ‘It’s Too Bad’",
-    "link": "https://www.nytimes.com/2025/10/29/us/politics/third-term-limit.html"
+    "score": 9,
+    "pubdate": "2025-10-29-06-24-00 +0000",
+    "source": "wsj",
+    "headline": "Deutsche Bank Posts Higher Profit on Investment Bank Boost",
+    "link": "https://www.wsj.com/business/earnings/deutsche-bank-posts-higher-profit-on-investment-bank-boost-2e7d778b?mod=pls_whats_news_us_business_f"
   }
 ]

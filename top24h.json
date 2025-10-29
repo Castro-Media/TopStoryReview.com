@@ -1,6 +1,6 @@
 [
   {
-    "score": 193,
+    "score": 208,
     "pubdate": "2025-10-28-20-45-01 +0000",
     "source": "latimes",
     "headline": "News Analysis: Trade deal or trade truce? Questions remain as Trump meets with China's Xi",
@@ -21,11 +21,18 @@
     "link": "https://www.wsj.com/politics/policy/republican-led-panel-recommends-justice-department-investigate-bidens-executive-actions-6a9fb60a"
   },
   {
-    "score": 78,
+    "score": 77,
     "pubdate": "2025-10-29-01-40-00 +0000",
     "source": "wsj",
     "headline": "Millions of Americans are now learning how much more their Affordable Care Act plans will cost next year. Many face hefty increases.",
     "link": "https://www.wsj.com/politics/americans-are-getting-a-look-at-next-years-aca-premiums-and-many-dont-like-it-b6a2326b"
+  },
+  {
+    "score": 77,
+    "pubdate": "2025-10-29-00-39-18 +0000",
+    "source": "cbc",
+    "headline": "North Korea says it test-fired cruise-missiles hours ahead of Trump's arrival in South Korea",
+    "link": "https://www.cbc.ca/news/world/north-korea-missiles-trump-visit-9.6957701?cmp=rss"
   },
   {
     "score": 75,
@@ -35,13 +42,6 @@
     "link": "https://nypost.com/2025/10/28/us-news/trump-toyota-pledges-10b-toward-new-auto-plants-in-us/"
   },
   {
-    "score": 65,
-    "pubdate": "2025-10-29-00-39-18 +0000",
-    "source": "cbc",
-    "headline": "North Korea says it test-fired cruise-missiles hours ahead of Trump's arrival in South Korea",
-    "link": "https://www.cbc.ca/news/world/north-korea-missiles-trump-visit-9.6957701?cmp=rss"
-  },
-  {
     "score": 64,
     "pubdate": "2025-10-28-21-46-55 +0000",
     "source": "wapo",
@@ -49,24 +49,24 @@
     "link": "https://www.washingtonpost.com/national-security/2025/10/28/drug-boat-strike-mexico-pacific-hegseth/"
   },
   {
-    "score": 61,
+    "score": 60,
     "pubdate": "2025-10-28-22-44-55 +0000",
     "source": "nyt",
     "headline": "Dozens of States Sue Trump Administration Over SNAP Funding During Shutdown",
     "link": "https://www.nytimes.com/2025/10/28/us/politics/trump-food-stamps-snap-lawsuit.html"
   },
   {
-    "score": 57,
+    "score": 54,
     "pubdate": "2025-10-28-20-16-07 +0000",
     "source": "nypost",
     "headline": "Chuck Schumer doesn’t need to endorse ‘wack’ Mamdani for NYC mayor, GOP Senate leader John Thune tells Post",
     "link": "https://nypost.com/2025/10/28/us-news/chuck-schumer-doesnt-need-to-endorse-whack-mamdani-for-nyc-mayor-gop-senate-leader-john-thune-tells-post/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-10-28-19-49-44 +0000",
-    "source": "nypost",
-    "headline": "Disturbing video shows Hamas stage recovery of hostage remains — which justifies renewed Gaza attack: Israeli officials",
-    "link": "https://nypost.com/2025/10/28/world-news/hamas-fakes-unearthing-remains-of-slain-hostage/"
+    "score": 52,
+    "pubdate": "2025-10-29-05-58-50 +0000",
+    "source": "bbc",
+    "headline": "Tight race in Dutch election as anti-Islam populist Wilders' hope of power declines",
+    "link": "https://www.bbc.com/news/articles/c20p6z2j5dro?at_medium=RSS&at_campaign=rss"
   }
 ]
