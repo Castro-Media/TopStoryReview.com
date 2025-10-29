@@ -1,72 +1,30 @@
 [
   {
-    "score": 34,
-    "pubdate": "2025-10-29-16-22-51 +0000",
-    "source": "nypost",
-    "headline": "‘Army of lawyers’: ADL teams up with law firm Gibson Dunn to launch nationwide network to fight antisemitism",
-    "link": "https://nypost.com/2025/10/29/business/adl-gibson-dunn-launch-army-of-lawyers-to-fight-antisemitism/"
-  },
-  {
-    "score": 26,
-    "pubdate": "2025-10-29-16-41-00 +0000",
-    "source": "wsj",
-    "headline": "Fiserv Erases $30 Billion in Market Value After New CEO Pulls Guidance",
-    "link": "https://www.wsj.com/business/c-suite/fiserv-erases-30-billion-in-market-value-after-new-ceo-pulls-guidance-63c8ba9f?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 23,
-    "pubdate": "2025-10-29-16-18-03 +0000",
-    "source": "nyt",
-    "headline": "Israeli Strikes in Gaza Kill at Least 100, Local Health Officials Say",
-    "link": "https://www.nytimes.com/2025/10/29/world/middleeast/gaza-israel-strikes-ceasefire.html"
-  },
-  {
-    "score": 23,
-    "pubdate": "2025-10-29-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump advisers are considering Las Vegas for the GOP’s midterm convention next year, according to people involved in the discussions, as Republicans look to hold on to a narrow majority in Congress.",
-    "link": "https://www.wsj.com/politics/elections/trump-republican-midterm-convention-las-vegas-8a0efb11"
-  },
-  {
-    "score": 22,
-    "pubdate": "2025-10-29-16-13-19 +0000",
-    "source": "bbc",
-    "headline": "Watch: Lib Dems MPs heckle Farage as he presents ECHR bill",
-    "link": "https://www.bbc.com/news/videos/c1m3pvg45n2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 19,
-    "pubdate": "2025-10-29-16-30-05 +0000",
-    "source": "nyt",
-    "headline": "The Fed may soon stop reducing its debt and mortgage bond holdings.",
-    "link": "https://www.nytimes.com/live/2025/10/29/business/federal-reserve-interest-rates/the-fed-may-soon-stop-reducing-its-debt-and-mortgage-bond-holdings"
-  },
-  {
-    "score": 17,
-    "pubdate": "2025-10-29-16-33-59 +0000",
-    "source": "nyt",
-    "headline": "How a Small Elite College in Maine Influenced Mamdani’s World View",
-    "link": "https://www.nytimes.com/2025/10/28/us/politics/zohran-mamdani-bowdoin-college-new-york-mayor-election.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-10-29-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Jerry Jones Says He Has Unlocked a $100 Billion Gas Bounty in This Drilling Inferno",
-    "link": "https://www.wsj.com/business/energy-oil/jerry-jones-comstock-resources-texas-f11636d6?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-10-29-16-31-51 +0000",
-    "source": "nyt",
-    "headline": "Boeing Reports Bigger Quarterly Loss but Sales Improved",
-    "link": "https://www.nytimes.com/2025/10/29/business/boeing-earnings-third-quarter.html"
-  },
-  {
     "score": 14,
-    "pubdate": "2025-10-29-16-15-52 +0000",
+    "pubdate": "2025-10-29-16-52-55 +0000",
     "source": "nyt",
-    "headline": "Annabel Goldsmith, a Queen of British High Society, Dies at 91",
-    "link": "https://www.nytimes.com/2025/10/29/world/europe/annabel-goldsmith-dead.html"
+    "headline": "France Adds Consent to Its Rape Law After Yearslong Fight",
+    "link": "https://www.nytimes.com/2025/10/29/world/europe/france-consent-rape-law.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-10-29-16-54-00 +0000",
+    "source": "wsj",
+    "headline": "General Motors Lays Off Thousands of Electric-Vehicle Workers in U.S. Plants",
+    "link": "https://www.wsj.com/business/autos/general-motors-lays-off-thousands-of-electric-vehicle-workers-in-u-s-plants-ff4f75de?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-10-29-16-55-00 +0000",
+    "source": "wsj",
+    "headline": "Boeing Books Nearly $5 Billion Charge for 777X Delays",
+    "link": "https://www.wsj.com/business/airlines/boeing-ba-q3-earnings-report-stock-2025-af9355c7?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-29-16-52-55 +0000",
+    "source": "nyt",
+    "headline": "France Adds Consent to Its Rape Law After Yearslong Fight",
+    "link": "https://www.nytimes.com/2025/10/29/world/europe/france-consent-rape-law.html"
   }
 ]
