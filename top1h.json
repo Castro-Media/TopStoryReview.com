@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "score": 20,
+    "pubdate": "2025-10-29-04-56-58 +0000",
+    "source": "nyt",
+    "headline": "Trump Suggests He Knows He Can’t Run Again: ‘It’s Too Bad’",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/third-term-limit.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-29-05-28-37 +0000",
+    "source": "nyt",
+    "headline": "Hurricane Melissa’s Direct Hit Knocks Most of Jamaica Offline",
+    "link": "https://www.nytimes.com/2025/10/29/world/americas/hurricane-melissa-jamaica-damage-deaths.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-10-29-05-30-07 +0000",
+    "source": "nypost",
+    "headline": "TikTok influencer Ben Bader was found ‘unresponsive’ at private club in Florida before his death: report",
+    "link": "https://nypost.com/2025/10/29/us-news/influencer-ben-bader-was-found-unresponsive-at-private-club-in-florida-before-his-death/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-10-29-05-08-20 +0000",
+    "source": "nypost",
+    "headline": "P&O Cruise employee dies after onboard ‘accident’, forcing unscheduled stop at start of 14-day transatlantic voyage",
+    "link": "https://nypost.com/2025/10/29/world-news/pampo-cruise-crew-member-dies-onboard-ms-arvia-following-accident-after-setting-sail-from-england/"
+  },
+  {
+    "score": 3,
+    "pubdate": "2025-10-29-04-56-59 +0000",
+    "source": "nyt",
+    "headline": "Melissa Devastates Jamaica as Officials Assess Destruction",
+    "link": "https://www.nytimes.com/live/2025/10/28/weather/hurricane-melissa-jamaica-landfall"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-29-05-28-37 +0000",
+    "source": "nyt",
+    "headline": "Hurricane Melissa’s Direct Hit Knocks Most of Jamaica Offline",
+    "link": "https://www.nytimes.com/2025/10/29/world/americas/hurricane-melissa-jamaica-damage-deaths.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-10-29-04-56-58 +0000",
+    "source": "nyt",
+    "headline": "Trump Suggests He Knows He Can’t Run Again: ‘It’s Too Bad’",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/third-term-limit.html"
+  }
+]
