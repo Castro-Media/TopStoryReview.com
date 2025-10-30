@@ -1,72 +1,72 @@
 [
   {
-    "score": 30,
-    "pubdate": "2025-10-30-20-43-20 +0000",
+    "score": 70,
+    "pubdate": "2025-10-30-21-18-32 +0000",
+    "source": "nyt",
+    "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-10-30-21-12-41 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-10-30-21-34-57 +0000",
+    "source": "nyt",
+    "headline": "Do You Rely on Food Stamps? Tell Us About How You’re Preparing for the Loss of Assistance.",
+    "link": "https://www.nytimes.com/2025/10/30/us/snap-food-stamps.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-30-21-46-30 +0000",
+    "source": "nypost",
+    "headline": "‘Scabby the Rat’ mascot gets patched up after NYC slashing — and readies for comeback",
+    "link": "https://nypost.com/2025/10/30/business/scabby-the-rat-mascot-gets-patched-up-after-nyc-slashing-and-readies-for-comeback/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-30-21-36-48 +0000",
+    "source": "nyt",
+    "headline": "Soybean Farmers Find Relief in U.S. Trade Truce With China",
+    "link": "https://www.nytimes.com/2025/10/30/business/economy/soybean-farmers-us-china-truce.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-10-30-21-03-19 +0000",
     "source": "nyt",
     "headline": "Trump Cuts Refugee Admissions and Prioritizes White South Africans",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-refugee-admissions-white-south-africans.html"
   },
   {
-    "score": 30,
-    "pubdate": "2025-10-30-20-23-42 +0000",
+    "score": 20,
+    "pubdate": "2025-10-30-21-26-33 +0000",
     "source": "nypost",
-    "headline": "JD Vance, Sean Duffy predict ‘disaster’ for airline travel if government shutdown stretches to November",
-    "link": "https://nypost.com/2025/10/30/us-news/vance-duffy-predict-disaster-for-airline-travel-as-shutdown-drags-on/"
+    "headline": "Virginia Giuffre’s family celebrates her ‘courage’ after Prince Andrew’s humiliating downfall: ‘Brought down’ a royal",
+    "link": "https://nypost.com/2025/10/30/world-news/virginia-giuffres-family-celebrates-her-courage-after-prince-andrews-humiliating-downfall/"
   },
   {
     "score": 18,
-    "pubdate": "2025-10-30-20-26-48 +0000",
-    "source": "nyt",
-    "headline": "Guard Troops Were Sent to Portland, Ore., Despite a Court-Ordered Halt",
-    "link": "https://www.nytimes.com/2025/10/29/us/politics/national-guard-portland-trump.html"
+    "pubdate": "2025-10-30-21-14-00 +0000",
+    "source": "wsj",
+    "headline": "Fed officials are planning to reduce the staff of its banking supervision arm by 30% by the end of next year, according to an internal memo seen by The Wall Street Journal",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-to-reduce-bank-supervision-staff-by-30-84fcd65f"
   },
   {
-    "score": 17,
-    "pubdate": "2025-10-30-20-51-44 +0000",
+    "score": 18,
+    "pubdate": "2025-10-30-21-14-19 +0000",
     "source": "nypost",
-    "headline": "Virginia teacher recalls harrowing moment when 6-year-old student shot her in school: ‘It got all black’",
-    "link": "https://nypost.com/2025/10/30/us-news/virginia-teacher-recalls-moment-she-was-shot-by-6-year-old/"
+    "headline": "MTA drops $1.5B on new fleet of subway cars in move to avoid breakdowns",
+    "link": "https://nypost.com/2025/10/30/us-news/mta-drops-1-5b-on-new-fleet-of-subway-cars-in-move-to-avoid-breakdowns/"
   },
   {
     "score": 17,
-    "pubdate": "2025-10-30-20-50-00 +0000",
-    "source": "wsj",
-    "headline": "Prince Andrew Stripped of Royal Title by King Charles",
-    "link": "https://www.wsj.com/world/uk/prince-andrew-stripped-of-royal-title-by-king-charles-a1afe915"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-10-30-20-45-26 +0000",
+    "pubdate": "2025-10-30-21-39-46 +0000",
     "source": "bbc",
-    "headline": "Does Trump's nuclear testing raise the stakes - or are we already in an arms race?",
-    "link": "https://www.bbc.com/news/articles/czxn00l00r6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-10-30-20-09-31 +0000",
-    "source": "nyt",
-    "headline": "Police Raid in Rio de Janeiro Leaves Over 130 Dead",
-    "link": "https://www.nytimes.com/2025/10/29/world/americas/rio-brazil-police-raid-deaths.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-10-30-20-25-00 +0000",
-    "source": "wsj",
-    "headline": "Berkshire’s New Normal: No Buffett Shareholder Letter and No ‘Buffett Premium’",
-    "link": "https://www.wsj.com/finance/stocks/berkshires-new-normal-no-buffett-shareholder-letter-and-no-buffett-premium-b53c2edd?mod=rss_markets_main"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-10-30-20-33-35 +0000",
-    "source": "nyt",
-    "headline": "Six Arrested in Robbery of Precious-Metal Refinery in France",
-    "link": "https://www.nytimes.com/2025/10/30/world/europe/robbery-lyon-france.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-10-30-20-35-00 +0000",
-    "source": "wsj",
-    "headline": "Stryker Lifts Full-Year Sales View After Third-Quarter Revenue Rises",
-    "link": "https://www.wsj.com/business/earnings/stryker-lifts-full-year-sales-view-after-third-quarter-revenue-rises-6853b107?mod=pls_whats_news_us_business_f"
+    "headline": "Israel confirms identities of hostages' bodies returned by Hamas",
+    "link": "https://www.bbc.com/news/articles/c4gj90j2g8jo?at_medium=RSS&at_campaign=rss"
   }
 ]

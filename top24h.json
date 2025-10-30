@@ -1,45 +1,52 @@
 [
   {
-    "score": 333,
+    "score": 346,
     "pubdate": "2025-10-30-07-41-00 +0000",
     "source": "wsj",
     "headline": "Trump and Xi met face-to-face for the first time in six years, emerging from what Trump called “an amazing meeting” with an immediate U.S. cut in tariffs on Chinese goods",
     "link": "https://www.wsj.com/world/china/trump-meets-xi-for-high-stakes-u-s-china-summit-a9c7738f"
   },
   {
-    "score": 128,
+    "score": 137,
     "pubdate": "2025-10-30-15-17-59 +0000",
     "source": "nyt",
     "headline": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html"
   },
   {
-    "score": 97,
-    "pubdate": "2025-10-30-09-12-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said that he has ordered the Pentagon to “start testing our Nuclear Weapons on an equal basis” with Russia and China",
-    "link": "https://www.wsj.com/politics/national-security/trump-says-u-s-will-begin-testing-nuclear-weapons-df02292e"
+    "score": 117,
+    "pubdate": "2025-10-30-21-18-32 +0000",
+    "source": "nyt",
+    "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html"
   },
   {
-    "score": 71,
+    "score": 77,
+    "pubdate": "2025-10-30-02-40-50 +0000",
+    "source": "latimes",
+    "headline": "He said he was an immigration lawyer but raped her, offered discount if she'd keep quiet, police say",
+    "link": "https://www.latimes.com/california/story/2025-10-29/woman-allegedly-raped-by-man-who-offered-immigration-legal-aid"
+  },
+  {
+    "score": 65,
     "pubdate": "2025-10-30-10-00-00 +0000",
     "source": "latimes",
     "headline": "Warner Bros. Discovery is up for sale. Why CEO David Zaslav isn't ready to give up the reins",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-30/david-zaslav-warner-bros-deal-paramount-ellison"
   },
   {
-    "score": 69,
-    "pubdate": "2025-10-30-17-31-09 +0000",
-    "source": "nypost",
-    "headline": "Hurricane Melissa leaves trail of death, destruction across Cuba, Haiti and Jamaica",
-    "link": "https://nypost.com/2025/10/30/world-news/hurricane-melissa-leaves-trail-of-death-destruction-across-cuba-haiti-and-jamaica/"
-  },
-  {
-    "score": 64,
+    "score": 63,
     "pubdate": "2025-10-29-22-23-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon will no longer rotate Army combat brigades through Romania as part of a strategy that focuses on Asia and Latin America",
     "link": "https://www.wsj.com/politics/national-security/u-s-withdraws-troops-from-romania-signaling-shifting-priorities-8fb33406"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-10-30-17-31-09 +0000",
+    "source": "nypost",
+    "headline": "Hurricane Melissa leaves trail of death, destruction across Cuba, Haiti and Jamaica",
+    "link": "https://nypost.com/2025/10/30/world-news/hurricane-melissa-leaves-trail-of-death-destruction-across-cuba-haiti-and-jamaica/"
   },
   {
     "score": 60,
@@ -49,24 +56,17 @@
     "link": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 57,
-    "pubdate": "2025-10-30-18-40-15 +0000",
+    "score": 53,
+    "pubdate": "2025-10-30-20-23-42 +0000",
     "source": "nypost",
-    "headline": "Kamala Harris claims Biden ‘didn’t want that debate’ with Trump — and was ‘a little off’ before",
-    "link": "https://nypost.com/2025/10/30/us-news/kamala-harris-says-biden-didnt-want-that-debate-with-trump/"
+    "headline": "JD Vance, Sean Duffy predict ‘disaster’ for airline travel if government shutdown stretches to November",
+    "link": "https://nypost.com/2025/10/30/us-news/vance-duffy-predict-disaster-for-airline-travel-as-shutdown-drags-on/"
   },
   {
-    "score": 56,
-    "pubdate": "2025-10-30-16-20-52 +0000",
-    "source": "nyt",
-    "headline": "French Police Arrest 5 More in Louvre Jewel Heist Investigation",
-    "link": "https://www.nytimes.com/2025/10/30/world/europe/louvre-heist-arrests-paris.html"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-10-30-01-32-00 +0000",
-    "source": "wsj",
-    "headline": "Federal Reserve Chair Jerome Powell delivered a blunt message for investors who have assumed the central bank would be on cruise control toward a third rate cut in December: Not so fast.",
-    "link": "https://www.wsj.com/economy/central-banking/fed-divisions-reveal-new-caution-over-continued-cuts-4cf868af"
+    "score": 52,
+    "pubdate": "2025-10-30-19-35-06 +0000",
+    "source": "nypost",
+    "headline": "Disgraced Prince Andrew to be stripped of ‘prince’ title — and forced to leave Royal Lodge after Jeffrey Epstein scandal",
+    "link": "https://nypost.com/2025/10/30/world-news/prince-andrew-to-be-stripped-of-prince-title-buckingham-palace/"
   }
 ]
