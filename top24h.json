@@ -1,66 +1,52 @@
 [
   {
-    "score": 336,
+    "score": 333,
     "pubdate": "2025-10-30-07-41-00 +0000",
     "source": "wsj",
     "headline": "Trump and Xi met face-to-face for the first time in six years, emerging from what Trump called “an amazing meeting” with an immediate U.S. cut in tariffs on Chinese goods",
     "link": "https://www.wsj.com/world/china/trump-meets-xi-for-high-stakes-u-s-china-summit-a9c7738f"
   },
   {
-    "score": 142,
+    "score": 133,
     "pubdate": "2025-10-30-15-17-59 +0000",
     "source": "nyt",
     "headline": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html"
   },
   {
-    "score": 102,
+    "score": 100,
     "pubdate": "2025-10-30-09-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump said that he has ordered the Pentagon to “start testing our Nuclear Weapons on an equal basis” with Russia and China",
     "link": "https://www.wsj.com/politics/national-security/trump-says-u-s-will-begin-testing-nuclear-weapons-df02292e"
   },
   {
-    "score": 82,
-    "pubdate": "2025-10-29-18-05-17 +0000",
-    "source": "wapo",
-    "headline": "Report: Government shutdown will cost the economy up to $14 billion",
-    "link": "https://www.washingtonpost.com/business/2025/10/29/government-shutdown-economic-impact/"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-10-30-13-31-37 +0000",
+    "score": 76,
+    "pubdate": "2025-10-30-17-31-09 +0000",
     "source": "nypost",
-    "headline": "Video shows Zohran Mamdani fervently shouting about defunding ‘Israeli settler violence’ just months before Oct. 7",
-    "link": "https://nypost.com/2025/10/30/us-news/video-shows-zohran-mamdani-fervently-shouting-about-defunding-israeli-settler-violence-just-months-before-oct-7/"
+    "headline": "Hurricane Melissa leaves trail of death, destruction across Cuba, Haiti and Jamaica",
+    "link": "https://nypost.com/2025/10/30/world-news/hurricane-melissa-leaves-trail-of-death-destruction-across-cuba-haiti-and-jamaica/"
   },
   {
-    "score": 64,
+    "score": 69,
+    "pubdate": "2025-10-30-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Warner Bros. Discovery is up for sale. Why CEO David Zaslav isn't ready to give up the reins",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-30/david-zaslav-warner-bros-deal-paramount-ellison"
+  },
+  {
+    "score": 67,
+    "pubdate": "2025-10-29-22-23-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon will no longer rotate Army combat brigades through Romania as part of a strategy that focuses on Asia and Latin America",
+    "link": "https://www.wsj.com/politics/national-security/u-s-withdraws-troops-from-romania-signaling-shifting-priorities-8fb33406"
+  },
+  {
+    "score": 63,
     "pubdate": "2025-10-30-15-17-38 +0000",
     "source": "nypost",
     "headline": "NJ Dem councilman Jeff Lewis urges voters to back Republican Jack Ciattarelli, knocks Mikie Sherrill as ‘not cut out for’ gov job",
     "link": "https://nypost.com/2025/10/30/us-news/nj-dem-councilman-jeff-lewis-urges-voters-to-back-republican-jack-ciattarelli-knocks-mike-sherrill-as-not-cut-out-for-gov-job/"
-  },
-  {
-    "score": 63,
-    "pubdate": "2025-10-29-20-56-14 +0000",
-    "source": "wapo",
-    "headline": "Hurricane Melissa hits Cuba; has killed at least 26 in Haiti and Jamaica",
-    "link": "https://www.washingtonpost.com/weather/2025/10/29/hurricane-melissa-cuba-jamaica-damage/"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-10-30-15-20-33 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Tells Court It Has Money It Can’t Spend to Prevent Food Stamp Cuts",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/food-stamps-shutdown.html"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-10-30-12-41-25 +0000",
-    "source": "nypost",
-    "headline": "Jersey City mayor’s race gets nasty among near dead heat — as ‘Gay American’ ex-gov Jim McGreevey inches ahead: poll",
-    "link": "https://nypost.com/2025/10/30/us-news/jersey-city-mayors-race-gets-nasty-as-polls-suggest-three-way-tie/"
   },
   {
     "score": 58,
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "French Police Arrest 5 More in Louvre Jewel Heist Investigation",
     "link": "https://www.nytimes.com/2025/10/30/world/europe/louvre-heist-arrests-paris.html"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-10-30-18-40-15 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris claims Biden ‘didn’t want that debate’ with Trump — and was ‘a little off’ before",
+    "link": "https://nypost.com/2025/10/30/us-news/kamala-harris-says-biden-didnt-want-that-debate-with-trump/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-10-30-01-32-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Reserve Chair Jerome Powell delivered a blunt message for investors who have assumed the central bank would be on cruise control toward a third rate cut in December: Not so fast.",
+    "link": "https://www.wsj.com/economy/central-banking/fed-divisions-reveal-new-caution-over-continued-cuts-4cf868af"
   }
 ]
