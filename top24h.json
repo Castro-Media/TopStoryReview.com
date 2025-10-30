@@ -14,13 +14,6 @@
     "link": "https://www.wsj.com/politics/national-security/trump-says-u-s-will-begin-testing-nuclear-weapons-df02292e"
   },
   {
-    "score": 99,
-    "pubdate": "2025-10-29-18-05-17 +0000",
-    "source": "wapo",
-    "headline": "Report: Government shutdown will cost the economy up to $14 billion",
-    "link": "https://www.washingtonpost.com/business/2025/10/29/government-shutdown-economic-impact/"
-  },
-  {
     "score": 98,
     "pubdate": "2025-10-29-21-43-47 +0000",
     "source": "nypost",
@@ -28,11 +21,11 @@
     "link": "https://nypost.com/2025/10/29/media/uk-paid-41m-to-shoot-new-knives-out-netflix-movie-in-london-instead-of-new-york/"
   },
   {
-    "score": 86,
-    "pubdate": "2025-10-30-05-53-59 +0000",
-    "source": "nyt",
-    "headline": "Feted as a Peacemaker in South Korea, Trump Vows to End Hostilities With North Korea",
-    "link": "https://www.nytimes.com/2025/10/29/world/asia/trump-south-north-korea-kim.html"
+    "score": 96,
+    "pubdate": "2025-10-29-18-05-17 +0000",
+    "source": "wapo",
+    "headline": "Report: Government shutdown will cost the economy up to $14 billion",
+    "link": "https://www.washingtonpost.com/business/2025/10/29/government-shutdown-economic-impact/"
   },
   {
     "score": 83,
@@ -42,14 +35,21 @@
     "link": "https://www.washingtonpost.com/weather/2025/10/29/hurricane-melissa-cuba-jamaica-damage/"
   },
   {
-    "score": 65,
+    "score": 83,
+    "pubdate": "2025-10-30-05-53-59 +0000",
+    "source": "nyt",
+    "headline": "Feted as a Peacemaker in South Korea, Trump Vows to End Hostilities With North Korea",
+    "link": "https://www.nytimes.com/2025/10/29/world/asia/trump-south-north-korea-kim.html"
+  },
+  {
+    "score": 64,
     "pubdate": "2025-10-30-09-05-27 +0000",
     "source": "nyt",
     "headline": "Centrist Party Ties Dutch Election as Far-Right Party Loses Seats",
     "link": "https://www.nytimes.com/2025/10/30/world/europe/dutch-elections-geert-wilders-rob-jetten.html"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2025-10-30-10-08-04 +0000",
     "source": "nyt",
     "headline": "French Police Arrest 5 More in Louvre Jewel Heist Investigation",
