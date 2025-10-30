@@ -1,24 +1,31 @@
 [
   {
-    "score": 514,
+    "score": 496,
     "pubdate": "2025-10-26-18-31-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it reached trade agreements with Malaysia and Cambodia, and frameworks for deals with Thailand and Vietnam during President Trump’s trip across Asia",
     "link": "https://www.wsj.com/economy/trade/trump-reaches-trade-pacts-with-southeast-asian-nations-e51b3627"
   },
   {
-    "score": 190,
+    "score": 191,
     "pubdate": "2025-10-29-21-43-47 +0000",
     "source": "nypost",
     "headline": "UK paid $41M to shoot new ‘Knives Out’ Netflix movie in London instead of New York",
     "link": "https://nypost.com/2025/10/29/media/uk-paid-41m-to-shoot-new-knives-out-netflix-movie-in-london-instead-of-new-york/"
   },
   {
-    "score": 159,
+    "score": 160,
     "pubdate": "2025-10-29-18-05-17 +0000",
     "source": "wapo",
     "headline": "Report: Government shutdown will cost the economy up to $14 billion",
     "link": "https://www.washingtonpost.com/business/2025/10/29/government-shutdown-economic-impact/"
+  },
+  {
+    "score": 158,
+    "pubdate": "2025-10-28-23-10-22 +0000",
+    "source": "bbc",
+    "headline": "'No Trump! No China!': Caught in the middle, South Korea hosts rival superpowers",
+    "link": "https://www.bbc.com/news/articles/cy7eyg0808xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 155,
@@ -28,45 +35,38 @@
     "link": "https://www.wsj.com/us-news/memphis-tennessee-national-guard-reactions-d7f7bb54"
   },
   {
-    "score": 151,
-    "pubdate": "2025-10-28-23-10-22 +0000",
-    "source": "bbc",
-    "headline": "'No Trump! No China!': Caught in the middle, South Korea hosts rival superpowers",
-    "link": "https://www.bbc.com/news/articles/cy7eyg0808xo?at_medium=RSS&at_campaign=rss"
+    "score": 139,
+    "pubdate": "2025-10-29-20-56-14 +0000",
+    "source": "wapo",
+    "headline": "Hurricane Melissa hits Cuba; has killed at least 26 in Haiti and Jamaica",
+    "link": "https://www.washingtonpost.com/weather/2025/10/29/hurricane-melissa-cuba-jamaica-damage/"
   },
   {
-    "score": 128,
-    "pubdate": "2025-10-28-21-15-17 +0000",
-    "source": "nyt",
-    "headline": "Hurricane Melissa Hits Jamaica as One of the Most Powerful on Record",
-    "link": "https://www.nytimes.com/2025/10/28/world/americas/hurricane-melissa-jamaica.html"
-  },
-  {
-    "score": 121,
+    "score": 123,
     "pubdate": "2025-10-29-16-04-58 +0000",
     "source": "bbc",
     "headline": "Israeli strikes in Gaza kill 104, health ministry says, after Hamas accused of killing soldier",
     "link": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 109,
+    "score": 108,
     "pubdate": "2025-10-29-22-41-05 +0000",
     "source": "nypost",
     "headline": "Zohran Mamdani’s DSA allies make last ditch push for ‘show of force’ at ballot box ahead of NYC mayoral election",
     "link": "https://nypost.com/2025/10/29/us-news/zohran-mamdanis-dsa-allies-make-last-ditch-push-for-show-of-force-ahead-of-nyc-mayoral-election/"
   },
   {
-    "score": 107,
+    "score": 101,
     "pubdate": "2025-10-26-09-00-00 +0000",
     "source": "wsj",
     "headline": "A State Department intelligence bureau cast doubt on the notion that Putin was prepared to negotiate an end to the Ukraine war, dissenting from a more optimistic CIA assessment of potential talks",
     "link": "https://www.wsj.com/politics/national-security/putin-ukraine-peace-state-department-c9ed6cef"
   },
   {
-    "score": 99,
-    "pubdate": "2025-10-24-19-35-06 +0000",
+    "score": 97,
+    "pubdate": "2025-10-26-10-00-00 +0000",
     "source": "latimes",
-    "headline": "Mega Millions alcanza los 680 millones de dólares, aquí tiene una lista de las tiendas de lotería más afortunadas de California",
-    "link": "https://www.latimes.com/espanol/california/articulo/2025-10-24/mega-millions-680-million-jackpot-california-luckiest-stores-lottery-ticket"
+    "headline": "Strings attached to bills Newsom signed on antisemitism, AI transparency and other major California policies",
+    "link": "https://www.latimes.com/california/story/2025-10-26/strings-attached-to-bills-newsom-signed-on-ai-transparency-and-other-major-new-laws"
   }
 ]
