@@ -1,26 +1,278 @@
 [
   {
-    "headline": "Feds announce $7M for Hurricane Melissa relief in Caribbean countries",
-    "link": "https://www.cbc.ca/news/politics/hurricane-melissa-relief-9.6960437?cmp=rss",
+    "headline": "Russia Says It Didn’t Test Nuclear Weapons, but Would if the U.S. Did",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/russia-nuclear-weapons-tests.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-53-55 +0000"
+  },
+  {
+    "headline": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
+    "link": "https://www.nytimes.com/2025/10/30/world/middleeast/israel-ultra-orthodox-demonstration-military-draft.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-52-55 +0000"
+  },
+  {
+    "headline": "Trump Officials Warn of Air Travel ‘Disaster’ in November",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-vance-airport-travel-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-52-29 +0000"
+  },
+  {
+    "headline": "Virginia teacher recalls harrowing moment when 6-year-old student shot her in school: ‘It got all black’",
+    "link": "https://nypost.com/2025/10/30/us-news/virginia-teacher-recalls-moment-she-was-shot-by-6-year-old/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-20-51-44 +0000"
+  },
+  {
+    "headline": "Prince Andrew Stripped of Royal Title by King Charles",
+    "link": "https://www.wsj.com/world/uk/prince-andrew-stripped-of-royal-title-by-king-charles-a1afe915",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-50-00 +0000"
+  },
+  {
+    "headline": "Life Lessons from (Very Old) Bowhead Whales",
+    "link": "https://www.nytimes.com/2025/10/29/science/genetics-bowhead-whales-longevity.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-47-04 +0000"
+  },
+  {
+    "headline": "Opinion | New Start and Trump’s Nuclear Test",
+    "link": "https://www.wsj.com/opinion/new-start-and-trumps-nuclear-test-3cfff964",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-47-00 +0000"
+  },
+  {
+    "headline": "Does Trump's nuclear testing raise the stakes - or are we already in an arms race?",
+    "link": "https://www.bbc.com/news/articles/czxn00l00r6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-30-20-45-26 +0000"
+  },
+  {
+    "headline": "Does Trump's nuclear testing raise the stakes - or are we already in an arms race?",
+    "link": "https://www.bbc.com/news/articles/czxn00l00r6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-30-20-45-26 +0000"
+  },
+  {
+    "headline": "Opinion | How to Make Main Street Banks Great Again",
+    "link": "https://www.wsj.com/opinion/how-to-make-main-street-banks-great-again-bessent-hagerty-wall-street-9a695c07?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-44-00 +0000"
+  },
+  {
+    "headline": "Gov. Gavin Newsom Turns California Election Into Possible 2028 Platform",
+    "link": "https://www.nytimes.com/2025/10/30/us/newsom-california-proposition-50-presidential.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-43-32 +0000"
+  },
+  {
+    "headline": "Trump Cuts Refugee Admissions and Prioritizes White South Africans",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-refugee-admissions-white-south-africans.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-43-20 +0000"
+  },
+  {
+    "headline": "Trump Cuts Refugee Admissions and Prioritizes White South Africans",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-refugee-admissions-white-south-africans.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-43-20 +0000"
+  },
+  {
+    "headline": "Trump Cuts Refugee Admissions and Prioritizes White South Africans",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-refugee-admissions-white-south-africans.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-43-20 +0000"
+  },
+  {
+    "headline": "Opinion | UPS Does Well When the Teamsters Does Best",
+    "link": "https://www.wsj.com/opinion/ups-does-well-when-the-teamsters-does-best-unions-contracts-obrien-ea4cc708?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-43-00 +0000"
+  },
+  {
+    "headline": "Opinion | Objective Media Is Overrated",
+    "link": "https://www.wsj.com/opinion/objective-media-is-overrated-bias-reporting-journalism-3456e64a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-40-00 +0000"
+  },
+  {
+    "headline": "Amazon Posts 13% Revenue Jump, Strong Cloud Sales",
+    "link": "https://www.wsj.com/business/earnings/amazon-amzn-q3-earnings-report-2025-553e6d16?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-39-00 +0000"
+  },
+  {
+    "headline": "Navan Shares Fall 20% in Biggest IPO During Shutdown",
+    "link": "https://www.wsj.com/finance/stocks/software-firm-tests-ipo-waters-during-shutdown-19aad64d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-38-00 +0000"
+  },
+  {
+    "headline": "Navan Shares Fall 20% in Biggest IPO During Shutdown",
+    "link": "https://www.wsj.com/finance/stocks/software-firm-tests-ipo-waters-during-shutdown-19aad64d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-38-00 +0000"
+  },
+  {
+    "headline": "Cops decapitate teen gangster, display head like ‘trophy’ in Brazil’s deadliest drug raid",
+    "link": "https://nypost.com/2025/10/30/world-news/cops-decapitate-teen-gangster-and-display-head-like-trophy-in-brazils-deadliest-drug-raid/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-20-37-52 +0000"
+  },
+  {
+    "headline": "Grandfather, 83, stabbed to death with screwdriver by granddaughter’s nanny, who fled naked, covered in blood: cops",
+    "link": "https://nypost.com/2025/10/30/us-news/grandfather-stabbed-to-death-with-screwdriver-by-granddaughters-nanny/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-20-36-33 +0000"
+  },
+  {
+    "headline": "Stryker Lifts Full-Year Sales View After Third-Quarter Revenue Rises",
+    "link": "https://www.wsj.com/business/earnings/stryker-lifts-full-year-sales-view-after-third-quarter-revenue-rises-6853b107?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-35-00 +0000"
+  },
+  {
+    "headline": "How Do You Feel About Travel Right Now? We Want to Hear From You.",
+    "link": "https://www.nytimes.com/2025/10/30/travel/travel-economy-airlines-loyalty-programs.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-33-50 +0000"
+  },
+  {
+    "headline": "Six Arrested in Robbery of Precious-Metal Refinery in France",
+    "link": "https://www.nytimes.com/2025/10/30/world/europe/robbery-lyon-france.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-33-35 +0000"
+  },
+  {
+    "headline": "Six Arrested in Robbery of Precious-Metal Refinery in France",
+    "link": "https://www.nytimes.com/2025/10/30/world/europe/robbery-lyon-france.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-33-35 +0000"
+  },
+  {
+    "headline": "At least 40 dead in Hurricane Melissa as it heads toward Bermuda",
+    "link": "https://www.washingtonpost.com/world/2025/10/30/melissa-hurricane-northeast-us-bermuda/",
+    "source": "wapo",
+    "pubdate": "2025-10-30-20-31-30 +0000"
+  },
+  {
+    "headline": "Conservative, NDP caucuses weighing a budget vote that could trigger an election: sources",
+    "link": "https://www.cbc.ca/news/politics/conservative-ndp-budget-election-vote-9.6960615?cmp=rss",
     "source": "cbc",
-    "pubdate": "2025-10-30-18-55-09 +0000"
+    "pubdate": "2025-10-30-20-31-12 +0000"
   },
   {
-    "headline": "Trump caps refugee admissions at record low - with most to be white South Africans",
-    "link": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-30-18-54-31 +0000"
+    "headline": "Tech Earnings Send Nasdaq Lower",
+    "link": "https://www.wsj.com/finance/stocks/tech-earnings-send-nasdaq-lower-a819a53e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-31-00 +0000"
   },
   {
-    "headline": "Trump caps refugee admissions at record low - with most to be white South Africans",
-    "link": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-30-18-54-31 +0000"
+    "headline": "Classified U.S. report finds backlog of hundreds of possible Israeli human rights violations",
+    "link": "https://www.washingtonpost.com/national-security/2025/10/30/state-department-report-israel-gaza-human-rights-violations/",
+    "source": "wapo",
+    "pubdate": "2025-10-30-20-27-46 +0000"
   },
   {
-    "headline": "Trump caps refugee admissions at record low - with most to be white South Africans",
-    "link": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-30-18-54-31 +0000"
+    "headline": "Guard Troops Were Sent to Portland, Ore., Despite a Court-Ordered Halt",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/national-guard-portland-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-26-48 +0000"
+  },
+  {
+    "headline": "Guard Troops Were Sent to Portland, Ore., Despite a Court-Ordered Halt",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/national-guard-portland-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-26-48 +0000"
+  },
+  {
+    "headline": "Prince Andrew to Be Stripped of His Royal Title",
+    "link": "https://www.nytimes.com/2025/10/30/world/europe/uk-prince-andrew-title.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-25-14 +0000"
+  },
+  {
+    "headline": "Prince Andrew to Be Stripped of His Royal Title",
+    "link": "https://www.nytimes.com/2025/10/30/world/europe/uk-prince-andrew-title.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-25-14 +0000"
+  },
+  {
+    "headline": "Berkshire’s New Normal: No Buffett Shareholder Letter and No ‘Buffett Premium’",
+    "link": "https://www.wsj.com/finance/stocks/berkshires-new-normal-no-buffett-shareholder-letter-and-no-buffett-premium-b53c2edd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-25-00 +0000"
+  },
+  {
+    "headline": "Reddit Third-Quarter Profit, Revenue Surge as Ad Business Grows",
+    "link": "https://www.wsj.com/business/earnings/reddit-third-quarter-profit-revenue-surge-as-ad-business-grows-da77b37e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-20-24-00 +0000"
+  },
+  {
+    "headline": "JD Vance, Sean Duffy predict ‘disaster’ for airline travel if government shutdown stretches to November",
+    "link": "https://nypost.com/2025/10/30/us-news/vance-duffy-predict-disaster-for-airline-travel-as-shutdown-drags-on/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-20-23-42 +0000"
+  },
+  {
+    "headline": "JD Vance, Sean Duffy predict ‘disaster’ for airline travel if government shutdown stretches to November",
+    "link": "https://nypost.com/2025/10/30/us-news/vance-duffy-predict-disaster-for-airline-travel-as-shutdown-drags-on/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-20-23-42 +0000"
+  },
+  {
+    "headline": "Amid Flattened Homes, Jamaica Starts to Assess Hurricane Melissa’s Damage",
+    "link": "https://www.nytimes.com/2025/10/30/us/hurricane-melissa-jamaica.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-21-01 +0000"
+  },
+  {
+    "headline": "Democrats Condemn Trump Officials for Boat Strike Secrecy",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-democrats-boat-strikes.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-13-37 +0000"
+  },
+  {
+    "headline": "Democrats Condemn Trump Officials for Boat Strike Secrecy",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-democrats-boat-strikes.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-13-37 +0000"
+  },
+  {
+    "headline": "Police Raid in Rio de Janeiro Leaves Over 130 Dead",
+    "link": "https://www.nytimes.com/2025/10/29/world/americas/rio-brazil-police-raid-deaths.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-09-31 +0000"
+  },
+  {
+    "headline": "Police Raid in Rio de Janeiro Leaves Over 130 Dead",
+    "link": "https://www.nytimes.com/2025/10/29/world/americas/rio-brazil-police-raid-deaths.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-09-31 +0000"
+  },
+  {
+    "headline": "For These Women, the American Dream Is in Mexico City",
+    "link": "https://www.nytimes.com/2025/10/30/world/americas/mexico-city-american-expat-women.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-06-48 +0000"
+  },
+  {
+    "headline": "For These Women, the American Dream Is in Mexico City",
+    "link": "https://www.nytimes.com/2025/10/30/world/americas/mexico-city-american-expat-women.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-20-06-48 +0000"
+  },
+  {
+    "headline": "An animal rights activist said she 'rescued' chickens. A jury convicted her of conspiracy",
+    "link": "https://www.latimes.com/california/story/2025-10-30/animal-rights-activist-convicted-in-chicken-rescue-caper",
+    "source": "latimes",
+    "pubdate": "2025-10-30-20-05-56 +0000"
+  },
+  {
+    "headline": "Here’s how one NYS county is keeping sex offenders away from trick-or-treaters on Halloween",
+    "link": "https://nypost.com/2025/10/30/us-news/heres-how-one-nys-county-is-keeping-sex-offenders-away-from-trick-or-treaters-on-halloween/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-19-55-38 +0000"
   }
 ]
