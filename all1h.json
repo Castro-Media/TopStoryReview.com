@@ -1,272 +1,236 @@
 [
   {
+    "headline": "Apple’s iPhones Fuel Record Sales and Profit",
+    "link": "https://www.nytimes.com/2025/10/30/business/apple-earnings.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-46-55 +0000"
+  },
+  {
+    "headline": "Australian Bank ANZ’s Second-Half Profit to Take A$1.11B Hit",
+    "link": "https://www.wsj.com/finance/banking/australian-bank-anzs-second-half-profit-to-take-a-1-11b-hit-539edada?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-23-46-00 +0000"
+  },
+  {
+    "headline": "Australian Bank ANZ’s Second-Half Profit to Take A$1.11B Hit",
+    "link": "https://www.wsj.com/finance/banking/australian-bank-anzs-second-half-profit-to-take-a-1-11b-hit-539edada?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-30-23-46-00 +0000"
+  },
+  {
+    "headline": "Amazon shares soar as AI demand boosts cloud revenue — and results fire up CEO Andy Jassy",
+    "link": "https://nypost.com/2025/10/30/business/amazon-shares-soar-as-ai-demand-boosts-cloud-revenue-and-results-fire-up-ceo-andy-jassy/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-23-42-12 +0000"
+  },
+  {
+    "headline": "A day after President Trump vowed to resume testing of nuclear weapons, the White House wasn’t answering questions about the details, leaving experts and insiders uncertain what he meant",
+    "link": "https://www.wsj.com/politics/national-security/trumps-vow-to-resume-nuclear-tests-leaves-experts-puzzled-90f5fe36",
+    "source": "wsj",
+    "pubdate": "2025-10-30-23-41-00 +0000"
+  },
+  {
+    "headline": "Estranged daughter of upstate NY nanny accused of squatting claims she booted ‘erratic’ mom from her home over ‘exact same’ issues",
+    "link": "https://nypost.com/2025/10/30/us-news/daughter-of-upstate-ny-nanny-accused-of-squatting-claims-she-booted-mom-over-similar-issues/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-23-39-01 +0000"
+  },
+  {
+    "headline": "Amid Flattened Homes, Jamaica Starts to Assess Hurricane Melissa’s Damage",
+    "link": "https://www.nytimes.com/2025/10/30/us/hurricane-melissa-jamaica.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-34-42 +0000"
+  },
+  {
+    "headline": "Ahead of Día de Muertos, S.F. immigrants balance resilience with caution",
+    "link": "https://eltecolote.org/content/en/sf-dia-de-muertos-immigrant-caution/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-30-23-32-11 +0000"
+  },
+  {
+    "headline": "How Xi Walked Away From Trump Trade Talks Looking Stronger",
+    "link": "https://www.nytimes.com/2025/10/30/world/asia/china-trump-xi-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-28-53 +0000"
+  },
+  {
+    "headline": "How Xi Walked Away From Trump Trade Talks Looking Stronger",
+    "link": "https://www.nytimes.com/2025/10/30/world/asia/china-trump-xi-trade.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-28-53 +0000"
+  },
+  {
+    "headline": "Letting agent apologises for 'oversight' on Reeves rental licence",
+    "link": "https://www.bbc.com/news/articles/cx2p55ejy88o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-30-23-26-53 +0000"
+  },
+  {
+    "headline": "Netflix hires investment bank to explore a bid for Warner Bros. Discovery: report",
+    "link": "https://nypost.com/2025/10/30/business/netflix-hires-investment-bank-to-explore-a-bid-for-warner-bros-discovery-report/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-23-24-44 +0000"
+  },
+  {
+    "headline": "King Charles strips brother Andrew of prince title over Epstein scandal",
+    "link": "https://www.washingtonpost.com/world/2025/10/30/andrew-title-prince-charles-epstein/",
+    "source": "wapo",
+    "pubdate": "2025-10-30-23-22-26 +0000"
+  },
+  {
+    "headline": "How a bird ‘no one ever sees’ drove tons to a Long Island golf course",
+    "link": "https://nypost.com/2025/10/30/us-news/how-a-bird-no-one-ever-sees-drove-tons-to-a-li-golf-course/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-23-20-31 +0000"
+  },
+  {
+    "headline": "Younger voters start to hit the polls in NYC mayoral election that could see historic turnout",
+    "link": "https://nypost.com/2025/10/30/us-news/younger-voters-start-to-hit-the-polls-in-a-new-york-city-mayoral-election/",
+    "source": "nypost",
+    "pubdate": "2025-10-30-23-17-54 +0000"
+  },
+  {
+    "headline": "Inside the Louvre Jewel Heist That Shocked the World",
+    "link": "https://www.nytimes.com/2025/10/30/world/europe/inside-louvre-jewel-heist.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-09-50 +0000"
+  },
+  {
+    "headline": "Inside the Louvre Jewel Heist That Shocked the World",
+    "link": "https://www.nytimes.com/2025/10/30/world/europe/inside-louvre-jewel-heist.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-09-50 +0000"
+  },
+  {
+    "headline": "A Texas Family Rode Out Hurricane Melissa at a Jamaican Beach Resort",
+    "link": "https://www.nytimes.com/2025/10/30/travel/hurricane-melissa-jamaica-resort.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-04-59 +0000"
+  },
+  {
     "headline": "Puck Acquires Air Mail, a Newsletter Merger for the Well-Heeled Inbox",
     "link": "https://www.nytimes.com/2025/10/30/business/media/puck-buys-airmail.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-44-48 +0000"
+    "pubdate": "2025-10-30-23-04-46 +0000"
   },
   {
-    "headline": "Trump’s China trade truce avoids open rupture while resolving nothing",
-    "link": "https://www.washingtonpost.com/business/2025/10/30/trump-china-trade-war-progress/",
-    "source": "wapo",
-    "pubdate": "2025-10-30-22-44-24 +0000"
-  },
-  {
-    "headline": "NYS police department blasted for posting stock pics of their ‘officers’ on its website: ‘Fake black dude’",
-    "link": "https://nypost.com/2025/10/30/us-news/nys-police-department-blasted-for-posting-stock-pics-of-their-officers-on-its-website-fake-black-dude/",
+    "headline": "Seasoned NYPD detective who saved life of Russian tourist promoted: ‘Be the person who helps’",
+    "link": "https://nypost.com/2025/10/30/us-news/seasoned-nypd-detective-who-saved-life-of-russian-tourist-promoted-be-the-person-who-helps/",
     "source": "nypost",
-    "pubdate": "2025-10-30-22-43-45 +0000"
+    "pubdate": "2025-10-30-23-04-15 +0000"
   },
   {
-    "headline": "LA Mayor Karen Bass backs $2.3M plan to clean up crime-plagued MacArthur Park — months after berating ICE sweep of troubled greenspace",
-    "link": "https://nypost.com/2025/10/30/us-news/karen-bass-backs-2-3m-plan-to-clean-up-macarthur-park-months-after-berating-ice-sweep/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-39-04 +0000"
-  },
-  {
-    "headline": "Newly disclosed documents are shedding new light on the back-and-forth over providing sensitive taxpayer information to immigration officials",
-    "link": "https://www.wsj.com/politics/policy/how-the-irs-and-ice-tussled-during-trumps-deportation-push-6e7fcbc1",
-    "source": "wsj",
-    "pubdate": "2025-10-30-22-39-00 +0000"
-  },
-  {
-    "headline": "Florida father-to-be wakes up from coma to blame angry girlfriend for causing car crash — before dying",
-    "link": "https://nypost.com/2025/10/30/us-news/father-to-be-wakes-up-from-coma-to-blame-beau-for-car-crash-before-dying/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-35-36 +0000"
-  },
-  {
-    "headline": "Apple claims 'tremendous' global uptake of latest iPhones",
-    "link": "https://www.bbc.com/news/articles/cz6n98exv9zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-30-22-31-22 +0000"
-  },
-  {
-    "headline": "Apple claims 'tremendous' global uptake of latest iPhones",
-    "link": "https://www.bbc.com/news/articles/cz6n98exv9zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-30-22-31-22 +0000"
-  },
-  {
-    "headline": "Marthe Gautier, 96, Dies; Had Key Role in Down Syndrome Breakthrough",
-    "link": "https://www.nytimes.com/2025/10/30/health/marthe-gautier-dead.html",
+    "headline": "Jamaica and Haiti Tally Hurricane Victims as Melissa Slams Cuba",
+    "link": "https://www.nytimes.com/2025/10/29/world/americas/hurrican-melissa-jamaica-cuba-haiti.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-30-59 +0000"
+    "pubdate": "2025-10-30-23-03-12 +0000"
   },
   {
-    "headline": "Sean ‘Diddy’ Combs transfered to NJ’s Fort Dix to start sentence for federal sex crimes",
-    "link": "https://nypost.com/2025/10/30/us-news/sean-diddy-combs-transfered-to-njs-fort-dix-to-start-sentence-for-federal-sex-crimes/",
+    "headline": "Jamaica and Haiti Tally Hurricane Victims as Melissa Slams Cuba",
+    "link": "https://www.nytimes.com/2025/10/29/world/americas/hurrican-melissa-jamaica-cuba-haiti.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-23-03-12 +0000"
+  },
+  {
+    "headline": "Nutjob with 86 arrests slugs stranger onto NYC subway tracks in terrifying string of attacks on Asian NYCers: sources",
+    "link": "https://nypost.com/2025/10/30/us-news/nutjob-with-86-arrests-slugs-stranger-onto-nyc-subway-tracks-in-terrifying-anti-asian-spree-sources/",
     "source": "nypost",
-    "pubdate": "2025-10-30-22-29-35 +0000"
+    "pubdate": "2025-10-30-23-02-43 +0000"
+  },
+  {
+    "headline": "U.S. Eyes Striking Venezuelan Military Targets Used for Drug Trafficking",
+    "link": "https://www.wsj.com/world/americas/u-s-eyes-striking-venezuelan-military-targets-used-for-drug-trafficking-cafcfe47",
+    "source": "wsj",
+    "pubdate": "2025-10-30-23-00-00 +0000"
+  },
+  {
+    "headline": "Cities Across the U.S. Are Putting Robots to Work",
+    "link": "https://www.wsj.com/business/entrepreneurship/robot-work-labor-jobs-43450bff?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-30-23-00-00 +0000"
   },
   {
     "headline": "Amazon Shares Surge on 13% Revenue Jump, Strong Cloud Sales",
     "link": "https://www.wsj.com/business/earnings/amazon-amzn-q3-earnings-report-2025-553e6d16?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2025-10-30-22-29-00 +0000"
-  },
-  {
-    "headline": "Apple’s iPhones Fuel Record Sales and Profit",
-    "link": "https://www.nytimes.com/2025/10/30/business/apple-earnings.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-28-45 +0000"
-  },
-  {
-    "headline": "SoCal cop was among Hollywood producer's rape victims. She died days before his sentencing",
-    "link": "https://www.latimes.com/california/story/2025-10-30/slain-socal-police-officer-among-hollywood-producers-rape-victims-d-a-says",
-    "source": "latimes",
-    "pubdate": "2025-10-30-22-26-43 +0000"
-  },
-  {
-    "headline": "Executions and Mass Casualties: Videos Show Horror Unfolding in Sudan",
-    "link": "https://www.nytimes.com/2025/10/30/world/africa/sudan-el-fasher-atrocities-executions-video.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-22-38 +0000"
-  },
-  {
-    "headline": "Ex-NYS GOP chair and Trump ally backs Cuomo for mayor to stop ‘communist’ Zohran Mamdani",
-    "link": "https://nypost.com/2025/10/30/us-news/ex-gop-chair-nick-langworthy-backs-andrew-cuomo-for-mayor-to-stop-communist-mamdani/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-22-38 +0000"
-  },
-  {
-    "headline": "Executions and Mass Casualties: Videos Show Horror Unfolding in Sudan",
-    "link": "https://www.nytimes.com/2025/10/30/world/africa/sudan-el-fasher-atrocities-executions-video.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-22-38 +0000"
-  },
-  {
-    "headline": "Ex-NYS GOP chair and Trump ally backs Cuomo for mayor to stop ‘communist’ Zohran Mamdani",
-    "link": "https://nypost.com/2025/10/30/us-news/ex-gop-chair-nick-langworthy-backs-andrew-cuomo-for-mayor-to-stop-communist-mamdani/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-22-38 +0000"
-  },
-  {
-    "headline": "Trump Officials Move Into Military Residences in D.C. Area",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-officials-military-housing.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-18-43 +0000"
-  },
-  {
-    "headline": "Trump Officials Move Into Military Residences in D.C. Area",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-officials-military-housing.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-18-43 +0000"
-  },
-  {
-    "headline": "Edison increases compensation for Eaton fire victims, but some say it's not enough",
-    "link": "https://www.latimes.com/environment/story/2025-10-30/edison-increases-compensation-for-eaton-fire-victims-but-some-say-its-not-enough",
-    "source": "latimes",
-    "pubdate": "2025-10-30-22-18-39 +0000"
-  },
-  {
-    "headline": "Edison increases compensation for Eaton fire victims, but some say it's not enough",
-    "link": "https://www.latimes.com/environment/story/2025-10-30/edison-increases-compensation-for-eaton-fire-victims-but-some-say-its-not-enough",
-    "source": "latimes",
-    "pubdate": "2025-10-30-22-18-39 +0000"
-  },
-  {
-    "headline": "Edison increases compensation for Eaton fire victims, but some say it's not enough",
-    "link": "https://www.latimes.com/environment/story/2025-10-30/edison-increases-compensation-for-eaton-fire-victims-but-some-say-its-not-enough",
-    "source": "latimes",
-    "pubdate": "2025-10-30-22-18-39 +0000"
-  },
-  {
-    "headline": "From ball courts to Chase Center, Adia Millet captures the visual jazz of interconnectedness",
-    "link": "https://48hills.org/2025/10/from-ball-courts-to-chase-center-adia-millet-captures-the-visual-jazz-of-interconnectedness/",
-    "source": "48hills",
-    "pubdate": "2025-10-30-22-16-39 +0000"
-  },
-  {
-    "headline": "Comey Attacks Perjury and Obstruction Charges in New Motions",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/james-comey-trump-justice-dept-charges.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-16-19 +0000"
-  },
-  {
-    "headline": "Comey Attacks Perjury and Obstruction Charges in New Motions",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/james-comey-trump-justice-dept-charges.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-16-19 +0000"
-  },
-  {
-    "headline": "DOJ investigating possible fraud within Black Lives Matter movement",
-    "link": "https://nypost.com/2025/10/30/us-news/doj-investigating-possible-fraud-within-black-lives-matter-movement/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-15-47 +0000"
-  },
-  {
-    "headline": "Kidnapping victim who joined the NYPD reunited with cops who saved him from pervert",
-    "link": "https://nypost.com/2025/10/30/us-news/kidnapping-victim-turned-police-recruit-reunited-with-cops-who-saved-him-at-nypd-ceremony/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-12-23 +0000"
-  },
-  {
-    "headline": "Marjorie Johnson, Minnesota’s ‘Blue Ribbon Baker,’ dies at 106",
-    "link": "https://www.startribune.com/marjorie-johnson-minnesotas-blue-ribbon-baker-dies-at-106/601512696",
-    "source": "startribune",
-    "pubdate": "2025-10-30-22-11-46 +0000"
-  },
-  {
-    "headline": "Storm chasers tossed around by extreme turbulence while flying straight into eye of Hurricane Melissa: video",
-    "link": "https://nypost.com/2025/10/30/world-news/storm-chasers-thrown-by-turbulence-while-flying-into-eye-of-hurricane-melissa-video/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-09-40 +0000"
-  },
-  {
-    "headline": "Apple sales top $100B despite missing iPhone forecasts — but CEO Tim Cook expects big holiday quarter",
-    "link": "https://nypost.com/2025/10/30/business/apple-sales-top-100b-despite-missing-iphone-forecasts/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-22-07-57 +0000"
+    "pubdate": "2025-10-30-23-00-00 +0000"
   },
   {
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-07-43 +0000"
+    "pubdate": "2025-10-30-22-58-29 +0000"
   },
   {
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-07-43 +0000"
+    "pubdate": "2025-10-30-22-58-29 +0000"
   },
   {
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-07-43 +0000"
+    "pubdate": "2025-10-30-22-58-29 +0000"
   },
   {
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-07-43 +0000"
+    "pubdate": "2025-10-30-22-58-29 +0000"
   },
   {
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-07-43 +0000"
+    "pubdate": "2025-10-30-22-58-29 +0000"
   },
   {
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-07-43 +0000"
+    "pubdate": "2025-10-30-22-58-29 +0000"
   },
   {
-    "headline": "Prince Andrew to Be Stripped of His Royal Title",
-    "link": "https://www.nytimes.com/2025/10/30/world/europe/uk-prince-andrew-title.html",
+    "headline": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-06-26 +0000"
+    "pubdate": "2025-10-30-22-57-16 +0000"
   },
   {
-    "headline": "Prince Andrew to Be Stripped of His Royal Title",
-    "link": "https://www.nytimes.com/2025/10/30/world/europe/uk-prince-andrew-title.html",
+    "headline": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-06-26 +0000"
+    "pubdate": "2025-10-30-22-57-16 +0000"
   },
   {
-    "headline": "Amazon’s Profit Is Up 38% on Strong Performance",
-    "link": "https://www.nytimes.com/2025/10/30/business/amazon-earnings.html",
+    "headline": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html",
     "source": "nyt",
-    "pubdate": "2025-10-30-22-03-50 +0000"
+    "pubdate": "2025-10-30-22-57-16 +0000"
   },
   {
-    "headline": "Stores are slashing candy prices to entice Halloween shoppers as cocoa tariffs hit hard",
-    "link": "https://nypost.com/2025/10/30/business/us-retailers-discounting-prices-on-hersheys-candy-ahead-of-halloween/",
+    "headline": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-22-57-16 +0000"
+  },
+  {
+    "headline": "What to Know About US Nuclear Weapons as Trump Threatens to Restart Testing",
+    "link": "https://www.nytimes.com/2025/10/30/science/us-nuclear-weapons-atomic-bombs.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-22-55-53 +0000"
+  },
+  {
+    "headline": "What to Know About US Nuclear Weapons as Trump Threatens to Restart Testing",
+    "link": "https://www.nytimes.com/2025/10/30/science/us-nuclear-weapons-atomic-bombs.html",
+    "source": "nyt",
+    "pubdate": "2025-10-30-22-55-53 +0000"
+  },
+  {
+    "headline": "JK Rowling leads outrage after Glamour UK names group of trans ‘dolls’ as ‘Women of the Year’",
+    "link": "https://nypost.com/2025/10/30/world-news/jk-rowling-leads-outrage-after-glamour-uk-names-group-of-trans-dolls-as-women-of-the-year/",
     "source": "nypost",
-    "pubdate": "2025-10-30-22-02-40 +0000"
-  },
-  {
-    "headline": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
-    "link": "https://www.nytimes.com/2025/10/30/world/middleeast/israel-ultra-orthodox-demonstration-military-draft.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-02-24 +0000"
-  },
-  {
-    "headline": "Israel’s Ultra-Orthodox Stage ‘March of the Million’ Against Military Draft",
-    "link": "https://www.nytimes.com/2025/10/30/world/middleeast/israel-ultra-orthodox-demonstration-military-draft.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-22-02-24 +0000"
-  },
-  {
-    "headline": "'We saw people murdered in front of us' - Sudan siege survivors speak to the BBC",
-    "link": "https://www.bbc.com/news/articles/cgr4qqgdlkjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-30-22-01-43 +0000"
-  },
-  {
-    "headline": "'We saw people murdered in front of us' - Sudan siege survivors speak to the BBC",
-    "link": "https://www.bbc.com/news/articles/cgr4qqgdlkjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-30-22-01-43 +0000"
-  },
-  {
-    "headline": "Opinion | New York, You’ve Been Warned",
-    "link": "https://www.wsj.com/opinion/new-york-youve-been-warned-b555b8d8",
-    "source": "wsj",
-    "pubdate": "2025-10-30-21-57-00 +0000"
+    "pubdate": "2025-10-30-22-55-16 +0000"
   }
 ]
