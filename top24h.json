@@ -1,13 +1,13 @@
 [
   {
-    "score": 281,
+    "score": 285,
     "pubdate": "2025-10-31-00-58-02 +0000",
     "source": "nyt",
     "headline": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html"
   },
   {
-    "score": 135,
+    "score": 134,
     "pubdate": "2025-10-31-01-03-51 +0000",
     "source": "nyt",
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
@@ -21,14 +21,14 @@
     "link": "https://www.wsj.com/politics/national-security/trumps-vow-to-resume-nuclear-tests-leaves-experts-puzzled-90f5fe36"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2025-10-31-01-17-54 +0000",
     "source": "nyt",
     "headline": "Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It.",
     "link": "https://www.nytimes.com/2025/10/30/world/americas/jamaica-hurricane-melissa-disaster-preparedness-finances.html"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2025-10-30-23-42-12 +0000",
     "source": "nypost",
     "headline": "Amazon shares soar as AI demand boosts cloud revenue — and results fire up CEO Andy Jassy",
@@ -49,11 +49,18 @@
     "link": "https://www.wsj.com/politics/policy/trump-urges-republicans-to-end-the-filibuster-to-reopen-government-8bcc1deb"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-10-30-16-29-00 +0000",
     "source": "wsj",
     "headline": "Crocs Focuses on Long-Term Growth as Third-Quarter Profit, Sales Fall",
     "link": "https://www.wsj.com/business/earnings/crocs-profit-falls-on-weaker-demand-for-namesake-brand-e1a5abfc?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-10-30-19-14-03 +0000",
+    "source": "nypost",
+    "headline": "Hamas hostages released to Israel ID’d as 84-year-old economist and poet, 24-year-old student",
+    "link": "https://nypost.com/2025/10/30/world-news/hamas-releases-two-hostages-bodies-to-israel-as-cease-fire-exchange-resumes/"
   },
   {
     "score": 53,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Disgraced Prince Andrew to be stripped of ‘prince’ title — and forced to leave Royal Lodge after Jeffrey Epstein scandal",
     "link": "https://nypost.com/2025/10/30/world-news/prince-andrew-to-be-stripped-of-prince-title-buckingham-palace/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-10-30-19-14-03 +0000",
-    "source": "nypost",
-    "headline": "Hamas hostages released to Israel ID’d as 84-year-old economist and poet, 24-year-old student",
-    "link": "https://nypost.com/2025/10/30/world-news/hamas-releases-two-hostages-bodies-to-israel-as-cease-fire-exchange-resumes/"
   }
 ]
