@@ -1,9 +1,72 @@
 [
   {
-    "score": 2,
-    "pubdate": "2025-10-31-08-55-07 +0000",
+    "score": 36,
+    "pubdate": "2025-10-31-10-33-48 +0000",
+    "source": "nypost",
+    "headline": "Democratic congressional candidate Kat Abughazaleh abruptly ends interview when pressed on federal indictment: ‘Did she just sign off?’",
+    "link": "https://nypost.com/2025/10/31/us-news/illinois-congressional-candidate-kat-abughazaleh-abruptly-ends-interview-when-pressed-on-federal-indictment/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-10-31-10-38-40 +0000",
+    "source": "nypost",
+    "headline": "Virginia gov hopeful Winsome Earle-Sears’ campaign bus caught on fire days before Election Day",
+    "link": "https://nypost.com/2025/10/31/us-news/virginia-lt-gov-winsome-earle-sears-campaign-bus-catches-fire/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-10-31-10-06-26 +0000",
+    "source": "nyt",
+    "headline": "How Saudi Arabia and Qatar Benefited From Rule Changes to Reach the World Cup",
+    "link": "https://www.nytimes.com/2025/10/31/world/asia/saudi-arabia-qatar-world-cup-rules.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-31-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Plan to kill 450K owls pushes past major obstacle with Republicans both for and against",
+    "link": "https://www.latimes.com/environment/story/2025-10-31/lawmakers-reject-bid-to-overturn-plan-to-cull-barred-owls-pacific-northwest"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-10-31-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "News Analysis: Prop. 50 is just one part of a historically uncertain moment for American democracy",
+    "link": "https://www.latimes.com/politics/story/2025-10-31/future-of-u-s-politics-uncertain-amid-shutdown-prop-50-fight-trumps-third-term-talk"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-31-10-42-18 +0000",
+    "source": "nyt",
+    "headline": "In Louisiana, Threat of Lost SNAP Food Benefits Is Rattling the Vulnerable",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/louisiana-snap-benefit-cuts.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-31-10-49-34 +0000",
     "source": "bbc",
-    "headline": "Who are the released hostages?",
-    "link": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss"
+    "headline": "Nvidia strikes bumper AI deals with Asia tech giants",
+    "link": "https://www.bbc.com/news/articles/cyv862r7l2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-10-31-10-44-59 +0000",
+    "source": "nyt",
+    "headline": "Carney Plans to Meet With Xi to Try and Reset Relations",
+    "link": "https://www.nytimes.com/2025/10/31/world/canada/carney-xi-meeting-canada-china.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-31-10-14-53 +0000",
+    "source": "bbc",
+    "headline": "Israel confirms identities of hostages' bodies returned by Hamas",
+    "link": "https://www.bbc.com/news/articles/c4gj90j2g8jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-10-31-09-59-24 +0000",
+    "source": "nyt",
+    "headline": "Three Billionaires Walk Into a Fried Chicken Restaurant",
+    "link": "https://www.nytimes.com/2025/10/31/business/nvidia-samsung-hyundai-chicken-korea.html"
   }
 ]
