@@ -1,20 +1,20 @@
 [
   {
-    "score": 285,
+    "score": 276,
     "pubdate": "2025-10-31-00-58-02 +0000",
     "source": "nyt",
     "headline": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html"
   },
   {
-    "score": 134,
+    "score": 130,
     "pubdate": "2025-10-31-01-03-51 +0000",
     "source": "nyt",
     "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html"
   },
   {
-    "score": 84,
+    "score": 83,
     "pubdate": "2025-10-30-23-41-00 +0000",
     "source": "wsj",
     "headline": "A day after President Trump vowed to resume testing of nuclear weapons, the White House wasn’t answering questions about the details, leaving experts and insiders uncertain what he meant",
@@ -49,13 +49,6 @@
     "link": "https://www.wsj.com/politics/policy/trump-urges-republicans-to-end-the-filibuster-to-reopen-government-8bcc1deb"
   },
   {
-    "score": 55,
-    "pubdate": "2025-10-30-16-29-00 +0000",
-    "source": "wsj",
-    "headline": "Crocs Focuses on Long-Term Growth as Third-Quarter Profit, Sales Fall",
-    "link": "https://www.wsj.com/business/earnings/crocs-profit-falls-on-weaker-demand-for-namesake-brand-e1a5abfc?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 54,
     "pubdate": "2025-10-30-19-14-03 +0000",
     "source": "nypost",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Disgraced Prince Andrew to be stripped of ‘prince’ title — and forced to leave Royal Lodge after Jeffrey Epstein scandal",
     "link": "https://nypost.com/2025/10/30/world-news/prince-andrew-to-be-stripped-of-prince-title-buckingham-palace/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-10-30-16-29-00 +0000",
+    "source": "wsj",
+    "headline": "Crocs Focuses on Long-Term Growth as Third-Quarter Profit, Sales Fall",
+    "link": "https://www.wsj.com/business/earnings/crocs-profit-falls-on-weaker-demand-for-namesake-brand-e1a5abfc?mod=pls_whats_news_us_business_f"
   }
 ]
