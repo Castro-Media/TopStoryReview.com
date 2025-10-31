@@ -1,50 +1,170 @@
 [
   {
-    "headline": "Police Raided a London Shop. We Tagged Along.",
-    "link": "https://www.nytimes.com/2025/10/31/insider/london-phone-theft.html",
+    "headline": "What’s Next for Andrew After He Loses ‘Prince’ Title?",
+    "link": "https://www.nytimes.com/2025/10/31/world/europe/prince-andrew-explainer.html",
     "source": "nyt",
-    "pubdate": "2025-10-31-13-00-07 +0000"
+    "pubdate": "2025-10-31-14-53-29 +0000"
   },
   {
-    "headline": "Scarecrow",
-    "link": "https://missionlocal.org/2025/10/sf-photos-scarecrow/",
+    "headline": "Health worker layoffs avoided with promise of federal funds",
+    "link": "https://www.startribune.com/health-worker-layoffs-avoided-with-promise-of-federal-funds/601512877",
+    "source": "startribune",
+    "pubdate": "2025-10-31-14-39-44 +0000"
+  },
+  {
+    "headline": "President Trump urged Senate Republicans to end the filibuster, the longstanding rule that requires 60 votes to advance most legislation, in order to reopen the government without the Democrats’ support",
+    "link": "https://www.wsj.com/politics/policy/trump-urges-republicans-to-end-the-filibuster-to-reopen-government-8bcc1deb",
+    "source": "wsj",
+    "pubdate": "2025-10-31-14-39-00 +0000"
+  },
+  {
+    "headline": "California’s own Louvre heist: Jewelry and artifacts stolen from museum",
+    "link": "https://www.washingtonpost.com/nation/2025/10/31/art-heist-california-museum/",
+    "source": "wapo",
+    "pubdate": "2025-10-31-14-38-06 +0000"
+  },
+  {
+    "headline": "Devastating historic tavern fire leads to major discovery of early American artifacts",
+    "link": "https://nypost.com/2025/10/31/us-news/ohio-overfield-tavern-fire-unearths-early-american-history/",
+    "source": "nypost",
+    "pubdate": "2025-10-31-14-33-51 +0000"
+  },
+  {
+    "headline": "Disgraced ex-Prince Andrew had 40 prostitutes brought to Thailand hotel on taxpayer-funded trip, biographer says",
+    "link": "https://nypost.com/2025/10/31/world-news/ex-prince-andrew-allegedly-had-40-prostitutes-brought-to-thailand-hotel-on-taxpayer-funded-trip/",
+    "source": "nypost",
+    "pubdate": "2025-10-31-14-26-32 +0000"
+  },
+  {
+    "headline": "Coal Jobs or Climate? Trump’s Push Revives a Debate on the Navajo Nation.",
+    "link": "https://www.nytimes.com/2025/10/31/business/trump-coal-jobs-navajo-nation.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-26-03 +0000"
+  },
+  {
+    "headline": "Newell Brands Cuts Outlook After Consumers Resist Price Hikes",
+    "link": "https://www.wsj.com/business/earnings/newell-brands-cuts-outlook-as-tariffs-raise-costs-12bd10df?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-31-14-21-00 +0000"
+  },
+  {
+    "headline": "Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It.",
+    "link": "https://www.nytimes.com/2025/10/30/world/americas/jamaica-hurricane-melissa-disaster-preparedness-finances.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-16-52 +0000"
+  },
+  {
+    "headline": "Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It.",
+    "link": "https://www.nytimes.com/2025/10/30/world/americas/jamaica-hurricane-melissa-disaster-preparedness-finances.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-16-52 +0000"
+  },
+  {
+    "headline": "Federal Court to Rule on Fate of Food Stamps During the Shutdown",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-11-35 +0000"
+  },
+  {
+    "headline": "Federal Court to Rule on Fate of Food Stamps During the Shutdown",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-11-35 +0000"
+  },
+  {
+    "headline": "Federal Court to Rule on Fate of Food Stamps During the Shutdown",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-11-35 +0000"
+  },
+  {
+    "headline": "U.N. Human Rights Chief Says U.S. Attacks on Accused Drug Smugglers Are Illegal",
+    "link": "https://www.nytimes.com/2025/10/31/world/americas/un-us-military-boat-strikes.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-11-00 +0000"
+  },
+  {
+    "headline": "U.N. Human Rights Chief Says U.S. Attacks on Accused Drug Smugglers Are Illegal",
+    "link": "https://www.nytimes.com/2025/10/31/world/americas/un-us-military-boat-strikes.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-11-00 +0000"
+  },
+  {
+    "headline": "Kim Kardashian Calls 1969 Moon Landing Fake. NASA Sets the Record Straight.",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/kim-kardashian-moon-landing-nasa-sean-duffy.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-10-41 +0000"
+  },
+  {
+    "headline": "Kim Kardashian Calls 1969 Moon Landing Fake. NASA Sets the Record Straight.",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/kim-kardashian-moon-landing-nasa-sean-duffy.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-10-41 +0000"
+  },
+  {
+    "headline": "BOE to Embrace Uncertainty, and Bernanke’s Guidance, With Communications Revamp",
+    "link": "https://www.wsj.com/articles/boe-to-embrace-uncertainty-and-bernankes-guidance-with-communications-revamp-a82cbcc4",
+    "source": "wsj",
+    "pubdate": "2025-10-31-14-09-00 +0000"
+  },
+  {
+    "headline": "Who is Rob Jetten, tipped to become youngest Dutch prime minister?",
+    "link": "https://www.bbc.com/news/articles/cr7m0n890npo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-31-14-06-15 +0000"
+  },
+  {
+    "headline": "A Legal Blizzard in Texas Targets Democrats and Promotes Ken Paxton",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/ken-paxton.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-05-15 +0000"
+  },
+  {
+    "headline": "A Legal Blizzard in Texas Targets Democrats and Promotes Ken Paxton",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/ken-paxton.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-14-05-15 +0000"
+  },
+  {
+    "headline": "Copper Eases on Stronger U.S. Dollar",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-prospects-of-continued-central-bank-demand-140e8eba?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-31-14-03-00 +0000"
+  },
+  {
+    "headline": "After threat of Bay Area immigration ‘surge,’ activists are primed and ready",
+    "link": "https://missionlocal.org/2025/10/after-threat-of-bay-area-immigration-surge-activists-stay-primed/",
     "source": "missionlocal",
-    "pubdate": "2025-10-31-13-00-00 +0000"
+    "pubdate": "2025-10-31-14-00-00 +0000"
   },
   {
-    "headline": "Dutch centrist Rob Jetten wins neck-and-neck election race, vote analysis says",
-    "link": "https://www.bbc.com/news/articles/cq6z5e5y55eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-12-56-20 +0000"
+    "headline": "Should You Just Buy Stocks Until You Die?",
+    "link": "https://www.wsj.com/finance/investing/should-you-just-buy-stocks-until-you-die-a22b3d7b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-31-14-00-00 +0000"
   },
   {
-    "headline": "Dutch centrist Rob Jetten wins neck-and-neck election race, vote analysis says",
-    "link": "https://www.bbc.com/news/articles/cq6z5e5y55eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-12-56-20 +0000"
+    "headline": "European Gas Price Set for Weekly Loss on Mild Weather",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-rises-with-winter-demand-in-view-c7f2d724?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-31-13-59-00 +0000"
   },
   {
-    "headline": "Israeli military's top lawyer resigns over leak of video allegedly showing abuse of Palestinian detainee",
-    "link": "https://www.bbc.com/news/articles/clyk1dk7d9do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-12-56-09 +0000"
+    "headline": "Trump Officials Move Into Military Residences in D.C. Area",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-officials-military-housing.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-13-57-24 +0000"
   },
   {
-    "headline": "UBS inches toward historic move to leave Switzerland — as it’s wooed by Trump administration: sources",
-    "link": "https://nypost.com/2025/10/31/business/ubs-inches-toward-historic-move-to-leave-switzerland/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-12-55-30 +0000"
+    "headline": "Trump Officials Move Into Military Residences in D.C. Area",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-officials-military-housing.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-13-57-24 +0000"
   },
   {
-    "headline": "UBS inches toward historic move to leave Switzerland — as it’s wooed by Trump administration: sources",
-    "link": "https://nypost.com/2025/10/31/business/ubs-inches-toward-historic-move-to-leave-switzerland/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-12-55-30 +0000"
-  },
-  {
-    "headline": "UBS inches toward historic move to leave Switzerland — as it’s wooed by Trump administration: sources",
-    "link": "https://nypost.com/2025/10/31/business/ubs-inches-toward-historic-move-to-leave-switzerland/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-12-55-30 +0000"
+    "headline": "Oil Futures Move Higher in Early U.S. Trade",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-ahead-of-opec-meeting-8cc5b537?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-31-13-57-00 +0000"
   }
 ]
