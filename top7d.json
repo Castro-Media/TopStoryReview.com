@@ -1,62 +1,48 @@
 [
   {
-    "score": 549,
+    "score": 559,
     "pubdate": "2025-10-30-07-41-00 +0000",
     "source": "wsj",
     "headline": "Trump and Xi met face-to-face for the first time in six years, emerging from what Trump called “an amazing meeting” with an immediate U.S. cut in tariffs on Chinese goods",
     "link": "https://www.wsj.com/world/china/trump-meets-xi-for-high-stakes-u-s-china-summit-a9c7738f"
   },
   {
-    "score": 233,
-    "pubdate": "2025-10-28-20-45-01 +0000",
-    "source": "latimes",
-    "headline": "News Analysis: Trade deal or trade truce? Questions remain as Trump meets with China's Xi",
-    "link": "https://www.latimes.com/politics/story/2025-10-28/trumps-trade-agreement-with-china-might-leave-key-disputes-unresolved"
-  },
-  {
-    "score": 179,
+    "score": 230,
     "pubdate": "2025-10-30-15-17-59 +0000",
     "source": "nyt",
     "headline": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html"
   },
   {
-    "score": 143,
+    "score": 181,
+    "pubdate": "2025-10-30-09-12-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said that he has ordered the Pentagon to “start testing our Nuclear Weapons on an equal basis” with Russia and China",
+    "link": "https://www.wsj.com/politics/national-security/trump-says-u-s-will-begin-testing-nuclear-weapons-df02292e"
+  },
+  {
+    "score": 142,
     "pubdate": "2025-10-29-18-05-17 +0000",
     "source": "wapo",
     "headline": "Report: Government shutdown will cost the economy up to $14 billion",
     "link": "https://www.washingtonpost.com/business/2025/10/29/government-shutdown-economic-impact/"
   },
   {
-    "score": 133,
-    "pubdate": "2025-10-29-23-02-39 +0000",
+    "score": 136,
+    "pubdate": "2025-10-30-17-31-09 +0000",
     "source": "nypost",
-    "headline": "Jamaica unaware how many Hurricane Melissa victims are dead, missing after ‘storm of the century’",
-    "link": "https://nypost.com/2025/10/29/world-news/jamaica-still-has-no-idea-how-many-hurricane-melissa-victims-are-dead-missing-after-storm-of-the-century/"
+    "headline": "Hurricane Melissa leaves trail of death, destruction across Cuba, Haiti and Jamaica",
+    "link": "https://nypost.com/2025/10/30/world-news/hurricane-melissa-leaves-trail-of-death-destruction-across-cuba-haiti-and-jamaica/"
   },
   {
-    "score": 127,
-    "pubdate": "2025-10-30-02-40-50 +0000",
-    "source": "latimes",
-    "headline": "He said he was an immigration lawyer but raped her, offered discount if she'd keep quiet, police say",
-    "link": "https://www.latimes.com/california/story/2025-10-29/woman-allegedly-raped-by-man-who-offered-immigration-legal-aid"
-  },
-  {
-    "score": 107,
+    "score": 108,
     "pubdate": "2025-10-29-00-39-18 +0000",
     "source": "cbc",
     "headline": "North Korea says it test-fired cruise-missiles hours ahead of Trump's arrival in South Korea",
     "link": "https://www.cbc.ca/news/world/north-korea-missiles-trump-visit-9.6957701?cmp=rss"
   },
   {
-    "score": 104,
-    "pubdate": "2025-10-30-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Arnold Schwarzenegger has returned to the political arena—this time as the celebrity muscle against a state ballot measure in California that would bring back gerrymandering to favor Democrats",
-    "link": "https://www.wsj.com/politics/arnold-schwarzenegger-has-become-gavin-newsoms-toughest-opponent-yet-8d21639e"
-  },
-  {
-    "score": 101,
+    "score": 99,
     "pubdate": "2025-10-24-22-17-00 +0000",
     "source": "wsj",
     "headline": "Inflation isn’t as high as many economists expected earlier this year, but that’s not much comfort for Americans still flabbergasted at the prices of necessities like food, housing and insurance",
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "Netanyahu Orders Strikes in Gaza, as Israel Says Hamas Violated Cease-Fire",
     "link": "https://www.nytimes.com/2025/10/28/world/middleeast/israel-gaza-netanyahu-strikes.html"
+  },
+  {
+    "score": 88,
+    "pubdate": "2025-10-26-16-16-26 +0000",
+    "source": "latimes",
+    "headline": "Police arrest two suspects in fatal shooting of California strip club manager",
+    "link": "https://www.latimes.com/california/story/2025-10-26/police-arrest-two-suspects-in-fatal-shooting-of-california-strip-club-manager"
+  },
+  {
+    "score": 88,
+    "pubdate": "2025-10-30-18-40-15 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris claims Biden ‘didn’t want that debate’ with Trump — and was ‘a little off’ before",
+    "link": "https://nypost.com/2025/10/30/us-news/kamala-harris-says-biden-didnt-want-that-debate-with-trump/"
   }
 ]
