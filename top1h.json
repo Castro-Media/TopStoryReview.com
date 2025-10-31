@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2025-10-31-16-53-57 +0000",
+    "score": 58,
+    "pubdate": "2025-10-31-18-25-43 +0000",
+    "source": "nyt",
+    "headline": "Court Rules Trump Administration Must Pay SNAP Benefits During Shutdown",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-10-31-18-35-00 +0000",
+    "source": "wsj",
+    "headline": "The federal government pays out $100 billion a year in food assistance to 42 million Americans through the Supplemental Nutrition Assistance Program—funds that are set to lapse for the first time ever because of the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/what-to-know-about-snap-as-funding-is-set-to-run-out-cb46c8fe"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-10-31-18-42-26 +0000",
     "source": "nypost",
-    "headline": "Years after Argentina shut a notorious zoo, the stranded animals are finally being rescued",
-    "link": "https://nypost.com/2025/10/31/world-news/years-after-argentina-shut-a-notorious-zoo-the-stranded-animals-are-finally-being-rescued/"
+    "headline": "Wait — NJ is friendlier than NY? Fuhgeddaboudit, New Yorkers say: ‘I’ve never met anyone nice from New Jersey’",
+    "link": "https://nypost.com/2025/10/31/lifestyle/nj-friendlier-than-ny-nope-new-yorkers-say-ive-never-met-anyone-nice-from-new-jersey/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-10-31-18-29-56 +0000",
+    "source": "nypost",
+    "headline": "Canadian PM Mark Carney apologized for anti-tariff Reagan ad, Trump says",
+    "link": "https://nypost.com/2025/10/31/us-news/canadian-pm-mark-carney-apologized-for-anti-tariff-reagan-ad-trump-says/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-31-18-43-18 +0000",
+    "source": "bbc",
+    "headline": "Several hundred feared dead as Tanzania election protests continue",
+    "link": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-31-18-41-03 +0000",
+    "source": "nyt",
+    "headline": "Selma van de Perre, Dutch Jew Who Resisted Nazis, Dies at 103",
+    "link": "https://www.nytimes.com/2025/10/31/world/europe/selma-van-de-perre-dead.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-10-31-18-14-19 +0000",
+    "source": "nyt",
+    "headline": "Staffing Issues Cause Another Day of Air Travel Delays",
+    "link": "https://www.nytimes.com/2025/10/31/us/airport-travel-delays.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-10-31-18-05-59 +0000",
+    "source": "nyt",
+    "headline": "Low Prices Aren’t Stopping Exxon and Chevron From Pumping More Oil",
+    "link": "https://www.nytimes.com/2025/10/31/business/energy-environment/exxon-mobil-chevron-earnings.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-31-17-59-58 +0000",
+    "source": "nyt",
+    "headline": "Candy Companies Are Quietly Cutting Down on Cocoa to Save Money",
+    "link": "https://www.nytimes.com/2025/10/30/climate/candy-chocolate-cocoa-prices-climate-change.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-10-31-18-31-07 +0000",
+    "source": "nyt",
+    "headline": "Ohio Republicans Push Through New Districts in Bid for More Seats in Congress",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/ohio-redistricting-deal.html"
   }
 ]
