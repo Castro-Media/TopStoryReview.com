@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Día de los Muertos",
+    "link": "https://missionlocal.org/2025/11/sf-photos-dia-de-los-muertos/",
+    "source": "missionlocal",
+    "pubdate": "2025-11-01-13-00-00 +0000"
+  },
+  {
+    "headline": "Berkshire’s Quarterly Earnings Rise After Insurance Results Improve",
+    "link": "https://www.wsj.com/business/earnings/berkshire-hathaway-earnings-q3-2025-056aa89d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-01-12-56-00 +0000"
+  },
+  {
+    "headline": "Berkshire’s Quarterly Earnings Rise After Insurance Results Improve",
+    "link": "https://www.wsj.com/business/earnings/berkshire-hathaway-earnings-q3-2025-056aa89d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-01-12-56-00 +0000"
+  },
+  {
+    "headline": "Immigration Agents Clash With Chicago-Area Residents on Halloween",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/chicago-ice-immigration-agents.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-12-41-16 +0000"
+  },
+  {
+    "headline": "Immigration Agents Clash With Chicago-Area Residents on Halloween",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/chicago-ice-immigration-agents.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-12-41-16 +0000"
+  },
+  {
+    "headline": "Fact-Checking Trump’s Claim About SNAP and Partisanship",
+    "link": "https://www.nytimes.com/2025/10/31/us/fact-check-trump-snap-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-12-38-57 +0000"
+  },
+  {
+    "headline": "Defence of Donbas town a priority, Zelensky says, as special forces deployed",
+    "link": "https://www.bbc.com/news/articles/crklljyx6mzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-12-25-48 +0000"
+  },
+  {
+    "headline": "Defence of Donbas town a priority, Zelensky says, as special forces deployed",
+    "link": "https://www.bbc.com/news/articles/crklljyx6mzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-12-25-48 +0000"
+  },
+  {
+    "headline": "Rapper D4vd, whose Tesla trunk contained dead teen girl, had ‘farm’ tools that ‘could be used to get rid of a body’: investigator",
+    "link": "https://nypost.com/2025/11/01/us-news/rapper-d4vd-whose-tesla-trunk-contained-the-body-of-teen-girl-had-farm-tools-in-his-la-mansion-investigation/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-12-15-00 +0000"
+  },
+  {
+    "headline": "Serial bandit — with 5 prison stints for burglary — keeps hitting NYC kosher stores on the Sabbath but remains free",
+    "link": "https://nypost.com/2025/11/01/us-news/bandit-robs-jewish-stores-during-the-sabbath/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-12-12-34 +0000"
+  },
+  {
+    "headline": "Uncertainty Persists for Americans Waiting for Food Benefits After SNAP Ruling",
+    "link": "https://www.nytimes.com/2025/10/31/us/snap-food-stamps-aid.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-12-11-44 +0000"
+  },
+  {
+    "headline": "Can Paul Atkins ‘Make I.P.O.s Great Again’?",
+    "link": "https://www.nytimes.com/2025/11/01/business/dealbook/paul-atkins-ipos.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-12-00-03 +0000"
+  },
+  {
+    "headline": "NJ issues health warning after passenger with measles travels through Newark airport",
+    "link": "https://nypost.com/2025/11/01/us-news/nj-issues-health-warning-after-passenger-with-measles-traveled-at-this-new-jersey-airport/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-12-00-00 +0000"
+  },
+  {
+    "headline": "Lopez: A fence might deter MacArthur Park crime and homelessness, but is it enough?",
+    "link": "https://www.latimes.com/california/story/2025-11-01/lopez-column-macarthur-park-fence",
+    "source": "latimes",
+    "pubdate": "2025-11-01-12-00-00 +0000"
+  },
+  {
+    "headline": "Documented or not, Latinos are changing habits during ICE crackdown",
+    "link": "https://www.washingtonpost.com/nation/2025/11/01/ice-latinos-race-profiling/",
+    "source": "wapo",
+    "pubdate": "2025-11-01-12-00-00 +0000"
+  },
+  {
     "headline": "Drone sighting temporarily suspends air travel at Berlin airport",
     "link": "https://nypost.com/2025/11/01/world-news/drone-sighting-temporarily-suspends-air-travel-at-berlin-airport/",
     "source": "nypost",
@@ -42,10 +132,34 @@
     "pubdate": "2025-11-01-11-00-00 +0000"
   },
   {
+    "headline": "Some rural Minnesota sheriffs hesitant to partner with ICE — for now",
+    "link": "https://www.startribune.com/rural-community-groups-dont-want-sheriffs-partnering-ice/601489810",
+    "source": "startribune",
+    "pubdate": "2025-11-01-11-00-00 +0000"
+  },
+  {
+    "headline": "Roper: Despite critiques, ranked-choice voting is better than the alternatives",
+    "link": "https://www.startribune.com/ranked-choice-voting-minneapolis-mayoral-election/601512638",
+    "source": "startribune",
+    "pubdate": "2025-11-01-11-00-00 +0000"
+  },
+  {
+    "headline": "Where Minneapolis mayoral candidates stand on key issues",
+    "link": "https://www.startribune.com/minneapolis-mayor-election-candidate-issues/601512515",
+    "source": "startribune",
+    "pubdate": "2025-11-01-11-00-00 +0000"
+  },
+  {
     "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
     "link": "https://www.wsj.com/business/the-latest-buzzy-tech-investment-ukrainian-drones-8e455819?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-01-11-00-00 +0000"
+  },
+  {
+    "headline": "Opinion | These are perilous times for health coverage",
+    "link": "https://www.startribune.com/government-shutdown-2025-affordable-health-care/601513209",
+    "source": "startribune",
+    "pubdate": "2025-11-01-10-57-00 +0000"
   },
   {
     "headline": "Andrew should answer Epstein questions in US, Democrats say",
@@ -135,6 +249,12 @@
     "headline": "Homeless service provider's CEO placed on leave, law firm to probe property valuations",
     "link": "https://www.latimes.com/california/story/2025-11-01/homeless-service-providers-ceo-placed-on-leave-law-firm-to-probe-property-valuations",
     "source": "latimes",
+    "pubdate": "2025-11-01-10-00-00 +0000"
+  },
+  {
+    "headline": "From MSP to Main Street, Minnesota businesses feeling government shutdown",
+    "link": "https://www.startribune.com/minnesota-business/601507498",
+    "source": "startribune",
     "pubdate": "2025-11-01-10-00-00 +0000"
   },
   {
@@ -306,16 +426,16 @@
     "pubdate": "2025-11-01-09-02-03 +0000"
   },
   {
-    "headline": "Fed Risks a Recession if It Doesn’t Cut Rates Rapidly, Stephen Miran Warns",
-    "link": "https://www.nytimes.com/2025/11/01/business/stephen-miran-fed-rate-cuts.html",
+    "headline": "Air Pollution Could Be Contributing to Your Slower Marathon Time",
+    "link": "https://www.nytimes.com/2025/11/01/climate/marathon-running-air-pollution.html",
     "source": "nyt",
     "pubdate": "2025-11-01-09-01-46 +0000"
   },
   {
-    "headline": "Air Pollution Could Be Contributing to Your Slower Marathon Time",
-    "link": "https://www.nytimes.com/2025/11/01/climate/marathon-running-air-pollution.html",
+    "headline": "Fed Risks a Recession if It Doesn’t Cut Rates Rapidly, Stephen Miran Warns",
+    "link": "https://www.nytimes.com/2025/11/01/business/stephen-miran-fed-rate-cuts.html",
     "source": "nyt",
-    "pubdate": "2025-11-01-09-01-45 +0000"
+    "pubdate": "2025-11-01-09-01-46 +0000"
   },
   {
     "headline": "E.P.A. Retreats From Plans to End the Energy Star Program",
@@ -426,6 +546,24 @@
     "pubdate": "2025-11-01-08-00-00 +0000"
   },
   {
+    "headline": "'There's no due process': ICU nurse, army veteran among U.S. citizens caught in ICE dragnet",
+    "link": "https://www.cbc.ca/news/world/us-citizens-ice-arrests-detentions-9.6960504?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-01-08-00-00 +0000"
+  },
+  {
+    "headline": "Is the world back to testing nuclear weapons? Here are the facts",
+    "link": "https://www.cbc.ca/news/world/nuclear-testing-proliferation-putin-trump-9.6962088?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-01-08-00-00 +0000"
+  },
+  {
+    "headline": "How much of a role did climate change play with Hurricane Melissa?",
+    "link": "https://www.cbc.ca/news/science/hurricane-melissa-climate-change-9.6960554?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-01-08-00-00 +0000"
+  },
+  {
     "headline": "Carney's talk of 'sacrifices' suggests Canadians could soon face those tough choices",
     "link": "https://www.cbc.ca/news/politics/carney-polievre-budget-sacrifice-analysis-9.6962155?cmp=rss",
     "source": "cbc",
@@ -522,7 +660,7 @@
     "pubdate": "2025-11-01-05-29-58 +0000"
   },
   {
-    "headline": "Alabama police get revenge on high school seniors who covered headquarters with toilet paper: ‘We don’t want to hear any crying’",
+    "headline": "Alabama police get revenge on high school seniors who covered HQ with toilet paper: ‘We don’t want to hear any crying’",
     "link": "https://nypost.com/2025/11/01/us-news/alabama-heflin-police-department-get-revenge-on-high-school-seniors-who-covered-headquarters-with-toilet-paper/",
     "source": "nypost",
     "pubdate": "2025-11-01-05-27-43 +0000"
@@ -550,6 +688,12 @@
     "link": "https://www.bbc.com/news/articles/c4gpwn5v072o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-01-04-58-44 +0000"
+  },
+  {
+    "headline": "How the Minnesota Top 25 fared in playoff games",
+    "link": "https://www.startribune.com/high-school-football-how-minnesota-top-25-fared-strib-varsity-state-playoffs/601507494",
+    "source": "startribune",
+    "pubdate": "2025-11-01-04-55-26 +0000"
   },
   {
     "headline": "What Is Happening With SNAP Benefits During the Shutdown?",
@@ -714,12 +858,6 @@
     "pubdate": "2025-11-01-02-10-13 +0000"
   },
   {
-    "headline": "Uncertainty Persists for Americans Waiting for Food Benefits After SNAP Ruling",
-    "link": "https://www.nytimes.com/2025/10/31/us/snap-food-stamps-aid.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-02-09-29 +0000"
-  },
-  {
     "headline": "White House Limits Reporters’ Access to Press Secretary’s Office",
     "link": "https://www.nytimes.com/2025/10/31/us/politics/trump-white-house-press.html",
     "source": "nyt",
@@ -786,18 +924,6 @@
     "pubdate": "2025-11-01-01-29-04 +0000"
   },
   {
-    "headline": "Immigration Agents Clash With Chicago-Area Residents on Halloween",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/chicago-ice-immigration-agents.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-01-23-14 +0000"
-  },
-  {
-    "headline": "Immigration Agents Clash With Chicago-Area Residents on Halloween",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/chicago-ice-immigration-agents.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-01-23-14 +0000"
-  },
-  {
     "headline": "Egypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time",
     "link": "https://www.bbc.com/news/articles/ckg4q403rpzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -826,12 +952,6 @@
     "link": "https://www.bbc.com/news/articles/c3ep1epqjkpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-01-01-10-03 +0000"
-  },
-  {
-    "headline": "Fact-Checking Trump’s Claim About SNAP and Partisanship",
-    "link": "https://www.nytimes.com/2025/10/31/us/fact-check-trump-snap-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-01-08-13 +0000"
   },
   {
     "headline": "'I was accused of spying and beaten' - a boy's escape from captured Sudan city",
@@ -898,12 +1018,6 @@
     "link": "https://nypost.com/2025/10/31/us-news/blm-co-founder-patrisse-cullors-and-wife-dissolve-joint-biz-sell-home-as-she-drops-spouses-name/",
     "source": "nypost",
     "pubdate": "2025-11-01-00-28-00 +0000"
-  },
-  {
-    "headline": "JD Vance dresses up like meme-version of himself for Halloween: ‘Say thank you’",
-    "link": "https://nypost.com/2025/10/31/us-news/jd-vance-dresses-up-like-meme-version-of-himself-for-halloween/",
-    "source": "nypost",
-    "pubdate": "2025-11-01-00-09-02 +0000"
   },
   {
     "headline": "JD Vance dresses up like meme-version of himself for Halloween: ‘Say thank you’",
@@ -1044,12 +1158,6 @@
     "pubdate": "2025-10-31-23-21-58 +0000"
   },
   {
-    "headline": "NASA chief Sean Duffy schools Kim Kardashian for saying moon landings ‘didn’t happen’",
-    "link": "https://nypost.com/2025/10/31/us-news/nasa-chief-sean-duffy-schools-kim-kardashian-for-saying-moon-landings-didnt-happen/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-23-21-58 +0000"
-  },
-  {
     "headline": "Tracking the Early Vote in New York, New Jersey and Virginia",
     "link": "https://www.nytimes.com/2025/10/31/upshot/early-voters-2025-election.html",
     "source": "nyt",
@@ -1090,12 +1198,6 @@
     "link": "https://www.wsj.com/us-news/law/judge-orders-u-s-to-tap-emergency-funds-for-snap-benefits-6d0097c9",
     "source": "wsj",
     "pubdate": "2025-10-31-23-13-00 +0000"
-  },
-  {
-    "headline": "Brownstone Brooklynites battle to create the spookiest, most extravagant Halloween displays",
-    "link": "https://nypost.com/2025/10/31/lifestyle/park-slope-goes-all-out-for-halloween-with-some-of-nycs-spookiest-stoops/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-23-07-02 +0000"
   },
   {
     "headline": "Dems cynically keep government shut down past Election Day as SNAP benefits could lapse for millions of poor Americans",
@@ -1404,28 +1506,10 @@
     "pubdate": "2025-10-31-21-15-00 +0000"
   },
   {
-    "headline": "Minnesota hemp retailers challenge new ban on mail-order THC edible sales",
-    "link": "https://www.startribune.com/minnesota-hemp-retailers-challenge-new-minnesota-ban-on-mail-order-thc-edible-sales/601513354",
-    "source": "startribune",
-    "pubdate": "2025-10-31-21-13-18 +0000"
-  },
-  {
-    "headline": "Trial of alleged mastermind in real estate agent’s fatal shooting goes to jury",
-    "link": "https://www.startribune.com/lyndon-wiggins-murder-trial-monique-baugh-jon-momoh/601512965",
-    "source": "startribune",
-    "pubdate": "2025-10-31-21-01-11 +0000"
-  },
-  {
     "headline": "Jack Smith obtained call logs of 10 GOP lawmakers — including Lindsey Graham, Josh Hawley — in 2020 election probe",
     "link": "https://nypost.com/2025/10/31/us-news/jack-smith-obtained-call-logs-of-10-gop-lawmakers-including-lindsey-graham-josh-hawley-in-2020-election-probe/",
     "source": "nypost",
     "pubdate": "2025-10-31-21-00-08 +0000"
-  },
-  {
-    "headline": "Grocers hope court ruling is reprieve from SNAP funding halt",
-    "link": "https://www.startribune.com/snap-court-ruling-grocers-bracing-revenue-loss-helping-customers/601512749",
-    "source": "startribune",
-    "pubdate": "2025-10-31-20-46-13 +0000"
   },
   {
     "headline": "Opinion | Doping Casts a Shadow on the New York City Marathon",
@@ -1482,13 +1566,13 @@
     "pubdate": "2025-10-31-20-23-58 +0000"
   },
   {
-    "headline": "US judges say Trump administration must continue food aid during US shutdown",
+    "headline": "US judges say Trump administration must continue food aid during shutdown",
     "link": "https://www.bbc.com/news/articles/cr433x9zqq4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-31-20-22-22 +0000"
   },
   {
-    "headline": "US judges say Trump administration must continue food aid during US shutdown",
+    "headline": "US judges say Trump administration must continue food aid during shutdown",
     "link": "https://www.bbc.com/news/articles/cr433x9zqq4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-31-20-22-22 +0000"
@@ -1674,12 +1758,6 @@
     "pubdate": "2025-10-31-18-55-42 +0000"
   },
   {
-    "headline": "Donald and Melania Trump Dress Up for Halloween — as Themselves",
-    "link": "https://www.nytimes.com/2025/10/31/style/donald-trupmp-melania-trump-halloween.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-18-44-15 +0000"
-  },
-  {
     "headline": "Waymo confirms its car killed KitKat, Mission bodega darling",
     "link": "https://missionlocal.org/2025/10/waymo-confirms-its-car-killed-kitkat-mission-bodega-cat/",
     "source": "missionlocal",
@@ -1756,12 +1834,6 @@
     "link": "https://nypost.com/2025/10/31/us-news/federal-judge-rules-trump-admins-snap-benefits-cutoff-likely-unlawful/",
     "source": "nypost",
     "pubdate": "2025-10-31-18-14-31 +0000"
-  },
-  {
-    "headline": "'No inch here was spared': Hurricane Melissa destroys Jamaica town",
-    "link": "https://www.bbc.com/news/videos/ce3xxzg09gro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-18-12-27 +0000"
   },
   {
     "headline": "'No inch here was spared': Hurricane Melissa destroys Jamaica town",
@@ -1906,12 +1978,6 @@
     "link": "https://www.wsj.com/finance/banking/evolve-banks-new-ceo-charged-with-child-pornography-crimes-38d8ac37?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-31-17-11-00 +0000"
-  },
-  {
-    "headline": "The big money fueling Minneapolis mayor and council races",
-    "link": "https://www.startribune.com/whos-funding-mayoral-campaigns-minneapolis-pacs/601509335",
-    "source": "startribune",
-    "pubdate": "2025-10-31-17-00-00 +0000"
   },
   {
     "headline": "Republicans in Congress Show Signs of Angst Over Trump’s Trade War",
@@ -2226,12 +2292,6 @@
     "pubdate": "2025-10-31-15-04-32 +0000"
   },
   {
-    "headline": "Dessa does the Minneapolis lake walk when she’s not on stage",
-    "link": "https://www.startribune.com/dessa-does-the-minneapolis-lake-walk-when-shes-not-on-stage/601499309",
-    "source": "startribune",
-    "pubdate": "2025-10-31-15-00-00 +0000"
-  },
-  {
     "headline": "Interest Rates Are Falling. Why Are People Still Buying Money Market Funds?",
     "link": "https://www.nytimes.com/2025/10/31/business/interest-rates-money-markets-stocks-bonds.html",
     "source": "nyt",
@@ -2338,149 +2398,5 @@
     "link": "https://www.wsj.com/finance/investing/should-you-just-buy-stocks-until-you-die-a22b3d7b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-31-14-00-00 +0000"
-  },
-  {
-    "headline": "Sudan Militia, Armed With Drones, Hunts Down Black Population of Darfur",
-    "link": "https://www.wsj.com/world/africa/sudan-militia-armed-with-drones-hunts-down-black-population-of-darfur-08469935",
-    "source": "wsj",
-    "pubdate": "2025-10-31-13-50-00 +0000"
-  },
-  {
-    "headline": "Video shows deranged Zohran Mamdani passionately shouting anti-Israel ‘BDS’ chant at rally",
-    "link": "https://nypost.com/2025/10/31/us-news/mamdani-urged-boycott-of-israel-when-he-entered-assembly/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-13-47-58 +0000"
-  },
-  {
-    "headline": "Sterling Faces Further Losses on Increased Rate Cut Prospects",
-    "link": "https://www.wsj.com/finance/currencies/dollar-rises-on-reduced-rate-cut-bets-for-december-c3e91ec1?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-31-13-46-00 +0000"
-  },
-  {
-    "headline": "Watch: Train smashes into truck at Dutch level crossing",
-    "link": "https://www.bbc.com/news/videos/ced65d0gl2eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-13-37-10 +0000"
-  },
-  {
-    "headline": "Watch: Train smashes into truck at Dutch level crossing",
-    "link": "https://www.bbc.com/news/videos/ced65d0gl2eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-13-37-10 +0000"
-  },
-  {
-    "headline": "Hochul attempts to do damage control after catering to Mamdani’s ‘tax the rich base’ while vowing not to raise NY taxes",
-    "link": "https://nypost.com/2025/10/31/us-news/zohran-mamdanis-tax-the-rich-plan-would-hurt-nys-middle-class-kathy-hochul/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-13-36-12 +0000"
-  },
-  {
-    "headline": "Israeli military kills 3 Palestinians in Gaza, as 4 days of attacks strain ceasefire",
-    "link": "https://www.cbc.ca/news/world/gaza-israel-handover-detainees-9.6961338?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-31-13-27-24 +0000"
-  },
-  {
-    "headline": "Hurricane Melissa leaves 49 dead in Caribbean, churns north",
-    "link": "https://www.cbc.ca/news/world/hurricane-melissa-leaves-49-dead-in-caribbean-churns-north-9.6961243?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-10-31-13-22-06 +0000"
-  },
-  {
-    "headline": "US strikes on alleged drug boats violate law, UN human rights chief says",
-    "link": "https://www.bbc.com/news/articles/cx2nx95pgz7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-13-05-44 +0000"
-  },
-  {
-    "headline": "US strikes on alleged drug boats violate law, UN human rights chief says",
-    "link": "https://www.bbc.com/news/articles/cx2nx95pgz7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-13-05-44 +0000"
-  },
-  {
-    "headline": "Trump Administration Seeks to Return Medical Debt to Credit Reports",
-    "link": "https://www.nytimes.com/2025/10/31/your-money/medical-debt-credit-reports.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-13-00-18 +0000"
-  },
-  {
-    "headline": "Police Raided a London Shop. We Tagged Along.",
-    "link": "https://www.nytimes.com/2025/10/31/insider/london-phone-theft.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-13-00-07 +0000"
-  },
-  {
-    "headline": "Scarecrow",
-    "link": "https://missionlocal.org/2025/10/sf-photos-scarecrow/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-31-13-00-00 +0000"
-  },
-  {
-    "headline": "Israeli military's top lawyer resigns over leak of video allegedly showing abuse of Palestinian detainee",
-    "link": "https://www.bbc.com/news/articles/clyk1dk7d9do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-12-56-09 +0000"
-  },
-  {
-    "headline": "UBS inches toward historic move to leave Switzerland — as it’s wooed by Trump administration: sources",
-    "link": "https://nypost.com/2025/10/31/business/ubs-inches-toward-historic-move-to-leave-switzerland/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-12-55-30 +0000"
-  },
-  {
-    "headline": "UBS inches toward historic move to leave Switzerland — as it’s wooed by Trump administration: sources",
-    "link": "https://nypost.com/2025/10/31/business/ubs-inches-toward-historic-move-to-leave-switzerland/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-12-55-30 +0000"
-  },
-  {
-    "headline": "AbbVie Lifts Profit Outlook as Sales Rise",
-    "link": "https://www.wsj.com/business/earnings/abbvie-lifts-profit-outlook-as-sales-rise-2db042c4?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-31-12-42-00 +0000"
-  },
-  {
-    "headline": "Italian Bank Intesa Sanpaolo’s Profit Dips as Income Softens",
-    "link": "https://www.wsj.com/business/earnings/italian-bank-intesa-sanpaolos-profit-dips-as-income-softens-546cfa60?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-31-12-37-00 +0000"
-  },
-  {
-    "headline": "Italian Bank Intesa Sanpaolo’s Profit Dips as Income Softens",
-    "link": "https://www.wsj.com/business/earnings/italian-bank-intesa-sanpaolos-profit-dips-as-income-softens-546cfa60?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-31-12-37-00 +0000"
-  },
-  {
-    "headline": "Canadian National Railway Profit, Revenue Rise",
-    "link": "https://www.wsj.com/business/earnings/canadian-national-railway-profit-revenue-rise-aca1c076?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-31-12-16-00 +0000"
-  },
-  {
-    "headline": "Kamala Harris loses it, goes on expletive-laden rant about Trump’s donation-funded ballroom",
-    "link": "https://nypost.com/2025/10/31/us-news/kamala-harris-goes-on-expletive-laden-rant-about-trumps-donation-funded-ballroom-during-interview-with-jon-stewart/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-12-10-53 +0000"
-  },
-  {
-    "headline": "No free bus passes for under 22s, says government",
-    "link": "https://www.bbc.com/news/articles/ce9drlgenjno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-12-08-44 +0000"
-  },
-  {
-    "headline": "No free bus passes for under 22s, says government",
-    "link": "https://www.bbc.com/news/articles/ce9drlgenjno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-12-08-44 +0000"
-  },
-  {
-    "headline": "JPMorgan Unit Invests in Texas Stock Exchange",
-    "link": "https://www.wsj.com/finance/investing/jpmorgan-unit-invests-in-texas-stock-exchange-fe8d9324?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-31-12-00-00 +0000"
   }
 ]
