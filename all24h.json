@@ -1,15 +1,411 @@
 [
   {
+    "headline": "Fact-Checking Trump’s Claim About SNAP and Partisanship",
+    "link": "https://www.nytimes.com/2025/10/31/us/fact-check-trump-snap-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-01-08-13 +0000"
+  },
+  {
+    "headline": "'I was accused of spying and beaten' - a boy's escape from captured Sudan city",
+    "link": "https://www.bbc.com/news/articles/clyk1nq6v4lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-01-02-54 +0000"
+  },
+  {
+    "headline": "Homes without lounges now a reality for renters",
+    "link": "https://www.bbc.com/news/articles/c93063q2lzeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-01-02-51 +0000"
+  },
+  {
+    "headline": "The Trade War Couldn’t Change China’s Economy",
+    "link": "https://www.wsj.com/world/china/the-trade-war-couldnt-change-chinas-economy-25c464d8",
+    "source": "wsj",
+    "pubdate": "2025-11-01-01-00-00 +0000"
+  },
+  {
+    "headline": "A Fight Over Credit Scores Turns Into All-Out War",
+    "link": "https://www.wsj.com/finance/banking/fico-fight-over-credit-scores-mortgages-c25b1c62?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-01-01-00-00 +0000"
+  },
+  {
+    "headline": "New study makes clear: The Wiener-Lurie plan will NOT bring down housing prices",
+    "link": "https://48hills.org/2025/10/new-study-makes-clear-the-wiener-lurie-plan-will-not-bring-down-housing-prices/",
+    "source": "48hills",
+    "pubdate": "2025-11-01-00-49-16 +0000"
+  },
+  {
+    "headline": "Nancy Mace allegedly berated cops in profanity-laced ‘tirade’ at SC airport: ‘No way to treat a f–king US representative’",
+    "link": "https://nypost.com/2025/10/31/us-news/nancy-mace-allegedly-berated-cops-in-curse-laced-tirade-at-sc-airport/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-00-45-49 +0000"
+  },
+  {
+    "headline": "Nancy Mace allegedly berated cops in profanity-laced ‘tirade’ at SC airport: ‘No way to treat a f–king US representative’",
+    "link": "https://nypost.com/2025/10/31/us-news/nancy-mace-allegedly-berated-cops-in-curse-laced-tirade-at-sc-airport/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-00-45-49 +0000"
+  },
+  {
+    "headline": "Trump Renovates the Lincoln Bathroom in Marble and Gold",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/trump-lincoln-bathroom-white-house.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-00-45-41 +0000"
+  },
+  {
+    "headline": "Trump Renovates the Lincoln Bathroom in Marble and Gold",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/trump-lincoln-bathroom-white-house.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-00-45-41 +0000"
+  },
+  {
+    "headline": "Hand of Moscow? The men jailed for vandalism in French hybrid warfare case",
+    "link": "https://www.bbc.com/news/articles/c891d43l8pyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-00-36-56 +0000"
+  },
+  {
+    "headline": "Hand of Moscow? The men jailed for vandalism in French hybrid warfare case",
+    "link": "https://www.bbc.com/news/articles/c891d43l8pyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-00-36-56 +0000"
+  },
+  {
+    "headline": "As the Shutdown Pain Grows, Trump Attends to Other Matters",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/trump-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-00-34-49 +0000"
+  },
+  {
+    "headline": "As the Shutdown Pain Grows, Trump Attends to Other Matters",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/trump-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-00-34-49 +0000"
+  },
+  {
+    "headline": "South Korea’s Export Growth Slowed in October",
+    "link": "https://www.wsj.com/economy/trade/south-koreas-export-growth-slowed-in-october-a4cbb6af",
+    "source": "wsj",
+    "pubdate": "2025-11-01-00-30-00 +0000"
+  },
+  {
+    "headline": "South Korea’s Export Growth Slowed in October",
+    "link": "https://www.wsj.com/economy/trade/south-koreas-export-growth-slowed-in-october-a4cbb6af",
+    "source": "wsj",
+    "pubdate": "2025-11-01-00-30-00 +0000"
+  },
+  {
+    "headline": "BLM co-founder Patrisse Cullors and wife dissolve joint biz, sell home as org reportedly in DOJ crosshairs",
+    "link": "https://nypost.com/2025/10/31/us-news/blm-co-founder-patrisse-cullors-and-wife-dissolve-joint-biz-sell-home-as-she-drops-spouses-name/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-00-28-00 +0000"
+  },
+  {
+    "headline": "Staff Shortages at 35 Air Traffic Control Sites Disrupt Travel as Controllers’ Union Backs G.O.P. Plan to End Shutdown",
+    "link": "https://www.nytimes.com/2025/10/31/us/airport-travel-delays.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-00-25-22 +0000"
+  },
+  {
+    "headline": "Staff Shortages at 35 Air Traffic Control Sites Disrupt Travel as Controllers’ Union Backs G.O.P. Plan to End Shutdown",
+    "link": "https://www.nytimes.com/2025/10/31/us/airport-travel-delays.html",
+    "source": "nyt",
+    "pubdate": "2025-11-01-00-25-22 +0000"
+  },
+  {
+    "headline": "Scavenging for food in streets - desperation takes hold in Jamaica after hurricane",
+    "link": "https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-00-21-08 +0000"
+  },
+  {
+    "headline": "Halloween 2025: The best celebrity costumes so far",
+    "link": "https://www.bbc.com/news/articles/c4gpwn5v072o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-01-00-17-39 +0000"
+  },
+  {
+    "headline": "JD Vance dresses up like meme-version of himself for Halloween: ‘Say thank you’",
+    "link": "https://nypost.com/2025/10/31/us-news/jd-vance-dresses-up-like-meme-version-of-himself-for-halloween/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-00-09-02 +0000"
+  },
+  {
+    "headline": "JD Vance dresses up like meme-version of himself for Halloween: ‘Say thank you’",
+    "link": "https://nypost.com/2025/10/31/us-news/jd-vance-dresses-up-like-meme-version-of-himself-for-halloween/",
+    "source": "nypost",
+    "pubdate": "2025-11-01-00-09-02 +0000"
+  },
+  {
+    "headline": "A Hopeful Sign of Investor Sanity in the AI Boom",
+    "link": "https://www.wsj.com/finance/stocks/a-hopeful-sign-of-investor-sanity-in-the-ai-boom-d47e9a9b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-01-00-00-00 +0000"
+  },
+  {
+    "headline": "Top Senators Say Pentagon Has Not Shared Key Information on Trump’s Boat Strikes",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/senators-boat-strikes-drugs-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-57-40 +0000"
+  },
+  {
+    "headline": "Top Senators Say Pentagon Has Not Shared Key Information on Trump’s Boat Strikes",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/senators-boat-strikes-drugs-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-57-40 +0000"
+  },
+  {
+    "headline": "'Violation of the oath': Deputy arrested in case of Orange County hospital assault",
+    "link": "https://www.latimes.com/california/story/2025-10-31/violation-of-the-oath-deputy-arrested-in-case-of-assault-woman-in-orange-county-hospital",
+    "source": "latimes",
+    "pubdate": "2025-10-31-23-57-17 +0000"
+  },
+  {
+    "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
+    "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-57-14 +0000"
+  },
+  {
+    "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
+    "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-57-14 +0000"
+  },
+  {
+    "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
+    "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-57-14 +0000"
+  },
+  {
+    "headline": "Immigration Agents Clash With Chicago-Area Residents on Halloween",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/chicago-ice-immigration-agents.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-52-23 +0000"
+  },
+  {
+    "headline": "Immigration Agents Clash With Chicago-Area Residents on Halloween",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/chicago-ice-immigration-agents.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-52-23 +0000"
+  },
+  {
+    "headline": "Mace Unleashes Diatribe at Airport Police for Missing Security Escort",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/nancy-mace-airport-police-security.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-41-59 +0000"
+  },
+  {
+    "headline": "Mace Unleashes Diatribe at Airport Police for Missing Security Escort",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/nancy-mace-airport-police-security.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-41-59 +0000"
+  },
+  {
+    "headline": "Lawmakers are facing urgency to resolve the government shutdown as food aid is imperiled, airports are snarled and Affordable Care Act enrollment begins",
+    "link": "https://www.wsj.com/politics/policy/trumps-demands-throw-wrench-into-delicate-shutdown-talks-a4507a94",
+    "source": "wsj",
+    "pubdate": "2025-10-31-23-39-00 +0000"
+  },
+  {
+    "headline": "The citizen fire brigade that helped fight the Palisades fire is growing. Is it worth the risk?",
+    "link": "https://www.latimes.com/environment/story/2025-10-31/palisades-community-fire-brigade",
+    "source": "latimes",
+    "pubdate": "2025-10-31-23-36-32 +0000"
+  },
+  {
+    "headline": "NASA Gets Moon Lander Plan B’s From SpaceX and Blue Origin",
+    "link": "https://www.nytimes.com/2025/10/31/science/nasa-moon-lander-spacex-blue-origin.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-34-53 +0000"
+  },
+  {
+    "headline": "NASA Gets Moon Lander Plan B’s From SpaceX and Blue Origin",
+    "link": "https://www.nytimes.com/2025/10/31/science/nasa-moon-lander-spacex-blue-origin.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-34-53 +0000"
+  },
+  {
+    "headline": "Tanzania Racked by Deadly Protests After Election",
+    "link": "https://www.nytimes.com/2025/10/31/world/africa/tanzania-deadly-protests-election.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-34-49 +0000"
+  },
+  {
+    "headline": "Tanzania Racked by Deadly Protests After Election",
+    "link": "https://www.nytimes.com/2025/10/31/world/africa/tanzania-deadly-protests-election.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-34-49 +0000"
+  },
+  {
+    "headline": "Republicans Denounce Tucker Carlson for Interview With Nick Fuentes, a White Supremacist",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/tucker-carlson-nick-fuentes.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-34-33 +0000"
+  },
+  {
+    "headline": "Republicans Denounce Tucker Carlson for Interview With Nick Fuentes, a White Supremacist",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/tucker-carlson-nick-fuentes.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-34-33 +0000"
+  },
+  {
+    "headline": "'Our stomping ground': Demolition of historic Valley Plaza mall begins",
+    "link": "https://www.latimes.com/business/story/2025-10-31/demolition-valley-plaza-mall-north-hollywood-los-angeles-begins",
+    "source": "latimes",
+    "pubdate": "2025-10-31-23-27-58 +0000"
+  },
+  {
+    "headline": "'Our stomping ground': Demolition of historic Valley Plaza mall begins",
+    "link": "https://www.latimes.com/business/story/2025-10-31/demolition-valley-plaza-mall-north-hollywood-los-angeles-begins",
+    "source": "latimes",
+    "pubdate": "2025-10-31-23-27-58 +0000"
+  },
+  {
+    "headline": "The White House is imposing new restrictions on press access to the West Wing, limiting reporters’ ability to enter the section where senior communications staff typically work",
+    "link": "https://www.wsj.com/politics/policy/white-house-limits-reporters-access-to-communications-office-56f59c82",
+    "source": "wsj",
+    "pubdate": "2025-10-31-23-24-00 +0000"
+  },
+  {
+    "headline": "NASA chief Sean Duffy schools Kim Kardashian for saying moon landings ‘didn’t happen’",
+    "link": "https://nypost.com/2025/10/31/us-news/nasa-chief-sean-duffy-schools-kim-kardashian-for-saying-moon-landings-didnt-happen/",
+    "source": "nypost",
+    "pubdate": "2025-10-31-23-21-58 +0000"
+  },
+  {
+    "headline": "NASA chief Sean Duffy schools Kim Kardashian for saying moon landings ‘didn’t happen’",
+    "link": "https://nypost.com/2025/10/31/us-news/nasa-chief-sean-duffy-schools-kim-kardashian-for-saying-moon-landings-didnt-happen/",
+    "source": "nypost",
+    "pubdate": "2025-10-31-23-21-58 +0000"
+  },
+  {
+    "headline": "Tracking the Early Vote in New York, New Jersey and Virginia",
+    "link": "https://www.nytimes.com/2025/10/31/upshot/early-voters-2025-election.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-20-50 +0000"
+  },
+  {
+    "headline": "In boost to mining industry, Canada commits to stockpile critical minerals as a national security priority",
+    "link": "https://www.cbc.ca/news/science/critical-minerals-g7-mining-9.6962604?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-31-23-19-06 +0000"
+  },
+  {
+    "headline": "Guards turn away San Francisco supervisor trying to tour ICE facility",
+    "link": "https://missionlocal.org/2025/10/guards-turn-away-san-francisco-supervisor-trying-to-tour-ice-facility/",
+    "source": "missionlocal",
+    "pubdate": "2025-10-31-23-18-18 +0000"
+  },
+  {
+    "headline": "BDO’s First Brands Audit Painted Healthy Picture Months Before Collapse",
+    "link": "https://www.wsj.com/articles/bdos-first-brands-audit-painted-healthy-picture-months-before-collapse-2b8268c7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-31-23-17-00 +0000"
+  },
+  {
+    "headline": "BDO’s First Brands Audit Painted Healthy Picture Months Before Collapse",
+    "link": "https://www.wsj.com/articles/bdos-first-brands-audit-painted-healthy-picture-months-before-collapse-2b8268c7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-10-31-23-17-00 +0000"
+  },
+  {
+    "headline": "Zoë Wicomb, Acclaimed South African Author, Dies at 76",
+    "link": "https://www.nytimes.com/2025/10/31/books/zoe-wicomb-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-15-53 +0000"
+  },
+  {
+    "headline": "Government Must Use Emergency Funds for SNAP Benefits, Judges Rule",
+    "link": "https://www.wsj.com/us-news/law/judge-orders-u-s-to-tap-emergency-funds-for-snap-benefits-6d0097c9",
+    "source": "wsj",
+    "pubdate": "2025-10-31-23-13-00 +0000"
+  },
+  {
+    "headline": "Brownstone Brooklynites battle to create the spookiest, most extravagant Halloween displays",
+    "link": "https://nypost.com/2025/10/31/lifestyle/park-slope-goes-all-out-for-halloween-with-some-of-nycs-spookiest-stoops/",
+    "source": "nypost",
+    "pubdate": "2025-10-31-23-07-02 +0000"
+  },
+  {
+    "headline": "Dems cynically keep government shut down past Election Day as SNAP benefits could lapse for millions of poor Americans",
+    "link": "https://nypost.com/2025/10/31/us-news/dems-cynically-keep-government-shut-down-past-election-day-as-snap-benefits-could-lapse-for-millions-of-poor-americans/",
+    "source": "nypost",
+    "pubdate": "2025-10-31-23-06-43 +0000"
+  },
+  {
+    "headline": "Dems cynically keep government shut down past Election Day as SNAP benefits could lapse for millions of poor Americans",
+    "link": "https://nypost.com/2025/10/31/us-news/dems-cynically-keep-government-shut-down-past-election-day-as-snap-benefits-could-lapse-for-millions-of-poor-americans/",
+    "source": "nypost",
+    "pubdate": "2025-10-31-23-06-43 +0000"
+  },
+  {
+    "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-04-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-04-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-04-00 +0000"
+  },
+  {
+    "headline": "Kentucky Woman Receives a Package of Human Body Parts, Coroner Says",
+    "link": "https://www.nytimes.com/2025/10/31/us/kentucky-severed-arms-fingers.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-23-01-34 +0000"
+  },
+  {
+    "headline": "The Growing Divide in the Rainbow Coalition",
+    "link": "https://www.wsj.com/us-news/the-growing-divide-in-the-rainbow-coalition-1128015b",
+    "source": "wsj",
+    "pubdate": "2025-10-31-23-00-00 +0000"
+  },
+  {
+    "headline": "Vail’s CEO Has Transformed Skiing, Whether You Like It or Not",
+    "link": "https://www.wsj.com/business/rob-katz-vail-ceo-f3e8cf60?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-10-31-23-00-00 +0000"
+  },
+  {
+    "headline": "Live: Football playoff updates from Class 6A’s second round and section finals in the other classes",
+    "link": "https://www.startribune.com/scores-live-streams-photos-and-updates-in-mn-high-school-football-6a-and-section-final/601507504",
+    "source": "startribune",
+    "pubdate": "2025-10-31-22-55-32 +0000"
+  },
+  {
     "headline": "Twenty Years Later, Atrocities Haunt Darfur Again",
     "link": "https://www.nytimes.com/2025/10/31/world/africa/darfur-sudan-atrocities.html",
     "source": "nyt",
-    "pubdate": "2025-10-31-22-52-10 +0000"
+    "pubdate": "2025-10-31-22-55-18 +0000"
   },
   {
-    "headline": "Judges order Trump administration to use emergency reserves for SNAP payments during the shutdown",
-    "link": "https://www.startribune.com/judges-could-rule-on-the-fate-of-snap-food-aid-as-deadline-nears-for-shutdown-to-end-payments/601513186",
-    "source": "startribune",
-    "pubdate": "2025-10-31-22-45-03 +0000"
+    "headline": "Twenty Years Later, Atrocities Haunt Darfur Again",
+    "link": "https://www.nytimes.com/2025/10/31/world/africa/darfur-sudan-atrocities.html",
+    "source": "nyt",
+    "pubdate": "2025-10-31-22-55-18 +0000"
+  },
+  {
+    "headline": "Several hundred feared dead in Tanzania crackdown on election protests",
+    "link": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-31-22-53-39 +0000"
+  },
+  {
+    "headline": "Several hundred feared dead in Tanzania crackdown on election protests",
+    "link": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-10-31-22-53-39 +0000"
   },
   {
     "headline": "JD Vance Says He Hopes Usha Vance Embraces Christianity, Setting Off Backlash",
@@ -22,30 +418,6 @@
     "link": "https://www.nytimes.com/2025/10/31/us/politics/usha-jd-vance-christianity-religion-hindu.html",
     "source": "nyt",
     "pubdate": "2025-10-31-22-41-50 +0000"
-  },
-  {
-    "headline": "Ohio Republicans Push Through New Districts in Bid for More Seats in Congress",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/ohio-redistricting-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-22-40-14 +0000"
-  },
-  {
-    "headline": "Ohio Republicans Push Through New Districts in Bid for More Seats in Congress",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/ohio-redistricting-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-22-40-14 +0000"
-  },
-  {
-    "headline": "Top Senators Say Pentagon Has Not Shared Key Information on Trump’s Boat Strikes",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/senators-boat-strikes-drugs-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-22-35-07 +0000"
-  },
-  {
-    "headline": "Top Senators Say Pentagon Has Not Shared Key Information on Trump’s Boat Strikes",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/senators-boat-strikes-drugs-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-22-35-07 +0000"
   },
   {
     "headline": "SNAP Map: Here’s Who Will Be Affected by Disruptions to Food Aid",
@@ -54,16 +426,22 @@
     "pubdate": "2025-10-31-22-27-07 +0000"
   },
   {
+    "headline": "New York trial of accused Indian hit squad member delayed",
+    "link": "https://www.cbc.ca/news/politics/nyc-trial-indian-hit-squad-9.6962363?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-31-22-27-06 +0000"
+  },
+  {
+    "headline": "New York trial of accused Indian hit squad member delayed",
+    "link": "https://www.cbc.ca/news/politics/nyc-trial-indian-hit-squad-9.6962363?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-10-31-22-27-06 +0000"
+  },
+  {
     "headline": "Facebook still censoring The Post’s reporting on Black Lives Matter — despite pledge to end restrictions",
     "link": "https://nypost.com/2025/10/31/us-news/facfacebook-still-censoring-the-posts-reporting-on-black-lives-matter/",
     "source": "nypost",
     "pubdate": "2025-10-31-22-26-03 +0000"
-  },
-  {
-    "headline": "Twenty Years Later, Atrocities Haunt Darfur Again",
-    "link": "https://www.nytimes.com/2025/10/31/world/africa/darfur-sudan-atrocities.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-22-25-06 +0000"
   },
   {
     "headline": "LA firefighters were ordered to ditch smoldering blaze that turned into Palisades inferno: report",
@@ -120,12 +498,6 @@
     "pubdate": "2025-10-31-22-12-56 +0000"
   },
   {
-    "headline": "Streaming on Strib Varsity: Watch two football section finals Friday",
-    "link": "https://www.startribune.com/mn-high-school-football-class-5a-4a-section-5-quarterfinals-livestreams/601497576",
-    "source": "startribune",
-    "pubdate": "2025-10-31-22-12-19 +0000"
-  },
-  {
     "headline": "French cyclist survives on red wine for three days after falling down ravine",
     "link": "https://nypost.com/2025/10/31/world-news/french-cyclist-survives-on-red-wine-for-three-days-after-falling-down-ravine/",
     "source": "nypost",
@@ -136,12 +508,6 @@
     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-7f6799f0?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-31-22-12-00 +0000"
-  },
-  {
-    "headline": "Zoë Wicomb, Acclaimed South African Author, Dies at 76",
-    "link": "https://www.nytimes.com/2025/10/31/books/zoe-wicomb-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-22-06-30 +0000"
   },
   {
     "headline": "NY Republicans make another bid to stop Hochul, Dems from moving local elections",
@@ -228,12 +594,6 @@
     "pubdate": "2025-10-31-21-44-00 +0000"
   },
   {
-    "headline": "Government Must Use Emergency Funds for SNAP Benefits, Judges Rule",
-    "link": "https://www.wsj.com/us-news/law/judge-orders-u-s-to-tap-emergency-funds-for-snap-benefits-6d0097c9",
-    "source": "wsj",
-    "pubdate": "2025-10-31-21-42-00 +0000"
-  },
-  {
     "headline": "Opinion | School Cellphone Bans Work for Children",
     "link": "https://www.wsj.com/opinion/florida-school-cellphone-ban-study-8d6d31be",
     "source": "wsj",
@@ -304,24 +664,6 @@
     "link": "https://www.bbc.com/news/articles/c7977nlzvgpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-10-31-21-31-52 +0000"
-  },
-  {
-    "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-21-28-57 +0000"
-  },
-  {
-    "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-21-28-57 +0000"
-  },
-  {
-    "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-21-28-57 +0000"
   },
   {
     "headline": "Mexico Winds Down Search for Survivor of U.S. Boat Strike",
@@ -408,12 +750,6 @@
     "pubdate": "2025-10-31-21-15-00 +0000"
   },
   {
-    "headline": "Lawmakers are facing urgency to resolve the government shutdown as food aid is imperiled, airports are snarled and Affordable Care Act enrollment begins",
-    "link": "https://www.wsj.com/politics/policy/trumps-demands-throw-wrench-into-delicate-shutdown-talks-a4507a94",
-    "source": "wsj",
-    "pubdate": "2025-10-31-21-14-00 +0000"
-  },
-  {
     "headline": "Brain-injury survivors use new lease on life to run NYC Marathon: ‘Do it for those who can’t’",
     "link": "https://nypost.com/2025/10/31/us-news/alexa-casciano-and-christian-longo-to-run-the-nyc-marathon/",
     "source": "nypost",
@@ -436,18 +772,6 @@
     "link": "https://nypost.com/2025/10/31/us-news/jack-smith-obtained-call-logs-of-10-gop-lawmakers-including-lindsey-graham-josh-hawley-in-2020-election-probe/",
     "source": "nypost",
     "pubdate": "2025-10-31-21-00-08 +0000"
-  },
-  {
-    "headline": "Top food delivery apps providing discounts to SNAP recipients as government shutdown continues",
-    "link": "https://nypost.com/2025/10/31/us-news/top-food-delivery-apps-providing-discounts-to-snap-recipients-as-government-shutdown-continues/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-20-59-59 +0000"
-  },
-  {
-    "headline": "Terrified moms speak out, say their kids face starvation as SNAP benefits expire: ‘We have nothing’",
-    "link": "https://nypost.com/2025/10/31/lifestyle/terrified-moms-speak-out-say-their-kids-face-starvation-as-snap-benefits-expire-we-have-nothing/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-20-53-11 +0000"
   },
   {
     "headline": "Grocers hope court ruling is reprieve from SNAP funding halt",
@@ -486,28 +810,10 @@
     "pubdate": "2025-10-31-20-39-00 +0000"
   },
   {
-    "headline": "Armed Alabama man charged with threatening rabbis, imam and others in multiple Southern states",
-    "link": "https://nypost.com/2025/10/31/us-news/alabama-man-charged-with-threatening-rabbis-imam-and-others-in-multiple-southern-states/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-20-37-04 +0000"
-  },
-  {
-    "headline": "NYPD chaplain Rabbi Alvin Kass—  department’s longest serving member— remembered  as ‘moral heart’ of the force at funeral",
-    "link": "https://nypost.com/2025/10/31/us-news/nypd-chaplain-rabbi-alvin-kass-departments-longest-serving-member-honored-as-moral-heart-of-the-force-at-funeral/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-20-29-54 +0000"
-  },
-  {
     "headline": "New York City Airports Disrupted by Air-Traffic Controller Shortage",
     "link": "https://www.wsj.com/business/airlines/new-york-city-airports-disrupted-by-air-traffic-controller-shortage-81411948?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-31-20-27-00 +0000"
-  },
-  {
-    "headline": "Longtime top Brooklyn party leader running ‘con’ jobs, abusing court system: suit",
-    "link": "https://nypost.com/2025/10/31/us-news/longtime-top-brooklyn-party-leader-is-running-con-jobs-suit/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-20-26-28 +0000"
   },
   {
     "headline": "What to Know About SNAP as Judge Orders Emergency Funding",
@@ -552,40 +858,10 @@
     "pubdate": "2025-10-31-20-22-08 +0000"
   },
   {
-    "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
-    "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-20-21-43 +0000"
-  },
-  {
-    "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
-    "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-20-21-43 +0000"
-  },
-  {
-    "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
-    "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-20-21-43 +0000"
-  },
-  {
     "headline": "N.C. GOP spokesman urges reporter to drop news story, citing Trump ties",
     "link": "https://www.washingtonpost.com/politics/2025/10/31/republican-north-carolina-propublica-trump/",
     "source": "wapo",
     "pubdate": "2025-10-31-20-21-27 +0000"
-  },
-  {
-    "headline": "Staffing Issues Cause More Air Travel Delays, as Controllers’ Union Backs G.O.P.’s Plan to End Shutdown",
-    "link": "https://www.nytimes.com/2025/10/31/us/airport-travel-delays.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-20-17-16 +0000"
-  },
-  {
-    "headline": "Staffing Issues Cause More Air Travel Delays, as Controllers’ Union Backs G.O.P.’s Plan to End Shutdown",
-    "link": "https://www.nytimes.com/2025/10/31/us/airport-travel-delays.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-20-17-16 +0000"
   },
   {
     "headline": "Trump Says He’s Not Planning Venezuela Strike",
@@ -624,16 +900,10 @@
     "pubdate": "2025-10-31-19-47-00 +0000"
   },
   {
-    "headline": "Stillwater rallies to win 3A title, Mahtomedi scores in final minutes for 2A crown",
+    "headline": "Stillwater, Mahtomedi and Providence Academy land girls soccer state titles",
     "link": "https://www.startribune.com/stillwater-rallies-in-three-goal-comeback-over-wayzata-to-win-class-3a-state-title/601497537",
     "source": "startribune",
     "pubdate": "2025-10-31-19-46-53 +0000"
-  },
-  {
-    "headline": "JFK forced to ground all planes due to wild winds, shutdown — as all of NYC’s major airports in crisis",
-    "link": "https://nypost.com/2025/10/31/us-news/jfk-forced-to-ground-all-planes-due-to-wild-winds-shutdown-as-all-of-nycs-major-airports-in-crisis/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-19-45-51 +0000"
   },
   {
     "headline": "As Government Shutdown Slows Air Traffic Training, These Schools Are Stepping In",
@@ -750,18 +1020,6 @@
     "pubdate": "2025-10-31-19-11-11 +0000"
   },
   {
-    "headline": "Tanzania Racked by Deadly Protests After Election",
-    "link": "https://www.nytimes.com/2025/10/31/world/africa/tanzania-deadly-protests-election.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-19-07-50 +0000"
-  },
-  {
-    "headline": "Tanzania Racked by Deadly Protests After Election",
-    "link": "https://www.nytimes.com/2025/10/31/world/africa/tanzania-deadly-protests-election.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-19-07-50 +0000"
-  },
-  {
     "headline": "The Debate Dividing the Supreme Court’s Liberal Justices",
     "link": "https://www.nytimes.com/2025/10/31/us/politics/supreme-court-kagan-jackson-liberal-justices.html",
     "source": "nyt",
@@ -802,18 +1060,6 @@
     "link": "https://www.nytimes.com/2025/10/31/style/donald-trupmp-melania-trump-halloween.html",
     "source": "nyt",
     "pubdate": "2025-10-31-18-44-15 +0000"
-  },
-  {
-    "headline": "Several hundred feared dead as Tanzania election protests continue",
-    "link": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-18-43-18 +0000"
-  },
-  {
-    "headline": "Several hundred feared dead as Tanzania election protests continue",
-    "link": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-18-43-18 +0000"
   },
   {
     "headline": "Waymo confirms its car killed KitKat, Mission bodega cat",
@@ -912,12 +1158,6 @@
     "pubdate": "2025-10-31-18-09-49 +0000"
   },
   {
-    "headline": "13 horror-esque movies to catch on Halloween",
-    "link": "https://www.startribune.com/13-horror-esque-movies-to-catch-in-theaters-before-halloween/601499487",
-    "source": "startribune",
-    "pubdate": "2025-10-31-18-09-38 +0000"
-  },
-  {
     "headline": "Low Prices Aren’t Stopping Exxon and Chevron From Pumping More Oil",
     "link": "https://www.nytimes.com/2025/10/31/business/energy-environment/exxon-mobil-chevron-earnings.html",
     "source": "nyt",
@@ -994,12 +1234,6 @@
     "link": "https://nypost.com/2025/10/31/us-news/white-house-resuming-christmas-tours-after-east-wing-demolition/",
     "source": "nypost",
     "pubdate": "2025-10-31-17-54-32 +0000"
-  },
-  {
-    "headline": "Halloween 2025: The best celebrity costumes so far",
-    "link": "https://www.bbc.com/news/articles/c4gpwn5v072o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-17-52-54 +0000"
   },
   {
     "headline": "Carlyle Misses Earnings Estimates as Private-Equity Sales Slump",
@@ -1342,12 +1576,6 @@
     "link": "https://nypost.com/2025/10/31/business/amazon-shares-soar-11-on-strong-cloud-growth-easing-investor-fears-over-ai-spending/",
     "source": "nypost",
     "pubdate": "2025-10-31-15-29-24 +0000"
-  },
-  {
-    "headline": "Hurricane death toll rises as Jamaica aid effort struggles",
-    "link": "https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-15-29-21 +0000"
   },
   {
     "headline": "Hurricane death toll rises as Jamaica aid effort struggles",
@@ -1758,12 +1986,6 @@
     "pubdate": "2025-10-31-11-02-00 +0000"
   },
   {
-    "headline": "Golden Valley home by ‘Not So Big House’ architect Sarah Susanka lists at $1.2M",
-    "link": "https://www.startribune.com/golden-valley-home-by-not-so-big-house-architect-sarah-susanka-lists-at-12m/601512202",
-    "source": "startribune",
-    "pubdate": "2025-10-31-11-01-00 +0000"
-  },
-  {
     "headline": "GOP bill would allow border patrol operations, infrastructure in the Boundary Waters",
     "link": "https://www.startribune.com/gop-bill-would-allow-border-patrol-operations-infrastructure-in-the-boundary-waters/601508533",
     "source": "startribune",
@@ -1782,7 +2004,13 @@
     "pubdate": "2025-10-31-11-00-00 +0000"
   },
   {
-    "headline": "Exxon Profit Falls, Hurt By Weak Pricing",
+    "headline": "Minnesota schools under stress as they try to serve students’ mental health needs",
+    "link": "https://www.startribune.com/minnesota-schools-mental-health/601488194",
+    "source": "startribune",
+    "pubdate": "2025-10-31-11-00-00 +0000"
+  },
+  {
+    "headline": "Exxon Profit Falls, Hurt by Weak Pricing",
     "link": "https://www.wsj.com/business/earnings/exxon-profit-falls-hurt-by-weak-pricing-af251418?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-31-10-44-00 +0000"
@@ -1908,12 +2136,6 @@
     "pubdate": "2025-10-31-10-00-00 +0000"
   },
   {
-    "headline": "Plan to kill 450,000 owls pushes past major obstacle with Republicans both for and against",
-    "link": "https://www.latimes.com/environment/story/2025-10-31/lawmakers-reject-bid-to-overturn-plan-to-cull-barred-owls-pacific-northwest",
-    "source": "latimes",
-    "pubdate": "2025-10-31-10-00-00 +0000"
-  },
-  {
     "headline": "News Analysis: Prop. 50 is just one part of a historically uncertain moment for American democracy",
     "link": "https://www.latimes.com/politics/story/2025-10-31/future-of-u-s-politics-uncertain-amid-shutdown-prop-50-fight-trumps-third-term-talk",
     "source": "latimes",
@@ -1922,6 +2144,12 @@
   {
     "headline": "Contributor: Four votes on Tuesday that will shape the nation (or at least the narrative)",
     "link": "https://www.latimes.com/opinion/story/2025-10-31/prop-50-election-day-new-jersey-virginia-new-york-city",
+    "source": "latimes",
+    "pubdate": "2025-10-31-10-00-00 +0000"
+  },
+  {
+    "headline": "Plan to kill 450,000 owls pushes past major obstacle with Republicans both for and against",
+    "link": "https://www.latimes.com/environment/story/2025-10-31/lawmakers-reject-bid-to-overturn-plan-to-cull-barred-owls-pacific-northwest",
     "source": "latimes",
     "pubdate": "2025-10-31-10-00-00 +0000"
   },
@@ -2100,12 +2328,6 @@
     "pubdate": "2025-10-31-08-49-24 +0000"
   },
   {
-    "headline": "Stock Market Today: Amazon Surges to Record High, Boosting Nasdaq",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-31-2025?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-31-08-49-17 +0000"
-  },
-  {
     "headline": "Prince Andrew to Be Stripped of His Royal Title",
     "link": "https://www.nytimes.com/2025/10/30/world/europe/uk-prince-andrew-title.html",
     "source": "nyt",
@@ -2238,12 +2460,6 @@
     "pubdate": "2025-10-31-04-00-00 +0000"
   },
   {
-    "headline": "Noem warns trucks are becoming ‘weapons’ as Newsom, sanctuary states license illegal immigrants",
-    "link": "https://nypost.com/2025/10/30/us-news/noem-warns-trucks-are-becoming-weapons-as-newsom-sanctuary-states-license-illegal-immigrants/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-03-35-37 +0000"
-  },
-  {
     "headline": "China Factory Activity Gauge Signals Deepening Manufacturing Gloom",
     "link": "https://www.wsj.com/economy/china-factory-activity-gauge-signals-deepening-manufacturing-gloom-0f376d67",
     "source": "wsj",
@@ -2263,12 +2479,6 @@
   },
   {
     "headline": "The Long Road to a U.S.-China Trade Pact",
-    "link": "https://www.wsj.com/economy/trade/the-long-road-to-a-u-s-china-trade-pact-77009645",
-    "source": "wsj",
-    "pubdate": "2025-10-31-03-00-00 +0000"
-  },
-  {
-    "headline": "Before coming to terms with China, the Trump administration was for months reluctant to reduce America’s fentanyl-based tariffs on Beijing",
     "link": "https://www.wsj.com/economy/trade/the-long-road-to-a-u-s-china-trade-pact-77009645",
     "source": "wsj",
     "pubdate": "2025-10-31-03-00-00 +0000"
@@ -2350,203 +2560,5 @@
     "link": "https://www.cbc.ca/news/world/trump-refugees-white-south-africans-9.6960596?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-10-31-01-37-44 +0000"
-  },
-  {
-    "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-01-03-51 +0000"
-  },
-  {
-    "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-01-03-51 +0000"
-  },
-  {
-    "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-01-03-51 +0000"
-  },
-  {
-    "headline": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-01-03-51 +0000"
-  },
-  {
-    "headline": "Trump Pivots Second Term Toward Foreign Policy",
-    "link": "https://www.wsj.com/politics/policy/trump-pivots-second-term-toward-foreign-policy-08d66474",
-    "source": "wsj",
-    "pubdate": "2025-10-31-01-00-00 +0000"
-  },
-  {
-    "headline": "Colleges Face a Financial Reckoning. The University of Chicago Is Exhibit A.",
-    "link": "https://www.wsj.com/us-news/education/colleges-face-a-financial-reckoning-the-university-of-chicago-is-exhibit-a-8918b2b0",
-    "source": "wsj",
-    "pubdate": "2025-10-31-01-00-00 +0000"
-  },
-  {
-    "headline": "Colleges Face a Financial Reckoning. The University of Chicago Is Exhibit A.",
-    "link": "https://www.wsj.com/us-news/education/colleges-face-a-financial-reckoning-the-university-of-chicago-is-exhibit-a-8918b2b0",
-    "source": "wsj",
-    "pubdate": "2025-10-31-01-00-00 +0000"
-  },
-  {
-    "headline": "On the world stage, meetings shift from dreary Washington offices to opulent palaces, deals get announced and President Trump engages with smiling foreign ministers, not scowling lawmakers",
-    "link": "https://www.wsj.com/politics/policy/trump-pivots-second-term-toward-foreign-policy-08d66474",
-    "source": "wsj",
-    "pubdate": "2025-10-31-01-00-00 +0000"
-  },
-  {
-    "headline": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-00-58-02 +0000"
-  },
-  {
-    "headline": "Four easy ways to spend less and save more money",
-    "link": "https://www.bbc.com/news/articles/c6258nn89dgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-46-16 +0000"
-  },
-  {
-    "headline": "Four easy ways to spend less and save more money",
-    "link": "https://www.bbc.com/news/articles/c6258nn89dgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-46-16 +0000"
-  },
-  {
-    "headline": "Trump Returns to White House in Time to Greet Trick-or-Treaters",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-halloween-candy-white-house.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-00-38-08 +0000"
-  },
-  {
-    "headline": "Trump Returns to White House in Time to Greet Trick-or-Treaters",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-halloween-candy-white-house.html",
-    "source": "nyt",
-    "pubdate": "2025-10-31-00-38-08 +0000"
-  },
-  {
-    "headline": "Trump greets hundreds of trick-or-treaters at White House Halloween event — including kids dressed as first couple, McDonald’s drive-thru",
-    "link": "https://nypost.com/2025/10/30/us-news/trump-greets-hundreds-of-trick-or-treaters-at-white-house-halloween/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-00-37-24 +0000"
-  },
-  {
-    "headline": "Five charged in overdose death of Robert De Niro's grandson",
-    "link": "https://www.bbc.com/news/articles/cx24nwz9pd4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-35-22 +0000"
-  },
-  {
-    "headline": "The American adoptees who fear deportation to a country they can't remember",
-    "link": "https://www.bbc.com/news/articles/cwy1n438dk4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-33-07 +0000"
-  },
-  {
-    "headline": "The adopted children who fear deportation to a country they can't remember",
-    "link": "https://www.bbc.com/news/articles/cwy1n438dk4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-33-07 +0000"
-  },
-  {
-    "headline": "'Can't go back' - families in violence-hit Indian state fear resettlement deadline",
-    "link": "https://www.bbc.com/news/articles/c364j8r7xjgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-29-58 +0000"
-  },
-  {
-    "headline": "'Can't go back' - families in violence-hit Indian state fear resettlement deadline",
-    "link": "https://www.bbc.com/news/articles/c364j8r7xjgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-29-58 +0000"
-  },
-  {
-    "headline": "S.F. vintage store owner alleges Banana Republic stole her jeans design",
-    "link": "https://missionlocal.org/2025/10/sf-banana-republic-stolen-design/",
-    "source": "missionlocal",
-    "pubdate": "2025-10-31-00-23-04 +0000"
-  },
-  {
-    "headline": "How teenager gave a street concert and was caught up in Russia's repressive past",
-    "link": "https://www.bbc.com/news/articles/cz91jyxj88ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-19-47 +0000"
-  },
-  {
-    "headline": "How teenager gave a street concert and was caught up in Russia's repressive past",
-    "link": "https://www.bbc.com/news/articles/cz91jyxj88ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-19-47 +0000"
-  },
-  {
-    "headline": "'This is the big one' - tech firms bet on electrifying rail",
-    "link": "https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-14-09 +0000"
-  },
-  {
-    "headline": "The US bet big with Argentina bailout - is it paying off?",
-    "link": "https://www.bbc.com/news/articles/c4g3mdvle78o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-11-41 +0000"
-  },
-  {
-    "headline": "The US bet big with Argentina bailout - is it paying off?",
-    "link": "https://www.bbc.com/news/articles/c4g3mdvle78o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-11-41 +0000"
-  },
-  {
-    "headline": "The US bet big with Argentina bailout - is it paying off?",
-    "link": "https://www.bbc.com/news/articles/c4g3mdvle78o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-11-41 +0000"
-  },
-  {
-    "headline": "£420m bill cut for heavy industry as union attacks 'obscene' energy profits",
-    "link": "https://www.bbc.com/news/articles/c5ype0gp7lgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-10-19 +0000"
-  },
-  {
-    "headline": "£420m bill cut for heavy industry as union attacks 'obscene' energy profits",
-    "link": "https://www.bbc.com/news/articles/c5ype0gp7lgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-31-00-10-19 +0000"
-  },
-  {
-    "headline": "Ex-FBI boss James Comey wants lying to Congress indictment tossed, complains Sen. Ted Cruz’s questions were too long, confusing",
-    "link": "https://nypost.com/2025/10/30/us-news/ex-fbi-boss-james-comey-wants-lying-to-congress-indictment-tossed-on-grounds-sen-ted-cruz-questions-were-too-long-confusing/",
-    "source": "nypost",
-    "pubdate": "2025-10-31-00-01-54 +0000"
-  },
-  {
-    "headline": "What Makes Taylor Sheridan a Billion-Dollar Man",
-    "link": "https://www.wsj.com/arts-culture/television/taylor-sheridan-yellowstone-spinoffs-prequels-paramount-nbc-b2a07042?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-10-31-00-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Beef and Thousand Island Dressing: Trump’s Food Tour of Asia",
-    "link": "https://www.nytimes.com/2025/10/30/world/asia/trump-asia-summit-food.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-23-58-39 +0000"
-  },
-  {
-    "headline": "U.S. Beef and Thousand Island Dressing: Trump’s Food Tour of Asia",
-    "link": "https://www.nytimes.com/2025/10/30/world/asia/trump-asia-summit-food.html",
-    "source": "nyt",
-    "pubdate": "2025-10-30-23-58-39 +0000"
-  },
-  {
-    "headline": "Hochul bailed out by nearly $3B in extra NY tax revenue — but massive deficits loom",
-    "link": "https://nypost.com/2025/10/30/us-news/hochuls-ny-budget-bailed-out-by-nearly-3b-in-extra-tax-revenue-but-massive-deficits-loom/",
-    "source": "nypost",
-    "pubdate": "2025-10-30-23-55-16 +0000"
   }
 ]
