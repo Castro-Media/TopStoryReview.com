@@ -1,6 +1,6 @@
 [
   {
-    "score": 158,
+    "score": 156,
     "pubdate": "2025-10-31-23-04-00 +0000",
     "source": "nyt",
     "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
@@ -28,25 +28,18 @@
     "link": "https://nypost.com/2025/10/31/world-news/prince-andrew-thrown-under-the-bus-when-royal-family-stripped-titles-biographer/"
   },
   {
-    "score": 59,
+    "score": 58,
     "pubdate": "2025-11-01-01-33-59 +0000",
     "source": "nyt",
     "headline": "He Survived the Invasion. What He Really Wanted Was a Friend.",
     "link": "https://www.nytimes.com/2025/10/30/world/europe/ukraine-russia-war-mountain-camp.html"
   },
   {
-    "score": 57,
+    "score": 55,
     "pubdate": "2025-10-31-22-15-54 +0000",
     "source": "nypost",
     "headline": "Ukraine welcomes China’s offer to ‘help’ Trump end the war with Russia, despite skepticism",
     "link": "https://nypost.com/2025/10/31/world-news/ukraine-welcomes-chinas-offer-to-help-trump-end-war-with-russia/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-10-31-10-38-40 +0000",
-    "source": "nypost",
-    "headline": "Virginia gov hopeful Winsome Earle-Sears’ campaign bus caught on fire days before Election Day",
-    "link": "https://nypost.com/2025/10/31/us-news/virginia-lt-gov-winsome-earle-sears-campaign-bus-catches-fire/"
   },
   {
     "score": 53,
@@ -56,11 +49,11 @@
     "link": "https://nypost.com/2025/10/31/us-news/jd-vance-dresses-up-like-meme-version-of-himself-for-halloween/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-10-31-20-26-00 +0000",
-    "source": "wsj",
-    "headline": "The federal government pays out $100 billion a year in food assistance through the Supplemental Nutrition Assistance Program—funds that were set to lapse and may be delayed because of the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/what-to-know-about-snap-as-funding-is-set-to-run-out-cb46c8fe"
+    "score": 52,
+    "pubdate": "2025-10-31-10-38-40 +0000",
+    "source": "nypost",
+    "headline": "Virginia gov hopeful Winsome Earle-Sears’ campaign bus caught on fire days before Election Day",
+    "link": "https://nypost.com/2025/10/31/us-news/virginia-lt-gov-winsome-earle-sears-campaign-bus-catches-fire/"
   },
   {
     "score": 48,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Nvidia strikes bumper AI deals with Asia tech giants",
     "link": "https://www.bbc.com/news/articles/cyv862r7l2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-10-31-20-26-00 +0000",
+    "source": "wsj",
+    "headline": "The federal government pays out $100 billion a year in food assistance through the Supplemental Nutrition Assistance Program—funds that were set to lapse and may be delayed because of the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/what-to-know-about-snap-as-funding-is-set-to-run-out-cb46c8fe"
   }
 ]
