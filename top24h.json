@@ -1,38 +1,31 @@
 [
   {
-    "score": 86,
-    "pubdate": "2025-10-31-23-04-00 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/federal-judge-food-stamps.html"
-  },
-  {
-    "score": 71,
-    "pubdate": "2025-11-01-20-45-56 +0000",
+    "score": 105,
+    "pubdate": "2025-11-01-21-48-00 +0000",
     "source": "nypost",
-    "headline": "Great white sharks swarmed New York, New Jersey waters this summer amid predator population boom: expert",
-    "link": "https://nypost.com/2025/11/01/us-news/great-white-sharks-swarmed-new-york-new-jersey-waters-this-summer-amid-the-predators-population-boom-expert/"
+    "headline": "Trump to host Ahmad al-Sharaa, marking first-ever visit by Syrian president to White House: official",
+    "link": "https://nypost.com/2025/11/01/us-news/trump-to-host-ahmad-al-sharaa-marking-first-ever-visit-by-syrian-president-to-white-house/"
   },
   {
-    "score": 62,
-    "pubdate": "2025-11-01-12-55-44 +0000",
-    "source": "cbc",
-    "headline": "'This is not a game,' Carney says as he signals he's ready to fight election over federal budget",
-    "link": "https://www.cbc.ca/news/politics/carney-budget-opposition-canada-election-9.6963055?cmp=rss"
+    "score": 70,
+    "pubdate": "2025-11-01-20-55-31 +0000",
+    "source": "nypost",
+    "headline": "House Republicans exploring ways to prevent Mamdani from being sworn in as NYC mayor if he wins on Election Day",
+    "link": "https://nypost.com/2025/11/01/us-news/house-republicans-latest-push-to-keep-mandani-out-of-office/"
   },
   {
-    "score": 45,
+    "score": 68,
+    "pubdate": "2025-11-01-19-49-10 +0000",
+    "source": "nypost",
+    "headline": "Panic sets in for New Yorkers as SNAP benefits dry up and gov shutdown extends",
+    "link": "https://nypost.com/2025/11/01/us-news/panic-sets-in-for-new-yorkers-as-snap-benefits-dry-up/"
+  },
+  {
+    "score": 55,
     "pubdate": "2025-11-01-02-10-13 +0000",
     "source": "bbc",
     "headline": "'We need food, we have no food' - desperation takes hold in Jamaica after hurricane",
     "link": "https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-11-01-00-09-02 +0000",
-    "source": "nypost",
-    "headline": "JD Vance dresses up like meme-version of himself for Halloween: ‘Say thank you’",
-    "link": "https://nypost.com/2025/10/31/us-news/jd-vance-dresses-up-like-meme-version-of-himself-for-halloween/"
   },
   {
     "score": 40,
@@ -43,30 +36,37 @@
   },
   {
     "score": 40,
-    "pubdate": "2025-11-01-18-25-22 +0000",
-    "source": "nyt",
-    "headline": "Two More Suspects Charged in Louvre Heist Case",
-    "link": "https://www.nytimes.com/2025/11/01/world/europe/france-louvre-heist-arrests.html"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-11-01-18-39-38 +0000",
-    "source": "bbc",
-    "headline": "Egypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time",
-    "link": "https://www.bbc.com/news/articles/ckg4q403rpzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
     "pubdate": "2025-11-01-20-13-03 +0000",
     "source": "bbc",
     "headline": "Key town faces 'multi-thousand' Russian force, top Ukraine commander admits",
     "link": "https://www.bbc.com/news/articles/crklljyx6mzo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 37,
+    "pubdate": "2025-11-01-18-25-22 +0000",
+    "source": "nyt",
+    "headline": "Two More Suspects Charged in Louvre Heist Case",
+    "link": "https://www.nytimes.com/2025/11/01/world/europe/france-louvre-heist-arrests.html"
+  },
+  {
     "score": 36,
-    "pubdate": "2025-10-31-23-24-00 +0000",
-    "source": "wsj",
-    "headline": "The White House is imposing new restrictions on press access to the West Wing, limiting reporters’ ability to enter the section where senior communications staff typically work",
-    "link": "https://www.wsj.com/politics/policy/white-house-limits-reporters-access-to-communications-office-56f59c82"
+    "pubdate": "2025-11-01-21-18-52 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Must Make Food Stamp Payments Within Days, Judge Says",
+    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-food-stamp-payments.html"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-11-01-18-39-38 +0000",
+    "source": "bbc",
+    "headline": "Egypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time",
+    "link": "https://www.bbc.com/news/articles/ckg4q403rpzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-11-01-15-36-26 +0000",
+    "source": "nyt",
+    "headline": "Juan Ramón Matta Ballesteros, 80, Dies; Cartel Kingpin Fed Cocaine Boom",
+    "link": "https://www.nytimes.com/2025/11/01/world/americas/juan-ramon-matta-ballesteros-dead.html"
   }
 ]
