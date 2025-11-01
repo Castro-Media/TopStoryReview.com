@@ -1,6 +1,6 @@
 [
   {
-    "score": 144,
+    "score": 142,
     "pubdate": "2025-10-31-23-04-00 +0000",
     "source": "nyt",
     "headline": "Trump Administration Must Pay SNAP Benefits During Shutdown, Court Rules",
@@ -28,7 +28,7 @@
     "link": "https://nypost.com/2025/10/31/world-news/ukraine-welcomes-chinas-offer-to-help-trump-end-war-with-russia/"
   },
   {
-    "score": 62,
+    "score": 61,
     "pubdate": "2025-10-31-11-41-06 +0000",
     "source": "nypost",
     "headline": "Prince Andrew thrown ‘under the bus’ by royal family — as floodgates could open to police probe, biographer claims",
@@ -57,16 +57,16 @@
   },
   {
     "score": 48,
-    "pubdate": "2025-10-31-11-24-46 +0000",
-    "source": "bbc",
-    "headline": "Nvidia strikes bumper AI deals with Asia tech giants",
-    "link": "https://www.bbc.com/news/articles/cyv862r7l2ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
     "pubdate": "2025-10-31-14-16-53 +0000",
     "source": "nyt",
     "headline": "Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It.",
     "link": "https://www.nytimes.com/2025/10/30/world/americas/jamaica-hurricane-melissa-disaster-preparedness-finances.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-10-31-11-24-46 +0000",
+    "source": "bbc",
+    "headline": "Nvidia strikes bumper AI deals with Asia tech giants",
+    "link": "https://www.bbc.com/news/articles/cyv862r7l2ro?at_medium=RSS&at_campaign=rss"
   }
 ]
