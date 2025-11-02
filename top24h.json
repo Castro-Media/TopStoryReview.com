@@ -1,24 +1,38 @@
 [
   {
-    "score": 83,
+    "score": 87,
     "pubdate": "2025-11-01-21-48-00 +0000",
     "source": "nypost",
     "headline": "Trump to host Ahmad al-Sharaa, marking first-ever visit by Syrian president to White House: official",
     "link": "https://nypost.com/2025/11/01/us-news/trump-to-host-ahmad-al-sharaa-marking-first-ever-visit-by-syrian-president-to-white-house/"
   },
   {
-    "score": 48,
+    "score": 63,
+    "pubdate": "2025-11-02-10-01-36 +0000",
+    "source": "nyt",
+    "headline": "To Celebrate Day of the Dead, One Mexican Town Digs Up Its Dead",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html"
+  },
+  {
+    "score": 45,
     "pubdate": "2025-11-01-21-04-33 +0000",
     "source": "nypost",
     "headline": "NJ Dem chair admits ‘New Jersey is a battleground state’ while stumping with Sherrill as polls show dead heat in gubernatorial race",
     "link": "https://nypost.com/2025/11/01/us-news/nj-dem-boss-leroy-jones-admits-new-jersey-is-a-battleground-state-while-stumping-with-mikie-sherrill/"
   },
   {
-    "score": 47,
+    "score": 45,
     "pubdate": "2025-11-01-20-55-31 +0000",
     "source": "nypost",
     "headline": "House Republicans exploring ways to prevent Mamdani from being sworn in as NYC mayor if he wins on Election Day",
     "link": "https://nypost.com/2025/11/01/us-news/house-republicans-latest-push-to-keep-mandani-out-of-office/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-11-01-21-18-52 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Must Make Food Stamp Payments Within Days, Judge Says",
+    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-food-stamp-payments.html"
   },
   {
     "score": 43,
@@ -36,10 +50,10 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-11-01-21-18-52 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Must Make Food Stamp Payments Within Days, Judge Says",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-food-stamp-payments.html"
+    "pubdate": "2025-11-02-03-25-50 +0000",
+    "source": "nypost",
+    "headline": "Hero old man saves girl from knife-wielding maniac during UK train attack — as victims prepped to fight back with Jack Daniels bottle",
+    "link": "https://nypost.com/2025/11/01/world-news/uk-train-stabbing-old-man-blocked-suspect-from-attacking-young-girl/"
   },
   {
     "score": 36,
@@ -49,24 +63,10 @@
     "link": "https://www.washingtonpost.com/world/2025/11/01/suspects-louvre-jewel-heist/"
   },
   {
-    "score": 33,
-    "pubdate": "2025-11-02-03-25-50 +0000",
-    "source": "nypost",
-    "headline": "Hero old man saves girl from knife-wielding maniac during UK train attack — as victims prepped to fight back with Jack Daniels bottle",
-    "link": "https://nypost.com/2025/11/01/world-news/uk-train-stabbing-old-man-blocked-suspect-from-attacking-young-girl/"
-  },
-  {
-    "score": 33,
+    "score": 35,
     "pubdate": "2025-11-01-18-39-38 +0000",
     "source": "bbc",
     "headline": "Egypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time",
     "link": "https://www.bbc.com/news/articles/ckg4q403rpzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-11-02-04-29-42 +0000",
-    "source": "latimes",
-    "headline": "Fireworks light up L.A., Dodgers fans take to the streets to celebrate World Series win",
-    "link": "https://www.latimes.com/california/story/2025-11-01/la-me-dodgers-streets-fans"
   }
 ]

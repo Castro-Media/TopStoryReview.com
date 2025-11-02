@@ -1,72 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2025-11-02-09-47-00 +0000",
+    "score": 39,
+    "pubdate": "2025-11-02-10-01-36 +0000",
+    "source": "nyt",
+    "headline": "Food Stamp Cuts Expose Trump’s Strategy to Use Shutdown to Advance Agenda",
+    "link": "https://www.nytimes.com/2025/11/02/us/politics/trump-strategy-food-stamps.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-11-02-10-01-36 +0000",
+    "source": "nyt",
+    "headline": "To Celebrate Day of the Dead, One Mexican Town Digs Up Its Dead",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-02-10-00-00 +0000",
     "source": "wsj",
-    "headline": "Mass Stabbing on Train to London Leaves Nine With Life-Threatening Injuries",
-    "link": "https://www.wsj.com/world/europe/mass-stabbing-on-train-to-london-leaves-nine-with-life-threatening-injuries-9e230f68"
+    "headline": "Republican Jack Ciattarelli, locked in a tight race, isn’t running away from MAGA in his third bid to become the governor of blue New Jersey",
+    "link": "https://www.wsj.com/politics/elections/new-jersey-race-tests-whether-a-blue-state-republican-can-embrace-trump-and-win-4a491a89"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-02-10-01-28 +0000",
+    "source": "nyt",
+    "headline": "Will Trump’s Tariff Deal Tilt the Playing Field Back Toward China?",
+    "link": "https://www.nytimes.com/2025/11/02/business/economy/trump-tariff-deal-china.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-11-02-10-01-23 +0000",
+    "source": "nyt",
+    "headline": "Anger Over ICE Raids Is Driving Some Latino Voters to the Polls",
+    "link": "https://www.nytimes.com/2025/11/02/us/politics/elections-latino-turnout-ice-raids.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-02-10-00-00 +0000",
+    "source": "cbc",
+    "headline": "Dusty duffel bag found in Italy revives story of Cape Bretoner killed in WW II",
+    "link": "https://www.cbc.ca/news/canada/nova-scotia/dusty-duffel-bag-found-in-italy-revives-story-of-cape-bretoner-killed-in-ww-ii-9.6963161?cmp=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-02-10-01-01 +0000",
+    "source": "nyt",
+    "headline": "The Economic Crisis in Egypt Raises Another Dilemma: Tipping",
+    "link": "https://www.nytimes.com/2025/11/02/world/middleeast/the-economic-crisis-in-egypt-raises-another-dilemma-tipping.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-02-10-01-03 +0000",
+    "source": "nyt",
+    "headline": "Democrats Running for Governor Stick to a Familiar Theme: Fight Trump",
+    "link": "https://www.nytimes.com/2025/11/02/us/politics/virginia-new-jersey-democrats.html"
   },
   {
     "score": 10,
-    "pubdate": "2025-11-02-09-24-49 +0000",
-    "source": "nypost",
-    "headline": "US carries out new strike in Caribbean, killing 3 alleged drug smugglers",
-    "link": "https://nypost.com/2025/11/02/us-news/us-carries-out-new-strike-in-caribbean-killing-3-alleged-drug-smugglers/"
+    "pubdate": "2025-11-02-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Palantir Thinks College Might Be a Waste. So It’s Hiring High-School Grads.",
+    "link": "https://www.wsj.com/business/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads-aed267d5?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 10,
-    "pubdate": "2025-11-02-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "'Love makes you stronger': Mothers search for Mexico City's missing",
-    "link": "https://www.cbc.ca/news/world/mexico-missing-mothers-9.6961911?cmp=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-02-09-00-36 +0000",
-    "source": "wapo",
-    "headline": "Charismatic leader emerges on the left to roil Britain’s political scene",
-    "link": "https://www.washingtonpost.com/world/2025/11/02/zack-polanski-greens-uk-mamdani/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-02-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Pierre Poilievre won’t say if his Conservatives will strike down upcoming federal budget",
-    "link": "https://www.cbc.ca/news/politics/poilievre-conservatives-ndp-federal-budget-9.6963170?cmp=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-02-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Andrew gives Charles his 'first genuine royal crisis' as King",
-    "link": "https://www.cbc.ca/news/world/andrew-losing-titles-king-charles-pope-zelenskyy-9.6962226?cmp=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2025-11-02-09-00-18 +0000",
-    "source": "wapo",
-    "headline": "India and China restored direct flights. Can relations take off again?",
-    "link": "https://www.washingtonpost.com/world/2025/11/02/india-china-direct-flights-relations/"
-  },
-  {
-    "score": 3,
-    "pubdate": "2025-11-02-09-13-14 +0000",
-    "source": "bbc",
-    "headline": "Fire at shop in Mexico kills 23, officials say",
-    "link": "https://www.bbc.com/news/articles/c0mxxm49jggo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 1,
-    "pubdate": "2025-11-02-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "What’s going to be in Carney’s first budget?",
-    "link": "https://www.cbc.ca/news/politics/whats-in-carney-budget-9.6962818?cmp=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-02-09-35-56 +0000",
-    "source": "wapo",
-    "headline": "Stabbing on U.K. train leaves nine people with life-threatening injuries",
-    "link": "https://www.washingtonpost.com/world/2025/11/02/uk-train-stabbing-cambridgeshire/"
+    "pubdate": "2025-11-02-10-27-35 +0000",
+    "source": "nyt",
+    "headline": "That Time Xi Jinping Joked About Espionage",
+    "link": "https://www.nytimes.com/2025/11/02/world/asia/xi-jinping-china-south-korea-spying.html"
   }
 ]
