@@ -1,9 +1,93 @@
 [
   {
-    "headline": "Death Toll Rises From Hurricane Melissa as Many Communities Remain Cut Off",
+    "headline": "Meet Your News Friend, the New Host of The Morning",
+    "link": "https://www.nytimes.com/2025/11/02/world/02themorning-meet-sam-sifton.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-12-55-32 +0000"
+  },
+  {
+    "headline": "The New Host of The Morning",
+    "link": "https://www.nytimes.com/2025/11/02/world/sam-sifton-new-york-city-marathon-dodgers.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-12-54-37 +0000"
+  },
+  {
+    "headline": "War Powers Law Does Not Apply to Trump’s Boat Strikes, Administration Says",
+    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-boat-attacks-war-powers.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-12-51-21 +0000"
+  },
+  {
+    "headline": "War Powers Law Does Not Apply to Trump’s Boat Strikes, Administration Says",
+    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-boat-attacks-war-powers.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-12-51-21 +0000"
+  },
+  {
+    "headline": "Trump tells military to prepare for 'action' against Islamist militants in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-12-39-00 +0000"
+  },
+  {
+    "headline": "Trump tells military to prepare for 'action' against Islamist militants in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-12-39-00 +0000"
+  },
+  {
+    "headline": "Trump’s Retribution Campaign Leaves D.C. Prosecutor’s Office in Crisis",
+    "link": "https://www.nytimes.com/2025/11/02/us/politics/trump-pirro-washington-prosecutors.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-12-07-04 +0000"
+  },
+  {
+    "headline": "Trump’s Retribution Campaign Leaves D.C. Prosecutor’s Office in Crisis",
+    "link": "https://www.nytimes.com/2025/11/02/us/politics/trump-pirro-washington-prosecutors.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-12-07-04 +0000"
+  },
+  {
+    "headline": "Communities in Hurricane-Ravaged Jamaica Still Cut Off as Death Toll Climbs",
     "link": "https://www.nytimes.com/2025/11/02/world/americas/jamaica-hurricane-melissa-death-toll.html",
     "source": "nyt",
-    "pubdate": "2025-11-02-11-50-07 +0000"
+    "pubdate": "2025-11-02-12-00-33 +0000"
+  },
+  {
+    "headline": "Communities in Hurricane-Ravaged Jamaica Still Cut Off as Death Toll Climbs",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/jamaica-hurricane-melissa-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-12-00-33 +0000"
+  },
+  {
+    "headline": "Jeff Bezos wants to send people to live in space — here’s what it would look like",
+    "link": "https://nypost.com/2025/11/02/us-news/jeff-bezos-wants-to-send-people-to-live-in-space-heres-what-it-would-look-like/",
+    "source": "nypost",
+    "pubdate": "2025-11-02-12-00-00 +0000"
+  },
+  {
+    "headline": "Sunset residents ask: Dude, where’s my community room?",
+    "link": "https://missionlocal.org/2025/11/sf-sunset-shirley-chisholm-affordable-housing/",
+    "source": "missionlocal",
+    "pubdate": "2025-11-02-12-00-00 +0000"
+  },
+  {
+    "headline": "Two Louvre heist suspects had prior theft conviction together, Paris prosecutor says",
+    "link": "https://nypost.com/2025/11/02/world-news/louvre-heist-suspects-had-prior-theft-convictions-together/",
+    "source": "nypost",
+    "pubdate": "2025-11-02-11-52-36 +0000"
+  },
+  {
+    "headline": "Two arrested after stabbing on U.K. train leaves ten injured",
+    "link": "https://www.washingtonpost.com/world/2025/11/02/uk-train-stabbing-cambridgeshire/",
+    "source": "wapo",
+    "pubdate": "2025-11-02-11-51-39 +0000"
+  },
+  {
+    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-11-49-21 +0000"
   },
   {
     "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
@@ -34,12 +118,6 @@
     "link": "https://nypost.com/2025/11/02/us-news/donald-trump-us-china-trade-agreement-details-released-by-white-house/",
     "source": "nypost",
     "pubdate": "2025-11-02-11-26-41 +0000"
-  },
-  {
-    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
-    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-11-08-14 +0000"
   },
   {
     "headline": "NYC principal under probe showered taxpayer funds on pals — including Jay Z’s bankrupt ex-manager and wife",
@@ -94,18 +172,6 @@
     "link": "https://www.latimes.com/politics/story/2025-11-02/california-proposition-50-redistricting-newsom-trump-other-states",
     "source": "latimes",
     "pubdate": "2025-11-02-11-00-00 +0000"
-  },
-  {
-    "headline": "Trump tells military to prepare for 'action' in Nigeria",
-    "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-02-10-55-28 +0000"
-  },
-  {
-    "headline": "Trump tells military to prepare for 'action' in Nigeria",
-    "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-02-10-55-28 +0000"
   },
   {
     "headline": "King wants Andrew to lose final military title, minister says",
@@ -252,19 +318,7 @@
     "pubdate": "2025-11-02-10-01-01 +0000"
   },
   {
-    "headline": "Trump’s Retribution Campaign Leaves D.C. Prosecutor’s Office in Crisis",
-    "link": "https://www.nytimes.com/2025/11/02/us/politics/trump-pirro-washington-prosecutors.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-10-00-52 +0000"
-  },
-  {
-    "headline": "Trump’s Retribution Campaign Leaves D.C. Prosecutor’s Office in Crisis",
-    "link": "https://www.nytimes.com/2025/11/02/us/politics/trump-pirro-washington-prosecutors.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-10-00-52 +0000"
-  },
-  {
-    "headline": "Palestinian talks on Gaza’s future could see Hamas help shape its rule",
+    "headline": "8 Palestinian factions meet to shape Gaza’s future – including Hamas",
     "link": "https://www.washingtonpost.com/world/2025/11/02/gaza-fatah-hamas-technocratic-committee/",
     "source": "wapo",
     "pubdate": "2025-11-02-10-00-47 +0000"
@@ -286,12 +340,6 @@
     "link": "https://www.wsj.com/politics/elections/new-jersey-race-tests-whether-a-blue-state-republican-can-embrace-trump-and-win-4a491a89",
     "source": "wsj",
     "pubdate": "2025-11-02-10-00-00 +0000"
-  },
-  {
-    "headline": "Stabbing on U.K. train leaves nine people with life-threatening injuries",
-    "link": "https://www.washingtonpost.com/world/2025/11/02/uk-train-stabbing-cambridgeshire/",
-    "source": "wapo",
-    "pubdate": "2025-11-02-09-35-56 +0000"
   },
   {
     "headline": "US carries out new strike in Caribbean, killing 3 alleged drug smugglers",
@@ -444,18 +492,6 @@
     "pubdate": "2025-11-02-04-54-10 +0000"
   },
   {
-    "headline": "War Powers Law Does Not Apply to Trump’s Boat Strikes, Administration Says",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-boat-attacks-war-powers.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-04-43-58 +0000"
-  },
-  {
-    "headline": "War Powers Law Does Not Apply to Trump’s Boat Strikes, Administration Says",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-boat-attacks-war-powers.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-04-43-58 +0000"
-  },
-  {
     "headline": "Party time: Dodgers' championship parade and rally on Monday",
     "link": "https://www.latimes.com/sports/dodgers/story/2025-11-01/dodgers-championship-parade-rally-monday",
     "source": "latimes",
@@ -472,12 +508,6 @@
     "link": "https://www.latimes.com/california/story/2025-11-01/la-me-dodgers-streets-fans",
     "source": "latimes",
     "pubdate": "2025-11-02-04-29-42 +0000"
-  },
-  {
-    "headline": "Death Toll Rises From Hurricane Melissa as Many Communities Remain Cut off",
-    "link": "https://www.nytimes.com/2025/11/02/world/americas/jamaica-hurricane-melissa-death-toll.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-04-27-05 +0000"
   },
   {
     "headline": "‘SNL’ roasts NYC mayoral candidates in star-studded mock debate — days before election",
@@ -916,12 +946,6 @@
     "link": "https://nypost.com/2025/11/01/us-news/george-santos-tells-tucker-carlson-prison-was-not-a-good-time-theres-a-lot-of-liberals/",
     "source": "nypost",
     "pubdate": "2025-11-01-21-58-22 +0000"
-  },
-  {
-    "headline": "Rapper Meek Mill handcuffed while cops searched for gun outside NYC club: ‘They tryna get me’",
-    "link": "https://nypost.com/2025/11/01/us-news/rapper-meek-mill-handcuffed-while-cops-searched-for-gun-outside-nyc-club-police-sources/",
-    "source": "nypost",
-    "pubdate": "2025-11-01-21-54-28 +0000"
   },
   {
     "headline": "Trump vows 'guns-a-blazing' response to Nigeria over alleged anti-Christian persecution",
@@ -1366,71 +1390,5 @@
     "link": "https://www.wsj.com/world/canadian-pm-carney-says-he-apologized-to-trump-over-antitariff-ad-e0d66755",
     "source": "wsj",
     "pubdate": "2025-11-01-14-00-00 +0000"
-  },
-  {
-    "headline": "India and SA prepare for game-changing World Cup final",
-    "link": "https://www.bbc.com/sport/cricket/articles/c051116l4j9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-13-47-29 +0000"
-  },
-  {
-    "headline": "These are the U.S. ships and aircraft massing off Venezuela",
-    "link": "https://www.washingtonpost.com/world/2025/11/01/venezuela-us-militarty-aircraft-carrier-ships-strikes-caribbean-trump-maduro/",
-    "source": "wapo",
-    "pubdate": "2025-11-01-13-22-19 +0000"
-  },
-  {
-    "headline": "What’s on now at San Francisco museums, November 2025",
-    "link": "https://missionlocal.org/2025/11/whats-on-now-at-san-francisco-museums-november-2025/",
-    "source": "missionlocal",
-    "pubdate": "2025-11-01-13-10-41 +0000"
-  },
-  {
-    "headline": "Edward Cody, globe-trotting correspondent at The Post, dies at 82",
-    "link": "https://www.washingtonpost.com/obituaries/2025/11/01/edward-cody-dead-foreign-correspondent/",
-    "source": "wapo",
-    "pubdate": "2025-11-01-13-00-36 +0000"
-  },
-  {
-    "headline": "Día de los Muertos",
-    "link": "https://missionlocal.org/2025/11/sf-photos-dia-de-los-muertos/",
-    "source": "missionlocal",
-    "pubdate": "2025-11-01-13-00-00 +0000"
-  },
-  {
-    "headline": "Does This Investment Fit the Company’s Mission? Just Ask AI",
-    "link": "https://www.wsj.com/tech/ai/ai-company-mission-coherence-8b0225f0?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-01-13-00-00 +0000"
-  },
-  {
-    "headline": "Does This Investment Fit the Company’s Mission? Just Ask AI",
-    "link": "https://www.wsj.com/tech/ai/ai-company-mission-coherence-8b0225f0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-01-13-00-00 +0000"
-  },
-  {
-    "headline": "'This is not a game,' Carney says as he signals he's ready to fight election over federal budget",
-    "link": "https://www.cbc.ca/news/politics/carney-budget-opposition-canada-election-9.6963055?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-01-12-55-44 +0000"
-  },
-  {
-    "headline": "Uncertainty Persists for Americans Waiting for Food Benefits After SNAP Ruling",
-    "link": "https://www.nytimes.com/2025/10/31/us/snap-food-stamps-aid.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-12-11-44 +0000"
-  },
-  {
-    "headline": "Lopez: A fence might deter MacArthur Park crime and homelessness, but is it enough?",
-    "link": "https://www.latimes.com/california/story/2025-11-01/lopez-column-macarthur-park-fence",
-    "source": "latimes",
-    "pubdate": "2025-11-01-12-00-00 +0000"
-  },
-  {
-    "headline": "Documented or not, Latinos are changing habits during ICE crackdown",
-    "link": "https://www.washingtonpost.com/nation/2025/11/01/ice-latinos-race-profiling/",
-    "source": "wapo",
-    "pubdate": "2025-11-01-12-00-00 +0000"
   }
 ]
