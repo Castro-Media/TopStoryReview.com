@@ -1,9 +1,111 @@
 [
   {
-    "headline": "Trump orders military to prepare plans for 'action' in Nigeria",
+    "headline": "Death Toll Rises From Hurricane Melissa as Many Communities Remain Cut Off",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/jamaica-hurricane-melissa-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-11-50-07 +0000"
+  },
+  {
+    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-11-49-21 +0000"
+  },
+  {
+    "headline": "Hurricane Melissa death toll rises to 28 in Jamaica",
+    "link": "https://www.bbc.com/news/articles/c1e34p92q0vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-11-37-48 +0000"
+  },
+  {
+    "headline": "Mass Stabbing on Train to London Causes Life-Threatening Injuries",
+    "link": "https://www.wsj.com/world/europe/mass-stabbing-on-train-to-london-leaves-nine-with-life-threatening-injuries-9e230f68",
+    "source": "wsj",
+    "pubdate": "2025-11-02-11-32-00 +0000"
+  },
+  {
+    "headline": "White House unveils details of ‘historic’ trade agreement with China following Trump-Xi meeting",
+    "link": "https://nypost.com/2025/11/02/us-news/donald-trump-us-china-trade-agreement-details-released-by-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-11-02-11-26-41 +0000"
+  },
+  {
+    "headline": "White House unveils details of ‘historic’ trade agreement with China following Trump-Xi meeting",
+    "link": "https://nypost.com/2025/11/02/us-news/donald-trump-us-china-trade-agreement-details-released-by-white-house/",
+    "source": "nypost",
+    "pubdate": "2025-11-02-11-26-41 +0000"
+  },
+  {
+    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-11-08-14 +0000"
+  },
+  {
+    "headline": "NYC principal under probe showered taxpayer funds on pals — including Jay Z’s bankrupt ex-manager and wife",
+    "link": "https://nypost.com/2025/11/02/us-news/nyc-principal-under-probe-showered-taxpayer-funds-on-pals-including-jay-zs-bankrupt-ex-manager-and-wife/",
+    "source": "nypost",
+    "pubdate": "2025-11-02-11-02-41 +0000"
+  },
+  {
+    "headline": "A priest is walking from Illinois to New York for immigrants’ rights",
+    "link": "https://www.washingtonpost.com/nation/2025/11/02/gary-graf-priest-walking-immigration/",
+    "source": "wapo",
+    "pubdate": "2025-11-02-11-00-37 +0000"
+  },
+  {
+    "headline": "This club of catastrophe welcomes people who have lost everything",
+    "link": "https://www.washingtonpost.com/nation/2025/11/02/wildfire-survivors-california-recovery/",
+    "source": "wapo",
+    "pubdate": "2025-11-02-11-00-15 +0000"
+  },
+  {
+    "headline": "Barabak: Payback? Power grab? Proposition 50 is California's political ink-blot test",
+    "link": "https://www.latimes.com/politics/story/2025-11-02/redistricting-california-proposition-50-voter-voices-inland-empire",
+    "source": "latimes",
+    "pubdate": "2025-11-02-11-00-00 +0000"
+  },
+  {
+    "headline": "As Californians decide fate of Prop. 50, GOP states push their own redistricting plans",
+    "link": "https://www.latimes.com/politics/story/2025-11-02/california-proposition-50-redistricting-newsom-trump-other-states",
+    "source": "latimes",
+    "pubdate": "2025-11-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Driverless freight trains on Southern California rails? This L.A. startup is already testing them",
+    "link": "https://www.latimes.com/business/story/2025-11-02/los-angeles-based-autonomous-freight-train",
+    "source": "latimes",
+    "pubdate": "2025-11-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Inside the race to train AI robots how to act human in the real world",
+    "link": "https://www.latimes.com/business/story/2025-11-02/inside-californias-rush-to-gather-human-data-for-building-humanoid-robots",
+    "source": "latimes",
+    "pubdate": "2025-11-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: Payback? Power grab? Proposition 50 is California's political ink-blot test",
+    "link": "https://www.latimes.com/politics/story/2025-11-02/redistricting-california-proposition-50-voter-voices-inland-empire",
+    "source": "latimes",
+    "pubdate": "2025-11-02-11-00-00 +0000"
+  },
+  {
+    "headline": "As Californians decide fate of Prop. 50, GOP states push their own redistricting plans",
+    "link": "https://www.latimes.com/politics/story/2025-11-02/california-proposition-50-redistricting-newsom-trump-other-states",
+    "source": "latimes",
+    "pubdate": "2025-11-02-11-00-00 +0000"
+  },
+  {
+    "headline": "Trump tells military to prepare for 'action' in Nigeria",
     "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-02-10-47-54 +0000"
+    "pubdate": "2025-11-02-10-55-28 +0000"
+  },
+  {
+    "headline": "Trump tells military to prepare for 'action' in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-10-55-28 +0000"
   },
   {
     "headline": "King wants Andrew to lose final military title, minister says",
@@ -186,12 +288,6 @@
     "pubdate": "2025-11-02-10-00-00 +0000"
   },
   {
-    "headline": "Mass Stabbing on Train to London Leaves Nine With Life-Threatening Injuries",
-    "link": "https://www.wsj.com/world/europe/mass-stabbing-on-train-to-london-leaves-nine-with-life-threatening-injuries-9e230f68",
-    "source": "wsj",
-    "pubdate": "2025-11-02-09-47-00 +0000"
-  },
-  {
     "headline": "Stabbing on U.K. train leaves nine people with life-threatening injuries",
     "link": "https://www.washingtonpost.com/world/2025/11/02/uk-train-stabbing-cambridgeshire/",
     "source": "wapo",
@@ -306,24 +402,6 @@
     "pubdate": "2025-11-02-07-48-00 +0000"
   },
   {
-    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
-    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-06-48-40 +0000"
-  },
-  {
-    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
-    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-06-48-40 +0000"
-  },
-  {
-    "headline": "Britons evacuated from Jamaica as UK sends Hurricane Melissa aid",
-    "link": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-02-06-07-07 +0000"
-  },
-  {
     "headline": "Andrew fixed palace visit for crypto-mining firm which had £1.4m deal with ex-wife",
     "link": "https://www.bbc.com/news/articles/cy5q05v0q1xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -366,12 +444,6 @@
     "pubdate": "2025-11-02-04-54-10 +0000"
   },
   {
-    "headline": "Dodgers seal back-to-back World Series titles",
-    "link": "https://www.bbc.com/sport/baseball/articles/c4gwwvzxer2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-02-04-54-10 +0000"
-  },
-  {
     "headline": "War Powers Law Does Not Apply to Trump’s Boat Strikes, Administration Says",
     "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-boat-attacks-war-powers.html",
     "source": "nyt",
@@ -400,12 +472,6 @@
     "link": "https://www.latimes.com/california/story/2025-11-01/la-me-dodgers-streets-fans",
     "source": "latimes",
     "pubdate": "2025-11-02-04-29-42 +0000"
-  },
-  {
-    "headline": "Death Toll Rises From Hurricane Melissa as Many Communities Remain Cut off",
-    "link": "https://www.nytimes.com/2025/11/02/world/americas/jamaica-hurricane-melissa-death-toll.html",
-    "source": "nyt",
-    "pubdate": "2025-11-02-04-27-05 +0000"
   },
   {
     "headline": "Death Toll Rises From Hurricane Melissa as Many Communities Remain Cut off",
@@ -870,12 +936,6 @@
     "pubdate": "2025-11-01-21-48-00 +0000"
   },
   {
-    "headline": "Trump to host Ahmad al-Sharaa, marking first-ever visit by Syrian president to White House: official",
-    "link": "https://nypost.com/2025/11/01/us-news/trump-to-host-ahmad-al-sharaa-marking-first-ever-visit-by-syrian-president-to-white-house/",
-    "source": "nypost",
-    "pubdate": "2025-11-01-21-48-00 +0000"
-  },
-  {
     "headline": "Two additional suspects charged in Louvre jewel heist that shocked France",
     "link": "https://www.washingtonpost.com/world/2025/11/01/suspects-louvre-jewel-heist/",
     "source": "wapo",
@@ -910,12 +970,6 @@
     "link": "https://www.latimes.com/california/story/2025-11-01/the-feds-want-to-know-more-about-the-people-on-food-stamps-how-newsom-responded",
     "source": "latimes",
     "pubdate": "2025-11-01-21-14-45 +0000"
-  },
-  {
-    "headline": "NJ Dem chair admits ‘New Jersey is a battleground state’ while stumping with Sherrill as polls show dead heat in gubernatorial race",
-    "link": "https://nypost.com/2025/11/01/us-news/nj-dem-boss-leroy-jones-admits-new-jersey-is-a-battleground-state-while-stumping-with-mikie-sherrill/",
-    "source": "nypost",
-    "pubdate": "2025-11-01-21-04-33 +0000"
   },
   {
     "headline": "NJ Dem chair admits ‘New Jersey is a battleground state’ while stumping with Sherrill as polls show dead heat in gubernatorial race",
@@ -1378,71 +1432,5 @@
     "link": "https://www.washingtonpost.com/nation/2025/11/01/ice-latinos-race-profiling/",
     "source": "wapo",
     "pubdate": "2025-11-01-12-00-00 +0000"
-  },
-  {
-    "headline": "Drone sighting temporarily suspends air travel at Berlin airport",
-    "link": "https://nypost.com/2025/11/01/world-news/drone-sighting-temporarily-suspends-air-travel-at-berlin-airport/",
-    "source": "nypost",
-    "pubdate": "2025-11-01-11-50-26 +0000"
-  },
-  {
-    "headline": "Week-long event offers advice on money problems",
-    "link": "https://www.bbc.com/news/articles/cx2dnd3zpn6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-11-47-34 +0000"
-  },
-  {
-    "headline": "Police seize €1.3bn from Campari owner over alleged tax evasion",
-    "link": "https://www.bbc.com/news/articles/cpq11v5d1rno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-11-27-16 +0000"
-  },
-  {
-    "headline": "Police seize €1.3bn from Campari owner over alleged tax evasion",
-    "link": "https://www.bbc.com/news/articles/cpq11v5d1rno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-11-27-16 +0000"
-  },
-  {
-    "headline": "Police seize €1.3bn from Campari owner over alleged tax evasion",
-    "link": "https://www.bbc.com/news/articles/cpq11v5d1rno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-11-27-16 +0000"
-  },
-  {
-    "headline": "Some South Korea firms pulled projects after Hyundai immigration raid",
-    "link": "https://www.washingtonpost.com/business/2025/11/01/south-korea-investment-america/",
-    "source": "wapo",
-    "pubdate": "2025-11-01-11-00-12 +0000"
-  },
-  {
-    "headline": "Meet the all-Asian crew cleaning San Francisco’s 2,800 trash cans",
-    "link": "https://missionlocal.org/2025/11/sf-trash-can-cleaning-crew/",
-    "source": "missionlocal",
-    "pubdate": "2025-11-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Man serving life in prison admits to three cold case murders, police say",
-    "link": "https://www.latimes.com/california/story/2025-11-01/long-beach-police-arrest-suspect-linked-to-three-cold-case-murders",
-    "source": "latimes",
-    "pubdate": "2025-11-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Some rural Minnesota sheriffs hesitant to partner with ICE — for now",
-    "link": "https://www.startribune.com/rural-community-groups-dont-want-sheriffs-partnering-ice/601489810",
-    "source": "startribune",
-    "pubdate": "2025-11-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Roper: Despite critiques, ranked-choice voting is better than the alternatives",
-    "link": "https://www.startribune.com/ranked-choice-voting-minneapolis-mayoral-election/601512638",
-    "source": "startribune",
-    "pubdate": "2025-11-01-11-00-00 +0000"
-  },
-  {
-    "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
-    "link": "https://www.wsj.com/business/the-latest-buzzy-tech-investment-ukrainian-drones-8e455819?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-01-11-00-00 +0000"
   }
 ]
