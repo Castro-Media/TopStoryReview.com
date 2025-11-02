@@ -1,31 +1,45 @@
 [
   {
-    "score": 89,
+    "score": 96,
     "pubdate": "2025-11-02-11-26-41 +0000",
     "source": "nypost",
     "headline": "White House unveils details of ‘historic’ trade agreement with China following Trump-Xi meeting",
     "link": "https://nypost.com/2025/11/02/us-news/donald-trump-us-china-trade-agreement-details-released-by-white-house/"
   },
   {
-    "score": 61,
-    "pubdate": "2025-11-02-10-01-36 +0000",
+    "score": 60,
+    "pubdate": "2025-11-02-14-11-04 +0000",
+    "source": "nypost",
+    "headline": "UK pol tells country to ‘get on with your lives’ after train mass stabbing — as tearful mayor calls attack a ‘horror movie’",
+    "link": "https://nypost.com/2025/11/02/world-news/uk-pol-tells-country-carry-on-with-your-lives-after-train-mass-stabbing/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2025-11-02-10-01-37 +0000",
     "source": "nyt",
     "headline": "To Celebrate Day of the Dead, One Mexican Town Digs Up Its Dead",
     "link": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html"
   },
   {
-    "score": 42,
-    "pubdate": "2025-11-01-20-55-31 +0000",
-    "source": "nypost",
-    "headline": "House Republicans exploring ways to prevent Mamdani from being sworn in as NYC mayor if he wins on Election Day",
-    "link": "https://nypost.com/2025/11/01/us-news/house-republicans-latest-push-to-keep-mandani-out-of-office/"
+    "score": 43,
+    "pubdate": "2025-11-01-21-38-02 +0000",
+    "source": "wapo",
+    "headline": "Two additional suspects charged in Louvre jewel heist that shocked France",
+    "link": "https://www.washingtonpost.com/world/2025/11/01/suspects-louvre-jewel-heist/"
   },
   {
-    "score": 42,
+    "score": 43,
     "pubdate": "2025-11-01-21-18-52 +0000",
     "source": "nyt",
     "headline": "Trump Administration Must Make Food Stamp Payments Within Days, Judge Says",
     "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-food-stamp-payments.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-11-02-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Republican Jack Ciattarelli, locked in a tight race, isn’t running away from MAGA in his third bid to become the governor of blue New Jersey",
+    "link": "https://www.wsj.com/politics/elections/new-jersey-race-tests-whether-a-blue-state-republican-can-embrace-trump-and-win-4a491a89"
   },
   {
     "score": 41,
@@ -35,38 +49,24 @@
     "link": "https://www.bbc.com/news/articles/ckg4q403rpzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-01-21-38-02 +0000",
-    "source": "wapo",
-    "headline": "Two additional suspects charged in Louvre jewel heist that shocked France",
-    "link": "https://www.washingtonpost.com/world/2025/11/01/suspects-louvre-jewel-heist/"
-  },
-  {
-    "score": 39,
-    "pubdate": "2025-11-02-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "Republican Jack Ciattarelli, locked in a tight race, isn’t running away from MAGA in his third bid to become the governor of blue New Jersey",
-    "link": "https://www.wsj.com/politics/elections/new-jersey-race-tests-whether-a-blue-state-republican-can-embrace-trump-and-win-4a491a89"
-  },
-  {
-    "score": 37,
+    "score": 40,
     "pubdate": "2025-11-02-00-19-33 +0000",
     "source": "wapo",
     "headline": "Trump threatens potential military action in Nigeria, says aid will cease",
     "link": "https://www.washingtonpost.com/world/2025/11/01/trump-nigeria-christians/"
   },
   {
-    "score": 34,
-    "pubdate": "2025-11-02-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: Payback? Power grab? Proposition 50 is California's political ink-blot test",
-    "link": "https://www.latimes.com/politics/story/2025-11-02/redistricting-california-proposition-50-voter-voices-inland-empire"
+    "score": 38,
+    "pubdate": "2025-11-02-13-51-27 +0000",
+    "source": "nypost",
+    "headline": "SNL lampoons Mamdani’s empty promises and appeal to ‘hot girl’ hipsters: ‘I know you got white guilt’",
+    "link": "https://nypost.com/2025/11/02/us-news/snl-lampoons-zohran-mamdanis-empty-promises-appeal-to-white-guilt/"
   },
   {
-    "score": 33,
-    "pubdate": "2025-11-02-03-25-50 +0000",
-    "source": "nypost",
-    "headline": "Hero old man saves girl from knife-wielding maniac during UK train attack — as victims prepped to fight back with Jack Daniels bottle",
-    "link": "https://nypost.com/2025/11/01/world-news/uk-train-stabbing-old-man-blocked-suspect-from-attacking-young-girl/"
+    "score": 34,
+    "pubdate": "2025-11-02-11-49-21 +0000",
+    "source": "nyt",
+    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html"
   }
 ]
