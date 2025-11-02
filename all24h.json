@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Mass Stabbing on Train to London Leaves Nine With Life-Threatening Injuries",
+    "link": "https://www.wsj.com/world/europe/mass-stabbing-on-train-to-london-leaves-nine-with-life-threatening-injuries-9e230f68",
+    "source": "wsj",
+    "pubdate": "2025-11-02-09-47-00 +0000"
+  },
+  {
+    "headline": "Stabbing on U.K. train leaves nine people with life-threatening injuries",
+    "link": "https://www.washingtonpost.com/world/2025/11/02/uk-train-stabbing-cambridgeshire/",
+    "source": "wapo",
+    "pubdate": "2025-11-02-09-35-56 +0000"
+  },
+  {
+    "headline": "US carries out new strike in Caribbean, killing 3 alleged drug smugglers",
+    "link": "https://nypost.com/2025/11/02/us-news/us-carries-out-new-strike-in-caribbean-killing-3-alleged-drug-smugglers/",
+    "source": "nypost",
+    "pubdate": "2025-11-02-09-24-49 +0000"
+  },
+  {
+    "headline": "Fire at shop in Mexico kills 23, officials say",
+    "link": "https://www.bbc.com/news/articles/c0mxxm49jggo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-09-13-14 +0000"
+  },
+  {
+    "headline": "Charismatic leader emerges on the left to roil Britain’s political scene",
+    "link": "https://www.washingtonpost.com/world/2025/11/02/zack-polanski-greens-uk-mamdani/",
+    "source": "wapo",
+    "pubdate": "2025-11-02-09-00-36 +0000"
+  },
+  {
+    "headline": "India and China restored direct flights. Can relations take off again?",
+    "link": "https://www.washingtonpost.com/world/2025/11/02/india-china-direct-flights-relations/",
+    "source": "wapo",
+    "pubdate": "2025-11-02-09-00-18 +0000"
+  },
+  {
+    "headline": "Andrew gives Charles his 'first genuine royal crisis' as King",
+    "link": "https://www.cbc.ca/news/world/andrew-losing-titles-king-charles-pope-zelenskyy-9.6962226?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-02-09-00-00 +0000"
+  },
+  {
+    "headline": "'Love makes you stronger': Mothers search for Mexico City's missing",
+    "link": "https://www.cbc.ca/news/world/mexico-missing-mothers-9.6961911?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-02-09-00-00 +0000"
+  },
+  {
+    "headline": "Pierre Poilievre won’t say if his Conservatives will strike down upcoming federal budget",
+    "link": "https://www.cbc.ca/news/politics/poilievre-conservatives-ndp-federal-budget-9.6963170?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-02-09-00-00 +0000"
+  },
+  {
+    "headline": "What’s going to be in Carney’s first budget?",
+    "link": "https://www.cbc.ca/news/politics/whats-in-carney-budget-9.6962818?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-02-09-00-00 +0000"
+  },
+  {
     "headline": "In a Dark Year, Los Angeles Basks in the Dodgers’ Glow",
     "link": "https://www.nytimes.com/2025/11/02/us/los-angeles-celebrates-dodgers.html",
     "source": "nyt",
@@ -36,10 +96,10 @@
     "pubdate": "2025-11-02-08-20-00 +0000"
   },
   {
-    "headline": "Fire at shop in Mexico kills 23, officials say",
-    "link": "https://www.bbc.com/news/articles/c0mxxm49jggo?at_medium=RSS&at_campaign=rss",
+    "headline": "I blew the whistle on a massive tax scam - and they sued me",
+    "link": "https://www.bbc.com/news/articles/c2kp19ed78wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-02-08-17-42 +0000"
+    "pubdate": "2025-11-02-08-20-00 +0000"
   },
   {
     "headline": "Fire in Hermosillo, Mexico, Kills at Least 23 at Waldo’s Store",
@@ -78,6 +138,12 @@
     "pubdate": "2025-11-02-06-07-07 +0000"
   },
   {
+    "headline": "Andrew fixed palace visit for firm with £1.4m deal with ex-wife",
+    "link": "https://www.bbc.com/news/articles/cy5q05v0q1xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-06-01-06 +0000"
+  },
+  {
     "headline": "Andrew fixed palace visit for crypto-mining firm which had £1.4m deal with ex-wife",
     "link": "https://www.bbc.com/news/articles/cy5q05v0q1xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -88,6 +154,12 @@
     "link": "https://48hills.org/2025/11/queer-activists-scare-the-state-at-ice-protest-on-halloween/",
     "source": "48hills",
     "pubdate": "2025-11-02-05-50-15 +0000"
+  },
+  {
+    "headline": "Mum of drug smuggler Bella Culley describes pregnant teen’s life inside Georgian prison",
+    "link": "https://www.bbc.com/news/articles/c62065ynx5xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-05-43-30 +0000"
   },
   {
     "headline": "Tracking the ICE tactics used in Trump's mass deportation drive",
@@ -432,6 +504,12 @@
     "pubdate": "2025-11-02-00-11-43 +0000"
   },
   {
+    "headline": "Military homes to be renovated in £9bn government plan",
+    "link": "https://www.bbc.com/news/articles/c6200r15lp1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-00-11-43 +0000"
+  },
+  {
     "headline": "Young Russians are being seduced by a cheap, dangerous weight-loss pill called Molecule",
     "link": "https://www.bbc.com/news/articles/c201xe61x0lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -670,12 +748,6 @@
     "link": "https://nypost.com/2025/11/01/us-news/nj-dem-boss-leroy-jones-admits-new-jersey-is-a-battleground-state-while-stumping-with-mikie-sherrill/",
     "source": "nypost",
     "pubdate": "2025-11-01-21-04-33 +0000"
-  },
-  {
-    "headline": "House Republicans exploring ways to prevent Mamdani from being sworn in as NYC mayor if he wins on Election Day",
-    "link": "https://nypost.com/2025/11/01/us-news/house-republicans-latest-push-to-keep-mandani-out-of-office/",
-    "source": "nypost",
-    "pubdate": "2025-11-01-20-55-31 +0000"
   },
   {
     "headline": "House Republicans exploring ways to prevent Mamdani from being sworn in as NYC mayor if he wins on Election Day",
@@ -1312,173 +1384,5 @@
     "link": "https://www.washingtonpost.com/business/2025/11/01/shutdown-hits-federal-employees/",
     "source": "wapo",
     "pubdate": "2025-11-01-10-00-00 +0000"
-  },
-  {
-    "headline": "What to Know About the New York City Mayoral Election",
-    "link": "https://www.wsj.com/politics/elections/nyc-mayoral-election-explained-9f38f5f2",
-    "source": "wsj",
-    "pubdate": "2025-11-01-09-30-00 +0000"
-  },
-  {
-    "headline": "NYC’s mayoral election is on Tuesday: Here’s what New Yorkers need to know",
-    "link": "https://www.wsj.com/politics/elections/nyc-mayoral-election-explained-9f38f5f2",
-    "source": "wsj",
-    "pubdate": "2025-11-01-09-30-00 +0000"
-  },
-  {
-    "headline": "Egypt unveils world’s largest museum dedicated to a single civilization",
-    "link": "https://nypost.com/2025/11/01/world-news/egypt-opens-grand-egyptian-museum-worlds-largest-museum-dedicated-to-single-civilization/",
-    "source": "nypost",
-    "pubdate": "2025-11-01-09-28-18 +0000"
-  },
-  {
-    "headline": "Watch: Heidi Klum slithers into Halloween as Medusa",
-    "link": "https://www.bbc.com/news/videos/c8911dwekdno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-09-27-11 +0000"
-  },
-  {
-    "headline": "Watch: Heidi Klum slithers into Halloween as Medusa",
-    "link": "https://www.bbc.com/news/videos/c8911dwekdno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-09-27-11 +0000"
-  },
-  {
-    "headline": "Far Right Targets Similarities Between Zohran Mamdani and Sadiq Khan",
-    "link": "https://www.nytimes.com/2025/11/01/world/europe/nyc-mamdani-london-mayor-sadiq-khan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-17-35 +0000"
-  },
-  {
-    "headline": "Far Right Targets Similarities Between Zohran Mamdani and Sadiq Khan",
-    "link": "https://www.nytimes.com/2025/11/01/world/europe/nyc-mamdani-london-mayor-sadiq-khan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-17-35 +0000"
-  },
-  {
-    "headline": "Far Right Targets Similarities Between Zohran Mamdani and Sadiq Khan",
-    "link": "https://www.nytimes.com/2025/11/01/world/europe/nyc-mamdani-london-mayor-sadiq-khan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-17-35 +0000"
-  },
-  {
-    "headline": "Warm welcome spaces return to Surrey this winter",
-    "link": "https://www.bbc.com/news/articles/cwykkxnlykro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-09-05-07 +0000"
-  },
-  {
-    "headline": "There’s a New Work Friend in Town",
-    "link": "https://www.nytimes.com/2025/11/01/business/theres-a-new-work-friend-in-town.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-03-17 +0000"
-  },
-  {
-    "headline": "Trump’s Team Offers to Keep Some Ballroom Donors Incognito",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trumps-team-offers-to-keep-some-ballroom-donors-incognito.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-22 +0000"
-  },
-  {
-    "headline": "Trump’s Team Offers to Keep Some Ballroom Donors Incognito",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trumps-team-offers-to-keep-some-ballroom-donors-incognito.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-22 +0000"
-  },
-  {
-    "headline": "Fed Governor Defends Call for Big Rate Cuts",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/steven-miran-interview-transcript.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-12 +0000"
-  },
-  {
-    "headline": "Fed Governor Defends Call for Big Rate Cuts",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/steven-miran-interview-transcript.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-12 +0000"
-  },
-  {
-    "headline": "Fed Governor Defends Call for Big Rate Cuts",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/steven-miran-interview-transcript.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-12 +0000"
-  },
-  {
-    "headline": "Shutdowns, Obamacare and the Risks of Bargaining for Policy Wins in a Crisis",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/shutdowns-obamacare-republicans-democrats.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-09 +0000"
-  },
-  {
-    "headline": "Shutdowns, Obamacare and the Risks of Bargaining for Policy Wins in a Crisis",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/shutdowns-obamacare-republicans-democrats.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-09 +0000"
-  },
-  {
-    "headline": "How to Shop for Obamacare When Subsidies Are in Limbo",
-    "link": "https://www.nytimes.com/2025/11/01/health/aca-obamacare-enrollment-health-insurance.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-03 +0000"
-  },
-  {
-    "headline": "How to Shop for Obamacare When Subsidies Are in Limbo",
-    "link": "https://www.nytimes.com/2025/11/01/health/aca-obamacare-enrollment-health-insurance.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-02-03 +0000"
-  },
-  {
-    "headline": "E.P.A. Retreats From Plans to End the Energy Star Program",
-    "link": "https://www.nytimes.com/2025/11/01/climate/epa-energy-star-program.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-01-40 +0000"
-  },
-  {
-    "headline": "Miami Has a Mayoral Election. Bring On the Drama.",
-    "link": "https://www.nytimes.com/2025/11/01/us/miami-mayor-election.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-00-47 +0000"
-  },
-  {
-    "headline": "Why Medicare Recipients Should Check Their 2026 Drug Plans Now",
-    "link": "https://www.nytimes.com/2025/11/01/business/medicare-drugs-part-d.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-00-46 +0000"
-  },
-  {
-    "headline": "Under Trump, Becoming a U.S. Citizen Gets Harder",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-citizenship.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-00-40 +0000"
-  },
-  {
-    "headline": "Under Trump, Becoming a U.S. Citizen Gets Harder",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-citizenship.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-00-40 +0000"
-  },
-  {
-    "headline": "Working Past 100? In Japan, Some People Never Quit.",
-    "link": "https://www.nytimes.com/2025/11/01/world/asia/japan-work-job-retirement-centenarian.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-00-20 +0000"
-  },
-  {
-    "headline": "Working Past 100? In Japan, Some People Never Quit.",
-    "link": "https://www.nytimes.com/2025/11/01/world/asia/japan-work-job-retirement-centenarian.html",
-    "source": "nyt",
-    "pubdate": "2025-11-01-09-00-20 +0000"
-  },
-  {
-    "headline": "Families shot down, held at ransom as they flee Darfur’s killing fields",
-    "link": "https://www.washingtonpost.com/world/2025/11/01/sudan-darfur-el-fashir-rsf-genocide/",
-    "source": "wapo",
-    "pubdate": "2025-11-01-09-00-02 +0000"
-  },
-  {
-    "headline": "The nation’s largest employers are putting their workers on notice",
-    "link": "https://www.washingtonpost.com/business/2025/11/01/layoffs-workers-ai-amazon-walmart/",
-    "source": "wapo",
-    "pubdate": "2025-11-01-09-00-00 +0000"
   }
 ]
