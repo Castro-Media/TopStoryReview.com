@@ -1,13 +1,20 @@
 [
   {
-    "score": 97,
+    "score": 101,
     "pubdate": "2025-11-02-11-26-41 +0000",
     "source": "nypost",
     "headline": "White House unveils details of ‘historic’ trade agreement with China following Trump-Xi meeting",
     "link": "https://nypost.com/2025/11/02/us-news/donald-trump-us-china-trade-agreement-details-released-by-white-house/"
   },
   {
-    "score": 59,
+    "score": 69,
+    "pubdate": "2025-11-02-16-11-31 +0000",
+    "source": "bbc",
+    "headline": "'No help, no food, no water': hurricane-hit Jamaican towns desperately wait for aid",
+    "link": "https://www.bbc.com/news/articles/cpv11w8ez10o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 61,
     "pubdate": "2025-11-02-14-11-04 +0000",
     "source": "nypost",
     "headline": "UK pol tells country to ‘get on with your lives’ after train mass stabbing — as tearful mayor calls attack a ‘horror movie’",
@@ -15,58 +22,51 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-11-02-10-01-37 +0000",
+    "pubdate": "2025-11-02-17-41-11 +0000",
     "source": "nyt",
-    "headline": "To Celebrate Day of the Dead, One Mexican Town Digs Up Its Dead",
-    "link": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html"
+    "headline": "Latest U.S. Military Boat Strike in Caribbean Sea Kills 3, Pete Hegseth Says",
+    "link": "https://www.nytimes.com/2025/11/02/us/politics/us-boat-strike-caribbean.html"
   },
   {
     "score": 47,
-    "pubdate": "2025-11-02-11-52-36 +0000",
-    "source": "nypost",
-    "headline": "Two Louvre heist suspects had prior theft conviction together, Paris prosecutor says",
-    "link": "https://nypost.com/2025/11/02/world-news/louvre-heist-suspects-had-prior-theft-convictions-together/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-01-21-18-52 +0000",
+    "pubdate": "2025-11-02-17-28-56 +0000",
     "source": "nyt",
-    "headline": "Trump Administration Must Make Food Stamp Payments Within Days, Judge Says",
-    "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-food-stamp-payments.html"
+    "headline": "For Day of the Dead, One Mexican Town Digs Up Its Dead",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-02-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "Republican Jack Ciattarelli, locked in a tight race, isn’t running away from MAGA in his third bid to become the governor of blue New Jersey",
-    "link": "https://www.wsj.com/politics/elections/new-jersey-race-tests-whether-a-blue-state-republican-can-embrace-trump-and-win-4a491a89"
-  },
-  {
-    "score": 42,
+    "score": 46,
     "pubdate": "2025-11-01-18-39-38 +0000",
     "source": "bbc",
     "headline": "Egypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time",
     "link": "https://www.bbc.com/news/articles/ckg4q403rpzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 40,
-    "pubdate": "2025-11-02-00-19-33 +0000",
-    "source": "wapo",
-    "headline": "Trump threatens potential military action in Nigeria, says aid will cease",
-    "link": "https://www.washingtonpost.com/world/2025/11/01/trump-nigeria-christians/"
+    "score": 46,
+    "pubdate": "2025-11-02-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Republican Jack Ciattarelli, locked in a tight race, isn’t running away from MAGA in his third bid to become the governor of blue New Jersey",
+    "link": "https://www.wsj.com/politics/elections/new-jersey-race-tests-whether-a-blue-state-republican-can-embrace-trump-and-win-4a491a89"
   },
   {
-    "score": 39,
-    "pubdate": "2025-11-02-15-49-03 +0000",
-    "source": "bbc",
-    "headline": "Three killed in latest US strike on alleged drug boat in Caribbean",
-    "link": "https://www.bbc.com/news/articles/cn401vzjx48o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-11-02-01-39-48 +0000",
+    "score": 44,
+    "pubdate": "2025-11-02-11-52-36 +0000",
     "source": "nypost",
-    "headline": "Cuomo praises Adams plan to hire 5K more NYPD cops and blasts Mamdani as ‘against’ the police",
-    "link": "https://nypost.com/2025/11/01/us-news/cuomo-praises-adams-plan-to-hire-5k-more-nypd-cops/"
+    "headline": "Two Louvre heist suspects had prior theft conviction together, Paris prosecutor says",
+    "link": "https://nypost.com/2025/11/02/world-news/louvre-heist-suspects-had-prior-theft-convictions-together/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-11-02-16-46-09 +0000",
+    "source": "nypost",
+    "headline": "House Dem leader rails that Mamdani isn’t future of party — days after endorsing him",
+    "link": "https://nypost.com/2025/11/02/us-news/house-dem-leader-rails-that-mamdani-isnt-future-of-party-days-after-endorsing-him/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-11-02-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "As Californians decide fate of Prop. 50, GOP states push their own redistricting plans",
+    "link": "https://www.latimes.com/politics/story/2025-11-02/california-proposition-50-redistricting-newsom-trump-other-states"
   }
 ]
