@@ -1,16 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-11-02-12-55-32 +0000",
-    "source": "nyt",
-    "headline": "Meet Your News Friend, the New Host of The Morning",
-    "link": "https://www.nytimes.com/2025/11/02/world/02themorning-meet-sam-sifton.html"
+    "score": 28,
+    "pubdate": "2025-11-02-14-37-32 +0000",
+    "source": "bbc",
+    "headline": "Shein accused of selling childlike sex dolls in France",
+    "link": "https://www.bbc.com/news/articles/c4gjjyvg1nqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2025-11-02-12-54-37 +0000",
+    "score": 24,
+    "pubdate": "2025-11-02-14-10-08 +0000",
+    "source": "bbc",
+    "headline": "Trump tells military to prepare for 'action' against Islamist militants in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-11-02-14-26-06 +0000",
+    "source": "nypost",
+    "headline": "UK train mass stabbing suspect screams ‘kill me, kill me’ as cops arrest him in dramatic video",
+    "link": "https://nypost.com/2025/11/02/world-news/uk-train-mass-stabbing-suspect-screams-kill-me-kill-me-as-cops-arrest-him-in-dramatic-video/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-02-14-42-55 +0000",
+    "source": "bbc",
+    "headline": "China to ease chip export ban in new trade deal, White House says",
+    "link": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-02-14-36-35 +0000",
     "source": "nyt",
-    "headline": "The New Host of The Morning",
-    "link": "https://www.nytimes.com/2025/11/02/world/sam-sifton-new-york-city-marathon-dodgers.html"
+    "headline": "Juan Ramón Matta Ballesteros, 80, Dies; Cartel Kingpin Fed Cocaine Boom",
+    "link": "https://www.nytimes.com/2025/11/01/world/americas/juan-ramon-matta-ballesteros-dead.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-02-14-51-57 +0000",
+    "source": "nyt",
+    "headline": "At least 3 people are killed in the latest U.S. strike on a boat in the Caribbean Sea, Hegseth says.",
+    "link": "https://www.nytimes.com/live/2025/11/02/us/trump-news/at-least-3-people-are-killed-in-the-latest-us-strike-on-a-boat-in-the-caribbean-sea-hegseth-says"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-02-14-48-24 +0000",
+    "source": "nypost",
+    "headline": "Trump wants to use emergency funds for SNAP food benefits, but wants clarity from courts first, Bessent says",
+    "link": "https://nypost.com/2025/11/02/us-news/trump-mulling-emergency-funds-for-snap-food-benefits-bessent/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-02-14-11-04 +0000",
+    "source": "nypost",
+    "headline": "UK pol tells country to ‘get on with your lives’ after train mass stabbing — as tearful mayor calls attack a ‘horror movie’",
+    "link": "https://nypost.com/2025/11/02/world-news/uk-pol-tells-country-carry-on-with-your-lives-after-train-mass-stabbing/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-02-14-02-30 +0000",
+    "source": "nypost",
+    "headline": "2025 NYC Marathon: Thousands of runners assemble as the Big Apple’s biggest race kicks off",
+    "link": "https://nypost.com/2025/11/02/us-news/2025-nyc-marathon-thousands-of-runners-assemble-for-the-big-apple-race/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-02-14-00-00 +0000",
+    "source": "startribune",
+    "headline": "U of M researchers launch smoke-sensing drones that one day could fight wildfires",
+    "link": "https://www.startribune.com/u-of-m-researchers-launch-smoke-sensing-drones-that-one-day-could-fight-wildfires/601475987"
   }
 ]
