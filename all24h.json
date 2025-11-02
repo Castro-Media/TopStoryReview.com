@@ -1,5 +1,11 @@
 [
   {
+    "headline": "Gunman Kills Mayor Who Wanted Police to Target Mexico’s Drug Gangs",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/manzo-mayor-mexico-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-11-02-06-48-40 +0000"
+  },
+  {
     "headline": "Fire in Hermosillo, Mexico, Kills at Least 23 at Waldo’s Store",
     "link": "https://www.nytimes.com/2025/11/01/world/americas/mexico-fire-hermosillo-sonora.html",
     "source": "nyt",
@@ -10,6 +16,12 @@
     "link": "https://www.nytimes.com/2025/11/01/world/americas/mexico-fire-hermosillo-sonora.html",
     "source": "nyt",
     "pubdate": "2025-11-02-06-31-35 +0000"
+  },
+  {
+    "headline": "Britons evacuated from Jamaica as UK sends Hurricane Melissa aid",
+    "link": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-02-06-07-07 +0000"
   },
   {
     "headline": "Queer activists ‘Scare the State’ at ICE protest on Halloween",
@@ -630,7 +642,7 @@
     "pubdate": "2025-11-01-20-47-41 +0000"
   },
   {
-    "headline": "US judges say Trump administration must continue food aid during shutdown",
+    "headline": "Trump administration must continue food aid during shutdown, US judges say",
     "link": "https://www.bbc.com/news/articles/cr433x9zqq4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-01-20-44-56 +0000"
@@ -808,12 +820,6 @@
     "link": "https://www.cbc.ca/news/world/louvre-jewels-heist-suspects-charged-9.6963239?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-01-18-20-46 +0000"
-  },
-  {
-    "headline": "Britons to be evacuated from Jamaica as UK sends Hurricane Melissa aid",
-    "link": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-01-17-06-11 +0000"
   },
   {
     "headline": "Marwan Barghouti’s family urges Trump to free high-profile Palestinian prisoner",
@@ -1498,11 +1504,5 @@
     "link": "https://www.washingtonpost.com/world/2025/10/31/tanzania-election-protests-dead-injured/",
     "source": "wapo",
     "pubdate": "2025-11-01-07-04-29 +0000"
-  },
-  {
-    "headline": "What we know about the Poseidon, Russia’s new super torpedo",
-    "link": "https://www.washingtonpost.com/world/2025/11/01/russia-poseidon-skyfall-super-torpedo-tsunami/",
-    "source": "wapo",
-    "pubdate": "2025-11-01-06-00-21 +0000"
   }
 ]
