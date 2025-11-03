@@ -1,38 +1,31 @@
 [
   {
-    "score": 111,
+    "score": 113,
     "pubdate": "2025-11-03-02-20-39 +0000",
     "source": "nypost",
     "headline": "Trump talks NYC mayoral race, government shutdown and nuclear weapons in tense ‘60 Minutes’ return",
     "link": "https://nypost.com/2025/11/02/us-news/trump-talks-nyc-mayoral-race-government-shutdown-and-nuclear-weapons-in-tense-60-minutes-return/"
   },
   {
-    "score": 63,
-    "pubdate": "2025-11-03-07-14-02 +0000",
-    "source": "bbc",
-    "headline": "China to ease chip export ban in new trade deal, White House says",
-    "link": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 62,
+    "score": 64,
     "pubdate": "2025-11-02-16-11-31 +0000",
     "source": "bbc",
     "headline": "'No help, no food, no water': Hurricane-hit Jamaican towns desperately wait for aid",
     "link": "https://www.bbc.com/news/articles/cpv11w8ez10o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
-    "pubdate": "2025-11-02-14-11-04 +0000",
-    "source": "nypost",
-    "headline": "UK pol tells country to ‘get on with your lives’ after train mass stabbing — as tearful mayor calls attack a ‘horror movie’",
-    "link": "https://nypost.com/2025/11/02/world-news/uk-pol-tells-country-carry-on-with-your-lives-after-train-mass-stabbing/"
-  },
-  {
-    "score": 57,
+    "score": 60,
     "pubdate": "2025-11-03-01-13-26 +0000",
     "source": "bbc",
     "headline": "Trump tariffs head to Supreme Court in case eagerly awaited around the world",
     "link": "https://www.bbc.com/news/articles/cn4jyk9jyv3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-11-02-14-11-04 +0000",
+    "source": "nypost",
+    "headline": "UK pol tells country to ‘get on with your lives’ after train mass stabbing — as tearful mayor calls attack a ‘horror movie’",
+    "link": "https://nypost.com/2025/11/02/world-news/uk-pol-tells-country-carry-on-with-your-lives-after-train-mass-stabbing/"
   },
   {
     "score": 54,
@@ -42,31 +35,38 @@
     "link": "https://www.wsj.com/politics/national-security/white-house-says-congressional-approval-not-needed-for-lethal-boat-strikes-3dc4af03"
   },
   {
-    "score": 50,
-    "pubdate": "2025-11-03-07-09-13 +0000",
+    "score": 53,
+    "pubdate": "2025-11-03-07-14-02 +0000",
+    "source": "bbc",
+    "headline": "China to ease chip export ban in new trade deal, White House says",
+    "link": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-11-03-11-55-09 +0000",
     "source": "bbc",
     "headline": "Trump says he doubts US will go to war with Venezuela",
     "link": "https://www.bbc.com/news/articles/c709rwxzx9yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-02-21-53-56 +0000",
-    "source": "nyt",
-    "headline": "Syria’s President to Visit Washington for First Time Since Taking Power",
-    "link": "https://www.nytimes.com/2025/11/02/us/politics/syrian-president-al-shara-washington-visit.html"
-  },
-  {
-    "score": 41,
+    "score": 45,
     "pubdate": "2025-11-02-21-52-09 +0000",
     "source": "nyt",
     "headline": "For Day of the Dead, One Mexican Town Digs Up Its Dead",
     "link": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html"
   },
   {
-    "score": 38,
-    "pubdate": "2025-11-02-23-26-37 +0000",
+    "score": 40,
+    "pubdate": "2025-11-03-11-00-00 +0000",
     "source": "nypost",
-    "headline": "UK ex-Labour Party leader Jeremy Corbyn, accused of antisemitism, mans the phones for Zohran Mamdani",
-    "link": "https://nypost.com/2025/11/02/us-news/uk-ex-labour-party-leader-jeremy-corbyn-accused-of-antisemitism-mans-the-phones-for-zohran-mamdani/"
+    "headline": "Amtrak boss blames MTA’s ‘wounded pride’ as transit agency claims major Penn Station project delays",
+    "link": "https://nypost.com/2025/11/03/us-news/amtrak-boss-blames-mtas-wounded-pride-as-transit-agency-claims-major-penn-station-project-delays/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-11-02-21-53-56 +0000",
+    "source": "nyt",
+    "headline": "Syria’s President to Visit Washington for First Time Since Taking Power",
+    "link": "https://www.nytimes.com/2025/11/02/us/politics/syrian-president-al-shara-washington-visit.html"
   }
 ]
