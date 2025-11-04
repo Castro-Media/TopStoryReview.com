@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 31,
+    "pubdate": "2025-11-04-05-09-18 +0000",
+    "source": "bbc",
+    "headline": "Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins",
+    "link": "https://www.bbc.com/news/articles/c231e284345o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-11-04-05-00-11 +0000",
+    "source": "nyt",
+    "headline": "This Trillionaire Economy Thrived in a Global Order Trump Is Ditching",
+    "link": "https://www.nytimes.com/2025/11/04/business/poland-economy.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-04-05-45-58 +0000",
+    "source": "nypost",
+    "headline": "Coral Expeditions cuts short 60-day cruise around Australia after allegedly leaving elderly passenger to die on island",
+    "link": "https://nypost.com/2025/11/04/world-news/coral-expeditions-cancels-60-day-cruise-around-australia-after-elderly-passenger-left-to-die-on-island/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-04-05-01-06 +0000",
+    "source": "nyt",
+    "headline": "The First Big Elections of the New Trump Era Are Today. Here’s What to Look For.",
+    "link": "https://www.nytimes.com/2025/11/04/us/politics/elections-new-york-new-jersey-virginia.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-04-05-46-25 +0000",
+    "source": "startribune",
+    "headline": "Scoggins: Tougher tests to come, but Game 1 for Gophers under Niko Medved is a rousing success",
+    "link": "https://www.startribune.com/scoggins-tougher-tests-to-come-but-game-1-for-gophers-under-niko-medved-is-a-rousing-success/601513199"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-04-05-40-58 +0000",
+    "source": "startribune",
+    "headline": "Takeaways: Timberwolves pull away in fourth quarter against winless Nets",
+    "link": "https://www.startribune.com/takeaways-timberwolves-pull-away-in-fourth-quarter-against-winless-nets/601515222"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-04-05-40-43 +0000",
+    "source": "startribune",
+    "headline": "Souhan: J.J. McCarthy breathes life into a stale Vikings season",
+    "link": "https://www.startribune.com/souhan-jj-mccarthy-breathes-life-into-a-stale-vikings-season/601448677"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-11-04-04-59-31 +0000",
+    "source": "nyt",
+    "headline": "George Banks, Convicted Mass Murderer, Dies at 83",
+    "link": "https://www.nytimes.com/2025/11/03/us/george-banks-dead.html"
+  },
+  {
+    "score": 3,
+    "pubdate": "2025-11-04-05-33-01 +0000",
+    "source": "nyt",
+    "headline": "A Big Moment for Women in India",
+    "link": "https://www.nytimes.com/2025/11/03/world/cricket-women-india-new-york-zohran-mamdani-bangkok.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-04-05-09-18 +0000",
+    "source": "bbc",
+    "headline": "Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins",
+    "link": "https://www.bbc.com/news/articles/c231e284345o?at_medium=RSS&at_campaign=rss"
+  }
+]
