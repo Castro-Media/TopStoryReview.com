@@ -1,20 +1,20 @@
 [
   {
-    "score": 176,
+    "score": 180,
     "pubdate": "2025-11-03-22-40-36 +0000",
     "source": "nypost",
     "headline": "Trump tells New York ‘you must vote’ for Andrew Cuomo over Zohran Mamdani in NYC election — and ditch Curtis Sliwa",
     "link": "https://nypost.com/2025/11/03/us-news/trump-tells-new-york-you-must-vote-for-andrew-cuomo-over-zohran-mamdani-in-nyc-election-and-ditch-curtis-sliwa/"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2025-11-03-09-49-00 +0000",
     "source": "wsj",
     "headline": "Trump Says Xi Will Help Fight Fentanyl. Will China Follow Through?",
     "link": "https://www.wsj.com/world/trump-says-xi-will-help-fight-fentanyl-will-china-follow-through-2462622a"
   },
   {
-    "score": 59,
+    "score": 64,
     "pubdate": "2025-11-03-15-44-45 +0000",
     "source": "nypost",
     "headline": "Kimberly-Clark buys Tylenol maker Kenvue in a cash and stock deal for $48.7 billion",
@@ -22,17 +22,17 @@
   },
   {
     "score": 57,
-    "pubdate": "2025-11-03-15-09-25 +0000",
-    "source": "bbc",
-    "headline": "Israeli military's ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse",
-    "link": "https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
     "pubdate": "2025-11-03-20-07-00 +0000",
     "source": "wsj",
     "headline": "The U.S. said it would use emergency funds to pay partial benefits under the federal food assistance program for November, but warned the process could result in delays in some states",
     "link": "https://www.wsj.com/politics/policy/u-s-to-pay-partial-snap-benefits-during-shutdown-ed39be0d"
+  },
+  {
+    "score": 56,
+    "pubdate": "2025-11-03-15-09-25 +0000",
+    "source": "bbc",
+    "headline": "Israeli military's ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse",
+    "link": "https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 53,
@@ -43,13 +43,6 @@
   },
   {
     "score": 50,
-    "pubdate": "2025-11-03-04-25-38 +0000",
-    "source": "nyt",
-    "headline": "On ‘60 Minutes,’ Trump Says War With Venezuela Is Unlikely but Suggests Maduro’s Time Is Up",
-    "link": "https://www.nytimes.com/2025/11/02/us/politics/trump-venezuela-shutdown-nuclear.html"
-  },
-  {
-    "score": 49,
     "pubdate": "2025-11-03-15-23-21 +0000",
     "source": "nypost",
     "headline": "Chilling video shows UK mass train stabbing suspect storm into barbershop with huge knife — one day before rampage",
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "Federal Reserve governor Lisa Cook said she supported last week’s decision to cut interest rates because she thought weaker-than-expected job-market conditions remained a greater risk than persistent inflation",
     "link": "https://www.wsj.com/economy/central-banking/embattled-fed-governor-lisa-cook-voices-support-for-recent-rate-cut-1b006d8e"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-11-03-17-56-37 +0000",
+    "source": "cbc",
+    "headline": "Justin Baldoni’s legal case against Blake Lively formally closed by judge after missed deadline",
+    "link": "https://www.cbc.ca/news/entertainment/justin-baldoni-lawsuit-blake-lively-dismissed-9.6964712?cmp=rss"
   }
 ]
