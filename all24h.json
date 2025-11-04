@@ -1,5 +1,83 @@
 [
   {
+    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-02-02-49 +0000"
+  },
+  {
+    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-02-02-49 +0000"
+  },
+  {
+    "headline": "What Happened When Small-Town America Became Data-Center, U.S.A.",
+    "link": "https://www.wsj.com/us-news/what-happened-when-small-town-america-became-data-center-u-s-a-410f25e9",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "What Happened When Small-Town America Became Data-Center, U.S.A.",
+    "link": "https://www.wsj.com/us-news/what-happened-when-small-town-america-became-data-center-u-s-a-410f25e9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "Wall Street Intensifies Scrutiny of Fraud After Spate of Loan Losses",
+    "link": "https://www.wsj.com/finance/investing/wall-street-intensifies-scrutiny-of-fraud-after-spate-of-loan-losses-0397bc55?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "Some Tuesday elections will test whether Trump’s low economic ratings can help Democrats make the case that they have the better plans to lower the cost of living",
+    "link": "https://www.wsj.com/politics/elections/divided-democrats-hope-attacking-the-trump-economy-unites-party-c98b5cec",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "Andrew Cuomo backed by NYC Satmar Hasidic community after rabbi issues ‘unauthorized’ Zohran Mamdani endorsement",
+    "link": "https://nypost.com/2025/11/03/us-news/andrew-cuomo-backed-by-nyc-satmar-hasidic-community-after-rabbi-issues-unauthorized-zohran-mamdani-endorsement/",
+    "source": "nypost",
+    "pubdate": "2025-11-04-01-56-30 +0000"
+  },
+  {
+    "headline": "Andrew Cuomo backed by NYC Satmar Hasidic community after rabbi issues ‘unauthorized’ Zohran Mamdani endorsement",
+    "link": "https://nypost.com/2025/11/03/us-news/andrew-cuomo-backed-by-nyc-satmar-hasidic-community-after-rabbi-issues-unauthorized-zohran-mamdani-endorsement/",
+    "source": "nypost",
+    "pubdate": "2025-11-04-01-56-30 +0000"
+  },
+  {
+    "headline": "Trump Doubles Down on Nuclear Tests. His Energy Secretary Differs.",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/trump-nuclear-tests-energy-secretary.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-01-48-21 +0000"
+  },
+  {
+    "headline": "Trump Doubles Down on Nuclear Tests. His Energy Secretary Differs.",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/trump-nuclear-tests-energy-secretary.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-01-48-21 +0000"
+  },
+  {
+    "headline": "Starbucks to Sell 60% of Its China Business to a Private Equity Firm",
+    "link": "https://www.nytimes.com/2025/11/03/business/starbucks-china-boyu-capital.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-01-39-07 +0000"
+  },
+  {
+    "headline": "Brazen pair robs NYPD cadet, girlfriend at gunpoint in NYC stick-up: cops, sources",
+    "link": "https://nypost.com/2025/11/03/us-news/brazen-pair-robs-nypd-cadet-girlfriend-at-gunpoint-in-nyc-stick-up-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2025-11-04-01-39-06 +0000"
+  },
+  {
+    "headline": "South Korea’s Inflation Accelerated in October",
+    "link": "https://www.wsj.com/economy/south-koreas-inflation-accelerated-in-october-a396ec83",
+    "source": "wsj",
+    "pubdate": "2025-11-04-01-32-00 +0000"
+  },
+  {
     "headline": "Worker dies after partial collapse of medieval tower in Rome",
     "link": "https://www.bbc.com/news/articles/ce3kz7jxe0po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -10,6 +88,12 @@
     "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-supply-concerns-85a6bf8a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-04-01-10-00 +0000"
+  },
+  {
+    "headline": "Baby Emmanuel's father sentenced to 25 years to life for murdering infant",
+    "link": "https://www.latimes.com/california/story/2025-11-03/baby-emmanuel-father-sentenced-murder-25-years-to-life",
+    "source": "latimes",
+    "pubdate": "2025-11-04-01-08-09 +0000"
   },
   {
     "headline": "Halloween ‘hoax’ sparked by 9-year-old who planted needle in their own candy: cops",
@@ -118,12 +202,6 @@
     "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-across-u-s-treasurys-741c41c9?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-04-00-21-00 +0000"
-  },
-  {
-    "headline": "Starbucks to Sell 60% of Its China Business to a Private Equity Firm",
-    "link": "https://www.nytimes.com/2025/11/03/business/starbucks-china-boyu-capital.html",
-    "source": "nyt",
-    "pubdate": "2025-11-04-00-18-33 +0000"
   },
   {
     "headline": "After Hurricane Melissa, a Seaside Town in Jamaica Picks Up the Pieces",
@@ -286,18 +364,6 @@
     "link": "https://nypost.com/2025/11/03/us-news/bbc-materially-misled-viewers-by-deceptively-editing-trump-jan-6-speech-for-documentary-whistleblower/",
     "source": "nypost",
     "pubdate": "2025-11-03-23-45-52 +0000"
-  },
-  {
-    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
-    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
-    "source": "nyt",
-    "pubdate": "2025-11-03-23-45-43 +0000"
-  },
-  {
-    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
-    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
-    "source": "nyt",
-    "pubdate": "2025-11-03-23-45-43 +0000"
   },
   {
     "headline": "The Battle Over an Activist Who Protested Stephen Miller Near His Virginia Home",
@@ -612,7 +678,7 @@
     "pubdate": "2025-11-03-21-54-29 +0000"
   },
   {
-    "headline": "S.F. residents tell stories about loved ones at the Festival of the Altars",
+    "headline": "Meet some of the deceased honored in San Francisco’s Day of the Dead",
     "link": "https://missionlocal.org/2025/11/s-f-residents-tell-stories-about-loved-ones-at-the-festival-of-the-altars/",
     "source": "missionlocal",
     "pubdate": "2025-11-03-21-53-49 +0000"
@@ -645,7 +711,7 @@
     "headline": "Jon Stewart Signs Extension for ‘Daily Show’ Through 2026",
     "link": "https://www.nytimes.com/2025/11/03/business/media/jon-stewart-daily-show-extension.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-21-40-47 +0000"
+    "pubdate": "2025-11-03-21-40-48 +0000"
   },
   {
     "headline": "Vanity Fair chief Mark Guiducci instructed staff to go easy on ex-Prince Andrew’s daughters due to his friendship with them: report",
@@ -694,18 +760,6 @@
     "link": "https://nypost.com/2025/11/03/us-news/jay-jones-takes-shocking-lead-in-virginia-ag-race-despite-violent-texts-abigail-spanberger-still-frontrunner-for-gov-poll/",
     "source": "nypost",
     "pubdate": "2025-11-03-21-32-20 +0000"
-  },
-  {
-    "headline": "Jay Jones takes shocking lead in Virginia AG race despite violent texts — Abigail Spanberger still frontrunner for gov: poll",
-    "link": "https://nypost.com/2025/11/03/us-news/jay-jones-takes-shocking-lead-in-virginia-ag-race-despite-violent-texts-abigail-spanberger-still-frontrunner-for-gov-poll/",
-    "source": "nypost",
-    "pubdate": "2025-11-03-21-32-20 +0000"
-  },
-  {
-    "headline": "Follow The Post and 2Way for live coverage of election night",
-    "link": "https://nypost.com/2025/11/03/us-news/follow-the-post-and-2way-for-live-coverage-of-election-night/",
-    "source": "nypost",
-    "pubdate": "2025-11-03-21-31-48 +0000"
   },
   {
     "headline": "Hillsborough victims failed by the state, says PM",
@@ -780,6 +834,12 @@
     "pubdate": "2025-11-03-20-52-37 +0000"
   },
   {
+    "headline": "Photos show enduring legacy of Mission’s Día de los Muertos procession",
+    "link": "https://eltecolote.org/content/en/dia-de-muertos-sf-mission-procession-2025/",
+    "source": "eltecolote",
+    "pubdate": "2025-11-03-20-50-19 +0000"
+  },
+  {
     "headline": "U.S. Natural Gas Extends Gains on Weather Outlook",
     "link": "https://www.wsj.com/articles/european-gas-rises-with-inventories-below-last-years-levels-3b99d8bf?mod=rss_markets_main",
     "source": "wsj",
@@ -819,13 +879,13 @@
     "headline": "U.K. Police Investigate Possible Link Between Train Attack and Stabbing of 14-Year-Old",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/uk-train-stabbing-knife-attack.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-33-16 +0000"
+    "pubdate": "2025-11-03-20-33-17 +0000"
   },
   {
     "headline": "U.K. Police Investigate Possible Link Between Train Attack and Stabbing of 14-Year-Old",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/uk-train-stabbing-knife-attack.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-33-16 +0000"
+    "pubdate": "2025-11-03-20-33-17 +0000"
   },
   {
     "headline": "Jamaicans rush to ready island for busy tourism season in wake of Hurricane Melissa",
@@ -837,13 +897,13 @@
     "headline": "France Threatens to Ban Shein Over Sale of ‘Childlike’ Sex Dolls",
     "link": "https://www.nytimes.com/2025/11/03/business/shein-france-sex-dolls.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-25-08 +0000"
+    "pubdate": "2025-11-03-20-25-09 +0000"
   },
   {
     "headline": "France Threatens to Ban Shein Over Sale of ‘Childlike’ Sex Dolls",
     "link": "https://www.nytimes.com/2025/11/03/business/shein-france-sex-dolls.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-25-08 +0000"
+    "pubdate": "2025-11-03-20-25-09 +0000"
   },
   {
     "headline": "Treasury Yields, Dollar Rise as Officials Undecided on Dec. Cut",
@@ -867,31 +927,31 @@
     "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
     "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-13-17 +0000"
+    "pubdate": "2025-11-03-20-13-18 +0000"
   },
   {
     "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
     "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-13-17 +0000"
+    "pubdate": "2025-11-03-20-13-18 +0000"
   },
   {
     "headline": "Trump Administration to Send Only Partial Food Stamp Payments This Month",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/snap-food-stamps-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-11-56 +0000"
+    "pubdate": "2025-11-03-20-11-57 +0000"
   },
   {
     "headline": "Trump Administration to Send Only Partial Food Stamp Payments This Month",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/snap-food-stamps-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-11-56 +0000"
+    "pubdate": "2025-11-03-20-11-57 +0000"
   },
   {
     "headline": "Trump Administration to Send Only Partial Food Stamp Payments This Month",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/snap-food-stamps-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-11-56 +0000"
+    "pubdate": "2025-11-03-20-11-57 +0000"
   },
   {
     "headline": "The U.S. said it would use emergency funds to pay partial benefits under the federal food assistance program for November, but warned the process could result in delays in some states",
@@ -909,13 +969,13 @@
     "headline": "Halloween Becomes Another Target of the Kremlin’s Culture Wars",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/halloween-party-canceled-russia.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-03-37 +0000"
+    "pubdate": "2025-11-03-20-03-38 +0000"
   },
   {
     "headline": "Halloween Becomes Another Target of the Kremlin’s Culture Wars",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/halloween-party-canceled-russia.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-03-37 +0000"
+    "pubdate": "2025-11-03-20-03-38 +0000"
   },
   {
     "headline": "What to Know About Trump’s Threat of Military Action in Nigeria",
@@ -1359,13 +1419,13 @@
     "headline": "Ford Foundation Leader Vows to Protect Elections and Law as Trump Threatens Crackdown",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/ford-foundation-heather-gerken-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-17-14-04 +0000"
+    "pubdate": "2025-11-03-17-14-05 +0000"
   },
   {
     "headline": "Ford Foundation Leader Vows to Protect Elections and Law as Trump Threatens Crackdown",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/ford-foundation-heather-gerken-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-17-14-04 +0000"
+    "pubdate": "2025-11-03-17-14-05 +0000"
   },
   {
     "headline": "Mthuthuzeli November’s ‘Pinch Me’ Moment at the Paris Opera Ballet",
@@ -1425,13 +1485,13 @@
     "headline": "Another Deadly Earthquake, and a Cascade of Problems for Afghanistan",
     "link": "https://www.nytimes.com/2025/11/02/world/asia/afghanistan-earthquake-blue-mosque.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-16-58-41 +0000"
+    "pubdate": "2025-11-03-16-58-42 +0000"
   },
   {
     "headline": "Another Deadly Earthquake, and a Cascade of Problems for Afghanistan",
     "link": "https://www.nytimes.com/2025/11/02/world/asia/afghanistan-earthquake-blue-mosque.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-16-58-41 +0000"
+    "pubdate": "2025-11-03-16-58-42 +0000"
   },
   {
     "headline": "Medieval tower partially collapses in Rome, leaving critically injured worker trapped in rubble",
@@ -2004,12 +2064,6 @@
     "pubdate": "2025-11-03-11-00-00 +0000"
   },
   {
-    "headline": "She helped get her violent husband deported. Then ICE deported her — straight into his arms.",
-    "link": "https://www.latimes.com/california/story/2025-11-03/immigrant-crime-victims",
-    "source": "latimes",
-    "pubdate": "2025-11-03-11-00-00 +0000"
-  },
-  {
     "headline": "How Zone Zero, designed to protect California homes from wildfire, became plagued with controversy and delays",
     "link": "https://www.latimes.com/environment/story/2025-11-03/how-zone-zero-became-plagued-with-controversy-and-delays",
     "source": "latimes",
@@ -2030,6 +2084,12 @@
   {
     "headline": "Both sides say democracy is at stake with Prop. 50 — but for very different reasons",
     "link": "https://www.latimes.com/california/story/2025-11-03/sharp-split-in-television-messaging-about-proposition-50",
+    "source": "latimes",
+    "pubdate": "2025-11-03-11-00-00 +0000"
+  },
+  {
+    "headline": "She helped get her violent husband deported. Then ICE deported her — straight into his arms.",
+    "link": "https://www.latimes.com/california/story/2025-11-03/immigrant-crime-victims",
     "source": "latimes",
     "pubdate": "2025-11-03-11-00-00 +0000"
   },
@@ -2061,12 +2121,6 @@
     "headline": "Vue cinema boss: I don't see streaming as the competition",
     "link": "https://www.bbc.com/news/articles/c986d9jjv87o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-03-11-00-00 +0000"
-  },
-  {
-    "headline": "What to know about California’s Proposition 50 — Gavin Newsom’s controversial redistricting attempt",
-    "link": "https://nypost.com/us-news/what-is-california-prop-50/",
-    "source": "nypost",
     "pubdate": "2025-11-03-11-00-00 +0000"
   },
   {
@@ -2292,7 +2346,7 @@
     "pubdate": "2025-11-03-08-40-53 +0000"
   },
   {
-    "headline": "Stock Market Today: Nasdaq Rises; Kimberly-Clark to Buy Kenvue",
+    "headline": "Stock Market News, Nov. 3, 2025: Nasdaq Rises; Kimberly-Clark to Buy Kenvue",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-03-08-38-50 +0000"
@@ -2544,12 +2598,6 @@
     "pubdate": "2025-11-03-03-00-00 +0000"
   },
   {
-    "headline": "France, the U.K. and Germany have rising budget deficits and debt, while the former crisis hot spots in southern Europe look financially healthier in a role reversal of sorts",
-    "link": "https://www.wsj.com/economy/europes-role-reversal-the-problem-economies-are-now-further-north-72b408a6",
-    "source": "wsj",
-    "pubdate": "2025-11-03-03-00-00 +0000"
-  },
-  {
     "headline": "Deadly 6.3-magnitude earthquake hits northern Afghanistan",
     "link": "https://www.cbc.ca/news/world/afghanistan-earthquake-9.6964015?cmp=rss",
     "source": "cbc",
@@ -2566,53 +2614,5 @@
     "link": "https://www.wsj.com/articles/rba-set-to-move-to-the-sidelines-amid-rising-economic-complexities-526bc999",
     "source": "wsj",
     "pubdate": "2025-11-03-02-25-00 +0000"
-  },
-  {
-    "headline": "Singapore’s Top Real-Estate Asset Managers Mull Merger That Could Create $150 Billion Entity",
-    "link": "https://www.wsj.com/business/deals/singapores-top-real-estate-asset-managers-mull-merger-that-could-create-150-billion-entity-0279781c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-03-02-19-00 +0000"
-  },
-  {
-    "headline": "Singapore’s Top Real-Estate Asset Managers Mull Merger That Could Create $150 Billion Entity",
-    "link": "https://www.wsj.com/business/deals/singapores-top-real-estate-asset-managers-mull-merger-that-could-create-150-billion-entity-0279781c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-03-02-19-00 +0000"
-  },
-  {
-    "headline": "The Arab World’s Last Militant Leader Is Elusive and Defiant",
-    "link": "https://www.wsj.com/world/middle-east/abdulmalik-al-houthi-yemen-israel-houthis-632e675c",
-    "source": "wsj",
-    "pubdate": "2025-11-03-02-00-00 +0000"
-  },
-  {
-    "headline": "The Arab World’s Last Militant Leader Is Elusive and Defiant",
-    "link": "https://www.wsj.com/world/middle-east/abdulmalik-al-houthi-yemen-israel-houthis-632e675c",
-    "source": "wsj",
-    "pubdate": "2025-11-03-02-00-00 +0000"
-  },
-  {
-    "headline": "Early worries about the economic impact of President Trump’s sweeping tariffs now seem overblown",
-    "link": "https://www.wsj.com/economy/trade/trump-tariffs-us-economy-impact-89a1ea8d",
-    "source": "wsj",
-    "pubdate": "2025-11-03-02-00-00 +0000"
-  },
-  {
-    "headline": "Even if Democrats have election wins on Tuesday, they will still wake Wednesday morning with serious political troubles",
-    "link": "https://www.wsj.com/politics/elections/election-wins-tuesday-wont-ease-a-divided-democratic-partys-troubles-4f8ac106",
-    "source": "wsj",
-    "pubdate": "2025-11-03-02-00-00 +0000"
-  },
-  {
-    "headline": "Democratic senators again urged President Trump to get involved directly in talks to end the government shutdown as the impasse entered a crucial week",
-    "link": "https://www.wsj.com/politics/policy/democrats-urge-trump-to-engage-in-talks-as-shutdown-closes-in-on-record-6d31a6ab",
-    "source": "wsj",
-    "pubdate": "2025-11-03-01-32-00 +0000"
-  },
-  {
-    "headline": "Explosion at Harvard Building Affected Small Section of Hallway, Officials Say",
-    "link": "https://www.nytimes.com/2025/11/02/us/explosion-harvard-damage.html",
-    "source": "nyt",
-    "pubdate": "2025-11-03-01-20-00 +0000"
   }
 ]

@@ -1,5 +1,83 @@
 [
   {
+    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-02-02-49 +0000"
+  },
+  {
+    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-02-02-49 +0000"
+  },
+  {
+    "headline": "What Happened When Small-Town America Became Data-Center, U.S.A.",
+    "link": "https://www.wsj.com/us-news/what-happened-when-small-town-america-became-data-center-u-s-a-410f25e9",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "What Happened When Small-Town America Became Data-Center, U.S.A.",
+    "link": "https://www.wsj.com/us-news/what-happened-when-small-town-america-became-data-center-u-s-a-410f25e9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "Wall Street Intensifies Scrutiny of Fraud After Spate of Loan Losses",
+    "link": "https://www.wsj.com/finance/investing/wall-street-intensifies-scrutiny-of-fraud-after-spate-of-loan-losses-0397bc55?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "Some Tuesday elections will test whether Trump’s low economic ratings can help Democrats make the case that they have the better plans to lower the cost of living",
+    "link": "https://www.wsj.com/politics/elections/divided-democrats-hope-attacking-the-trump-economy-unites-party-c98b5cec",
+    "source": "wsj",
+    "pubdate": "2025-11-04-02-00-00 +0000"
+  },
+  {
+    "headline": "Andrew Cuomo backed by NYC Satmar Hasidic community after rabbi issues ‘unauthorized’ Zohran Mamdani endorsement",
+    "link": "https://nypost.com/2025/11/03/us-news/andrew-cuomo-backed-by-nyc-satmar-hasidic-community-after-rabbi-issues-unauthorized-zohran-mamdani-endorsement/",
+    "source": "nypost",
+    "pubdate": "2025-11-04-01-56-30 +0000"
+  },
+  {
+    "headline": "Andrew Cuomo backed by NYC Satmar Hasidic community after rabbi issues ‘unauthorized’ Zohran Mamdani endorsement",
+    "link": "https://nypost.com/2025/11/03/us-news/andrew-cuomo-backed-by-nyc-satmar-hasidic-community-after-rabbi-issues-unauthorized-zohran-mamdani-endorsement/",
+    "source": "nypost",
+    "pubdate": "2025-11-04-01-56-30 +0000"
+  },
+  {
+    "headline": "Trump Doubles Down on Nuclear Tests. His Energy Secretary Differs.",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/trump-nuclear-tests-energy-secretary.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-01-48-21 +0000"
+  },
+  {
+    "headline": "Trump Doubles Down on Nuclear Tests. His Energy Secretary Differs.",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/trump-nuclear-tests-energy-secretary.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-01-48-21 +0000"
+  },
+  {
+    "headline": "Starbucks to Sell 60% of Its China Business to a Private Equity Firm",
+    "link": "https://www.nytimes.com/2025/11/03/business/starbucks-china-boyu-capital.html",
+    "source": "nyt",
+    "pubdate": "2025-11-04-01-39-07 +0000"
+  },
+  {
+    "headline": "Brazen pair robs NYPD cadet, girlfriend at gunpoint in NYC stick-up: cops, sources",
+    "link": "https://nypost.com/2025/11/03/us-news/brazen-pair-robs-nypd-cadet-girlfriend-at-gunpoint-in-nyc-stick-up-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2025-11-04-01-39-06 +0000"
+  },
+  {
+    "headline": "South Korea’s Inflation Accelerated in October",
+    "link": "https://www.wsj.com/economy/south-koreas-inflation-accelerated-in-october-a396ec83",
+    "source": "wsj",
+    "pubdate": "2025-11-04-01-32-00 +0000"
+  },
+  {
     "headline": "Worker dies after partial collapse of medieval tower in Rome",
     "link": "https://www.bbc.com/news/articles/ce3kz7jxe0po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -10,6 +88,12 @@
     "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-amid-supply-concerns-85a6bf8a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-04-01-10-00 +0000"
+  },
+  {
+    "headline": "Baby Emmanuel's father sentenced to 25 years to life for murdering infant",
+    "link": "https://www.latimes.com/california/story/2025-11-03/baby-emmanuel-father-sentenced-murder-25-years-to-life",
+    "source": "latimes",
+    "pubdate": "2025-11-04-01-08-09 +0000"
   },
   {
     "headline": "Halloween ‘hoax’ sparked by 9-year-old who planted needle in their own candy: cops",
@@ -118,12 +202,6 @@
     "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-across-u-s-treasurys-741c41c9?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-04-00-21-00 +0000"
-  },
-  {
-    "headline": "Starbucks to Sell 60% of Its China Business to a Private Equity Firm",
-    "link": "https://www.nytimes.com/2025/11/03/business/starbucks-china-boyu-capital.html",
-    "source": "nyt",
-    "pubdate": "2025-11-04-00-18-33 +0000"
   },
   {
     "headline": "After Hurricane Melissa, a Seaside Town in Jamaica Picks Up the Pieces",
@@ -286,18 +364,6 @@
     "link": "https://nypost.com/2025/11/03/us-news/bbc-materially-misled-viewers-by-deceptively-editing-trump-jan-6-speech-for-documentary-whistleblower/",
     "source": "nypost",
     "pubdate": "2025-11-03-23-45-52 +0000"
-  },
-  {
-    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
-    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
-    "source": "nyt",
-    "pubdate": "2025-11-03-23-45-43 +0000"
-  },
-  {
-    "headline": "Medieval Tower in Rome Partially Collapses, Trapping Worker Who Died After Rescue Efforts",
-    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
-    "source": "nyt",
-    "pubdate": "2025-11-03-23-45-43 +0000"
   },
   {
     "headline": "The Battle Over an Activist Who Protested Stephen Miller Near His Virginia Home",
@@ -612,7 +678,7 @@
     "pubdate": "2025-11-03-21-54-29 +0000"
   },
   {
-    "headline": "S.F. residents tell stories about loved ones at the Festival of the Altars",
+    "headline": "Meet some of the deceased honored in San Francisco’s Day of the Dead",
     "link": "https://missionlocal.org/2025/11/s-f-residents-tell-stories-about-loved-ones-at-the-festival-of-the-altars/",
     "source": "missionlocal",
     "pubdate": "2025-11-03-21-53-49 +0000"
@@ -645,7 +711,7 @@
     "headline": "Jon Stewart Signs Extension for ‘Daily Show’ Through 2026",
     "link": "https://www.nytimes.com/2025/11/03/business/media/jon-stewart-daily-show-extension.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-21-40-47 +0000"
+    "pubdate": "2025-11-03-21-40-48 +0000"
   },
   {
     "headline": "Vanity Fair chief Mark Guiducci instructed staff to go easy on ex-Prince Andrew’s daughters due to his friendship with them: report",
@@ -694,18 +760,6 @@
     "link": "https://nypost.com/2025/11/03/us-news/jay-jones-takes-shocking-lead-in-virginia-ag-race-despite-violent-texts-abigail-spanberger-still-frontrunner-for-gov-poll/",
     "source": "nypost",
     "pubdate": "2025-11-03-21-32-20 +0000"
-  },
-  {
-    "headline": "Jay Jones takes shocking lead in Virginia AG race despite violent texts — Abigail Spanberger still frontrunner for gov: poll",
-    "link": "https://nypost.com/2025/11/03/us-news/jay-jones-takes-shocking-lead-in-virginia-ag-race-despite-violent-texts-abigail-spanberger-still-frontrunner-for-gov-poll/",
-    "source": "nypost",
-    "pubdate": "2025-11-03-21-32-20 +0000"
-  },
-  {
-    "headline": "Follow The Post and 2Way for live coverage of election night",
-    "link": "https://nypost.com/2025/11/03/us-news/follow-the-post-and-2way-for-live-coverage-of-election-night/",
-    "source": "nypost",
-    "pubdate": "2025-11-03-21-31-48 +0000"
   },
   {
     "headline": "Hillsborough victims failed by the state, says PM",
@@ -780,6 +834,12 @@
     "pubdate": "2025-11-03-20-52-37 +0000"
   },
   {
+    "headline": "Photos show enduring legacy of Mission’s Día de los Muertos procession",
+    "link": "https://eltecolote.org/content/en/dia-de-muertos-sf-mission-procession-2025/",
+    "source": "eltecolote",
+    "pubdate": "2025-11-03-20-50-19 +0000"
+  },
+  {
     "headline": "U.S. Natural Gas Extends Gains on Weather Outlook",
     "link": "https://www.wsj.com/articles/european-gas-rises-with-inventories-below-last-years-levels-3b99d8bf?mod=rss_markets_main",
     "source": "wsj",
@@ -819,13 +879,13 @@
     "headline": "U.K. Police Investigate Possible Link Between Train Attack and Stabbing of 14-Year-Old",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/uk-train-stabbing-knife-attack.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-33-16 +0000"
+    "pubdate": "2025-11-03-20-33-17 +0000"
   },
   {
     "headline": "U.K. Police Investigate Possible Link Between Train Attack and Stabbing of 14-Year-Old",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/uk-train-stabbing-knife-attack.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-33-16 +0000"
+    "pubdate": "2025-11-03-20-33-17 +0000"
   },
   {
     "headline": "Jamaicans rush to ready island for busy tourism season in wake of Hurricane Melissa",
@@ -837,13 +897,13 @@
     "headline": "France Threatens to Ban Shein Over Sale of ‘Childlike’ Sex Dolls",
     "link": "https://www.nytimes.com/2025/11/03/business/shein-france-sex-dolls.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-25-08 +0000"
+    "pubdate": "2025-11-03-20-25-09 +0000"
   },
   {
     "headline": "France Threatens to Ban Shein Over Sale of ‘Childlike’ Sex Dolls",
     "link": "https://www.nytimes.com/2025/11/03/business/shein-france-sex-dolls.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-25-08 +0000"
+    "pubdate": "2025-11-03-20-25-09 +0000"
   },
   {
     "headline": "Treasury Yields, Dollar Rise as Officials Undecided on Dec. Cut",
@@ -867,31 +927,31 @@
     "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
     "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-13-17 +0000"
+    "pubdate": "2025-11-03-20-13-18 +0000"
   },
   {
     "headline": "Are Wealth Taxes the Best Way to Tax the Ultra Rich?",
     "link": "https://www.nytimes.com/2025/10/31/business/economy/wealth-tax-france.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-13-17 +0000"
+    "pubdate": "2025-11-03-20-13-18 +0000"
   },
   {
     "headline": "Trump Administration to Send Only Partial Food Stamp Payments This Month",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/snap-food-stamps-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-11-56 +0000"
+    "pubdate": "2025-11-03-20-11-57 +0000"
   },
   {
     "headline": "Trump Administration to Send Only Partial Food Stamp Payments This Month",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/snap-food-stamps-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-11-56 +0000"
+    "pubdate": "2025-11-03-20-11-57 +0000"
   },
   {
     "headline": "Trump Administration to Send Only Partial Food Stamp Payments This Month",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/snap-food-stamps-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-11-56 +0000"
+    "pubdate": "2025-11-03-20-11-57 +0000"
   },
   {
     "headline": "The U.S. said it would use emergency funds to pay partial benefits under the federal food assistance program for November, but warned the process could result in delays in some states",
@@ -909,13 +969,13 @@
     "headline": "Halloween Becomes Another Target of the Kremlin’s Culture Wars",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/halloween-party-canceled-russia.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-03-37 +0000"
+    "pubdate": "2025-11-03-20-03-38 +0000"
   },
   {
     "headline": "Halloween Becomes Another Target of the Kremlin’s Culture Wars",
     "link": "https://www.nytimes.com/2025/11/03/world/europe/halloween-party-canceled-russia.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-20-03-37 +0000"
+    "pubdate": "2025-11-03-20-03-38 +0000"
   },
   {
     "headline": "What to Know About Trump’s Threat of Military Action in Nigeria",
@@ -1359,13 +1419,13 @@
     "headline": "Ford Foundation Leader Vows to Protect Elections and Law as Trump Threatens Crackdown",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/ford-foundation-heather-gerken-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-17-14-04 +0000"
+    "pubdate": "2025-11-03-17-14-05 +0000"
   },
   {
     "headline": "Ford Foundation Leader Vows to Protect Elections and Law as Trump Threatens Crackdown",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/ford-foundation-heather-gerken-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-17-14-04 +0000"
+    "pubdate": "2025-11-03-17-14-05 +0000"
   },
   {
     "headline": "Mthuthuzeli November’s ‘Pinch Me’ Moment at the Paris Opera Ballet",
@@ -1425,13 +1485,13 @@
     "headline": "Another Deadly Earthquake, and a Cascade of Problems for Afghanistan",
     "link": "https://www.nytimes.com/2025/11/02/world/asia/afghanistan-earthquake-blue-mosque.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-16-58-41 +0000"
+    "pubdate": "2025-11-03-16-58-42 +0000"
   },
   {
     "headline": "Another Deadly Earthquake, and a Cascade of Problems for Afghanistan",
     "link": "https://www.nytimes.com/2025/11/02/world/asia/afghanistan-earthquake-blue-mosque.html",
     "source": "nyt",
-    "pubdate": "2025-11-03-16-58-41 +0000"
+    "pubdate": "2025-11-03-16-58-42 +0000"
   },
   {
     "headline": "Medieval tower partially collapses in Rome, leaving critically injured worker trapped in rubble",
@@ -2004,12 +2064,6 @@
     "pubdate": "2025-11-03-11-00-00 +0000"
   },
   {
-    "headline": "She helped get her violent husband deported. Then ICE deported her — straight into his arms.",
-    "link": "https://www.latimes.com/california/story/2025-11-03/immigrant-crime-victims",
-    "source": "latimes",
-    "pubdate": "2025-11-03-11-00-00 +0000"
-  },
-  {
     "headline": "How Zone Zero, designed to protect California homes from wildfire, became plagued with controversy and delays",
     "link": "https://www.latimes.com/environment/story/2025-11-03/how-zone-zero-became-plagued-with-controversy-and-delays",
     "source": "latimes",
@@ -2030,6 +2084,12 @@
   {
     "headline": "Both sides say democracy is at stake with Prop. 50 — but for very different reasons",
     "link": "https://www.latimes.com/california/story/2025-11-03/sharp-split-in-television-messaging-about-proposition-50",
+    "source": "latimes",
+    "pubdate": "2025-11-03-11-00-00 +0000"
+  },
+  {
+    "headline": "She helped get her violent husband deported. Then ICE deported her — straight into his arms.",
+    "link": "https://www.latimes.com/california/story/2025-11-03/immigrant-crime-victims",
     "source": "latimes",
     "pubdate": "2025-11-03-11-00-00 +0000"
   },
@@ -2061,12 +2121,6 @@
     "headline": "Vue cinema boss: I don't see streaming as the competition",
     "link": "https://www.bbc.com/news/articles/c986d9jjv87o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-03-11-00-00 +0000"
-  },
-  {
-    "headline": "What to know about California’s Proposition 50 — Gavin Newsom’s controversial redistricting attempt",
-    "link": "https://nypost.com/us-news/what-is-california-prop-50/",
-    "source": "nypost",
     "pubdate": "2025-11-03-11-00-00 +0000"
   },
   {
@@ -2292,7 +2346,7 @@
     "pubdate": "2025-11-03-08-40-53 +0000"
   },
   {
-    "headline": "Stock Market Today: Nasdaq Rises; Kimberly-Clark to Buy Kenvue",
+    "headline": "Stock Market News, Nov. 3, 2025: Nasdaq Rises; Kimberly-Clark to Buy Kenvue",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-03-08-38-50 +0000"
@@ -2544,12 +2598,6 @@
     "pubdate": "2025-11-03-03-00-00 +0000"
   },
   {
-    "headline": "France, the U.K. and Germany have rising budget deficits and debt, while the former crisis hot spots in southern Europe look financially healthier in a role reversal of sorts",
-    "link": "https://www.wsj.com/economy/europes-role-reversal-the-problem-economies-are-now-further-north-72b408a6",
-    "source": "wsj",
-    "pubdate": "2025-11-03-03-00-00 +0000"
-  },
-  {
     "headline": "Deadly 6.3-magnitude earthquake hits northern Afghanistan",
     "link": "https://www.cbc.ca/news/world/afghanistan-earthquake-9.6964015?cmp=rss",
     "source": "cbc",
@@ -2608,12 +2656,6 @@
     "link": "https://www.wsj.com/politics/policy/democrats-urge-trump-to-engage-in-talks-as-shutdown-closes-in-on-record-6d31a6ab",
     "source": "wsj",
     "pubdate": "2025-11-03-01-32-00 +0000"
-  },
-  {
-    "headline": "Explosion at Harvard Building Affected Small Section of Hallway, Officials Say",
-    "link": "https://www.nytimes.com/2025/11/02/us/explosion-harvard-damage.html",
-    "source": "nyt",
-    "pubdate": "2025-11-03-01-20-00 +0000"
   },
   {
     "headline": "Ex-Prime Minister Sanna Marin, known for raunchy party clips, has no plans to dance back into politics",
@@ -3078,14 +3120,14 @@
     "pubdate": "2025-11-02-11-00-00 +0000"
   },
   {
-    "headline": "Driverless freight trains on Southern California rails? This L.A. startup is already testing them",
-    "link": "https://www.latimes.com/business/story/2025-11-02/los-angeles-based-autonomous-freight-train",
+    "headline": "Inside the race to train AI robots how to act human in the real world",
+    "link": "https://www.latimes.com/business/story/2025-11-02/inside-californias-rush-to-gather-human-data-for-building-humanoid-robots",
     "source": "latimes",
     "pubdate": "2025-11-02-11-00-00 +0000"
   },
   {
-    "headline": "Inside the race to train AI robots how to act human in the real world",
-    "link": "https://www.latimes.com/business/story/2025-11-02/inside-californias-rush-to-gather-human-data-for-building-humanoid-robots",
+    "headline": "Driverless freight trains on Southern California rails? This L.A. startup is already testing them",
+    "link": "https://www.latimes.com/business/story/2025-11-02/los-angeles-based-autonomous-freight-train",
     "source": "latimes",
     "pubdate": "2025-11-02-11-00-00 +0000"
   },
@@ -3798,12 +3840,6 @@
     "pubdate": "2025-11-01-10-00-07 +0000"
   },
   {
-    "headline": "Homeless service provider's CEO placed on leave, law firm to probe property valuations",
-    "link": "https://www.latimes.com/california/story/2025-11-01/homeless-service-providers-ceo-placed-on-leave-law-firm-to-probe-property-valuations",
-    "source": "latimes",
-    "pubdate": "2025-11-01-10-00-00 +0000"
-  },
-  {
     "headline": "Proposition 50 could disenfranchise Republican California voters. Will it survive a legal challenge?",
     "link": "https://www.latimes.com/california/story/2025-11-01/why-prop-50-likely-to-survive-legal-challenge-despite-disenfranchising-some-california-voters",
     "source": "latimes",
@@ -3812,6 +3848,12 @@
   {
     "headline": "Daylight saving time ends Sunday. What to know about 'falling back'",
     "link": "https://www.latimes.com/california/story/2025-11-01/daylight-saving-time-ends-sunday-what-to-know",
+    "source": "latimes",
+    "pubdate": "2025-11-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Homeless service provider's CEO placed on leave, law firm to probe property valuations",
+    "link": "https://www.latimes.com/california/story/2025-11-01/homeless-service-providers-ceo-placed-on-leave-law-firm-to-probe-property-valuations",
     "source": "latimes",
     "pubdate": "2025-11-01-10-00-00 +0000"
   },
@@ -4154,12 +4196,6 @@
   {
     "headline": "The Growing Divide in the Rainbow Coalition",
     "link": "https://www.wsj.com/us-news/the-growing-divide-in-the-rainbow-coalition-1128015b",
-    "source": "wsj",
-    "pubdate": "2025-10-31-23-00-00 +0000"
-  },
-  {
-    "headline": "Vail’s CEO Has Transformed Skiing, Whether You Like It or Not",
-    "link": "https://www.wsj.com/business/rob-katz-vail-ceo-f3e8cf60?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-10-31-23-00-00 +0000"
   },
@@ -4836,12 +4872,6 @@
     "pubdate": "2025-10-31-10-14-53 +0000"
   },
   {
-    "headline": "Plan to kill 450,000 owls pushes past major obstacle with Republicans both for and against",
-    "link": "https://www.latimes.com/environment/story/2025-10-31/lawmakers-reject-bid-to-overturn-plan-to-cull-barred-owls-pacific-northwest",
-    "source": "latimes",
-    "pubdate": "2025-10-31-10-00-00 +0000"
-  },
-  {
     "headline": "Man accused of posing as immigration lawyer, raping client and offering hush money is arrested",
     "link": "https://www.latimes.com/california/story/2025-10-31/man-accused-of-post-as-lawyer-raping-client-arrested",
     "source": "latimes",
@@ -4854,6 +4884,18 @@
     "pubdate": "2025-10-31-10-00-00 +0000"
   },
   {
+    "headline": "Plan to kill 450,000 owls pushes past major obstacle with Republicans both for and against",
+    "link": "https://www.latimes.com/environment/story/2025-10-31/lawmakers-reject-bid-to-overturn-plan-to-cull-barred-owls-pacific-northwest",
+    "source": "latimes",
+    "pubdate": "2025-10-31-10-00-00 +0000"
+  },
+  {
+    "headline": "Austin Beutner assails Karen Bass over rising city fees he says are 'crushing families'",
+    "link": "https://www.latimes.com/california/story/2025-10-31/beutner-assails-mayor-over-cost-of-living",
+    "source": "latimes",
+    "pubdate": "2025-10-31-10-00-00 +0000"
+  },
+  {
     "headline": "Los Angeles will nearly double recycled water for 500,000 residents",
     "link": "https://www.latimes.com/environment/story/2025-10-31/los-angeles-wastewater-recycling",
     "source": "latimes",
@@ -4862,12 +4904,6 @@
   {
     "headline": "News Analysis: Prop. 50 is just one part of a historically uncertain moment for American democracy",
     "link": "https://www.latimes.com/politics/story/2025-10-31/future-of-u-s-politics-uncertain-amid-shutdown-prop-50-fight-trumps-third-term-talk",
-    "source": "latimes",
-    "pubdate": "2025-10-31-10-00-00 +0000"
-  },
-  {
-    "headline": "Austin Beutner assails Karen Bass over rising city fees he says are 'crushing families'",
-    "link": "https://www.latimes.com/california/story/2025-10-31/beutner-assails-mayor-over-cost-of-living",
     "source": "latimes",
     "pubdate": "2025-10-31-10-00-00 +0000"
   },
@@ -5130,6 +5166,12 @@
     "pubdate": "2025-10-30-23-41-00 +0000"
   },
   {
+    "headline": "Ahead of Día de Muertos, S.F. Latinos balance resilience with caution",
+    "link": "https://eltecolote.org/content/en/sf-dia-de-muertos-immigrant-caution/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-30-23-32-11 +0000"
+  },
+  {
     "headline": "A Texas Family Rode Out Hurricane Melissa at a Jamaican Beach Resort",
     "link": "https://www.nytimes.com/2025/10/30/travel/hurricane-melissa-jamaica-resort.html",
     "source": "nyt",
@@ -5308,12 +5350,6 @@
     "link": "https://www.wsj.com/finance/stocks/tech-earnings-send-nasdaq-lower-a819a53e?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-10-30-20-31-00 +0000"
-  },
-  {
-    "headline": "Berkshire’s New Normal: No Buffett Shareholder Letter and No ‘Buffett Premium’",
-    "link": "https://www.wsj.com/finance/stocks/berkshires-new-normal-no-buffett-shareholder-letter-and-no-buffett-premium-b53c2edd?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-10-30-20-25-00 +0000"
   },
   {
     "headline": "What the Reeves emails tell us in rental licence row",
@@ -5610,6 +5646,54 @@
     "pubdate": "2025-10-30-11-00-00 +0000"
   },
   {
+    "headline": "Contributor: California was an 'earthly paradise' for Jews. Is it still?",
+    "link": "https://www.latimes.com/opinion/story/2025-10-30/california-los-angeles-jews-antisemitism",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: Bodies are stacking up in Trump's deportation deluge. It's going to get worse",
+    "link": "https://www.latimes.com/california/story/2025-10-30/immigrant-deaths-ice-border-patrol-2025",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Commentary: These are thirsty times. No wonder Kamala Harris' book tour is a fan fest",
+    "link": "https://www.latimes.com/entertainment-arts/story/2025-10-30/kamala-harris-stops-in-l-a-on-her-book-tour",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Days before Palisades inferno, firefighters were ordered to leave smoldering burn site",
+    "link": "https://www.latimes.com/california/story/2025-10-30/firefighters-ordered-to-leave-smoldering-palisades-burn-site",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
+    "headline": "For this undocumented activist, returning to Mexico wasn't exile. It was liberation",
+    "link": "https://www.latimes.com/politics/story/2025-10-30/repatriation-to-mexico-a-los-angeles-man-gives-up-on-the-u-s",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Voters in poll side with Newsom, Democrats on Prop. 50 — a potential blow to Trump and GOP",
+    "link": "https://www.latimes.com/california/story/2025-10-30/poll-proposition-50",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Wave of RSV, particularly dangerous for babies, sweeping across U.S.; doctors urge vaccination",
+    "link": "https://www.latimes.com/california/story/2025-10-30/rsv-the-leading-cause-of-infant-hospitalization-is-climbing-in-babies-experts-urge-vaccination",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
+    "headline": "Families pay thousands for an unproven autism treatment. Researchers say we need ethical guidelines for marketing the tech",
+    "link": "https://www.latimes.com/science/story/2025-10-30/negligible-evidence-of-efficacy-researchers-speak-out-against-pricy-autism-treatment",
+    "source": "latimes",
+    "pubdate": "2025-10-30-10-00-00 +0000"
+  },
+  {
     "headline": "What makes a rebellion? Trump's troop deployment may hinge on one man's dictionary",
     "link": "https://www.latimes.com/california/story/2025-10-30/trump-troop-deployments-rebellion-law-dictionary",
     "source": "latimes",
@@ -5622,62 +5706,14 @@
     "pubdate": "2025-10-30-10-00-00 +0000"
   },
   {
-    "headline": "Families pay thousands for an unproven autism treatment. Researchers say we need ethical guidelines for marketing the tech",
-    "link": "https://www.latimes.com/science/story/2025-10-30/negligible-evidence-of-efficacy-researchers-speak-out-against-pricy-autism-treatment",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Contributor: California was an 'earthly paradise' for Jews. Is it still?",
-    "link": "https://www.latimes.com/opinion/story/2025-10-30/california-los-angeles-jews-antisemitism",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Voters in poll side with Newsom, Democrats on Prop. 50 — a potential blow to Trump and GOP",
-    "link": "https://www.latimes.com/california/story/2025-10-30/poll-proposition-50",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Days before Palisades inferno, firefighters were ordered to leave smoldering burn site",
-    "link": "https://www.latimes.com/california/story/2025-10-30/firefighters-ordered-to-leave-smoldering-palisades-burn-site",
+    "headline": "Months after fire in Altadena, determination turns to despair",
+    "link": "https://www.latimes.com/california/story/2025-10-30/months-after-fires-distress-grows-a-network-of-thousands-pushes-for-help",
     "source": "latimes",
     "pubdate": "2025-10-30-10-00-00 +0000"
   },
   {
     "headline": "Can $750 a month help people exit homelessness?",
     "link": "https://www.latimes.com/california/story/2025-10-30/does-750-a-month-help-people-exit-homelessness",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Wave of RSV, particularly dangerous for babies, sweeping across U.S.; doctors urge vaccination",
-    "link": "https://www.latimes.com/california/story/2025-10-30/rsv-the-leading-cause-of-infant-hospitalization-is-climbing-in-babies-experts-urge-vaccination",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Commentary: These are thirsty times. No wonder Kamala Harris' book tour is a fan fest",
-    "link": "https://www.latimes.com/entertainment-arts/story/2025-10-30/kamala-harris-stops-in-l-a-on-her-book-tour",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Bodies are stacking up in Trump's deportation deluge. It's going to get worse",
-    "link": "https://www.latimes.com/california/story/2025-10-30/immigrant-deaths-ice-border-patrol-2025",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "For this undocumented activist, returning to Mexico wasn't exile. It was liberation",
-    "link": "https://www.latimes.com/politics/story/2025-10-30/repatriation-to-mexico-a-los-angeles-man-gives-up-on-the-u-s",
-    "source": "latimes",
-    "pubdate": "2025-10-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Months after fire in Altadena, determination turns to despair",
-    "link": "https://www.latimes.com/california/story/2025-10-30/months-after-fires-distress-grows-a-network-of-thousands-pushes-for-help",
     "source": "latimes",
     "pubdate": "2025-10-30-10-00-00 +0000"
   },
@@ -5776,6 +5812,12 @@
     "link": "https://www.latimes.com/california/story/2025-10-29/woman-allegedly-raped-by-man-who-offered-immigration-legal-aid",
     "source": "latimes",
     "pubdate": "2025-10-30-02-40-50 +0000"
+  },
+  {
+    "headline": "How to build an altar that truly connects with you this Día de Muertos",
+    "link": "https://eltecolote.org/content/en/how-to-build-an-altar-dia-de-muertos/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-30-02-01-26 +0000"
   },
   {
     "headline": "Arnold Schwarzenegger Has Become Gavin Newsom’s Toughest Opponent Yet",
@@ -5904,12 +5946,6 @@
     "pubdate": "2025-10-29-22-23-13 +0000"
   },
   {
-    "headline": "The Pentagon will no longer rotate Army combat brigades through Romania as part of a strategy that focuses on Asia and Latin America",
-    "link": "https://www.wsj.com/politics/national-security/u-s-withdraws-troops-from-romania-signaling-shifting-priorities-8fb33406",
-    "source": "wsj",
-    "pubdate": "2025-10-29-22-23-00 +0000"
-  },
-  {
     "headline": "As Trump Weighs Sale of Advanced A.I. Chips to China, Critics Sound Alarm",
     "link": "https://www.nytimes.com/2025/10/29/us/politics/trump-china-nvidia-chips-sales.html",
     "source": "nyt",
@@ -6010,6 +6046,12 @@
     "link": "https://www.nytimes.com/live/2025/10/29/business/federal-reserve-interest-rates/five-takeaways-from-the-fed-meeting",
     "source": "nyt",
     "pubdate": "2025-10-29-19-40-53 +0000"
+  },
+  {
+    "headline": "Trump ‘surge’ threat pushes forward S.F. $3.5 million plan to fund immigrant defense",
+    "link": "https://eltecolote.org/content/en/trump-sf-surge-immigrant-defense/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-29-19-37-03 +0000"
   },
   {
     "headline": "Airbus Cuts A220 Production Target Amid Supply-Chain Hurdles",
@@ -6216,12 +6258,6 @@
     "pubdate": "2025-10-29-10-16-00 +0000"
   },
   {
-    "headline": "ICE officials replaced with Border Patrol, cementing hard tactics that originated in California",
-    "link": "https://www.latimes.com/politics/story/2025-10-29/ice-officials-replaced-with-border-patrol-leaders-cementing-tactics-that-originated-in-california",
-    "source": "latimes",
-    "pubdate": "2025-10-29-10-00-00 +0000"
-  },
-  {
     "headline": "With L.A.'s mayor focused on trash-strewn streets, her top sanitation official moves on",
     "link": "https://www.latimes.com/california/story/2025-10-29/with-l-a-mayor-focused-on-trash-strewn-streets-her-top-sanitation-official-moves-on",
     "source": "latimes",
@@ -6240,6 +6276,12 @@
     "pubdate": "2025-10-29-10-00-00 +0000"
   },
   {
+    "headline": "ICE officials replaced with Border Patrol, cementing hard tactics that originated in California",
+    "link": "https://www.latimes.com/politics/story/2025-10-29/ice-officials-replaced-with-border-patrol-leaders-cementing-tactics-that-originated-in-california",
+    "source": "latimes",
+    "pubdate": "2025-10-29-10-00-00 +0000"
+  },
+  {
     "headline": "In controversial move, LADWP says it will shift its largest gas power plant to hydrogen",
     "link": "https://www.latimes.com/environment/story/2025-10-29/ladwp-approves-controversial-hydrogen-conversion-plan-at-the-citys-largest-gas-plant",
     "source": "latimes",
@@ -6252,12 +6294,6 @@
     "pubdate": "2025-10-29-10-00-00 +0000"
   },
   {
-    "headline": "Paramount lays off 1,000 workers in first round of cuts",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-29/paramount-1000-layoffs-skydance-david-ellison",
-    "source": "latimes",
-    "pubdate": "2025-10-29-10-00-00 +0000"
-  },
-  {
     "headline": "In controversial move, LADWP says it will shift its largest gas power plant to hydrogen",
     "link": "https://www.latimes.com/environment/story/2025-10-29/ladwp-approves-controversial-hydrogen-conversion-plan-at-the-citys-largest-gas-plant",
     "source": "latimes",
@@ -6266,6 +6302,12 @@
   {
     "headline": "Hiltzik: The Republican war on food stamps has a long, squalid history",
     "link": "https://www.latimes.com/business/story/2025-10-29/republicans-war-on-food-stamps-has-a-long-history",
+    "source": "latimes",
+    "pubdate": "2025-10-29-10-00-00 +0000"
+  },
+  {
+    "headline": "Paramount lays off 1,000 workers in first round of cuts",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-10-29/paramount-1000-layoffs-skydance-david-ellison",
     "source": "latimes",
     "pubdate": "2025-10-29-10-00-00 +0000"
   },
@@ -6402,6 +6444,12 @@
     "pubdate": "2025-10-28-21-24-00 +0000"
   },
   {
+    "headline": "“It was terrible”: Latinx drag queen Hilary Rivers released from ICE detention after getting asylum",
+    "link": "https://eltecolote.org/content/en/hilary-rivers-ice-sf/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-28-21-17-52 +0000"
+  },
+  {
     "headline": "Hurricane Melissa Hits Jamaica as One of the Most Powerful on Record",
     "link": "https://www.nytimes.com/2025/10/28/world/americas/hurricane-melissa-jamaica.html",
     "source": "nyt",
@@ -6430,6 +6478,12 @@
     "link": "https://www.nytimes.com/live/2025/10/28/weather/hurricane-melissa-jamaica-landfall/hurricane-melissa-un-aid-caribbean",
     "source": "nyt",
     "pubdate": "2025-10-28-20-22-59 +0000"
+  },
+  {
+    "headline": "8 Día de Muertos events you can’t miss in San Francisco",
+    "link": "https://eltecolote.org/content/en/dia-de-los-muertos-sf-events-2/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-28-20-01-20 +0000"
   },
   {
     "headline": "U.S. Military Kills 14 More People Accused of Smuggling Drugs on Boats",
@@ -6582,8 +6636,8 @@
     "pubdate": "2025-10-28-12-54-46 +0000"
   },
   {
-    "headline": "Chabria: Trump may use fear of voter fraud to declare elections illegitimate",
-    "link": "https://www.latimes.com/california/story/2025-10-28/chabria-column-poll-monitoring-election-supression",
+    "headline": "Federal healthcare cuts could affect coverage for millions of Californians, state officials say",
+    "link": "https://www.latimes.com/california/story/2025-10-28/federal-healthcare-cuts-will-cause-millions-of-californians-to-lose-coverage-state-officials-say",
     "source": "latimes",
     "pubdate": "2025-10-28-10-00-00 +0000"
   },
@@ -6624,21 +6678,9 @@
     "pubdate": "2025-10-28-08-50-00 +0000"
   },
   {
-    "headline": "Brother of journalist killed in occupied West Bank says new report reveals cover-up",
-    "link": "https://www.bbc.com/news/articles/cx2dnz5zvgxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-02-19-38 +0000"
-  },
-  {
-    "headline": "The 92-year-old president who never loses",
-    "link": "https://www.bbc.com/news/articles/cwypqg8vnleo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-02-06-29 +0000"
-  },
-  {
-    "headline": "Why the 5G symbol on your phone doesn't mean you have 5G",
-    "link": "https://www.bbc.com/news/articles/crexqyj7n5lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-10-28-02-01-08 +0000"
+    "headline": "These two S.F. neighborhoods reveal aftermath of RV crackdown — and it’s about to get worse",
+    "link": "https://eltecolote.org/content/en/sf-rv-crackdown-fallout/",
+    "source": "eltecolote",
+    "pubdate": "2025-10-28-04-54-52 +0000"
   }
 ]
