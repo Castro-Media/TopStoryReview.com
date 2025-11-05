@@ -1,6 +1,6 @@
 [
   {
-    "score": 356,
+    "score": 349,
     "pubdate": "2025-11-04-17-18-25 +0000",
     "source": "cbc",
     "headline": "New York City's new mayor, Zohran Mamdani, calls out Trump in victory speech",
@@ -21,46 +21,39 @@
     "link": "https://www.wsj.com/politics/policy/lawmakers-see-hope-for-ending-shutdown-as-record-nears-863df59d"
   },
   {
-    "score": 83,
+    "score": 80,
     "pubdate": "2025-11-05-11-00-00 +0000",
     "source": "nypost",
     "headline": "Eric Trump shares his dad’s family rules, talks growing up with ‘tough’ mom Ivana on ‘Pod Force One’",
     "link": "https://nypost.com/2025/11/05/us-news/eric-trump-shares-his-dads-family-rules-and-how-tough-mom-ivana-was-during-pod-force-one-chat/"
   },
   {
-    "score": 80,
+    "score": 78,
     "pubdate": "2025-11-05-14-02-20 +0000",
     "source": "nypost",
     "headline": "Socialist NYC Mayor-elect Zohran Mamdani fires shots at President Trump, threatens he will ‘utilize the courts’",
     "link": "https://nypost.com/2025/11/05/us-news/zohran-mamdani-fires-shots-at-trump-threatens-to-utilize-the-courts/"
   },
   {
-    "score": 78,
+    "score": 77,
     "pubdate": "2025-11-05-04-42-00 +0000",
     "source": "wsj",
     "headline": "Andrew Cuomo, part of New York’s political firmament for nearly half a century, finished what may be his final campaign Tuesday night after a loss to Zohran Mamdani in the N.Y.C. mayor’s race",
     "link": "https://www.wsj.com/politics/elections/half-a-century-of-andrew-cuomos-new-york-comes-to-an-end-9a9eedef"
   },
   {
-    "score": 77,
+    "score": 75,
     "pubdate": "2025-11-05-14-18-00 +0000",
     "source": "wsj",
     "headline": "UPS Cargo Plane Crash in Kentucky Leaves at Least Nine Dead",
-    "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671"
+    "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 68,
+    "score": 67,
     "pubdate": "2025-11-04-23-11-18 +0000",
     "source": "cbc",
     "headline": "Democratic candidates win key governor races as California voters approve redistricting",
     "link": "https://www.cbc.ca/news/world/virginia-new-jersey-california-elections-9.6966677?cmp=rss"
-  },
-  {
-    "score": 64,
-    "pubdate": "2025-11-05-14-46-41 +0000",
-    "source": "nyt",
-    "headline": "Tariffs Are Here to Stay, Even if the Supreme Court Rules Against Trump",
-    "link": "https://www.nytimes.com/2025/11/05/us/politics/trump-tariff-alternatives.html"
   },
   {
     "score": 60,
@@ -68,5 +61,12 @@
     "source": "cbc",
     "headline": "How budget day unfolded in Ottawa — from budget takeaways to a floor-crossing surprise",
     "link": "https://www.cbc.ca/news/politics/livestory/how-budget-day-unfolded-in-ottawa-from-budget-takeaways-to-a-floor-crossing-surprise-9.6965272?cmp=rss"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-11-05-14-46-41 +0000",
+    "source": "nyt",
+    "headline": "Tariffs Are Here to Stay, Even if the Supreme Court Rules Against Trump",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/trump-tariff-alternatives.html"
   }
 ]
