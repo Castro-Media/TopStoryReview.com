@@ -1,31 +1,31 @@
 [
   {
-    "score": 304,
+    "score": 296,
     "pubdate": "2025-11-05-06-34-00 +0000",
     "source": "wsj",
     "headline": "The Democratic Party won the New York City mayoral election and gubernatorial races in Virginia and New Jersey. But questions remain over strategy and how best to take on President Trump.",
     "link": "https://www.wsj.com/politics/elections/five-takeaways-from-a-good-night-for-democrats-42cf84ec"
   },
   {
-    "score": 162,
+    "score": 160,
     "pubdate": "2025-11-05-14-02-20 +0000",
     "source": "nypost",
     "headline": "Socialist NYC Mayor-elect Zohran Mamdani fires shots at President Trump, threatens he will ‘utilize the courts’",
     "link": "https://nypost.com/2025/11/05/us-news/zohran-mamdani-fires-shots-at-trump-threatens-to-utilize-the-courts/"
   },
   {
-    "score": 118,
+    "score": 116,
     "pubdate": "2025-11-05-14-42-00 +0000",
     "source": "wsj",
     "headline": "Lawmakers are hopeful they can reach a bipartisan deal to end the government shutdown, as Trump again demands Republicans bypass Democrats and reopen government",
     "link": "https://www.wsj.com/politics/policy/lawmakers-see-hope-for-ending-shutdown-as-record-nears-863df59d"
   },
   {
-    "score": 89,
+    "score": 88,
     "pubdate": "2025-11-05-14-18-00 +0000",
     "source": "wsj",
     "headline": "UPS Cargo Plane Crash in Kentucky Leaves at Least Nine Dead",
-    "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671"
   },
   {
     "score": 80,
@@ -35,21 +35,14 @@
     "link": "https://www.nytimes.com/2025/11/05/us/politics/supreme-court-tariffs-lawyers.html"
   },
   {
-    "score": 77,
+    "score": 76,
     "pubdate": "2025-11-05-11-00-00 +0000",
     "source": "nypost",
     "headline": "Eric Trump refuses to rule out dad running for third term — or himself — while discussing 2024 victory on ‘Pod Force One’",
     "link": "https://nypost.com/2025/11/05/us-news/eric-trump-refuses-to-rule-out-dad-running-for-third-term-or-himself-while-discussing-2024-victory-on-pod-force-one/"
   },
   {
-    "score": 66,
-    "pubdate": "2025-11-04-23-11-18 +0000",
-    "source": "cbc",
-    "headline": "Democratic candidates win key governor races as California voters approve redistricting",
-    "link": "https://www.cbc.ca/news/world/virginia-new-jersey-california-elections-9.6966677?cmp=rss"
-  },
-  {
-    "score": 64,
+    "score": 63,
     "pubdate": "2025-11-05-18-43-43 +0000",
     "source": "nyt",
     "headline": "U.S. Military Draws Up Nigeria Plans, With Limited Options to Quell Violence",
@@ -57,16 +50,23 @@
   },
   {
     "score": 62,
-    "pubdate": "2025-11-05-04-42-00 +0000",
-    "source": "wsj",
-    "headline": "Andrew Cuomo, part of New York’s political firmament for nearly half a century, finished what may be his final campaign Tuesday night after a loss to Zohran Mamdani in the N.Y.C. mayor’s race",
-    "link": "https://www.wsj.com/politics/elections/half-a-century-of-andrew-cuomos-new-york-comes-to-an-end-9a9eedef"
-  },
-  {
-    "score": 62,
     "pubdate": "2025-11-05-16-55-23 +0000",
     "source": "bbc",
     "headline": "France moves to suspend Shein website as it opens first store in Paris",
     "link": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 62,
+    "pubdate": "2025-11-04-23-11-18 +0000",
+    "source": "cbc",
+    "headline": "Democratic candidates win key governor races as California voters approve redistricting",
+    "link": "https://www.cbc.ca/news/world/virginia-new-jersey-california-elections-9.6966677?cmp=rss"
+  },
+  {
+    "score": 61,
+    "pubdate": "2025-11-05-04-42-00 +0000",
+    "source": "wsj",
+    "headline": "Andrew Cuomo, part of New York’s political firmament for nearly half a century, finished what may be his final campaign Tuesday night after a loss to Zohran Mamdani in the N.Y.C. mayor’s race",
+    "link": "https://www.wsj.com/politics/elections/half-a-century-of-andrew-cuomos-new-york-comes-to-an-end-9a9eedef"
   }
 ]
