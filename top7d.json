@@ -1,38 +1,31 @@
 [
   {
-    "score": 365,
+    "score": 360,
     "pubdate": "2025-11-04-10-00-00 +0000",
     "source": "wsj",
     "headline": "When the Supreme Court hears arguments over President Trump’s decision to impose global tariffs, the justices will weigh questions of presidential authority. Here’s what you need to know.",
     "link": "https://www.wsj.com/politics/policy/whats-at-stake-as-trumps-tariffs-go-before-the-supreme-court-61f86230"
   },
   {
-    "score": 200,
+    "score": 207,
     "pubdate": "2025-11-04-09-00-00 +0000",
     "source": "cbc",
     "headline": "Carney's 1st budget calls for billions in new spending to prop up tariff-hit economy",
     "link": "https://www.cbc.ca/news/politics/carney-first-federal-budget-9.6965161?cmp=rss"
   },
   {
-    "score": 180,
+    "score": 177,
     "pubdate": "2025-11-04-17-56-00 +0000",
     "source": "wsj",
     "headline": "The government pays out $100 billion a year in food assistance through SNAP—funds that were set to lapse and may be delayed because of the government shutdown",
     "link": "https://www.wsj.com/politics/policy/what-to-know-about-snap-as-funding-is-set-to-run-out-cb46c8fe"
   },
   {
-    "score": 131,
-    "pubdate": "2025-11-04-22-27-44 +0000",
-    "source": "nypost",
-    "headline": "NJ minor arrested in connection to bomb threat at polling site — one of dozens made across state on Election Day",
-    "link": "https://nypost.com/2025/11/04/us-news/new-jersey-minor-arrested-in-connection-to-bomb-threat-at-polling-station/"
-  },
-  {
-    "score": 125,
-    "pubdate": "2025-11-04-19-21-43 +0000",
-    "source": "nypost",
-    "headline": "Trump White House snubs ex-VP Dick Cheney, offers no condolences on his death",
-    "link": "https://nypost.com/2025/11/04/us-news/trump-white-house-snubs-ex-vice-president-dick-cheney-offers-no-condolences-on-his-death/"
+    "score": 130,
+    "pubdate": "2025-11-02-21-52-09 +0000",
+    "source": "nyt",
+    "headline": "For Day of the Dead, One Mexican Town Digs Up Its Dead",
+    "link": "https://www.nytimes.com/2025/11/02/world/americas/mexico-day-of-the-dead-bones-pomuch.html"
   },
   {
     "score": 121,
@@ -42,6 +35,20 @@
     "link": "https://www.latimes.com/california/story/2025-10-29/woman-allegedly-raped-by-man-who-offered-immigration-legal-aid"
   },
   {
+    "score": 121,
+    "pubdate": "2025-11-04-12-59-47 +0000",
+    "source": "wapo",
+    "headline": "Dick Cheney, powerful vice president during war on terrorism, dies at 84",
+    "link": "https://www.washingtonpost.com/obituaries/2025/11/04/dick-cheney-us-vice-president-dead/"
+  },
+  {
+    "score": 116,
+    "pubdate": "2025-11-05-01-00-04 +0000",
+    "source": "nypost",
+    "headline": "Democrat Abigail Spanberger wins VA gubernatorial election against GOP Lt. Gov. Winsome Earle-Sears",
+    "link": "https://nypost.com/2025/11/04/us-news/democrat-abigail-spanberger-wins-va-gubernatorial-election-against-gop-lt-gov-winsome-earle-sears/"
+  },
+  {
     "score": 107,
     "pubdate": "2025-11-04-17-31-00 +0000",
     "source": "wsj",
@@ -49,24 +56,17 @@
     "link": "https://www.wsj.com/politics/elections/divided-democrats-hope-attacking-the-trump-economy-unites-party-c98b5cec"
   },
   {
-    "score": 106,
-    "pubdate": "2025-11-01-23-39-02 +0000",
-    "source": "bbc",
-    "headline": "300 million tourists just visited China's stunning Xinjiang region. There's a side they didn't see",
-    "link": "https://www.bbc.com/news/articles/c8x1rnnd5gjo?at_medium=RSS&at_campaign=rss"
+    "score": 105,
+    "pubdate": "2025-11-04-14-19-32 +0000",
+    "source": "cbc",
+    "headline": "Israeli military's former top lawyer arrested days after resigning over leaked video of alleged prison abuse",
+    "link": "https://www.cbc.ca/news/world/israeli-military-chief-resign-arrest-9.6965816?cmp=rss"
   },
   {
-    "score": 102,
-    "pubdate": "2025-11-04-21-11-06 +0000",
-    "source": "nypost",
-    "headline": "Andrew Cuomo calls race against Zohran Mamdani ‘most important’ in his lifetime as future of NYC hangs in balance",
-    "link": "https://nypost.com/2025/11/04/us-news/cuomo-frames-race-as-most-important-election-of-my-lifetime-as-he-makes-final-election-day-pitch-to-voters/"
-  },
-  {
-    "score": 102,
-    "pubdate": "2025-11-01-15-26-45 +0000",
-    "source": "nyt",
-    "headline": "In One Jamaican Town, Hurricane Melissa Left Behind Floodwaters and Dead Livestock",
-    "link": "https://www.nytimes.com/2025/10/31/world/americas/hurricane-melissa-jamaica-flooding.html"
+    "score": 104,
+    "pubdate": "2025-11-04-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Elon Musk's latest Tesla pay package could make him the world's first trillionaire",
+    "link": "https://www.latimes.com/business/story/2025-11-04/is-elon-musk-worth-1-trillion-voters-get-to-decide"
   }
 ]
