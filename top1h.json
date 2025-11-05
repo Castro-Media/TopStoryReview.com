@@ -1,23 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-11-05-03-55-00 +0000",
+    "score": 77,
+    "pubdate": "2025-11-05-05-27-00 +0000",
     "source": "wsj",
-    "headline": "Malaysia’s Sunway Healthcare to Begin Pre-Deal Investor Talks for $1 Billion IPO",
-    "link": "https://www.wsj.com/finance/malaysias-sunway-healthcare-to-begin-pre-deal-investor-talks-for-1-billion-ipo-8cfbfc5c?mod=pls_whats_news_us_business_f"
+    "headline": "The Democratic Party won the New York City mayoral election and gubernatorial races in Virginia and New Jersey. But questions remain over strategy and how best to take on President Trump.",
+    "link": "https://www.wsj.com/politics/elections/five-takeaways-from-a-good-night-for-democrats-42cf84ec"
   },
   {
-    "score": 9,
-    "pubdate": "2025-11-05-03-55-45 +0000",
-    "source": "bbc",
-    "headline": "Zohran Mamdani projected winner of New York City mayoral election",
-    "link": "https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss"
+    "score": 39,
+    "pubdate": "2025-11-05-05-33-00 +0000",
+    "source": "wsj",
+    "headline": "Lawmakers are hopeful they can reach a bipartisan deal to end the government shutdown, as Trump again demands Republicans bypass Democrats and reopen government",
+    "link": "https://www.wsj.com/politics/policy/lawmakers-see-hope-for-ending-shutdown-as-record-nears-863df59d"
   },
   {
-    "score": 8,
-    "pubdate": "2025-11-05-03-57-00 +0000",
+    "score": 28,
+    "pubdate": "2025-11-05-05-04-23 +0000",
+    "source": "nyt",
+    "headline": "Mikie Sherrill, a Democrat, Wins New Jersey Governor’s Race",
+    "link": "https://www.nytimes.com/2025/11/04/us/politics/nj-governor-mikie-sherrill.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-11-05-05-42-00 +0000",
     "source": "wsj",
-    "headline": "UPS Cargo Plane Crash in Kentucky Kills Four, Injures 11",
-    "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671"
+    "headline": "Hong Kong Exchange Operator Posts Another Record Quarter on Stronger Trading, Listing Activity",
+    "link": "https://www.wsj.com/business/earnings/hong-kong-exchange-operator-posts-another-record-quarter-on-stronger-trading-listing-activity-6faac12c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-05-04-56-46 +0000",
+    "source": "nypost",
+    "headline": "Andrew Cuomo’s embarrassing loss to Zohran Mamdani in NYC mayoral election ends Cuomo family political dynasty",
+    "link": "https://nypost.com/2025/11/04/us-news/andrew-cuomo-lost-to-mamdani-in-nyc-mayoral-election-lost-ends-cuomo-family-political-dynasty/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-05-05-48-18 +0000",
+    "source": "nypost",
+    "headline": "Federal judge orders White House to restore sign language interpreters at press briefings",
+    "link": "https://nypost.com/2025/11/05/us-news/federal-judge-orders-white-house-to-restore-sign-language-interpreters-at-press-briefings/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-11-05-05-31-36 +0000",
+    "source": "nyt",
+    "headline": "How the California Prop. 50 Redistricting Plan Will Affect 2026 Elections",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/california-prop-50-map-redistricting-democrats.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-05-05-07-44 +0000",
+    "source": "nyt",
+    "headline": "The Democrats Just Took a Big Step Toward Getting Their Groove Back",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/democratic-party-mamdani.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-05-05-39-30 +0000",
+    "source": "nyt",
+    "headline": "Scars in the Blue Mosque Reveal Afghanistan’s Rifts",
+    "link": "https://www.nytimes.com/2025/11/05/world/africa/blue-mosque-afghanistan-earthquake.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-05-05-03-46 +0000",
+    "source": "nyt",
+    "headline": "On Eve of Shutdown Record, Trump Officials Threaten Pain Could Worsen",
+    "link": "https://www.nytimes.com/2025/11/04/us/politics/trump-administration-pain-shutdown.html"
   }
 ]
