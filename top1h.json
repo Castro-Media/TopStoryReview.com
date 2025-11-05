@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 49,
+    "pubdate": "2025-11-05-22-03-34 +0000",
+    "source": "nyt",
+    "headline": "Key Justices on Supreme Court Cast a Skeptical Eye on Trump’s Tariffs",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/supreme-court-trump-tariffs.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-11-05-22-07-00 +0000",
+    "source": "wsj",
+    "headline": "Maine Rep. Jared Golden, one of the most vulnerable House Democrats, said he wouldn’t seek re-election for another term, citing the threat of political violence and dysfunction in Washington",
+    "link": "https://www.wsj.com/politics/elections/jared-golden-house-democrat-to-quit-congress-c4c6e7a5"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-11-05-22-21-18 +0000",
+    "source": "nypost",
+    "headline": "A beloved shop cat named Bob is feared dead after UPS plane’s fireball crash: ‘He was a good cat’",
+    "link": "https://nypost.com/2025/11/05/us-news/a-beloved-shop-cat-named-bob-is-feared-dead-after-ups-planes-fireball-crash/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-11-05-22-08-07 +0000",
+    "source": "nypost",
+    "headline": "NYC tech workers celebrate Mamdani’s mayoral win — but their bosses are worried",
+    "link": "https://nypost.com/2025/11/05/business/nyc-tech-workers-celebrate-mamdanis-mayoral-win-but-their-bosses-are-worried/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-11-05-22-28-52 +0000",
+    "source": "nyt",
+    "headline": "FAA Warns of Air Traffic Cuts Friday if Government Shutdown Continues",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/faa-flights-air-traffic-government-shutdown.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-11-05-22-24-00 +0000",
+    "source": "wsj",
+    "headline": "Bank of Canada Gov. Tiff Macklem said the current rate policy appears appropriate to balance inflation risks while providing the economy with support",
+    "link": "https://www.wsj.com/articles/bank-of-canada-gov-macklem-tells-lawmakers-rate-policy-at-right-level-5f41d1cc"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-11-05-22-25-00 +0000",
+    "source": "wsj",
+    "headline": "NAB’s Annual Profit Falls Amid Higher Costs, Credit Impairments",
+    "link": "https://www.wsj.com/business/earnings/nabs-annual-profit-falls-amid-higher-costs-credit-impairments-4e2ec691?mod=rss_markets_main"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-05-22-17-32 +0000",
+    "source": "nyt",
+    "headline": "Sara Terry, Photographer Who Captured War’s Aftermath, Dies at 70",
+    "link": "https://www.nytimes.com/2025/11/04/arts/design/sara-terry-dead.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-05-22-46-07 +0000",
+    "source": "nyt",
+    "headline": "Libya Detains Former Prison Director Wanted for Crimes Against Humanity",
+    "link": "https://www.nytimes.com/2025/11/05/world/middleeast/libya-italy-njeem.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-05-22-11-00 +0000",
+    "source": "wsj",
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-80b9128c?mod=rss_markets_main"
+  }
+]
