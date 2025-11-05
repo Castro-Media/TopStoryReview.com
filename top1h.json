@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 32,
+    "pubdate": "2025-11-05-16-26-30 +0000",
+    "source": "nyt",
+    "headline": "Some SNAP Recipients May Not Receive Food Stamps in November Amid Government Shutdown",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/snap-payments-white-house.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-11-05-16-55-23 +0000",
+    "source": "bbc",
+    "headline": "France moves to suspend Shein website as it opens first store in Paris",
+    "link": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-11-05-16-26-26 +0000",
+    "source": "nyt",
+    "headline": "Zohran Mamdani’s Triumph in the NYC Mayoral Race Evokes Intense Reaction in Israel",
+    "link": "https://www.nytimes.com/2025/11/05/world/middleeast/zohran-mamdani-israel-reaction.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-11-05-16-40-28 +0000",
+    "source": "latimes",
+    "headline": "Democratic wins nationwide, a major rebuke of Trump, offer left hope for 2026",
+    "link": "https://www.latimes.com/politics/story/2025-11-05/national-political-analysis-trump-mamdani"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-05-16-48-39 +0000",
+    "source": "nyt",
+    "headline": "After Deadly Plane Crash at UPS Hub in Louisville, Some Deliveries May Be Delayed",
+    "link": "https://www.nytimes.com/2025/11/05/world/europe/ups-louisville-shipping-delays.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-11-05-16-11-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. added 42,000 private-sector jobs in October, payroll-processing giant ADP, with trade, education and healthcare sectors driving gains",
+    "link": "https://www.wsj.com/economy/jobs/u-s-hiring-rises-for-first-time-since-july-adp-reports-3df1d712"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-05-16-17-41 +0000",
+    "source": "bbc",
+    "headline": "Two critically injured after driver rams into people on French island",
+    "link": "https://www.bbc.com/news/articles/c205z4963vyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-05-16-14-28 +0000",
+    "source": "bbc",
+    "headline": "US courts stay deportation of Indian-origin man wrongly jailed for 43 years",
+    "link": "https://www.bbc.com/news/articles/cx2n04e88d8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-05-16-11-00 +0000",
+    "source": "wsj",
+    "headline": "Solid ISM Services PMI Boosts Yields, Dollar",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-32c11ca6?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-05-16-36-28 +0000",
+    "source": "startribune",
+    "headline": "Olson: St. Paul Mayor-elect Kaohly Her emerges as a new Minnesota star",
+    "link": "https://www.startribune.com/twin-cities-election-results-2025-stp-mayoral-race/601516894"
+  }
+]
