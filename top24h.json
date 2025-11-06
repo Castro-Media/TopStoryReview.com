@@ -1,13 +1,13 @@
 [
   {
-    "score": 293,
+    "score": 285,
     "pubdate": "2025-11-05-06-34-00 +0000",
     "source": "wsj",
     "headline": "The Democratic Party won the New York City mayoral election and gubernatorial races in Virginia and New Jersey. But questions remain over strategy and how best to take on President Trump.",
     "link": "https://www.wsj.com/politics/elections/five-takeaways-from-a-good-night-for-democrats-42cf84ec"
   },
   {
-    "score": 153,
+    "score": 161,
     "pubdate": "2025-11-05-14-02-20 +0000",
     "source": "nypost",
     "headline": "Socialist NYC Mayor-elect Zohran Mamdani fires shots at President Trump, threatens he will ‘utilize the courts’",
@@ -21,18 +21,11 @@
     "link": "https://www.wsj.com/politics/policy/lawmakers-see-hope-for-ending-shutdown-as-record-nears-863df59d"
   },
   {
-    "score": 91,
-    "pubdate": "2025-11-05-14-46-41 +0000",
-    "source": "nyt",
-    "headline": "Tariffs Are Here to Stay, Even if the Supreme Court Rules Against Trump",
-    "link": "https://www.nytimes.com/2025/11/05/us/politics/trump-tariff-alternatives.html"
-  },
-  {
-    "score": 84,
-    "pubdate": "2025-11-05-22-07-00 +0000",
+    "score": 111,
+    "pubdate": "2025-11-06-00-48-00 +0000",
     "source": "wsj",
-    "headline": "Maine Rep. Jared Golden, one of the most vulnerable House Democrats, said he wouldn’t seek re-election for another term, citing the threat of political violence and dysfunction in Washington",
-    "link": "https://www.wsj.com/politics/elections/jared-golden-house-democrat-to-quit-congress-c4c6e7a5"
+    "headline": "President Trump needs five votes at the Supreme Court if he wants to maintain the global tariffs at the center of his economic plan. He seems likely to fall short of that number.",
+    "link": "https://www.wsj.com/politics/policy/a-justice-by-justice-breakdown-on-trumps-tariffs-bb3b5cab"
   },
   {
     "score": 75,
@@ -42,7 +35,14 @@
     "link": "https://nypost.com/2025/11/05/us-news/a-beloved-shop-cat-named-bob-is-feared-dead-after-ups-planes-fireball-crash/"
   },
   {
-    "score": 63,
+    "score": 74,
+    "pubdate": "2025-11-05-22-07-00 +0000",
+    "source": "wsj",
+    "headline": "Maine Rep. Jared Golden, one of the most vulnerable House Democrats, said he wouldn’t seek re-election for another term, citing the threat of political violence and dysfunction in Washington",
+    "link": "https://www.wsj.com/politics/elections/jared-golden-house-democrat-to-quit-congress-c4c6e7a5"
+  },
+  {
+    "score": 62,
     "pubdate": "2025-11-05-18-43-43 +0000",
     "source": "nyt",
     "headline": "U.S. Military Draws Up Nigeria Plans, With Limited Options to Quell Violence",
@@ -50,23 +50,23 @@
   },
   {
     "score": 61,
-    "pubdate": "2025-11-05-21-21-00 +0000",
-    "source": "wsj",
-    "headline": "Trump urged Republican senators to jettison the filibuster to pass GOP-backed legislation after his party suffered losses in key races during Tuesday’s elections",
-    "link": "https://www.wsj.com/politics/policy/trumps-answer-to-gop-election-losses-end-the-filibuster-03118e99"
-  },
-  {
-    "score": 60,
-    "pubdate": "2025-11-05-11-00-00 +0000",
+    "pubdate": "2025-11-05-23-54-49 +0000",
     "source": "nypost",
-    "headline": "Eric Trump refuses to rule out dad running for third term — or himself — while discussing 2024 victory on ‘Pod Force One’",
-    "link": "https://nypost.com/2025/11/05/us-news/eric-trump-refuses-to-rule-out-dad-running-for-third-term-or-himself-while-discussing-2024-victory-on-pod-force-one/"
+    "headline": "New Jersey Hispanic, Latino voters swung sharply to Mikie Sherrill –wiping out 2024 GOP gains, data shows",
+    "link": "https://nypost.com/2025/11/05/us-news/nj-hispanic-latino-voters-swung-sharply-to-mikie-sherrill-wiping-out-2024-gop-gains-data-shows/"
   },
   {
-    "score": 56,
+    "score": 57,
     "pubdate": "2025-11-05-16-55-23 +0000",
     "source": "bbc",
     "headline": "France moves to suspend Shein website as it opens first store in Paris",
     "link": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 56,
+    "pubdate": "2025-11-05-20-10-00 +0000",
+    "source": "wsj",
+    "headline": "Zohran Mamdani sealed his mayoral victory in New York City with gains in several key areas. Here are some notable takeaways.",
+    "link": "https://www.wsj.com/politics/elections/the-voters-who-propelled-mamdani-to-victory-e6a258b3"
   }
 ]

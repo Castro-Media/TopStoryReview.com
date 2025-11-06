@@ -1,52 +1,45 @@
 [
   {
-    "score": 464,
+    "score": 465,
     "pubdate": "2025-11-05-06-34-00 +0000",
     "source": "wsj",
     "headline": "The Democratic Party won the New York City mayoral election and gubernatorial races in Virginia and New Jersey. But questions remain over strategy and how best to take on President Trump.",
     "link": "https://www.wsj.com/politics/elections/five-takeaways-from-a-good-night-for-democrats-42cf84ec"
   },
   {
-    "score": 220,
+    "score": 229,
+    "pubdate": "2025-11-06-00-48-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump needs five votes at the Supreme Court if he wants to maintain the global tariffs at the center of his economic plan. He seems likely to fall short of that number.",
+    "link": "https://www.wsj.com/politics/policy/a-justice-by-justice-breakdown-on-trumps-tariffs-bb3b5cab"
+  },
+  {
+    "score": 223,
     "pubdate": "2025-11-04-17-56-00 +0000",
     "source": "wsj",
     "headline": "The government pays out $100 billion a year in food assistance through SNAP—funds that were set to lapse and may be delayed because of the government shutdown",
     "link": "https://www.wsj.com/politics/policy/what-to-know-about-snap-as-funding-is-set-to-run-out-cb46c8fe"
   },
   {
-    "score": 209,
+    "score": 185,
     "pubdate": "2025-11-05-14-02-20 +0000",
     "source": "nypost",
     "headline": "Socialist NYC Mayor-elect Zohran Mamdani fires shots at President Trump, threatens he will ‘utilize the courts’",
     "link": "https://nypost.com/2025/11/05/us-news/zohran-mamdani-fires-shots-at-trump-threatens-to-utilize-the-courts/"
   },
   {
-    "score": 168,
+    "score": 164,
     "pubdate": "2025-11-04-09-00-00 +0000",
     "source": "cbc",
     "headline": "Carney's 1st budget calls for billions in new spending to prop up tariff-hit economy",
     "link": "https://www.cbc.ca/news/politics/carney-first-federal-budget-9.6965161?cmp=rss"
   },
   {
-    "score": 163,
-    "pubdate": "2025-11-04-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "When the Supreme Court hears arguments over President Trump’s decision to impose global tariffs, the justices will weigh questions of presidential authority. Here’s what you need to know.",
-    "link": "https://www.wsj.com/politics/policy/whats-at-stake-as-trumps-tariffs-go-before-the-supreme-court-61f86230"
-  },
-  {
-    "score": 140,
+    "score": 130,
     "pubdate": "2025-11-05-22-07-00 +0000",
     "source": "wsj",
     "headline": "Maine Rep. Jared Golden, one of the most vulnerable House Democrats, said he wouldn’t seek re-election for another term, citing the threat of political violence and dysfunction in Washington",
     "link": "https://www.wsj.com/politics/elections/jared-golden-house-democrat-to-quit-congress-c4c6e7a5"
-  },
-  {
-    "score": 112,
-    "pubdate": "2025-11-04-23-11-18 +0000",
-    "source": "cbc",
-    "headline": "Democratic candidates win key governor races as California voters approve redistricting",
-    "link": "https://www.cbc.ca/news/world/virginia-new-jersey-california-elections-9.6966677?cmp=rss"
   },
   {
     "score": 110,
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2025/11/05/us-news/a-beloved-shop-cat-named-bob-is-feared-dead-after-ups-planes-fireball-crash/"
   },
   {
-    "score": 109,
-    "pubdate": "2025-11-04-14-19-32 +0000",
+    "score": 107,
+    "pubdate": "2025-11-04-23-11-18 +0000",
     "source": "cbc",
-    "headline": "Israeli military's former top lawyer arrested days after resigning over leaked video of alleged prison abuse",
-    "link": "https://www.cbc.ca/news/world/israeli-military-chief-resign-arrest-9.6965816?cmp=rss"
+    "headline": "Democratic candidates win key governor races as California voters approve redistricting",
+    "link": "https://www.cbc.ca/news/world/virginia-new-jersey-california-elections-9.6966677?cmp=rss"
   },
   {
-    "score": 93,
-    "pubdate": "2025-11-05-10-21-33 +0000",
-    "source": "bbc",
-    "headline": "Trader who inspired The Big Short bets against AI as tech shares fall",
-    "link": "https://www.bbc.com/news/articles/c867vyn2evlo?at_medium=RSS&at_campaign=rss"
+    "score": 100,
+    "pubdate": "2025-11-02-20-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration believes it can continue its lethal military campaign against alleged drug-running boats without congressional authorization",
+    "link": "https://www.wsj.com/politics/national-security/white-house-says-congressional-approval-not-needed-for-lethal-boat-strikes-3dc4af03"
+  },
+  {
+    "score": 98,
+    "pubdate": "2025-11-03-19-16-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Reserve governor Lisa Cook said she supported last week’s decision to cut interest rates because she thought weaker-than-expected job-market conditions remained a greater risk than persistent inflation",
+    "link": "https://www.wsj.com/economy/central-banking/embattled-fed-governor-lisa-cook-voices-support-for-recent-rate-cut-1b006d8e"
   }
 ]
