@@ -1,38 +1,45 @@
 [
   {
-    "score": 251,
+    "score": 248,
     "pubdate": "2025-11-06-00-48-00 +0000",
     "source": "wsj",
     "headline": "President Trump needs five votes at the Supreme Court if he wants to maintain the global tariffs at the center of his economic plan. He seems likely to fall short of that number.",
     "link": "https://www.wsj.com/politics/policy/a-justice-by-justice-breakdown-on-trumps-tariffs-bb3b5cab"
   },
   {
-    "score": 187,
+    "score": 189,
     "pubdate": "2025-11-06-05-58-57 +0000",
     "source": "nypost",
     "headline": "Florida sheriff invites New Yorkers looking to flee city after Zohran Mamdani’s mayoral election win: ‘Beginning of a new life’",
     "link": "https://nypost.com/2025/11/06/us-news/florida-sheriff-invites-new-yorkers-to-move-after-zohran-mamdani-nyc-mayoral-election/"
   },
   {
-    "score": 120,
-    "pubdate": "2025-11-06-03-20-00 +0000",
-    "source": "wsj",
-    "headline": "The Federal Aviation Administration said it was ordering airline traffic to be reduced by 10% at 40 airports while air-traffic controllers work without pay during the government shutdown",
-    "link": "https://www.wsj.com/business/airlines/u-s-to-reduce-flight-traffic-by-10-in-40-markets-due-to-shutdown-2ce4fc4f"
+    "score": 111,
+    "pubdate": "2025-11-06-10-46-38 +0000",
+    "source": "nypost",
+    "headline": "FAA reveals airports facing flight cancellations during historic government shutdown — including major hubs in NYC area",
+    "link": "https://nypost.com/2025/11/06/us-news/faa-reveals-airports-facing-flight-cancellations-during-historic-government-shutdown-including-major-hubs-in-nyc-area/"
   },
   {
-    "score": 83,
+    "score": 88,
     "pubdate": "2025-11-05-22-07-00 +0000",
     "source": "wsj",
     "headline": "Maine Rep. Jared Golden, one of the most vulnerable House Democrats, said he wouldn’t seek re-election for another term, citing the threat of political violence and dysfunction in Washington",
     "link": "https://www.wsj.com/politics/elections/jared-golden-house-democrat-to-quit-congress-c4c6e7a5"
   },
   {
-    "score": 67,
-    "pubdate": "2025-11-06-00-53-03 +0000",
-    "source": "startribune",
-    "headline": "St. Paul Mayor-elect Kaohly Her on how she won and what she plans to do next",
-    "link": "https://www.startribune.com/st-paul-mayor-elect-kaohly-her-interview/601517161"
+    "score": 68,
+    "pubdate": "2025-11-05-23-28-53 +0000",
+    "source": "nyt",
+    "headline": "Two Republican Incumbents Will Face Off as Red Turf Shrinks in California",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/house-election-ken-calvert-young-kim.html"
+  },
+  {
+    "score": 64,
+    "pubdate": "2025-11-05-21-27-00 +0000",
+    "source": "wsj",
+    "headline": "Death Toll in UPS Cargo-Plane Crash Climbs to 11, Workers Still Missing",
+    "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671"
   },
   {
     "score": 64,
@@ -42,28 +49,21 @@
     "link": "https://www.bbc.com/news/articles/cy40q990g28o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
-    "pubdate": "2025-11-05-21-27-00 +0000",
-    "source": "wsj",
-    "headline": "Death Toll in UPS Cargo-Plane Crash Climbs to 11, Workers Still Missing",
-    "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-11-05-23-28-53 +0000",
+    "score": 60,
+    "pubdate": "2025-11-05-18-43-43 +0000",
     "source": "nyt",
-    "headline": "Two Republican Incumbents Will Face Off as Red Turf Shrinks in California",
-    "link": "https://www.nytimes.com/2025/11/05/us/politics/house-election-ken-calvert-young-kim.html"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-11-06-10-46-38 +0000",
-    "source": "nypost",
-    "headline": "FAA reveals airports facing flight cancellations during historic government shutdown — including major hubs in NYC area",
-    "link": "https://nypost.com/2025/11/06/us-news/faa-reveals-airports-facing-flight-cancellations-during-historic-government-shutdown-including-major-hubs-in-nyc-area/"
+    "headline": "U.S. Military Draws Up Nigeria Plans, With Limited Options to Quell Violence",
+    "link": "https://www.nytimes.com/2025/11/05/us/politics/nigeria-us-military.html"
   },
   {
     "score": 56,
+    "pubdate": "2025-11-06-11-17-29 +0000",
+    "source": "cbc",
+    "headline": "Vietnam evacuates hundreds of thousands ahead of Typhoon Kalmaegi, which left 114 dead in Philippines",
+    "link": "https://www.cbc.ca/news/world/typhoon-kalmaegi-vietnam-philippine-9.6968843?cmp=rss"
+  },
+  {
+    "score": 53,
     "pubdate": "2025-11-05-20-10-00 +0000",
     "source": "wsj",
     "headline": "Zohran Mamdani sealed his mayoral victory in New York City with gains in several key areas. Here are some notable takeaways.",
