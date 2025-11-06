@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "score": 12,
+    "pubdate": "2025-11-06-13-03-08 +0000",
+    "source": "bbc",
+    "headline": "Bank says inflation has 'peaked' as it holds interest rates",
+    "link": "https://www.bbc.com/news/articles/c77zkg5504eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-06-12-59-00 +0000",
+    "source": "wsj",
+    "headline": "UPS Plane That Crashed Was 34 Years Old—and Repaired in September",
+    "link": "https://www.wsj.com/business/airlines/ups-plane-that-crashed-was-34-years-oldand-repaired-in-september-9b4828db"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-11-06-12-58-55 +0000",
+    "source": "nyt",
+    "headline": "The U.S. Is Skipping This Year’s Climate Summit. For Many, That’s OK.",
+    "link": "https://www.nytimes.com/2025/11/06/climate/belem-brazi-cop30-trump.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-06-13-03-08 +0000",
+    "source": "bbc",
+    "headline": "Bank says inflation has 'peaked' as it holds interest rates",
+    "link": "https://www.bbc.com/news/articles/c77zkg5504eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-06-12-59-00 +0000",
+    "source": "wsj",
+    "headline": "UPS Plane That Crashed Was 34 Years Old—and Repaired in September",
+    "link": "https://www.wsj.com/business/airlines/ups-plane-that-crashed-was-34-years-oldand-repaired-in-september-9b4828db?mod=pls_whats_news_us_business_f"
+  }
+]
