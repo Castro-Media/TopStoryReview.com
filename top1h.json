@@ -1,9 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2025-11-06-20-53-41 +0000",
+    "score": 84,
+    "pubdate": "2025-11-06-22-27-00 +0000",
+    "source": "wsj",
+    "headline": "A federal judge has ordered the Trump administration to fully fund food-assistance benefits for November by Friday, criticizing the government’s efforts so far to make payments during the shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-must-fully-fund-snap-benefits-for-november-judge-rules-07d01808"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-11-06-22-09-16 +0000",
     "source": "nypost",
-    "headline": "Supreme Court rules Trump admin can mandate passports to display Americans’ birth sex",
-    "link": "https://nypost.com/2025/11/06/us-news/supreme-court-rules-trump-admin-can-mandate-passports-to-display-americans-birth-sex/"
+    "headline": "Tesla shareholders approve Elon Musk’s historic $1 trillion pay package — here’s when he could pocket the windfall",
+    "link": "https://nypost.com/2025/11/06/business/tesla-shareholders-approve-elon-musks-historic-1-trillion-pay-package-heres-when-he-could-pocket-the-windfall/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-11-06-22-14-40 +0000",
+    "source": "nypost",
+    "headline": "Senate to vote on full-year funding for military, veterans affairs and SNAP in latest bid to end record shutdown",
+    "link": "https://nypost.com/2025/11/06/us-news/senate-to-vote-on-full-year-funding-for-military-veterans-affairs-and-snap-to-end-record-shutdown/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-11-06-22-34-31 +0000",
+    "source": "nypost",
+    "headline": "Long Island GOP surges as insiders warn Zohran Mamdani’s agenda has ‘no allure in the suburbs’",
+    "link": "https://nypost.com/2025/11/06/us-news/long-island-gop-surges-as-insiders-warn-zohran-mamdanis-agenda-has-no-allure-in-the-suburbs/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-11-06-22-30-00 +0000",
+    "source": "wsj",
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/health/health-care-roundup-market-talk-c17d60a4?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-06-22-23-55 +0000",
+    "source": "nyt",
+    "headline": "Democrats Mull Shutdown Off-Ramps as Thune Prepares Spending Vote",
+    "link": "https://www.nytimes.com/2025/11/06/us/politics/democrats-republicans-shutdown-votes.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-06-22-50-15 +0000",
+    "source": "nypost",
+    "headline": "Newark International Airport facing flight delays of nearly 3 hours due to government shutdown – and it will only get worse",
+    "link": "https://nypost.com/2025/11/06/us-news/newark-international-airport-facing-flight-delays-of-over-3-hours-due-to-government-shutdown/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-06-22-39-16 +0000",
+    "source": "nyt",
+    "headline": "Kazakhstan May Join the Trump-Brokered Abraham Accords",
+    "link": "https://www.nytimes.com/2025/11/06/us/politics/kazakhstan-abraham-accords.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-06-22-50-00 +0000",
+    "source": "wsj",
+    "headline": "Virginia voters elected Jay Jones as attorney general despite a texting scandal that might once have disqualified him",
+    "link": "https://www.wsj.com/politics/elections/jay-jones-sent-violent-texts-voters-didnt-seem-to-care-89f71918"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-06-22-32-00 +0000",
+    "source": "wsj",
+    "headline": "MP Materials Third-Quarter Loss Widens After Ceasing China Sales",
+    "link": "https://www.wsj.com/business/earnings/mp-materials-third-quarter-loss-widens-after-ceasing-china-sales-59e8bb39?mod=pls_whats_news_us_business_f"
   }
 ]
