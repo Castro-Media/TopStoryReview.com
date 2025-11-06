@@ -1,6 +1,6 @@
 [
   {
-    "score": 257,
+    "score": 251,
     "pubdate": "2025-11-06-00-48-00 +0000",
     "source": "wsj",
     "headline": "President Trump needs five votes at the Supreme Court if he wants to maintain the global tariffs at the center of his economic plan. He seems likely to fall short of that number.",
@@ -14,14 +14,14 @@
     "link": "https://nypost.com/2025/11/06/us-news/florida-sheriff-invites-new-yorkers-to-move-after-zohran-mamdani-nyc-mayoral-election/"
   },
   {
-    "score": 122,
+    "score": 120,
     "pubdate": "2025-11-06-03-20-00 +0000",
     "source": "wsj",
     "headline": "The Federal Aviation Administration said it was ordering airline traffic to be reduced by 10% at 40 airports while air-traffic controllers work without pay during the government shutdown",
     "link": "https://www.wsj.com/business/airlines/u-s-to-reduce-flight-traffic-by-10-in-40-markets-due-to-shutdown-2ce4fc4f"
   },
   {
-    "score": 85,
+    "score": 83,
     "pubdate": "2025-11-05-22-07-00 +0000",
     "source": "wsj",
     "headline": "Maine Rep. Jared Golden, one of the most vulnerable House Democrats, said he wouldn’t seek re-election for another term, citing the threat of political violence and dysfunction in Washington",
@@ -49,7 +49,7 @@
     "link": "https://www.wsj.com/us-news/ups-cargo-plane-crashes-in-kentucky-1a199671?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2025-11-05-23-28-53 +0000",
     "source": "nyt",
     "headline": "Two Republican Incumbents Will Face Off as Red Turf Shrinks in California",
@@ -57,16 +57,16 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-11-05-20-10-00 +0000",
-    "source": "wsj",
-    "headline": "Zohran Mamdani sealed his mayoral victory in New York City with gains in several key areas. Here are some notable takeaways.",
-    "link": "https://www.wsj.com/politics/elections/the-voters-who-propelled-mamdani-to-victory-e6a258b3"
-  },
-  {
-    "score": 58,
     "pubdate": "2025-11-06-10-46-38 +0000",
     "source": "nypost",
     "headline": "FAA reveals airports facing flight cancellations during historic government shutdown — including major hubs in NYC area",
     "link": "https://nypost.com/2025/11/06/us-news/faa-reveals-airports-facing-flight-cancellations-during-historic-government-shutdown-including-major-hubs-in-nyc-area/"
+  },
+  {
+    "score": 56,
+    "pubdate": "2025-11-05-20-10-00 +0000",
+    "source": "wsj",
+    "headline": "Zohran Mamdani sealed his mayoral victory in New York City with gains in several key areas. Here are some notable takeaways.",
+    "link": "https://www.wsj.com/politics/elections/the-voters-who-propelled-mamdani-to-victory-e6a258b3"
   }
 ]
