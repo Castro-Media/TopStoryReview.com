@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "score": 16,
+    "pubdate": "2025-11-07-12-53-38 +0000",
+    "source": "bbc",
+    "headline": "Fifty-four people injured in mosque blast at Jakarta high school",
+    "link": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-07-13-00-31 +0000",
+    "source": "wapo",
+    "headline": "‘Hero’ passengers secure girl mid-roller coaster as her seatbelt fails",
+    "link": "https://www.washingtonpost.com/lifestyle/2025/11/07/missouri-roller-coaster-seat-belt/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-11-07-13-01-03 +0000",
+    "source": "bbc",
+    "headline": "Rightmove shares plummet over AI investment plans",
+    "link": "https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-11-07-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Enbridge Quarterly Profit Slides",
+    "link": "https://www.wsj.com/business/earnings/enbridge-quarterly-profit-slides-a3c093db?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-11-07-12-58-14 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest on the flight reductions.",
+    "link": "https://www.nytimes.com/live/2025/11/07/us/shutdown-airports-flight-cuts/heres-the-latest-on-the-flight-reductions"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-07-12-53-38 +0000",
+    "source": "bbc",
+    "headline": "Fifty-four people injured in mosque blast at Jakarta high school",
+    "link": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss"
+  }
+]
