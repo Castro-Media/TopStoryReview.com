@@ -1,44 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2025-11-07-12-53-38 +0000",
-    "source": "bbc",
-    "headline": "Fifty-four people injured in mosque blast at Jakarta high school",
-    "link": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-11-07-13-00-31 +0000",
-    "source": "wapo",
-    "headline": "‘Hero’ passengers secure girl mid-roller coaster as her seatbelt fails",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/11/07/missouri-roller-coaster-seat-belt/"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-11-07-13-01-03 +0000",
-    "source": "bbc",
-    "headline": "Rightmove shares plummet over AI investment plans",
-    "link": "https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-11-07-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Enbridge Quarterly Profit Slides",
-    "link": "https://www.wsj.com/business/earnings/enbridge-quarterly-profit-slides-a3c093db?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 4,
-    "pubdate": "2025-11-07-12-58-14 +0000",
+    "score": 34,
+    "pubdate": "2025-11-07-14-40-24 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest on the flight reductions.",
-    "link": "https://www.nytimes.com/live/2025/11/07/us/shutdown-airports-flight-cuts/heres-the-latest-on-the-flight-reductions"
+    "headline": "Trump Administration Seeks Immediate Halt to Court Order to Pay Food Stamps",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-11-07-12-53-38 +0000",
-    "source": "bbc",
-    "headline": "Fifty-four people injured in mosque blast at Jakarta high school",
-    "link": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss"
+    "score": 26,
+    "pubdate": "2025-11-07-14-11-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Majority Leader John Thune expects Senate Republicans to vote on a new proposal Friday that aims to end the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-senate-vote-7aa7ec4d"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-11-07-14-21-58 +0000",
+    "source": "nypost",
+    "headline": "Fired up Elise Stefanik rips ‘toxic’ Hochul for ‘bending the knee’ to socialist Zohran Mamdani",
+    "link": "https://nypost.com/2025/11/07/us-news/elise-stefanik-rips-kathy-hochul-over-zohran-mamdani/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-07-14-32-47 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Tariffs Scar Canadian City Where Cars Have Been Made for Decades",
+    "link": "https://www.nytimes.com/2025/11/07/world/canada/trump-tariffs-stellantis-canada-brampton.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-07-14-42-00 +0000",
+    "source": "wsj",
+    "headline": "What We Know About the FAA Restrictions and Which Airports Will Be Affected",
+    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-07-14-14-29 +0000",
+    "source": "nypost",
+    "headline": "Freed Israeli hostage reveals unthinkable horror during captivity: ‘Something even the Nazis didn’t do’",
+    "link": "https://nypost.com/2025/11/07/us-news/freed-israeli-hostage-reveals-unthinkable-horror-during-captivity/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-07-14-48-15 +0000",
+    "source": "nyt",
+    "headline": "Fatos Nano, Albanian Leader in Era of Chaos and Transition, Dies at 73",
+    "link": "https://www.nytimes.com/2025/11/07/world/europe/fatos-nano-dead.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-07-14-49-06 +0000",
+    "source": "nypost",
+    "headline": "Kanye West makes groveling apology to NYC rabbi, blames bipolar disorder, after years of antisemitic tirades",
+    "link": "https://nypost.com/2025/11/07/us-news/kanye-west-makes-groveling-apology-to-new-york-city-rabbi-yoshiyahu-yosef-pinto-blames-bipolar-disorder-after-years-of-antisemitic-tirades/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-07-14-42-26 +0000",
+    "source": "cbc",
+    "headline": "Called narco-terrorists by Trump administration, men 'executed' in Venezuela are mourned by loved ones",
+    "link": "https://www.cbc.ca/news/world/trump-alleged-drug-vessel-victims-9.6970471?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-07-14-43-00 +0000",
+    "source": "wsj",
+    "headline": "IKEA Owner Reports Sharp Drop in Earnings on Tariffs, Costs and Price Cuts",
+    "link": "https://www.wsj.com/business/retail/ikea-owner-reports-sharp-drop-in-earnings-on-tariffs-costs-and-price-cuts-28b4b405?mod=pls_whats_news_us_business_f"
   }
 ]
