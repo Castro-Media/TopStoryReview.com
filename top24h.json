@@ -1,6 +1,6 @@
 [
   {
-    "score": 171,
+    "score": 180,
     "pubdate": "2025-11-08-02-02-29 +0000",
     "source": "nypost",
     "headline": "Supreme Court allows Trump admin to temporarily withhold full SNAP benefits amid government shutdown in emergency order",
@@ -14,14 +14,7 @@
     "link": "https://www.wsj.com/politics/policy/trump-prices-affordability-inflation-75922cfb"
   },
   {
-    "score": 83,
-    "pubdate": "2025-11-07-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Your flight was canceled amid FAA's cuts to air traffic. Here's what you can do about it",
-    "link": "https://www.latimes.com/california/story/2025-11-07/your-flight-was-canceled-amid-faas-cuts-to-air-traffic-heres-what-you-can-do-about-it"
-  },
-  {
-    "score": 71,
+    "score": 73,
     "pubdate": "2025-11-07-22-14-08 +0000",
     "source": "nyt",
     "headline": "In Cozying Up to Trump, Leaders Hedge Their Reliance on Moscow and Beijing",
@@ -29,44 +22,51 @@
   },
   {
     "score": 66,
-    "pubdate": "2025-11-08-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
-    "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
-  },
-  {
-    "score": 62,
     "pubdate": "2025-11-08-08-51-00 +0000",
     "source": "wsj",
     "headline": "UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash",
     "link": "https://www.wsj.com/us-news/ups-and-fedex-ground-md-11-fleets-after-deadly-kentucky-plane-crash-9c84ac2c"
   },
   {
-    "score": 55,
-    "pubdate": "2025-11-07-11-20-34 +0000",
-    "source": "bbc",
-    "headline": "Four held after protesters set off flares during Israeli orchestra concert in Paris",
-    "link": "https://www.bbc.com/news/articles/c3w9lgx1gnxo?at_medium=RSS&at_campaign=rss"
+    "score": 62,
+    "pubdate": "2025-11-08-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
+    "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
   },
   {
-    "score": 54,
+    "score": 55,
     "pubdate": "2025-11-08-04-19-00 +0000",
     "source": "wsj",
     "headline": "A district court judge has blocked the Trump administration’s effort to deploy National Guard troops to Portland, Ore., finding the president overstepped his authority",
     "link": "https://www.wsj.com/politics/policy/portland-deployment-of-national-guard-wasnt-justified-judge-rules-77a1b740"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2025-11-07-13-53-00 +0000",
     "source": "wsj",
     "headline": "Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package",
     "link": "https://www.wsj.com/business/autos/elon-musk-tesla-pay-package-vote-9abd5a73?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 47,
-    "pubdate": "2025-11-07-22-06-00 +0000",
-    "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth said that the Pentagon will shake up the way it buys weaponry, equipment and software by making purchases more quickly—and from a broader range of potential suppliers.",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-vows-to-put-u-s-weapons-production-on-wartime-footing-fe1bcb55"
+    "score": 51,
+    "pubdate": "2025-11-07-23-36-31 +0000",
+    "source": "wapo",
+    "headline": "Flight cancellations hit major airports on first day of FAA reductions",
+    "link": "https://www.washingtonpost.com/transportation/2025/11/07/flight-cuts-shutdown-duffy/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-11-07-19-00-43 +0000",
+    "source": "nyt",
+    "headline": "Russian Jailed for Placing Tiny Antiwar Signs in a Market Says She Would Do it Again",
+    "link": "https://www.nytimes.com/2025/11/07/world/europe/russia-protester-antiwar-aleksandra-skochilenko.html"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-11-07-14-18-27 +0000",
+    "source": "bbc",
+    "headline": "Released Israeli hostage says he was sexually assaulted in Gaza captivity",
+    "link": "https://www.bbc.com/news/articles/cgkz0yzde80o?at_medium=RSS&at_campaign=rss"
   }
 ]
