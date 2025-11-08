@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2025-11-08-08-52-49 +0000",
+    "score": 27,
+    "pubdate": "2025-11-08-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
+    "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-08-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Alaska’s New Mining Rush Chases Something More Coveted Than Gold",
+    "link": "https://www.wsj.com/us-news/alaskas-new-mining-rush-chases-something-more-coveted-than-gold-f3992f3c"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-08-10-50-57 +0000",
+    "source": "nyt",
+    "headline": "Inside China’s Quest to Defy Aging with Longevity Labs and ‘Immortality Islands’",
+    "link": "https://www.nytimes.com/2025/11/08/world/asia/china-aging-longevity-science.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-08-10-01-34 +0000",
+    "source": "nyt",
+    "headline": "Saudi Ex-Intelligence Official Seeks American Help Spilling U.S. Secrets",
+    "link": "https://www.nytimes.com/2025/11/08/world/middleeast/saudi-arabia-canada.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-08-10-03-23 +0000",
+    "source": "nyt",
+    "headline": "Who Can Collect Food Stamps? Fact-Checking Claims About SNAP Eligibility and Spending.",
+    "link": "https://www.nytimes.com/2025/11/08/us/politics/snap-food-stamps-eligibility-fact-check.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-08-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Republicans have tried to persuade their vulnerable Georgia colleague Jon Ossoff to join them in voting to reopen the government, to no avail",
+    "link": "https://www.wsj.com/politics/elections/government-shutdown-jon-ossoff-senate-vote-f4113386"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-08-10-00-47 +0000",
+    "source": "nyt",
+    "headline": "‘You Are All Terrorists’: Four Months in a Salvadoran Prison",
+    "link": "https://www.nytimes.com/2025/11/08/world/americas/el-salvador-prison-migrants.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-08-10-28-43 +0000",
     "source": "bbc",
-    "headline": "UK seeks Danish inspiration to shake up immigration system",
-    "link": "https://www.bbc.com/news/articles/cm2lknr2d3go?at_medium=RSS&at_campaign=rss"
+    "headline": "Fire at Turkey perfume warehouse kills six",
+    "link": "https://www.bbc.com/news/articles/c0kprpy26k6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-08-10-03-23 +0000",
+    "source": "nyt",
+    "headline": "What We Know About Flight Cancellations and Air Travel During the Shutdown",
+    "link": "https://www.nytimes.com/2025/11/08/us/flight-cancellations-delays-airports-shutdown.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-08-10-15-05 +0000",
+    "source": "nyt",
+    "headline": "Fox News Wanted Greg Gutfeld to Do This Interview. He Wasn’t So Sure.",
+    "link": "https://www.nytimes.com/2025/11/08/magazine/greg-gutfeld-interview.html"
   }
 ]
