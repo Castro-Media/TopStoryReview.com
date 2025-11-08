@@ -1,59 +1,66 @@
 [
   {
-    "score": 171,
+    "score": 173,
     "pubdate": "2025-11-08-02-02-29 +0000",
     "source": "nypost",
     "headline": "Supreme Court allows Trump admin to temporarily withhold full SNAP benefits amid government shutdown in emergency order",
     "link": "https://nypost.com/2025/11/07/us-news/trump-admin-asks-supreme-court-to-halt-order-providing-full-snap-payments-for-november/"
   },
   {
-    "score": 93,
+    "score": 92,
     "pubdate": "2025-11-07-10-00-00 +0000",
     "source": "wsj",
     "headline": "Democrats sought information about Social Security Administration head Frank Bisignano, ex-CEO of Fiserv, after leaders of the payments firm said it wouldn’t reach financial forecasts set by their ex boss",
     "link": "https://www.wsj.com/politics/policy/senate-democrats-want-fiserv-to-detail-trump-officials-tenure-61ec41fe"
   },
   {
-    "score": 88,
+    "score": 90,
     "pubdate": "2025-11-08-02-00-00 +0000",
     "source": "wsj",
     "headline": "Republicans in Washington got a clear takeaway from Election Day: Focus on the high cost of living or risk big losses in next year’s midterms. President Trump isn’t convinced",
     "link": "https://www.wsj.com/politics/policy/trump-prices-affordability-inflation-75922cfb"
   },
   {
-    "score": 87,
+    "score": 88,
     "pubdate": "2025-11-07-11-00-00 +0000",
     "source": "latimes",
     "headline": "Your flight was canceled amid FAA's cuts to air traffic. Here's what you can do about it",
     "link": "https://www.latimes.com/california/story/2025-11-07/your-flight-was-canceled-amid-faas-cuts-to-air-traffic-heres-what-you-can-do-about-it"
   },
   {
-    "score": 75,
-    "pubdate": "2025-11-07-10-45-07 +0000",
+    "score": 77,
+    "pubdate": "2025-11-07-23-56-29 +0000",
     "source": "nypost",
-    "headline": "Elise Stefanik vows to ‘clean up Kathy Hochul’s catastrophe’ as she launches New York gubernatorial campaign",
-    "link": "https://nypost.com/2025/11/07/us-news/elise-stefanik-launches-ny-gubernatorial-campaign-vows-to-clean-up-kathy-hochuls-catastrophe/"
+    "headline": "Tesla rival Rivian gives CEO RJ Scaringe a Musk-like pay package worth up to $4.6B",
+    "link": "https://nypost.com/2025/11/07/business/rivian-gives-ceo-rj-scaringe-a-musk-like-pay-package-worth-up-to-4-6b/"
   },
   {
-    "score": 66,
-    "pubdate": "2025-11-07-13-53-00 +0000",
-    "source": "wsj",
-    "headline": "Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package",
-    "link": "https://www.wsj.com/business/autos/elon-musk-tesla-pay-package-vote-9abd5a73?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-11-07-11-20-34 +0000",
     "source": "bbc",
     "headline": "Four held after protesters set off flares during Israeli orchestra concert in Paris",
     "link": "https://www.bbc.com/news/articles/c3w9lgx1gnxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-07-06-09-00 +0000",
-    "source": "nyt",
-    "headline": "China’s New Aircraft Carrier Enters Service, a Sign of Naval Ambitions",
-    "link": "https://www.nytimes.com/2025/11/07/world/asia/china-aircraft-carrier-military-navy.html"
+    "score": 50,
+    "pubdate": "2025-11-07-10-45-07 +0000",
+    "source": "nypost",
+    "headline": "Elise Stefanik vows to ‘clean up Kathy Hochul’s catastrophe’ as she launches New York gubernatorial campaign",
+    "link": "https://nypost.com/2025/11/07/us-news/elise-stefanik-launches-ny-gubernatorial-campaign-vows-to-clean-up-kathy-hochuls-catastrophe/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-11-07-22-06-00 +0000",
+    "source": "wsj",
+    "headline": "Defense Secretary Pete Hegseth said that the Pentagon will shake up the way it buys weaponry, equipment and software by making purchases more quickly—and from a broader range of potential suppliers.",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-vows-to-put-u-s-weapons-production-on-wartime-footing-fe1bcb55"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-11-07-19-47-41 +0000",
+    "source": "bbc",
+    "headline": "Ugandans welcome war crimes charges against LRA leader Joseph Kony and demand his arrest",
+    "link": "https://www.bbc.com/news/articles/cg430z7dg04o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 43,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Federal judge rules Trump’s Portland National Guard deployment unconstitutional in permanent injunction",
     "link": "https://nypost.com/2025/11/08/us-news/trump-admin-permanently-blocked-from-deploying-national-guard-on-portland-oregon-federal-judge/"
-  },
-  {
-    "score": 43,
-    "pubdate": "2025-11-07-22-06-00 +0000",
-    "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth said that the Pentagon will shake up the way it buys weaponry, equipment and software by making purchases more quickly—and from a broader range of potential suppliers.",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-vows-to-put-u-s-weapons-production-on-wartime-footing-fe1bcb55"
   }
 ]
