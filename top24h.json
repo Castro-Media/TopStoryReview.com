@@ -1,6 +1,6 @@
 [
   {
-    "score": 142,
+    "score": 138,
     "pubdate": "2025-11-08-02-00-00 +0000",
     "source": "wsj",
     "headline": "Republicans in Washington got a clear takeaway from Election Day: Focus on the high cost of living or risk big losses in next year’s midterms. President Trump isn’t convinced",
@@ -14,13 +14,6 @@
     "link": "https://www.cbc.ca/news/world/ups-fedex-ground-fleets-9.6972228?cmp=rss"
   },
   {
-    "score": 74,
-    "pubdate": "2025-11-08-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
-    "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
-  },
-  {
     "score": 68,
     "pubdate": "2025-11-08-15-46-18 +0000",
     "source": "nyt",
@@ -28,45 +21,52 @@
     "link": "https://www.nytimes.com/2025/11/07/us/politics/central-asia-leaders-trump.html"
   },
   {
-    "score": 61,
-    "pubdate": "2025-11-08-03-45-03 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-11-08-01-32-00 +0000",
-    "source": "wsj",
-    "headline": "Transportation Secretary Sean Duffy said that flight cancellations could rise to 15%—or even 20%—if the government shutdown continues",
-    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9"
-  },
-  {
-    "score": 48,
+    "score": 63,
     "pubdate": "2025-11-08-17-25-55 +0000",
     "source": "nypost",
     "headline": "Mamdani-backing Hochul insists she doesn’t ‘support’ DSA, fends off relentless criticism over NYC mayor-elect endorsement",
     "link": "https://nypost.com/2025/11/08/us-news/mamdani-backing-hochul-i-dont-support-the-democratic-socialists-of-america/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-08-12-00-00 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani’s wife Rama Duwaji uses her art to rage against US ‘imperialism’ and ‘Israeli war crimes’",
-    "link": "https://nypost.com/2025/11/08/us-news/zohran-mamdanis-wife-rama-duwaji-outspoken-against-us-imperialism/"
+    "score": 58,
+    "pubdate": "2025-11-08-01-32-00 +0000",
+    "source": "wsj",
+    "headline": "Transportation Secretary Sean Duffy said that flight cancellations could rise to 15%—or even 20%—if the government shutdown continues",
+    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9"
   },
   {
-    "score": 40,
+    "score": 56,
+    "pubdate": "2025-11-08-04-19-00 +0000",
+    "source": "wsj",
+    "headline": "A district court judge has blocked the Trump administration’s effort to deploy National Guard troops to Portland, Ore., finding the president overstepped his authority",
+    "link": "https://www.wsj.com/politics/policy/portland-deployment-of-national-guard-wasnt-justified-judge-rules-77a1b740"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-11-08-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
+    "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-11-08-18-02-31 +0000",
+    "source": "bbc",
+    "headline": "US Supreme Court rules full Snap food benefits can be temporarily halted",
+    "link": "https://www.bbc.com/news/articles/c0rpxqd0141o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-11-07-22-06-00 +0000",
+    "source": "wsj",
+    "headline": "Defense Secretary Pete Hegseth said that the Pentagon will shake up the way it buys weaponry, equipment and software by making purchases more quickly—and from a broader range of potential suppliers.",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-vows-to-put-u-s-weapons-production-on-wartime-footing-fe1bcb55"
+  },
+  {
+    "score": 39,
     "pubdate": "2025-11-08-04-30-05 +0000",
     "source": "nyt",
     "headline": "Biden Warns of a ‘Very, Very Dark Moment’ as He Hits Out at Trump",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/biden-trump-omaha-nebraska.html"
-  },
-  {
-    "score": 36,
-    "pubdate": "2025-11-08-01-18-00 +0000",
-    "source": "wsj",
-    "headline": "Senate Minority Leader Chuck Schumer proposed extending expiring healthcare subsidies for a year as part of a measure to reopen the government. The moves was quickly rejected by Republicans.",
-    "link": "https://www.wsj.com/politics/policy/emboldened-democrats-set-to-block-new-gop-proposal-to-end-shutdown-dfa1e468"
   }
 ]
