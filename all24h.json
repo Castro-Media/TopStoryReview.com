@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Trump’s crackdown on foreign students barely impacts enrollment, data shows",
+    "link": "https://www.washingtonpost.com/education/2025/11/08/foreign-student-enrollment-trump-policies/",
+    "source": "wapo",
+    "pubdate": "2025-11-08-13-00-53 +0000"
+  },
+  {
+    "headline": "NYPD already losing officers with morale plunging as anti-cop Zohran Mamdani prepares to take reins",
+    "link": "https://nypost.com/2025/11/08/us-news/nypd-already-losing-officers-with-morale-plunging-as-anti-cop-zohran-mamdani-prepares-to-take-reins/",
+    "source": "nypost",
+    "pubdate": "2025-11-08-12-55-58 +0000"
+  },
+  {
+    "headline": "What Travelers Need to Know About the Shutdown, Flight Reductions and Delays",
+    "link": "https://www.nytimes.com/article/shutdown-faa-flight-delays-cancellations.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-12-45-55 +0000"
+  },
+  {
+    "headline": "Pfizer to Acquire Obesity Drug Start-Up Metsera in $10 Billion Deal",
+    "link": "https://www.nytimes.com/2025/11/08/business/metsera-pfizer-merger-weight-loss.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-12-38-25 +0000"
+  },
+  {
+    "headline": "Council launches winter energy cost support scheme",
+    "link": "https://www.bbc.com/news/articles/c8x1y5p8epvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-08-12-02-46 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani’s wife Rama Duwaji uses her art to rage against US ‘imperialism’ and ‘Israeli war crimes’",
+    "link": "https://nypost.com/2025/11/08/us-news/zohran-mamdanis-wife-rama-duwaji-outspoken-against-us-imperialism/",
+    "source": "nypost",
+    "pubdate": "2025-11-08-12-00-00 +0000"
+  },
+  {
+    "headline": "People We Meet: Desmond Cannady, the Tenderloin’s street barber",
+    "link": "https://missionlocal.org/2025/11/sf-desmond-cannady-tenderloin-street-barber/",
+    "source": "missionlocal",
+    "pubdate": "2025-11-08-12-00-00 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani’s wife Rama Duwaji uses her art to rage against US ‘imperialism’ and ‘Israeli war crimes’",
+    "link": "https://nypost.com/2025/11/08/us-news/zohran-mamdanis-wife-rama-duwaji-outspoken-against-us-imperialism/",
+    "source": "nypost",
+    "pubdate": "2025-11-08-12-00-00 +0000"
+  },
+  {
+    "headline": "UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash",
+    "link": "https://www.wsj.com/us-news/ups-and-fedex-ground-md-11-fleets-after-deadly-kentucky-plane-crash-9c84ac2c",
+    "source": "wsj",
+    "pubdate": "2025-11-08-11-55-00 +0000"
+  },
+  {
+    "headline": "UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash",
+    "link": "https://www.wsj.com/us-news/ups-and-fedex-ground-md-11-fleets-after-deadly-kentucky-plane-crash-9c84ac2c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-08-11-55-00 +0000"
+  },
+  {
     "headline": "UPS, FedEx ground MD-11 planes after Louisville crash that killed 14",
     "link": "https://www.washingtonpost.com/nation/2025/11/08/louisville-crash-investigation-ups-fedex/",
     "source": "wapo",
@@ -36,6 +96,12 @@
     "pubdate": "2025-11-08-11-00-06 +0000"
   },
   {
+    "headline": "Trump administration presses Western states to find consensus on shrinking Colorado River",
+    "link": "https://www.latimes.com/environment/story/2025-11-08/colorado-river-talks-november-deadline",
+    "source": "latimes",
+    "pubdate": "2025-11-08-11-00-00 +0000"
+  },
+  {
     "headline": "Arellano: From the ballot box to the streets, Latinos are blowing the whistle on Trump's reign",
     "link": "https://www.latimes.com/california/story/2025-11-08/latinos-trump-2025",
     "source": "latimes",
@@ -54,20 +120,14 @@
     "pubdate": "2025-11-08-11-00-00 +0000"
   },
   {
-    "headline": "Trump administration presses Western states to find consensus on shrinking Colorado River",
-    "link": "https://www.latimes.com/environment/story/2025-11-08/colorado-river-talks-november-deadline",
+    "headline": "How Dodgers fans turned a series win into $30,000 for the Blue Jay's hometown children's hospital",
+    "link": "https://www.latimes.com/california/story/2025-11-08/how-dodgers-fans-turned-a-rivalry-into-30-000-for-a-blue-jays-hometown-childrens-hospital",
     "source": "latimes",
     "pubdate": "2025-11-08-11-00-00 +0000"
   },
   {
     "headline": "Trump made inroads with Latino voters. The GOP is losing them ahead of the midterms",
     "link": "https://www.latimes.com/politics/story/2025-11-08/latino-voters-gop-new-jersey-virginia-california-elections",
-    "source": "latimes",
-    "pubdate": "2025-11-08-11-00-00 +0000"
-  },
-  {
-    "headline": "How Dodgers fans turned a series win into $30,000 for the Blue Jay's hometown children's hospital",
-    "link": "https://www.latimes.com/california/story/2025-11-08/how-dodgers-fans-turned-a-rivalry-into-30-000-for-a-blue-jays-hometown-childrens-hospital",
     "source": "latimes",
     "pubdate": "2025-11-08-11-00-00 +0000"
   },
@@ -366,6 +426,18 @@
     "pubdate": "2025-11-08-09-09-01 +0000"
   },
   {
+    "headline": "Why Trump’s battle with U.S. mayors might hurt everyone, even him",
+    "link": "https://www.cbc.ca/news/world/trump-mamdani-mayors-cities-9.6971947?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-08-09-00-00 +0000"
+  },
+  {
+    "headline": "Hundreds more U.S. flights could be cancelled today. Here’s what you need to know",
+    "link": "https://www.cbc.ca/news/world/faa-flight-cancellations-q-and-a-9.6971977?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-08-09-00-00 +0000"
+  },
+  {
     "headline": "How budget week turned into a nightmare for the Conservatives",
     "link": "https://www.cbc.ca/news/politics/conservatives-poilievre-budget-floor-cross-9.6971412?cmp=rss",
     "source": "cbc",
@@ -396,24 +468,6 @@
     "pubdate": "2025-11-08-08-52-49 +0000"
   },
   {
-    "headline": "UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash",
-    "link": "https://www.wsj.com/us-news/ups-and-fedex-ground-md-11-fleets-after-deadly-kentucky-plane-crash-9c84ac2c",
-    "source": "wsj",
-    "pubdate": "2025-11-08-08-51-00 +0000"
-  },
-  {
-    "headline": "UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash",
-    "link": "https://www.wsj.com/us-news/ups-and-fedex-ground-md-11-fleets-after-deadly-kentucky-plane-crash-9c84ac2c",
-    "source": "wsj",
-    "pubdate": "2025-11-08-08-51-00 +0000"
-  },
-  {
-    "headline": "UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash",
-    "link": "https://www.wsj.com/us-news/ups-and-fedex-ground-md-11-fleets-after-deadly-kentucky-plane-crash-9c84ac2c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-08-08-51-00 +0000"
-  },
-  {
     "headline": "Trump says U.S. officials will not attend G-20 summit in South Africa",
     "link": "https://www.washingtonpost.com/politics/2025/11/08/trump-g20-south-africa/",
     "source": "wapo",
@@ -442,12 +496,6 @@
     "link": "https://www.nytimes.com/2025/11/08/nyregion/mamdani-humor-funny.html",
     "source": "nyt",
     "pubdate": "2025-11-08-08-00-20 +0000"
-  },
-  {
-    "headline": "Pfizer to Acquire Obesity Drug Start-Up Metsera in $10 Billion Deal",
-    "link": "https://www.nytimes.com/2025/11/08/business/metsera-pfizer-merger-weight-loss.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-07-48-34 +0000"
   },
   {
     "headline": "DNA pioneer James Watson dies at 97",
@@ -930,6 +978,12 @@
     "pubdate": "2025-11-08-01-00-00 +0000"
   },
   {
+    "headline": "She Almost Gave Up. Now She Has the Year’s Unlikely Hit Novel.",
+    "link": "https://www.wsj.com/business/media/the-correspondent-virginia-evans-bestseller-0a68fc79?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-08-01-00-00 +0000"
+  },
+  {
     "headline": "Lake Tahoe skating rink gets visit from unusual local — a black bear named Charlie",
     "link": "https://www.latimes.com/california/story/2025-11-07/lake-tahoe-skating-rink-gets-visit-from-unusual-regular-a-black-bear-named-charlie",
     "source": "latimes",
@@ -990,13 +1044,13 @@
     "pubdate": "2025-11-08-00-06-04 +0000"
   },
   {
-    "headline": "'They went and never came back': Honouring Kenya's forgotten World War soldiers",
+    "headline": "Trove of records reveals Kenya's forgotten World War soldiers",
     "link": "https://www.bbc.com/news/articles/cly2e89eqnvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-08-00-04-21 +0000"
   },
   {
-    "headline": "'They went and never came back': Honouring Kenya's forgotten World War soldiers",
+    "headline": "Trove of records reveals Kenya's forgotten World War soldiers",
     "link": "https://www.bbc.com/news/articles/cly2e89eqnvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-08-00-04-21 +0000"
@@ -1006,6 +1060,12 @@
     "link": "https://www.washingtonpost.com/business/2025/11/07/senate-shutdown-vote-democrats/",
     "source": "wapo",
     "pubdate": "2025-11-08-00-04-13 +0000"
+  },
+  {
+    "headline": "The Boss Has a Message: Use AI or You’re Fired",
+    "link": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-08-00-00-00 +0000"
   },
   {
     "headline": "Tesla rival Rivian gives CEO RJ Scaringe a Musk-like pay package worth up to $4.6B",
@@ -1072,18 +1132,6 @@
     "link": "https://nypost.com/2025/11/07/us-news/trump-appoints-long-island-philanthropist-and-son-of-holocaust-survivor-as-us-ambassador-to-hungary/",
     "source": "nypost",
     "pubdate": "2025-11-07-23-36-08 +0000"
-  },
-  {
-    "headline": "La Nina to bring unseasonable polar vortex to NYC as East Coast braces for early taste of winter",
-    "link": "https://nypost.com/2025/11/07/us-news/la-nina-and-polar-vortex-winds-are-setting-up-for-a-harsh-winter-in-the-us/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-23-34-01 +0000"
-  },
-  {
-    "headline": "Coast Guard rescues 5 from capsizing sailboat hundreds of miles from shore",
-    "link": "https://nypost.com/2025/11/07/us-news/coast-guard-rescues-sinking-boat-of-stranded-sailors-off-north-carolina-coast/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-23-27-52 +0000"
   },
   {
     "headline": "Mother of missing 9-year-old Melodee Buzzard arrested on an unrelated charge",
@@ -2374,149 +2422,5 @@
     "link": "https://www.wsj.com/business/autos/elon-musk-tesla-pay-package-vote-9abd5a73?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-07-13-53-00 +0000"
-  },
-  {
-    "headline": "Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package",
-    "link": "https://www.wsj.com/business/autos/elon-musk-tesla-pay-package-vote-9abd5a73?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-13-53-00 +0000"
-  },
-  {
-    "headline": "British man jailed after trying to spy for Russia",
-    "link": "https://www.bbc.com/news/articles/c205d7e912qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-13-52-03 +0000"
-  },
-  {
-    "headline": "The Job Market Is Cooling but Not Collapsing, According to Private Data",
-    "link": "https://www.nytimes.com/2025/11/07/business/jobs-unemployment-layoffs-economy.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-13-46-42 +0000"
-  },
-  {
-    "headline": "Canada gains a surprise 67,000 jobs in October, beating economists' expectations",
-    "link": "https://www.cbc.ca/news/business/canada-jobs-labour-force-survey-october-9.6970609?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-07-13-29-03 +0000"
-  },
-  {
-    "headline": "Honda Cuts Guidance on Slumping Car Sales, Nexperia Chip Shortage",
-    "link": "https://www.wsj.com/business/earnings/honda-motor-cuts-guidance-on-nexperia-chip-shortage-cd144b86?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-13-29-00 +0000"
-  },
-  {
-    "headline": "S.F. begins towing RVs. Dozens more are at risk.",
-    "link": "https://missionlocal.org/2025/11/s-f-begins-towing-rvs-as-dozens-more-are-at-risk/",
-    "source": "missionlocal",
-    "pubdate": "2025-11-07-13-16-52 +0000"
-  },
-  {
-    "headline": "Sudan capital hit by drone attacks a day after RSF agrees to truce - reports",
-    "link": "https://www.bbc.com/news/articles/c5y4j155g49o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-13-10-59 +0000"
-  },
-  {
-    "headline": "What Travelers Need to Know About the Shutdown, Flight Reductions and Delays",
-    "link": "https://www.nytimes.com/article/shutdown-faa-flight-delays-cancellations.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-13-03-04 +0000"
-  },
-  {
-    "headline": "Rightmove shares plummet over AI investment plans",
-    "link": "https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-13-01-03 +0000"
-  },
-  {
-    "headline": "‘Hero’ passengers secure girl mid-roller coaster as her seatbelt fails",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/11/07/missouri-roller-coaster-seat-belt/",
-    "source": "wapo",
-    "pubdate": "2025-11-07-13-00-31 +0000"
-  },
-  {
-    "headline": "Enbridge Quarterly Profit Slides",
-    "link": "https://www.wsj.com/business/earnings/enbridge-quarterly-profit-slides-a3c093db?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-13-00-00 +0000"
-  },
-  {
-    "headline": "Lose weight or lose your jobs, offshore workers told",
-    "link": "https://www.bbc.com/news/articles/cx274xp00zxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-12-50-38 +0000"
-  },
-  {
-    "headline": "Trump administration fights court ruling to pay food assistance to 42 million amid shutdown",
-    "link": "https://www.cbc.ca/news/world/us-ri-court-ruling-snap-benefits-9.6970546?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-07-12-40-35 +0000"
-  },
-  {
-    "headline": "Comcast’s Sky in Talks to Buy Broadcasting Arm of U.K.’s ITV",
-    "link": "https://www.wsj.com/business/deals/comcasts-sky-in-talks-to-buy-itv-broadcasting-unit-in-2-1-billion-deal-b007d306?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-12-36-00 +0000"
-  },
-  {
-    "headline": "China Suspends Some Export Controls on Critical Minerals but Retains Others",
-    "link": "https://www.nytimes.com/2025/11/07/business/china-rare-earth-export-controls.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-12-32-22 +0000"
-  },
-  {
-    "headline": "China Suspends Some Export Controls on Critical Minerals but Retains Others",
-    "link": "https://www.nytimes.com/2025/11/07/business/china-rare-earth-export-controls.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-12-32-22 +0000"
-  },
-  {
-    "headline": "China Suspends Some Export Controls on Critical Minerals but Retains Others",
-    "link": "https://www.nytimes.com/2025/11/07/business/china-rare-earth-export-controls.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-12-32-22 +0000"
-  },
-  {
-    "headline": "Trump’s Tariffs Leave Swiss Farmers With Too Much Milk",
-    "link": "https://www.nytimes.com/2025/11/07/business/switzerland-tariffs-trump-milk-cheese-cows.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-12-11-17 +0000"
-  },
-  {
-    "headline": "Trump’s Tariffs Leave Swiss Farmers With Too Much Milk",
-    "link": "https://www.nytimes.com/2025/11/07/business/switzerland-tariffs-trump-milk-cheese-cows.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-12-11-17 +0000"
-  },
-  {
-    "headline": "Venezuela’s opposition pins its hopes on Trump, despite perils",
-    "link": "https://www.washingtonpost.com/world/2025/11/07/venezuela-opposition-strikes-trump-machado/",
-    "source": "wapo",
-    "pubdate": "2025-11-07-12-00-00 +0000"
-  },
-  {
-    "headline": "Hundreds of S.F. immigration cases were paused for decades. Trump tried to revive them.",
-    "link": "https://missionlocal.org/2025/11/sf-immigration-asylum-cases-recalender/",
-    "source": "missionlocal",
-    "pubdate": "2025-11-07-12-00-00 +0000"
-  },
-  {
-    "headline": "Warner Bros. Discovery CEO David  Zaslav loving the ‘energy’ among bidders for his media empire",
-    "link": "https://nypost.com/2025/11/07/media/warner-bros-discovery-ceo-david-zaslav-loving-the-energy-among-bidders-for-his-media-empire/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-12-00-00 +0000"
-  },
-  {
-    "headline": "Yuen: They said ‘6-7’ — and somehow, so did I",
-    "link": "https://www.startribune.com/gen-alpha-6-7-word-of-the-year/601509116",
-    "source": "startribune",
-    "pubdate": "2025-11-07-12-00-00 +0000"
-  },
-  {
-    "headline": "What was life like on Minnesota’s ‘poor farms’?",
-    "link": "https://www.startribune.com/poor-farms-minnesota-history/601493014",
-    "source": "startribune",
-    "pubdate": "2025-11-07-12-00-00 +0000"
   }
 ]
