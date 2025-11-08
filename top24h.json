@@ -1,17 +1,10 @@
 [
   {
-    "score": 159,
+    "score": 157,
     "pubdate": "2025-11-08-03-45-03 +0000",
     "source": "nyt",
     "headline": "Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html"
-  },
-  {
-    "score": 88,
-    "pubdate": "2025-11-08-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Republicans in Washington got a clear takeaway from Election Day: Focus on the high cost of living or risk big losses in next year’s midterms. President Trump isn’t convinced",
-    "link": "https://www.wsj.com/politics/policy/trump-prices-affordability-inflation-75922cfb"
   },
   {
     "score": 87,
@@ -21,6 +14,13 @@
     "link": "https://www.latimes.com/california/story/2025-11-07/your-flight-was-canceled-amid-faas-cuts-to-air-traffic-heres-what-you-can-do-about-it"
   },
   {
+    "score": 86,
+    "pubdate": "2025-11-08-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Republicans in Washington got a clear takeaway from Election Day: Focus on the high cost of living or risk big losses in next year’s midterms. President Trump isn’t convinced",
+    "link": "https://www.wsj.com/politics/policy/trump-prices-affordability-inflation-75922cfb"
+  },
+  {
     "score": 81,
     "pubdate": "2025-11-07-10-00-00 +0000",
     "source": "wsj",
@@ -28,7 +28,7 @@
     "link": "https://www.wsj.com/politics/policy/senate-democrats-want-fiserv-to-detail-trump-officials-tenure-61ec41fe"
   },
   {
-    "score": 77,
+    "score": 75,
     "pubdate": "2025-11-07-14-11-00 +0000",
     "source": "wsj",
     "headline": "Senate Majority Leader John Thune expects Senate Republicans to vote on a new proposal Friday that aims to end the government shutdown",
@@ -64,9 +64,9 @@
   },
   {
     "score": 42,
-    "pubdate": "2025-11-07-06-09-00 +0000",
-    "source": "nyt",
-    "headline": "China’s New Aircraft Carrier Enters Service, a Sign of Naval Ambitions",
-    "link": "https://www.nytimes.com/2025/11/07/world/asia/china-aircraft-carrier-military-navy.html"
+    "pubdate": "2025-11-07-08-00-25 +0000",
+    "source": "bbc",
+    "headline": "China launches new aircraft carrier in naval race with the US",
+    "link": "https://www.bbc.com/news/articles/c62e0yx39g5o?at_medium=RSS&at_campaign=rss"
   }
 ]
