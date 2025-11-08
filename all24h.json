@@ -1,27 +1,135 @@
 [
   {
+    "headline": "Live: Updates from the football state quarterfinals",
+    "link": "https://www.startribune.com/updates-scores-minnesota-high-school-football-state-quarterfinals/601517383",
+    "source": "startribune",
+    "pubdate": "2025-11-08-02-07-07 +0000"
+  },
+  {
+    "headline": "Trump admin asks Supreme Court to halt order providing full SNAP payments for November",
+    "link": "https://nypost.com/2025/11/07/us-news/trump-admin-asks-supreme-court-to-halt-order-providing-full-snap-payments-for-november/",
+    "source": "nypost",
+    "pubdate": "2025-11-08-02-02-29 +0000"
+  },
+  {
+    "headline": "Judge Permanently Blocks National Guard Deployments to Portland for ICE Protests",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/portland-oregon-national-guard.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-02-01-22 +0000"
+  },
+  {
+    "headline": "Judge Permanently Blocks National Guard Deployments to Portland for ICE Protests",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/portland-oregon-national-guard.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-02-01-22 +0000"
+  },
+  {
+    "headline": "The Week the AI Boom Got a Reality Check on Wall Street",
+    "link": "https://www.wsj.com/finance/stocks/ai-stock-market-reaction-5af38bf4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-08-02-00-00 +0000"
+  },
+  {
+    "headline": "Republicans in Washington got a clear takeaway from Election Day: Focus on the high cost of living or risk big losses in next year’s midterms. President Trump isn’t convinced",
+    "link": "https://www.wsj.com/politics/policy/trump-prices-affordability-inflation-75922cfb",
+    "source": "wsj",
+    "pubdate": "2025-11-08-02-00-00 +0000"
+  },
+  {
+    "headline": "Republicans in Washington got a clear takeaway from Election Day: Focus on the high cost of living or risk big losses in next year’s midterms. President Trump isn’t convinced",
+    "link": "https://www.wsj.com/politics/policy/trump-prices-affordability-inflation-75922cfb",
+    "source": "wsj",
+    "pubdate": "2025-11-08-02-00-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-01-56-37 +0000"
+  },
+  {
+    "headline": "Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-01-56-37 +0000"
+  },
+  {
+    "headline": "Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-01-56-37 +0000"
+  },
+  {
+    "headline": "DNA pioneer James Watson dies at 97",
+    "link": "https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-08-01-55-43 +0000"
+  },
+  {
+    "headline": "DNA pioneer James Watson dies at 97",
+    "link": "https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-08-01-55-43 +0000"
+  },
+  {
+    "headline": "‘Massive health issue’: Palm Beach residents rage as FAA redirects air traffic over their homes to avoid Trump’s Mar-a-Lago",
+    "link": "https://nypost.com/2025/11/07/us-news/palm-beach-residents-rage-as-faa-redirects-air-traffic-over-their-homes-to-avoid-trumps-mar-a-lago/",
+    "source": "nypost",
+    "pubdate": "2025-11-08-01-42-51 +0000"
+  },
+  {
+    "headline": "Flight Cancellations Could Rise to 20% if Government Shutdown Continues",
+    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9",
+    "source": "wsj",
+    "pubdate": "2025-11-08-01-32-00 +0000"
+  },
+  {
+    "headline": "Flight Cancellations Could Rise to 20% if Government Shutdown Continues",
+    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-08-01-32-00 +0000"
+  },
+  {
+    "headline": "Transportation Secretary Sean Duffy said that flight cancellations could rise to 15%—or even 20%—if the government shutdown continues",
+    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9",
+    "source": "wsj",
+    "pubdate": "2025-11-08-01-32-00 +0000"
+  },
+  {
+    "headline": "Nancy Pelosi’s Legacy as a Powerful Speaker in a Fractious House",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-house-speaker.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-01-25-06 +0000"
+  },
+  {
+    "headline": "Nancy Pelosi’s Legacy as a Powerful Speaker in a Fractious House",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-house-speaker.html",
+    "source": "nyt",
+    "pubdate": "2025-11-08-01-25-06 +0000"
+  },
+  {
+    "headline": "Senate Minority Leader Chuck Schumer proposed extending expiring healthcare subsidies for a year as part of a measure to reopen the government. The moves was quickly rejected by Republicans.",
+    "link": "https://www.wsj.com/politics/policy/emboldened-democrats-set-to-block-new-gop-proposal-to-end-shutdown-dfa1e468",
+    "source": "wsj",
+    "pubdate": "2025-11-08-01-18-00 +0000"
+  },
+  {
     "headline": "Canada Culls Hundreds of Ostriches as a Court and a Kennedy Fail to Save Them",
     "link": "https://www.nytimes.com/2025/11/07/world/canada/canada-ostrich-cull-rfk-jr.html",
     "source": "nyt",
     "pubdate": "2025-11-08-01-15-45 +0000"
   },
   {
-    "headline": "Trump Administration Appeals Judge’s Order to Pay Full SNAP Benefits",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html",
+    "headline": "Canada Culls Hundreds of Ostriches as a Court and a Kennedy Fail to Save Them",
+    "link": "https://www.nytimes.com/2025/11/07/world/canada/canada-ostrich-cull-rfk-jr.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-01-15-30 +0000"
+    "pubdate": "2025-11-08-01-15-45 +0000"
   },
   {
-    "headline": "Trump Administration Appeals Judge’s Order to Pay Full SNAP Benefits",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-01-11-22 +0000"
-  },
-  {
-    "headline": "Trump Administration Appeals Judge’s Order to Pay Full SNAP Benefits",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-01-11-22 +0000"
+    "headline": "Mayor-elect Zohran Mamdani schmoozes with NY Dem leaders who’ll be key to passing his socialist ‘tax the rich’ plans",
+    "link": "https://nypost.com/2025/11/07/us-news/zohran-mamdani-schmoozes-with-ny-dem-leaders-wholl-be-key-to-passing-his-socialist-tax-the-rich-plans/",
+    "source": "nypost",
+    "pubdate": "2025-11-08-01-13-34 +0000"
   },
   {
     "headline": "Routine Check Before UPS Plane Crash in Louisville Was ‘Uneventful,’ Official Says",
@@ -48,12 +156,6 @@
     "pubdate": "2025-11-08-01-06-38 +0000"
   },
   {
-    "headline": "Canada Culls Hundreds of Ostriches as a Court and a Kennedy Fail to Save Them",
-    "link": "https://www.nytimes.com/2025/11/07/world/canada/canada-ostrich-cull-rfk-jr.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-01-00-43 +0000"
-  },
-  {
     "headline": "Democrats Scale Back Shutdown Demands, but G.O.P. Digs In",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/shutdown-democrats-schumer-thune.html",
     "source": "nyt",
@@ -78,6 +180,12 @@
     "pubdate": "2025-11-08-00-57-41 +0000"
   },
   {
+    "headline": "Feds capture Minnesota man accused of setting deadly RV blaze in Texas",
+    "link": "https://www.startribune.com/feds-capture-twin-cities-man-accused-of-setting-deadly-rv-blaze-in-texas/601520590",
+    "source": "startribune",
+    "pubdate": "2025-11-08-00-48-22 +0000"
+  },
+  {
     "headline": "Boy, 16, shot at Bronx public housing complex: cops",
     "link": "https://nypost.com/2025/11/07/us-news/boy-16-shot-on-grounds-of-nyc-public-housing-complex-cops/",
     "source": "nypost",
@@ -93,13 +201,13 @@
     "headline": "Federal Judge Rules Against Trump Officials on Partisan Email Messages",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/education-department-emails-shutdown.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-00-25-59 +0000"
+    "pubdate": "2025-11-08-00-26-00 +0000"
   },
   {
     "headline": "Federal Judge Rules Against Trump Officials on Partisan Email Messages",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/education-department-emails-shutdown.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-00-25-59 +0000"
+    "pubdate": "2025-11-08-00-26-00 +0000"
   },
   {
     "headline": "Trump Calls for Antitrust Probe Over Rising Beef Prices",
@@ -114,13 +222,13 @@
     "pubdate": "2025-11-08-00-15-00 +0000"
   },
   {
-    "headline": "Trump administration suggests it may 'raid school lunch money' to cover SNAP benefits",
+    "headline": "Trump administration asks Supreme Court to block order to cover SNAP benefits",
     "link": "https://www.latimes.com/california/story/2025-11-07/trump-administration-snap-funding-appellate-court-california",
     "source": "latimes",
     "pubdate": "2025-11-08-00-07-13 +0000"
   },
   {
-    "headline": "Trump administration suggests it may 'raid school lunch money' to cover SNAP benefits",
+    "headline": "Trump administration asks Supreme Court to block order to cover SNAP benefits",
     "link": "https://www.latimes.com/california/story/2025-11-07/trump-administration-snap-funding-appellate-court-california",
     "source": "latimes",
     "pubdate": "2025-11-08-00-07-13 +0000"
@@ -252,12 +360,6 @@
     "pubdate": "2025-11-07-23-36-08 +0000"
   },
   {
-    "headline": "Live: Updates from the football state quarterfinals",
-    "link": "https://www.startribune.com/updates-scores-minnesota-high-school-football-state-quarterfinals/601517383",
-    "source": "startribune",
-    "pubdate": "2025-11-07-23-34-53 +0000"
-  },
-  {
     "headline": "La Nina set to bring arctic plunge, heavy snow to millions in preview of frigid winter to come",
     "link": "https://nypost.com/2025/11/07/us-news/la-nina-and-polar-vortex-winds-are-setting-up-for-a-harsh-winter-in-the-us/",
     "source": "nypost",
@@ -288,12 +390,6 @@
     "pubdate": "2025-11-07-23-13-47 +0000"
   },
   {
-    "headline": "Senate Minority Leader Chuck Schumer proposed extending expiring healthcare subsidies for a year as part of a measure to reopen the government. The moves was quickly rejected by Republicans.",
-    "link": "https://www.wsj.com/politics/policy/emboldened-democrats-set-to-block-new-gop-proposal-to-end-shutdown-dfa1e468",
-    "source": "wsj",
-    "pubdate": "2025-11-07-23-10-00 +0000"
-  },
-  {
     "headline": "Blake Lively Claims $161 Million in Damages From ‘It Ends With Us’ Fight",
     "link": "https://www.wsj.com/business/media/blake-lively-claims-161-million-in-damages-from-it-ends-with-us-fight-ab402443?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -310,24 +406,6 @@
     "link": "https://www.nytimes.com/live/2025/11/07/us/shutdown-airports-flight-cuts/heres-the-latest-on-the-flight-reductions",
     "source": "nyt",
     "pubdate": "2025-11-07-23-00-44 +0000"
-  },
-  {
-    "headline": "Flight Cancellations Could Rise to 20% if Government Shutdown Continues",
-    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9",
-    "source": "wsj",
-    "pubdate": "2025-11-07-23-00-00 +0000"
-  },
-  {
-    "headline": "Flight Cancellations Could Rise to 20% if Government Shutdown Continues",
-    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-23-00-00 +0000"
-  },
-  {
-    "headline": "Transportation Secretary Sean Duffy said that flight cancellations could rise to 15%—or even 20%—if the government shutdown continues",
-    "link": "https://www.wsj.com/politics/policy/faa-disruptions-could-rise-to-20-if-shutdown-continues-6caf2de9",
-    "source": "wsj",
-    "pubdate": "2025-11-07-23-00-00 +0000"
   },
   {
     "headline": "Massive Bronx-to-Long Island drug pipeline busted as cops seize enough fentanyl to kill every person in Suffolk County",
@@ -690,18 +768,6 @@
     "pubdate": "2025-11-07-21-35-32 +0000"
   },
   {
-    "headline": "DNA pioneer James Watson dies at 97",
-    "link": "https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-21-24-06 +0000"
-  },
-  {
-    "headline": "DNA pioneer James Watson dies at 97",
-    "link": "https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-21-24-06 +0000"
-  },
-  {
     "headline": "Opinion | Campus DEI Persists, Even in Texas",
     "link": "https://www.wsj.com/opinion/campus-dei-persists-even-in-texas-12748f45",
     "source": "wsj",
@@ -858,12 +924,6 @@
     "pubdate": "2025-11-07-20-31-00 +0000"
   },
   {
-    "headline": "This year’s Rockefeller Center Christmas Tree is an ode to donor’s late husband — who dreamed of seeing it light up NYC",
-    "link": "https://nypost.com/2025/11/07/us-news/judy-russ-donated-rockefeller-center-christmas-tree-to-honor-late-husband/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-20-30-42 +0000"
-  },
-  {
     "headline": "Opinion | The Brains Behind Ukraine’s Pink Flamingo Cruise Missile",
     "link": "https://www.wsj.com/opinion/the-brains-behind-ukraines-pink-flamingo-cruise-missile-998426aa",
     "source": "wsj",
@@ -888,12 +948,6 @@
     "pubdate": "2025-11-07-20-26-00 +0000"
   },
   {
-    "headline": "Mom gunned down after arriving at wrong home for cleaning job was shot in the head through the door: cops",
-    "link": "https://nypost.com/2025/11/07/us-news/mom-gunned-down-after-arriving-at-wrong-home-for-cleaning-job-was-shot-in-the-head-through-the-door-cops/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-20-24-49 +0000"
-  },
-  {
     "headline": "James Watson: Controversial discoverer of 'the secret of life'",
     "link": "https://www.bbc.com/news/articles/cyr70zznpjxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -910,12 +964,6 @@
     "link": "https://www.nytimes.com/2025/11/07/business/japanese-automakers-tariff-losses.html",
     "source": "nyt",
     "pubdate": "2025-11-07-20-20-06 +0000"
-  },
-  {
-    "headline": "Republicans scorn ‘absurd,’ ‘non-starter’ Schumer ploy to end shutdown after 38 days",
-    "link": "https://nypost.com/2025/11/07/us-news/chuck-schumer-floats-compromise-on-obamacare-subsidies-to-end-shutdown/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-20-20-03 +0000"
   },
   {
     "headline": "Republicans scorn ‘absurd,’ ‘non-starter’ Schumer ploy to end shutdown after 38 days",
@@ -1026,7 +1074,7 @@
     "pubdate": "2025-11-07-19-32-29 +0000"
   },
   {
-    "headline": "U.S. steps up presence in Gaza to support fragile ceasefire",
+    "headline": "U.S. steps up Gaza aid role to support fragile ceasefire",
     "link": "https://www.washingtonpost.com/national-security/2025/11/07/us-centcom-gaza-israel-trump-peace/",
     "source": "wapo",
     "pubdate": "2025-11-07-19-31-46 +0000"
@@ -1222,18 +1270,6 @@
     "link": "https://www.nytimes.com/2025/11/07/arts/design/museum-of-west-african-art-nigeria.html",
     "source": "nyt",
     "pubdate": "2025-11-07-18-34-08 +0000"
-  },
-  {
-    "headline": "Nancy Pelosi’s Legacy as a Powerful Speaker in a Fractious House",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-house-speaker.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-18-32-17 +0000"
-  },
-  {
-    "headline": "Nancy Pelosi’s Legacy as a Powerful Speaker in a Fractious House",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-house-speaker.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-18-32-17 +0000"
   },
   {
     "headline": "Why Democrats Could Win the Redistricting War",
@@ -1704,18 +1740,6 @@
     "pubdate": "2025-11-07-14-52-11 +0000"
   },
   {
-    "headline": "As Hours Dwindled Before Flight Cuts, the Government Was Publicly Mum",
-    "link": "https://www.nytimes.com/2025/11/06/us/politics/flight-cuts-government-airports-faa.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-14-52-10 +0000"
-  },
-  {
-    "headline": "As Hours Dwindled Before Flight Cuts, the Government Was Publicly Mum",
-    "link": "https://www.nytimes.com/2025/11/06/us/politics/flight-cuts-government-airports-faa.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-14-52-10 +0000"
-  },
-  {
     "headline": "San Francisco Sees Nancy Pelosi as a Tireless Leader for the City",
     "link": "https://www.nytimes.com/2025/11/06/us/nancy-pelosi-san-francisco-retirement.html",
     "source": "nyt",
@@ -1792,12 +1816,6 @@
     "link": "https://www.bbc.com/news/articles/cgkz0yzde80o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-07-14-18-27 +0000"
-  },
-  {
-    "headline": "Prosecutors allege security lapses at downtown Minneapolis bar where shooting killed 1, wounded 3",
-    "link": "https://www.startribune.com/prosecutors-allege-security-lapses-at-downtown-minneapolis-bar-where-shooting-killed-1-wounded-3/601518236",
-    "source": "startribune",
-    "pubdate": "2025-11-07-14-16-25 +0000"
   },
   {
     "headline": "Trump Officials Accused of Bullying Tactics to Kill a Climate Measure",
@@ -2136,7 +2154,7 @@
     "pubdate": "2025-11-07-11-00-00 +0000"
   },
   {
-    "headline": "Why the YouTube vs. Disney battle isn't ending anytime soon",
+    "headline": "Why the YouTube versus Disney battle isn't ending anytime soon",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-07/youtube-vs-disney-whats-driving-this-bitter-dispute",
     "source": "latimes",
     "pubdate": "2025-11-07-11-00-00 +0000"
@@ -2692,197 +2710,5 @@
     "link": "https://www.nytimes.com/video/world/americas/100000010501858/how-radio-traffic-let-us-track-us-drones-in-the-caribbean.html",
     "source": "nyt",
     "pubdate": "2025-11-07-02-21-29 +0000"
-  },
-  {
-    "headline": "First Brands Races to Secure $600 Million Lifeline and Avoid ‘Game Over’ Liquidation",
-    "link": "https://www.wsj.com/articles/first-brands-races-to-secure-lifeline-and-avoid-game-over-liquidation-4ba69cb1?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-07-02-18-00 +0000"
-  },
-  {
-    "headline": "New system alerts L.A. County authorities when gun owners violate orders to give up weapons",
-    "link": "https://www.latimes.com/california/story/2025-11-06/la-county-restraining-order-gun-surrender-process",
-    "source": "latimes",
-    "pubdate": "2025-11-07-02-09-22 +0000"
-  },
-  {
-    "headline": "Erika Kirk receives inaugural ‘Charlie Kirk Legacy’ honor at Fox Nation’s Patriot Awards: ‘I’ll keep speaking the truth’",
-    "link": "https://nypost.com/2025/11/06/us-news/erika-kirk-receives-inaugural-charlie-kirk-legacy-honor-at-fox-nations-patriot-awards/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-02-06-03 +0000"
-  },
-  {
-    "headline": "Tepid reaction in Mexico to groping of president shows country has ‘normalized gender violence’: expert",
-    "link": "https://www.cbc.ca/news/world/mexico-president-assault-9.6970266?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-07-02-05-20 +0000"
-  },
-  {
-    "headline": "How the Lowly Soybean Got Trapped in the Crossfire of the U.S.-China Trade Wars",
-    "link": "https://www.wsj.com/finance/commodities-futures/soybeans-china-trade-war-36f8cd88",
-    "source": "wsj",
-    "pubdate": "2025-11-07-02-00-00 +0000"
-  },
-  {
-    "headline": "China’s Shift to Clean Energy Is Saving the Paris Climate Accord",
-    "link": "https://www.wsj.com/world/china-renewable-energy-paris-climate-accord-ff123bfc",
-    "source": "wsj",
-    "pubdate": "2025-11-07-02-00-00 +0000"
-  },
-  {
-    "headline": "China’s Shift to Clean Energy Is Saving the Paris Climate Accord",
-    "link": "https://www.wsj.com/world/china-renewable-energy-paris-climate-accord-ff123bfc?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-02-00-00 +0000"
-  },
-  {
-    "headline": "How the Lowly Soybean Got Trapped in the Crossfire of the U.S.-China Trade Wars",
-    "link": "https://www.wsj.com/finance/commodities-futures/soybeans-china-trade-war-36f8cd88?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-02-00-00 +0000"
-  },
-  {
-    "headline": "How the Lowly Soybean Got Trapped in the Crossfire of the U.S.-China Trade Wars",
-    "link": "https://www.wsj.com/finance/commodities-futures/soybeans-china-trade-war-36f8cd88?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-07-02-00-00 +0000"
-  },
-  {
-    "headline": "Allies of President Trump and Health Secretary Robert F. Kennedy Jr. are looking to the Make America Healthy Again movement to boost GOP prospects in next year’s midterm elections",
-    "link": "https://www.wsj.com/politics/elections/trump-rfk-jr-allies-hope-maha-movement-can-deliver-midterms-boost-64934583",
-    "source": "wsj",
-    "pubdate": "2025-11-07-02-00-00 +0000"
-  },
-  {
-    "headline": "Driver accused in stunning crash on I-10 that killed 3 wasn't on drugs, prosecutors say",
-    "link": "https://www.latimes.com/california/story/2025-11-06/truck-driver-in-ontario-crash-was-not-under-influence-of-drugs-prosecutors-say",
-    "source": "latimes",
-    "pubdate": "2025-11-07-01-56-26 +0000"
-  },
-  {
-    "headline": "Flight reductions to begin at the nation’s busiest airports on Friday",
-    "link": "https://www.washingtonpost.com/transportation/2025/11/05/flight-cuts-shutdown-duffy/",
-    "source": "wapo",
-    "pubdate": "2025-11-07-01-52-45 +0000"
-  },
-  {
-    "headline": "Nancy Pelosi's Rise From Stay-at-Home Mom to House Speaker",
-    "link": "https://www.nytimes.com/2025/11/06/us/nancy-pelosi-career-highlights.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-47-34 +0000"
-  },
-  {
-    "headline": "Sexual Assault of Mexico’s President Exposes Challenges of Her Equality Push",
-    "link": "https://www.nytimes.com/2025/11/06/world/americas/mexico-sheinbaum-women-abuse.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-46-27 +0000"
-  },
-  {
-    "headline": "Sexual Assault of Mexico’s President Exposes Challenges of Her Equality Push",
-    "link": "https://www.nytimes.com/2025/11/06/world/americas/mexico-sheinbaum-women-abuse.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-46-27 +0000"
-  },
-  {
-    "headline": "Blackstone Is Offloading a Flopped $1.8 Billion Investment in Senior Housing",
-    "link": "https://www.wsj.com/real-estate/blackstone-is-offloading-a-flopped-1-8-billion-investment-in-senior-housing-4a7b85d9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-07-01-45-00 +0000"
-  },
-  {
-    "headline": "Canada Is About to Lose Its Status as Having Eliminated Measles",
-    "link": "https://www.nytimes.com/2025/11/06/world/canada/canada-measles-elimination-measles.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-44-50 +0000"
-  },
-  {
-    "headline": "Canada Is About to Lose Its Status as Having Eliminated Measles",
-    "link": "https://www.nytimes.com/2025/11/06/world/canada/canada-measles-elimination-measles.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-44-50 +0000"
-  },
-  {
-    "headline": "Kazakhstan Is Joining the Abraham Accords, Trump Says",
-    "link": "https://www.nytimes.com/2025/11/06/us/politics/kazakhstan-abraham-accords.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-44-19 +0000"
-  },
-  {
-    "headline": "OpenAI CEO Says U.S. Shouldn’t Bail Out AI Companies",
-    "link": "https://www.wsj.com/tech/ai/trump-adviser-sacks-says-there-wont-be-a-federal-bailout-for-ai-391f2024?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-07-01-42-00 +0000"
-  },
-  {
-    "headline": "From slump to sizzle: KFC’s recipe for a comeback",
-    "link": "https://nypost.com/2025/11/06/business/from-slump-to-sizzle-kfcs-recipe-for-a-comeback/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-01-41-57 +0000"
-  },
-  {
-    "headline": "Busiest US airports to cut thousands of flights due to government shutdown",
-    "link": "https://www.bbc.com/news/articles/c2kp8dex14xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-01-38-51 +0000"
-  },
-  {
-    "headline": "U.S. Sends Attack Aircraft to El Salvador Amid Regional Troop Buildup",
-    "link": "https://www.nytimes.com/2025/11/06/world/americas/us-military-planes-el-salvador.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-38-22 +0000"
-  },
-  {
-    "headline": "U.S. Sends Attack Aircraft to El Salvador Amid Regional Troop Buildup",
-    "link": "https://www.nytimes.com/2025/11/06/world/americas/us-military-planes-el-salvador.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-38-22 +0000"
-  },
-  {
-    "headline": "Viktor Orban's dilemma - Russian oil or Trump's favour",
-    "link": "https://www.bbc.com/news/articles/c5ypl16pp81o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-01-38-21 +0000"
-  },
-  {
-    "headline": "Viktor Orban's dilemma - Russian oil or Trump's favour",
-    "link": "https://www.bbc.com/news/articles/c5ypl16pp81o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-01-38-21 +0000"
-  },
-  {
-    "headline": "Baby pictures: L.A. Zoo welcomes endangered Bornean orangutan",
-    "link": "https://www.latimes.com/california/story/2025-11-06/l-a-zoo-new-baby-bornean-orangutan",
-    "source": "latimes",
-    "pubdate": "2025-11-07-01-37-47 +0000"
-  },
-  {
-    "headline": "Amazon Oil Drilling Undermines Brazil’s Climate Credibility Before COP30",
-    "link": "https://www.nytimes.com/2025/11/04/world/americas/brazil-oil-drilling-amazon-cop30.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-01-36-32 +0000"
-  },
-  {
-    "headline": "Trump Administration Must Fund Full SNAP Benefits for November, Judge Rules",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-must-fully-fund-snap-benefits-for-november-judge-rules-07d01808",
-    "source": "wsj",
-    "pubdate": "2025-11-07-01-28-00 +0000"
-  },
-  {
-    "headline": "A federal judge has ordered the Trump administration to fully fund food-assistance benefits for November by Friday, criticizing the government’s efforts so far to make payments during the shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-must-fully-fund-snap-benefits-for-november-judge-rules-07d01808",
-    "source": "wsj",
-    "pubdate": "2025-11-07-01-28-00 +0000"
-  },
-  {
-    "headline": "CNN reporter Kristen Holmes visibly agitated when White House leaf blower disrupts live segment: ‘Deafening to me’",
-    "link": "https://nypost.com/2025/11/06/media/cnn-reporter-kristen-holmes-visibly-agitated-when-white-house-leaf-blower-disrupts-live-segment-deafening-to-me/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-01-23-23 +0000"
-  },
-  {
-    "headline": "The death of a Lucky, and the rise (again) of a food desert in Bayview Hunters Point",
-    "link": "https://48hills.org/2025/11/the-death-of-luckys-and-the-rise-again-of-a-food-desert-in-bayview-hunters-point/",
-    "source": "48hills",
-    "pubdate": "2025-11-07-01-19-06 +0000"
   }
 ]
