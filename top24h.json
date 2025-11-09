@@ -1,20 +1,20 @@
 [
   {
-    "score": 96,
+    "score": 91,
     "pubdate": "2025-11-08-15-46-18 +0000",
     "source": "nyt",
     "headline": "In Cozying Up to Trump, Leaders Hedge Their Reliance on Moscow and Beijing",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/central-asia-leaders-trump.html"
   },
   {
-    "score": 53,
+    "score": 56,
     "pubdate": "2025-11-08-17-17-26 +0000",
     "source": "nypost",
     "headline": "New Yorkers flock to food banks as government shutdown hits SNAP, causes airport chaos",
     "link": "https://nypost.com/2025/11/08/us-news/trump-urges-republicans-to-end-obamacare-send-funds-straight-to-the-people-as-govt-shutdown-drags-on/"
   },
   {
-    "score": 49,
+    "score": 48,
     "pubdate": "2025-11-08-14-29-08 +0000",
     "source": "cbc",
     "headline": "U.S. Federal Aviation Administration grounds all MD-11 cargo planes after deadly Kentucky crash",
@@ -28,14 +28,7 @@
     "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-08-05-16-33 +0000",
-    "source": "bbc",
-    "headline": "Trump gives Hungary one-year exemption from Russian energy sanctions",
-    "link": "https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 37,
+    "score": 36,
     "pubdate": "2025-11-08-21-59-45 +0000",
     "source": "nypost",
     "headline": "At least 5 dead, hundreds injured after tornado rips through Southern Brazil",
@@ -56,7 +49,7 @@
     "link": "https://nypost.com/2025/11/08/us-news/border-agents-doing-minimal-drug-screens-of-cruise-ships/"
   },
   {
-    "score": 29,
+    "score": 28,
     "pubdate": "2025-11-08-17-23-43 +0000",
     "source": "nypost",
     "headline": "Andrew Mountbatten Windsor, Fergie being probed and could face jail time, be forced out of UK: ‘He’s toast’",
@@ -64,9 +57,16 @@
   },
   {
     "score": 28,
-    "pubdate": "2025-11-08-23-16-33 +0000",
+    "pubdate": "2025-11-08-17-25-55 +0000",
+    "source": "nypost",
+    "headline": "Mamdani-backing Hochul insists she doesn’t ‘support’ DSA, fends off relentless criticism over NYC mayor-elect endorsement",
+    "link": "https://nypost.com/2025/11/08/us-news/mamdani-backing-hochul-i-dont-support-the-democratic-socialists-of-america/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-11-08-22-28-13 +0000",
     "source": "nyt",
-    "headline": "Anthony Grey, Journalist Held Hostage by China for Two Years, Dies at 87",
-    "link": "https://www.nytimes.com/2025/11/08/world/asia/anthony-grey-dead.html"
+    "headline": "Trump Gives Hungary a Reprieve on Sanctions After Meeting With Orban",
+    "link": "https://www.nytimes.com/2025/11/08/us/politics/trump-gives-hungarys-orban-reprieve-on-sanctions-after-meeting.html"
   }
 ]
