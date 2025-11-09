@@ -49,18 +49,11 @@
     "link": "https://nypost.com/2025/11/09/us-news/minneapolis-mayor-jacob-frey-under-fire-for-speaking-somali-in-victory-speech/"
   },
   {
-    "score": 29,
-    "pubdate": "2025-11-08-23-16-33 +0000",
+    "score": 28,
+    "pubdate": "2025-11-08-10-55-21 +0000",
     "source": "nyt",
-    "headline": "Anthony Grey, Journalist Held Hostage by China for Two Years, Dies at 87",
-    "link": "https://www.nytimes.com/2025/11/08/world/asia/anthony-grey-dead.html"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-11-08-20-02-08 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Ruling on SNAP Benefits Leaves Families in Limbo",
-    "link": "https://www.nytimes.com/2025/11/08/us/politics/families-food-stamps-supreme-court-order.html"
+    "headline": "Inside China’s Quest to Defy Aging with Longevity Labs and ‘Immortality Islands’",
+    "link": "https://www.nytimes.com/2025/11/08/world/asia/china-aging-longevity-science.html"
   },
   {
     "score": 27,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Trump Gives Hungary a Reprieve on Sanctions After Meeting With Orban",
     "link": "https://www.nytimes.com/2025/11/08/us/politics/trump-gives-hungarys-orban-reprieve-on-sanctions-after-meeting.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-11-09-00-00-18 +0000",
+    "source": "nypost",
+    "headline": "Hamas claims to have found body of IDF soldier Hadar Goldin — kidnapped and killed by the terror group in 2014",
+    "link": "https://nypost.com/2025/11/08/world-news/hamas-claims-to-have-found-body-of-idf-soldier-hadar-goldin-kidnapped-and-killed-by-the-terror-group-in-2014/"
   }
 ]
