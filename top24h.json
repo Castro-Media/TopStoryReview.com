@@ -1,41 +1,41 @@
 [
   {
-    "score": 90,
-    "pubdate": "2025-11-08-15-46-18 +0000",
-    "source": "nyt",
-    "headline": "In Cozying Up to Trump, Leaders Hedge Their Reliance on Moscow and Beijing",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/central-asia-leaders-trump.html"
+    "score": 91,
+    "pubdate": "2025-11-08-17-30-00 +0000",
+    "source": "wsj",
+    "headline": "Middle-class voters, many of them frustrated with MAGA and President Trump, could be up for grabs in next year’s midterms",
+    "link": "https://www.wsj.com/politics/elections/democrats-midterms-middle-class-voters-a82a19f4"
   },
   {
-    "score": 54,
+    "score": 49,
+    "pubdate": "2025-11-09-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Big companies run into a roadblock to getting all of their Trump tax cuts: the corporate tax increase that Democrats passed three years ago",
+    "link": "https://www.wsj.com/politics/policy/trump-biden-tax-laws-corporate-bace4fe8"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-11-08-17-17-26 +0000",
     "source": "nypost",
     "headline": "New Yorkers flock to food banks as government shutdown hits SNAP, causes airport chaos",
     "link": "https://nypost.com/2025/11/08/us-news/trump-urges-republicans-to-end-obamacare-send-funds-straight-to-the-people-as-govt-shutdown-drags-on/"
   },
   {
-    "score": 48,
+    "score": 39,
+    "pubdate": "2025-11-09-07-53-37 +0000",
+    "source": "bbc",
+    "headline": "BBC on Luzon Island as super typhoon nears Philippines",
+    "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-11-08-14-29-08 +0000",
     "source": "cbc",
     "headline": "U.S. Federal Aviation Administration grounds all MD-11 cargo planes after deadly Kentucky crash",
     "link": "https://www.cbc.ca/news/world/ups-fedex-ground-fleets-9.6972228?cmp=rss"
   },
   {
-    "score": 42,
-    "pubdate": "2025-11-08-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
-    "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-11-09-07-55-29 +0000",
-    "source": "bbc",
-    "headline": "More than 1,400 flights cancelled as US air traffic cuts enter second day",
-    "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 30,
+    "score": 37,
     "pubdate": "2025-11-08-17-25-55 +0000",
     "source": "nypost",
     "headline": "Mamdani-backing Hochul insists she doesn’t ‘support’ DSA, fends off relentless criticism over NYC mayor-elect endorsement",
@@ -43,17 +43,10 @@
   },
   {
     "score": 29,
-    "pubdate": "2025-11-09-09-49-10 +0000",
+    "pubdate": "2025-11-08-23-16-33 +0000",
     "source": "nyt",
-    "headline": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
-    "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2025-11-08-17-30-00 +0000",
-    "source": "wsj",
-    "headline": "Middle-class voters, many of them frustrated with MAGA and President Trump, could be up for grabs in next year’s midterms",
-    "link": "https://www.wsj.com/politics/elections/democrats-midterms-middle-class-voters-a82a19f4"
+    "headline": "Anthony Grey, Journalist Held Hostage by China for Two Years, Dies at 87",
+    "link": "https://www.nytimes.com/2025/11/08/world/asia/anthony-grey-dead.html"
   },
   {
     "score": 28,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Six dead as Russia hits energy and residential sites in Ukraine",
     "link": "https://www.bbc.com/news/articles/ce3xdg7xrv9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-11-08-17-23-43 +0000",
+    "source": "nypost",
+    "headline": "Andrew Mountbatten Windsor, Fergie being probed and could face jail time, be forced out of UK: ‘He’s toast’",
+    "link": "https://nypost.com/2025/11/08/world-news/prince-andrew-fergie-being-probed-and-could-face-criminal-charges-hes-toast/"
   }
 ]
