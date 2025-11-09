@@ -1,58 +1,72 @@
 [
   {
-    "score": 21,
-    "pubdate": "2025-11-09-07-55-29 +0000",
-    "source": "bbc",
-    "headline": "More than 1,400 flights cancelled as US air traffic cuts enter second day",
-    "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss"
+    "score": 20,
+    "pubdate": "2025-11-09-09-49-10 +0000",
+    "source": "nyt",
+    "headline": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
+    "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html"
   },
   {
     "score": 16,
-    "pubdate": "2025-11-09-08-00-12 +0000",
+    "pubdate": "2025-11-09-09-08-53 +0000",
     "source": "nyt",
-    "headline": "Israeli Academics Find Themselves Isolated Despite Gaza Cease-Fire",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/boycotts-israel.html"
+    "headline": "Japan Issues Tsunami Advisory After Strong Earthquake Off Its Coast",
+    "link": "https://www.nytimes.com/2025/11/09/world/asia/earthquake-japan-tsunami-warning.html"
   },
   {
     "score": 14,
-    "pubdate": "2025-11-09-08-04-02 +0000",
+    "pubdate": "2025-11-09-08-57-07 +0000",
+    "source": "nypost",
+    "headline": "North Dakota hotel worker caught soaking stained bed sheets in hot tub in front of guests: ‘Disgusting’",
+    "link": "https://nypost.com/2025/11/09/us-news/north-dakota-expressway-suites-worker-caught-throwing-bed-sheets-into-hot-tub-horrifying-guests/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-09-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "NDP MP ‘very confident’ no New Democrats will cross floor to Liberals as budget vote nears",
+    "link": "https://www.cbc.ca/news/politics/ndp-rejects-floor-crossing-9.6972303?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-09-09-02-49 +0000",
+    "source": "wapo",
+    "headline": "German far-right activist seeks asylum in U.S. as Trump ties deepen",
+    "link": "https://www.washingtonpost.com/world/2025/11/09/germany-far-right-seibt-asylum/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-09-09-17-13 +0000",
+    "source": "bbc",
+    "headline": "The gentle but ruthless president blamed for shattering Tanzania's aura of stability",
+    "link": "https://www.bbc.com/news/articles/c2kp9yev5e5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-09-09-12-29 +0000",
+    "source": "bbc",
+    "headline": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
+    "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-09-09-49-10 +0000",
     "source": "nyt",
     "headline": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
     "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-11-09-08-08-20 +0000",
-    "source": "nyt",
-    "headline": "What Travelers Need to Know About the Shutdown, Flight Reductions and Delays",
-    "link": "https://www.nytimes.com/article/shutdown-faa-flight-delays-cancellations.html"
-  },
-  {
     "score": 0,
-    "pubdate": "2025-11-09-08-04-02 +0000",
-    "source": "nyt",
-    "headline": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
-    "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-09-08-00-12 +0000",
-    "source": "nyt",
-    "headline": "Israeli Academics Find Themselves Isolated Despite Gaza Cease-Fire",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/boycotts-israel.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-09-07-55-29 +0000",
+    "pubdate": "2025-11-09-09-12-29 +0000",
     "source": "bbc",
-    "headline": "More than 1,400 flights cancelled as US air traffic cuts enter second day",
-    "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss"
+    "headline": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
+    "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 0,
-    "pubdate": "2025-11-09-07-55-29 +0000",
-    "source": "bbc",
-    "headline": "More than 1,400 flights cancelled as US air traffic cuts enter second day",
-    "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-11-09-09-08-53 +0000",
+    "source": "nyt",
+    "headline": "Japan Issues Tsunami Advisory After Strong Earthquake Off Its Coast",
+    "link": "https://www.nytimes.com/2025/11/09/world/asia/earthquake-japan-tsunami-warning.html"
   }
 ]
