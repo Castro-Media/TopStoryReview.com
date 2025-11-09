@@ -1,16 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2025-11-09-12-57-03 +0000",
+    "score": 31,
+    "pubdate": "2025-11-09-14-46-42 +0000",
+    "source": "bbc",
+    "headline": "BBC on Luzon Island as super typhoon hits Philippines",
+    "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-09-14-13-50 +0000",
+    "source": "nyt",
+    "headline": "Trump Loyalists Push ‘Grand Conspiracy’ as New Subpoenas Land",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-conspiracy-probe-subpoenas.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-09-13-55-13 +0000",
+    "source": "nyt",
+    "headline": "Argentina Has Become an Escape for L.G.B.T.Q. Russians Escaping Putin’s Anti-Gay Crackdown",
+    "link": "https://www.nytimes.com/2025/11/09/world/americas/argentina-lgbtq-russia-putin-escape.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-09-14-25-03 +0000",
+    "source": "nyt",
+    "headline": "Japan Lifts Tsunami Advisory After Strong Earthquake Off Its Coast",
+    "link": "https://www.nytimes.com/2025/11/09/world/asia/earthquake-japan-tsunami-warning.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-09-14-06-33 +0000",
+    "source": "nypost",
+    "headline": "Elon Musk trolled mercilessly after posting AI-generated clip of woman saying ‘I will always love you’",
+    "link": "https://nypost.com/2025/11/09/us-news/elon-musk-trolled-mercilessly-over-ai-clip-of-woman-saying-i-will-always-love-you/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-09-14-30-19 +0000",
+    "source": "nypost",
+    "headline": "Wild video shows Russian chopper pilot make baffling choice before deadly crash",
+    "link": "https://nypost.com/2025/11/09/world-news/video-shows-russian-chopper-pilot-make-baffling-choice-before-deadly-crash/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-09-14-51-10 +0000",
+    "source": "nypost",
+    "headline": "President Trump promises $2,000 tariff dividend to every person in America: ‘People that are against Tariffs are FOOLS!’",
+    "link": "https://nypost.com/2025/11/09/us-news/trump-promises-2000-tariff-dividend-to-every-person-in-america/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-09-14-01-17 +0000",
+    "source": "bbc",
+    "headline": "Super typhoon makes landfall in Philippines as nearly a million evacuated",
+    "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-09-14-04-00 +0000",
+    "source": "nyt",
+    "headline": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
+    "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-09-13-54-49 +0000",
     "source": "bbc",
     "headline": "Finance secretary may have to 'revisit' no tax rise pledge",
     "link": "https://www.bbc.com/news/articles/c3epx21w9yvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-11-09-12-54-31 +0000",
-    "source": "wapo",
-    "headline": "Baby formula recalled after infant botulism outbreak",
-    "link": "https://www.washingtonpost.com/health/2025/11/09/infant-botulism-formula-recall/"
   }
 ]
