@@ -1,31 +1,24 @@
 [
   {
-    "score": 102,
+    "score": 99,
     "pubdate": "2025-11-08-15-46-18 +0000",
     "source": "nyt",
     "headline": "In Cozying Up to Trump, Leaders Hedge Their Reliance on Moscow and Beijing",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/central-asia-leaders-trump.html"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2025-11-08-17-17-26 +0000",
     "source": "nypost",
     "headline": "New Yorkers flock to food banks as government shutdown hits SNAP, causes airport chaos",
     "link": "https://nypost.com/2025/11/08/us-news/trump-urges-republicans-to-end-obamacare-send-funds-straight-to-the-people-as-govt-shutdown-drags-on/"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2025-11-08-14-29-08 +0000",
     "source": "cbc",
     "headline": "U.S. Federal Aviation Administration grounds all MD-11 cargo planes after deadly Kentucky crash",
     "link": "https://www.cbc.ca/news/world/ups-fedex-ground-fleets-9.6972228?cmp=rss"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-11-08-05-16-33 +0000",
-    "source": "bbc",
-    "headline": "Trump gives Hungary one-year exemption from Russian energy sanctions",
-    "link": "https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 42,
@@ -33,6 +26,13 @@
     "source": "wsj",
     "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
     "link": "https://www.wsj.com/us-news/zohran-mamdani-advisers-nyc-mayor-910428cb"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-11-08-05-16-33 +0000",
+    "source": "bbc",
+    "headline": "Trump gives Hungary one-year exemption from Russian energy sanctions",
+    "link": "https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
@@ -49,18 +49,18 @@
     "link": "https://www.nytimes.com/2025/11/07/us/politics/biden-trump-omaha-nebraska.html"
   },
   {
-    "score": 35,
-    "pubdate": "2025-11-08-20-02-08 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Ruling on SNAP Benefits Leaves Families in Limbo",
-    "link": "https://www.nytimes.com/2025/11/08/us/politics/families-food-stamps-supreme-court-order.html"
-  },
-  {
     "score": 33,
     "pubdate": "2025-11-09-02-00-00 +0000",
     "source": "wsj",
     "headline": "Big companies run into a roadblock to getting all of their Trump tax cuts: the corporate tax increase that Democrats passed three years ago",
     "link": "https://www.wsj.com/politics/policy/trump-biden-tax-laws-corporate-bace4fe8"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-11-08-04-19-00 +0000",
+    "source": "wsj",
+    "headline": "A district court judge has blocked the Trump administration’s effort to deploy National Guard troops to Portland, Ore., finding the president overstepped his authority",
+    "link": "https://www.wsj.com/politics/policy/portland-deployment-of-national-guard-wasnt-justified-judge-rules-77a1b740"
   },
   {
     "score": 32,
