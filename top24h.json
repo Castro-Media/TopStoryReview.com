@@ -1,27 +1,27 @@
 [
   {
-    "score": 99,
+    "score": 96,
     "pubdate": "2025-11-08-15-46-18 +0000",
     "source": "nyt",
     "headline": "In Cozying Up to Trump, Leaders Hedge Their Reliance on Moscow and Beijing",
     "link": "https://www.nytimes.com/2025/11/07/us/politics/central-asia-leaders-trump.html"
   },
   {
-    "score": 59,
+    "score": 53,
     "pubdate": "2025-11-08-17-17-26 +0000",
     "source": "nypost",
     "headline": "New Yorkers flock to food banks as government shutdown hits SNAP, causes airport chaos",
     "link": "https://nypost.com/2025/11/08/us-news/trump-urges-republicans-to-end-obamacare-send-funds-straight-to-the-people-as-govt-shutdown-drags-on/"
   },
   {
-    "score": 52,
+    "score": 49,
     "pubdate": "2025-11-08-14-29-08 +0000",
     "source": "cbc",
     "headline": "U.S. Federal Aviation Administration grounds all MD-11 cargo planes after deadly Kentucky crash",
     "link": "https://www.cbc.ca/news/world/ups-fedex-ground-fleets-9.6972228?cmp=rss"
   },
   {
-    "score": 42,
+    "score": 44,
     "pubdate": "2025-11-08-10-30-00 +0000",
     "source": "wsj",
     "headline": "Zohran Mamdani, who just triumphed in the New York City mayoral race, already faces his next big challenge: making the right hires without alienating loyalists or further antagonizing skeptics",
@@ -42,25 +42,11 @@
     "link": "https://nypost.com/2025/11/08/world-news/at-least-5-dead-hundreds-injured-after-tornado-rips-through-southern-brazil/"
   },
   {
-    "score": 36,
-    "pubdate": "2025-11-08-04-30-05 +0000",
-    "source": "nyt",
-    "headline": "Biden Warns of a ‘Very, Very Dark Moment’ as He Hits Out at Trump",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/biden-trump-omaha-nebraska.html"
-  },
-  {
-    "score": 33,
+    "score": 32,
     "pubdate": "2025-11-09-02-00-00 +0000",
     "source": "wsj",
     "headline": "Big companies run into a roadblock to getting all of their Trump tax cuts: the corporate tax increase that Democrats passed three years ago",
     "link": "https://www.wsj.com/politics/policy/trump-biden-tax-laws-corporate-bace4fe8"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-11-08-04-19-00 +0000",
-    "source": "wsj",
-    "headline": "A district court judge has blocked the Trump administration’s effort to deploy National Guard troops to Portland, Ore., finding the president overstepped his authority",
-    "link": "https://www.wsj.com/politics/policy/portland-deployment-of-national-guard-wasnt-justified-judge-rules-77a1b740"
   },
   {
     "score": 32,
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "Beware the ‘high’ seas: Border agents doing ‘minimal’ drug inspections of cruise ship passengers",
     "link": "https://nypost.com/2025/11/08/us-news/border-agents-doing-minimal-drug-screens-of-cruise-ships/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-11-08-17-23-43 +0000",
+    "source": "nypost",
+    "headline": "Andrew Mountbatten Windsor, Fergie being probed and could face jail time, be forced out of UK: ‘He’s toast’",
+    "link": "https://nypost.com/2025/11/08/world-news/prince-andrew-fergie-being-probed-and-could-face-criminal-charges-hes-toast/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-11-08-23-16-33 +0000",
+    "source": "nyt",
+    "headline": "Anthony Grey, Journalist Held Hostage by China for Two Years, Dies at 87",
+    "link": "https://www.nytimes.com/2025/11/08/world/asia/anthony-grey-dead.html"
   }
 ]
