@@ -1,21 +1,153 @@
 [
   {
+    "headline": "Blue Origin to Launch NASA’s ESCAPADE Mission to Mars: How to Watch",
+    "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-53-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Rastafarian and Religious Liberty at the Supreme Court",
+    "link": "https://www.wsj.com/opinion/the-rastafarian-and-religious-liberty-damon-landor-supreme-court-32661ee1",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-49-00 +0000"
+  },
+  {
+    "headline": "Opinion | ‘Broken Windows’ and Trump-Era Ethics",
+    "link": "https://www.wsj.com/opinion/broken-windows-and-trump-era-ethics-4accd212",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-48-00 +0000"
+  },
+  {
+    "headline": "Opinion | Grade Inflation Produced Mamdani’s Proletariat",
+    "link": "https://www.wsj.com/opinion/grade-inflation-produced-mamdanis-proletariat-d2807aea",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-47-00 +0000"
+  },
+  {
+    "headline": "Widow, FDNY siblings of fallen firefighter Patrick Brady weep as bunting is put up at firehouse",
+    "link": "https://nypost.com/2025/11/09/us-news/widow-fdny-siblings-of-fallen-firefighter-patrick-brady-weep-as-bunting-is-put-up-at-firehouse/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-17-46-04 +0000"
+  },
+  {
+    "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
+    "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-42-50 +0000"
+  },
+  {
+    "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
+    "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-42-50 +0000"
+  },
+  {
+    "headline": "Mystery 'fedora man' at Louvre heist scene revealed as teenage detective fan",
+    "link": "https://www.bbc.com/news/articles/c5ylx0g6w76o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-40-17 +0000"
+  },
+  {
+    "headline": "Three dead and 15 injured in Tenerife tidal surge",
+    "link": "https://www.bbc.com/news/articles/cpd2pzxe59go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-40-04 +0000"
+  },
+  {
+    "headline": "Israel receives body of soldier killed in 2014 in Gaza",
+    "link": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-38-17 +0000"
+  },
+  {
+    "headline": "Trump administration demands states ‘undo’ full SNAP payouts as states warn of ‘catastrophic impact’",
+    "link": "https://www.startribune.com/trump-administration-demands-states-undo-full-snap-payouts-as-states-warn-of-catastrophic-impact/601521613",
+    "source": "startribune",
+    "pubdate": "2025-11-09-17-34-06 +0000"
+  },
+  {
+    "headline": "Trump suggests $2,000 payouts to Americans as he defends tariffs",
+    "link": "https://www.wsj.com/politics/policy/trump-suggests-2-000-payouts-to-americans-as-he-defends-tariffs-c4af7ec1",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-30-00 +0000"
+  },
+  {
+    "headline": "First openly trans lawmaker admits to sickening child sex charges involving kids as young as 3",
+    "link": "https://nypost.com/2025/11/09/us-news/first-trans-lawmaker-stacie-marie-laughton-admits-to-child-sex-charges/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-17-26-11 +0000"
+  },
+  {
+    "headline": "Republicans pitch alternative to ACA extension to end government shutdown",
+    "link": "https://www.wsj.com/politics/policy/republicans-pitch-alternative-to-aca-extension-to-end-government-shutdown-3be838e3",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-24-00 +0000"
+  },
+  {
+    "headline": "After Hurricane Melissa, Solar Power Kept the Electricity on for Some Jamaicans",
+    "link": "https://www.nytimes.com/2025/11/08/climate/jamaica-hurricane-solar-power.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-15-38 +0000"
+  },
+  {
+    "headline": "Hamas Hands Over Body of Israeli Soldier Held Since 2014",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-13-17 +0000"
+  },
+  {
+    "headline": "Hamas Hands Over Body of Israeli Soldier Held Since 2014",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-13-17 +0000"
+  },
+  {
+    "headline": "Mysterious ‘Fedora Man’ believed to be French detective outside Louvre finally unmasked",
+    "link": "https://nypost.com/2025/11/09/world-news/louvres-fedora-man-idd-as-pedro-elias-garzon-delvaux/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-17-07-59 +0000"
+  },
+  {
+    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-03-42 +0000"
+  },
+  {
+    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-03-42 +0000"
+  },
+  {
+    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-03-42 +0000"
+  },
+  {
+    "headline": "Trailer Park Boys' Mike Smith charged with sexual assault - reports",
+    "link": "https://www.bbc.com/news/articles/cp8epv1p1j4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-00-23 +0000"
+  },
+  {
+    "headline": "What America’s Longest-Tenured Employees Say About Work—Then and Now",
+    "link": "https://www.wsj.com/lifestyle/workplace/long-tenure-employees-workplace-changes-2054605f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-00-00 +0000"
+  },
+  {
+    "headline": "My Mom’s Been Stashing Silver Coins. Would Record Prices Land Her a Windfall?",
+    "link": "https://www.wsj.com/finance/commodities-futures/my-moms-been-stashing-silver-coins-would-record-prices-land-her-a-windfall-ba609a29?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-00-00 +0000"
+  },
+  {
     "headline": "Pushing, yelling from Conservative leadership ‘sealed the deal’ on defection: d’Entremont",
     "link": "https://www.cbc.ca/news/politics/pushing-yelling-conservative-leadership-dentremont-9.6972680?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-09-16-52-13 +0000"
-  },
-  {
-    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-16-52-10 +0000"
-  },
-  {
-    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-16-52-10 +0000"
   },
   {
     "headline": "Baby formula recalled after it’s linked to ‘potentially fatal’ illness in 10 states",
@@ -30,12 +162,6 @@
     "pubdate": "2025-11-09-16-40-03 +0000"
   },
   {
-    "headline": "Republicans pitch alternative to ACA extension to end government shutdown",
-    "link": "https://www.wsj.com/politics/policy/republicans-pitch-alternative-to-aca-extension-to-end-government-shutdown-3be838e3",
-    "source": "wsj",
-    "pubdate": "2025-11-09-16-29-00 +0000"
-  },
-  {
     "headline": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
     "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html",
     "source": "nyt",
@@ -60,10 +186,10 @@
     "pubdate": "2025-11-09-16-14-14 +0000"
   },
   {
-    "headline": "Airport Disruptions May Get Worse This Week",
+    "headline": "Airport Disruptions May Get Worse This Week Amid Shutdown",
     "link": "https://www.nytimes.com/2025/11/09/business/airport-flights-cancellations.html",
     "source": "nyt",
-    "pubdate": "2025-11-09-16-11-35 +0000"
+    "pubdate": "2025-11-09-16-11-36 +0000"
   },
   {
     "headline": "Infant Formula Recalled Amid Botulism Investigation",
@@ -84,7 +210,7 @@
     "pubdate": "2025-11-09-15-56-32 +0000"
   },
   {
-    "headline": "Trump Administration Demands States ‘Undo’ Work to Send Full Food Stamps",
+    "headline": "Trump Officials Push States to ‘Undo’ Work to Send Full SNAP Benefits",
     "link": "https://www.nytimes.com/2025/11/09/business/trump-administration-states-undo-full-snap-food-stamps.html",
     "source": "nyt",
     "pubdate": "2025-11-09-15-45-39 +0000"
@@ -112,12 +238,6 @@
     "link": "https://nypost.com/2025/11/09/world-news/parents-issue-travel-warning-after-daughters-die-on-island-trip/",
     "source": "nypost",
     "pubdate": "2025-11-09-15-28-57 +0000"
-  },
-  {
-    "headline": "Blue Origin to Launch NASA’s ESCAPADE Mission to Mars: How to Watch",
-    "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-15-27-44 +0000"
   },
   {
     "headline": "Winter storm warning issued for Chicago as intense snowfall targets Great Lakes with up to 2 feet",
@@ -154,12 +274,6 @@
     "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-09-14-58-54 +0000"
-  },
-  {
-    "headline": "Israel receives body from Gaza after PM says soldier killed in 2014 to be returned",
-    "link": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-09-14-57-25 +0000"
   },
   {
     "headline": "President Trump promises $2,000 tariff dividend to every person in America: ‘People that are against Tariffs are FOOLS!’",
@@ -264,7 +378,7 @@
     "pubdate": "2025-11-09-13-54-49 +0000"
   },
   {
-    "headline": "Kathy Hochul orders NY to pay SNAP food stamp benefits — and deposits could come as early as today",
+    "headline": "NY starts sending out SNAP payments after being cut off over gov’t shutdown: Kathy Hochul",
     "link": "https://nypost.com/2025/11/09/us-news/hochul-orders-ny-to-pay-snap-benefits-and-deposits-could-come-as-early-as-today/",
     "source": "nypost",
     "pubdate": "2025-11-09-13-53-42 +0000"
@@ -813,13 +927,13 @@
     "headline": "Russian Bombardment Causes Large Outages in Ukraine’s Big Cities",
     "link": "https://www.nytimes.com/2025/11/08/world/europe/ukraine-russia-war-energy.html",
     "source": "nyt",
-    "pubdate": "2025-11-09-04-22-36 +0000"
+    "pubdate": "2025-11-09-04-22-37 +0000"
   },
   {
     "headline": "Russian Bombardment Causes Large Outages in Ukraine’s Big Cities",
     "link": "https://www.nytimes.com/2025/11/08/world/europe/ukraine-russia-war-energy.html",
     "source": "nyt",
-    "pubdate": "2025-11-09-04-22-36 +0000"
+    "pubdate": "2025-11-09-04-22-37 +0000"
   },
   {
     "headline": "Minneapolis teachers and school district reach tentative agreement, averting strike",
@@ -984,22 +1098,10 @@
     "pubdate": "2025-11-09-01-00-00 +0000"
   },
   {
-    "headline": "Air Force families at Florida base ordered to strip early Christmas lights from homes by ‘Grinch’ management corp",
-    "link": "https://nypost.com/2025/11/08/us-news/air-force-families-at-florida-base-ordered-to-strip-christmas-lights-from-homes/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-00-47-19 +0000"
-  },
-  {
     "headline": "Widespread power outage temporarily impacts more than 30,000 LADWP customers across L.A.",
     "link": "https://www.latimes.com/california/story/2025-11-08/power-outage-impacts-more-than-100-000-ladwp-customers-from-dtla-to",
     "source": "latimes",
     "pubdate": "2025-11-09-00-46-40 +0000"
-  },
-  {
-    "headline": "Police bust 2 drivers for topping 100 mph near Florida school zone",
-    "link": "https://nypost.com/2025/11/08/us-news/two-drivers-busted-for-topping-100-mph-near-florida-school-zone-cops/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-00-36-00 +0000"
   },
   {
     "headline": "Shots Fired at Border Patrol Agents in Chicago, Federal Officials Say",
@@ -1044,12 +1146,6 @@
     "pubdate": "2025-11-08-23-44-14 +0000"
   },
   {
-    "headline": "Minnesota restores full SNAP benefits to families in need",
-    "link": "https://www.startribune.com/minnesota-restores-full-snap-benefits-to-families-in-need/601521149",
-    "source": "startribune",
-    "pubdate": "2025-11-08-23-42-25 +0000"
-  },
-  {
     "headline": "4 dead, 13 injured after street racer slams into crowd at Tampa bar",
     "link": "https://www.bbc.com/news/articles/clyl6jwx2v8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1057,7 +1153,7 @@
   },
   {
     "headline": "Worries Increase on Second Day of Flight Cancellations",
-    "link": "https://www.nytimes.com/2025/11/08/us/worries-mount-as-air-traffic-delays-stretch-to-second-day.html",
+    "link": "https://www.nytimes.com/2025/11/08/us/trump-shutdown-air-traffic-flight-cancellations.html",
     "source": "nyt",
     "pubdate": "2025-11-08-23-17-36 +0000"
   },
@@ -1131,13 +1227,13 @@
     "headline": "Gavin Newsom, Eyeing 2028, Tries to Mess With Texas",
     "link": "https://www.nytimes.com/2025/11/08/us/politics/newsom-2028-texas-rally-abbott-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-22-24-59 +0000"
+    "pubdate": "2025-11-08-22-25-00 +0000"
   },
   {
     "headline": "Gavin Newsom, Eyeing 2028, Tries to Mess With Texas",
     "link": "https://www.nytimes.com/2025/11/08/us/politics/newsom-2028-texas-rally-abbott-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-22-24-59 +0000"
+    "pubdate": "2025-11-08-22-25-00 +0000"
   },
   {
     "headline": "Thousands take to Lisbon streets over proposed labour laws",
@@ -1260,10 +1356,22 @@
     "pubdate": "2025-11-08-19-05-46 +0000"
   },
   {
+    "headline": "Refuse Fascism launches sustained peaceful resistance movement in DC",
+    "link": "https://48hills.org/2025/11/refuse-fascism-launches-sustained-peaceful-resistance-movement-in-dc/",
+    "source": "48hills",
+    "pubdate": "2025-11-08-19-00-58 +0000"
+  },
+  {
     "headline": "Black South Carolina Residents Say Re-Routed Penn Center Parade Feels Like Erasure",
     "link": "https://www.nytimes.com/2025/11/08/us/penn-center-parade-south-carolina-gullah-geechee.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-18-47-44 +0000"
+    "pubdate": "2025-11-08-18-47-45 +0000"
+  },
+  {
+    "headline": "Live Shots: A glamorous trip back to the 1930s with Alex Mendham and his Orchestra",
+    "link": "https://48hills.org/2025/11/live-shots-alex-mendham-and-his-orchestra-peacock-ballroom-art-deco-series-music/",
+    "source": "48hills",
+    "pubdate": "2025-11-08-18-33-44 +0000"
   },
   {
     "headline": "Man Dies After Slipping and Falling in Grand Canyon West",
@@ -1282,95 +1390,5 @@
     "link": "https://nypost.com/2025/11/08/world-news/prince-andrew-had-penchant-for-bringing-prostitutes-into-buckingham-palace-report/",
     "source": "nypost",
     "pubdate": "2025-11-08-18-00-57 +0000"
-  },
-  {
-    "headline": "Off-duty LAPD officer killed in crash in Santa Clarita",
-    "link": "https://www.latimes.com/california/story/2025-11-08/off-duty-lapd-officer-killed-santa-clarita-crash",
-    "source": "latimes",
-    "pubdate": "2025-11-08-17-49-53 +0000"
-  },
-  {
-    "headline": "A Light in Very Dark Days: Nancy Pelosi and AIDS",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-aids-lgbtq.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-17-44-29 +0000"
-  },
-  {
-    "headline": "North Korea condemns US-South Korea security talks, threatens to take ‘more offensive action’",
-    "link": "https://nypost.com/2025/11/08/world-news/north-korea-condemns-us-south-korea-security-talks-threatens-to-take-more-offensive-action/",
-    "source": "nypost",
-    "pubdate": "2025-11-08-17-39-48 +0000"
-  },
-  {
-    "headline": "Middle-class voters, many of them frustrated with MAGA and President Trump, could be up for grabs in next year’s midterms",
-    "link": "https://www.wsj.com/politics/elections/democrats-midterms-middle-class-voters-a82a19f4",
-    "source": "wsj",
-    "pubdate": "2025-11-08-17-30-00 +0000"
-  },
-  {
-    "headline": "FAA Flight Restrictions Are in Effect: Here’s What to Know",
-    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3",
-    "source": "wsj",
-    "pubdate": "2025-11-08-17-28-00 +0000"
-  },
-  {
-    "headline": "FAA Flight Restrictions Are in Effect: Here’s What to Know",
-    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3",
-    "source": "wsj",
-    "pubdate": "2025-11-08-17-28-00 +0000"
-  },
-  {
-    "headline": "FAA Flight Restrictions Are in Effect: Here’s What to Know",
-    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-08-17-28-00 +0000"
-  },
-  {
-    "headline": "Mamdani-backing Hochul insists she doesn’t ‘support’ DSA, fends off relentless criticism over NYC mayor-elect endorsement",
-    "link": "https://nypost.com/2025/11/08/us-news/mamdani-backing-hochul-i-dont-support-the-democratic-socialists-of-america/",
-    "source": "nypost",
-    "pubdate": "2025-11-08-17-25-55 +0000"
-  },
-  {
-    "headline": "Andrew Mountbatten Windsor, Fergie being probed and could face jail time, be forced out of UK: ‘He’s toast’",
-    "link": "https://nypost.com/2025/11/08/world-news/prince-andrew-fergie-being-probed-and-could-face-criminal-charges-hes-toast/",
-    "source": "nypost",
-    "pubdate": "2025-11-08-17-23-43 +0000"
-  },
-  {
-    "headline": "What Scientists Are Learning From Brain Organoids",
-    "link": "https://www.nytimes.com/2025/11/06/science/brain-organoids-neurons.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-17-23-11 +0000"
-  },
-  {
-    "headline": "Military Families Are Getting Paid, but Still Need Food Pantries",
-    "link": "https://www.wsj.com/us-news/military-families-are-getting-paid-but-still-need-food-pantries-fa93bce5",
-    "source": "wsj",
-    "pubdate": "2025-11-08-17-18-00 +0000"
-  },
-  {
-    "headline": "Philippines warns of deadly storm surges as Typhoon Fung-wong strengthens",
-    "link": "https://nypost.com/2025/11/08/world-news/philippines-warns-of-deadly-storm-surges-as-typhoon-fung-wong-strengthens/",
-    "source": "nypost",
-    "pubdate": "2025-11-08-17-17-57 +0000"
-  },
-  {
-    "headline": "New Yorkers flock to food banks as government shutdown hits SNAP, causes airport chaos",
-    "link": "https://nypost.com/2025/11/08/us-news/trump-urges-republicans-to-end-obamacare-send-funds-straight-to-the-people-as-govt-shutdown-drags-on/",
-    "source": "nypost",
-    "pubdate": "2025-11-08-17-17-26 +0000"
-  },
-  {
-    "headline": "How the Trump Administration Is Giving Even More Tax Breaks to the Wealthy",
-    "link": "https://www.nytimes.com/2025/11/08/business/trump-administration-tax-breaks-wealthy.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-17-16-20 +0000"
-  },
-  {
-    "headline": "LA Dodgers' Alex Vesia shares death of baby daughter after sitting out World Series",
-    "link": "https://www.bbc.com/news/articles/cj3z7pmrg7mo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-08-16-55-35 +0000"
   }
 ]

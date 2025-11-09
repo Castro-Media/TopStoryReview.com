@@ -1,21 +1,153 @@
 [
   {
+    "headline": "Blue Origin to Launch NASA’s ESCAPADE Mission to Mars: How to Watch",
+    "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-53-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Rastafarian and Religious Liberty at the Supreme Court",
+    "link": "https://www.wsj.com/opinion/the-rastafarian-and-religious-liberty-damon-landor-supreme-court-32661ee1",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-49-00 +0000"
+  },
+  {
+    "headline": "Opinion | ‘Broken Windows’ and Trump-Era Ethics",
+    "link": "https://www.wsj.com/opinion/broken-windows-and-trump-era-ethics-4accd212",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-48-00 +0000"
+  },
+  {
+    "headline": "Opinion | Grade Inflation Produced Mamdani’s Proletariat",
+    "link": "https://www.wsj.com/opinion/grade-inflation-produced-mamdanis-proletariat-d2807aea",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-47-00 +0000"
+  },
+  {
+    "headline": "Widow, FDNY siblings of fallen firefighter Patrick Brady weep as bunting is put up at firehouse",
+    "link": "https://nypost.com/2025/11/09/us-news/widow-fdny-siblings-of-fallen-firefighter-patrick-brady-weep-as-bunting-is-put-up-at-firehouse/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-17-46-04 +0000"
+  },
+  {
+    "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
+    "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-42-50 +0000"
+  },
+  {
+    "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
+    "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-42-50 +0000"
+  },
+  {
+    "headline": "Mystery 'fedora man' at Louvre heist scene revealed as teenage detective fan",
+    "link": "https://www.bbc.com/news/articles/c5ylx0g6w76o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-40-17 +0000"
+  },
+  {
+    "headline": "Three dead and 15 injured in Tenerife tidal surge",
+    "link": "https://www.bbc.com/news/articles/cpd2pzxe59go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-40-04 +0000"
+  },
+  {
+    "headline": "Israel receives body of soldier killed in 2014 in Gaza",
+    "link": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-38-17 +0000"
+  },
+  {
+    "headline": "Trump administration demands states ‘undo’ full SNAP payouts as states warn of ‘catastrophic impact’",
+    "link": "https://www.startribune.com/trump-administration-demands-states-undo-full-snap-payouts-as-states-warn-of-catastrophic-impact/601521613",
+    "source": "startribune",
+    "pubdate": "2025-11-09-17-34-06 +0000"
+  },
+  {
+    "headline": "Trump suggests $2,000 payouts to Americans as he defends tariffs",
+    "link": "https://www.wsj.com/politics/policy/trump-suggests-2-000-payouts-to-americans-as-he-defends-tariffs-c4af7ec1",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-30-00 +0000"
+  },
+  {
+    "headline": "First openly trans lawmaker admits to sickening child sex charges involving kids as young as 3",
+    "link": "https://nypost.com/2025/11/09/us-news/first-trans-lawmaker-stacie-marie-laughton-admits-to-child-sex-charges/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-17-26-11 +0000"
+  },
+  {
+    "headline": "Republicans pitch alternative to ACA extension to end government shutdown",
+    "link": "https://www.wsj.com/politics/policy/republicans-pitch-alternative-to-aca-extension-to-end-government-shutdown-3be838e3",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-24-00 +0000"
+  },
+  {
+    "headline": "After Hurricane Melissa, Solar Power Kept the Electricity on for Some Jamaicans",
+    "link": "https://www.nytimes.com/2025/11/08/climate/jamaica-hurricane-solar-power.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-15-38 +0000"
+  },
+  {
+    "headline": "Hamas Hands Over Body of Israeli Soldier Held Since 2014",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-13-17 +0000"
+  },
+  {
+    "headline": "Hamas Hands Over Body of Israeli Soldier Held Since 2014",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-13-17 +0000"
+  },
+  {
+    "headline": "Mysterious ‘Fedora Man’ believed to be French detective outside Louvre finally unmasked",
+    "link": "https://nypost.com/2025/11/09/world-news/louvres-fedora-man-idd-as-pedro-elias-garzon-delvaux/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-17-07-59 +0000"
+  },
+  {
+    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-03-42 +0000"
+  },
+  {
+    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-03-42 +0000"
+  },
+  {
+    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-17-03-42 +0000"
+  },
+  {
+    "headline": "Trailer Park Boys' Mike Smith charged with sexual assault - reports",
+    "link": "https://www.bbc.com/news/articles/cp8epv1p1j4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-17-00-23 +0000"
+  },
+  {
+    "headline": "What America’s Longest-Tenured Employees Say About Work—Then and Now",
+    "link": "https://www.wsj.com/lifestyle/workplace/long-tenure-employees-workplace-changes-2054605f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-00-00 +0000"
+  },
+  {
+    "headline": "My Mom’s Been Stashing Silver Coins. Would Record Prices Land Her a Windfall?",
+    "link": "https://www.wsj.com/finance/commodities-futures/my-moms-been-stashing-silver-coins-would-record-prices-land-her-a-windfall-ba609a29?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-09-17-00-00 +0000"
+  },
+  {
     "headline": "Pushing, yelling from Conservative leadership ‘sealed the deal’ on defection: d’Entremont",
     "link": "https://www.cbc.ca/news/politics/pushing-yelling-conservative-leadership-dentremont-9.6972680?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-09-16-52-13 +0000"
-  },
-  {
-    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-16-52-10 +0000"
-  },
-  {
-    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-16-52-10 +0000"
   },
   {
     "headline": "Baby formula recalled after it’s linked to ‘potentially fatal’ illness in 10 states",
@@ -30,12 +162,6 @@
     "pubdate": "2025-11-09-16-40-03 +0000"
   },
   {
-    "headline": "Republicans pitch alternative to ACA extension to end government shutdown",
-    "link": "https://www.wsj.com/politics/policy/republicans-pitch-alternative-to-aca-extension-to-end-government-shutdown-3be838e3",
-    "source": "wsj",
-    "pubdate": "2025-11-09-16-29-00 +0000"
-  },
-  {
     "headline": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
     "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html",
     "source": "nyt",
@@ -60,10 +186,10 @@
     "pubdate": "2025-11-09-16-14-14 +0000"
   },
   {
-    "headline": "Airport Disruptions May Get Worse This Week",
+    "headline": "Airport Disruptions May Get Worse This Week Amid Shutdown",
     "link": "https://www.nytimes.com/2025/11/09/business/airport-flights-cancellations.html",
     "source": "nyt",
-    "pubdate": "2025-11-09-16-11-35 +0000"
+    "pubdate": "2025-11-09-16-11-36 +0000"
   },
   {
     "headline": "Infant Formula Recalled Amid Botulism Investigation",
@@ -84,7 +210,7 @@
     "pubdate": "2025-11-09-15-56-32 +0000"
   },
   {
-    "headline": "Trump Administration Demands States ‘Undo’ Work to Send Full Food Stamps",
+    "headline": "Trump Officials Push States to ‘Undo’ Work to Send Full SNAP Benefits",
     "link": "https://www.nytimes.com/2025/11/09/business/trump-administration-states-undo-full-snap-food-stamps.html",
     "source": "nyt",
     "pubdate": "2025-11-09-15-45-39 +0000"
@@ -112,12 +238,6 @@
     "link": "https://nypost.com/2025/11/09/world-news/parents-issue-travel-warning-after-daughters-die-on-island-trip/",
     "source": "nypost",
     "pubdate": "2025-11-09-15-28-57 +0000"
-  },
-  {
-    "headline": "Blue Origin to Launch NASA’s ESCAPADE Mission to Mars: How to Watch",
-    "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-15-27-44 +0000"
   },
   {
     "headline": "Winter storm warning issued for Chicago as intense snowfall targets Great Lakes with up to 2 feet",
@@ -154,12 +274,6 @@
     "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-09-14-58-54 +0000"
-  },
-  {
-    "headline": "Israel receives body from Gaza after PM says soldier killed in 2014 to be returned",
-    "link": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-09-14-57-25 +0000"
   },
   {
     "headline": "President Trump promises $2,000 tariff dividend to every person in America: ‘People that are against Tariffs are FOOLS!’",
@@ -264,7 +378,7 @@
     "pubdate": "2025-11-09-13-54-49 +0000"
   },
   {
-    "headline": "Kathy Hochul orders NY to pay SNAP food stamp benefits — and deposits could come as early as today",
+    "headline": "NY starts sending out SNAP payments after being cut off over gov’t shutdown: Kathy Hochul",
     "link": "https://nypost.com/2025/11/09/us-news/hochul-orders-ny-to-pay-snap-benefits-and-deposits-could-come-as-early-as-today/",
     "source": "nypost",
     "pubdate": "2025-11-09-13-53-42 +0000"
@@ -813,13 +927,13 @@
     "headline": "Russian Bombardment Causes Large Outages in Ukraine’s Big Cities",
     "link": "https://www.nytimes.com/2025/11/08/world/europe/ukraine-russia-war-energy.html",
     "source": "nyt",
-    "pubdate": "2025-11-09-04-22-36 +0000"
+    "pubdate": "2025-11-09-04-22-37 +0000"
   },
   {
     "headline": "Russian Bombardment Causes Large Outages in Ukraine’s Big Cities",
     "link": "https://www.nytimes.com/2025/11/08/world/europe/ukraine-russia-war-energy.html",
     "source": "nyt",
-    "pubdate": "2025-11-09-04-22-36 +0000"
+    "pubdate": "2025-11-09-04-22-37 +0000"
   },
   {
     "headline": "Minneapolis teachers and school district reach tentative agreement, averting strike",
@@ -984,22 +1098,10 @@
     "pubdate": "2025-11-09-01-00-00 +0000"
   },
   {
-    "headline": "Air Force families at Florida base ordered to strip early Christmas lights from homes by ‘Grinch’ management corp",
-    "link": "https://nypost.com/2025/11/08/us-news/air-force-families-at-florida-base-ordered-to-strip-christmas-lights-from-homes/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-00-47-19 +0000"
-  },
-  {
     "headline": "Widespread power outage temporarily impacts more than 30,000 LADWP customers across L.A.",
     "link": "https://www.latimes.com/california/story/2025-11-08/power-outage-impacts-more-than-100-000-ladwp-customers-from-dtla-to",
     "source": "latimes",
     "pubdate": "2025-11-09-00-46-40 +0000"
-  },
-  {
-    "headline": "Police bust 2 drivers for topping 100 mph near Florida school zone",
-    "link": "https://nypost.com/2025/11/08/us-news/two-drivers-busted-for-topping-100-mph-near-florida-school-zone-cops/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-00-36-00 +0000"
   },
   {
     "headline": "Shots Fired at Border Patrol Agents in Chicago, Federal Officials Say",
@@ -1044,12 +1146,6 @@
     "pubdate": "2025-11-08-23-44-14 +0000"
   },
   {
-    "headline": "Minnesota restores full SNAP benefits to families in need",
-    "link": "https://www.startribune.com/minnesota-restores-full-snap-benefits-to-families-in-need/601521149",
-    "source": "startribune",
-    "pubdate": "2025-11-08-23-42-25 +0000"
-  },
-  {
     "headline": "4 dead, 13 injured after street racer slams into crowd at Tampa bar",
     "link": "https://www.bbc.com/news/articles/clyl6jwx2v8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1057,7 +1153,7 @@
   },
   {
     "headline": "Worries Increase on Second Day of Flight Cancellations",
-    "link": "https://www.nytimes.com/2025/11/08/us/worries-mount-as-air-traffic-delays-stretch-to-second-day.html",
+    "link": "https://www.nytimes.com/2025/11/08/us/trump-shutdown-air-traffic-flight-cancellations.html",
     "source": "nyt",
     "pubdate": "2025-11-08-23-17-36 +0000"
   },
@@ -1131,13 +1227,13 @@
     "headline": "Gavin Newsom, Eyeing 2028, Tries to Mess With Texas",
     "link": "https://www.nytimes.com/2025/11/08/us/politics/newsom-2028-texas-rally-abbott-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-22-24-59 +0000"
+    "pubdate": "2025-11-08-22-25-00 +0000"
   },
   {
     "headline": "Gavin Newsom, Eyeing 2028, Tries to Mess With Texas",
     "link": "https://www.nytimes.com/2025/11/08/us/politics/newsom-2028-texas-rally-abbott-trump.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-22-24-59 +0000"
+    "pubdate": "2025-11-08-22-25-00 +0000"
   },
   {
     "headline": "Thousands take to Lisbon streets over proposed labour laws",
@@ -1260,10 +1356,22 @@
     "pubdate": "2025-11-08-19-05-46 +0000"
   },
   {
+    "headline": "Refuse Fascism launches sustained peaceful resistance movement in DC",
+    "link": "https://48hills.org/2025/11/refuse-fascism-launches-sustained-peaceful-resistance-movement-in-dc/",
+    "source": "48hills",
+    "pubdate": "2025-11-08-19-00-58 +0000"
+  },
+  {
     "headline": "Black South Carolina Residents Say Re-Routed Penn Center Parade Feels Like Erasure",
     "link": "https://www.nytimes.com/2025/11/08/us/penn-center-parade-south-carolina-gullah-geechee.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-18-47-44 +0000"
+    "pubdate": "2025-11-08-18-47-45 +0000"
+  },
+  {
+    "headline": "Live Shots: A glamorous trip back to the 1930s with Alex Mendham and his Orchestra",
+    "link": "https://48hills.org/2025/11/live-shots-alex-mendham-and-his-orchestra-peacock-ballroom-art-deco-series-music/",
+    "source": "48hills",
+    "pubdate": "2025-11-08-18-33-44 +0000"
   },
   {
     "headline": "Man Dies After Slipping and Falling in Grand Canyon West",
@@ -1668,14 +1776,14 @@
     "pubdate": "2025-11-08-11-00-00 +0000"
   },
   {
-    "headline": "Trump administration presses Western states to find consensus on shrinking Colorado River",
-    "link": "https://www.latimes.com/environment/story/2025-11-08/colorado-river-talks-november-deadline",
+    "headline": "How Dodgers fans turned a series win into $30,000 for the Blue Jays' hometown children's hospital",
+    "link": "https://www.latimes.com/california/story/2025-11-08/how-dodgers-fans-turned-a-rivalry-into-30-000-for-a-blue-jays-hometown-childrens-hospital",
     "source": "latimes",
     "pubdate": "2025-11-08-11-00-00 +0000"
   },
   {
-    "headline": "How Dodgers fans turned a series win into $30,000 for the Blue Jays' hometown children's hospital",
-    "link": "https://www.latimes.com/california/story/2025-11-08/how-dodgers-fans-turned-a-rivalry-into-30-000-for-a-blue-jays-hometown-childrens-hospital",
+    "headline": "Trump administration presses Western states to find consensus on shrinking Colorado River",
+    "link": "https://www.latimes.com/environment/story/2025-11-08/colorado-river-talks-november-deadline",
     "source": "latimes",
     "pubdate": "2025-11-08-11-00-00 +0000"
   },
@@ -1809,7 +1917,7 @@
     "headline": "Fox News Wanted Greg Gutfeld to Do This Interview. He Wasn’t So Sure.",
     "link": "https://www.nytimes.com/2025/11/08/magazine/greg-gutfeld-interview.html",
     "source": "nyt",
-    "pubdate": "2025-11-08-10-15-05 +0000"
+    "pubdate": "2025-11-08-10-15-06 +0000"
   },
   {
     "headline": "Who Can Collect Food Stamps? Fact-Checking Claims About SNAP Eligibility and Spending.",
@@ -1852,12 +1960,6 @@
     "link": "https://www.nytimes.com/2025/11/08/us/seattle-police-arrest-tanya-frazier-murder.html",
     "source": "nyt",
     "pubdate": "2025-11-08-10-02-00 +0000"
-  },
-  {
-    "headline": "After Hurricane Melissa, Solar Power Kept the Electricity on for Some Jamaicans",
-    "link": "https://www.nytimes.com/2025/11/08/climate/jamaica-hurricane-solar-power.html",
-    "source": "nyt",
-    "pubdate": "2025-11-08-10-01-44 +0000"
   },
   {
     "headline": "Saudi Ex-Intelligence Official Seeks American Help Spilling U.S. Secrets",
@@ -2413,12 +2515,6 @@
   },
   {
     "headline": "Opinion | Ford’s Electric Pickup Is an EV Casualty",
-    "link": "https://www.wsj.com/opinion/fords-electric-pickup-is-an-ev-casualty-a23ea57e",
-    "source": "wsj",
-    "pubdate": "2025-11-07-22-18-00 +0000"
-  },
-  {
-    "headline": "Opinion | Ford’s Electric Pickup Is an EV Casualty",
     "link": "https://www.wsj.com/opinion/fords-electric-pickup-is-an-ev-casualty-a23ea57e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-07-22-18-00 +0000"
@@ -2532,22 +2628,10 @@
     "pubdate": "2025-11-07-21-35-32 +0000"
   },
   {
-    "headline": "Opinion | Campus DEI Persists, Even in Texas",
-    "link": "https://www.wsj.com/opinion/campus-dei-persists-even-in-texas-12748f45",
-    "source": "wsj",
-    "pubdate": "2025-11-07-21-24-00 +0000"
-  },
-  {
     "headline": "Roblox sued for enabling ‘sick and twisted freaks’ to sexually exploit kids on wildly popular platform",
     "link": "https://nypost.com/2025/11/07/business/texas-ag-accuses-roblox-of-enabling-pedophiles-digital-playground-for-predators/",
     "source": "nypost",
     "pubdate": "2025-11-07-21-16-14 +0000"
-  },
-  {
-    "headline": "Opinion | The ‘Human Right’ to Smoke in Prison",
-    "link": "https://www.wsj.com/opinion/the-human-right-to-smoke-in-prison-38f0f9ee",
-    "source": "wsj",
-    "pubdate": "2025-11-07-21-12-00 +0000"
   },
   {
     "headline": "Opinion | The ‘Human Right’ to Smoke in Prison",
@@ -2608,6 +2692,12 @@
     "link": "https://www.latimes.com/science/story/2025-11-07/department-of-public-health-tells-la-stores-to-immediately-stop-selling-kratom-and-7-oh-products",
     "source": "latimes",
     "pubdate": "2025-11-07-20-40-11 +0000"
+  },
+  {
+    "headline": "Win a pair of tickets to see Infinity Song, Cut Copy, Thundercat, Jesse McCartney",
+    "link": "https://48hills.org/2025/11/win-a-pair-of-tickets-to-see-infinity-song-cut-copy-thundercat-jesse-mccartney/",
+    "source": "48hills",
+    "pubdate": "2025-11-07-20-33-12 +0000"
   },
   {
     "headline": "Natural U.S. Gas Futures Extend Rally to Three Weeks",
@@ -2686,12 +2776,6 @@
     "link": "https://www.wsj.com/articles/brookfield-sees-strong-fundraising-ahead-on-heels-of-banking-30-billion-370f3288?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-07-20-04-00 +0000"
-  },
-  {
-    "headline": "Polish woman who claimed to be Madeleine McCann convicted of harassing missing UK girl’s parents",
-    "link": "https://nypost.com/2025/11/07/world-news/polish-woman-who-claimed-to-be-madeleine-mccann-convicted-of-harassing-missing-uk-girls-parents/",
-    "source": "nypost",
-    "pubdate": "2025-11-07-19-55-46 +0000"
   },
   {
     "headline": "Ukraine soldiers now earn points for confirmed kills, prompting fears of a gamified war",
@@ -2874,12 +2958,6 @@
     "pubdate": "2025-11-07-18-21-26 +0000"
   },
   {
-    "headline": "Watch: 'Devastating' - Airline travellers react to flight reductions",
-    "link": "https://www.bbc.com/news/videos/cy8v1924669o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-07-18-17-44 +0000"
-  },
-  {
     "headline": "Judges are getting fed up with Trump officials trying cases on social media, cable news",
     "link": "https://www.cbc.ca/news/world/us-trump-administration-judges-9.6970610?cmp=rss",
     "source": "cbc",
@@ -2908,6 +2986,12 @@
     "link": "https://www.latimes.com/california/story/2025-11-07/uc-seeks-130-million-loan",
     "source": "latimes",
     "pubdate": "2025-11-07-18-00-00 +0000"
+  },
+  {
+    "headline": "A communal nexus where young dancers could connect—and possibilities ignite",
+    "link": "https://48hills.org/2025/11/communal-nexus-young-dancers-connect-tether-ignite-pearl-street-flux-form/",
+    "source": "48hills",
+    "pubdate": "2025-11-07-17-37-43 +0000"
   },
   {
     "headline": "U.S. Wants Security Council to Adopt Trump Plan for Gaza",
@@ -3378,14 +3462,14 @@
     "pubdate": "2025-11-07-11-03-00 +0000"
   },
   {
-    "headline": "A shadowy L.A. crime ring is hijacking the IDs of foreign scholars, fraud expert says",
-    "link": "https://www.latimes.com/california/story/2025-11-07/former-international-scholars-become-prime-prey-for-l-a-identity-theft-ring",
+    "headline": "Housing Tracker: Southern California home values dip in September",
+    "link": "https://www.latimes.com/california/story/2025-11-07/housing-tracker-southern-california-home-values-dip-in-september",
     "source": "latimes",
     "pubdate": "2025-11-07-11-00-00 +0000"
   },
   {
-    "headline": "Housing Tracker: Southern California home values dip in September",
-    "link": "https://www.latimes.com/california/story/2025-11-07/housing-tracker-southern-california-home-values-dip-in-september",
+    "headline": "A shadowy L.A. crime ring is hijacking the IDs of foreign scholars, fraud expert says",
+    "link": "https://www.latimes.com/california/story/2025-11-07/former-international-scholars-become-prime-prey-for-l-a-identity-theft-ring",
     "source": "latimes",
     "pubdate": "2025-11-07-11-00-00 +0000"
   },
@@ -3684,6 +3768,12 @@
     "pubdate": "2025-11-07-04-58-28 +0000"
   },
   {
+    "headline": "‘Data Trust’ envisions a technology of equity",
+    "link": "https://48hills.org/2025/11/data-trust-envisions-a-technology-of-equity/",
+    "source": "48hills",
+    "pubdate": "2025-11-07-04-37-52 +0000"
+  },
+  {
     "headline": "California D.A. retweets 9/11 attack images as he slams Mamdani",
     "link": "https://www.latimes.com/california/story/2025-11-06/california-district-attorney-uses-9-11-images-to-blast-mamdani",
     "source": "latimes",
@@ -3906,6 +3996,12 @@
     "pubdate": "2025-11-07-01-28-00 +0000"
   },
   {
+    "headline": "The death of a Lucky, and the rise (again) of a food desert in Bayview Hunters Point",
+    "link": "https://48hills.org/2025/11/the-death-of-luckys-and-the-rise-again-of-a-food-desert-in-bayview-hunters-point/",
+    "source": "48hills",
+    "pubdate": "2025-11-07-01-19-06 +0000"
+  },
+  {
     "headline": "Small-town India to cricket World champions: The women who made history",
     "link": "https://www.bbc.com/news/articles/cr7mj287vkxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3958,12 +4054,6 @@
     "link": "https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-07-00-30-58 +0000"
-  },
-  {
-    "headline": "Boiler Tower at Power Plant in South Korea Collapses",
-    "link": "https://www.nytimes.com/2025/11/06/world/asia/korea-boiler-tower-collapse.html",
-    "source": "nyt",
-    "pubdate": "2025-11-07-00-27-27 +0000"
   },
   {
     "headline": "Boiler Tower at Power Plant in South Korea Collapses",
@@ -4102,12 +4192,6 @@
     "link": "https://www.nytimes.com/2025/11/06/business/holiday-consumer-spending-2025.html",
     "source": "nyt",
     "pubdate": "2025-11-06-21-57-02 +0000"
-  },
-  {
-    "headline": "Nasdaq Falls as Worries Mount on Jobs and AI Valuations",
-    "link": "https://www.wsj.com/finance/stocks/nasdaq-falls-as-worries-mount-on-jobs-and-ai-valuations-fef9787a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-06-21-54-00 +0000"
   },
   {
     "headline": "What Trump’s New Drug Pricing Deal Means for People With Obesity",
@@ -4458,16 +4542,16 @@
     "pubdate": "2025-11-06-17-29-00 +0000"
   },
   {
+    "headline": "BIG WEEK: Street Food Fest, Hip-Hop Dance Fest, Electronic Music Fest, Flamin’ Groovies…",
+    "link": "https://48hills.org/2025/11/big-week-street-food-fest-hip-hop-dance-fest-electronic-music-fest-flamin-groovies/",
+    "source": "48hills",
+    "pubdate": "2025-11-06-17-26-05 +0000"
+  },
+  {
     "headline": "Bloomin’ Brands Going Back to Basics at Outback Steakhouse",
     "link": "https://www.wsj.com/business/retail/bloomin-brands-implements-turnaround-strategy-amid-quarterly-loss-342e8e90?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-06-17-25-00 +0000"
-  },
-  {
-    "headline": "U.S. to Reduce Flight Traffic by 10% at 40 Airports Because of Shutdown",
-    "link": "https://www.wsj.com/business/airlines/u-s-to-reduce-flight-traffic-by-10-in-40-markets-due-to-shutdown-2ce4fc4f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-06-17-02-00 +0000"
   },
   {
     "headline": "Israel to Begin Drawing Down Reservist Forces Exhausted by Two Years of War",
@@ -4728,6 +4812,12 @@
     "pubdate": "2025-11-06-11-02-00 +0000"
   },
   {
+    "headline": "California city tried to stamp out 10-year-old's beehive project. Saving the bees was a lesson in love",
+    "link": "https://www.latimes.com/california/story/2025-11-06/santa-rosa-beehive-project-fight",
+    "source": "latimes",
+    "pubdate": "2025-11-06-11-00-00 +0000"
+  },
+  {
     "headline": "Meet the McOskers: How one South Bay family wields power at City Hall",
     "link": "https://www.latimes.com/california/story/2025-11-06/meet-the-mcoskers-how-one-south-bay-family-wields-power-at-city-hall",
     "source": "latimes",
@@ -4736,12 +4826,6 @@
   {
     "headline": "As rain pounds parts of California, the year's closest supermoon spurs king tides, coastal risks",
     "link": "https://www.latimes.com/california/story/2025-11-06/atmospheric-storm-batters-northern-california-leading-to-authorization-of-emergency-personnel",
-    "source": "latimes",
-    "pubdate": "2025-11-06-11-00-00 +0000"
-  },
-  {
-    "headline": "California city tried to stamp out 10-year-old's beehive project. Saving the bees was a lesson in love",
-    "link": "https://www.latimes.com/california/story/2025-11-06/santa-rosa-beehive-project-fight",
     "source": "latimes",
     "pubdate": "2025-11-06-11-00-00 +0000"
   },
@@ -4758,14 +4842,14 @@
     "pubdate": "2025-11-06-11-00-00 +0000"
   },
   {
-    "headline": "California backs down on AI laws so more tech leaders don't flee the state",
-    "link": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions",
+    "headline": "Edison blacked out a record number of customers to stop fires. Now regulators have warned the utility",
+    "link": "https://www.latimes.com/environment/story/2025-11-06/edison-blacks-out-more-customers-to-stop-utility-sparked-fires",
     "source": "latimes",
     "pubdate": "2025-11-06-11-00-00 +0000"
   },
   {
-    "headline": "Edison blacked out a record number of customers to stop fires. Now regulators have warned the utility",
-    "link": "https://www.latimes.com/environment/story/2025-11-06/edison-blacks-out-more-customers-to-stop-utility-sparked-fires",
+    "headline": "California backs down on AI laws so more tech leaders don't flee the state",
+    "link": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions",
     "source": "latimes",
     "pubdate": "2025-11-06-11-00-00 +0000"
   },
@@ -4858,12 +4942,6 @@
     "link": "https://www.nytimes.com/2025/11/06/climate/what-is-cop30-belem.html",
     "source": "nyt",
     "pubdate": "2025-11-06-10-01-55 +0000"
-  },
-  {
-    "headline": "Miss Universe Organizer Apologizes After Tirade at Miss Mexico",
-    "link": "https://www.nytimes.com/2025/11/06/world/asia/miss-universe-walkout-mexico-thailand.html",
-    "source": "nyt",
-    "pubdate": "2025-11-06-09-56-52 +0000"
   },
   {
     "headline": "Miss Universe Organizer Apologizes After Tirade at Miss Mexico",
@@ -4986,16 +5064,16 @@
     "pubdate": "2025-11-06-02-00-00 +0000"
   },
   {
-    "headline": "Economic discontent helped deliver election wins to Democrats in the New York City mayor’s race and in the governor’s races in New Jersey and Virginia",
-    "link": "https://www.wsj.com/politics/elections/economic-anger-once-again-punishes-the-party-in-power-71d14d18",
-    "source": "wsj",
-    "pubdate": "2025-11-06-02-00-00 +0000"
-  },
-  {
     "headline": "Democrats Raise Concerns After Trump Officials Give Boat Strikes Briefing",
     "link": "https://www.nytimes.com/2025/11/05/us/politics/trump-drug-boat-strikes-democrats.html",
     "source": "nyt",
     "pubdate": "2025-11-06-01-50-19 +0000"
+  },
+  {
+    "headline": "‘Let’s bring some of those vittles back to the table:’ What the Nov. 4 election means",
+    "link": "https://48hills.org/2025/11/lets-bring-some-of-those-vittles-back-to-the-table-what-the-nov-4-election-means/",
+    "source": "48hills",
+    "pubdate": "2025-11-06-01-46-46 +0000"
   },
   {
     "headline": "U.K.’s ICG Group Nears Deal to Sell Singapore Private-Education Institution",
@@ -5032,6 +5110,12 @@
     "link": "https://www.bbc.com/news/videos/c803je1dmkmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-06-00-27-42 +0000"
+  },
+  {
+    "headline": "Under the Stars: A sip of Magic Fig’s ‘Valerian Tea’",
+    "link": "https://48hills.org/2025/11/under-the-stars-a-sip-of-magic-figs-valerian-tea/",
+    "source": "48hills",
+    "pubdate": "2025-11-06-00-18-50 +0000"
   },
   {
     "headline": "Remains of the Last American Hostage Held in Gaza Returned to Israel",
@@ -5316,6 +5400,12 @@
     "pubdate": "2025-11-05-17-01-40 +0000"
   },
   {
+    "headline": "Drama Masks: Could the tide be turning?",
+    "link": "https://48hills.org/2025/11/drama-masks-could-the-tide-be-turning/",
+    "source": "48hills",
+    "pubdate": "2025-11-05-17-00-24 +0000"
+  },
+  {
     "headline": "4 takeaways after Proposition 50's big win in California",
     "link": "https://www.latimes.com/california/story/2025-11-05/4-takeaways-after-proposition-50s-big-win-in-california",
     "source": "latimes",
@@ -5472,14 +5562,14 @@
     "pubdate": "2025-11-05-11-00-00 +0000"
   },
   {
-    "headline": "What went into the epic ship sinking scene from 'Titanic' and other tales from producer Jon Landau",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-05/four-takeaways-from-jon-landaus-posthumous-memoir",
+    "headline": "Lawsuit accuses Hyundai, Irvine air taxi startup of gender discrimination and retaliation",
+    "link": "https://www.latimes.com/business/story/2025-11-05/hyundai-accused-gender-discrimination-california-lawsuit",
     "source": "latimes",
     "pubdate": "2025-11-05-11-00-00 +0000"
   },
   {
-    "headline": "Lawsuit accuses Hyundai, Irvine air taxi startup of gender discrimination and retaliation",
-    "link": "https://www.latimes.com/business/story/2025-11-05/hyundai-accused-gender-discrimination-california-lawsuit",
+    "headline": "What went into the epic ship sinking scene from 'Titanic' and other tales from producer Jon Landau",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-05/four-takeaways-from-jon-landaus-posthumous-memoir",
     "source": "latimes",
     "pubdate": "2025-11-05-11-00-00 +0000"
   },
@@ -5916,20 +6006,8 @@
     "pubdate": "2025-11-04-11-08-57 +0000"
   },
   {
-    "headline": "Airport delays worsen in Southern California, with growing fears of holiday travel meltdown",
-    "link": "https://www.latimes.com/california/story/2025-11-04/airport-delays-worsen-in-southern-california-as-government-shutdown-drags-on",
-    "source": "latimes",
-    "pubdate": "2025-11-04-11-00-00 +0000"
-  },
-  {
     "headline": "Chabria: MAGA's 'big tent' is burning down amid explosion of antisemitism, racism",
     "link": "https://www.latimes.com/california/story/2025-11-04/chabria-column-maga-jd-vance-tucker-carlson-nick-fuentes",
-    "source": "latimes",
-    "pubdate": "2025-11-04-11-00-00 +0000"
-  },
-  {
-    "headline": "State Supreme Court deals defeat to UC over policy barring undocumented students from campus jobs",
-    "link": "https://www.latimes.com/california/story/2025-11-04/uc-bans-hiring-undocumented-students-state-supreme-court-refuses-to-review-case",
     "source": "latimes",
     "pubdate": "2025-11-04-11-00-00 +0000"
   },
@@ -5940,14 +6018,26 @@
     "pubdate": "2025-11-04-11-00-00 +0000"
   },
   {
-    "headline": "California voters pass anti-Trump, pro-Democrat Prop. 50",
-    "link": "https://www.latimes.com/california/story/2025-11-04/proposition-50-election-day",
+    "headline": "Airport delays worsen in Southern California, with growing fears of holiday travel meltdown",
+    "link": "https://www.latimes.com/california/story/2025-11-04/airport-delays-worsen-in-southern-california-as-government-shutdown-drags-on",
+    "source": "latimes",
+    "pubdate": "2025-11-04-11-00-00 +0000"
+  },
+  {
+    "headline": "State Supreme Court deals defeat to UC over policy barring undocumented students from campus jobs",
+    "link": "https://www.latimes.com/california/story/2025-11-04/uc-bans-hiring-undocumented-students-state-supreme-court-refuses-to-review-case",
     "source": "latimes",
     "pubdate": "2025-11-04-11-00-00 +0000"
   },
   {
     "headline": "Gavin Newsom's gamble on Prop. 50 may be his most calculated yet",
     "link": "https://www.latimes.com/california/story/2025-11-04/gavin-newsom-redistricting-gamble",
+    "source": "latimes",
+    "pubdate": "2025-11-04-11-00-00 +0000"
+  },
+  {
+    "headline": "California voters pass anti-Trump, pro-Democrat Prop. 50",
+    "link": "https://www.latimes.com/california/story/2025-11-04/proposition-50-election-day",
     "source": "latimes",
     "pubdate": "2025-11-04-11-00-00 +0000"
   },
@@ -6102,12 +6192,6 @@
     "pubdate": "2025-11-03-21-53-49 +0000"
   },
   {
-    "headline": "Photos show enduring legacy of Mission’s Día de Muertos procession",
-    "link": "https://eltecolote.org/content/en/dia-de-muertos-sf-mission-procession-2025/",
-    "source": "eltecolote",
-    "pubdate": "2025-11-03-20-50-19 +0000"
-  },
-  {
     "headline": "Photos: World Series champion Dodgers parade through Downtown L.A.",
     "link": "https://www.latimes.com/sports/dodgers/story/2025-11-03/photos-world-series-champion-dodgers-parade-through-downtown-la",
     "source": "latimes",
@@ -6252,12 +6336,6 @@
     "pubdate": "2025-11-03-11-55-09 +0000"
   },
   {
-    "headline": "She helped get her violent husband deported. Then ICE deported her — straight into his arms.",
-    "link": "https://www.latimes.com/california/story/2025-11-03/immigrant-crime-victims",
-    "source": "latimes",
-    "pubdate": "2025-11-03-11-00-00 +0000"
-  },
-  {
     "headline": "How Zone Zero, designed to protect California homes from wildfire, became plagued with controversy and delays",
     "link": "https://www.latimes.com/environment/story/2025-11-03/how-zone-zero-became-plagued-with-controversy-and-delays",
     "source": "latimes",
@@ -6266,6 +6344,12 @@
   {
     "headline": "Beating the election day rush: Here's how to vote today in California",
     "link": "https://www.latimes.com/california/story/2025-11-03/vote-at-the-polls-a-day-before-election-day-heres-how-to-do-it",
+    "source": "latimes",
+    "pubdate": "2025-11-03-11-00-00 +0000"
+  },
+  {
+    "headline": "She helped get her violent husband deported. Then ICE deported her — straight into his arms.",
+    "link": "https://www.latimes.com/california/story/2025-11-03/immigrant-crime-victims",
     "source": "latimes",
     "pubdate": "2025-11-03-11-00-00 +0000"
   },
