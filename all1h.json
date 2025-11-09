@@ -1,152 +1,146 @@
 [
   {
-    "headline": "Blue Origin to Launch NASA’s ESCAPADE Mission to Mars: Watch Live",
+    "headline": "Opinion | Trump’s Tariff Rebate Contradictions",
+    "link": "https://www.wsj.com/opinion/trumps-tariff-rebate-contradictions-dbaf002c",
+    "source": "wsj",
+    "pubdate": "2025-11-09-21-51-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Rastafarian and Religious Liberty at the Supreme Court",
+    "link": "https://www.wsj.com/opinion/the-rastafarian-and-religious-liberty-damon-landor-supreme-court-32661ee1",
+    "source": "wsj",
+    "pubdate": "2025-11-09-21-50-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Education of the Heritage Foundation’s Kevin Roberts",
+    "link": "https://www.wsj.com/opinion/kevin-roberts-heritage-foundation-tucker-carlson-nick-fuentes-antisemitism-dc2cdd2b",
+    "source": "wsj",
+    "pubdate": "2025-11-09-21-49-00 +0000"
+  },
+  {
+    "headline": "Dem rival blasts Rep. Ritchie Torres’ pro-Israel stance — after deleting his own gushing posts",
+    "link": "https://nypost.com/2025/11/09/us-news/michael-blake-blasts-rep-ritchie-torres-pro-israel-stance-after-deleting-gushing-posts/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-21-42-35 +0000"
+  },
+  {
+    "headline": "Dem rival blasts Rep. Ritchie Torres’ pro-Israel stance — after deleting his own gushing posts",
+    "link": "https://nypost.com/2025/11/09/us-news/michael-blake-blasts-rep-ritchie-torres-pro-israel-stance-after-deleting-gushing-posts/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-21-42-35 +0000"
+  },
+  {
+    "headline": "Federal Judge, Warning of ‘Existential Threat’ to Democracy, Resigns",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/mark-wolf-federal-judge-resigns.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-21-39-45 +0000"
+  },
+  {
+    "headline": "Federal Judge, Warning of ‘Existential Threat’ to Democracy, Resigns",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/mark-wolf-federal-judge-resigns.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-21-39-45 +0000"
+  },
+  {
+    "headline": "Takeaways: Sloppy Vikings stagger to 27-19 home loss to the Ravens",
+    "link": "https://www.startribune.com/minnesota-vikings-baltimore-ravens-27-19-jj-mccarthy-takeaways/601517067",
+    "source": "startribune",
+    "pubdate": "2025-11-09-21-38-40 +0000"
+  },
+  {
+    "headline": "Iran faces unprecedented drought as water crisis hits Tehran",
+    "link": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-21-38-26 +0000"
+  },
+  {
+    "headline": "Iran faces unprecedented drought as water crisis hits Tehran",
+    "link": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-21-38-26 +0000"
+  },
+  {
+    "headline": "AI giant Anthropic’s ties to cult-like Effective Altruism movement, Democrat megadonors are on Trump admin’s ‘radar’",
+    "link": "https://nypost.com/2025/11/09/business/ai-giant-anthropics-ties-to-cult-like-effective-altruism-democrat-megadonors-on-trump-admins-radar/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-21-35-37 +0000"
+  },
+  {
+    "headline": "Screen Grabs: Silent Film Fest proffers ‘Gold Rush’ of gems in new location",
+    "link": "https://48hills.org/2025/11/screen-grabs-silent-film-fest-proffers-gold-rush-of-gems-in-new-location/",
+    "source": "48hills",
+    "pubdate": "2025-11-09-21-31-01 +0000"
+  },
+  {
+    "headline": "Hacksaw-wielding NYC man chops down city trees to improve his million-dollar view — and others are joining",
+    "link": "https://nypost.com/2025/11/09/us-news/nyc-man-chops-down-city-trees-to-improve-his-view-activists/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-21-30-19 +0000"
+  },
+  {
+    "headline": "Half a million young Californians aren't in school or work. Most are men",
+    "link": "https://www.latimes.com/california/story/2025-11-09/half-a-million-young-californians-arent-in-school-or-work-most-are-men",
+    "source": "latimes",
+    "pubdate": "2025-11-09-21-24-41 +0000"
+  },
+  {
+    "headline": "Michelle Obama Criticizes Trump’s East Wing Demolition",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/michelle-obama-east-wing.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-21-21-56 +0000"
+  },
+  {
+    "headline": "Michelle Obama Criticizes Trump’s East Wing Demolition",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/michelle-obama-east-wing.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-21-21-56 +0000"
+  },
+  {
+    "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
+    "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-21-19-33 +0000"
+  },
+  {
+    "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
+    "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-09-21-19-33 +0000"
+  },
+  {
+    "headline": "Blue Origin Scrubs Launch of NASA’s ESCAPADE Mission to Mars",
     "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
     "source": "nyt",
-    "pubdate": "2025-11-09-20-46-56 +0000"
+    "pubdate": "2025-11-09-21-17-58 +0000"
   },
   {
-    "headline": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
-    "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
+    "headline": "Va. Gov.-elect Abigail Spanberger warns Dems not to prolong record-breaking shutdown",
+    "link": "https://nypost.com/2025/11/09/us-news/abigail-spanberger-urges-dems-not-to-prolong-shutdown-while-ex-roommate-mikie-sherrill-says-keep-up-that-fight/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-21-09-03 +0000"
+  },
+  {
+    "headline": "Va. Gov.-elect Abigail Spanberger warns Dems not to prolong record-breaking shutdown",
+    "link": "https://nypost.com/2025/11/09/us-news/abigail-spanberger-urges-dems-not-to-prolong-shutdown-while-ex-roommate-mikie-sherrill-says-keep-up-that-fight/",
+    "source": "nypost",
+    "pubdate": "2025-11-09-21-09-03 +0000"
+  },
+  {
+    "headline": "Nandy apologises for breaking rules on football regulator appointment",
+    "link": "https://www.bbc.com/news/articles/cqjwp0rq7d7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-09-20-44-39 +0000"
+    "pubdate": "2025-11-09-21-08-40 +0000"
   },
   {
-    "headline": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
-    "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-09-20-44-39 +0000"
+    "headline": "Tackling Climate Change Without the U.S.",
+    "link": "https://www.nytimes.com/2025/11/09/world/climate-change-un-philippines-typhoon-bbc.html",
+    "source": "nyt",
+    "pubdate": "2025-11-09-21-08-10 +0000"
   },
   {
-    "headline": "BBC Director General and News Chief Resign After Criticism of Editorial Practices",
-    "link": "https://www.wsj.com/business/media/bbc-director-general-and-news-chief-resign-after-criticism-of-editorial-practices-13c26ba6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-09-20-35-00 +0000"
-  },
-  {
-    "headline": "Live: Vikings trail the Ravens 27-13 in the fourth quarter at U.S. Bank Stadium",
-    "link": "https://www.startribune.com/minnesota-vikings-baltimore-ravens-lamar-jackson-jj-mccarthy-live-updates/601517066",
-    "source": "startribune",
-    "pubdate": "2025-11-09-20-34-06 +0000"
-  },
-  {
-    "headline": "Firefighters free person stuck under E Line train",
-    "link": "https://www.latimes.com/california/story/2025-11-09/firefighters-free-person-stuck-under-e-line-train",
-    "source": "latimes",
-    "pubdate": "2025-11-09-20-27-13 +0000"
-  },
-  {
-    "headline": "Opinion | Half a Century of Antisemitism at the U.N.",
-    "link": "https://www.wsj.com/opinion/half-a-century-of-antisemitism-at-the-u-n-a1675ae0",
-    "source": "wsj",
-    "pubdate": "2025-11-09-20-26-00 +0000"
-  },
-  {
-    "headline": "Opinion | How to Thwart Climate Torts",
-    "link": "https://www.wsj.com/opinion/how-to-thwart-climate-torts-litigation-suits-congress-courts-569bad23",
-    "source": "wsj",
-    "pubdate": "2025-11-09-20-21-00 +0000"
-  },
-  {
-    "headline": "Woman born with no brain turns 20 in medical ‘miracle’ — told she’d never make it to 5",
-    "link": "https://nypost.com/2025/11/09/us-news/woman-born-with-no-brain-turns-20-in-medical-miracle/",
+    "headline": "Teen boater bro busted for trashing amusement park from ‘Big’ with boneheaded pals: cops",
+    "link": "https://nypost.com/2025/11/09/us-news/teen-boater-bro-busted-for-trashing-amusement-park-from-big-with-boneheaded-pals-cops/",
     "source": "nypost",
-    "pubdate": "2025-11-09-20-17-55 +0000"
-  },
-  {
-    "headline": "Boca Raton aiming to lure more Wall Street companies after Mamdani win with $15M ‘Supercar Showcase’",
-    "link": "https://nypost.com/2025/11/09/business/boca-raton-aiming-to-lure-more-wall-street-companies/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-20-17-28 +0000"
-  },
-  {
-    "headline": "Inside charred apt. in NYC building where FDNY firefighter Patrick Brady fatally collapsed",
-    "link": "https://nypost.com/2025/11/09/us-news/inside-charred-apt-in-nyc-building-where-fdny-firefighter-patrick-brady-fatally-collapsed/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-20-16-51 +0000"
-  },
-  {
-    "headline": "BBC’s top leaders resign over Trump speech editing controversy",
-    "link": "https://www.washingtonpost.com/business/2025/11/09/bbc-davie-turness-trump-speech/",
-    "source": "wapo",
-    "pubdate": "2025-11-09-20-14-46 +0000"
-  },
-  {
-    "headline": "Super Typhoon Fung-wong Hits Philippines Days After Last Storm",
-    "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-20-13-01 +0000"
-  },
-  {
-    "headline": "Super Typhoon Fung-wong Hits Philippines Days After Last Storm",
-    "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-20-13-01 +0000"
-  },
-  {
-    "headline": "MSP flight cancellations climb through Sunday as government shutdown drags on",
-    "link": "https://www.startribune.com/msp-flight-cancellations-grow-as-government-shutdown-continues/601521061",
-    "source": "startribune",
-    "pubdate": "2025-11-09-20-11-02 +0000"
-  },
-  {
-    "headline": "Republicans pitch alternative to ACA extension to end government shutdown",
-    "link": "https://www.wsj.com/politics/policy/republicans-pitch-alternative-to-aca-extension-to-end-government-shutdown-3be838e3",
-    "source": "wsj",
-    "pubdate": "2025-11-09-20-09-00 +0000"
-  },
-  {
-    "headline": "Trump Officials Push States to ‘Undo’ Work to Send Full SNAP Benefits",
-    "link": "https://www.nytimes.com/2025/11/09/business/trump-administration-states-undo-full-snap-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-20-08-30 +0000"
-  },
-  {
-    "headline": "White House Discussed Naming New Washington Commanders Stadium After Trump",
-    "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-washington-commanders.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-20-08-26 +0000"
-  },
-  {
-    "headline": "White House Discussed Naming New Washington Commanders Stadium After Trump",
-    "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-washington-commanders.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-20-08-26 +0000"
-  },
-  {
-    "headline": "Flyers face fresh travel hell as government shutdown delays worsen — and 2 NYC airports are hardest hit",
-    "link": "https://nypost.com/2025/11/09/us-news/flyers-face-fresh-travel-hell-as-government-shutdown-delays-worsen-and-2-nyc-airports-are-hardest-hit/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-20-04-25 +0000"
-  },
-  {
-    "headline": "BBC Director Tim Davie and CEO Deborah Turness Quit Following Trump Documentary Turmoil",
-    "link": "https://www.nytimes.com/2025/11/09/world/europe/bbc-resignations.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-20-01-03 +0000"
-  },
-  {
-    "headline": "BBC Director Tim Davie and CEO Deborah Turness Quit Following Trump Documentary Turmoil",
-    "link": "https://www.nytimes.com/2025/11/09/world/europe/bbc-resignations.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-20-01-03 +0000"
-  },
-  {
-    "headline": "SL Green’s 1185 Sixth Ave. more than 90% leased",
-    "link": "https://nypost.com/2025/11/09/business/sl-greens-1185-sixth-ave-more-than-90-leased/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-19-59-08 +0000"
-  },
-  {
-    "headline": "Trump administration tells states to stop paying full food aid benefits",
-    "link": "https://www.bbc.com/news/articles/cly9pggxydeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-09-19-59-01 +0000"
-  },
-  {
-    "headline": "Trump administration demands states 'undo' full SNAP payouts as states warn of 'catastrophic impact'",
-    "link": "https://www.startribune.com/trump-administration-demands-states-undo-full-snap-payouts-as-states-warn-of-catastrophic-impact/601521613",
-    "source": "startribune",
-    "pubdate": "2025-11-09-19-59-01 +0000"
+    "pubdate": "2025-11-09-21-07-34 +0000"
   }
 ]
