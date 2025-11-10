@@ -1,72 +1,72 @@
 [
   {
-    "score": 116,
+    "score": 133,
     "pubdate": "2025-11-10-05-02-42 +0000",
     "source": "nyt",
     "headline": "Trump Renews Attacks on Obamacare in New Push Over Government Shutdown",
     "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-shutdown-obamacare.html"
   },
   {
-    "score": 65,
-    "pubdate": "2025-11-09-14-46-42 +0000",
-    "source": "bbc",
-    "headline": "BBC on Luzon Island as super typhoon hits Philippines",
-    "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 58,
+    "score": 61,
     "pubdate": "2025-11-10-03-50-23 +0000",
     "source": "nypost",
-    "headline": "Senate advances deal to reopen gov’t, fully restore SNAP benefits after Dems cave",
+    "headline": "Senate advances deal to end shutdown after Dems cave — sparking party civil war",
     "link": "https://nypost.com/2025/11/09/us-news/senate-advances-deal-to-reopen-govt-fully-restore-snap-benefits-after-dems-cave/"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-10-00-12-31 +0000",
-    "source": "nypost",
-    "headline": "Boca Raton makes serious pitch to NYC businesses to head south after Zohran Mamdani win",
-    "link": "https://nypost.com/2025/11/09/us-news/boca-raton-makes-serious-pitch-to-nyc-businesses-to-head-south-after-zohran-mamdani-win/"
+    "score": 60,
+    "pubdate": "2025-11-09-22-01-33 +0000",
+    "source": "wapo",
+    "headline": "Super Typhoon Fung-wong slams Philippines in wake of Typhoon Kalmaegi",
+    "link": "https://www.washingtonpost.com/world/2025/11/09/philippines-typhoon-uwan-fung-wong-cyclone-storm/"
   },
   {
-    "score": 41,
+    "score": 51,
+    "pubdate": "2025-11-10-12-59-13 +0000",
+    "source": "nyt",
+    "headline": "Nicolas Sarkozy, Former French President, Will Be Released From Prison Pending Appeal",
+    "link": "https://www.nytimes.com/2025/11/10/world/europe/sarkozy-prison-appeals.html"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-11-09-18-48-33 +0000",
+    "source": "cbc",
+    "headline": "BBC director, head of news resign after criticism of Trump speech edits",
+    "link": "https://www.cbc.ca/news/world/bbc-director-resigns-9.6972781?cmp=rss"
+  },
+  {
+    "score": 44,
     "pubdate": "2025-11-10-10-00-00 +0000",
     "source": "wsj",
     "headline": "Chief Justice John Roberts faces a defining challenge as he enters his third decade leading the Supreme Court",
     "link": "https://www.wsj.com/politics/policy/chief-justice-roberts-faces-career-defining-decision-on-trump-7ab3ae68"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-10-00-09-50 +0000",
-    "source": "nypost",
-    "headline": "Brooklyn dad says goodbye to hero son Itay Chen — the final slain Israeli-American hostage whose body was released by Hamas",
-    "link": "https://nypost.com/2025/11/09/world-news/nyc-dad-says-goodbye-to-hero-son-itay-chen-who-hamas-killed/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-11-10-10-19-04 +0000",
-    "source": "nyt",
-    "headline": "Syria’s President to Meet Trump at White House for First Time",
-    "link": "https://www.nytimes.com/2025/11/10/world/middleeast/syria-president-al-shara-trump-washington.html"
-  },
-  {
-    "score": 37,
-    "pubdate": "2025-11-09-19-40-44 +0000",
-    "source": "nyt",
-    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html"
-  },
-  {
-    "score": 35,
+    "score": 42,
     "pubdate": "2025-11-09-22-18-20 +0000",
     "source": "bbc",
     "headline": "Harshita was murdered a year ago - so why has her killer not been caught, family ask",
     "link": "https://www.bbc.com/news/articles/c993je80ermo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
-    "pubdate": "2025-11-10-10-15-59 +0000",
+    "score": 39,
+    "pubdate": "2025-11-10-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "Pro-Zohran Mamdani group pushes to recruit thousands to DSA in wake of mayoral-election victory",
+    "link": "https://nypost.com/2025/11/10/us-news/pro-zohran-mamdani-group-pushes-to-recruit-thousands-to-dsa-in-wake-of-mayoral-election-victory/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-11-09-19-40-44 +0000",
     "source": "nyt",
-    "headline": "F.B.I. Director Is Said to Have Made a Pledge to Head of MI5, Then Broken It",
-    "link": "https://www.nytimes.com/2025/11/10/world/europe/kash-patel-fbi-mi5.html"
+    "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-11-09-22-16-34 +0000",
+    "source": "nyt",
+    "headline": "Hamas Hands Over Body of Hadar Goldin, Israeli Soldier Held Since 2014",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html"
   }
 ]

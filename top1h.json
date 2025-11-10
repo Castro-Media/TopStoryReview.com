@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "score": 20,
+    "pubdate": "2025-11-10-13-03-00 +0000",
+    "source": "wsj",
+    "headline": "The decision by eight Democratic senators to side with Republicans to advance a bill to end the government shutdown reopened divisions within the Democratic party",
+    "link": "https://www.wsj.com/politics/policy/democrats-fume-over-deal-to-end-government-shutdown-03382be5"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-10-12-59-13 +0000",
+    "source": "nyt",
+    "headline": "Nicolas Sarkozy, Former French President, Will Be Released From Prison Pending Appeal",
+    "link": "https://www.nytimes.com/2025/11/10/world/europe/sarkozy-prison-appeals.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-10-12-59-54 +0000",
+    "source": "bbc",
+    "headline": "Seven dead after migrant boat sinks near Thai-Malaysian border",
+    "link": "https://www.bbc.com/news/articles/cd7rp5zj484o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-10-13-00-26 +0000",
+    "source": "nypost",
+    "headline": "Robert De Niro’s daughter shares emotional post honoring son Leandro while visiting Pope at the Vatican",
+    "link": "https://nypost.com/2025/11/10/us-news/robert-de-niros-daughter-shares-emotional-post-honoring-son-leandro-while-visiting-the-pope-at-the-vatican/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-10-13-03-54 +0000",
+    "source": "nyt",
+    "headline": "DealBook Summit 2025: David Ellison, Scott Bessent, Erika Kirk and More",
+    "link": "https://www.nytimes.com/2025/11/10/business/dealbook/ellison-bessent-kirk-dealbook-summit.html"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-11-10-13-04-35 +0000",
+    "source": "nyt",
+    "headline": "Six Takeaways From the Senate Deal to End the Shutdown",
+    "link": "https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-10-12-59-54 +0000",
+    "source": "bbc",
+    "headline": "Seven dead after migrant boat sinks near Thai-Malaysian border",
+    "link": "https://www.bbc.com/news/articles/cd7rp5zj484o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-10-12-59-13 +0000",
+    "source": "nyt",
+    "headline": "Nicolas Sarkozy, Former French President, Will Be Released From Prison Pending Appeal",
+    "link": "https://www.nytimes.com/2025/11/10/world/europe/sarkozy-prison-appeals.html"
+  }
+]
