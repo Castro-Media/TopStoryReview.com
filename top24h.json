@@ -1,6 +1,6 @@
 [
   {
-    "score": 120,
+    "score": 116,
     "pubdate": "2025-11-10-05-02-42 +0000",
     "source": "nyt",
     "headline": "Trump Renews Attacks on Obamacare in New Push Over Government Shutdown",
@@ -28,13 +28,6 @@
     "link": "https://nypost.com/2025/11/09/us-news/boca-raton-makes-serious-pitch-to-nyc-businesses-to-head-south-after-zohran-mamdani-win/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-10-10-19-04 +0000",
-    "source": "nyt",
-    "headline": "Syria’s President to Meet Trump at White House for First Time",
-    "link": "https://www.nytimes.com/2025/11/10/world/middleeast/syria-president-al-shara-trump-washington.html"
-  },
-  {
     "score": 41,
     "pubdate": "2025-11-10-10-00-00 +0000",
     "source": "wsj",
@@ -47,6 +40,13 @@
     "source": "nypost",
     "headline": "Brooklyn dad says goodbye to hero son Itay Chen — the final slain Israeli-American hostage whose body was released by Hamas",
     "link": "https://nypost.com/2025/11/09/world-news/nyc-dad-says-goodbye-to-hero-son-itay-chen-who-hamas-killed/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-11-10-10-19-04 +0000",
+    "source": "nyt",
+    "headline": "Syria’s President to Meet Trump at White House for First Time",
+    "link": "https://www.nytimes.com/2025/11/10/world/middleeast/syria-president-al-shara-trump-washington.html"
   },
   {
     "score": 37,
