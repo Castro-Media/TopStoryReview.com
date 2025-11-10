@@ -1,58 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2025-11-10-13-03-00 +0000",
+    "score": 48,
+    "pubdate": "2025-11-10-14-25-00 +0000",
     "source": "wsj",
-    "headline": "The decision by eight Democratic senators to side with Republicans to advance a bill to end the government shutdown reopened divisions within the Democratic party",
+    "headline": "The decision by eight \\members of the Senate Democratic caucus to side with Republicans to advance a bill to end the government shutdown reopened divisions within the Democratic Party",
     "link": "https://www.wsj.com/politics/policy/democrats-fume-over-deal-to-end-government-shutdown-03382be5"
   },
   {
-    "score": 20,
-    "pubdate": "2025-11-10-12-59-13 +0000",
+    "score": 37,
+    "pubdate": "2025-11-10-14-51-19 +0000",
     "source": "nyt",
-    "headline": "Nicolas Sarkozy, Former French President, Will Be Released From Prison Pending Appeal",
-    "link": "https://www.nytimes.com/2025/11/10/world/europe/sarkozy-prison-appeals.html"
+    "headline": "BBC Director Tim Davie and CEO Deborah Turness Quit Following Trump Documentary Turmoil",
+    "link": "https://www.nytimes.com/2025/11/09/world/europe/bbc-resignations.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-11-10-14-36-07 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Denies Request to Revisit Same-Sex Marriage Decision",
+    "link": "https://www.nytimes.com/2025/11/10/us/politics/supreme-court-same-sex-marriage.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-11-10-14-01-26 +0000",
+    "source": "nypost",
+    "headline": "Ex-French President Nicolas Sarkozy to be released from prison less than 3 weeks into 5-year sentence",
+    "link": "https://nypost.com/2025/11/10/world-news/frances-nicolas-sarkozy-to-be-released-from-prison/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-11-10-14-32-00 +0000",
+    "source": "wsj",
+    "headline": "Flight Delays Mount as FAA Restrictions Stretch On. Here’s What to Know.",
+    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-11-10-14-27-57 +0000",
+    "source": "nyt",
+    "headline": "U.S. Military Kills 6 in Strikes on Suspected Drug Boats, Hegseth Says",
+    "link": "https://www.nytimes.com/2025/11/10/us/politics/us-boat-strike-deaths-hegseth.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-10-14-47-57 +0000",
+    "source": "nypost",
+    "headline": "Scott Bessent confronts George Stephanopoulos for labeling GOP ‘terrorists’ during 1995 government shutdown",
+    "link": "https://nypost.com/2025/11/10/us-news/scott-bessent-confronts-george-stephanopoulos-for-labeling-gop-terrorists/"
   },
   {
     "score": 18,
-    "pubdate": "2025-11-10-12-59-54 +0000",
-    "source": "bbc",
-    "headline": "Seven dead after migrant boat sinks near Thai-Malaysian border",
-    "link": "https://www.bbc.com/news/articles/cd7rp5zj484o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-11-10-14-04-00 +0000",
+    "source": "latimes",
+    "headline": "The federal SNAP-funding mess has made L.A.'s food-insecurity crisis clearer than ever",
+    "link": "https://www.latimes.com/world-nation/story/2025-11-10/federal-snap-funding-crisis-la-food-insecurity"
   },
   {
-    "score": 13,
-    "pubdate": "2025-11-10-13-00-26 +0000",
-    "source": "nypost",
-    "headline": "Robert De Niro’s daughter shares emotional post honoring son Leandro while visiting Pope at the Vatican",
-    "link": "https://nypost.com/2025/11/10/us-news/robert-de-niros-daughter-shares-emotional-post-honoring-son-leandro-while-visiting-the-pope-at-the-vatican/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-10-13-03-54 +0000",
+    "score": 16,
+    "pubdate": "2025-11-10-14-25-06 +0000",
     "source": "nyt",
-    "headline": "DealBook Summit 2025: David Ellison, Scott Bessent, Erika Kirk and More",
-    "link": "https://www.nytimes.com/2025/11/10/business/dealbook/ellison-bessent-kirk-dealbook-summit.html"
+    "headline": "Medical Marijuana Grower in New Zealand Faces Criminal Charges",
+    "link": "https://www.nytimes.com/2025/11/10/world/asia/medical-marijuana-new-zealand-gandalf.html"
   },
   {
-    "score": 4,
-    "pubdate": "2025-11-10-13-04-35 +0000",
+    "score": 15,
+    "pubdate": "2025-11-10-14-31-26 +0000",
     "source": "nyt",
-    "headline": "Six Takeaways From the Senate Deal to End the Shutdown",
-    "link": "https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-10-12-59-54 +0000",
-    "source": "bbc",
-    "headline": "Seven dead after migrant boat sinks near Thai-Malaysian border",
-    "link": "https://www.bbc.com/news/articles/cd7rp5zj484o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-10-12-59-13 +0000",
-    "source": "nyt",
-    "headline": "Nicolas Sarkozy, Former French President, Will Be Released From Prison Pending Appeal",
-    "link": "https://www.nytimes.com/2025/11/10/world/europe/sarkozy-prison-appeals.html"
+    "headline": "Syria al-Shara al-Baghdadi Trump",
+    "link": "https://www.nytimes.com/2025/11/10/world/middleeast/a-syrian-village-and-the-long-road-to-the-white-house.html"
   }
 ]
