@@ -1,6 +1,6 @@
 [
   {
-    "score": 176,
+    "score": 172,
     "pubdate": "2025-11-10-19-39-00 +0000",
     "source": "wsj",
     "headline": "Trump threatened to dock the pay of air-traffic controllers who don’t return to work, as flight cancellations and delays spread across the country because of the government shutdown",
@@ -29,17 +29,17 @@
   },
   {
     "score": 59,
-    "pubdate": "2025-11-10-15-03-47 +0000",
-    "source": "cbc",
-    "headline": "8 people dead in car explosion near Red Fort in New Delhi",
-    "link": "https://www.cbc.ca/news/world/india-explosion-new-delhi-red-fort-9.6973264?cmp=rss"
-  },
-  {
-    "score": 59,
     "pubdate": "2025-11-10-19-31-08 +0000",
     "source": "nypost",
     "headline": "Ex-al Qaeda Syria leader meets Trump at White House after pledge to be ‘great ally to the United States’",
     "link": "https://nypost.com/2025/11/10/us-news/ex-al-qaeda-syria-leader-meets-trump-at-white-house-after-pledge-to-be-great-ally-to-the-united-states/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2025-11-10-15-03-47 +0000",
+    "source": "cbc",
+    "headline": "8 people dead in car explosion near Red Fort in New Delhi",
+    "link": "https://www.cbc.ca/news/world/india-explosion-new-delhi-red-fort-9.6973264?cmp=rss"
   },
   {
     "score": 55,
