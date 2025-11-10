@@ -1,24 +1,31 @@
 [
   {
-    "score": 102,
-    "pubdate": "2025-11-09-18-12-48 +0000",
+    "score": 106,
+    "pubdate": "2025-11-10-05-02-42 +0000",
     "source": "nyt",
     "headline": "Trump Renews Attacks on Obamacare in New Push Over Government Shutdown",
     "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-shutdown-obamacare.html"
   },
   {
-    "score": 58,
+    "score": 61,
     "pubdate": "2025-11-09-14-46-42 +0000",
     "source": "bbc",
     "headline": "BBC on Luzon Island as super typhoon hits Philippines",
     "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
+    "score": 58,
     "pubdate": "2025-11-09-22-28-52 +0000",
     "source": "nypost",
     "headline": "Senate eyes vote on potential breakthrough to end longest-ever government shutdown, fully fund SNAP benefits",
     "link": "https://nypost.com/2025/11/09/us-news/senate-eyes-vote-on-potential-breakthrough-to-end-longest-ever-govt-shutdown/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-11-10-00-12-31 +0000",
+    "source": "nypost",
+    "headline": "Boca Raton makes serious pitch to NYC businesses to head south after Zohran Mamdani win",
+    "link": "https://nypost.com/2025/11/09/us-news/boca-raton-makes-serious-pitch-to-nyc-businesses-to-head-south-after-zohran-mamdani-win/"
   },
   {
     "score": 40,
@@ -28,45 +35,38 @@
     "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html"
   },
   {
-    "score": 39,
-    "pubdate": "2025-11-10-00-12-31 +0000",
-    "source": "nypost",
-    "headline": "Boca Raton makes serious pitch to NYC businesses to head south after Zohran Mamdani win",
-    "link": "https://nypost.com/2025/11/09/us-news/boca-raton-makes-serious-pitch-to-nyc-businesses-to-head-south-after-zohran-mamdani-win/"
-  },
-  {
-    "score": 39,
+    "score": 37,
     "pubdate": "2025-11-09-19-40-44 +0000",
     "source": "nyt",
     "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
     "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html"
   },
   {
-    "score": 34,
-    "pubdate": "2025-11-09-21-42-35 +0000",
-    "source": "nypost",
-    "headline": "Dem rival blasts Rep. Ritchie Torres’ pro-Israel stance — after deleting his own gushing posts",
-    "link": "https://nypost.com/2025/11/09/us-news/michael-blake-blasts-rep-ritchie-torres-pro-israel-stance-after-deleting-gushing-posts/"
-  },
-  {
-    "score": 34,
+    "score": 36,
     "pubdate": "2025-11-09-22-18-20 +0000",
     "source": "bbc",
     "headline": "Harshita was murdered a year ago - so why has her killer not been caught, family ask",
     "link": "https://www.bbc.com/news/articles/c993je80ermo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 31,
-    "pubdate": "2025-11-09-21-09-03 +0000",
-    "source": "nypost",
-    "headline": "Va. Gov.-elect Abigail Spanberger warns Dems not to prolong record-breaking shutdown",
-    "link": "https://nypost.com/2025/11/09/us-news/abigail-spanberger-urges-dems-not-to-prolong-shutdown-while-ex-roommate-mikie-sherrill-says-keep-up-that-fight/"
-  },
-  {
-    "score": 31,
+    "score": 32,
     "pubdate": "2025-11-09-17-30-00 +0000",
     "source": "wsj",
     "headline": "President Trump suggests tariff revenue could be used to fund payments of at least $2,000 to most Americans",
     "link": "https://www.wsj.com/politics/policy/trump-suggests-2-000-payouts-to-americans-as-he-defends-tariffs-c4af7ec1"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-11-10-04-13-19 +0000",
+    "source": "bbc",
+    "headline": "Seven dead after migrant boat sinks near Thai-Malaysia border",
+    "link": "https://www.bbc.com/news/articles/cd7rp5zj484o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-11-09-15-56-32 +0000",
+    "source": "nypost",
+    "headline": "Transportation secretary gives dire warning on Thanksgiving air travel as gov’t shutdown wear on",
+    "link": "https://nypost.com/2025/11/09/us-news/transportation-secretary-warns-about-thanksgiving-air-travel/"
   }
 ]
