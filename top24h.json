@@ -1,6 +1,6 @@
 [
   {
-    "score": 109,
+    "score": 107,
     "pubdate": "2025-11-10-05-02-42 +0000",
     "source": "nyt",
     "headline": "Trump Renews Attacks on Obamacare in New Push Over Government Shutdown",
@@ -8,10 +8,10 @@
   },
   {
     "score": 67,
-    "pubdate": "2025-11-09-14-46-42 +0000",
-    "source": "bbc",
-    "headline": "BBC on Luzon Island as super typhoon hits Philippines",
-    "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-11-09-10-26-24 +0000",
+    "source": "cbc",
+    "headline": "Super Typhoon Fung-wong hits Philippines after more than 1 million people evacuated",
+    "link": "https://www.cbc.ca/news/world/super-typhoon-the-philippines-evacuation-9.6972581?cmp=rss"
   },
   {
     "score": 55,
@@ -29,17 +29,17 @@
   },
   {
     "score": 39,
-    "pubdate": "2025-11-09-22-18-20 +0000",
-    "source": "bbc",
-    "headline": "Harshita was murdered a year ago - so why has her killer not been caught, family ask",
-    "link": "https://www.bbc.com/news/articles/c993je80ermo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-11-10-00-09-50 +0000",
+    "source": "nypost",
+    "headline": "Brooklyn dad says goodbye to hero son Itay Chen — the final slain Israeli-American hostage whose body was released by Hamas",
+    "link": "https://nypost.com/2025/11/09/world-news/nyc-dad-says-goodbye-to-hero-son-itay-chen-who-hamas-killed/"
   },
   {
-    "score": 38,
-    "pubdate": "2025-11-09-22-16-34 +0000",
+    "score": 39,
+    "pubdate": "2025-11-09-23-33-05 +0000",
     "source": "nyt",
-    "headline": "Hamas Hands Over Body of Hadar Goldin, Israeli Soldier Held Since 2014",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html"
+    "headline": "BBC Director Tim Davie and CEO Deborah Turness Quit Following Trump Documentary Turmoil",
+    "link": "https://www.nytimes.com/2025/11/09/world/europe/bbc-resignations.html"
   },
   {
     "score": 38,
@@ -49,24 +49,24 @@
     "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html"
   },
   {
-    "score": 35,
+    "score": 33,
+    "pubdate": "2025-11-09-22-18-20 +0000",
+    "source": "bbc",
+    "headline": "Harshita was murdered a year ago - so why has her killer not been caught, family ask",
+    "link": "https://www.bbc.com/news/articles/c993je80ermo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
     "pubdate": "2025-11-09-17-30-00 +0000",
     "source": "wsj",
     "headline": "President Trump suggests tariff revenue could be used to fund payments of at least $2,000 to most Americans",
     "link": "https://www.wsj.com/politics/policy/trump-suggests-2-000-payouts-to-americans-as-he-defends-tariffs-c4af7ec1"
   },
   {
-    "score": 29,
-    "pubdate": "2025-11-10-04-13-19 +0000",
-    "source": "bbc",
-    "headline": "Seven dead after migrant boat sinks near Thai-Malaysia border",
-    "link": "https://www.bbc.com/news/articles/cd7rp5zj484o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-11-09-23-33-05 +0000",
-    "source": "nyt",
-    "headline": "BBC Director Tim Davie and CEO Deborah Turness Quit Following Trump Documentary Turmoil",
-    "link": "https://www.nytimes.com/2025/11/09/world/europe/bbc-resignations.html"
+    "score": 30,
+    "pubdate": "2025-11-09-23-00-48 +0000",
+    "source": "nypost",
+    "headline": "Beloved Long Island veteran killed by stolen car just moments after visiting granddaughter at school",
+    "link": "https://nypost.com/2025/11/09/us-news/beloved-long-island-veteran-killed-by-stolen-car-just-moments-after-visiting-granddaughter-at-school/"
   }
 ]
