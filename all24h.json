@@ -1,33 +1,111 @@
 [
   {
+    "headline": "The ruling means the government will have to make the payments within 48 hours unless the Supreme Court intervenes",
+    "link": "https://www.wsj.com/politics/policy/appeals-court-wont-let-trump-administration-limit-snap-benefits-5608b1d4",
+    "source": "wsj",
+    "pubdate": "2025-11-10-06-53-00 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Rise on Prospect of End to Government Shutdown",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-2ca2048c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-10-06-48-00 +0000"
+  },
+  {
+    "headline": "Florida military families told to take down early Christmas decorations to comply with base standards: ‘wild they have it in writing’",
+    "link": "https://nypost.com/2025/11/10/us-news/florida-military-families-told-to-take-down-early-christmas-decorations-to-comply-with-standards-at-tyndall-air-force-base/",
+    "source": "nypost",
+    "pubdate": "2025-11-10-06-39-41 +0000"
+  },
+  {
+    "headline": "Senate Moves Toward Ending Shutdown After Democratic Defectors Relent",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/government-shutdown-senate-vote.html",
+    "source": "nyt",
+    "pubdate": "2025-11-10-06-22-26 +0000"
+  },
+  {
+    "headline": "Senate Moves Toward Ending Shutdown After Democratic Defectors Relent",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/government-shutdown-senate-vote.html",
+    "source": "nyt",
+    "pubdate": "2025-11-10-06-22-26 +0000"
+  },
+  {
+    "headline": "'Jersey isn't as family-friendly as it should be'",
+    "link": "https://www.bbc.com/news/articles/c8670wpqp57o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-10-06-21-22 +0000"
+  },
+  {
+    "headline": "Analysis: Vikings’ fits and (false) starts on offense put the brakes on their season",
+    "link": "https://www.startribune.com/minnesota-vikings-baltimore-ravens-27-19-nfl-week-10-jj-mccarthy/601517073",
+    "source": "startribune",
+    "pubdate": "2025-11-10-06-19-20 +0000"
+  },
+  {
+    "headline": "Trump pardons Giuliani, Powell, Chesebro and dozens more involved in 2020 ‘fake electors’ case",
+    "link": "https://nypost.com/2025/11/10/us-news/trump-pardons-rudy-giuliani-john-eastman-sydney-powell-and-dozens-more-involved-in-2020-fake-elector-scheme/",
+    "source": "nypost",
+    "pubdate": "2025-11-10-06-15-11 +0000"
+  },
+  {
+    "headline": "'Killed because they are Alawites': Fear among Syria's minorities after the fall of Assad",
+    "link": "https://www.bbc.com/news/articles/crex1zp3213o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-10-06-06-14 +0000"
+  },
+  {
+    "headline": "Kazakhstan’s curious journey to the Abraham Accords",
+    "link": "https://www.washingtonpost.com/world/2025/11/10/kazakhstan-abraham-accords/",
+    "source": "wapo",
+    "pubdate": "2025-11-10-06-04-39 +0000"
+  },
+  {
+    "headline": "Six Takeaways From the Senate Deal to End the Shutdown",
+    "link": "https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-10-06-04-21 +0000"
+  },
+  {
+    "headline": "Six Takeaways From the Senate Deal to End the Shutdown",
+    "link": "https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-10-06-04-21 +0000"
+  },
+  {
+    "headline": "Indonesia names ex-dictator Suharto a 'national hero'",
+    "link": "https://www.bbc.com/news/articles/cn40p2vwyn7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-10-06-02-50 +0000"
+  },
+  {
+    "headline": "A hacking kingpin reveals all: Inside the gang that left a trail of destruction",
+    "link": "https://www.bbc.com/news/articles/cm2w0pvg4wko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-10-06-01-04 +0000"
+  },
+  {
+    "headline": "Trump Officials Push States to ‘Undo’ Work to Send Full SNAP Benefits",
+    "link": "https://www.nytimes.com/2025/11/09/business/trump-administration-states-undo-full-snap-food-stamps.html",
+    "source": "nyt",
+    "pubdate": "2025-11-10-05-59-32 +0000"
+  },
+  {
+    "headline": "US Senate passes deal aimed at ending government shutdown",
+    "link": "https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-10-05-56-44 +0000"
+  },
+  {
     "headline": "Waves smash Philippines coastline as typhoon hits",
     "link": "https://www.bbc.com/news/videos/c709v1l441qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-10-05-49-41 +0000"
   },
   {
-    "headline": "Six Takeaways from the Senate Deal to End the Shutdown",
-    "link": "https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-11-10-05-48-01 +0000"
-  },
-  {
-    "headline": "Six Takeaways from the Senate Deal to End the Shutdown",
-    "link": "https://www.nytimes.com/2025/11/10/us/politics/takeaways-senate-democrats-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-11-10-05-48-01 +0000"
-  },
-  {
     "headline": "S.F. police shoot man, dog near Union Square after alleged bite attack",
     "link": "https://missionlocal.org/2025/11/sf-police-shooting-man-dog-union-square/",
     "source": "missionlocal",
     "pubdate": "2025-11-10-05-37-57 +0000"
-  },
-  {
-    "headline": "Analysis: Vikings’ fits and (false) starts on offense put the brakes on their season",
-    "link": "https://www.startribune.com/minnesota-vikings-baltimore-ravens-27-19-nfl-week-10-jj-mccarthy/601517073",
-    "source": "startribune",
-    "pubdate": "2025-11-10-05-33-41 +0000"
   },
   {
     "headline": "South Carolina mother on maternity leave nabs 12-foot alligator her family plans to turn into  rug",
@@ -168,28 +246,10 @@
     "pubdate": "2025-11-10-04-05-59 +0000"
   },
   {
-    "headline": "Trump Officials Push States to ‘Undo’ Work to Send Full SNAP Benefits",
-    "link": "https://www.nytimes.com/2025/11/09/business/trump-administration-states-undo-full-snap-food-stamps.html",
-    "source": "nyt",
-    "pubdate": "2025-11-10-04-04-23 +0000"
-  },
-  {
     "headline": "The Nord Stream Investigation That’s Splintering Europe Over Ukraine",
     "link": "https://www.wsj.com/world/europe/the-nord-stream-investigation-thats-splintering-europe-over-ukraine-1735a7d9",
     "source": "wsj",
     "pubdate": "2025-11-10-04-00-00 +0000"
-  },
-  {
-    "headline": "Senate Moves Toward Ending Shutdown After Democratic Defectors Relent",
-    "link": "https://www.nytimes.com/2025/11/09/us/politics/government-shutdown-senate-vote.html",
-    "source": "nyt",
-    "pubdate": "2025-11-10-03-59-47 +0000"
-  },
-  {
-    "headline": "Senate Moves Toward Ending Shutdown After Democratic Defectors Relent",
-    "link": "https://www.nytimes.com/2025/11/09/us/politics/government-shutdown-senate-vote.html",
-    "source": "nyt",
-    "pubdate": "2025-11-10-03-59-47 +0000"
   },
   {
     "headline": "The Senate late Sunday cleared a critical procedural hurdle in its drive to end the record-long government shutdown",
@@ -354,12 +414,6 @@
     "pubdate": "2025-11-10-01-00-00 +0000"
   },
   {
-    "headline": "Minnesota cities, counties fund food aid after SNAP delays",
-    "link": "https://www.startribune.com/mn-cities-counties-donate-to-food-shelves-after-snap-delays/601518758",
-    "source": "startribune",
-    "pubdate": "2025-11-10-00-52-43 +0000"
-  },
-  {
     "headline": "German man accused of painting swastikas on multiple buildings, nearly 50 cars using own blood",
     "link": "https://nypost.com/2025/11/09/world-news/german-man-accused-of-painting-swastikas-with-own-blood-on-buildings-dozens-of-cars/",
     "source": "nypost",
@@ -412,12 +466,6 @@
     "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
     "source": "nyt",
     "pubdate": "2025-11-10-00-32-27 +0000"
-  },
-  {
-    "headline": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-2ca2048c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-10-00-23-00 +0000"
   },
   {
     "headline": "Tutoring a baby to make them an 'English gentleman' - Is it worth the money?",
@@ -496,12 +544,6 @@
     "link": "https://www.bbc.com/news/articles/cwyn9jwqzy8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-09-23-41-56 +0000"
-  },
-  {
-    "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
-    "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-09-23-40-54 +0000"
   },
   {
     "headline": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
@@ -642,12 +684,6 @@
     "pubdate": "2025-11-09-22-28-52 +0000"
   },
   {
-    "headline": "Senate eyes vote on potential breakthrough to end longest-ever government shutdown, fully fund SNAP benefits",
-    "link": "https://nypost.com/2025/11/09/us-news/senate-eyes-vote-on-potential-breakthrough-to-end-longest-ever-govt-shutdown/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-22-28-52 +0000"
-  },
-  {
     "headline": "Harshita was murdered a year ago - so why has her killer not been caught, family ask",
     "link": "https://www.bbc.com/news/articles/c993je80ermo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -688,12 +724,6 @@
     "link": "https://www.nytimes.com/2025/11/08/travel/airports-flights-travel-thanksgiving-shutdown.html",
     "source": "nyt",
     "pubdate": "2025-11-09-22-06-25 +0000"
-  },
-  {
-    "headline": "Trump offers NFL game commentary after flying Air Force One over stadium: ‘Get a touchdown’",
-    "link": "https://nypost.com/2025/11/09/us-news/air-force-one-flies-over-northwest-stadium-as-trump-set-to-attend-commanders-lions-game/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-22-03-12 +0000"
   },
   {
     "headline": "Super Typhoon Fung-wong slams Philippines in wake of Typhoon Kalmaegi",
@@ -1326,14 +1356,14 @@
     "pubdate": "2025-11-09-11-00-00 +0000"
   },
   {
-    "headline": "Coachella Valley Republicans fear alienation after Tuesday election",
-    "link": "https://www.latimes.com/california/story/2025-11-09/coachella-valley-republicans-redistricting-reaction",
+    "headline": "As a century-old oil field winds down, what's next for Baldwin Hills? A sprawling park or housing?",
+    "link": "https://www.latimes.com/california/story/2025-11-09/baldwin-hills-whats-next-for-a-century-old-oil-field",
     "source": "latimes",
     "pubdate": "2025-11-09-11-00-00 +0000"
   },
   {
-    "headline": "As a century-old oil field winds down, what's next for Baldwin Hills? A sprawling park or housing?",
-    "link": "https://www.latimes.com/california/story/2025-11-09/baldwin-hills-whats-next-for-a-century-old-oil-field",
+    "headline": "Coachella Valley Republicans fear alienation after Tuesday election",
+    "link": "https://www.latimes.com/california/story/2025-11-09/coachella-valley-republicans-redistricting-reaction",
     "source": "latimes",
     "pubdate": "2025-11-09-11-00-00 +0000"
   },
@@ -1366,6 +1396,12 @@
     "link": "https://www.latimes.com/california/story/2025-11-09/coachella-valley-republicans-redistricting-reaction",
     "source": "latimes",
     "pubdate": "2025-11-09-11-00-00 +0000"
+  },
+  {
+    "headline": "Taylor Schlitz: Would you go on a date for free food? Gen Z just might.",
+    "link": "https://www.startribune.com/young-people-dating-culture-tiktok-foodie-call/601518038",
+    "source": "startribune",
+    "pubdate": "2025-11-09-10-59-00 +0000"
   },
   {
     "headline": "Gaza death toll tops 69,000 as Israel and militants again exchange remains",
@@ -1558,23 +1594,5 @@
     "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-09-07-55-29 +0000"
-  },
-  {
-    "headline": "Minneapolis Mayor Jacob Frey facing backlash for giving victory speech in Somali: ‘Humiliating’",
-    "link": "https://nypost.com/2025/11/09/us-news/minneapolis-mayor-jacob-frey-under-fire-for-speaking-somali-in-victory-speech/",
-    "source": "nypost",
-    "pubdate": "2025-11-09-06-46-55 +0000"
-  },
-  {
-    "headline": "China Suspends Export Controls on More Critical Minerals",
-    "link": "https://www.nytimes.com/2025/11/09/business/china-suspends-export-controls.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-06-20-13 +0000"
-  },
-  {
-    "headline": "China Suspends Export Controls on More Critical Minerals",
-    "link": "https://www.nytimes.com/2025/11/09/business/china-suspends-export-controls.html",
-    "source": "nyt",
-    "pubdate": "2025-11-09-06-20-13 +0000"
   }
 ]
