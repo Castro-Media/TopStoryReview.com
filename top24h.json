@@ -1,55 +1,62 @@
 [
   {
-    "score": 107,
+    "score": 120,
     "pubdate": "2025-11-10-05-02-42 +0000",
     "source": "nyt",
     "headline": "Trump Renews Attacks on Obamacare in New Push Over Government Shutdown",
     "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-shutdown-obamacare.html"
   },
   {
-    "score": 67,
-    "pubdate": "2025-11-09-10-26-24 +0000",
-    "source": "cbc",
-    "headline": "Super Typhoon Fung-wong hits Philippines after more than 1 million people evacuated",
-    "link": "https://www.cbc.ca/news/world/super-typhoon-the-philippines-evacuation-9.6972581?cmp=rss"
+    "score": 65,
+    "pubdate": "2025-11-09-14-46-42 +0000",
+    "source": "bbc",
+    "headline": "BBC on Luzon Island as super typhoon hits Philippines",
+    "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 58,
     "pubdate": "2025-11-10-03-50-23 +0000",
     "source": "nypost",
     "headline": "Senate advances deal to reopen gov’t, fully restore SNAP benefits after Dems cave",
     "link": "https://nypost.com/2025/11/09/us-news/senate-advances-deal-to-reopen-govt-fully-restore-snap-benefits-after-dems-cave/"
   },
   {
-    "score": 42,
+    "score": 51,
     "pubdate": "2025-11-10-00-12-31 +0000",
     "source": "nypost",
     "headline": "Boca Raton makes serious pitch to NYC businesses to head south after Zohran Mamdani win",
     "link": "https://nypost.com/2025/11/09/us-news/boca-raton-makes-serious-pitch-to-nyc-businesses-to-head-south-after-zohran-mamdani-win/"
   },
   {
-    "score": 39,
+    "score": 44,
+    "pubdate": "2025-11-10-10-19-04 +0000",
+    "source": "nyt",
+    "headline": "Syria’s President to Meet Trump at White House for First Time",
+    "link": "https://www.nytimes.com/2025/11/10/world/middleeast/syria-president-al-shara-trump-washington.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-11-10-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Chief Justice John Roberts faces a defining challenge as he enters his third decade leading the Supreme Court",
+    "link": "https://www.wsj.com/politics/policy/chief-justice-roberts-faces-career-defining-decision-on-trump-7ab3ae68"
+  },
+  {
+    "score": 41,
     "pubdate": "2025-11-10-00-09-50 +0000",
     "source": "nypost",
     "headline": "Brooklyn dad says goodbye to hero son Itay Chen — the final slain Israeli-American hostage whose body was released by Hamas",
     "link": "https://nypost.com/2025/11/09/world-news/nyc-dad-says-goodbye-to-hero-son-itay-chen-who-hamas-killed/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-11-09-23-33-05 +0000",
-    "source": "nyt",
-    "headline": "BBC Director Tim Davie and CEO Deborah Turness Quit Following Trump Documentary Turmoil",
-    "link": "https://www.nytimes.com/2025/11/09/world/europe/bbc-resignations.html"
-  },
-  {
-    "score": 38,
+    "score": 37,
     "pubdate": "2025-11-09-19-40-44 +0000",
     "source": "nyt",
     "headline": "As Aquifers Dry Up, Tehran Rations Water and Calls for Rain Prayers",
     "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-water-rationing-drought.html"
   },
   {
-    "score": 33,
+    "score": 35,
     "pubdate": "2025-11-09-22-18-20 +0000",
     "source": "bbc",
     "headline": "Harshita was murdered a year ago - so why has her killer not been caught, family ask",
@@ -57,16 +64,9 @@
   },
   {
     "score": 33,
-    "pubdate": "2025-11-09-17-30-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump suggests tariff revenue could be used to fund payments of at least $2,000 to most Americans",
-    "link": "https://www.wsj.com/politics/policy/trump-suggests-2-000-payouts-to-americans-as-he-defends-tariffs-c4af7ec1"
-  },
-  {
-    "score": 30,
-    "pubdate": "2025-11-09-23-00-48 +0000",
-    "source": "nypost",
-    "headline": "Beloved Long Island veteran killed by stolen car just moments after visiting granddaughter at school",
-    "link": "https://nypost.com/2025/11/09/us-news/beloved-long-island-veteran-killed-by-stolen-car-just-moments-after-visiting-granddaughter-at-school/"
+    "pubdate": "2025-11-10-10-15-59 +0000",
+    "source": "nyt",
+    "headline": "F.B.I. Director Is Said to Have Made a Pledge to Head of MI5, Then Broken It",
+    "link": "https://www.nytimes.com/2025/11/10/world/europe/kash-patel-fbi-mi5.html"
   }
 ]
