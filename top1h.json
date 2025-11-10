@@ -1,72 +1,72 @@
 [
   {
-    "score": 25,
-    "pubdate": "2025-11-10-00-44-00 +0000",
-    "source": "wsj",
-    "headline": "Alaska’s New Mining Rush Chases Something More Coveted Than Gold",
-    "link": "https://www.wsj.com/us-news/alaskas-new-mining-rush-chases-something-more-coveted-than-gold-f3992f3c"
-  },
-  {
-    "score": 17,
-    "pubdate": "2025-11-10-00-51-14 +0000",
-    "source": "nyt",
-    "headline": "Inside Trump’s Deportation of Venezuelans: Four Months in a Salvadoran Prison",
-    "link": "https://www.nytimes.com/2025/11/08/world/americas/el-salvador-prison-migrants.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-11-10-01-07-22 +0000",
+    "score": 15,
+    "pubdate": "2025-11-10-01-45-10 +0000",
     "source": "nyt",
     "headline": "Democratic Defectors Relent on Shutdown, Backing Bill to Reopen",
     "link": "https://www.nytimes.com/2025/11/09/us/politics/government-shutdown-senate-vote.html"
   },
   {
-    "score": 13,
-    "pubdate": "2025-11-10-00-32-30 +0000",
+    "score": 14,
+    "pubdate": "2025-11-10-01-51-18 +0000",
+    "source": "bbc",
+    "headline": "China exempts chips used by carmakers from export curbs",
+    "link": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-10-02-21-17 +0000",
     "source": "nypost",
-    "headline": "Islanders phenom Matthew Schaefer reveals Long Island routine — including which cartoons he watches",
-    "link": "https://nypost.com/2025/11/09/us-news/islanders-phenom-matthew-schaefer-reveals-long-island-routine-including-which-cartoons-he-watches/"
+    "headline": "Stefanik rips Hochul for endorsing ‘raging antisemite’ Mamdani while accepting award from pro-Israel organization",
+    "link": "https://nypost.com/2025/11/09/us-news/stefanik-rips-hochul-for-endorsing-raging-antisemite-mamdani-while-accepting-award-from-pro-israel-organization/"
   },
   {
-    "score": 11,
-    "pubdate": "2025-11-10-00-52-28 +0000",
-    "source": "nypost",
-    "headline": "German man accused of painting swastikas on multiple buildings, nearly 50 cars using own blood",
-    "link": "https://nypost.com/2025/11/09/world-news/german-man-accused-of-painting-swastikas-with-own-blood-on-buildings-dozens-of-cars/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-11-10-01-00-00 +0000",
+    "score": 10,
+    "pubdate": "2025-11-10-02-00-00 +0000",
     "source": "wsj",
-    "headline": "It’s Getting Harder to Figure Out Whether You Live in a Flood Zone or Not",
-    "link": "https://www.wsj.com/us-news/lood-zone-risk-maps-15da3709"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-11-10-00-33-00 +0000",
-    "source": "wsj",
-    "headline": "Republicans pitch alternative to ACA extension to end government shutdown",
-    "link": "https://www.wsj.com/politics/policy/republicans-pitch-alternative-to-aca-extension-to-end-government-shutdown-3be838e3"
+    "headline": "Paper wealth is powering this economy. And it can disappear just as quickly as it was created.",
+    "link": "https://www.wsj.com/economy/consumers/economy-sentiment-stock-market-investors-2eb1e772"
   },
   {
     "score": 8,
-    "pubdate": "2025-11-10-01-02-00 +0000",
-    "source": "wsj",
-    "headline": "BOJ Summary of Opinions Show Next Rate-Hike Nearing",
-    "link": "https://www.wsj.com/economy/central-banking/boj-summary-of-opinions-show-next-rate-hike-nearing-6a55de60"
+    "pubdate": "2025-11-10-02-16-03 +0000",
+    "source": "48hills",
+    "headline": "With a ‘heavy heart,’ tenant protections move forward at Planning Commission",
+    "link": "https://48hills.org/2025/11/with-a-heavy-heart-tenant-protections-move-forward-at-planning-commission/"
   },
   {
-    "score": 8,
-    "pubdate": "2025-11-10-00-32-27 +0000",
+    "score": 6,
+    "pubdate": "2025-11-10-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Feeling Great About the Economy? You Must Own Stocks",
+    "link": "https://www.wsj.com/economy/consumers/economy-sentiment-stock-market-investors-2eb1e772?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-11-10-01-34-05 +0000",
+    "source": "startribune",
+    "headline": "Senate is poised to take the first steps to end 40-day shutdown",
+    "link": "https://www.startribune.com/government-shutdown-reaches-its-40th-day-as-senators-work-through-a-crucial-weekend/601521434"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-11-10-01-55-10 +0000",
+    "source": "48hills",
+    "headline": "Rep. Nancy Pelosi’s real legacy",
+    "link": "https://48hills.org/2025/11/rep-nancy-pelosis-real-legacy/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-10-01-51-18 +0000",
+    "source": "bbc",
+    "headline": "China exempts chips used by carmakers from export curbs",
+    "link": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-10-01-45-10 +0000",
     "source": "nyt",
-    "headline": "Blue Origin Scrubs Launch of NASA’s ESCAPADE Mission to Mars",
-    "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-10-00-25-57 +0000",
-    "source": "nyt",
-    "headline": "In Alaska and Hawaii, Higher Food Prices Intensify SNAP Anxiety",
-    "link": "https://www.nytimes.com/2025/11/09/us/alaska-hawaii-high-food-prices-snap.html"
+    "headline": "Democratic Defectors Relent on Shutdown, Backing Bill to Reopen",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/government-shutdown-senate-vote.html"
   }
 ]
