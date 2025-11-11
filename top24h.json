@@ -1,41 +1,41 @@
 [
   {
-    "score": 181,
+    "score": 177,
     "pubdate": "2025-11-11-01-13-00 +0000",
     "source": "wsj",
     "headline": "Trump threatened to dock the pay of air-traffic controllers who don’t return to work, as flight cancellations and delays spread across the country because of the government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-threatens-to-dock-pay-of-absent-air-traffic-controllers-e18b04e7"
   },
   {
-    "score": 79,
+    "score": 84,
+    "pubdate": "2025-11-11-17-29-31 +0000",
+    "source": "nyt",
+    "headline": "India’s Prime Minister Vows Justice After New Delhi Car Explosion Kills 8",
+    "link": "https://www.nytimes.com/2025/11/11/world/asia/india-delhi-explosion-terror.html"
+  },
+  {
+    "score": 80,
     "pubdate": "2025-11-11-15-24-00 +0000",
     "source": "wsj",
     "headline": "Senate Minority Leader Chuck Schumer wasn’t one of the eight Democratic senators who voted to back GOP legislation to end the government shutdown. He is still taking most of the blame.",
     "link": "https://www.wsj.com/politics/policy/progressives-blame-schumer-after-shutdown-strategy-collapses-5bd1beaf"
   },
   {
-    "score": 69,
-    "pubdate": "2025-11-11-13-25-07 +0000",
-    "source": "nyt",
-    "headline": "Modi Vows Justice as Police Suspect Terrorism in Deadly New Delhi Blast",
-    "link": "https://www.nytimes.com/2025/11/11/world/asia/india-delhi-explosion-terror.html"
+    "score": 61,
+    "pubdate": "2025-11-11-08-43-05 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Jumps, Nasdaq Slips; ADP Data Points to Softer Jobs Market",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2025?mod=rss_markets_main"
   },
   {
-    "score": 59,
+    "score": 57,
     "pubdate": "2025-11-11-00-52-53 +0000",
     "source": "nyt",
     "headline": "Syria’s President Meets Trump at White House for First Time",
     "link": "https://www.nytimes.com/2025/11/10/world/middleeast/syria-president-al-shara-trump-washington.html"
   },
   {
-    "score": 54,
-    "pubdate": "2025-11-11-08-43-05 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: S&P 500 Slips; ADP Data Points to Softer Jobs Market",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2025?mod=rss_markets_main"
-  },
-  {
-    "score": 48,
+    "score": 47,
     "pubdate": "2025-11-11-15-26-34 +0000",
     "source": "nyt",
     "headline": "BBC Director Tim Davie and CEO Deborah Turness Quit Following Trump Documentary Turmoil",
@@ -49,24 +49,24 @@
     "link": "https://www.washingtonpost.com/business/2025/11/10/immigrant-detention-work-geo-supreme-court/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-11-07-49-17 +0000",
-    "source": "bbc",
-    "headline": "'There was blood everywhere': Delhi residents recount horror of huge car explosion",
-    "link": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss"
+    "score": 43,
+    "pubdate": "2025-11-11-17-04-30 +0000",
+    "source": "nypost",
+    "headline": "Bill to end government shutdown would let senators snooped on by Jack Smith seek up to $500K",
+    "link": "https://nypost.com/2025/11/11/us-news/bill-to-end-government-shutdown-would-let-senators-snooped-on-by-jack-smith-seek-up-to-500k/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-11-10-22-38-53 +0000",
-    "source": "nyt",
-    "headline": "Families of Children Killed in Texas Floods Sue Camp Mystic, Claiming Gross Negligence",
-    "link": "https://www.nytimes.com/2025/11/10/us/camp-mystic-lawsuit.html"
+    "score": 42,
+    "pubdate": "2025-11-11-14-18-00 +0000",
+    "source": "wsj",
+    "headline": "SoftBank Sells Its Nvidia Stake for $5.8 Billion to Fund OpenAI Bet",
+    "link": "https://www.wsj.com/business/earnings/softbank-groups-profit-doubles-on-openai-investment-c01d85a4?mod=rss_markets_main"
   },
   {
-    "score": 38,
-    "pubdate": "2025-11-10-20-03-34 +0000",
-    "source": "nyt",
-    "headline": "As the Russia War Continues, Ukraine Faces a Major Draft Evasion Problem",
-    "link": "https://www.nytimes.com/2025/11/10/world/europe/ukraine-draft-dodging-russia-war.html"
+    "score": 40,
+    "pubdate": "2025-11-11-18-28-04 +0000",
+    "source": "nypost",
+    "headline": "Woman killed by NYC subway train in apparent suicide at Port Authority station during rush hour: cops",
+    "link": "https://nypost.com/2025/11/11/us-news/woman-killed-by-nyc-subway-train-at-port-authority-station-during-rush-hour-cops/"
   }
 ]
