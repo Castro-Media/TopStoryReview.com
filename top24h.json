@@ -1,59 +1,45 @@
 [
   {
-    "score": 177,
+    "score": 178,
     "pubdate": "2025-11-10-21-11-40 +0000",
     "source": "nypost",
     "headline": "Trump pledges to ‘abide’ by deal to end government shutdown — but vows to upend Obamacare subsidies",
     "link": "https://nypost.com/2025/11/10/us-news/trump-pledges-to-abide-by-deal-to-end-government-shutdown-but-vows-to-upend-obamacare-subsidies/"
   },
   {
-    "score": 81,
+    "score": 83,
     "pubdate": "2025-11-10-14-58-51 +0000",
     "source": "nypost",
     "headline": "Supreme Court rejects Kim Davis bid to overturn ruling legalizing same-sex marriage",
     "link": "https://nypost.com/2025/11/10/us-news/supreme-court-rejects-kim-davis-bid-to-overturn-ruling-legalizing-same-sex-marriage/"
   },
   {
-    "score": 71,
-    "pubdate": "2025-11-10-14-01-26 +0000",
-    "source": "nypost",
-    "headline": "Ex-French President Nicolas Sarkozy to be released from prison less than 3 weeks into 5-year sentence",
-    "link": "https://nypost.com/2025/11/10/world-news/frances-nicolas-sarkozy-to-be-released-from-prison/"
+    "score": 73,
+    "pubdate": "2025-11-10-05-22-38 +0000",
+    "source": "wapo",
+    "headline": "Special counsel indicts former South Korean president on new charges",
+    "link": "https://www.washingtonpost.com/world/2025/11/10/yoon-suk-yeol-treason-charges/"
   },
   {
-    "score": 63,
+    "score": 65,
     "pubdate": "2025-11-10-16-35-00 +0000",
     "source": "wsj",
     "headline": "Sen. Bernie Sanders and a group of Democratic senators are demanding the White House answer for higher electric bills they blamed in part on the AI boom",
     "link": "https://www.wsj.com/politics/policy/the-political-left-is-dialing-up-scrutiny-of-data-centers-dd66ee57"
   },
   {
-    "score": 61,
-    "pubdate": "2025-11-10-15-03-47 +0000",
-    "source": "cbc",
-    "headline": "8 people dead in car explosion near Red Fort in New Delhi",
-    "link": "https://www.cbc.ca/news/world/india-explosion-new-delhi-red-fort-9.6973264?cmp=rss"
-  },
-  {
     "score": 55,
-    "pubdate": "2025-11-10-18-11-45 +0000",
-    "source": "wapo",
-    "headline": "Super Typhoon Fung-wong slams Philippines in wake of Typhoon Kalmaegi",
-    "link": "https://www.washingtonpost.com/world/2025/11/09/philippines-typhoon-uwan-fung-wong-cyclone-storm/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-11-10-19-39-00 +0000",
-    "source": "wsj",
-    "headline": "Trump threatened to dock the pay of air-traffic controllers who don’t return to work, as flight cancellations and delays spread across the country because of the government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-threatens-to-dock-pay-of-absent-air-traffic-controllers-e18b04e7"
-  },
-  {
-    "score": 51,
     "pubdate": "2025-11-10-15-58-48 +0000",
     "source": "nypost",
     "headline": "NYC realtor fired over controversial Zohran Mamdani comments tells The Post he was trying to start ‘meaningful conversation’",
     "link": "https://nypost.com/2025/11/10/business/nyc-realtor-fired-over-controversial-zohran-mamdani-comments-was-trying-to-start-meaningful-conversation/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-11-10-14-01-26 +0000",
+    "source": "nypost",
+    "headline": "Ex-French President Nicolas Sarkozy to be released from prison less than 3 weeks into 5-year sentence",
+    "link": "https://nypost.com/2025/11/10/world-news/frances-nicolas-sarkozy-to-be-released-from-prison/"
   },
   {
     "score": 50,
@@ -63,10 +49,24 @@
     "link": "https://www.nytimes.com/2025/11/09/world/europe/bbc-resignations.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-10-20-03-34 +0000",
-    "source": "nyt",
-    "headline": "As the Russia War Continues, Ukraine Faces a Major Draft Evasion Problem",
-    "link": "https://www.nytimes.com/2025/11/10/world/europe/ukraine-draft-dodging-russia-war.html"
+    "score": 49,
+    "pubdate": "2025-11-10-22-57-10 +0000",
+    "source": "nypost",
+    "headline": "Anti-MAGA group calls for Chuck Schumer’s resignation after renegade Senate Dems cave on govt shutdown",
+    "link": "https://nypost.com/2025/11/10/us-news/anti-maga-group-calls-for-chuck-schumers-resignation-after-renegade-senate-dems-cave-on-govt-shutdown-as-ny-pols-slam-deal/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-11-10-16-52-16 +0000",
+    "source": "nypost",
+    "headline": "Typhoon Fung-wong leaves 8 dead, 1.4 million displaced after hitting the Philippines",
+    "link": "https://nypost.com/2025/11/10/world-news/8-dead-1-4-million-displaced-after-typhoon-fung-wong-hit-the-philippines/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-11-10-19-39-00 +0000",
+    "source": "wsj",
+    "headline": "Trump threatened to dock the pay of air-traffic controllers who don’t return to work, as flight cancellations and delays spread across the country because of the government shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-threatens-to-dock-pay-of-absent-air-traffic-controllers-e18b04e7"
   }
 ]
