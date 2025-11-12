@@ -1,20 +1,20 @@
 [
   {
-    "score": 132,
-    "pubdate": "2025-11-11-22-13-00 +0000",
-    "source": "wsj",
-    "headline": "Senate Minority Leader Chuck Schumer wasn’t one of the eight Democratic senators who voted to back GOP legislation to end the government shutdown. He is still taking most of the blame.",
-    "link": "https://www.wsj.com/politics/policy/progressives-blame-schumer-after-shutdown-strategy-collapses-5bd1beaf"
+    "score": 122,
+    "pubdate": "2025-11-11-23-36-03 +0000",
+    "source": "nypost",
+    "headline": "Supreme Court extends order blocking full SNAP payments as House prepares vote on end to government shutdown",
+    "link": "https://nypost.com/2025/11/11/us-news/supreme-court-extends-order-blocking-full-snap-payments-as-house-prepares-to-vote-on-end-to-government-shutdown/"
   },
   {
-    "score": 99,
+    "score": 93,
     "pubdate": "2025-11-11-23-52-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is poised to unveil a plan that would allow oil drilling off the California coast",
     "link": "https://www.wsj.com/business/energy-oil/trump-to-push-for-oil-drilling-off-california-coast-ba72a959"
   },
   {
-    "score": 76,
+    "score": 75,
     "pubdate": "2025-11-11-19-22-21 +0000",
     "source": "nyt",
     "headline": "India’s Prime Minister Vows Justice After New Delhi Car Explosion Kills 8",
@@ -35,25 +35,18 @@
     "link": "https://www.nytimes.com/2025/11/11/us/politics/marco-rubio-equatorial-guinea.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-11-11-23-36-03 +0000",
-    "source": "nypost",
-    "headline": "Supreme Court extends order blocking full SNAP payments as House prepares vote on end to government shutdown",
-    "link": "https://nypost.com/2025/11/11/us-news/supreme-court-extends-order-blocking-full-snap-payments-as-house-prepares-to-vote-on-end-to-government-shutdown/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-12-02-13-38 +0000",
-    "source": "nypost",
-    "headline": "Lefty Seattle mayoral challenger leads by razor-thin margin — while her parents in NY send her money for expenses",
-    "link": "https://nypost.com/2025/11/11/us-news/seattle-mayoral-challenger-katie-wilson-leads-by-razor-thin-margin-as-parents-send-her-cash/"
-  },
-  {
     "score": 45,
     "pubdate": "2025-11-11-23-53-10 +0000",
     "source": "nypost",
     "headline": "Real estate giant Cushman & Wakefield to hire hundreds more vets as top exec stresses ex-military good for business",
     "link": "https://nypost.com/2025/11/11/us-news/real-estate-giant-cushman-amp-wakefield-to-hire-hundreds-more-vets-as-top-exec-stresses-ex-military-good-for-business/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-11-12-02-13-38 +0000",
+    "source": "nypost",
+    "headline": "Lefty Seattle mayoral challenger leads by razor-thin margin — while her parents in NY send her money for expenses",
+    "link": "https://nypost.com/2025/11/11/us-news/seattle-mayoral-challenger-katie-wilson-leads-by-razor-thin-margin-as-parents-send-her-cash/"
   },
   {
     "score": 43,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/11/11/world-news/us-aircraft-carrier-moves-into-latin-america-region-amid-tensions-with-venezuela/"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2025-11-11-23-14-12 +0000",
     "source": "nypost",
     "headline": "LA firefighters warned that brush fire was still smoldering before it sparked Palisades blaze, but officials did nothing: report",
     "link": "https://nypost.com/2025/11/11/us-news/la-firefighters-warned-brush-fire-was-still-smoldering-before-it-sparked-palisades-blaze-but-officials-did-nothing-report/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-11-11-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "The shutdown’s effect will probably be mostly temporary, but will leave a data fog at an otherwise uncertain time for the economy",
+    "link": "https://www.wsj.com/economy/government-shutdown-economic-impact-2fb5e27a"
   }
 ]
