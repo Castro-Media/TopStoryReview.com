@@ -1,5 +1,59 @@
 [
   {
+    "headline": "Turkish Military Plane Crashes in Georgia, Killing 20 Troops",
+    "link": "https://www.nytimes.com/2025/11/12/world/middleeast/turkey-military-plane-crash-georgia.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-06-52-55 +0000"
+  },
+  {
+    "headline": "Jack Schlossberg, Kennedy Heir, to Seek Nadler’s N.Y. Congressional Seat",
+    "link": "https://www.nytimes.com/2025/11/11/nyregion/jack-schlossberg-congress-run.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-06-51-13 +0000"
+  },
+  {
+    "headline": "LVMH Acquires Minority Stake in Swiss Watchmaker La Joux-Perret",
+    "link": "https://www.wsj.com/business/deals/lvmh-acquires-minority-stake-in-swiss-watchmaker-la-joux-perret-b0f0b418?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-12-06-47-00 +0000"
+  },
+  {
+    "headline": "LVMH Acquires Minority Stake in Swiss Watchmaker La Joux-Perret",
+    "link": "https://www.wsj.com/business/deals/lvmh-acquires-minority-stake-in-swiss-watchmaker-la-joux-perret-b0f0b418?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-12-06-47-00 +0000"
+  },
+  {
+    "headline": "Olympic figure skating legend Surya Bonaly reveals her medals were stolen from Vegas home while she was away caring for cancer-stricken mother",
+    "link": "https://nypost.com/2025/11/12/us-news/olympic-figure-skating-icon-surya-bonaly-has-medals-stolen-from-her-las-vegas-home-during-burglary-while-caring-for-her-sick-mother/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-34-16 +0000"
+  },
+  {
+    "headline": "Turkish military cargo plane crashes, killing 20 people on board",
+    "link": "https://nypost.com/2025/11/12/world-news/turkey-military-plane-crash-kills-20-personnel-near-georgia-azerbaijan-border/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-27-45 +0000"
+  },
+  {
+    "headline": "Jack Schlossberg, controversial  grandson of JFK, to launch campaign for Nadler’s New York congressional seat",
+    "link": "https://nypost.com/2025/11/12/us-news/jack-schlossberg-grandson-of-jfk-to-launch-campaign-for-nadlers-new-york-congressional-seat/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-14-24 +0000"
+  },
+  {
+    "headline": "Jack Schlossberg, controversial  grandson of JFK, to launch campaign for Nadler’s New York congressional seat",
+    "link": "https://nypost.com/2025/11/12/us-news/jack-schlossberg-grandson-of-jfk-to-launch-campaign-for-nadlers-new-york-congressional-seat/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-14-24 +0000"
+  },
+  {
+    "headline": "Irish Government Might See Boost to Tax Revenues From AI, Weight-Loss Drugs",
+    "link": "https://www.wsj.com/economy/global/irish-government-might-see-boost-to-tax-revenues-from-ai-weight-loss-drugs-c1fdce1b",
+    "source": "wsj",
+    "pubdate": "2025-11-12-05-56-00 +0000"
+  },
+  {
     "headline": "Trump pardons record-breaking trail runner who took prohibited detour as he ran up and down Wyoming’s Grand Teton",
     "link": "https://nypost.com/2025/11/12/us-news/trump-pardons-trail-runner-who-took-prohibited-detour-as-he-ran-up-and-down-wyomings-grand-teton-in-record-time/",
     "source": "nypost",
@@ -162,7 +216,7 @@
     "pubdate": "2025-11-12-03-30-21 +0000"
   },
   {
-    "headline": "Australia's spy chief accuses China of targeting key infrastructure",
+    "headline": "Australia at risk of 'high-impact sabotage' from China, says spy chief",
     "link": "https://www.bbc.com/news/articles/cg7n43emvejo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-12-03-27-44 +0000"
@@ -190,12 +244,6 @@
     "link": "https://www.nytimes.com/2025/11/11/us/politics/trump-veterans-day-speech-shutdown.html",
     "source": "nyt",
     "pubdate": "2025-11-12-03-25-01 +0000"
-  },
-  {
-    "headline": "Jack Schlossberg, Kennedy Heir, to Seek Nadler’s N.Y. Congressional Seat",
-    "link": "https://www.nytimes.com/2025/11/11/nyregion/jack-schlossberg-congress-run.html",
-    "source": "nyt",
-    "pubdate": "2025-11-12-03-20-30 +0000"
   },
   {
     "headline": "Supreme Court Extends Order Allowing Limits on Food Stamp Payments",
@@ -430,6 +478,12 @@
     "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-supported-by-bojs-planned-purchases-dba3a34a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-12-00-26-00 +0000"
+  },
+  {
+    "headline": "Israel has destroyed more than 1,500 buildings in Gaza since ceasefire",
+    "link": "https://www.bbc.com/news/articles/c0mxylxw48yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-12-00-25-31 +0000"
   },
   {
     "headline": "Bill de Blasio’s girlfriend outed as South Tucson mayor, mom of 2 Roxanna Valenzuela",
@@ -738,12 +792,6 @@
     "pubdate": "2025-11-11-23-29-01 +0000"
   },
   {
-    "headline": "NY school official under fire for calling Zohran Mamdani win ‘Islamic takeover of Western society’",
-    "link": "https://nypost.com/2025/11/11/us-news/ny-school-official-under-fire-for-calling-zohran-mamdani-win-islamic-takeover-of-western-society/",
-    "source": "nypost",
-    "pubdate": "2025-11-11-23-24-34 +0000"
-  },
-  {
     "headline": "Lib Dems call for 5% VAT cut for pubs and restaurants",
     "link": "https://www.bbc.com/news/articles/c77zy6m842do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -766,12 +814,6 @@
     "link": "https://nypost.com/2025/11/11/lifestyle/saks-off-fifth-closing-9-stores-in-the-us/",
     "source": "nypost",
     "pubdate": "2025-11-11-23-18-21 +0000"
-  },
-  {
-    "headline": "Heart-pounding video shows wild NYPD foot chase of armed suspect in the Bronx: ‘That’s two’",
-    "link": "https://nypost.com/2025/11/11/us-news/heart-pounding-video-shows-wild-nypd-foot-chase-of-armed-suspect-in-the-bronx/",
-    "source": "nypost",
-    "pubdate": "2025-11-11-23-17-00 +0000"
   },
   {
     "headline": "Tense air traffic control audio captures jets' near-miss during LAX takeoff",
@@ -1398,6 +1440,12 @@
     "pubdate": "2025-11-11-18-16-47 +0000"
   },
   {
+    "headline": "Hamas fighters trapped in tunnels present new obstacle to Gaza ceasefire progress",
+    "link": "https://www.bbc.com/news/articles/c8912d7jxl2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-11-18-16-47 +0000"
+  },
+  {
     "headline": "Softbank sells entire $5.8B Nvidia stake as it goes ‘all in’ on OpenAI bet",
     "link": "https://nypost.com/2025/11/11/business/softbank-sells-entire-5-8b-nvidia-stake-as-it-goes-all-in-on-openai-bet/",
     "source": "nypost",
@@ -1999,12 +2047,6 @@
   },
   {
     "headline": "ADP Estimates Private Sector Was Losing Jobs in October",
-    "link": "https://www.wsj.com/economy/adp-estimates-private-sector-was-losing-jobs-in-october-d9118c97?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-11-13-48-00 +0000"
-  },
-  {
-    "headline": "ADP Estimates Private Sector Was Losing Jobs in October",
     "link": "https://www.wsj.com/economy/adp-estimates-private-sector-was-losing-jobs-in-october-d9118c97",
     "source": "wsj",
     "pubdate": "2025-11-11-13-48-00 +0000"
@@ -2136,12 +2178,6 @@
     "pubdate": "2025-11-11-11-31-00 +0000"
   },
   {
-    "headline": "U.S. Small-Business Sentiment Slides on Lower Profits",
-    "link": "https://www.wsj.com/business/entrepreneurship/u-s-small-business-sentiment-slides-on-lower-profits-6303f464",
-    "source": "wsj",
-    "pubdate": "2025-11-11-11-31-00 +0000"
-  },
-  {
     "headline": "Reform UK says BBC 'infected with left-wing bias'",
     "link": "https://www.bbc.com/news/videos/cwy5k7nwyygo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2178,14 +2214,14 @@
     "pubdate": "2025-11-11-11-00-00 +0000"
   },
   {
-    "headline": "Fast-moving atmospheric river storm could bring four days of rain to California",
-    "link": "https://www.latimes.com/california/story/2025-11-11/california-atmospheric-river-storm-this-week",
+    "headline": "LAFD knew of firefighter complaints about Lachman mop-up and said nothing",
+    "link": "https://www.latimes.com/california/story/2025-11-11/lafd-knew-of-firefighter-complaints-about-lachman-mop-up-and-said-nothing",
     "source": "latimes",
     "pubdate": "2025-11-11-11-00-00 +0000"
   },
   {
-    "headline": "LAFD knew of firefighter complaints about Lachman mop-up and said nothing",
-    "link": "https://www.latimes.com/california/story/2025-11-11/lafd-knew-of-firefighter-complaints-about-lachman-mop-up-and-said-nothing",
+    "headline": "Fast-moving atmospheric river storm could bring four days of rain to California",
+    "link": "https://www.latimes.com/california/story/2025-11-11/california-atmospheric-river-storm-this-week",
     "source": "latimes",
     "pubdate": "2025-11-11-11-00-00 +0000"
   },
@@ -2820,12 +2856,6 @@
     "pubdate": "2025-11-11-00-16-49 +0000"
   },
   {
-    "headline": "Trump wishes Sergio Gor well in India: ‘Some people don’t like him so much’",
-    "link": "https://nypost.com/2025/11/10/us-news/trump-wishes-sergio-gor-well-in-india-some-people-dont-like-him-so-much/",
-    "source": "nypost",
-    "pubdate": "2025-11-11-00-15-29 +0000"
-  },
-  {
     "headline": "British journalist to be freed from US immigration detention",
     "link": "https://www.bbc.com/news/articles/cg51381pnyqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2860,12 +2890,6 @@
     "link": "https://www.bbc.com/news/articles/cr43kyn9d6po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-11-00-01-10 +0000"
-  },
-  {
-    "headline": "Putin’s ‘swollen and sore’ hand sparks new wave of speculation over Russian president’s health",
-    "link": "https://nypost.com/2025/11/10/world-news/putins-hand-sparks-speculation-over-russian-presidents-health/",
-    "source": "nypost",
-    "pubdate": "2025-11-10-23-37-16 +0000"
   },
   {
     "headline": "Beyond Meat Third-Quarter Loss Widens, Sales Slip Amid Falling U.S. Demand",
@@ -3804,12 +3828,6 @@
     "pubdate": "2025-11-10-12-34-33 +0000"
   },
   {
-    "headline": "Private-Label Food Maker TreeHouse to Go Private in $1.17B Deal",
-    "link": "https://www.wsj.com/business/retail/private-label-food-maker-treehouse-to-go-private-in-1-17b-deal-14f89296?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-10-12-30-00 +0000"
-  },
-  {
     "headline": "Nancy Pelosi can be succeeded. She cannot be replaced.",
     "link": "https://missionlocal.org/2025/11/nancy-pelosi-can-be-succeeded-she-cannot-be-replaced/",
     "source": "missionlocal",
@@ -4018,12 +4036,6 @@
     "link": "https://www.bbc.com/news/articles/crex1zp3213o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-10-06-06-14 +0000"
-  },
-  {
-    "headline": "Kazakhstan’s curious journey to the Abraham Accords",
-    "link": "https://www.washingtonpost.com/world/2025/11/10/kazakhstan-abraham-accords/",
-    "source": "wapo",
-    "pubdate": "2025-11-10-06-04-39 +0000"
   },
   {
     "headline": "Amazon tree-felling blamed for polluting UK rivers",
@@ -4392,18 +4404,6 @@
     "pubdate": "2025-11-09-12-00-00 +0000"
   },
   {
-    "headline": "As a century-old oil field winds down, what's next for Baldwin Hills? A sprawling park or housing?",
-    "link": "https://www.latimes.com/california/story/2025-11-09/baldwin-hills-whats-next-for-a-century-old-oil-field",
-    "source": "latimes",
-    "pubdate": "2025-11-09-11-00-00 +0000"
-  },
-  {
-    "headline": "Coachella Valley Republicans fear alienation after Tuesday election",
-    "link": "https://www.latimes.com/california/story/2025-11-09/coachella-valley-republicans-redistricting-reaction",
-    "source": "latimes",
-    "pubdate": "2025-11-09-11-00-00 +0000"
-  },
-  {
     "headline": "Arellano: In Chicago, residents mount a community-wide defense against Trump's deportation machine",
     "link": "https://www.latimes.com/california/story/2025-11-09/little-village-chicago-ice-raids-activism",
     "source": "latimes",
@@ -4418,6 +4418,18 @@
   {
     "headline": "Chabria: How can Newsom stay relevant? Become the new FDR",
     "link": "https://www.latimes.com/california/story/2025-11-09/next-for-newsom-become-the-new-fdr",
+    "source": "latimes",
+    "pubdate": "2025-11-09-11-00-00 +0000"
+  },
+  {
+    "headline": "Coachella Valley Republicans fear alienation after Tuesday election",
+    "link": "https://www.latimes.com/california/story/2025-11-09/coachella-valley-republicans-redistricting-reaction",
+    "source": "latimes",
+    "pubdate": "2025-11-09-11-00-00 +0000"
+  },
+  {
+    "headline": "As a century-old oil field winds down, what's next for Baldwin Hills? A sprawling park or housing?",
+    "link": "https://www.latimes.com/california/story/2025-11-09/baldwin-hills-whats-next-for-a-century-old-oil-field",
     "source": "latimes",
     "pubdate": "2025-11-09-11-00-00 +0000"
   },
@@ -4534,12 +4546,6 @@
     "link": "https://www.nytimes.com/2025/11/09/world/europe/spain-tor-sansa-true-crime-carles-porta.html",
     "source": "nyt",
     "pubdate": "2025-11-09-05-01-11 +0000"
-  },
-  {
-    "headline": "Syria's Sharaa arrives in US for Trump talks after sanctions lifted",
-    "link": "https://www.bbc.com/news/articles/c0rpxkwdkrpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-09-04-37-20 +0000"
   },
   {
     "headline": "Russian Bombardment Causes Large Outages in Ukraine’s Big Cities",
@@ -4752,12 +4758,6 @@
     "pubdate": "2025-11-08-15-09-39 +0000"
   },
   {
-    "headline": "Israel says body of Lior Rudaeff has been returned from Gaza",
-    "link": "https://www.bbc.com/news/articles/cwykw15dx56o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-08-14-46-02 +0000"
-  },
-  {
     "headline": "We are!",
     "link": "https://missionlocal.org/2025/11/sf-photos-we-are/",
     "source": "missionlocal",
@@ -4806,12 +4806,6 @@
     "pubdate": "2025-11-08-11-00-06 +0000"
   },
   {
-    "headline": "SNAP recipients celebrate last-minute reprieve on losing food benefits. 'I can breathe now'",
-    "link": "https://www.latimes.com/california/story/2025-11-08/snap-food-benefits-federal-shutdown-women",
-    "source": "latimes",
-    "pubdate": "2025-11-08-11-00-00 +0000"
-  },
-  {
     "headline": "Arellano: From the ballot box to the streets, Latinos are blowing the whistle on Trump's reign",
     "link": "https://www.latimes.com/california/story/2025-11-08/latinos-trump-2025",
     "source": "latimes",
@@ -4826,6 +4820,12 @@
   {
     "headline": "Trump made inroads with Latino voters. The GOP is losing them ahead of the midterms",
     "link": "https://www.latimes.com/politics/story/2025-11-08/latino-voters-gop-new-jersey-virginia-california-elections",
+    "source": "latimes",
+    "pubdate": "2025-11-08-11-00-00 +0000"
+  },
+  {
+    "headline": "SNAP recipients celebrate last-minute reprieve on losing food benefits. 'I can breathe now'",
+    "link": "https://www.latimes.com/california/story/2025-11-08/snap-food-benefits-federal-shutdown-women",
     "source": "latimes",
     "pubdate": "2025-11-08-11-00-00 +0000"
   },
@@ -5490,6 +5490,12 @@
     "pubdate": "2025-11-07-11-04-00 +0000"
   },
   {
+    "headline": "California steps in as Trump skips global climate summit in Brazil",
+    "link": "https://www.latimes.com/environment/story/2025-11-07/what-to-know-about-cop30",
+    "source": "latimes",
+    "pubdate": "2025-11-07-11-00-00 +0000"
+  },
+  {
     "headline": "Housing Tracker: Southern California home values dip in September",
     "link": "https://www.latimes.com/california/story/2025-11-07/housing-tracker-southern-california-home-values-dip-in-september",
     "source": "latimes",
@@ -5502,6 +5508,12 @@
     "pubdate": "2025-11-07-11-00-00 +0000"
   },
   {
+    "headline": "Day 1 of air traffic cuts hit travelers hard. But the worst is still to come",
+    "link": "https://www.latimes.com/california/story/2025-11-07/faa-flight-cuts-airport-chaos-travelers-trace",
+    "source": "latimes",
+    "pubdate": "2025-11-07-11-00-00 +0000"
+  },
+  {
     "headline": "Your flight was canceled amid FAA's cuts to air traffic. Here's what you can do about it",
     "link": "https://www.latimes.com/california/story/2025-11-07/your-flight-was-canceled-amid-faas-cuts-to-air-traffic-heres-what-you-can-do-about-it",
     "source": "latimes",
@@ -5510,18 +5522,6 @@
   {
     "headline": "After outburst, Katie Porter's support in the California governor's race slips, new poll shows",
     "link": "https://www.latimes.com/california/story/2025-11-07/la-times-berkeley-poll-on-2026-california-governors-race",
-    "source": "latimes",
-    "pubdate": "2025-11-07-11-00-00 +0000"
-  },
-  {
-    "headline": "Day 1 of air traffic cuts hit travelers hard. But the worst is still to come",
-    "link": "https://www.latimes.com/california/story/2025-11-07/faa-flight-cuts-airport-chaos-travelers-trace",
-    "source": "latimes",
-    "pubdate": "2025-11-07-11-00-00 +0000"
-  },
-  {
-    "headline": "California steps in as Trump skips global climate summit in Brazil",
-    "link": "https://www.latimes.com/environment/story/2025-11-07/what-to-know-about-cop30",
     "source": "latimes",
     "pubdate": "2025-11-07-11-00-00 +0000"
   },
@@ -6006,8 +6006,8 @@
     "pubdate": "2025-11-06-11-02-00 +0000"
   },
   {
-    "headline": "California city tried to stamp out 10-year-old's beehive project. Saving the bees was a lesson in love",
-    "link": "https://www.latimes.com/california/story/2025-11-06/santa-rosa-beehive-project-fight",
+    "headline": "Edison blacked out a record number of customers to stop fires. Now regulators have warned the utility",
+    "link": "https://www.latimes.com/environment/story/2025-11-06/edison-blacks-out-more-customers-to-stop-utility-sparked-fires",
     "source": "latimes",
     "pubdate": "2025-11-06-11-00-00 +0000"
   },
@@ -6024,8 +6024,8 @@
     "pubdate": "2025-11-06-11-00-00 +0000"
   },
   {
-    "headline": "Edison blacked out a record number of customers to stop fires. Now regulators have warned the utility",
-    "link": "https://www.latimes.com/environment/story/2025-11-06/edison-blacks-out-more-customers-to-stop-utility-sparked-fires",
+    "headline": "California city tried to stamp out 10-year-old's beehive project. Saving the bees was a lesson in love",
+    "link": "https://www.latimes.com/california/story/2025-11-06/santa-rosa-beehive-project-fight",
     "source": "latimes",
     "pubdate": "2025-11-06-11-00-00 +0000"
   },
@@ -6472,17 +6472,5 @@
     "link": "https://www.wsj.com/us-news/education/trader-jeff-yass-is-giving-100-million-to-anti-woke-university-of-austin-370ddecb",
     "source": "wsj",
     "pubdate": "2025-11-05-10-30-00 +0000"
-  },
-  {
-    "headline": "'My skin was peeling' - the African women tricked into making Russian drones",
-    "link": "https://www.bbc.com/news/articles/cdrzdpre058o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-05-06-23-25 +0000"
-  },
-  {
-    "headline": "'My skin was peeling' - the African women tricked into making Russian drones",
-    "link": "https://www.bbc.com/news/articles/cdrzdpre058o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-05-06-23-25 +0000"
   }
 ]

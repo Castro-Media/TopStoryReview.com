@@ -1,5 +1,59 @@
 [
   {
+    "headline": "Turkish Military Plane Crashes in Georgia, Killing 20 Troops",
+    "link": "https://www.nytimes.com/2025/11/12/world/middleeast/turkey-military-plane-crash-georgia.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-06-52-55 +0000"
+  },
+  {
+    "headline": "Jack Schlossberg, Kennedy Heir, to Seek Nadler’s N.Y. Congressional Seat",
+    "link": "https://www.nytimes.com/2025/11/11/nyregion/jack-schlossberg-congress-run.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-06-51-13 +0000"
+  },
+  {
+    "headline": "LVMH Acquires Minority Stake in Swiss Watchmaker La Joux-Perret",
+    "link": "https://www.wsj.com/business/deals/lvmh-acquires-minority-stake-in-swiss-watchmaker-la-joux-perret-b0f0b418?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-12-06-47-00 +0000"
+  },
+  {
+    "headline": "LVMH Acquires Minority Stake in Swiss Watchmaker La Joux-Perret",
+    "link": "https://www.wsj.com/business/deals/lvmh-acquires-minority-stake-in-swiss-watchmaker-la-joux-perret-b0f0b418?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-12-06-47-00 +0000"
+  },
+  {
+    "headline": "Olympic figure skating legend Surya Bonaly reveals her medals were stolen from Vegas home while she was away caring for cancer-stricken mother",
+    "link": "https://nypost.com/2025/11/12/us-news/olympic-figure-skating-icon-surya-bonaly-has-medals-stolen-from-her-las-vegas-home-during-burglary-while-caring-for-her-sick-mother/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-34-16 +0000"
+  },
+  {
+    "headline": "Turkish military cargo plane crashes, killing 20 people on board",
+    "link": "https://nypost.com/2025/11/12/world-news/turkey-military-plane-crash-kills-20-personnel-near-georgia-azerbaijan-border/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-27-45 +0000"
+  },
+  {
+    "headline": "Jack Schlossberg, controversial  grandson of JFK, to launch campaign for Nadler’s New York congressional seat",
+    "link": "https://nypost.com/2025/11/12/us-news/jack-schlossberg-grandson-of-jfk-to-launch-campaign-for-nadlers-new-york-congressional-seat/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-14-24 +0000"
+  },
+  {
+    "headline": "Jack Schlossberg, controversial  grandson of JFK, to launch campaign for Nadler’s New York congressional seat",
+    "link": "https://nypost.com/2025/11/12/us-news/jack-schlossberg-grandson-of-jfk-to-launch-campaign-for-nadlers-new-york-congressional-seat/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-06-14-24 +0000"
+  },
+  {
+    "headline": "Irish Government Might See Boost to Tax Revenues From AI, Weight-Loss Drugs",
+    "link": "https://www.wsj.com/economy/global/irish-government-might-see-boost-to-tax-revenues-from-ai-weight-loss-drugs-c1fdce1b",
+    "source": "wsj",
+    "pubdate": "2025-11-12-05-56-00 +0000"
+  },
+  {
     "headline": "Trump pardons record-breaking trail runner who took prohibited detour as he ran up and down Wyoming’s Grand Teton",
     "link": "https://nypost.com/2025/11/12/us-news/trump-pardons-trail-runner-who-took-prohibited-detour-as-he-ran-up-and-down-wyomings-grand-teton-in-record-time/",
     "source": "nypost",
@@ -162,7 +216,7 @@
     "pubdate": "2025-11-12-03-30-21 +0000"
   },
   {
-    "headline": "Australia's spy chief accuses China of targeting key infrastructure",
+    "headline": "Australia at risk of 'high-impact sabotage' from China, says spy chief",
     "link": "https://www.bbc.com/news/articles/cg7n43emvejo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-12-03-27-44 +0000"
@@ -190,12 +244,6 @@
     "link": "https://www.nytimes.com/2025/11/11/us/politics/trump-veterans-day-speech-shutdown.html",
     "source": "nyt",
     "pubdate": "2025-11-12-03-25-01 +0000"
-  },
-  {
-    "headline": "Jack Schlossberg, Kennedy Heir, to Seek Nadler’s N.Y. Congressional Seat",
-    "link": "https://www.nytimes.com/2025/11/11/nyregion/jack-schlossberg-congress-run.html",
-    "source": "nyt",
-    "pubdate": "2025-11-12-03-20-30 +0000"
   },
   {
     "headline": "Supreme Court Extends Order Allowing Limits on Food Stamp Payments",
@@ -430,6 +478,12 @@
     "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-supported-by-bojs-planned-purchases-dba3a34a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-12-00-26-00 +0000"
+  },
+  {
+    "headline": "Israel has destroyed more than 1,500 buildings in Gaza since ceasefire",
+    "link": "https://www.bbc.com/news/articles/c0mxylxw48yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-12-00-25-31 +0000"
   },
   {
     "headline": "Bill de Blasio’s girlfriend outed as South Tucson mayor, mom of 2 Roxanna Valenzuela",
@@ -738,12 +792,6 @@
     "pubdate": "2025-11-11-23-29-01 +0000"
   },
   {
-    "headline": "NY school official under fire for calling Zohran Mamdani win ‘Islamic takeover of Western society’",
-    "link": "https://nypost.com/2025/11/11/us-news/ny-school-official-under-fire-for-calling-zohran-mamdani-win-islamic-takeover-of-western-society/",
-    "source": "nypost",
-    "pubdate": "2025-11-11-23-24-34 +0000"
-  },
-  {
     "headline": "Lib Dems call for 5% VAT cut for pubs and restaurants",
     "link": "https://www.bbc.com/news/articles/c77zy6m842do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -766,12 +814,6 @@
     "link": "https://nypost.com/2025/11/11/lifestyle/saks-off-fifth-closing-9-stores-in-the-us/",
     "source": "nypost",
     "pubdate": "2025-11-11-23-18-21 +0000"
-  },
-  {
-    "headline": "Heart-pounding video shows wild NYPD foot chase of armed suspect in the Bronx: ‘That’s two’",
-    "link": "https://nypost.com/2025/11/11/us-news/heart-pounding-video-shows-wild-nypd-foot-chase-of-armed-suspect-in-the-bronx/",
-    "source": "nypost",
-    "pubdate": "2025-11-11-23-17-00 +0000"
   },
   {
     "headline": "Tense air traffic control audio captures jets' near-miss during LAX takeoff",
@@ -1398,6 +1440,12 @@
     "pubdate": "2025-11-11-18-16-47 +0000"
   },
   {
+    "headline": "Hamas fighters trapped in tunnels present new obstacle to Gaza ceasefire progress",
+    "link": "https://www.bbc.com/news/articles/c8912d7jxl2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-11-18-16-47 +0000"
+  },
+  {
     "headline": "Softbank sells entire $5.8B Nvidia stake as it goes ‘all in’ on OpenAI bet",
     "link": "https://nypost.com/2025/11/11/business/softbank-sells-entire-5-8b-nvidia-stake-as-it-goes-all-in-on-openai-bet/",
     "source": "nypost",
@@ -1999,12 +2047,6 @@
   },
   {
     "headline": "ADP Estimates Private Sector Was Losing Jobs in October",
-    "link": "https://www.wsj.com/economy/adp-estimates-private-sector-was-losing-jobs-in-october-d9118c97?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-11-13-48-00 +0000"
-  },
-  {
-    "headline": "ADP Estimates Private Sector Was Losing Jobs in October",
     "link": "https://www.wsj.com/economy/adp-estimates-private-sector-was-losing-jobs-in-october-d9118c97",
     "source": "wsj",
     "pubdate": "2025-11-11-13-48-00 +0000"
@@ -2136,12 +2178,6 @@
     "pubdate": "2025-11-11-11-31-00 +0000"
   },
   {
-    "headline": "U.S. Small-Business Sentiment Slides on Lower Profits",
-    "link": "https://www.wsj.com/business/entrepreneurship/u-s-small-business-sentiment-slides-on-lower-profits-6303f464",
-    "source": "wsj",
-    "pubdate": "2025-11-11-11-31-00 +0000"
-  },
-  {
     "headline": "Reform UK says BBC 'infected with left-wing bias'",
     "link": "https://www.bbc.com/news/videos/cwy5k7nwyygo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2178,14 +2214,14 @@
     "pubdate": "2025-11-11-11-00-00 +0000"
   },
   {
-    "headline": "Fast-moving atmospheric river storm could bring four days of rain to California",
-    "link": "https://www.latimes.com/california/story/2025-11-11/california-atmospheric-river-storm-this-week",
+    "headline": "LAFD knew of firefighter complaints about Lachman mop-up and said nothing",
+    "link": "https://www.latimes.com/california/story/2025-11-11/lafd-knew-of-firefighter-complaints-about-lachman-mop-up-and-said-nothing",
     "source": "latimes",
     "pubdate": "2025-11-11-11-00-00 +0000"
   },
   {
-    "headline": "LAFD knew of firefighter complaints about Lachman mop-up and said nothing",
-    "link": "https://www.latimes.com/california/story/2025-11-11/lafd-knew-of-firefighter-complaints-about-lachman-mop-up-and-said-nothing",
+    "headline": "Fast-moving atmospheric river storm could bring four days of rain to California",
+    "link": "https://www.latimes.com/california/story/2025-11-11/california-atmospheric-river-storm-this-week",
     "source": "latimes",
     "pubdate": "2025-11-11-11-00-00 +0000"
   },
@@ -2464,17 +2500,5 @@
     "link": "https://www.washingtonpost.com/world/2025/11/11/georgia-elections-eu-russia-opposition/",
     "source": "wapo",
     "pubdate": "2025-11-11-08-00-00 +0000"
-  },
-  {
-    "headline": "'There was blood everywhere': Delhi residents recount horror of huge car explosion",
-    "link": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-11-07-49-17 +0000"
-  },
-  {
-    "headline": "'There was blood everywhere': Delhi residents recount horror of huge car explosion",
-    "link": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-11-07-49-17 +0000"
   }
 ]
