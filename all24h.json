@@ -1,5 +1,95 @@
 [
   {
+    "headline": "What if Democrats’ Big Shutdown Loss Turns Out to Be a Win?",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-02-22-09 +0000"
+  },
+  {
+    "headline": "Duffy Won’t Give Timeline to Restore Flights as Shutdown Appears Near End",
+    "link": "https://www.nytimes.com/2025/11/11/us/flights-canceled-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-02-13-54 +0000"
+  },
+  {
+    "headline": "Lefty Seattle mayoral challenger leads by razor-thin margin — while her parents in NY send her money for expenses",
+    "link": "https://nypost.com/2025/11/11/us-news/seattle-mayoral-challenger-katie-wilson-leads-by-razor-thin-margin-as-parents-send-her-cash/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-02-13-38 +0000"
+  },
+  {
+    "headline": "Lefty Seattle mayoral challenger leads by razor-thin margin — while her parents in NY send her money for expenses",
+    "link": "https://nypost.com/2025/11/11/us-news/seattle-mayoral-challenger-katie-wilson-leads-by-razor-thin-margin-as-parents-send-her-cash/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-02-13-38 +0000"
+  },
+  {
+    "headline": "As data went dark from the government shutdown, the Federal Reserve’s inflation hawks pushed to pause rate cuts at a contentious October meeting. The divide might not end soon.",
+    "link": "https://www.wsj.com/economy/central-banking/the-fed-is-increasingly-torn-over-a-december-rate-cut-48a26aad",
+    "source": "wsj",
+    "pubdate": "2025-11-12-02-00-00 +0000"
+  },
+  {
+    "headline": "FBI Director Kash Patel had a whirlwind week during the government shutdown, including a trip on the bureau jet to the ‘Boondoggle Ranch’ in Texas.",
+    "link": "https://www.wsj.com/politics/policy/kash-patel-private-jet-flights-fbi-197da8fd",
+    "source": "wsj",
+    "pubdate": "2025-11-12-02-00-00 +0000"
+  },
+  {
+    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-55-16 +0000"
+  },
+  {
+    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-55-16 +0000"
+  },
+  {
+    "headline": "Johnson to Seat Grijalva, Seven Weeks After She Was Elected",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/adelita-grijalva-swearing-in-congress.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-46-30 +0000"
+  },
+  {
+    "headline": "Johnson to Seat Grijalva, Seven Weeks After She Was Elected",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/adelita-grijalva-swearing-in-congress.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-46-30 +0000"
+  },
+  {
+    "headline": "Oil Edges Lower in Possible Technical Correction",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-in-possible-technical-correction-bd6e603a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-12-01-46-00 +0000"
+  },
+  {
+    "headline": "Can we ‘reform’ the City Charter without addressing economic inequality?",
+    "link": "https://48hills.org/2025/11/can-we-reform-the-city-charter-without-addressing-economic-inequality/",
+    "source": "48hills",
+    "pubdate": "2025-11-12-01-44-49 +0000"
+  },
+  {
+    "headline": "Residents of ‘Prince Andrew Road’ urge officials to change street name: ‘An embarrassing association’",
+    "link": "https://nypost.com/2025/11/11/world-news/residents-of-prince-andrew-road-urge-officials-to-change-street-name-an-embarrassing-association/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-01-39-51 +0000"
+  },
+  {
+    "headline": "Harvard Says It’s Handing Out Too Many A’s. Students Are Fighting Back.",
+    "link": "https://www.wsj.com/us-news/education/harvard-grade-inflation-report-reaction-849ba126",
+    "source": "wsj",
+    "pubdate": "2025-11-12-01-30-00 +0000"
+  },
+  {
+    "headline": "Arrival of U.S.’s Largest Warship Ratchets Up Pressure on Venezuela",
+    "link": "https://www.wsj.com/world/americas/arrival-of-u-s-s-largest-warship-ratchets-up-pressure-on-venezuela-b520463e",
+    "source": "wsj",
+    "pubdate": "2025-11-12-01-16-00 +0000"
+  },
+  {
     "headline": "Israeli settlers attack 2 occupied West Bank villages as violence against Palestinians surges",
     "link": "https://www.cbc.ca/news/world/west-bank-israeli-settler-attacks-9.6975200?cmp=rss",
     "source": "cbc",
@@ -72,12 +162,6 @@
     "pubdate": "2025-11-12-00-31-00 +0000"
   },
   {
-    "headline": "Duffy Won’t Give Timeline to Restore Flights as Shutdown Appears Near End",
-    "link": "https://www.nytimes.com/2025/11/11/us/flights-canceled-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-11-12-00-29-57 +0000"
-  },
-  {
     "headline": "Elon Musk’s SpaceX beats Jeff Bezos’ Blue Origin into the record books yet again",
     "link": "https://nypost.com/2025/11/11/us-news/elon-musks-spacex-beats-jeff-bezos-blue-origins-into-the-record-books-yet-again/",
     "source": "nypost",
@@ -90,7 +174,7 @@
     "pubdate": "2025-11-12-00-26-00 +0000"
   },
   {
-    "headline": "Bill de Blasio’s girlfriend outed as South Tucson mayor, married mom Roxanna Valenzuela",
+    "headline": "Bill de Blasio’s girlfriend outed as South Tucson mayor, mom of 2 Roxanna Valenzuela",
     "link": "https://nypost.com/2025/11/11/us-news/bill-de-blasios-girlfriend-outed-as-south-tucson-mayor-married-mom-roxanna-valenzuela/",
     "source": "nypost",
     "pubdate": "2025-11-12-00-23-57 +0000"
@@ -192,13 +276,13 @@
     "pubdate": "2025-11-12-00-03-55 +0000"
   },
   {
-    "headline": "UK toy sales rise as 'kidults' turn to Lego and Pokémon",
+    "headline": "UK toy sales up as 'kidults' buy Lego and Pokémon",
     "link": "https://www.bbc.com/news/articles/cd04md5rx1no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-12-00-03-26 +0000"
   },
   {
-    "headline": "UK toy sales rise as 'kidults' turn to Lego and Pokémon",
+    "headline": "UK toy sales up as 'kidults' buy Lego and Pokémon",
     "link": "https://www.bbc.com/news/articles/cd04md5rx1no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-12-00-03-26 +0000"
@@ -516,12 +600,6 @@
     "pubdate": "2025-11-11-22-55-43 +0000"
   },
   {
-    "headline": "What if Democrats’ Big Shutdown Loss Turns Out to Be a Win?",
-    "link": "https://www.nytimes.com/2025/11/11/us/politics/democrats-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-22-55-43 +0000"
-  },
-  {
     "headline": "Moment newly opened bridge partially collapses in China",
     "link": "https://www.bbc.com/news/videos/c231yry75m3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -580,12 +658,6 @@
     "link": "https://www.wsj.com/opinion/beef-prices-donald-trump-joe-biden-elizabeth-warren-052ccd92?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-11-22-30-00 +0000"
-  },
-  {
-    "headline": "Elderly couple honored for caring for long-neglected World War I memorial owned by NYC",
-    "link": "https://nypost.com/2025/11/11/us-news/elderly-couple-honored-for-caring-for-long-neglected-war-memorial-owned-by-nyc/",
-    "source": "nypost",
-    "pubdate": "2025-11-11-22-27-40 +0000"
   },
   {
     "headline": "Opinion | Syria Comes to Washington—at Long Last",
@@ -648,12 +720,6 @@
     "pubdate": "2025-11-11-22-00-46 +0000"
   },
   {
-    "headline": "Arrival of U.S.’s Largest Warship Ratchets Up Pressure on Venezuela",
-    "link": "https://www.wsj.com/world/americas/arrival-of-u-s-s-largest-warship-ratchets-up-pressure-on-venezuela-b520463e",
-    "source": "wsj",
-    "pubdate": "2025-11-11-21-58-00 +0000"
-  },
-  {
     "headline": "Basic Materials Roundup: Market Talk",
     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-ddf89ce0?mod=rss_markets_main",
     "source": "wsj",
@@ -694,18 +760,6 @@
     "link": "https://www.wsj.com/opinion/the-heritage-foundation-loses-its-way-5f958d03?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-11-21-48-00 +0000"
-  },
-  {
-    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
-    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-21-46-39 +0000"
-  },
-  {
-    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
-    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-21-46-39 +0000"
   },
   {
     "headline": "Government Shutdown Nears End, Lifting Investors’ Spirits—and Stocks",
@@ -2172,7 +2226,7 @@
     "pubdate": "2025-11-11-09-00-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Jumps, Nasdaq Slips; ADP Data Points to Softer Jobs Market",
+    "headline": "Stock Market News, Nov. 11, 2025: Dow Jumps, Nasdaq Slips; ADP Data Points to Softer Jobs Market",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-11-08-43-05 +0000"
@@ -2286,18 +2340,6 @@
     "pubdate": "2025-11-11-04-00-00 +0000"
   },
   {
-    "headline": "China Hatches Plan to Keep U.S. Military From Getting Its Rare-Earth Magnets",
-    "link": "https://www.wsj.com/world/china/china-hatches-plan-to-keep-u-s-military-from-getting-its-rare-earth-magnets-f349ee65?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-11-04-00-00 +0000"
-  },
-  {
-    "headline": "Trump Pardons the Husband of a Republican Congressional Ally",
-    "link": "https://www.nytimes.com/2025/11/10/us/politics/trump-pardon-republican-harshbarger.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-03-56-31 +0000"
-  },
-  {
     "headline": "Trump Pardons the Husband of a Republican Congressional Ally",
     "link": "https://www.nytimes.com/2025/11/10/us/politics/trump-pardon-republican-harshbarger.html",
     "source": "nyt",
@@ -2404,95 +2446,5 @@
     "link": "https://www.bbc.com/news/articles/c051yjv90dmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-11-02-29-59 +0000"
-  },
-  {
-    "headline": "TikTok influencer executed by armed men in Mali: mayor",
-    "link": "https://www.cbc.ca/news/world/mali-influencer-killed-9.6974441?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-11-02-22-47 +0000"
-  },
-  {
-    "headline": "TPG to Seek Bids for Southeast Asia School Operator Valued at Up to $2 Billion",
-    "link": "https://www.wsj.com/business/deals/tpg-to-seek-bids-for-southeast-asia-school-operator-valued-at-up-to-2-billion-aa8cf8c1?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-11-02-22-00 +0000"
-  },
-  {
-    "headline": "Alleged underwear thief breaks into California sorority, watches women shower",
-    "link": "https://www.latimes.com/california/story/2025-11-10/alleged-underwear-thief-breaks-into-sorority-watches-women-shower-police-say",
-    "source": "latimes",
-    "pubdate": "2025-11-11-02-16-11 +0000"
-  },
-  {
-    "headline": "Trump Threatens to Sue the BBC for $1 Billion After Jan. 6 Documentary",
-    "link": "https://www.nytimes.com/2025/11/10/world/europe/trump-bbc-lawsuit-documentary.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-02-12-03 +0000"
-  },
-  {
-    "headline": "Trump Threatens to Sue the BBC for $1 Billion After Jan. 6 Documentary",
-    "link": "https://www.nytimes.com/2025/11/10/world/europe/trump-bbc-lawsuit-documentary.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-02-12-03 +0000"
-  },
-  {
-    "headline": "Flight Delays Mount as FAA Restrictions Stretch On. Here’s What to Know.",
-    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3",
-    "source": "wsj",
-    "pubdate": "2025-11-11-01-56-00 +0000"
-  },
-  {
-    "headline": "Flight Delays Mount as FAA Restrictions Stretch On. Here’s What to Know.",
-    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3",
-    "source": "wsj",
-    "pubdate": "2025-11-11-01-56-00 +0000"
-  },
-  {
-    "headline": "Flight Delays Mount as FAA Restrictions Stretch On. Here’s What to Know.",
-    "link": "https://www.wsj.com/us-news/faa-flight-cancellations-delays-government-shutdown-54ab5be3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-11-01-56-00 +0000"
-  },
-  {
-    "headline": "18 injured in people carrier crash at Washington-area airport",
-    "link": "https://www.bbc.com/news/articles/c0jdyw24782o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-11-01-55-05 +0000"
-  },
-  {
-    "headline": "Trump's threat of a billion-dollar lawsuit adds to the BBC's existential crisis",
-    "link": "https://www.cbc.ca/news/world/bbc-trump-speech-9.6973686?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-11-01-44-14 +0000"
-  },
-  {
-    "headline": "Syria Joins Coalition Against Islamic State as Nation’s Leader Visits Trump",
-    "link": "https://www.wsj.com/world/middle-east/syria-to-join-coalition-against-islamic-state-as-countrys-president-visits-trump-ed16328c",
-    "source": "wsj",
-    "pubdate": "2025-11-11-01-40-00 +0000"
-  },
-  {
-    "headline": "S.F. attorneys ask judge to halt extended detentions in ICE holding cells",
-    "link": "https://missionlocal.org/2025/11/s-f-attorneys-ask-judge-to-halt-extended-detentions-at-ice-holding-cells/",
-    "source": "missionlocal",
-    "pubdate": "2025-11-11-01-37-56 +0000"
-  },
-  {
-    "headline": "Syrian president meets with Trump in White House after unlikely ascent",
-    "link": "https://www.washingtonpost.com/world/2025/11/10/sharaa-trump-white-house-syria/",
-    "source": "wapo",
-    "pubdate": "2025-11-11-01-34-01 +0000"
-  },
-  {
-    "headline": "Glass Skin and Snail Mucin: South Korea’s Journey to Global Beauty Power",
-    "link": "https://www.nytimes.com/2025/11/10/business/south-korea-k-beauty-amorepacific.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-01-25-14 +0000"
-  },
-  {
-    "headline": "Glass Skin and Snail Mucin: South Korea’s Journey to Global Beauty Power",
-    "link": "https://www.nytimes.com/2025/11/10/business/south-korea-k-beauty-amorepacific.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-01-25-14 +0000"
   }
 ]
