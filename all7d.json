@@ -1,5 +1,95 @@
 [
   {
+    "headline": "What if Democrats’ Big Shutdown Loss Turns Out to Be a Win?",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/democrats-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-02-22-09 +0000"
+  },
+  {
+    "headline": "Duffy Won’t Give Timeline to Restore Flights as Shutdown Appears Near End",
+    "link": "https://www.nytimes.com/2025/11/11/us/flights-canceled-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-02-13-54 +0000"
+  },
+  {
+    "headline": "Lefty Seattle mayoral challenger leads by razor-thin margin — while her parents in NY send her money for expenses",
+    "link": "https://nypost.com/2025/11/11/us-news/seattle-mayoral-challenger-katie-wilson-leads-by-razor-thin-margin-as-parents-send-her-cash/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-02-13-38 +0000"
+  },
+  {
+    "headline": "Lefty Seattle mayoral challenger leads by razor-thin margin — while her parents in NY send her money for expenses",
+    "link": "https://nypost.com/2025/11/11/us-news/seattle-mayoral-challenger-katie-wilson-leads-by-razor-thin-margin-as-parents-send-her-cash/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-02-13-38 +0000"
+  },
+  {
+    "headline": "As data went dark from the government shutdown, the Federal Reserve’s inflation hawks pushed to pause rate cuts at a contentious October meeting. The divide might not end soon.",
+    "link": "https://www.wsj.com/economy/central-banking/the-fed-is-increasingly-torn-over-a-december-rate-cut-48a26aad",
+    "source": "wsj",
+    "pubdate": "2025-11-12-02-00-00 +0000"
+  },
+  {
+    "headline": "FBI Director Kash Patel had a whirlwind week during the government shutdown, including a trip on the bureau jet to the ‘Boondoggle Ranch’ in Texas.",
+    "link": "https://www.wsj.com/politics/policy/kash-patel-private-jet-flights-fbi-197da8fd",
+    "source": "wsj",
+    "pubdate": "2025-11-12-02-00-00 +0000"
+  },
+  {
+    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-55-16 +0000"
+  },
+  {
+    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-55-16 +0000"
+  },
+  {
+    "headline": "Johnson to Seat Grijalva, Seven Weeks After She Was Elected",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/adelita-grijalva-swearing-in-congress.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-46-30 +0000"
+  },
+  {
+    "headline": "Johnson to Seat Grijalva, Seven Weeks After She Was Elected",
+    "link": "https://www.nytimes.com/2025/11/11/us/politics/adelita-grijalva-swearing-in-congress.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-01-46-30 +0000"
+  },
+  {
+    "headline": "Oil Edges Lower in Possible Technical Correction",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-in-possible-technical-correction-bd6e603a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-12-01-46-00 +0000"
+  },
+  {
+    "headline": "Can we ‘reform’ the City Charter without addressing economic inequality?",
+    "link": "https://48hills.org/2025/11/can-we-reform-the-city-charter-without-addressing-economic-inequality/",
+    "source": "48hills",
+    "pubdate": "2025-11-12-01-44-49 +0000"
+  },
+  {
+    "headline": "Residents of ‘Prince Andrew Road’ urge officials to change street name: ‘An embarrassing association’",
+    "link": "https://nypost.com/2025/11/11/world-news/residents-of-prince-andrew-road-urge-officials-to-change-street-name-an-embarrassing-association/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-01-39-51 +0000"
+  },
+  {
+    "headline": "Harvard Says It’s Handing Out Too Many A’s. Students Are Fighting Back.",
+    "link": "https://www.wsj.com/us-news/education/harvard-grade-inflation-report-reaction-849ba126",
+    "source": "wsj",
+    "pubdate": "2025-11-12-01-30-00 +0000"
+  },
+  {
+    "headline": "Arrival of U.S.’s Largest Warship Ratchets Up Pressure on Venezuela",
+    "link": "https://www.wsj.com/world/americas/arrival-of-u-s-s-largest-warship-ratchets-up-pressure-on-venezuela-b520463e",
+    "source": "wsj",
+    "pubdate": "2025-11-12-01-16-00 +0000"
+  },
+  {
     "headline": "Israeli settlers attack 2 occupied West Bank villages as violence against Palestinians surges",
     "link": "https://www.cbc.ca/news/world/west-bank-israeli-settler-attacks-9.6975200?cmp=rss",
     "source": "cbc",
@@ -72,12 +162,6 @@
     "pubdate": "2025-11-12-00-31-00 +0000"
   },
   {
-    "headline": "Duffy Won’t Give Timeline to Restore Flights as Shutdown Appears Near End",
-    "link": "https://www.nytimes.com/2025/11/11/us/flights-canceled-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-11-12-00-29-57 +0000"
-  },
-  {
     "headline": "Elon Musk’s SpaceX beats Jeff Bezos’ Blue Origin into the record books yet again",
     "link": "https://nypost.com/2025/11/11/us-news/elon-musks-spacex-beats-jeff-bezos-blue-origins-into-the-record-books-yet-again/",
     "source": "nypost",
@@ -90,7 +174,7 @@
     "pubdate": "2025-11-12-00-26-00 +0000"
   },
   {
-    "headline": "Bill de Blasio’s girlfriend outed as South Tucson mayor, married mom Roxanna Valenzuela",
+    "headline": "Bill de Blasio’s girlfriend outed as South Tucson mayor, mom of 2 Roxanna Valenzuela",
     "link": "https://nypost.com/2025/11/11/us-news/bill-de-blasios-girlfriend-outed-as-south-tucson-mayor-married-mom-roxanna-valenzuela/",
     "source": "nypost",
     "pubdate": "2025-11-12-00-23-57 +0000"
@@ -192,13 +276,13 @@
     "pubdate": "2025-11-12-00-03-55 +0000"
   },
   {
-    "headline": "UK toy sales rise as 'kidults' turn to Lego and Pokémon",
+    "headline": "UK toy sales up as 'kidults' buy Lego and Pokémon",
     "link": "https://www.bbc.com/news/articles/cd04md5rx1no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-12-00-03-26 +0000"
   },
   {
-    "headline": "UK toy sales rise as 'kidults' turn to Lego and Pokémon",
+    "headline": "UK toy sales up as 'kidults' buy Lego and Pokémon",
     "link": "https://www.bbc.com/news/articles/cd04md5rx1no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-12-00-03-26 +0000"
@@ -516,12 +600,6 @@
     "pubdate": "2025-11-11-22-55-43 +0000"
   },
   {
-    "headline": "What if Democrats’ Big Shutdown Loss Turns Out to Be a Win?",
-    "link": "https://www.nytimes.com/2025/11/11/us/politics/democrats-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-22-55-43 +0000"
-  },
-  {
     "headline": "Moment newly opened bridge partially collapses in China",
     "link": "https://www.bbc.com/news/videos/c231yry75m3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -580,12 +658,6 @@
     "link": "https://www.wsj.com/opinion/beef-prices-donald-trump-joe-biden-elizabeth-warren-052ccd92?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-11-22-30-00 +0000"
-  },
-  {
-    "headline": "Elderly couple honored for caring for long-neglected World War I memorial owned by NYC",
-    "link": "https://nypost.com/2025/11/11/us-news/elderly-couple-honored-for-caring-for-long-neglected-war-memorial-owned-by-nyc/",
-    "source": "nypost",
-    "pubdate": "2025-11-11-22-27-40 +0000"
   },
   {
     "headline": "Opinion | Syria Comes to Washington—at Long Last",
@@ -648,12 +720,6 @@
     "pubdate": "2025-11-11-22-00-46 +0000"
   },
   {
-    "headline": "Arrival of U.S.’s Largest Warship Ratchets Up Pressure on Venezuela",
-    "link": "https://www.wsj.com/world/americas/arrival-of-u-s-s-largest-warship-ratchets-up-pressure-on-venezuela-b520463e",
-    "source": "wsj",
-    "pubdate": "2025-11-11-21-58-00 +0000"
-  },
-  {
     "headline": "Basic Materials Roundup: Market Talk",
     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-ddf89ce0?mod=rss_markets_main",
     "source": "wsj",
@@ -694,18 +760,6 @@
     "link": "https://www.wsj.com/opinion/the-heritage-foundation-loses-its-way-5f958d03?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-11-21-48-00 +0000"
-  },
-  {
-    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
-    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-21-46-39 +0000"
-  },
-  {
-    "headline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
-    "link": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-21-46-39 +0000"
   },
   {
     "headline": "Government Shutdown Nears End, Lifting Investors’ Spirits—and Stocks",
@@ -2172,7 +2226,7 @@
     "pubdate": "2025-11-11-09-00-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Jumps, Nasdaq Slips; ADP Data Points to Softer Jobs Market",
+    "headline": "Stock Market News, Nov. 11, 2025: Dow Jumps, Nasdaq Slips; ADP Data Points to Softer Jobs Market",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-11-08-43-05 +0000"
@@ -2284,18 +2338,6 @@
     "link": "https://www.wsj.com/world/china/china-hatches-plan-to-keep-u-s-military-from-getting-its-rare-earth-magnets-f349ee65",
     "source": "wsj",
     "pubdate": "2025-11-11-04-00-00 +0000"
-  },
-  {
-    "headline": "China Hatches Plan to Keep U.S. Military From Getting Its Rare-Earth Magnets",
-    "link": "https://www.wsj.com/world/china/china-hatches-plan-to-keep-u-s-military-from-getting-its-rare-earth-magnets-f349ee65?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-11-04-00-00 +0000"
-  },
-  {
-    "headline": "Trump Pardons the Husband of a Republican Congressional Ally",
-    "link": "https://www.nytimes.com/2025/11/10/us/politics/trump-pardon-republican-harshbarger.html",
-    "source": "nyt",
-    "pubdate": "2025-11-11-03-56-31 +0000"
   },
   {
     "headline": "Trump Pardons the Husband of a Republican Congressional Ally",
@@ -2682,12 +2724,6 @@
     "pubdate": "2025-11-10-23-27-32 +0000"
   },
   {
-    "headline": "Jeanne Shaheen Faces Shutdown Blowback From Her Daughter",
-    "link": "https://www.nytimes.com/2025/11/10/us/politics/jeanne-shaheen-stefany-shutdown-deal.html",
-    "source": "nyt",
-    "pubdate": "2025-11-10-23-22-08 +0000"
-  },
-  {
     "headline": "How Syria’s President Transformed His Image",
     "link": "https://www.nytimes.com/video/world/middleeast/100000010515338/how-syrias-president-transformed-his-image.html",
     "source": "nyt",
@@ -2986,18 +3022,6 @@
     "link": "https://www.wsj.com/business/warren-buffett-letter-2025-takeaways-e7e0a578?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-10-21-16-00 +0000"
-  },
-  {
-    "headline": "Inside the hidden dangers of new tourist hotspot — after horrifying deaths of 2 best friends and American teacher and son",
-    "link": "https://nypost.com/2025/11/10/world-news/inside-the-hidden-dangers-of-tourist-hotspot-laos-after-4-deaths/",
-    "source": "nypost",
-    "pubdate": "2025-11-10-21-15-03 +0000"
-  },
-  {
-    "headline": "Trump pledges to ‘abide’ by deal to end government shutdown — but vows to upend Obamacare subsidies",
-    "link": "https://nypost.com/2025/11/10/us-news/trump-pledges-to-abide-by-deal-to-end-government-shutdown-but-vows-to-upend-obamacare-subsidies/",
-    "source": "nypost",
-    "pubdate": "2025-11-10-21-11-40 +0000"
   },
   {
     "headline": "Immigrant detention firm seeks immunity in case before Supreme Court",
@@ -3498,12 +3522,6 @@
     "pubdate": "2025-11-10-16-05-23 +0000"
   },
   {
-    "headline": "The ruling means the government will have to make the payments within 48 hours unless the Supreme Court intervenes",
-    "link": "https://www.wsj.com/politics/policy/appeals-court-wont-let-trump-administration-limit-snap-benefits-5608b1d4",
-    "source": "wsj",
-    "pubdate": "2025-11-10-16-05-00 +0000"
-  },
-  {
     "headline": "Urbanist think tank SPUR unveils plans to revamp S.F. charter",
     "link": "https://missionlocal.org/2025/11/spur-sf-charter-reform/",
     "source": "missionlocal",
@@ -3948,26 +3966,20 @@
     "pubdate": "2025-11-10-01-55-10 +0000"
   },
   {
-    "headline": "Lenny Wilkens, NBA Hall of Fame player and coach, dies at 88",
-    "link": "https://www.washingtonpost.com/obituaries/2025/11/09/lenny-wilkens-nba-player-coach-dead/",
-    "source": "wapo",
-    "pubdate": "2025-11-10-01-18-13 +0000"
-  },
-  {
     "headline": "BOJ Summary of Opinions Show Next Rate-Hike Nearing",
     "link": "https://www.wsj.com/economy/central-banking/boj-summary-of-opinions-show-next-rate-hike-nearing-6a55de60",
     "source": "wsj",
     "pubdate": "2025-11-10-01-02-00 +0000"
   },
   {
-    "headline": "It’s Getting Harder to Figure Out Whether You Live in a Flood Zone or Not",
-    "link": "https://www.wsj.com/us-news/lood-zone-risk-maps-15da3709",
+    "headline": "How Yale Escaped the Crackdown on Higher Education",
+    "link": "https://www.wsj.com/us-news/education/yale-trump-college-university-pressure-5316d26e",
     "source": "wsj",
     "pubdate": "2025-11-10-01-00-00 +0000"
   },
   {
-    "headline": "How Yale Escaped the Crackdown on Higher Education",
-    "link": "https://www.wsj.com/us-news/education/yale-trump-college-university-pressure-5316d26e",
+    "headline": "It’s Getting Harder to Figure Out Whether You Live in a Flood Zone or Not",
+    "link": "https://www.wsj.com/us-news/lood-zone-risk-maps-15da3709",
     "source": "wsj",
     "pubdate": "2025-11-10-01-00-00 +0000"
   },
@@ -5130,12 +5142,6 @@
     "pubdate": "2025-11-07-20-40-11 +0000"
   },
   {
-    "headline": "Win a pair of tickets to see Infinity Song, Cut Copy, Thundercat, Jesse McCartney",
-    "link": "https://48hills.org/2025/11/win-a-pair-of-tickets-to-see-infinity-song-cut-copy-thundercat-jesse-mccartney/",
-    "source": "48hills",
-    "pubdate": "2025-11-07-20-33-12 +0000"
-  },
-  {
     "headline": "Japanese Automakers Warn of Billions in Tariff Losses",
     "link": "https://www.nytimes.com/2025/11/07/business/japanese-automakers-tariff-losses.html",
     "source": "nyt",
@@ -5548,12 +5554,6 @@
     "link": "https://missionlocal.org/2025/11/sf-fire-mission-district-san-carlos/",
     "source": "missionlocal",
     "pubdate": "2025-11-07-07-04-55 +0000"
-  },
-  {
-    "headline": "Norway’s Central Bank Confirms It Is in No Rush to Lower Borrowing Costs Further",
-    "link": "https://www.wsj.com/articles/norways-central-bank-confirms-it-is-in-no-rush-to-lower-borrowing-costs-further-993dc76e",
-    "source": "wsj",
-    "pubdate": "2025-11-07-06-13-00 +0000"
   },
   {
     "headline": "The battle over Gaza's future: Why no-one can agree on the rebuild",
@@ -6472,17 +6472,5 @@
     "link": "https://www.wsj.com/world/russia/russias-new-war-griftersthe-black-widows-duping-soldiers-into-marriage-2d02c6a5",
     "source": "wsj",
     "pubdate": "2025-11-05-04-00-00 +0000"
-  },
-  {
-    "headline": "Mayor Bass lifts state of emergency on homelessness. But 'the crisis remains'",
-    "link": "https://www.latimes.com/california/story/2025-11-04/mayor-bass-lifts-state-of-emergency-on-homelessness-the-crisis-remains",
-    "source": "latimes",
-    "pubdate": "2025-11-05-02-05-45 +0000"
-  },
-  {
-    "headline": "Freed in Trump deal: Prisoners in exile tell of brutality behind bars in Belarus",
-    "link": "https://www.bbc.com/news/articles/c4gkwrv3279o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-05-01-24-28 +0000"
   }
 ]
