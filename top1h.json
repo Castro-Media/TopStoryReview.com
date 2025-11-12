@@ -1,51 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-11-12-12-56-45 +0000",
+    "score": 44,
+    "pubdate": "2025-11-12-14-23-00 +0000",
+    "source": "wsj",
+    "headline": "Democratic members of the House Oversight Committee on Wednesday released new emails from Jeffrey Epstein in which he discussed Donald Trump, pushing the issue of their relationship back into the spotlight",
+    "link": "https://www.wsj.com/politics/policy/democrats-release-new-epstein-emails-referring-to-trump-ad8e5824"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-11-12-14-03-41 +0000",
+    "source": "nyt",
+    "headline": "Israel’s president says Trump asked him to pardon Netanyahu, who has not been convicted.",
+    "link": "https://www.nytimes.com/live/2025/11/12/us/trump-government-shutdown-news/israels-president-says-trump-asked-him-to-pardon-netanyahu-who-has-not-been-convicted"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-12-14-22-47 +0000",
+    "source": "nyt",
+    "headline": "Dale Romans Enters Kentucky Senate Race as Democrats’ Latest Long Shot",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/dale-romans-senate-kentucky-democrats.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-12-14-05-11 +0000",
+    "source": "nyt",
+    "headline": "Pakistan’s Army Chief Is Granted Sweeping Authority Over All Military Branches",
+    "link": "https://www.nytimes.com/2025/11/12/world/asia/pakistan-army-chief-power.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-12-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "For economists, the shutdown has been a daily struggle to find structure and meaning in a world without government data. “It’s a little sad.”",
+    "link": "https://www.wsj.com/economy/government-shutdown-reopen-economists-jobs-report-24741829"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-12-13-56-28 +0000",
     "source": "nypost",
-    "headline": "Rainbow flag-waving vandal defaced NYC churches with ‘anti Christian statements’",
-    "link": "https://nypost.com/2025/11/12/us-news/rainbow-flag-waving-vandal-defaced-nyc-churches-with-anti-christian-statements/"
+    "headline": "Jeffrey Epstein: Trump ‘asked Ghislaine Maxwell to stop’ recruiting girls from Mar-a-Lago spa",
+    "link": "https://nypost.com/2025/11/12/us-news/jeffrey-epstein-claimed-donald-trump-knew-about-the-girls-in-2019-email/"
   },
   {
-    "score": 9,
-    "pubdate": "2025-11-12-12-58-47 +0000",
+    "score": 12,
+    "pubdate": "2025-11-12-14-02-04 +0000",
     "source": "nyt",
-    "headline": "Trump Administration Plans to Send Border Patrol to Charlotte and New Orleans",
-    "link": "https://www.nytimes.com/2025/11/11/us/trump-border-patrol-charlotte-new-orleans.html"
+    "headline": "Turkish Military Plane Crashes in Georgia, Killing 20 Troops",
+    "link": "https://www.nytimes.com/2025/11/12/world/middleeast/turkey-military-plane-crash-georgia.html"
   },
   {
-    "score": 8,
-    "pubdate": "2025-11-12-13-00-00 +0000",
-    "source": "wapo",
-    "headline": "She saved a baby goat. Now they travel the country, share a bed.",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/11/12/goat-roadtrip-travel-animal-rescue/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-12-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Even When the Shutdown Ends, Flight Cancellations Won’t",
-    "link": "https://www.wsj.com/business/airlines/even-when-the-shutdown-ends-flight-cancellations-wont-b1c007bd?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-12-13-00-00 +0000",
+    "score": 12,
+    "pubdate": "2025-11-12-14-06-14 +0000",
     "source": "nyt",
-    "headline": "Jack Schlossberg, Social Media Provocateur, Gives Politics a Try",
-    "link": "https://www.nytimes.com/2025/11/11/style/jack-schlossberg-social-media-provocateur-gives-politics-a-try.html"
+    "headline": "How to Capture the Northern Lights With Just Your Smartphone",
+    "link": "https://www.nytimes.com/2025/11/12/us/how-to-photograph-northern-lights-iphone.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-11-12-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Clearlake to Double Assets With Nearly $1 Billion Deal",
-    "link": "https://www.wsj.com/finance/investing/clearlake-to-double-assets-with-nearly-1-billion-deal-58a5ea9e?mod=rss_markets_main"
+    "score": 12,
+    "pubdate": "2025-11-12-14-20-47 +0000",
+    "source": "nypost",
+    "headline": "Grandma allegedly ran over, killed grandson, 5, driving drunk at 7 a.m.: ‘Any parent’s worst nightmare’",
+    "link": "https://nypost.com/2025/11/12/us-news/grandma-killed-grandson-5-while-allegedly-driving-drunk-at-7-a-m-cops/"
   },
   {
-    "score": 3,
-    "pubdate": "2025-11-12-12-59-09 +0000",
-    "source": "bbc",
-    "headline": "Is the US government shutdown over, and why did it happen?",
-    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss"
+    "score": 10,
+    "pubdate": "2025-11-12-14-22-36 +0000",
+    "source": "cbc",
+    "headline": "French foreign minister, at G7 meeting in Canada, says U.S. boat strikes violate international law",
+    "link": "https://www.cbc.ca/news/world/france-us-boat-strikes-9.6975606?cmp=rss"
   }
 ]
