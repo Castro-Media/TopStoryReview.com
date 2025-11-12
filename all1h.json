@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "headline": "She saved a baby goat. Now they travel the country, share a bed.",
+    "link": "https://www.washingtonpost.com/lifestyle/2025/11/12/goat-roadtrip-travel-animal-rescue/",
+    "source": "wapo",
+    "pubdate": "2025-11-12-13-00-00 +0000"
+  },
+  {
+    "headline": "Even When the Shutdown Ends, Flight Cancellations Won’t",
+    "link": "https://www.wsj.com/business/airlines/even-when-the-shutdown-ends-flight-cancellations-wont-b1c007bd?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-12-13-00-00 +0000"
+  },
+  {
+    "headline": "Clearlake to Double Assets With Nearly $1 Billion Deal",
+    "link": "https://www.wsj.com/finance/investing/clearlake-to-double-assets-with-nearly-1-billion-deal-58a5ea9e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-12-13-00-00 +0000"
+  },
+  {
+    "headline": "Jack Schlossberg, Social Media Provocateur, Gives Politics a Try",
+    "link": "https://www.nytimes.com/2025/11/11/style/jack-schlossberg-social-media-provocateur-gives-politics-a-try.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-13-00-00 +0000"
+  },
+  {
+    "headline": "Is the US government shutdown over, and why did it happen?",
+    "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-12-12-59-09 +0000"
+  },
+  {
+    "headline": "Trump Administration Plans to Send Border Patrol to Charlotte and New Orleans",
+    "link": "https://www.nytimes.com/2025/11/11/us/trump-border-patrol-charlotte-new-orleans.html",
+    "source": "nyt",
+    "pubdate": "2025-11-12-12-58-47 +0000"
+  },
+  {
+    "headline": "Rainbow flag-waving vandal defaced NYC churches with ‘anti Christian statements’",
+    "link": "https://nypost.com/2025/11/12/us-news/rainbow-flag-waving-vandal-defaced-nyc-churches-with-anti-christian-statements/",
+    "source": "nypost",
+    "pubdate": "2025-11-12-12-56-45 +0000"
+  }
+]
