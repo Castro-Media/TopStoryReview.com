@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 24,
+    "pubdate": "2025-11-13-05-11-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
+    "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-13-05-06-31 +0000",
+    "source": "nyt",
+    "headline": "Trump Summons Lauren Boebert as He Pushes GOP to Block Epstein Vote",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-epstein-vote-boebert.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-13-05-01-00 +0000",
+    "source": "nypost",
+    "headline": "These NYC-area hospitals aced patient safety in new rankings — see which ones nearly flunked",
+    "link": "https://nypost.com/2025/11/13/health/nyc-area-hospitals-that-aced-flunked-patient-safety-in-new-rankings/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-13-05-01-12 +0000",
+    "source": "nyt",
+    "headline": "How France Remembers the November 2015 Terrorist Attacks in Paris",
+    "link": "https://www.nytimes.com/2025/11/13/world/europe/france-paris-terrorist-attacks-anniversary.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-13-05-49-00 +0000",
+    "source": "wsj",
+    "headline": "China ‘Singles’ Day’ Sales Show Modest Growth Amid Soft Consumer Demand",
+    "link": "https://www.wsj.com/business/retail/china-singles-day-sales-show-modest-growth-amid-soft-consumer-demand-a46d49a8?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-13-05-37-40 +0000",
+    "source": "nypost",
+    "headline": "NYC super, 41, killed during dispute with man trying to steal tenants’ packages: sources",
+    "link": "https://nypost.com/2025/11/13/us-news/nyc-super-killed-during-suspected-dispute-with-man-trying-to-steal-his-tenants-packages/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-13-05-48-37 +0000",
+    "source": "nyt",
+    "headline": "What Epstein’s Emails Claim About Trump’s Knowledge of His Conduct",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/epstein-emails-trump.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-13-05-26-00 +0000",
+    "source": "wsj",
+    "headline": "Defense-Tech Founder Faces Charges for Online Solicitation of Preteen",
+    "link": "https://www.wsj.com/us-news/law/defense-tech-founder-faces-charges-for-online-solicitation-of-preteen-71698331"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-13-05-15-18 +0000",
+    "source": "nyt",
+    "headline": "As Shutdown Ends, When Will SNAP and Air Travel Be Back to Normal?",
+    "link": "https://www.nytimes.com/2025/11/12/us/shutdown-travel-snap-backpay.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-13-05-14-00 +0000",
+    "source": "nypost",
+    "headline": "Mother and son found face up and mummified in NYC apartment",
+    "link": "https://nypost.com/2025/11/13/us-news/mother-and-son-found-face-up-and-mummified-in-nyc-apartment/"
+  }
+]
