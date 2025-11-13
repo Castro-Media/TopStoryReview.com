@@ -1,20 +1,20 @@
 [
   {
-    "score": 239,
+    "score": 233,
     "pubdate": "2025-11-13-01-03-00 +0000",
     "source": "wsj",
     "headline": "Democrats released new emails from Jeffrey Epstein in which the late financier discussed Donald Trump, prompting Republicans to accuse Democrats of cherry-picking and to release 20,000-plus pages of other Epstein documents",
     "link": "https://www.wsj.com/politics/policy/democrats-release-new-epstein-emails-referring-to-trump-ad8e5824"
   },
   {
-    "score": 114,
+    "score": 108,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
     "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
   },
   {
-    "score": 66,
+    "score": 64,
     "pubdate": "2025-11-13-11-00-00 +0000",
     "source": "latimes",
     "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
@@ -28,45 +28,45 @@
     "link": "https://www.nytimes.com/2025/11/13/us/politics/south-korea-workers-factory-return-georgia.html"
   },
   {
-    "score": 57,
-    "pubdate": "2025-11-12-20-09-00 +0000",
-    "source": "wsj",
-    "headline": "Atlanta Fed President Raphael Bostic will retire when his current five-year term expires at the end of next February",
-    "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
+    "score": 56,
+    "pubdate": "2025-11-12-19-28-42 +0000",
+    "source": "nypost",
+    "headline": "Michael Wolff told Epstein he should try to end Trump’s 2016 campaign to save himself",
+    "link": "https://nypost.com/2025/11/12/us-news/michael-wolff-told-jeffrey-epstein-he-could-end-trumps-2016-campaign/"
   },
   {
-    "score": 55,
-    "pubdate": "2025-11-12-21-54-00 +0000",
+    "score": 56,
+    "pubdate": "2025-11-13-16-08-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
+    "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-11-13-11-46-00 +0000",
     "source": "wsj",
     "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-36a39314?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7b0577a9?mod=rss_markets_main"
   },
   {
-    "score": 48,
+    "score": 51,
+    "pubdate": "2025-11-13-16-34-05 +0000",
+    "source": "nyt",
+    "headline": "Israeli Settlers Burn West Bank Mosque Amid Rise in Violent Attacks",
+    "link": "https://www.nytimes.com/2025/11/13/world/middleeast/israel-settlers-west-bank-mosque.html"
+  },
+  {
+    "score": 46,
     "pubdate": "2025-11-13-12-13-02 +0000",
     "source": "nypost",
     "headline": "Jeffrey Epstein gave ex-Clinton Treasury Secretary Larry Summers advice about women, emails show",
     "link": "https://nypost.com/2025/11/13/us-news/jeffrey-epstein-gave-ex-clinton-treasury-secretary-lawrence-summers-advice-about-women-emails-show/"
   },
   {
-    "score": 47,
-    "pubdate": "2025-11-13-14-51-33 +0000",
-    "source": "nypost",
-    "headline": "NY AG Letitia James, James Comey take on Trump’s US Attorney Lindsey Halligan — and try to get cases tossed",
-    "link": "https://nypost.com/2025/11/13/us-news/ny-ag-tish-james-lawyers-in-virginia-fed-to-argue-prosecutor-lindsey-halligan-was-wrongfully-appointed/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-11-13-14-08-09 +0000",
-    "source": "nypost",
-    "headline": "Middle school teacher allegedly had sex with student — then stalked him when he dumped her",
-    "link": "https://nypost.com/2025/11/13/us-news/pervy-teacher-allegedly-staked-teen-student-when-he-dumped-her/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-13-06-00-11 +0000",
-    "source": "bbc",
-    "headline": "Russia's attacks have ramped up - Ukraine is fighting to hold on through another winter",
-    "link": "https://www.bbc.com/news/articles/cly98qp99l8o?at_medium=RSS&at_campaign=rss"
+    "score": 44,
+    "pubdate": "2025-11-12-20-09-00 +0000",
+    "source": "wsj",
+    "headline": "Atlanta Fed President Raphael Bostic will retire when his current five-year term expires at the end of next February",
+    "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
   }
 ]
