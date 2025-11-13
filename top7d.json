@@ -1,6 +1,6 @@
 [
   {
-    "score": 343,
+    "score": 341,
     "pubdate": "2025-11-13-01-03-00 +0000",
     "source": "wsj",
     "headline": "Democrats released new emails from Jeffrey Epstein in which the late financier discussed Donald Trump, prompting Republicans to accuse Democrats of cherry-picking and to release 20,000-plus pages of other Epstein documents",
@@ -14,14 +14,14 @@
     "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
   },
   {
-    "score": 113,
+    "score": 112,
     "pubdate": "2025-11-13-16-08-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
     "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
-    "score": 108,
+    "score": 107,
     "pubdate": "2025-11-07-11-00-00 +0000",
     "source": "latimes",
     "headline": "Your flight was canceled amid FAA's cuts to air traffic. Here's what you can do about it",
@@ -29,17 +29,10 @@
   },
   {
     "score": 91,
-    "pubdate": "2025-11-12-20-09-00 +0000",
+    "pubdate": "2025-11-07-22-06-00 +0000",
     "source": "wsj",
-    "headline": "Atlanta Fed President Raphael Bostic will retire when his current five-year term expires at the end of next February",
-    "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
-  },
-  {
-    "score": 88,
-    "pubdate": "2025-11-12-05-01-07 +0000",
-    "source": "nyt",
-    "headline": "Xi’s Military Purges Show Unease About China’s Nuclear Forces",
-    "link": "https://www.nytimes.com/2025/11/12/world/asia/xi-trump-military-purges.html"
+    "headline": "Defense Secretary Pete Hegseth said that the Pentagon will shake up the way it buys weaponry, equipment and software by making purchases more quickly—and from a broader range of potential suppliers.",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-vows-to-put-u-s-weapons-production-on-wartime-footing-fe1bcb55"
   },
   {
     "score": 88,
@@ -50,10 +43,10 @@
   },
   {
     "score": 87,
-    "pubdate": "2025-11-13-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
-    "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
+    "pubdate": "2025-11-12-05-01-07 +0000",
+    "source": "nyt",
+    "headline": "Xi’s Military Purges Show Unease About China’s Nuclear Forces",
+    "link": "https://www.nytimes.com/2025/11/12/world/asia/xi-trump-military-purges.html"
   },
   {
     "score": 85,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Some South Korean Workers Return to Georgia Factory After U.S. Reissues Visas",
     "link": "https://www.nytimes.com/2025/11/13/us/politics/south-korea-workers-factory-return-georgia.html"
+  },
+  {
+    "score": 83,
+    "pubdate": "2025-11-13-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
+    "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
   }
 ]
