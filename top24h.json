@@ -1,13 +1,13 @@
 [
   {
-    "score": 233,
+    "score": 213,
     "pubdate": "2025-11-13-01-03-00 +0000",
     "source": "wsj",
     "headline": "Democrats released new emails from Jeffrey Epstein in which the late financier discussed Donald Trump, prompting Republicans to accuse Democrats of cherry-picking and to release 20,000-plus pages of other Epstein documents",
     "link": "https://www.wsj.com/politics/policy/democrats-release-new-epstein-emails-referring-to-trump-ad8e5824"
   },
   {
-    "score": 108,
+    "score": 109,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
@@ -15,27 +15,20 @@
   },
   {
     "score": 64,
-    "pubdate": "2025-11-13-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
-    "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
-  },
-  {
-    "score": 59,
     "pubdate": "2025-11-13-14-34-18 +0000",
     "source": "nyt",
     "headline": "Some South Korean Workers Return to Georgia Factory After U.S. Reissues Visas",
     "link": "https://www.nytimes.com/2025/11/13/us/politics/south-korea-workers-factory-return-georgia.html"
   },
   {
-    "score": 56,
-    "pubdate": "2025-11-12-19-28-42 +0000",
-    "source": "nypost",
-    "headline": "Michael Wolff told Epstein he should try to end Trump’s 2016 campaign to save himself",
-    "link": "https://nypost.com/2025/11/12/us-news/michael-wolff-told-jeffrey-epstein-he-could-end-trumps-2016-campaign/"
+    "score": 61,
+    "pubdate": "2025-11-13-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
+    "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2025-11-13-16-08-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
@@ -43,30 +36,37 @@
   },
   {
     "score": 54,
-    "pubdate": "2025-11-13-11-46-00 +0000",
+    "pubdate": "2025-11-12-21-54-00 +0000",
     "source": "wsj",
     "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7b0577a9?mod=rss_markets_main"
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-36a39314?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-13-16-34-05 +0000",
+    "score": 54,
+    "pubdate": "2025-11-13-17-22-19 +0000",
     "source": "nyt",
     "headline": "Israeli Settlers Burn West Bank Mosque Amid Rise in Violent Attacks",
     "link": "https://www.nytimes.com/2025/11/13/world/middleeast/israel-settlers-west-bank-mosque.html"
   },
   {
-    "score": 46,
-    "pubdate": "2025-11-13-12-13-02 +0000",
+    "score": 51,
+    "pubdate": "2025-11-13-17-01-23 +0000",
     "source": "nypost",
-    "headline": "Jeffrey Epstein gave ex-Clinton Treasury Secretary Larry Summers advice about women, emails show",
-    "link": "https://nypost.com/2025/11/13/us-news/jeffrey-epstein-gave-ex-clinton-treasury-secretary-lawrence-summers-advice-about-women-emails-show/"
+    "headline": "Rep. Anna Paulina Luna launches probe into wild claims rich ‘sniper tourists’ paid to shoot civilians —including kids — in Sarajevo",
+    "link": "https://nypost.com/2025/11/13/us-news/rep-anna-paulina-luna-launches-investigation-into-claims-sniper-tourists-paid-to-shoot-civilians-in-sarajevo-including-kids/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-12-20-09-00 +0000",
+    "score": 46,
+    "pubdate": "2025-11-13-10-30-00 +0000",
     "source": "wsj",
-    "headline": "Atlanta Fed President Raphael Bostic will retire when his current five-year term expires at the end of next February",
-    "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
+    "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
+    "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-11-13-17-18-34 +0000",
+    "source": "cbc",
+    "headline": "Trump-appointed attorneys have been disqualified 3 times now. Will the prosecutor who charged James Comey, Letitia James be next?",
+    "link": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss"
   }
 ]
