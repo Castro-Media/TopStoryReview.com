@@ -1,24 +1,17 @@
 [
   {
-    "score": 206,
+    "score": 219,
     "pubdate": "2025-11-13-01-03-00 +0000",
     "source": "wsj",
     "headline": "Democrats released new emails from Jeffrey Epstein in which the late financier discussed Donald Trump, prompting Republicans to accuse Democrats of cherry-picking and to release 20,000-plus pages of other Epstein documents",
     "link": "https://www.wsj.com/politics/policy/democrats-release-new-epstein-emails-referring-to-trump-ad8e5824"
   },
   {
-    "score": 107,
-    "pubdate": "2025-11-12-02-00-00 +0000",
+    "score": 134,
+    "pubdate": "2025-11-13-02-10-00 +0000",
     "source": "wsj",
-    "headline": "As data went dark from the government shutdown, the Federal Reserve’s inflation hawks pushed to pause rate cuts at a contentious October meeting. The divide might not end soon.",
-    "link": "https://www.wsj.com/economy/central-banking/the-fed-is-increasingly-torn-over-a-december-rate-cut-48a26aad"
-  },
-  {
-    "score": 79,
-    "pubdate": "2025-11-12-13-56-28 +0000",
-    "source": "nypost",
-    "headline": "Furious White House reveals Jeffrey Epstein victim who ‘spent hours’ with Trump — and she always said he never did anything wrong",
-    "link": "https://nypost.com/2025/11/12/us-news/jeffrey-epstein-claimed-donald-trump-knew-about-the-girls-in-2019-email/"
+    "headline": "The GOP-led House approved a spending package to reopen the government late Wednesday, sending the measure ending the record-long 43-day shutdown to President Trump’s desk for his signature",
+    "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
   },
   {
     "score": 69,
@@ -26,6 +19,13 @@
     "source": "wsj",
     "headline": "Atlanta Fed President Raphael Bostic will retire when his current five-year term expires at the end of next February",
     "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
+  },
+  {
+    "score": 62,
+    "pubdate": "2025-11-12-13-56-28 +0000",
+    "source": "nypost",
+    "headline": "Furious White House reveals Jeffrey Epstein victim who ‘spent hours’ with Trump — and she always said he never did anything wrong",
+    "link": "https://nypost.com/2025/11/12/us-news/jeffrey-epstein-claimed-donald-trump-knew-about-the-girls-in-2019-email/"
   },
   {
     "score": 55,
@@ -43,30 +43,30 @@
   },
   {
     "score": 51,
-    "pubdate": "2025-11-12-21-40-32 +0000",
-    "source": "nypost",
-    "headline": "NYC rabbis rip Michael Blake for stoking ‘antisemitism’ in campaign kickoff against pro-Israel Rep. Ritchie Torres",
-    "link": "https://nypost.com/2025/11/12/us-news/rabbis-condemn-michael-blake-for-stoking-antisemitism-in-campaign-video/"
+    "pubdate": "2025-11-12-19-21-00 +0000",
+    "source": "wsj",
+    "headline": "The Bank of Canada cut its main interest rate last month even though some policymakers pushed to hold off so officials could have a better gauge of the economy, minutes say",
+    "link": "https://www.wsj.com/articles/bank-of-canada-officials-debated-delaying-rate-cut-minutes-say-075c608c"
   },
   {
-    "score": 48,
-    "pubdate": "2025-11-13-00-21-24 +0000",
-    "source": "nypost",
-    "headline": "Kennedy heir Jack Schlossberg is the perfect avatar for modern Camelot — with all the gravitas of an aspiring Bravolebrity",
-    "link": "https://nypost.com/2025/11/12/opinion/jack-schlossberg-is-the-perfect-avatar-for-modern-camelot/"
-  },
-  {
-    "score": 48,
+    "score": 50,
     "pubdate": "2025-11-12-15-25-42 +0000",
     "source": "nyt",
     "headline": "Senator Criticizes Rubio for Paying $7.5 Million to Equatorial Guinea to Take Deportees",
     "link": "https://www.nytimes.com/2025/11/11/us/politics/marco-rubio-equatorial-guinea.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-11-12-07-18-55 +0000",
+    "score": 44,
+    "pubdate": "2025-11-13-00-21-24 +0000",
     "source": "nypost",
-    "headline": "Marriott guests left ‘homeless’ as rental company Sonder abruptly goes out of business, deal with hotel terminated: ‘Treated us so poorly’",
-    "link": "https://nypost.com/2025/11/12/business/marriott-sonder-bankruptcy-leaves-hotel-guests-stranded-homeless/"
+    "headline": "Kennedy heir Jack Schlossberg is the perfect avatar for modern Camelot — with all the gravitas of an aspiring Bravolebrity",
+    "link": "https://nypost.com/2025/11/12/opinion/jack-schlossberg-is-the-perfect-avatar-for-modern-camelot/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-11-12-22-16-49 +0000",
+    "source": "nypost",
+    "headline": "Alexander brothers ordered to face sex trafficking charges after judge delivers major blow in 60-victim rape case",
+    "link": "https://nypost.com/2025/11/12/business/luxury-real-estate-agents-tal-and-oren-alexander-and-brother-alon-must-face-sex-trafficking-charges-judge-rules/"
   }
 ]
