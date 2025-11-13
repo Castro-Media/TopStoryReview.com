@@ -1,13 +1,13 @@
 [
   {
-    "score": 203,
+    "score": 195,
     "pubdate": "2025-11-13-01-03-00 +0000",
     "source": "wsj",
     "headline": "Democrats released new emails from Jeffrey Epstein in which the late financier discussed Donald Trump, prompting Republicans to accuse Democrats of cherry-picking and to release 20,000-plus pages of other Epstein documents",
     "link": "https://www.wsj.com/politics/policy/democrats-release-new-epstein-emails-referring-to-trump-ad8e5824"
   },
   {
-    "score": 104,
+    "score": 99,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
@@ -28,7 +28,7 @@
     "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
-    "score": 61,
+    "score": 59,
     "pubdate": "2025-11-13-11-00-00 +0000",
     "source": "latimes",
     "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
@@ -42,25 +42,18 @@
     "link": "https://www.nytimes.com/2025/11/13/world/middleeast/israel-settlers-west-bank-mosque.html"
   },
   {
-    "score": 55,
+    "score": 53,
     "pubdate": "2025-11-13-17-24-00 +0000",
     "source": "wsj",
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-cc485306?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-cc485306?mod=rss_markets_main"
   },
   {
-    "score": 52,
+    "score": 50,
     "pubdate": "2025-11-13-20-46-45 +0000",
     "source": "nypost",
     "headline": "Trump asked CEOs at White House dinner how to tackle affordability — as he predicted US economic boom: sources",
     "link": "https://nypost.com/2025/11/13/business/trump-asked-ceos-at-white-house-dinner-how-to-tackle-affordability-as-he-predicted-us-economic-boom-sources/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-11-13-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
-    "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
   },
   {
     "score": 47,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "Rep. Adelita Grijalva (D., Ariz.) became the crucial 218th lawmaker to sign on to a bipartisan petition designed to force a House vote on releasing files related to late sex offender Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/petition-forcing-epstein-vote-succeeds-over-white-house-objections-1d584998"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-11-13-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
+    "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
   }
 ]
