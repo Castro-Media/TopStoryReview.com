@@ -1,24 +1,31 @@
 [
   {
-    "score": 213,
+    "score": 203,
     "pubdate": "2025-11-13-01-03-00 +0000",
     "source": "wsj",
     "headline": "Democrats released new emails from Jeffrey Epstein in which the late financier discussed Donald Trump, prompting Republicans to accuse Democrats of cherry-picking and to release 20,000-plus pages of other Epstein documents",
     "link": "https://www.wsj.com/politics/policy/democrats-release-new-epstein-emails-referring-to-trump-ad8e5824"
   },
   {
-    "score": 109,
+    "score": 104,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
     "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
   },
   {
-    "score": 64,
+    "score": 67,
     "pubdate": "2025-11-13-14-34-18 +0000",
     "source": "nyt",
     "headline": "Some South Korean Workers Return to Georgia Factory After U.S. Reissues Visas",
     "link": "https://www.nytimes.com/2025/11/13/us/politics/south-korea-workers-factory-return-georgia.html"
+  },
+  {
+    "score": 62,
+    "pubdate": "2025-11-13-16-08-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
+    "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
     "score": 61,
@@ -29,44 +36,37 @@
   },
   {
     "score": 55,
-    "pubdate": "2025-11-13-16-08-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
-    "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-11-12-21-54-00 +0000",
-    "source": "wsj",
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-36a39314?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 54,
     "pubdate": "2025-11-13-17-22-19 +0000",
     "source": "nyt",
     "headline": "Israeli Settlers Burn West Bank Mosque Amid Rise in Violent Attacks",
     "link": "https://www.nytimes.com/2025/11/13/world/middleeast/israel-settlers-west-bank-mosque.html"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-13-17-01-23 +0000",
-    "source": "nypost",
-    "headline": "Rep. Anna Paulina Luna launches probe into wild claims rich ‘sniper tourists’ paid to shoot civilians —including kids — in Sarajevo",
-    "link": "https://nypost.com/2025/11/13/us-news/rep-anna-paulina-luna-launches-investigation-into-claims-sniper-tourists-paid-to-shoot-civilians-in-sarajevo-including-kids/"
+    "score": 55,
+    "pubdate": "2025-11-13-17-24-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-cc485306?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 46,
+    "score": 52,
+    "pubdate": "2025-11-13-20-46-45 +0000",
+    "source": "nypost",
+    "headline": "Trump asked CEOs at White House dinner how to tackle affordability — as he predicted US economic boom: sources",
+    "link": "https://nypost.com/2025/11/13/business/trump-asked-ceos-at-white-house-dinner-how-to-tackle-affordability-as-he-predicted-us-economic-boom-sources/"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-11-13-10-30-00 +0000",
     "source": "wsj",
     "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
     "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
   },
   {
-    "score": 45,
-    "pubdate": "2025-11-13-17-18-34 +0000",
-    "source": "cbc",
-    "headline": "Trump-appointed attorneys have been disqualified 3 times now. Will the prosecutor who charged James Comey, Letitia James be next?",
-    "link": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss"
+    "score": 47,
+    "pubdate": "2025-11-13-01-17-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Adelita Grijalva (D., Ariz.) became the crucial 218th lawmaker to sign on to a bipartisan petition designed to force a House vote on releasing files related to late sex offender Jeffrey Epstein",
+    "link": "https://www.wsj.com/politics/policy/petition-forcing-epstein-vote-succeeds-over-white-house-objections-1d584998"
   }
 ]
