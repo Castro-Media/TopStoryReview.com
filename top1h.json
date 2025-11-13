@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 31,
+    "pubdate": "2025-11-13-22-24-50 +0000",
+    "source": "nyt",
+    "headline": "BBC Apologizes to Trump Over Film Edit but Declines to Pay Compensation",
+    "link": "https://www.nytimes.com/2025/11/13/world/europe/bbc-apology-trump.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-11-13-21-56-00 +0000",
+    "source": "wsj",
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-45ec7fd6?mod=rss_markets_main"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-11-13-22-10-16 +0000",
+    "source": "nyt",
+    "headline": "Seattle Elects a Left-Wing Mayor With a Light Résumé but Mamdani Appeal",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/seattle-mayor.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-13-22-43-32 +0000",
+    "source": "nyt",
+    "headline": "Government Shutdown Ends and Federal Workers Return",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/shutdown-reopen-museums.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-13-21-59-46 +0000",
+    "source": "bbc",
+    "headline": "Germany agrees new military service plan to boost troop numbers",
+    "link": "https://www.bbc.com/news/articles/c4gpkerdn9qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-13-22-11-44 +0000",
+    "source": "bbc",
+    "headline": "Swiss deploy charm offensive in bid to slash crippling Trump tariffs",
+    "link": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-13-22-47-51 +0000",
+    "source": "nypost",
+    "headline": "Sledgehammer-wielding maniac allegedly bludgeoned female co-worker, 20, to death inside Minnesota factory",
+    "link": "https://nypost.com/2025/11/13/us-news/sledgehammer-wielding-maniac-allegedly-bludgeoned-female-co-worker-to-death/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-13-22-28-22 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani finally books meeting with NYPD Commish Jessica Tisch in ‘coming weeks’: sources",
+    "link": "https://nypost.com/2025/11/13/us-news/zohran-mamdani-finally-books-meeting-with-nypd-commish-jessica-tisch-in-coming-weeks-sources/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-13-21-59-28 +0000",
+    "source": "nyt",
+    "headline": "How France Remembers the November 2015 Terrorist Attacks in Paris",
+    "link": "https://www.nytimes.com/2025/11/13/world/europe/france-paris-terrorist-attacks-anniversary.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-13-22-32-00 +0000",
+    "source": "wsj",
+    "headline": "Applied Materials Forecasts Higher Sales in Second Half of 2026 on Surge in AI Demand",
+    "link": "https://www.wsj.com/business/earnings/applied-materials-forecasts-higher-sales-in-second-half-of-2026-on-surge-in-ai-demand-2c972435?mod=pls_whats_news_us_business_f"
+  }
+]
