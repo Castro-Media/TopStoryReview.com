@@ -36,13 +36,6 @@
   },
   {
     "score": 51,
-    "pubdate": "2025-11-12-05-01-07 +0000",
-    "source": "nyt",
-    "headline": "Xi’s Military Purges Show Unease About China’s Nuclear Forces",
-    "link": "https://www.nytimes.com/2025/11/12/world/asia/xi-trump-military-purges.html"
-  },
-  {
-    "score": 51,
     "pubdate": "2025-11-12-19-21-00 +0000",
     "source": "wsj",
     "headline": "The Bank of Canada cut its main interest rate last month even though some policymakers pushed to hold off so officials could have a better gauge of the economy, minutes say",
@@ -56,11 +49,11 @@
     "link": "https://www.nytimes.com/2025/11/11/us/politics/marco-rubio-equatorial-guinea.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-13-00-21-24 +0000",
-    "source": "nypost",
-    "headline": "Kennedy heir Jack Schlossberg is the perfect avatar for modern Camelot — with all the gravitas of an aspiring Bravolebrity",
-    "link": "https://nypost.com/2025/11/12/opinion/jack-schlossberg-is-the-perfect-avatar-for-modern-camelot/"
+    "score": 50,
+    "pubdate": "2025-11-12-18-48-19 +0000",
+    "source": "wapo",
+    "headline": "Turkish military plane falls from sky over Georgia, killing all 20 aboard",
+    "link": "https://www.washingtonpost.com/world/2025/11/12/turkey-military-plane-crash-azerbaijan-georgia/"
   },
   {
     "score": 44,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Alexander brothers ordered to face sex trafficking charges after judge delivers major blow in 60-victim rape case",
     "link": "https://nypost.com/2025/11/12/business/luxury-real-estate-agents-tal-and-oren-alexander-and-brother-alon-must-face-sex-trafficking-charges-judge-rules/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-11-12-07-18-55 +0000",
+    "source": "nypost",
+    "headline": "Marriott guests left ‘homeless’ as rental company Sonder abruptly goes out of business, deal with hotel terminated: ‘Treated us so poorly’",
+    "link": "https://nypost.com/2025/11/12/business/marriott-sonder-bankruptcy-leaves-hotel-guests-stranded-homeless/"
   }
 ]

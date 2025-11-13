@@ -1,72 +1,37 @@
 [
   {
-    "score": 67,
-    "pubdate": "2025-11-13-02-10-00 +0000",
-    "source": "wsj",
-    "headline": "The GOP-led House approved a spending package to reopen the government late Wednesday, sending the measure ending the record-long 43-day shutdown to President Trump’s desk for his signature",
-    "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
-  },
-  {
-    "score": 24,
-    "pubdate": "2025-11-13-01-33-49 +0000",
+    "score": 17,
+    "pubdate": "2025-11-13-02-16-04 +0000",
     "source": "nyt",
-    "headline": "Food Stamps May Face Lasting Damage From Trump’s Halt to Funds in Shutdown",
-    "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-food-stamps-safety-net.html"
+    "headline": "House Passes Bill to End Government Shutdown, Sending It to Trump",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/government-shutdown-vote-trump.html"
   },
   {
-    "score": 23,
-    "pubdate": "2025-11-13-01-32-05 +0000",
+    "score": 9,
+    "pubdate": "2025-11-13-02-24-29 +0000",
+    "source": "nypost",
+    "headline": "Woman, 74, killed, 7 others injured in afternoon blaze at NYC apartment building",
+    "link": "https://nypost.com/2025/11/12/us-news/woman-74-killed-7-others-injured-in-afternoon-blaze-at-nyc-apartment-building/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-13-02-20-03 +0000",
     "source": "nyt",
-    "headline": "Trump Summons Lauren Boebert as He Pushes GOP to Block Epstein Vote",
-    "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-epstein-vote-boebert.html"
+    "headline": "As Shutdown Ends, When Will SNAP and Air Travel Be Back to Normal?",
+    "link": "https://www.nytimes.com/2025/11/12/us/shutdown-travel-snap-backpay.html"
   },
   {
-    "score": 16,
-    "pubdate": "2025-11-13-01-27-32 +0000",
-    "source": "nypost",
-    "headline": "House votes to end unprecedented government shutdown after 43 days, sending funding bill to Trump’s desk",
-    "link": "https://nypost.com/2025/11/12/us-news/house-votes-to-end-unprecedented-government-shutdown-after-42-days/"
+    "score": 6,
+    "pubdate": "2025-11-13-02-24-53 +0000",
+    "source": "wapo",
+    "headline": "Flight cancellations appear to improve, but disruptions are not over yet",
+    "link": "https://www.washingtonpost.com/transportation/2025/11/12/shutdown-flight-cancellations-delays-wednesday/"
   },
   {
-    "score": 14,
-    "pubdate": "2025-11-13-02-12-02 +0000",
+    "score": 0,
+    "pubdate": "2025-11-13-02-16-04 +0000",
     "source": "nyt",
-    "headline": "Rubio Shrugs Off Allies’ Concerns Over U.S. Drug Strikes",
-    "link": "https://www.nytimes.com/2025/11/12/world/americas/rubio-g7-caribbean-drug-boat-strikes.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-11-13-01-58-26 +0000",
-    "source": "nypost",
-    "headline": "California revokes 17k commercial licenses given to migrants — but Gavin Newsom denies that immigration was the reason",
-    "link": "https://nypost.com/2025/11/12/us-news/california-revokes-17k-commercial-licenses-given-to-migrants-but-gavin-newsom-denies-that-immigration-was-the-reason/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2025-11-13-01-34-36 +0000",
-    "source": "nypost",
-    "headline": "NJ school district mishandled bullying case, tried to silence victim’s family, lawsuit states",
-    "link": "https://nypost.com/2025/11/12/us-news/montclair-public-schools-mishandled-bully-case-lawsuit/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-11-13-01-45-43 +0000",
-    "source": "nypost",
-    "headline": "Boeing must pay $28M to family of UN consultant killed in Ethiopia crash, jury rules",
-    "link": "https://nypost.com/2025/11/12/world-news/boeing-must-pay-28m-to-family-of-un-consultant-killed-in-ethiopia-crash-jury-rules/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-11-13-01-38-41 +0000",
-    "source": "nyt",
-    "headline": "New Epstein Emails Alleged Trump Knew of His Conduct",
-    "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-epstein-emails.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-11-13-01-42-00 +0000",
-    "source": "wsj",
-    "headline": "The turning point in the government’s longest shutdown didn’t involve President Trump or Senate Minority Leader Chuck Schumer",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-deal-secret-meeting-e194c236"
+    "headline": "House Passes Bill to End Government Shutdown, Sending It to Trump",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/government-shutdown-vote-trump.html"
   }
 ]
