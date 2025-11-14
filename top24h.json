@@ -1,20 +1,20 @@
 [
   {
-    "score": 132,
+    "score": 131,
     "pubdate": "2025-11-13-16-08-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
     "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
-    "score": 75,
+    "score": 73,
     "pubdate": "2025-11-13-10-02-32 +0000",
     "source": "nyt",
     "headline": "How D.C. Area Businesses Aided Furloughed Workers Amid Government Shutdown",
     "link": "https://www.nytimes.com/2025/11/13/us/politics/furloughed-workers-support.html"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2025-11-13-20-05-36 +0000",
     "source": "latimes",
     "headline": "Justice Department sues to block California's new House map in clash that could tip control of Congress",
@@ -42,13 +42,6 @@
     "link": "https://nypost.com/2025/11/13/us-news/nyc-mayor-elect-zohran-mamdani-meets-with-elizabeth-warren/"
   },
   {
-    "score": 55,
-    "pubdate": "2025-11-13-20-54-33 +0000",
-    "source": "latimes",
-    "headline": "Starbucks union launches Red Cup Day strike at dozens of stores — including 10 in California",
-    "link": "https://www.latimes.com/business/story/2025-11-13/starbucks-union-launches-strike-in-dozens-of-stores-on-red-cup-day"
-  },
-  {
     "score": 54,
     "pubdate": "2025-11-13-17-18-34 +0000",
     "source": "cbc",
@@ -56,14 +49,21 @@
     "link": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2025-11-13-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
-    "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
+    "score": 54,
+    "pubdate": "2025-11-13-21-46-58 +0000",
+    "source": "nypost",
+    "headline": "Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut",
+    "link": "https://nypost.com/2025/11/13/business/stocks-have-worst-day-in-a-month-amid-ai-concerns-lower-hopes-for-interest-rate-cut/"
   },
   {
     "score": 48,
+    "pubdate": "2025-11-13-21-10-45 +0000",
+    "source": "nyt",
+    "headline": "Some South Korean Workers Return to Georgia Factory After U.S. Reissues Visas",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/south-korea-workers-factory-return-georgia.html"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-11-14-08-35-34 +0000",
     "source": "nypost",
     "headline": "Food influencer Michael Duarte’s wife breaks silence after he was fatally shot by police while threatening to kill ‘everyone’",
