@@ -1,24 +1,24 @@
 [
   {
-    "score": 137,
+    "score": 139,
     "pubdate": "2025-11-13-16-08-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
     "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
-    "score": 68,
-    "pubdate": "2025-11-14-04-38-11 +0000",
-    "source": "nypost",
-    "headline": "JD Vance says surge of illegal immigrants drove up housing prices — and US needs 5M new homes",
-    "link": "https://nypost.com/2025/11/13/us-news/jd-vance-says-surge-of-illegal-immigrants-drove-up-housing-prices/"
-  },
-  {
-    "score": 66,
+    "score": 67,
     "pubdate": "2025-11-13-21-46-58 +0000",
     "source": "nypost",
     "headline": "Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut",
     "link": "https://nypost.com/2025/11/13/business/stocks-have-worst-day-in-a-month-amid-ai-concerns-lower-hopes-for-interest-rate-cut/"
+  },
+  {
+    "score": 63,
+    "pubdate": "2025-11-13-20-05-36 +0000",
+    "source": "latimes",
+    "headline": "Justice Department sues to block California's new House map in clash that could tip control of Congress",
+    "link": "https://www.latimes.com/california/story/2025-11-13/justice-department-sues-to-block-californias-new-congressional-map"
   },
   {
     "score": 62,
@@ -28,35 +28,28 @@
     "link": "https://nypost.com/2025/11/14/us-news/nyc-designer-martha-nolans-friends-sent-haunting-text-message-hours-before-her-death-at-montauk-yacht-club/"
   },
   {
-    "score": 61,
+    "score": 58,
     "pubdate": "2025-11-13-21-53-00 +0000",
     "source": "wsj",
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-cc485306?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-13-17-22-19 +0000",
-    "source": "nyt",
-    "headline": "Israeli Settlers Burn West Bank Mosque Amid Rise in Violent Attacks",
-    "link": "https://www.nytimes.com/2025/11/13/world/middleeast/israel-settlers-west-bank-mosque.html"
+    "score": 54,
+    "pubdate": "2025-11-13-21-21-08 +0000",
+    "source": "nypost",
+    "headline": "BBC apologizes to Trump over selectively edited Jan. 6 speech — but refuses to pay up as $1B suit threat looms",
+    "link": "https://nypost.com/2025/11/13/us-news/bbc-apologizes-to-trump-over-selectively-edited-jan-6-speech-but-refuses-to-pay-up-as-1b-suit-threat-looms/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-11-14-02-11-09 +0000",
-    "source": "nyt",
-    "headline": "Justice Dept. Memo Blessing Boat Strikes Is Said to Rely on Trump’s Claims About Cartels",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/boat-strikes-doj-memo-trump.html"
+    "score": 50,
+    "pubdate": "2025-11-14-14-21-53 +0000",
+    "source": "bbc",
+    "headline": "Government borrowing costs jump after Reeves decides against income tax rise",
+    "link": "https://www.bbc.com/news/articles/cy5qz4qdq95o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 47,
-    "pubdate": "2025-11-14-01-18-01 +0000",
-    "source": "nypost",
-    "headline": "Canada man hijacks city bus but miraculously makes every stop –while forcing riders to pay fare: ‘Playing by the rules’",
-    "link": "https://nypost.com/2025/11/13/world-news/canada-man-hijacks-bus-but-miraculously-makes-every-stop-forces-riders-to-pay-fare/"
-  },
-  {
-    "score": 46,
     "pubdate": "2025-11-13-20-54-33 +0000",
     "source": "latimes",
     "headline": "Starbucks union launches Red Cup Day strike at dozens of stores — including 10 in California",
@@ -64,9 +57,16 @@
   },
   {
     "score": 44,
-    "pubdate": "2025-11-14-14-21-53 +0000",
-    "source": "bbc",
-    "headline": "Government borrowing costs jump after Reeves decides against income tax rise",
-    "link": "https://www.bbc.com/news/articles/cy5qz4qdq95o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-11-13-17-18-34 +0000",
+    "source": "cbc",
+    "headline": "Trump-appointed attorneys have been disqualified 3 times now. Will the prosecutor who charged James Comey, Letitia James be next?",
+    "link": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-11-14-04-05-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. plans to eliminate tariffs on bananas, coffee, beef and certain apparel and textile products under framework agreements with four Latin American nations",
+    "link": "https://www.wsj.com/economy/trade/u-s-to-cut-tariffs-on-bananas-coffee-and-other-goods-from-four-countries-5a527e94"
   }
 ]
