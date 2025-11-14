@@ -1,24 +1,17 @@
 [
   {
-    "score": 140,
+    "score": 138,
     "pubdate": "2025-11-13-16-08-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
     "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
-    "score": 74,
+    "score": 73,
     "pubdate": "2025-11-14-04-38-11 +0000",
     "source": "nypost",
     "headline": "JD Vance says surge of illegal immigrants drove up housing prices — and US needs 5M new homes",
     "link": "https://nypost.com/2025/11/13/us-news/jd-vance-says-surge-of-illegal-immigrants-drove-up-housing-prices/"
-  },
-  {
-    "score": 69,
-    "pubdate": "2025-11-13-21-46-58 +0000",
-    "source": "nypost",
-    "headline": "Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut",
-    "link": "https://nypost.com/2025/11/13/business/stocks-have-worst-day-in-a-month-amid-ai-concerns-lower-hopes-for-interest-rate-cut/"
   },
   {
     "score": 67,
@@ -28,25 +21,11 @@
     "link": "https://nypost.com/2025/11/13/us-news/nyc-mayor-elect-zohran-mamdani-meets-with-elizabeth-warren/"
   },
   {
-    "score": 60,
-    "pubdate": "2025-11-13-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
-    "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-11-13-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Chabria: Release the Epstein files, then get rid of the 'Epstein class'",
-    "link": "https://www.latimes.com/california/story/2025-11-13/chabria-column-epstein-files-california-congressmen-ro-khanna-robert-garcia"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-11-14-03-04-50 +0000",
+    "score": 66,
+    "pubdate": "2025-11-13-21-46-58 +0000",
     "source": "nypost",
-    "headline": "Va. prosecutor accused of ‘stymying the investigation’ into alleged threats against Trump aide Stephen Miller faces House probe",
-    "link": "https://nypost.com/2025/11/13/us-news/va-prosecutor-accused-of-stymying-the-investigation-into-alleged-threats-against-trump-aide-stephen-miller-faces-house-probe/"
+    "headline": "Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut",
+    "link": "https://nypost.com/2025/11/13/business/stocks-have-worst-day-in-a-month-amid-ai-concerns-lower-hopes-for-interest-rate-cut/"
   },
   {
     "score": 54,
@@ -57,6 +36,13 @@
   },
   {
     "score": 52,
+    "pubdate": "2025-11-14-03-04-50 +0000",
+    "source": "nypost",
+    "headline": "Va. prosecutor accused of ‘stymying the investigation’ into alleged threats against Trump aide Stephen Miller faces House probe",
+    "link": "https://nypost.com/2025/11/13/us-news/va-prosecutor-accused-of-stymying-the-investigation-into-alleged-threats-against-trump-aide-stephen-miller-faces-house-probe/"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-11-14-00-17-09 +0000",
     "source": "nyt",
     "headline": "Government Shutdown Ends and Federal Workers Return",
@@ -64,9 +50,23 @@
   },
   {
     "score": 47,
+    "pubdate": "2025-11-13-20-52-21 +0000",
+    "source": "nyt",
+    "headline": "Former Prince Andrew and Another Prominent Briton Come Up in the Epstein Emails",
+    "link": "https://www.nytimes.com/2025/11/13/world/europe/epstein-files-mountbatten-windsor-mandelson.html"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-11-14-08-35-34 +0000",
     "source": "nypost",
     "headline": "Food influencer Michael Duarte’s wife breaks silence after he was fatally shot by police while threatening to kill ‘everyone’",
     "link": "https://nypost.com/2025/11/14/us-news/michael-duarte-wife-jessica-duarte-breaks-silence-after-influencers-texas-police-shooting-death/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-11-13-20-54-33 +0000",
+    "source": "latimes",
+    "headline": "Starbucks union launches Red Cup Day strike at dozens of stores — including 10 in California",
+    "link": "https://www.latimes.com/business/story/2025-11-13/starbucks-union-launches-strike-in-dozens-of-stores-on-red-cup-day"
   }
 ]
