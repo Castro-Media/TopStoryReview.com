@@ -1,45 +1,38 @@
 [
   {
-    "score": 323,
-    "pubdate": "2025-11-13-01-03-00 +0000",
+    "score": 300,
+    "pubdate": "2025-11-14-17-22-00 +0000",
     "source": "wsj",
-    "headline": "Democrats released new emails from Jeffrey Epstein in which the late financier discussed Donald Trump, prompting Republicans to accuse Democrats of cherry-picking and to release 20,000-plus pages of other Epstein documents",
-    "link": "https://www.wsj.com/politics/policy/democrats-release-new-epstein-emails-referring-to-trump-ad8e5824"
+    "headline": "Trump said he would ask the Justice Department and the FBI to launch an investigation into Jeffrey Epstein’s relationship with former President Bill Clinton and other Democrats",
+    "link": "https://www.wsj.com/politics/policy/trump-calls-for-investigation-into-democrats-named-in-epstein-emails-83dbe8db"
   },
   {
-    "score": 165,
-    "pubdate": "2025-11-13-16-08-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
-    "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
+    "score": 168,
+    "pubdate": "2025-11-13-15-10-33 +0000",
+    "source": "latimes",
+    "headline": "First look: Inside California's new $600-million casino that's bigger than Caesars Palace",
+    "link": "https://www.latimes.com/travel/story/2025-11-13/hard-rock-casino-tejon-photos"
   },
   {
-    "score": 131,
+    "score": 118,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
     "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
   },
   {
-    "score": 104,
+    "score": 108,
+    "pubdate": "2025-11-12-19-21-00 +0000",
+    "source": "wsj",
+    "headline": "The Bank of Canada cut its main interest rate last month even though some policymakers pushed to hold off so officials could have a better gauge of the economy, minutes say",
+    "link": "https://www.wsj.com/articles/bank-of-canada-officials-debated-delaying-rate-cut-minutes-say-075c608c"
+  },
+  {
+    "score": 100,
     "pubdate": "2025-11-12-00-02-42 +0000",
     "source": "bbc",
     "headline": "India's start-ups fire up public markets amid valuation concerns",
     "link": "https://www.bbc.com/news/articles/crklp1y81keo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 95,
-    "pubdate": "2025-11-14-09-25-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Futures, Global Markets Fall as Fed Interest-Rate Cut Hopes Dashed, High Tech Valuations Weigh",
-    "link": "https://www.wsj.com/finance/u-s-futures-global-markets-fall-as-fed-interest-rate-cut-hopes-dashed-high-tech-valuations-weigh-b01ff296?mod=rss_markets_main"
-  },
-  {
-    "score": 90,
-    "pubdate": "2025-11-11-18-55-18 +0000",
-    "source": "missionlocal",
-    "headline": "Scott Wiener talks housing, Israel and D.C. in first public talk as congressional candidate",
-    "link": "https://missionlocal.org/2025/11/sf-scott-wiener-pelosi-congress/"
   },
   {
     "score": 86,
@@ -49,24 +42,31 @@
     "link": "https://nypost.com/2025/11/14/us-news/prosecutor-appoints-himself-to-take-over-georgia-2020-election-case-against-trump-admits-no-one-else-wanted-the-job/"
   },
   {
-    "score": 85,
+    "score": 83,
+    "pubdate": "2025-11-12-20-09-00 +0000",
+    "source": "wsj",
+    "headline": "Atlanta Fed President Raphael Bostic will retire when his current five-year term expires at the end of next February",
+    "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
+  },
+  {
+    "score": 79,
+    "pubdate": "2025-11-13-03-44-00 +0000",
+    "source": "wsj",
+    "headline": "Here are key parts of the shutdown deal, from back pay to hemp regulation and a controversial item involving potential $500,000 payouts to senators",
+    "link": "https://www.wsj.com/politics/policy/government-shutdown-deal-bill-what-to-know-1dece404"
+  },
+  {
+    "score": 77,
     "pubdate": "2025-11-14-03-37-55 +0000",
     "source": "nypost",
     "headline": "NYC Mayor-elect Zohran Mamdani holds secretive Elizabeth Warren meeting as she touts his ‘Tax the rich’ agenda: ‘Billionaire tears not pictured’",
     "link": "https://nypost.com/2025/11/13/us-news/nyc-mayor-elect-zohran-mamdani-meets-with-elizabeth-warren/"
   },
   {
-    "score": 82,
-    "pubdate": "2025-11-14-16-00-00 +0000",
+    "score": 75,
+    "pubdate": "2025-11-14-17-52-00 +0000",
     "source": "wsj",
-    "headline": "Our compulsive purchasing of cheap, foreign-made goods may be coming to an end as tariffs drive prices higher and social trends make overconsumption uncool.",
-    "link": "https://www.wsj.com/economy/consumers/will-trumps-trade-war-break-americas-addiction-to-cheap-stuff-ff21df9e"
-  },
-  {
-    "score": 77,
-    "pubdate": "2025-11-14-01-18-01 +0000",
-    "source": "nypost",
-    "headline": "Canada man hijacks city bus but miraculously makes every stop –while forcing riders to pay fare: ‘Playing by the rules’",
-    "link": "https://nypost.com/2025/11/13/world-news/canada-man-hijacks-bus-but-miraculously-makes-every-stop-forces-riders-to-pay-fare/"
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e7a10f74?mod=rss_markets_main"
   }
 ]
