@@ -1,10 +1,17 @@
 [
   {
-    "score": 158,
+    "score": 153,
     "pubdate": "2025-11-14-19-49-00 +0000",
     "source": "wsj",
     "headline": "Trump said he would ask the Justice Department and the FBI to launch an investigation into Jeffrey Epstein’s relationship with former President Bill Clinton and other Democrats",
     "link": "https://www.wsj.com/politics/policy/trump-calls-for-investigation-into-democrats-named-in-epstein-emails-83dbe8db"
+  },
+  {
+    "score": 62,
+    "pubdate": "2025-11-14-19-14-59 +0000",
+    "source": "nypost",
+    "headline": "Man suspected of beating NYC super to death released without charges — as sources reveal he was no porch pirate",
+    "link": "https://nypost.com/2025/11/14/us-news/man-suspected-of-fatally-beating-nyc-super-released-without-charges/"
   },
   {
     "score": 62,
@@ -14,14 +21,7 @@
     "link": "https://www.wsj.com/business/retail/john-furner-walmart-ceo-profile-c596a5d3?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 61,
-    "pubdate": "2025-11-14-19-29-46 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court urged to block California laws requiring companies to disclose climate impacts",
-    "link": "https://www.latimes.com/politics/story/2025-11-14/supreme-court-urged-to-block-california-laws-requiring-companies-to-disclose-climate-impacts"
-  },
-  {
-    "score": 59,
+    "score": 58,
     "pubdate": "2025-11-13-23-42-04 +0000",
     "source": "nyt",
     "headline": "Carney Accelerates Economic Plan for Canada to Rely Less on U.S. Amid Trade War",
@@ -29,20 +29,13 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-11-14-19-14-59 +0000",
-    "source": "nypost",
-    "headline": "Man suspected of beating NYC super to death released without charges — as sources reveal he was no porch pirate",
-    "link": "https://nypost.com/2025/11/14/us-news/man-suspected-of-fatally-beating-nyc-super-released-without-charges/"
+    "pubdate": "2025-11-14-19-29-46 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court urged to block California laws requiring companies to disclose climate impacts",
+    "link": "https://www.latimes.com/politics/story/2025-11-14/supreme-court-urged-to-block-california-laws-requiring-companies-to-disclose-climate-impacts"
   },
   {
-    "score": 57,
-    "pubdate": "2025-11-14-17-52-00 +0000",
-    "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e7a10f74?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 55,
+    "score": 56,
     "pubdate": "2025-11-14-17-59-25 +0000",
     "source": "bbc",
     "headline": "US agrees deal to slash Swiss tariffs to 15% after golden charm offensive",
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2025/11/14/us-news/olivia-nuzzi-claims-rfk-jr-told-her-i-love-you-as-she-revealed-their-favorite-body-parts/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-11-14-20-25-00 +0000",
+    "score": 51,
+    "pubdate": "2025-11-13-22-02-00 +0000",
     "source": "wsj",
-    "headline": "The reopened federal government will on Thursday release the first backlogged monthly jobs report, for the month of September",
-    "link": "https://www.wsj.com/economy/jobs/september-jobs-report-coming-thursday-after-government-reopens-f15d5f54"
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-9bd09eb7?mod=rss_markets_main"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-11-14-18-15-02 +0000",
+    "source": "bbc",
+    "headline": "Government borrowing costs jump after Reeves decides against income tax rise",
+    "link": "https://www.bbc.com/news/articles/cy5qz4qdq95o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 48,
-    "pubdate": "2025-11-13-21-21-08 +0000",
-    "source": "nypost",
-    "headline": "BBC apologizes to Trump over selectively edited Jan. 6 speech — but refuses to pay up as $1B suit threat looms",
-    "link": "https://nypost.com/2025/11/13/us-news/bbc-apologizes-to-trump-over-selectively-edited-jan-6-speech-but-refuses-to-pay-up-as-1b-suit-threat-looms/"
+    "pubdate": "2025-11-14-21-13-00 +0000",
+    "source": "wsj",
+    "headline": "A classified Justice Department brief authorizing strikes on drug-smuggling boats in the Caribbean and Pacific describes fentanyl as a potential chemical weapons threat, according to people familiar with the memo",
+    "link": "https://www.wsj.com/politics/national-security/justice-department-drug-boat-strike-memo-83711582"
   }
 ]
