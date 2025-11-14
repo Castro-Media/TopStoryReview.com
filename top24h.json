@@ -1,17 +1,17 @@
 [
   {
-    "score": 146,
+    "score": 148,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
     "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
   },
   {
-    "score": 79,
-    "pubdate": "2025-11-13-20-05-36 +0000",
+    "score": 80,
+    "pubdate": "2025-11-13-15-10-33 +0000",
     "source": "latimes",
-    "headline": "Justice Department sues to block California's new House map in clash that could tip control of Congress",
-    "link": "https://www.latimes.com/california/story/2025-11-13/justice-department-sues-to-block-californias-new-congressional-map"
+    "headline": "First look: Inside California's new $600-million casino that's bigger than Caesars Palace",
+    "link": "https://www.latimes.com/travel/story/2025-11-13/hard-rock-casino-tejon-photos"
   },
   {
     "score": 69,
@@ -21,35 +21,35 @@
     "link": "https://www.nytimes.com/2025/11/13/us/politics/south-korea-workers-factory-return-georgia.html"
   },
   {
-    "score": 68,
+    "score": 69,
     "pubdate": "2025-11-13-20-52-21 +0000",
     "source": "nyt",
     "headline": "Former Prince Andrew and Another Prominent Briton Come Up in the Epstein Emails",
     "link": "https://www.nytimes.com/2025/11/13/world/europe/epstein-files-mountbatten-windsor-mandelson.html"
   },
   {
-    "score": 65,
-    "pubdate": "2025-11-14-03-37-55 +0000",
-    "source": "nypost",
-    "headline": "NYC Mayor-elect Zohran Mamdani holds secretive Elizabeth Warren meeting as she touts his ‘tax the rich’ agenda: ‘Billionaire tears not pictured’",
-    "link": "https://nypost.com/2025/11/13/us-news/nyc-mayor-elect-zohran-mamdani-meets-with-elizabeth-warren/"
-  },
-  {
-    "score": 61,
+    "score": 63,
     "pubdate": "2025-11-13-11-00-00 +0000",
     "source": "latimes",
     "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
     "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
   },
   {
-    "score": 60,
+    "score": 62,
+    "pubdate": "2025-11-14-03-37-55 +0000",
+    "source": "nypost",
+    "headline": "NYC Mayor-elect Zohran Mamdani holds secretive Elizabeth Warren meeting as she touts his ‘tax the rich’ agenda: ‘Billionaire tears not pictured’",
+    "link": "https://nypost.com/2025/11/13/us-news/nyc-mayor-elect-zohran-mamdani-meets-with-elizabeth-warren/"
+  },
+  {
+    "score": 59,
     "pubdate": "2025-11-13-23-42-04 +0000",
     "source": "nyt",
     "headline": "Carney Accelerates Economic Plan for Canada to Rely Less on U.S. Amid Trade War",
     "link": "https://www.nytimes.com/2025/11/13/world/canada/carney-economy-trade-trump-tariffs.html"
   },
   {
-    "score": 54,
+    "score": 53,
     "pubdate": "2025-11-14-03-04-50 +0000",
     "source": "nypost",
     "headline": "Va. prosecutor accused of ‘stymying the investigation’ into alleged threats against Trump aide Stephen Miller faces House probe",
@@ -57,16 +57,16 @@
   },
   {
     "score": 47,
-    "pubdate": "2025-11-13-17-18-34 +0000",
-    "source": "cbc",
-    "headline": "Trump-appointed attorneys have been disqualified 3 times now. Will the prosecutor who charged James Comey, Letitia James be next?",
-    "link": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss"
-  },
-  {
-    "score": 46,
     "pubdate": "2025-11-13-20-54-33 +0000",
     "source": "latimes",
     "headline": "Starbucks union launches Red Cup Day strike at dozens of stores — including 10 in California",
     "link": "https://www.latimes.com/business/story/2025-11-13/starbucks-union-launches-strike-in-dozens-of-stores-on-red-cup-day"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-11-13-17-18-34 +0000",
+    "source": "cbc",
+    "headline": "Trump-appointed attorneys have been disqualified 3 times now. Will the prosecutor who charged James Comey, Letitia James be next?",
+    "link": "https://www.cbc.ca/news/world/us-va-halligan-eligibility-hearing-trump-comey-james-9.6977178?cmp=rss"
   }
 ]
