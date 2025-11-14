@@ -1,20 +1,20 @@
 [
   {
-    "score": 310,
+    "score": 307,
     "pubdate": "2025-11-14-19-49-00 +0000",
     "source": "wsj",
     "headline": "Trump said he would ask the Justice Department and the FBI to launch an investigation into Jeffrey Epstein’s relationship with former President Bill Clinton and other Democrats",
     "link": "https://www.wsj.com/politics/policy/trump-calls-for-investigation-into-democrats-named-in-epstein-emails-83dbe8db"
   },
   {
-    "score": 168,
+    "score": 165,
     "pubdate": "2025-11-13-15-10-33 +0000",
     "source": "latimes",
     "headline": "First look: Inside California's new $600-million casino that's bigger than Caesars Palace",
     "link": "https://www.latimes.com/travel/story/2025-11-13/hard-rock-casino-tejon-photos"
   },
   {
-    "score": 116,
+    "score": 117,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
@@ -36,6 +36,13 @@
   },
   {
     "score": 87,
+    "pubdate": "2025-11-14-19-14-59 +0000",
+    "source": "nypost",
+    "headline": "Man suspected of beating NYC super to death released without charges — as sources reveal he was no porch pirate",
+    "link": "https://nypost.com/2025/11/14/us-news/man-suspected-of-fatally-beating-nyc-super-released-without-charges/"
+  },
+  {
+    "score": 86,
     "pubdate": "2025-11-13-11-00-00 +0000",
     "source": "latimes",
     "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
@@ -43,20 +50,13 @@
   },
   {
     "score": 85,
-    "pubdate": "2025-11-14-20-10-03 +0000",
-    "source": "nyt",
-    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
-    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
-  },
-  {
-    "score": 83,
     "pubdate": "2025-11-12-20-09-00 +0000",
     "source": "wsj",
     "headline": "Atlanta Fed President Raphael Bostic will retire when his current five-year term expires at the end of next February",
     "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
   },
   {
-    "score": 80,
+    "score": 79,
     "pubdate": "2025-11-13-03-44-00 +0000",
     "source": "wsj",
     "headline": "Here are key parts of the shutdown deal, from back pay to hemp regulation and a controversial item involving potential $500,000 payouts to senators",
@@ -64,9 +64,9 @@
   },
   {
     "score": 77,
-    "pubdate": "2025-11-13-18-22-39 +0000",
-    "source": "nypost",
-    "headline": "Alleged drug, prostitution kingpin suspected of forcing tourists to run online scams extradited to China",
-    "link": "https://nypost.com/2025/11/13/business/she-zhijiang-alleged-crime-kingpin-extradited-to-china/"
+    "pubdate": "2025-11-14-17-39-50 +0000",
+    "source": "bbc",
+    "headline": "UK court finds mining firm liable for Brazil's worst environmental disaster",
+    "link": "https://www.bbc.com/news/articles/c8034v2e3l3o?at_medium=RSS&at_campaign=rss"
   }
 ]
