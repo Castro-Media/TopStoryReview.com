@@ -1,7 +1,7 @@
 [
   {
-    "score": 300,
-    "pubdate": "2025-11-14-17-22-00 +0000",
+    "score": 310,
+    "pubdate": "2025-11-14-19-49-00 +0000",
     "source": "wsj",
     "headline": "Trump said he would ask the Justice Department and the FBI to launch an investigation into Jeffrey Epstein’s relationship with former President Bill Clinton and other Democrats",
     "link": "https://www.wsj.com/politics/policy/trump-calls-for-investigation-into-democrats-named-in-epstein-emails-83dbe8db"
@@ -14,32 +14,39 @@
     "link": "https://www.latimes.com/travel/story/2025-11-13/hard-rock-casino-tejon-photos"
   },
   {
-    "score": 118,
+    "score": 116,
     "pubdate": "2025-11-13-06-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed a spending package to reopen the government, a measure passed by the Republican-led House after a record-long 43-day shutdown",
     "link": "https://www.wsj.com/politics/policy/house-spending-bill-government-shutdown-05bf3a6e"
   },
   {
-    "score": 108,
-    "pubdate": "2025-11-12-19-21-00 +0000",
+    "score": 104,
+    "pubdate": "2025-11-13-10-30-00 +0000",
     "source": "wsj",
-    "headline": "The Bank of Canada cut its main interest rate last month even though some policymakers pushed to hold off so officials could have a better gauge of the economy, minutes say",
-    "link": "https://www.wsj.com/articles/bank-of-canada-officials-debated-delaying-rate-cut-minutes-say-075c608c"
+    "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
+    "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
   },
   {
-    "score": 100,
-    "pubdate": "2025-11-12-00-02-42 +0000",
-    "source": "bbc",
-    "headline": "India's start-ups fire up public markets amid valuation concerns",
-    "link": "https://www.bbc.com/news/articles/crklp1y81keo?at_medium=RSS&at_campaign=rss"
+    "score": 101,
+    "pubdate": "2025-11-13-23-42-04 +0000",
+    "source": "nyt",
+    "headline": "Carney Accelerates Economic Plan for Canada to Rely Less on U.S. Amid Trade War",
+    "link": "https://www.nytimes.com/2025/11/13/world/canada/carney-economy-trade-trump-tariffs.html"
   },
   {
-    "score": 86,
-    "pubdate": "2025-11-14-15-16-18 +0000",
-    "source": "nypost",
-    "headline": "Prosecutor appoints himself to take over Georgia 2020 election case against Trump, admits no one else wanted the job",
-    "link": "https://nypost.com/2025/11/14/us-news/prosecutor-appoints-himself-to-take-over-georgia-2020-election-case-against-trump-admits-no-one-else-wanted-the-job/"
+    "score": 87,
+    "pubdate": "2025-11-13-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
+    "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-11-14-20-10-03 +0000",
+    "source": "nyt",
+    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
+    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
   },
   {
     "score": 83,
@@ -49,7 +56,7 @@
     "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-president-bostic-to-retire-ahead-of-reappointment-process-e0cb2c2c"
   },
   {
-    "score": 79,
+    "score": 80,
     "pubdate": "2025-11-13-03-44-00 +0000",
     "source": "wsj",
     "headline": "Here are key parts of the shutdown deal, from back pay to hemp regulation and a controversial item involving potential $500,000 payouts to senators",
@@ -57,16 +64,9 @@
   },
   {
     "score": 77,
-    "pubdate": "2025-11-14-03-37-55 +0000",
+    "pubdate": "2025-11-13-18-22-39 +0000",
     "source": "nypost",
-    "headline": "NYC Mayor-elect Zohran Mamdani holds secretive Elizabeth Warren meeting as she touts his ‘Tax the rich’ agenda: ‘Billionaire tears not pictured’",
-    "link": "https://nypost.com/2025/11/13/us-news/nyc-mayor-elect-zohran-mamdani-meets-with-elizabeth-warren/"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-11-14-17-52-00 +0000",
-    "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e7a10f74?mod=rss_markets_main"
+    "headline": "Alleged drug, prostitution kingpin suspected of forcing tourists to run online scams extradited to China",
+    "link": "https://nypost.com/2025/11/13/business/she-zhijiang-alleged-crime-kingpin-extradited-to-china/"
   }
 ]
