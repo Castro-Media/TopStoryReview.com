@@ -1,17 +1,10 @@
 [
   {
-    "score": 214,
+    "score": 213,
     "pubdate": "2025-11-15-03-01-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-support-for-once-staunch-backer-marjorie-taylor-greene-89798ddf"
-  },
-  {
-    "score": 62,
-    "pubdate": "2025-11-15-11-00-00 +0000",
-    "source": "nypost",
-    "headline": "What affordability crisis? New Yorkers line up for hours to pay $12 for grapes and $65 for olive oil at trendy new gourmet grocer Meadow Lane",
-    "link": "https://nypost.com/2025/11/15/us-news/nycs-meadow-lane-gourmet-grocery-debuts-amid-affordability-crisis/"
   },
   {
     "score": 58,
@@ -19,6 +12,13 @@
     "source": "wsj",
     "headline": "Trump said he is withdrawing the nomination of Donald Korb to be the IRS’s top lawyer, pulling the plug on the pick just days before Korb was set to be confirmed by the Senate",
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-his-pick-for-top-irs-lawyer-06480f39"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-11-15-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "What affordability crisis? New Yorkers line up for hours to pay $12 for grapes and $65 for olive oil at trendy new gourmet grocer Meadow Lane",
+    "link": "https://nypost.com/2025/11/15/lifestyle/nycs-meadow-lane-gourmet-grocery-debuts-amid-affordability-crisis/"
   },
   {
     "score": 53,
@@ -35,7 +35,14 @@
     "link": "https://www.wsj.com/politics/policy/rfk-jr-fda-head-management-7dce398f"
   },
   {
-    "score": 49,
+    "score": 50,
+    "pubdate": "2025-11-15-13-41-18 +0000",
+    "source": "nypost",
+    "headline": "Let our people go! Zohran Mamdani victory spurs Staten Island pols to renew bid to pull out of NYC",
+    "link": "https://nypost.com/2025/11/15/us-news/staten-island-pols-renew-bid-to-pull-out-of-nyc-in-response-to-mamdani-winning-mayoral-race/"
+  },
+  {
+    "score": 50,
     "pubdate": "2025-11-14-19-29-46 +0000",
     "source": "latimes",
     "headline": "Supreme Court urged to block California laws requiring companies to disclose climate impacts",
@@ -43,30 +50,23 @@
   },
   {
     "score": 46,
-    "pubdate": "2025-11-14-20-10-04 +0000",
-    "source": "nyt",
-    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
-    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-14-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Our compulsive purchasing of cheap, foreign-made goods may be coming to an end as tariffs drive prices higher and social trends make overconsumption uncool.",
-    "link": "https://www.wsj.com/economy/consumers/will-trumps-trade-war-break-americas-addiction-to-cheap-stuff-ff21df9e"
-  },
-  {
-    "score": 45,
     "pubdate": "2025-11-14-17-24-51 +0000",
     "source": "bbc",
     "headline": "Mass killings probe in Sudan will hold culprits to account, vows UN",
     "link": "https://www.bbc.com/news/articles/c70jd4elgwzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-15-07-21-56 +0000",
-    "source": "wapo",
-    "headline": "ESPN blackout on YouTube TV ends, as Disney and Alphabet strike deal",
-    "link": "https://www.washingtonpost.com/business/2025/11/15/youtubetv-football-sports-espn-abc-fx/"
+    "score": 42,
+    "pubdate": "2025-11-14-17-59-25 +0000",
+    "source": "bbc",
+    "headline": "US agrees deal to slash Swiss tariffs to 15% after golden charm offensive",
+    "link": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-11-14-20-10-04 +0000",
+    "source": "nyt",
+    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
+    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
   }
 ]
