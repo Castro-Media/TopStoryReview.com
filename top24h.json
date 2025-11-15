@@ -1,17 +1,10 @@
 [
   {
-    "score": 181,
-    "pubdate": "2025-11-15-01-02-00 +0000",
+    "score": 194,
+    "pubdate": "2025-11-15-03-01-00 +0000",
     "source": "wsj",
-    "headline": "Trump said he would ask the Justice Department and the FBI to launch an investigation into Jeffrey Epstein’s relationship with former President Bill Clinton and other Democrats",
-    "link": "https://www.wsj.com/politics/policy/trump-calls-for-investigation-into-democrats-named-in-epstein-emails-83dbe8db"
-  },
-  {
-    "score": 61,
-    "pubdate": "2025-11-14-22-26-25 +0000",
-    "source": "nypost",
-    "headline": "Jack Schlossberg shamelessly invokes Kennedy name right out of gate to drum up cash for NYC Congress race",
-    "link": "https://nypost.com/2025/11/14/us-news/jack-schlossberg-invokes-kennedy-name-to-drum-up-cash/"
+    "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
+    "link": "https://www.wsj.com/politics/policy/trump-withdraws-support-for-once-staunch-backer-marjorie-taylor-greene-89798ddf"
   },
   {
     "score": 58,
@@ -22,7 +15,7 @@
   },
   {
     "score": 56,
-    "pubdate": "2025-11-14-20-10-03 +0000",
+    "pubdate": "2025-11-14-20-10-04 +0000",
     "source": "nyt",
     "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
     "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
@@ -42,7 +35,7 @@
     "link": "https://www.latimes.com/politics/story/2025-11-14/supreme-court-urged-to-block-california-laws-requiring-companies-to-disclose-climate-impacts"
   },
   {
-    "score": 51,
+    "score": 48,
     "pubdate": "2025-11-14-21-07-00 +0000",
     "source": "wsj",
     "headline": "Trump said he is withdrawing the nomination of Donald Korb to be the IRS’s top lawyer, pulling the plug on the pick just days before Korb was set to be confirmed by the Senate",
@@ -50,10 +43,24 @@
   },
   {
     "score": 47,
-    "pubdate": "2025-11-14-19-04-00 +0000",
-    "source": "wsj",
-    "headline": "AIG Hit by More Executive Churn as Incoming President Will No Longer Join",
-    "link": "https://www.wsj.com/business/aig-hit-by-more-executive-churn-as-incoming-president-will-no-longer-join-dafcc19d?mod=pls_whats_news_us_business_f"
+    "pubdate": "2025-11-14-17-24-51 +0000",
+    "source": "bbc",
+    "headline": "Mass killings probe in Sudan will hold culprits to account, vows UN",
+    "link": "https://www.bbc.com/news/articles/c70jd4elgwzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-11-14-22-26-25 +0000",
+    "source": "nypost",
+    "headline": "Jack Schlossberg shamelessly invokes Kennedy name right out of gate to drum up cash for NYC Congress race",
+    "link": "https://nypost.com/2025/11/14/us-news/jack-schlossberg-invokes-kennedy-name-to-drum-up-cash/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-11-14-10-04-03 +0000",
+    "source": "nyt",
+    "headline": "America First? Some Trump Supporters Worry That’s No Longer the Case.",
+    "link": "https://www.nytimes.com/2025/11/14/us/politics/trump-supporters-america-first-concerns.html"
   },
   {
     "score": 42,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "US agrees deal to slash Swiss tariffs to 15% after golden charm offensive",
     "link": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-11-14-21-57-00 +0000",
-    "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e7a10f74?mod=pls_whats_news_us_business_f"
   }
 ]
