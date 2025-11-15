@@ -1,16 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2025-11-15-13-01-48 +0000",
-    "source": "bbc",
-    "headline": "Trump says he will take legal action against BBC over Panorama edit",
-    "link": "https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss"
+    "score": 19,
+    "pubdate": "2025-11-15-14-27-18 +0000",
+    "source": "nyt",
+    "headline": "Once He Was ‘Just Asking Questions.’ Now Tucker Carlson Is the Question.",
+    "link": "https://www.nytimes.com/2025/11/15/us/politics/tucker-carlson-fuentes.html"
   },
   {
-    "score": 6,
-    "pubdate": "2025-11-15-13-00-05 +0000",
+    "score": 13,
+    "pubdate": "2025-11-15-14-28-32 +0000",
     "source": "nyt",
-    "headline": "An Economist Asked, How Much Should We Spend to Avoid the A.I. Apocalypse?",
-    "link": "https://www.nytimes.com/2025/11/15/business/dealbook/an-economist-asked-how-much-should-we-spend-to-avoid-the-ai-apocalypse.html"
+    "headline": "9 Dead After Accidental Blast at Police Station in Kashmir",
+    "link": "https://www.nytimes.com/2025/11/15/world/asia/india-kashmir-police-station-blast.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-15-14-03-26 +0000",
+    "source": "nypost",
+    "headline": "Embattled Wuhan doctor and ex-prez of EcoHealth Alliance Peter Daszak left ‘unemployed’ and ‘poor’: lawsuit",
+    "link": "https://nypost.com/2025/11/15/us-news/wuhan-doctor-and-ecohealth-alliance-ex-prez-unemployed-poor-suit/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-15-13-57-00 +0000",
+    "source": "wsj",
+    "headline": "Iran Seizes Fuel Tanker in Middle East Waterway",
+    "link": "https://www.wsj.com/world/middle-east/iran-seizes-fuel-tanker-in-middle-east-waterway-5baf1fb9"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-15-14-40-01 +0000",
+    "source": "nypost",
+    "headline": "Pope Leo returns artifacts from Vatican Museum to Indigenous peoples from Canada",
+    "link": "https://nypost.com/2025/11/15/world-news/pope-returns-62-artifacts-to-indigenous-peoples-from-canada/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-15-14-00-00 +0000",
+    "source": "wapo",
+    "headline": "Latino Dodgers fans want the champions to stand up to Trump",
+    "link": "https://www.washingtonpost.com/nation/2025/11/15/dodgers-trump-white-house-invitation-protest/"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-11-15-14-42-40 +0000",
+    "source": "wapo",
+    "headline": "300 billion reasons the penny won’t be dead for a while",
+    "link": "https://www.washingtonpost.com/nation/2025/11/15/penny-300-billion-disappear/"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-11-15-13-57-25 +0000",
+    "source": "bbc",
+    "headline": "Iran confirms it seized tanker in Strait of Hormuz",
+    "link": "https://www.bbc.com/news/articles/cze6zxjw3g3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-11-15-14-23-11 +0000",
+    "source": "bbc",
+    "headline": "Epstein files: Who else was mentioned?",
+    "link": "https://www.bbc.com/news/articles/cn09n94qg92o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 1,
+    "pubdate": "2025-11-15-14-41-32 +0000",
+    "source": "nyt",
+    "headline": "Tuning In",
+    "link": "https://www.nytimes.com/2025/11/15/briefing/tuning-in.html"
   }
 ]

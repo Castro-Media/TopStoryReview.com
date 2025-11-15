@@ -1,17 +1,24 @@
 [
   {
-    "score": 347,
+    "score": 343,
     "pubdate": "2025-11-15-01-02-00 +0000",
     "source": "wsj",
     "headline": "Trump said he would ask the Justice Department and the FBI to launch an investigation into Jeffrey Epstein’s relationship with former President Bill Clinton and other Democrats",
     "link": "https://www.wsj.com/politics/policy/trump-calls-for-investigation-into-democrats-named-in-epstein-emails-83dbe8db"
   },
   {
-    "score": 183,
+    "score": 182,
     "pubdate": "2025-11-15-11-00-00 +0000",
     "source": "nypost",
     "headline": "What affordability crisis? New Yorkers line up for hours to pay $12 for grapes and $65 for olive oil at trendy new gourmet grocer Meadow Lane",
-    "link": "https://nypost.com/2025/11/15/us-news/nycs-meadow-lane-gourmet-grocery-debuts-amid-affordability-crisis/"
+    "link": "https://nypost.com/2025/11/15/lifestyle/nycs-meadow-lane-gourmet-grocery-debuts-amid-affordability-crisis/"
+  },
+  {
+    "score": 112,
+    "pubdate": "2025-11-13-21-46-58 +0000",
+    "source": "nypost",
+    "headline": "Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut",
+    "link": "https://nypost.com/2025/11/13/business/stocks-have-worst-day-in-a-month-amid-ai-concerns-lower-hopes-for-interest-rate-cut/"
   },
   {
     "score": 110,
@@ -21,32 +28,11 @@
     "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
-    "score": 109,
-    "pubdate": "2025-11-13-21-46-58 +0000",
-    "source": "nypost",
-    "headline": "Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut",
-    "link": "https://nypost.com/2025/11/13/business/stocks-have-worst-day-in-a-month-amid-ai-concerns-lower-hopes-for-interest-rate-cut/"
-  },
-  {
-    "score": 105,
+    "score": 102,
     "pubdate": "2025-11-14-21-47-00 +0000",
     "source": "wsj",
     "headline": "The reopened federal government will on Thursday release the first backlogged monthly jobs report, for the month of September",
     "link": "https://www.wsj.com/economy/jobs/september-jobs-report-coming-thursday-after-government-reopens-f15d5f54"
-  },
-  {
-    "score": 96,
-    "pubdate": "2025-11-14-03-04-50 +0000",
-    "source": "nypost",
-    "headline": "Va. prosecutor accused of ‘stymying the investigation’ into alleged threats against Trump aide Stephen Miller faces House probe",
-    "link": "https://nypost.com/2025/11/13/us-news/va-prosecutor-accused-of-stymying-the-investigation-into-alleged-threats-against-trump-aide-stephen-miller-faces-house-probe/"
-  },
-  {
-    "score": 87,
-    "pubdate": "2025-11-14-20-10-04 +0000",
-    "source": "nyt",
-    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
-    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
   },
   {
     "score": 87,
@@ -56,14 +42,28 @@
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-his-pick-for-top-irs-lawyer-06480f39"
   },
   {
-    "score": 84,
+    "score": 86,
+    "pubdate": "2025-11-15-13-41-18 +0000",
+    "source": "nypost",
+    "headline": "Let our people go! Zohran Mamdani victory spurs Staten Island pols to renew bid to pull out of NYC",
+    "link": "https://nypost.com/2025/11/15/us-news/staten-island-pols-renew-bid-to-pull-out-of-nyc-in-response-to-mamdani-winning-mayoral-race/"
+  },
+  {
+    "score": 83,
     "pubdate": "2025-11-13-11-00-00 +0000",
     "source": "latimes",
     "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
     "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
   },
   {
-    "score": 80,
+    "score": 82,
+    "pubdate": "2025-11-14-20-10-04 +0000",
+    "source": "nyt",
+    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
+    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
+  },
+  {
+    "score": 79,
     "pubdate": "2025-11-13-03-44-00 +0000",
     "source": "wsj",
     "headline": "Here are key parts of the shutdown deal, from back pay to hemp regulation and a controversial item involving potential $500,000 payouts to senators",
