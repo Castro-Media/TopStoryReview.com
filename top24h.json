@@ -1,24 +1,17 @@
 [
   {
-    "score": 226,
+    "score": 210,
     "pubdate": "2025-11-15-15-16-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-support-for-once-staunch-backer-marjorie-taylor-greene-89798ddf"
   },
   {
-    "score": 58,
+    "score": 54,
     "pubdate": "2025-11-14-21-07-00 +0000",
     "source": "wsj",
     "headline": "Trump said he is withdrawing the nomination of Donald Korb to be the IRS’s top lawyer, pulling the plug on the pick just days before Korb was set to be confirmed by the Senate",
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-his-pick-for-top-irs-lawyer-06480f39"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-11-15-00-36-28 +0000",
-    "source": "cbc",
-    "headline": "What will the federal government's Major Projects Office do — and will it succeed?",
-    "link": "https://www.cbc.ca/news/politics/major-projects-office-carney-9.6979717?cmp=rss"
   },
   {
     "score": 51,
@@ -29,44 +22,51 @@
   },
   {
     "score": 50,
-    "pubdate": "2025-11-15-13-41-18 +0000",
-    "source": "nypost",
-    "headline": "Let our people go! Zohran Mamdani victory spurs Staten Island pols to renew bid to pull out of NYC",
-    "link": "https://nypost.com/2025/11/15/us-news/staten-island-pols-renew-bid-to-pull-out-of-nyc-in-response-to-mamdani-winning-mayoral-race/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-11-15-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump administration officials including Health Secretary Robert F. Kennedy Jr. have discussed scaling back the role of Marty Makary, the Food and Drug Administration commissioner",
-    "link": "https://www.wsj.com/politics/policy/rfk-jr-fda-head-management-7dce398f"
-  },
-  {
-    "score": 49,
     "pubdate": "2025-11-15-11-00-00 +0000",
     "source": "nypost",
     "headline": "What affordability crisis? New Yorkers line up for hours to pay $12 for grapes and $65 for olive oil at trendy new gourmet grocer Meadow Lane",
     "link": "https://nypost.com/2025/11/15/lifestyle/nycs-meadow-lane-gourmet-grocery-debuts-amid-affordability-crisis/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-14-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Our compulsive purchasing of cheap, foreign-made goods may be coming to an end as tariffs drive prices higher and social trends make overconsumption uncool.",
-    "link": "https://www.wsj.com/economy/consumers/will-trumps-trade-war-break-americas-addiction-to-cheap-stuff-ff21df9e"
+    "score": 50,
+    "pubdate": "2025-11-15-00-36-28 +0000",
+    "source": "cbc",
+    "headline": "What will the federal government's Major Projects Office do — and will it succeed?",
+    "link": "https://www.cbc.ca/news/politics/major-projects-office-carney-9.6979717?cmp=rss"
   },
   {
-    "score": 39,
-    "pubdate": "2025-11-14-16-29-00 +0000",
+    "score": 48,
+    "pubdate": "2025-11-15-10-00-00 +0000",
     "source": "wsj",
-    "headline": "Congress released a cache of documents this week that were recently turned over by Epstein’s estate. Among them: 2,300-plus email threads the convicted sex offender either sent or received between 2008 and 2019",
-    "link": "https://www.wsj.com/politics/policy/the-epstein-email-cache-2-300-messages-many-of-which-mention-trump-5edf0226"
+    "headline": "Trump administration officials including Health Secretary Robert F. Kennedy Jr. have discussed scaling back the role of Marty Makary, the Food and Drug Administration commissioner",
+    "link": "https://www.wsj.com/politics/policy/rfk-jr-fda-head-management-7dce398f"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-11-15-13-41-18 +0000",
+    "source": "nypost",
+    "headline": "Let our people go! Zohran Mamdani victory spurs Staten Island pols to renew bid to pull out of NYC",
+    "link": "https://nypost.com/2025/11/15/us-news/staten-island-pols-renew-bid-to-pull-out-of-nyc-in-response-to-mamdani-winning-mayoral-race/"
   },
   {
     "score": 38,
-    "pubdate": "2025-11-15-13-22-06 +0000",
-    "source": "cbc",
-    "headline": "Trump calls it quits with Marjorie Taylor Greene amid Epstein feud, calling her 'Wacky'",
-    "link": "https://www.cbc.ca/news/world/u-s-trump-greene-fallout-9.6980332?cmp=rss"
+    "pubdate": "2025-11-14-17-59-25 +0000",
+    "source": "bbc",
+    "headline": "US agrees deal to slash Swiss tariffs to 15% after golden charm offensive",
+    "link": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-11-15-16-52-32 +0000",
+    "source": "nyt",
+    "headline": "Trump Cuts Ties With Marjorie Taylor Greene, Calling Her ‘Wacky’",
+    "link": "https://www.nytimes.com/2025/11/14/us/politics/trump-marjorie-taylor-greene-split.html"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-11-14-21-59-00 +0000",
+    "source": "wsj",
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-6e0523a4?mod=rss_markets_main"
   }
 ]
