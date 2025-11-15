@@ -1,24 +1,31 @@
 [
   {
-    "score": 171,
-    "pubdate": "2025-11-14-19-49-00 +0000",
+    "score": 178,
+    "pubdate": "2025-11-15-01-02-00 +0000",
     "source": "wsj",
     "headline": "Trump said he would ask the Justice Department and the FBI to launch an investigation into Jeffrey Epstein’s relationship with former President Bill Clinton and other Democrats",
     "link": "https://www.wsj.com/politics/policy/trump-calls-for-investigation-into-democrats-named-in-epstein-emails-83dbe8db"
   },
   {
-    "score": 71,
+    "score": 69,
     "pubdate": "2025-11-14-22-26-25 +0000",
     "source": "nypost",
     "headline": "Jack Schlossberg shamelessly invokes Kennedy name right out of gate to drum up cash for NYC Congress race",
     "link": "https://nypost.com/2025/11/14/us-news/jack-schlossberg-invokes-kennedy-name-to-drum-up-cash/"
   },
   {
-    "score": 56,
+    "score": 59,
     "pubdate": "2025-11-14-18-15-02 +0000",
     "source": "bbc",
     "headline": "Government borrowing costs jump after Reeves decides against income tax rise",
     "link": "https://www.bbc.com/news/articles/cy5qz4qdq95o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-11-14-20-10-03 +0000",
+    "source": "nyt",
+    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
+    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
   },
   {
     "score": 56,
@@ -28,14 +35,7 @@
     "link": "https://www.wsj.com/business/retail/john-furner-walmart-ceo-profile-c596a5d3?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 55,
-    "pubdate": "2025-11-14-20-10-03 +0000",
-    "source": "nyt",
-    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
-    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
-  },
-  {
-    "score": 53,
+    "score": 51,
     "pubdate": "2025-11-14-19-29-46 +0000",
     "source": "latimes",
     "headline": "Supreme Court urged to block California laws requiring companies to disclose climate impacts",
@@ -49,24 +49,24 @@
     "link": "https://www.wsj.com/economy/trade/u-s-to-cut-tariffs-on-bananas-coffee-and-other-goods-from-four-countries-5a527e94"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-14-21-03-39 +0000",
-    "source": "nypost",
-    "headline": "Purdue Pharma’s $7B opioid bankruptcy deal to settle thousands of lawsuits gets green light",
-    "link": "https://nypost.com/2025/11/14/business/judge-approves-purdue-pharmas-7b-opioid-bankruptcy-settlement/"
+    "score": 48,
+    "pubdate": "2025-11-14-17-24-51 +0000",
+    "source": "bbc",
+    "headline": "Mass killings probe in Sudan will hold culprits to account, vows UN",
+    "link": "https://www.bbc.com/news/articles/c70jd4elgwzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2025-11-14-21-38-30 +0000",
-    "source": "nyt",
-    "headline": "Justice Dept. Memo Blessing Boat Strikes Is Said to Rely on Trump’s Claims About Cartels",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/boat-strikes-doj-memo-trump.html"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-14-01-00-00 +0000",
+    "score": 46,
+    "pubdate": "2025-11-14-21-07-00 +0000",
     "source": "wsj",
-    "headline": "Companies Predict 2026 Will Be the Worst College Grad Job Market in Five Years",
-    "link": "https://www.wsj.com/lifestyle/careers/2026-graduates-job-market-7928bcd7?mod=pls_whats_news_us_business_f"
+    "headline": "Trump said he is withdrawing the nomination of Donald Korb to be the IRS’s top lawyer, pulling the plug on the pick just days before Korb was set to be confirmed by the Senate",
+    "link": "https://www.wsj.com/politics/policy/trump-withdraws-his-pick-for-top-irs-lawyer-06480f39"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-11-14-21-46-32 +0000",
+    "source": "nypost",
+    "headline": "NYC Mayor-elect Zohran Mamdani calls for Starbucks boycott as union strikes",
+    "link": "https://nypost.com/2025/11/14/business/nyc-mayor-elect-zohran-mamdani-calls-for-starbucks-boycott-as-union-strikes/"
   }
 ]
