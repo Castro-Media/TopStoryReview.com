@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 41,
+    "pubdate": "2025-11-14-23-27-02 +0000",
+    "source": "nyt",
+    "headline": "Trump Turns to Affordability Message Amid Economic Frustration",
+    "link": "https://www.nytimes.com/2025/11/14/us/politics/trump-affordability-economy.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-11-14-23-18-25 +0000",
+    "source": "nyt",
+    "headline": "At U.N. Security Council, Russia Counters Trump Gaza Plan With Its Own",
+    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/russia-us-gaza-un-security-council.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-14-23-45-47 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration to Reduce Flight Cuts at Airports Imposed During Shutdown",
+    "link": "https://www.nytimes.com/2025/11/14/us/politics/flights-restrictions-travel-faa.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-14-23-39-54 +0000",
+    "source": "latimes",
+    "headline": "Foul-mouthed, brash and savvy: What to know about ex-Newsom aide tangled in a corruption probe",
+    "link": "https://www.latimes.com/california/story/2025-11-14/dana-williamson-newsom-aide-profile-federal-indictment"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-11-14-23-15-46 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Lifts Some Food Tariffs in Effort to Ease Prices",
+    "link": "https://www.nytimes.com/2025/11/14/business/economy/trump-food-tariffs-inflation.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-14-23-30-00 +0000",
+    "source": "nypost",
+    "headline": "Quirky NYC artist celebrates the Big Apple with tribute to the biggest apple of all — The Post",
+    "link": "https://nypost.com/2025/11/14/lifestyle/nyc-artist-celebrates-big-apple-with-tribute-to-the-post/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-14-22-56-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump moved to lower duties on beef, coffee and dozens of other goods.",
+    "link": "https://www.wsj.com/economy/trade/trump-implements-major-rollback-of-food-tariffs-f575c75d"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-14-23-27-54 +0000",
+    "source": "nypost",
+    "headline": "Sicko pours scorching-hot cooking oil on NYC man — leaving him with severe burns",
+    "link": "https://nypost.com/2025/11/14/us-news/nyc-woman-pours-scorching-hot-cooking-oil-on-man-in-home/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-14-23-43-21 +0000",
+    "source": "nypost",
+    "headline": "Ousted Verizon boss could still pocket most of $20M salary as company cuts 15,000 jobs: report",
+    "link": "https://nypost.com/2025/11/14/business/ousted-verizon-boss-could-still-pocket-most-of-20m-salary-as-company-cuts-15000-jobs-report/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-14-23-08-04 +0000",
+    "source": "nyt",
+    "headline": "John Beam, Football Coach From Netflix’s ‘Last Chance U,’ Dies After Being Shot",
+    "link": "https://www.nytimes.com/2025/11/13/us/john-beam-laney-college-shooting-last-chance.html"
+  }
+]
