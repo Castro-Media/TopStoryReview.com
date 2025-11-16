@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 25,
+    "pubdate": "2025-11-16-10-00-48 +0000",
+    "source": "nyt",
+    "headline": "Pasta at Twice the Price? Some Italian Producers Face Huge U.S. Tariffs.",
+    "link": "https://www.nytimes.com/2025/11/16/business/italian-pasta-tariffs-trump.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2025-11-16-10-00-49 +0000",
+    "source": "nyt",
+    "headline": "UN Climate Summit in Brazil Brings Tourism and Change to Belém’s Ver-o-Peso Market",
+    "link": "https://www.nytimes.com/2025/11/16/world/americas/un-climate-summit-belem-brazil-market.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-16-09-56-59 +0000",
+    "source": "nyt",
+    "headline": "What’s More Dangerous Than India’s Frequent Heat Waves? Heat Stress.",
+    "link": "https://www.nytimes.com/2025/11/16/world/asia/heat-stress-women-india.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-16-10-32-29 +0000",
+    "source": "nyt",
+    "headline": "China Escalates Japan Feud With Island Patrols and Warnings to Citizens",
+    "link": "https://www.nytimes.com/2025/11/16/world/asia/china-japan-relations-coast-guard.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-16-10-01-31 +0000",
+    "source": "nyt",
+    "headline": "The Unlikely Mother of a Movement, on a Hunger Strike to Avenge Her Son",
+    "link": "https://www.nytimes.com/2025/11/16/world/europe/sebia-mother-hunger-strike.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-16-10-00-22 +0000",
+    "source": "nyt",
+    "headline": "Homeland Security Department Shifts Its Focus to Immigration Crackdown",
+    "link": "https://www.nytimes.com/2025/11/16/us/politics/dhs-agents-reassigned.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-16-10-39-23 +0000",
+    "source": "nypost",
+    "headline": "Canadian dad dies trying to rescue 5-year-old daughter who was swept into ocean by large California waves",
+    "link": "https://nypost.com/2025/11/16/us-news/canadian-dad-yuji-hu-killed-trying-to-rescue-daughter-swept-out-to-sea-by-big-wave-at-california-beach/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-16-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Now Tech Moguls Want to Build Data Centers in Outer Space",
+    "link": "https://www.wsj.com/tech/now-tech-moguls-want-to-build-data-centers-in-outer-space-a8d08b4b?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-16-10-48-32 +0000",
+    "source": "bbc",
+    "headline": "YouTuber Jack Doherty arrested in Miami on drug possession charges",
+    "link": "https://www.bbc.com/news/articles/c620yzjpxlvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-16-10-00-00 +0000",
+    "source": "wapo",
+    "headline": "How TikTok came to rival eBay as a global online shopping destination",
+    "link": "https://www.washingtonpost.com/business/2025/11/16/tiktok-shop-growth-ebay/"
+  }
+]
