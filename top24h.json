@@ -1,17 +1,10 @@
 [
   {
-    "score": 91,
+    "score": 78,
     "pubdate": "2025-11-15-19-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-support-for-once-staunch-backer-marjorie-taylor-greene-89798ddf"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-11-16-04-19-06 +0000",
-    "source": "nypost",
-    "headline": "Four dead as migrant vessel overturns in rough surf off San Diego coast",
-    "link": "https://nypost.com/2025/11/15/us-news/four-dead-as-migrant-vessel-overturns-off-san-diego-coast/"
   },
   {
     "score": 40,
@@ -21,11 +14,11 @@
     "link": "https://www.latimes.com/california/story/2025-11-15/indictment-of-ex-newsom-aide-hints-at-feds-probe-into-state-investigation"
   },
   {
-    "score": 37,
-    "pubdate": "2025-11-16-10-39-23 +0000",
+    "score": 38,
+    "pubdate": "2025-11-16-04-19-06 +0000",
     "source": "nypost",
-    "headline": "Canadian dad dies trying to rescue 5-year-old daughter who was swept into ocean by large California waves",
-    "link": "https://nypost.com/2025/11/16/us-news/canadian-dad-yuji-hu-killed-trying-to-rescue-daughter-swept-out-to-sea-by-big-wave-at-california-beach/"
+    "headline": "Four dead as migrant vessel overturns in rough surf off San Diego coast",
+    "link": "https://nypost.com/2025/11/15/us-news/four-dead-as-migrant-vessel-overturns-off-san-diego-coast/"
   },
   {
     "score": 37,
@@ -42,7 +35,14 @@
     "link": "https://www.washingtonpost.com/business/2025/11/15/fed-governor-stocks-ethics/"
   },
   {
-    "score": 32,
+    "score": 35,
+    "pubdate": "2025-11-16-10-39-23 +0000",
+    "source": "nypost",
+    "headline": "Canadian dad dies trying to rescue 5-year-old daughter who was swept into ocean by large California waves",
+    "link": "https://nypost.com/2025/11/16/us-news/canadian-dad-yuji-hu-killed-trying-to-rescue-daughter-swept-out-to-sea-by-big-wave-at-california-beach/"
+  },
+  {
+    "score": 31,
     "pubdate": "2025-11-16-13-33-18 +0000",
     "source": "bbc",
     "headline": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
@@ -50,10 +50,10 @@
   },
   {
     "score": 28,
-    "pubdate": "2025-11-16-14-50-10 +0000",
-    "source": "nypost",
-    "headline": "Marjorie Taylor Greene insists she still supports Trump — while repeatedly slamming him in bonkers interview after Epstein fight",
-    "link": "https://nypost.com/2025/11/16/us-news/marjorie-taylor-greene-insists-she-still-supports-trump-while-repeatedly-slamming-him-after-epstein-fight/"
+    "pubdate": "2025-11-16-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump and his advisers are rushing to try to lower prices for U.S. consumers after voters sent a warning shot to Republicans this month over the high cost of living",
+    "link": "https://www.wsj.com/economy/consumers/trump-cost-of-living-prices-8e08798d"
   },
   {
     "score": 28,
@@ -63,10 +63,10 @@
     "link": "https://www.nytimes.com/2025/11/16/business/italian-pasta-tariffs-trump.html"
   },
   {
-    "score": 28,
-    "pubdate": "2025-11-16-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump and his advisers are rushing to try to lower prices for U.S. consumers after voters sent a warning shot to Republicans this month over the high cost of living",
-    "link": "https://www.wsj.com/economy/consumers/trump-cost-of-living-prices-8e08798d"
+    "score": 27,
+    "pubdate": "2025-11-15-18-15-54 +0000",
+    "source": "nypost",
+    "headline": "Zelensky vows to overhaul Ukraine’s energy sector in wake of $100M corruption scandal",
+    "link": "https://nypost.com/2025/11/15/world-news/zelensky-vows-to-overhaul-ukraines-energy-sector-after-100m-corruption-scandal-exposed/"
   }
 ]
