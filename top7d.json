@@ -1,20 +1,27 @@
 [
   {
-    "score": 334,
+    "score": 333,
     "pubdate": "2025-11-15-19-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-support-for-once-staunch-backer-marjorie-taylor-greene-89798ddf"
   },
   {
-    "score": 151,
+    "score": 150,
     "pubdate": "2025-11-13-15-10-33 +0000",
     "source": "latimes",
     "headline": "First look: Inside California's new $600-million casino that's bigger than Caesars Palace",
     "link": "https://www.latimes.com/travel/story/2025-11-13/hard-rock-casino-tejon-photos"
   },
   {
-    "score": 106,
+    "score": 116,
+    "pubdate": "2025-11-16-00-29-01 +0000",
+    "source": "bbc",
+    "headline": "My mum was a 17-year-old free spirit - so she was locked up and put in a coma",
+    "link": "https://www.bbc.com/news/articles/cr43vx0rrwvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 105,
     "pubdate": "2025-11-13-21-46-58 +0000",
     "source": "nypost",
     "headline": "Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut",
@@ -35,13 +42,6 @@
     "link": "https://www.cbc.ca/news/politics/major-projects-office-carney-9.6979717?cmp=rss"
   },
   {
-    "score": 93,
-    "pubdate": "2025-11-14-22-01-26 +0000",
-    "source": "bbc",
-    "headline": "Record settler attacks in West Bank opening up rifts within Israel",
-    "link": "https://www.bbc.com/news/articles/cwykze63r2xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 86,
     "pubdate": "2025-11-13-11-00-00 +0000",
     "source": "latimes",
@@ -49,18 +49,18 @@
     "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
   },
   {
-    "score": 81,
-    "pubdate": "2025-11-14-21-46-32 +0000",
-    "source": "nypost",
-    "headline": "NYC Mayor-elect Zohran Mamdani urges Starbucks boycott as union workers strike across US",
-    "link": "https://nypost.com/2025/11/14/business/nyc-mayor-elect-zohran-mamdani-calls-for-starbucks-boycott-as-union-strikes/"
+    "score": 82,
+    "pubdate": "2025-11-14-20-10-04 +0000",
+    "source": "nyt",
+    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
+    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
   },
   {
-    "score": 80,
-    "pubdate": "2025-11-13-23-42-04 +0000",
-    "source": "nyt",
-    "headline": "Carney Accelerates Economic Plan for Canada to Rely Less on U.S. Amid Trade War",
-    "link": "https://www.nytimes.com/2025/11/13/world/canada/carney-economy-trade-trump-tariffs.html"
+    "score": 81,
+    "pubdate": "2025-11-13-16-08-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s plan to allow oil drilling off California’s coast is running into a stark reality: in the Golden State, offshore drilling is political poison, even for the president’s GOP allies",
+    "link": "https://www.wsj.com/politics/policy/trumps-offshore-drilling-push-faces-deep-rooted-opposition-in-california-b7518113"
   },
   {
     "score": 79,
