@@ -1,24 +1,17 @@
 [
   {
-    "score": 90,
+    "score": 91,
     "pubdate": "2025-11-15-19-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/trump-withdraws-support-for-once-staunch-backer-marjorie-taylor-greene-89798ddf"
   },
   {
-    "score": 42,
+    "score": 40,
     "pubdate": "2025-11-16-04-19-06 +0000",
     "source": "nypost",
     "headline": "Four dead as migrant vessel overturns in rough surf off San Diego coast",
     "link": "https://nypost.com/2025/11/15/us-news/four-dead-as-migrant-vessel-overturns-off-san-diego-coast/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-11-16-00-29-01 +0000",
-    "source": "bbc",
-    "headline": "My mum was a 17-year-old free spirit - so she was locked up and put in a coma",
-    "link": "https://www.bbc.com/news/articles/cr43vx0rrwvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 40,
@@ -26,6 +19,13 @@
     "source": "latimes",
     "headline": "Indictment of ex-Newsom aide hints at feds' probe into state's earlier investigation of video game giant",
     "link": "https://www.latimes.com/california/story/2025-11-15/indictment-of-ex-newsom-aide-hints-at-feds-probe-into-state-investigation"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-11-16-10-39-23 +0000",
+    "source": "nypost",
+    "headline": "Canadian dad dies trying to rescue 5-year-old daughter who was swept into ocean by large California waves",
+    "link": "https://nypost.com/2025/11/16/us-news/canadian-dad-yuji-hu-killed-trying-to-rescue-daughter-swept-out-to-sea-by-big-wave-at-california-beach/"
   },
   {
     "score": 37,
@@ -49,18 +49,11 @@
     "link": "https://www.bbc.com/news/articles/c620qppzlgwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 30,
-    "pubdate": "2025-11-15-16-28-51 +0000",
-    "source": "nyt",
-    "headline": "Fears Fuel Tanker Was Seized by Iran in Strait of Hormuz",
-    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/iran-tanker-strait-of-hormuz.html"
-  },
-  {
     "score": 28,
-    "pubdate": "2025-11-16-09-57-00 +0000",
-    "source": "nyt",
-    "headline": "What’s More Dangerous Than India’s Frequent Heat Waves? Heat Stress.",
-    "link": "https://www.nytimes.com/2025/11/16/world/asia/heat-stress-women-india.html"
+    "pubdate": "2025-11-16-14-50-10 +0000",
+    "source": "nypost",
+    "headline": "Marjorie Taylor Greene insists she still supports Trump — while repeatedly slamming him in bonkers interview after Epstein fight",
+    "link": "https://nypost.com/2025/11/16/us-news/marjorie-taylor-greene-insists-she-still-supports-trump-while-repeatedly-slamming-him-after-epstein-fight/"
   },
   {
     "score": 28,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Pasta at Twice the Price? Some Italian Producers Face Huge U.S. Tariffs.",
     "link": "https://www.nytimes.com/2025/11/16/business/italian-pasta-tariffs-trump.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-11-16-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump and his advisers are rushing to try to lower prices for U.S. consumers after voters sent a warning shot to Republicans this month over the high cost of living",
+    "link": "https://www.wsj.com/economy/consumers/trump-cost-of-living-prices-8e08798d"
   }
 ]
