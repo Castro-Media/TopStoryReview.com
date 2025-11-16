@@ -1,6 +1,6 @@
 [
   {
-    "score": 162,
+    "score": 151,
     "pubdate": "2025-11-15-19-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
@@ -21,18 +21,11 @@
     "link": "https://www.nytimes.com/2025/11/14/world/middleeast/iran-tanker-strait-of-hormuz.html"
   },
   {
-    "score": 43,
+    "score": 35,
     "pubdate": "2025-11-15-21-55-34 +0000",
     "source": "latimes",
     "headline": "Indictment of ex-Newsom aide hints at feds' probe into state's earlier investigation of video game giant",
     "link": "https://www.latimes.com/california/story/2025-11-15/indictment-of-ex-newsom-aide-hints-at-feds-probe-into-state-investigation"
-  },
-  {
-    "score": 37,
-    "pubdate": "2025-11-15-10-56-49 +0000",
-    "source": "cbc",
-    "headline": "Vatican returns Indigenous cultural items to Canada's Catholic bishops on a 'historic day'",
-    "link": "https://www.cbc.ca/news/vatican-returns-indigenous-cultural-items-canada-9.6980307?cmp=rss"
   },
   {
     "score": 35,
@@ -42,18 +35,18 @@
     "link": "https://www.wsj.com/politics/policy/rfk-jr-fda-head-management-7dce398f"
   },
   {
+    "score": 35,
+    "pubdate": "2025-11-15-10-56-49 +0000",
+    "source": "cbc",
+    "headline": "Vatican returns Indigenous cultural items to Canada's Catholic bishops on a 'historic day'",
+    "link": "https://www.cbc.ca/news/vatican-returns-indigenous-cultural-items-canada-9.6980307?cmp=rss"
+  },
+  {
     "score": 33,
     "pubdate": "2025-11-15-17-54-19 +0000",
     "source": "wapo",
     "headline": "Former Fed governor violated central bank’s trading rules, new disclosures show",
     "link": "https://www.washingtonpost.com/business/2025/11/15/fed-governor-stocks-ethics/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-11-15-13-22-06 +0000",
-    "source": "cbc",
-    "headline": "Trump calls it quits with Marjorie Taylor Greene amid Epstein feud, calling her 'Wacky'",
-    "link": "https://www.cbc.ca/news/world/u-s-trump-greene-fallout-9.6980332?cmp=rss"
   },
   {
     "score": 31,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/11/15/world-news/miss-israel-getting-death-threats-after-being-accused-of-giving-miss-palenstine-side-eye/"
   },
   {
-    "score": 30,
+    "score": 31,
     "pubdate": "2025-11-15-00-36-28 +0000",
     "source": "cbc",
     "headline": "What will the federal government's Major Projects Office do — and will it succeed?",
     "link": "https://www.cbc.ca/news/politics/major-projects-office-carney-9.6979717?cmp=rss"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-11-15-01-18-17 +0000",
+    "source": "nyt",
+    "headline": "As Trump Targets Antifa in U.S., Rubio Labels European Groups as Terrorists",
+    "link": "https://www.nytimes.com/2025/11/14/us/politics/trump-rubio-antifa.html"
   }
 ]
