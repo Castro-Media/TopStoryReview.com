@@ -1,6 +1,6 @@
 [
   {
-    "score": 122,
+    "score": 123,
     "pubdate": "2025-11-15-19-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
@@ -22,10 +22,10 @@
   },
   {
     "score": 41,
-    "pubdate": "2025-11-16-05-06-12 +0000",
-    "source": "nyt",
-    "headline": "4 Dead After Suspected Migrant Boat Overturns Near a San Diego Area Beach",
-    "link": "https://www.nytimes.com/2025/11/15/us/panga-boat-capsizes-imperial-beach.html"
+    "pubdate": "2025-11-16-04-19-06 +0000",
+    "source": "nypost",
+    "headline": "Four dead as migrant vessel overturns in rough surf off San Diego coast",
+    "link": "https://nypost.com/2025/11/15/us-news/four-dead-as-migrant-vessel-overturns-off-san-diego-coast/"
   },
   {
     "score": 38,
@@ -36,17 +36,17 @@
   },
   {
     "score": 34,
-    "pubdate": "2025-11-15-10-56-49 +0000",
-    "source": "cbc",
-    "headline": "Vatican returns Indigenous cultural items to Canada's Catholic bishops on a 'historic day'",
-    "link": "https://www.cbc.ca/news/vatican-returns-indigenous-cultural-items-canada-9.6980307?cmp=rss"
-  },
-  {
-    "score": 33,
     "pubdate": "2025-11-15-23-00-19 +0000",
     "source": "bbc",
     "headline": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
     "link": "https://www.bbc.com/news/articles/c620qppzlgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-11-15-10-56-49 +0000",
+    "source": "cbc",
+    "headline": "Vatican returns Indigenous cultural items to Canada's Catholic bishops on a 'historic day'",
+    "link": "https://www.cbc.ca/news/vatican-returns-indigenous-cultural-items-canada-9.6980307?cmp=rss"
   },
   {
     "score": 33,
@@ -63,7 +63,7 @@
     "link": "https://www.washingtonpost.com/business/2025/11/15/fed-governor-stocks-ethics/"
   },
   {
-    "score": 30,
+    "score": 31,
     "pubdate": "2025-11-15-16-45-59 +0000",
     "source": "nypost",
     "headline": "Miss Israel getting death threats after being accused of giving Miss Palestine the side-eye on Miss Universe stage",
