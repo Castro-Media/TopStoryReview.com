@@ -1,17 +1,24 @@
 [
   {
-    "score": 78,
-    "pubdate": "2025-11-15-19-24-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he is withdrawing his support for GOP Rep. Marjorie Taylor, a longtime backer who called for the release of Justice Department investigative files into Jeffrey Epstein",
-    "link": "https://www.wsj.com/politics/policy/trump-withdraws-support-for-once-staunch-backer-marjorie-taylor-greene-89798ddf"
+    "score": 74,
+    "pubdate": "2025-11-16-14-50-10 +0000",
+    "source": "nypost",
+    "headline": "Marjorie Taylor Greene insists she still supports Trump — while repeatedly slamming him in bonkers interview after Epstein fight",
+    "link": "https://nypost.com/2025/11/16/us-news/marjorie-taylor-greene-insists-she-still-supports-trump-while-repeatedly-slamming-him-after-epstein-fight/"
   },
   {
-    "score": 40,
+    "score": 41,
     "pubdate": "2025-11-15-21-55-34 +0000",
     "source": "latimes",
     "headline": "Indictment of ex-Newsom aide hints at feds' probe into state's earlier investigation of video game giant",
     "link": "https://www.latimes.com/california/story/2025-11-15/indictment-of-ex-newsom-aide-hints-at-feds-probe-into-state-investigation"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-11-16-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "Over 60% of Americans are comfortable with how things are going in their financial lives, but our recent WSJ-NORC poll also revealed significant pessimism about the future of the U.S. economy",
+    "link": "https://www.wsj.com/politics/policy/economic-outlook-sentiment-poll-quiz-99d71df8"
   },
   {
     "score": 38,
@@ -21,52 +28,45 @@
     "link": "https://nypost.com/2025/11/15/us-news/four-dead-as-migrant-vessel-overturns-off-san-diego-coast/"
   },
   {
-    "score": 37,
-    "pubdate": "2025-11-16-00-04-49 +0000",
-    "source": "nyt",
-    "headline": "Protesters Rage Against Mexico’s Government Over Corruption and Violence",
-    "link": "https://www.nytimes.com/2025/11/15/world/americas/mexico-protest-violence.html"
-  },
-  {
     "score": 36,
-    "pubdate": "2025-11-15-17-54-19 +0000",
-    "source": "wapo",
-    "headline": "Former Fed governor violated central bank’s trading rules, new disclosures show",
-    "link": "https://www.washingtonpost.com/business/2025/11/15/fed-governor-stocks-ethics/"
+    "pubdate": "2025-11-16-01-42-19 +0000",
+    "source": "cbc",
+    "headline": "Anti-government protesters clash with riot police in Mexico City during Gen Z-led rally",
+    "link": "https://www.cbc.ca/news/world/gen-z-protest-mexico-9.6980605?cmp=rss"
   },
   {
     "score": 35,
-    "pubdate": "2025-11-16-10-39-23 +0000",
-    "source": "nypost",
-    "headline": "Canadian dad dies trying to rescue 5-year-old daughter who was swept into ocean by large California waves",
-    "link": "https://nypost.com/2025/11/16/us-news/canadian-dad-yuji-hu-killed-trying-to-rescue-daughter-swept-out-to-sea-by-big-wave-at-california-beach/"
-  },
-  {
-    "score": 31,
-    "pubdate": "2025-11-16-13-33-18 +0000",
-    "source": "bbc",
-    "headline": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
-    "link": "https://www.bbc.com/news/articles/c620qppzlgwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 28,
     "pubdate": "2025-11-16-02-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump and his advisers are rushing to try to lower prices for U.S. consumers after voters sent a warning shot to Republicans this month over the high cost of living",
     "link": "https://www.wsj.com/economy/consumers/trump-cost-of-living-prices-8e08798d"
   },
   {
-    "score": 28,
-    "pubdate": "2025-11-16-10-00-48 +0000",
-    "source": "nyt",
-    "headline": "Pasta at Twice the Price? Some Italian Producers Face Huge U.S. Tariffs.",
-    "link": "https://www.nytimes.com/2025/11/16/business/italian-pasta-tariffs-trump.html"
+    "score": 33,
+    "pubdate": "2025-11-16-16-58-43 +0000",
+    "source": "nypost",
+    "headline": "MTG suggests Israel or ‘other foreign gov’t’ may be pressuring Trump to cover up Epstein files",
+    "link": "https://nypost.com/2025/11/16/us-news/mtg-suggests-israel-or-other-foreign-govt-may-be-pressuring-trump-to-cover-up-epstein-files/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-11-16-13-33-18 +0000",
+    "source": "bbc",
+    "headline": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
+    "link": "https://www.bbc.com/news/articles/c620qppzlgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-11-16-10-39-23 +0000",
+    "source": "nypost",
+    "headline": "Canadian dad dies trying to rescue 5-year-old daughter who was swept into ocean by large California waves",
+    "link": "https://nypost.com/2025/11/16/us-news/canadian-dad-yuji-hu-killed-trying-to-rescue-daughter-swept-out-to-sea-by-big-wave-at-california-beach/"
   },
   {
     "score": 27,
-    "pubdate": "2025-11-15-18-15-54 +0000",
-    "source": "nypost",
-    "headline": "Zelensky vows to overhaul Ukraine’s energy sector in wake of $100M corruption scandal",
-    "link": "https://nypost.com/2025/11/15/world-news/zelensky-vows-to-overhaul-ukraines-energy-sector-after-100m-corruption-scandal-exposed/"
+    "pubdate": "2025-11-16-00-00-03 +0000",
+    "source": "bbc",
+    "headline": "Why India caps pollution reading at 500 when the air is far more toxic",
+    "link": "https://www.bbc.com/news/articles/ced6jgg0180o?at_medium=RSS&at_campaign=rss"
   }
 ]
