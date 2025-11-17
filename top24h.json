@@ -1,20 +1,34 @@
 [
   {
-    "score": 148,
+    "score": 150,
     "pubdate": "2025-11-17-04-47-00 +0000",
     "source": "wsj",
     "headline": "Trump threw in the towel on dissuading House Republicans from backing a measure to release files related to Jeffrey Epstein, saying Sunday night that GOP lawmakers should instead embrace the vote",
     "link": "https://www.wsj.com/politics/policy/trump-plays-hardball-with-gop-lawmakers-as-epstein-vote-approaches-4700b01b"
   },
   {
-    "score": 50,
+    "score": 53,
     "pubdate": "2025-11-17-00-00-21 +0000",
     "source": "bbc",
     "headline": "Formula 1 tech used to rev-up train wi-fi speeds in new pilot",
     "link": "https://www.bbc.com/news/articles/cqjwkdez71ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
+    "score": 52,
+    "pubdate": "2025-11-17-09-32-23 +0000",
+    "source": "bbc",
+    "headline": "Dozens of Indian pilgrims killed in bus accident in Saudi Arabia",
+    "link": "https://www.bbc.com/news/articles/cvg7dme9en0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-11-17-14-27-00 +0000",
+    "source": "wsj",
+    "headline": "Former Bangladesh Leader Sheikh Hasina Sentenced to Death Over Protest Crackdown",
+    "link": "https://www.wsj.com/world/asia/former-bangladeshi-leader-sheikh-hasina-sentenced-to-death-over-violent-protest-crackdown-072de13b"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-11-17-00-16-13 +0000",
     "source": "bbc",
     "headline": "Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC",
@@ -22,10 +36,10 @@
   },
   {
     "score": 45,
-    "pubdate": "2025-11-17-11-27-27 +0000",
+    "pubdate": "2025-11-16-23-33-06 +0000",
     "source": "nypost",
-    "headline": "Clients of NYC wine shop Sherry-Lehmann finally getting their wine back — including a stash of Bordeaux worth $80K",
-    "link": "https://nypost.com/2025/11/17/business/clients-of-nyc-wine-shop-sherry-lehmann-finally-getting-their-wine-back/"
+    "headline": "Vile antisemitic graffiti scrawled on Mexico’s top court during protests against country’s first Jewish president",
+    "link": "https://nypost.com/2025/11/16/world-news/antisemitic-graffiti-scrawled-on-mexicos-top-court-during-protests-against-countrys-first-jewish-president/"
   },
   {
     "score": 44,
@@ -35,18 +49,11 @@
     "link": "https://www.nytimes.com/2025/11/16/world/americas/un-climate-summit-belem-brazil-market.html"
   },
   {
-    "score": 43,
-    "pubdate": "2025-11-17-00-19-40 +0000",
+    "score": 44,
+    "pubdate": "2025-11-17-11-27-27 +0000",
     "source": "nypost",
-    "headline": "Liberal pols, DSA warn Gov. Kathy Hochul to back Zohran Mamdani’s agenda – or get booted from office: ‘Third strike, you’re out!’",
-    "link": "https://nypost.com/2025/11/16/us-news/liberals-put-kathy-hochul-on-hot-seat-as-worried-dems-embrace-zohran-mamdanis-tax-hikes/"
-  },
-  {
-    "score": 43,
-    "pubdate": "2025-11-17-13-05-20 +0000",
-    "source": "nyt",
-    "headline": "Bangladesh Court Sentences Former Leader Sheikh Hasina to Death",
-    "link": "https://www.nytimes.com/2025/11/17/world/asia/bangladesh-sheikh-hasina-death-sentence.html"
+    "headline": "Clients of NYC wine shop Sherry-Lehmann finally getting their wine back — including a stash of Bordeaux worth $80K",
+    "link": "https://nypost.com/2025/11/17/business/clients-of-nyc-wine-shop-sherry-lehmann-finally-getting-their-wine-back/"
   },
   {
     "score": 41,
@@ -56,17 +63,10 @@
     "link": "https://www.latimes.com/california/story/2025-11-16/father-killed-big-sur-identified-daughter-missing"
   },
   {
-    "score": 39,
-    "pubdate": "2025-11-17-02-24-00 +0000",
-    "source": "wsj",
-    "headline": "Chileans rallied behind hard-line conservatives in elections Sunday as anger over crime and immigration pushes the country to the right—setting the stage for a possible alignment with Trump.",
-    "link": "https://www.wsj.com/world/americas/chile-vote-positions-country-for-trump-era-right-turn-8bd79249"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-11-17-11-23-00 +0000",
-    "source": "wsj",
-    "headline": "Tokyo to Improve Content Creators’ Work Conditions Under ‘Cool Japan’ Strategy",
-    "link": "https://www.wsj.com/economy/tokyo-to-improve-content-creators-work-conditions-under-cool-japan-strategy-1b5ff6ac?mod=pls_whats_news_us_business_f"
+    "score": 37,
+    "pubdate": "2025-11-17-02-05-50 +0000",
+    "source": "nyt",
+    "headline": "Latest U.S. Strike on Boat in Pacific Kills 3, Southern Command Says",
+    "link": "https://www.nytimes.com/2025/11/16/us/politics/strike-boat-pacific-caribbean.html"
   }
 ]
