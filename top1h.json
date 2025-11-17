@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "score": 14,
+    "pubdate": "2025-11-17-13-05-20 +0000",
+    "source": "nyt",
+    "headline": "Bangladesh Court Sentences Former Leader Sheikh Hasina to Death",
+    "link": "https://www.nytimes.com/2025/11/17/world/asia/bangladesh-sheikh-hasina-death-sentence.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-17-13-00-50 +0000",
+    "source": "nypost",
+    "headline": "Former Fed Governor Adriana Kugler’s exit came during forbidden trading activity: filings",
+    "link": "https://nypost.com/2025/11/17/business/former-fed-governor-kuglers-exit-came-amid-forbidden-trading-activity/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-17-12-58-26 +0000",
+    "source": "nyt",
+    "headline": "Arctic Blast Brings Risk of Snow and Ice to Britain",
+    "link": "https://www.nytimes.com/2025/11/16/weather/uk-cold-forecast-snow.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-11-17-13-02-00 +0000",
+    "source": "wsj",
+    "headline": "Gibraltar to Acquire OmniMax International for $1.34 Billion",
+    "link": "https://www.wsj.com/business/deals/gibraltar-to-acquire-omnimax-international-for-1-34-billion-2b2f2a77?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 2,
+    "pubdate": "2025-11-17-12-59-35 +0000",
+    "source": "bbc",
+    "headline": "Bangladesh's ousted leader Sheikh Hasina sentenced to death",
+    "link": "https://www.bbc.com/news/articles/cpwvg99e8vdo?at_medium=RSS&at_campaign=rss"
+  }
+]
