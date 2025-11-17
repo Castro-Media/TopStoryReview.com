@@ -1,45 +1,52 @@
 [
   {
-    "score": 151,
+    "score": 134,
     "pubdate": "2025-11-17-04-47-00 +0000",
     "source": "wsj",
     "headline": "Trump threw in the towel on dissuading House Republicans from backing a measure to release files related to Jeffrey Epstein, saying that GOP lawmakers should instead embrace the vote",
     "link": "https://www.wsj.com/politics/policy/trump-plays-hardball-with-gop-lawmakers-as-epstein-vote-approaches-4700b01b"
   },
   {
-    "score": 52,
+    "score": 56,
+    "pubdate": "2025-11-17-18-40-35 +0000",
+    "source": "nypost",
+    "headline": "Bangladesh’s ousted PM Sheikh Hasina sentenced to death for ordering deadly student crackdown: ‘Historic verdict’",
+    "link": "https://nypost.com/2025/11/17/world-news/bangladeshs-pm-sheikh-hasina-sentenced-to-death/"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-11-16-20-56-21 +0000",
+    "source": "nyt",
+    "headline": "Britain’s Labour Government Plans New, Tougher System for Asylum Seekers",
+    "link": "https://www.nytimes.com/2025/11/16/world/europe/britain-asylum-system.html"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-11-17-19-48-33 +0000",
+    "source": "nyt",
+    "headline": "High Beef Prices? Trump Official Blames Biden and Migrants.",
+    "link": "https://www.nytimes.com/2025/11/17/us/politics/hamburger-beef-prices-trump.html"
+  },
+  {
+    "score": 53,
     "pubdate": "2025-11-17-09-32-23 +0000",
     "source": "bbc",
     "headline": "Dozens of Indian pilgrims killed in bus accident in Saudi Arabia",
     "link": "https://www.bbc.com/news/articles/cvg7dme9en0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 51,
+    "score": 53,
     "pubdate": "2025-11-17-16-57-00 +0000",
     "source": "wsj",
     "headline": "Fed Vice Chair Philip Jefferson acknowledged the risk of both stubborn inflation and weaker employment conditions—dueling threats that call for opposing Fed prescriptions",
     "link": "https://www.wsj.com/economy/central-banking/fed-vice-chair-says-economic-trade-offs-justify-lowering-rates-slowly-ae5d3dae"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-17-15-02-11 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court may restrict asylum claims from those arriving at the southern border",
-    "link": "https://www.latimes.com/politics/story/2025-11-17/supreme-court-may-restrict-asylum-claims-from-those-arriving-at-southern-border"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-11-17-00-00-21 +0000",
-    "source": "bbc",
-    "headline": "Formula 1 tech used to rev-up train wi-fi speeds in new pilot",
-    "link": "https://www.bbc.com/news/articles/cqjwkdez71ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-11-17-18-40-35 +0000",
-    "source": "nypost",
-    "headline": "Bangladesh’s ousted PM Sheikh Hasina sentenced to death for ordering deadly student crackdown: ‘Historic verdict’",
-    "link": "https://nypost.com/2025/11/17/world-news/bangladeshs-pm-sheikh-hasina-sentenced-to-death/"
+    "score": 47,
+    "pubdate": "2025-11-17-19-37-44 +0000",
+    "source": "nyt",
+    "headline": "France Agrees to Sell Up to 100 Rafale Fighter Jets to Ukraine",
+    "link": "https://www.nytimes.com/2025/11/17/world/europe/ukraine-france-rafale-fighter-jets.html"
   },
   {
     "score": 47,
@@ -49,24 +56,17 @@
     "link": "https://www.bbc.com/news/articles/c2emyz0zpxko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-17-16-36-08 +0000",
-    "source": "nypost",
-    "headline": "Judge orders DOJ to give Comey lawyers grand jury material  — calls out ‘disturbing pattern’ of ‘missteps’",
-    "link": "https://nypost.com/2025/11/17/us-news/judge-orders-doj-to-turn-over-grand-jury-transcript-to-comey-lawyers/"
-  },
-  {
     "score": 43,
-    "pubdate": "2025-11-17-02-26-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump and his advisers are rushing to try to lower prices for U.S. consumers after voters sent a warning shot to Republicans this month over the high cost of living",
-    "link": "https://www.wsj.com/economy/consumers/trump-cost-of-living-prices-8e08798d"
+    "pubdate": "2025-11-17-17-39-35 +0000",
+    "source": "nypost",
+    "headline": "Trump-supporting grocer says he may shut down 43-year-old store due to tariffs: ‘Is that [the] American dream? I don’t think so’",
+    "link": "https://nypost.com/2025/11/17/business/trump-supporting-grocer-says-he-may-shut-down-43-year-old-store-due-to-tariffs-is-that-american-dream-i-dont-think-so/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-11-17-15-35-16 +0000",
+    "score": 42,
+    "pubdate": "2025-11-16-23-33-06 +0000",
     "source": "nypost",
-    "headline": "Arctic Frost provision in spending bill to let spied-on senators sue for $500K will ‘probably’ be repealed: Mike Johnson",
-    "link": "https://nypost.com/2025/11/17/us-news/arctic-frost-provision-in-spending-bill-to-let-spied-on-senators-sue-will-probably-be-repealed-mike-johnson/"
+    "headline": "Vile antisemitic graffiti scrawled on Mexico’s top court during protests against country’s first Jewish president",
+    "link": "https://nypost.com/2025/11/16/world-news/antisemitic-graffiti-scrawled-on-mexicos-top-court-during-protests-against-countrys-first-jewish-president/"
   }
 ]
