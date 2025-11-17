@@ -1,17 +1,31 @@
 [
   {
-    "score": 148,
+    "score": 151,
     "pubdate": "2025-11-17-04-47-00 +0000",
     "source": "wsj",
     "headline": "Trump threw in the towel on dissuading House Republicans from backing a measure to release files related to Jeffrey Epstein, saying that GOP lawmakers should instead embrace the vote",
     "link": "https://www.wsj.com/politics/policy/trump-plays-hardball-with-gop-lawmakers-as-epstein-vote-approaches-4700b01b"
   },
   {
-    "score": 54,
+    "score": 52,
     "pubdate": "2025-11-17-09-32-23 +0000",
     "source": "bbc",
     "headline": "Dozens of Indian pilgrims killed in bus accident in Saudi Arabia",
     "link": "https://www.bbc.com/news/articles/cvg7dme9en0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-11-17-16-57-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Vice Chair Philip Jefferson acknowledged the risk of both stubborn inflation and weaker employment conditions—dueling threats that call for opposing Fed prescriptions",
+    "link": "https://www.wsj.com/economy/central-banking/fed-vice-chair-says-economic-trade-offs-justify-lowering-rates-slowly-ae5d3dae"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-11-17-15-02-11 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court may restrict asylum claims from those arriving at the southern border",
+    "link": "https://www.latimes.com/politics/story/2025-11-17/supreme-court-may-restrict-asylum-claims-from-those-arriving-at-southern-border"
   },
   {
     "score": 50,
@@ -21,52 +35,38 @@
     "link": "https://www.bbc.com/news/articles/cqjwkdez71ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 48,
+    "score": 49,
+    "pubdate": "2025-11-17-18-40-35 +0000",
+    "source": "nypost",
+    "headline": "Bangladesh’s ousted PM Sheikh Hasina sentenced to death for ordering deadly student crackdown: ‘Historic verdict’",
+    "link": "https://nypost.com/2025/11/17/world-news/bangladeshs-pm-sheikh-hasina-sentenced-to-death/"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-11-17-00-16-13 +0000",
     "source": "bbc",
     "headline": "Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC",
     "link": "https://www.bbc.com/news/articles/c2emyz0zpxko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 47,
-    "pubdate": "2025-11-16-23-33-06 +0000",
-    "source": "nypost",
-    "headline": "Vile antisemitic graffiti scrawled on Mexico’s top court during protests against country’s first Jewish president",
-    "link": "https://nypost.com/2025/11/16/world-news/antisemitic-graffiti-scrawled-on-mexicos-top-court-during-protests-against-countrys-first-jewish-president/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-17-11-27-27 +0000",
-    "source": "nypost",
-    "headline": "Clients of NYC wine shop Sherry-Lehmann finally getting their wine back — including a stash of Bordeaux worth $80K",
-    "link": "https://nypost.com/2025/11/17/business/clients-of-nyc-wine-shop-sherry-lehmann-finally-getting-their-wine-back/"
-  },
-  {
-    "score": 45,
+    "score": 44,
     "pubdate": "2025-11-17-16-36-08 +0000",
     "source": "nypost",
-    "headline": "Judge orders DOJ to turn over grand jury transcript to Comey lawyers — suggests ‘government misconduct may have tainted proceedings’",
+    "headline": "Judge orders DOJ to give Comey lawyers grand jury material  — calls out ‘disturbing pattern’ of ‘missteps’",
     "link": "https://nypost.com/2025/11/17/us-news/judge-orders-doj-to-turn-over-grand-jury-transcript-to-comey-lawyers/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-11-16-18-36-27 +0000",
-    "source": "nyt",
-    "headline": "UN Climate Summit in Brazil Brings Tourism and Change to Belém’s Ver-o-Peso Market",
-    "link": "https://www.nytimes.com/2025/11/16/world/americas/un-climate-summit-belem-brazil-market.html"
-  },
-  {
     "score": 43,
-    "pubdate": "2025-11-16-21-02-08 +0000",
-    "source": "latimes",
-    "headline": "Body of 7-year-old girl is found off Big Sur; her father died trying to save her from massive waves",
-    "link": "https://www.latimes.com/california/story/2025-11-16/father-killed-big-sur-identified-daughter-missing"
-  },
-  {
-    "score": 40,
     "pubdate": "2025-11-17-02-26-00 +0000",
     "source": "wsj",
     "headline": "President Trump and his advisers are rushing to try to lower prices for U.S. consumers after voters sent a warning shot to Republicans this month over the high cost of living",
     "link": "https://www.wsj.com/economy/consumers/trump-cost-of-living-prices-8e08798d"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-11-17-15-35-16 +0000",
+    "source": "nypost",
+    "headline": "Arctic Frost provision in spending bill to let spied-on senators sue for $500K will ‘probably’ be repealed: Mike Johnson",
+    "link": "https://nypost.com/2025/11/17/us-news/arctic-frost-provision-in-spending-bill-to-let-spied-on-senators-sue-will-probably-be-repealed-mike-johnson/"
   }
 ]
