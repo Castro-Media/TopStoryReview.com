@@ -1,16 +1,30 @@
 [
   {
+    "score": 18,
+    "pubdate": "2025-11-18-03-54-09 +0000",
+    "source": "bbc",
+    "headline": "Shelters plea for Gazans as winter rains raise fears of more disease and death",
+    "link": "https://www.bbc.com/news/articles/c20p3x7vr34o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 14,
-    "pubdate": "2025-11-18-02-19-57 +0000",
+    "pubdate": "2025-11-18-03-55-06 +0000",
     "source": "nyt",
-    "headline": "Trump Bows to Reality on Epstein Files Vote, in a Rare Retreat",
-    "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-epstein-republicans-vote.html"
+    "headline": "Trump Says America Is in ‘Golden Age,’ Straining to Address Affordability",
+    "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-mcdonalds-affordability-inflation.html"
   },
   {
     "score": 0,
-    "pubdate": "2025-11-18-02-19-57 +0000",
+    "pubdate": "2025-11-18-03-55-06 +0000",
     "source": "nyt",
-    "headline": "Trump Bows to Reality on Epstein Files Vote, in a Rare Retreat",
-    "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-epstein-republicans-vote.html"
+    "headline": "Trump Says America Is in ‘Golden Age,’ Straining to Address Affordability",
+    "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-mcdonalds-affordability-inflation.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-18-03-54-09 +0000",
+    "source": "bbc",
+    "headline": "Shelters plea for Gazans as winter rains raise fears of more disease and death",
+    "link": "https://www.bbc.com/news/articles/c20p3x7vr34o?at_medium=RSS&at_campaign=rss"
   }
 ]
