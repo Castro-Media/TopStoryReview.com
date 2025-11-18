@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "score": 10,
+    "pubdate": "2025-11-18-12-59-38 +0000",
+    "source": "nyt",
+    "headline": "Why Britain Is Embracing ‘Negative Nation Branding’",
+    "link": "https://www.nytimes.com/2025/11/17/world/europe/uk-immigration-asylum-refugee-starmer.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-18-13-01-48 +0000",
+    "source": "nypost",
+    "headline": "Hochul to announce prison closure Tuesday as grapples with staffing crisis",
+    "link": "https://nypost.com/2025/11/18/us-news/hochul-to-announce-prison-closure-tuesday-as-grapples-with-staffing-crisis/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-11-18-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Nexstar CEO Says Bigger Is Better in Pitch to FCC",
+    "link": "https://www.wsj.com/business/media/nexstar-ceo-says-bigger-is-better-in-pitch-to-fcc-ff8bae0a?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 3,
+    "pubdate": "2025-11-18-13-03-50 +0000",
+    "source": "bbc",
+    "headline": "What do we know about the Epstein files?",
+    "link": "https://www.bbc.com/news/articles/c20r07dg6kro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-18-12-59-38 +0000",
+    "source": "nyt",
+    "headline": "Why Britain Is Embracing ‘Negative Nation Branding’",
+    "link": "https://www.nytimes.com/2025/11/17/world/europe/uk-immigration-asylum-refugee-starmer.html"
+  }
+]
