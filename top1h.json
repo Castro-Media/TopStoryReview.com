@@ -1,16 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2025-11-18-18-55-00 +0000",
+    "score": 56,
+    "pubdate": "2025-11-18-21-07-00 +0000",
+    "source": "wsj",
+    "headline": "Trump said the Saudi crown prince “knew nothing about” the 2018 murder of Washington Post journalist Jamal Khashoggi, though the CIA at the time assessed that the royal orchestrated the killing",
+    "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-11-18-21-04-00 +0000",
+    "source": "wsj",
+    "headline": "The House passed legislation Tuesday mandating the disclosures of a trove of government files related to Jeffrey Epstein, marking the culmination of a monthslong fight that split the GOP",
+    "link": "https://www.wsj.com/politics/policy/fight-over-releasing-epstein-files-nears-finish-line-in-house-54e06fc2"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-11-18-21-13-00 +0000",
+    "source": "wsj",
+    "headline": "Calley Means, a confidante to health secretary Robert F. Kennedy Jr., will take on a role as a bridge between the Make America Healthy Again movement and President Trump’s broader MAGA coalition",
+    "link": "https://www.wsj.com/politics/policy/top-kennedy-adviser-calley-means-to-join-trump-administration-665ac04a"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-11-18-21-12-44 +0000",
+    "source": "nypost",
+    "headline": "Lefty Rep. Ro Khanna says Mamdani’s economics are too radical for him on at least 1 issue",
+    "link": "https://nypost.com/2025/11/18/us-news/lefty-rep-ro-khanna-says-that-mamdanis-economics-are-too-radical-for-him/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-11-18-21-36-03 +0000",
+    "source": "nypost",
+    "headline": "Alleged China mole Linda Sun’s lavish life in $3.6M LI mansion with Birkin bag, Patek Philippe watch and Ferrari revealed during bombshell trial",
+    "link": "https://nypost.com/2025/11/18/us-news/alleged-china-mole-linda-suns-lavish-life-in-3-6m-mansion-revealed-during-bombshell-trial/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-18-21-45-01 +0000",
+    "source": "nypost",
+    "headline": "GOP contender slams Long Island Rep. Suozzi as ‘Taxman Tom’ for wanting to ding the rich",
+    "link": "https://nypost.com/2025/11/18/us-news/gop-contender-greg-hach-slams-long-island-rep-tom-suozzi-as-taxman-tom-for-wanting-to-ding-the-rich/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-18-21-26-07 +0000",
+    "source": "nyt",
+    "headline": "Kamala Harris Hits Campaign Trail in Tennessee Special Election",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/kamala-harris-tennessee-house-election.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-11-18-21-39-00 +0000",
     "source": "wsj",
     "headline": "A federal court has blocked the use of a new Texas congressional map that was designed at the request of President Trump",
     "link": "https://www.wsj.com/politics/policy/texas-new-congressional-map-blocked-by-court-02bac844"
   },
   {
-    "score": 7,
-    "pubdate": "2025-11-18-18-53-59 +0000",
-    "source": "nyt",
-    "headline": "What’s the Most Elegant Way to Lie to My Co-Workers?",
-    "link": "https://www.nytimes.com/2025/11/15/business/lying-to-coworkers-advice.html"
+    "score": 14,
+    "pubdate": "2025-11-18-20-57-39 +0000",
+    "source": "nypost",
+    "headline": "Paramount denies report it’s working with Saudis, other Arab funds on $71B bid for Warner Bros. Discovery",
+    "link": "https://nypost.com/2025/11/18/media/paramount-denies-report-its-working-with-saudis-other-arab-funds-on-71b-bid-for-warner-bros-discovery/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-18-21-06-58 +0000",
+    "source": "nypost",
+    "headline": "GOP effort to censure Dem Plaskett for texting Epstein survives first House vote",
+    "link": "https://nypost.com/2025/11/18/us-news/gop-effort-to-censure-dem-plaskett-for-texting-epstein-survives-first-house-vote/"
   }
 ]
