@@ -1,37 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-11-18-12-59-38 +0000",
+    "score": 42,
+    "pubdate": "2025-11-18-14-26-52 +0000",
     "source": "nyt",
-    "headline": "Why Britain Is Embracing ‘Negative Nation Branding’",
-    "link": "https://www.nytimes.com/2025/11/17/world/europe/uk-immigration-asylum-refugee-starmer.html"
+    "headline": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Concerns",
+    "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-11-18-13-01-48 +0000",
+    "score": 25,
+    "pubdate": "2025-11-18-14-19-13 +0000",
+    "source": "nyt",
+    "headline": "Zelensky Will Try to Revive Peace Talks With Russia During Turkey Visit",
+    "link": "https://www.nytimes.com/2025/11/18/world/europe/zelensky-russia-ukraine-talks-turkey.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2025-11-18-14-39-37 +0000",
+    "source": "nyt",
+    "headline": "Cloudflare Outage Disrupts X, ChatGPT and Other Parts of the Internet",
+    "link": "https://www.nytimes.com/2025/11/18/business/cloudflare-down-challenges-error.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-18-14-46-30 +0000",
+    "source": "nyt",
+    "headline": "Larry Summers to Step Back From Public Commitments Over Epstein Emails",
+    "link": "https://www.nytimes.com/2025/11/17/us/harvard-larry-summers-epstein.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-18-14-49-11 +0000",
     "source": "nypost",
-    "headline": "Hochul to announce prison closure Tuesday as grapples with staffing crisis",
-    "link": "https://nypost.com/2025/11/18/us-news/hochul-to-announce-prison-closure-tuesday-as-grapples-with-staffing-crisis/"
+    "headline": "Elise Stefanik gains ground on Gov. Hochul in head-to-head 2026 match-up — as more independents lean red: poll",
+    "link": "https://nypost.com/2025/11/18/us-news/rep-elise-stefanik-gains-ground-on-gov-kathy-hochul-in-head-to-head-2026-match-up-as-more-independents-lean-red-poll/"
   },
   {
-    "score": 6,
-    "pubdate": "2025-11-18-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Nexstar CEO Says Bigger Is Better in Pitch to FCC",
-    "link": "https://www.wsj.com/business/media/nexstar-ceo-says-bigger-is-better-in-pitch-to-fcc-ff8bae0a?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 3,
-    "pubdate": "2025-11-18-13-03-50 +0000",
-    "source": "bbc",
-    "headline": "What do we know about the Epstein files?",
-    "link": "https://www.bbc.com/news/articles/c20r07dg6kro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-18-12-59-38 +0000",
+    "score": 18,
+    "pubdate": "2025-11-18-14-08-37 +0000",
     "source": "nyt",
-    "headline": "Why Britain Is Embracing ‘Negative Nation Branding’",
-    "link": "https://www.nytimes.com/2025/11/17/world/europe/uk-immigration-asylum-refugee-starmer.html"
+    "headline": "Trump Administration Releases Thousands of Amelia Earhart Files",
+    "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-amelia-earhart-flight-records.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-11-18-14-07-14 +0000",
+    "source": "bbc",
+    "headline": "Two Ukrainians working for Russia behind rail sabotage, Polish PM says",
+    "link": "https://www.bbc.com/news/articles/c4gknv8nxlzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-18-14-41-16 +0000",
+    "source": "nyt",
+    "headline": "Tennessee Judge Temporarily Blocks National Guard Deployment in Memphis",
+    "link": "https://www.nytimes.com/2025/11/17/us/politics/national-guard-memphis-ruling.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-18-14-16-16 +0000",
+    "source": "nyt",
+    "headline": "UN Support Bolsters Trump’s Gaza Plan but Road Ahead Is Still Rough",
+    "link": "https://www.nytimes.com/2025/11/18/world/middleeast/un-trump-gaza-plan.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-18-14-42-33 +0000",
+    "source": "nyt",
+    "headline": "Top U.N. Official Pushing to Get Aid Into Stricken Sudanese City",
+    "link": "https://www.nytimes.com/2025/11/17/world/africa/el-fasher-sudan-united-nations.html"
   }
 ]
