@@ -1,34 +1,41 @@
 [
   {
-    "score": 248,
+    "score": 273,
     "pubdate": "2025-11-18-13-24-46 +0000",
     "source": "cbc",
     "headline": "Saudi crown prince MBS unaware of Khashoggi killing, Trump says in White House visit",
     "link": "https://www.cbc.ca/news/world/washington-saudi-prince-mbs-salman-trump-white-house-9.6982672?cmp=rss"
   },
   {
-    "score": 121,
+    "score": 118,
     "pubdate": "2025-11-18-22-58-00 +0000",
     "source": "wsj",
     "headline": "Congress’s approval of legislation to force a public release of federal records tied to the late sex offender Jeffrey Epstein has put new pressure on the DOJ and President Trump",
     "link": "https://www.wsj.com/politics/policy/epstein-files-house-what-next-explained-ba62c3e4"
   },
   {
-    "score": 62,
-    "pubdate": "2025-11-18-18-04-02 +0000",
-    "source": "nyt",
-    "headline": "Zelensky Will Try to Revive Peace Talks With Russia During Turkey Visit",
-    "link": "https://www.nytimes.com/2025/11/18/world/europe/zelensky-russia-ukraine-talks-turkey.html"
+    "score": 79,
+    "pubdate": "2025-11-19-08-42-26 +0000",
+    "source": "nypost",
+    "headline": "Family of high school California tennis star killed by alleged drunk driver a month before graduation files wrongful death lawsuit",
+    "link": "https://nypost.com/2025/11/19/us-news/parents-of-california-high-school-tennis-star-braun-levi-file-wrongful-death-lawsuit-against-alleged-drunk-driver-that-killed-him/"
   },
   {
-    "score": 60,
+    "score": 62,
     "pubdate": "2025-11-18-22-15-00 +0000",
     "source": "wsj",
     "headline": "Once one of Trump’s most strident MAGA allies, Marjorie Taylor Greene now argues he’s out of touch with his base on the economy, foreign policy and the Epstein case",
     "link": "https://www.wsj.com/politics/policy/how-marjorie-taylor-greene-alienated-trump-8ed1e920"
   },
   {
-    "score": 57,
+    "score": 60,
+    "pubdate": "2025-11-18-18-04-02 +0000",
+    "source": "nyt",
+    "headline": "Zelensky Will Try to Revive Peace Talks With Russia During Turkey Visit",
+    "link": "https://www.nytimes.com/2025/11/18/world/europe/zelensky-russia-ukraine-talks-turkey.html"
+  },
+  {
+    "score": 58,
     "pubdate": "2025-11-18-21-46-47 +0000",
     "source": "latimes",
     "headline": "'Played with fire, got burned': GOP control of House at risk after court blocks Texas map",
@@ -42,11 +49,11 @@
     "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-maduro-drug-cartel.html"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-19-04-07-19 +0000",
+    "score": 55,
+    "pubdate": "2025-11-19-07-28-30 +0000",
     "source": "nyt",
-    "headline": "Republican Clay Higgins Was the Sole Vote Against Releasing the Epstein Files",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/clay-higgins-epstein-vote-no.html"
+    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html"
   },
   {
     "score": 50,
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2025/11/19/us-news/veterans-exposed-to-toxic-chemicals-at-camp-lejeune-urge-trump-to-deliver-long-overdue-justice-as-melania-and-usha-visit-military-base/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-11-19-05-59-06 +0000",
-    "source": "nyt",
-    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-11-19-03-54-16 +0000",
-    "source": "nyt",
-    "headline": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
-    "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
+    "score": 46,
+    "pubdate": "2025-11-18-18-52-13 +0000",
+    "source": "nypost",
+    "headline": "Google’s Sundar Pichai warns of AI spending ‘irrationality’ — saying ‘no company’ is safe if bubble bursts",
+    "link": "https://nypost.com/2025/11/18/business/google-ceo-sundar-pichai-warns-of-ai-spending-irrationality/"
   }
 ]

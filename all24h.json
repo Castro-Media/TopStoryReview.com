@@ -1,15 +1,195 @@
 [
   {
-    "headline": "Gold Futures May Undergo Short-Term Rebound, Chart Shows",
+    "headline": "UK inflation rate hits lowest level in four months",
+    "link": "https://www.bbc.com/news/articles/czxkvkwjl5eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-08-56-03 +0000"
+  },
+  {
+    "headline": "Oil Falls as Weaker Demand Signals Amplify Oversupply Fears",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-7197b0d0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-19-08-53-00 +0000"
+  },
+  {
+    "headline": "Eurozone Issuers Might Have to Pay Higher Bond Yields to Keep Luring Foreign Buyers",
+    "link": "https://www.wsj.com/world/asia/jgbs-fall-amid-concerns-over-japans-economic-stimulus-plans-621bfd6f",
+    "source": "wsj",
+    "pubdate": "2025-11-19-08-47-00 +0000"
+  },
+  {
+    "headline": "Eurozone Issuers Might Have to Pay Higher Bond Yields to Keep Luring Foreign Buyers",
+    "link": "https://www.wsj.com/world/asia/jgbs-fall-amid-concerns-over-japans-economic-stimulus-plans-621bfd6f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-19-08-47-00 +0000"
+  },
+  {
+    "headline": "Family of high school California tennis star killed by alleged drunk driver a month before graduation files wrongful death lawsuit",
+    "link": "https://nypost.com/2025/11/19/us-news/parents-of-california-high-school-tennis-star-braun-levi-file-wrongful-death-lawsuit-against-alleged-drunk-driver-that-killed-him/",
+    "source": "nypost",
+    "pubdate": "2025-11-19-08-42-26 +0000"
+  },
+  {
+    "headline": "Looming U.K. Budget Dulls Impact of Inflation Data for Sterling",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-risk-off-mood-may-weigh-1801cd33?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-19-08-39-00 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Dow Futures Waver as Investors Await Nvidia Earnings",
+    "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-11-19-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-19-08-38-08 +0000"
+  },
+  {
+    "headline": "Gold Rises on Safe-Haven Demand After Market Rout",
     "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-likely-technical-recovery-00fa3e0b?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2025-11-19-06-41-00 +0000"
+    "pubdate": "2025-11-19-08-37-00 +0000"
+  },
+  {
+    "headline": "Nine killed in Russian attack on western Ukraine, Zelensky says",
+    "link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-08-13-02 +0000"
+  },
+  {
+    "headline": "Nine killed in Russian attack on western Ukraine, Zelensky says",
+    "link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-08-13-02 +0000"
+  },
+  {
+    "headline": "Japan fire damages 170 homes and forces evacuations",
+    "link": "https://nypost.com/2025/11/19/world-news/fire-burning-in-southwestern-japan-damages-170-homes-and-forces-evacuations/",
+    "source": "nypost",
+    "pubdate": "2025-11-19-08-12-26 +0000"
+  },
+  {
+    "headline": "Nicki Minaj supports Trump claim Christians are being persecuted in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-08-09-53 +0000"
+  },
+  {
+    "headline": "Nicki Minaj supports Trump claim Christians are being persecuted in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-08-09-53 +0000"
+  },
+  {
+    "headline": "Trump Administration Gives Three Mile Island Nuclear Project $1 Billion Loan",
+    "link": "https://www.nytimes.com/2025/11/19/us/nuclear-power-three-mile-island.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-55-37 +0000"
+  },
+  {
+    "headline": "Bank Indonesia Holds Rate Again to Maintain Rupiah Stability",
+    "link": "https://www.wsj.com/articles/bank-indonesia-holds-rate-again-to-maintain-rupiah-stability-5ed0278c",
+    "source": "wsj",
+    "pubdate": "2025-11-19-07-55-00 +0000"
+  },
+  {
+    "headline": "U.K. Inflation Falls, Likely Cementing Bank of England December Rate Cut",
+    "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-falls-likely-cementing-bank-of-england-december-rate-cut-ad6e3b00",
+    "source": "wsj",
+    "pubdate": "2025-11-19-07-52-00 +0000"
+  },
+  {
+    "headline": "Haiti reach World Cup despite coach having never been to the country",
+    "link": "https://www.bbc.com/sport/football/articles/cwy70v7grl4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-07-34-58 +0000"
+  },
+  {
+    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-29-46 +0000"
+  },
+  {
+    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-29-46 +0000"
+  },
+  {
+    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-29-46 +0000"
+  },
+  {
+    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-29-46 +0000"
+  },
+  {
+    "headline": "Trump Dismisses Journalist’s Murder While Praising Saudi Crown Prince",
+    "link": "https://www.nytimes.com/live/2025/11/18/world/trump-saudi-crown-prince-visit",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-28-31 +0000"
+  },
+  {
+    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-28-30 +0000"
+  },
+  {
+    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-28-30 +0000"
+  },
+  {
+    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-28-30 +0000"
+  },
+  {
+    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
+    "source": "nyt",
+    "pubdate": "2025-11-19-07-28-30 +0000"
+  },
+  {
+    "headline": "Elon Musk’s xAI Is in Advanced Talks to Raise $15 Billion, Lifting Valuation",
+    "link": "https://www.wsj.com/tech/ai/elon-musks-xai-in-advanced-talks-to-raise-15-billion-lifting-valuation-00bcfa80?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-19-07-01-00 +0000"
+  },
+  {
+    "headline": "Cristiano Ronaldo attends White House dinner alongside Saudi crown prince",
+    "link": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-06-56-19 +0000"
+  },
+  {
+    "headline": "Cristiano Ronaldo attends White House dinner alongside Saudi crown prince",
+    "link": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-06-56-19 +0000"
+  },
+  {
+    "headline": "Cristiano Ronaldo attends White House dinner alongside Saudi crown prince",
+    "link": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-06-56-19 +0000"
   },
   {
     "headline": "'I volunteer at the foodbank that helped me'",
     "link": "https://www.bbc.com/news/articles/c0exv9y9zeqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-19-06-25-18 +0000"
+  },
+  {
+    "headline": "Curacao become smallest nation to qualify for World Cup",
+    "link": "https://www.bbc.com/sport/football/articles/c14p3dmdld1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-06-22-38 +0000"
   },
   {
     "headline": "Platinum Market Forecast to Recover With Small Supply Surplus Expected in 2026",
@@ -36,6 +216,12 @@
     "pubdate": "2025-11-19-06-16-38 +0000"
   },
   {
+    "headline": "Millionaires say 'we want to pay more tax'",
+    "link": "https://www.bbc.com/news/articles/cm2wlznd33wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-06-16-30 +0000"
+  },
+  {
     "headline": "Fuel poverty will tighten grip, charity says",
     "link": "https://www.bbc.com/news/articles/c30vegn70dvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -46,36 +232,6 @@
     "link": "https://nypost.com/2025/11/19/us-news/beloved-90-year-old-woman-killed-in-bronx-apartment-building-fire/",
     "source": "nypost",
     "pubdate": "2025-11-19-06-06-49 +0000"
-  },
-  {
-    "headline": "Trump Dismisses Journalist’s Murder While Praising Saudi Crown Prince",
-    "link": "https://www.nytimes.com/live/2025/11/18/world/trump-saudi-crown-prince-visit",
-    "source": "nyt",
-    "pubdate": "2025-11-19-05-59-08 +0000"
-  },
-  {
-    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-05-59-06 +0000"
-  },
-  {
-    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-05-59-06 +0000"
-  },
-  {
-    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-05-59-06 +0000"
-  },
-  {
-    "headline": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-05-59-06 +0000"
   },
   {
     "headline": "'People tell me they haven't eaten in days'",
@@ -90,13 +246,13 @@
     "pubdate": "2025-11-19-05-56-17 +0000"
   },
   {
-    "headline": "Congress approves bill to release Epstein files that will head to Trump's desk",
+    "headline": "Release of Epstein files awaits Trump's signoff after clearing Congress",
     "link": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-19-05-46-46 +0000"
   },
   {
-    "headline": "Congress approves bill to release Epstein files that will head to Trump's desk",
+    "headline": "Release of Epstein files awaits Trump's signoff after clearing Congress",
     "link": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-19-05-46-46 +0000"
@@ -106,12 +262,6 @@
     "link": "https://nypost.com/2025/11/19/us-news/portland-thief-steals-from-bins-and-barrels-liquor-store-while-employee-jason-hay-fatal-heart-attack/",
     "source": "nypost",
     "pubdate": "2025-11-19-05-32-18 +0000"
-  },
-  {
-    "headline": "Christians in Nigeria 'driven from their homes and killed', Nicki Minaj says",
-    "link": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-19-05-22-22 +0000"
   },
   {
     "headline": "Larry Summers to Step Back From Public Commitments Over Epstein Emails",
@@ -126,19 +276,19 @@
     "pubdate": "2025-11-19-05-08-54 +0000"
   },
   {
-    "headline": "Cristiano Ronaldo attends White House dinner alongside Saudi crown prince",
-    "link": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-19-05-06-52 +0000"
-  },
-  {
     "headline": "Florida’s ‘Operation Home for the Holidays’ recovers 122 missing children, leading to six arrests",
     "link": "https://nypost.com/2025/11/19/us-news/floridas-operation-home-for-the-holidays-recovers-122-missing-children-leading-to-six-arrests/",
     "source": "nypost",
     "pubdate": "2025-11-19-05-03-42 +0000"
   },
   {
-    "headline": "Is this what spying by China can look like?",
+    "headline": "MP's aide reported suspected China LinkedIn approach",
+    "link": "https://www.bbc.com/news/articles/c1k091l2w1yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-05-01-13 +0000"
+  },
+  {
+    "headline": "MP's aide reported suspected China LinkedIn approach",
     "link": "https://www.bbc.com/news/articles/c1k091l2w1yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-19-05-01-13 +0000"
@@ -159,19 +309,25 @@
     "headline": "Europe’s Chip Dreams Confront Business Realities",
     "link": "https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html",
     "source": "nyt",
-    "pubdate": "2025-11-19-05-00-05 +0000"
+    "pubdate": "2025-11-19-05-00-06 +0000"
   },
   {
     "headline": "Europe’s Chip Dreams Confront Business Realities",
     "link": "https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html",
     "source": "nyt",
-    "pubdate": "2025-11-19-05-00-05 +0000"
+    "pubdate": "2025-11-19-05-00-06 +0000"
   },
   {
     "headline": "As Trump hosts MBS, Palestinian plight fades from view again",
     "link": "https://www.washingtonpost.com/world/2025/11/19/saudi-trump-gaza-plan-white-house-visit/",
     "source": "wapo",
     "pubdate": "2025-11-19-05-00-04 +0000"
+  },
+  {
+    "headline": "'Things happen' - Trump defends Saudi crown prince over Khashoggi killing",
+    "link": "https://www.bbc.com/news/articles/cn0gdkwp2p9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-04-55-27 +0000"
   },
   {
     "headline": "'Things happen' - Trump defends Saudi crown prince over Khashoggi killing",
@@ -228,6 +384,12 @@
     "pubdate": "2025-11-19-04-37-08 +0000"
   },
   {
+    "headline": "UK lacks plan to defend itself from invasion, MPs warn",
+    "link": "https://www.bbc.com/news/articles/cqjw5g24rlyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-04-29-27 +0000"
+  },
+  {
     "headline": "Trump praises Cristiano Ronaldo at White House dinner in rare US appearance for soccer great",
     "link": "https://nypost.com/2025/11/18/sports/trump-praises-cristiano-ronaldo-at-white-house-dinner-for-saudi-crown-prince/",
     "source": "nypost",
@@ -264,10 +426,10 @@
     "pubdate": "2025-11-19-04-05-03 +0000"
   },
   {
-    "headline": "Elon Musk’s xAI Is in Advanced Talks to Raise $15 Billion, Lifting Valuation",
-    "link": "https://www.wsj.com/tech/ai/elon-musks-xai-in-advanced-talks-to-raise-15-billion-lifting-valuation-00bcfa80?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-19-04-04-00 +0000"
+    "headline": "'It would have been better if they'd killed me': A forgotten war destroying women's lives",
+    "link": "https://www.bbc.com/news/articles/cx2p8dpw1rwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-04-05-03 +0000"
   },
   {
     "headline": "Founder of ADHD Startup Is Found Guilty of Conspiracy in Adderall Case",
@@ -306,7 +468,7 @@
     "pubdate": "2025-11-19-03-54-16 +0000"
   },
   {
-    "headline": "Night of Modern Art History, Night of Spectacle at Sotheby’s",
+    "headline": "At $236 Million, Klimt Piece Is Second Most Expensive Painting Sold at Auction",
     "link": "https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html",
     "source": "nyt",
     "pubdate": "2025-11-19-03-32-25 +0000"
@@ -342,7 +504,7 @@
     "pubdate": "2025-11-19-03-18-37 +0000"
   },
   {
-    "headline": "4 California wolves were eliminated, but there's a new pack in town",
+    "headline": "California has a new wolf pack after another was euthanized",
     "link": "https://www.latimes.com/environment/story/2025-11-18/4-california-wolves-were-eliminated-but-theres-new-pack-in-town",
     "source": "latimes",
     "pubdate": "2025-11-19-03-11-35 +0000"
@@ -366,16 +528,16 @@
     "pubdate": "2025-11-19-02-52-08 +0000"
   },
   {
-    "headline": "Singapore Dollar Consolidates Ahead of Nvidia Earnings, U.S. Econ Data",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-risk-off-mood-may-weigh-1801cd33?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-19-02-49-00 +0000"
-  },
-  {
     "headline": "Trump defends Saudi crown prince over Khashoggi killing",
     "link": "https://www.washingtonpost.com/world/2025/11/18/saudi-prince-trump-visit-white-house/",
     "source": "wapo",
     "pubdate": "2025-11-19-02-43-37 +0000"
+  },
+  {
+    "headline": "What Mayor Daniel Lurie’s leadership crisis reveals about power in San Francisco",
+    "link": "https://eltecolote.org/content/en/daniel-lurie-sf-leadership-crisis/",
+    "source": "eltecolote",
+    "pubdate": "2025-11-19-02-41-35 +0000"
   },
   {
     "headline": "House Rejects Censuring Plaskett For Texts With Epstein In 2019",
@@ -489,13 +651,13 @@
     "headline": "For Trump, Epstein Is the Story That Won’t Go Away",
     "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-epstein-files.html",
     "source": "nyt",
-    "pubdate": "2025-11-19-02-07-04 +0000"
+    "pubdate": "2025-11-19-02-07-05 +0000"
   },
   {
     "headline": "For Trump, Epstein Is the Story That Won’t Go Away",
     "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-epstein-files.html",
     "source": "nyt",
-    "pubdate": "2025-11-19-02-07-04 +0000"
+    "pubdate": "2025-11-19-02-07-05 +0000"
   },
   {
     "headline": "Under the Stars: An ode to Edinburgh Castle (RIP), and making big noise in little rooms",
@@ -564,30 +726,6 @@
     "pubdate": "2025-11-19-01-33-54 +0000"
   },
   {
-    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-01-29-35 +0000"
-  },
-  {
-    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-01-29-35 +0000"
-  },
-  {
-    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-01-29-35 +0000"
-  },
-  {
-    "headline": "Trump Lauds M.B.S. During White House Visit and Dismisses Khashoggi’s Killing",
-    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-crown-prince-visit.html",
-    "source": "nyt",
-    "pubdate": "2025-11-19-01-29-35 +0000"
-  },
-  {
     "headline": "Hotel adverts banned over misleadingly cheap rooms",
     "link": "https://www.bbc.com/news/articles/cvgw7grp5vxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -622,12 +760,6 @@
     "link": "https://www.cbc.ca/news/world/nigeria-school-girls-abduction-escape-9.6984052?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-19-01-20-25 +0000"
-  },
-  {
-    "headline": "Oil Falls Amid Risk-Off Sentiment",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-7197b0d0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-19-01-20-00 +0000"
   },
   {
     "headline": "Jeffrey Epstein was invited to Dem fundraising dinner and to ‘get to know’ Hakeem Jeffries by firm working with ‘Brooklyn’s Barack’",
@@ -720,16 +852,10 @@
     "pubdate": "2025-11-19-00-48-25 +0000"
   },
   {
-    "headline": "JGBs Fall Amid Concerns Over Japan’s Economic Stimulus Plans",
-    "link": "https://www.wsj.com/world/asia/jgbs-fall-amid-concerns-over-japans-economic-stimulus-plans-621bfd6f",
-    "source": "wsj",
-    "pubdate": "2025-11-19-00-48-00 +0000"
-  },
-  {
-    "headline": "JGBs Fall Amid Concerns Over Japan’s Economic Stimulus Plans",
-    "link": "https://www.wsj.com/world/asia/jgbs-fall-amid-concerns-over-japans-economic-stimulus-plans-621bfd6f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-19-00-48-00 +0000"
+    "headline": "The only 'no' vote on releasing Epstein files",
+    "link": "https://www.bbc.com/news/articles/crl2g195n96o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-19-00-48-25 +0000"
   },
   {
     "headline": "Federal Judge Orders Some Texas Schools to Remove Ten Commandment Posters",
@@ -784,12 +910,6 @@
     "link": "https://www.nytimes.com/2025/11/18/us/jd-vance-threats-michigan.html",
     "source": "nyt",
     "pubdate": "2025-11-19-00-32-25 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani backing controversial CAIR-linked NY assembly candidate – who has made disturbing 9/11 comments",
-    "link": "https://nypost.com/2025/11/18/us-news/zohran-mamdani-backing-controversial-cair-linked-ny-assembly-candidate/",
-    "source": "nypost",
-    "pubdate": "2025-11-19-00-25-54 +0000"
   },
   {
     "headline": "Israeli Airstrike on Refugee Camp in Lebanon Kills at Least 13, Officials Say",
@@ -936,6 +1056,12 @@
     "pubdate": "2025-11-19-00-01-39 +0000"
   },
   {
+    "headline": "Despite FDA warnings, this ‘natural remedy’ remains popular among S.F. immigrants",
+    "link": "https://eltecolote.org/content/en/arti-king-pain-supplement/",
+    "source": "eltecolote",
+    "pubdate": "2025-11-19-00-01-21 +0000"
+  },
+  {
     "headline": "CRTC updates definition of Canadian content, putting limits on AI use",
     "link": "https://www.cbc.ca/news/politics/crtc-canadian-content-9.6983364?cmp=rss",
     "source": "cbc",
@@ -960,7 +1086,7 @@
     "pubdate": "2025-11-18-23-25-34 +0000"
   },
   {
-    "headline": "SoCal 13-year-old is killed as he and his brother are walking to school; suspect is identified",
+    "headline": "SoCal 13-year-old is killed as he walks to school; suspected DUI driver is identified",
     "link": "https://www.latimes.com/california/story/2025-11-18/socal-13-year-old-killed-walking-to-school-driver-suspect-dui",
     "source": "latimes",
     "pubdate": "2025-11-18-23-22-23 +0000"
@@ -1404,6 +1530,12 @@
     "pubdate": "2025-11-18-20-54-17 +0000"
   },
   {
+    "headline": "Treasury Yields Fall Amid Risk-Off Mood",
+    "link": "https://www.wsj.com/finance/investing/jgbs-fall-amid-mounting-worries-over-japans-debt-levels-7d24f8ce?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-18-20-53-00 +0000"
+  },
+  {
     "headline": "U.S. Natural Gas Futures Edge Up on Weather Outlook",
     "link": "https://www.wsj.com/articles/european-gas-price-rises-with-focus-on-heating-demand-market-talk-9ffaeafd?mod=rss_markets_main",
     "source": "wsj",
@@ -1560,6 +1692,12 @@
     "pubdate": "2025-11-18-19-29-07 +0000"
   },
   {
+    "headline": "Reform council to remove some flags for Christmas",
+    "link": "https://www.bbc.com/news/articles/cn0gdk42wxzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-18-19-27-00 +0000"
+  },
+  {
     "headline": "U.S. Fraud Case Against Indian Tycoon Adani at a Standstill",
     "link": "https://www.nytimes.com/2025/11/18/business/adani-fraud-india.html",
     "source": "nyt",
@@ -1638,10 +1776,10 @@
     "pubdate": "2025-11-18-19-10-26 +0000"
   },
   {
-    "headline": "After Hundreds of Gazans Arrive on Mystery Flights, South Africa Asks How",
-    "link": "https://www.nytimes.com/2025/11/17/world/africa/gaza-palestinians-south-africa-flights.html",
-    "source": "nyt",
-    "pubdate": "2025-11-18-19-06-21 +0000"
+    "headline": "Trump says Saudi crown prince 'knew nothing' about Jamal Khashoggi's murder",
+    "link": "https://www.bbc.com/news/videos/c993ek7k7jko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-18-19-08-56 +0000"
   },
   {
     "headline": "After Hundreds of Gazans Arrive on Mystery Flights, South Africa Asks How",
@@ -1654,6 +1792,18 @@
     "link": "https://www.nytimes.com/2025/11/17/world/africa/gaza-palestinians-south-africa-flights.html",
     "source": "nyt",
     "pubdate": "2025-11-18-19-06-21 +0000"
+  },
+  {
+    "headline": "After Hundreds of Gazans Arrive on Mystery Flights, South Africa Asks How",
+    "link": "https://www.nytimes.com/2025/11/17/world/africa/gaza-palestinians-south-africa-flights.html",
+    "source": "nyt",
+    "pubdate": "2025-11-18-19-06-21 +0000"
+  },
+  {
+    "headline": "Suspected Hezbollah member goes on trial in Germany",
+    "link": "https://www.bbc.com/news/articles/cvg72r6myz4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-18-19-00-18 +0000"
   },
   {
     "headline": "Suspected Hezbollah member goes on trial in Germany",
@@ -1896,6 +2046,12 @@
     "pubdate": "2025-11-18-17-12-28 +0000"
   },
   {
+    "headline": "Two schoolgirls escape Nigeria kidnap ordeal, official says",
+    "link": "https://www.bbc.com/news/articles/cq83lejgvdyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-18-17-12-28 +0000"
+  },
+  {
     "headline": "Poland Says Russia Behind Blast on Its Rail Network",
     "link": "https://www.wsj.com/world/europe/poland-says-russia-behind-blast-on-its-rail-network-95ebc524",
     "source": "wsj",
@@ -2118,12 +2274,6 @@
     "pubdate": "2025-11-18-15-52-27 +0000"
   },
   {
-    "headline": "Two Ukrainians working for Russia behind rail sabotage, Polish PM says",
-    "link": "https://www.bbc.com/news/articles/c4gknv8nxlzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-18-15-52-27 +0000"
-  },
-  {
     "headline": "We Now Have a Better Picture of China’s Global Lending Spree",
     "link": "https://www.nytimes.com/2025/11/18/business/china-loans-financing.html",
     "source": "nyt",
@@ -2146,6 +2296,12 @@
     "link": "https://www.cbc.ca/news/politics/politics-jet-fighters-bombs-canada-us-israel-9.6982606?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-18-15-48-28 +0000"
+  },
+  {
+    "headline": "How lifting the Amazon's soya bean ban could threaten the rainforest",
+    "link": "https://www.bbc.com/news/videos/cpwv41450llo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-18-15-47-07 +0000"
   },
   {
     "headline": "Trump Says America Is in ‘Golden Age,’ Straining to Address Affordability",
@@ -2442,10 +2598,22 @@
     "pubdate": "2025-11-18-12-50-26 +0000"
   },
   {
+    "headline": "US to sell F-35 jets to Saudi Arabia, Trump says ahead of crown prince's visit",
+    "link": "https://www.bbc.com/news/articles/c7512rkvg7ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-18-12-50-24 +0000"
+  },
+  {
     "headline": "2 Ukrainians working for Russia suspected of being involved in railway blast, Polish PM says",
     "link": "https://www.cbc.ca/news/world/poland-russian-secret-services-railway-line-ukraine-9.6982697?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-18-12-47-57 +0000"
+  },
+  {
+    "headline": "At least 94 Palestinians died in Israeli prisons in two years, human rights group says",
+    "link": "https://www.bbc.com/news/articles/crreg2l7kezo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-18-12-45-31 +0000"
   },
   {
     "headline": "At least 94 Palestinians died in Israeli prisons in two years, human rights group says",
@@ -2586,12 +2754,6 @@
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
   {
-    "headline": "'We can't just teach abstinence': How advice on bed-sharing with a baby is evolving",
-    "link": "https://www.latimes.com/california/story/2025-11-18/why-advice-about-infant-co-sleeping-changing-despite-sids-risk",
-    "source": "latimes",
-    "pubdate": "2025-11-18-11-00-00 +0000"
-  },
-  {
     "headline": "After three decades, O.J. Simpson's estate agrees to pay millions to Goldman family",
     "link": "https://www.latimes.com/california/story/2025-11-18/after-three-decades-o-j-simpsons-estate-agrees-to-pay-nearly-58-million-to-goldman-family",
     "source": "latimes",
@@ -2604,8 +2766,8 @@
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
   {
-    "headline": "Students oppose UC tuition hikes. Leaders say campuses need money in the Trump era",
-    "link": "https://www.latimes.com/california/story/2025-11-18/uc-campus-tuition-increase",
+    "headline": "'We can't just teach abstinence': How advice on bed-sharing with a baby is evolving",
+    "link": "https://www.latimes.com/california/story/2025-11-18/why-advice-about-infant-co-sleeping-changing-despite-sids-risk",
     "source": "latimes",
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
@@ -2616,8 +2778,20 @@
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
   {
+    "headline": "Students oppose UC tuition hikes. Leaders say campuses need money in the Trump era",
+    "link": "https://www.latimes.com/california/story/2025-11-18/uc-campus-tuition-increase",
+    "source": "latimes",
+    "pubdate": "2025-11-18-11-00-00 +0000"
+  },
+  {
     "headline": "Boy, 8, killed by tree branch at camp. Parents say it wasn't an 'act of nature' and are suing",
     "link": "https://www.latimes.com/california/story/2025-11-18/boy-8-killed-by-tree-branch-king-gillette-ranch-parents-suing",
+    "source": "latimes",
+    "pubdate": "2025-11-18-11-00-00 +0000"
+  },
+  {
+    "headline": "Why is Kim Kardashian's Skims worth $5 billion?",
+    "link": "https://www.latimes.com/business/story/2025-11-18/why-is-kim-kardashians-skims-worth-5-billion",
     "source": "latimes",
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
@@ -2630,12 +2804,6 @@
   {
     "headline": "Arellano: Car wash workers already had it tough. Then immigration raids slammed them to the ground",
     "link": "https://www.latimes.com/california/story/2025-11-18/clean-car-wash-campaign-deportations",
-    "source": "latimes",
-    "pubdate": "2025-11-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Why is Kim Kardashian's Skims worth $5 billion?",
-    "link": "https://www.latimes.com/business/story/2025-11-18/why-is-kim-kardashians-skims-worth-5-billion",
     "source": "latimes",
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
@@ -2782,107 +2950,5 @@
     "link": "https://www.wsj.com/business/abb-targets-higher-operational-earnings-margin-reshapes-portfolio-9341ecc5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-18-09-53-00 +0000"
-  },
-  {
-    "headline": "A New Trump Resort in the Maldives Courts Crypto Investors",
-    "link": "https://www.wsj.com/business/a-new-trump-resort-in-the-maldives-courts-crypto-investors-48142b72",
-    "source": "wsj",
-    "pubdate": "2025-11-18-09-38-00 +0000"
-  },
-  {
-    "headline": "A New Trump Resort in the Maldives Courts Crypto Investors",
-    "link": "https://www.wsj.com/business/a-new-trump-resort-in-the-maldives-courts-crypto-investors-48142b72?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-18-09-38-00 +0000"
-  },
-  {
-    "headline": "Higher Tariffs Take Toll on Global Growth, and Impact Is Set to Linger",
-    "link": "https://www.wsj.com/economy/trade/higher-tariffs-take-toll-on-global-growth-and-impact-is-set-to-linger-52c992cb",
-    "source": "wsj",
-    "pubdate": "2025-11-18-09-37-00 +0000"
-  },
-  {
-    "headline": "Eminem sues Australian beach brand 'Swim Shady'",
-    "link": "https://www.bbc.com/news/articles/ckgkr13lnp1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-18-09-35-15 +0000"
-  },
-  {
-    "headline": "Eminem sues Australian beach brand 'Swim Shady'",
-    "link": "https://www.bbc.com/news/articles/ckgkr13lnp1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-18-09-35-15 +0000"
-  },
-  {
-    "headline": "Mapping U.S. strikes in the Caribbean and eastern Pacific",
-    "link": "https://www.washingtonpost.com/world/2025/11/12/us-strikes-caribbean-pacific/",
-    "source": "wapo",
-    "pubdate": "2025-11-18-09-29-31 +0000"
-  },
-  {
-    "headline": "How serious is Labour backlash over asylum plans?",
-    "link": "https://www.bbc.com/news/articles/ckgydj7qllpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-18-09-27-20 +0000"
-  },
-  {
-    "headline": "U.N. Security Council approves Trump’s 20-point peace plan for Gaza",
-    "link": "https://www.washingtonpost.com/national-security/2025/11/17/un-vote-gaza-trump-plan/",
-    "source": "wapo",
-    "pubdate": "2025-11-18-09-18-41 +0000"
-  },
-  {
-    "headline": "F-35 defenders launch counterattack against Swedish fighter jet proposal",
-    "link": "https://www.cbc.ca/news/politics/f-35-canada-sweden-saab-9.6982139?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-18-09-00-00 +0000"
-  },
-  {
-    "headline": "Transport Canada's aviation wing moving to DND with little explanation",
-    "link": "https://www.cbc.ca/news/politics/transport-surveillance-environment-drones-defence-9.6982250?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-18-09-00-00 +0000"
-  },
-  {
-    "headline": "F-35 defenders launch counterattack against Swedish fighter jet proposal",
-    "link": "https://www.cbc.ca/news/politics/f-35-canada-sweden-saab-9.6982139?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-18-09-00-00 +0000"
-  },
-  {
-    "headline": "Stock Market News, Nov. 18, 2025: AI Bubble Fears Hit Stocks",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2025?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-18-08-38-10 +0000"
-  },
-  {
-    "headline": "More rain coming to L.A. this week, with a new storm set to hit Thursday",
-    "link": "https://www.latimes.com/california/story/2025-11-18/chance-of-more-showers-in-l-a-new-storm-coming-thursday",
-    "source": "latimes",
-    "pubdate": "2025-11-18-08-24-37 +0000"
-  },
-  {
-    "headline": "Gustavo Petro, the Rebel Turned President Willing to Take on Trump",
-    "link": "https://www.nytimes.com/2025/11/12/world/americas/gustavo-petro-colombia-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-11-18-08-17-42 +0000"
-  },
-  {
-    "headline": "The World’s Most-Watched YouTube Video Hasn’t Made Its Creator Rich",
-    "link": "https://www.wsj.com/tech/the-worlds-most-watched-youtube-video-hasnt-made-its-creator-rich-e409f9a9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-18-08-01-00 +0000"
-  },
-  {
-    "headline": "In India, Modi’s party cements its rule with sweeping state election win",
-    "link": "https://www.washingtonpost.com/world/2025/11/18/india-bihar-elections-modi-bjp/",
-    "source": "wapo",
-    "pubdate": "2025-11-18-08-00-00 +0000"
-  },
-  {
-    "headline": "Japanese tourist village battles to keep bears at bay",
-    "link": "https://nypost.com/2025/11/18/world-news/japanese-tourist-village-battles-to-keep-bears-at-bay/",
-    "source": "nypost",
-    "pubdate": "2025-11-18-07-58-15 +0000"
   }
 ]
