@@ -1,17 +1,17 @@
 [
   {
-    "score": 372,
-    "pubdate": "2025-11-18-22-58-00 +0000",
-    "source": "wsj",
-    "headline": "Congress’s approval of legislation to force a public release of federal records tied to the late sex offender Jeffrey Epstein has put new pressure on the DOJ and President Trump",
-    "link": "https://www.wsj.com/politics/policy/epstein-files-house-what-next-explained-ba62c3e4"
-  },
-  {
-    "score": 192,
+    "score": 369,
     "pubdate": "2025-11-18-13-24-46 +0000",
     "source": "cbc",
     "headline": "Saudi crown prince MBS unaware of Khashoggi killing, Trump says in White House visit",
     "link": "https://www.cbc.ca/news/world/washington-saudi-prince-mbs-salman-trump-white-house-9.6982672?cmp=rss"
+  },
+  {
+    "score": 189,
+    "pubdate": "2025-11-18-22-58-00 +0000",
+    "source": "wsj",
+    "headline": "Congress’s approval of legislation to force a public release of federal records tied to the late sex offender Jeffrey Epstein has put new pressure on the DOJ and President Trump",
+    "link": "https://www.wsj.com/politics/policy/epstein-files-house-what-next-explained-ba62c3e4"
   },
   {
     "score": 137,
@@ -35,18 +35,11 @@
     "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
   },
   {
-    "score": 105,
-    "pubdate": "2025-11-18-21-46-47 +0000",
+    "score": 104,
+    "pubdate": "2025-11-14-19-29-46 +0000",
     "source": "latimes",
-    "headline": "'Played with fire, got burned': GOP control of House at risk after court blocks Texas map",
-    "link": "https://www.latimes.com/politics/story/2025-11-18/played-with-fire-got-burned-gop-control-of-house-at-risk-after-court-blocks-texas-map"
-  },
-  {
-    "score": 99,
-    "pubdate": "2025-11-18-00-10-37 +0000",
-    "source": "latimes",
-    "headline": "Justice Department sues to block laws restricting masked, unidentified law enforcement officers in California",
-    "link": "https://www.latimes.com/california/story/2025-11-17/federal-government-suing-california-over-new-police-transparency-laws"
+    "headline": "Supreme Court urged to block California laws requiring companies to disclose climate impacts",
+    "link": "https://www.latimes.com/politics/story/2025-11-14/supreme-court-urged-to-block-california-laws-requiring-companies-to-disclose-climate-impacts"
   },
   {
     "score": 95,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "The reopened federal government will on Thursday release the first backlogged monthly jobs report, for the month of September",
     "link": "https://www.wsj.com/economy/jobs/september-jobs-report-coming-thursday-after-government-reopens-f15d5f54"
+  },
+  {
+    "score": 86,
+    "pubdate": "2025-11-19-11-47-57 +0000",
+    "source": "nypost",
+    "headline": "Rep. Clay Higgins explains why he was the only lawmaker to vote ‘no’ on releasing Epstein files",
+    "link": "https://nypost.com/2025/11/19/us-news/louisiana-gop-rep-clay-higgins-explains-why-he-was-the-only-lawmaker-to-vote-no-on-releasing-epstein-files/"
   }
 ]
