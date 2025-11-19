@@ -1,30 +1,72 @@
 [
   {
-    "score": 27,
-    "pubdate": "2025-11-19-03-54-16 +0000",
+    "score": 24,
+    "pubdate": "2025-11-19-05-46-46 +0000",
+    "source": "bbc",
+    "headline": "Congress approves bill to release Epstein files that will head to Trump's desk",
+    "link": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-19-05-06-52 +0000",
+    "source": "bbc",
+    "headline": "Cristiano Ronaldo attends White House dinner alongside Saudi crown prince",
+    "link": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-19-05-00-05 +0000",
     "source": "nyt",
-    "headline": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
-    "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
+    "headline": "Europe’s Chip Dreams Confront Business Realities",
+    "link": "https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-19-05-32-18 +0000",
+    "source": "nypost",
+    "headline": "Heartless thief swipes cash from liquor store while employee suffers fatal heart attack",
+    "link": "https://nypost.com/2025/11/19/us-news/portland-thief-steals-from-bins-and-barrels-liquor-store-while-employee-jason-hay-fatal-heart-attack/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-19-05-00-17 +0000",
+    "source": "wapo",
+    "headline": "Judge orders some Texas public schools to remove Ten Commandments posters",
+    "link": "https://www.washingtonpost.com/nation/2025/11/19/texas-ten-commandments-posters/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-19-05-03-42 +0000",
+    "source": "nypost",
+    "headline": "Florida’s ‘Operation Home for the Holidays’ recovers 122 missing children, leading to six arrests",
+    "link": "https://nypost.com/2025/11/19/us-news/floridas-operation-home-for-the-holidays-recovers-122-missing-children-leading-to-six-arrests/"
   },
   {
     "score": 8,
-    "pubdate": "2025-11-19-03-55-41 +0000",
-    "source": "nypost",
-    "headline": "Fully functional 18-karat gold toilet sells for $12M at Sotheby’s auction",
-    "link": "https://nypost.com/2025/11/18/us-news/fully-functional-18-karat-gold-toilet-sells-for-12m-at-sothebys-auction/"
+    "pubdate": "2025-11-19-05-22-22 +0000",
+    "source": "bbc",
+    "headline": "Christians in Nigeria 'driven from their homes and killed', Nicki Minaj says",
+    "link": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2025-11-19-03-54-16 +0000",
+    "score": 7,
+    "pubdate": "2025-11-19-05-50-12 +0000",
     "source": "nyt",
-    "headline": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
-    "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
+    "headline": "Harvard Says It Is Investigating Ties Between Summers and Epstein",
+    "link": "https://www.nytimes.com/2025/11/19/us/harvard-summers-epstein-investigation.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-11-19-03-54-16 +0000",
-    "source": "nyt",
-    "headline": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
-    "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
+    "score": 7,
+    "pubdate": "2025-11-19-05-01-00 +0000",
+    "source": "wsj",
+    "headline": "Brookfield Is Raising $10 Billion for New AI Infrastructure Fund",
+    "link": "https://www.wsj.com/tech/ai/brookfield-is-raising-10-billion-for-new-ai-infrastructure-fund-e345eaa2?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-11-19-05-00-04 +0000",
+    "source": "wapo",
+    "headline": "As Trump hosts MBS, Palestinian plight fades from view again",
+    "link": "https://www.washingtonpost.com/world/2025/11/19/saudi-trump-gaza-plan-white-house-visit/"
   }
 ]
