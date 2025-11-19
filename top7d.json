@@ -1,62 +1,55 @@
 [
   {
-    "score": 343,
+    "score": 352,
     "pubdate": "2025-11-18-22-58-00 +0000",
     "source": "wsj",
     "headline": "Congress’s approval of legislation to force a public release of federal records tied to the late sex offender Jeffrey Epstein has put new pressure on the DOJ and President Trump",
     "link": "https://www.wsj.com/politics/policy/epstein-files-house-what-next-explained-ba62c3e4"
   },
   {
-    "score": 137,
-    "pubdate": "2025-11-18-21-07-00 +0000",
+    "score": 160,
+    "pubdate": "2025-11-19-00-45-00 +0000",
     "source": "wsj",
     "headline": "Trump said the Saudi crown prince “knew nothing about” the 2018 murder of Washington Post journalist Jamal Khashoggi, though the CIA at the time assessed that the royal orchestrated the killing",
     "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
   },
   {
-    "score": 128,
+    "score": 126,
     "pubdate": "2025-11-18-21-46-47 +0000",
     "source": "latimes",
     "headline": "'Played with fire, got burned': GOP control of House at risk after court blocks Texas map",
     "link": "https://www.latimes.com/politics/story/2025-11-18/played-with-fire-got-burned-gop-control-of-house-at-risk-after-court-blocks-texas-map"
   },
   {
-    "score": 112,
-    "pubdate": "2025-11-13-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
-    "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
-  },
-  {
-    "score": 111,
+    "score": 118,
     "pubdate": "2025-11-18-22-15-00 +0000",
     "source": "wsj",
     "headline": "Once one of Trump’s most strident MAGA allies, Marjorie Taylor Greene now argues he’s out of touch with his base on the economy, foreign policy and the Epstein case",
     "link": "https://www.wsj.com/politics/policy/how-marjorie-taylor-greene-alienated-trump-8ed1e920"
   },
   {
-    "score": 100,
-    "pubdate": "2025-11-18-11-55-06 +0000",
-    "source": "cbc",
-    "headline": "Chinese airlines offer refunds on Japan trips, Tokyo warns about travel to China as tensions run high",
-    "link": "https://www.cbc.ca/news/world/china-japan-diplomatic-tensions-taiwan-scenario-9.6982659?cmp=rss"
+    "score": 114,
+    "pubdate": "2025-11-13-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Heard on the Street: Borrowing from a builder might get you an eye-catching mortgage rate, but it also means you are more likely to overpay and potentially end up underwater",
+    "link": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75"
   },
   {
-    "score": 97,
-    "pubdate": "2025-11-18-00-10-37 +0000",
-    "source": "latimes",
-    "headline": "Justice Department sues to block laws restricting masked, unidentified law enforcement officers in California",
-    "link": "https://www.latimes.com/california/story/2025-11-17/federal-government-suing-california-over-new-police-transparency-laws"
-  },
-  {
-    "score": 96,
+    "score": 104,
     "pubdate": "2025-11-13-23-42-04 +0000",
     "source": "nyt",
     "headline": "Carney Accelerates Economic Plan for Canada to Rely Less on U.S. Amid Trade War",
     "link": "https://www.nytimes.com/2025/11/13/world/canada/carney-economy-trade-trump-tariffs.html"
   },
   {
-    "score": 95,
+    "score": 99,
+    "pubdate": "2025-11-18-11-55-06 +0000",
+    "source": "cbc",
+    "headline": "Chinese airlines offer refunds on Japan trips, Tokyo warns about travel to China as tensions run high",
+    "link": "https://www.cbc.ca/news/world/china-japan-diplomatic-tensions-taiwan-scenario-9.6982659?cmp=rss"
+  },
+  {
+    "score": 96,
     "pubdate": "2025-11-14-21-47-00 +0000",
     "source": "wsj",
     "headline": "The reopened federal government will on Thursday release the first backlogged monthly jobs report, for the month of September",
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Indictment of ex-Newsom aide hints at feds' probe into state's earlier investigation of video game giant",
     "link": "https://www.latimes.com/california/story/2025-11-15/indictment-of-ex-newsom-aide-hints-at-feds-probe-into-state-investigation"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-11-18-00-10-37 +0000",
+    "source": "latimes",
+    "headline": "Justice Department sues to block laws restricting masked, unidentified law enforcement officers in California",
+    "link": "https://www.latimes.com/california/story/2025-11-17/federal-government-suing-california-over-new-police-transparency-laws"
   }
 ]
