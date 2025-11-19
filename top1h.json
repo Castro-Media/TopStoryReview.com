@@ -1,65 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2025-11-19-13-00-53 +0000",
-    "source": "wapo",
-    "headline": "Cow cuddling gives farms boost amid dropping dairy prices",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/11/19/cow-cuddling-dairy-farms/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-11-19-13-00-05 +0000",
+    "score": 48,
+    "pubdate": "2025-11-19-14-04-07 +0000",
     "source": "nyt",
-    "headline": "Russia Pounds Ukraine Even as Zelensky Aims to Revive Peace Talks",
-    "link": "https://www.nytimes.com/2025/11/19/world/europe/ukraine-russia-strikes-peace-talks.html"
+    "headline": "Trump Team Calls Maduro a ‘Cartel’ Boss. That Word Doesn’t Mean What You Think.",
+    "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-maduro-drug-cartel.html"
   },
   {
-    "score": 14,
-    "pubdate": "2025-11-19-13-02-00 +0000",
+    "score": 27,
+    "pubdate": "2025-11-19-14-32-00 +0000",
     "source": "wsj",
     "headline": "Larry Summers Resigns From OpenAI Board Amid Epstein Revelations",
     "link": "https://www.wsj.com/tech/ai/larry-summers-resigns-openai-boad-jeffrey-epstein-2ff4743e"
   },
   {
-    "score": 13,
-    "pubdate": "2025-11-19-13-00-38 +0000",
-    "source": "nypost",
-    "headline": "NYPD Commissioner Jessica Tisch accepts Mayor-elect Zohran Mamdani’s offer to stay as top cop",
-    "link": "https://nypost.com/2025/11/19/us-news/nypd-commissioner-jessica-tisch-accepts-mayor-elect-zohran-mamdanis-offer-to-stay-as-top-cop/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-11-19-13-00-00 +0000",
-    "source": "nypost",
-    "headline": "LI mom’s impossible decision saves ‘lifeless’ child — and reveals exceptionally rare condition",
-    "link": "https://nypost.com/2025/11/19/us-news/li-moms-impossible-decision-saves-lifeless-child-and-reveals-exceptionally-rare-condition/"
-  },
-  {
-    "score": 6,
-    "pubdate": "2025-11-19-12-56-48 +0000",
+    "score": 27,
+    "pubdate": "2025-11-19-14-24-29 +0000",
     "source": "bbc",
-    "headline": "Ferry carrying 267 people runs aground in South Korea",
-    "link": "https://www.bbc.com/news/articles/cx2p2l4j8vjo?at_medium=RSS&at_campaign=rss"
+    "headline": "Nicki Minaj supports contested Trump claim Christians being persecuted in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2025-11-19-13-02-00 +0000",
-    "source": "wsj",
-    "headline": "Larry Summers Resigns From OpenAI Board Amid Epstein Revelations",
-    "link": "https://www.wsj.com/tech/ai/larry-summers-resigns-openai-boad-jeffrey-epstein-2ff4743e?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-19-13-00-53 +0000",
-    "source": "wapo",
-    "headline": "Cow cuddling gives farms boost amid dropping dairy prices",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/11/19/cow-cuddling-dairy-farms/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-19-13-00-05 +0000",
+    "score": 26,
+    "pubdate": "2025-11-19-14-10-28 +0000",
     "source": "nyt",
-    "headline": "Russia Pounds Ukraine Even as Zelensky Aims to Revive Peace Talks",
-    "link": "https://www.nytimes.com/2025/11/19/world/europe/ukraine-russia-strikes-peace-talks.html"
+    "headline": "Netherlands Hands Back Control of Chinese-Owned Chipmaker Nexperia",
+    "link": "https://www.nytimes.com/2025/11/19/business/nexperia-netherlands-china-chips.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2025-11-19-14-23-43 +0000",
+    "source": "bbc",
+    "headline": "Children among 25 killed in one of Russia's deadliest strikes on western Ukraine",
+    "link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-19-14-00-00 +0000",
+    "source": "latimes",
+    "headline": "Billionaire hedge fund founder Tom Steyer is running for governor",
+    "link": "https://www.latimes.com/california/story/2025-11-19/billionaire-hedge-fund-founder-tom-steyer-is-running-for-governor"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-19-13-58-33 +0000",
+    "source": "nypost",
+    "headline": "NYPD top cop Jessica Tisch makes steadfast vow to cops after accepting Zohran Mamdani’s offer to keep job",
+    "link": "https://nypost.com/2025/11/19/us-news/nypds-jessica-tisch-reveals-reason-shell-work-with-zohran-mamdani-despite-disagreements/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-11-19-14-05-48 +0000",
+    "source": "bbc",
+    "headline": "Russian spy ship pointed lasers at RAF pilots tracking it, says UK",
+    "link": "https://www.bbc.com/news/articles/cx24028k7edo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-19-14-27-00 +0000",
+    "source": "wsj",
+    "headline": "Treasury Yields Keep Falling Ahead of Delayed Data",
+    "link": "https://www.wsj.com/world/asia/jgbs-fall-amid-concerns-over-japans-economic-stimulus-plans-621bfd6f?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-19-13-58-22 +0000",
+    "source": "bbc",
+    "headline": "Kenyan authorities paid trolls to threaten Gen Z protesters, Amnesty says",
+    "link": "https://www.bbc.com/news/articles/c3vngv60l0qo?at_medium=RSS&at_campaign=rss"
   }
 ]
