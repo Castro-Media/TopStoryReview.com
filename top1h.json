@@ -1,72 +1,72 @@
 [
   {
-    "score": 27,
-    "pubdate": "2025-11-20-14-39-04 +0000",
-    "source": "startribune",
-    "headline": "U.S. employers added surprisingly solid 119,000 jobs in September, government says in delayed report",
-    "link": "https://www.startribune.com/late-arriving-september-jobs-report-likely-shows-that-hiring-was-sluggish-but-layoffs-few/601529810"
+    "score": 22,
+    "pubdate": "2025-11-20-15-23-53 +0000",
+    "source": "nyt",
+    "headline": "Trump Meeting With Saudi Prince Showcased Prince’s Makeover, and America’s",
+    "link": "https://www.nytimes.com/2025/11/20/world/middleeast/trump-saudi-prince-mohammed-meeting.html"
   },
   {
-    "score": 17,
-    "pubdate": "2025-11-20-14-18-22 +0000",
+    "score": 21,
+    "pubdate": "2025-11-20-15-42-26 +0000",
     "source": "nyt",
-    "headline": "Israeli Strikes Kill at Least 25 in Gaza Amid Cease-Fire, Officials Say",
-    "link": "https://www.nytimes.com/2025/11/19/world/middleeast/israeli-strikes-gaza-deaths.html"
+    "headline": "The Climate Is Changing, Cows Are Stressed and Italy’s Cheesemakers Are Worried",
+    "link": "https://www.nytimes.com/2025/11/19/world/europe/italy-cows-cheese-heat-climate-change.html"
   },
   {
-    "score": 15,
-    "pubdate": "2025-11-20-14-38-14 +0000",
+    "score": 21,
+    "pubdate": "2025-11-20-15-15-23 +0000",
     "source": "nyt",
-    "headline": "Trump Approves the Epstein Files Release, but Some May Be Withheld",
-    "link": "https://www.nytimes.com/2025/11/19/us/politics/trump-epstein-files-loopholes.html"
+    "headline": "September Jobs Report Injects More Uncertainty Into Fed’s December Decision",
+    "link": "https://www.nytimes.com/2025/11/20/business/economy/jobs-fed-interest-rates.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-11-20-15-13-00 +0000",
+    "source": "wsj",
+    "headline": "Axalta Investor Artisan Partners Voices Opposition to $17 Billion AkzoNobel Merger",
+    "link": "https://www.wsj.com/business/deals/axalta-investor-artisan-partners-voices-opposition-to-17-billion-akzonobel-merger-29be02b3?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-20-15-45-00 +0000",
+    "source": "wsj",
+    "headline": "Home sales rose to an eight-month high in October, signaling how even a small decline in mortgage rates will attract some buyers back to the market",
+    "link": "https://www.wsj.com/economy/housing/home-sales-in-october-rose-to-the-highest-level-since-february-55e57518"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-20-15-39-12 +0000",
+    "source": "nyt",
+    "headline": "Ukraine and Europe Chafe at Being Excluded From U.S.-Russian Peace Plan",
+    "link": "https://www.nytimes.com/2025/11/20/world/europe/ukraine-russia-trump-peace-talks.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-20-15-30-24 +0000",
+    "source": "nypost",
+    "headline": "Pro storm chaser puts it all on the line to stand dangerously close to deadly tornadoes",
+    "link": "https://nypost.com/2025/11/20/world-news/professional-storm-chaser-risks-it-all-to-stand-just-meters-from-eye-of-tornadoes-i-have-feared-for-my-life/"
   },
   {
     "score": 12,
-    "pubdate": "2025-11-20-14-45-41 +0000",
+    "pubdate": "2025-11-20-15-36-45 +0000",
     "source": "bbc",
-    "headline": "Nigerian separatist leader convicted on terrorism charges",
+    "headline": "Nigerian separatist leader sentenced to life for terrorism",
     "link": "https://www.bbc.com/news/articles/cj3z38e6v45o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 12,
+    "pubdate": "2025-11-20-14-57-11 +0000",
+    "source": "nyt",
+    "headline": "Wyden Presses for Investigation Into JPMorgan Chase and Epstein",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/jeffrey-epstein-jpmorgan-chase-ron-wyden.html"
+  },
+  {
     "score": 11,
-    "pubdate": "2025-11-20-14-37-51 +0000",
-    "source": "nypost",
-    "headline": "D4vd, eyed as suspect in death of teen found dismembered in his Tesla, may have had help: report",
-    "link": "https://nypost.com/2025/11/20/us-news/d4vd-eyed-as-suspect-in-death-of-teen-found-dismembered-in-his-tesla/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2025-11-20-14-23-00 +0000",
-    "source": "wsj",
-    "headline": "Treasury Yields, Dollar Weaken on Surprisingly High Sep. Job Creation",
-    "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-f677f091?mod=rss_markets_main"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-11-20-14-14-05 +0000",
-    "source": "nyt",
-    "headline": "C.D.C. Website No Longer Rejects Possible Link Between Autism and Vaccines",
-    "link": "https://www.nytimes.com/2025/11/20/health/vaccine-autism-cdc-website.html"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-11-20-14-25-06 +0000",
-    "source": "nyt",
-    "headline": "Israeli Settler Attack During West Bank Olive Harvest Leads to Death of a Boy",
-    "link": "https://www.nytimes.com/2025/11/14/world/middleeast/west-bank-settler-violence-olive-harvest.html"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-11-20-14-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Supervisor Connie Chan announces run for Congress",
-    "link": "https://missionlocal.org/2025/11/sf-supervisor-connie-chan-congress/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2025-11-20-14-48-41 +0000",
-    "source": "nyt",
-    "headline": "Did Nvidia Do Enough to Chill A.I. Bubble Fears?",
-    "link": "https://www.nytimes.com/2025/11/20/business/dealbook/nvidia-ai-boom.html"
+    "pubdate": "2025-11-20-15-06-42 +0000",
+    "source": "cbc",
+    "headline": "Carney signs U.A.E. investment pact, launches trade talks during Abu Dhabi visit",
+    "link": "https://www.cbc.ca/news/politics/canada-abu-dhabi-trade-9.6986012?cmp=rss"
   }
 ]
