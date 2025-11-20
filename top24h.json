@@ -1,13 +1,13 @@
 [
   {
-    "score": 173,
+    "score": 166,
     "pubdate": "2025-11-20-02-06-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would meet with Zohran Mamdani at the White House on Friday at the New York mayor-elect’s request",
     "link": "https://www.wsj.com/politics/elections/trump-says-he-will-meet-with-mamdani-friday-at-the-white-house-9bef2528"
   },
   {
-    "score": 108,
+    "score": 105,
     "pubdate": "2025-11-19-21-43-13 +0000",
     "source": "nypost",
     "headline": "Elon Musk, Nvidia unveil deal with Saudi state-backed firm to build massive AI data center",
@@ -28,25 +28,18 @@
     "link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 64,
-    "pubdate": "2025-11-19-02-36-00 +0000",
-    "source": "wsj",
-    "headline": "Trump said the Saudi crown prince “knew nothing about” the 2018 murder of Washington Post journalist Jamal Khashoggi, though the CIA at the time assessed that the royal orchestrated the killing",
-    "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-11-19-03-54-16 +0000",
-    "source": "nyt",
-    "headline": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
-    "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
-  },
-  {
-    "score": 53,
-    "pubdate": "2025-11-19-21-23-35 +0000",
+    "score": 59,
+    "pubdate": "2025-11-19-16-32-56 +0000",
     "source": "nypost",
-    "headline": "Grocery prices to remain high through Thanksgiving despite Trump’s tariff pardon — here’s when coffee prices will ease",
-    "link": "https://nypost.com/2025/11/19/business/grocery-prices-to-remain-high-through-thanksgiving-despite-trumps-tariff-pardon/"
+    "headline": "Trump Media stock crashes to all-time lows, wiping out $5B in first family wealth during crypto slide",
+    "link": "https://nypost.com/2025/11/19/business/trump-media-stock-crashes-to-all-time-lows-wiping-out-5b-in-first-family-wealth-during-crypto-slide/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-11-19-14-43-39 +0000",
+    "source": "wapo",
+    "headline": "Larry Summers leaves OpenAI as Harvard opens inquiry into his Epstein ties",
+    "link": "https://www.washingtonpost.com/nation/2025/11/19/larry-summers-jeffrey-epstein-harvard-openai/"
   },
   {
     "score": 53,
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2025/11/19/world/middleeast/israeli-strikes-gaza-deaths.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-11-20-00-32-36 +0000",
-    "source": "bbc",
-    "headline": "Harvard University launches new probe into Larry Summers over Epstein emails",
-    "link": "https://www.bbc.com/news/articles/ce868dmz2mdo?at_medium=RSS&at_campaign=rss"
+    "score": 53,
+    "pubdate": "2025-11-19-21-23-35 +0000",
+    "source": "nypost",
+    "headline": "Grocery prices to remain high through Thanksgiving despite Trump’s tariff pardon — here’s when coffee prices will ease",
+    "link": "https://nypost.com/2025/11/19/business/grocery-prices-to-remain-high-through-thanksgiving-despite-trumps-tariff-pardon/"
   },
   {
-    "score": 46,
-    "pubdate": "2025-11-19-13-13-00 +0000",
+    "score": 48,
+    "pubdate": "2025-11-20-00-10-00 +0000",
     "source": "wsj",
-    "headline": "EU Lays Out Plan to Change Tech Laws to Boost Innovation",
-    "link": "https://www.wsj.com/business/eu-lays-out-plan-to-change-tech-laws-to-boost-innovation-bc8de157"
+    "headline": "The House Ethics Committee said Wednesday it was moving forward with an investigation into Rep. Cory Mills, an announcement that came just ahead of a potential censure vote on the Florida Republican",
+    "link": "https://www.wsj.com/politics/ethics-probe-of-rep-cory-mills-moves-ahead-as-possible-censure-vote-looms-30b47ad5"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-11-19-22-53-00 +0000",
+    "source": "wsj",
+    "headline": "The Commerce Department approved the sale of up to 70,000 advanced AI chips to two companies based in the U.A.E. and Saudi Arabia",
+    "link": "https://www.wsj.com/tech/ai/u-s-approves-deal-to-sell-ai-chips-to-middle-east-79d68f36"
   }
 ]
