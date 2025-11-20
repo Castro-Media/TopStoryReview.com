@@ -1,72 +1,72 @@
 [
   {
-    "score": 343,
+    "score": 340,
     "pubdate": "2025-11-18-13-24-46 +0000",
     "source": "cbc",
     "headline": "Saudi crown prince MBS unaware of Khashoggi killing, Trump says in White House visit",
     "link": "https://www.cbc.ca/news/world/washington-saudi-prince-mbs-salman-trump-white-house-9.6982672?cmp=rss"
   },
   {
-    "score": 186,
-    "pubdate": "2025-11-19-21-19-29 +0000",
-    "source": "nypost",
-    "headline": "Ex-Harvard Prez Larry Summers tells students he will keep teaching despite stepping away from public activities in wake of Epstein emails: video",
-    "link": "https://nypost.com/2025/11/19/us-news/ex-harvard-prez-larry-summers-tells-students-he-will-keep-teaching-despite-stepping-away-from-public-activities-in-wake-of-epstein-emails/"
+    "score": 180,
+    "pubdate": "2025-11-18-22-58-00 +0000",
+    "source": "wsj",
+    "headline": "Congress’s approval of legislation to force a public release of federal records tied to the late sex offender Jeffrey Epstein has put new pressure on the DOJ and President Trump",
+    "link": "https://www.wsj.com/politics/policy/epstein-files-house-what-next-explained-ba62c3e4"
   },
   {
-    "score": 155,
-    "pubdate": "2025-11-13-20-05-36 +0000",
-    "source": "latimes",
-    "headline": "Justice Department sues to block California's new House map in clash that could tip control of Congress",
-    "link": "https://www.latimes.com/california/story/2025-11-13/justice-department-sues-to-block-californias-new-congressional-map"
-  },
-  {
-    "score": 127,
+    "score": 131,
     "pubdate": "2025-11-19-14-04-00 +0000",
     "source": "wsj",
     "headline": "EU Proposes Multibillion-Euro Plan to Boost Military Mobility, Defense Tech Amid Russia Tensions",
     "link": "https://www.wsj.com/world/europe/eu-proposes-multibillion-euro-plan-to-boost-military-mobility-defense-tech-amid-russia-tensions-d4d9f683"
   },
   {
-    "score": 117,
+    "score": 128,
     "pubdate": "2025-11-19-22-53-00 +0000",
     "source": "wsj",
     "headline": "The Commerce Department approved the sale of up to 70,000 advanced AI chips to two companies based in the U.A.E. and Saudi Arabia",
     "link": "https://www.wsj.com/tech/ai/u-s-approves-deal-to-sell-ai-chips-to-middle-east-79d68f36"
   },
   {
-    "score": 108,
-    "pubdate": "2025-11-19-16-32-56 +0000",
-    "source": "nypost",
-    "headline": "Trump Media stock crashes to all-time lows, wiping out $5B in first family wealth during crypto slide",
-    "link": "https://nypost.com/2025/11/19/business/trump-media-stock-crashes-to-all-time-lows-wiping-out-5b-in-first-family-wealth-during-crypto-slide/"
+    "score": 124,
+    "pubdate": "2025-11-18-22-15-00 +0000",
+    "source": "wsj",
+    "headline": "Once one of Trump’s most strident MAGA allies, Marjorie Taylor Greene now argues he’s out of touch with his base on the economy, foreign policy and the Epstein case",
+    "link": "https://www.wsj.com/politics/policy/how-marjorie-taylor-greene-alienated-trump-8ed1e920"
   },
   {
-    "score": 103,
+    "score": 124,
+    "pubdate": "2025-11-19-21-23-35 +0000",
+    "source": "nypost",
+    "headline": "Grocery prices to remain high through Thanksgiving despite Trump’s tariff pardon — here’s when coffee prices will ease",
+    "link": "https://nypost.com/2025/11/19/business/grocery-prices-to-remain-high-through-thanksgiving-despite-trumps-tariff-pardon/"
+  },
+  {
+    "score": 100,
     "pubdate": "2025-11-13-11-00-00 +0000",
     "source": "latimes",
     "headline": "Edison's CEO vows swift payments to fire victims, saying utility's equipment likely at fault in Eaton fire",
     "link": "https://www.latimes.com/environment/story/2025-11-13/edisons-ceo-vows-swift-payments-to-fire-victims-saying-utilitys-equipment-likely-at-fault-in-eaton-fire"
   },
   {
-    "score": 98,
-    "pubdate": "2025-11-14-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Our compulsive purchasing of cheap, foreign-made goods may be coming to an end as tariffs drive prices higher and social trends make overconsumption uncool.",
-    "link": "https://www.wsj.com/economy/consumers/will-trumps-trade-war-break-americas-addiction-to-cheap-stuff-ff21df9e"
+    "score": 97,
+    "pubdate": "2025-11-14-19-29-46 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court urged to block California laws requiring companies to disclose climate impacts",
+    "link": "https://www.latimes.com/politics/story/2025-11-14/supreme-court-urged-to-block-california-laws-requiring-companies-to-disclose-climate-impacts"
   },
   {
-    "score": 96,
-    "pubdate": "2025-11-19-18-28-15 +0000",
-    "source": "cbc",
-    "headline": "Israeli strikes kill at least 25 Palestinians in Gaza despite ceasefire, Health Ministry says",
-    "link": "https://www.cbc.ca/news/world/israel-gaza-ceasefire-airstrikes-9.6984864?cmp=rss"
-  },
-  {
-    "score": 92,
+    "score": 95,
     "pubdate": "2025-11-16-22-47-46 +0000",
     "source": "latimes",
     "headline": "As UC nurses reach tentative deal and call off strike, UC service workers walk off the job",
     "link": "https://www.latimes.com/california/story/2025-11-16/uc-nurses-cancel-strike-deal"
+  },
+  {
+    "score": 93,
+    "pubdate": "2025-11-19-18-28-15 +0000",
+    "source": "cbc",
+    "headline": "Israeli strikes kill at least 25 Palestinians in Gaza despite ceasefire, Health Ministry says",
+    "link": "https://www.cbc.ca/news/world/israel-gaza-ceasefire-airstrikes-9.6984864?cmp=rss"
   }
 ]
