@@ -1,9 +1,51 @@
 [
   {
+    "score": 11,
+    "pubdate": "2025-11-20-13-00-00 +0000",
+    "source": "nypost",
+    "headline": "Manhattanites are traveling to New Jersey to play this trendy sport being called the ‘next pickleball’",
+    "link": "https://nypost.com/2025/11/20/health/manhattanites-are-traveling-to-new-jersey-to-play-this-trendy-sport/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-20-13-00-00 +0000",
+    "source": "nypost",
+    "headline": "90 state officials urge Trump, Congress to tackle national debt crisis, warning ‘painful age of reckoning’ looms",
+    "link": "https://nypost.com/2025/11/20/business/90-state-officials-urge-trump-congress-to-tackle-national-debt-crisis-warning-painful-age-of-reckoning-looms/"
+  },
+  {
     "score": 9,
-    "pubdate": "2025-11-20-10-53-21 +0000",
-    "source": "bbc",
-    "headline": "When will the Epstein files be released and will they be redacted?",
-    "link": "https://www.bbc.com/news/articles/cq50nvq8znvo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-11-20-13-00-16 +0000",
+    "source": "nyt",
+    "headline": "C.D.C. Website No Longer Rejects Possible Link Between Autism and Vaccines",
+    "link": "https://www.nytimes.com/2025/11/20/health/vaccine-autism-cdc-website.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-20-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "GE Appliances Invests $150 Million in U.S. Suppliers in Reshoring Push",
+    "link": "https://www.wsj.com/articles/ge-appliances-invests-150-million-in-u-s-suppliers-in-reshoring-push-6e725a80?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-20-12-58-03 +0000",
+    "source": "nyt",
+    "headline": "Did Nvidia Do Enough to Chill A.I. Bubble Fears?",
+    "link": "https://www.nytimes.com/2025/11/20/business/dealbook/nvidia-ai-boom.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-20-12-54-00 +0000",
+    "source": "wsj",
+    "headline": "White House’s Ukraine Peace Plan Draws Pushback",
+    "link": "https://www.wsj.com/world/u-s-peace-plan-for-ukraine-faces-resistance-from-europe-and-kyiv-0f2bb501"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-11-20-13-01-00 +0000",
+    "source": "wsj",
+    "headline": "Abbott to Acquire Exact Sciences for $21 Billion",
+    "link": "https://www.wsj.com/business/deals/abbott-to-acquire-exact-sciences-for-21-billion-8147b973?mod=pls_whats_news_us_business_f"
   }
 ]
