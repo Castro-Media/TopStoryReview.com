@@ -1,6 +1,6 @@
 [
   {
-    "score": 195,
+    "score": 204,
     "pubdate": "2025-11-20-02-32-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would meet with Zohran Mamdani at the White House on Friday at the New York mayor-elect’s request",
@@ -8,31 +8,38 @@
   },
   {
     "score": 84,
-    "pubdate": "2025-11-20-03-35-00 +0000",
-    "source": "wsj",
-    "headline": "Congress’s approval of legislation to force a public release of federal records tied to the late sex offender Jeffrey Epstein has put new pressure on the Justice Department",
-    "link": "https://www.wsj.com/politics/policy/epstein-files-house-what-next-explained-ba62c3e4"
-  },
-  {
-    "score": 82,
     "pubdate": "2025-11-20-17-20-17 +0000",
     "source": "nypost",
     "headline": "Rubio casts doubt on pro-Russian  Ukraine peace plan, touts ‘realistic ideas’ to end war",
     "link": "https://nypost.com/2025/11/20/world-news/rubio-shares-unease-over-reports-of-pro-russian-ukraine-peace-deal/"
   },
   {
-    "score": 77,
-    "pubdate": "2025-11-19-21-43-13 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk, Nvidia unveil deal with Saudi state-backed firm to build massive AI data center",
-    "link": "https://nypost.com/2025/11/19/business/elon-musk-nvidia-unveil-deal-with-saudi-state-backed-firm-to-build-massive-ai-data-center/"
+    "score": 83,
+    "pubdate": "2025-11-20-03-35-00 +0000",
+    "source": "wsj",
+    "headline": "Congress’s approval of legislation to force a public release of federal records tied to the late sex offender Jeffrey Epstein has put new pressure on the Justice Department",
+    "link": "https://www.wsj.com/politics/policy/epstein-files-house-what-next-explained-ba62c3e4"
   },
   {
-    "score": 74,
+    "score": 69,
     "pubdate": "2025-11-20-17-20-47 +0000",
     "source": "nypost",
     "headline": "Kamala Harris and Jill Biden come face-to-face for first time since ex-vice president’s book was released",
     "link": "https://nypost.com/2025/11/20/us-news/kamala-harris-and-jill-biden-come-face-to-face-for-first-time-since-ex-vice-presidents-book-was-released/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2025-11-20-20-15-31 +0000",
+    "source": "nypost",
+    "headline": "For NYC’s oldest dance teacher, the show must go on ahead of her 97th birthday: ‘It gives me life’",
+    "link": "https://nypost.com/2025/11/20/lifestyle/new-york-citys-oldest-dance-teacher-96-wows-with-new-show-it-gives-me-life/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-11-20-13-19-42 +0000",
+    "source": "nyt",
+    "headline": "Delayed Jobs Data to Give Snapshot of a Labor Market Under Stress",
+    "link": "https://www.nytimes.com/live/2025/business/jobs-report-economy/jobs-data-labor-market"
   },
   {
     "score": 57,
@@ -42,31 +49,24 @@
     "link": "https://www.nytimes.com/2025/11/19/world/middleeast/israeli-strikes-gaza-deaths.html"
   },
   {
-    "score": 56,
+    "score": 52,
+    "pubdate": "2025-11-20-08-23-24 +0000",
+    "source": "bbc",
+    "headline": "Nvidia shares rise after strong results ease 'AI bubble' concerns",
+    "link": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 50,
     "pubdate": "2025-11-20-18-05-00 +0000",
     "source": "wsj",
     "headline": "Former President George W. Bush hailed Dick Cheney as a loyal, steadying force during a service Thursday for the late vice president, who died Nov. 3 at age 84",
     "link": "https://www.wsj.com/politics/vice-president-dick-cheney-funeral-ac498994"
   },
   {
-    "score": 56,
-    "pubdate": "2025-11-20-15-45-00 +0000",
-    "source": "wsj",
-    "headline": "Home sales rose to an eight-month high in October, signaling how even a small decline in mortgage rates will attract some buyers back to the market",
-    "link": "https://www.wsj.com/economy/housing/home-sales-in-october-rose-to-the-highest-level-since-february-55e57518"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-11-20-20-15-31 +0000",
-    "source": "nypost",
-    "headline": "For NYC’s oldest dance teacher, the show must go on ahead of her 97th birthday: ‘It gives me life’",
-    "link": "https://nypost.com/2025/11/20/lifestyle/new-york-citys-oldest-dance-teacher-96-wows-with-new-show-it-gives-me-life/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-19-22-59-19 +0000",
+    "score": 46,
+    "pubdate": "2025-11-20-10-00-45 +0000",
     "source": "nyt",
-    "headline": "Police Found $1 Million in a Tub Under a Garage. The Government Gets to Keep It.",
-    "link": "https://www.nytimes.com/2025/11/19/world/canada/canada-government-buried-money-raid.html"
+    "headline": "Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/howard-lutnick-family-ai.html"
   }
 ]
