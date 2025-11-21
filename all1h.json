@@ -1,362 +1,230 @@
 [
   {
-    "headline": "Opinion | The Jobs Report Is a Peek Through Economic Fog",
-    "link": "https://www.wsj.com/opinion/economy-september-jobs-labor-hiring-federal-reserve-7ff16512",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-50-00 +0000"
-  },
-  {
-    "headline": "Grand jury properly voted on James Comey’s indictment, foreman claims in blow to defense: ‘Eliminates any doubt’",
-    "link": "https://nypost.com/2025/11/20/us-news/grand-jury-vote-in-james-comey-case-was-proper-foreman-says/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-49-24 +0000"
-  },
-  {
-    "headline": "Grand jury properly voted on James Comey’s indictment, foreman claims in blow to defense: ‘Eliminates any doubt’",
-    "link": "https://nypost.com/2025/11/20/us-news/grand-jury-vote-in-james-comey-case-was-proper-foreman-says/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-49-24 +0000"
-  },
-  {
-    "headline": "Opinion | Trump Says Arms Are Going to Taiwan",
-    "link": "https://www.wsj.com/opinion/donald-trump-taiwan-arms-sale-china-japan-xi-jinping-c8f7815f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-45-00 +0000"
-  },
-  {
-    "headline": "C.D.C. Website No Longer Rejects Possible Link Between Autism and Vaccines",
-    "link": "https://www.nytimes.com/2025/11/20/health/vaccine-autism-cdc-website.html",
+    "headline": "Coast Guard Softens Stance on Hate and Hazing",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/coast-guard-hate-crimes.html",
     "source": "nyt",
-    "pubdate": "2025-11-20-22-44-52 +0000"
-  },
-  {
-    "headline": "UN climate summit COP30 thrown into chaos after raging inferno causes evacuation",
-    "link": "https://nypost.com/2025/11/20/world-news/fire-erupts-at-un-climate-summit-cop30-in-brazil/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-43-55 +0000"
-  },
-  {
-    "headline": "GE HealthCare to Acquire Intelerad for $2.3 Billion",
-    "link": "https://www.wsj.com/business/deals/ge-healthcare-to-acquire-intelerad-for-2-3-billion-a36a6b89?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-43-00 +0000"
-  },
-  {
-    "headline": "GE HealthCare to Acquire Intelerad for $2.3 Billion",
-    "link": "https://www.wsj.com/business/deals/ge-healthcare-to-acquire-intelerad-for-2-3-billion-a36a6b89?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-43-00 +0000"
-  },
-  {
-    "headline": "Government 'sneakily' moving to avoid paying veterans over federal error, Conservatives say",
-    "link": "https://www.cbc.ca/news/politics/cpc-veterans-amendment-9.6986885?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-20-22-41-33 +0000"
-  },
-  {
-    "headline": "Democrats Raise Concerns Over Allied Curbs on Intelligence Sharing",
-    "link": "https://www.nytimes.com/2025/11/20/us/politics/democrats-allies-intelligence-sharing.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-41-32 +0000"
-  },
-  {
-    "headline": "Democrats Raise Concerns Over Allied Curbs on Intelligence Sharing",
-    "link": "https://www.nytimes.com/2025/11/20/us/politics/democrats-allies-intelligence-sharing.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-41-32 +0000"
-  },
-  {
-    "headline": "Energy Department Reorganization Reflects Shift Away From Renewable Energy",
-    "link": "https://www.nytimes.com/2025/11/20/climate/clean-energy-department-offices.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-38-54 +0000"
-  },
-  {
-    "headline": "Driver suspected of DUI in death of 13-year-old boy had 2 drunk driving convictions",
-    "link": "https://www.latimes.com/california/story/2025-11-20/driver-suspected-of-dui-in-death-of-13-year-old-boy-had-2-drunk-driving-convictions",
-    "source": "latimes",
-    "pubdate": "2025-11-20-22-37-38 +0000"
-  },
-  {
-    "headline": "Opinion | Railway Sabotage on a Polish Line to Ukraine",
-    "link": "https://www.wsj.com/opinion/polish-railway-sabotage-ukraine-russia-donald-tusk-57489d40",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-37-00 +0000"
-  },
-  {
-    "headline": "Opinion | Halfhearted Allies Keep Ukraine in a Futile War",
-    "link": "https://www.wsj.com/opinion/halfhearted-allies-keep-ukraine-in-a-futile-war-17747af6",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-34-00 +0000"
-  },
-  {
-    "headline": "Miss Palestine’s connection to convicted terrorist leader revealed during Miss Universe pageant",
-    "link": "https://nypost.com/2025/11/20/world-news/miss-palestines-ties-to-convicted-terrorist-leader-revealed-during-miss-universe-pageant/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-33-48 +0000"
-  },
-  {
-    "headline": "Curtis Sliwa accused of stiffing workers on his failed NYC mayoral campaign out of thousands in back pay",
-    "link": "https://nypost.com/2025/11/20/us-news/curtis-sliwa-accused-of-stiffing-workers-on-his-failed-nyc-mayoral-campaign-out-of-thousands-in-back-pay/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-33-24 +0000"
-  },
-  {
-    "headline": "NYPD reveals new details on Jets’ Kris Boyd shooting as $185K watch left at scene may offer clue",
-    "link": "https://nypost.com/2025/11/20/sports/nypd-reveals-new-details-on-jets-kris-boyd-shooting-as-185k-watch-left-at-scene-may-offer-clue/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-32-14 +0000"
-  },
-  {
-    "headline": "When will the Epstein files be released and will they be redacted?",
-    "link": "https://www.bbc.com/news/articles/cq50nvq8znvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-20-22-30-24 +0000"
-  },
-  {
-    "headline": "Nigerian Student Describes Hiding From Kidnappers at School",
-    "link": "https://www.nytimes.com/2025/11/20/world/africa/nigeria-school-kidnapping-escape.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-29-55 +0000"
-  },
-  {
-    "headline": "Nigerian Student Describes Hiding From Kidnappers at School",
-    "link": "https://www.nytimes.com/2025/11/20/world/africa/nigeria-school-kidnapping-escape.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-29-55 +0000"
-  },
-  {
-    "headline": "Opinion | Tucker Carlson’s Bible Study",
-    "link": "https://www.wsj.com/opinion/tucker-carlsons-bible-study-e1d2433b",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-29-00 +0000"
-  },
-  {
-    "headline": "Opinion | Epstein Files: Washington Goes Tabloid",
-    "link": "https://www.wsj.com/opinion/washington-goes-tabloid-f130fd11",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-29-00 +0000"
-  },
-  {
-    "headline": "Opinion | Tucker Carlson’s Bible Study",
-    "link": "https://www.wsj.com/opinion/tucker-carlsons-bible-study-e1d2433b",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-29-00 +0000"
-  },
-  {
-    "headline": "Trump to Send U.S. Official to G20 in South Africa After All",
-    "link": "https://www.nytimes.com/2025/11/20/world/africa/south-africa-trump-g20-turnaround.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-28-52 +0000"
-  },
-  {
-    "headline": "Trump to Send U.S. Official to G20 in South Africa After All",
-    "link": "https://www.nytimes.com/2025/11/20/world/africa/south-africa-trump-g20-turnaround.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-28-52 +0000"
-  },
-  {
-    "headline": "Opinion | China Has Nothing to Do With Its Money but Lend It",
-    "link": "https://www.wsj.com/opinion/china-has-nothing-to-do-with-its-money-but-lend-it-2c2be1a3",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-28-00 +0000"
-  },
-  {
-    "headline": "Opinion | For Americans, Family Comes First—or Does It?",
-    "link": "https://www.wsj.com/opinion/for-americans-family-comes-firstor-does-it-61d44cae",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-28-00 +0000"
-  },
-  {
-    "headline": "Intuit Fiscal First-Quarter Sales Jump; CFO Cites AI Demand From Midsize Businesses",
-    "link": "https://www.wsj.com/business/earnings/intuit-first-quarter-sales-jump-cfo-cites-ai-demand-from-mid-sized-businesses-77007e68?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-27-00 +0000"
-  },
-  {
-    "headline": "Senior US officials confirm details of 28-point plan to end Ukraine war",
-    "link": "https://nypost.com/2025/11/20/us-news/senior-us-officials-confirm-details-of-28-point-plan-to-end-ukraine-war/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-26-33 +0000"
-  },
-  {
-    "headline": "Senior US officials confirm details of 28-point plan to end Ukraine war",
-    "link": "https://nypost.com/2025/11/20/us-news/senior-us-officials-confirm-details-of-28-point-plan-to-end-ukraine-war/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-26-33 +0000"
-  },
-  {
-    "headline": "Trump signs bill ordering US justice department to release Epstein files",
-    "link": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-20-22-26-31 +0000"
-  },
-  {
-    "headline": "Trump signs bill ordering US justice department to release Epstein files",
-    "link": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-20-22-26-31 +0000"
-  },
-  {
-    "headline": "American volunteer injured by shrapnel from Russian drone strike in Ukraine",
-    "link": "https://nypost.com/2025/11/20/world-news/american-injured-by-shrapnel-from-russian-drone-in-ukraine/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-23-28 +0000"
-  },
-  {
-    "headline": "Opinion | Notable & Quotable: The State of Learning in America",
-    "link": "https://www.wsj.com/opinion/notable-quotable-the-state-of-learning-in-america-fb4e914e",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-23-00 +0000"
-  },
-  {
-    "headline": "Stocks Tumble as Early Rally Gives Way to Tech Anxiety",
-    "link": "https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-22-01 +0000"
-  },
-  {
-    "headline": "Botulism Bacteria Found in Infant Formula, ByHeart Confirms",
-    "link": "https://www.nytimes.com/2025/11/20/health/baby-formula-recall-byheart-botulism.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-20-36 +0000"
-  },
-  {
-    "headline": "Citi chief financial officer Mark Mason to leave bank next year",
-    "link": "https://nypost.com/2025/11/20/business/citi-chief-financial-officer-mark-mason-to-leave-bank-next-year/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-19-29 +0000"
-  },
-  {
-    "headline": "Trump calls Democrats message to troops 'seditious behavior, punishable by death'",
-    "link": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-20-22-16-57 +0000"
-  },
-  {
-    "headline": "Senior citizen who saved himself from would-be mugger heading to prison because of NYC’s ‘draconian’ laws",
-    "link": "https://nypost.com/2025/11/20/us-news/queens-senior-citizen-who-fatally-shot-would-be-mugger-headed-to-prison-for-four-years/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-16-07 +0000"
-  },
-  {
-    "headline": "U.K. government moves to ban inflated resale of tickets for entertainment and sports events",
-    "link": "https://www.cbc.ca/radio/asithappens/ticket-scalping-ban-government-britain-9.6984915?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-20-22-16-04 +0000"
-  },
-  {
-    "headline": "Trump administration touts plan for new oil drilling off California, Florida",
-    "link": "https://www.cbc.ca/news/world/trump-administration-oil-drilling-california-florida-9.6986697?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-20-22-15-38 +0000"
-  },
-  {
-    "headline": "Judge Rules National Guard Deployment in Washington, D.C., Was Unlawful",
-    "link": "https://www.wsj.com/us-news/law/judge-rules-national-guard-deployment-in-washington-d-c-was-unlawful-6e1b4f29",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-11-00 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f8d95d41?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-10-00 +0000"
-  },
-  {
-    "headline": "Congressional Republicans Begin to Look Beyond Trump",
-    "link": "https://www.nytimes.com/2025/11/20/us/politics/congressional-republicans-trump-midterms.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-08-31 +0000"
-  },
-  {
-    "headline": "Congressional Republicans Begin to Look Beyond Trump",
-    "link": "https://www.nytimes.com/2025/11/20/us/politics/congressional-republicans-trump-midterms.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-08-31 +0000"
-  },
-  {
-    "headline": "Wisconsin teen allegedly starved and neglected by grossly obese family, weighed just 35 pounds",
-    "link": "https://nypost.com/2025/11/20/us-news/wisconsin-teen-weighing-just-35-lbs-allegedly-starved-and-neglected-by-grossly-obese-family/",
-    "source": "nypost",
-    "pubdate": "2025-11-20-22-08-06 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d3f40e82?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-08-00 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d3f40e82?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-08-00 +0000"
-  },
-  {
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-180cb45f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-07-00 +0000"
-  },
-  {
-    "headline": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/health/health-care-roundup-market-talk-657b401a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-06-00 +0000"
-  },
-  {
-    "headline": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/health/health-care-roundup-market-talk-657b401a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-06-00 +0000"
-  },
-  {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-d499ca9b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-04-00 +0000"
-  },
-  {
-    "headline": "Cheney Remembered for Transforming National Security and Standing Against Trump",
-    "link": "https://www.nytimes.com/2025/11/20/us/politics/dick-cheney-funeral-memorial.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-02-59 +0000"
-  },
-  {
-    "headline": "Cheney Remembered for Transforming National Security and Standing Against Trump",
-    "link": "https://www.nytimes.com/2025/11/20/us/politics/dick-cheney-funeral-memorial.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-22-02-59 +0000"
-  },
-  {
-    "headline": "Gap Bumps Up Fiscal-Year Outlook as Third-Quarter Same-Store Sales Grow",
-    "link": "https://www.wsj.com/business/earnings/gap-bumps-up-fiscal-year-outlook-as-third-quarter-same-store-sales-grow-afb50174?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-22-02-00 +0000"
+    "pubdate": "2025-11-20-23-49-22 +0000"
   },
   {
     "headline": "Nydia Velázquez, a New York Trailblazer in Congress, to Retire Next Year",
     "link": "https://www.nytimes.com/2025/11/20/nyregion/nydia-velazquez-retire.html",
     "source": "nyt",
-    "pubdate": "2025-11-20-22-00-23 +0000"
+    "pubdate": "2025-11-20-23-48-54 +0000"
   },
   {
-    "headline": "'Huge columns of smoke': BBC at the scene of fire at COP30",
-    "link": "https://www.bbc.com/news/videos/cn5159k1krzo?at_medium=RSS&at_campaign=rss",
+    "headline": "Senate Democrats Investigate Kennedy Center Deals With Trump Allies",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/democrats-kennedy-center-investigate.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-48-12 +0000"
+  },
+  {
+    "headline": "Senate Democrats Investigate Kennedy Center Deals With Trump Allies",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/democrats-kennedy-center-investigate.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-48-12 +0000"
+  },
+  {
+    "headline": "Senate Democrats Investigate Kennedy Center Deals With Trump Allies",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/democrats-kennedy-center-investigate.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-48-12 +0000"
+  },
+  {
+    "headline": "Anna Kepner’s stepbrother was ‘obsessed’ with slain cheerleader — and once committed creepy act while she was sleeping: report",
+    "link": "https://nypost.com/2025/11/20/us-news/anna-kepners-stepbrother-was-obsessed-with-slain-cheerleader-and-once-committed-creepy-act-while-she-was-sleeping-report/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-47-44 +0000"
+  },
+  {
+    "headline": "UC Berkeley student, 19, dies after drowning in pool at wild off-campus frat party: ‘This tragic loss is profound’",
+    "link": "https://nypost.com/2025/11/20/us-news/uc-berkeley-student-19-dies-after-drowning-in-pool-at-wild-off-campus-frat-party/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-44-00 +0000"
+  },
+  {
+    "headline": "Citigroup Names New CFO and Reorganizes Personal-Banking Business",
+    "link": "https://www.wsj.com/business/c-suite/citigroup-plans-to-reorganize-u-s-personal-banking-business-names-next-cfo-95d175b9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-20-23-41-00 +0000"
+  },
+  {
+    "headline": "Citigroup Names New CFO and Reorganizes Personal-Banking Business",
+    "link": "https://www.wsj.com/business/c-suite/citigroup-plans-to-reorganize-u-s-personal-banking-business-names-next-cfo-95d175b9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-20-23-41-00 +0000"
+  },
+  {
+    "headline": "Shaikin: Mayor does not have much to say about new Dodger Stadium gondola EIR",
+    "link": "https://www.latimes.com/sports/dodgers/story/2025-11-20/commentary-what-new-dodger-stadium-gondola-eir-is-about",
+    "source": "latimes",
+    "pubdate": "2025-11-20-23-37-09 +0000"
+  },
+  {
+    "headline": "Ex-New York Post media columnist Keith J. Kelly inducted into Deadline Club New York Journalism Hall of Fame",
+    "link": "https://nypost.com/2025/11/20/media/ex-new-york-post-media-columnist-keith-j-kelly-inducted-into-deadline-club-new-york-journalism-hall-of-fame/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-31-36 +0000"
+  },
+  {
+    "headline": "Tears, walkouts and drama: New Miss Universe to be crowned as chaotic season ends",
+    "link": "https://www.bbc.com/news/articles/cgmxmxljg8mo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-20-21-58-46 +0000"
+    "pubdate": "2025-11-20-23-30-09 +0000"
   },
   {
-    "headline": "American Shoppers Are Looking for Deals and Walmart Is Cashing In",
-    "link": "https://www.wsj.com/business/retail/walmart-wmt-q3-earnings-report-stock-2025-f5c45d8b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-20-21-57-00 +0000"
+    "headline": "The Privacy Battle in Our Brains",
+    "link": "https://www.nytimes.com/2025/11/20/world/privacy-battle-in-brains-technology-saudi-mamdani.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-23-30 +0000"
   },
   {
-    "headline": "American Shoppers Are Looking for Deals and Walmart Is Cashing In",
-    "link": "https://www.wsj.com/business/retail/walmart-wmt-q3-earnings-report-stock-2025-f5c45d8b?mod=pls_whats_news_us_business_f",
+    "headline": "Zohran Mamdani wants to ‘speak plainly’ to Trump about affordability at high-stakes meeting",
+    "link": "https://nypost.com/2025/11/20/us-news/zohran-mamdani-wants-to-speak-plainly-to-trump-about-affordability-at-white-house-meeting/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-23-06 +0000"
+  },
+  {
+    "headline": "House Rep. Jerry Nadler’s retirement sparks huge field of contenders: Meet the possible NY-12 candidates",
+    "link": "https://nypost.com/2025/11/20/us-news/whos-running-to-replace-house-rep-jerry-nadler-in-ny-12/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-22-35 +0000"
+  },
+  {
+    "headline": "Iran cancels new nuclear inspections it agreed to after bombing campaign",
+    "link": "https://www.washingtonpost.com/national-security/2025/11/20/iran-nuclear-iaea-inspection/",
+    "source": "wapo",
+    "pubdate": "2025-11-20-23-18-50 +0000"
+  },
+  {
+    "headline": "Crypto lawyer seeks run for NY attorney general against Letitia James",
+    "link": "https://nypost.com/2025/11/20/us-news/crypto-lawyer-seeks-run-for-attorney-general-against-letitia-james/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-18-28 +0000"
+  },
+  {
+    "headline": "Crypto lawyer seeks run for NY attorney general against Letitia James",
+    "link": "https://nypost.com/2025/11/20/us-news/crypto-lawyer-seeks-run-for-attorney-general-against-letitia-james/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-18-28 +0000"
+  },
+  {
+    "headline": "Missouri Judge Who Wore Elvis Wig in Court Agrees to Resign",
+    "link": "https://www.nytimes.com/2025/11/20/us/missouri-judge-elvis-wig-resigns.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-13-46 +0000"
+  },
+  {
+    "headline": "DSA civil war brewing as Zohran Mamdani opposes member’s bid to topple Hakeem Jeffries",
+    "link": "https://nypost.com/2025/11/20/us-news/dsa-civil-war-brewing-as-zohran-mamdani-opposes-members-bid-to-topple-hakeem-jeffries/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-12-32 +0000"
+  },
+  {
+    "headline": "Long Island postal worker helps ICE detainee escape, then berates agents in bilingual rant: feds",
+    "link": "https://nypost.com/2025/11/20/us-news/long-island-postal-worker-helps-ice-detainee-escape-then-berates-agents-in-bilingual-rant-feds/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-11-31 +0000"
+  },
+  {
+    "headline": "Delta bigwig who led LaGuardia’s $8B overhaul threw driver’s keys into storm drain during airport dustup: sources",
+    "link": "https://nypost.com/2025/11/20/us-news/delta-bigwig-behind-laguardia-overhaul-threw-drivers-keys-into-storm-drain-during-airport-dustup/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-10-54 +0000"
+  },
+  {
+    "headline": "Delta bigwig who led LaGuardia’s $8B overhaul threw driver’s keys into storm drain during airport dustup: sources",
+    "link": "https://nypost.com/2025/11/20/us-news/delta-bigwig-behind-laguardia-overhaul-threw-drivers-keys-into-storm-drain-during-airport-dustup/",
+    "source": "nypost",
+    "pubdate": "2025-11-20-23-10-54 +0000"
+  },
+  {
+    "headline": "U.S. Ambassador to Canada Channels Harsh Trump Tone",
+    "link": "https://www.nytimes.com/2025/11/20/world/canada/pete-hoekstra-canada-us-ambassador.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-10-00 +0000"
+  },
+  {
+    "headline": "U.S. Ambassador to Canada Channels Harsh Trump Tone",
+    "link": "https://www.nytimes.com/2025/11/20/world/canada/pete-hoekstra-canada-us-ambassador.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-10-00 +0000"
+  },
+  {
+    "headline": "US stocks slide as Wall Street's AI jitters persist",
+    "link": "https://www.bbc.com/news/articles/cwy1yl1202yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-20-23-08-00 +0000"
+  },
+  {
+    "headline": "Saudi Arabia’s Prince Has Big Plans, but His Giant Fund Is Low on Cash",
+    "link": "https://www.nytimes.com/2025/11/19/business/pif-saudi-arabia-fund-problems.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-07-23 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks Trump From Deploying National Guard in D.C.",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/national-guard-washington-dc-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-07-12 +0000"
+  },
+  {
+    "headline": "Judge Temporarily Blocks Trump From Deploying National Guard in D.C.",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/national-guard-washington-dc-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-07-12 +0000"
+  },
+  {
+    "headline": "Netflix, Comcast and Paramount Submit Warner Bros. Discovery Bids",
+    "link": "https://www.nytimes.com/2025/11/20/business/media/warner-discovery-bids-paramount-netflix-comcast.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-03-48 +0000"
+  },
+  {
+    "headline": "Cheney Remembered for Transforming National Security and Standing Against Trump",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/dick-cheney-funeral-memorial.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-03-27 +0000"
+  },
+  {
+    "headline": "Cheney Remembered for Transforming National Security and Standing Against Trump",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/dick-cheney-funeral-memorial.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-23-03-27 +0000"
+  },
+  {
+    "headline": "Ward Landrigan, Jeweler to the Stars, Dies at 84",
+    "link": "https://www.nytimes.com/2025/11/20/fashion/ward-landrigan-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-22-57-08 +0000"
+  },
+  {
+    "headline": "Opinion | Epstein Is a Failure of the 21st-Century Elites",
+    "link": "https://www.wsj.com/opinion/epstein-is-a-failure-of-the-21st-century-elites-71d83d12",
     "source": "wsj",
-    "pubdate": "2025-11-20-21-57-00 +0000"
+    "pubdate": "2025-11-20-22-57-00 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s Texas Gerrymander Backfire",
+    "link": "https://www.wsj.com/opinion/texas-redistricting-map-gop-house-donald-trump-doj-gerrymandering-supreme-court-460691a7",
+    "source": "wsj",
+    "pubdate": "2025-11-20-22-56-00 +0000"
+  },
+  {
+    "headline": "After the Louvre Heist, the Museum’s President Defends Her Tenure",
+    "link": "https://www.nytimes.com/2025/11/20/world/europe/louvre-director-theft-renovation.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-22-55-57 +0000"
+  },
+  {
+    "headline": "After the Louvre Heist, the Museum’s President Defends Her Tenure",
+    "link": "https://www.nytimes.com/2025/11/20/world/europe/louvre-director-theft-renovation.html",
+    "source": "nyt",
+    "pubdate": "2025-11-20-22-55-57 +0000"
+  },
+  {
+    "headline": "Watch: Chadwick Boseman posthumously honoured with Hollywood star",
+    "link": "https://www.bbc.com/news/videos/c93x3v65n9qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-20-22-54-28 +0000"
   }
 ]
