@@ -1,44 +1,72 @@
 [
   {
+    "score": 27,
+    "pubdate": "2025-11-21-14-24-24 +0000",
+    "source": "nyt",
+    "headline": "European Leaders Back Zelensky After Trump’s Russia-Ukraine Peace Plan Excludes Them",
+    "link": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-trump-peace-plan.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-11-21-14-36-55 +0000",
+    "source": "nyt",
+    "headline": "Japan’s New Leader Mentions Taiwan, and Tanks Her Relationship With China",
+    "link": "https://www.nytimes.com/2025/11/21/world/asia/japan-china-taiwan-dispute.html"
+  },
+  {
     "score": 19,
-    "pubdate": "2025-11-21-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "When Toyota was planning to build its first stand-alone factory in the U.S., Kentucky wasn’t in consideration. But Gov. Martha Layne Collins made it happen anyway.",
-    "link": "https://www.wsj.com/arts-culture/books/martha-layne-collins-kentucky-governor-1788d277"
+    "pubdate": "2025-11-21-14-34-41 +0000",
+    "source": "nyt",
+    "headline": "After Syria’s 14-Year Civil War, a Search for Victims Leads to Mass Graves",
+    "link": "https://www.nytimes.com/2025/11/21/world/middleeast/syria-mass-graves-civil-war.html"
   },
   {
-    "score": 9,
-    "pubdate": "2025-11-21-13-00-03 +0000",
+    "score": 18,
+    "pubdate": "2025-11-21-14-49-28 +0000",
     "source": "bbc",
-    "headline": "How WhatsApp messages revealed ex-Reform politician's pro-Russian bribes",
-    "link": "https://www.bbc.com/news/articles/cn8vnv3dk0vo?at_medium=RSS&at_campaign=rss"
+    "headline": "South Africa declares gender violence a national disaster after protests",
+    "link": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 7,
-    "pubdate": "2025-11-21-12-58-01 +0000",
+    "score": 16,
+    "pubdate": "2025-11-21-14-09-01 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls Democrats’ Military Video ‘Seditious Behavior, Punishable by Death’",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/trump-democrats-sedition-death-punishment.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-11-21-14-10-09 +0000",
+    "source": "nyt",
+    "headline": "Trump Calling Reporter ‘Piggy’ Was ‘Frankness,’ White House Says",
+    "link": "https://www.nytimes.com/2025/11/20/business/media/trump-leavitt-reporter-piggy.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-21-14-39-17 +0000",
+    "source": "nyt",
+    "headline": "Eurovision Tightens Voting Rules to Tamp Down on Government Influence",
+    "link": "https://www.nytimes.com/2025/11/21/arts/eurovision-voting-rules-israel.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-21-13-58-46 +0000",
     "source": "bbc",
-    "headline": "Gove apologises after Covid report alleges 'toxic' culture",
-    "link": "https://www.bbc.com/news/articles/c9qeglxwwx7o?at_medium=RSS&at_campaign=rss"
+    "headline": "Pupils abducted from Catholic school in fresh Nigeria attack",
+    "link": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 7,
-    "pubdate": "2025-11-21-12-55-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Down Amid Geopolitical Developments, U.S. Rate-Cut Uncertainty",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-slips-on-easing-geopolitical-tensions-990106a6?mod=rss_markets_main"
+    "score": 14,
+    "pubdate": "2025-11-21-14-11-44 +0000",
+    "source": "nyt",
+    "headline": "South Africans Seize on G20 Summit to Air Their Nation’s Ills",
+    "link": "https://www.nytimes.com/2025/11/21/world/africa/south-africa-g20-protests.html"
   },
   {
-    "score": 5,
-    "pubdate": "2025-11-21-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Are Stocks a Better Bet Than Social Security?",
-    "link": "https://www.wsj.com/finance/investing/are-stocks-a-better-bet-than-social-security-873ab68a?mod=rss_markets_main"
-  },
-  {
-    "score": 5,
-    "pubdate": "2025-11-21-12-56-18 +0000",
-    "source": "bbc",
-    "headline": "Barber to offer 'pay what you can' haircuts",
-    "link": "https://www.bbc.com/news/articles/cn98l3x0jrpo?at_medium=RSS&at_campaign=rss"
+    "score": 12,
+    "pubdate": "2025-11-21-14-30-14 +0000",
+    "source": "nypost",
+    "headline": "New Jersey Korean spa forced to allow trans women in female nude section after being sued",
+    "link": "https://nypost.com/2025/11/21/us-news/new-jersey-korean-spa-forced-to-allow-trans-women-in-female-nude-section-after-being-sued/"
   }
 ]
