@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "score": 19,
+    "pubdate": "2025-11-21-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "When Toyota was planning to build its first stand-alone factory in the U.S., Kentucky wasn’t in consideration. But Gov. Martha Layne Collins made it happen anyway.",
+    "link": "https://www.wsj.com/arts-culture/books/martha-layne-collins-kentucky-governor-1788d277"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-21-13-00-03 +0000",
+    "source": "bbc",
+    "headline": "How WhatsApp messages revealed ex-Reform politician's pro-Russian bribes",
+    "link": "https://www.bbc.com/news/articles/cn8vnv3dk0vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-21-12-58-01 +0000",
+    "source": "bbc",
+    "headline": "Gove apologises after Covid report alleges 'toxic' culture",
+    "link": "https://www.bbc.com/news/articles/c9qeglxwwx7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-21-12-55-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Down Amid Geopolitical Developments, U.S. Rate-Cut Uncertainty",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-slips-on-easing-geopolitical-tensions-990106a6?mod=rss_markets_main"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-11-21-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Are Stocks a Better Bet Than Social Security?",
+    "link": "https://www.wsj.com/finance/investing/are-stocks-a-better-bet-than-social-security-873ab68a?mod=rss_markets_main"
+  },
+  {
+    "score": 5,
+    "pubdate": "2025-11-21-12-56-18 +0000",
+    "source": "bbc",
+    "headline": "Barber to offer 'pay what you can' haircuts",
+    "link": "https://www.bbc.com/news/articles/cn98l3x0jrpo?at_medium=RSS&at_campaign=rss"
+  }
+]
