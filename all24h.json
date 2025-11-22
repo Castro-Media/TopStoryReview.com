@@ -1,5 +1,227 @@
 [
   {
+    "headline": "Daily Mail publisher agrees to buy Daily Telegraph for £500m",
+    "link": "https://www.bbc.com/news/articles/cx2eg1w0n81o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-22-10-48-08 +0000"
+  },
+  {
+    "headline": "Brazil’s ex-President Jair Bolsonaro detained by police, lawyer says",
+    "link": "https://nypost.com/2025/11/22/world-news/brazil-ex-president-jair-bolsonaro-arrested-by-federal-police-lawyer/",
+    "source": "nypost",
+    "pubdate": "2025-11-22-10-47-03 +0000"
+  },
+  {
+    "headline": "Seven bodyguards arrested over Mexican mayor's murder",
+    "link": "https://www.bbc.com/news/articles/cq60rpmq641o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-22-10-33-57 +0000"
+  },
+  {
+    "headline": "Trump’s Tariffs Hand Lula a Political Gift in Brazil",
+    "link": "https://www.wsj.com/world/americas/trump-tariffs-brazil-luiz-inacio-lula-9b640f63",
+    "source": "wsj",
+    "pubdate": "2025-11-22-10-30-00 +0000"
+  },
+  {
+    "headline": "Investors Clamor for a Peek Behind the Private Markets Curtain",
+    "link": "https://www.wsj.com/finance/investing/investors-clamor-for-a-peek-behind-the-private-markets-curtain-d8763e53?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-22-10-30-00 +0000"
+  },
+  {
+    "headline": "What Is Trump’s 28-Point Plan to End Russia’s War in Ukraine?",
+    "link": "https://www.nytimes.com/2025/11/22/world/europe/trump-russia-ukraine-peace-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-25-40 +0000"
+  },
+  {
+    "headline": "What Is Trump’s 28-Point Plan to End Russia’s War in Ukraine?",
+    "link": "https://www.nytimes.com/2025/11/22/world/europe/trump-russia-ukraine-peace-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-25-40 +0000"
+  },
+  {
+    "headline": "The Aftermath of a Deadly Strike in Western Ukraine",
+    "link": "https://www.nytimes.com/video/world/europe/100000010538311/the-aftermath-of-a-deadly-strike-in-western-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-18-31 +0000"
+  },
+  {
+    "headline": "The Aftermath of a Deadly Strike in Western Ukraine",
+    "link": "https://www.nytimes.com/video/world/europe/100000010538311/the-aftermath-of-a-deadly-strike-in-western-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-18-31 +0000"
+  },
+  {
+    "headline": "New Orleans, a City of Service Workers, Braces for an Immigration Crackdown",
+    "link": "https://www.nytimes.com/2025/11/22/us/new-orleans-a-city-of-service-workers-braces-for-an-immigration-crackdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-02-07 +0000"
+  },
+  {
+    "headline": "Trump Offers a Ukraine Peace Plan the Kremlin Can Love",
+    "link": "https://www.nytimes.com/2025/11/22/us/politics/trump-ukraine-russia-peace-plan-kremlin.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-49 +0000"
+  },
+  {
+    "headline": "Trump Offers a Ukraine Peace Plan the Kremlin Can Love",
+    "link": "https://www.nytimes.com/2025/11/22/us/politics/trump-ukraine-russia-peace-plan-kremlin.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-49 +0000"
+  },
+  {
+    "headline": "In North Carolina, the Border Patrol’s Presence Divides a Swing State",
+    "link": "https://www.nytimes.com/2025/11/22/us/north-carolina-border-patrol-immigration-politics.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-44 +0000"
+  },
+  {
+    "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
+    "link": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-41 +0000"
+  },
+  {
+    "headline": "As Democrats Look to a New Generation, John Larson Hangs On",
+    "link": "https://www.nytimes.com/2025/11/22/us/politics/john-larson-connecticut-congress-election.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-35 +0000"
+  },
+  {
+    "headline": "As Democrats Look to a New Generation, John Larson Hangs On",
+    "link": "https://www.nytimes.com/2025/11/22/us/politics/john-larson-connecticut-congress-election.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-35 +0000"
+  },
+  {
+    "headline": "In Charlotte, Border Patrol Arrests Send Families Into Hiding",
+    "link": "https://www.nytimes.com/video/us/100000010532310/charlotte-immigration-arrests.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-25 +0000"
+  },
+  {
+    "headline": "The Battle Between Pasadena and U.C.L.A Over the Rose Bowl",
+    "link": "https://www.nytimes.com/2025/11/22/us/rose-bowl-pasadena-ucla.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-10 +0000"
+  },
+  {
+    "headline": "A Socialist Priest Embraces Venezuela’s Maduro, an Autocratic Leader",
+    "link": "https://www.nytimes.com/2025/11/22/world/americas/numa-molina-maduro-catholic-church.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-03 +0000"
+  },
+  {
+    "headline": "A Socialist Priest Embraces Venezuela’s Maduro, an Autocratic Leader",
+    "link": "https://www.nytimes.com/2025/11/22/world/americas/numa-molina-maduro-catholic-church.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-01-03 +0000"
+  },
+  {
+    "headline": "Zelensky has never been more vulnerable. Trump just upped the pressure.",
+    "link": "https://www.washingtonpost.com/world/2025/11/22/zelensky-corruption-war-russia/",
+    "source": "wapo",
+    "pubdate": "2025-11-22-10-00-52 +0000"
+  },
+  {
+    "headline": "The Federalist Society Is Torn Between Its Legal Philosophy and Trump’s Demands",
+    "link": "https://www.nytimes.com/2025/11/22/us/trump-federalist-society.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-46 +0000"
+  },
+  {
+    "headline": "Stopping the Greatest Threat to the Amazon, One Fire at a Time",
+    "link": "https://www.nytimes.com/2025/11/22/climate/amazon-fire-paragominas-nepstad.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-43 +0000"
+  },
+  {
+    "headline": "How a Philippines mayor wound up with a life sentence for human trafficking",
+    "link": "https://www.washingtonpost.com/world/2025/11/22/alice-guo-phillipines-mayor-gambling-espionage-trafficking/",
+    "source": "wapo",
+    "pubdate": "2025-11-22-10-00-40 +0000"
+  },
+  {
+    "headline": "Another school kidnapping rocks Nigeria as Trump threatens military force",
+    "link": "https://www.washingtonpost.com/world/2025/11/22/nigeria-school-kidnapping-christians-trump/",
+    "source": "wapo",
+    "pubdate": "2025-11-22-10-00-36 +0000"
+  },
+  {
+    "headline": "Miss Piggy, Fraggles and an Auction at the Twilight of a Hollywood Era",
+    "link": "https://www.nytimes.com/2025/11/22/business/media/henson-muppets-auction.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-31 +0000"
+  },
+  {
+    "headline": "Jewish group vies to open nation’s first religious charter school",
+    "link": "https://www.washingtonpost.com/nation/2025/11/23/oklahoma-jewish-charter-school-supreme/",
+    "source": "wapo",
+    "pubdate": "2025-11-22-10-00-21 +0000"
+  },
+  {
+    "headline": "Trump Claims a White ‘Genocide’ in South Africa. Here’s What’s Really Happening.",
+    "link": "https://www.nytimes.com/2025/11/22/world/africa/south-africa-crime.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-16 +0000"
+  },
+  {
+    "headline": "Germans Are Going Off Beer. That’s Forcing Brewers to Adapt or Go Bust.",
+    "link": "https://www.nytimes.com/2025/11/22/world/europe/germany-alcohol-consumption-breweries.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-16 +0000"
+  },
+  {
+    "headline": "Trump Claims a White ‘Genocide’ in South Africa. Here’s What’s Really Happening.",
+    "link": "https://www.nytimes.com/2025/11/22/world/africa/south-africa-crime.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-16 +0000"
+  },
+  {
+    "headline": "Germans Are Going Off Beer. That’s Forcing Brewers to Adapt or Go Bust.",
+    "link": "https://www.nytimes.com/2025/11/22/world/europe/germany-alcohol-consumption-breweries.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-16 +0000"
+  },
+  {
+    "headline": "Retiring Before (or After) Your Partner? How to Navigate Money Issues",
+    "link": "https://www.nytimes.com/2025/11/22/business/couples-retirement-planning.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-10-00-06 +0000"
+  },
+  {
+    "headline": "Trump Uses Gaza Peace Playbook in Ukraine",
+    "link": "https://www.wsj.com/world/trump-uses-gaza-peace-playbook-in-ukraine-081bd21c",
+    "source": "wsj",
+    "pubdate": "2025-11-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Cargo Ship Fire in L.A. Threatens City With Hazardous Smoke",
+    "link": "https://www.nytimes.com/2025/11/22/us/cargo-ship-fire-los-angeles-port.html",
+    "source": "nyt",
+    "pubdate": "2025-11-22-09-17-01 +0000"
+  },
+  {
+    "headline": "Freed sex offender allegedly poses as doctor, sexually assaults student at Arizona elementary school: police",
+    "link": "https://nypost.com/2025/11/22/us-news/arizona-sex-offender-abel-kai-gblah-posed-as-doctor-sexually-assaulted-elementary-school-student/",
+    "source": "nypost",
+    "pubdate": "2025-11-22-09-11-51 +0000"
+  },
+  {
+    "headline": "Liberals hoped their border bill would quickly pass. Now they're aiming for next year",
+    "link": "https://www.cbc.ca/news/politics/border-security-bill-c-12-9.6988286?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-22-09-00-00 +0000"
+  },
+  {
+    "headline": "Ontario’s rep in Washington says Reagan ad not coming up in talks with U.S. lawmakers",
+    "link": "https://www.cbc.ca/news/politics/ontario-reagan-ad-tariffs-trade-9.6988391?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-22-09-00-00 +0000"
+  },
+  {
     "headline": "Mexican woman gets 20 years for role in killings of US, Australian surfers",
     "link": "https://nypost.com/2025/11/22/world-news/mexican-woman-gets-20-years-for-role-in-killings-of-us-australian-surfers/",
     "source": "nypost",
@@ -120,12 +342,6 @@
     "pubdate": "2025-11-22-05-21-25 +0000"
   },
   {
-    "headline": "Fire Breaks Out on Cargo Ship in the Port of Los Angeles",
-    "link": "https://www.nytimes.com/2025/11/22/us/cargo-ship-fire-los-angeles-port.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-05-19-16 +0000"
-  },
-  {
     "headline": "Prep Bowl: Recap from the football state championships",
     "link": "https://www.startribune.com/live-scores-and-championship-game-updates-from-minnesota-high-school-football-prep-bowl/601526300",
     "source": "startribune",
@@ -156,20 +372,8 @@
     "pubdate": "2025-11-22-05-01-46 +0000"
   },
   {
-    "headline": "What Is Trump’s 28-Point Plan to End Russia’s War in Ukraine?",
-    "link": "https://www.nytimes.com/2025/11/22/world/europe/trump-russia-ukraine-peace-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-05-01-05 +0000"
-  },
-  {
     "headline": "Russian Exiles See Europe Visa Rule as Blow Against Them, Not Putin",
     "link": "https://www.nytimes.com/2025/11/22/world/europe/russia-visas-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-05-01-05 +0000"
-  },
-  {
-    "headline": "What Is Trump’s 28-Point Plan to End Russia’s War in Ukraine?",
-    "link": "https://www.nytimes.com/2025/11/22/world/europe/trump-russia-ukraine-peace-plan.html",
     "source": "nyt",
     "pubdate": "2025-11-22-05-01-05 +0000"
   },
@@ -658,12 +862,6 @@
     "link": "https://nypost.com/2025/11/21/us-news/trump-satisfied-with-conclusion-would-be-assassin-thomas-crooks-acted-alone-fbi/",
     "source": "nypost",
     "pubdate": "2025-11-22-00-17-21 +0000"
-  },
-  {
-    "headline": "Stomach-churning video shows worker slamming frozen ribs on dirty pavement, forcing closure of Bay Area restaurant",
-    "link": "https://nypost.com/2025/11/21/us-news/viral-video-shows-restaurant-worker-slamming-frozen-ribs-on-pavement/",
-    "source": "nypost",
-    "pubdate": "2025-11-22-00-16-38 +0000"
   },
   {
     "headline": "Opinion | Democrats Beat a Climate Retreat",
@@ -1392,12 +1590,6 @@
     "pubdate": "2025-11-21-19-02-33 +0000"
   },
   {
-    "headline": "G.O.P. Redistricting Push May Backfire, Giving Democrats a Midterm Edge",
-    "link": "https://www.nytimes.com/2025/11/21/upshot/republicans-redistricting-gerrymanders-update.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-19-02-09 +0000"
-  },
-  {
     "headline": "S.F. to pay landlords 1 month’s rent to house RV dwellers",
     "link": "https://missionlocal.org/2025/11/sf-rv-landlord-funding/",
     "source": "missionlocal",
@@ -1714,12 +1906,6 @@
     "link": "https://nypost.com/2025/11/21/us-news/house-passes-resolution-condemning-socialism-as-zohran-mamdani-arrives-for-trump-meeting/",
     "source": "nypost",
     "pubdate": "2025-11-21-16-14-54 +0000"
-  },
-  {
-    "headline": "Family Who Died While Visiting Istanbul May Have Been Poisoned, Authorities Say",
-    "link": "https://www.nytimes.com/2025/11/19/world/middleeast/istanbul-germany-family-death-poisoning.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-16-14-40 +0000"
   },
   {
     "headline": "Family Who Died While Visiting Istanbul May Have Been Poisoned, Authorities Say",
@@ -2184,6 +2370,12 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
+    "headline": "Six mental healthcare recommendations for and by L.A.'s Thai community",
+    "link": "https://www.latimes.com/california/story/2025-11-21/six-mental-healthcare-recommendations-for-and-by-la-thai-community",
+    "source": "latimes",
+    "pubdate": "2025-11-21-11-00-00 +0000"
+  },
+  {
     "headline": "Voices from L.A. Thai community on mental health",
     "link": "https://www.latimes.com/california/story/2025-11-21/voices-from-l-a-thai-community-on-mental-health",
     "source": "latimes",
@@ -2192,12 +2384,6 @@
   {
     "headline": "L.A.'s famous 'Hobbit Houses' have a new owner. He calls himself the 'King of Storybook'",
     "link": "https://www.latimes.com/california/story/2025-11-21/hobbit-house-story",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "Six mental healthcare recommendations for and by L.A.'s Thai community",
-    "link": "https://www.latimes.com/california/story/2025-11-21/six-mental-healthcare-recommendations-for-and-by-la-thai-community",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -2250,14 +2436,14 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "From Shark Tank reject to AI powerhouse: Ring founder Jamie Siminoff is reinventing home security",
-    "link": "https://nypost.com/2025/11/21/business/how-ring-went-from-the-depths-of-shark-tank-to-americas-largest-civilian-surveillance-network/",
+    "headline": "Why CEOs still have Trump’s ear ten months into his term",
+    "link": "https://nypost.com/2025/11/21/business/ceos-like-elon-musk-and-tim-cook-still-have-trumps-ear-ten-months-into-his-term/",
     "source": "nypost",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Why CEOs still have Trump’s ear ten months into his term",
-    "link": "https://nypost.com/2025/11/21/business/ceos-like-elon-musk-and-tim-cook-still-have-trumps-ear-ten-months-into-his-term/",
+    "headline": "From Shark Tank reject to AI powerhouse: Ring founder Jamie Siminoff is reinventing home security",
+    "link": "https://nypost.com/2025/11/21/business/how-ring-went-from-the-depths-of-shark-tank-to-americas-largest-civilian-surveillance-network/",
     "source": "nypost",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -2268,14 +2454,14 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "From Broadway to blockbuster: How Universal built a multimillion-dollar 'Wicked' empire",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-21/wicked-movie-franchise-how-universal-built-it-explainer",
+    "headline": "Is AI making some people delusional? Families and experts are worried",
+    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Is AI making some people delusional? Families and experts are worried",
-    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
+    "headline": "From Broadway to blockbuster: How Universal built a multimillion-dollar 'Wicked' empire",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-21/wicked-movie-franchise-how-universal-built-it-explainer",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -2314,113 +2500,5 @@
     "link": "https://nypost.com/2025/11/21/world-news/archaeologists-lift-the-lid-on-a-1700-year-old-roman-sarcophagus-hidden-beneath-budapest/",
     "source": "nypost",
     "pubdate": "2025-11-21-10-56-00 +0000"
-  },
-  {
-    "headline": "Trans people could be barred from services based on appearance",
-    "link": "https://www.bbc.com/news/articles/cy0y07959djo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-10-44-53 +0000"
-  },
-  {
-    "headline": "Starmer labels Farage 'spineless' over handling of racism claims",
-    "link": "https://www.bbc.com/news/articles/cvgkgyr4515o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-10-35-06 +0000"
-  },
-  {
-    "headline": "The Race to Refinance Makes Mortgages More Expensive for Everyone Else",
-    "link": "https://www.wsj.com/finance/investing/the-race-to-refinance-makes-mortgages-more-expensive-for-everyone-else-43f48ff5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-21-10-30-00 +0000"
-  },
-  {
-    "headline": "A New Prediction-Market Startup Is Taking On Polymarket and Kalshi",
-    "link": "https://www.wsj.com/finance/investing/a-new-prediction-market-startup-is-taking-on-polymarket-and-kalshi-65391c8c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-21-10-30-00 +0000"
-  },
-  {
-    "headline": "Government borrowing for October higher than expected",
-    "link": "https://www.bbc.com/news/articles/c20508068jno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-10-27-12 +0000"
-  },
-  {
-    "headline": "Government borrowing for October higher than expected",
-    "link": "https://www.bbc.com/news/articles/c20508068jno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-10-27-12 +0000"
-  },
-  {
-    "headline": "Anti-Hamas armed groups seek future role under Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/cvgmgjx1jego?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-10-24-27 +0000"
-  },
-  {
-    "headline": "Anti-Hamas armed groups seek future role under Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/cvgmgjx1jego?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-10-24-27 +0000"
-  },
-  {
-    "headline": "Trump yet to speak to Starmer over BBC row",
-    "link": "https://www.bbc.com/news/articles/crl9rn9d63xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-10-07-19 +0000"
-  },
-  {
-    "headline": "Why ‘Surveillance Pricing’ Strikes a Nerve",
-    "link": "https://www.nytimes.com/2025/11/21/business/why-surveillance-pricing-strikes-a-nerve.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-10-01-35 +0000"
-  },
-  {
-    "headline": "Trump’s All-but-Forgotten Border Wall Reaches an Angry Laredo, Texas",
-    "link": "https://www.nytimes.com/2025/11/21/us/politics/trump-border-wall-laredo-texas.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-10-01-08 +0000"
-  },
-  {
-    "headline": "Trump’s All-but-Forgotten Border Wall Reaches an Angry Laredo, Texas",
-    "link": "https://www.nytimes.com/2025/11/21/us/politics/trump-border-wall-laredo-texas.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-10-01-08 +0000"
-  },
-  {
-    "headline": "U.S. rare earth ambitions center on Malaysia. But China’s already there.",
-    "link": "https://www.washingtonpost.com/world/2025/11/21/us-china-rare-earth-battle-malaysia/",
-    "source": "wapo",
-    "pubdate": "2025-11-21-10-00-52 +0000"
-  },
-  {
-    "headline": "U.S. rare earth ambitions center on Malaysia. But China’s already there.",
-    "link": "https://www.washingtonpost.com/world/2025/11/21/us-china-rare-earth-battle-malaysia/",
-    "source": "wapo",
-    "pubdate": "2025-11-21-10-00-52 +0000"
-  },
-  {
-    "headline": "Delhi car blast reveals limits of Modi’s new war doctrine, analysts say",
-    "link": "https://www.washingtonpost.com/world/2025/11/21/india-red-fort-attack-terrorism/",
-    "source": "wapo",
-    "pubdate": "2025-11-21-10-00-41 +0000"
-  },
-  {
-    "headline": "Famous writers at New Yorker are up in arms after fact-checker’s firing",
-    "link": "https://www.washingtonpost.com/business/2025/11/21/conde-nast-new-yorker-firings-labor-dispute/",
-    "source": "wapo",
-    "pubdate": "2025-11-21-10-00-33 +0000"
-  },
-  {
-    "headline": "Sanna Marin Led Finland Through Covid and Russian Threats. But She’s Famous for a Shimmy.",
-    "link": "https://www.nytimes.com/2025/11/21/world/europe/sanna-marin-finland-prime-minister.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-10-00-22 +0000"
-  },
-  {
-    "headline": "Sanna Marin Led Finland Through Covid and Russian Threats. But She’s Famous for a Shimmy.",
-    "link": "https://www.nytimes.com/2025/11/21/world/europe/sanna-marin-finland-prime-minister.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-10-00-22 +0000"
   }
 ]
