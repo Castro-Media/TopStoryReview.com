@@ -1,31 +1,38 @@
 [
   {
-    "score": 420,
+    "score": 434,
     "pubdate": "2025-11-22-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said this week he expects lower interest rates once he can install a new Fed chair in May, but rising opposition to a December rate cut inside the central bank suggests he might not get his way",
     "link": "https://www.wsj.com/economy/central-banking/fed-divisions-show-powell-isnt-trumps-biggest-hurdle-to-a-rate-cut-87d88968"
   },
   {
-    "score": 217,
-    "pubdate": "2025-11-21-23-49-57 +0000",
-    "source": "bbc",
-    "headline": "Zelensky warns Ukraine risks losing US support over White House peace plan",
-    "link": "https://www.bbc.com/news/articles/cy5g4r9l4dlo?at_medium=RSS&at_campaign=rss"
+    "score": 213,
+    "pubdate": "2025-11-21-20-01-54 +0000",
+    "source": "nyt",
+    "headline": "European Leaders Back Zelensky After Trump’s Russia-Ukraine Peace Plan Excludes Them",
+    "link": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-trump-peace-plan.html"
   },
   {
-    "score": 133,
+    "score": 156,
     "pubdate": "2025-11-22-01-18-00 +0000",
     "source": "wsj",
     "headline": "Texas asked the Supreme Court to let it use a redistricted congressional map that was blocked by a lower court and that would potentially help Republicans gain as many as five House seats",
     "link": "https://www.wsj.com/politics/elections/texas-asks-supreme-court-to-let-it-use-new-congressional-map-bf56f6b3"
   },
   {
-    "score": 128,
+    "score": 127,
     "pubdate": "2025-11-19-02-36-00 +0000",
     "source": "wsj",
     "headline": "Trump said the Saudi crown prince “knew nothing about” the 2018 murder of Washington Post journalist Jamal Khashoggi, though the CIA at the time assessed that the royal orchestrated the killing",
     "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
+  },
+  {
+    "score": 117,
+    "pubdate": "2025-11-22-13-18-45 +0000",
+    "source": "startribune",
+    "headline": "She wants to play varsity basketball at a neighboring school, like her male classmates. Her school board said no.",
+    "link": "https://www.startribune.com/she-wants-to-play-varsity-basketball-at-a-neighboring-school-like-her-male-classmates-her-school-board-said-no/601529510"
   },
   {
     "score": 111,
@@ -35,38 +42,31 @@
     "link": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243"
   },
   {
-    "score": 104,
+    "score": 106,
     "pubdate": "2025-11-21-23-51-14 +0000",
     "source": "nypost",
     "headline": "Zohran Mamdani’s stance during first Trump meeting shows he wants to be ‘good little boy:’ body language expert",
     "link": "https://nypost.com/2025/11/21/us-news/trump-and-mamdani-look-giddy-during-first-wh-meeting-body-language-expert/"
   },
   {
-    "score": 102,
-    "pubdate": "2025-11-22-03-36-00 +0000",
+    "score": 94,
+    "pubdate": "2025-11-18-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Why this California Democrat broke with his party to end the government shutdown",
+    "link": "https://www.latimes.com/politics/story/2025-11-18/california-democrat-broke-with-party-to-end-government-shutdown-his-vote-tells-broader-story"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-11-22-15-51-00 +0000",
     "source": "wsj",
     "headline": "Republican Marjorie Taylor Greene, who fought publicly with President Trump in recent months, says she will resign from Congress in January",
     "link": "https://www.wsj.com/politics/policy/marjorie-taylor-greene-to-resign-from-congress-59d47af1"
   },
   {
-    "score": 95,
-    "pubdate": "2025-11-21-22-53-44 +0000",
+    "score": 81,
+    "pubdate": "2025-11-21-21-24-49 +0000",
     "source": "nypost",
-    "headline": "Rep. Eric Swalwell seemingly used DC house at center of mortgage fraud allegations for California governor campaign launch",
-    "link": "https://nypost.com/2025/11/21/us-news/rep-eric-swalwell-seemingly-used-dc-house-for-california-governor-campaign-launch/"
-  },
-  {
-    "score": 88,
-    "pubdate": "2025-11-21-16-11-09 +0000",
-    "source": "bbc",
-    "headline": "The ex-Reform UK leader who took bribes, made pro-Russia speeches",
-    "link": "https://www.bbc.com/news/videos/cx23l0jlwx2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 85,
-    "pubdate": "2025-11-21-01-36-00 +0000",
-    "source": "wsj",
-    "headline": "The Transportation Department said it would pay $10,000 bonuses to air-traffic controllers who didn’t miss work during the federal government shutdown",
-    "link": "https://www.wsj.com/politics/policy/air-traffic-controllers-with-perfect-shutdown-attendance-to-get-10-000-bonuses-4a42c3de"
+    "headline": "Larry Summers forced out of consulting gig at ‘woke’ hedge fund DE Shaw after Jeffrey Epstein scandal",
+    "link": "https://nypost.com/2025/11/21/business/larry-summers-forced-out-of-consulting-gig-at-woke-hedge-fund-de-shaw-after-jeffrey-epstein-scandal/"
   }
 ]
