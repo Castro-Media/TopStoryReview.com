@@ -1,16 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2025-11-22-12-55-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s Tariffs Hand Lula a Political Gift in Brazil",
-    "link": "https://www.wsj.com/world/americas/trump-tariffs-brazil-luiz-inacio-lula-9b640f63"
+    "score": 29,
+    "pubdate": "2025-11-22-14-45-46 +0000",
+    "source": "nyt",
+    "headline": "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison",
+    "link": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-11-22-12-54-23 +0000",
+    "score": 17,
+    "pubdate": "2025-11-22-14-00-21 +0000",
+    "source": "wapo",
+    "headline": "Cuéntele a The Post: Ante las deportaciones de ICE, ¿cómo han cambiado sus planes de Nochebuena?",
+    "link": "https://www.washingtonpost.com/nation/2025/11/22/cuntele-post-ante-las-deportaciones-de-ice-cmo-han-cambiado-sus-planes-de-nochebuena/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-22-14-31-49 +0000",
+    "source": "nyt",
+    "headline": "Ukrainians Wait in Pain as Hope to Find Strike Survivors Fades",
+    "link": "https://www.nytimes.com/2025/11/22/world/europe/russia-ukraine.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-22-14-44-55 +0000",
+    "source": "nyt",
+    "headline": "Cannon and Other Artifacts Are Recovered From San José Shipwreck",
+    "link": "https://www.nytimes.com/2025/11/22/world/americas/san-jose-shipwreck-galleon-artifacts.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-22-14-39-10 +0000",
+    "source": "nyt",
+    "headline": "Burt Meyer, 99, Dies; Made Lite-Brite and Rock ’Em Sock ’Em Robots",
+    "link": "https://www.nytimes.com/2025/11/21/arts/design/burton-meyer-dead.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-22-14-00-00 +0000",
+    "source": "startribune",
+    "headline": "Medcalf: St. Paul mayor on loss: ‘I’m looking forward to enjoying community in this city’",
+    "link": "https://www.startribune.com/medcalf-st-paul-mayor-discusses-election-loss/601524825"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-22-14-31-25 +0000",
+    "source": "nyt",
+    "headline": "Representative Jeff Van Drew’s Aide Faked Anti-Trump Slashing Attack, U.S. Says",
+    "link": "https://www.nytimes.com/2025/11/21/nyregion/congressional-aide-new-jersey-hoax.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-22-14-15-08 +0000",
+    "source": "cbc",
+    "headline": "Canadian travel advisory used for political attacks on president, says Mexican lawmaker",
+    "link": "https://www.cbc.ca/news/world/canada-advisory-mexico-9.6988795?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-22-14-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Free-for-all hackerspace Noisebridge is fighting to stay free",
+    "link": "https://missionlocal.org/2025/11/noisebridge-financial-crisis/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-22-14-34-29 +0000",
     "source": "bbc",
-    "headline": "Fear and scepticism as Reeves prepares for her big Budget moment",
-    "link": "https://www.bbc.com/news/articles/cyv8vglv9r5o?at_medium=RSS&at_campaign=rss"
+    "headline": "Jair Bolsonaro arrested after being deemed a flight risk",
+    "link": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss"
   }
 ]
