@@ -1,6 +1,6 @@
 [
   {
-    "score": 124,
+    "score": 123,
     "pubdate": "2025-11-23-03-22-00 +0000",
     "source": "wsj",
     "headline": "Trump said he could be open to changes in the plan for ending the war in Ukraine after Kyiv, European governments and some Republican lawmakers called it too heavily weighted in Moscow’s favor",
@@ -36,24 +36,17 @@
   },
   {
     "score": 44,
-    "pubdate": "2025-11-22-15-00-57 +0000",
-    "source": "nyt",
-    "headline": "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison",
-    "link": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html"
-  },
-  {
-    "score": 44,
     "pubdate": "2025-11-22-16-00-27 +0000",
     "source": "nypost",
     "headline": "‘Ready to fight’: Hamas reportedly says it’s pulling out of Gaza cease-fire over alleged Israeli violations",
     "link": "https://nypost.com/2025/11/22/world-news/hamas-says-its-pulling-out-of-gaza-cease-fire-over-alleged-israeli-violations-report/"
   },
   {
-    "score": 35,
-    "pubdate": "2025-11-22-23-58-55 +0000",
-    "source": "nypost",
-    "headline": "Bodycam footage shows Nevada stepdad scream ‘my kid is dead’ after 11-year-old is killed in road-rage shooting",
-    "link": "https://nypost.com/2025/11/22/us-news/bodycam-footage-shows-nevada-stepdad-scream-my-kid-is-dead-after-11-year-old-is-killed-in-road-rage-shooting/"
+    "score": 44,
+    "pubdate": "2025-11-22-15-00-57 +0000",
+    "source": "nyt",
+    "headline": "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison",
+    "link": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html"
   },
   {
     "score": 35,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Texas Men Plotted Coup of Haitian Island to Enslave Women and Children, U.S. Says",
     "link": "https://www.nytimes.com/2025/11/22/us/texas-men-haiti-island-takeover-plot.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-11-22-23-58-55 +0000",
+    "source": "nypost",
+    "headline": "Bodycam footage shows Nevada stepdad scream ‘my kid is dead’ after 11-year-old is killed in road-rage shooting",
+    "link": "https://nypost.com/2025/11/22/us-news/bodycam-footage-shows-nevada-stepdad-scream-my-kid-is-dead-after-11-year-old-is-killed-in-road-rage-shooting/"
   }
 ]
