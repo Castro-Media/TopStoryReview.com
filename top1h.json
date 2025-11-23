@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 23,
+    "pubdate": "2025-11-23-10-01-50 +0000",
+    "source": "nyt",
+    "headline": "At Harvard-Yale Game, Rivals Come Together Against Trump Administration Attacks",
+    "link": "https://www.nytimes.com/2025/11/23/us/politics/yale-harvard-football-trump.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-11-23-10-10-03 +0000",
+    "source": "bbc",
+    "headline": "Nigeria sees one of worst mass abductions as 315 taken from school",
+    "link": "https://www.bbc.com/news/articles/c3w7621xypyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-23-10-28-02 +0000",
+    "source": "bbc",
+    "headline": "EV grant scheme boost worth £1.3bn expected in Budget",
+    "link": "https://www.bbc.com/news/articles/c39pk873wlwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-23-10-00-00 +0000",
+    "source": "wapo",
+    "headline": "Are millennials frozen out of the housing market? The reality may be more interesting.",
+    "link": "https://www.washingtonpost.com/business/2025/11/22/first-time-homebuyers-millennials-40/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-23-10-00-43 +0000",
+    "source": "nyt",
+    "headline": "Patel Under Scrutiny for Use of SWAT Teams to Protect His Girlfriend",
+    "link": "https://www.nytimes.com/2025/11/23/us/politics/kash-patel-girlfriend-fbi-protection.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-11-23-10-01-44 +0000",
+    "source": "nyt",
+    "headline": "Haitians Rejoice Over Their First World Cup Berth in 50 Years",
+    "link": "https://www.nytimes.com/2025/11/23/world/americas/haiti-world-cup.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-23-10-12-41 +0000",
+    "source": "nyt",
+    "headline": "Titanic Passenger’s Pocket Watch Sells for $2.3 Million",
+    "link": "https://www.nytimes.com/2025/11/23/world/asia/titanic-watch-auction.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-23-10-01-45 +0000",
+    "source": "nyt",
+    "headline": "Fact-Checking Trump’s Latest Claims on Affordability",
+    "link": "https://www.nytimes.com/2025/11/23/us/politics/fact-check-trump-affordability.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-23-10-34-48 +0000",
+    "source": "nypost",
+    "headline": "Some international airlines cancel Venezuela flights after FAA warning over safety concerns",
+    "link": "https://nypost.com/2025/11/23/business/international-airlines-cancel-flights-to-venezuela-after-faa-warning/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-23-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Calls Obamacare Insurers Fat and Rich. Investors See Them as Vulnerable.",
+    "link": "https://www.wsj.com/health/healthcare/trump-calls-obamacare-insurers-fat-and-rich-investors-see-them-as-vulnerable-b918a8a6?mod=rss_markets_main"
+  }
+]
