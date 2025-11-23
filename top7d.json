@@ -1,13 +1,13 @@
 [
   {
-    "score": 400,
+    "score": 397,
     "pubdate": "2025-11-22-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said this week he expects lower interest rates once he can install a new Fed chair in May, but rising opposition to a December rate cut inside the central bank suggests he might not get his way",
     "link": "https://www.wsj.com/economy/central-banking/fed-divisions-show-powell-isnt-trumps-biggest-hurdle-to-a-rate-cut-87d88968"
   },
   {
-    "score": 216,
+    "score": 215,
     "pubdate": "2025-11-21-20-01-54 +0000",
     "source": "nyt",
     "headline": "European Leaders Back Zelensky After Trump’s Russia-Ukraine Peace Plan Excludes Them",
@@ -21,13 +21,6 @@
     "link": "https://www.wsj.com/politics/elections/texas-asks-supreme-court-to-let-it-use-new-congressional-map-bf56f6b3"
   },
   {
-    "score": 118,
-    "pubdate": "2025-11-22-15-51-00 +0000",
-    "source": "wsj",
-    "headline": "Republican Marjorie Taylor Greene, who fought publicly with President Trump in recent months, says she will resign from Congress in January",
-    "link": "https://www.wsj.com/politics/policy/marjorie-taylor-greene-to-resign-from-congress-59d47af1"
-  },
-  {
     "score": 116,
     "pubdate": "2025-11-19-02-36-00 +0000",
     "source": "wsj",
@@ -35,18 +28,25 @@
     "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
   },
   {
-    "score": 106,
-    "pubdate": "2025-11-22-02-00-00 +0000",
+    "score": 111,
+    "pubdate": "2025-11-22-15-51-00 +0000",
     "source": "wsj",
-    "headline": "An MIT graduate student rocketed to fame with an intriguing paper on AI in the workplace. Soon his mentors were asking: Had he made it all up?",
-    "link": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243"
+    "headline": "Republican Marjorie Taylor Greene, who fought publicly with President Trump in recent months, says she will resign from Congress in January",
+    "link": "https://www.wsj.com/politics/policy/marjorie-taylor-greene-to-resign-from-congress-59d47af1"
   },
   {
-    "score": 98,
+    "score": 106,
     "pubdate": "2025-11-22-16-00-27 +0000",
     "source": "nypost",
     "headline": "‘Ready to fight’: Hamas reportedly says it’s pulling out of Gaza cease-fire over alleged Israeli violations",
     "link": "https://nypost.com/2025/11/22/world-news/hamas-says-its-pulling-out-of-gaza-cease-fire-over-alleged-israeli-violations-report/"
+  },
+  {
+    "score": 103,
+    "pubdate": "2025-11-22-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "An MIT graduate student rocketed to fame with an intriguing paper on AI in the workplace. Soon his mentors were asking: Had he made it all up?",
+    "link": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243"
   },
   {
     "score": 94,
@@ -56,7 +56,7 @@
     "link": "https://www.latimes.com/politics/story/2025-11-18/california-democrat-broke-with-party-to-end-government-shutdown-his-vote-tells-broader-story"
   },
   {
-    "score": 92,
+    "score": 91,
     "pubdate": "2025-11-21-23-51-14 +0000",
     "source": "nypost",
     "headline": "Zohran Mamdani’s stance during first Trump meeting shows he wants to be ‘good little boy:’ body language expert",
