@@ -1,27 +1,27 @@
 [
   {
-    "score": 125,
-    "pubdate": "2025-11-23-09-45-45 +0000",
+    "score": 124,
+    "pubdate": "2025-11-23-11-01-31 +0000",
     "source": "nyt",
     "headline": "Ukraine, U.S. Will Meet About Trump’s Peace Plan to End War With Russia",
     "link": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html"
   },
   {
-    "score": 79,
+    "score": 75,
     "pubdate": "2025-11-22-12-15-08 +0000",
     "source": "nypost",
     "headline": "Trump slams ‘traitor’ Rep. Marjorie Taylor Greene as he celebrates her resignation from Congress: ‘Went BAD’",
     "link": "https://nypost.com/2025/11/22/us-news/trump-celebrates-rep-marjorie-taylor-greenes-resignation-from-congress/"
   },
   {
-    "score": 50,
+    "score": 46,
     "pubdate": "2025-11-22-19-44-00 +0000",
     "source": "wsj",
     "headline": "President Trump said Friday he was immediately ending temporary immigration protections for a group of Somalis living in Minnesota, the latest in his mass deportation push",
     "link": "https://www.wsj.com/politics/policy/trump-says-he-is-ending-temporary-immigration-protections-for-somalis-in-minnesota-28d900f2"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2025-11-22-16-00-27 +0000",
     "source": "nypost",
     "headline": "‘Ready to fight’: Hamas reportedly says it’s pulling out of Gaza cease-fire over alleged Israeli violations",
@@ -35,13 +35,6 @@
     "link": "https://nypost.com/2025/11/22/us-news/tatiana-schlossberg-granddaughter-of-jfk-discloses-terminal-leukemia-diagnosis/"
   },
   {
-    "score": 43,
-    "pubdate": "2025-11-22-20-39-00 +0000",
-    "source": "wsj",
-    "headline": "Boston Fed President says she sees no strong need for another interest-rate cut next month, underscoring the challenge that Fed Chair Jerome Powell faces in building consensus",
-    "link": "https://www.wsj.com/economy/central-banking/fed-susan-collins-remarks-9c9324db"
-  },
-  {
     "score": 40,
     "pubdate": "2025-11-22-15-00-57 +0000",
     "source": "nyt",
@@ -49,11 +42,18 @@
     "link": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html"
   },
   {
+    "score": 37,
+    "pubdate": "2025-11-22-20-39-00 +0000",
+    "source": "wsj",
+    "headline": "Boston Fed President says she sees no strong need for another interest-rate cut next month, underscoring the challenge that Fed Chair Jerome Powell faces in building consensus",
+    "link": "https://www.wsj.com/economy/central-banking/fed-susan-collins-remarks-9c9324db"
+  },
+  {
     "score": 35,
-    "pubdate": "2025-11-23-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "3 ways Canada and China can reset their relations in Trump's new trade world",
-    "link": "https://www.cbc.ca/news/canada/canada-carney-china-tariffs-xi-9.6986876?cmp=rss"
+    "pubdate": "2025-11-23-09-49-38 +0000",
+    "source": "nyt",
+    "headline": "Texas Men Plotted Coup of Haitian Island to Enslave Women and Children, U.S. Says",
+    "link": "https://www.nytimes.com/2025/11/22/us/texas-men-haiti-island-takeover-plot.html"
   },
   {
     "score": 35,
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2025/11/22/us-news/bodycam-footage-shows-nevada-stepdad-scream-my-kid-is-dead-after-11-year-old-is-killed-in-road-rage-shooting/"
   },
   {
-    "score": 34,
-    "pubdate": "2025-11-23-09-49-38 +0000",
-    "source": "nyt",
-    "headline": "Texas Men Plotted Coup of Haitian Island to Enslave Women and Children, U.S. Says",
-    "link": "https://www.nytimes.com/2025/11/22/us/texas-men-haiti-island-takeover-plot.html"
+    "score": 32,
+    "pubdate": "2025-11-23-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "3 ways Canada and China can reset their relations in Trump's new trade world",
+    "link": "https://www.cbc.ca/news/canada/canada-carney-china-tariffs-xi-9.6986876?cmp=rss"
   }
 ]
