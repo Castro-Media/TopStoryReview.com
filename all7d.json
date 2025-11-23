@@ -1,27 +1,159 @@
 [
   {
-    "headline": "Parents of toddler who plunged to her death out of open cruise ship window have divorced",
+    "headline": "Georgia Voters Stand by Marjorie Taylor Greene After She Stood Up to Trump",
+    "link": "https://www.nytimes.com/2025/11/22/us/georgia-marjorie-taylor-greene-voters.html",
+    "source": "nyt",
+    "pubdate": "2025-11-23-01-15-22 +0000"
+  },
+  {
+    "headline": "Tatiana Schlossberg, John F. Kennedy’s Granddaughter, Reveals Terminal Cancer Diagnosis",
+    "link": "https://www.nytimes.com/2025/11/22/us/tatiana-schlossberg-kennedy-cancer.html",
+    "source": "nyt",
+    "pubdate": "2025-11-23-01-07-38 +0000"
+  },
+  {
+    "headline": "Administration again denies FEMA disaster relief for Illinois, Pritzker says",
+    "link": "https://www.washingtonpost.com/climate-environment/2025/11/22/fema-aid-illinois-pritzker/",
+    "source": "wapo",
+    "pubdate": "2025-11-23-01-06-42 +0000"
+  },
+  {
+    "headline": "Recap: Spring Lake Park completes perfect run to Class 5A championship",
+    "link": "https://www.startribune.com/live-scores-and-championship-updates-from-mshsl-prep-bowl-5a-3a-nine-player/601531720",
+    "source": "startribune",
+    "pubdate": "2025-11-23-01-04-23 +0000"
+  },
+  {
+    "headline": "White House considers leaflet drop to pressure Maduro on his birthday",
+    "link": "https://www.washingtonpost.com/national-security/2025/11/22/maduro-venezuela-leaflet-drop-proposal/",
+    "source": "wapo",
+    "pubdate": "2025-11-23-01-03-44 +0000"
+  },
+  {
+    "headline": "Three charged for shouting slurs at praying Muslim students while waving bacon in Florida",
+    "link": "https://nypost.com/2025/11/22/us-news/three-charged-after-approaching-praying-muslim-students-waving-bacon/",
+    "source": "nypost",
+    "pubdate": "2025-11-23-01-03-21 +0000"
+  },
+  {
+    "headline": "She Saved for Years for IVF, Then Had to Fight Her Ex for the Embryos",
+    "link": "https://www.wsj.com/lifestyle/relationships/frozen-embryos-divorce-faaf7d2d",
+    "source": "wsj",
+    "pubdate": "2025-11-23-01-00-00 +0000"
+  },
+  {
+    "headline": "Stopping the Greatest Threat to the Amazon, One Fire at a Time",
+    "link": "https://www.nytimes.com/2025/11/22/climate/amazon-fire-paragominas-nepstad.html",
+    "source": "nyt",
+    "pubdate": "2025-11-23-00-58-41 +0000"
+  },
+  {
+    "headline": "Wall Street Goes on a Wild Ride: ‘No One Was Expecting This’",
+    "link": "https://www.wsj.com/finance/stocks/a-wild-week-in-markets-leaves-wall-street-bracing-for-more-99ec20a6?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-23-00-50-00 +0000"
+  },
+  {
+    "headline": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
+    "link": "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html",
+    "source": "nyt",
+    "pubdate": "2025-11-23-00-34-04 +0000"
+  },
+  {
+    "headline": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
+    "link": "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html",
+    "source": "nyt",
+    "pubdate": "2025-11-23-00-34-04 +0000"
+  },
+  {
+    "headline": "Israeli Miss Universe contestant fumes over Miss Palestine’s terror ties: ‘Makes my skin crawl’",
+    "link": "https://nypost.com/2025/11/22/world-news/israeli-miss-universe-contestant-fumes-over-miss-palestines-terror-ties-makes-my-skin-crawl/",
+    "source": "nypost",
+    "pubdate": "2025-11-23-00-22-44 +0000"
+  },
+  {
+    "headline": "Rialto apartment fire displaces 16 households",
+    "link": "https://www.latimes.com/california/story/2025-11-22/rialto-apartment-fire-displaces-16-households",
+    "source": "latimes",
+    "pubdate": "2025-11-23-00-15-47 +0000"
+  },
+  {
+    "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
+    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html",
+    "source": "nyt",
+    "pubdate": "2025-11-23-00-12-55 +0000"
+  },
+  {
+    "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
+    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html",
+    "source": "nyt",
+    "pubdate": "2025-11-23-00-12-55 +0000"
+  },
+  {
+    "headline": "COP30 - Five key takeaways from a deeply divisive climate summit",
+    "link": "https://www.bbc.com/news/articles/cp84m16mdm1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-23-00-10-18 +0000"
+  },
+  {
+    "headline": "Ukrainian military shares video of wild strikes against Russian assets in Crimea",
+    "link": "https://nypost.com/2025/11/22/world-news/ukrainian-military-shares-video-of-wild-strikes-against-russian-assets-in-crimea/",
+    "source": "nypost",
+    "pubdate": "2025-11-23-00-05-30 +0000"
+  },
+  {
+    "headline": "Southbound I-5 lanes near Camp Pendleton closed after car chase ends in shooting",
+    "link": "https://www.latimes.com/california/story/2025-11-22/southbound-i-5-lanes-near-camp-pendleton-closed-after-car-chase-ends-in-shooting",
+    "source": "latimes",
+    "pubdate": "2025-11-23-00-03-22 +0000"
+  },
+  {
+    "headline": "'We worry more about food' say Venezuelans living under threat of US military action",
+    "link": "https://www.bbc.com/news/articles/c3e0jnww2e9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-23-00-02-59 +0000"
+  },
+  {
+    "headline": "Who killed young Chechen woman who fled Russia for a life of freedom?",
+    "link": "https://www.bbc.com/news/articles/c4gwgx803l5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-23-00-02-28 +0000"
+  },
+  {
+    "headline": "Russia Stuck to Its Demands on Ukraine. Many Are Now in Trump’s Peace Plan.",
+    "link": "https://www.wsj.com/world/russia/russia-stuck-to-its-demands-on-ukraine-many-are-now-in-trumps-peace-plan-3e58075e",
+    "source": "wsj",
+    "pubdate": "2025-11-23-00-00-00 +0000"
+  },
+  {
+    "headline": "Bodycam footage shows Nevada stepdad scream ‘my kid is dead’ after 11-year-old is killed in road-rage shooting",
+    "link": "https://nypost.com/2025/11/22/us-news/bodycam-footage-shows-nevada-stepdad-scream-my-kid-is-dead-after-11-year-old-is-killed-in-road-rage-shooting/",
+    "source": "nypost",
+    "pubdate": "2025-11-22-23-58-55 +0000"
+  },
+  {
+    "headline": "ICE arrests illegal immigrant selling counterfeit goods on Canal Street",
+    "link": "https://nypost.com/2025/11/22/us-news/ice-calls-nyc-a-revolving-door-for-criminal-illegal-aliens/",
+    "source": "nypost",
+    "pubdate": "2025-11-22-23-54-02 +0000"
+  },
+  {
+    "headline": "Parents of toddler who plunged to her death out of open cruise ship window divorce",
     "link": "https://nypost.com/2025/11/22/us-news/parents-of-toddler-who-plunged-to-her-death-out-of-open-cruise-ship-window-have-divorced/",
     "source": "nypost",
     "pubdate": "2025-11-22-23-49-01 +0000"
   },
   {
-    "headline": "Prep Bowl: Live updates from the football state championships",
-    "link": "https://www.startribune.com/live-scores-and-championship-updates-from-mshsl-prep-bowl-5a-3a-nine-player/601531720",
-    "source": "startribune",
-    "pubdate": "2025-11-22-23-46-49 +0000"
+    "headline": "Tatiana Schlossberg reveals terminal cancer diagnosis, another Kennedy family tragedy",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-22/tatiana-schlossberg-reveals-terminal-cancer-diagnosis-another-kennedy-family-tragedy",
+    "source": "latimes",
+    "pubdate": "2025-11-22-23-48-53 +0000"
   },
   {
     "headline": "‘Panic’ in Minnesota’s Somali community after Trump’s pledge to end deportation protections",
     "link": "https://www.startribune.com/minnesota-somali-community-panic-alarm-response-trump-temporary-protected-status-tps/601531756",
     "source": "startribune",
     "pubdate": "2025-11-22-23-21-33 +0000"
-  },
-  {
-    "headline": "Tatiana Schlossberg, John F. Kennedy’s Granddaughter, Reveals Terminal Cancer Diagnosis",
-    "link": "https://www.nytimes.com/2025/11/22/us/tatiana-schlossberg-kennedy-cancer.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-23-19-27 +0000"
   },
   {
     "headline": "Dayton’s Holiday Market draws crowds downtown five years on",
@@ -52,18 +184,6 @@
     "link": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-22-23-02-17 +0000"
-  },
-  {
-    "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-23-01-47 +0000"
-  },
-  {
-    "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-23-01-47 +0000"
   },
   {
     "headline": "Familiar Ring: NYPD sleuth’s stolen ring makes it back to family after 4 decades",
@@ -438,7 +558,7 @@
     "pubdate": "2025-11-22-20-00-13 +0000"
   },
   {
-    "headline": "What is ‘felching’? The raunchy sex-act RFK Jr. texted about with Olivia Nuzzi, according to her ex Ryan Lizza",
+    "headline": "The raunchy sex-act RFK Jr. texted about with Olivia Nuzzi, according to her ex Ryan Lizza",
     "link": "https://nypost.com/2025/11/22/us-news/what-is-felching-the-raunchy-sex-act-rfk-jr-texted-about-with-olivia-nuzzi-according-to-ryan-lizza/",
     "source": "nypost",
     "pubdate": "2025-11-22-19-56-49 +0000"
@@ -510,6 +630,12 @@
     "pubdate": "2025-11-22-19-21-08 +0000"
   },
   {
+    "headline": "JFK's granddaughter shares terminal cancer diagnosis",
+    "link": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-22-19-21-08 +0000"
+  },
+  {
     "headline": "Militants Abduct 300 Children From Catholic School in Nigeria",
     "link": "https://www.wsj.com/world/africa/militants-abduct-300-children-from-catholic-school-in-nigeria-987a34ac",
     "source": "wsj",
@@ -520,12 +646,6 @@
     "link": "https://missionlocal.org/2025/11/sf-lurie-district-4-new-selection-process/",
     "source": "missionlocal",
     "pubdate": "2025-11-22-19-10-32 +0000"
-  },
-  {
-    "headline": "Comey Seeks to Dismiss Charges Based on Grand Jury Errors",
-    "link": "https://www.nytimes.com/2025/11/21/us/politics/comey-halligan-dismiss-charges.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-19-05-03 +0000"
   },
   {
     "headline": "Comey Seeks to Dismiss Charges Based on Grand Jury Errors",
@@ -612,12 +732,6 @@
     "pubdate": "2025-11-22-17-40-49 +0000"
   },
   {
-    "headline": "MAGA-loving New Jersey mom targeted by board of education member’s husband in second vile chat: ‘She can’t die soon enough’",
-    "link": "https://nypost.com/2025/11/22/us-news/maga-loving-marlboro-nj-mom-targeted-in-second-vile-chat-i-swear-she-cant-die-soon-enough/",
-    "source": "nypost",
-    "pubdate": "2025-11-22-17-22-52 +0000"
-  },
-  {
     "headline": "Trump Pulls From Gaza Playbook to Push for Peace in Ukraine",
     "link": "https://www.wsj.com/world/trump-uses-gaza-peace-playbook-in-ukraine-081bd21c",
     "source": "wsj",
@@ -628,18 +742,6 @@
     "link": "https://www.cbc.ca/news/politics/sikhs-for-justice-referendum-ottawa-9.6988663?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-22-17-09-55 +0000"
-  },
-  {
-    "headline": "‘Robocop’ cop, firebomb killer among first Biden-commuted inmates shipped to ADX supermax",
-    "link": "https://nypost.com/2025/11/22/us-news/ag-bondi-moves-2-ex-death-row-inmates-to-supermax-prison-after-bidens-commutations/",
-    "source": "nypost",
-    "pubdate": "2025-11-22-17-09-41 +0000"
-  },
-  {
-    "headline": "NYPD vehicle plows into bus in NYC, leaving 2 injured: cops",
-    "link": "https://nypost.com/2025/11/22/us-news/police-suv-hits-bus-sending-it-into-parked-truck-hotel/",
-    "source": "nypost",
-    "pubdate": "2025-11-22-17-05-52 +0000"
   },
   {
     "headline": "Storied South African Club Embodies Decline of Former Gold Capital",
@@ -784,12 +886,6 @@
     "link": "https://nypost.com/2025/11/22/us-news/tatiana-schlossberg-granddaughter-of-jfk-discloses-terminal-leukemia-diagnosis/",
     "source": "nypost",
     "pubdate": "2025-11-22-15-03-50 +0000"
-  },
-  {
-    "headline": "‘Fascist’? ‘Communist’? For an Afternoon, Trump and Mamdani Were Just 2 Guys From Queens.",
-    "link": "https://www.nytimes.com/2025/11/21/us/politics/trump-mamdani-scene.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-15-02-30 +0000"
   },
   {
     "headline": "‘Fascist’? ‘Communist’? For an Afternoon, Trump and Mamdani Were Just 2 Guys From Queens.",
@@ -1176,12 +1272,6 @@
     "pubdate": "2025-11-22-10-00-46 +0000"
   },
   {
-    "headline": "Stopping the Greatest Threat to the Amazon, One Fire at a Time",
-    "link": "https://www.nytimes.com/2025/11/22/climate/amazon-fire-paragominas-nepstad.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-10-00-43 +0000"
-  },
-  {
     "headline": "How a Philippine mayor wound up with a life sentence for human trafficking",
     "link": "https://www.washingtonpost.com/world/2025/11/22/alice-guo-phillipines-mayor-gambling-espionage-trafficking/",
     "source": "wapo",
@@ -1506,12 +1596,6 @@
     "pubdate": "2025-11-22-01-30-16 +0000"
   },
   {
-    "headline": "Mark Mellman, 70, Dies; Helped Democrats Understand Their Voters",
-    "link": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-01-30-16 +0000"
-  },
-  {
     "headline": "Rep. Marjorie Taylor Greene leaving Congress after feud with Trump",
     "link": "https://nypost.com/2025/11/21/us-news/rep-marjorie-taylor-greene-leaving-congress-after-feud-with-trump/",
     "source": "nypost",
@@ -1528,18 +1612,6 @@
     "link": "https://www.wsj.com/finance/investing/bill-ackman-eyes-simultaneous-public-offerings-of-firm-and-new-fund-b18d7e81?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-22-01-25-00 +0000"
-  },
-  {
-    "headline": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
-    "link": "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-01-22-22 +0000"
-  },
-  {
-    "headline": "3 Children Are Injured in Grizzly Bear Attack in British Columbia",
-    "link": "https://www.nytimes.com/2025/11/21/world/canada/canada-bear-attack-children.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-01-22-22 +0000"
   },
   {
     "headline": "Texas asked the Supreme Court to let it use a redistricted congressional map that was blocked by a lower court and that would potentially help Republicans gain as many as five House seats",
@@ -1562,12 +1634,6 @@
   {
     "headline": "Latest Push for Peace Is Zelensky’s Toughest Moment Since Start of War",
     "link": "https://www.wsj.com/world/zelensky-ukraine-trump-russia-peace-plan-dd1f1885",
-    "source": "wsj",
-    "pubdate": "2025-11-22-01-00-00 +0000"
-  },
-  {
-    "headline": "Wall Street Goes on a Wild Ride: ‘No One Was Expecting This’",
-    "link": "https://www.wsj.com/finance/stocks/a-wild-week-in-markets-leaves-wall-street-bracing-for-more-99ec20a6?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-22-01-00-00 +0000"
   },
@@ -1690,12 +1756,6 @@
     "link": "https://www.wsj.com/business/sothebys-oliver-barker-auctioneer-gustav-klimt-frida-kahlo-ca370039?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-22-00-00-00 +0000"
-  },
-  {
-    "headline": "Texas Gov. Greg Abbott Moves to Restrict Muslims, Leaving Some Concerned",
-    "link": "https://www.nytimes.com/2025/11/21/us/abbott-texas-muslim-investigation.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-23-57-17 +0000"
   },
   {
     "headline": "Zohran Mamdani’s stance during first Trump meeting shows he wants to be ‘good little boy:’ body language expert",
@@ -2052,12 +2112,6 @@
     "pubdate": "2025-11-21-21-05-30 +0000"
   },
   {
-    "headline": "Grizzly bear on loose after attacking school group in Canada, injuring 11",
-    "link": "https://www.bbc.com/news/articles/cz68x1n5qd6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-21-05-30 +0000"
-  },
-  {
     "headline": "Trump jokes it’s OK for Mamdani to call him a ‘fascist’: ‘You can just say yes’",
     "link": "https://nypost.com/2025/11/21/us-news/trump-runs-cover-for-mamdani-after-mayor-elect-asked-to-explain-if-he-still-thinks-president-is-a-fascist-you-can-just-say-yes/",
     "source": "nypost",
@@ -2310,12 +2364,6 @@
     "pubdate": "2025-11-21-18-26-27 +0000"
   },
   {
-    "headline": "US judge resigns after being disciplined for wearing Elvis wig in court",
-    "link": "https://www.bbc.com/news/articles/c5yq3g7lqgqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-18-26-27 +0000"
-  },
-  {
     "headline": "Former Welsh Reform leader jailed for pro-Russia bribery",
     "link": "https://www.bbc.com/news/articles/c5yd878ejqko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2452,18 +2500,6 @@
     "link": "https://www.wsj.com/economy/consumers/canadian-retail-trade-remains-soft-after-fall-in-september-67c3f1ea",
     "source": "wsj",
     "pubdate": "2025-11-21-17-20-00 +0000"
-  },
-  {
-    "headline": "US peace plan asks almost nothing of Russia, leaving some American officials questioning why Kyiv would accept it",
-    "link": "https://nypost.com/2025/11/21/world-news/us-peace-plan-asks-almost-nothing-of-russia-leaving-some-american-officials-wondering-how-kyiv-can-accept-it/",
-    "source": "nypost",
-    "pubdate": "2025-11-21-17-15-42 +0000"
-  },
-  {
-    "headline": "Man allegedly dumped baby in supermarket parking lot during car theft",
-    "link": "https://nypost.com/2025/11/21/world-news/man-arrested-after-baby-dumped-in-a-box-in-supermarket-carpark-during-car-theft/",
-    "source": "nypost",
-    "pubdate": "2025-11-21-17-12-34 +0000"
   },
   {
     "headline": "L.A. County sheriff's employee microwaved blood evidence in his own DUI case, D.A. says",
@@ -3042,14 +3078,14 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Is AI making some people delusional? Families and experts are worried",
-    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
+    "headline": "Hiltzik: The UC faculty just won a big court victory over Trump. But why didn't UC join their lawsuit?",
+    "link": "https://www.latimes.com/business/story/2025-11-21/uc-faculty-just-won-big-court-victory-over-trump-but-why-didnt-uc-itself-join-the-case",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: The UC faculty just won a big court victory over Trump. But why didn't UC join their lawsuit?",
-    "link": "https://www.latimes.com/business/story/2025-11-21/uc-faculty-just-won-big-court-victory-over-trump-but-why-didnt-uc-itself-join-the-case",
+    "headline": "Is AI making some people delusional? Families and experts are worried",
+    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -3178,12 +3214,6 @@
     "link": "https://www.wsj.com/finance/global-markets-fall-as-tech-bubble-jitters-resurface-08ffa5e8?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-21-09-26-00 +0000"
-  },
-  {
-    "headline": "Europe Must Look Inward to Drive Growth, ECB’s Lagarde Says",
-    "link": "https://www.wsj.com/articles/europe-must-look-inward-to-drive-growth-ecbs-lagarde-says-fc2c7d7d",
-    "source": "wsj",
-    "pubdate": "2025-11-21-09-20-00 +0000"
   },
   {
     "headline": "Europe Must Look Inward to Drive Growth, ECB’s Lagarde Says",
@@ -3498,12 +3528,6 @@
     "pubdate": "2025-11-21-02-00-00 +0000"
   },
   {
-    "headline": "Scientists reveal what triggered Santorini 'earthquake swarm'",
-    "link": "https://www.bbc.com/news/articles/cz7p783g2j5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-01-52-15 +0000"
-  },
-  {
     "headline": "Trump Meeting With Saudi Prince Showcased Prince’s Makeover, and America’s",
     "link": "https://www.nytimes.com/2025/11/20/world/middleeast/trump-saudi-prince-mohammed-meeting.html",
     "source": "nyt",
@@ -3576,12 +3600,6 @@
     "pubdate": "2025-11-21-01-09-08 +0000"
   },
   {
-    "headline": "Australia is banning social media for kids under 16. How will it work?",
-    "link": "https://www.bbc.com/news/articles/cwyp9d3ddqyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-21-01-09-08 +0000"
-  },
-  {
     "headline": "Senate Democrats Investigate Kennedy Center Deals With Trump Allies",
     "link": "https://www.nytimes.com/2025/11/20/us/politics/democrats-kennedy-center-investigate.html",
     "source": "nyt",
@@ -3624,22 +3642,10 @@
     "pubdate": "2025-11-21-00-24-09 +0000"
   },
   {
-    "headline": "Under Trump, U.S. human rights reports will flag abortion, gender care",
-    "link": "https://www.washingtonpost.com/national-security/2025/11/20/trump-rubio-human-rights-report/",
-    "source": "wapo",
-    "pubdate": "2025-11-21-00-22-27 +0000"
-  },
-  {
     "headline": "Saab says Canada's air force could have Gripen fighter jets in as little as 3 years",
     "link": "https://www.cbc.ca/news/politics/saab-sweden-canada-fighters-f35-9.6987069?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-21-00-22-06 +0000"
-  },
-  {
-    "headline": "Federal judge dismisses case against Chicago woman shot by Border Patrol",
-    "link": "https://www.washingtonpost.com/nation/2025/11/20/martimar-martinez-shooting-chicago/",
-    "source": "wapo",
-    "pubdate": "2025-11-21-00-18-58 +0000"
   },
   {
     "headline": "Fugees Member Sentenced to 14 Years for Campaign Donation Scheme",
@@ -4554,14 +4560,14 @@
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "UCLA is building a 19-story tower for students near the Westwood campus",
-    "link": "https://www.latimes.com/business/story/2025-11-20/ucla-is-building-19-story-tower-for-students-near-westwood-campus",
+    "headline": "Is there an AI bubble and has it started to burst?",
+    "link": "https://www.latimes.com/business/story/2025-11-20/is-there-ai-bubble-has-it-started-to-burst",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Is there an AI bubble and has it started to burst?",
-    "link": "https://www.latimes.com/business/story/2025-11-20/is-there-ai-bubble-has-it-started-to-burst",
+    "headline": "UCLA is building a 19-story tower for students near the Westwood campus",
+    "link": "https://www.latimes.com/business/story/2025-11-20/ucla-is-building-19-story-tower-for-students-near-westwood-campus",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -5676,12 +5682,6 @@
     "pubdate": "2025-11-19-04-05-03 +0000"
   },
   {
-    "headline": "Founder of ADHD Startup Is Found Guilty of Conspiracy in Adderall Case",
-    "link": "https://www.wsj.com/us-news/law/adhd-startups-founder-is-found-guilty-of-conspiracy-in-adderall-case-452585c6",
-    "source": "wsj",
-    "pubdate": "2025-11-19-04-02-00 +0000"
-  },
-  {
     "headline": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
     "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html",
     "source": "nyt",
@@ -6126,26 +6126,14 @@
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
   {
-    "headline": "Boy, 8, killed by tree branch at camp. Parents say it wasn't an 'act of nature' and are suing",
-    "link": "https://www.latimes.com/california/story/2025-11-18/boy-8-killed-by-tree-branch-king-gillette-ranch-parents-suing",
-    "source": "latimes",
-    "pubdate": "2025-11-18-11-00-00 +0000"
-  },
-  {
-    "headline": "'We can't just teach abstinence': How advice on bed-sharing with a baby is evolving",
-    "link": "https://www.latimes.com/california/story/2025-11-18/why-advice-about-infant-co-sleeping-changing-despite-sids-risk",
+    "headline": "Hiltzik: The Trump administration's math on economic policy doesn't add up",
+    "link": "https://www.latimes.com/business/story/2025-11-18/hiltzik-trump-manipulates-math-inflation-healthcare-mortgages",
     "source": "latimes",
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
   {
     "headline": "Why is Kim Kardashian's Skims worth $5 billion?",
     "link": "https://www.latimes.com/business/story/2025-11-18/why-is-kim-kardashians-skims-worth-5-billion",
-    "source": "latimes",
-    "pubdate": "2025-11-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: The Trump administration's math on economic policy doesn't add up",
-    "link": "https://www.latimes.com/business/story/2025-11-18/hiltzik-trump-manipulates-math-inflation-healthcare-mortgages",
     "source": "latimes",
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
@@ -6610,11 +6598,5 @@
     "link": "https://www.bbc.com/news/articles/cx27z4pvlz1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-16-08-31-12 +0000"
-  },
-  {
-    "headline": "The Ultrarich Are Spending a Fortune to Live in Extreme Privacy",
-    "link": "https://www.wsj.com/lifestyle/travel/the-ultrarich-are-spending-a-fortune-to-live-in-extreme-privacy-3f400e55",
-    "source": "wsj",
-    "pubdate": "2025-11-16-01-00-00 +0000"
   }
 ]
