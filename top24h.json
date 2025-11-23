@@ -1,6 +1,6 @@
 [
   {
-    "score": 149,
+    "score": 146,
     "pubdate": "2025-11-23-14-38-13 +0000",
     "source": "nypost",
     "headline": "Trump slams Ukraine’s lack of ‘gratitude’ in wake of White House-backed peace plan to end war with Russia",
@@ -14,49 +14,42 @@
     "link": "https://www.wsj.com/politics/policy/trump-says-he-is-ending-temporary-immigration-protections-for-somalis-in-minnesota-28d900f2"
   },
   {
-    "score": 43,
-    "pubdate": "2025-11-22-16-00-27 +0000",
-    "source": "nypost",
-    "headline": "‘Ready to fight’: Hamas reportedly says it’s pulling out of Gaza cease-fire over alleged Israeli violations",
-    "link": "https://nypost.com/2025/11/22/world-news/hamas-says-its-pulling-out-of-gaza-cease-fire-over-alleged-israeli-violations-report/"
-  },
-  {
-    "score": 43,
+    "score": 44,
     "pubdate": "2025-11-23-02-01-02 +0000",
     "source": "nyt",
     "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
     "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html"
   },
   {
-    "score": 38,
-    "pubdate": "2025-11-23-12-00-00 +0000",
-    "source": "wsj",
-    "headline": "While President Trump and New York Mayor-elect Zohran Mamdani both campaigned on affordability, the issue is amorphous and poorly defined, WSJ’s @greg_ip writes",
-    "link": "https://www.wsj.com/economy/everyone-is-talking-about-the-affordability-crisis-it-cant-be-solved-c3d37a39"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-11-23-00-05-30 +0000",
-    "source": "nypost",
-    "headline": "Ukrainian military shares video of wild strikes against Russian assets in Crimea",
-    "link": "https://nypost.com/2025/11/22/world-news/ukrainian-military-shares-video-of-wild-strikes-against-russian-assets-in-crimea/"
-  },
-  {
-    "score": 36,
-    "pubdate": "2025-11-22-23-58-55 +0000",
-    "source": "nypost",
-    "headline": "Bodycam footage shows Nevada stepdad scream ‘my kid is dead’ after 11-year-old is killed in road-rage shooting",
-    "link": "https://nypost.com/2025/11/22/us-news/bodycam-footage-shows-nevada-stepdad-scream-my-kid-is-dead-after-11-year-old-is-killed-in-road-rage-shooting/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-11-23-09-49-38 +0000",
+    "score": 39,
+    "pubdate": "2025-11-22-18-26-08 +0000",
     "source": "nyt",
-    "headline": "Texas Men Plotted Coup of Haitian Island to Enslave Women and Children, U.S. Says",
-    "link": "https://www.nytimes.com/2025/11/22/us/texas-men-haiti-island-takeover-plot.html"
+    "headline": "20 Killed in Israeli Strikes as Israel and Hamas Trade Blame Over Truce",
+    "link": "https://www.nytimes.com/2025/11/22/world/middleeast/israeli-strikes-gaza.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-11-23-10-58-29 +0000",
+    "source": "wapo",
+    "headline": "Japan’s sacred sumo ring is off-limits to women, even its new prime minister",
+    "link": "https://www.washingtonpost.com/world/2025/11/22/japan-sumo-sanae-takaichi-ring/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-11-23-15-01-05 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani says Trump is still a ‘fascist, despot’ — but claims they agree on most important issue facing NYC",
+    "link": "https://nypost.com/2025/11/23/us-news/zohran-mamdani-says-trump-is-still-a-fascist-despot-but-claims-they-agree-on-most-important-issue-facing-nyc/"
   },
   {
     "score": 34,
+    "pubdate": "2025-11-23-10-00-00 +0000",
+    "source": "wapo",
+    "headline": "Are millennials frozen out of the housing market? The reality may be more interesting.",
+    "link": "https://www.washingtonpost.com/business/2025/11/22/first-time-homebuyers-millennials-40/"
+  },
+  {
+    "score": 32,
     "pubdate": "2025-11-22-20-39-00 +0000",
     "source": "wsj",
     "headline": "Boston Fed President says she sees no strong need for another interest-rate cut next month, underscoring the challenge that Fed Chair Jerome Powell faces in building consensus",
@@ -64,9 +57,16 @@
   },
   {
     "score": 31,
-    "pubdate": "2025-11-23-02-37-54 +0000",
+    "pubdate": "2025-11-23-00-05-30 +0000",
     "source": "nypost",
-    "headline": "Body of teen found in singer D4vd’s trunk was frozen, decapitated — and cops may never determine cause of death",
-    "link": "https://nypost.com/2025/11/22/us-news/body-of-teen-found-in-singer-d4vds-trunk-was-frozen-decapitated-and-cops-may-never-determine-cause-of-death/"
+    "headline": "Ukrainian military shares video of wild strikes against Russian assets in Crimea",
+    "link": "https://nypost.com/2025/11/22/world-news/ukrainian-military-shares-video-of-wild-strikes-against-russian-assets-in-crimea/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-11-23-09-49-38 +0000",
+    "source": "nyt",
+    "headline": "Texas Men Plotted Coup of Haitian Island to Enslave Women and Children, U.S. Says",
+    "link": "https://www.nytimes.com/2025/11/22/us/texas-men-haiti-island-takeover-plot.html"
   }
 ]
