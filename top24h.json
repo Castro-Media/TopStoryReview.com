@@ -1,17 +1,17 @@
 [
   {
-    "score": 141,
+    "score": 131,
+    "pubdate": "2025-11-22-20-34-00 +0000",
+    "source": "wsj",
+    "headline": "Trump said he could be open to changes in the plan for ending the war in Ukraine after Kyiv, European governments and some Republican lawmakers called it too heavily weighted in Moscow’s favor",
+    "link": "https://www.wsj.com/politics/policy/trump-says-ukraine-peace-plan-isnt-final-after-criticism-it-favors-russia-d0b1de5f"
+  },
+  {
+    "score": 75,
     "pubdate": "2025-11-22-12-15-08 +0000",
     "source": "nypost",
     "headline": "Trump slams ‘traitor’ Rep. Marjorie Taylor Greene as he celebrates her resignation from Congress: ‘Went BAD’",
     "link": "https://nypost.com/2025/11/22/us-news/trump-celebrates-rep-marjorie-taylor-greenes-resignation-from-congress/"
-  },
-  {
-    "score": 82,
-    "pubdate": "2025-11-22-22-13-07 +0000",
-    "source": "nypost",
-    "headline": "European leaders push back on US plan to end war in Ukraine, hope to amend it at Geneva meeting",
-    "link": "https://nypost.com/2025/11/22/world-news/european-leaders-push-back-on-us-plan-to-end-war-in-ukraine-hope-to-amend-it-at-a-sunday-meeting-in-geneva/"
   },
   {
     "score": 52,
@@ -21,18 +21,25 @@
     "link": "https://nypost.com/2025/11/22/us-news/tatiana-schlossberg-granddaughter-of-jfk-discloses-terminal-leukemia-diagnosis/"
   },
   {
-    "score": 48,
+    "score": 45,
+    "pubdate": "2025-11-22-19-44-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said Friday he was immediately ending temporary immigration protections for a group of Somalis living in Minnesota, the latest in his mass deportation push",
+    "link": "https://www.wsj.com/politics/policy/trump-says-he-is-ending-temporary-immigration-protections-for-somalis-in-minnesota-28d900f2"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-11-22-16-00-27 +0000",
+    "source": "nypost",
+    "headline": "‘Ready to fight’: Hamas reportedly says it’s pulling out of Gaza cease-fire over alleged Israeli violations",
+    "link": "https://nypost.com/2025/11/22/world-news/hamas-says-its-pulling-out-of-gaza-cease-fire-over-alleged-israeli-violations-report/"
+  },
+  {
+    "score": 41,
     "pubdate": "2025-11-22-20-39-00 +0000",
     "source": "wsj",
     "headline": "Boston Fed President says she sees no strong need for another interest-rate cut next month, underscoring the challenge that Fed Chair Jerome Powell faces in building consensus",
     "link": "https://www.wsj.com/economy/central-banking/fed-susan-collins-remarks-9c9324db"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-11-22-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "A Texas court upended a GOP plan that would help it hold the House, sending the Republicans to the Supreme Court",
-    "link": "https://www.wsj.com/politics/elections/the-legal-misstep-that-imperiled-trumps-midterm-strategy-76a3ff55"
   },
   {
     "score": 41,
@@ -43,30 +50,23 @@
   },
   {
     "score": 39,
-    "pubdate": "2025-11-22-19-44-00 +0000",
+    "pubdate": "2025-11-22-04-00-00 +0000",
     "source": "wsj",
-    "headline": "President Trump said Friday he was immediately ending temporary immigration protections for a group of Somalis living in Minnesota, the latest in his mass deportation push",
-    "link": "https://www.wsj.com/politics/policy/trump-says-he-is-ending-temporary-immigration-protections-for-somalis-in-minnesota-28d900f2"
+    "headline": "A Texas court upended a GOP plan that would help it hold the House, sending the Republicans to the Supreme Court",
+    "link": "https://www.wsj.com/politics/elections/the-legal-misstep-that-imperiled-trumps-midterm-strategy-76a3ff55"
   },
   {
-    "score": 37,
-    "pubdate": "2025-11-22-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "An MIT graduate student rocketed to fame with an intriguing paper on AI in the workplace. Soon his mentors were asking: Had he made it all up?",
-    "link": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243"
-  },
-  {
-    "score": 35,
+    "score": 36,
     "pubdate": "2025-11-22-07-00-00 +0000",
     "source": "cbc",
     "headline": "Carney attends G20 summit with aim to boost trade — and as Canada cuts foreign aid",
     "link": "https://www.cbc.ca/news/politics/africa-strategy-canada-9.6988357?cmp=rss"
   },
   {
-    "score": 35,
-    "pubdate": "2025-11-22-16-00-27 +0000",
+    "score": 33,
+    "pubdate": "2025-11-22-13-45-45 +0000",
     "source": "nypost",
-    "headline": "‘Ready to fight’: Hamas reportedly says it’s pulling out of Gaza cease-fire over alleged Israeli violations",
-    "link": "https://nypost.com/2025/11/22/world-news/hamas-says-its-pulling-out-of-gaza-cease-fire-over-alleged-israeli-violations-report/"
+    "headline": "Oakland’s new mayor Barbara Lee tells federal law enforcement to stay away despite city’s high crime",
+    "link": "https://nypost.com/2025/11/22/us-news/oaklands-new-mayor-barbara-lee-fights-high-crime-and-tells-federal-law-enforcement-to-stay-away/"
   }
 ]
