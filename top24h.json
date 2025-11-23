@@ -1,55 +1,48 @@
 [
   {
-    "score": 164,
-    "pubdate": "2025-11-22-20-34-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he could be open to changes in the administration’s 28-point plan for ending the war in Ukraine after Kyiv, European governments and even some Republican lawmakers denounced it as too heavily weighted in Moscow’s favor",
-    "link": "https://www.wsj.com/politics/policy/trump-says-ukraine-peace-plan-isnt-final-after-criticism-it-favors-russia-d0b1de5f"
-  },
-  {
-    "score": 74,
+    "score": 149,
     "pubdate": "2025-11-22-12-15-08 +0000",
     "source": "nypost",
     "headline": "Trump slams ‘traitor’ Rep. Marjorie Taylor Greene as he celebrates her resignation from Congress: ‘Went BAD’",
     "link": "https://nypost.com/2025/11/22/us-news/trump-celebrates-rep-marjorie-taylor-greenes-resignation-from-congress/"
   },
   {
-    "score": 74,
+    "score": 83,
+    "pubdate": "2025-11-22-22-13-07 +0000",
+    "source": "nypost",
+    "headline": "European leaders push back on US plan to end war in Ukraine, hope to amend it at Geneva meeting",
+    "link": "https://nypost.com/2025/11/22/world-news/european-leaders-push-back-on-us-plan-to-end-war-in-ukraine-hope-to-amend-it-at-a-sunday-meeting-in-geneva/"
+  },
+  {
+    "score": 73,
     "pubdate": "2025-11-22-01-18-00 +0000",
     "source": "wsj",
     "headline": "Texas asked the Supreme Court to let it use a redistricted congressional map that was blocked by a lower court and that would potentially help Republicans gain as many as five House seats",
     "link": "https://www.wsj.com/politics/elections/texas-asks-supreme-court-to-let-it-use-new-congressional-map-bf56f6b3"
   },
   {
-    "score": 52,
+    "score": 56,
     "pubdate": "2025-11-22-20-39-00 +0000",
     "source": "wsj",
     "headline": "Boston Fed President says she sees no strong need for another interest-rate cut next month, underscoring the challenge that Fed Chair Jerome Powell faces in building consensus",
     "link": "https://www.wsj.com/economy/central-banking/fed-susan-collins-remarks-9c9324db"
   },
   {
-    "score": 52,
-    "pubdate": "2025-11-22-16-27-59 +0000",
-    "source": "nypost",
-    "headline": "‘Antisemitic’ activist Linda Sarsour: Mamdani mayoral win shows hating Israel can ‘send you to City Hall’",
-    "link": "https://nypost.com/2025/11/22/us-news/antisemitic-activist-linda-sarsour-mamdani-mayoral-win-shows-hating-israel-can-send-you-to-city-hall/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-11-22-19-44-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said Friday he was immediately ending temporary immigration protections for a group of Somalis living in Minnesota, the latest in his mass deportation push",
-    "link": "https://www.wsj.com/politics/policy/trump-says-he-is-ending-temporary-immigration-protections-for-somalis-in-minnesota-28d900f2"
-  },
-  {
-    "score": 43,
+    "score": 42,
     "pubdate": "2025-11-22-15-00-57 +0000",
     "source": "nyt",
     "headline": "Jair Bolsonaro Arrested in Brazil Amid Fears He Might Flee to Avoid Prison",
     "link": "https://www.nytimes.com/2025/11/22/world/americas/jair-bolsonaro-brazil-arrest.html"
   },
   {
-    "score": 40,
+    "score": 41,
+    "pubdate": "2025-11-22-15-03-50 +0000",
+    "source": "nypost",
+    "headline": "More Kennedy tragedy strikes as Tatiana Schlossberg, granddaughter of JFK, discloses terminal leukemia diagnosis at age 35",
+    "link": "https://nypost.com/2025/11/22/us-news/tatiana-schlossberg-granddaughter-of-jfk-discloses-terminal-leukemia-diagnosis/"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-11-22-02-00-00 +0000",
     "source": "wsj",
     "headline": "An MIT graduate student rocketed to fame with an intriguing paper on AI in the workplace. Soon his mentors were asking: Had he made it all up?",
@@ -57,13 +50,20 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-11-22-08-23-52 +0000",
-    "source": "nyt",
-    "headline": "Japan’s New Leader Mentions Taiwan, and Tanks Her Relationship With China",
-    "link": "https://www.nytimes.com/2025/11/21/world/asia/japan-china-taiwan-dispute.html"
+    "pubdate": "2025-11-22-19-44-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said Friday he was immediately ending temporary immigration protections for a group of Somalis living in Minnesota, the latest in his mass deportation push",
+    "link": "https://www.wsj.com/politics/policy/trump-says-he-is-ending-temporary-immigration-protections-for-somalis-in-minnesota-28d900f2"
   },
   {
     "score": 37,
+    "pubdate": "2025-11-22-05-01-46 +0000",
+    "source": "wapo",
+    "headline": "Japan’s sacred sumo ring is off limits to women, even its new prime minister",
+    "link": "https://www.washingtonpost.com/world/2025/11/22/japan-sumo-sanae-takaichi-ring/"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-11-22-07-00-00 +0000",
     "source": "cbc",
     "headline": "Carney attends G20 summit with aim to boost trade — and as Canada cuts foreign aid",
