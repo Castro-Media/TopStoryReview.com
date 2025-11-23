@@ -1,13 +1,13 @@
 [
   {
-    "score": 186,
+    "score": 166,
     "pubdate": "2025-11-23-14-38-13 +0000",
     "source": "nypost",
     "headline": "Trump slams Ukraine’s lack of ‘gratitude’ in wake of White House-backed peace plan to end war with Russia",
     "link": "https://nypost.com/2025/11/23/us-news/trump-slams-ukraines-lack-of-gratitude-in-wake-of-white-house-backed-peace-plan-to-end-war-with-russia/"
   },
   {
-    "score": 51,
+    "score": 52,
     "pubdate": "2025-11-23-19-31-39 +0000",
     "source": "bbc",
     "headline": "Israel kills top Hezbollah official in first attack on Beirut in months",
@@ -21,21 +21,14 @@
     "link": "https://nypost.com/2025/11/23/world-news/ukraine-peace-plan-was-authored-by-us-rubio-says-after-leaked-russian-wishlist-claims/"
   },
   {
-    "score": 40,
+    "score": 41,
     "pubdate": "2025-11-23-10-58-29 +0000",
     "source": "wapo",
     "headline": "Japan’s sacred sumo ring is off-limits to women, even its new prime minister",
     "link": "https://www.washingtonpost.com/world/2025/11/22/japan-sumo-sanae-takaichi-ring/"
   },
   {
-    "score": 38,
-    "pubdate": "2025-11-23-02-01-02 +0000",
-    "source": "nyt",
-    "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html"
-  },
-  {
-    "score": 34,
+    "score": 39,
     "pubdate": "2025-11-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "We Analyzed 5,000 Calls to Find Out What CEOs Really Think About Tariffs",
@@ -50,23 +43,30 @@
   },
   {
     "score": 30,
-    "pubdate": "2025-11-23-15-01-05 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani says Trump is still a ‘fascist, despot’ — but claims they agree on most important issue facing NYC",
-    "link": "https://nypost.com/2025/11/23/us-news/zohran-mamdani-says-trump-is-still-a-fascist-despot-but-claims-they-agree-on-most-important-issue-facing-nyc/"
+    "pubdate": "2025-11-23-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "While President Trump and New York Mayor-elect Zohran Mamdani both campaigned on affordability, the issue is amorphous and poorly defined, WSJ’s @greg_ip writes",
+    "link": "https://www.wsj.com/economy/everyone-is-talking-about-the-affordability-crisis-it-cant-be-solved-c3d37a39"
   },
   {
     "score": 29,
-    "pubdate": "2025-11-23-17-46-20 +0000",
+    "pubdate": "2025-11-23-18-07-23 +0000",
     "source": "nypost",
-    "headline": "NJ ‘MAGA mom’ reveals the moment she discovered viral ‘Nipplegate’ text scandal: ‘They actually wanted me dead’",
-    "link": "https://nypost.com/2025/11/23/us-news/nj-maga-mom-speaks-out-after-text-scandal-they-actually-wanted-me-dead/"
+    "headline": "NYC house fire kills 95-year-old, critically injures 2 others including child: officials",
+    "link": "https://nypost.com/2025/11/23/us-news/nyc-house-fire-kills-95-year-old-critically-injures-2-others/"
   },
   {
-    "score": 28,
-    "pubdate": "2025-11-23-17-23-33 +0000",
+    "score": 29,
+    "pubdate": "2025-11-23-02-01-02 +0000",
     "source": "nyt",
-    "headline": "Fire Threatens Iran’s Ancient Forest, a World Heritage Site",
-    "link": "https://www.nytimes.com/2025/11/23/world/europe/iran-fire-hyrcanian-forests.html"
+    "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
+    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-11-22-23-48-53 +0000",
+    "source": "latimes",
+    "headline": "Tatiana Schlossberg, granddaughter of JFK, reveals terminal cancer diagnosis",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-22/tatiana-schlossberg-reveals-terminal-cancer-diagnosis-another-kennedy-family-tragedy"
   }
 ]
