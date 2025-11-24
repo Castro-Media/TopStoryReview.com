@@ -1,5 +1,377 @@
 [
   {
+    "headline": "James Comey and Letitia James Cases Dismissed in Blow to DOJ",
+    "link": "https://www.wsj.com/us-news/law/james-comey-letitia-james-cases-dismissed-7b732d17",
+    "source": "wsj",
+    "pubdate": "2025-11-24-20-51-00 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Settle Lower",
+    "link": "https://www.wsj.com/articles/european-gas-price-drops-on-ample-supplies-ukraine-russia-peace-talk-prospects-98eac9ed?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-24-20-50-00 +0000"
+  },
+  {
+    "headline": "U.S. Again Asks New York Court to Release Epstein Grand Jury Materials",
+    "link": "https://www.nytimes.com/2025/11/24/us/politics/epstein-grand-jury-materials-release-requested.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-48-52 +0000"
+  },
+  {
+    "headline": "U.S. Again Asks New York Court to Release Epstein Grand Jury Materials",
+    "link": "https://www.nytimes.com/2025/11/24/us/politics/epstein-grand-jury-materials-release-requested.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-48-52 +0000"
+  },
+  {
+    "headline": "U.S. and Ukraine Hail Progress on Peace Plan to End War With Russia",
+    "link": "https://www.nytimes.com/2025/11/24/world/europe/ukraine-zelensky-rubio-russia-peace-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-48-10 +0000"
+  },
+  {
+    "headline": "U.S. and Ukraine Hail Progress on Peace Plan to End War With Russia",
+    "link": "https://www.nytimes.com/2025/11/24/world/europe/ukraine-zelensky-rubio-russia-peace-plan.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-48-10 +0000"
+  },
+  {
+    "headline": "Opinion | It’s Time for a Moderate Moment",
+    "link": "https://www.wsj.com/opinion/its-time-for-a-moderate-moment-bc6d5e27",
+    "source": "wsj",
+    "pubdate": "2025-11-24-20-48-00 +0000"
+  },
+  {
+    "headline": "Some Park Rangers Are Still Owed Pay After the Shutdown",
+    "link": "https://www.nytimes.com/2025/11/24/climate/park-service-back-pay-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-46-42 +0000"
+  },
+  {
+    "headline": "Opinion | Trump Needs a Supply-Side Solution",
+    "link": "https://www.wsj.com/opinion/trump-needs-a-supply-side-solution-38e94f90",
+    "source": "wsj",
+    "pubdate": "2025-11-24-20-46-00 +0000"
+  },
+  {
+    "headline": "Campbell Soup exec belittled ‘poor’ customers, spewed racist hate about Indian employees: lawsuit",
+    "link": "https://nypost.com/2025/11/24/business/campbell-soup-exec-belittled-poor-customers-spewed-racist-hate-about-indian-employees-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-20-45-33 +0000"
+  },
+  {
+    "headline": "Gotham FC gets first-victory parade in NYC for national championship win",
+    "link": "https://nypost.com/2025/11/24/us-news/gotham-fc-gets-first-victory-parade-in-nyc-for-national-championship-win/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-20-44-15 +0000"
+  },
+  {
+    "headline": "Illegal migrant faces deportation for snatching DHS Secretary Kristi Noem’s $4,000 Gucci bag, other thefts",
+    "link": "https://nypost.com/2025/11/24/us-news/illegal-immigrant-faces-deportation-for-stealing-noems-purse/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-20-41-40 +0000"
+  },
+  {
+    "headline": "Consumer Bureau’s Bank Examiners Criticize New ‘Humility Pledge’",
+    "link": "https://www.nytimes.com/2025/11/24/business/consumer-bureau-humility-pledge.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-41-34 +0000"
+  },
+  {
+    "headline": "Consumer Bureau’s Bank Examiners Criticize New ‘Humility Pledge’",
+    "link": "https://www.nytimes.com/2025/11/24/business/consumer-bureau-humility-pledge.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-41-34 +0000"
+  },
+  {
+    "headline": "Russia’s Invasion of Ukraine Prompts Debate Over Europe’s Military",
+    "link": "https://www.nytimes.com/2025/11/24/business/economy/russia-ukraine-europe-military.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-41-23 +0000"
+  },
+  {
+    "headline": "Russia’s Invasion of Ukraine Prompts Debate Over Europe’s Military",
+    "link": "https://www.nytimes.com/2025/11/24/business/economy/russia-ukraine-europe-military.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-41-23 +0000"
+  },
+  {
+    "headline": "Russia’s Invasion of Ukraine Prompts Debate Over Europe’s Military",
+    "link": "https://www.nytimes.com/2025/11/24/business/economy/russia-ukraine-europe-military.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-41-23 +0000"
+  },
+  {
+    "headline": "‘Godfather’ actor wildly claims Pope John Paul was killed in connection with a Vatican money-laundering scheme",
+    "link": "https://nypost.com/2025/11/24/world-news/godfather-actor-claims-pope-john-paul-was-murdered-by-mob/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-20-41-07 +0000"
+  },
+  {
+    "headline": "Vikings QB J.J. McCarthy enters concussion protocol; status for Seattle game uncertain",
+    "link": "https://www.startribune.com/vikings-qb-jj-mccarthy-enters-concussion-protocol-status-for-seattle-game-uncertain/601530538",
+    "source": "startribune",
+    "pubdate": "2025-11-24-20-39-06 +0000"
+  },
+  {
+    "headline": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
+    "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-39-03 +0000"
+  },
+  {
+    "headline": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
+    "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-39-03 +0000"
+  },
+  {
+    "headline": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
+    "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-39-03 +0000"
+  },
+  {
+    "headline": "Screen Grabs: Delightful ‘Left-Handed Girl’ steals big movie week thunder",
+    "link": "https://48hills.org/2025/11/screen-grabs-delightful-left-handed-girl-steals-big-movie-week-thunder/",
+    "source": "48hills",
+    "pubdate": "2025-11-24-20-37-32 +0000"
+  },
+  {
+    "headline": "Zelensky warns against giving away territory as latest Ukraine talks end",
+    "link": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-20-37-21 +0000"
+  },
+  {
+    "headline": "Hegseth Threatens Senator Mark Kelly With Inquiry for ‘Seditious’ Video",
+    "link": "https://www.nytimes.com/2025/11/24/us/politics/mark-kelly-pentagon-investigation.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-33-49 +0000"
+  },
+  {
+    "headline": "Hegseth Threatens Senator Mark Kelly With Inquiry for ‘Seditious’ Video",
+    "link": "https://www.nytimes.com/2025/11/24/us/politics/mark-kelly-pentagon-investigation.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-33-49 +0000"
+  },
+  {
+    "headline": "The Forgotten Nuclear Weapon Tests That Trump May Seek to Revive",
+    "link": "https://www.nytimes.com/2025/11/24/science/hydro-nuclear-testing-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-19-35 +0000"
+  },
+  {
+    "headline": "The Forgotten Nuclear Weapon Tests That Trump May Seek to Revive",
+    "link": "https://www.nytimes.com/2025/11/24/science/hydro-nuclear-testing-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-19-35 +0000"
+  },
+  {
+    "headline": "The Forgotten Nuclear Weapon Tests That Trump May Seek to Revive",
+    "link": "https://www.nytimes.com/2025/11/24/science/hydro-nuclear-testing-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-19-35 +0000"
+  },
+  {
+    "headline": "Dharmendra, Bollywood Leading Man, Dies at 89",
+    "link": "https://www.nytimes.com/2025/11/24/world/asia/india-bollywood-dharmendra-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-19-18 +0000"
+  },
+  {
+    "headline": "Dharmendra, Bollywood Leading Man, Dies at 89",
+    "link": "https://www.nytimes.com/2025/11/24/world/asia/india-bollywood-dharmendra-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-19-18 +0000"
+  },
+  {
+    "headline": "US, Ukraine agree on new 19-point peace plan that’s vastly different from Trump’s previous one: reports",
+    "link": "https://nypost.com/2025/11/24/world-news/us-ukraine-agree-on-new-19-point-peace-plan-thats-vastly-different-from-trumps-previous-one-reports/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-20-17-58 +0000"
+  },
+  {
+    "headline": "Money a constant worry, say U25s ahead of Budget",
+    "link": "https://www.bbc.com/news/videos/cwyv3w2x7pjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-20-16-59 +0000"
+  },
+  {
+    "headline": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria",
+    "link": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-16-58 +0000"
+  },
+  {
+    "headline": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria",
+    "link": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-16-58 +0000"
+  },
+  {
+    "headline": "In Gulf of America case, AP renews legal fight to end White House ban",
+    "link": "https://www.washingtonpost.com/business/2025/11/24/ap-white-house-gulf-of-america/",
+    "source": "wapo",
+    "pubdate": "2025-11-24-20-14-28 +0000"
+  },
+  {
+    "headline": "Morgan Geyser, Convicted in ‘Slender Man’ Stabbing, Is Captured After Fleeing",
+    "link": "https://www.nytimes.com/2025/11/23/us/morgan-geyser-missing-slenderman-stabbing.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-14-00 +0000"
+  },
+  {
+    "headline": "Meta employees compared themselves to drug ‘pushers’ as company buried mental health harms to kids: unsealed docs",
+    "link": "https://nypost.com/2025/11/24/business/meta-employees-compared-themselves-to-drug-pushers-as-company-buried-mental-health-harms-to-kids/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-20-13-21 +0000"
+  },
+  {
+    "headline": "What is in the iconic red box?",
+    "link": "https://www.bbc.com/news/videos/c4g9z72d55zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-20-10-09 +0000"
+  },
+  {
+    "headline": "The Pentagon said it is probing allegations of misconduct against Sen. Mark Kelly, a retired Navy captain, after he appeared in a video urging troops to disobey unlawful orders",
+    "link": "https://www.wsj.com/politics/mark-kelly-senator-pentagon-probe-10060a16",
+    "source": "wsj",
+    "pubdate": "2025-11-24-20-01-00 +0000"
+  },
+  {
+    "headline": "New Studies of Dog DNA Shed Light on Pets and People",
+    "link": "https://www.nytimes.com/2025/11/24/science/genetics-dogs-pets.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-20-00-08 +0000"
+  },
+  {
+    "headline": "San Francisco Fed President Mary Daly said she supports lowering interest rates at the central bank’s meeting next month",
+    "link": "https://www.wsj.com/economy/central-banking/feds-daly-backs-december-rate-cut-citing-vulnerable-labor-market-07a497b6",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-55-00 +0000"
+  },
+  {
+    "headline": "School Kidnappings Have Become a Cruel Fact of Life in Nigeria",
+    "link": "https://www.wsj.com/world/africa/school-kidnappings-have-become-a-cruel-fact-of-life-in-nigeria-0f92ed3c",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-53-00 +0000"
+  },
+  {
+    "headline": "School Kidnappings Have Become a Cruel Fact of Life in Nigeria",
+    "link": "https://www.wsj.com/world/africa/school-kidnappings-have-become-a-cruel-fact-of-life-in-nigeria-0f92ed3c",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-53-00 +0000"
+  },
+  {
+    "headline": "China’s Xi Calls Trump in Unusual Move to Discuss Taiwan, Ukraine",
+    "link": "https://www.wsj.com/world/china/chinas-xi-calls-trump-in-unusual-move-to-discuss-ukraine-taiwan-add503b3",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-46-00 +0000"
+  },
+  {
+    "headline": "Elderly man fatally stabbed allegedly by roommate nearly half his age inside NYC apartment: sources",
+    "link": "https://nypost.com/2025/11/24/us-news/elderly-man-fatally-stabbed-allegedly-by-roommate-half-his-age-inside-nyc-apartment-sources/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-19-37-47 +0000"
+  },
+  {
+    "headline": "‘CBS Saturday Morning’ co-hosts sign off in tearful farewell — as staff still unaware who will replace them",
+    "link": "https://nypost.com/2025/11/24/media/cbs-saturday-morning-co-hosts-sign-off-in-tearful-farewell-and-staff-still-dont-know-whos-replacing-them/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-19-37-29 +0000"
+  },
+  {
+    "headline": "Pentagon reviews Mark Kelly video, threatens possible discipline",
+    "link": "https://www.bbc.com/news/articles/cqxqwrlp7r0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-19-33-58 +0000"
+  },
+  {
+    "headline": "Tucker Carlson Is Joining the Gold Rush",
+    "link": "https://www.wsj.com/finance/commodities-futures/tucker-carlson-gold-company-a9dea0eb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-33-00 +0000"
+  },
+  {
+    "headline": "Tucker Carlson Is Joining the Gold Rush",
+    "link": "https://www.wsj.com/finance/commodities-futures/tucker-carlson-gold-company-a9dea0eb?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-33-00 +0000"
+  },
+  {
+    "headline": "NYPD makes pledge after revealing why it took nearly 30 minutes to respond to a violent Queens car meetup",
+    "link": "https://nypost.com/2025/11/24/us-news/nypd-makes-pledge-as-it-reveals-why-it-took-almost-30-minutes-to-respond-to-violent-car-meetup/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-19-32-08 +0000"
+  },
+  {
+    "headline": "Why ‘Surveillance Pricing’ Strikes a Nerve",
+    "link": "https://www.nytimes.com/2025/11/21/business/why-surveillance-pricing-strikes-a-nerve.html",
+    "source": "nyt",
+    "pubdate": "2025-11-24-19-26-10 +0000"
+  },
+  {
+    "headline": "New twist in missing football coach Travis Turner case as school district reveals employee probe",
+    "link": "https://nypost.com/2025/11/24/sports/mystery-deepens-over-high-school-football-coach-who-vanished-during-undefeated-season/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-19-23-19 +0000"
+  },
+  {
+    "headline": "NASA and Boeing Scale Back Starliner Missions After Fumbled Astronaut Flight",
+    "link": "https://www.wsj.com/science/space-astronomy/nasa-and-boeing-scale-back-starliner-missions-after-fumbled-astronaut-flight-8636c1ec",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-19-00 +0000"
+  },
+  {
+    "headline": "NASA and Boeing Scale Back Starliner Missions After Fumbled Astronaut Flight",
+    "link": "https://www.wsj.com/science/space-astronomy/nasa-and-boeing-scale-back-starliner-missions-after-fumbled-astronaut-flight-8636c1ec?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-24-19-19-00 +0000"
+  },
+  {
+    "headline": "Trump pushes Larry Ellison to revive ‘Rush Hour’ series as Paramount bids for Warner Bros. Discovery",
+    "link": "https://nypost.com/2025/11/24/media/trump-pushes-larry-ellison-to-revive-rush-hour-series-as-president-smiles-on-paramount-bid-for-wbd/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-19-18-54 +0000"
+  },
+  {
+    "headline": "Mayor Eric Adams visits NYC synagogue targeted by hateful protesters",
+    "link": "https://nypost.com/2025/11/24/us-news/mayor-eric-adams-visits-nyc-synagogue-targeted-by-hateful-protesters/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-19-09-36 +0000"
+  },
+  {
+    "headline": "Times Square reveals striking new ball for New Year’s Eve celebration with twice as many crystals: ‘The largest ball yet’",
+    "link": "https://nypost.com/2025/11/24/us-news/times-square-reveals-striking-new-ball-for-new-years-eve-celebration/",
+    "source": "nypost",
+    "pubdate": "2025-11-24-19-03-29 +0000"
+  },
+  {
+    "headline": "Review: ‘Purple Rain’ ends world premiere in a blaze of confidence",
+    "link": "https://www.startribune.com/review-purple-rain-ends-world-premiere-in-a-blaze-of-confidence/601515394",
+    "source": "startribune",
+    "pubdate": "2025-11-24-19-01-44 +0000"
+  },
+  {
+    "headline": "Two peers face suspension from House of Lords",
+    "link": "https://www.bbc.com/news/articles/c4g6qnx4513o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-19-00-16 +0000"
+  },
+  {
+    "headline": "The S.F. holiday dinner bringing 1,000 folks out to the Tenderloin",
+    "link": "https://missionlocal.org/2025/11/tenderloin-tessie-brings-s-f-together-for-its-holiday-dinners/",
+    "source": "missionlocal",
+    "pubdate": "2025-11-24-19-00-00 +0000"
+  },
+  {
+    "headline": "Criminal cases against ex-FBI director Comey, Letitia James dismissed in blow to Trump administration",
+    "link": "https://www.cbc.ca/news/world/us-va-case-dismissed-james-comey-9.6990482?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-24-18-57-50 +0000"
+  },
+  {
     "headline": "Fire chief’s wife allegedly flashed 14-year-old volunteer firefighter— and said she wanted to have sex when he turned 18",
     "link": "https://nypost.com/2025/11/24/us-news/fire-chiefs-wife-allegedly-flashed-junior-firefighter-14-and-said-she-wanted-sex-when-he-turned-18/",
     "source": "nypost",
@@ -12,22 +384,16 @@
     "pubdate": "2025-11-24-18-51-00 +0000"
   },
   {
-    "headline": "All 31 suspects in bombshell NBA gambling case hauled into court as feds say plea negotiations ‘have already begun’",
-    "link": "https://nypost.com/2025/11/24/us-news/all-31-suspects-in-bombshell-nba-gambling-case-hauled-into-nyc-court/",
+    "headline": "All 31 suspects in bombshell NBA poker case hauled into court as feds say plea negotiations ‘have already begun’",
+    "link": "https://nypost.com/2025/11/24/sports/all-31-suspects-in-bombshell-nba-gambling-case-hauled-into-nyc-court/",
     "source": "nypost",
     "pubdate": "2025-11-24-18-49-55 +0000"
   },
   {
-    "headline": "NASA and Boeing Scale Back Starliner Missions After Fumbled Astronaut Flight",
-    "link": "https://www.wsj.com/science/space-astronomy/nasa-and-boeing-scale-back-starliner-missions-after-fumbled-astronaut-flight-8636c1ec",
-    "source": "wsj",
-    "pubdate": "2025-11-24-18-49-00 +0000"
-  },
-  {
-    "headline": "NASA and Boeing Scale Back Starliner Missions After Fumbled Astronaut Flight",
-    "link": "https://www.wsj.com/science/space-astronomy/nasa-and-boeing-scale-back-starliner-missions-after-fumbled-astronaut-flight-8636c1ec?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-24-18-49-00 +0000"
+    "headline": "Chauncey Billups pleads not guilty in alleged rigged poker case",
+    "link": "https://www.bbc.com/news/articles/cgexjyl1n5zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-18-48-16 +0000"
   },
   {
     "headline": "NYC’s Fifth Avenue has never smelled sweeter this holiday season — here’s how the ‘homey’ transformation happened: ‘A big, big job’",
@@ -40,12 +406,6 @@
     "link": "https://nypost.com/2025/11/24/world-news/thai-woman-miraculously-found-alive-in-coffin-right-before-she-was-set-to-be-cremated/",
     "source": "nypost",
     "pubdate": "2025-11-24-18-45-56 +0000"
-  },
-  {
-    "headline": "Pentagon reviewing 'misconduct' allegations against Senator Mark Kelly",
-    "link": "https://www.bbc.com/news/articles/cqxqwrlp7r0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-24-18-45-23 +0000"
   },
   {
     "headline": "Comex Gold Settles 0.37% Higher at $4091.90",
@@ -66,18 +426,12 @@
     "pubdate": "2025-11-24-18-34-00 +0000"
   },
   {
-    "headline": "President Trump’s advisers are discussing a proposal to head off sharp increases in health-insurance costs for millions of Americans next year, the explosive issue at the heart of the recent government shutdown",
+    "headline": "President Trump’s advisers are discussing a proposal to head off sharp increases in health-insurance costs for millions of Americans next year, an issue at the heart of the recent government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-advisers-discuss-options-for-new-healthcare-proposal-9e285af2",
     "source": "wsj",
     "pubdate": "2025-11-24-18-33-00 +0000"
   },
   {
-    "headline": "Comey and James Cases Dismissed After Judge Finds Prosecutor Wasn’t Properly Appointed",
-    "link": "https://www.wsj.com/us-news/law/james-comey-letitia-james-cases-dismissed-7b732d17",
-    "source": "wsj",
-    "pubdate": "2025-11-24-18-32-00 +0000"
-  },
-  {
     "headline": "‘ShamWow’ guy Vince Shlomi files for Texas Congress run as GOP candidate",
     "link": "https://nypost.com/2025/11/24/us-news/shamwow-guy-vince-shlomi-files-for-texas-congress-run-as-gop-candidate/",
     "source": "nypost",
@@ -100,6 +454,12 @@
     "link": "https://www.nytimes.com/2025/11/24/world/americas/russia-disinformation-mexico.html",
     "source": "nyt",
     "pubdate": "2025-11-24-18-30-20 +0000"
+  },
+  {
+    "headline": "'Slender Man' stabber who knifed her classmate 19 times aged 12 captured after escape",
+    "link": "https://www.bbc.com/news/articles/cvgkwgyqzn0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-18-29-46 +0000"
   },
   {
     "headline": "Morgan Geyser, 'Slender Man' stabber, captured after fleeing group home",
@@ -132,6 +492,12 @@
     "pubdate": "2025-11-24-18-21-07 +0000"
   },
   {
+    "headline": "Judge dismisses Comey, James indictments after finding that prosecutor was illegally appointed",
+    "link": "https://www.startribune.com/judge-dismisses-comey-james-indictments-after-finding-that-prosecutor-was-illegally-appointed/601532948",
+    "source": "startribune",
+    "pubdate": "2025-11-24-18-19-07 +0000"
+  },
+  {
     "headline": "Melania Trump accepts WH Christmas tree from Michigan: ‘It will be beautiful!’",
     "link": "https://nypost.com/2025/11/24/us-news/melania-trump-welcomes-wh-christmas-tree-it-will-be-beautiful/",
     "source": "nypost",
@@ -148,24 +514,6 @@
     "link": "https://nypost.com/2025/11/24/us-news/candace-owens-claims-macrons-hired-assassination-squad-to-kill-her/",
     "source": "nypost",
     "pubdate": "2025-11-24-18-15-27 +0000"
-  },
-  {
-    "headline": "U.S. and Ukraine Hail Progress on Peace Plan to End War With Russia",
-    "link": "https://www.nytimes.com/2025/11/24/world/europe/ukraine-zelensky-rubio-russia-peace-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-18-14-19 +0000"
-  },
-  {
-    "headline": "U.S. and Ukraine Hail Progress on Peace Plan to End War With Russia",
-    "link": "https://www.nytimes.com/2025/11/24/world/europe/ukraine-zelensky-rubio-russia-peace-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-18-14-19 +0000"
-  },
-  {
-    "headline": "The Pentagon said it is probing allegations of misconduct against Sen. Mark Kelly, a retired Navy captain, after he appeared in a video urging troops to disobey unlawful orders",
-    "link": "https://www.wsj.com/politics/mark-kelly-senator-pentagon-probe-10060a16",
-    "source": "wsj",
-    "pubdate": "2025-11-24-18-14-00 +0000"
   },
   {
     "headline": "In Russian-Occupied Mariupol, Everything Ukrainian Must Go",
@@ -216,6 +564,18 @@
     "pubdate": "2025-11-24-18-05-00 +0000"
   },
   {
+    "headline": "Belgian airports to be hit by 'major disruption' amid austerity strike",
+    "link": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-18-04-45 +0000"
+  },
+  {
+    "headline": "Belgian airports to be hit by 'major disruption' amid austerity strike",
+    "link": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-24-18-04-45 +0000"
+  },
+  {
     "headline": "Putin believes Russia-friendly US cease-fire plan could ‘form the basis’ for lasting peace in Ukraine",
     "link": "https://nypost.com/2025/11/24/world-news/russia-friendly-us-cease-fire-plan-could-pave-the-way-for-peace-in-ukraine-putin-says/",
     "source": "nypost",
@@ -232,12 +592,6 @@
     "link": "https://www.nytimes.com/2025/11/23/us/h-rap-brown-dead.html",
     "source": "nyt",
     "pubdate": "2025-11-24-18-03-20 +0000"
-  },
-  {
-    "headline": "Criminal cases against ex-FBI director Comey, Letitia James dismissed in blow to Trump administration",
-    "link": "https://www.cbc.ca/news/world/us-va-case-dismissed-james-comey-9.6990482?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-24-17-56-50 +0000"
   },
   {
     "headline": "Why Crypto’s Slide Is Rattling Wall Street",
@@ -280,12 +634,6 @@
     "link": "https://nypost.com/2025/11/24/us-news/ny-rep-mike-lawler-endorses-elise-stefanik-for-governor-over-likely-republican-opponent-bruce-blakeman/",
     "source": "nypost",
     "pubdate": "2025-11-24-17-48-09 +0000"
-  },
-  {
-    "headline": "Fifty children escape after mass school abduction in Nigeria - reports",
-    "link": "https://www.bbc.com/news/articles/cpwk5qzzppzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-24-17-45-30 +0000"
   },
   {
     "headline": "UK teen claims people threw urine, glue at him while he was promoting Charlie Kirk’s Turning Point message",
@@ -444,24 +792,6 @@
     "pubdate": "2025-11-24-17-06-59 +0000"
   },
   {
-    "headline": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
-    "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-17-06-34 +0000"
-  },
-  {
-    "headline": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
-    "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-17-06-34 +0000"
-  },
-  {
-    "headline": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
-    "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-17-06-34 +0000"
-  },
-  {
     "headline": "US presses Europe on rules for big tech companies",
     "link": "https://www.bbc.com/news/articles/clydjnlm54po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -472,12 +802,6 @@
     "link": "https://www.nytimes.com/2025/11/24/us/venezuelan-diaspora-critics-us-military-intervention.html",
     "source": "nyt",
     "pubdate": "2025-11-24-17-04-36 +0000"
-  },
-  {
-    "headline": "The 50th & France tree lighting and 8 other free things to do this week",
-    "link": "https://www.startribune.com/the-50th-france-tree-lighting-and-8-other-free-things-to-do-this-week/601488386",
-    "source": "startribune",
-    "pubdate": "2025-11-24-17-00-00 +0000"
   },
   {
     "headline": "Can the U.S. Make Big Nuclear Reactors?",
@@ -498,12 +822,6 @@
     "pubdate": "2025-11-24-16-59-48 +0000"
   },
   {
-    "headline": "Zelensky warns against giving away territory as latest Ukraine talks end",
-    "link": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-24-16-56-50 +0000"
-  },
-  {
     "headline": "Amazon to Invest $50 Billion Building Data Centers to Support U.S. Government",
     "link": "https://www.wsj.com/tech/ai/amazon-to-invest-50-billion-building-data-centers-to-support-u-s-government-cff88140?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -514,36 +832,6 @@
     "link": "https://www.nytimes.com/2025/11/24/science/astronomy-michigan-dark-sky.html",
     "source": "nyt",
     "pubdate": "2025-11-24-16-46-31 +0000"
-  },
-  {
-    "headline": "Russia’s Invasion of Ukraine Prompts Debate Over Europe’s Military",
-    "link": "https://www.nytimes.com/2025/11/24/business/economy/russia-ukraine-europe-military.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-16-42-02 +0000"
-  },
-  {
-    "headline": "Russia’s Invasion of Ukraine Prompts Debate Over Europe’s Military",
-    "link": "https://www.nytimes.com/2025/11/24/business/economy/russia-ukraine-europe-military.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-16-42-02 +0000"
-  },
-  {
-    "headline": "Russia’s Invasion of Ukraine Prompts Debate Over Europe’s Military",
-    "link": "https://www.nytimes.com/2025/11/24/business/economy/russia-ukraine-europe-military.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-16-42-02 +0000"
-  },
-  {
-    "headline": "Dharmendra, Bollywood Leading Man, Dies at 89",
-    "link": "https://www.nytimes.com/2025/11/24/world/asia/india-bollywood-dharmendra-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-16-40-27 +0000"
-  },
-  {
-    "headline": "Dharmendra, Bollywood Leading Man, Dies at 89",
-    "link": "https://www.nytimes.com/2025/11/24/world/asia/india-bollywood-dharmendra-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-16-40-27 +0000"
   },
   {
     "headline": "Putin’s Win-Win: Take a Russia-Friendly Peace Deal, or Fight On",
@@ -600,12 +888,6 @@
     "pubdate": "2025-11-24-16-23-26 +0000"
   },
   {
-    "headline": "China’s Xi Calls Trump in Unusual Move to Discuss Ukraine, Taiwan",
-    "link": "https://www.wsj.com/world/china/chinas-xi-calls-trump-in-unusual-move-to-discuss-ukraine-taiwan-add503b3",
-    "source": "wsj",
-    "pubdate": "2025-11-24-16-20-00 +0000"
-  },
-  {
     "headline": "Death toll climbs in Southeast Asia as heavy rains causes catastrophic flooding, landslides — leaving thousands displaced",
     "link": "https://nypost.com/2025/11/24/world-news/death-toll-rise-in-southeast-asia-as-heavy-rains-cause-floods-landslides/",
     "source": "nypost",
@@ -654,12 +936,6 @@
     "pubdate": "2025-11-24-16-04-16 +0000"
   },
   {
-    "headline": "Two peers face suspension from House of Lords",
-    "link": "https://www.bbc.com/news/articles/c4g6qnx4513o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-24-16-04-03 +0000"
-  },
-  {
     "headline": "U.S. Employment Trends Improved in September Ahead of Shutdown",
     "link": "https://www.wsj.com/economy/jobs/u-s-employment-trends-improved-in-september-ahead-of-shutdown-fdc7b236",
     "source": "wsj",
@@ -684,42 +960,6 @@
     "pubdate": "2025-11-24-15-53-27 +0000"
   },
   {
-    "headline": "Mother charged with manslaughter after diabetic daughter, 10, dies on road trip",
-    "link": "https://nypost.com/2025/11/24/health/mother-charged-with-manslaughter-after-diabetic-daughter-10-dies-on-road-trip/",
-    "source": "nypost",
-    "pubdate": "2025-11-24-15-49-06 +0000"
-  },
-  {
-    "headline": "Flooding, severe storms soak Texas as 73M people prepare to travel for Thanksgiving",
-    "link": "https://nypost.com/2025/11/24/us-news/flooding-rain-and-severe-storms-soak-texas-as-record-breaking-thanksgiving-travel-gets-underway/",
-    "source": "nypost",
-    "pubdate": "2025-11-24-15-43-30 +0000"
-  },
-  {
-    "headline": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria",
-    "link": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-15-42-38 +0000"
-  },
-  {
-    "headline": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria",
-    "link": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-15-42-38 +0000"
-  },
-  {
-    "headline": "‘Slender Man’ stabber Morgan Geyser told cops to ‘just Google’ her when she was busted for escaping group home",
-    "link": "https://nypost.com/2025/11/24/us-news/woman-42-busted-with-slender-man-stabber-morgan-geyser-after-pair-captured-in-illinois/",
-    "source": "nypost",
-    "pubdate": "2025-11-24-15-40-02 +0000"
-  },
-  {
-    "headline": "U.S. Natural Gas Futures Start Week Lower",
-    "link": "https://www.wsj.com/articles/european-gas-price-drops-on-ample-supplies-ukraine-russia-peace-talk-prospects-98eac9ed?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-24-15-26-00 +0000"
-  },
-  {
     "headline": "Witness exposes unusual tactics used to prop up mortgage fraud cases",
     "link": "https://www.washingtonpost.com/business/2025/11/24/schiff-pulte-bish-mortgage-fraud/",
     "source": "wapo",
@@ -738,12 +978,6 @@
     "pubdate": "2025-11-24-15-09-51 +0000"
   },
   {
-    "headline": "Trump touts GOP unity while slamming Marjorie Taylor Greene, Thomas Massie and Rand Paul",
-    "link": "https://nypost.com/2025/11/24/us-news/trump-touts-gop-unity-while-slamming-mtg-thomas-massie-and-rand-paul/",
-    "source": "nypost",
-    "pubdate": "2025-11-24-15-09-51 +0000"
-  },
-  {
     "headline": "Bolsonaro’s Arrest Exposes Limits to Trump’s Power",
     "link": "https://www.nytimes.com/2025/11/24/world/americas/trump-bolsonaro-arrest.html",
     "source": "nyt",
@@ -754,12 +988,6 @@
     "link": "https://www.nytimes.com/2025/11/24/world/americas/trump-bolsonaro-arrest.html",
     "source": "nyt",
     "pubdate": "2025-11-24-15-08-28 +0000"
-  },
-  {
-    "headline": "Marjorie Taylor Greene’s Resignation Hints at Divisions in Trump’s Movement",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-trump-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-15-02-33 +0000"
   },
   {
     "headline": "Kohl’s Names New CEO in Bid to Move Past Leadership Scandal",
@@ -786,24 +1014,6 @@
     "pubdate": "2025-11-24-14-45-38 +0000"
   },
   {
-    "headline": "Trump hints ‘something good may just be happening’ in Ukraine peace talks",
-    "link": "https://nypost.com/2025/11/24/us-news/president-trump-hints-something-good-just-may-be-happening-in-ukraine-peace-talks/",
-    "source": "nypost",
-    "pubdate": "2025-11-24-14-45-38 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani thrilled by good luck message from soccer legend Ian Wright: ‘I love this man’",
-    "link": "https://nypost.com/2025/11/24/us-news/nyc-mayor-elect-zohran-mamdani-thrilled-by-good-luck-message-from-soccer-legend-ian-wright-i-love-this-man/",
-    "source": "nypost",
-    "pubdate": "2025-11-24-14-34-07 +0000"
-  },
-  {
-    "headline": "Gunman shot dead by cops after killing their police K-9, Spike, who ‘made the ultimate sacrifice’",
-    "link": "https://nypost.com/2025/11/24/us-news/gunman-shot-dead-by-cops-after-killing-their-police-k-9/",
-    "source": "nypost",
-    "pubdate": "2025-11-24-14-30-23 +0000"
-  },
-  {
     "headline": "Treasury Yield Curve Flattens to Start the Week",
     "link": "https://www.wsj.com/articles/treasurys-steady-as-fed-outlook-uncertain-thanksgiving-approaches-79bf1652?mod=rss_markets_main",
     "source": "wsj",
@@ -813,19 +1023,13 @@
     "headline": "Images From Vietnam’s Year of Deadly Wet Weather",
     "link": "https://www.nytimes.com/2025/11/24/world/asia/vietnam-flooding-typhoon-emergency.html",
     "source": "nyt",
-    "pubdate": "2025-11-24-14-10-14 +0000"
+    "pubdate": "2025-11-24-14-10-15 +0000"
   },
   {
     "headline": "Images From Vietnam’s Year of Deadly Wet Weather",
     "link": "https://www.nytimes.com/2025/11/24/world/asia/vietnam-flooding-typhoon-emergency.html",
     "source": "nyt",
-    "pubdate": "2025-11-24-14-10-14 +0000"
-  },
-  {
-    "headline": "Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home",
-    "link": "https://www.startribune.com/wisconsin-woman-in-2014-slender-man-stabbing-is-found-a-day-after-walking-away-from-group-home/601532755",
-    "source": "startribune",
-    "pubdate": "2025-11-24-14-09-05 +0000"
+    "pubdate": "2025-11-24-14-10-15 +0000"
   },
   {
     "headline": "Small firms reeling after U.S. Transportation Department guts diversity subcontractor program",
@@ -942,6 +1146,12 @@
     "pubdate": "2025-11-24-12-35-53 +0000"
   },
   {
+    "headline": "5 tasty insider tips for plotting the best Mall of America shopping day",
+    "link": "https://www.startribune.com/best-food-tips-tricks-deals-mall-of-america-food-coffee-drinks-happy-hour/601516341",
+    "source": "startribune",
+    "pubdate": "2025-11-24-12-30-00 +0000"
+  },
+  {
     "headline": "Democracy Is in Trouble. This Region Is Turning to Its People.",
     "link": "https://www.nytimes.com/2025/11/23/world/europe/belgium-citizen-democracy-ostbelgien-model.html",
     "source": "nyt",
@@ -972,12 +1182,6 @@
     "pubdate": "2025-11-24-12-11-19 +0000"
   },
   {
-    "headline": "Ukraine 'coalition of the willing' set to meet after confusion, dissension over peace plan",
-    "link": "https://www.cbc.ca/news/world/suisse-geneva-ukraine-us-russia-war-talks-9.6989924?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-11-24-12-05-14 +0000"
-  },
-  {
     "headline": "And then there were three: The race to succeed Nancy Pelosi takes shape",
     "link": "https://missionlocal.org/2025/11/nancy-pelosi-scott-wiener-connie-chan-saikat-chakrabarti/",
     "source": "missionlocal",
@@ -996,8 +1200,8 @@
     "pubdate": "2025-11-24-12-00-00 +0000"
   },
   {
-    "headline": "The price of Minneapolis architectural marvel brings hope in tough market",
-    "link": "https://www.startribune.com/north-star-insider-the-price-of-minneapolis-architectural-marvel-brings-hope-in-tough-market/601530880",
+    "headline": "Pitch-A-Friend Twin Cities wants you to be the wingmate",
+    "link": "https://www.startribune.com/state-of-dating-pitch-a-friend-twin-cities/601523276",
     "source": "startribune",
     "pubdate": "2025-11-24-12-00-00 +0000"
   },
@@ -1128,12 +1332,6 @@
     "pubdate": "2025-11-24-11-00-00 +0000"
   },
   {
-    "headline": "Brown: With money flowing and change afoot, Minnesota’s iron industry must modernize or die",
-    "link": "https://www.startribune.com/mn-iron-range-mining-economic-troubles/601531052",
-    "source": "startribune",
-    "pubdate": "2025-11-24-10-59-00 +0000"
-  },
-  {
     "headline": "‘Slender Man’ attacker captured after cutting off GPS bracelet to escape",
     "link": "https://www.washingtonpost.com/nation/2025/11/24/morgan-geyser-slender-man/",
     "source": "wapo",
@@ -1154,18 +1352,6 @@
   {
     "headline": "Goodwill Thrift Shops Are Getting More Glamorous",
     "link": "https://www.wsj.com/real-estate/commercial/goodwill-design-sales-thrift-store-e2f5f2b3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-24-10-30-00 +0000"
-  },
-  {
-    "headline": "Tucker Carlson Is Joining the Gold Rush",
-    "link": "https://www.wsj.com/finance/commodities-futures/tucker-carlson-gold-company-a9dea0eb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-24-10-30-00 +0000"
-  },
-  {
-    "headline": "Tucker Carlson Is Joining the Gold Rush",
-    "link": "https://www.wsj.com/finance/commodities-futures/tucker-carlson-gold-company-a9dea0eb?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-24-10-30-00 +0000"
   },
@@ -1239,13 +1425,13 @@
     "headline": "Malaysia to Ban Children Under 16 From Social Media, Echoing Australia",
     "link": "https://www.nytimes.com/2025/11/24/world/asia/malaysia-social-media-ban.html",
     "source": "nyt",
-    "pubdate": "2025-11-24-10-01-54 +0000"
+    "pubdate": "2025-11-24-10-01-55 +0000"
   },
   {
     "headline": "Malaysia to Ban Children Under 16 From Social Media, Echoing Australia",
     "link": "https://www.nytimes.com/2025/11/24/world/asia/malaysia-social-media-ban.html",
     "source": "nyt",
-    "pubdate": "2025-11-24-10-01-54 +0000"
+    "pubdate": "2025-11-24-10-01-55 +0000"
   },
   {
     "headline": "Before Berlin’s Cowboys Are Booted Off Their Land, One Final Hoedown",
@@ -1314,7 +1500,7 @@
     "pubdate": "2025-11-24-10-00-19 +0000"
   },
   {
-    "headline": "What the S&P 500 is hiding about the economy",
+    "headline": "The ‘S&P 493’ reveals a very different U.S. economy",
     "link": "https://www.washingtonpost.com/business/2025/11/24/sp500-stock-market-tech-nvidia/",
     "source": "wapo",
     "pubdate": "2025-11-24-10-00-00 +0000"
@@ -1446,12 +1632,6 @@
     "pubdate": "2025-11-24-06-36-22 +0000"
   },
   {
-    "headline": "Morgan Geyser, Convicted in ‘Slender Man’ Stabbing, Is Captured After Fleeing",
-    "link": "https://www.nytimes.com/2025/11/23/us/morgan-geyser-missing-slenderman-stabbing.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-06-12-53 +0000"
-  },
-  {
     "headline": "Trump’s tariffs are pushing Canada closer to China and India",
     "link": "https://www.washingtonpost.com/world/2025/11/24/canada-tariffs-trade-diversification/",
     "source": "wapo",
@@ -1564,12 +1744,6 @@
     "link": "https://48hills.org/2025/11/its-the-citys-fault-that-a-rare-earthquake-shack-has-been-destroyed/",
     "source": "48hills",
     "pubdate": "2025-11-24-01-53-48 +0000"
-  },
-  {
-    "headline": "F.B.I. Letters Send Shivers Through California’s Political Inner Circle",
-    "link": "https://www.nytimes.com/2025/11/23/us/california-fbi-state-capitol-corruption.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-01-48-35 +0000"
   },
   {
     "headline": "Lee Tamahori, Director of Film Voted New Zealand’s Best, Dies at 75",
@@ -1836,12 +2010,6 @@
     "pubdate": "2025-11-23-20-37-00 +0000"
   },
   {
-    "headline": "Opinion | Israel Proves the Danger of an ‘Independent’ Justice System",
-    "link": "https://www.wsj.com/opinion/israel-proves-the-danger-of-an-independent-justice-system-6ba3efbe",
-    "source": "wsj",
-    "pubdate": "2025-11-23-20-37-00 +0000"
-  },
-  {
     "headline": "Minister denies Budget leaks have damaged economy",
     "link": "https://www.bbc.com/news/articles/clykvql14r7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1960,12 +2128,6 @@
     "link": "https://www.bbc.com/sport/rugby-union/articles/cm289ldgvgmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-23-18-25-10 +0000"
-  },
-  {
-    "headline": "Opinion | Harvard Has Its Own Cure for Grade Inflation",
-    "link": "https://www.wsj.com/opinion/harvard-has-its-own-cure-for-grade-inflation-standards-law-school-d0bcb3ae",
-    "source": "wsj",
-    "pubdate": "2025-11-23-18-25-00 +0000"
   },
   {
     "headline": "Opinion | Ruth Deserved His $80,000",
@@ -2280,12 +2442,6 @@
     "pubdate": "2025-11-23-12-00-00 +0000"
   },
   {
-    "headline": "While President Trump and New York Mayor-elect Zohran Mamdani both campaigned on affordability, the issue is amorphous and poorly defined, WSJ’s @greg_ip writes",
-    "link": "https://www.wsj.com/economy/everyone-is-talking-about-the-affordability-crisis-it-cant-be-solved-c3d37a39",
-    "source": "wsj",
-    "pubdate": "2025-11-23-12-00-00 +0000"
-  },
-  {
     "headline": "Rail fares to be frozen in England next year",
     "link": "https://www.bbc.com/news/articles/cwygx71g3n7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2316,14 +2472,14 @@
     "pubdate": "2025-11-23-11-00-00 +0000"
   },
   {
-    "headline": "How one California school district tackled chronic absenteeism, suspensions",
-    "link": "https://www.latimes.com/california/story/2025-11-23/la-me-school-district-suspension-edsource",
+    "headline": "One California city's idea to tackle the housing crisis: Take the stairs",
+    "link": "https://www.latimes.com/california/story/2025-11-23/one-california-citys-idea-to-tackle-housing-crisis-take-stairs",
     "source": "latimes",
     "pubdate": "2025-11-23-11-00-00 +0000"
   },
   {
-    "headline": "One California city's idea to tackle the housing crisis: Take the stairs",
-    "link": "https://www.latimes.com/california/story/2025-11-23/one-california-citys-idea-to-tackle-housing-crisis-take-stairs",
+    "headline": "How one California school district tackled chronic absenteeism, suspensions",
+    "link": "https://www.latimes.com/california/story/2025-11-23/la-me-school-district-suspension-edsource",
     "source": "latimes",
     "pubdate": "2025-11-23-11-00-00 +0000"
   },
@@ -2416,12 +2572,6 @@
     "link": "https://www.nytimes.com/2025/11/23/us/politics/fact-check-trump-affordability.html",
     "source": "nyt",
     "pubdate": "2025-11-23-10-01-46 +0000"
-  },
-  {
-    "headline": "Why Republicans Are Fighting About the Nazis",
-    "link": "https://www.nytimes.com/2025/11/23/us/politics/republicans-antisemitism-carlson-fuentes-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-11-23-10-00-59 +0000"
   },
   {
     "headline": "Why Republicans Are Fighting About the Nazis",
@@ -2556,12 +2706,6 @@
     "pubdate": "2025-11-23-05-54-32 +0000"
   },
   {
-    "headline": "Canadian cop admits targeting dozens of women for intimate relationship using police databases",
-    "link": "https://nypost.com/2025/11/23/world-news/cop-admits-to-targeting-30-women-for-relationships-using-police-databases/",
-    "source": "nypost",
-    "pubdate": "2025-11-23-05-23-55 +0000"
-  },
-  {
     "headline": "Ward Landrigan, Jeweler to the Stars, Dies at 84",
     "link": "https://www.nytimes.com/2025/11/20/fashion/ward-landrigan-dead.html",
     "source": "nyt",
@@ -2628,12 +2772,6 @@
     "pubdate": "2025-11-23-03-40-04 +0000"
   },
   {
-    "headline": "Marco Rubio told US senators that Ukraine peace plan was not America’s — but a ‘leaked’ Russian ‘wish list’",
-    "link": "https://nypost.com/2025/11/22/world-news/marco-rubio-told-us-senators-that-ukraine-peace-plan-was-not-americas-but-a-russian-wish-list/",
-    "source": "nypost",
-    "pubdate": "2025-11-23-03-38-58 +0000"
-  },
-  {
     "headline": "Trump Says Ukraine Peace Plan Isn’t Final After Criticism It Favors Russia",
     "link": "https://www.wsj.com/politics/policy/trump-says-ukraine-peace-plan-isnt-final-after-criticism-it-favors-russia-d0b1de5f",
     "source": "wsj",
@@ -2680,12 +2818,6 @@
     "link": "https://www.wsj.com/us-news/trump-renews-calls-for-federal-intervention-in-chicago-after-deadly-shooting-d35e7f16",
     "source": "wsj",
     "pubdate": "2025-11-23-02-13-00 +0000"
-  },
-  {
-    "headline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-11-23-02-01-02 +0000"
   },
   {
     "headline": "The CPA and the Lawyer Who Served Jeffrey Epstein—and Control His Fortune and Secrets",
@@ -2826,12 +2958,6 @@
     "pubdate": "2025-11-22-23-48-53 +0000"
   },
   {
-    "headline": "Trump’s threat to revoke immigration protections alarms Minnesota’s Somali community",
-    "link": "https://www.startribune.com/minnesota-somali-community-panic-alarm-response-trump-temporary-protected-status-tps/601531756",
-    "source": "startribune",
-    "pubdate": "2025-11-22-23-21-33 +0000"
-  },
-  {
     "headline": "UN climate talks fail to secure new fossil fuel promises",
     "link": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2874,12 +3000,6 @@
     "pubdate": "2025-11-22-21-55-44 +0000"
   },
   {
-    "headline": "After Russian Strike on Apartment Buildings, Ukraine’s Hope for Survivors Fades",
-    "link": "https://www.nytimes.com/2025/11/22/world/europe/russia-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-21-55-44 +0000"
-  },
-  {
     "headline": "NYPD Commissioner Jessica Tisch apologizes to famed synagogue’s congregants for botched response to antisemitic protest",
     "link": "https://nypost.com/2025/11/22/us-news/nypd-commissioner-jessica-tisch-apologizes-to-famed-synagogues-congregants-for-botched-response-to-antisemitic-protest/",
     "source": "nypost",
@@ -2890,12 +3010,6 @@
     "link": "https://www.latimes.com/california/story/2025-11-22/woman-fatally-shot-in-parked-car-in-northridge",
     "source": "latimes",
     "pubdate": "2025-11-22-21-42-03 +0000"
-  },
-  {
-    "headline": "Abortion Is Once Again Illegal in North Dakota",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/abortion-illegal-north-dakota.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-21-36-01 +0000"
   },
   {
     "headline": "Drones sightings halt air traffic near Dutch city of Eindhoven",
@@ -2952,12 +3066,6 @@
     "pubdate": "2025-11-22-20-04-18 +0000"
   },
   {
-    "headline": "In the House, Censures Proliferate, Reflecting a Poisonous Climate",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/house-censures.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-20-00-13 +0000"
-  },
-  {
     "headline": "President Trump said Friday he was immediately ending temporary immigration protections for a group of Somalis living in Minnesota, the latest in his mass deportation push",
     "link": "https://www.wsj.com/politics/policy/trump-says-he-is-ending-temporary-immigration-protections-for-somalis-in-minnesota-28d900f2",
     "source": "wsj",
@@ -2986,12 +3094,6 @@
     "link": "https://missionlocal.org/2025/11/sf-lurie-district-4-new-selection-process/",
     "source": "missionlocal",
     "pubdate": "2025-11-22-19-10-32 +0000"
-  },
-  {
-    "headline": "FAA warns pilots to ‘exercise caution’ over Venezuela, citing escalating tensions",
-    "link": "https://www.washingtonpost.com/national-security/2025/11/22/faa-venezuela-warning-flights/",
-    "source": "wapo",
-    "pubdate": "2025-11-22-19-03-00 +0000"
   },
   {
     "headline": "20 Killed in Israeli Strikes as Israel and Hamas Trade Blame Over Truce",
@@ -3066,12 +3168,6 @@
     "pubdate": "2025-11-22-16-39-20 +0000"
   },
   {
-    "headline": "Canada Post and union reach deal in principle to end strike",
-    "link": "https://www.bbc.com/news/articles/cvgkeyl78rwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-22-16-33-16 +0000"
-  },
-  {
     "headline": "‘Antisemitic’ activist Linda Sarsour: Mamdani mayoral win shows hating Israel can ‘send you to City Hall’",
     "link": "https://nypost.com/2025/11/22/us-news/antisemitic-activist-linda-sarsour-mamdani-mayoral-win-shows-hating-israel-can-send-you-to-city-hall/",
     "source": "nypost",
@@ -3118,12 +3214,6 @@
     "link": "https://www.wsj.com/business/media/owner-of-u-k-s-daily-mail-nears-deal-to-buy-rival-daily-telegraph-b8661d63?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-22-15-12-00 +0000"
-  },
-  {
-    "headline": "U.S. and Ukrainian Officials to Meet Again on U.S. Peace Plan",
-    "link": "https://www.nytimes.com/2025/11/22/us/politics/us-ukraine-peace-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-22-15-05-19 +0000"
   },
   {
     "headline": "U.S. and Ukrainian Officials to Meet Again on U.S. Peace Plan",
@@ -3264,14 +3354,8 @@
     "pubdate": "2025-11-22-11-00-07 +0000"
   },
   {
-    "headline": "LAFD records show no sign of 'cold trailing' again at Lachman fire, as interim chief had claimed",
-    "link": "https://www.latimes.com/california/story/2025-11-22/lafd-records-show-no-sign-of-cold-trailing-again-at-lachman-fire-as-interim-chief-had-claimed",
-    "source": "latimes",
-    "pubdate": "2025-11-22-11-00-00 +0000"
-  },
-  {
-    "headline": "Santa Monica to pay $350,000 to family of displaced Black entrepreneur as part of larger reparations effort",
-    "link": "https://www.latimes.com/california/story/2025-11-22/santa-monica-to-pay-350-000-to-family-of-displaced-black-entrepreneur",
+    "headline": "An L.A. man was detained in an immigration raid. No one knows where he is",
+    "link": "https://www.latimes.com/politics/story/2025-11-22/la-man-was-detained-in-immigration-raid-no-one-knows-where-he-is",
     "source": "latimes",
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
@@ -3282,8 +3366,14 @@
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
   {
-    "headline": "An L.A. man was detained in an immigration raid. No one knows where he is",
-    "link": "https://www.latimes.com/politics/story/2025-11-22/la-man-was-detained-in-immigration-raid-no-one-knows-where-he-is",
+    "headline": "Santa Monica to pay $350,000 to family of displaced Black entrepreneur as part of larger reparations effort",
+    "link": "https://www.latimes.com/california/story/2025-11-22/santa-monica-to-pay-350-000-to-family-of-displaced-black-entrepreneur",
+    "source": "latimes",
+    "pubdate": "2025-11-22-11-00-00 +0000"
+  },
+  {
+    "headline": "LAFD records show no sign of 'cold trailing' again at Lachman fire, as interim chief had claimed",
+    "link": "https://www.latimes.com/california/story/2025-11-22/lafd-records-show-no-sign-of-cold-trailing-again-at-lachman-fire-as-interim-chief-had-claimed",
     "source": "latimes",
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
@@ -3822,12 +3912,6 @@
     "pubdate": "2025-11-21-21-15-30 +0000"
   },
   {
-    "headline": "Tesla sued over crash of Model 3 that ‘exploded into a raging fire,’ killing 1",
-    "link": "https://nypost.com/2025/11/21/business/tesla-sued-over-crash-of-model-3-that-exploded-into-a-raging-fire-killing-1/",
-    "source": "nypost",
-    "pubdate": "2025-11-21-21-10-15 +0000"
-  },
-  {
     "headline": "Opinion | If the BBC Wants to Save Itself, Here’s an Idea",
     "link": "https://www.wsj.com/opinion/if-the-bbc-wants-to-save-itself-heres-an-idea-aitken-trump-editing-4e1ab5c2?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -3888,12 +3972,6 @@
     "pubdate": "2025-11-21-20-02-34 +0000"
   },
   {
-    "headline": "European Leaders Back Zelensky After Trump’s Russia-Ukraine Peace Plan Excludes Them",
-    "link": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-trump-peace-plan.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-20-01-54 +0000"
-  },
-  {
     "headline": "Former Reform U.K. Politician Sent to Prison for Taking Pro-Russia Bribes",
     "link": "https://www.nytimes.com/2025/11/21/world/europe/reform-uk-nathan-gill-russia-bribes.html",
     "source": "nyt",
@@ -3916,12 +3994,6 @@
     "link": "https://www.bbc.com/news/articles/cg5m8qdl6n9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-21-19-24-14 +0000"
-  },
-  {
-    "headline": "Online vendors selling pennies for $1,500 after final coins are minted: Is it a scam?",
-    "link": "https://nypost.com/2025/11/21/business/online-vendors-sell-pennies-for-1500-after-final-coins-are-minted-but-is-it-a-scam/",
-    "source": "nypost",
-    "pubdate": "2025-11-21-19-17-53 +0000"
   },
   {
     "headline": "Jamie Dimon Threw King Charles a Birthday Party",
@@ -3952,12 +4024,6 @@
     "link": "https://www.nytimes.com/2025/11/21/business/fed-interest-rates-inflation-jobs.html",
     "source": "nyt",
     "pubdate": "2025-11-21-18-58-06 +0000"
-  },
-  {
-    "headline": "PETA urges Gwyneth Paltrow’s Goop to stop using fur from cute angora rabbits subjected to ‘unending hell’ in Chinese factories",
-    "link": "https://nypost.com/2025/11/21/business/peta-urges-gwyneth-paltrows-goop-to-stop-using-fur-from-cute-angora-rabbits-subjected-to-unending-hell-in-chinese-factories/",
-    "source": "nypost",
-    "pubdate": "2025-11-21-18-44-59 +0000"
   },
   {
     "headline": "Gove apologises after Covid report alleges 'toxic' culture",
@@ -4000,12 +4066,6 @@
     "link": "https://www.bbc.com/news/articles/cwyp4gvn1v4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-21-18-00-21 +0000"
-  },
-  {
-    "headline": "AI chatbot Grok calls Elon Musk fitter than LeBron James, smart as Isaac Newton — and the world’s greatest lover",
-    "link": "https://nypost.com/2025/11/21/business/elon-musks-ai-chatbot-grok-compares-him-to-lebron-james/",
-    "source": "nypost",
-    "pubdate": "2025-11-21-17-58-12 +0000"
   },
   {
     "headline": "A New Antidote for Youth Loneliness: Sharing Data About the Kindness of Others",
@@ -4224,6 +4284,12 @@
     "pubdate": "2025-11-21-13-57-06 +0000"
   },
   {
+    "headline": "Carney wraps U.A.E. visit with pledge of $70B to be invested in Canada",
+    "link": "https://www.cbc.ca/news/politics/mark-carney-uae-investment-pledge-9.6987466?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-21-13-51-16 +0000"
+  },
+  {
     "headline": "Nathan Gill gives 'no comment' interview after arrest",
     "link": "https://www.bbc.com/news/videos/ckgkw790ee8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4326,6 +4392,18 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
+    "headline": "L.A. County seeks to slash funding for some homeless services amid budget trouble",
+    "link": "https://www.latimes.com/california/story/2025-11-21/la-county-seeks-to-slash-funding-for-some-homeless-services-amid-budget-trouble",
+    "source": "latimes",
+    "pubdate": "2025-11-21-11-00-00 +0000"
+  },
+  {
+    "headline": "Six mental healthcare recommendations for and by L.A.'s Thai community",
+    "link": "https://www.latimes.com/california/story/2025-11-21/six-mental-healthcare-recommendations-for-and-by-la-thai-community",
+    "source": "latimes",
+    "pubdate": "2025-11-21-11-00-00 +0000"
+  },
+  {
     "headline": "Voices from L.A. Thai community on mental health",
     "link": "https://www.latimes.com/california/story/2025-11-21/voices-from-l-a-thai-community-on-mental-health",
     "source": "latimes",
@@ -4334,12 +4412,6 @@
   {
     "headline": "L.A.'s famous 'Hobbit Houses' have a new owner. He calls himself the 'King of Storybook'",
     "link": "https://www.latimes.com/california/story/2025-11-21/hobbit-house-story",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "Six mental healthcare recommendations for and by L.A.'s Thai community",
-    "link": "https://www.latimes.com/california/story/2025-11-21/six-mental-healthcare-recommendations-for-and-by-la-thai-community",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -4358,12 +4430,6 @@
   {
     "headline": "'They come in with their silence': How stigma and limited access to mental healthcare affect L.A.'s Thai community",
     "link": "https://www.latimes.com/california/story/2025-11-21/how-stigma-and-limited-access-to-mental-healthcare-impact-l-a-s-thai-community",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "L.A. County seeks to slash funding for some homeless services amid budget trouble",
-    "link": "https://www.latimes.com/california/story/2025-11-21/la-county-seeks-to-slash-funding-for-some-homeless-services-amid-budget-trouble",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -4398,8 +4464,8 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: The UC faculty just won a big court victory over Trump. But why didn't UC join their lawsuit?",
-    "link": "https://www.latimes.com/business/story/2025-11-21/uc-faculty-just-won-big-court-victory-over-trump-but-why-didnt-uc-itself-join-the-case",
+    "headline": "Is AI making some people delusional? Families and experts are worried",
+    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -4410,8 +4476,8 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Is AI making some people delusional? Families and experts are worried",
-    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
+    "headline": "Hiltzik: The UC faculty just won a big court victory over Trump. But why didn't UC join their lawsuit?",
+    "link": "https://www.latimes.com/business/story/2025-11-21/uc-faculty-just-won-big-court-victory-over-trump-but-why-didnt-uc-itself-join-the-case",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -4474,12 +4540,6 @@
     "link": "https://www.bbc.com/news/articles/crl9rn9d63xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-21-10-07-19 +0000"
-  },
-  {
-    "headline": "Why ‘Surveillance Pricing’ Strikes a Nerve",
-    "link": "https://www.nytimes.com/2025/11/21/business/why-surveillance-pricing-strikes-a-nerve.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-10-01-35 +0000"
   },
   {
     "headline": "Europe Must Look Inward to Drive Growth, ECB’s Lagarde Says",
@@ -5238,14 +5298,14 @@
     "pubdate": "2025-11-20-11-02-00 +0000"
   },
   {
-    "headline": "Housing Tracker: Southern California home values rise slightly in October",
-    "link": "https://www.latimes.com/california/story/2025-11-20/housing-tracker-southern-california-home-values-rise-slightly-in-october",
+    "headline": "Lopez: On RFK's 100th birthday, the Koreatown memorial honoring his legacy is a neglected mess",
+    "link": "https://www.latimes.com/california/story/2025-11-20/on-rfks-100th-birthday-koreatown-memorial-honoring-his-legacy-is-neglected-mess",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Lopez: On RFK's 100th birthday, the Koreatown memorial honoring his legacy is a neglected mess",
-    "link": "https://www.latimes.com/california/story/2025-11-20/on-rfks-100th-birthday-koreatown-memorial-honoring-his-legacy-is-neglected-mess",
+    "headline": "Housing Tracker: Southern California home values rise slightly in October",
+    "link": "https://www.latimes.com/california/story/2025-11-20/housing-tracker-southern-california-home-values-rise-slightly-in-october",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -5262,8 +5322,8 @@
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Southern California storm forecast worsens as flood watch is issued: Here's what to expect",
-    "link": "https://www.latimes.com/california/story/2025-11-20/more-rain-heading-for-los-angeles-as-parade-of-socal-storms-continues",
+    "headline": "Higher pay approved for Cal State executives as system struggles to recruit campus presidents",
+    "link": "https://www.latimes.com/california/story/2025-11-20/csu-trustees-approve-new-executive-compensation-that-lifts-salary-caps",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -5274,20 +5334,8 @@
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Higher pay approved for Cal State executives as system struggles to recruit campus presidents",
-    "link": "https://www.latimes.com/california/story/2025-11-20/csu-trustees-approve-new-executive-compensation-that-lifts-salary-caps",
-    "source": "latimes",
-    "pubdate": "2025-11-20-11-00-00 +0000"
-  },
-  {
-    "headline": "California's child farmworkers: Exhausted, underpaid and toiling in toxic fields",
-    "link": "https://www.latimes.com/california/story/2025-11-20/children-farmworkers-california-little-oversight-from-state",
-    "source": "latimes",
-    "pubdate": "2025-11-20-11-00-00 +0000"
-  },
-  {
-    "headline": "Lax oversight, few inspections leave child farmworkers exposed to toxic pesticides",
-    "link": "https://www.latimes.com/california/story/2025-11-20/child-farmworkers-toxic-pesticides-exposure",
+    "headline": "Southern California storm forecast worsens as flood watch is issued: Here's what to expect",
+    "link": "https://www.latimes.com/california/story/2025-11-20/more-rain-heading-for-los-angeles-as-parade-of-socal-storms-continues",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -5304,14 +5352,20 @@
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Smashed windows, threats and $800 a month: Witness details L.A. County gang extortion",
-    "link": "https://www.latimes.com/california/story/2025-11-20/witness-testimony-pomona-gang-extortion-charges",
+    "headline": "Lax oversight, few inspections leave child farmworkers exposed to toxic pesticides",
+    "link": "https://www.latimes.com/california/story/2025-11-20/child-farmworkers-toxic-pesticides-exposure",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Warner Bros. auction poised to recast Hollywood with Paramount, Comcast and Netflix vying for the prize",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-20/warner-bros-selling-company-paramount-comcast-netflix-what-to-know",
+    "headline": "California's child farmworkers: Exhausted, underpaid and toiling in toxic fields",
+    "link": "https://www.latimes.com/california/story/2025-11-20/children-farmworkers-california-little-oversight-from-state",
+    "source": "latimes",
+    "pubdate": "2025-11-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Smashed windows, threats and $800 a month: Witness details L.A. County gang extortion",
+    "link": "https://www.latimes.com/california/story/2025-11-20/witness-testimony-pomona-gang-extortion-charges",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -5328,8 +5382,14 @@
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "As Elon Musk plans a robot army, China's humanoid bots are already on the market",
-    "link": "https://www.latimes.com/business/story/2025-11-20/chinas-humanoid-robot-army-is-already-outgrowing-americas",
+    "headline": "Warner Bros. auction poised to recast Hollywood with Paramount, Comcast and Netflix vying for the prize",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-20/warner-bros-selling-company-paramount-comcast-netflix-what-to-know",
+    "source": "latimes",
+    "pubdate": "2025-11-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Lax oversight, few inspections leave child farmworkers exposed to toxic pesticides",
+    "link": "https://www.latimes.com/california/story/2025-11-20/child-farmworkers-toxic-pesticides-exposure",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -5340,8 +5400,8 @@
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Lax oversight, few inspections leave child farmworkers exposed to toxic pesticides",
-    "link": "https://www.latimes.com/california/story/2025-11-20/child-farmworkers-toxic-pesticides-exposure",
+    "headline": "As Elon Musk plans a robot army, China's humanoid bots are already on the market",
+    "link": "https://www.latimes.com/business/story/2025-11-20/chinas-humanoid-robot-army-is-already-outgrowing-americas",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -5356,18 +5416,6 @@
     "link": "https://www.wsj.com/finance/the-golden-handcuffs-are-off-private-equity-employees-leave-for-smaller-firms-375573c6?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-20-10-30-00 +0000"
-  },
-  {
-    "headline": "Ex-Mayor Is Sentenced to Life for Human Trafficking Tied to Scam Centers",
-    "link": "https://www.nytimes.com/2025/11/20/world/asia/alice-guo-life-sentence-philippines.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-10-22-15 +0000"
-  },
-  {
-    "headline": "Help! My Rental Car Died Within a Mile, and Avis Charged Me $1,367.",
-    "link": "https://www.nytimes.com/2025/11/20/travel/avis-rental-car-repair-charges.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-10-01-04 +0000"
   },
   {
     "headline": "Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy",
@@ -5766,12 +5814,6 @@
     "pubdate": "2025-11-19-19-46-00 +0000"
   },
   {
-    "headline": "New York Police Commissioner Jessica Tisch to Stay in Post Under Mamdani",
-    "link": "https://www.wsj.com/us-news/new-york-police-commissioner-jessica-tisch-to-stay-in-post-under-mamdani-3dba53b6",
-    "source": "wsj",
-    "pubdate": "2025-11-19-19-32-00 +0000"
-  },
-  {
     "headline": "Mistrial declared in case of ex-Whittier officer charged with shooting unarmed man in back",
     "link": "https://www.latimes.com/california/story/2025-11-19/whittier-police-officer-salvador-murillo-mistrial",
     "source": "latimes",
@@ -5878,12 +5920,6 @@
     "link": "https://www.bbc.com/news/articles/cz7p7j83rn1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-19-15-53-52 +0000"
-  },
-  {
-    "headline": "Score a free pass to new movie ‘Hamnet’!",
-    "link": "https://48hills.org/2025/11/score-a-free-pass-to-new-movie-hamnet/",
-    "source": "48hills",
-    "pubdate": "2025-11-19-15-37-19 +0000"
   },
   {
     "headline": "'We did it!': Countries celebrate World Cup qualification",
@@ -6366,12 +6402,6 @@
     "pubdate": "2025-11-18-12-50-26 +0000"
   },
   {
-    "headline": "She started out at the Roosevelt Tamale Parlor. She’s back with a new album.",
-    "link": "https://missionlocal.org/2025/11/sf-diana-gameros-volver-a-la-luz/",
-    "source": "missionlocal",
-    "pubdate": "2025-11-18-12-00-00 +0000"
-  },
-  {
     "headline": "'Not fair' how South Africa are treated, says coach",
     "link": "https://www.bbc.com/sport/rugby-union/articles/cvgv248klyyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -6408,14 +6438,14 @@
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: The Trump administration's math on economic policy doesn't add up",
-    "link": "https://www.latimes.com/business/story/2025-11-18/hiltzik-trump-manipulates-math-inflation-healthcare-mortgages",
+    "headline": "Why this California Democrat broke with his party to end the government shutdown",
+    "link": "https://www.latimes.com/politics/story/2025-11-18/california-democrat-broke-with-party-to-end-government-shutdown-his-vote-tells-broader-story",
     "source": "latimes",
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
   {
-    "headline": "Why this California Democrat broke with his party to end the government shutdown",
-    "link": "https://www.latimes.com/politics/story/2025-11-18/california-democrat-broke-with-party-to-end-government-shutdown-his-vote-tells-broader-story",
+    "headline": "Hiltzik: The Trump administration's math on economic policy doesn't add up",
+    "link": "https://www.latimes.com/business/story/2025-11-18/hiltzik-trump-manipulates-math-inflation-healthcare-mortgages",
     "source": "latimes",
     "pubdate": "2025-11-18-11-00-00 +0000"
   },
