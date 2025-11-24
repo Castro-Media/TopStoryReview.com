@@ -1,38 +1,38 @@
 [
   {
-    "score": 468,
+    "score": 467,
     "pubdate": "2025-11-23-14-38-13 +0000",
     "source": "nypost",
     "headline": "Trump slams Ukraine’s lack of ‘gratitude’ in wake of White House-backed peace plan to end war with Russia",
     "link": "https://nypost.com/2025/11/23/us-news/trump-slams-ukraines-lack-of-gratitude-in-wake-of-white-house-backed-peace-plan-to-end-war-with-russia/"
   },
   {
-    "score": 236,
+    "score": 235,
     "pubdate": "2025-11-22-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said this week he expects lower interest rates once he can install a new Fed chair in May, but rising opposition to a December rate cut inside the central bank suggests he might not get his way",
     "link": "https://www.wsj.com/economy/central-banking/fed-divisions-show-powell-isnt-trumps-biggest-hurdle-to-a-rate-cut-87d88968"
   },
   {
-    "score": 117,
-    "pubdate": "2025-11-24-11-39-26 +0000",
+    "score": 107,
+    "pubdate": "2025-11-23-22-31-51 +0000",
     "source": "nypost",
-    "headline": "Erika Kirk reveals she prayed she was pregnant when her husband, Charlie, was assassinated",
-    "link": "https://nypost.com/2025/11/24/us-news/erika-kirk-reveals-she-prayed-she-was-pregnant-when-her-husband-charlie-was-assassinated/"
+    "headline": "Canada’s prime minister says trade talks with US will resume ‘when appropriate’",
+    "link": "https://nypost.com/2025/11/23/business/canadas-prime-minister-says-trade-talks-with-us-will-resume-when-appropriate/"
   },
   {
-    "score": 100,
-    "pubdate": "2025-11-23-02-12-42 +0000",
-    "source": "nypost",
-    "headline": "Trump’s Gaza cease-fire on the brink as Hamas, Israel trade blame for truce violations",
-    "link": "https://nypost.com/2025/11/22/world-news/trumps-gaza-cease-fire-on-the-brink-as-hamas-israel-trade-blame-for-truce-violations/"
-  },
-  {
-    "score": 98,
-    "pubdate": "2025-11-24-17-00-00 +0000",
+    "score": 105,
+    "pubdate": "2025-11-24-18-33-00 +0000",
     "source": "wsj",
-    "headline": "Marjorie Taylor Greene’s resignation after crossing President Trump on the Epstein files underscores the dilemma other Republicans face",
-    "link": "https://www.wsj.com/politics/policy/marjorie-taylor-greene-resignation-trump-party-73503622"
+    "headline": "President Trump’s advisers are discussing a proposal to head off sharp increases in health-insurance costs for millions of Americans next year, the explosive issue at the heart of the recent government shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-advisers-discuss-options-for-new-healthcare-proposal-9e285af2"
+  },
+  {
+    "score": 99,
+    "pubdate": "2025-11-22-01-18-00 +0000",
+    "source": "wsj",
+    "headline": "Texas asked the Supreme Court to let it use a redistricted congressional map that was blocked by a lower court and that would potentially help Republicans gain as many as five House seats",
+    "link": "https://www.wsj.com/politics/elections/texas-asks-supreme-court-to-let-it-use-new-congressional-map-bf56f6b3"
   },
   {
     "score": 95,
@@ -42,14 +42,21 @@
     "link": "https://www.latimes.com/california/story/2025-11-20/race-for-california-governor-continues-to-heat-up-with-trump-critic-rep-eric-swalwell-jumping-in"
   },
   {
-    "score": 89,
-    "pubdate": "2025-11-19-02-36-00 +0000",
-    "source": "wsj",
-    "headline": "Trump said the Saudi crown prince “knew nothing about” the 2018 murder of Washington Post journalist Jamal Khashoggi, though the CIA at the time assessed that the royal orchestrated the killing",
-    "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
+    "score": 93,
+    "pubdate": "2025-11-24-17-49-48 +0000",
+    "source": "nypost",
+    "headline": "Judge dismisses cases against ex-FBI Director James Comey, NY AG Tish James",
+    "link": "https://nypost.com/2025/11/24/us-news/judge-dismisses-cases-against-ex-fbi-director-james-comey-ny-ag-tish-james/"
   },
   {
-    "score": 88,
+    "score": 93,
+    "pubdate": "2025-11-23-14-27-45 +0000",
+    "source": "cbc",
+    "headline": "Israel strikes Lebanon's capital killing top Hezbollah official, despite ceasefire",
+    "link": "https://www.cbc.ca/news/world/israel-strike-hezbollah-beirut-9.6989505?cmp=rss"
+  },
+  {
+    "score": 86,
     "pubdate": "2025-11-20-13-19-42 +0000",
     "source": "nyt",
     "headline": "Delayed Jobs Data to Give Snapshot of a Labor Market Under Stress",
@@ -57,16 +64,9 @@
   },
   {
     "score": 86,
-    "pubdate": "2025-11-24-17-49-48 +0000",
-    "source": "nypost",
-    "headline": "Judge dismisses cases against ex-FBI Director James Comey, NY AG Tish James",
-    "link": "https://nypost.com/2025/11/24/us-news/judge-dismisses-cases-against-ex-fbi-director-james-comey-ny-ag-tish-james/"
-  },
-  {
-    "score": 86,
-    "pubdate": "2025-11-23-20-13-21 +0000",
-    "source": "wapo",
-    "headline": "Israeli strike on Beirut kills top Hezbollah military official",
-    "link": "https://www.washingtonpost.com/world/2025/11/23/israel-strike-beirut-hezbollah-tabatabai/"
+    "pubdate": "2025-11-24-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "Marjorie Taylor Greene’s resignation after crossing President Trump on the Epstein files underscores the dilemma other Republicans face",
+    "link": "https://www.wsj.com/politics/policy/marjorie-taylor-greene-resignation-trump-party-73503622"
   }
 ]
