@@ -1,72 +1,72 @@
 [
   {
-    "score": 150,
+    "score": 159,
     "pubdate": "2025-11-24-07-31-06 +0000",
     "source": "nyt",
     "headline": "Ukraine, U.S. Meet About Trump’s Peace Plan to End War With Russia",
     "link": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html"
   },
   {
+    "score": 61,
+    "pubdate": "2025-11-24-18-14-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon said it is probing allegations of misconduct against Sen. Mark Kelly, a retired Navy captain, after he appeared in a video urging troops to disobey unlawful orders",
+    "link": "https://www.wsj.com/politics/mark-kelly-senator-pentagon-probe-10060a16"
+  },
+  {
     "score": 52,
-    "pubdate": "2025-11-24-17-17-45 +0000",
-    "source": "nyt",
-    "headline": "Namibia’s New Minister of Health and Social Services Reimagines Health Care",
-    "link": "https://www.nytimes.com/2025/11/24/world/africa/esperance-luvindao-namibia-health-care.html"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-11-24-17-49-48 +0000",
-    "source": "nypost",
-    "headline": "Judge dismisses cases against ex-FBI Director James Comey, NY AG Tish James",
-    "link": "https://nypost.com/2025/11/24/us-news/judge-dismisses-cases-against-ex-fbi-director-james-comey-ny-ag-tish-james/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-11-23-19-31-39 +0000",
-    "source": "bbc",
-    "headline": "Israel kills top Hezbollah official in first attack on Beirut in months",
-    "link": "https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-11-24-11-58-48 +0000",
-    "source": "nypost",
-    "headline": "Outgoing Rep. Marjorie Taylor Greene shoots down talk of 2028 White House run",
-    "link": "https://nypost.com/2025/11/24/us-news/outgoing-rep-marjorie-taylor-greene-shoots-down-talk-of-2028-white-house-run/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-11-24-17-36-56 +0000",
-    "source": "nypost",
-    "headline": "RFK Jr. claims he tried to keep Trump from warning pregnant women off Tylenol: ‘There’s nuance to it’",
-    "link": "https://nypost.com/2025/11/24/us-news/rfk-jr-claims-he-tried-to-keep-trump-from-warning-pregnant-women-off-tylenol-theres-nuance-to-it/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-11-24-15-40-02 +0000",
-    "source": "nypost",
-    "headline": "‘Slender Man’ stabber Morgan Geyser told cops to ‘just Google’ her when she was busted for escaping group home",
-    "link": "https://nypost.com/2025/11/24/us-news/woman-42-busted-with-slender-man-stabber-morgan-geyser-after-pair-captured-in-illinois/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-11-24-16-05-13 +0000",
-    "source": "nyt",
-    "headline": "Jamil Abdullah Al-Amin, Black Power Activist Known as H. Rap Brown, Dies at 82",
-    "link": "https://www.nytimes.com/2025/11/23/us/h-rap-brown-dead.html"
-  },
-  {
-    "score": 34,
     "pubdate": "2025-11-23-22-31-51 +0000",
     "source": "nypost",
     "headline": "Canada’s prime minister says trade talks with US will resume ‘when appropriate’",
     "link": "https://nypost.com/2025/11/23/business/canadas-prime-minister-says-trade-talks-with-us-will-resume-when-appropriate/"
   },
   {
-    "score": 33,
-    "pubdate": "2025-11-24-17-06-34 +0000",
+    "score": 47,
+    "pubdate": "2025-11-24-18-33-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s advisers are discussing a proposal to head off sharp increases in health-insurance costs for millions of Americans next year, the explosive issue at the heart of the recent government shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-advisers-discuss-options-for-new-healthcare-proposal-9e285af2"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-11-24-17-49-48 +0000",
+    "source": "nypost",
+    "headline": "Judge dismisses cases against ex-FBI Director James Comey, NY AG Tish James",
+    "link": "https://nypost.com/2025/11/24/us-news/judge-dismisses-cases-against-ex-fbi-director-james-comey-ny-ag-tish-james/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-11-24-18-03-20 +0000",
     "source": "nyt",
-    "headline": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
-    "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html"
+    "headline": "Jamil Abdullah Al-Amin, Black Power Activist Known as H. Rap Brown, Dies at 82",
+    "link": "https://www.nytimes.com/2025/11/23/us/h-rap-brown-dead.html"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-11-24-17-18-40 +0000",
+    "source": "nyt",
+    "headline": "Roya Mahboob Seeks New Ways to Educate Afghan Girls Under Taliban Rule",
+    "link": "https://www.nytimes.com/2025/11/24/world/asia/roya-mahboob-afghanistan-technology-girls.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-11-24-15-40-02 +0000",
+    "source": "nypost",
+    "headline": "‘Slender Man’ stabber Morgan Geyser told cops to ‘just Google’ her when she was busted for escaping group home",
+    "link": "https://nypost.com/2025/11/24/us-news/woman-42-busted-with-slender-man-stabber-morgan-geyser-after-pair-captured-in-illinois/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-11-24-11-58-48 +0000",
+    "source": "nypost",
+    "headline": "Outgoing Rep. Marjorie Taylor Greene shoots down talk of 2028 White House run",
+    "link": "https://nypost.com/2025/11/24/us-news/outgoing-rep-marjorie-taylor-greene-shoots-down-talk-of-2028-white-house-run/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-11-24-00-19-18 +0000",
+    "source": "bbc",
+    "headline": "Chinese land, US radar and ties to Taiwan: The geopolitics rattling a tiny Pacific nation",
+    "link": "https://www.bbc.com/news/articles/cql9lkv5y7zo?at_medium=RSS&at_campaign=rss"
   }
 ]
