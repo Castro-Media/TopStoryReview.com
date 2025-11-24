@@ -7,7 +7,7 @@
     "link": "https://nypost.com/2025/11/23/us-news/trump-slams-ukraines-lack-of-gratitude-in-wake-of-white-house-backed-peace-plan-to-end-war-with-russia/"
   },
   {
-    "score": 235,
+    "score": 237,
     "pubdate": "2025-11-22-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said this week he expects lower interest rates once he can install a new Fed chair in May, but rising opposition to a December rate cut inside the central bank suggests he might not get his way",
@@ -35,11 +35,18 @@
     "link": "https://www.latimes.com/california/story/2025-11-20/race-for-california-governor-continues-to-heat-up-with-trump-critic-rep-eric-swalwell-jumping-in"
   },
   {
-    "score": 102,
+    "score": 101,
     "pubdate": "2025-11-23-19-31-39 +0000",
     "source": "bbc",
     "headline": "Israel kills top Hezbollah official in first attack on Beirut in months",
     "link": "https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 93,
+    "pubdate": "2025-11-23-00-05-30 +0000",
+    "source": "nypost",
+    "headline": "Ukrainian military shares video of wild strikes against Russian assets in Crimea",
+    "link": "https://nypost.com/2025/11/22/world-news/ukrainian-military-shares-video-of-wild-strikes-against-russian-assets-in-crimea/"
   },
   {
     "score": 92,
@@ -49,14 +56,7 @@
     "link": "https://www.cbc.ca/news/canada/canada-carney-china-tariffs-xi-9.6986876?cmp=rss"
   },
   {
-    "score": 92,
-    "pubdate": "2025-11-23-00-05-30 +0000",
-    "source": "nypost",
-    "headline": "Ukrainian military shares video of wild strikes against Russian assets in Crimea",
-    "link": "https://nypost.com/2025/11/22/world-news/ukrainian-military-shares-video-of-wild-strikes-against-russian-assets-in-crimea/"
-  },
-  {
-    "score": 87,
+    "score": 88,
     "pubdate": "2025-11-22-15-51-00 +0000",
     "source": "wsj",
     "headline": "Republican Marjorie Taylor Greene, who fought publicly with President Trump in recent months, says she will resign from Congress in January",
@@ -64,9 +64,9 @@
   },
   {
     "score": 86,
-    "pubdate": "2025-11-19-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "Can Chinese-Made Buses Be Hacked? Norway Drove One Down a Mine to Find Out",
-    "link": "https://www.wsj.com/business/can-chinese-made-buses-be-hacked-norway-drove-one-down-a-mine-to-find-out-fbda755f"
+    "pubdate": "2025-11-20-22-37-38 +0000",
+    "source": "latimes",
+    "headline": "Driver charged with murder in crash that killed 13-year-old; he had two previous DUI convictions",
+    "link": "https://www.latimes.com/california/story/2025-11-20/driver-suspected-of-dui-in-death-of-13-year-old-boy-had-2-drunk-driving-convictions"
   }
 ]
