@@ -1,20 +1,27 @@
 [
   {
-    "score": 413,
+    "score": 398,
     "pubdate": "2025-11-22-01-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump said this week he expects lower interest rates once he can install a new Fed chair in May, but rising opposition to a December rate cut inside the central bank suggests he might not get his way",
     "link": "https://www.wsj.com/economy/central-banking/fed-divisions-show-powell-isnt-trumps-biggest-hurdle-to-a-rate-cut-87d88968"
   },
   {
-    "score": 326,
+    "score": 324,
     "pubdate": "2025-11-25-03-24-31 +0000",
     "source": "nypost",
     "headline": "Initial Ukraine-Russia peace plan was hashed out over dinners in Miami –  Rubio was unaware of ‘full scope’ until the day draft leaked: report",
     "link": "https://nypost.com/2025/11/24/us-news/initial-ukraine-russia-peace-plan-was-hashed-out-over-dinners-in-miami-report/"
   },
   {
-    "score": 107,
+    "score": 108,
+    "pubdate": "2025-11-25-07-36-00 +0000",
+    "source": "wsj",
+    "headline": "Army Secretary Dan Driscoll met with a Russian delegation in Abu Dhabi on Monday and Tuesday, a sign that negotiations to end the Ukraine war are in a new phase with direct talks with the Russians",
+    "link": "https://www.wsj.com/world/europe/top-army-official-meets-russians-in-u-a-e-signaling-new-phase-in-peace-talks-c72f0bf1"
+  },
+  {
+    "score": 106,
     "pubdate": "2025-11-24-18-33-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s advisers are discussing a proposal to head off sharp increases in health-insurance costs for millions of Americans next year, an issue at the heart of the recent government shutdown",
@@ -22,51 +29,44 @@
   },
   {
     "score": 104,
-    "pubdate": "2025-11-23-22-31-51 +0000",
-    "source": "nypost",
-    "headline": "Canada’s prime minister says trade talks with US will resume ‘when appropriate’",
-    "link": "https://nypost.com/2025/11/23/business/canadas-prime-minister-says-trade-talks-with-us-will-resume-when-appropriate/"
+    "pubdate": "2025-11-25-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Speaker Mike Johnson cautioned the White House that most House Republicans don’t have an appetite for extending enhanced Affordable Care Act subsidies",
+    "link": "https://www.wsj.com/politics/policy/speaker-johnson-flashes-red-on-trumps-healthcare-push-11b70dd5"
   },
   {
-    "score": 103,
+    "score": 101,
     "pubdate": "2025-11-21-05-35-00 +0000",
     "source": "latimes",
     "headline": "Race for California governor continues to heat up, with Trump critic Rep. Eric Swalwell jumping in",
     "link": "https://www.latimes.com/california/story/2025-11-20/race-for-california-governor-continues-to-heat-up-with-trump-critic-rep-eric-swalwell-jumping-in"
   },
   {
-    "score": 97,
+    "score": 100,
+    "pubdate": "2025-11-23-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "3 ways Canada and China can reset their relations in Trump's new trade world",
+    "link": "https://www.cbc.ca/news/canada/canada-carney-china-tariffs-xi-9.6986876?cmp=rss"
+  },
+  {
+    "score": 94,
     "pubdate": "2025-11-24-17-49-48 +0000",
     "source": "nypost",
     "headline": "Judge dismisses cases against ex-FBI Director James Comey, NY AG Tish James",
     "link": "https://nypost.com/2025/11/24/us-news/judge-dismisses-cases-against-ex-fbi-director-james-comey-ny-ag-tish-james/"
   },
   {
-    "score": 93,
-    "pubdate": "2025-11-22-01-18-00 +0000",
-    "source": "wsj",
-    "headline": "Texas asked the Supreme Court to let it use a redistricted congressional map that was blocked by a lower court and that would potentially help Republicans gain as many as five House seats",
-    "link": "https://www.wsj.com/politics/elections/texas-asks-supreme-court-to-let-it-use-new-congressional-map-bf56f6b3"
-  },
-  {
     "score": 89,
-    "pubdate": "2025-11-19-02-36-00 +0000",
-    "source": "wsj",
-    "headline": "Trump said the Saudi crown prince “knew nothing about” the 2018 murder of Washington Post journalist Jamal Khashoggi, though the CIA at the time assessed that the royal orchestrated the killing",
-    "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
-  },
-  {
-    "score": 87,
     "pubdate": "2025-11-20-14-18-22 +0000",
     "source": "nyt",
     "headline": "Israeli Strikes Kill at Least 25 in Gaza Amid Cease-Fire, Officials Say",
     "link": "https://www.nytimes.com/2025/11/19/world/middleeast/israeli-strikes-gaza-deaths.html"
   },
   {
-    "score": 81,
-    "pubdate": "2025-11-23-19-31-39 +0000",
-    "source": "bbc",
-    "headline": "Israel kills top Hezbollah official in first attack on Beirut in months",
-    "link": "https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss"
+    "score": 88,
+    "pubdate": "2025-11-19-02-36-00 +0000",
+    "source": "wsj",
+    "headline": "Trump said the Saudi crown prince “knew nothing about” the 2018 murder of Washington Post journalist Jamal Khashoggi, though the CIA at the time assessed that the royal orchestrated the killing",
+    "link": "https://www.wsj.com/politics/national-security/trump-and-saudi-crown-prince-begin-visit-packed-with-deals-cc8266cf"
   }
 ]
