@@ -1,59 +1,66 @@
 [
   {
-    "score": 374,
+    "score": 367,
     "pubdate": "2025-11-20-02-14-00 +0000",
     "source": "wsj",
     "headline": "Trump Administration Pushes New Plan for Ending Ukraine War",
     "link": "https://www.wsj.com/world/trump-administration-pushes-new-plan-for-ending-ukraine-war-cade0ea1"
   },
   {
-    "score": 182,
+    "score": 179,
     "pubdate": "2025-11-25-03-24-31 +0000",
     "source": "nypost",
     "headline": "Initial Ukraine-Russia peace plan was hashed out over dinners in Miami –  Rubio was unaware of ‘full scope’ until the day draft leaked: report",
     "link": "https://nypost.com/2025/11/24/us-news/initial-ukraine-russia-peace-plan-was-hashed-out-over-dinners-in-miami-report/"
   },
   {
-    "score": 136,
+    "score": 141,
     "pubdate": "2025-11-24-18-33-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s advisers are discussing a proposal to head off sharp increases in health-insurance costs for millions of Americans next year, an issue at the heart of the recent government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-advisers-discuss-options-for-new-healthcare-proposal-9e285af2"
   },
   {
-    "score": 113,
+    "score": 124,
+    "pubdate": "2025-11-26-02-54-56 +0000",
+    "source": "latimes",
+    "headline": "California cop allegedly stole cash from motorists he stopped. He now faces felony charges",
+    "link": "https://www.latimes.com/california/story/2025-11-25/california-cop-allegedly-stole-cash-from-motorists-he-stopped-he-now-faces-felony-charges"
+  },
+  {
+    "score": 111,
+    "pubdate": "2025-11-26-00-59-00 +0000",
+    "source": "wsj",
+    "headline": "Speaker Mike Johnson cautioned the White House that most House Republicans don’t have an appetite for extending enhanced Affordable Care Act subsidies",
+    "link": "https://www.wsj.com/politics/policy/speaker-johnson-flashes-red-on-trumps-healthcare-push-11b70dd5"
+  },
+  {
+    "score": 110,
     "pubdate": "2025-11-25-20-34-00 +0000",
     "source": "wsj",
     "headline": "Washington, D.C., Mayor Muriel Bowser will leave her office when her current term expires",
     "link": "https://www.wsj.com/politics/elections/d-c-mayor-muriel-bowser-not-running-for-re-election-ebc8181e"
   },
   {
-    "score": 108,
-    "pubdate": "2025-11-21-05-35-00 +0000",
-    "source": "latimes",
-    "headline": "Race for California governor continues to heat up, with Trump critic Rep. Eric Swalwell jumping in",
-    "link": "https://www.latimes.com/california/story/2025-11-20/race-for-california-governor-continues-to-heat-up-with-trump-critic-rep-eric-swalwell-jumping-in"
-  },
-  {
-    "score": 104,
-    "pubdate": "2025-11-26-01-45-00 +0000",
-    "source": "wsj",
-    "headline": "The White House is defending special envoy Steve Witkoff over a reportedly leaked conversation in which he coached a Putin aide on dealing with President Trump on Ukraine",
-    "link": "https://www.wsj.com/politics/policy/white-house-defends-witkoff-after-leak-of-conversation-with-russian-official-dbd3b1e2"
-  },
-  {
-    "score": 99,
+    "score": 94,
     "pubdate": "2025-11-22-20-39-00 +0000",
     "source": "wsj",
     "headline": "Boston Fed President says she sees no strong need for another interest-rate cut next month, underscoring the challenge that Fed Chair Jerome Powell faces in building consensus",
     "link": "https://www.wsj.com/economy/central-banking/fed-susan-collins-remarks-9c9324db"
   },
   {
-    "score": 79,
-    "pubdate": "2025-11-22-01-18-00 +0000",
-    "source": "wsj",
-    "headline": "Texas asked the Supreme Court to let it use a redistricted congressional map that was blocked by a lower court and that would potentially help Republicans gain as many as five House seats",
-    "link": "https://www.wsj.com/politics/elections/texas-asks-supreme-court-to-let-it-use-new-congressional-map-bf56f6b3"
+    "score": 89,
+    "pubdate": "2025-11-25-23-56-25 +0000",
+    "source": "nypost",
+    "headline": "HP to slash up to 6,000 jobs in big restructuring — latest tech company to pivot to AI",
+    "link": "https://nypost.com/2025/11/25/business/hp-to-slash-up-to-6000-jobs-latest-tech-company-to-pivot-to-ai/"
+  },
+  {
+    "score": 78,
+    "pubdate": "2025-11-26-00-15-35 +0000",
+    "source": "nypost",
+    "headline": "Trump’s Truth Social post on Ukraine surprises Zelensky’s chief aide pushing for Mar-a-Lago peace deal",
+    "link": "https://nypost.com/2025/11/25/world-news/trumps-truth-social-post-dashes-hopes-of-zelenskys-aide-pushing-for-mar-a-lago-peace-deal/"
   },
   {
     "score": 78,
@@ -61,12 +68,5 @@
     "source": "latimes",
     "headline": "Can you survive a wildfire sheltering at home? For one community, L.A. County Fire says it may be the only option",
     "link": "https://www.latimes.com/environment/story/2025-11-24/la-county-fire-topanga-shelter-in-place-plan"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-11-26-00-09-20 +0000",
-    "source": "nypost",
-    "headline": "Football coach Travis Turner is just latest staffer at small Virginia high school charged with child sex crimes",
-    "link": "https://nypost.com/2025/11/25/us-news/coach-travis-turner-is-latest-staffer-at-virginia-school-charged-with-child-sex-crimes/"
   }
 ]
