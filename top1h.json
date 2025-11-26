@@ -1,16 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-11-26-10-54-39 +0000",
+    "score": 25,
+    "pubdate": "2025-11-26-12-57-06 +0000",
     "source": "bbc",
-    "headline": "Bolsonaro ordered to start serving 27-year prison sentence for Brazil coup plot",
-    "link": "https://www.bbc.com/news/articles/cr4dl19npv5o?at_medium=RSS&at_campaign=rss"
+    "headline": "Electric vehicle owners to face pay-per-mile tax",
+    "link": "https://www.bbc.com/news/articles/c8jw9l7gx92o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-26-13-05-26 +0000",
+    "source": "bbc",
+    "headline": "Budget 2025: Key points at a glance",
+    "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-26-12-55-32 +0000",
+    "source": "bbc",
+    "headline": "UK economy growth forecasts lowered from next year",
+    "link": "https://www.bbc.com/news/articles/cg5m7mg8p59o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-26-12-25-58 +0000",
+    "source": "nyt",
+    "headline": "Jakarta Overtakes Tokyo as World’s Largest City, UN Report Says",
+    "link": "https://www.nytimes.com/2025/11/26/world/asia/worlds-largest-city-un-jakarta-indonesia.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-26-12-47-35 +0000",
+    "source": "nypost",
+    "headline": "Miami lawyer accused of knocking out elderly passenger on board Norwegian cruise",
+    "link": "https://nypost.com/2025/11/26/us-news/miami-lakes-attorney-accused-of-attacking-elderly-passenger-on-norwegian-cruise-line-ship/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-26-13-01-20 +0000",
+    "source": "bbc",
+    "headline": "Isas, cars and pensions - how the Budget affects you",
+    "link": "https://www.bbc.com/news/articles/c5y2g2qn0eyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 9,
-    "pubdate": "2025-11-26-10-54-05 +0000",
+    "pubdate": "2025-11-26-13-02-12 +0000",
+    "source": "startribune",
+    "headline": "Tough commute in store Wednesday as season’s first snowstorm begins winding down",
+    "link": "https://www.startribune.com/tough-commute-in-store-wednesday-as-seasons-first-snowstorm-begins-winding-down/601534308"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-26-12-56-34 +0000",
     "source": "bbc",
-    "headline": "Democrats who told troops to disobey illegal orders push back on alleged FBI probe",
-    "link": "https://www.bbc.com/news/articles/cze832dr2n0o?at_medium=RSS&at_campaign=rss"
+    "headline": "NYC 'diva' food influencer arrested for skipping out on restaurant bills",
+    "link": "https://www.bbc.com/news/articles/c2dzlyrndleo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-26-12-10-59 +0000",
+    "source": "wapo",
+    "headline": "Two hostages’ bodies remain in Gaza as another is returned to Israel",
+    "link": "https://www.washingtonpost.com/world/2025/10/14/hamas-gaza-israel-hostages-killed/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-26-12-46-36 +0000",
+    "source": "nypost",
+    "headline": "Man charged with killing 3 in Colorado Planned Parenthood shooting dies in federal custody",
+    "link": "https://nypost.com/2025/11/26/us-news/colorado-planned-parenthood-shooter-robert-dear-dies-in-missouri-federal-prison/"
   }
 ]
