@@ -1,17 +1,24 @@
 [
   {
-    "score": 170,
+    "score": 175,
     "pubdate": "2025-11-26-01-40-51 +0000",
     "source": "nypost",
     "headline": "Top Trump aide Steve Witkoff coached Russians how to win over US president with flattery during Ukraine peace talks: report",
     "link": "https://nypost.com/2025/11/25/world-news/top-trump-aide-coached-russians-how-to-win-over-trump-with-flattery-report/"
   },
   {
-    "score": 72,
+    "score": 73,
     "pubdate": "2025-11-25-22-29-15 +0000",
     "source": "bbc",
     "headline": "Bolsonaro ordered to start serving 27-year prison sentence for Brazil coup plot",
     "link": "https://www.bbc.com/news/articles/cr4dl19npv5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 68,
+    "pubdate": "2025-11-25-20-34-00 +0000",
+    "source": "wsj",
+    "headline": "Washington, D.C., Mayor Muriel Bowser will leave her office when her current term expires",
+    "link": "https://www.wsj.com/politics/elections/d-c-mayor-muriel-bowser-not-running-for-re-election-ebc8181e"
   },
   {
     "score": 66,
@@ -22,24 +29,17 @@
   },
   {
     "score": 62,
-    "pubdate": "2025-11-25-20-34-00 +0000",
-    "source": "wsj",
-    "headline": "Washington, D.C., Mayor Muriel Bowser will leave her office when her current term expires",
-    "link": "https://www.wsj.com/politics/elections/d-c-mayor-muriel-bowser-not-running-for-re-election-ebc8181e"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-11-25-16-09-36 +0000",
-    "source": "nypost",
-    "headline": "Ukraine peace plan expected to be rejected by Russia — likely extending war until after Christmas at minimum: sources",
-    "link": "https://nypost.com/2025/11/25/world-news/ukraine-peace-plan-expected-to-be-rejected-by-russia-likely-extending-war-until-after-christmas-at-minimum-sources/"
-  },
-  {
-    "score": 53,
     "pubdate": "2025-11-26-00-59-00 +0000",
     "source": "wsj",
     "headline": "Speaker Mike Johnson cautioned the White House that most House Republicans don’t have an appetite for extending enhanced Affordable Care Act subsidies",
     "link": "https://www.wsj.com/politics/policy/speaker-johnson-flashes-red-on-trumps-healthcare-push-11b70dd5"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-11-25-16-09-36 +0000",
+    "source": "nypost",
+    "headline": "Ukraine peace plan expected to be rejected by Russia — likely extending war until after Christmas at minimum: sources",
+    "link": "https://nypost.com/2025/11/25/world-news/ukraine-peace-plan-expected-to-be-rejected-by-russia-likely-extending-war-until-after-christmas-at-minimum-sources/"
   },
   {
     "score": 48,
@@ -49,7 +49,7 @@
     "link": "https://www.latimes.com/california/story/2025-11-25/california-cop-allegedly-stole-cash-from-motorists-he-stopped-he-now-faces-felony-charges"
   },
   {
-    "score": 44,
+    "score": 45,
     "pubdate": "2025-11-26-00-15-35 +0000",
     "source": "nypost",
     "headline": "Trump’s Truth Social post on Ukraine surprises Zelensky’s chief aide pushing for Mar-a-Lago peace deal",
@@ -63,7 +63,7 @@
     "link": "https://www.wsj.com/politics/policy/democratic-lawmakers-say-fbi-is-probing-them-over-calls-to-disobey-unlawful-orders-b6c7a951"
   },
   {
-    "score": 42,
+    "score": 43,
     "pubdate": "2025-11-25-23-56-25 +0000",
     "source": "nypost",
     "headline": "HP to slash up to 6,000 jobs in big restructuring — latest tech company to pivot to AI",
