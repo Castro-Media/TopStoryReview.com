@@ -1,51 +1,72 @@
 [
   {
-    "score": 23,
-    "pubdate": "2025-11-27-13-00-09 +0000",
-    "source": "nypost",
-    "headline": "Trump unveils new DC renovation project to remove ‘Biden filth and incompetence’",
-    "link": "https://nypost.com/2025/11/27/us-news/trump-reveals-plans-to-renovate-lincoln-memorial-reflecting-pool/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-11-27-12-55-45 +0000",
+    "score": 50,
+    "pubdate": "2025-11-27-15-48-58 +0000",
     "source": "wapo",
-    "headline": "D.C. shooting live updates: Trump orders more troops to D.C. after gunman critically wounds 2 Guard soldiers",
+    "headline": "D.C. shooting live updates: National Guard shooting suspect drove from Washington for attack, authorities say",
     "link": "https://www.washingtonpost.com/dc-md-va/2025/11/27/dc-shooting-national-guard-suspect-live-updates/"
   },
   {
-    "score": 8,
-    "pubdate": "2025-11-27-13-04-36 +0000",
+    "score": 48,
+    "pubdate": "2025-11-27-15-13-48 +0000",
     "source": "nyt",
-    "headline": "Pope Leo Visits Turkey on His First Trip as Pontiff",
-    "link": "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html"
+    "headline": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
+    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-survivors-escape.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-11-27-13-00-47 +0000",
-    "source": "wapo",
-    "headline": "I put a man in prison for life. We’re both proof that people can change.",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/11/26/prison-prosecutor-karen-mckinney-herrera/"
+    "score": 23,
+    "pubdate": "2025-11-27-15-04-12 +0000",
+    "source": "bbc",
+    "headline": "Pope Leo on first foreign trip says future of humanity at stake from conflict",
+    "link": "https://www.bbc.com/news/articles/cy5g3076lqzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2025-11-27-13-00-15 +0000",
-    "source": "wapo",
-    "headline": "Maduro’s ties to Turkey could smooth path to possible exile",
-    "link": "https://www.washingtonpost.com/national-security/2025/11/27/venezuela-turkey-maduro-erdogan-exile/"
+    "score": 17,
+    "pubdate": "2025-11-27-15-47-39 +0000",
+    "source": "nyt",
+    "headline": "Rocket Attack on Iraqi Gas Field Cuts Power to Most of Kurdistan",
+    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/rocket-attack-iraq-power-kurdistan.html"
   },
   {
-    "score": 5,
-    "pubdate": "2025-11-27-12-55-45 +0000",
+    "score": 17,
+    "pubdate": "2025-11-27-15-07-44 +0000",
+    "source": "bbc",
+    "headline": "General named new Guinea-Bissau leader a day after coup",
+    "link": "https://www.bbc.com/news/articles/cvg164nvj77o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-27-15-49-33 +0000",
+    "source": "nyt",
+    "headline": "Russia Labels Navalny’s Anti-Corruption Group as Terrorist Organization",
+    "link": "https://www.nytimes.com/2025/11/27/world/europe/russia-navalny-terrorist.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-27-15-24-00 +0000",
+    "source": "wsj",
+    "headline": "The Deadly Mix of Factors That Made a Hong Kong High-Rise Fire So Devastating",
+    "link": "https://www.wsj.com/world/asia/the-deadly-mix-of-factors-that-made-a-hong-kong-high-rise-fire-so-devastating-8a478821"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-27-15-05-26 +0000",
+    "source": "cbc",
+    "headline": "Immigration minister denies knowledge of U.S. diplomatic directive to get Canada, allies to lower immigration",
+    "link": "https://www.cbc.ca/news/politics/diplomatic-cable-trump-rubio-immigration-9.6994458?cmp=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-27-15-28-14 +0000",
+    "source": "cbc",
+    "headline": "Alberta to sign agreement with Carney government paving the way for oil pipeline through B.C.",
+    "link": "https://www.cbc.ca/news/politics/livestory/alberta-ottawa-memorandum-of-understanding-energy-deal-pipeline-bc-9.6993431?cmp=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-11-27-14-57-06 +0000",
     "source": "wapo",
-    "headline": "Trump attacks Biden’s migration policies following attack",
+    "headline": "FBI Director Kash Patel described the case as “an ongoing investigation of terrorism” but did not...",
     "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-11-27-13-00-09 +0000",
-    "source": "nypost",
-    "headline": "Trump unveils new DC renovation project to remove ‘Biden filth and incompetence’",
-    "link": "https://nypost.com/2025/11/27/us-news/trump-reveals-plans-to-renovate-lincoln-memorial-reflecting-pool/"
   }
 ]
