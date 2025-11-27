@@ -1,17 +1,24 @@
 [
   {
-    "score": 345,
+    "score": 342,
     "pubdate": "2025-11-20-02-32-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would meet with Zohran Mamdani at the White House on Friday at the New York mayor-elect’s request",
     "link": "https://www.wsj.com/politics/elections/trump-says-he-will-meet-with-mamdani-friday-at-the-white-house-9bef2528"
   },
   {
-    "score": 186,
+    "score": 185,
     "pubdate": "2025-11-24-10-14-25 +0000",
     "source": "bbc",
     "headline": "'No one will support it': Ukraine's soldiers react to US peace plan",
     "link": "https://www.bbc.com/news/articles/cp89e5gjykdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 135,
+    "pubdate": "2025-11-26-11-52-06 +0000",
+    "source": "nypost",
+    "headline": "Foreigners will have to pay extra $100 to enter most popular national parks next year, Trump administration announces",
+    "link": "https://nypost.com/2025/11/26/us-news/trump-admin-charging-national-park-foreigners-extra-100-to-visit/"
   },
   {
     "score": 134,
@@ -21,14 +28,7 @@
     "link": "https://nypost.com/2025/11/26/world-news/3-men-arrested-in-connection-to-horrific-hong-kong-fire-that-killed-at-least-36-as-hundreds-remain-missing/"
   },
   {
-    "score": 133,
-    "pubdate": "2025-11-26-11-52-06 +0000",
-    "source": "nypost",
-    "headline": "Foreigners will have to pay extra $100 to enter most popular national parks next year, Trump administration announces",
-    "link": "https://nypost.com/2025/11/26/us-news/trump-admin-charging-national-park-foreigners-extra-100-to-visit/"
-  },
-  {
-    "score": 121,
+    "score": 122,
     "pubdate": "2025-11-26-11-00-00 +0000",
     "source": "latimes",
     "headline": "Chabria: California's first partner pushes to regulate AI while Trump and tech bros thunder forward",
@@ -42,11 +42,18 @@
     "link": "https://www.wsj.com/politics/elections/texas-asks-supreme-court-to-let-it-use-new-congressional-map-bf56f6b3"
   },
   {
-    "score": 91,
-    "pubdate": "2025-11-26-20-33-00 +0000",
+    "score": 101,
+    "pubdate": "2025-11-27-02-00-00 +0000",
     "source": "wsj",
-    "headline": "The job market continues to sputter even as cost and price pressures persist, a Federal Reserve report found, underscoring the competing risks central bank officials will have to weigh next month",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-beige-book-2025-dcf6b740"
+    "headline": "Trump has enlisted JD Vance’s Yale classmate—Army Secretary Dan Driscoll—to handle high-stakes diplomacy in the Ukraine war peace talks",
+    "link": "https://www.wsj.com/politics/national-security/the-jd-vance-classmate-emerging-as-a-key-player-in-talks-to-end-the-ukraine-war-c894ea0e"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-11-27-00-00-43 +0000",
+    "source": "bbc",
+    "headline": "Nine ways the Budget could affect you if you're under 25",
+    "link": "https://www.bbc.com/news/articles/cn4dxmg7jyjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 90,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/politics/national-security/trump-after-call-with-chinas-xi-told-japan-to-lower-the-volume-on-taiwan-3af795d6"
   },
   {
-    "score": 88,
-    "pubdate": "2025-11-27-00-00-43 +0000",
-    "source": "bbc",
-    "headline": "Nine ways the Budget could affect you if you're under 25",
-    "link": "https://www.bbc.com/news/articles/cn4dxmg7jyjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 81,
-    "pubdate": "2025-11-26-23-28-27 +0000",
-    "source": "nyt",
-    "headline": "U.S. to Press Europe and Other Allies on Immigration, Document Says",
-    "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-rubio-mass-migration.html"
+    "score": 90,
+    "pubdate": "2025-11-26-20-33-00 +0000",
+    "source": "wsj",
+    "headline": "The job market continues to sputter even as cost and price pressures persist, a Federal Reserve report found, underscoring the competing risks central bank officials will have to weigh next month",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-beige-book-2025-dcf6b740"
   }
 ]
