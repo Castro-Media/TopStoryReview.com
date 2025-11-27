@@ -1,21 +1,219 @@
 [
   {
+    "headline": "Millions to pay more in tax as Reeves says Budget is tackling cost of living",
+    "link": "https://www.bbc.com/news/articles/c246npmq1n4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-27-05-47-11 +0000"
+  },
+  {
+    "headline": "Live Updates: Hong Kong Towers Still Smolder From Fire That Has Killed At Least 44",
+    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-39-06 +0000"
+  },
+  {
+    "headline": "What to Know About the Deadly Fire at a Hong Kong Apartment Complex",
+    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-39-04 +0000"
+  },
+  {
+    "headline": "What to Know About the Deadly Fire at a Hong Kong Apartment Complex",
+    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-39-04 +0000"
+  },
+  {
+    "headline": "An Asia-Pacific Showdown",
+    "link": "https://www.nytimes.com/2025/11/27/world/china-japan-trump-showdown-fire-riyadh.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-30-02 +0000"
+  },
+  {
+    "headline": "Vanke’s Bid to Delay Bond Payment Sparks Selloff in Chinese Developers",
+    "link": "https://www.wsj.com/world/china/vankes-bid-to-delay-bond-payment-sparks-selloff-in-chinese-developers-f4ccf484",
+    "source": "wsj",
+    "pubdate": "2025-11-27-05-21-00 +0000"
+  },
+  {
+    "headline": "Trump Orders 500 More National Guard Troops to D.C. After Shooting",
+    "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-national-guard-dc-shooting.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-19-29 +0000"
+  },
+  {
+    "headline": "Trump Orders 500 More National Guard Troops to D.C. After Shooting",
+    "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-national-guard-dc-shooting.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-19-29 +0000"
+  },
+  {
+    "headline": "Trump Administration Pauses Immigration From Afghanistan After D.C. Shooting",
+    "link": "https://www.nytimes.com/2025/11/27/us/trump-immigration-pause-afghanistan.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-19-28 +0000"
+  },
+  {
+    "headline": "Heading to the Mideast, Pope Leo May Show ‘Who He Really Is’",
+    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-leo-trip.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-15-14 +0000"
+  },
+  {
+    "headline": "Heading to the Mideast, Pope Leo May Show ‘Who He Really Is’",
+    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-leo-trip.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-15-14 +0000"
+  },
+  {
+    "headline": "Heading to the Mideast, Pope Leo May Show ‘Who He Really Is’",
+    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-leo-trip.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-05-15-14 +0000"
+  },
+  {
+    "headline": "Trump targets Somali community in Minnesota and Rep. Ilhan Omar in wake of National Guard shooting",
+    "link": "https://www.startribune.com/trump-says-lax-migration-policies-are-top-national-security-threat-after-national-guard-members-shot/601534759",
+    "source": "startribune",
+    "pubdate": "2025-11-27-05-08-01 +0000"
+  },
+  {
+    "headline": "Andrew Wolfe ID’d as one of two National Guard members shot in DC",
+    "link": "https://nypost.com/2025/11/27/us-news/one-of-two-national-guard-members-shot-in-dc-idd-as-andrew-wolfe/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-05-01-53 +0000"
+  },
+  {
+    "headline": "GOP lawmakers long warned of security risks of Biden-era Afghan resettlement program used by alleged National Guard shooter",
+    "link": "https://nypost.com/2025/11/26/us-news/gop-lawmakers-long-warned-of-security-risks-of-biden-era-afghan-resettlement-program-used-by-alleged-national-guard-shooter/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-04-58-40 +0000"
+  },
+  {
+    "headline": "GOP lawmakers long warned of security risks of Biden-era Afghan resettlement program used by alleged National Guard shooter",
+    "link": "https://nypost.com/2025/11/26/us-news/gop-lawmakers-long-warned-of-security-risks-of-biden-era-afghan-resettlement-program-used-by-alleged-national-guard-shooter/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-04-58-40 +0000"
+  },
+  {
+    "headline": "5 people on American Airlines flight hospitalized after ‘reports of odor’ diverts plane",
+    "link": "https://nypost.com/2025/11/26/us-news/5-people-on-american-airlines-flight-hospitalized-after-reports-of-odor-diverts-plane/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-04-54-45 +0000"
+  },
+  {
+    "headline": "Even the U.K. Prime Minister Can’t Resist ‘6-7’",
+    "link": "https://www.nytimes.com/2025/11/25/world/europe/keir-starmer-6-7-school-uk.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-52-24 +0000"
+  },
+  {
+    "headline": "Even the U.K. Prime Minister Can’t Resist ‘6-7’",
+    "link": "https://www.nytimes.com/2025/11/25/world/europe/keir-starmer-6-7-school-uk.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-52-24 +0000"
+  },
+  {
+    "headline": "Miroslaw Chojecki, Solidarity’s ‘Minister of Smuggling,’ Dies at 76",
+    "link": "https://www.nytimes.com/2025/11/26/world/europe/miroslaw-chojecki-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-37-07 +0000"
+  },
+  {
+    "headline": "Miroslaw Chojecki, Solidarity’s ‘Minister of Smuggling,’ Dies at 76",
+    "link": "https://www.nytimes.com/2025/11/26/world/europe/miroslaw-chojecki-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-37-07 +0000"
+  },
+  {
+    "headline": "Transportation Secretary Sean Duffy slams ‘fattening’ airport snacks: ‘Full of butter, sugar, and crap’",
+    "link": "https://nypost.com/2025/11/26/us-news/transportation-secretary-sean-duffy-slams-fattening-airport-snacks/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-04-27-20 +0000"
+  },
+  {
+    "headline": "What We Know About the National Guard Shooting in D.C. and the Suspect",
+    "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-26-18 +0000"
+  },
+  {
+    "headline": "What We Know About the National Guard Shooting in D.C. and the Suspect",
+    "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-26-18 +0000"
+  },
+  {
+    "headline": "Hong Kong Housing-Complex Fire Kills at Least 44; Three Men Are Arrested",
+    "link": "https://www.wsj.com/world/asia/hong-kong-fire-china-apartment-building-575f28ab",
+    "source": "wsj",
+    "pubdate": "2025-11-27-04-25-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire/hong-kong-fire-apartment-buildings",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-24-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire/hong-kong-fire-apartment-buildings",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-24-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire/hong-kong-fire-apartment-buildings",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-24-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/11/26/us/national-guard-shooting-dc/dc-shooting-national-guard",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-23-01 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/11/26/us/national-guard-shooting-dc/dc-shooting-national-guard",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-23-01 +0000"
+  },
+  {
+    "headline": "Mystery owner of 3-million-year-old fossilized foot in Africa ID’d: study",
+    "link": "https://nypost.com/2025/11/26/world-news/mystery-owner-of-3-4-million-year-old-foot-in-africa-identified-study/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-04-09-42 +0000"
+  },
+  {
+    "headline": "Trump Calls D.C. National Guard Shooting ‘Act of Terror’",
+    "link": "https://www.wsj.com/us-news/national-guard-shooting-washington-dc-b0b301ad",
+    "source": "wsj",
+    "pubdate": "2025-11-27-04-06-00 +0000"
+  },
+  {
+    "headline": "Trump Calls D.C. National Guard Shooting ‘Act of Terror’",
+    "link": "https://www.wsj.com/us-news/national-guard-shooting-washington-dc-b0b301ad",
+    "source": "wsj",
+    "pubdate": "2025-11-27-04-06-00 +0000"
+  },
+  {
+    "headline": "Before the Shooting, Some Troops and Officials Worried About the Guard’s Safety",
+    "link": "https://www.nytimes.com/2025/11/26/us/guard-troops-officials-worried-safety.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-04-03-54 +0000"
+  },
+  {
     "headline": "Two National Guard members in critical condition after shooting near White House",
     "link": "https://www.bbc.com/news/articles/c3r7qpqddnro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-27-03-57-18 +0000"
+    "pubdate": "2025-11-27-04-00-23 +0000"
   },
   {
-    "headline": "Live Updates: 3 Construction Officials Arrested in Fire That Killed 44 in Hong Kong",
-    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire",
-    "source": "nyt",
-    "pubdate": "2025-11-27-03-55-10 +0000"
-  },
-  {
-    "headline": "2 National Guard members shot in an ambush attack just blocks from the White House",
-    "link": "https://www.startribune.com/two-national-guard-members-shot-in-washington-dc-and-their-condition-isnt-known-ap-source-says/601534548",
-    "source": "startribune",
-    "pubdate": "2025-11-27-03-43-01 +0000"
+    "headline": "Asahi says 1.5 million customers' data leaked in cyber-attack",
+    "link": "https://www.bbc.com/news/articles/ce86n44178no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-27-03-41-46 +0000"
   },
   {
     "headline": "Asahi says 1.5 million customers' data leaked in cyber-attack",
@@ -34,18 +232,6 @@
     "link": "https://www.wsj.com/articles/boj-rate-hikes-must-proceed-with-caution-board-member-says-db8b63d8",
     "source": "wsj",
     "pubdate": "2025-11-27-03-16-00 +0000"
-  },
-  {
-    "headline": "Trump Calls D.C. National Guard Shooting ‘Act of Terror’",
-    "link": "https://www.wsj.com/us-news/national-guard-shooting-washington-dc-b0b301ad",
-    "source": "wsj",
-    "pubdate": "2025-11-27-03-13-00 +0000"
-  },
-  {
-    "headline": "Trump Calls D.C. National Guard Shooting ‘Act of Terror’",
-    "link": "https://www.wsj.com/us-news/national-guard-shooting-washington-dc-b0b301ad",
-    "source": "wsj",
-    "pubdate": "2025-11-27-03-13-00 +0000"
   },
   {
     "headline": "Hong Kong Arrests 3 Tied to Construction Company After Deadly Apartment Fire",
@@ -124,18 +310,6 @@
     "link": "https://www.wsj.com/finance/currencies/singapore-dollar-strengthens-slightly-amid-risk-on-sentiment-5d36ad0d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-27-02-43-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/11/26/us/national-guard-shooting-dc/dc-shooting-national-guard",
-    "source": "nyt",
-    "pubdate": "2025-11-27-02-41-13 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/11/26/us/national-guard-shooting-dc/dc-shooting-national-guard",
-    "source": "nyt",
-    "pubdate": "2025-11-27-02-41-13 +0000"
   },
   {
     "headline": "U.K. Budget Plan Calms Markets and Labour Faithful. Will It Appeal to Voters?",
@@ -354,24 +528,6 @@
     "pubdate": "2025-11-27-01-00-00 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire/hong-kong-fire-apartment-buildings",
-    "source": "nyt",
-    "pubdate": "2025-11-27-00-58-26 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire/hong-kong-fire-apartment-buildings",
-    "source": "nyt",
-    "pubdate": "2025-11-27-00-58-26 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire/hong-kong-fire-apartment-buildings",
-    "source": "nyt",
-    "pubdate": "2025-11-27-00-58-26 +0000"
-  },
-  {
     "headline": "DC National Guard shooting follows months of Democrats’ stoking fear about military ‘invasion’",
     "link": "https://nypost.com/2025/11/26/us-news/dc-national-guard-shooting-follows-months-of-democrats-stoking-fear-about-an-invasion/",
     "source": "nypost",
@@ -390,18 +546,6 @@
     "pubdate": "2025-11-27-00-53-15 +0000"
   },
   {
-    "headline": "What to Know About the Fire at a Hong Kong Apartment Complex",
-    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-00-52-39 +0000"
-  },
-  {
-    "headline": "What to Know About the Fire at a Hong Kong Apartment Complex",
-    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-00-52-39 +0000"
-  },
-  {
     "headline": "E-biking teens accused of violently assaulting Hermosa Beach man are arrested",
     "link": "https://www.latimes.com/california/story/2025-11-26/teens-on-e-bikes-arrested-hermosa-beach-assault",
     "source": "latimes",
@@ -418,18 +562,6 @@
     "link": "https://nypost.com/2025/11/26/us-news/san-francisco-woman-beaten-to-death-in-home-identified/",
     "source": "nypost",
     "pubdate": "2025-11-27-00-45-02 +0000"
-  },
-  {
-    "headline": "Trump Orders 500 More National Guard Troops to D.C. After Shooting",
-    "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-national-guard-dc-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-00-44-54 +0000"
-  },
-  {
-    "headline": "Trump Orders 500 More National Guard Troops to D.C. After Shooting",
-    "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-national-guard-dc-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-00-44-54 +0000"
   },
   {
     "headline": "Spot Gold Edges Higher on Fed Rate Cut Hopes",
@@ -624,12 +756,6 @@
     "pubdate": "2025-11-26-23-13-41 +0000"
   },
   {
-    "headline": "Here’s what Luigi Mangione, Sean ‘Diddy’ Combs, Ghislaine Maxwell and other celeb prisoners are set to be served for Thanksgiving",
-    "link": "https://nypost.com/2025/11/26/us-news/heres-what-luigi-mangione-sean-diddy-combs-ghislaine-maxwell-are-set-to-be-served-for-thanksgiving-behind-bars/",
-    "source": "nypost",
-    "pubdate": "2025-11-26-23-07-19 +0000"
-  },
-  {
     "headline": "Louis Plamondon honoured as MP with longest continuous service in Canadian history",
     "link": "https://www.cbc.ca/news/politics/louis-plamondon-honoured-for-long-service-9.6993439?cmp=rss",
     "source": "cbc",
@@ -682,18 +808,6 @@
     "link": "https://nypost.com/2025/11/26/us-news/house-dem-boasts-she-got-1m-in-fed-funding-for-long-island-firefighters-but-she-voted-against-it/",
     "source": "nypost",
     "pubdate": "2025-11-26-22-57-10 +0000"
-  },
-  {
-    "headline": "House Dem boasts she got $1M in fed funding for Long Island firefighters — but voted against it",
-    "link": "https://nypost.com/2025/11/26/us-news/house-dem-boasts-she-got-1m-in-fed-funding-for-long-island-firefighters-but-she-voted-against-it/",
-    "source": "nypost",
-    "pubdate": "2025-11-26-22-57-10 +0000"
-  },
-  {
-    "headline": "Thousands gather to watch new Macy’s Thanksgiving Day Parade balloons inflated – including Super Mario and Derpy of ‘K Pop Demon Hunters’",
-    "link": "https://nypost.com/2025/11/26/us-news/thousands-gather-to-watch-new-macys-thanksgiving-day-parade-balloons-inflated-including-nintendos-mario-derpy-of-k-pop-demon-hunters/",
-    "source": "nypost",
-    "pubdate": "2025-11-26-22-57-00 +0000"
   },
   {
     "headline": "Jimmy Kimmel reads New York Post cover story about himself for Vanity Fair photoshoot",
@@ -754,12 +868,6 @@
     "link": "https://www.nytimes.com/2025/11/26/world/canada/trump-carney-canada-tariffs-trade.html",
     "source": "nyt",
     "pubdate": "2025-11-26-22-44-59 +0000"
-  },
-  {
-    "headline": "MS NOW journalist blasted for live broadcast comments on National Guard shooting: ‘Insane take’",
-    "link": "https://nypost.com/2025/11/26/us-news/ms-now-journalist-ken-dilanian-blasted-for-live-broadcast-comments-on-national-guard-shooting-insane-take/",
-    "source": "nypost",
-    "pubdate": "2025-11-26-22-42-51 +0000"
   },
   {
     "headline": "Basketball player, 20, dies after college game",
@@ -906,12 +1014,6 @@
     "pubdate": "2025-11-26-21-51-17 +0000"
   },
   {
-    "headline": "Three Arrested in Hong Kong Housing Fire That Killed at Least 36",
-    "link": "https://www.wsj.com/world/asia/hong-kong-fire-china-apartment-building-575f28ab",
-    "source": "wsj",
-    "pubdate": "2025-11-26-21-47-00 +0000"
-  },
-  {
     "headline": "Disney’s ‘Zootopia 2’ Will Be a Test for Jared Bush",
     "link": "https://www.nytimes.com/2025/11/26/business/disney-zootopia-2-jared-bush.html",
     "source": "nyt",
@@ -972,12 +1074,6 @@
     "pubdate": "2025-11-26-21-23-00 +0000"
   },
   {
-    "headline": "Jury awards nearly $20 million for ‘botched’ Mayo surgery",
-    "link": "https://www.startribune.com/jury-awards-nearly-20-million-for-botched-mayo-surgery/601534533",
-    "source": "startribune",
-    "pubdate": "2025-11-26-21-20-39 +0000"
-  },
-  {
     "headline": "Extra time for peers to debate assisted dying",
     "link": "https://www.bbc.com/news/articles/cy8jy3vr38mo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -994,12 +1090,6 @@
     "link": "https://www.latimes.com/california/story/2025-11-26/their-dog-vanished-during-trip-to-san-diego-they-found-her-swimming-half-mile-offshore",
     "source": "latimes",
     "pubdate": "2025-11-26-21-04-24 +0000"
-  },
-  {
-    "headline": "An Asia-Pacific Showdown",
-    "link": "https://www.nytimes.com/2025/11/26/world/china-japan-trump-showdown-fire-riyadh.html",
-    "source": "nyt",
-    "pubdate": "2025-11-26-21-01-38 +0000"
   },
   {
     "headline": "Moral Maze",
@@ -1060,12 +1150,6 @@
     "link": "https://www.bbc.com/news/articles/ce910z9jd3po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-26-20-43-12 +0000"
-  },
-  {
-    "headline": "Millions to pay more in tax as Reeves says Budget is tackling cost of living",
-    "link": "https://www.bbc.com/news/articles/c246npmq1n4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-26-20-41-10 +0000"
   },
   {
     "headline": "Treasury Yields Mixed as Markets Bet on Fed Cut",
@@ -1222,12 +1306,6 @@
     "link": "https://www.nytimes.com/2025/11/26/us/karoline-leavitt-ice-family-member-bruna-ferreira.html",
     "source": "nyt",
     "pubdate": "2025-11-26-19-43-17 +0000"
-  },
-  {
-    "headline": "Budget 2025: Key points at a glance",
-    "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-26-19-35-05 +0000"
   },
   {
     "headline": "Budget 2025: Key points at a glance",
@@ -1746,18 +1824,6 @@
     "pubdate": "2025-11-26-16-48-08 +0000"
   },
   {
-    "headline": "Miroslaw Chojecki, Solidarity’s ‘Minister of Smuggling,’ Dies at 76",
-    "link": "https://www.nytimes.com/2025/11/26/world/europe/miroslaw-chojecki-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-11-26-16-40-53 +0000"
-  },
-  {
-    "headline": "Miroslaw Chojecki, Solidarity’s ‘Minister of Smuggling,’ Dies at 76",
-    "link": "https://www.nytimes.com/2025/11/26/world/europe/miroslaw-chojecki-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-11-26-16-40-53 +0000"
-  },
-  {
     "headline": "Tai Po is a crucial link between Hong Kong and mainland China.",
     "link": "https://www.nytimes.com/live/2025/11/26/world/hong-kong-fire/tai-po-is-a-crucial-link-between-hong-kong-and-mainland-china",
     "source": "nyt",
@@ -1780,12 +1846,6 @@
     "link": "https://www.bbc.com/news/articles/c62d77eyx04o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-26-16-35-40 +0000"
-  },
-  {
-    "headline": "Fears About A.I. Prompt Talks of Super PACs to Rein In the Industry",
-    "link": "https://www.nytimes.com/2025/11/25/us/politics/ai-super-pac-anthropic.html",
-    "source": "nyt",
-    "pubdate": "2025-11-26-16-30-40 +0000"
   },
   {
     "headline": "Campbell’s says it doesn’t use ‘3-D printed chicken,’ fires exec who allegedly made shocking remarks",
@@ -1944,12 +2004,6 @@
     "pubdate": "2025-11-26-15-01-47 +0000"
   },
   {
-    "headline": "Donors to Trump’s Transition Revealed a Year Later",
-    "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-transition-donors.html",
-    "source": "nyt",
-    "pubdate": "2025-11-26-15-01-47 +0000"
-  },
-  {
     "headline": "Canada's seven-time Olympic winner banned for two years over rule violation",
     "link": "https://www.bbc.com/news/articles/c3e033nvx44o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2014,12 +2068,6 @@
     "link": "https://www.nytimes.com/2025/11/26/world/asia/southern-thailand-flooding.html",
     "source": "nyt",
     "pubdate": "2025-11-26-14-42-58 +0000"
-  },
-  {
-    "headline": "At least 10 dead, 6 missing as landslides and flash floods ravage Indonesia",
-    "link": "https://nypost.com/2025/11/26/world-news/at-least-10-dead-6-missing-as-landslides-and-flash-floods-ravage-indonesia/",
-    "source": "nypost",
-    "pubdate": "2025-11-26-14-39-40 +0000"
   },
   {
     "headline": "Venezuela’s Nobel Peace Prize Winner Pushes False Claims About Maduro",
@@ -2178,6 +2226,12 @@
     "pubdate": "2025-11-26-12-00-00 +0000"
   },
   {
+    "headline": "In Minnesota farm country, a plan for a $4 billion data center takes root with vast wind, solar and battery projects",
+    "link": "https://www.startribune.com/in-minnesota-farm-country-a-plan-for-a-4-billion-data-center-takes-root-with-vast-wind-solar-and-battery-projects/601512205",
+    "source": "startribune",
+    "pubdate": "2025-11-26-12-00-00 +0000"
+  },
+  {
     "headline": "Hamas took 251 hostages from Israel into Gaza. Where are they?",
     "link": "https://www.washingtonpost.com/world/interactive/hamas-hostages-israel-war-gaza/",
     "source": "wapo",
@@ -2242,12 +2296,6 @@
     "link": "https://www.wsj.com/business/autos/li-auto-swings-to-loss-on-sharply-lower-sales-5c681ab1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-11-26-11-12-00 +0000"
-  },
-  {
-    "headline": "FDA chief promises ‘powerful’ new treatments for cancer, neuro disorders under Trump admin in ‘Pod Force One’ interview",
-    "link": "https://nypost.com/2025/11/26/us-news/fda-chief-promises-powerful-new-treatments-for-cancer-neuro-disorders-under-trump-admin-in-pod-force-one-interview/",
-    "source": "nypost",
-    "pubdate": "2025-11-26-11-10-35 +0000"
   },
   {
     "headline": "Kilowatts or connections? Trump’s favored nuclear start-ups soar to riches.",
@@ -3078,12 +3126,6 @@
     "pubdate": "2025-11-25-23-11-40 +0000"
   },
   {
-    "headline": "Mapping the Brain’s Sense of What Goes On Inside the Body",
-    "link": "https://www.nytimes.com/2025/11/25/science/brain-neuroscience-interoception.html",
-    "source": "nyt",
-    "pubdate": "2025-11-25-23-07-19 +0000"
-  },
-  {
     "headline": "Opinion | Trump Takes On the Muslim Brotherhood",
     "link": "https://www.wsj.com/opinion/trump-takes-on-the-muslim-brotherhood-e773f74c",
     "source": "wsj",
@@ -3738,18 +3780,6 @@
     "pubdate": "2025-11-25-17-00-00 +0000"
   },
   {
-    "headline": "Even the U.K. Prime Minister Can’t Resist ‘6-7’",
-    "link": "https://www.nytimes.com/2025/11/25/world/europe/keir-starmer-6-7-school-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-11-25-16-50-25 +0000"
-  },
-  {
-    "headline": "Even the U.K. Prime Minister Can’t Resist ‘6-7’",
-    "link": "https://www.nytimes.com/2025/11/25/world/europe/keir-starmer-6-7-school-uk.html",
-    "source": "nyt",
-    "pubdate": "2025-11-25-16-50-25 +0000"
-  },
-  {
     "headline": "Town’s Christmas art contest ends in scandal: Did the winner use AI?",
     "link": "https://www.washingtonpost.com/nation/2025/11/25/bozeman-ai-art/",
     "source": "wapo",
@@ -3826,6 +3856,12 @@
     "link": "https://nypost.com/2025/11/25/business/bessent-says-theres-a-very-good-chance-trump-names-new-fed-chair-before-christmas/",
     "source": "nypost",
     "pubdate": "2025-11-25-15-38-35 +0000"
+  },
+  {
+    "headline": "Why Google’s Soaring Stock Is Defying Fears of an AI Bubble",
+    "link": "https://www.wsj.com/finance/stocks/google-alphabet-stock-ai-36724d9f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-25-15-33-00 +0000"
   },
   {
     "headline": "Why Google’s Soaring Stock Is Defying Fears of an AI Bubble",
@@ -4018,6 +4054,12 @@
     "link": "https://www.bbc.com/news/articles/c4gpmz8gxwgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-25-12-26-23 +0000"
+  },
+  {
+    "headline": "China’s Xi Calls Trump in Unusual Move to Discuss Taiwan, Ukraine",
+    "link": "https://www.wsj.com/world/china/chinas-xi-calls-trump-in-unusual-move-to-discuss-ukraine-taiwan-add503b3",
+    "source": "wsj",
+    "pubdate": "2025-11-25-12-25-00 +0000"
   },
   {
     "headline": "China’s Xi Calls Trump in Unusual Move to Discuss Taiwan, Ukraine",
@@ -4698,12 +4740,6 @@
     "pubdate": "2025-11-24-20-37-32 +0000"
   },
   {
-    "headline": "The Forgotten Nuclear Weapon Tests That Trump May Seek to Revive",
-    "link": "https://www.nytimes.com/2025/11/24/science/hydro-nuclear-testing-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-11-24-20-19-35 +0000"
-  },
-  {
     "headline": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria",
     "link": "https://www.nytimes.com/2025/11/24/world/middleeast/syria-sectarian-killings-homs.html",
     "source": "nyt",
@@ -4956,14 +4992,14 @@
     "pubdate": "2025-11-24-11-00-00 +0000"
   },
   {
-    "headline": "Why an unproven air taxi company is spending $126 million to take over an L.A. airport",
-    "link": "https://www.latimes.com/business/story/2025-11-24/california-air-taxi",
+    "headline": "Giant landlord settles with California for colluding on rents in L.A. and elsewhere",
+    "link": "https://www.latimes.com/business/story/2025-11-24/national-landlord-settles-with-california-for-gouging-renters-in-la-elsewhere",
     "source": "latimes",
     "pubdate": "2025-11-24-11-00-00 +0000"
   },
   {
-    "headline": "Giant landlord settles with California for colluding on rents in L.A. and elsewhere",
-    "link": "https://www.latimes.com/business/story/2025-11-24/national-landlord-settles-with-california-for-gouging-renters-in-la-elsewhere",
+    "headline": "Why an unproven air taxi company is spending $126 million to take over an L.A. airport",
+    "link": "https://www.latimes.com/business/story/2025-11-24/california-air-taxi",
     "source": "latimes",
     "pubdate": "2025-11-24-11-00-00 +0000"
   },
@@ -5634,14 +5670,14 @@
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
   {
-    "headline": "Pondering a run for governor, Atty. Gen. Rob Bonta faces questions about legal spending",
-    "link": "https://www.latimes.com/california/story/2025-11-22/pondering-governor-run-atty-gen-faces-questions-on-legal-spending",
+    "headline": "An L.A. man was detained in an immigration raid. No one knows where he is",
+    "link": "https://www.latimes.com/politics/story/2025-11-22/la-man-was-detained-in-immigration-raid-no-one-knows-where-he-is",
     "source": "latimes",
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
   {
-    "headline": "An L.A. man was detained in an immigration raid. No one knows where he is",
-    "link": "https://www.latimes.com/politics/story/2025-11-22/la-man-was-detained-in-immigration-raid-no-one-knows-where-he-is",
+    "headline": "Pondering a run for governor, Atty. Gen. Rob Bonta faces questions about legal spending",
+    "link": "https://www.latimes.com/california/story/2025-11-22/pondering-governor-run-atty-gen-faces-questions-on-legal-spending",
     "source": "latimes",
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
@@ -5982,12 +6018,6 @@
     "pubdate": "2025-11-21-12-44-19 +0000"
   },
   {
-    "headline": "Trump Peace Plan Demands Major Concessions From Ukraine",
-    "link": "https://www.wsj.com/world/u-s-peace-plan-for-ukraine-faces-resistance-from-europe-and-kyiv-0f2bb501",
-    "source": "wsj",
-    "pubdate": "2025-11-21-12-29-00 +0000"
-  },
-  {
     "headline": "Frankie Chamberlain loved Bernal Heights. It loved him back.",
     "link": "https://missionlocal.org/2025/11/sf-frankie-chamberlain-bernal-heights/",
     "source": "missionlocal",
@@ -6072,14 +6102,14 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Is AI making some people delusional? Families and experts are worried",
-    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
+    "headline": "Former Trinity Broadcasting headquarters is sold and set to be torn down for new housing",
+    "link": "https://www.latimes.com/business/story/2025-11-21/former-trinity-broadcasting-site-sold-will-be-razed-for-new-housing",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: The UC faculty just won a big court victory over Trump. But why didn't UC join their lawsuit?",
-    "link": "https://www.latimes.com/business/story/2025-11-21/uc-faculty-just-won-big-court-victory-over-trump-but-why-didnt-uc-itself-join-the-case",
+    "headline": "Is AI making some people delusional? Families and experts are worried",
+    "link": "https://www.latimes.com/business/story/2025-11-21/lawsuits-accuse-chatgpt-of-propelling-ai-induced-delusions-and-suicide",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -6090,8 +6120,8 @@
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
   {
-    "headline": "Former Trinity Broadcasting headquarters is sold and set to be torn down for new housing",
-    "link": "https://www.latimes.com/business/story/2025-11-21/former-trinity-broadcasting-site-sold-will-be-razed-for-new-housing",
+    "headline": "Hiltzik: The UC faculty just won a big court victory over Trump. But why didn't UC join their lawsuit?",
+    "link": "https://www.latimes.com/business/story/2025-11-21/uc-faculty-just-won-big-court-victory-over-trump-but-why-didnt-uc-itself-join-the-case",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -6384,12 +6414,6 @@
     "pubdate": "2025-11-20-14-46-04 +0000"
   },
   {
-    "headline": "Israeli Strikes Kill at Least 25 in Gaza Amid Cease-Fire, Officials Say",
-    "link": "https://www.nytimes.com/2025/11/19/world/middleeast/israeli-strikes-gaza-deaths.html",
-    "source": "nyt",
-    "pubdate": "2025-11-20-14-18-22 +0000"
-  },
-  {
     "headline": "Supervisor Connie Chan announces run for Congress",
     "link": "https://missionlocal.org/2025/11/sf-supervisor-connie-chan-congress/",
     "source": "missionlocal",
@@ -6438,14 +6462,20 @@
     "pubdate": "2025-11-20-11-02-00 +0000"
   },
   {
+    "headline": "UCLA is building a 19-story tower for students near the Westwood campus",
+    "link": "https://www.latimes.com/business/story/2025-11-20/ucla-is-building-19-story-tower-for-students-near-westwood-campus",
+    "source": "latimes",
+    "pubdate": "2025-11-20-11-00-00 +0000"
+  },
+  {
     "headline": "California's child farmworkers: Exhausted, underpaid and toiling in toxic fields",
     "link": "https://www.latimes.com/california/story/2025-11-20/children-farmworkers-california-little-oversight-from-state",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "Lax oversight, few inspections leave child farmworkers exposed to toxic pesticides",
-    "link": "https://www.latimes.com/california/story/2025-11-20/child-farmworkers-toxic-pesticides-exposure",
+    "headline": "Is there an AI bubble and has it started to burst?",
+    "link": "https://www.latimes.com/business/story/2025-11-20/is-there-ai-bubble-has-it-started-to-burst",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -6456,14 +6486,8 @@
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
   {
-    "headline": "UCLA is building a 19-story tower for students near the Westwood campus",
-    "link": "https://www.latimes.com/business/story/2025-11-20/ucla-is-building-19-story-tower-for-students-near-westwood-campus",
-    "source": "latimes",
-    "pubdate": "2025-11-20-11-00-00 +0000"
-  },
-  {
-    "headline": "Is there an AI bubble and has it started to burst?",
-    "link": "https://www.latimes.com/business/story/2025-11-20/is-there-ai-bubble-has-it-started-to-burst",
+    "headline": "Lax oversight, few inspections leave child farmworkers exposed to toxic pesticides",
+    "link": "https://www.latimes.com/california/story/2025-11-20/child-farmworkers-toxic-pesticides-exposure",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
   },
@@ -6478,12 +6502,6 @@
     "link": "https://www.latimes.com/world-nation/story/2025-11-20/trump-saudi-crown-prince-bond-over-their-contempt-and-fear-of-free-press",
     "source": "latimes",
     "pubdate": "2025-11-20-11-00-00 +0000"
-  },
-  {
-    "headline": "The ‘Golden Handcuffs’ Are Off: Private-Equity Employees Leave for Smaller Firms",
-    "link": "https://www.wsj.com/finance/the-golden-handcuffs-are-off-private-equity-employees-leave-for-smaller-firms-375573c6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-20-10-30-00 +0000"
   },
   {
     "headline": "Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy",
