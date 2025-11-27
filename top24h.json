@@ -7,25 +7,18 @@
     "link": "https://nypost.com/2025/11/26/us-news/trump-admin-charging-national-park-foreigners-extra-100-to-visit/"
   },
   {
-    "score": 121,
+    "score": 122,
     "pubdate": "2025-11-26-19-58-01 +0000",
     "source": "nyt",
     "headline": "Hong Kong Fire Shared Similarities With Grenfell Tower Fire in London",
     "link": "https://www.nytimes.com/2025/11/26/world/asia/bamboo-scaffolding-hong-kong-fire.html"
   },
   {
-    "score": 92,
+    "score": 93,
     "pubdate": "2025-11-27-02-53-50 +0000",
     "source": "nypost",
     "headline": "Hunter, Joe Biden pictured together for first time since leaving White House ahead of family’s Thanksgiving bash in Nantucket",
     "link": "https://nypost.com/2025/11/26/us-news/hunter-joe-biden-pictured-together-for-first-time-since-leaving-white-house/"
-  },
-  {
-    "score": 85,
-    "pubdate": "2025-11-27-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump has enlisted JD Vance’s Yale classmate—Army Secretary Dan Driscoll—to handle high-stakes diplomacy in the Ukraine war peace talks",
-    "link": "https://www.wsj.com/politics/national-security/the-jd-vance-classmate-emerging-as-a-key-player-in-talks-to-end-the-ukraine-war-c894ea0e"
   },
   {
     "score": 84,
@@ -35,38 +28,45 @@
     "link": "https://nypost.com/2025/11/26/us-news/afghan-national-rahmanullah-lakanwal-idd-as-alleged-gunman-in-shooting-of-2-national-guard-members-in-dc/"
   },
   {
-    "score": 66,
+    "score": 83,
+    "pubdate": "2025-11-27-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump has enlisted JD Vance’s Yale classmate—Army Secretary Dan Driscoll—to handle high-stakes diplomacy in the Ukraine war peace talks",
+    "link": "https://www.wsj.com/politics/national-security/the-jd-vance-classmate-emerging-as-a-key-player-in-talks-to-end-the-ukraine-war-c894ea0e"
+  },
+  {
+    "score": 71,
     "pubdate": "2025-11-27-05-15-14 +0000",
     "source": "nyt",
     "headline": "Heading to the Mideast, Pope Leo May Show ‘Who He Really Is’",
     "link": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-leo-trip.html"
   },
   {
-    "score": 65,
-    "pubdate": "2025-11-26-16-01-38 +0000",
-    "source": "nypost",
-    "headline": "Georgia drops 2020 election case against Trump, allies after new prosecutor declines to pursue",
-    "link": "https://nypost.com/2025/11/26/us-news/peter-skandalakis-moves-to-dismiss-charges-against-trump-in-georgia-election-case/"
-  },
-  {
     "score": 59,
-    "pubdate": "2025-11-27-06-00-14 +0000",
-    "source": "bbc",
-    "headline": "'This is no life': Security and long-held views shattered in south Lebanon amid Israeli strikes",
-    "link": "https://www.bbc.com/news/articles/cdd560nvqqdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 58,
     "pubdate": "2025-11-27-02-38-44 +0000",
     "source": "nyt",
     "headline": "U.K. Budget Plan Calms Markets and Labour Faithful. Will It Appeal to Voters?",
     "link": "https://www.nytimes.com/2025/11/26/world/europe/uk-budget-starmer-reeves.html"
   },
   {
-    "score": 58,
-    "pubdate": "2025-11-26-23-25-00 +0000",
+    "score": 59,
+    "pubdate": "2025-11-27-02-30-54 +0000",
+    "source": "nyt",
+    "headline": "U.S. to Press Europe and Other Allies on Immigration, Document Says",
+    "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-rubio-mass-migration.html"
+  },
+  {
+    "score": 56,
+    "pubdate": "2025-11-27-07-34-00 +0000",
     "source": "wsj",
     "headline": "President Trump advised Japanese Prime Minister Sanae Takaichi to temper her tone on Taiwan’s sovereignty to avoid jeopardizing a U.S.-China trade detente, people briefed on the matter said",
     "link": "https://www.wsj.com/politics/national-security/trump-after-call-with-chinas-xi-told-japan-to-lower-the-volume-on-taiwan-3af795d6"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-11-26-16-23-23 +0000",
+    "source": "cbc",
+    "headline": "New prosecutor won't pursue charges against Trump in Georgia election interference case",
+    "link": "https://www.cbc.ca/news/world/trump-georgia-election-charges-dropped-9.6993093?cmp=rss"
   }
 ]
