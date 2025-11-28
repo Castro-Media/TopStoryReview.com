@@ -1,5 +1,173 @@
 [
   {
+    "headline": "Live updates: FBI executing search warrants in multiple U.S. cities after National Guard shooting",
+    "link": "https://www.washingtonpost.com/dc-md-va/2025/11/27/dc-shooting-national-guard-suspect-live-updates/",
+    "source": "wapo",
+    "pubdate": "2025-11-27-23-50-47 +0000"
+  },
+  {
+    "headline": "One National Guard member shot Wednesday is dead, Trump says",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-11-27-23-50-47 +0000"
+  },
+  {
+    "headline": "At Least 55 Dead in Hong Kong Apartment Fire",
+    "link": "https://www.nytimes.com/live/2025/11/27/world/hong-kong-fire",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-47-42 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/11/27/world/hong-kong-fire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-47-40 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/11/27/world/hong-kong-fire/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-47-40 +0000"
+  },
+  {
+    "headline": "Hong Kong’s Worst Fire in Decades Fuels Scrutiny of Safety Lapses",
+    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-tai-po-apartment-buildings.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-47-25 +0000"
+  },
+  {
+    "headline": "Hong Kong’s Worst Fire in Decades Fuels Scrutiny of Safety Lapses",
+    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-tai-po-apartment-buildings.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-47-25 +0000"
+  },
+  {
+    "headline": "What We Know About the National Guard Shooting in D.C. and the Suspect",
+    "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-46-28 +0000"
+  },
+  {
+    "headline": "What We Know About the National Guard Shooting in D.C. and the Suspect",
+    "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-46-28 +0000"
+  },
+  {
+    "headline": "Images From the Deadly High-Rise Fire in Hong Kong",
+    "link": "https://www.nytimes.com/2025/11/27/world/asia/hongkong-fire-photos.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-45-50 +0000"
+  },
+  {
+    "headline": "Images From the Deadly High-Rise Fire in Hong Kong",
+    "link": "https://www.nytimes.com/2025/11/27/world/asia/hongkong-fire-photos.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-45-50 +0000"
+  },
+  {
+    "headline": "What to Know About the Deadly Fire at a Hong Kong Apartment Complex",
+    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-43-12 +0000"
+  },
+  {
+    "headline": "What to Know About the Deadly Fire at a Hong Kong Apartment Complex",
+    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-43-12 +0000"
+  },
+  {
+    "headline": "Sarah Beckstrom, one of the National Guardsmen shot by a crazed gunman, dies",
+    "link": "https://nypost.com/2025/11/27/us-news/sarah-beckstrom-one-of-the-national-guardsmen-shot-by-a-crazed-gunman-dies/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-23-37-33 +0000"
+  },
+  {
+    "headline": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
+    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-survivors-escape.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-35-38 +0000"
+  },
+  {
+    "headline": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
+    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-survivors-escape.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-35-38 +0000"
+  },
+  {
+    "headline": "Afghan advocacy group condemns shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-11-27-23-34-09 +0000"
+  },
+  {
+    "headline": "Adolf Hitler easily wins election for fifth time in southern African country",
+    "link": "https://nypost.com/2025/11/27/world-news/politician-named-adolf-hitler-re-elected-in-southern-african-country/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-23-33-00 +0000"
+  },
+  {
+    "headline": "'Hang in there': Agonising wait for the missing after Hong Kong blaze",
+    "link": "https://www.bbc.com/news/articles/cj9y0pjzmdro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-27-23-26-34 +0000"
+  },
+  {
+    "headline": "D.C. Shooting Suspect Worked With CIA in Afghanistan",
+    "link": "https://www.wsj.com/us-news/d-c-shooting-suspect-worked-with-cia-in-afghanistan-a5c19703",
+    "source": "wsj",
+    "pubdate": "2025-11-27-23-22-00 +0000"
+  },
+  {
+    "headline": "D.C. Shooting: What We Know About the National Guard Victims",
+    "link": "https://www.nytimes.com/2025/11/27/us/national-guard-shooting-andrew-wolfe-sarah-beckstrom.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-17-53 +0000"
+  },
+  {
+    "headline": "Photos: Where the Thanksgiving turkeys are in charge",
+    "link": "https://www.latimes.com/california/story/2025-11-27/photos-where-thanksgiving-turkeys-are-in-charge",
+    "source": "latimes",
+    "pubdate": "2025-11-27-23-15-13 +0000"
+  },
+  {
+    "headline": "OpenAI blames ‘misuse’ of ChatGPT after 16-year-old kills himself following ‘months of encouragement’",
+    "link": "https://nypost.com/2025/11/27/business/openai-blames-misuse-of-chatgpt-after-16-year-old-kills-himself/",
+    "source": "nypost",
+    "pubdate": "2025-11-27-23-12-38 +0000"
+  },
+  {
+    "headline": "Afghan national charged in Guard ambush shooting drove across US to carry out attack, officials say",
+    "link": "https://www.startribune.com/afghan-national-in-custody-after-shooting-of-2-national-guard-members-near-white-house/601534783",
+    "source": "startribune",
+    "pubdate": "2025-11-27-23-09-03 +0000"
+  },
+  {
+    "headline": "Woman accused of throwing malnourished poodle over 8-foot fence of vet clinic",
+    "link": "https://www.latimes.com/california/story/2025-11-27/woman-charged-with-tossing-malnourished-poodle-over-8-foot-fence",
+    "source": "latimes",
+    "pubdate": "2025-11-27-23-07-00 +0000"
+  },
+  {
+    "headline": "Carney Lifts Climate Laws for New Alberta Pipeline",
+    "link": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-02-23 +0000"
+  },
+  {
+    "headline": "Carney Lifts Climate Laws for New Alberta Pipeline",
+    "link": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-02-23 +0000"
+  },
+  {
+    "headline": "Carney Lifts Climate Laws for New Alberta Pipeline",
+    "link": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html",
+    "source": "nyt",
+    "pubdate": "2025-11-27-23-02-23 +0000"
+  },
+  {
     "headline": "New details emerge from investigation into disappearance of American citizen on cruise ship excursion",
     "link": "https://nypost.com/2025/11/27/us-news/ann-evans-who-disappeared-during-holland-america-line-cruise-excursion-may-be-at-sint-maarten-hotel/",
     "source": "nypost",
@@ -114,24 +282,6 @@
     "pubdate": "2025-11-27-22-09-54 +0000"
   },
   {
-    "headline": "Carney Lifts Climate Laws for New Alberta Pipeline",
-    "link": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-22-06-20 +0000"
-  },
-  {
-    "headline": "Carney Lifts Climate Laws for New Alberta Pipeline",
-    "link": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-22-06-20 +0000"
-  },
-  {
-    "headline": "Carney Lifts Climate Laws for New Alberta Pipeline",
-    "link": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-22-06-20 +0000"
-  },
-  {
     "headline": "D.C. Shooting Suspect Worked With C.I.A.-Backed Unit in Afghanistan",
     "link": "https://www.nytimes.com/2025/11/27/us/national-guard-dc-shooting-suspect-cia-afghanistan.html",
     "source": "nyt",
@@ -162,34 +312,10 @@
     "pubdate": "2025-11-27-21-50-32 +0000"
   },
   {
-    "headline": "At Least 55 Dead in Hong Kong Apartment Fire",
-    "link": "https://www.nytimes.com/live/2025/11/27/world/hong-kong-fire",
-    "source": "nyt",
-    "pubdate": "2025-11-27-21-47-59 +0000"
-  },
-  {
-    "headline": "Hong Kong’s Worst Fire in Decades Fuels Scrutiny of Safety Lapses",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-tai-po-apartment-buildings.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-21-47-57 +0000"
-  },
-  {
-    "headline": "Hong Kong’s Worst Fire in Decades Fuels Scrutiny of Safety Lapses",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-tai-po-apartment-buildings.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-21-47-57 +0000"
-  },
-  {
     "headline": "Trump administration will re-examine green card holders from 19 countries",
     "link": "https://www.bbc.com/news/articles/ckgl8j24ky1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-27-21-46-38 +0000"
-  },
-  {
-    "headline": "D.C. Shooting Suspect Worked With CIA in Afghanistan",
-    "link": "https://www.wsj.com/us-news/d-c-shooting-suspect-worked-with-cia-in-afghanistan-a5c19703",
-    "source": "wsj",
-    "pubdate": "2025-11-27-21-46-00 +0000"
   },
   {
     "headline": "Long Island factory worker loses fingers in freak accident with food-dicing machine",
@@ -198,7 +324,7 @@
     "pubdate": "2025-11-27-21-38-57 +0000"
   },
   {
-    "headline": "Guilbeault resigning from cabinet over energy deal with Alberta",
+    "headline": "Guilbeault quits Carney’s cabinet over energy deal with Alberta",
     "link": "https://www.cbc.ca/news/politics/guilbeault-quitting-cabinet-9.6995299?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-27-21-25-42 +0000"
@@ -208,18 +334,6 @@
     "link": "https://nypost.com/2025/11/27/us-news/inside-american-dream-life-of-alleged-dc-national-guard-terrorist-as-neighbors-reveal-dramatic-fbi-raid/",
     "source": "nypost",
     "pubdate": "2025-11-27-21-24-47 +0000"
-  },
-  {
-    "headline": "What We Know About the National Guard Shooting in D.C. and the Suspect",
-    "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-21-24-16 +0000"
-  },
-  {
-    "headline": "What We Know About the National Guard Shooting in D.C. and the Suspect",
-    "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-21-24-16 +0000"
   },
   {
     "headline": "Bloody Thanksgiving Eve burst of violence in NYC leaves 7 shot in 4 hours",
@@ -232,18 +346,6 @@
     "link": "https://www.nytimes.com/2025/11/27/us/dc-shooting-suspect-afghanistan-cia-unit.html",
     "source": "nyt",
     "pubdate": "2025-11-27-21-18-13 +0000"
-  },
-  {
-    "headline": "D.C. Shooting: What We Know About the National Guard Victims",
-    "link": "https://www.nytimes.com/2025/11/27/us/national-guard-shooting-andrew-wolfe-sarah-beckstrom.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-21-15-54 +0000"
-  },
-  {
-    "headline": "Afghan national charged in Guard ambush shooting drove across US to carry out attack, officials say",
-    "link": "https://www.startribune.com/afghan-national-in-custody-after-shooting-of-2-national-guard-members-near-white-house/601534783",
-    "source": "startribune",
-    "pubdate": "2025-11-27-21-14-01 +0000"
   },
   {
     "headline": "A.I. and the Trillion-Dollar Question",
@@ -268,12 +370,6 @@
     "link": "https://nypost.com/2025/11/27/us-news/dc-national-guard-terror-suspect-suffered-mental-problems-from-fighting-for-cia-backed-zero-unit/",
     "source": "nypost",
     "pubdate": "2025-11-27-20-44-32 +0000"
-  },
-  {
-    "headline": "Live updates: FBI executing search warrants in multiple U.S. cities after National Guard shooting",
-    "link": "https://www.washingtonpost.com/dc-md-va/2025/11/27/dc-shooting-national-guard-suspect-live-updates/",
-    "source": "wapo",
-    "pubdate": "2025-11-27-20-39-07 +0000"
   },
   {
     "headline": "Afghan units were valuable allies in a bloody fight, former CIA officers say",
@@ -450,18 +546,6 @@
     "pubdate": "2025-11-27-18-54-16 +0000"
   },
   {
-    "headline": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-survivors-escape.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-18-46-17 +0000"
-  },
-  {
-    "headline": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-survivors-escape.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-18-46-17 +0000"
-  },
-  {
     "headline": "Opinion | The CBO’s Numbers Must Be Made Public and Checkable",
     "link": "https://www.wsj.com/opinion/the-cbos-numbers-must-be-made-public-and-checkable-3b10e6ca",
     "source": "wsj",
@@ -540,28 +624,10 @@
     "pubdate": "2025-11-27-18-33-54 +0000"
   },
   {
-    "headline": "Images From the Deadly High-Rise Fire in Hong Kong",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hongkong-fire-photos.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-18-31-48 +0000"
-  },
-  {
-    "headline": "Images From the Deadly High-Rise Fire in Hong Kong",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hongkong-fire-photos.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-18-31-48 +0000"
-  },
-  {
     "headline": "Black Friday Deals Can Put People in Debt. Here’s How to Manage It.",
     "link": "https://www.nytimes.com/2025/11/27/business/black-friday-shopping-debt.html",
     "source": "nyt",
     "pubdate": "2025-11-27-18-28-07 +0000"
-  },
-  {
-    "headline": "'Hang in there': Agonising wait for the missing after Hong Kong blaze",
-    "link": "https://www.bbc.com/news/articles/cj9y0pjzmdro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-27-18-26-35 +0000"
   },
   {
     "headline": "Beloved NYC holiday attraction slammed in new global survey sure to spark Apple ire",
@@ -616,12 +682,6 @@
     "link": "https://www.bbc.com/news/articles/cqlkrgyy2r3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-11-27-18-15-26 +0000"
-  },
-  {
-    "headline": "Iryna Zarutska’s boyfriend slams judge who let Chicago train burning suspect free despite 72 arrests",
-    "link": "https://nypost.com/2025/11/27/us-news/boyfriend-of-iryna-zarutska-slaughtered-on-charlotte-train-slams-serial-thug-charged-with-burning-woman-on-cta/",
-    "source": "nypost",
-    "pubdate": "2025-11-27-18-15-21 +0000"
   },
   {
     "headline": "How will the changes to workers' rights  affect you?",
@@ -762,7 +822,7 @@
     "pubdate": "2025-11-27-17-18-33 +0000"
   },
   {
-    "headline": "Here's what to know about the energy agreement between Ottawa and Alberta",
+    "headline": "Here's what to know about Canada's landmark energy agreement with Alberta",
     "link": "https://www.cbc.ca/news/politics/ottawa-alberta-energy-agreement-pipeline-9.6994715?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-27-17-13-31 +0000"
@@ -870,18 +930,6 @@
     "pubdate": "2025-11-27-16-35-50 +0000"
   },
   {
-    "headline": "What to Know About the Deadly Fire at a Hong Kong Apartment Complex",
-    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-16-24-14 +0000"
-  },
-  {
-    "headline": "What to Know About the Deadly Fire at a Hong Kong Apartment Complex",
-    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-11-27-16-24-14 +0000"
-  },
-  {
     "headline": "Hong Kong Residents Describe How Apartment Fire Quickly Spread",
     "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-apartments-fire-residents.html",
     "source": "nyt",
@@ -942,7 +990,7 @@
     "pubdate": "2025-11-27-15-37-17 +0000"
   },
   {
-    "headline": "Liberal minister resigns over Carney's energy deal, while B.C. premier 'anxious' over potential pipeline",
+    "headline": "Carney’s energy deal went down very differently, depending on who you ask. Here’s how the day played out",
     "link": "https://www.cbc.ca/news/politics/livestory/alberta-ottawa-memorandum-of-understanding-energy-deal-pipeline-bc-9.6993431?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-27-15-28-14 +0000"
@@ -1192,18 +1240,6 @@
     "link": "https://missionlocal.org/2025/11/sf-photos-pumpkins-in-fall/",
     "source": "missionlocal",
     "pubdate": "2025-11-27-14-00-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/11/27/world/hong-kong-fire/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-11-27-13-51-11 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/11/27/world/hong-kong-fire/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-11-27-13-51-11 +0000"
   },
   {
     "headline": "Sterling’s Post-Budget Gains Are Probably Over",
@@ -2586,7 +2622,7 @@
     "pubdate": "2025-11-26-20-59-36 +0000"
   },
   {
-    "headline": "FBI says shooting of National Guard members a terrorism probe, as victims ID'd",
+    "headline": "1 of 2 National Guard members shot on duty in Washington, D.C. has died: Trump",
     "link": "https://www.cbc.ca/news/world/trump-afghanistan-us-immigrants-9.6993505?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-26-20-58-29 +0000"
@@ -3036,12 +3072,6 @@
     "pubdate": "2025-11-26-17-25-00 +0000"
   },
   {
-    "headline": "Magnitude 4.6 earthquake rattles Hawaii’s Kilauea volcano",
-    "link": "https://nypost.com/2025/11/26/world-news/magnitude-4-6-earthquake-rattles-hawaiis-kilauea-following-volcanos-37th-eruptive-episode/",
-    "source": "nypost",
-    "pubdate": "2025-11-26-17-24-53 +0000"
-  },
-  {
     "headline": "Senators push Rubio to investigate Israel’s alleged violations in Gaza",
     "link": "https://www.washingtonpost.com/national-security/2025/11/26/israel-gaza-war-crimes-allegations/",
     "source": "wapo",
@@ -3402,7 +3432,7 @@
     "pubdate": "2025-11-26-12-56-14 +0000"
   },
   {
-    "headline": "Hong Kong fire death toll rises, hundreds unaccounted for as towers burn for 2nd day",
+    "headline": "Hong Kong fire death toll rises to 94, hundreds unaccounted for as towers burn for 2nd day",
     "link": "https://www.cbc.ca/news/world/hong-kong-fire-day2-9.6994198?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-11-26-12-55-35 +0000"
@@ -3468,6 +3498,12 @@
     "pubdate": "2025-11-26-11-00-30 +0000"
   },
   {
+    "headline": "Why outrage is erupting over Trump plan to exclude nursing from 'professional' designation",
+    "link": "https://www.latimes.com/california/story/2025-11-26/trump-plan-exclude-nursing-professional-degree-list-outrage",
+    "source": "latimes",
+    "pubdate": "2025-11-26-11-00-00 +0000"
+  },
+  {
     "headline": "Chabria: California's first partner pushes to regulate AI while Trump and tech bros thunder forward",
     "link": "https://www.latimes.com/california/story/2025-11-26/californias-first-partner-pushes-to-regulate-ai-as-trump-threatens-to-forbid-regulations",
     "source": "latimes",
@@ -3480,14 +3516,14 @@
     "pubdate": "2025-11-26-11-00-00 +0000"
   },
   {
-    "headline": "Why outrage is erupting over Trump plan to exclude nursing from 'professional' designation",
-    "link": "https://www.latimes.com/california/story/2025-11-26/trump-plan-exclude-nursing-professional-degree-list-outrage",
+    "headline": "Does the Metro board need to debate the Dodger Stadium gondola? No, says Metro",
+    "link": "https://www.latimes.com/sports/dodgers/story/2025-11-26/metro-board-wont-debate-dodger-stadium-gondola",
     "source": "latimes",
     "pubdate": "2025-11-26-11-00-00 +0000"
   },
   {
-    "headline": "Does the Metro board need to debate the Dodger Stadium gondola? No, says Metro",
-    "link": "https://www.latimes.com/sports/dodgers/story/2025-11-26/metro-board-wont-debate-dodger-stadium-gondola",
+    "headline": "California could get its first gasoline pipeline. Would that lower gas prices?",
+    "link": "https://www.latimes.com/environment/story/2025-11-26/california-could-get-its-first-gasoline-pipeline-would-that-lower-gas-prices",
     "source": "latimes",
     "pubdate": "2025-11-26-11-00-00 +0000"
   },
@@ -3498,8 +3534,8 @@
     "pubdate": "2025-11-26-11-00-00 +0000"
   },
   {
-    "headline": "California could get its first gasoline pipeline. Would that lower gas prices?",
-    "link": "https://www.latimes.com/environment/story/2025-11-26/california-could-get-its-first-gasoline-pipeline-would-that-lower-gas-prices",
+    "headline": "This diverse coalition is watchdogging L.A. immigration raids, driving 'Liberty Vans'",
+    "link": "https://www.latimes.com/california/story/2025-11-26/save-america-movement-liberty-vans-ice-raids",
     "source": "latimes",
     "pubdate": "2025-11-26-11-00-00 +0000"
   },
@@ -3512,12 +3548,6 @@
   {
     "headline": "This rural hospital closed, putting lives at risk. Is it the start of a 'tidal wave'?",
     "link": "https://www.latimes.com/california/story/2025-11-26/rural-hospitals-closing-california-lives-at-risk",
-    "source": "latimes",
-    "pubdate": "2025-11-26-11-00-00 +0000"
-  },
-  {
-    "headline": "This diverse coalition is watchdogging L.A. immigration raids, driving 'Liberty Vans'",
-    "link": "https://www.latimes.com/california/story/2025-11-26/save-america-movement-liberty-vans-ice-raids",
     "source": "latimes",
     "pubdate": "2025-11-26-11-00-00 +0000"
   },
@@ -3654,7 +3684,7 @@
     "pubdate": "2025-11-26-10-00-37 +0000"
   },
   {
-    "headline": "Gramma, a tortoise who lived through 20 presidencies, dies at 141",
+    "headline": "Gramma, a tortoise who lived through more than 20 presidencies, dies at 141",
     "link": "https://www.washingtonpost.com/nation/2025/11/26/tortoise-san-dego-zoo-death/",
     "source": "wapo",
     "pubdate": "2025-11-26-10-00-30 +0000"
@@ -4098,12 +4128,6 @@
     "pubdate": "2025-11-25-23-25-00 +0000"
   },
   {
-    "headline": "What Trump’s plan to exclude nursing from ‘professional’ degrees actually means",
-    "link": "https://www.washingtonpost.com/education/2025/11/25/graduate-student-loan-limits-controversy/",
-    "source": "wapo",
-    "pubdate": "2025-11-25-23-20-52 +0000"
-  },
-  {
     "headline": "Warner Music Group settles lawsuit with AI firm Suno",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-25/warner-music-group-suno-ai-lawsuit-settlement",
     "source": "latimes",
@@ -4518,12 +4542,6 @@
     "pubdate": "2025-11-25-17-58-16 +0000"
   },
   {
-    "headline": "Nvidia shares sink 4% after report of Meta in talks to spend billions on Google chips",
-    "link": "https://nypost.com/2025/11/25/business/nvidia-shares-sink-4-after-report-of-meta-in-talks-to-spend-billions-on-google-chips/",
-    "source": "nypost",
-    "pubdate": "2025-11-25-17-52-11 +0000"
-  },
-  {
     "headline": "Ex-wife of Dubai royal says she fears arrest as custody battle escalates",
     "link": "https://www.bbc.com/news/articles/cj01j710rmmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4752,8 +4770,8 @@
     "pubdate": "2025-11-25-11-08-50 +0000"
   },
   {
-    "headline": "New antisemitism probe of Berkeley Unified announced by congressional committee",
-    "link": "https://www.latimes.com/california/story/2025-11-25/new-antisemitism-probe-of-berkeley-unified-by-congressional-committee",
+    "headline": "Inglewood Police Department 'systematically' violated state public records law, judge rules",
+    "link": "https://www.latimes.com/california/story/2025-11-25/inglewood-police-department-systematically-violated-state-public-records-law-judge-rules",
     "source": "latimes",
     "pubdate": "2025-11-25-11-00-00 +0000"
   },
@@ -4764,14 +4782,14 @@
     "pubdate": "2025-11-25-11-00-00 +0000"
   },
   {
-    "headline": "Inglewood Police Department 'systematically' violated state public records law, judge rules",
-    "link": "https://www.latimes.com/california/story/2025-11-25/inglewood-police-department-systematically-violated-state-public-records-law-judge-rules",
+    "headline": "Arellano: The ex-landscaper behind the deportation diary L.A. never wanted",
+    "link": "https://www.latimes.com/california/story/2025-11-25/memo-torres-daily-memo-la-taco",
     "source": "latimes",
     "pubdate": "2025-11-25-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: The ex-landscaper behind the deportation diary L.A. never wanted",
-    "link": "https://www.latimes.com/california/story/2025-11-25/memo-torres-daily-memo-la-taco",
+    "headline": "New antisemitism probe of Berkeley Unified announced by congressional committee",
+    "link": "https://www.latimes.com/california/story/2025-11-25/new-antisemitism-probe-of-berkeley-unified-by-congressional-committee",
     "source": "latimes",
     "pubdate": "2025-11-25-11-00-00 +0000"
   },
@@ -4788,14 +4806,14 @@
     "pubdate": "2025-11-25-11-00-00 +0000"
   },
   {
-    "headline": "Why USC students who want to be doctors and engineers are minoring in comedy",
-    "link": "https://www.latimes.com/california/story/2025-11-25/usc-comedy-minor",
+    "headline": "Struggling Six Flags names new CEO. What does that mean for Knott's and Magic Mountain?",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-25/struggling-six-flags-names-new-ceo-what-happens-to-knotts-magic-mountain",
     "source": "latimes",
     "pubdate": "2025-11-25-11-00-00 +0000"
   },
   {
-    "headline": "Struggling Six Flags names new CEO. What does that mean for Knott's and Magic Mountain?",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-11-25/struggling-six-flags-names-new-ceo-what-happens-to-knotts-magic-mountain",
+    "headline": "Why USC students who want to be doctors and engineers are minoring in comedy",
+    "link": "https://www.latimes.com/california/story/2025-11-25/usc-comedy-minor",
     "source": "latimes",
     "pubdate": "2025-11-25-11-00-00 +0000"
   },
@@ -5940,6 +5958,12 @@
     "pubdate": "2025-11-22-11-00-07 +0000"
   },
   {
+    "headline": "An L.A. man was detained in an immigration raid. No one knows where he is",
+    "link": "https://www.latimes.com/politics/story/2025-11-22/la-man-was-detained-in-immigration-raid-no-one-knows-where-he-is",
+    "source": "latimes",
+    "pubdate": "2025-11-22-11-00-00 +0000"
+  },
+  {
     "headline": "The college dreams of 80,000 undocumented California students threatened by Trump suit",
     "link": "https://www.latimes.com/california/story/2025-11-22/trump-suit-threatens-in-state-college-tuition-for-undocumented-california-students",
     "source": "latimes",
@@ -5952,20 +5976,14 @@
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
   {
-    "headline": "An L.A. man was detained in an immigration raid. No one knows where he is",
-    "link": "https://www.latimes.com/politics/story/2025-11-22/la-man-was-detained-in-immigration-raid-no-one-knows-where-he-is",
+    "headline": "LAFD records show no sign of 'cold trailing' again at Lachman fire, as interim chief had claimed",
+    "link": "https://www.latimes.com/california/story/2025-11-22/lafd-records-show-no-sign-of-cold-trailing-again-at-lachman-fire-as-interim-chief-had-claimed",
     "source": "latimes",
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
   {
     "headline": "Pondering a run for governor, Atty. Gen. Rob Bonta faces questions about legal spending",
     "link": "https://www.latimes.com/california/story/2025-11-22/pondering-governor-run-atty-gen-faces-questions-on-legal-spending",
-    "source": "latimes",
-    "pubdate": "2025-11-22-11-00-00 +0000"
-  },
-  {
-    "headline": "LAFD records show no sign of 'cold trailing' again at Lachman fire, as interim chief had claimed",
-    "link": "https://www.latimes.com/california/story/2025-11-22/lafd-records-show-no-sign-of-cold-trailing-again-at-lachman-fire-as-interim-chief-had-claimed",
     "source": "latimes",
     "pubdate": "2025-11-22-11-00-00 +0000"
   },
@@ -6252,12 +6270,6 @@
     "pubdate": "2025-11-21-15-25-00 +0000"
   },
   {
-    "headline": "U.S. Ambassador to Canada Channels Harsh Trump Tone",
-    "link": "https://www.nytimes.com/2025/11/20/world/canada/pete-hoekstra-canada-us-ambassador.html",
-    "source": "nyt",
-    "pubdate": "2025-11-21-15-22-34 +0000"
-  },
-  {
     "headline": "U.S. Pushes a Hamas-Free ‘Green Zone’ in Gaza",
     "link": "https://www.wsj.com/world/middle-east/u-s-pushes-a-hamas-free-green-zone-in-gaza-7a55bc19",
     "source": "wsj",
@@ -6306,8 +6318,26 @@
     "pubdate": "2025-11-21-11-13-06 +0000"
   },
   {
-    "headline": "L.A.'s famous 'Hobbit Houses' have a new owner. He calls himself the 'King of Storybook'",
-    "link": "https://www.latimes.com/california/story/2025-11-21/hobbit-house-story",
+    "headline": "Pest control firms to pay $3.15 million after probes find nasty things in the trash",
+    "link": "https://www.latimes.com/california/story/2025-11-21/pest-control-trio-settle-for-3-15-million-over-illegal-waste-disposal",
+    "source": "latimes",
+    "pubdate": "2025-11-21-11-00-00 +0000"
+  },
+  {
+    "headline": "Hundreds of Joshua trees were scorched during the shutdown",
+    "link": "https://www.latimes.com/environment/story/2025-11-21/hundreds-of-joshua-trees-scorched-amid-shutdown",
+    "source": "latimes",
+    "pubdate": "2025-11-21-11-00-00 +0000"
+  },
+  {
+    "headline": "This L.A. woman was jailed as a WWII traitor. How a pair of perjuries ensnared 'Tokyo Rose'",
+    "link": "https://www.latimes.com/california/story/2025-11-21/tokyo-rose-los-angeles-woman-world-war-two-treason-perjury",
+    "source": "latimes",
+    "pubdate": "2025-11-21-11-00-00 +0000"
+  },
+  {
+    "headline": "Huge storms produced wettest November on record for parts of Southern California",
+    "link": "https://www.latimes.com/california/story/2025-11-21/flooding-downpours-stormy-week-southern-california",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
@@ -6320,36 +6350,6 @@
   {
     "headline": "Thai massage therapists find community and mental health support in self-defense classes",
     "link": "https://www.latimes.com/california/story/2025-11-21/l-a-s-thai-massage-therapists-find-mental-health-support-in-community-groups-and-self-defense-classes",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "Six mental healthcare recommendations for and by L.A.'s Thai community",
-    "link": "https://www.latimes.com/california/story/2025-11-21/six-mental-healthcare-recommendations-for-and-by-la-thai-community",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "Voices from L.A. Thai community on mental health",
-    "link": "https://www.latimes.com/california/story/2025-11-21/voices-from-l-a-thai-community-on-mental-health",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "Even a full reservoir wouldn't have ensured water in Palisades fire, California officials say",
-    "link": "https://www.latimes.com/environment/story/2025-11-21/palisades-fire-reservoir-water-state-report",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "Pest control firms to pay $3.15 million after probes find nasty things in the trash",
-    "link": "https://www.latimes.com/california/story/2025-11-21/pest-control-trio-settle-for-3-15-million-over-illegal-waste-disposal",
-    "source": "latimes",
-    "pubdate": "2025-11-21-11-00-00 +0000"
-  },
-  {
-    "headline": "Bear, in fall feeding frenzy, follows 87-year-old California man into his home",
-    "link": "https://www.latimes.com/california/story/2025-11-21/bear-bulking-up-for-winter-followed-tahoe-man-right-into-his-home",
     "source": "latimes",
     "pubdate": "2025-11-21-11-00-00 +0000"
   },
