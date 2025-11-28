@@ -22,10 +22,10 @@
   },
   {
     "score": 123,
-    "pubdate": "2025-11-27-02-38-45 +0000",
-    "source": "nyt",
-    "headline": "U.K. Budget Plan Calms Markets and Labour Faithful. Will It Appeal to Voters?",
-    "link": "https://www.nytimes.com/2025/11/26/world/europe/uk-budget-starmer-reeves.html"
+    "pubdate": "2025-11-25-12-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Trump budget will drain $315M a year from San Francisco’s coffers, city says",
+    "link": "https://missionlocal.org/2025/11/sf-trump-budget-big-beautiful-bill/"
   },
   {
     "score": 122,
@@ -49,24 +49,24 @@
     "link": "https://www.cbc.ca/news/world/trump-georgia-election-charges-dropped-9.6993093?cmp=rss"
   },
   {
-    "score": 106,
-    "pubdate": "2025-11-27-06-00-14 +0000",
-    "source": "bbc",
-    "headline": "Year after ceasefire, peace eludes south Lebanon as Israeli strikes continue",
-    "link": "https://www.bbc.com/news/articles/cdd560nvqqdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 88,
+    "score": 104,
     "pubdate": "2025-11-28-13-54-56 +0000",
     "source": "bbc",
     "headline": "Ex-president's daughter resigns over allegations she duped South Africans to fight for Russia",
     "link": "https://www.bbc.com/news/articles/cx2dndy228xo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 91,
+    "pubdate": "2025-11-28-14-40-07 +0000",
+    "source": "nyt",
+    "headline": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows",
+    "link": "https://www.nytimes.com/2025/11/28/world/middleeast/israel-west-bank-shooting-palestinians-video.html"
+  },
+  {
     "score": 85,
-    "pubdate": "2025-11-26-20-33-00 +0000",
-    "source": "wsj",
-    "headline": "The job market continues to sputter even as cost and price pressures persist, a Federal Reserve report found, underscoring the competing risks central bank officials will have to weigh next month",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-beige-book-2025-dcf6b740"
+    "pubdate": "2025-11-26-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Chabria: California's first partner pushes to regulate AI while Trump and tech bros thunder forward",
+    "link": "https://www.latimes.com/california/story/2025-11-26/californias-first-partner-pushes-to-regulate-ai-as-trump-threatens-to-forbid-regulations"
   }
 ]
