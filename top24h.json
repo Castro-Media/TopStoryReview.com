@@ -1,13 +1,13 @@
 [
   {
-    "score": 178,
+    "score": 175,
     "pubdate": "2025-11-28-14-46-00 +0000",
     "source": "wsj",
     "headline": "Here’s what to know about Rahmanullah Lakanwal, the Afghan suspect in Wednesday’s shooting of two National Guard members serving in Washington, D.C.",
     "link": "https://www.wsj.com/politics/national-security/who-is-d-c-shooting-suspect-rahmanullah-lakanwal-c44ef1cd"
   },
   {
-    "score": 142,
+    "score": 135,
     "pubdate": "2025-11-27-17-29-02 +0000",
     "source": "nyt",
     "headline": "Hong Kong Fire Shared Similarities With Grenfell Tower Fire in London",
@@ -28,18 +28,11 @@
     "link": "https://nypost.com/2025/11/27/us-news/prosecutors-will-seek-death-penalty-against-dc-national-guard-shooter-bondi/"
   },
   {
-    "score": 49,
-    "pubdate": "2025-11-27-15-28-14 +0000",
-    "source": "cbc",
-    "headline": "Carney’s energy deal went down very differently, depending on who you ask. Here’s how the day played out",
-    "link": "https://www.cbc.ca/news/politics/livestory/alberta-ottawa-memorandum-of-understanding-energy-deal-pipeline-bc-9.6993431?cmp=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-11-28-11-00-00 +0000",
-    "source": "nypost",
-    "headline": "New analysis reveals where NYers, tourists are flocking for Black Friday shopping – with some hubs showing ‘impressive growth’",
-    "link": "https://nypost.com/2025/11/28/us-news/new-analysis-reveals-where-nyers-tourists-are-flocking-for-black-friday-shopping-with-some-hubs-showing-impressive-growth/"
+    "score": 45,
+    "pubdate": "2025-11-28-13-55-04 +0000",
+    "source": "nyt",
+    "headline": "Trump Cut Europe Out of Ukraine Talks. Here’s How Europe Pushed Back.",
+    "link": "https://www.nytimes.com/2025/11/27/world/europe/europe-ukraine-trump.html"
   },
   {
     "score": 45,
@@ -49,18 +42,11 @@
     "link": "https://www.nytimes.com/2025/11/28/world/middleeast/israel-west-bank-shooting-palestinians-video.html"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-27-15-04-12 +0000",
-    "source": "bbc",
-    "headline": "Pope Leo on first foreign trip says future of humanity at stake from conflict",
-    "link": "https://www.bbc.com/news/articles/cy5g3076lqzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-11-28-13-55-04 +0000",
-    "source": "nyt",
-    "headline": "Trump Cut Europe Out of Ukraine Talks. Here’s How Europe Pushed Back.",
-    "link": "https://www.nytimes.com/2025/11/27/world/europe/europe-ukraine-trump.html"
+    "score": 44,
+    "pubdate": "2025-11-28-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "New analysis reveals where NYers, tourists are flocking for Black Friday shopping – with some hubs showing ‘impressive growth’",
+    "link": "https://nypost.com/2025/11/28/us-news/new-analysis-reveals-where-nyers-tourists-are-flocking-for-black-friday-shopping-with-some-hubs-showing-impressive-growth/"
   },
   {
     "score": 37,
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "Michelle and Barack Obama post cheery family photo for Thanksgiving, following a year of swirling divorce rumors",
     "link": "https://nypost.com/2025/11/27/us-news/michelle-and-barack-obama-post-post-cheery-family-photo-for-thanksgiving-following-a-year-of-swirling-divorce-rumors/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-11-28-08-36-00 +0000",
+    "source": "wsj",
+    "headline": "The Deadly Mix of Factors That Made a Hong Kong High-Rise Fire So Devastating",
+    "link": "https://www.wsj.com/world/asia/the-deadly-mix-of-factors-that-made-a-hong-kong-high-rise-fire-so-devastating-8a478821"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-11-28-08-59-32 +0000",
+    "source": "bbc",
+    "headline": "Louvre to hike ticket prices for most non-EU tourists by 45%",
+    "link": "https://www.bbc.com/news/articles/clyd4llgrego?at_medium=RSS&at_campaign=rss"
   }
 ]
