@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 30,
+    "pubdate": "2025-11-28-21-31-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he was revoking all executive orders former President Joe Biden signed with an autopen, escalating his battle with his predecessor over the use of the signature proxy device",
+    "link": "https://www.wsj.com/politics/trump-says-he-is-canceling-all-biden-executive-orders-signed-with-autopen-00d59515"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-28-21-25-43 +0000",
+    "source": "nyt",
+    "headline": "Trump Spoke by Phone Last Week With Maduro, Venezuela’s Leader",
+    "link": "https://www.nytimes.com/2025/11/28/us/politics/trump-spoke-by-phone-last-week-with-maduro-venezuelas-leader.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-11-28-21-27-27 +0000",
+    "source": "nypost",
+    "headline": "Sarah Beckstrom, hero National Guard member killed in DC ambush, had ‘heart of gold,’ dreamed of one day joining FBI",
+    "link": "https://nypost.com/2025/11/28/us-news/sarah-beckstrom-had-heart-of-gold-dreamed-of-one-way-joining-fbi/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-11-28-20-59-56 +0000",
+    "source": "bbc",
+    "headline": "No 10 denies Reeves misled public in run-up to Budget",
+    "link": "https://www.bbc.com/news/articles/c4gex225p5jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-28-21-47-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | The Left’s Climate Dreams Hit Energy Reality",
+    "link": "https://www.wsj.com/opinion/the-lefts-climate-dreams-hit-energy-reality-da81419d"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-11-28-21-10-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump is pushing for an intensified “reverse migration” agenda, seeking to broaden a crackdown on millions of immigrants from poorer countries in the U.S.",
+    "link": "https://www.wsj.com/politics/policy/trump-pushes-for-reverse-migration-as-he-seeks-to-widen-crackdown-9a131da3"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-28-21-44-25 +0000",
+    "source": "nypost",
+    "headline": "2 National Guard troops seen in jarring photo moments after being gunned down by Afghan terror suspect in DC",
+    "link": "https://nypost.com/2025/11/28/us-news/2-national-guard-troops-seen-in-jarring-photo-moments-after-being-gunned-down-by-afghan-terror-suspect-in-dc/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-28-21-36-19 +0000",
+    "source": "bbc",
+    "headline": "Passengers face disruption as Airbus makes software updates to planes",
+    "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-28-20-56-21 +0000",
+    "source": "nypost",
+    "headline": "Black Friday crowds look sparse at stores as skittish shoppers search for deals online",
+    "link": "https://nypost.com/2025/11/28/business/black-friday-crowds-look-sparse-at-stores-as-skittish-shoppers-search-for-deals-online/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-28-21-41-02 +0000",
+    "source": "startribune",
+    "headline": "Brooks: Gov. Tim Walz knows how bullies operate",
+    "link": "https://www.startribune.com/brooks-gov-tim-walz-knows-how-bullies-operate/601535429"
+  }
+]
