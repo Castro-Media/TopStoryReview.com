@@ -1,24 +1,31 @@
 [
   {
-    "score": 166,
+    "score": 174,
     "pubdate": "2025-11-29-01-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would pardon former Honduran President Juan Orlando Hernández, who is serving a 45-year sentence for drug trafficking",
     "link": "https://www.wsj.com/politics/trump-to-pardon-former-honduran-president-serving-45-year-drug-trafficking-sentence-4727e5a6"
   },
   {
-    "score": 90,
-    "pubdate": "2025-11-29-15-51-46 +0000",
-    "source": "nypost",
-    "headline": "Rahmanullah Lakanwal, suspect in deadly National Guard shooting, expected to survive — setting up blockbuster DC criminal trial",
-    "link": "https://nypost.com/2025/11/29/us-news/rahmanullah-lakanwal-expected-to-survive-after-dc-national-guard-shooting/"
+    "score": 66,
+    "pubdate": "2025-11-29-07-14-36 +0000",
+    "source": "bbc",
+    "headline": "US halts all asylum claim decisions after National Guard shooting",
+    "link": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
-    "pubdate": "2025-11-29-02-38-54 +0000",
+    "score": 63,
+    "pubdate": "2025-11-29-16-57-09 +0000",
     "source": "nyt",
-    "headline": "Death Toll Rises to 128 in Hong Kong High-Rise Fire",
-    "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html"
+    "headline": "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City",
+    "link": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-11-29-20-06-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump on Saturday said that the airspace surrounding Venezuela should be considered closed, ratcheting up tensions with the regime of Nicolás Maduro",
+    "link": "https://www.wsj.com/politics/national-security/trump-declares-that-airspace-around-venezuela-should-be-considered-closed-07b748ee"
   },
   {
     "score": 50,
@@ -29,44 +36,37 @@
   },
   {
     "score": 47,
-    "pubdate": "2025-11-29-17-39-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump on Saturday said that the airspace surrounding Venezuela should be considered closed, ratcheting up tensions with the regime of Nicolás Maduro",
-    "link": "https://www.wsj.com/politics/national-security/trump-declares-that-airspace-around-venezuela-should-be-considered-closed-07b748ee"
+    "pubdate": "2025-11-29-20-03-34 +0000",
+    "source": "nypost",
+    "headline": "Pope Leo visits Turkey’s famous Blue Mosque in his socks — but refuses to join prayer",
+    "link": "https://nypost.com/2025/11/29/world-news/pope-leo-xiv-visits-famous-turkish-mosque-in-his-socks-but-shockingly-refuses-to-join-prayer/"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2025-11-29-18-52-19 +0000",
     "source": "nyt",
     "headline": "South Africans Were Promised Job, but Ended Up ‘Going to War’ for Russia",
     "link": "https://www.nytimes.com/2025/11/29/world/africa/south-africa-russia-ukraine-fighters-zuma.html"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-29-15-29-44 +0000",
-    "source": "nyt",
-    "headline": "Pope Leo Visits Turkey on His First Trip as Pontiff",
-    "link": "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html"
+    "score": 42,
+    "pubdate": "2025-11-29-19-34-03 +0000",
+    "source": "nypost",
+    "headline": "White House hits back after Dem blames Trump for DC shooting despite Afghan terror suspect being let in under Biden",
+    "link": "https://nypost.com/2025/11/29/us-news/white-house-hits-back-after-dem-blames-trump-for-dc-shooting-despite-afghan-terror-suspect-being-let-in-under-biden/"
   },
   {
-    "score": 41,
+    "score": 38,
+    "pubdate": "2025-11-29-16-26-44 +0000",
+    "source": "nypost",
+    "headline": "Mom of  NJ teen killed outside NYC ax-throwing bar claims booze, lax security led to her son’s death",
+    "link": "https://nypost.com/2025/11/29/us-news/mom-of-nj-teen-killed-outside-nyc-ax-throwing-bar-claims-booze-lax-security-led-to-her-sons-death/"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-11-29-15-47-14 +0000",
     "source": "nypost",
     "headline": "Ukraine hit two ‘shadow fleet’ oil tankers with drones in Black Sea",
     "link": "https://nypost.com/2025/11/29/world-news/ukraine-hit-two-shadow-fleet-tankers-with-drones-in-black-sea/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-11-29-07-02-51 +0000",
-    "source": "wapo",
-    "headline": "U.S. halts all asylum decisions, pauses visas for Afghan nationals",
-    "link": "https://www.washingtonpost.com/immigration/2025/11/28/asylum-decisions-pause-trump-immigration/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2025-11-29-15-20-00 +0000",
-    "source": "wsj",
-    "headline": "‘Significant Number’ of Airbus Planes Require Critical Software Fix Before They Can Fly",
-    "link": "https://www.wsj.com/business/airlines/airbus-grounds-significant-number-of-a320-planes-8d3d4d09?mod=pls_whats_news_us_business_f"
   }
 ]
