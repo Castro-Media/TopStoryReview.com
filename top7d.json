@@ -1,13 +1,13 @@
 [
   {
-    "score": 330,
+    "score": 335,
     "pubdate": "2025-11-29-01-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would pardon former Honduran President Juan Orlando Hernández, who is serving a 45-year sentence for drug trafficking",
     "link": "https://www.wsj.com/politics/trump-to-pardon-former-honduran-president-serving-45-year-drug-trafficking-sentence-4727e5a6"
   },
   {
-    "score": 257,
+    "score": 255,
     "pubdate": "2025-11-28-14-46-00 +0000",
     "source": "wsj",
     "headline": "Here’s what to know about Rahmanullah Lakanwal, the Afghan suspect in Wednesday’s shooting of two National Guard members serving in Washington, D.C.",
@@ -15,10 +15,17 @@
   },
   {
     "score": 193,
-    "pubdate": "2025-11-27-23-35-38 +0000",
+    "pubdate": "2025-11-27-17-29-02 +0000",
     "source": "nyt",
-    "headline": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-survivors-escape.html"
+    "headline": "Hong Kong Fire Shared Similarities With Grenfell Tower Fire in London",
+    "link": "https://www.nytimes.com/2025/11/26/world/asia/bamboo-scaffolding-hong-kong-fire.html"
+  },
+  {
+    "score": 156,
+    "pubdate": "2025-11-28-23-50-12 +0000",
+    "source": "nypost",
+    "headline": "Treasury Secretary Scott Bessent moves to ‘cut off’ illegal migrants from tax benefits, cross-border money transfers: ‘No place for you in our financial system’",
+    "link": "https://nypost.com/2025/11/28/us-news/treasury-secretary-scott-bessent-moves-to-cut-off-illegal-migrants-from-tax-benefits-and-cross-border-money-transfers/"
   },
   {
     "score": 146,
@@ -35,13 +42,6 @@
     "link": "https://nypost.com/2025/11/28/world-news/zelenskys-top-aide-andriy-yermak-resigns-after-raid-on-his-home-upending-ukraines-team-for-peace-talks/"
   },
   {
-    "score": 117,
-    "pubdate": "2025-11-28-23-50-12 +0000",
-    "source": "nypost",
-    "headline": "Treasury Secretary Scott Bessent moves to ‘cut off’ illegal migrants from tax benefits, cross-border money transfers: ‘No place for you in our financial system’",
-    "link": "https://nypost.com/2025/11/28/us-news/treasury-secretary-scott-bessent-moves-to-cut-off-illegal-migrants-from-tax-benefits-and-cross-border-money-transfers/"
-  },
-  {
     "score": 105,
     "pubdate": "2025-11-28-20-44-05 +0000",
     "source": "nypost",
@@ -50,10 +50,17 @@
   },
   {
     "score": 98,
-    "pubdate": "2025-11-29-05-03-33 +0000",
+    "pubdate": "2025-11-29-05-03-34 +0000",
     "source": "nyt",
     "headline": "South Africans Were Promised Job, but Ended Up ‘Going to War’ for Russia",
     "link": "https://www.nytimes.com/2025/11/29/world/africa/south-africa-russia-ukraine-fighters-zuma.html"
+  },
+  {
+    "score": 91,
+    "pubdate": "2025-11-29-03-38-10 +0000",
+    "source": "nypost",
+    "headline": "Three victims shot at California mall as shoppers barricade themselves in stores on Black Friday: police",
+    "link": "https://nypost.com/2025/11/28/us-news/at-least-two-reported-victims-shot-at-valley-fair-mall-in-california-on-black-friday-police/"
   },
   {
     "score": 91,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "U.K. Budget Plan Calms Markets and Labour Faithful. Will It Appeal to Voters?",
     "link": "https://www.nytimes.com/2025/11/26/world/europe/uk-budget-starmer-reeves.html"
-  },
-  {
-    "score": 90,
-    "pubdate": "2025-11-29-03-38-10 +0000",
-    "source": "nypost",
-    "headline": "Three victims shot at California mall as shoppers barricade themselves in stores on Black Friday: police",
-    "link": "https://nypost.com/2025/11/28/us-news/at-least-two-reported-victims-shot-at-valley-fair-mall-in-california-on-black-friday-police/"
   }
 ]
