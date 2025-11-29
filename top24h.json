@@ -7,21 +7,21 @@
     "link": "https://www.wsj.com/politics/trump-to-pardon-former-honduran-president-serving-45-year-drug-trafficking-sentence-4727e5a6"
   },
   {
-    "score": 97,
+    "score": 90,
     "pubdate": "2025-11-29-15-51-46 +0000",
     "source": "nypost",
     "headline": "Rahmanullah Lakanwal, suspect in deadly National Guard shooting, expected to survive — setting up blockbuster DC criminal trial",
     "link": "https://nypost.com/2025/11/29/us-news/rahmanullah-lakanwal-expected-to-survive-after-dc-national-guard-shooting/"
   },
   {
-    "score": 59,
-    "pubdate": "2025-11-28-18-45-45 +0000",
-    "source": "nypost",
-    "headline": "Dog saves retiree from narrowly being killed in raging Hong Kong fire that’s left at least 128 dead",
-    "link": "https://nypost.com/2025/11/28/world-news/elderly-man-narrowly-escapes-harrowing-hong-kong-fire-because-his-dog-demanded-a-walk/"
+    "score": 52,
+    "pubdate": "2025-11-29-02-38-54 +0000",
+    "source": "nyt",
+    "headline": "Death Toll Rises to 128 in Hong Kong High-Rise Fire",
+    "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html"
   },
   {
-    "score": 53,
+    "score": 50,
     "pubdate": "2025-11-28-23-50-12 +0000",
     "source": "nypost",
     "headline": "Treasury Secretary Scott Bessent moves to ‘cut off’ illegal migrants from tax benefits, cross-border money transfers: ‘No place for you in our financial system’",
@@ -29,44 +29,44 @@
   },
   {
     "score": 47,
-    "pubdate": "2025-11-29-13-50-50 +0000",
-    "source": "nypost",
-    "headline": "Russia attack on Kyiv kills three as efforts to end Ukraine war gain momentum",
-    "link": "https://nypost.com/2025/11/29/world-news/russian-attacks-kill-3-as-efforts-to-end-war-in-ukraine-gain-momentum/"
+    "pubdate": "2025-11-29-17-39-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump on Saturday said that the airspace surrounding Venezuela should be considered closed, ratcheting up tensions with the regime of Nicolás Maduro",
+    "link": "https://www.wsj.com/politics/national-security/trump-declares-that-airspace-around-venezuela-should-be-considered-closed-07b748ee"
   },
   {
     "score": 46,
-    "pubdate": "2025-11-29-12-47-31 +0000",
-    "source": "nypost",
-    "headline": "Mamdani-linked PAC allegedly offered Hispanic business leader job, seat on transition team if he raised $1M in 3 days",
-    "link": "https://nypost.com/2025/11/29/us-news/mamdani-linked-pac-allegedly-offered-hispanic-business-leader-job-seat-on-transition-team-if-he-raised-1m-in-3-days/"
+    "pubdate": "2025-11-29-18-52-19 +0000",
+    "source": "nyt",
+    "headline": "South Africans Were Promised Job, but Ended Up ‘Going to War’ for Russia",
+    "link": "https://www.nytimes.com/2025/11/29/world/africa/south-africa-russia-ukraine-fighters-zuma.html"
   },
   {
-    "score": 43,
+    "score": 41,
+    "pubdate": "2025-11-29-15-29-44 +0000",
+    "source": "nyt",
+    "headline": "Pope Leo Visits Turkey on His First Trip as Pontiff",
+    "link": "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-11-29-15-47-14 +0000",
+    "source": "nypost",
+    "headline": "Ukraine hit two ‘shadow fleet’ oil tankers with drones in Black Sea",
+    "link": "https://nypost.com/2025/11/29/world-news/ukraine-hit-two-shadow-fleet-tankers-with-drones-in-black-sea/"
+  },
+  {
+    "score": 40,
     "pubdate": "2025-11-29-07-02-51 +0000",
     "source": "wapo",
     "headline": "U.S. halts all asylum decisions, pauses visas for Afghan nationals",
     "link": "https://www.washingtonpost.com/immigration/2025/11/28/asylum-decisions-pause-trump-immigration/"
   },
   {
-    "score": 42,
-    "pubdate": "2025-11-28-19-58-22 +0000",
-    "source": "wapo",
-    "headline": "Zelensky’s top aide, lead negotiator resigns amid corruption probe",
-    "link": "https://www.washingtonpost.com/world/2025/11/28/yermak-resignation-zelenky-war-ukraine/"
-  },
-  {
-    "score": 39,
-    "pubdate": "2025-11-28-18-15-31 +0000",
-    "source": "nyt",
-    "headline": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows",
-    "link": "https://www.nytimes.com/2025/11/28/world/middleeast/israel-west-bank-shooting-palestinians-video.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-11-29-15-29-44 +0000",
-    "source": "nyt",
-    "headline": "Pope Leo Visits Turkey on His First Trip as Pontiff",
-    "link": "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html"
+    "score": 37,
+    "pubdate": "2025-11-29-15-20-00 +0000",
+    "source": "wsj",
+    "headline": "‘Significant Number’ of Airbus Planes Require Critical Software Fix Before They Can Fly",
+    "link": "https://www.wsj.com/business/airlines/airbus-grounds-significant-number-of-a320-planes-8d3d4d09?mod=pls_whats_news_us_business_f"
   }
 ]
