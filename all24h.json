@@ -1,5 +1,383 @@
 [
   {
+    "headline": "Northwestern to pay $75M in federal civil-rights deal after antisemitism probes",
+    "link": "https://nypost.com/2025/11/29/us-news/northwestern-to-pay-75m-in-federal-civil-rights-deal-after-antisemitism-probes-trump-administration/",
+    "source": "nypost",
+    "pubdate": "2025-11-29-11-49-52 +0000"
+  },
+  {
+    "headline": "In Firing His No. 2, Zelensky Loses Both a Negotiator and an Enforcer",
+    "link": "https://www.nytimes.com/2025/11/29/world/europe/zelensky-yermak-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-11-31-28 +0000"
+  },
+  {
+    "headline": "In Firing His No. 2, Zelensky Loses Both a Negotiator and an Enforcer",
+    "link": "https://www.nytimes.com/2025/11/29/world/europe/zelensky-yermak-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-11-31-28 +0000"
+  },
+  {
+    "headline": "Fall of Zelensky's top aide - reboot for Kyiv or costly shake-up?",
+    "link": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-11-29-35 +0000"
+  },
+  {
+    "headline": "Fall of Zelensky's top aide - reboot for Kyiv or costly shake-up?",
+    "link": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-11-29-35 +0000"
+  },
+  {
+    "headline": "Highlight Reel",
+    "link": "https://www.nytimes.com/2025/11/29/briefing/highlight-reel.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-11-11-18 +0000"
+  },
+  {
+    "headline": "Illinois man Erik Crump allegedly set home ablaze on Thanksgiving following heated argument",
+    "link": "https://nypost.com/2025/11/29/us-news/illinois-man-erik-crump-set-family-home-on-fire-after-thanksgiving-argument/",
+    "source": "nypost",
+    "pubdate": "2025-11-29-11-04-02 +0000"
+  },
+  {
+    "headline": "Australian prime minister becomes first to wed in office",
+    "link": "https://www.bbc.com/news/articles/ce865kpdzz8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-11-02-47 +0000"
+  },
+  {
+    "headline": "Think stores get the tax break? The truth about checkout donations.",
+    "link": "https://www.washingtonpost.com/business/2025/11/29/charity-round-up-checkout-tax-deduction/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-11-00-49 +0000"
+  },
+  {
+    "headline": "She’s torn over her love for Trump and her work with migrants",
+    "link": "https://www.washingtonpost.com/nation/2025/11/29/chicago-trump-immigration-crackdown-backlash/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-11-00-42 +0000"
+  },
+  {
+    "headline": "Fresh Reporting on Asylum Seekers at the U.S.-Canadian Border",
+    "link": "https://www.nytimes.com/2025/11/29/world/canada/asylum-seekers-us-canada-border.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-11-00-06 +0000"
+  },
+  {
+    "headline": "Fresh Reporting on Asylum Seekers at the U.S.-Canadian Border",
+    "link": "https://www.nytimes.com/2025/11/29/world/canada/asylum-seekers-us-canada-border.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-11-00-06 +0000"
+  },
+  {
+    "headline": "Hurry up and wait: Venezuelans try to prepare for U.S. attack",
+    "link": "https://www.washingtonpost.com/world/2025/11/29/venezuela-united-states-attack/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-11-00-00 +0000"
+  },
+  {
+    "headline": "More California students than ever are heading out of state for college. Here's why",
+    "link": "https://www.latimes.com/california/story/2025-11-29/more-california-students-than-ever-are-heading-out-of-state-for-college-heres-why",
+    "source": "latimes",
+    "pubdate": "2025-11-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Latinas are wearing twin braids with colorful ribbons in peaceful protest",
+    "link": "https://www.washingtonpost.com/nation/interactive/2025/latino-hair-braids-ribbons/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-11-00-00 +0000"
+  },
+  {
+    "headline": "News Quiz for Nov. 29, 2025",
+    "link": "https://www.wsj.com/business/media/news-quiz-for-nov-29-2025-de57b134?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Trump cut tariffs on these five foods. It’s too late to stop price hikes.",
+    "link": "https://www.washingtonpost.com/business/2025/11/29/food-price-inflation-trump-tariffs/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Flights returning to normal after Airbus warning grounded planes",
+    "link": "https://www.bbc.com/news/articles/c4gp9d28p74o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-10-54-24 +0000"
+  },
+  {
+    "headline": "More than 600,000 without power in Kyiv after Russian strikes",
+    "link": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-10-34-24 +0000"
+  },
+  {
+    "headline": "More than 600,000 without power in Kyiv after Russian strikes",
+    "link": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-10-34-24 +0000"
+  },
+  {
+    "headline": "She Managed His Fortune. How Did She End Up Inheriting It?",
+    "link": "https://www.wsj.com/style/elder-abuse-david-jeff-judelson-eva-gulf-western-cbefa2d6",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-30-00 +0000"
+  },
+  {
+    "headline": "Big Paychecks Can’t Woo Enough Sailors for America’s Commercial Fleet",
+    "link": "https://www.wsj.com/business/logistics/big-paychecks-cant-woo-enough-sailors-for-americas-commercial-fleet-e40c422e",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-30-00 +0000"
+  },
+  {
+    "headline": "Copper Thieves Are Wreaking Havoc Across America",
+    "link": "https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-30-00 +0000"
+  },
+  {
+    "headline": "Big Paychecks Can’t Woo Enough Sailors for America’s Commercial Fleet",
+    "link": "https://www.wsj.com/business/logistics/big-paychecks-cant-woo-enough-sailors-for-americas-commercial-fleet-e40c422e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-30-00 +0000"
+  },
+  {
+    "headline": "Copper Thieves Are Wreaking Havoc Across America",
+    "link": "https://www.wsj.com/business/telecom/copper-thieves-are-wreaking-havoc-across-america-9135906f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-30-00 +0000"
+  },
+  {
+    "headline": "Since Trump’s Return, Bets on His Brand Have Soured",
+    "link": "https://www.wsj.com/finance/stocks/donald-trump-djt-stock-crypto-slump-05b89b5b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-30-00 +0000"
+  },
+  {
+    "headline": "Meet the Millionaire Enrollment Chiefs at Tulane and the University of Chicago",
+    "link": "https://www.nytimes.com/2025/11/29/business/tulane-university-chicago-early-decision.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-01-48 +0000"
+  },
+  {
+    "headline": "Political Confusion as Texas Awaits Supreme Court’s Ruling on Redistricting",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/texas-gerrymander.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-01-33 +0000"
+  },
+  {
+    "headline": "Political Confusion as Texas Awaits Supreme Court’s Ruling on Redistricting",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/texas-gerrymander.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-01-33 +0000"
+  },
+  {
+    "headline": "Latin American Leaders Face Both Trump and Voters Deported by the U.S.",
+    "link": "https://www.nytimes.com/2025/11/29/world/americas/honduras-deportees-elections.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-01-32 +0000"
+  },
+  {
+    "headline": "Latin American Leaders Face Both Trump and Voters Deported by the U.S.",
+    "link": "https://www.nytimes.com/2025/11/29/world/americas/honduras-deportees-elections.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-01-32 +0000"
+  },
+  {
+    "headline": "Ahead of Primary Elections, Time Is Running Out in the Fight Over Congressional Maps",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/congressional-maps-voting-calendar.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-01-03 +0000"
+  },
+  {
+    "headline": "Ahead of Primary Elections, Time Is Running Out in the Fight Over Congressional Maps",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/congressional-maps-voting-calendar.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-01-03 +0000"
+  },
+  {
+    "headline": "Republicans Flipped South Texas. Can a Moderate Tejano Singer Take It Back?",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/bobby-pulido.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-59 +0000"
+  },
+  {
+    "headline": "Republicans Flipped South Texas. Can a Moderate Tejano Singer Take It Back?",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/bobby-pulido.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-59 +0000"
+  },
+  {
+    "headline": "International force at heart of Trump’s Gaza plan struggles to find takers",
+    "link": "https://www.washingtonpost.com/world/2025/11/29/isf-gaza-trump-international-force/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-10-00-54 +0000"
+  },
+  {
+    "headline": "Israeli Hostage Recounts Beatings and Starvation During Hamas Captivity",
+    "link": "https://www.nytimes.com/2025/11/29/world/middleeast/israel-hostage-hamas-gaza-torture-segev-kalfon.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-42 +0000"
+  },
+  {
+    "headline": "Israeli Hostage Recounts Beatings and Starvation During Hamas Captivity",
+    "link": "https://www.nytimes.com/2025/11/29/world/middleeast/israel-hostage-hamas-gaza-torture-segev-kalfon.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-42 +0000"
+  },
+  {
+    "headline": "Inside Trump’s Push to Make the White House Ballroom as Big as Possible",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/trump-white-house-ballroom.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-33 +0000"
+  },
+  {
+    "headline": "Inside Trump’s Push to Make the White House Ballroom as Big as Possible",
+    "link": "https://www.nytimes.com/2025/11/29/us/politics/trump-white-house-ballroom.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-33 +0000"
+  },
+  {
+    "headline": "How Fraud Swamped Minnesota’s Social Services System on Tim Walz’s Watch",
+    "link": "https://www.nytimes.com/2025/11/29/us/fraud-minnesota-somali.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-20 +0000"
+  },
+  {
+    "headline": "Pentagon’s right-wing, pared press corps gets a meet-and-greet",
+    "link": "https://www.washingtonpost.com/business/2025/11/29/pentagon-press-policy-hegseth/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-10-00-15 +0000"
+  },
+  {
+    "headline": "Call My Agent, the Basketball Version",
+    "link": "https://www.nytimes.com/2025/11/29/business/call-my-agent-the-basketball-version.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-13 +0000"
+  },
+  {
+    "headline": "The Ukrainians Stuck in Russia’s New Gulag",
+    "link": "https://www.nytimes.com/2025/11/29/world/europe/the-ukrainians-stuck-in-russias-new-gulag.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-10 +0000"
+  },
+  {
+    "headline": "The Ukrainians Stuck in Russia’s New Gulag",
+    "link": "https://www.nytimes.com/2025/11/29/world/europe/the-ukrainians-stuck-in-russias-new-gulag.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-10 +0000"
+  },
+  {
+    "headline": "Syria Tiptoes Toward Transitional Justice One Year After Assad’s Ouster",
+    "link": "https://www.nytimes.com/2025/11/29/world/middleeast/syria-civil-war-assad.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-06 +0000"
+  },
+  {
+    "headline": "Syria Tiptoes Toward Transitional Justice One Year After Assad’s Ouster",
+    "link": "https://www.nytimes.com/2025/11/29/world/middleeast/syria-civil-war-assad.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-10-00-06 +0000"
+  },
+  {
+    "headline": "Meet the investor who thinks the poverty line should be $140,000",
+    "link": "https://www.washingtonpost.com/business/2025/11/29/poverty-line-green/",
+    "source": "wapo",
+    "pubdate": "2025-11-29-10-00-05 +0000"
+  },
+  {
+    "headline": "D.C. Ambush Exposes Risks for National Guard on Capital’s Crime Patrols",
+    "link": "https://www.wsj.com/politics/policy/d-c-ambush-exposes-risks-for-national-guard-on-capitals-crime-patrols-306289a6",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-00-00 +0000"
+  },
+  {
+    "headline": "A fatal attack on a routine patrol has intensified questions over the Trump administration’s open-ended military deployments in American cities",
+    "link": "https://www.wsj.com/politics/policy/d-c-ambush-exposes-risks-for-national-guard-on-capitals-crime-patrols-306289a6",
+    "source": "wsj",
+    "pubdate": "2025-11-29-10-00-00 +0000"
+  },
+  {
+    "headline": "Rep. Wasserman Schultz says Trump should blame self for putting National Guard in harm’s way with DC crackdown",
+    "link": "https://nypost.com/2025/11/29/us-news/wasserman-schultz-blames-trump-for-dc-national-guard-shooting-death/",
+    "source": "nypost",
+    "pubdate": "2025-11-29-09-41-59 +0000"
+  },
+  {
+    "headline": "Russia Bombards Ukraine for Nearly 10 Hours in a Deadly Assault",
+    "link": "https://www.nytimes.com/2025/11/29/world/europe/ukraine-kyiv-missiles.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-09-38-35 +0000"
+  },
+  {
+    "headline": "Russia Bombards Ukraine for Nearly 10 Hours in a Deadly Assault",
+    "link": "https://www.nytimes.com/2025/11/29/world/europe/ukraine-kyiv-missiles.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-09-38-35 +0000"
+  },
+  {
+    "headline": "Nigeria blames jihadist groups for wave of kidnappings but others accuse criminal gangs",
+    "link": "https://www.bbc.com/news/articles/cvgj9dd983xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-09-34-57 +0000"
+  },
+  {
+    "headline": "Nigeria blames jihadist groups for wave of kidnappings but others accuse criminal gangs",
+    "link": "https://www.bbc.com/news/articles/cvgj9dd983xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-09-34-57 +0000"
+  },
+  {
+    "headline": "Planes grounded after Airbus discovers solar radiation could impact systems",
+    "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-29-09-23-06 +0000"
+  },
+  {
+    "headline": "Australian Prime Minister Anthony Albanese marries partner Jodie Haydon in private ceremony",
+    "link": "https://nypost.com/2025/11/29/world-news/australian-prime-minister-anthony-albanese-marries-partner-jodie-haydon-in-private-ceremony/",
+    "source": "nypost",
+    "pubdate": "2025-11-29-09-07-51 +0000"
+  },
+  {
+    "headline": "Canada at the defence crossroads: The challenges of thinking long-term",
+    "link": "https://www.cbc.ca/news/politics/defence-fighters-submarines-national-security-9.6996946?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-29-09-00-00 +0000"
+  },
+  {
+    "headline": "Signs of progress with India abound, but so do fears that nothing has really changed",
+    "link": "https://www.cbc.ca/news/politics/canada-india-relations-sikh-safety-9.6995179?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-29-09-00-00 +0000"
+  },
+  {
+    "headline": "The NDP’s leadership candidates aren't fluent in French. Will that hurt the party's future?",
+    "link": "https://www.cbc.ca/news/politics/ndp-leadership-race-french-language-quebec-9.6997030?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-29-09-00-00 +0000"
+  },
+  {
+    "headline": "Do activists have a role in government? Steven Guilbeault’s resignation raises questions",
+    "link": "https://www.cbc.ca/news/canada/montreal/guilbeault-resign-activism-politics-9.6997027?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-11-29-09-00-00 +0000"
+  },
+  {
+    "headline": "As Cyclone Deaths Pass 120, Sri Lanka Is Overwhelmed by Rescue Demand",
+    "link": "https://www.nytimes.com/2025/11/29/world/asia/sri-lanka-cyclone-ditwah-floods.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-08-54-59 +0000"
+  },
+  {
+    "headline": "As Cyclone Deaths Pass 120, Sri Lanka Is Overwhelmed by Rescue Demand",
+    "link": "https://www.nytimes.com/2025/11/29/world/asia/sri-lanka-cyclone-ditwah-floods.html",
+    "source": "nyt",
+    "pubdate": "2025-11-29-08-54-59 +0000"
+  },
+  {
     "headline": "A Hong Kong Fire Survivor’s Escape, in His Own Words",
     "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire-survivor-escape-story.html",
     "source": "nyt",
@@ -168,24 +546,6 @@
     "pubdate": "2025-11-29-06-06-23 +0000"
   },
   {
-    "headline": "Planes grounded after Airbus discovers solar radiation could impact systems",
-    "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-29-06-01-25 +0000"
-  },
-  {
-    "headline": "Planes grounded after Airbus discovers solar radiation could impact systems",
-    "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-29-06-01-25 +0000"
-  },
-  {
-    "headline": "Planes grounded after Airbus discovers solar radiation could impact systems",
-    "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-29-06-01-25 +0000"
-  },
-  {
     "headline": "Trump to Pardon Juan Orlando Hernández, Honduran Ex-Leader Convicted in Drug Case",
     "link": "https://www.nytimes.com/2025/11/28/world/americas/trump-pardon-honduras-hernandez.html",
     "source": "nyt",
@@ -232,12 +592,6 @@
     "link": "https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/",
     "source": "wapo",
     "pubdate": "2025-11-29-04-54-18 +0000"
-  },
-  {
-    "headline": "Russian drone strikes hit Kyiv residential areas despite peace moves",
-    "link": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-29-04-48-18 +0000"
   },
   {
     "headline": "‘Significant Number’ of Airbus Planes Require Critical Software Fix Before They Can Fly",
@@ -444,6 +798,12 @@
     "pubdate": "2025-11-29-02-00-00 +0000"
   },
   {
+    "headline": "Make Money Not War: Trump’s Real Plan for Peace in Ukraine",
+    "link": "https://www.wsj.com/world/russia/russia-u-s-peace-business-ties-4db9b290",
+    "source": "wsj",
+    "pubdate": "2025-11-29-02-00-00 +0000"
+  },
+  {
     "headline": "Kentucky Gov. Andy Beshear, the unwavering Democrat who has repeatedly won in Trump country, says some in his party need to talk more like “normal human beings”",
     "link": "https://www.wsj.com/politics/andy-beshear-governor-2028-president-82208794",
     "source": "wsj",
@@ -622,6 +982,12 @@
     "link": "https://nypost.com/2025/11/28/us-news/backstreet-boys-singer-brian-littrell-embroiled-in-bitter-legal-battle-over-beach-at-his-florida-home/",
     "source": "nypost",
     "pubdate": "2025-11-28-23-37-24 +0000"
+  },
+  {
+    "headline": "Nasdaq Notches First Monthly Loss Since March as Dow, S&P 500 Make Gains",
+    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-11-27-2025-3eae00a5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-28-23-23-00 +0000"
   },
   {
     "headline": "Nasdaq Notches First Monthly Loss Since March as Dow, S&P 500 Make Gains",
@@ -810,22 +1176,10 @@
     "pubdate": "2025-11-28-21-47-00 +0000"
   },
   {
-    "headline": "2 National Guard troops seen in jarring photo moments after being gunned down by Afghan terror suspect in DC",
-    "link": "https://nypost.com/2025/11/28/us-news/2-national-guard-troops-seen-in-jarring-photo-moments-after-being-gunned-down-by-afghan-terror-suspect-in-dc/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-21-44-25 +0000"
-  },
-  {
     "headline": "President Trump said he was revoking all executive orders former President Joe Biden signed with an autopen, escalating his battle with his predecessor over the use of the signature proxy device",
     "link": "https://www.wsj.com/politics/trump-says-he-is-canceling-all-biden-executive-orders-signed-with-autopen-00d59515",
     "source": "wsj",
     "pubdate": "2025-11-28-21-31-00 +0000"
-  },
-  {
-    "headline": "Sarah Beckstrom, hero National Guard member killed in DC ambush, had ‘heart of gold,’ dreamed of one day joining FBI",
-    "link": "https://nypost.com/2025/11/28/us-news/sarah-beckstrom-had-heart-of-gold-dreamed-of-one-way-joining-fbi/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-21-27-27 +0000"
   },
   {
     "headline": "Trump Spoke by Phone Last Week With Maduro, Venezuela’s Leader",
@@ -886,12 +1240,6 @@
     "link": "https://www.latimes.com/california/story/2025-11-28/new-california-school-antisemitism-law",
     "source": "latimes",
     "pubdate": "2025-11-28-20-46-46 +0000"
-  },
-  {
-    "headline": "Brother of alleged DC gunman Rahmanullah Lakanwal was a platoon leader in elite CIA-backed ‘Zero Unit,’ ex-squad official says",
-    "link": "https://nypost.com/2025/11/28/us-news/brother-of-alleged-dc-gunman-rahmanullah-lakanwal-was-a-platoon-leader-in-elite-cia-backed-zero-unit-ex-squad-official-says/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-20-44-05 +0000"
   },
   {
     "headline": "Afghans in US issue plea to Trump after Washington DC shooting",
@@ -1206,12 +1554,6 @@
     "pubdate": "2025-11-28-17-54-58 +0000"
   },
   {
-    "headline": "Zelensky's top adviser resigns after anti-corruption raid on his home",
-    "link": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-28-17-54-58 +0000"
-  },
-  {
     "headline": "Deadly Clash Deepens Rift Between Israel and Syria",
     "link": "https://www.wsj.com/world/middle-east/deadly-clash-deepens-rift-between-israel-and-syria-dd64f1ee",
     "source": "wsj",
@@ -1228,12 +1570,6 @@
     "link": "https://www.wsj.com/economy/central-banking/canada-economy-rebounds-by-more-than-expected-8762e87d",
     "source": "wsj",
     "pubdate": "2025-11-28-17-40-00 +0000"
-  },
-  {
-    "headline": "What We Know About the National Guard Shooting in D.C. and the Suspect",
-    "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-17-37-33 +0000"
   },
   {
     "headline": "Top Trump intel official reveals DC terror suspect wasn’t vetted for entry to US",
@@ -1312,12 +1648,6 @@
     "link": "https://www.wsj.com/world/asia/there-was-no-alarm-hong-kong-inferno-spread-across-towers-in-silence-a231d737",
     "source": "wsj",
     "pubdate": "2025-11-28-17-09-00 +0000"
-  },
-  {
-    "headline": "What to Know About the Deadly Fire at a Hong Kong Apartment Complex",
-    "link": "https://www.nytimes.com/2025/11/26/world/asia/hong-kong-fire-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-17-06-59 +0000"
   },
   {
     "headline": "The Answer to a 1,700-Year-Old Christian Mystery Lay in a Lake in Turkey",
@@ -1428,12 +1758,6 @@
     "pubdate": "2025-11-28-15-56-38 +0000"
   },
   {
-    "headline": "Where the Waters Are Rough, a Fishing Town Confronts Trump’s Priorities",
-    "link": "https://www.nytimes.com/2025/11/27/us/politics/newport-oregon-ice.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-15-55-57 +0000"
-  },
-  {
     "headline": "Trump Uses National Guard Shooting to Cast Suspicion on Refugees",
     "link": "https://www.nytimes.com/2025/11/27/us/politics/trump-national-guard-shooting.html",
     "source": "nyt",
@@ -1456,12 +1780,6 @@
     "link": "https://www.washingtonpost.com/world/2025/11/28/palestinians-surrendering-killed-israel-west-bank/",
     "source": "wapo",
     "pubdate": "2025-11-28-15-39-12 +0000"
-  },
-  {
-    "headline": "Here’s a Look at the D.C. Shooting Suspect’s C.I.A.-Backed Unit in Afghanistan",
-    "link": "https://www.nytimes.com/2025/11/27/us/dc-shooting-suspect-afghanistan-cia-unit.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-15-38-29 +0000"
   },
   {
     "headline": "Melania Trump unveils new movie coming in January and next business venture",
@@ -1620,12 +1938,6 @@
     "pubdate": "2025-11-28-14-18-19 +0000"
   },
   {
-    "headline": "U.S. Has Limited Knowledge of Those It Kills in Boat Strikes",
-    "link": "https://www.nytimes.com/2025/11/27/us/politics/us-military-boat-strikes.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-14-18-19 +0000"
-  },
-  {
     "headline": "UN calls for independent investigation into 'apparent summary execution' of 2 Palestinians in West Bank",
     "link": "https://www.cbc.ca/news/world/west-bank-jenin-palestinian-men-killed-israel-9.6995982?cmp=rss",
     "source": "cbc",
@@ -1762,191 +2074,5 @@
     "link": "https://nypost.com/2025/11/28/us-news/nyc-block-where-car-meetup-turned-violent-to-get-speed-bumps-but-locals-wonder-if-itll-be-enough/",
     "source": "nypost",
     "pubdate": "2025-11-28-12-00-00 +0000"
-  },
-  {
-    "headline": "Vintage market trader retires after 60 years",
-    "link": "https://www.bbc.com/news/videos/cr5z3dnpm1po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-28-11-49-00 +0000"
-  },
-  {
-    "headline": "Beauty influencer’s boyfriend, two of his relatives arrested after she never came home from Christmas party",
-    "link": "https://nypost.com/2025/11/28/world-news/austrian-beauty-influencer-stefanie-piepers-boyfriend-two-of-his-relatives-arrested-after-she-never-came-home-from-christmas-party/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-11-45-31 +0000"
-  },
-  {
-    "headline": "Chicago train attack prompts Trump criticism of Illinois no-cash bail",
-    "link": "https://www.washingtonpost.com/nation/2025/11/28/chicago-illinois-cashless-bail-trump/",
-    "source": "wapo",
-    "pubdate": "2025-11-28-11-30-50 +0000"
-  },
-  {
-    "headline": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/retail/health-care-roundup-market-talk-31b7e2a0?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-28-11-29-00 +0000"
-  },
-  {
-    "headline": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/retail/health-care-roundup-market-talk-31b7e2a0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-28-11-29-00 +0000"
-  },
-  {
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-211a9fca?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-28-11-27-00 +0000"
-  },
-  {
-    "headline": "France to intercept small boats after pressure from UK",
-    "link": "https://www.bbc.com/news/articles/c1kpmm20zwwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-28-11-23-32 +0000"
-  },
-  {
-    "headline": "France to intercept small boats after pressure from UK",
-    "link": "https://www.bbc.com/news/articles/c1kpmm20zwwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-28-11-23-32 +0000"
-  },
-  {
-    "headline": "Meituan Posts First Loss in Three Years as Food-Delivery War Rages",
-    "link": "https://www.wsj.com/business/earnings/meituan-posts-first-loss-in-nearly-three-years-02ad03cc?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-28-11-10-00 +0000"
-  },
-  {
-    "headline": "Rio Tinto CEO’s Big Test: What to Do With Lithium",
-    "link": "https://www.wsj.com/finance/commodities-futures/rio-tinto-ceos-big-test-what-to-do-with-lithium-29c20c99?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-28-11-08-00 +0000"
-  },
-  {
-    "headline": "Rio Tinto CEO’s Big Test: What to Do With Lithium",
-    "link": "https://www.wsj.com/finance/commodities-futures/rio-tinto-ceos-big-test-what-to-do-with-lithium-29c20c99?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-28-11-08-00 +0000"
-  },
-  {
-    "headline": "Hong Kong apartment fire tests Beijing-backed rule as anger mounts",
-    "link": "https://www.washingtonpost.com/world/2025/11/28/hong-kong-apartment-fire-elections/",
-    "source": "wapo",
-    "pubdate": "2025-11-28-11-01-22 +0000"
-  },
-  {
-    "headline": "A Wyoming county fair brings back pig wrestling — but with no men allowed",
-    "link": "https://www.washingtonpost.com/nation/2025/11/28/wyoming-pig-wrestling-teton-county-fair/",
-    "source": "wapo",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Comcast CEO mulls sweetened bid for Warner Bros. Discovery despite Trump opposition: sources",
-    "link": "https://nypost.com/2025/11/28/media/comcast-ceo-brian-roberts-mulling-another-bid-warner-bros-discovery-sources/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: Crypto promoters saw Trump as their savior. Then reality set in",
-    "link": "https://www.latimes.com/business/story/2025-11-28/the-crypto-gang-saw-trump-as-their-savior-then-reality-set-in",
-    "source": "latimes",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Buckle up for the battle for Paul Bunyan’s Axe between Gophers and Badgers",
-    "link": "https://www.startribune.com/minnesota-gophers-wisconsin-badgers-paul-bunyan-axe/601532888",
-    "source": "startribune",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "American Customers Are Madder Than Ever",
-    "link": "https://www.wsj.com/articles/american-customers-are-madder-than-ever-b9de4b54?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Companies redesign their products to dodge Trump’s tariffs",
-    "link": "https://www.washingtonpost.com/business/2025/11/28/trump-tariffs-customs-brokers/",
-    "source": "wapo",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Queens to get first major Holocaust memorial with $4M pledge in final days of Adams admin",
-    "link": "https://nypost.com/2025/11/28/us-news/queens-to-get-first-major-holocaust-memorial-with-4m-pledge-in-final-days-of-adams-admin/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "How alleged DC terrorist Rahmanullah Lakanwal was welcomed into the US after CIA vetting — and then turned against it",
-    "link": "https://nypost.com/2025/11/28/us-news/how-alleged-dc-terrorist-rahmanullah-lakanwal-was-welcomed-into-the-us-and-then-turned-against-it/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Warm spaces open to combat 'unaffordable' bills",
-    "link": "https://www.bbc.com/news/articles/cx2g6lwp79ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-28-10-59-53 +0000"
-  },
-  {
-    "headline": "Watch: Pope struggles to remove cloth covering plaque",
-    "link": "https://www.bbc.com/news/videos/cev8exezvw2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-28-10-49-03 +0000"
-  },
-  {
-    "headline": "U.S. Futures, Global Markets Mixed; CME Failure Disrupts Trading",
-    "link": "https://www.wsj.com/finance/stocks/u-s-futures-global-markets-mixed-cme-failure-disrupts-trading-309b614e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-28-10-41-00 +0000"
-  },
-  {
-    "headline": "Why Jewelry Is Outperforming the Rest of the Luxury World",
-    "link": "https://www.wsj.com/business/retail/why-jewelry-is-outperforming-the-rest-of-the-luxury-world-4010930b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-28-10-30-00 +0000"
-  },
-  {
-    "headline": "Why Jewelry Is Outperforming the Rest of the Luxury World",
-    "link": "https://www.wsj.com/business/retail/why-jewelry-is-outperforming-the-rest-of-the-luxury-world-4010930b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-28-10-30-00 +0000"
-  },
-  {
-    "headline": "Anti-corruption units raid home and offices of Zelensky’s chief of staff",
-    "link": "https://nypost.com/2025/11/28/world-news/zelenskys-chief-of-staff-andriy-yermak-raided-at-ukraine-home-and-offices/",
-    "source": "nypost",
-    "pubdate": "2025-11-28-10-06-20 +0000"
-  },
-  {
-    "headline": "‘Hey, Lemonade!’: A Backstage Fixture at the Grand Ole Opry",
-    "link": "https://www.nytimes.com/2025/11/28/us/politics/grand-ole-opry-lemonade.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-10-02-03 +0000"
-  },
-  {
-    "headline": "‘Hey, Lemonade!’: A Backstage Fixture at the Grand Ole Opry",
-    "link": "https://www.nytimes.com/2025/11/28/us/politics/grand-ole-opry-lemonade.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-10-02-03 +0000"
-  },
-  {
-    "headline": "‘We won’t win this war without women’",
-    "link": "https://www.washingtonpost.com/world/interactive/2025/ukraine-women-combat-drone-unit/",
-    "source": "wapo",
-    "pubdate": "2025-11-28-10-00-39 +0000"
-  },
-  {
-    "headline": "New Mar-a-Lago no-fly zone means endless plane noise for neighbors",
-    "link": "https://www.washingtonpost.com/nation/2025/11/28/trump-palm-beach-airport-noise-restrictions/",
-    "source": "wapo",
-    "pubdate": "2025-11-28-10-00-37 +0000"
-  },
-  {
-    "headline": "How the Snowbird Ski Resort in Utah Readies the Slopes",
-    "link": "https://www.nytimes.com/2025/11/28/travel/snowbird-ski-resort-utah-mountain-preparations.html",
-    "source": "nyt",
-    "pubdate": "2025-11-28-10-00-18 +0000"
   }
 ]
