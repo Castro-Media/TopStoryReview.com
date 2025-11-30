@@ -1,13 +1,13 @@
 [
   {
-    "score": 321,
+    "score": 323,
     "pubdate": "2025-11-29-01-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would pardon former Honduran President Juan Orlando Hernández, who is serving a 45-year sentence for drug trafficking",
     "link": "https://www.wsj.com/politics/trump-to-pardon-former-honduran-president-serving-45-year-drug-trafficking-sentence-4727e5a6"
   },
   {
-    "score": 177,
+    "score": 174,
     "pubdate": "2025-11-28-14-46-00 +0000",
     "source": "wsj",
     "headline": "Here’s what to know about Rahmanullah Lakanwal, the Afghan suspect in Wednesday’s shooting of two National Guard members serving in Washington, D.C.",
@@ -28,7 +28,7 @@
     "link": "https://www.latimes.com/california/story/2025-11-28/new-california-school-antisemitism-law"
   },
   {
-    "score": 127,
+    "score": 124,
     "pubdate": "2025-11-29-13-50-50 +0000",
     "source": "nypost",
     "headline": "Russia attack on Kyiv kills three as efforts to end Ukraine war gain momentum",
@@ -49,7 +49,7 @@
     "link": "https://nypost.com/2025/11/27/tech/apple-beats-out-samsung-to-become-worlds-top-smartphone-seller/"
   },
   {
-    "score": 85,
+    "score": 89,
     "pubdate": "2025-11-29-16-26-44 +0000",
     "source": "nypost",
     "headline": "Mom of  NJ teen killed outside NYC ax-throwing bar claims booze, lax security led to her son’s death",
@@ -57,16 +57,16 @@
   },
   {
     "score": 82,
-    "pubdate": "2025-11-28-18-15-31 +0000",
-    "source": "nyt",
-    "headline": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows",
-    "link": "https://www.nytimes.com/2025/11/28/world/middleeast/israel-west-bank-shooting-palestinians-video.html"
-  },
-  {
-    "score": 82,
     "pubdate": "2025-11-28-23-50-12 +0000",
     "source": "nypost",
     "headline": "Treasury Secretary Scott Bessent moves to ‘cut off’ illegal migrants from tax benefits, cross-border money transfers: ‘No place for you in our financial system’",
     "link": "https://nypost.com/2025/11/28/us-news/treasury-secretary-scott-bessent-moves-to-cut-off-illegal-migrants-from-tax-benefits-and-cross-border-money-transfers/"
+  },
+  {
+    "score": 81,
+    "pubdate": "2025-11-29-21-45-09 +0000",
+    "source": "nypost",
+    "headline": "Parents of slain Israeli hostage still held inside Gaza urge Netanyahu to stall next phase of cease-fire until body is returned",
+    "link": "https://nypost.com/2025/11/29/world-news/parents-of-slain-israeli-hostage-still-held-in-gaza-urge-netanyahu-to-stall-next-phase-of-cease-fire/"
   }
 ]
