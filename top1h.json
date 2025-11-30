@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2025-11-30-13-00-00 +0000",
+    "score": 23,
+    "pubdate": "2025-11-30-15-50-00 +0000",
+    "source": "nyt",
+    "headline": "Pope Leo Calls for a Two-State Solution in Mideast Conflict",
+    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-11-30-15-41-52 +0000",
+    "source": "nyt",
+    "headline": "Webster Springs, W.Va. United In Grief Over Death of National Guard Specialist Sarah Beckstrom",
+    "link": "https://www.nytimes.com/2025/11/29/us/national-guard-shooting-beckstrom-webster-springs.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-11-30-15-43-02 +0000",
     "source": "nypost",
-    "headline": "AI influencers are now boasting personalities, backstories and even making ill-advised decisions",
-    "link": "https://nypost.com/2025/11/30/world-news/ai-influencers-are-now-boasting-personalities-backstories-and-even-making-ill-advised-decisions/"
+    "headline": "Denver dad fights off home invader attempting to get to his children’s bedroom: ‘Somebody’s in our house’",
+    "link": "https://nypost.com/2025/11/30/us-news/denver-dad-fights-off-home-invader-attempting-to-get-to-his-childrens-bedroom/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-11-30-15-37-28 +0000",
+    "source": "nypost",
+    "headline": "DC National Guard terror suspect Rahmanullah Lakanwal was ‘radicalized’ after coming to US, Noem says",
+    "link": "https://nypost.com/2025/11/30/us-news/dc-national-guard-terror-suspect-rahmanullah-lakanwal-was-radicalized-after-coming-to-us-noem-says/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-11-30-15-49-31 +0000",
+    "source": "nyt",
+    "headline": "Netanyahu Asks Israel’s President to Pardon Him in Corruption Cases",
+    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/netanyahu-pardon-request-israel.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-11-30-15-19-46 +0000",
+    "source": "startribune",
+    "headline": "Snow totals rise across Minnesota after 30-hour storm",
+    "link": "https://www.startribune.com/snow-totals-rise-across-minnesota-after-30-hour-storm/601536398"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-11-30-15-17-13 +0000",
+    "source": "wapo",
+    "headline": "As Pope Leo visits Lebanon, Christians are fleeing the Middle East",
+    "link": "https://www.washingtonpost.com/world/2025/11/30/pope-leo-lebanon-christians-middle-east/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-11-30-14-55-29 +0000",
+    "source": "bbc",
+    "headline": "'Debt stress is causing mental health problems'",
+    "link": "https://www.bbc.com/news/articles/c62vk7e0w4lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-11-30-15-23-31 +0000",
+    "source": "nyt",
+    "headline": "What to Know About Honduras’s Elections",
+    "link": "https://www.nytimes.com/2025/11/30/world/americas/honduras-election.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-11-30-15-50-00 +0000",
+    "source": "nyt",
+    "headline": "Pope Leo Calls for a Two-State Solution in Mideast Conflict",
+    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html"
   }
 ]
