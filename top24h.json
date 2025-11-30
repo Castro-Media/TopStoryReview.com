@@ -1,38 +1,31 @@
 [
   {
-    "score": 126,
+    "score": 123,
     "pubdate": "2025-11-29-20-06-00 +0000",
     "source": "wsj",
     "headline": "President Trump on Saturday said that the airspace surrounding Venezuela should be considered closed, ratcheting up tensions with the regime of Nicolás Maduro",
     "link": "https://www.wsj.com/politics/national-security/trump-declares-that-airspace-around-venezuela-should-be-considered-closed-07b748ee"
   },
   {
-    "score": 66,
+    "score": 59,
     "pubdate": "2025-11-29-22-07-48 +0000",
     "source": "nyt",
     "headline": "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City",
     "link": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html"
   },
   {
-    "score": 53,
+    "score": 55,
     "pubdate": "2025-11-29-05-32-13 +0000",
     "source": "nyt",
     "headline": "Trump to Pardon Juan Orlando Hernández, Honduran Ex-Leader Convicted in Drug Case",
     "link": "https://www.nytimes.com/2025/11/28/world/americas/trump-pardon-honduras-hernandez.html"
   },
   {
-    "score": 51,
-    "pubdate": "2025-11-29-07-14-36 +0000",
-    "source": "bbc",
-    "headline": "US halts all asylum claim decisions after National Guard shooting",
-    "link": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-11-29-13-50-50 +0000",
-    "source": "nypost",
-    "headline": "Russia attack on Kyiv kills three as efforts to end Ukraine war gain momentum",
-    "link": "https://nypost.com/2025/11/29/world-news/russian-attacks-kill-3-as-efforts-to-end-war-in-ukraine-gain-momentum/"
+    "score": 47,
+    "pubdate": "2025-11-29-18-52-20 +0000",
+    "source": "nyt",
+    "headline": "South Africans Were Promised Job, but Ended Up ‘Going to War’ for Russia",
+    "link": "https://www.nytimes.com/2025/11/29/world/africa/south-africa-russia-ukraine-fighters-zuma.html"
   },
   {
     "score": 45,
@@ -40,13 +33,6 @@
     "source": "nypost",
     "headline": "Pope Leo visits Turkey’s famous Blue Mosque in his socks — but refuses to join prayer",
     "link": "https://nypost.com/2025/11/29/world-news/pope-leo-xiv-visits-famous-turkish-mosque-in-his-socks-but-shockingly-refuses-to-join-prayer/"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-11-29-16-26-44 +0000",
-    "source": "nypost",
-    "headline": "Mom of  NJ teen killed outside NYC ax-throwing bar claims booze, lax security led to her son’s death",
-    "link": "https://nypost.com/2025/11/29/us-news/mom-of-nj-teen-killed-outside-nyc-ax-throwing-bar-claims-booze-lax-security-led-to-her-sons-death/"
   },
   {
     "score": 39,
@@ -64,9 +50,23 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-11-29-06-06-23 +0000",
-    "source": "nyt",
-    "headline": "State Department Boosts Resources to Process Business Visas for South Koreans",
-    "link": "https://www.nytimes.com/2025/11/29/us/politics/state-dept-south-korea-visas.html"
+    "pubdate": "2025-11-29-15-47-14 +0000",
+    "source": "nypost",
+    "headline": "Ukraine hit two ‘shadow fleet’ oil tankers with drones in Black Sea",
+    "link": "https://nypost.com/2025/11/29/world-news/ukraine-hit-two-shadow-fleet-tankers-with-drones-in-black-sea/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-11-29-23-47-06 +0000",
+    "source": "latimes",
+    "headline": "The L.A. Auto Show ends this weekend. Here are new EVs you can buy today",
+    "link": "https://www.latimes.com/environment/story/2025-11-29/la-auto-show-ends-this-weekend-here-are-new-evs-you-can-buy-today"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-11-29-07-14-36 +0000",
+    "source": "bbc",
+    "headline": "US halts all asylum claim decisions after National Guard shooting",
+    "link": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss"
   }
 ]
