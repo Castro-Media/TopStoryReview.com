@@ -1,74 +1,140 @@
 [
   {
-    "headline": "Pope Leo Calls for a Two-State Solution in Mideast Conflict",
-    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-15-50-00 +0000"
-  },
-  {
-    "headline": "Pope Leo Calls for a Two-State Solution in Mideast Conflict",
-    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-15-50-00 +0000"
-  },
-  {
-    "headline": "Netanyahu Asks Israel’s President to Pardon Him in Corruption Cases",
-    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/netanyahu-pardon-request-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-15-49-31 +0000"
-  },
-  {
-    "headline": "Denver dad fights off home invader attempting to get to his children’s bedroom: ‘Somebody’s in our house’",
-    "link": "https://nypost.com/2025/11/30/us-news/denver-dad-fights-off-home-invader-attempting-to-get-to-his-childrens-bedroom/",
-    "source": "nypost",
-    "pubdate": "2025-11-30-15-43-02 +0000"
-  },
-  {
-    "headline": "Webster Springs, W.Va. United In Grief Over Death of National Guard Specialist Sarah Beckstrom",
-    "link": "https://www.nytimes.com/2025/11/29/us/national-guard-shooting-beckstrom-webster-springs.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-15-41-52 +0000"
-  },
-  {
-    "headline": "DC National Guard terror suspect Rahmanullah Lakanwal was ‘radicalized’ after coming to US, Noem says",
-    "link": "https://nypost.com/2025/11/30/us-news/dc-national-guard-terror-suspect-rahmanullah-lakanwal-was-radicalized-after-coming-to-us-noem-says/",
-    "source": "nypost",
-    "pubdate": "2025-11-30-15-37-28 +0000"
-  },
-  {
-    "headline": "Pope Leo Calls for a Two-State Solution in Mideast Conflict",
-    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-two-state-solution-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-15-32-21 +0000"
-  },
-  {
-    "headline": "What to Know About Honduras’s Elections",
-    "link": "https://www.nytimes.com/2025/11/30/world/americas/honduras-election.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-15-23-31 +0000"
-  },
-  {
-    "headline": "What to Know About Honduras’s Elections",
-    "link": "https://www.nytimes.com/2025/11/30/world/americas/honduras-election.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-15-23-31 +0000"
-  },
-  {
-    "headline": "Snow totals rise across Minnesota after 30-hour storm",
-    "link": "https://www.startribune.com/snow-totals-rise-across-minnesota-after-30-hour-storm/601536398",
-    "source": "startribune",
-    "pubdate": "2025-11-30-15-19-46 +0000"
-  },
-  {
-    "headline": "As Pope Leo visits Lebanon, Christians are fleeing the Middle East",
-    "link": "https://www.washingtonpost.com/world/2025/11/30/pope-leo-lebanon-christians-middle-east/",
-    "source": "wapo",
-    "pubdate": "2025-11-30-15-17-13 +0000"
-  },
-  {
-    "headline": "'Debt stress is causing mental health problems'",
-    "link": "https://www.bbc.com/news/articles/c62vk7e0w4lo?at_medium=RSS&at_campaign=rss",
+    "headline": "Reeves denies she misled public over UK's finances in run-up to Budget",
+    "link": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-11-30-14-55-29 +0000"
+    "pubdate": "2025-11-30-17-51-52 +0000"
+  },
+  {
+    "headline": "Reeves denies she misled public over UK's finances in run-up to Budget",
+    "link": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-30-17-51-52 +0000"
+  },
+  {
+    "headline": "Lawmakers Suggest Follow-Up Boat Strike Could Be a War Crime",
+    "link": "https://www.nytimes.com/2025/11/30/us/politics/lawmakers-boat-strikes-war-crime.html",
+    "source": "nyt",
+    "pubdate": "2025-11-30-17-48-36 +0000"
+  },
+  {
+    "headline": "Lawmakers Suggest Follow-Up Boat Strike Could Be a War Crime",
+    "link": "https://www.nytimes.com/2025/11/30/us/politics/lawmakers-boat-strikes-war-crime.html",
+    "source": "nyt",
+    "pubdate": "2025-11-30-17-48-36 +0000"
+  },
+  {
+    "headline": "U.S., Ukrainian Negotiators Meet in Florida to Discuss Halting War",
+    "link": "https://www.wsj.com/politics/policy/u-s-ukrainian-negotiators-meet-in-florida-to-discuss-halting-war-608bb045",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-46-00 +0000"
+  },
+  {
+    "headline": "Secretary of State Marco Rubio, special envoy Steve Witkoff and Trump son-in-law Jared Kushner met Ukrainian negotiators in Florida Sunday to discuss ending the Russia-Ukraine war",
+    "link": "https://www.wsj.com/politics/policy/u-s-ukrainian-negotiators-meet-in-florida-to-discuss-halting-war-608bb045",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-46-00 +0000"
+  },
+  {
+    "headline": "Opinion | Argentina’s Slippery Peso Policy",
+    "link": "https://www.wsj.com/opinion/argentinas-slippery-peso-policy-097d3801",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-40-00 +0000"
+  },
+  {
+    "headline": "Opinion | Argentina’s Slippery Peso Policy",
+    "link": "https://www.wsj.com/opinion/argentinas-slippery-peso-policy-097d3801?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-40-00 +0000"
+  },
+  {
+    "headline": "Deadly Floods in Indonesia Leave Hundreds Missing",
+    "link": "https://www.nytimes.com/2025/11/30/world/asia/flooding-indonesia-thailand-southeast-asia.html",
+    "source": "nyt",
+    "pubdate": "2025-11-30-17-38-47 +0000"
+  },
+  {
+    "headline": "Deadly Floods in Indonesia Leave Hundreds Missing",
+    "link": "https://www.nytimes.com/2025/11/30/world/asia/flooding-indonesia-thailand-southeast-asia.html",
+    "source": "nyt",
+    "pubdate": "2025-11-30-17-38-47 +0000"
+  },
+  {
+    "headline": "Opinion | The College Students Who Can’t Do Elementary Math",
+    "link": "https://www.wsj.com/opinion/the-college-students-who-cant-do-elementary-math-2db5e549",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-32-00 +0000"
+  },
+  {
+    "headline": "New party founded by Corbyn adopts Your Party as name",
+    "link": "https://www.bbc.com/news/articles/c4g9x5k73zro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-11-30-17-30-27 +0000"
+  },
+  {
+    "headline": "Winter storm slams Midwest, causing post-Thanksgiving travel chaos for millions",
+    "link": "https://nypost.com/2025/11/30/us-news/winter-storm-slams-midwest-causing-chaos-for-post-thanksgiving-travel/",
+    "source": "nypost",
+    "pubdate": "2025-11-30-17-29-14 +0000"
+  },
+  {
+    "headline": "Lebanon’s Christians Look to Pope Leo’s Visit for a Message of Hope and Peace",
+    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-lebanon-christians.html",
+    "source": "nyt",
+    "pubdate": "2025-11-30-17-26-41 +0000"
+  },
+  {
+    "headline": "Lebanon’s Christians Look to Pope Leo’s Visit for a Message of Hope and Peace",
+    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-lebanon-christians.html",
+    "source": "nyt",
+    "pubdate": "2025-11-30-17-26-41 +0000"
+  },
+  {
+    "headline": "This NYC restaurant is the 3rd most in-demand reservation in the US, report says",
+    "link": "https://nypost.com/2025/11/30/lifestyle/don-angie-ranked-3rd-hardest-reservation-to-snag-in-the-us/",
+    "source": "nypost",
+    "pubdate": "2025-11-30-17-21-47 +0000"
+  },
+  {
+    "headline": "Suspect in National Guard Shooting ‘Radicalized’ After Entry to U.S., Noem Says",
+    "link": "https://www.wsj.com/us-news/suspect-in-national-guard-shooting-radicalized-after-entry-to-u-s-noem-says-0e97b192",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-17-00 +0000"
+  },
+  {
+    "headline": "Cory Booker Weds Alexis Lewis in a Private Ceremony",
+    "link": "https://www.nytimes.com/2025/11/30/style/cory-booker-wedding-alexis-lewis.html",
+    "source": "nyt",
+    "pubdate": "2025-11-30-17-14-00 +0000"
+  },
+  {
+    "headline": "Netanyahu Asks for a Pardon After Trump Says He Should Get One",
+    "link": "https://www.wsj.com/world/middle-east/netanyahu-asks-for-a-pardon-after-trump-says-he-should-get-one-178c80d3",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-12-00 +0000"
+  },
+  {
+    "headline": "Now Poorer Countries Are Shutting the Door on Refugees Too",
+    "link": "https://www.wsj.com/world/africa/now-poorer-countries-are-shutting-the-door-on-refugees-too-932d42eb",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-00-00 +0000"
+  },
+  {
+    "headline": "Scotland Wants to Issue Its Own Bonds. Last Time It Paid With Its Independence.",
+    "link": "https://www.wsj.com/world/uk/scotland-wants-to-issue-its-own-bonds-last-time-it-paid-with-its-independence-294df8bb",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-00-00 +0000"
+  },
+  {
+    "headline": "A Timeline of Key Moments in the History of Work in America",
+    "link": "https://www.wsj.com/lifestyle/workplace/history-of-work-america-76a8ecbb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-00-00 +0000"
+  },
+  {
+    "headline": "The leader of Scotland sees the issue of the first Scottish bond in centuries as a step toward independence",
+    "link": "https://www.wsj.com/world/uk/scotland-wants-to-issue-its-own-bonds-last-time-it-paid-with-its-independence-294df8bb",
+    "source": "wsj",
+    "pubdate": "2025-11-30-17-00-00 +0000"
   }
 ]
