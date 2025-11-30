@@ -1,72 +1,72 @@
 [
   {
-    "score": 325,
+    "score": 326,
     "pubdate": "2025-11-29-01-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would pardon former Honduran President Juan Orlando Hernández, who is serving a 45-year sentence for drug trafficking",
     "link": "https://www.wsj.com/politics/trump-to-pardon-former-honduran-president-serving-45-year-drug-trafficking-sentence-4727e5a6"
   },
   {
-    "score": 171,
-    "pubdate": "2025-11-27-23-35-38 +0000",
-    "source": "nyt",
-    "headline": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
-    "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-survivors-escape.html"
+    "score": 155,
+    "pubdate": "2025-11-27-07-59-00 +0000",
+    "source": "wsj",
+    "headline": "Three Arrested as Hong Kong Fire Death Toll Rises to at Least 65",
+    "link": "https://www.wsj.com/world/asia/hong-kong-fire-china-apartment-building-575f28ab"
   },
   {
-    "score": 152,
+    "score": 146,
     "pubdate": "2025-11-28-20-46-46 +0000",
     "source": "latimes",
     "headline": "Will California's new K-12 antisemitism law make up for Trump's civil rights cuts?",
     "link": "https://www.latimes.com/california/story/2025-11-28/new-california-school-antisemitism-law"
   },
   {
-    "score": 146,
+    "score": 141,
+    "pubdate": "2025-11-28-23-50-12 +0000",
+    "source": "nypost",
+    "headline": "Treasury Secretary Scott Bessent moves to ‘cut off’ illegal migrants from tax benefits, cross-border money transfers: ‘No place for you in our financial system’",
+    "link": "https://nypost.com/2025/11/28/us-news/treasury-secretary-scott-bessent-moves-to-cut-off-illegal-migrants-from-tax-benefits-and-cross-border-money-transfers/"
+  },
+  {
+    "score": 136,
     "pubdate": "2025-11-28-14-46-00 +0000",
     "source": "wsj",
     "headline": "Here’s what to know about Rahmanullah Lakanwal, the Afghan suspect in Wednesday’s shooting of two National Guard members serving in Washington, D.C.",
     "link": "https://www.wsj.com/politics/national-security/who-is-d-c-shooting-suspect-rahmanullah-lakanwal-c44ef1cd"
   },
   {
-    "score": 129,
+    "score": 110,
     "pubdate": "2025-11-29-13-50-50 +0000",
     "source": "nypost",
     "headline": "Russia attack on Kyiv kills three as efforts to end Ukraine war gain momentum",
     "link": "https://nypost.com/2025/11/29/world-news/russian-attacks-kill-3-as-efforts-to-end-war-in-ukraine-gain-momentum/"
   },
   {
-    "score": 115,
-    "pubdate": "2025-11-27-12-10-34 +0000",
-    "source": "bbc",
-    "headline": "Nine ways the Budget could affect you if you're under 25",
-    "link": "https://www.bbc.com/news/articles/cn4dxmg7jyjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 98,
-    "pubdate": "2025-11-27-15-02-00 +0000",
+    "pubdate": "2025-11-30-11-38-35 +0000",
+    "source": "bbc",
+    "headline": "Reeves denies she misled public over UK's finances prior to Budget",
+    "link": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 94,
+    "pubdate": "2025-11-27-17-42-43 +0000",
+    "source": "nypost",
+    "headline": "Apple beats out Samsung for first time in 14 years to become world’s top smartphone seller",
+    "link": "https://nypost.com/2025/11/27/tech/apple-beats-out-samsung-to-become-worlds-top-smartphone-seller/"
+  },
+  {
+    "score": 87,
+    "pubdate": "2025-11-29-21-45-09 +0000",
+    "source": "nypost",
+    "headline": "Parents of slain Israeli hostage still held inside Gaza urge Netanyahu to stall next phase of cease-fire until body is returned",
+    "link": "https://nypost.com/2025/11/29/world-news/parents-of-slain-israeli-hostage-still-held-in-gaza-urge-netanyahu-to-stall-next-phase-of-cease-fire/"
+  },
+  {
+    "score": 77,
+    "pubdate": "2025-11-26-00-59-00 +0000",
     "source": "wsj",
-    "headline": "Pope Leo Heads to Turkey and Lebanon for His First Foreign Trip",
-    "link": "https://www.wsj.com/world/europe/pope-leo-first-months-trip-110b5eea"
-  },
-  {
-    "score": 90,
-    "pubdate": "2025-11-28-18-50-28 +0000",
-    "source": "latimes",
-    "headline": "Black Friday shoppers spend more time looking for deals but less money amid economic angst",
-    "link": "https://www.latimes.com/business/story/2025-11-28/cautious-shoppers-plan-to-spend-less-this-black-friday"
-  },
-  {
-    "score": 82,
-    "pubdate": "2025-11-28-18-15-31 +0000",
-    "source": "nyt",
-    "headline": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows",
-    "link": "https://www.nytimes.com/2025/11/28/world/middleeast/israel-west-bank-shooting-palestinians-video.html"
-  },
-  {
-    "score": 79,
-    "pubdate": "2025-11-27-09-20-00 +0000",
-    "source": "wsj",
-    "headline": "Global Markets Boosted by Fed Rate-Cut Hopes; U.S. Markets Closed for Thanksgiving",
-    "link": "https://www.wsj.com/finance/stocks/global-markets-boosted-by-fed-rate-cut-hopes-u-s-markets-closed-for-thanksgiving-92086600?mod=rss_markets_main"
+    "headline": "Speaker Mike Johnson cautioned the White House that most House Republicans don’t have an appetite for extending enhanced Affordable Care Act subsidies",
+    "link": "https://www.wsj.com/politics/policy/speaker-johnson-flashes-red-on-trumps-healthcare-push-11b70dd5"
   }
 ]
