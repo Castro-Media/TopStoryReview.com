@@ -1,24 +1,31 @@
 [
   {
-    "score": 108,
+    "score": 113,
     "pubdate": "2025-11-29-20-06-00 +0000",
     "source": "wsj",
     "headline": "President Trump on Saturday said that the airspace surrounding Venezuela should be considered closed, ratcheting up tensions with the regime of Nicolás Maduro",
     "link": "https://www.wsj.com/politics/national-security/trump-declares-that-airspace-around-venezuela-should-be-considered-closed-07b748ee"
   },
   {
-    "score": 63,
-    "pubdate": "2025-11-30-12-13-41 +0000",
-    "source": "bbc",
-    "headline": "Hong Kong fire death toll rises to 146 as thousands pay respects",
-    "link": "https://www.bbc.com/news/articles/cp34yk7z6yxo?at_medium=RSS&at_campaign=rss"
+    "score": 65,
+    "pubdate": "2025-11-29-22-07-48 +0000",
+    "source": "nyt",
+    "headline": "Deadly Hong Kong Fire Is a Test of Beijing’s Rule in the City",
+    "link": "https://www.nytimes.com/2025/11/29/world/asia/hong-kong-fire-beijing-john-lee.html"
   },
   {
     "score": 46,
-    "pubdate": "2025-11-29-20-03-34 +0000",
+    "pubdate": "2025-11-30-14-29-08 +0000",
+    "source": "nyt",
+    "headline": "Lebanon’s Christians Look to Pope Leo’s Visit for a Message of Hope and Peace",
+    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-lebanon-christians.html"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-11-30-11-15-39 +0000",
     "source": "nypost",
-    "headline": "Pope Leo visits Turkey’s famous Blue Mosque in his socks — but refuses to join prayer",
-    "link": "https://nypost.com/2025/11/29/world-news/pope-leo-xiv-visits-famous-turkish-mosque-in-his-socks-but-shockingly-refuses-to-join-prayer/"
+    "headline": "Netanyahu submits request to Israeli president for a pardon during his ongoing corruption trial",
+    "link": "https://nypost.com/2025/11/30/world-news/netanyahu-submits-request-for-a-pardon-to-israeli-president-herzog-amid-his-ongoing-corruption-trial/"
   },
   {
     "score": 41,
@@ -28,45 +35,38 @@
     "link": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2025-11-30-10-00-00 +0000",
-    "source": "wapo",
-    "headline": "Why you may not want lower prices as much as you think you do",
-    "link": "https://www.washingtonpost.com/business/2025/11/30/consumer-high-prices-economy/"
+    "score": 40,
+    "pubdate": "2025-11-29-23-47-06 +0000",
+    "source": "latimes",
+    "headline": "The L.A. Auto Show ends this weekend. Here are new EVs you can buy today",
+    "link": "https://www.latimes.com/environment/story/2025-11-29/la-auto-show-ends-this-weekend-here-are-new-evs-you-can-buy-today"
   },
   {
-    "score": 37,
-    "pubdate": "2025-11-30-11-15-39 +0000",
-    "source": "nypost",
-    "headline": "Netanyahu submits request to Israeli president for a pardon during his ongoing corruption trial",
-    "link": "https://nypost.com/2025/11/30/world-news/netanyahu-submits-request-for-a-pardon-to-israeli-president-herzog-amid-his-ongoing-corruption-trial/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-11-30-07-43-38 +0000",
-    "source": "nypost",
-    "headline": "Trump sinks impressive chip shot in viral video after latest Biden golf jab: ‘Winning is always nice!’",
-    "link": "https://nypost.com/2025/11/30/us-news/trump-sinks-impressive-chip-shot-in-viral-video-after-latest-biden-golf-jab-winning-is-always-nice/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-11-29-23-16-22 +0000",
-    "source": "bbc",
-    "headline": "More than 70,000 killed in Gaza since Israel offensive began, Hamas-run health ministry says",
-    "link": "https://www.bbc.com/news/articles/c8e97kl240lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 34,
+    "score": 38,
     "pubdate": "2025-11-30-01-08-54 +0000",
     "source": "nypost",
     "headline": "Heartless son allegedly beat his parents, set house on fire — then left them for dead as they begged him to ‘help’",
     "link": "https://nypost.com/2025/11/29/us-news/lunatic-son-44-beat-his-elderly-parents-then-left-them-for-dead-in-torched-home-as-they-begged-him-to-come-back-and-help-us/"
   },
   {
-    "score": 30,
-    "pubdate": "2025-11-30-11-38-35 +0000",
+    "score": 37,
+    "pubdate": "2025-11-29-23-16-22 +0000",
     "source": "bbc",
-    "headline": "Reeves denies she misled public over UK's finances prior to Budget",
-    "link": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss"
+    "headline": "More than 70,000 killed in Gaza since Israel offensive began, Hamas-run health ministry says",
+    "link": "https://www.bbc.com/news/articles/c8e97kl240lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-11-30-07-43-38 +0000",
+    "source": "nypost",
+    "headline": "Trump sinks impressive chip shot in viral video after latest Biden golf jab: ‘Winning is always nice!’",
+    "link": "https://nypost.com/2025/11/30/us-news/trump-sinks-impressive-chip-shot-in-viral-video-after-latest-biden-golf-jab-winning-is-always-nice/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-11-30-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s Focus on Drug War Means Big Business for Defense Startups",
+    "link": "https://www.wsj.com/politics/national-security/trumps-focus-on-drug-war-means-big-business-for-defense-startups-04f45ce8?mod=pls_whats_news_us_business_f"
   }
 ]
