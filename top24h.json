@@ -1,6 +1,6 @@
 [
   {
-    "score": 68,
+    "score": 63,
     "pubdate": "2025-11-30-22-28-52 +0000",
     "source": "nypost",
     "headline": "Why Venezuela’s allies Russia and China are slinking away as Trump ramps up pressure on Maduro",
@@ -15,13 +15,6 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-11-30-19-10-41 +0000",
-    "source": "bbc",
-    "headline": "Three children among four killed in shooting at 'birthday party' in California",
-    "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
     "pubdate": "2025-11-30-11-15-39 +0000",
     "source": "nypost",
     "headline": "Netanyahu submits request to Israeli president for a pardon during his ongoing corruption trial",
@@ -29,44 +22,51 @@
   },
   {
     "score": 48,
+    "pubdate": "2025-11-30-19-10-41 +0000",
+    "source": "bbc",
+    "headline": "Three children among four killed in shooting at 'birthday party' in California",
+    "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-11-30-23-47-00 +0000",
     "source": "wsj",
     "headline": "Congress launched inquiries and lawmakers from both parties raised the possibility of war crimes after a report that the U.S. targeted survivors of a strike on an alleged drug boat",
     "link": "https://www.wsj.com/politics/national-security/congress-opens-inquiries-after-report-that-u-s-targeted-boat-strike-survivors-34147d72"
   },
   {
-    "score": 43,
+    "score": 42,
     "pubdate": "2025-12-01-02-55-07 +0000",
     "source": "nyt",
     "headline": "Lebanon’s Christians Look to Pope Leo’s Visit for a Message of Hope and Peace",
     "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-lebanon-christians.html"
   },
   {
-    "score": 40,
-    "pubdate": "2025-11-30-22-18-51 +0000",
-    "source": "nypost",
-    "headline": "NYC official will ‘bet’ both Queens casinos get the OK day before make-or-break vote",
-    "link": "https://nypost.com/2025/11/30/us-news/nyc-official-will-bet-both-queens-casinos-get-the-ok-day-before-make-or-break-vote/"
-  },
-  {
-    "score": 36,
+    "score": 38,
     "pubdate": "2025-12-01-06-28-21 +0000",
     "source": "nypost",
     "headline": "Baby missing after pregnant 22-year-old found dead in Mich. woods — and her sister and fiancé arrested",
     "link": "https://nypost.com/2025/12/01/us-news/baby-missing-after-pregnant-22-year-old-found-dead-in-mich-woods/"
   },
   {
-    "score": 33,
-    "pubdate": "2025-11-30-23-19-00 +0000",
-    "source": "wsj",
-    "headline": "Top U.S. negotiators are heading to Moscow on Monday for discussions on ending the war in Ukraine, after a daylong negotiation Sunday with Ukrainian officials that participants called productive",
-    "link": "https://www.wsj.com/politics/policy/u-s-ukrainian-negotiators-meet-in-florida-to-discuss-halting-war-608bb045"
+    "score": 38,
+    "pubdate": "2025-11-30-22-18-51 +0000",
+    "source": "nypost",
+    "headline": "NYC official will ‘bet’ both Queens casinos get the OK day before make-or-break vote",
+    "link": "https://nypost.com/2025/11/30/us-news/nyc-official-will-bet-both-queens-casinos-get-the-ok-day-before-make-or-break-vote/"
   },
   {
-    "score": 32,
-    "pubdate": "2025-12-01-04-24-58 +0000",
+    "score": 34,
+    "pubdate": "2025-12-01-08-17-32 +0000",
     "source": "bbc",
     "headline": "Japanese 'One Piece' singer stopped mid-show after China-Japan feud",
     "link": "https://www.bbc.com/news/articles/c997n2zlegzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-12-01-01-36-26 +0000",
+    "source": "nyt",
+    "headline": "College Student Is Deported During Trip Home for Thanksgiving",
+    "link": "https://www.nytimes.com/2025/11/30/us/politics/college-student-deported-thanksgiving-texas.html"
   }
 ]
