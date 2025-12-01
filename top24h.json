@@ -1,20 +1,41 @@
 [
   {
-    "score": 128,
+    "score": 121,
+    "pubdate": "2025-12-01-19-00-50 +0000",
+    "source": "nypost",
+    "headline": "Trump rails against ‘AOC of Tennessee’ in election eve call to boost Van Epps amid fears for House GOP majority",
+    "link": "https://nypost.com/2025/12/01/us-news/president-trump-rails-against-aoc-of-tennessee-in-call-to-boost-matt-van-epps-on-election-eve/"
+  },
+  {
+    "score": 66,
+    "pubdate": "2025-12-01-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
+    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis"
+  },
+  {
+    "score": 59,
+    "pubdate": "2025-12-01-19-40-24 +0000",
+    "source": "nypost",
+    "headline": "Witkoff holds additional talks with Ukraine— and without Rubio — ahead of Moscow trip",
+    "link": "https://nypost.com/2025/12/01/us-news/witkoff-holds-additional-talks-with-ukraine-and-without-rubio-ahead-of-moscow-trip/"
+  },
+  {
+    "score": 59,
+    "pubdate": "2025-12-01-19-56-53 +0000",
+    "source": "bbc",
+    "headline": "Three children among four killed in shooting at children's birthday party in California",
+    "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 59,
     "pubdate": "2025-12-01-14-38-59 +0000",
     "source": "nypost",
     "headline": "Trump backs Hegseth after report claims war secretary ordered no survivors in drug boat strike: ‘I believe him’",
     "link": "https://nypost.com/2025/12/01/us-news/trump-backs-hegseth-after-report-claims-war-secretary-ordered-no-survivors-in-drug-boat-strike/"
   },
   {
-    "score": 75,
-    "pubdate": "2025-12-01-15-24-01 +0000",
-    "source": "nypost",
-    "headline": "Loony Luigi Mangione fans dress up, line up for chance to see alleged cold-blooded killer in NYC court",
-    "link": "https://nypost.com/2025/12/01/us-news/luigi-mangione-fans-line-up-for-chance-to-see-alleged-cold-blooded-killer-in-nyc-court/"
-  },
-  {
-    "score": 56,
+    "score": 59,
     "pubdate": "2025-12-01-09-57-37 +0000",
     "source": "cbc",
     "headline": "Death toll from floods in Indonesia, Sri Lanka and Thailand passes 1,000, with hundreds missing",
@@ -22,10 +43,10 @@
   },
   {
     "score": 56,
-    "pubdate": "2025-12-01-12-41-27 +0000",
-    "source": "bbc",
-    "headline": "Three children among four killed in shooting at 'birthday party' in California",
-    "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-12-01-19-47-57 +0000",
+    "source": "nypost",
+    "headline": "Luigi Mangione’s bushy eyebrows ‘only thing’ eagle-eyed McDonald’s manager noticed before calling 911: ‘Looks like the CEO shooter from New York’",
+    "link": "https://nypost.com/2025/12/01/us-news/luigi-mangiones-eyebrows-only-thing-mcdonalds-manager-noticed-before-calling-911/"
   },
   {
     "score": 54,
@@ -35,38 +56,17 @@
     "link": "https://www.nytimes.com/2025/11/30/world/asia/hongkong-fire-domestic-workers.html"
   },
   {
-    "score": 53,
-    "pubdate": "2025-12-01-14-42-17 +0000",
-    "source": "nypost",
-    "headline": "Appeals court disqualifies former Trump lawyer Alina Habba from serving as interim US attorney for New Jersey",
-    "link": "https://nypost.com/2025/12/01/us-news/appeals-court-disqualifies-alina-habba-from-serving-as-interim-us-attorney-for-new-jersey/"
-  },
-  {
-    "score": 53,
+    "score": 47,
     "pubdate": "2025-12-01-12-59-45 +0000",
     "source": "nypost",
     "headline": "Venezuela’s Maduro spotted for first time in days, ending flight speculation",
     "link": "https://nypost.com/2025/12/01/us-news/venezuelas-maduro-spotted-for-first-time-in-days-ending-flight-speculation/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-12-01-14-46-30 +0000",
+    "score": 45,
+    "pubdate": "2025-12-01-20-31-23 +0000",
     "source": "nypost",
-    "headline": "What a difference an admin makes as first lady Melania Trump unveils White House Christmas decorations",
-    "link": "https://nypost.com/2025/12/01/us-news/first-lady-unveils-wh-christmas-decorations/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2025-12-01-02-55-07 +0000",
-    "source": "nyt",
-    "headline": "Lebanon’s Christians Look to Pope Leo’s Visit for a Message of Hope and Peace",
-    "link": "https://www.nytimes.com/2025/11/30/world/middleeast/pope-leo-lebanon-christians.html"
-  },
-  {
-    "score": 36,
-    "pubdate": "2025-12-01-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "Economists predicted a global shock from President Trump’s tariffs, but some of them are now revising their global growth predictions upward",
-    "link": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0"
+    "headline": "Bannon, top conservatives urge White House to reject Big Tech’s ‘fair use’ push to justify AI copyright theft: ‘Un-American and absurd’",
+    "link": "https://nypost.com/2025/12/01/business/bannon-top-conservatives-urge-white-house-to-reject-big-techs-fair-use-push-to-justify-ai-copyright-theft/"
   }
 ]
