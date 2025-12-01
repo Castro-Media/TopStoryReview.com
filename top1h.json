@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "score": 14,
+    "pubdate": "2025-12-01-18-55-20 +0000",
+    "source": "bbc",
+    "headline": "OBR head resigns over Budget day publishing error",
+    "link": "https://www.bbc.com/news/articles/cd74v35p77jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-01-18-59-04 +0000",
+    "source": "nyt",
+    "headline": "To Avoid Pharma Tariffs, U.K. Agrees to Trump’s Demand to Pay More for Drugs",
+    "link": "https://www.nytimes.com/2025/12/01/business/us-uk-pharma-tariffs-prices.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-01-18-53-34 +0000",
+    "source": "nyt",
+    "headline": "Zelensky Turns to Europe After Talks With U.S. Officials",
+    "link": "https://www.nytimes.com/2025/12/01/world/europe/zelensky-ukraine-paris-putin-witkoff.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-12-01-18-55-20 +0000",
+    "source": "bbc",
+    "headline": "OBR head resigns over Budget day publishing error",
+    "link": "https://www.bbc.com/news/articles/cd74v35p77jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-12-01-18-53-34 +0000",
+    "source": "nyt",
+    "headline": "Zelensky Turns to Europe After Talks With U.S. Officials",
+    "link": "https://www.nytimes.com/2025/12/01/world/europe/zelensky-ukraine-paris-putin-witkoff.html"
+  }
+]
