@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 20,
+    "pubdate": "2025-12-01-22-18-22 +0000",
+    "source": "nyt",
+    "headline": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-12-01-22-51-58 +0000",
+    "source": "bbc",
+    "headline": "Trump releases fraudster executive days into prison sentence",
+    "link": "https://www.bbc.com/news/articles/c7vmn61l75ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-01-22-43-13 +0000",
+    "source": "nypost",
+    "headline": "NYC resident among 10 people hospitalized with ‘severe’ illness after rogue injections of Botox bought off social media",
+    "link": "https://nypost.com/2025/12/01/us-news/nyc-resident-among-10-people-hospitalized-over-rogue-botox/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-01-22-30-42 +0000",
+    "source": "nypost",
+    "headline": "Emily Finn’s mom reveals these prophetic words from slain teen before tragic Long Island murder-suicide",
+    "link": "https://nypost.com/2025/12/01/us-news/emily-finns-mom-reveals-slain-teens-prophetic-words-before-li-murder-suicide/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-01-22-18-26 +0000",
+    "source": "bbc",
+    "headline": "Drug lord El Chapo's son pleads guilty in US drug trafficking case",
+    "link": "https://www.bbc.com/news/articles/ckgz28zyp8vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-12-01-22-28-00 +0000",
+    "source": "wsj",
+    "headline": "Hong Kong’s Response to Deadly Fire Is Squeezed by China’s Firm Hand",
+    "link": "https://www.wsj.com/world/china/hong-kongs-response-to-deadly-fire-is-squeezed-by-chinas-firm-hand-ea01b5a2"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-12-01-22-04-43 +0000",
+    "source": "nypost",
+    "headline": "University of Florida ordered to reinstate law student who was expelled after anti-Jewish comments",
+    "link": "https://nypost.com/2025/12/01/us-news/university-of-florida-ordered-to-reinstate-law-student-who-was-expelled-after-anti-jewish-comments/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-01-22-15-45 +0000",
+    "source": "bbc",
+    "headline": "Honduras presidential candidates locked in 'technical tie', official says",
+    "link": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-12-01-22-42-32 +0000",
+    "source": "nypost",
+    "headline": "Maduro’s forces prepared for guerrilla war, ‘anarchization’ if the US invades Venezuela: report",
+    "link": "https://nypost.com/2025/12/01/world-news/maduros-forces-prepared-for-guerrilla-war-if-the-us-invades-venezuela-report/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-12-01-22-12-31 +0000",
+    "source": "nypost",
+    "headline": "Hochul ‘busted’ after she admits taking campaign contributions that violated her own executive order: NY ‘run in backrooms’",
+    "link": "https://nypost.com/2025/12/01/us-news/hochul-admits-taking-campaign-contributions-that-violated-her-own-executive-order/"
+  }
+]
