@@ -1,9 +1,327 @@
 [
   {
-    "headline": "Virgin Media fined £24m for leaving customers 'at risk of harm'",
+    "headline": "Netanyahu’s Pardon Request Borrows From Trump’s Playbook",
+    "link": "https://www.nytimes.com/2025/12/01/world/middleeast/netanyahu-pardon-corruption-israel-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-53-08 +0000"
+  },
+  {
+    "headline": "Zelensky Turns to Europe After Talks With U.S. Officials",
+    "link": "https://www.nytimes.com/2025/12/01/world/europe/zelensky-ukraine-paris-putin-witkoff.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-51-45 +0000"
+  },
+  {
+    "headline": "In war-weary Lebanon, many look to Pope Leo for peace",
+    "link": "https://www.washingtonpost.com/world/2025/12/01/lebanon-pope-leo/",
+    "source": "wapo",
+    "pubdate": "2025-12-01-10-42-41 +0000"
+  },
+  {
+    "headline": "Chris Mason: Why, in my judgement, Reeves was misleading on one specific point",
+    "link": "https://www.bbc.com/news/articles/cewjkv8jylko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-10-42-40 +0000"
+  },
+  {
+    "headline": "Chris Mason: Why, in my judgement, Reeves was misleading on one specific point",
+    "link": "https://www.bbc.com/news/articles/cewjkv8jylko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-10-42-40 +0000"
+  },
+  {
+    "headline": "Pastor and new bride abducted in latest Nigeria attacks",
+    "link": "https://www.bbc.com/news/articles/c79x8285n29o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-10-42-21 +0000"
+  },
+  {
+    "headline": "Dollar Could Fall Further if U.S. Rate-Cut Bets Firm",
+    "link": "https://www.wsj.com/finance/currencies/usd-jpy-falls-boj-gov-speech-in-focus-d5a61ae0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-42-00 +0000"
+  },
+  {
+    "headline": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
+    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-10-40-28 +0000"
+  },
+  {
+    "headline": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
+    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-10-40-28 +0000"
+  },
+  {
+    "headline": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
+    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-10-40-28 +0000"
+  },
+  {
+    "headline": "Sri Lanka Declares ‘Largest’ Disaster as Cyclone Death Toll Rises to 355",
+    "link": "https://www.nytimes.com/2025/12/01/world/asia/sri-lanka-floods-cyclone.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-33-03 +0000"
+  },
+  {
+    "headline": "Sri Lanka Declares ‘Largest’ Disaster as Cyclone Death Toll Rises to 355",
+    "link": "https://www.nytimes.com/2025/12/01/world/asia/sri-lanka-floods-cyclone.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-33-03 +0000"
+  },
+  {
+    "headline": "New rule targets AI discrimination. Here’s what workers need to know.",
+    "link": "https://www.washingtonpost.com/business/2025/12/01/ai-work-regulations-california/",
+    "source": "wapo",
+    "pubdate": "2025-12-01-10-30-27 +0000"
+  },
+  {
+    "headline": "Inside the Bird-Flu Vaccine Trial for Monk Seals",
+    "link": "https://www.nytimes.com/2025/12/01/science/hawaii-bird-flu-h5n1-monk-seals.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-30-13 +0000"
+  },
+  {
+    "headline": "Three Mile Island’s Nuclear Revival Pits Those Who Fled Against Job Seekers",
+    "link": "https://www.wsj.com/business/energy-oil/three-mile-islands-nuclear-revival-pits-those-who-fled-against-job-seekers-2758e115",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-30-00 +0000"
+  },
+  {
+    "headline": "Three Mile Island’s Nuclear Revival Pits Those Who Fled Against Job Seekers",
+    "link": "https://www.wsj.com/business/energy-oil/three-mile-islands-nuclear-revival-pits-those-who-fled-against-job-seekers-2758e115?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-30-00 +0000"
+  },
+  {
+    "headline": "Why Bonds Won’t Protect You From an AI Bubble",
+    "link": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-30-00 +0000"
+  },
+  {
+    "headline": "Where Do Fed Voters Stand on a December Rate Cut?",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-voters-interest-rate-cut-4795f6dd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-30-00 +0000"
+  },
+  {
+    "headline": "The coming interest-rate decision by the Federal Reserve could be an unusually close call. Here’s a breakdown of the stance of the 12 policymakers who will vote on Dec. 10.",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-voters-interest-rate-cut-4795f6dd",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-30-00 +0000"
+  },
+  {
+    "headline": "Former Tory deputy chair Gullis defects to Reform",
+    "link": "https://www.bbc.com/news/articles/cgr12e7259xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-10-21-35 +0000"
+  },
+  {
+    "headline": "Speed boat crashes in Florida river leaving 3 dead and 1 critically injured",
+    "link": "https://nypost.com/2025/12/01/us-news/florida-speed-boat-crashes-leaves-3-dead-and-1-critically-injured/",
+    "source": "nypost",
+    "pubdate": "2025-12-01-10-15-45 +0000"
+  },
+  {
+    "headline": "Supreme Court to Hear Copyright Battle Over Online Music Piracy",
+    "link": "https://www.nytimes.com/2025/12/01/us/politics/supreme-court-copyright-music-piracy.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-02-43 +0000"
+  },
+  {
+    "headline": "Supreme Court to Hear Copyright Battle Over Online Music Piracy",
+    "link": "https://www.nytimes.com/2025/12/01/us/politics/supreme-court-copyright-music-piracy.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-02-43 +0000"
+  },
+  {
+    "headline": "What Jamaica Wants After Deadly Hurricane? Visit Us, Island Says.",
+    "link": "https://www.nytimes.com/2025/12/01/us/hurricane-jamaica-tourism.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-02-29 +0000"
+  },
+  {
+    "headline": "What Jamaica Wants After Deadly Hurricane? Visit Us, Island Says.",
+    "link": "https://www.nytimes.com/2025/12/01/us/hurricane-jamaica-tourism.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-02-29 +0000"
+  },
+  {
+    "headline": "With Judge's Ruling, a New Tool for Charging Crime in D.C.",
+    "link": "https://www.nytimes.com/2025/12/01/us/politics/trump-federal-grand-juries-washington.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-02-14 +0000"
+  },
+  {
+    "headline": "People Are Ordering Smaller Pizzas and Fewer Toppings. What Does That Tell Us?",
+    "link": "https://www.nytimes.com/2025/12/01/business/consumers-pizza-sales.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-02-14 +0000"
+  },
+  {
+    "headline": "With Judge's Ruling, a New Tool for Charging Crime in D.C.",
+    "link": "https://www.nytimes.com/2025/12/01/us/politics/trump-federal-grand-juries-washington.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-02-14 +0000"
+  },
+  {
+    "headline": "Despite Supreme Court Wins, Elite D.O.J. Unit Has Seen Mass Turnover",
+    "link": "https://www.nytimes.com/2025/12/01/us/trump-solicitor-general-supreme-court.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-01-47 +0000"
+  },
+  {
+    "headline": "Outdoor Concerts? Uncovered Hair? Shimmying in Public? Is This Iran?",
+    "link": "https://www.nytimes.com/2025/12/01/world/middleeast/iran-loosening-social-restrictions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-01-34 +0000"
+  },
+  {
+    "headline": "Outdoor Concerts? Uncovered Hair? Shimmying in Public? Is This Iran?",
+    "link": "https://www.nytimes.com/2025/12/01/world/middleeast/iran-loosening-social-restrictions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-01-34 +0000"
+  },
+  {
+    "headline": "In Georgia, the Fight Over 2020 Election Results Looms Over 2026 Midterms",
+    "link": "https://www.nytimes.com/2025/12/01/us/trump-georgia-election-interference-midterms.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-00-41 +0000"
+  },
+  {
+    "headline": "Why Is the ‘City of Baths’ Running Out of Bathhouses?",
+    "link": "https://www.nytimes.com/2025/12/01/travel/gellert-closed-budapest-baths.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-00-35 +0000"
+  },
+  {
+    "headline": "Why Is the ‘City of Baths’ Running Out of Bathhouses?",
+    "link": "https://www.nytimes.com/2025/12/01/travel/gellert-closed-budapest-baths.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-00-35 +0000"
+  },
+  {
+    "headline": "Young Workers Learn to Embrace the Office",
+    "link": "https://www.nytimes.com/2025/12/01/business/young-workers-eyeing-their-careers-learn-to-embrace-the-office.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-10-00-33 +0000"
+  },
+  {
+    "headline": "What we know about the National Guard shooting in D.C.",
+    "link": "https://www.washingtonpost.com/national-security/2025/12/01/national-guard-shooting-update/",
+    "source": "wapo",
+    "pubdate": "2025-12-01-10-00-23 +0000"
+  },
+  {
+    "headline": "How China is using AI to extend censorship and surveillance",
+    "link": "https://www.washingtonpost.com/world/2025/12/01/china-ai-censorship-surveillance/",
+    "source": "wapo",
+    "pubdate": "2025-12-01-10-00-00 +0000"
+  },
+  {
+    "headline": "As more speak Irish in Northern Ireland, some Brits bite their tongues",
+    "link": "https://www.washingtonpost.com/world/2025/12/01/irish-language-resurgence-belfast-ireland/",
+    "source": "wapo",
+    "pubdate": "2025-12-01-10-00-00 +0000"
+  },
+  {
+    "headline": "European Gas Price Drops on Warmer Weather Forecasts",
+    "link": "https://www.wsj.com/articles/european-gas-price-drops-on-warmer-weather-forecasts-a02905b3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-00-00 +0000"
+  },
+  {
+    "headline": "European Gas Price Drops on Warmer Weather Forecasts",
+    "link": "https://www.wsj.com/articles/european-gas-price-drops-on-warmer-weather-forecasts-a02905b3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Ozempic is changing how we spend money and time, plus what we eat",
+    "link": "https://www.washingtonpost.com/business/interactive/2025/ozempic-glp1-consumer-spending/",
+    "source": "wapo",
+    "pubdate": "2025-12-01-10-00-00 +0000"
+  },
+  {
+    "headline": "Death toll rises, hundreds missing as Indonesia, Sri Lanka and Thailand struggle to reach flood victims",
+    "link": "https://www.cbc.ca/news/world/death-toll-rises-hundreds-missing-as-indonesia-sri-lanka-and-thailand-struggle-to-reach-flood-victims-9.6998354?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-01-09-57-37 +0000"
+  },
+  {
+    "headline": "Death toll in Indonesia floods passes 500",
+    "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-09-57-33 +0000"
+  },
+  {
+    "headline": "Death toll in Indonesia floods passes 500",
+    "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-09-57-33 +0000"
+  },
+  {
+    "headline": "OPEC+’s Output Decision Likely Shaped By Geopolitical Risks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-higher-russia-ukraine-peace-talks-in-focus-409ec87e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-09-51-00 +0000"
+  },
+  {
+    "headline": "Bitcoin Falls as Prospect of Rate Rise in Japan Spooks Investors",
+    "link": "https://www.wsj.com/economy/central-banking/bitcoin-falls-as-prospect-of-rate-rise-in-japan-spooks-investors-fa092c73",
+    "source": "wsj",
+    "pubdate": "2025-12-01-09-46-00 +0000"
+  },
+  {
+    "headline": "Pope Leo Lands in Turkey, Planning to Meet Erdogan With a Message of Outreach",
+    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-first-foreign-trip-turkey-erdogan.html",
+    "source": "nyt",
+    "pubdate": "2025-12-01-09-45-50 +0000"
+  },
+  {
+    "headline": "Global Markets Slip Amid Risk Aversion",
+    "link": "https://www.wsj.com/finance/investing/global-markets-slip-amid-risk-aversion-136a8946?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-09-40-00 +0000"
+  },
+  {
+    "headline": "Gold Rises on Softer Dollar, U.S. Rate-Cut Prospects",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-potential-fed-cuts-5b6ff229?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-09-14-00 +0000"
+  },
+  {
+    "headline": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
+    "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-09-07-54 +0000"
+  },
+  {
+    "headline": "Tulip Siddiq MP given jail sentence in Bangladesh after trial in her absence",
+    "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-09-07-54 +0000"
+  },
+  {
+    "headline": "Tulip Siddiq MP given jail sentence in Bangladesh after trial in her absence",
+    "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-09-07-54 +0000"
+  },
+  {
+    "headline": "U.S. industry groups strongly back renewing CUSMA",
+    "link": "https://www.cbc.ca/news/world/cusma-us-canada-trade-deal-hearings-9.6996535?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-01-09-00-00 +0000"
+  },
+  {
+    "headline": "Virgin Media fined £24m for leaving vulnerable customers 'at risk of harm'",
     "link": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-12-01-08-49-20 +0000"
+    "pubdate": "2025-12-01-08-59-04 +0000"
   },
   {
     "headline": "Airbus Shares Fall After Urgent Fixes Needed on Thousands of A320 Aircraft",
@@ -16,6 +334,12 @@
     "link": "https://www.wsj.com/business/energy-oil/totalenergies-to-sell-stake-in-nigeria-projects-to-chevron-8799601b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-01-08-38-00 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Nasdaq Futures Lead Premarket Declines",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-01-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-01-08-33-02 +0000"
   },
   {
     "headline": "Gilt Yields Rise Along With Japanese, Eurozone Peers",
@@ -34,42 +358,6 @@
     "link": "https://www.bbc.com/news/articles/c997n2zlegzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-01-08-17-32 +0000"
-  },
-  {
-    "headline": "Sri Lanka Declares ‘Largest’ Disaster as Cyclone Death Toll Rises to 355",
-    "link": "https://www.nytimes.com/2025/12/01/world/asia/sri-lanka-floods-cyclone.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-08-15-08 +0000"
-  },
-  {
-    "headline": "Sri Lanka Declares ‘Largest’ Disaster as Cyclone Death Toll Rises to 355",
-    "link": "https://www.nytimes.com/2025/12/01/world/asia/sri-lanka-floods-cyclone.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-08-15-08 +0000"
-  },
-  {
-    "headline": "Dollar Falls Ahead of U.S. Data",
-    "link": "https://www.wsj.com/finance/currencies/usd-jpy-falls-boj-gov-speech-in-focus-d5a61ae0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-01-08-15-00 +0000"
-  },
-  {
-    "headline": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
-    "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-08-05-54 +0000"
-  },
-  {
-    "headline": "Tulip Siddiq MP given jail sentence in Bangladesh after trial in her absence",
-    "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-08-05-54 +0000"
-  },
-  {
-    "headline": "Tulip Siddiq MP given jail sentence in Bangladesh after trial in her absence",
-    "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-08-05-54 +0000"
   },
   {
     "headline": "Trump-Endorsed Candidate and Sportscaster Lead Honduran Presidential Race",
@@ -108,7 +396,7 @@
     "pubdate": "2025-12-01-07-09-51 +0000"
   },
   {
-    "headline": "Major waste firm warns vapes causing more than one fire a day",
+    "headline": "Vapes still causing rubbish fires despite disposable ban, major waste firm says",
     "link": "https://www.bbc.com/news/articles/c62vk0p5dn5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-01-06-53-48 +0000"
@@ -180,10 +468,22 @@
     "pubdate": "2025-12-01-06-08-00 +0000"
   },
   {
-    "headline": "Over 120,000 home cameras hacked for 'sexploitation' footage",
+    "headline": "More than 120,000 home cameras hacked for 'sexploitation' footage",
     "link": "https://www.bbc.com/news/articles/cj01q6p7ndlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-01-06-04-53 +0000"
+  },
+  {
+    "headline": "Over 120,000 home cameras hacked in South Korea for 'sexploitation' footage",
+    "link": "https://www.bbc.com/news/articles/cj01q6p7ndlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-06-04-53 +0000"
+  },
+  {
+    "headline": "Ukrainian President Zelensky set for visit to Republic of Ireland",
+    "link": "https://www.bbc.com/news/articles/ckg989gnen5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-01-06-02-57 +0000"
   },
   {
     "headline": "Analysis: Vikings’ 26-0 loss earns its place in their history of misery in Seattle",
@@ -288,24 +588,6 @@
     "pubdate": "2025-12-01-03-54-07 +0000"
   },
   {
-    "headline": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
-    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-03-08-46 +0000"
-  },
-  {
-    "headline": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
-    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-03-08-46 +0000"
-  },
-  {
-    "headline": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
-    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-03-08-46 +0000"
-  },
-  {
     "headline": "How Venezuelan Gangs and African Jihadists Are Flooding Europe With Cocaine",
     "link": "https://www.wsj.com/world/americas/how-venezuelan-gangs-and-african-jihadists-are-flooding-europe-with-cocaine-656f023f",
     "source": "wsj",
@@ -382,12 +664,6 @@
     "link": "https://nypost.com/2025/11/30/us-news/irate-passenger-kicked-off-united-airlines-flight-in-newark-after-cursing-out-attendant/",
     "source": "nypost",
     "pubdate": "2025-12-01-02-21-20 +0000"
-  },
-  {
-    "headline": "Oil Higher; Russia-Ukraine Peace Talks in Focus",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-higher-russia-ukraine-peace-talks-in-focus-409ec87e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-01-02-20-00 +0000"
   },
   {
     "headline": "American Consumers Have Had It With High Car Prices",
@@ -484,12 +760,6 @@
     "link": "https://www.wsj.com/economy/consumers/gen-z-shoppers-arent-spending-like-retailers-need-them-to-5ef2457b",
     "source": "wsj",
     "pubdate": "2025-12-01-01-00-00 +0000"
-  },
-  {
-    "headline": "Gold Rises on Potential Fed Cuts",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-potential-fed-cuts-5b6ff229?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-01-00-58-00 +0000"
   },
   {
     "headline": "Why does Trump keep berating female reporters?",
@@ -744,12 +1014,6 @@
     "pubdate": "2025-11-30-22-18-51 +0000"
   },
   {
-    "headline": "Actors in Lifetime movie about mass killer Bryan Kohberger prance in fake blood on social media — infuriating victims’ kin",
-    "link": "https://nypost.com/2025/11/30/us-news/bryan-kohberger-victims-kin-slam-lifetime-movie-on-idaho-murders/",
-    "source": "nypost",
-    "pubdate": "2025-11-30-22-16-09 +0000"
-  },
-  {
     "headline": "Inside Trump’s Push to Make the White House Ballroom as Big as Possible",
     "link": "https://www.nytimes.com/2025/11/29/us/politics/trump-white-house-ballroom.html",
     "source": "nyt",
@@ -868,12 +1132,6 @@
     "link": "https://nypost.com/2025/11/30/us-news/trump-told-maduro-in-call-he-must-leave-venezuela-in-order-to-save-himself-and-his-family-report/",
     "source": "nypost",
     "pubdate": "2025-11-30-21-12-42 +0000"
-  },
-  {
-    "headline": "Republicans Flipped South Texas. Can a Moderate Tejano Singer Take It Back?",
-    "link": "https://www.nytimes.com/2025/11/29/us/politics/bobby-pulido.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-21-11-42 +0000"
   },
   {
     "headline": "Republicans Flipped South Texas. Can a Moderate Tejano Singer Take It Back?",
@@ -1384,119 +1642,5 @@
     "link": "https://www.startribune.com/5-things-thc-drinkers-minnesota-should-know-about-federal-ban-hemp-beverages-utepils-indeed-lobby/601528733",
     "source": "startribune",
     "pubdate": "2025-11-30-12-00-00 +0000"
-  },
-  {
-    "headline": "Benjamin Netanyahu seeks pardon from Israel's president",
-    "link": "https://www.bbc.com/news/articles/c4gv76r5qpvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-30-11-49-50 +0000"
-  },
-  {
-    "headline": "Benjamin Netanyahu seeks pardon from Israel's president",
-    "link": "https://www.bbc.com/news/articles/c4gv76r5qpvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-30-11-49-50 +0000"
-  },
-  {
-    "headline": "In Houston suburbs, Abbott’s attacks on CAIR unnerve Muslim residents",
-    "link": "https://www.washingtonpost.com/nation/2025/11/28/texas-cair-muslim-brotherhood-houston-abbott/",
-    "source": "wapo",
-    "pubdate": "2025-11-30-11-30-54 +0000"
-  },
-  {
-    "headline": "Netanyahu submits request to Israeli president for a pardon during his ongoing corruption trial",
-    "link": "https://nypost.com/2025/11/30/world-news/netanyahu-submits-request-for-a-pardon-to-israeli-president-herzog-amid-his-ongoing-corruption-trial/",
-    "source": "nypost",
-    "pubdate": "2025-11-30-11-15-39 +0000"
-  },
-  {
-    "headline": "Deepfake of North Carolina lawmaker used in award-winning Whirlpool video",
-    "link": "https://www.washingtonpost.com/nation/2025/11/30/deep-fake-whirlool-brazil/",
-    "source": "wapo",
-    "pubdate": "2025-11-30-11-00-39 +0000"
-  },
-  {
-    "headline": "Acclaimed ‘Inconvenient Indian’ reveals he’s not Indigenous",
-    "link": "https://www.washingtonpost.com/world/2025/11/30/thomas-king-inconvenient-indian/",
-    "source": "wapo",
-    "pubdate": "2025-11-30-11-00-38 +0000"
-  },
-  {
-    "headline": "Arellano: Short, beautiful Southern California reads for our doomscrolling times",
-    "link": "https://www.latimes.com/california/story/2025-11-30/southern-california-books-2025-gift-guide",
-    "source": "latimes",
-    "pubdate": "2025-11-30-11-00-00 +0000"
-  },
-  {
-    "headline": "Hard lives in California's fields: 'The American dream eats us alive'",
-    "link": "https://www.latimes.com/california/story/2025-11-30/hard-lives-in-california-fields-harvesting-watermelons",
-    "source": "latimes",
-    "pubdate": "2025-11-30-11-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: What a scandal! (Or not.) How things have changed",
-    "link": "https://www.latimes.com/politics/story/2025-11-30/scandal-trump-changing-standards-katie-porter-graham-platner-jay-jones",
-    "source": "latimes",
-    "pubdate": "2025-11-30-11-00-00 +0000"
-  },
-  {
-    "headline": "Robert Garcia leads Democrats' strategy on Epstein probe, to GOP's dismay",
-    "link": "https://www.latimes.com/politics/story/2025-11-30/garcia-leads-democrats-strategy-on-epstein-probe-to-gops-dismay",
-    "source": "latimes",
-    "pubdate": "2025-11-30-11-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: What a scandal! (Or not.) How things have changed",
-    "link": "https://www.latimes.com/politics/story/2025-11-30/scandal-trump-changing-standards-katie-porter-graham-platner-jay-jones",
-    "source": "latimes",
-    "pubdate": "2025-11-30-11-00-00 +0000"
-  },
-  {
-    "headline": "Opinion | No one’s come up with a better model for affordable housing than this",
-    "link": "https://www.startribune.com/mn-housing-affordability-crisis-clt-model/601523137",
-    "source": "startribune",
-    "pubdate": "2025-11-30-10-59-00 +0000"
-  },
-  {
-    "headline": "Mum hosts free toy swap to help cut Christmas costs",
-    "link": "https://www.bbc.com/news/articles/c5yq4rdrv1mo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-11-30-10-12-30 +0000"
-  },
-  {
-    "headline": "First images from inside fire-ravaged Hong Kong high rise as death toll rises to 146",
-    "link": "https://nypost.com/2025/11/30/world-news/hong-kong-apartment-complex-fire-death-toll-rises-to-146/",
-    "source": "nypost",
-    "pubdate": "2025-11-30-10-00-31 +0000"
-  },
-  {
-    "headline": "Two Retail Chiefs Take Stock of a Make-or-Break Holiday Shopping Season",
-    "link": "https://www.nytimes.com/2025/11/30/business/nordstrom-selfridges-department-stores-shopping-retail.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-10-00-28 +0000"
-  },
-  {
-    "headline": "Remembering WW2 Camps, Japanese Americans Fight Trump’s Immigration Crackdown",
-    "link": "https://www.nytimes.com/2025/11/30/us/japanese-internment-camp-trump-immigration.html",
-    "source": "nyt",
-    "pubdate": "2025-11-30-10-00-08 +0000"
-  },
-  {
-    "headline": "Climate change, aging farmers endanger Japan’s ‘Rolls-Royce of pearls’",
-    "link": "https://www.washingtonpost.com/world/interactive/2025/japan-pearl-industry-climate-change/",
-    "source": "wapo",
-    "pubdate": "2025-11-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Why you may not want lower prices as much as you think you do",
-    "link": "https://www.washingtonpost.com/business/2025/11/30/consumer-high-prices-economy/",
-    "source": "wapo",
-    "pubdate": "2025-11-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Why you may not want lower prices as much as you think you do",
-    "link": "https://www.washingtonpost.com/business/2025/11/30/consumer-high-prices-economy/",
-    "source": "wapo",
-    "pubdate": "2025-11-30-10-00-00 +0000"
   }
 ]
