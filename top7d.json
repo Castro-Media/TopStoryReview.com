@@ -1,6 +1,6 @@
 [
   {
-    "score": 278,
+    "score": 281,
     "pubdate": "2025-11-28-20-46-46 +0000",
     "source": "latimes",
     "headline": "Will California's new K-12 antisemitism law make up for Trump's civil rights cuts?",
@@ -14,7 +14,7 @@
     "link": "https://nypost.com/2025/11/30/world-news/hong-kong-apartment-complex-fire-death-toll-rises-to-146/"
   },
   {
-    "score": 133,
+    "score": 131,
     "pubdate": "2025-11-29-01-12-00 +0000",
     "source": "wsj",
     "headline": "Trump to Pardon Honduran Ex-President Serving 45-Year Drug Sentence",
@@ -29,31 +29,17 @@
   },
   {
     "score": 116,
-    "pubdate": "2025-11-28-14-46-00 +0000",
-    "source": "wsj",
-    "headline": "Here’s what to know about Rahmanullah Lakanwal, the Afghan suspect in Wednesday’s shooting of two National Guard members serving in Washington, D.C.",
-    "link": "https://www.wsj.com/politics/national-security/who-is-d-c-shooting-suspect-rahmanullah-lakanwal-c44ef1cd"
-  },
-  {
-    "score": 116,
     "pubdate": "2025-11-30-19-28-51 +0000",
     "source": "nypost",
     "headline": "Marco Rubio insists peace deal must ensure Ukraine ‘never has another war again’ as top officials convene in Miami",
     "link": "https://nypost.com/2025/11/30/us-news/ukraine-peace-deal-must-ensure-theres-never-another-war-again-rubio/"
   },
   {
-    "score": 102,
-    "pubdate": "2025-11-30-22-28-52 +0000",
-    "source": "nypost",
-    "headline": "Why Venezuela’s allies Russia and China are slinking away as Trump ramps up pressure on Maduro",
-    "link": "https://nypost.com/2025/11/30/world-news/why-venezuelas-allies-russia-and-china-mia-as-trump-ramps-up-pressure-on-maduro/"
-  },
-  {
-    "score": 101,
-    "pubdate": "2025-11-30-22-23-47 +0000",
-    "source": "bbc",
-    "headline": "Reeves denies she misled public over UK's finances in run-up to Budget",
-    "link": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss"
+    "score": 114,
+    "pubdate": "2025-11-28-14-46-00 +0000",
+    "source": "wsj",
+    "headline": "Here’s what to know about Rahmanullah Lakanwal, the Afghan suspect in Wednesday’s shooting of two National Guard members serving in Washington, D.C.",
+    "link": "https://www.wsj.com/politics/national-security/who-is-d-c-shooting-suspect-rahmanullah-lakanwal-c44ef1cd"
   },
   {
     "score": 101,
@@ -61,6 +47,20 @@
     "source": "nyt",
     "headline": "Heading to the Mideast, Pope Leo May Show ‘Who He Really Is’",
     "link": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-leo-trip.html"
+  },
+  {
+    "score": 101,
+    "pubdate": "2025-11-29-19-03-00 +0000",
+    "source": "wsj",
+    "headline": "Why Russia and China Are Sitting Out Venezuela’s Clash With Trump",
+    "link": "https://www.wsj.com/world/americas/why-russia-and-china-are-sitting-out-venezuelas-clash-with-trump-0fcc7710"
+  },
+  {
+    "score": 99,
+    "pubdate": "2025-11-30-22-23-47 +0000",
+    "source": "bbc",
+    "headline": "Reeves denies she misled public over UK's finances in run-up to Budget",
+    "link": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 84,
