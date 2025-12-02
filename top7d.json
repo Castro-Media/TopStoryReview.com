@@ -1,59 +1,52 @@
 [
   {
-    "score": 285,
+    "score": 290,
     "pubdate": "2025-11-28-20-46-46 +0000",
     "source": "latimes",
     "headline": "Will California's new K-12 antisemitism law make up for Trump's civil rights cuts?",
     "link": "https://www.latimes.com/california/story/2025-11-28/new-california-school-antisemitism-law"
   },
   {
-    "score": 164,
-    "pubdate": "2025-12-01-23-32-00 +0000",
-    "source": "nypost",
-    "headline": "White House says admiral ordered second strike on Venezuelan drug boat: ‘Right to take them out’",
-    "link": "https://nypost.com/2025/12/01/us-news/wh-says-admiral-ordered-second-strike-on-venezuelan-drug-boat-self-defense/"
-  },
-  {
-    "score": 156,
-    "pubdate": "2025-11-27-07-59-00 +0000",
+    "score": 191,
+    "pubdate": "2025-12-02-01-58-00 +0000",
     "source": "wsj",
-    "headline": "Three Arrested as Hong Kong Fire Death Toll Rises to at Least 65",
-    "link": "https://www.wsj.com/world/asia/hong-kong-fire-china-apartment-building-575f28ab"
+    "headline": "The White House said the U.S. conducted two strikes on an alleged drug boat in September, adding questions about Pentagon chief Hegseth’s role in an operation that led to the deaths of two survivors",
+    "link": "https://www.wsj.com/politics/white-house-says-second-strike-on-alleged-drug-boat-was-legal-951a19d6"
   },
   {
-    "score": 120,
-    "pubdate": "2025-12-01-18-09-00 +0000",
-    "source": "wsj",
-    "headline": "Here’s what to know about Rahmanullah Lakanwal, the Afghan suspect in Wednesday’s shooting of two National Guard members serving in Washington, D.C.",
-    "link": "https://www.wsj.com/politics/national-security/who-is-d-c-shooting-suspect-rahmanullah-lakanwal-c44ef1cd"
+    "score": 154,
+    "pubdate": "2025-11-29-02-38-54 +0000",
+    "source": "nyt",
+    "headline": "Death Toll Rises to 128 in Hong Kong High-Rise Fire",
+    "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html"
   },
   {
-    "score": 115,
+    "score": 118,
+    "pubdate": "2025-11-27-15-28-14 +0000",
+    "source": "cbc",
+    "headline": "Carney’s energy deal went down very differently, depending on who you ask. Here’s how the day played out",
+    "link": "https://www.cbc.ca/news/politics/livestory/alberta-ottawa-memorandum-of-understanding-energy-deal-pipeline-bc-9.6993431?cmp=rss"
+  },
+  {
+    "score": 113,
     "pubdate": "2025-11-30-23-19-00 +0000",
     "source": "wsj",
     "headline": "Top U.S. negotiators are heading to Moscow on Monday for discussions on ending the war in Ukraine, after a daylong negotiation Sunday with Ukrainian officials that participants called productive",
     "link": "https://www.wsj.com/politics/policy/u-s-ukrainian-negotiators-meet-in-florida-to-discuss-halting-war-608bb045"
   },
   {
-    "score": 111,
-    "pubdate": "2025-11-30-10-00-00 +0000",
-    "source": "wapo",
-    "headline": "Why you may not want lower prices as much as you think you do",
-    "link": "https://www.washingtonpost.com/business/2025/11/30/consumer-high-prices-economy/"
+    "score": 107,
+    "pubdate": "2025-12-01-19-56-53 +0000",
+    "source": "bbc",
+    "headline": "Three children among four killed in shooting at children's birthday party in California",
+    "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 98,
+    "score": 96,
     "pubdate": "2025-11-30-22-28-52 +0000",
     "source": "nypost",
     "headline": "Why Venezuela’s allies Russia and China are slinking away as Trump ramps up pressure on Maduro",
     "link": "https://nypost.com/2025/11/30/world-news/why-venezuelas-allies-russia-and-china-mia-as-trump-ramps-up-pressure-on-maduro/"
-  },
-  {
-    "score": 87,
-    "pubdate": "2025-11-26-13-00-00 +0000",
-    "source": "latimes",
-    "headline": "Brace yourselves! Thanksgiving air travel expected to hit 15-year high. Here's how to survive",
-    "link": "https://www.latimes.com/california/story/2025-11-26/thanksgiving-holiday-air-travel-expected-to-hit-15-year-high"
   },
   {
     "score": 87,
@@ -63,10 +56,17 @@
     "link": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 81,
-    "pubdate": "2025-12-01-23-21-47 +0000",
-    "source": "nypost",
-    "headline": "Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in deal with prosecutors",
-    "link": "https://nypost.com/2025/12/01/us-news/son-of-drug-kingpin-el-chapo-pleads-guilty-in-us-drug-trafficking-case-in-deal-with-prosecutors/"
+    "score": 86,
+    "pubdate": "2025-12-01-04-00-00 +0000",
+    "source": "wsj",
+    "headline": "Economists predicted a global shock from President Trump’s tariffs, but some of them are now revising their global growth predictions upward",
+    "link": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-11-25-12-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Trump budget will drain $315M a year from San Francisco’s coffers, city says",
+    "link": "https://missionlocal.org/2025/11/sf-trump-budget-big-beautiful-bill/"
   }
 ]

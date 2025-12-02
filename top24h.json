@@ -1,13 +1,13 @@
 [
   {
-    "score": 161,
+    "score": 163,
     "pubdate": "2025-12-01-21-10-44 +0000",
     "source": "nypost",
     "headline": "White House doesn’t rule out boots on the ground in Venezuela as Trump convenes top security team",
     "link": "https://nypost.com/2025/12/01/us-news/trump-doesnt-rule-out-sending-troops-to-venezuela-as-white-house-convenes-security-meeting/"
   },
   {
-    "score": 96,
+    "score": 93,
     "pubdate": "2025-12-01-23-21-47 +0000",
     "source": "nypost",
     "headline": "Son of drug kingpin ‘El Chapo’ pleads guilty in US drug trafficking case in deal with prosecutors",
@@ -15,13 +15,6 @@
   },
   {
     "score": 68,
-    "pubdate": "2025-12-01-14-38-59 +0000",
-    "source": "nypost",
-    "headline": "Trump backs Hegseth after report claims war secretary ordered no survivors in drug boat strike: ‘I believe him’",
-    "link": "https://nypost.com/2025/12/01/us-news/trump-backs-hegseth-after-report-claims-war-secretary-ordered-no-survivors-in-drug-boat-strike/"
-  },
-  {
-    "score": 65,
     "pubdate": "2025-12-01-14-42-17 +0000",
     "source": "nypost",
     "headline": "Appeals court disqualifies former Trump lawyer Alina Habba from serving as interim US attorney for New Jersey",
@@ -29,6 +22,13 @@
   },
   {
     "score": 63,
+    "pubdate": "2025-12-01-14-38-59 +0000",
+    "source": "nypost",
+    "headline": "Trump backs Hegseth after report claims war secretary ordered no survivors in drug boat strike: ‘I believe him’",
+    "link": "https://nypost.com/2025/12/01/us-news/trump-backs-hegseth-after-report-claims-war-secretary-ordered-no-survivors-in-drug-boat-strike/"
+  },
+  {
+    "score": 62,
     "pubdate": "2025-12-01-19-56-53 +0000",
     "source": "bbc",
     "headline": "Three children among four killed in shooting at children's birthday party in California",
@@ -42,31 +42,31 @@
     "link": "https://www.nytimes.com/2025/11/30/world/asia/hongkong-fire-domestic-workers.html"
   },
   {
-    "score": 51,
+    "score": 50,
     "pubdate": "2025-12-02-00-36-00 +0000",
     "source": "wsj",
     "headline": "The White House published a website detailing what it calls “false and misleading” media coverage, the latest in a series of unorthodox steps by the Trump administration against media outlets",
     "link": "https://www.wsj.com/politics/policy/new-white-house-website-takes-aim-at-journalists-and-news-outlets-1b97e59f"
   },
   {
-    "score": 43,
+    "score": 47,
+    "pubdate": "2025-12-02-01-54-31 +0000",
+    "source": "nypost",
+    "headline": "Dem-leaning group roasts NY’s green energy law as an ‘undeniable’ failure as customers zapped by soaring costs",
+    "link": "https://nypost.com/2025/12/01/us-news/dem-leaning-group-roasts-nys-green-energy-law-as-an-undeniable-failure-as-customers-zapped-by-soaring-costs/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-12-01-04-00-00 +0000",
+    "source": "wsj",
+    "headline": "Economists predicted a global shock from President Trump’s tariffs, but some of them are now revising their global growth predictions upward",
+    "link": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0"
+  },
+  {
+    "score": 42,
     "pubdate": "2025-12-01-23-44-42 +0000",
     "source": "cbc",
     "headline": "Flooding recovery efforts underway in Indonesia, Sri Lanka, Thailand as death toll tops 1,000",
     "link": "https://www.cbc.ca/news/world/livestory/asia-flooding-dec-1-9.6999445?cmp=rss"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-12-01-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
-    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-12-02-00-57-52 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk claims America’s ‘insanely high’ $38T debt crisis can only be solved by AI, robotics",
-    "link": "https://nypost.com/2025/12/01/business/elon-musk-claims-americas-insanely-high-38t-debt-crisis-can-only-be-solved-by-ai-robotics/"
   }
 ]
