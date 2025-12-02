@@ -1,10 +1,17 @@
 [
   {
-    "score": 194,
+    "score": 200,
     "pubdate": "2025-12-02-00-36-00 +0000",
     "source": "wsj",
     "headline": "The White House published a website detailing what it calls “false and misleading” media coverage, the latest in a series of unorthodox steps by the Trump administration against media outlets",
     "link": "https://www.wsj.com/politics/policy/new-white-house-website-takes-aim-at-journalists-and-news-outlets-1b97e59f"
+  },
+  {
+    "score": 86,
+    "pubdate": "2025-12-02-14-52-14 +0000",
+    "source": "nyt",
+    "headline": "Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon",
+    "link": "https://www.nytimes.com/2025/12/02/us/politics/hernandez-honduras-trump.html"
   },
   {
     "score": 85,
@@ -14,59 +21,52 @@
     "link": "https://www.bbc.com/news/articles/ckgz28zyp8vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 83,
+    "score": 80,
     "pubdate": "2025-12-02-03-11-29 +0000",
     "source": "nyt",
     "headline": "Kristi Noem Recommends New Travel Ban After National Guard Shooting",
     "link": "https://www.nytimes.com/2025/12/01/us/politics/trump-travel-ban-dhs-noem.html"
   },
   {
-    "score": 73,
+    "score": 76,
     "pubdate": "2025-12-02-03-20-00 +0000",
     "source": "wsj",
     "headline": "Costco one of the biggest companies to sue the Trump administration over tariffs to secure a refund should the Supreme Court strike down the duties",
     "link": "https://www.wsj.com/politics/policy/costco-joins-companies-suing-trump-administration-over-tariffs-ab1bb066"
   },
   {
-    "score": 72,
-    "pubdate": "2025-12-02-14-52-14 +0000",
-    "source": "nyt",
-    "headline": "Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon",
-    "link": "https://www.nytimes.com/2025/12/02/us/politics/hernandez-honduras-trump.html"
-  },
-  {
-    "score": 70,
+    "score": 75,
     "pubdate": "2025-12-02-14-11-09 +0000",
     "source": "nyt",
     "headline": "Thousands Greet Pope Leo as He Prays Near Site of Beirut Port Blast",
     "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html"
   },
   {
-    "score": 69,
+    "score": 75,
+    "pubdate": "2025-12-02-15-34-11 +0000",
+    "source": "nypost",
+    "headline": "Steve Witkoff greets Putin in Moscow for Russia-Ukraine peace talks",
+    "link": "https://nypost.com/2025/12/02/world-news/steve-witkoff-greets-putin-in-moscow-for-russia-ukraine-peace-talks/"
+  },
+  {
+    "score": 67,
     "pubdate": "2025-12-02-04-46-00 +0000",
     "source": "wsj",
     "headline": "The White House said the U.S. conducted two strikes on an alleged drug boat in September, adding questions about Pentagon chief Hegseth’s role in an operation that led to the deaths of two survivors",
     "link": "https://www.wsj.com/politics/white-house-says-second-strike-on-alleged-drug-boat-was-legal-951a19d6"
   },
   {
-    "score": 66,
-    "pubdate": "2025-12-02-03-13-14 +0000",
-    "source": "nypost",
-    "headline": "Trump calls Tennessee special election a ‘big thing’ – suggests results will reflect on him and the GOP: ‘Sign of how we are doing’",
-    "link": "https://nypost.com/2025/12/01/us-news/trump-calls-tennessee-special-election-a-big-thing-suggests-results-will-reflect-on-him-and-the-gop/"
-  },
-  {
-    "score": 59,
-    "pubdate": "2025-12-02-11-00-09 +0000",
-    "source": "nypost",
-    "headline": "Trump working up to 12-hour days, Oval Office logs show — refuting NY Times report on ‘fatigue’ limiting events",
-    "link": "https://nypost.com/2025/12/02/us-news/trump-working-up-to-12-hour-days-oval-office-logs-show-refuting-ny-times-report-on-fatigue-limiting-events/"
-  },
-  {
-    "score": 56,
+    "score": 61,
     "pubdate": "2025-12-02-14-22-53 +0000",
     "source": "nypost",
     "headline": "Mom of dead Texas cheerleader noticed ‘weird’ detail before daughter’s death — as she insists she was killed",
     "link": "https://nypost.com/2025/12/02/us-news/mom-of-dead-texas-cheerleader-noticed-weird-detail-before-daughters-death-as-she-insists-she-was-killed/"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-12-02-14-36-04 +0000",
+    "source": "bbc",
+    "headline": "Reeves speech did not mislead on challenges facing UK ahead of Budget, says OBR official",
+    "link": "https://www.bbc.com/news/articles/czj0ngnkl2vo?at_medium=RSS&at_campaign=rss"
   }
 ]
