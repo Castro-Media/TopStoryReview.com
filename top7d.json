@@ -1,10 +1,17 @@
 [
   {
-    "score": 286,
+    "score": 288,
     "pubdate": "2025-11-28-20-46-46 +0000",
     "source": "latimes",
     "headline": "Will California's new K-12 antisemitism law make up for Trump's civil rights cuts?",
     "link": "https://www.latimes.com/california/story/2025-11-28/new-california-school-antisemitism-law"
+  },
+  {
+    "score": 159,
+    "pubdate": "2025-12-01-23-32-00 +0000",
+    "source": "nypost",
+    "headline": "White House says admiral ordered second strike on Venezuelan drug boat: ‘Right to take them out’",
+    "link": "https://nypost.com/2025/12/01/us-news/wh-says-admiral-ordered-second-strike-on-venezuelan-drug-boat-self-defense/"
   },
   {
     "score": 158,
@@ -14,18 +21,11 @@
     "link": "https://www.wsj.com/world/asia/hong-kong-fire-china-apartment-building-575f28ab"
   },
   {
-    "score": 144,
-    "pubdate": "2025-12-01-21-10-44 +0000",
-    "source": "nypost",
-    "headline": "White House doesn’t rule out boots on the ground in Venezuela as Trump convenes top security team",
-    "link": "https://nypost.com/2025/12/01/us-news/trump-doesnt-rule-out-sending-troops-to-venezuela-as-white-house-convenes-security-meeting/"
-  },
-  {
-    "score": 128,
-    "pubdate": "2025-12-01-14-38-59 +0000",
-    "source": "nypost",
-    "headline": "Trump backs Hegseth after report claims war secretary ordered no survivors in drug boat strike: ‘I believe him’",
-    "link": "https://nypost.com/2025/12/01/us-news/trump-backs-hegseth-after-report-claims-war-secretary-ordered-no-survivors-in-drug-boat-strike/"
+    "score": 120,
+    "pubdate": "2025-11-30-10-00-00 +0000",
+    "source": "wapo",
+    "headline": "Why you may not want lower prices as much as you think you do",
+    "link": "https://www.washingtonpost.com/business/2025/11/30/consumer-high-prices-economy/"
   },
   {
     "score": 120,
@@ -35,38 +35,38 @@
     "link": "https://www.wsj.com/politics/national-security/who-is-d-c-shooting-suspect-rahmanullah-lakanwal-c44ef1cd"
   },
   {
-    "score": 117,
-    "pubdate": "2025-11-30-10-00-00 +0000",
-    "source": "wapo",
-    "headline": "Why you may not want lower prices as much as you think you do",
-    "link": "https://www.washingtonpost.com/business/2025/11/30/consumer-high-prices-economy/"
+    "score": 119,
+    "pubdate": "2025-11-30-23-19-00 +0000",
+    "source": "wsj",
+    "headline": "Top U.S. negotiators are heading to Moscow on Monday for discussions on ending the war in Ukraine, after a daylong negotiation Sunday with Ukrainian officials that participants called productive",
+    "link": "https://www.wsj.com/politics/policy/u-s-ukrainian-negotiators-meet-in-florida-to-discuss-halting-war-608bb045"
   },
   {
-    "score": 91,
-    "pubdate": "2025-11-27-07-34-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump advised Japanese Prime Minister Sanae Takaichi to temper her tone on Taiwan’s sovereignty to avoid jeopardizing a U.S.-China trade detente, people briefed on the matter said",
-    "link": "https://www.wsj.com/politics/national-security/trump-after-call-with-chinas-xi-told-japan-to-lower-the-volume-on-taiwan-3af795d6"
+    "score": 101,
+    "pubdate": "2025-11-30-22-28-52 +0000",
+    "source": "nypost",
+    "headline": "Why Venezuela’s allies Russia and China are slinking away as Trump ramps up pressure on Maduro",
+    "link": "https://nypost.com/2025/11/30/world-news/why-venezuelas-allies-russia-and-china-mia-as-trump-ramps-up-pressure-on-maduro/"
   },
   {
     "score": 90,
-    "pubdate": "2025-11-30-22-41-04 +0000",
-    "source": "bbc",
-    "headline": "How Pope Leo transformed from 'quiet man' to vocal peace messenger on first foreign trip",
-    "link": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 89,
     "pubdate": "2025-11-25-12-00-00 +0000",
     "source": "missionlocal",
     "headline": "Trump budget will drain $315M a year from San Francisco’s coffers, city says",
     "link": "https://missionlocal.org/2025/11/sf-trump-budget-big-beautiful-bill/"
   },
   {
-    "score": 88,
-    "pubdate": "2025-11-30-06-22-36 +0000",
+    "score": 87,
+    "pubdate": "2025-11-30-22-41-04 +0000",
     "source": "bbc",
-    "headline": "Ukraine hits tankers in Black Sea in escalation against Russia",
-    "link": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss"
+    "headline": "How Pope Leo transformed from 'quiet man' to vocal peace messenger on first foreign trip",
+    "link": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 77,
+    "pubdate": "2025-11-28-18-50-28 +0000",
+    "source": "latimes",
+    "headline": "Black Friday shoppers spend more time looking for deals but less money amid economic angst",
+    "link": "https://www.latimes.com/business/story/2025-11-28/cautious-shoppers-plan-to-spend-less-this-black-friday"
   }
 ]
