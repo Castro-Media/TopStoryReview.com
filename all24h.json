@@ -1,9 +1,327 @@
 [
   {
-    "headline": "Twelve further prisoners accidentally released, says Lammy",
+    "headline": "Snow Falls in New York State as Major Storm Approaches",
+    "link": "https://www.nytimes.com/2025/12/02/us/snow-winter-storm-northeast-ny-nj.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-46-06 +0000"
+  },
+  {
+    "headline": "Ukraine in maps: Tracking the war with Russia",
+    "link": "https://www.bbc.com/news/articles/c0l0k4389g2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-10-42-46 +0000"
+  },
+  {
+    "headline": "UK faces 'headwind' from tax and spending moves, OECD says",
+    "link": "https://www.bbc.com/news/articles/cr5zdeyd1eeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-10-42-21 +0000"
+  },
+  {
+    "headline": "Euro Remains Steady After Eurozone Inflation Data",
+    "link": "https://www.wsj.com/finance/currencies/bitcoin-retracement-brings-back-volatility-f05546de?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-02-10-41-00 +0000"
+  },
+  {
+    "headline": "Nigeria grants asylum to Guinea-Bissau presidential candidate after coup",
+    "link": "https://www.bbc.com/news/articles/ce3wq2zznz1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-10-37-01 +0000"
+  },
+  {
+    "headline": "Right to Jury Trial in England and Wales to Be Restricted in Some Cases",
+    "link": "https://www.nytimes.com/2025/12/01/world/europe/uk-jury-trial-courts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-32-54 +0000"
+  },
+  {
+    "headline": "Right to Jury Trial in England and Wales to Be Restricted in Some Cases",
+    "link": "https://www.nytimes.com/2025/12/01/world/europe/uk-jury-trial-courts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-32-54 +0000"
+  },
+  {
+    "headline": "San Francisco’s Buzziest Social-Media Star: Its Mayor",
+    "link": "https://www.wsj.com/us-news/san-franciscos-buzziest-social-media-star-its-mayor-f4b0faae",
+    "source": "wsj",
+    "pubdate": "2025-12-02-10-30-00 +0000"
+  },
+  {
+    "headline": "Commercial Real Estate Is Getting Too Cheap to Ignore",
+    "link": "https://www.wsj.com/real-estate/commercial/commercial-real-estate-is-getting-too-cheap-to-ignore-c208517b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-02-10-30-00 +0000"
+  },
+  {
+    "headline": "Paralympic gold medalist Gareth Duke, 39, caught by predator hunters after asking 14-year-old ‘girl’ to strip for him",
+    "link": "https://nypost.com/2025/12/02/world-news/british-paralympic-gold-medalist-gareth-duke-caught-by-predator-hunters-after-asking-14-year-old-girl-to-strip-for-him/",
+    "source": "nypost",
+    "pubdate": "2025-12-02-10-29-10 +0000"
+  },
+  {
+    "headline": "Eurozone Inflation Picks Up as Services Prices Accelerate",
+    "link": "https://www.wsj.com/world/europe/eurozone-inflation-picks-up-as-services-prices-accelerate-b0594c21",
+    "source": "wsj",
+    "pubdate": "2025-12-02-10-28-00 +0000"
+  },
+  {
+    "headline": "BP Pulls Out of Hydrogen Project in Northern England",
+    "link": "https://www.wsj.com/business/energy-oil/bp-pulls-out-of-hydrogen-project-in-northern-england-619bf768?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-02-10-25-00 +0000"
+  },
+  {
+    "headline": "Twelve more prisoners released in error, with two still missing, says Lammy",
     "link": "https://www.bbc.com/news/articles/c8e9py8g2yyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-12-02-08-54-21 +0000"
+    "pubdate": "2025-12-02-10-22-39 +0000"
+  },
+  {
+    "headline": "Growth to Slow as Tariffs Bite, But AI Investments May Cushion the Blow",
+    "link": "https://www.wsj.com/economy/global/growth-to-slow-as-tariffs-bite-but-ai-investments-may-cushion-the-blow-4e1de84a",
+    "source": "wsj",
+    "pubdate": "2025-12-02-10-19-00 +0000"
+  },
+  {
+    "headline": "U.S. delegation to meet Putin in latest bid to end Ukraine war",
+    "link": "https://www.washingtonpost.com/world/2025/12/02/russia-putin-witkoff-kushner-ukraine-talks-moscow/",
+    "source": "wapo",
+    "pubdate": "2025-12-02-10-12-41 +0000"
+  },
+  {
+    "headline": "U.S. Futures Fall, Global Markets Mixed; Bitcoin Recovers Slightly",
+    "link": "https://www.wsj.com/finance/stocks/u-s-futures-fall-global-markets-mixed-bitcoin-recovers-slightly-d9cf31c2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-02-10-12-00 +0000"
+  },
+  {
+    "headline": "Jamie Laing's Candy Kittens to acquire UK snack brand Graze",
+    "link": "https://www.bbc.com/news/articles/cp89j5dj95ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-10-11-07 +0000"
+  },
+  {
+    "headline": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-10-41 +0000"
+  },
+  {
+    "headline": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-10-41 +0000"
+  },
+  {
+    "headline": "Tennessee House Special Election 2025: What to Watch",
+    "link": "https://www.nytimes.com/2025/12/02/us/politics/tennessee-house-behn-van-epps.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-06-44 +0000"
+  },
+  {
+    "headline": "Tennessee House Special Election 2025: What to Watch",
+    "link": "https://www.nytimes.com/2025/12/02/us/politics/tennessee-house-behn-van-epps.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-06-44 +0000"
+  },
+  {
+    "headline": "The Philippines Spent Big on Flood Control, but the Water Keeps Rising",
+    "link": "https://www.nytimes.com/2025/12/02/world/asia/phillipines-flood-control-corruption.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-05-10 +0000"
+  },
+  {
+    "headline": "The Philippines Spent Big on Flood Control, but the Water Keeps Rising",
+    "link": "https://www.nytimes.com/2025/12/02/world/asia/phillipines-flood-control-corruption.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-05-10 +0000"
+  },
+  {
+    "headline": "Supreme Court to Hear Dispute Over Anti-Abortion Center Donor Records",
+    "link": "https://www.nytimes.com/2025/12/02/us/supreme-court-pregnancy-centers-abortion.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-04-10 +0000"
+  },
+  {
+    "headline": "How Democrats Have Performed in 2025 Special Elections",
+    "link": "https://www.nytimes.com/2025/12/02/us/elections/special-elections-democrats-tn7.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-04-03 +0000"
+  },
+  {
+    "headline": "How Democrats Have Performed in 2025 Special Elections",
+    "link": "https://www.nytimes.com/2025/12/02/us/elections/special-elections-democrats-tn7.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-04-03 +0000"
+  },
+  {
+    "headline": "Marcos vs. Marcos: The New Front in Philippine Politics",
+    "link": "https://www.nytimes.com/2025/12/02/world/asia/bongbong-imee-marcos-feud.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-03-43 +0000"
+  },
+  {
+    "headline": "Marcos vs. Marcos: The New Front in Philippine Politics",
+    "link": "https://www.nytimes.com/2025/12/02/world/asia/bongbong-imee-marcos-feud.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-03-43 +0000"
+  },
+  {
+    "headline": "Joe Kahn, New York Times Executive Editor, Answers Reader Questions",
+    "link": "https://www.nytimes.com/2025/12/02/us/joe-kahn-executive-editor-questions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-03-36 +0000"
+  },
+  {
+    "headline": "Joe Kahn, New York Times Executive Editor, Answers Reader Questions",
+    "link": "https://www.nytimes.com/2025/12/02/us/joe-kahn-executive-editor-questions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-03-36 +0000"
+  },
+  {
+    "headline": "Joe Kahn, New York Times Executive Editor, Answers Reader Questions",
+    "link": "https://www.nytimes.com/2025/12/02/us/joe-kahn-executive-editor-questions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-03-36 +0000"
+  },
+  {
+    "headline": "Joe Kahn, New York Times Executive Editor, Answers Reader Questions",
+    "link": "https://www.nytimes.com/2025/12/02/us/joe-kahn-executive-editor-questions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-03-36 +0000"
+  },
+  {
+    "headline": "India tells smartphone makers to put state-run cyber safety app on new devices",
+    "link": "https://www.bbc.com/news/articles/cedxyvx74p4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-10-01-18 +0000"
+  },
+  {
+    "headline": "The New York Times Marks Centennial of Bureau in China",
+    "link": "https://www.nytimes.com/2025/12/02/insider/new-york-times-centennial-shanghai-china.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-00-28 +0000"
+  },
+  {
+    "headline": "5 Cooking Classes in Italy Where You Can Make Pizza, Pasta and More",
+    "link": "https://www.nytimes.com/2025/12/02/travel/cooking-classes-italy.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-10-00-11 +0000"
+  },
+  {
+    "headline": "Why Ukraine’s history sows fear of weak security guarantees",
+    "link": "https://www.washingtonpost.com/world/2025/12/02/ukraine-trump-russia-security-guarantees-assurances-nuclear-weapons-ussr/",
+    "source": "wapo",
+    "pubdate": "2025-12-02-10-00-00 +0000"
+  },
+  {
+    "headline": "Corporations to claim $16B from retroactive GOP tax break, federal report says",
+    "link": "https://www.washingtonpost.com/business/2025/12/02/republican-tax-law-bonus-depreciation/",
+    "source": "wapo",
+    "pubdate": "2025-12-02-10-00-00 +0000"
+  },
+  {
+    "headline": "Silver Falls from Record Highs; Gold Nudges Down",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-dollar-fed-remain-in-focus-19930750?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-02-09-54-00 +0000"
+  },
+  {
+    "headline": "'Hung by my wrists and beaten': Israeli-Russian woman says Iraqi militants tortured her in captivity",
+    "link": "https://www.bbc.com/news/articles/cj69588eewyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-09-53-16 +0000"
+  },
+  {
+    "headline": "'Hung by my wrists and beaten': Israeli-Russian woman says Iraqi militants tortured her in captivity",
+    "link": "https://www.bbc.com/news/articles/cj69588eewyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-09-53-16 +0000"
+  },
+  {
+    "headline": "Shein and Temu face calls for investigation over claims of stealing US designs",
+    "link": "https://www.bbc.com/news/articles/c2lvzeyk21vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-09-52-28 +0000"
+  },
+  {
+    "headline": "Gilt Yields Are Steady as Market Calms",
+    "link": "https://www.wsj.com/finance/investing/thirty-year-jgb-yield-hits-record-high-718c1de6?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-02-09-43-00 +0000"
+  },
+  {
+    "headline": "UK share values 'most stretched' since 2008, Bank warns",
+    "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-09-31-47 +0000"
+  },
+  {
+    "headline": "Geopolitical Tensions Unlikely to Change Long-Term Outlook for Oil Prices",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-supply-chain-disruption-963d6115?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-02-09-31-00 +0000"
+  },
+  {
+    "headline": "Pope Leo XIV prays at site of 2020 Beirut port explosion, consoles relatives of victims on last day of trip",
+    "link": "https://nypost.com/2025/12/02/world-news/pope-leo-xiv-prays-at-site-of-2020-beirut-port-explosion-consoles-relatives-of-victims-on-last-day-of-trip/",
+    "source": "nypost",
+    "pubdate": "2025-12-02-09-27-55 +0000"
+  },
+  {
+    "headline": "LVMH Appoints Pietro Beccari as Chair, CEO of Fashion Group",
+    "link": "https://www.wsj.com/business/retail/lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-18474fcc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-02-09-26-00 +0000"
+  },
+  {
+    "headline": "Hacking scheme targeted 120,000 home cameras for sexual footage",
+    "link": "https://www.washingtonpost.com/world/2025/12/02/south-korea-home-cameras-hacked/",
+    "source": "wapo",
+    "pubdate": "2025-12-02-09-17-51 +0000"
+  },
+  {
+    "headline": "Jury trial reforms set to be announced",
+    "link": "https://www.bbc.com/news/articles/cvg1q62jmv0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-02-09-11-47 +0000"
+  },
+  {
+    "headline": "Thousands Greet Pope Leo in Lebanon, as He Prays at Beirut Blast Site",
+    "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-09-07-05 +0000"
+  },
+  {
+    "headline": "Thousands Greet Pope Leo in Lebanon, as He Prays at Beirut Blast Site",
+    "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html",
+    "source": "nyt",
+    "pubdate": "2025-12-02-09-07-05 +0000"
+  },
+  {
+    "headline": "RCMP restricts use of its Chinese-made drones — the vast majority of its fleet",
+    "link": "https://www.cbc.ca/news/politics/rcmp-restricts-chinese-drones-9.6999268?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-02-09-00-00 +0000"
+  },
+  {
+    "headline": "Alberta Metis eying ownership stake in proposed oil pipeline",
+    "link": "https://www.cbc.ca/news/politics/alberta-metis-oil-pipeline-ownership-stake-9.6999482?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-02-09-00-00 +0000"
+  },
+  {
+    "headline": "RCMP restricts use of its Chinese-made drones — the vast majority of its fleet",
+    "link": "https://www.cbc.ca/news/politics/rcmp-restricts-chinese-drones-9.6999268?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-02-09-00-00 +0000"
+  },
+  {
+    "headline": "What does suspending Alberta’s clean electricity regulations mean for Canada’s climate goals?",
+    "link": "https://www.cbc.ca/news/politics/clean-electricity-regulations-alberta-9.6999432?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-02-09-00-00 +0000"
   },
   {
     "headline": "Costco files federal lawsuit challenging Trump’s emergency tariff orders on imported goods",
@@ -18,25 +336,19 @@
     "pubdate": "2025-12-02-08-46-00 +0000"
   },
   {
-    "headline": "Snow Falls in New York State as Major Storm Approaches",
-    "link": "https://www.nytimes.com/2025/12/02/us/snow-winter-storm-northeast-ny-nj.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-08-45-20 +0000"
-  },
-  {
-    "headline": "US Navy commander ordered second  Venezuela boat strike, White House says",
+    "headline": "US Navy admiral ordered second  deadly Venezuela boat strike, White House says",
     "link": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-02-08-44-44 +0000"
   },
   {
-    "headline": "US Navy commander ordered second  Venezuela boat strike, White House says",
+    "headline": "US Navy admiral ordered second  deadly Venezuela boat strike, White House says",
     "link": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-02-08-44-44 +0000"
   },
   {
-    "headline": "US Navy commander ordered second  Venezuela boat strike, White House says",
+    "headline": "US Navy admiral ordered second  deadly Venezuela boat strike, White House says",
     "link": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-02-08-44-44 +0000"
@@ -54,24 +366,12 @@
     "pubdate": "2025-12-02-08-34-10 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow, S&P 500 Futures Inch Lower",
+    "headline": "Stock Market Today: Nasdaq Futures Inch Up; Bitcoin Holds Below $90,000",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-02-08-32-44 +0000"
   },
   {
-    "headline": "Thousands Greet Pope Leo in Lebanon, as He Prays at Beirut Blast Site",
-    "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-08-30-45 +0000"
-  },
-  {
-    "headline": "Thousands Greet Pope Leo in Lebanon, as He Prays at Beirut Blast Site",
-    "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-08-30-45 +0000"
-  },
-  {
     "headline": "China, Evoking World War II, Urges Europe to Take Its Side Against Japan",
     "link": "https://www.nytimes.com/2025/12/02/world/asia/china-japan-taiwan-europe.html",
     "source": "nyt",
@@ -82,18 +382,6 @@
     "link": "https://www.nytimes.com/2025/12/02/world/asia/china-japan-taiwan-europe.html",
     "source": "nyt",
     "pubdate": "2025-12-02-08-29-59 +0000"
-  },
-  {
-    "headline": "European Rates Work Well as a Hedge in Global Portfolios",
-    "link": "https://www.wsj.com/finance/investing/thirty-year-jgb-yield-hits-record-high-718c1de6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-02-08-28-00 +0000"
-  },
-  {
-    "headline": "Jury trial reforms set to be announced",
-    "link": "https://www.bbc.com/news/articles/cvg1q62jmv0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-08-26-20 +0000"
   },
   {
     "headline": "Fashion house Valentino criticised over 'disturbing' AI handbag ads",
@@ -108,12 +396,6 @@
     "pubdate": "2025-12-02-08-04-00 +0000"
   },
   {
-    "headline": "Dollar Stays Weak as Rate-Cut Bets Build",
-    "link": "https://www.wsj.com/finance/currencies/bitcoin-retracement-brings-back-volatility-f05546de?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-02-08-04-00 +0000"
-  },
-  {
     "headline": "Gavin Newsom winning early enthusiasm from liberal Hollywood donors ahead of 2028: report",
     "link": "https://nypost.com/2025/12/02/us-news/gavin-newsom-winning-early-enthusiasm-from-liberal-hollywood-donors-ahead-of-2028-report/",
     "source": "nypost",
@@ -124,18 +406,6 @@
     "link": "https://nypost.com/2025/12/02/us-news/gavin-newsom-winning-early-enthusiasm-from-liberal-hollywood-donors-ahead-of-2028-report/",
     "source": "nypost",
     "pubdate": "2025-12-02-08-00-01 +0000"
-  },
-  {
-    "headline": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-07-59-07 +0000"
-  },
-  {
-    "headline": "Floods in Indonesia, Sri Lanka, Thailand and Vietnam Have Killed Over 1,200. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2025/12/01/world/asia/flooding-sri-lanka-indonesia-thailand-vietnam-cyclone-rain.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-07-59-07 +0000"
   },
   {
     "headline": "Widow whose husband was killed by cows fuming council put bull statue outside home",
@@ -210,12 +480,6 @@
     "pubdate": "2025-12-02-07-18-04 +0000"
   },
   {
-    "headline": "India tells smartphone makers to put state-run cyber safety app on new devices",
-    "link": "https://www.bbc.com/news/articles/cedxyvx74p4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-07-16-03 +0000"
-  },
-  {
     "headline": "Death toll in Indonesia floods passes 600",
     "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -256,12 +520,6 @@
     "link": "https://nypost.com/2025/12/02/us-news/nj-cop-rebecca-sayegh-forfeits-job-for-attacking-ex-boyfriend-his-new-girlfriend-in-home-invasion/",
     "source": "nypost",
     "pubdate": "2025-12-02-06-19-50 +0000"
-  },
-  {
-    "headline": "Fast-fashion firms Shein and Temu face calls for US investigation",
-    "link": "https://www.bbc.com/news/articles/c2lvzeyk21vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-06-18-19 +0000"
   },
   {
     "headline": "Turn that anger into action at this year’s Howard Zinn Book Fair",
@@ -582,22 +840,16 @@
     "pubdate": "2025-12-02-02-25-02 +0000"
   },
   {
-    "headline": "White House doctor releases Trump's 'perfectly normal' MRI results",
+    "headline": "White House doctor says Trump's cardiovascular imaging 'perfectly normal'",
     "link": "https://www.bbc.com/news/articles/cn5lx240greo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-02-02-23-15 +0000"
   },
   {
-    "headline": "Jamie Laing's Candy Kittens to acquire UK snack brand Graze",
-    "link": "https://www.bbc.com/news/articles/cp89j5dj95ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-02-20-46 +0000"
-  },
-  {
     "headline": "Apple’s A.I. Chief, John Giannandrea, Is Retiring",
     "link": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
     "source": "nyt",
-    "pubdate": "2025-12-02-02-15-05 +0000"
+    "pubdate": "2025-12-02-02-15-06 +0000"
   },
   {
     "headline": "Shooting in St. Paul’s East Side injures four people",
@@ -694,12 +946,6 @@
     "link": "https://nypost.com/2025/12/01/us-news/inmate-attempts-suicide-then-escapes-atlanta-hospital-steals-suv-and-gun/",
     "source": "nypost",
     "pubdate": "2025-12-02-01-28-57 +0000"
-  },
-  {
-    "headline": "Oil Edges Higher Amid Supply Chain Disruption",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-supply-chain-disruption-963d6115?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-02-01-28-00 +0000"
   },
   {
     "headline": "Slain LA singer DELAROSA warned friend not to come with her before fatal ambush",
@@ -816,12 +1062,6 @@
     "pubdate": "2025-12-02-00-36-00 +0000"
   },
   {
-    "headline": "Gold Edges Lower; Dollar, Fed Remain in Focus",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-dollar-fed-remain-in-focus-19930750?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-02-00-33-00 +0000"
-  },
-  {
     "headline": "Trump Becomes the Wild Card in Razor-Thin Honduras Election",
     "link": "https://www.nytimes.com/2025/12/01/world/americas/honduras-election-trump.html",
     "source": "nyt",
@@ -864,12 +1104,6 @@
     "pubdate": "2025-12-02-00-25-00 +0000"
   },
   {
-    "headline": "Winter Storm Expected to Slam Northeast U.S. With Heavy Snow",
-    "link": "https://www.nytimes.com/2025/12/01/us/snowstorm-noreaster-northeast-new-england.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-00-24-23 +0000"
-  },
-  {
     "headline": "Why time is running out for Germany's green hydrogen industry",
     "link": "https://www.bbc.com/news/articles/cze60epnde0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -892,18 +1126,6 @@
     "link": "https://www.nytimes.com/2025/12/01/us/politics/reginald-t-jackson-dead.html",
     "source": "nyt",
     "pubdate": "2025-12-02-00-02-46 +0000"
-  },
-  {
-    "headline": "Right to Jury Trial in England and Wales to Be Restricted in Some Cases",
-    "link": "https://www.nytimes.com/2025/12/01/world/europe/uk-jury-trial-courts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-00-02-18 +0000"
-  },
-  {
-    "headline": "Right to Jury Trial in England and Wales to Be Restricted in Some Cases",
-    "link": "https://www.nytimes.com/2025/12/01/world/europe/uk-jury-trial-courts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-00-02-18 +0000"
   },
   {
     "headline": "Opinion | Shooting the Wounded on Drug Boats?",
@@ -1012,12 +1234,6 @@
     "link": "https://nypost.com/2025/12/01/us-news/wh-says-admiral-ordered-second-strike-on-venezuelan-drug-boat-self-defense/",
     "source": "nypost",
     "pubdate": "2025-12-01-23-32-00 +0000"
-  },
-  {
-    "headline": "The Political Price Shock of Data Centers and Electric Bills",
-    "link": "https://www.nytimes.com/2025/11/30/us/politics/data-centers-electric-bills-georgia.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-23-30-44 +0000"
   },
   {
     "headline": "Bitcoin Rout Picks Up Steam as Investors Fret Over a New ‘Crypto Winter’",
@@ -1998,12 +2214,6 @@
     "pubdate": "2025-12-01-15-45-36 +0000"
   },
   {
-    "headline": "College Student Is Deported During Trip Home for Thanksgiving",
-    "link": "https://www.nytimes.com/2025/11/30/us/politics/college-student-deported-thanksgiving-texas.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-15-45-36 +0000"
-  },
-  {
     "headline": "U.S. Factory Activity Contracts Faster Than Expected",
     "link": "https://www.wsj.com/economy/u-s-factory-activity-contracts-faster-than-expected-16c227ee",
     "source": "wsj",
@@ -2062,12 +2272,6 @@
     "link": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
     "source": "nypost",
     "pubdate": "2025-12-01-14-52-37 +0000"
-  },
-  {
-    "headline": "In Georgia, the Fight Over 2020 Election Results Looms Over 2026 Midterms",
-    "link": "https://www.nytimes.com/2025/12/01/us/trump-georgia-election-interference-midterms.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-14-43-30 +0000"
   },
   {
     "headline": "Trump-Endorsed Candidate and Sportscaster Lead Honduran Presidential Race",
@@ -2224,203 +2428,5 @@
     "link": "https://www.washingtonpost.com/business/2025/12/01/work-advice-hosting-colleagues/",
     "source": "wapo",
     "pubdate": "2025-12-01-11-55-00 +0000"
-  },
-  {
-    "headline": "Hong Kong highrise netting did not meet code, officials say, with death toll at 151 people",
-    "link": "https://www.cbc.ca/news/world/hong-kong-wang-fuk-fire-monday-9.6998363?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-01-11-51-49 +0000"
-  },
-  {
-    "headline": "Trump-backed conservative holds narrow lead in Honduras presidential vote",
-    "link": "https://nypost.com/2025/12/01/world-news/conservatives-ahead-of-governing-party-in-honduras-presidential-vote-early-results-show/",
-    "source": "nypost",
-    "pubdate": "2025-12-01-11-33-56 +0000"
-  },
-  {
-    "headline": "Get a £40 voucher for attending money session",
-    "link": "https://www.bbc.com/news/articles/c80xy0lj57xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-11-27-58 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-71ebbefa?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-01-11-15-00 +0000"
-  },
-  {
-    "headline": "How Trump’s ICE crackdown is impacting Chicago’s economy",
-    "link": "https://www.washingtonpost.com/nation/2025/12/01/trump-chicago-immigration-economy/",
-    "source": "wapo",
-    "pubdate": "2025-12-01-11-00-42 +0000"
-  },
-  {
-    "headline": "L.A. County supervisors are set to ban masks worn by ICE agents. Can they win a battle with Trump?",
-    "link": "https://www.latimes.com/california/story/2025-12-01/la-county-supervisors-ordinance-banning-masked-ice-agents-trump",
-    "source": "latimes",
-    "pubdate": "2025-12-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
-    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis",
-    "source": "latimes",
-    "pubdate": "2025-12-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
-    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
-    "source": "latimes",
-    "pubdate": "2025-12-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Altadena resident stunned by bear living under home: 'It roared from underneath the house'",
-    "link": "https://www.latimes.com/california/story/2025-12-01/altadena-resident-stunned-by-bear-living-under-home-it-roared-from-underneath-house",
-    "source": "latimes",
-    "pubdate": "2025-12-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
-    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
-    "source": "latimes",
-    "pubdate": "2025-12-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
-    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis",
-    "source": "latimes",
-    "pubdate": "2025-12-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Pastor and new bride abducted in latest Nigeria attacks",
-    "link": "https://www.bbc.com/news/articles/c79x8285n29o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-10-42-21 +0000"
-  },
-  {
-    "headline": "Pastor and new bride abducted in latest Nigeria attacks",
-    "link": "https://www.bbc.com/news/articles/c79x8285n29o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-10-42-21 +0000"
-  },
-  {
-    "headline": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
-    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-10-40-28 +0000"
-  },
-  {
-    "headline": "AI may discriminate against you at work. Some states are making it illegal.",
-    "link": "https://www.washingtonpost.com/business/2025/12/01/ai-work-regulations-california/",
-    "source": "wapo",
-    "pubdate": "2025-12-01-10-30-27 +0000"
-  },
-  {
-    "headline": "Inside the Bird-Flu Vaccine Trial for Monk Seals",
-    "link": "https://www.nytimes.com/2025/12/01/science/hawaii-bird-flu-h5n1-monk-seals.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-30-13 +0000"
-  },
-  {
-    "headline": "Three Mile Island’s Nuclear Revival Pits Those Who Fled Against Job Seekers",
-    "link": "https://www.wsj.com/business/energy-oil/three-mile-islands-nuclear-revival-pits-those-who-fled-against-job-seekers-2758e115",
-    "source": "wsj",
-    "pubdate": "2025-12-01-10-30-00 +0000"
-  },
-  {
-    "headline": "Three Mile Island’s Nuclear Revival Pits Those Who Fled Against Job Seekers",
-    "link": "https://www.wsj.com/business/energy-oil/three-mile-islands-nuclear-revival-pits-those-who-fled-against-job-seekers-2758e115?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-01-10-30-00 +0000"
-  },
-  {
-    "headline": "Three Mile Island’s Nuclear Revival Pits Those Who Fled Against Job Seekers",
-    "link": "https://www.wsj.com/business/energy-oil/three-mile-islands-nuclear-revival-pits-those-who-fled-against-job-seekers-2758e115?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-01-10-30-00 +0000"
-  },
-  {
-    "headline": "Why Bonds Won’t Protect You From an AI Bubble",
-    "link": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-01-10-30-00 +0000"
-  },
-  {
-    "headline": "The coming interest-rate decision by the Federal Reserve could be an unusually close call. Here’s a breakdown of the stance of the 12 policymakers who will vote on Dec. 10.",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-voters-interest-rate-cut-4795f6dd",
-    "source": "wsj",
-    "pubdate": "2025-12-01-10-30-00 +0000"
-  },
-  {
-    "headline": "What Jamaica Wants After Deadly Hurricane? Visit Us, Island Says.",
-    "link": "https://www.nytimes.com/2025/12/01/world/americas/hurricane-jamaica-tourism.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-02-29 +0000"
-  },
-  {
-    "headline": "What Jamaica Wants After Deadly Hurricane? Visit Us, Island Says.",
-    "link": "https://www.nytimes.com/2025/12/01/world/americas/hurricane-jamaica-tourism.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-02-29 +0000"
-  },
-  {
-    "headline": "With Judge's Ruling, a New Tool for Charging Crime in D.C.",
-    "link": "https://www.nytimes.com/2025/12/01/us/politics/trump-federal-grand-juries-washington.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-02-14 +0000"
-  },
-  {
-    "headline": "With Judge's Ruling, a New Tool for Charging Crime in D.C.",
-    "link": "https://www.nytimes.com/2025/12/01/us/politics/trump-federal-grand-juries-washington.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-02-14 +0000"
-  },
-  {
-    "headline": "Despite Supreme Court Wins, Elite D.O.J. Unit Has Seen Mass Turnover",
-    "link": "https://www.nytimes.com/2025/12/01/us/trump-solicitor-general-supreme-court.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-01-48 +0000"
-  },
-  {
-    "headline": "Outdoor Concerts? Uncovered Hair? Shimmying in Public? Is This Iran?",
-    "link": "https://www.nytimes.com/2025/12/01/world/middleeast/iran-loosening-social-restrictions.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-01-35 +0000"
-  },
-  {
-    "headline": "Outdoor Concerts? Uncovered Hair? Shimmying in Public? Is This Iran?",
-    "link": "https://www.nytimes.com/2025/12/01/world/middleeast/iran-loosening-social-restrictions.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-01-35 +0000"
-  },
-  {
-    "headline": "Why Is Budapest, the ‘City of Baths,’ Running Out of Bathhouses?",
-    "link": "https://www.nytimes.com/2025/12/01/travel/gellert-closed-budapest-baths.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-00-35 +0000"
-  },
-  {
-    "headline": "Why Is Budapest, the ‘City of Baths,’ Running Out of Bathhouses?",
-    "link": "https://www.nytimes.com/2025/12/01/travel/gellert-closed-budapest-baths.html",
-    "source": "nyt",
-    "pubdate": "2025-12-01-10-00-35 +0000"
-  },
-  {
-    "headline": "As more speak Irish in Northern Ireland, some Brits bite their tongues",
-    "link": "https://www.washingtonpost.com/world/2025/12/01/irish-language-resurgence-belfast-ireland/",
-    "source": "wapo",
-    "pubdate": "2025-12-01-10-00-00 +0000"
-  },
-  {
-    "headline": "How China is using AI to extend censorship and surveillance",
-    "link": "https://www.washingtonpost.com/world/2025/12/01/china-ai-censorship-surveillance/",
-    "source": "wapo",
-    "pubdate": "2025-12-01-10-00-00 +0000"
-  },
-  {
-    "headline": "Ozempic is changing how we spend money and time, plus what we eat",
-    "link": "https://www.washingtonpost.com/business/interactive/2025/ozempic-glp1-consumer-spending/",
-    "source": "wapo",
-    "pubdate": "2025-12-01-10-00-00 +0000"
   }
 ]
