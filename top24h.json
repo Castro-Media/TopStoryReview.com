@@ -7,7 +7,7 @@
     "link": "https://www.wsj.com/politics/policy/new-white-house-website-takes-aim-at-journalists-and-news-outlets-1b97e59f"
   },
   {
-    "score": 75,
+    "score": 76,
     "pubdate": "2025-12-02-03-11-29 +0000",
     "source": "nyt",
     "headline": "Kristi Noem Recommends New Travel Ban After National Guard Shooting",
@@ -35,7 +35,14 @@
     "link": "https://www.wsj.com/politics/white-house-says-second-strike-on-alleged-drug-boat-was-legal-951a19d6"
   },
   {
-    "score": 54,
+    "score": 56,
+    "pubdate": "2025-12-01-22-38-27 +0000",
+    "source": "wapo",
+    "headline": "Unsafe netting used at Hong Kong fire site, officials say, as toll rises to 151",
+    "link": "https://www.washingtonpost.com/world/2025/12/01/hong-kong-fire-cause-netting-construction-arrests/"
+  },
+  {
+    "score": 53,
     "pubdate": "2025-12-02-04-45-30 +0000",
     "source": "nypost",
     "headline": "Ryan Lizza claims ex Olivia Nuzzi and RFK Jr. ‘planned to consummate their relationship’ – until he learned of their sexting affair",
@@ -43,17 +50,10 @@
   },
   {
     "score": 51,
-    "pubdate": "2025-12-01-22-38-27 +0000",
-    "source": "wapo",
-    "headline": "Unsafe netting used at Hong Kong fire site, officials say, as toll rises to 151",
-    "link": "https://www.washingtonpost.com/world/2025/12/01/hong-kong-fire-cause-netting-construction-arrests/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-12-02-03-13-14 +0000",
-    "source": "nypost",
-    "headline": "Trump calls Tennessee special election a ‘big thing’ – suggests results will reflect on him and the GOP: ‘Sign of how we are doing’",
-    "link": "https://nypost.com/2025/12/01/us-news/trump-calls-tennessee-special-election-a-big-thing-suggests-results-will-reflect-on-him-and-the-gop/"
+    "pubdate": "2025-12-02-06-02-35 +0000",
+    "source": "bbc",
+    "headline": "Devastating toxic spill seen as test of whether African countries will stand up to China",
+    "link": "https://www.bbc.com/news/articles/cj6nly288j4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 48,
@@ -63,7 +63,7 @@
     "link": "https://nypost.com/2025/12/01/us-news/trump-doesnt-rule-out-sending-troops-to-venezuela-as-white-house-convenes-security-meeting/"
   },
   {
-    "score": 47,
+    "score": 46,
     "pubdate": "2025-12-02-01-54-31 +0000",
     "source": "nypost",
     "headline": "Dem-leaning group roasts NY’s green energy law as an ‘undeniable’ failure as customers zapped by soaring costs",
