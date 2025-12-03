@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "headline": "Trump Plans to Pardon Henry Cuellar, Texas Democrat Indicted on Bribery Charges",
+    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-pardons-henry-cuellar-texas-democrat.html",
+    "source": "nyt",
+    "pubdate": "2025-12-03-16-57-19 +0000"
+  },
+  {
+    "headline": "Private Employers Cut Jobs in November, in Latest Sign of a Slowdown",
+    "link": "https://www.nytimes.com/2025/12/03/business/jobs-adp-economy.html",
+    "source": "nyt",
+    "pubdate": "2025-12-03-16-56-15 +0000"
+  },
+  {
+    "headline": "Fortunes Shift as Airbus Stumbles and Boeing Regains Its Footing",
+    "link": "https://www.wsj.com/business/airlines/airbus-cuts-plane-delivery-goal-due-to-a320-fuselage-quality-issue-6d58adde?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-03-16-54-00 +0000"
+  }
+]
