@@ -1,55 +1,41 @@
 [
   {
-    "score": 320,
+    "score": 303,
     "pubdate": "2025-12-02-23-36-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration canceled interviews with a group of finalists to be the next Federal Reserve chair as Trump again suggested he had made up his mind about who should lead the central bank",
     "link": "https://www.wsj.com/economy/central-banking/trumps-aides-cancel-fed-chair-interviews-as-president-homes-in-on-pick-a1034286"
   },
   {
-    "score": 91,
-    "pubdate": "2025-12-02-22-40-22 +0000",
-    "source": "nypost",
-    "headline": "White House trolls Sabrina Carpenter with her own lyrics after she slams Trump admin for using her music in ICE video",
-    "link": "https://nypost.com/2025/12/02/us-news/white-house-trolls-sabrina-carpenter-with-her-own-lyrics-after-she-slams-trump-admin-for-using-her-music-in-ice-video/"
-  },
-  {
-    "score": 88,
+    "score": 90,
     "pubdate": "2025-12-02-01-32-00 +0000",
     "source": "wsj",
     "headline": "Officially, the search for a new Federal Reserve chair is still under way. Unofficially, the process seems to be all but over, with President Trump appearing to favor Kevin Hassett.",
     "link": "https://www.wsj.com/politics/policy/trump-fed-chair-decision-1a558fa8"
   },
   {
-    "score": 80,
+    "score": 89,
+    "pubdate": "2025-12-02-22-40-22 +0000",
+    "source": "nypost",
+    "headline": "White House trolls Sabrina Carpenter with her own lyrics after she slams Trump admin for using her music in ICE video",
+    "link": "https://nypost.com/2025/12/02/us-news/white-house-trolls-sabrina-carpenter-with-her-own-lyrics-after-she-slams-trump-admin-for-using-her-music-in-ice-video/"
+  },
+  {
+    "score": 87,
     "pubdate": "2025-12-02-19-29-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth said he didn’t see two survivors after an initial U.S. strike on an alleged drug boat, but praised a commander for making the “correct decision” to sink the vessel",
     "link": "https://www.wsj.com/politics/national-security/hegseth-says-he-didnt-see-strike-on-alleged-drug-boat-that-killed-survivors-d0f5b0e3"
   },
   {
-    "score": 69,
-    "pubdate": "2025-12-02-21-50-00 +0000",
-    "source": "nypost",
-    "headline": "Mexican migrant accused of killing boy, 11, in LA hit-and-run was previously kicked out of US 4 times: DHS officials",
-    "link": "https://nypost.com/2025/12/02/us-news/mexican-migrant-who-killed-11-year-old-in-la-hit-and-run-was-kicked-out-of-us-four-times-dhs-officials/"
-  },
-  {
-    "score": 67,
+    "score": 64,
     "pubdate": "2025-12-02-22-24-13 +0000",
     "source": "nyt",
     "headline": "Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon",
     "link": "https://www.nytimes.com/2025/12/02/us/politics/hernandez-honduras-trump.html"
   },
   {
-    "score": 63,
-    "pubdate": "2025-12-02-03-13-14 +0000",
-    "source": "nypost",
-    "headline": "Trump calls Tennessee special election a ‘big thing’ – suggests results will reflect on him and the GOP: ‘Sign of how we are doing’",
-    "link": "https://nypost.com/2025/12/01/us-news/trump-calls-tennessee-special-election-a-big-thing-suggests-results-will-reflect-on-him-and-the-gop/"
-  },
-  {
-    "score": 63,
+    "score": 61,
     "pubdate": "2025-12-02-15-56-17 +0000",
     "source": "nyt",
     "headline": "Thousands Greet Pope Leo as He Prays Near Site of Beirut Port Blast",
@@ -57,16 +43,30 @@
   },
   {
     "score": 57,
-    "pubdate": "2025-12-02-03-11-29 +0000",
-    "source": "nyt",
-    "headline": "Kristi Noem Recommends New Travel Ban After National Guard Shooting",
-    "link": "https://www.nytimes.com/2025/12/01/us/politics/trump-travel-ban-dhs-noem.html"
+    "pubdate": "2025-12-02-15-34-11 +0000",
+    "source": "nypost",
+    "headline": "Witkoff-Putin marathon meeting ends with Russia calling peace plan terms ‘unacceptable’",
+    "link": "https://nypost.com/2025/12/02/world-news/steve-witkoff-greets-putin-in-moscow-for-russia-ukraine-peace-talks/"
   },
   {
-    "score": 57,
+    "score": 56,
     "pubdate": "2025-12-02-03-20-00 +0000",
     "source": "wsj",
     "headline": "Costco one of the biggest companies to sue the Trump administration over tariffs to secure a refund should the Supreme Court strike down the duties",
     "link": "https://www.wsj.com/politics/policy/costco-joins-companies-suing-trump-administration-over-tariffs-ab1bb066"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-12-02-21-52-49 +0000",
+    "source": "nyt",
+    "headline": "Michael and Susan Dell Pledge $6 Billion in Investment ‘Trump Accounts’ for Children",
+    "link": "https://www.nytimes.com/2025/12/02/business/dell-children-trump-accounts.html"
+  },
+  {
+    "score": 50,
+    "pubdate": "2025-12-02-15-11-10 +0000",
+    "source": "nypost",
+    "headline": "Unmoved Trump admin fires 8 immigration judges after another sues, claiming she was discriminated against",
+    "link": "https://nypost.com/2025/12/02/us-news/8-immigration-judges-canned-by-trump-admin-after-another-sues-claiming-she-was-discriminated-against/"
   }
 ]
