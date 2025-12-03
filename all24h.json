@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Airbus Cuts Plane Delivery Goal Due to A320 Fuselage Quality Issue",
+    "link": "https://www.wsj.com/business/airlines/airbus-cuts-plane-delivery-goal-due-to-a320-fuselage-quality-issue-6d58adde?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-03-06-54-00 +0000"
+  },
+  {
+    "headline": "HSBC Names Chairman After Yearlong Search",
+    "link": "https://www.wsj.com/finance/banking/hsbc-holdings-board-appoints-brendan-nelson-as-group-chair-b6a88ed2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-03-06-51-00 +0000"
+  },
+  {
+    "headline": "HSBC Names Chairman After Yearlong Search",
+    "link": "https://www.wsj.com/finance/banking/hsbc-holdings-board-appoints-brendan-nelson-as-group-chair-b6a88ed2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-03-06-51-00 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Move Lower as Data Awaited",
+    "link": "https://www.wsj.com/finance/investing/jgb-yields-rise-as-expectations-for-boj-rate-increase-continue-aa3d2168?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-03-06-44-00 +0000"
+  },
+  {
+    "headline": "San Francisco’s beloved albino alligator Claude dead at 30",
+    "link": "https://nypost.com/2025/12/03/us-news/san-francisco-albino-alligator-claude-dead-at-30/",
+    "source": "nypost",
+    "pubdate": "2025-12-03-06-40-07 +0000"
+  },
+  {
+    "headline": "Man charged with theft after allegedly swallowing $19k egg pendant",
+    "link": "https://www.bbc.com/news/articles/c7vm754r80vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-06-37-45 +0000"
+  },
+  {
+    "headline": "Man charged with theft over claims he swallowed $19k Fabergé egg pendant",
+    "link": "https://www.bbc.com/news/articles/c7vm754r80vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-06-37-45 +0000"
+  },
+  {
+    "headline": "NY pastor announces gender transition during service with congregation: ‘Giving up pretending to be a man’",
+    "link": "https://nypost.com/2025/12/03/us-news/ny-pastor-phillip-phaneuf-reveals-gender-transition-during-service-with-congregation/",
+    "source": "nypost",
+    "pubdate": "2025-12-03-06-37-40 +0000"
+  },
+  {
+    "headline": "NJ school staffers allegedly held ‘dress as your favorite pedophile’ parties: lawsuit",
+    "link": "https://nypost.com/2025/12/03/us-news/nj-pinelands-regional-school-district-held-dress-as-your-favorite-pedophile-parties/",
+    "source": "nypost",
+    "pubdate": "2025-12-03-06-31-50 +0000"
+  },
+  {
+    "headline": "Simi Valley doctor and wife were fatally shot in their garage by his son, police say",
+    "link": "https://www.latimes.com/california/story/2025-12-02/simi-valley-doctor-wife-fatally-shot-by-son-police-say",
+    "source": "latimes",
+    "pubdate": "2025-12-03-06-31-16 +0000"
+  },
+  {
+    "headline": "Food bank 'braced' for another difficult winter",
+    "link": "https://www.bbc.com/news/articles/cy5gr25pw5eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-06-27-08 +0000"
+  },
+  {
+    "headline": "California girl was 2 weeks away from her 9th birthday before she was killed in mass shooting at party",
+    "link": "https://nypost.com/2025/12/03/us-news/california-mass-shooting-victim-maya-lupian-weeks-away-from-birthday-when-killed-at-stockton-party/",
+    "source": "nypost",
+    "pubdate": "2025-12-03-06-20-43 +0000"
+  },
+  {
+    "headline": "Reform politician's racist Chinese slur 'caused a lot of hurt'",
+    "link": "https://www.bbc.com/news/articles/cpvd298wxvro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-06-14-20 +0000"
+  },
+  {
+    "headline": "Italian luxury giant Prada buys Versace for $1.38bn",
+    "link": "https://www.bbc.com/news/articles/c3e05j9012vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-06-07-52 +0000"
+  },
+  {
+    "headline": "Two L.A. city sanitation workers shot in apparent murder-suicide in Atwater Village",
+    "link": "https://www.latimes.com/california/story/2025-12-02/two-los-angeles-city-sanitation-workers-shot-in-apparent-murder-suicide-atwater-village",
+    "source": "latimes",
+    "pubdate": "2025-12-03-05-51-59 +0000"
+  },
+  {
+    "headline": "A Question Circling Sydney’s Beaches: Do We Still Need Shark Nets?",
+    "link": "https://www.nytimes.com/2025/12/03/world/australia/sydney-shark-nets-australia.html",
+    "source": "nyt",
+    "pubdate": "2025-12-03-05-51-53 +0000"
+  },
+  {
     "headline": "Former California deputy suspected of killing his 11-year-old son is fatally shot during police pursuit",
     "link": "https://nypost.com/2025/12/03/us-news/former-california-deputy-marvin-morales-suspected-of-killing-his-11-year-old-son-is-fatally-shot-during-police-pursuit/",
     "source": "nypost",
@@ -78,6 +174,18 @@
     "pubdate": "2025-12-03-05-20-03 +0000"
   },
   {
+    "headline": "Search for long-missing Malaysia Airlines flight MH370 to resume",
+    "link": "https://www.bbc.com/news/articles/cy7v077dm0po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-05-13-02 +0000"
+  },
+  {
+    "headline": "Search for long-missing Malaysia Airlines flight MH370 to resume",
+    "link": "https://www.bbc.com/news/articles/cy7v077dm0po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-05-13-02 +0000"
+  },
+  {
     "headline": "Our Top Editor Answers Questions",
     "link": "https://www.nytimes.com/2025/12/02/world/executive-editor-reader-questions-ukraine-putin-best-books.html",
     "source": "nyt",
@@ -112,12 +220,6 @@
     "link": "https://www.nytimes.com/2025/12/02/us/eugene-hasenfus-dead.html",
     "source": "nyt",
     "pubdate": "2025-12-03-04-44-30 +0000"
-  },
-  {
-    "headline": "HSBC Holdings Board Appoints Brendan Nelson as Group Chair",
-    "link": "https://www.wsj.com/finance/banking/hsbc-holdings-board-appoints-brendan-nelson-as-group-chair-b6a88ed2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-03-04-40-00 +0000"
   },
   {
     "headline": "Parents of pregnant 22-year-old found dead in Michigan accused of cutting baby out of her womb: ‘Evil personified’",
@@ -264,10 +366,28 @@
     "pubdate": "2025-12-03-03-14-50 +0000"
   },
   {
+    "headline": "YouTube says it will be less safe for kids under Australia's social media ban",
+    "link": "https://www.bbc.com/news/articles/cp341gz24p5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-03-10-40 +0000"
+  },
+  {
+    "headline": "Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+    "link": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-03-08-59 +0000"
+  },
+  {
     "headline": "U. of Alabama Suspends Black and Female Student Magazines, Citing D.E.I. Guidance",
     "link": "https://www.nytimes.com/2025/12/02/us/u-of-alabama-student-magazines-dei.html",
     "source": "nyt",
     "pubdate": "2025-12-03-03-02-13 +0000"
+  },
+  {
+    "headline": "As lead changes in knife-edge Honduran election, will Trump fail to get his way?",
+    "link": "https://www.bbc.com/news/articles/c9895x3039ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-02-56-42 +0000"
   },
   {
     "headline": "Police were doubtful of tip that led to Luigi Mangione's arrest",
@@ -330,12 +450,6 @@
     "pubdate": "2025-12-03-02-32-07 +0000"
   },
   {
-    "headline": "JGB Yields Rise as Expectations for BOJ Rate Increase Continue",
-    "link": "https://www.wsj.com/finance/investing/jgb-yields-rise-as-expectations-for-boj-rate-increase-continue-aa3d2168?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-03-02-27-00 +0000"
-  },
-  {
     "headline": "Video captures moment teens arrested after taking part in viral ‘door kick challenge’",
     "link": "https://nypost.com/2025/12/02/us-news/video-captures-moment-teens-arrested-after-taking-part-in-viral-door-kick-challenge/",
     "source": "nypost",
@@ -370,6 +484,12 @@
     "link": "https://www.latimes.com/california/story/2025-12-02/san-francisco-sues-coca-cola-kellogg-over-ultra-processed-foods-what-that-means",
     "source": "latimes",
     "pubdate": "2025-12-03-02-07-51 +0000"
+  },
+  {
+    "headline": "Watch: Driver hoisted to safety from truck dangling over West Virginia bridge",
+    "link": "https://www.bbc.com/news/videos/cwyg75gqxl1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-03-02-04-52 +0000"
   },
   {
     "headline": "A Newly Confident China Is Jockeying for More Global Clout as Trump Pulls Back",
@@ -624,12 +744,6 @@
     "pubdate": "2025-12-03-00-53-27 +0000"
   },
   {
-    "headline": "Man, 82, killed after bumping into elderly maniac on NYC street: sources",
-    "link": "https://nypost.com/2025/12/02/us-news/man-82-killed-after-bumping-into-elderly-maniac-on-nyc-street-sources/",
-    "source": "nypost",
-    "pubdate": "2025-12-03-00-51-10 +0000"
-  },
-  {
     "headline": "Trump and Hegseth Comments on Boat Strike Leave Adm. Bradley Exposed",
     "link": "https://www.nytimes.com/2025/12/02/us/politics/admiral-bradley-boat-strikes.html",
     "source": "nyt",
@@ -642,28 +756,10 @@
     "pubdate": "2025-12-03-00-49-11 +0000"
   },
   {
-    "headline": "Sweet roll plan to trap 500-pound bear under Altadena home spoiled by second bruin",
-    "link": "https://nypost.com/2025/12/02/us-news/second-bear-crashes-altadena-mans-sweet-roll-rescue-plan/",
-    "source": "nypost",
-    "pubdate": "2025-12-03-00-48-44 +0000"
-  },
-  {
     "headline": "White House launches sign up for ‘Trump accounts’ offering $1,000 saving funds for kids",
     "link": "https://nypost.com/2025/12/02/us-news/white-house-launches-sign-up-for-trump-accounts-offering-1000-saving-funds-for-kids/",
     "source": "nypost",
     "pubdate": "2025-12-03-00-46-06 +0000"
-  },
-  {
-    "headline": "White House launches sign up for ‘Trump accounts’ offering $1,000 saving funds for kids",
-    "link": "https://nypost.com/2025/12/02/us-news/white-house-launches-sign-up-for-trump-accounts-offering-1000-saving-funds-for-kids/",
-    "source": "nypost",
-    "pubdate": "2025-12-03-00-46-06 +0000"
-  },
-  {
-    "headline": "NY Rep. Elise Stefanik blasts House speaker in feud that threatens defense package",
-    "link": "https://nypost.com/2025/12/02/us-news/ny-rep-elise-stefanik-blasts-house-speaker-mike-johnson-in-feud-that-threatens-defense-package/",
-    "source": "nypost",
-    "pubdate": "2025-12-03-00-43-15 +0000"
   },
   {
     "headline": "'Carspreading' is on the rise - and not everyone is happy about it",
@@ -934,12 +1030,6 @@
     "link": "https://www.wsj.com/opinion/michael-and-susan-dell-savings-accounts-donation-trump-accounts-5ecbfda5?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-02-22-53-00 +0000"
-  },
-  {
-    "headline": "Reform politician's racist Chinese slur 'caused a lot of hurt'",
-    "link": "https://www.bbc.com/news/articles/cpvd298wxvro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-22-52-25 +0000"
   },
   {
     "headline": "Paramount throws in more cash in bid for Warner; Comcast wants to combine assets with NBCUniversal",
@@ -1440,12 +1530,6 @@
     "pubdate": "2025-12-02-20-17-28 +0000"
   },
   {
-    "headline": "Rare Fabergé egg fetches record £22.9m at London auction",
-    "link": "https://www.bbc.com/news/articles/cg7v24m1leyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-20-16-22 +0000"
-  },
-  {
     "headline": "Mark Zuckerberg’s Instagram orders workers back to office 5 days per week",
     "link": "https://nypost.com/2025/12/02/business/mark-zuckerbergs-instagram-orders-workers-back-to-office-5-days-per-week/",
     "source": "nypost",
@@ -1896,12 +1980,6 @@
     "pubdate": "2025-12-02-16-47-19 +0000"
   },
   {
-    "headline": "Pope prays at Beirut port blast site on last day of Lebanon visit",
-    "link": "https://www.bbc.com/news/articles/cn41jge1990o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-16-47-19 +0000"
-  },
-  {
     "headline": "Venezuela Accepts Migrant Repatriation Flight From U.S. Amid Airspace Tensions",
     "link": "https://www.nytimes.com/2025/12/02/us/politics/venezuela-migrant-deportations-trump.html",
     "source": "nyt",
@@ -2278,12 +2356,6 @@
     "link": "https://www.wsj.com/finance/banking/fairstone-bank-to-buy-laurentian-bank-for-about-1-4-billion-81682e25?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-02-12-05-00 +0000"
-  },
-  {
-    "headline": "Bulgaria ditches budget plan after tens of thousands join protests",
-    "link": "https://www.bbc.com/news/articles/cjezwzw088jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-12-04-00 +0000"
   },
   {
     "headline": "Bulgaria ditches budget plan after tens of thousands join protests",
@@ -2716,95 +2788,5 @@
     "link": "https://nypost.com/2025/12/02/world-news/uk-widow-wendy-pleasant-whose-husband-was-killed-by-cows-fuming-council-put-bull-statue-outside-home/",
     "source": "nypost",
     "pubdate": "2025-12-02-07-56-09 +0000"
-  },
-  {
-    "headline": "Trump warns Honduras of ‘hell to pay’ if election count changes, presses officials to finish tally",
-    "link": "https://nypost.com/2025/12/02/world-news/trump-warns-honduras-of-hell-to-pay-if-election-count-changes-presses-officials-to-finish-tally/",
-    "source": "nypost",
-    "pubdate": "2025-12-02-07-42-13 +0000"
-  },
-  {
-    "headline": "Costco sues Trump administration over tariffs, seeks full refund",
-    "link": "https://www.washingtonpost.com/business/2025/12/02/costco-sues-trump-tariffs/",
-    "source": "wapo",
-    "pubdate": "2025-12-02-07-30-55 +0000"
-  },
-  {
-    "headline": "Chinese and Japanese boats face off near disputed islands as feud worsens",
-    "link": "https://www.bbc.com/news/articles/crk7xjpv8gmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-07-26-10 +0000"
-  },
-  {
-    "headline": "Trump Alleges Fraud, Without Evidence, in Honduras Election",
-    "link": "https://www.nytimes.com/2025/12/02/world/americas/honduras-presidential-vote-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-07-21-19 +0000"
-  },
-  {
-    "headline": "Trump Alleges Fraud, Without Evidence, in Honduras Election",
-    "link": "https://www.nytimes.com/2025/12/02/world/americas/honduras-presidential-vote-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-12-02-07-21-19 +0000"
-  },
-  {
-    "headline": "Death toll in Indonesia floods passes 600",
-    "link": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-07-10-41 +0000"
-  },
-  {
-    "headline": "Santander to Sell Stake in Polish Subsidiary for Around $473 Million After Erste Group Deal",
-    "link": "https://www.wsj.com/business/retail/santander-to-sell-stake-in-polish-subsidiary-for-around-473-million-after-erste-group-deal-a2176ba9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-02-07-08-00 +0000"
-  },
-  {
-    "headline": "London commuter charged with walking wrong way on escalator at train station",
-    "link": "https://nypost.com/2025/12/02/world-news/london-woman-michaela-copeland-charged-with-walking-wrong-way-on-escalator-at-greenwich-train-station/",
-    "source": "nypost",
-    "pubdate": "2025-12-02-06-49-57 +0000"
-  },
-  {
-    "headline": "Applications open for warm homes scheme help",
-    "link": "https://www.bbc.com/news/articles/cg7v283p12no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-06-49-25 +0000"
-  },
-  {
-    "headline": "Every pupil to get a hamper of gifts for Christmas",
-    "link": "https://www.bbc.com/news/articles/c0jegjey1z3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-06-26-13 +0000"
-  },
-  {
-    "headline": "Turn that anger into action at this year’s Howard Zinn Book Fair",
-    "link": "https://48hills.org/2025/12/turn-that-anger-into-action-at-this-years-howard-zinn-book-fair/",
-    "source": "48hills",
-    "pubdate": "2025-12-02-06-10-25 +0000"
-  },
-  {
-    "headline": "Devastating toxic spill seen as test of whether African countries will stand up to China",
-    "link": "https://www.bbc.com/news/articles/cj6nly288j4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-06-02-35 +0000"
-  },
-  {
-    "headline": "Devastating Zambia toxic spill seen as test of whether African nations will stand up to China",
-    "link": "https://www.bbc.com/news/articles/cj6nly288j4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-06-02-35 +0000"
-  },
-  {
-    "headline": "Hong Kong leader orders investigation into deadly fire that killed 151",
-    "link": "https://www.bbc.com/news/articles/ce8ng18p7v3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-05-58-21 +0000"
-  },
-  {
-    "headline": "Hong Kong leader orders investigation into deadly fire that killed 151",
-    "link": "https://www.bbc.com/news/articles/ce8ng18p7v3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-05-58-21 +0000"
   }
 ]
