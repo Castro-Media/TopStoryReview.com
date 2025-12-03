@@ -1,17 +1,24 @@
 [
   {
-    "score": 298,
+    "score": 290,
     "pubdate": "2025-12-02-23-36-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration canceled interviews with a group of finalists to be the next Federal Reserve chair as Trump again suggested he had made up his mind about who should lead the central bank",
     "link": "https://www.wsj.com/economy/central-banking/trumps-aides-cancel-fed-chair-interviews-as-president-homes-in-on-pick-a1034286"
   },
   {
-    "score": 127,
+    "score": 125,
     "pubdate": "2025-12-03-02-00-00 +0000",
     "source": "wsj",
     "headline": "Pete Hegseth, who won over Trump by defending troops accused of war crimes, is now at the center of a debate about whether a September strike against a suspected drug boat amounts to a war crime",
     "link": "https://www.wsj.com/politics/national-security/pete-hegseth-military-commentary-career-56727e2e"
+  },
+  {
+    "score": 83,
+    "pubdate": "2025-12-03-06-20-43 +0000",
+    "source": "nypost",
+    "headline": "California girl was 2 weeks away from her 9th birthday before she was killed in mass shooting at party",
+    "link": "https://nypost.com/2025/12/03/us-news/california-mass-shooting-victim-maya-lupian-weeks-away-from-birthday-when-killed-at-stockton-party/"
   },
   {
     "score": 78,
@@ -21,18 +28,11 @@
     "link": "https://nypost.com/2025/12/02/us-news/marco-rubio-claims-progress-towards-ukraine-russian-peace-deal-but-says-only-putin-can-end-the-war/"
   },
   {
-    "score": 77,
-    "pubdate": "2025-12-02-22-24-13 +0000",
-    "source": "nyt",
-    "headline": "Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon",
-    "link": "https://www.nytimes.com/2025/12/02/us/politics/hernandez-honduras-trump.html"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-12-03-04-10-00 +0000",
-    "source": "wsj",
-    "headline": "Republican Matt Van Epps won the special election in Tennessee to fill the vacant House seat. Democrat Aftyn Behn narrowed the GOP’s margin from 2024.",
-    "link": "https://www.wsj.com/politics/elections/republican-wins-closely-watched-house-special-election-in-tennessee-ca766587"
+    "score": 75,
+    "pubdate": "2025-12-02-13-47-34 +0000",
+    "source": "bbc",
+    "headline": "Honduran ex-president Juan Orlando Hernández released from US prison after Trump pardon",
+    "link": "https://www.bbc.com/news/articles/cpvdr8k7xjro?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 69,
@@ -42,31 +42,31 @@
     "link": "https://www.nytimes.com/2025/12/02/us/joe-kahn-executive-editor-questions.html"
   },
   {
-    "score": 59,
-    "pubdate": "2025-12-02-15-56-17 +0000",
-    "source": "nyt",
-    "headline": "Thousands Greet Pope Leo as He Prays Near Site of Beirut Port Blast",
-    "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html"
+    "score": 68,
+    "pubdate": "2025-12-03-04-10-00 +0000",
+    "source": "wsj",
+    "headline": "Republican Matt Van Epps won the special election in Tennessee to fill the vacant House seat. Democrat Aftyn Behn narrowed the GOP’s margin from 2024.",
+    "link": "https://www.wsj.com/politics/elections/republican-wins-closely-watched-house-special-election-in-tennessee-ca766587"
   },
   {
-    "score": 56,
-    "pubdate": "2025-12-03-01-35-58 +0000",
-    "source": "nypost",
-    "headline": "Trump travel ban could expand to 30 countries after DC National Guard shooting – list coming ‘soon’",
-    "link": "https://nypost.com/2025/12/02/us-news/trump-travel-ban-could-expand-to-30-countries-list-coming-soon/"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-12-02-22-40-22 +0000",
-    "source": "nypost",
-    "headline": "White House trolls Sabrina Carpenter with her own lyrics after she slams Trump admin for using her music in ICE video",
-    "link": "https://nypost.com/2025/12/02/us-news/white-house-trolls-sabrina-carpenter-with-her-own-lyrics-after-she-slams-trump-admin-for-using-her-music-in-ice-video/"
-  },
-  {
-    "score": 55,
+    "score": 58,
     "pubdate": "2025-12-02-19-15-09 +0000",
     "source": "nypost",
     "headline": "Kraft, Coca-Cola among companies sued by San Francisco over ultra-processed foods in first-of-a-kind lawsuit",
     "link": "https://nypost.com/2025/12/02/business/kraft-coca-cola-others-sued-by-san-francisco-over-ultra-processed-foods/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-12-02-21-52-50 +0000",
+    "source": "nyt",
+    "headline": "Michael and Susan Dell Pledge $6 Billion in Investment ‘Trump Accounts’ for Children",
+    "link": "https://www.nytimes.com/2025/12/02/business/dell-children-trump-accounts.html"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-12-02-15-56-17 +0000",
+    "source": "nyt",
+    "headline": "Thousands Greet Pope Leo as He Prays Near Site of Beirut Port Blast",
+    "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html"
   }
 ]
