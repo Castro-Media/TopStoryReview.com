@@ -1,38 +1,31 @@
 [
   {
-    "score": 290,
+    "score": 301,
     "pubdate": "2025-12-02-23-36-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration canceled interviews with a group of finalists to be the next Federal Reserve chair as Trump again suggested he had made up his mind about who should lead the central bank",
     "link": "https://www.wsj.com/economy/central-banking/trumps-aides-cancel-fed-chair-interviews-as-president-homes-in-on-pick-a1034286"
   },
   {
-    "score": 125,
+    "score": 121,
     "pubdate": "2025-12-03-02-00-00 +0000",
     "source": "wsj",
     "headline": "Pete Hegseth, who won over Trump by defending troops accused of war crimes, is now at the center of a debate about whether a September strike against a suspected drug boat amounts to a war crime",
     "link": "https://www.wsj.com/politics/national-security/pete-hegseth-military-commentary-career-56727e2e"
   },
   {
-    "score": 83,
+    "score": 79,
     "pubdate": "2025-12-03-06-20-43 +0000",
     "source": "nypost",
     "headline": "California girl was 2 weeks away from her 9th birthday before she was killed in mass shooting at party",
     "link": "https://nypost.com/2025/12/03/us-news/california-mass-shooting-victim-maya-lupian-weeks-away-from-birthday-when-killed-at-stockton-party/"
   },
   {
-    "score": 78,
+    "score": 70,
     "pubdate": "2025-12-03-03-14-50 +0000",
     "source": "nypost",
     "headline": "Marco Rubio claims ‘progress’ towards Ukraine-Russian peace deal — but says only Putin can end the war",
     "link": "https://nypost.com/2025/12/02/us-news/marco-rubio-claims-progress-towards-ukraine-russian-peace-deal-but-says-only-putin-can-end-the-war/"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-12-02-13-47-34 +0000",
-    "source": "bbc",
-    "headline": "Honduran ex-president Juan Orlando Hernández released from US prison after Trump pardon",
-    "link": "https://www.bbc.com/news/articles/cpvdr8k7xjro?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 69,
@@ -49,14 +42,21 @@
     "link": "https://www.wsj.com/politics/elections/republican-wins-closely-watched-house-special-election-in-tennessee-ca766587"
   },
   {
-    "score": 58,
+    "score": 67,
+    "pubdate": "2025-12-02-22-24-13 +0000",
+    "source": "nyt",
+    "headline": "Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon",
+    "link": "https://www.nytimes.com/2025/12/02/us/politics/hernandez-honduras-trump.html"
+  },
+  {
+    "score": 57,
     "pubdate": "2025-12-02-19-15-09 +0000",
     "source": "nypost",
     "headline": "Kraft, Coca-Cola among companies sued by San Francisco over ultra-processed foods in first-of-a-kind lawsuit",
     "link": "https://nypost.com/2025/12/02/business/kraft-coca-cola-others-sued-by-san-francisco-over-ultra-processed-foods/"
   },
   {
-    "score": 54,
+    "score": 55,
     "pubdate": "2025-12-02-21-52-50 +0000",
     "source": "nyt",
     "headline": "Michael and Susan Dell Pledge $6 Billion in Investment ‘Trump Accounts’ for Children",
@@ -64,9 +64,9 @@
   },
   {
     "score": 51,
-    "pubdate": "2025-12-02-15-56-17 +0000",
-    "source": "nyt",
-    "headline": "Thousands Greet Pope Leo as He Prays Near Site of Beirut Port Blast",
-    "link": "https://www.nytimes.com/2025/12/02/world/middleeast/pope-leo-beirut-lebanon.html"
+    "pubdate": "2025-12-03-03-08-59 +0000",
+    "source": "bbc",
+    "headline": "Trump says he doesn't want Somalis in US as ICE plans Minnesota operation",
+    "link": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss"
   }
 ]
