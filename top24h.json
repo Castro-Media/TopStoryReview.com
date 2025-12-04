@@ -1,31 +1,45 @@
 [
   {
-    "score": 169,
+    "score": 182,
     "pubdate": "2025-12-04-00-05-45 +0000",
     "source": "nyt",
     "headline": "Trump Faces Choices on Russia-Ukraine Talks as Peace Deal Deadline Passes",
     "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-russia-ukraine-deadline.html"
   },
   {
-    "score": 91,
-    "pubdate": "2025-12-04-00-00-00 +0000",
+    "score": 98,
+    "pubdate": "2025-12-04-10-39-00 +0000",
     "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth shocked official Washington in mid-October when he said Adm. Alvin Holsey was retiring, but according to two Pentagon officials, Hegseth asked Holsey to step down",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-asked-top-admiral-to-resign-after-months-of-discord-9e7b357f"
+    "headline": "New York Times Sues Hegseth, Defense Department Over New Press Rules",
+    "link": "https://www.wsj.com/business/media/new-york-times-sues-hegseth-defense-department-over-new-press-rules-1ae42936"
   },
   {
-    "score": 76,
+    "score": 87,
+    "pubdate": "2025-12-04-01-04-00 +0000",
+    "source": "wsj",
+    "headline": "Two survivors of a Sept. 2 U.S. strike on a boat were killed in follow-up attacks after they were seen still aboard the damaged vessel, a senior commander is expected to tell lawmakers",
+    "link": "https://www.wsj.com/politics/national-security/survivors-of-boat-strike-were-actively-continuing-drug-mission-admiral-to-tell-lawmakers-b82f0ab3"
+  },
+  {
+    "score": 81,
+    "pubdate": "2025-12-04-01-55-16 +0000",
+    "source": "nypost",
+    "headline": "Halle Berry bashes Gov. Gavin Newsom at NYT summit just before he takes stage: ‘Should not be our next president either’",
+    "link": "https://nypost.com/2025/12/03/us-news/halle-berry-bashes-gov-gavin-newsom-at-nyt-summit-just-before-he-takes-stage/"
+  },
+  {
+    "score": 66,
+    "pubdate": "2025-12-04-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Sen. Elizabeth Warren and other Democrats are pressing leaders of Nvidia, Apple, Microsoft, Amazon.com and Meta for details on their donations to support Trump’s White House ballroom",
+    "link": "https://www.wsj.com/politics/policy/democrats-press-firms-about-trump-ballroom-donations-0d88250a"
+  },
+  {
+    "score": 62,
     "pubdate": "2025-12-04-03-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump pardoned Texas Democrat Rep. Henry Cuellar and his wife, who were charged last year with allegedly taking nearly $600,000 in foreign bribes",
     "link": "https://www.wsj.com/us-news/law/trump-pardons-texas-democrat-indicted-on-bribery-charges-f14dff50"
-  },
-  {
-    "score": 61,
-    "pubdate": "2025-12-04-00-16-49 +0000",
-    "source": "nyt",
-    "headline": "U.S. Military’s Boat Strikes Planning Takes On New Significance",
-    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-boat-strikes-survivors.html"
   },
   {
     "score": 60,
@@ -35,38 +49,24 @@
     "link": "https://www.nytimes.com/2025/12/03/world/asia/hong-kong-fire-national-security-arrests.html"
   },
   {
-    "score": 58,
+    "score": 52,
+    "pubdate": "2025-12-03-21-23-14 +0000",
+    "source": "bbc",
+    "headline": "Watch: Newly released video shows Jeffrey Epstein's private island home",
+    "link": "https://www.bbc.com/news/videos/ce3wv50dvkwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-12-04-02-31-07 +0000",
     "source": "nyt",
     "headline": "What to Know About Putin’s Visit to India as Oil Trade Dries Up",
     "link": "https://www.nytimes.com/2025/12/03/world/asia/india-russia-putin-visit-arms.html"
   },
   {
-    "score": 57,
-    "pubdate": "2025-12-03-22-05-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Elise Stefanik, a top Trump ally, criticized House Speaker Mike Johnson, calling him an ineffective leader who is losing control over the GOP conference headed into the midterm elections",
-    "link": "https://www.wsj.com/politics/elise-stefanik-mike-johnson-house-speaker-c41659cb"
-  },
-  {
     "score": 51,
-    "pubdate": "2025-12-04-01-55-16 +0000",
-    "source": "nypost",
-    "headline": "Halle Berry bashes Gov. Gavin Newsom at NYT summit just before he takes stage: ‘Should not be our next president either’",
-    "link": "https://nypost.com/2025/12/03/us-news/halle-berry-bashes-gov-gavin-newsom-at-nyt-summit-just-before-he-takes-stage/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-12-03-22-33-23 +0000",
-    "source": "bbc",
-    "headline": "Trump administration to roll back fuel economy rules set under Biden",
-    "link": "https://www.bbc.com/news/articles/cly13we8zxeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-12-04-02-17-53 +0000",
-    "source": "nypost",
-    "headline": "Family of boy, 11, allegedly killed by illegal immigrant in California hit and run post heartbreaking tributes: ‘Fly high, my warrior child’",
-    "link": "https://nypost.com/2025/12/03/us-news/family-of-boy-11-killed-by-illegal-in-california-post-tributes/"
+    "pubdate": "2025-12-04-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "Defense Secretary Pete Hegseth shocked official Washington in mid-October when he said Adm. Alvin Holsey was retiring, but according to two Pentagon officials, Hegseth asked Holsey to step down",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-asked-top-admiral-to-resign-after-months-of-discord-9e7b357f"
   }
 ]
