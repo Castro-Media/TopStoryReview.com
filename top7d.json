@@ -1,17 +1,10 @@
 [
   {
-    "score": 333,
+    "score": 337,
     "pubdate": "2025-12-03-02-00-00 +0000",
     "source": "wsj",
     "headline": "Pete Hegseth, who won over President Trump by defending troops accused of war crimes, is at the center of a debate about whether a September boat strike amounts to a war crime",
     "link": "https://www.wsj.com/politics/national-security/pete-hegseth-military-commentary-career-56727e2e"
-  },
-  {
-    "score": 157,
-    "pubdate": "2025-12-04-10-39-00 +0000",
-    "source": "wsj",
-    "headline": "New York Times Sues Hegseth, Defense Department Over New Press Rules",
-    "link": "https://www.wsj.com/business/media/new-york-times-sues-hegseth-defense-department-over-new-press-rules-1ae42936?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 153,
@@ -21,52 +14,59 @@
     "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-russia-ukraine-deadline.html"
   },
   {
-    "score": 151,
+    "score": 150,
+    "pubdate": "2025-12-04-10-39-00 +0000",
+    "source": "wsj",
+    "headline": "New York Times Sues Hegseth, Defense Department Over New Press Rules",
+    "link": "https://www.wsj.com/business/media/new-york-times-sues-hegseth-defense-department-over-new-press-rules-1ae42936"
+  },
+  {
+    "score": 145,
     "pubdate": "2025-12-01-11-00-00 +0000",
     "source": "latimes",
     "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
     "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis"
   },
   {
-    "score": 118,
+    "score": 119,
     "pubdate": "2025-12-04-00-00-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth shocked official Washington in mid-October when he said Adm. Alvin Holsey was retiring, but according to two Pentagon officials, Hegseth asked Holsey to step down",
     "link": "https://www.wsj.com/politics/national-security/hegseth-asked-top-admiral-to-resign-after-months-of-discord-9e7b357f"
   },
   {
-    "score": 104,
-    "pubdate": "2025-12-04-02-17-53 +0000",
-    "source": "nypost",
-    "headline": "Family of boy, 11, allegedly killed by illegal immigrant in California hit and run post heartbreaking tributes: ‘Fly high, my warrior child’",
-    "link": "https://nypost.com/2025/12/03/us-news/family-of-boy-11-killed-by-illegal-in-california-post-tributes/"
-  },
-  {
-    "score": 101,
+    "score": 99,
     "pubdate": "2025-12-03-19-19-41 +0000",
     "source": "nyt",
     "headline": "Hong Kong’s Response to Deadly Fire Shows China’s Play Book in Action",
     "link": "https://www.nytimes.com/2025/12/03/business/hong-kong-fire-china.html"
   },
   {
-    "score": 97,
-    "pubdate": "2025-12-02-00-36-00 +0000",
+    "score": 95,
+    "pubdate": "2025-12-04-05-01-00 +0000",
     "source": "wsj",
-    "headline": "The White House published a website detailing what it calls “false and misleading” media coverage, the latest in a series of unorthodox steps by the Trump administration against media outlets",
-    "link": "https://www.wsj.com/politics/policy/new-white-house-website-takes-aim-at-journalists-and-news-outlets-1b97e59f"
+    "headline": "For First Time in Decades, Child Deaths Will Rise This Year",
+    "link": "https://www.wsj.com/health/for-first-time-in-decades-child-deaths-will-rise-this-year-92c67b51"
   },
   {
-    "score": 92,
+    "score": 93,
     "pubdate": "2025-11-29-05-32-13 +0000",
     "source": "nyt",
     "headline": "Trump to Pardon Juan Orlando Hernández, Honduran Ex-Leader Convicted in Drug Case",
     "link": "https://www.nytimes.com/2025/11/28/world/americas/trump-pardon-honduras-hernandez.html"
   },
   {
+    "score": 90,
+    "pubdate": "2025-12-02-00-36-00 +0000",
+    "source": "wsj",
+    "headline": "The White House published a website detailing what it calls “false and misleading” media coverage, the latest in a series of unorthodox steps by the Trump administration against media outlets",
+    "link": "https://www.wsj.com/politics/policy/new-white-house-website-takes-aim-at-journalists-and-news-outlets-1b97e59f"
+  },
+  {
     "score": 89,
-    "pubdate": "2025-12-03-17-51-25 +0000",
-    "source": "nyt",
-    "headline": "Israel Says a Gaza Border Will Reopen, but Only for Palestinians to Leave",
-    "link": "https://www.nytimes.com/2025/12/03/world/middleeast/israel-rafah-crossing-gaza-ceasefire.html"
+    "pubdate": "2025-12-04-11-02-24 +0000",
+    "source": "bbc",
+    "headline": "Israel says Palestinian groups returned body of Thai hostage held in Gaza",
+    "link": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss"
   }
 ]
