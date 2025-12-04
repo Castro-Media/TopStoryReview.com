@@ -1,72 +1,72 @@
 [
   {
-    "score": 187,
+    "score": 186,
     "pubdate": "2025-12-04-00-05-45 +0000",
     "source": "nyt",
     "headline": "Trump Faces Choices on Russia-Ukraine Talks as Peace Deal Deadline Passes",
     "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-russia-ukraine-deadline.html"
   },
   {
-    "score": 109,
+    "score": 105,
+    "pubdate": "2025-12-04-15-18-00 +0000",
+    "source": "wsj",
+    "headline": "New York Times Sues Hegseth, Defense Department Over New Press Rules",
+    "link": "https://www.wsj.com/business/media/new-york-times-sues-hegseth-defense-department-over-new-press-rules-1ae42936?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 104,
     "pubdate": "2025-12-04-01-04-00 +0000",
     "source": "wsj",
     "headline": "Two survivors of a Sept. 2 U.S. strike on a boat were killed in follow-up attacks after they were seen still aboard the damaged vessel, a senior commander is expected to tell lawmakers",
     "link": "https://www.wsj.com/politics/national-security/survivors-of-boat-strike-were-actively-continuing-drug-mission-admiral-to-tell-lawmakers-b82f0ab3"
   },
   {
-    "score": 99,
-    "pubdate": "2025-12-04-14-37-28 +0000",
+    "score": 79,
+    "pubdate": "2025-12-04-14-42-53 +0000",
     "source": "nypost",
-    "headline": "Netanyahu taunts Zohran Mamdani, saying he’ll ‘come to New York’ after mayor-elect vowed to arrest Israel PM",
-    "link": "https://nypost.com/2025/12/04/us-news/benjamin-netanyahu-taunts-zohran-mamdani-ill-come-to-new-york/"
+    "headline": "Feds investigating how DC National Guard shooting suspect was radicalized in US: ‘Don’t know why he snapped’",
+    "link": "https://nypost.com/2025/12/04/us-news/feds-investigating-how-dc-national-guard-shooter-was-radicalized-in-us/"
   },
   {
-    "score": 81,
-    "pubdate": "2025-12-04-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth shocked official Washington in mid-October when he said Adm. Alvin Holsey was retiring, but according to two Pentagon officials, Hegseth asked Holsey to step down",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-asked-top-admiral-to-resign-after-months-of-discord-9e7b357f"
+    "score": 73,
+    "pubdate": "2025-12-04-11-02-24 +0000",
+    "source": "bbc",
+    "headline": "Israel says Palestinian groups returned body of Thai hostage held in Gaza",
+    "link": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 68,
+    "score": 62,
     "pubdate": "2025-12-04-03-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump pardoned Texas Democrat Rep. Henry Cuellar and his wife, who were charged last year with allegedly taking nearly $600,000 in foreign bribes",
     "link": "https://www.wsj.com/us-news/law/trump-pardons-texas-democrat-indicted-on-bribery-charges-f14dff50"
   },
   {
-    "score": 61,
+    "score": 58,
+    "pubdate": "2025-12-04-15-09-25 +0000",
+    "source": "nypost",
+    "headline": "Vladimir Putin must have authorized 2018 nerve agent poisoning of ex-Russian spy, UK inquiry concludes",
+    "link": "https://nypost.com/2025/12/04/world-news/uk-inquiry-says-putin-authorized-2018-novichok-poisoning-of-ex-russian-spy/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-12-04-16-09-52 +0000",
+    "source": "nyt",
+    "headline": "As Trump Threatens to Leave North American Deal, Groups Urge Him to ‘Do No Harm’",
+    "link": "https://www.nytimes.com/2025/12/04/business/economy/trump-north-american-trade-deal.html"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-12-03-20-27-24 +0000",
+    "source": "nypost",
+    "headline": "Pentagon watchdog finds Hegseth put US troops, mission at risk with Signal group chat on Houthi bombing — but sec claims ‘total exoneration’",
+    "link": "https://nypost.com/2025/12/03/us-news/pentagon-watchdog-finds-hegseth-put-us-troops-mission-at-risk-with-signal-group-chat-on-houthi-bombing/"
+  },
+  {
+    "score": 53,
     "pubdate": "2025-12-04-10-00-00 +0000",
     "source": "wsj",
     "headline": "Sen. Elizabeth Warren and other Democrats are pressing leaders of Nvidia, Apple, Microsoft, Amazon.com and Meta for details on their donations to support Trump’s White House ballroom",
     "link": "https://www.wsj.com/politics/policy/democrats-press-firms-about-trump-ballroom-donations-0d88250a"
-  },
-  {
-    "score": 53,
-    "pubdate": "2025-12-04-13-45-08 +0000",
-    "source": "nyt",
-    "headline": "Deadly Attacks in Gaza Test Cease-Fire as Body of Another Captive Is Returned",
-    "link": "https://www.nytimes.com/2025/12/04/world/middleeast/gaza-strikes-ceasefire.html"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-12-04-14-09-00 +0000",
-    "source": "wsj",
-    "headline": "The FBI arrested a Virginia man in connection with an investigation into two pipe bombs placed near the headquarters of the Democratic and Republican national committees in 2021",
-    "link": "https://www.wsj.com/politics/national-security/fbi-makes-arrest-in-connection-with-jan-6-pipe-bombs-4dcc6183"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-12-04-11-36-00 +0000",
-    "source": "wsj",
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-5ae23129?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-12-03-22-33-23 +0000",
-    "source": "bbc",
-    "headline": "Trump administration to roll back fuel economy rules set under Biden",
-    "link": "https://www.bbc.com/news/articles/cly13we8zxeo?at_medium=RSS&at_campaign=rss"
   }
 ]
