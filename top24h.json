@@ -1,31 +1,24 @@
 [
   {
-    "score": 143,
+    "score": 126,
     "pubdate": "2025-12-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pardon of a sports executive wiped away a case that Trump’s antitrust chief had said fleeced Texas taxpayers",
     "link": "https://www.wsj.com/politics/policy/trump-ticket-prices-pardon-tim-leiweke-4b33a540"
   },
   {
-    "score": 75,
+    "score": 61,
     "pubdate": "2025-12-05-21-56-47 +0000",
     "source": "nyt",
     "headline": "Netflix to Buy Warner Bros in $83 Billion Deal",
     "link": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html"
   },
   {
-    "score": 58,
-    "pubdate": "2025-12-06-04-27-00 +0000",
-    "source": "wsj",
-    "headline": "A key vaccine panel at the Centers for Disease Control and Prevention voted 8-3 to nix a recommendation that all newborns be given a first dose of hepatitis B vaccine",
-    "link": "https://www.wsj.com/politics/policy/cdc-panel-remade-by-rfk-jr-votes-to-alter-hepatitis-b-vaccine-guidance-fbc1e421"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-12-05-21-13-25 +0000",
-    "source": "nyt",
-    "headline": "Gianni Infantino Awards Trump a FIFA Peace Prize and Announces World Cup Draw",
-    "link": "https://www.nytimes.com/2025/12/05/us/politics/trump-fifa-peace-prize-world-cup-infantino.html"
+    "score": 59,
+    "pubdate": "2025-12-06-15-08-31 +0000",
+    "source": "bbc",
+    "headline": "Bethlehem Christmas tree lights up for first time since start of Gaza war",
+    "link": "https://www.bbc.com/news/articles/ce86z84e947o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 55,
@@ -42,25 +35,18 @@
     "link": "https://www.bbc.com/news/videos/c20gw2xqp1wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
-    "pubdate": "2025-12-05-21-47-07 +0000",
-    "source": "nyt",
-    "headline": "Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack",
-    "link": "https://www.nytimes.com/2025/12/05/us/politics/boat-strike-shows-survivors.html"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-12-05-21-59-27 +0000",
-    "source": "wapo",
-    "headline": "Olivia Nuzzi will leave Vanity Fair amid new allegations about RFK Jr. affair",
-    "link": "https://www.washingtonpost.com/business/2025/12/05/nuzzi-vanity-fair-departure/"
-  },
-  {
-    "score": 47,
+    "score": 48,
     "pubdate": "2025-12-06-14-35-09 +0000",
     "source": "nypost",
     "headline": "Stephen Miller calls billion-dollar Minnesota welfare scam ‘single greatest theft of taxpayer dollars’ with dozens of Somali migrants convicted",
     "link": "https://nypost.com/2025/12/06/us-news/stephen-miller-calls-minnesota-welfare-scam-with-somali-migrants-single-greatest-theft-of-taxpayer-dollars/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-12-06-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Takeaways from Robert F. Kennedy Jr.’s vaccine panel: Over a two-day meeting in Atlanta, the panel aired its rethinking of the full slate of childhood vaccines",
+    "link": "https://www.wsj.com/politics/skeptics-in-the-spotlight-takeaways-from-rfk-jr-s-vaccine-panel-82ab9197"
   },
   {
     "score": 47,
@@ -68,5 +54,19 @@
     "source": "bbc",
     "headline": "Lured by lucrative job offers and sent to fight for Russia - Kenyans want their sons back",
     "link": "https://www.bbc.com/news/articles/c20gn2d51l1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-12-06-10-01-36 +0000",
+    "source": "nyt",
+    "headline": "Saudi Arabia Will Sell You Alcohol Now, if You’re Rich Enough",
+    "link": "https://www.nytimes.com/2025/12/06/world/middleeast/saudi-arabia-alcohol-riyadh-store.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2025-12-06-00-22-01 +0000",
+    "source": "nyt",
+    "headline": "San Diego Agrees to Pay $30 Million to Family of Konoa Wilson, Teen Killed by Police",
+    "link": "https://www.nytimes.com/2025/12/05/us/konoa-wilson-police-shooting-san-diego.html"
   }
 ]
