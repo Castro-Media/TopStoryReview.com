@@ -1,55 +1,48 @@
 [
   {
-    "score": 174,
+    "score": 177,
     "pubdate": "2025-12-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pardon of a sports executive wiped away a case that Trump’s antitrust chief had said fleeced Texas taxpayers",
     "link": "https://www.wsj.com/politics/policy/trump-ticket-prices-pardon-tim-leiweke-4b33a540"
   },
   {
-    "score": 102,
+    "score": 110,
     "pubdate": "2025-12-05-16-51-04 +0000",
     "source": "nypost",
     "headline": "DC pipe-bomb suspect Brian Cole Jr. appears in court for first time as weeping female kin cry out, ‘We love you!’",
     "link": "https://nypost.com/2025/12/05/us-news/accused-dc-pipe-bomber-brian-cole-to-appear-in-court-for-first-time/"
   },
   {
-    "score": 85,
-    "pubdate": "2025-12-05-17-40-40 +0000",
-    "source": "nypost",
-    "headline": "Here’s everything you need to know about the Netflix-Warner Bros. deal",
-    "link": "https://nypost.com/2025/12/05/business/heres-everything-you-need-to-know-about-the-netflix-warner-bros-deal/"
+    "score": 83,
+    "pubdate": "2025-12-05-21-56-47 +0000",
+    "source": "nyt",
+    "headline": "Netflix to Buy Warner Bros in $83 Billion Deal",
+    "link": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html"
   },
   {
-    "score": 79,
+    "score": 82,
     "pubdate": "2025-12-05-19-27-00 +0000",
     "source": "wsj",
     "headline": "A federal judge ordered the release of grand-jury transcripts from the Justice Department’s investigation into Jeffrey Epstein in Florida, citing a new law mandating that files be made public",
     "link": "https://www.wsj.com/politics/policy/judge-orders-release-of-epstein-florida-grand-jury-transcripts-cdb46b8d"
   },
   {
-    "score": 64,
-    "pubdate": "2025-12-05-21-47-07 +0000",
-    "source": "nyt",
-    "headline": "Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack",
-    "link": "https://www.nytimes.com/2025/12/05/us/politics/boat-strike-shows-survivors.html"
-  },
-  {
-    "score": 60,
+    "score": 74,
     "pubdate": "2025-12-05-15-35-40 +0000",
     "source": "bbc",
     "headline": "'I don't want to be part of this war machine': Young Germans protest against military service plans",
     "link": "https://www.bbc.com/news/videos/cx25031x23ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
-    "pubdate": "2025-12-05-21-13-25 +0000",
+    "score": 66,
+    "pubdate": "2025-12-05-21-47-07 +0000",
     "source": "nyt",
-    "headline": "Gianni Infantino Awards Trump a FIFA Peace Prize and Announces World Cup Draw",
-    "link": "https://www.nytimes.com/2025/12/05/us/politics/trump-fifa-peace-prize-world-cup-infantino.html"
+    "headline": "Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack",
+    "link": "https://www.nytimes.com/2025/12/05/us/politics/boat-strike-shows-survivors.html"
   },
   {
-    "score": 57,
+    "score": 63,
     "pubdate": "2025-12-05-15-33-01 +0000",
     "source": "nypost",
     "headline": "Trump national security strategy calls out ‘anti-democratic’ Europe, warns of ‘civilizational erasure’",
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/12/06/us-news/white-house-slams-newsom-after-gov-claims-trump-admin-turned-down-la-wildfire-aid-meeting/"
   },
   {
-    "score": 53,
+    "score": 55,
     "pubdate": "2025-12-05-19-14-25 +0000",
     "source": "latimes",
     "headline": "Supreme Court will hear Trump's plan to restrict birthright citizenship",
     "link": "https://www.latimes.com/politics/story/2025-12-05/supreme-court-will-hear-trumps-plan-to-restrict-birthright-citizenship"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-12-05-21-13-25 +0000",
+    "source": "nyt",
+    "headline": "Gianni Infantino Awards Trump a FIFA Peace Prize and Announces World Cup Draw",
+    "link": "https://www.nytimes.com/2025/12/05/us/politics/trump-fifa-peace-prize-world-cup-infantino.html"
   }
 ]
