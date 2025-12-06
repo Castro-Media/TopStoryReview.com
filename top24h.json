@@ -1,24 +1,24 @@
 [
   {
-    "score": 179,
+    "score": 174,
     "pubdate": "2025-12-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pardon of a sports executive wiped away a case that Trump’s antitrust chief had said fleeced Texas taxpayers",
     "link": "https://www.wsj.com/politics/policy/trump-ticket-prices-pardon-tim-leiweke-4b33a540"
   },
   {
-    "score": 125,
-    "pubdate": "2025-12-05-12-33-52 +0000",
-    "source": "latimes",
-    "headline": "Netflix agrees to buy Warner Bros. in an $82.7-billion deal that will transform Hollywood",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-05/netflix-prevails-in-warner-bros-discovery-bidding-opponents"
-  },
-  {
-    "score": 98,
+    "score": 102,
     "pubdate": "2025-12-05-16-51-04 +0000",
     "source": "nypost",
     "headline": "DC pipe-bomb suspect Brian Cole Jr. appears in court for first time as weeping female kin cry out, ‘We love you!’",
     "link": "https://nypost.com/2025/12/05/us-news/accused-dc-pipe-bomber-brian-cole-to-appear-in-court-for-first-time/"
+  },
+  {
+    "score": 85,
+    "pubdate": "2025-12-05-17-40-40 +0000",
+    "source": "nypost",
+    "headline": "Here’s everything you need to know about the Netflix-Warner Bros. deal",
+    "link": "https://nypost.com/2025/12/05/business/heres-everything-you-need-to-know-about-the-netflix-warner-bros-deal/"
   },
   {
     "score": 79,
@@ -28,18 +28,11 @@
     "link": "https://www.wsj.com/politics/policy/judge-orders-release-of-epstein-florida-grand-jury-transcripts-cdb46b8d"
   },
   {
-    "score": 62,
+    "score": 64,
     "pubdate": "2025-12-05-21-47-07 +0000",
     "source": "nyt",
     "headline": "Video of Boat Strike Shows Survivors Waving Before Fatal Follow-Up Attack",
     "link": "https://www.nytimes.com/2025/12/05/us/politics/boat-strike-shows-survivors.html"
-  },
-  {
-    "score": 61,
-    "pubdate": "2025-12-05-21-13-25 +0000",
-    "source": "nyt",
-    "headline": "Gianni Infantino Awards Trump a FIFA Peace Prize and Announces World Cup Draw",
-    "link": "https://www.nytimes.com/2025/12/05/us/politics/trump-fifa-peace-prize-world-cup-infantino.html"
   },
   {
     "score": 60,
@@ -50,10 +43,10 @@
   },
   {
     "score": 58,
-    "pubdate": "2025-12-06-05-14-15 +0000",
-    "source": "nypost",
-    "headline": "White House slams Newsom after gov claims Trump admin turned down LA wildfire aid meeting: ‘No idea what he’s talking about’",
-    "link": "https://nypost.com/2025/12/06/us-news/white-house-slams-newsom-after-gov-claims-trump-admin-turned-down-la-wildfire-aid-meeting/"
+    "pubdate": "2025-12-05-21-13-25 +0000",
+    "source": "nyt",
+    "headline": "Gianni Infantino Awards Trump a FIFA Peace Prize and Announces World Cup Draw",
+    "link": "https://www.nytimes.com/2025/12/05/us/politics/trump-fifa-peace-prize-world-cup-infantino.html"
   },
   {
     "score": 57,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2025/12/05/us-news/trump-national-security-strategy-calls-out-anti-democratic-europe/"
   },
   {
+    "score": 56,
+    "pubdate": "2025-12-06-05-14-15 +0000",
+    "source": "nypost",
+    "headline": "White House slams Newsom after gov claims Trump admin turned down LA wildfire aid meeting: ‘No idea what he’s talking about’",
+    "link": "https://nypost.com/2025/12/06/us-news/white-house-slams-newsom-after-gov-claims-trump-admin-turned-down-la-wildfire-aid-meeting/"
+  },
+  {
     "score": 53,
-    "pubdate": "2025-12-06-04-27-00 +0000",
-    "source": "wsj",
-    "headline": "A key vaccine panel at the Centers for Disease Control and Prevention voted 8-3 to nix a recommendation that all newborns be given a first dose of hepatitis B vaccine",
-    "link": "https://www.wsj.com/politics/policy/cdc-panel-remade-by-rfk-jr-votes-to-alter-hepatitis-b-vaccine-guidance-fbc1e421"
+    "pubdate": "2025-12-05-19-14-25 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court will hear Trump's plan to restrict birthright citizenship",
+    "link": "https://www.latimes.com/politics/story/2025-12-05/supreme-court-will-hear-trumps-plan-to-restrict-birthright-citizenship"
   }
 ]
