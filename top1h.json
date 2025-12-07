@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 27,
+    "pubdate": "2025-12-07-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Online child safety advocates urge California lawmakers to increase protections",
+    "link": "https://www.latimes.com/california/story/2025-12-07/online-child-safety-advocates-urge-california-to-increase-protections"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-12-07-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Chabria: Is RFK Jr. better on women's health than Newsom? We're about to find out",
+    "link": "https://www.latimes.com/politics/story/2025-12-07/chabria-column-rfk-jr-gavin-newsom-halle-berry-womens-health"
+  },
+  {
+    "score": 20,
+    "pubdate": "2025-12-07-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: She's a liar, swindler and cheat. So why wouldn't Trump pardon her?",
+    "link": "https://www.latimes.com/politics/story/2025-12-07/trump-pardons-elizabeth-holmes-theranos"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-07-11-03-45 +0000",
+    "source": "nyt",
+    "headline": "Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements",
+    "link": "https://www.nytimes.com/2025/12/07/world/asia/hong-kong-fire-election-campaign.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-07-10-56-28 +0000",
+    "source": "nyt",
+    "headline": "Heathrow Airport Is Briefly Locked Down After Spray Is Used in Altercation",
+    "link": "https://www.nytimes.com/2025/12/07/world/europe/heathrow-airport-lockdown.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-07-11-43-58 +0000",
+    "source": "bbc",
+    "headline": "Soldiers in Benin say they have seized power from President Talon",
+    "link": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-12-07-11-09-12 +0000",
+    "source": "bbc",
+    "headline": "Young people on benefits to be offered construction and hospitality work",
+    "link": "https://www.bbc.com/news/articles/cqlke33rzplo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-12-07-11-00-39 +0000",
+    "source": "nypost",
+    "headline": "At least 46 people rushed to hospital from NYC’s 2 overdose prevention centers, who says it doesn’t know what happened to them",
+    "link": "https://nypost.com/2025/12/07/us-news/at-least-46-people-rushed-to-hospital-from-nycs-2-overdose-prevention-centers-who-says-it-doesnt-know-what-happened-to-them/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-07-11-01-25 +0000",
+    "source": "bbc",
+    "headline": "Nightclub fire in India's Goa kills 25 people including staff and tourists",
+    "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-12-07-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Pacific Palisades residents preserve community with block party",
+    "link": "https://www.latimes.com/california/story/2025-12-07/pacific-palisades-residents-preserve-community-with-block-party"
+  }
+]
