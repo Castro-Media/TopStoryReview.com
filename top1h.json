@@ -1,37 +1,44 @@
 [
   {
-    "score": 30,
-    "pubdate": "2025-12-06-23-07-52 +0000",
+    "score": 14,
+    "pubdate": "2025-12-07-00-32-47 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Waives $11 Million Southwest Airlines Fine",
+    "link": "https://www.nytimes.com/2025/12/06/us/politics/trump-southwest-airlines-fine.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-07-00-45-58 +0000",
     "source": "nypost",
-    "headline": "Trump awards medals to Kennedy Center Honorees Gene Simmons, George Strait, Gloria Gaynor and more in star-studded ceremony",
-    "link": "https://nypost.com/2025/12/06/us-news/trump-awards-medals-to-kennedy-center-honorees-gene-simmons-george-strait-gloria-gaynor-and-more-in-star-studded-ceremony/"
+    "headline": "Chernobyl protective shield can no longer contain nuclear material after drone strike: UN Watchdog",
+    "link": "https://nypost.com/2025/12/06/us-news/chernobyl-protective-shield-can-no-longer-contain-nuclear-material-after-drone-strike-un-watchdog/"
   },
   {
-    "score": 18,
-    "pubdate": "2025-12-06-23-09-00 +0000",
-    "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-defends-pentagon-strike-on-drug-boat-survivors-9ed69fe2"
+    "score": 12,
+    "pubdate": "2025-12-07-00-32-54 +0000",
+    "source": "nypost",
+    "headline": "Bryan Kohberger trying to cozy up to notorious serial killers while behind bars for quadruple murder",
+    "link": "https://nypost.com/2025/12/06/us-news/bryan-kohberger-trying-to-cozy-up-to-other-serial-killers-while-behind-bars-for-quadruple-murder/"
   },
   {
-    "score": 7,
-    "pubdate": "2025-12-06-23-08-30 +0000",
-    "source": "startribune",
-    "headline": "Four things to watch with the Twins at baseball’s upcoming winter meetings",
-    "link": "https://www.startribune.com/four-things-to-watch-with-the-twins-at-baseballs-upcoming-winter-meetings/601540565"
+    "score": 12,
+    "pubdate": "2025-12-07-00-19-35 +0000",
+    "source": "nypost",
+    "headline": "Invasive Chinese mitten crab that can damage flood controls spotted in Oregon — sparking fear from scientists",
+    "link": "https://nypost.com/2025/12/06/us-news/invasive-chinese-mitten-crab-worrying-wildlife-biologists-after-spotted-in-oregon-river/"
   },
   {
-    "score": 5,
-    "pubdate": "2025-12-06-23-50-31 +0000",
-    "source": "bbc",
-    "headline": "Nightclub fire kills 23 in Goa, India",
-    "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss"
+    "score": 9,
+    "pubdate": "2025-12-07-00-21-46 +0000",
+    "source": "latimes",
+    "headline": "Paramount was poised to buy Warner Bros. Discovery. What went wrong?",
+    "link": "https://www.latimes.com/business/story/2025-12-06/paramount-larry-ellison-hollywood-warner-bros-netflix-skydance-sarandos"
   },
   {
     "score": 0,
-    "pubdate": "2025-12-06-23-07-52 +0000",
-    "source": "nypost",
-    "headline": "Trump awards medals to Kennedy Center Honorees Gene Simmons, George Strait, Gloria Gaynor and more in star-studded ceremony",
-    "link": "https://nypost.com/2025/12/06/us-news/trump-awards-medals-to-kennedy-center-honorees-gene-simmons-george-strait-gloria-gaynor-and-more-in-star-studded-ceremony/"
+    "pubdate": "2025-12-07-00-32-47 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Waives $11 Million Southwest Airlines Fine",
+    "link": "https://www.nytimes.com/2025/12/06/us/politics/trump-southwest-airlines-fine.html"
   }
 ]
