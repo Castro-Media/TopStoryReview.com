@@ -1,5 +1,65 @@
 [
   {
+    "headline": "China’s Forex Reserves Rose in November",
+    "link": "https://www.wsj.com/economy/central-banking/chinas-forex-reserves-rose-in-november-190cdfbb",
+    "source": "wsj",
+    "pubdate": "2025-12-07-02-30-00 +0000"
+  },
+  {
+    "headline": "In Honduras, Some Voters Were Swayed by Trump, Others Angered",
+    "link": "https://www.nytimes.com/2025/12/06/world/americas/honduras-voters-trump-election.html",
+    "source": "nyt",
+    "pubdate": "2025-12-07-02-17-30 +0000"
+  },
+  {
+    "headline": "In Honduras, Some Voters Were Swayed by Trump, Others Angered",
+    "link": "https://www.nytimes.com/2025/12/06/world/americas/honduras-voters-trump-election.html",
+    "source": "nyt",
+    "pubdate": "2025-12-07-02-17-30 +0000"
+  },
+  {
+    "headline": "US sets new deadline for Europe-led NATO defense that leaves officials divided",
+    "link": "https://nypost.com/2025/12/06/world-news/us-sets-2027-deadline-for-europe-led-nato-defense-officials-say/",
+    "source": "nypost",
+    "pubdate": "2025-12-07-02-03-47 +0000"
+  },
+  {
+    "headline": "The Innocent Bystanders Caught in Deadly Crossfire of Self-Defense Shootings",
+    "link": "https://www.wsj.com/us-news/homicides-bystanders-stand-your-ground-law-60829b8d",
+    "source": "wsj",
+    "pubdate": "2025-12-07-02-00-00 +0000"
+  },
+  {
+    "headline": "President Trump’s aides are pressing him to shift his messaging to affordability",
+    "link": "https://www.wsj.com/politics/policy/trump-economy-affordability-lower-prices-308f93ee",
+    "source": "wsj",
+    "pubdate": "2025-12-07-02-00-00 +0000"
+  },
+  {
+    "headline": "Homeless illegal immigrant—deported from US twice— allegedly stabs  man on Charlotte light rail",
+    "link": "https://nypost.com/2025/12/06/us-news/oscar-solarzano-arrested-on-first-degree-attempted-murder-in-charlotte/",
+    "source": "nypost",
+    "pubdate": "2025-12-07-01-50-57 +0000"
+  },
+  {
+    "headline": "AR-15 allegedly found under Florida college student’s bed after he ordered 1,500 rounds of ammo to dorm",
+    "link": "https://nypost.com/2025/12/06/us-news/ar-15-allegedly-found-under-florida-college-students-bed-after-he-ordered-1500-rounds-of-ammo-to-dorm/",
+    "source": "nypost",
+    "pubdate": "2025-12-07-01-41-31 +0000"
+  },
+  {
+    "headline": "Social worker stabbed at S.F. General Hospital dies of injuries",
+    "link": "https://missionlocal.org/2025/12/sf-social-worker-stabbing-hospital/",
+    "source": "missionlocal",
+    "pubdate": "2025-12-07-01-35-32 +0000"
+  },
+  {
+    "headline": "St. Paul alleges contractor made off with nearly $1M meant for financial literacy lessons",
+    "link": "https://www.startribune.com/st-paul-lawsuit-blackfem-nearly-1m-financial-literacy-lessons-not-delivered/601541066",
+    "source": "startribune",
+    "pubdate": "2025-12-07-01-18-49 +0000"
+  },
+  {
     "headline": "Chernobyl protective shield can no longer contain nuclear material after drone strike: UN Watchdog",
     "link": "https://nypost.com/2025/12/06/us-news/chernobyl-protective-shield-can-no-longer-contain-nuclear-material-after-drone-strike-un-watchdog/",
     "source": "nypost",
@@ -88,12 +148,6 @@
     "link": "https://www.wsj.com/politics/national-security/hegseth-defends-pentagon-strike-on-drug-boat-survivors-9ed69fe2",
     "source": "wsj",
     "pubdate": "2025-12-06-23-09-00 +0000"
-  },
-  {
-    "headline": "Four things to watch with the Twins at baseball’s upcoming winter meetings",
-    "link": "https://www.startribune.com/four-things-to-watch-with-the-twins-at-baseballs-upcoming-winter-meetings/601540565",
-    "source": "startribune",
-    "pubdate": "2025-12-06-23-08-30 +0000"
   },
   {
     "headline": "Trump awards medals to Kennedy Center Honorees Gene Simmons, George Strait, Gloria Gaynor and more in star-studded ceremony",
@@ -532,18 +586,6 @@
     "link": "https://www.nytimes.com/2025/12/06/business/economy/tariff-exemptions-trump.html",
     "source": "nyt",
     "pubdate": "2025-12-06-16-34-28 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani’s DSA party pushing China propaganda in new monthly ‘political education’ seminars",
-    "link": "https://nypost.com/2025/12/06/us-news/dsa-pushing-china-propaganda-in-new-monthly-political-education-seminar/",
-    "source": "nypost",
-    "pubdate": "2025-12-06-16-33-22 +0000"
-  },
-  {
-    "headline": "Trump rips ‘nasty’ Kaitlan Collins and touts ‘beautiful’ ballroom after architect swap",
-    "link": "https://nypost.com/2025/12/06/us-news/trump-rips-nasty-kaitlan-collins-and-touts-beautiful-white-house-ballroom/",
-    "source": "nypost",
-    "pubdate": "2025-12-06-16-30-24 +0000"
   },
   {
     "headline": "Woman allegedly left by boyfriend to freeze to death on Austrian mountain identified — as tributes pour in",
@@ -1887,7 +1929,7 @@
     "headline": "But Who Is the Snake in ‘Zootopia 2’?",
     "link": "https://www.nytimes.com/2025/12/04/business/media/zootopia-2-snake-gary-goldman.html",
     "source": "nyt",
-    "pubdate": "2025-12-05-20-33-12 +0000"
+    "pubdate": "2025-12-05-20-33-13 +0000"
   },
   {
     "headline": "Woman convicted of killing retired nurse to get cash for child's cheerleading camp",
@@ -2916,6 +2958,12 @@
     "pubdate": "2025-12-05-11-00-34 +0000"
   },
   {
+    "headline": "'A bit like poker': California's wet winter brings La Niña, El Niño confusion",
+    "link": "https://www.latimes.com/california/story/2025-12-05/la-nina-socal-slammed-by-record-start-to-rainy-season",
+    "source": "latimes",
+    "pubdate": "2025-12-05-11-00-00 +0000"
+  },
+  {
     "headline": "To protect underage farmworkers, California expands oversight of field conditions",
     "link": "https://www.latimes.com/california/story/2025-12-05/underage-farmworkers-california-expands-oversight-of-field-conditions",
     "source": "latimes",
@@ -2924,12 +2972,6 @@
   {
     "headline": "Salvaged chimneys from the Palisades fire are a tangible memorial to L.A.'s unspeakable loss",
     "link": "https://www.latimes.com/environment/story/2025-12-05/salvaged-chimneys-from-palisades-fire-are-tangible-memorial-to-l-a-s-unspeakable-loss",
-    "source": "latimes",
-    "pubdate": "2025-12-05-11-00-00 +0000"
-  },
-  {
-    "headline": "'A bit like poker': California's wet winter brings La Niña, El Niño confusion",
-    "link": "https://www.latimes.com/california/story/2025-12-05/la-nina-socal-slammed-by-record-start-to-rainy-season",
     "source": "latimes",
     "pubdate": "2025-12-05-11-00-00 +0000"
   },
@@ -2952,14 +2994,14 @@
     "pubdate": "2025-12-05-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Everyone complains about 'AI slop,' but no one can define it",
-    "link": "https://www.latimes.com/business/story/2025-12-05/ai-slop-is-everywhere-is-it-a-problem-or-just-a-nuisance",
+    "headline": "To protect underage farmworkers, California expands oversight of field conditions",
+    "link": "https://www.latimes.com/california/story/2025-12-05/underage-farmworkers-california-expands-oversight-of-field-conditions",
     "source": "latimes",
     "pubdate": "2025-12-05-11-00-00 +0000"
   },
   {
-    "headline": "To protect underage farmworkers, California expands oversight of field conditions",
-    "link": "https://www.latimes.com/california/story/2025-12-05/underage-farmworkers-california-expands-oversight-of-field-conditions",
+    "headline": "Hiltzik: Everyone complains about 'AI slop,' but no one can define it",
+    "link": "https://www.latimes.com/business/story/2025-12-05/ai-slop-is-everywhere-is-it-a-problem-or-just-a-nuisance",
     "source": "latimes",
     "pubdate": "2025-12-05-11-00-00 +0000"
   },
@@ -3142,12 +3184,6 @@
     "link": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-05-06-12-19 +0000"
-  },
-  {
-    "headline": "Yegor Ligachev, Gorbachev’s No. 2 Who Turned Foe, Is Dead at 100",
-    "link": "https://www.nytimes.com/2025/12/03/world/europe/yegor-ligachev-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-05-06-08-36 +0000"
   },
   {
     "headline": "Jon Slavet, tech entrepreneur and Republican, announces run for governor",
@@ -3436,12 +3472,6 @@
     "link": "https://www.wsj.com/politics/national-security/democrats-troubled-by-video-of-second-strike-on-alleged-drug-boat-34169131",
     "source": "wsj",
     "pubdate": "2025-12-05-00-22-00 +0000"
-  },
-  {
-    "headline": "Trump sees peace ‘eventually’ in Ukraine after Russia rejected the latest plan",
-    "link": "https://nypost.com/2025/12/04/world-news/trump-sees-peace-eventually-in-ukraine-after-russia-rejected-the-latest-plan/",
-    "source": "nypost",
-    "pubdate": "2025-12-05-00-21-26 +0000"
   },
   {
     "headline": "Supreme Court to Allow Texas to Use New Congressional Map in Win for Republicans",
@@ -4752,12 +4782,6 @@
     "pubdate": "2025-12-04-01-07-32 +0000"
   },
   {
-    "headline": "Two survivors of a Sept. 2 U.S. strike on a boat were killed in follow-up attacks after they were seen still aboard the damaged vessel, a senior commander is expected to tell lawmakers",
-    "link": "https://www.wsj.com/politics/national-security/survivors-of-boat-strike-were-actively-continuing-drug-mission-admiral-to-tell-lawmakers-b82f0ab3",
-    "source": "wsj",
-    "pubdate": "2025-12-04-01-04-00 +0000"
-  },
-  {
     "headline": "Storm Floodwaters in Indonesia Turned Logs Into Floating Projectiles",
     "link": "https://www.nytimes.com/2025/12/03/world/asia/indonesia-sumatra-floods-timber-logs.html",
     "source": "nyt",
@@ -4840,12 +4864,6 @@
     "link": "https://www.bbc.com/news/videos/c8e9660kg6no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-03-23-15-51 +0000"
-  },
-  {
-    "headline": "Doctor Who Gave Matthew Perry Ketamine Sentenced to 30 Months",
-    "link": "https://www.wsj.com/us-news/doctor-who-gave-matthew-perry-ketamine-sentenced-to-30-months-a1505737",
-    "source": "wsj",
-    "pubdate": "2025-12-03-23-04-00 +0000"
   },
   {
     "headline": "Delta Says Government Shutdown Dented Profit by $200 Million",
@@ -5206,12 +5224,6 @@
     "link": "https://www.wsj.com/business/entrepreneurship/business-failure-reasons-top-10-0762e18b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-03-15-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Industrial Production Rose in September",
-    "link": "https://www.wsj.com/economy/central-banking/u-s-industrial-production-rose-in-september-d6a7debd",
-    "source": "wsj",
-    "pubdate": "2025-12-03-14-58-00 +0000"
   },
   {
     "headline": "Maersk Reports Increasing Demand From India as Hopes of U.S.-India Trade Deal Grow",
@@ -5832,14 +5844,14 @@
     "pubdate": "2025-12-02-11-20-00 +0000"
   },
   {
-    "headline": "California's environmental board approved hazardous waste plan that critics say could weaken protections",
-    "link": "https://www.latimes.com/environment/story/2025-12-02/californias-new-hazardous-waste-plan-worries-environmentalists",
+    "headline": "Chabria: Amid national sorrow, Trump stops pretending it's about the 'worst of the worst'",
+    "link": "https://www.latimes.com/politics/story/2025-12-02/chabria-column-trump-response-immigrants-national-guard-killing",
     "source": "latimes",
     "pubdate": "2025-12-02-11-00-00 +0000"
   },
   {
-    "headline": "The VA gives a peek into its plan for Trump's Center for Warrior Independence in West LA",
-    "link": "https://www.latimes.com/california/story/2025-12-02/va-has-plan-for-trumps-center-for-warrior-independence-in-west-la",
+    "headline": "San Bernardino: The mass shooting that helped Trump redefine America's immigration debate",
+    "link": "https://www.latimes.com/california/story/2025-12-02/san-bernardino-mass-shooting-ten-years-later-muslims-trump",
     "source": "latimes",
     "pubdate": "2025-12-02-11-00-00 +0000"
   },
@@ -5862,14 +5874,14 @@
     "pubdate": "2025-12-02-11-00-00 +0000"
   },
   {
-    "headline": "Chabria: Amid national sorrow, Trump stops pretending it's about the 'worst of the worst'",
-    "link": "https://www.latimes.com/politics/story/2025-12-02/chabria-column-trump-response-immigrants-national-guard-killing",
+    "headline": "The VA gives a peek into its plan for Trump's Center for Warrior Independence in West LA",
+    "link": "https://www.latimes.com/california/story/2025-12-02/va-has-plan-for-trumps-center-for-warrior-independence-in-west-la",
     "source": "latimes",
     "pubdate": "2025-12-02-11-00-00 +0000"
   },
   {
-    "headline": "San Bernardino: The mass shooting that helped Trump redefine America's immigration debate",
-    "link": "https://www.latimes.com/california/story/2025-12-02/san-bernardino-mass-shooting-ten-years-later-muslims-trump",
+    "headline": "California's environmental board approved hazardous waste plan that critics say could weaken protections",
+    "link": "https://www.latimes.com/environment/story/2025-12-02/californias-new-hazardous-waste-plan-worries-environmentalists",
     "source": "latimes",
     "pubdate": "2025-12-02-11-00-00 +0000"
   },
@@ -6198,12 +6210,6 @@
     "pubdate": "2025-12-01-16-18-00 +0000"
   },
   {
-    "headline": "What’s on now at San Francisco museums, December 2025",
-    "link": "https://missionlocal.org/2025/12/whats-on-now-at-san-francisco-museums-december-2025/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-01-16-12-22 +0000"
-  },
-  {
     "headline": "College Student Is Deported During Trip Home for Thanksgiving",
     "link": "https://www.nytimes.com/2025/11/30/us/politics/college-student-deported-thanksgiving-texas.html",
     "source": "nyt",
@@ -6270,14 +6276,14 @@
     "pubdate": "2025-12-01-11-00-00 +0000"
   },
   {
-    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
-    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis",
+    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
+    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
     "source": "latimes",
     "pubdate": "2025-12-01-11-00-00 +0000"
   },
   {
-    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
-    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
+    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
+    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis",
     "source": "latimes",
     "pubdate": "2025-12-01-11-00-00 +0000"
   },
@@ -6444,12 +6450,6 @@
     "pubdate": "2025-11-30-11-49-50 +0000"
   },
   {
-    "headline": "Arellano: Short, beautiful Southern California reads for our doomscrolling times",
-    "link": "https://www.latimes.com/california/story/2025-11-30/southern-california-books-2025-gift-guide",
-    "source": "latimes",
-    "pubdate": "2025-11-30-11-00-00 +0000"
-  },
-  {
     "headline": "Barabak: What a scandal! (Or not.) How things have changed",
     "link": "https://www.latimes.com/politics/story/2025-11-30/scandal-trump-changing-standards-katie-porter-graham-platner-jay-jones",
     "source": "latimes",
@@ -6462,14 +6462,20 @@
     "pubdate": "2025-11-30-11-00-00 +0000"
   },
   {
-    "headline": "Barabak: What a scandal! (Or not.) How things have changed",
-    "link": "https://www.latimes.com/politics/story/2025-11-30/scandal-trump-changing-standards-katie-porter-graham-platner-jay-jones",
+    "headline": "Arellano: Short, beautiful Southern California reads for our doomscrolling times",
+    "link": "https://www.latimes.com/california/story/2025-11-30/southern-california-books-2025-gift-guide",
     "source": "latimes",
     "pubdate": "2025-11-30-11-00-00 +0000"
   },
   {
     "headline": "Robert Garcia leads Democrats' strategy on Epstein probe, to GOP's dismay",
     "link": "https://www.latimes.com/politics/story/2025-11-30/garcia-leads-democrats-strategy-on-epstein-probe-to-gops-dismay",
+    "source": "latimes",
+    "pubdate": "2025-11-30-11-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: What a scandal! (Or not.) How things have changed",
+    "link": "https://www.latimes.com/politics/story/2025-11-30/scandal-trump-changing-standards-katie-porter-graham-platner-jay-jones",
     "source": "latimes",
     "pubdate": "2025-11-30-11-00-00 +0000"
   },
@@ -6514,23 +6520,5 @@
     "link": "https://www.wsj.com/finance/investing/uk-budget-debate-us-debt-lessons-38bc52e3?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-11-30-04-00-00 +0000"
-  },
-  {
-    "headline": "Los Angeles FBI seizes rare Mercedes in connection with alleged drug kingpin",
-    "link": "https://www.latimes.com/california/story/2025-11-29/la-fbi-seizes-rare-mercedes-in-connection-with-alleged-drug-lord",
-    "source": "latimes",
-    "pubdate": "2025-11-30-03-13-46 +0000"
-  },
-  {
-    "headline": "My Three Weeks Navigating Ice in the Arctic Ocean",
-    "link": "https://www.wsj.com/world/my-three-weeks-navigating-ice-in-the-arctic-ocean-59bab451?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-11-30-03-00-00 +0000"
-  },
-  {
-    "headline": "They Found Relatives on 23andMe—and Asked for a Cut of the Inheritance",
-    "link": "https://www.wsj.com/personal-finance/they-found-relatives-on-23andmeand-asked-for-a-cut-of-the-inheritance-251e5f4c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-11-30-02-00-00 +0000"
   }
 ]
