@@ -1,10 +1,17 @@
 [
   {
-    "score": 93,
+    "score": 90,
     "pubdate": "2025-12-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pardon of a sports executive wiped away a case that Trump’s antitrust chief had said fleeced Texas taxpayers",
     "link": "https://www.wsj.com/politics/policy/trump-ticket-prices-pardon-tim-leiweke-4b33a540"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-12-06-18-10-02 +0000",
+    "source": "nypost",
+    "headline": "Deadly Hong Kong fire came after residents were falsely told contractor had clean safety record",
+    "link": "https://nypost.com/2025/12/06/world-news/hong-kong-fire-followed-contractor-safety-breaches-and-a-residents-revolt/"
   },
   {
     "score": 51,
@@ -14,13 +21,6 @@
     "link": "https://www.bbc.com/news/articles/ce86z84e947o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 51,
-    "pubdate": "2025-12-06-18-10-02 +0000",
-    "source": "nypost",
-    "headline": "Deadly Hong Kong fire came after residents were falsely told contractor had clean safety record",
-    "link": "https://nypost.com/2025/12/06/world-news/hong-kong-fire-followed-contractor-safety-breaches-and-a-residents-revolt/"
-  },
-  {
     "score": 44,
     "pubdate": "2025-12-06-18-40-48 +0000",
     "source": "nypost",
@@ -28,11 +28,11 @@
     "link": "https://nypost.com/2025/12/06/us-news/gavin-newsom-roasted-for-bizarre-reaction-post-to-viral-testicle-crushing-sitting-pose/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-12-06-04-00-00 +0000",
+    "score": 38,
+    "pubdate": "2025-12-06-23-09-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Flips History by Casting Europe—Not Russia—as Villain in New Security Policy",
-    "link": "https://www.wsj.com/world/europe/u-s-flips-history-by-casting-europenot-russiaas-villain-in-new-security-policy-cbb138fa"
+    "headline": "Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-defends-pentagon-strike-on-drug-boat-survivors-9ed69fe2"
   },
   {
     "score": 37,
@@ -43,10 +43,17 @@
   },
   {
     "score": 32,
-    "pubdate": "2025-12-06-23-09-00 +0000",
-    "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-defends-pentagon-strike-on-drug-boat-survivors-9ed69fe2"
+    "pubdate": "2025-12-06-14-35-09 +0000",
+    "source": "nypost",
+    "headline": "Stephen Miller calls billion-dollar Minnesota welfare scam ‘single greatest theft of taxpayer dollars’ with dozens of Somali migrants convicted",
+    "link": "https://nypost.com/2025/12/06/us-news/stephen-miller-calls-minnesota-welfare-scam-with-somali-migrants-single-greatest-theft-of-taxpayer-dollars/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-12-07-03-46-56 +0000",
+    "source": "nypost",
+    "headline": "Warner Bros. Discovery CEO’s bidding war destroyed the initial confidence of the Ellisons — but don’t count them out just yet",
+    "link": "https://nypost.com/2025/12/06/business/warner-bros-discovery-ceos-bidding-war-destroyed-the-initial-confidence-of-the-ellisons-but-dont-count-them-out-just-yet/"
   },
   {
     "score": 30,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "National Guardsman 'slowly healing' after being shot in Washington DC",
     "link": "https://www.bbc.com/news/articles/c0q5lejppeno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 29,
-    "pubdate": "2025-12-06-19-54-09 +0000",
-    "source": "nyt",
-    "headline": "Battlefield Picture Worsening for Ukraine as Trump Pushes Peace Plan",
-    "link": "https://www.nytimes.com/2025/12/06/world/europe/ukraine-pokrovsk-battlefield-russia.html"
   }
 ]
