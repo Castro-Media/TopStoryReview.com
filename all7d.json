@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Hong Kong vote in election as city mourns deadly fire",
+    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-07-06-45-47 +0000"
+  },
+  {
+    "headline": "F.D.A. Orders Recall of More than 1.5 Million Bags of Shredded Cheese",
+    "link": "https://www.nytimes.com/2025/12/04/us/cheese-recall.html",
+    "source": "nyt",
+    "pubdate": "2025-12-07-06-02-48 +0000"
+  },
+  {
     "headline": "Judge Halts Justice Dept. Effort to Seek New Comey Indictment",
     "link": "https://www.nytimes.com/2025/12/06/us/politics/judge-comey-indictment-richman.html",
     "source": "nyt",
@@ -262,12 +274,6 @@
     "link": "https://nypost.com/2025/12/06/us-news/chernobyl-protective-shield-can-no-longer-contain-nuclear-material-after-drone-strike-un-watchdog/",
     "source": "nypost",
     "pubdate": "2025-12-07-00-45-58 +0000"
-  },
-  {
-    "headline": "Hong Kong to vote in election as city mourns deadly fire",
-    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-07-00-40-41 +0000"
   },
   {
     "headline": "Bryan Kohberger trying to cozy up to notorious serial killers while behind bars for quadruple murder",
@@ -862,12 +868,6 @@
     "link": "https://www.wsj.com/world/china/trumps-national-security-strategy-softens-language-on-china-f121ddb3",
     "source": "wsj",
     "pubdate": "2025-12-06-15-00-00 +0000"
-  },
-  {
-    "headline": "From France to the NBA, Timberwolves rookie center Joan Beringer adjusts to Minnesota",
-    "link": "https://www.startribune.com/minnesota-timberwolves-rookie-center-joan-beringer-france-2025-nba-draft/601476291",
-    "source": "startribune",
-    "pubdate": "2025-12-06-14-57-00 +0000"
   },
   {
     "headline": "Resistance group members arrested in London for throwing food at State Crown display case",
@@ -1974,12 +1974,6 @@
     "pubdate": "2025-12-05-21-13-25 +0000"
   },
   {
-    "headline": "F.D.A. Orders Recall of More than 1.5 Million Bags of Shredded Cheese",
-    "link": "https://www.nytimes.com/2025/12/04/us/cheese-recall.html",
-    "source": "nyt",
-    "pubdate": "2025-12-05-21-09-06 +0000"
-  },
-  {
     "headline": "Carney, Trump and Sheinbaum met privately, agreed to 'keep working together' on trade deal: PMO",
     "link": "https://www.cbc.ca/news/politics/us-mexico-canada-fifa-meeting-9.7005088?cmp=rss",
     "source": "cbc",
@@ -3046,6 +3040,12 @@
     "link": "https://www.wsj.com/politics/national-security/trumps-new-national-security-strategy-takes-aim-at-europe-22f03581",
     "source": "wsj",
     "pubdate": "2025-12-05-11-40-00 +0000"
+  },
+  {
+    "headline": "Minnesotan’s Ice Mile swim illuminates a new level of extreme",
+    "link": "https://www.startribune.com/minnesotans-ice-mile-swim-illuminates-a-new-level-of-extreme/601536929",
+    "source": "startribune",
+    "pubdate": "2025-12-05-11-30-00 +0000"
   },
   {
     "headline": "Copper Hits Fresh Record on Fears of Global Supply Squeeze",
@@ -6336,14 +6336,14 @@
     "pubdate": "2025-12-01-11-00-00 +0000"
   },
   {
-    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
-    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis",
+    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
+    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
     "source": "latimes",
     "pubdate": "2025-12-01-11-00-00 +0000"
   },
   {
-    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
-    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
+    "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
+    "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis",
     "source": "latimes",
     "pubdate": "2025-12-01-11-00-00 +0000"
   },
@@ -6528,14 +6528,14 @@
     "pubdate": "2025-11-30-11-00-00 +0000"
   },
   {
-    "headline": "Barabak: What a scandal! (Or not.) How things have changed",
-    "link": "https://www.latimes.com/politics/story/2025-11-30/scandal-trump-changing-standards-katie-porter-graham-platner-jay-jones",
+    "headline": "Robert Garcia leads Democrats' strategy on Epstein probe, to GOP's dismay",
+    "link": "https://www.latimes.com/politics/story/2025-11-30/garcia-leads-democrats-strategy-on-epstein-probe-to-gops-dismay",
     "source": "latimes",
     "pubdate": "2025-11-30-11-00-00 +0000"
   },
   {
-    "headline": "Robert Garcia leads Democrats' strategy on Epstein probe, to GOP's dismay",
-    "link": "https://www.latimes.com/politics/story/2025-11-30/garcia-leads-democrats-strategy-on-epstein-probe-to-gops-dismay",
+    "headline": "Barabak: What a scandal! (Or not.) How things have changed",
+    "link": "https://www.latimes.com/politics/story/2025-11-30/scandal-trump-changing-standards-katie-porter-graham-platner-jay-jones",
     "source": "latimes",
     "pubdate": "2025-11-30-11-00-00 +0000"
   },
