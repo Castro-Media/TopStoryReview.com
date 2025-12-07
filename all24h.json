@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Hong Kong vote in election as city mourns deadly fire",
+    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-07-06-45-47 +0000"
+  },
+  {
+    "headline": "F.D.A. Orders Recall of More than 1.5 Million Bags of Shredded Cheese",
+    "link": "https://www.nytimes.com/2025/12/04/us/cheese-recall.html",
+    "source": "nyt",
+    "pubdate": "2025-12-07-06-02-48 +0000"
+  },
+  {
     "headline": "Judge Halts Justice Dept. Effort to Seek New Comey Indictment",
     "link": "https://www.nytimes.com/2025/12/06/us/politics/judge-comey-indictment-richman.html",
     "source": "nyt",
@@ -262,12 +274,6 @@
     "link": "https://nypost.com/2025/12/06/us-news/chernobyl-protective-shield-can-no-longer-contain-nuclear-material-after-drone-strike-un-watchdog/",
     "source": "nypost",
     "pubdate": "2025-12-07-00-45-58 +0000"
-  },
-  {
-    "headline": "Hong Kong to vote in election as city mourns deadly fire",
-    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-07-00-40-41 +0000"
   },
   {
     "headline": "Bryan Kohberger trying to cozy up to notorious serial killers while behind bars for quadruple murder",
@@ -864,12 +870,6 @@
     "pubdate": "2025-12-06-15-00-00 +0000"
   },
   {
-    "headline": "From France to the NBA, Timberwolves rookie center Joan Beringer adjusts to Minnesota",
-    "link": "https://www.startribune.com/minnesota-timberwolves-rookie-center-joan-beringer-france-2025-nba-draft/601476291",
-    "source": "startribune",
-    "pubdate": "2025-12-06-14-57-00 +0000"
-  },
-  {
     "headline": "Resistance group members arrested in London for throwing food at State Crown display case",
     "link": "https://nypost.com/2025/12/06/world-news/four-arrested-in-london-for-throwing-food-at-state-crown-display-case/",
     "source": "nypost",
@@ -1198,17 +1198,5 @@
     "link": "https://nypost.com/2025/12/06/world-news/australia-gangster-mejid-hamzy-secret-texts-show-plot-to-kill-rival-before-assassination/",
     "source": "nypost",
     "pubdate": "2025-12-06-07-55-28 +0000"
-  },
-  {
-    "headline": "Warm Welcome hubs an 'important' helping hand",
-    "link": "https://www.bbc.com/news/articles/cp39487jpqwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-06-07-34-43 +0000"
-  },
-  {
-    "headline": "Trump administration will expand travel ban to over 30 countries, DHS chief Kristi Noem says",
-    "link": "https://nypost.com/2025/12/06/us-news/trump-administration-expanding-travel-ban-to-more-than-30-countries/",
-    "source": "nypost",
-    "pubdate": "2025-12-06-06-19-39 +0000"
   }
 ]
