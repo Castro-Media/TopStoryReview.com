@@ -1,17 +1,24 @@
 [
   {
-    "score": 82,
-    "pubdate": "2025-12-08-02-40-46 +0000",
-    "source": "wapo",
-    "headline": "Trump says he will be ‘involved’ in vetting Netflix-Warner deal",
-    "link": "https://www.washingtonpost.com/business/2025/12/07/netflix-warner-bros-discovery-trump/"
+    "score": 83,
+    "pubdate": "2025-12-07-22-30-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump criticized as disloyal an indicted congressman from Texas he pardoned last week after the lawmaker filed for re-election as a Democrat",
+    "link": "https://www.wsj.com/politics/elections/trump-lashes-out-at-democrat-for-lack-of-loyalty-after-pardon-58b0f11d"
   },
   {
     "score": 51,
-    "pubdate": "2025-12-07-17-45-11 +0000",
+    "pubdate": "2025-12-07-12-33-07 +0000",
+    "source": "nypost",
+    "headline": "Hochul will drive away New Yorkers if she supports Mamdani’s corporate tax hike: Pataki",
+    "link": "https://nypost.com/2025/12/07/us-news/pataki-hochul-will-drive-away-new-yorkers-if-she-supports-mamdanis-corporate-tax-hike/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-12-07-17-40-13 +0000",
     "source": "bbc",
-    "headline": "Hong Kong votes in election as city mourns deadly fire",
-    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss"
+    "headline": "Nightclub fire in India's Goa kills 25 staff and tourists",
+    "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 45,
@@ -21,52 +28,45 @@
     "link": "https://www.nytimes.com/2025/12/07/us/politics/supreme-court-trump-independent-agencies.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-12-07-20-50-26 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani gives advice to thwart, evade ICE in video message calling to ‘stand up’ to feds",
-    "link": "https://nypost.com/2025/12/07/us-news/zohran-mamdani-gives-advice-to-thwart-evade-ice-in-video-message-calling-to-stand-up-to-feds/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2025-12-07-15-55-51 +0000",
-    "source": "bbc",
-    "headline": "New US security strategy aligns with Russia's vision, Moscow says",
-    "link": "https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 42,
+    "score": 41,
     "pubdate": "2025-12-07-12-09-01 +0000",
     "source": "bbc",
     "headline": "Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says",
     "link": "https://www.bbc.com/news/articles/c98nldr06l2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 39,
-    "pubdate": "2025-12-07-23-46-00 +0000",
-    "source": "nyt",
-    "headline": "Japan Says China Aimed Military Radar at Its Fighter Jets",
-    "link": "https://www.nytimes.com/2025/12/07/world/asia/japan-china-fighter-jets.html"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-12-07-20-38-10 +0000",
+    "score": 38,
+    "pubdate": "2025-12-07-21-23-01 +0000",
     "source": "nypost",
-    "headline": "Trump takes over Washington’s most glam night, hosts Kennedy Center Honors: ‘A big event’",
-    "link": "https://nypost.com/2025/12/07/us-news/trump-takes-over-washingtons-most-glam-night-will-host-kennedy-center-honors/"
+    "headline": "Hawaii’s Kīlauea volcano destroys camera capturing live video of 38th eruption of past year",
+    "link": "https://nypost.com/2025/12/07/us-news/hawaiis-kilauea-volcano-destroys-camera-capturing-live-video-of-38th-eruption-of-past-year/"
   },
   {
-    "score": 35,
+    "score": 37,
+    "pubdate": "2025-12-08-03-44-08 +0000",
+    "source": "nyt",
+    "headline": "Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements",
+    "link": "https://www.nytimes.com/2025/12/07/world/asia/hong-kong-fire-election-campaign.html"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-12-07-20-30-14 +0000",
     "source": "nyt",
     "headline": "Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says",
     "link": "https://www.nytimes.com/2025/12/07/world/africa/benin-coup-shots-military-africa.html"
   },
   {
-    "score": 32,
-    "pubdate": "2025-12-07-21-23-01 +0000",
+    "score": 34,
+    "pubdate": "2025-12-07-21-46-24 +0000",
     "source": "nypost",
-    "headline": "Hawaii’s Kīlauea volcano destroys camera capturing live video of 38th eruption of past year",
-    "link": "https://nypost.com/2025/12/07/us-news/hawaiis-kilauea-volcano-destroys-camera-capturing-live-video-of-38th-eruption-of-past-year/"
+    "headline": "Holiday parade in California’s wealthy ‘American Riviera’ city canceled over ICE raid fears: ‘Threat to our Latino families’",
+    "link": "https://nypost.com/2025/12/07/us-news/holiday-parade-in-californias-wealthy-american-riviera-city-canceled-over-ice-raid-fears/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-12-07-23-42-58 +0000",
+    "source": "nypost",
+    "headline": "NYC’s Eric Adams gives Zohran Mamdani reality check on plan to stop clearing homeless tent cities",
+    "link": "https://nypost.com/2025/12/07/us-news/nycs-eric-adams-gives-zohran-mamdani-reality-check-on-plan-to-stop-clearing-homeless-tent-cities/"
   }
 ]
