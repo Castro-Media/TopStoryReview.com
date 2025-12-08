@@ -1,17 +1,31 @@
 [
   {
-    "score": 86,
+    "score": 87,
+    "pubdate": "2025-12-07-19-42-14 +0000",
+    "source": "cbc",
+    "headline": "Trump's new security strategy aligns with Russia's interests, Kremlin says",
+    "link": "https://www.cbc.ca/news/world/russia-trump-national-security-strategy-9.7006460?cmp=rss"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-12-08-10-14-00 +0000",
+    "source": "wsj",
+    "headline": "The historic milestone comes as China adds high-end manufacturing strength to its established dominance in lower-end goods, fueling trade tensions",
+    "link": "https://www.wsj.com/economy/trade/chinas-exports-rebound-in-november-97f24e06"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-12-08-09-28-00 +0000",
+    "source": "wsj",
+    "headline": "Japan Is Out Spending. Bond Markets Seem Nervous About Picking Up the Tab.",
+    "link": "https://www.wsj.com/economy/japan-is-out-spending-bond-markets-seem-nervous-about-picking-up-the-tab-050bedce"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-12-08-02-40-46 +0000",
     "source": "wapo",
     "headline": "Trump says he will be ‘involved’ in vetting Netflix-Warner deal",
     "link": "https://www.washingtonpost.com/business/2025/12/07/netflix-warner-bros-discovery-trump/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-12-07-15-55-51 +0000",
-    "source": "bbc",
-    "headline": "New US security strategy aligns with Russia's vision, Moscow says",
-    "link": "https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 45,
@@ -22,51 +36,37 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-12-07-23-46-00 +0000",
+    "pubdate": "2025-12-07-17-45-11 +0000",
+    "source": "bbc",
+    "headline": "Hong Kong votes in election as city mourns deadly fire",
+    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-12-07-17-50-05 +0000",
     "source": "nyt",
-    "headline": "Japan Says China Aimed Military Radar at Its Fighter Jets",
-    "link": "https://www.nytimes.com/2025/12/07/world/asia/japan-china-fighter-jets.html"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-12-07-12-09-01 +0000",
-    "source": "bbc",
-    "headline": "Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says",
-    "link": "https://www.bbc.com/news/articles/c98nldr06l2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-12-07-17-40-13 +0000",
-    "source": "bbc",
-    "headline": "Nightclub fire in India's Goa kills 25 staff and tourists",
-    "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss"
+    "headline": "Russian Drone Strike on Chernobyl Hasn’t Led to Rise in Radiation Levels",
+    "link": "https://www.nytimes.com/2025/12/07/world/europe/chernobyl-ukraine-russian-drone-strike-radiation.html"
   },
   {
     "score": 37,
+    "pubdate": "2025-12-08-08-38-09 +0000",
+    "source": "bbc",
+    "headline": "Watch: Syrians share their thoughts one year on from the fall of Assad",
+    "link": "https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-12-07-23-42-58 +0000",
     "source": "nypost",
     "headline": "NYC’s Eric Adams gives Zohran Mamdani reality check on plan to stop clearing homeless tent cities",
     "link": "https://nypost.com/2025/12/07/us-news/nycs-eric-adams-gives-zohran-mamdani-reality-check-on-plan-to-stop-clearing-homeless-tent-cities/"
   },
   {
-    "score": 35,
+    "score": 36,
     "pubdate": "2025-12-07-20-30-14 +0000",
     "source": "nyt",
     "headline": "Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says",
     "link": "https://www.nytimes.com/2025/12/07/world/africa/benin-coup-shots-military-africa.html"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-12-07-10-00-24 +0000",
-    "source": "nyt",
-    "headline": "With MaXhosa Africa, Laduma Ngxokolo Is Reweaving South Africa’s Story",
-    "link": "https://www.nytimes.com/2025/12/07/style/the-man-reweaving-south-africas-story.html"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-12-07-19-29-38 +0000",
-    "source": "nypost",
-    "headline": "Water leak at the Louvre damages hundreds of rare books in yet another blow to world’s most famous museum",
-    "link": "https://nypost.com/2025/12/07/world-news/water-leak-at-louvre-damages-books-at-egyptian-antiquities-department/"
   }
 ]
