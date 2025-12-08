@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 23,
+    "pubdate": "2025-12-08-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s firing spree at federal agencies has snowballed into a Supreme Court showdown about how modern American government should work",
+    "link": "https://www.wsj.com/us-news/law/supreme-court-trump-firings-federal-workers-075c1ab0"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-12-08-00-49-01 +0000",
+    "source": "bbc",
+    "headline": "Japan is facing a dementia crisis – can technology help?",
+    "link": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-08-00-33-01 +0000",
+    "source": "nyt",
+    "headline": "Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements",
+    "link": "https://www.nytimes.com/2025/12/07/world/asia/hong-kong-fire-election-campaign.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-12-08-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is prodding ranchers and meatpackers to do something about soaring beef prices, while looking at increasing imports from Mexico and South America",
+    "link": "https://www.wsj.com/politics/policy/trump-tasks-top-advisers-with-finding-way-to-lower-soaring-beef-prices-3f4bc9de"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-12-08-00-36-53 +0000",
+    "source": "nypost",
+    "headline": "Wild new bodycam footage captures moment cops shoot and kill gun-waving maniac on Seattle street",
+    "link": "https://nypost.com/2025/12/07/us-news/wild-new-bodycam-footage-captures-moment-cops-shoot-and-kill-gun-waving-maniac-on-seattle-street/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-08-01-10-50 +0000",
+    "source": "nypost",
+    "headline": "Virginia liquor store trashed by drunk raccoon introduces new cocktails inspired by viral tipsy critter",
+    "link": "https://nypost.com/2025/12/07/us-news/virginia-liquor-store-trashed-by-drunk-raccoon-introduces-new-cocktails-inspired-by-viral-tipsy-critter/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-08-00-27-53 +0000",
+    "source": "nypost",
+    "headline": "Dramatic video shows NYPD officers jumping into ‘freezing water’ to rescue man struggling in East River",
+    "link": "https://nypost.com/2025/12/07/us-news/dramatic-video-shows-nypd-officers-jumping-into-freezing-water-to-rescue-man/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-08-01-14-00 +0000",
+    "source": "wsj",
+    "headline": "Ten-Year JGB Yield Declines After Lackluster Japan GDP Data",
+    "link": "https://www.wsj.com/finance/investing/ten-year-jgb-yield-declines-after-lackluster-japan-gdp-data-1d2d1646?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-08-00-43-51 +0000",
+    "source": "nyt",
+    "headline": "Trump Set to Host the Kennedy Center Honors",
+    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-12-08-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Sephora Is the Biggest Name in Beauty. Can It Hold the Crown?",
+    "link": "https://www.wsj.com/business/retail/sephora-stores-lvmh-strategy-fenty-rhode-da0fb758?mod=pls_whats_news_us_business_f"
+  }
+]
