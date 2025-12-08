@@ -1,10 +1,17 @@
 [
   {
-    "score": 95,
+    "score": 112,
     "pubdate": "2025-12-08-02-40-46 +0000",
     "source": "wapo",
     "headline": "Trump says he will be ‘involved’ in vetting Netflix-Warner deal",
     "link": "https://www.washingtonpost.com/business/2025/12/07/netflix-warner-bros-discovery-trump/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-12-07-21-28-29 +0000",
+    "source": "nyt",
+    "headline": "Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies",
+    "link": "https://www.nytimes.com/2025/12/07/us/politics/supreme-court-trump-independent-agencies.html"
   },
   {
     "score": 55,
@@ -14,45 +21,38 @@
     "link": "https://www.wsj.com/economy/trade/chinas-exports-rebound-in-november-97f24e06"
   },
   {
-    "score": 48,
-    "pubdate": "2025-12-08-11-57-24 +0000",
+    "score": 50,
+    "pubdate": "2025-12-08-14-28-26 +0000",
     "source": "nyt",
     "headline": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
     "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-12-07-17-45-11 +0000",
-    "source": "bbc",
-    "headline": "Hong Kong votes in election as city mourns deadly fire",
-    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 46,
+    "score": 50,
     "pubdate": "2025-12-08-09-28-00 +0000",
     "source": "wsj",
     "headline": "Japan Is Out Spending. Bond Markets Seem Nervous About Picking Up the Tab.",
     "link": "https://www.wsj.com/economy/japan-is-out-spending-bond-markets-seem-nervous-about-picking-up-the-tab-050bedce"
   },
   {
-    "score": 43,
-    "pubdate": "2025-12-07-21-28-29 +0000",
-    "source": "nyt",
-    "headline": "Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies",
-    "link": "https://www.nytimes.com/2025/12/07/us/politics/supreme-court-trump-independent-agencies.html"
+    "score": 49,
+    "pubdate": "2025-12-07-17-45-11 +0000",
+    "source": "bbc",
+    "headline": "Hong Kong votes in election as city mourns deadly fire",
+    "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
+    "score": 42,
     "pubdate": "2025-12-08-08-38-09 +0000",
     "source": "bbc",
     "headline": "Watch: Syrians share their thoughts one year on from the fall of Assad",
     "link": "https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 39,
-    "pubdate": "2025-12-08-12-03-27 +0000",
+    "score": 40,
+    "pubdate": "2025-12-08-14-27-25 +0000",
     "source": "nyt",
-    "headline": "Zelensky to Meet With European Leaders as Ukraine Peace Talks Drag On",
+    "headline": "Zelensky Meets With European Leaders as Ukraine Peace Talks Drag On",
     "link": "https://www.nytimes.com/2025/12/08/world/europe/zelensky-ukraine-war-peace-talks-europe-london.html"
   },
   {
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2025/12/07/world-news/water-leak-at-louvre-damages-books-at-egyptian-antiquities-department/"
   },
   {
-    "score": 36,
-    "pubdate": "2025-12-07-23-42-58 +0000",
-    "source": "nypost",
-    "headline": "NYC’s Eric Adams gives Zohran Mamdani reality check on plan to stop clearing homeless tent cities",
-    "link": "https://nypost.com/2025/12/07/us-news/nycs-eric-adams-gives-zohran-mamdani-reality-check-on-plan-to-stop-clearing-homeless-tent-cities/"
+    "score": 35,
+    "pubdate": "2025-12-08-14-51-00 +0000",
+    "source": "wsj",
+    "headline": "Berkshire’s Geico Boss Todd Combs Leaves for JPMorgan Ahead of Buffett Retirement",
+    "link": "https://www.wsj.com/business/c-suite/berkshire-hathaway-shuffles-top-ranks-in-runup-to-warren-buffetts-retirement-6ab1eaeb?mod=pls_whats_news_us_business_f"
   }
 ]
