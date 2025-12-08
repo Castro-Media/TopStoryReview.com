@@ -1,10 +1,17 @@
 [
   {
-    "score": 382,
+    "score": 379,
     "pubdate": "2025-12-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pardon of a sports executive wiped away a case that Trump’s antitrust chief had said fleeced Texas taxpayers",
     "link": "https://www.wsj.com/politics/policy/trump-ticket-prices-pardon-tim-leiweke-4b33a540"
+  },
+  {
+    "score": 221,
+    "pubdate": "2025-12-05-12-33-52 +0000",
+    "source": "latimes",
+    "headline": "Netflix agrees to buy Warner Bros. in an $82.7-billion deal that will transform Hollywood",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-05/netflix-prevails-in-warner-bros-discovery-bidding-opponents"
   },
   {
     "score": 207,
@@ -14,28 +21,21 @@
     "link": "https://www.wsj.com/politics/national-security/trumps-new-national-security-strategy-takes-aim-at-europe-22f03581"
   },
   {
-    "score": 203,
-    "pubdate": "2025-12-05-12-33-52 +0000",
-    "source": "latimes",
-    "headline": "Netflix agrees to buy Warner Bros. in an $82.7-billion deal that will transform Hollywood",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-05/netflix-prevails-in-warner-bros-discovery-bidding-opponents"
-  },
-  {
-    "score": 140,
+    "score": 136,
     "pubdate": "2025-12-06-23-09-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat",
     "link": "https://www.wsj.com/politics/national-security/hegseth-defends-pentagon-strike-on-drug-boat-survivors-9ed69fe2"
   },
   {
-    "score": 113,
+    "score": 116,
     "pubdate": "2025-12-07-17-45-11 +0000",
     "source": "bbc",
     "headline": "Hong Kong votes in election as city mourns deadly fire",
     "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 108,
+    "score": 110,
     "pubdate": "2025-12-05-00-07-11 +0000",
     "source": "bbc",
     "headline": "Watch: Awkward tensions test US, Mexico and Canada ahead of World Cup",
@@ -43,30 +43,30 @@
   },
   {
     "score": 101,
-    "pubdate": "2025-12-06-15-08-31 +0000",
-    "source": "bbc",
-    "headline": "Bethlehem Christmas tree lights up for first time since start of Gaza war",
-    "link": "https://www.bbc.com/news/articles/ce86z84e947o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 98,
     "pubdate": "2025-12-08-13-20-35 +0000",
     "source": "nypost",
-    "headline": "‘Disappointed’ Trump declared Zelensky ‘hasn’t yet read’ peace proposal — as prez’s son suggests he may walk away from Ukraine",
+    "headline": "‘Disappointed’ Trump claims Zelensky ‘hasn’t yet read’ peace proposal — as prez’s son suggests he may walk away from Ukraine",
     "link": "https://nypost.com/2025/12/08/world-news/disappointed-trump-declared-zelensky-hasnt-yet-read-peace-proposal/"
   },
   {
-    "score": 92,
-    "pubdate": "2025-12-07-21-28-29 +0000",
+    "score": 100,
+    "pubdate": "2025-12-08-04-15-18 +0000",
     "source": "nyt",
-    "headline": "Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies",
-    "link": "https://www.nytimes.com/2025/12/07/us/politics/supreme-court-trump-independent-agencies.html"
+    "headline": "China’s Trade Surplus Climbs Past $1 Trillion for First Time",
+    "link": "https://www.nytimes.com/2025/12/07/business/china-trade-surplus.html"
   },
   {
-    "score": 91,
+    "score": 89,
     "pubdate": "2025-12-06-18-40-48 +0000",
     "source": "nypost",
     "headline": "California Gov. Gavin Newsom grosses out internet with bizarre AI reaction to NY Post ball-busting",
     "link": "https://nypost.com/2025/12/06/us-news/gavin-newsom-roasted-for-bizarre-reaction-post-to-viral-testicle-crushing-sitting-pose/"
+  },
+  {
+    "score": 86,
+    "pubdate": "2025-12-03-19-37-05 +0000",
+    "source": "latimes",
+    "headline": "Former sheriff's deputy killed after police chase, accused of stabbing 11-year-old son to death",
+    "link": "https://www.latimes.com/california/story/2025-12-03/former-sheriffs-deputy-killed-after-police-chase-accused-of-killing-11-year-old-son"
   }
 ]
