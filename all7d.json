@@ -1,51 +1,195 @@
 [
   {
+    "headline": "Euro Rises After ECB’s Schnabel Signals Next Move Could Be a Rate Rise",
+    "link": "https://www.wsj.com/finance/commodities-futures/singapore-dollar-consolidates-eyes-on-feds-rate-decision-06d57de5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-08-08-56-00 +0000"
+  },
+  {
+    "headline": "Thailand Launches Airstrikes on Cambodia in New Wave of Violence",
+    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
+    "source": "nyt",
+    "pubdate": "2025-12-08-08-52-17 +0000"
+  },
+  {
+    "headline": "Thailand Launches Airstrikes on Cambodia in New Wave of Violence",
+    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
+    "source": "nyt",
+    "pubdate": "2025-12-08-08-52-17 +0000"
+  },
+  {
+    "headline": "Marjorie Taylor Greene spars with ‘60 Minutes’ host Lesley Stahl over ‘accusatory’ questions",
+    "link": "https://nypost.com/2025/12/08/us-news/marjorie-taylor-greene-spars-with-60-minutes-host-lesley-stahl-over-accusatory-questions/",
+    "source": "nypost",
+    "pubdate": "2025-12-08-08-51-59 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Nasdaq Futures Lead Gains; Indexes Eye Records",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-08-2025?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-08-08-32-30 +0000"
+  },
+  {
+    "headline": "One hundred abducted schoolchildren released in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-08-27-57 +0000"
+  },
+  {
+    "headline": "One hundred abducted schoolchildren released in Nigeria",
+    "link": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-08-27-57 +0000"
+  },
+  {
+    "headline": "China’s Exports Bounce Back, Trade Surplus Powers Past $1 Trillion",
+    "link": "https://www.wsj.com/economy/trade/chinas-exports-rebound-in-november-97f24e06",
+    "source": "wsj",
+    "pubdate": "2025-12-08-08-23-00 +0000"
+  },
+  {
+    "headline": "Running Out of Time, Republicans in Congress Still Lack a Health Plan",
+    "link": "https://www.nytimes.com/2025/12/05/us/politics/republicans-congress-health-care.html",
+    "source": "nyt",
+    "pubdate": "2025-12-08-08-16-40 +0000"
+  },
+  {
+    "headline": "German 10-Year Bund Yield Rises to Highest Since March",
+    "link": "https://www.wsj.com/finance/investing/ten-year-jgb-yield-declines-after-lackluster-japan-gdp-data-1d2d1646?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-08-08-09-00 +0000"
+  },
+  {
+    "headline": "Woman who blackmailed Son Heung-min gets four years in jail",
+    "link": "https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-08-03-10 +0000"
+  },
+  {
+    "headline": "Woman who blackmailed Son Heung-min gets four years in jail",
+    "link": "https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-08-03-10 +0000"
+  },
+  {
+    "headline": "Australian mom on life support after she ‘started to deteriorate’ following cosmetic procedure in Vietnam",
+    "link": "https://nypost.com/2025/12/08/world-news/australian-mom-on-life-support-after-she-started-to-deteriorate-following-cosmetic-procedure-in-vietnam/",
+    "source": "nypost",
+    "pubdate": "2025-12-08-07-57-44 +0000"
+  },
+  {
+    "headline": "Love Letters From a Chinese Jail",
+    "link": "https://www.nytimes.com/video/world/asia/100000010535060/gao-zhen-china-artist-detained.html",
+    "source": "nyt",
+    "pubdate": "2025-12-08-07-54-56 +0000"
+  },
+  {
+    "headline": "Love Letters From a Chinese Jail",
+    "link": "https://www.nytimes.com/video/world/asia/100000010535060/gao-zhen-china-artist-detained.html",
+    "source": "nyt",
+    "pubdate": "2025-12-08-07-54-56 +0000"
+  },
+  {
+    "headline": "Repsol, HitecVision to Merge JV With TotalEnergies UK’s Upstream Business",
+    "link": "https://www.wsj.com/business/c-suite/repsol-hitecvision-to-merge-jv-with-totalenergies-uk-upstream-business-09d48733?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-08-07-49-00 +0000"
+  },
+  {
+    "headline": "Repsol, HitecVision to Merge JV With TotalEnergies UK’s Upstream Business",
+    "link": "https://www.wsj.com/business/c-suite/repsol-hitecvision-to-merge-jv-with-totalenergies-uk-upstream-business-09d48733?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-08-07-49-00 +0000"
+  },
+  {
+    "headline": "German Industrial Output Accelerates Again",
+    "link": "https://www.wsj.com/world/europe/german-industrial-production-accelerates-further-d5ec849d",
+    "source": "wsj",
+    "pubdate": "2025-12-08-07-47-00 +0000"
+  },
+  {
+    "headline": "German Industrial Output Accelerates Again",
+    "link": "https://www.wsj.com/world/europe/german-industrial-production-accelerates-further-d5ec849d",
+    "source": "wsj",
+    "pubdate": "2025-12-08-07-47-00 +0000"
+  },
+  {
+    "headline": "Two men slashed by machete-wielding attacker at NYC subway station: cops",
+    "link": "https://nypost.com/2025/12/08/us-news/two-men-slashed-by-machete-wielding-attacker-at-nyc-subway-station/",
+    "source": "nypost",
+    "pubdate": "2025-12-08-07-40-06 +0000"
+  },
+  {
     "headline": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
     "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2025-12-08-06-54-24 +0000"
+    "pubdate": "2025-12-08-07-31-03 +0000"
   },
   {
-    "headline": "Kloeckner & Co Confirms Takeover Talks With Worthington Steel",
+    "headline": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
+    "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-07-31-03 +0000"
+  },
+  {
+    "headline": "Beloved Tennessee college professor found dead beside loaded gun — as armed man waited nearby",
+    "link": "https://nypost.com/2025/12/08/us-news/tennessee-college-professor-ashleigh-mckinzie-found-dead-beside-loaded-gun-as-armed-man-waited-nearby/",
+    "source": "nypost",
+    "pubdate": "2025-12-08-07-25-06 +0000"
+  },
+  {
+    "headline": "Man found guilty of Australian beach murder after hiding in India for years",
+    "link": "https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-07-08-13 +0000"
+  },
+  {
+    "headline": "Man found guilty of Australian beach murder after hiding in India for years",
+    "link": "https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-07-08-13 +0000"
+  },
+  {
+    "headline": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
+    "link": "https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-07-03-46 +0000"
+  },
+  {
+    "headline": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
+    "link": "https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-07-03-46 +0000"
+  },
+  {
+    "headline": "Trump Hosts the Kennedy Center Honors, Breaking Tradition",
+    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html",
+    "source": "nyt",
+    "pubdate": "2025-12-08-07-03-19 +0000"
+  },
+  {
+    "headline": "Trump Hosts the Kennedy Center Honors, Breaking Tradition",
+    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html",
+    "source": "nyt",
+    "pubdate": "2025-12-08-07-03-19 +0000"
+  },
+  {
+    "headline": "German Shipbuilder TKMS Reports Rise in Sales, Earnings Fueled by Europe’s Defense Spending",
+    "link": "https://www.wsj.com/business/earnings/german-shipbuilder-tkms-reports-rise-in-sales-earnings-fueled-by-europes-defense-spending-1abf72a1?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-08-07-01-00 +0000"
+  },
+  {
+    "headline": "Kloeckner & Co in Takeover Talks With Worthington Steel",
     "link": "https://www.wsj.com/business/kloeckner-co-confirms-takeover-talks-with-worthington-steel-36ffe57b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-08-06-51-00 +0000"
-  },
-  {
-    "headline": "U.S. Treasury Yields Edge Up as Attention Turns to Fed Meeting",
-    "link": "https://www.wsj.com/finance/investing/ten-year-jgb-yield-declines-after-lackluster-japan-gdp-data-1d2d1646?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-08-06-44-00 +0000"
-  },
-  {
-    "headline": "Trump Hosts the Kennedy Center Honors, Breaking Tradition",
-    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html",
-    "source": "nyt",
-    "pubdate": "2025-12-08-06-39-42 +0000"
-  },
-  {
-    "headline": "Trump Hosts the Kennedy Center Honors, Breaking Tradition",
-    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html",
-    "source": "nyt",
-    "pubdate": "2025-12-08-06-39-42 +0000"
   },
   {
     "headline": "Former Georgia beauty queen Trinity Poague breaks down after being sentenced in murder of ex-boyfriend’s toddler son",
     "link": "https://nypost.com/2025/12/08/us-news/former-georgia-beauty-queen-trinity-poague-breaks-down-after-being-sentenced-in-murder-of-ex-boyfriends-toddler-son/",
     "source": "nypost",
     "pubdate": "2025-12-08-06-30-27 +0000"
-  },
-  {
-    "headline": "Thailand Launches Airstrikes on Cambodia in New Wave of Violence",
-    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
-    "source": "nyt",
-    "pubdate": "2025-12-08-06-27-06 +0000"
-  },
-  {
-    "headline": "Thailand Launches Airstrikes on Cambodia in New Wave of Violence",
-    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html",
-    "source": "nyt",
-    "pubdate": "2025-12-08-06-27-06 +0000"
   },
   {
     "headline": "At vigil for slain S.F. hospital worker Alberto Rangel, fond memories and anger",
@@ -78,6 +222,12 @@
     "pubdate": "2025-12-08-06-00-48 +0000"
   },
   {
+    "headline": "Minister admits sharp rise needed to hit 1.5m housing target",
+    "link": "https://www.bbc.com/news/articles/c05867zv6q8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-06-00-04 +0000"
+  },
+  {
     "headline": "Firefighter Is Killed as Multiple Wildfires Burn in Australia",
     "link": "https://www.nytimes.com/2025/12/08/world/australia/firefighter-dies-bushfires.html",
     "source": "nyt",
@@ -108,22 +258,16 @@
     "pubdate": "2025-12-08-05-30-38 +0000"
   },
   {
-    "headline": "China’s Exports Bounce Back in Sign of Tariff Resilience",
-    "link": "https://www.wsj.com/economy/trade/chinas-exports-rebound-in-november-97f24e06",
-    "source": "wsj",
-    "pubdate": "2025-12-08-05-11-00 +0000"
-  },
-  {
-    "headline": "China’s Exports Bounce Back in Sign of Tariff Resilience",
-    "link": "https://www.wsj.com/economy/trade/chinas-exports-rebound-in-november-97f24e06",
-    "source": "wsj",
-    "pubdate": "2025-12-08-05-11-00 +0000"
-  },
-  {
     "headline": "The New Syria",
     "link": "https://www.nytimes.com/2025/12/07/world/syria-anniversary-assad-benin-trump.html",
     "source": "nyt",
     "pubdate": "2025-12-08-05-08-17 +0000"
+  },
+  {
+    "headline": "White South Africans divided on US refugee offer",
+    "link": "https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-05-05-22 +0000"
   },
   {
     "headline": "White South Africans divided on US refugee offer",
@@ -240,6 +384,12 @@
     "pubdate": "2025-12-08-04-03-33 +0000"
   },
   {
+    "headline": "Zelensky due at Downing Street for high-level Ukraine talks",
+    "link": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-04-03-33 +0000"
+  },
+  {
     "headline": "Israel Closes In on Hamas Fighters Trapped in Tunnels, Testing Cease-Fire",
     "link": "https://www.wsj.com/world/middle-east/israel-closes-in-on-hamas-fighters-trapped-in-tunnels-testing-cease-fire-4d529af2",
     "source": "wsj",
@@ -282,10 +432,16 @@
     "pubdate": "2025-12-08-03-15-31 +0000"
   },
   {
-    "headline": "Singapore Dollar Consolidates; Eyes on Fed’s Rate Decision",
-    "link": "https://www.wsj.com/finance/commodities-futures/singapore-dollar-consolidates-eyes-on-feds-rate-decision-06d57de5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-08-03-13-00 +0000"
+    "headline": "Water leak in Louvre damages hundreds of books",
+    "link": "https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-03-07-17 +0000"
+  },
+  {
+    "headline": "Water leak in Louvre damages hundreds of books",
+    "link": "https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-03-07-17 +0000"
   },
   {
     "headline": "IBM Nears Roughly $11 Billion Deal for Confluent",
@@ -304,6 +460,12 @@
     "link": "https://nypost.com/2025/12/07/us-news/more-than-800-holiday-care-packages-mailed-to-us-military-members-stationed-overseas-returned-to-nonprofit/",
     "source": "nypost",
     "pubdate": "2025-12-08-02-53-19 +0000"
+  },
+  {
+    "headline": "Trump lauds 'good relationship' with Carney but won't say if they'll restart trade talks",
+    "link": "https://www.cbc.ca/news/politics/trump-canada-trade-talks-9.7006620?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-08-02-52-09 +0000"
   },
   {
     "headline": "Trump lauds 'good relationship' with Carney but won't say if they'll restart trade talks",
@@ -436,6 +598,12 @@
     "link": "https://nypost.com/2025/12/07/us-news/wild-new-bodycam-footage-captures-moment-cops-shoot-and-kill-gun-waving-maniac-on-seattle-street/",
     "source": "nypost",
     "pubdate": "2025-12-08-00-36-53 +0000"
+  },
+  {
+    "headline": "Wicked or Avatar? Hollywood gears up for Golden Globe nominations",
+    "link": "https://www.bbc.com/news/articles/c4gjg6wzzx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-08-00-30-22 +0000"
   },
   {
     "headline": "Dramatic video shows NYPD officers jumping into ‘freezing water’ to rescue man struggling in East River",
@@ -592,6 +760,18 @@
     "link": "https://nypost.com/2025/12/07/world-news/doc-who-fled-china-hides-in-us-over-fears-communists-want-revenge-on-covid-lab-theories/",
     "source": "nypost",
     "pubdate": "2025-12-07-22-36-58 +0000"
+  },
+  {
+    "headline": "Government promises 50,000 new apprenticeships in youth employment push",
+    "link": "https://www.bbc.com/news/articles/cvgkpzpy1zno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-07-22-30-07 +0000"
+  },
+  {
+    "headline": "Government promises 50,000 new apprenticeships in youth employment push",
+    "link": "https://www.bbc.com/news/articles/cvgkpzpy1zno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-07-22-30-07 +0000"
   },
   {
     "headline": "President Trump criticized as disloyal an indicted congressman from Texas he pardoned last week after the lawmaker filed for re-election as a Democrat",
@@ -760,24 +940,6 @@
     "link": "https://www.nytimes.com/2025/12/07/us/politics/biden-immigration-trump.html",
     "source": "nyt",
     "pubdate": "2025-12-07-21-24-32 +0000"
-  },
-  {
-    "headline": "Hawaii’s Kīlauea volcano destroys camera capturing live video of 38th eruption of past year",
-    "link": "https://nypost.com/2025/12/07/us-news/hawaiis-kilauea-volcano-destroys-camera-capturing-live-video-of-38th-eruption-of-past-year/",
-    "source": "nypost",
-    "pubdate": "2025-12-07-21-23-01 +0000"
-  },
-  {
-    "headline": "Food influencer Michael Duarte shared about past mental health struggles and rehab just days before he was killed by cops",
-    "link": "https://nypost.com/2025/12/07/us-news/food-influencer-michael-duarte-shared-about-past-mental-health-struggles-and-rehab-just-days-before-he-was-killed-by-cops/",
-    "source": "nypost",
-    "pubdate": "2025-12-07-21-18-37 +0000"
-  },
-  {
-    "headline": "Female customers at ritzy NYC eatery report blacking out — feeling drugged after drinks at Tribeca spot",
-    "link": "https://nypost.com/2025/12/07/us-news/female-customers-at-ritzy-nyc-eatery-report-blacking-out-feeling-drugged-after-drinks-at-tribeca-spot/",
-    "source": "nypost",
-    "pubdate": "2025-12-07-21-16-54 +0000"
   },
   {
     "headline": "Child deaths under 5 believed to be rising for first time in decades",
@@ -1356,14 +1518,8 @@
     "pubdate": "2025-12-07-11-00-39 +0000"
   },
   {
-    "headline": "Online child safety advocates urge California lawmakers to increase protections",
-    "link": "https://www.latimes.com/california/story/2025-12-07/online-child-safety-advocates-urge-california-to-increase-protections",
-    "source": "latimes",
-    "pubdate": "2025-12-07-11-00-00 +0000"
-  },
-  {
-    "headline": "Pacific Palisades residents preserve community with block party",
-    "link": "https://www.latimes.com/california/story/2025-12-07/pacific-palisades-residents-preserve-community-with-block-party",
+    "headline": "Chabria: Is RFK Jr. better on women's health than Newsom? We're about to find out",
+    "link": "https://www.latimes.com/politics/story/2025-12-07/chabria-column-rfk-jr-gavin-newsom-halle-berry-womens-health",
     "source": "latimes",
     "pubdate": "2025-12-07-11-00-00 +0000"
   },
@@ -1374,8 +1530,14 @@
     "pubdate": "2025-12-07-11-00-00 +0000"
   },
   {
-    "headline": "Chabria: Is RFK Jr. better on women's health than Newsom? We're about to find out",
-    "link": "https://www.latimes.com/politics/story/2025-12-07/chabria-column-rfk-jr-gavin-newsom-halle-berry-womens-health",
+    "headline": "Online child safety advocates urge California lawmakers to increase protections",
+    "link": "https://www.latimes.com/california/story/2025-12-07/online-child-safety-advocates-urge-california-to-increase-protections",
+    "source": "latimes",
+    "pubdate": "2025-12-07-11-00-00 +0000"
+  },
+  {
+    "headline": "Pacific Palisades residents preserve community with block party",
+    "link": "https://www.latimes.com/california/story/2025-12-07/pacific-palisades-residents-preserve-community-with-block-party",
     "source": "latimes",
     "pubdate": "2025-12-07-11-00-00 +0000"
   },
@@ -1782,12 +1944,6 @@
     "pubdate": "2025-12-07-00-14-57 +0000"
   },
   {
-    "headline": "Running Out of Time, Republicans in Congress Still Lack a Health Plan",
-    "link": "https://www.nytimes.com/2025/12/05/us/politics/republicans-congress-health-care.html",
-    "source": "nyt",
-    "pubdate": "2025-12-07-00-12-53 +0000"
-  },
-  {
     "headline": "Man holding toddler is shot dead by sheriff's deputies after standoff in Paramount",
     "link": "https://www.latimes.com/california/story/2025-12-06/man-holding-toddler-is-shot-dead-by-sheriffs-deputies-in-paramount",
     "source": "latimes",
@@ -2044,12 +2200,6 @@
     "link": "https://www.nytimes.com/2025/12/06/world/americas/venezuela-peace-prize-norway.html",
     "source": "nyt",
     "pubdate": "2025-12-06-18-35-36 +0000"
-  },
-  {
-    "headline": "Deadly Hong Kong fire came after residents were falsely told contractor had clean safety record",
-    "link": "https://nypost.com/2025/12/06/world-news/hong-kong-fire-followed-contractor-safety-breaches-and-a-residents-revolt/",
-    "source": "nypost",
-    "pubdate": "2025-12-06-18-10-02 +0000"
   },
   {
     "headline": "Hong Kong Authorities Summon Foreign Media to Criticize Fire Coverage",
@@ -2544,12 +2694,6 @@
     "pubdate": "2025-12-06-04-00-00 +0000"
   },
   {
-    "headline": "US panel votes to end recommending hepatitis B vaccine for all newborns",
-    "link": "https://www.bbc.com/news/articles/cwypwznx9kqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-06-02-57-36 +0000"
-  },
-  {
     "headline": "How a Netflix-Warner Deal Would Change Everything in Hollywood—Again",
     "link": "https://www.wsj.com/business/media/netflix-warner-bros-discovery-deal-hollywood-eeed1e52?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -2602,12 +2746,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-05/pet-owners-find-grisly-scene-inside-san-marcos-pet-crematory-owner-arrested",
     "source": "latimes",
     "pubdate": "2025-12-06-01-59-08 +0000"
-  },
-  {
-    "headline": "How the White House account of September boat strike has evolved",
-    "link": "https://www.bbc.com/news/articles/c4gk7eg83eno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-06-01-57-04 +0000"
   },
   {
     "headline": "How the White House account of September boat strike has evolved",
@@ -3132,12 +3270,6 @@
     "pubdate": "2025-12-05-19-49-00 +0000"
   },
   {
-    "headline": "US judge orders unsealing of court records from abandoned Jeffrey Epstein case",
-    "link": "https://www.bbc.com/news/articles/c4ge8p0n0zko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-19-44-24 +0000"
-  },
-  {
     "headline": "Judge Orders Release of Epstein Florida Grand-Jury Transcripts",
     "link": "https://www.wsj.com/politics/policy/judge-orders-release-of-epstein-florida-grand-jury-transcripts-cdb46b8d",
     "source": "wsj",
@@ -3160,12 +3292,6 @@
     "link": "https://www.bbc.com/news/articles/ckgkjrrk2w8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-05-19-26-30 +0000"
-  },
-  {
-    "headline": "England start World Cup against Croatia, Scotland to face Brazil",
-    "link": "https://www.bbc.com/sport/football/articles/c7vmr1mmve3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-19-16-19 +0000"
   },
   {
     "headline": "Stampeding Turtles Might Have Made Fossil Tracks in Italian Cliffs",
@@ -3330,12 +3456,6 @@
     "pubdate": "2025-12-05-18-05-29 +0000"
   },
   {
-    "headline": "President Trump wins inaugural Fifa Peace Prize",
-    "link": "https://www.bbc.com/sport/football/articles/cy5gw0wv5zqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-18-04-40 +0000"
-  },
-  {
     "headline": "Four European Countries Boycott Eurovision Song Contest Over Israel",
     "link": "https://www.wsj.com/world/europe/four-european-countries-boycott-eurovision-song-contest-over-israel-892c2689",
     "source": "wsj",
@@ -3486,22 +3606,10 @@
     "pubdate": "2025-12-05-17-00-00 +0000"
   },
   {
-    "headline": "They contracted hepatitis before the vaccine was given at birth - now the shot may be delayed again",
-    "link": "https://www.bbc.com/news/articles/c1m8gx545k5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-16-58-40 +0000"
-  },
-  {
     "headline": "New York Times Escalates Battle Against Perplexity With New Lawsuit",
     "link": "https://www.wsj.com/business/media/new-york-times-escalates-battle-against-perplexity-with-new-lawsuit-1f9ba186?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-05-16-44-00 +0000"
-  },
-  {
-    "headline": "The Trump Tracker: What the President Has Done So Far",
-    "link": "https://www.wsj.com/politics/policy/donald-trump-tracker-executive-orders-tariffs-list-a30c92e2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-05-16-40-00 +0000"
   },
   {
     "headline": "What has Trump done as president so far? The Wall Street Journal is tracking his biggest moves to reshape the federal government. See the full list.",
@@ -3574,12 +3682,6 @@
     "link": "https://www.bbc.com/news/articles/c77310e4x8vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-05-15-47-51 +0000"
-  },
-  {
-    "headline": "On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern",
-    "link": "https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html",
-    "source": "nyt",
-    "pubdate": "2025-12-05-15-44-31 +0000"
   },
   {
     "headline": "On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern",
@@ -3696,18 +3798,6 @@
     "pubdate": "2025-12-05-14-54-43 +0000"
   },
   {
-    "headline": "Namibia loses bid to overturn ban on rhino horn trade",
-    "link": "https://www.bbc.com/news/articles/c30j7q6qjp9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-14-24-32 +0000"
-  },
-  {
-    "headline": "Olympian and other Eritreans freed after 18 years without trial, relatives tell the BBC",
-    "link": "https://www.bbc.com/news/articles/cx2500jkd41o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-14-11-51 +0000"
-  },
-  {
     "headline": "Martin Lewis on what people misunderstand about credit scores",
     "link": "https://www.bbc.com/news/videos/cd9z7dnz21do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3816,12 +3906,6 @@
     "pubdate": "2025-12-05-12-18-00 +0000"
   },
   {
-    "headline": "Trump administration says Europe faces 'civilisational erasure'",
-    "link": "https://www.bbc.com/news/articles/c04vdengk3do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-12-07-34 +0000"
-  },
-  {
     "headline": "After years of alleged neglect, their Mission building caught fire. Will suing help them return?",
     "link": "https://missionlocal.org/2025/12/sf-mission-evictions-fire-tenants/",
     "source": "missionlocal",
@@ -3882,14 +3966,14 @@
     "pubdate": "2025-12-05-11-00-00 +0000"
   },
   {
-    "headline": "Robert Docter, L.A. schools leader who opposed spanking, fought for integration, dies at 97",
-    "link": "https://www.latimes.com/california/story/2025-12-05/la-schools-docter-dies-at-97-won-on-spanking-lost-on-integration",
+    "headline": "'A bit like poker': California's wet winter brings La Niña, El Niño confusion",
+    "link": "https://www.latimes.com/california/story/2025-12-05/la-nina-socal-slammed-by-record-start-to-rainy-season",
     "source": "latimes",
     "pubdate": "2025-12-05-11-00-00 +0000"
   },
   {
-    "headline": "'A bit like poker': California's wet winter brings La Niña, El Niño confusion",
-    "link": "https://www.latimes.com/california/story/2025-12-05/la-nina-socal-slammed-by-record-start-to-rainy-season",
+    "headline": "Robert Docter, L.A. schools leader who opposed spanking, fought for integration, dies at 97",
+    "link": "https://www.latimes.com/california/story/2025-12-05/la-schools-docter-dies-at-97-won-on-spanking-lost-on-integration",
     "source": "latimes",
     "pubdate": "2025-12-05-11-00-00 +0000"
   },
@@ -4068,12 +4152,6 @@
     "pubdate": "2025-12-05-04-56-16 +0000"
   },
   {
-    "headline": "Taiwan bans Chinese app RedNote over fraud concerns",
-    "link": "https://www.bbc.com/news/articles/c2dz0l4j9zeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-04-56-16 +0000"
-  },
-  {
     "headline": "Deadly Attacks in Gaza Test Cease-Fire as Body of Another Captive Is Returned",
     "link": "https://www.nytimes.com/2025/12/04/world/middleeast/gaza-strikes-ceasefire.html",
     "source": "nyt",
@@ -4140,12 +4218,6 @@
     "pubdate": "2025-12-05-02-56-39 +0000"
   },
   {
-    "headline": "US Supreme Court allows Texas to use redrawn voting maps in midterms",
-    "link": "https://www.bbc.com/news/articles/cvg1v21p3ydo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-02-55-53 +0000"
-  },
-  {
     "headline": "A Sprawling Fraud Scandal Puts Minnesota’s Somali Community in the Spotlight",
     "link": "https://www.wsj.com/us-news/law/minnesota-fraud-trump-somali-community-8433f648",
     "source": "wsj",
@@ -4186,12 +4258,6 @@
     "link": "https://www.bbc.com/news/articles/czrkymn8l2yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-05-02-09-09 +0000"
-  },
-  {
-    "headline": "New Orleans residents in fear as immigration crackdown descends on their city",
-    "link": "https://www.bbc.com/news/articles/c1w93r2zn7yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-02-01-23 +0000"
   },
   {
     "headline": "How the Unruly Black Market for High-School Athletes Tore a Family Apart",
@@ -4368,12 +4434,6 @@
     "pubdate": "2025-12-04-23-27-00 +0000"
   },
   {
-    "headline": "Calgary-Banff rail idea submitted to Major Projects Office",
-    "link": "https://www.cbc.ca/news/canada/calgary/calgary-to-banff-rail-project-federal-funding-9.7003563?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-04-23-23-28 +0000"
-  },
-  {
     "headline": "Ottawa says it's working on long-term fix for CRA as 'Band-Aid' plan wraps",
     "link": "https://www.cbc.ca/news/politics/government-long-term-plan-cra-9.7003754?cmp=rss",
     "source": "cbc",
@@ -4402,12 +4462,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-04/fireworks-explosion-kills-teen-in-south-los-angeles-officials-say",
     "source": "latimes",
     "pubdate": "2025-12-04-22-55-59 +0000"
-  },
-  {
-    "headline": "Boat strike briefings help Hegseth - but shipwreck video release may hurt",
-    "link": "https://www.bbc.com/news/articles/c62dg3x8931o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-04-22-47-01 +0000"
   },
   {
     "headline": "Senior Irish government figures briefed on drone presence during Zelensky visit",
@@ -4482,12 +4536,6 @@
     "pubdate": "2025-12-04-21-57-55 +0000"
   },
   {
-    "headline": "'Not becoming of a president': Somali-Americans respond to Trump's 'garbage' remarks",
-    "link": "https://www.bbc.com/news/articles/c8dy1613j2ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-04-21-57-55 +0000"
-  },
-  {
     "headline": "Eurovision Is in Turmoil as Israel’s Participation Leads to Boycott",
     "link": "https://www.nytimes.com/2025/12/04/arts/music/eurovision-israel-boycott.html",
     "source": "nyt",
@@ -4524,12 +4572,6 @@
     "pubdate": "2025-12-04-21-37-43 +0000"
   },
   {
-    "headline": "Docusign Lifts Sales View as Subscriptions Grow",
-    "link": "https://www.wsj.com/business/earnings/docusign-lifts-sales-view-as-subscriptions-grow-99005f00?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-04-21-29-00 +0000"
-  },
-  {
     "headline": "Issa will run for reelection in California rather than move to Texas",
     "link": "https://www.latimes.com/politics/story/2025-12-04/issa-california-reelection-rather-than-texas",
     "source": "latimes",
@@ -4552,12 +4594,6 @@
     "link": "https://www.bbc.com/news/articles/c4gk7gz3d1eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-04-21-17-09 +0000"
-  },
-  {
-    "headline": "After Years of Debate, Vatican Says No to Women Deacons, at Least for Now",
-    "link": "https://www.nytimes.com/2025/12/04/world/europe/vatican-pope-women-priests-deacons.html",
-    "source": "nyt",
-    "pubdate": "2025-12-04-21-12-20 +0000"
   },
   {
     "headline": "After Years of Debate, Vatican Says No to Women Deacons, at Least for Now",
@@ -4842,12 +4878,6 @@
     "pubdate": "2025-12-04-15-39-32 +0000"
   },
   {
-    "headline": "Trump and Infantino - too close for comfort?",
-    "link": "https://www.bbc.com/sport/football/articles/c5yjgg0zljro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-04-15-09-38 +0000"
-  },
-  {
     "headline": "Supervisor Alan Wong rose in politics through unions. Now, he’s on thin ice.",
     "link": "https://missionlocal.org/2025/12/sf-district-4-alan-wong-labor-unions/",
     "source": "missionlocal",
@@ -5028,12 +5058,6 @@
     "pubdate": "2025-12-04-10-53-28 +0000"
   },
   {
-    "headline": "Investigation into pre-Budget leaks is under way, MPs told",
-    "link": "https://www.bbc.com/news/articles/c4g9e7wp79zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-04-10-53-28 +0000"
-  },
-  {
     "headline": "The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old",
     "link": "https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -5082,12 +5106,6 @@
     "pubdate": "2025-12-04-08-30-00 +0000"
   },
   {
-    "headline": "U.K. Approves $37 Billion in Funding for Energy Grid",
-    "link": "https://www.wsj.com/business/energy-oil/u-k-approves-37-billion-in-funding-for-energy-grid-31d54abe?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-04-07-52-00 +0000"
-  },
-  {
     "headline": "Is Scottish Labour on the brink of Westminster revolt?",
     "link": "https://www.bbc.com/news/articles/cg7v112p821o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5098,12 +5116,6 @@
     "link": "https://48hills.org/2025/12/screen-grabs-merrily-we-roll-along-rolls-onto-big-screens/",
     "source": "48hills",
     "pubdate": "2025-12-04-05-58-12 +0000"
-  },
-  {
-    "headline": "From Parliament to pantomime: Corbyn's festive crossover",
-    "link": "https://www.bbc.com/news/articles/cp9k2xydzr0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-04-05-57-35 +0000"
   },
   {
     "headline": "BOJ’s Ueda Says Unsure How Many More Rate Hikes He Will Make",
@@ -5128,12 +5140,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-03/protest-at-koreatown-temple-ends-in-arrests-hate-accusations",
     "source": "latimes",
     "pubdate": "2025-12-04-04-45-42 +0000"
-  },
-  {
-    "headline": "Labour explored backing assisted dying before election",
-    "link": "https://www.bbc.com/news/articles/c87lje0gpnqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-04-04-39-01 +0000"
   },
   {
     "headline": "5 Takeaways From the 2025 DealBook Summit",
@@ -5176,18 +5182,6 @@
     "link": "https://www.wsj.com/us-news/law/trump-pardons-texas-democrat-indicted-on-bribery-charges-f14dff50",
     "source": "wsj",
     "pubdate": "2025-12-04-03-12-00 +0000"
-  },
-  {
-    "headline": "Prospect of RBA Rate Hike Is Being Kicked Around",
-    "link": "https://www.wsj.com/articles/prospect-of-rba-rate-hike-is-being-kicked-around-fee2d047",
-    "source": "wsj",
-    "pubdate": "2025-12-04-03-08-00 +0000"
-  },
-  {
-    "headline": "Melbourne ex-childcare worker charged with more child rape offences",
-    "link": "https://www.bbc.com/news/articles/cy0pjkj51nzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-04-03-00-08 +0000"
   },
   {
     "headline": "Wall Street Wants In on the ‘Trump Accounts’ for Babies",
@@ -5352,12 +5346,6 @@
     "pubdate": "2025-12-03-22-47-24 +0000"
   },
   {
-    "headline": "Lib Dems call for farming equivalent of Teach First scheme",
-    "link": "https://www.bbc.com/news/articles/cx2gq5pddqgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-03-22-33-10 +0000"
-  },
-  {
     "headline": "Veteran ad executive installed as BET president in Paramount shake-up",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-03/bet-network-president-louis-carr-paramount",
     "source": "latimes",
@@ -5410,12 +5398,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-03/lake-balboa-ois-fight",
     "source": "latimes",
     "pubdate": "2025-12-03-21-27-32 +0000"
-  },
-  {
-    "headline": "Watch: Newly released video shows Jeffrey Epstein's private island home",
-    "link": "https://www.bbc.com/news/videos/ce3wv50dvkwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-03-21-23-14 +0000"
   },
   {
     "headline": "L.A. hip-hop influencer charged with multiple rapes, police seeking more victims",
@@ -5652,14 +5634,14 @@
     "pubdate": "2025-12-03-11-41-00 +0000"
   },
   {
-    "headline": "The Palisades fire was a body blow to this karate teacher. His new dojo helps kids heal",
-    "link": "https://www.latimes.com/california/story/2025-12-03/palisades-fire-karate-teacher-dojo-gerry-blanck",
+    "headline": "Pregnant immigrants held for months in detention despite rules against it",
+    "link": "https://www.latimes.com/california/story/2025-12-03/she-spent-her-pregnancy-in-a-detention-center-shes-not-alone",
     "source": "latimes",
     "pubdate": "2025-12-03-11-00-00 +0000"
   },
   {
-    "headline": "Pregnant immigrants held for months in detention despite rules against it",
-    "link": "https://www.latimes.com/california/story/2025-12-03/she-spent-her-pregnancy-in-a-detention-center-shes-not-alone",
+    "headline": "The Palisades fire was a body blow to this karate teacher. His new dojo helps kids heal",
+    "link": "https://www.latimes.com/california/story/2025-12-03/palisades-fire-karate-teacher-dojo-gerry-blanck",
     "source": "latimes",
     "pubdate": "2025-12-03-11-00-00 +0000"
   },
@@ -6024,12 +6006,6 @@
     "pubdate": "2025-12-02-19-54-00 +0000"
   },
   {
-    "headline": "Reproached by Trump, Netanyahu Is Open to a Syria-Israel Deal—With Caveats",
-    "link": "https://www.wsj.com/world/middle-east/israels-netanyahu-says-syria-deal-is-possible-with-caveat-after-trump-reproach-42687fee",
-    "source": "wsj",
-    "pubdate": "2025-12-02-19-38-00 +0000"
-  },
-  {
     "headline": "Robert Silverstein, who fought City Hall over Hollywood development and won, dies at 57",
     "link": "https://www.latimes.com/california/story/2025-12-02/robert-silverstein-who-fought-city-hall-over-hollywood-development-won-dies-at-57",
     "source": "latimes",
@@ -6108,12 +6084,6 @@
     "pubdate": "2025-12-02-14-00-00 +0000"
   },
   {
-    "headline": "Honduran ex-president Juan Orlando Hernández released from US prison after Trump pardon",
-    "link": "https://www.bbc.com/news/articles/cpvdr8k7xjro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-13-47-34 +0000"
-  },
-  {
     "headline": "UK criticises Gaza aid delays as tents take year to arrive",
     "link": "https://www.bbc.com/news/articles/cqlk663555no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -6144,6 +6114,12 @@
     "pubdate": "2025-12-02-11-00-00 +0000"
   },
   {
+    "headline": "The VA gives a peek into its plan for Trump's Center for Warrior Independence in West LA",
+    "link": "https://www.latimes.com/california/story/2025-12-02/va-has-plan-for-trumps-center-for-warrior-independence-in-west-la",
+    "source": "latimes",
+    "pubdate": "2025-12-02-11-00-00 +0000"
+  },
+  {
     "headline": "State lawmakers targeted a Santa Barbara development. Then came the fallout",
     "link": "https://www.latimes.com/california/story/2025-12-02/santa-barbara-housing-project-monique-limon-exemption",
     "source": "latimes",
@@ -6158,12 +6134,6 @@
   {
     "headline": "Arellano: Trump's message to 'nice' Americans: You're all illegal now",
     "link": "https://www.latimes.com/california/story/2025-12-02/memo-to-nice-americans-youre-all-illegal-now",
-    "source": "latimes",
-    "pubdate": "2025-12-02-11-00-00 +0000"
-  },
-  {
-    "headline": "The VA gives a peek into its plan for Trump's Center for Warrior Independence in West LA",
-    "link": "https://www.latimes.com/california/story/2025-12-02/va-has-plan-for-trumps-center-for-warrior-independence-in-west-la",
     "source": "latimes",
     "pubdate": "2025-12-02-11-00-00 +0000"
   },
@@ -6294,12 +6264,6 @@
     "pubdate": "2025-12-02-02-00-00 +0000"
   },
   {
-    "headline": "India's Supreme Court upholds rights of poorest - but language reveals 'bias', study says",
-    "link": "https://www.bbc.com/news/articles/c30jnp03rm7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-02-01-02-03 +0000"
-  },
-  {
     "headline": "Trump Becomes the Wild Card in Razor-Thin Honduras Election",
     "link": "https://www.nytimes.com/2025/12/01/world/americas/honduras-election-trump.html",
     "source": "nyt",
@@ -6358,12 +6322,6 @@
     "link": "https://www.wsj.com/world/china/hong-kongs-response-to-deadly-fire-is-squeezed-by-chinas-firm-hand-ea01b5a2",
     "source": "wsj",
     "pubdate": "2025-12-01-22-28-00 +0000"
-  },
-  {
-    "headline": "Onana left out of Cameroon Afcon squad & coach sacked",
-    "link": "https://www.bbc.com/sport/football/articles/cg7v2zmp5d3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-22-24-57 +0000"
   },
   {
     "headline": "Drug lord El Chapo's son pleads guilty in US drug trafficking case",
@@ -6474,10 +6432,10 @@
     "pubdate": "2025-12-01-13-08-00 +0000"
   },
   {
-    "headline": "History-maker Girmay signs for Iniesta's new team",
-    "link": "https://www.bbc.com/sport/cycling/articles/cvg1dg4lzp6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-01-11-58-08 +0000"
+    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
+    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
+    "source": "latimes",
+    "pubdate": "2025-12-01-11-00-00 +0000"
   },
   {
     "headline": "L.A. County supervisors are set to ban masks worn by ICE agents. Can they win a battle with Trump?",
@@ -6488,12 +6446,6 @@
   {
     "headline": "Attacks on ICE up 1,000%? Trump administration claim not backed up by court records",
     "link": "https://www.latimes.com/california/story/2025-12-01/dhs-1000-percent-increase-attacks-on-ice-agents-times-analysis",
-    "source": "latimes",
-    "pubdate": "2025-12-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Despite court wins, immigrants stay detained as ICE seeks to deport them",
-    "link": "https://www.latimes.com/politics/story/2025-12-01/despite-court-wins-immigrants-stay-detained-as-ice-seeks-to-deport-them",
     "source": "latimes",
     "pubdate": "2025-12-01-11-00-00 +0000"
   },
