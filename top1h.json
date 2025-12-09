@@ -1,72 +1,23 @@
 [
   {
-    "score": 38,
-    "pubdate": "2025-12-09-14-06-47 +0000",
-    "source": "nyt",
-    "headline": "As Prices Increase From Tariffs, Trump Administration Goes on the Defensive About Affordability",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-12-09-14-00-00 +0000",
-    "source": "nypost",
-    "headline": "Minnesota Lt. Gov. Peggy Flanagan failed to hold mandatory safety meetings before Dem speaker’s assassination: ‘Shameful’",
-    "link": "https://nypost.com/2025/12/09/us-news/minnesota-lt-gov-peggy-flanagan-failed-to-hold-mandatory-safety-meetings-before-dem-speakers-assassination-shameful/"
-  },
-  {
-    "score": 25,
-    "pubdate": "2025-12-09-14-05-37 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Is Asked to Take Another Ax to Campaign Finance Limits",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/supreme-court-campaign-finance.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2025-12-09-14-10-10 +0000",
-    "source": "nyt",
-    "headline": "Trump Calls Europe ‘Decaying’ and Suggests ‘Size Will Win’ in Ukraine War",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-europe-decaying-weak-ukraine.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2025-12-09-14-32-52 +0000",
-    "source": "nypost",
-    "headline": "Arkansas mom alerted politician that she feared for her life amid bitter custody battle before she and twins were found dead",
-    "link": "https://nypost.com/2025/12/09/us-news/arkansas-mom-alerted-politician-that-she-feared-for-her-life-amid-bitter-custody-battle-before-she-and-twins-were-found-dead/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2025-12-09-14-20-38 +0000",
-    "source": "bbc",
-    "headline": "A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded",
-    "link": "https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 16,
-    "pubdate": "2025-12-09-14-18-00 +0000",
-    "source": "wsj",
-    "headline": "Euro Looks Cheap Versus Dollar, HSBC’s Models Show",
-    "link": "https://www.wsj.com/finance/currencies/perky-australian-dollar-looks-to-extend-gains-ca2f5e9e?mod=rss_markets_main"
-  },
-  {
-    "score": 15,
-    "pubdate": "2025-12-09-14-13-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Futures Slip With Eyes on Russia-Ukraine Peace Efforts",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-ukraine-russia-peace-talks-fed-meeting-in-focus-dfe254d6?mod=rss_markets_main"
-  },
-  {
-    "score": 14,
     "pubdate": "2025-12-09-14-55-04 +0000",
     "source": "nypost",
     "headline": "Trump eviscerates ‘weak’ European leaders: ‘Destroying their countries’",
     "link": "https://nypost.com/2025/12/09/us-news/president-trump-eviscerates-weak-european-leaders-destroying-their-countries/"
   },
   {
-    "score": 14,
-    "pubdate": "2025-12-09-14-10-05 +0000",
-    "source": "bbc",
-    "headline": "CCTV shows suspects make off on foot with stolen artworks",
-    "link": "https://www.bbc.com/news/videos/c0jeq519222o?at_medium=RSS&at_campaign=rss"
+    "score": 9,
+    "pubdate": "2025-12-09-14-55-22 +0000",
+    "source": "nypost",
+    "headline": "Vermont school district sparks outrage after raising Somali flag on campus",
+    "link": "https://nypost.com/2025/12/09/us-news/vermont-school-district-sparks-outrage-after-raising-somali-flag-on-campus/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-12-09-14-55-04 +0000",
+    "source": "nypost",
+    "headline": "Trump eviscerates ‘weak’ European leaders: ‘Destroying their countries’",
+    "link": "https://nypost.com/2025/12/09/us-news/president-trump-eviscerates-weak-european-leaders-destroying-their-countries/"
   }
 ]
