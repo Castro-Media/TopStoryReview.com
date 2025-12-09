@@ -1,31 +1,31 @@
 [
   {
-    "score": 221,
-    "pubdate": "2025-12-08-15-28-04 +0000",
+    "score": 174,
+    "pubdate": "2025-12-09-00-29-40 +0000",
     "source": "nypost",
-    "headline": "Paramount Skydance launches hostile bid for Warner Bros. Discovery — as Trump warns Netflix deal ‘could be a problem’",
-    "link": "https://nypost.com/2025/12/08/business/paramount-skydance-launches-hostile-bid-for-warner-bros-discovery-as-trump-warns-netflix-deal-could-be-a-problem/"
+    "headline": "Trump gives green light to Nvidia to ship powerful AI chips to China despite national security fears",
+    "link": "https://nypost.com/2025/12/08/business/trump-gives-green-light-to-nvidia-to-ship-powerful-ai-chips-to-china/"
   },
   {
-    "score": 113,
+    "score": 105,
     "pubdate": "2025-12-08-21-09-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court seemed poised to expand the president’s power to fire the heads of many regulatory agencies, even as one pivotal justice expressed a desire to preserve the Fed from politics",
     "link": "https://www.wsj.com/politics/policy/supreme-court-appears-poised-to-give-president-more-power-to-fire-government-officials-d36a0302"
   },
   {
-    "score": 103,
+    "score": 105,
+    "pubdate": "2025-12-09-00-18-55 +0000",
+    "source": "wapo",
+    "headline": "Paramount launches hostile bid for Warner Bros., challenging Netflix deal",
+    "link": "https://www.washingtonpost.com/business/2025/12/08/paramount-launches-hostile-bid-warner-bros-challenging-netflix-deal/"
+  },
+  {
+    "score": 99,
     "pubdate": "2025-12-09-13-30-50 +0000",
     "source": "bbc",
     "headline": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
     "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 96,
-    "pubdate": "2025-12-09-00-29-40 +0000",
-    "source": "nypost",
-    "headline": "Trump gives green light to Nvidia to ship powerful AI chips to China despite national security fears",
-    "link": "https://nypost.com/2025/12/08/business/trump-gives-green-light-to-nvidia-to-ship-powerful-ai-chips-to-china/"
   },
   {
     "score": 61,
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/politics/policy/trump-to-unveil-12-billion-bailout-for-farmers-064eb1de"
   },
   {
-    "score": 57,
+    "score": 56,
     "pubdate": "2025-12-09-01-07-00 +0000",
     "source": "wsj",
     "headline": "President Trump backed away from a vow to release video of a Sept. 2 attack on an alleged drug boat in the Caribbean, saying he would leave the decision to Defense Secretary Pete Hegseth",
@@ -50,23 +50,23 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-12-09-14-10-10 +0000",
-    "source": "nyt",
-    "headline": "Trump Calls Europe ‘Decaying’ and Suggests ‘Size Will Win’ in Ukraine War",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-europe-decaying-weak-ukraine.html"
-  },
-  {
-    "score": 49,
     "pubdate": "2025-12-09-11-28-15 +0000",
     "source": "nypost",
     "headline": "FBI agents fired after kneeling during 2020 BLM protest sue to get their jobs back",
     "link": "https://nypost.com/2025/12/09/us-news/fbi-agents-fired-after-kneeling-during-2020-blm-protest-sue-to-get-their-jobs-back/"
   },
   {
-    "score": 45,
-    "pubdate": "2025-12-08-21-42-03 +0000",
-    "source": "nypost",
-    "headline": "CBS News taps ABC News journalist Matt Gutman for ‘major role’ after being ‘relentlessly pursued’ by Bari Weiss: sources",
-    "link": "https://nypost.com/2025/12/08/media/cbs-news-taps-matt-gutman-for-major-role-at-48-hours-contributor-to-60-minutes-sources/"
+    "score": 48,
+    "pubdate": "2025-12-09-14-10-10 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls Europe ‘Decaying’ and Suggests ‘Size Will Win’ in Ukraine War",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-europe-decaying-weak-ukraine.html"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-12-09-09-13-18 +0000",
+    "source": "bbc",
+    "headline": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
+    "link": "https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss"
   }
 ]
