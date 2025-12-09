@@ -1,34 +1,34 @@
 [
   {
-    "score": 254,
+    "score": 251,
     "pubdate": "2025-12-08-15-28-04 +0000",
     "source": "nypost",
     "headline": "Paramount Skydance launches hostile bid for Warner Bros. Discovery — as Trump warns Netflix deal ‘could be a problem’",
     "link": "https://nypost.com/2025/12/08/business/paramount-skydance-launches-hostile-bid-for-warner-bros-discovery-as-trump-warns-netflix-deal-could-be-a-problem/"
   },
   {
-    "score": 126,
+    "score": 124,
     "pubdate": "2025-12-08-21-09-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court seemed poised to expand the president’s power to fire the heads of many regulatory agencies, even as one pivotal justice expressed a desire to preserve the Fed from politics",
     "link": "https://www.wsj.com/politics/policy/supreme-court-appears-poised-to-give-president-more-power-to-fire-government-officials-d36a0302"
   },
   {
-    "score": 97,
+    "score": 100,
     "pubdate": "2025-12-09-06-38-57 +0000",
     "source": "bbc",
     "headline": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
     "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 87,
+    "score": 88,
     "pubdate": "2025-12-09-00-29-40 +0000",
     "source": "nypost",
     "headline": "Trump gives green light to Nvidia to ship powerful AI chips to China despite national security fears",
     "link": "https://nypost.com/2025/12/08/business/trump-gives-green-light-to-nvidia-to-ship-powerful-ai-chips-to-china/"
   },
   {
-    "score": 68,
+    "score": 70,
     "pubdate": "2025-12-09-02-27-06 +0000",
     "source": "nyt",
     "headline": "Trump Plans $12 Billion Bailout to Aid Farmers Hit by Tariffs",
@@ -36,10 +36,17 @@
   },
   {
     "score": 51,
-    "pubdate": "2025-12-08-17-05-06 +0000",
+    "pubdate": "2025-12-08-22-06-00 +0000",
+    "source": "wsj",
+    "headline": "Berkshire’s Geico Boss Todd Combs Leaves for JPMorgan Ahead of Buffett Retirement",
+    "link": "https://www.wsj.com/business/c-suite/berkshire-hathaway-shuffles-top-ranks-in-runup-to-warren-buffetts-retirement-6ab1eaeb?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-12-08-19-23-51 +0000",
     "source": "nypost",
-    "headline": "Berkshire Hathaway’s Todd Combs, also CEO of Geico, leaves for JPMorgan ahead of Buffett’s departure",
-    "link": "https://nypost.com/2025/12/08/business/berkshire-hathaways-todd-combs-also-ceo-of-geico-leaves-for-jpmorgan-ahead-of-buffetts-departure/"
+    "headline": "China’s trade surplus hits $1 trillion for first time — even as US exports plunge 29%",
+    "link": "https://nypost.com/2025/12/08/business/chinas-trade-surplus-hits-1-trillion-for-first-time-even-as-us-exports-plunge/"
   },
   {
     "score": 49,
@@ -49,24 +56,17 @@
     "link": "https://www.wsj.com/politics/national-security/trump-backs-away-from-pledge-to-release-boat-strike-video-5e9eeb55"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2025-12-08-14-56-20 +0000",
     "source": "nypost",
     "headline": "7.2-magnitude earthquake strikes off Japan’s coast, triggers tsunami alert",
     "link": "https://nypost.com/2025/12/08/world-news/7-2-magnitude-earthquake-strikes-off-japans-coast-triggers-tsunami-alert/"
   },
   {
-    "score": 48,
-    "pubdate": "2025-12-08-19-23-51 +0000",
-    "source": "nypost",
-    "headline": "China’s trade surplus hits $1 trillion for first time — even as US exports plunge 29%",
-    "link": "https://nypost.com/2025/12/08/business/chinas-trade-surplus-hits-1-trillion-for-first-time-even-as-us-exports-plunge/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-12-09-02-30-02 +0000",
+    "score": 47,
+    "pubdate": "2025-12-08-16-37-28 +0000",
     "source": "nyt",
-    "headline": "Trump Insists Tariffs Will Buoy the Economy and Ease Cost Concerns",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html"
+    "headline": "The U.S. Gave Mexico a List of Russian Spies. Mexico Let Them Stay.",
+    "link": "https://www.nytimes.com/2025/12/08/world/americas/mexico-russia-spies.html"
   }
 ]
