@@ -1,55 +1,41 @@
 [
   {
-    "score": 248,
+    "score": 250,
     "pubdate": "2025-12-08-15-28-04 +0000",
     "source": "nypost",
     "headline": "Paramount Skydance launches hostile bid for Warner Bros. Discovery — as Trump warns Netflix deal ‘could be a problem’",
     "link": "https://nypost.com/2025/12/08/business/paramount-skydance-launches-hostile-bid-for-warner-bros-discovery-as-trump-warns-netflix-deal-could-be-a-problem/"
   },
   {
-    "score": 123,
+    "score": 125,
     "pubdate": "2025-12-08-21-09-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court seemed poised to expand the president’s power to fire the heads of many regulatory agencies, even as one pivotal justice expressed a desire to preserve the Fed from politics",
     "link": "https://www.wsj.com/politics/policy/supreme-court-appears-poised-to-give-president-more-power-to-fire-government-officials-d36a0302"
   },
   {
-    "score": 84,
+    "score": 99,
+    "pubdate": "2025-12-09-05-05-31 +0000",
+    "source": "bbc",
+    "headline": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
+    "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 86,
     "pubdate": "2025-12-09-00-29-40 +0000",
     "source": "nypost",
     "headline": "Trump gives green light to Nvidia to ship powerful AI chips to China despite national security fears",
     "link": "https://nypost.com/2025/12/08/business/trump-gives-green-light-to-nvidia-to-ship-powerful-ai-chips-to-china/"
   },
   {
-    "score": 73,
+    "score": 71,
     "pubdate": "2025-12-09-02-27-06 +0000",
     "source": "nyt",
     "headline": "Trump Plans $12 Billion Bailout to Aid Farmers Hit by Tariffs",
     "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-farmers-aid-bailout.html"
   },
   {
-    "score": 68,
-    "pubdate": "2025-12-08-13-20-35 +0000",
-    "source": "nypost",
-    "headline": "‘Disappointed’ Trump claims Zelensky ‘hasn’t yet read’ peace proposal — as prez’s son suggests he may walk away from Ukraine",
-    "link": "https://nypost.com/2025/12/08/world-news/disappointed-trump-declared-zelensky-hasnt-yet-read-peace-proposal/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2025-12-08-23-19-57 +0000",
-    "source": "nypost",
-    "headline": "RFK Jr., Sean Duffy have pull-up competition while touting $1B bid to add mini-gyms, healthier food options at airports",
-    "link": "https://nypost.com/2025/12/08/us-news/rfk-jr-duffy-have-pull-up-competition-at-dca-while-touting-1b-bid-to-add-mini-gyms-and-healthier-food-options-at-airports/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2025-12-08-20-02-21 +0000",
-    "source": "nyt",
-    "headline": "Thai Jets Bomb Cambodia as at Least 5 Die in New Wave of Fighting",
-    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-f16-jets.html"
-  },
-  {
-    "score": 49,
+    "score": 51,
     "pubdate": "2025-12-08-22-06-00 +0000",
     "source": "wsj",
     "headline": "Berkshire’s Geico Boss Todd Combs Leaves for JPMorgan Ahead of Buffett Retirement",
@@ -63,10 +49,24 @@
     "link": "https://nypost.com/2025/12/08/world-news/7-2-magnitude-earthquake-strikes-off-japans-coast-triggers-tsunami-alert/"
   },
   {
-    "score": 47,
-    "pubdate": "2025-12-08-16-37-28 +0000",
+    "score": 49,
+    "pubdate": "2025-12-09-01-07-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump backed away from a vow to release video of a Sept. 2 attack on an alleged drug boat in the Caribbean, saying he would leave the decision to Defense Secretary Pete Hegseth",
+    "link": "https://www.wsj.com/politics/national-security/trump-backs-away-from-pledge-to-release-boat-strike-video-5e9eeb55"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-12-08-19-23-51 +0000",
+    "source": "nypost",
+    "headline": "China’s trade surplus hits $1 trillion for first time — even as US exports plunge 29%",
+    "link": "https://nypost.com/2025/12/08/business/chinas-trade-surplus-hits-1-trillion-for-first-time-even-as-us-exports-plunge/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2025-12-09-02-30-02 +0000",
     "source": "nyt",
-    "headline": "The U.S. Gave Mexico a List of Russian Spies. Mexico Let Them Stay.",
-    "link": "https://www.nytimes.com/2025/12/08/world/americas/mexico-russia-spies.html"
+    "headline": "Trump Insists Tariffs Will Buoy the Economy and Ease Cost Concerns",
+    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html"
   }
 ]
