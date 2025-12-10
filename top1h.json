@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 17,
+    "pubdate": "2025-12-10-08-17-07 +0000",
+    "source": "bbc",
+    "headline": "South Korea protests Chinese and Russian warplanes in its airspace",
+    "link": "https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-12-10-08-55-28 +0000",
+    "source": "bbc",
+    "headline": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
+    "link": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2025-12-10-08-00-11 +0000",
+    "source": "nyt",
+    "headline": "Trump Defends Tariffs Amid Growing Concerns Over Affordability",
+    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-10-08-20-00 +0000",
+    "source": "wsj",
+    "headline": "Dollar Edges Lower; Caution From Fed Might Give Limited Boost",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fomc-decision-3994c5dd?mod=rss_markets_main"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-12-10-08-54-34 +0000",
+    "source": "nyt",
+    "headline": "Coupang C.E.O. Resigns in Fallout Over Massive South Korean Data Breach",
+    "link": "https://www.nytimes.com/2025/12/10/business/coupang-ceo-resignation-data-leak.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-10-08-42-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Little Changed as Traders Monitor Ukraine Talks, Await Powell",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-on-likely-technical-recovery-f4246903?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-10-08-03-00 +0000",
+    "source": "wsj",
+    "headline": "Venezuela’s Machado Won’t Collect Peace Prize in Person, Says Nobel Official",
+    "link": "https://www.wsj.com/world/americas/venezuelas-machado-wont-receive-nobel-peace-prize-in-person-says-nobel-official-d365962d"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-10-08-33-23 +0000",
+    "source": "nypost",
+    "headline": "Archaeologists uncover intact section of ancient Jerusalem wall from Hanukkah era",
+    "link": "https://nypost.com/2025/12/10/world-news/archaeologists-uncover-intact-section-of-ancient-jerusalem-wall-from-hanukkah-era/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-10-08-39-00 +0000",
+    "source": "wsj",
+    "headline": "Eurozone Bond Yields Trade Higher; Focus Is on Fed Decision",
+    "link": "https://www.wsj.com/finance/investing/jgbs-mixed-amid-divergent-signals-6fce625b?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-10-08-06-44 +0000",
+    "source": "nypost",
+    "headline": "More glittering royal jewels displayed while Paris is still uneasy over Louvre robbery",
+    "link": "https://nypost.com/2025/12/10/world-news/more-glittering-royal-jewels-displayed-while-paris-is-still-uneasy-over-the-louvre-robbery/"
+  }
+]
