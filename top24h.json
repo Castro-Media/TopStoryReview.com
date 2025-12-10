@@ -1,72 +1,72 @@
 [
   {
-    "score": 168,
+    "score": 160,
     "pubdate": "2025-12-10-11-56-00 +0000",
     "source": "wsj",
     "headline": "The next Fed chair will have to walk the tightrope convincing President Trump he’s the right choice while also winning over Wall Street. Read more in today’s WSJ Politics newsletter:",
     "link": "https://www.wsj.com/politics/policy/can-the-next-fed-chair-assuage-both-trump-and-wall-street-0ba4ef49"
   },
   {
-    "score": 108,
+    "score": 110,
     "pubdate": "2025-12-10-05-05-52 +0000",
     "source": "bbc",
     "headline": "Kids locked out of social media apps after Australia's world-first ban",
     "link": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 86,
+    "score": 89,
+    "pubdate": "2025-12-10-14-45-21 +0000",
+    "source": "nyt",
+    "headline": "Venezuela’s Nobel Peace Prize Winner Says She Will Appear in Oslo After Missing Ceremony",
+    "link": "https://www.nytimes.com/2025/12/10/world/europe/machado-nobel-venezuela-ceremony.html"
+  },
+  {
+    "score": 82,
     "pubdate": "2025-12-10-11-03-45 +0000",
     "source": "nypost",
     "headline": "DOJ civil rights chief Harmeet Dhillon reveals to ‘Pod Force One’ she was targeted by FBI’s Arctic Frost probe",
     "link": "https://nypost.com/2025/12/10/us-news/harmeet-dhillon-tells-pod-force-one-the-fbi-spied-on-her-in-arctic-frost-probe/"
   },
   {
-    "score": 70,
-    "pubdate": "2025-12-09-19-12-00 +0000",
+    "score": 72,
+    "pubdate": "2025-12-10-14-42-00 +0000",
     "source": "wsj",
-    "headline": "Bruce Blakeman, a Long Island Republican who touts his support of ICE, will run for governor of New York, setting up a primary battle with Rep. Elise Stefanik",
-    "link": "https://www.wsj.com/politics/elections/long-island-republican-bruce-blakeman-launches-bid-for-new-york-governor-cda36abc"
-  },
-  {
-    "score": 65,
-    "pubdate": "2025-12-10-11-01-00 +0000",
-    "source": "wsj",
-    "headline": "Machado Will Go to Oslo but Won’t Collect Peace Prize in Person, Nobel Institute Says",
-    "link": "https://www.wsj.com/world/americas/venezuelas-machado-wont-receive-nobel-peace-prize-in-person-says-nobel-official-d365962d"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-12-09-19-30-00 +0000",
-    "source": "wsj",
-    "headline": "Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China",
-    "link": "https://www.wsj.com/tech/ai/nvidia-ai-chips-to-undergo-unusual-u-s-security-review-before-export-to-china-5e73cd55"
+    "headline": "New York City Comptroller Brad Lander, a progressive ally of Mayor-elect Zohran Mamdani, launched a congressional bid to unseat fellow Democrat Rep. Daniel Goldman",
+    "link": "https://www.wsj.com/politics/policy/nyc-comptroller-brad-lander-is-running-for-congress-acbc7dfe"
   },
   {
     "score": 53,
-    "pubdate": "2025-12-10-00-37-01 +0000",
-    "source": "nypost",
-    "headline": "Trump kicks off affordability messaging tour after GOP’s rough off-year elections",
-    "link": "https://nypost.com/2025/12/09/us-news/trump-kicks-off-affordability-messaging-tour-after-gops-rough-off-year-elections/"
+    "pubdate": "2025-12-10-12-16-40 +0000",
+    "source": "nyt",
+    "headline": "Asserting a Personal Role in Warner Bros. Battle, Trump Seeks to Expand His Powers Again",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-warner-bros.html"
   },
   {
     "score": 52,
-    "pubdate": "2025-12-10-00-58-36 +0000",
-    "source": "nyt",
-    "headline": "Trump Calls Europe ‘Decaying’ and Suggests ‘Size Will Win’ in Ukraine War",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-europe-decaying-weak-ukraine.html"
-  },
-  {
-    "score": 50,
     "pubdate": "2025-12-10-03-17-05 +0000",
     "source": "nyt",
     "headline": "Inside the Pentagon’s Scramble to Deal With Boat Strike Survivors",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html"
   },
   {
-    "score": 42,
-    "pubdate": "2025-12-09-21-58-48 +0000",
-    "source": "nyt",
-    "headline": "Canada Plans to Fast-Track Immigration for US H1-B Visa Holders in New Talent Drive",
-    "link": "https://www.nytimes.com/2025/12/09/world/canada/canada-usa-immigration-h1-b-visa-talent.html"
+    "score": 48,
+    "pubdate": "2025-12-09-19-30-00 +0000",
+    "source": "wsj",
+    "headline": "Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China",
+    "link": "https://www.wsj.com/tech/ai/nvidia-ai-chips-to-undergo-unusual-u-s-security-review-before-export-to-china-5e73cd55"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-12-10-00-37-01 +0000",
+    "source": "nypost",
+    "headline": "Trump kicks off affordability messaging tour after GOP’s rough off-year elections",
+    "link": "https://nypost.com/2025/12/09/us-news/trump-kicks-off-affordability-messaging-tour-after-gops-rough-off-year-elections/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-12-10-13-02-00 +0000",
+    "source": "wapo",
+    "headline": "Ricki Lake lost her home in a fire. Her photos turned up at a flea market.",
+    "link": "https://www.washingtonpost.com/lifestyle/2025/12/10/ricki-lake-fire-photos-scanlon/"
   }
 ]
