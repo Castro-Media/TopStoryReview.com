@@ -1,72 +1,72 @@
 [
   {
-    "score": 348,
+    "score": 352,
     "pubdate": "2025-12-05-11-40-00 +0000",
     "source": "wsj",
     "headline": "Trump issued a new national-security strategy that sharply criticizes the “unrealistic expectations” of European leaders for settling the war in Ukraine and calls for an end to NATO expansion",
     "link": "https://www.wsj.com/politics/national-security/trumps-new-national-security-strategy-takes-aim-at-europe-22f03581"
   },
   {
-    "score": 185,
+    "score": 189,
     "pubdate": "2025-12-09-00-18-55 +0000",
     "source": "wapo",
     "headline": "Paramount launches hostile bid for Warner Bros., challenging Netflix deal",
     "link": "https://www.washingtonpost.com/business/2025/12/08/paramount-launches-hostile-bid-warner-bros-challenging-netflix-deal/"
   },
   {
-    "score": 154,
-    "pubdate": "2025-12-08-21-09-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court seemed poised to expand the president’s power to fire the heads of many regulatory agencies, even as one pivotal justice expressed a desire to preserve the Fed from politics",
-    "link": "https://www.wsj.com/politics/policy/supreme-court-appears-poised-to-give-president-more-power-to-fire-government-officials-d36a0302"
-  },
-  {
-    "score": 149,
-    "pubdate": "2025-12-09-19-12-00 +0000",
-    "source": "wsj",
-    "headline": "Bruce Blakeman, a Long Island Republican who touts his support of ICE, will run for governor of New York, setting up a primary battle with Rep. Elise Stefanik",
-    "link": "https://www.wsj.com/politics/elections/long-island-republican-bruce-blakeman-launches-bid-for-new-york-governor-cda36abc"
-  },
-  {
-    "score": 126,
-    "pubdate": "2025-12-10-01-14-00 +0000",
-    "source": "wsj",
-    "headline": "Kevin Hassett says he would rely on his own judgment and not bow to political pressure to decide whether to cut interest rates if he becomes the next chair of the Federal Reserve",
-    "link": "https://www.wsj.com/economy/central-banking/kevin-hassett-says-he-wouldnt-bow-to-pressure-over-cutting-interest-rates-3766645e"
-  },
-  {
-    "score": 114,
-    "pubdate": "2025-12-08-19-24-10 +0000",
-    "source": "nyt",
-    "headline": "Despite Trump’s Tariffs, China’s Trade Surplus Climbs Past $1 Trillion for First Time",
-    "link": "https://www.nytimes.com/2025/12/07/business/china-trade-surplus.html"
-  },
-  {
-    "score": 111,
-    "pubdate": "2025-12-03-19-37-05 +0000",
-    "source": "latimes",
-    "headline": "Former sheriff's deputy killed after police chase, accused of stabbing 11-year-old son to death",
-    "link": "https://www.latimes.com/california/story/2025-12-03/former-sheriffs-deputy-killed-after-police-chase-accused-of-killing-11-year-old-son"
-  },
-  {
-    "score": 109,
+    "score": 156,
     "pubdate": "2025-12-06-23-09-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat",
     "link": "https://www.wsj.com/politics/national-security/hegseth-defends-pentagon-strike-on-drug-boat-survivors-9ed69fe2"
   },
   {
-    "score": 102,
+    "score": 155,
+    "pubdate": "2025-12-08-21-09-00 +0000",
+    "source": "wsj",
+    "headline": "The Supreme Court seemed poised to expand the president’s power to fire the heads of many regulatory agencies, even as one pivotal justice expressed a desire to preserve the Fed from politics",
+    "link": "https://www.wsj.com/politics/policy/supreme-court-appears-poised-to-give-president-more-power-to-fire-government-officials-d36a0302"
+  },
+  {
+    "score": 127,
+    "pubdate": "2025-12-10-01-14-00 +0000",
+    "source": "wsj",
+    "headline": "Kevin Hassett says he would rely on his own judgment and not bow to political pressure to decide whether to cut interest rates if he becomes the next chair of the Federal Reserve",
+    "link": "https://www.wsj.com/economy/central-banking/kevin-hassett-says-he-wouldnt-bow-to-pressure-over-cutting-interest-rates-3766645e"
+  },
+  {
+    "score": 124,
+    "pubdate": "2025-12-04-05-01-00 +0000",
+    "source": "wsj",
+    "headline": "For First Time in Decades, Child Deaths Will Rise This Year",
+    "link": "https://www.wsj.com/health/for-first-time-in-decades-child-deaths-will-rise-this-year-92c67b51"
+  },
+  {
+    "score": 107,
+    "pubdate": "2025-12-09-00-29-40 +0000",
+    "source": "nypost",
+    "headline": "Trump gives green light to Nvidia to ship powerful AI chips to China despite national security fears",
+    "link": "https://nypost.com/2025/12/08/business/trump-gives-green-light-to-nvidia-to-ship-powerful-ai-chips-to-china/"
+  },
+  {
+    "score": 100,
     "pubdate": "2025-12-05-00-07-11 +0000",
     "source": "bbc",
     "headline": "Watch: Awkward tensions test US, Mexico and Canada ahead of World Cup",
     "link": "https://www.bbc.com/news/videos/cvg185pgm0po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 95,
+    "score": 94,
     "pubdate": "2025-12-09-13-30-50 +0000",
     "source": "bbc",
     "headline": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
     "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 88,
+    "pubdate": "2025-12-04-16-32-33 +0000",
+    "source": "nyt",
+    "headline": "Yasser Abu Shabab, Militant Leader Backed by Israel, Is Killed in Gaza, Official Says",
+    "link": "https://www.nytimes.com/2025/12/04/world/middleeast/yasser-abu-shabab-killed-gaza.html"
   }
 ]
