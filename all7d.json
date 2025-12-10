@@ -1,27 +1,279 @@
 [
   {
-    "headline": "Inside the Pentagon’s Scramble to Deal With Boat Strike Survivors",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html",
+    "headline": "America Has a New Ally in Syria and Wants Israel to Get on Board",
+    "link": "https://www.wsj.com/world/middle-east/syria-us-ally-israel-83482cb2",
+    "source": "wsj",
+    "pubdate": "2025-12-10-04-00-00 +0000"
+  },
+  {
+    "headline": "Trump and U.S. CEOs Agree: European Red Tape Goes Too Far",
+    "link": "https://www.wsj.com/world/europe/trump-and-u-s-ceos-agree-european-red-tape-goes-too-far-cdede011",
+    "source": "wsj",
+    "pubdate": "2025-12-10-04-00-00 +0000"
+  },
+  {
+    "headline": "Minneapolis City Council approves 2026 budget, spares mayor’s office cuts",
+    "link": "https://www.startribune.com/minneapolis-city-council-approves-2026-budget-spares-mayors-office-cuts/601542954",
+    "source": "startribune",
+    "pubdate": "2025-12-10-03-59-08 +0000"
+  },
+  {
+    "headline": "Seattle’s Plans for a Pride Match at World Cup Infuriates Iran and Egypt",
+    "link": "https://www.nytimes.com/2025/12/09/world/middleeast/iran-egypt-world-cup-seattle-pride.html",
     "source": "nyt",
-    "pubdate": "2025-12-10-02-28-01 +0000"
+    "pubdate": "2025-12-10-03-58-26 +0000"
+  },
+  {
+    "headline": "Seattle’s Plans for a Pride Match at World Cup Infuriates Iran and Egypt",
+    "link": "https://www.nytimes.com/2025/12/09/world/middleeast/iran-egypt-world-cup-seattle-pride.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-58-26 +0000"
+  },
+  {
+    "headline": "Senate votes are set for Thursday on a Republican proposal funding health savings accounts and a rival Democratic plan extending enhanced Obamacare payments",
+    "link": "https://www.wsj.com/politics/policy/no-rescue-for-aca-subsidies-in-gop-senators-healthcare-plan-77ff98e2",
+    "source": "wsj",
+    "pubdate": "2025-12-10-03-55-00 +0000"
+  },
+  {
+    "headline": "Trump’s Speech on Economy Veers Into an Anti-Immigrant Tirade",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-somalis-immigrants.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-49-17 +0000"
+  },
+  {
+    "headline": "Trump’s Speech on Economy Veers Into an Anti-Immigrant Tirade",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-somalis-immigrants.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-49-17 +0000"
+  },
+  {
+    "headline": "Trump Says Americans Are Doing Great, Even as Views on the Economy Sour",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-affordability-economy-pennsylvania.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-45-37 +0000"
+  },
+  {
+    "headline": "Trump Says Americans Are Doing Great, Even as Views on the Economy Sour",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-affordability-economy-pennsylvania.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-45-37 +0000"
+  },
+  {
+    "headline": "Trump fumes Rep. Ilhan Omar does nothing but  ‘b—h,’ insists she should ‘get the hell out’ of US",
+    "link": "https://nypost.com/2025/12/09/us-news/trump-fumes-rep-ilhan-omar-does-nothing-but-b-ch-insists-she-should-get-the-hell-out-of-us/",
+    "source": "nypost",
+    "pubdate": "2025-12-10-03-39-58 +0000"
+  },
+  {
+    "headline": "Trump fumes Rep. Ilhan Omar does nothing but  ‘b—h,’ insists she should ‘get the hell out’ of US",
+    "link": "https://nypost.com/2025/12/09/us-news/trump-fumes-rep-ilhan-omar-does-nothing-but-b-ch-insists-she-should-get-the-hell-out-of-us/",
+    "source": "nypost",
+    "pubdate": "2025-12-10-03-39-58 +0000"
+  },
+  {
+    "headline": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
+    "link": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-37-06 +0000"
+  },
+  {
+    "headline": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
+    "link": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-37-06 +0000"
+  },
+  {
+    "headline": "Chaos in Brazil Congress during push to cut Bolsonaro's sentence",
+    "link": "https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-34-48 +0000"
+  },
+  {
+    "headline": "Chaos in Brazil Congress during push to cut Bolsonaro's sentence",
+    "link": "https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-34-48 +0000"
+  },
+  {
+    "headline": "Singapore Dollar Consolidates; Fading Fed Rate-Cut Prospects for 2026 May Weigh",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fomc-decision-3994c5dd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-10-03-33-00 +0000"
+  },
+  {
+    "headline": "Democrats Say Hegseth Balked at Call for Full Video of Boat Strike",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/hegseth-democrats-video-boat-strike.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-32-19 +0000"
+  },
+  {
+    "headline": "Democrats Say Hegseth Balked at Call for Full Video of Boat Strike",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/hegseth-democrats-video-boat-strike.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-32-19 +0000"
+  },
+  {
+    "headline": "The creepy sleeping pods might not even be legal",
+    "link": "https://48hills.org/2025/12/the-creepy-sleeping-pods-might-not-even-be-legal/",
+    "source": "48hills",
+    "pubdate": "2025-12-10-03-29-22 +0000"
+  },
+  {
+    "headline": "DHS disputes Augsburg’s account of ICE arrest as enforcement actions escalate in Minneapolis",
+    "link": "https://www.startribune.com/dhs-disputes-augsburgs-account-of-ice-arrest-on-campus-claims-agents-were-obstructed/601542897",
+    "source": "startribune",
+    "pubdate": "2025-12-10-03-21-43 +0000"
   },
   {
     "headline": "Inside the Pentagon’s Scramble to Deal With Boat Strike Survivors",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html",
     "source": "nyt",
-    "pubdate": "2025-12-10-02-28-01 +0000"
+    "pubdate": "2025-12-10-03-17-04 +0000"
   },
   {
     "headline": "Inside the Pentagon’s Scramble to Deal With Boat Strike Survivors",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html",
     "source": "nyt",
-    "pubdate": "2025-12-10-02-28-01 +0000"
+    "pubdate": "2025-12-10-03-17-04 +0000"
   },
   {
     "headline": "Inside the Pentagon’s Scramble to Deal With Boat Strike Survivors",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html",
     "source": "nyt",
-    "pubdate": "2025-12-10-02-28-01 +0000"
+    "pubdate": "2025-12-10-03-17-04 +0000"
+  },
+  {
+    "headline": "Inside the Pentagon’s Scramble to Deal With Boat Strike Survivors",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-17-04 +0000"
+  },
+  {
+    "headline": "Trump touts upbeat message on economy as Americans feel the pinch",
+    "link": "https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-09-33 +0000"
+  },
+  {
+    "headline": "Trump touts upbeat message on economy as Americans feel the pinch",
+    "link": "https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-09-33 +0000"
+  },
+  {
+    "headline": "At State Dept., a Typeface Falls Victim in the War Against Woke",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-07-28 +0000"
+  },
+  {
+    "headline": "At State Dept., a Typeface Falls Victim in the War Against Woke",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-07-28 +0000"
+  },
+  {
+    "headline": "President Trump is planning to start his final round of interviews in the coming days with candidates to be the next Federal Reserve chair",
+    "link": "https://www.wsj.com/economy/central-banking/trump-plans-final-interviews-with-fed-chair-candidates-in-coming-days-77011b86",
+    "source": "wsj",
+    "pubdate": "2025-12-10-03-06-00 +0000"
+  },
+  {
+    "headline": "Man who grabbed Ariana Grande kicked out of Lady Gaga concert",
+    "link": "https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-03-53 +0000"
+  },
+  {
+    "headline": "Man who grabbed Ariana Grande kicked out of Lady Gaga concert",
+    "link": "https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-03-53 +0000"
+  },
+  {
+    "headline": "These Looted Benin Bronzes Are Home. What Now?",
+    "link": "https://www.nytimes.com/2025/12/09/arts/design/benin-bronzes-returned-nigeria.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-03-02-28 +0000"
+  },
+  {
+    "headline": "Canadian airline Air Transat and pilot union reach tentative agreement",
+    "link": "https://www.bbc.com/news/articles/czxpklvd10zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-03-00-34 +0000"
+  },
+  {
+    "headline": "Seasoned Utah hiker trapped in quicksand for hours until his precarious rescue",
+    "link": "https://nypost.com/2025/12/09/us-news/utah-hiker-trapped-in-quicksand-for-hours-until-precarious-rescue/",
+    "source": "nypost",
+    "pubdate": "2025-12-10-02-57-25 +0000"
+  },
+  {
+    "headline": "China’s Consumer Inflation Ticks Up, But Factory Deflation Worsens",
+    "link": "https://www.wsj.com/economy/china-cpi-picks-up-producer-price-deflation-persists-6f208b82",
+    "source": "wsj",
+    "pubdate": "2025-12-10-02-49-00 +0000"
+  },
+  {
+    "headline": "Does Bones Hyland represent a changing of (point) guard for Timberwolves?",
+    "link": "https://www.startribune.com/minnesota-timberwolves-bones-hyland-rob-dillingham-point-guard-chris-finch-nba/601476294",
+    "source": "startribune",
+    "pubdate": "2025-12-10-02-47-59 +0000"
+  },
+  {
+    "headline": "Jaw-dropping video shows plane crashing into car on Florida Interstate, injuring driver",
+    "link": "https://nypost.com/2025/12/09/us-news/jaw-dropping-video-captures-plane-crashing-into-car-on-florida-interstate-injuring-driver/",
+    "source": "nypost",
+    "pubdate": "2025-12-10-02-39-31 +0000"
+  },
+  {
+    "headline": "Trump Administration Withdraws Plan to Overhaul Homeless Aid",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-homeless-aid-hud.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-02-39-14 +0000"
+  },
+  {
+    "headline": "Trump Administration Withdraws Plan to Overhaul Homeless Aid",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-homeless-aid-hud.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-02-39-14 +0000"
+  },
+  {
+    "headline": "Trump Revives Attacks on Fed Members Before Interest Rate Decision",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-fed-powell-cook-biden.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-02-39-00 +0000"
+  },
+  {
+    "headline": "Trump Revives Attacks on Fed Members Before Interest Rate Decision",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-fed-powell-cook-biden.html",
+    "source": "nyt",
+    "pubdate": "2025-12-10-02-39-00 +0000"
+  },
+  {
+    "headline": "Top Canadian envoy to US will resign ahead of free trade agreement review",
+    "link": "https://nypost.com/2025/12/09/world-news/top-canadian-envoy-to-us-will-resign-ahead-of-free-trade-agreement-review/",
+    "source": "nypost",
+    "pubdate": "2025-12-10-02-30-42 +0000"
+  },
+  {
+    "headline": "Top Canadian envoy to US will resign ahead of free trade agreement review",
+    "link": "https://nypost.com/2025/12/09/world-news/top-canadian-envoy-to-us-will-resign-ahead-of-free-trade-agreement-review/",
+    "source": "nypost",
+    "pubdate": "2025-12-10-02-30-42 +0000"
+  },
+  {
+    "headline": "Massive Debt-Fueled Deals Are Back on Wall Street",
+    "link": "https://www.wsj.com/finance/investing/massive-debt-fueled-deals-are-back-on-wall-street-22c94ac5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-10-02-27-00 +0000"
+  },
+  {
+    "headline": "Massive Debt-Fueled Deals Are Back on Wall Street",
+    "link": "https://www.wsj.com/finance/investing/massive-debt-fueled-deals-are-back-on-wall-street-22c94ac5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-10-02-27-00 +0000"
   },
   {
     "headline": "Erewhon’s new $11 cup of bone broth hot cocoa is hot cuckoo",
@@ -100,24 +352,6 @@
     "link": "https://www.wsj.com/world/europe/ukraine-russia-drone-attack-operation-spiderweb-24d821ab",
     "source": "wsj",
     "pubdate": "2025-12-10-02-00-00 +0000"
-  },
-  {
-    "headline": "China CPI Picks Up, Producer Price Deflation Persists",
-    "link": "https://www.wsj.com/economy/china-cpi-picks-up-producer-price-deflation-persists-6f208b82",
-    "source": "wsj",
-    "pubdate": "2025-12-10-01-55-00 +0000"
-  },
-  {
-    "headline": "At State Dept., a Typeface Falls Victim in the War Against Woke",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html",
-    "source": "nyt",
-    "pubdate": "2025-12-10-01-53-33 +0000"
-  },
-  {
-    "headline": "At State Dept., a Typeface Falls Victim in the War Against Woke",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html",
-    "source": "nyt",
-    "pubdate": "2025-12-10-01-53-33 +0000"
   },
   {
     "headline": "Trump Eases Limits on Nvidia Exports to China at ‘Critical Moment’",
@@ -213,13 +447,13 @@
     "headline": "FDA Expands Covid Vaccine Inquiry to Adult Deaths",
     "link": "https://www.nytimes.com/2025/12/09/health/fda-covid-vaccine-adult-death-claims.html",
     "source": "nyt",
-    "pubdate": "2025-12-10-01-17-18 +0000"
+    "pubdate": "2025-12-10-01-17-19 +0000"
   },
   {
     "headline": "FDA Expands Covid Vaccine Inquiry to Adult Deaths",
     "link": "https://www.nytimes.com/2025/12/09/health/fda-covid-vaccine-adult-death-claims.html",
     "source": "nyt",
-    "pubdate": "2025-12-10-01-17-18 +0000"
+    "pubdate": "2025-12-10-01-17-19 +0000"
   },
   {
     "headline": "Kevin Hassett says he would rely on his own judgment and not bow to political pressure to decide whether to cut interest rates if he becomes the next chair of the Federal Reserve",
@@ -288,12 +522,6 @@
     "pubdate": "2025-12-10-00-58-36 +0000"
   },
   {
-    "headline": "Skepticism Over Higher BOJ Rate Increases Likely Limiting JPY Strength",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fomc-decision-3994c5dd?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-10-00-56-00 +0000"
-  },
-  {
     "headline": "Elon Musk reveals he wouldn’t do DOGE again — doubts that effort to chainsaw government was successful",
     "link": "https://nypost.com/2025/12/09/us-news/elon-musk-wouldnt-do-doge-again-doubts-effort-to-chainsaw-government-was-successful/",
     "source": "nypost",
@@ -330,12 +558,6 @@
     "pubdate": "2025-12-10-00-43-48 +0000"
   },
   {
-    "headline": "Twins center fielder Byron Buxton expected to make U.S. roster for World Baseball Classic",
-    "link": "https://www.startribune.com/minnesota-twins-winter-meetings-derek-shelton-byron-buxton-wbc-trade-rumors/601539636",
-    "source": "startribune",
-    "pubdate": "2025-12-10-00-40-37 +0000"
-  },
-  {
     "headline": "Trump administration ended a crisis hotline for LGBTQ+ youths. L.A. County wants to launch its own",
     "link": "https://www.latimes.com/california/story/2025-12-09/trump-administration-ended-crisis-hotline-for-lgbtq-youths-la-county-wants-to-launch-its-own",
     "source": "latimes",
@@ -366,34 +588,16 @@
     "pubdate": "2025-12-10-00-33-54 +0000"
   },
   {
-    "headline": "Trump Seeks to Reassure Americans That He Is Focused on Affordability",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-affordability-economy-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2025-12-10-00-32-15 +0000"
-  },
-  {
-    "headline": "Trump Seeks to Reassure Americans That He Is Focused on Affordability",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-affordability-economy-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2025-12-10-00-32-15 +0000"
-  },
-  {
-    "headline": "Seattle’s Plans for a Pride Match at World Cup Infuriates Iran and Egypt",
-    "link": "https://www.nytimes.com/2025/12/09/world/middleeast/iran-egypt-world-cup-seattle-pride.html",
-    "source": "nyt",
-    "pubdate": "2025-12-10-00-31-58 +0000"
-  },
-  {
-    "headline": "Seattle’s Plans for a Pride Match at World Cup Infuriates Iran and Egypt",
-    "link": "https://www.nytimes.com/2025/12/09/world/middleeast/iran-egypt-world-cup-seattle-pride.html",
-    "source": "nyt",
-    "pubdate": "2025-12-10-00-31-58 +0000"
-  },
-  {
     "headline": "NYC Chipotle customer allegedly ‘bit into a rodent’ inside burrito bowl ordered through DoorDash: lawsuit",
     "link": "https://nypost.com/2025/12/09/us-news/customer-allegedly-bit-into-a-rodent-in-burrito-bowl-from-nyc-chipotle-lawsuit/",
     "source": "nypost",
     "pubdate": "2025-12-10-00-30-58 +0000"
+  },
+  {
+    "headline": "Prosecutors release bodycam footage of moment police confront Luigi Mangione",
+    "link": "https://www.bbc.com/news/articles/c0q57jxvwqzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-00-29-56 +0000"
   },
   {
     "headline": "U.S. Plans to Scrutinize Foreign Tourists’ Social Media History",
@@ -456,6 +660,12 @@
     "pubdate": "2025-12-10-00-17-44 +0000"
   },
   {
+    "headline": "UK asylum system hit by inefficiencies and wasted funds, watchdog finds",
+    "link": "https://www.bbc.com/news/articles/c9qen9pwlzwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-10-00-16-55 +0000"
+  },
+  {
     "headline": "Indian couple trolled over skin colour after wedding video goes viral",
     "link": "https://www.bbc.com/news/articles/c62vnlg6v6wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -504,9 +714,9 @@
     "pubdate": "2025-12-10-00-04-35 +0000"
   },
   {
-    "headline": "Senate votes are set for Thursday on a Republican proposal funding health savings accounts and a rival Democratic plan extending enhanced Obamacare payments",
-    "link": "https://www.wsj.com/politics/policy/no-rescue-for-aca-subsidies-in-gop-senators-healthcare-plan-77ff98e2",
-    "source": "wsj",
+    "headline": "Analysis: Justin Jefferson was one of the NFL’s easiest $35 million-a-year decisions",
+    "link": "https://www.startribune.com/analysis-justin-jefferson-was-one-of-the-nfls-easiest-35-million-a-year-decisions/601541829",
+    "source": "startribune",
     "pubdate": "2025-12-10-00-00-00 +0000"
   },
   {
@@ -570,12 +780,6 @@
     "pubdate": "2025-12-09-23-42-25 +0000"
   },
   {
-    "headline": "NJ twins arrested over threats to ‘shoot ICE on sight,’ kill Kristi Noem’s deputy, DHS says",
-    "link": "https://nypost.com/2025/12/09/us-news/nj-twins-arrested-over-threats-to-shoot-ice-on-sight-kill-kristi-noems-deputy-dhs-says/",
-    "source": "nypost",
-    "pubdate": "2025-12-09-23-40-17 +0000"
-  },
-  {
     "headline": "USA Today’s Top Editor Departs, the Second in Less Than Two Years",
     "link": "https://www.nytimes.com/2025/12/09/business/media/usa-today-top-editor-caren-bohan.html",
     "source": "nyt",
@@ -592,12 +796,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-09/la-city-council-passes-ordinance-to-streamline-affordable-housing",
     "source": "latimes",
     "pubdate": "2025-12-09-23-35-57 +0000"
-  },
-  {
-    "headline": "Teen rapist who dodged prison sentence gets heckled as he saunters into court: ‘Why did you rape those girls?’",
-    "link": "https://nypost.com/2025/12/09/us-news/oklahoma-rapist-jesse-butler-confronted-in-video-as-he-enters-court/",
-    "source": "nypost",
-    "pubdate": "2025-12-09-23-35-09 +0000"
   },
   {
     "headline": "Charlie Kirk’s Newest Book Is a Hit—and Out of Stock on Amazon",
@@ -622,18 +820,6 @@
     "link": "https://www.nytimes.com/2025/12/09/us/politics/stephen-miller-minerals-stake-ethics.html",
     "source": "nyt",
     "pubdate": "2025-12-09-23-32-40 +0000"
-  },
-  {
-    "headline": "Mom of beloved IT worker, 27, killed in NYC hit-and-run pleads for driver to come forward: ‘I forgive you’",
-    "link": "https://nypost.com/2025/12/09/us-news/mom-of-beloved-it-worker-killed-by-nyc-hit-and-run-driver-pleads-for-driver-to-come-forward/",
-    "source": "nypost",
-    "pubdate": "2025-12-09-23-31-18 +0000"
-  },
-  {
-    "headline": "Polar Vortex could bring major snow to northeast as temps plummet",
-    "link": "https://nypost.com/2025/12/09/us-news/polar-vortex-could-bring-frigid-air-first-major-snowstorm-of-winter-to-northeast/",
-    "source": "nypost",
-    "pubdate": "2025-12-09-23-26-32 +0000"
   },
   {
     "headline": "Target stacking up on protein supplements while capitalizing on weight loss drug trend",
@@ -796,12 +982,6 @@
     "link": "https://nypost.com/2025/12/09/business/pepsi-to-slash-20-of-products-lower-some-prices-and-fire-workers-in-deal-with-activist-investor-elliott/",
     "source": "nypost",
     "pubdate": "2025-12-09-22-24-17 +0000"
-  },
-  {
-    "headline": "'What's your name?' - Moment police confront Luigi Mangione at McDonald's",
-    "link": "https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-09-22-18-12 +0000"
   },
   {
     "headline": "'What's your name?' - Moment police confront Luigi Mangione at McDonald's",
@@ -976,12 +1156,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-09/woman-claiming-to-be-heiress-allegedly-scammed-nearly-30-million-from-california-banks-authorities-say",
     "source": "latimes",
     "pubdate": "2025-12-09-21-22-12 +0000"
-  },
-  {
-    "headline": "DHS disputes Augsburg’s account of ICE arrest as enforcement actions escalate in Minneapolis",
-    "link": "https://www.startribune.com/dhs-disputes-augsburgs-account-of-ice-arrest-on-campus-claims-agents-were-obstructed/601542897",
-    "source": "startribune",
-    "pubdate": "2025-12-09-21-21-42 +0000"
   },
   {
     "headline": "Australia's social media ban for users under 16 starts now",
@@ -1206,12 +1380,6 @@
     "pubdate": "2025-12-09-19-23-54 +0000"
   },
   {
-    "headline": "MnDOT brings its ‘Name a Snowplow’ contest back for a 6th season",
-    "link": "https://www.startribune.com/mndot-brings-its-name-a-snowplow-contest-back-for-a-6th-season/601542912",
-    "source": "startribune",
-    "pubdate": "2025-12-09-19-17-16 +0000"
-  },
-  {
     "headline": "Somali Americans Are Carrying Proof of Citizenship Amid ICE Raids",
     "link": "https://www.nytimes.com/video/us/100000010565397/somali-americans-citizenship-proof-ice-raids.html",
     "source": "nyt",
@@ -1228,12 +1396,6 @@
     "link": "https://www.startribune.com/minnesota-yacht-club-2026-lineup-announcement-tickets-harriet-island/601542524",
     "source": "startribune",
     "pubdate": "2025-12-09-19-08-25 +0000"
-  },
-  {
-    "headline": "These Looted Benin Bronzes Are Home. What Now?",
-    "link": "https://www.nytimes.com/2025/12/09/arts/design/benin-bronzes-returned-nigeria.html",
-    "source": "nyt",
-    "pubdate": "2025-12-09-19-06-59 +0000"
   },
   {
     "headline": "Iain Douglas-Hamilton, Who Studied, and Protected, Elephants, Dies at 83",
@@ -1558,12 +1720,6 @@
     "link": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-09-16-34-53 +0000"
-  },
-  {
-    "headline": "Trump Defends Tariffs Amid Growing Concerns Over Affordability",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html",
-    "source": "nyt",
-    "pubdate": "2025-12-09-16-32-32 +0000"
   },
   {
     "headline": "Trump Defends Tariffs Amid Growing Concerns Over Affordability",
@@ -2478,12 +2634,6 @@
     "pubdate": "2025-12-09-05-14-59 +0000"
   },
   {
-    "headline": "Trump looms large over Minnesota’s GOP race for governor",
-    "link": "https://www.startribune.com/debate-to-offer-early-look-at-minnesotas-gop-race-for-governor/601539548",
-    "source": "startribune",
-    "pubdate": "2025-12-09-05-13-00 +0000"
-  },
-  {
     "headline": "With Cheap Tickets and Lax Etiquette, a Theater Builds an Older Fan Base",
     "link": "https://www.nytimes.com/2025/12/09/world/asia/skorea-aging-movies.html",
     "source": "nyt",
@@ -2568,12 +2718,6 @@
     "pubdate": "2025-12-09-02-57-32 +0000"
   },
   {
-    "headline": "US deports second group of Iranian nationals, officials say",
-    "link": "https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-09-02-40-54 +0000"
-  },
-  {
     "headline": "RFK Jr. shuns The Post’s questions about Olivia Nuzzi affair, glares at reporter",
     "link": "https://nypost.com/2025/12/08/us-news/rfk-jr-shuns-the-posts-questions-about-olivia-nuzzi-affair-glares-at-reporter/",
     "source": "nypost",
@@ -2644,12 +2788,6 @@
     "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-09-02-13-58 +0000"
-  },
-  {
-    "headline": "Trump Again Threatens Tariffs on Mexico Over Long-Running Water Dispute",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-tariffs-mexico-water.html",
-    "source": "nyt",
-    "pubdate": "2025-12-09-02-08-44 +0000"
   },
   {
     "headline": "BHP to Sell Stake in Western Australia Power Infrastructure to BlackRock in $2 Billion Deal",
@@ -3012,12 +3150,6 @@
     "pubdate": "2025-12-08-22-26-00 +0000"
   },
   {
-    "headline": "‘Criminal illegal alien’ mom of Karoline Leavitt’s nephew set to be released from ICE detention",
-    "link": "https://nypost.com/2025/12/08/us-news/bruna-caroline-ferreira-mom-of-karoline-leavitts-nephew-to-be-released-from-ice-custody/",
-    "source": "nypost",
-    "pubdate": "2025-12-08-22-25-45 +0000"
-  },
-  {
     "headline": "Basic Materials Roundup: Market Talk",
     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-ddbe92d2?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -3204,20 +3336,8 @@
     "pubdate": "2025-12-08-20-53-27 +0000"
   },
   {
-    "headline": "Israel to review reports that troops killed three-year-old in Gaza",
-    "link": "https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-08-20-53-27 +0000"
-  },
-  {
     "headline": "Europe Scrambles for Influence in U.S.-Led Peace Talks on War in Ukraine",
     "link": "https://www.wsj.com/world/europe/zelensky-rallies-european-leaders-as-u-s-piles-pressure-on-peace-process-efcaacc6",
-    "source": "wsj",
-    "pubdate": "2025-12-08-20-49-00 +0000"
-  },
-  {
-    "headline": "U.S. Treasury Yields End Higher",
-    "link": "https://www.wsj.com/finance/ten-year-jgb-yield-declines-after-lackluster-japan-gdp-data-1d2d1646?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-08-20-49-00 +0000"
   },
@@ -3630,12 +3750,6 @@
     "pubdate": "2025-12-08-16-25-51 +0000"
   },
   {
-    "headline": "L’Oréal Doubles Stake in Swiss Skincare Company Galderma",
-    "link": "https://www.wsj.com/business/deals/loreal-doubles-stake-in-swiss-skincare-company-galderma-616728ca?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-08-16-21-00 +0000"
-  },
-  {
     "headline": "Rebrand for golf course named after former prince Andrew",
     "link": "https://www.bbc.com/news/articles/cq8deqv8e74o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3696,12 +3810,6 @@
     "pubdate": "2025-12-08-15-39-53 +0000"
   },
   {
-    "headline": "Hunt under way for Benin coup plotters as two hostages reportedly freed",
-    "link": "https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-08-15-39-53 +0000"
-  },
-  {
     "headline": "Liberals to open new fast track to permanent residency for 5,000 foreign doctors",
     "link": "https://www.cbc.ca/news/politics/diab-foreign-doctors-permanent-residency-9.7006937?cmp=rss",
     "source": "cbc",
@@ -3736,12 +3844,6 @@
     "link": "https://www.washingtonpost.com/world/2025/12/07/trump-thailand-cambodia-peace-deal-under-threat/",
     "source": "wapo",
     "pubdate": "2025-12-08-15-11-38 +0000"
-  },
-  {
-    "headline": "Wealthy nepo baby called dad to ask for lawyer as his girlfriend lay dying after he stabbed and choked her: court",
-    "link": "https://nypost.com/2025/12/08/world-news/wealthy-student-joshua-michals-called-dad-to-ask-for-lawyer-as-his-girlfriend-lay-dying-court/",
-    "source": "nypost",
-    "pubdate": "2025-12-08-15-09-53 +0000"
   },
   {
     "headline": "Paramount launches hostile $78-billion bid for Warner Bros., with backing from Trump's son-in-law",
@@ -3808,12 +3910,6 @@
     "link": "https://missionlocal.org/2025/12/sf-photos-the-garden-is-open/",
     "source": "missionlocal",
     "pubdate": "2025-12-08-14-00-00 +0000"
-  },
-  {
-    "headline": "Elon Musk's X bans European Commission from making ads after €120m fine",
-    "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-08-12-19-21 +0000"
   },
   {
     "headline": "Elon Musk's X bans European Commission from making ads after €120m fine",
@@ -4206,22 +4302,10 @@
     "pubdate": "2025-12-08-02-52-09 +0000"
   },
   {
-    "headline": "Trump says he will be ‘involved’ in vetting Netflix-Warner deal",
-    "link": "https://www.washingtonpost.com/business/2025/12/07/netflix-warner-bros-discovery-trump/",
-    "source": "wapo",
-    "pubdate": "2025-12-08-02-40-46 +0000"
-  },
-  {
     "headline": "Chan stands up to her male colleagues—and suddenly they’re acting all offended",
     "link": "https://48hills.org/2025/12/chan-stands-up-to-her-male-colleagues-and-suddenly-they-are-acting-all-offended/",
     "source": "48hills",
     "pubdate": "2025-12-08-02-28-45 +0000"
-  },
-  {
-    "headline": "Former Australian deputy PM joins anti-immigration party One Nation",
-    "link": "https://www.bbc.com/news/articles/cqxq8g4d873o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-08-02-19-24 +0000"
   },
   {
     "headline": "Millions of Defective Air Bags Have Been Recalled—but They’re Still Not Fixed",
@@ -4518,14 +4602,14 @@
     "pubdate": "2025-12-07-11-00-00 +0000"
   },
   {
-    "headline": "Barabak: She's a liar, swindler and cheat. So why wouldn't Trump pardon her?",
-    "link": "https://www.latimes.com/politics/story/2025-12-07/trump-pardons-elizabeth-holmes-theranos",
+    "headline": "Chabria: Is RFK Jr. better on women's health than Newsom? We're about to find out",
+    "link": "https://www.latimes.com/politics/story/2025-12-07/chabria-column-rfk-jr-gavin-newsom-halle-berry-womens-health",
     "source": "latimes",
     "pubdate": "2025-12-07-11-00-00 +0000"
   },
   {
-    "headline": "Chabria: Is RFK Jr. better on women's health than Newsom? We're about to find out",
-    "link": "https://www.latimes.com/politics/story/2025-12-07/chabria-column-rfk-jr-gavin-newsom-halle-berry-womens-health",
+    "headline": "Barabak: She's a liar, swindler and cheat. So why wouldn't Trump pardon her?",
+    "link": "https://www.latimes.com/politics/story/2025-12-07/trump-pardons-elizabeth-holmes-theranos",
     "source": "latimes",
     "pubdate": "2025-12-07-11-00-00 +0000"
   },
@@ -4564,12 +4648,6 @@
     "link": "https://www.cbc.ca/news/politics/f-35-maintenance-quebec-9.7004592?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-12-07-09-00-00 +0000"
-  },
-  {
-    "headline": "Mexico's Cruz retains title with controversial draw",
-    "link": "https://www.bbc.com/sport/boxing/articles/cqxqggrvwlxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-07-08-21-21 +0000"
   },
   {
     "headline": "Reverse advent calendar call-out from foodbank",
@@ -5400,12 +5478,6 @@
     "pubdate": "2025-12-05-15-01-36 +0000"
   },
   {
-    "headline": "Government pledges to end children living in B&Bs",
-    "link": "https://www.bbc.com/news/articles/c0l9nrkd4z6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-05-15-01-25 +0000"
-  },
-  {
     "headline": "Sunset Buzz: More matcha, Japanese sandos, but who will open a new hardware store?",
     "link": "https://missionlocal.org/2025/12/sf-sunset-buzz-december/",
     "source": "missionlocal",
@@ -5644,12 +5716,6 @@
     "link": "https://www.latimes.com/entertainment-arts/movies/story/2025-12-04/mortal-kombat-star-martial-artist-cary-hiroyuki-tagawa-dies-at-75",
     "source": "latimes",
     "pubdate": "2025-12-05-04-54-18 +0000"
-  },
-  {
-    "headline": "At Zinn Fair, Steve Martinot connects police brutality to US fascism’s rise",
-    "link": "https://48hills.org/2025/12/at-zinn-fair-steve-martinot-connects-police-brutality-to-us-fascisms-rise/",
-    "source": "48hills",
-    "pubdate": "2025-12-05-04-25-38 +0000"
   },
   {
     "headline": "The Furor Over Trump’s Boat Attacks and a Particular Follow-Up Strike, Explained",
@@ -6568,11 +6634,5 @@
     "link": "https://www.wsj.com/politics/elections/republican-wins-closely-watched-house-special-election-in-tennessee-ca766587",
     "source": "wsj",
     "pubdate": "2025-12-03-04-10-00 +0000"
-  },
-  {
-    "headline": "Ukraine Goes After Moscow’s Shadow Fleet in International Waters",
-    "link": "https://www.wsj.com/world/europe/ukraine-russia-energy-attacks-1cec032d",
-    "source": "wsj",
-    "pubdate": "2025-12-03-04-00-00 +0000"
   }
 ]
