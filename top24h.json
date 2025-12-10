@@ -1,17 +1,24 @@
 [
   {
-    "score": 132,
+    "score": 128,
     "pubdate": "2025-12-09-11-56-07 +0000",
     "source": "nypost",
     "headline": "Trump warns Ukraine is ‘losing’ Russia war, calls for new elections despite wartime prohibition",
     "link": "https://nypost.com/2025/12/09/us-news/trump-says-ukraine-should-hold-elections-despite-wartime-prohibition/"
   },
   {
-    "score": 74,
+    "score": 72,
     "pubdate": "2025-12-09-19-12-00 +0000",
     "source": "wsj",
     "headline": "Bruce Blakeman, a Long Island Republican who touts his support of ICE, will run for governor of New York, setting up a primary battle with Rep. Elise Stefanik",
     "link": "https://www.wsj.com/politics/elections/long-island-republican-bruce-blakeman-launches-bid-for-new-york-governor-cda36abc"
+  },
+  {
+    "score": 71,
+    "pubdate": "2025-12-10-05-05-52 +0000",
+    "source": "bbc",
+    "headline": "Kids locked out of social media apps after Australia's world-first ban",
+    "link": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 64,
@@ -28,18 +35,25 @@
     "link": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
+    "score": 53,
+    "pubdate": "2025-12-10-05-41-55 +0000",
+    "source": "nypost",
+    "headline": "Accused Georgia high school shooter Colt Gray shows off drastically different appearance at court hearing",
+    "link": "https://nypost.com/2025/12/10/us-news/georgia-high-school-shooter-colt-gray-shows-off-drastically-different-appearance-at-court-hearing/"
+  },
+  {
+    "score": 50,
     "pubdate": "2025-12-09-11-54-00 +0000",
     "source": "wsj",
     "headline": "President Trump now has enormous power over the future of Warner Bros. Discovery. Read more in today’s WSJ Politics newsletter:",
     "link": "https://www.wsj.com/politics/policy/in-warner-fight-a-hollywood-plot-that-makes-trump-the-star-ae56fa25"
   },
   {
-    "score": 49,
-    "pubdate": "2025-12-10-00-37-01 +0000",
-    "source": "nypost",
-    "headline": "Trump kicks off affordability messaging tour after GOP’s rough off-year elections",
-    "link": "https://nypost.com/2025/12/09/us-news/trump-kicks-off-affordability-messaging-tour-after-gops-rough-off-year-elections/"
+    "score": 50,
+    "pubdate": "2025-12-09-19-30-00 +0000",
+    "source": "wsj",
+    "headline": "Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China",
+    "link": "https://www.wsj.com/tech/ai/nvidia-ai-chips-to-undergo-unusual-u-s-security-review-before-export-to-china-5e73cd55"
   },
   {
     "score": 49,
@@ -49,24 +63,10 @@
     "link": "https://www.wsj.com/articles/bank-of-canada-expected-to-begin-long-rate-pause-with-wednesdays-decision-97448314"
   },
   {
-    "score": 48,
-    "pubdate": "2025-12-09-13-30-50 +0000",
-    "source": "bbc",
-    "headline": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
-    "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-12-10-00-29-07 +0000",
-    "source": "nyt",
-    "headline": "U.S. Plans to Scrutinize Foreign Tourists’ Social Media History",
-    "link": "https://www.nytimes.com/2025/12/09/travel/social-media-tourists-visa-border-patrol.html"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-12-09-11-00-43 +0000",
-    "source": "wapo",
-    "headline": "Have you seen this (AI-generated) man? Police swap suspect sketches for AI.",
-    "link": "https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/"
+    "score": 39,
+    "pubdate": "2025-12-09-17-17-36 +0000",
+    "source": "cbc",
+    "headline": "Lithuania declares national emergency over balloons entering airspace from Belarus",
+    "link": "https://www.cbc.ca/news/world/lithuania-belarus-tensions-balloons-9.7008452?cmp=rss"
   }
 ]
