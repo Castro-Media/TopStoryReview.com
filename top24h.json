@@ -1,45 +1,66 @@
 [
   {
-    "score": 193,
-    "pubdate": "2025-12-10-23-56-02 +0000",
-    "source": "nypost",
-    "headline": "Trump says he wants a new owner for CNN as part of any sale of Warner Bros. Discovery:  ‘A very dishonest group of people’",
-    "link": "https://nypost.com/2025/12/10/media/trump-says-he-wants-a-new-owner-for-cnn-as-part-of-any-sale-of-warner-bros-discovery/"
-  },
-  {
-    "score": 125,
-    "pubdate": "2025-12-11-00-41-04 +0000",
-    "source": "nyt",
-    "headline": "Oil Tanker U.S. Seized Off Venezuela Has Faked Its Location Before, Data Shows",
-    "link": "https://www.nytimes.com/2025/12/10/us/politics/oil-tanker-venezuela-tracking-data.html"
-  },
-  {
-    "score": 112,
-    "pubdate": "2025-12-11-00-32-00 +0000",
+    "score": 199,
+    "pubdate": "2025-12-11-04-00-00 +0000",
     "source": "wsj",
-    "headline": "Fed Chair Jerome Powell said that Fed staffers believe federal data could be overstating job creation by up to 60,000 jobs a month—which suggests the jobs market might be shrinking",
-    "link": "https://www.wsj.com/economy/jobs/fed-chair-jerome-powell-says-u-s-may-be-drastically-overstating-jobs-numbers-741c635d"
+    "headline": "President Trump wants lower interest rates and a new Fed chair. Wednesday’s divisions suggest one won’t guarantee the other.",
+    "link": "https://www.wsj.com/economy/central-banking/feds-fractured-vote-signals-trouble-ahead-for-future-rate-cuts-d13f183f"
   },
   {
-    "score": 93,
+    "score": 127,
+    "pubdate": "2025-12-10-22-35-53 +0000",
+    "source": "bbc",
+    "headline": "Watch: Video shows US military seizing oil tanker off Venezuela coast",
+    "link": "https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 95,
     "pubdate": "2025-12-10-05-05-52 +0000",
     "source": "bbc",
     "headline": "Kids locked out of social media apps after Australia's world-first ban",
     "link": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 72,
+    "score": 86,
     "pubdate": "2025-12-10-17-09-40 +0000",
     "source": "nypost",
     "headline": "Machado’s daughter accepts Nobel Peace Prize in Venezuelan opposition leader’s absence",
     "link": "https://nypost.com/2025/12/10/world-news/machados-daughter-accepts-nobel-peace-prize-in-venezuelan-opposition-leaders-absence/"
   },
   {
-    "score": 68,
+    "score": 78,
+    "pubdate": "2025-12-10-23-56-02 +0000",
+    "source": "nypost",
+    "headline": "Trump says he wants a new owner for CNN as part of any sale of Warner Bros. Discovery:  ‘A very dishonest group of people’",
+    "link": "https://nypost.com/2025/12/10/media/trump-says-he-wants-a-new-owner-for-cnn-as-part-of-any-sale-of-warner-bros-discovery/"
+  },
+  {
+    "score": 66,
+    "pubdate": "2025-12-11-03-33-07 +0000",
+    "source": "nypost",
+    "headline": "Olivia Nuzzi was ‘elated’ when RFK Jr. affair story broke, ex-fiance Ryan Lizza writes in latest tell-all",
+    "link": "https://nypost.com/2025/12/10/us-news/rfk-jr-stopped-ghosting-olivia-nuzzi-after-affair-scandal-broke-ryan-lizza-claims/"
+  },
+  {
+    "score": 65,
     "pubdate": "2025-12-10-22-54-46 +0000",
     "source": "latimes",
     "headline": "Six Flags Magic Mountain plans to demolish two park rides — will you miss them?",
     "link": "https://www.latimes.com/california/story/2025-12-10/six-flags-magic-mountain-plans-to-demolish-two-historical-kids-rides"
+  },
+  {
+    "score": 61,
+    "pubdate": "2025-12-11-03-52-00 +0000",
+    "source": "bbc",
+    "headline": "Shares in AI giant Oracle fall after revenue results ramp up bubble fears",
+    "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
+    "pubdate": "2025-12-10-20-09-00 +0000",
+    "source": "wsj",
+    "headline": "The Journal answered subscribers’ questions about Fed decision-making in the absence of key data from government agencies, the impact of tariffs and inflation on the rate decision, and more",
+    "link": "https://www.wsj.com/economy/central-banking/live-q-a-the-feds-rate-decisionwe-answer-your-questions-on-the-economy-markets-and-more-2f3342a7"
   },
   {
     "score": 60,
@@ -47,26 +68,5 @@
     "source": "wsj",
     "headline": "Judge Orders Trump Administration to End National Guard Deployment in Los Angeles",
     "link": "https://www.wsj.com/us-news/law/judge-orders-trump-administration-to-end-national-guard-deployment-in-los-angeles-ed420fce"
-  },
-  {
-    "score": 56,
-    "pubdate": "2025-12-10-20-13-01 +0000",
-    "source": "nypost",
-    "headline": "Nvidia builds AI chip-tracking software while facing pressure over China smuggling: report",
-    "link": "https://nypost.com/2025/12/10/business/nvidia-builds-ai-chip-tracking-software-amid-pressure-over-china-smuggling-report/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2025-12-10-23-21-00 +0000",
-    "source": "wsj",
-    "headline": "More Republicans in the House and Senate are breaking with party leaders and saying the GOP should extend expiring Affordable Care Act subsidies",
-    "link": "https://www.wsj.com/politics/policy/some-republicans-break-with-leaders-in-healthcare-fight-362dc861"
-  },
-  {
-    "score": 53,
-    "pubdate": "2025-12-10-21-08-59 +0000",
-    "source": "nypost",
-    "headline": "Here’s what the interest-rate cut means for borrowers on everything from credit cards to mortgages",
-    "link": "https://nypost.com/2025/12/10/business/heres-what-interest-rate-cut-means-for-borrowers-on-everything-from-credit-cards-to-mortgages/"
   }
 ]
