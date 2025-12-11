@@ -1,30 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2025-12-11-13-05-12 +0000",
+    "score": 38,
+    "pubdate": "2025-12-11-14-24-28 +0000",
+    "source": "nyt",
+    "headline": "Trump Doesn’t Want to Talk About Affordability. Democrats Say That’s a Gift.",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/trump-affordability-democrats.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2025-12-11-14-19-47 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Tariffs Shrank the U.S. Trade Deficit in September",
+    "link": "https://www.nytimes.com/2025/12/11/business/economy/trump-tariffs-trade-deficit.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-12-11-14-46-01 +0000",
+    "source": "nyt",
+    "headline": "Khmer Rouge-Era Land Mines Have a Big Role in Thailand-Cambodia Conflict",
+    "link": "https://www.nytimes.com/2025/12/10/world/asia/thailand-cambodia-war-mines.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-12-11-14-10-14 +0000",
+    "source": "nyt",
+    "headline": "Lawsuit Challenges Park Service Passes Featuring Trump",
+    "link": "https://www.nytimes.com/2025/12/10/climate/lawsuit-park-service-passes-trump.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-12-11-14-19-33 +0000",
+    "source": "nyt",
+    "headline": "A Single Mother’s Fight to Free Her Daughter From Saudi Arabia",
+    "link": "https://www.nytimes.com/2025/12/11/world/africa/saudi-arabia-unmarried-mothers.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-11-14-49-20 +0000",
+    "source": "nyt",
+    "headline": "Bulgaria’s Prime Minister Resigns in the Face of Mass Protests",
+    "link": "https://www.nytimes.com/2025/12/11/world/europe/bulgaria-prime-minister-resigns-protests.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-11-14-38-33 +0000",
+    "source": "nyt",
+    "headline": "Senate Expected to Deadlock Over Health Care in Dueling Votes",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/health-care-senate-affordable-care-act.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-11-14-03-25 +0000",
     "source": "bbc",
-    "headline": "Panic in France as children fall victim to lethal violence of Marseille drug gangs",
-    "link": "https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss"
+    "headline": "Pakistan's military sentences its former spy chief to 14 years in jail",
+    "link": "https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-11-13-59-13 +0000",
+    "source": "bbc",
+    "headline": "Ghana deports Israelis in retaliation for alleged mistreatment of Ghanaians",
+    "link": "https://www.bbc.com/news/articles/cjdr0gjzxkxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 11,
-    "pubdate": "2025-12-11-13-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Why is San Francisco’s pro-housing mayor opposing new housing in the Marina?",
-    "link": "https://missionlocal.org/2025/12/sf-marina-safeway-housing-daniel-lurie/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2025-12-11-13-03-53 +0000",
-    "source": "wapo",
-    "headline": "Every year, she thanks the trooper for the arrest that led to her sobriety",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/12/11/ohio-drunk-driving-woman-thanks-trooper/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-12-11-13-05-12 +0000",
+    "pubdate": "2025-12-11-14-49-46 +0000",
     "source": "bbc",
-    "headline": "Panic in France as children fall victim to lethal violence of Marseille drug gangs",
-    "link": "https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss"
+    "headline": "'There is no other joy' say Gazans, as Palestine readies for pivotal football match",
+    "link": "https://www.bbc.com/news/articles/c93wdz5043no?at_medium=RSS&at_campaign=rss"
   }
 ]
