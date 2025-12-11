@@ -1,32 +1,242 @@
 [
   {
-    "headline": "Senate Deadlocks Over Obamacare Subsidies in Dueling Votes",
-    "link": "https://www.nytimes.com/2025/12/11/us/politics/health-care-senate-affordable-care-act.html",
-    "source": "nyt",
-    "pubdate": "2025-12-11-18-57-11 +0000"
+    "headline": "House of Commons agrees to break for 6-week holiday recess, will return in new year",
+    "link": "https://www.cbc.ca/news/politics/house-of-commons-rises-winter-break-9.7012237?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-11-20-46-14 +0000"
   },
   {
-    "headline": "Senate Deadlocks Over Obamacare Subsidies in Dueling Votes",
-    "link": "https://www.nytimes.com/2025/12/11/us/politics/health-care-senate-affordable-care-act.html",
-    "source": "nyt",
-    "pubdate": "2025-12-11-18-57-11 +0000"
-  },
-  {
-    "headline": "U.S. Helped to Weaken Report at U.N. Environment Talks, Participants Say",
-    "link": "https://www.nytimes.com/2025/12/11/climate/unep-climate-report-trump-administration.html",
-    "source": "nyt",
-    "pubdate": "2025-12-11-18-54-15 +0000"
-  },
-  {
-    "headline": "U.S. Helped to Weaken Report at U.N. Environment Talks, Participants Say",
-    "link": "https://www.nytimes.com/2025/12/11/climate/unep-climate-report-trump-administration.html",
-    "source": "nyt",
-    "pubdate": "2025-12-11-18-54-15 +0000"
-  },
-  {
-    "headline": "Ukraine Pitches Trump on Vision for Peace, but Tensions Over Territory Remain",
-    "link": "https://www.wsj.com/world/europe/ukraine-pitches-trump-on-vision-for-peace-but-tensions-over-territory-remain-a16295c4",
+    "headline": "Grand Jury Refuses Latest Attempt to Indict Letitia James",
+    "link": "https://www.wsj.com/us-news/law/grand-jury-refuses-latest-attempt-to-indict-letitia-james-203e5202",
     "source": "wsj",
-    "pubdate": "2025-12-11-18-54-00 +0000"
+    "pubdate": "2025-12-11-20-46-00 +0000"
+  },
+  {
+    "headline": "Dollar Down as Markets Adjust Fed Outlook",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-amid-risk-on-sentiment-b84eddf1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-11-20-46-00 +0000"
+  },
+  {
+    "headline": "A DealBook Task Force Grapples With Media Trust and Biases",
+    "link": "https://www.nytimes.com/2025/12/10/business/dealbook/media-task-force-trust-biases.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-43-06 +0000"
+  },
+  {
+    "headline": "Treasury Yields, Dollar Down as Markets Adjust Fed Outlook",
+    "link": "https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-d790b611?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-11-20-42-00 +0000"
+  },
+  {
+    "headline": "Long Island city bans smoking pot in public as stink-weary residents say ‘there is a time and a place’",
+    "link": "https://nypost.com/2025/12/11/us-news/long-island-city-bans-smoking-pot-in-public-as-stink-weary-residents-say-there-is-a-time-and-a-place/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-41-41 +0000"
+  },
+  {
+    "headline": "Oracle Shares Tumble on AI Spending Worries",
+    "link": "https://www.wsj.com/finance/stocks/oracle-shares-tumble-thursday-weighing-on-market-c60649a4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-11-20-39-00 +0000"
+  },
+  {
+    "headline": "São Paulo blackout leaves 1.4M without power, hundreds of flights canceled",
+    "link": "https://nypost.com/2025/12/11/world-news/blackout-in-brazil-leaves-1-4m-in-sao-paulo-without-power-flights-canceled/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-36-01 +0000"
+  },
+  {
+    "headline": "Top Democrat skewered by Kristi Noem for calling DC National Guard attack an ‘unfortunate accident’",
+    "link": "https://nypost.com/2025/12/11/us-news/rep-bennie-thompson-skewered-by-kristi-noem-for-calling-dc-national-guard-attack-an-unfortunate-accident/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-33-35 +0000"
+  },
+  {
+    "headline": "Top Democrat skewered by Kristi Noem for calling DC National Guard attack an ‘unfortunate accident’",
+    "link": "https://nypost.com/2025/12/11/us-news/rep-bennie-thompson-skewered-by-kristi-noem-for-calling-dc-national-guard-attack-an-unfortunate-accident/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-33-35 +0000"
+  },
+  {
+    "headline": "Hollywood Director Is Convicted in $11 Million Scheme to Defraud Netflix",
+    "link": "https://www.nytimes.com/2025/12/11/business/media/carl-erik-rinsch-netflix-fraud.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-33-15 +0000"
+  },
+  {
+    "headline": "Hamas Committed War Crimes in 2023 Attack on Israel, Amnesty International Says",
+    "link": "https://www.nytimes.com/2025/12/11/world/middleeast/amnesty-international-hamas-war-crimes-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-32-50 +0000"
+  },
+  {
+    "headline": "Hamas Committed War Crimes in 2023 Attack on Israel, Amnesty International Says",
+    "link": "https://www.nytimes.com/2025/12/11/world/middleeast/amnesty-international-hamas-war-crimes-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-32-50 +0000"
+  },
+  {
+    "headline": "New Eli Lilly Drug Retatrutide Brought Major Weight Loss in Trial",
+    "link": "https://www.nytimes.com/2025/12/11/health/eli-lilly-retatrutide-weight-loss-drug.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-30-35 +0000"
+  },
+  {
+    "headline": "A Grand Jury Again Resists Trump’s Push to Re-Indict Letitia James",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/grand-jury-letitia-james.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-27-43 +0000"
+  },
+  {
+    "headline": "A Grand Jury Again Resists Trump’s Push to Re-Indict Letitia James",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/grand-jury-letitia-james.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-27-43 +0000"
+  },
+  {
+    "headline": "Here’s What to Know About Japan’s Mega Quake Advisory",
+    "link": "https://www.nytimes.com/2025/12/11/world/asia/japan-megaquake-warning.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-27-36 +0000"
+  },
+  {
+    "headline": "Here’s What to Know About Japan’s Mega Quake Advisory",
+    "link": "https://www.nytimes.com/2025/12/11/world/asia/japan-megaquake-warning.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-27-36 +0000"
+  },
+  {
+    "headline": "Sick with a cold? Doctors warn that favorite comfort foods could make you feel worse",
+    "link": "https://nypost.com/2025/12/11/health/doctors-warn-some-comfort-foods-are-the-wrong-choices-during-illness/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-27-13 +0000"
+  },
+  {
+    "headline": "UC Santa Barbara staffer egged on antisemitism against Jewish student — as school refused to help her: lawsuit",
+    "link": "https://nypost.com/2025/12/11/us-news/uc-santa-barbara-did-nothing-to-stop-antisemitic-attacks-against-student-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-26-02 +0000"
+  },
+  {
+    "headline": "Meet the senior hipsters lighting up NYC: Aging gracefully is out — and living large is in",
+    "link": "https://nypost.com/2025/12/11/lifestyle/these-nyc-seniors-are-redefining-hipster-living-large-and-rewriting-their-scripts/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-24-08 +0000"
+  },
+  {
+    "headline": "What Does the Oil Tanker Seizure Mean for Venezuela’s Economy?",
+    "link": "https://www.nytimes.com/2025/12/11/world/americas/oil-tanker-venezuela-economy-chevron.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-23-33 +0000"
+  },
+  {
+    "headline": "What Does the Oil Tanker Seizure Mean for Venezuela’s Economy?",
+    "link": "https://www.nytimes.com/2025/12/11/world/americas/oil-tanker-venezuela-economy-chevron.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-23-33 +0000"
+  },
+  {
+    "headline": "US preparing to seize more tankers off Venezuela’s coast after first ship taken, sources say",
+    "link": "https://nypost.com/2025/12/11/world-news/us-preparing-to-seize-more-tankers-off-venezuelas-coast-after-first-ship-taken-sources-say/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-15-33 +0000"
+  },
+  {
+    "headline": "NYC mom who claimed her missing autistic son didn’t exist released from jail — but still no answers on his whereabouts",
+    "link": "https://nypost.com/2025/12/11/us-news/nyc-mom-who-claimed-her-missing-autistic-son-didnt-exist-released-from-jail-but-still-no-answers-on-his-whereabouts/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-15-07 +0000"
+  },
+  {
+    "headline": "Ex-Ky. sheriff admits to gunning down judge — but claims he ‘had no control’ over actions: report",
+    "link": "https://nypost.com/2025/12/11/us-news/shawn-stines-admits-to-shooting-judge-kevin-mullins-says-he-had-no-control-over-actions/",
+    "source": "nypost",
+    "pubdate": "2025-12-11-20-15-07 +0000"
+  },
+  {
+    "headline": "U.S. seizes ‘very large’ oil tanker off Venezuelan coast, Trump says",
+    "link": "https://www.washingtonpost.com/world/2025/12/10/venezuela-oil-tanker-seizure/",
+    "source": "wapo",
+    "pubdate": "2025-12-11-20-14-51 +0000"
+  },
+  {
+    "headline": "Bessent Accelerates Regulation Overhaul to Jumpstart Growth",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/bessent-regulation.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-12-54 +0000"
+  },
+  {
+    "headline": "Bessent Accelerates Regulation Overhaul to Jumpstart Growth",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/bessent-regulation.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-12-54 +0000"
+  },
+  {
+    "headline": "Bessent Accelerates Regulation Overhaul to Jumpstart Growth",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/bessent-regulation.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-12-54 +0000"
+  },
+  {
+    "headline": "The Conflict Over Nigeria’s Returned Treasures",
+    "link": "https://www.nytimes.com/video/world/africa/100000010524653/returning-benin-bronzes.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-09-43 +0000"
+  },
+  {
+    "headline": "The Conflict Over Nigeria’s Returned Treasures",
+    "link": "https://www.nytimes.com/video/world/africa/100000010524653/returning-benin-bronzes.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-09-43 +0000"
+  },
+  {
+    "headline": "Mexico Approves 50% Tariffs on Many Chinese Imports",
+    "link": "https://www.nytimes.com/2025/12/11/world/americas/mexico-tariffs-china.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-05-47 +0000"
+  },
+  {
+    "headline": "Mexico Approves 50% Tariffs on Many Chinese Imports",
+    "link": "https://www.nytimes.com/2025/12/11/world/americas/mexico-tariffs-china.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-05-47 +0000"
+  },
+  {
+    "headline": "Zelensky Says Revised U.S. Plan Still Calls for Ukraine to Leave Donbas",
+    "link": "https://www.nytimes.com/2025/12/11/world/europe/trump-ukraine-european-leaders.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-05-11 +0000"
+  },
+  {
+    "headline": "Zelensky Says Revised U.S. Plan Still Calls for Ukraine to Leave Donbas",
+    "link": "https://www.nytimes.com/2025/12/11/world/europe/trump-ukraine-european-leaders.html",
+    "source": "nyt",
+    "pubdate": "2025-12-11-20-05-11 +0000"
+  },
+  {
+    "headline": "Crude Futures Settle Lower On Surplus Concerns",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-tensions-between-u-s-and-venezuela-71f0d975?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-11-20-04-00 +0000"
+  },
+  {
+    "headline": "L.A. traffic is actually getting better. That's not entirely a good thing. Here's why",
+    "link": "https://www.latimes.com/california/story/2025-12-11/la-traffic-is-getting-better-thats-not-entirely-good-thing",
+    "source": "latimes",
+    "pubdate": "2025-12-11-20-00-24 +0000"
+  },
+  {
+    "headline": "After 97 years and a catastrophic fire, the Palisadian-Post newspaper ceases publication",
+    "link": "https://www.latimes.com/california/story/2025-12-11/pacific-palisades-palisadian-post-newspaper-shuts-down",
+    "source": "latimes",
+    "pubdate": "2025-12-11-19-56-38 +0000"
+  },
+  {
+    "headline": "After 97 years and a catastrophic fire, the Palisadian-Post newspaper ceases publication",
+    "link": "https://www.latimes.com/california/story/2025-12-11/pacific-palisades-palisadian-post-newspaper-shuts-down",
+    "source": "latimes",
+    "pubdate": "2025-12-11-19-56-38 +0000"
   }
 ]
