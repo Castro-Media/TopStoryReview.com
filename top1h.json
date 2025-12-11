@@ -1,23 +1,37 @@
 [
   {
-    "score": 8,
-    "pubdate": "2025-12-11-16-59-31 +0000",
+    "score": 12,
+    "pubdate": "2025-12-11-18-57-11 +0000",
     "source": "nyt",
-    "headline": "Noem Faces Questions From House Panel Amid Immigration Crackdown",
-    "link": "https://www.nytimes.com/2025/12/11/us/politics/noem-house-hearing-immigration-crackdown.html"
+    "headline": "Senate Deadlocks Over Obamacare Subsidies in Dueling Votes",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/health-care-senate-affordable-care-act.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-11-18-54-15 +0000",
+    "source": "nyt",
+    "headline": "U.S. Helped to Weaken Report at U.N. Environment Talks, Participants Say",
+    "link": "https://www.nytimes.com/2025/12/11/climate/unep-climate-report-trump-administration.html"
   },
   {
     "score": 8,
-    "pubdate": "2025-12-11-16-59-00 +0000",
+    "pubdate": "2025-12-11-18-54-00 +0000",
     "source": "wsj",
-    "headline": "Democratic Measure Extending ACA Subsidies Expected to Fail in Senate",
-    "link": "https://www.wsj.com/politics/policy/senate-to-vote-on-dueling-healthcare-proposals-2f6af573"
+    "headline": "Ukraine Pitches Trump on Vision for Peace, but Tensions Over Territory Remain",
+    "link": "https://www.wsj.com/world/europe/ukraine-pitches-trump-on-vision-for-peace-but-tensions-over-territory-remain-a16295c4"
   },
   {
-    "score": 7,
-    "pubdate": "2025-12-11-16-58-00 +0000",
+    "score": 0,
+    "pubdate": "2025-12-11-18-57-11 +0000",
     "source": "nyt",
-    "headline": "Syria, Rebuilding Its Military, Relies on Loyalists and Religious Teaching",
-    "link": "https://www.nytimes.com/2025/12/11/world/middleeast/syria-government-religion.html"
+    "headline": "Senate Deadlocks Over Obamacare Subsidies in Dueling Votes",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/health-care-senate-affordable-care-act.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-12-11-18-54-15 +0000",
+    "source": "nyt",
+    "headline": "U.S. Helped to Weaken Report at U.N. Environment Talks, Participants Say",
+    "link": "https://www.nytimes.com/2025/12/11/climate/unep-climate-report-trump-administration.html"
   }
 ]
