@@ -1,20 +1,27 @@
 [
   {
-    "score": 157,
-    "pubdate": "2025-12-11-23-35-16 +0000",
-    "source": "nyt",
-    "headline": "What to Know About Trump’s Seizure of an Oil Tanker Near Venezuela",
-    "link": "https://www.nytimes.com/2025/12/11/us/politics/trump-venezuela-tanker.html"
+    "score": 163,
+    "pubdate": "2025-12-12-02-38-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said",
+    "link": "https://www.wsj.com/politics/policy/trump-signs-executive-order-to-curtail-state-ai-laws-4ffc09a9"
   },
   {
-    "score": 112,
+    "score": 103,
     "pubdate": "2025-12-12-04-22-00 +0000",
     "source": "wsj",
     "headline": "The Nobel Peace Prize winner and Venezuelan opposition leader María Corina Machado was lost in the Caribbean with no communication for hours before an extraction team found her",
     "link": "https://www.wsj.com/world/americas/rescued-at-sea-how-venezuelas-machado-survived-the-riskiest-leg-of-her-escape-1e47a73c"
   },
   {
-    "score": 76,
+    "score": 99,
+    "pubdate": "2025-12-11-23-40-28 +0000",
+    "source": "bbc",
+    "headline": "US sanctions six more ships after seizing oil tanker off Venezuela",
+    "link": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 79,
     "pubdate": "2025-12-12-12-00-00 +0000",
     "source": "nypost",
     "headline": "Fed chief frontrunner Kevin Hassett will do whatever it takes to push through Trump’s MAGA-nomics",
@@ -28,21 +35,21 @@
     "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 74,
+    "score": 69,
     "pubdate": "2025-12-12-01-46-00 +0000",
     "source": "wsj",
     "headline": "The Indiana Senate has rejected a redistricting plan in a rebuke to President Trump, who mounted a pressure campaign on Republican lawmakers to adopt new congressional maps",
     "link": "https://www.wsj.com/politics/policy/indiana-redistricting-plan-rejected-in-rebuke-to-trump-07c53ac8"
   },
   {
-    "score": 65,
+    "score": 66,
     "pubdate": "2025-12-12-14-24-03 +0000",
     "source": "nyt",
     "headline": "Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan",
     "link": "https://www.nytimes.com/2025/12/12/world/europe/russia-ukraine-frozen-assets-belgium-euroclear.html"
   },
   {
-    "score": 64,
+    "score": 61,
     "pubdate": "2025-12-11-18-19-00 +0000",
     "source": "wsj",
     "headline": "China urged Mexico to rectify “unilateral, protectionist practices,” saying that tariffs of up to 50% announced by the Latin American country harm Chinese interests",
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2025/12/11/business/disney-to-let-users-make-ai-videos-featuring-beloved-characters-in-1b-deal-with-openai-accuses-google-of-copyright-infringement/"
   },
   {
-    "score": 52,
+    "score": 53,
     "pubdate": "2025-12-12-11-19-36 +0000",
     "source": "nypost",
     "headline": "Kilmar Abrego Garcia freed from immigration detention on judge’s order — returns to Maryland home",
     "link": "https://nypost.com/2025/12/12/us-news/kilmar-abrego-garcia-freed-from-immigration-detention-on-judges-order-returns-to-maryland-home/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-12-11-17-09-00 +0000",
-    "source": "wsj",
-    "headline": "Chicago is entangled in its fiercest budget battle in decades, and a central conflict among Democrats is over the mayor’s proposed $33-per-employee monthly “head tax” on large businesses",
-    "link": "https://www.wsj.com/politics/policy/chicago-democrats-feud-over-mayors-proposed-33-per-employee-tax-on-businesses-385cbd0a"
   }
 ]
