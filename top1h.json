@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 18,
+    "pubdate": "2025-12-13-20-05-35 +0000",
+    "source": "nyt",
+    "headline": "Flight Returns to Dulles After Engine Failure During Takeoff, F.A.A. Says",
+    "link": "https://www.nytimes.com/2025/12/13/us/dulles-airport-fire-washington.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-12-13-20-06-27 +0000",
+    "source": "bbc",
+    "headline": "BBC captures celebrations as Belarus frees political prisoners",
+    "link": "https://www.bbc.com/news/videos/c8jw3841vk9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-12-13-20-29-18 +0000",
+    "source": "bbc",
+    "headline": "Angry fans throw chairs and bottles at Messi event in India",
+    "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-13-20-31-00 +0000",
+    "source": "wsj",
+    "headline": "Two U.S. Soldiers, American Civilian Interpreter Killed in Attack in Syria",
+    "link": "https://www.wsj.com/world/middle-east/u-s-troops-in-syria-wounded-in-ambush-be9d6622"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-12-13-20-03-02 +0000",
+    "source": "nypost",
+    "headline": "Kusher, Witkoff travel to Germany for pivotal talks with Zelensky, European leaders in search of Ukraine peace deal",
+    "link": "https://nypost.com/2025/12/13/world-news/kusher-witkoff-travel-to-germany-for-pivotal-talks-with-zelensky-in-search-of-ukraine-peace-deal/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-13-20-49-22 +0000",
+    "source": "startribune",
+    "headline": "Neal: Happy holidays, Wild fans. Quinn Hughes is the fantastic present you didn’t expect.",
+    "link": "https://www.startribune.com/neal-quinn-hughes-is-the-fantastic-present-wild-fans-didnt-expect/601542287"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-13-20-45-26 +0000",
+    "source": "nypost",
+    "headline": "Johnson & Johnson to pay $40M to 2 ovarian cancer patients after using brand’s talcum powders",
+    "link": "https://nypost.com/2025/12/13/us-news/johnson-amp-johnson-to-pay-40m-to-2-ovarian-cancer-patients-after-using-brands-talcum-powders/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2025-12-13-20-19-11 +0000",
+    "source": "nypost",
+    "headline": "Illegal immigrant bites ICE officer, draws blood while resisting arrest in Louisiana: DHS",
+    "link": "https://nypost.com/2025/12/13/us-news/illegal-immigrant-bites-ice-officer-draws-blood-while-resisting-arrest-in-tullos-louisiana/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-12-13-20-14-43 +0000",
+    "source": "latimes",
+    "headline": "Lancaster man accused of killing wife in August extradited from Peru",
+    "link": "https://www.latimes.com/california/story/2025-12-13/lancaster-man-accused-of-killing-wife-in-august-extradited-from-peru"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-12-13-20-38-50 +0000",
+    "source": "nyt",
+    "headline": "U.S. Forces Attacked in Syria, State Media Says",
+    "link": "https://www.nytimes.com/2025/12/13/world/middleeast/us-forces-attacked-syria.html"
+  }
+]
