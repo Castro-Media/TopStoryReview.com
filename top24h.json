@@ -1,20 +1,27 @@
 [
   {
-    "score": 187,
+    "score": 186,
     "pubdate": "2025-12-12-02-38-00 +0000",
     "source": "wsj",
     "headline": "President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said",
     "link": "https://www.wsj.com/politics/policy/trump-signs-executive-order-to-curtail-state-ai-laws-4ffc09a9"
   },
   {
-    "score": 97,
+    "score": 99,
     "pubdate": "2025-12-12-21-34-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he was leaning toward choosing either former Fed governor Kevin Warsh or National Economic Council Director Kevin Hassett to lead the Federal Reserve next year",
     "link": "https://www.wsj.com/economy/central-banking/trump-says-he-is-leaning-toward-warsh-or-hassett-to-lead-the-fed-34a200e5"
   },
   {
-    "score": 85,
+    "score": 88,
+    "pubdate": "2025-12-12-17-27-04 +0000",
+    "source": "nyt",
+    "headline": "A Seized Oil Tanker Off Venezuela and the Big Business of Dark Fleet Smuggling",
+    "link": "https://www.nytimes.com/2025/12/12/business/energy-environment/venezuela-oil-tanker-dark-fleet.html"
+  },
+  {
+    "score": 84,
     "pubdate": "2025-12-12-19-14-51 +0000",
     "source": "bbc",
     "headline": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
@@ -22,13 +29,6 @@
   },
   {
     "score": 79,
-    "pubdate": "2025-12-12-17-27-04 +0000",
-    "source": "nyt",
-    "headline": "A Seized Oil Tanker Off Venezuela and the Big Business of Dark Fleet Smuggling",
-    "link": "https://www.nytimes.com/2025/12/12/business/energy-environment/venezuela-oil-tanker-dark-fleet.html"
-  },
-  {
-    "score": 78,
     "pubdate": "2025-12-12-19-33-00 +0000",
     "source": "wsj",
     "headline": "New Epstein Photos Released by Democrats Show Donald Trump, Bill Clinton",
@@ -49,21 +49,21 @@
     "link": "https://www.wsj.com/politics/national-security/trumps-ok-of-ai-chip-sales-in-china-called-dangerous-by-senate-democrats-ba0f84e9"
   },
   {
-    "score": 50,
+    "score": 51,
     "pubdate": "2025-12-12-14-27-32 +0000",
     "source": "bbc",
     "headline": "Disguises, freezing waves, and a special forces veteran: Inside mission to sneak Nobel winner out of Venezuela",
     "link": "https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
+    "score": 48,
     "pubdate": "2025-12-12-07-15-23 +0000",
     "source": "nyt",
     "headline": "Reddit Sues Australian Government to Block Social Media Ban",
     "link": "https://www.nytimes.com/2025/12/11/world/asia/reddit-lawsuit-australia-social-media-ban.html"
   },
   {
-    "score": 48,
+    "score": 45,
     "pubdate": "2025-12-13-00-55-38 +0000",
     "source": "nyt",
     "headline": "Behind the Venezuelan Opposition Leader’s Daring Escape to Oslo",
