@@ -1,66 +1,52 @@
 [
   {
-    "score": 149,
-    "pubdate": "2025-12-12-21-34-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he was leaning toward choosing either former Fed governor Kevin Warsh or National Economic Council Director Kevin Hassett to lead the Federal Reserve next year",
-    "link": "https://www.wsj.com/economy/central-banking/trump-says-he-is-leaning-toward-warsh-or-hassett-to-lead-the-fed-34a200e5"
-  },
-  {
-    "score": 83,
-    "pubdate": "2025-12-13-19-22-53 +0000",
-    "source": "nypost",
-    "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
-    "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
-  },
-  {
-    "score": 62,
+    "score": 120,
     "pubdate": "2025-12-13-12-29-00 +0000",
     "source": "wsj",
     "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
     "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
   },
   {
-    "score": 49,
+    "score": 81,
+    "pubdate": "2025-12-13-19-22-53 +0000",
+    "source": "nypost",
+    "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
+    "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
+  },
+  {
+    "score": 59,
+    "pubdate": "2025-12-13-21-00-41 +0000",
+    "source": "nypost",
+    "headline": "Trump attends annual Army-Navy game after condemning attack that killed 3 Americans in Syria",
+    "link": "https://nypost.com/2025/12/13/us-news/trump-attends-annual-army-navy-game-after-condemning-attack-that-killed-3-americans-in-syria/"
+  },
+  {
+    "score": 55,
+    "pubdate": "2025-12-13-18-37-13 +0000",
+    "source": "nypost",
+    "headline": "Woman stabbed in NYC Macy’s bathroom while changing baby was going off ‘mom’s instinct’ in fighting off homeless attacker",
+    "link": "https://nypost.com/2025/12/13/us-news/woman-stabbed-in-nyc-macys-was-going-off-moms-instinct-while-fighting-off-homeless-attacker/"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-12-13-16-27-52 +0000",
     "source": "nyt",
     "headline": "To Get to Oslo, Machado Skirted Military Checkpoints and Survived Rough Seas",
     "link": "https://www.nytimes.com/2025/12/12/us/politics/machado-venezuela-escape-oslo.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-12-13-00-35-21 +0000",
-    "source": "bbc",
-    "headline": "As Trump targets Venezuela, its allies Russia and China show little signs of support",
-    "link": "https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 45,
-    "pubdate": "2025-12-13-19-32-58 +0000",
-    "source": "nypost",
-    "headline": "Trump tells ISIS, ‘we will retaliate’ after ‘terrible’ ambush that killed 3 US troops in Syria",
-    "link": "https://nypost.com/2025/12/13/us-news/president-trump-responds-to-terrible-ambush-that-killed-3-us-troops-in-syria-we-will-retaliate/"
-  },
-  {
-    "score": 44,
+    "score": 46,
     "pubdate": "2025-12-13-15-26-20 +0000",
     "source": "nypost",
     "headline": "Israel kills top Hamas commander Raad Saad with IDF strike in Gaza City, officials say",
     "link": "https://nypost.com/2025/12/13/world-news/israel-kills-top-hamas-commander-raad-saad-with-idf-strike-in-gaza-city-official-says/"
   },
   {
-    "score": 42,
-    "pubdate": "2025-12-13-01-09-53 +0000",
-    "source": "nyt",
-    "headline": "House G.O.P. Releases Health Plan That Would Allow Subsidies to End",
-    "link": "https://www.nytimes.com/2025/12/12/us/politics/republican-health-care-plan-subsidies-expire.html"
-  },
-  {
-    "score": 41,
-    "pubdate": "2025-12-13-18-37-13 +0000",
-    "source": "nypost",
-    "headline": "Woman stabbed in NYC Macy’s bathroom while changing baby was going off ‘mom’s instinct’ in fighting off homeless attacker",
-    "link": "https://nypost.com/2025/12/13/us-news/woman-stabbed-in-nyc-macys-was-going-off-moms-instinct-while-fighting-off-homeless-attacker/"
+    "score": 45,
+    "pubdate": "2025-12-13-00-35-21 +0000",
+    "source": "bbc",
+    "headline": "As Trump targets Venezuela, its allies Russia and China show little signs of support",
+    "link": "https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 40,
@@ -68,5 +54,19 @@
     "source": "cbc",
     "headline": "Organizer arrested after fans rip up seats, throw objects during Lionel Messi visit to India",
     "link": "https://www.cbc.ca/news/world/soccer-fans-messi-india-9.7014882?cmp=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2025-12-13-01-09-53 +0000",
+    "source": "nyt",
+    "headline": "House G.O.P. Releases Health Plan That Would Allow Subsidies to End",
+    "link": "https://www.nytimes.com/2025/12/12/us/politics/republican-health-care-plan-subsidies-expire.html"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-12-13-00-23-33 +0000",
+    "source": "nyt",
+    "headline": "U.S. Lifts Sanctions Against Justice Alexandre de Moraes of Brazil",
+    "link": "https://www.nytimes.com/2025/12/12/world/americas/brazil-us-sanctions-justice-moraes.html"
   }
 ]

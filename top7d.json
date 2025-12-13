@@ -1,6 +1,13 @@
 [
   {
-    "score": 345,
+    "score": 347,
+    "pubdate": "2025-12-12-02-38-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said",
+    "link": "https://www.wsj.com/politics/policy/trump-signs-executive-order-to-curtail-state-ai-laws-4ffc09a9"
+  },
+  {
+    "score": 180,
     "pubdate": "2025-12-12-21-34-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he was leaning toward choosing either former Fed governor Kevin Warsh or National Economic Council Director Kevin Hassett to lead the Federal Reserve next year",
@@ -21,7 +28,7 @@
     "link": "https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 126,
+    "score": 133,
     "pubdate": "2025-12-06-23-09-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat",
@@ -35,14 +42,14 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-army-changes-tools-and-tactics-to-prepare-for-the-next-pacific-war-93be0a4f"
   },
   {
-    "score": 104,
+    "score": 105,
     "pubdate": "2025-12-13-12-29-00 +0000",
     "source": "wsj",
     "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
     "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
   },
   {
-    "score": 97,
+    "score": 94,
     "pubdate": "2025-12-12-21-03-00 +0000",
     "source": "wsj",
     "headline": "Reddit Sues Australian Government for Under-16 Social Media Ban",
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
     "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 85,
-    "pubdate": "2025-12-10-22-54-46 +0000",
-    "source": "latimes",
-    "headline": "Six Flags Magic Mountain plans to demolish two park rides — will you miss them?",
-    "link": "https://www.latimes.com/california/story/2025-12-10/six-flags-magic-mountain-plans-to-demolish-two-historical-kids-rides"
   }
 ]
