@@ -1,41 +1,34 @@
 [
   {
-    "score": 158,
+    "score": 152,
     "pubdate": "2025-12-12-21-34-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he was leaning toward choosing either former Fed governor Kevin Warsh or National Economic Council Director Kevin Hassett to lead the Federal Reserve next year",
     "link": "https://www.wsj.com/economy/central-banking/trump-says-he-is-leaning-toward-warsh-or-hassett-to-lead-the-fed-34a200e5"
   },
   {
-    "score": 79,
-    "pubdate": "2025-12-12-19-14-51 +0000",
-    "source": "bbc",
-    "headline": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
-    "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 67,
+    "score": 64,
     "pubdate": "2025-12-13-12-29-00 +0000",
     "source": "wsj",
     "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
     "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
   },
   {
-    "score": 59,
-    "pubdate": "2025-12-13-07-44-36 +0000",
-    "source": "nypost",
-    "headline": "Iran arrests Nobel Peace Prize laureate Narges Mohammadi, supporters say",
-    "link": "https://nypost.com/2025/12/13/world-news/nobel-peace-prize-laureate-narges-mohammadi-arrested-in-iran-supporters-say/"
+    "score": 62,
+    "pubdate": "2025-12-13-15-03-04 +0000",
+    "source": "nyt",
+    "headline": "Russia Bombs Ukraine Port of Odesa Amid Peace Talks",
+    "link": "https://www.nytimes.com/2025/12/13/world/europe/russia-ukraine-odesa-attack.html"
   },
   {
-    "score": 52,
+    "score": 54,
     "pubdate": "2025-12-12-21-16-00 +0000",
     "source": "wsj",
     "headline": "A historical-preservation group has filed a lawsuit over President Trump’s effort to demolish the White House’s East Wing and build an expansive ballroom in its place",
     "link": "https://www.wsj.com/politics/policy/trump-is-sued-over-white-house-ballroom-construction-3e9098a0"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2025-12-13-12-41-13 +0000",
     "source": "nypost",
     "headline": "Outgoing NYC Mayor Eric Adams warns ‘dark days’ ahead as anti-cop Mamdani takes reins, reveals he won’t miss job",
@@ -43,30 +36,37 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-12-12-19-33-00 +0000",
+    "pubdate": "2025-12-13-18-45-00 +0000",
     "source": "wsj",
-    "headline": "New Epstein Photos Released by Democrats Show Donald Trump, Bill Clinton",
-    "link": "https://www.wsj.com/politics/democrats-release-epstein-estate-photos-showing-donald-trump-bill-clinton-7fe21bd2"
+    "headline": "Two U.S. Soldiers, American Civilian Interpreter Killed in Attack in Syria",
+    "link": "https://www.wsj.com/world/middle-east/u-s-troops-in-syria-wounded-in-ambush-be9d6622"
   },
   {
-    "score": 46,
+    "score": 48,
     "pubdate": "2025-12-13-16-27-52 +0000",
     "source": "nyt",
     "headline": "To Get to Oslo, Machado Skirted Military Checkpoints and Survived Rough Seas",
     "link": "https://www.nytimes.com/2025/12/12/us/politics/machado-venezuela-escape-oslo.html"
   },
   {
-    "score": 41,
-    "pubdate": "2025-12-12-18-04-46 +0000",
-    "source": "latimes",
-    "headline": "California, other states sue Trump administration over $100,000 fee for H-1B visas",
-    "link": "https://www.latimes.com/california/story/2025-12-12/california-sues-trump-administration-over-100-000-fee-for-h-1b-visas"
+    "score": 46,
+    "pubdate": "2025-12-13-15-26-20 +0000",
+    "source": "nypost",
+    "headline": "Israel kills top Hamas commander Raad Saad with IDF strike in Gaza City, officials say",
+    "link": "https://nypost.com/2025/12/13/world-news/israel-kills-top-hamas-commander-raad-saad-with-idf-strike-in-gaza-city-official-says/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-12-13-00-23-33 +0000",
+    "score": 46,
+    "pubdate": "2025-12-13-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "A “terrifying” new era of warfare is forcing America to rethink its tools and tactics as it prepares for great-power conflict with China",
+    "link": "https://www.wsj.com/politics/national-security/u-s-army-changes-tools-and-tactics-to-prepare-for-the-next-pacific-war-93be0a4f"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-12-12-22-52-49 +0000",
     "source": "nyt",
-    "headline": "U.S. Lifts Sanctions Against Justice Alexandre de Moraes of Brazil",
-    "link": "https://www.nytimes.com/2025/12/12/world/americas/brazil-us-sanctions-justice-moraes.html"
+    "headline": "Alvin Holsey, Admiral Who Oversaw Boat Strikes Off Venezuela’s Coast, Retires",
+    "link": "https://www.nytimes.com/2025/12/12/us/politics/admiral-alvin-holsey-retires-boat-strikes.html"
   }
 ]
