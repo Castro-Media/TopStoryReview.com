@@ -1,13 +1,6 @@
 [
   {
-    "score": 186,
-    "pubdate": "2025-12-12-02-38-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said",
-    "link": "https://www.wsj.com/politics/policy/trump-signs-executive-order-to-curtail-state-ai-laws-4ffc09a9"
-  },
-  {
-    "score": 99,
+    "score": 180,
     "pubdate": "2025-12-12-21-34-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he was leaning toward choosing either former Fed governor Kevin Warsh or National Economic Council Director Kevin Hassett to lead the Federal Reserve next year",
@@ -42,7 +35,7 @@
     "link": "https://www.nytimes.com/2025/12/12/world/europe/ukraine-power-outages-peace-plan-russia.html"
   },
   {
-    "score": 54,
+    "score": 52,
     "pubdate": "2025-12-12-23-41-00 +0000",
     "source": "wsj",
     "headline": "A group of seven Democratic U.S. senators is pushing back on President Trump’s decision this week to allow Nvidia to sell its H200 AI chips in China",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Behind the Venezuelan Opposition Leader’s Daring Escape to Oslo",
     "link": "https://www.nytimes.com/2025/12/12/us/politics/machado-venezuela-escape-oslo.html"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-12-12-17-34-00 +0000",
+    "source": "wsj",
+    "headline": "Amtrak managers are giving up $16 million of their bonuses. The money will, instead, go to the railroad’s workers.",
+    "link": "https://www.wsj.com/politics/policy/amtrak-workers-are-getting-some-of-their-managers-holiday-bonuses-5f5beaee"
   }
 ]
