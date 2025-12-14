@@ -1,13 +1,13 @@
 [
   {
-    "score": 95,
-    "pubdate": "2025-12-13-19-32-58 +0000",
+    "score": 97,
+    "pubdate": "2025-12-13-21-00-41 +0000",
     "source": "nypost",
-    "headline": "Trump tells ISIS, ‘we will retaliate’ after ‘terrible’ ambush that killed 3 US troops in Syria",
-    "link": "https://nypost.com/2025/12/13/us-news/president-trump-responds-to-terrible-ambush-that-killed-3-us-troops-in-syria-we-will-retaliate/"
+    "headline": "Trump attends annual Army-Navy game after condemning attack that killed 3 Americans in Syria",
+    "link": "https://nypost.com/2025/12/13/us-news/trump-attends-annual-army-navy-game-after-condemning-attack-that-killed-3-americans-in-syria/"
   },
   {
-    "score": 71,
+    "score": 77,
     "pubdate": "2025-12-14-01-20-18 +0000",
     "source": "nypost",
     "headline": "Terrified Brown University students  describe moment gunman rampaged through university",
@@ -21,11 +21,18 @@
     "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
   },
   {
-    "score": 56,
+    "score": 47,
     "pubdate": "2025-12-13-12-29-00 +0000",
     "source": "wsj",
     "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
     "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
+  },
+  {
+    "score": 44,
+    "pubdate": "2025-12-13-14-45-01 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba",
+    "link": "https://www.nytimes.com/2025/12/12/world/americas/venezuela-cuba-oil-tanker.html"
   },
   {
     "score": 43,
@@ -35,14 +42,7 @@
     "link": "https://nypost.com/2025/12/13/world-news/israel-kills-top-hamas-commander-raad-saad-with-idf-strike-in-gaza-city-official-says/"
   },
   {
-    "score": 42,
-    "pubdate": "2025-12-13-14-45-01 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba",
-    "link": "https://www.nytimes.com/2025/12/12/world/americas/venezuela-cuba-oil-tanker.html"
-  },
-  {
-    "score": 41,
+    "score": 40,
     "pubdate": "2025-12-13-16-27-52 +0000",
     "source": "nyt",
     "headline": "To Get to Oslo, Machado Skirted Military Checkpoints and Survived Rough Seas",
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46"
   },
   {
+    "score": 34,
+    "pubdate": "2025-12-13-11-00-39 +0000",
+    "source": "wapo",
+    "headline": "He leaned right in high school. Now he’s the Trump-trolling Portland Chicken.",
+    "link": "https://www.washingtonpost.com/nation/2025/12/13/trump-chicken-suit-ice-protest/"
+  },
+  {
     "score": 33,
     "pubdate": "2025-12-13-14-48-43 +0000",
     "source": "cbc",
     "headline": "Organizer arrested after fans rip up seats, throw objects during Lionel Messi visit to India",
     "link": "https://www.cbc.ca/news/world/soccer-fans-messi-india-9.7014882?cmp=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-12-13-18-50-31 +0000",
-    "source": "nypost",
-    "headline": "FBI agent Steve Friend, who blew whistle on Jan. 6 investigation, is fired from agency after veiled threat to Director Kash Patel",
-    "link": "https://nypost.com/2025/12/13/us-news/whistleblower-steve-friend-fired-from-fbi-after-veiled-threat-to-director-kash-patel/"
   }
 ]
