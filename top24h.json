@@ -1,34 +1,34 @@
 [
   {
-    "score": 117,
-    "pubdate": "2025-12-13-21-55-38 +0000",
-    "source": "nypost",
-    "headline": "At least 2 killed, 9 people injured in mass shooting at Brown University, gunman remains on the loose",
-    "link": "https://nypost.com/2025/12/13/us-news/active-shooter-at-brown-university-ivy-league-campus-on-lockdown/"
+    "score": 123,
+    "pubdate": "2025-12-14-13-40-25 +0000",
+    "source": "cbc",
+    "headline": "Hanukkah shooting at Australia's Bondi Beach that killed at least 11 was a terrorist attack, police say",
+    "link": "https://www.cbc.ca/news/world/bondi-beach-shooting-hanukkah-9.7015208?cmp=rss"
   },
   {
-    "score": 85,
-    "pubdate": "2025-12-13-21-00-41 +0000",
+    "score": 106,
+    "pubdate": "2025-12-14-01-20-18 +0000",
     "source": "nypost",
-    "headline": "Trump attends annual Army-Navy game after condemning attack that killed 3 Americans in Syria",
-    "link": "https://nypost.com/2025/12/13/us-news/trump-attends-annual-army-navy-game-after-condemning-attack-that-killed-3-americans-in-syria/"
+    "headline": "Terrified Brown University students  describe moment gunman rampaged through university",
+    "link": "https://nypost.com/2025/12/13/us-news/terrified-brown-university-students-describe-moment-gunman-rampaged-through-university/"
   },
   {
-    "score": 60,
-    "pubdate": "2025-12-13-19-22-53 +0000",
-    "source": "nypost",
-    "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
-    "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
-  },
-  {
-    "score": 47,
+    "score": 80,
     "pubdate": "2025-12-14-02-29-00 +0000",
     "source": "wsj",
     "headline": "President Trump, in a WSJ interview, conveyed uncertainty about whether the GOP would keep control of the House in the midterms because some of his economic policies have yet to take full effect",
     "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46"
   },
   {
-    "score": 44,
+    "score": 58,
+    "pubdate": "2025-12-13-19-22-53 +0000",
+    "source": "nypost",
+    "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
+    "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
+  },
+  {
+    "score": 52,
     "pubdate": "2025-12-13-15-26-20 +0000",
     "source": "nypost",
     "headline": "Israel kills top Hamas commander Raad Saad with IDF strike in Gaza City, officials say",
@@ -36,17 +36,17 @@
   },
   {
     "score": 42,
-    "pubdate": "2025-12-14-08-43-22 +0000",
-    "source": "nypost",
-    "headline": "At least 12 dead — including gunman — in mass shooting during Hanukkah celebration at Australia’s Bondi beach",
-    "link": "https://nypost.com/2025/12/14/world-news/australia-shooting-at-famed-sydney-bondi-beach/"
+    "pubdate": "2025-12-14-13-32-34 +0000",
+    "source": "nyt",
+    "headline": "Deadly Attack in Syria on U.S. Troops Exposes Growing Challenges for Country’s Leader",
+    "link": "https://www.nytimes.com/2025/12/14/world/middleeast/syria-us-soldiers-killed.html"
   },
   {
     "score": 38,
-    "pubdate": "2025-12-13-14-45-01 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba",
-    "link": "https://www.nytimes.com/2025/12/12/world/americas/venezuela-cuba-oil-tanker.html"
+    "pubdate": "2025-12-14-12-36-18 +0000",
+    "source": "wapo",
+    "headline": "Providence, Rhode Island, Mayor Brett Smiley said during a news conference Sunday that a “person of...",
+    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 37,
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2025/12/12/us/politics/machado-venezuela-escape-oslo.html"
   },
   {
-    "score": 31,
-    "pubdate": "2025-12-14-12-56-07 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Police Say Jewish Community Targeted in Deadly Sydney Attack",
-    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting"
-  },
-  {
     "score": 28,
     "pubdate": "2025-12-13-22-15-29 +0000",
     "source": "latimes",
     "headline": "Times Investigation: Ex-Trump DOJ lawyers say 'fraudulent' UC antisemitism probes led them to quit",
     "link": "https://www.latimes.com/california/story/2025-12-13/former-doj-attorneys-university-of-california-ucla-antisemitism-investigation"
+  },
+  {
+    "score": 27,
+    "pubdate": "2025-12-14-01-05-53 +0000",
+    "source": "bbc",
+    "headline": "He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia",
+    "link": "https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS&at_campaign=rss"
   }
 ]
