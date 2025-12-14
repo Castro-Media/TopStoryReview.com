@@ -1,31 +1,24 @@
 [
   {
-    "score": 120,
-    "pubdate": "2025-12-13-12-29-00 +0000",
-    "source": "wsj",
-    "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
-    "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
-  },
-  {
-    "score": 81,
-    "pubdate": "2025-12-13-19-22-53 +0000",
-    "source": "nypost",
-    "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
-    "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
-  },
-  {
-    "score": 59,
+    "score": 106,
     "pubdate": "2025-12-13-21-00-41 +0000",
     "source": "nypost",
     "headline": "Trump attends annual Army-Navy game after condemning attack that killed 3 Americans in Syria",
     "link": "https://nypost.com/2025/12/13/us-news/trump-attends-annual-army-navy-game-after-condemning-attack-that-killed-3-americans-in-syria/"
   },
   {
-    "score": 55,
-    "pubdate": "2025-12-13-18-37-13 +0000",
+    "score": 76,
+    "pubdate": "2025-12-13-19-22-53 +0000",
     "source": "nypost",
-    "headline": "Woman stabbed in NYC Macy’s bathroom while changing baby was going off ‘mom’s instinct’ in fighting off homeless attacker",
-    "link": "https://nypost.com/2025/12/13/us-news/woman-stabbed-in-nyc-macys-was-going-off-moms-instinct-while-fighting-off-homeless-attacker/"
+    "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
+    "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-12-13-12-29-00 +0000",
+    "source": "wsj",
+    "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
+    "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
   },
   {
     "score": 48,
@@ -35,38 +28,45 @@
     "link": "https://www.nytimes.com/2025/12/12/us/politics/machado-venezuela-escape-oslo.html"
   },
   {
-    "score": 46,
+    "score": 48,
+    "pubdate": "2025-12-13-10-04-17 +0000",
+    "source": "nyt",
+    "headline": "Ivan Urgant Was Russia’s Late-Night King Until Putin’s War in Ukraine",
+    "link": "https://www.nytimes.com/2025/12/13/world/europe/russia-ivan-urgant-late-night.html"
+  },
+  {
+    "score": 42,
     "pubdate": "2025-12-13-15-26-20 +0000",
     "source": "nypost",
     "headline": "Israel kills top Hamas commander Raad Saad with IDF strike in Gaza City, officials say",
     "link": "https://nypost.com/2025/12/13/world-news/israel-kills-top-hamas-commander-raad-saad-with-idf-strike-in-gaza-city-official-says/"
   },
   {
-    "score": 45,
-    "pubdate": "2025-12-13-00-35-21 +0000",
-    "source": "bbc",
-    "headline": "As Trump targets Venezuela, its allies Russia and China show little signs of support",
-    "link": "https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss"
+    "score": 40,
+    "pubdate": "2025-12-13-21-55-38 +0000",
+    "source": "nypost",
+    "headline": "At least 2 killed, 8 people critically injured in mass shooting at Brown University, gunman remains on the loose",
+    "link": "https://nypost.com/2025/12/13/us-news/active-shooter-at-brown-university-ivy-league-campus-on-lockdown/"
   },
   {
-    "score": 40,
+    "score": 37,
+    "pubdate": "2025-12-13-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "A “terrifying” new era of warfare is forcing America to rethink its tools and tactics as it prepares for great-power conflict with China",
+    "link": "https://www.wsj.com/politics/national-security/u-s-army-changes-tools-and-tactics-to-prepare-for-the-next-pacific-war-93be0a4f"
+  },
+  {
+    "score": 37,
     "pubdate": "2025-12-13-14-48-43 +0000",
     "source": "cbc",
     "headline": "Organizer arrested after fans rip up seats, throw objects during Lionel Messi visit to India",
     "link": "https://www.cbc.ca/news/world/soccer-fans-messi-india-9.7014882?cmp=rss"
   },
   {
-    "score": 39,
+    "score": 35,
     "pubdate": "2025-12-13-01-09-53 +0000",
     "source": "nyt",
     "headline": "House G.O.P. Releases Health Plan That Would Allow Subsidies to End",
     "link": "https://www.nytimes.com/2025/12/12/us/politics/republican-health-care-plan-subsidies-expire.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-12-13-00-23-33 +0000",
-    "source": "nyt",
-    "headline": "U.S. Lifts Sanctions Against Justice Alexandre de Moraes of Brazil",
-    "link": "https://www.nytimes.com/2025/12/12/world/americas/brazil-us-sanctions-justice-moraes.html"
   }
 ]
