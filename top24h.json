@@ -1,27 +1,34 @@
 [
   {
-    "score": 97,
+    "score": 111,
     "pubdate": "2025-12-13-21-00-41 +0000",
     "source": "nypost",
     "headline": "Trump attends annual Army-Navy game after condemning attack that killed 3 Americans in Syria",
     "link": "https://nypost.com/2025/12/13/us-news/trump-attends-annual-army-navy-game-after-condemning-attack-that-killed-3-americans-in-syria/"
   },
   {
-    "score": 77,
+    "score": 93,
     "pubdate": "2025-12-14-01-20-18 +0000",
     "source": "nypost",
     "headline": "Terrified Brown University students  describe moment gunman rampaged through university",
     "link": "https://nypost.com/2025/12/13/us-news/terrified-brown-university-students-describe-moment-gunman-rampaged-through-university/"
   },
   {
-    "score": 61,
+    "score": 62,
     "pubdate": "2025-12-13-19-22-53 +0000",
     "source": "nypost",
     "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
     "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
   },
   {
-    "score": 47,
+    "score": 54,
+    "pubdate": "2025-12-14-08-43-22 +0000",
+    "source": "nypost",
+    "headline": "At least 12 dead — including gunman — in mass shooting during Hanukkah celebration at Australia’s Bondi beach",
+    "link": "https://nypost.com/2025/12/14/world-news/australia-shooting-at-famed-sydney-bondi-beach/"
+  },
+  {
+    "score": 48,
     "pubdate": "2025-12-13-12-29-00 +0000",
     "source": "wsj",
     "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
@@ -29,13 +36,6 @@
   },
   {
     "score": 44,
-    "pubdate": "2025-12-13-14-45-01 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba",
-    "link": "https://www.nytimes.com/2025/12/12/world/americas/venezuela-cuba-oil-tanker.html"
-  },
-  {
-    "score": 43,
     "pubdate": "2025-12-13-15-26-20 +0000",
     "source": "nypost",
     "headline": "Israel kills top Hamas commander Raad Saad with IDF strike in Gaza City, officials say",
@@ -43,6 +43,13 @@
   },
   {
     "score": 40,
+    "pubdate": "2025-12-14-02-29-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump, in a WSJ interview, conveyed uncertainty about whether the GOP would keep control of the House in the midterms because some of his economic policies have yet to take full effect",
+    "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-12-13-16-27-52 +0000",
     "source": "nyt",
     "headline": "To Get to Oslo, Machado Skirted Military Checkpoints and Survived Rough Seas",
@@ -50,23 +57,16 @@
   },
   {
     "score": 38,
-    "pubdate": "2025-12-14-02-29-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump, in a WSJ interview, conveyed uncertainty about whether the GOP would keep control of the House in the midterms because some of his economic policies have yet to take full effect",
-    "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46"
+    "pubdate": "2025-12-13-14-45-01 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba",
+    "link": "https://www.nytimes.com/2025/12/12/world/americas/venezuela-cuba-oil-tanker.html"
   },
   {
-    "score": 34,
-    "pubdate": "2025-12-13-11-00-39 +0000",
-    "source": "wapo",
-    "headline": "He leaned right in high school. Now he’s the Trump-trolling Portland Chicken.",
-    "link": "https://www.washingtonpost.com/nation/2025/12/13/trump-chicken-suit-ice-protest/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-12-13-14-48-43 +0000",
-    "source": "cbc",
-    "headline": "Organizer arrested after fans rip up seats, throw objects during Lionel Messi visit to India",
-    "link": "https://www.cbc.ca/news/world/soccer-fans-messi-india-9.7014882?cmp=rss"
+    "score": 30,
+    "pubdate": "2025-12-13-19-32-58 +0000",
+    "source": "nypost",
+    "headline": "Trump tells ISIS, ‘we will retaliate’ after ‘terrible’ ambush that killed 3 US troops in Syria",
+    "link": "https://nypost.com/2025/12/13/us-news/president-trump-responds-to-terrible-ambush-that-killed-3-us-troops-in-syria-we-will-retaliate/"
   }
 ]
