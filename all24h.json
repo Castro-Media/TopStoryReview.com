@@ -1,9 +1,81 @@
 [
   {
-    "headline": "Police searching Brown University after shooter kills 2 and wounds 8 on campus",
+    "headline": "President Trump, in a WSJ interview, conveyed uncertainty about whether the GOP would keep control of the House in the midterms because some of his economic policies have yet to take full effect",
+    "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46",
+    "source": "wsj",
+    "pubdate": "2025-12-14-02-29-00 +0000"
+  },
+  {
+    "headline": "President Trump, in a WSJ interview, conveyed uncertainty about whether the GOP would keep control of the House in the midterms because some of his economic policies have yet to take full effect",
+    "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46",
+    "source": "wsj",
+    "pubdate": "2025-12-14-02-29-00 +0000"
+  },
+  {
+    "headline": "What to Know About Brown University",
+    "link": "https://www.nytimes.com/2025/12/13/us/brown-university-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2025-12-14-02-28-50 +0000"
+  },
+  {
+    "headline": "At least 2 dead, 8 injured in shooting at Brown University, authorities say",
+    "link": "https://www.washingtonpost.com/nation/2025/12/13/brown-university-shooting/",
+    "source": "wapo",
+    "pubdate": "2025-12-14-02-19-00 +0000"
+  },
+  {
+    "headline": "Wild President Bill Guerin delighted at trade that landed Quinn Hughes from Vancouver",
+    "link": "https://www.startribune.com/minnesota-wild-trade-quinn-hughes-vancouver-captain-norris-buium-ohgren-rossi/601545214",
+    "source": "startribune",
+    "pubdate": "2025-12-14-02-08-21 +0000"
+  },
+  {
+    "headline": "Can J.J. McCarthy make progress in the Vikings’ progression-based offense?",
+    "link": "https://www.startribune.com/minnesota-vikings-jj-mccarthy-pure-progression-reads-nfl-qbs/601539469",
+    "source": "startribune",
+    "pubdate": "2025-12-14-02-07-57 +0000"
+  },
+  {
+    "headline": "Police search Brown University after shooter kills 2 and wounds 8 on campus",
     "link": "https://www.startribune.com/brown-university-says-there-is-an-active-shooter-on-campus-in-rhode-island/601545612",
     "source": "startribune",
-    "pubdate": "2025-12-14-01-11-01 +0000"
+    "pubdate": "2025-12-14-02-01-03 +0000"
+  },
+  {
+    "headline": "Zelensky Attempts to Rewrite Trump’s Peace Plan Rather Than Reject It",
+    "link": "https://www.wsj.com/world/ukraine-russia-trump-peace-plan-zelensky-strategy-96a7b2fc",
+    "source": "wsj",
+    "pubdate": "2025-12-14-02-00-00 +0000"
+  },
+  {
+    "headline": "The Chinese Billionaires Having Dozens of U.S.-Born Babies Via Surrogate",
+    "link": "https://www.wsj.com/us-news/chinese-billionaires-surrogacy-pregnancy-7fdfc0c3",
+    "source": "wsj",
+    "pubdate": "2025-12-14-02-00-00 +0000"
+  },
+  {
+    "headline": "The Chinese Billionaires Having Dozens of U.S.-Born Babies Via Surrogate",
+    "link": "https://www.wsj.com/us-news/chinese-billionaires-surrogacy-pregnancy-7fdfc0c3",
+    "source": "wsj",
+    "pubdate": "2025-12-14-02-00-00 +0000"
+  },
+  {
+    "headline": "Here’s what to know.",
+    "link": "https://www.nytimes.com/live/2025/12/13/us/brown-shooting/brown-university-shooting",
+    "source": "nyt",
+    "pubdate": "2025-12-14-01-34-11 +0000"
+  },
+  {
+    "headline": "Brown University Shooting Leaves 2 Dead, 8 Injured",
+    "link": "https://www.wsj.com/us-news/brown-university-reports-active-shooter-on-campus-87f7439d",
+    "source": "wsj",
+    "pubdate": "2025-12-14-01-28-00 +0000"
+  },
+  {
+    "headline": "Terrified Brown University students  describe moment gunman rampaged through university",
+    "link": "https://nypost.com/2025/12/13/us-news/terrified-brown-university-students-describe-moment-gunman-rampaged-through-university/",
+    "source": "nypost",
+    "pubdate": "2025-12-14-01-20-18 +0000"
   },
   {
     "headline": "Supermarket skincare dupes could save you hundreds. But do budget beauty products work?",
@@ -42,34 +114,10 @@
     "pubdate": "2025-12-14-00-37-15 +0000"
   },
   {
-    "headline": "Here’s what to know.",
-    "link": "https://www.nytimes.com/live/2025/12/13/us/brown-shooting/brown-university-shooting",
-    "source": "nyt",
-    "pubdate": "2025-12-14-00-33-58 +0000"
-  },
-  {
-    "headline": "Wild President Bill Guerin delighted at trade that landed Quinn Hughes from Vancouver",
-    "link": "https://www.startribune.com/minnesota-wild-trade-quinn-hughes-vancouver-captain-norris-buium-ohgren-rossi/601545214",
-    "source": "startribune",
-    "pubdate": "2025-12-14-00-33-46 +0000"
-  },
-  {
-    "headline": "Can J.J. McCarthy make progress in the Vikings’ progression-based offense?",
-    "link": "https://www.startribune.com/minnesota-vikings-jj-mccarthy-pure-progression-reads-nfl-qbs/601539469",
-    "source": "startribune",
-    "pubdate": "2025-12-14-00-33-29 +0000"
-  },
-  {
     "headline": "Witnesses describe an anxious campus as news of a shooting spread and police arrived.",
     "link": "https://www.nytimes.com/live/2025/12/13/us/brown-shooting/witnesses-describe-an-anxious-campus-as-news-of-a-shooting-spread-and-police-arrived",
     "source": "nyt",
     "pubdate": "2025-12-14-00-32-34 +0000"
-  },
-  {
-    "headline": "Police Search for Suspect After 2 Killed, 8 Injured in Brown University Shooting",
-    "link": "https://www.wsj.com/us-news/brown-university-reports-active-shooter-on-campus-87f7439d",
-    "source": "wsj",
-    "pubdate": "2025-12-14-00-28-00 +0000"
   },
   {
     "headline": "Elon Musk’s SpaceX Valued at $800 Billion, as It Prepares to Go Public",
@@ -94,12 +142,6 @@
     "link": "https://nypost.com/2025/12/13/us-news/broken-system-led-to-states-premature-release-of-psych-patient-accused-of-stabbing-tourist-inside-nyc-macys-bathroom/",
     "source": "nypost",
     "pubdate": "2025-12-14-00-05-13 +0000"
-  },
-  {
-    "headline": "At least 2 dead, 8 injured in shooting at Brown University, authorities say",
-    "link": "https://www.washingtonpost.com/nation/2025/12/13/brown-university-shooting/",
-    "source": "wapo",
-    "pubdate": "2025-12-14-00-03-05 +0000"
   },
   {
     "headline": "Readers’ Strategies for Preparing Their Partners to Manage Money After They Die",
@@ -216,7 +258,7 @@
     "pubdate": "2025-12-13-22-06-49 +0000"
   },
   {
-    "headline": "At least 2 killed, 8 people critically injured in mass shooting at Brown University, gunman remains on the loose",
+    "headline": "At least 2 killed, 8 people injured in mass shooting at Brown University, gunman remains on the loose",
     "link": "https://nypost.com/2025/12/13/us-news/active-shooter-at-brown-university-ivy-league-campus-on-lockdown/",
     "source": "nypost",
     "pubdate": "2025-12-13-21-55-38 +0000"
@@ -387,13 +429,13 @@
     "headline": "Israel Says It Killed Senior Hamas Commander, Despite Cease-Fire",
     "link": "https://www.nytimes.com/2025/12/13/world/middleeast/israel-hamas-commander-gaza-strike.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-19-41-16 +0000"
+    "pubdate": "2025-12-13-19-41-17 +0000"
   },
   {
     "headline": "Israel Says It Killed Senior Hamas Commander, Despite Cease-Fire",
     "link": "https://www.nytimes.com/2025/12/13/world/middleeast/israel-hamas-commander-gaza-strike.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-19-41-16 +0000"
+    "pubdate": "2025-12-13-19-41-17 +0000"
   },
   {
     "headline": "Trump tells ISIS, ‘we will retaliate’ after ‘terrible’ ambush that killed 3 US troops in Syria",
@@ -531,13 +573,13 @@
     "headline": "Belarus Frees Prominent Political Prisoners as U.S. Lifts Some Trade Sanctions",
     "link": "https://www.nytimes.com/2025/12/13/world/europe/belarus-frees-prisoners-trade-sanctions.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-17-50-39 +0000"
+    "pubdate": "2025-12-13-17-50-40 +0000"
   },
   {
     "headline": "Belarus Frees Prominent Political Prisoners as U.S. Lifts Some Trade Sanctions",
     "link": "https://www.nytimes.com/2025/12/13/world/europe/belarus-frees-prisoners-trade-sanctions.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-17-50-39 +0000"
+    "pubdate": "2025-12-13-17-50-40 +0000"
   },
   {
     "headline": "U.S.-U.K. Trade Deal Hits Stumbling Block",
@@ -579,13 +621,13 @@
     "headline": "Can Trump’s Grand Plans for Gaza Get Off the Drawing Board?",
     "link": "https://www.nytimes.com/2025/12/13/world/middleeast/trump-gaza-plans-postwar.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-17-12-35 +0000"
+    "pubdate": "2025-12-13-17-12-36 +0000"
   },
   {
     "headline": "Can Trump’s Grand Plans for Gaza Get Off the Drawing Board?",
     "link": "https://www.nytimes.com/2025/12/13/world/middleeast/trump-gaza-plans-postwar.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-17-12-35 +0000"
+    "pubdate": "2025-12-13-17-12-36 +0000"
   },
   {
     "headline": "Fighting rages on Thai-Cambodian border despite Trump's ceasefire claim",
@@ -732,12 +774,6 @@
     "pubdate": "2025-12-13-16-24-00 +0000"
   },
   {
-    "headline": "Two exotic cats belonging to one-time NY Jets player run wild in Baltimore neighborhood",
-    "link": "https://nypost.com/2025/12/13/us-news/two-exotic-cats-belonging-to-one-time-new-york-jet-run-wild-in-baltimore-neighborhood/",
-    "source": "nypost",
-    "pubdate": "2025-12-13-16-22-57 +0000"
-  },
-  {
     "headline": "Two grinches reportedly punch Nativity scene donkeys, defecate in church during German Christmas market spree",
     "link": "https://nypost.com/2025/12/13/world-news/two-grinches-reportedly-punch-nativity-scene-donkeys-defecate-in-church-during-german-christmas-market-spree/",
     "source": "nypost",
@@ -850,12 +886,6 @@
     "link": "https://www.washingtonpost.com/world/2025/12/13/ireland-ukrainian-migrants-protests/",
     "source": "wapo",
     "pubdate": "2025-12-13-13-30-02 +0000"
-  },
-  {
-    "headline": "8 Twin Cities museum gift shops rated",
-    "link": "https://www.startribune.com/8-twin-cities-museum-gift-shops-rated/601537829",
-    "source": "startribune",
-    "pubdate": "2025-12-13-13-20-56 +0000"
   },
   {
     "headline": "In ‘Christmas miracle,’ missing dog is found 5 years later, 2,300 miles away",
@@ -978,6 +1008,12 @@
     "pubdate": "2025-12-13-11-00-06 +0000"
   },
   {
+    "headline": "Some big water agencies in farming areas get water for free. Critics say that needs to end",
+    "link": "https://www.latimes.com/environment/story/2025-12-13/colorado-river-water-prices",
+    "source": "latimes",
+    "pubdate": "2025-12-13-11-00-00 +0000"
+  },
+  {
     "headline": "A young musician was gunned down in Northridge. Did childhood friends set her up?",
     "link": "https://www.latimes.com/california/story/2025-12-13/delarosa-northridge-investigation",
     "source": "latimes",
@@ -990,26 +1026,20 @@
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
-    "headline": "Some big water agencies in farming areas get water for free. Critics say that needs to end",
-    "link": "https://www.latimes.com/environment/story/2025-12-13/colorado-river-water-prices",
-    "source": "latimes",
-    "pubdate": "2025-12-13-11-00-00 +0000"
-  },
-  {
     "headline": "What the Trump administration's hepatitis B vaccine rollback means for California",
     "link": "https://www.latimes.com/world-nation/story/2025-12-13/hep-b-vaccine-rollback-explained",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
-    "headline": "L.A. City Councilman John Lee violated gift laws on lavish Vegas jaunt, judge says",
-    "link": "https://www.latimes.com/california/story/2025-12-13/la-city-councilmember-john-lee-violated-gift-laws-lavish-vegas-jaunt",
+    "headline": "Notorious 'winter vomiting bug' rising in California. A new norovirus strain could make it worse",
+    "link": "https://www.latimes.com/california/story/2025-12-13/norovirus-notorious-winter-vomiting-bug-rising-in-california-could-new-strain-make-things-worse",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
-    "headline": "Notorious 'winter vomiting bug' rising in California. A new norovirus strain could make it worse",
-    "link": "https://www.latimes.com/california/story/2025-12-13/norovirus-notorious-winter-vomiting-bug-rising-in-california-could-new-strain-make-things-worse",
+    "headline": "L.A. City Councilman John Lee violated gift laws on lavish Vegas jaunt, judge says",
+    "link": "https://www.latimes.com/california/story/2025-12-13/la-city-councilmember-john-lee-violated-gift-laws-lavish-vegas-jaunt",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
@@ -1026,20 +1056,26 @@
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
+    "headline": "We tested AI shopping chatbots. This is what we found.",
+    "link": "https://www.startribune.com/ai-chatbots-gift-recommendations-target-walmart-how-well-they-work/601516145",
+    "source": "startribune",
+    "pubdate": "2025-12-13-11-00-00 +0000"
+  },
+  {
     "headline": "Blowback over Charlie Kirk posts prompts employers’ social media crackdown",
     "link": "https://www.washingtonpost.com/business/2025/12/13/employer-crackdown-social-media/",
     "source": "wapo",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
-    "headline": "What the Trump administration's hepatitis B vaccine rollback means for California",
-    "link": "https://www.latimes.com/world-nation/story/2025-12-13/hep-b-vaccine-rollback-explained",
+    "headline": "What happens to CNN if President Trump gets his way?",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-13/what-happens-to-cnn-if-paramount-buys-warner-bros-trump",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
-    "headline": "What happens to CNN if President Trump gets his way?",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-13/what-happens-to-cnn-if-paramount-buys-warner-bros-trump",
+    "headline": "What the Trump administration's hepatitis B vaccine rollback means for California",
+    "link": "https://www.latimes.com/world-nation/story/2025-12-13/hep-b-vaccine-rollback-explained",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
@@ -1065,13 +1101,13 @@
     "headline": "Chile Poised for Right-Wing Victory as Crime Fears Sweep Latin America",
     "link": "https://www.nytimes.com/2025/12/13/world/americas/chile-election-latin-america-crime.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-10-15-19 +0000"
+    "pubdate": "2025-12-13-10-15-20 +0000"
   },
   {
     "headline": "Chile Poised for Right-Wing Victory as Crime Fears Sweep Latin America",
     "link": "https://www.nytimes.com/2025/12/13/world/americas/chile-election-latin-america-crime.html",
     "source": "nyt",
-    "pubdate": "2025-12-13-10-15-19 +0000"
+    "pubdate": "2025-12-13-10-15-20 +0000"
   },
   {
     "headline": "‘The Interview’: 3 Senators Who Quit On Why Congress Won’t Stand Up To Trump",
@@ -1306,191 +1342,5 @@
     "link": "https://www.bbc.com/news/videos/c93ww718g2vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-13-03-49-59 +0000"
-  },
-  {
-    "headline": "Fleece, Love and Vomit: New Yorkers’ Best (and Worst) SantaCon Stories",
-    "link": "https://www.nytimes.com/2025/12/12/style/santacon-stories-new-york.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-03-05-28 +0000"
-  },
-  {
-    "headline": "Amid Fractures on the Right, Tucker Carlson Continues His Attacks",
-    "link": "https://www.nytimes.com/2025/12/12/style/tucker-carlson-theo-von-show.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-03-02-29 +0000"
-  },
-  {
-    "headline": "U.S. Army Changes Tools and Tactics to Prepare for the Next Pacific War",
-    "link": "https://www.wsj.com/politics/national-security/u-s-army-changes-tools-and-tactics-to-prepare-for-the-next-pacific-war-93be0a4f",
-    "source": "wsj",
-    "pubdate": "2025-12-13-03-00-00 +0000"
-  },
-  {
-    "headline": "A “terrifying” new era of warfare is forcing America to rethink its tools and tactics as it prepares for great-power conflict with China",
-    "link": "https://www.wsj.com/politics/national-security/u-s-army-changes-tools-and-tactics-to-prepare-for-the-next-pacific-war-93be0a4f",
-    "source": "wsj",
-    "pubdate": "2025-12-13-03-00-00 +0000"
-  },
-  {
-    "headline": "Arthur L. Carter, 93, Dies; Investment Banker Founded a Cheeky Newspaper",
-    "link": "https://www.nytimes.com/2025/12/12/business/media/arthur-carter-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-58-08 +0000"
-  },
-  {
-    "headline": "Dozens Killed as a Hospital Is Bombed in Myanmar’s Brutal Civil War",
-    "link": "https://www.nytimes.com/2025/12/12/world/asia/myanmar-hospital-attack-rakhine.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-29-44 +0000"
-  },
-  {
-    "headline": "Dozens Killed as a Hospital Is Bombed in Myanmar’s Brutal Civil War",
-    "link": "https://www.nytimes.com/2025/12/12/world/asia/myanmar-hospital-attack-rakhine.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-29-44 +0000"
-  },
-  {
-    "headline": "Sheriff employee stabbed while changing her baby in Macy's bathroom",
-    "link": "https://www.latimes.com/california/story/2025-12-12/sheriff-employee-stabbed-while-changing-her-baby-in-macys-bathroom",
-    "source": "latimes",
-    "pubdate": "2025-12-13-02-26-21 +0000"
-  },
-  {
-    "headline": "SpaceX Tells Staff It Is Preparing for a Potential IPO Next Year",
-    "link": "https://www.wsj.com/business/spacex-tells-staff-it-is-preparing-for-a-potential-ipo-next-year-ae54778d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-13-02-24-00 +0000"
-  },
-  {
-    "headline": "Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan",
-    "link": "https://www.nytimes.com/2025/12/12/world/europe/russia-ukraine-frozen-assets-belgium-euroclear.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-23-33 +0000"
-  },
-  {
-    "headline": "Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan",
-    "link": "https://www.nytimes.com/2025/12/12/world/europe/russia-ukraine-frozen-assets-belgium-euroclear.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-23-33 +0000"
-  },
-  {
-    "headline": "Russia Sues Holder of Frozen Assets Europe Wants for Ukraine Loan",
-    "link": "https://www.nytimes.com/2025/12/12/world/europe/russia-ukraine-frozen-assets-belgium-euroclear.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-23-33 +0000"
-  },
-  {
-    "headline": "U.S. Boarded Ship and Seized Cargo Heading to Iran From China",
-    "link": "https://www.nytimes.com/2025/12/12/us/politics/cargo-ship-seized-iran-china.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-22-44 +0000"
-  },
-  {
-    "headline": "U.S. Boarded Ship and Seized Cargo Heading to Iran From China",
-    "link": "https://www.nytimes.com/2025/12/12/us/politics/cargo-ship-seized-iran-china.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-22-44 +0000"
-  },
-  {
-    "headline": "L.A. County court system launches mobile effort to expunge records, educate public",
-    "link": "https://www.latimes.com/california/story/2025-12-12/la-county-court-system-mobile-trailer",
-    "source": "latimes",
-    "pubdate": "2025-12-13-02-20-22 +0000"
-  },
-  {
-    "headline": "New photos from Epstein estate show Trump, Andrew and Bill Clinton",
-    "link": "https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-13-02-16-51 +0000"
-  },
-  {
-    "headline": "New photos from Epstein estate show Trump, Andrew and Bill Clinton",
-    "link": "https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-13-02-16-51 +0000"
-  },
-  {
-    "headline": "Hop in the ‘Holiday Gaiety’ slay with Adore Delano and Sasha Allen",
-    "link": "https://48hills.org/2025/12/riding-the-holiday-gaiety-slay-with-adore-delano-and-sasha-allen/",
-    "source": "48hills",
-    "pubdate": "2025-12-13-02-16-45 +0000"
-  },
-  {
-    "headline": "Calvin McDonald, Lululemon CEO, Will Depart Yoga Clothing Maker in January",
-    "link": "https://www.nytimes.com/2025/12/11/business/lululemon-ceo-calvin-mcdonald.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-02-14-37 +0000"
-  },
-  {
-    "headline": "From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in",
-    "link": "https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-13-02-11-25 +0000"
-  },
-  {
-    "headline": "From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in",
-    "link": "https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-13-02-11-25 +0000"
-  },
-  {
-    "headline": "U.S. Pours More Firepower Into the Caribbean as Trump Ramps Up Threats",
-    "link": "https://www.wsj.com/world/americas/u-s-pours-more-firepower-into-the-caribbean-as-trump-ramps-up-threats-8e964845",
-    "source": "wsj",
-    "pubdate": "2025-12-13-02-00-00 +0000"
-  },
-  {
-    "headline": "Inside the Invitation-Only Stock Market for the Wealthy",
-    "link": "https://www.wsj.com/finance/investing/private-stock-market-growth-bb71bde1?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-13-02-00-00 +0000"
-  },
-  {
-    "headline": "Inside the Invitation-Only Stock Market for the Wealthy",
-    "link": "https://www.wsj.com/finance/investing/private-stock-market-growth-bb71bde1?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-13-02-00-00 +0000"
-  },
-  {
-    "headline": "In a Hamlet Built on Forbidden Love, a Cyclone Buried It All",
-    "link": "https://www.nytimes.com/2025/12/12/world/asia/sri-lanka-cyclone-hamlet.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-01-55-42 +0000"
-  },
-  {
-    "headline": "In a Hamlet Built on Forbidden Love, a Cyclone Buried It All",
-    "link": "https://www.nytimes.com/2025/12/12/world/asia/sri-lanka-cyclone-hamlet.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-01-55-42 +0000"
-  },
-  {
-    "headline": "For Republicans, Trump’s Hands-Off Approach to Health Care Is a Problem",
-    "link": "https://www.nytimes.com/2025/12/12/us/politics/trump-republicans-obamacare-health-costs.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-01-48-11 +0000"
-  },
-  {
-    "headline": "The Fine Art of Managing Christie’s",
-    "link": "https://www.nytimes.com/2025/12/12/business/christies-bonnie-brennan-art-auctions.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-01-34-26 +0000"
-  },
-  {
-    "headline": "Divided council gives modest boost to LAPD hiring, amid tensions with mayor",
-    "link": "https://www.latimes.com/california/story/2025-12-12/divided-council-gives-modest-boost-to-lapd-hiring-amid-tensions-with-mayor",
-    "source": "latimes",
-    "pubdate": "2025-12-13-01-31-16 +0000"
-  },
-  {
-    "headline": "Trump’s Next Renovation Target: D.C.’s Golf Courses",
-    "link": "https://www.wsj.com/politics/policy/trump-golf-dc-renovation-0536865a",
-    "source": "wsj",
-    "pubdate": "2025-12-13-01-21-00 +0000"
-  },
-  {
-    "headline": "President Trump wants to play a central role in redeveloping Washington, D.C.’s public golf courses, including one that sits on a prime stretch of real estate",
-    "link": "https://www.wsj.com/politics/policy/trump-golf-dc-renovation-0536865a",
-    "source": "wsj",
-    "pubdate": "2025-12-13-01-21-00 +0000"
   }
 ]
