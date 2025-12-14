@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Iowa National Guard soldiers ID’d as victims in deadly Syria ISIS attack",
+    "link": "https://nypost.com/2025/12/14/us-news/us-troops-killed-in-isis-attack-in-syria-identified-as-iowa-national-guard-members/",
+    "source": "nypost",
+    "pubdate": "2025-12-14-06-14-32 +0000"
+  },
+  {
+    "headline": "A Brown University Instructor Hid From Gunfire With His Students",
+    "link": "https://www.nytimes.com/2025/12/14/us/brown-shooting-classroom-victims.html",
+    "source": "nyt",
+    "pubdate": "2025-12-14-06-09-24 +0000"
+  },
+  {
     "headline": "2 Students at Brown Witnessed School Shootings as Children",
     "link": "https://www.nytimes.com/2025/12/13/us/brown-students-mass-shooting-parkland.html",
     "source": "nyt",
@@ -594,12 +606,6 @@
     "pubdate": "2025-12-13-18-44-01 +0000"
   },
   {
-    "headline": "Woman stabbed in NYC Macy’s bathroom while changing baby was going off ‘mom’s instinct’ in fighting off homeless attacker",
-    "link": "https://nypost.com/2025/12/13/us-news/woman-stabbed-in-nyc-macys-was-going-off-moms-instinct-while-fighting-off-homeless-attacker/",
-    "source": "nypost",
-    "pubdate": "2025-12-13-18-37-13 +0000"
-  },
-  {
     "headline": "Belarus Frees Nobel Winner, Political Prisoners After U.S. Eases Sanctions",
     "link": "https://www.wsj.com/world/russia/belarus-frees-nobel-winner-political-prisoners-after-u-s-eases-sanctions-d1430dc2",
     "source": "wsj",
@@ -942,6 +948,12 @@
     "pubdate": "2025-12-13-13-00-04 +0000"
   },
   {
+    "headline": "Ramstad: The term ‘horrible year’ is inadequate for the pain nonprofits have felt in 2025",
+    "link": "https://www.startribune.com/ramstad-the-term-horrible-year-is-inadequate-for-the-pain-nonprofits-have-felt-in-2025/601524927",
+    "source": "startribune",
+    "pubdate": "2025-12-13-13-00-00 +0000"
+  },
+  {
     "headline": "Canada boosting military might as it seeks 400,000 volunteer soldiers, quadrupling size of force",
     "link": "https://nypost.com/2025/12/13/world-news/canada-wants-to-boost-army-reserves-by-400000-more-than-quadrupling-size-of-military/",
     "source": "nypost",
@@ -1092,14 +1104,14 @@
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
-    "headline": "As Netflix and Paramount circle Warner Bros. Discovery, Hollywood unions voice alarm",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-13/netflix-paramount-warner-bros-discovery-hollywood-unions-voice-alarm",
+    "headline": "Some big water agencies in farming areas get water for free. Critics say that needs to end",
+    "link": "https://www.latimes.com/environment/story/2025-12-13/colorado-river-water-prices",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
   {
-    "headline": "Some big water agencies in farming areas get water for free. Critics say that needs to end",
-    "link": "https://www.latimes.com/environment/story/2025-12-13/colorado-river-water-prices",
+    "headline": "As Netflix and Paramount circle Warner Bros. Discovery, Hollywood unions voice alarm",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-13/netflix-paramount-warner-bros-discovery-hollywood-unions-voice-alarm",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
   },
@@ -1126,12 +1138,6 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-13/what-happens-to-cnn-if-paramount-buys-warner-bros-trump",
     "source": "latimes",
     "pubdate": "2025-12-13-11-00-00 +0000"
-  },
-  {
-    "headline": "Burcum: Watch out for risky health plans as sticker shock sets in",
-    "link": "https://www.startribune.com/beware-health-insurance-scams-rising-consumer-costs-us/601544857",
-    "source": "startribune",
-    "pubdate": "2025-12-13-10-59-00 +0000"
   },
   {
     "headline": "Europe is panicking over its shrinking population",
@@ -1576,12 +1582,6 @@
     "link": "https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-13-01-18-21 +0000"
-  },
-  {
-    "headline": "House G.O.P. Releases Health Plan That Would Allow Subsidies to End",
-    "link": "https://www.nytimes.com/2025/12/12/us/politics/republican-health-care-plan-subsidies-expire.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-01-09-53 +0000"
   },
   {
     "headline": "House G.O.P. Releases Health Plan That Would Allow Subsidies to End",
@@ -4674,12 +4674,6 @@
     "pubdate": "2025-12-11-11-00-00 +0000"
   },
   {
-    "headline": "10 on-screen political thrillers that stood out in a year of upheaval and partisanship",
-    "link": "https://www.latimes.com/entertainment-arts/tv/story/2025-12-11/political-thrillers-tv-shows-movies-2025",
-    "source": "latimes",
-    "pubdate": "2025-12-11-11-00-00 +0000"
-  },
-  {
     "headline": "Justice Department drafting a list of 'domestic terrorists'",
     "link": "https://www.latimes.com/politics/story/2025-12-11/justice-department-drafting-list-of-domestic-terrorists",
     "source": "latimes",
@@ -4688,6 +4682,12 @@
   {
     "headline": "Barabak: The U.S. Senate is a mess. He wants to fix it, from the inside",
     "link": "https://www.latimes.com/politics/story/2025-12-11/senate-filibuster-congress-dysfunction-reform-oregon-jeff-merkley",
+    "source": "latimes",
+    "pubdate": "2025-12-11-11-00-00 +0000"
+  },
+  {
+    "headline": "10 on-screen political thrillers that stood out in a year of upheaval and partisanship",
+    "link": "https://www.latimes.com/entertainment-arts/tv/story/2025-12-11/political-thrillers-tv-shows-movies-2025",
     "source": "latimes",
     "pubdate": "2025-12-11-11-00-00 +0000"
   },
@@ -5412,14 +5412,14 @@
     "pubdate": "2025-12-10-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Is $140,000 really a poverty income? Clearly not, but the viral debate underscores the 'affordability' issue",
-    "link": "https://www.latimes.com/business/story/2025-12-10/is-140-000-really-a-poverty-income-no-but-it-underscores-the-affordability-debate",
+    "headline": "AI slop ad backfires for McDonald's",
+    "link": "https://www.latimes.com/business/story/2025-12-10/ai-slop-ad-backfires-for-mcdonalds",
     "source": "latimes",
     "pubdate": "2025-12-10-11-00-00 +0000"
   },
   {
-    "headline": "AI slop ad backfires for McDonald's",
-    "link": "https://www.latimes.com/business/story/2025-12-10/ai-slop-ad-backfires-for-mcdonalds",
+    "headline": "Hiltzik: Is $140,000 really a poverty income? Clearly not, but the viral debate underscores the 'affordability' issue",
+    "link": "https://www.latimes.com/business/story/2025-12-10/is-140-000-really-a-poverty-income-no-but-it-underscores-the-affordability-debate",
     "source": "latimes",
     "pubdate": "2025-12-10-11-00-00 +0000"
   },
@@ -6336,6 +6336,12 @@
     "pubdate": "2025-12-07-11-00-00 +0000"
   },
   {
+    "headline": "Online child safety advocates urge California lawmakers to increase protections",
+    "link": "https://www.latimes.com/california/story/2025-12-07/online-child-safety-advocates-urge-california-to-increase-protections",
+    "source": "latimes",
+    "pubdate": "2025-12-07-11-00-00 +0000"
+  },
+  {
     "headline": "Chabria: Is RFK Jr. better on women's health than Newsom? We're about to find out",
     "link": "https://www.latimes.com/politics/story/2025-12-07/chabria-column-rfk-jr-gavin-newsom-halle-berry-womens-health",
     "source": "latimes",
@@ -6346,23 +6352,5 @@
     "link": "https://www.latimes.com/politics/story/2025-12-07/trump-pardons-elizabeth-holmes-theranos",
     "source": "latimes",
     "pubdate": "2025-12-07-11-00-00 +0000"
-  },
-  {
-    "headline": "Online child safety advocates urge California lawmakers to increase protections",
-    "link": "https://www.latimes.com/california/story/2025-12-07/online-child-safety-advocates-urge-california-to-increase-protections",
-    "source": "latimes",
-    "pubdate": "2025-12-07-11-00-00 +0000"
-  },
-  {
-    "headline": "Bethlehem Christmas tree illuminated for first time since Gaza war began",
-    "link": "https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-07-07-13-42 +0000"
-  },
-  {
-    "headline": "Day 270 at the 16th St. Plaza: It’s all about the nights",
-    "link": "https://missionlocal.org/2025/12/day-270-at-the-16th-street-plaza-its-all-about-the-nights/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-07-06-59-30 +0000"
   }
 ]
