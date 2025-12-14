@@ -1,38 +1,31 @@
 [
   {
-    "score": 111,
+    "score": 118,
+    "pubdate": "2025-12-13-21-55-38 +0000",
+    "source": "nypost",
+    "headline": "At least 2 killed, 9 people injured in mass shooting at Brown University, gunman remains on the loose",
+    "link": "https://nypost.com/2025/12/13/us-news/active-shooter-at-brown-university-ivy-league-campus-on-lockdown/"
+  },
+  {
+    "score": 85,
     "pubdate": "2025-12-13-21-00-41 +0000",
     "source": "nypost",
     "headline": "Trump attends annual Army-Navy game after condemning attack that killed 3 Americans in Syria",
     "link": "https://nypost.com/2025/12/13/us-news/trump-attends-annual-army-navy-game-after-condemning-attack-that-killed-3-americans-in-syria/"
   },
   {
-    "score": 93,
-    "pubdate": "2025-12-14-01-20-18 +0000",
-    "source": "nypost",
-    "headline": "Terrified Brown University students  describe moment gunman rampaged through university",
-    "link": "https://nypost.com/2025/12/13/us-news/terrified-brown-university-students-describe-moment-gunman-rampaged-through-university/"
-  },
-  {
-    "score": 62,
+    "score": 61,
     "pubdate": "2025-12-13-19-22-53 +0000",
     "source": "nypost",
     "headline": "Belarus frees 123 prisoners including Nobel Peace Prize laureate, opposition leader, Ukraine POWs in deal with Washington",
     "link": "https://nypost.com/2025/12/13/world-news/belarus-frees-nobel-laureate-opposition-leader/"
   },
   {
-    "score": 54,
-    "pubdate": "2025-12-14-08-43-22 +0000",
-    "source": "nypost",
-    "headline": "At least 12 dead — including gunman — in mass shooting during Hanukkah celebration at Australia’s Bondi beach",
-    "link": "https://nypost.com/2025/12/14/world-news/australia-shooting-at-famed-sydney-bondi-beach/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2025-12-13-12-29-00 +0000",
+    "score": 47,
+    "pubdate": "2025-12-14-02-29-00 +0000",
     "source": "wsj",
-    "headline": "The governments of Thailand and Cambodia said fighting continued along their shared border, seeming to contradict an earlier statement from President Trump that the leaders had agreed to a cease-fire",
-    "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
+    "headline": "President Trump, in a WSJ interview, conveyed uncertainty about whether the GOP would keep control of the House in the midterms because some of his economic policies have yet to take full effect",
+    "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46"
   },
   {
     "score": 44,
@@ -42,18 +35,11 @@
     "link": "https://nypost.com/2025/12/13/world-news/israel-kills-top-hamas-commander-raad-saad-with-idf-strike-in-gaza-city-official-says/"
   },
   {
-    "score": 40,
-    "pubdate": "2025-12-14-02-29-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump, in a WSJ interview, conveyed uncertainty about whether the GOP would keep control of the House in the midterms because some of his economic policies have yet to take full effect",
-    "link": "https://www.wsj.com/politics/elections/trump-isnt-certain-his-economic-policies-will-translate-to-midterm-wins-455e0d46"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-12-13-16-27-52 +0000",
-    "source": "nyt",
-    "headline": "To Get to Oslo, Machado Skirted Military Checkpoints and Survived Rough Seas",
-    "link": "https://www.nytimes.com/2025/12/12/us/politics/machado-venezuela-escape-oslo.html"
+    "score": 42,
+    "pubdate": "2025-12-14-08-43-22 +0000",
+    "source": "nypost",
+    "headline": "At least 12 dead — including gunman — in mass shooting during Hanukkah celebration at Australia’s Bondi beach",
+    "link": "https://nypost.com/2025/12/14/world-news/australia-shooting-at-famed-sydney-bondi-beach/"
   },
   {
     "score": 38,
@@ -63,10 +49,24 @@
     "link": "https://www.nytimes.com/2025/12/12/world/americas/venezuela-cuba-oil-tanker.html"
   },
   {
-    "score": 30,
-    "pubdate": "2025-12-13-19-32-58 +0000",
-    "source": "nypost",
-    "headline": "Trump tells ISIS, ‘we will retaliate’ after ‘terrible’ ambush that killed 3 US troops in Syria",
-    "link": "https://nypost.com/2025/12/13/us-news/president-trump-responds-to-terrible-ambush-that-killed-3-us-troops-in-syria-we-will-retaliate/"
+    "score": 37,
+    "pubdate": "2025-12-13-16-27-52 +0000",
+    "source": "nyt",
+    "headline": "To Get to Oslo, Machado Skirted Military Checkpoints and Survived Rough Seas",
+    "link": "https://www.nytimes.com/2025/12/12/us/politics/machado-venezuela-escape-oslo.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-12-14-12-56-07 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Police Say Jewish Community Targeted in Deadly Sydney Attack",
+    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-12-13-22-15-29 +0000",
+    "source": "latimes",
+    "headline": "Times Investigation: Ex-Trump DOJ lawyers say 'fraudulent' UC antisemitism probes led them to quit",
+    "link": "https://www.latimes.com/california/story/2025-12-13/former-doj-attorneys-university-of-california-ucla-antisemitism-investigation"
   }
 ]
