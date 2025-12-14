@@ -1,13 +1,6 @@
 [
   {
-    "score": 351,
-    "pubdate": "2025-12-12-02-38-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said",
-    "link": "https://www.wsj.com/politics/policy/trump-signs-executive-order-to-curtail-state-ai-laws-4ffc09a9"
-  },
-  {
-    "score": 181,
+    "score": 345,
     "pubdate": "2025-12-12-21-34-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he was leaning toward choosing either former Fed governor Kevin Warsh or National Economic Council Director Kevin Hassett to lead the Federal Reserve next year",
@@ -49,7 +42,7 @@
     "link": "https://www.wsj.com/world/fighting-persists-on-thai-cambodian-order-after-trumps-cease-fire-claim-4a0ce221"
   },
   {
-    "score": 97,
+    "score": 96,
     "pubdate": "2025-12-13-21-00-41 +0000",
     "source": "nypost",
     "headline": "Trump attends annual Army-Navy game after condemning attack that killed 3 Americans in Syria",
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "Reddit Sues Australian Government for Under-16 Social Media Ban",
     "link": "https://www.wsj.com/business/media/reddit-sues-australian-government-over-social-media-ban-for-under-16s-2bbc62d3?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 93,
+    "pubdate": "2025-12-13-15-26-20 +0000",
+    "source": "nypost",
+    "headline": "Israel kills top Hamas commander Raad Saad with IDF strike in Gaza City, officials say",
+    "link": "https://nypost.com/2025/12/13/world-news/israel-kills-top-hamas-commander-raad-saad-with-idf-strike-in-gaza-city-official-says/"
   }
 ]
