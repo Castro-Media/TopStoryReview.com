@@ -1,6 +1,6 @@
 [
   {
-    "score": 309,
+    "score": 300,
     "pubdate": "2025-12-14-18-41-53 +0000",
     "source": "nypost",
     "headline": "President Trump mourns victims of Bondi Beach terrorism, Brown University shooting and Syria attacks",
@@ -14,14 +14,14 @@
     "link": "https://nypost.com/2025/12/14/us-news/2-dead-at-rob-reiners-la-home-lapds-robbery-homicide-division-respond/"
   },
   {
-    "score": 123,
+    "score": 120,
     "pubdate": "2025-12-15-14-45-40 +0000",
     "source": "nyt",
     "headline": "To China, Jimmy Lai Was an Arch Villain. To His Supporters, He Was Their Hope.",
     "link": "https://www.nytimes.com/2025/12/15/world/asia/jimmy-lai-guilty-national-security.html"
   },
   {
-    "score": 107,
+    "score": 105,
     "pubdate": "2025-12-14-21-40-54 +0000",
     "source": "wapo",
     "headline": "Australian investigators recovered two improvised explosive devices from the scene of Sunday’s attack, New South Wales...",
@@ -42,13 +42,6 @@
     "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 61,
-    "pubdate": "2025-12-14-22-16-27 +0000",
-    "source": "nypost",
-    "headline": "Australia’s PM blamed for failing to stand up to antisemitism before Bondi Beach terror: ‘You let the disease spread’",
-    "link": "https://nypost.com/2025/12/14/world-news/australians-pm-blamed-for-failing-to-stand-up-to-antisemitism-before-bondi-beach-terror/"
-  },
-  {
     "score": 58,
     "pubdate": "2025-12-14-17-12-07 +0000",
     "source": "nyt",
@@ -63,7 +56,14 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 56,
+    "score": 57,
+    "pubdate": "2025-12-14-22-16-27 +0000",
+    "source": "nypost",
+    "headline": "Australia’s PM blamed for failing to stand up to antisemitism before Bondi Beach terror: ‘You let the disease spread’",
+    "link": "https://nypost.com/2025/12/14/world-news/australians-pm-blamed-for-failing-to-stand-up-to-antisemitism-before-bondi-beach-terror/"
+  },
+  {
+    "score": 55,
     "pubdate": "2025-12-15-10-30-00 +0000",
     "source": "wsj",
     "headline": "For months, a crucial question has been hanging over the economy: What is really going on in the labor market? On Tuesday, the country will finally start to get some answers.",
