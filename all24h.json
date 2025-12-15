@@ -1,15 +1,243 @@
 [
   {
+    "headline": "Live Updates: Police Say They Plan to Charge Suspect in Hanukkah Shooting in Sydney",
+    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting",
+    "source": "nyt",
+    "pubdate": "2025-12-15-04-06-54 +0000"
+  },
+  {
+    "headline": "Here’s how Jimmy Lai became a politically outspoken tycoon.",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/hong-kong-jimmy-lai/heres-how-jimmy-lai-became-a-politically-outspoken-tycoon",
+    "source": "nyt",
+    "pubdate": "2025-12-15-04-01-56 +0000"
+  },
+  {
+    "headline": "Here’s how Jimmy Lai became a politically outspoken tycoon.",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/hong-kong-jimmy-lai/heres-how-jimmy-lai-became-a-politically-outspoken-tycoon",
+    "source": "nyt",
+    "pubdate": "2025-12-15-04-01-56 +0000"
+  },
+  {
+    "headline": "Why Germany Wants a Divorce With China",
+    "link": "https://www.wsj.com/world/europe/why-germany-wants-a-divorce-with-china-0d59fb81",
+    "source": "wsj",
+    "pubdate": "2025-12-15-04-00-00 +0000"
+  },
+  {
+    "headline": "Live: Vikings lead the Cowboys 31-23 in the fourth quarter",
+    "link": "https://www.startribune.com/minnesota-vikings-dallas-cowboys-nfl-week-15-live-tv-score/601542527",
+    "source": "startribune",
+    "pubdate": "2025-12-15-03-55-38 +0000"
+  },
+  {
+    "headline": "Two Bodies Found at Home Owned by Director Rob Reiner",
+    "link": "https://www.nytimes.com/2025/12/14/us/rob-reiner-home-bodies.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-49-00 +0000"
+  },
+  {
+    "headline": "Roomba Maker Declares Bankruptcy, but Tries to Ease ‘Bricking’ Fears",
+    "link": "https://www.wsj.com/business/roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fe73dff2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-15-03-47-00 +0000"
+  },
+  {
+    "headline": "Roomba Maker Declares Bankruptcy, but Tries to Ease ‘Bricking’ Fears",
+    "link": "https://www.wsj.com/business/roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fe73dff2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-15-03-47-00 +0000"
+  },
+  {
+    "headline": "Jimmy Lai’s Life, in Photos and Video",
+    "link": "https://www.nytimes.com/2025/12/14/world/asia/jimmy-lai-photos-video.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-42-14 +0000"
+  },
+  {
+    "headline": "Jimmy Lai’s Life, in Photos and Video",
+    "link": "https://www.nytimes.com/2025/12/14/world/asia/jimmy-lai-photos-video.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-42-14 +0000"
+  },
+  {
+    "headline": "SolGold Board Backs Jiangxi Copper’s Sweetened Takeover Bid",
+    "link": "https://www.wsj.com/business/deals/solgold-board-backs-jiangxi-coppers-sweetened-takeover-bid-1a0d7a0d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-15-03-36-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/hong-kong-jimmy-lai/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-23-44 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/hong-kong-jimmy-lai/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-23-44 +0000"
+  },
+  {
+    "headline": "José Antonio Kast Elected President of Chile",
+    "link": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-20-18 +0000"
+  },
+  {
+    "headline": "José Antonio Kast Elected President of Chile",
+    "link": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-20-18 +0000"
+  },
+  {
+    "headline": "Live updates: 15 killed in Bondi Beach shooting carried out by father and son, Australian officials say",
+    "link": "https://www.washingtonpost.com/world/2025/12/14/bondi-beach-shooting-australia/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-03-20-03 +0000"
+  },
+  {
+    "headline": "Police urge unity, caution against ‘retribution’ in wake of shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-03-20-03 +0000"
+  },
+  {
+    "headline": "Attack took place at world-famous Sydney beach",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-03-17-07 +0000"
+  },
+  {
+    "headline": "2 people found dead at Rob Reiner's home and homicide detectives are investigating",
+    "link": "https://www.cbc.ca/news/entertainment/rob-reiner-home-homicide-investigation-9.7015729?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-15-03-17-01 +0000"
+  },
+  {
+    "headline": "China’s Economy Is Deteriorating on Several Fronts",
+    "link": "https://www.wsj.com/world/asia/chinas-economy-is-deteriorating-on-several-fronts-6d0a4a9b",
+    "source": "wsj",
+    "pubdate": "2025-12-15-03-17-00 +0000"
+  },
+  {
+    "headline": "China’s economic momentum slowed broadly in November",
+    "link": "https://www.wsj.com/world/asia/chinas-economy-is-deteriorating-on-several-fronts-6d0a4a9b",
+    "source": "wsj",
+    "pubdate": "2025-12-15-03-17-00 +0000"
+  },
+  {
+    "headline": "Live updates: Person of interest in Brown U. shooting is 24, from Wisconsin, officials say",
+    "link": "https://www.washingtonpost.com/nation/2025/12/14/brown-university-shooting-suspect/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-03-15-31 +0000"
+  },
+  {
+    "headline": "In its final update for the day, the Providence Police Department said in a statement that...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-03-15-31 +0000"
+  },
+  {
+    "headline": "Hong Kong Court Convicts Publisher Jimmy Lai, Whom Trump Has Vowed to Free",
+    "link": "https://www.wsj.com/world/china/hong-kong-court-convicts-publisher-jimmy-lai-whom-trump-has-vowed-to-free-8795674e",
+    "source": "wsj",
+    "pubdate": "2025-12-15-03-12-00 +0000"
+  },
+  {
+    "headline": "Emergency Responders Recount Horror of Sydney Shooting",
+    "link": "https://www.nytimes.com/2025/12/14/world/australia/emergency-responders-sydney-shooting-recount-horror.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-03-11-03 +0000"
+  },
+  {
+    "headline": "Singapore Dollar Consolidates Amid Lack of Fresh Catalysts",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-major-u-s-data-0debf32d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-15-03-09-00 +0000"
+  },
+  {
+    "headline": "Hong Kong court convicts pro-democracy newspaper founder Jimmy Lai",
+    "link": "https://www.washingtonpost.com/world/2025/12/14/hong-kong-jimmy-lai-apple-china-verdict/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-03-06-02 +0000"
+  },
+  {
+    "headline": "Takeaways: Wild rout Bruins 6-2 as Quinn Hughes scores in successful debut",
+    "link": "https://www.startribune.com/takeaways-wild-rout-bruins-6-2-as-quinn-hughes-scores-in-successful-debut/601524315",
+    "source": "startribune",
+    "pubdate": "2025-12-15-03-00-04 +0000"
+  },
+  {
+    "headline": "Hundreds gathered on Bondi Beach for Hanukkah. Then gunmen opened fire.",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-02-54-03 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting/bondi-sydney-australia-police-shooting",
+    "source": "nyt",
+    "pubdate": "2025-12-15-02-51-41 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting/bondi-sydney-australia-police-shooting",
+    "source": "nyt",
+    "pubdate": "2025-12-15-02-51-41 +0000"
+  },
+  {
+    "headline": "Police investigate apparent homicide at home of Rob Reiner after 2 are found dead",
+    "link": "https://www.latimes.com/california/story/2025-12-14/2-found-dead-at-home-of-rob-reiner",
+    "source": "latimes",
+    "pubdate": "2025-12-15-02-48-01 +0000"
+  },
+  {
+    "headline": "Major win for ultra-conservative gives Chile its most right-wing president in decades",
+    "link": "https://nypost.com/2025/12/14/world-news/major-win-for-ultra-conservative-gives-chile-its-most-right-wing-president-in-decades/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-02-48-00 +0000"
+  },
+  {
+    "headline": "Jimmy Lai, Hong Kong media tycoon and Beijing critic, found guilty of national security crimes",
+    "link": "https://www.cbc.ca/news/world/jimmy-lai-hong-kong-china-verdict-9.7015714?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-15-02-47-53 +0000"
+  },
+  {
+    "headline": "A ‘Small Place’ Copes With Unimaginable Tragedy After Brown Shooting",
+    "link": "https://www.nytimes.com/2025/12/14/us/brown-university-shooting-providence-mayor.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-02-41-34 +0000"
+  },
+  {
+    "headline": "Enraged Aussie stomps on head of Bondi Beach gunman: viral video",
+    "link": "https://nypost.com/2025/12/14/world-news/enraged-aussie-stomps-on-head-of-bondi-beach-gunman-viral-video/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-02-39-45 +0000"
+  },
+  {
+    "headline": "Chile Elects Most Right-Wing President of Post-Pinochet Era",
+    "link": "https://www.wsj.com/world/americas/chile-elects-most-right-wing-president-of-post-pinochet-era-8ea0ff8d",
+    "source": "wsj",
+    "pubdate": "2025-12-15-02-36-00 +0000"
+  },
+  {
+    "headline": "Australian authorities have increased the police presence in Bondi “to make sure that the Jewish community...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-02-31-51 +0000"
+  },
+  {
+    "headline": "The surviving suspect is in the hospital as of early Monday afternoon, New South Wales Police...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-02-31-38 +0000"
+  },
+  {
     "headline": "Opinion | Chile Joins the Latin American Move to the Right",
     "link": "https://www.wsj.com/opinion/chile-presidential-election-jose-antonio-kast-jeannette-jara-gabriel-boric-cb082ca6",
     "source": "wsj",
     "pubdate": "2025-12-15-02-29-00 +0000"
-  },
-  {
-    "headline": "Live Updates: 15 Victims and a Gunman Dead After Attack on Hanukkah Festival in Sydney",
-    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting",
-    "source": "nyt",
-    "pubdate": "2025-12-15-02-28-16 +0000"
   },
   {
     "headline": "Police Detain Person of Interest in Brown University Shooting While Campus Mourns",
@@ -24,28 +252,10 @@
     "pubdate": "2025-12-15-02-21-22 +0000"
   },
   {
-    "headline": "Live: Vikings tied with the Cowboys 14-14 on ‘Sunday Night Football’",
-    "link": "https://www.startribune.com/minnesota-vikings-dallas-cowboys-nfl-week-15-live-tv-score/601542527",
-    "source": "startribune",
-    "pubdate": "2025-12-15-02-17-49 +0000"
-  },
-  {
-    "headline": "2 dead at Rob Reiner’s LA home, LAPD’s robbery-homicide division responds",
+    "headline": "Legendary director Rob Reiner, wife found stabbed to death in LA home: sources",
     "link": "https://nypost.com/2025/12/14/us-news/2-dead-at-rob-reiners-la-home-lapds-robbery-homicide-division-respond/",
     "source": "nypost",
     "pubdate": "2025-12-15-02-16-02 +0000"
-  },
-  {
-    "headline": "Jimmy Lai’s Life, in Photos and Video",
-    "link": "https://www.nytimes.com/2025/12/14/world/asia/jimmy-lai-photos-video.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-02-00-54 +0000"
-  },
-  {
-    "headline": "Jimmy Lai’s Life, in Photos and Video",
-    "link": "https://www.nytimes.com/2025/12/14/world/asia/jimmy-lai-photos-video.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-02-00-54 +0000"
   },
   {
     "headline": "They were almost American - then Trump cancelled their citizenship ceremonies",
@@ -64,12 +274,6 @@
     "link": "https://www.wsj.com/economy/why-everyone-got-trumps-tariffs-wrong-d16a4598",
     "source": "wsj",
     "pubdate": "2025-12-15-02-00-00 +0000"
-  },
-  {
-    "headline": "Takeaways: Wild rout Bruins 6-2 as Quinn Hughes scores in successful debut",
-    "link": "https://www.startribune.com/takeaways-wild-rout-bruins-6-2-as-quinn-hughes-scores-in-successful-debut/601524315",
-    "source": "startribune",
-    "pubdate": "2025-12-15-01-52-37 +0000"
   },
   {
     "headline": "Minneapolis rally demands ICE off post office land; Ilhan Omar says agents pulled over son",
@@ -114,24 +318,6 @@
     "pubdate": "2025-12-15-01-20-46 +0000"
   },
   {
-    "headline": "Live updates: Person of interest in Brown U. shooting is 24, from Wisconsin, officials say",
-    "link": "https://www.washingtonpost.com/nation/2025/12/14/brown-university-shooting-suspect/",
-    "source": "wapo",
-    "pubdate": "2025-12-15-01-20-46 +0000"
-  },
-  {
-    "headline": "Asian Currencies Consolidate Ahead of Major U.S. Data",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-major-u-s-data-0debf32d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-15-01-06-00 +0000"
-  },
-  {
-    "headline": "Asian Currencies Consolidate Ahead of Major U.S. Data",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-major-u-s-data-0debf32d",
-    "source": "wsj",
-    "pubdate": "2025-12-15-01-06-00 +0000"
-  },
-  {
     "headline": "What we know so far about the Brown University shooting",
     "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -150,6 +336,12 @@
     "pubdate": "2025-12-15-00-58-27 +0000"
   },
   {
+    "headline": "Their diamond-rich land in South Africa was taken. Now they want it back",
+    "link": "https://www.bbc.com/news/articles/ckg91wlken3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-00-56-03 +0000"
+  },
+  {
     "headline": "Career shoplifter tries to rob Walmart during ‘shop with a cop’ event that brought over dozen uniformed officers into store",
     "link": "https://nypost.com/2025/12/14/us-news/sophia-malak-a-known-shoplifter-tried-to-rob-walmart-in-hartford-wisconsin-in-front-of-15-cops/",
     "source": "nypost",
@@ -166,18 +358,6 @@
     "link": "https://www.nytimes.com/2025/12/14/world/asia/jimmy-lai-hong-kong-trial-verdict.html",
     "source": "nyt",
     "pubdate": "2025-12-15-00-53-27 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/12/12/world/hong-kong-jimmy-lai/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-12-15-00-53-25 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/12/12/world/hong-kong-jimmy-lai/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-12-15-00-53-25 +0000"
   },
   {
     "headline": "Oil Edges Higher Amid Mixed Signals",
@@ -252,18 +432,6 @@
     "pubdate": "2025-12-15-00-14-27 +0000"
   },
   {
-    "headline": "José Antonio Kast Elected President of Chile",
-    "link": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-00-07-59 +0000"
-  },
-  {
-    "headline": "José Antonio Kast Elected President of Chile",
-    "link": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-00-07-59 +0000"
-  },
-  {
     "headline": "Trump promises tariff-led ‘golden age’ of manufacturing within the year",
     "link": "https://nypost.com/2025/12/14/us-news/trump-promises-tariff-led-golden-age-of-manufacturing-in-six-months-to-a-year/",
     "source": "nypost",
@@ -333,7 +501,7 @@
     "headline": "Raul Malo, Frontman of Latin-Tinged Country Band Mavericks, Dies at 60",
     "link": "https://www.nytimes.com/2025/12/09/arts/music/raul-malo-dead.html",
     "source": "nyt",
-    "pubdate": "2025-12-14-23-33-49 +0000"
+    "pubdate": "2025-12-14-23-33-50 +0000"
   },
   {
     "headline": "Unhinged bigot caught on video unleashing antisemitic rant at Jewish woman in NYC eatery",
@@ -366,28 +534,10 @@
     "pubdate": "2025-12-14-23-15-17 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting/bondi-sydney-australia-police-shooting",
-    "source": "nyt",
-    "pubdate": "2025-12-14-23-13-39 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting/bondi-sydney-australia-police-shooting",
-    "source": "nyt",
-    "pubdate": "2025-12-14-23-13-39 +0000"
-  },
-  {
     "headline": "Community rallies around legendary Broadway dancer, 95, who faces losing NYC home",
     "link": "https://nypost.com/2025/12/14/us-news/community-rallies-around-legendary-broadway-dancer-nat-horne-who-faces-losing-nyc-home/",
     "source": "nypost",
     "pubdate": "2025-12-14-23-12-47 +0000"
-  },
-  {
-    "headline": "Chile Elects Most Right-Wing President of Post-Pinochet Era",
-    "link": "https://www.wsj.com/world/americas/chile-elects-most-right-wing-president-of-post-pinochet-era-8ea0ff8d",
-    "source": "wsj",
-    "pubdate": "2025-12-14-23-11-00 +0000"
   },
   {
     "headline": "Stewartville schools will open late Monday with law enforcement presence, following shooting",
@@ -418,12 +568,6 @@
     "link": "https://nypost.com/2025/12/14/us-news/nyc-mayor-adams-blames-bondi-beach-terror-attack-on-globalization-of-intifada/",
     "source": "nypost",
     "pubdate": "2025-12-14-22-52-04 +0000"
-  },
-  {
-    "headline": "What We Know About the Brown University Shooting",
-    "link": "https://www.nytimes.com/2025/12/13/us/brown-university-shooting-what-happened.html",
-    "source": "nyt",
-    "pubdate": "2025-12-14-22-47-34 +0000"
   },
   {
     "headline": "What We Know About the Bondi Beach Shooting in Australia",
@@ -462,16 +606,16 @@
     "pubdate": "2025-12-14-22-31-00 +0000"
   },
   {
+    "headline": "Terrorist Attack Targets Jews at Sydney’s Bondi Beach, Killing 15",
+    "link": "https://www.wsj.com/world/oceania/sydney-bondi-beach-incident-602d4a49",
+    "source": "wsj",
+    "pubdate": "2025-12-14-22-31-00 +0000"
+  },
+  {
     "headline": "Bondi Shooting Is Latest in Alarming Rise of Antisemitic Attacks in Australia",
     "link": "https://www.nytimes.com/2025/12/14/world/australia/bondi-shooting-antisemitic-attacks-australia.html",
     "source": "nyt",
     "pubdate": "2025-12-14-22-27-15 +0000"
-  },
-  {
-    "headline": "Live updates: 15 killed in Bondi Beach shooting carried out by father and son, Australian officials say",
-    "link": "https://www.washingtonpost.com/world/2025/12/14/bondi-beach-shooting-australia/",
-    "source": "wapo",
-    "pubdate": "2025-12-14-22-25-01 +0000"
   },
   {
     "headline": "When asked by reporters  whether he had failed to heed Jewish Australians’ warnings of the...",
@@ -1590,14 +1734,14 @@
     "pubdate": "2025-12-14-11-00-00 +0000"
   },
   {
-    "headline": "Barabak: Is Newsom blazing a path to the White House? Running a fool's errand? Let's discuss",
-    "link": "https://www.latimes.com/politics/story/2025-12-14/newsom-democrat-president-2028-garry-south-barabak",
+    "headline": "California's role in shaping the fate of the Democratic Party and combating Trump on full display",
+    "link": "https://www.latimes.com/california/story/2025-12-14/california-promise-peril-democrats-convention-la",
     "source": "latimes",
     "pubdate": "2025-12-14-11-00-00 +0000"
   },
   {
-    "headline": "California's role in shaping the fate of the Democratic Party and combating Trump on full display",
-    "link": "https://www.latimes.com/california/story/2025-12-14/california-promise-peril-democrats-convention-la",
+    "headline": "Barabak: Is Newsom blazing a path to the White House? Running a fool's errand? Let's discuss",
+    "link": "https://www.latimes.com/politics/story/2025-12-14/newsom-democrat-president-2028-garry-south-barabak",
     "source": "latimes",
     "pubdate": "2025-12-14-11-00-00 +0000"
   },
@@ -1864,11 +2008,5 @@
     "link": "https://www.nytimes.com/2025/12/13/us/shooting-brown-university-manhunt.html",
     "source": "nyt",
     "pubdate": "2025-12-14-04-43-58 +0000"
-  },
-  {
-    "headline": "The Eerie Parallels Between AI Mania and the Dot-Com Bubble",
-    "link": "https://www.wsj.com/finance/stocks/the-eerie-parallels-between-ai-mania-and-the-dot-com-bubble-f99be6fe?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-14-04-00-00 +0000"
   }
 ]

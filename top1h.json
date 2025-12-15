@@ -1,23 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2025-12-15-02-28-16 +0000",
+    "score": 20,
+    "pubdate": "2025-12-15-04-06-54 +0000",
     "source": "nyt",
-    "headline": "Live Updates: 15 Victims and a Gunman Dead After Attack on Hanukkah Festival in Sydney",
+    "headline": "Live Updates: Police Say They Plan to Charge Suspect in Hanukkah Shooting in Sydney",
     "link": "https://www.nytimes.com/live/2025/12/14/world/sydney-bondi-beach-shooting"
   },
   {
-    "score": 9,
-    "pubdate": "2025-12-15-02-28-00 +0000",
+    "score": 20,
+    "pubdate": "2025-12-15-04-01-56 +0000",
+    "source": "nyt",
+    "headline": "Here’s how Jimmy Lai became a politically outspoken tycoon.",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/hong-kong-jimmy-lai/heres-how-jimmy-lai-became-a-politically-outspoken-tycoon"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-15-03-47-00 +0000",
     "source": "wsj",
-    "headline": "Police Detain Person of Interest in Brown University Shooting While Campus Mourns",
-    "link": "https://www.wsj.com/us-news/police-detain-person-of-interest-in-deadly-brown-university-shooting-010e99c8"
+    "headline": "Roomba Maker Declares Bankruptcy, but Tries to Ease ‘Bricking’ Fears",
+    "link": "https://www.wsj.com/business/roomba-maker-declares-bankruptcy-but-tries-to-ease-bricking-fears-fe73dff2?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 12,
+    "pubdate": "2025-12-15-03-20-18 +0000",
+    "source": "nyt",
+    "headline": "José Antonio Kast Elected President of Chile",
+    "link": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-12-15-03-49-00 +0000",
+    "source": "nyt",
+    "headline": "Two Bodies Found at Home Owned by Director Rob Reiner",
+    "link": "https://www.nytimes.com/2025/12/14/us/rob-reiner-home-bodies.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-15-03-20-03 +0000",
+    "source": "wapo",
+    "headline": "Live updates: 15 killed in Bondi Beach shooting carried out by father and son, Australian officials say",
+    "link": "https://www.washingtonpost.com/world/2025/12/14/bondi-beach-shooting-australia/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-15-03-36-00 +0000",
+    "source": "wsj",
+    "headline": "SolGold Board Backs Jiangxi Copper’s Sweetened Takeover Bid",
+    "link": "https://www.wsj.com/business/deals/solgold-board-backs-jiangxi-coppers-sweetened-takeover-bid-1a0d7a0d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-15-03-17-00 +0000",
+    "source": "wsj",
+    "headline": "China’s economic momentum slowed broadly in November",
+    "link": "https://www.wsj.com/world/asia/chinas-economy-is-deteriorating-on-several-fronts-6d0a4a9b"
   },
   {
     "score": 6,
-    "pubdate": "2025-12-15-02-29-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | Chile Joins the Latin American Move to the Right",
-    "link": "https://www.wsj.com/opinion/chile-presidential-election-jose-antonio-kast-jeannette-jara-gabriel-boric-cb082ca6"
+    "pubdate": "2025-12-15-03-42-14 +0000",
+    "source": "nyt",
+    "headline": "Jimmy Lai’s Life, in Photos and Video",
+    "link": "https://www.nytimes.com/2025/12/14/world/asia/jimmy-lai-photos-video.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-12-15-03-15-31 +0000",
+    "source": "wapo",
+    "headline": "In its final update for the day, the Providence Police Department said in a statement that...",
+    "link": "https://www.washingtonpost.com"
   }
 ]
