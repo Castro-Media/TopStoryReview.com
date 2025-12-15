@@ -1,9 +1,465 @@
 [
   {
-    "headline": "Live Updates: Australian Police Plan to Charge Suspect in Bondi Massacre",
+    "headline": "What we know about how the Bondi Beach attack unfolded",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-59-16 +0000"
+  },
+  {
+    "headline": "Live updates: 15 killed in Bondi Beach shooting by father and son, Australian officials allege",
+    "link": "https://www.washingtonpost.com/world/2025/12/14/bondi-beach-shooting-australia/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-59-16 +0000"
+  },
+  {
+    "headline": "U.K. Spy Chief Warns of Growing Russia Threat in Europe",
+    "link": "https://www.nytimes.com/2025/12/15/world/europe/uk-mi6-russia-chaos.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-57-31 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/12/15/us/brown-shooting/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-55-58 +0000"
+  },
+  {
+    "headline": "Harvard, Yale and Other Universities Boost Security After Brown Shooting",
+    "link": "https://www.nytimes.com/2025/12/15/us/brown-university-shooting-classes-canceled-yale-harvard.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-54-55 +0000"
+  },
+  {
+    "headline": "Australian Police Plan to Charge Suspect in Bondi Massacre",
     "link": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-australia",
     "source": "nyt",
-    "pubdate": "2025-12-15-14-54-52 +0000"
+    "pubdate": "2025-12-15-16-54-06 +0000"
+  },
+  {
+    "headline": "Ahmed el Ahmed, Who Tackled One of the Bondi Beach Gunmen, Is Recovering in a Hospital",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/ahmed-bondi-shooting-hero-tackled-shooter-injured.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-54-03 +0000"
+  },
+  {
+    "headline": "Rob Reiner’s son arrested after his parents were found dead",
+    "link": "https://www.washingtonpost.com/nation/2025/12/15/rob-reiner-son-arrest/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-52-55 +0000"
+  },
+  {
+    "headline": "Rob Reiner’s Son Arrested in Los Angeles After Director and Wife Found Dead",
+    "link": "https://www.wsj.com/us-news/nick-reiner-arrested-rob-reiner-michele-singer-reiner-8d755edc",
+    "source": "wsj",
+    "pubdate": "2025-12-15-16-52-00 +0000"
+  },
+  {
+    "headline": "Netflix CEOs make case for Warner Bros. Discovery merger in memo to employees",
+    "link": "https://nypost.com/2025/12/15/media/netflix-ceos-make-case-for-warner-bros-discovery-merger/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-16-51-19 +0000"
+  },
+  {
+    "headline": "Nick Reiner Talked Openly About His Struggles",
+    "link": "https://www.nytimes.com/2025/12/15/us/nick-reiner-rob-reiner-son.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-50-50 +0000"
+  },
+  {
+    "headline": "Iranian Authorities Assaulted Detained Nobel Laureate, Family Says",
+    "link": "https://www.nytimes.com/2025/12/15/world/middleeast/narge-mohammadi-iran-beating.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-49-59 +0000"
+  },
+  {
+    "headline": "Iranian Authorities Assaulted Detained Nobel Laureate, Family Says",
+    "link": "https://www.nytimes.com/2025/12/15/world/middleeast/narge-mohammadi-iran-beating.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-49-59 +0000"
+  },
+  {
+    "headline": "U.S. Soldiers Killed in Syria Identified as Iowa National Guard Sergeants",
+    "link": "https://www.nytimes.com/2025/12/15/us/syria-killed-soldiers-iowa-national-guard.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-49-48 +0000"
+  },
+  {
+    "headline": "U.K. Spy Chief Warns of Growing Russia Threat in Europe",
+    "link": "https://www.nytimes.com/2025/12/15/world/europe/uk-mi6-russia-chaos.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-48-59 +0000"
+  },
+  {
+    "headline": "Brian Walshe emotionless as he’s found guilty of murdering, dismembering wife Ana",
+    "link": "https://nypost.com/2025/12/15/us-news/brian-walshe-guilty-of-murdering-dismembering-wife-ana/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-16-46-29 +0000"
+  },
+  {
+    "headline": "Tesla shares jump nearly 5% after Elon Musk confirms driverless robotaxi testing",
+    "link": "https://nypost.com/2025/12/15/business/tesla-shares-jump-after-elon-musk-confirms-driverless-robotaxi-testing/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-16-40-07 +0000"
+  },
+  {
+    "headline": "Opinion | College Board’s Defense Doesn’t Pass Muster",
+    "link": "https://www.wsj.com/opinion/college-boards-defense-doesnt-pass-muster-ap-sat-8b274a99",
+    "source": "wsj",
+    "pubdate": "2025-12-15-16-32-00 +0000"
+  },
+  {
+    "headline": "MukhammadAziz Umurzokov, Killed in the Brown Shooting, Is Remembered as a Scholar",
+    "link": "https://www.nytimes.com/2025/12/15/us/brown-university-shooting-victim-mukhammadaziz-umurzokov-uzbekistan.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-31-37 +0000"
+  },
+  {
+    "headline": "Opinion | The Green-Energy Push Is a Security Threat",
+    "link": "https://www.wsj.com/opinion/the-green-energy-push-is-a-security-threat-europe-china-d09641c1?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-15-16-30-00 +0000"
+  },
+  {
+    "headline": "Hollywood Stars Pay Tribute to Rob Reiner",
+    "link": "https://www.nytimes.com/2025/12/15/us/rob-reiner-tributes-hollywood-response.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-27-24 +0000"
+  },
+  {
+    "headline": "Brown shooting victim was pursuing dream of becoming brain surgeon",
+    "link": "https://www.washingtonpost.com/nation/2025/12/15/brown-university-shooting-victims/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-27-15 +0000"
+  },
+  {
+    "headline": "Ella Cook, Victim of Shooting at Brown University, Is Remembered as ‘a Bright Light’",
+    "link": "https://www.nytimes.com/2025/12/15/us/brown-university-shooting-victim-ella-cook-alabama.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-26-58 +0000"
+  },
+  {
+    "headline": "What we know so far about the Brown University shooting",
+    "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-24-58 +0000"
+  },
+  {
+    "headline": "What we know so far about the Brown University shooting",
+    "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-24-58 +0000"
+  },
+  {
+    "headline": "Some Australian Jews Accuse the Government of Failing to Heed Warnings",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/bondi-jewish-australia-shooting.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-21-08 +0000"
+  },
+  {
+    "headline": "What We Know About the Bondi Beach Shooting in Australia",
+    "link": "https://www.nytimes.com/2025/12/14/world/australia/what-we-know-bondi-shooting.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-19-38 +0000"
+  },
+  {
+    "headline": "Newsom taps former CDC leaders critical of Trump-era health policies for new initiative",
+    "link": "https://www.latimes.com/california/story/2025-12-15/newsom-taps-former-cdc-leaders-critical-of-trump-era-health-policies",
+    "source": "latimes",
+    "pubdate": "2025-12-15-16-19-24 +0000"
+  },
+  {
+    "headline": "Newsom taps former CDC leaders critical of Trump-era health policies for new initiative",
+    "link": "https://www.latimes.com/california/story/2025-12-15/newsom-taps-former-cdc-leaders-critical-of-trump-era-health-policies",
+    "source": "latimes",
+    "pubdate": "2025-12-15-16-19-24 +0000"
+  },
+  {
+    "headline": "Second Brown University shooting victim ID’d as Uzbek American",
+    "link": "https://nypost.com/2025/12/15/us-news/second-brown-university-shooting-victim-idd-as-uzbek-international-student/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-16-17-22 +0000"
+  },
+  {
+    "headline": "Live updates: Authorities seek Brown University gunman as they release person of interest",
+    "link": "https://www.washingtonpost.com/nation/2025/12/15/brown-university-shooting-suspect-manhunt/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-12-53 +0000"
+  },
+  {
+    "headline": "The University of Rhode Island canceled in-person exams Monday, adding that there was no known threat...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-12-53 +0000"
+  },
+  {
+    "headline": "Rob Reiner and Wife Found Stabbed to Death: What We Know",
+    "link": "https://www.nytimes.com/2025/12/15/us/rob-reiner-michele-death-investigation.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-11-16 +0000"
+  },
+  {
+    "headline": "Rob Reiner and Wife Found Stabbed to Death: What We Know",
+    "link": "https://www.nytimes.com/2025/12/15/us/rob-reiner-michele-death-investigation.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-16-11-16 +0000"
+  },
+  {
+    "headline": "Son Nick arrested after Rob Reiner and his wife found dead in Los Angeles home, AP source says",
+    "link": "https://www.startribune.com/2-people-found-dead-in-home-owned-by-rob-reiner-ap-source-says/601546161",
+    "source": "startribune",
+    "pubdate": "2025-12-15-16-11-01 +0000"
+  },
+  {
+    "headline": "Jared Kushner’s Plan to Build a Trump Hotel in Serbia Is Running Into Resistance",
+    "link": "https://www.wsj.com/world/trump-hotel-russia-serbia-jared-kushner-9a7189f5",
+    "source": "wsj",
+    "pubdate": "2025-12-15-16-10-00 +0000"
+  },
+  {
+    "headline": "Jared Kushner’s Plan to Build a Trump Hotel in Serbia Is Running Into Resistance",
+    "link": "https://www.wsj.com/world/trump-hotel-russia-serbia-jared-kushner-9a7189f5",
+    "source": "wsj",
+    "pubdate": "2025-12-15-16-10-00 +0000"
+  },
+  {
+    "headline": "Search resumes for Brown University gunman after 'person of interest' released",
+    "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-09-49 +0000"
+  },
+  {
+    "headline": "Search resumes for Brown University gunman after 'person of interest' released",
+    "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-09-49 +0000"
+  },
+  {
+    "headline": "Central Synagogue rabbi: ‘Give us the strength that we can go through this’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-08-47 +0000"
+  },
+  {
+    "headline": "Shock and grief after director Rob Reiner and wife Michele found dead",
+    "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-06-24 +0000"
+  },
+  {
+    "headline": "UK chief rabbi says cousin hid for 15 'terrifying' minutes in Bondi attack",
+    "link": "https://www.bbc.com/news/articles/cr7l35jgr0eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-06-08 +0000"
+  },
+  {
+    "headline": "Ministers finalising definition of anti-Muslim hatred",
+    "link": "https://www.bbc.com/news/articles/cjrjzp42v4zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-05-07 +0000"
+  },
+  {
+    "headline": "Acclaimed filmmaker Rob Reiner found dead with his wife, Michele",
+    "link": "https://www.washingtonpost.com/entertainment/movies/2025/12/14/reiner-singer/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-16-03-50 +0000"
+  },
+  {
+    "headline": "Rob Reiner's son in custody in connection with his parents' killing",
+    "link": "https://www.cbc.ca/news/entertainment/reiners-homicide-investigation-9.7015895?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-15-16-03-32 +0000"
+  },
+  {
+    "headline": "No toolkit to deal with Covid economic crisis, says Sunak",
+    "link": "https://www.bbc.com/news/articles/c709n49lx9yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-16-01-22 +0000"
+  },
+  {
+    "headline": "Rob Reiner drove people ‘crazy’ with ‘Trump Derangement Syndrome,’ prez says",
+    "link": "https://nypost.com/2025/12/15/us-news/trump-suggests-murdered-rob-reiner-drove-people-crazy-with-trump-derangement-syndrome/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-15-57-00 +0000"
+  },
+  {
+    "headline": "Canada Inflation Steadies at 2.2% in November",
+    "link": "https://www.wsj.com/economy/central-banking/canada-inflation-steadies-at-2-2-in-november-da89ffa8",
+    "source": "wsj",
+    "pubdate": "2025-12-15-15-57-00 +0000"
+  },
+  {
+    "headline": "Rob Reiner drove people ‘crazy’ with ‘Trump Derangement Syndrome,’ prez says",
+    "link": "https://nypost.com/2025/12/15/us-news/trump-suggests-murdered-rob-reiner-drove-people-crazy-with-trump-derangement-syndrome/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-15-57-00 +0000"
+  },
+  {
+    "headline": "Two Bodies Found at Home Owned by Director Rob Reiner",
+    "link": "https://www.nytimes.com/live/2025/12/15/us/rob-michele-reiner-dead/rob-reiner-home-bodies",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-56-23 +0000"
+  },
+  {
+    "headline": "Deadly Attack on U.S. Troops Poses Growing Challenge for Syria’s Leader",
+    "link": "https://www.nytimes.com/2025/12/14/world/middleeast/syria-us-soldiers-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-54-25 +0000"
+  },
+  {
+    "headline": "Deadly Attack on U.S. Troops Poses Growing Challenge for Syria’s Leader",
+    "link": "https://www.nytimes.com/2025/12/14/world/middleeast/syria-us-soldiers-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-54-25 +0000"
+  },
+  {
+    "headline": "What we know about Nick Reiner, who struggled with addiction and shared his recovery with the world",
+    "link": "https://www.latimes.com/california/story/2025-12-15/what-we-know-about-nick-reiner-who-struggled-with-addiction-share-his-recovery-with-world",
+    "source": "latimes",
+    "pubdate": "2025-12-15-15-51-31 +0000"
+  },
+  {
+    "headline": "Michele Singer Reiner: A Photographer Who Changed Movie History",
+    "link": "https://www.nytimes.com/2025/12/15/us/michele-singer-reiner-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-51-24 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-australia/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-50-04 +0000"
+  },
+  {
+    "headline": "Three Americans killed by IS gunman in Syria, US military says",
+    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-15-49-35 +0000"
+  },
+  {
+    "headline": "Three Americans killed by IS gunman in Syria, US military says",
+    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-15-49-35 +0000"
+  },
+  {
+    "headline": "Three Americans killed by IS gunman in Syria, US military says",
+    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-15-15-49-35 +0000"
+  },
+  {
+    "headline": "Rival Kingpins of Russian Oil Trade Hit by EU Sanctions",
+    "link": "https://www.wsj.com/world/russia/rival-kingpins-of-russian-oil-trade-hit-by-eu-sanctions-585ef5e2",
+    "source": "wsj",
+    "pubdate": "2025-12-15-15-42-00 +0000"
+  },
+  {
+    "headline": "Rival Kingpins of Russian Oil Trade Hit by EU Sanctions",
+    "link": "https://www.wsj.com/world/russia/rival-kingpins-of-russian-oil-trade-hit-by-eu-sanctions-585ef5e2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-15-15-42-00 +0000"
+  },
+  {
+    "headline": "Twins sign veteran first baseman Josh Bell to one-year contract",
+    "link": "https://www.startribune.com/twins-sign-first-baseman-josh-bell-to-one-year-contract-in-free-agency/601546379",
+    "source": "startribune",
+    "pubdate": "2025-12-15-15-40-50 +0000"
+  },
+  {
+    "headline": "What to Know About the Victims of the Bondi Beach Shooting",
+    "link": "https://www.nytimes.com/2025/12/14/world/australia/australia-shooting-hanukkah-victims-bondi-beach.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-40-41 +0000"
+  },
+  {
+    "headline": "What we know about the victims in the Bondi Beach Hanukkah attack",
+    "link": "https://www.cbc.ca/news/world/bondi-beach-australia-attack-victims-9.7015944?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-15-15-39-51 +0000"
+  },
+  {
+    "headline": "Stories of survival, horror from Bondi Beach terrorist attack — how the nightmare unfolded",
+    "link": "https://nypost.com/2025/12/15/world-news/stories-of-survival-horror-from-bondi-beach-terrorist-attack-how-the-nightmare-unfolded/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-15-37-55 +0000"
+  },
+  {
+    "headline": "The Holidays Came Early This Year, at Least for Advertisers",
+    "link": "https://www.wsj.com/business/media/the-holidays-came-early-this-year-at-least-for-advertisers-845adfa9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-15-15-37-00 +0000"
+  },
+  {
+    "headline": "Bondi Beach hero who tackled terrorist expected to die after dramatic confrontation: ‘Tell them I went down to save people’s lives’",
+    "link": "https://nypost.com/2025/12/15/world-news/bondi-beach-hero-who-tackled-terrorist-expected-to-die-tell-them-i-went-down-to-save-peoples-lives/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-15-35-21 +0000"
+  },
+  {
+    "headline": "After Bondi Beach Attack, Australia Is Urged to Act Faster Against Antisemitism",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/australia-antisemitism-jewish-attacks-bondi-beach.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-33-08 +0000"
+  },
+  {
+    "headline": "Rabbi, photographer and 10-year-old are among the Bondi Beach attack victims",
+    "link": "https://www.washingtonpost.com/world/2025/12/15/bondi-beach-shooting-victims-names/",
+    "source": "wapo",
+    "pubdate": "2025-12-15-15-32-52 +0000"
+  },
+  {
+    "headline": "Australian Leaders Promise to Tighten Gun Laws After Bondi Beach Attack",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/australia-gun-laws-bondi-shooting-attack.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-15-27-22 +0000"
+  },
+  {
+    "headline": "FBI stops planned New Year’s Eve Los Angeles terror attack by pro-Palestinian cell",
+    "link": "https://nypost.com/2025/12/15/us-news/fbi-stops-planned-new-years-eve-los-angeles-terror-attack-by-pro-palestinian-cell/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-15-27-09 +0000"
+  },
+  {
+    "headline": "FBI stops planned New Year’s Eve Los Angeles terror attack by pro-Palestinian cell",
+    "link": "https://nypost.com/2025/12/15/us-news/fbi-stops-planned-new-years-eve-los-angeles-terror-attack-by-pro-palestinian-cell/",
+    "source": "nypost",
+    "pubdate": "2025-12-15-15-27-09 +0000"
+  },
+  {
+    "headline": "Gunman identified in Stewartville High School shooting case",
+    "link": "https://www.startribune.com/gunman-identified-in-stewartville-high-school-shooting-case/601546330",
+    "source": "startribune",
+    "pubdate": "2025-12-15-15-23-17 +0000"
+  },
+  {
+    "headline": "Person of Interest in Brown University Shooting Released as Manhunt Continues",
+    "link": "https://www.wsj.com/us-news/police-to-release-person-of-interest-in-brown-university-shooting-0b626d50",
+    "source": "wsj",
+    "pubdate": "2025-12-15-15-12-00 +0000"
+  },
+  {
+    "headline": "Brown shooting victim was pursuing dream of becoming brain surgeon",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2025-12-15-15-09-20 +0000"
+  },
+  {
+    "headline": "Dollar Could Fall Modestly in 2026 as Fed Cuts Rates",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-major-u-s-data-0debf32d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-15-15-00-00 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Tread Water",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-tread-water-b6b72ce3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-15-14-56-00 +0000"
+  },
+  {
+    "headline": "Gunshots at Brown University, Then 12 Hours of Lockdown and Fear",
+    "link": "https://www.nytimes.com/2025/12/14/us/gunshots-lockdown-brown-university.html",
+    "source": "nyt",
+    "pubdate": "2025-12-15-14-55-52 +0000"
   },
   {
     "headline": "Louvre Closes as Workers Protest Crumbling Infrastructure",
@@ -12,22 +468,22 @@
     "pubdate": "2025-12-15-14-52-00 +0000"
   },
   {
-    "headline": "Rob Reiner’s son Nick in custody after horrifying murder of ‘Princess Bride’ director and wife",
+    "headline": "Rob Reiner’s son Nick charged with murder, held on $4M bail in slaughter of ‘Princess Bride’ director and wife Michele",
     "link": "https://nypost.com/2025/12/15/us-news/rob-reiners-son-nick-in-custody-after-horrifying-murder-of-princess-bride-director-and-wife/",
     "source": "nypost",
     "pubdate": "2025-12-15-14-50-44 +0000"
-  },
-  {
-    "headline": "Live updates: 15 killed in Bondi Beach shooting by father and son, Australian officials allege",
-    "link": "https://www.washingtonpost.com/world/2025/12/14/bondi-beach-shooting-australia/",
-    "source": "wapo",
-    "pubdate": "2025-12-15-14-49-23 +0000"
   },
   {
     "headline": "Anger, grief and a search for answers in wake of Australian shooting",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2025-12-15-14-49-23 +0000"
+  },
+  {
+    "headline": "What we know about Ahmed al-Ahmed, the bystander hailed as a hero for disarming Bondi gunman",
+    "link": "https://www.cbc.ca/news/world/bondi-mass-shooting-hannukah-gunmen-hero-9.7015882?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-15-14-48-37 +0000"
   },
   {
     "headline": "Man Tackled and Disarmed One of the Bondi Beach Gunmen, Video Shows",
@@ -46,12 +502,6 @@
     "link": "https://www.wsj.com/economy/central-banking/gold-edges-higher-amid-some-tailwinds-11dbb82c",
     "source": "wsj",
     "pubdate": "2025-12-15-14-46-00 +0000"
-  },
-  {
-    "headline": "What to Know About the Victims of the Bondi Beach Shooting",
-    "link": "https://www.nytimes.com/2025/12/14/world/australia/australia-shooting-hanukkah-victims-bondi-beach.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-45-45 +0000"
   },
   {
     "headline": "To China, Jimmy Lai Was an Arch Villain. To His Supporters, He Was Their Hope.",
@@ -75,13 +525,7 @@
     "headline": "‘Titaníque,’ Singing and Spoofing Celine Dion, Sets Sail for Broadway",
     "link": "https://www.nytimes.com/2025/12/15/theater/titanique-broadway.html",
     "source": "nyt",
-    "pubdate": "2025-12-15-14-45-04 +0000"
-  },
-  {
-    "headline": "Two Bodies Found at Home Owned by Director Rob Reiner",
-    "link": "https://www.nytimes.com/live/2025/12/15/us/rob-michele-reiner-dead/rob-reiner-home-bodies",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-42-41 +0000"
+    "pubdate": "2025-12-15-14-45-05 +0000"
   },
   {
     "headline": "Oil Futures Focused on Russia-Ukraine, Oversupply",
@@ -120,40 +564,10 @@
     "pubdate": "2025-12-15-14-39-00 +0000"
   },
   {
-    "headline": "Brown shooting victim was pursuing dream of becoming brain surgeon",
-    "link": "https://www.washingtonpost.com/nation/2025/12/15/brown-university-shooting-victims/",
-    "source": "wapo",
-    "pubdate": "2025-12-15-14-36-47 +0000"
-  },
-  {
-    "headline": "Hollywood Stars Pay Tribute to Rob Reiner",
-    "link": "https://www.nytimes.com/2025/12/15/us/rob-reiner-tributes-hollywood-response.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-31-53 +0000"
-  },
-  {
-    "headline": "Family member questioned after Rob Reiner and his wife found dead in Los Angeles, AP source says",
-    "link": "https://www.startribune.com/family-member-questioned-after-rob-reiner-and-his-wife-found-dead-in-los-angeles-ap-source-says/601546322",
-    "source": "startribune",
-    "pubdate": "2025-12-15-14-31-01 +0000"
-  },
-  {
     "headline": "Mayor: Person of interest ‘needed to be released’ based on evidence",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2025-12-15-14-30-50 +0000"
-  },
-  {
-    "headline": "Live updates: Authorities seek Brown University gunman as they release person of interest",
-    "link": "https://www.washingtonpost.com/nation/2025/12/15/brown-university-shooting-suspect-manhunt/",
-    "source": "wapo",
-    "pubdate": "2025-12-15-14-30-50 +0000"
-  },
-  {
-    "headline": "UK chief rabbi says cousin hid for 15 'terrifying' minutes in Bondi attack",
-    "link": "https://www.bbc.com/news/articles/cr7l35jgr0eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-14-30-16 +0000"
   },
   {
     "headline": "How the Bondi Beach Shooting Unfolded",
@@ -186,46 +600,10 @@
     "pubdate": "2025-12-15-14-26-03 +0000"
   },
   {
-    "headline": "Ahmed el Ahmed, Who Tackled One of the Bondi Beach Gunmen, Is Recovering in a Hospital",
-    "link": "https://www.nytimes.com/2025/12/15/world/australia/ahmed-bondi-shooting-hero-tackled-shooter-injured.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-25-13 +0000"
-  },
-  {
-    "headline": "What We Know About Rob Reiner and His Death",
-    "link": "https://www.nytimes.com/2025/12/15/us/rob-reiner-michele-death-investigation.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-20-36 +0000"
-  },
-  {
-    "headline": "What We Know About Rob Reiner and His Death",
-    "link": "https://www.nytimes.com/2025/12/15/us/rob-reiner-michele-death-investigation.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-20-36 +0000"
-  },
-  {
     "headline": "Airbnb fined £56m by Spain for advertising unlicensed properties",
     "link": "https://www.bbc.com/news/articles/cgke2x6vz66o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-15-14-19-27 +0000"
-  },
-  {
-    "headline": "Michele Singer Reiner: A Photographer Who Changed Movie History",
-    "link": "https://www.nytimes.com/2025/12/15/us/michele-singer-reiner-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-17-11 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/12/15/world/bondi-beach-shooting-australia/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-12-15-14-07-34 +0000"
-  },
-  {
-    "headline": "Canada Inflation Steadies at 2.2% in November",
-    "link": "https://www.wsj.com/economy/central-banking/canada-inflation-steadies-at-2-2-in-november-da89ffa8",
-    "source": "wsj",
-    "pubdate": "2025-12-15-14-06-00 +0000"
   },
   {
     "headline": "Late night at La Oaxaquena",
@@ -306,16 +684,10 @@
     "pubdate": "2025-12-15-13-38-35 +0000"
   },
   {
-    "headline": "Rob Reiner and wife Michele found dead, officials say",
-    "link": "https://www.washingtonpost.com/entertainment/movies/2025/12/14/reiner-singer/",
-    "source": "wapo",
-    "pubdate": "2025-12-15-13-36-37 +0000"
-  },
-  {
     "headline": "Officials Renew Search for Brown University Shooter After Releasing Person of Interest",
     "link": "https://www.nytimes.com/2025/12/15/us/brown-university-shooting-suspect.html",
     "source": "nyt",
-    "pubdate": "2025-12-15-13-33-34 +0000"
+    "pubdate": "2025-12-15-13-33-35 +0000"
   },
   {
     "headline": "She was shot at 15 in a school shooting. Brown was another close call.",
@@ -352,36 +724,6 @@
     "link": "https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-15-13-20-54 +0000"
-  },
-  {
-    "headline": "Manhunt resumes for Brown University gunman after 'person of interest' released",
-    "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-13-13-20 +0000"
-  },
-  {
-    "headline": "Manhunt resumes for Brown University gunman after 'person of interest' released",
-    "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-13-13-20 +0000"
-  },
-  {
-    "headline": "What we know so far about the Brown University shooting",
-    "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-13-08-17 +0000"
-  },
-  {
-    "headline": "What we know so far about the Brown University shooting",
-    "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-13-08-17 +0000"
-  },
-  {
-    "headline": "No toolkit to deal with Covid economic crisis, says Sunak",
-    "link": "https://www.bbc.com/news/articles/c709n49lx9yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-13-07-43 +0000"
   },
   {
     "headline": "Your all-week, all-access pass awaits — don’t miss out",
@@ -472,12 +814,6 @@
     "link": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-15-12-30-19 +0000"
-  },
-  {
-    "headline": "Euro Could Gain if ECB Fails to Dampen Rate-Rise Speculation",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-major-u-s-data-0debf32d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-15-12-27-00 +0000"
   },
   {
     "headline": "Dozens killed in Morocco flash floods",
@@ -630,18 +966,6 @@
     "pubdate": "2025-12-15-11-28-05 +0000"
   },
   {
-    "headline": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
-    "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-11-23-44 +0000"
-  },
-  {
-    "headline": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
-    "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-15-11-23-44 +0000"
-  },
-  {
     "headline": "Questions About Larry Ellison’s Financing Pledge for Paramount’s Bid for Warner Bros.",
     "link": "https://www.nytimes.com/2025/12/12/business/dealbook/ellison-paramount-oracle-warner-bros-financing.html",
     "source": "nyt",
@@ -732,14 +1056,14 @@
     "pubdate": "2025-12-15-11-00-00 +0000"
   },
   {
-    "headline": "Why Facebook is a cesspool of scam ads — and it’s making billions off its phony ‘tax’ on fraudsters",
-    "link": "https://nypost.com/2025/12/15/business/facebook-most-cited-in-online-complaints-for-hosting-scam-ads-that-cost-users-billions-watchdog/",
+    "headline": "Quant’s sophisticated chatbots are improving cancer care and transforming customer service",
+    "link": "https://nypost.com/2025/12/15/business/agentic-ai-is-transforming-customer-service-from-memorial-sloan-kettering-to-saudia-airlines/",
     "source": "nypost",
     "pubdate": "2025-12-15-11-00-00 +0000"
   },
   {
-    "headline": "Quant’s sophisticated chatbots are improving cancer care and transforming customer service",
-    "link": "https://nypost.com/2025/12/15/business/agentic-ai-is-transforming-customer-service-from-memorial-sloan-kettering-to-saudia-airlines/",
+    "headline": "Why Facebook is a cesspool of scam ads — and it’s making billions off its phony ‘tax’ on fraudsters",
+    "link": "https://nypost.com/2025/12/15/business/facebook-most-cited-in-online-complaints-for-hosting-scam-ads-that-cost-users-billions-watchdog/",
     "source": "nypost",
     "pubdate": "2025-12-15-11-00-00 +0000"
   },
@@ -760,12 +1084,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2025-12-15-10-55-31 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2025/12/15/us/brown-shooting/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2025-12-15-10-50-53 +0000"
   },
   {
     "headline": "Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control",
@@ -790,12 +1108,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2025-12-15-10-36-52 +0000"
-  },
-  {
-    "headline": "Jared Kushner’s Plan to Build a Trump Hotel in Serbia Is Running Into Resistance",
-    "link": "https://www.wsj.com/world/trump-hotel-russia-serbia-jared-kushner-9a7189f5",
-    "source": "wsj",
-    "pubdate": "2025-12-15-10-30-00 +0000"
   },
   {
     "headline": "Father and Son Used Licensed Firearms in Sydney Terror Attack, Police Say",
@@ -981,13 +1293,13 @@
     "headline": "How the Bondi Beach Community Rushed to Help Shooting Victims",
     "link": "https://www.nytimes.com/2025/12/15/world/asia/bondi-community-hanukkah-attack.html",
     "source": "nyt",
-    "pubdate": "2025-12-15-09-24-48 +0000"
+    "pubdate": "2025-12-15-09-24-49 +0000"
   },
   {
     "headline": "How the Bondi Beach Community Rushed to Help Shooting Victims",
     "link": "https://www.nytimes.com/2025/12/15/world/asia/bondi-community-hanukkah-attack.html",
     "source": "nyt",
-    "pubdate": "2025-12-15-09-24-48 +0000"
+    "pubdate": "2025-12-15-09-24-49 +0000"
   },
   {
     "headline": "‘Lots of steps’ remain in investigation, governor says",
@@ -1012,12 +1324,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2025-12-15-09-05-37 +0000"
-  },
-  {
-    "headline": "Some Australian Jews Accuse the Government of Failing to Heed Warnings",
-    "link": "https://www.nytimes.com/2025/12/15/world/australia/bondi-jewish-australia-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-09-00-18 +0000"
   },
   {
     "headline": "Liberal, NDP MPs to visit West Bank, connect with Palestinians",
@@ -1050,16 +1356,10 @@
     "pubdate": "2025-12-15-08-54-40 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Inches Up; Gold and Silver Prices Rally",
+    "headline": "Stock Market Today: Nasdaq Slips; Gold and Silver Prices Rally",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-15-2025?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-15-08-33-59 +0000"
-  },
-  {
-    "headline": "What We Know About the Bondi Beach Shooting in Australia",
-    "link": "https://www.nytimes.com/2025/12/14/world/australia/what-we-know-bondi-shooting.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-08-22-30 +0000"
   },
   {
     "headline": "Democratic leaders mourn Reiner, a champion of liberal causes.",
@@ -1078,12 +1378,6 @@
     "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-15-07-47-31 +0000"
-  },
-  {
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2025/12/14/us/brown-shooting/brown-university-shooting",
-    "source": "nyt",
-    "pubdate": "2025-12-15-07-40-11 +0000"
   },
   {
     "headline": "Danske Bank Completes U.S. Justice Department Probation Period",
@@ -1218,12 +1512,6 @@
     "pubdate": "2025-12-15-05-17-31 +0000"
   },
   {
-    "headline": "Police to Release Person of Interest in Brown University Shooting",
-    "link": "https://www.wsj.com/us-news/police-to-release-person-of-interest-in-brown-university-shooting-0b626d50",
-    "source": "wsj",
-    "pubdate": "2025-12-15-05-17-00 +0000"
-  },
-  {
     "headline": "Gal Gadot ‘shattered’ as stars condemn deadly Bondi Beach terror attack at Hanukkah celebration",
     "link": "https://nypost.com/2025/12/15/world-news/gal-gadot-ashton-kutcher-condemn-antisemitic-terror-attack-at-bondi-beach-hanukkah-event/",
     "source": "nypost",
@@ -1264,12 +1552,6 @@
     "link": "https://www.washingtonpost.com/world/2025/12/15/trump-european-union-attack-expansion/",
     "source": "wapo",
     "pubdate": "2025-12-15-05-00-04 +0000"
-  },
-  {
-    "headline": "Gunshots at Brown University, Then 12 Hours of Lockdown and Fear",
-    "link": "https://www.nytimes.com/2025/12/14/us/gunshots-lockdown-brown-university.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-04-54-21 +0000"
   },
   {
     "headline": "Person of interest in Brown University shooting released as investigation ‘now points in different direction’",
@@ -1434,7 +1716,7 @@
     "pubdate": "2025-12-15-02-54-03 +0000"
   },
   {
-    "headline": "New details emerge in slaying of Rob Reiner, wife as police interview family member",
+    "headline": "Rob Reiner's son arrested on suspicion of homicide, records show",
     "link": "https://www.latimes.com/california/story/2025-12-14/2-found-dead-at-home-of-rob-reiner",
     "source": "latimes",
     "pubdate": "2025-12-15-02-48-01 +0000"
@@ -1528,12 +1810,6 @@
     "link": "https://48hills.org/2025/12/under-lurie-affordability-is-in-free-fall/",
     "source": "48hills",
     "pubdate": "2025-12-15-01-38-48 +0000"
-  },
-  {
-    "headline": "Hospitalized Brown Student Describes Hiding from Shooter",
-    "link": "https://www.nytimes.com/2025/12/14/us/brown-shooting-witness-spencer-yang.html",
-    "source": "nyt",
-    "pubdate": "2025-12-15-01-38-10 +0000"
   },
   {
     "headline": "Australia’s ASX Compromised by Shareholder Focus, Regulator Says",
@@ -1740,30 +2016,12 @@
     "pubdate": "2025-12-14-23-23-25 +0000"
   },
   {
-    "headline": "DoorDash driver caught spraying substance on food bizarrely claims she was aiming at spider",
-    "link": "https://nypost.com/2025/12/14/us-news/doordash-driver-caught-spraying-substance-on-food-bizarrely-claims-she-was-aiming-at-spider/",
-    "source": "nypost",
-    "pubdate": "2025-12-14-23-15-17 +0000"
-  },
-  {
-    "headline": "Community rallies around legendary Broadway dancer, 95, who faces losing NYC home",
-    "link": "https://nypost.com/2025/12/14/us-news/community-rallies-around-legendary-broadway-dancer-nat-horne-who-faces-losing-nyc-home/",
-    "source": "nypost",
-    "pubdate": "2025-12-14-23-12-47 +0000"
-  },
-  {
     "headline": "Arthur L. Carter, 93, Dies; Investment Banker Founded a Cheeky Newspaper",
     "link": "https://www.nytimes.com/2025/12/12/business/media/arthur-carter-dead.html",
     "source": "nyt",
     "pubdate": "2025-12-14-23-00-58 +0000"
   },
   {
-    "headline": "NYC Mayor Adams blames Bondi Beach terror attack on ‘globalization of intifada’",
-    "link": "https://nypost.com/2025/12/14/us-news/nyc-mayor-adams-blames-bondi-beach-terror-attack-on-globalization-of-intifada/",
-    "source": "nypost",
-    "pubdate": "2025-12-14-22-52-04 +0000"
-  },
-  {
     "headline": "Inside the Clintons’ Fight to Avoid Testifying in the House Epstein Inquiry",
     "link": "https://www.nytimes.com/2025/12/14/us/politics/clintons-epstein-inquiry.html",
     "source": "nyt",
@@ -1774,12 +2032,6 @@
     "link": "https://www.nytimes.com/2025/12/14/us/politics/clintons-epstein-inquiry.html",
     "source": "nyt",
     "pubdate": "2025-12-14-22-43-57 +0000"
-  },
-  {
-    "headline": "NYC blanketed in snow as kids, dogs and dancers delight",
-    "link": "https://nypost.com/2025/12/14/us-news/nyc-blanketed-in-snow-as-kids-dogs-and-dancers-delight/",
-    "source": "nypost",
-    "pubdate": "2025-12-14-22-42-01 +0000"
   },
   {
     "headline": "Hundreds gathered on Bondi Beach for Hanukkah. Then gunmen opened fire.",
@@ -1890,12 +2142,6 @@
     "pubdate": "2025-12-14-22-12-00 +0000"
   },
   {
-    "headline": "Grieving Iowa police chief reveals son was one of 3 US soldiers killed in Syria: ‘Cruel world’",
-    "link": "https://nypost.com/2025/12/14/us-news/nate-howard-identified-as-one-of-us-soldiers-killed-in-syria/",
-    "source": "nypost",
-    "pubdate": "2025-12-14-22-10-18 +0000"
-  },
-  {
     "headline": "Australian law enforcement officials launched “Operation Shelter” in response to Sunday’s deadly shooting, surging police resources...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -1939,12 +2185,6 @@
   },
   {
     "headline": "Opinion | A Merger Could Bring Better Streaming",
-    "link": "https://www.wsj.com/opinion/a-merger-could-bring-better-streaming-8ab41961",
-    "source": "wsj",
-    "pubdate": "2025-12-14-21-56-00 +0000"
-  },
-  {
-    "headline": "Opinion | A Merger Could Bring Better Streaming",
     "link": "https://www.wsj.com/opinion/a-merger-could-bring-better-streaming-8ab41961?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-14-21-56-00 +0000"
@@ -1960,24 +2200,6 @@
     "link": "https://www.wsj.com/opinion/germany-gets-its-borders-under-control-3fe887d2",
     "source": "wsj",
     "pubdate": "2025-12-14-21-53-00 +0000"
-  },
-  {
-    "headline": "Three Americans killed by IS gunman in Syria, US military says",
-    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-14-21-49-43 +0000"
-  },
-  {
-    "headline": "Three Americans killed by IS gunman in Syria, US military says",
-    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-14-21-49-43 +0000"
-  },
-  {
-    "headline": "Three Americans killed by IS gunman in Syria, US military says",
-    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-14-21-49-43 +0000"
   },
   {
     "headline": "Australian Prime Minister Anthony Albanese told reporters Monday that the country would use Sunday’s shooting as...",
@@ -2310,18 +2532,6 @@
     "pubdate": "2025-12-14-19-06-22 +0000"
   },
   {
-    "headline": "Deadly Attack on U.S. Troops Poses Growing Challenge for Syria’s Leader",
-    "link": "https://www.nytimes.com/2025/12/14/world/middleeast/syria-us-soldiers-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-12-14-19-00-28 +0000"
-  },
-  {
-    "headline": "Deadly Attack on U.S. Troops Poses Growing Challenge for Syria’s Leader",
-    "link": "https://www.nytimes.com/2025/12/14/world/middleeast/syria-us-soldiers-killed.html",
-    "source": "nyt",
-    "pubdate": "2025-12-14-19-00-28 +0000"
-  },
-  {
     "headline": "Syrian Who Killed U.S. Soldiers Was Security Force Member, Officials Say",
     "link": "https://www.wsj.com/world/middle-east/syrian-who-killed-u-s-soldiers-was-security-force-member-officials-say-6c964c71",
     "source": "wsj",
@@ -2512,101 +2722,5 @@
     "link": "https://www.nytimes.com/2025/12/14/world/europe/germany-far-right-afd-russia-security-secrets.html",
     "source": "nyt",
     "pubdate": "2025-12-14-17-11-41 +0000"
-  },
-  {
-    "headline": "How a Tech-Savvy Officer Finally Cracked the Jan. 6 Pipe-Bombs Case",
-    "link": "https://www.wsj.com/politics/national-security/how-a-tech-savvy-officer-finally-cracked-the-jan-6-pipe-bombs-case-e53428b7",
-    "source": "wsj",
-    "pubdate": "2025-12-14-17-00-00 +0000"
-  },
-  {
-    "headline": "Tonka Trucks Gambled on Keeping Production in China and Survived—Barely",
-    "link": "https://www.wsj.com/economy/trade/tonka-trucks-gambled-on-keeping-production-in-china-and-survivedbarely-d8399764?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-14-17-00-00 +0000"
-  },
-  {
-    "headline": "Tonka Trucks Gambled on Keeping Production in China and Survived—Barely",
-    "link": "https://www.wsj.com/economy/trade/tonka-trucks-gambled-on-keeping-production-in-china-and-survivedbarely-d8399764?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-14-17-00-00 +0000"
-  },
-  {
-    "headline": "For decades, Tonka trucks have been a family staple and holiday stalwart. But they almost didn’t make it this year because of high tariffs.",
-    "link": "https://www.wsj.com/economy/trade/tonka-trucks-gambled-on-keeping-production-in-china-and-survivedbarely-d8399764",
-    "source": "wsj",
-    "pubdate": "2025-12-14-17-00-00 +0000"
-  },
-  {
-    "headline": "A tech-savvy law-enforcement officer wrote a new computer program that finally deciphered critical information in the Jan. 6 pipe-bombs case",
-    "link": "https://www.wsj.com/politics/national-security/how-a-tech-savvy-officer-finally-cracked-the-jan-6-pipe-bombs-case-e53428b7",
-    "source": "wsj",
-    "pubdate": "2025-12-14-17-00-00 +0000"
-  },
-  {
-    "headline": "Andrea Capotosto, a staff member for the School of Public Health, held a large stuffed bear...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-52-42 +0000"
-  },
-  {
-    "headline": "Witness describes terror inside Brown University classroom after gunman entered",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-49-56 +0000"
-  },
-  {
-    "headline": "Sen. Murphy: Chances of gun control are slim under Trump",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-49-55 +0000"
-  },
-  {
-    "headline": "World leaders condemn ‘horrific’ attack on Hanukkah celebration in Australia",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-47-56 +0000"
-  },
-  {
-    "headline": "Brown shooting marks latest tragedy in college campus killings",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-40-24 +0000"
-  },
-  {
-    "headline": "Famed Australian rabbi Eli Schlanger, who just welcomed newborn son, among 15 killed in Bondi Beach terror attack",
-    "link": "https://nypost.com/2025/12/14/world-news/famed-australian-rabbi-eli-schlanger-who-just-welcomed-newborn-son-among-11-killed-in-bondi-beach-terror-attack/",
-    "source": "nypost",
-    "pubdate": "2025-12-14-16-36-41 +0000"
-  },
-  {
-    "headline": "Brown student describes running and hiding overnight after shooting",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-32-16 +0000"
-  },
-  {
-    "headline": "Netanyahu says Australia did not do enough to curb antisemitism",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-29-36 +0000"
-  },
-  {
-    "headline": "The War on ‘Wokeness’ Comes to the U.S. Mint",
-    "link": "https://www.nytimes.com/2025/12/14/us/coins-us-250th-anniversary.html",
-    "source": "nyt",
-    "pubdate": "2025-12-14-16-24-28 +0000"
-  },
-  {
-    "headline": "Sen. Warnock laments ‘spiritual heaviness’ in the country after Brown shooting",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-24-19 +0000"
-  },
-  {
-    "headline": "Video: Students hid under lab desk during shooting, witness says",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2025-12-14-16-07-57 +0000"
   }
 ]
