@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 28,
+    "pubdate": "2025-12-16-16-49-24 +0000",
+    "source": "nyt",
+    "headline": "Europe May Roll Back Combustion Engine Ban",
+    "link": "https://www.nytimes.com/2025/12/16/business/economy/europe-auto-emissions-ban.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-12-16-16-26-18 +0000",
+    "source": "bbc",
+    "headline": "Downing Street insists negotiations over US-UK tech deal still live",
+    "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 25,
+    "pubdate": "2025-12-16-16-36-32 +0000",
+    "source": "nypost",
+    "headline": "Bondi Beach hero Ahmed el Ahmed speaks out from his hospital bed — despite being ‘riddled with bullets’",
+    "link": "https://nypost.com/2025/12/16/world-news/bondi-beach-hero-ahmed-el-ahmed-speaks-out-from-hospital-bed/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-12-16-16-04-54 +0000",
+    "source": "bbc",
+    "headline": "Eight killed in latest strikes on alleged drug boats, US military says",
+    "link": "https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-12-16-16-01-38 +0000",
+    "source": "nypost",
+    "headline": "Marco Rubio rules out 2028 run if JD Vance seeks Republican nomination",
+    "link": "https://nypost.com/2025/12/16/us-news/marco-rubio-rules-out-2028-run-if-jd-vance-seeks-republican-nomination/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-12-16-16-22-31 +0000",
+    "source": "nyt",
+    "headline": "Pelosi Long Resisted Stock-Trading Ban for Congress, Fueling Suspicion",
+    "link": "https://www.nytimes.com/2025/12/15/us/politics/pelosi-stock-trading-ban.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-16-16-56-33 +0000",
+    "source": "nyt",
+    "headline": "Susie Wiles Acknowledges Trump’s ‘Score Settling’ Behind Prosecutions",
+    "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-susie-wiles.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2025-12-16-16-47-36 +0000",
+    "source": "nyt",
+    "headline": "Zelensky Expresses Wary Optimism About Russia-Ukraine Peace Plan",
+    "link": "https://www.nytimes.com/2025/12/16/world/europe/zelensky-ukraine-peace-talks.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-16-16-40-55 +0000",
+    "source": "nyt",
+    "headline": "Australia Doubles Down on Gun Control in Wake of Bondi Beach Shooting",
+    "link": "https://www.nytimes.com/2025/12/16/world/australia/australia-gun-control-bondi-shooting.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-16-16-18-00 +0000",
+    "source": "wsj",
+    "headline": "DAZN in Advanced Talks for Stake in Broadcaster Main Street Sports",
+    "link": "https://www.wsj.com/business/media/dazn-in-advanced-talks-for-stake-in-broadcaster-main-street-sports-ff9afcfa?mod=rss_markets_main"
+  }
+]
