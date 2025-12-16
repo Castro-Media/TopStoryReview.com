@@ -1,38 +1,45 @@
 [
   {
-    "score": 233,
+    "score": 228,
     "pubdate": "2025-12-15-21-15-00 +0000",
     "source": "wsj",
     "headline": "Democrats and some Republicans say President Trump has gone too far in a social-media post about Rob Reiner, who was found dead alongside his wife on Sunday",
     "link": "https://www.wsj.com/politics/policy/trump-rob-reiner-death-comments-4ab536d1"
   },
   {
-    "score": 212,
+    "score": 200,
     "pubdate": "2025-12-15-17-48-41 +0000",
     "source": "nypost",
     "headline": "Bondi Beach father-son terror suspects traveled to Third World ISIS hotspot before Hanukkah terror attack: report",
     "link": "https://nypost.com/2025/12/15/world-news/bondi-beach-father-son-terror-suspects-traveled-to-third-world-isis-hotspot-before-hanukkah-terror-attack-report/"
   },
   {
-    "score": 154,
-    "pubdate": "2025-12-15-02-28-00 +0000",
-    "source": "wsj",
-    "headline": "Police Detain Person of Interest in Brown University Shooting While Campus Mourns",
-    "link": "https://www.wsj.com/us-news/police-detain-person-of-interest-in-deadly-brown-university-shooting-010e99c8"
+    "score": 140,
+    "pubdate": "2025-12-16-00-03-29 +0000",
+    "source": "wapo",
+    "headline": "Brown University shooting: Police release photos, offer $50K reward in search for gunman",
+    "link": "https://www.washingtonpost.com/nation/2025/12/15/brown-university-shooting-suspect-manhunt/"
   },
   {
-    "score": 103,
+    "score": 99,
     "pubdate": "2025-12-15-12-02-50 +0000",
     "source": "bbc",
     "headline": "Pro-democracy Hong Kong tycoon Jimmy Lai convicted in high-profile national security trial",
     "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 90,
+    "score": 83,
     "pubdate": "2025-12-15-15-27-09 +0000",
     "source": "nypost",
     "headline": "FBI stops planned New Year’s Eve Los Angeles bombing by ‘anti-capitalist,’ anti-ICE terror cell",
     "link": "https://nypost.com/2025/12/15/us-news/fbi-stops-planned-new-years-eve-los-angeles-terror-attack-by-pro-palestinian-cell/"
+  },
+  {
+    "score": 70,
+    "pubdate": "2025-12-15-20-13-27 +0000",
+    "source": "nypost",
+    "headline": "US close to strongest ever Ukraine security guarantees in Russia peace deal that won’t ‘be on the table forever’: officials",
+    "link": "https://nypost.com/2025/12/15/world-news/us-close-to-strongest-ever-ukraine-security-guarantees-in-russia-peace-deal-that-wont-be-on-the-table-forever-officials/"
   },
   {
     "score": 69,
@@ -43,30 +50,23 @@
   },
   {
     "score": 60,
-    "pubdate": "2025-12-15-20-13-27 +0000",
-    "source": "nypost",
-    "headline": "US close to strongest ever Ukraine security guarantees in Russia peace deal that won’t ‘be on the table forever’: officials",
-    "link": "https://nypost.com/2025/12/15/world-news/us-close-to-strongest-ever-ukraine-security-guarantees-in-russia-peace-deal-that-wont-be-on-the-table-forever-officials/"
-  },
-  {
-    "score": 60,
     "pubdate": "2025-12-15-10-30-00 +0000",
     "source": "wsj",
     "headline": "For months, a crucial question has been hanging over the economy: What is really going on in the labor market? On Tuesday, the country will finally start to get some answers.",
     "link": "https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-1d631026"
   },
   {
-    "score": 54,
-    "pubdate": "2025-12-15-05-17-31 +0000",
+    "score": 56,
+    "pubdate": "2025-12-15-19-47-21 +0000",
     "source": "wapo",
-    "headline": "Authorities have no way of knowing if the gunman has left the state, Providence Mayor Brett...",
+    "headline": "Providence police released a 19-second video showing a “person of interest” walking along a sidewalk.",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 52,
-    "pubdate": "2025-12-15-20-55-31 +0000",
-    "source": "nypost",
-    "headline": "Holocaust survivors and children among the 15 killed after crazed gunmen fire on Sydney Hanukkah celebration",
-    "link": "https://nypost.com/world-news/bondi-beach-shooting-victims/"
+    "score": 50,
+    "pubdate": "2025-12-15-23-34-03 +0000",
+    "source": "bbc",
+    "headline": "'Mate, get away from here, something bad's happened': How BBC reporter's day at the beach turned to fear",
+    "link": "https://www.bbc.com/news/articles/cm2v10jn378o?at_medium=RSS&at_campaign=rss"
   }
 ]
