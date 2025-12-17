@@ -1,17 +1,24 @@
 [
   {
-    "score": 223,
+    "score": 209,
     "pubdate": "2025-12-17-01-32-56 +0000",
     "source": "nypost",
     "headline": "Trump orders blockade of oil tankers from ‘foreign terrorist organization’ Venezuela, demands regime cede oil and land",
     "link": "https://nypost.com/2025/12/16/us-news/trump-orders-blockade-of-oil-tankers-from-venezuela-demands-regime-cede-oil-land-and-other-assets/"
   },
   {
-    "score": 143,
+    "score": 141,
     "pubdate": "2025-12-16-13-33-47 +0000",
     "source": "nypost",
     "headline": "White House chief of staff Susie Wiles: AG Pam Bondi ‘completely whiffed’ on Epstein files, JD Vance has been ‘conspiracy theorist for a decade’",
     "link": "https://nypost.com/2025/12/16/us-news/ag-pam-bondi-completely-whiffed-handling-of-epstein-files-susie-wiles/"
+  },
+  {
+    "score": 105,
+    "pubdate": "2025-12-17-01-45-44 +0000",
+    "source": "bbc",
+    "headline": "What we know about Nick Reiner, son charged in death of director Rob Reiner",
+    "link": "https://www.bbc.com/news/articles/cvgj14l3v8vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 100,
@@ -21,52 +28,45 @@
     "link": "https://nypost.com/2025/12/16/world-news/australia-opposition-party-launches-new-antisemitism-taskforce-after-warnings-were-not-heeded-in-wake-of-bondi-beach-shooting/"
   },
   {
-    "score": 95,
-    "pubdate": "2025-12-17-01-45-44 +0000",
-    "source": "bbc",
-    "headline": "What we know about Nick Reiner, son charged in death of director Rob Reiner",
-    "link": "https://www.bbc.com/news/articles/cvgj14l3v8vo?at_medium=RSS&at_campaign=rss"
+    "score": 97,
+    "pubdate": "2025-12-17-12-11-13 +0000",
+    "source": "latimes",
+    "headline": "Warner Bros. rejects Paramount's hostile bid, accuses Ellison family of failing to put money into the deal",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-17/warner-bros-accusations-against-paramount-ellison-family-what-to-know"
   },
   {
-    "score": 68,
-    "pubdate": "2025-12-17-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "For Ukraine’s Allies in Europe, a Bad Deal With Russia Is Worse Than No Deal",
-    "link": "https://www.wsj.com/world/europe/for-ukraines-allies-in-europe-a-bad-deal-with-russia-is-worse-than-no-deal-f9b99fde"
-  },
-  {
-    "score": 63,
-    "pubdate": "2025-12-17-00-24-00 +0000",
-    "source": "wsj",
-    "headline": "New Video Shows Suspected Brown Gunman’s Movements Before and After Attack",
-    "link": "https://www.wsj.com/us-news/brown-university-shooting-suspect-photo-release-7e4cbe20"
-  },
-  {
-    "score": 63,
-    "pubdate": "2025-12-16-23-59-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration expanded its travel ban to cover five additional countries, and added partial bans on 15 additional countries",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-expands-travel-ban-to-additional-countries-293a9a48"
-  },
-  {
-    "score": 62,
+    "score": 66,
     "pubdate": "2025-12-17-02-00-00 +0000",
     "source": "wsj",
     "headline": "Tuesday’s jobs report was the latest ominous sign in an era of big corporate layoff announcements and CEOs warning that AI will replace workers",
     "link": "https://www.wsj.com/economy/jobs/white-collar-workers-job-anxiety-d8f83885"
   },
   {
-    "score": 50,
-    "pubdate": "2025-12-17-09-19-00 +0000",
+    "score": 64,
+    "pubdate": "2025-12-17-00-24-00 +0000",
     "source": "wsj",
-    "headline": "Euro Could Fall if ECB Pushes Back Against Prospect of Rate Rise",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-rate-cut-prospects-may-support-1d033590?mod=rss_markets_main"
+    "headline": "New Video Shows Suspected Brown Gunman’s Movements Before and After Attack",
+    "link": "https://www.wsj.com/us-news/brown-university-shooting-suspect-photo-release-7e4cbe20"
   },
   {
-    "score": 49,
+    "score": 62,
+    "pubdate": "2025-12-16-23-59-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration expanded its travel ban to cover five additional countries, and added partial bans on 15 additional countries",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-expands-travel-ban-to-additional-countries-293a9a48"
+  },
+  {
+    "score": 51,
     "pubdate": "2025-12-17-01-00-00 +0000",
     "source": "wsj",
     "headline": "Chevron stands as one of the last big shippers of Venezuelan oil after the U.S. seized a sanctioned tanker last week allegedly carrying the country’s crude to the black market",
     "link": "https://www.wsj.com/world/americas/venezuela-oil-chevron-0dca243f"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-12-17-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Edison neglected maintenance of its aging transmission lines before the Jan. 7 fires. Now it's trying to catch up",
+    "link": "https://www.latimes.com/environment/story/2025-12-17/edison-neglected-maintenance-of-its-aging-transmission-lines-before-jan-7-fires-now-its-trying-to-catch-up"
   }
 ]
