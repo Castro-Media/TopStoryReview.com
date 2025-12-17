@@ -7,56 +7,42 @@
     "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-susie-wiles.html"
   },
   {
-    "score": 103,
-    "pubdate": "2025-12-16-19-45-44 +0000",
-    "source": "bbc",
-    "headline": "Police release new image as hunt continues for gunman in Brown University shooting",
-    "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss"
+    "score": 104,
+    "pubdate": "2025-12-16-21-05-32 +0000",
+    "source": "nypost",
+    "headline": "Australia opposition party launches new antisemitism task force in wake of Bondi Beach shooting after ‘warnings were not heeded’",
+    "link": "https://nypost.com/2025/12/16/world-news/australia-opposition-party-launches-new-antisemitism-taskforce-after-warnings-were-not-heeded-in-wake-of-bondi-beach-shooting/"
   },
   {
-    "score": 87,
+    "score": 94,
     "pubdate": "2025-12-16-19-28-46 +0000",
     "source": "bbc",
     "headline": "What we know about Nick Reiner, son arrested in death of director Rob Reiner",
     "link": "https://www.bbc.com/news/articles/cvgj14l3v8vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 73,
-    "pubdate": "2025-12-16-12-21-54 +0000",
-    "source": "nypost",
-    "headline": "Heroic couple died in each other’s arms after trying to disarm Bondi Beach terrorists, devastating video shows",
-    "link": "https://nypost.com/2025/12/16/world-news/heroic-couple-died-in-each-others-arms-after-trying-to-disarm-bondi-beach-terrorists-devastating-video-shows/"
-  },
-  {
-    "score": 69,
-    "pubdate": "2025-12-15-22-00-24 +0000",
+    "score": 72,
+    "pubdate": "2025-12-16-11-07-53 +0000",
     "source": "bbc",
-    "headline": "Epstein's UK flights had alleged British abuse victims on board - BBC investigation",
-    "link": "https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss"
+    "headline": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+    "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 64,
-    "pubdate": "2025-12-15-22-56-57 +0000",
+    "score": 61,
+    "pubdate": "2025-12-16-22-13-03 +0000",
     "source": "nypost",
-    "headline": "Goldman Sachs taps Robert Sobelman — prosecutor on scrapped US corruption case against Eric Adams — to run investigations at bank: sources",
-    "link": "https://nypost.com/2025/12/15/business/goldman-sachs-taps-hotshot-sdny-lawyer-robert-sobelman-to-run-internal-investigations/"
-  },
-  {
-    "score": 58,
-    "pubdate": "2025-12-16-20-47-00 +0000",
-    "source": "wsj",
-    "headline": "Russia-Ukraine Peace Efforts Send Crude to Near 5-Year Low",
-    "link": "https://www.wsj.com/business/oil-falls-amid-prospects-of-russia-ukraine-peace-deal-0db8e69c?mod=pls_whats_news_us_business_f"
+    "headline": "Zelensky thinks US would tighten screws on Russia if Moscow rejects Trump’s peace plan",
+    "link": "https://nypost.com/2025/12/16/world-news/us-could-issue-russian-sanctions-send-kyiv-weapons-if-kremlin-rejects-trump-peace-plan-zelensky/"
   },
   {
     "score": 57,
-    "pubdate": "2025-12-15-23-10-15 +0000",
-    "source": "nyt",
-    "headline": "Ford Will Take $19.5 Billion Hit as It Rolls Back E.V. Plans",
-    "link": "https://www.nytimes.com/2025/12/15/business/ford-electric-vehicles-hybrids.html"
+    "pubdate": "2025-12-16-20-03-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon won’t release the full, unedited video of a lethal Sept. 2 strike on alleged drug traffickers, said Defense Secretary Pete Hegseth",
+    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-boat-strike-video-no-release-28feb869"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2025-12-16-20-33-00 +0000",
     "source": "wsj",
     "headline": "In a two-part series published in Vanity Fair, Susie Wiles called Elon Musk an “avowed ketamine [user]” and said Vice President JD Vance has been “a conspiracy theorist for a decade”",
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "Kevin Hassett regains lead over Kevin Warsh on prediction markets in neck-and-neck Fed chairman race",
     "link": "https://nypost.com/2025/12/16/business/hassett-regains-lead-over-warsh-on-prediction-markets-in-neck-and-neck-race-for-fed-chairman/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2025-12-16-21-20-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration expanded its travel ban to cover five additional countries, and added partial bans on 15 additional countries",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-expands-travel-ban-to-additional-countries-293a9a48"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-12-16-13-59-16 +0000",
+    "source": "nyt",
+    "headline": "Venezuela’s Oil Is a Focus of Trump’s Campaign Against Maduro",
+    "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-maduro-venezuela-oil-tanker.html"
   }
 ]
