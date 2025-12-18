@@ -1,72 +1,58 @@
 [
   {
-    "score": 49,
-    "pubdate": "2025-12-18-00-21-00 +0000",
-    "source": "wsj",
-    "headline": "Dan Bongino said that he is stepping down as deputy director at the FBI, after a nine-month tenure in which he clashed with both Justice Department leadership and the bureau’s workforce",
-    "link": "https://www.wsj.com/politics/policy/fbi-deputy-director-dan-bongino-says-he-is-stepping-down-b8d79c62"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-12-18-00-48-01 +0000",
-    "source": "nyt",
-    "headline": "Jack Smith Defends Trump Prosecutions in House Deposition",
-    "link": "https://www.nytimes.com/2025/12/17/us/politics/jack-smith-trump-prosecutions-congress.html"
-  },
-  {
-    "score": 26,
-    "pubdate": "2025-12-18-00-47-33 +0000",
-    "source": "bbc",
-    "headline": "Warner Bros favours Netflix offer over $108bn Paramount bid",
-    "link": "https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 22,
-    "pubdate": "2025-12-18-00-43-14 +0000",
-    "source": "nyt",
-    "headline": "Senate Passes Air Safety Measure, Reversing Provision in Defense Bill",
-    "link": "https://www.nytimes.com/2025/12/17/us/politics/senate-defense-bills-air-safety.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2025-12-18-00-29-10 +0000",
+    "pubdate": "2025-12-18-02-19-32 +0000",
     "source": "nypost",
-    "headline": "Ben Shapiro denounces Tucker Carlson in Heritage Foundation speech: ‘Opponent of conservatism’",
-    "link": "https://nypost.com/2025/12/17/us-news/ben-shapiro-rails-against-tucker-carlson-in-heritage-foundation-speech/"
+    "headline": "Trump announces service members will get $1,776 ‘warrior dividend’ for Christmas",
+    "link": "https://nypost.com/2025/12/17/us-news/trump-announces-service-members-will-get-1776-warrior-dividend-for-christmas/"
   },
   {
-    "score": 18,
-    "pubdate": "2025-12-18-01-11-24 +0000",
-    "source": "nyt",
-    "headline": "For Hegseth, There Is One Boat Strike He Doesn’t Want the Public to See",
-    "link": "https://www.nytimes.com/2025/12/17/us/politics/hegseth-boat-strike-video.html"
+    "score": 13,
+    "pubdate": "2025-12-18-02-18-19 +0000",
+    "source": "wapo",
+    "headline": "Trump opened his remarks claiming he “inherited a mess” and spoke directly about affordability. And then...",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 18,
-    "pubdate": "2025-12-18-00-26-20 +0000",
-    "source": "nyt",
-    "headline": "HHS Cancels Grants to Group That Criticized RFK Jr.’s Vaccine Policies",
-    "link": "https://www.nytimes.com/2025/12/17/us/politics/american-academy-of-pediatrics-hhs-funding-rfk-jr-vaccines.html"
+    "score": 8,
+    "pubdate": "2025-12-18-02-26-04 +0000",
+    "source": "wapo",
+    "headline": "President Donald Trump claimed that he has secured investments of $18 trillion in the United States....",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 17,
-    "pubdate": "2025-12-18-00-28-09 +0000",
+    "score": 8,
+    "pubdate": "2025-12-18-02-19-45 +0000",
+    "source": "wapo",
+    "headline": "Trump’s script is similar to his standard rally stump speech, but he’s speaking much quicker than...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-12-18-02-26-04 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Trump addresses nation amid economic pressure",
+    "link": "https://www.washingtonpost.com/politics/2025/12/17/trump-address-nation-2026-agenda/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2025-12-18-02-24-36 +0000",
+    "source": "wapo",
+    "headline": "Trump said that “for the first time in years, wages are rising much faster than inflation.”",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 4,
+    "pubdate": "2025-12-18-02-21-15 +0000",
+    "source": "wapo",
+    "headline": "Trump criticizes trade deal he negotiated",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-12-18-02-19-32 +0000",
     "source": "nypost",
-    "headline": "Missing Kentucky girl found alive with new identity 42 years later — and she had no idea",
-    "link": "https://nypost.com/2025/12/17/us-news/missing-kentucky-girl-found-alive-with-new-identity-42-years-later-and-she-had-no-idea/"
-  },
-  {
-    "score": 17,
-    "pubdate": "2025-12-18-00-30-30 +0000",
-    "source": "cbc",
-    "headline": "Canada's 2030 climate target far out of reach, according to Environment Canada data",
-    "link": "https://www.cbc.ca/news/politics/emissions-reduction-plan-greenhouse-gas-projections-9.7020385?cmp=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2025-12-18-01-04-06 +0000",
-    "source": "nyt",
-    "headline": "Trump Unveils Presidential ‘Walk of Fame’ With Jabs at Biden and Obama",
-    "link": "https://www.nytimes.com/2025/12/17/us/politics/trump-presidential-walk-of-fame-white-house.html"
+    "headline": "Trump announces service members will get $1,776 ‘warrior dividend’ for Christmas",
+    "link": "https://nypost.com/2025/12/17/us-news/trump-announces-service-members-will-get-1776-warrior-dividend-for-christmas/"
   }
 ]
