@@ -1,51 +1,72 @@
 [
   {
+    "score": 32,
+    "pubdate": "2025-12-19-14-11-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. Navy will commission the first in a series of new warships that will make up President Trump’s envisioned “Golden Fleet”",
+    "link": "https://www.wsj.com/politics/national-security/navy-announces-new-warship-for-trumps-golden-fleet-b8e0e516"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-12-19-14-41-47 +0000",
+    "source": "nyt",
+    "headline": "Europe to Lend $105 Billion to Ukraine, Without Touching Russian Funds",
+    "link": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2025-12-19-14-22-45 +0000",
+    "source": "nyt",
+    "headline": "Gaza City Famine Averted, Global Experts Say, but Palestinians Face Major Difficulties Accessing Food",
+    "link": "https://www.nytimes.com/2025/12/19/world/middleeast/gaza-hunger-report-israel.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-12-19-14-44-18 +0000",
+    "source": "nypost",
+    "headline": "Trump just legalized marijuana nationwide — here’s why potheads are rejoicing",
+    "link": "https://nypost.com/2025/12/19/business/trump-just-legalized-marijuana-nationwide-heres-why-potheads-are-rejoicing/"
+  },
+  {
     "score": 20,
-    "pubdate": "2025-12-19-13-03-15 +0000",
+    "pubdate": "2025-12-19-14-13-59 +0000",
+    "source": "nypost",
+    "headline": "Elise Stefanik demands Hochul reveal how many NYers were victimized by 2020 ‘do not resuscitate’ order",
+    "link": "https://nypost.com/2025/12/19/us-news/elise-stefanik-demands-gov-kathy-hochul-reveal-how-many-new-yorkers-were-victimized-by-2020-do-not-resuscitate-order/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-19-14-47-30 +0000",
     "source": "nyt",
-    "headline": "Global Experts Say Most Palestinians in Gaza Face Major Difficulties Accessing Food",
-    "link": "https://www.nytimes.com/2025/12/19/world/middleeast/gaza-hunger-report-israel.html"
+    "headline": "Portuguese Colleagues Laud Slain MIT Professor but Don’t Recall Suspect in His Shooting",
+    "link": "https://www.nytimes.com/2025/12/19/us/mit-professor-shooting-suspect-portugal-lisbon-physics.html"
   },
   {
-    "score": 16,
-    "pubdate": "2025-12-19-12-59-40 +0000",
+    "score": 12,
+    "pubdate": "2025-12-19-14-48-06 +0000",
     "source": "nyt",
-    "headline": "Australia Debates New Laws to Restrict Hate and Suspend Protests",
-    "link": "https://www.nytimes.com/2025/12/19/world/australia/new-laws-protests-hate-speech.html"
+    "headline": "Europe Funnels Billions to Ukraine but Wobbles Geopolitically",
+    "link": "https://www.nytimes.com/2025/12/19/world/europe/eu-ukraine-russia-frozen-assets.html"
   },
   {
-    "score": 10,
-    "pubdate": "2025-12-19-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Buyer Beware: Star Ratings Actually Steer Us Away From the Best Shopping Deals",
-    "link": "https://www.wsj.com/business/retail/star-ratings-online-shopping-deals-2fef84ab?mod=pls_whats_news_us_business_f"
+    "score": 12,
+    "pubdate": "2025-12-19-14-18-34 +0000",
+    "source": "bbc",
+    "headline": "Uganda prison officer sacked for 'politicking' on TikTok",
+    "link": "https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 7,
-    "pubdate": "2025-12-19-13-02-00 +0000",
-    "source": "wsj",
-    "headline": "Conagra Sales Decline as Consumer Spending Remains Challenged",
-    "link": "https://www.wsj.com/business/earnings/conagra-sales-decline-as-consumer-spending-remains-challenged-2663c898?mod=pls_whats_news_us_business_f"
+    "score": 12,
+    "pubdate": "2025-12-19-14-18-07 +0000",
+    "source": "nypost",
+    "headline": "NASCAR driver Greg Biffle’s emotional last post with wife a week before they died in fiery plane crash",
+    "link": "https://nypost.com/2025/12/19/sports/nascar-driver-greg-biffles-emotional-last-post-with-wife-a-week-before-they-died-in-fiery-plane-crash/"
   },
   {
-    "score": 6,
-    "pubdate": "2025-12-19-12-56-42 +0000",
-    "source": "nyt",
-    "headline": "What Trump’s Push Into Nuclear Means for the Sector (and His Net Worth)",
-    "link": "https://www.nytimes.com/2025/12/19/business/dealbook/trump-nuclear-fusion.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-12-19-13-03-15 +0000",
-    "source": "nyt",
-    "headline": "Global Experts Say Most Palestinians in Gaza Face Major Difficulties Accessing Food",
-    "link": "https://www.nytimes.com/2025/12/19/world/middleeast/gaza-hunger-report-israel.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-12-19-12-59-40 +0000",
-    "source": "nyt",
-    "headline": "Australia Debates New Laws to Restrict Hate and Suspend Protests",
-    "link": "https://www.nytimes.com/2025/12/19/world/australia/new-laws-protests-hate-speech.html"
+    "score": 8,
+    "pubdate": "2025-12-19-14-53-15 +0000",
+    "source": "bbc",
+    "headline": "Young people will feel burden of UK's ageing society, report suggests",
+    "link": "https://www.bbc.com/news/articles/c997l3elxmxo?at_medium=RSS&at_campaign=rss"
   }
 ]
