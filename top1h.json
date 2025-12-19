@@ -1,72 +1,58 @@
 [
   {
-    "score": 22,
-    "pubdate": "2025-12-19-00-27-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump, under pressure on the economy, announced servicemember bonuses. The extra cash ‘gives us a sense of relief,’ said one Army spouse.",
-    "link": "https://www.wsj.com/politics/policy/military-welcomes-1-776-warrior-dividends-db7e00a8"
-  },
-  {
-    "score": 21,
-    "pubdate": "2025-12-19-00-33-34 +0000",
-    "source": "nypost",
-    "headline": "Brown shooter manhunt zeroes in on NH town where suspicious vehicle found — as cops probe possible tie to MIT nuclear prof’s murder",
-    "link": "https://nypost.com/2025/12/18/us-news/brown-shooter-manhunt-zeroes-in-on-nh-town-where-suspicious-vehicle-found/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-12-19-00-41-28 +0000",
-    "source": "bbc",
-    "headline": "TikTok owner signs deal to sell US business",
-    "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2025-12-19-00-21-18 +0000",
-    "source": "nyt",
-    "headline": "James B. Hunt Jr., North Carolina Governor Who Kept State Blue, Dies at 88",
-    "link": "https://www.nytimes.com/2025/12/18/us/politics/james-b-hunt-jr-dead.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-12-19-01-00-06 +0000",
-    "source": "nyt",
-    "headline": "At Tokyo Zoo, Visitors Worry Pandas Could Be China’s Next Target",
-    "link": "https://www.nytimes.com/2025/12/18/world/asia/japan-china-pandas.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-12-19-00-58-02 +0000",
-    "source": "nyt",
-    "headline": "New Judges Take Charge of Sept. 11 Case at Guantánamo",
-    "link": "https://www.nytimes.com/2025/12/18/us/politics/judges-sept-11-guantanamo.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2025-12-19-00-54-04 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Attacks on Rob Reiner and Others Characterize an Uninhibited 2nd Term",
-    "link": "https://www.nytimes.com/2025/12/18/us/politics/trump-insults-second-term.html"
+    "score": 28,
+    "pubdate": "2025-12-19-02-21-15 +0000",
+    "source": "cbc",
+    "headline": "Australia plans gun buyback scheme in wake of mass shooting at Bondi Beach Hanukkah celebration",
+    "link": "https://www.cbc.ca/news/world/bondi-beach-attack-australia-gun-buyback-9.7022110?cmp=rss"
   },
   {
     "score": 14,
-    "pubdate": "2025-12-19-00-54-08 +0000",
+    "pubdate": "2025-12-19-02-25-15 +0000",
+    "source": "nypost",
+    "headline": "Brown University shooting suspect found dead inside New Hampshire storage facility after six-day manhunt",
+    "link": "https://nypost.com/2025/12/18/us-news/brown-university-shooting-suspect-found-dead-inside-new-hampshire-storage-facility-after-six-day-manhunt-reports/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2025-12-19-02-21-09 +0000",
+    "source": "nypost",
+    "headline": "LA’s half-billion dollar bridge to nowhere taken over by malicious motorcycle mob",
+    "link": "https://nypost.com/2025/12/18/us-news/massive-motorcycle-mob-takes-over-las-sixth-street-bridge-to-nowhere/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-19-02-29-01 +0000",
+    "source": "48hills",
+    "headline": "Lurie ignored tenants when writing his Muni parcel-tax proposal",
+    "link": "https://48hills.org/2025/12/lurie-ignored-tenants-when-writing-his-muni-parcel-tax-proposal/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2025-12-19-02-26-08 +0000",
     "source": "nyt",
-    "headline": "Australian Police Detain 7 on Suspicion of Planning a ‘Violent Act’",
-    "link": "https://www.nytimes.com/2025/12/18/world/australia/sydney-arrests-suspicion-violent-act.html"
+    "headline": "Brown Shooting: Authorities Search for a Person With Possible Connection to MIT Killing",
+    "link": "https://www.nytimes.com/live/2025/12/18/us/brown-shooting-suspect/brown-mit-shooting-person-of-interest"
   },
   {
-    "score": 13,
-    "pubdate": "2025-12-19-01-11-28 +0000",
-    "source": "nypost",
-    "headline": "Alaska doctor killed in house fire days after arrest on child sex abuse charges",
-    "link": "https://nypost.com/2025/12/18/us-news/alaska-doctor-killed-in-house-fire-days-after-arrest-on-child-sex-abuse-charges/"
+    "score": 6,
+    "pubdate": "2025-12-19-02-27-13 +0000",
+    "source": "nyt",
+    "headline": "Australia Mourns the Youngest Victim of the Bondi Beach Shooting",
+    "link": "https://www.nytimes.com/2025/12/18/world/asia/australia-matilda-funeral-bondi-shooting.html"
   },
   {
-    "score": 13,
-    "pubdate": "2025-12-19-00-54-18 +0000",
-    "source": "nypost",
-    "headline": "Erika Kirk wings her intro at AmericaFest after prepared remarks mysteriously vanish, jabs at Candace Owens",
-    "link": "https://nypost.com/2025/12/18/us-news/erika-kirk-wings-her-intro-at-americafest-after-prepared-remarks-mysteriously-vanish-jabs-at-candace-owens/"
+    "score": 2,
+    "pubdate": "2025-12-19-02-30-21 +0000",
+    "source": "bbc",
+    "headline": "Australia announces gun buyback scheme in wake of Bondi attack",
+    "link": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2025-12-19-02-27-13 +0000",
+    "source": "nyt",
+    "headline": "Australia Mourns the Youngest Victim of the Bondi Beach Shooting",
+    "link": "https://www.nytimes.com/2025/12/18/world/asia/australia-matilda-funeral-bondi-shooting.html"
   }
 ]
