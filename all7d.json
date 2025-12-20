@@ -1,5 +1,17 @@
 [
   {
+    "headline": "Lou Cannon Dies at 92; Journalist Chronicled Reagan as an Author",
+    "link": "https://www.nytimes.com/2025/12/20/books/lou-cannon-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-06-51-48 +0000"
+  },
+  {
+    "headline": "Takeaways: Anthony Edwards hits go-ahead three late as Timberwolves overcome Chris Finch’s ejection to top Thunder",
+    "link": "https://www.startribune.com/frustrated-by-officiating-timberwolves-coach-chris-finch-ejected-early-against-thunder/601476307",
+    "source": "startribune",
+    "pubdate": "2025-12-20-06-29-07 +0000"
+  },
+  {
     "headline": "President Trump traveled Friday to North Carolina to deliver his third speech this month meant to focus on the economy, pitching himself as firmly in command as voters weigh rising costs",
     "link": "https://www.wsj.com/politics/policy/trump-touts-the-economy-in-north-carolina-591559dd",
     "source": "wsj",
@@ -16,12 +28,6 @@
     "link": "https://nypost.com/2025/12/20/us-news/florida-divorcee-48-accused-of-gunning-down-both-of-her-ex-husbands-in-same-day-fatal-shootings/",
     "source": "nypost",
     "pubdate": "2025-12-20-05-40-50 +0000"
-  },
-  {
-    "headline": "Takeaways: Anthony Edwards hits go-ahead three late as Timberwolves overcome Chris Finch’s ejection to top Thunder",
-    "link": "https://www.startribune.com/frustrated-by-officiating-timberwolves-coach-chris-finch-ejected-early-against-thunder/601476307",
-    "source": "startribune",
-    "pubdate": "2025-12-20-05-29-49 +0000"
   },
   {
     "headline": "Sudanese Refugees Describe Their Escape From Darfur",
@@ -105,13 +111,13 @@
     "headline": "6 Takeaways From the First Batch of the Epstein Files",
     "link": "https://www.nytimes.com/2025/12/19/us/politics/epstein-files-takeaways.html",
     "source": "nyt",
-    "pubdate": "2025-12-20-04-01-16 +0000"
+    "pubdate": "2025-12-20-04-01-17 +0000"
   },
   {
     "headline": "6 Takeaways From the First Batch of the Epstein Files",
     "link": "https://www.nytimes.com/2025/12/19/us/politics/epstein-files-takeaways.html",
     "source": "nyt",
-    "pubdate": "2025-12-20-04-01-16 +0000"
+    "pubdate": "2025-12-20-04-01-17 +0000"
   },
   {
     "headline": "In Germany, Everyone Is a Defense Manufacturer Now",
@@ -225,7 +231,7 @@
     "headline": "Epstein Victims Upset About Lack of Transparency in Newly Released Files",
     "link": "https://www.nytimes.com/2025/12/19/us/epstein-files-victims-reaction.html",
     "source": "nyt",
-    "pubdate": "2025-12-20-02-44-29 +0000"
+    "pubdate": "2025-12-20-02-44-30 +0000"
   },
   {
     "headline": "Kamala Harris knocks Biden admin for lack of ‘support’ in doomed presidential bid",
@@ -490,12 +496,6 @@
     "link": "https://www.wsj.com/us-news/law/five-days-of-mystery-how-the-brown-university-shooter-evaded-capture-c3707dc6",
     "source": "wsj",
     "pubdate": "2025-12-20-01-04-00 +0000"
-  },
-  {
-    "headline": "How a Reddit Post Helped the Police Identify a Suspect in the Brown University Shooting",
-    "link": "https://www.nytimes.com/2025/12/19/us/brown-mit-shooting-investigation-reddit.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-01-00-08 +0000"
   },
   {
     "headline": "How a Reddit Post Helped the Police Identify a Suspect in the Brown University Shooting",
@@ -2364,26 +2364,26 @@
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
   {
-    "headline": "Housing Tracker: Southern California home values drop in November",
-    "link": "https://www.latimes.com/california/story/2025-12-19/housing-tracker-southern-california-home-values-drop-in-november",
-    "source": "latimes",
-    "pubdate": "2025-12-19-11-00-00 +0000"
-  },
-  {
-    "headline": "In a divided America, Rob Reiner was a tenacious liberal who connected with conservatives",
-    "link": "https://www.latimes.com/california/story/2025-12-19/la-me-rob-reiner-hollywood-politics-reach",
-    "source": "latimes",
-    "pubdate": "2025-12-19-11-00-00 +0000"
-  },
-  {
     "headline": "Watchdogs warn L.A. County is undermining efforts at oversight of Sheriff's Department",
     "link": "https://www.latimes.com/california/story/2025-12-19/la-county-sheriff-department-civilian-oversight",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
   {
+    "headline": "Housing Tracker: Southern California home values drop in November",
+    "link": "https://www.latimes.com/california/story/2025-12-19/housing-tracker-southern-california-home-values-drop-in-november",
+    "source": "latimes",
+    "pubdate": "2025-12-19-11-00-00 +0000"
+  },
+  {
     "headline": "Secret sex abuse settlements keep public in the dark about big payouts at schools",
     "link": "https://www.latimes.com/california/story/2025-12-19/school-districts-california-secret-settlements-childhood-sex-abuse-claims",
+    "source": "latimes",
+    "pubdate": "2025-12-19-11-00-00 +0000"
+  },
+  {
+    "headline": "In a divided America, Rob Reiner was a tenacious liberal who connected with conservatives",
+    "link": "https://www.latimes.com/california/story/2025-12-19/la-me-rob-reiner-hollywood-politics-reach",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
@@ -4086,14 +4086,26 @@
     "pubdate": "2025-12-18-11-00-32 +0000"
   },
   {
+    "headline": "Want to walk your loved ones right up to the airport gate? You can at these California airports",
+    "link": "https://www.latimes.com/california/story/2025-12-18/these-airports-let-you-walk-your-loved-ones-right-up-to-gate",
+    "source": "latimes",
+    "pubdate": "2025-12-18-11-00-00 +0000"
+  },
+  {
     "headline": "Years of planning culminate in 'baby boom' of great apes at L.A. Zoo. Here's how they did it",
     "link": "https://www.latimes.com/california/story/2025-12-18/great-ape-baby-boom-la-zoo-gorilla-chimpanzees-orangutan",
     "source": "latimes",
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
   {
-    "headline": "Want to walk your loved ones right up to the airport gate? You can at these California airports",
-    "link": "https://www.latimes.com/california/story/2025-12-18/these-airports-let-you-walk-your-loved-ones-right-up-to-gate",
+    "headline": "L.A. Councilmember John Lee hit with $138,000 fine in Las Vegas gift case",
+    "link": "https://www.latimes.com/california/story/2025-12-18/la-councilmember-john-lee-hit-with-138-000-fine-in-las-vegas-gift-case",
+    "source": "latimes",
+    "pubdate": "2025-12-18-11-00-00 +0000"
+  },
+  {
+    "headline": "A chilling narrative of the Rob Reiner slayings is emerging: What we know",
+    "link": "https://www.latimes.com/california/story/2025-12-18/rob-michele-reiner-slayings-clearer-narrative-emerging",
     "source": "latimes",
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
@@ -4106,18 +4118,6 @@
   {
     "headline": "Who's running the LAPD? Chief's style draws mixed reviews in first year",
     "link": "https://www.latimes.com/california/story/2025-12-18/lapd-chief-jim-mcdonnells-first-year",
-    "source": "latimes",
-    "pubdate": "2025-12-18-11-00-00 +0000"
-  },
-  {
-    "headline": "A chilling narrative of the Rob Reiner slayings is emerging: What we know",
-    "link": "https://www.latimes.com/california/story/2025-12-18/rob-michele-reiner-slayings-clearer-narrative-emerging",
-    "source": "latimes",
-    "pubdate": "2025-12-18-11-00-00 +0000"
-  },
-  {
-    "headline": "L.A. Councilmember John Lee hit with $138,000 fine in Las Vegas gift case",
-    "link": "https://www.latimes.com/california/story/2025-12-18/la-councilmember-john-lee-hit-with-138-000-fine-in-las-vegas-gift-case",
     "source": "latimes",
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
@@ -5118,6 +5118,48 @@
     "pubdate": "2025-12-17-11-01-18 +0000"
   },
   {
+    "headline": "For L.A.'s mayor, a Palisades recovery marked by missteps, reversals and delays",
+    "link": "https://www.latimes.com/california/story/2025-12-17/la-mayor-year-of-false-starts",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "On a $1 houseboat, one of the Palisades fire's 'great underdogs' fights to stay afloat",
+    "link": "https://www.latimes.com/environment/story/2025-12-17/the-great-underdogs-of-the-palisades-fire-fight-to-stay-afloat",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: With his un-Christian Rob Reiner insults, Trump proves he's the real 'Meathead'",
+    "link": "https://www.latimes.com/california/story/2025-12-17/donald-trump-rob-reiner-insults-holidays",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "After the Fires: L.A.'s double disaster left thousands of scars, and the healing will take years",
+    "link": "https://www.latimes.com/after-the-fires",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "After the fires: A glance back at The Times' coverage of the Eaton and Palisades wildfires",
+    "link": "https://www.latimes.com/california/story/2025-12-17/after-fires-glance-back-at-times-coverage-of-eaton-palisades-wildfires",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "After Palisades failures, is LAFD prepared for the next major wildfire?",
+    "link": "https://www.latimes.com/california/story/2025-12-17/after-palisades-failures-is-lafd-prepared-for-next-major-wildfire",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "Edison neglected maintenance of its aging transmission lines before the Jan. 7 fires. Now it's trying to catch up",
+    "link": "https://www.latimes.com/environment/story/2025-12-17/edison-neglected-maintenance-of-its-aging-transmission-lines-before-jan-7-fires-now-its-trying-to-catch-up",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
     "headline": "Lopez: Nearly every house on their west Altadena block was incinerated. Nearly everyone will be back",
     "link": "https://www.latimes.com/california/story/2025-12-17/nearly-every-house-on-their-west-altadena-block-was-incinerated-nearly-everyone-will-be-back",
     "source": "latimes",
@@ -5160,24 +5202,6 @@
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
   {
-    "headline": "After Palisades failures, is LAFD prepared for the next major wildfire?",
-    "link": "https://www.latimes.com/california/story/2025-12-17/after-palisades-failures-is-lafd-prepared-for-next-major-wildfire",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "Edison neglected maintenance of its aging transmission lines before the Jan. 7 fires. Now it's trying to catch up",
-    "link": "https://www.latimes.com/environment/story/2025-12-17/edison-neglected-maintenance-of-its-aging-transmission-lines-before-jan-7-fires-now-its-trying-to-catch-up",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "After the fires: A glance back at The Times' coverage of the Eaton and Palisades wildfires",
-    "link": "https://www.latimes.com/california/story/2025-12-17/after-fires-glance-back-at-times-coverage-of-eaton-palisades-wildfires",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
     "headline": "Reiner family tragedy sheds light on pain of families grappling with addiction",
     "link": "https://www.latimes.com/science/story/2025-12-17/reiner-family-tragedy-sheds-light-on-pain-of-families-grappling-with-addiction",
     "source": "latimes",
@@ -5186,30 +5210,6 @@
   {
     "headline": "'Both sides botched it.' Bass, in unguarded moment, rips responses to Palisades, Eaton fires",
     "link": "https://www.latimes.com/california/story/2025-12-17/both-sides-botched-it-bass-rips-responses-to-palisades-eaton-fires",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "After the Fires: L.A.'s double disaster left thousands of scars, and the healing will take years",
-    "link": "https://www.latimes.com/after-the-fires",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "On a $1 houseboat, one of the Palisades fire's 'great underdogs' fights to stay afloat",
-    "link": "https://www.latimes.com/environment/story/2025-12-17/the-great-underdogs-of-the-palisades-fire-fight-to-stay-afloat",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: With his un-Christian Rob Reiner insults, Trump proves he's the real 'Meathead'",
-    "link": "https://www.latimes.com/california/story/2025-12-17/donald-trump-rob-reiner-insults-holidays",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "For L.A.'s mayor, a Palisades recovery marked by missteps, reversals and delays",
-    "link": "https://www.latimes.com/california/story/2025-12-17/la-mayor-year-of-false-starts",
     "source": "latimes",
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
@@ -6646,11 +6646,5 @@
     "link": "https://www.nytimes.com/2025/12/13/arts/music/hanukkah-concerts-shai-abramson-amsterdam-israel.html",
     "source": "nyt",
     "pubdate": "2025-12-13-10-00-25 +0000"
-  },
-  {
-    "headline": "Trump’s $100,000 H-1B Fee Faces Lawsuit",
-    "link": "https://www.nytimes.com/2025/12/13/us/politics/states-lawsuit-h1b-visas.html",
-    "source": "nyt",
-    "pubdate": "2025-12-13-06-26-16 +0000"
   }
 ]
