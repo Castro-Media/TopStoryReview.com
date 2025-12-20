@@ -1,8 +1,116 @@
 [
   {
-    "headline": "Minnesota jury says Johnson & Johnson owes $65.5 million to woman with cancer who used talcum powder",
-    "link": "https://nypost.com/2025/12/20/business/johnson-and-johnson-owes-65-6-million-to-minnesota-woman-anna-jean-houghton-carley-with-cancer-after-using-talcum-powder/",
+    "headline": "US carries out 'massive' strike against IS in Syria",
+    "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-20-11-44-36 +0000"
+  },
+  {
+    "headline": "US carries out 'massive' strike against IS in Syria",
+    "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-20-11-44-36 +0000"
+  },
+  {
+    "headline": "What Fans Did to Attend a Bad Bunny Show in Mexico City",
+    "link": "https://www.nytimes.com/2025/12/20/world/americas/bad-bunny-mexico-city.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-11-35-50 +0000"
+  },
+  {
+    "headline": "What Fans Did to Attend a Bad Bunny Show in Mexico City",
+    "link": "https://www.nytimes.com/2025/12/20/world/americas/bad-bunny-mexico-city.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-11-35-50 +0000"
+  },
+  {
+    "headline": "Epstein Files Include 1996 Child Porn Complaint That F.B.I. Ignored",
+    "link": "https://www.nytimes.com/2025/12/19/us/epstein-fbi-complaint-1996-maria-farmer.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-11-15-44 +0000"
+  },
+  {
+    "headline": "Granderson: What Epstein 'hoax'? The facts are bad enough",
+    "link": "https://www.latimes.com/opinion/story/2025-12-20/trump-epstein-photos-bill-clinton-bill-gates-democratic-hoax",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-09-00 +0000"
+  },
+  {
+    "headline": "8 dead and dozens wounded in Russian strike on Ukraine’s Odesa port",
+    "link": "https://nypost.com/2025/12/20/world-news/russia-air-and-drone-strikes-ukraine-odesa-port-killing-8-injuring-27/",
     "source": "nypost",
-    "pubdate": "2025-12-20-08-55-05 +0000"
+    "pubdate": "2025-12-20-11-06-48 +0000"
+  },
+  {
+    "headline": "Trump renames the Kennedy Center, but will everyone else follow?",
+    "link": "https://www.washingtonpost.com/business/2025/12/20/trump-kennedy-center-name-change/",
+    "source": "wapo",
+    "pubdate": "2025-12-20-11-05-38 +0000"
+  },
+  {
+    "headline": "U.S. anniversary coins won’t feature any Black Americans or notable women",
+    "link": "https://www.washingtonpost.com/nation/interactive/2025/commemorative-coins-frederick-douglass-trump/",
+    "source": "wapo",
+    "pubdate": "2025-12-20-11-00-53 +0000"
+  },
+  {
+    "headline": "Best of 2025, Canada Edition",
+    "link": "https://www.nytimes.com/2025/12/20/world/canada/best-of-2025-canada-edition.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-11-00-06 +0000"
+  },
+  {
+    "headline": "Best of 2025, Canada Edition",
+    "link": "https://www.nytimes.com/2025/12/20/world/canada/best-of-2025-canada-edition.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-11-00-06 +0000"
+  },
+  {
+    "headline": "The high-tech tools used to track down Nick Reiner after his parents' slayings",
+    "link": "https://www.latimes.com/california/story/2025-12-20/high-tech-tools-used-to-track-down-nick-reiner-after-his-parents-slayings",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Four times as many: Shootings by LAPD officers far outpace L.A. County deputies",
+    "link": "https://www.latimes.com/california/story/2025-12-20/lapd-los-angeles-county-sheriffs-department-shootings",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Social media users in the Central Valley are freaking out about unusual fog, and what might be in it",
+    "link": "https://www.latimes.com/environment/story/2025-12-20/social-media-users-in-central-valley-are-freaking-out-about-unusual-fog",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Controversial Florida bear hunt is taking place mostly out of sight",
+    "link": "https://www.washingtonpost.com/nation/2025/12/20/bear-hunt-florida-conservation/",
+    "source": "wapo",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "TikTok creators welcome deal to keep app in the U.S.",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-20/tiktok-creators-welcome-deal-to-keep-app-in-u-s-trump",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "U.S. Space Force awards $1.6 billion in contracts to South Bay satellite builders",
+    "link": "https://www.latimes.com/business/story/2025-12-20/u-s-space-force-awards-1-6-billion-in-contracts-to-south-bay-satellite-builders",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "News Quiz for Dec. 20, 2025",
+    "link": "https://www.wsj.com/business/media/news-quiz-for-dec-20-2025-c29588f5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "6 easy money moves you can accomplish before 2026",
+    "link": "https://www.washingtonpost.com/business/2025/12/20/easy-realistic-money-moves-2026/",
+    "source": "wapo",
+    "pubdate": "2025-12-20-11-00-00 +0000"
   }
 ]
