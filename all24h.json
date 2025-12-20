@@ -1,5 +1,107 @@
 [
   {
+    "headline": "I’m a cynic. These 5 stories this year gave me hope for humanity.",
+    "link": "https://www.washingtonpost.com/lifestyle/2025/12/20/hope-in-humanity-inspiring-stories/",
+    "source": "wapo",
+    "pubdate": "2025-12-20-13-00-56 +0000"
+  },
+  {
+    "headline": "From A.I. to Tariffs, 14 Charts That Explain 2025",
+    "link": "https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-13-00-04 +0000"
+  },
+  {
+    "headline": "Smirking suspect in brutal murder of cabbie dumped in NYC reservoir is illegal migrant: feds",
+    "link": "https://nypost.com/2025/12/20/us-news/man-who-choked-a-cabbie-to-death-in-ny-to-settle-score-is-an-illegal-immigrant-guatemala/",
+    "source": "nypost",
+    "pubdate": "2025-12-20-12-57-45 +0000"
+  },
+  {
+    "headline": "Inside Nick Reiner’s spoiled Hollywood upbringing and how he left mom ‘at her wits end’ before grisly double murder",
+    "link": "https://nypost.com/2025/12/20/us-news/inside-nick-reiners-spoiled-hollywood-upbringing-and-how-he-left-mom-at-her-wits-end/",
+    "source": "nypost",
+    "pubdate": "2025-12-20-12-54-10 +0000"
+  },
+  {
+    "headline": "Paloma Wool’s Rebrand Is Moving Past the ‘Basic’ Era",
+    "link": "https://www.nytimes.com/2025/12/20/style/paloma-wool-rebrand-avant-basic.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-12-51-47 +0000"
+  },
+  {
+    "headline": "Who and what are in the Epstein files?",
+    "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-20-12-44-18 +0000"
+  },
+  {
+    "headline": "Brown University students, staff say security worries brushed off for years before massacre: ‘Gamble with our lives’",
+    "link": "https://nypost.com/2025/12/20/us-news/brown-university-students-staff-say-security-worries-brushed-off-for-years-before-massacre-gamble-with-our-lives/",
+    "source": "nypost",
+    "pubdate": "2025-12-20-12-38-52 +0000"
+  },
+  {
+    "headline": "Sudanese Refugees Describe Their Escape From Darfur",
+    "link": "https://www.nytimes.com/2025/12/20/world/africa/sudan-el-fasher-refugees-chad.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-12-37-31 +0000"
+  },
+  {
+    "headline": "Sudanese Refugees Describe Their Escape From Darfur",
+    "link": "https://www.nytimes.com/2025/12/20/world/africa/sudan-el-fasher-refugees-chad.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-12-37-31 +0000"
+  },
+  {
+    "headline": "U.S. Strikes on Syria Underscore Scale of Challenge for Its President",
+    "link": "https://www.nytimes.com/2025/12/20/world/middleeast/us-strikes-syria-aftermath.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-12-35-24 +0000"
+  },
+  {
+    "headline": "U.S. Strikes on Syria Underscore Scale of Challenge for Its President",
+    "link": "https://www.nytimes.com/2025/12/20/world/middleeast/us-strikes-syria-aftermath.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-12-35-24 +0000"
+  },
+  {
+    "headline": "Closing Arguments",
+    "link": "https://www.nytimes.com/2025/12/20/briefing/morning-readers-best-of-2025.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-12-27-05 +0000"
+  },
+  {
+    "headline": "Sprawling new seascape mural decorates the waterfront",
+    "link": "https://missionlocal.org/2025/12/sprawling-new-seascape-mural-decorates-the-waterfront/",
+    "source": "missionlocal",
+    "pubdate": "2025-12-20-12-00-00 +0000"
+  },
+  {
+    "headline": "A Montclair councilman was found liable for sexual harassment. He refuses to resign",
+    "link": "https://www.latimes.com/california/story/2025-12-20/california-councilman-found-liable-for-sexual-harassment-refuses-to-resign",
+    "source": "latimes",
+    "pubdate": "2025-12-20-12-00-00 +0000"
+  },
+  {
+    "headline": "The Former Ice-Hockey Player Who Nailed This Year’s AI Trade",
+    "link": "https://www.wsj.com/finance/investing/the-former-ice-hockey-player-who-nailed-this-years-ai-trade-dc78b196?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-20-12-00-00 +0000"
+  },
+  {
+    "headline": "Koch Political Operation Spent Nearly $550 Million During 2024 Cycle",
+    "link": "https://www.nytimes.com/2025/12/20/us/politics/koch-network-2024-election-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-11-57-14 +0000"
+  },
+  {
+    "headline": "Koch Political Operation Spent Nearly $550 Million During 2024 Cycle",
+    "link": "https://www.nytimes.com/2025/12/20/us/politics/koch-network-2024-election-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-12-20-11-57-14 +0000"
+  },
+  {
     "headline": "US carries out 'massive' strike against IS in Syria",
     "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -162,18 +264,6 @@
     "pubdate": "2025-12-20-10-02-32 +0000"
   },
   {
-    "headline": "Koch Political Operation Spent Nearly $550 Million During 2024 Cycle",
-    "link": "https://www.nytimes.com/2025/12/20/us/politics/koch-network-2024-election-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-10-01-39 +0000"
-  },
-  {
-    "headline": "Koch Political Operation Spent Nearly $550 Million During 2024 Cycle",
-    "link": "https://www.nytimes.com/2025/12/20/us/politics/koch-network-2024-election-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-10-01-39 +0000"
-  },
-  {
     "headline": "A Woman Froze to Death on an Alpine Trek. Is Her Boyfriend to Blame?",
     "link": "https://www.nytimes.com/2025/12/20/world/europe/austria-hiker-death-mountain-manslaughter.html",
     "source": "nyt",
@@ -244,12 +334,6 @@
     "link": "https://www.washingtonpost.com/transportation/interactive/2025/pedestrian-deaths-road-safety-solutions/",
     "source": "wapo",
     "pubdate": "2025-12-20-10-00-18 +0000"
-  },
-  {
-    "headline": "Paloma Wool’s Rebrand Is Moving Past the ‘Basic’ Era",
-    "link": "https://www.nytimes.com/2025/12/20/style/paloma-wool-rebrand-avant-basic.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-10-00-12 +0000"
   },
   {
     "headline": "As China’s Xi looks to Trump meeting, domestic economy weighs heavy",
@@ -378,18 +462,6 @@
     "pubdate": "2025-12-20-05-40-50 +0000"
   },
   {
-    "headline": "Sudanese Refugees Describe Their Escape From Darfur",
-    "link": "https://www.nytimes.com/2025/12/20/world/africa/sudan-el-fasher-refugees-chad.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-05-00-21 +0000"
-  },
-  {
-    "headline": "Sudanese Refugees Describe Their Escape From Darfur",
-    "link": "https://www.nytimes.com/2025/12/20/world/africa/sudan-el-fasher-refugees-chad.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-05-00-21 +0000"
-  },
-  {
     "headline": "With New E.U. Loan, Ukraine Avoids Budget Crunch and Can Plan War Effort",
     "link": "https://www.nytimes.com/2025/12/19/world/europe/ukraine-russia-frozen-assets-loan.html",
     "source": "nyt",
@@ -423,25 +495,25 @@
     "headline": "U.S. Strikes Islamic State Targets in Syria",
     "link": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html",
     "source": "nyt",
-    "pubdate": "2025-12-20-04-34-53 +0000"
+    "pubdate": "2025-12-20-04-34-54 +0000"
   },
   {
     "headline": "U.S. Strikes Islamic State Targets in Syria",
     "link": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html",
     "source": "nyt",
-    "pubdate": "2025-12-20-04-34-53 +0000"
+    "pubdate": "2025-12-20-04-34-54 +0000"
   },
   {
     "headline": "U.S. Strikes Islamic State Targets in Syria",
     "link": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html",
     "source": "nyt",
-    "pubdate": "2025-12-20-04-34-53 +0000"
+    "pubdate": "2025-12-20-04-34-54 +0000"
   },
   {
     "headline": "U.S. Strikes Islamic State Targets in Syria",
     "link": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html",
     "source": "nyt",
-    "pubdate": "2025-12-20-04-34-53 +0000"
+    "pubdate": "2025-12-20-04-34-54 +0000"
   },
   {
     "headline": "Days after President Trump moved to block states from regulating AI, New York’s governor signs what the bill’s sponsor calls the strongest AI safety law in the U.S.",
@@ -822,6 +894,12 @@
     "pubdate": "2025-12-20-01-00-00 +0000"
   },
   {
+    "headline": "Louis Vuitton’s Ship to Nowhere Marks the New Age of Luxury",
+    "link": "https://www.wsj.com/business/retail/louis-vuitton-shanghai-ship-pietro-beccari-lvmh-8ecb0667?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-20-01-00-00 +0000"
+  },
+  {
     "headline": "U.S. Strikes Syria Targets in Response to Fatal Attack on Americans",
     "link": "https://www.wsj.com/world/middle-east/u-s-strikes-syria-targets-in-response-to-fatal-attack-on-americans-a116f257",
     "source": "wsj",
@@ -1068,12 +1146,6 @@
     "pubdate": "2025-12-19-23-12-43 +0000"
   },
   {
-    "headline": "DOJ defends massive Epstein file redactions — including pedo’s own butt, 100 blank pages",
-    "link": "https://nypost.com/2025/12/19/us-news/epstein-docs-include-heavily-redacted-100-page-blacked-out-file/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-23-12-43 +0000"
-  },
-  {
     "headline": "Timothée Chalamet teams up with EsDeeKid to quash alter-ego rumours",
     "link": "https://www.bbc.com/news/articles/c79x4yqx0ngo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1092,12 +1164,6 @@
     "pubdate": "2025-12-19-23-03-05 +0000"
   },
   {
-    "headline": "Bill Clinton, Ghislaine Maxwell and Mick Jagger share dinner in new Epstein photos released by DOJ",
-    "link": "https://nypost.com/2025/12/19/us-news/epstein-clinton-and-mick-jagger-share-dinner-in-new-photos-released-by-doj/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-23-01-36 +0000"
-  },
-  {
     "headline": "Introducing Your Next Newsletter Writer (for Now), and Looking Back at 2025",
     "link": "https://www.nytimes.com/2025/12/19/us/politics/trump-midterms-elections.html",
     "source": "nyt",
@@ -1114,12 +1180,6 @@
     "link": "https://www.cbc.ca/player/play/9.7023637?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-12-19-22-58-34 +0000"
-  },
-  {
-    "headline": "Rubio warns Ukraine war won’t end in surrender, says talks only way out — as Putin demands capitulation",
-    "link": "https://nypost.com/2025/12/19/world-news/rubio-warns-ukraine-war-wont-end-in-surrender-says-diplomacy-is-only-option/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-22-56-48 +0000"
   },
   {
     "headline": "Rubio warns Ukraine war won’t end in surrender, says talks only way out — as Putin demands capitulation",
@@ -2434,125 +2494,5 @@
     "link": "https://www.cbc.ca/news/world/us-wisconsin-judge-duggan-verdict-9.7022357?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-12-19-13-10-18 +0000"
-  },
-  {
-    "headline": "A viral love story: She answered his DM, then flew to Ireland to meet him",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/12/19/viral-love-story-she-answered-his-dm-then-flew-ireland-meet-him/",
-    "source": "wapo",
-    "pubdate": "2025-12-19-13-02-41 +0000"
-  },
-  {
-    "headline": "A viral love story: She answered his DM, then flew to Ireland to meet him",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/12/19/viral-love-story-she-answered-his-dm-then-flew-ireland-meet-him/",
-    "source": "wapo",
-    "pubdate": "2025-12-19-13-02-41 +0000"
-  },
-  {
-    "headline": "Lopez: Palisades dad wanted his teens to maintain hope after losing their house. Now they're heading home",
-    "link": "https://www.latimes.com/california/story/2025-12-19/palisades-family-never-lost-hope-newly-rebuilt-home",
-    "source": "latimes",
-    "pubdate": "2025-12-19-13-00-00 +0000"
-  },
-  {
-    "headline": "Buyer Beware: Star Ratings Actually Steer Us Away From the Best Shopping Deals",
-    "link": "https://www.wsj.com/business/retail/star-ratings-online-shopping-deals-2fef84ab?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-19-13-00-00 +0000"
-  },
-  {
-    "headline": "What Trump’s Push Into Nuclear Means for the Sector (and His Net Worth)",
-    "link": "https://www.nytimes.com/2025/12/19/business/dealbook/trump-nuclear-fusion.html",
-    "source": "nyt",
-    "pubdate": "2025-12-19-12-56-42 +0000"
-  },
-  {
-    "headline": "EU agrees €90bn loan for Ukraine but without using Russian assets",
-    "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-19-12-47-56 +0000"
-  },
-  {
-    "headline": "EU agrees €90bn loan for Ukraine but without using Russian assets",
-    "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-19-12-47-56 +0000"
-  },
-  {
-    "headline": "US workplace rights agency’s leader urges white men to report discrimination",
-    "link": "https://nypost.com/2025/12/19/business/head-of-workplace-rights-agency-andrea-lucas-urges-white-men-to-report-discrimination/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-12-43-36 +0000"
-  },
-  {
-    "headline": "Wiz Khalifa sentenced to 9 months in Romania for drug possession",
-    "link": "https://nypost.com/2025/12/19/world-news/wiz-khalifa-sentenced-to-9-months-in-romania-for-drug-possession/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-12-36-01 +0000"
-  },
-  {
-    "headline": "Searchlight-Backed Integrated Power Services to Buy TechPro in $350 Million Deal",
-    "link": "https://www.wsj.com/articles/searchlight-backed-integrated-power-services-to-buy-techpro-in-350-million-deal-01c08499?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-19-12-33-00 +0000"
-  },
-  {
-    "headline": "Putin says Russia in a position of strength in Ukraine, with no need to make compromises on talks",
-    "link": "https://www.cbc.ca/news/world/russia-putin-news-conference-9.7022304?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-19-12-23-47 +0000"
-  },
-  {
-    "headline": "Retail sales fall as Black Friday deals fail to lure shoppers",
-    "link": "https://www.bbc.com/news/articles/c0ed28qlz89o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-19-12-20-09 +0000"
-  },
-  {
-    "headline": "Trump orders suspension of visa lottery program used by suspect in Brown, MIT murders",
-    "link": "https://nypost.com/2025/12/19/us-news/trump-orders-suspension-of-visa-lottery-program-used-by-suspect-in-brown-mit-murders/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-12-07-02 +0000"
-  },
-  {
-    "headline": "Inside S.F. jail, 13 freshly minted barbers graduate, each with a different hairstyle",
-    "link": "https://missionlocal.org/2025/12/sf-county-jail-barbers/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-19-12-00-00 +0000"
-  },
-  {
-    "headline": "Wall Street can’t keep quiet about a  SpaceX IPO — and it could make Elon Musk a trillionaire",
-    "link": "https://nypost.com/2025/12/19/business/wall-street-cant-keep-quiet-about-elon-musks-spacex-ipo/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-12-00-00 +0000"
-  },
-  {
-    "headline": "Big retailers like Target increasingly hit by online refund fraud rings; one Minnesotan charged in one scam",
-    "link": "https://www.startribune.com/big-retailers-like-target-increasingly-hit-by-online-refund-fraud-rings-minnesotan-charged-in-one-scam/601543143",
-    "source": "startribune",
-    "pubdate": "2025-12-19-12-00-00 +0000"
-  },
-  {
-    "headline": "14 of our favorite new burgers in the Twin Cities to close out 2025",
-    "link": "https://www.startribune.com/best-burgers-minnespolis-st-paul-twin-cities-fall-winter-2025/601517354",
-    "source": "startribune",
-    "pubdate": "2025-12-19-12-00-00 +0000"
-  },
-  {
-    "headline": "South Africa defiant after US threatens 'consequences' over refugee centre raid",
-    "link": "https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-19-11-59-56 +0000"
-  },
-  {
-    "headline": "South Africa defiant after US threatens 'consequences' over refugee centre raid",
-    "link": "https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-19-11-59-56 +0000"
-  },
-  {
-    "headline": "South Africa defiant after US threatens 'consequences' over refugee centre raid",
-    "link": "https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-19-11-59-56 +0000"
   }
 ]
