@@ -1,14 +1,14 @@
 [
   {
-    "score": 88,
+    "score": 89,
     "pubdate": "2025-12-21-01-59-17 +0000",
     "source": "wapo",
     "headline": "Coast Guard boards oil tanker leaving Venezuela amid Trump’s blockade",
     "link": "https://www.washingtonpost.com/national-security/2025/12/20/venezuela-boats-coast-guard/"
   },
   {
-    "score": 67,
-    "pubdate": "2025-12-21-01-49-00 +0000",
+    "score": 66,
+    "pubdate": "2025-12-21-03-42-00 +0000",
     "source": "wsj",
     "headline": "Bill Clinton, Michael Jackson and other celebrities make appearances in the first batch of files from criminal investigations into Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/five-takeaways-from-the-newly-released-epstein-files-936dd5a1"
@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/politics/policy/trump-touts-the-economy-in-north-carolina-591559dd"
   },
   {
-    "score": 45,
+    "score": 46,
     "pubdate": "2025-12-20-17-07-47 +0000",
     "source": "nypost",
     "headline": "Jordan reveals air force joined US strikes on Islamic State in Syria as new footage is released",
@@ -42,18 +42,18 @@
     "link": "https://nypost.com/2025/12/20/us-news/trump-endorses-bruce-blakeman-for-ny-governor-a-day-after-gop-rep-elise-stefanik-dropped-out-of-race/"
   },
   {
-    "score": 31,
-    "pubdate": "2025-12-20-15-48-19 +0000",
-    "source": "nypost",
-    "headline": "7 elephants killed after high-speed train collides with massive herd crossing railroad tracks",
-    "link": "https://nypost.com/2025/12/20/world-news/high-speed-passenger-train-collides-with-massive-herd-kills-7-elephants-crossing-railway-tracks-in-india/"
-  },
-  {
-    "score": 30,
+    "score": 32,
     "pubdate": "2025-12-21-00-25-22 +0000",
     "source": "bbc",
     "headline": "Neither Russia nor France: One West African country walks a diplomatic tightrope",
     "link": "https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-12-20-15-48-19 +0000",
+    "source": "nypost",
+    "headline": "7 elephants killed after high-speed train collides with massive herd crossing railroad tracks",
+    "link": "https://nypost.com/2025/12/20/world-news/high-speed-passenger-train-collides-with-massive-herd-kills-7-elephants-crossing-railway-tracks-in-india/"
   },
   {
     "score": 28,
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2025/12/20/world-news/former-hamas-hostage-warned-leaders-of-rising-antisemitism-months-before-deadly-bondi-beach-shooting/"
   },
   {
-    "score": 27,
-    "pubdate": "2025-12-20-18-21-29 +0000",
-    "source": "nypost",
-    "headline": "US kills ‘at least 5’ ISIS thugs in Syria in response to insider attack that gunned down American troops: ‘It was very successful’",
-    "link": "https://nypost.com/2025/12/20/us-news/us-shock-and-awe-attack-kills-at-least-5-isis-thugs-in-syria-in-response-for-insider-attack-that-gunned-down-us-troops/"
+    "score": 26,
+    "pubdate": "2025-12-20-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "These Air-Traffic Controllers Are Leaving Their Jobs—and Heading to Australia",
+    "link": "https://www.wsj.com/business/airlines/these-air-traffic-controllers-are-leaving-their-jobsand-heading-to-australia-13935de6"
   }
 ]
