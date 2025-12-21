@@ -1,45 +1,59 @@
 [
   {
-    "score": 74,
-    "pubdate": "2025-12-20-23-45-01 +0000",
-    "source": "nyt",
-    "headline": "Epstein Files Photos Disappear From Government Website, Including One of Trump",
-    "link": "https://www.nytimes.com/2025/12/20/us/politics/trump-epstein-files-government-website.html"
-  },
-  {
-    "score": 55,
-    "pubdate": "2025-12-21-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "Before Charlie Kirk was fatally shot, he was readying for JD Vance to become the next president of the United States. Now, Erika Kirk is determined to make that happen.",
-    "link": "https://www.wsj.com/politics/policy/charlie-kirks-empire-is-lining-up-behind-a-jd-vance-presidential-bid-cedeb9cc"
-  },
-  {
-    "score": 53,
-    "pubdate": "2025-12-21-11-01-08 +0000",
-    "source": "nypost",
-    "headline": "Defiant sister of slain Bondi Beach rabbi — who battles Jew hate in her own Brooklyn nabe — says  ‘We’re not afraid’",
-    "link": "https://nypost.com/2025/12/21/world-news/defiant-sister-of-slain-bondi-beach-rabbi-who-battles-jew-hate-in-her-own-nyc-nabe-says-were-not-afraid/"
-  },
-  {
-    "score": 52,
+    "score": 79,
     "pubdate": "2025-12-21-01-59-17 +0000",
     "source": "wapo",
     "headline": "Coast Guard boards oil tanker leaving Venezuela amid Trump’s blockade",
     "link": "https://www.washingtonpost.com/national-security/2025/12/20/venezuela-boats-coast-guard/"
   },
   {
-    "score": 37,
+    "score": 75,
+    "pubdate": "2025-12-21-18-10-00 +0000",
+    "source": "wsj",
+    "headline": "A top Justice Department official said Sunday that the agency temporarily removed some newly public Jeffrey Epstein files to address complaints from victims about redacting their images or information",
+    "link": "https://www.wsj.com/politics/policy/justice-department-official-says-it-pulled-some-epstein-files-to-redact-victims-1b1bfb2b"
+  },
+  {
+    "score": 57,
+    "pubdate": "2025-12-21-11-01-08 +0000",
+    "source": "nypost",
+    "headline": "Defiant sister of slain Bondi Beach rabbi — who battles Jew hate in her own Brooklyn nabe — says  ‘We’re not afraid’",
+    "link": "https://nypost.com/2025/12/21/world-news/defiant-sister-of-slain-bondi-beach-rabbi-who-battles-jew-hate-in-her-own-nyc-nabe-says-were-not-afraid/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-12-21-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Before Charlie Kirk was fatally shot, he was readying for JD Vance to become the next president of the United States. Now, Erika Kirk is determined to make that happen.",
+    "link": "https://www.wsj.com/politics/policy/charlie-kirks-empire-is-lining-up-behind-a-jd-vance-presidential-bid-cedeb9cc"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-12-21-00-25-22 +0000",
+    "source": "bbc",
+    "headline": "Neither Russia nor France: One West African country walks a diplomatic tightrope",
+    "link": "https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2025-12-21-04-30-13 +0000",
+    "source": "nypost",
+    "headline": "San Francisco power outage left 130,000 in the dark as self-driving cars stalled in middle of streets",
+    "link": "https://nypost.com/2025/12/20/us-news/san-francisco-power-outage-leaves-130000-in-the-dark/"
+  },
+  {
+    "score": 35,
     "pubdate": "2025-12-21-09-52-21 +0000",
     "source": "nypost",
     "headline": "Australian PM Albanese booed, heckled as he sits stone-faced at Sydney terror attack memorial: ‘Blood on your hands!’",
     "link": "https://nypost.com/2025/12/21/world-news/australian-prime-minister-anthony-albanese-heckled-at-bondi-vigil-week-after-hanukkah-terrorist-attack/"
   },
   {
-    "score": 30,
-    "pubdate": "2025-12-21-04-30-13 +0000",
+    "score": 31,
+    "pubdate": "2025-12-21-14-13-42 +0000",
     "source": "nypost",
-    "headline": "San Francisco power outage left 130,000 in the dark as self-driving cars stalled in middle of streets",
-    "link": "https://nypost.com/2025/12/20/us-news/san-francisco-power-outage-leaves-130000-in-the-dark/"
+    "headline": "117th Newport Beach Christmas Boat Parade lights up holiday cheer in California: photos",
+    "link": "https://nypost.com/2025/12/21/us-news/117th-newport-beach-christmas-boat-parade-lights-up-holiday-cheer-in-california-photos/"
   },
   {
     "score": 29,
@@ -54,19 +68,5 @@
     "source": "nypost",
     "headline": "Kash Patel says FBI boosting AI use ‘key component’ to countering domestic, global threats",
     "link": "https://nypost.com/2025/12/21/us-news/kash-patel-says-fbi-boosting-ai-use-to-counter-domestic-global-threats/"
-  },
-  {
-    "score": 28,
-    "pubdate": "2025-12-21-14-56-01 +0000",
-    "source": "nyt",
-    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
-    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-12-21-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "Cleveland Fed President Beth Hammack said she doesn’t see any need to change interest rates for several months in an interview with The Wall Street Journal",
-    "link": "https://www.wsj.com/economy/central-banking/feds-hammack-is-inflation-wary-and-prefers-holding-rates-steady-into-the-spring-7c07f5d8"
   }
 ]
