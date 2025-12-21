@@ -1,5 +1,89 @@
 [
   {
+    "headline": "White House Chides Smithsonian for Delayed Turnover of Programming Records",
+    "link": "https://www.nytimes.com/2025/12/19/us/politics/smithsonian-records-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-50-51 +0000"
+  },
+  {
+    "headline": "Haunted by ICE and Cancer, a Firefighter Perseveres for His Son",
+    "link": "https://www.nytimes.com/2025/12/21/us/wildfires-firefighters-immigration.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-49-19 +0000"
+  },
+  {
+    "headline": "US seizes second oil tanker off Venezuela's coast",
+    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-45-49 +0000"
+  },
+  {
+    "headline": "US seizes second oil tanker off Venezuela's coast",
+    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-45-49 +0000"
+  },
+  {
+    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
+    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-34-30 +0000"
+  },
+  {
+    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
+    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-34-30 +0000"
+  },
+  {
+    "headline": "Mamdani Inauguration to Usher in ‘New Era’ With Broadway Block Party",
+    "link": "https://www.nytimes.com/2025/12/21/nyregion/nyc-zohran-mamdani-inauguration-block-party.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-29-21 +0000"
+  },
+  {
+    "headline": "Michele Singer Reiner: A Life Rooted in Activism and Listening to Others",
+    "link": "https://www.nytimes.com/2025/12/21/us/michele-singer-reiner.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-27-15 +0000"
+  },
+  {
+    "headline": "Gunmen kill nine in South Africa tavern attack",
+    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-25-49 +0000"
+  },
+  {
+    "headline": "Gunmen kill nine in South Africa tavern attack",
+    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-25-49 +0000"
+  },
+  {
+    "headline": "FBI was warned that Jeffrey Epstein was into child porn — but ignored it for 10 years, docs show",
+    "link": "https://nypost.com/2025/12/21/us-news/fbi-ignored-jeffrey-epstein-child-porn-warning-for-10-years-docs-show/",
+    "source": "nypost",
+    "pubdate": "2025-12-21-14-58-54 +0000"
+  },
+  {
+    "headline": "FBI was warned that Jeffrey Epstein was into child porn — but ignored it for 10 years, docs show",
+    "link": "https://nypost.com/2025/12/21/us-news/fbi-ignored-jeffrey-epstein-child-porn-warning-for-10-years-docs-show/",
+    "source": "nypost",
+    "pubdate": "2025-12-21-14-58-54 +0000"
+  },
+  {
+    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
+    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-14-56-01 +0000"
+  },
+  {
+    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
+    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-14-56-01 +0000"
+  },
+  {
     "headline": "9 dead, 10 wounded after multiple gunman open fire in South African pub",
     "link": "https://nypost.com/2025/12/21/world-news/9-dead-10-wounded-after-multiple-gunman-open-fire-in-south-african-pub/",
     "source": "nypost",
@@ -66,12 +150,6 @@
     "pubdate": "2025-12-21-14-00-00 +0000"
   },
   {
-    "headline": "Michele Singer Reiner: A Life Rooted in Activism and Listening to Others",
-    "link": "https://www.nytimes.com/2025/12/21/us/michele-singer-reiner.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-13-57-41 +0000"
-  },
-  {
     "headline": "Thousands gather at Bondi Beach to mourn victims of antisemitic attack",
     "link": "https://www.cbc.ca/news/world/thousands-gather-bondi-beach-mourn-victims-9.7024424?cmp=rss",
     "source": "cbc",
@@ -100,18 +178,6 @@
     "link": "https://nypost.com/2025/12/21/us-news/nypd-officer-shoots-kills-box-cutter-wielding-madman-in-front-of-his-parents/",
     "source": "nypost",
     "pubdate": "2025-12-21-12-34-16 +0000"
-  },
-  {
-    "headline": "Gunmen kill nine in South Africa tavern attack",
-    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-12-28-13 +0000"
-  },
-  {
-    "headline": "Gunmen kill nine in South Africa tavern attack",
-    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-12-28-13 +0000"
   },
   {
     "headline": "Rights groups condemn new record number of executions in Saudi Arabia",
@@ -366,12 +432,6 @@
     "pubdate": "2025-12-21-10-00-40 +0000"
   },
   {
-    "headline": "‘It’s Just Us’: The Firefighter, His Son and a Treacherous Choice",
-    "link": "https://www.nytimes.com/2025/12/21/us/wildfires-firefighters-immigration.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-10-00-38 +0000"
-  },
-  {
     "headline": "Why investing in a Trump Account could complicate your taxes",
     "link": "https://www.washingtonpost.com/business/2025/12/22/trump-account-taxes-irs/",
     "source": "wapo",
@@ -400,18 +460,6 @@
     "link": "https://www.nytimes.com/2025/12/21/us/politics/supreme-court-mail-in-ballots-election-day.html",
     "source": "nyt",
     "pubdate": "2025-12-21-10-00-13 +0000"
-  },
-  {
-    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
-    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-10-00-11 +0000"
-  },
-  {
-    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
-    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-10-00-11 +0000"
   },
   {
     "headline": "In the Year of the Snake, China is charmed by ‘Zootopia 2’ pit viper Gary",
@@ -472,18 +520,6 @@
     "link": "https://www.nytimes.com/2025/12/21/world/asia/sydney-philippines-akram.html",
     "source": "nyt",
     "pubdate": "2025-12-21-09-40-06 +0000"
-  },
-  {
-    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
-    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-09-30-37 +0000"
-  },
-  {
-    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
-    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-09-30-37 +0000"
   },
   {
     "headline": "Postcode glitch freezes pensioners out of winter heating benefit",
@@ -628,12 +664,6 @@
     "link": "https://www.startribune.com/vikings-team-plane-mechanical-issue-msp-newark-new-york-giants/601550508",
     "source": "startribune",
     "pubdate": "2025-12-21-05-28-51 +0000"
-  },
-  {
-    "headline": "Ejection reveals a side of Timberwolves’ Chris Finch fans don’t always see",
-    "link": "https://www.startribune.com/ejection-reveals-a-side-of-timberwolves-chris-finch-fans-dont-always-see/601476308",
-    "source": "startribune",
-    "pubdate": "2025-12-21-05-28-26 +0000"
   },
   {
     "headline": "The Pompidou Center Has Been Emptied of Its Art. We Watched It Happen.",
@@ -882,18 +912,6 @@
     "pubdate": "2025-12-21-00-52-00 +0000"
   },
   {
-    "headline": "US seizes second oil tanker off Venezuela's coast",
-    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-00-44-40 +0000"
-  },
-  {
-    "headline": "US seizes second oil tanker off Venezuela's coast",
-    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-00-44-40 +0000"
-  },
-  {
     "headline": "Cat lost during Hurricane Helene miraculously reunited with family after 443 days: ‘A Christmas miracle’",
     "link": "https://nypost.com/2025/12/20/us-news/cat-lost-during-hurricane-helene-miraculously-reunited-with-family-after-443-days/",
     "source": "nypost",
@@ -1012,12 +1030,6 @@
     "link": "https://nypost.com/2025/12/20/us-news/anti-zionist-mamdani-celebrates-hanukkah-with-jewish-actor-mandy-patinkin/",
     "source": "nypost",
     "pubdate": "2025-12-20-22-36-28 +0000"
-  },
-  {
-    "headline": "Relics from SS Edmund Fitzgerald’s catastrophic shipwreck sell at auction for $150K",
-    "link": "https://nypost.com/2025/12/20/us-news/relics-from-ss-edmund-fitzgeralds-catastrophic-shipwreck-sell-at-auction-for-150000/",
-    "source": "nypost",
-    "pubdate": "2025-12-20-22-36-18 +0000"
   },
   {
     "headline": "Russian strike kills 8 in Ukraine's Odesa as Kremlin envoy heads to U.S. for truce talks",
@@ -1318,12 +1330,6 @@
     "link": "https://nypost.com/2025/12/20/world-news/former-hamas-hostage-warned-leaders-of-rising-antisemitism-months-before-deadly-bondi-beach-shooting/",
     "source": "nypost",
     "pubdate": "2025-12-20-16-36-01 +0000"
-  },
-  {
-    "headline": "Greg Biffle’s Plane Turned Back Minutes After Takeoff",
-    "link": "https://www.nytimes.com/2025/12/19/us/politics/greg-biffle-plane-crash.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-16-30-50 +0000"
   },
   {
     "headline": "Pakistani court sentences former prime minister and wife to 17 years in prison for selling state gifts",
@@ -1932,12 +1938,6 @@
     "pubdate": "2025-12-20-01-41-12 +0000"
   },
   {
-    "headline": "White House Chides Smithsonian for Delayed Turnover of Records on Programming",
-    "link": "https://www.nytimes.com/2025/12/19/us/politics/smithsonian-records-trump.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-01-40-52 +0000"
-  },
-  {
     "headline": "Three Killed in Stabbing Attack in Taiwan",
     "link": "https://www.nytimes.com/2025/12/19/world/asia/stabbing-taipei-taiwan.html",
     "source": "nyt",
@@ -2056,6 +2056,12 @@
     "link": "https://www.wsj.com/politics/elections/elise-stefanik-to-quit-new-york-governor-race-wont-run-for-re-election-to-house-f0847573",
     "source": "wsj",
     "pubdate": "2025-12-19-23-43-00 +0000"
+  },
+  {
+    "headline": "Walz says there’s no evidence of $9B in fraud, exposing rift between state and feds",
+    "link": "https://www.startribune.com/walz-says-theres-no-evidence-of-9b-in-fraud-exposing-rift-between-state-and-feds/601549681",
+    "source": "startribune",
+    "pubdate": "2025-12-19-23-39-29 +0000"
   },
   {
     "headline": "A Trove of Epstein Files Has Already Been Released",
@@ -3066,12 +3072,6 @@
     "pubdate": "2025-12-19-14-44-18 +0000"
   },
   {
-    "headline": "Trump just legalized marijuana nationwide — here’s why potheads are rejoicing",
-    "link": "https://nypost.com/2025/12/19/business/trump-just-legalized-marijuana-nationwide-heres-why-potheads-are-rejoicing/",
-    "source": "nypost",
-    "pubdate": "2025-12-19-14-44-18 +0000"
-  },
-  {
     "headline": "Europe to Lend $105 Billion to Ukraine, Without Touching Russian Funds",
     "link": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html",
     "source": "nyt",
@@ -3258,14 +3258,20 @@
     "pubdate": "2025-12-19-11-01-00 +0000"
   },
   {
-    "headline": "Secret sex abuse settlements keep public in the dark about big payouts at schools",
-    "link": "https://www.latimes.com/california/story/2025-12-19/school-districts-california-secret-settlements-childhood-sex-abuse-claims",
+    "headline": "Watchdogs warn L.A. County is undermining efforts at oversight of Sheriff's Department",
+    "link": "https://www.latimes.com/california/story/2025-12-19/la-county-sheriff-department-civilian-oversight",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
   {
-    "headline": "Watchdogs warn L.A. County is undermining efforts at oversight of Sheriff's Department",
-    "link": "https://www.latimes.com/california/story/2025-12-19/la-county-sheriff-department-civilian-oversight",
+    "headline": "In a divided America, Rob Reiner was a tenacious liberal who connected with conservatives",
+    "link": "https://www.latimes.com/california/story/2025-12-19/la-me-rob-reiner-hollywood-politics-reach",
+    "source": "latimes",
+    "pubdate": "2025-12-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Secret sex abuse settlements keep public in the dark about big payouts at schools",
+    "link": "https://www.latimes.com/california/story/2025-12-19/school-districts-california-secret-settlements-childhood-sex-abuse-claims",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
@@ -3278,12 +3284,6 @@
   {
     "headline": "Housing Tracker: Southern California home values drop in November",
     "link": "https://www.latimes.com/california/story/2025-12-19/housing-tracker-southern-california-home-values-drop-in-november",
-    "source": "latimes",
-    "pubdate": "2025-12-19-11-00-00 +0000"
-  },
-  {
-    "headline": "In a divided America, Rob Reiner was a tenacious liberal who connected with conservatives",
-    "link": "https://www.latimes.com/california/story/2025-12-19/la-me-rob-reiner-hollywood-politics-reach",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
@@ -4536,12 +4536,6 @@
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
   {
-    "headline": "Who's running the LAPD? Chief's style draws mixed reviews in first year",
-    "link": "https://www.latimes.com/california/story/2025-12-18/lapd-chief-jim-mcdonnells-first-year",
-    "source": "latimes",
-    "pubdate": "2025-12-18-11-00-00 +0000"
-  },
-  {
     "headline": "L.A. Councilmember John Lee hit with $138,000 fine in Las Vegas gift case",
     "link": "https://www.latimes.com/california/story/2025-12-18/la-councilmember-john-lee-hit-with-138-000-fine-in-las-vegas-gift-case",
     "source": "latimes",
@@ -4556,6 +4550,12 @@
   {
     "headline": "A chilling narrative of the Rob Reiner slayings is emerging: What we know",
     "link": "https://www.latimes.com/california/story/2025-12-18/rob-michele-reiner-slayings-clearer-narrative-emerging",
+    "source": "latimes",
+    "pubdate": "2025-12-18-11-00-00 +0000"
+  },
+  {
+    "headline": "Who's running the LAPD? Chief's style draws mixed reviews in first year",
+    "link": "https://www.latimes.com/california/story/2025-12-18/lapd-chief-jim-mcdonnells-first-year",
     "source": "latimes",
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
@@ -5382,30 +5382,6 @@
     "pubdate": "2025-12-17-11-01-18 +0000"
   },
   {
-    "headline": "For L.A.'s mayor, a Palisades recovery marked by missteps, reversals and delays",
-    "link": "https://www.latimes.com/california/story/2025-12-17/la-mayor-year-of-false-starts",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "L.A.'s hydrants ran dry during the fires. Residents are still demanding solutions",
-    "link": "https://www.latimes.com/environment/story/2025-12-17/la-fires-water-system",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "On a $1 houseboat, one of the Palisades fire's 'great underdogs' fights to stay afloat",
-    "link": "https://www.latimes.com/environment/story/2025-12-17/the-great-underdogs-of-the-palisades-fire-fight-to-stay-afloat",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: With his un-Christian Rob Reiner insults, Trump proves he's the real 'Meathead'",
-    "link": "https://www.latimes.com/california/story/2025-12-17/donald-trump-rob-reiner-insults-holidays",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
     "headline": "After Palisades failures, is LAFD prepared for the next major wildfire?",
     "link": "https://www.latimes.com/california/story/2025-12-17/after-palisades-failures-is-lafd-prepared-for-next-major-wildfire",
     "source": "latimes",
@@ -5414,24 +5390,6 @@
   {
     "headline": "Edison neglected maintenance of its aging transmission lines before the Jan. 7 fires. Now it's trying to catch up",
     "link": "https://www.latimes.com/environment/story/2025-12-17/edison-neglected-maintenance-of-its-aging-transmission-lines-before-jan-7-fires-now-its-trying-to-catch-up",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "'Both sides botched it.' Bass, in unguarded moment, rips responses to Palisades, Eaton fires",
-    "link": "https://www.latimes.com/california/story/2025-12-17/both-sides-botched-it-bass-rips-responses-to-palisades-eaton-fires",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "After the fires: A glance back at The Times' coverage of the Eaton and Palisades wildfires",
-    "link": "https://www.latimes.com/california/story/2025-12-17/after-fires-glance-back-at-times-coverage-of-eaton-palisades-wildfires",
-    "source": "latimes",
-    "pubdate": "2025-12-17-11-00-00 +0000"
-  },
-  {
-    "headline": "Reiner family tragedy sheds light on pain of families grappling with addiction",
-    "link": "https://www.latimes.com/science/story/2025-12-17/reiner-family-tragedy-sheds-light-on-pain-of-families-grappling-with-addiction",
     "source": "latimes",
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
@@ -5472,8 +5430,50 @@
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
   {
+    "headline": "After the fires: A glance back at The Times' coverage of the Eaton and Palisades wildfires",
+    "link": "https://www.latimes.com/california/story/2025-12-17/after-fires-glance-back-at-times-coverage-of-eaton-palisades-wildfires",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "Reiner family tragedy sheds light on pain of families grappling with addiction",
+    "link": "https://www.latimes.com/science/story/2025-12-17/reiner-family-tragedy-sheds-light-on-pain-of-families-grappling-with-addiction",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "'Both sides botched it.' Bass, in unguarded moment, rips responses to Palisades, Eaton fires",
+    "link": "https://www.latimes.com/california/story/2025-12-17/both-sides-botched-it-bass-rips-responses-to-palisades-eaton-fires",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "For L.A.'s mayor, a Palisades recovery marked by missteps, reversals and delays",
+    "link": "https://www.latimes.com/california/story/2025-12-17/la-mayor-year-of-false-starts",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
     "headline": "After the Fires: L.A.'s double disaster left thousands of scars, and the healing will take years",
     "link": "https://www.latimes.com/after-the-fires",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "On a $1 houseboat, one of the Palisades fire's 'great underdogs' fights to stay afloat",
+    "link": "https://www.latimes.com/environment/story/2025-12-17/the-great-underdogs-of-the-palisades-fire-fight-to-stay-afloat",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: With his un-Christian Rob Reiner insults, Trump proves he's the real 'Meathead'",
+    "link": "https://www.latimes.com/california/story/2025-12-17/donald-trump-rob-reiner-insults-holidays",
+    "source": "latimes",
+    "pubdate": "2025-12-17-11-00-00 +0000"
+  },
+  {
+    "headline": "L.A.'s hydrants ran dry during the fires. Residents are still demanding solutions",
+    "link": "https://www.latimes.com/environment/story/2025-12-17/la-fires-water-system",
     "source": "latimes",
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
@@ -5484,14 +5484,14 @@
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
   {
-    "headline": "Edison neglected maintenance of its aging transmission lines before the Jan. 7 fires. Now it's trying to catch up",
-    "link": "https://www.latimes.com/environment/story/2025-12-17/edison-neglected-maintenance-of-its-aging-transmission-lines-before-jan-7-fires-now-its-trying-to-catch-up",
+    "headline": "Hiltzik: Republicans don't have a healthcare plan, just a plan to kill Obamacare",
+    "link": "https://www.latimes.com/business/story/2025-12-17/republicans-dont-have-healthcare-plan-just-a-plan-to-kill-obamacare",
     "source": "latimes",
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Republicans don't have a healthcare plan, just a plan to kill Obamacare",
-    "link": "https://www.latimes.com/business/story/2025-12-17/republicans-dont-have-healthcare-plan-just-a-plan-to-kill-obamacare",
+    "headline": "Edison neglected maintenance of its aging transmission lines before the Jan. 7 fires. Now it's trying to catch up",
+    "link": "https://www.latimes.com/environment/story/2025-12-17/edison-neglected-maintenance-of-its-aging-transmission-lines-before-jan-7-fires-now-its-trying-to-catch-up",
     "source": "latimes",
     "pubdate": "2025-12-17-11-00-00 +0000"
   },
@@ -5970,26 +5970,26 @@
     "pubdate": "2025-12-16-12-54-00 +0000"
   },
   {
-    "headline": "A famous father, a troubled son: How addiction tormented the Reiner family",
-    "link": "https://www.latimes.com/california/story/2025-12-16/why-nick-reiner-struggled-drugs-mental-health-before-arrest",
-    "source": "latimes",
-    "pubdate": "2025-12-16-11-00-00 +0000"
-  },
-  {
     "headline": "Leaders of cult-like SoCal group charged with murdering missing member and a 4-year-old",
     "link": "https://www.latimes.com/california/story/2025-12-16/leaders-of-cult-like-socal-group-charged-with-murder",
     "source": "latimes",
     "pubdate": "2025-12-16-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Serious backlash to a Netflix/Warner Bros deal may come from European regulators",
-    "link": "https://www.latimes.com/business/story/2025-12-16/serious-backlash-to-netflix-warner-bros-deal-may-come-from-european-regulators",
+    "headline": "A famous father, a troubled son: How addiction tormented the Reiner family",
+    "link": "https://www.latimes.com/california/story/2025-12-16/why-nick-reiner-struggled-drugs-mental-health-before-arrest",
     "source": "latimes",
     "pubdate": "2025-12-16-11-00-00 +0000"
   },
   {
     "headline": "Big media and sports deals soared in 2025, report finds",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-16/big-media-sports-deals-in-2025-what-to-know",
+    "source": "latimes",
+    "pubdate": "2025-12-16-11-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: Serious backlash to a Netflix/Warner Bros deal may come from European regulators",
+    "link": "https://www.latimes.com/business/story/2025-12-16/serious-backlash-to-netflix-warner-bros-deal-may-come-from-european-regulators",
     "source": "latimes",
     "pubdate": "2025-12-16-11-00-00 +0000"
   },
