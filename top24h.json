@@ -1,45 +1,38 @@
 [
   {
-    "score": 83,
+    "score": 79,
     "pubdate": "2025-12-21-01-59-17 +0000",
     "source": "wapo",
     "headline": "Coast Guard boards oil tanker leaving Venezuela amid Trump’s blockade",
     "link": "https://www.washingtonpost.com/national-security/2025/12/20/venezuela-boats-coast-guard/"
   },
   {
-    "score": 60,
-    "pubdate": "2025-12-21-03-42-00 +0000",
-    "source": "wsj",
-    "headline": "Bill Clinton, Michael Jackson and other celebrities make appearances in the first batch of files from criminal investigations into Jeffrey Epstein",
-    "link": "https://www.wsj.com/politics/policy/five-takeaways-from-the-newly-released-epstein-files-936dd5a1"
+    "score": 54,
+    "pubdate": "2025-12-20-20-11-10 +0000",
+    "source": "nyt",
+    "headline": "Bill Clinton Photos in Epstein Files Show He Can’t Escape Scandal",
+    "link": "https://www.nytimes.com/2025/12/20/us/politics/bill-clinton-epstein-files-photos-scandal.html"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-12-21-08-30-09 +0000",
+    "source": "bbc",
+    "headline": "Australian PM announces intelligence review as country mourns Bondi attack",
+    "link": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
+    "pubdate": "2025-12-20-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Carney lays out security 'guardrails' for China as Canada looks to build up relationship",
+    "link": "https://www.cbc.ca/news/politics/canada-china-security-carney-9.7022515?cmp=rss"
+  },
+  {
+    "score": 36,
     "pubdate": "2025-12-20-17-07-47 +0000",
     "source": "nypost",
     "headline": "Jordan reveals air force joined US strikes on Islamic State in Syria as new footage is released",
     "link": "https://nypost.com/2025/12/20/world-news/jordan-says-air-force-joined-us-strikes-on-islamic-state-in-syria/"
-  },
-  {
-    "score": 36,
-    "pubdate": "2025-12-20-16-36-01 +0000",
-    "source": "nypost",
-    "headline": "Former Hamas hostage warned leaders of rising antisemitism months before deadly Bondi Beach shooting",
-    "link": "https://nypost.com/2025/12/20/world-news/former-hamas-hostage-warned-leaders-of-rising-antisemitism-months-before-deadly-bondi-beach-shooting/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-12-20-22-20-15 +0000",
-    "source": "nypost",
-    "headline": "Trump endorses Bruce Blakeman for NY governor — a day after GOP Rep. Elise Stefanik dropped out of race",
-    "link": "https://nypost.com/2025/12/20/us-news/trump-endorses-bruce-blakeman-for-ny-governor-a-day-after-gop-rep-elise-stefanik-dropped-out-of-race/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2025-12-20-15-48-19 +0000",
-    "source": "nypost",
-    "headline": "7 elephants killed after high-speed train collides with massive herd crossing railroad tracks",
-    "link": "https://nypost.com/2025/12/20/world-news/high-speed-passenger-train-collides-with-massive-herd-kills-7-elephants-crossing-railway-tracks-in-india/"
   },
   {
     "score": 34,
@@ -50,23 +43,30 @@
   },
   {
     "score": 33,
-    "pubdate": "2025-12-21-00-25-22 +0000",
-    "source": "bbc",
-    "headline": "Neither Russia nor France: One West African country walks a diplomatic tightrope",
-    "link": "https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2025-12-21-04-30-13 +0000",
+    "source": "nypost",
+    "headline": "San Francisco power outage left 130,000 in the dark as self-driving cars stalled in middle of streets",
+    "link": "https://nypost.com/2025/12/20/us-news/san-francisco-power-outage-leaves-130000-in-the-dark/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-12-20-15-48-19 +0000",
+    "source": "nypost",
+    "headline": "7 elephants killed after high-speed train collides with massive herd crossing railroad tracks",
+    "link": "https://nypost.com/2025/12/20/world-news/high-speed-passenger-train-collides-with-massive-herd-kills-7-elephants-crossing-railway-tracks-in-india/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2025-12-20-19-14-10 +0000",
+    "source": "nyt",
+    "headline": "Cynthia Lummis, a One-Term G.O.P. Senator, Will Not Seek Re-election",
+    "link": "https://www.nytimes.com/2025/12/20/us/politics/cynthia-lummis-reelection.html"
   },
   {
     "score": 28,
-    "pubdate": "2025-12-21-06-10-47 +0000",
-    "source": "bbc",
-    "headline": "Gunmen kill nine in South Africa tavern attack",
-    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 27,
-    "pubdate": "2025-12-21-06-41-37 +0000",
-    "source": "nyt",
-    "headline": "Power Returns to Most of San Francisco After Widespread Outage",
-    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html"
+    "pubdate": "2025-12-20-16-36-01 +0000",
+    "source": "nypost",
+    "headline": "Former Hamas hostage warned leaders of rising antisemitism months before deadly Bondi Beach shooting",
+    "link": "https://nypost.com/2025/12/20/world-news/former-hamas-hostage-warned-leaders-of-rising-antisemitism-months-before-deadly-bondi-beach-shooting/"
   }
 ]
