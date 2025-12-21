@@ -1,5 +1,89 @@
 [
   {
+    "headline": "White House Chides Smithsonian for Delayed Turnover of Programming Records",
+    "link": "https://www.nytimes.com/2025/12/19/us/politics/smithsonian-records-trump.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-50-51 +0000"
+  },
+  {
+    "headline": "Haunted by ICE and Cancer, a Firefighter Perseveres for His Son",
+    "link": "https://www.nytimes.com/2025/12/21/us/wildfires-firefighters-immigration.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-49-19 +0000"
+  },
+  {
+    "headline": "US seizes second oil tanker off Venezuela's coast",
+    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-45-49 +0000"
+  },
+  {
+    "headline": "US seizes second oil tanker off Venezuela's coast",
+    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-45-49 +0000"
+  },
+  {
+    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
+    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-34-30 +0000"
+  },
+  {
+    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
+    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-34-30 +0000"
+  },
+  {
+    "headline": "Mamdani Inauguration to Usher in ‘New Era’ With Broadway Block Party",
+    "link": "https://www.nytimes.com/2025/12/21/nyregion/nyc-zohran-mamdani-inauguration-block-party.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-29-21 +0000"
+  },
+  {
+    "headline": "Michele Singer Reiner: A Life Rooted in Activism and Listening to Others",
+    "link": "https://www.nytimes.com/2025/12/21/us/michele-singer-reiner.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-15-27-15 +0000"
+  },
+  {
+    "headline": "Gunmen kill nine in South Africa tavern attack",
+    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-25-49 +0000"
+  },
+  {
+    "headline": "Gunmen kill nine in South Africa tavern attack",
+    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-21-15-25-49 +0000"
+  },
+  {
+    "headline": "FBI was warned that Jeffrey Epstein was into child porn — but ignored it for 10 years, docs show",
+    "link": "https://nypost.com/2025/12/21/us-news/fbi-ignored-jeffrey-epstein-child-porn-warning-for-10-years-docs-show/",
+    "source": "nypost",
+    "pubdate": "2025-12-21-14-58-54 +0000"
+  },
+  {
+    "headline": "FBI was warned that Jeffrey Epstein was into child porn — but ignored it for 10 years, docs show",
+    "link": "https://nypost.com/2025/12/21/us-news/fbi-ignored-jeffrey-epstein-child-porn-warning-for-10-years-docs-show/",
+    "source": "nypost",
+    "pubdate": "2025-12-21-14-58-54 +0000"
+  },
+  {
+    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
+    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-14-56-01 +0000"
+  },
+  {
+    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
+    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
+    "source": "nyt",
+    "pubdate": "2025-12-21-14-56-01 +0000"
+  },
+  {
     "headline": "9 dead, 10 wounded after multiple gunman open fire in South African pub",
     "link": "https://nypost.com/2025/12/21/world-news/9-dead-10-wounded-after-multiple-gunman-open-fire-in-south-african-pub/",
     "source": "nypost",
@@ -66,12 +150,6 @@
     "pubdate": "2025-12-21-14-00-00 +0000"
   },
   {
-    "headline": "Michele Singer Reiner: A Life Rooted in Activism and Listening to Others",
-    "link": "https://www.nytimes.com/2025/12/21/us/michele-singer-reiner.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-13-57-41 +0000"
-  },
-  {
     "headline": "Thousands gather at Bondi Beach to mourn victims of antisemitic attack",
     "link": "https://www.cbc.ca/news/world/thousands-gather-bondi-beach-mourn-victims-9.7024424?cmp=rss",
     "source": "cbc",
@@ -100,18 +178,6 @@
     "link": "https://nypost.com/2025/12/21/us-news/nypd-officer-shoots-kills-box-cutter-wielding-madman-in-front-of-his-parents/",
     "source": "nypost",
     "pubdate": "2025-12-21-12-34-16 +0000"
-  },
-  {
-    "headline": "Gunmen kill nine in South Africa tavern attack",
-    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-12-28-13 +0000"
-  },
-  {
-    "headline": "Gunmen kill nine in South Africa tavern attack",
-    "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-12-28-13 +0000"
   },
   {
     "headline": "Rights groups condemn new record number of executions in Saudi Arabia",
@@ -366,12 +432,6 @@
     "pubdate": "2025-12-21-10-00-40 +0000"
   },
   {
-    "headline": "‘It’s Just Us’: The Firefighter, His Son and a Treacherous Choice",
-    "link": "https://www.nytimes.com/2025/12/21/us/wildfires-firefighters-immigration.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-10-00-38 +0000"
-  },
-  {
     "headline": "Why investing in a Trump Account could complicate your taxes",
     "link": "https://www.washingtonpost.com/business/2025/12/22/trump-account-taxes-irs/",
     "source": "wapo",
@@ -400,18 +460,6 @@
     "link": "https://www.nytimes.com/2025/12/21/us/politics/supreme-court-mail-in-ballots-election-day.html",
     "source": "nyt",
     "pubdate": "2025-12-21-10-00-13 +0000"
-  },
-  {
-    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
-    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-10-00-11 +0000"
-  },
-  {
-    "headline": "Move Aside, Snowflake: ‘Theater Kid’ Is the New Go-To Political Insult",
-    "link": "https://www.nytimes.com/2025/12/21/us/politics/theater-kid-insult-politics.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-10-00-11 +0000"
   },
   {
     "headline": "In the Year of the Snake, China is charmed by ‘Zootopia 2’ pit viper Gary",
@@ -472,18 +520,6 @@
     "link": "https://www.nytimes.com/2025/12/21/world/asia/sydney-philippines-akram.html",
     "source": "nyt",
     "pubdate": "2025-12-21-09-40-06 +0000"
-  },
-  {
-    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
-    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-09-30-37 +0000"
-  },
-  {
-    "headline": "Power Restored for Most of San Francisco After Widespread Outage",
-    "link": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
-    "source": "nyt",
-    "pubdate": "2025-12-21-09-30-37 +0000"
   },
   {
     "headline": "Postcode glitch freezes pensioners out of winter heating benefit",
@@ -628,12 +664,6 @@
     "link": "https://www.startribune.com/vikings-team-plane-mechanical-issue-msp-newark-new-york-giants/601550508",
     "source": "startribune",
     "pubdate": "2025-12-21-05-28-51 +0000"
-  },
-  {
-    "headline": "Ejection reveals a side of Timberwolves’ Chris Finch fans don’t always see",
-    "link": "https://www.startribune.com/ejection-reveals-a-side-of-timberwolves-chris-finch-fans-dont-always-see/601476308",
-    "source": "startribune",
-    "pubdate": "2025-12-21-05-28-26 +0000"
   },
   {
     "headline": "The Pompidou Center Has Been Emptied of Its Art. We Watched It Happen.",
@@ -882,18 +912,6 @@
     "pubdate": "2025-12-21-00-52-00 +0000"
   },
   {
-    "headline": "US seizes second oil tanker off Venezuela's coast",
-    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-00-44-40 +0000"
-  },
-  {
-    "headline": "US seizes second oil tanker off Venezuela's coast",
-    "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-21-00-44-40 +0000"
-  },
-  {
     "headline": "Cat lost during Hurricane Helene miraculously reunited with family after 443 days: ‘A Christmas miracle’",
     "link": "https://nypost.com/2025/12/20/us-news/cat-lost-during-hurricane-helene-miraculously-reunited-with-family-after-443-days/",
     "source": "nypost",
@@ -1012,12 +1030,6 @@
     "link": "https://nypost.com/2025/12/20/us-news/anti-zionist-mamdani-celebrates-hanukkah-with-jewish-actor-mandy-patinkin/",
     "source": "nypost",
     "pubdate": "2025-12-20-22-36-28 +0000"
-  },
-  {
-    "headline": "Relics from SS Edmund Fitzgerald’s catastrophic shipwreck sell at auction for $150K",
-    "link": "https://nypost.com/2025/12/20/us-news/relics-from-ss-edmund-fitzgeralds-catastrophic-shipwreck-sell-at-auction-for-150000/",
-    "source": "nypost",
-    "pubdate": "2025-12-20-22-36-18 +0000"
   },
   {
     "headline": "Russian strike kills 8 in Ukraine's Odesa as Kremlin envoy heads to U.S. for truce talks",
@@ -1320,12 +1332,6 @@
     "pubdate": "2025-12-20-16-36-01 +0000"
   },
   {
-    "headline": "Greg Biffle’s Plane Turned Back Minutes After Takeoff",
-    "link": "https://www.nytimes.com/2025/12/19/us/politics/greg-biffle-plane-crash.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-16-30-50 +0000"
-  },
-  {
     "headline": "Pakistani court sentences former prime minister and wife to 17 years in prison for selling state gifts",
     "link": "https://nypost.com/2025/12/20/world-news/pakistani-court-sentences-former-prime-minister-and-wife-to-17-years/",
     "source": "nypost",
@@ -1354,47 +1360,5 @@
     "link": "https://www.washingtonpost.com/national-security/2025/12/19/us-strikes-syria/",
     "source": "wapo",
     "pubdate": "2025-12-20-16-04-37 +0000"
-  },
-  {
-    "headline": "Trump economist expects ‘massive’ tax refunds, predicts families will save thousands",
-    "link": "https://nypost.com/2025/12/20/business/trump-economist-expects-massive-tax-refunds-predicts-families-will-save-thousands/",
-    "source": "nypost",
-    "pubdate": "2025-12-20-15-50-30 +0000"
-  },
-  {
-    "headline": "7 elephants killed after high-speed train collides with massive herd crossing railroad tracks",
-    "link": "https://nypost.com/2025/12/20/world-news/high-speed-passenger-train-collides-with-massive-herd-kills-7-elephants-crossing-railway-tracks-in-india/",
-    "source": "nypost",
-    "pubdate": "2025-12-20-15-48-19 +0000"
-  },
-  {
-    "headline": "Israel’s Benjamin Netanyahu expected to pitch Trump on more Iran strikes during Mar-a-Lago meeting: report",
-    "link": "https://nypost.com/2025/12/20/world-news/israelis-benjamin-netanyahu-set-to-talk-trump-iran-strikes-at-mar-a-lago-meeting-report/",
-    "source": "nypost",
-    "pubdate": "2025-12-20-15-32-25 +0000"
-  },
-  {
-    "headline": "Hezbollah Is Down, but Not Out, as Lebanon Faces Pressure to Disarm It",
-    "link": "https://www.nytimes.com/2025/12/20/world/middleeast/hezbollah-lebanon-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-15-05-34 +0000"
-  },
-  {
-    "headline": "Hezbollah Is Down, but Not Out, as Lebanon Faces Pressure to Disarm It",
-    "link": "https://www.nytimes.com/2025/12/20/world/middleeast/hezbollah-lebanon-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-15-05-34 +0000"
-  },
-  {
-    "headline": "Luigi Mangione‘s lawyers say AG Pam Bondi's decision to seek death penalty a 'profound conflict of interest'",
-    "link": "https://www.cbc.ca/news/world/mangione-bondi-conflict-of-interest-9.7024092?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-20-14-56-39 +0000"
-  },
-  {
-    "headline": "Afcon to be held every four years from 2028",
-    "link": "https://www.bbc.com/sport/football/articles/cgjnx6x4281o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-20-14-55-55 +0000"
   }
 ]
