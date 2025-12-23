@@ -1,20 +1,20 @@
 [
   {
-    "score": 241,
+    "score": 237,
     "pubdate": "2025-12-22-23-29-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced that the Navy will build a new “Trump-class” battleship, which will become the centerpiece of his vision for a new “Golden Fleet”",
     "link": "https://www.wsj.com/politics/national-security/trump-hegseth-new-warship-the-battleship-63367854"
   },
   {
-    "score": 106,
+    "score": 109,
     "pubdate": "2025-12-23-02-27-00 +0000",
     "source": "wsj",
     "headline": "The U.S.’s pursuit of oil tankers around Venezuela is part of a new legal strategy under the Trump administration to seize ships that transport black market oil around the world, according to Justice Department officials",
     "link": "https://www.wsj.com/politics/national-security/u-s-targeting-illicit-oil-tankers-in-bid-to-stymie-global-black-market-cf379ac4"
   },
   {
-    "score": 84,
+    "score": 82,
     "pubdate": "2025-12-22-08-33-37 +0000",
     "source": "nypost",
     "headline": "Russian general Fanil Sarvarov dead in Moscow car bombing — third high-profile military official killed this year",
@@ -28,32 +28,25 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-22/larry-ellison-to-personally-back-paramount-bid-for-warner"
   },
   {
-    "score": 61,
+    "score": 62,
     "pubdate": "2025-12-23-03-56-42 +0000",
     "source": "bbc",
     "headline": "Brown University places its police chief on leave after mass shooting attack",
     "link": "https://www.bbc.com/news/articles/cy0p7d74ywgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 56,
-    "pubdate": "2025-12-22-19-16-47 +0000",
-    "source": "nypost",
-    "headline": "Bill Clinton accuses Trump’s DOJ of cover-up in Epstein files release: ‘We need no such protection’",
-    "link": "https://nypost.com/2025/12/22/us-news/bill-clintons-office-claims-epstein-files-cover-up-demands-full-release-after-damaging-half-naked-pics/"
-  },
-  {
     "score": 55,
-    "pubdate": "2025-12-22-15-49-00 +0000",
-    "source": "wsj",
-    "headline": "CBS News Editor Bari Weiss Defends Decision to Pull ‘60 Minutes’ Segment",
-    "link": "https://www.wsj.com/business/media/cbs-news-editor-bari-weiss-defends-decision-to-pull-60-minutes-segment-31ace614?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 54,
     "pubdate": "2025-12-23-03-30-06 +0000",
     "source": "nypost",
     "headline": "JD Vance trains with Navy SEALs in California: ‘Feel like I got hit by a freight train’",
     "link": "https://nypost.com/2025/12/22/us-news/jd-vance-trains-with-navy-seals-in-california-feel-like-i-got-hit-by-a-freight-train/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2025-12-22-19-16-47 +0000",
+    "source": "nypost",
+    "headline": "Bill Clinton accuses Trump’s DOJ of cover-up in Epstein files release: ‘We need no such protection’",
+    "link": "https://nypost.com/2025/12/22/us-news/bill-clintons-office-claims-epstein-files-cover-up-demands-full-release-after-damaging-half-naked-pics/"
   },
   {
     "score": 50,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html"
   },
   {
+    "score": 50,
+    "pubdate": "2025-12-22-15-49-00 +0000",
+    "source": "wsj",
+    "headline": "CBS News Editor Bari Weiss Defends Decision to Pull ‘60 Minutes’ Segment",
+    "link": "https://www.wsj.com/business/media/cbs-news-editor-bari-weiss-defends-decision-to-pull-60-minutes-segment-31ace614?mod=pls_whats_news_us_business_f"
+  },
+  {
     "score": 42,
-    "pubdate": "2025-12-22-14-49-17 +0000",
-    "source": "nypost",
-    "headline": "Jimmy Kimmel to make Christmas Day address on UK TV saying 2025 a ‘really great year’ for fascism",
-    "link": "https://nypost.com/2025/12/22/media/jimmy-kimmel-to-make-christmas-address-on-uk-tv-saying-2025-great-year-for-fascism/"
+    "pubdate": "2025-12-22-19-01-17 +0000",
+    "source": "nyt",
+    "headline": "What to Know About Louisiana Gov. Jeff Landry, Who Was Named Greenland Envoy",
+    "link": "https://www.nytimes.com/2025/12/22/us/jeff-landry-greenland-envoy-trump.html"
   }
 ]
