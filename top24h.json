@@ -1,6 +1,6 @@
 [
   {
-    "score": 244,
+    "score": 236,
     "pubdate": "2025-12-22-23-29-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced that the Navy will build a new “Trump-class” battleship, which will become the centerpiece of his vision for a new “Golden Fleet”",
@@ -14,13 +14,6 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-targeting-illicit-oil-tankers-in-bid-to-stymie-global-black-market-cf379ac4"
   },
   {
-    "score": 73,
-    "pubdate": "2025-12-22-15-39-36 +0000",
-    "source": "wapo",
-    "headline": "Car bomb in Moscow kills senior Russian general, third such attack in a year",
-    "link": "https://www.washingtonpost.com/world/2025/12/22/russia-general-car-exploded-fanil-sarvarov/"
-  },
-  {
     "score": 57,
     "pubdate": "2025-12-22-19-16-47 +0000",
     "source": "nypost",
@@ -28,39 +21,25 @@
     "link": "https://nypost.com/2025/12/22/us-news/bill-clintons-office-claims-epstein-files-cover-up-demands-full-release-after-damaging-half-naked-pics/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-12-23-03-30-06 +0000",
+    "score": 53,
+    "pubdate": "2025-12-23-10-04-47 +0000",
+    "source": "bbc",
+    "headline": "Call of Duty co-creator Vince Zampella dies in California car crash",
+    "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2025-12-23-03-56-42 +0000",
+    "source": "bbc",
+    "headline": "Brown University places its police chief on leave after mass shooting attack",
+    "link": "https://www.bbc.com/news/articles/cy0p7d74ywgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 48,
+    "pubdate": "2025-12-22-20-23-24 +0000",
     "source": "nypost",
-    "headline": "JD Vance trains with Navy SEALs in California: ‘Feel like I got hit by a freight train’",
-    "link": "https://nypost.com/2025/12/22/us-news/jd-vance-trains-with-navy-seals-in-california-feel-like-i-got-hit-by-a-freight-train/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-12-23-05-00-09 +0000",
-    "source": "nyt",
-    "headline": "China Delays Plans for Mass Production of Self-Driving Cars After Accident",
-    "link": "https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html"
-  },
-  {
-    "score": 49,
-    "pubdate": "2025-12-23-03-40-21 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Orders Nearly 30 U.S. Ambassadors to Leave Their Posts",
-    "link": "https://www.nytimes.com/2025/12/22/us/politics/trump-administration-ambassadors-posts.html"
-  },
-  {
-    "score": 47,
-    "pubdate": "2025-12-22-23-38-39 +0000",
-    "source": "nypost",
-    "headline": "Warner Bros. Discovery to review Larry Ellison’s offer to guarantee Paramount Skydance’s $78B takeover bid: sources",
-    "link": "https://nypost.com/2025/12/22/media/warner-bros-discovery-to-review-larry-ellisons-offer-to-guarantee-paramount-skydances-78b-takeover-bid-sources/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-12-22-15-49-00 +0000",
-    "source": "wsj",
-    "headline": "CBS News Editor Bari Weiss Defends Decision to Pull ‘60 Minutes’ Segment",
-    "link": "https://www.wsj.com/business/media/cbs-news-editor-bari-weiss-defends-decision-to-pull-60-minutes-segment-31ace614?mod=pls_whats_news_us_business_f"
+    "headline": "JD Vance gets brutally honest about odds of resolving Ukraine War: ‘Good chance we won’t’",
+    "link": "https://nypost.com/2025/12/22/us-news/jd-vance-gets-brutally-honest-about-odds-of-resolving-ukraine-war-good-chance-we-wont/"
   },
   {
     "score": 44,
@@ -68,5 +47,26 @@
     "source": "bbc",
     "headline": "Five dead after plane carrying child burns victim crashes in Texas",
     "link": "https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-12-23-05-00-09 +0000",
+    "source": "nyt",
+    "headline": "China Delays Plans for Mass Production of Self-Driving Cars After Accident",
+    "link": "https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-12-22-16-52-46 +0000",
+    "source": "nypost",
+    "headline": "Trump admin scraps 5 offshore wind farms — including New York projects — citing ‘national security risks’",
+    "link": "https://nypost.com/2025/12/22/us-news/trump-admin-scraps-5-offshore-wind-farms-including-new-york-project-citing-national-security-risks/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2025-12-22-20-39-00 +0000",
+    "source": "wsj",
+    "headline": "Former Vice President Mike Pence’s political group is poaching top officials from the conservative Heritage Foundation amid growing ideological fights within the conservative movement",
+    "link": "https://www.wsj.com/politics/elections/top-heritage-officials-flee-to-mike-pences-nonprofit-as-think-tank-fractures-28765f2b"
   }
 ]
