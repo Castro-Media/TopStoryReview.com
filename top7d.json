@@ -1,6 +1,6 @@
 [
   {
-    "score": 487,
+    "score": 485,
     "pubdate": "2025-12-22-23-29-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced that the Navy will build a new “Trump-class” battleship, which will become the centerpiece of his vision for a new “Golden Fleet”",
@@ -57,16 +57,16 @@
   },
   {
     "score": 98,
-    "pubdate": "2025-12-17-20-04-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Dan Newhouse, one of 10 House Republicans who voted to impeach President Trump in 2021, said he won’t run for re-election next year in his conservative Washington district",
-    "link": "https://www.wsj.com/politics/elections/dan-newhouse-quit-congress-89537060"
-  },
-  {
-    "score": 98,
     "pubdate": "2025-12-23-03-56-42 +0000",
     "source": "bbc",
     "headline": "Brown University places its police chief on leave after mass shooting attack",
     "link": "https://www.bbc.com/news/articles/cy0p7d74ywgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 98,
+    "pubdate": "2025-12-17-20-04-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Dan Newhouse, one of 10 House Republicans who voted to impeach President Trump in 2021, said he won’t run for re-election next year in his conservative Washington district",
+    "link": "https://www.wsj.com/politics/elections/dan-newhouse-quit-congress-89537060"
   }
 ]
