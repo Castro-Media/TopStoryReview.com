@@ -1,13 +1,13 @@
 [
   {
-    "score": 225,
+    "score": 245,
     "pubdate": "2025-12-22-23-29-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced that the Navy will build a new “Trump-class” battleship, which will become the centerpiece of his vision for a new “Golden Fleet”",
     "link": "https://www.wsj.com/politics/national-security/trump-hegseth-new-warship-the-battleship-63367854"
   },
   {
-    "score": 107,
+    "score": 109,
     "pubdate": "2025-12-23-02-27-00 +0000",
     "source": "wsj",
     "headline": "The U.S.’s pursuit of oil tankers around Venezuela is part of a new legal strategy under the Trump administration to seize ships that transport black market oil around the world, according to Justice Department officials",
@@ -21,14 +21,14 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-22/larry-ellison-to-personally-back-paramount-bid-for-warner"
   },
   {
-    "score": 63,
+    "score": 71,
     "pubdate": "2025-12-22-15-39-36 +0000",
     "source": "wapo",
     "headline": "Car bomb in Moscow kills senior Russian general, third such attack in a year",
     "link": "https://www.washingtonpost.com/world/2025/12/22/russia-general-car-exploded-fanil-sarvarov/"
   },
   {
-    "score": 54,
+    "score": 53,
     "pubdate": "2025-12-23-05-00-08 +0000",
     "source": "nyt",
     "headline": "China Delays Plans for Mass Production of Self-Driving Cars After Accident",
@@ -40,13 +40,6 @@
     "source": "nypost",
     "headline": "JD Vance trains with Navy SEALs in California: ‘Feel like I got hit by a freight train’",
     "link": "https://nypost.com/2025/12/22/us-news/jd-vance-trains-with-navy-seals-in-california-feel-like-i-got-hit-by-a-freight-train/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2025-12-22-19-16-47 +0000",
-    "source": "nypost",
-    "headline": "Bill Clinton accuses Trump’s DOJ of cover-up in Epstein files release: ‘We need no such protection’",
-    "link": "https://nypost.com/2025/12/22/us-news/bill-clintons-office-claims-epstein-files-cover-up-demands-full-release-after-damaging-half-naked-pics/"
   },
   {
     "score": 50,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2025/12/22/us/politics/trump-administration-ambassadors-posts.html"
   },
   {
-    "score": 41,
-    "pubdate": "2025-12-22-19-01-17 +0000",
-    "source": "nyt",
-    "headline": "What to Know About Louisiana Gov. Jeff Landry, Who Was Named Greenland Envoy",
-    "link": "https://www.nytimes.com/2025/12/22/us/jeff-landry-greenland-envoy-trump.html"
+    "score": 47,
+    "pubdate": "2025-12-22-19-46-03 +0000",
+    "source": "nypost",
+    "headline": "AG Pam Bondi threatened with fines for ‘coverup’ of ‘dozens’ of Epstein FBI witness docs  — ‘back up plan’ in works",
+    "link": "https://nypost.com/2025/12/22/us-news/thomas-massie-teases-back-up-plan-to-out-jeffrey-epstein-accomplices/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2025-12-23-01-44-54 +0000",
+    "source": "nypost",
+    "headline": "At least 2 people killed in Mexican Navy plane crash in Texas — 1-year-old medical patient was aboard",
+    "link": "https://nypost.com/2025/12/22/us-news/at-least-2-people-killed-in-mexican-navy-plane-crash-near-galveston-texas/"
   }
 ]
