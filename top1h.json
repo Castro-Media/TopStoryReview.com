@@ -1,44 +1,72 @@
 [
   {
-    "score": 27,
-    "pubdate": "2025-12-24-13-00-00 +0000",
+    "score": 20,
+    "pubdate": "2025-12-24-14-40-37 +0000",
+    "source": "nyt",
+    "headline": "Zelensky Open to Pulling Back Troops in Eastern Ukraine to Reach Peace Deal With Russia",
+    "link": "https://www.nytimes.com/2025/12/24/world/europe/zelensky-demilitarized-zone-offer.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2025-12-24-14-54-15 +0000",
     "source": "nypost",
-    "headline": "Famous ‘Ornament King’ declares bankruptcy days before Christmas over ‘legal nightmare’ that’s left him ‘shattered’",
-    "link": "https://nypost.com/2025/12/24/us-news/ornament-king-declares-bankruptcy-days-before-christmas-over-legal-nightmare/"
+    "headline": "Infamous sex club founder who outed Hunter Biden as member said he was ‘blacklisted’ because he ‘angered a protected ecosystem’",
+    "link": "https://nypost.com/2025/12/24/us-news/infamous-sex-club-founder-who-outed-hunter-biden-as-member-said-he-was-blacklisted-because-he-angered-a-protected-ecosystem/"
   },
   {
-    "score": 21,
-    "pubdate": "2025-12-24-12-57-47 +0000",
+    "score": 15,
+    "pubdate": "2025-12-24-14-24-39 +0000",
     "source": "nyt",
-    "headline": "They Seek to Curb Online Hate. The U.S. Accuses Them of Censorship.",
-    "link": "https://www.nytimes.com/2025/12/24/business/europe-us-online-censorship-free-speech.html"
+    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
+    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html"
   },
   {
-    "score": 7,
-    "pubdate": "2025-12-24-13-00-45 +0000",
-    "source": "wapo",
-    "headline": "Man sings Christmas songs for 42 hours straight, attempts world record",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/12/24/christmas-song-carol-world-record/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-12-24-13-00-00 +0000",
-    "source": "nypost",
-    "headline": "Famous ‘Ornament King’ declares bankruptcy days before Christmas over ‘legal nightmare’ that’s left him ‘shattered’",
-    "link": "https://nypost.com/2025/12/24/us-news/ornament-king-declares-bankruptcy-days-before-christmas-over-legal-nightmare/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2025-12-24-12-57-47 +0000",
+    "score": 14,
+    "pubdate": "2025-12-24-14-43-05 +0000",
     "source": "nyt",
-    "headline": "They Seek to Curb Online Hate. The U.S. Accuses Them of Censorship.",
-    "link": "https://www.nytimes.com/2025/12/24/business/europe-us-online-censorship-free-speech.html"
+    "headline": "Long Carrier Deployment Projects U.S. Strength, and Carries Costs",
+    "link": "https://www.nytimes.com/2025/12/24/us/politics/aircraft-carrier-deployment-caribbean-costs.html"
   },
   {
-    "score": 0,
-    "pubdate": "2025-12-24-12-57-47 +0000",
+    "score": 9,
+    "pubdate": "2025-12-24-14-53-17 +0000",
+    "source": "cbc",
+    "headline": "Canada needs to stand firm as trade talks approach, says Unifor president",
+    "link": "https://www.cbc.ca/news/politics/canada-trade-talks-approach-payne-9.7027409?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-24-14-49-00 +0000",
+    "source": "wsj",
+    "headline": "Armandino Batali, Seattle Chef Who Turned to Salami After Working at Boeing, Dies at 88",
+    "link": "https://www.wsj.com/arts-culture/food-cooking/armandino-batali-dead-9ed03802?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-24-14-11-48 +0000",
     "source": "nyt",
-    "headline": "They Seek to Curb Online Hate. The U.S. Accuses Them of Censorship.",
-    "link": "https://www.nytimes.com/2025/12/24/business/europe-us-online-censorship-free-speech.html"
+    "headline": "ICE Sweeps Into Ohio, Stirring Fear Among Somalis and Other Immigrants",
+    "link": "https://www.nytimes.com/2025/12/24/us/ice-columbus-ohio-somalis-immigrants.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2025-12-24-14-21-57 +0000",
+    "source": "bbc",
+    "headline": "Busiest ever Christmas Eve for air travel, says civil aviation body",
+    "link": "https://www.bbc.com/news/articles/c2dzw06g1ydo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-24-14-13-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Futures Edge Up on Geopolitical Risk Premium",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-slips-prices-likely-to-remain-volatile-b39e34fd?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2025-12-24-14-29-56 +0000",
+    "source": "nyt",
+    "headline": "Mamdani Names Fire Commissioner, but Comments From the Former One Linger",
+    "link": "https://www.nytimes.com/2025/12/23/nyregion/zohran-mamdani-fire-commissioner.html"
   }
 ]
