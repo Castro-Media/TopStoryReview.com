@@ -1,33 +1,99 @@
 [
   {
+    "headline": "Pennsylvania Nursing Home Explosion Kills 2",
+    "link": "https://www.nytimes.com/2025/12/23/us/explosion-bristol-nursing-home.html",
+    "source": "nyt",
+    "pubdate": "2025-12-24-05-44-50 +0000"
+  },
+  {
+    "headline": "Anna Kepner’s family’s ‘damage control’ texts sent after her death reveal desperation to protect her suspect stepbrother",
+    "link": "https://nypost.com/2025/12/24/us-news/anna-kepners-familys-damage-control-texts-sent-after-her-death-reveal-desperation-to-protect-her-stepbrother/",
+    "source": "nypost",
+    "pubdate": "2025-12-24-05-30-45 +0000"
+  },
+  {
+    "headline": "Takeaways: Julius Randle steps up in fourth quarter of Timberwolves’ victory over Knicks",
+    "link": "https://www.startribune.com/takeaways-julius-randle-steps-up-in-fourth-quarter-of-timberwolves-victory-over-knicks/601476314",
+    "source": "startribune",
+    "pubdate": "2025-12-24-05-05-39 +0000"
+  },
+  {
+    "headline": "3 inmates who busted out of Georgia jail allegedly held Lyft driver hostage during hours-long escape to Florida",
+    "link": "https://nypost.com/2025/12/24/us-news/3-inmates-who-busted-out-of-georgia-jail-allegedly-held-lyft-driver-hostage-during-escape-to-florida/",
+    "source": "nypost",
+    "pubdate": "2025-12-24-05-04-17 +0000"
+  },
+  {
+    "headline": "Thailand, Attacking Cambodia, Says Its Target Is the Scam Industry",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/cambodia-scam-centers-refugees-thailand.html",
+    "source": "nyt",
+    "pubdate": "2025-12-24-05-03-52 +0000"
+  },
+  {
+    "headline": "Thailand, Attacking Cambodia, Says Its Target Is the Scam Industry",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/cambodia-scam-centers-refugees-thailand.html",
+    "source": "nyt",
+    "pubdate": "2025-12-24-05-03-52 +0000"
+  },
+  {
+    "headline": "A Vintage Kabul Cinema Finally Falls to Taliban Bulldozers",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/kabul-cinema-taliban-ariana.html",
+    "source": "nyt",
+    "pubdate": "2025-12-24-05-00-06 +0000"
+  },
+  {
+    "headline": "A Vintage Kabul Cinema Finally Falls to Taliban Bulldozers",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/kabul-cinema-taliban-ariana.html",
+    "source": "nyt",
+    "pubdate": "2025-12-24-05-00-06 +0000"
+  },
+  {
+    "headline": "Bukele challenges Hillary Clinton to take El Salvador’s entire prison population after criticism",
+    "link": "https://nypost.com/2025/12/23/us-news/bukele-challenges-hillary-clinton-to-take-el-salvadors-entire-prison-population-after-criticism/",
+    "source": "nypost",
+    "pubdate": "2025-12-24-04-49-28 +0000"
+  },
+  {
+    "headline": "Sean ‘Diddy’ Combs seeks immediate release from prison in appeals argument",
+    "link": "https://nypost.com/2025/12/23/us-news/sean-diddy-combs-seeks-immediate-release-from-prison-in-appeals-argument/",
+    "source": "nypost",
+    "pubdate": "2025-12-24-04-43-55 +0000"
+  },
+  {
+    "headline": "Takeaways: Wild fall in overtime to Predators in last home game before World Junior Tournament",
+    "link": "https://www.startribune.com/takeaways-wild-fall-in-overtime-to-predators-in-last-home-game-before-world-junior-tournament/601524327",
+    "source": "startribune",
+    "pubdate": "2025-12-24-04-42-07 +0000"
+  },
+  {
+    "headline": "Dating ChatGPT",
+    "link": "https://www.nytimes.com/2025/12/23/world/dating-chatgpt-greta-thunberg-russia-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2025-12-24-04-36-53 +0000"
+  },
+  {
+    "headline": "19 States Sue to Block White House Plan to End Gender-Related Care for Minors",
+    "link": "https://www.nytimes.com/2025/12/23/us/states-lawsuit-kennedy-gender-care-hospitals.html",
+    "source": "nyt",
+    "pubdate": "2025-12-24-04-34-04 +0000"
+  },
+  {
+    "headline": "‘Slender Man’ stabber Morgan Geyser sent back to mental institution after escaping Wisconsin group home",
+    "link": "https://nypost.com/2025/12/23/us-news/slender-man-stabber-morgan-geyser-sent-back-to-mental-institution-after-escaping-wisconsin-group-home/",
+    "source": "nypost",
+    "pubdate": "2025-12-24-04-25-02 +0000"
+  },
+  {
     "headline": "Waymo to Update Software Across Fleet After San Francisco Power Outage",
     "link": "https://www.wsj.com/business/autos/waymo-to-update-software-across-fleet-after-san-francisco-power-outage-e38c8578?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-24-04-02-00 +0000"
   },
   {
-    "headline": "Pennsylvania Nursing Home Explosion Kills at Least 2",
-    "link": "https://www.nytimes.com/2025/12/23/us/explosion-bristol-nursing-home.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-04-01-09 +0000"
-  },
-  {
     "headline": "Christmas in Ukraine Approaches With Power Grid in Crisis",
     "link": "https://www.wsj.com/world/christmas-in-ukraine-approaches-with-power-grid-in-crisis-a1779740",
     "source": "wsj",
     "pubdate": "2025-12-24-04-00-00 +0000"
-  },
-  {
-    "headline": "Takeaways: Wild fall in overtime to Predators in last home game before World Junior Tournament",
-    "link": "https://www.startribune.com/takeaways-wild-fall-in-overtime-to-predators-in-last-home-game-before-world-junior-tournament/601524327",
-    "source": "startribune",
-    "pubdate": "2025-12-24-03-49-25 +0000"
-  },
-  {
-    "headline": "Takeaways: Julius Randle steps up in fourth quarter of Timberwolves’ victory over Knicks",
-    "link": "https://www.startribune.com/takeaways-julius-randle-steps-up-in-fourth-quarter-of-timberwolves-victory-over-knicks/601476314",
-    "source": "startribune",
-    "pubdate": "2025-12-24-03-42-58 +0000"
   },
   {
     "headline": "Northeast braces for second round of nasty weather following Christmas",
@@ -264,6 +330,12 @@
     "pubdate": "2025-12-24-01-37-29 +0000"
   },
   {
+    "headline": "At least two dead in Pennsylvania nursing home explosion",
+    "link": "https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-24-01-37-29 +0000"
+  },
+  {
     "headline": "U.S. Bars 5 European Tech Regulators and Researchers",
     "link": "https://www.nytimes.com/2025/12/23/technology/trump-rubio-european-tech-disinformation-digital-services-act.html",
     "source": "nyt",
@@ -288,10 +360,22 @@
     "pubdate": "2025-12-24-01-25-13 +0000"
   },
   {
+    "headline": "US Supreme Court  rejects Trump's bid to deploy National Guard to Chicago",
+    "link": "https://www.bbc.com/news/articles/cy4xzn04x03o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-24-01-15-18 +0000"
+  },
+  {
     "headline": "Brazil's Supreme Court allows Bolsonaro to leave prison for surgery",
     "link": "https://www.bbc.com/news/articles/c8dy3mvye62o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-24-01-10-19 +0000"
+  },
+  {
+    "headline": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
+    "link": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-24-01-08-43 +0000"
   },
   {
     "headline": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
@@ -504,18 +588,6 @@
     "pubdate": "2025-12-23-23-45-23 +0000"
   },
   {
-    "headline": "Petulant and ungrateful, NYC’s first lady ‘deflates’ when asked about moving to Upper East Side",
-    "link": "https://nypost.com/2025/12/23/opinion/nycs-first-lady-deflates-when-asked-about-living-in-manhattan/",
-    "source": "nypost",
-    "pubdate": "2025-12-23-23-37-54 +0000"
-  },
-  {
-    "headline": "Woman, 47, shot dead in barrage of gunfire inside NYC apartment: cops, sources",
-    "link": "https://nypost.com/2025/12/23/us-news/woman-47-shot-three-times-killed-inside-nyc-apartment-cops-sources/",
-    "source": "nypost",
-    "pubdate": "2025-12-23-23-36-23 +0000"
-  },
-  {
     "headline": "Billionaire’s Heirs to Pay $750 Million in Biggest-Ever U.S. Tax-Fraud Case",
     "link": "https://www.wsj.com/us-news/law/billionaires-heirs-to-pay-750-million-in-biggest-ever-u-s-tax-fraud-case-d17b6f84",
     "source": "wsj",
@@ -544,24 +616,6 @@
     "link": "https://www.bbc.com/sport/football/articles/cx2djq1jdrdo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-23-23-25-30 +0000"
-  },
-  {
-    "headline": "Trump’s battleships would be largest combat vessels in the world — here’s what we know about their weapons",
-    "link": "https://nypost.com/2025/12/23/us-news/trumps-battleships-would-be-largest-combat-vessels-in-the-world-heres-what-we-know-about-their-weapons/",
-    "source": "nypost",
-    "pubdate": "2025-12-23-23-25-14 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani’s team will pay for massive NYC block party, but questions remain over impacts: sources",
-    "link": "https://nypost.com/2025/12/23/us-news/zohran-mamdanis-team-will-pay-for-massive-nyc-block-party-but-questions-remain-over-impacts-sources/",
-    "source": "nypost",
-    "pubdate": "2025-12-23-23-23-17 +0000"
-  },
-  {
-    "headline": "Calif. socialite’s ex-friend has ‘no remorse’ about her suicide: ‘narcissistic gold digger’",
-    "link": "https://nypost.com/2025/12/23/us-news/socialite-tatyana-remleys-ex-friend-has-no-remorse-about-her-suicide/",
-    "source": "nypost",
-    "pubdate": "2025-12-23-23-14-38 +0000"
   },
   {
     "headline": "L.A. woman's necklace was stolen and it held her daughter's ashes. She makes a plea to the thieves",
@@ -876,12 +930,6 @@
     "pubdate": "2025-12-23-21-21-28 +0000"
   },
   {
-    "headline": "Dating ChatGPT",
-    "link": "https://www.nytimes.com/2025/12/23/world/dating-chatgpt-greta-thunberg-russia-ukraine.html",
-    "source": "nyt",
-    "pubdate": "2025-12-23-21-17-14 +0000"
-  },
-  {
     "headline": "Pro-Trump Influencers Stay Conspicuously Quiet About Epstein Files",
     "link": "https://www.nytimes.com/2025/12/23/us/politics/pro-trump-influencers-epstein-files.html",
     "source": "nyt",
@@ -1149,13 +1197,13 @@
     "headline": "Trump Administration Delays Tariffs on Chinese Semiconductors",
     "link": "https://www.nytimes.com/2025/12/23/us/politics/trump-tariffs-chinese-semiconductors.html",
     "source": "nyt",
-    "pubdate": "2025-12-23-19-02-50 +0000"
+    "pubdate": "2025-12-23-19-02-51 +0000"
   },
   {
     "headline": "Trump Administration Delays Tariffs on Chinese Semiconductors",
     "link": "https://www.nytimes.com/2025/12/23/us/politics/trump-tariffs-chinese-semiconductors.html",
     "source": "nyt",
-    "pubdate": "2025-12-23-19-02-50 +0000"
+    "pubdate": "2025-12-23-19-02-51 +0000"
   },
   {
     "headline": "The battle for control of Warner Bros.: A timeline of key developments",
@@ -1308,6 +1356,12 @@
     "pubdate": "2025-12-23-17-28-42 +0000"
   },
   {
+    "headline": "'It's a death sentence': Former Senator Ben Sasse announces cancer diagnosis",
+    "link": "https://www.bbc.com/news/articles/cn09ndnjx40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-23-17-26-26 +0000"
+  },
+  {
     "headline": "Malawians angry over vice-president's planned UK trip",
     "link": "https://www.bbc.com/news/articles/c1j91jnzddxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1407,7 +1461,7 @@
     "headline": "In Ontario, the Uplifting Case of a Ballet Company’s Stolen ‘Nutcracker’ Sets",
     "link": "https://www.nytimes.com/2025/12/23/arts/dance/nutcracker-ballet-jorgen-stolen-set-toronto-canada.html",
     "source": "nyt",
-    "pubdate": "2025-12-23-16-46-19 +0000"
+    "pubdate": "2025-12-23-16-46-20 +0000"
   },
   {
     "headline": "Quebec Liberals to choose next leader in March 2026",
@@ -1698,12 +1752,6 @@
     "pubdate": "2025-12-23-12-21-26 +0000"
   },
   {
-    "headline": "AI app apologises over false crime alerts across US",
-    "link": "https://www.bbc.com/news/videos/c4g4v3yd28yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-23-12-00-44 +0000"
-  },
-  {
     "headline": "Why Japan’s Stock Market Can Keep Rising",
     "link": "https://www.wsj.com/world/asia/why-japans-stock-market-can-keep-rising-eebacc8d",
     "source": "wsj",
@@ -1788,6 +1836,12 @@
     "pubdate": "2025-12-23-11-25-02 +0000"
   },
   {
+    "headline": "Rose Parade float has a firefighter, pancakes, syrup: Here's why some people were upset",
+    "link": "https://www.latimes.com/california/story/2025-12-23/sierra-madre-rose-parade-float-criticized",
+    "source": "latimes",
+    "pubdate": "2025-12-23-11-00-00 +0000"
+  },
+  {
     "headline": "Why California colleges can no longer withhold transcripts over unpaid fees",
     "link": "https://www.latimes.com/california/story/2025-12-23/california-colleges-no-longer-withhold-transcripts-unpaid-fees",
     "source": "latimes",
@@ -1796,12 +1850,6 @@
   {
     "headline": "As he sat in ICE detention, a teen dreamed of finishing his senior year of high school in L.A.",
     "link": "https://www.latimes.com/california/story/2025-12-23/in-ice-detention-this-teen-dreamed-of-finishing-high-school-in-la",
-    "source": "latimes",
-    "pubdate": "2025-12-23-11-00-00 +0000"
-  },
-  {
-    "headline": "Rose Parade float has a firefighter, pancakes, syrup: Here's why some people were upset",
-    "link": "https://www.latimes.com/california/story/2025-12-23/sierra-madre-rose-parade-float-criticized",
     "source": "latimes",
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
@@ -2152,59 +2200,5 @@
     "link": "https://www.bbc.com/news/articles/c4g907zekllo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-23-06-01-14 +0000"
-  },
-  {
-    "headline": "No sign ICE is improving conditions at S.F. immigrant holding cells, attorneys say",
-    "link": "https://missionlocal.org/2025/12/sf-ice-immigration-lawyers-committee-lawsuit-sansome/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-23-05-53-28 +0000"
-  },
-  {
-    "headline": "China Delays Plans for Mass Production of Self-Driving Cars After Accident",
-    "link": "https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html",
-    "source": "nyt",
-    "pubdate": "2025-12-23-05-00-09 +0000"
-  },
-  {
-    "headline": "China Delays Plans for Mass Production of Self-Driving Cars After Accident",
-    "link": "https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html",
-    "source": "nyt",
-    "pubdate": "2025-12-23-05-00-09 +0000"
-  },
-  {
-    "headline": "China Delays Plans for Mass Production of Self-Driving Cars After Accident",
-    "link": "https://www.nytimes.com/2025/12/23/business/china-autonomous-cars-driving.html",
-    "source": "nyt",
-    "pubdate": "2025-12-23-05-00-09 +0000"
-  },
-  {
-    "headline": "Inside Bari Weiss’s Decision to Pull a ‘60 Minutes’ Segment",
-    "link": "https://www.wsj.com/business/media/inside-bari-weisss-decision-to-pull-a-60-minutes-segment-91085279?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-23-04-38-00 +0000"
-  },
-  {
-    "headline": "Inside Bari Weiss’s Decision to Pull a ‘60 Minutes’ Segment",
-    "link": "https://www.wsj.com/business/media/inside-bari-weisss-decision-to-pull-a-60-minutes-segment-91085279?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-23-04-38-00 +0000"
-  },
-  {
-    "headline": "Understanding Male Loneliness",
-    "link": "https://www.nytimes.com/2025/12/22/world/male-loneliness-friendships-moscow-assassination.html",
-    "source": "nyt",
-    "pubdate": "2025-12-23-04-24-22 +0000"
-  },
-  {
-    "headline": "Trump Administration Oil Tanker Seizures Are Meant to Force Maduro Out, Officials Say",
-    "link": "https://www.nytimes.com/2025/12/22/world/americas/trump-venezuela-oil-tankers-maduro.html",
-    "source": "nyt",
-    "pubdate": "2025-12-23-04-12-46 +0000"
-  },
-  {
-    "headline": "Trump Administration Oil Tanker Seizures Are Meant to Force Maduro Out, Officials Say",
-    "link": "https://www.nytimes.com/2025/12/22/world/americas/trump-venezuela-oil-tankers-maduro.html",
-    "source": "nyt",
-    "pubdate": "2025-12-23-04-12-46 +0000"
   }
 ]
