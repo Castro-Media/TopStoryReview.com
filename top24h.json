@@ -1,20 +1,13 @@
 [
   {
-    "score": 110,
+    "score": 115,
     "pubdate": "2025-12-25-06-33-11 +0000",
     "source": "nypost",
     "headline": "Trump-Kennedy Center Christmas Eve concert canceled after host pulls out in protest of rebrand",
     "link": "https://nypost.com/2025/12/25/us-news/trump-kennedy-center-christmas-eve-concert-canceled-after-host-pulls-out-in-protest-of-rebrand/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-12-24-19-07-18 +0000",
-    "source": "nypost",
-    "headline": "Italian leader Giorgia Meloni gives year-end assessment: ‘The end of 2025 has been difficult — next year will be much worse’",
-    "link": "https://nypost.com/2025/12/24/world-news/italian-pm-giorgia-meloni-the-end-of-2025-has-been-difficult-next-year-will-be-much-worse/"
-  },
-  {
-    "score": 51,
+    "score": 49,
     "pubdate": "2025-12-24-19-26-29 +0000",
     "source": "nypost",
     "headline": "DOJ unearths 1 million more possible Jeffrey Epstein files from the Southern District of New York",
@@ -22,51 +15,58 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-12-25-00-09-16 +0000",
+    "pubdate": "2025-12-24-19-07-18 +0000",
     "source": "nypost",
-    "headline": "Former Broadway child star allegedly killed by boyfriend in NJ ‘had her whole life ahead of her’: family",
-    "link": "https://nypost.com/2025/12/24/us-news/former-broadway-child-star-allegedly-killed-by-boyfriend-in-nj-had-her-whole-life-ahead-of-her-family/"
+    "headline": "Italian leader Giorgia Meloni gives year-end assessment: ‘The end of 2025 has been difficult — next year will be much worse’",
+    "link": "https://nypost.com/2025/12/24/world-news/italian-pm-giorgia-meloni-the-end-of-2025-has-been-difficult-next-year-will-be-much-worse/"
   },
   {
-    "score": 47,
+    "score": 43,
     "pubdate": "2025-12-24-20-32-57 +0000",
     "source": "nypost",
     "headline": "Pope Leo XIV calls for day of worldwide peace for Christmas — and criticizes Russia for refusing",
     "link": "https://nypost.com/2025/12/24/world-news/pope-leo-xiv-calls-for-day-of-worldwide-peace-for-christmas/"
   },
   {
-    "score": 44,
-    "pubdate": "2025-12-24-15-09-56 +0000",
-    "source": "bbc",
-    "headline": "UK social media campaigners among five denied US visas",
-    "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss"
+    "score": 40,
+    "pubdate": "2025-12-24-22-54-06 +0000",
+    "source": "cbc",
+    "headline": "After weeks of vote counting, Trump-backed candidate wins Honduras presidential election",
+    "link": "https://www.cbc.ca/news/world/honduras-president-election-winner-nasry-asfura-9.7027947?cmp=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2025-12-24-23-12-53 +0000",
-    "source": "wapo",
-    "headline": "Trump-backed conservative candidate wins Honduran presidential election",
-    "link": "https://www.washingtonpost.com/world/2025/12/24/nasry-asfura-honduras-election-result/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2025-12-25-08-24-14 +0000",
+    "score": 35,
+    "pubdate": "2025-12-25-15-51-43 +0000",
     "source": "nypost",
-    "headline": "Powerful holiday storm lashes California, brings flash floods as state of emergency declared in six counties amid evacuations",
-    "link": "https://nypost.com/2025/12/25/us-news/southern-california-hit-by-powerful-holiday-storm-causing-flash-floods-mudslides/"
+    "headline": "Democrats warn Trump greenlighting Nvidia AI chip sales could boost China’s military edge",
+    "link": "https://nypost.com/2025/12/25/us-news/democrats-warn-trump-greenlighting-nvidia-ai-chip-sales-could-boost-chinas-military-edge/"
   },
   {
     "score": 34,
+    "pubdate": "2025-12-25-13-23-29 +0000",
+    "source": "nypost",
+    "headline": "Tim Walz’s daughter Hope wishes merry Christmas to illegal migrants that ‘ICE has been terrorizing’ in divisive holiday message",
+    "link": "https://nypost.com/2025/12/25/us-news/tim-walzs-daughter-hope-wishes-merry-christmas-to-illegal-migrants-that-ice-has-been-terrorizing-in-divisive-holiday-message/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-12-25-07-24-27 +0000",
+    "source": "nypost",
+    "headline": "Final photo of Arizona man killed during routine dental procedure resurfaces as family settles wrongful death suit",
+    "link": "https://nypost.com/2025/12/25/us-news/final-photo-of-arizona-man-killed-during-routine-dental-procedure-resurfaces-as-family-settles-wrongful-death-suit/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-12-25-00-56-07 +0000",
+    "source": "bbc",
+    "headline": "Watch: Moment robbers rip ATM from inside Texas store",
+    "link": "https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
     "pubdate": "2025-12-24-16-53-16 +0000",
     "source": "nypost",
     "headline": "Afghan DC National Guard shooting suspect Rahmanullah Lakanwal faces death penalty after feds file new charges",
     "link": "https://nypost.com/2025/12/24/us-news/afghan-dc-national-guard-shooting-suspect-rahmanullah-lakanwal-faces-death-penalty-after-new-charges/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-12-25-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Big corporations are booming on AI and record profits—but small businesses face tariffs, rising costs, and job cuts, widening America’s economic divide",
-    "link": "https://www.wsj.com/business/the-economic-divide-between-big-and-small-companies-is-growing-f3bcf222"
   }
 ]
