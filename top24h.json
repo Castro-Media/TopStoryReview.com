@@ -1,13 +1,13 @@
 [
   {
-    "score": 124,
+    "score": 125,
     "pubdate": "2025-12-25-06-33-11 +0000",
     "source": "nypost",
     "headline": "Trump-Kennedy Center Christmas Eve concert canceled after president-hating host throws tantrum over rebrand",
     "link": "https://nypost.com/2025/12/25/us-news/trump-kennedy-center-christmas-eve-concert-canceled-after-host-pulls-out-in-protest-of-rebrand/"
   },
   {
-    "score": 55,
+    "score": 51,
     "pubdate": "2025-12-25-18-46-06 +0000",
     "source": "nypost",
     "headline": "Pope Leo XIV calls for peace in Middle East, Ukraine in first Christmas message as pontiff",
@@ -21,7 +21,14 @@
     "link": "https://www.washingtonpost.com/world/2025/12/24/nasry-asfura-honduras-election-result/"
   },
   {
-    "score": 40,
+    "score": 45,
+    "pubdate": "2025-12-25-19-28-21 +0000",
+    "source": "nypost",
+    "headline": "New Yorkers shelled out more for Christmas gifts than any other state this year — here’s the astronomical amount",
+    "link": "https://nypost.com/2025/12/25/lifestyle/parents-sink-into-debt-as-christmas-spending-soars-in-us/"
+  },
+  {
+    "score": 42,
     "pubdate": "2025-12-25-17-10-52 +0000",
     "source": "nyt",
     "headline": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
@@ -29,13 +36,6 @@
   },
   {
     "score": 38,
-    "pubdate": "2025-12-25-18-28-33 +0000",
-    "source": "nyt",
-    "headline": "Trump Has a New Auto Loan Tax Break. Here’s Who Could Benefit.",
-    "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-auto-loan-deduction-benefits.html"
-  },
-  {
-    "score": 36,
     "pubdate": "2025-12-25-10-30-00 +0000",
     "source": "wsj",
     "headline": "Big corporations are booming on AI and record profits—but small businesses face tariffs, rising costs, and job cuts, widening America’s economic divide",
@@ -47,6 +47,13 @@
     "source": "nyt",
     "headline": "Five Killed in Helicopter Crash on Kilimanjaro, Africa’s Highest Peak",
     "link": "https://www.nytimes.com/2025/12/25/world/africa/helicopter-crash-kilimanjaro.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2025-12-25-01-55-53 +0000",
+    "source": "nyt",
+    "headline": "Peng Peiyun, 95, Dies; Official Renounced China’s One-Child Policy",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html"
   },
   {
     "score": 33,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Watch: Moment robbers rip ATM from inside Texas store",
     "link": "https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-12-24-23-30-09 +0000",
-    "source": "bbc",
-    "headline": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
-    "link": "https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS&at_campaign=rss"
   }
 ]
