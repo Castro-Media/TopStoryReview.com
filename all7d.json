@@ -1,5 +1,53 @@
 [
   {
+    "headline": "The Boss Who Gave His Employees a $240 Million Gift",
+    "link": "https://www.wsj.com/business/fibrebond-eaton-bonus-walker-30844d62?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-25-02-00-00 +0000"
+  },
+  {
+    "headline": "The 119th Congress has mostly been relegated to a sidekick role, deferring to President Trump’s muscular executive branch",
+    "link": "https://www.wsj.com/politics/policy/congress-year-trump-2025-ad0afe47",
+    "source": "wsj",
+    "pubdate": "2025-12-25-02-00-00 +0000"
+  },
+  {
+    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
+    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-57-39 +0000"
+  },
+  {
+    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
+    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-57-39 +0000"
+  },
+  {
+    "headline": "Peng Peiyun, 95, Dies; Official Renounced China’s One-Child Policy",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-55-53 +0000"
+  },
+  {
+    "headline": "Peng Peiyun, 95, Dies; Official Renounced China’s One-Child Policy",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-55-53 +0000"
+  },
+  {
+    "headline": "IN PHOTOS | Christmas celebrations from around the world",
+    "link": "https://www.cbc.ca/news/world/in-photos-christmas-celebrations-from-around-the-world-9.7028035?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-25-01-38-29 +0000"
+  },
+  {
+    "headline": "Elderly couple dressed as Santa Claus, Mrs.Claus pulled over for speeding in Ohio: ‘North Pole isn’t what it used to be!’",
+    "link": "https://nypost.com/2025/12/24/us-news/elderly-couple-dressed-as-santa-claus-mrs-claus-pulled-over-for-speeding-in-ohio/",
+    "source": "nypost",
+    "pubdate": "2025-12-25-01-31-36 +0000"
+  },
+  {
     "headline": "China Developing Options to Threaten Taiwan With ‘Brute Force,’ Pentagon Says",
     "link": "https://www.wsj.com/world/china/china-developing-options-to-threaten-taiwan-with-brute-force-pentagon-says-30242e16",
     "source": "wsj",
@@ -18,7 +66,7 @@
     "pubdate": "2025-12-25-01-00-00 +0000"
   },
   {
-    "headline": "Fatal shooting on L.A. Metro bus in Exposition Park",
+    "headline": "Person fatally shot on L.A. Metro bus in Exposition Park",
     "link": "https://www.latimes.com/california/story/2025-12-24/fatal-shooting-la-metro-bus-exposition-park",
     "source": "latimes",
     "pubdate": "2025-12-25-00-58-30 +0000"
@@ -372,12 +420,6 @@
     "pubdate": "2025-12-24-21-39-58 +0000"
   },
   {
-    "headline": "Timberwolves fans rally to support Naz Reid tattoo artist battling brain tumor",
-    "link": "https://www.startribune.com/timberwolves-naz-reid-tattoo-artist-brain-tumor/601552493",
-    "source": "startribune",
-    "pubdate": "2025-12-24-21-38-47 +0000"
-  },
-  {
     "headline": "Eleven arrested over mass shooting in South Africa tavern",
     "link": "https://www.bbc.com/news/articles/c75v0kwy017o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -462,6 +504,12 @@
     "pubdate": "2025-12-24-21-08-56 +0000"
   },
   {
+    "headline": "Prosecutors say man stalked immigration agents, pulled gun on them in Twin Cities suburb",
+    "link": "https://www.startribune.com/police-man-arrested-accused-of-trailing-federal-agents-and-brandishing-gun-in-west-st-paul/601551509",
+    "source": "startribune",
+    "pubdate": "2025-12-24-21-06-15 +0000"
+  },
+  {
     "headline": "Waymo rolls out software update after blackout stranded robotaxis across San Francisco",
     "link": "https://nypost.com/2025/12/24/business/waymo-rolls-out-software-update-after-blackout-stranded-robotaxis-across-san-francisco/",
     "source": "nypost",
@@ -540,18 +588,6 @@
     "pubdate": "2025-12-24-19-56-34 +0000"
   },
   {
-    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
-    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-19-54-53 +0000"
-  },
-  {
-    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
-    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-19-54-53 +0000"
-  },
-  {
     "headline": "Trump’s Tanker Crackdown Paralyzes Venezuelan Oil Exports",
     "link": "https://www.nytimes.com/2025/12/23/world/americas/trump-tankers-venezuela-oil-industry.html",
     "source": "nyt",
@@ -592,12 +628,6 @@
     "link": "https://missionlocal.org/2025/12/sf-richmond-district-business-blackout-pge/",
     "source": "missionlocal",
     "pubdate": "2025-12-24-19-30-00 +0000"
-  },
-  {
-    "headline": "NY ‘serial killer’ handyman accused of 3 grisly murders spanning decades — as cops warn more victims likely",
-    "link": "https://nypost.com/2025/12/24/us-news/ny-handyman-is-suspected-serial-killer-and-cops-warn-more-victims-may-be-out-there/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-19-29-10 +0000"
   },
   {
     "headline": "DOJ unearths 1 million more possible Jeffrey Epstein files from the Southern District of New York",
@@ -1218,12 +1248,6 @@
     "pubdate": "2025-12-24-12-07-28 +0000"
   },
   {
-    "headline": "Ramstad: All this fraud talk has turned me into a Scrooge at Christmas",
-    "link": "https://www.startribune.com/ramstad-all-this-fraud-talk-has-turned-me-into-a-scrooge-at-christmas/601524945",
-    "source": "startribune",
-    "pubdate": "2025-12-24-12-00-01 +0000"
-  },
-  {
     "headline": "S.F deputies don’t carry out evictions during the holidays. But in court, the clock’s still ticking.",
     "link": "https://missionlocal.org/2025/12/sf-evictions-holidays-sheriffs-court/",
     "source": "missionlocal",
@@ -1264,6 +1288,12 @@
     "link": "https://www.wsj.com/business/deals/sanofi-to-buy-vaccine-maker-dynavax-in-2-2-billion-deal-8d99d55b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-24-11-34-00 +0000"
+  },
+  {
+    "headline": "St. John’s organ builder feels ‘enormous joy’ hearing the instrument played",
+    "link": "https://www.startribune.com/organ-building-st-john-abbey-austria-riegar-orgelbau-pipe-benedictine-monks-instrument-music-wood/601461005",
+    "source": "startribune",
+    "pubdate": "2025-12-24-11-31-00 +0000"
   },
   {
     "headline": "More Private-Equity Firms Plan to Sell Stakes to Raise Cash",
@@ -1314,12 +1344,6 @@
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura cannabis farms",
-    "link": "https://www.latimes.com/california/story/2025-12-24/families-reeling-six-months-after-ice-raid-cannabis-farms",
-    "source": "latimes",
-    "pubdate": "2025-12-24-11-00-00 +0000"
-  },
-  {
     "headline": "Nick Reiner's mental state at center of murder case: Inside the looming legal fight",
     "link": "https://www.latimes.com/california/story/2025-12-24/inside-nick-reiner-legal-defense-murder-charges",
     "source": "latimes",
@@ -1328,6 +1352,12 @@
   {
     "headline": "Chabria: For undocumented immigrants, a posada offers a moment of safety and comfort",
     "link": "https://www.latimes.com/california/story/2025-12-24/undocumented-immigrants-find-safety-comfort-at-posada",
+    "source": "latimes",
+    "pubdate": "2025-12-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura County cannabis farm",
+    "link": "https://www.latimes.com/california/story/2025-12-24/families-reeling-six-months-after-ice-raid-cannabis-farms",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
@@ -1368,7 +1398,7 @@
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura cannabis farms",
+    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura County cannabis farm",
     "link": "https://www.latimes.com/california/story/2025-12-24/families-reeling-six-months-after-ice-raid-cannabis-farms",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
@@ -2754,20 +2784,8 @@
     "pubdate": "2025-12-23-11-25-02 +0000"
   },
   {
-    "headline": "Rose Parade float has a firefighter, pancakes, syrup: Here's why some people were upset",
-    "link": "https://www.latimes.com/california/story/2025-12-23/sierra-madre-rose-parade-float-criticized",
-    "source": "latimes",
-    "pubdate": "2025-12-23-11-00-00 +0000"
-  },
-  {
     "headline": "Why California colleges can no longer withhold transcripts over unpaid fees",
     "link": "https://www.latimes.com/california/story/2025-12-23/california-colleges-no-longer-withhold-transcripts-unpaid-fees",
-    "source": "latimes",
-    "pubdate": "2025-12-23-11-00-00 +0000"
-  },
-  {
-    "headline": "As he sat in ICE detention, a teen dreamed of finishing his senior year of high school in L.A.",
-    "link": "https://www.latimes.com/california/story/2025-12-23/in-ice-detention-this-teen-dreamed-of-finishing-high-school-in-la",
     "source": "latimes",
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
@@ -2784,8 +2802,20 @@
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
   {
+    "headline": "As he sat in ICE detention, a teen dreamed of finishing his senior year of high school in L.A.",
+    "link": "https://www.latimes.com/california/story/2025-12-23/in-ice-detention-this-teen-dreamed-of-finishing-high-school-in-la",
+    "source": "latimes",
+    "pubdate": "2025-12-23-11-00-00 +0000"
+  },
+  {
     "headline": "Major storm slams Southern California, flash flood warnings issued",
     "link": "https://www.latimes.com/california/story/2025-12-23/deadly-winter-storm-arrives-socal",
+    "source": "latimes",
+    "pubdate": "2025-12-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Rose Parade float has a firefighter, pancakes, syrup: Here's why some people were upset",
+    "link": "https://www.latimes.com/california/story/2025-12-23/sierra-madre-rose-parade-float-criticized",
     "source": "latimes",
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
@@ -3042,12 +3072,6 @@
     "pubdate": "2025-12-23-07-29-56 +0000"
   },
   {
-    "headline": "China’s BYD Logs Another Month of Strong Sales Growth in Europe",
-    "link": "https://www.wsj.com/business/autos/chinas-byd-logs-another-month-of-strong-sales-growth-in-europe-8c478f27?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-23-07-03-00 +0000"
-  },
-  {
     "headline": "'A miracle': Officer shot in head during Bondi attack home from hospital",
     "link": "https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3234,12 +3258,6 @@
     "pubdate": "2025-12-23-02-27-00 +0000"
   },
   {
-    "headline": "Education Dept. to examine safety procedures at Brown after shooting",
-    "link": "https://www.washingtonpost.com/education/2025/12/22/brown-education-department-clery-act-mcmahon/",
-    "source": "wapo",
-    "pubdate": "2025-12-23-02-08-03 +0000"
-  },
-  {
     "headline": "Trump Appointment of Greenland Envoy Draws Angry Response From Denmark",
     "link": "https://www.wsj.com/world/trump-appointment-of-greenland-envoy-draws-angry-response-from-denmark-272de1b8",
     "source": "wsj",
@@ -3400,12 +3418,6 @@
     "link": "https://www.wsj.com/us-news/amtrak-faces-more-delays-rolling-out-new-trains-3228327a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-22-23-56-00 +0000"
-  },
-  {
-    "headline": "Vince Zampella, video game pioneer behind Call of Duty, dead at 55",
-    "link": "https://www.cbc.ca/news/entertainment/vince-zampella-obit-9.7025860?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-22-23-46-56 +0000"
   },
   {
     "headline": "Trump says US 'has to have' Greenland after naming special envoy",
@@ -4056,12 +4068,6 @@
     "pubdate": "2025-12-22-11-59-00 +0000"
   },
   {
-    "headline": "More high-profile lawmakers are saying they won’t run for re-election next year. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/policy/more-than-50-u-s-lawmakers-are-retiring-next-year-why-99cab977",
-    "source": "wsj",
-    "pubdate": "2025-12-22-11-54-00 +0000"
-  },
-  {
     "headline": "Bondi Beach Terror Suspects Condemned ‘Zionists’ and Amassed an Arsenal",
     "link": "https://www.wsj.com/world/oceania/bondi-beach-terror-suspects-condemned-zionists-and-amassed-an-arsenal-f1b1cf04",
     "source": "wsj",
@@ -4080,8 +4086,8 @@
     "pubdate": "2025-12-22-11-00-00 +0000"
   },
   {
-    "headline": "Relentless earthquake swarms rattle California. What does that mean for the Big One?",
-    "link": "https://www.latimes.com/california/story/2025-12-22/earthquake-swarms-rattle-california-what-it-means-for-big-one",
+    "headline": "These South L.A. women built a child-care haven on their block. It's a lifeline for families",
+    "link": "https://www.latimes.com/california/story/2025-12-22/women-child-care-providers-south-l-a",
     "source": "latimes",
     "pubdate": "2025-12-22-11-00-00 +0000"
   },
@@ -4092,8 +4098,8 @@
     "pubdate": "2025-12-22-11-00-00 +0000"
   },
   {
-    "headline": "These South L.A. women built a child-care haven on their block. It's a lifeline for families",
-    "link": "https://www.latimes.com/california/story/2025-12-22/women-child-care-providers-south-l-a",
+    "headline": "Relentless earthquake swarms rattle California. What does that mean for the Big One?",
+    "link": "https://www.latimes.com/california/story/2025-12-22/earthquake-swarms-rattle-california-what-it-means-for-big-one",
     "source": "latimes",
     "pubdate": "2025-12-22-11-00-00 +0000"
   },
@@ -5046,12 +5052,6 @@
     "pubdate": "2025-12-20-11-00-06 +0000"
   },
   {
-    "headline": "Social media users in the Central Valley are freaking out about unusual fog, and what might be in it",
-    "link": "https://www.latimes.com/environment/story/2025-12-20/social-media-users-in-central-valley-are-freaking-out-about-unusual-fog",
-    "source": "latimes",
-    "pubdate": "2025-12-20-11-00-00 +0000"
-  },
-  {
     "headline": "The high-tech tools used to track down Nick Reiner after his parents' slayings",
     "link": "https://www.latimes.com/california/story/2025-12-20/high-tech-tools-used-to-track-down-nick-reiner-after-his-parents-slayings",
     "source": "latimes",
@@ -5060,6 +5060,12 @@
   {
     "headline": "As LAPD shootings increase sharply, Mayor Bass says she's 'deeply concerned'",
     "link": "https://www.latimes.com/california/story/2025-12-20/lapd-los-angeles-county-sheriffs-department-shootings",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Social media users in the Central Valley are freaking out about unusual fog, and what might be in it",
+    "link": "https://www.latimes.com/environment/story/2025-12-20/social-media-users-in-central-valley-are-freaking-out-about-unusual-fog",
     "source": "latimes",
     "pubdate": "2025-12-20-11-00-00 +0000"
   },
@@ -5074,12 +5080,6 @@
     "link": "https://www.latimes.com/business/story/2025-12-20/u-s-space-force-awards-1-6-billion-in-contracts-to-south-bay-satellite-builders",
     "source": "latimes",
     "pubdate": "2025-12-20-11-00-00 +0000"
-  },
-  {
-    "headline": "A Woman Froze to Death on an Alpine Trek. Is Her Boyfriend to Blame?",
-    "link": "https://www.nytimes.com/2025/12/20/world/europe/austria-hiker-death-mountain-manslaughter.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-10-01-01 +0000"
   },
   {
     "headline": "Why Middle-Class Americans Say Life Is Unaffordable",
@@ -5122,12 +5122,6 @@
     "link": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html",
     "source": "nyt",
     "pubdate": "2025-12-20-04-34-54 +0000"
-  },
-  {
-    "headline": "Suspect in MIT Professor’s Death Was an Ex-Classmate from Portugal, Prosecutors Say",
-    "link": "https://www.nytimes.com/2025/12/19/us/mit-professor-brown-shooting-suspect-portugal.html",
-    "source": "nyt",
-    "pubdate": "2025-12-20-03-34-41 +0000"
   },
   {
     "headline": "Hundreds of asylum-seekers may be sent to Honduras, Ecuador, Uganda following S.F. immigration ruling",
@@ -5592,26 +5586,26 @@
     "pubdate": "2025-12-19-11-01-00 +0000"
   },
   {
-    "headline": "Housing Tracker: Southern California home values drop in November",
-    "link": "https://www.latimes.com/california/story/2025-12-19/housing-tracker-southern-california-home-values-drop-in-november",
-    "source": "latimes",
-    "pubdate": "2025-12-19-11-00-00 +0000"
-  },
-  {
-    "headline": "Times Investigation: Public in the dark about some schools' big sex abuse payouts",
-    "link": "https://www.latimes.com/california/story/2025-12-19/school-districts-california-secret-settlements-childhood-sex-abuse-claims",
-    "source": "latimes",
-    "pubdate": "2025-12-19-11-00-00 +0000"
-  },
-  {
     "headline": "Huge budgets cuts, enrollment drops: Pasadena schools struggle to rebuild after Eaton fire",
     "link": "https://www.latimes.com/california/story/2025-12-19/pasadena-schools-struggle-to-rebuild-after-eaton-fire",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
   {
+    "headline": "Housing Tracker: Southern California home values drop in November",
+    "link": "https://www.latimes.com/california/story/2025-12-19/housing-tracker-southern-california-home-values-drop-in-november",
+    "source": "latimes",
+    "pubdate": "2025-12-19-11-00-00 +0000"
+  },
+  {
     "headline": "In a divided America, Rob Reiner was a tenacious liberal who connected with conservatives",
     "link": "https://www.latimes.com/california/story/2025-12-19/la-me-rob-reiner-hollywood-politics-reach",
+    "source": "latimes",
+    "pubdate": "2025-12-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Times Investigation: Public in the dark about some schools' big sex abuse payouts",
+    "link": "https://www.latimes.com/california/story/2025-12-19/school-districts-california-secret-settlements-childhood-sex-abuse-claims",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
@@ -5634,14 +5628,14 @@
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
   {
-    "headline": "News Analysis: Trump's math problem: Rising prices, falling approval ratings",
-    "link": "https://www.latimes.com/politics/story/2025-12-19/trump-affordability-promises-analysis",
+    "headline": "In a divided America, Rob Reiner was a tenacious liberal who connected with conservatives",
+    "link": "https://www.latimes.com/california/story/2025-12-19/la-me-rob-reiner-hollywood-politics-reach",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
   {
-    "headline": "In a divided America, Rob Reiner was a tenacious liberal who connected with conservatives",
-    "link": "https://www.latimes.com/california/story/2025-12-19/la-me-rob-reiner-hollywood-politics-reach",
+    "headline": "News Analysis: Trump's math problem: Rising prices, falling approval ratings",
+    "link": "https://www.latimes.com/politics/story/2025-12-19/trump-affordability-promises-analysis",
     "source": "latimes",
     "pubdate": "2025-12-19-11-00-00 +0000"
   },
@@ -5982,14 +5976,14 @@
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
   {
-    "headline": "She was awaiting a green card after three decades in the U.S. Then ICE arrested her",
-    "link": "https://www.latimes.com/california/story/2025-12-18/long-beach-restaurateur-detained-by-ice",
+    "headline": "L.A. Councilmember John Lee hit with $138,000 fine in Las Vegas gift case",
+    "link": "https://www.latimes.com/california/story/2025-12-18/la-councilmember-john-lee-hit-with-138-000-fine-in-las-vegas-gift-case",
     "source": "latimes",
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
   {
-    "headline": "L.A. Councilmember John Lee hit with $138,000 fine in Las Vegas gift case",
-    "link": "https://www.latimes.com/california/story/2025-12-18/la-councilmember-john-lee-hit-with-138-000-fine-in-las-vegas-gift-case",
+    "headline": "She was awaiting a green card after three decades in the U.S. Then ICE arrested her",
+    "link": "https://www.latimes.com/california/story/2025-12-18/long-beach-restaurateur-detained-by-ice",
     "source": "latimes",
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
@@ -6002,12 +5996,6 @@
   {
     "headline": "Want to walk your loved ones right up to the airport gate? You can at these California airports",
     "link": "https://www.latimes.com/california/story/2025-12-18/these-airports-let-you-walk-your-loved-ones-right-up-to-gate",
-    "source": "latimes",
-    "pubdate": "2025-12-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Years of planning culminate in 'baby boom' of great apes at L.A. Zoo. Here's how they did it",
-    "link": "https://www.latimes.com/california/story/2025-12-18/great-ape-baby-boom-la-zoo-gorilla-chimpanzees-orangutan",
     "source": "latimes",
     "pubdate": "2025-12-18-11-00-00 +0000"
   },
@@ -6094,11 +6082,5 @@
     "link": "https://www.nytimes.com/2025/12/17/world/europe/islamic-state-attacks-australia.html",
     "source": "nyt",
     "pubdate": "2025-12-18-03-31-43 +0000"
-  },
-  {
-    "headline": "All That Cheap Chinese Stuff Is Now Europe’s Problem",
-    "link": "https://www.wsj.com/business/retail/cheap-chinese-exports-europe-9cae85f6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-18-02-00-00 +0000"
   }
 ]

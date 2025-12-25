@@ -1,5 +1,53 @@
 [
   {
+    "headline": "The Boss Who Gave His Employees a $240 Million Gift",
+    "link": "https://www.wsj.com/business/fibrebond-eaton-bonus-walker-30844d62?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-25-02-00-00 +0000"
+  },
+  {
+    "headline": "The 119th Congress has mostly been relegated to a sidekick role, deferring to President Trump’s muscular executive branch",
+    "link": "https://www.wsj.com/politics/policy/congress-year-trump-2025-ad0afe47",
+    "source": "wsj",
+    "pubdate": "2025-12-25-02-00-00 +0000"
+  },
+  {
+    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
+    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-57-39 +0000"
+  },
+  {
+    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
+    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-57-39 +0000"
+  },
+  {
+    "headline": "Peng Peiyun, 95, Dies; Official Renounced China’s One-Child Policy",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-55-53 +0000"
+  },
+  {
+    "headline": "Peng Peiyun, 95, Dies; Official Renounced China’s One-Child Policy",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-55-53 +0000"
+  },
+  {
+    "headline": "IN PHOTOS | Christmas celebrations from around the world",
+    "link": "https://www.cbc.ca/news/world/in-photos-christmas-celebrations-from-around-the-world-9.7028035?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-25-01-38-29 +0000"
+  },
+  {
+    "headline": "Elderly couple dressed as Santa Claus, Mrs.Claus pulled over for speeding in Ohio: ‘North Pole isn’t what it used to be!’",
+    "link": "https://nypost.com/2025/12/24/us-news/elderly-couple-dressed-as-santa-claus-mrs-claus-pulled-over-for-speeding-in-ohio/",
+    "source": "nypost",
+    "pubdate": "2025-12-25-01-31-36 +0000"
+  },
+  {
     "headline": "China Developing Options to Threaten Taiwan With ‘Brute Force,’ Pentagon Says",
     "link": "https://www.wsj.com/world/china/china-developing-options-to-threaten-taiwan-with-brute-force-pentagon-says-30242e16",
     "source": "wsj",
@@ -18,7 +66,7 @@
     "pubdate": "2025-12-25-01-00-00 +0000"
   },
   {
-    "headline": "Fatal shooting on L.A. Metro bus in Exposition Park",
+    "headline": "Person fatally shot on L.A. Metro bus in Exposition Park",
     "link": "https://www.latimes.com/california/story/2025-12-24/fatal-shooting-la-metro-bus-exposition-park",
     "source": "latimes",
     "pubdate": "2025-12-25-00-58-30 +0000"
@@ -372,12 +420,6 @@
     "pubdate": "2025-12-24-21-39-58 +0000"
   },
   {
-    "headline": "Timberwolves fans rally to support Naz Reid tattoo artist battling brain tumor",
-    "link": "https://www.startribune.com/timberwolves-naz-reid-tattoo-artist-brain-tumor/601552493",
-    "source": "startribune",
-    "pubdate": "2025-12-24-21-38-47 +0000"
-  },
-  {
     "headline": "Eleven arrested over mass shooting in South Africa tavern",
     "link": "https://www.bbc.com/news/articles/c75v0kwy017o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -462,6 +504,12 @@
     "pubdate": "2025-12-24-21-08-56 +0000"
   },
   {
+    "headline": "Prosecutors say man stalked immigration agents, pulled gun on them in Twin Cities suburb",
+    "link": "https://www.startribune.com/police-man-arrested-accused-of-trailing-federal-agents-and-brandishing-gun-in-west-st-paul/601551509",
+    "source": "startribune",
+    "pubdate": "2025-12-24-21-06-15 +0000"
+  },
+  {
     "headline": "Waymo rolls out software update after blackout stranded robotaxis across San Francisco",
     "link": "https://nypost.com/2025/12/24/business/waymo-rolls-out-software-update-after-blackout-stranded-robotaxis-across-san-francisco/",
     "source": "nypost",
@@ -540,18 +588,6 @@
     "pubdate": "2025-12-24-19-56-34 +0000"
   },
   {
-    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
-    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-19-54-53 +0000"
-  },
-  {
-    "headline": "The Truce Is 2 Months Old. So Why Have Hundreds of Gazans Been Killed?",
-    "link": "https://www.nytimes.com/2025/12/24/world/middleeast/gaza-killings-israel-cease-fire.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-19-54-53 +0000"
-  },
-  {
     "headline": "Trump’s Tanker Crackdown Paralyzes Venezuelan Oil Exports",
     "link": "https://www.nytimes.com/2025/12/23/world/americas/trump-tankers-venezuela-oil-industry.html",
     "source": "nyt",
@@ -592,12 +628,6 @@
     "link": "https://missionlocal.org/2025/12/sf-richmond-district-business-blackout-pge/",
     "source": "missionlocal",
     "pubdate": "2025-12-24-19-30-00 +0000"
-  },
-  {
-    "headline": "NY ‘serial killer’ handyman accused of 3 grisly murders spanning decades — as cops warn more victims likely",
-    "link": "https://nypost.com/2025/12/24/us-news/ny-handyman-is-suspected-serial-killer-and-cops-warn-more-victims-may-be-out-there/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-19-29-10 +0000"
   },
   {
     "headline": "DOJ unearths 1 million more possible Jeffrey Epstein files from the Southern District of New York",
@@ -1218,12 +1248,6 @@
     "pubdate": "2025-12-24-12-07-28 +0000"
   },
   {
-    "headline": "Ramstad: All this fraud talk has turned me into a Scrooge at Christmas",
-    "link": "https://www.startribune.com/ramstad-all-this-fraud-talk-has-turned-me-into-a-scrooge-at-christmas/601524945",
-    "source": "startribune",
-    "pubdate": "2025-12-24-12-00-01 +0000"
-  },
-  {
     "headline": "S.F deputies don’t carry out evictions during the holidays. But in court, the clock’s still ticking.",
     "link": "https://missionlocal.org/2025/12/sf-evictions-holidays-sheriffs-court/",
     "source": "missionlocal",
@@ -1264,6 +1288,12 @@
     "link": "https://www.wsj.com/business/deals/sanofi-to-buy-vaccine-maker-dynavax-in-2-2-billion-deal-8d99d55b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-24-11-34-00 +0000"
+  },
+  {
+    "headline": "St. John’s organ builder feels ‘enormous joy’ hearing the instrument played",
+    "link": "https://www.startribune.com/organ-building-st-john-abbey-austria-riegar-orgelbau-pipe-benedictine-monks-instrument-music-wood/601461005",
+    "source": "startribune",
+    "pubdate": "2025-12-24-11-31-00 +0000"
   },
   {
     "headline": "More Private-Equity Firms Plan to Sell Stakes to Raise Cash",
@@ -1314,12 +1344,6 @@
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura cannabis farms",
-    "link": "https://www.latimes.com/california/story/2025-12-24/families-reeling-six-months-after-ice-raid-cannabis-farms",
-    "source": "latimes",
-    "pubdate": "2025-12-24-11-00-00 +0000"
-  },
-  {
     "headline": "Nick Reiner's mental state at center of murder case: Inside the looming legal fight",
     "link": "https://www.latimes.com/california/story/2025-12-24/inside-nick-reiner-legal-defense-murder-charges",
     "source": "latimes",
@@ -1328,6 +1352,12 @@
   {
     "headline": "Chabria: For undocumented immigrants, a posada offers a moment of safety and comfort",
     "link": "https://www.latimes.com/california/story/2025-12-24/undocumented-immigrants-find-safety-comfort-at-posada",
+    "source": "latimes",
+    "pubdate": "2025-12-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura County cannabis farm",
+    "link": "https://www.latimes.com/california/story/2025-12-24/families-reeling-six-months-after-ice-raid-cannabis-farms",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
@@ -1368,7 +1398,7 @@
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura cannabis farms",
+    "headline": "Families reeling, businesses suffering six months after ICE raided Ventura County cannabis farm",
     "link": "https://www.latimes.com/california/story/2025-12-24/families-reeling-six-months-after-ice-raid-cannabis-farms",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
@@ -1630,149 +1660,5 @@
     "link": "https://nypost.com/2025/12/23/us-news/trump-admin-bars-five-european-officials-from-entering-us-due-to-extraterritorial-censorship-campaign/",
     "source": "nypost",
     "pubdate": "2025-12-24-03-35-25 +0000"
-  },
-  {
-    "headline": "Suspected drunk driver charged with murder in death of high school tennis star",
-    "link": "https://www.latimes.com/california/story/2025-12-23/suspected-drunk-driver-charged-with-murder-in-death-of-high-school-tennis-star",
-    "source": "latimes",
-    "pubdate": "2025-12-24-03-14-37 +0000"
-  },
-  {
-    "headline": "SF could move to take over PG&E’s system right now, if city officials had the political will",
-    "link": "https://48hills.org/2025/12/sf-could-move-to-take-over-pges-system-right-now-with-the-political-will/",
-    "source": "48hills",
-    "pubdate": "2025-12-24-03-10-22 +0000"
-  },
-  {
-    "headline": "How to spend Christmas Eve in San Francisco",
-    "link": "https://missionlocal.org/2025/12/how-to-spend-what-to-do-christmas-xmas-eve-sf-san-francisco/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-24-03-04-27 +0000"
-  },
-  {
-    "headline": "Texas Age-Verification Law for App Stores Is Blocked, a Win for Apple and Google",
-    "link": "https://www.nytimes.com/2025/12/23/technology/texas-app-age-law-blocked.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-03-02-32 +0000"
-  },
-  {
-    "headline": "Korean Won, Japanese Yen Strengthen on Policymakers’ Warnings Against Excessive Weakness",
-    "link": "https://www.wsj.com/finance/currencies/south-korean-won-gains-after-reported-warning-from-south-korean-authorities-338c5406?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-24-03-02-00 +0000"
-  },
-  {
-    "headline": "Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI",
-    "link": "https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-24-03-00-00 +0000"
-  },
-  {
-    "headline": "Palm Beach Rallies Behind a Restaurant Manager Held at ‘Alligator Alcatraz’",
-    "link": "https://www.nytimes.com/2025/12/23/style/jose-gonzalez-alligator-alcatraz-palm-beach.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-02-56-33 +0000"
-  },
-  {
-    "headline": "Powerful Imperial Valley farmer arrested on suspicion of killing his estranged wife in Arizona",
-    "link": "https://www.latimes.com/california/story/2025-12-23/california-farm-tycoon-mike-abatti-arrested-on-suspicion-of-murdering-wife",
-    "source": "latimes",
-    "pubdate": "2025-12-24-02-51-45 +0000"
-  },
-  {
-    "headline": "Appeals court affirms federal judge's order to build housing on the VA's West Los Angeles campus",
-    "link": "https://www.latimes.com/california/story/2025-12-23/appeals-court-affirms-federal-judges-order-to-build-housing-on-vas-west-los-angeles-campus",
-    "source": "latimes",
-    "pubdate": "2025-12-24-02-29-18 +0000"
-  },
-  {
-    "headline": "Kamala Harris suggests criticizing her distinctive cackle is sexist — as she gives dating advice for young women",
-    "link": "https://nypost.com/2025/12/23/us-news/kamala-harris-suggests-criticizing-her-distinctive-cackle-is-sexist/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-02-21-49 +0000"
-  },
-  {
-    "headline": "Trump administration to send 350 National Guard troops to New Orleans",
-    "link": "https://nypost.com/2025/12/23/us-news/trump-administration-to-send-350-national-guard-troops-to-new-orleans/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-02-09-44 +0000"
-  },
-  {
-    "headline": "The U.S. economy continues to power through the trade and immigration shocks of 2025, defying widespread expectations of a slowdown or even a recession",
-    "link": "https://www.wsj.com/economy/consumers/the-u-s-economy-keeps-powering-ahead-defying-dire-predictions-f064a402",
-    "source": "wsj",
-    "pubdate": "2025-12-24-02-04-00 +0000"
-  },
-  {
-    "headline": "The U.S. Offered Putin’s Closest Ally Sanctions Relief—and a Weight-Loss Drug",
-    "link": "https://www.wsj.com/world/belarus-lukashenko-obesity-drug-02941fb3",
-    "source": "wsj",
-    "pubdate": "2025-12-24-02-00-00 +0000"
-  },
-  {
-    "headline": "Inside the New Fast Track to a Presidential Pardon",
-    "link": "https://www.wsj.com/politics/policy/trump-presidential-pardon-process-dda97c15",
-    "source": "wsj",
-    "pubdate": "2025-12-24-02-00-00 +0000"
-  },
-  {
-    "headline": "Inside President Trump’s pardons, a number of which in recent months have surprised even some of his closest advisers",
-    "link": "https://www.wsj.com/politics/policy/trump-presidential-pardon-process-dda97c15",
-    "source": "wsj",
-    "pubdate": "2025-12-24-02-00-00 +0000"
-  },
-  {
-    "headline": "Good Taste: Fantastic food moments of 2025",
-    "link": "https://48hills.org/2025/12/good-taste-fantastic-food-moments-of-2025/",
-    "source": "48hills",
-    "pubdate": "2025-12-24-01-58-52 +0000"
-  },
-  {
-    "headline": "National Guard Troops to Arrive in New Orleans",
-    "link": "https://www.nytimes.com/2025/12/23/us/politics/national-guard-new-orleans.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-01-55-50 +0000"
-  },
-  {
-    "headline": "National Guard Troops to Arrive in New Orleans",
-    "link": "https://www.nytimes.com/2025/12/23/us/politics/national-guard-new-orleans.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-01-55-50 +0000"
-  },
-  {
-    "headline": "Two dead after Pennsylvania nursing home explosions",
-    "link": "https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-37-29 +0000"
-  },
-  {
-    "headline": "U.S. Bars 5 European Tech Regulators and Researchers",
-    "link": "https://www.nytimes.com/2025/12/23/technology/trump-rubio-european-tech-disinformation-digital-services-act.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-01-34-50 +0000"
-  },
-  {
-    "headline": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
-    "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-25-13 +0000"
-  },
-  {
-    "headline": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
-    "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-25-13 +0000"
-  },
-  {
-    "headline": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
-    "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-25-13 +0000"
-  },
-  {
-    "headline": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
-    "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-25-13 +0000"
   }
 ]
