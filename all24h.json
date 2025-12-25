@@ -1,21 +1,129 @@
 [
   {
+    "headline": "China Developing Options to Threaten Taiwan With ‘Brute Force,’ Pentagon Says",
+    "link": "https://www.wsj.com/world/china/china-developing-options-to-threaten-taiwan-with-brute-force-pentagon-says-30242e16",
+    "source": "wsj",
+    "pubdate": "2025-12-25-01-13-00 +0000"
+  },
+  {
+    "headline": "A Father and Son’s $108 Billion Hostile Bid for Warner Bros. Discovery",
+    "link": "https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-01-08-16 +0000"
+  },
+  {
+    "headline": "Saks Clients Complained About Stylist Long Before He Was Accused of $400,000 Scam",
+    "link": "https://www.wsj.com/business/saks-stylist-scam-shail-kwatra-81cc3aba?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-25-01-00-00 +0000"
+  },
+  {
+    "headline": "Fatal shooting on L.A. Metro bus in Exposition Park",
+    "link": "https://www.latimes.com/california/story/2025-12-24/fatal-shooting-la-metro-bus-exposition-park",
+    "source": "latimes",
+    "pubdate": "2025-12-25-00-58-30 +0000"
+  },
+  {
+    "headline": "Watch: Mudslides, flooding and debris - storms batter southern California",
+    "link": "https://www.bbc.com/news/videos/c4gp7xx2x02o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-25-00-57-48 +0000"
+  },
+  {
+    "headline": "Watch: Moment robbers rip ATM from inside Texas store",
+    "link": "https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-25-00-56-07 +0000"
+  },
+  {
+    "headline": "‘Resident Evil’ actor Ernest Heinz indicted after allegedly shooting woman in road rage attack",
+    "link": "https://nypost.com/2025/12/24/us-news/resident-evil-actor-ernest-heinz-indicted-after-allegedly-shooting-woman-in-road-rage-attack/",
+    "source": "nypost",
+    "pubdate": "2025-12-25-00-52-21 +0000"
+  },
+  {
+    "headline": "Honduras Declares Nasry Asfura, Trump Ally, Winner of Presidential Election",
+    "link": "https://www.nytimes.com/2025/12/24/world/americas/honduras-election-results-asfura.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-00-43-47 +0000"
+  },
+  {
+    "headline": "Honduras Declares Nasry Asfura, Trump Ally, Winner of Presidential Election",
+    "link": "https://www.nytimes.com/2025/12/24/world/americas/honduras-election-results-asfura.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-00-43-47 +0000"
+  },
+  {
+    "headline": "Where is Santa now? Trump answers kids' Christmas calls to Norad tracker",
+    "link": "https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-25-00-41-15 +0000"
+  },
+  {
+    "headline": "Man Shot in ICE Confrontation in Maryland, Officials Say",
+    "link": "https://www.nytimes.com/2025/12/24/us/immigrant-shot-maryland-ice.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-00-38-27 +0000"
+  },
+  {
+    "headline": "Southern Californians brave the elements for last-minute shopping: 'It feels Christmas-y'",
+    "link": "https://www.latimes.com/california/story/2025-12-24/socal-christmas-rain-shopping",
+    "source": "latimes",
+    "pubdate": "2025-12-25-00-27-54 +0000"
+  },
+  {
+    "headline": "Nike Climb Boosts Dow, S&P 500",
+    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-d6f4947f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-25-00-20-00 +0000"
+  },
+  {
+    "headline": "Bomb blast in packed Nigerian mosque kills five",
+    "link": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-25-00-19-53 +0000"
+  },
+  {
+    "headline": "Bomb blast in packed Nigerian mosque kills five",
+    "link": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-25-00-19-53 +0000"
+  },
+  {
+    "headline": "Former Broadway child star allegedly killed by boyfriend in NJ ‘had her whole life ahead of her’: family",
+    "link": "https://nypost.com/2025/12/24/us-news/former-broadway-child-star-allegedly-killed-by-boyfriend-in-nj-had-her-whole-life-ahead-of-her-family/",
+    "source": "nypost",
+    "pubdate": "2025-12-25-00-09-16 +0000"
+  },
+  {
+    "headline": "After a Plane Crashed in the Texas Fog, 2 Stories of Rescue",
+    "link": "https://www.nytimes.com/2025/12/24/us/galveston-plane-crash-rescue-mexico-navy.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-00-05-01 +0000"
+  },
+  {
+    "headline": "Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up",
+    "link": "https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html",
+    "source": "nyt",
+    "pubdate": "2025-12-25-00-00-31 +0000"
+  },
+  {
+    "headline": "Six Months After War, Israel Warns It Could Strike Iran Again",
+    "link": "https://www.wsj.com/world/middle-east/israel-iran-strike-warning-2026-e2a58159",
+    "source": "wsj",
+    "pubdate": "2025-12-25-00-00-00 +0000"
+  },
+  {
+    "headline": "Virginia family suing KLM after flight was allegedly ‘infested’ with bedbugs: ‘Itchy welts, lesions and rashes’",
+    "link": "https://nypost.com/2025/12/24/us-news/virginia-family-sues-delta-klm-airlines-over-alleged-bed-bug-infestation-on-transatlantic-flight/",
+    "source": "nypost",
+    "pubdate": "2025-12-24-23-56-15 +0000"
+  },
+  {
     "headline": "Nvidia expands AI empire with  Groq licensing deal, poaching startup’s top execs",
     "link": "https://nypost.com/2025/12/24/business/nvidia-expands-ai-empire-with-groq-licensing-deal-poaching-startups-top-execs/",
     "source": "nypost",
     "pubdate": "2025-12-24-23-49-58 +0000"
-  },
-  {
-    "headline": "Honduras Declares Nasry Asfura, Trump Ally, Winner of Presidential Election",
-    "link": "https://www.nytimes.com/2025/12/24/world/americas/honduras-election-results-asfura.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-23-44-50 +0000"
-  },
-  {
-    "headline": "Honduras Declares Nasry Asfura, Trump Ally, Winner of Presidential Election",
-    "link": "https://www.nytimes.com/2025/12/24/world/americas/honduras-election-results-asfura.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-23-44-50 +0000"
   },
   {
     "headline": "Democratic lawmaker sues to remove Trump's name from Kennedy Center",
@@ -36,10 +144,10 @@
     "pubdate": "2025-12-24-23-31-42 +0000"
   },
   {
-    "headline": "China Developing Options to Threaten Taiwan With ‘Brute Force,’ Pentagon Says",
-    "link": "https://www.wsj.com/world/china/china-developing-options-to-threaten-taiwan-with-brute-force-pentagon-says-30242e16",
-    "source": "wsj",
-    "pubdate": "2025-12-24-23-31-00 +0000"
+    "headline": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
+    "link": "https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-24-23-30-09 +0000"
   },
   {
     "headline": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
@@ -216,22 +324,10 @@
     "pubdate": "2025-12-24-22-16-03 +0000"
   },
   {
-    "headline": "Winter storm inundates California with heady rain, mudslides and whiteout chaos",
+    "headline": "Winter storm inundates California with heavy rain, mudslides and whiteout chaos",
     "link": "https://www.cbc.ca/news/world/california-holiday-storm-9.7027922?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-12-24-22-09-28 +0000"
-  },
-  {
-    "headline": "Bomb blast in packed Nigerian mosque kills five",
-    "link": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-22-08-27 +0000"
-  },
-  {
-    "headline": "Bomb blast in packed Nigerian mosque kills five",
-    "link": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-22-08-27 +0000"
   },
   {
     "headline": "Hawaii’s Kilauea volcano spews 1,400 feet of lava into the air in wild scene",
@@ -315,13 +411,13 @@
     "headline": "A Million More Epstein Documents Have Been Found, Justice Dept. Says",
     "link": "https://www.nytimes.com/2025/12/24/us/politics/epstein-files-documents-doj.html",
     "source": "nyt",
-    "pubdate": "2025-12-24-21-27-37 +0000"
+    "pubdate": "2025-12-24-21-27-38 +0000"
   },
   {
     "headline": "A Million More Epstein Documents Have Been Found, Justice Dept. Says",
     "link": "https://www.nytimes.com/2025/12/24/us/politics/epstein-files-documents-doj.html",
     "source": "nyt",
-    "pubdate": "2025-12-24-21-27-37 +0000"
+    "pubdate": "2025-12-24-21-27-38 +0000"
   },
   {
     "headline": "Judge Blocks Conditions Imposed on States Seeking FEMA Grants",
@@ -504,28 +600,10 @@
     "pubdate": "2025-12-24-19-29-10 +0000"
   },
   {
-    "headline": "Controversial YouTube star Ms. Rachel named to Zohran Mamdani’s ‘inaugural committee’",
-    "link": "https://nypost.com/2025/12/24/us-news/controversial-youtube-star-ms-rachel-named-to-zohran-mamdanis-inaugural-committee/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-19-27-34 +0000"
-  },
-  {
     "headline": "DOJ unearths 1 million more possible Jeffrey Epstein files from the Southern District of New York",
     "link": "https://nypost.com/2025/12/24/us-news/doj-unearths-1-million-more-possible-jeffrey-epstein-files-from-the-southern-district-of-new-york/",
     "source": "nypost",
     "pubdate": "2025-12-24-19-26-29 +0000"
-  },
-  {
-    "headline": "DOJ unearths 1 million more possible Jeffrey Epstein files from the Southern District of New York",
-    "link": "https://nypost.com/2025/12/24/us-news/doj-unearths-1-million-more-possible-jeffrey-epstein-files-from-the-southern-district-of-new-york/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-19-26-29 +0000"
-  },
-  {
-    "headline": "California law could force 2M homeowners to rip out gardens due to fire risk",
-    "link": "https://nypost.com/2025/12/24/us-news/california-fire-law-could-force-homeowners-to-rip-out-gardens/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-19-21-49 +0000"
   },
   {
     "headline": "California law could force 2M homeowners to rip out gardens due to fire risk",
@@ -556,12 +634,6 @@
     "link": "https://nypost.com/2025/12/24/business/retirement-accounts-roared-back-in-2025-after-punishing-losses-during-biden-years-study/",
     "source": "nypost",
     "pubdate": "2025-12-24-19-05-17 +0000"
-  },
-  {
-    "headline": "Nike Climb Boosts Dow, S&P 500",
-    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-d6f4947f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-24-19-03-00 +0000"
   },
   {
     "headline": "Opinion | GOP ‘Moderate’ Hostage Taking",
@@ -880,12 +952,6 @@
     "link": "https://nypost.com/2025/12/24/world-news/ancient-egyptian-pharaohs-boat-is-being-restored-at-record-breaking-museum-one-of-the-most-important-restoration-projects/",
     "source": "nypost",
     "pubdate": "2025-12-24-15-40-18 +0000"
-  },
-  {
-    "headline": "Pennsylvania Nursing Home Explosion Kills 2",
-    "link": "https://www.nytimes.com/2025/12/23/us/explosion-bristol-nursing-home.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-15-37-35 +0000"
   },
   {
     "headline": "Nike Stock Price Gets a Lift After Apple’s Tim Cook Doubles His Stake",
@@ -1272,8 +1338,8 @@
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "California crypto company accused of illegally inflating Katy Perry NFTs and fraud",
-    "link": "https://www.latimes.com/business/story/2025-12-24/california-crypto-firm-accused-of-inflating-katy-perry-nfts-fraud",
+    "headline": "Court rejects bid to beef up policies issued by California's home insurer of last resort",
+    "link": "https://www.latimes.com/business/story/2025-12-24/courts-rejects-bid-to-beef-up-policies-issued-by-californias-home-insurer-of-last-resort-fair-plan-ricardo-lara",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
@@ -1284,14 +1350,14 @@
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "Court rejects bid to beef up policies issued by California's home insurer of last resort",
-    "link": "https://www.latimes.com/business/story/2025-12-24/courts-rejects-bid-to-beef-up-policies-issued-by-californias-home-insurer-of-last-resort-fair-plan-ricardo-lara",
+    "headline": "Toys are talking back thanks to AI, but are they safe around kids?",
+    "link": "https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "Toys are talking back thanks to AI, but are they safe around kids?",
-    "link": "https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids",
+    "headline": "California crypto company accused of illegally inflating Katy Perry NFTs and fraud",
+    "link": "https://www.latimes.com/business/story/2025-12-24/california-crypto-firm-accused-of-inflating-katy-perry-nfts-fraud",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
@@ -1306,12 +1372,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-24/families-reeling-six-months-after-ice-raid-cannabis-farms",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
-  },
-  {
-    "headline": "Heavy rain threatens US west coast",
-    "link": "https://www.bbc.com/weather/videos/ce8q736yrz6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-10-55-19 +0000"
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
@@ -1378,12 +1438,6 @@
     "link": "https://www.nytimes.com/2025/12/24/world/middleeast/assad-henchmen-retake-syria-plots.html",
     "source": "nyt",
     "pubdate": "2025-12-24-10-02-01 +0000"
-  },
-  {
-    "headline": "A Father and Son’s $108 Billion Hostile Bid for Warner Bros. Discovery",
-    "link": "https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-10-00-53 +0000"
   },
   {
     "headline": "2025 in visual storytelling",
@@ -1492,12 +1546,6 @@
     "link": "https://nypost.com/2025/12/24/business/barnes-amp-noble-to-open-60-new-stores-in-2026/",
     "source": "nypost",
     "pubdate": "2025-12-24-08-11-02 +0000"
-  },
-  {
-    "headline": "Andrew and Epstein is the story that will not go away",
-    "link": "https://www.bbc.com/news/articles/cewjrvn5795o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-07-58-12 +0000"
   },
   {
     "headline": "BP Agrees to Sell Majority of Castrol Lubricants Unit to Stonepeak",
@@ -1632,12 +1680,6 @@
     "pubdate": "2025-12-24-02-51-45 +0000"
   },
   {
-    "headline": "Trooper Killed at Motor Vehicle Office in Delaware",
-    "link": "https://www.nytimes.com/2025/12/23/us/delaware-dmv-shooting-trooper-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-02-34-03 +0000"
-  },
-  {
     "headline": "Appeals court affirms federal judge's order to build housing on the VA's West Los Angeles campus",
     "link": "https://www.latimes.com/california/story/2025-12-23/appeals-court-affirms-federal-judges-order-to-build-housing-on-vas-west-los-angeles-campus",
     "source": "latimes",
@@ -1732,107 +1774,5 @@
     "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-24-01-25-13 +0000"
-  },
-  {
-    "headline": "US Supreme Court  rejects Trump's bid to deploy National Guard to Chicago",
-    "link": "https://www.bbc.com/news/articles/cy4xzn04x03o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-15-18 +0000"
-  },
-  {
-    "headline": "Trump trips, a fake video and 10 possible co-conspirators: Takeaways from new Epstein files",
-    "link": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-08-43 +0000"
-  },
-  {
-    "headline": "Trump trips, a fake video and 10 possible co-conspirators: Takeaways from new Epstein files",
-    "link": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-01-08-43 +0000"
-  },
-  {
-    "headline": "Moment doctor repeatedly punches patient is captured in shocking video",
-    "link": "https://nypost.com/2025/12/23/world-news/moment-doctor-repeatedly-punches-patient-captured-in-shocking-video/",
-    "source": "nypost",
-    "pubdate": "2025-12-24-01-02-12 +0000"
-  },
-  {
-    "headline": "The Marketing Master Trying to Make Us Fall in Love With Disney Again",
-    "link": "https://www.wsj.com/business/media/disney-who-is-asad-ayaz-marketing-de165847?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-24-01-00-00 +0000"
-  },
-  {
-    "headline": "The Marketing Master Trying to Make Us Fall in Love With Disney Again",
-    "link": "https://www.wsj.com/business/media/disney-who-is-asad-ayaz-marketing-de165847?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-24-01-00-00 +0000"
-  },
-  {
-    "headline": "Australia to deport British man charged with displaying Nazi symbols",
-    "link": "https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-00-25-04 +0000"
-  },
-  {
-    "headline": "Private Equity, Saddled With Investments It Can’t Sell, Loses Its Luster",
-    "link": "https://www.nytimes.com/2025/12/23/business/private-equity-stock-market.html",
-    "source": "nyt",
-    "pubdate": "2025-12-24-00-11-11 +0000"
-  },
-  {
-    "headline": "It's love, set and match: Tennis icon Venus Williams weds actor, model partner in Florida",
-    "link": "https://www.latimes.com/sports/story/2025-12-23/its-love-set-match-tennis-icon-venus-williams-weds-actor-model-partner-in-florida",
-    "source": "latimes",
-    "pubdate": "2025-12-24-00-08-45 +0000"
-  },
-  {
-    "headline": "Have the American Pope and the American administration fallen out?",
-    "link": "https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-00-03-08 +0000"
-  },
-  {
-    "headline": "Have the American Pope and the American administration fallen out?",
-    "link": "https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-00-03-08 +0000"
-  },
-  {
-    "headline": "An alleged drug cartel and a murdered witness: South Africa's police corruption probe",
-    "link": "https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-00-02-58 +0000"
-  },
-  {
-    "headline": "An alleged drug cartel and a murdered witness: South Africa's police corruption probe",
-    "link": "https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-24-00-02-58 +0000"
-  },
-  {
-    "headline": "Takeaways From the FBI’s Second Batch of Epstein Files",
-    "link": "https://www.wsj.com/politics/policy/takeaways-from-the-fbis-second-batch-of-epstein-files-762dfb53",
-    "source": "wsj",
-    "pubdate": "2025-12-24-00-02-00 +0000"
-  },
-  {
-    "headline": "The Justice Department released a second trove of files related to Epstein, including a fake Austrian passport and copies of Epstein’s will that listed several of his powerful friends as executors",
-    "link": "https://www.wsj.com/politics/policy/takeaways-from-the-fbis-second-batch-of-epstein-files-762dfb53",
-    "source": "wsj",
-    "pubdate": "2025-12-24-00-02-00 +0000"
-  },
-  {
-    "headline": "Billionaire Louis Bacon wins defamation lawsuit against convicted sex offender Peter Nygard",
-    "link": "https://nypost.com/2025/12/23/business/billionaire-louis-bacon-wins-defamation-lawsuit-against-convicted-sex-offender-peter-nygard/",
-    "source": "nypost",
-    "pubdate": "2025-12-23-23-58-43 +0000"
-  },
-  {
-    "headline": "Billionaire Louis Bacon wins defamation lawsuit against convicted sex offender Peter Nygard",
-    "link": "https://nypost.com/2025/12/23/business/billionaire-louis-bacon-wins-defamation-lawsuit-against-convicted-sex-offender-peter-nygard/",
-    "source": "nypost",
-    "pubdate": "2025-12-23-23-58-43 +0000"
   }
 ]
