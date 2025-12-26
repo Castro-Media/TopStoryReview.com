@@ -1,50 +1,104 @@
 [
   {
-    "headline": "2 Killed in Car Ramming and Stabbing in Israel, Authorities Say",
-    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/israel-car-ramming.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-13-04-54 +0000"
-  },
-  {
-    "headline": "Two killed in suspected Palestinian ramming and knife attack in Israel",
-    "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-13-03-18 +0000"
-  },
-  {
-    "headline": "Two killed in suspected Palestinian ramming and knife attack in Israel",
-    "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-13-03-18 +0000"
-  },
-  {
-    "headline": "Technology can’t kill this popular Midwestern bar game",
-    "link": "https://www.washingtonpost.com/nation/2025/12/26/pull-tabs-minnesota-bars-gambling-technology/",
-    "source": "wapo",
-    "pubdate": "2025-12-26-13-00-45 +0000"
-  },
-  {
-    "headline": "How pets healed us this year",
-    "link": "https://www.washingtonpost.com/lifestyle/2025/12/26/pets-healed-us-2025/",
-    "source": "wapo",
-    "pubdate": "2025-12-26-13-00-32 +0000"
-  },
-  {
-    "headline": "US launches strikes against Islamic State in Nigeria",
-    "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-12-57-38 +0000"
-  },
-  {
-    "headline": "US launches strikes against Islamic State in Nigeria",
-    "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-12-57-38 +0000"
-  },
-  {
-    "headline": "Silver and Gold Prices Rally; Stock Futures Inch Lower",
-    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-48806b61?mod=rss_markets_main",
+    "headline": "U.S. Natural Gas Futures Look to End Week Higher",
+    "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-look-to-end-week-higher-0e57c9c8?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2025-12-26-12-55-00 +0000"
+    "pubdate": "2025-12-26-14-44-00 +0000"
+  },
+  {
+    "headline": "At least 15 injured in stabbing and chemical attack at factory in Japan",
+    "link": "https://nypost.com/2025/12/26/world-news/at-least-15-injured-in-knife-and-chemical-attack-at-factory-in-japan/",
+    "source": "nypost",
+    "pubdate": "2025-12-26-14-40-15 +0000"
+  },
+  {
+    "headline": "Dollar Indexes Flat as Yen Rally Wanes",
+    "link": "https://www.wsj.com/finance/currencies/yen-mostly-weakens-amid-risk-on-sentiment-39844096?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-26-14-36-00 +0000"
+  },
+  {
+    "headline": "Tesla Robotaxis Are Big on Wall St. but Lagging on Roads",
+    "link": "https://www.nytimes.com/2025/12/25/business/tesla-robotaxis-austin-waymo.html",
+    "source": "nyt",
+    "pubdate": "2025-12-26-14-35-44 +0000"
+  },
+  {
+    "headline": "Zelensky Says He’ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
+    "link": "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html",
+    "source": "nyt",
+    "pubdate": "2025-12-26-14-29-49 +0000"
+  },
+  {
+    "headline": "Zelensky Says He’ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
+    "link": "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html",
+    "source": "nyt",
+    "pubdate": "2025-12-26-14-29-49 +0000"
+  },
+  {
+    "headline": "8 dead, 18 wounded in Syria mosque bombing",
+    "link": "https://www.cbc.ca/news/world/mosque-bombing-syria-9.7028268?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-26-14-27-38 +0000"
+  },
+  {
+    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-26-14-21-38 +0000"
+  },
+  {
+    "headline": "Zelensky says he will meet Trump on Sunday, citing progress in peace plan",
+    "link": "https://www.washingtonpost.com/world/2025/12/26/ukraine-russia-trump-peace-plan/",
+    "source": "wapo",
+    "pubdate": "2025-12-26-14-19-31 +0000"
+  },
+  {
+    "headline": "Ex-Malaysia PM Najib Razak given 15-year jail term over state funds scandal",
+    "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-26-14-15-36 +0000"
+  },
+  {
+    "headline": "Ex-Malaysia PM Najib Razak given 15-year jail term over state funds scandal",
+    "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-26-14-15-36 +0000"
+  },
+  {
+    "headline": "As A.I. Companies Borrow Billions, Debt Investors Grow Wary",
+    "link": "https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html",
+    "source": "nyt",
+    "pubdate": "2025-12-26-14-12-48 +0000"
+  },
+  {
+    "headline": "Before they take different sides of the Border Battle, can three seniors help lead Holy Family to a state title?",
+    "link": "https://www.startribune.com/holy-family-girls-hockey-wisconsin-badgers-minnesota-gophers-womens-hockey/601540408",
+    "source": "startribune",
+    "pubdate": "2025-12-26-14-00-00 +0000"
+  },
+  {
+    "headline": "New Jail Term for Ex-Malaysian Leader Najib Razak in Corruption Scandal",
+    "link": "https://www.nytimes.com/2025/12/26/world/asia/malaysia-najib-razak-corruption-sentence-1mdb.html",
+    "source": "nyt",
+    "pubdate": "2025-12-26-13-59-49 +0000"
+  },
+  {
+    "headline": "New Jail Term for Ex-Malaysian Leader Najib Razak in Corruption Scandal",
+    "link": "https://www.nytimes.com/2025/12/26/world/asia/malaysia-najib-razak-corruption-sentence-1mdb.html",
+    "source": "nyt",
+    "pubdate": "2025-12-26-13-59-49 +0000"
+  },
+  {
+    "headline": "Treasury Yields Slightly Lower Amid Data Lull",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-as-investors-digest-tokyo-inflation-data-1c729b67?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-26-13-59-00 +0000"
+  },
+  {
+    "headline": "UK politics teacher reported to terrorism investigators for showing students Trump videos: ‘Dystopian’",
+    "link": "https://nypost.com/2025/12/26/world-news/uk-teacher-reported-to-terrorism-investigator-for-showing-students-trump-videos/",
+    "source": "nypost",
+    "pubdate": "2025-12-26-13-58-16 +0000"
   }
 ]
