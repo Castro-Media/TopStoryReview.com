@@ -1,17 +1,10 @@
 [
   {
-    "score": 75,
+    "score": 72,
     "pubdate": "2025-12-25-23-24-19 +0000",
     "source": "nypost",
     "title": "Trump launches &#8216;powerful and deadly&#8217; Christmas Day strikes on ISIS targeting Christians in Nigeria: &#8216;Terrorist Scum&#8217;",
     "link": "https://nypost.com/2025/12/25/us-news/trump-launches-powerful-and-deadly-strikes-on-isis-targeting-christians-in-nigeria-terrorist-scum/"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-12-26-17-57-59 +0000",
-    "source": "nyt",
-    "title": "Zelensky Says He&#8217;ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
-    "link": "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html"
   },
   {
     "score": 37,
@@ -21,18 +14,18 @@
     "link": "https://www.cbc.ca/news/world/turkey-apprehends-suspected-isis-member-planned-new-year-attacks-9.7028251?cmp=rss"
   },
   {
-    "score": 29,
-    "pubdate": "2025-12-26-06-00-04 +0000",
-    "source": "nypost",
-    "title": "Small plane lands itself in first-ever use of automated aviation tech during mid-air emergency",
-    "link": "https://nypost.com/2025/12/26/us-news/plane-lands-itself-in-first-ever-use-of-automated-aviation-tech-during-mid-air-emergency/"
+    "score": 35,
+    "pubdate": "2025-12-26-17-57-59 +0000",
+    "source": "nyt",
+    "title": "Zelensky Says He&#8217;ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
+    "link": "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html"
   },
   {
-    "score": 27,
-    "pubdate": "2025-12-26-07-32-25 +0000",
+    "score": 34,
+    "pubdate": "2025-12-26-19-13-16 +0000",
     "source": "nypost",
-    "title": "Drunk Florida man kills wife and shoots teen stepdaughter in face before taking his own life after MNF spat",
-    "link": "https://nypost.com/2025/12/26/us-news/florida-man-jason-kenney-kills-wife-crystal-kenney-self-shoots-stepdaughter-over-49ers-game-argument/"
+    "title": "Heartbreaking note reveals troubled past of drunk Florida dad who killed wife, shot teen stepdaughter in face over &#8216;Monday Night Football&#8217;",
+    "link": "https://nypost.com/2025/12/26/us-news/heartbreaking-note-reveals-troubled-past-of-drunk-florida-dad-who-killed-wife-shot-teen-stepdaughter-in-face-over-monday-night-football/"
   },
   {
     "score": 27,
@@ -49,24 +42,31 @@
     "link": "https://www.latimes.com/california/story/2025-12-25/federal-judge-blocks-ice-from-arresting-immigrants-in-northern-california-courts"
   },
   {
-    "score": 25,
-    "pubdate": "2025-12-25-21-01-10 +0000",
-    "source": "nyt",
-    "title": "No Power, No Heat, No Water: Odesa&#8217;s Days of Hell Under Russian Fire",
-    "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html"
-  },
-  {
-    "score": 24,
-    "pubdate": "2025-12-26-15-47-25 +0000",
-    "source": "cbc",
-    "title": "2 killed in car-ramming and stabbing attack in Israel",
-    "link": "https://www.cbc.ca/news/world/2-killed-in-car-ramming-stabbing-attack-in-northern-israel-9.7028280?cmp=rss"
+    "score": 22,
+    "pubdate": "2025-12-26-10-30-00 +0000",
+    "source": "wsj",
+    "title": "Tens of thousands of imports are being stopped from entering the U.S. Those that can&#8217;t clear customs because of missing or incomplete information are returned&#8212;or destroyed.",
+    "link": "https://www.wsj.com/economy/trade/customs-crackdown-leads-to-blocked-destroyed-imports-e8783ca9"
   },
   {
     "score": 21,
-    "pubdate": "2025-12-26-17-11-00 +0000",
-    "source": "wsj",
-    "title": "Silver and Gold Prices Rally; Stocks Hold Near Records",
-    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-48806b61?mod=rss_markets_main"
+    "pubdate": "2025-12-26-10-02-10 +0000",
+    "source": "nyt",
+    "title": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
+    "link": "https://www.nytimes.com/2025/12/26/business/india-data-centers-google-amazon-microsoft.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-12-26-04-24-29 +0000",
+    "source": "nyt",
+    "title": "Peng Peiyun, 95, Dies; Official Renounced China&#8217;s One-Child Policy",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2025-12-26-00-51-00 +0000",
+    "source": "latimes",
+    "title": "She goes to police calls in a Prius. It's part of a new approach to mental health emergencies",
+    "link": "https://www.latimes.com/california/story/2025-12-25/she-goes-to-police-calls-in-prius-its-part-of-new-approach-to-mental-health-emergencies"
   }
 ]
