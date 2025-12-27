@@ -1,27 +1,111 @@
 [
   {
+    "headline": "Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm",
+    "link": "https://www.wsj.com/business/airlines/nyc-snow-storm-travel-flight-cancellations-bafa55cc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-22-00 +0000"
+  },
+  {
+    "headline": "Police Respond to Report of a Shooting at an Idaho Sheriff’s Office",
+    "link": "https://www.nytimes.com/2025/12/26/us/active-shooter-wallace-idaho.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-02-14-03 +0000"
+  },
+  {
+    "headline": "The Unexpected Winner of Rising American Tariffs Is Mexico",
+    "link": "https://www.wsj.com/economy/trade/mexico-exports-us-trump-tariffs-e891510a",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-00-00 +0000"
+  },
+  {
+    "headline": "Mexico braced for a tariff hit when Trump raised trade barriers. Instead, its exports to the U.S. surged—helped by lower rates than rivals.",
+    "link": "https://www.wsj.com/economy/trade/mexico-exports-us-trump-tariffs-e891510a",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-00-00 +0000"
+  },
+  {
+    "headline": "A crop of moderate Democrats, including Sens. Mark Kelly and Ruben Gallego of Arizona, are trying to counter President Trump and progressive influence in their own party",
+    "link": "https://www.wsj.com/politics/elections/democratic-centrists-want-to-fightand-prove-they-will-take-on-the-establishment-909dd6d9",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-00-00 +0000"
+  },
+  {
+    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-01-54-45 +0000"
+  },
+  {
+    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-01-54-45 +0000"
+  },
+  {
+    "headline": "Takeaways: Jalen Smith’s diving catch in overtime lifts Gophers past New Mexico in Rate Bowl",
+    "link": "https://www.startribune.com/gophers-football-beats-new-mexico-in-rate-bowl-thanks-to-jalen-smith-pj-fleck/601546604",
+    "source": "startribune",
+    "pubdate": "2025-12-27-01-50-32 +0000"
+  },
+  {
+    "headline": "Team USA opens World Junior Hockey tournament with victory over Germany",
+    "link": "https://www.startribune.com/team-usa-opens-world-junior-hockey-tournament-with-victory-over-germany/601538810",
+    "source": "startribune",
+    "pubdate": "2025-12-27-01-43-53 +0000"
+  },
+  {
+    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
+    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-38-51 +0000"
+  },
+  {
+    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
+    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-38-51 +0000"
+  },
+  {
+    "headline": "Jury Declines Murder Charge Against Parent in Kentucky State Shooting",
+    "link": "https://www.nytimes.com/2025/12/26/us/kentucky-state-shooting-murder-charge.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-36-30 +0000"
+  },
+  {
+    "headline": "Scott Bessent expects ‘gigantic’ tax refund year for American households",
+    "link": "https://nypost.com/2025/12/26/us-news/scott-bessent-expects-gigantic-tax-refund-year-for-american-households/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-01-27-11 +0000"
+  },
+  {
+    "headline": "Scott Bessent expects ‘gigantic’ tax refund year for American households",
+    "link": "https://nypost.com/2025/12/26/us-news/scott-bessent-expects-gigantic-tax-refund-year-for-american-households/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-01-27-11 +0000"
+  },
+  {
+    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-23-21 +0000"
+  },
+  {
+    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-23-21 +0000"
+  },
+  {
+    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-23-21 +0000"
+  },
+  {
     "headline": "Chilling discovery made days after mom and her 6-year-old twins were found dead in mansion",
     "link": "https://nypost.com/2025/12/26/us-news/chilling-discovery-made-days-after-mom-and-her-6-year-old-twins-were-slain-in-their-mansion/",
     "source": "nypost",
     "pubdate": "2025-12-27-00-53-12 +0000"
-  },
-  {
-    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-50-38 +0000"
-  },
-  {
-    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-50-38 +0000"
-  },
-  {
-    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-50-38 +0000"
   },
   {
     "headline": "Driver Livestreaming on TikTok Is Charged After Fatally Striking Pedestrian, Police Say",
@@ -30,12 +114,6 @@
     "pubdate": "2025-12-27-00-47-52 +0000"
   },
   {
-    "headline": "Police Respond to Report of a Shooting at an Idaho Sheriff’s Office",
-    "link": "https://www.nytimes.com/2025/12/26/us/active-shooter-wallace-idaho.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-46-44 +0000"
-  },
-  {
     "headline": "What Went Wrong Before Hong Kong’s Inferno",
     "link": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
     "source": "nyt",
@@ -52,18 +130,6 @@
     "link": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
     "source": "nyt",
     "pubdate": "2025-12-27-00-38-04 +0000"
-  },
-  {
-    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
-    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-34-57 +0000"
-  },
-  {
-    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
-    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-34-57 +0000"
   },
   {
     "headline": "Zelensky Says He’ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
@@ -160,18 +226,6 @@
     "link": "https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-26-23-01-59 +0000"
-  },
-  {
-    "headline": "Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm",
-    "link": "https://www.wsj.com/business/airlines/nyc-snow-storm-travel-flight-cancellations-bafa55cc",
-    "source": "wsj",
-    "pubdate": "2025-12-26-22-58-00 +0000"
-  },
-  {
-    "headline": "Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm",
-    "link": "https://www.wsj.com/business/airlines/nyc-snow-storm-travel-flight-cancellations-bafa55cc?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-26-22-58-00 +0000"
   },
   {
     "headline": "The WSJ Dollar Index Falls 0.72% This Week to 95.74",
@@ -334,18 +388,6 @@
     "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-48806b61?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-26-21-44-00 +0000"
-  },
-  {
-    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-21-43-40 +0000"
-  },
-  {
-    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-21-43-40 +0000"
   },
   {
     "headline": "Some Florida homebuyers are using AI to get homes without agents, saving thousands",
@@ -630,12 +672,6 @@
     "pubdate": "2025-12-26-19-13-16 +0000"
   },
   {
-    "headline": "Violent killer still loose after deadly Christmas Day stabbing of Long Island CVS employee",
-    "link": "https://nypost.com/2025/12/26/us-news/violent-killer-still-on-the-loose-after-fatal-christmas-day-stabbing-of-cvs-employee-in-long-island/",
-    "source": "nypost",
-    "pubdate": "2025-12-26-19-07-51 +0000"
-  },
-  {
     "headline": "Comex Gold Ends the Week 3.85% Higher at $4529.10 — Data Talk",
     "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-geopolitical-risks-646c49f4?mod=rss_markets_main",
     "source": "wsj",
@@ -676,12 +712,6 @@
     "link": "https://www.nytimes.com/2025/12/25/us/powerball-jackpot-win-ticket-arkansas.html",
     "source": "nyt",
     "pubdate": "2025-12-26-18-32-17 +0000"
-  },
-  {
-    "headline": "Five extra points: Take some bows, Kevin O’Connell and Brian Flores",
-    "link": "https://www.startribune.com/minnesota-vikings-detroit-lions-brian-flores-kevin-oconnell-will-reichard/601548378",
-    "source": "startribune",
-    "pubdate": "2025-12-26-18-30-00 +0000"
   },
   {
     "headline": "How to stop your holiday gift returns from going to a landfill",
@@ -1086,12 +1116,6 @@
     "pubdate": "2025-12-26-12-00-00 +0000"
   },
   {
-    "headline": "Ramstad: Even in 2025, you could put your money where your mouth is or heart lies",
-    "link": "https://www.startribune.com/ramstad-even-in-2025-you-could-put-your-money-where-your-mouth-is-or-heart-lies/601524953",
-    "source": "startribune",
-    "pubdate": "2025-12-26-12-00-00 +0000"
-  },
-  {
     "headline": "See inside the old Hamm’s brewery, as a developer plots the St. Paul landmark’s next chapter",
     "link": "https://www.startribune.com/photos-inside-hamms-brewery-st-paul-development/601543602",
     "source": "startribune",
@@ -1354,71 +1378,5 @@
     "link": "https://www.latimes.com/california/story/2025-12-25/christmas-crash-on-5-near-pyramid-lake",
     "source": "latimes",
     "pubdate": "2025-12-26-03-36-46 +0000"
-  },
-  {
-    "headline": "Trump’s Inner Circle Sees Russia as an El Dorado for Business, but Pitfalls Abound",
-    "link": "https://www.wsj.com/world/russia/trumps-inner-circle-sees-russia-as-an-el-dorado-for-business-but-pitfalls-abound-84ae2d16",
-    "source": "wsj",
-    "pubdate": "2025-12-26-03-00-00 +0000"
-  },
-  {
-    "headline": "Jimmy Kimmel says ‘tyranny is booming’ as he renews attacks on Trump in UK Christmas address",
-    "link": "https://nypost.com/2025/12/25/media/jimmy-kimmel-renews-attacks-on-trump-in-uk-christmas-address/",
-    "source": "nypost",
-    "pubdate": "2025-12-26-02-59-25 +0000"
-  },
-  {
-    "headline": "Trump rails against ‘the many Sleazebags who loved Jeffrey Epstein’ in latest Christmas message",
-    "link": "https://nypost.com/2025/12/25/us-news/trump-rails-against-sleazebags-who-loved-jeffrey-epstein-in-latest-christmas-message/",
-    "source": "nypost",
-    "pubdate": "2025-12-26-02-27-23 +0000"
-  },
-  {
-    "headline": "Even the Companies Making Humanoid Robots Think They’re Overhyped",
-    "link": "https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-26-02-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Launched Christmas Day Strike Against ISIS in Nigeria",
-    "link": "https://www.wsj.com/world/africa/trump-announces-christmas-day-strike-against-isis-in-nigeria-5881a344",
-    "source": "wsj",
-    "pubdate": "2025-12-26-01-48-00 +0000"
-  },
-  {
-    "headline": "U.S. Launched Christmas Day Strike Against ISIS in Nigeria",
-    "link": "https://www.wsj.com/world/africa/trump-announces-christmas-day-strike-against-isis-in-nigeria-5881a344",
-    "source": "wsj",
-    "pubdate": "2025-12-26-01-48-00 +0000"
-  },
-  {
-    "headline": "Japan Plans Record High Initial Budget for Next Fiscal Year",
-    "link": "https://www.wsj.com/economy/japan-plans-record-high-initial-budget-for-next-fiscal-year-b81616cc",
-    "source": "wsj",
-    "pubdate": "2025-12-26-01-48-00 +0000"
-  },
-  {
-    "headline": "Should a top Russian archaeologist face trial for digging in occupied Crimea?",
-    "link": "https://www.bbc.com/news/articles/c623rvzjjd2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-01-44-24 +0000"
-  },
-  {
-    "headline": "Should a top Russian archaeologist face trial for digging in occupied Crimea?",
-    "link": "https://www.bbc.com/news/articles/c623rvzjjd2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-01-44-24 +0000"
-  },
-  {
-    "headline": "Here's what to expect Friday after record-breaking holiday rain in SoCal",
-    "link": "https://www.latimes.com/california/story/2025-12-25/what-to-expect-friday-weather-rain-amid-socal-storm",
-    "source": "latimes",
-    "pubdate": "2025-12-26-01-40-38 +0000"
-  },
-  {
-    "headline": "How to get rid of unwanted Christmas presents - without being found out",
-    "link": "https://www.bbc.com/news/articles/ckgledvdje0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-01-31-31 +0000"
   }
 ]

@@ -1,27 +1,111 @@
 [
   {
+    "headline": "Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm",
+    "link": "https://www.wsj.com/business/airlines/nyc-snow-storm-travel-flight-cancellations-bafa55cc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-22-00 +0000"
+  },
+  {
+    "headline": "Police Respond to Report of a Shooting at an Idaho Sheriff’s Office",
+    "link": "https://www.nytimes.com/2025/12/26/us/active-shooter-wallace-idaho.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-02-14-03 +0000"
+  },
+  {
+    "headline": "The Unexpected Winner of Rising American Tariffs Is Mexico",
+    "link": "https://www.wsj.com/economy/trade/mexico-exports-us-trump-tariffs-e891510a",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-00-00 +0000"
+  },
+  {
+    "headline": "Mexico braced for a tariff hit when Trump raised trade barriers. Instead, its exports to the U.S. surged—helped by lower rates than rivals.",
+    "link": "https://www.wsj.com/economy/trade/mexico-exports-us-trump-tariffs-e891510a",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-00-00 +0000"
+  },
+  {
+    "headline": "A crop of moderate Democrats, including Sens. Mark Kelly and Ruben Gallego of Arizona, are trying to counter President Trump and progressive influence in their own party",
+    "link": "https://www.wsj.com/politics/elections/democratic-centrists-want-to-fightand-prove-they-will-take-on-the-establishment-909dd6d9",
+    "source": "wsj",
+    "pubdate": "2025-12-27-02-00-00 +0000"
+  },
+  {
+    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-01-54-45 +0000"
+  },
+  {
+    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-01-54-45 +0000"
+  },
+  {
+    "headline": "Takeaways: Jalen Smith’s diving catch in overtime lifts Gophers past New Mexico in Rate Bowl",
+    "link": "https://www.startribune.com/gophers-football-beats-new-mexico-in-rate-bowl-thanks-to-jalen-smith-pj-fleck/601546604",
+    "source": "startribune",
+    "pubdate": "2025-12-27-01-50-32 +0000"
+  },
+  {
+    "headline": "Team USA opens World Junior Hockey tournament with victory over Germany",
+    "link": "https://www.startribune.com/team-usa-opens-world-junior-hockey-tournament-with-victory-over-germany/601538810",
+    "source": "startribune",
+    "pubdate": "2025-12-27-01-43-53 +0000"
+  },
+  {
+    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
+    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-38-51 +0000"
+  },
+  {
+    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
+    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-38-51 +0000"
+  },
+  {
+    "headline": "Jury Declines Murder Charge Against Parent in Kentucky State Shooting",
+    "link": "https://www.nytimes.com/2025/12/26/us/kentucky-state-shooting-murder-charge.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-36-30 +0000"
+  },
+  {
+    "headline": "Scott Bessent expects ‘gigantic’ tax refund year for American households",
+    "link": "https://nypost.com/2025/12/26/us-news/scott-bessent-expects-gigantic-tax-refund-year-for-american-households/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-01-27-11 +0000"
+  },
+  {
+    "headline": "Scott Bessent expects ‘gigantic’ tax refund year for American households",
+    "link": "https://nypost.com/2025/12/26/us-news/scott-bessent-expects-gigantic-tax-refund-year-for-american-households/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-01-27-11 +0000"
+  },
+  {
+    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-23-21 +0000"
+  },
+  {
+    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-23-21 +0000"
+  },
+  {
+    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-01-23-21 +0000"
+  },
+  {
     "headline": "Chilling discovery made days after mom and her 6-year-old twins were found dead in mansion",
     "link": "https://nypost.com/2025/12/26/us-news/chilling-discovery-made-days-after-mom-and-her-6-year-old-twins-were-slain-in-their-mansion/",
     "source": "nypost",
     "pubdate": "2025-12-27-00-53-12 +0000"
-  },
-  {
-    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-50-38 +0000"
-  },
-  {
-    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-50-38 +0000"
-  },
-  {
-    "headline": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-50-38 +0000"
   },
   {
     "headline": "Driver Livestreaming on TikTok Is Charged After Fatally Striking Pedestrian, Police Say",
@@ -30,12 +114,6 @@
     "pubdate": "2025-12-27-00-47-52 +0000"
   },
   {
-    "headline": "Police Respond to Report of a Shooting at an Idaho Sheriff’s Office",
-    "link": "https://www.nytimes.com/2025/12/26/us/active-shooter-wallace-idaho.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-46-44 +0000"
-  },
-  {
     "headline": "What Went Wrong Before Hong Kong’s Inferno",
     "link": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
     "source": "nyt",
@@ -52,18 +130,6 @@
     "link": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
     "source": "nyt",
     "pubdate": "2025-12-27-00-38-04 +0000"
-  },
-  {
-    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
-    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-34-57 +0000"
-  },
-  {
-    "headline": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
-    "link": "https://www.nytimes.com/2025/12/26/world/canada/annette-dionne-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-00-34-57 +0000"
   },
   {
     "headline": "Zelensky Says He’ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
@@ -160,18 +226,6 @@
     "link": "https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-26-23-01-59 +0000"
-  },
-  {
-    "headline": "Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm",
-    "link": "https://www.wsj.com/business/airlines/nyc-snow-storm-travel-flight-cancellations-bafa55cc",
-    "source": "wsj",
-    "pubdate": "2025-12-26-22-58-00 +0000"
-  },
-  {
-    "headline": "Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm",
-    "link": "https://www.wsj.com/business/airlines/nyc-snow-storm-travel-flight-cancellations-bafa55cc?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-26-22-58-00 +0000"
   },
   {
     "headline": "The WSJ Dollar Index Falls 0.72% This Week to 95.74",
@@ -334,18 +388,6 @@
     "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-48806b61?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-26-21-44-00 +0000"
-  },
-  {
-    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-21-43-40 +0000"
-  },
-  {
-    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-21-43-40 +0000"
   },
   {
     "headline": "Some Florida homebuyers are using AI to get homes without agents, saving thousands",
@@ -630,12 +672,6 @@
     "pubdate": "2025-12-26-19-13-16 +0000"
   },
   {
-    "headline": "Violent killer still loose after deadly Christmas Day stabbing of Long Island CVS employee",
-    "link": "https://nypost.com/2025/12/26/us-news/violent-killer-still-on-the-loose-after-fatal-christmas-day-stabbing-of-cvs-employee-in-long-island/",
-    "source": "nypost",
-    "pubdate": "2025-12-26-19-07-51 +0000"
-  },
-  {
     "headline": "Comex Gold Ends the Week 3.85% Higher at $4529.10 — Data Talk",
     "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-geopolitical-risks-646c49f4?mod=rss_markets_main",
     "source": "wsj",
@@ -676,12 +712,6 @@
     "link": "https://www.nytimes.com/2025/12/25/us/powerball-jackpot-win-ticket-arkansas.html",
     "source": "nyt",
     "pubdate": "2025-12-26-18-32-17 +0000"
-  },
-  {
-    "headline": "Five extra points: Take some bows, Kevin O’Connell and Brian Flores",
-    "link": "https://www.startribune.com/minnesota-vikings-detroit-lions-brian-flores-kevin-oconnell-will-reichard/601548378",
-    "source": "startribune",
-    "pubdate": "2025-12-26-18-30-00 +0000"
   },
   {
     "headline": "How to stop your holiday gift returns from going to a landfill",
@@ -1083,12 +1113,6 @@
     "headline": "Meet the syndicate printing posters at San Francisco protests",
     "link": "https://missionlocal.org/2025/12/sf-poster-syndicate-free-art-protest-collective/",
     "source": "missionlocal",
-    "pubdate": "2025-12-26-12-00-00 +0000"
-  },
-  {
-    "headline": "Ramstad: Even in 2025, you could put your money where your mouth is or heart lies",
-    "link": "https://www.startribune.com/ramstad-even-in-2025-you-could-put-your-money-where-your-mouth-is-or-heart-lies/601524953",
-    "source": "startribune",
     "pubdate": "2025-12-26-12-00-00 +0000"
   },
   {
@@ -2106,14 +2130,14 @@
     "pubdate": "2025-12-25-11-00-00 +0000"
   },
   {
-    "headline": "Indian truckers sue California's DMV for revoking their licenses",
-    "link": "https://www.latimes.com/business/story/2025-12-25/indian-punjabi-truckers-sue-california-dmv-for-revoking-their-licenses",
+    "headline": "How Hallmark built a holiday media empire, complete with cruises",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-25/how-hallmark-built-holiday-media-empire-complete-with-cruises",
     "source": "latimes",
     "pubdate": "2025-12-25-11-00-00 +0000"
   },
   {
-    "headline": "How Hallmark built a holiday media empire, complete with cruises",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-25/how-hallmark-built-holiday-media-empire-complete-with-cruises",
+    "headline": "Indian truckers sue California's DMV for revoking their licenses",
+    "link": "https://www.latimes.com/business/story/2025-12-25/indian-punjabi-truckers-sue-california-dmv-for-revoking-their-licenses",
     "source": "latimes",
     "pubdate": "2025-12-25-11-00-00 +0000"
   },
@@ -2286,12 +2310,6 @@
     "pubdate": "2025-12-25-06-44-21 +0000"
   },
   {
-    "headline": "Trump-Kennedy Center Christmas Eve concert canceled after president-hating host throws tantrum over rebrand",
-    "link": "https://nypost.com/2025/12/25/us-news/trump-kennedy-center-christmas-eve-concert-canceled-after-host-pulls-out-in-protest-of-rebrand/",
-    "source": "nypost",
-    "pubdate": "2025-12-25-06-33-11 +0000"
-  },
-  {
     "headline": "​North Korea Unveils the Completed Hull of What It Calls a Nuclear Submarine",
     "link": "https://www.nytimes.com/2025/12/25/world/asia/north-korea-nuclear-submarine.html",
     "source": "nyt",
@@ -2373,7 +2391,7 @@
     "headline": "Former Broadway Child Actress, 25, Killed in New Jersey Stabbing",
     "link": "https://www.nytimes.com/2025/12/24/us/imani-dia-smith-dead-lion-king.html",
     "source": "nyt",
-    "pubdate": "2025-12-25-02-29-19 +0000"
+    "pubdate": "2025-12-25-02-29-20 +0000"
   },
   {
     "headline": "Woman rescued after she is swept nine miles in San Jose Creek during SoCal storm",
@@ -2500,12 +2518,6 @@
     "link": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-25-00-19-53 +0000"
-  },
-  {
-    "headline": "After a Plane Crashed in the Texas Fog, 2 Stories of Rescue",
-    "link": "https://www.nytimes.com/2025/12/24/us/galveston-plane-crash-rescue-mexico-navy.html",
-    "source": "nyt",
-    "pubdate": "2025-12-25-00-05-01 +0000"
   },
   {
     "headline": "Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up",
@@ -2988,6 +3000,12 @@
     "pubdate": "2025-12-24-11-08-05 +0000"
   },
   {
+    "headline": "Nick Reiner's mental state at center of murder case: Inside the looming legal fight",
+    "link": "https://www.latimes.com/california/story/2025-12-24/inside-nick-reiner-legal-defense-murder-charges",
+    "source": "latimes",
+    "pubdate": "2025-12-24-11-00-00 +0000"
+  },
+  {
     "headline": "Chabria: For undocumented immigrants, a posada offers a moment of safety and comfort",
     "link": "https://www.latimes.com/california/story/2025-12-24/undocumented-immigrants-find-safety-comfort-at-posada",
     "source": "latimes",
@@ -2996,12 +3014,6 @@
   {
     "headline": "Alleged L.A. bomb plot: What we know about the Turtle Island Liberation Front",
     "link": "https://www.latimes.com/california/story/2025-12-24/la-terror-plot-alleged-what-is-turtle-island-liberation-front",
-    "source": "latimes",
-    "pubdate": "2025-12-24-11-00-00 +0000"
-  },
-  {
-    "headline": "Nick Reiner's mental state at center of murder case: Inside the looming legal fight",
-    "link": "https://www.latimes.com/california/story/2025-12-24/inside-nick-reiner-legal-defense-murder-charges",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
@@ -3024,12 +3036,6 @@
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
   {
-    "headline": "Downtown L.A.'s struggle is overstated and fixable, says the mogul who built the Grand",
-    "link": "https://www.latimes.com/business/story/2025-12-24/bill-witte-is-retiring-after-running-related-california-large-scale-developer-of-both-luxury-low-income-apartments-for-more-than-three-decades",
-    "source": "latimes",
-    "pubdate": "2025-12-24-11-00-00 +0000"
-  },
-  {
     "headline": "Toys are talking back thanks to AI, but are they safe around kids?",
     "link": "https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids",
     "source": "latimes",
@@ -3038,6 +3044,12 @@
   {
     "headline": "California crypto company accused of illegally inflating Katy Perry NFTs and fraud",
     "link": "https://www.latimes.com/business/story/2025-12-24/california-crypto-firm-accused-of-inflating-katy-perry-nfts-fraud",
+    "source": "latimes",
+    "pubdate": "2025-12-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Downtown L.A.'s struggle is overstated and fixable, says the mogul who built the Grand",
+    "link": "https://www.latimes.com/business/story/2025-12-24/bill-witte-is-retiring-after-running-related-california-large-scale-developer-of-both-luxury-low-income-apartments-for-more-than-three-decades",
     "source": "latimes",
     "pubdate": "2025-12-24-11-00-00 +0000"
   },
@@ -3984,26 +3996,20 @@
     "pubdate": "2025-12-23-11-25-02 +0000"
   },
   {
-    "headline": "Rose Parade float has a firefighter, pancakes, syrup: Here's why some people were upset",
-    "link": "https://www.latimes.com/california/story/2025-12-23/sierra-madre-rose-parade-float-criticized",
-    "source": "latimes",
-    "pubdate": "2025-12-23-11-00-00 +0000"
-  },
-  {
     "headline": "Why California colleges can no longer withhold transcripts over unpaid fees",
     "link": "https://www.latimes.com/california/story/2025-12-23/california-colleges-no-longer-withhold-transcripts-unpaid-fees",
     "source": "latimes",
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
   {
-    "headline": "As he sat in ICE detention, a teen dreamed of finishing his senior year of high school in L.A.",
-    "link": "https://www.latimes.com/california/story/2025-12-23/in-ice-detention-this-teen-dreamed-of-finishing-high-school-in-la",
+    "headline": "Major storm slams Southern California, flash flood warnings issued",
+    "link": "https://www.latimes.com/california/story/2025-12-23/deadly-winter-storm-arrives-socal",
     "source": "latimes",
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: 'It's a Wonderful ICE?' Trumpworld tries to hijack a holiday classic",
-    "link": "https://www.latimes.com/california/story/2025-12-23/donald-trump-its-a-wonderful-life",
+    "headline": "Rose Parade float has a firefighter, pancakes, syrup: Here's why some people were upset",
+    "link": "https://www.latimes.com/california/story/2025-12-23/sierra-madre-rose-parade-float-criticized",
     "source": "latimes",
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
@@ -4014,8 +4020,14 @@
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
   {
-    "headline": "Major storm slams Southern California, flash flood warnings issued",
-    "link": "https://www.latimes.com/california/story/2025-12-23/deadly-winter-storm-arrives-socal",
+    "headline": "Arellano: 'It's a Wonderful ICE?' Trumpworld tries to hijack a holiday classic",
+    "link": "https://www.latimes.com/california/story/2025-12-23/donald-trump-its-a-wonderful-life",
+    "source": "latimes",
+    "pubdate": "2025-12-23-11-00-00 +0000"
+  },
+  {
+    "headline": "As he sat in ICE detention, a teen dreamed of finishing his senior year of high school in L.A.",
+    "link": "https://www.latimes.com/california/story/2025-12-23/in-ice-detention-this-teen-dreamed-of-finishing-high-school-in-la",
     "source": "latimes",
     "pubdate": "2025-12-23-11-00-00 +0000"
   },
@@ -4542,12 +4554,6 @@
     "pubdate": "2025-12-22-21-55-00 +0000"
   },
   {
-    "headline": "A coalition of Democratic state attorneys general have sued to stop the Trump administration’s latest efforts to dismantle the Consumer Financial Protection Bureau",
-    "link": "https://www.wsj.com/politics/policy/democratic-attorneys-general-sue-russell-vought-over-cfpb-funding-3b7f8e6a",
-    "source": "wsj",
-    "pubdate": "2025-12-22-21-55-00 +0000"
-  },
-  {
     "headline": "Reiner children say they'll have a memorial to Rob, Michele at a later date",
     "link": "https://www.latimes.com/california/story/2025-12-22/la-me-reiner-memorial-children",
     "source": "latimes",
@@ -4878,14 +4884,14 @@
     "pubdate": "2025-12-22-11-00-00 +0000"
   },
   {
-    "headline": "Relentless earthquake swarms rattle California. What does that mean for the Big One?",
-    "link": "https://www.latimes.com/california/story/2025-12-22/earthquake-swarms-rattle-california-what-it-means-for-big-one",
+    "headline": "How private investors stand to profit from billions in L.A. County sex abuse settlements",
+    "link": "https://www.latimes.com/california/story/2025-12-22/california-sex-abuse-lawsuits-investors",
     "source": "latimes",
     "pubdate": "2025-12-22-11-00-00 +0000"
   },
   {
-    "headline": "How private investors stand to profit from billions in L.A. County sex abuse settlements",
-    "link": "https://www.latimes.com/california/story/2025-12-22/california-sex-abuse-lawsuits-investors",
+    "headline": "Relentless earthquake swarms rattle California. What does that mean for the Big One?",
+    "link": "https://www.latimes.com/california/story/2025-12-22/earthquake-swarms-rattle-california-what-it-means-for-big-one",
     "source": "latimes",
     "pubdate": "2025-12-22-11-00-00 +0000"
   },
@@ -5292,12 +5298,6 @@
     "pubdate": "2025-12-21-11-00-00 +0000"
   },
   {
-    "headline": "Canada’s $1 Billion Question: Do Property Rights Still Exist in British Columbia?",
-    "link": "https://www.wsj.com/world/americas/canadas-1-billion-question-do-property-rights-still-exist-in-british-columbia-6e38df2a",
-    "source": "wsj",
-    "pubdate": "2025-12-21-10-30-00 +0000"
-  },
-  {
     "headline": "U.S. Oil Blockade of Venezuela Pushes Cuba Toward Collapse",
     "link": "https://www.wsj.com/world/americas/u-s-oil-blockade-of-venezuela-pushes-cuba-toward-collapse-75289b5b",
     "source": "wsj",
@@ -5556,12 +5556,6 @@
     "pubdate": "2025-12-20-11-00-06 +0000"
   },
   {
-    "headline": "Social media users in the Central Valley are freaking out about unusual fog, and what might be in it",
-    "link": "https://www.latimes.com/environment/story/2025-12-20/social-media-users-in-central-valley-are-freaking-out-about-unusual-fog",
-    "source": "latimes",
-    "pubdate": "2025-12-20-11-00-00 +0000"
-  },
-  {
     "headline": "The high-tech tools used to track down Nick Reiner after his parents' slayings",
     "link": "https://www.latimes.com/california/story/2025-12-20/high-tech-tools-used-to-track-down-nick-reiner-after-his-parents-slayings",
     "source": "latimes",
@@ -5570,6 +5564,12 @@
   {
     "headline": "As LAPD shootings increase sharply, Mayor Bass says she's 'deeply concerned'",
     "link": "https://www.latimes.com/california/story/2025-12-20/lapd-los-angeles-county-sheriffs-department-shootings",
+    "source": "latimes",
+    "pubdate": "2025-12-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Social media users in the Central Valley are freaking out about unusual fog, and what might be in it",
+    "link": "https://www.latimes.com/environment/story/2025-12-20/social-media-users-in-central-valley-are-freaking-out-about-unusual-fog",
     "source": "latimes",
     "pubdate": "2025-12-20-11-00-00 +0000"
   },
@@ -5608,29 +5608,5 @@
     "link": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html",
     "source": "nyt",
     "pubdate": "2025-12-20-04-34-54 +0000"
-  },
-  {
-    "headline": "Immigrant truck drivers in limbo as feds deny California effort to reissue licenses",
-    "link": "https://www.latimes.com/california/story/2025-12-19/feds-deny-california-move-to-reissue-licenses-to-immigrant-truck-drivers",
-    "source": "latimes",
-    "pubdate": "2025-12-20-02-48-53 +0000"
-  },
-  {
-    "headline": "Two Young Physicists Seemed Destined for Greatness. Two Decades Later, One Shot the Other Dead.",
-    "link": "https://www.wsj.com/us-news/claudio-neves-valente-brown-mit-shooter-nuno-loureiro-efd84bd3",
-    "source": "wsj",
-    "pubdate": "2025-12-20-02-34-00 +0000"
-  },
-  {
-    "headline": "Two Young Physicists Seemed Destined for Greatness. Two Decades Later, One Shot the Other Dead.",
-    "link": "https://www.wsj.com/us-news/claudio-neves-valente-brown-mit-shooter-nuno-loureiro-efd84bd3",
-    "source": "wsj",
-    "pubdate": "2025-12-20-02-34-00 +0000"
-  },
-  {
-    "headline": "How Putin Got His Preferred U.S. Envoy: Come Alone, No CIA",
-    "link": "https://www.wsj.com/world/putin-witkoff-russia-envoy-04da229d",
-    "source": "wsj",
-    "pubdate": "2025-12-20-02-00-00 +0000"
   }
 ]
