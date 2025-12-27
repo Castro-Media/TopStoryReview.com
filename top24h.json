@@ -1,10 +1,10 @@
 [
   {
     "score": 98,
-    "pubdate": "2025-12-25-23-24-19 +0000",
+    "pubdate": "2025-12-26-21-22-50 +0000",
     "source": "nypost",
-    "headline": "Trump launches ‘powerful and deadly’ Christmas Day strikes on ISIS targeting Christians in Nigeria: ‘Terrorist Scum’",
-    "link": "https://nypost.com/2025/12/25/us-news/trump-launches-powerful-and-deadly-strikes-on-isis-targeting-christians-in-nigeria-terrorist-scum/"
+    "headline": "Trump tells Post there’s a ‘good shot’ at reaching Russia-Ukraine peace during Zelensky’s visit",
+    "link": "https://nypost.com/2025/12/26/us-news/trump-tells-post-theres-a-good-shot-at-reaching-russia-ukraine-peace-during-zelenskys-visit/"
   },
   {
     "score": 55,
@@ -14,49 +14,35 @@
     "link": "https://www.nytimes.com/2025/12/26/world/asia/malaysia-najib-razak-corruption-sentence-1mdb.html"
   },
   {
-    "score": 53,
-    "pubdate": "2025-12-26-17-57-59 +0000",
-    "source": "nyt",
-    "headline": "Zelensky Says He’ll Meet With Trump Soon to Discuss Ukraine Peace Plan",
-    "link": "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2025-12-26-16-00-36 +0000",
+    "score": 49,
+    "pubdate": "2025-12-26-23-49-29 +0000",
     "source": "bbc",
     "headline": "Two killed in suspected Palestinian ramming and knife attack in Israel",
     "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 45,
+    "pubdate": "2025-12-26-01-48-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Launched Christmas Day Strike Against ISIS in Nigeria",
+    "link": "https://www.wsj.com/world/africa/trump-announces-christmas-day-strike-against-isis-in-nigeria-5881a344"
+  },
+  {
+    "score": 41,
     "pubdate": "2025-12-25-23-59-19 +0000",
     "source": "latimes",
     "headline": "Federal judge blocks ICE from arresting immigrants who show up for court appointments in Northern California",
     "link": "https://www.latimes.com/california/story/2025-12-25/federal-judge-blocks-ice-from-arresting-immigrants-in-northern-california-courts"
   },
   {
-    "score": 35,
-    "pubdate": "2025-12-26-15-01-16 +0000",
-    "source": "bbc",
-    "headline": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
-    "link": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss"
+    "score": 40,
+    "pubdate": "2025-12-26-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "Meet the BofA Investment Banker Vying to Represent Haiti in the Winter Paralympics",
+    "link": "https://www.wsj.com/finance/banking/meet-the-bofa-investment-banker-vying-to-represent-haiti-in-the-winter-paralympics-ee707589?mod=rss_markets_main"
   },
   {
     "score": 34,
-    "pubdate": "2025-12-26-10-02-10 +0000",
-    "source": "nyt",
-    "headline": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
-    "link": "https://www.nytimes.com/2025/12/26/business/india-data-centers-google-amazon-microsoft.html"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-12-26-04-24-29 +0000",
-    "source": "nyt",
-    "headline": "Peng Peiyun, 95, Dies; Official Renounced China’s One-Child Policy",
-    "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html"
-  },
-  {
-    "score": 32,
     "pubdate": "2025-12-26-20-25-56 +0000",
     "source": "nypost",
     "headline": "Minnesota Lt. Gov. Peggy Flanagan wears hijab in solidarity with Somalis as feds probe multibillion-dollar fraud scandal",
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "NY requiring TikTok, Meta, more social media platforms to display mental health warnings",
     "link": "https://nypost.com/2025/12/26/business/ny-requiring-tiktok-meta-social-media-platforms-to-display-mental-health-warnings/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2025-12-26-10-02-10 +0000",
+    "source": "nyt",
+    "headline": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
+    "link": "https://www.nytimes.com/2025/12/26/business/india-data-centers-google-amazon-microsoft.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2025-12-26-22-26-10 +0000",
+    "source": "nypost",
+    "headline": "Trump tells The Post he’s not ready to embrace Somaliland independence — unlike pal Netanyahu",
+    "link": "https://nypost.com/2025/12/26/us-news/trump-not-ready-to-embrace-somaliland-independence-unlike-netanyahu/"
   }
 ]
