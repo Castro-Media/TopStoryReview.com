@@ -1,56 +1,74 @@
 [
   {
-    "headline": "Good Calls",
-    "link": "https://www.nytimes.com/2025/12/27/briefing/good-calls.html",
+    "headline": "Thousands without power in Kyiv after massive Russian attack",
+    "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-13-01-18 +0000"
+  },
+  {
+    "headline": "Thousands without power in Kyiv after massive Russian attack",
+    "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-13-01-18 +0000"
+  },
+  {
+    "headline": "Hundreds of animals were rescued from a fur farm. Meet Sadie and Seth.",
+    "link": "https://www.washingtonpost.com/lifestyle/2025/12/27/foxes-rescued-fur-farm-tampa-zoo/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-13-00-19 +0000"
+  },
+  {
+    "headline": "Jeffrey Epstein’s shocking Amazon purchase history revealed in DOJ’s latest files release — including school girl uniforms, kinky items",
+    "link": "https://nypost.com/2025/12/27/us-news/jeffrey-epsteins-shocking-amazon-purchase-history-revealed-in-dojs-latest-files-release/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-12-58-48 +0000"
+  },
+  {
+    "headline": "Seattle schools quizzing kids as young as 11 on sexual orientation, drug use — and sharing data with 3rd parties",
+    "link": "https://nypost.com/2025/12/27/us-news/seattle-schools-quizzing-kids-on-sexual-orientation-drug-use-and-sharing-with-third-parties/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-12-52-39 +0000"
+  },
+  {
+    "headline": "Thailand and Cambodia sign new ceasefire after weeks of deadly border clashes",
+    "link": "https://www.washingtonpost.com/world/2025/12/27/thailand-cambodia-ceasefire-border-clashes/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-12-45-38 +0000"
+  },
+  {
+    "headline": "Watchdog group demands answers after ‘unbelievable security lapse’ by Trump’s Secret Service team",
+    "link": "https://nypost.com/2025/12/27/us-news/watchdog-group-demands-answers-after-unbelievable-security-lapse-by-trumps-secret-service-team/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-12-42-45 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani’s rent-stabilized Astoria apartment renting for 35% more than socialist lawmaker paid: ‘hypocrisy’",
+    "link": "https://nypost.com/2025/12/27/us-news/zohran-mamdanis-rent-stabilized-astoria-apartment-renting-for-35-more-than-socialist-lawmaker-paid/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-12-38-59 +0000"
+  },
+  {
+    "headline": "Four hikers found dead after avalanche in central Greece",
+    "link": "https://www.bbc.com/news/articles/c23ejnge95jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-12-36-09 +0000"
+  },
+  {
+    "headline": "Four hikers found dead after avalanche in central Greece",
+    "link": "https://www.bbc.com/news/articles/c23ejnge95jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-12-36-09 +0000"
+  },
+  {
+    "headline": "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
     "source": "nyt",
-    "pubdate": "2025-12-27-11-16-16 +0000"
+    "pubdate": "2025-12-27-12-35-24 +0000"
   },
   {
-    "headline": "Zelenskyy to meet Carney today in Halifax before Ukraine president’s talks with Trump in Florida",
-    "link": "https://www.cbc.ca/news/carney-zelenskyy-meeting-halifax-9.7028499?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-27-11-15-43 +0000"
-  },
-  {
-    "headline": "A Sweeping Look at One Thing That Unites Canada: Winter",
-    "link": "https://www.nytimes.com/2025/12/27/world/canada/a-sweeping-look-at-one-thing-that-unites-canada-winter.html",
+    "headline": "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
     "source": "nyt",
-    "pubdate": "2025-12-27-11-00-07 +0000"
-  },
-  {
-    "headline": "A Sweeping Look at One Thing That Unites Canada: Winter",
-    "link": "https://www.nytimes.com/2025/12/27/world/canada/a-sweeping-look-at-one-thing-that-unites-canada-winter.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-11-00-07 +0000"
-  },
-  {
-    "headline": "How the CHP is drawing a flood of new recruits when the LAPD, other agencies struggle to hire",
-    "link": "https://www.latimes.com/california/story/2025-12-27/why-chp-beats-lapd-recruiting-officers",
-    "source": "latimes",
-    "pubdate": "2025-12-27-11-00-00 +0000"
-  },
-  {
-    "headline": "Chabria: Is empathy saving America — or tearing it apart?",
-    "link": "https://www.latimes.com/california/story/2025-12-27/chabria-column-empathy",
-    "source": "latimes",
-    "pubdate": "2025-12-27-11-00-00 +0000"
-  },
-  {
-    "headline": "Lawsuit accuses deputies at L.A. women's jail of sexual abuse, watching inmates shower",
-    "link": "https://www.latimes.com/california/story/2025-12-27/la-county-womens-jail-sexual-abuse-lawsuit",
-    "source": "latimes",
-    "pubdate": "2025-12-27-11-00-00 +0000"
-  },
-  {
-    "headline": "'Memory manipulation is inevitable': How rewriting memory in the lab might one day heal humans",
-    "link": "https://www.latimes.com/science/story/2025-12-27/could-memory-manipulation-one-day-help-treat-ptsd-depression-dementia",
-    "source": "latimes",
-    "pubdate": "2025-12-27-11-00-00 +0000"
-  },
-  {
-    "headline": "'It's just like your dopey friend': Inside the Goodyear Blimp's devoted fan base",
-    "link": "https://www.latimes.com/california/story/2025-12-27/its-just-like-your-dopey-friend-inside-goodyear-blimps-devoted-fan-base",
-    "source": "latimes",
-    "pubdate": "2025-12-27-11-00-00 +0000"
+    "pubdate": "2025-12-27-12-35-24 +0000"
   }
 ]

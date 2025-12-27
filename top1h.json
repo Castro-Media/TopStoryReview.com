@@ -1,65 +1,72 @@
 [
   {
-    "score": 15,
-    "pubdate": "2025-12-27-11-00-07 +0000",
+    "score": 17,
+    "pubdate": "2025-12-27-12-58-48 +0000",
+    "source": "nypost",
+    "headline": "Jeffrey Epstein’s shocking Amazon purchase history revealed in DOJ’s latest files release — including school girl uniforms, kinky items",
+    "link": "https://nypost.com/2025/12/27/us-news/jeffrey-epsteins-shocking-amazon-purchase-history-revealed-in-dojs-latest-files-release/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2025-12-27-12-35-24 +0000",
     "source": "nyt",
-    "headline": "A Sweeping Look at One Thing That Unites Canada: Winter",
-    "link": "https://www.nytimes.com/2025/12/27/world/canada/a-sweeping-look-at-one-thing-that-unites-canada-winter.html"
+    "headline": "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2025-12-27-12-36-09 +0000",
+    "source": "bbc",
+    "headline": "Four hikers found dead after avalanche in central Greece",
+    "link": "https://www.bbc.com/news/articles/c23ejnge95jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2025-12-27-12-52-39 +0000",
+    "source": "nypost",
+    "headline": "Seattle schools quizzing kids as young as 11 on sexual orientation, drug use — and sharing data with 3rd parties",
+    "link": "https://nypost.com/2025/12/27/us-news/seattle-schools-quizzing-kids-on-sexual-orientation-drug-use-and-sharing-with-third-parties/"
   },
   {
     "score": 12,
-    "pubdate": "2025-12-27-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "'Memory manipulation is inevitable': How rewriting memory in the lab might one day heal humans",
-    "link": "https://www.latimes.com/science/story/2025-12-27/could-memory-manipulation-one-day-help-treat-ptsd-depression-dementia"
+    "pubdate": "2025-12-27-13-01-18 +0000",
+    "source": "bbc",
+    "headline": "Thousands without power in Kyiv after massive Russian attack",
+    "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 11,
-    "pubdate": "2025-12-27-11-15-43 +0000",
-    "source": "cbc",
-    "headline": "Zelenskyy to meet Carney today in Halifax before Ukraine president’s talks with Trump in Florida",
-    "link": "https://www.cbc.ca/news/carney-zelenskyy-meeting-halifax-9.7028499?cmp=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-12-27-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "'It's just like your dopey friend': Inside the Goodyear Blimp's devoted fan base",
-    "link": "https://www.latimes.com/california/story/2025-12-27/its-just-like-your-dopey-friend-inside-goodyear-blimps-devoted-fan-base"
-  },
-  {
-    "score": 11,
-    "pubdate": "2025-12-27-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "How the CHP is drawing a flood of new recruits when the LAPD, other agencies struggle to hire",
-    "link": "https://www.latimes.com/california/story/2025-12-27/why-chp-beats-lapd-recruiting-officers"
+    "pubdate": "2025-12-27-12-38-59 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani’s rent-stabilized Astoria apartment renting for 35% more than socialist lawmaker paid: ‘hypocrisy’",
+    "link": "https://nypost.com/2025/12/27/us-news/zohran-mamdanis-rent-stabilized-astoria-apartment-renting-for-35-more-than-socialist-lawmaker-paid/"
   },
   {
     "score": 10,
-    "pubdate": "2025-12-27-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Lawsuit accuses deputies at L.A. women's jail of sexual abuse, watching inmates shower",
-    "link": "https://www.latimes.com/california/story/2025-12-27/la-county-womens-jail-sexual-abuse-lawsuit"
+    "pubdate": "2025-12-27-12-42-45 +0000",
+    "source": "nypost",
+    "headline": "Watchdog group demands answers after ‘unbelievable security lapse’ by Trump’s Secret Service team",
+    "link": "https://nypost.com/2025/12/27/us-news/watchdog-group-demands-answers-after-unbelievable-security-lapse-by-trumps-secret-service-team/"
   },
   {
-    "score": 6,
-    "pubdate": "2025-12-27-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Chabria: Is empathy saving America — or tearing it apart?",
-    "link": "https://www.latimes.com/california/story/2025-12-27/chabria-column-empathy"
+    "score": 9,
+    "pubdate": "2025-12-27-13-00-19 +0000",
+    "source": "wapo",
+    "headline": "Hundreds of animals were rescued from a fur farm. Meet Sadie and Seth.",
+    "link": "https://www.washingtonpost.com/lifestyle/2025/12/27/foxes-rescued-fur-farm-tampa-zoo/"
   },
   {
-    "score": 2,
-    "pubdate": "2025-12-27-11-16-16 +0000",
-    "source": "nyt",
-    "headline": "Good Calls",
-    "link": "https://www.nytimes.com/2025/12/27/briefing/good-calls.html"
+    "score": 9,
+    "pubdate": "2025-12-27-12-45-38 +0000",
+    "source": "wapo",
+    "headline": "Thailand and Cambodia sign new ceasefire after weeks of deadly border clashes",
+    "link": "https://www.washingtonpost.com/world/2025/12/27/thailand-cambodia-ceasefire-border-clashes/"
   },
   {
     "score": 0,
-    "pubdate": "2025-12-27-11-00-07 +0000",
-    "source": "nyt",
-    "headline": "A Sweeping Look at One Thing That Unites Canada: Winter",
-    "link": "https://www.nytimes.com/2025/12/27/world/canada/a-sweeping-look-at-one-thing-that-unites-canada-winter.html"
+    "pubdate": "2025-12-27-13-01-18 +0000",
+    "source": "bbc",
+    "headline": "Thousands without power in Kyiv after massive Russian attack",
+    "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss"
   }
 ]
