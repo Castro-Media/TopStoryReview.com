@@ -21,21 +21,21 @@
     "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
   },
   {
-    "score": 47,
-    "pubdate": "2025-12-26-23-49-29 +0000",
-    "source": "bbc",
-    "headline": "Two killed in suspected Palestinian ramming and knife attack in Israel",
-    "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 46,
+    "score": 48,
     "pubdate": "2025-12-27-03-30-11 +0000",
     "source": "nypost",
     "headline": "Trump-Kennedy Center filing $1M lawsuit against musician who pulled out of Christmas Eve concert over name change",
     "link": "https://nypost.com/2025/12/26/us-news/trump-kennedy-center-filing-1m-lawsuit-against-musician-who-pulled-out-of-christmas-eve-concert-over-name-change/"
   },
   {
-    "score": 41,
+    "score": 46,
+    "pubdate": "2025-12-26-23-49-29 +0000",
+    "source": "bbc",
+    "headline": "Two killed in suspected Palestinian ramming and knife attack in Israel",
+    "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
     "pubdate": "2025-12-26-17-00-00 +0000",
     "source": "wsj",
     "headline": "Meet the BofA Investment Banker Vying to Represent Haiti in the Winter Paralympics",
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2025/12/26/us-news/minnesota-lt-gov-peggy-flanagan-wears-hijab-at-somali-market-amid-multibillion-dollar-fraud-scandal/"
   },
   {
+    "score": 34,
+    "pubdate": "2025-12-26-17-31-06 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes ISIS in Nigeria After Trump Warned of Attacks on Christians",
+    "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-isis-nigeria-strike.html"
+  },
+  {
     "score": 32,
     "pubdate": "2025-12-27-02-22-00 +0000",
     "source": "wsj",
     "headline": "Airline Delays and Cancellations Pile Up Ahead of New York-Area Snowstorm",
     "link": "https://www.wsj.com/business/airlines/nyc-snow-storm-travel-flight-cancellations-bafa55cc?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 32,
-    "pubdate": "2025-12-26-17-31-06 +0000",
-    "source": "nyt",
-    "headline": "U.S. Strikes ISIS in Nigeria After Trump Warned of Attacks on Christians",
-    "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-isis-nigeria-strike.html"
   }
 ]
