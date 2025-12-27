@@ -1,6 +1,6 @@
 [
   {
-    "score": 98,
+    "score": 100,
     "pubdate": "2025-12-26-21-22-50 +0000",
     "source": "nypost",
     "headline": "Trump tells Post there’s a ‘good shot’ at reaching Russia-Ukraine peace during Zelensky’s visit",
@@ -14,11 +14,25 @@
     "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
+    "score": 52,
+    "pubdate": "2025-12-27-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
+    "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
+  },
+  {
+    "score": 47,
     "pubdate": "2025-12-26-23-49-29 +0000",
     "source": "bbc",
     "headline": "Two killed in suspected Palestinian ramming and knife attack in Israel",
     "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-12-27-03-30-11 +0000",
+    "source": "nypost",
+    "headline": "Trump-Kennedy Center filing $1M lawsuit against musician who pulled out of Christmas Eve concert over name change",
+    "link": "https://nypost.com/2025/12/26/us-news/trump-kennedy-center-filing-1m-lawsuit-against-musician-who-pulled-out-of-christmas-eve-concert-over-name-change/"
   },
   {
     "score": 40,
@@ -28,18 +42,11 @@
     "link": "https://www.wsj.com/finance/banking/meet-the-bofa-investment-banker-vying-to-represent-haiti-in-the-winter-paralympics-ee707589"
   },
   {
-    "score": 35,
+    "score": 36,
     "pubdate": "2025-12-26-23-58-16 +0000",
     "source": "nypost",
     "headline": "LA Mayor Karen Bass calls it ‘sad’ that Hispanics are joining Border Patrol – suggests they’re desperate for money",
     "link": "https://nypost.com/2025/12/26/us-news/la-mayor-karen-bass-calls-it-sad-that-hispanics-are-joining-border-patrol/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2025-12-26-10-02-10 +0000",
-    "source": "nyt",
-    "headline": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
-    "link": "https://www.nytimes.com/2025/12/26/business/india-data-centers-google-amazon-microsoft.html"
   },
   {
     "score": 34,
@@ -49,24 +56,17 @@
     "link": "https://nypost.com/2025/12/26/us-news/minnesota-lt-gov-peggy-flanagan-wears-hijab-at-somali-market-amid-multibillion-dollar-fraud-scandal/"
   },
   {
-    "score": 34,
-    "pubdate": "2025-12-26-15-24-08 +0000",
-    "source": "nypost",
-    "headline": "Dozens of Islamic State suspects plotting Christmas and New Year’s attacks detained in Turkey",
-    "link": "https://nypost.com/2025/12/26/world-news/dozens-of-islamic-state-suspects-plotting-christmas-and-new-years-attacks-detained-in-turkey/"
-  },
-  {
-    "score": 32,
+    "score": 33,
     "pubdate": "2025-12-26-04-24-29 +0000",
     "source": "nyt",
     "headline": "Peng Peiyun, 95, Dies; Official Renounced China’s One-Child Policy",
     "link": "https://www.nytimes.com/2025/12/24/world/asia/peng-peiyun-dead.html"
   },
   {
-    "score": 31,
-    "pubdate": "2025-12-26-15-01-16 +0000",
-    "source": "bbc",
-    "headline": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
-    "link": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss"
+    "score": 32,
+    "pubdate": "2025-12-26-17-31-06 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes ISIS in Nigeria After Trump Warned of Attacks on Christians",
+    "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-isis-nigeria-strike.html"
   }
 ]
