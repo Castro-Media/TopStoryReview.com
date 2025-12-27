@@ -1,5 +1,275 @@
 [
   {
+    "headline": "Good Calls",
+    "link": "https://www.nytimes.com/2025/12/27/briefing/good-calls.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-11-16-16 +0000"
+  },
+  {
+    "headline": "Zelenskyy to meet Carney today in Halifax before Ukraine president’s talks with Trump in Florida",
+    "link": "https://www.cbc.ca/news/carney-zelenskyy-meeting-halifax-9.7028499?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-27-11-15-43 +0000"
+  },
+  {
+    "headline": "A Sweeping Look at One Thing That Unites Canada: Winter",
+    "link": "https://www.nytimes.com/2025/12/27/world/canada/a-sweeping-look-at-one-thing-that-unites-canada-winter.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-11-00-07 +0000"
+  },
+  {
+    "headline": "A Sweeping Look at One Thing That Unites Canada: Winter",
+    "link": "https://www.nytimes.com/2025/12/27/world/canada/a-sweeping-look-at-one-thing-that-unites-canada-winter.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-11-00-07 +0000"
+  },
+  {
+    "headline": "How the CHP is drawing a flood of new recruits when the LAPD, other agencies struggle to hire",
+    "link": "https://www.latimes.com/california/story/2025-12-27/why-chp-beats-lapd-recruiting-officers",
+    "source": "latimes",
+    "pubdate": "2025-12-27-11-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: Is empathy saving America — or tearing it apart?",
+    "link": "https://www.latimes.com/california/story/2025-12-27/chabria-column-empathy",
+    "source": "latimes",
+    "pubdate": "2025-12-27-11-00-00 +0000"
+  },
+  {
+    "headline": "Lawsuit accuses deputies at L.A. women's jail of sexual abuse, watching inmates shower",
+    "link": "https://www.latimes.com/california/story/2025-12-27/la-county-womens-jail-sexual-abuse-lawsuit",
+    "source": "latimes",
+    "pubdate": "2025-12-27-11-00-00 +0000"
+  },
+  {
+    "headline": "'Memory manipulation is inevitable': How rewriting memory in the lab might one day heal humans",
+    "link": "https://www.latimes.com/science/story/2025-12-27/could-memory-manipulation-one-day-help-treat-ptsd-depression-dementia",
+    "source": "latimes",
+    "pubdate": "2025-12-27-11-00-00 +0000"
+  },
+  {
+    "headline": "'It's just like your dopey friend': Inside the Goodyear Blimp's devoted fan base",
+    "link": "https://www.latimes.com/california/story/2025-12-27/its-just-like-your-dopey-friend-inside-goodyear-blimps-devoted-fan-base",
+    "source": "latimes",
+    "pubdate": "2025-12-27-11-00-00 +0000"
+  },
+  {
+    "headline": "'Families can save £200 a month at community shop'",
+    "link": "https://www.bbc.com/news/articles/c8jwrzvv2kmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-10-48-06 +0000"
+  },
+  {
+    "headline": "Russian attack pummels Kyiv as Zelensky prepares to meet Trump",
+    "link": "https://www.washingtonpost.com/world/2025/12/27/kyiv-russia-attack-ukraine-zelensky/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-10-36-23 +0000"
+  },
+  {
+    "headline": "Thailand, Cambodia sign new ceasefire deal to end weeks of border fighting",
+    "link": "https://www.cbc.ca/news/world/thailand-cambodia-border-clashes-ceasefire-agreement-9.7028492?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-27-10-32-03 +0000"
+  },
+  {
+    "headline": "Philadelphia lacked bus-tracking signs. ‘Bus Stop Banksy’ stepped in.",
+    "link": "https://www.washingtonpost.com/nation/interactive/2025/philadelphia-street-artist-bus-signs/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-10-30-41 +0000"
+  },
+  {
+    "headline": "A Dancing Dictator and Bankers in Chains: The Other Venezuela Blockade",
+    "link": "https://www.nytimes.com/2025/12/27/world/americas/venezuela-blockade-1903-us.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-01-53 +0000"
+  },
+  {
+    "headline": "A Dancing Dictator and Bankers in Chains: The Other Venezuela Blockade",
+    "link": "https://www.nytimes.com/2025/12/27/world/americas/venezuela-blockade-1903-us.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-01-53 +0000"
+  },
+  {
+    "headline": "Park Chan-wook and the Funny Thing About Stomach-Churning Horror",
+    "link": "https://www.nytimes.com/2025/12/27/movies/park-chan-wook-no-other-choice-korea.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-01-45 +0000"
+  },
+  {
+    "headline": "Watch: Meteor lights up sky over Japan's Mount Fuji",
+    "link": "https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-10-01-44 +0000"
+  },
+  {
+    "headline": "More Student Loan Borrowers Are Shedding Debts in Bankruptcy",
+    "link": "https://www.nytimes.com/2025/12/27/business/student-loans-bankruptcy.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-01-04 +0000"
+  },
+  {
+    "headline": "Before Electric Vehicles Became Political, There Was the Toyota Prius",
+    "link": "https://www.nytimes.com/2025/12/27/business/electric-vehicles-poilitics-republicans-conservatives.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-57 +0000"
+  },
+  {
+    "headline": "Before Electric Vehicles Became Political, There Was the Toyota Prius",
+    "link": "https://www.nytimes.com/2025/12/27/business/electric-vehicles-poilitics-republicans-conservatives.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-57 +0000"
+  },
+  {
+    "headline": "Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban",
+    "link": "https://www.nytimes.com/2025/12/27/world/australia/australia-social-media-ban.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-49 +0000"
+  },
+  {
+    "headline": "Dallas Considers Moving From ‘Iconic’ City Hall. Could It Be Torn Down?",
+    "link": "https://www.nytimes.com/2025/12/27/us/dallas-city-hall.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-42 +0000"
+  },
+  {
+    "headline": "My Job Is Making Me Sick",
+    "link": "https://www.nytimes.com/2025/12/27/business/my-job-is-making-me-sick.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-34 +0000"
+  },
+  {
+    "headline": "This Ukrainian Soldier Spent More Than a Year on the Front Line",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/ukraine-russia-frontline.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-31 +0000"
+  },
+  {
+    "headline": "This Ukrainian Soldier Spent More Than a Year on the Front Line",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/ukraine-russia-frontline.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-31 +0000"
+  },
+  {
+    "headline": "Trump’s Second-Term Promises: What He’s Done So Far on Immigration, Trade, DEI and More",
+    "link": "https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-actions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-21 +0000"
+  },
+  {
+    "headline": "Trump’s Second-Term Promises: What He’s Done So Far on Immigration, Trade, DEI and More",
+    "link": "https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-actions.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-21 +0000"
+  },
+  {
+    "headline": "How One Father Created an Organ Empire",
+    "link": "https://www.nytimes.com/2025/12/27/us/national-kidney-registry-paired-organ-donation.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-14 +0000"
+  },
+  {
+    "headline": "How One Father Created an Organ Empire",
+    "link": "https://www.nytimes.com/2025/12/27/us/national-kidney-registry-paired-organ-donation.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-10-00-14 +0000"
+  },
+  {
+    "headline": "South Korea’s hottest new dance clubs open at 9 (a.m.)",
+    "link": "https://www.washingtonpost.com/world/2025/12/27/south-korea-morning-rave-sober-curious/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-10-00-03 +0000"
+  },
+  {
+    "headline": "The U.S. sank the alleged narco-terrorists’ boat — and let them go",
+    "link": "https://www.washingtonpost.com/world/2025/12/27/us-drug-strike-survivors/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Is the Federal Reserve truly independent?",
+    "link": "https://www.washingtonpost.com/business/2025/12/27/federal-reserve-chair-independence-mclean/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Bankruptcies soar as companies grapple with inflation, tariffs",
+    "link": "https://www.washingtonpost.com/business/2025/12/27/corporate-bankruptcies-economy/",
+    "source": "wapo",
+    "pubdate": "2025-12-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Thousands without power in Kyiv after massive Russian attack",
+    "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-09-52-05 +0000"
+  },
+  {
+    "headline": "Thousands without power in Kyiv after massive Russian attack",
+    "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-09-52-05 +0000"
+  },
+  {
+    "headline": "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-09-50-03 +0000"
+  },
+  {
+    "headline": "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-09-50-03 +0000"
+  },
+  {
+    "headline": "One Gazan Girl’s Fight to Survive Extreme Hunger",
+    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/hoda-gaza-malnutrition-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-09-39-00 +0000"
+  },
+  {
+    "headline": "One Gazan Girl’s Fight to Survive Extreme Hunger",
+    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/hoda-gaza-malnutrition-israel.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-09-39-00 +0000"
+  },
+  {
+    "headline": "California Drops Lawsuit Over $4 Billion Federal Cut to High-Speed Rail Project",
+    "link": "https://www.nytimes.com/2025/12/27/us/california-high-speed-rail-lawsuit-transportation-department.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-09-28-18 +0000"
+  },
+  {
+    "headline": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real",
+    "link": "https://www.nytimes.com/2025/12/27/world/asia/myanmar-election-democracy-junta.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-09-10-58 +0000"
+  },
+  {
+    "headline": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real",
+    "link": "https://www.nytimes.com/2025/12/27/world/asia/myanmar-election-democracy-junta.html",
+    "source": "nyt",
+    "pubdate": "2025-12-27-09-10-58 +0000"
+  },
+  {
+    "headline": "Russian drones, missiles pound Ukraine before Zelensky’s meeting with Trump",
+    "link": "https://nypost.com/2025/12/27/world-news/russian-drones-missiles-pound-ukraine-before-zelenskys-meeting-with-trump/",
+    "source": "nypost",
+    "pubdate": "2025-12-27-09-04-51 +0000"
+  },
+  {
+    "headline": "The best players who never won Afcon?",
+    "link": "https://www.bbc.com/sport/football/videos/c1dz1d7r9vno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-09-04-48 +0000"
+  },
+  {
+    "headline": "Test your Canadian politics knowledge with The House's 2025 year-end quiz",
+    "link": "https://www.cbc.ca/news/politics/canadian-politics-quiz-2025-9.7020121?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-27-09-00-00 +0000"
+  },
+  {
     "headline": "Zelensky says he will meet Trump soon, citing progress in peace plan",
     "link": "https://www.washingtonpost.com/world/2025/12/26/ukraine-russia-trump-peace-plan/",
     "source": "wapo",
@@ -28,18 +298,6 @@
     "link": "https://www.nytimes.com/2025/12/26/world/asia/thailand-cambodia-cease-fire-border-war.html",
     "source": "nyt",
     "pubdate": "2025-12-27-08-28-27 +0000"
-  },
-  {
-    "headline": "Russia Attacks Kyiv Ahead of Trump-Zelensky Meeting",
-    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-08-18-33 +0000"
-  },
-  {
-    "headline": "Russia Attacks Kyiv Ahead of Trump-Zelensky Meeting",
-    "link": "https://www.nytimes.com/2025/12/27/world/europe/kyiv-ukraine-russia-trump-zelensky.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-08-18-33 +0000"
   },
   {
     "headline": "Thailand, Cambodia Agree Immediate Cease-Fire in Border Clashes",
@@ -96,7 +354,7 @@
     "pubdate": "2025-12-27-07-33-56 +0000"
   },
   {
-    "headline": "Misspelled learning center, no children inside: Emmer presses Walz over Minnesota daycare tied to $4M",
+    "headline": "Misspelled learning center, no children inside: Emmer presses Walz over Minnesota daycare tied to $4M of state funding",
     "link": "https://nypost.com/2025/12/27/us-news/minnesota-daycare-the-quality-learning-center-recieved-4-million-in-state-fund-during-tim-walz-somali-fraud/",
     "source": "nypost",
     "pubdate": "2025-12-27-07-03-21 +0000"
@@ -126,12 +384,6 @@
     "pubdate": "2025-12-27-05-58-12 +0000"
   },
   {
-    "headline": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-    "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-27-05-58-12 +0000"
-  },
-  {
     "headline": "Kennedy Center Chief Threatens Legal Action Over Canceled Christmas Concert",
     "link": "https://www.nytimes.com/2025/12/27/us/kennedy-center-concert-lawsuit.html",
     "source": "nyt",
@@ -139,7 +391,7 @@
   },
   {
     "headline": "Karoline Leavitt Says She’s Expecting Her Second Child",
-    "link": "https://www.nytimes.com/2025/12/26/us/karoline-leavitt-says-shes-expecting-her-second-child.html",
+    "link": "https://www.nytimes.com/2025/12/26/us/karoline-leavitt-pregnant-second-child.html",
     "source": "nyt",
     "pubdate": "2025-12-27-05-33-06 +0000"
   },
@@ -312,13 +564,13 @@
     "pubdate": "2025-12-27-01-36-28 +0000"
   },
   {
-    "headline": "Scott Bessent expects ‘gigantic’ tax refund year for American households",
+    "headline": "Americans in line for ‘gigantic’ tax refund early next year, says Scott Bessent",
     "link": "https://nypost.com/2025/12/26/us-news/scott-bessent-expects-gigantic-tax-refund-year-for-american-households/",
     "source": "nypost",
     "pubdate": "2025-12-27-01-27-11 +0000"
   },
   {
-    "headline": "Scott Bessent expects ‘gigantic’ tax refund year for American households",
+    "headline": "Americans in line for ‘gigantic’ tax refund early next year, says Scott Bessent",
     "link": "https://nypost.com/2025/12/26/us-news/scott-bessent-expects-gigantic-tax-refund-year-for-american-households/",
     "source": "nypost",
     "pubdate": "2025-12-27-01-27-11 +0000"
@@ -348,6 +600,12 @@
     "pubdate": "2025-12-27-00-57-52 +0000"
   },
   {
+    "headline": "One general, one mathematician: The men competing for power in two African elections",
+    "link": "https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-00-57-52 +0000"
+  },
+  {
     "headline": "Chilling discovery made days after mom and her 6-year-old twins were found dead in mansion",
     "link": "https://nypost.com/2025/12/26/us-news/chilling-discovery-made-days-after-mom-and-her-6-year-old-twins-were-slain-in-their-mansion/",
     "source": "nypost",
@@ -358,6 +616,12 @@
     "link": "https://www.nytimes.com/2025/12/26/us/tea-tyme-tiktok-accident-charges.html",
     "source": "nyt",
     "pubdate": "2025-12-27-00-47-52 +0000"
+  },
+  {
+    "headline": "Both of these influencers are successful - but only one is human",
+    "link": "https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-27-00-41-28 +0000"
   },
   {
     "headline": "Courtroom gasps as Ashlee Buzzard pleads not guilty to murder of 9-year-old Melodee",
@@ -906,12 +1170,6 @@
     "pubdate": "2025-12-26-18-33-00 +0000"
   },
   {
-    "headline": "The $1.8 Billion Question in Arkansas: Who Won the Powerball Jackpot?",
-    "link": "https://www.nytimes.com/2025/12/25/us/powerball-jackpot-win-ticket-arkansas.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-18-32-17 +0000"
-  },
-  {
     "headline": "How to stop your holiday gift returns from going to a landfill",
     "link": "https://nypost.com/2025/12/26/world-news/how-to-stop-your-holiday-gift-returns-from-going-to-a-landfill/",
     "source": "nypost",
@@ -1272,18 +1530,6 @@
     "pubdate": "2025-12-26-12-18-26 +0000"
   },
   {
-    "headline": "One Gazan Girl’s Fight to Survive Extreme Hunger",
-    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/hoda-gaza-malnutrition-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-12-15-14 +0000"
-  },
-  {
-    "headline": "One Gazan Girl’s Fight to Survive Extreme Hunger",
-    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/hoda-gaza-malnutrition-israel.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-12-15-14 +0000"
-  },
-  {
     "headline": "A College Freshman Is the Unlikely Source of Alabama’s New Political Maps",
     "link": "https://www.nytimes.com/2025/12/26/us/alabama-redistricting-maps-college-student.html",
     "source": "nyt",
@@ -1306,167 +1552,5 @@
     "link": "https://www.startribune.com/photos-inside-hamms-brewery-st-paul-development/601543602",
     "source": "startribune",
     "pubdate": "2025-12-26-12-00-00 +0000"
-  },
-  {
-    "headline": "China Sanctions Boeing, Other U.S. Companies Over Taiwan Arms Sale",
-    "link": "https://www.wsj.com/world/china/china-sanctions-boeing-other-u-s-companies-over-taiwan-arms-sale-ef6032a4",
-    "source": "wsj",
-    "pubdate": "2025-12-26-11-53-00 +0000"
-  },
-  {
-    "headline": "Life on the Bay",
-    "link": "https://missionlocal.org/2025/12/life-on-the-bay/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-26-11-47-00 +0000"
-  },
-  {
-    "headline": "Tributes as UK's first female Asian lord mayor dies",
-    "link": "https://www.bbc.com/news/articles/cgjn9n6dvn8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-26-11-25-54 +0000"
-  },
-  {
-    "headline": "Turkey arrests suspected ISIS member linked to planning attacks on new year celebrations",
-    "link": "https://www.cbc.ca/news/world/turkey-apprehends-suspected-isis-member-planned-new-year-attacks-9.7028251?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-26-11-14-54 +0000"
-  },
-  {
-    "headline": "Trump, Zelensky to meet Sunday at Mar-a-Lago to ‘work out issues’",
-    "link": "https://nypost.com/2025/12/26/world-news/trump-zelensky-meeting-planned-for-near-future-signaling-ukraine-war-progress/",
-    "source": "nypost",
-    "pubdate": "2025-12-26-11-07-36 +0000"
-  },
-  {
-    "headline": "Trump, Zelensky to meet Sunday at Mar-a-Lago to ‘work out issues’",
-    "link": "https://nypost.com/2025/12/26/world-news/trump-zelensky-meeting-planned-for-near-future-signaling-ukraine-war-progress/",
-    "source": "nypost",
-    "pubdate": "2025-12-26-11-07-36 +0000"
-  },
-  {
-    "headline": "States invest in child care more than ever to help parents with rising costs",
-    "link": "https://www.washingtonpost.com/nation/2025/12/26/state-childcare-subsidies-costs/",
-    "source": "wapo",
-    "pubdate": "2025-12-26-11-00-00 +0000"
-  },
-  {
-    "headline": "Rolex Tries to Beat Watch Flippers at Their Own Game",
-    "link": "https://www.wsj.com/finance/rolex-watch-secondhand-market-3ddb113e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-26-10-30-00 +0000"
-  },
-  {
-    "headline": "Customs Crackdown Leads to Blocked, Destroyed Imports",
-    "link": "https://www.wsj.com/economy/trade/customs-crackdown-leads-to-blocked-destroyed-imports-e8783ca9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-26-10-30-00 +0000"
-  },
-  {
-    "headline": "Rolex Tries to Beat Watch Flippers at Their Own Game",
-    "link": "https://www.wsj.com/finance/rolex-watch-secondhand-market-3ddb113e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-26-10-30-00 +0000"
-  },
-  {
-    "headline": "Rolex Tries to Beat Watch Flippers at Their Own Game",
-    "link": "https://www.wsj.com/finance/rolex-watch-secondhand-market-3ddb113e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-26-10-30-00 +0000"
-  },
-  {
-    "headline": "Tens of thousands of imports are being stopped from entering the U.S. Those that can’t clear customs because of missing or incomplete information are returned—or destroyed.",
-    "link": "https://www.wsj.com/economy/trade/customs-crackdown-leads-to-blocked-destroyed-imports-e8783ca9",
-    "source": "wsj",
-    "pubdate": "2025-12-26-10-30-00 +0000"
-  },
-  {
-    "headline": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
-    "link": "https://www.nytimes.com/2025/12/26/business/india-data-centers-google-amazon-microsoft.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-02-10 +0000"
-  },
-  {
-    "headline": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
-    "link": "https://www.nytimes.com/2025/12/26/business/india-data-centers-google-amazon-microsoft.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-02-10 +0000"
-  },
-  {
-    "headline": "Lagos’s Month of Partying Is Getting Pricier",
-    "link": "https://www.nytimes.com/video/world/africa/100000010588894/lagoss-month-of-partying-is-getting-pricier.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-02-01 +0000"
-  },
-  {
-    "headline": "Lagos’s Month of Partying Is Getting Pricier",
-    "link": "https://www.nytimes.com/video/world/africa/100000010588894/lagoss-month-of-partying-is-getting-pricier.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-02-01 +0000"
-  },
-  {
-    "headline": "Despite Crackdown on Activism, Tech Employees Are Still Picking Fights",
-    "link": "https://www.nytimes.com/2025/12/26/business/tech-employees-activism-kickstarter.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-01-59 +0000"
-  },
-  {
-    "headline": "How Ryan Wedding, a Canadian Olympic Snowboarder, Turned into a Drug Lord",
-    "link": "https://www.nytimes.com/2025/12/26/world/canada/ryan-wedding-olympic-snowboarder-drug-lord.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-01-46 +0000"
-  },
-  {
-    "headline": "How Ryan Wedding, a Canadian Olympic Snowboarder, Turned into a Drug Lord",
-    "link": "https://www.nytimes.com/2025/12/26/world/canada/ryan-wedding-olympic-snowboarder-drug-lord.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-01-46 +0000"
-  },
-  {
-    "headline": "New Egyptian museum brings fresh pressure for return of Nefertiti’s bust",
-    "link": "https://www.washingtonpost.com/world/2025/12/26/new-egyptian-museum-brings-fresh-pressure-return-nefertitis-bust/",
-    "source": "wapo",
-    "pubdate": "2025-12-26-10-00-51 +0000"
-  },
-  {
-    "headline": "Northern California Conservatives Are Frustrated They Could Get a Democratic Representative",
-    "link": "https://www.nytimes.com/2025/12/26/us/politics/california-redistricting-lamalfa-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-00-48 +0000"
-  },
-  {
-    "headline": "Northern California Conservatives Are Frustrated They Could Get a Democratic Representative",
-    "link": "https://www.nytimes.com/2025/12/26/us/politics/california-redistricting-lamalfa-republicans.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-00-48 +0000"
-  },
-  {
-    "headline": "How Well Does Apple’s Live Translation Work for Japanese? I Tested It in Tokyo.",
-    "link": "https://www.nytimes.com/2025/12/26/travel/airpods-live-translation-japan.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-00-28 +0000"
-  },
-  {
-    "headline": "Feral Dogs on the Roof of the World",
-    "link": "https://www.nytimes.com/2025/12/26/science/feral-dogs-wildlife-ladakh.html",
-    "source": "nyt",
-    "pubdate": "2025-12-26-10-00-18 +0000"
-  },
-  {
-    "headline": "She spent the war planning to stay in Gaza. Now she is ready to leave.",
-    "link": "https://www.washingtonpost.com/world/2025/12/26/gaza-displaced-homes-destroyed-leave/",
-    "source": "wapo",
-    "pubdate": "2025-12-26-10-00-00 +0000"
-  },
-  {
-    "headline": "Consumers keep contradicting themselves. What does that mean for 2026?",
-    "link": "https://www.washingtonpost.com/business/2025/12/26/consumer-spending-holiday-shopping-2026/",
-    "source": "wapo",
-    "pubdate": "2025-12-26-10-00-00 +0000"
-  },
-  {
-    "headline": "Consumers keep contradicting themselves. What does that mean for 2026?",
-    "link": "https://www.washingtonpost.com/business/2025/12/26/consumer-spending-holiday-shopping-2026/",
-    "source": "wapo",
-    "pubdate": "2025-12-26-10-00-00 +0000"
   }
 ]
