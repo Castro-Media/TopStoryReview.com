@@ -1,13 +1,13 @@
 [
   {
-    "score": 86,
-    "pubdate": "2025-12-28-15-13-35 +0000",
+    "score": 89,
+    "pubdate": "2025-12-28-15-51-54 +0000",
     "source": "nypost",
-    "headline": "Trump declares cease-fire between Thailand and Cambodia again — and says US has become world’s peace-keeper",
-    "link": "https://nypost.com/2025/12/28/us-news/trump-declares-cease-fire-between-thailand-and-cambodia-again/"
+    "headline": "Zelensky vows to ‘do whatever it takes’ to end war as he prepares for Trump Mar-a-Lago meeting",
+    "link": "https://nypost.com/2025/12/28/us-news/zelensky-vows-to-do-whatever-it-takes-to-end-war-as-he-prepares-for-trump-powwow/"
   },
   {
-    "score": 56,
+    "score": 57,
     "pubdate": "2025-12-28-10-01-43 +0000",
     "source": "nyt",
     "headline": "Twins’ Peaks: The Gilbertson Brothers Want to Rewrite Your Country’s Map",
@@ -15,10 +15,10 @@
   },
   {
     "score": 49,
-    "pubdate": "2025-12-28-15-40-43 +0000",
-    "source": "nyt",
-    "headline": "Zelensky to Meet With Trump at Mar-a-Lago About Plan to End War With Russia",
-    "link": "https://www.nytimes.com/2025/12/28/world/europe/zelensky-trump-ukraine-russia-talks.html"
+    "pubdate": "2025-12-28-15-13-35 +0000",
+    "source": "nypost",
+    "headline": "Trump declares cease-fire between Thailand and Cambodia again — and says US has become world’s peace-keeper",
+    "link": "https://nypost.com/2025/12/28/us-news/trump-declares-cease-fire-between-thailand-and-cambodia-again/"
   },
   {
     "score": 49,
@@ -36,13 +36,20 @@
   },
   {
     "score": 38,
-    "pubdate": "2025-12-28-13-00-00 +0000",
-    "source": "startribune",
-    "headline": "New year brings new laws, including paid family leave",
-    "link": "https://www.startribune.com/new-laws-minnesota-go-into-effect-jan-1-2026-paid-leave-watercraft-fees-deer-shotgun-zone/601549609"
+    "pubdate": "2025-12-28-14-17-54 +0000",
+    "source": "nypost",
+    "headline": "Hochul throws weight behind Mamdani’s multi-billion dollar universal childcare plan — but doesn’t say who’s going to pay or how",
+    "link": "https://nypost.com/2025/12/28/us-news/gov-hochul-throws-weight-behind-mamdanis-universal-childcare-plan-but-doesnt-say-whos-going-to-pay-or-how/"
   },
   {
-    "score": 35,
+    "score": 36,
+    "pubdate": "2025-12-27-21-27-46 +0000",
+    "source": "nypost",
+    "headline": "Kim Jong Un hails bond of ‘blood, life and death’ with Moscow in New Year’s message to Vladimir Putin",
+    "link": "https://nypost.com/2025/12/27/world-news/kim-jong-un-hails-bond-of-blood-life-and-death-with-moscow-in-new-years-message-to-vladimir-putin/"
+  },
+  {
+    "score": 34,
     "pubdate": "2025-12-28-08-59-41 +0000",
     "source": "nypost",
     "headline": "Next major storm system threatens Midwest with high winds, snow and rain before sweeping into Northeast",
@@ -50,23 +57,16 @@
   },
   {
     "score": 33,
-    "pubdate": "2025-12-28-14-17-54 +0000",
-    "source": "nypost",
-    "headline": "Hochul throws weight behind Mamdani’s multi-billion dollar universal childcare plan — but doesn’t say who’s going to pay or how",
-    "link": "https://nypost.com/2025/12/28/us-news/gov-hochul-throws-weight-behind-mamdanis-universal-childcare-plan-but-doesnt-say-whos-going-to-pay-or-how/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-12-28-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "There’s No Happy Ending for Movie Theaters, No Matter Who Wins Warner",
-    "link": "https://www.wsj.com/business/media/theres-no-happy-ending-for-movie-theaters-no-matter-who-wins-warner-e1d99e45?mod=pls_whats_news_us_business_f"
+    "pubdate": "2025-12-28-15-51-21 +0000",
+    "source": "nyt",
+    "headline": "What to Know About Colombia’s Role in the Global Drug Trade Amid Trump’s Feud With Petro",
+    "link": "https://www.nytimes.com/2025/12/28/world/americas/colombia-drug-trade-trump-petro.html"
   },
   {
     "score": 32,
-    "pubdate": "2025-12-27-22-41-42 +0000",
-    "source": "nyt",
-    "headline": "How Oil, Drugs and Immigration Fueled Trump’s Venezuela Campaign",
-    "link": "https://www.nytimes.com/2025/12/27/us/politics/venezuela-trump-maduro-oil-boat-strikes-immigration.html"
+    "pubdate": "2025-12-28-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "There’s No Happy Ending for Movie Theaters, No Matter Who Wins Warner",
+    "link": "https://www.wsj.com/business/media/theres-no-happy-ending-for-movie-theaters-no-matter-who-wins-warner-e1d99e45?mod=rss_markets_main"
   }
 ]
