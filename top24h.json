@@ -1,6 +1,6 @@
 [
   {
-    "score": 78,
+    "score": 73,
     "pubdate": "2025-12-27-09-04-51 +0000",
     "source": "nypost",
     "headline": "Russian drones, missiles pound Ukraine before Zelensky’s meeting with Trump: ‘This is the true attitude of Putin’",
@@ -14,11 +14,18 @@
     "link": "https://www.cbc.ca/news/world/thailand-cambodia-border-clashes-ceasefire-agreement-9.7028492?cmp=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2025-12-27-03-30-11 +0000",
+    "score": 44,
+    "pubdate": "2025-12-27-20-02-17 +0000",
     "source": "nypost",
-    "headline": "Trump-Kennedy Center filing $1M lawsuit against musician who pulled out of Christmas Eve concert over name change",
-    "link": "https://nypost.com/2025/12/26/us-news/trump-kennedy-center-filing-1m-lawsuit-against-musician-who-pulled-out-of-christmas-eve-concert-over-name-change/"
+    "headline": "Mayor Adams turns Christmas time into Valentine’s Day by calling snowy Saturday a ‘good baby-making day’",
+    "link": "https://nypost.com/2025/12/27/us-news/mayor-adams-bizarrely-calls-snowstorm-a-good-baby-making-day/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-12-27-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
+    "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
   },
   {
     "score": 35,
@@ -28,28 +35,14 @@
     "link": "https://www.nytimes.com/2025/12/27/us/politics/venezuela-trump-maduro-oil-boat-strikes-immigration.html"
   },
   {
-    "score": 35,
-    "pubdate": "2025-12-27-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
-    "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-12-27-19-22-01 +0000",
+    "score": 32,
+    "pubdate": "2025-12-27-20-57-25 +0000",
     "source": "nypost",
-    "headline": "Elon Musk slams Mamdani’s appointment of Lillian Bonsignore as FDNY commissioner over lack of experience: ‘People will die’",
-    "link": "https://nypost.com/2025/12/27/us-news/elon-musk-slams-mamdanis-fdny-commissioner-pick-over-lack-of-experience-people-will-die/"
+    "headline": "Iran declares ‘total war’ against US, Israel and Europe as Islamic Republic seeks to expand nuclear capabilities",
+    "link": "https://nypost.com/2025/12/27/world-news/iranian-president-warns-tehran-is-in-total-war-against-west/"
   },
   {
-    "score": 33,
-    "pubdate": "2025-12-27-19-46-16 +0000",
-    "source": "cbc",
-    "headline": "Jeffrey R. Holland, next in line to lead Church of Jesus Christ of Latter-day Saints, dead at 85",
-    "link": "https://www.cbc.ca/news/world/jeffrey-r-holland-obit-mormon-church-jesus-christ-latter-day-saints-9.7028616?cmp=rss"
-  },
-  {
-    "score": 30,
+    "score": 32,
     "pubdate": "2025-12-27-05-01-06 +0000",
     "source": "nyt",
     "headline": "Before This Physicist Studied the Stars, He Was One",
@@ -57,10 +50,10 @@
   },
   {
     "score": 28,
-    "pubdate": "2025-12-27-21-10-38 +0000",
-    "source": "nypost",
-    "headline": "Ukrainian anti-corruption police raid Kyiv parliament building as part of sweeping energy probe",
-    "link": "https://nypost.com/2025/12/27/world-news/ukrainian-anti-corruption-police-raid-kyiv-parliament-building-as-part-of-sweeping-energy-probe/"
+    "pubdate": "2025-12-27-12-03-20 +0000",
+    "source": "bbc",
+    "headline": "Two dead in 50-vehicle pile up on Japan highway",
+    "link": "https://www.bbc.com/news/articles/c157e9dddwwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 28,
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Lopez: After a year of insults, raids, arrests and exile, a celebration of the California immigrant",
     "link": "https://www.latimes.com/california/story/2025-12-27/after-year-of-insults-raids-arrests-exile-celebration-of-california-immigrant"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-12-27-21-10-38 +0000",
+    "source": "nypost",
+    "headline": "Ukrainian anti-corruption police raid Kyiv parliament building as part of sweeping energy probe",
+    "link": "https://nypost.com/2025/12/27/world-news/ukrainian-anti-corruption-police-raid-kyiv-parliament-building-as-part-of-sweeping-energy-probe/"
   }
 ]
