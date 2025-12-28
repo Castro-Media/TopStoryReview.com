@@ -1,5 +1,155 @@
 [
   {
+    "headline": "Syrian Protests Over Lack of Security Leave 2 Dead",
+    "link": "https://www.nytimes.com/2025/12/28/world/middleeast/syria-protests-alawite-two-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-18-47-56 +0000"
+  },
+  {
+    "headline": "Syrian Protests Over Lack of Security Leave 2 Dead",
+    "link": "https://www.nytimes.com/2025/12/28/world/middleeast/syria-protests-alawite-two-killed.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-18-47-56 +0000"
+  },
+  {
+    "headline": "Gmail to Let Users Change Their Addresses While Keeping Data",
+    "link": "https://www.nytimes.com/2025/12/28/technology/gmail-change-address-email.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-18-47-25 +0000"
+  },
+  {
+    "headline": "Zelensky Meets With Trump on Peace Deal Amid Latest Russian Attacks",
+    "link": "https://www.wsj.com/world/trump-zelensky-russia-ukraine-mar-a-lago-meeting-43e62c44",
+    "source": "wsj",
+    "pubdate": "2025-12-28-18-44-00 +0000"
+  },
+  {
+    "headline": "IDF gets first combat-ready laser interception system",
+    "link": "https://nypost.com/2025/12/28/world-news/idf-gets-first-combat-ready-laser-interception-system/",
+    "source": "nypost",
+    "pubdate": "2025-12-28-18-42-41 +0000"
+  },
+  {
+    "headline": "Thieves made off with $400K worth of Costco lobsters using a sneaky new trick",
+    "link": "https://nypost.com/2025/12/28/us-news/thieves-made-off-with-400k-in-costco-lobsters-using-sneaky-new-trick/",
+    "source": "nypost",
+    "pubdate": "2025-12-28-18-27-58 +0000"
+  },
+  {
+    "headline": "2 helicopters collide, crash in New Jersey, harrowing video shows",
+    "link": "https://nypost.com/2025/12/28/us-news/2-helicopters-collide-crash-in-new-jersey-harrowing-video-shows/",
+    "source": "nypost",
+    "pubdate": "2025-12-28-18-23-26 +0000"
+  },
+  {
+    "headline": "Snow intensifies across Minnesota as blizzard conditions develop",
+    "link": "https://www.startribune.com/snow-intensifies-across-minnesota-as-blizzard-conditions-develop/601553336",
+    "source": "startribune",
+    "pubdate": "2025-12-28-18-05-56 +0000"
+  },
+  {
+    "headline": "Rosy outlook for commercial real estate in 2026 has dark patches too",
+    "link": "https://nypost.com/2025/12/28/business/theres-plenty-of-cause-for-pessimism-for-nyc-commercial-real-estate-in-2026/",
+    "source": "nypost",
+    "pubdate": "2025-12-28-18-04-20 +0000"
+  },
+  {
+    "headline": "Brigitte Bardot: A Life in Pictures",
+    "link": "https://www.nytimes.com/2025/12/28/movies/brigitte-bardot-photos.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-18-01-42 +0000"
+  },
+  {
+    "headline": "How Minnesota drivers can wipe their snow boogers this winter",
+    "link": "https://www.startribune.com/minnesota-winter-vehicle-care-snow-boogers-tires-tread-wipe-roof/601547205",
+    "source": "startribune",
+    "pubdate": "2025-12-28-18-00-00 +0000"
+  },
+  {
+    "headline": "Brigitte Bardot, French Movie Icon Who Renounced Stardom, Dies at 91",
+    "link": "https://www.nytimes.com/2025/12/28/movies/brigitte-bardot-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-17-50-11 +0000"
+  },
+  {
+    "headline": "Man Charged in Fatal Shooting During Backyard Target Practice",
+    "link": "https://www.nytimes.com/2025/12/28/us/oklahoma-shooting-neighbor-christmas.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-17-48-18 +0000"
+  },
+  {
+    "headline": "Trump speaks with Putin ahead of meeting with Zelensky",
+    "link": "https://www.washingtonpost.com/politics/2025/12/28/trump-zelensky-meeting-ukraine-russia/",
+    "source": "wapo",
+    "pubdate": "2025-12-28-17-44-20 +0000"
+  },
+  {
+    "headline": "Caroline Ellison, turncoat ex-lover of crypto crook Sam Bankman-Fried, set for early release from federal prison",
+    "link": "https://nypost.com/2025/12/28/us-news/caroline-ellison-ex-lover-of-crypto-crook-sam-bankman-fried-to-get-early-release-from-federal-prison/",
+    "source": "nypost",
+    "pubdate": "2025-12-28-17-36-56 +0000"
+  },
+  {
+    "headline": "Zelensky to Meet With Trump at Mar-a-Lago About Plan to End War With Russia",
+    "link": "https://www.nytimes.com/2025/12/28/world/europe/zelensky-trump-ukraine-russia-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-17-32-52 +0000"
+  },
+  {
+    "headline": "Zelensky to Meet With Trump at Mar-a-Lago About Plan to End War With Russia",
+    "link": "https://www.nytimes.com/2025/12/28/world/europe/zelensky-trump-ukraine-russia-talks.html",
+    "source": "nyt",
+    "pubdate": "2025-12-28-17-32-52 +0000"
+  },
+  {
+    "headline": "Spaniards hurl flour, eggs and fireworks in mock battle",
+    "link": "https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-28-17-10-19 +0000"
+  },
+  {
+    "headline": "Opinion | House Republicans Had a Great Year",
+    "link": "https://www.wsj.com/opinion/house-republicans-had-a-great-year-04efce46",
+    "source": "wsj",
+    "pubdate": "2025-12-28-17-08-00 +0000"
+  },
+  {
+    "headline": "NYC’s original Paulie Gee’s to close, rebrand as ‘tavern’ — and some fans are furious",
+    "link": "https://nypost.com/2025/12/28/us-news/nycs-original-paulie-gees-to-close-rebrand-as-tavern-and-some-fans-are-furious/",
+    "source": "nypost",
+    "pubdate": "2025-12-28-17-07-31 +0000"
+  },
+  {
+    "headline": "Opinion | Venezuela and Cuba: What’s Next?",
+    "link": "https://www.wsj.com/opinion/venezuela-and-cuba-whats-next-586ef145",
+    "source": "wsj",
+    "pubdate": "2025-12-28-17-06-00 +0000"
+  },
+  {
+    "headline": "Thailand, Cambodia Agree to Immediate Cease-Fire in Border Clashes",
+    "link": "https://www.wsj.com/world/africa/thailand-cambodia-agree-immediate-cease-fire-in-border-clashes-c8ec1f02",
+    "source": "wsj",
+    "pubdate": "2025-12-28-17-02-00 +0000"
+  },
+  {
+    "headline": "Theme Parks’ New Strategy: Smaller, Cheaper and Shorter",
+    "link": "https://www.wsj.com/business/hospitality/theme-parks-new-strategy-smaller-cheaper-and-shorter-3d392edc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-28-17-00-00 +0000"
+  },
+  {
+    "headline": "Theme Parks’ New Strategy: Smaller, Cheaper and Shorter",
+    "link": "https://www.wsj.com/business/hospitality/theme-parks-new-strategy-smaller-cheaper-and-shorter-3d392edc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-28-17-00-00 +0000"
+  },
+  {
+    "headline": "The U.S. Air Force’s​ new Wedgetail ​jet program ​seemed doomed by delays and rising costs—until Congress ​intervened",
+    "link": "https://www.wsj.com/politics/national-security/boeings-724-million-radar-plane-lives-on-despite-pentagon-efforts-to-kill-it-7561f6b7",
+    "source": "wsj",
+    "pubdate": "2025-12-28-17-00-00 +0000"
+  },
+  {
     "headline": "This easy hack will defrost your windshield in seconds this winter",
     "link": "https://nypost.com/2025/12/28/lifestyle/hack-to-defrost-windshield-in-seconds/",
     "source": "nypost",
@@ -36,16 +186,10 @@
     "pubdate": "2025-12-28-16-41-45 +0000"
   },
   {
-    "headline": "Brigitte Bardot, French Movie Icon Who Renounced Stardom, Dies at 91",
-    "link": "https://www.nytimes.com/2025/12/28/movies/brigitte-bardot-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-28-16-32-38 +0000"
-  },
-  {
-    "headline": "Snow intensifies across Minnesota as blizzard conditions develop",
-    "link": "https://www.startribune.com/snow-intensifies-across-minnesota-as-blizzard-conditions-develop/601553336",
+    "headline": "Reusse: Before the dramatic change in college basketball, you had to love Clem Haskins",
+    "link": "https://www.startribune.com/patrick-reusse-column-clem-haskins-yevette-brent-hoosiers-bob-knight/601553021",
     "source": "startribune",
-    "pubdate": "2025-12-28-16-29-03 +0000"
+    "pubdate": "2025-12-28-16-22-11 +0000"
   },
   {
     "headline": "What America Might Look Like With Zero Immigration",
@@ -90,19 +234,13 @@
     "pubdate": "2025-12-28-15-58-09 +0000"
   },
   {
-    "headline": "Brigitte Bardot: A Life in Pictures",
-    "link": "https://www.nytimes.com/2025/12/28/movies/brigitte-bardot-photos.html",
-    "source": "nyt",
-    "pubdate": "2025-12-28-15-52-48 +0000"
-  },
-  {
-    "headline": "Zelensky vows to ‘do whatever it takes’ to end war as he prepares for Trump Mar-a-Lago meeting",
+    "headline": "Trump touts ‘good and very productive’ call with Putin ahead of meeting with Zelensky at Mar-a-Lago",
     "link": "https://nypost.com/2025/12/28/us-news/zelensky-vows-to-do-whatever-it-takes-to-end-war-as-he-prepares-for-trump-powwow/",
     "source": "nypost",
     "pubdate": "2025-12-28-15-51-54 +0000"
   },
   {
-    "headline": "Zelensky vows to ‘do whatever it takes’ to end war as he prepares for Trump Mar-a-Lago meeting",
+    "headline": "Trump touts ‘good and very productive’ call with Putin ahead of meeting with Zelensky at Mar-a-Lago",
     "link": "https://nypost.com/2025/12/28/us-news/zelensky-vows-to-do-whatever-it-takes-to-end-war-as-he-prepares-for-trump-powwow/",
     "source": "nypost",
     "pubdate": "2025-12-28-15-51-54 +0000"
@@ -156,18 +294,6 @@
     "pubdate": "2025-12-28-15-41-45 +0000"
   },
   {
-    "headline": "Zelensky to Meet With Trump at Mar-a-Lago About Plan to End War With Russia",
-    "link": "https://www.nytimes.com/2025/12/28/world/europe/zelensky-trump-ukraine-russia-talks.html",
-    "source": "nyt",
-    "pubdate": "2025-12-28-15-40-43 +0000"
-  },
-  {
-    "headline": "Zelensky to Meet With Trump at Mar-a-Lago About Plan to End War With Russia",
-    "link": "https://www.nytimes.com/2025/12/28/world/europe/zelensky-trump-ukraine-russia-talks.html",
-    "source": "nyt",
-    "pubdate": "2025-12-28-15-40-43 +0000"
-  },
-  {
     "headline": "Protesters clash in Syria after deadly Alawite mosque bombing",
     "link": "https://nypost.com/2025/12/28/world-news/protesters-clash-in-syria-after-deadly-alawite-mosque-bombing/",
     "source": "nypost",
@@ -180,7 +306,7 @@
     "pubdate": "2025-12-28-15-32-00 +0000"
   },
   {
-    "headline": "Chicago post-Christmas mass shooting leaves 1 dead, 3 wounded",
+    "headline": "1 dead, 3 injured in Chicago post-Christmas shooting after gunmen open fire on $320K Lambo SUV",
     "link": "https://nypost.com/2025/12/28/us-news/chicago-post-christmas-mass-shooting-leaves-1-dead-3-wounded/",
     "source": "nypost",
     "pubdate": "2025-12-28-15-27-32 +0000"
@@ -306,6 +432,12 @@
     "pubdate": "2025-12-28-13-02-00 +0000"
   },
   {
+    "headline": "Michael Burry Bets He Isn’t Too Early to Go Against the AI Juggernaut",
+    "link": "https://www.wsj.com/finance/stocks/michael-burry-bets-he-isnt-too-early-to-go-against-the-ai-juggernaut-5d95d21e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-28-13-02-00 +0000"
+  },
+  {
     "headline": "New year brings new laws, including paid family leave",
     "link": "https://www.startribune.com/new-laws-minnesota-go-into-effect-jan-1-2026-paid-leave-watercraft-fees-deer-shotgun-zone/601549609",
     "source": "startribune",
@@ -402,12 +534,6 @@
     "pubdate": "2025-12-28-12-00-00 +0000"
   },
   {
-    "headline": "With embrace of Native culture, St. Paul student finds his voice in state politics",
-    "link": "https://www.startribune.com/dexter-paasch-st-paul-politics-ho-chunk/601541444",
-    "source": "startribune",
-    "pubdate": "2025-12-28-12-00-00 +0000"
-  },
-  {
     "headline": "Three Months, 19,687 Nautical Miles: This Lengthy Trade Route Is Peak Globalization",
     "link": "https://www.wsj.com/articles/three-months-19-687-nautical-miles-this-lengthy-trade-route-is-peak-globalization-e2b3de15?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -424,12 +550,6 @@
     "link": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-28-11-56-57 +0000"
-  },
-  {
-    "headline": "As people with disabilities live longer, Twin Cities facilities rework services",
-    "link": "https://www.startribune.com/as-people-with-disabilities-live-longer-twin-cities-facilities-face-more-demand-for-services/601543798",
-    "source": "startribune",
-    "pubdate": "2025-12-28-11-30-00 +0000"
   },
   {
     "headline": "Night time gleaming",
@@ -642,12 +762,6 @@
     "pubdate": "2025-12-28-10-00-09 +0000"
   },
   {
-    "headline": "Zelensky to meet Trump as Russia continues to pound Ukraine",
-    "link": "https://www.washingtonpost.com/politics/2025/12/28/trump-zelensky-meeting-ukraine-russia/",
-    "source": "wapo",
-    "pubdate": "2025-12-28-10-00-00 +0000"
-  },
-  {
     "headline": "ICE shift in tactics leads to soaring number of at-large arrests, data shows",
     "link": "https://www.washingtonpost.com/immigration/2025/12/28/ice-deportations-data-trump-arrests/",
     "source": "wapo",
@@ -840,18 +954,6 @@
     "pubdate": "2025-12-28-01-54-10 +0000"
   },
   {
-    "headline": "Tipsy thief allegedly steals 2 mandolins from NJ music store, returns them with note saying ‘I been drunk’",
-    "link": "https://nypost.com/2025/12/27/us-news/tipsy-thief-steals-2-mandolins-from-nj-music-store-returns-them-days-later-with-note-saying-i-been-drunk/",
-    "source": "nypost",
-    "pubdate": "2025-12-28-01-47-47 +0000"
-  },
-  {
-    "headline": "Snow-capped Mount Etna erupts as skiers glide down slopes",
-    "link": "https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-28-01-40-21 +0000"
-  },
-  {
     "headline": "Snow-capped Mount Etna erupts as skiers glide down slopes",
     "link": "https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -868,12 +970,6 @@
     "link": "https://www.nytimes.com/2025/12/27/us/telluride-colorado-ski-resort-union-strike.html",
     "source": "nyt",
     "pubdate": "2025-12-28-00-58-11 +0000"
-  },
-  {
-    "headline": "‘Unlucky’ illegal immigrant runs red light, crashes straight into ICE vehicle: feds",
-    "link": "https://nypost.com/2025/12/27/us-news/unlucky-illegal-immigrant-allegedly-runs-red-light-and-crashes-into-ice-vehicle/",
-    "source": "nypost",
-    "pubdate": "2025-12-28-00-50-15 +0000"
   },
   {
     "headline": "Fearing deportation, Hondurans in the US send more cash home than ever before",
@@ -898,18 +994,6 @@
     "link": "https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-28-00-44-40 +0000"
-  },
-  {
-    "headline": "Bronx girl dies after being found unconscious at home — while neighbor claims dad ‘beat’ her",
-    "link": "https://nypost.com/2025/12/27/us-news/bronx-girl-dies-after-being-found-unconscious-at-home-while-neighbor-claims-dad-beat-her/",
-    "source": "nypost",
-    "pubdate": "2025-12-28-00-34-29 +0000"
-  },
-  {
-    "headline": "Ex-reality TV swinger jailed on child sex abuse and animal sex charges in Ohio",
-    "link": "https://nypost.com/2025/12/27/us-news/former-reality-tv-swinger-arrested-on-child-animal-sex-charges/",
-    "source": "nypost",
-    "pubdate": "2025-12-28-00-21-45 +0000"
   },
   {
     "headline": "Amid a civil war, polls open in Myanmar for 1st time since military coup 5 years ago",
@@ -1126,23 +1210,5 @@
     "link": "https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-27-19-00-55 +0000"
-  },
-  {
-    "headline": "Top anti-Putin Russian fighter killed in Ukraine: ‘We will take revenge’",
-    "link": "https://nypost.com/2025/12/27/world-news/top-anti-putin-russian-commander-leader-killed-in-ukraine-we-will-take-revenge/",
-    "source": "nypost",
-    "pubdate": "2025-12-27-18-18-20 +0000"
-  },
-  {
-    "headline": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real",
-    "link": "https://www.nytimes.com/2025/12/27/world/asia/myanmar-election-democracy-junta.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-18-06-19 +0000"
-  },
-  {
-    "headline": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real",
-    "link": "https://www.nytimes.com/2025/12/27/world/asia/myanmar-election-democracy-junta.html",
-    "source": "nyt",
-    "pubdate": "2025-12-27-18-06-19 +0000"
   }
 ]
