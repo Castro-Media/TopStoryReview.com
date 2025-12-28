@@ -7,14 +7,7 @@
     "link": "https://nypost.com/2025/12/27/world-news/russian-drones-missiles-pound-ukraine-before-zelenskys-meeting-with-trump/"
   },
   {
-    "score": 57,
-    "pubdate": "2025-12-27-00-57-52 +0000",
-    "source": "bbc",
-    "headline": "One general, one mathematician: The men competing for power in two African elections",
-    "link": "https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 55,
+    "score": 53,
     "pubdate": "2025-12-27-10-32-03 +0000",
     "source": "cbc",
     "headline": "Thailand, Cambodia sign new ceasefire deal to end weeks of border fighting",
@@ -36,10 +29,17 @@
   },
   {
     "score": 35,
-    "pubdate": "2025-12-27-08-44-24 +0000",
-    "source": "wapo",
-    "headline": "Zelensky says he will meet Trump soon, citing progress in peace plan",
-    "link": "https://www.washingtonpost.com/world/2025/12/26/ukraine-russia-trump-peace-plan/"
+    "pubdate": "2025-12-27-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
+    "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
+  },
+  {
+    "score": 33,
+    "pubdate": "2025-12-27-19-22-01 +0000",
+    "source": "nypost",
+    "headline": "Elon Musk slams Mamdani’s appointment of Lillian Bonsignore as FDNY commissioner over lack of experience: ‘People will die’",
+    "link": "https://nypost.com/2025/12/27/us-news/elon-musk-slams-mamdanis-fdny-commissioner-pick-over-lack-of-experience-people-will-die/"
   },
   {
     "score": 33,
@@ -49,7 +49,14 @@
     "link": "https://www.cbc.ca/news/world/jeffrey-r-holland-obit-mormon-church-jesus-christ-latter-day-saints-9.7028616?cmp=rss"
   },
   {
-    "score": 29,
+    "score": 30,
+    "pubdate": "2025-12-27-05-01-06 +0000",
+    "source": "nyt",
+    "headline": "Before This Physicist Studied the Stars, He Was One",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/brian-cox-astronomy-profile.html"
+  },
+  {
+    "score": 28,
     "pubdate": "2025-12-27-21-10-38 +0000",
     "source": "nypost",
     "headline": "Ukrainian anti-corruption police raid Kyiv parliament building as part of sweeping energy probe",
@@ -61,12 +68,5 @@
     "source": "latimes",
     "headline": "Lopez: After a year of insults, raids, arrests and exile, a celebration of the California immigrant",
     "link": "https://www.latimes.com/california/story/2025-12-27/after-year-of-insults-raids-arrests-exile-celebration-of-california-immigrant"
-  },
-  {
-    "score": 26,
-    "pubdate": "2025-12-27-19-22-01 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk slams Mamdani’s appointment of Lillian Bonsignore as FDNY commissioner over lack of experience: ‘People will die’",
-    "link": "https://nypost.com/2025/12/27/us-news/elon-musk-slams-mamdanis-fdny-commissioner-pick-over-lack-of-experience-people-will-die/"
   }
 ]
