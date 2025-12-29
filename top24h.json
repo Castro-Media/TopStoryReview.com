@@ -1,27 +1,27 @@
 [
   {
-    "score": 94,
+    "score": 108,
     "pubdate": "2025-12-29-00-34-51 +0000",
     "source": "nyt",
     "headline": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
     "link": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html"
   },
   {
-    "score": 55,
-    "pubdate": "2025-12-28-10-01-43 +0000",
+    "score": 45,
+    "pubdate": "2025-12-29-05-28-22 +0000",
     "source": "nyt",
-    "headline": "Twins’ Peaks: The Gilbertson Brothers Want to Rewrite Your Country’s Map",
-    "link": "https://www.nytimes.com/2025/12/28/science/eric-matthew-gilbertson-mountains.html"
+    "headline": "China Will Hold Live-Fire Military Exercises Around Taiwan",
+    "link": "https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html"
   },
   {
-    "score": 47,
-    "pubdate": "2025-12-28-14-17-31 +0000",
-    "source": "cbc",
-    "headline": "Brigitte Bardot, icon of French cinema turned animal rights activist, dead at 91",
-    "link": "https://www.cbc.ca/news/entertainment/brigitte-bardot-icon-french-cinema-dies-91-9.7028736?cmp=rss"
+    "score": 44,
+    "pubdate": "2025-12-28-19-01-49 +0000",
+    "source": "nypost",
+    "headline": "Trump believes ‘we have makings of a deal’ to end Ukraine war ahead of crucial Mar-a-Lago meeting with Zelensky",
+    "link": "https://nypost.com/2025/12/28/world-news/trump-believes-we-have-makings-of-a-deal-as-he-meets-with-zelensky/"
   },
   {
-    "score": 46,
+    "score": 42,
     "pubdate": "2025-12-29-05-52-42 +0000",
     "source": "nypost",
     "headline": "Minnesota Gov. Tim Walz on the defensive as fraud allegations mount after viral video uncovered Somali aid scheme",
@@ -29,20 +29,13 @@
   },
   {
     "score": 41,
-    "pubdate": "2025-12-28-19-01-49 +0000",
-    "source": "nypost",
-    "headline": "Trump believes ‘we have makings of a deal’ to end Ukraine war ahead of crucial Mar-a-Lago meeting with Zelensky",
-    "link": "https://nypost.com/2025/12/28/world-news/trump-believes-we-have-makings-of-a-deal-as-he-meets-with-zelensky/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2025-12-29-05-28-22 +0000",
+    "pubdate": "2025-12-29-10-11-38 +0000",
     "source": "nyt",
-    "headline": "China Will Hold Live-Fire Military Exercises Around Taiwan",
-    "link": "https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html"
+    "headline": "Parts of New York and New England Brace for Ice Storm",
+    "link": "https://www.nytimes.com/2025/12/29/us/new-york-new-england-ice-storm.html"
   },
   {
-    "score": 35,
+    "score": 34,
     "pubdate": "2025-12-28-16-00-00 +0000",
     "source": "wsj",
     "headline": "As Memories of Fukushima Fade, Japan Seeks Bigger Role for Nuclear Power",
@@ -50,23 +43,30 @@
   },
   {
     "score": 33,
-    "pubdate": "2025-12-28-10-30-00 +0000",
+    "pubdate": "2025-12-28-13-02-00 +0000",
     "source": "wsj",
-    "headline": "There’s No Happy Ending for Movie Theaters, No Matter Who Wins Warner",
-    "link": "https://www.wsj.com/business/media/theres-no-happy-ending-for-movie-theaters-no-matter-who-wins-warner-e1d99e45?mod=rss_markets_main"
+    "headline": "Michael Burry Bets He Isn’t Too Early to Go Against the AI Juggernaut",
+    "link": "https://www.wsj.com/finance/stocks/michael-burry-bets-he-isnt-too-early-to-go-against-the-ai-juggernaut-5d95d21e?mod=rss_markets_main"
   },
   {
-    "score": 31,
-    "pubdate": "2025-12-29-00-02-30 +0000",
+    "score": 32,
+    "pubdate": "2025-12-29-09-14-16 +0000",
     "source": "bbc",
-    "headline": "Many new UK drone users must take theory test before flying outside",
-    "link": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss"
+    "headline": "British-Egyptian dissident apologises for tweets as Tories push for UK deportation",
+    "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 31,
-    "pubdate": "2025-12-28-21-43-25 +0000",
-    "source": "nypost",
-    "headline": "The Supreme Court could give Republicans a good shot at keeping the House in 2026 — and these Dems are in the hot seat",
-    "link": "https://nypost.com/2025/12/28/us-news/supreme-courts-voting-rights-act-ruling-could-help-gop-keep-house-in-2026/"
+    "score": 29,
+    "pubdate": "2025-12-29-10-00-23 +0000",
+    "source": "nyt",
+    "headline": "Meet a U.S. Start-Up Trying to Break China’s Rare-Earth Monopoly",
+    "link": "https://www.nytimes.com/2025/12/29/business/energy-environment/rare-earth-processing-phoenix-tailings.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2025-12-28-14-17-31 +0000",
+    "source": "cbc",
+    "headline": "Brigitte Bardot, icon of French cinema turned animal rights activist, dead at 91",
+    "link": "https://www.cbc.ca/news/entertainment/brigitte-bardot-icon-french-cinema-dies-91-9.7028736?cmp=rss"
   }
 ]
