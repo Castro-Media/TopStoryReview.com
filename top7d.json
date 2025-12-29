@@ -1,6 +1,6 @@
 [
   {
-    "score": 423,
+    "score": 444,
     "pubdate": "2025-12-22-23-29-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced that the Navy will build a new “Trump-class” battleship, which will become the centerpiece of his vision for a new “Golden Fleet”",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-targeting-illicit-oil-tankers-in-bid-to-stymie-global-black-market-cf379ac4"
   },
   {
-    "score": 161,
+    "score": 157,
     "pubdate": "2025-12-29-11-45-04 +0000",
     "source": "nypost",
     "headline": "Zelensky says US offering Ukraine 15-year security guarantee in latest peace plan",
@@ -28,45 +28,45 @@
     "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html"
   },
   {
-    "score": 122,
-    "pubdate": "2025-12-27-03-30-11 +0000",
-    "source": "nypost",
-    "headline": "Trump-Kennedy Center filing $1M lawsuit against musician who pulled out of Christmas Eve concert over name change",
-    "link": "https://nypost.com/2025/12/26/us-news/trump-kennedy-center-filing-1m-lawsuit-against-musician-who-pulled-out-of-christmas-eve-concert-over-name-change/"
-  },
-  {
-    "score": 108,
+    "score": 109,
     "pubdate": "2025-12-25-23-59-19 +0000",
     "source": "latimes",
     "headline": "Federal judge blocks ICE from arresting immigrants who show up for court appointments in Northern California",
     "link": "https://www.latimes.com/california/story/2025-12-25/federal-judge-blocks-ice-from-arresting-immigrants-in-northern-california-courts"
   },
   {
-    "score": 98,
+    "score": 108,
+    "pubdate": "2025-12-25-16-21-18 +0000",
+    "source": "bbc",
+    "headline": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
+    "link": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 93,
     "pubdate": "2025-12-29-15-07-19 +0000",
     "source": "nypost",
     "headline": "Tim Walz bragged about child care business in Minnesota during VP debate before $9B Somali fraud scandal came to light",
     "link": "https://nypost.com/2025/12/29/us-news/tim-walz-bragged-about-childcare-business-in-minnesota-during-2024-vp-debate/"
   },
   {
-    "score": 93,
-    "pubdate": "2025-12-29-13-57-13 +0000",
+    "score": 84,
+    "pubdate": "2025-12-29-17-02-00 +0000",
+    "source": "wsj",
+    "headline": "Trump to Meet Netanyahu to Hash Out Their Different Middle East Visions",
+    "link": "https://www.wsj.com/world/middle-east/trump-to-meet-netanyahu-to-hash-out-their-different-middle-east-visions-3ca243ba"
+  },
+  {
+    "score": 79,
+    "pubdate": "2025-12-23-22-53-57 +0000",
+    "source": "nyt",
+    "headline": "Libyan Military’s Chief of Staff and 4 Others Are Killed in Plane Crash in Turkey",
+    "link": "https://www.nytimes.com/2025/12/23/world/middleeast/libya-general-plane-crash-turkey.html"
+  },
+  {
+    "score": 71,
+    "pubdate": "2025-12-27-20-57-25 +0000",
     "source": "nypost",
-    "headline": "Israel fears US push to start next phase of Gaza cease-fire at Trump-Netanyahu meeting: reports",
-    "link": "https://nypost.com/2025/12/29/world-news/israel-fears-us-push-to-start-next-phase-of-gaza-cease-fire-at-trump-netanyahu-meeting-reports/"
-  },
-  {
-    "score": 88,
-    "pubdate": "2025-12-28-00-11-17 +0000",
-    "source": "cbc",
-    "headline": "Amid a civil war, polls open in Myanmar for 1st time since military coup 5 years ago",
-    "link": "https://www.cbc.ca/news/world/myanmar-election-9.7028688?cmp=rss"
-  },
-  {
-    "score": 70,
-    "pubdate": "2025-12-23-00-39-13 +0000",
-    "source": "latimes",
-    "headline": "Waymo sues Santa Monica, and the city sues right back: Court fight ahead",
-    "link": "https://www.latimes.com/california/story/2025-12-22/fight-between-waymo-santa-monica-goes-to-court"
+    "headline": "Iran declares ‘total war’ against US, Israel and Europe as Islamic Republic seeks to expand nuclear capabilities",
+    "link": "https://nypost.com/2025/12/27/world-news/iranian-president-warns-tehran-is-in-total-war-against-west/"
   }
 ]
