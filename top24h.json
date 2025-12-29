@@ -1,31 +1,38 @@
 [
   {
-    "score": 129,
-    "pubdate": "2025-12-29-00-34-51 +0000",
+    "score": 143,
+    "pubdate": "2025-12-29-13-59-25 +0000",
     "source": "nyt",
     "headline": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
     "link": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html"
   },
   {
-    "score": 52,
-    "pubdate": "2025-12-29-11-32-52 +0000",
-    "source": "nyt",
-    "headline": "China Will Hold Live-Fire Military Exercises Around Taiwan",
-    "link": "https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html"
+    "score": 69,
+    "pubdate": "2025-12-29-13-57-13 +0000",
+    "source": "nypost",
+    "headline": "Israel fears US push to start next phase of Gaza cease-fire at Trump-Netanyahu meeting: reports",
+    "link": "https://nypost.com/2025/12/29/world-news/israel-fears-us-push-to-start-next-phase-of-gaza-cease-fire-at-trump-netanyahu-meeting-reports/"
   },
   {
-    "score": 45,
-    "pubdate": "2025-12-29-12-56-35 +0000",
+    "score": 52,
+    "pubdate": "2025-12-29-12-51-04 +0000",
+    "source": "cbc",
+    "headline": "U.S. offers Ukraine 15-year security guarantee as part of peace plan, Zelenskyy says",
+    "link": "https://www.cbc.ca/news/world/ukraine-russia-kremlin-trump-9.7029013?cmp=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-12-29-14-17-02 +0000",
     "source": "nyt",
     "headline": "Parts of New York and New England Brace for Ice Storm",
     "link": "https://www.nytimes.com/2025/12/29/us/new-york-new-england-ice-storm.html"
   },
   {
-    "score": 44,
-    "pubdate": "2025-12-28-19-01-49 +0000",
-    "source": "nypost",
-    "headline": "Trump believes ‘we have makings of a deal’ to end Ukraine war ahead of crucial Mar-a-Lago meeting with Zelensky",
-    "link": "https://nypost.com/2025/12/28/world-news/trump-believes-we-have-makings-of-a-deal-as-he-meets-with-zelensky/"
+    "score": 42,
+    "pubdate": "2025-12-29-11-46-34 +0000",
+    "source": "bbc",
+    "headline": "China holds military drills around Taiwan as warning to 'separatist forces'",
+    "link": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 41,
@@ -35,38 +42,31 @@
     "link": "https://nypost.com/2025/12/29/us-news/minnesota-gov-tim-walz-on-the-defense-as-fraud-allegations-mount-in-wake-of-viral-video-that-uncovered-somali-aid-scheme/"
   },
   {
-    "score": 38,
-    "pubdate": "2025-12-29-05-13-17 +0000",
-    "source": "bbc",
-    "headline": "Five-year-old boy dies after getting caught in Japan ski travelator",
-    "link": "https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
+    "score": 34,
     "pubdate": "2025-12-29-09-14-16 +0000",
     "source": "bbc",
     "headline": "British-Egyptian dissident apologises for tweets as Tories push for UK deportation",
     "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 34,
+    "pubdate": "2025-12-28-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "As Memories of Fukushima Fade, Japan Seeks Bigger Role for Nuclear Power",
+    "link": "https://www.wsj.com/world/asia/as-memories-of-fukushima-fade-japan-seeks-bigger-role-for-nuclear-power-2a9a9236?mod=pls_whats_news_us_business_f"
+  },
+  {
     "score": 30,
-    "pubdate": "2025-12-29-10-00-24 +0000",
-    "source": "nyt",
-    "headline": "Meet a U.S. Start-Up Trying to Break China’s Rare-Earth Monopoly",
-    "link": "https://www.nytimes.com/2025/12/29/business/energy-environment/rare-earth-processing-phoenix-tailings.html"
+    "pubdate": "2025-12-28-20-02-25 +0000",
+    "source": "nypost",
+    "headline": "Putin’s top negotiator posts video of himself casually wake-surfing in Miami ahead of critical Trump-Zelensky talks",
+    "link": "https://nypost.com/2025/12/28/world-news/putins-envoy-wakesurfs-in-florida-ahead-of-trump-zelensky-talks/"
   },
   {
     "score": 29,
-    "pubdate": "2025-12-29-09-19-07 +0000",
-    "source": "nypost",
-    "headline": "Bondi Beach hero Ahmed al Ahmed gives first interview since attack: ‘Just take the gun from him’",
-    "link": "https://nypost.com/2025/12/29/world-news/bondi-beach-hero-ahmed-al-ahmed-gives-first-interview-since-attack/"
-  },
-  {
-    "score": 28,
-    "pubdate": "2025-12-29-03-03-18 +0000",
-    "source": "nypost",
-    "headline": "Interoceanic Train derails in southern Mexico, killing at least 13 and injuring dozens",
-    "link": "https://nypost.com/2025/12/28/world-news/interoceanic-train-derails-in-southern-mexico-killing-at-least-13-and-injuring-dozens/"
+    "pubdate": "2025-12-29-12-00-00 +0000",
+    "source": "startribune",
+    "headline": "Xcel Energy gas rates will go up 6.8% for 2026. Here’s why.",
+    "link": "https://www.startribune.com/xcel-energy-gas-rates-will-go-up-68-for-2026-heres-why/601544882"
   }
 ]
