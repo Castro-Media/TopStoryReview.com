@@ -1,17 +1,24 @@
 [
   {
-    "score": 108,
+    "score": 129,
     "pubdate": "2025-12-29-00-34-51 +0000",
     "source": "nyt",
     "headline": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
     "link": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html"
   },
   {
-    "score": 45,
-    "pubdate": "2025-12-29-05-28-22 +0000",
+    "score": 52,
+    "pubdate": "2025-12-29-11-32-52 +0000",
     "source": "nyt",
     "headline": "China Will Hold Live-Fire Military Exercises Around Taiwan",
     "link": "https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html"
+  },
+  {
+    "score": 47,
+    "pubdate": "2025-12-29-12-56-35 +0000",
+    "source": "nyt",
+    "headline": "Parts of New York and New England Brace for Ice Storm",
+    "link": "https://www.nytimes.com/2025/12/29/us/new-york-new-england-ice-storm.html"
   },
   {
     "score": 44,
@@ -21,52 +28,45 @@
     "link": "https://nypost.com/2025/12/28/world-news/trump-believes-we-have-makings-of-a-deal-as-he-meets-with-zelensky/"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2025-12-29-05-52-42 +0000",
     "source": "nypost",
-    "headline": "Minnesota Gov. Tim Walz on the defensive as fraud allegations mount after viral video uncovered Somali aid scheme",
+    "headline": "Minnesota Gov. Tim Walz desperately defends himself from Somali fraud allegations uncovered in damning viral video",
     "link": "https://nypost.com/2025/12/29/us-news/minnesota-gov-tim-walz-on-the-defense-as-fraud-allegations-mount-in-wake-of-viral-video-that-uncovered-somali-aid-scheme/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-12-29-10-11-38 +0000",
-    "source": "nyt",
-    "headline": "Parts of New York and New England Brace for Ice Storm",
-    "link": "https://www.nytimes.com/2025/12/29/us/new-york-new-england-ice-storm.html"
+    "score": 39,
+    "pubdate": "2025-12-29-05-13-17 +0000",
+    "source": "bbc",
+    "headline": "Five-year-old boy dies after getting caught in Japan ski travelator",
+    "link": "https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 34,
-    "pubdate": "2025-12-28-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "As Memories of Fukushima Fade, Japan Seeks Bigger Role for Nuclear Power",
-    "link": "https://www.wsj.com/world/asia/as-memories-of-fukushima-fade-japan-seeks-bigger-role-for-nuclear-power-2a9a9236"
-  },
-  {
-    "score": 33,
-    "pubdate": "2025-12-28-13-02-00 +0000",
-    "source": "wsj",
-    "headline": "Michael Burry Bets He Isn’t Too Early to Go Against the AI Juggernaut",
-    "link": "https://www.wsj.com/finance/stocks/michael-burry-bets-he-isnt-too-early-to-go-against-the-ai-juggernaut-5d95d21e?mod=rss_markets_main"
-  },
-  {
-    "score": 32,
+    "score": 38,
     "pubdate": "2025-12-29-09-14-16 +0000",
     "source": "bbc",
     "headline": "British-Egyptian dissident apologises for tweets as Tories push for UK deportation",
     "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 29,
-    "pubdate": "2025-12-29-10-00-23 +0000",
+    "score": 30,
+    "pubdate": "2025-12-29-10-00-24 +0000",
     "source": "nyt",
     "headline": "Meet a U.S. Start-Up Trying to Break China’s Rare-Earth Monopoly",
     "link": "https://www.nytimes.com/2025/12/29/business/energy-environment/rare-earth-processing-phoenix-tailings.html"
   },
   {
     "score": 29,
-    "pubdate": "2025-12-28-14-17-31 +0000",
-    "source": "cbc",
-    "headline": "Brigitte Bardot, icon of French cinema turned animal rights activist, dead at 91",
-    "link": "https://www.cbc.ca/news/entertainment/brigitte-bardot-icon-french-cinema-dies-91-9.7028736?cmp=rss"
+    "pubdate": "2025-12-29-09-19-07 +0000",
+    "source": "nypost",
+    "headline": "Bondi Beach hero Ahmed al Ahmed gives first interview since attack: ‘Just take the gun from him’",
+    "link": "https://nypost.com/2025/12/29/world-news/bondi-beach-hero-ahmed-al-ahmed-gives-first-interview-since-attack/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2025-12-29-03-03-18 +0000",
+    "source": "nypost",
+    "headline": "Interoceanic Train derails in southern Mexico, killing at least 13 and injuring dozens",
+    "link": "https://nypost.com/2025/12/28/world-news/interoceanic-train-derails-in-southern-mexico-killing-at-least-13-and-injuring-dozens/"
   }
 ]
