@@ -21,7 +21,7 @@
     "link": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 130,
+    "score": 129,
     "pubdate": "2025-12-27-03-00-00 +0000",
     "source": "wsj",
     "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
@@ -29,17 +29,17 @@
   },
   {
     "score": 105,
-    "pubdate": "2025-12-25-23-59-19 +0000",
-    "source": "latimes",
-    "headline": "Federal judge blocks ICE from arresting immigrants who show up for court appointments in Northern California",
-    "link": "https://www.latimes.com/california/story/2025-12-25/federal-judge-blocks-ice-from-arresting-immigrants-in-northern-california-courts"
-  },
-  {
-    "score": 105,
     "pubdate": "2025-12-26-21-22-50 +0000",
     "source": "nypost",
     "headline": "Trump tells Post there’s a ‘good shot’ at reaching Russia-Ukraine peace during Zelensky’s visit",
     "link": "https://nypost.com/2025/12/26/us-news/trump-tells-post-theres-a-good-shot-at-reaching-russia-ukraine-peace-during-zelenskys-visit/"
+  },
+  {
+    "score": 105,
+    "pubdate": "2025-12-25-23-59-19 +0000",
+    "source": "latimes",
+    "headline": "Federal judge blocks ICE from arresting immigrants who show up for court appointments in Northern California",
+    "link": "https://www.latimes.com/california/story/2025-12-25/federal-judge-blocks-ice-from-arresting-immigrants-in-northern-california-courts"
   },
   {
     "score": 96,
@@ -64,9 +64,9 @@
   },
   {
     "score": 72,
-    "pubdate": "2025-12-23-23-36-00 +0000",
-    "source": "wsj",
-    "headline": "Billionaire’s Heirs to Pay $750 Million in Biggest-Ever U.S. Tax-Fraud Case",
-    "link": "https://www.wsj.com/us-news/law/billionaires-heirs-to-pay-750-million-in-biggest-ever-u-s-tax-fraud-case-d17b6f84"
+    "pubdate": "2025-12-26-23-49-29 +0000",
+    "source": "bbc",
+    "headline": "Two killed in suspected Palestinian ramming and knife attack in Israel",
+    "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss"
   }
 ]
