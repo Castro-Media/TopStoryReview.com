@@ -1,24 +1,17 @@
 [
   {
-    "score": 148,
-    "pubdate": "2025-12-29-13-57-13 +0000",
-    "source": "nypost",
-    "headline": "Netanyahu to push back Trump admin’s push for phase two of Gaza cease-fire plan: reports",
-    "link": "https://nypost.com/2025/12/29/world-news/israel-fears-us-push-to-start-next-phase-of-gaza-cease-fire-at-trump-netanyahu-meeting-reports/"
+    "score": 131,
+    "pubdate": "2025-12-29-20-46-37 +0000",
+    "source": "nyt",
+    "headline": "Trump, Pressing Ahead on Ukraine-Russia Talks, Confronts Difficult Realities",
+    "link": "https://www.nytimes.com/2025/12/29/us/politics/trump-zelensky-putin-ukraine-russia.html"
   },
   {
-    "score": 79,
+    "score": 77,
     "pubdate": "2025-12-30-12-00-00 +0000",
     "source": "nypost",
     "headline": "Minnesota Gov. Tim Walz was warned of rampant day care fraud last year but ‘turned a blind eye’: GOP state lawmaker",
     "link": "https://nypost.com/2025/12/30/us-news/minnesota-gov-tim-walz-turned-a-blind-eye-when-warned-about-day-care-fraud-gop-pol/"
-  },
-  {
-    "score": 73,
-    "pubdate": "2025-12-30-00-12-41 +0000",
-    "source": "bbc",
-    "headline": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
-    "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 57,
@@ -28,7 +21,14 @@
     "link": "https://nypost.com/2025/12/29/world-news/china-stages-military-drills-around-taiwan-to-warn-external-forces-after-us-japan-tensions/"
   },
   {
-    "score": 55,
+    "score": 52,
+    "pubdate": "2025-12-30-05-14-28 +0000",
+    "source": "bbc",
+    "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+    "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
     "pubdate": "2025-12-30-13-03-45 +0000",
     "source": "nypost",
     "headline": "New footage may be last time missing Texas teen Camila Mendoza Olmos was seen — as cops refuse to rule out kidnapping",
@@ -36,27 +36,27 @@
   },
   {
     "score": 50,
-    "pubdate": "2025-12-30-05-14-28 +0000",
-    "source": "bbc",
-    "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
-    "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 47,
     "pubdate": "2025-12-30-10-03-33 +0000",
     "source": "cbc",
     "headline": "Trump says U.S. struck dock on shore where he says alleged drug boats 'load up'",
     "link": "https://www.cbc.ca/news/world/venezuela-drone-strike-trump-9.7029864?cmp=rss"
   },
   {
-    "score": 44,
+    "score": 50,
     "pubdate": "2025-12-30-02-43-18 +0000",
     "source": "nypost",
     "headline": "Mom discovers her long-lost pen pal is her doctor — who delivered her two kids: ‘My mouth dropped’",
     "link": "https://nypost.com/2025/12/29/us-news/pennsylvania-mother-discovers-her-long-lost-pen-pal-is-her-own-doctor/"
   },
   {
-    "score": 39,
+    "score": 38,
+    "pubdate": "2025-12-29-19-14-07 +0000",
+    "source": "nypost",
+    "headline": "Trump backs Netanyahu after reports of friction, talks tough on Iran: ‘We’ll knock the hell out of them’",
+    "link": "https://nypost.com/2025/12/29/us-news/trump-backs-netanyahu-after-rumors-of-friction-talks-tough-on-iran-well-knock-the-hell-out-of-them/"
+  },
+  {
+    "score": 38,
     "pubdate": "2025-12-29-20-17-31 +0000",
     "source": "nyt",
     "headline": "U.S. Pledges $2 Billion for U.N. Aid but Trump Administration Tells Agencies to ‘Adapt, Shrink, or Die’",
@@ -64,9 +64,9 @@
   },
   {
     "score": 37,
-    "pubdate": "2025-12-29-20-26-41 +0000",
-    "source": "nypost",
-    "headline": "Google co-founder, Peter Thiel among billionaires threatening to bolt from California over tax that would siphon their wealth: report",
-    "link": "https://nypost.com/2025/12/29/us-news/larry-page-threatens-to-leave-california-over-billionaire-tax/"
+    "pubdate": "2025-12-30-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
+    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines"
   }
 ]
