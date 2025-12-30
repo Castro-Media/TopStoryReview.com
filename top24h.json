@@ -1,24 +1,17 @@
 [
   {
-    "score": 102,
+    "score": 95,
     "pubdate": "2025-12-29-23-26-00 +0000",
     "source": "wsj",
     "headline": "Trump Threatens New Military Action With Israel Against Iran",
     "link": "https://www.wsj.com/world/middle-east/trump-to-meet-netanyahu-to-hash-out-their-different-middle-east-visions-3ca243ba"
   },
   {
-    "score": 68,
+    "score": 67,
     "pubdate": "2025-12-30-02-37-22 +0000",
     "source": "cbc",
     "headline": "China launches live-firing drills around Taiwan in 2nd day of exercises aimed at further isolating the island",
     "link": "https://www.cbc.ca/news/world/china-taiwan-war-games-military-exercises-9.7029773?cmp=rss"
-  },
-  {
-    "score": 64,
-    "pubdate": "2025-12-30-00-12-41 +0000",
-    "source": "bbc",
-    "headline": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
-    "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 57,
@@ -26,6 +19,13 @@
     "source": "bbc",
     "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
     "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 53,
+    "pubdate": "2025-12-30-00-12-41 +0000",
+    "source": "bbc",
+    "headline": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
+    "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 52,
@@ -43,10 +43,17 @@
   },
   {
     "score": 42,
-    "pubdate": "2025-12-30-19-52-20 +0000",
+    "pubdate": "2025-12-30-16-55-56 +0000",
     "source": "nypost",
-    "headline": "Eric Adams sets up $2M emergency fund for transgender care after fed cuts",
-    "link": "https://nypost.com/2025/12/30/us-news/eric-adams-sets-up-2m-emergency-fund-for-transgender-care-after-fed-cuts/"
+    "headline": "Meta snaps up AI startup Manus for $2B, drawing scrutiny over new acquisition’s Chinese roots",
+    "link": "https://nypost.com/2025/12/30/business/meta-snaps-up-ai-startup-manus-for-2b-drawing-scrutiny-over-new-acquisitions-chinese-roots/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2025-12-30-12-00-00 +0000",
+    "source": "nypost",
+    "headline": "Minnesota Gov. Tim Walz was warned of rampant day care fraud last year but ‘turned a blind eye’: GOP state lawmaker",
+    "link": "https://nypost.com/2025/12/30/us-news/minnesota-gov-tim-walz-turned-a-blind-eye-when-warned-about-day-care-fraud-gop-pol/"
   },
   {
     "score": 40,
@@ -57,16 +64,9 @@
   },
   {
     "score": 39,
-    "pubdate": "2025-12-30-03-54-21 +0000",
-    "source": "nyt",
-    "headline": "Trump and Netanyahu Praise Each Other After Meeting, Despite Differences Over Gaza",
-    "link": "https://www.nytimes.com/2025/12/29/us/politics/trump-netanyahu-israel-meeting.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-12-30-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
-    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines"
+    "pubdate": "2025-12-30-19-13-13 +0000",
+    "source": "nypost",
+    "headline": "Benjamin Netanyahu says new Gaza government ‘possible’ in 2026 — ‘if you disarm Hamas’",
+    "link": "https://nypost.com/2025/12/30/us-news/benjamin-netanyahu-says-new-gaza-government-possible-in-2026-if-you-disarm-hamas/"
   }
 ]
