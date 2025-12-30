@@ -1,45 +1,321 @@
 [
   {
+    "headline": "Meta snaps up AI startup Manus for $2B, drawing scrutiny over new acquisition’s Chinese roots",
+    "link": "https://nypost.com/2025/12/30/business/meta-snaps-up-ai-startup-manus-for-2b-drawing-scrutiny-over-new-acquisitions-chinese-roots/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-16-55-56 +0000"
+  },
+  {
+    "headline": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-53-10 +0000"
+  },
+  {
+    "headline": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-53-10 +0000"
+  },
+  {
+    "headline": "Why the escalation in Yemen threatens to reignite civil war, create wider tensions",
+    "link": "https://www.cbc.ca/news/world/yemen-saudi-arabia-civil-war-gulf-region-uae-tensions-9.7030100?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2025-12-30-16-52-00 +0000"
+  },
+  {
+    "headline": "The Cover-Up: Inside the Plot to Conceal Assad’s Crimes",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-47-20 +0000"
+  },
+  {
+    "headline": "The Cover-Up: Inside the Plot to Conceal Assad’s Crimes",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-47-20 +0000"
+  },
+  {
+    "headline": "Gmail to Let Users Change Their Addresses While Keeping Data",
+    "link": "https://www.nytimes.com/2025/12/28/technology/gmail-change-address-email.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-47-16 +0000"
+  },
+  {
+    "headline": "Condemning vitriol in politics, shooting survivor Sen. John Hoffman to seek re-election",
+    "link": "https://www.startribune.com/condemning-vitriol-in-politics-shooting-survivor-sen-john-hoffman-to-seek-re-election/601554737",
+    "source": "startribune",
+    "pubdate": "2025-12-30-16-47-10 +0000"
+  },
+  {
+    "headline": "Eurostar disruption to continue after power outage in Channel Tunnel",
+    "link": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-30-16-43-25 +0000"
+  },
+  {
+    "headline": "Eurostar Trains Face Day of Delays After Power Failure",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/eurostar-canceled-channel-tunnel-london-paris.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-39-59 +0000"
+  },
+  {
+    "headline": "Eurostar Trains Face Day of Delays After Power Failure",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/eurostar-canceled-channel-tunnel-london-paris.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-39-59 +0000"
+  },
+  {
+    "headline": "Walmart Outage Affects Thousands of Shoppers",
+    "link": "https://www.wsj.com/business/retail/walmart-outage-affects-thousands-of-shoppers-bc44b2c5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-30-16-39-00 +0000"
+  },
+  {
+    "headline": "Walmart Outage Affects Thousands of Shoppers",
+    "link": "https://www.wsj.com/business/retail/walmart-outage-affects-thousands-of-shoppers-bc44b2c5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2025-12-30-16-39-00 +0000"
+  },
+  {
+    "headline": "CNN’s Scott Jennings slams guest who accused Israel of genocide: ‘Unbelievable!’",
+    "link": "https://nypost.com/2025/12/30/media/cnns-scott-jennings-slams-guest-who-accused-israel-of-genocide-unbelievable/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-16-31-47 +0000"
+  },
+  {
+    "headline": "Protests spread across Iran for third day after currency hits record low",
+    "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-30-16-31-18 +0000"
+  },
+  {
+    "headline": "Spanish Woman Scorned, Then Loved, for Botched Fresco Restoration Dies at 94",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/spain-jesus-fresco-restoration-painter-gimenez-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-27-43 +0000"
+  },
+  {
+    "headline": "Spanish Woman Scorned, Then Loved, for Botched Fresco Restoration Dies at 94",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/spain-jesus-fresco-restoration-painter-gimenez-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-16-27-43 +0000"
+  },
+  {
+    "headline": "Trump admin has plan B to keep tariffs going if Supreme Court deems current approach unconstitutional: report",
+    "link": "https://nypost.com/2025/12/30/business/trump-admin-has-plan-b-to-keep-tariffs-going-if-supreme-court-deems-current-approach-unconstitutional-report/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-16-26-30 +0000"
+  },
+  {
+    "headline": "Saudi Arabia strikes Yemen port over alleged UAE weapons shipment",
+    "link": "https://www.washingtonpost.com/world/2025/12/30/saudi-arabia-yemen-strikes-uae-mukalla/",
+    "source": "wapo",
+    "pubdate": "2025-12-30-16-20-25 +0000"
+  },
+  {
+    "headline": "British-Egyptian dissident appears to endorse 'smear campaign' claims",
+    "link": "https://www.bbc.com/news/articles/c3dm9944glpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-30-16-12-05 +0000"
+  },
+  {
+    "headline": "Key sale, acquisition helped 3M spinoff, Solventum, turn around in 2025",
+    "link": "https://www.startribune.com/solventum-3m-health-care-spinoff-medtech-momentum-stock-acera-acquisition-filtration-sale/601534631",
+    "source": "startribune",
+    "pubdate": "2025-12-30-16-01-00 +0000"
+  },
+  {
+    "headline": "Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies",
+    "link": "https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-58-55 +0000"
+  },
+  {
+    "headline": "Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies",
+    "link": "https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-58-55 +0000"
+  },
+  {
+    "headline": "Calif. farming tycoon shot wife dead through $1.6M ranch window during ugly divorce battle: cops",
+    "link": "https://nypost.com/2025/12/30/us-news/calif-farming-tycoon-shot-wife-dead-through-1-6m-ranch-window/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-57-02 +0000"
+  },
+  {
+    "headline": "China’s Yuan Breaks Through a Key Level Against the Dollar",
+    "link": "https://www.wsj.com/finance/stocks/dollar-trades-steady-ahead-of-fed-minutes-8e03dd3d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2025-12-30-15-54-00 +0000"
+  },
+  {
+    "headline": "Zelensky admits Ukraine ‘can’t win’ without US support",
+    "link": "https://nypost.com/2025/12/30/us-news/zelensky-admits-ukraine-cant-win-without-us-support/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-53-56 +0000"
+  },
+  {
+    "headline": "Zelensky admits Ukraine ‘can’t win’ without US support",
+    "link": "https://nypost.com/2025/12/30/us-news/zelensky-admits-ukraine-cant-win-without-us-support/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-53-56 +0000"
+  },
+  {
+    "headline": "Trump threatens to sue Fed Chair Jerome Powell for ‘gross incompetence’ over costly building renovation",
+    "link": "https://nypost.com/2025/12/30/business/trump-threatens-to-sue-fed-chair-jerome-powell-for-gross-incompetence-over-costly-building-renovation/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-45-28 +0000"
+  },
+  {
+    "headline": "Gold treasure survives 1,400 years at ancient Christian monastery",
+    "link": "https://nypost.com/2025/12/30/science/gold-treasure-survives-1400-years-at-ancient-christian-monastery/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-43-01 +0000"
+  },
+  {
+    "headline": "Rain is coming back to Southern California: A timeline of what to expect",
+    "link": "https://www.latimes.com/california/story/2025-12-30/la-me-rain-timeline",
+    "source": "latimes",
+    "pubdate": "2025-12-30-15-35-31 +0000"
+  },
+  {
+    "headline": "Trump Upended the Federal Government. The Full Scope of the Impact Is Still Unclear.",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/trump-federal-government-fallout.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-32-48 +0000"
+  },
+  {
+    "headline": "Trump Upended the Federal Government. The Full Scope of the Impact Is Still Unclear.",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/trump-federal-government-fallout.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-32-48 +0000"
+  },
+  {
+    "headline": "Trump Upended the Federal Government. The Full Scope of the Impact Is Still Unclear.",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/trump-federal-government-fallout.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-32-48 +0000"
+  },
+  {
+    "headline": "She Tried to Kill a President. He Loved Her Anyway.",
+    "link": "https://www.nytimes.com/2025/12/30/style/she-tried-to-kill-a-president-he-loved-her-anyway.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-30-13 +0000"
+  },
+  {
+    "headline": "Gulf Rivals Saudi Arabia, U.A.E. Come to Blows in Yemen",
+    "link": "https://www.wsj.com/world/middle-east/saudi-ultimatum-deepens-its-rift-with-gulf-rival-u-a-e-0a89a0cb",
+    "source": "wsj",
+    "pubdate": "2025-12-30-15-30-00 +0000"
+  },
+  {
+    "headline": "Chicago Business Barometer Rebounds in December But Remains at Contraction Level",
+    "link": "https://www.wsj.com/economy/chicago-business-barometer-rebounds-in-december-but-remains-at-contraction-level-7941b079",
+    "source": "wsj",
+    "pubdate": "2025-12-30-15-28-00 +0000"
+  },
+  {
+    "headline": "New Year’s Eve never gets old for the ‘confetti king’ of Times Square — he’s still an emotional wreck at midnight after 3 decades on job",
+    "link": "https://nypost.com/2025/12/30/lifestyle/meet-new-years-eves-confetti-king-of-nycs-times-square/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-25-24 +0000"
+  },
+  {
+    "headline": "China Fires Rockets Near Taiwan in Display of Military Power",
+    "link": "https://www.nytimes.com/2025/12/30/world/asia/china-taiwan-military-drills.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-25-13 +0000"
+  },
+  {
+    "headline": "China Fires Rockets Near Taiwan in Display of Military Power",
+    "link": "https://www.nytimes.com/2025/12/30/world/asia/china-taiwan-military-drills.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-25-13 +0000"
+  },
+  {
+    "headline": "Ex-Nickelodeon star Tylor Chase kept homeless and on drugs by California law: cops",
+    "link": "https://nypost.com/2025/12/30/us-news/nickelodeons-tylor-chase-kept-homeless-due-to-ca-law-cops/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-22-39 +0000"
+  },
+  {
+    "headline": "Major lake-effect snowstorm to hit this week as New York’s state of emergency expands",
+    "link": "https://nypost.com/2025/12/30/us-news/major-lake-effect-snowstorm-to-hit-this-week-as-new-yorks-state-of-emergency-expands/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-22-04 +0000"
+  },
+  {
+    "headline": "Eastern US braces for arctic temperatures after record-setting heat",
+    "link": "https://nypost.com/2025/12/30/us-news/eastern-us-braces-for-arctic-plunge-after-record-setting-heat-last-week/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-16-02 +0000"
+  },
+  {
+    "headline": "‘Mighty Ducks’ actor Shaun Weiss begs ghoulish fans to stop taking selfies with ex-Nickelodeon star Tylor Chase",
+    "link": "https://nypost.com/2025/12/30/us-news/shaun-weiss-begs-fans-to-stop-taking-selfies-with-tylor-chase/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-15-04-53 +0000"
+  },
+  {
+    "headline": "Labour criticises Tory shadow minister for representing Abramovich",
+    "link": "https://www.bbc.com/news/articles/cly5yyxvv73o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-30-15-04-37 +0000"
+  },
+  {
+    "headline": "K-Pop Group NewJeans Faces New Uncertainty After Member Is Dropped",
+    "link": "https://www.nytimes.com/2025/12/30/world/asia/new-jeans-danielle-ador.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-04-18 +0000"
+  },
+  {
+    "headline": "K-Pop Group NewJeans Faces New Uncertainty After Member Is Dropped",
+    "link": "https://www.nytimes.com/2025/12/30/world/asia/new-jeans-danielle-ador.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-15-04-18 +0000"
+  },
+  {
+    "headline": "PostNord, Denmark’s Main Postal Carrier, Ends Letter Delivery",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/denmark-letter-delivery-postnord-mailboxes.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-14-59-13 +0000"
+  },
+  {
+    "headline": "PostNord, Denmark’s Main Postal Carrier, Ends Letter Delivery",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/denmark-letter-delivery-postnord-mailboxes.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-14-59-13 +0000"
+  },
+  {
+    "headline": "Naked Florida man robs meat market wearing nothing but a face mask",
+    "link": "https://nypost.com/2025/12/30/us-news/naked-florida-man-robs-meat-market-wearing-nothing-but-a-face-mask/",
+    "source": "nypost",
+    "pubdate": "2025-12-30-14-57-53 +0000"
+  },
+  {
+    "headline": "How the Assad Regime Covered Up Its Crimes: Key Takeaways",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-14-55-24 +0000"
+  },
+  {
+    "headline": "How the Assad Regime Covered Up Its Crimes: Key Takeaways",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2025-12-30-14-55-24 +0000"
+  },
+  {
     "headline": "Guinea junta chief takes lead in controversial election as social media restricted",
     "link": "https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-30-14-52-31 +0000"
   },
   {
-    "headline": "Eurostar Cancels All Trains After Power Failure in Channel Tunnel",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/eurostar-canceled-channel-tunnel-london-paris.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-14-51-26 +0000"
-  },
-  {
-    "headline": "Eurostar Cancels All Trains After Power Failure in Channel Tunnel",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/eurostar-canceled-channel-tunnel-london-paris.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-14-47-24 +0000"
-  },
-  {
-    "headline": "Spanish Woman Scorned, Then Loved, for Botched Fresco Restoration Dies at 94",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/spain-jesus-fresco-restoration-painter-gimenez-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-14-42-33 +0000"
-  },
-  {
-    "headline": "Spanish Woman Scorned, Then Loved, for Botched Fresco Restoration Dies at 94",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/spain-jesus-fresco-restoration-painter-gimenez-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-14-42-33 +0000"
-  },
-  {
-    "headline": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-14-34-46 +0000"
-  },
-  {
-    "headline": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-14-34-46 +0000"
+    "headline": "Guinea junta chief takes lead in controversial election as social media restricted",
+    "link": "https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-30-14-52-31 +0000"
   },
   {
     "headline": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
@@ -138,46 +414,10 @@
     "pubdate": "2025-12-30-14-08-20 +0000"
   },
   {
-    "headline": "Walmart Outage Affects Thousands of Shoppers",
-    "link": "https://www.wsj.com/business/retail/walmart-outage-affects-thousands-of-shoppers-bc44b2c5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-30-13-52-00 +0000"
-  },
-  {
-    "headline": "The Cover-Up: Inside the Plot to Conceal Assad’s Crimes",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-13-50-12 +0000"
-  },
-  {
-    "headline": "The Cover-Up: Inside the Plot to Conceal Assad’s Crimes",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-13-50-12 +0000"
-  },
-  {
-    "headline": "Eurostar cancels all trains out of London as power outage hits Channel Tunnel",
-    "link": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-30-13-49-57 +0000"
-  },
-  {
     "headline": "U.S. Natural Gas Continues Weather-Driven Rally",
     "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-continues-weather-driven-rally-609b0946?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-30-13-47-00 +0000"
-  },
-  {
-    "headline": "PostNord, Denmark’s Main Postal Carrier, Ends Letter Delivery",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/denmark-letter-delivery-postnord-mailboxes.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-13-46-59 +0000"
-  },
-  {
-    "headline": "PostNord, Denmark’s Main Postal Carrier, Ends Letter Delivery",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/denmark-letter-delivery-postnord-mailboxes.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-13-46-59 +0000"
   },
   {
     "headline": "Crude Futures Gain in Light Holiday Trade",
@@ -228,24 +468,6 @@
     "pubdate": "2025-12-30-12-50-12 +0000"
   },
   {
-    "headline": "Saudi Ultimatum Deepens Its Rift With Gulf Rival U.A.E.",
-    "link": "https://www.wsj.com/world/middle-east/saudi-ultimatum-deepens-its-rift-with-gulf-rival-u-a-e-0a89a0cb",
-    "source": "wsj",
-    "pubdate": "2025-12-30-12-49-00 +0000"
-  },
-  {
-    "headline": "China Fires Rockets Near Taiwan in Display of Military Power",
-    "link": "https://www.nytimes.com/2025/12/30/world/asia/china-taiwan-military-drills.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-12-40-23 +0000"
-  },
-  {
-    "headline": "China Fires Rockets Near Taiwan in Display of Military Power",
-    "link": "https://www.nytimes.com/2025/12/30/world/asia/china-taiwan-military-drills.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-12-40-23 +0000"
-  },
-  {
     "headline": "What is happening to gas and electricity prices?",
     "link": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -294,18 +516,6 @@
     "pubdate": "2025-12-30-12-00-00 +0000"
   },
   {
-    "headline": "Marc Heu’s pop-up in Minneapolis is going to be permanent",
-    "link": "https://www.startribune.com/marc-heu-pop-up-in-minneapolis-is-going-permanent/601549665",
-    "source": "startribune",
-    "pubdate": "2025-12-30-12-00-00 +0000"
-  },
-  {
-    "headline": "Pioneering Morris ag research lab is down to three scientists",
-    "link": "https://www.startribune.com/usda-lab-cuts-morris-minnesota-pioneering-crop-research-sustainable-aviation-fuel/601491438",
-    "source": "startribune",
-    "pubdate": "2025-12-30-12-00-00 +0000"
-  },
-  {
     "headline": "Caterpillar’s Surging Stock Is Fueled by AI, Not Yellow Excavators",
     "link": "https://www.wsj.com/business/caterpillar-generator-sales-ai-cat-stock-f5aa26a5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -348,18 +558,6 @@
     "pubdate": "2025-12-30-11-43-26 +0000"
   },
   {
-    "headline": "Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies",
-    "link": "https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-11-43-03 +0000"
-  },
-  {
-    "headline": "Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies",
-    "link": "https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-11-43-03 +0000"
-  },
-  {
     "headline": "Basic Materials Roundup: Market Talk",
     "link": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-c4183cc0?mod=rss_markets_main",
     "source": "wsj",
@@ -396,19 +594,7 @@
     "pubdate": "2025-12-30-11-04-06 +0000"
   },
   {
-    "headline": "How the Assad Regime Covered Up Its Crimes: Key Takeaways",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents-takeaways.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-11-02-59 +0000"
-  },
-  {
-    "headline": "How the Assad Regime Covered Up Its Crimes: Key Takeaways",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents-takeaways.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-11-02-59 +0000"
-  },
-  {
-    "headline": "Southern California has an unlikely AI mecca: the very industrial Vernon",
+    "headline": "Southern California's unlikely AI mecca is this very industrial city",
     "link": "https://www.latimes.com/business/story/2025-12-30/southern-california-has-unlikely-ai-mecca-very-industrial-vernon",
     "source": "latimes",
     "pubdate": "2025-12-30-11-01-00 +0000"
@@ -426,14 +612,14 @@
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: Trump regime's lies against immigrants in 2025 even did Frank Sinatra dirty",
-    "link": "https://www.latimes.com/california/story/2025-12-30/donald-trump-lies-immigration-2025",
+    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
+    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines",
     "source": "latimes",
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
   {
-    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
-    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines",
+    "headline": "Arellano: Trump regime's lies against immigrants in 2025 even did Frank Sinatra dirty",
+    "link": "https://www.latimes.com/california/story/2025-12-30/donald-trump-lies-immigration-2025",
     "source": "latimes",
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
@@ -458,6 +644,12 @@
   {
     "headline": "Souhan: Four games made the difference between the Vikings and the NFL playoffs",
     "link": "https://www.startribune.com/minnesota-vikings-nfl-playoffs-packers-jj-mccarthy-jim-souhan/601554055",
+    "source": "startribune",
+    "pubdate": "2025-12-30-11-00-00 +0000"
+  },
+  {
+    "headline": "Brown: Officer’s tragic death highlights security challenges at Minnesota hospitals",
+    "link": "https://www.startribune.com/mn-hospital-patient-elopement-andrea-merrell/601554174",
     "source": "startribune",
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
@@ -490,12 +682,6 @@
     "link": "https://www.bbc.com/sport/cricket/articles/c0585nr1pn1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-30-10-57-44 +0000"
-  },
-  {
-    "headline": "Dollar Falls as Investors Turn Cautious Ahead of Fed Minutes",
-    "link": "https://www.wsj.com/finance/stocks/dollar-trades-steady-ahead-of-fed-minutes-8e03dd3d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-30-10-51-00 +0000"
   },
   {
     "headline": "Turkey detains 357 suspected IS members in nationwide raids",
@@ -540,18 +726,6 @@
     "pubdate": "2025-12-30-10-30-00 +0000"
   },
   {
-    "headline": "K-Pop Group NewJeans Faces New Uncertainty After Member Is Dropped",
-    "link": "https://www.nytimes.com/2025/12/30/world/asia/new-jeans-danielle-ador.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-10-29-35 +0000"
-  },
-  {
-    "headline": "K-Pop Group NewJeans Faces New Uncertainty After Member Is Dropped",
-    "link": "https://www.nytimes.com/2025/12/30/world/asia/new-jeans-danielle-ador.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-10-29-35 +0000"
-  },
-  {
     "headline": "The ‘Trump Effect’ on Global Elections",
     "link": "https://www.nytimes.com/video/world/100000010590784/the-trump-effect-on-global-elections.html",
     "source": "nyt",
@@ -564,7 +738,7 @@
     "pubdate": "2025-12-30-10-07-09 +0000"
   },
   {
-    "headline": "Trump says U.S. struck dock on shore where he says alleged drug boats 'load up'",
+    "headline": "Trump says U.S. struck dock in Venezuela where he says alleged drug boats 'load up'",
     "link": "https://www.cbc.ca/news/world/venezuela-drone-strike-trump-9.7029864?cmp=rss",
     "source": "cbc",
     "pubdate": "2025-12-30-10-03-33 +0000"
@@ -744,12 +918,6 @@
     "pubdate": "2025-12-30-08-08-14 +0000"
   },
   {
-    "headline": "Government to review 'information failures' in British-Egyptian activist case",
-    "link": "https://www.bbc.com/news/articles/clyzyzwxqyyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-30-08-08-14 +0000"
-  },
-  {
     "headline": "Anthony Joshua injured in Nigeria car crash that killed two team members",
     "link": "https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -765,13 +933,19 @@
     "headline": "Idris Elba is Knighted as Part of King Charles’s New Year Honors List",
     "link": "https://www.nytimes.com/2025/12/29/world/europe/idris-elba-cynthia-erivo-king-charles-honors.html",
     "source": "nyt",
-    "pubdate": "2025-12-30-07-39-46 +0000"
+    "pubdate": "2025-12-30-07-39-47 +0000"
   },
   {
     "headline": "Idris Elba is Knighted as Part of King Charles’s New Year Honors List",
     "link": "https://www.nytimes.com/2025/12/29/world/europe/idris-elba-cynthia-erivo-king-charles-honors.html",
     "source": "nyt",
-    "pubdate": "2025-12-30-07-39-46 +0000"
+    "pubdate": "2025-12-30-07-39-47 +0000"
+  },
+  {
+    "headline": "Three-time MVP Jokic suffers 'gut-wrenching' injury",
+    "link": "https://www.bbc.com/sport/basketball/articles/c5yjy425dnwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2025-12-30-07-16-55 +0000"
   },
   {
     "headline": "U.S. Kills 2 in Strike in Pacific, as Trump Pressures Venezuela",
@@ -912,12 +1086,6 @@
     "pubdate": "2025-12-30-04-18-08 +0000"
   },
   {
-    "headline": "Trump admin pausing some federal funding to Minnesota amid fraud scandals",
-    "link": "https://nypost.com/2025/12/29/us-news/trump-admin-pausing-some-federal-funding-to-minnesota-amid-fraud-scandals/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-04-18-08 +0000"
-  },
-  {
     "headline": "C.I.A. Conducted Drone Strike on Port in Venezuela",
     "link": "https://www.nytimes.com/2025/12/29/us/politics/cia-drone-strike-venezuela.html",
     "source": "nyt",
@@ -990,12 +1158,6 @@
     "pubdate": "2025-12-30-03-47-00 +0000"
   },
   {
-    "headline": "Top Suffolk cop apologizes to family of popular CVS worker — as hundreds mourn Christmas Day murder at packed candlelight vigil",
-    "link": "https://nypost.com/2025/12/29/us-news/top-suffolk-cop-apologizes-to-family-of-popular-cvs-worker-as-hundreds-mourn-christmas-day-murder-at-packed-candlelight-vigil/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-03-29-54 +0000"
-  },
-  {
     "headline": "Spanish woman who found fame for botching fresco restoration dies",
     "link": "https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1044,12 +1206,6 @@
     "pubdate": "2025-12-30-03-17-33 +0000"
   },
   {
-    "headline": "Two airliners nearly collide taking off from Houston’s Bush Intercontinental Airport",
-    "link": "https://nypost.com/2025/12/29/us-news/two-airlines-nearly-collide-taking-off-from-houstons-bush-intercontinental-airport/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-03-02-17 +0000"
-  },
-  {
     "headline": "Los Angeles Tightens Rent Controls for First Time in Four Decades",
     "link": "https://www.wsj.com/real-estate/los-angeles-tightens-rent-controls-for-first-time-in-four-decades-1bfa87dd",
     "source": "wsj",
@@ -1066,12 +1222,6 @@
     "link": "https://www.wsj.com/world/asia/chinese-military-drills-send-stern-warning-after-u-s-arms-sales-to-taiwan-1a835994",
     "source": "wsj",
     "pubdate": "2025-12-30-02-52-00 +0000"
-  },
-  {
-    "headline": "Mom discovers her long-lost pen pal is her doctor — who delivered her two kids: ‘My mouth dropped’",
-    "link": "https://nypost.com/2025/12/29/us-news/pennsylvania-mother-discovers-her-long-lost-pen-pal-is-her-own-doctor/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-02-43-18 +0000"
   },
   {
     "headline": "China launches live-firing drills around Taiwan in 2nd day of exercises aimed at further isolating the island",
@@ -1102,12 +1252,6 @@
     "link": "https://www.nytimes.com/2025/12/29/world/middleeast/iran-currency-collapse-rial-inflation-protests.html",
     "source": "nyt",
     "pubdate": "2025-12-30-02-27-51 +0000"
-  },
-  {
-    "headline": "NYC Health+Hospitals to take over ailing Maimonides Hospital, Mayor Adams says",
-    "link": "https://nypost.com/2025/12/29/us-news/nyc-healthhospitals-to-take-over-ailing-maimonides-hospital-mayor-adams-says/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-02-23-29 +0000"
   },
   {
     "headline": "Alleged Bondi gunmen acted alone and did not train in the Philippines, police say",
@@ -1144,24 +1288,6 @@
     "link": "https://www.wsj.com/finance/investing/a-dealmaking-frenzy-is-reshaping-the-booming-wealth-management-business-6ae921d6?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-30-02-00-00 +0000"
-  },
-  {
-    "headline": "SUV veers off cliff in Lake Tahoe as bystanders scramble to save those inside",
-    "link": "https://nypost.com/2025/12/29/us-news/suv-veers-off-cliff-in-lake-tahoe-as-bystanders-scramble-to-save-those-inside/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-01-56-28 +0000"
-  },
-  {
-    "headline": "Devastated Jake and Romy Reiner  stroll Malibu beach after parents’ slayings",
-    "link": "https://nypost.com/2025/12/29/us-news/jake-and-romy-reiner-spotted-walking-malibu-beach-after-parents-murders/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-01-50-12 +0000"
-  },
-  {
-    "headline": "Moment hero Ohio siblings save school bus driver suffering medical emergency caught on video",
-    "link": "https://nypost.com/2025/12/29/us-news/hero-ohio-siblings-save-bus-driver-suffering-medical-emergency/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-01-49-24 +0000"
   },
   {
     "headline": "Democrats Aim to Spotlight Republican Efforts to Rewrite the Jan. 6 Capitol Riot",
@@ -1335,7 +1461,7 @@
     "headline": "Ice Storm Makes Travel Dangerous in Parts of New York and New England",
     "link": "https://www.nytimes.com/2025/12/29/us/new-york-new-england-ice-storm.html",
     "source": "nyt",
-    "pubdate": "2025-12-29-23-27-01 +0000"
+    "pubdate": "2025-12-29-23-27-02 +0000"
   },
   {
     "headline": "Trump Threatens New Military Action With Israel Against Iran",
@@ -1564,12 +1690,6 @@
     "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-12-29-2025-fb2f6ec3?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-29-21-35-00 +0000"
-  },
-  {
-    "headline": "‘Minnesota Bound’ ends 30-year run on KARE",
-    "link": "https://www.startribune.com/minnesota-bound-ends-30-year-run-on-kare/601554051",
-    "source": "startribune",
-    "pubdate": "2025-12-29-21-33-00 +0000"
   },
   {
     "headline": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
@@ -1803,7 +1923,7 @@
     "headline": "As Youth Sports Professionalize, Kids Are Burning Out Fast",
     "link": "https://www.nytimes.com/2025/12/29/business/youth-sports-stress.html",
     "source": "nyt",
-    "pubdate": "2025-12-29-19-18-55 +0000"
+    "pubdate": "2025-12-29-19-18-56 +0000"
   },
   {
     "headline": "ISIS Militants Kill 3 Police Officers in Turkey",
@@ -1894,113 +2014,5 @@
     "link": "https://nypost.com/2025/12/29/business/lululemons-founder-wages-proxy-battle-at-struggling-leggings-retailer/",
     "source": "nypost",
     "pubdate": "2025-12-29-17-57-32 +0000"
-  },
-  {
-    "headline": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'",
-    "link": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-29-17-51-21 +0000"
-  },
-  {
-    "headline": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'",
-    "link": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-29-17-51-21 +0000"
-  },
-  {
-    "headline": "Nancy Pelosi reveals she didn’t intend to rip up Trump’s 2020 State of the Union speech",
-    "link": "https://nypost.com/2025/12/29/us-news/nancy-pelosi-reveals-she-didnt-intend-to-rip-of-trumps-2020-state-of-the-union-speech/",
-    "source": "nypost",
-    "pubdate": "2025-12-29-17-50-18 +0000"
-  },
-  {
-    "headline": "MIT hit with federal discrimination complaint over ‘graduate womxn’ programs",
-    "link": "https://nypost.com/2025/12/29/us-news/mit-hit-with-federal-discriminaltion-complaint-over-graduate-womxn-programs/",
-    "source": "nypost",
-    "pubdate": "2025-12-29-17-48-40 +0000"
-  },
-  {
-    "headline": "Beyoncé clinches billionaire status after smash success of Cowboy Carter Tour",
-    "link": "https://nypost.com/2025/12/29/business/beyonce-clinches-billionaire-status-after-smash-success-of-cowboy-carter-tour/",
-    "source": "nypost",
-    "pubdate": "2025-12-29-17-37-24 +0000"
-  },
-  {
-    "headline": "Missing Texas teen believed to be in 'imminent danger'",
-    "link": "https://www.bbc.com/news/articles/c3w7w5jzgygo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-29-17-36-45 +0000"
-  },
-  {
-    "headline": "Suspect accused of planting pipe bombs in Washington has confessed, prosecutors say",
-    "link": "https://www.cbc.ca/news/world/washington-pipe-bomb-suspect-confessed-9.7029248?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2025-12-29-17-32-16 +0000"
-  },
-  {
-    "headline": "Experts Question Denmark’s Vaccine Program as a Model for the U.S.",
-    "link": "https://www.nytimes.com/2025/12/29/world/europe/denmark-vaccine-schedule-rfk.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-17-31-55 +0000"
-  },
-  {
-    "headline": "Experts Question Denmark’s Vaccine Program as a Model for the U.S.",
-    "link": "https://www.nytimes.com/2025/12/29/world/europe/denmark-vaccine-schedule-rfk.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-17-31-55 +0000"
-  },
-  {
-    "headline": "Trump admin slams Daily Beast story on State Department official Mora Namdar as ‘shameful,’ ‘sexist’",
-    "link": "https://nypost.com/2025/12/29/us-news/trump-admin-slams-daily-beast-story-on-state-department-official-mora-namdar/",
-    "source": "nypost",
-    "pubdate": "2025-12-29-17-08-52 +0000"
-  },
-  {
-    "headline": "Opinion | Prepare for More Tariffs in 2026",
-    "link": "https://www.wsj.com/opinion/prepare-for-more-tariffs-in-2026-7ec3b51f",
-    "source": "wsj",
-    "pubdate": "2025-12-29-16-58-00 +0000"
-  },
-  {
-    "headline": "Opinion | Prepare for More Tariffs in 2026",
-    "link": "https://www.wsj.com/opinion/prepare-for-more-tariffs-in-2026-7ec3b51f",
-    "source": "wsj",
-    "pubdate": "2025-12-29-16-58-00 +0000"
-  },
-  {
-    "headline": "November Pending-Home Sales Had Fourth Consecutive Monthly Rise",
-    "link": "https://www.wsj.com/economy/november-pending-home-sales-had-fourth-consecutive-monthly-rise-89eb85da",
-    "source": "wsj",
-    "pubdate": "2025-12-29-16-52-00 +0000"
-  },
-  {
-    "headline": "What to Know About Colombia’s Role in the Global Drug Trade Amid Trump’s Feud With Petro",
-    "link": "https://www.nytimes.com/2025/12/28/world/americas/colombia-drug-trade-trump-petro.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-16-39-16 +0000"
-  },
-  {
-    "headline": "What to Know About Colombia’s Role in the Global Drug Trade Amid Trump’s Feud With Petro",
-    "link": "https://www.nytimes.com/2025/12/28/world/americas/colombia-drug-trade-trump-petro.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-16-39-16 +0000"
-  },
-  {
-    "headline": "What to Know About Colombia’s Role in the Global Drug Trade Amid Trump’s Feud With Petro",
-    "link": "https://www.nytimes.com/2025/12/28/world/americas/colombia-drug-trade-trump-petro.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-16-39-16 +0000"
-  },
-  {
-    "headline": "Egyptian dissident sorry for tweets after calls for deportation from UK",
-    "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-29-16-13-30 +0000"
-  },
-  {
-    "headline": "China stages military drills around Taiwan to warn ‘external forces’ after US, Japan tensions",
-    "link": "https://nypost.com/2025/12/29/world-news/china-stages-military-drills-around-taiwan-to-warn-external-forces-after-us-japan-tensions/",
-    "source": "nypost",
-    "pubdate": "2025-12-29-16-06-33 +0000"
   }
 ]
