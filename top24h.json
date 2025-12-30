@@ -1,13 +1,13 @@
 [
   {
-    "score": 131,
+    "score": 126,
     "pubdate": "2025-12-29-20-46-37 +0000",
     "source": "nyt",
     "headline": "Trump, Pressing Ahead on Ukraine-Russia Talks, Confronts Difficult Realities",
     "link": "https://www.nytimes.com/2025/12/29/us/politics/trump-zelensky-putin-ukraine-russia.html"
   },
   {
-    "score": 77,
+    "score": 69,
     "pubdate": "2025-12-30-12-00-00 +0000",
     "source": "nypost",
     "headline": "Minnesota Gov. Tim Walz was warned of rampant day care fraud last year but ‘turned a blind eye’: GOP state lawmaker",
@@ -21,20 +21,6 @@
     "link": "https://nypost.com/2025/12/29/world-news/china-stages-military-drills-around-taiwan-to-warn-external-forces-after-us-japan-tensions/"
   },
   {
-    "score": 52,
-    "pubdate": "2025-12-30-05-14-28 +0000",
-    "source": "bbc",
-    "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
-    "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
-    "pubdate": "2025-12-30-13-03-45 +0000",
-    "source": "nypost",
-    "headline": "New footage may be last time missing Texas teen Camila Mendoza Olmos was seen — as cops refuse to rule out kidnapping",
-    "link": "https://nypost.com/2025/12/30/us-news/missing-texas-teen-camila-mendoza-olmos-seen-in-new-dashcam-footage/"
-  },
-  {
     "score": 50,
     "pubdate": "2025-12-30-10-03-33 +0000",
     "source": "cbc",
@@ -43,6 +29,20 @@
   },
   {
     "score": 50,
+    "pubdate": "2025-12-30-05-14-28 +0000",
+    "source": "bbc",
+    "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+    "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 49,
+    "pubdate": "2025-12-30-13-03-45 +0000",
+    "source": "nypost",
+    "headline": "New footage may be last time missing Texas teen Camila Mendoza Olmos was seen — as cops refuse to rule out kidnapping",
+    "link": "https://nypost.com/2025/12/30/us-news/missing-texas-teen-camila-mendoza-olmos-seen-in-new-dashcam-footage/"
+  },
+  {
+    "score": 44,
     "pubdate": "2025-12-30-02-43-18 +0000",
     "source": "nypost",
     "headline": "Mom discovers her long-lost pen pal is her doctor — who delivered her two kids: ‘My mouth dropped’",
