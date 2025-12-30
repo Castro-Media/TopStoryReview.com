@@ -1,6 +1,6 @@
 [
   {
-    "score": 128,
+    "score": 117,
     "pubdate": "2025-12-29-20-46-37 +0000",
     "source": "nyt",
     "headline": "Trump, Pressing Ahead on Ukraine-Russia Talks, Confronts Difficult Realities",
@@ -14,32 +14,18 @@
     "link": "https://www.cbc.ca/news/world/china-taiwan-war-games-military-exercises-9.7029773?cmp=rss"
   },
   {
-    "score": 63,
-    "pubdate": "2025-12-29-23-26-00 +0000",
-    "source": "wsj",
-    "headline": "Trump Threatens New Military Action With Israel Against Iran",
-    "link": "https://www.wsj.com/world/middle-east/trump-to-meet-netanyahu-to-hash-out-their-different-middle-east-visions-3ca243ba"
+    "score": 57,
+    "pubdate": "2025-12-29-22-27-30 +0000",
+    "source": "startribune",
+    "headline": "Viral video prompts new scrutiny of alleged fraud, draws quick reaction from Minnesota regulators",
+    "link": "https://www.startribune.com/viral-video-prompts-new-scrutiny-of-alleged-fraud-and-draws-quick-reaction-from-mn-regulators/601554058"
   },
   {
-    "score": 61,
-    "pubdate": "2025-12-30-10-03-33 +0000",
-    "source": "cbc",
-    "headline": "Trump says U.S. struck dock in Venezuela where he says alleged drug boats 'load up'",
-    "link": "https://www.cbc.ca/news/world/venezuela-drone-strike-trump-9.7029864?cmp=rss"
-  },
-  {
-    "score": 52,
+    "score": 51,
     "pubdate": "2025-12-30-05-14-28 +0000",
     "source": "bbc",
     "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
     "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 50,
-    "pubdate": "2025-12-30-17-11-13 +0000",
-    "source": "nypost",
-    "headline": "Video shows wild brawl moments before 16-year-old boy shot dead on Christmas Day in California",
-    "link": "https://nypost.com/2025/12/30/us-news/video-shows-wild-lancaster-brawl-before-california-teen-shot-dead/"
   },
   {
     "score": 47,
@@ -49,24 +35,38 @@
     "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html"
   },
   {
+    "score": 46,
+    "pubdate": "2025-12-30-10-03-33 +0000",
+    "source": "cbc",
+    "headline": "Trump says U.S. struck dock in Venezuela where he says alleged drug boats 'load up'",
+    "link": "https://www.cbc.ca/news/world/venezuela-drone-strike-trump-9.7029864?cmp=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-12-30-16-31-18 +0000",
+    "source": "bbc",
+    "headline": "Protests spread across Iran for third day after currency hits record low",
+    "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2025-12-30-17-11-13 +0000",
+    "source": "nypost",
+    "headline": "Video shows wild brawl moments before 16-year-old boy shot dead on Christmas Day in California",
+    "link": "https://nypost.com/2025/12/30/us-news/video-shows-wild-lancaster-brawl-before-california-teen-shot-dead/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2025-12-30-17-13-49 +0000",
+    "source": "nypost",
+    "headline": "DC pipe bomb suspect Brian Cole Jr. is autistic and has OCD, lawyers reveal in bid against pre-trial detention",
+    "link": "https://nypost.com/2025/12/30/us-news/dc-pipe-bomb-suspect-brian-cole-jr-is-autistic-and-has-ocd-lawyers-reveal-in-bid-against-pre-trial-detention/"
+  },
+  {
     "score": 43,
     "pubdate": "2025-12-30-18-18-44 +0000",
     "source": "nypost",
     "headline": "Zohran Mamdani names ‘social justice attorney’— and de Blasio admin alum — to NYC’s top legal job",
     "link": "https://nypost.com/2025/12/30/us-news/zohran-mamdani-names-another-bill-de-blasio-admin-alum-to-nycs-top-legal-job/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-12-30-18-22-57 +0000",
-    "source": "bbc",
-    "headline": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
-    "link": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
-    "pubdate": "2025-12-30-17-13-49 +0000",
-    "source": "nypost",
-    "headline": "DC pipe bomb suspect Brian Cole Jr. is autistic and has OCD, lawyers reveal in bid against pre-trial detention",
-    "link": "https://nypost.com/2025/12/30/us-news/dc-pipe-bomb-suspect-brian-cole-jr-is-autistic-and-has-ocd-lawyers-reveal-in-bid-against-pre-trial-detention/"
   }
 ]
