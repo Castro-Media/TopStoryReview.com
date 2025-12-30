@@ -1,24 +1,31 @@
 [
   {
-    "score": 328,
+    "score": 329,
     "pubdate": "2025-12-24-10-30-00 +0000",
     "source": "wsj",
     "headline": "Capital Account: President Trump’s social-media post shows worries about Kevin Hassett miss the point. Trump’s conditions compromise all the candidates.",
     "link": "https://www.wsj.com/economy/central-banking/whoever-trump-picks-the-next-fed-chair-wont-be-independent-c8a79ead"
   },
   {
-    "score": 142,
+    "score": 143,
     "pubdate": "2025-12-29-11-45-04 +0000",
     "source": "nypost",
     "headline": "Zelensky says US offering Ukraine 15-year security guarantee in latest peace plan",
     "link": "https://nypost.com/2025/12/29/us-news/volodymyr-zelensky-says-us-is-offering-ukraine-15-year-security-guarantee-in-latest-peace-plan/"
   },
   {
-    "score": 131,
+    "score": 135,
     "pubdate": "2025-12-29-23-27-01 +0000",
     "source": "nyt",
     "headline": "Ice Storm Makes Travel Dangerous in Parts of New York and New England",
     "link": "https://www.nytimes.com/2025/12/29/us/new-york-new-england-ice-storm.html"
+  },
+  {
+    "score": 111,
+    "pubdate": "2025-12-29-16-06-33 +0000",
+    "source": "nypost",
+    "headline": "China stages military drills around Taiwan to warn ‘external forces’ after US, Japan tensions",
+    "link": "https://nypost.com/2025/12/29/world-news/china-stages-military-drills-around-taiwan-to-warn-external-forces-after-us-japan-tensions/"
   },
   {
     "score": 109,
@@ -28,14 +35,7 @@
     "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html"
   },
   {
-    "score": 106,
-    "pubdate": "2025-12-29-16-06-33 +0000",
-    "source": "nypost",
-    "headline": "China stages military drills around Taiwan to warn ‘external forces’ after US, Japan tensions",
-    "link": "https://nypost.com/2025/12/29/world-news/china-stages-military-drills-around-taiwan-to-warn-external-forces-after-us-japan-tensions/"
-  },
-  {
-    "score": 97,
+    "score": 96,
     "pubdate": "2025-12-27-23-49-20 +0000",
     "source": "nypost",
     "headline": "Stock up on these essential  home goods before tariffs push prices up in 2026",
@@ -49,7 +49,7 @@
     "link": "https://www.wsj.com/world/africa/trump-announces-christmas-day-strike-against-isis-in-nigeria-5881a344"
   },
   {
-    "score": 84,
+    "score": 85,
     "pubdate": "2025-12-30-02-43-18 +0000",
     "source": "nypost",
     "headline": "Mom discovers her long-lost pen pal is her doctor — who delivered her two kids: ‘My mouth dropped’",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2025/12/29/us-news/trump-backs-netanyahu-after-rumors-of-friction-talks-tough-on-iran-well-knock-the-hell-out-of-them/"
   },
   {
-    "score": 77,
-    "pubdate": "2025-12-29-20-26-41 +0000",
-    "source": "nypost",
-    "headline": "Google co-founder, Peter Thiel among billionaires threatening to bolt from California over tax that would siphon their wealth: report",
-    "link": "https://nypost.com/2025/12/29/us-news/larry-page-threatens-to-leave-california-over-billionaire-tax/"
+    "score": 79,
+    "pubdate": "2025-12-30-05-14-28 +0000",
+    "source": "bbc",
+    "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+    "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
   }
 ]
