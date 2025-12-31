@@ -1,24 +1,31 @@
 [
   {
-    "score": 308,
+    "score": 303,
     "pubdate": "2025-12-24-10-30-00 +0000",
     "source": "wsj",
     "headline": "Capital Account: President Trump’s social-media post shows worries about Kevin Hassett miss the point. Trump’s conditions compromise all the candidates.",
     "link": "https://www.wsj.com/economy/central-banking/whoever-trump-picks-the-next-fed-chair-wont-be-independent-c8a79ead"
   },
   {
-    "score": 175,
+    "score": 177,
     "pubdate": "2025-12-30-23-05-25 +0000",
     "source": "cbc",
     "headline": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day",
     "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
   },
   {
-    "score": 113,
+    "score": 114,
     "pubdate": "2025-12-25-23-59-19 +0000",
     "source": "latimes",
     "headline": "Federal judge blocks ICE from arresting immigrants who show up for court appointments in Northern California",
     "link": "https://www.latimes.com/california/story/2025-12-25/federal-judge-blocks-ice-from-arresting-immigrants-in-northern-california-courts"
+  },
+  {
+    "score": 109,
+    "pubdate": "2025-12-30-17-06-18 +0000",
+    "source": "nypost",
+    "headline": "China unleashes hail of live fire in intense, large-scale military drills near Taiwan",
+    "link": "https://nypost.com/2025/12/30/world-news/china-boasts-military-capabilities-near-taiwan-on-second-day-of-drills/"
   },
   {
     "score": 109,
@@ -28,45 +35,38 @@
     "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 108,
+    "score": 107,
     "pubdate": "2025-12-27-03-00-00 +0000",
     "source": "wsj",
     "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
     "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
   },
   {
-    "score": 106,
-    "pubdate": "2025-12-30-17-06-18 +0000",
-    "source": "nypost",
-    "headline": "China unleashes hail of live fire in intense, large-scale military drills near Taiwan",
-    "link": "https://nypost.com/2025/12/30/world-news/china-boasts-military-capabilities-near-taiwan-on-second-day-of-drills/"
+    "score": 91,
+    "pubdate": "2025-12-25-19-54-00 +0000",
+    "source": "wsj",
+    "headline": "Coast Guard Tracks Down Runaway Oil Tanker Linked to Iran and Venezuela",
+    "link": "https://www.wsj.com/world/middle-east/coast-guard-tracks-down-a-runaway-oil-tanker-linked-to-iran-and-venezuela-32f7660c"
   },
   {
-    "score": 94,
-    "pubdate": "2025-12-29-19-14-07 +0000",
-    "source": "nypost",
-    "headline": "Trump backs Netanyahu after reports of friction, talks tough on Iran: ‘We’ll knock the hell out of them’",
-    "link": "https://nypost.com/2025/12/29/us-news/trump-backs-netanyahu-after-rumors-of-friction-talks-tough-on-iran-well-knock-the-hell-out-of-them/"
-  },
-  {
-    "score": 85,
+    "score": 88,
     "pubdate": "2025-12-30-05-14-28 +0000",
     "source": "bbc",
     "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
     "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 77,
+    "score": 74,
     "pubdate": "2025-12-26-01-48-00 +0000",
     "source": "wsj",
     "headline": "U.S. Launched Christmas Day Strike Against ISIS in Nigeria",
     "link": "https://www.wsj.com/world/africa/trump-announces-christmas-day-strike-against-isis-in-nigeria-5881a344"
   },
   {
-    "score": 76,
-    "pubdate": "2025-12-30-20-41-08 +0000",
+    "score": 73,
+    "pubdate": "2025-12-31-01-59-19 +0000",
     "source": "nyt",
-    "headline": "Crew Paints Russian Flag on Oil Tanker Pursued by the U.S. Coast Guard",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html"
+    "headline": "Health Dept. Pauses Child Care Funding to Minnesota, Citing State’s Fraud Scandal",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/hhs-minnesota-funds-day-care-fraud.html"
   }
 ]
