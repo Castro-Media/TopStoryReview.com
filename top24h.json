@@ -1,13 +1,13 @@
 [
   {
-    "score": 132,
+    "score": 129,
     "pubdate": "2025-12-30-23-05-25 +0000",
     "source": "cbc",
     "headline": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day",
     "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
   },
   {
-    "score": 98,
+    "score": 94,
     "pubdate": "2025-12-31-02-27-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration said it is freezing federal child-care funding to Minnesota following allegations of yearslong fraud schemes involving the state’s social-services system",
@@ -21,7 +21,7 @@
     "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html"
   },
   {
-    "score": 53,
+    "score": 47,
     "pubdate": "2025-12-31-05-20-55 +0000",
     "source": "nyt",
     "headline": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
@@ -36,24 +36,10 @@
   },
   {
     "score": 43,
-    "pubdate": "2025-12-30-19-35-00 +0000",
-    "source": "wsj",
-    "headline": "Some Federal Reserve officials said they were hesitant to support further interest-rate cuts soon, according to minutes released Tuesday, signaling potential resistance to another cut at the January meeting",
-    "link": "https://www.wsj.com/economy/central-banking/fed-minutes-suggest-caution-about-further-cuts-early-next-year-f36148c7"
-  },
-  {
-    "score": 43,
     "pubdate": "2025-12-31-17-56-58 +0000",
     "source": "nypost",
     "headline": "OpenAI’s pay tops every major tech startup as stock awards hit $1.5M per worker: report",
     "link": "https://nypost.com/2025/12/31/business/openais-pay-tops-every-major-tech-startup-as-stock-awards-hit-1-5m-per-worker-report/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2025-12-31-18-19-37 +0000",
-    "source": "nyt",
-    "headline": "In New Year’s Speech to Russia, Putin Says Little About Ukraine War or Peace Talks With US",
-    "link": "https://www.nytimes.com/2025/12/31/world/europe/russia-putin-new-years-address.html"
   },
   {
     "score": 40,
@@ -68,5 +54,19 @@
     "source": "latimes",
     "headline": "Disney settles with DOJ for alleged child privacy violations with $10 million payment",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2025-12-31/disney-settles-with-doj-for-alleged-child-privacy-violations-with-10m-payment"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-12-31-08-29-00 +0000",
+    "source": "wsj",
+    "headline": "Hong Kong Stocks Log Best Year Since 2017 as AI Boom Fuels Tech Rally",
+    "link": "https://www.wsj.com/finance/stocks/hong-kong-stocks-log-best-year-since-2017-as-ai-boom-fuels-tech-rally-d4bfdf87"
+  },
+  {
+    "score": 36,
+    "pubdate": "2025-12-31-18-19-37 +0000",
+    "source": "nyt",
+    "headline": "In New Year’s Speech to Russia, Putin Says Little About Ukraine War or Peace Talks With US",
+    "link": "https://www.nytimes.com/2025/12/31/world/europe/russia-putin-new-years-address.html"
   }
 ]

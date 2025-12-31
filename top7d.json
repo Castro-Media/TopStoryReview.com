@@ -36,24 +36,17 @@
   },
   {
     "score": 94,
-    "pubdate": "2025-12-31-02-19-51 +0000",
+    "pubdate": "2025-12-25-19-54-00 +0000",
+    "source": "wsj",
+    "headline": "Coast Guard Tracks Down Runaway Oil Tanker Linked to Iran and Venezuela",
+    "link": "https://www.wsj.com/world/middle-east/coast-guard-tracks-down-a-runaway-oil-tanker-linked-to-iran-and-venezuela-32f7660c"
+  },
+  {
+    "score": 79,
+    "pubdate": "2025-12-31-18-15-11 +0000",
     "source": "nypost",
-    "headline": "Netanyahu warns ‘all bets are off’ if Iran seeks escalation against Israel",
-    "link": "https://nypost.com/2025/12/30/us-news/netanyahu-warns-all-bets-are-off-if-iran-seeks-escalation-against-israel/"
-  },
-  {
-    "score": 89,
-    "pubdate": "2025-12-31-03-44-14 +0000",
-    "source": "nyt",
-    "headline": "Crew Paints Russian Flag on Oil Tanker Pursued by the U.S. Coast Guard",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html"
-  },
-  {
-    "score": 74,
-    "pubdate": "2025-12-31-05-20-55 +0000",
-    "source": "nyt",
-    "headline": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html"
+    "headline": "Minn. Somali-run day care bizarrely reports all their important documents about child care were stolen in mysterious break-in",
+    "link": "https://nypost.com/2025/12/31/us-news/minnesota-somali-run-daycare-bizarrely-says-all-their-important-documents-about-child-care-were-stolen-in-mystery-break-in/"
   },
   {
     "score": 74,
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/economy/trade/trump-trade-war-tariffs-impact-2025-bf93731a"
   },
   {
-    "score": 70,
-    "pubdate": "2025-12-31-18-15-11 +0000",
-    "source": "nypost",
-    "headline": "Minn. Somali-run day care bizarrely reports all their important documents about child care were stolen in mysterious break-in",
-    "link": "https://nypost.com/2025/12/31/us-news/minnesota-somali-run-daycare-bizarrely-says-all-their-important-documents-about-child-care-were-stolen-in-mystery-break-in/"
+    "score": 74,
+    "pubdate": "2025-12-31-05-20-55 +0000",
+    "source": "nyt",
+    "headline": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html"
+  },
+  {
+    "score": 73,
+    "pubdate": "2025-12-31-17-10-29 +0000",
+    "source": "bbc",
+    "headline": "Israel to bar 37 aid groups as UK and EU warn of severe impact in Gaza",
+    "link": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss"
   }
 ]
