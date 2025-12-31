@@ -1,38 +1,24 @@
 [
   {
-    "score": 288,
+    "score": 283,
     "pubdate": "2025-12-24-10-30-00 +0000",
     "source": "wsj",
     "headline": "Capital Account: President Trump’s social-media post shows worries about Kevin Hassett miss the point. Trump’s conditions compromise all the candidates.",
     "link": "https://www.wsj.com/economy/central-banking/whoever-trump-picks-the-next-fed-chair-wont-be-independent-c8a79ead"
   },
   {
-    "score": 173,
+    "score": 171,
     "pubdate": "2025-12-30-23-05-25 +0000",
     "source": "cbc",
     "headline": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day",
     "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
   },
   {
-    "score": 116,
+    "score": 114,
     "pubdate": "2025-12-25-23-59-19 +0000",
     "source": "latimes",
     "headline": "Federal judge blocks ICE from arresting immigrants who show up for court appointments in Northern California",
     "link": "https://www.latimes.com/california/story/2025-12-25/federal-judge-blocks-ice-from-arresting-immigrants-in-northern-california-courts"
-  },
-  {
-    "score": 107,
-    "pubdate": "2025-12-30-00-12-41 +0000",
-    "source": "bbc",
-    "headline": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
-    "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 106,
-    "pubdate": "2025-12-30-17-06-18 +0000",
-    "source": "nypost",
-    "headline": "China unleashes hail of live fire in intense, large-scale military drills near Taiwan",
-    "link": "https://nypost.com/2025/12/30/world-news/china-boasts-military-capabilities-near-taiwan-on-second-day-of-drills/"
   },
   {
     "score": 104,
@@ -40,6 +26,20 @@
     "source": "wsj",
     "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
     "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
+  },
+  {
+    "score": 103,
+    "pubdate": "2025-12-30-00-12-41 +0000",
+    "source": "bbc",
+    "headline": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
+    "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 103,
+    "pubdate": "2025-12-30-17-06-18 +0000",
+    "source": "nypost",
+    "headline": "China unleashes hail of live fire in intense, large-scale military drills near Taiwan",
+    "link": "https://nypost.com/2025/12/30/world-news/china-boasts-military-capabilities-near-taiwan-on-second-day-of-drills/"
   },
   {
     "score": 91,
@@ -63,7 +63,7 @@
     "link": "https://www.wsj.com/world/africa/trump-announces-christmas-day-strike-against-isis-in-nigeria-5881a344"
   },
   {
-    "score": 70,
+    "score": 71,
     "pubdate": "2025-12-31-01-59-19 +0000",
     "source": "nyt",
     "headline": "Health Dept. Pauses Child Care Funding to Minnesota, Citing State’s Fraud Scandal",
