@@ -14,14 +14,7 @@
     "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
   },
   {
-    "score": 65,
-    "pubdate": "2025-12-30-05-14-28 +0000",
-    "source": "bbc",
-    "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
-    "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 61,
+    "score": 62,
     "pubdate": "2025-12-31-03-44-14 +0000",
     "source": "nyt",
     "headline": "Crew Paints Russian Flag on Oil Tanker Pursued by the U.S. Coast Guard",
@@ -35,11 +28,11 @@
     "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 47,
-    "pubdate": "2025-12-30-18-18-44 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani names two controversial lawyers to NYC’s top legal jobs — including 1 de Blasio admin alum",
-    "link": "https://nypost.com/2025/12/30/us-news/zohran-mamdani-names-another-bill-de-blasio-admin-alum-to-nycs-top-legal-job/"
+    "score": 49,
+    "pubdate": "2025-12-31-05-20-55 +0000",
+    "source": "nyt",
+    "headline": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html"
   },
   {
     "score": 46,
@@ -49,7 +42,14 @@
     "link": "https://nypost.com/2025/12/30/us-news/california-wealth-tax-would-be-catastrophic-warns-bill-ackerman/"
   },
   {
-    "score": 39,
+    "score": 45,
+    "pubdate": "2025-12-30-18-18-44 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani names two controversial lawyers to NYC’s top legal jobs — including 1 de Blasio admin alum",
+    "link": "https://nypost.com/2025/12/30/us-news/zohran-mamdani-names-another-bill-de-blasio-admin-alum-to-nycs-top-legal-job/"
+  },
+  {
+    "score": 41,
     "pubdate": "2025-12-30-17-06-18 +0000",
     "source": "nypost",
     "headline": "China unleashes hail of live fire in intense, large-scale military drills near Taiwan",
@@ -57,16 +57,16 @@
   },
   {
     "score": 38,
-    "pubdate": "2025-12-30-17-33-40 +0000",
-    "source": "bbc",
-    "headline": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
-    "link": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 37,
     "pubdate": "2025-12-30-16-55-56 +0000",
     "source": "nypost",
     "headline": "Meta snaps up AI startup Manus for $2B, drawing scrutiny over new acquisition’s Chinese roots",
     "link": "https://nypost.com/2025/12/30/business/meta-snaps-up-ai-startup-manus-for-2b-drawing-scrutiny-over-new-acquisitions-chinese-roots/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2025-12-30-17-33-40 +0000",
+    "source": "bbc",
+    "headline": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+    "link": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss"
   }
 ]
