@@ -1,5 +1,12 @@
 [
   {
+    "score": 92,
+    "pubdate": "2025-12-30-23-05-25 +0000",
+    "source": "cbc",
+    "headline": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day",
+    "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
+  },
+  {
     "score": 91,
     "pubdate": "2025-12-31-02-27-00 +0000",
     "source": "wsj",
@@ -7,46 +14,46 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-freezes-child-care-funding-to-minnesota-amid-fraud-probes-c8e72e78"
   },
   {
-    "score": 81,
-    "pubdate": "2025-12-30-23-05-25 +0000",
-    "source": "cbc",
-    "headline": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day",
-    "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
-  },
-  {
-    "score": 62,
+    "score": 70,
     "pubdate": "2025-12-31-03-44-14 +0000",
     "source": "nyt",
     "headline": "Crew Paints Russian Flag on Oil Tanker Pursued by the U.S. Coast Guard",
     "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html"
   },
   {
-    "score": 55,
+    "score": 57,
     "pubdate": "2025-12-31-05-20-55 +0000",
     "source": "nyt",
     "headline": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
     "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html"
   },
   {
-    "score": 50,
+    "score": 53,
     "pubdate": "2025-12-30-16-31-18 +0000",
     "source": "bbc",
     "headline": "Protests spread across Iran for third day after currency hits record low",
     "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 48,
+    "score": 42,
+    "pubdate": "2025-12-31-05-56-27 +0000",
+    "source": "nypost",
+    "headline": "DOJ reviewing more than 5 million pages of documents in the Epstein files: report",
+    "link": "https://nypost.com/2025/12/31/us-news/doj-reviewing-more-than-5-million-pages-of-documents-in-the-epstein-files-report/"
+  },
+  {
+    "score": 41,
     "pubdate": "2025-12-31-01-49-23 +0000",
     "source": "nypost",
     "headline": "Billionaire Bill Ackman warns ‘no one would stay’ if California implements wealth tax",
     "link": "https://nypost.com/2025/12/30/us-news/california-wealth-tax-would-be-catastrophic-warns-bill-ackerman/"
   },
   {
-    "score": 41,
-    "pubdate": "2025-12-31-05-56-27 +0000",
-    "source": "nypost",
-    "headline": "DOJ reviewing more than 5 million pages of documents in the Epstein files: report",
-    "link": "https://nypost.com/2025/12/31/us-news/doj-reviewing-more-than-5-million-pages-of-documents-in-the-epstein-files-report/"
+    "score": 40,
+    "pubdate": "2025-12-31-08-29-00 +0000",
+    "source": "wsj",
+    "headline": "Hong Kong Stocks Log Best Year Since 2017 as AI Boom Fuels Tech Rally",
+    "link": "https://www.wsj.com/finance/stocks/hong-kong-stocks-log-best-year-since-2017-as-ai-boom-fuels-tech-rally-d4bfdf87?mod=rss_markets_main"
   },
   {
     "score": 39,
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2025/12/30/us-news/ben-nighthorse-campbell-former-us-senator-from-colorado-dead-at-92/"
   },
   {
-    "score": 39,
-    "pubdate": "2025-12-30-16-55-56 +0000",
-    "source": "nypost",
-    "headline": "Meta snaps up AI startup Manus for $2B, drawing scrutiny over new acquisition’s Chinese roots",
-    "link": "https://nypost.com/2025/12/30/business/meta-snaps-up-ai-startup-manus-for-2b-drawing-scrutiny-over-new-acquisitions-chinese-roots/"
-  },
-  {
-    "score": 39,
-    "pubdate": "2025-12-30-18-22-57 +0000",
-    "source": "bbc",
-    "headline": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
-    "link": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss"
+    "score": 38,
+    "pubdate": "2025-12-31-10-29-50 +0000",
+    "source": "nyt",
+    "headline": "Even as Trump Targets Boats in Strikes, Coast Guard Continues Anti-Drug Operations",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/trump-boat-strikes-coast-guard-drug-operations.html"
   }
 ]
