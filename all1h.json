@@ -1,104 +1,56 @@
 [
   {
-    "headline": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-31-01-14-56 +0000"
-  },
-  {
-    "headline": "Gold Edges Higher; Prices Likely to Correct or Consolidate",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-prices-likely-to-correct-or-consolidate-2e9438bc?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2025-12-31-01-12-00 +0000"
-  },
-  {
-    "headline": "Mickey Rourke faces eviction from LA home over $60K in unpaid rent",
-    "link": "https://nypost.com/2025/12/30/us-news/mickey-rourke-faces-eviction-from-la-home-over-60k-in-unpaid-rent/",
-    "source": "nypost",
-    "pubdate": "2025-12-31-01-11-51 +0000"
-  },
-  {
-    "headline": "California waiters, bartenders seethe over state shirking ‘no tax on tips’ policy",
-    "link": "https://nypost.com/2025/12/30/us-news/california-waiters-bartenders-seethe-over-state-denying-no-tax-on-tips-policy/",
-    "source": "nypost",
-    "pubdate": "2025-12-31-01-07-28 +0000"
-  },
-  {
-    "headline": "Beloved lawyer slain by brother wanted him evicted from family home",
-    "link": "https://nypost.com/2025/12/30/us-news/beloved-lawyer-allegedly-killed-by-brother-wanted-him-evicted/",
-    "source": "nypost",
-    "pubdate": "2025-12-31-01-02-02 +0000"
-  },
-  {
-    "headline": "Tech Startups Are Handing Out Free Nicotine Pouches to Boost Productivity",
-    "link": "https://www.wsj.com/tech/tech-startups-are-handing-out-free-nicotine-pouches-to-boost-productivity-e42d3cbe?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-31-01-00-00 +0000"
-  },
-  {
-    "headline": "Trump administration says it's freezing child care funds to Minnesota after series of fraud schemes",
-    "link": "https://www.startribune.com/trump-administration-says-its-freezing-child-care-funds-to-minnesota-after-series-of-fraud-schemes/601554945",
-    "source": "startribune",
-    "pubdate": "2025-12-31-00-53-01 +0000"
-  },
-  {
-    "headline": "New York mom sent ‘flying in the air like a kite’ by 70 mph winds",
-    "link": "https://nypost.com/2025/12/30/us-news/new-york-mom-sent-flying-in-the-air-like-a-kite-by-70-mph-winds/",
-    "source": "nypost",
-    "pubdate": "2025-12-31-00-38-36 +0000"
-  },
-  {
-    "headline": "Masashi Ozaki, Japan’s Dominant Golfer Known as ‘Jumbo,’ Dies at 78",
-    "link": "https://www.nytimes.com/2025/12/30/sports/golf/masashi-ozaki-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-31-00-36-47 +0000"
-  },
-  {
-    "headline": "Isiah Whitlock Jr., 'The Wire' actor and Spike Lee collaborator, dies at 71",
-    "link": "https://www.latimes.com/california/story/2025-12-30/isiah-whitlock-jr-dead-the-wire-veep-spike-lee",
-    "source": "latimes",
-    "pubdate": "2025-12-31-00-29-46 +0000"
-  },
-  {
-    "headline": "What to know about the viral video that renewed scrutiny on fraud in Minnesota",
-    "link": "https://www.startribune.com/what-to-know-about-the-viral-video-that-renewed-scrutiny-on-fraud-in-minnesota/601554836",
-    "source": "startribune",
-    "pubdate": "2025-12-31-00-29-00 +0000"
-  },
-  {
-    "headline": "Brazil's Bolsonaro undergoes third medical procedure for hiccups",
-    "link": "https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-31-00-25-11 +0000"
-  },
-  {
-    "headline": "Brazil's Bolsonaro undergoes third medical procedure for hiccups",
-    "link": "https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-31-00-25-11 +0000"
-  },
-  {
-    "headline": "Wife of Jill Biden’s ex-husband found dead inside Delaware home after a domestic dispute call",
-    "link": "https://nypost.com/2025/12/30/us-news/wife-of-jill-bidens-ex-husband-found-dead-inside-delaware-home-after-a-domestic-dispute-call/",
-    "source": "nypost",
-    "pubdate": "2025-12-31-00-25-06 +0000"
-  },
-  {
-    "headline": "Oil Tanker Pursued by the U.S. Appears to Claim Russian Protection",
-    "link": "https://www.wsj.com/politics/national-security/oil-tanker-pursued-by-the-u-s-appears-to-claim-russian-protection-2d10ecd2",
-    "source": "wsj",
-    "pubdate": "2025-12-31-00-24-00 +0000"
+    "headline": "Year in Music 2025: The Bay made magical noise",
+    "link": "https://48hills.org/2025/12/year-in-music-2025-the-bay-made-magical-noise/",
+    "source": "48hills",
+    "pubdate": "2025-12-31-02-31-04 +0000"
   },
   {
     "headline": "The pursuit of an oil tanker that has evaded the U.S. Coast Guard is complicated by a Russian flag sloppily painted on the side of the vessel",
     "link": "https://www.wsj.com/politics/national-security/oil-tanker-pursued-by-the-u-s-appears-to-claim-russian-protection-2d10ecd2",
     "source": "wsj",
-    "pubdate": "2025-12-31-00-24-00 +0000"
+    "pubdate": "2025-12-31-02-30-00 +0000"
   },
   {
-    "headline": "Body found in search for missing Texas teen Camila Mendoza Olmos – remains to be ID’d in ‘next day or two’",
-    "link": "https://nypost.com/2025/12/30/us-news/body-found-in-search-for-missing-texas-teen-camila-mendoza-olmos-remains-to-be-idd-in-next-day-or-two/",
+    "headline": "Year in Music 2025: We will not be dumbed down",
+    "link": "https://48hills.org/2025/12/year-in-music-2025-we-will-not-be-dumbed-down/",
+    "source": "48hills",
+    "pubdate": "2025-12-31-02-29-55 +0000"
+  },
+  {
+    "headline": "World’s most contagious virus detected at 2 major US airports amid peak holiday traffic",
+    "link": "https://nypost.com/2025/12/30/us-news/measles-detected-at-newark-airport-amid-holiday-travel/",
     "source": "nypost",
-    "pubdate": "2025-12-31-00-21-53 +0000"
+    "pubdate": "2025-12-31-02-29-09 +0000"
+  },
+  {
+    "headline": "The Trump administration said it is freezing federal child-care funding to Minnesota following allegations of yearslong fraud schemes involving the state’s social-services system",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-freezes-child-care-funding-to-minnesota-amid-fraud-probes-c8e72e78",
+    "source": "wsj",
+    "pubdate": "2025-12-31-02-27-00 +0000"
+  },
+  {
+    "headline": "Ben Nighthorse Campbell, Former Colorado Senator, Dies at 92",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/ben-nighthorse-campbell-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-31-02-20-04 +0000"
+  },
+  {
+    "headline": "Ben Nighthorse Campbell, Former Colorado Senator, Dies at 92",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/ben-nighthorse-campbell-dead.html",
+    "source": "nyt",
+    "pubdate": "2025-12-31-02-20-04 +0000"
+  },
+  {
+    "headline": "Netanyahu warns ‘all bets are off’ if Iran seeks escalation against Israel",
+    "link": "https://nypost.com/2025/12/30/us-news/netanyahu-warns-all-bets-are-off-if-iran-seeks-escalation-against-israel/",
+    "source": "nypost",
+    "pubdate": "2025-12-31-02-19-51 +0000"
+  },
+  {
+    "headline": "Netanyahu warns ‘all bets are off’ if Iran seeks escalation against Israel",
+    "link": "https://nypost.com/2025/12/30/us-news/netanyahu-warns-all-bets-are-off-if-iran-seeks-escalation-against-israel/",
+    "source": "nypost",
+    "pubdate": "2025-12-31-02-19-51 +0000"
   }
 ]
