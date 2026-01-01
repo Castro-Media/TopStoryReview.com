@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 52,
+    "pubdate": "2026-01-01-01-12-14 +0000",
+    "source": "nyt",
+    "headline": "New Year’s 2026 Celebrations Around the World: Photos and Videos",
+    "link": "https://www.nytimes.com/2025/12/31/world/new-years-2026-celebrations-photos.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-01-01-01-08-48 +0000",
+    "source": "nyt",
+    "headline": "Oil Tanker Fleeing the Coast Guard Now Listed in Russian Ship Database",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/russia-oil-tanker-venezuela.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-01-00-27-55 +0000",
+    "source": "nyt",
+    "headline": "In Hearing Transcript, Jack Smith Defends Decision to Indict Trump",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/jack-smith-deposition-house-trump.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-01-00-22-13 +0000",
+    "source": "nyt",
+    "headline": "Suicide Bomber in Syria Kills Security Officer in New Year’s Eve Attack",
+    "link": "https://www.nytimes.com/2025/12/31/world/middleeast/aleppo-syria-suicide-bomber-new-years-eve.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-01-00-45-33 +0000",
+    "source": "nyt",
+    "headline": "Trump Abandons Efforts to Deploy National Guard to 3 Major Cities",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-01-00-43-21 +0000",
+    "source": "nyt",
+    "headline": "Coast Guard Searches for Survivors After More Boat Strikes",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/coast-guard-survivors-boat-strikes.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-01-00-54-24 +0000",
+    "source": "latimes",
+    "headline": "Studio City private school is sued by parents of ninth-grader killed in parking lot crash",
+    "link": "https://www.latimes.com/california/story/2025-12-31/campbell-hall-parents-lawsuit"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-01-00-37-30 +0000",
+    "source": "nyt",
+    "headline": "Brigitte Bardot’s Legacy of Racist Rhetoric",
+    "link": "https://www.nytimes.com/2025/12/31/world/europe/brigitte-bardot-racism-far-right.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-01-00-40-28 +0000",
+    "source": "nyt",
+    "headline": "Trump Must Return Command of California National Guard to Newsom, Court Rules",
+    "link": "https://www.nytimes.com/2025/12/31/us/trump-national-guard-california-newsom.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-01-01-16-00 +0000",
+    "source": "wsj",
+    "headline": "South Korea’s Exports Stronger Than Expected in December; Set Annual Record in 2025",
+    "link": "https://www.wsj.com/economy/trade/south-koreas-exports-stronger-than-expected-in-december-set-annual-record-in-2025-5f3f69dd"
+  }
+]
