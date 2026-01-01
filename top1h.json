@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 30,
+    "pubdate": "2026-01-01-12-48-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump delayed by a year tariff increases on upholstered furniture, kitchen cabinets and vanities, the latest move to walk back levies in the face of consumer frustration over prices",
+    "link": "https://www.wsj.com/economy/trade/trump-rolls-back-tariffs-on-furniture-and-kitchen-cabinets-a1beddd5"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-01-12-58-44 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Dozens Believed Dead After Fire at New Year’s Party in Switzerland, Police Say",
+    "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-explosion-fire"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-01-12-54-04 +0000",
+    "source": "bbc",
+    "headline": "Iran security force member killed during protests, officials say",
+    "link": "https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-01-12-59-47 +0000",
+    "source": "nyt",
+    "headline": "How Two Powerful U.S. Allies Came to Blows in Yemen",
+    "link": "https://www.nytimes.com/2026/01/01/world/middleeast/uae-saudi-arabia-yemen.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-01-12-21-39 +0000",
+    "source": "nyt",
+    "headline": "A Monumental Church in Amsterdam Is Ravaged by Flames on New Year’s Day",
+    "link": "https://www.nytimes.com/2026/01/01/world/europe/amsterdam-fire-church-new-years.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-01-13-02-46 +0000",
+    "source": "nypost",
+    "headline": "Russia accuses Ukraine of killing 24 in New Year drone strike",
+    "link": "https://nypost.com/2026/01/01/world-news/russia-accuses-ukraine-of-killing-24-in-new-year-drone-strike/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-01-12-34-29 +0000",
+    "source": "bbc",
+    "headline": "Netherlands police face 'unprecedented' New Year's  violence",
+    "link": "https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-01-01-13-00-47 +0000",
+    "source": "wapo",
+    "headline": "Florida’s bear hunt numbers are lower than expected",
+    "link": "https://www.washingtonpost.com/nation/2026/01/01/florida-bears-hunt-killed-controversy/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-01-01-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "As Signs of Aging Emerge, Trump Responds With Defiance",
+    "link": "https://www.wsj.com/us-news/as-signs-of-aging-emerge-trump-responds-with-defiance-769c5dcd"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-01-01-13-05-16 +0000",
+    "source": "bbc",
+    "headline": "What we know about the Switzerland ski resort fire",
+    "link": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss"
+  }
+]
