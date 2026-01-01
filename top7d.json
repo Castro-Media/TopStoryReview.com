@@ -1,6 +1,6 @@
 [
   {
-    "score": 299,
+    "score": 298,
     "pubdate": "2026-01-01-02-19-53 +0000",
     "source": "nypost",
     "headline": "Trump calls for ‘peace on Earth’ at glittering Mar-a-Lago New Year’s Eve bash",
@@ -50,17 +50,10 @@
   },
   {
     "score": 83,
-    "pubdate": "2025-12-31-23-37-55 +0000",
-    "source": "nypost",
-    "headline": "Hero grandfather dies after running into house fire to save 14-year-old grandson — ‘never came out’",
-    "link": "https://nypost.com/2025/12/31/us-news/grandfather-who-ran-back-into-burning-stockton-home-to-save-grandson-dies/"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-12-31-23-27-34 +0000",
-    "source": "nypost",
-    "headline": "Accused Christmas killer hit with rare first-degree murder charge in slaying of beloved Long Island CVS worker",
-    "link": "https://nypost.com/2025/12/31/us-news/christmas-killer-hit-with-rare-first-degree-murder-charge-in-slaying-of-beloved-long-island-cvs-worker/"
+    "pubdate": "2025-12-30-05-14-28 +0000",
+    "source": "bbc",
+    "headline": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+    "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 73,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "Instead of crumbling under the highest U.S. tariffs in almost a century, the global trade system has been recast along new lines. Here are six stories of how.",
     "link": "https://www.wsj.com/economy/trade/trump-trade-war-tariffs-impact-2025-bf93731a"
+  },
+  {
+    "score": 72,
+    "pubdate": "2025-12-31-23-00-00 +0000",
+    "source": "wsj",
+    "headline": "Chief Justice John Roberts says in year-end report that the judiciary remains a constraint on political power, as the Supreme Court faces criticism that it was deferential to Trump in 2025",
+    "link": "https://www.wsj.com/us-news/law/under-fire-for-trump-rulings-chief-justice-says-courts-still-check-political-power-8269b50b"
   }
 ]
