@@ -1,31 +1,45 @@
 [
   {
-    "score": 259,
+    "score": 288,
+    "pubdate": "2025-12-31-23-00-00 +0000",
+    "source": "wsj",
+    "headline": "Chief Justice John Roberts says in year-end report that the judiciary remains a constraint on political power, as the Supreme Court faces criticism that it was deferential to Trump in 2025",
+    "link": "https://www.wsj.com/us-news/law/under-fire-for-trump-rulings-chief-justice-says-courts-still-check-political-power-8269b50b"
+  },
+  {
+    "score": 195,
     "pubdate": "2025-12-31-21-46-14 +0000",
     "source": "nypost",
     "headline": "Nasty weather on tap for New Year fetes at Rose Parade in California and revelers in New York City",
     "link": "https://nypost.com/2025/12/31/us-news/nasty-weather-on-tap-for-new-year-fetes-at-rose-parade-in-california-and-revelers-in-new-york-city/"
   },
   {
-    "score": 204,
-    "pubdate": "2025-12-31-21-41-11 +0000",
-    "source": "nypost",
-    "headline": "MTG calls for a ‘tax revolt’ after accusing Trump of ditching America First: ‘So fed up’",
-    "link": "https://nypost.com/2025/12/31/us-news/marjorie-taylor-greene-backs-a-2026-tax-revolt-so-fed-up/"
+    "score": 117,
+    "pubdate": "2025-12-31-23-07-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. national-security officials say Ukraine didn’t target Vladimir Putin or one of his residences in an alleged drone operation, challenging Moscow’s assertion that Kyiv sought to kill Putin",
+    "link": "https://www.wsj.com/politics/national-security/u-s-finds-ukraine-didnt-target-putin-in-drone-strike-615ce4be"
   },
   {
-    "score": 102,
+    "score": 110,
     "pubdate": "2025-12-25-19-54-00 +0000",
     "source": "wsj",
     "headline": "Coast Guard Tracks Down Runaway Oil Tanker Linked to Iran and Venezuela",
     "link": "https://www.wsj.com/world/middle-east/coast-guard-tracks-down-a-runaway-oil-tanker-linked-to-iran-and-venezuela-32f7660c"
   },
   {
+    "score": 97,
+    "pubdate": "2025-12-31-21-41-11 +0000",
+    "source": "nypost",
+    "headline": "MTG calls for a ‘tax revolt’ after accusing Trump of ditching America First: ‘So fed up’",
+    "link": "https://nypost.com/2025/12/31/us-news/marjorie-taylor-greene-backs-a-2026-tax-revolt-so-fed-up/"
+  },
+  {
     "score": 94,
-    "pubdate": "2025-12-31-10-53-00 +0000",
-    "source": "wsj",
-    "headline": "Five Takeaways From China’s Military Drills Around Taiwan",
-    "link": "https://www.wsj.com/world/asia/five-takeaways-from-chinas-military-drills-around-taiwan-47c64aee"
+    "pubdate": "2025-12-30-17-06-18 +0000",
+    "source": "nypost",
+    "headline": "China unleashes hail of live fire in intense, large-scale military drills near Taiwan",
+    "link": "https://nypost.com/2025/12/30/world-news/china-boasts-military-capabilities-near-taiwan-on-second-day-of-drills/"
   },
   {
     "score": 93,
@@ -35,32 +49,11 @@
     "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
   },
   {
-    "score": 91,
-    "pubdate": "2025-12-31-14-48-14 +0000",
-    "source": "nypost",
-    "headline": "Russian drone attack injures 6, including children, in Ukraine just days after Zelensky-Trump meeting",
-    "link": "https://nypost.com/2025/12/31/world-news/russian-drone-attack-injures-6-including-children-in-ukraine/"
-  },
-  {
-    "score": 84,
-    "pubdate": "2025-12-27-03-00-00 +0000",
+    "score": 81,
+    "pubdate": "2025-12-31-02-27-00 +0000",
     "source": "wsj",
-    "headline": "The U.S. is fast-tracking power projects for data centers in a bid to boost AI and lower electric costs, but states say the Trump administration’s plan is a federal power grab",
-    "link": "https://www.wsj.com/politics/policy/ai-state-federal-data-center-energy-9753e3ce"
-  },
-  {
-    "score": 74,
-    "pubdate": "2025-12-31-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Instead of crumbling under the highest U.S. tariffs in almost a century, the global trade system has been recast along new lines. Here are six stories of how.",
-    "link": "https://www.wsj.com/economy/trade/trump-trade-war-tariffs-impact-2025-bf93731a"
-  },
-  {
-    "score": 72,
-    "pubdate": "2025-12-31-05-20-55 +0000",
-    "source": "nyt",
-    "headline": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html"
+    "headline": "The Trump administration said it is freezing federal child-care funding to Minnesota following allegations of yearslong fraud schemes involving the state’s social-services system",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-freezes-child-care-funding-to-minnesota-amid-fraud-probes-c8e72e78"
   },
   {
     "score": 71,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Socialist LA official claims she won’t accept billionaire bucks — but she’s already cashing their checks",
     "link": "https://nypost.com/2025/12/31/us-news/socialist-la-official-eunisses-hernandez-caught-in-donor-lie/"
+  },
+  {
+    "score": 71,
+    "pubdate": "2025-12-31-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Instead of crumbling under the highest U.S. tariffs in almost a century, the global trade system has been recast along new lines. Here are six stories of how.",
+    "link": "https://www.wsj.com/economy/trade/trump-trade-war-tariffs-impact-2025-bf93731a"
   }
 ]
