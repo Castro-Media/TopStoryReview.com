@@ -1,9 +1,249 @@
 [
   {
+    "headline": "Guinea’s Coup Leader Wins Election After Barring Leading Opponents",
+    "link": "https://www.nytimes.com/2026/01/01/world/africa/guinea-election-mamady-doumbouya.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-51-59 +0000"
+  },
+  {
     "headline": "Live Updates: Dozens Confirmed Dead in Fire at New Year’s Party in Swiss Alps",
     "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-explosion-fire",
     "source": "nyt",
-    "pubdate": "2026-01-01-18-53-36 +0000"
+    "pubdate": "2026-01-01-20-48-28 +0000"
+  },
+  {
+    "headline": "New York City Mayor Zohran Mamdani is sworn in at public ceremony",
+    "link": "https://www.washingtonpost.com/nation/2026/01/01/nyc-mayor-zohran-mamdani-sworn-in/",
+    "source": "wapo",
+    "pubdate": "2026-01-01-20-43-33 +0000"
+  },
+  {
+    "headline": "Around 40 dead in Swiss ski resort bar fire, police say",
+    "link": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-01-20-42-25 +0000"
+  },
+  {
+    "headline": "Fire in Swiss Alps Leaves Dozens of New Year’s Revelers Dead",
+    "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-crans-montana-ski-resort.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-42-03 +0000"
+  },
+  {
+    "headline": "Fire in Swiss Alps Leaves Dozens of New Year’s Revelers Dead",
+    "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-crans-montana-ski-resort.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-42-03 +0000"
+  },
+  {
+    "headline": "Souhan: Looking back at my favorite Minnesota sports figures of 2025 as a new year begins",
+    "link": "https://www.startribune.com/most-endearing-minnesota-sports-figures-2025-jim-souhan/601555840",
+    "source": "startribune",
+    "pubdate": "2026-01-01-20-30-00 +0000"
+  },
+  {
+    "headline": "New Year's Day downpour floods Southern California highways",
+    "link": "https://www.latimes.com/california/story/2026-01-01/new-years-day-downpour-floods-southern-california-highways",
+    "source": "latimes",
+    "pubdate": "2026-01-01-20-28-29 +0000"
+  },
+  {
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-ski-resort-fire/switzerland-bar-fire-deaths",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-24-26 +0000"
+  },
+  {
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-ski-resort-fire/switzerland-bar-fire-deaths",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-24-26 +0000"
+  },
+  {
+    "headline": "Hit-and-run driver kills one NYC pedestrian, leaves another clinging to life in New Year’s Day carnage",
+    "link": "https://nypost.com/2026/01/01/us-news/hit-and-run-driver-kills-pedestrian-leaves-another-one-clinging-to-life-in-nyc-new-years-carnage/",
+    "source": "nypost",
+    "pubdate": "2026-01-01-20-24-13 +0000"
+  },
+  {
+    "headline": "Trump pushes back tariff hike on furniture, kitchen cabinets by a year",
+    "link": "https://nypost.com/2026/01/01/business/trump-pushes-back-tariff-hike-on-furniture-kitchen-cabinets-by-a-year/",
+    "source": "nypost",
+    "pubdate": "2026-01-01-20-23-45 +0000"
+  },
+  {
+    "headline": "Iran Protests Turn Deadly as Violence and Anger Spread",
+    "link": "https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-14-24 +0000"
+  },
+  {
+    "headline": "Iran Protests Turn Deadly as Violence and Anger Spread",
+    "link": "https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-14-24 +0000"
+  },
+  {
+    "headline": "Trump administration set to drastically cut planned Italian pasta tariffs",
+    "link": "https://nypost.com/2026/01/01/business/trump-administration-set-to-drastically-cut-planned-italian-pasta-tariffs/",
+    "source": "nypost",
+    "pubdate": "2026-01-01-20-13-19 +0000"
+  },
+  {
+    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
+    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-12-16 +0000"
+  },
+  {
+    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
+    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-12-16 +0000"
+  },
+  {
+    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
+    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-12-16 +0000"
+  },
+  {
+    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
+    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-12-16 +0000"
+  },
+  {
+    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
+    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-12-16 +0000"
+  },
+  {
+    "headline": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
+    "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-01-20-11-45 +0000"
+  },
+  {
+    "headline": "About 40 killed, 115 injured in New Year’s bar fire at Swiss ski resort",
+    "link": "https://www.washingtonpost.com/world/2026/01/01/switzerland-bar-fire-crans-montana/",
+    "source": "wapo",
+    "pubdate": "2026-01-01-20-08-08 +0000"
+  },
+  {
+    "headline": "Bars, nightclubs and discos have been the sites of deadly fires.",
+    "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-ski-resort-fire/bars-nightclubs-and-discos-have-been-the-sites-of-deadly-fires",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-02-54 +0000"
+  },
+  {
+    "headline": "Bars, nightclubs and discos have been the sites of deadly fires.",
+    "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-ski-resort-fire/bars-nightclubs-and-discos-have-been-the-sites-of-deadly-fires",
+    "source": "nyt",
+    "pubdate": "2026-01-01-20-02-54 +0000"
+  },
+  {
+    "headline": "‘Tax the rich’ chant breaks out as Bernie Sanders swears in NYC Mayor Zohran Mamdani",
+    "link": "https://nypost.com/2026/01/01/us-news/tax-the-rich-chant-breaks-out-as-bernie-sanders-swears-in-zohran-mamdani-as-nyc-mayor/",
+    "source": "nypost",
+    "pubdate": "2026-01-01-20-02-35 +0000"
+  },
+  {
+    "headline": "Son of late New York musician was ready to come home for Christmas before being detained in Venezuela",
+    "link": "https://nypost.com/2026/01/01/us-news/grieving-new-york-son-was-ready-to-come-home-for-christmas-before-being-detained-in-venezuela/",
+    "source": "nypost",
+    "pubdate": "2026-01-01-19-55-28 +0000"
+  },
+  {
+    "headline": "Venezuela Frees Dozens of Political Prisoners",
+    "link": "https://www.nytimes.com/2026/01/01/world/americas/venezuela-prisoner-release.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-19-54-49 +0000"
+  },
+  {
+    "headline": "Venezuela Frees Dozens of Political Prisoners",
+    "link": "https://www.nytimes.com/2026/01/01/world/americas/venezuela-prisoner-release.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-19-54-49 +0000"
+  },
+  {
+    "headline": "About 40 people dead and 115 injured in fire at Swiss Alpine bar during New Year's celebration",
+    "link": "https://www.startribune.com/fire-at-a-bar-in-the-swiss-alps-left-people-dead-and-injured-during-new-years-celebrations/601555703",
+    "source": "startribune",
+    "pubdate": "2026-01-01-19-53-01 +0000"
+  },
+  {
+    "headline": "U.S. Slashes Proposed Tariffs on Italian Pasta",
+    "link": "https://www.wsj.com/world/europe/u-s-slashes-proposed-tariffs-on-italian-pasta-9d116bf3",
+    "source": "wsj",
+    "pubdate": "2026-01-01-19-51-00 +0000"
+  },
+  {
+    "headline": "Judge Rules That Trump Administration Must Continue to Fund CFPB",
+    "link": "https://www.nytimes.com/2025/12/30/business/consumer-financial-protection-bureau-funding-trump-vought.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-19-47-10 +0000"
+  },
+  {
+    "headline": "Another New Year at War: Ukraine’s Troops Doubt It Will Be the Last",
+    "link": "https://www.nytimes.com/2026/01/01/world/europe/ukraine-russia-new-years-day-donetsk.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-19-44-47 +0000"
+  },
+  {
+    "headline": "Another New Year at War: Ukraine’s Troops Doubt It Will Be the Last",
+    "link": "https://www.nytimes.com/2026/01/01/world/europe/ukraine-russia-new-years-day-donetsk.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-19-44-47 +0000"
+  },
+  {
+    "headline": "Swiss nightclub where 47 people died advertised flaming champagne bottles in eerie promo video before deadly blaze",
+    "link": "https://nypost.com/2026/01/01/world-news/swiss-nightclub-where-47-people-died-advertised-flaming-champaign-bottles-in-eerie-promo-video-before-deadly-blaze/",
+    "source": "nypost",
+    "pubdate": "2026-01-01-19-41-07 +0000"
+  },
+  {
+    "headline": "In Hearing Transcript, Jack Smith Defends Decision to Indict Trump",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/jack-smith-deposition-house-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-19-34-56 +0000"
+  },
+  {
+    "headline": "In Hearing Transcript, Jack Smith Defends Decision to Indict Trump",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/jack-smith-deposition-house-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-01-19-34-56 +0000"
+  },
+  {
+    "headline": "Perry: Trusted providers are being unfairly swept up in Minnesota’s fraud crackdown",
+    "link": "https://www.startribune.com/mn-daycare-fraud-accusations-medicaid-funding-social-services/601555391",
+    "source": "startribune",
+    "pubdate": "2026-01-01-19-30-00 +0000"
+  },
+  {
+    "headline": "Video released of St. Paul police shooting and injuring gun-waving suspect",
+    "link": "https://www.startribune.com/st-paul-highway-shooting/601555859",
+    "source": "startribune",
+    "pubdate": "2026-01-01-19-20-13 +0000"
+  },
+  {
+    "headline": "Opinion | The Hindu Attacks on India’s Christians",
+    "link": "https://www.wsj.com/opinion/the-hindu-attacks-on-indias-christians-269f6d83",
+    "source": "wsj",
+    "pubdate": "2026-01-01-19-03-00 +0000"
+  },
+  {
+    "headline": "Iranian protesters bring regime to halt as fury soars over cost of living — with $1 worth 1.4M Iranian rials",
+    "link": "https://nypost.com/2026/01/01/world-news/iranian-protesters-bring-regime-to-halt-as-fury-soars-over-cost-of-living/",
+    "source": "nypost",
+    "pubdate": "2026-01-01-19-02-25 +0000"
+  },
+  {
+    "headline": "Opinion | Private Airports Could Beat Snow Delays",
+    "link": "https://www.wsj.com/opinion/private-airports-could-beat-snow-delays-2faf7dc7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-01-19-02-00 +0000"
   },
   {
     "headline": "Survivors of Swiss Fire Search for News of the Victims",
@@ -30,52 +270,10 @@
     "pubdate": "2026-01-01-18-43-54 +0000"
   },
   {
-    "headline": "Iran Protests Turn Deadly as Violence and Anger Spread",
-    "link": "https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-39-16 +0000"
-  },
-  {
-    "headline": "Iran Protests Turn Deadly as Violence and Anger Spread",
-    "link": "https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-39-16 +0000"
-  },
-  {
     "headline": "Farming tycoon accused of killing wife could pay staggering amount to get out of jail: ‘He’s very wealthy’",
     "link": "https://nypost.com/2026/01/01/us-news/judge-sets-bail-at-5-5m-for-farming-tycoon-accused-of-killing-wife/",
     "source": "nypost",
     "pubdate": "2026-01-01-18-37-28 +0000"
-  },
-  {
-    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
-    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-36-29 +0000"
-  },
-  {
-    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
-    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-36-29 +0000"
-  },
-  {
-    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
-    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-36-29 +0000"
-  },
-  {
-    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
-    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-36-29 +0000"
-  },
-  {
-    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
-    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-36-29 +0000"
   },
   {
     "headline": "Opinion | How AIDS Helps Cure Cancer",
@@ -168,24 +366,6 @@
     "pubdate": "2026-01-01-18-08-00 +0000"
   },
   {
-    "headline": "In Hearing Transcript, Jack Smith Defends Decision to Indict Trump",
-    "link": "https://www.nytimes.com/2025/12/31/us/politics/jack-smith-deposition-house-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-03-49 +0000"
-  },
-  {
-    "headline": "In Hearing Transcript, Jack Smith Defends Decision to Indict Trump",
-    "link": "https://www.nytimes.com/2025/12/31/us/politics/jack-smith-deposition-house-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-18-03-49 +0000"
-  },
-  {
-    "headline": "Mayor Zohran Mamdani to greet New York City at public swearing-in ceremony",
-    "link": "https://www.washingtonpost.com/nation/2026/01/01/nyc-mayor-zohran-mamdani-sworn-in/",
-    "source": "wapo",
-    "pubdate": "2026-01-01-18-00-00 +0000"
-  },
-  {
     "headline": "Adams issues stinging reply to Andy Cohen after Bravo host ripped him during NYE broadcast",
     "link": "https://nypost.com/2026/01/01/us-news/adams-issues-stinging-reply-to-andy-cohen-after-bravo-host-ripped-him-during-nye-broadcast/",
     "source": "nypost",
@@ -198,24 +378,6 @@
     "pubdate": "2026-01-01-17-55-31 +0000"
   },
   {
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-ski-resort-fire/switzerland-bar-fire-deaths",
-    "source": "nyt",
-    "pubdate": "2026-01-01-17-55-29 +0000"
-  },
-  {
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/01/world/switzerland-ski-resort-fire/switzerland-bar-fire-deaths",
-    "source": "nyt",
-    "pubdate": "2026-01-01-17-55-29 +0000"
-  },
-  {
-    "headline": "About 40 people dead and 115 injured in fire at Swiss Alpine bar during New Year's celebration",
-    "link": "https://www.startribune.com/fire-at-a-bar-in-the-swiss-alps-left-people-dead-and-injured-during-new-years-celebrations/601555703",
-    "source": "startribune",
-    "pubdate": "2026-01-01-17-53-01 +0000"
-  },
-  {
     "headline": "Toby Morton, a Comedy Writer, Owns the Trump Kennedy Center URL",
     "link": "https://www.nytimes.com/2026/01/01/us/politics/trump-kennedy-center-website-toby-morton.html",
     "source": "nyt",
@@ -238,12 +400,6 @@
     "link": "https://www.wsj.com/world/europe/fire-at-swiss-ski-resort-kills-several-people-6b840d3f",
     "source": "wsj",
     "pubdate": "2026-01-01-17-43-00 +0000"
-  },
-  {
-    "headline": "About 40 killed, 115 injured in New Year’s bar fire at Swiss ski resort",
-    "link": "https://www.washingtonpost.com/world/2026/01/01/switzerland-bar-fire-crans-montana/",
-    "source": "wapo",
-    "pubdate": "2026-01-01-17-42-43 +0000"
   },
   {
     "headline": "Cal Poly float wins top award in Rose Parade",
@@ -252,13 +408,13 @@
     "pubdate": "2026-01-01-17-42-07 +0000"
   },
   {
-    "headline": "Cracker Barrel abandons beloved New Year’s dish without giving any kind of warning",
+    "headline": "Cracker Barrel abandons beloved New Year’s dish without any kind of warning",
     "link": "https://nypost.com/2026/01/01/lifestyle/cracker-barrel-leaves-out-new-years-black-eyed-peas-without-warning/",
     "source": "nypost",
     "pubdate": "2026-01-01-17-35-34 +0000"
   },
   {
-    "headline": "Socialist Zohran Mamdani’s wife Rama Duwaji appears to wear luxury $630 boots to swearing in ceremony",
+    "headline": "Socialist Zohran Mamdani’s wife, Rama Duwaji, appears to wear luxury $630 boots to swearing-in ceremony",
     "link": "https://nypost.com/2026/01/01/us-news/democratic-socialist-zohran-mamdanis-wife-rama-duwaji-wears-luxury-630-miista-boots-to-swearing-in-ceremony/",
     "source": "nypost",
     "pubdate": "2026-01-01-17-19-58 +0000"
@@ -267,13 +423,7 @@
     "headline": "Jacqueline de Ribes, Tastemaker and Fashion Avatar, Dies at 96",
     "link": "https://www.nytimes.com/2025/12/31/style/jacqueline-de-ribes-dead.html",
     "source": "nyt",
-    "pubdate": "2026-01-01-17-13-21 +0000"
-  },
-  {
-    "headline": "Guinea’s Coup Leader Wins Election After Barring Leading Opponents",
-    "link": "https://www.nytimes.com/2026/01/01/world/africa/guinea-election-mamady-doumbouya.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-17-12-38 +0000"
+    "pubdate": "2026-01-01-17-13-22 +0000"
   },
   {
     "headline": "Guinea’s Coup Leader Wins Election After Barring Leading Opponents",
@@ -306,7 +456,7 @@
     "pubdate": "2026-01-01-17-10-16 +0000"
   },
   {
-    "headline": "Foreign tourists among 40 confirmed dead in New Year’s Swiss ski resort inferno: ‘One of the worst tragedies our country has experienced’",
+    "headline": "Foreign tourists among 47 confirmed dead in New Year’s Swiss ski resort inferno: ‘One of the worst tragedies our country has experienced’",
     "link": "https://nypost.com/2026/01/01/world-news/many-foreign-tourists-among-40-dead-in-new-years-swiss-ski-resort-inferno/",
     "source": "nypost",
     "pubdate": "2026-01-01-17-09-57 +0000"
@@ -328,12 +478,6 @@
     "link": "https://www.wsj.com/finance/currencies/crypto-investors-celebrated-for-most-of-2025-then-came-the-hangover-400173ae?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-01-17-00-00 +0000"
-  },
-  {
-    "headline": "Around 40 dead in Swiss ski resort bar fire",
-    "link": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-01-16-55-50 +0000"
   },
   {
     "headline": "NYC DSA leaders ready to go to war for Zohran Mamdani against ‘corrupt’ Albany",
@@ -456,18 +600,6 @@
     "pubdate": "2026-01-01-15-18-00 +0000"
   },
   {
-    "headline": "One dead in New Hampshire apartment fire that forced residents to jump from balconies",
-    "link": "https://nypost.com/2026/01/01/us-news/1-dead-in-new-hampshire-fire-that-forced-residents-to-jump-from-balconies/",
-    "source": "nypost",
-    "pubdate": "2026-01-01-15-17-26 +0000"
-  },
-  {
-    "headline": "Trump finally explains mysterious bruising — and says he’s sick of speculation over ‘perfect’ health",
-    "link": "https://nypost.com/2026/01/01/us-news/trump-blames-aspirin-for-the-bruises-on-his-hands/",
-    "source": "nypost",
-    "pubdate": "2026-01-01-15-13-21 +0000"
-  },
-  {
     "headline": "Trump finally explains mysterious bruising — and says he’s sick of speculation over ‘perfect’ health",
     "link": "https://nypost.com/2026/01/01/us-news/trump-blames-aspirin-for-the-bruises-on-his-hands/",
     "source": "nypost",
@@ -510,22 +642,10 @@
     "pubdate": "2026-01-01-14-24-02 +0000"
   },
   {
-    "headline": "DHS chief Kristi Noem rocks out to ‘Ice Ice Baby’ at Mar-a-Lago New Year’s Eve party",
-    "link": "https://nypost.com/2026/01/01/us-news/dhs-chief-kristi-noem-rocks-out-to-ice-ice-baby-at-mar-a-lago-new-years-eve-party/",
-    "source": "nypost",
-    "pubdate": "2026-01-01-14-24-02 +0000"
-  },
-  {
     "headline": "Pope Leo XIV opens 2026 with plea for peace amid ongoing wars",
     "link": "https://nypost.com/2026/01/01/world-news/pope-leo-xiv-opens-2026-with-plea-for-peace-in-amid-ongoing-wars/",
     "source": "nypost",
     "pubdate": "2026-01-01-14-04-40 +0000"
-  },
-  {
-    "headline": "Neal: Let’s forget about 2025. Here’s who I’m watching in Minnesota sports in 2026.",
-    "link": "https://www.startribune.com/minnesota-sports-year-in-preview-jessie-diggins-frost-vikings/601553020",
-    "source": "startribune",
-    "pubdate": "2026-01-01-14-03-36 +0000"
   },
   {
     "headline": "Where (and how) Minnesotans are traveling in 2026",
@@ -538,12 +658,6 @@
     "link": "https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-01-13-58-18 +0000"
-  },
-  {
-    "headline": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
-    "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-01-13-57-12 +0000"
   },
   {
     "headline": "Horrific video shows the moment deadly New Year’s Swiss ski resort fire started — as likely cause is revealed",
@@ -600,6 +714,12 @@
     "pubdate": "2026-01-01-13-00-00 +0000"
   },
   {
+    "headline": "There are 364 more days to do stuff this year. Today, we stay in.",
+    "link": "https://www.startribune.com/dear-miss-bird-the-correspondent-platonic-the-materialists-aglio-e-olio/601555352",
+    "source": "startribune",
+    "pubdate": "2026-01-01-13-00-00 +0000"
+  },
+  {
     "headline": "Trump Rolls Back Tariffs on Furniture and Kitchen Cabinets",
     "link": "https://www.wsj.com/economy/trade/trump-rolls-back-tariffs-on-furniture-and-kitchen-cabinets-a1beddd5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -630,12 +750,6 @@
     "pubdate": "2026-01-01-12-21-39 +0000"
   },
   {
-    "headline": "Expect even more homebuying assistance competition after fed rule",
-    "link": "https://www.startribune.com/homebuying-down-payment-closing-cost-assistance-program-new-federal-rule-more-competitive-fund/601539431",
-    "source": "startribune",
-    "pubdate": "2026-01-01-12-01-00 +0000"
-  },
-  {
     "headline": "Oyster, crab, lobster thieves strike back-to-back in New England",
     "link": "https://www.washingtonpost.com/nation/2026/01/01/seafood-cargo-theft-lobster-crab/",
     "source": "wapo",
@@ -646,18 +760,6 @@
     "link": "https://www.startribune.com/evan-kail-once-ridiculed-now-china-celebrity/601471418",
     "source": "startribune",
     "pubdate": "2026-01-01-12-00-01 +0000"
-  },
-  {
-    "headline": "2025’s best-performing Minnesota public company stock is a biopharmaceutical firm with no revenue",
-    "link": "https://www.startribune.com/minnesota-best-performing-stocks-2025-celcuity-tactile-medical-ch-robinson-nvent-api-group/601551481",
-    "source": "startribune",
-    "pubdate": "2026-01-01-12-00-00 +0000"
-  },
-  {
-    "headline": "These events are reinventing the singles mixer for younger daters",
-    "link": "https://www.startribune.com/these-events-are-reinventing-the-singles-mixer-for-younger-daters/601536954",
-    "source": "startribune",
-    "pubdate": "2026-01-01-12-00-00 +0000"
   },
   {
     "headline": "Hasbro’s Secret Weapon for Training Its Next Leaders: A Board Game",
@@ -726,20 +828,14 @@
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
-    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
-    "source": "latimes",
-    "pubdate": "2026-01-01-11-00-00 +0000"
-  },
-  {
     "headline": "Hiltzik: Trump's proposed battleship is a budget-busting folly that will probably never sail",
     "link": "https://www.latimes.com/business/story/2026-01-01/trumps-battleship-a-budget-busting-folly-that-will-probably-never-sail",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "Immigration raids linked to significant California job losses, analysis finds",
-    "link": "https://www.latimes.com/california/story/2026-01-01/immigration-raids-california-job-losses-analysis",
+    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
+    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
@@ -750,14 +846,20 @@
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "The Supreme Court broadly expanded Trump's power in 2025, with key exceptions",
-    "link": "https://www.latimes.com/politics/story/2026-01-01/supreme-court-trump-power",
+    "headline": "Immigration raids linked to significant California job losses, analysis finds",
+    "link": "https://www.latimes.com/california/story/2026-01-01/immigration-raids-california-job-losses-analysis",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
     "headline": "Calmes: Trump's motto in 2025? 'Me, myself and I'",
     "link": "https://www.latimes.com/opinion/story/2026-01-01/trump-2025-campaign-promises",
+    "source": "latimes",
+    "pubdate": "2026-01-01-11-00-00 +0000"
+  },
+  {
+    "headline": "The Supreme Court broadly expanded Trump's power in 2025, with key exceptions",
+    "link": "https://www.latimes.com/politics/story/2026-01-01/supreme-court-trump-power",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
@@ -918,7 +1020,7 @@
     "pubdate": "2026-01-01-09-00-00 +0000"
   },
   {
-    "headline": "137th Rose Parade kicks off in Pasadena. It's the first rainy parade in two decades",
+    "headline": "Despite cold and rain, thousands flock to 137th Rose Parade in Pasadena",
     "link": "https://www.latimes.com/california/story/2026-01-01/la-me-rose-parade-new-year-pasadena",
     "source": "latimes",
     "pubdate": "2026-01-01-09-00-00 +0000"
@@ -928,18 +1030,6 @@
     "link": "https://www.cbc.ca/news/politics/2026-tax-measures-changes-new-9.7022831?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-01-09-00-00 +0000"
-  },
-  {
-    "headline": "Another New Year at War: Ukraine’s Troops Doubt It Will Be the Last",
-    "link": "https://www.nytimes.com/2026/01/01/world/europe/ukraine-russia-new-years-day-donetsk.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-08-43-22 +0000"
-  },
-  {
-    "headline": "Another New Year at War: Ukraine’s Troops Doubt It Will Be the Last",
-    "link": "https://www.nytimes.com/2026/01/01/world/europe/ukraine-russia-new-years-day-donetsk.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-08-43-22 +0000"
   },
   {
     "headline": "In plan for Ukraine, Trump faces fundamental differences with Russia",
@@ -1524,12 +1614,6 @@
     "pubdate": "2025-12-31-22-34-13 +0000"
   },
   {
-    "headline": "Spanish Woman Scorned, Then Loved, for Botched Fresco Restoration Dies at 94",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/spain-jesus-fresco-restoration-painter-gimenez-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-31-22-34-13 +0000"
-  },
-  {
     "headline": "U.S. Stocks Fall for a Fourth Straight Session, Limping to End of Another Banner Year",
     "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-for-a-fourth-straight-session-limping-to-end-of-another-banner-year-f4acefaa?mod=rss_markets_main",
     "source": "wsj",
@@ -1773,7 +1857,7 @@
     "headline": "Mohammad Bakri, 72, Outspoken Palestinian Actor and Director, Dies",
     "link": "https://www.nytimes.com/2025/12/31/movies/mohammad-bakri-dead.html",
     "source": "nyt",
-    "pubdate": "2025-12-31-19-44-18 +0000"
+    "pubdate": "2025-12-31-19-44-19 +0000"
   },
   {
     "headline": "Jobs, economy top voters' priorities at the end of a turbulent 2025: Nanos poll",
@@ -1924,12 +2008,6 @@
     "link": "https://www.wsj.com/opinion/my-murky-crystal-ball-into-2026-1e4aa3b3",
     "source": "wsj",
     "pubdate": "2025-12-31-17-28-00 +0000"
-  },
-  {
-    "headline": "Opinion | Private Airports Could Beat Snow Delays",
-    "link": "https://www.wsj.com/opinion/private-airports-could-beat-snow-delays-2faf7dc7?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2025-12-31-17-26-00 +0000"
   },
   {
     "headline": "Israel to bar 37 aid groups as UK and EU warn of severe impact in Gaza",
@@ -2568,12 +2646,6 @@
     "pubdate": "2025-12-31-05-00-00 +0000"
   },
   {
-    "headline": "Marine robotics company launches mission to find Malaysia Airlines Flight 370 — and can earn a hefty sum if successful",
-    "link": "https://nypost.com/2025/12/30/world-news/texas-based-marine-robotics-company-launches-55-day-mission-to-find-malaysia-airlines-flight-wreckage/",
-    "source": "nypost",
-    "pubdate": "2025-12-31-04-49-11 +0000"
-  },
-  {
     "headline": "Overlooked Stories",
     "link": "https://www.nytimes.com/2025/12/30/world/overlooked-stories-iran-protests-venezuela.html",
     "source": "nyt",
@@ -2614,18 +2686,6 @@
     "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html",
     "source": "nyt",
     "pubdate": "2025-12-31-03-44-14 +0000"
-  },
-  {
-    "headline": "Crew Paints Russian Flag on Oil Tanker Pursued by the U.S. Coast Guard",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html",
-    "source": "nyt",
-    "pubdate": "2025-12-31-03-44-14 +0000"
-  },
-  {
-    "headline": "Trains crash en route to Peru’s famed Machu Picchu, killing 1 and injuring 30",
-    "link": "https://nypost.com/2025/12/30/world-news/train-crash-headed-towards-perus-famed-machu-picchu-kills-1-injures-over-30/",
-    "source": "nypost",
-    "pubdate": "2025-12-31-03-43-24 +0000"
   },
   {
     "headline": "Trump says US hit 'big facility' linked to alleged Venezuelan drug boats",
@@ -2904,22 +2964,10 @@
     "pubdate": "2025-12-30-22-40-00 +0000"
   },
   {
-    "headline": "Judge Rules That Trump Administration Must Continue to Fund CFPB",
-    "link": "https://www.nytimes.com/2025/12/30/business/consumer-financial-protection-bureau-funding-trump-vought.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-22-31-36 +0000"
-  },
-  {
     "headline": "The WSJ Dollar Index Rises 0.12% to 95.83",
     "link": "https://www.wsj.com/finance/stocks/dollar-trades-steady-ahead-of-fed-minutes-8e03dd3d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2025-12-30-22-23-00 +0000"
-  },
-  {
-    "headline": "Opinion | How to Read the Ukraine Talks",
-    "link": "https://www.wsj.com/opinion/how-to-read-the-ukraine-talks-67e83601",
-    "source": "wsj",
-    "pubdate": "2025-12-30-22-21-00 +0000"
   },
   {
     "headline": "6 Takeaways on the Unwinding U.S.-Ukraine Alliance",
@@ -2950,18 +2998,6 @@
     "link": "https://www.bbc.com/news/articles/cwyw542283yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-30-22-13-58 +0000"
-  },
-  {
-    "headline": "Most Fed officials see more rate cuts ahead as long as inflation cools, minutes reveal",
-    "link": "https://nypost.com/2025/12/30/business/most-fed-officials-see-more-rate-cuts-ahead-as-long-as-inflation-cools-minutes-reveal/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-22-13-33 +0000"
-  },
-  {
-    "headline": "JCPenney store deal turns ugly as buyer accuses seller of sabotaging $947M sale",
-    "link": "https://nypost.com/2025/12/30/business/jcpenney-store-deal-turns-ugly-as-buyer-accuses-seller-of-sabotaging-947m-sale/",
-    "source": "nypost",
-    "pubdate": "2025-12-30-22-10-05 +0000"
   },
   {
     "headline": "Screen Grabs: Our favorite films of 2025",
@@ -3144,18 +3180,6 @@
     "pubdate": "2025-12-30-19-00-00 +0000"
   },
   {
-    "headline": "Tatiana Schlossberg, journalist and granddaughter of JFK, dies at 35",
-    "link": "https://www.washingtonpost.com/obituaries/2025/12/30/tatiana-schlossberg-dead/",
-    "source": "wapo",
-    "pubdate": "2025-12-30-18-59-11 +0000"
-  },
-  {
-    "headline": "Tatiana Schlossberg, journalist and granddaughter of JFK, dies at 35",
-    "link": "https://www.washingtonpost.com/obituaries/2025/12/30/tatiana-schlossberg-dead/",
-    "source": "wapo",
-    "pubdate": "2025-12-30-18-59-11 +0000"
-  },
-  {
     "headline": "Gulf Rivals Saudi Arabia, U.A.E. Come to Blows in Yemen",
     "link": "https://www.wsj.com/world/middle-east/saudi-ultimatum-deepens-its-rift-with-gulf-rival-u-a-e-0a89a0cb",
     "source": "wsj",
@@ -3280,12 +3304,6 @@
     "link": "https://www.bbc.com/news/articles/c3dm9944glpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-30-16-12-05 +0000"
-  },
-  {
-    "headline": "Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies",
-    "link": "https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-15-58-55 +0000"
   },
   {
     "headline": "Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies",
@@ -3600,12 +3618,6 @@
     "pubdate": "2025-12-30-05-00-11 +0000"
   },
   {
-    "headline": "Yonaguni, the Japanese Island on the Front Lines of China’s Feud with Japan",
-    "link": "https://www.nytimes.com/2025/12/30/world/asia/japan-china-island-yonaguni.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-05-00-11 +0000"
-  },
-  {
     "headline": "C.I.A. Conducted Drone Strike on Port in Venezuela",
     "link": "https://www.nytimes.com/2025/12/29/us/politics/cia-drone-strike-venezuela.html",
     "source": "nyt",
@@ -3622,12 +3634,6 @@
     "link": "https://www.bbc.com/news/articles/c4g5ry7749po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-30-04-04-25 +0000"
-  },
-  {
-    "headline": "Trump and Netanyahu Praise Each Other After Meeting, Despite Differences Over Gaza",
-    "link": "https://www.nytimes.com/2025/12/29/us/politics/trump-netanyahu-israel-meeting.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-03-54-21 +0000"
   },
   {
     "headline": "Trump and Netanyahu Praise Each Other After Meeting, Despite Differences Over Gaza",
@@ -4296,12 +4302,6 @@
     "pubdate": "2025-12-29-02-07-00 +0000"
   },
   {
-    "headline": "Families, Neighbors Informed on Each Other in Assad’s Syria, With Deadly Consequences",
-    "link": "https://www.wsj.com/world/middle-east/assad-syria-informants-family-neighbors-c7658c8b",
-    "source": "wsj",
-    "pubdate": "2025-12-29-02-00-00 +0000"
-  },
-  {
     "headline": "Justice Department Using Fraud Law to Target Companies on DEI",
     "link": "https://www.wsj.com/politics/policy/trump-doj-dei-fraud-investigations-93213d52",
     "source": "wsj",
@@ -4938,12 +4938,6 @@
     "pubdate": "2025-12-27-11-00-00 +0000"
   },
   {
-    "headline": "Lawsuit accuses deputies at L.A. women's jail of sexual abuse, watching inmates shower",
-    "link": "https://www.latimes.com/california/story/2025-12-27/la-county-womens-jail-sexual-abuse-lawsuit",
-    "source": "latimes",
-    "pubdate": "2025-12-27-11-00-00 +0000"
-  },
-  {
     "headline": "Chabria: Is empathy saving America — or tearing it apart?",
     "link": "https://www.latimes.com/california/story/2025-12-27/chabria-column-empathy",
     "source": "latimes",
@@ -4952,6 +4946,12 @@
   {
     "headline": "How the CHP is drawing a flood of new recruits when the LAPD, other agencies struggle to hire",
     "link": "https://www.latimes.com/california/story/2025-12-27/why-chp-beats-lapd-recruiting-officers",
+    "source": "latimes",
+    "pubdate": "2025-12-27-11-00-00 +0000"
+  },
+  {
+    "headline": "Lawsuit accuses deputies at L.A. women's jail of sexual abuse, watching inmates shower",
+    "link": "https://www.latimes.com/california/story/2025-12-27/la-county-womens-jail-sexual-abuse-lawsuit",
     "source": "latimes",
     "pubdate": "2025-12-27-11-00-00 +0000"
   },
@@ -5434,23 +5434,5 @@
     "link": "https://www.wsj.com/economy/central-banking/japan-closer-to-achieving-2-inflation-target-boj-governor-says-b1866ab4",
     "source": "wsj",
     "pubdate": "2025-12-25-23-37-00 +0000"
-  },
-  {
-    "headline": "Heavy rains led to 'nightmare before Christmas' with flooding, mudslides as risks persist",
-    "link": "https://www.latimes.com/california/story/2025-12-25/la-got-break-from-rains-during-christmas-day-but-flooding-risks-remain",
-    "source": "latimes",
-    "pubdate": "2025-12-25-20-51-51 +0000"
-  },
-  {
-    "headline": "Mission District miracle: S.F. nonprofit buys building, and its tenants breathe a little easier",
-    "link": "https://missionlocal.org/2025/12/sf-mission-community-land-trust-16th-street/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-25-20-00-00 +0000"
-  },
-  {
-    "headline": "Coast Guard Tracks Down Runaway Oil Tanker Linked to Iran and Venezuela",
-    "link": "https://www.wsj.com/world/middle-east/coast-guard-tracks-down-a-runaway-oil-tanker-linked-to-iran-and-venezuela-32f7660c",
-    "source": "wsj",
-    "pubdate": "2025-12-25-19-54-00 +0000"
   }
 ]
