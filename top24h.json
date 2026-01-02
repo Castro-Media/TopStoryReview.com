@@ -1,20 +1,27 @@
 [
   {
-    "score": 179,
+    "score": 165,
     "pubdate": "2026-01-01-22-55-18 +0000",
     "source": "wapo",
     "headline": "About 40 killed, 115 injured in New Year’s bar fire at Swiss ski resort",
     "link": "https://www.washingtonpost.com/world/2026/01/01/switzerland-bar-fire-crans-montana/"
   },
   {
-    "score": 81,
-    "pubdate": "2026-01-02-08-56-35 +0000",
-    "source": "nypost",
-    "headline": "Trump vows US ‘locked and loaded’ to help Iran protesters if Islamic regime ‘violently kills’ them",
-    "link": "https://nypost.com/2026/01/02/world-news/trump-says-us-will-intervene-if-iran-violently-suppresses-peaceful-protests/"
+    "score": 76,
+    "pubdate": "2026-01-02-15-05-00 +0000",
+    "source": "bbc",
+    "headline": "Trump warns US will intervene if Iran kills protesters",
+    "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 51,
+    "score": 53,
+    "pubdate": "2026-01-02-15-03-38 +0000",
+    "source": "bbc",
+    "headline": "China's BYD overtakes Tesla as world's top EV seller",
+    "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 48,
     "pubdate": "2026-01-02-13-38-55 +0000",
     "source": "nypost",
     "headline": "Maduro says Venezuela ‘ready’ to talk drug trafficking with US after CIA strikes",
@@ -28,42 +35,35 @@
     "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html"
   },
   {
-    "score": 46,
-    "pubdate": "2026-01-02-03-28-07 +0000",
-    "source": "bbc",
-    "headline": "China's BYD set to overtake Tesla as world's top EV seller",
-    "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss"
+    "score": 41,
+    "pubdate": "2026-01-02-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Threat of California Billionaire Tax Draws Criticism From Ultrawealthy",
+    "link": "https://www.wsj.com/us-news/law/bill-ackman-billionaire-wealth-tax-66fd6130?mod=rss_markets_main"
   },
   {
-    "score": 41,
+    "score": 40,
     "pubdate": "2026-01-01-20-11-45 +0000",
     "source": "bbc",
     "headline": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
     "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 39,
-    "pubdate": "2026-01-02-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Threat of California Billionaire Tax Draws Criticism From Ultrawealthy",
-    "link": "https://www.wsj.com/us-news/law/bill-ackman-billionaire-wealth-tax-66fd6130?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 38,
-    "pubdate": "2026-01-02-10-00-21 +0000",
-    "source": "nyt",
-    "headline": "Brenna Henn Wanted to Improve Genetic Medicine. Then Her N.I.H. Grant Was Cut.",
-    "link": "https://www.nytimes.com/2026/01/02/science/trump-lostscience-genetics-henn.html"
-  },
-  {
-    "score": 34,
     "pubdate": "2026-01-01-19-41-07 +0000",
     "source": "nypost",
     "headline": "Swiss nightclub where 47 people died advertised flaming champagne bottles in eerie promo video before deadly blaze",
     "link": "https://nypost.com/2026/01/01/world-news/swiss-nightclub-where-47-people-died-advertised-flaming-champaign-bottles-in-eerie-promo-video-before-deadly-blaze/"
   },
   {
-    "score": 34,
+    "score": 37,
+    "pubdate": "2026-01-02-10-00-21 +0000",
+    "source": "nyt",
+    "headline": "Brenna Henn Wanted to Improve Genetic Medicine. Then Her N.I.H. Grant Was Cut.",
+    "link": "https://www.nytimes.com/2026/01/02/science/trump-lostscience-genetics-henn.html"
+  },
+  {
+    "score": 33,
     "pubdate": "2026-01-02-02-15-28 +0000",
     "source": "bbc",
     "headline": "'You're invisible, you don't exist' - life without a birth certificate",
