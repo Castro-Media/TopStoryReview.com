@@ -8,10 +8,10 @@
   },
   {
     "score": 179,
-    "pubdate": "2026-01-02-17-04-32 +0000",
-    "source": "nypost",
-    "headline": "Revelers at Swiss Alpine bar describe horror and panic when a fire broke out, leaving about 40 dead",
-    "link": "https://nypost.com/2026/01/02/world-news/swiss-investigators-believe-sparkling-flares-atop-wine-bottles-ignited-fatal-bar-fire/"
+    "pubdate": "2026-01-02-10-15-44 +0000",
+    "source": "nyt",
+    "headline": "Swiss Resort Bar Fire: 17-Year-Old Italian Golfer Is One of the First Identified Victims",
+    "link": "https://www.nytimes.com/2026/01/02/world/europe/swiss-bar-fire-victims-golfer-galeppini.html"
   },
   {
     "score": 118,
@@ -21,13 +21,6 @@
     "link": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html"
   },
   {
-    "score": 115,
-    "pubdate": "2025-12-31-23-07-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. national-security officials say Ukraine didn’t target Vladimir Putin or one of his residences in an alleged drone operation, challenging Moscow’s assertion that Kyiv sought to kill the Russian president",
-    "link": "https://www.wsj.com/politics/national-security/u-s-finds-ukraine-didnt-target-putin-in-drone-strike-615ce4be"
-  },
-  {
     "score": 109,
     "pubdate": "2026-01-02-20-31-14 +0000",
     "source": "nyt",
@@ -35,11 +28,11 @@
     "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
   },
   {
-    "score": 95,
-    "pubdate": "2025-12-31-13-42-25 +0000",
+    "score": 107,
+    "pubdate": "2026-01-01-02-29-38 +0000",
     "source": "nyt",
-    "headline": "He Is Being Sued in the U.S. for Human Rights Abuses. He Could be Deported First.",
-    "link": "https://www.nytimes.com/2025/12/31/world/americas/human-rights-lawsuit-quero-silva.html"
+    "headline": "CI.A. Says Ukraine Did Not Target Putin’s Home in a Drone Strike, Contradicting Russia’s Claims",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/ukraine-putin-home-drone-strike-cia.html"
   },
   {
     "score": 86,
@@ -50,10 +43,24 @@
   },
   {
     "score": 83,
+    "pubdate": "2026-01-01-20-11-45 +0000",
+    "source": "bbc",
+    "headline": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
+    "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 83,
     "pubdate": "2026-01-02-13-38-55 +0000",
     "source": "nypost",
     "headline": "Maduro says Venezuela ‘ready’ to talk drug trafficking with US after CIA strikes",
     "link": "https://nypost.com/2026/01/02/world-news/nicolas-maduro-says-venezuela-ready-to-talk-drug-trafficking-with-us-after-cia-strike/"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-01-02-19-01-02 +0000",
+    "source": "nypost",
+    "headline": "Florida biz owner stunned Trump had time to ‘personally’ pick out white and pink marble for sprawling White House ballroom",
+    "link": "https://nypost.com/2026/01/02/us-news/trump-goes-shopping-in-florida-for-marble-and-onyx-for-white-house-ballroom/"
   },
   {
     "score": 76,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Trump vows US ‘locked and loaded’ to help Iran protesters if Islamic regime ‘violently kills’ them",
     "link": "https://nypost.com/2026/01/02/world-news/trump-says-us-will-intervene-if-iran-violently-suppresses-peaceful-protests/"
-  },
-  {
-    "score": 75,
-    "pubdate": "2025-12-30-23-05-25 +0000",
-    "source": "cbc",
-    "headline": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day",
-    "link": "https://www.cbc.ca/radio/asithappens/gaza-aid-groups-suspended-9.7030581?cmp=rss"
   }
 ]
