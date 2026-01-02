@@ -1,17 +1,10 @@
 [
   {
-    "score": 190,
+    "score": 189,
     "pubdate": "2026-01-01-22-55-18 +0000",
     "source": "wapo",
     "headline": "About 40 killed, 115 injured in New Year’s bar fire at Swiss ski resort",
     "link": "https://www.washingtonpost.com/world/2026/01/01/switzerland-bar-fire-crans-montana/"
-  },
-  {
-    "score": 72,
-    "pubdate": "2026-01-02-17-22-17 +0000",
-    "source": "bbc",
-    "headline": "Trump warns US will intervene if Iran kills protesters",
-    "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 70,
@@ -19,6 +12,13 @@
     "source": "nyt",
     "headline": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
     "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
+  },
+  {
+    "score": 68,
+    "pubdate": "2026-01-02-17-22-17 +0000",
+    "source": "bbc",
+    "headline": "Trump warns US will intervene if Iran kills protesters",
+    "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 55,
@@ -49,7 +49,7 @@
     "link": "https://nypost.com/2026/01/02/us-news/tommy-lee-jones-once-said-he-fired-his-daughter-victoria-jones-at-14/"
   },
   {
-    "score": 42,
+    "score": 39,
     "pubdate": "2026-01-02-11-13-20 +0000",
     "source": "cbc",
     "headline": "Sparkling flares in champagne bottles coming too close to ceiling ignited deadly bar fire, officials believe",
