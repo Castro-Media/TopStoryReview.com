@@ -1,44 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-01-02-00-31-50 +0000",
+    "score": 35,
+    "pubdate": "2026-01-02-02-03-10 +0000",
+    "source": "nyt",
+    "headline": "Even as Trump Targets Boats in Strikes, Coast Guard Continues Anti-Drug Operations",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/trump-boat-strikes-coast-guard-drug-operations.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-01-02-01-37-09 +0000",
     "source": "nypost",
-    "headline": "Terrifying video, cockpit audio captures moment United flight slips off runway: ‘Oh my god!’",
-    "link": "https://nypost.com/2026/01/01/us-news/terrifying-video-captures-moment-united-flight-slips-off-runway/"
+    "headline": "Musk signals GOP support in 2026 – months after Trump feud, pledge to start new political party",
+    "link": "https://nypost.com/2026/01/01/us-news/musk-signals-hell-back-republicans-in-2026-months-after-feud-with-trump-and-pledging-to-start-new-political-party/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-01-02-01-53-55 +0000",
+    "source": "nypost",
+    "headline": "Wisconsin horseback tour operator allegedly killed by ex-boyfriend in brutal assault on Caribbean island",
+    "link": "https://nypost.com/2026/01/01/us-news/wisconsin-horseback-tour-operator-allegedly-killed-by-ex-boyfriend-in-brutal-assault-on-caribbean-island/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-01-02-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Threat of California Billionaire Tax Draws Criticism From Ultrawealthy",
+    "link": "https://www.wsj.com/us-news/law/bill-ackman-billionaire-wealth-tax-66fd6130"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-02-01-34-44 +0000",
+    "source": "nyt",
+    "headline": "Fire in Swiss Alps Leaves Dozens of New Year’s Revelers Dead",
+    "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-crans-montana-ski-resort.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-02-02-15-34 +0000",
+    "source": "bbc",
+    "headline": "China's BYD set to overtake Tesla as world's top EV seller",
+    "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-02-02-08-41 +0000",
+    "source": "bbc",
+    "headline": "Deadly clashes between protesters and security forces as Iran unrest grows",
+    "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 14,
-    "pubdate": "2026-01-02-00-48-00 +0000",
+    "pubdate": "2026-01-02-02-27-59 +0000",
+    "source": "nyt",
+    "headline": "Search Is Suspended for Passenger Who Went Overboard From Cruise Ship",
+    "link": "https://www.nytimes.com/2026/01/01/world/americas/passenger-overboard-holland-america-cruise.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-02-02-00-00 +0000",
     "source": "wsj",
-    "headline": "The president veered between business and pleasure at his seaside resort, culminating in a black-tie New Year’s Eve party",
-    "link": "https://www.wsj.com/politics/policy/golf-peace-negotiations-and-parties-fill-trumps-mar-a-lago-holiday-1a48ff42"
+    "headline": "Hedge-fund manager Bill Ackman is among the billionaires who have taken issue with a proposal in California to tax the wealthy based on assets",
+    "link": "https://www.wsj.com/us-news/law/bill-ackman-billionaire-wealth-tax-66fd6130"
   },
   {
-    "score": 9,
-    "pubdate": "2026-01-02-01-04-07 +0000",
-    "source": "bbc",
-    "headline": "Why everything from your phone to your PC may get pricier in 2026",
-    "link": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-01-02-00-28-13 +0000",
-    "source": "nypost",
-    "headline": "More Americans look to financial resolutions for 2026 as budget concerns linger",
-    "link": "https://nypost.com/2026/01/01/business/more-americans-look-to-financial-resolutions-for-2026-as-budget-concerns-linger/"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-01-02-01-13-00 +0000",
-    "source": "wsj",
-    "headline": "Singapore’s Economy Records Stronger-Than-Expected Growth in 2025",
-    "link": "https://www.wsj.com/economy/singapores-economy-records-stronger-than-expected-growth-in-2025-9bdaa918"
-  },
-  {
-    "score": 3,
-    "pubdate": "2026-01-02-00-53-13 +0000",
-    "source": "bbc",
-    "headline": "How the defence sector is battling a skills crisis",
-    "link": "https://www.bbc.com/news/articles/clyd1lpp1lyo?at_medium=RSS&at_campaign=rss"
+    "score": 12,
+    "pubdate": "2026-01-02-02-16-13 +0000",
+    "source": "nyt",
+    "headline": "How Japanese Scallops Became a Pawn in Diplomatic Tensions With China",
+    "link": "https://www.nytimes.com/2026/01/01/business/japan-china-scallops.html"
   }
 ]
