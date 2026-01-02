@@ -21,11 +21,18 @@
     "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html"
   },
   {
-    "score": 37,
-    "pubdate": "2026-01-02-03-28-07 +0000",
+    "score": 43,
+    "pubdate": "2026-01-01-20-11-45 +0000",
     "source": "bbc",
-    "headline": "China's BYD set to overtake Tesla as world's top EV seller",
-    "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss"
+    "headline": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
+    "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-01-02-08-56-35 +0000",
+    "source": "nypost",
+    "headline": "Trump and top Iranian official exchange threats over protests roiling Iran: ‘Locked and loaded’",
+    "link": "https://nypost.com/2026/01/02/world-news/trump-says-us-will-intervene-if-iran-violently-suppresses-peaceful-protests/"
   },
   {
     "score": 35,
@@ -36,37 +43,30 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-01-02-03-17-58 +0000",
-    "source": "nypost",
-    "headline": "Jewish civil rights group demands answers from Mamdani after posts about combating antisemitism scrubbed from NYC mayor’s X account",
-    "link": "https://nypost.com/2026/01/01/us-news/jewish-civil-rights-group-demands-answers-from-mamdani-after-posts-about-antisemitism-scrubbed-from-nyc-mayors-x-account/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-01-01-14-24-02 +0000",
-    "source": "nypost",
-    "headline": "DHS chief Kristi Noem rocks out to ‘Ice Ice Baby’ at Mar-a-Lago New Year’s Eve party",
-    "link": "https://nypost.com/2026/01/01/us-news/dhs-chief-kristi-noem-rocks-out-to-ice-ice-baby-at-mar-a-lago-new-years-eve-party/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-01-02-01-53-55 +0000",
-    "source": "nypost",
-    "headline": "Wisconsin horseback tour operator allegedly killed by ex-boyfriend in brutal assault on Caribbean island",
-    "link": "https://nypost.com/2026/01/01/us-news/wisconsin-horseback-tour-operator-allegedly-killed-by-ex-boyfriend-in-brutal-assault-on-caribbean-island/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-01-01-12-48-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump delayed by a year tariff increases on upholstered furniture, kitchen cabinets and vanities, the latest move to walk back levies in the face of consumer frustration over prices",
-    "link": "https://www.wsj.com/economy/trade/trump-rolls-back-tariffs-on-furniture-and-kitchen-cabinets-a1beddd5"
-  },
-  {
-    "score": 33,
     "pubdate": "2026-01-01-15-47-24 +0000",
     "source": "nyt",
     "headline": "Crans-Montana Bar Fire Victims Transported Across Switzerland for Treatment",
     "link": "https://www.nytimes.com/2026/01/01/world/europe/crans-montana-switzerland-fire-victims-treatment.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-01-02-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Threat of California Billionaire Tax Draws Criticism From Ultrawealthy",
+    "link": "https://www.wsj.com/us-news/law/bill-ackman-billionaire-wealth-tax-66fd6130?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-01-02-10-00-20 +0000",
+    "source": "nyt",
+    "headline": "Brenna Henn Wanted to Improve Genetic Medicine. Then Her N.I.H. Grant Was Cut.",
+    "link": "https://www.nytimes.com/2026/01/02/science/trump-lostscience-genetics-henn.html"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-01-02-01-53-55 +0000",
+    "source": "nypost",
+    "headline": "Wisconsin horseback tour operator allegedly killed by ex-boyfriend in brutal assault on Caribbean island",
+    "link": "https://nypost.com/2026/01/01/us-news/wisconsin-horseback-tour-operator-allegedly-killed-by-ex-boyfriend-in-brutal-assault-on-caribbean-island/"
   }
 ]
