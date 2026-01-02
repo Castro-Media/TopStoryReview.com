@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 46,
+    "pubdate": "2026-01-02-18-05-22 +0000",
+    "source": "nyt",
+    "headline": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
+    "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-01-02-18-35-00 +0000",
+    "source": "wsj",
+    "headline": "The FBI foiled an 18-year-old Burger King worker’s plan to attack a grocery store in a suburb outside Charlotte on New Year’s Eve, the agency said",
+    "link": "https://www.wsj.com/politics/national-security/charlotte-north-carolina-terror-plot-charges-9af062e0"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-01-02-18-27-19 +0000",
+    "source": "bbc",
+    "headline": "Zelensky names spy chief to head presidential office",
+    "link": "https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-02-18-20-47 +0000",
+    "source": "bbc",
+    "headline": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
+    "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-02-18-28-00 +0000",
+    "source": "wsj",
+    "headline": "Tesla Falls Behind China’s BYD as Vehicle Sales Drop for Second Year",
+    "link": "https://www.wsj.com/business/autos/tesla-sales-drop-for-second-year-in-a-row-958dec20?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-02-18-16-59 +0000",
+    "source": "nypost",
+    "headline": "Friends of slain Ohio dentist, wife are baffled by mystery — as camera across street may have caught killer",
+    "link": "https://nypost.com/2026/01/02/us-news/friends-of-slain-ohio-dentist-and-wife-baffled-by-mysterious-killing/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-02-18-54-08 +0000",
+    "source": "nyt",
+    "headline": "A Diminished Congress Weighs Whether to Reassert Its Power",
+    "link": "https://www.nytimes.com/2026/01/02/us/politics/trump-congress-power-republicans-democrats.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-02-18-11-50 +0000",
+    "source": "nypost",
+    "headline": "How Kraft Heinz lost its edge in the mac and cheese aisle — and the brand cooking up competition",
+    "link": "https://nypost.com/2026/01/02/business/how-kraft-heinz-lost-its-edge-in-the-mac-and-cheese-aisle/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-02-18-14-38 +0000",
+    "source": "nypost",
+    "headline": "Why buzzy Silicon Valley startups are enforcing no-shoes policies: ‘I hope they invest in air fresheners’",
+    "link": "https://nypost.com/2026/01/02/business/heres-why-offices-are-enforcing-no-shoes-policies-i-hope-they-invest-in-air-fresheners/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-02-18-50-38 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Swiss Authorities Say Sparklers Probably Caused New Year’s Fire",
+    "link": "https://www.nytimes.com/live/2026/01/02/world/switzerland-ski-resort-fire"
+  }
+]
