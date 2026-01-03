@@ -1,13 +1,13 @@
 [
   {
-    "score": 203,
+    "score": 204,
     "pubdate": "2026-01-02-08-05-41 +0000",
     "source": "nypost",
     "headline": "Swiss face painful task of identifying victims of New Year’s bar fire that left 47 people dead",
     "link": "https://nypost.com/2026/01/02/world-news/swiss-face-painful-task-of-identifying-victims-of-new-years-bar-fire-that-left-47-people-dead/"
   },
   {
-    "score": 81,
+    "score": 83,
     "pubdate": "2026-01-02-17-22-17 +0000",
     "source": "bbc",
     "headline": "Trump warns US will intervene if Iran kills protesters",
@@ -28,11 +28,25 @@
     "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
   },
   {
-    "score": 49,
+    "score": 58,
     "pubdate": "2026-01-02-17-39-02 +0000",
     "source": "nypost",
-    "headline": "Zelensky taps popular Ukraine spy chief to run president’s office",
+    "headline": "Zelensky makes major changes to his gov’t — taps popular Ukraine spy chief to run president’s office",
     "link": "https://nypost.com/2026/01/02/world-news/zelensky-taps-popular-ukraine-spy-chief-to-run-presidents-office/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-01-03-00-11-02 +0000",
+    "source": "startribune",
+    "headline": "Analysis: Koi Perich was a feel-good story for Gophers, but he seems likely to head for greener pastures",
+    "link": "https://www.startribune.com/analysis-koi-perich-was-a-feel-good-story-for-gophers-but-he-seems-likely-to-head-for-greener-pastures/601556444"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-01-02-21-21-14 +0000",
+    "source": "nyt",
+    "headline": "Hiker Killed in Suspected Mountain Lion Attack, Colorado’s First in Decades",
+    "link": "https://www.nytimes.com/2026/01/02/us/mountain-lion-attack-hiker-dead-colorado.html"
   },
   {
     "score": 44,
@@ -42,13 +56,6 @@
     "link": "https://www.wsj.com/us-news/law/bill-ackman-billionaire-wealth-tax-66fd6130"
   },
   {
-    "score": 44,
-    "pubdate": "2026-01-02-21-21-14 +0000",
-    "source": "nyt",
-    "headline": "Hiker Killed in Suspected Mountain Lion Attack, Colorado’s First in Decades",
-    "link": "https://www.nytimes.com/2026/01/02/us/mountain-lion-attack-hiker-dead-colorado.html"
-  },
-  {
     "score": 43,
     "pubdate": "2026-01-02-17-12-25 +0000",
     "source": "bbc",
@@ -56,17 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
-    "pubdate": "2026-01-02-19-01-02 +0000",
-    "source": "nypost",
-    "headline": "Florida biz owner stunned Trump had time to ‘personally’ pick out white and pink marble for sprawling White House ballroom",
-    "link": "https://nypost.com/2026/01/02/us-news/trump-goes-shopping-in-florida-for-marble-and-onyx-for-white-house-ballroom/"
-  },
-  {
     "score": 40,
-    "pubdate": "2026-01-02-22-02-21 +0000",
+    "pubdate": "2026-01-02-13-38-55 +0000",
     "source": "nypost",
-    "headline": "Gavin Newsom’s Palisades Fire visit is a political minefield — he better watch his step",
-    "link": "https://nypost.com/2026/01/02/us-news/gavin-newsom-to-visit-los-angeles-on-anniversary-of-2025-wildfires/"
+    "headline": "Maduro says Venezuela ‘ready’ to talk drug trafficking with US after CIA strikes",
+    "link": "https://nypost.com/2026/01/02/world-news/nicolas-maduro-says-venezuela-ready-to-talk-drug-trafficking-with-us-after-cia-strike/"
   }
 ]
