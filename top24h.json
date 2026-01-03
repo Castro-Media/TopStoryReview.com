@@ -1,13 +1,13 @@
 [
   {
-    "score": 146,
+    "score": 138,
     "pubdate": "2026-01-02-19-35-00 +0000",
     "source": "wsj",
     "headline": "After Swiss New Year’s Fire, Parents Race to Find Survivors and Identify the Dead",
     "link": "https://www.wsj.com/world/europe/after-swiss-new-years-fire-parents-race-to-find-survivors-and-identify-the-dead-25c96053"
   },
   {
-    "score": 114,
+    "score": 111,
     "pubdate": "2026-01-03-03-00-00 +0000",
     "source": "wsj",
     "headline": "The massive welfare-fraud scandal in Minnesota dogging Gov. Tim Walz as he seeks re-election is giving Republicans a potent line of attack against a critic of President Trump",
@@ -21,18 +21,25 @@
     "link": "https://nypost.com/2026/01/02/world-news/coast-guard-suspends-search-for-77-year-old-woman-who-went-overboard-from-a-cruise-ship/"
   },
   {
-    "score": 67,
+    "score": 71,
     "pubdate": "2026-01-03-08-52-33 +0000",
     "source": "wapo",
     "headline": "Fuerte Tiuna, Venezuela’s largest military complex, was seen ablaze in Caracas after explosions in the city....",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 64,
+    "score": 66,
     "pubdate": "2026-01-02-19-47-35 +0000",
     "source": "nyt",
     "headline": "China’s BYD Surpasses Tesla as World Leader in Electric Car Sales",
     "link": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-01-03-06-45-38 +0000",
+    "source": "nypost",
+    "headline": "Trump says Venezuelan leader Nicolas Maduro, wife ‘captured’ after large-scale strikes",
+    "link": "https://nypost.com/2026/01/03/world-news/at-least-7-explosions-and-low-flying-aircraft-are-heard-in-venezuelas-caracas/"
   },
   {
     "score": 49,
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2026/01/03/us-news/doj-official-warns-seattle-mayor-katie-wilson-to-leave-journalists-alone-after-she-accused-influencers-of-harassing-somali-child-care-providers/"
   },
   {
-    "score": 43,
-    "pubdate": "2026-01-02-17-39-02 +0000",
-    "source": "nypost",
-    "headline": "Zelensky makes major changes to his gov’t — taps popular Ukraine spy chief to run president’s office",
-    "link": "https://nypost.com/2026/01/02/world-news/zelensky-taps-popular-ukraine-spy-chief-to-run-presidents-office/"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-01-03-06-45-38 +0000",
-    "source": "nypost",
-    "headline": "Trump says Venezuelan leader Nicolas Maduro, wife ‘captured’ after large-scale strikes",
-    "link": "https://nypost.com/2026/01/03/world-news/at-least-7-explosions-and-low-flying-aircraft-are-heard-in-venezuelas-caracas/"
-  },
-  {
-    "score": 41,
+    "score": 42,
     "pubdate": "2026-01-02-20-31-14 +0000",
     "source": "nyt",
     "headline": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
     "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
   },
   {
+    "score": 40,
+    "pubdate": "2026-01-02-17-39-02 +0000",
+    "source": "nypost",
+    "headline": "Zelensky makes major changes to his gov’t — taps popular Ukraine spy chief to run president’s office",
+    "link": "https://nypost.com/2026/01/02/world-news/zelensky-taps-popular-ukraine-spy-chief-to-run-presidents-office/"
+  },
+  {
     "score": 39,
-    "pubdate": "2026-01-02-20-14-03 +0000",
-    "source": "nyt",
-    "headline": "A Rescuer Recounts How He Saved Lives During Swiss Bar Resort Fire",
-    "link": "https://www.nytimes.com/2026/01/02/world/europe/teenager-rescue-burning-bar.html"
+    "pubdate": "2026-01-02-23-59-02 +0000",
+    "source": "nypost",
+    "headline": "Iranian-Americans hope mass protests in Iran spur real change this time: ‘People are getting fed up’",
+    "link": "https://nypost.com/2026/01/02/us-news/iranian-americans-hope-mass-protests-in-iran-spur-real-change/"
   }
 ]
