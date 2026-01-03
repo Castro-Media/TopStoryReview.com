@@ -1,30 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-01-03-13-00-40 +0000",
+    "score": 40,
+    "pubdate": "2026-01-03-14-50-03 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Trump says Maduro captured in ‘large scale strike’ against Venezuela",
+    "link": "https://www.washingtonpost.com/world/2026/01/03/us-venezuela-strikes-trump-maduro/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-03-14-10-13 +0000",
     "source": "nypost",
-    "headline": "Video shows Venezuela’s night sky engulfed in flames after US strikes, capture of dictator Nicolás Maduro",
-    "link": "https://nypost.com/2026/01/03/world-news/video-shows-venezuelas-night-sky-engulfed-in-flames-after-us-strikes-capture-of-dictator-nicolas-maduro/"
+    "headline": "Venezuelan opposition leader, 2025 Nobel Peace Prize winner Maria Corina Machado poised to take the place of Nicolas Maduro",
+    "link": "https://nypost.com/2026/01/03/world-news/venezuelan-opposition-leader-2025-nobel-peace-prize-winner-maria-corina-machado-poised-to-take-the-place-of-nicolas-maduro/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-03-14-44-24 +0000",
+    "source": "nypost",
+    "headline": "Two New England stars busted this week just latest in long line of bad team behavior — ‘The Patriot Way’",
+    "link": "https://nypost.com/2026/01/03/us-news/two-new-england-nflers-busted-this-week-are-latest-in-long-line-of-behavior-fitting-the-patriot-way/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-03-14-29-10 +0000",
+    "source": "nyt",
+    "headline": "In South Florida, Venezuelans Revel in Maduro’s Capture",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-florida-venezuelans-celebrations.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-03-14-16-27 +0000",
+    "source": "nyt",
+    "headline": "Bondi says Maduro and his wife to face a fresh indictment in Manhattan.",
+    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/pam-bondi-maduro-indictment"
   },
   {
     "score": 11,
-    "pubdate": "2026-01-03-13-00-00 +0000",
+    "pubdate": "2026-01-03-14-48-49 +0000",
     "source": "nypost",
-    "headline": "Arnold Schwarzenegger unveils new ‘crash diet’ for the brain for 2026: ‘Negativity is literally killing you’",
-    "link": "https://nypost.com/2026/01/03/us-news/arnold-schwarzeneggers-new-crash-diet-for-the-brain/"
+    "headline": "NJ cops who collected millions in salary while suspended for using the n-word can finally be fired: judge",
+    "link": "https://nypost.com/2026/01/03/us-news/nj-cops-who-collected-millions-in-salary-while-suspended-for-using-the-n-word-can-be-fired-judge-rules/"
   },
   {
-    "score": 6,
-    "pubdate": "2026-01-03-12-57-58 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: U.S. Captures Venezuelan Leader, Trump Says",
-    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela"
+    "score": 11,
+    "pubdate": "2026-01-03-14-05-20 +0000",
+    "source": "wapo",
+    "headline": "Delta Force had ‘pattern of life’ on Maduro before seizure",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 1,
-    "pubdate": "2026-01-03-13-00-05 +0000",
+    "score": 10,
+    "pubdate": "2026-01-03-14-53-38 +0000",
+    "source": "bbc",
+    "headline": "Swiss open criminal case against managers of ski resort bar after deadly fire",
+    "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-03-14-49-50 +0000",
+    "source": "nypost",
+    "headline": "Citibank ordered to pay NYC woman $3.5 million for missing fraudulent withdrawals",
+    "link": "https://nypost.com/2026/01/03/us-news/citibank-slapped-with-sanctions-ordered-to-pay-nyc-3-5-million-for-alleged-fraud/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-03-14-09-56 +0000",
     "source": "nyt",
-    "headline": "8 Big Questions for 2026",
-    "link": "https://www.nytimes.com/2026/01/03/business/dealbook/2026-economy-business.html"
+    "headline": "C.I.A. Source Inside Venezuelan Government Helped Track Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/cia-venezuela-maduro.html"
   }
 ]
