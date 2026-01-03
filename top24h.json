@@ -1,13 +1,13 @@
 [
   {
-    "score": 188,
+    "score": 183,
     "pubdate": "2026-01-02-08-05-41 +0000",
     "source": "nypost",
     "headline": "Swiss face painful task of identifying victims of New Year’s bar fire that left 47 people dead",
     "link": "https://nypost.com/2026/01/02/world-news/swiss-face-painful-task-of-identifying-victims-of-new-years-bar-fire-that-left-47-people-dead/"
   },
   {
-    "score": 102,
+    "score": 104,
     "pubdate": "2026-01-03-03-00-00 +0000",
     "source": "wsj",
     "headline": "The massive welfare-fraud scandal in Minnesota dogging Gov. Tim Walz as he seeks re-election is giving Republicans a potent line of attack against a critic of President Trump",
@@ -21,39 +21,46 @@
     "link": "https://nypost.com/2026/01/02/world-news/coast-guard-suspends-search-for-77-year-old-woman-who-went-overboard-from-a-cruise-ship/"
   },
   {
-    "score": 64,
+    "score": 65,
     "pubdate": "2026-01-02-15-03-38 +0000",
     "source": "bbc",
     "headline": "China's BYD overtakes Tesla as world's top EV seller",
     "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 48,
+    "score": 53,
     "pubdate": "2026-01-02-17-22-17 +0000",
     "source": "bbc",
     "headline": "Trump warns US will intervene if Iran kills protesters",
     "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 48,
+    "score": 49,
     "pubdate": "2026-01-02-17-39-02 +0000",
     "source": "nypost",
     "headline": "Zelensky makes major changes to his gov’t — taps popular Ukraine spy chief to run president’s office",
     "link": "https://nypost.com/2026/01/02/world-news/zelensky-taps-popular-ukraine-spy-chief-to-run-presidents-office/"
   },
   {
-    "score": 43,
-    "pubdate": "2026-01-02-11-48-12 +0000",
-    "source": "cbc",
-    "headline": "Kim Jong-un's daughter visits family mausoleum, promoting her potential status as heir in North Korea",
-    "link": "https://www.cbc.ca/news/world/north-korea-heir-kim-jong-un-9.7032155?cmp=rss"
+    "score": 44,
+    "pubdate": "2026-01-03-05-09-32 +0000",
+    "source": "nypost",
+    "headline": "DOJ official warns Seattle mayor to leave journalists alone after she accused ‘extremist influencers’ of harassing Somali child care providers",
+    "link": "https://nypost.com/2026/01/03/us-news/doj-official-warns-seattle-mayor-katie-wilson-to-leave-journalists-alone-after-she-accused-influencers-of-harassing-somali-child-care-providers/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-01-02-21-21-14 +0000",
+    "score": 41,
+    "pubdate": "2026-01-02-20-31-14 +0000",
     "source": "nyt",
-    "headline": "Hiker Killed in Suspected Mountain Lion Attack, Colorado’s First in Decades",
-    "link": "https://www.nytimes.com/2026/01/02/us/mountain-lion-attack-hiker-dead-colorado.html"
+    "headline": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
+    "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-01-02-17-12-25 +0000",
+    "source": "bbc",
+    "headline": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
+    "link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Maduro says Venezuela ‘ready’ to talk drug trafficking with US after CIA strikes",
     "link": "https://nypost.com/2026/01/02/world-news/nicolas-maduro-says-venezuela-ready-to-talk-drug-trafficking-with-us-after-cia-strike/"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-01-02-19-28-23 +0000",
-    "source": "cbc",
-    "headline": "Elon Musk's Grok AI says images of 'minors in minimal clothing' caused by safeguard lapses",
-    "link": "https://www.cbc.ca/news/world/xai-grok-safeguard-lapses-9.7032346?cmp=rss"
   }
 ]
