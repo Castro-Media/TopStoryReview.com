@@ -1,37 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-01-04-02-37-55 +0000",
-    "source": "bbc",
-    "headline": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
-    "link": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss"
+    "score": 36,
+    "pubdate": "2026-01-04-04-02-23 +0000",
+    "source": "nyt",
+    "headline": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-01-04-02-37-39 +0000",
+    "score": 21,
+    "pubdate": "2026-01-04-04-13-20 +0000",
     "source": "nyt",
     "headline": "Venezuela Live Updates: Maduro Arrives in N.Y.; Trump Says U.S. Will ‘Run’ Venezuela",
     "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela"
   },
   {
-    "score": 8,
-    "pubdate": "2026-01-04-02-37-56 +0000",
-    "source": "nypost",
-    "headline": "Bryan Kohberger’s sister reveals killer’s final moments before arrest",
-    "link": "https://nypost.com/2026/01/03/us-news/bryan-kohbergers-sister-reveals-killers-final-moments-before-arrest/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-01-04-02-36-38 +0000",
-    "source": "nyt",
-    "headline": "Heavy Rain and King Tides Cause Flooding in California",
-    "link": "https://www.nytimes.com/2026/01/03/us/california-flood-mudslide-santa-barbara.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-01-04-02-37-55 +0000",
+    "score": 17,
+    "pubdate": "2026-01-04-03-21-16 +0000",
     "source": "bbc",
     "headline": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
     "link": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-04-03-28-33 +0000",
+    "source": "wapo",
+    "headline": "In New York, law enforcement stood ready outside the Metropolitan Detention Center as they waited for...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-04-03-51-10 +0000",
+    "source": "nyt",
+    "headline": "Trump Super PAC Raised More Than $100 Million in Recent Months",
+    "link": "https://www.nytimes.com/2026/01/02/us/politics/trump-super-pac-maga-inc-fundraising.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-04-03-28-59 +0000",
+    "source": "nypost",
+    "headline": "Paramount Skydance running out of patience for WBD’s refusals of ‘sweetened’ takeover offer",
+    "link": "https://nypost.com/2026/01/03/business/warner-bros-discovery-fuming-heads-as-what-excuse-itll-come-up-with-next-to-reject-paramount-skydance-bid/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-04-04-02-51 +0000",
+    "source": "wapo",
+    "headline": "The United States is set to reverse airspace restrictions in the Caribbean and around Venezuela at...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-04-03-28-50 +0000",
+    "source": "missionlocal",
+    "headline": "‘Latin America isn’t yours’: S.F. protesters condemn Trump bombing of Venezuela, capture of Maduro",
+    "link": "https://missionlocal.org/2026/01/sf-venezuela-protest-trump-maduro/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-01-04-04-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Hardest Reservation in China Is a Factory Tour",
+    "link": "https://www.wsj.com/lifestyle/travel/the-hardest-reservation-in-china-is-a-factory-tour-3df0d4cc?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-01-04-03-39-29 +0000",
+    "source": "nyt",
+    "headline": "Venezuelan Asylum Seekers Worry About What Comes Next",
+    "link": "https://www.nytimes.com/2026/01/03/us/venezuela-asylum-seekers.html"
   }
 ]
