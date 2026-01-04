@@ -1,63 +1,579 @@
 [
   {
-    "headline": "Venezuela Live Updates: Trump Says U.S. Will ‘Run the Country’ After Capture of Maduro",
+    "headline": "Venezuela Live Updates: Maduro Arrives in N.Y.; Trump Says U.S. Will ‘Run’ Venezuela",
     "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-52-37 +0000"
+    "pubdate": "2026-01-03-23-43-05 +0000"
+  },
+  {
+    "headline": "Spies, drones and blowtorches: How the US captured Maduro",
+    "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-23-42-43 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-52-35 +0000"
+    "pubdate": "2026-01-03-23-41-09 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-52-35 +0000"
+    "pubdate": "2026-01-03-23-41-09 +0000"
   },
   {
-    "headline": "Delcy Rodríguez, Venezuela’s new leader, boasts leftist credentials",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-venezuela-politics.html",
+    "headline": "The Year in Neanderthal Discoveries",
+    "link": "https://www.nytimes.com/2026/01/03/science/archaeology-neanderthals-genetics.html",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-52-04 +0000"
+    "pubdate": "2026-01-03-23-40-13 +0000"
   },
   {
-    "headline": "Delcy Rodríguez, Venezuela’s new leader, boasts leftist credentials",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-venezuela-politics.html",
+    "headline": "A Pardon and a Prosecution in New York Show Trump’s Personal Geopolitics",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/trump-maduro-juan-orlando-hernandez.html",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-52-04 +0000"
+    "pubdate": "2026-01-03-23-36-08 +0000"
   },
   {
-    "headline": "Trump administration declines to back Venezuela’s opposition leader.",
-    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/trump-administration-does-an-about-face-on-venezuelas-opposition-leader",
+    "headline": "A Pardon and a Prosecution in New York Show Trump’s Personal Geopolitics",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/trump-maduro-juan-orlando-hernandez.html",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-50-51 +0000"
+    "pubdate": "2026-01-03-23-36-08 +0000"
+  },
+  {
+    "headline": "How the military operation to capture Maduro unfolded",
+    "link": "https://www.washingtonpost.com/world/2026/01/03/maduro-capture-venezuela-visuals/",
+    "source": "wapo",
+    "pubdate": "2026-01-03-23-34-30 +0000"
+  },
+  {
+    "headline": "How Manhattan Federal Court Would Handle the Trial of a President",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-trial-nyc-sdny.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-32-00 +0000"
+  },
+  {
+    "headline": "How Manhattan Federal Court Would Handle the Trial of a President",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-trial-nyc-sdny.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-32-00 +0000"
+  },
+  {
+    "headline": "Live updates: Maduro and his wife arrive in New York hours after U.S. capture in Venezuela",
+    "link": "https://www.washingtonpost.com/world/2026/01/03/us-venezuela-strikes-trump-maduro/",
+    "source": "wapo",
+    "pubdate": "2026-01-03-23-31-46 +0000"
+  },
+  {
+    "headline": "Venezuelans in D.C. react to U.S. operation",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-03-23-31-46 +0000"
+  },
+  {
+    "headline": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-31-00 +0000"
+  },
+  {
+    "headline": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-31-00 +0000"
+  },
+  {
+    "headline": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-31-00 +0000"
+  },
+  {
+    "headline": "Trump Long Wanted to ‘Take the Oil.’ He Says He’ll Do It in Venezuela.",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-30-44 +0000"
+  },
+  {
+    "headline": "Trump Long Wanted to ‘Take the Oil.’ He Says He’ll Do It in Venezuela.",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-30-44 +0000"
+  },
+  {
+    "headline": "Trump Long Wanted to ‘Take the Oil.’ He Says He’ll Do It in Venezuela.",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-30-44 +0000"
+  },
+  {
+    "headline": "Trump Long Wanted to ‘Take the Oil.’ He Says He’ll Do It in Venezuela.",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-30-44 +0000"
+  },
+  {
+    "headline": "Elite Chicago middle school embroiled in Nazi-music controversy for second time",
+    "link": "https://nypost.com/2026/01/03/us-news/elite-chicago-middle-school-embroiled-in-nazi-music-controversy-for-second-time/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-23-30-34 +0000"
+  },
+  {
+    "headline": "On the ground in Venezuela: Shock, fear and defiance",
+    "link": "https://www.latimes.com/world-nation/story/2026-01-03/on-ground-in-venezuela-shock-fear-defiance",
+    "source": "latimes",
+    "pubdate": "2026-01-03-23-28-35 +0000"
+  },
+  {
+    "headline": "'I waited for this moment for so long.' Many U.S. Venezuelans praise Maduro capture",
+    "link": "https://www.latimes.com/politics/story/2026-01-03/many-u-s-venezuelans-praise-maduro-capture-but-some-protest-in-los-angeles",
+    "source": "latimes",
+    "pubdate": "2026-01-03-23-23-51 +0000"
+  },
+  {
+    "headline": "'I waited for this moment for so long.' Many U.S. Venezuelans praise Maduro capture",
+    "link": "https://www.latimes.com/politics/story/2026-01-03/many-u-s-venezuelans-praise-maduro-capture-but-some-protest-in-los-angeles",
+    "source": "latimes",
+    "pubdate": "2026-01-03-23-23-51 +0000"
+  },
+  {
+    "headline": "In Toppling Maduro, Trump Risks Blowback from ‘America First’ Base",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/maduro-trump-base-america-first.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-23-18 +0000"
+  },
+  {
+    "headline": "In Toppling Maduro, Trump Risks Blowback from ‘America First’ Base",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/maduro-trump-base-america-first.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-23-18 +0000"
+  },
+  {
+    "headline": "World Leaders React With Shock and Skepticism After U.S. Captures Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-venezuela-reaction-global.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-22-12 +0000"
+  },
+  {
+    "headline": "World Leaders React With Shock and Skepticism After U.S. Captures Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-venezuela-reaction-global.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-22-12 +0000"
+  },
+  {
+    "headline": "US plans to ‘run’ Venezuela and tap its oil reserves, Trump says",
+    "link": "https://www.startribune.com/at-least-7-explosions-and-low-flying-aircraft-are-heard-in-venezuelas-caracas/601556751",
+    "source": "startribune",
+    "pubdate": "2026-01-03-23-22-05 +0000"
+  },
+  {
+    "headline": "Travelers Stranded After Strikes in Venezuela Disrupt Air Traffic",
+    "link": "https://www.wsj.com/business/airlines/u-s-strikes-in-venezuela-disrupt-air-traffic-across-caribbean-6a180bd5",
+    "source": "wsj",
+    "pubdate": "2026-01-03-23-19-00 +0000"
+  },
+  {
+    "headline": "Travelers Stranded After Strikes in Venezuela Disrupt Air Traffic",
+    "link": "https://www.wsj.com/business/airlines/u-s-strikes-in-venezuela-disrupt-air-traffic-across-caribbean-6a180bd5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-03-23-19-00 +0000"
+  },
+  {
+    "headline": "Travelers Stranded After Strikes in Venezuela Disrupt Air Traffic",
+    "link": "https://www.wsj.com/business/airlines/u-s-strikes-in-venezuela-disrupt-air-traffic-across-caribbean-6a180bd5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-03-23-19-00 +0000"
+  },
+  {
+    "headline": "China condemns U.S. strike in Venezuela, hours after diplomat met with Maduro",
+    "link": "https://www.washingtonpost.com/national-security/2026/01/03/venezuela-maduro-china-beijing-oil/",
+    "source": "wapo",
+    "pubdate": "2026-01-03-23-17-41 +0000"
+  },
+  {
+    "headline": "Venezuelans in South Florida Celebrate Maduro’s Capture",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-florida-venezuelans-celebrations.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-15-39 +0000"
+  },
+  {
+    "headline": "Venezuelans in South Florida Celebrate Maduro’s Capture",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-florida-venezuelans-celebrations.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-23-15-39 +0000"
+  },
+  {
+    "headline": "U.S. capture of Maduro may be illegal; that likely won’t help in court",
+    "link": "https://www.washingtonpost.com/national-security/2026/01/03/maduro-indictment-drugs-international-law/",
+    "source": "wapo",
+    "pubdate": "2026-01-03-23-12-57 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s Regime Change in Venezuela",
+    "link": "https://www.wsj.com/opinion/nicolas-maduro-capture-venezuela-donald-trump-regime-change-fa998465",
+    "source": "wsj",
+    "pubdate": "2026-01-03-23-09-00 +0000"
+  },
+  {
+    "headline": "The rise and fall of Venezuela’s ruthless leader Nicolás Maduro: From bus driver to dictator",
+    "link": "https://nypost.com/2026/01/03/us-news/maduro-was-vice-president-when-president-hugo-chavez-died/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-23-08-02 +0000"
+  },
+  {
+    "headline": "Venezuelan VP appears to defy Trump, calls Maduro ‘only president’ in fiery speech",
+    "link": "https://nypost.com/2026/01/03/world-news/venezuelan-vp-appears-to-defy-trump-calls-maduro-only-president-in-fiery-speech/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-23-06-47 +0000"
+  },
+  {
+    "headline": "How UK plush toy Jellycat conquered China",
+    "link": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-23-02-08 +0000"
+  },
+  {
+    "headline": "Federal agents took Venezuelan President Nicolás Maduro and his wife, Cilia Flores, from a plane in...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-03-22-57-27 +0000"
+  },
+  {
+    "headline": "What we know about Maduro's capture and US plan to 'run' Venezuela",
+    "link": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-22-55-09 +0000"
+  },
+  {
+    "headline": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
+    "link": "https://www.nytimes.com/2026/01/03/business/venezuela-oil-industry-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-54-06 +0000"
+  },
+  {
+    "headline": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
+    "link": "https://www.nytimes.com/2026/01/03/business/venezuela-oil-industry-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-54-06 +0000"
+  },
+  {
+    "headline": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
+    "link": "https://www.nytimes.com/2026/01/03/business/venezuela-oil-industry-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-54-06 +0000"
+  },
+  {
+    "headline": "Mamdani schools chancellor pick an ‘idiot’ and ‘ideologue’ to lead nation’s largest education system: source",
+    "link": "https://nypost.com/2026/01/03/us-news/mamdani-schools-chancellor-pick-an-idiot-and-ideologue-source/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-22-50-03 +0000"
+  },
+  {
+    "headline": "Who Is Cilia Flores, Maduro’s Wife, and Why Was She Captured Alongside Him?",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/cilia-flores-maduro-wife-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-48-35 +0000"
+  },
+  {
+    "headline": "Who Is Cilia Flores, Maduro’s Wife, and Why Was She Captured Alongside Him?",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/cilia-flores-maduro-wife-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-48-35 +0000"
+  },
+  {
+    "headline": "Trump Wants to Unlock Venezuela’s Oil Reserves. A Huge Challenge Awaits.",
+    "link": "https://www.wsj.com/business/energy-oil/chevron-charts-a-new-path-in-venezuela-to-unlock-vast-oil-reserves-0369ce1b",
+    "source": "wsj",
+    "pubdate": "2026-01-03-22-47-00 +0000"
+  },
+  {
+    "headline": "Trump Wants to Unlock Venezuela’s Oil Reserves. A Huge Challenge Awaits.",
+    "link": "https://www.wsj.com/business/energy-oil/chevron-charts-a-new-path-in-venezuela-to-unlock-vast-oil-reserves-0369ce1b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-03-22-47-00 +0000"
+  },
+  {
+    "headline": "Somali fraudsters got luxury digs, beachside resort, rented Rolls Royce and Lamborghini with stolen funds",
+    "link": "https://nypost.com/2026/01/03/us-news/somali-fraudsters-got-luxury-digs-beachside-resort-rented-rolls-royce-and-lamborghini-with-stolen-funds/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-22-45-12 +0000"
+  },
+  {
+    "headline": "Trump posts triumphant video mocking Maduro after his early morning capture in Caracas",
+    "link": "https://nypost.com/2026/01/03/us-news/trump-posts-triumphant-video-mocking-maduro-after-his-early-morning-capture-in-caracas/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-22-43-54 +0000"
+  },
+  {
+    "headline": "About 2,000 people marched in New York City to protest U.S. military action in Venezuela, the...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-03-22-42-05 +0000"
+  },
+  {
+    "headline": "Ex-Squad Rep. Bowman says antisemitic podcaster Nick Fuentes ‘finally getting it’",
+    "link": "https://nypost.com/2026/01/03/us-news/ex-squad-rep-bowman-says-antisemitic-podcaster-nick-fuentes-finally-getting-it/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-22-34-59 +0000"
+  },
+  {
+    "headline": "Baby Jesus statue returned to Long Island nativity scene— after top official preaches forgiveness",
+    "link": "https://nypost.com/2026/01/03/us-news/baby-jesus-statue-returned-to-li-nativity-scene-after-county-executive-preaches-forgiveness/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-22-29-20 +0000"
+  },
+  {
+    "headline": "Is It Legal for U.S. to ‘Run’ Venezuela After Maduro’s Capture? Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/01/03/us/maduro-venezuela-trump-legal-issues.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-26-08 +0000"
+  },
+  {
+    "headline": "There Was Probably a Flashover in the Swiss Bar Fire. Here’s What That Means.",
+    "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-resort-bar-fire-flashover.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-22-58 +0000"
+  },
+  {
+    "headline": "There Was Probably a Flashover in the Swiss Bar Fire. Here’s What That Means.",
+    "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-resort-bar-fire-flashover.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-22-58 +0000"
+  },
+  {
+    "headline": "Nicolás Maduro, Cilia Flores land in New York to face trial after capture in Venezuela",
+    "link": "https://nypost.com/2026/01/03/us-news/nicolas-maduro-and-cilia-flores-land-on-us-soil-to-face-trial-after-capture-in-venezuela/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-22-19-02 +0000"
+  },
+  {
+    "headline": "How Democrats Are Hitting Trump Over Nicolás Maduro’s Ouster",
+    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/democrats-trump-venezuela-maduro",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-15-08 +0000"
+  },
+  {
+    "headline": "How Democrats Are Hitting Trump Over Nicolás Maduro’s Ouster",
+    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/democrats-trump-venezuela-maduro",
+    "source": "nyt",
+    "pubdate": "2026-01-03-22-15-08 +0000"
   },
   {
     "headline": "Trump administration declines to back Venezuela’s opposition leader.",
     "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/trump-administration-opposition-leader",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-50-51 +0000"
+    "pubdate": "2026-01-03-22-07-30 +0000"
   },
   {
-    "headline": "Before Nicolás Maduro, There Was Manuel Noriega",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-noriega-panama-venezuela.html",
+    "headline": "Trump administration declines to back Venezuela’s opposition leader.",
+    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/trump-administration-opposition-leader",
     "source": "nyt",
-    "pubdate": "2026-01-03-20-48-04 +0000"
+    "pubdate": "2026-01-03-22-07-30 +0000"
   },
   {
-    "headline": "Before Nicolás Maduro, There Was Manuel Noriega",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-noriega-panama-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-48-04 +0000"
-  },
-  {
-    "headline": "Live updates: Trump says U.S. will run Venezuela, won’t rule out U.S. boots on the ground",
-    "link": "https://www.washingtonpost.com/world/2026/01/03/us-venezuela-strikes-trump-maduro/",
+    "headline": "An airplane carrying Venezuelan President Nicolás Maduro and his wife, Cilia Flores, landed at Stewart International...",
+    "link": "https://www.washingtonpost.com",
     "source": "wapo",
-    "pubdate": "2026-01-03-20-47-26 +0000"
+    "pubdate": "2026-01-03-22-04-23 +0000"
+  },
+  {
+    "headline": "Trump Avoids Congressional Approval for Maduro’s Capture, and Democrats Raise Alarms",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-congress-authorization.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-53-15 +0000"
+  },
+  {
+    "headline": "Trump Avoids Congressional Approval for Maduro’s Capture, and Democrats Raise Alarms",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-congress-authorization.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-53-15 +0000"
+  },
+  {
+    "headline": "Trump Avoids Congressional Approval for Maduro’s Capture, and Democrats Raise Alarms",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-congress-authorization.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-53-15 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani Called President Trump to Criticize Venezuela Strikes",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/mamdani-trump-venezuela-maduro.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-51-50 +0000"
+  },
+  {
+    "headline": "Zohran Mamdani Called President Trump to Criticize Venezuela Strikes",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/mamdani-trump-venezuela-maduro.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-51-50 +0000"
+  },
+  {
+    "headline": "With the President Gone, Venezuelans Race to Stock Up on Food",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/venezuelans-food.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-50-28 +0000"
+  },
+  {
+    "headline": "With the President Gone, Venezuelans Race to Stock Up on Food",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/venezuelans-food.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-50-28 +0000"
+  },
+  {
+    "headline": "Mamdani, other NY lefties rip Trump over Maduro arrest, condemning it as ‘act of war’",
+    "link": "https://nypost.com/2026/01/03/us-news/mamdani-other-ny-lefties-rip-trump-over-maduro-arrest/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-21-47-31 +0000"
+  },
+  {
+    "headline": "Mamdani, other NY lefties rip Trump over Maduro arrest, condemning it as ‘act of war’",
+    "link": "https://nypost.com/2026/01/03/us-news/mamdani-other-ny-lefties-rip-trump-over-maduro-arrest/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-21-47-31 +0000"
+  },
+  {
+    "headline": "Mamdani, other NY lefties rip Trump over Maduro arrest, condemning it as ‘act of war’",
+    "link": "https://nypost.com/2026/01/03/us-news/mamdani-other-ny-lefties-rip-trump-over-maduro-arrest/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-21-47-31 +0000"
+  },
+  {
+    "headline": "Littler masterclass seals back-to-back world titles",
+    "link": "https://www.bbc.com/sport/darts/articles/cq5y28xg5z7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-21-46-19 +0000"
+  },
+  {
+    "headline": "‘My country is free’: Venezuelans in U.S. react to Maduro capture",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-03-21-44-10 +0000"
+  },
+  {
+    "headline": "U.S. capture of Maduro in Venezuela criticized as violation of international, U.S. law",
+    "link": "https://www.latimes.com/world-nation/story/2026-01-03/u-s-capture-of-maduro-in-venezuela-criticized-as-violation-of-international-u-s-law",
+    "source": "latimes",
+    "pubdate": "2026-01-03-21-41-42 +0000"
+  },
+  {
+    "headline": "2 more killed in Iran protest clashes — as Khamenei promises to ‘bring the enemy to its knees’",
+    "link": "https://nypost.com/2026/01/03/world-news/two-more-killed-in-iran-protest-clashes-as-khamenei-promises-to-bring-the-enemy-to-its-knees/",
+    "source": "nypost",
+    "pubdate": "2026-01-03-21-34-13 +0000"
+  },
+  {
+    "headline": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'",
+    "link": "https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-21-28-55 +0000"
+  },
+  {
+    "headline": "Travelers stranded in Caribbean as FAA closes airspace for Maduro capture",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-03-21-27-30 +0000"
+  },
+  {
+    "headline": "Asad Haider, Leftist Critic of Identity Politics, Dies at 38",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/asad-haider-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-22-47 +0000"
+  },
+  {
+    "headline": "Asad Haider, Leftist Critic of Identity Politics, Dies at 38",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/asad-haider-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-22-47 +0000"
+  },
+  {
+    "headline": "Venezuela’s Interim Leader Defies Trump and Calls Maduro the ‘Only President’",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-maduro-only-president.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-22-04 +0000"
+  },
+  {
+    "headline": "Venezuela’s Interim Leader Defies Trump and Calls Maduro the ‘Only President’",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-maduro-only-president.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-22-04 +0000"
+  },
+  {
+    "headline": "Swiss open criminal case against managers of ski resort bar after deadly fire",
+    "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-21-20-02 +0000"
+  },
+  {
+    "headline": "Swiss open criminal case against managers of ski resort bar after deadly fire",
+    "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-21-20-02 +0000"
+  },
+  {
+    "headline": "‘All nations of the region must remain alert,’ Cuba warns Latin America",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-03-21-14-20 +0000"
+  },
+  {
+    "headline": "Venezuela could now define Trump's legacy - and America's place in the world",
+    "link": "https://www.bbc.com/news/articles/cx2x70k2q26o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-21-11-44 +0000"
+  },
+  {
+    "headline": "Trump Shares Photo of Captured Nicolás Maduro, Blindfolded and Handcuffed",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-photo-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-09-01 +0000"
+  },
+  {
+    "headline": "Trump Shares Photo of Captured Nicolás Maduro, Blindfolded and Handcuffed",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-photo-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-09-01 +0000"
+  },
+  {
+    "headline": "Delcy Rodríguez, Venezuela’s new leader, boasts leftist credentials",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-venezuela-politics.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-02-15 +0000"
+  },
+  {
+    "headline": "Delcy Rodríguez, Venezuela’s new leader, boasts leftist credentials",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-venezuela-politics.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-21-02-15 +0000"
+  },
+  {
+    "headline": "Trump says Maduro’s VP is cooperating. She’s demanding Maduro’s release.",
+    "link": "https://www.washingtonpost.com/world/2026/01/03/trump-delcy-rodriguez-maduro/",
+    "source": "wapo",
+    "pubdate": "2026-01-03-21-02-00 +0000"
+  },
+  {
+    "headline": "Watch: How the US attack on Venezuela unfolded",
+    "link": "https://www.bbc.com/news/videos/cx2x7dqek9lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-21-00-44 +0000"
+  },
+  {
+    "headline": "Satellite images show destruction at Venezuelan military complex",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-03-21-00-04 +0000"
+  },
+  {
+    "headline": "Before Nicolás Maduro, There Was Manuel Noriega",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-noriega-panama-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-20-48-05 +0000"
+  },
+  {
+    "headline": "Before Nicolás Maduro, There Was Manuel Noriega",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-noriega-panama-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-03-20-48-05 +0000"
   },
   {
     "headline": "Chevron, a Houston-based oil company that has conducted operations in Venezuela for more than 100 years,...",
@@ -102,34 +618,10 @@
     "pubdate": "2026-01-03-20-40-17 +0000"
   },
   {
-    "headline": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
-    "link": "https://www.nytimes.com/2026/01/03/business/venezuela-oil-industry-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-33-14 +0000"
-  },
-  {
-    "headline": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
-    "link": "https://www.nytimes.com/2026/01/03/business/venezuela-oil-industry-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-33-14 +0000"
-  },
-  {
-    "headline": "What to Know About Venezuela’s Oil Industry as Trump Plans U.S. Intervention",
-    "link": "https://www.nytimes.com/2026/01/03/business/venezuela-oil-industry-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-33-14 +0000"
-  },
-  {
     "headline": "European leaders urge peaceful transition",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-20-31-50 +0000"
-  },
-  {
-    "headline": "Is It Legal for U.S. to ‘Run’ Venezuela After Maduro’s Capture? Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/01/03/us/maduro-venezuela-trump-legal-issues.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-30-30 +0000"
   },
   {
     "headline": "Canada urges ‘all parties to respect international law’",
@@ -166,30 +658,6 @@
     "link": "https://www.nytimes.com/2026/01/03/world/europe/swiss-fire-bar-managers-charged.html",
     "source": "nyt",
     "pubdate": "2026-01-03-20-22-34 +0000"
-  },
-  {
-    "headline": "Venezuela’s Interim Leader Defies Trump and Calls Maduro the ‘Only President’",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-maduro-only-president.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-21-33 +0000"
-  },
-  {
-    "headline": "Venezuela’s Interim Leader Defies Trump and Calls Maduro the ‘Only President’",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/delcy-rodriguez-maduro-only-president.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-21-33 +0000"
-  },
-  {
-    "headline": "World Leaders React With Shock and Skepticism After U.S. Captures Maduro",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-venezuela-reaction-global.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-20-46 +0000"
-  },
-  {
-    "headline": "World Leaders React With Shock and Skepticism After U.S. Captures Maduro",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-venezuela-reaction-global.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-20-46 +0000"
   },
   {
     "headline": "A crowd formed in New York City’s Times Square on Saturday afternoon to protest U.S. military...",
@@ -234,28 +702,10 @@
     "pubdate": "2026-01-03-20-11-58 +0000"
   },
   {
-    "headline": "What we know about Maduro's capture",
-    "link": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-03-20-09-24 +0000"
-  },
-  {
     "headline": "In a televised address, Venezuelan Vice President Delcy Rodríguez struck a defiant tone and demanded the...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-20-06-07 +0000"
-  },
-  {
-    "headline": "Trump Shares an Image of Maduro Blindfolded and Handcuffed",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-photo-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-04-22 +0000"
-  },
-  {
-    "headline": "Trump Shares Photo of Captured Nicolás Maduro, Blindfolded and Handcuffed",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-photo-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-20-04-22 +0000"
   },
   {
     "headline": "Venezuela’s Maduro Seemed Untouchable. Now He Will Stand Trial in New York.",
@@ -294,19 +744,19 @@
     "pubdate": "2026-01-03-19-44-00 +0000"
   },
   {
-    "headline": "Trump issues chilling warning to Cuba, Colombia after US strikes Venezuela, arrests Maduro",
+    "headline": "Trump issues thinly veiled warning to Mexico, slams Cuba, Colombia after US strikes Venezuela, arrests Maduro",
     "link": "https://nypost.com/2026/01/03/world-news/trump-issues-chilling-warning-to-colombia-cuba-after-us-strikes-venezuela-captures-maduro-he-does-have-to-watch-his-a/",
     "source": "nypost",
     "pubdate": "2026-01-03-19-43-12 +0000"
   },
   {
-    "headline": "Trump issues chilling warning to Cuba, Colombia after US strikes Venezuela, arrests Maduro",
+    "headline": "Trump issues thinly veiled warning to Mexico, slams Cuba, Colombia after US strikes Venezuela, arrests Maduro",
     "link": "https://nypost.com/2026/01/03/world-news/trump-issues-chilling-warning-to-colombia-cuba-after-us-strikes-venezuela-captures-maduro-he-does-have-to-watch-his-a/",
     "source": "nypost",
     "pubdate": "2026-01-03-19-43-12 +0000"
   },
   {
-    "headline": "Trump issues chilling warning to Cuba, Colombia after US strikes Venezuela, arrests Maduro",
+    "headline": "Trump issues thinly veiled warning to Mexico, slams Cuba, Colombia after US strikes Venezuela, arrests Maduro",
     "link": "https://nypost.com/2026/01/03/world-news/trump-issues-chilling-warning-to-colombia-cuba-after-us-strikes-venezuela-captures-maduro-he-does-have-to-watch-his-a/",
     "source": "nypost",
     "pubdate": "2026-01-03-19-43-12 +0000"
@@ -334,12 +784,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-19-39-38 +0000"
-  },
-  {
-    "headline": "US plans to ‘run’ Venezuela and tap its oil reserves, Trump says",
-    "link": "https://www.startribune.com/at-least-7-explosions-and-low-flying-aircraft-are-heard-in-venezuelas-caracas/601556751",
-    "source": "startribune",
-    "pubdate": "2026-01-03-19-32-01 +0000"
   },
   {
     "headline": "Philly Fed’s Paulson Sees Room for Cuts ‘Later in the Year’",
@@ -378,24 +822,6 @@
     "pubdate": "2026-01-03-19-00-43 +0000"
   },
   {
-    "headline": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
-    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-18-58-52 +0000"
-  },
-  {
-    "headline": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
-    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-18-58-52 +0000"
-  },
-  {
-    "headline": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
-    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-18-58-52 +0000"
-  },
-  {
     "headline": "Iran's Khamenei says 'rioters should be put in their place'",
     "link": "https://www.cbc.ca/news/world/iran-khamenei-protesters-9.7032737?cmp=rss",
     "source": "cbc",
@@ -414,34 +840,10 @@
     "pubdate": "2026-01-03-18-42-03 +0000"
   },
   {
-    "headline": "Venezuelans in South Florida Celebrate Maduro’s Capture",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-florida-venezuelans-celebrations.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-18-39-58 +0000"
-  },
-  {
-    "headline": "Venezuelans in South Florida Celebrate Maduro’s Capture",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-capture-florida-venezuelans-celebrations.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-18-39-58 +0000"
-  },
-  {
     "headline": "Top House Democrat says Rubio ‘absolutely lied’ to Congress on Venezuela",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-18-34-58 +0000"
-  },
-  {
-    "headline": "Chevron Is in Prime Position to Help Unlock Venezuela’s Vast Oil Reserves",
-    "link": "https://www.wsj.com/business/energy-oil/chevron-charts-a-new-path-in-venezuela-to-unlock-vast-oil-reserves-0369ce1b",
-    "source": "wsj",
-    "pubdate": "2026-01-03-18-23-00 +0000"
-  },
-  {
-    "headline": "Chevron Is in Prime Position to Help Unlock Venezuela’s Vast Oil Reserves",
-    "link": "https://www.wsj.com/business/energy-oil/chevron-charts-a-new-path-in-venezuela-to-unlock-vast-oil-reserves-0369ce1b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-03-18-23-00 +0000"
   },
   {
     "headline": "Senate Minority Leader Charles E. Schumer (D-New York) joined numerous Democratic lawmakers criticizing the Trump administration’s...",
@@ -552,18 +954,6 @@
     "pubdate": "2026-01-03-17-56-18 +0000"
   },
   {
-    "headline": "Asad Haider, Leftist Critic of Identity Politics, Dies at 38",
-    "link": "https://www.nytimes.com/2026/01/03/us/politics/asad-haider-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-17-55-23 +0000"
-  },
-  {
-    "headline": "Asad Haider, Leftist Critic of Identity Politics, Dies at 38",
-    "link": "https://www.nytimes.com/2026/01/03/us/politics/asad-haider-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-17-55-23 +0000"
-  },
-  {
     "headline": "María Corina Machado — the Venezuelan opposition leader who received the 2025 Nobel Peace Prize —...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -594,18 +984,6 @@
     "pubdate": "2026-01-03-17-49-31 +0000"
   },
   {
-    "headline": "Trump says Venezuela attack ‘wasn’t meant to be’ warning to Mexico President Claudia Sheinbaum",
-    "link": "https://nypost.com/2026/01/03/us-news/trump-says-venezuela-attack-wasnt-meant-to-be-warning-to-mexico-president-claudia-sheinbaum/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-17-49-02 +0000"
-  },
-  {
-    "headline": "Trump says Venezuela attack ‘wasn’t meant to be’ warning to Mexico President Claudia Sheinbaum",
-    "link": "https://nypost.com/2026/01/03/us-news/trump-says-venezuela-attack-wasnt-meant-to-be-warning-to-mexico-president-claudia-sheinbaum/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-17-49-02 +0000"
-  },
-  {
     "headline": "Hundreds of flights canceled amid Venezuela crisis",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -628,24 +1006,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-17-41-06 +0000"
-  },
-  {
-    "headline": "U.S. Strikes in Venezuela Disrupt Air Traffic Across Caribbean",
-    "link": "https://www.wsj.com/business/airlines/u-s-strikes-in-venezuela-disrupt-air-traffic-across-caribbean-6a180bd5",
-    "source": "wsj",
-    "pubdate": "2026-01-03-17-39-00 +0000"
-  },
-  {
-    "headline": "U.S. Strikes in Venezuela Disrupt Air Traffic Across Caribbean",
-    "link": "https://www.wsj.com/business/airlines/u-s-strikes-in-venezuela-disrupt-air-traffic-across-caribbean-6a180bd5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-03-17-39-00 +0000"
-  },
-  {
-    "headline": "U.S. Strikes in Venezuela Disrupt Air Traffic Across Caribbean",
-    "link": "https://www.wsj.com/business/airlines/u-s-strikes-in-venezuela-disrupt-air-traffic-across-caribbean-6a180bd5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-03-17-39-00 +0000"
   },
   {
     "headline": "Trump said the ouster of Maduro has implications for the Cuban regime.",
@@ -849,13 +1209,13 @@
     "headline": "How Tensions Escalated Between the U.S. and Venezuela",
     "link": "https://www.nytimes.com/2026/01/03/world/americas/venezuela-us-tensions.html",
     "source": "nyt",
-    "pubdate": "2026-01-03-16-24-27 +0000"
+    "pubdate": "2026-01-03-16-24-28 +0000"
   },
   {
     "headline": "How Tensions Escalated Between the U.S. and Venezuela",
     "link": "https://www.nytimes.com/2026/01/03/world/americas/venezuela-us-tensions.html",
     "source": "nyt",
-    "pubdate": "2026-01-03-16-24-27 +0000"
+    "pubdate": "2026-01-03-16-24-28 +0000"
   },
   {
     "headline": "While charging that Maduro had undermined Venezuelans’ right to “self-determination,” French Foreign Minister Jean-Noël Barrot said...",
@@ -934,18 +1294,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-16-05-49 +0000"
-  },
-  {
-    "headline": "Trump Did Not Seek Congressional Authorization to Capture Maduro",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/trump-venezuela-congress-authorization.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-16-01-11 +0000"
-  },
-  {
-    "headline": "Trump Did Not Seek Congressional Authorization to Capture Maduro",
-    "link": "https://www.nytimes.com/2026/01/03/world/americas/trump-venezuela-congress-authorization.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-16-01-11 +0000"
   },
   {
     "headline": "Hannah Dugan, Wisconsin Judge Convicted of Obstructing Immigration Agents, Resigns",
@@ -1044,7 +1392,7 @@
     "pubdate": "2026-01-03-15-46-22 +0000"
   },
   {
-    "headline": "Canadian political leaders celebrate, condemn U.S. strikes on Venezuela and Maduro capture",
+    "headline": "Canada stands by Venezuelan people's right to decide their future, says PM Carney",
     "link": "https://www.cbc.ca/news/politics/canada-political-leaders-venezuela-maduro-9.7032642?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-03-15-38-04 +0000"
@@ -1140,12 +1488,6 @@
     "pubdate": "2026-01-03-15-00-00 +0000"
   },
   {
-    "headline": "Indicted Venezuelan leader Nicolas Maduro and his wife headed to NYC, Trump says",
-    "link": "https://nypost.com/2026/01/03/world-news/venezuelan-leader-nicolas-maduro-wife-headed-to-nyc-where-they-were-indicted-trump-says/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-14-59-44 +0000"
-  },
-  {
     "headline": "Explosions and smoke at La Guaira port",
     "link": "https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1162,18 +1504,6 @@
     "link": "https://nypost.com/2026/01/03/us-news/i-think-im-going-to-die-today-said-nypd-cop-before-chase/",
     "source": "nypost",
     "pubdate": "2026-01-03-14-54-40 +0000"
-  },
-  {
-    "headline": "Swiss open criminal case against managers of ski resort bar after deadly fire",
-    "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-03-14-53-38 +0000"
-  },
-  {
-    "headline": "Swiss open criminal case against managers of ski resort bar after deadly fire",
-    "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-03-14-53-38 +0000"
   },
   {
     "headline": "Exonerated JJ Velazquez sues NYC for $100M over wrongful murder conviction, 23 years of false imprisonment",
@@ -1210,12 +1540,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-14-44-46 +0000"
-  },
-  {
-    "headline": "‘The Patriot Way’: Busted New England stars Stefon Diggs, Christian Barmore latest in long line of bad team behavior",
-    "link": "https://nypost.com/2026/01/03/us-news/two-new-england-nflers-busted-this-week-are-latest-in-long-line-of-behavior-fitting-the-patriot-way/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-14-44-24 +0000"
   },
   {
     "headline": "President Trump called into “Fox & Friends” this morning, taking credit for the operation and praising...",
@@ -1260,18 +1584,6 @@
     "pubdate": "2026-01-03-14-21-50 +0000"
   },
   {
-    "headline": "Trump warned Maduro not to ‘f–k around with the US’ months before dictator’s capture",
-    "link": "https://nypost.com/2026/01/03/us-news/trump-warned-maduro-not-to-f-k-around-with-the-us-months-before-dictators-capture/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-14-17-54 +0000"
-  },
-  {
-    "headline": "Venezuelan opposition leader, 2025 Nobel Peace Prize winner Maria Corina Machado poised to take the place of Nicolas Maduro",
-    "link": "https://nypost.com/2026/01/03/world-news/venezuelan-opposition-leader-2025-nobel-peace-prize-winner-maria-corina-machado-poised-to-take-the-place-of-nicolas-maduro/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-14-10-13 +0000"
-  },
-  {
     "headline": "In Minnesota hockey rinks, tariffs hit the boards",
     "link": "https://www.startribune.com/in-minnesota-hockey-rinks-tariffs-hit-the-boards/601549634",
     "source": "startribune",
@@ -1284,22 +1596,10 @@
     "pubdate": "2026-01-03-14-05-20 +0000"
   },
   {
-    "headline": "Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000",
-    "link": "https://nypost.com/2026/01/03/us-news/humanoid-robots-are-ready-to-do-your-housework-in-2026/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-14-00-00 +0000"
-  },
-  {
     "headline": "South American countries divided on response to strikes",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-03-13-50-22 +0000"
-  },
-  {
-    "headline": "Staten Island seeing red: Forgotten boro more fired up for secession since socialist Zohran Mamdani’s visit",
-    "link": "https://nypost.com/2026/01/03/us-news/staten-island-more-fired-up-for-secession-since-socialist-mamdanis-visit/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-13-49-12 +0000"
   },
   {
     "headline": "President Donald Trump will hold a news conference at 11 a.m. Eastern following strikes on Venezuela,...",
@@ -1320,13 +1620,7 @@
     "pubdate": "2026-01-03-13-17-07 +0000"
   },
   {
-    "headline": "Jersey Shore’s ‘Drone Ranger’ has saved 122 missing pets with his flying fleet",
-    "link": "https://nypost.com/2026/01/03/us-news/drone-pilot-tracks-down-missing-pets-for-frantic-owners/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-13-15-00 +0000"
-  },
-  {
-    "headline": "Trump says U.S. is 'going to run' Venezuela until safe transition of power can take place",
+    "headline": "Captured Venezuelan president arrives in New York following U.S. strikes in Caracas",
     "link": "https://www.cbc.ca/news/world/trump-maduro-venezuela-strikes-9.7032572?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-03-13-03-15 +0000"
@@ -1338,22 +1632,10 @@
     "pubdate": "2026-01-03-13-01-00 +0000"
   },
   {
-    "headline": "Video shows Venezuela’s night sky engulfed in flames after US strikes, capture of dictator Nicolás Maduro",
-    "link": "https://nypost.com/2026/01/03/world-news/video-shows-venezuelas-night-sky-engulfed-in-flames-after-us-strikes-capture-of-dictator-nicolas-maduro/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-13-00-40 +0000"
-  },
-  {
     "headline": "8 Big Questions for 2026",
     "link": "https://www.nytimes.com/2026/01/03/business/dealbook/2026-economy-business.html",
     "source": "nyt",
     "pubdate": "2026-01-03-13-00-05 +0000"
-  },
-  {
-    "headline": "Arnold Schwarzenegger unveils new 2026 ‘crash diet’ for the brain: ‘Negativity literally killing you’",
-    "link": "https://nypost.com/2026/01/03/us-news/arnold-schwarzeneggers-new-crash-diet-for-the-brain/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-13-00-00 +0000"
   },
   {
     "headline": "She built a life in Minnesota. Now she carries her passport everywhere.",
@@ -1368,18 +1650,6 @@
     "pubdate": "2026-01-03-13-00-00 +0000"
   },
   {
-    "headline": "Mapping U.S. strikes in the Caribbean and eastern Pacific",
-    "link": "https://www.washingtonpost.com/world/2025/11/12/us-strikes-caribbean-pacific/",
-    "source": "wapo",
-    "pubdate": "2026-01-03-12-46-18 +0000"
-  },
-  {
-    "headline": "What could happen next in Venezuela?",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-12-40-32 +0000"
-  },
-  {
     "headline": "Ukraine’s Zelensky Names Kyrylo Budanov as New Chief of Staff",
     "link": "https://www.nytimes.com/2026/01/02/world/europe/zelensky-budanov-ukraine-chief-of-staff-yermak.html",
     "source": "nyt",
@@ -1390,12 +1660,6 @@
     "link": "https://www.nytimes.com/2026/01/02/world/europe/zelensky-budanov-ukraine-chief-of-staff-yermak.html",
     "source": "nyt",
     "pubdate": "2026-01-03-12-27-34 +0000"
-  },
-  {
-    "headline": "Photos show fires and signs of damage at La Carlota air base",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-12-27-10 +0000"
   },
   {
     "headline": "Evangelicals’ support for Israel is dropping. 1,000 pastors want to reverse that.",
@@ -1428,18 +1692,6 @@
     "pubdate": "2026-01-03-12-00-00 +0000"
   },
   {
-    "headline": "Where are Venezuela’s main military sites?",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-11-59-24 +0000"
-  },
-  {
-    "headline": "Maduro was wanted by U.S. for years on drug trafficking and other charges",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-11-52-05 +0000"
-  },
-  {
     "headline": "Craig the beer-ambassador elephant dies aged 54",
     "link": "https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1458,12 +1710,6 @@
     "pubdate": "2026-01-03-11-42-33 +0000"
   },
   {
-    "headline": "Interior Minister Diosdado Cabello, a hard-liner within the Maduro government who has led much of the...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-11-34-02 +0000"
-  },
-  {
     "headline": "Trump warning over Iran protests 'reckless' says foreign minister",
     "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1476,10 +1722,10 @@
     "pubdate": "2026-01-03-11-22-51 +0000"
   },
   {
-    "headline": "Colombian President Gustavo Petro said his country is seeking to convene the U.N. Security Council, of...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-11-03-04 +0000"
+    "headline": "Trump warning over Iran protests 'reckless' says foreign minister",
+    "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-11-22-51 +0000"
   },
   {
     "headline": "Michelle Singletary’s money outlook for 2026: What’s in, what’s out",
@@ -1518,40 +1764,10 @@
     "pubdate": "2026-01-03-11-00-00 +0000"
   },
   {
-    "headline": "Days before the attack, Maduro said his country was open to talks with Washington. In an...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-10-45-20 +0000"
-  },
-  {
-    "headline": "Venezuelan Vice President Delcy Rodríguez, speaking by phone on Venezuelan state television, said the government does...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-10-36-31 +0000"
-  },
-  {
     "headline": "For five older job seekers, finding new work took creativity, new skills and, in some cases, lowered expectations",
     "link": "https://www.wsj.com/economy/jobs/five-older-job-seekers-tell-us-how-they-broke-through-a-bruising-job-market-6d9d6e03",
     "source": "wsj",
     "pubdate": "2026-01-03-10-30-00 +0000"
-  },
-  {
-    "headline": "Venezuelan President Nicolás Maduro had spent months tightening his security and sharply limiting or canceling public...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-10-27-34 +0000"
-  },
-  {
-    "headline": "Which locations in Venezuela were hit?",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-10-26-29 +0000"
-  },
-  {
-    "headline": "In addition to Venezuelan Defense Minister Padrino López, Nicolás Maduro’s Vice President Delcy Rodríguez appeared to...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-03-10-21-01 +0000"
   },
   {
     "headline": "More than 100 shelter overnight in Japan shrine due to heavy snow",
@@ -1582,12 +1798,6 @@
     "link": "https://www.nytimes.com/2026/01/03/business/economy/trump-tariffs-prices-impact.html",
     "source": "nyt",
     "pubdate": "2026-01-03-10-00-59 +0000"
-  },
-  {
-    "headline": "The Year in Neanderthal Discoveries",
-    "link": "https://www.nytimes.com/2026/01/03/science/archaeology-neanderthals-genetics.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-10-00-48 +0000"
   },
   {
     "headline": "Retirement 2026 by the Numbers",
@@ -1644,12 +1854,6 @@
     "pubdate": "2026-01-03-07-06-35 +0000"
   },
   {
-    "headline": "Florida boy Johnathan Boley found dead after he went missing with his dog in Alabama on New Year’s Eve",
-    "link": "https://nypost.com/2026/01/03/us-news/florida-boy-johnathan-boley-found-dead-after-he-went-missing-with-his-dog-in-alabama-on-new-years-eve/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-07-05-24 +0000"
-  },
-  {
     "headline": "Explosions Reported in Venezuela’s Capital",
     "link": "https://www.nytimes.com/2026/01/03/world/americas/venezuela-caracas-explosions.html",
     "source": "nyt",
@@ -1666,24 +1870,6 @@
     "link": "https://www.nytimes.com/2026/01/03/world/americas/venezuela-caracas-explosions.html",
     "source": "nyt",
     "pubdate": "2026-01-03-06-55-03 +0000"
-  },
-  {
-    "headline": "Rival NYC Diamond District jewelers get into wild caught-on-camera brawl over fraud allegations",
-    "link": "https://nypost.com/2026/01/03/us-news/rival-nyc-diamond-district-jewelers-get-into-wild-caught-on-camera-brawl-over-fraud-allegations/",
-    "source": "nypost",
-    "pubdate": "2026-01-03-06-39-07 +0000"
-  },
-  {
-    "headline": "There Was Probably a Flashover in the Swiss Bar Fire. Here’s What That Means.",
-    "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-resort-bar-fire-flashover.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-06-22-54 +0000"
-  },
-  {
-    "headline": "There Was Probably a Flashover in the Swiss Bar Fire. Here’s What That Means.",
-    "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-resort-bar-fire-flashover.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-06-22-54 +0000"
   },
   {
     "headline": "Lenny Dykstra Faces Charges After Police Find Drugs During Traffic Stop",
@@ -1702,6 +1888,12 @@
     "link": "https://www.bbc.com/news/videos/c9vxnn419mro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-03-05-38-51 +0000"
+  },
+  {
+    "headline": "Missile attack on Kharkiv kills two including child, authorities say",
+    "link": "https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-03-05-13-36 +0000"
   },
   {
     "headline": "Missile attack on Kharkiv kills two including child, authorities say",
@@ -1944,12 +2136,6 @@
     "pubdate": "2026-01-03-00-46-58 +0000"
   },
   {
-    "headline": "In Chief Justice’s Annual Report, a History Lesson and Embrace of Independence",
-    "link": "https://www.nytimes.com/2025/12/31/us/politics/chief-justice-annual-report-history.html",
-    "source": "nyt",
-    "pubdate": "2026-01-03-00-31-55 +0000"
-  },
-  {
     "headline": "The year angry men dominated Bollywood - and what it means for India",
     "link": "https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1996,6 +2182,12 @@
     "link": "https://nypost.com/2026/01/02/us-news/retired-gen-jack-keane-calls-out-putins-bold-faced-lie-to-trump-about-drone-attack/",
     "source": "nypost",
     "pubdate": "2026-01-02-23-24-56 +0000"
+  },
+  {
+    "headline": "Young Italian golfer feared dead: What we know about Swiss resort fire",
+    "link": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-02-22-38-12 +0000"
   },
   {
     "headline": "Young Italian golfer feared dead: What we know about Swiss resort fire",
@@ -2272,6 +2464,12 @@
     "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html",
     "source": "nyt",
     "pubdate": "2026-01-02-20-31-14 +0000"
+  },
+  {
+    "headline": "What images and videos tell us about why Swiss bar fire spread so quickly",
+    "link": "https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-02-20-28-25 +0000"
   },
   {
     "headline": "What images and videos tell us about why Swiss bar fire spread so quickly",
@@ -2670,12 +2868,6 @@
     "pubdate": "2026-01-02-15-40-55 +0000"
   },
   {
-    "headline": "Search Is Suspended for Passenger Who Went Overboard From Cruise Ship",
-    "link": "https://www.nytimes.com/2026/01/01/world/americas/passenger-overboard-holland-america-cruise.html",
-    "source": "nyt",
-    "pubdate": "2026-01-02-15-40-55 +0000"
-  },
-  {
     "headline": "Another New Year at War: Ukraine’s Troops Doubt It Will Be the Last",
     "link": "https://www.nytimes.com/2026/01/01/world/europe/ukraine-russia-new-years-day-donetsk.html",
     "source": "nyt",
@@ -2716,6 +2908,12 @@
     "link": "https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html",
     "source": "nyt",
     "pubdate": "2026-01-02-14-29-46 +0000"
+  },
+  {
+    "headline": "US slashes proposed tariffs on Italian pasta imports",
+    "link": "https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-02-14-20-35 +0000"
   },
   {
     "headline": "US slashes proposed tariffs on Italian pasta imports",
@@ -2868,12 +3066,6 @@
     "pubdate": "2026-01-02-11-00-05 +0000"
   },
   {
-    "headline": "AI is scoring college essays and conducting interviews, a new layer in admissions stress",
-    "link": "https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay",
-    "source": "latimes",
-    "pubdate": "2026-01-02-11-00-00 +0000"
-  },
-  {
     "headline": "Billionaire tax proposal sparks soul-searching for Californians",
     "link": "https://www.latimes.com/business/story/2026-01-02/billionaire-tax-proposal-sparks-soul-searching-for-californians",
     "source": "latimes",
@@ -2882,6 +3074,12 @@
   {
     "headline": "From timber wars to cannabis crash: Scotia's battle to survive as California's last company town",
     "link": "https://www.latimes.com/california/story/2026-01-02/scotia-battles-to-survive-as-californias-last-company-town",
+    "source": "latimes",
+    "pubdate": "2026-01-02-11-00-00 +0000"
+  },
+  {
+    "headline": "AI is scoring college essays and conducting interviews, a new layer in admissions stress",
+    "link": "https://www.latimes.com/california/story/2026-01-02/ai-may-be-scoring-your-college-admissions-essay",
     "source": "latimes",
     "pubdate": "2026-01-02-11-00-00 +0000"
   },
@@ -3018,12 +3216,6 @@
     "pubdate": "2026-01-02-09-20-10 +0000"
   },
   {
-    "headline": "Switzerland’s Burn Centers Are Overwhelmed After New Year’s Fire",
-    "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-burn-centers-hospitals.html",
-    "source": "nyt",
-    "pubdate": "2026-01-02-09-16-01 +0000"
-  },
-  {
     "headline": "What to expect at Holyrood and beyond as 2026 election race steps up",
     "link": "https://www.bbc.com/news/articles/c1w910973e1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3040,12 +3232,6 @@
     "link": "https://www.cbc.ca/news/politics/parliamentary-budget-officer-economists-peer-review-9.7006741?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-02-09-00-00 +0000"
-  },
-  {
-    "headline": "Witnesses Recount Fire That Killed 40 in Switzerland",
-    "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-scene.html",
-    "source": "nyt",
-    "pubdate": "2026-01-02-07-37-46 +0000"
   },
   {
     "headline": "Witnesses Recount Fire That Killed 40 in Switzerland",
@@ -3100,12 +3286,6 @@
     "link": "https://www.nytimes.com/2025/12/31/movies/mohammad-bakri-dead.html",
     "source": "nyt",
     "pubdate": "2026-01-02-05-29-17 +0000"
-  },
-  {
-    "headline": "Can F.C. Barcelona, the Most Indebted Team in Global Soccer, Fix Its Finances?",
-    "link": "https://www.nytimes.com/2026/01/02/world/europe/barcelona-debt-soccer.html",
-    "source": "nyt",
-    "pubdate": "2026-01-02-05-00-08 +0000"
   },
   {
     "headline": "Can F.C. Barcelona, the Most Indebted Team in Global Soccer, Fix Its Finances?",
@@ -3336,22 +3516,10 @@
     "pubdate": "2026-01-01-21-07-47 +0000"
   },
   {
-    "headline": "A Deadly Blaze in Switzerland",
-    "link": "https://www.nytimes.com/2026/01/01/world/switzerland-fire-mamdani-newyork-reader-tips.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-21-07-24 +0000"
-  },
-  {
     "headline": "Iran Protests Turn Deadly as Violence and Anger Spread",
     "link": "https://www.nytimes.com/2026/01/01/world/middleeast/iran-protests-deaths.html",
     "source": "nyt",
     "pubdate": "2026-01-01-21-03-10 +0000"
-  },
-  {
-    "headline": "New York City Mayor Zohran Mamdani is sworn in at public ceremony",
-    "link": "https://www.washingtonpost.com/nation/2026/01/01/nyc-mayor-zohran-mamdani-sworn-in/",
-    "source": "wapo",
-    "pubdate": "2026-01-01-21-02-12 +0000"
   },
   {
     "headline": "Guinea’s Coup Leader Wins Election After Barring Leading Opponents",
@@ -3396,12 +3564,6 @@
     "pubdate": "2026-01-01-20-12-17 +0000"
   },
   {
-    "headline": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
-    "link": "https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-20-12-17 +0000"
-  },
-  {
     "headline": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
     "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3418,12 +3580,6 @@
     "link": "https://www.nytimes.com/2025/12/30/business/consumer-financial-protection-bureau-funding-trump-vought.html",
     "source": "nyt",
     "pubdate": "2026-01-01-19-47-10 +0000"
-  },
-  {
-    "headline": "In Hearing Transcript, Jack Smith Defends Decision to Indict Trump",
-    "link": "https://www.nytimes.com/2025/12/31/us/politics/jack-smith-deposition-house-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-19-34-56 +0000"
   },
   {
     "headline": "Opinion | The Hindu Attacks on India’s Christians",
@@ -3472,12 +3628,6 @@
     "link": "https://www.wsj.com/world/middle-east/iranian-protesters-killed-as-unrest-turns-violent-on-fifth-day-2ef703bd",
     "source": "wsj",
     "pubdate": "2026-01-01-18-08-00 +0000"
-  },
-  {
-    "headline": "Toby Morton, a Comedy Writer, Owns the Trump Kennedy Center URL",
-    "link": "https://www.nytimes.com/2026/01/01/us/politics/trump-kennedy-center-website-toby-morton.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-17-52-18 +0000"
   },
   {
     "headline": "Toby Morton, a Comedy Writer, Owns the Trump Kennedy Center URL",
@@ -3552,12 +3702,6 @@
     "pubdate": "2026-01-01-15-45-21 +0000"
   },
   {
-    "headline": "Threat to Suspend Aid for Minnesota Child-Care Centers Rattles Families",
-    "link": "https://www.nytimes.com/2026/01/01/us/minnesota-child-care-funding-impact-fraud.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-15-24-14 +0000"
-  },
-  {
     "headline": "Prominent Jewish civil rights group demands Amazon block payments tied to Francesca Albanese’s anti-Israel book",
     "link": "https://nypost.com/2026/01/01/business/national-jewish-advocacy-center-demands-amazon-block-payments-tied-to-francesca-albaneses-anti-israel-book/",
     "source": "nypost",
@@ -3624,12 +3768,6 @@
     "pubdate": "2026-01-01-12-23-00 +0000"
   },
   {
-    "headline": "A Monumental Church in Amsterdam Is Ravaged by Flames on New Year’s Day",
-    "link": "https://www.nytimes.com/2026/01/01/world/europe/amsterdam-fire-church-new-years.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-12-21-39 +0000"
-  },
-  {
     "headline": "Hasbro’s Secret Weapon for Training Its Next Leaders: A Board Game",
     "link": "https://www.wsj.com/business/hasbros-secret-weapon-for-training-its-next-leaders-a-board-game-0ceed76f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -3678,14 +3816,14 @@
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
-    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
+    "headline": "Immigration raids linked to significant California job losses, analysis finds",
+    "link": "https://www.latimes.com/california/story/2026-01-01/immigration-raids-california-job-losses-analysis",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "Immigration raids linked to significant California job losses, analysis finds",
-    "link": "https://www.latimes.com/california/story/2026-01-01/immigration-raids-california-job-losses-analysis",
+    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
+    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
@@ -3760,12 +3898,6 @@
     "link": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-01-09-52-20 +0000"
-  },
-  {
-    "headline": "BBC reports from the scene of Swiss resort bar fire",
-    "link": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-01-09-24-11 +0000"
   },
   {
     "headline": "New Year’s 2026 Celebrations Around the World: Photos and Videos",
@@ -3918,12 +4050,6 @@
     "pubdate": "2026-01-01-02-39-00 +0000"
   },
   {
-    "headline": "Coast Guard Searches for Survivors After More Boat Strikes",
-    "link": "https://www.nytimes.com/2025/12/31/us/politics/coast-guard-survivors-boat-strikes.html",
-    "source": "nyt",
-    "pubdate": "2026-01-01-02-39-00 +0000"
-  },
-  {
     "headline": "CI.A. Says Ukraine Did Not Target Putin’s Home in a Drone Strike, Contradicting Russia’s Claims",
     "link": "https://www.nytimes.com/2025/12/31/us/politics/ukraine-putin-home-drone-strike-cia.html",
     "source": "nyt",
@@ -3988,12 +4114,6 @@
     "link": "https://www.latimes.com/california/story/2025-12-31/campbell-hall-parents-lawsuit",
     "source": "latimes",
     "pubdate": "2026-01-01-00-54-24 +0000"
-  },
-  {
-    "headline": "Opinion | In Ukraine, Give War a Chance",
-    "link": "https://www.wsj.com/opinion/in-ukraine-give-war-a-chance-3508a1c8",
-    "source": "wsj",
-    "pubdate": "2026-01-01-00-31-00 +0000"
   },
   {
     "headline": "Suicide Bomber in Syria Kills Security Officer in New Year’s Eve Attack",
@@ -4482,12 +4602,6 @@
     "pubdate": "2025-12-31-09-55-07 +0000"
   },
   {
-    "headline": "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move",
-    "link": "https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-31-09-45-12 +0000"
-  },
-  {
     "headline": "Hong Kong Stocks Log Best Year Since 2017 as AI Boom Fuels Tech Rally",
     "link": "https://www.wsj.com/finance/stocks/hong-kong-stocks-log-best-year-since-2017-as-ai-boom-fuels-tech-rally-d4bfdf87",
     "source": "wsj",
@@ -4558,12 +4672,6 @@
     "link": "https://www.wsj.com/economy/chinas-factory-activity-expanded-in-december-bfe01eee",
     "source": "wsj",
     "pubdate": "2025-12-31-02-50-00 +0000"
-  },
-  {
-    "headline": "Work continues to fix Eurotunnel issue after thousands hit with travel disruption",
-    "link": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-31-02-37-31 +0000"
   },
   {
     "headline": "Year in Music 2025: The Bay made magical noise",
@@ -4938,12 +5046,6 @@
     "pubdate": "2025-12-30-17-02-50 +0000"
   },
   {
-    "headline": "Thieves use drill to steal €30m in German bank heist",
-    "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-30-16-54-32 +0000"
-  },
-  {
     "headline": "The Cover-Up: Inside the Plot to Conceal Assad’s Crimes",
     "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents.html",
     "source": "nyt",
@@ -4998,12 +5100,6 @@
     "pubdate": "2025-12-30-14-55-24 +0000"
   },
   {
-    "headline": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
-    "link": "https://www.nytimes.com/2025/12/29/world/americas/trump-boat-strikes-gulf-of-venezuela-wreckage.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-14-31-15 +0000"
-  },
-  {
     "headline": "U.S. Home Prices Keep Slow Growth Pace",
     "link": "https://www.wsj.com/economy/housing/u-s-home-prices-keep-slow-growth-pace-0b09966a",
     "source": "wsj",
@@ -5020,12 +5116,6 @@
     "link": "https://www.bbc.com/news/articles/cev8370pjk0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-30-13-28-42 +0000"
-  },
-  {
-    "headline": "Claire Brosseau Wants to Die. Will Canada Let Her?",
-    "link": "https://www.nytimes.com/2025/12/29/health/assisted-death-mental-illness-canada.html",
-    "source": "nyt",
-    "pubdate": "2025-12-30-13-21-52 +0000"
   },
   {
     "headline": "Alcatraz",
@@ -5076,14 +5166,14 @@
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
   {
-    "headline": "California's longest-tenured wildlife department chief steps down after 15 years",
-    "link": "https://www.latimes.com/environment/story/2025-12-30/charlton-bonham-director-of-california-wildlife-department-steps-down",
+    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
+    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines",
     "source": "latimes",
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
   {
-    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
-    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines",
+    "headline": "California's longest-tenured wildlife department chief steps down after 15 years",
+    "link": "https://www.latimes.com/environment/story/2025-12-30/charlton-bonham-director-of-california-wildlife-department-steps-down",
     "source": "latimes",
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
@@ -5490,12 +5580,6 @@
     "pubdate": "2025-12-29-20-02-00 +0000"
   },
   {
-    "headline": "Trump Says the U.S. Struck a ‘Big Facility’ in Campaign Against Venezuela",
-    "link": "https://www.nytimes.com/2025/12/28/us/politics/trump-drug-facility-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-19-48-32 +0000"
-  },
-  {
     "headline": "Louis Gerstner Jr., Former CEO Who Transformed IBM, Dies at 83",
     "link": "https://www.wsj.com/tech/personal-tech/louis-gerstner-ibm-ceo-dies-b8be8b1b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -5544,12 +5628,6 @@
     "pubdate": "2025-12-29-18-18-00 +0000"
   },
   {
-    "headline": "What to Know About Colombia’s Role in the Global Drug Trade Amid Trump’s Feud With Petro",
-    "link": "https://www.nytimes.com/2025/12/28/world/americas/colombia-drug-trade-trump-petro.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-16-39-16 +0000"
-  },
-  {
     "headline": "Dollar Edges Lower, Euro Rises in Quiet Trade; Fed Minutes Awaited",
     "link": "https://www.wsj.com/articles/dollar-trades-steady-in-quiet-trade-ac0c170c?mod=rss_markets_main",
     "source": "wsj",
@@ -5572,12 +5650,6 @@
     "link": "https://www.wsj.com/tech/personal-tech/listen-to-this-some-audiobooks-are-outselling-hardcovers-179ed593?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2025-12-29-14-00-00 +0000"
-  },
-  {
-    "headline": "Mexico Train Derailment Kills 13 People",
-    "link": "https://www.nytimes.com/2025/12/28/world/americas/mexico-train-crash.html",
-    "source": "nyt",
-    "pubdate": "2025-12-29-13-33-20 +0000"
   },
   {
     "headline": "Comedowns are for losers: New Year’s Day parties 2026",
@@ -5634,14 +5706,14 @@
     "pubdate": "2025-12-29-11-24-38 +0000"
   },
   {
-    "headline": "California has lost more than a quarter of its immigration judges this year",
-    "link": "https://www.latimes.com/world-nation/story/2025-12-29/california-has-lost-more-than-quarter-of-its-immigration-judges-this-year",
+    "headline": "L.A. fire cleanups reports describe repeated violations, illegal dumping allegation",
+    "link": "https://www.latimes.com/environment/story/2025-12-29/la-fire-cleanups-reports-describe-repeated-violations-illegal-dumping-allegation",
     "source": "latimes",
     "pubdate": "2025-12-29-11-00-00 +0000"
   },
   {
-    "headline": "L.A. fire cleanups reports describe repeated violations, illegal dumping allegation",
-    "link": "https://www.latimes.com/environment/story/2025-12-29/la-fire-cleanups-reports-describe-repeated-violations-illegal-dumping-allegation",
+    "headline": "California has lost more than a quarter of its immigration judges this year",
+    "link": "https://www.latimes.com/world-nation/story/2025-12-29/california-has-lost-more-than-quarter-of-its-immigration-judges-this-year",
     "source": "latimes",
     "pubdate": "2025-12-29-11-00-00 +0000"
   },
@@ -6096,12 +6168,6 @@
     "pubdate": "2025-12-28-10-01-44 +0000"
   },
   {
-    "headline": "Twins’ Peaks: The Gilbertson Brothers Want to Rewrite Your Country’s Map",
-    "link": "https://www.nytimes.com/2025/12/28/science/eric-matthew-gilbertson-mountains.html",
-    "source": "nyt",
-    "pubdate": "2025-12-28-10-01-44 +0000"
-  },
-  {
     "headline": "Can You Reboot a Lamp Like a Superhero Franchise?",
     "link": "https://www.nytimes.com/2025/12/28/business/midcentury-design-furniture-lamps.html",
     "source": "nyt",
@@ -6190,29 +6256,5 @@
     "link": "https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2025-12-28-00-00-21 +0000"
-  },
-  {
-    "headline": "For the first time in two decades, it might rain on the Rose Parade",
-    "link": "https://www.latimes.com/california/story/2025-12-27/for-first-time-in-two-decades-rose-parade-is-likely-to-be-wet-one",
-    "source": "latimes",
-    "pubdate": "2025-12-27-23-26-58 +0000"
-  },
-  {
-    "headline": "Another PG&E outage leaves 6,000 Sunset customers without power",
-    "link": "https://missionlocal.org/2025/12/another-pge-outage-affects-6000-in-sf/",
-    "source": "missionlocal",
-    "pubdate": "2025-12-27-23-23-45 +0000"
-  },
-  {
-    "headline": "A new view of two critical days that set the stage for the devastating Palisades fire",
-    "link": "https://www.latimes.com/california/story/2025-12-27/new-view-of-two-critical-days-that-set-stage-for-palisades-fire",
-    "source": "latimes",
-    "pubdate": "2025-12-27-22-38-04 +0000"
-  },
-  {
-    "headline": "UK restricts DR Congo visas over migrant return policy",
-    "link": "https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2025-12-27-22-35-46 +0000"
   }
 ]
