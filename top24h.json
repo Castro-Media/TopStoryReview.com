@@ -1,20 +1,20 @@
 [
   {
-    "score": 506,
+    "score": 504,
     "pubdate": "2026-01-04-02-37-39 +0000",
     "source": "nyt",
     "headline": "Venezuela Live Updates: Maduro Arrives in N.Y.; Trump Says U.S. Will ‘Run’ Venezuela",
     "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela"
   },
   {
-    "score": 166,
+    "score": 165,
     "pubdate": "2026-01-03-15-49-52 +0000",
     "source": "wapo",
     "headline": "House Speaker Mike Johnson (R-Louisiana) called the U.S. military action to capture Venezuelan President Nicolás Maduro...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 77,
+    "score": 75,
     "pubdate": "2026-01-03-23-30-44 +0000",
     "source": "nyt",
     "headline": "Trump Long Wanted to ‘Take the Oil.’ He Says He’ll Do It in Venezuela.",
@@ -35,14 +35,14 @@
     "link": "https://nypost.com/2026/01/03/world-news/how-us-forces-captured-venezuelas-maduro-in-extraordinary-raid/"
   },
   {
-    "score": 59,
+    "score": 58,
     "pubdate": "2026-01-04-00-34-00 +0000",
     "source": "wsj",
     "headline": "President Trump and top advisers had for months telegraphed plans to take down Nicolás Maduro. And yet, when it happened, Washington and Caracas were stunned by the attack’s ferocity and speed.",
     "link": "https://www.wsj.com/politics/national-security/inside-operation-absolute-resolve-the-u-s-incursion-that-deposed-venezuelas-maduro-fa812617"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-01-03-21-20-02 +0000",
     "source": "bbc",
     "headline": "Swiss open criminal case against managers of ski resort bar after deadly fire",
@@ -57,16 +57,16 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-01-03-17-50-54 +0000",
-    "source": "nypost",
-    "headline": "Venezuelan dictator appears blindfolded, handcuffed in first picture aboard USS Iwo Jima, flown to NYC to face justice",
-    "link": "https://nypost.com/2026/01/03/world-news/venezuelan-dictator-seen-in-first-picture-aboard-uss-iwo-jima-flown-to-nyc-to-face-justice/"
-  },
-  {
-    "score": 49,
     "pubdate": "2026-01-03-20-15-35 +0000",
     "source": "nypost",
     "headline": "World leaders gripe over US arrest of tyrant Nicolás Maduro, despite legal precedent: ‘Deeply alarmed’",
     "link": "https://nypost.com/2026/01/03/world-news/world-leaders-gripe-over-us-arrest-of-tyrant-nicolas-maduro-despite-legal-precedent-deeply-alarmed/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-01-03-17-50-54 +0000",
+    "source": "nypost",
+    "headline": "Venezuelan dictator appears blindfolded, handcuffed in first picture aboard USS Iwo Jima, flown to NYC to face justice",
+    "link": "https://nypost.com/2026/01/03/world-news/venezuelan-dictator-seen-in-first-picture-aboard-uss-iwo-jima-flown-to-nyc-to-face-justice/"
   }
 ]
