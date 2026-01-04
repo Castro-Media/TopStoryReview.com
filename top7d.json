@@ -7,14 +7,14 @@
     "link": "https://www.cbc.ca/news/world/trump-maduro-venezuela-strikes-9.7032572?cmp=rss"
   },
   {
-    "score": 211,
+    "score": 210,
     "pubdate": "2026-01-02-10-15-44 +0000",
     "source": "nyt",
     "headline": "Swiss Resort Bar Fire: 17-Year-Old Italian Golfer Is One of the First Identified Victims",
     "link": "https://www.nytimes.com/2026/01/02/world/europe/swiss-bar-fire-victims-golfer-galeppini.html"
   },
   {
-    "score": 201,
+    "score": 199,
     "pubdate": "2026-01-03-15-49-52 +0000",
     "source": "wapo",
     "headline": "House Speaker Mike Johnson (R-Louisiana) called the U.S. military action to capture Venezuelan President Nicolás Maduro...",
@@ -42,25 +42,18 @@
     "link": "https://www.wsj.com/world/americas/see-how-the-u-s-military-captured-maduro-in-a-matter-of-hours-ee87179c"
   },
   {
-    "score": 87,
+    "score": 89,
     "pubdate": "2025-12-30-09-00-00 +0000",
     "source": "cbc",
     "headline": "What's coming up next in Canadian politics? Here are five key stories to watch in 2026",
     "link": "https://www.cbc.ca/news/politics/five-key-stories-canadian-politics-carney-poilievre-trump-trade-canada-9.7028865?cmp=rss"
   },
   {
-    "score": 86,
+    "score": 88,
     "pubdate": "2026-01-02-20-31-14 +0000",
     "source": "nyt",
     "headline": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
     "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
-  },
-  {
-    "score": 83,
-    "pubdate": "2026-01-03-18-14-45 +0000",
-    "source": "wapo",
-    "headline": "The mission to take Maduro out of power was named “Operation Absolute Resolve,” Joint Chiefs Chairman...",
-    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 79,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Deadly clashes between protesters and security forces as Iran unrest grows",
     "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-01-03-18-14-45 +0000",
+    "source": "wapo",
+    "headline": "The mission to take Maduro out of power was named “Operation Absolute Resolve,” Joint Chiefs Chairman...",
+    "link": "https://www.washingtonpost.com"
   }
 ]
