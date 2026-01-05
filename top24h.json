@@ -1,41 +1,48 @@
 [
   {
-    "score": 384,
+    "score": 380,
     "pubdate": "2026-01-04-20-33-28 +0000",
     "source": "nypost",
     "headline": "Trump threatens Venezuela’s new leader Delcy Rodriguez with a fate worse than Maduro if she doesn’t work with US",
     "link": "https://nypost.com/2026/01/04/us-news/trump-threatens-venezuelas-new-leader-delcy-rodriguez-with-a-fate-worse-than-maduro-if-she-doesnt-work-with-us/"
   },
   {
-    "score": 103,
+    "score": 107,
     "pubdate": "2026-01-04-17-24-22 +0000",
     "source": "wapo",
     "headline": "Venezuelan Defense Minister Vladimir Padrino López recognized Vice President Delcy Rodríguez as acting president, in line...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 82,
+    "score": 92,
     "pubdate": "2026-01-04-16-54-24 +0000",
     "source": "nyt",
     "headline": "Trump Long Wanted to ‘Take the Oil.’ He Says He’ll Do It in Venezuela.",
     "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-venezuela-oil.html"
   },
   {
-    "score": 65,
+    "score": 63,
     "pubdate": "2026-01-04-21-51-50 +0000",
     "source": "nyt",
     "headline": "‘No One Is Ready for This’: How a Deadly Bar Fire Upended a Swiss Town",
     "link": "https://www.nytimes.com/2026/01/04/world/europe/crans-montana-victims.html"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2026-01-04-18-09-40 +0000",
     "source": "nypost",
     "headline": "Satellite images reveal damage from US strikes on Venezuela’s military during Nicolás Maduro capture",
     "link": "https://nypost.com/2026/01/04/world-news/satellite-images-reveal-devastation-from-us-strike-that-captured-nicolas-maduro/"
   },
   {
-    "score": 44,
+    "score": 55,
+    "pubdate": "2026-01-05-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "Secretary of State Marco Rubio was there with President Trump during the press conference on the Venezuela incursion and is front and center on the issue. Read more in today’s WSJ Politics newsletter.",
+    "link": "https://www.wsj.com/politics/elections/in-venezuela-operation-rubio-is-front-and-center-7b02396a"
+  },
+  {
+    "score": 50,
     "pubdate": "2026-01-05-09-01-43 +0000",
     "source": "nyt",
     "headline": "Trump Says ‘We Need Greenland’ and Threatens U.S. Action in Colombia and Mexico",
@@ -43,30 +50,23 @@
   },
   {
     "score": 43,
-    "pubdate": "2026-01-04-18-44-05 +0000",
-    "source": "bbc",
-    "headline": "Activist group says it was behind Berlin fire that cut power to thousands",
-    "link": "https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-01-05-01-24-33 +0000",
-    "source": "nypost",
-    "headline": "6-year-old girl, 90-year-old passenger killed in horrific NYC car crash",
-    "link": "https://nypost.com/2026/01/04/us-news/6-year-old-girl-and-90-year-old-man-killed-in-horrific-nyc-car-crash/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-01-05-04-41-05 +0000",
-    "source": "startribune",
-    "headline": "Rubio says US will press change in Venezuela with oil embargo, while Trump insists ‘we’re in charge’",
-    "link": "https://www.startribune.com/maduro-arrives-in-us-after-stunning-capture-in-operation-that-trump-says-will-let-us-run-venezuela/601557427"
-  },
-  {
-    "score": 40,
     "pubdate": "2026-01-05-07-55-46 +0000",
     "source": "nypost",
-    "headline": "Gov. Tim Walz expected to drop reelection bid amid Minnesota Somali fraud probe: report",
+    "headline": "Gov. Tim Walz expected to drop bid for re-election amid Minnesota Somali fraud probe: report",
     "link": "https://nypost.com/2026/01/05/us-news/gov-tim-walz-expected-to-drop-reelection-bid-amid-minnesota-somali-fraud-probe-report/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-01-04-18-05-10 +0000",
+    "source": "bbc",
+    "headline": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
+    "link": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-01-05-08-33-18 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Chevron and Other Energy Stocks Jump After U.S. Captures Venezuela's Maduro",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026?mod=rss_markets_main"
   }
 ]
