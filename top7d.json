@@ -1,6 +1,6 @@
 [
   {
-    "score": 695,
+    "score": 694,
     "pubdate": "2026-01-06-02-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s audacious decision to seize Venezuela’s Nicolás Maduro heralds a new geopolitical strategy: The U.S. and the U.S. only will dominate the Western Hemisphere",
@@ -15,10 +15,10 @@
   },
   {
     "score": 138,
-    "pubdate": "2026-01-02-20-48-00 +0000",
-    "source": "wsj",
-    "headline": "An 18-year-old Burger King worker intended to commit a terrorist attack with knives and hammers at a grocery store or fast-food restaurant in a Charlotte, N.C., suburb on New Year’s Eve, the FBI said",
-    "link": "https://www.wsj.com/politics/national-security/charlotte-north-carolina-terror-plot-charges-9af062e0"
+    "pubdate": "2026-01-01-13-22-31 +0000",
+    "source": "cbc",
+    "headline": "All 40 victims of Swiss New Year's Eve bar fire now identified, police say",
+    "link": "https://www.cbc.ca/news/world/teenagers-dead-swiss-bar-fire-9.7033008?cmp=rss"
   },
   {
     "score": 135,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/01/05/world-news/irans-ayatollah-ali-khamenei-plans-to-flee-to-russia-if-security-team-fails-turns-on-him-as-regime-gripped-by-unrest/"
   },
   {
-    "score": 97,
-    "pubdate": "2026-01-06-12-24-11 +0000",
-    "source": "bbc",
-    "headline": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
-    "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 96,
+    "score": 95,
     "pubdate": "2026-01-05-15-40-23 +0000",
     "source": "wapo",
     "headline": "British prime minister: Greenland’s future is for Greenland and Denmark to decide",
     "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 90,
+    "pubdate": "2026-01-06-02-24-00 +0000",
+    "source": "wsj",
+    "headline": "In the wake of the Trump administration cutting child-care funds to Minnesota, it has expanded its social-services funding freeze to include California, Colorado, Illinois and New York",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-to-freeze-social-service-funds-in-more-democratic-states-bcb35c1d"
   }
 ]
