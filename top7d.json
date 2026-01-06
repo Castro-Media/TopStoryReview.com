@@ -21,14 +21,14 @@
     "link": "https://www.wsj.com/politics/policy/trump-greenland-republican-reaction-0c51fb0c"
   },
   {
-    "score": 152,
+    "score": 151,
     "pubdate": "2026-01-05-17-08-00 +0000",
     "source": "wapo",
     "headline": "Ousted Venezuelan president Nicolás Maduro and his wife, Cilia Flores, were ushered into U.S. District Court...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 130,
+    "score": 129,
     "pubdate": "2026-01-05-21-59-53 +0000",
     "source": "nypost",
     "headline": "Russia, China ignore own aggressions to rip US over despot Maduro’s capture during emergency UN Security Council session",
@@ -43,24 +43,17 @@
   },
   {
     "score": 106,
-    "pubdate": "2026-01-03-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "The massive welfare-fraud scandal in Minnesota dogging Gov. Tim Walz as he seeks re-election is giving Republicans a potent line of attack against a critic of President Trump",
-    "link": "https://www.wsj.com/politics/policy/minnesota-fraud-scandal-challenges-gov-tim-walzs-2026-re-election-bid-0ca28dc9"
-  },
-  {
-    "score": 104,
-    "pubdate": "2026-01-06-15-12-50 +0000",
-    "source": "latimes",
-    "headline": "California Rep. Doug LaMalfa dies, further narrowing GOP margin in Congress",
-    "link": "https://www.latimes.com/california/story/2026-01-06/california-congressman-doug-lamalfa-dies"
-  },
-  {
-    "score": 96,
     "pubdate": "2026-01-04-10-00-00 +0000",
     "source": "wsj",
     "headline": "There are 35 Senate seats up for election in 2026, including two special elections. Democrats enter the midterm campaigns hoping history is on their side, but confronting a Senate map that is not.",
     "link": "https://www.wsj.com/politics/elections/democrats-senate-2026-2d0b8b5d"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-01-06-02-24-00 +0000",
+    "source": "wsj",
+    "headline": "In the wake of the Trump administration cutting child-care funds to Minnesota, it has expanded its social-services funding freeze to include California, Colorado, Illinois and New York",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-to-freeze-social-service-funds-in-more-democratic-states-bcb35c1d"
   },
   {
     "score": 95,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
     "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 89,
+    "pubdate": "2026-01-06-10-30-23 +0000",
+    "source": "bbc",
+    "headline": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
+    "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss"
   }
 ]
