@@ -1,39 +1,111 @@
 [
   {
+    "headline": "Electric car discounts are unsustainable, warns industry group",
+    "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-58-39 +0000"
+  },
+  {
+    "headline": "Texas police solve state’s oldest missing persons cold case — and bring closure to victim’s surviving brother",
+    "link": "https://nypost.com/2026/01/06/us-news/texas-police-solve-states-oldest-missing-persons-cold-case-and-bring-closure-to-victims-surviving-brother/",
+    "source": "nypost",
+    "pubdate": "2026-01-06-06-47-24 +0000"
+  },
+  {
+    "headline": "KKR, Warburg Pincus Among Suitors for Southeast Asia School Operator",
+    "link": "https://www.wsj.com/finance/investing/kkr-warburg-pincus-among-suitors-for-southeast-asia-school-operator-bcdbe6e3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-06-06-47-00 +0000"
+  },
+  {
+    "headline": "KKR, Warburg Pincus Among Suitors for Southeast Asia School Operator",
+    "link": "https://www.wsj.com/finance/investing/kkr-warburg-pincus-among-suitors-for-southeast-asia-school-operator-bcdbe6e3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-06-06-47-00 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Rise, Curve Steepens",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-tracking-gains-in-u-s-treasurys-7667652e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-06-06-44-00 +0000"
+  },
+  {
+    "headline": "California teen dies of overdose after months seeking drug advice from ChatGPT, mother claims",
+    "link": "https://nypost.com/2026/01/06/us-news/california-teen-dies-of-overdose-after-months-seeking-drug-advice-from-chatgpt-mother-claims/",
+    "source": "nypost",
+    "pubdate": "2026-01-06-06-35-22 +0000"
+  },
+  {
+    "headline": "Health Dept. to Freeze $10 Billion in Funding to 5 Democratic States",
+    "link": "https://www.nytimes.com/2026/01/06/us/politics/child-care-funding-cuts-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-31-57 +0000"
+  },
+  {
+    "headline": "Health Dept. to Freeze $10 Billion in Funding to 5 Democratic States",
+    "link": "https://www.nytimes.com/2026/01/06/us/politics/child-care-funding-cuts-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-31-57 +0000"
+  },
+  {
+    "headline": "Families 'not aware' of winter fuel eligibility",
+    "link": "https://www.bbc.com/news/articles/cjrz2078v55o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-30-58 +0000"
+  },
+  {
+    "headline": "Central African Republic President Touadéra wins third term",
+    "link": "https://www.bbc.com/news/articles/c0q40xg3j0jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-30-15 +0000"
+  },
+  {
+    "headline": "Stephen Miller dismisses the idea Denmark would fight for Greenland, claims it should be part of the US",
+    "link": "https://nypost.com/2026/01/06/us-news/stephen-miller-dismisses-the-idea-denmark-would-fight-for-greenland-claims-it-should-be-part-of-the-us/",
+    "source": "nypost",
+    "pubdate": "2026-01-06-06-27-03 +0000"
+  },
+  {
+    "headline": "Warm Welcome spaces have vital 'social aspect'",
+    "link": "https://www.bbc.com/news/articles/c3dmxnyeg91o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-21-29 +0000"
+  },
+  {
+    "headline": "At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Venezuela",
+    "link": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-12-29 +0000"
+  },
+  {
+    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
+    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-12-28 +0000"
+  },
+  {
+    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
+    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-12-28 +0000"
+  },
+  {
+    "headline": "Chris Mason: Starmer's strategy of avoiding criticising Trump over Maduro",
+    "link": "https://www.bbc.com/news/articles/cr4kr7r9ew2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-10-43 +0000"
+  },
+  {
     "headline": "Global Ripples From Venezuela",
     "link": "https://www.nytimes.com/2026/01/05/world/venezuela-global-implications-trump-maduro-iran.html",
     "source": "nyt",
     "pubdate": "2026-01-06-05-37-18 +0000"
   },
   {
-    "headline": "Most JGBs Fall After 10-Year Auction’s Weak Outcome",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-tracking-gains-in-u-s-treasurys-7667652e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-06-05-33-00 +0000"
-  },
-  {
     "headline": "S.F. judge tosses lawsuit claiming Great Highway closure was illegal",
     "link": "https://missionlocal.org/2026/01/sf-judge-dismiss-lawsuit-great-highway/",
     "source": "missionlocal",
     "pubdate": "2026-01-06-05-29-20 +0000"
-  },
-  {
-    "headline": "Venezuela Live Updates: At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Caracas",
-    "link": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
-    "source": "nyt",
-    "pubdate": "2026-01-06-05-16-03 +0000"
-  },
-  {
-    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
-    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
-    "source": "nyt",
-    "pubdate": "2026-01-06-05-16-01 +0000"
-  },
-  {
-    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
-    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
-    "source": "nyt",
-    "pubdate": "2026-01-06-05-16-01 +0000"
   },
   {
     "headline": "Machete-wielding man shot, killed by police at NJ home — as 3 victims discovered dead inside residence",
@@ -192,13 +264,13 @@
     "pubdate": "2026-01-06-03-49-53 +0000"
   },
   {
-    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty",
     "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-06-03-47-29 +0000"
   },
   {
-    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty",
     "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-06-03-47-29 +0000"
@@ -792,12 +864,6 @@
     "pubdate": "2026-01-06-00-02-46 +0000"
   },
   {
-    "headline": "Electric car discounts are 'unsustainable' as sales climb, car group warns",
-    "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-06-00-02-07 +0000"
-  },
-  {
     "headline": "Socialite convicted of helping Jennifer Dulos’ estranged husband cover up her murder asks for prison release",
     "link": "https://nypost.com/2026/01/05/us-news/socialite-convicted-of-helping-jennifer-dulos-estranged-husband-cover-up-her-murder-asks-for-prison-release/",
     "source": "nypost",
@@ -816,13 +882,13 @@
     "pubdate": "2026-01-05-23-50-43 +0000"
   },
   {
-    "headline": "A prediction market user made $436,000 betting on Maduro's downfall",
+    "headline": "Anonymous cypto gambler made $436,000 on Maduro capture",
     "link": "https://www.bbc.com/news/articles/cx2gn93292do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-05-23-44-35 +0000"
   },
   {
-    "headline": "A prediction market user made $436,000 betting on Maduro's downfall",
+    "headline": "Anonymous cypto gambler made $436,000 on Maduro capture",
     "link": "https://www.bbc.com/news/articles/cx2gn93292do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-05-23-44-35 +0000"
@@ -900,18 +966,6 @@
     "pubdate": "2026-01-05-23-30-52 +0000"
   },
   {
-    "headline": "NYPD hunts for underaged brutes who fractured elderly woman’s elbow in Central Park",
-    "link": "https://nypost.com/2026/01/05/us-news/nypd-hunt-for-juvenile-brutes-who-fractured-elderly-womans-elbow-in-central-park/",
-    "source": "nypost",
-    "pubdate": "2026-01-05-23-26-19 +0000"
-  },
-  {
-    "headline": "Zelensky shockingly boots ‘Hero of Ukraine’ spy chief who led daring raids against Russia",
-    "link": "https://nypost.com/2026/01/05/us-news/zelensky-boots-hero-of-ukraine-spy-chief-who-led-daring-raids-against-russia/",
-    "source": "nypost",
-    "pubdate": "2026-01-05-23-23-07 +0000"
-  },
-  {
     "headline": "Charter-jet travelers may be stuck in the Caribbean longer than everyone else after Maduro capture — and they’re melting down over it",
     "link": "https://nypost.com/2026/01/05/business/caribbean-airspace-closure-highlighted-wealth-differences/",
     "source": "nypost",
@@ -928,12 +982,6 @@
     "link": "https://www.wsj.com/business/hospitality/hilton-lands-in-dhs-crosshairs-after-ice-agents-hotel-reservations-are-canceled-ecccd0a9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-05-23-15-00 +0000"
-  },
-  {
-    "headline": "Junk fees, hard-to-stop subscriptions for ‘working people’ face Mamdani crackdown in NYC",
-    "link": "https://nypost.com/2026/01/05/us-news/junk-fees-hard-to-stop-subscriptions-face-mamdani-crackdown-in-nyc-a-sign-of-disdain-and-disrespect/",
-    "source": "nypost",
-    "pubdate": "2026-01-05-23-13-55 +0000"
   },
   {
     "headline": "Venezuelans wait anxiously as their country's future hangs in the balance, says resident",
@@ -1534,6 +1582,12 @@
     "link": "https://nypost.com/2026/01/05/world-news/masai-giraffe-dies-after-freak-accident-at-toronto-zoo/",
     "source": "nypost",
     "pubdate": "2026-01-05-20-29-42 +0000"
+  },
+  {
+    "headline": "Nonprofit That Funded NPR and PBS to Dissolve After 58 Years",
+    "link": "https://www.wsj.com/business/media/nonprofit-that-funded-npr-and-pbs-to-dissolve-after-58-years-693b5b8e",
+    "source": "wsj",
+    "pubdate": "2026-01-05-20-27-00 +0000"
   },
   {
     "headline": "Nonprofit That Funded NPR and PBS to Dissolve After 58 Years",
@@ -3606,12 +3660,6 @@
     "pubdate": "2026-01-04-20-17-35 +0000"
   },
   {
-    "headline": "Behind the Scenes of Our Nicolás Maduro Front Page",
-    "link": "https://www.nytimes.com/2026/01/04/insider/nicolas-maduro-front-page.html",
-    "source": "nyt",
-    "pubdate": "2026-01-04-20-17-35 +0000"
-  },
-  {
     "headline": "Trump leads the world into a geopolitical Wild West",
     "link": "https://www.washingtonpost.com/world/2026/01/04/venezuela-trump-global-law-order-rules-wild-west-intervention/",
     "source": "wapo",
@@ -3778,12 +3826,6 @@
     "link": "https://www.nytimes.com/2026/01/04/world/europe/ukraine-venezuela-maduro.html",
     "source": "nyt",
     "pubdate": "2026-01-04-17-17-34 +0000"
-  },
-  {
-    "headline": "Mississippi Welfare-Fraud Trial Spotlights National Oversight Failures",
-    "link": "https://www.wsj.com/us-news/law/mississippi-welfare-fraud-trial-spotlights-national-oversight-failures-caa25ff8",
-    "source": "wsj",
-    "pubdate": "2026-01-04-17-00-00 +0000"
   },
   {
     "headline": "Mississippi Welfare-Fraud Trial Spotlights National Oversight Failures",
@@ -4060,18 +4102,6 @@
     "link": "https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-04-07-22-04 +0000"
-  },
-  {
-    "headline": "Price increase on school meals will 'acutely' affect children in poverty",
-    "link": "https://www.bbc.com/news/articles/cjrzddd4yrdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-04-06-39-51 +0000"
-  },
-  {
-    "headline": "Will we see signs of economic growth in 2026?",
-    "link": "https://www.bbc.com/news/articles/cdexy4x4jd5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-04-06-18-31 +0000"
   },
   {
     "headline": "'Deeply shocked': World leaders react to US attack on Venezuela",
@@ -4438,12 +4468,6 @@
     "link": "https://www.wsj.com/style/fashion/trader-joes-tote-bags-international-market-ebay-071a0f55?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-03-12-00-00 +0000"
-  },
-  {
-    "headline": "Craig the beer-ambassador elephant dies aged 54",
-    "link": "https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-03-11-48-14 +0000"
   },
   {
     "headline": "Trump's DOJ hires voting rights lawyer behind L.A. case cited by conspiracy theorists",
@@ -4878,8 +4902,8 @@
     "pubdate": "2026-01-02-11-59-12 +0000"
   },
   {
-    "headline": "Billionaire tax proposal sparks soul-searching for Californians",
-    "link": "https://www.latimes.com/business/story/2026-01-02/billionaire-tax-proposal-sparks-soul-searching-for-californians",
+    "headline": "From timber wars to cannabis crash: Scotia's battle to survive as California's last company town",
+    "link": "https://www.latimes.com/california/story/2026-01-02/scotia-battles-to-survive-as-californias-last-company-town",
     "source": "latimes",
     "pubdate": "2026-01-02-11-00-00 +0000"
   },
@@ -4890,8 +4914,8 @@
     "pubdate": "2026-01-02-11-00-00 +0000"
   },
   {
-    "headline": "From timber wars to cannabis crash: Scotia's battle to survive as California's last company town",
-    "link": "https://www.latimes.com/california/story/2026-01-02/scotia-battles-to-survive-as-californias-last-company-town",
+    "headline": "Billionaire tax proposal sparks soul-searching for Californians",
+    "link": "https://www.latimes.com/business/story/2026-01-02/billionaire-tax-proposal-sparks-soul-searching-for-californians",
     "source": "latimes",
     "pubdate": "2026-01-02-11-00-00 +0000"
   },
@@ -5082,12 +5106,6 @@
     "pubdate": "2026-01-02-02-00-00 +0000"
   },
   {
-    "headline": "Five Wall Street Investors Explain How They’re Approaching the Coming Year",
-    "link": "https://www.wsj.com/finance/stocks/five-wall-street-investors-explain-how-theyre-approaching-the-coming-year-a8868cff?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-02-02-00-00 +0000"
-  },
-  {
     "headline": "“We’re going to lose big time.” Why condo owners are struggling with the worst market in more than 10 years.",
     "link": "https://www.wsj.com/economy/housing/the-condo-market-hasnt-been-this-bad-in-over-a-decade-9f3e7256",
     "source": "wsj",
@@ -5262,14 +5280,14 @@
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
-    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
+    "headline": "Immigration raids linked to significant California job losses, analysis finds",
+    "link": "https://www.latimes.com/california/story/2026-01-01/immigration-raids-california-job-losses-analysis",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "Immigration raids linked to significant California job losses, analysis finds",
-    "link": "https://www.latimes.com/california/story/2026-01-01/immigration-raids-california-job-losses-analysis",
+    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
+    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
@@ -5286,14 +5304,14 @@
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "The Supreme Court broadly expanded Trump's power in 2025, with key exceptions",
-    "link": "https://www.latimes.com/politics/story/2026-01-01/supreme-court-trump-power",
+    "headline": "Calmes: Trump's motto in 2025? 'Me, myself and I'",
+    "link": "https://www.latimes.com/opinion/story/2026-01-01/trump-2025-campaign-promises",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "Calmes: Trump's motto in 2025? 'Me, myself and I'",
-    "link": "https://www.latimes.com/opinion/story/2026-01-01/trump-2025-campaign-promises",
+    "headline": "The Supreme Court broadly expanded Trump's power in 2025, with key exceptions",
+    "link": "https://www.latimes.com/politics/story/2026-01-01/supreme-court-trump-power",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
@@ -5700,12 +5718,6 @@
     "pubdate": "2025-12-31-11-01-00 +0000"
   },
   {
-    "headline": "The most-read Los Angeles Times stories of 2025",
-    "link": "https://www.latimes.com/california/story/2025-12-31/most-read-stories-of-2025",
-    "source": "latimes",
-    "pubdate": "2025-12-31-11-00-00 +0000"
-  },
-  {
     "headline": "City of L.A. ignored fire safety as it permitted development in high-risk areas, lawsuit alleges",
     "link": "https://www.latimes.com/environment/story/2025-12-31/la-city-ignored-fire-safety-as-it-permitted-development-in-high-risk-areas",
     "source": "latimes",
@@ -5726,6 +5738,12 @@
   {
     "headline": "Harvard-Westlake blocks TikTok and Clash Royale on student phones. How's that going down?",
     "link": "https://www.latimes.com/california/story/2025-12-31/harvard-westlake-blocks-tiktok-clash-royale-on-student-phones-hows-that-going-down",
+    "source": "latimes",
+    "pubdate": "2025-12-31-11-00-00 +0000"
+  },
+  {
+    "headline": "The most-read Los Angeles Times stories of 2025",
+    "link": "https://www.latimes.com/california/story/2025-12-31/most-read-stories-of-2025",
     "source": "latimes",
     "pubdate": "2025-12-31-11-00-00 +0000"
   },
@@ -6126,14 +6144,14 @@
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Blondie and Dagwood are entering the public domain, but Betty Boop still may be trapped in copyright jail",
-    "link": "https://www.latimes.com/business/story/2025-12-30/cartoons-in-public-domain-blondie-dagwood-copyright-what-to-know",
+    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
+    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines",
     "source": "latimes",
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
   {
-    "headline": "California regulators order Edison to look for fire risks on its old transmission lines",
-    "link": "https://www.latimes.com/environment/story/2025-12-30/california-regulators-order-edison-to-look-for-fire-risks-on-old-lines",
+    "headline": "Hiltzik: Blondie and Dagwood are entering the public domain, but Betty Boop still may be trapped in copyright jail",
+    "link": "https://www.latimes.com/business/story/2025-12-30/cartoons-in-public-domain-blondie-dagwood-copyright-what-to-know",
     "source": "latimes",
     "pubdate": "2025-12-30-11-00-00 +0000"
   },
