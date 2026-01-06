@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "score": 9,
+    "pubdate": "2026-01-05-22-53-01 +0000",
+    "source": "startribune",
+    "headline": "US cuts the number of vaccines recommended for every child, a move slammed by physicians",
+    "link": "https://www.startribune.com/us-drops-the-number-of-vaccines-it-recommends-for-every-child/601558213"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-05-22-53-15 +0000",
+    "source": "nyt",
+    "headline": "Maduro Hires Barry Pollack, Lawyer Who Defended Julian Assange",
+    "link": "https://www.nytimes.com/2026/01/05/world/americas/barry-pollack-maduro-lawyer-assange.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-05-22-53-08 +0000",
+    "source": "nyt",
+    "headline": "Russia Once Offered U.S. Control of Venezuela for Free Rein in Ukraine",
+    "link": "https://www.nytimes.com/2026/01/06/world/americas/russia-us-venezuela-ukraine.html"
+  }
+]
