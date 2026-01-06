@@ -1,30 +1,72 @@
 [
   {
-    "score": 19,
-    "pubdate": "2026-01-06-02-24-00 +0000",
+    "score": 40,
+    "pubdate": "2026-01-06-03-40-00 +0000",
     "source": "wsj",
-    "headline": "In the wake of the Trump administration cutting child-care funds to Minnesota, it has expanded its social-services funding freeze to include California, Colorado, Illinois and New York",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-to-freeze-social-service-funds-in-more-democratic-states-bcb35c1d"
+    "headline": "Democrats’ appetite for another shutdown looks diminished in the wake of the 43-day government-funding lapse, driven by centrists who worry that too much damage was inflicted on American households",
+    "link": "https://www.wsj.com/politics/policy/democrat-government-shutdown-funding-bill-deadline-777ad7a2"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-01-06-03-40-30 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Foray Into Venezuela Could Embolden Russia’s and China’s Own Aggression",
+    "link": "https://www.nytimes.com/2026/01/05/world/europe/trump-venezuela-china-russia.html"
   },
   {
     "score": 18,
-    "pubdate": "2026-01-06-02-24-20 +0000",
-    "source": "nyt",
-    "headline": "Outside at Maduro’s Court Appearance: Flags, Chants and Venezuelans’ Quiet Pain",
-    "link": "https://www.nytimes.com/2026/01/05/world/americas/maduro-new-york-arraignment-venezuela-protest.html"
+    "pubdate": "2026-01-06-03-26-38 +0000",
+    "source": "bbc",
+    "headline": "Hyundai to use human-like robots in factories",
+    "link": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-06-03-47-29 +0000",
+    "source": "bbc",
+    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+    "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-06-03-41-04 +0000",
+    "source": "bbc",
+    "headline": "Nvidia unveils 'reasoning' AI technology for self-driving cars",
+    "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-06-04-00-13 +0000",
+    "source": "nypost",
+    "headline": "Anxious Venezuelan security forces open fire on drones flying near presidential palace, situation ‘under control’",
+    "link": "https://nypost.com/2026/01/05/world-news/anxious-venezuelan-security-forces-open-fire-on-drones-flying-near-presidential-palace/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-06-03-17-22 +0000",
+    "source": "startribune",
+    "headline": "Gophers football team adds receiver Perry Thomas, defensive tackle Naquan Crowder in portal",
+    "link": "https://www.startribune.com/gophers-add-defensive-tackle-naquan-crowder-a-transfer-from-marshall/601558385"
   },
   {
     "score": 10,
-    "pubdate": "2026-01-06-02-24-22 +0000",
+    "pubdate": "2026-01-06-03-30-00 +0000",
+    "source": "wsj",
+    "headline": "Steel Dynamics, SGH Bid $8.8 Billion to Acquire BlueScope Steel",
+    "link": "https://www.wsj.com/business/deals/bluescope-steel-gets-8-8-billion-takeover-offer-from-sgh-steel-dynamics-cabedf36?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-06-03-52-53 +0000",
     "source": "nyt",
     "headline": "Venezuela Live Updates: At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Caracas",
     "link": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump"
   },
   {
-    "score": 0,
-    "pubdate": "2026-01-06-02-24-20 +0000",
+    "score": 9,
+    "pubdate": "2026-01-06-03-42-17 +0000",
     "source": "nyt",
-    "headline": "Outside at Maduro’s Court Appearance: Flags, Chants and Venezuelans’ Quiet Pain",
-    "link": "https://www.nytimes.com/2026/01/05/world/americas/maduro-new-york-arraignment-venezuela-protest.html"
+    "headline": "After Venezuela, Trump Offers Hints About What Could Be Next",
+    "link": "https://www.nytimes.com/2026/01/05/us/politics/trump-venezuela-monroe-doctrine.html"
   }
 ]
