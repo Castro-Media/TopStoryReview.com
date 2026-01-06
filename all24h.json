@@ -1,39 +1,111 @@
 [
   {
+    "headline": "Electric car discounts are unsustainable, warns industry group",
+    "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-58-39 +0000"
+  },
+  {
+    "headline": "Texas police solve state’s oldest missing persons cold case — and bring closure to victim’s surviving brother",
+    "link": "https://nypost.com/2026/01/06/us-news/texas-police-solve-states-oldest-missing-persons-cold-case-and-bring-closure-to-victims-surviving-brother/",
+    "source": "nypost",
+    "pubdate": "2026-01-06-06-47-24 +0000"
+  },
+  {
+    "headline": "KKR, Warburg Pincus Among Suitors for Southeast Asia School Operator",
+    "link": "https://www.wsj.com/finance/investing/kkr-warburg-pincus-among-suitors-for-southeast-asia-school-operator-bcdbe6e3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-06-06-47-00 +0000"
+  },
+  {
+    "headline": "KKR, Warburg Pincus Among Suitors for Southeast Asia School Operator",
+    "link": "https://www.wsj.com/finance/investing/kkr-warburg-pincus-among-suitors-for-southeast-asia-school-operator-bcdbe6e3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-06-06-47-00 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Rise, Curve Steepens",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-tracking-gains-in-u-s-treasurys-7667652e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-06-06-44-00 +0000"
+  },
+  {
+    "headline": "California teen dies of overdose after months seeking drug advice from ChatGPT, mother claims",
+    "link": "https://nypost.com/2026/01/06/us-news/california-teen-dies-of-overdose-after-months-seeking-drug-advice-from-chatgpt-mother-claims/",
+    "source": "nypost",
+    "pubdate": "2026-01-06-06-35-22 +0000"
+  },
+  {
+    "headline": "Health Dept. to Freeze $10 Billion in Funding to 5 Democratic States",
+    "link": "https://www.nytimes.com/2026/01/06/us/politics/child-care-funding-cuts-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-31-57 +0000"
+  },
+  {
+    "headline": "Health Dept. to Freeze $10 Billion in Funding to 5 Democratic States",
+    "link": "https://www.nytimes.com/2026/01/06/us/politics/child-care-funding-cuts-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-31-57 +0000"
+  },
+  {
+    "headline": "Families 'not aware' of winter fuel eligibility",
+    "link": "https://www.bbc.com/news/articles/cjrz2078v55o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-30-58 +0000"
+  },
+  {
+    "headline": "Central African Republic President Touadéra wins third term",
+    "link": "https://www.bbc.com/news/articles/c0q40xg3j0jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-30-15 +0000"
+  },
+  {
+    "headline": "Stephen Miller dismisses the idea Denmark would fight for Greenland, claims it should be part of the US",
+    "link": "https://nypost.com/2026/01/06/us-news/stephen-miller-dismisses-the-idea-denmark-would-fight-for-greenland-claims-it-should-be-part-of-the-us/",
+    "source": "nypost",
+    "pubdate": "2026-01-06-06-27-03 +0000"
+  },
+  {
+    "headline": "Warm Welcome spaces have vital 'social aspect'",
+    "link": "https://www.bbc.com/news/articles/c3dmxnyeg91o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-21-29 +0000"
+  },
+  {
+    "headline": "At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Venezuela",
+    "link": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-12-29 +0000"
+  },
+  {
+    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
+    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-12-28 +0000"
+  },
+  {
+    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
+    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
+    "source": "nyt",
+    "pubdate": "2026-01-06-06-12-28 +0000"
+  },
+  {
+    "headline": "Chris Mason: Starmer's strategy of avoiding criticising Trump over Maduro",
+    "link": "https://www.bbc.com/news/articles/cr4kr7r9ew2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-06-06-10-43 +0000"
+  },
+  {
     "headline": "Global Ripples From Venezuela",
     "link": "https://www.nytimes.com/2026/01/05/world/venezuela-global-implications-trump-maduro-iran.html",
     "source": "nyt",
     "pubdate": "2026-01-06-05-37-18 +0000"
   },
   {
-    "headline": "Most JGBs Fall After 10-Year Auction’s Weak Outcome",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-tracking-gains-in-u-s-treasurys-7667652e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-06-05-33-00 +0000"
-  },
-  {
     "headline": "S.F. judge tosses lawsuit claiming Great Highway closure was illegal",
     "link": "https://missionlocal.org/2026/01/sf-judge-dismiss-lawsuit-great-highway/",
     "source": "missionlocal",
     "pubdate": "2026-01-06-05-29-20 +0000"
-  },
-  {
-    "headline": "Venezuela Live Updates: At U.N. Emergency Meeting, U.S. Allies Criticize Military Action in Caracas",
-    "link": "https://www.nytimes.com/live/2026/01/05/world/venezuela-maduro-trump",
-    "source": "nyt",
-    "pubdate": "2026-01-06-05-16-03 +0000"
-  },
-  {
-    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
-    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
-    "source": "nyt",
-    "pubdate": "2026-01-06-05-16-01 +0000"
-  },
-  {
-    "headline": "Maduro’s Gesture Was Not Just a Peace Sign",
-    "link": "https://www.nytimes.com/2026/01/06/world/americas/maduro-gesture-peace-sign.html",
-    "source": "nyt",
-    "pubdate": "2026-01-06-05-16-01 +0000"
   },
   {
     "headline": "Machete-wielding man shot, killed by police at NJ home — as 3 victims discovered dead inside residence",
@@ -192,13 +264,13 @@
     "pubdate": "2026-01-06-03-49-53 +0000"
   },
   {
-    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty",
     "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-06-03-47-29 +0000"
   },
   {
-    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty",
     "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-06-03-47-29 +0000"
@@ -792,12 +864,6 @@
     "pubdate": "2026-01-06-00-02-46 +0000"
   },
   {
-    "headline": "Electric car discounts are 'unsustainable' as sales climb, car group warns",
-    "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-06-00-02-07 +0000"
-  },
-  {
     "headline": "Socialite convicted of helping Jennifer Dulos’ estranged husband cover up her murder asks for prison release",
     "link": "https://nypost.com/2026/01/05/us-news/socialite-convicted-of-helping-jennifer-dulos-estranged-husband-cover-up-her-murder-asks-for-prison-release/",
     "source": "nypost",
@@ -816,13 +882,13 @@
     "pubdate": "2026-01-05-23-50-43 +0000"
   },
   {
-    "headline": "A prediction market user made $436,000 betting on Maduro's downfall",
+    "headline": "Anonymous cypto gambler made $436,000 on Maduro capture",
     "link": "https://www.bbc.com/news/articles/cx2gn93292do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-05-23-44-35 +0000"
   },
   {
-    "headline": "A prediction market user made $436,000 betting on Maduro's downfall",
+    "headline": "Anonymous cypto gambler made $436,000 on Maduro capture",
     "link": "https://www.bbc.com/news/articles/cx2gn93292do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-05-23-44-35 +0000"
@@ -900,18 +966,6 @@
     "pubdate": "2026-01-05-23-30-52 +0000"
   },
   {
-    "headline": "NYPD hunts for underaged brutes who fractured elderly woman’s elbow in Central Park",
-    "link": "https://nypost.com/2026/01/05/us-news/nypd-hunt-for-juvenile-brutes-who-fractured-elderly-womans-elbow-in-central-park/",
-    "source": "nypost",
-    "pubdate": "2026-01-05-23-26-19 +0000"
-  },
-  {
-    "headline": "Zelensky shockingly boots ‘Hero of Ukraine’ spy chief who led daring raids against Russia",
-    "link": "https://nypost.com/2026/01/05/us-news/zelensky-boots-hero-of-ukraine-spy-chief-who-led-daring-raids-against-russia/",
-    "source": "nypost",
-    "pubdate": "2026-01-05-23-23-07 +0000"
-  },
-  {
     "headline": "Charter-jet travelers may be stuck in the Caribbean longer than everyone else after Maduro capture — and they’re melting down over it",
     "link": "https://nypost.com/2026/01/05/business/caribbean-airspace-closure-highlighted-wealth-differences/",
     "source": "nypost",
@@ -928,12 +982,6 @@
     "link": "https://www.wsj.com/business/hospitality/hilton-lands-in-dhs-crosshairs-after-ice-agents-hotel-reservations-are-canceled-ecccd0a9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-05-23-15-00 +0000"
-  },
-  {
-    "headline": "Junk fees, hard-to-stop subscriptions for ‘working people’ face Mamdani crackdown in NYC",
-    "link": "https://nypost.com/2026/01/05/us-news/junk-fees-hard-to-stop-subscriptions-face-mamdani-crackdown-in-nyc-a-sign-of-disdain-and-disrespect/",
-    "source": "nypost",
-    "pubdate": "2026-01-05-23-13-55 +0000"
   },
   {
     "headline": "Venezuelans wait anxiously as their country's future hangs in the balance, says resident",
@@ -1534,6 +1582,12 @@
     "link": "https://nypost.com/2026/01/05/world-news/masai-giraffe-dies-after-freak-accident-at-toronto-zoo/",
     "source": "nypost",
     "pubdate": "2026-01-05-20-29-42 +0000"
+  },
+  {
+    "headline": "Nonprofit That Funded NPR and PBS to Dissolve After 58 Years",
+    "link": "https://www.wsj.com/business/media/nonprofit-that-funded-npr-and-pbs-to-dissolve-after-58-years-693b5b8e",
+    "source": "wsj",
+    "pubdate": "2026-01-05-20-27-00 +0000"
   },
   {
     "headline": "Nonprofit That Funded NPR and PBS to Dissolve After 58 Years",
@@ -2998,65 +3052,5 @@
     "link": "https://www.bbc.com/news/articles/cm240jvnen0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-05-07-54-38 +0000"
-  },
-  {
-    "headline": "Kevin O’Leary on ‘Marty Supreme’ and Notes He Gave Josh Safdie",
-    "link": "https://www.nytimes.com/2026/01/04/movies/marty-supreme-cast-kevin-oleary.html",
-    "source": "nyt",
-    "pubdate": "2026-01-05-07-37-21 +0000"
-  },
-  {
-    "headline": "What's behind PM's notable shift on closer ties to Europe?",
-    "link": "https://www.bbc.com/news/articles/c62vzmle530o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-07-18-41 +0000"
-  },
-  {
-    "headline": "What's behind Starmer's notable shift on closer ties to Europe?",
-    "link": "https://www.bbc.com/news/articles/c62vzmle530o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-07-18-41 +0000"
-  },
-  {
-    "headline": "What's behind PM's notable shift on closer ties to Europe?",
-    "link": "https://www.bbc.com/news/articles/c62vzmle530o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-07-18-41 +0000"
-  },
-  {
-    "headline": "Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers",
-    "link": "https://www.nytimes.com/2026/01/04/world/africa/nigeria-killings-niger-state.html",
-    "source": "nyt",
-    "pubdate": "2026-01-05-07-11-04 +0000"
-  },
-  {
-    "headline": "Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers",
-    "link": "https://www.nytimes.com/2026/01/04/world/africa/nigeria-killings-niger-state.html",
-    "source": "nyt",
-    "pubdate": "2026-01-05-07-11-04 +0000"
-  },
-  {
-    "headline": "Sound of 2026: Reluctant rockers Royel Otis tipped for success",
-    "link": "https://www.bbc.com/news/articles/cgl825nz9nlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-07-02-28 +0000"
-  },
-  {
-    "headline": "No bail for Indian activists after five years in jail without trial",
-    "link": "https://www.bbc.com/news/articles/cd0ye2z33x9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-06-57-07 +0000"
-  },
-  {
-    "headline": "After Venezuela, Trump hints at more military action in region",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-05-06-46-00 +0000"
-  },
-  {
-    "headline": "New funding launched for low income households",
-    "link": "https://www.bbc.com/news/articles/c3vek2p6yypo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-06-04-20 +0000"
   }
 ]
