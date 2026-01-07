@@ -1,59 +1,45 @@
 [
   {
-    "score": 263,
-    "pubdate": "2026-01-06-22-21-00 +0000",
+    "score": 311,
+    "pubdate": "2026-01-07-00-40-00 +0000",
     "source": "wsj",
-    "headline": "The White House said the real crime on Jan. 6, 2021 was the certification of Joe Biden’s win over President Trump, not the actions of the pro-Trump mob that stormed the U.S. Capitol",
-    "link": "https://www.wsj.com/politics/policy/white-house-recasts-jan-6-riot-as-peaceful-protest-90019e98"
+    "headline": "President Trump said Tuesday that Venezuela’s interim authorities will give the U.S. between 30 million and 50 million barrels of sanctioned oil, with proceeds overseen by the White House",
+    "link": "https://www.wsj.com/politics/policy/venezuela-to-give-u-s-up-to-50-million-barrels-of-oil-trump-says-c964eb48"
   },
   {
-    "score": 169,
-    "pubdate": "2026-01-06-21-21-04 +0000",
-    "source": "nyt",
-    "headline": "After Maduro’s Ouster, Marco Rubio Faces the Challenge of Running Venezuela",
-    "link": "https://www.nytimes.com/2026/01/06/us/politics/rubio-venezuela-future.html"
+    "score": 99,
+    "pubdate": "2026-01-06-19-39-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s insistence that the U.S. should take control of Greenland was met with disbelief and dismay on Capitol Hill, with some Republicans warning that a seizure of the island was too dangerous to even contemplate",
+    "link": "https://www.wsj.com/politics/policy/trump-greenland-republican-reaction-0c51fb0c"
   },
   {
-    "score": 86,
+    "score": 96,
+    "pubdate": "2026-01-06-19-31-05 +0000",
+    "source": "nypost",
+    "headline": "Interim Venezuelan President Delcy Rodríguez names Maduro’s torture czar as head of security",
+    "link": "https://nypost.com/2026/01/06/world-news/delcy-rodriguez-names-maduros-torture-czar-as-her-head-of-security/"
+  },
+  {
+    "score": 91,
     "pubdate": "2026-01-06-02-24-00 +0000",
     "source": "wsj",
     "headline": "In the wake of the Trump administration cutting child-care funds to Minnesota, it has expanded its social-services funding freeze to include California, Colorado, Illinois and New York",
     "link": "https://www.wsj.com/politics/policy/trump-administration-to-freeze-social-service-funds-in-more-democratic-states-bcb35c1d"
   },
   {
-    "score": 79,
-    "pubdate": "2026-01-06-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Trump's Greenland annexation threats overshadow Ukraine security conference",
-    "link": "https://www.cbc.ca/news/politics/trump-ukraine-venezuela-maduro-carney-greenland-9.7034482?cmp=rss"
+    "score": 78,
+    "pubdate": "2026-01-06-20-45-00 +0000",
+    "source": "wsj",
+    "headline": "U.K. and France Agree to Set Up Military Hubs Across Ukraine After Cease-Fire",
+    "link": "https://www.wsj.com/world/europe/u-k-and-france-agree-to-set-up-military-hubs-across-ukraine-after-ceasefire-3d69c8fc"
   },
   {
     "score": 63,
-    "pubdate": "2026-01-06-11-53-09 +0000",
-    "source": "nypost",
-    "headline": "Venezuelan opposition leader declares she would love to ‘personally’ give Trump her Nobel Peace Prize: ‘It was impossible to achieve what he has’",
-    "link": "https://nypost.com/2026/01/06/world-news/venezuelan-opposition-leader-maria-corina-machado-declares-she-would-love-to-personally-give-trump-her-nobel-peace-prize/"
-  },
-  {
-    "score": 62,
     "pubdate": "2026-01-06-10-30-23 +0000",
     "source": "bbc",
     "headline": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
     "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-01-06-14-57-22 +0000",
-    "source": "bbc",
-    "headline": "Trump claims US oil firms could be 'up and running' in Venezuela within 18 months",
-    "link": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-01-06-16-16-53 +0000",
-    "source": "bbc",
-    "headline": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
-    "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 53,
@@ -63,10 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/democrat-government-shutdown-funding-bill-deadline-777ad7a2"
   },
   {
+    "score": 53,
+    "pubdate": "2026-01-06-16-25-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Reserve governor Stephen Miran said he is not among the finalists President Trump is considering for the Fed chair role and he hasn’t raised his hand for the job",
+    "link": "https://www.wsj.com/economy/central-banking/feds-miran-hasnt-spoken-with-trump-about-fed-chair-job-9cacba0b"
+  },
+  {
     "score": 50,
-    "pubdate": "2026-01-06-22-02-12 +0000",
-    "source": "nypost",
-    "headline": "Tim Walz melts down after dropping reelection bid, rejects growing calls to resign: ‘Over my dead body!’",
-    "link": "https://nypost.com/2026/01/06/us-news/tim-walz-melts-down-after-dropping-reelection-bid-rejects-calls-to-resign/"
+    "pubdate": "2026-01-06-15-12-50 +0000",
+    "source": "latimes",
+    "headline": "California Rep. Doug LaMalfa dies, further narrowing GOP margin in Congress",
+    "link": "https://www.latimes.com/california/story/2026-01-06/california-congressman-doug-lamalfa-dies"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-01-06-21-51-00 +0000",
+    "source": "wsj",
+    "headline": "Secretary of State Rubio told lawmakers that recent administration threats against Greenland didn’t signal an imminent invasion and that the goal is to buy the island from Denmark, according to people familiar with the discussions",
+    "link": "https://www.wsj.com/politics/national-security/rubio-tells-lawmakers-trump-aims-to-buy-greenland-downplays-military-action-5c94e05c"
   }
 ]

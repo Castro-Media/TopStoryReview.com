@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-01-06-22-55-05 +0000",
+    "score": 78,
+    "pubdate": "2026-01-07-00-40-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said Tuesday that Venezuela’s interim authorities will give the U.S. between 30 million and 50 million barrels of sanctioned oil, with proceeds overseen by the White House",
+    "link": "https://www.wsj.com/politics/policy/venezuela-to-give-u-s-up-to-50-million-barrels-of-oil-trump-says-c964eb48"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-07-01-08-31 +0000",
     "source": "nyt",
-    "headline": "Bela Tarr, Titan of Slow-Moving Cinema, Is Dead at 70",
-    "link": "https://www.nytimes.com/2026/01/06/movies/bela-tarr-dead.html"
+    "headline": "U.S. Pressures Venezuela to Expel Advisers From Cuba, China, Russia and Iran",
+    "link": "https://www.nytimes.com/2026/01/06/world/americas/us-venezuela-cuba-russia-china-iran.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-07-00-34-18 +0000",
+    "source": "startribune",
+    "headline": "Hilton removes Minnesota hotel from chain for refusing to house ICE agents; staff maintains all welcome",
+    "link": "https://www.startribune.com/hilton-removes-minnesota-hotel-from-chain-for-refusing-to-house-ice-agents-staff-maintains-all-welcome/601558872"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-07-01-05-46 +0000",
+    "source": "nyt",
+    "headline": "Doug LaMalfa Is Dead: Republican Congressman From California Was 65",
+    "link": "https://www.nytimes.com/2026/01/06/us/politics/doug-lamalfa-dead.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-07-01-08-32 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Venezuelans March in Support of Maduro as New Leader Rejects Trump’s Claim",
+    "link": "https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-07-01-07-35 +0000",
+    "source": "nypost",
+    "headline": "Notorious ‘Torso Killer’ Richard Cottingham confesses to 1965 cold case killing of 18-year-old nursing student",
+    "link": "https://nypost.com/2026/01/06/us-news/notorious-torso-killer-richard-cottingham-tied-to-new-cold-case-killing-of-18-year-old-nursing-student/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-07-00-29-15 +0000",
+    "source": "wapo",
+    "headline": "Brown University suspect admitted to planning shooting for a long time, prosecutors say",
+    "link": "https://www.washingtonpost.com/nation/2026/01/06/brown-university-shooting-videos/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-07-00-50-19 +0000",
+    "source": "latimes",
+    "headline": "Cars are vanishing from driveways. Mystery tow truck thefts leave SoCal drivers angry, uneasy",
+    "link": "https://www.latimes.com/california/story/2026-01-06/as-tow-truck-steals-cars-from-socal-driveways-owners-frustrated-mad"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-07-00-21-47 +0000",
+    "source": "nyt",
+    "headline": "Stephen Miller Offers a Strongman’s View of the World",
+    "link": "https://www.nytimes.com/2026/01/06/us/politics/stephen-miller-foreign-policy.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-07-00-52-35 +0000",
+    "source": "nypost",
+    "headline": "Texas man allegedly shoots married couple he met on dating app, killing wife",
+    "link": "https://nypost.com/2026/01/06/us-news/texas-man-allegedly-shoots-married-couple-he-met-on-dating-app-killing-1/"
   }
 ]
