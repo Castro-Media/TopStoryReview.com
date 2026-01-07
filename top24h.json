@@ -1,20 +1,20 @@
 [
   {
-    "score": 304,
+    "score": 302,
     "pubdate": "2026-01-07-01-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said Venezuela’s interim authorities will give the U.S. between 30 million and 50 million barrels of sanctioned oil, with proceeds overseen by the White House",
     "link": "https://www.wsj.com/politics/policy/venezuela-to-give-u-s-up-to-50-million-barrels-of-oil-trump-says-c964eb48"
   },
   {
-    "score": 100,
+    "score": 99,
     "pubdate": "2026-01-06-19-39-00 +0000",
     "source": "wsj",
     "headline": "Trump’s insistence that the U.S. should take control of Greenland was met with disbelief and dismay on Capitol Hill, with some Republicans warning that a seizure of the island was too dangerous to even contemplate",
     "link": "https://www.wsj.com/politics/policy/trump-greenland-republican-reaction-0c51fb0c"
   },
   {
-    "score": 97,
+    "score": 90,
     "pubdate": "2026-01-06-19-31-05 +0000",
     "source": "nypost",
     "headline": "Interim Venezuelan President Delcy Rodríguez names Maduro’s torture czar as head of security",
@@ -28,13 +28,6 @@
     "link": "https://www.wsj.com/world/europe/u-k-and-france-agree-to-set-up-military-hubs-across-ukraine-after-ceasefire-3d69c8fc"
   },
   {
-    "score": 64,
-    "pubdate": "2026-01-06-10-30-23 +0000",
-    "source": "bbc",
-    "headline": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
-    "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 63,
     "pubdate": "2026-01-06-03-40-00 +0000",
     "source": "wsj",
@@ -42,11 +35,18 @@
     "link": "https://www.wsj.com/politics/policy/democrat-government-shutdown-funding-bill-deadline-777ad7a2"
   },
   {
-    "score": 61,
-    "pubdate": "2026-01-06-23-17-54 +0000",
-    "source": "latimes",
-    "headline": "New California tool can stop brokers from selling your personal online data. Here's how",
-    "link": "https://www.latimes.com/california/story/2026-01-06/new-california-tool-can-stop-collection-sale-of-online-personal-data"
+    "score": 62,
+    "pubdate": "2026-01-06-10-30-23 +0000",
+    "source": "bbc",
+    "headline": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
+    "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-01-06-18-36-00 +0000",
+    "source": "wsj",
+    "headline": "Republican Rep. Doug LaMalfa, who represented a district in Northern California for 13 years, has died. His death narrows the GOP’s slim majority.",
+    "link": "https://www.wsj.com/politics/policy/doug-lamalfa-california-dies-republican-house-majority-7789a167"
   },
   {
     "score": 55,
@@ -63,10 +63,10 @@
     "link": "https://www.wsj.com/politics/national-security/rubio-tells-lawmakers-trump-aims-to-buy-greenland-downplays-military-action-5c94e05c"
   },
   {
-    "score": 46,
-    "pubdate": "2026-01-06-15-12-50 +0000",
-    "source": "latimes",
-    "headline": "California Rep. Doug LaMalfa dies, further narrowing GOP margin in Congress",
-    "link": "https://www.latimes.com/california/story/2026-01-06/california-congressman-doug-lamalfa-dies"
+    "score": 48,
+    "pubdate": "2026-01-06-23-04-34 +0000",
+    "source": "startribune",
+    "headline": "New CBS News anchor Tony Dokoupil will broadcast from Minneapolis next week",
+    "link": "https://www.startribune.com/new-cbs-news-anchor-tony-dokoupil-will-broadcast-from-minneapolis-next-week/601558104"
   }
 ]

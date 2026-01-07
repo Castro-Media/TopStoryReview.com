@@ -1,66 +1,17 @@
 [
   {
-    "score": 30,
-    "pubdate": "2026-01-07-02-05-55 +0000",
-    "source": "nyt",
-    "headline": "After Trump’s Military Victory in Venezuela, Cuba’s Economy Is in ‘Freefall’",
-    "link": "https://www.nytimes.com/2026/01/06/world/americas/cuba-economy-venezuela-oil.html"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-01-07-02-19-55 +0000",
-    "source": "nypost",
-    "headline": "Billionaire NASA chief will allow ‘exceptional’ employees to fly in his privately-owned fighter jet",
-    "link": "https://nypost.com/2026/01/06/us-news/billionaire-nasa-chief-will-allow-exceptional-employees-to-fly-in-his-privately-owned-fighter-jet/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-01-07-01-51-56 +0000",
-    "source": "bbc",
-    "headline": "US discussing options to acquire Greenland, including use of military, says White House",
-    "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-07-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Venezuela’s Machado Stole the World’s Attention. Now She Is Frozen Out.",
-    "link": "https://www.wsj.com/world/americas/venezuelas-machado-stole-the-worlds-attention-now-she-is-frozen-out-0380c083?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-07-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Standing between President Trump and his vision for a stable, U.S.-friendly oil power looms one man: Diosdado Cabello",
-    "link": "https://www.wsj.com/world/americas/the-brutal-maduro-enforcer-standing-in-trumps-way-in-venezuela-65102c3a"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-07-01-40-32 +0000",
-    "source": "nypost",
-    "headline": "Cold-blooded Brown University, MIT shooter expressed no regrets over carnage in chilling video confessions: feds",
-    "link": "https://nypost.com/2026/01/06/us-news/cold-blooded-brown-university-mit-shooter-expressed-no-regrets-over-carnage-in-chilling-video-confession-feds/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-01-07-02-21-27 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Venezuelans March in Support of Maduro as New Leader Rejects Trump’s Claim",
-    "link": "https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump"
-  },
-  {
-    "score": 12,
+    "score": 16,
     "pubdate": "2026-01-07-02-24-11 +0000",
     "source": "nyt",
     "headline": "Justice Dept. Memo Approved Military Incursion Into Venezuela as Lawful",
     "link": "https://www.nytimes.com/2026/01/06/us/politics/justice-dept-memo-venezuela.html"
   },
   {
-    "score": 12,
-    "pubdate": "2026-01-07-01-37-26 +0000",
-    "source": "nypost",
-    "headline": "NYC gives king of trash TV Andy Cohen an offer he can’t refuse: ‘Hilarious and ironic’",
-    "link": "https://nypost.com/2026/01/06/us-news/nyc-gives-king-of-trash-tv-andy-cohen-an-offer-he-cant-refuse-hilarious-and-ironic/"
+    "score": 11,
+    "pubdate": "2026-01-07-02-21-27 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Venezuelans March in Support of Maduro as New Leader Rejects Trump’s Claim",
+    "link": "https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump"
   },
   {
     "score": 10,
@@ -68,5 +19,19 @@
     "source": "nypost",
     "headline": "Maryland corrections officer dies in truck crash hours after his NYE retirement party",
     "link": "https://nypost.com/2026/01/06/us-news/maryland-corrections-officer-dies-in-truck-crash-hours-after-his-nye-retirement-party/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-01-07-02-29-00 +0000",
+    "source": "wsj",
+    "headline": "Australia’s Consumer Inflation Eases Slightly",
+    "link": "https://www.wsj.com/economy/australias-consumer-inflation-eases-slightly-4462da8d"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-07-02-24-11 +0000",
+    "source": "nyt",
+    "headline": "Justice Dept. Memo Approved Military Incursion Into Venezuela as Lawful",
+    "link": "https://www.nytimes.com/2026/01/06/us/politics/justice-dept-memo-venezuela.html"
   }
 ]
