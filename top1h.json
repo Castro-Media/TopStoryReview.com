@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "score": 24,
+    "pubdate": "2026-01-08-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. pumps more oil than any other country. So why do President Trump and officials, including Secretary of State Marco Rubio, think American refineries need Venezuelan crude?",
+    "link": "https://www.wsj.com/business/energy-oil/us-venezuela-crude-oil-refining-df3854d1"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-08-13-03-01 +0000",
+    "source": "nyt",
+    "headline": "Saudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape",
+    "link": "https://www.nytimes.com/2026/01/08/world/middleeast/saudi-arabia-uae-yemen-separatist-zubaidi.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-08-13-03-29 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Trump Says U.S. Will ‘Rebuild’ Venezuela and Suggests He Won’t Act in Colombia",
+    "link": "https://www.nytimes.com/live/2026/01/08/world/us-venezuela-trump"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-08-13-00-44 +0000",
+    "source": "wapo",
+    "headline": "He spends 12 hours making art in the snow, then watches it vanish",
+    "link": "https://www.washingtonpost.com/lifestyle/2026/01/08/snow-artist-simon-beck-map/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-08-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. Pumps More Crude Than Anyone Else. Here’s Why It Wants Venezuela’s Too.",
+    "link": "https://www.wsj.com/business/energy-oil/us-venezuela-crude-oil-refining-df3854d1?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-08-13-02-56 +0000",
+    "source": "bbc",
+    "headline": "Government to U-turn over business rate rise for pubs",
+    "link": "https://www.bbc.com/news/articles/c8e57dexly1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-08-13-03-01 +0000",
+    "source": "nyt",
+    "headline": "Saudi Official Accuses U.A.E. of Helping Yemeni Separatist to Escape",
+    "link": "https://www.nytimes.com/2026/01/08/world/middleeast/saudi-arabia-uae-yemen-separatist-zubaidi.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-08-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. Pumps More Crude Than Anyone Else. Here’s Why It Wants Venezuela’s Too.",
+    "link": "https://www.wsj.com/business/energy-oil/us-venezuela-crude-oil-refining-df3854d1?mod=pls_whats_news_us_business_f"
+  }
+]
