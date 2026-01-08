@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/01/07/business/china-hainan-island-duty-free.html"
   },
   {
-    "score": 101,
-    "pubdate": "2026-01-07-19-57-13 +0000",
-    "source": "cbc",
-    "headline": "Protests escalate after ICE agent fatally shoots woman in Minneapolis",
-    "link": "https://www.cbc.ca/news/world/livestory/ice-shooting-minneapolis-live-updates-9.7036845?cmp=rss"
-  },
-  {
     "score": 100,
     "pubdate": "2026-01-08-18-13-50 +0000",
     "source": "nypost",
     "headline": "Russia rejects Trump’s 20-point peace plan for Ukraine: ‘Forming a true axis of war’",
     "link": "https://nypost.com/2026/01/08/us-news/russia-rejects-trumps-20-point-peace-plan-for-ukraine-forming-a-true-axis-of-war/"
+  },
+  {
+    "score": 100,
+    "pubdate": "2026-01-07-19-57-13 +0000",
+    "source": "cbc",
+    "headline": "Protests escalate after ICE agent fatally shoots woman in Minneapolis",
+    "link": "https://www.cbc.ca/news/world/livestory/ice-shooting-minneapolis-live-updates-9.7036845?cmp=rss"
   }
 ]
