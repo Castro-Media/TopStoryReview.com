@@ -1,15 +1,285 @@
 [
   {
+    "headline": "Tesco and M&S report strong  Christmas food sales",
+    "link": "https://www.bbc.com/news/articles/cp82ylmy6d1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-55-12 +0000"
+  },
+  {
+    "headline": "Eurozone Bond Yields Rise Slightly as Investors Prepare for Large Supply",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-08e1ec2a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-49-00 +0000"
+  },
+  {
+    "headline": "Minister blames 'slow' watchdog for trans guidance delay",
+    "link": "https://www.bbc.com/news/articles/cr4k61dqnzlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-48-33 +0000"
+  },
+  {
+    "headline": "German Factory Orders Jump as Tariff Headwinds Ease",
+    "link": "https://www.wsj.com/economy/german-factory-orders-jump-6fe15c8f",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-48-00 +0000"
+  },
+  {
+    "headline": "German Factory Orders Jump as Tariff Headwinds Ease",
+    "link": "https://www.wsj.com/economy/german-factory-orders-jump-6fe15c8f",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-48-00 +0000"
+  },
+  {
+    "headline": "Trump Sits Down With Times Reporters for Two-Hour Interview",
+    "link": "https://www.nytimes.com/2026/01/08/us/trump-new-york-times-reporter-interview.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-42-39 +0000"
+  },
+  {
+    "headline": "Oil Rises As Traders Weigh U.S. Crude Draw, Venezuela Developments",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-u-s-escalates-venezuela-oil-embargo-af01b5ef?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-39-00 +0000"
+  },
+  {
+    "headline": "Why Russian Tourists Are Flocking to Southern China’s Beaches",
+    "link": "https://www.nytimes.com/2026/01/08/world/asia/china-hainan-russian-tourists.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-37-09 +0000"
+  },
+  {
+    "headline": "Why Russian Tourists Are Flocking to Southern China’s Beaches",
+    "link": "https://www.nytimes.com/2026/01/08/world/asia/china-hainan-russian-tourists.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-37-09 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Dow, S&P 500 Futures Fall",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-08-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-34-47 +0000"
+  },
+  {
+    "headline": "2 Killed in Shooting Outside Mormon Church in Salt Lake City",
+    "link": "https://www.nytimes.com/2026/01/08/us/salt-lake-city-church-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-29-51 +0000"
+  },
+  {
+    "headline": "Swiss Inflation Inches Up as SNB Mulls Rate Path",
+    "link": "https://www.wsj.com/economy/swiss-inflation-inches-up-as-snb-mulls-rate-path-0ce05d92",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-23-00 +0000"
+  },
+  {
+    "headline": "Primark Owner AB Foods Warns on Profit After Sales Growth Misses Expectations",
+    "link": "https://www.wsj.com/business/retail/ab-foods-says-primark-sales-growth-missed-expectations-a7df6eaa?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-22-00 +0000"
+  },
+  {
+    "headline": "Dollar Rises as Data Argue Against Near-Term Rate Cut",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-geopolitical-tensions-may-weigh-a4b31b0b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-17-00 +0000"
+  },
+  {
+    "headline": "Tesco Says It Expects to Hit Higher End of Profit Target",
+    "link": "https://www.wsj.com/business/retail/tesco-says-it-expects-to-hit-higher-end-of-profit-target-0c07e5bf?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-15-00 +0000"
+  },
+  {
+    "headline": "Trump Says U.S. Oversight of Venezuela Could Last for Years",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-14-01 +0000"
+  },
+  {
+    "headline": "Trump Says U.S. Oversight of Venezuela Could Last for Years",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-14-01 +0000"
+  },
+  {
+    "headline": "Trump Says U.S. Oversight of Venezuela Could Last for Years",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-14-01 +0000"
+  },
+  {
+    "headline": "Trump Says U.S. Oversight of Venezuela Could Last for Years",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-14-01 +0000"
+  },
+  {
+    "headline": "US immigration agent fatally shoots woman in Minneapolis",
+    "link": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-11-42 +0000"
+  },
+  {
+    "headline": "US immigration agent fatally shoots woman in Minneapolis",
+    "link": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-11-42 +0000"
+  },
+  {
+    "headline": "Hoisting Russian Flags, ‘Shadow Fleet’ Edges Into the Light",
+    "link": "https://www.nytimes.com/2026/01/08/world/europe/russia-shadow-fleet-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-10-00 +0000"
+  },
+  {
+    "headline": "Hoisting Russian Flags, ‘Shadow Fleet’ Edges Into the Light",
+    "link": "https://www.nytimes.com/2026/01/08/world/europe/russia-shadow-fleet-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-08-10-00 +0000"
+  },
+  {
+    "headline": "Shell Flags Weak Oil Trading Performance",
+    "link": "https://www.wsj.com/business/energy-oil/shell-expects-higher-oil-and-gas-production-but-flags-downstream-weakness-613ad4bd?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-08-00 +0000"
+  },
+  {
+    "headline": "Inside the sub-zero lair of the world's most powerful computer",
+    "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-03-50 +0000"
+  },
+  {
+    "headline": "Inside the sub-zero lair of the world's most powerful computer",
+    "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-03-50 +0000"
+  },
+  {
+    "headline": "How AI is posing a threat to democracy in Yorkshire",
+    "link": "https://www.bbc.com/news/articles/clykpwg8lpeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-01-53 +0000"
+  },
+  {
+    "headline": "China Detains Church Leaders as Crackdown on Religion Intensifies",
+    "link": "https://www.wsj.com/world/china/china-detains-church-leaders-as-crackdown-on-religion-intensifies-98f40ce2",
+    "source": "wsj",
+    "pubdate": "2026-01-08-08-00-00 +0000"
+  },
+  {
+    "headline": "We Pressed Trump on His Conclusion About the ICE Shooting. Here’s What He Said.",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-minnesota-ice-shooting-video.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-07-59-45 +0000"
+  },
+  {
+    "headline": "We Pressed Trump on His Conclusion About the ICE Shooting. Here’s What He Said.",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-minnesota-ice-shooting-video.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-07-59-45 +0000"
+  },
+  {
+    "headline": "Renee Good, Victim in Minneapolis ICE Shooting, Remembered for Her Kindness",
+    "link": "https://www.nytimes.com/2026/01/07/us/renee-nicole-good-minneapolis-ice.html",
+    "source": "nyt",
+    "pubdate": "2026-01-08-07-58-00 +0000"
+  },
+  {
+    "headline": "Australia PM announces royal commission into Bondi shooting",
+    "link": "https://www.bbc.com/news/articles/c8x94lz0gevo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-07-53-16 +0000"
+  },
+  {
+    "headline": "Australia PM announces royal commission into Bondi shooting",
+    "link": "https://www.bbc.com/news/articles/c8x94lz0gevo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-07-53-16 +0000"
+  },
+  {
+    "headline": "Chris Mason: Trump and Starmer speak as ship seizure caps extraordinary few days",
+    "link": "https://www.bbc.com/news/articles/c1lzv045yy7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-07-38-23 +0000"
+  },
+  {
+    "headline": "Chris Mason: Trump and Starmer speak as ship seizure caps extraordinary few days",
+    "link": "https://www.bbc.com/news/articles/c1lzv045yy7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-07-38-23 +0000"
+  },
+  {
+    "headline": "Chinese EV Maker NIO to Enter Australia, New Zealand Markets This Year",
+    "link": "https://www.wsj.com/business/autos/chinese-ev-maker-nio-will-enter-australia-and-new-zealand-markets-this-year-589e609e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-08-07-21-00 +0000"
+  },
+  {
+    "headline": "7-Eleven Owner Raises Annual Profit Forecast",
+    "link": "https://www.wsj.com/business/earnings/7-eleven-owner-raises-annual-profit-forecast-e89ef86d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-08-07-16-00 +0000"
+  },
+  {
+    "headline": "Cambodia extradites alleged scam mastermind to China after arrest",
+    "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-07-15-19 +0000"
+  },
+  {
+    "headline": "Cambodia extradites alleged scam mastermind to China after arrest",
+    "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-07-15-19 +0000"
+  },
+  {
+    "headline": "Cambodia extradites alleged scam mastermind to China after arrest",
+    "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-07-15-19 +0000"
+  },
+  {
+    "headline": "In unanimous vote, S.F. commission urges release of info on Lurie-Trump call",
+    "link": "https://missionlocal.org/2026/01/sf-daniel-lurie-donald-trump-ice-call-2/",
+    "source": "missionlocal",
+    "pubdate": "2026-01-08-07-13-08 +0000"
+  },
+  {
+    "headline": "Pilot who safely landed Alaska Airlines jet after door blowout says Boeing tried to make him a ‘scapegoat’",
+    "link": "https://nypost.com/2026/01/08/us-news/alaska-airlines-pilot-says-boeing-tried-to-make-him-a-scapegoat-after-midair-cabin-panel-blowout/",
+    "source": "nypost",
+    "pubdate": "2026-01-08-07-05-25 +0000"
+  },
+  {
+    "headline": "What to know about the shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-08-07-00-18 +0000"
+  },
+  {
+    "headline": "Officials dispute Noem’s claims after woman fatally shot by ICE in Minneapolis",
+    "link": "https://www.washingtonpost.com/nation/2026/01/07/minneapolis-shooting-ice/",
+    "source": "wapo",
+    "pubdate": "2026-01-08-07-00-18 +0000"
+  },
+  {
+    "headline": "ICE officer fatally shoots woman during Minneapolis operation",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-08-06-59-56 +0000"
+  },
+  {
     "headline": "Australia to deport British man over alleged neo-Nazi links",
     "link": "https://www.bbc.com/news/articles/cgez1drnzxdo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-08-06-50-06 +0000"
   },
   {
-    "headline": "U.S. Treasury Yields Mixed as Data, Fed’s Miran Speech Awaited",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-08e1ec2a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-08-06-50-00 +0000"
+    "headline": "Australia to deport British man over alleged neo-Nazi links",
+    "link": "https://www.bbc.com/news/articles/cgez1drnzxdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-06-50-06 +0000"
   },
   {
     "headline": "Swiss nightclub owner allegedly fled with cash, destroyed evidence as 40 died in New Year’s Eve inferno",
@@ -48,18 +318,6 @@
     "pubdate": "2026-01-08-06-43-53 +0000"
   },
   {
-    "headline": "What to know about the shooting",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-08-06-29-50 +0000"
-  },
-  {
-    "headline": "Live updates: Local officials dispute Noem’s claims after woman fatally shot by ICE officer in Minneapolis",
-    "link": "https://www.washingtonpost.com/nation/2026/01/07/minneapolis-shooting-ice/",
-    "source": "wapo",
-    "pubdate": "2026-01-08-06-29-50 +0000"
-  },
-  {
     "headline": "Democrats from Illinois demand Noem’s removal",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -70,42 +328,6 @@
     "link": "https://www.bbc.com/news/articles/c23rnrz831ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-08-06-25-15 +0000"
-  },
-  {
-    "headline": "Chris Mason: Trump and Starmer speak after astonishing few days",
-    "link": "https://www.bbc.com/news/articles/c1lzv045yy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-06-20-17 +0000"
-  },
-  {
-    "headline": "Chris Mason: Trump and Starmer speak after astonishing few days",
-    "link": "https://www.bbc.com/news/articles/c1lzv045yy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-06-20-17 +0000"
-  },
-  {
-    "headline": "Venezuela Updates: U.S. Forces Seize Two Tankers; Rubio Lays Out Plan for American Control",
-    "link": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump",
-    "source": "nyt",
-    "pubdate": "2026-01-08-06-17-49 +0000"
-  },
-  {
-    "headline": "Cambodia extradites alleged scam mastermind to China after arrest",
-    "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-06-17-42 +0000"
-  },
-  {
-    "headline": "Cambodia extradites alleged scam mastermind to China after arrest",
-    "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-06-17-42 +0000"
-  },
-  {
-    "headline": "Cambodia extradites alleged scam mastermind to China after arrest",
-    "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-06-17-42 +0000"
   },
   {
     "headline": "Legal experts weigh in on deadly Minneapolis ICE shooting — and whether charges are possible",
@@ -162,28 +384,22 @@
     "pubdate": "2026-01-08-06-05-45 +0000"
   },
   {
+    "headline": "Oligarch linked to bribery paid Andrew £15m for mansion",
+    "link": "https://www.bbc.com/news/articles/c8d09qd6zn2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-06-03-24 +0000"
+  },
+  {
     "headline": "Lawsuit demands CEQA review of North Beach zoning changes",
     "link": "https://48hills.org/2026/01/lawsuit-demands-ceqa-review-of-north-beach-zoning-changes/",
     "source": "48hills",
     "pubdate": "2026-01-08-05-59-37 +0000"
   },
   {
-    "headline": "Chinese EV Maker NIO Will Enter Australia and New Zealand Markets This Year",
-    "link": "https://www.wsj.com/business/autos/chinese-ev-maker-nio-will-enter-australia-and-new-zealand-markets-this-year-589e609e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-08-05-55-00 +0000"
-  },
-  {
     "headline": "Shooting victim had an English degree from Virginia’s Old Dominion University, college says",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-08-05-50-56 +0000"
-  },
-  {
-    "headline": "Yuan Likely Still Has Room to Strengthen Against Dollar",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-geopolitical-tensions-may-weigh-a4b31b0b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-08-05-47-00 +0000"
   },
   {
     "headline": "All Eyes on the U.S. in 2026",
@@ -264,18 +480,6 @@
     "pubdate": "2026-01-08-05-01-05 +0000"
   },
   {
-    "headline": "Why Russian Tourists Are Flocking to Southern China’s Beaches",
-    "link": "https://www.nytimes.com/2026/01/08/world/asia/china-hainan-russian-tourists.html",
-    "source": "nyt",
-    "pubdate": "2026-01-08-05-00-15 +0000"
-  },
-  {
-    "headline": "Why Russian Tourists Are Flocking to Southern China’s Beaches",
-    "link": "https://www.nytimes.com/2026/01/08/world/asia/china-hainan-russian-tourists.html",
-    "source": "nyt",
-    "pubdate": "2026-01-08-05-00-15 +0000"
-  },
-  {
     "headline": "When It Comes to Russia, Trump Navigates Conflicting Goals",
     "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-russia-goals.html",
     "source": "nyt",
@@ -298,18 +502,6 @@
     "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-russia-goals.html",
     "source": "nyt",
     "pubdate": "2026-01-08-05-00-13 +0000"
-  },
-  {
-    "headline": "Hoisting Russian Flags, ‘Shadow Fleet’ Edges Into the Light",
-    "link": "https://www.nytimes.com/2026/01/08/world/europe/russia-shadow-fleet-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-08-05-00-07 +0000"
-  },
-  {
-    "headline": "Hoisting Russian Flags, ‘Shadow Fleet’ Edges Into the Light",
-    "link": "https://www.nytimes.com/2026/01/08/world/europe/russia-shadow-fleet-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-08-05-00-07 +0000"
   },
   {
     "headline": "Maryland Rep. Steny Hoyer, longest-serving House Democrat, to retire from Congress",
@@ -322,18 +514,6 @@
     "link": "https://nypost.com/2026/01/07/us-news/steny-hoyer-longest-serving-house-democrat-to-retire-from-congress-2/",
     "source": "nypost",
     "pubdate": "2026-01-08-04-51-52 +0000"
-  },
-  {
-    "headline": "US immigration agent fatally shoots woman in Minneapolis",
-    "link": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-04-43-46 +0000"
-  },
-  {
-    "headline": "US immigration agent fatally shoots woman in Minneapolis",
-    "link": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-04-43-46 +0000"
   },
   {
     "headline": "Sen. Tina Smith (D-Minnesota) said on X that she was “heartbroken and angry” over the fatal...",
@@ -354,7 +534,13 @@
     "pubdate": "2026-01-08-04-21-25 +0000"
   },
   {
-    "headline": "Analysis: Why Trump chose Delcy, not Machado",
+    "headline": "Analysis: Why Trump chose Maduro's VP over Nobel winner",
+    "link": "https://www.bbc.com/news/articles/c77krp7m362o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-04-20-37 +0000"
+  },
+  {
+    "headline": "Analysis: Why Trump chose Maduro's VP over Nobel winner",
     "link": "https://www.bbc.com/news/articles/c77krp7m362o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-08-04-20-37 +0000"
@@ -442,6 +628,12 @@
     "link": "https://www.bbc.com/news/articles/cgm4y0ewe93o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-08-03-56-23 +0000"
+  },
+  {
+    "headline": "Trump to meet Colombian president at White House in 'near future'",
+    "link": "https://www.bbc.com/news/articles/c98py70npj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-03-54-30 +0000"
   },
   {
     "headline": "Trump to meet Colombian president at White House in 'near future'",
@@ -678,22 +870,10 @@
     "pubdate": "2026-01-08-02-15-51 +0000"
   },
   {
-    "headline": "ICE officer fatally shoots woman during Minneapolis operation",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-08-02-15-08 +0000"
-  },
-  {
     "headline": "Federal Agent Shoots Woman Amid Minneapolis Immigration Crackdown",
     "link": "https://www.nytimes.com/live/2026/01/07/us/minnesota-shooting-ice/shooting-immigration-minneapolis",
     "source": "nyt",
     "pubdate": "2026-01-08-02-14-56 +0000"
-  },
-  {
-    "headline": "Renee Good, Victim in Minneapolis ICE Shooting, Remembered for Her Kindness",
-    "link": "https://www.nytimes.com/2026/01/07/us/renee-nicole-good-minneapolis-ice.html",
-    "source": "nyt",
-    "pubdate": "2026-01-08-02-09-29 +0000"
   },
   {
     "headline": "At Fort Snelling, DHS Secretary Kristi Noem calls shooting by federal agent ‘preventable’ by victim",
@@ -870,12 +1050,6 @@
     "pubdate": "2026-01-08-01-13-14 +0000"
   },
   {
-    "headline": "Oil Rises; U.S. Escalates Venezuela Oil Embargo",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-u-s-escalates-venezuela-oil-embargo-af01b5ef?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-08-01-11-00 +0000"
-  },
-  {
     "headline": "Trump orders flags to half-staff in honor of ‘true American patriot’ CA Congressman Doug LaMalfa",
     "link": "https://nypost.com/2026/01/07/us-news/trump-orders-flags-flown-at-half-staff-in-honor-of-doug-lamalfa/",
     "source": "nypost",
@@ -934,12 +1108,6 @@
     "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
     "source": "startribune",
     "pubdate": "2026-01-08-00-58-00 +0000"
-  },
-  {
-    "headline": "California judge bilked state out of thousands with sham company, banned doctor: feds",
-    "link": "https://nypost.com/2026/01/07/us-news/california-judge-to-plead-guilty-in-massive-workers-comp-fraud-scheme/",
-    "source": "nypost",
-    "pubdate": "2026-01-08-00-53-25 +0000"
   },
   {
     "headline": "Trump Proposes Huge Increase in Military Spending",
@@ -1038,18 +1206,6 @@
     "pubdate": "2026-01-08-00-06-23 +0000"
   },
   {
-    "headline": "Inside the sub-zero lair of the world's most powerful computer",
-    "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-00-04-43 +0000"
-  },
-  {
-    "headline": "Inside the sub-zero lair of the world's most powerful computer",
-    "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-08-00-04-43 +0000"
-  },
-  {
     "headline": "Europe draws red line on Greenland after a year of trying to pacify Trump",
     "link": "https://www.washingtonpost.com/world/2026/01/07/trump-us-europe-greenland/",
     "source": "wapo",
@@ -1104,7 +1260,13 @@
     "pubdate": "2026-01-07-23-52-34 +0000"
   },
   {
-    "headline": "Labour's workers' rights concessions to save businesses billions, assessment shows",
+    "headline": "Workers' rights reforms will cost billions less after concessions, analysis shows",
+    "link": "https://www.bbc.com/news/articles/c5yv6n536vno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-07-23-48-54 +0000"
+  },
+  {
+    "headline": "Workers' rights reforms will cost billions less after concessions, analysis shows",
     "link": "https://www.bbc.com/news/articles/c5yv6n536vno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-07-23-48-54 +0000"
@@ -1374,7 +1536,7 @@
     "pubdate": "2026-01-07-22-54-21 +0000"
   },
   {
-    "headline": "Watch: Police chief describes how Minneapolis shooting unfolded",
+    "headline": "Video shows moment US immigration agent fatally shoots woman",
     "link": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-07-22-53-45 +0000"
@@ -1486,6 +1648,12 @@
     "link": "https://www.nytimes.com/2026/01/07/world/americas/trump-greenland-senate-republicans.html",
     "source": "nyt",
     "pubdate": "2026-01-07-22-29-14 +0000"
+  },
+  {
+    "headline": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
+    "link": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-07-22-28-24 +0000"
   },
   {
     "headline": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
@@ -2010,6 +2178,12 @@
     "pubdate": "2026-01-07-20-31-48 +0000"
   },
   {
+    "headline": "US will control Venezuela oil sales 'indefinitely', official says",
+    "link": "https://www.bbc.com/news/articles/ckgn7p7g79wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-07-20-31-48 +0000"
+  },
+  {
     "headline": "U.S. Natural Gas Futures Snap Losing Streak",
     "link": "https://www.wsj.com/economy/central-banking/u-s-natural-gas-picks-up-on-colder-weather-outlook-9cfe8c20?mod=rss_markets_main",
     "source": "wsj",
@@ -2244,12 +2418,6 @@
     "pubdate": "2026-01-07-19-17-01 +0000"
   },
   {
-    "headline": "ICE agent fatally shoots woman during immigration crackdown in Minneapolis",
-    "link": "https://www.cbc.ca/news/world/ice-minneapolis-fatal-shooting-immigration-9.7036617?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-07-19-13-53 +0000"
-  },
-  {
     "headline": "Nick Reiner’s Defense Attorney Withdraws, Further Delaying Arraignment",
     "link": "https://www.wsj.com/us-news/law/nick-reiner-arraignment-parent-rob-reiner-death-e0b9cbc0",
     "source": "wsj",
@@ -2418,22 +2586,10 @@
     "pubdate": "2026-01-07-18-09-00 +0000"
   },
   {
-    "headline": "First person charged under new crossing law",
-    "link": "https://www.bbc.com/news/articles/cy4gm1x23j3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-07-18-07-20 +0000"
-  },
-  {
     "headline": "Anoka-Hennepin teachers reach tentative contract agreement, strike averted",
     "link": "https://www.startribune.com/anoka-hennepin-strike-update/601559581",
     "source": "startribune",
     "pubdate": "2026-01-07-18-04-53 +0000"
-  },
-  {
-    "headline": "At the U.N., Even Allies Condemn U.S. Action in Venezuela",
-    "link": "https://www.nytimes.com/2026/01/05/world/americas/un-security-council.html",
-    "source": "nyt",
-    "pubdate": "2026-01-07-18-01-30 +0000"
   },
   {
     "headline": "Nick Reiner returns to court, swaps high-powered lawyer for public defender",
@@ -2470,18 +2626,6 @@
     "link": "https://www.startribune.com/minnesota-vikings-jj-mccarthy-brian-flores-john-harbaugh/601559647",
     "source": "startribune",
     "pubdate": "2026-01-07-17-48-35 +0000"
-  },
-  {
-    "headline": "Minister blames 'slow' watchdog for trans guidance delay",
-    "link": "https://www.bbc.com/news/articles/cr4k61dqnzlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-07-17-48-22 +0000"
-  },
-  {
-    "headline": "Albertsons Narrows Full-Year Forecast as Medicare Pricing Changes Take Effect",
-    "link": "https://www.wsj.com/business/retail/albertsons-sales-rise-on-pharmacy-and-digital-growth-8427d756?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-07-17-47-00 +0000"
   },
   {
     "headline": "Starmer urged to rethink business rate reforms to save pubs",
@@ -2754,6 +2898,12 @@
     "pubdate": "2026-01-07-15-59-27 +0000"
   },
   {
+    "headline": "Watch: US seizes oil tanker in Caribbean sea",
+    "link": "https://www.bbc.com/news/videos/c9wx5q2v8rwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-07-15-59-27 +0000"
+  },
+  {
     "headline": "Stunning medieval castle with 100 rooms — and nearly 1,000 years of history — could be yours",
     "link": "https://nypost.com/2026/01/07/real-estate/medieval-french-castle-with-100-rooms-hits-market-for-17-7m/",
     "source": "nypost",
@@ -2812,12 +2962,6 @@
     "link": "https://www.nytimes.com/2026/01/07/world/americas/venezuela-repression.html",
     "source": "nyt",
     "pubdate": "2026-01-07-15-27-09 +0000"
-  },
-  {
-    "headline": "Factory Orders Fell in October",
-    "link": "https://www.wsj.com/economy/factory-orders-fell-in-october-e8a98119",
-    "source": "wsj",
-    "pubdate": "2026-01-07-15-26-00 +0000"
   },
   {
     "headline": "Factory Orders Fell in October",
@@ -3102,12 +3246,6 @@
     "pubdate": "2026-01-07-11-53-49 +0000"
   },
   {
-    "headline": "IKEA to Close Seven Stores in China as Part of New Focus on Smaller Outlets",
-    "link": "https://www.wsj.com/business/retail/ikea-to-close-seven-stores-in-china-as-part-of-new-focus-on-smaller-outlets-7cc58ce7?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-07-11-53-00 +0000"
-  },
-  {
     "headline": "Eurozone Inflation Falls to ECB Target",
     "link": "https://www.wsj.com/economy/central-banking/eurozone-inflation-falls-to-ecb-target-5e1ccf99",
     "source": "wsj",
@@ -3192,14 +3330,14 @@
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Images documenting the year of recovery after the Palisades fire",
-    "link": "https://www.latimes.com/california/story/2026-01-07/images-documenting-year-of-recovery-after-palisades-fire",
+    "headline": "Shooter who killed 2, injured 13 in notorious SoCal school rampage could now go free",
+    "link": "https://www.latimes.com/california/story/2026-01-07/shooter-who-killed-2-in-socal-school-rampage-could-now-go-free",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Shooter who killed 2, injured 13 in notorious SoCal school rampage could now go free",
-    "link": "https://www.latimes.com/california/story/2026-01-07/shooter-who-killed-2-in-socal-school-rampage-could-now-go-free",
+    "headline": "Images documenting the year of recovery after the Palisades fire",
+    "link": "https://www.latimes.com/california/story/2026-01-07/images-documenting-year-of-recovery-after-palisades-fire",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
@@ -3310,12 +3448,6 @@
     "link": "https://www.wsj.com/politics/national-security/rubio-has-long-dreamed-of-changing-latin-america-embracing-maga-opened-the-door-5a7912e4",
     "source": "wsj",
     "pubdate": "2026-01-07-10-30-00 +0000"
-  },
-  {
-    "headline": "Trump says Venezuela will be 'turning over' up to 50 million barrels of oil to US",
-    "link": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-07-10-10-24 +0000"
   },
   {
     "headline": "Trump says Venezuela will be 'turning over' up to 50 million barrels of oil to US",
@@ -3448,12 +3580,6 @@
     "link": "https://www.wsj.com/business/autos/volvo-car-logs-2-rise-in-vehicle-sales-in-final-month-of-year-1aeff7ba?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-07-08-52-00 +0000"
-  },
-  {
-    "headline": "Stock Market News, Jan. 7, 2026: Dow Falls Nearly 1%; Oil Futures Decline",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-07-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-07-08-31-34 +0000"
   },
   {
     "headline": "Orsted to File Additional Legal Challenge to Trump’s Offshore Wind Halt",
@@ -4086,6 +4212,12 @@
     "pubdate": "2026-01-06-21-11-00 +0000"
   },
   {
+    "headline": "A new Grammy category honours album covers and the artists that make them",
+    "link": "https://www.cbc.ca/news/entertainment/grammys-album-art-award-9.7035416?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-06-21-09-14 +0000"
+  },
+  {
     "headline": "What's the relationship between Venezuela and Cuba?",
     "link": "https://www.bbc.com/news/videos/cly5nn5w918o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4464,12 +4596,6 @@
     "pubdate": "2026-01-06-14-36-00 +0000"
   },
   {
-    "headline": "Zelensky replaces Ukraine's powerful security service chief",
-    "link": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-06-14-26-46 +0000"
-  },
-  {
     "headline": "Why Chevron Could Reap the Biggest Rewards From Venezuela",
     "link": "https://www.nytimes.com/2026/01/05/business/energy-environment/venezuela-chevron-trump-oil.html",
     "source": "nyt",
@@ -4740,12 +4866,6 @@
     "pubdate": "2026-01-06-10-00-00 +0000"
   },
   {
-    "headline": "Bosch to Invest $2.9 Billion in AI Over Next Couple of Years",
-    "link": "https://www.wsj.com/tech/ai/bosch-to-invest-2-9-billion-in-ai-over-next-couple-of-years-83d6b4f8?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-06-09-49-00 +0000"
-  },
-  {
     "headline": "Electric car discounts are unsustainable, says industry group",
     "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4912,12 +5032,6 @@
     "link": "https://www.bbc.com/news/articles/cwyndnqqey5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-06-04-18-16 +0000"
-  },
-  {
-    "headline": "Venezuela swears in interim president after defiant Maduro pleads not guilty",
-    "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-06-03-47-29 +0000"
   },
   {
     "headline": "Trump’s Foray Into Venezuela Could Embolden Russia’s and China’s Own Aggression",
@@ -5190,12 +5304,6 @@
     "pubdate": "2026-01-05-20-55-41 +0000"
   },
   {
-    "headline": "GM, Toyota Hint at Tough Year Ahead for U.S. Auto Sales",
-    "link": "https://www.wsj.com/business/autos/auto-car-sales-usa-2026-44ddcaa6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-05-20-44-00 +0000"
-  },
-  {
     "headline": "Corporation for Public Broadcasting Votes to Shut Down",
     "link": "https://www.nytimes.com/2026/01/05/business/media/corporation-for-public-broadcasting.html",
     "source": "nyt",
@@ -5236,12 +5344,6 @@
     "link": "https://www.bbc.com/news/articles/c78v6v0j8v4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-05-19-59-02 +0000"
-  },
-  {
-    "headline": "Watch: What it was like in the courtroom at Maduro's hearing",
-    "link": "https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-19-58-53 +0000"
   },
   {
     "headline": "Watch: What it was like in the courtroom at Maduro's hearing",
@@ -5608,18 +5710,6 @@
     "link": "https://www.latimes.com/california/story/2026-01-04/body-pulled-from-santa-ana-river-identified-mother-of-two",
     "source": "latimes",
     "pubdate": "2026-01-05-01-03-26 +0000"
-  },
-  {
-    "headline": "Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery",
-    "link": "https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-00-12-35 +0000"
-  },
-  {
-    "headline": "The French university where spies go for training",
-    "link": "https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-05-00-02-00 +0000"
   },
   {
     "headline": "India wants more passenger jets. Can it also build them?",
@@ -6090,12 +6180,6 @@
     "pubdate": "2026-01-02-20-28-25 +0000"
   },
   {
-    "headline": "U.S. Natural Gas Futures Kick Off 2026 With A Loss",
-    "link": "https://www.wsj.com/world/europe/european-gas-climbs-as-cold-weather-bites-a5fd30fb",
-    "source": "wsj",
-    "pubdate": "2026-01-02-19-50-00 +0000"
-  },
-  {
     "headline": "Opinion | Unregulated Crypto Is an Invitation for Criminals",
     "link": "https://www.wsj.com/opinion/unregulated-crypto-is-an-invitation-for-criminals-906259b7?mod=rss_markets_main",
     "source": "wsj",
@@ -6174,14 +6258,14 @@
     "pubdate": "2026-01-02-11-00-00 +0000"
   },
   {
-    "headline": "Billionaire tax proposal sparks soul-searching for Californians",
-    "link": "https://www.latimes.com/business/story/2026-01-02/billionaire-tax-proposal-sparks-soul-searching-for-californians",
+    "headline": "Contributor: Democrats could avoid a lot of trouble with a little ego management",
+    "link": "https://www.latimes.com/opinion/story/2026-01-02/democratic-strategy-2026",
     "source": "latimes",
     "pubdate": "2026-01-02-11-00-00 +0000"
   },
   {
-    "headline": "Contributor: Democrats could avoid a lot of trouble with a little ego management",
-    "link": "https://www.latimes.com/opinion/story/2026-01-02/democratic-strategy-2026",
+    "headline": "Billionaire tax proposal sparks soul-searching for Californians",
+    "link": "https://www.latimes.com/business/story/2026-01-02/billionaire-tax-proposal-sparks-soul-searching-for-californians",
     "source": "latimes",
     "pubdate": "2026-01-02-11-00-00 +0000"
   },
@@ -6372,14 +6456,8 @@
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Trump's proposed battleship is a budget-busting folly that will probably never sail",
-    "link": "https://www.latimes.com/business/story/2026-01-01/trumps-battleship-a-budget-busting-folly-that-will-probably-never-sail",
-    "source": "latimes",
-    "pubdate": "2026-01-01-11-00-00 +0000"
-  },
-  {
-    "headline": "California sets up a showdown with Washington by reissuing licenses to migrant truckers",
-    "link": "https://www.latimes.com/business/story/2026-01-01/california-sets-up-showdown-with-washington-by-reissuing-licenses-to-migrant-truckers",
+    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
+    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
@@ -6390,8 +6468,14 @@
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
   {
-    "headline": "The biggest startups raised a record amount in 2025, dominated by AI",
-    "link": "https://www.latimes.com/business/story/2026-01-01/biggest-startups-raised-record-amount-in-2025-dominated-by-ai",
+    "headline": "Hiltzik: Trump's proposed battleship is a budget-busting folly that will probably never sail",
+    "link": "https://www.latimes.com/business/story/2026-01-01/trumps-battleship-a-budget-busting-folly-that-will-probably-never-sail",
+    "source": "latimes",
+    "pubdate": "2026-01-01-11-00-00 +0000"
+  },
+  {
+    "headline": "California sets up a showdown with Washington by reissuing licenses to migrant truckers",
+    "link": "https://www.latimes.com/business/story/2026-01-01/california-sets-up-showdown-with-washington-by-reissuing-licenses-to-migrant-truckers",
     "source": "latimes",
     "pubdate": "2026-01-01-11-00-00 +0000"
   },
@@ -6424,29 +6508,5 @@
     "link": "https://www.nytimes.com/2025/12/31/world/new-years-2026-celebrations-photos.html",
     "source": "nyt",
     "pubdate": "2026-01-01-09-01-24 +0000"
-  },
-  {
-    "headline": "Despite cold and rain, thousands flock to 137th Rose Parade in Pasadena",
-    "link": "https://www.latimes.com/california/story/2026-01-01/la-me-rose-parade-new-year-pasadena",
-    "source": "latimes",
-    "pubdate": "2026-01-01-09-00-00 +0000"
-  },
-  {
-    "headline": "New year, new tax measures: What to expect in 2026",
-    "link": "https://www.cbc.ca/news/politics/2026-tax-measures-changes-new-9.7022831?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-01-09-00-00 +0000"
-  },
-  {
-    "headline": "The Inquiry",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct723q?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-01-08-30-00 +0000"
-  },
-  {
-    "headline": "Women still face steep challenges securing top movie jobs",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-01/study-women-face-steep-challenges-top-movie-jobs",
-    "source": "latimes",
-    "pubdate": "2026-01-01-08-01-00 +0000"
   }
 ]
