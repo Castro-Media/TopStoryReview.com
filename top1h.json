@@ -1,9 +1,72 @@
 [
   {
-    "score": 3,
-    "pubdate": "2026-01-08-02-29-32 +0000",
+    "score": 30,
+    "pubdate": "2026-01-08-03-37-31 +0000",
     "source": "nyt",
-    "headline": "What Is the UNFCCC and Why Is the U.S. Pulling Out?",
-    "link": "https://www.nytimes.com/2026/01/07/climate/what-is-unfccc-climate-treaty.html"
+    "headline": "China Touts Hainan, Its Duty-Free Island, Amid $1 Trillion Trade Surplus",
+    "link": "https://www.nytimes.com/2026/01/07/business/china-hainan-island-duty-free.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-01-08-03-38-00 +0000",
+    "source": "wsj",
+    "headline": "Woman Killed by ICE Officer in Minneapolis Shooting",
+    "link": "https://www.wsj.com/us-news/minneapolis-minnesota-shooting-ice-8bccecc1"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-01-08-03-42-46 +0000",
+    "source": "nypost",
+    "headline": "GOP Nebraska Sen. Dan McKeon faces historic expulsion vote over sexual misconduct allegations",
+    "link": "https://nypost.com/2026/01/07/us-news/gop-nebraska-sen-dan-mckeon-faces-historic-expulsion-vote-over-sexual-misconduct-allegations/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-08-04-09-09 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Updates: U.S. Forces Seize Two Tankers; Rubio Lays Out Plan for American Control",
+    "link": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-08-03-35-18 +0000",
+    "source": "wapo",
+    "headline": "MINNEAPOLIS — Several hundred people late Wednesday blocked the intersection near where Renee Nicole Good was...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-08-03-36-11 +0000",
+    "source": "latimes",
+    "headline": "Orange County judge, who campaigned on boosting trust in the justice system, to plead guilty to fraud",
+    "link": "https://www.latimes.com/california/story/2026-01-07/orange-county-judge-who-campaigned-on-boosting-trust-in-justice-system-to-plead-guilty-to-fraud"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-08-03-59-39 +0000",
+    "source": "startribune",
+    "headline": "Scoggins: Koi Perich is headed elsewhere, and, hey, that’s just how college football works",
+    "link": "https://www.startribune.com/chip-scoggins-column-koi-perich-minnesota-gophers-football-transfer-portal/601558447"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-08-03-21-26 +0000",
+    "source": "wapo",
+    "headline": "Former vice president Mike Pence said he “grieved the loss of life” and urged the public...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-08-03-23-18 +0000",
+    "source": "nypost",
+    "headline": "KFC worker allegedly stabbed multiple times by customer who ‘became upset about his gravy’",
+    "link": "https://nypost.com/2026/01/07/us-news/kfc-worker-allegedly-stabbed-multiple-times-by-customer-angry-over-gravy/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-08-03-17-38 +0000",
+    "source": "latimes",
+    "headline": "Google and Character.AI to settle lawsuits alleging chatbots harmed teens",
+    "link": "https://www.latimes.com/business/story/2026-01-07/google-character-ai-to-settle-lawsuits-alleging-chatbots-harmed-teens"
   }
 ]
