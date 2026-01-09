@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 23,
+    "pubdate": "2026-01-09-00-23-45 +0000",
+    "source": "nyt",
+    "headline": "Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify",
+    "link": "https://www.nytimes.com/2026/01/08/world/middleeast/iran-protests-internet-shutdown.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-01-09-01-16-39 +0000",
+    "source": "nyt",
+    "headline": "Federal Agents Shoot 2 During Traffic Stop in Portland, Ore.",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/federal-agents-shooting-portland.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-09-00-21-22 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Leaders Free Political Prisoners in a Sign of Possible Change",
+    "link": "https://www.nytimes.com/2026/01/08/world/americas/venezuela-release-political-prisoners.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-09-00-51-43 +0000",
+    "source": "bbc",
+    "headline": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
+    "link": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-09-01-01-03 +0000",
+    "source": "wapo",
+    "headline": "State officials say FBI is freezing them out of Minneapolis ICE shooting probe",
+    "link": "https://www.washingtonpost.com/nation/2026/01/08/minnesota-ice-shooting-protests/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-09-00-57-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Calls on Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
+    "link": "https://www.wsj.com/finance/regulation/trump-calls-on-fannie-and-freddie-to-buy-200-billion-in-mortgage-bonds-79312e1c?mod=rss_markets_main"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-09-01-08-56 +0000",
+    "source": "nypost",
+    "headline": "Cops responded to wrong address during welfare check of slain Ohio dentist and his wife",
+    "link": "https://nypost.com/2026/01/08/us-news/cops-responded-to-wrong-address-during-welfare-check-of-slain-ohio-dentist-and-his-wife/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-09-00-44-31 +0000",
+    "source": "nypost",
+    "headline": "Mepham girl’s basketball keeping ‘high standards’ as it tries to extend long playoff streak",
+    "link": "https://nypost.com/2026/01/08/sports/mepham-girls-basketball-tries-to-extend-long-playoff-streak/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-09-01-06-22 +0000",
+    "source": "nypost",
+    "headline": "MTA hits jackpot, raking in $1.5B in license fees from winning NYC casino bidders",
+    "link": "https://nypost.com/2026/01/08/us-news/mta-hits-jackpot-raking-in-1-5b-in-from-winning-nyc-casino-bids/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-09-00-57-41 +0000",
+    "source": "latimes",
+    "headline": "Expect to see more coyotes in your neighborhood. Here's why",
+    "link": "https://www.latimes.com/california/story/2026-01-08/expect-to-see-more-coyotes-in-your-neighborhood-heres-why"
+  }
+]
