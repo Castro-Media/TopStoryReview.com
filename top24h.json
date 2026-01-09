@@ -1,45 +1,38 @@
 [
   {
-    "score": 286,
+    "score": 272,
     "pubdate": "2026-01-08-23-47-49 +0000",
     "source": "nyt",
     "headline": "Trump Addresses Venezuela, Greenland and Presidential Power in New York Times Interview",
     "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-power-morality.html"
   },
   {
-    "score": 118,
+    "score": 114,
     "pubdate": "2026-01-08-23-01-00 +0000",
     "source": "wsj",
     "headline": "Renee Nicole Good, the woman fatally shot by a U.S. Immigration and Customs Enforcement agent in Minneapolis, was a 37-year-old mother who had moved to Minnesota to start a new chapter",
     "link": "https://www.wsj.com/us-news/what-we-know-so-far-about-renee-nicole-good-bb3d847c"
   },
   {
-    "score": 104,
+    "score": 102,
     "pubdate": "2026-01-09-00-07-51 +0000",
     "source": "nypost",
     "headline": "Federal agents shoot 2 alleged Tren de Aragua gangbangers who ‘weaponized’ car in Oregon — day after deadly ICE shooting",
     "link": "https://nypost.com/2026/01/08/us-news/federal-agents-shoot-2-people-in-portland-oregon-day-after-ice-agent-killed-renee-nicole-good-in-minneapolis/"
   },
   {
-    "score": 85,
+    "score": 84,
     "pubdate": "2026-01-08-21-37-00 +0000",
     "source": "wsj",
     "headline": "President Trump demonstrated the tight grip he has on GOP lawmakers in Congress, as the House upheld his vetoes on two Republican-led bills",
     "link": "https://www.wsj.com/politics/policy/trump-flexes-political-muscles-as-veto-overrides-fail-e3d8c70d"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2026-01-08-14-00-00 +0000",
     "source": "latimes",
     "headline": "Newsom moves to reshape who runs California's schools under budget plan",
     "link": "https://www.latimes.com/california/story/2026-01-08/newsom-moves-to-reshape-who-runs-californias-schools"
-  },
-  {
-    "score": 71,
-    "pubdate": "2026-01-08-17-58-04 +0000",
-    "source": "bbc",
-    "headline": "One million spent hours without heat and water after Russian strikes, Ukraine says",
-    "link": "https://www.bbc.com/news/articles/cgk8jv4r8nmo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 69,
@@ -49,6 +42,13 @@
     "link": "https://www.cbc.ca/news/world/internet-telephone-lines-cut-iran-protest-9.7038427?cmp=rss"
   },
   {
+    "score": 64,
+    "pubdate": "2026-01-09-05-04-26 +0000",
+    "source": "nypost",
+    "headline": "Russia fires nuclear-capable Oreshnik missile in latest attack against Ukraine",
+    "link": "https://nypost.com/2026/01/09/world-news/russia-possibly-fired-nuclear-capable-missle-in-latest-attack-ukraine/"
+  },
+  {
     "score": 63,
     "pubdate": "2026-01-09-03-08-27 +0000",
     "source": "nypost",
@@ -56,7 +56,7 @@
     "link": "https://nypost.com/2026/01/08/us-news/trump-plans-to-meet-venezuelan-opposition-leader-maria-corina-machado/"
   },
   {
-    "score": 57,
+    "score": 56,
     "pubdate": "2026-01-08-23-42-00 +0000",
     "source": "wsj",
     "headline": "A middle-of-the-night deal back in early July shows just how much some Republicans don’t want to extend the expired Affordable Care Act subsidies",
