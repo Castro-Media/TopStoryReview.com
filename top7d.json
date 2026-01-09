@@ -1,6 +1,6 @@
 [
   {
-    "score": 560,
+    "score": 559,
     "pubdate": "2026-01-08-23-47-49 +0000",
     "source": "nyt",
     "headline": "Trump Addresses Venezuela, Greenland and Presidential Power in New York Times Interview",
@@ -36,10 +36,17 @@
   },
   {
     "score": 124,
-    "pubdate": "2026-01-07-13-34-42 +0000",
-    "source": "cbc",
-    "headline": "U.S. Secretary of State Rubio says he will meet with Denmark amid European alarm over Greenland rhetoric",
-    "link": "https://www.cbc.ca/news/world/us-greenland-european-reaction-9.7036060?cmp=rss"
+    "pubdate": "2026-01-07-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "The welfare-fraud scandal that led Minnesota Gov. Tim Walz to abandon his 2026 re-election bid was already public when he was vetted for the 2024 Democratic presidential ticket",
+    "link": "https://www.wsj.com/politics/elections/minnesota-tim-walz-scandal-harris-campaign-6bafc8cd"
+  },
+  {
+    "score": 119,
+    "pubdate": "2026-01-09-01-39-00 +0000",
+    "source": "wsj",
+    "headline": "The internet was almost shut down in Iran, an internet-watchdog group said Thursday, amid widespread protests and a call from the son of the country’s former shah “take to the streets”",
+    "link": "https://www.wsj.com/world/middle-east/internet-blackout-hits-iran-as-former-shahs-son-calls-for-protests-0449c3bb"
   },
   {
     "score": 107,
@@ -49,24 +56,17 @@
     "link": "https://www.wsj.com/politics/policy/senate-votes-to-rein-in-trumps-war-powers-in-venezuela-f6138553"
   },
   {
-    "score": 102,
-    "pubdate": "2026-01-09-01-39-00 +0000",
+    "score": 100,
+    "pubdate": "2026-01-06-21-51-00 +0000",
     "source": "wsj",
-    "headline": "The internet was almost shut down in Iran, an internet-watchdog group said Thursday, amid widespread protests and a call from the son of the country’s former shah “take to the streets”",
-    "link": "https://www.wsj.com/world/middle-east/internet-blackout-hits-iran-as-former-shahs-son-calls-for-protests-0449c3bb"
+    "headline": "Secretary of State Rubio told lawmakers that recent administration threats against Greenland didn’t signal an imminent invasion and that the goal is to buy the island from Denmark, according to people familiar with the discussions",
+    "link": "https://www.wsj.com/politics/national-security/rubio-tells-lawmakers-trump-aims-to-buy-greenland-downplays-military-action-5c94e05c"
   },
   {
     "score": 99,
-    "pubdate": "2026-01-07-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "Chabria: Tim Walz isn't the only governor plagued by fraud. Newsom may be targeted next",
-    "link": "https://www.latimes.com/california/story/2026-01-07/tim-walz-isnt-only-governor-plagued-by-fraud-newsom-may-be-targeted-next"
-  },
-  {
-    "score": 98,
-    "pubdate": "2026-01-08-12-01-00 +0000",
-    "source": "wsj",
-    "headline": "China Warns AI Startups Seeking to Emulate Meta Deal: Not So Fast",
-    "link": "https://www.wsj.com/tech/china-warns-ai-startups-seeking-to-emulate-meta-deal-not-so-fast-17bdd28a"
+    "pubdate": "2026-01-07-14-28-30 +0000",
+    "source": "cbc",
+    "headline": "Carney visiting China next week to talk trade, security",
+    "link": "https://www.cbc.ca/news/politics/carney-to-visit-china-9.7036190?cmp=rss"
   }
 ]

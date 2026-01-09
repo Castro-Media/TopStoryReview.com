@@ -1,47 +1,5 @@
 [
   {
-    "score": 37,
-    "pubdate": "2026-01-09-01-39-00 +0000",
-    "source": "wsj",
-    "headline": "The internet was almost shut down in Iran, an internet-watchdog group said Thursday, amid widespread protests and a call from the son of the country’s former shah “take to the streets”",
-    "link": "https://www.wsj.com/world/middle-east/internet-blackout-hits-iran-as-former-shahs-son-calls-for-protests-0449c3bb"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-01-09-02-18-13 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Leaders Free Political Prisoners in a Sign of Possible Change",
-    "link": "https://www.nytimes.com/2026/01/08/world/americas/venezuela-release-political-prisoners.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-01-09-02-06-53 +0000",
-    "source": "nyt",
-    "headline": "Amid Protests, ICE Told Agents to Take ‘Decisive Action’ if Threatened",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/homeland-security-ice-protests-warning.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-09-01-42-31 +0000",
-    "source": "latimes",
-    "headline": "Rep. Julia Brownley announces she will not seek reelection",
-    "link": "https://www.latimes.com/california/story/2026-01-08/rep-julia-brownley-announces-she-will-not-seek-reelection"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-01-09-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "RFK Jr.’s food guidelines won support from major medical associations, giving him a victory while some doctors remain critical",
-    "link": "https://www.wsj.com/politics/policy/rfk-jr-saturated-fat-heart-association-14cd9760"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-09-02-08-15 +0000",
-    "source": "nypost",
-    "headline": "Wisconsin teen who killed parents for money to assassinate President Trump pleads guilty to homicide",
-    "link": "https://nypost.com/2026/01/08/us-news/wisconsin-teen-who-killed-parents-for-money-to-assassinate-president-trump-pleads-guilty-to-homicide/"
-  },
-  {
     "score": 12,
     "pubdate": "2026-01-09-02-25-47 +0000",
     "source": "nyt",
@@ -49,24 +7,31 @@
     "link": "https://www.nytimes.com/2026/01/08/us/politics/federal-agents-shooting-portland.html"
   },
   {
-    "score": 12,
-    "pubdate": "2026-01-09-02-03-06 +0000",
+    "score": 10,
+    "pubdate": "2026-01-09-02-29-14 +0000",
     "source": "nyt",
-    "headline": "Once Again, a Newfoundland Town Rescues Stranded Passengers",
-    "link": "https://www.nytimes.com/2026/01/08/world/canada/gander-canada-airport-stranded-travelers.html"
+    "headline": "Live Updates: Senate Advances Measure to Curb Trump’s Use of Force in Venezuela",
+    "link": "https://www.nytimes.com/live/2026/01/08/world/us-venezuela-trump"
   },
   {
-    "score": 11,
-    "pubdate": "2026-01-09-02-21-59 +0000",
-    "source": "startribune",
-    "headline": "Twins reach agreements with all arbitration eligible players except Joe Ryan",
-    "link": "https://www.startribune.com/minnesota-twins-mlb-arbitration-salary-joe-ryan-spring-training/601559097"
+    "score": 10,
+    "pubdate": "2026-01-09-02-27-00 +0000",
+    "source": "wsj",
+    "headline": "USD/SGD’s Positive Divergence Raises Prospect of a Rebound, Daily Chart Shows",
+    "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-ahead-of-u-s-nonfarm-payrolls-10635c4e?mod=rss_markets_main"
   },
   {
-    "score": 11,
-    "pubdate": "2026-01-09-01-45-16 +0000",
-    "source": "nypost",
-    "headline": "Former Minnesota Gov. and WWE legend Jesse Ventura  ‘proud’ of Minneapolis anti-ICE protesters",
-    "link": "https://nypost.com/2026/01/08/us-news/former-minnesota-gov-and-pro-wrestler-jesse-ventura-proud-of-minneapolis-anti-ice-protesters/"
+    "score": 8,
+    "pubdate": "2026-01-09-02-23-00 +0000",
+    "source": "wsj",
+    "headline": "LG Electronics Expects First Quarterly Operating Loss in Nine Years",
+    "link": "https://www.wsj.com/business/earnings/lg-electronics-expects-first-quarterly-operating-loss-in-nine-years-04e6b92d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-09-02-25-47 +0000",
+    "source": "nyt",
+    "headline": "Federal Agents Shoot 2 During Traffic Stop in Portland, Ore.",
+    "link": "https://www.nytimes.com/2026/01/08/us/politics/federal-agents-shooting-portland.html"
   }
 ]
