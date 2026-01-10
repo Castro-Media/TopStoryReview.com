@@ -1,5 +1,53 @@
 [
   {
+    "headline": "What We Know About the Border Patrol Shooting in Portland, Oregon",
+    "link": "https://www.nytimes.com/2026/01/09/us/portland-oregon-shooting-border-patrol.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-08-40-09 +0000"
+  },
+  {
+    "headline": "Iran medics describe overwhelmed hospitals as protests enter second week",
+    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-08-25-06 +0000"
+  },
+  {
+    "headline": "Minneapolis Mayor Jacob Frey dismisses new ICE shooting video, says agent ‘walked away with a hop in his step’",
+    "link": "https://nypost.com/2026/01/10/us-news/minneapolis-mayor-jacob-frey-dismisses-new-ice-shooting-video-says-agent-walked-away-with-a-hop-in-his-step/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-08-06-56 +0000"
+  },
+  {
+    "headline": "Philippines rescuers detect ‘signs of life’ in garbage avalanche that killed 4 and left dozens missing",
+    "link": "https://nypost.com/2026/01/10/world-news/philippines-garbage-avalanche-death-toll-rises-to-four-12-workers-rescued-dozens-missing/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-07-41-38 +0000"
+  },
+  {
+    "headline": "Iran Convulsed in Second Night of Nationwide Protests",
+    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-07-24-24 +0000"
+  },
+  {
+    "headline": "Iran Convulsed in Second Night of Nationwide Protests",
+    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-07-24-24 +0000"
+  },
+  {
+    "headline": "North Korea vows response as it accuses the South of flying drones across the border",
+    "link": "https://nypost.com/2026/01/10/world-news/north-korea-vows-response-as-it-accuses-the-south-of-flying-drones-across-the-border/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-07-21-18 +0000"
+  },
+  {
+    "headline": "Idaho murder victims’ families file wrongful death lawsuit against Washington State University",
+    "link": "https://nypost.com/2026/01/10/us-news/families-of-university-of-idaho-murder-victims-sue-washington-state-university-for-wrongful-death-after-bryan-kohberger-killings/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-07-01-46 +0000"
+  },
+  {
     "headline": "Venezuela Updates: Trump’s Push to Invest in Venezuela Gets a Tepid Response From Oil Executives",
     "link": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us",
     "source": "nyt",
@@ -360,6 +408,12 @@
     "pubdate": "2026-01-10-02-00-00 +0000"
   },
   {
+    "headline": "There Are 29,000 People on a Waitlist for Beans—and It’s Not for the Fiber",
+    "link": "https://www.wsj.com/business/entrepreneurship/rancho-gordo-beans-fiber-protein-e27ec1ff?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-10-02-00-00 +0000"
+  },
+  {
     "headline": "America’s unemployment rate is low. But so is its job growth. That means many Americans are locked out of stable, full-time jobs, and many are struggling.",
     "link": "https://www.wsj.com/economy/jobs/job-market-cooling-labor-department-6d4204ed",
     "source": "wsj",
@@ -441,7 +495,7 @@
     "headline": "Officials Identify Pair Shot by Border Patrol in Portland, Ore.",
     "link": "https://www.nytimes.com/2026/01/09/us/portland-immigration-shooting.html",
     "source": "nyt",
-    "pubdate": "2026-01-10-01-45-23 +0000"
+    "pubdate": "2026-01-10-01-45-24 +0000"
   },
   {
     "headline": "Trump Administration Freezes Food Stamps in Minnesota",
@@ -516,16 +570,16 @@
     "pubdate": "2026-01-10-01-32-05 +0000"
   },
   {
-    "headline": "Iran leader says protesters are vandals trying to please Trump",
-    "link": "https://www.bbc.com/news/articles/c4g49djqqjgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-10-01-32-05 +0000"
-  },
-  {
     "headline": "California confirms first measles case for 2026 in San Mateo County as vaccination debates continue",
     "link": "https://www.latimes.com/california/story/2026-01-09/california-confirms-first-measles-case-for-2026-in-san-mateo-county",
     "source": "latimes",
     "pubdate": "2026-01-10-01-29-00 +0000"
+  },
+  {
+    "headline": "Musk says X outcry is 'excuse for censorship'",
+    "link": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-01-28-26 +0000"
   },
   {
     "headline": "Khamenei says Iran won’t ‘back down’ amid mass protests and Trump threat",
@@ -549,13 +603,13 @@
     "headline": "Judge Blocks Trump Officials From Freezing Billions in Social Services Funds",
     "link": "https://www.nytimes.com/2026/01/09/us/politics/trump-child-care-funding-freeze.html",
     "source": "nyt",
-    "pubdate": "2026-01-10-01-12-01 +0000"
+    "pubdate": "2026-01-10-01-12-02 +0000"
   },
   {
     "headline": "Judge Blocks Trump Officials From Freezing Billions in Social Services Funds",
     "link": "https://www.nytimes.com/2026/01/09/us/politics/trump-child-care-funding-freeze.html",
     "source": "nyt",
-    "pubdate": "2026-01-10-01-12-01 +0000"
+    "pubdate": "2026-01-10-01-12-02 +0000"
   },
   {
     "headline": "Fury as Mayor Bass’s promise to end Palisades Fire permit fees delayed again after 8 months",
@@ -586,18 +640,6 @@
     "link": "https://www.wsj.com/business/media/disney-cruise-rides-characters-imagineers-adventure-b5c03c1d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-10-01-00-00 +0000"
-  },
-  {
-    "headline": "Iran Convulsed in Second Night of Nationwide Protests",
-    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-00-57-39 +0000"
-  },
-  {
-    "headline": "Iran Convulsed in Second Night of Nationwide Protests",
-    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-00-57-39 +0000"
   },
   {
     "headline": "Anti-ICE rally in S.F. turns violent: 2 detained, 2 pepper sprayed",
@@ -840,12 +882,6 @@
     "pubdate": "2026-01-09-23-44-41 +0000"
   },
   {
-    "headline": "NY kids kept in state solitary confinement for months without toilets, new suit claims: ‘Barbaric’",
-    "link": "https://nypost.com/2026/01/09/us-news/ny-kids-kept-in-state-solitary-confinement-for-months-without-toilets-new-suit-claims-barbaric/",
-    "source": "nypost",
-    "pubdate": "2026-01-09-23-42-57 +0000"
-  },
-  {
     "headline": "What ICE agents can and can’t do — and what legal rights the public has during encounters",
     "link": "https://www.startribune.com/what-ice-agents-can-and-cant-do-and-what-legal-rights-the-public-has-during-encounters/601560316",
     "source": "startribune",
@@ -862,12 +898,6 @@
     "link": "https://www.nytimes.com/2026/01/09/world/americas/caracas-venezuela-prisoners-released.html",
     "source": "nyt",
     "pubdate": "2026-01-09-23-41-56 +0000"
-  },
-  {
-    "headline": "Gavin Newsom proposes $350B California budget — kicks the can on debt",
-    "link": "https://nypost.com/2026/01/09/us-news/gavin-newsom-proposes-350-billion-california-budget/",
-    "source": "nypost",
-    "pubdate": "2026-01-09-23-41-43 +0000"
   },
   {
     "headline": "Agents in Trump’s Immigration Crackdown Have Fired at Vehicles at Least 10 Times",
@@ -1101,13 +1131,13 @@
     "headline": "Trump Officials Reopen Thousands of Refugee Claims in Minnesota",
     "link": "https://www.nytimes.com/2026/01/09/us/politics/minnesota-refugees-dhs-trump.html",
     "source": "nyt",
-    "pubdate": "2026-01-09-22-24-53 +0000"
+    "pubdate": "2026-01-09-22-24-54 +0000"
   },
   {
     "headline": "Trump Officials Reopen Thousands of Refugee Claims in Minnesota",
     "link": "https://www.nytimes.com/2026/01/09/us/politics/minnesota-refugees-dhs-trump.html",
     "source": "nyt",
-    "pubdate": "2026-01-09-22-24-53 +0000"
+    "pubdate": "2026-01-09-22-24-54 +0000"
   },
   {
     "headline": "GameStop closes more stores as retail apocalypse continues",
@@ -1242,7 +1272,7 @@
     "pubdate": "2026-01-09-21-48-02 +0000"
   },
   {
-    "headline": "'I feel free': Australia's social media ban, one month on",
+    "headline": "Australia teens share their views on social media ban one month on",
     "link": "https://www.bbc.com/news/articles/c0mpmgn3jv2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-09-21-45-00 +0000"
@@ -1926,16 +1956,10 @@
     "pubdate": "2026-01-09-17-00-00 +0000"
   },
   {
-    "headline": "What We Know About the Border Patrol Shooting in Portland, Oregon",
-    "link": "https://www.nytimes.com/2026/01/09/us/portland-oregon-shooting-border-patrol.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-16-44-30 +0000"
-  },
-  {
     "headline": "NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue",
     "link": "https://www.nytimes.com/2026/01/08/science/nasa-astronaut-medical-problem.html",
     "source": "nyt",
-    "pubdate": "2026-01-09-16-43-42 +0000"
+    "pubdate": "2026-01-09-16-43-43 +0000"
   },
   {
     "headline": "Canada’s Unemployment Rate Jumps to 6.8% in December",
@@ -2526,6 +2550,12 @@
     "pubdate": "2026-01-09-11-00-01 +0000"
   },
   {
+    "headline": "Anger overflows in west Altadena: Where is the accountability for 19 deaths, epic losses?",
+    "link": "https://www.latimes.com/california/story/2026-01-09/west-altadena-feels-gaslighted-year-after-eaton-fire",
+    "source": "latimes",
+    "pubdate": "2026-01-09-11-00-00 +0000"
+  },
+  {
     "headline": "Arellano: HBO released an explosive Border Patrol documentary. Why is its star angry?",
     "link": "https://www.latimes.com/california/story/2026-01-09/critical-incident-death-at-the-border-documentary-hbo",
     "source": "latimes",
@@ -2540,12 +2570,6 @@
   {
     "headline": "California is free of all drought, dryness for first time in 25 years. Inside the remarkable turnaround",
     "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
-    "source": "latimes",
-    "pubdate": "2026-01-09-11-00-00 +0000"
-  },
-  {
-    "headline": "Anger overflows in west Altadena: Where is the accountability for 19 deaths, epic losses?",
-    "link": "https://www.latimes.com/california/story/2026-01-09/west-altadena-feels-gaslighted-year-after-eaton-fire",
     "source": "latimes",
     "pubdate": "2026-01-09-11-00-00 +0000"
   },
@@ -3096,12 +3120,6 @@
     "pubdate": "2026-01-09-00-51-43 +0000"
   },
   {
-    "headline": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
-    "link": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-09-00-51-43 +0000"
-  },
-  {
     "headline": "Trump Orders Fannie and Freddie to Buy $200 Billion in Mortgage Bonds",
     "link": "https://www.nytimes.com/2026/01/08/business/trump-fannie-freddie-mortgage-bonds.html",
     "source": "nyt",
@@ -3474,12 +3492,6 @@
     "pubdate": "2026-01-08-21-21-00 +0000"
   },
   {
-    "headline": "The 100-Year History Behind Trump’s Push for Venezuela’s Oil Wealth",
-    "link": "https://www.wsj.com/business/energy-oil/the-100-year-history-behind-trumps-push-for-venezuelas-oil-wealth-136ec2e5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-08-21-21-00 +0000"
-  },
-  {
     "headline": "Chabria: Newsom offers a sunny view of California to combat Trump's darkness",
     "link": "https://www.latimes.com/california/story/2026-01-08/newsom-offers-sunny-view-of-california-to-combat-trumps-darkness",
     "source": "latimes",
@@ -3822,22 +3834,10 @@
     "pubdate": "2026-01-08-17-50-00 +0000"
   },
   {
-    "headline": "Lebanese army says it completed its first phase of Hezbollah disarmament",
-    "link": "https://nypost.com/2026/01/08/world-news/lebanese-army-claims-first-phase-of-hezbollah-disarmament-complete/",
-    "source": "nypost",
-    "pubdate": "2026-01-08-17-47-22 +0000"
-  },
-  {
     "headline": "Canada Swings to Goods-Trade Deficit of C$583 Million in October",
     "link": "https://www.wsj.com/economy/trade/canada-swings-to-goods-trade-deficit-of-c-583-million-in-october-fa4f3b46",
     "source": "wsj",
     "pubdate": "2026-01-08-17-46-00 +0000"
-  },
-  {
-    "headline": "How President Petro’s clash with Trump over Venezuela can impact Colombia",
-    "link": "https://nypost.com/2026/01/08/world-news/how-president-petros-clash-with-trump-over-venezuela-can-impact-colombia/",
-    "source": "nypost",
-    "pubdate": "2026-01-08-17-37-41 +0000"
   },
   {
     "headline": "US involvement in Venezuela could last years, Trump says",
@@ -4320,12 +4320,6 @@
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
-    "headline": "California law let a politician avoid jail for child abuse charges. Lawmakers are furious",
-    "link": "https://www.latimes.com/california/story/2026-01-08/zack-scrivner-mental-health-diversion-lawmakers-angry-child-abuse",
-    "source": "latimes",
-    "pubdate": "2026-01-08-11-00-00 +0000"
-  },
-  {
     "headline": "Contributor: The Supreme Court made a mess out of gun laws",
     "link": "https://www.latimes.com/opinion/story/2026-01-08/california-open-carry-gun-ban-supreme-court-history",
     "source": "latimes",
@@ -4344,8 +4338,8 @@
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
-    "headline": "UC sets new record in California student enrollment as it weathers Trump challenges",
-    "link": "https://www.latimes.com/california/story/2026-01-08/uc-2025-enrollment-data",
+    "headline": "California law let a politician avoid jail for child abuse charges. Lawmakers are furious",
+    "link": "https://www.latimes.com/california/story/2026-01-08/zack-scrivner-mental-health-diversion-lawmakers-angry-child-abuse",
     "source": "latimes",
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
@@ -4358,6 +4352,12 @@
   {
     "headline": "California's exodus isn't just billionaires — it's regular people renting U-Hauls, too",
     "link": "https://www.latimes.com/business/story/2026-01-08/californias-exodus-isnt-just-billionaires-its-regular-people-renting-u-hauls-too",
+    "source": "latimes",
+    "pubdate": "2026-01-08-11-00-00 +0000"
+  },
+  {
+    "headline": "UC sets new record in California student enrollment as it weathers Trump challenges",
+    "link": "https://www.latimes.com/california/story/2026-01-08/uc-2025-enrollment-data",
     "source": "latimes",
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
@@ -4570,24 +4570,6 @@
     "link": "https://missionlocal.org/2026/01/sf-daniel-lurie-donald-trump-ice-call-2/",
     "source": "missionlocal",
     "pubdate": "2026-01-08-07-13-08 +0000"
-  },
-  {
-    "headline": "Officials dispute Noem’s claims after woman fatally shot by ICE in Minneapolis",
-    "link": "https://www.washingtonpost.com/nation/2026/01/07/minneapolis-shooting-ice/",
-    "source": "wapo",
-    "pubdate": "2026-01-08-07-00-18 +0000"
-  },
-  {
-    "headline": "What to know about the shooting",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-08-07-00-18 +0000"
-  },
-  {
-    "headline": "ICE officer fatally shoots woman during Minneapolis operation",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-08-06-59-56 +0000"
   },
   {
     "headline": "Australia to deport British man over alleged neo-Nazi links",
@@ -5448,12 +5430,6 @@
     "pubdate": "2026-01-07-11-47-00 +0000"
   },
   {
-    "headline": "A year after the Eaton fire, the loss of Altadena is still raw",
-    "link": "https://www.latimes.com/california/story/2026-01-07/year-after-eaton-fire-loss-of-altadena-is-still-raw",
-    "source": "latimes",
-    "pubdate": "2026-01-07-11-00-00 +0000"
-  },
-  {
     "headline": "Michael Reagan's death reverberates among Californians of both parties",
     "link": "https://www.latimes.com/politics/story/2026-01-07/michael-reagan-dead-earned-praise-from-californians-of-both-parties",
     "source": "latimes",
@@ -5466,14 +5442,8 @@
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Palisades fire report was sent to mayor's office for 'refinements,' Fire Commission president says",
-    "link": "https://www.latimes.com/california/story/2026-01-07/palisades-fire-report-was-sent-to-mayors-office-for-refinements",
-    "source": "latimes",
-    "pubdate": "2026-01-07-11-00-00 +0000"
-  },
-  {
-    "headline": "A year of Altadena's recovery following the Eaton fire",
-    "link": "https://www.latimes.com/california/story/2026-01-07/year-of-altadenas-recovery-following-eaton-fire",
+    "headline": "Images documenting the year of recovery after the Palisades fire",
+    "link": "https://www.latimes.com/california/story/2026-01-07/images-documenting-year-of-recovery-after-palisades-fire",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
@@ -5484,8 +5454,20 @@
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Images documenting the year of recovery after the Palisades fire",
-    "link": "https://www.latimes.com/california/story/2026-01-07/images-documenting-year-of-recovery-after-palisades-fire",
+    "headline": "A year of Altadena's recovery following the Eaton fire",
+    "link": "https://www.latimes.com/california/story/2026-01-07/year-of-altadenas-recovery-following-eaton-fire",
+    "source": "latimes",
+    "pubdate": "2026-01-07-11-00-00 +0000"
+  },
+  {
+    "headline": "Palisades fire report was sent to mayor's office for 'refinements,' Fire Commission president says",
+    "link": "https://www.latimes.com/california/story/2026-01-07/palisades-fire-report-was-sent-to-mayors-office-for-refinements",
+    "source": "latimes",
+    "pubdate": "2026-01-07-11-00-00 +0000"
+  },
+  {
+    "headline": "A year after the Eaton fire, the loss of Altadena is still raw",
+    "link": "https://www.latimes.com/california/story/2026-01-07/year-after-eaton-fire-loss-of-altadena-is-still-raw",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
@@ -6018,8 +6000,14 @@
     "pubdate": "2026-01-06-12-00-00 +0000"
   },
   {
-    "headline": "After 139 years, the oldest restaurant in L.A. has closed — for now",
-    "link": "https://www.latimes.com/food/story/2026-01-06/oldest-restaurant-in-los-angeles-county-has-closed",
+    "headline": "This immigrant survived the Eaton fire. Can she also escape Trump's deportation surge?",
+    "link": "https://www.latimes.com/california/story/2026-01-06/immigrant-who-survived-eaton-fire-now-faces-deportation",
+    "source": "latimes",
+    "pubdate": "2026-01-06-11-00-00 +0000"
+  },
+  {
+    "headline": "Auto shop class is thriving. Community college students basically fix your car for free",
+    "link": "https://www.latimes.com/california/story/2026-01-06/community-college-auto-class",
     "source": "latimes",
     "pubdate": "2026-01-06-11-00-00 +0000"
   },
@@ -6030,14 +6018,8 @@
     "pubdate": "2026-01-06-11-00-00 +0000"
   },
   {
-    "headline": "This immigrant survived the Eaton fire. Can she also escape Trump's deportation surge?",
-    "link": "https://www.latimes.com/california/story/2026-01-06/immigrant-who-survived-eaton-fire-now-faces-deportation",
-    "source": "latimes",
-    "pubdate": "2026-01-06-11-00-00 +0000"
-  },
-  {
-    "headline": "Auto shop class is thriving. Community college students basically fix your car for free",
-    "link": "https://www.latimes.com/california/story/2026-01-06/community-college-auto-class",
+    "headline": "After 139 years, the oldest restaurant in L.A. has closed — for now",
+    "link": "https://www.latimes.com/food/story/2026-01-06/oldest-restaurant-in-los-angeles-county-has-closed",
     "source": "latimes",
     "pubdate": "2026-01-06-11-00-00 +0000"
   },
@@ -6378,14 +6360,14 @@
     "pubdate": "2026-01-05-11-30-00 +0000"
   },
   {
-    "headline": "Teachers have a right to tell parents if their child might be LGBTQ+, federal judge rules",
-    "link": "https://www.latimes.com/california/story/2026-01-05/parental-notification-ruling-allows-teachers-to-tell-parents-their-child-might-be-lgbtq",
+    "headline": "Arellano: In Trump's invasion of Venezuela, Marco Rubio is the biggest sellout of all",
+    "link": "https://www.latimes.com/california/story/2026-01-05/marco-rubio-sellout-venezuela",
     "source": "latimes",
     "pubdate": "2026-01-05-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: In Trump's invasion of Venezuela, Marco Rubio is the biggest sellout of all",
-    "link": "https://www.latimes.com/california/story/2026-01-05/marco-rubio-sellout-venezuela",
+    "headline": "Teachers have a right to tell parents if their child might be LGBTQ+, federal judge rules",
+    "link": "https://www.latimes.com/california/story/2026-01-05/parental-notification-ruling-allows-teachers-to-tell-parents-their-child-might-be-lgbtq",
     "source": "latimes",
     "pubdate": "2026-01-05-11-00-00 +0000"
   },
