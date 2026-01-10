@@ -1,13 +1,13 @@
 [
   {
-    "score": 282,
+    "score": 274,
     "pubdate": "2026-01-10-00-23-02 +0000",
     "source": "nypost",
     "headline": "President Trump wears ‘Happy Trump’ lapel pin of himself for oil magnate meeting",
     "link": "https://nypost.com/2026/01/09/us-news/president-trump-wears-happy-trump-lapel-pin-of-himself-for-oil-magnate-meeting/"
   },
   {
-    "score": 163,
+    "score": 161,
     "pubdate": "2026-01-09-21-43-00 +0000",
     "source": "wsj",
     "headline": "Renee Nicole Good, the woman fatally shot by an ICE agent in Minneapolis, was a 37-year-old mother who had moved to Minnesota to start a new chapter",
@@ -21,7 +21,7 @@
     "link": "https://www.bbc.com/news/articles/c62wxezynk2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 98,
+    "score": 94,
     "pubdate": "2026-01-10-06-52-49 +0000",
     "source": "nyt",
     "headline": "Venezuela Updates: Trump’s Push to Invest in Venezuela Gets a Tepid Response From Oil Executives",
@@ -35,13 +35,6 @@
     "link": "https://www.wsj.com/economy/jobs/job-market-cooling-labor-department-6d4204ed"
   },
   {
-    "score": 60,
-    "pubdate": "2026-01-09-18-34-22 +0000",
-    "source": "nyt",
-    "headline": "Freed Venezuelan Political Prisoner Called Maduro’s 2024 Victory a Fraud to His Face",
-    "link": "https://www.nytimes.com/2026/01/09/world/americas/enrique-marquez-venezuela-prisoner-maduro-fraud.html"
-  },
-  {
     "score": 59,
     "pubdate": "2026-01-10-04-13-46 +0000",
     "source": "nyt",
@@ -49,7 +42,14 @@
     "link": "https://www.nytimes.com/2026/01/09/us/politics/credit-card-interest-cap.html"
   },
   {
-    "score": 55,
+    "score": 58,
+    "pubdate": "2026-01-09-18-34-22 +0000",
+    "source": "nyt",
+    "headline": "Freed Venezuelan Political Prisoner Called Maduro’s 2024 Victory a Fraud to His Face",
+    "link": "https://www.nytimes.com/2026/01/09/world/americas/enrique-marquez-venezuela-prisoner-maduro-fraud.html"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-01-09-20-39-22 +0000",
     "source": "latimes",
     "headline": "AI windfall helps California narrow projected $3-billion budget deficit",
@@ -63,7 +63,7 @@
     "link": "https://www.wsj.com/economy/jobs/trump-posted-takeaways-from-december-jobs-report-before-publication-55421edb"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2026-01-09-12-23-44 +0000",
     "source": "nyt",
     "headline": "Trump Indicates He Will Meet Venezuela’s Machado After Offer to Give Him Her Nobel Peace Prize",
