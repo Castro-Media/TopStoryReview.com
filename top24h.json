@@ -1,20 +1,20 @@
 [
   {
-    "score": 230,
+    "score": 220,
     "pubdate": "2026-01-10-00-23-02 +0000",
     "source": "nypost",
     "headline": "President Trump wears ‘Happy Trump’ lapel pin of himself for oil magnate meeting",
     "link": "https://nypost.com/2026/01/09/us-news/president-trump-wears-happy-trump-lapel-pin-of-himself-for-oil-magnate-meeting/"
   },
   {
-    "score": 137,
+    "score": 128,
     "pubdate": "2026-01-09-21-43-00 +0000",
     "source": "wsj",
     "headline": "Renee Nicole Good, the woman fatally shot by an ICE agent in Minneapolis, was a 37-year-old mother who had moved to Minnesota to start a new chapter",
     "link": "https://www.wsj.com/us-news/what-we-know-so-far-about-renee-nicole-good-bb3d847c"
   },
   {
-    "score": 87,
+    "score": 76,
     "pubdate": "2026-01-10-00-05-41 +0000",
     "source": "bbc",
     "headline": "South Africa's strained ties with US face new test - war games with China, Iran and Russia",
@@ -28,14 +28,14 @@
     "link": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 56,
+    "score": 54,
     "pubdate": "2026-01-10-16-52-27 +0000",
     "source": "nypost",
     "headline": "Keane warns Iranian regime to take Trump’s threats ‘dead serious’ amid ongoing protests",
     "link": "https://nypost.com/2026/01/10/us-news/keane-warns-iranian-regime-to-take-trumps-threats-dead-serious-amid-ongoing-protests/"
   },
   {
-    "score": 54,
+    "score": 53,
     "pubdate": "2026-01-10-18-52-27 +0000",
     "source": "nypost",
     "headline": "Ilhan Omar squares off against feds, joins Minneapolis protesters after being kicked out ICE facility",
@@ -50,13 +50,6 @@
   },
   {
     "score": 52,
-    "pubdate": "2026-01-09-19-35-38 +0000",
-    "source": "bbc",
-    "headline": "EU reaches South America trade deal after 25 years of talks",
-    "link": "https://www.bbc.com/news/articles/ceqzj49gny4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 52,
     "pubdate": "2026-01-10-00-15-43 +0000",
     "source": "latimes",
     "headline": "Newsom's budget includes $200 million to make up for Trump's canceled EV rebates, among other climate items",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Trump calls for a 10%, one-year cap on credit card interest rates: ‘AFFORDABILITY!’",
     "link": "https://nypost.com/2026/01/09/us-news/trump-calls-for-a-10-one-year-cap-on-credit-card-interest-rates-affordability/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-01-10-11-32-44 +0000",
+    "source": "bbc",
+    "headline": "Rescuers race to find dozens missing in deadly Philippines landfill collapse",
+    "link": "https://www.bbc.com/news/articles/cn42jqlqy4xo?at_medium=RSS&at_campaign=rss"
   }
 ]
