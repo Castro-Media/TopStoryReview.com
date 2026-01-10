@@ -1,37 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-01-10-02-29-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump called for credit-card interest rates to be capped at 10% for one year in his latest attempt to address voter concerns about the stubbornly high cost of living",
-    "link": "https://www.wsj.com/politics/policy/trump-calls-for-10-cap-on-credit-card-interest-rates-73365952"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-10-02-18-29 +0000",
-    "source": "nyt",
-    "headline": "Minnesota Woman Dies After Shark Bite in U.S. Virgin Islands, Authorities Say",
-    "link": "https://www.nytimes.com/2026/01/09/us/shark-attack-virgin-islands-death.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-01-10-02-20-27 +0000",
+    "score": 26,
+    "pubdate": "2026-01-10-03-23-57 +0000",
     "source": "nyt",
     "headline": "Venezuela Updates: Trump’s Push to Invest in Venezuela Gets a Tepid Response From Oil Executives",
     "link": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us"
   },
   {
-    "score": 7,
-    "pubdate": "2026-01-10-02-19-03 +0000",
-    "source": "wapo",
-    "headline": "The ICE agent’s cellphone video: Five key moments",
-    "link": "https://www.washingtonpost.com/investigations/2026/01/09/moments-before-ice-shooting-minneapolis/"
+    "score": 24,
+    "pubdate": "2026-01-10-03-10-37 +0000",
+    "source": "bbc",
+    "headline": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
+    "link": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-01-10-02-18-29 +0000",
+    "score": 15,
+    "pubdate": "2026-01-10-03-23-55 +0000",
     "source": "nyt",
-    "headline": "Minnesota Woman Dies After Shark Bite in U.S. Virgin Islands, Authorities Say",
-    "link": "https://www.nytimes.com/2026/01/09/us/shark-attack-virgin-islands-death.html"
+    "headline": "U.S. Boards Another Tanker Carrying Venezuelan Oil",
+    "link": "https://www.nytimes.com/2026/01/09/world/americas/us-oil-tanker-venezuela-olina.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-10-03-12-12 +0000",
+    "source": "nyt",
+    "headline": "After President’s Capture, U.S. and Venezuela Explore Restoring Diplomatic Ties",
+    "link": "https://www.nytimes.com/2026/01/09/world/americas/venezuela-us-diplomacy-softening.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-10-03-16-01 +0000",
+    "source": "nypost",
+    "headline": "Two men shot inside NYC deli — as gunman remains at large, with $5K bounty offered",
+    "link": "https://nypost.com/2026/01/09/us-news/two-men-shot-inside-nyc-deli-as-gunman-remains-at-large-with-5k-bounty-offered/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-10-03-31-58 +0000",
+    "source": "bbc",
+    "headline": "Night of Swiss ski bar fire 'apocalyptic', woman tells Crans-Montana memorial",
+    "link": "https://www.bbc.com/news/articles/cn7jxm7jkg1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-10-03-40-00 +0000",
+    "source": "wsj",
+    "headline": "How Minnesota Became the Flashpoint in Trump’s Bid to Reshape America",
+    "link": "https://www.wsj.com/us-news/how-minnesota-became-the-flashpoint-in-trumps-bid-to-reshape-america-fdf9f98d"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-10-03-39-12 +0000",
+    "source": "bbc",
+    "headline": "Pair shot by immigration agents in Portland had gang links, officials say",
+    "link": "https://www.bbc.com/news/articles/c4g02z2n5lno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-10-04-00-00 +0000",
+    "source": "wsj",
+    "headline": "Greenland Was America’s Friend. Now It’s a Takeover Target.",
+    "link": "https://www.wsj.com/world/europe/greenland-war-us-trump-f0b3329f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-10-03-50-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Calls for 10% Cap on Credit-Card Interest Rates",
+    "link": "https://www.wsj.com/finance/regulation/trump-calls-for-10-cap-on-credit-card-interest-rates-73365952?mod=rss_markets_main"
   }
 ]
