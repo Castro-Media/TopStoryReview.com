@@ -1,16 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2026-01-10-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "Greenland Was America’s Friend. Now It’s a Takeover Target.",
-    "link": "https://www.wsj.com/world/europe/greenland-war-us-trump-f0b3329f"
+    "score": 18,
+    "pubdate": "2026-01-10-05-00-04 +0000",
+    "source": "nyt",
+    "headline": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
+    "link": "https://www.nytimes.com/2026/01/10/business/volkswagen-tariffs-trump.html"
   },
   {
-    "score": 4,
-    "pubdate": "2026-01-10-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "Can Trump Make Venezuela an Oil Giant Again?",
-    "link": "https://www.wsj.com/world/americas/can-trump-make-venezuela-an-oil-giant-again-20bcfa03"
+    "score": 15,
+    "pubdate": "2026-01-10-05-39-35 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Updates: Trump’s Push to Invest in Venezuela Gets a Tepid Response From Oil Executives",
+    "link": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-10-05-09-34 +0000",
+    "source": "nyt",
+    "headline": "Landfill Collapse in Philippines Leaves 4 Dead and Dozens Missing",
+    "link": "https://www.nytimes.com/2026/01/09/world/asia/philippines-landfill-collapse-cebu.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-10-05-48-29 +0000",
+    "source": "startribune",
+    "headline": "NBA veteran Julius Randle finds an inner peace in his routine with Timberwolves",
+    "link": "https://www.startribune.com/julius-randle-timberwolves-knicks-trade-family-health-issues/601549900"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-10-05-01-05 +0000",
+    "source": "nyt",
+    "headline": "I.C.C. Judges Denounce Effect of Trump’s Sanctions",
+    "link": "https://www.nytimes.com/2026/01/10/world/europe/icc-judges-us-sanctions-trump.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-10-05-45-24 +0000",
+    "source": "nyt",
+    "headline": "Thomas V. Cash, Cartel-Busting D.E.A. Chief in Miami, Dies at 85",
+    "link": "https://www.nytimes.com/2026/01/09/us/thomas-v-cash-dead.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-10-05-46-58 +0000",
+    "source": "nyt",
+    "headline": "Washington National Opera Is Leaving the Kennedy Center",
+    "link": "https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-10-05-09-34 +0000",
+    "source": "nyt",
+    "headline": "Landfill Collapse in Philippines Leaves 4 Dead and Dozens Missing",
+    "link": "https://www.nytimes.com/2026/01/09/world/asia/philippines-landfill-collapse-cebu.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-10-05-01-05 +0000",
+    "source": "nyt",
+    "headline": "I.C.C. Judges Denounce Effect of Trump’s Sanctions",
+    "link": "https://www.nytimes.com/2026/01/10/world/europe/icc-judges-us-sanctions-trump.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-10-05-00-04 +0000",
+    "source": "nyt",
+    "headline": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
+    "link": "https://www.nytimes.com/2026/01/10/business/volkswagen-tariffs-trump.html"
   }
 ]
