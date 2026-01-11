@@ -1,110 +1,32 @@
 [
   {
-    "headline": "I never saw young women on Epstein visits, Mandelson tells BBC",
-    "link": "https://www.bbc.com/news/articles/cd9el4dw0z3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-11-11-47-09 +0000"
+    "headline": "After Marine vet Trevor Reed was freed from a Russian prison, he sought revenge by fighting for Ukraine",
+    "link": "https://nypost.com/2026/01/11/world-news/marine-vet-was-freed-from-russian-prison-fought-for-ukraine/",
+    "source": "nypost",
+    "pubdate": "2026-01-11-13-00-00 +0000"
   },
   {
-    "headline": "Iran protesters defy crackdown as videos show violent clashes",
-    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-11-11-34-16 +0000"
+    "headline": "With YouTube and TikTok, dentists are trying to get Gen Z to show up",
+    "link": "https://www.washingtonpost.com/nation/2026/01/11/dentists-gen-z-skipping-dental-care/",
+    "source": "wapo",
+    "pubdate": "2026-01-11-13-00-00 +0000"
   },
   {
-    "headline": "Iran protesters defy crackdown as videos show violent clashes",
-    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+    "headline": "‘Massacre’ feared as Iran tries to crush protests; U.S. weighs military options",
+    "link": "https://www.washingtonpost.com/world/2026/01/11/iran-protests-death-toll/",
+    "source": "wapo",
+    "pubdate": "2026-01-11-12-26-18 +0000"
+  },
+  {
+    "headline": "Potholes map rates council road repair progress",
+    "link": "https://www.bbc.com/news/articles/ckgj1m1ze8go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-11-11-34-16 +0000"
+    "pubdate": "2026-01-11-12-20-57 +0000"
   },
   {
     "headline": "Tories will channel anger at Labour, vows Badenoch",
     "link": "https://www.bbc.com/news/articles/c0jvz020zzyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-11-11-18-31 +0000"
-  },
-  {
-    "headline": "How Mississippi Schools, Like Hazlehurst Elementary, Transformed itself From Worst to Best",
-    "link": "https://www.nytimes.com/2026/01/11/us/mississippi-schools-transformation.html",
-    "source": "nyt",
-    "pubdate": "2026-01-11-11-00-13 +0000"
-  },
-  {
-    "headline": "Bronx building Mamdani used to showcase new housing commish’s talents has 200 violations — after favored nonprofit ran it into the ground",
-    "link": "https://nypost.com/2026/01/11/us-news/bronx-building-mamdani-highlighted-to-showcase-nycs-new-housing-commissioners-talents-has-nearly-200-violations/",
-    "source": "nypost",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Citizens are finally getting it: No one's safe from Trump's deportation ambitions",
-    "link": "https://www.latimes.com/california/story/2026-01-11/citizens-arent-safe-from-ice-border-patrol",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Deadly ICE shooting in Minnesota, affordability stir up California gubernatorial forums",
-    "link": "https://www.latimes.com/california/story/2026-01-11/gubernatorial-candidates-address-immigration-affordability-homelessness",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "While celebrating Maduro's capture, Venezuelan immigrants worry about deportation",
-    "link": "https://www.latimes.com/politics/story/2026-01-11/while-celebrating-maduros-capture-venezuelan-immigrants-worry-about-deportation",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Why California is keeping this unusual solar plant running when both Trump and Biden wanted it closed",
-    "link": "https://www.latimes.com/environment/story/2026-01-11/trump-biden-both-want-this-california-solar-facility-to-close-state-has-other-plans",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "The rise and fall of the Sprinkles empire that made cupcakes cool",
-    "link": "https://www.latimes.com/business/story/2026-01-11/rise-fall-of-sprinkles-empire-that-made-cupcakes-cool",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: Trump can be hard to take. But his tariffs keep this fisherman afloat",
-    "link": "https://www.latimes.com/politics/story/2026-01-11/trumps-america-louisiana-shrimp-fisherman-prospers-tariffs",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Why California is keeping this unusual solar plant running when both Trump and Biden wanted it closed",
-    "link": "https://www.latimes.com/environment/story/2026-01-11/trump-biden-both-want-this-california-solar-facility-to-close-state-has-other-plans",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Trump's first-year actions sparked a fiery legal war, and stunning rebukes from judges",
-    "link": "https://www.latimes.com/politics/story/2026-01-11/trumps-first-year-actions-sparked-fiery-legal-war-stunning-rebukes-from-judges",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: Trump can be hard to take. But his tariffs keep this fisherman afloat",
-    "link": "https://www.latimes.com/politics/story/2026-01-11/trumps-america-louisiana-shrimp-fisherman-prospers-tariffs",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Deadly ICE shooting in Minnesota, affordability stir up California gubernatorial forums",
-    "link": "https://www.latimes.com/california/story/2026-01-11/gubernatorial-candidates-address-immigration-affordability-homelessness",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Citizens are finally getting it: No one's safe from Trump's deportation ambitions",
-    "link": "https://www.latimes.com/california/story/2026-01-11/citizens-arent-safe-from-ice-border-patrol",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "While celebrating Maduro's capture, Venezuelan immigrants worry about deportation",
-    "link": "https://www.latimes.com/politics/story/2026-01-11/while-celebrating-maduros-capture-venezuelan-immigrants-worry-about-deportation",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
+    "pubdate": "2026-01-11-12-07-16 +0000"
   }
 ]
