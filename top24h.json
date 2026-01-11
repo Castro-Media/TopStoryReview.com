@@ -1,13 +1,13 @@
 [
   {
-    "score": 97,
+    "score": 95,
     "pubdate": "2026-01-11-19-48-53 +0000",
     "source": "nyt",
     "headline": "Trump Says Cuba Will No Longer Get ‘Oil or Money’ From Venezuela",
     "link": "https://www.nytimes.com/2026/01/11/us/politics/trump-venezuela-oil-cuba.html"
   },
   {
-    "score": 84,
+    "score": 79,
     "pubdate": "2026-01-11-07-27-11 +0000",
     "source": "nypost",
     "headline": "Iran warns US troops and Israel will be targets if America strikes over protests as death toll rises to 116",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/01/11/us-news/kristi-noem-clashes-with-cnns-jake-tapper-over-minneapolis-ice-shooting/"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2026-01-11-18-24-38 +0000",
     "source": "nypost",
     "headline": "Ex-NY Gov. Andrew Cuomo in talks to host weekly radio show on John Catsimatidis’s station after mayoral loss to Mamdani",
@@ -33,13 +33,6 @@
     "source": "nyt",
     "headline": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
     "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-01-10-21-12-03 +0000",
-    "source": "bbc",
-    "headline": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
-    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 39,
@@ -56,7 +49,7 @@
     "link": "https://nypost.com/2026/01/11/us-news/us-invasion-of-greenland-would-trigger-end-of-nato-war-with-europe-dems-warn/"
   },
   {
-    "score": 38,
+    "score": 37,
     "pubdate": "2026-01-11-18-56-39 +0000",
     "source": "nypost",
     "headline": "Ilhan Omar urges public to film ICE, chides agent who shot Renee Good for getting ‘in front of moving car’",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "After Marine vet Trevor Reed was freed from a Russian prison, he sought revenge by fighting for Ukraine",
     "link": "https://nypost.com/2026/01/11/world-news/marine-vet-was-freed-from-russian-prison-fought-for-ukraine/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-01-11-00-42-19 +0000",
+    "source": "bbc",
+    "headline": "'Hounded and harassed': The former pop star taking on Uganda's long-time president",
+    "link": "https://www.bbc.com/news/articles/cz0pr807yz7o?at_medium=RSS&at_campaign=rss"
   }
 ]
