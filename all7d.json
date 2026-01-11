@@ -1,27 +1,123 @@
 [
   {
-    "headline": "Major Trump Briefing on Iran Options Planned for Tuesday",
+    "headline": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
+    "link": "https://www.nytimes.com/2026/01/10/business/dealbook/oil-executives-trump-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-38-56 +0000"
+  },
+  {
+    "headline": "Trump tells Cuba to 'make a deal, before it is too late'",
+    "link": "https://www.bbc.com/news/articles/cx2kv2gn62vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-11-16-33-10 +0000"
+  },
+  {
+    "headline": "Trump tells Cuba to 'make a deal, before it is too late'",
+    "link": "https://www.bbc.com/news/articles/cx2kv2gn62vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-11-16-33-10 +0000"
+  },
+  {
+    "headline": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal",
+    "link": "https://www.cbc.ca/news/world/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-pushes-for-deal-9.7041441?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-11-16-29-40 +0000"
+  },
+  {
+    "headline": "South Africa Risks Angering Trump by Hosting Navies of Iran, Russia, China",
+    "link": "https://www.wsj.com/world/africa/south-africa-risks-angering-trump-by-hosting-navies-of-iran-russia-china-f55067a4",
+    "source": "wsj",
+    "pubdate": "2026-01-11-16-28-00 +0000"
+  },
+  {
+    "headline": "Iran’s President Warns Protesters Not to Destabilize the Country",
+    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-22-57 +0000"
+  },
+  {
+    "headline": "Iran’s President Warns Protesters Not to Destabilize the Country",
+    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-22-57 +0000"
+  },
+  {
+    "headline": "Iran’s President Warns Protesters Not to Destabilize the Country",
+    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-22-57 +0000"
+  },
+  {
+    "headline": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-22-44 +0000"
+  },
+  {
+    "headline": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-22-44 +0000"
+  },
+  {
+    "headline": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-22-44 +0000"
+  },
+  {
+    "headline": "NY nurses union threatens strike with hours until deadline",
+    "link": "https://nypost.com/2026/01/11/us-news/ny-nurses-union-threatens-strike-with-hours-until-deadline/",
+    "source": "nypost",
+    "pubdate": "2026-01-11-16-07-01 +0000"
+  },
+  {
+    "headline": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
+    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-11-16-04-02 +0000"
+  },
+  {
+    "headline": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
+    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-11-16-04-02 +0000"
+  },
+  {
+    "headline": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
+    "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-03-25 +0000"
+  },
+  {
+    "headline": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
+    "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2026-01-11-16-03-25 +0000"
+  },
+  {
+    "headline": "U.S. Steps Up Planning for Possible Action in Iran",
     "link": "https://www.wsj.com/world/middle-east/major-trump-briefing-on-iran-options-planned-for-tuesday-5827429f",
     "source": "wsj",
-    "pubdate": "2026-01-11-15-51-00 +0000"
+    "pubdate": "2026-01-11-16-03-00 +0000"
   },
   {
-    "headline": "Iran’s President Warns Protesters Not to Destabilize the Country",
-    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/irans-president-warns-protesters-not-to-destabilize-the-country.html",
-    "source": "nyt",
-    "pubdate": "2026-01-11-15-49-46 +0000"
+    "headline": "Kristi Noem clashes with CNN’s Jake Tapper over Minneapolis ICE shooting: ‘You don’t get to change the facts’",
+    "link": "https://nypost.com/2026/01/11/us-news/kristi-noem-clashes-with-cnns-jake-tapper-over-minneapolis-ice-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-01-11-15-55-43 +0000"
   },
   {
-    "headline": "Iran’s President Warns Protesters Not to Destabilize the Country",
-    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/irans-president-warns-protesters-not-to-destabilize-the-country.html",
-    "source": "nyt",
-    "pubdate": "2026-01-11-15-49-46 +0000"
+    "headline": "Kristi Noem clashes with CNN’s Jake Tapper over Minneapolis ICE shooting: ‘You don’t get to change the facts’",
+    "link": "https://nypost.com/2026/01/11/us-news/kristi-noem-clashes-with-cnns-jake-tapper-over-minneapolis-ice-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-01-11-15-55-43 +0000"
   },
   {
-    "headline": "Iran’s President Warns Protesters Not to Destabilize the Country",
-    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/irans-president-warns-protesters-not-to-destabilize-the-country.html",
-    "source": "nyt",
-    "pubdate": "2026-01-11-15-49-46 +0000"
+    "headline": "Trump won't take Greenland by force, Mandelson says",
+    "link": "https://www.bbc.com/news/articles/cp9j1d3zgvgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-11-15-35-21 +0000"
   },
   {
     "headline": "Trump won't take Greenland by force, Mandelson says",
@@ -102,18 +198,6 @@
     "pubdate": "2026-01-11-14-57-33 +0000"
   },
   {
-    "headline": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-11-14-41-41 +0000"
-  },
-  {
-    "headline": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-11-14-41-41 +0000"
-  },
-  {
     "headline": "Israeli Police Question Top Netanyahu Aide Over Leaked Document Case",
     "link": "https://www.nytimes.com/2026/01/11/world/middleeast/israel-police-netanyahu-aide-tzachi-braverman.html",
     "source": "nyt",
@@ -148,12 +232,6 @@
     "link": "https://www.bbc.com/news/articles/c75xdg2p36lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-11-14-18-04 +0000"
-  },
-  {
-    "headline": "Trump tells Cuba to 'make a deal, before it is too late'",
-    "link": "https://www.bbc.com/news/articles/cx2kv2gn62vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-11-14-16-30 +0000"
   },
   {
     "headline": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
@@ -282,6 +360,12 @@
     "pubdate": "2026-01-11-11-47-09 +0000"
   },
   {
+    "headline": "Epstein kept me 'separate' from his sexual side because I'm gay, Mandelson tells BBC",
+    "link": "https://www.bbc.com/news/articles/cd9el4dw0z3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-11-11-47-09 +0000"
+  },
+  {
     "headline": "How Mississippi Schools, Like Hazlehurst Elementary, Transformed itself From Worst to Best",
     "link": "https://www.nytimes.com/2026/01/11/us/mississippi-schools-transformation.html",
     "source": "nyt",
@@ -300,12 +384,6 @@
     "pubdate": "2026-01-11-11-00-00 +0000"
   },
   {
-    "headline": "Deadly ICE shooting in Minnesota, affordability stir up California gubernatorial forums",
-    "link": "https://www.latimes.com/california/story/2026-01-11/gubernatorial-candidates-address-immigration-affordability-homelessness",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
     "headline": "Why California is keeping this unusual solar plant running when both Trump and Biden wanted it closed",
     "link": "https://www.latimes.com/environment/story/2026-01-11/trump-biden-both-want-this-california-solar-facility-to-close-state-has-other-plans",
     "source": "latimes",
@@ -314,6 +392,12 @@
   {
     "headline": "Arellano: Citizens are finally getting it: No one's safe from Trump's deportation ambitions",
     "link": "https://www.latimes.com/california/story/2026-01-11/citizens-arent-safe-from-ice-border-patrol",
+    "source": "latimes",
+    "pubdate": "2026-01-11-11-00-00 +0000"
+  },
+  {
+    "headline": "Deadly ICE shooting in Minnesota, affordability stir up California gubernatorial forums",
+    "link": "https://www.latimes.com/california/story/2026-01-11/gubernatorial-candidates-address-immigration-affordability-homelessness",
     "source": "latimes",
     "pubdate": "2026-01-11-11-00-00 +0000"
   },
@@ -366,12 +450,6 @@
     "pubdate": "2026-01-11-11-00-00 +0000"
   },
   {
-    "headline": "Deadly ICE shooting in Minnesota, affordability stir up California gubernatorial forums",
-    "link": "https://www.latimes.com/california/story/2026-01-11/gubernatorial-candidates-address-immigration-affordability-homelessness",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
     "headline": "While celebrating Maduro's capture, Venezuelan immigrants worry about deportation",
     "link": "https://www.latimes.com/politics/story/2026-01-11/while-celebrating-maduros-capture-venezuelan-immigrants-worry-about-deportation",
     "source": "latimes",
@@ -380,6 +458,12 @@
   {
     "headline": "Arellano: Citizens are finally getting it: No one's safe from Trump's deportation ambitions",
     "link": "https://www.latimes.com/california/story/2026-01-11/citizens-arent-safe-from-ice-border-patrol",
+    "source": "latimes",
+    "pubdate": "2026-01-11-11-00-00 +0000"
+  },
+  {
+    "headline": "Deadly ICE shooting in Minnesota, affordability stir up California gubernatorial forums",
+    "link": "https://www.latimes.com/california/story/2026-01-11/gubernatorial-candidates-address-immigration-affordability-homelessness",
     "source": "latimes",
     "pubdate": "2026-01-11-11-00-00 +0000"
   },
@@ -398,6 +482,12 @@
   {
     "headline": "AI Is Causing a Memory Shortage. Why Producers Aren’t Rushing to Make a Lot More.",
     "link": "https://www.wsj.com/tech/ai-is-causing-a-memory-shortage-why-producers-arent-rushing-to-make-a-lot-more-8dd15194?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-11-10-30-00 +0000"
+  },
+  {
+    "headline": "It’s a Weird Time to Be a Democrat in Silicon Valley",
+    "link": "https://www.wsj.com/politics/policy/its-a-weird-time-to-be-a-democrat-in-silicon-valley-7c4d9f84?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-11-10-30-00 +0000"
   },
@@ -442,18 +532,6 @@
     "link": "https://www.nytimes.com/2026/01/11/us/dallas-fat-soccer.html",
     "source": "nyt",
     "pubdate": "2026-01-11-10-02-09 +0000"
-  },
-  {
-    "headline": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
-    "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html",
-    "source": "nyt",
-    "pubdate": "2026-01-11-10-02-00 +0000"
-  },
-  {
-    "headline": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
-    "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html",
-    "source": "nyt",
-    "pubdate": "2026-01-11-10-02-00 +0000"
   },
   {
     "headline": "Trump Threats and Venezuela Strike Leave Mexico Agonizing Over How to Respond",
@@ -654,7 +732,7 @@
     "pubdate": "2026-01-11-04-16-32 +0000"
   },
   {
-    "headline": "Inside North Korea’s Obsession With Dominating Girls’ Soccer",
+    "headline": "North Korea Is Obsessed With World Domination—in Girls Soccer",
     "link": "https://www.wsj.com/world/asia/north-korea-kim-jong-un-girls-soccer-1e7b00c4",
     "source": "wsj",
     "pubdate": "2026-01-11-04-00-00 +0000"
@@ -990,12 +1068,6 @@
     "pubdate": "2026-01-10-23-01-41 +0000"
   },
   {
-    "headline": "US could lift additional sanctions on Venezuela next week to facilitate oil sales",
-    "link": "https://nypost.com/2026/01/10/world-news/us-could-lift-additional-sanctions-on-venezuela-next-week-to-facilitate-oil-sales/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-23-01-41 +0000"
-  },
-  {
     "headline": "Disinformation in Minneapolis Shooting Points at People Who Were Not Involved",
     "link": "https://www.nytimes.com/2026/01/10/us/disinformation-minneapolis-shooting-ice.html",
     "source": "nyt",
@@ -1060,12 +1132,6 @@
     "link": "https://www.nytimes.com/2026/01/10/world/europe/irish-passport-recalled.html",
     "source": "nyt",
     "pubdate": "2026-01-10-22-11-11 +0000"
-  },
-  {
-    "headline": "Thousands pack lefty activist group Monarca’s anti-ICE training — where they’re urged to annoy agents ‘like a mosquito’",
-    "link": "https://nypost.com/2026/01/10/us-news/minnesota-activist-group-monarca-training-civilians-to-follow-ice-agents-and-is-ramping-up-activities-showing-in-force/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-22-10-13 +0000"
   },
   {
     "headline": "New Jersey’s Petty’s Island, now owned by Venezuela, could soon belong to Trump donor: report",
@@ -1632,12 +1698,6 @@
     "pubdate": "2026-01-10-13-00-44 +0000"
   },
   {
-    "headline": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
-    "link": "https://www.nytimes.com/2026/01/10/business/dealbook/oil-executives-trump-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-13-00-05 +0000"
-  },
-  {
     "headline": "One driver accused of two crashes that left three dead in Long Beach, police say",
     "link": "https://www.latimes.com/california/story/2026-01-10/long-beach-driver-turns-herself-in-after-two-deadly-collisions",
     "source": "latimes",
@@ -2022,12 +2082,6 @@
     "pubdate": "2026-01-10-04-13-46 +0000"
   },
   {
-    "headline": "Trump Wants 10% Cap on Credit Card Interest Rates, After Killing Other Fee Limits",
-    "link": "https://www.nytimes.com/2026/01/09/us/politics/credit-card-interest-cap.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-04-13-46 +0000"
-  },
-  {
     "headline": "U.S. Boards Another Tanker Carrying Venezuelan Oil",
     "link": "https://www.nytimes.com/2026/01/09/world/americas/us-oil-tanker-venezuela-olina.html",
     "source": "nyt",
@@ -2102,12 +2156,6 @@
   {
     "headline": "Iranians Are Rallying Around the Son of the Former Shah as Protests Swell",
     "link": "https://www.wsj.com/world/middle-east/iranians-are-rallying-around-the-son-of-the-former-shah-as-protests-swell-5ef0b03f",
-    "source": "wsj",
-    "pubdate": "2026-01-10-03-00-00 +0000"
-  },
-  {
-    "headline": "Elon Musk Relies on Gwynne Shotwell to Make SpaceX Soar",
-    "link": "https://www.wsj.com/business/gwynne-shotwell-spacex-5a2a0755?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-10-03-00-00 +0000"
   },
@@ -2634,12 +2682,6 @@
     "pubdate": "2026-01-09-22-37-00 +0000"
   },
   {
-    "headline": "Zohran Mamdani endorses key DSA ally in NY House race: ‘Proud to stand behind this vision’",
-    "link": "https://nypost.com/2026/01/09/us-news/zohran-mamdani-endorses-key-dsa-ally-in-ny-house-race/",
-    "source": "nypost",
-    "pubdate": "2026-01-09-22-32-01 +0000"
-  },
-  {
     "headline": "Kanye West sues ex-employee over Malibu mansion lien",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-09/kanye-west-sues-ex-employee-over-malibu-mansion-lien",
     "source": "latimes",
@@ -2770,12 +2812,6 @@
     "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-09-21-41-19 +0000"
-  },
-  {
-    "headline": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
-    "link": "https://www.nytimes.com/2026/01/09/us/politics/us-hiring-economy-trump-second-term.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-21-39-15 +0000"
   },
   {
     "headline": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump’s Second Term",
@@ -3276,12 +3312,6 @@
     "pubdate": "2026-01-09-16-32-48 +0000"
   },
   {
-    "headline": "Trump officials prepare executive order on housing affordability",
-    "link": "https://www.washingtonpost.com/business/2026/01/09/trump-housing-affordability-executive-order/",
-    "source": "wapo",
-    "pubdate": "2026-01-09-16-31-33 +0000"
-  },
-  {
     "headline": "Trump's grand plan to reshape the world order leaves Europe with a difficult choice to make",
     "link": "https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3678,14 +3708,14 @@
     "pubdate": "2026-01-09-11-21-03 +0000"
   },
   {
-    "headline": "California is free of all drought, dryness for first time in 25 years. Inside the remarkable turnaround",
-    "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+    "headline": "Trump casts Maduro as 'narco-terrorist' driving American deaths. Experts have questions",
+    "link": "https://www.latimes.com/world-nation/story/2026-01-09/trump-casts-maduro-as-narco-terrorist-experts-have-questions",
     "source": "latimes",
     "pubdate": "2026-01-09-11-00-00 +0000"
   },
   {
-    "headline": "Trump casts Maduro as 'narco-terrorist' driving American deaths. Experts have questions",
-    "link": "https://www.latimes.com/world-nation/story/2026-01-09/trump-casts-maduro-as-narco-terrorist-experts-have-questions",
+    "headline": "California is free of all drought, dryness for first time in 25 years. Inside the remarkable turnaround",
+    "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
     "source": "latimes",
     "pubdate": "2026-01-09-11-00-00 +0000"
   },
@@ -3808,12 +3838,6 @@
     "link": "https://www.wsj.com/world/middle-east/u-s-pushes-to-defuse-worsening-violence-in-syrias-aleppo-45c6bcf1",
     "source": "wsj",
     "pubdate": "2026-01-09-09-10-00 +0000"
-  },
-  {
-    "headline": "How Trump and Vance's accounts of Minneapolis ICE shooting differ from video evidence",
-    "link": "https://www.cbc.ca/news/world/minneapolis-ice-shooting-video-trump-vance-9.7038446?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-09-09-00-00 +0000"
   },
   {
     "headline": "India Needs Logistics Overhaul to Seize on Trade Shifts, Port Operator Says",
@@ -4138,12 +4162,6 @@
     "link": "https://www.bbc.com/news/articles/cwyxkzjpp87o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-09-00-07-59 +0000"
-  },
-  {
-    "headline": "A Shadow Fleet Smuggles Illicit Oil Across the High Seas. This Is How It Works.",
-    "link": "https://www.wsj.com/business/logistics/a-shadow-fleet-smuggles-illicit-oil-across-the-high-seas-this-is-how-it-works-eb8c9954",
-    "source": "wsj",
-    "pubdate": "2026-01-09-00-00-00 +0000"
   },
   {
     "headline": "A Shadow Fleet Smuggles Illicit Oil Across the High Seas. This Is How It Works.",
@@ -4794,14 +4812,14 @@
     "pubdate": "2026-01-08-14-01-45 +0000"
   },
   {
-    "headline": "Newsom's signature water tunnel is set back by California court ruling",
-    "link": "https://www.latimes.com/environment/story/2026-01-08/court-california-water-tunnel",
+    "headline": "Newsom moves to reshape who runs California's schools under budget plan",
+    "link": "https://www.latimes.com/california/story/2026-01-08/newsom-moves-to-reshape-who-runs-californias-schools",
     "source": "latimes",
     "pubdate": "2026-01-08-14-00-00 +0000"
   },
   {
-    "headline": "Newsom moves to reshape who runs California's schools under budget plan",
-    "link": "https://www.latimes.com/california/story/2026-01-08/newsom-moves-to-reshape-who-runs-californias-schools",
+    "headline": "Newsom's signature water tunnel is set back by California court ruling",
+    "link": "https://www.latimes.com/environment/story/2026-01-08/court-california-water-tunnel",
     "source": "latimes",
     "pubdate": "2026-01-08-14-00-00 +0000"
   },
@@ -4968,6 +4986,12 @@
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
+    "headline": "Contributor: The Supreme Court made a mess out of gun laws",
+    "link": "https://www.latimes.com/opinion/story/2026-01-08/california-open-carry-gun-ban-supreme-court-history",
+    "source": "latimes",
+    "pubdate": "2026-01-08-11-00-00 +0000"
+  },
+  {
     "headline": "Locals wanted to rebuild Pacific Palisades, Altadena. Then the big investors moved in",
     "link": "https://www.latimes.com/california/story/2026-01-08/locals-wanted-to-rebuild-pacific-palisades-altadena-then-big-investors-moved-in",
     "source": "latimes",
@@ -4980,14 +5004,8 @@
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
-    "headline": "California's exodus isn't just billionaires — it's regular people renting U-Hauls, too",
-    "link": "https://www.latimes.com/business/story/2026-01-08/californias-exodus-isnt-just-billionaires-its-regular-people-renting-u-hauls-too",
-    "source": "latimes",
-    "pubdate": "2026-01-08-11-00-00 +0000"
-  },
-  {
-    "headline": "UC sets new record in California student enrollment as it weathers Trump challenges",
-    "link": "https://www.latimes.com/california/story/2026-01-08/uc-2025-enrollment-data",
+    "headline": "California law let a politician avoid jail for child abuse charges. Lawmakers are furious",
+    "link": "https://www.latimes.com/california/story/2026-01-08/zack-scrivner-mental-health-diversion-lawmakers-angry-child-abuse",
     "source": "latimes",
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
@@ -4998,20 +5016,20 @@
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
-    "headline": "Contributor: The Supreme Court made a mess out of gun laws",
-    "link": "https://www.latimes.com/opinion/story/2026-01-08/california-open-carry-gun-ban-supreme-court-history",
-    "source": "latimes",
-    "pubdate": "2026-01-08-11-00-00 +0000"
-  },
-  {
-    "headline": "California law let a politician avoid jail for child abuse charges. Lawmakers are furious",
-    "link": "https://www.latimes.com/california/story/2026-01-08/zack-scrivner-mental-health-diversion-lawmakers-angry-child-abuse",
+    "headline": "California's exodus isn't just billionaires — it's regular people renting U-Hauls, too",
+    "link": "https://www.latimes.com/business/story/2026-01-08/californias-exodus-isnt-just-billionaires-its-regular-people-renting-u-hauls-too",
     "source": "latimes",
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
     "headline": "'Active shooter' or ICE agent's victim? What happened in L.A. New Year's Eve killing?",
     "link": "https://www.latimes.com/california/story/2026-01-08/ice-agent-keith-porter-killing-investigation",
+    "source": "latimes",
+    "pubdate": "2026-01-08-11-00-00 +0000"
+  },
+  {
+    "headline": "UC sets new record in California student enrollment as it weathers Trump challenges",
+    "link": "https://www.latimes.com/california/story/2026-01-08/uc-2025-enrollment-data",
     "source": "latimes",
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
@@ -5034,14 +5052,14 @@
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
-    "headline": "California law let a politician avoid jail for child abuse charges. Lawmakers are furious",
-    "link": "https://www.latimes.com/california/story/2026-01-08/zack-scrivner-mental-health-diversion-lawmakers-angry-child-abuse",
+    "headline": "Newsom's final State of the State speech steeped in rosy view of California, his record as governor",
+    "link": "https://www.latimes.com/california/story/2026-01-08/newsoms-final-state-of-state-speech-steeped-in-rosy-view-of-california-his-record-as-governor",
     "source": "latimes",
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
   {
-    "headline": "Newsom's final State of the State speech steeped in rosy view of California, his record as governor",
-    "link": "https://www.latimes.com/california/story/2026-01-08/newsoms-final-state-of-state-speech-steeped-in-rosy-view-of-california-his-record-as-governor",
+    "headline": "California law let a politician avoid jail for child abuse charges. Lawmakers are furious",
+    "link": "https://www.latimes.com/california/story/2026-01-08/zack-scrivner-mental-health-diversion-lawmakers-angry-child-abuse",
     "source": "latimes",
     "pubdate": "2026-01-08-11-00-00 +0000"
   },
@@ -5116,6 +5134,12 @@
     "link": "https://www.nytimes.com/2026/01/08/world/asia/china-hainan-russian-tourists.html",
     "source": "nyt",
     "pubdate": "2026-01-08-08-37-09 +0000"
+  },
+  {
+    "headline": "The Inquiry",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct723r?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-08-08-30-00 +0000"
   },
   {
     "headline": "Tesco Says It Expects to Hit Higher End of Profit Target",
@@ -5784,12 +5808,6 @@
     "pubdate": "2026-01-07-14-28-30 +0000"
   },
   {
-    "headline": "Why Trump’s Greenland Strategy Has the World on Edge",
-    "link": "https://www.nytimes.com/2026/01/07/business/dealbook/buy-invade-trump-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-07-14-22-15 +0000"
-  },
-  {
     "headline": "Birds of a feather",
     "link": "https://missionlocal.org/2026/01/sf-photos-birds-of-a-feather/",
     "source": "missionlocal",
@@ -5856,26 +5874,8 @@
     "pubdate": "2026-01-07-11-47-00 +0000"
   },
   {
-    "headline": "A year after the Eaton fire, the loss of Altadena is still raw",
-    "link": "https://www.latimes.com/california/story/2026-01-07/year-after-eaton-fire-loss-of-altadena-is-still-raw",
-    "source": "latimes",
-    "pubdate": "2026-01-07-11-00-00 +0000"
-  },
-  {
     "headline": "Failures of the past haunt L.A.'s fire recovery agenda for 2026",
     "link": "https://www.latimes.com/california/story/2026-01-07/failures-of-past-haunt-l-a-s-fire-recovery-agenda-for-2026",
-    "source": "latimes",
-    "pubdate": "2026-01-07-11-00-00 +0000"
-  },
-  {
-    "headline": "Palisades fire report was sent to mayor's office for 'refinements,' Fire Commission president says",
-    "link": "https://www.latimes.com/california/story/2026-01-07/palisades-fire-report-was-sent-to-mayors-office-for-refinements",
-    "source": "latimes",
-    "pubdate": "2026-01-07-11-00-00 +0000"
-  },
-  {
-    "headline": "A year of Altadena's recovery following the Eaton fire",
-    "link": "https://www.latimes.com/california/story/2026-01-07/year-of-altadenas-recovery-following-eaton-fire",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
@@ -5892,20 +5892,38 @@
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
+    "headline": "A year of Altadena's recovery following the Eaton fire",
+    "link": "https://www.latimes.com/california/story/2026-01-07/year-of-altadenas-recovery-following-eaton-fire",
+    "source": "latimes",
+    "pubdate": "2026-01-07-11-00-00 +0000"
+  },
+  {
+    "headline": "Palisades fire report was sent to mayor's office for 'refinements,' Fire Commission president says",
+    "link": "https://www.latimes.com/california/story/2026-01-07/palisades-fire-report-was-sent-to-mayors-office-for-refinements",
+    "source": "latimes",
+    "pubdate": "2026-01-07-11-00-00 +0000"
+  },
+  {
+    "headline": "A year after the Eaton fire, the loss of Altadena is still raw",
+    "link": "https://www.latimes.com/california/story/2026-01-07/year-after-eaton-fire-loss-of-altadena-is-still-raw",
+    "source": "latimes",
+    "pubdate": "2026-01-07-11-00-00 +0000"
+  },
+  {
     "headline": "Homeless on L.A.'s Skid Row fault of Democrats, says GOP gubernatorial candidate Sheriff Chad Bianco",
     "link": "https://www.latimes.com/california/story/2026-01-07/homeless-on-skid-row-fault-of-democrats-says-gop-gubernatorial-candidate-sheriff-chad-bianco",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Michael Reagan's death reverberates among Californians of both parties",
-    "link": "https://www.latimes.com/politics/story/2026-01-07/michael-reagan-dead-earned-praise-from-californians-of-both-parties",
+    "headline": "Chabria: Tim Walz isn't the only governor plagued by fraud. Newsom may be targeted next",
+    "link": "https://www.latimes.com/california/story/2026-01-07/tim-walz-isnt-only-governor-plagued-by-fraud-newsom-may-be-targeted-next",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Chabria: Tim Walz isn't the only governor plagued by fraud. Newsom may be targeted next",
-    "link": "https://www.latimes.com/california/story/2026-01-07/tim-walz-isnt-only-governor-plagued-by-fraud-newsom-may-be-targeted-next",
+    "headline": "Michael Reagan's death reverberates among Californians of both parties",
+    "link": "https://www.latimes.com/politics/story/2026-01-07/michael-reagan-dead-earned-praise-from-californians-of-both-parties",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
@@ -5922,14 +5940,14 @@
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Chabria: Tim Walz isn't the only governor plagued by fraud. Newsom may be targeted next",
-    "link": "https://www.latimes.com/california/story/2026-01-07/tim-walz-isnt-only-governor-plagued-by-fraud-newsom-may-be-targeted-next",
+    "headline": "Michael Reagan's death reverberates among Californians of both parties",
+    "link": "https://www.latimes.com/politics/story/2026-01-07/michael-reagan-dead-earned-praise-from-californians-of-both-parties",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
   {
-    "headline": "Michael Reagan's death reverberates among Californians of both parties",
-    "link": "https://www.latimes.com/politics/story/2026-01-07/michael-reagan-dead-earned-praise-from-californians-of-both-parties",
+    "headline": "Chabria: Tim Walz isn't the only governor plagued by fraud. Newsom may be targeted next",
+    "link": "https://www.latimes.com/california/story/2026-01-07/tim-walz-isnt-only-governor-plagued-by-fraud-newsom-may-be-targeted-next",
     "source": "latimes",
     "pubdate": "2026-01-07-11-00-00 +0000"
   },
@@ -6354,12 +6372,6 @@
     "pubdate": "2026-01-06-12-00-00 +0000"
   },
   {
-    "headline": "After 139 years, the oldest restaurant in L.A. has closed — for now",
-    "link": "https://www.latimes.com/food/story/2026-01-06/oldest-restaurant-in-los-angeles-county-has-closed",
-    "source": "latimes",
-    "pubdate": "2026-01-06-11-00-00 +0000"
-  },
-  {
     "headline": "This immigrant survived the Eaton fire. Can she also escape Trump's deportation surge?",
     "link": "https://www.latimes.com/california/story/2026-01-06/immigrant-who-survived-eaton-fire-now-faces-deportation",
     "source": "latimes",
@@ -6374,6 +6386,12 @@
   {
     "headline": "Peer-to-peer support program shows early gains in youth mental health",
     "link": "https://www.latimes.com/california/story/2026-01-06/peer-to-peer-support-program-shows-signs-of-success-in-youth-mental-health",
+    "source": "latimes",
+    "pubdate": "2026-01-06-11-00-00 +0000"
+  },
+  {
+    "headline": "After 139 years, the oldest restaurant in L.A. has closed — for now",
+    "link": "https://www.latimes.com/food/story/2026-01-06/oldest-restaurant-in-los-angeles-county-has-closed",
     "source": "latimes",
     "pubdate": "2026-01-06-11-00-00 +0000"
   },
@@ -6666,14 +6684,14 @@
     "pubdate": "2026-01-05-11-30-00 +0000"
   },
   {
-    "headline": "Teachers have a right to tell parents if their child might be LGBTQ+, federal judge rules",
-    "link": "https://www.latimes.com/california/story/2026-01-05/parental-notification-ruling-allows-teachers-to-tell-parents-their-child-might-be-lgbtq",
+    "headline": "Arellano: In Trump's invasion of Venezuela, Marco Rubio is the biggest sellout of all",
+    "link": "https://www.latimes.com/california/story/2026-01-05/marco-rubio-sellout-venezuela",
     "source": "latimes",
     "pubdate": "2026-01-05-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: In Trump's invasion of Venezuela, Marco Rubio is the biggest sellout of all",
-    "link": "https://www.latimes.com/california/story/2026-01-05/marco-rubio-sellout-venezuela",
+    "headline": "Teachers have a right to tell parents if their child might be LGBTQ+, federal judge rules",
+    "link": "https://www.latimes.com/california/story/2026-01-05/parental-notification-ruling-allows-teachers-to-tell-parents-their-child-might-be-lgbtq",
     "source": "latimes",
     "pubdate": "2026-01-05-11-00-00 +0000"
   },
@@ -6790,11 +6808,5 @@
     "link": "https://www.bbc.co.uk/iplayer/episode/l0057t84?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-04-18-09-35 +0000"
-  },
-  {
-    "headline": "Yemeni Forces, Backed by Saudi Arabia, Reclaim Territory From Separatists",
-    "link": "https://www.nytimes.com/2026/01/04/world/middleeast/yemeni-forces-backed-by-saudi-arabia-reclaim-territory-from-separatists.html",
-    "source": "nyt",
-    "pubdate": "2026-01-04-15-59-43 +0000"
   }
 ]
