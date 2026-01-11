@@ -1,24 +1,24 @@
 [
   {
-    "score": 131,
+    "score": 130,
     "pubdate": "2026-01-10-20-28-22 +0000",
     "source": "bbc",
     "headline": "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'",
     "link": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 92,
+    "score": 93,
+    "pubdate": "2026-01-11-07-27-11 +0000",
+    "source": "nypost",
+    "headline": "Iran warns US troops and Israel will be targets if America strikes over protests as death toll rises to 116",
+    "link": "https://nypost.com/2026/01/11/world-news/iran-warns-us-troops-and-israel-will-be-targets-if-america-strikes-over-protests-as-death-toll-rises/"
+  },
+  {
+    "score": 93,
     "pubdate": "2026-01-10-22-03-34 +0000",
     "source": "nypost",
     "headline": "Renee Nicole Good seen ‘dancing’ as she blocks ICE agents for several minutes before fatal Minneapolis shooting",
     "link": "https://nypost.com/2026/01/10/us-news/renee-nicole-good-seen-blocking-ice-agents-just-before-fatal-minneapolis-shooting/"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-01-11-02-30-37 +0000",
-    "source": "nyt",
-    "headline": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
-    "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html"
   },
   {
     "score": 42,
@@ -28,6 +28,20 @@
     "link": "https://nypost.com/2026/01/10/us-news/mamdanis-4-m-plan-for-providing-desperate-new-yorkers-relief-self-cleaning-public-bathrooms/"
   },
   {
+    "score": 41,
+    "pubdate": "2026-01-10-21-12-03 +0000",
+    "source": "bbc",
+    "headline": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-01-11-01-58-29 +0000",
+    "source": "bbc",
+    "headline": "'I had no electricity for six months': American families struggle with soaring energy prices",
+    "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 37,
     "pubdate": "2026-01-10-20-53-00 +0000",
     "source": "wsj",
@@ -35,38 +49,24 @@
     "link": "https://www.wsj.com/politics/national-security/pentagon-chooses-doge-official-and-former-trader-to-head-innovation-unit-f4f978b4"
   },
   {
-    "score": 34,
-    "pubdate": "2026-01-10-13-00-00 +0000",
-    "source": "latimes",
-    "headline": "One driver accused of two crashes that left three dead in Long Beach, police say",
-    "link": "https://www.latimes.com/california/story/2026-01-10/long-beach-driver-turns-herself-in-after-two-deadly-collisions"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-01-10-18-52-27 +0000",
-    "source": "nypost",
-    "headline": "Ilhan Omar squares off against feds, joins Minneapolis protesters after being kicked out of ICE facility",
-    "link": "https://nypost.com/2026/01/10/us-news/ilhan-omar-joins-minneapolis-protesters-after-being-kicked-out-ice-facility/"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-01-10-23-39-24 +0000",
-    "source": "nyt",
-    "headline": "U.S. Launches Major Strikes on Islamic State Targets in Syria",
-    "link": "https://www.nytimes.com/2026/01/10/us/politics/us-strikes-islamic-state-syria.html"
-  },
-  {
-    "score": 31,
+    "score": 32,
     "pubdate": "2026-01-10-22-10-13 +0000",
     "source": "nypost",
     "headline": "Thousands pack lefty activist group Monarca’s anti-ICE training — where they’re urged to annoy agents ‘like a mosquito’",
     "link": "https://nypost.com/2026/01/10/us-news/minnesota-activist-group-monarca-training-civilians-to-follow-ice-agents-and-is-ramping-up-activities-showing-in-force/"
   },
   {
+    "score": 30,
+    "pubdate": "2026-01-10-18-52-27 +0000",
+    "source": "nypost",
+    "headline": "Ilhan Omar squares off against feds, joins Minneapolis protesters after being kicked out of ICE facility",
+    "link": "https://nypost.com/2026/01/10/us-news/ilhan-omar-joins-minneapolis-protesters-after-being-kicked-out-ice-facility/"
+  },
+  {
     "score": 29,
-    "pubdate": "2026-01-11-01-58-29 +0000",
-    "source": "bbc",
-    "headline": "'I had no electricity for six months': American families struggle with soaring energy prices",
-    "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-01-10-17-23-27 +0000",
+    "source": "nypost",
+    "headline": "US used powerful mystery weapon that brought Venezuelan soldiers to their knees during Maduro raid: witness account",
+    "link": "https://nypost.com/2026/01/10/world-news/us-used-powerful-sonic-weapon-in-venezuela-during-raid-to-capture-madouro-incredible-witness-account/"
   }
 ]
