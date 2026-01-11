@@ -1,5 +1,347 @@
 [
   {
+    "headline": "Atlanta deputy charged with sending nude pictures and videos to teens",
+    "link": "https://nypost.com/2026/01/10/us-news/atlanta-deputy-rylee-conner-willis-was-arrested-after-allegedly-sending-nude-pictures-to-teens/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-45-15 +0000"
+  },
+  {
+    "headline": "Thousands protest ICE presence in Minneapolis and cities nationwide",
+    "link": "https://www.washingtonpost.com/nation/2026/01/10/nationwide-ice-protests-minneapolis-shooting/",
+    "source": "wapo",
+    "pubdate": "2026-01-10-23-41-23 +0000"
+  },
+  {
+    "headline": "U.S. Launches Major Strikes on Islamic State Targets in Syria",
+    "link": "https://www.nytimes.com/2026/01/10/us/politics/us-strikes-islamic-state-syria.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-23-39-24 +0000"
+  },
+  {
+    "headline": "U.S. Launches Major Strikes on Islamic State Targets in Syria",
+    "link": "https://www.nytimes.com/2026/01/10/us/politics/us-strikes-islamic-state-syria.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-23-39-24 +0000"
+  },
+  {
+    "headline": "Actor T.K. Carter dies at 69",
+    "link": "https://www.latimes.com/california/story/2026-01-10/actor-t-k-carter-dies-at-69",
+    "source": "latimes",
+    "pubdate": "2026-01-10-23-31-57 +0000"
+  },
+  {
+    "headline": "Fallen paralyzed NYC Det. Steven McDonald honored on 9th anniversary of death",
+    "link": "https://nypost.com/2026/01/10/us-news/paralyzed-nyc-det-steven-mcdonald-honored-on-9th-anniversary-of-death/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-20-56 +0000"
+  },
+  {
+    "headline": "Reza Pahlavi and others who could run Iran if regime topples",
+    "link": "https://nypost.com/2026/01/10/us-news/reza-pahlavi-and-others-who-could-run-iran-if-regime-topples/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-12-55 +0000"
+  },
+  {
+    "headline": "Reza Pahlavi and others who could run Iran if regime topples",
+    "link": "https://nypost.com/2026/01/10/us-news/reza-pahlavi-and-others-who-could-run-iran-if-regime-topples/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-12-55 +0000"
+  },
+  {
+    "headline": "'Hermès of durian': The luxury fruit cashing in on China's billion-dollar appetite",
+    "link": "https://www.bbc.com/news/articles/cz7ndzw28v4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-23-06-39 +0000"
+  },
+  {
+    "headline": "'Hermès of durian': The luxury fruit cashing in on China's billion-dollar appetite",
+    "link": "https://www.bbc.com/news/articles/cz7ndzw28v4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-23-06-39 +0000"
+  },
+  {
+    "headline": "Jasmine Crockett’s ‘crying’ over death of anti-ICE activist Renee Nicole Good — critics slam ‘crocodile tears’",
+    "link": "https://nypost.com/2026/01/10/us-news/jasmine-crocketts-crying-over-death-of-anti-ice-activist-renee-nicole-good-was-crocodile-tears-critics/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-02-34 +0000"
+  },
+  {
+    "headline": "Jasmine Crockett’s ‘crying’ over death of anti-ICE activist Renee Nicole Good — critics slam ‘crocodile tears’",
+    "link": "https://nypost.com/2026/01/10/us-news/jasmine-crocketts-crying-over-death-of-anti-ice-activist-renee-nicole-good-was-crocodile-tears-critics/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-02-34 +0000"
+  },
+  {
+    "headline": "US could lift additional sanctions on Venezuela next week to facilitate oil sales",
+    "link": "https://nypost.com/2026/01/10/world-news/us-could-lift-additional-sanctions-on-venezuela-next-week-to-facilitate-oil-sales/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-01-41 +0000"
+  },
+  {
+    "headline": "US could lift additional sanctions on Venezuela next week to facilitate oil sales",
+    "link": "https://nypost.com/2026/01/10/world-news/us-could-lift-additional-sanctions-on-venezuela-next-week-to-facilitate-oil-sales/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-01-41 +0000"
+  },
+  {
+    "headline": "US could lift additional sanctions on Venezuela next week to facilitate oil sales",
+    "link": "https://nypost.com/2026/01/10/world-news/us-could-lift-additional-sanctions-on-venezuela-next-week-to-facilitate-oil-sales/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-23-01-41 +0000"
+  },
+  {
+    "headline": "Reps. Omar, Morrison, Craig denied entry at ICE detention facility",
+    "link": "https://www.startribune.com/rep-omar-craig-morrison-ice-detention-center-visit-minnesota-immigration-protest/601561763",
+    "source": "startribune",
+    "pubdate": "2026-01-10-22-57-36 +0000"
+  },
+  {
+    "headline": "Disinformation in Minneapolis Shooting Points at People Who Were Not Involved",
+    "link": "https://www.nytimes.com/2026/01/10/us/disinformation-minneapolis-shooting-ice.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-22-52-28 +0000"
+  },
+  {
+    "headline": "Six Dead in Mississippi Shooting; Suspect in Custody, Clay County Sheriff Says",
+    "link": "https://www.nytimes.com/2026/01/10/us/shooting-west-point-mississippi.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-22-46-22 +0000"
+  },
+  {
+    "headline": "U.S. Launches Fresh Military Strikes on ISIS Targets in Syria",
+    "link": "https://www.wsj.com/world/middle-east/u-s-launches-fresh-military-strikes-on-isis-targets-in-syria-7206eaf7",
+    "source": "wsj",
+    "pubdate": "2026-01-10-22-41-00 +0000"
+  },
+  {
+    "headline": "FBI’s Inquiry Into Minneapolis ICE Shooting Faces Doubts After White House’s Remarks",
+    "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-ice-shooting-response-minneapolis.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-22-40-11 +0000"
+  },
+  {
+    "headline": "FBI’s Inquiry Into Minneapolis ICE Shooting Faces Doubts After White House’s Remarks",
+    "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-ice-shooting-response-minneapolis.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-22-40-11 +0000"
+  },
+  {
+    "headline": "Takeaways: Timberwolves defense disappears and so does winning streak in 144-132 loss to Cavaliers",
+    "link": "https://www.startribune.com/takeaways-timberwolves-defense-disappears-and-so-does-winning-streak-in-144-132-loss-to-cavaliers/601549901",
+    "source": "startribune",
+    "pubdate": "2026-01-10-22-39-38 +0000"
+  },
+  {
+    "headline": "U.S. says it hit Islamic State in Syria, latest retaliation for attack on troops",
+    "link": "https://www.washingtonpost.com/national-security/2026/01/10/syria-strikes-pentagon-isis/",
+    "source": "wapo",
+    "pubdate": "2026-01-10-22-37-29 +0000"
+  },
+  {
+    "headline": "Author Chimamanda Ngozi Adichie's family accuse hospital of negligence over son's death",
+    "link": "https://www.bbc.com/news/articles/c0lx09e618yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-22-25-57 +0000"
+  },
+  {
+    "headline": "Author Chimamanda Ngozi Adichie's family accuse hospital of negligence over son's death",
+    "link": "https://www.bbc.com/news/articles/c0lx09e618yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-22-25-57 +0000"
+  },
+  {
+    "headline": "Venezuela pledged to free political prisoners. Families are still waiting.",
+    "link": "https://www.washingtonpost.com/world/2026/01/10/venezuela-prisoners-free/",
+    "source": "wapo",
+    "pubdate": "2026-01-10-22-24-22 +0000"
+  },
+  {
+    "headline": "US military strikes Islamic State group targets in Syria, officials say",
+    "link": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-22-21-36 +0000"
+  },
+  {
+    "headline": "US military strikes Islamic State group targets in Syria, officials say",
+    "link": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-22-21-36 +0000"
+  },
+  {
+    "headline": "All you need to know about Afcon 2025",
+    "link": "https://www.bbc.com/sport/football/articles/ce8gw6erjzlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-22-21-33 +0000"
+  },
+  {
+    "headline": "Nearly 13,000 Irish Passports Are Recalled Over ‘Technical Issue’",
+    "link": "https://www.nytimes.com/2026/01/10/world/europe/irish-passport-recalled.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-22-11-11 +0000"
+  },
+  {
+    "headline": "Nearly 13,000 Irish Passports Are Recalled Over ‘Technical Issue’",
+    "link": "https://www.nytimes.com/2026/01/10/world/europe/irish-passport-recalled.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-22-11-11 +0000"
+  },
+  {
+    "headline": "Minnesota’s lefty activist group ‘Monarca’ training civilians to resist ICE agents — ramping up activities: ‘showing in force’",
+    "link": "https://nypost.com/2026/01/10/us-news/minnesota-activist-group-monarca-training-civilians-to-follow-ice-agents-and-is-ramping-up-activities-showing-in-force/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-22-10-13 +0000"
+  },
+  {
+    "headline": "Anti-ICE Protests Spread Nationwide",
+    "link": "https://www.nytimes.com/2026/01/10/us/anti-ice-protests-spread-nationwide.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-22-05-08 +0000"
+  },
+  {
+    "headline": "Renee Nicole Good seen ‘dancing’ as she blocks ICE agents for several minutes before fatal Minneapolis shooting",
+    "link": "https://nypost.com/2026/01/10/us-news/renee-nicole-good-seen-blocking-ice-agents-just-before-fatal-minneapolis-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-22-03-34 +0000"
+  },
+  {
+    "headline": "Daughter of NYC dad randomly stabbed to death by career criminal speaks out: ‘I just keep crying’",
+    "link": "https://nypost.com/2026/01/10/us-news/daughter-of-nyc-dad-randomly-stabbed-to-death-by-career-criminal-speaks-out-i-just-keep-crying/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-52-27 +0000"
+  },
+  {
+    "headline": "New Jersey’s Petty’s Island, now owned by Venezuela, could soon belong to Trump donor: report",
+    "link": "https://nypost.com/2026/01/10/us-news/new-jerseys-pettys-island-now-owned-by-venezuela-could-soon-belong-to-trump-donor-report/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-44-31 +0000"
+  },
+  {
+    "headline": "New Jersey’s Petty’s Island, now owned by Venezuela, could soon belong to Trump donor: report",
+    "link": "https://nypost.com/2026/01/10/us-news/new-jerseys-pettys-island-now-owned-by-venezuela-could-soon-belong-to-trump-donor-report/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-44-31 +0000"
+  },
+  {
+    "headline": "US launches large-scale strikes on ISIS targets in Syria: military",
+    "link": "https://nypost.com/2026/01/10/world-news/us-launches-large-scale-airstrikes-on-isis-targets-in-syria/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-43-01 +0000"
+  },
+  {
+    "headline": "Biden HR official vouched for National Guard shooter saying he posed ‘no threat’ to national security",
+    "link": "https://nypost.com/2026/01/10/us-news/biden-hr-official-vouched-for-national-guard-shooter-saying-he-posed-no-threat-to-national-security/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-41-00 +0000"
+  },
+  {
+    "headline": "Mamdani’s $4M plan for providing ‘desperate’ New Yorkers relief includes ‘self-cleaning’ public bathrooms",
+    "link": "https://nypost.com/2026/01/10/us-news/mamdanis-4-m-plan-for-providing-desperate-new-yorkers-relief-self-cleaning-public-bathrooms/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-28-38 +0000"
+  },
+  {
+    "headline": "Mamdani’s $4M plan for providing ‘desperate’ New Yorkers relief includes ‘self-cleaning’ public bathrooms",
+    "link": "https://nypost.com/2026/01/10/us-news/mamdanis-4-m-plan-for-providing-desperate-new-yorkers-relief-self-cleaning-public-bathrooms/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-28-38 +0000"
+  },
+  {
+    "headline": "Monkeys Are on the Loose in St. Louis, City Officials Say",
+    "link": "https://www.nytimes.com/2026/01/10/us/monkeys-loose-st-louis.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-21-28-17 +0000"
+  },
+  {
+    "headline": "Philip Erdoes, Entrepreneur and Venture Capitalist, Dies at 62",
+    "link": "https://www.wsj.com/business/entrepreneurship/philip-erdoes-entrepreneur-and-venture-capitalist-dies-at-62-f256d69a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-10-21-27-00 +0000"
+  },
+  {
+    "headline": "Philip Erdoes, Entrepreneur and Venture Capitalist, Dies at 62",
+    "link": "https://www.wsj.com/business/entrepreneurship/philip-erdoes-entrepreneur-and-venture-capitalist-dies-at-62-f256d69a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-10-21-27-00 +0000"
+  },
+  {
+    "headline": "Trial for Paul Caneiro set to begin 7 years after he allegedly killed brother, family before setting NJ mansion ablaze",
+    "link": "https://nypost.com/2026/01/10/us-news/nj-man-accused-of-killing-brother-and-family-before-burning-down-mansion-heads-to-jury-selection/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-24-35 +0000"
+  },
+  {
+    "headline": "Killer lawyer Alex Murdaugh — convicted of slaughtering wife, son — works prison job as court weighs bid for new trial",
+    "link": "https://nypost.com/2026/01/10/us-news/alex-murdaugh-prison-appeal-heads-to-south-carolina-supreme-court/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-22-49 +0000"
+  },
+  {
+    "headline": "Why Are Iranians Protesting? What to Know About the Unrest.",
+    "link": "https://www.nytimes.com/article/iran-protests-inflation-currency.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-21-20-34 +0000"
+  },
+  {
+    "headline": "Why Are Iranians Protesting? What to Know About the Unrest.",
+    "link": "https://www.nytimes.com/article/iran-protests-inflation-currency.html",
+    "source": "nyt",
+    "pubdate": "2026-01-10-21-20-34 +0000"
+  },
+  {
+    "headline": "Statewide cop summit planned for NYC seeks to make police officers a political force: ‘Politicians are not invited’",
+    "link": "https://nypost.com/2026/01/10/us-news/cop-summit-seeks-pro-police-reckoning-at-ballot-box/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-15-08 +0000"
+  },
+  {
+    "headline": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-21-12-03 +0000"
+  },
+  {
+    "headline": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-21-12-03 +0000"
+  },
+  {
+    "headline": "Russia, Iran and China join naval drill in South Africa — as tensions with US rise: ‘A pawn in the power games’",
+    "link": "https://nypost.com/2026/01/10/world-news/russia-iran-and-china-join-naval-drill-in-south-africa-as-tensions-with-us-rise-a-pawn-in-the-power-games/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-06-48 +0000"
+  },
+  {
+    "headline": "Ex-husband arrested in heinous double murder of slain Ohio dentist, wife",
+    "link": "https://nypost.com/2026/01/10/us-news/ex-husband-arrested-in-heinous-double-murder-of-slain-ohio-dentist-wife/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-04-31 +0000"
+  },
+  {
+    "headline": "'Doomsday Plane' appearance at LAX sparks online worry",
+    "link": "https://www.latimes.com/california/story/2026-01-10/doomsday-plane-appearance-at-lax-sparks-online-worry",
+    "source": "latimes",
+    "pubdate": "2026-01-10-21-00-14 +0000"
+  },
+  {
+    "headline": "Bill Gates-backed ‘Cowboy Chernobyl’ nuclear reactor races toward approval in Wyoming",
+    "link": "https://nypost.com/2026/01/10/us-news/bill-gates-backed-reactor-pushed-fast-in-wyoming-critics-warn/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-21-00-01 +0000"
+  },
+  {
+    "headline": "News of the World: What you missed this week internationally",
+    "link": "https://nypost.com/2026/01/10/world-news/news-of-the-world-what-you-missed-this-week-internationally-3/",
+    "source": "nypost",
+    "pubdate": "2026-01-10-20-55-00 +0000"
+  },
+  {
+    "headline": "The Defense Department has selected Owen West to lead its Defense Innovation Unit, the department’s highest-profile unit tasked with bringing startup technology into the U.S. military",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-chooses-doge-official-and-former-trader-to-head-innovation-unit-f4f978b4",
+    "source": "wsj",
+    "pubdate": "2026-01-10-20-53-00 +0000"
+  },
+  {
     "headline": "100 skeletons found in home of man who looted historic cemetery, police say",
     "link": "https://www.washingtonpost.com/nation/2026/01/10/philadelphia-cemetery-grave-robbing-skeletons/",
     "source": "wapo",
@@ -54,25 +396,13 @@
     "pubdate": "2026-01-10-20-25-03 +0000"
   },
   {
-    "headline": "Philip Erdoes, Entrepreneur and Venture Capitalist, Dies at 62",
-    "link": "https://www.wsj.com/business/entrepreneurship/philip-erdoes-entrepreneur-and-venture-capitalist-dies-at-62-f256d69a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-10-20-18-00 +0000"
-  },
-  {
-    "headline": "Philip Erdoes, Entrepreneur and Venture Capitalist, Dies at 62",
-    "link": "https://www.wsj.com/business/entrepreneurship/philip-erdoes-entrepreneur-and-venture-capitalist-dies-at-62-f256d69a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-10-20-18-00 +0000"
-  },
-  {
     "headline": "What Happens if ICE Agents and Local Police Stop Getting Along?",
     "link": "https://www.nytimes.com/2026/01/10/us/federal-agents-law-enforcement-trump.html",
     "source": "nyt",
     "pubdate": "2026-01-10-20-16-00 +0000"
   },
   {
-    "headline": "Israel and Hamas getting ready to resume war in Gaza as Trump’s peace deal stalls: report",
+    "headline": "Israel, Hamas ready to resume war in Gaza as Trump’s peace deal stalls: report",
     "link": "https://nypost.com/2026/01/10/world-news/israel-and-hamas-getting-ready-to-restart-war-in-gaza-report/",
     "source": "nypost",
     "pubdate": "2026-01-10-20-15-48 +0000"
@@ -126,22 +456,22 @@
     "pubdate": "2026-01-10-20-08-00 +0000"
   },
   {
+    "headline": "Dozens arrested and one police officer injured in Minneapolis protests",
+    "link": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-19-56-50 +0000"
+  },
+  {
+    "headline": "Dozens arrested and one police officer injured in Minneapolis protests",
+    "link": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-10-19-56-50 +0000"
+  },
+  {
     "headline": "Opinion | The Iranian People Answer the Call to Protest",
     "link": "https://www.wsj.com/opinion/iran-protests-regime-ayatollah-ali-khamenei-reza-pahlavi-donald-trump-cb62342d",
     "source": "wsj",
     "pubdate": "2026-01-10-19-53-00 +0000"
-  },
-  {
-    "headline": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
-    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-10-19-49-01 +0000"
-  },
-  {
-    "headline": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
-    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-10-19-49-01 +0000"
   },
   {
     "headline": "Trump Urges Oil Companies to Speed Work in Venezuela",
@@ -162,16 +492,10 @@
     "pubdate": "2026-01-10-19-30-00 +0000"
   },
   {
-    "headline": "Iran Death Toll Rises as Crackdown Toughens",
+    "headline": "Iran Death Toll Rises as Crackdown Intensifies",
     "link": "https://www.wsj.com/world/middle-east/iran-toughens-crackdown-as-death-toll-grows-a2200bda",
     "source": "wsj",
     "pubdate": "2026-01-10-19-24-00 +0000"
-  },
-  {
-    "headline": "Rep. Omar, other Congress members denied entry at ICE detention facility",
-    "link": "https://www.startribune.com/rep-omar-craig-morrison-ice-detention-center-visit-minnesota-immigration-protest/601561763",
-    "source": "startribune",
-    "pubdate": "2026-01-10-19-21-59 +0000"
   },
   {
     "headline": "How Renée Good ended up in a fatal encounter with ICE in Minneapolis",
@@ -180,7 +504,7 @@
     "pubdate": "2026-01-10-19-14-16 +0000"
   },
   {
-    "headline": "Trump admin to carry out preliminary attack plans on Iran — as officials consider what sites to target: report",
+    "headline": "Trump admin weighing preliminary attack plans on Iran — as officials consider what sites to target: report",
     "link": "https://nypost.com/2026/01/10/world-news/trump-admin-to-carry-out-preliminary-attack-plans-on-iran-considering-what-sites-to-target/",
     "source": "nypost",
     "pubdate": "2026-01-10-19-06-36 +0000"
@@ -190,12 +514,6 @@
     "link": "https://nypost.com/2026/01/10/world-news/kgb-archivist-defected-with-a-treasure-trove-of-soviet-secrets/",
     "source": "nypost",
     "pubdate": "2026-01-10-19-00-00 +0000"
-  },
-  {
-    "headline": "Venezuela pledged to free political prisoners. Families are still waiting.",
-    "link": "https://www.washingtonpost.com/world/2026/01/10/venezuela-prisoners-free/",
-    "source": "wapo",
-    "pubdate": "2026-01-10-18-53-22 +0000"
   },
   {
     "headline": "Ilhan Omar squares off against feds, joins Minneapolis protesters after being kicked out of ICE facility",
@@ -216,12 +534,6 @@
     "pubdate": "2026-01-10-18-48-28 +0000"
   },
   {
-    "headline": "‘Tax the motherf–king rich!’ Elected socialists privately threaten Hochul if she doesn’t fall in line",
-    "link": "https://nypost.com/2026/01/10/us-news/tax-the-motherf-king-rich-elected-socialists-privately-threaten-hochul-if-she-doesnt-fall-in-line/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-18-43-41 +0000"
-  },
-  {
     "headline": "Sales of shark fins could lead to the ancient creatures being wiped out, critics say",
     "link": "https://nypost.com/2026/01/10/world-news/sales-of-shark-fins-could-lead-to-the-ancient-creatures-being-wiped-out-critics-say/",
     "source": "nypost",
@@ -234,30 +546,12 @@
     "pubdate": "2026-01-10-18-32-48 +0000"
   },
   {
-    "headline": "NYC bagel dynasty with $50M sales schmeared by biz partner betrayal: lawsuit",
-    "link": "https://nypost.com/2026/01/10/us-news/nyc-bagel-dynasty-with-50-million-sales-schmeared-by-biz-partner-betrayal-lawsuit/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-18-28-33 +0000"
-  },
-  {
     "headline": "Possible Israeli insider places high stakes Polymarket bet on war against Iran by Jan. 31",
     "link": "https://nypost.com/2026/01/10/world-news/potential-israeli-insider-places-major-polymarket-bet-on-war-against-iran-by-this-day/",
     "source": "nypost",
     "pubdate": "2026-01-10-18-20-11 +0000"
   },
   {
-    "headline": "FBI’s Inquiry Into Minneapolis ICE Shooting Faces Doubts After White House’s Remarks",
-    "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-ice-shooting-response-minneapolis.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-18-16-59 +0000"
-  },
-  {
-    "headline": "FBI’s Inquiry Into Minneapolis ICE Shooting Faces Doubts After White House’s Remarks",
-    "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-ice-shooting-response-minneapolis.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-18-16-59 +0000"
-  },
-  {
     "headline": "Machado Offered Trump Her Nobel, but Prize Institute Says It’s Not Allowed",
     "link": "https://www.nytimes.com/2026/01/10/world/americas/trump-nobel-peace-prize-maria-machado.html",
     "source": "nyt",
@@ -268,12 +562,6 @@
     "link": "https://www.nytimes.com/2026/01/10/world/americas/trump-nobel-peace-prize-maria-machado.html",
     "source": "nyt",
     "pubdate": "2026-01-10-18-13-41 +0000"
-  },
-  {
-    "headline": "Nearly 30 protesters arrested, cop injured in more chaotic Minneapolis protests after Renee Nicole Good shooting",
-    "link": "https://nypost.com/2026/01/10/us-news/minneapolis-mayor-jacob-frey-says-far-right-agitators-led-to-nearly-30-people-arrested-during-chaotic-protests/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-18-12-37 +0000"
   },
   {
     "headline": "Chrystia Freeland Resigns as a Member of Canada’s Parliament",
@@ -288,12 +576,6 @@
     "pubdate": "2026-01-10-18-11-29 +0000"
   },
   {
-    "headline": "NYC Mayor Zohran Mamdani quietly makes it harder for feds to monitor Tren de Aragua gang at Rikers",
-    "link": "https://nypost.com/2026/01/10/us-news/mamdani-makes-it-harder-for-the-feds-to-monitor-tren-de-aragua-gang-at-rikers/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-18-07-48 +0000"
-  },
-  {
     "headline": "In-N-Out Burger outlets in Southern California hit by counterfeit bill scam",
     "link": "https://www.latimes.com/california/story/2026-01-10/in-n-out-burger-outlets-in-southern-california-hit-by-counterfeit-bill-scam",
     "source": "latimes",
@@ -304,12 +586,6 @@
     "link": "https://www.latimes.com/california/story/2026-01-10/in-n-out-burger-outlets-in-southern-california-hit-by-counterfeit-bill-scam",
     "source": "latimes",
     "pubdate": "2026-01-10-18-07-47 +0000"
-  },
-  {
-    "headline": "Trump reposts Lindsey Graham’s tweet warning Iran: ‘Brutality’ against own people ‘will not go unchallenged’",
-    "link": "https://nypost.com/2026/01/10/world-news/trump-reposts-lindsey-grahams-tweet-warning-iran/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-56-09 +0000"
   },
   {
     "headline": "Trump reposts Lindsey Graham’s tweet warning Iran: ‘Brutality’ against own people ‘will not go unchallenged’",
@@ -330,46 +606,10 @@
     "pubdate": "2026-01-10-17-54-30 +0000"
   },
   {
-    "headline": "Minnesota high school athletes’ lives upended by ICE surge",
-    "link": "https://www.startribune.com/minnesota-high-school-athletes-lives-upended-by-ice-surge/601560200",
-    "source": "startribune",
-    "pubdate": "2026-01-10-17-54-03 +0000"
-  },
-  {
     "headline": "Niqab-wearing RINO running for North Carolina GOP senate seat — despite being a lifelong Democrat",
     "link": "https://nypost.com/2026/01/10/us-news/gop-doubts-intentions-of-newly-converted-hijab-wearing-state-senate-candidate-lakeshia-alston/",
     "source": "nypost",
     "pubdate": "2026-01-10-17-52-53 +0000"
-  },
-  {
-    "headline": "Niqab-wearing RINO running for North Carolina GOP senate seat — despite being a lifelong Democrat",
-    "link": "https://nypost.com/2026/01/10/us-news/gop-doubts-intentions-of-newly-converted-hijab-wearing-state-senate-candidate-lakeshia-alston/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-52-53 +0000"
-  },
-  {
-    "headline": "Radical NYC teachers’ group plans ‘Teach-In for Palestine’ on MLK day",
-    "link": "https://nypost.com/2026/01/10/us-news/radical-nyc-teachers-group-plans-teach-in-for-palestine-on-mlk-day/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-51-30 +0000"
-  },
-  {
-    "headline": "True grit! 80-year-old woman sets new record hiking Appalachian Trail",
-    "link": "https://nypost.com/2026/01/10/us-news/80-year-old-woman-sets-record-as-oldest-to-hike-appalachian-trail/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-49-31 +0000"
-  },
-  {
-    "headline": "Controversial ‘doggie doors’ built into US-Mexico border wall — commissioned by the DHS",
-    "link": "https://nypost.com/2026/01/10/us-news/controversial-doggie-doors-built-into-us-mexico-border-wall/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-48-42 +0000"
-  },
-  {
-    "headline": "New NYC Council GOP leader ready to battle Mamdani’s socialist agenda",
-    "link": "https://nypost.com/2026/01/10/us-news/new-nyc-council-gop-leader-ready-to-battle-mamdanis-socialist-agenda/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-47-13 +0000"
   },
   {
     "headline": "New NYC Council GOP leader ready to battle Mamdani’s socialist agenda",
@@ -390,24 +630,6 @@
     "pubdate": "2026-01-10-17-37-56 +0000"
   },
   {
-    "headline": "What Is the War Powers Resolution, and Why Is Trump’s Claim About It Misleading?",
-    "link": "https://www.nytimes.com/2026/01/09/us/politics/trump-war-powers-resolution.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-17-37-56 +0000"
-  },
-  {
-    "headline": "Portland police chief cries while confirming pair shot by CBP were tied to Tren de Aragua",
-    "link": "https://nypost.com/2026/01/10/us-news/portland-police-chief-chokes-up-while-confirming-tren-de-aragua-ties-in-cbp-shooting/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-37-27 +0000"
-  },
-  {
-    "headline": "Anti-Israel AOC rips Hamas supporters for descending on Queens synagogue: ‘Disgusting and antisemitic’",
-    "link": "https://nypost.com/2026/01/10/us-news/anti-israel-aoc-rips-hamas-supporters-for-descending-on-queens-synagogue/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-35-14 +0000"
-  },
-  {
     "headline": "Anti-Israel AOC rips Hamas supporters for descending on Queens synagogue: ‘Disgusting and antisemitic’",
     "link": "https://nypost.com/2026/01/10/us-news/anti-israel-aoc-rips-hamas-supporters-for-descending-on-queens-synagogue/",
     "source": "nypost",
@@ -426,12 +648,6 @@
     "pubdate": "2026-01-10-17-19-36 +0000"
   },
   {
-    "headline": "DMV shares list of rejected personalized plate requests from 2025",
-    "link": "https://nypost.com/2026/01/10/us-news/dmv-shared-list-of-rejected-2025-personalized-plate-requests/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-17-01-47 +0000"
-  },
-  {
     "headline": "The Signal Chat Where Silicon Valley Is Plotting Against California’s Billionaire Tax",
     "link": "https://www.wsj.com/politics/policy/save-california-billionare-tax-814a2fe9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -448,12 +664,6 @@
     "link": "https://www.wsj.com/politics/policy/save-california-billionare-tax-814a2fe9",
     "source": "wsj",
     "pubdate": "2026-01-10-17-00-00 +0000"
-  },
-  {
-    "headline": "Keane warns Iranian regime to take Trump’s threats ‘dead serious’ amid ongoing protests",
-    "link": "https://nypost.com/2026/01/10/us-news/keane-warns-iranian-regime-to-take-trumps-threats-dead-serious-amid-ongoing-protests/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-16-52-27 +0000"
   },
   {
     "headline": "Keane warns Iranian regime to take Trump’s threats ‘dead serious’ amid ongoing protests",
@@ -540,28 +750,10 @@
     "pubdate": "2026-01-10-16-02-00 +0000"
   },
   {
-    "headline": "Six Dead in Mississippi Shooting; Suspect in Custody, Clay County Sheriff Says",
-    "link": "https://www.nytimes.com/2026/01/10/us/shooting-west-point-mississippi.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-15-47-58 +0000"
-  },
-  {
     "headline": "Trump’s Steep Science Budget Cuts to Be Turned Back by Congress",
     "link": "https://www.nytimes.com/2026/01/10/science/trump-science-budget-cuts-congress.html",
     "source": "nyt",
     "pubdate": "2026-01-10-15-47-43 +0000"
-  },
-  {
-    "headline": "Iran Braces for More Protests: What to Know",
-    "link": "https://www.nytimes.com/article/iran-protests-inflation-currency.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-15-35-26 +0000"
-  },
-  {
-    "headline": "Iran Braces for More Protests: What to Know",
-    "link": "https://www.nytimes.com/article/iran-protests-inflation-currency.html",
-    "source": "nyt",
-    "pubdate": "2026-01-10-15-35-26 +0000"
   },
   {
     "headline": "Trump Eyes Greenland, and Europe Figures Its Best Bet Is a Negotiation",
@@ -618,12 +810,6 @@
     "pubdate": "2026-01-10-14-53-33 +0000"
   },
   {
-    "headline": "Pain in the butt! Canadian sex shop gets letter from US War Dept after adult toy ends up at Bahrain base",
-    "link": "https://nypost.com/2026/01/10/us-news/canadian-sex-shop-gets-letter-from-us-department-of-war-after-its-butt-plug-ends-up-in-bahrain/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-14-53-33 +0000"
-  },
-  {
     "headline": "What ICE agents can and can’t do — and what legal rights the public has during encounters",
     "link": "https://www.startribune.com/what-ice-agents-can-and-cant-do-and-what-legal-rights-the-public-has-during-encounters/601560316",
     "source": "startribune",
@@ -640,12 +826,6 @@
     "link": "https://www.wsj.com/business/airlines/avelo-to-end-ice-deportation-flights-close-hubs-81280b3a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-10-14-44-00 +0000"
-  },
-  {
-    "headline": "Oklahoma medics take detour to McDonald’s after cancer patient, 6, requests meal",
-    "link": "https://nypost.com/2026/01/10/us-news/ambulance-crew-treats-6-year-old-cancer-tot-to-mcdonalds/",
-    "source": "nypost",
-    "pubdate": "2026-01-10-14-43-14 +0000"
   },
   {
     "headline": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
@@ -704,6 +884,12 @@
   {
     "headline": "Trump Presses Oil Executives to Invest in Venezuela—but Gets Lukewarm Reception",
     "link": "https://www.wsj.com/business/energy-oil/trump-presses-oil-executives-to-invest-in-venezuelabut-gets-lukewarm-reception-6e4efd78?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-10-13-58-00 +0000"
+  },
+  {
+    "headline": "Trump Presses Oil Executives to Invest in Venezuela—but Gets Lukewarm Reception",
+    "link": "https://www.wsj.com/business/energy-oil/trump-presses-oil-executives-to-invest-in-venezuelabut-gets-lukewarm-reception-6e4efd78?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-10-13-58-00 +0000"
   },
@@ -774,14 +960,14 @@
     "pubdate": "2026-01-10-12-00-00 +0000"
   },
   {
-    "headline": "A year after Eaton fire, Altadena man fights to honor late sister's memory. 'Can't replace what I lost'",
-    "link": "https://www.latimes.com/california/story/2026-01-10/after-eaton-fire-altadena-man-fights-to-preserve-late-sisters-memory",
+    "headline": "SoCal love triangle murder suspect extradited after 8 years on the run in Mexico",
+    "link": "https://www.latimes.com/california/story/2026-01-10/man-charged-in-2017-o-c-killing-extradited-after-8-years-on-run",
     "source": "latimes",
     "pubdate": "2026-01-10-12-00-00 +0000"
   },
   {
-    "headline": "SoCal love triangle murder suspect extradited after 8 years on the run in Mexico",
-    "link": "https://www.latimes.com/california/story/2026-01-10/man-charged-in-2017-o-c-killing-extradited-after-8-years-on-run",
+    "headline": "A year after Eaton fire, Altadena man fights to honor late sister's memory. 'Can't replace what I lost'",
+    "link": "https://www.latimes.com/california/story/2026-01-10/after-eaton-fire-altadena-man-fights-to-preserve-late-sisters-memory",
     "source": "latimes",
     "pubdate": "2026-01-10-12-00-00 +0000"
   },
@@ -888,14 +1074,14 @@
     "pubdate": "2026-01-10-11-00-00 +0000"
   },
   {
-    "headline": "Secretary of Defense Pete Hegseth tours Long Beach rocket factory",
-    "link": "https://www.latimes.com/business/story/2026-01-10/secretary-of-defense-pete-hegseth-tours-long-beach-rocket-factory",
+    "headline": "Granderson: Some leaders will do anything to cling to positions of power",
+    "link": "https://www.latimes.com/opinion/story/2026-01-10/self-serving-politicians-adam-clayton-powell-jr-martin-luther-king-jr-1960",
     "source": "latimes",
     "pubdate": "2026-01-10-11-00-00 +0000"
   },
   {
-    "headline": "Granderson: Some leaders will do anything to cling to positions of power",
-    "link": "https://www.latimes.com/opinion/story/2026-01-10/self-serving-politicians-adam-clayton-powell-jr-martin-luther-king-jr-1960",
+    "headline": "Secretary of Defense Pete Hegseth tours Long Beach rocket factory",
+    "link": "https://www.latimes.com/business/story/2026-01-10/secretary-of-defense-pete-hegseth-tours-long-beach-rocket-factory",
     "source": "latimes",
     "pubdate": "2026-01-10-11-00-00 +0000"
   },
@@ -1576,365 +1762,5 @@
     "link": "https://www.cbc.ca/news/canada/calgary/chance-of-privately-developed-pipeline-almost-zero-if-no-government-backstop-former-alberta-energy-minister-9.7040397?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-10-00-00-20 +0000"
-  },
-  {
-    "headline": "Iran regime 'cornered' and 'extremely vulnerable' as deadly protests spread",
-    "link": "https://www.cbc.ca/news/world/iran-protest-us-israel-pressure-9.7040592?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-09-23-54-17 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-53-36 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/09/world/venezuela-trump-us/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-53-36 +0000"
-  },
-  {
-    "headline": "Venezuela’s Political Rivals Vie to Get Trump’s Ear",
-    "link": "https://www.wsj.com/world/americas/trump-venezuela-delcy-rodriguez-meeting-62dcd2f1",
-    "source": "wsj",
-    "pubdate": "2026-01-09-23-47-00 +0000"
-  },
-  {
-    "headline": "Christopher Raia to Be FBI Deputy Director After Bongino’s Departure",
-    "link": "https://www.nytimes.com/2026/01/09/us/politics/fbi-deputy-director-christopher-raia.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-46-14 +0000"
-  },
-  {
-    "headline": "Christopher Raia to Be FBI Deputy Director After Bongino’s Departure",
-    "link": "https://www.nytimes.com/2026/01/09/us/politics/fbi-deputy-director-christopher-raia.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-46-14 +0000"
-  },
-  {
-    "headline": "Why LAPD and other police agencies discourage shooting at cars — and why ICE still does",
-    "link": "https://www.latimes.com/california/story/2026-01-09/lapd-ice-moving-vehicle-shootings",
-    "source": "latimes",
-    "pubdate": "2026-01-09-23-44-41 +0000"
-  },
-  {
-    "headline": "Outside Prisons in Caracas, Venezuelans Anxiously Await Release of More Political Detainees",
-    "link": "https://www.nytimes.com/2026/01/09/world/americas/caracas-venezuela-prisoners-released.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-41-56 +0000"
-  },
-  {
-    "headline": "Outside Prisons in Caracas, Venezuelans Anxiously Await Release of More Political Detainees",
-    "link": "https://www.nytimes.com/2026/01/09/world/americas/caracas-venezuela-prisoners-released.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-41-56 +0000"
-  },
-  {
-    "headline": "New York Attorney General Sues Trump Administration Over Offshore Wind Halt",
-    "link": "https://www.wsj.com/articles/new-york-attorney-general-sues-trump-administration-over-offshore-wind-halt-0e05b997",
-    "source": "wsj",
-    "pubdate": "2026-01-09-23-40-00 +0000"
-  },
-  {
-    "headline": "Letitia James says the pause on two wind projects off the coast of Long Island threaten the state’s energy and economy",
-    "link": "https://www.wsj.com/articles/new-york-attorney-general-sues-trump-administration-over-offshore-wind-halt-0e05b997",
-    "source": "wsj",
-    "pubdate": "2026-01-09-23-40-00 +0000"
-  },
-  {
-    "headline": "Mohammed Harbi, Who Rewrote Algeria’s History, Dies at 92",
-    "link": "https://www.nytimes.com/2026/01/09/world/africa/mohammed-harbi-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-31-36 +0000"
-  },
-  {
-    "headline": "Mohammed Harbi, Who Rewrote Algeria’s History, Dies at 92",
-    "link": "https://www.nytimes.com/2026/01/09/world/africa/mohammed-harbi-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-31-36 +0000"
-  },
-  {
-    "headline": "Opinion | Kristi Noem and the Fate of Guan Heng",
-    "link": "https://www.wsj.com/opinion/kristi-noem-guan-heng-chinese-immigrant-6e4af811",
-    "source": "wsj",
-    "pubdate": "2026-01-09-23-31-00 +0000"
-  },
-  {
-    "headline": "Opinion | Kristi Noem and the Fate of Guan Heng",
-    "link": "https://www.wsj.com/opinion/kristi-noem-guan-heng-chinese-immigrant-6e4af811",
-    "source": "wsj",
-    "pubdate": "2026-01-09-23-31-00 +0000"
-  },
-  {
-    "headline": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
-    "link": "https://www.nytimes.com/2026/01/05/business/economy/business-economy-jobs-report-december.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-17-05 +0000"
-  },
-  {
-    "headline": "U.S. Hiring Continues at Modest Pace, but Weaknesses Are Evident",
-    "link": "https://www.nytimes.com/2026/01/05/business/economy/business-economy-jobs-report-december.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-17-05 +0000"
-  },
-  {
-    "headline": "What We Know About the ICE Agent Who Shot Renee Nicole Good",
-    "link": "https://www.wsj.com/us-news/what-we-know-about-the-ice-agent-who-shot-renee-nicole-good-04f9b04e",
-    "source": "wsj",
-    "pubdate": "2026-01-09-23-17-00 +0000"
-  },
-  {
-    "headline": "Prosecutor Asks for Owner of Swiss Bar Hit by Deadly Fire to Be Detained",
-    "link": "https://www.nytimes.com/2026/01/09/world/europe/switzerland-fire-bar-owner-arrested.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-12-39 +0000"
-  },
-  {
-    "headline": "Prosecutor Asks for Owner of Swiss Bar Hit by Deadly Fire to Be Detained",
-    "link": "https://www.nytimes.com/2026/01/09/world/europe/switzerland-fire-bar-owner-arrested.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-23-12-39 +0000"
-  },
-  {
-    "headline": "Russia is using its hypersonic missile to send a political message. How dangerous is the Oreshnik?",
-    "link": "https://www.cbc.ca/news/world/oreshnik-hypersonic-ukraine-9.7040012?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-09-23-09-06 +0000"
-  },
-  {
-    "headline": "The WSJ Dollar Index Rises 0.52% This Week to 96.47",
-    "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-ahead-of-u-s-nonfarm-payrolls-10635c4e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-09-23-03-00 +0000"
-  },
-  {
-    "headline": "Top FBI New York field office official tapped to replace Dan Bongino",
-    "link": "https://nypost.com/2026/01/09/us-news/top-fbi-new-york-field-office-official-tapped-to-replace-dan-bongino/",
-    "source": "nypost",
-    "pubdate": "2026-01-09-22-59-38 +0000"
-  },
-  {
-    "headline": "Trump called Republican senators to personally rebuke them for supporting a war powers resolution that served as a symbolic repudiation of the administration’s moves in Venezuela",
-    "link": "https://www.wsj.com/politics/policy/angry-trump-called-gop-dissidents-after-war-powers-vote-6b27dbae",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-58-00 +0000"
-  },
-  {
-    "headline": "An Up-Close Look at the Thwaites Glacier",
-    "link": "https://www.nytimes.com/2026/01/09/climate/portraits-of-the-thwaites-glacier.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-55-59 +0000"
-  },
-  {
-    "headline": "Maduro’s Fall Spotlights His Torture Chamber for Political Prisoners",
-    "link": "https://www.wsj.com/world/americas/maduros-fall-spotlights-his-torture-chamber-for-political-prisoners-c7752c8f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-53-00 +0000"
-  },
-  {
-    "headline": "Hessy Levinsons Taft, Jewish Baby on Cover of Nazi Magazine, Dies at 91",
-    "link": "https://www.nytimes.com/2026/01/09/world/europe/hessy-levinsons-taft-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-52-27 +0000"
-  },
-  {
-    "headline": "Hessy Levinsons Taft, Jewish Baby on Cover of Nazi Magazine, Dies at 91",
-    "link": "https://www.nytimes.com/2026/01/09/world/europe/hessy-levinsons-taft-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-52-27 +0000"
-  },
-  {
-    "headline": "Trump Threatens to Take Greenland ‘the Hard Way’",
-    "link": "https://www.nytimes.com/2026/01/09/world/americas/trump-greenland-annex.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-52-07 +0000"
-  },
-  {
-    "headline": "Trump Threatens to Take Greenland ‘the Hard Way’",
-    "link": "https://www.nytimes.com/2026/01/09/world/americas/trump-greenland-annex.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-52-07 +0000"
-  },
-  {
-    "headline": "Trump Threatens to Take Greenland ‘the Hard Way’",
-    "link": "https://www.nytimes.com/2026/01/09/world/americas/trump-greenland-annex.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-52-07 +0000"
-  },
-  {
-    "headline": "Opinion | Uber’s Lesson for the Marijuana Market",
-    "link": "https://www.wsj.com/opinion/ubers-lesson-for-the-marijuana-market-0de7b080",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-49-00 +0000"
-  },
-  {
-    "headline": "Opinion | Uber’s Lesson for the Marijuana Market",
-    "link": "https://www.wsj.com/opinion/ubers-lesson-for-the-marijuana-market-0de7b080?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-49-00 +0000"
-  },
-  {
-    "headline": "Opinion | The Allegedly ‘Pro-Rich’ Supreme Court",
-    "link": "https://www.wsj.com/opinion/supreme-court-rich-study-u-s-justices-e55e7a4a",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-44-00 +0000"
-  },
-  {
-    "headline": "Bay Area semiconductor testing company to lay off more than 200 workers",
-    "link": "https://www.latimes.com/business/story/2026-01-09/bay-area-semiconductor-testing-company-to-lay-off-more-than-200-workers",
-    "source": "latimes",
-    "pubdate": "2026-01-09-22-43-57 +0000"
-  },
-  {
-    "headline": "Opinion | Mr. Trump, Thank Mitch McConnell",
-    "link": "https://www.wsj.com/opinion/mitch-mcconnell-war-powers-senate-donald-trump-87cb13b6",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-43-00 +0000"
-  },
-  {
-    "headline": "Opinion | A Big Oil Case at the Supreme Court",
-    "link": "https://www.wsj.com/opinion/chevron-v-plaquemines-parish-louisiana-oil-drilling-supreme-court-john-carmouche-49d3964b",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-42-00 +0000"
-  },
-  {
-    "headline": "Opinion | A Big Oil Case at the Supreme Court",
-    "link": "https://www.wsj.com/opinion/chevron-v-plaquemines-parish-louisiana-oil-drilling-supreme-court-john-carmouche-49d3964b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-42-00 +0000"
-  },
-  {
-    "headline": "Opinion | The Music That Survived the Holocaust",
-    "link": "https://www.wsj.com/opinion/the-music-that-survived-the-holocaust-8ee17d0f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-37-00 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani endorses key DSA ally in NY House race: ‘Proud to stand behind this vision’",
-    "link": "https://nypost.com/2026/01/09/us-news/zohran-mamdani-endorses-key-dsa-ally-in-ny-house-race/",
-    "source": "nypost",
-    "pubdate": "2026-01-09-22-32-01 +0000"
-  },
-  {
-    "headline": "Kanye West sues ex-employee over Malibu mansion lien",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-09/kanye-west-sues-ex-employee-over-malibu-mansion-lien",
-    "source": "latimes",
-    "pubdate": "2026-01-09-22-30-58 +0000"
-  },
-  {
-    "headline": "A Look at Iran’s Antigovernment Protests",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010627398/a-look-at-irans-antigovernment-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-29-36 +0000"
-  },
-  {
-    "headline": "A Look at Iran’s Antigovernment Protests",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010627398/a-look-at-irans-antigovernment-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-29-36 +0000"
-  },
-  {
-    "headline": "Trump Officials Reopen Thousands of Refugee Claims in Minnesota",
-    "link": "https://www.nytimes.com/2026/01/09/us/politics/minnesota-refugees-dhs-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-24-54 +0000"
-  },
-  {
-    "headline": "GameStop closes more stores as retail apocalypse continues",
-    "link": "https://nypost.com/2026/01/09/business/gamestop-closes-more-stores-as-retail-apocalypse-continues/",
-    "source": "nypost",
-    "pubdate": "2026-01-09-22-20-15 +0000"
-  },
-  {
-    "headline": "The Score: Constellation, Chevron, Lockheed Martin and More Stocks That Defined the Week",
-    "link": "https://www.wsj.com/finance/stocks/the-score-constellation-chevron-lockheed-martin-ventyx-biosciences-paramount-jpmorganstocks-that-defined-the-week-58662721?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-19-00 +0000"
-  },
-  {
-    "headline": "Opinion | Oil Power vs. the People’s Revolution",
-    "link": "https://www.wsj.com/opinion/oil-power-vs-the-peoples-revolution-32f5fc0f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-15-00 +0000"
-  },
-  {
-    "headline": "Opinion | Oil Power vs. the People’s Revolution",
-    "link": "https://www.wsj.com/opinion/oil-power-vs-the-peoples-revolution-32f5fc0f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-15-00 +0000"
-  },
-  {
-    "headline": "Opinion | Oil Power vs. the People’s Revolution",
-    "link": "https://www.wsj.com/opinion/oil-power-vs-the-peoples-revolution-32f5fc0f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-15-00 +0000"
-  },
-  {
-    "headline": "Winter storm slams UK, France as cold snap spreads across Europe",
-    "link": "https://nypost.com/2026/01/09/world-news/winter-storm-slams-uk-france-as-cold-snap-spreads-across-europe/",
-    "source": "nypost",
-    "pubdate": "2026-01-09-22-10-39 +0000"
-  },
-  {
-    "headline": "World Football",
-    "link": "https://www.bbc.co.uk/sounds/play/p0mt6bg8?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-09-22-10-00 +0000"
-  },
-  {
-    "headline": "With Missile Strike on Ukraine, Putin Delivers a Warning to Europe",
-    "link": "https://www.nytimes.com/2026/01/09/world/europe/putin-russia-ukraine-oreshnik-europe.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-09-05 +0000"
-  },
-  {
-    "headline": "With Missile Strike on Ukraine, Putin Delivers a Warning to Europe",
-    "link": "https://www.nytimes.com/2026/01/09/world/europe/putin-russia-ukraine-oreshnik-europe.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-22-09-05 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-08f7424c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-06-00 +0000"
-  },
-  {
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-00836450?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-09-22-03-00 +0000"
-  },
-  {
-    "headline": "Conservatives to debate policies including abortion, DEI and MAID at Calgary convention",
-    "link": "https://www.cbc.ca/news/politics/conservative-policies-debated-at-convention-9.7040187?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-09-21-59-12 +0000"
-  },
-  {
-    "headline": "Trump Posted Takeaways From December Jobs Report Before Publication",
-    "link": "https://www.wsj.com/economy/jobs/trump-posted-takeaways-from-december-jobs-report-before-publication-55421edb",
-    "source": "wsj",
-    "pubdate": "2026-01-09-21-55-00 +0000"
-  },
-  {
-    "headline": "Investors See Bright Side in Economic Outlook, Push Stocks to New Highs",
-    "link": "https://www.wsj.com/finance/stocks/investors-see-bright-side-in-economic-outlook-push-stocks-to-new-highs-f85e4ec7?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-09-21-55-00 +0000"
-  },
-  {
-    "headline": "President Trump’s social-media post showed job-creation totals that indirectly revealed information from December’s Bureau of Labor Statistics report",
-    "link": "https://www.wsj.com/economy/jobs/trump-posted-takeaways-from-december-jobs-report-before-publication-55421edb",
-    "source": "wsj",
-    "pubdate": "2026-01-09-21-55-00 +0000"
-  },
-  {
-    "headline": "Man Stole Dozens of Skeletons From Pennsylvania Cemetery, Authorities Say",
-    "link": "https://www.nytimes.com/2026/01/09/us/grave-robbery-bones-remains-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2026-01-09-21-54-35 +0000"
   }
 ]
