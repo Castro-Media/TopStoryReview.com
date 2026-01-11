@@ -1,65 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-01-11-00-34-14 +0000",
+    "score": 22,
+    "pubdate": "2026-01-11-01-58-29 +0000",
+    "source": "bbc",
+    "headline": "'I had no electricity for six months': American families struggle with soaring energy prices",
+    "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-01-11-02-30-37 +0000",
     "source": "nyt",
-    "headline": "Trump Is Briefed on Options for Striking Iran as Protests Continue",
-    "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-iran-strikes.html"
+    "headline": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
+    "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html"
   },
   {
     "score": 12,
-    "pubdate": "2026-01-11-01-12-07 +0000",
-    "source": "nypost",
-    "headline": "Protester scales Iranian Embassy in London, tears down regime flag, hoists pre-revolution symbol",
-    "link": "https://nypost.com/2026/01/10/world-news/protester-scales-iranian-embassy-in-london-tears-down-regime-flag-hoists-pre-revolution-symbol/"
+    "pubdate": "2026-01-11-01-50-00 +0000",
+    "source": "bbc",
+    "headline": "US military strikes Islamic State group targets in Syria, officials say",
+    "link": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 10,
-    "pubdate": "2026-01-11-00-42-19 +0000",
-    "source": "bbc",
-    "headline": "'Hounded and harassed': The former pop star taking on Uganda's long-time president",
-    "link": "https://www.bbc.com/news/articles/cz0pr807yz7o?at_medium=RSS&at_campaign=rss"
+    "score": 12,
+    "pubdate": "2026-01-11-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Hedge Funds Get Ready for the ‘Donroe Doctrine’ Trade",
+    "link": "https://www.wsj.com/finance/investing/hedge-funds-get-ready-for-the-donroe-doctrine-trade-522fdac2?mod=rss_markets_main"
   },
   {
     "score": 9,
-    "pubdate": "2026-01-11-00-44-16 +0000",
+    "pubdate": "2026-01-11-02-18-17 +0000",
     "source": "nyt",
-    "headline": "Who Was Renee Good, the Woman Killed by an ICE Agent in Minneapolis?",
-    "link": "https://www.nytimes.com/2026/01/10/us/rennee-good-ice-shooting-minnesota.html"
+    "headline": "Judge Pauses Trump Policy Ending Family Reunification for Some Migrants",
+    "link": "https://www.nytimes.com/2026/01/10/us/family-reunification-judge.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-01-11-01-13-17 +0000",
-    "source": "nypost",
-    "headline": "Police find ‘horror movie’ of stolen bones in alleged graverobber’s home",
-    "link": "https://nypost.com/2026/01/10/us-news/police-find-horror-movie-of-stolen-bones-in-alleged-graverobbers-home/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-01-11-00-23-09 +0000",
+    "score": 7,
+    "pubdate": "2026-01-11-02-21-11 +0000",
     "source": "bbc",
-    "headline": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
-    "link": "https://www.bbc.com/news/articles/c623r47d67lo?at_medium=RSS&at_campaign=rss"
+    "headline": "The FTSE 100 has hit a record high. Is now the time to start investing?",
+    "link": "https://www.bbc.com/news/articles/cy0958w1y1go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2026-01-11-00-57-56 +0000",
-    "source": "nypost",
-    "headline": "NYC teen stabbed in neck, killed after dispute: ‘What a sin’",
-    "link": "https://nypost.com/2026/01/10/us-news/nyc-teen-stabbed-in-neck-killed-after-dispute-what-a-sin/"
+    "score": 5,
+    "pubdate": "2026-01-11-02-07-59 +0000",
+    "source": "nyt",
+    "headline": "Anti-ICE Protests Spread Nationwide After Minneapolis Shooting",
+    "link": "https://www.nytimes.com/2026/01/10/us/ice-shooting-protests-minnesota.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-01-11-00-20-35 +0000",
-    "source": "wapo",
-    "headline": "U.S. says it hit Islamic State in Syria in response to attack on troops",
-    "link": "https://www.washingtonpost.com/national-security/2026/01/10/syria-strikes-pentagon-isis/"
+    "score": 5,
+    "pubdate": "2026-01-11-01-42-16 +0000",
+    "source": "bbc",
+    "headline": "Winners and Sinners: What to expect from the Golden Globes",
+    "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-01-11-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s Oil Grab Is a Big Problem for the OPEC Cartel",
+    "link": "https://www.wsj.com/business/energy-oil/trumps-oil-grab-is-a-big-problem-for-the-opec-cartel-5012013d?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 0,
-    "pubdate": "2026-01-11-00-34-14 +0000",
+    "pubdate": "2026-01-11-02-30-37 +0000",
     "source": "nyt",
-    "headline": "Trump Is Briefed on Options for Striking Iran as Protests Continue",
-    "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-iran-strikes.html"
+    "headline": "Death Toll Grows as Nationwide Protests Rock Iran for a Third Night",
+    "link": "https://www.nytimes.com/2026/01/10/world/middleeast/iran-protests-death-toll.html"
   }
 ]
