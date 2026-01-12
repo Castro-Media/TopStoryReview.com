@@ -1,5 +1,23 @@
 [
   {
+    "headline": "German 10-Year Bund Yield Likely to Stay Below 3% for Now",
+    "link": "https://www.wsj.com/finance/german-10-year-bund-yield-likely-to-stay-below-3-for-now-50422da4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-12-06-37-00 +0000"
+  },
+  {
+    "headline": "Watch: Timothée Chalamet, Teyana Taylor, Adolescence and other highlights from the Golden Globes",
+    "link": "https://www.bbc.com/news/videos/ckgnr12902no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-12-06-06-24 +0000"
+  },
+  {
+    "headline": "Mass Protests in Iran and Trump’s Threats",
+    "link": "https://www.nytimes.com/2026/01/11/world/mass-protests-iran-trump-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-01-12-06-03-19 +0000"
+  },
+  {
     "headline": "The criminal investigation into Federal Reserve Chair Jerome Powell isn’t ultimately about the Fed’s headquarters, or Powell, or even interest rates. It’s about power, writes Greg Ip.",
     "link": "https://www.wsj.com/economy/central-banking/trumps-investigation-of-powell-is-also-a-warning-to-the-next-fed-chair-b1739ede",
     "source": "wsj",
@@ -24,10 +42,16 @@
     "pubdate": "2026-01-12-05-50-51 +0000"
   },
   {
-    "headline": "Mass Protests in Iran and Trump’s Threats",
-    "link": "https://www.nytimes.com/2026/01/11/world/mass-protests-iran-trump-venezuela.html",
-    "source": "nyt",
-    "pubdate": "2026-01-12-05-28-40 +0000"
+    "headline": "California Atty. Gen. Rob Bonta opts against running for governor. Again.",
+    "link": "https://www.latimes.com/california/story/2026-01-11/california-atty-gen-rob-bonta-not-running-governor",
+    "source": "latimes",
+    "pubdate": "2026-01-12-05-47-19 +0000"
+  },
+  {
+    "headline": "California Atty. Gen. Rob Bonta opts against running for governor. Again.",
+    "link": "https://www.latimes.com/california/story/2026-01-11/california-atty-gen-rob-bonta-not-running-governor",
+    "source": "latimes",
+    "pubdate": "2026-01-12-05-47-19 +0000"
   },
   {
     "headline": "Malaysia and Indonesia block Musk's Grok over sexually explicit deepfakes",
@@ -1308,6 +1332,12 @@
     "pubdate": "2026-01-11-11-00-00 +0000"
   },
   {
+    "headline": "The rise and fall of the Sprinkles empire that made cupcakes cool",
+    "link": "https://www.latimes.com/business/story/2026-01-11/rise-fall-of-sprinkles-empire-that-made-cupcakes-cool",
+    "source": "latimes",
+    "pubdate": "2026-01-11-11-00-00 +0000"
+  },
+  {
     "headline": "Barabak: Trump can be hard to take. But his tariffs keep this fisherman afloat",
     "link": "https://www.latimes.com/politics/story/2026-01-11/trumps-america-louisiana-shrimp-fisherman-prospers-tariffs",
     "source": "latimes",
@@ -1316,12 +1346,6 @@
   {
     "headline": "Why California is keeping this unusual solar plant running when both Trump and Biden wanted it closed",
     "link": "https://www.latimes.com/environment/story/2026-01-11/trump-biden-both-want-this-california-solar-facility-to-close-state-has-other-plans",
-    "source": "latimes",
-    "pubdate": "2026-01-11-11-00-00 +0000"
-  },
-  {
-    "headline": "The rise and fall of the Sprinkles empire that made cupcakes cool",
-    "link": "https://www.latimes.com/business/story/2026-01-11/rise-fall-of-sprinkles-empire-that-made-cupcakes-cool",
     "source": "latimes",
     "pubdate": "2026-01-11-11-00-00 +0000"
   },
@@ -1534,17 +1558,5 @@
     "link": "https://nypost.com/2026/01/11/world-news/nobel-institute-shuts-down-talk-of-venezuelas-maria-corina-machado-giving-nobel-peace-prize-to-trump/",
     "source": "nypost",
     "pubdate": "2026-01-11-07-58-10 +0000"
-  },
-  {
-    "headline": "Winners and Sinners: What to expect from the Golden Globes",
-    "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-11-07-53-49 +0000"
-  },
-  {
-    "headline": "Iran warns US troops and Israel will be targets if America strikes over protests as death toll rises to 500",
-    "link": "https://nypost.com/2026/01/11/world-news/iran-warns-us-troops-and-israel-will-be-targets-if-america-strikes-over-protests-as-death-toll-rises/",
-    "source": "nypost",
-    "pubdate": "2026-01-11-07-27-11 +0000"
   }
 ]
