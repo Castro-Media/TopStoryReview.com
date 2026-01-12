@@ -1,13 +1,13 @@
 [
   {
-    "score": 109,
+    "score": 112,
     "pubdate": "2026-01-11-22-39-27 +0000",
     "source": "nyt",
     "headline": "Deposed Shah’s Son Hopes Trump Will Put Iran Regime ‘Down for Good’",
     "link": "https://www.nytimes.com/2026/01/11/world/europe/iran-protests-shah-son-trump.html"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-01-11-22-37-17 +0000",
     "source": "nypost",
     "headline": "NYC anti-ICE protest draws 2,000 in latest unrest since shooting death of Renee Nicole Good",
@@ -21,18 +21,25 @@
     "link": "https://www.cbc.ca/news/world/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-pushes-for-deal-9.7041441?cmp=rss"
   },
   {
+    "score": 47,
+    "pubdate": "2026-01-12-02-41-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. prosecutors are investigating Federal Reserve Chair Jerome Powell over his testimony last summer about the central bank’s building renovation project",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-received-justice-department-subpoena-threatening-criminal-indictment-e9e3f84d"
+  },
+  {
     "score": 44,
+    "pubdate": "2026-01-11-19-28-26 +0000",
+    "source": "nyt",
+    "headline": "Malaysia and Indonesia Block Access to Grok Because of Sexually Explicit Content",
+    "link": "https://www.nytimes.com/2026/01/11/world/asia/malaysia-indonesia-grok-ban.html"
+  },
+  {
+    "score": 43,
     "pubdate": "2026-01-11-17-21-26 +0000",
     "source": "bbc",
     "headline": "Thousands march and dozens arrested in Minneapolis protests against ICE",
     "link": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-01-12-01-10-59 +0000",
-    "source": "nypost",
-    "headline": "Federal Reserve Chair Jerome Powell under investigation over headquarters renovation: report",
-    "link": "https://nypost.com/2026/01/11/business/federal-reserve-chair-jerome-powell-under-investigation-over-headquarters-renovation-report/"
   },
   {
     "score": 41,
@@ -40,13 +47,6 @@
     "source": "nypost",
     "headline": "Top Minnesota GOP rep. hopes Tim Walz ‘leaves office in cuffs’ over swirling fraud scandal",
     "link": "https://nypost.com/2026/01/11/us-news/top-minnesota-gop-rep-hopes-tim-walz-leaves-office-in-cuffs-over-swirling-fraud-scandal/"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-01-11-20-47-15 +0000",
-    "source": "nyt",
-    "headline": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
-    "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html"
   },
   {
     "score": 33,
@@ -57,16 +57,16 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-01-11-13-00-00 +0000",
-    "source": "nypost",
-    "headline": "After Marine vet Trevor Reed was freed from a Russian prison, he sought revenge by fighting for Ukraine",
-    "link": "https://nypost.com/2026/01/11/world-news/marine-vet-was-freed-from-russian-prison-fought-for-ukraine/"
-  },
-  {
-    "score": 32,
     "pubdate": "2026-01-12-02-32-41 +0000",
     "source": "wapo",
     "headline": "Hundreds of Iranian protesters feared killed; U.S. considers military strikes",
     "link": "https://www.washingtonpost.com/world/2026/01/11/iran-protests-death-toll/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-01-11-20-47-15 +0000",
+    "source": "nyt",
+    "headline": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html"
   }
 ]
