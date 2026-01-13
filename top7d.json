@@ -1,13 +1,6 @@
 [
   {
-    "score": 625,
-    "pubdate": "2026-01-13-02-08-00 +0000",
-    "source": "wsj",
-    "headline": "Some Trump allies and officials worry that the Justice Department’s criminal investigation into Fed Chair Jerome Powell could imperil Trump’s nominees in the Senate and unnerve financial markets",
-    "link": "https://www.wsj.com/politics/policy/trump-allies-and-officials-fear-blowback-from-powell-probe-ad5fe594"
-  },
-  {
-    "score": 271,
+    "score": 510,
     "pubdate": "2026-01-12-22-35-00 +0000",
     "source": "wsj",
     "headline": "The U.S. will put a 25% tariff on any country that does business with Iran, President Trump said on Monday, raising pressure on the Middle Eastern nation after days of protests against the government",
@@ -21,32 +14,39 @@
     "link": "https://www.latimes.com/california/story/2026-01-11/gubernatorial-candidates-address-immigration-affordability-homelessness"
   },
   {
-    "score": 173,
+    "score": 180,
+    "pubdate": "2026-01-13-03-47-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Republicans criticized the Justice Department’s investigation of Fed Chair Jerome Powell, with some calling the probe overtly political",
+    "link": "https://www.wsj.com/politics/policy/gop-senators-criticize-probe-of-fed-chair-powell-f357545d"
+  },
+  {
+    "score": 176,
     "pubdate": "2026-01-12-17-24-13 +0000",
     "source": "nypost",
     "headline": "Swiss court orders bar co-owner kept in custody after horrific New Year’s Day fire kills 40",
     "link": "https://nypost.com/2026/01/12/world-news/swiss-court-orders-bar-co-owner-kept-in-custody-after-fatal-new-years-fire/"
   },
   {
-    "score": 170,
+    "score": 152,
     "pubdate": "2026-01-11-16-38-56 +0000",
     "source": "nyt",
     "headline": "$100 Billion to Revive Venezuela’s Energy Industry? Oil Executives Are Not So Sure",
     "link": "https://www.nytimes.com/2026/01/10/business/dealbook/oil-executives-trump-venezuela.html"
   },
   {
-    "score": 139,
+    "score": 133,
     "pubdate": "2026-01-07-10-00-00 +0000",
     "source": "wsj",
     "headline": "The welfare-fraud scandal that led Minnesota Gov. Tim Walz to abandon his 2026 re-election bid was already public when he was vetted for the 2024 Democratic presidential ticket",
     "link": "https://www.wsj.com/politics/elections/minnesota-tim-walz-scandal-harris-campaign-6bafc8cd"
   },
   {
-    "score": 139,
-    "pubdate": "2026-01-12-17-59-00 +0000",
-    "source": "wsj",
-    "headline": "Mary Peltola will challenge GOP incumbent Sen. Dan Sullivan in Alaska. She served as the first woman to represent Alaska in the House and the first Alaska Native in Congress",
-    "link": "https://www.wsj.com/politics/elections/mary-peltolas-alaska-bid-lifts-democrats-long-shot-senate-chances-33103908"
+    "score": 118,
+    "pubdate": "2026-01-13-18-32-51 +0000",
+    "source": "nyt",
+    "headline": "Before White House Meeting, Greenland’s Leader Says Island Would Choose Denmark Over U.S.",
+    "link": "https://www.nytimes.com/2026/01/13/us/politics/greenland-denmark-trump-frederiksen.html"
   },
   {
     "score": 114,
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/economy/housing/trump-blindsides-wall-street-allies-with-crackdown-on-housing-investors-c3fe182b"
   },
   {
-    "score": 104,
-    "pubdate": "2026-01-09-19-35-38 +0000",
+    "score": 99,
+    "pubdate": "2026-01-10-00-05-41 +0000",
     "source": "bbc",
-    "headline": "EU reaches South America trade deal after 25 years of talks",
-    "link": "https://www.bbc.com/news/articles/ceqzj49gny4o?at_medium=RSS&at_campaign=rss"
+    "headline": "South Africa's strained ties with US face new test - war games with China, Iran and Russia",
+    "link": "https://www.bbc.com/news/articles/c62wxezynk2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 101,
-    "pubdate": "2026-01-12-14-33-37 +0000",
-    "source": "cbc",
-    "headline": "Malaysia, Indonesia become 1st countries to block Musk's Grok over sexualized AI images",
-    "link": "https://www.cbc.ca/news/business/malaysia-indonesia-grok-block-elon-musk-9.7041914?cmp=rss"
+    "score": 91,
+    "pubdate": "2026-01-12-17-59-00 +0000",
+    "source": "wsj",
+    "headline": "Mary Peltola will challenge GOP incumbent Sen. Dan Sullivan in Alaska. She served as the first woman to represent Alaska in the House and the first Alaska Native in Congress",
+    "link": "https://www.wsj.com/politics/elections/mary-peltolas-alaska-bid-lifts-democrats-long-shot-senate-chances-33103908"
   }
 ]
