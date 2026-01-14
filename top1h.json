@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "score": 19,
+    "pubdate": "2026-01-14-13-04-04 +0000",
+    "source": "bbc",
+    "headline": "Trump vows 'very strong action' if Iran executes protesters",
+    "link": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-14-13-03-40 +0000",
+    "source": "bbc",
+    "headline": "Chancellor 'particularly concerned' about pub business rates",
+    "link": "https://www.bbc.com/news/articles/cgjwgzwe2eyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-14-13-02-49 +0000",
+    "source": "nypost",
+    "headline": "Doctors in Iran collapsing from exhaustion as protesters wounded, killed by regime pile up: ‘Rivers of blood’",
+    "link": "https://nypost.com/2026/01/14/world-news/iran-doctors-exhausted-as-protesters-wounded-killed-by-regime-pile-up-rivers-of-blood/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-14-13-00-12 +0000",
+    "source": "wapo",
+    "headline": "Vance steps in to host White House talks on Greenland’s future",
+    "link": "https://www.washingtonpost.com/national-security/2026/01/14/trump-greenland-jd-vance/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-14-13-02-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Rises on Growing Fears of Supply Disruptions in Iran",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-7e8c5160?mod=rss_markets_main"
+  },
+  {
+    "score": 1,
+    "pubdate": "2026-01-14-13-03-40 +0000",
+    "source": "bbc",
+    "headline": "Reeves 'particularly concerned' about pub business rates",
+    "link": "https://www.bbc.com/news/articles/cgjwgzwe2eyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-14-13-04-04 +0000",
+    "source": "bbc",
+    "headline": "Trump vows 'very strong action' if Iran executes protesters",
+    "link": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss"
+  }
+]
