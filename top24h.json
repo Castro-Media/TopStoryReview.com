@@ -1,38 +1,31 @@
 [
   {
-    "score": 231,
+    "score": 214,
     "pubdate": "2026-01-13-21-07-00 +0000",
     "source": "wsj",
     "headline": "President Trump said the economy was poised for solid growth this year, pointing to steadying inflation data as he sought to address one of the GOP’s vulnerabilities ahead of this year’s midterms",
     "link": "https://www.wsj.com/politics/policy/trump-predicts-strong-economic-growth-in-2026-during-speech-in-detroit-71a5a19d"
   },
   {
-    "score": 111,
+    "score": 115,
     "pubdate": "2026-01-13-20-40-15 +0000",
     "source": "nyt",
     "headline": "As Iran’s Government Tries to Quell Protests, Accounts of Brutal Crackdown Emerge",
     "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html"
   },
   {
-    "score": 108,
-    "pubdate": "2026-01-13-03-47-00 +0000",
+    "score": 102,
+    "pubdate": "2026-01-13-15-06-00 +0000",
     "source": "wsj",
-    "headline": "Senate Republicans criticized the Justice Department’s investigation of Fed Chair Jerome Powell, with some calling the probe overtly political",
-    "link": "https://www.wsj.com/politics/policy/gop-senators-criticize-probe-of-fed-chair-powell-f357545d"
+    "headline": "The Justice Department’s investigation of Federal Reserve Chair Jerome Powell represents an escalation of an unprecedented White House campaign to shape what happens at the central bank",
+    "link": "https://www.wsj.com/economy/central-banking/the-fed-trump-feud-what-you-need-to-know-ef8fbe93"
   },
   {
-    "score": 100,
-    "pubdate": "2026-01-13-22-19-10 +0000",
-    "source": "startribune",
-    "headline": "Supreme Court seems likely to uphold state bans on transgender athletes in girls and women's sports",
-    "link": "https://www.startribune.com/supreme-court-takes-up-culture-war-battle-over-transgender-athletes-in-school-sports/601562957"
-  },
-  {
-    "score": 84,
-    "pubdate": "2026-01-13-18-32-52 +0000",
-    "source": "nyt",
-    "headline": "Before White House Meeting, Greenland’s Leader Says Island Would Choose Denmark Over U.S.",
-    "link": "https://www.nytimes.com/2026/01/13/us/politics/greenland-denmark-trump-frederiksen.html"
+    "score": 88,
+    "pubdate": "2026-01-13-23-13-00 +0000",
+    "source": "wsj",
+    "headline": "Six prosecutors resigned from the U.S. attorney’s office in Minnesota over the Trump administration’s handling of probe into killing of a woman by an ICE agent, people familiar with the matter said",
+    "link": "https://www.wsj.com/us-news/six-federal-prosecutors-in-minnesota-step-down-over-ice-shooting-investigation-560ab76a"
   },
   {
     "score": 83,
@@ -42,31 +35,38 @@
     "link": "https://www.wsj.com/us-news/former-new-york-city-mayor-eric-adamss-nyc-token-plummets-after-1-million-drawdown-f14f0a14?mod=rss_markets_main"
   },
   {
-    "score": 74,
-    "pubdate": "2026-01-13-17-28-14 +0000",
+    "score": 78,
+    "pubdate": "2026-01-13-18-51-55 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court likely to uphold state bans on trans athletes competing in girls' sports",
+    "link": "https://www.latimes.com/politics/story/2026-01-13/supreme-court-likely-to-uphold-state-bans-on-trans-athletes-competing-on-girls-sports-teams"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-01-13-20-51-30 +0000",
+    "source": "cbc",
+    "headline": "As Carney heads to China to talk trade, Ontario premier still '100% dead against' rolling back EV tariffs",
+    "link": "https://www.cbc.ca/news/canada/toronto/doug-ford-ontario-china-electric-vehicles-9.7043990?cmp=rss"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-01-13-18-32-52 +0000",
     "source": "nyt",
-    "headline": "FBI’s ICE Shooting Inquiry Examines Renee Good’s Possible Ties to Activist Groups",
-    "link": "https://www.nytimes.com/2026/01/12/us/politics/fbi-renee-good-ice-shooting.html"
+    "headline": "Before White House Meeting, Greenland’s Leader Says Island Would Choose Denmark Over U.S.",
+    "link": "https://www.nytimes.com/2026/01/13/us/politics/greenland-denmark-trump-frederiksen.html"
   },
   {
-    "score": 57,
-    "pubdate": "2026-01-13-15-03-31 +0000",
+    "score": 55,
+    "pubdate": "2026-01-13-13-38-58 +0000",
     "source": "nypost",
-    "headline": "Trump tells Iranians ‘keep protesting,’ says ‘help is on its way’ and regime will ‘pay a big price’ as thousands feared dead",
-    "link": "https://nypost.com/2026/01/13/us-news/trump-tells-iranians-keep-protesting-says-help-is-on-its-way-and-regime-will-pay-a-big-price/"
+    "headline": "Inflation rises 2.7% as Trump ramps up pressure on Fed to slash interest rates",
+    "link": "https://nypost.com/2026/01/13/business/us-inflation-rose-2-7-in-december/"
   },
   {
-    "score": 54,
-    "pubdate": "2026-01-13-17-39-31 +0000",
-    "source": "bbc",
-    "headline": "Prosecutors seek death penalty for ex-South Korean president Yoon",
-    "link": "https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-01-13-21-35-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon has told lawmakers that it chose an aircraft painted in civilian colors to carry out a lethal trike on an alleged drug boat because the unit could be the quickest ready for the operation",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-defends-use-of-aircraft-painted-in-civilian-colors-for-boat-strike-aa08ad58"
+    "score": 53,
+    "pubdate": "2026-01-13-23-28-18 +0000",
+    "source": "cbc",
+    "headline": "Iranian man arrested amid protests sentenced to death, say human rights groups",
+    "link": "https://www.cbc.ca/news/world/iranian-man-death-sentence-9.7043914?cmp=rss"
   }
 ]
