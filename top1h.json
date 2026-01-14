@@ -1,72 +1,51 @@
 [
   {
-    "score": 35,
-    "pubdate": "2026-01-14-01-05-06 +0000",
-    "source": "nypost",
-    "headline": "Gov. Hochul boosts subway safety funding $77M,  backs pilot ‘super speeders’ tech for lead-footed NYC drivers",
-    "link": "https://nypost.com/2026/01/13/us-news/hochul-boosts-subway-safety-funding-77m-backing-plan-to-to-target-nyc-super-speeders/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-01-14-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Wall Street thought it had an ally in Donald Trump. He’s becoming more of an adversary after a series of rapid-fire proposals in the span of a week",
-    "link": "https://www.wsj.com/politics/policy/wall-street-is-suddenly-on-the-defensive-with-the-president-7642e098"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-01-14-00-20-29 +0000",
-    "source": "latimes",
-    "headline": "Push for stricter cap on rent increases dies in the California Legislature",
-    "link": "https://www.latimes.com/california/story/2026-01-13/push-for-stricter-cap-on-rent-increases-dies-in-california-legislature"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-01-14-01-04-23 +0000",
-    "source": "nypost",
-    "headline": "Benny Johnson fires back at Gavin Newsom with LA ‘hellscape’ video — after gross jab about Grindr",
-    "link": "https://nypost.com/2026/01/13/us-news/benny-johnson-fires-back-at-gavin-newsom-with-la-hellscape-video-after-gross-jab-about-grindr/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-01-14-01-06-58 +0000",
+    "score": 22,
+    "pubdate": "2026-01-14-04-02-08 +0000",
     "source": "nyt",
-    "headline": "Claudette Colvin, Who Refused to Give Her Bus Seat to a White Woman, Dies at 86",
-    "link": "https://www.nytimes.com/2026/01/13/us/politics/claudette-colvin-dead.html"
+    "headline": "China’s Coal Ban Improved Air Quality, but Villagers Are Paying the Price",
+    "link": "https://www.nytimes.com/2026/01/13/world/asia/china-coal-ban-air-pollution-heating.html"
   },
   {
-    "score": 18,
-    "pubdate": "2026-01-14-00-20-00 +0000",
-    "source": "wsj",
-    "headline": "Jamie Dimon defended the independence of the Fed, saying that “anything that chips away” at the central bank’s independence “is not a good idea”",
-    "link": "https://www.wsj.com/economy/central-banking/jamie-dimon-warns-political-interference-with-fed-would-push-up-rates-60ccfed6"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-14-00-57-28 +0000",
-    "source": "latimes",
-    "headline": "Kiefer Sutherland arrested after allegedly assaulting ride-share driver in Hollywood",
-    "link": "https://www.latimes.com/california/story/2026-01-13/kiefer-sutherland-arrested-allegedly-assaulted-ride-share-driver"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-01-14-00-27-04 +0000",
-    "source": "nypost",
-    "headline": "US issues urgent safety warning after deadly crashes involving faulty air bags made in China",
-    "link": "https://nypost.com/2026/01/13/business/us-issues-urgent-safety-warning-after-deadly-crashes-involving-faulty-air-bags-made-in-china/"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-14-00-53-28 +0000",
-    "source": "startribune",
-    "headline": "Immigrant corridors in both Minneapolis and St. Paul nearly shut down by intensifying ICE actions",
-    "link": "https://www.startribune.com/immigrant-businesses-lose-sales-close-ice-action-twin-cities/601562613"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-14-00-27-41 +0000",
+    "score": 12,
+    "pubdate": "2026-01-14-04-11-37 +0000",
     "source": "bbc",
-    "headline": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
-    "link": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss"
+    "headline": "US approves sale of Nvidia's advanced AI chips to China",
+    "link": "https://www.bbc.com/news/articles/cg4erx1n04lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-14-04-03-00 +0000",
+    "source": "wsj",
+    "headline": "China Marks Record $1.2 Trillion Trade Surplus in 2025 Despite U.S. Tariffs",
+    "link": "https://www.wsj.com/economy/trade/china-marks-record-1-2-trillion-trade-surplus-in-2025-despite-u-s-tariffs-2dddf4e3"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-14-04-01-08 +0000",
+    "source": "startribune",
+    "headline": "Live: Anti-ICE protest outside U hotel grows as tensions remain high in Minneapolis",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-14-04-11-37 +0000",
+    "source": "bbc",
+    "headline": "US approves sale of Nvidia's advanced AI chips to China",
+    "link": "https://www.bbc.com/news/articles/cg4erx1n04lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-14-04-03-00 +0000",
+    "source": "wsj",
+    "headline": "China Marks Record $1.2 Trillion Trade Surplus in 2025 Despite U.S. Tariffs",
+    "link": "https://www.wsj.com/economy/trade/china-marks-record-1-2-trillion-trade-surplus-in-2025-despite-u-s-tariffs-2dddf4e3"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-14-04-02-08 +0000",
+    "source": "nyt",
+    "headline": "China’s Coal Ban Improved Air Quality, but Villagers Are Paying the Price",
+    "link": "https://www.nytimes.com/2026/01/13/world/asia/china-coal-ban-air-pollution-heating.html"
   }
 ]
