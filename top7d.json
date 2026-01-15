@@ -1,24 +1,17 @@
 [
   {
-    "score": 466,
+    "score": 464,
     "pubdate": "2026-01-14-22-11-00 +0000",
     "source": "wsj",
     "headline": "A divided three-judge panel rejected the Trump administration’s effort to block California’s new congressional map that adds five new Democratic-leaning districts for the 2026 midterm elections",
     "link": "https://www.wsj.com/politics/policy/judges-uphold-californias-new-congressional-map-282d7e80"
   },
   {
-    "score": 213,
+    "score": 216,
     "pubdate": "2026-01-10-00-05-41 +0000",
     "source": "bbc",
     "headline": "South Africa's strained ties with US face new test - war games with China, Iran and Russia",
     "link": "https://www.bbc.com/news/articles/c62wxezynk2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 169,
-    "pubdate": "2026-01-09-12-23-44 +0000",
-    "source": "nyt",
-    "headline": "Trump Indicates He Will Meet Venezuela’s Machado After Offer to Give Him Her Nobel Peace Prize",
-    "link": "https://www.nytimes.com/2026/01/09/world/americas/trump-venezuela-machado-nobel-prize.html"
   },
   {
     "score": 152,
@@ -28,45 +21,52 @@
     "link": "https://www.wsj.com/politics/national-security/trump-says-greenland-is-vital-for-u-s-s-national-security-ecae028b"
   },
   {
-    "score": 142,
-    "pubdate": "2026-01-15-02-13-51 +0000",
-    "source": "cbc",
-    "headline": "Video shows woman dragged from car by ICE agents in Minneapolis as she tells them she's autistic",
-    "link": "https://www.cbc.ca/news/world/ice-woman-car-minneapolis-9.7045672?cmp=rss"
+    "score": 137,
+    "pubdate": "2026-01-13-10-03-11 +0000",
+    "source": "nyt",
+    "headline": "Venezuela’s Oil Riches Are Years Off, but Winners and Losers Will Emerge",
+    "link": "https://www.nytimes.com/2026/01/13/business/venezuela-oil-winners-losers.html"
   },
   {
-    "score": 122,
-    "pubdate": "2026-01-15-16-47-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump threatened to invoke the Insurrection Act , a 19th century law that could allow him to deploy the military inside the U.S., in response to protests in Minnesota",
-    "link": "https://www.wsj.com/politics/policy/trump-minnesota-insurrection-act-98e11761"
+    "score": 134,
+    "pubdate": "2026-01-15-16-42-31 +0000",
+    "source": "wapo",
+    "headline": "Trump threatens Insurrection Act to use troops to quell Minnesota ICE protests",
+    "link": "https://www.washingtonpost.com/nation/2026/01/15/ice-minnesota-minneapolis-venezuela-man-shooting/"
   },
   {
-    "score": 121,
-    "pubdate": "2026-01-10-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "America’s unemployment rate is low. But so is its job growth. That means many Americans are locked out of stable, full-time jobs, and many are struggling.",
-    "link": "https://www.wsj.com/economy/jobs/job-market-cooling-labor-department-6d4204ed"
+    "score": 124,
+    "pubdate": "2026-01-15-15-25-01 +0000",
+    "source": "nypost",
+    "headline": "Trump says he has no plans to fire Jerome Powell — after reported ‘joke’ offer of Fed chair job to Jamie Dimon",
+    "link": "https://nypost.com/2026/01/15/business/trump-says-he-has-no-plans-to-fire-powell-after-offering-job-to-jpmorgans-dimon-report/"
   },
   {
-    "score": 113,
+    "score": 120,
+    "pubdate": "2026-01-14-20-36-08 +0000",
+    "source": "nypost",
+    "headline": "Trump says ‘other side’ claims it stopped killing Iranian protesters – but prez not ruling out military strikes",
+    "link": "https://nypost.com/2026/01/14/us-news/trump-says-iran-has-stopped-killing-protesters-theres-no-plan-for-executions/"
+  },
+  {
+    "score": 107,
     "pubdate": "2026-01-14-04-49-00 +0000",
     "source": "wsj",
     "headline": "China posted a record $1.2 trillion trade surplus for 2025, as data showed the world’s second-largest economy remained resilient despite facing steep tariffs from the Trump administration",
     "link": "https://www.wsj.com/economy/trade/china-marks-record-1-2-trillion-trade-surplus-in-2025-despite-u-s-tariffs-2dddf4e3"
   },
   {
-    "score": 112,
-    "pubdate": "2026-01-14-20-17-00 +0000",
+    "score": 96,
+    "pubdate": "2026-01-15-18-07-00 +0000",
     "source": "wsj",
-    "headline": "Fed governor Stephen Miran, an appointee of President Trump, criticized top global central bankers who defended Fed Chair Jerome Powell amid the Justice Department’s criminal probe",
-    "link": "https://www.wsj.com/economy/central-banking/feds-miran-says-u-s-deregulation-backs-easier-fed-stance-831d545a"
+    "headline": "The Health and Human Services Department has reversed around $2 billion in grant cuts to substance-abuse and mental-health programs",
+    "link": "https://www.wsj.com/politics/policy/hhs-reverses-2-billion-in-cuts-to-mental-health-substance-abuse-groups-f5916317"
   },
   {
-    "score": 101,
-    "pubdate": "2026-01-10-00-15-43 +0000",
+    "score": 93,
+    "pubdate": "2026-01-14-21-44-32 +0000",
     "source": "latimes",
-    "headline": "Newsom's budget includes $200 million to make up for Trump's canceled EV rebates, among other climate items",
-    "link": "https://www.latimes.com/environment/story/2026-01-09/newsoms-budget-includes-200m-to-make-up-for-trumps-canceled-ev-rebates-among-other-climate-items"
+    "headline": "Former Huntington Beach city attorney, a Newsom critic, to run for state attorney general",
+    "link": "https://www.latimes.com/california/story/2026-01-14/newsom-critic-former-huntington-beach-city-attorney-to-run-for-state-attorney-general"
   }
 ]
