@@ -1,20 +1,20 @@
 [
   {
-    "score": 250,
+    "score": 244,
     "pubdate": "2026-01-15-21-46-24 +0000",
     "source": "nypost",
     "headline": "Venezuelan opposition leader María Corina Machado presented Trump her Nobel Peace Prize medal in White House meeting",
     "link": "https://nypost.com/2026/01/15/us-news/venezuelan-opposition-leader-maria-corina-machado-presented-trump-her-nobel-peace-prize-medal-in-white-house-meeting/"
   },
   {
-    "score": 110,
+    "score": 107,
     "pubdate": "2026-01-15-20-51-00 +0000",
     "source": "wsj",
     "headline": "President Trump threatened to invoke the Insurrection Act, a 19th century law that could allow him to deploy the military inside the U.S., in response to protests in Minnesota",
     "link": "https://www.wsj.com/politics/policy/trump-minnesota-insurrection-act-98e11761"
   },
   {
-    "score": 94,
+    "score": 89,
     "pubdate": "2026-01-16-06-21-39 +0000",
     "source": "nypost",
     "headline": "Minneapolis fire department report reveals Renee Nicole Good was shot 4 times by ICE agent",
@@ -28,7 +28,7 @@
     "link": "https://www.washingtonpost.com/world/2026/01/16/trump-venezuela-iran-china/"
   },
   {
-    "score": 71,
+    "score": 66,
     "pubdate": "2026-01-15-19-20-00 +0000",
     "source": "wsj",
     "headline": "In an interview, the Philly Fed’s new president shows support for Fed Chair Jerome Powell and says rate cuts can wait",
@@ -40,13 +40,6 @@
     "source": "latimes",
     "headline": "Trump administration's demands for California's voter rolls, including Social Security numbers, rejected by federal judge",
     "link": "https://www.latimes.com/california/story/2026-01-15/judge-dismisses-doj-lawsuit-demanding-california-voter-rolls"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-01-16-11-46-13 +0000",
-    "source": "nypost",
-    "headline": "Hunter Biden’s baby mama calls for ex-first son to be arrested after failing to keep child support deal",
-    "link": "https://nypost.com/2026/01/16/us-news/hunter-biden-baby-mama-lunden-roberts-calls-for-ex-first-son-to-be-arrested-for-not-paying-child-support/"
   },
   {
     "score": 58,
@@ -63,7 +56,14 @@
     "link": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 56,
+    "pubdate": "2026-01-16-11-46-13 +0000",
+    "source": "nypost",
+    "headline": "Hunter Biden’s baby mama calls for ex-first son to be arrested after failing to keep child support deal",
+    "link": "https://nypost.com/2026/01/16/us-news/hunter-biden-baby-mama-lunden-roberts-calls-for-ex-first-son-to-be-arrested-for-not-paying-child-support/"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-01-16-09-05-33 +0000",
     "source": "nyt",
     "headline": "What Did the White House and Denmark Agree to on Greenland? It Depends Whom You Ask.",
