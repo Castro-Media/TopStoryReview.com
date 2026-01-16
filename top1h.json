@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 35,
+    "pubdate": "2026-01-16-00-48-47 +0000",
+    "source": "nyt",
+    "headline": "What Did the White House and Denmark Agree to on Greenland? Depends Whom You Ask.",
+    "link": "https://www.nytimes.com/2026/01/15/us/politics/white-house-greenland-meeting.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-01-16-01-08-49 +0000",
+    "source": "nyt",
+    "headline": "How Activists in Iran Are Using Starlink to Stay Online",
+    "link": "https://www.nytimes.com/2026/01/15/technology/iran-online-starlink.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-16-01-08-38 +0000",
+    "source": "nyt",
+    "headline": "Taiwan Strikes Trade Deal with Trump, Vows More U.S. Chip Factories",
+    "link": "https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-16-01-12-29 +0000",
+    "source": "nyt",
+    "headline": "Former Senator Kyrsten Sinema Accused of Affair With Member of Security Team",
+    "link": "https://www.nytimes.com/2026/01/15/us/politics/kyrsten-sinema-affair-lawsuit.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-16-00-22-20 +0000",
+    "source": "nypost",
+    "headline": "Twisted new details surface on Calif. ‘Party Mom’ accused of throwing wild booze- and sex-fueled teen parties",
+    "link": "https://nypost.com/2026/01/15/us-news/calif-party-mom-kept-vics-captive-there-was-no-escape/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-16-01-03-07 +0000",
+    "source": "nypost",
+    "headline": "Convicted killer charged with strangling another ‘Jane Doe’ to death inside NYC hotel in 1998: DA",
+    "link": "https://nypost.com/2026/01/15/us-news/convicted-killer-59-charged-with-strangling-another-jane-doe-woman-to-death-inside-nyc-hotel-in-1998-da/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-16-01-15-51 +0000",
+    "source": "nyt",
+    "headline": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
+    "link": "https://www.nytimes.com/2026/01/15/business/energy-environment/data-center-energy-electricity-costs.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-16-01-15-10 +0000",
+    "source": "nypost",
+    "headline": "Hochul pledged to save NYers a bundle of money on car insurance, but plan already facing pushback",
+    "link": "https://nypost.com/2026/01/15/us-news/hochul-pledged-to-save-nyers-a-bundle-of-money-on-car-insurance-but-plan-already-facing-pushback/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-16-01-13-17 +0000",
+    "source": "nyt",
+    "headline": "Venezuela’s Interim Leader Delivers State of the Union Address",
+    "link": "https://www.nytimes.com/2026/01/15/world/americas/venezuela-rodriguez-maduro-trump.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-16-00-55-52 +0000",
+    "source": "nypost",
+    "headline": "Moderate Dem picked to lead committee debating Mamdani’s changes to police mental health responses",
+    "link": "https://nypost.com/2026/01/15/us-news/moderate-dem-picked-to-lead-committee-debating-mamdanis-changes-to-police-mental-health-responses/"
+  }
+]
