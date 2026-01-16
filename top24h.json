@@ -1,6 +1,6 @@
 [
   {
-    "score": 211,
+    "score": 209,
     "pubdate": "2026-01-15-21-46-24 +0000",
     "source": "nypost",
     "headline": "Venezuelan opposition leader María Corina Machado presented Trump her Nobel Peace Prize medal in White House meeting",
@@ -28,7 +28,7 @@
     "link": "https://nypost.com/2026/01/15/us-news/sen-lindsey-graham-on-report-arabs-talked-trump-out-of-iran-strikes-beyond-disturbing/"
   },
   {
-    "score": 79,
+    "score": 77,
     "pubdate": "2026-01-15-19-20-00 +0000",
     "source": "wsj",
     "headline": "In an interview, the Philly Fed’s new president shows support for Fed Chair Jerome Powell and says rate cuts can wait",
@@ -49,13 +49,6 @@
     "link": "https://www.latimes.com/california/story/2026-01-15/judge-dismisses-doj-lawsuit-demanding-california-voter-rolls"
   },
   {
-    "score": 55,
-    "pubdate": "2026-01-16-00-48-47 +0000",
-    "source": "nyt",
-    "headline": "What Did the White House and Denmark Agree to on Greenland? Depends Whom You Ask.",
-    "link": "https://www.nytimes.com/2026/01/15/us/politics/white-house-greenland-meeting.html"
-  },
-  {
     "score": 54,
     "pubdate": "2026-01-15-18-07-00 +0000",
     "source": "wsj",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Ex-South Korean Leader Gets Prison Term in First Ruling Over Martial Law",
     "link": "https://www.nytimes.com/2026/01/16/world/asia/skorea-yoon-prison-martial-law.html"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-01-16-00-48-47 +0000",
+    "source": "nyt",
+    "headline": "What Did the White House and Denmark Agree to on Greenland? Depends Whom You Ask.",
+    "link": "https://www.nytimes.com/2026/01/15/us/politics/white-house-greenland-meeting.html"
   }
 ]
