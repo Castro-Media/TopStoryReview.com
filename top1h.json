@@ -1,72 +1,23 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-01-17-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "DOJ is investigating whether Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey conspired to impede federal immigration officers (edited)",
-    "link": "https://www.wsj.com/politics/policy/justice-department-investigating-minnesota-governor-and-minneapolis-mayor-b1f5f1b1"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-01-17-01-36-24 +0000",
-    "source": "nyt",
-    "headline": "Judge Recommends U.S. Issue Visa to Student Who Was Deported in Error",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-01-17-02-03-21 +0000",
-    "source": "nyt",
-    "headline": "Court Blocks Trump Administration From Freezing Food Stamps in Minnesota",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/court-food-stamps-minnesota.html"
-  },
-  {
-    "score": 16,
+    "score": 13,
     "pubdate": "2026-01-17-02-22-38 +0000",
     "source": "nypost",
     "headline": "LAPD is banned from using non-lethal weapons to control violent protests against ICE agents",
     "link": "https://nypost.com/2026/01/16/us-news/lapd-is-banned-from-using-non-lethal-weapons-to-control-violent-protests-against-ice-agents/"
   },
   {
-    "score": 14,
-    "pubdate": "2026-01-17-01-46-46 +0000",
+    "score": 7,
+    "pubdate": "2026-01-17-02-23-05 +0000",
+    "source": "wapo",
+    "headline": "Minneapolis judge bars DHS agents from arresting peaceful protesters",
+    "link": "https://www.washingtonpost.com/nation/2026/01/16/minneapolis-ice-protester-arrests-judge/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-17-02-22-13 +0000",
     "source": "nyt",
-    "headline": "Gabriel Barkay, 81, Dies; His Discoveries Revised Biblical History",
-    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/gabriel-barkay-dead.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-17-01-53-34 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court to Hear Challenge to Warrants for Phone Location Data",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/supreme-court-warrants-location-data.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-17-01-39-18 +0000",
-    "source": "nyt",
-    "headline": "Bobi Wine, Ugandan Opposition Leader, Was Abducted, His Party Says",
-    "link": "https://www.nytimes.com/2026/01/16/world/africa/uganda-bobi-wine-abduction.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-01-17-02-11-29 +0000",
-    "source": "cbc",
-    "headline": "Chinese EVs are coming to Canada. How soon will they be here? How much will they cost?",
-    "link": "https://www.cbc.ca/news/business/chinese-evs-canada-questions-answers-9.7048637?cmp=rss"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-01-17-02-09-52 +0000",
-    "source": "nypost",
-    "headline": "Outrage as LA Metro deploys social workers to fight rampant crime: ‘Holistic approach to public safety’",
-    "link": "https://nypost.com/2026/01/16/us-news/la-metro-unveils-care-based-safety-strategy/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-01-17-01-44-20 +0000",
-    "source": "bbc",
-    "headline": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
-    "link": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss"
+    "headline": "Rick Caruso Will Not Run for L.A. Mayor or California Governor in 2026",
+    "link": "https://www.nytimes.com/2026/01/16/us/rick-caruso-mayor-governor-california.html"
   }
 ]
