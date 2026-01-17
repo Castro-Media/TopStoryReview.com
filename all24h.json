@@ -1,27 +1,231 @@
 [
   {
+    "headline": "Minneapolis judge bars DHS agents from arresting peaceful protesters",
+    "link": "https://www.washingtonpost.com/nation/2026/01/16/minneapolis-ice-protester-arrests-judge/",
+    "source": "wapo",
+    "pubdate": "2026-01-17-02-23-05 +0000"
+  },
+  {
+    "headline": "LAPD is banned from using non-lethal weapons to control violent protests against ICE agents",
+    "link": "https://nypost.com/2026/01/16/us-news/lapd-is-banned-from-using-non-lethal-weapons-to-control-violent-protests-against-ice-agents/",
+    "source": "nypost",
+    "pubdate": "2026-01-17-02-22-38 +0000"
+  },
+  {
+    "headline": "Rick Caruso Will Not Run for L.A. Mayor or California Governor in 2026",
+    "link": "https://www.nytimes.com/2026/01/16/us/rick-caruso-mayor-governor-california.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-02-22-13 +0000"
+  },
+  {
+    "headline": "Twins agree with veteran catcher Victor Caratini on two-year contract",
+    "link": "https://www.startribune.com/twins-sign-veteran-catcher-victor-caratini-to-two-year-contract/601565686",
+    "source": "startribune",
+    "pubdate": "2026-01-17-02-16-19 +0000"
+  },
+  {
+    "headline": "Chinese EVs are coming to Canada. How soon will they be here? How much will they cost?",
+    "link": "https://www.cbc.ca/news/business/chinese-evs-canada-questions-answers-9.7048637?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-17-02-11-29 +0000"
+  },
+  {
+    "headline": "Some U.Va. Board Members Asked to Resign as Gov. Abigail Spanberger Takes Power",
+    "link": "https://www.nytimes.com/2026/01/16/us/uva-resignations-abigail-spanberger.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-02-11-26 +0000"
+  },
+  {
+    "headline": "Woman, 70, died after riding Revenge of the Mummy roller coaster at Universal Orlando",
+    "link": "https://nypost.com/2026/01/16/us-news/woman-70-died-after-riding-revenge-of-the-mummy-roller-coaster-at-universal-orlando/",
+    "source": "nypost",
+    "pubdate": "2026-01-17-02-11-13 +0000"
+  },
+  {
+    "headline": "Outrage as LA Metro deploys social workers to fight rampant crime: ‘Holistic approach to public safety’",
+    "link": "https://nypost.com/2026/01/16/us-news/la-metro-unveils-care-based-safety-strategy/",
+    "source": "nypost",
+    "pubdate": "2026-01-17-02-09-52 +0000"
+  },
+  {
+    "headline": "Court Blocks Trump Administration From Freezing Food Stamps in Minnesota",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/court-food-stamps-minnesota.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-02-03-21 +0000"
+  },
+  {
+    "headline": "Court Blocks Trump Administration From Freezing Food Stamps in Minnesota",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/court-food-stamps-minnesota.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-02-03-21 +0000"
+  },
+  {
+    "headline": "Delcy Rodríguez Goes From Pariah to the U.S. Pick to Lead Venezuela",
+    "link": "https://www.wsj.com/world/americas/venezuela-delcy-rodriguez-trump-leader-pick-86770dd0",
+    "source": "wsj",
+    "pubdate": "2026-01-17-02-00-00 +0000"
+  },
+  {
+    "headline": "How Trump Went From ‘Locked and Loaded’ to Hitting Pause on Striking Iran",
+    "link": "https://www.wsj.com/world/middle-east/trump-iran-decision-what-happened-0b645daa",
+    "source": "wsj",
+    "pubdate": "2026-01-17-02-00-00 +0000"
+  },
+  {
+    "headline": "Justice Department Investigating Minnesota Governor and Minneapolis Mayor",
+    "link": "https://www.wsj.com/politics/policy/justice-department-investigating-minnesota-governor-and-minneapolis-mayor-b1f5f1b1",
+    "source": "wsj",
+    "pubdate": "2026-01-17-02-00-00 +0000"
+  },
+  {
+    "headline": "Is Trump losing Joe Rogan?",
+    "link": "https://www.wsj.com/politics/elections/is-trump-losing-joe-rogan-americas-most-important-swing-voter-6d5d0f5e",
+    "source": "wsj",
+    "pubdate": "2026-01-17-02-00-00 +0000"
+  },
+  {
+    "headline": "DOJ is investigating whether Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey conspired to impede federal immigration officers (edited)",
+    "link": "https://www.wsj.com/politics/policy/justice-department-investigating-minnesota-governor-and-minneapolis-mayor-b1f5f1b1",
+    "source": "wsj",
+    "pubdate": "2026-01-17-02-00-00 +0000"
+  },
+  {
+    "headline": "Supreme Court to Hear Challenge to Warrants for Phone Location Data",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/supreme-court-warrants-location-data.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-53-34 +0000"
+  },
+  {
+    "headline": "Supreme Court to Hear Challenge to Warrants for Phone Location Data",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/supreme-court-warrants-location-data.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-53-34 +0000"
+  },
+  {
+    "headline": "Judge Restricts Immigration Agents’ Actions Toward Minnesota Protesters",
+    "link": "https://www.nytimes.com/2026/01/16/us/minnesota-ice-immigration-agents-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-50-35 +0000"
+  },
+  {
+    "headline": "Trump Administration Begins Criminal Inquiry Into Minnesota Leaders",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/tim-walz-jacob-frey-investigation-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-47-08 +0000"
+  },
+  {
+    "headline": "Trump Administration Begins Criminal Inquiry Into Minnesota Leaders",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/tim-walz-jacob-frey-investigation-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-47-08 +0000"
+  },
+  {
+    "headline": "Gabriel Barkay, 81, Dies; His Discoveries Revised Biblical History",
+    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/gabriel-barkay-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-46-46 +0000"
+  },
+  {
+    "headline": "Gabriel Barkay, 81, Dies; His Discoveries Revised Biblical History",
+    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/gabriel-barkay-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-46-46 +0000"
+  },
+  {
+    "headline": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+    "link": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-17-01-44-20 +0000"
+  },
+  {
+    "headline": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+    "link": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-17-01-44-20 +0000"
+  },
+  {
+    "headline": "Bobi Wine, Ugandan Opposition Leader, Was Abducted, His Party Says",
+    "link": "https://www.nytimes.com/2026/01/16/world/africa/uganda-bobi-wine-abduction.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-39-18 +0000"
+  },
+  {
+    "headline": "Bobi Wine, Ugandan Opposition Leader, Was Abducted, His Party Says",
+    "link": "https://www.nytimes.com/2026/01/16/world/africa/uganda-bobi-wine-abduction.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-39-18 +0000"
+  },
+  {
+    "headline": "Judge Recommends U.S. Issue Visa to Student Who Was Deported in Error",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-36-24 +0000"
+  },
+  {
+    "headline": "Judge Recommends U.S. Issue Visa to Student Who Was Deported in Error",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-36-24 +0000"
+  },
+  {
+    "headline": "Judge Recommends U.S. Issue Visa to Student Who Was Deported in Error",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-36-24 +0000"
+  },
+  {
+    "headline": "Agent Who Shot Renee Good in Minneapolis Was Trained to Track and Apprehend Fugitives",
+    "link": "https://www.nytimes.com/2026/01/16/us/ice-agent-minneapolis-jonathan-ross.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-35-24 +0000"
+  },
+  {
+    "headline": "Fired Thinking Machines Co-Founder Had Undisclosed Relationship With Colleague",
+    "link": "https://www.wsj.com/tech/ai/fired-thinking-machines-co-founder-had-undisclosed-relationship-with-colleague-4722cbeb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-17-01-31-00 +0000"
+  },
+  {
+    "headline": "San Francisco legislator ignores crime, asks for state investigation into trees",
+    "link": "https://nypost.com/2026/01/16/us-news/sf-lawmaker-asks-ag-to-probe-lack-of-trees-amid-city-crises/",
+    "source": "nypost",
+    "pubdate": "2026-01-17-01-27-24 +0000"
+  },
+  {
+    "headline": "NYC’s ‘Burberry Bandit’ back behind bars on fresh bank robbery charges",
+    "link": "https://nypost.com/2026/01/16/us-news/nycs-burberry-bandit-back-behind-bars-on-fresh-bank-robbery-charges/",
+    "source": "nypost",
+    "pubdate": "2026-01-17-01-25-52 +0000"
+  },
+  {
+    "headline": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
+    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-25-41 +0000"
+  },
+  {
+    "headline": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
+    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
+    "source": "nyt",
+    "pubdate": "2026-01-17-01-25-41 +0000"
+  },
+  {
     "headline": "Trump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner",
     "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-gaza-board-peace-kushner.html",
     "source": "nyt",
     "pubdate": "2026-01-17-01-17-25 +0000"
   },
   {
-    "headline": "US justice department investigates Minnesota Democrats over alleged obstruction of ICE",
-    "link": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-17-01-10-14 +0000"
-  },
-  {
-    "headline": "US justice department investigates Minnesota Democrats over alleged obstruction of ICE",
-    "link": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-17-01-10-14 +0000"
-  },
-  {
     "headline": "Trump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner",
     "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-gaza-board-peace-kushner.html",
     "source": "nyt",
-    "pubdate": "2026-01-17-01-06-17 +0000"
+    "pubdate": "2026-01-17-01-17-25 +0000"
+  },
+  {
+    "headline": "Billionaire developer Rick Caruso will not run for L.A. mayor or California governor",
+    "link": "https://www.latimes.com/california/story/2026-01-16/billionaire-developer-rick-caruso-will-not-run-for-la-mayor-or-california-governor",
+    "source": "latimes",
+    "pubdate": "2026-01-17-01-08-21 +0000"
   },
   {
     "headline": "Rick Caruso will not run for Calif. gov. or LA mayor: ‘extremely toxic time in politics’",
@@ -36,7 +240,7 @@
     "pubdate": "2026-01-17-01-02-55 +0000"
   },
   {
-    "headline": "U.S. Justice Department probing Minnesota's Walz, Frey over immigration comments",
+    "headline": "U.S. Justice Department probing Minnesota Gov. Tim Walz, Minneapolis Mayor Jacob Frey over ICE raid comments",
     "link": "https://www.cbc.ca/news/world/tim-walz-jacob-frey-investigation-doj-9.7049625?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-17-00-59-04 +0000"
@@ -76,12 +280,6 @@
     "link": "https://www.wsj.com/us-news/911-logs-capture-chaos-and-fear-after-ice-shooting-of-renee-nicole-good-d7224a9c",
     "source": "wsj",
     "pubdate": "2026-01-17-00-33-00 +0000"
-  },
-  {
-    "headline": "Some U.Va. Board Members Asked to Resign as Gov. Abigail Spanberger Takes Power",
-    "link": "https://www.nytimes.com/2026/01/16/us/uva-resignations-abigail-spanberger.html",
-    "source": "nyt",
-    "pubdate": "2026-01-17-00-30-24 +0000"
   },
   {
     "headline": "AI Attack Ad in Texas Senate Race Shows John Cornyn Dancing With Jasmine Crockett",
@@ -130,18 +328,6 @@
     "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
     "source": "startribune",
     "pubdate": "2026-01-17-00-22-25 +0000"
-  },
-  {
-    "headline": "Gabriel Barkay, 81, Dies; His Discoveries Revised Biblical History",
-    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/gabriel-barkay-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-17-00-21-53 +0000"
-  },
-  {
-    "headline": "Gabriel Barkay, 81, Dies; His Discoveries Revised Biblical History",
-    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/gabriel-barkay-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-01-17-00-21-53 +0000"
   },
   {
     "headline": "Trump Sets Fraudster Free From Prison for a Second Time",
@@ -294,24 +480,6 @@
     "pubdate": "2026-01-16-23-48-11 +0000"
   },
   {
-    "headline": "Judge Recommends U.S. Issue Visa to Student Who Was Deported in Error",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-23-47-58 +0000"
-  },
-  {
-    "headline": "Judge Recommends U.S. Issue Visa to Student Who Was Deported in Error",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-23-47-58 +0000"
-  },
-  {
-    "headline": "Judge Recommends U.S. Issue Visa to Student Who Was Deported in Error",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-immigration-student-deported-thanksgiving.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-23-47-58 +0000"
-  },
-  {
     "headline": "Your Tax Refund Could Be Taken if You’ve Defaulted on Student Loans: What to Know",
     "link": "https://www.nytimes.com/2026/01/16/your-money/tax-refunds-student-loans-default.html",
     "source": "nyt",
@@ -388,24 +556,6 @@
     "link": "https://www.washingtonpost.com/world/2026/01/16/uganda-election-bobi-wine-abducted-museveni/",
     "source": "wapo",
     "pubdate": "2026-01-16-23-24-56 +0000"
-  },
-  {
-    "headline": "Twins agree with veteran catcher Victor Caratini on two-year contract",
-    "link": "https://www.startribune.com/twins-sign-veteran-catcher-victor-caratini-to-two-year-contract/601565686",
-    "source": "startribune",
-    "pubdate": "2026-01-16-23-24-37 +0000"
-  },
-  {
-    "headline": "Bobi Wine, Ugandan Opposition Leader, Was Abducted, His Party Says",
-    "link": "https://www.nytimes.com/2026/01/16/world/africa/uganda-bobi-wine-abduction.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-23-21-22 +0000"
-  },
-  {
-    "headline": "Bobi Wine, Ugandan Opposition Leader, Was Abducted, His Party Says",
-    "link": "https://www.nytimes.com/2026/01/16/world/africa/uganda-bobi-wine-abduction.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-23-21-22 +0000"
   },
   {
     "headline": "Blair and Rubio among names on Gaza 'Board of Peace'",
@@ -486,18 +636,6 @@
     "pubdate": "2026-01-16-22-59-26 +0000"
   },
   {
-    "headline": "Supreme Court to Hear Challenge to Warrants for Phone Location Data",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/supreme-court-warrants-location-data.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-22-57-56 +0000"
-  },
-  {
-    "headline": "Supreme Court to Hear Challenge to Warrants for Phone Location Data",
-    "link": "https://www.nytimes.com/2026/01/16/us/politics/supreme-court-warrants-location-data.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-22-57-56 +0000"
-  },
-  {
     "headline": "Publishers panic that Hudson News could stop carrying their mags",
     "link": "https://nypost.com/2026/01/16/media/publishers-panic-that-hudson-news-could-stop-carrying-their-mags-asteroid-killing-off-the-dinosaurs/",
     "source": "nypost",
@@ -510,22 +648,10 @@
     "pubdate": "2026-01-16-22-48-00 +0000"
   },
   {
-    "headline": "Radical NYC tenant aide Cea Weaver all smiles with Zohran Mamdani as mayor celebrates $2.1M settlement against landlord",
-    "link": "https://nypost.com/2026/01/16/us-news/tenant-aide-cea-weaver-all-smiles-with-zohran-mamdani-at-nyc-event/",
-    "source": "nypost",
-    "pubdate": "2026-01-16-22-46-10 +0000"
-  },
-  {
     "headline": "Accused Charlie Kirk Shooter Wants Judge to Disqualify Prosecutors",
     "link": "https://www.wsj.com/us-news/charlie-kirk-shooting-tyler-robinson-prosecutors-a0afff16",
     "source": "wsj",
     "pubdate": "2026-01-16-22-45-00 +0000"
-  },
-  {
-    "headline": "‘Teen Mom’ alum Farrah Abraham ditches Austin mayoral run hours after entering, eyes City Council instead: ‘Very serious about this’",
-    "link": "https://nypost.com/2026/01/16/us-news/teen-mom-alum-farrah-abraham-ends-austin-mayoral-run-eyes-city-council-instead/",
-    "source": "nypost",
-    "pubdate": "2026-01-16-22-43-15 +0000"
   },
   {
     "headline": "Opinion | Can Hawaii Ban Guns by Default?",
@@ -606,12 +732,6 @@
     "pubdate": "2026-01-16-22-27-23 +0000"
   },
   {
-    "headline": "White House identifies obscure bureaucrat as leader of interim Gaza government",
-    "link": "https://nypost.com/2026/01/16/us-news/white-house-identifies-obscure-bureaucrat-ali-shaath-as-leader-of-interim-gaza-government/",
-    "source": "nypost",
-    "pubdate": "2026-01-16-22-27-23 +0000"
-  },
-  {
     "headline": "U.S. Officials Concerned Syria, Backed by Turkey, Will Expand Operation Against Kurds",
     "link": "https://www.wsj.com/world/middle-east/u-s-officials-concerned-syria-backed-by-turkey-will-expand-operation-against-the-kurds-0c71c53d",
     "source": "wsj",
@@ -640,12 +760,6 @@
     "link": "https://www.nytimes.com/2026/01/14/style/saks-neiman-marcus-bergdorf-goodman-bankruptcy.html",
     "source": "nyt",
     "pubdate": "2026-01-16-22-23-56 +0000"
-  },
-  {
-    "headline": "Bruce Blakeman faces uphill battle in NY governor race as Hochul boasts $32M Dem war chest",
-    "link": "https://nypost.com/2026/01/16/us-news/bruce-blakeman-faces-uphill-battle-in-ny-governor-race-as-hochul-boasts-32m-dem-war-chest/",
-    "source": "nypost",
-    "pubdate": "2026-01-16-22-22-37 +0000"
   },
   {
     "headline": "Iran’s crown prince urges Trump to strike now to prevent more bloodshed",
@@ -706,12 +820,6 @@
     "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-5ba98411?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-16-21-57-00 +0000"
-  },
-  {
-    "headline": "Ex-Nickelodeon child star Kianna Underwood ID’d as woman killed, dragged down block in NYC hit-and-run: sources",
-    "link": "https://nypost.com/2026/01/16/us-news/woman-killed-dragged-down-block-in-nyc-hit-and-run-idd-as-former-nickelodeon-child-star-kianna-underwood-sources/",
-    "source": "nypost",
-    "pubdate": "2026-01-16-21-54-48 +0000"
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
@@ -900,7 +1008,7 @@
     "pubdate": "2026-01-16-20-46-00 +0000"
   },
   {
-    "headline": "ICE agent believed responsible for L.A. killing accused of child abuse, racism in court filings",
+    "headline": "ICE agent who killed L.A. man accused of child abuse, racism in court filings",
     "link": "https://www.latimes.com/california/story/2026-01-16/ice-agent-los-angeles-shooting-court-records",
     "source": "latimes",
     "pubdate": "2026-01-16-20-43-34 +0000"
@@ -1287,7 +1395,7 @@
     "headline": "Stock Investors’ Strategy for 2026: ‘Don’t Fight the White House’",
     "link": "https://www.nytimes.com/2026/01/16/business/stock-market-trump-policy.html",
     "source": "nyt",
-    "pubdate": "2026-01-16-18-24-13 +0000"
+    "pubdate": "2026-01-16-18-24-14 +0000"
   },
   {
     "headline": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
@@ -1308,12 +1416,6 @@
     "pubdate": "2026-01-16-18-16-58 +0000"
   },
   {
-    "headline": "Trump Administration Lawsuit Seeking California Voter Data Is Dismissed",
-    "link": "https://www.nytimes.com/2026/01/15/us/california-voter-roll-lawsuit-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-18-14-25 +0000"
-  },
-  {
     "headline": "Almost half of eligible councils request elections delay",
     "link": "https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1330,24 +1432,6 @@
     "link": "https://www.wsj.com/us-news/law/trump-insurrection-act-minnesota-protests-f0bd4e93",
     "source": "wsj",
     "pubdate": "2026-01-16-18-00-00 +0000"
-  },
-  {
-    "headline": "Trump Is Threatening to Invoke the Insurrection Act in Minnesota: What to Know",
-    "link": "https://www.wsj.com/us-news/law/trump-insurrection-act-minnesota-protests-f0bd4e93",
-    "source": "wsj",
-    "pubdate": "2026-01-16-18-00-00 +0000"
-  },
-  {
-    "headline": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
-    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-17-51-55 +0000"
-  },
-  {
-    "headline": "Iran Protests Quelled Since Deadly Crackdown, Residents Say",
-    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-deadly-crackdown.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-17-51-55 +0000"
   },
   {
     "headline": "Man accused of murdering woman and toddler in Munich car attack goes on trial",
@@ -1372,12 +1456,6 @@
     "link": "https://www.nytimes.com/2026/01/16/arts/dance/martha-graham-dance-company-kennedy-center.html",
     "source": "nyt",
     "pubdate": "2026-01-16-17-45-10 +0000"
-  },
-  {
-    "headline": "Agent Who Shot Renee Good in Minneapolis Was Trained to Track and Apprehend Fugitives",
-    "link": "https://www.nytimes.com/2026/01/16/us/ice-agent-minneapolis-jonathan-ross.html",
-    "source": "nyt",
-    "pubdate": "2026-01-16-17-40-16 +0000"
   },
   {
     "headline": "Trump Praises Hassett, but Casts Doubt on Making Him Fed Chair",
@@ -1500,14 +1578,14 @@
     "pubdate": "2026-01-16-17-00-20 +0000"
   },
   {
-    "headline": "Why Greenland Matters to U.S. Defense, in 7 Maps",
-    "link": "https://www.wsj.com/world/europe/greenland-national-defense-maps-6f53c339",
+    "headline": "How Many People Were Killed in Iran’s Crackdown?",
+    "link": "https://www.wsj.com/world/middle-east/how-many-people-were-killed-in-irans-crackdown-93bb184a",
     "source": "wsj",
     "pubdate": "2026-01-16-17-00-00 +0000"
   },
   {
-    "headline": "How Many People Were Killed in Iran’s Crackdown?",
-    "link": "https://www.wsj.com/world/middle-east/how-many-people-were-killed-in-irans-crackdown-93bb184a",
+    "headline": "Why Greenland Matters to U.S. Defense, in 7 Maps",
+    "link": "https://www.wsj.com/world/europe/greenland-national-defense-maps-6f53c339",
     "source": "wsj",
     "pubdate": "2026-01-16-17-00-00 +0000"
   },
@@ -1630,12 +1708,6 @@
     "link": "https://www.bbc.com/sport/football/articles/cevn22grxgzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-16-15-55-06 +0000"
-  },
-  {
-    "headline": "Reviews of memoirs by John Fetterman and Joe Manchin, along with “The Game Changer,” a biography of Harry Reid.",
-    "link": "https://www.wsj.com/arts-culture/books/all-around-the-upper-house-three-senatorial-lives-27bce8d7",
-    "source": "wsj",
-    "pubdate": "2026-01-16-15-54-00 +0000"
   },
   {
     "headline": "Verizon outage sparks calls for mandatory refunds as customers slam ‘pathetic’ $20 credit",
@@ -2232,14 +2304,14 @@
     "pubdate": "2026-01-16-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Uber is trying to snow voters with a supposedly pro-consumer ballot initiative. Don't buy it",
-    "link": "https://www.latimes.com/business/story/2026-01-16/uber-tries-to-snow-voters-with-supposedly-pro-consumer-ballot-initiative",
+    "headline": "Why is L.A.'s salad titan, Sweetgreen, wilting?",
+    "link": "https://www.latimes.com/business/story/2026-01-16/why-is-los-angeles-salad-company-sweetgreen-wilting",
     "source": "latimes",
     "pubdate": "2026-01-16-11-00-00 +0000"
   },
   {
-    "headline": "Why is L.A.'s salad titan, Sweetgreen, wilting?",
-    "link": "https://www.latimes.com/business/story/2026-01-16/why-is-los-angeles-salad-company-sweetgreen-wilting",
+    "headline": "Hiltzik: Uber is trying to snow voters with a supposedly pro-consumer ballot initiative. Don't buy it",
+    "link": "https://www.latimes.com/business/story/2026-01-16/uber-tries-to-snow-voters-with-supposedly-pro-consumer-ballot-initiative",
     "source": "latimes",
     "pubdate": "2026-01-16-11-00-00 +0000"
   },
@@ -2464,12 +2536,6 @@
     "link": "https://www.bbc.com/news/articles/cdx40dxdlrqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-16-09-37-13 +0000"
-  },
-  {
-    "headline": "Stock Market News, Jan. 16, 2026: Trump Suggests Hassett Might Not Be Named Fed Chair",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-16-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-16-09-05-52 +0000"
   },
   {
     "headline": "What Did the White House and Denmark Agree to on Greenland? It Depends Whom You Ask.",
@@ -2722,35 +2788,5 @@
     "link": "https://www.bbc.com/news/articles/cdex34930r4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-16-02-32-14 +0000"
-  },
-  {
-    "headline": "Chris Mason: Is Farage's Reform really Conservatives 2.0?",
-    "link": "https://www.bbc.com/news/articles/c20d9dlypnzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-16-02-19-35 +0000"
-  },
-  {
-    "headline": "Chris Mason: Is Farage's Reform really Conservatives 2.0?",
-    "link": "https://www.bbc.com/news/articles/c20d9dlypnzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-16-02-19-35 +0000"
-  },
-  {
-    "headline": "The criminal investigation into Federal Reserve Chair Jerome Powell threatens to upend the contest over whom President Trump will choose to succeed him",
-    "link": "https://www.wsj.com/economy/central-banking/trump-fed-chair-nominee-search-powell-bb5dba1d",
-    "source": "wsj",
-    "pubdate": "2026-01-16-02-00-00 +0000"
-  },
-  {
-    "headline": "Star Wars boss departs after leading franchise reboot",
-    "link": "https://www.bbc.com/news/articles/ce9y3y292l5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-16-01-52-39 +0000"
-  },
-  {
-    "headline": "Trump threatens to invoke Insurrection Act to quell anti-ICE protests in Minnesota",
-    "link": "https://www.bbc.com/news/articles/cwy15596p98o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-16-01-32-41 +0000"
   }
 ]
