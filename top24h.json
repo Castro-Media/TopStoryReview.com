@@ -21,7 +21,7 @@
     "link": "https://www.cbc.ca/news/world/tim-walz-jacob-frey-investigation-doj-9.7049625?cmp=rss"
   },
   {
-    "score": 81,
+    "score": 79,
     "pubdate": "2026-01-16-20-48-00 +0000",
     "source": "wsj",
     "headline": "President Trump will issue a plan next week for letting Americans tap their 401(k)s for a down payment on a home, a senior White House official said Friday",
@@ -42,7 +42,7 @@
     "link": "https://www.bbc.com/news/articles/c8x95nk72k2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
+    "score": 58,
     "pubdate": "2026-01-16-23-27-18 +0000",
     "source": "nypost",
     "headline": "Supreme Court to hear Bayer’s appeal to block thousands of Roundup weedkiller lawsuits",
@@ -57,16 +57,16 @@
   },
   {
     "score": 51,
-    "pubdate": "2026-01-16-21-27-56 +0000",
-    "source": "bbc",
-    "headline": "Trump threatens new tariffs on countries opposed to Greenland takeover",
-    "link": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
     "pubdate": "2026-01-16-23-36-06 +0000",
     "source": "latimes",
     "headline": "Edison sues L.A. County and other agencies, saying they share blame for Eaton fire deaths, destruction",
     "link": "https://www.latimes.com/business/story/2026-01-16/edison-sues-la-county-other-agencies-saying-they-share-blame-for-eaton-fire-deaths-destruction"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-01-16-21-27-56 +0000",
+    "source": "bbc",
+    "headline": "Trump threatens new tariffs on countries opposed to Greenland takeover",
+    "link": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss"
   }
 ]
