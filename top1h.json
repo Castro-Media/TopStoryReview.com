@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-01-17-18-53-53 +0000",
+    "score": 38,
+    "pubdate": "2026-01-17-20-43-43 +0000",
+    "source": "nyt",
+    "headline": "Trump Announces New Tariffs on Some European Countries in Greenland Standoff",
+    "link": "https://www.nytimes.com/2026/01/17/us/politics/trump-eu-tariffs-greenland.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-17-20-39-04 +0000",
+    "source": "nyt",
+    "headline": "Syria Advance on Kurdish-Held Areas as Washington Urges Restraint",
+    "link": "https://www.nytimes.com/2026/01/17/world/europe/syrian-kurds-raqqa.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-17-20-19-00 +0000",
     "source": "nypost",
-    "headline": "Major Northeastern cities expected to get up to 4 inches of snow through the weekend",
-    "link": "https://nypost.com/2026/01/17/us-news/northeastern-cities-expected-to-get-snow-through-the-weekend/"
+    "headline": "Lefty protesters allegedly stab Jan. 6 rioter, GOP candidate who shouted ‘we deserve a future for white Americans’",
+    "link": "https://nypost.com/2026/01/17/us-news/minneapolis-protesters-attack-jake-lang-as-he-shouts-we-deserve-a-future-for-white-americans/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-17-20-20-55 +0000",
+    "source": "nyt",
+    "headline": "World Leaders Consider Joining Trump’s ‘Board of Peace’ for Gaza",
+    "link": "https://www.nytimes.com/2026/01/17/world/middleeast/trump-gaza-israel-board-peace.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-17-20-51-17 +0000",
+    "source": "nypost",
+    "headline": "Angry Michigan stage mom jailed after false bomb threats to high school after daughter barred from class play",
+    "link": "https://nypost.com/2026/01/17/us-news/angry-michigan-stage-mom-jailed-after-false-bomb-threats-to-high-school-after-daughter-barred-from-class-play/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-17-20-23-33 +0000",
+    "source": "nypost",
+    "headline": "Tehran’s security forces may have used lethal chemical weapons on Iranian protestors: report",
+    "link": "https://nypost.com/2026/01/17/world-news/tehrans-security-forces-may-have-used-lethal-chemical-weapons-on-iranian-protestors-report/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-17-20-19-07 +0000",
+    "source": "nyt",
+    "headline": "Shooting at Historic New Orleans Restaurant Leaves One Dead, Several Wounded",
+    "link": "https://www.nytimes.com/2026/01/17/us/shooting-at-historic-new-orleans-restaurant-leaves-one-dead-several-wounded.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-17-20-27-19 +0000",
+    "source": "bbc",
+    "headline": "US judge restricts ICE response to Minneapolis protesters",
+    "link": "https://www.bbc.com/news/articles/cvgprwlplqwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-17-20-35-45 +0000",
+    "source": "nypost",
+    "headline": "International Olympic Committee rejects requests to ban US from Winter Games over Venezuela strike",
+    "link": "https://nypost.com/2026/01/17/world-news/ioc-rejects-requests-to-ban-the-us-from-winter-olympics-over-venezuela-strike/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-17-20-31-54 +0000",
+    "source": "startribune",
+    "headline": "Takeaways: Mats’ Zuccarello’s overtime goal lifts Wild to 5-4 victory over Sabres",
+    "link": "https://www.startribune.com/takeaways-mats-zuccarellos-overtime-goal-lifts-wild-to-5-4-victory-over-sabres/601549951"
   }
 ]
