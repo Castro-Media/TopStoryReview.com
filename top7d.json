@@ -22,10 +22,17 @@
   },
   {
     "score": 154,
-    "pubdate": "2026-01-16-13-28-40 +0000",
-    "source": "bbc",
-    "headline": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
-    "link": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-01-16-12-48-22 +0000",
+    "source": "nypost",
+    "headline": "Venezuelan opposition leader María Corina Machado reveals why she gave Trump her Nobel Peace Prize medal",
+    "link": "https://nypost.com/2026/01/16/us-news/venezuelan-opposition-leader-maria-corina-machado-reveals-why-she-gave-trump-her-nobel-peace-prize-medal/"
+  },
+  {
+    "score": 150,
+    "pubdate": "2026-01-15-19-20-00 +0000",
+    "source": "wsj",
+    "headline": "In an interview, the Philly Fed’s new president shows support for Fed Chair Jerome Powell and says rate cuts can wait",
+    "link": "https://www.wsj.com/economy/central-banking/anna-paulson-fed-chair-powell-81971b11"
   },
   {
     "score": 136,
@@ -42,20 +49,6 @@
     "link": "https://www.wsj.com/economy/trade/china-marks-record-1-2-trillion-trade-surplus-in-2025-despite-u-s-tariffs-2dddf4e3"
   },
   {
-    "score": 109,
-    "pubdate": "2026-01-16-12-48-22 +0000",
-    "source": "nypost",
-    "headline": "Venezuelan opposition leader María Corina Machado reveals why she gave Trump her Nobel Peace Prize medal",
-    "link": "https://nypost.com/2026/01/16/us-news/venezuelan-opposition-leader-maria-corina-machado-reveals-why-she-gave-trump-her-nobel-peace-prize-medal/"
-  },
-  {
-    "score": 100,
-    "pubdate": "2026-01-15-19-20-00 +0000",
-    "source": "wsj",
-    "headline": "In an interview, the Philly Fed’s new president shows support for Fed Chair Jerome Powell and says rate cuts can wait",
-    "link": "https://www.wsj.com/economy/central-banking/anna-paulson-fed-chair-powell-81971b11"
-  },
-  {
     "score": 94,
     "pubdate": "2026-01-14-22-56-00 +0000",
     "source": "wsj",
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "DOJ is investigating whether Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey conspired to impede federal immigration officers (edited)",
     "link": "https://www.wsj.com/politics/policy/justice-department-investigating-minnesota-governor-and-minneapolis-mayor-b1f5f1b1"
+  },
+  {
+    "score": 92,
+    "pubdate": "2026-01-16-21-15-56 +0000",
+    "source": "nypost",
+    "headline": "Supreme Court delay may signal Trump win in high-stakes tariff fight, experts say",
+    "link": "https://nypost.com/2026/01/16/business/supreme-court-delay-may-bode-trump-win-in-high-stakes-tariff-fight-experts-say/"
   }
 ]

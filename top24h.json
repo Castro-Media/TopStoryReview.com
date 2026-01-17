@@ -1,38 +1,31 @@
 [
   {
-    "score": 201,
+    "score": 199,
     "pubdate": "2026-01-16-12-48-22 +0000",
     "source": "nypost",
     "headline": "Venezuelan opposition leader María Corina Machado reveals why she gave Trump her Nobel Peace Prize medal",
     "link": "https://nypost.com/2026/01/16/us-news/venezuelan-opposition-leader-maria-corina-machado-reveals-why-she-gave-trump-her-nobel-peace-prize-medal/"
   },
   {
-    "score": 99,
+    "score": 98,
     "pubdate": "2026-01-17-00-59-04 +0000",
     "source": "cbc",
     "headline": "U.S. Justice Department probing Minnesota Gov. Tim Walz, Minneapolis Mayor Jacob Frey over ICE raid comments",
     "link": "https://www.cbc.ca/news/world/tim-walz-jacob-frey-investigation-doj-9.7049625?cmp=rss"
   },
   {
-    "score": 86,
+    "score": 84,
     "pubdate": "2026-01-16-13-11-24 +0000",
     "source": "bbc",
     "headline": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
     "link": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 84,
+    "score": 82,
     "pubdate": "2026-01-16-20-48-00 +0000",
     "source": "wsj",
     "headline": "President Trump will issue a plan next week for letting Americans tap their 401(k)s for a down payment on a home, a senior White House official said Friday",
     "link": "https://www.wsj.com/politics/policy/trump-plan-would-let-americans-use-401-k-s-for-down-payments-on-homes-official-says-64eb4375"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-01-16-11-42-07 +0000",
-    "source": "bbc",
-    "headline": "US accuses South Africa military of 'cosying up to Iran'",
-    "link": "https://www.bbc.com/news/articles/c8x95nk72k2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 69,
@@ -42,18 +35,11 @@
     "link": "https://nypost.com/2026/01/16/business/supreme-court-to-hear-bayers-appeal-to-block-thousands-of-roundup-weedkiller-lawsuits/"
   },
   {
-    "score": 56,
-    "pubdate": "2026-01-16-03-30-40 +0000",
-    "source": "latimes",
-    "headline": "Trump administration's demands for California's voter rolls, including Social Security numbers, rejected by federal judge",
-    "link": "https://www.latimes.com/california/story/2026-01-15/judge-dismisses-doj-lawsuit-demanding-california-voter-rolls"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-01-16-23-08-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump signaled that he might keep National Economic Council Director Kevin Hassett, a top contender for Federal Reserve chair, in his current job",
-    "link": "https://www.wsj.com/economy/central-banking/trump-to-fed-chair-contender-hassett-i-want-to-keep-you-where-you-are-f86c8c34"
+    "score": 68,
+    "pubdate": "2026-01-16-11-42-07 +0000",
+    "source": "bbc",
+    "headline": "US accuses South Africa military of 'cosying up to Iran'",
+    "link": "https://www.bbc.com/news/articles/c8x95nk72k2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 54,
@@ -64,6 +50,20 @@
   },
   {
     "score": 53,
+    "pubdate": "2026-01-16-23-08-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump signaled that he might keep National Economic Council Director Kevin Hassett, a top contender for Federal Reserve chair, in his current job",
+    "link": "https://www.wsj.com/economy/central-banking/trump-to-fed-chair-contender-hassett-i-want-to-keep-you-where-you-are-f86c8c34"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-01-16-03-30-40 +0000",
+    "source": "latimes",
+    "headline": "Trump administration's demands for California's voter rolls, including Social Security numbers, rejected by federal judge",
+    "link": "https://www.latimes.com/california/story/2026-01-15/judge-dismisses-doj-lawsuit-demanding-california-voter-rolls"
+  },
+  {
+    "score": 51,
     "pubdate": "2026-01-16-23-36-06 +0000",
     "source": "latimes",
     "headline": "Edison sues L.A. County and other agencies, saying they share blame for Eaton fire deaths, destruction",
