@@ -1,17 +1,10 @@
 [
   {
-    "score": 144,
+    "score": 132,
     "pubdate": "2026-01-17-23-25-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would impose 10% tariffs on imports from several European countries starting next month in an effort to pressure Denmark to sell Greenland to the U.S.",
     "link": "https://www.wsj.com/politics/policy/trump-to-hit-european-nations-with-tariffs-until-deal-reached-to-buy-greenland-d92d2b6f"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-01-17-20-20-55 +0000",
-    "source": "nyt",
-    "headline": "World Leaders Consider Joining Trump’s ‘Board of Peace’ for Gaza",
-    "link": "https://www.nytimes.com/2026/01/17/world/middleeast/trump-gaza-israel-board-peace.html"
   },
   {
     "score": 49,
@@ -29,17 +22,17 @@
   },
   {
     "score": 45,
+    "pubdate": "2026-01-17-20-20-55 +0000",
+    "source": "nyt",
+    "headline": "World Leaders Consider Joining Trump’s ‘Board of Peace’ for Gaza",
+    "link": "https://www.nytimes.com/2026/01/17/world/middleeast/trump-gaza-israel-board-peace.html"
+  },
+  {
+    "score": 45,
     "pubdate": "2026-01-17-18-31-56 +0000",
     "source": "nypost",
     "headline": "Venezuelan interior minister — a Nicolas Maduro loyalist — was in talks with US months before raid: report",
     "link": "https://nypost.com/2026/01/17/world-news/venezuelan-interior-minister-nicolas-maduro-loyalist-were-in-talks-with-us-months-before-raid-report/"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-01-17-20-14-57 +0000",
-    "source": "bbc",
-    "headline": "Iran supreme leader acknowledges thousands killed during recent protests",
-    "link": "https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 34,
@@ -49,11 +42,11 @@
     "link": "https://www.nytimes.com/2026/01/18/world/europe/austria-alps-avalanches.html"
   },
   {
-    "score": 33,
-    "pubdate": "2026-01-18-01-00-48 +0000",
-    "source": "nyt",
-    "headline": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
-    "link": "https://www.nytimes.com/2026/01/17/business/media/cbs-news-trump-interview.html"
+    "score": 34,
+    "pubdate": "2026-01-17-20-14-57 +0000",
+    "source": "bbc",
+    "headline": "Iran supreme leader acknowledges thousands killed during recent protests",
+    "link": "https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 32,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "A deadly fire swept through a nightclub in just 90 seconds. I got out",
     "link": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-01-18-01-00-48 +0000",
+    "source": "nyt",
+    "headline": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
+    "link": "https://www.nytimes.com/2026/01/17/business/media/cbs-news-trump-interview.html"
   }
 ]
