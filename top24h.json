@@ -1,13 +1,13 @@
 [
   {
-    "score": 154,
-    "pubdate": "2026-01-17-23-25-00 +0000",
+    "score": 168,
+    "pubdate": "2026-01-18-20-01-00 +0000",
     "source": "wsj",
-    "headline": "President Trump said he would impose 10% tariffs on imports from several European countries starting next month in an effort to pressure Denmark to sell Greenland to the U.S.",
-    "link": "https://www.wsj.com/politics/policy/trump-to-hit-european-nations-with-tariffs-until-deal-reached-to-buy-greenland-d92d2b6f"
+    "headline": "President Trump’s threatened 10% tariffs on several European allies in an effort to pressure Denmark into selling Greenland to the U.S. would likely hit a range of luxury and specialty goods.",
+    "link": "https://www.wsj.com/economy/trade/the-european-goods-set-to-get-hit-with-trumps-latest-tariffs-e4ca7262"
   },
   {
-    "score": 70,
+    "score": 69,
     "pubdate": "2026-01-18-17-50-47 +0000",
     "source": "nypost",
     "headline": "Minneapolis Mayor Jacob Frey rips ICE’s immigration crackdown during blistering CNN interview: ‘Invaded by our own federal government’",
@@ -22,6 +22,20 @@
   },
   {
     "score": 39,
+    "pubdate": "2026-01-18-20-29-08 +0000",
+    "source": "bbc",
+    "headline": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+    "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-01-18-21-42-16 +0000",
+    "source": "nyt",
+    "headline": "Noem Denies Use of Chemical Agents in Minnesota Protests, Then Backtracks",
+    "link": "https://www.nytimes.com/2026/01/18/us/politics/noem-chemical-agents-minnesota.html"
+  },
+  {
+    "score": 36,
     "pubdate": "2026-01-18-17-30-24 +0000",
     "source": "bbc",
     "headline": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
@@ -29,17 +43,17 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-01-18-20-29-08 +0000",
-    "source": "bbc",
-    "headline": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-    "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 35,
     "pubdate": "2026-01-18-00-08-10 +0000",
     "source": "bbc",
     "headline": "A deadly fire swept through a nightclub in just 90 seconds. I got out",
     "link": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-01-18-19-05-03 +0000",
+    "source": "nypost",
+    "headline": "IG probe uncovers Labor Secretary Lori Chavez-DeRemer’s office booze ‘stash’ — and strip club visit with subordinates",
+    "link": "https://nypost.com/2026/01/18/us-news/ig-probe-uncovers-labor-secretary-lori-chavez-deremer-visited-a-strip-club-with-subordinates/"
   },
   {
     "score": 34,
@@ -54,19 +68,5 @@
     "source": "nyt",
     "headline": "Avalanches Across Austrian Alps Kill 8 Skiers in One Day",
     "link": "https://www.nytimes.com/2026/01/18/world/europe/austria-alps-avalanches.html"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-01-18-19-05-03 +0000",
-    "source": "nypost",
-    "headline": "IG probe uncovers Labor Secretary Lori Chavez-DeRemer’s office booze ‘stash’ — and strip club visit with subordinates",
-    "link": "https://nypost.com/2026/01/18/us-news/ig-probe-uncovers-labor-secretary-lori-chavez-deremer-visited-a-strip-club-with-subordinates/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-01-18-17-49-13 +0000",
-    "source": "bbc",
-    "headline": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
-    "link": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss"
   }
 ]
