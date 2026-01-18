@@ -1,24 +1,31 @@
 [
   {
-    "score": 139,
+    "score": 142,
     "pubdate": "2026-01-17-23-25-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would impose 10% tariffs on imports from several European countries starting next month in an effort to pressure Denmark to sell Greenland to the U.S.",
     "link": "https://www.wsj.com/politics/policy/trump-to-hit-european-nations-with-tariffs-until-deal-reached-to-buy-greenland-d92d2b6f"
   },
   {
-    "score": 52,
+    "score": 57,
     "pubdate": "2026-01-17-20-20-55 +0000",
     "source": "nyt",
     "headline": "World Leaders Consider Joining Trump’s ‘Board of Peace’ for Gaza",
     "link": "https://www.nytimes.com/2026/01/17/world/middleeast/trump-gaza-israel-board-peace.html"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2026-01-17-23-08-39 +0000",
     "source": "bbc",
     "headline": "'Young 40s': Gen Z has found a new way to mock millennials for their style in South Korea",
     "link": "https://www.bbc.com/news/articles/c78vw30p1d2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-01-18-00-41-25 +0000",
+    "source": "nypost",
+    "headline": "Minnesota National Guard on ‘standby’ and reveal planned uniform if called into action to quell anti-ICE unrest",
+    "link": "https://nypost.com/2026/01/17/us-news/minnesota-national-guard-on-standby-and-reveal-planned-uniform-if-called-into-action-to-quell-anti-ice-unrest/"
   },
   {
     "score": 45,
@@ -28,14 +35,7 @@
     "link": "https://nypost.com/2026/01/17/world-news/venezuelan-interior-minister-nicolas-maduro-loyalist-were-in-talks-with-us-months-before-raid-report/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-01-18-00-41-25 +0000",
-    "source": "nypost",
-    "headline": "Minnesota National Guard on ‘standby’ and reveal planned uniform if called into action to quell anti-ICE unrest",
-    "link": "https://nypost.com/2026/01/17/us-news/minnesota-national-guard-on-standby-and-reveal-planned-uniform-if-called-into-action-to-quell-anti-ice-unrest/"
-  },
-  {
-    "score": 35,
+    "score": 36,
     "pubdate": "2026-01-17-20-14-57 +0000",
     "source": "bbc",
     "headline": "Iran supreme leader acknowledges thousands killed during recent protests",
@@ -64,9 +64,9 @@
   },
   {
     "score": 28,
-    "pubdate": "2026-01-18-07-53-23 +0000",
-    "source": "nyt",
-    "headline": "Syria Advance on Kurdish-Held Areas as Washington Urges Restraint",
-    "link": "https://www.nytimes.com/2026/01/17/world/middleeast/syrian-kurds-raqqa.html"
+    "pubdate": "2026-01-18-13-25-03 +0000",
+    "source": "bbc",
+    "headline": "Syrian army seizes country's largest oil field from Kurdish forces",
+    "link": "https://www.bbc.com/news/articles/cx20n55yxrlo?at_medium=RSS&at_campaign=rss"
   }
 ]
