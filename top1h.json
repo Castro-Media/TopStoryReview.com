@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 32,
+    "pubdate": "2026-01-19-05-32-46 +0000",
+    "source": "nyt",
+    "headline": "High-Speed Train Crash in Spain Leaves at Least 21 Dead",
+    "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/spain-high-speed-train-derailment"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-01-19-05-53-46 +0000",
+    "source": "bbc",
+    "headline": "'Credit-score company encouraged me to borrow again when I was nearly debt-free'",
+    "link": "https://www.bbc.com/news/articles/c4g0m1j4042o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-01-19-05-01-20 +0000",
+    "source": "nyt",
+    "headline": "Prince Harry’s Court Case Against Daily Mail Publisher: What to Know",
+    "link": "https://www.nytimes.com/2026/01/19/world/europe/prince-harry-trial-daily-mail-associated-newspapers-uk.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-01-19-05-01-19 +0000",
+    "source": "nyt",
+    "headline": "As Davos Convenes, Deference to Trump Has Replaced Everything",
+    "link": "https://www.nytimes.com/2026/01/19/business/davos-president-trump.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-19-05-01-13 +0000",
+    "source": "nyt",
+    "headline": "Why Are New Zealanders Moving to Australia? More Money, Better Vibes.",
+    "link": "https://www.nytimes.com/2026/01/19/world/asia/new-zealand-australia-moving-relocation.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-19-05-50-36 +0000",
+    "source": "nypost",
+    "headline": "12-year-old boy saved mom’s life after she lost consciousness while behind the wheel with foot still on gas",
+    "link": "https://nypost.com/2026/01/19/world-news/12-year-old-boy-saved-moms-life-after-she-lost-consciousness-while-behind-the-wheel-with-foot-still-on-gas/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-19-05-22-01 +0000",
+    "source": "bbc",
+    "headline": "Fourteen dead, dozens missing in massive Pakistan mall fire",
+    "link": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-19-05-42-29 +0000",
+    "source": "nypost",
+    "headline": "ICE agent slams protester during search for alleged child sex offender: ‘That’s who you’re protecting’",
+    "link": "https://nypost.com/2026/01/19/us-news/ice-agent-berates-disorderly-protester-during-search-for-alleged-child-sex-offender-thats-who-youre-protecting/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-19-05-41-46 +0000",
+    "source": "nyt",
+    "headline": "China’s Birthrate Plunges to Lowest Level Since 1949",
+    "link": "https://www.nytimes.com/2026/01/18/business/china-population-data.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-19-05-01-07 +0000",
+    "source": "nyt",
+    "headline": "What Vietnam’s Communist Party Congress Hopes to Achieve",
+    "link": "https://www.nytimes.com/2026/01/19/world/asia/vietnam-communist-party-congress-economy.html"
+  }
+]
