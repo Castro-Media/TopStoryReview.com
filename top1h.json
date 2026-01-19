@@ -1,72 +1,72 @@
 [
   {
-    "score": 26,
-    "pubdate": "2026-01-19-00-51-56 +0000",
+    "score": 32,
+    "pubdate": "2026-01-19-02-02-07 +0000",
     "source": "nyt",
-    "headline": "High-Speed Train Crash in Spain Leaves at Least 10 Dead",
+    "headline": "Real Estate Crash Weighs on China’s Economic Growth",
+    "link": "https://www.nytimes.com/2026/01/18/business/china-gdp-economy.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-01-19-02-07-21 +0000",
+    "source": "nyt",
+    "headline": "Josh Shapiro Writes That Harris Team Asked if He Had Ever Been an Israeli Agent",
+    "link": "https://www.nytimes.com/2026/01/18/us/politics/josh-shapiro-memoir-kamala-harris.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-19-01-42-43 +0000",
+    "source": "nypost",
+    "headline": "Brazen NYC carjacker swipes vehicle where blind senior, 72, was waiting for son: ‘He didn’t know what was happening’",
+    "link": "https://nypost.com/2026/01/18/us-news/brazen-nyc-carjacker-swipes-vehicle-where-blind-senior-was-waiting-for-son/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-19-02-15-00 +0000",
+    "source": "wsj",
+    "headline": "A surge in exports powered China’s growth last year, defying expectations that a trade war with the U.S. would hobble the world’s second-biggest economy",
+    "link": "https://www.wsj.com/economy/trade/china-reports-robust-economic-growth-thanks-to-resilient-exports-5b2ae07c"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-19-02-29-24 +0000",
+    "source": "nyt",
+    "headline": "High-Speed Train Crash in Spain Leaves at Least 21 Dead",
     "link": "https://www.nytimes.com/2026/01/18/world/europe/spain-high-speed-train-derailment.html"
   },
   {
     "score": 14,
-    "pubdate": "2026-01-19-01-11-01 +0000",
-    "source": "startribune",
-    "headline": "Maye throws 3 TD passes, Stroud has 4 INTs as Patriots top Texans 28-16 to advance to AFC title game",
-    "link": "https://www.startribune.com/maye-throws-3-td-passes-stroud-has-4-ints-as-patriots-top-texans-28-16-to-advance-to-afc-title-game/601566589"
+    "pubdate": "2026-01-19-01-42-28 +0000",
+    "source": "nypost",
+    "headline": "Mob storms Minnesota church during worship to target pastor they say has ICE ties",
+    "link": "https://nypost.com/2026/01/18/us-news/anti-ice-mob-storms-minnesota-church-over-pastors-alleged-ties-to-immigration-enforcement/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-19-01-46-17 +0000",
+    "source": "wapo",
+    "headline": "‘60 Minutes’ story held for lacking interview with Trump official airs without one",
+    "link": "https://www.washingtonpost.com/business/2026/01/18/cbs-60-minutes-cecot/"
   },
   {
     "score": 12,
-    "pubdate": "2026-01-19-00-50-23 +0000",
-    "source": "nypost",
-    "headline": "Gov. Hochul, Letitia James not on list for Long Island Rep. Tom Suozzi’s campaign kickoff",
-    "link": "https://nypost.com/2026/01/18/us-news/gov-hochul-letitia-james-not-on-list-for-long-island-rep-tom-suozzis-campaign-kickoff/"
+    "pubdate": "2026-01-19-02-19-09 +0000",
+    "source": "nyt",
+    "headline": "China’s Population Shrinks Again as Policies Fail to Reverse Decline",
+    "link": "https://www.nytimes.com/2026/01/18/business/china-population-data.html"
   },
   {
     "score": 10,
-    "pubdate": "2026-01-19-00-26-58 +0000",
+    "pubdate": "2026-01-19-02-25-22 +0000",
     "source": "nypost",
-    "headline": "Teen in critical condition after being mauled by shark, rescued by friend on Sydney beach",
-    "link": "https://nypost.com/2026/01/18/world-news/teen-in-critical-condition-after-being-mauled-by-shark-on-sydney-beach/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-01-19-00-23-28 +0000",
-    "source": "latimes",
-    "headline": "'60 Minutes' runs the 'Inside CECOT' story previously shelved by Bari Weiss",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-18/60-minutes-runs-inside-cecot-story-previously-shelved-by-bari-weiss"
+    "headline": "Iran threatens to resume executions, warns of ‘all out war’ if US steps in during brutal crackdown",
+    "link": "https://nypost.com/2026/01/18/world-news/iran-threatens-to-resume-executions-warns-of-all-out-war-if-us-steps-in/"
   },
   {
     "score": 9,
-    "pubdate": "2026-01-19-01-06-04 +0000",
-    "source": "nypost",
-    "headline": "Snowy weather causes hundreds of cancellations, delays at NYC area airports",
-    "link": "https://nypost.com/2026/01/18/us-news/snowy-weather-causes-hundreds-of-cancellations-delays-at-nyc-area-airports/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-01-19-00-34-00 +0000",
-    "source": "wsj",
-    "headline": "Yen Mostly Strengthens Amid Lingering Risks of Japan FX Intervention",
-    "link": "https://www.wsj.com/finance/currencies/yen-mostly-strengthens-amid-lingering-risks-of-japan-fx-intervention-55d7581d?mod=rss_markets_main"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-01-19-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Europe Is Bracing for a New Trade Fight With Trump. Here Are Its Options.",
-    "link": "https://www.wsj.com/world/europe/europe-is-bracing-for-a-new-trade-fight-with-trump-here-are-its-options-1e7fdead"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-01-19-00-51-00 +0000",
-    "source": "wsj",
-    "headline": "‘60 Minutes’ Airs Delayed El Salvador Prison Segment, With Some Additions",
-    "link": "https://www.wsj.com/business/media/60-minutes-airs-delayed-el-salvador-prison-segment-with-some-additions-bd76971f?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-01-19-00-20-02 +0000",
-    "source": "bbc",
-    "headline": "'Shameful' and 'terrible look' - the chaos that marred Senegal's triumph",
-    "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-01-19-02-31-29 +0000",
+    "source": "startribune",
+    "headline": "Live: Department of Justice investigating protesters who interrupted St. Paul church service",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
   }
 ]
