@@ -1,15 +1,231 @@
 [
   {
+    "headline": "Maye throws 3 TD passes, Stroud has 4 INTs as Patriots top Texans 28-16 to advance to AFC title game",
+    "link": "https://www.startribune.com/maye-throws-3-td-passes-stroud-has-4-ints-as-patriots-top-texans-28-16-to-advance-to-afc-title-game/601566589",
+    "source": "startribune",
+    "pubdate": "2026-01-19-01-11-01 +0000"
+  },
+  {
+    "headline": "Snowy weather causes hundreds of cancellations, delays at NYC area airports",
+    "link": "https://nypost.com/2026/01/18/us-news/snowy-weather-causes-hundreds-of-cancellations-delays-at-nyc-area-airports/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-01-06-04 +0000"
+  },
+  {
+    "headline": "Europe Is Bracing for a New Trade Fight With Trump. Here Are Its Options.",
+    "link": "https://www.wsj.com/world/europe/europe-is-bracing-for-a-new-trade-fight-with-trump-here-are-its-options-1e7fdead",
+    "source": "wsj",
+    "pubdate": "2026-01-19-01-00-00 +0000"
+  },
+  {
+    "headline": "Even MBAs From Top Business Schools Are Struggling to Get Hired",
+    "link": "https://www.wsj.com/lifestyle/careers/even-mbas-from-top-business-schools-are-struggling-to-get-hired-11f4a167",
+    "source": "wsj",
+    "pubdate": "2026-01-19-01-00-00 +0000"
+  },
+  {
+    "headline": "Factory explosion in China kills two, injures 84",
+    "link": "https://www.bbc.com/news/articles/c5y2pg28lgjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-53-04 +0000"
+  },
+  {
+    "headline": "High-Speed Train Crash in Spain Leaves at Least 10 Dead",
+    "link": "https://www.nytimes.com/2026/01/18/world/europe/spain-high-speed-train-derailment.html",
+    "source": "nyt",
+    "pubdate": "2026-01-19-00-51-56 +0000"
+  },
+  {
+    "headline": "High-Speed Train Crash in Spain Leaves at Least 10 Dead",
+    "link": "https://www.nytimes.com/2026/01/18/world/europe/spain-high-speed-train-derailment.html",
+    "source": "nyt",
+    "pubdate": "2026-01-19-00-51-56 +0000"
+  },
+  {
+    "headline": "San Francisco Mourns Its Beloved Alligator, Claude",
+    "link": "https://www.nytimes.com/2026/01/18/us/claude-alligator-san-francisco-funeral.html",
+    "source": "nyt",
+    "pubdate": "2026-01-19-00-51-27 +0000"
+  },
+  {
+    "headline": "‘60 Minutes’ Airs Delayed El Salvador Prison Segment, With Some Additions",
+    "link": "https://www.wsj.com/business/media/60-minutes-airs-delayed-el-salvador-prison-segment-with-some-additions-bd76971f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-19-00-51-00 +0000"
+  },
+  {
+    "headline": "Gov. Hochul, Letitia James not on list for Long Island Rep. Tom Suozzi’s campaign kickoff",
+    "link": "https://nypost.com/2026/01/18/us-news/gov-hochul-letitia-james-not-on-list-for-long-island-rep-tom-suozzis-campaign-kickoff/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-00-50-23 +0000"
+  },
+  {
+    "headline": "At least 21 killed in Spain after crash involving high-speed trains",
+    "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-42-07 +0000"
+  },
+  {
+    "headline": "At least 21 killed in Spain after crash involving high-speed trains",
+    "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-42-07 +0000"
+  },
+  {
+    "headline": "In Minneapolis, a Pattern of Misconduct Toward Protesters",
+    "link": "https://www.nytimes.com/2026/01/18/us/minneapolis-federal-agents-misconduct-protesters.html",
+    "source": "nyt",
+    "pubdate": "2026-01-19-00-39-51 +0000"
+  },
+  {
+    "headline": "Yen Mostly Strengthens Amid Lingering Risks of Japan FX Intervention",
+    "link": "https://www.wsj.com/finance/currencies/yen-mostly-strengthens-amid-lingering-risks-of-japan-fx-intervention-55d7581d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-19-00-34-00 +0000"
+  },
+  {
+    "headline": "Teen in critical condition after being mauled by shark, rescued by friend on Sydney beach",
+    "link": "https://nypost.com/2026/01/18/world-news/teen-in-critical-condition-after-being-mauled-by-shark-on-sydney-beach/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-00-26-58 +0000"
+  },
+  {
+    "headline": "'60 Minutes' runs the 'Inside CECOT' story previously shelved by Bari Weiss",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-18/60-minutes-runs-inside-cecot-story-previously-shelved-by-bari-weiss",
+    "source": "latimes",
+    "pubdate": "2026-01-19-00-23-28 +0000"
+  },
+  {
+    "headline": "'Shameful' and 'terrible look' - the chaos that marred Senegal's triumph",
+    "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-20-02 +0000"
+  },
+  {
+    "headline": "Justice Department says it has no plans to investigate ICE agent who killed Renee Good and confirms Walz, Frey probe",
+    "link": "https://www.startribune.com/justice-department-says-it-has-no-plans-to-investigate-ice-agent-who-killed-renee-good-and-confirms-walz-frey-probe/601566499",
+    "source": "startribune",
+    "pubdate": "2026-01-19-00-18-40 +0000"
+  },
+  {
+    "headline": "Activists interrupt Sunday church service, say pastor works for ICE",
+    "link": "https://www.startribune.com/activists-interrupt-sunday-church-service-say-pastor-works-for-ice/601566591",
+    "source": "startribune",
+    "pubdate": "2026-01-19-00-16-50 +0000"
+  },
+  {
+    "headline": "European nations weigh retaliation after Trump’s Greenland threats",
+    "link": "https://www.washingtonpost.com/politics/2026/01/18/greenland-trump-tariffs-europe/",
+    "source": "wapo",
+    "pubdate": "2026-01-19-00-13-09 +0000"
+  },
+  {
+    "headline": "‘Kamala Harris Day’ sparks mockery after former VP accepts honor: ‘Name one accomplishment’",
+    "link": "https://nypost.com/2026/01/18/us-news/kamala-harris-day-event-in-mississippi-sparks-mockery/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-00-09-29 +0000"
+  },
+  {
+    "headline": "‘Kamala Harris Day’ sparks mockery after former VP accepts honor: ‘Name one accomplishment’",
+    "link": "https://nypost.com/2026/01/18/us-news/kamala-harris-day-event-in-mississippi-sparks-mockery/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-00-09-29 +0000"
+  },
+  {
+    "headline": "This major US county made it through 2025 without recording a single homicide: ‘We’re truly blessed’",
+    "link": "https://nypost.com/2026/01/18/us-news/st-johns-county-made-it-through-2025-without-one-homicide/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-00-09-16 +0000"
+  },
+  {
+    "headline": "Josh Shapiro Writes That Harris Team Asked if He Had Ever Been an Israeli Agent",
+    "link": "https://www.nytimes.com/2026/01/18/us/politics/josh-shapiro-memoir-kamala-harris.html",
+    "source": "nyt",
+    "pubdate": "2026-01-19-00-09-09 +0000"
+  },
+  {
+    "headline": "Josh Shapiro Writes That Harris Team Asked if He Had Ever Been an Israeli Agent",
+    "link": "https://www.nytimes.com/2026/01/18/us/politics/josh-shapiro-memoir-kamala-harris.html",
+    "source": "nyt",
+    "pubdate": "2026-01-19-00-09-09 +0000"
+  },
+  {
+    "headline": "Probe into Hunter S. Thompson’s suicide, widow’s claims of foul play spark Gonzo family rift",
+    "link": "https://nypost.com/2026/01/18/us-news/probe-into-hunter-s-thompsons-death-claims-of-foul-play-spark-gonzo-family-rift-really-shocking/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-00-05-33 +0000"
+  },
+  {
+    "headline": "Hispanic voters sent Trump back to power. Now some are souring",
+    "link": "https://www.bbc.com/news/articles/clym85ev64lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-05-05 +0000"
+  },
+  {
+    "headline": "Chris Hohn’s TCI Made $18.9 Billion Last Year, Shattering Hedge-Fund Records",
+    "link": "https://www.wsj.com/finance/investing/chris-hohns-tci-made-18-9-billion-last-year-shattering-hedge-fund-records-e155153b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-19-00-01-00 +0000"
+  },
+  {
+    "headline": "Faisal Islam: Global disruption looms large over biggest-ever Davos",
+    "link": "https://www.bbc.com/news/articles/cx2p3e245npo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-00-33 +0000"
+  },
+  {
+    "headline": "'The finest in the world': Why the US is buying icebreakers from Finland",
+    "link": "https://www.bbc.com/news/articles/c0q48d71ke8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-00-19 +0000"
+  },
+  {
+    "headline": "'The finest in the world': Why the US is buying icebreakers from Finland",
+    "link": "https://www.bbc.com/news/articles/c0q48d71ke8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-19-00-00-19 +0000"
+  },
+  {
+    "headline": "At least 20 killed in high-speed train derailment, crash in southern Spain",
+    "link": "https://nypost.com/2026/01/18/world-news/at-least-20-killed-in-high-speed-train-derailment-crash-in-spain/",
+    "source": "nypost",
+    "pubdate": "2026-01-19-00-00-06 +0000"
+  },
+  {
+    "headline": "Oil Falls as Middle East Tensions Continue to Fade",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-middle-east-tensions-continue-to-fade-91d1b8e8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-18-23-58-00 +0000"
+  },
+  {
+    "headline": "European Union Officials Lean Toward Negotiating, Not Retaliating, Over Trump Tariff Threat",
+    "link": "https://www.nytimes.com/2026/01/18/world/europe/european-union-respond-trump-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-18-23-56-26 +0000"
+  },
+  {
+    "headline": "European Union Officials Lean Toward Negotiating, Not Retaliating, Over Trump Tariff Threat",
+    "link": "https://www.nytimes.com/2026/01/18/world/europe/european-union-respond-trump-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-18-23-56-26 +0000"
+  },
+  {
+    "headline": "Mamdani chief equity officer disparaged liberal white women in now-deleted X posts: ‘Tax them to the white meat’",
+    "link": "https://nypost.com/2026/01/18/us-news/mamdani-chief-equity-officer-disparaged-liberal-white-women-in-now-deleted-x-posts-tax-them-to-the-white-meat/",
+    "source": "nypost",
+    "pubdate": "2026-01-18-23-52-43 +0000"
+  },
+  {
+    "headline": "Opinion | The Greenland War of 2026",
+    "link": "https://www.wsj.com/opinion/the-greenland-war-of-2026-europe-trump-tariff-e27b8b98",
+    "source": "wsj",
+    "pubdate": "2026-01-18-23-52-00 +0000"
+  },
+  {
     "headline": "Mount Sinai hospital shoots down claims that patients died during massive NYC nurses’ strike",
     "link": "https://nypost.com/2026/01/18/us-news/mount-sinai-hospital-shoots-down-claims-that-patients-died-during-massive-nyc-nurses-strike/",
     "source": "nypost",
     "pubdate": "2026-01-18-23-50-54 +0000"
-  },
-  {
-    "headline": "Maye throws 3 TD passes, Stroud has 4 INTs as Patriots top Texans 28-16 to advance to AFC title game",
-    "link": "https://www.startribune.com/maye-throws-3-td-passes-stroud-has-4-ints-as-patriots-top-texans-28-16-to-advance-to-afc-title-game/601566589",
-    "source": "startribune",
-    "pubdate": "2026-01-18-23-46-01 +0000"
   },
   {
     "headline": "Precious Metals Climb After Trump Threatens Europe With Tariffs Over Greenland",
@@ -24,34 +240,10 @@
     "pubdate": "2026-01-18-23-45-52 +0000"
   },
   {
-    "headline": "At least 21 killed in Spain after crash involving high-speed trains",
-    "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-23-37-14 +0000"
-  },
-  {
-    "headline": "At least 21 killed in Spain after crash involving high-speed trains",
-    "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-23-37-14 +0000"
-  },
-  {
     "headline": "Louisiana couple hit with homicide charges after death of their 5-year-old son — who weighed only 19 pounds",
     "link": "https://nypost.com/2026/01/18/us-news/louisiana-couple-hit-with-homicide-charges-after-death-of-their-5-year-old-son-who-weighed-only-19-pounds/",
     "source": "nypost",
     "pubdate": "2026-01-18-23-32-25 +0000"
-  },
-  {
-    "headline": "High-Speed Train Crash in Spain Leaves at Least 10 Dead",
-    "link": "https://www.nytimes.com/2026/01/18/world/europe/spain-high-speed-train-derailment.html",
-    "source": "nyt",
-    "pubdate": "2026-01-18-23-29-59 +0000"
-  },
-  {
-    "headline": "High-Speed Train Crash in Spain Leaves at Least 10 Dead",
-    "link": "https://www.nytimes.com/2026/01/18/world/europe/spain-high-speed-train-derailment.html",
-    "source": "nyt",
-    "pubdate": "2026-01-18-23-29-59 +0000"
   },
   {
     "headline": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
@@ -228,10 +420,10 @@
     "pubdate": "2026-01-18-22-09-39 +0000"
   },
   {
-    "headline": "European nations weigh retaliation after Trump’s Greenland threats",
-    "link": "https://www.washingtonpost.com/politics/2026/01/18/greenland-trump-tariffs-europe/",
-    "source": "wapo",
-    "pubdate": "2026-01-18-22-04-05 +0000"
+    "headline": "Carney weighs sending soldiers to Greenland for military exercises with NATO allies: sources",
+    "link": "https://www.cbc.ca/news/politics/carney-greenland-soldiers-trump-tariff-nato-denmark-9.7050621?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-18-22-09-39 +0000"
   },
   {
     "headline": "After Trump Reignites a Trade War Over Greenland, Europe Weighs Hitting Back",
@@ -414,12 +606,6 @@
     "pubdate": "2026-01-18-20-13-23 +0000"
   },
   {
-    "headline": "Justice Department says it has no plans to investigate ICE agent who killed Renee Good and confirms Walz, Frey probe",
-    "link": "https://www.startribune.com/justice-department-says-it-has-no-plans-to-investigate-ice-agent-who-killed-renee-good-and-confirms-walz-frey-probe/601566499",
-    "source": "startribune",
-    "pubdate": "2026-01-18-20-08-37 +0000"
-  },
-  {
     "headline": "AOC, Mamdani give rise to ‘rogue radicals’ — and that’s great news for GOP: RNC chief",
     "link": "https://nypost.com/2026/01/18/us-news/aoc-mamdani-give-rise-to-rogue-radicals-and-thats-great-news-for-gop-rnc-chief/",
     "source": "nypost",
@@ -552,12 +738,6 @@
     "pubdate": "2026-01-18-19-05-03 +0000"
   },
   {
-    "headline": "IG probe uncovers Labor Secretary Lori Chavez-DeRemer’s office booze ‘stash’ — and strip club visit with subordinates",
-    "link": "https://nypost.com/2026/01/18/us-news/ig-probe-uncovers-labor-secretary-lori-chavez-deremer-visited-a-strip-club-with-subordinates/",
-    "source": "nypost",
-    "pubdate": "2026-01-18-19-05-03 +0000"
-  },
-  {
     "headline": "Uganda partially restores internet after president, 81, wins seventh term",
     "link": "https://nypost.com/2026/01/18/world-news/uganda-partially-restores-internet-after-president-wins-seventh-term/",
     "source": "nypost",
@@ -618,24 +798,6 @@
     "pubdate": "2026-01-18-18-00-24 +0000"
   },
   {
-    "headline": "US ambassadors reveal how they slashed UN budget: ‘Never seen anything like it’",
-    "link": "https://nypost.com/2026/01/18/us-news/us-ambassadors-reveal-how-they-slashed-un-budget/",
-    "source": "nypost",
-    "pubdate": "2026-01-18-18-00-24 +0000"
-  },
-  {
-    "headline": "Nancy Pelosi mocked for looking ‘drunk’ during John Mayer’s tribute to Grateful Dead guitarist Bob Weir",
-    "link": "https://nypost.com/2026/01/18/us-news/nancy-pelosi-mocked-for-cringey-performance-at-grateful-dead-guitarist-bob-weirs-memorial/",
-    "source": "nypost",
-    "pubdate": "2026-01-18-17-58-33 +0000"
-  },
-  {
-    "headline": "Minneapolis Mayor Jacob Frey rips ICE’s immigration crackdown during blistering CNN interview: ‘Invaded by our own federal government’",
-    "link": "https://nypost.com/2026/01/18/us-news/minneapolis-mayor-jacob-frey-claims-city-being-invaded-by-our-own-federal-government/",
-    "source": "nypost",
-    "pubdate": "2026-01-18-17-50-47 +0000"
-  },
-  {
     "headline": "Minneapolis Mayor Jacob Frey rips ICE’s immigration crackdown during blistering CNN interview: ‘Invaded by our own federal government’",
     "link": "https://nypost.com/2026/01/18/us-news/minneapolis-mayor-jacob-frey-claims-city-being-invaded-by-our-own-federal-government/",
     "source": "nypost",
@@ -646,12 +808,6 @@
     "link": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/lindsey-vonn-consistency-alpine-skiing-double-olympic-medal-threat-9.7050503?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-18-17-39-44 +0000"
-  },
-  {
-    "headline": "GOP lawmakers irked at Trump’s new planned  tariffs against EU members over Greenland",
-    "link": "https://nypost.com/2026/01/18/us-news/gopers-irked-at-trumps-new-planned-tariffs-against-eu-members-over-greenland/",
-    "source": "nypost",
-    "pubdate": "2026-01-18-17-37-12 +0000"
   },
   {
     "headline": "GOP lawmakers irked at Trump’s new planned  tariffs against EU members over Greenland",
@@ -676,12 +832,6 @@
     "link": "https://www.washingtonpost.com/national-security/2026/01/18/trump-minnesota-insurrection-act/",
     "source": "wapo",
     "pubdate": "2026-01-18-17-28-55 +0000"
-  },
-  {
-    "headline": "Long Island Sound’s toxic ‘dead zones’ hit historic low — which could mean a surge in wildlife",
-    "link": "https://nypost.com/2026/01/18/us-news/long-island-sounds-dead-zones-of-hypoxia-hit-historic-low/",
-    "source": "nypost",
-    "pubdate": "2026-01-18-17-27-38 +0000"
   },
   {
     "headline": "Opinion | Gaza’s ‘Phase Two’ Peace Trusts Hamas",
@@ -792,7 +942,7 @@
     "pubdate": "2026-01-18-15-00-12 +0000"
   },
   {
-    "headline": "Hidden details in artist Nicolas de Staël’s  paintings discovered, amateur cryptographer claims",
+    "headline": "Hidden details in late artist Nicolas de Staël’s paintings discovered, amateur cryptographer claims",
     "link": "https://nypost.com/2026/01/18/world-news/hidden-detail-in-artist-nicolas-de-staels-paintings-discovered-amateur-cryptographer-claims/",
     "source": "nypost",
     "pubdate": "2026-01-18-15-00-00 +0000"
@@ -957,12 +1107,6 @@
     "headline": "The SAT has surged in popularity. The ACT is making changes.",
     "link": "https://www.washingtonpost.com/education/2026/01/18/standardized-test-popularity/",
     "source": "wapo",
-    "pubdate": "2026-01-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Allegations of racial profiling of U.S. citizens on the rise as ICE surge expands in Minnesota",
-    "link": "https://www.startribune.com/allegations-of-racial-profiling-of-us-citizens-on-the-rise-as-ice-surge-expands-in-minnesota/601564653",
-    "source": "startribune",
     "pubdate": "2026-01-18-11-00-00 +0000"
   },
   {
@@ -1444,107 +1588,5 @@
     "link": "https://www.bbc.com/news/articles/cly148lvyevo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-18-01-22-46 +0000"
-  },
-  {
-    "headline": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission",
-    "link": "https://www.bbc.com/news/articles/cly148lvyevo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-01-22-46 +0000"
-  },
-  {
-    "headline": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
-    "link": "https://www.nytimes.com/2026/01/17/business/media/cbs-news-trump-interview.html",
-    "source": "nyt",
-    "pubdate": "2026-01-18-01-00-49 +0000"
-  },
-  {
-    "headline": "White House Warns CBS: Air Trump Interview in Full, or ‘We’ll Sue’",
-    "link": "https://www.nytimes.com/2026/01/17/business/media/cbs-news-trump-interview.html",
-    "source": "nyt",
-    "pubdate": "2026-01-18-01-00-49 +0000"
-  },
-  {
-    "headline": "Pardoned Jan. 6 rioter driven from Minneapolis rally by large counterprotest",
-    "link": "https://www.washingtonpost.com/nation/2026/01/17/minneapolis-protests-jake-lang-somali/",
-    "source": "wapo",
-    "pubdate": "2026-01-18-01-00-28 +0000"
-  },
-  {
-    "headline": "How Young Traders Use Fake Money to Practice for the Real Thing",
-    "link": "https://www.wsj.com/personal-finance/stock-market-simulator-gamify-investing-gen-z-4f6cedef?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-18-01-00-00 +0000"
-  },
-  {
-    "headline": "Half American, half Canadian: Take a ride in a car welded from two front ends",
-    "link": "https://www.bbc.com/news/videos/c89q0e9dvpwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-54-22 +0000"
-  },
-  {
-    "headline": "'I want to show the world what Africa is': YouTube star brings joy and tears on tour",
-    "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-21-02 +0000"
-  },
-  {
-    "headline": "'I want to show the world what Africa is': YouTube star brings joy and tears on tour",
-    "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-21-02 +0000"
-  },
-  {
-    "headline": "White House told CBS to run Trump interview unedited or get sued",
-    "link": "https://www.washingtonpost.com/business/2026/01/17/trump-cbs-dokoupil-interview/",
-    "source": "wapo",
-    "pubdate": "2026-01-18-00-14-05 +0000"
-  },
-  {
-    "headline": "Gangland killing at a funeral shocks idyllic French island",
-    "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-08-38 +0000"
-  },
-  {
-    "headline": "Gangland killing at a funeral shocks idyllic French island",
-    "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-08-38 +0000"
-  },
-  {
-    "headline": "A deadly fire swept through a nightclub in just 90 seconds. I got out",
-    "link": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-08-10 +0000"
-  },
-  {
-    "headline": "A deadly fire swept through a nightclub in just 90 seconds. I got out",
-    "link": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-08-10 +0000"
-  },
-  {
-    "headline": "From surge in patriotism to fewer US trips - Trump's impact on Canada",
-    "link": "https://www.bbc.com/news/articles/crmlvym2e3eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-07-52 +0000"
-  },
-  {
-    "headline": "From surge in patriotism to fewer US trips - Trump's impact on Canada",
-    "link": "https://www.bbc.com/news/articles/crmlvym2e3eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-18-00-07-52 +0000"
-  },
-  {
-    "headline": "Thousands of Iranian tech workers in Silicon Valley call for urgent action in Iran",
-    "link": "https://nypost.com/2026/01/17/world-news/iranian-tech-workers-in-silicon-valley-call-for-action-in-iran/",
-    "source": "nypost",
-    "pubdate": "2026-01-18-00-05-42 +0000"
-  },
-  {
-    "headline": "At Least $110,000 Worth of Pokémon Cards Stolen From New York Store",
-    "link": "https://www.nytimes.com/2026/01/17/nyregion/pokemon-card-shop-robbery-new-york.html",
-    "source": "nyt",
-    "pubdate": "2026-01-17-23-57-50 +0000"
   }
 ]
