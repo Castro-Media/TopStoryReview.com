@@ -1,17 +1,24 @@
 [
   {
-    "score": 137,
+    "score": 144,
     "pubdate": "2026-01-18-20-01-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s threatened 10% tariffs on several European allies in an effort to pressure Denmark into selling Greenland to the U.S. would likely hit a range of luxury and specialty goods.",
     "link": "https://www.wsj.com/economy/trade/the-european-goods-set-to-get-hit-with-trumps-latest-tariffs-e4ca7262"
   },
   {
-    "score": 74,
+    "score": 89,
     "pubdate": "2026-01-18-23-14-31 +0000",
     "source": "cbc",
     "headline": "At least 20 believed dead in high-speed train crash in Spain, authorities say",
     "link": "https://www.cbc.ca/news/world/spain-train-crash-9.7050668?cmp=rss"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-01-19-03-25-00 +0000",
+    "source": "wsj",
+    "headline": "A surge in exports powered China’s growth last year, defying expectations that a trade war with the U.S. would hobble the world’s second-biggest economy",
+    "link": "https://www.wsj.com/economy/trade/china-reports-robust-economic-growth-thanks-to-resilient-exports-5b2ae07c"
   },
   {
     "score": 56,
@@ -21,25 +28,25 @@
     "link": "https://nypost.com/2026/01/18/us-news/minneapolis-mayor-jacob-frey-claims-city-being-invaded-by-our-own-federal-government/"
   },
   {
-    "score": 55,
-    "pubdate": "2026-01-19-03-25-00 +0000",
-    "source": "wsj",
-    "headline": "A surge in exports powered China’s growth last year, defying expectations that a trade war with the U.S. would hobble the world’s second-biggest economy",
-    "link": "https://www.wsj.com/economy/trade/china-reports-robust-economic-growth-thanks-to-resilient-exports-5b2ae07c"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-01-19-06-02-59 +0000",
+    "score": 45,
+    "pubdate": "2026-01-19-07-15-40 +0000",
     "source": "bbc",
     "headline": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
     "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 40,
+    "score": 41,
     "pubdate": "2026-01-18-10-00-30 +0000",
     "source": "nyt",
     "headline": "Avalanches Across Austrian Alps Kill 8 Skiers in One Day",
     "link": "https://www.nytimes.com/2026/01/18/world/europe/austria-alps-avalanches.html"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-01-18-21-05-32 +0000",
+    "source": "bbc",
+    "headline": "EU weighs response to Trump's tariff threat over Greenland",
+    "link": "https://www.bbc.com/news/articles/c87r41j4n4jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -57,16 +64,9 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-01-18-14-37-01 +0000",
+    "pubdate": "2026-01-18-21-42-16 +0000",
     "source": "nyt",
-    "headline": "$1 Billion in Cash Buys a Permanent Seat on Trump’s ‘Board of Peace’",
-    "link": "https://www.nytimes.com/2026/01/18/world/middleeast/trump-board-of-peace-gaza.html"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-01-19-01-42-43 +0000",
-    "source": "nypost",
-    "headline": "Brazen NYC carjacker swipes vehicle where blind senior, 72, was waiting for son: ‘He didn’t know what was happening’",
-    "link": "https://nypost.com/2026/01/18/us-news/brazen-nyc-carjacker-swipes-vehicle-where-blind-senior-was-waiting-for-son/"
+    "headline": "Noem Denies Use of Chemical Agents in Minnesota Protests, Then Backtracks",
+    "link": "https://www.nytimes.com/2026/01/18/us/politics/noem-chemical-agents-minnesota.html"
   }
 ]
