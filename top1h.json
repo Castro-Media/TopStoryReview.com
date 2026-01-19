@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 28,
+    "pubdate": "2026-01-19-13-05-26 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: At Least 39 Are Dead in High-Speed Train Crash in Spain",
+    "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-01-19-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Half of U.S. voters say the Trump administration has gone too far and left them less confident in the federal government’s guidance on vaccines, according to a new Wall Street Journal poll",
+    "link": "https://www.wsj.com/politics/policy/voters-skeptical-of-rfk-jr-s-vaccine-overhaul-112f5144"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-19-12-53-10 +0000",
+    "source": "cbc",
+    "headline": "At least 19 killed, dozens missing in massive Karachi mall fire",
+    "link": "https://www.cbc.ca/news/world/karachi-mall-fire-pakistan-9.7050907?cmp=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-19-12-43-41 +0000",
+    "source": "nypost",
+    "headline": "Nick Fuentes, Andrew Tate and other vile influencers party to Ye’s ‘Heil Hitler’",
+    "link": "https://nypost.com/2026/01/19/us-news/nick-fuentes-andrew-tate-and-other-influencers-party-to-kanye-wests-heil-hitler/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-19-12-22-36 +0000",
+    "source": "wapo",
+    "headline": "Europeans see alliance at risk as Trump stokes trade war over Greenland",
+    "link": "https://www.washingtonpost.com/world/2026/01/19/europe-trump-greenland-alliance-trade-war/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-19-12-32-53 +0000",
+    "source": "wapo",
+    "headline": "Trial opens in Prince Harry’s case alleging illegal acts by Daily Mail",
+    "link": "https://www.washingtonpost.com/world/2026/01/19/prince-harry-phone-hacking-trial/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-19-12-52-11 +0000",
+    "source": "bbc",
+    "headline": "Are we getting more savvy about our credit scores?",
+    "link": "https://www.bbc.com/news/videos/cvgdmke0pzko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-19-12-55-52 +0000",
+    "source": "bbc",
+    "headline": "Thirteen school pupils in South Africa die after bus collides with lorry",
+    "link": "https://www.bbc.com/news/articles/cvgdmkxl1mko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-19-12-45-50 +0000",
+    "source": "bbc",
+    "headline": "What we know about Spain's worst rail disaster in over a decade",
+    "link": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-19-13-07-38 +0000",
+    "source": "bbc",
+    "headline": "Trade war in no-one's interest, says PM in face of Trump threats",
+    "link": "https://www.bbc.com/news/articles/cvgjkrr4pk0o?at_medium=RSS&at_campaign=rss"
+  }
+]
