@@ -1,7 +1,7 @@
 [
   {
-    "score": 254,
-    "pubdate": "2026-01-19-23-36-24 +0000",
+    "score": 255,
+    "pubdate": "2026-01-20-06-08-01 +0000",
     "source": "bbc",
     "headline": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
     "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss"
@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/spain-high-speed-train-derailment"
   },
   {
-    "score": 82,
+    "score": 81,
     "pubdate": "2026-01-19-09-45-00 +0000",
     "source": "wsj",
     "headline": "A surge in exports powered China’s growth last year, defying expectations that a trade war with the U.S. would hobble the world’s second-biggest economy",
@@ -42,7 +42,7 @@
     "link": "https://www.nytimes.com/2026/01/19/us/politics/columbia-university-protests-culture-trump.html"
   },
   {
-    "score": 50,
+    "score": 51,
     "pubdate": "2026-01-20-01-07-39 +0000",
     "source": "nypost",
     "headline": "Trump cheered by CFP national championship game crowd during national anthem at Indiana-Miami clash",
@@ -50,10 +50,17 @@
   },
   {
     "score": 44,
-    "pubdate": "2026-01-20-04-37-00 +0000",
-    "source": "wsj",
-    "headline": "Japan’s Long-Term Bond Yields Surge as Looming Election Triggers Fiscal Worries",
-    "link": "https://www.wsj.com/economy/japans-long-term-bond-yields-surge-as-looming-election-triggers-fiscal-worries-cbc488d2"
+    "pubdate": "2026-01-19-12-53-10 +0000",
+    "source": "cbc",
+    "headline": "Rescuers search for missing as death toll from Karachi mall fire rises to 23",
+    "link": "https://www.cbc.ca/news/world/karachi-mall-fire-pakistan-9.7050907?cmp=rss"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-01-19-23-57-02 +0000",
+    "source": "nyt",
+    "headline": "Sanae Takaichi, Japan’s Prime Minister, Calls for Snap Election",
+    "link": "https://www.nytimes.com/2026/01/19/world/asia/japan-takaichi-early-election.html"
   },
   {
     "score": 44,
@@ -61,12 +68,5 @@
     "source": "wapo",
     "headline": "Trump ties Greenland takeover bid to Nobel Prize in text to Norway leader",
     "link": "https://www.washingtonpost.com/world/2026/01/19/europe-trump-greenland-alliance-trade-war/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-01-19-12-53-10 +0000",
-    "source": "cbc",
-    "headline": "Rescuers search for missing as death toll from Karachi mall fire rises to 23",
-    "link": "https://www.cbc.ca/news/world/karachi-mall-fire-pakistan-9.7050907?cmp=rss"
   }
 ]
