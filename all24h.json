@@ -1,9 +1,543 @@
 [
   {
+    "headline": "Ukraine's parliament and half of Kyiv with no heating after Russian strikes",
+    "link": "https://www.bbc.com/news/articles/cwy1lpgqenxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-59-40 +0000"
+  },
+  {
+    "headline": "Ukraine's parliament and half of Kyiv with no heating after Russian strikes",
+    "link": "https://www.bbc.com/news/articles/cwy1lpgqenxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-59-40 +0000"
+  },
+  {
+    "headline": "U.S. Shifts Away From Kurdish-Led Forces in Fight Against ISIS",
+    "link": "https://www.nytimes.com/2026/01/20/world/middleeast/syria-isis-camp-al-hol-kurds.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-58-45 +0000"
+  },
+  {
+    "headline": "U.S. Shifts Away From Kurdish-Led Forces in Fight Against ISIS",
+    "link": "https://www.nytimes.com/2026/01/20/world/middleeast/syria-isis-camp-al-hol-kurds.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-58-45 +0000"
+  },
+  {
+    "headline": "Kurdish-led forces pull out of camp for IS families during clashes in Syria",
+    "link": "https://www.bbc.com/news/articles/c4g39w8k8zwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-55-46 +0000"
+  },
+  {
+    "headline": "Kurdish-led forces pull out of camp for IS families during clashes in Syria",
+    "link": "https://www.bbc.com/news/articles/c4g39w8k8zwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-55-46 +0000"
+  },
+  {
+    "headline": "Europe to suspend approval of US tariffs deal",
+    "link": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-54-31 +0000"
+  },
+  {
+    "headline": "Volodymyr Zelensky scraps Davos economic forum headlined by Trump after Russia strikes: ‘I choose Ukraine’",
+    "link": "https://nypost.com/2026/01/20/world-news/volodymyr-zelensky-scraps-davos-economic-forum-after-russia-strikes-in-kyiv/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-53-30 +0000"
+  },
+  {
+    "headline": "Lethal arrows, trophy heads and eating monkeys: Inside the hundreds of ‘uncontacted’ tribes around the world",
+    "link": "https://nypost.com/2026/01/20/world-news/inside-the-hundreds-of-uncontacted-tribes-around-the-world/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-49-17 +0000"
+  },
+  {
+    "headline": "Trump's full messages with European leaders – and what they tell us",
+    "link": "https://www.bbc.com/news/articles/cz7ynwzn8pqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-48-27 +0000"
+  },
+  {
+    "headline": "Trump's full messages with European leaders – and what they tell us",
+    "link": "https://www.bbc.com/news/articles/cz7ynwzn8pqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-48-27 +0000"
+  },
+  {
+    "headline": "For Syria’s Government, Kurdish Deal Is a Big Win on Shaky Ground",
+    "link": "https://www.nytimes.com/2026/01/20/world/middleeast/syria-fighting-kurdish-deal.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-47-44 +0000"
+  },
+  {
+    "headline": "For Syria’s Government, Kurdish Deal Is a Big Win on Shaky Ground",
+    "link": "https://www.nytimes.com/2026/01/20/world/middleeast/syria-fighting-kurdish-deal.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-47-44 +0000"
+  },
+  {
+    "headline": "One day of the ICE operation in Minneapolis — and the activists fighting it",
+    "link": "https://www.washingtonpost.com/nation/2026/01/20/ice-minneapolis-immigration-enforcement-renee-good/",
+    "source": "wapo",
+    "pubdate": "2026-01-20-16-46-04 +0000"
+  },
+  {
+    "headline": "Opinion | China’s Communist Party Tortures Jimmy Lai",
+    "link": "https://www.wsj.com/opinion/chinas-communist-party-tortures-jimmy-lai-6cbb09c8",
+    "source": "wsj",
+    "pubdate": "2026-01-20-16-45-00 +0000"
+  },
+  {
+    "headline": "Opinion | China’s Communist Party Tortures Jimmy Lai",
+    "link": "https://www.wsj.com/opinion/chinas-communist-party-tortures-jimmy-lai-6cbb09c8",
+    "source": "wsj",
+    "pubdate": "2026-01-20-16-45-00 +0000"
+  },
+  {
+    "headline": "Opinion | Evolving Markets Need Evolving Regulation",
+    "link": "https://www.wsj.com/opinion/evolving-markets-need-evolving-regulation-9712dc87?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-20-16-44-00 +0000"
+  },
+  {
+    "headline": "Opinion | A Cheap Midwest Is a Homeownership Myth",
+    "link": "https://www.wsj.com/opinion/a-cheap-midwest-is-a-homeownership-myth-5aad2398",
+    "source": "wsj",
+    "pubdate": "2026-01-20-16-43-00 +0000"
+  },
+  {
+    "headline": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
+    "link": "https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-42-13 +0000"
+  },
+  {
+    "headline": "Opinion | Portland’s Political Disorder",
+    "link": "https://www.wsj.com/opinion/portlands-political-disorder-41510ff5",
+    "source": "wsj",
+    "pubdate": "2026-01-20-16-42-00 +0000"
+  },
+  {
+    "headline": "Opinion | Greenland Votes for the Left",
+    "link": "https://www.wsj.com/opinion/greenland-votes-for-the-left-9432f0dc",
+    "source": "wsj",
+    "pubdate": "2026-01-20-16-41-00 +0000"
+  },
+  {
+    "headline": "Wildfire smoke linked to autism risk in unborn babies, bombshell study finds",
+    "link": "https://nypost.com/2026/01/20/us-news/wildfire-smoke-exposure-during-pregnancy-linked-to-autism-risk-in-children/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-40-19 +0000"
+  },
+  {
+    "headline": "Julia Letlow, Backed by Trump, Enters Louisiana Senate Race to Challenge Bill Cassidy",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/julia-letlow-trump-louisiana-senate-bill-cassidy.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-39-55 +0000"
+  },
+  {
+    "headline": "Julia Letlow, Backed by Trump, Enters Louisiana Senate Race to Challenge Bill Cassidy",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/julia-letlow-trump-louisiana-senate-bill-cassidy.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-39-55 +0000"
+  },
+  {
+    "headline": "Colombia sentences ex-paramilitary leader Mancuso to 40 years in jail",
+    "link": "https://www.bbc.com/news/articles/c338mdg1gn5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-39-01 +0000"
+  },
+  {
+    "headline": "Colombia sentences ex-paramilitary leader Mancuso to 40 years in jail",
+    "link": "https://www.bbc.com/news/articles/c338mdg1gn5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-39-01 +0000"
+  },
+  {
+    "headline": "Ex-president accused of murder plot extradited to Burkina Faso",
+    "link": "https://www.bbc.com/news/articles/cddg5ermzn7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-34-33 +0000"
+  },
+  {
+    "headline": "Ex-president accused of murder plot expelled from Togo to Burkina Faso",
+    "link": "https://www.bbc.com/news/articles/cddg5ermzn7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-34-33 +0000"
+  },
+  {
+    "headline": "7K illegal immigrant gang members busted in first year of Trump’s second term: ‘Make America safe again’",
+    "link": "https://nypost.com/2026/01/20/us-news/7k-illegal-immigrant-gang-members-busted-in-first-year-of-trumps-second-term-make-america-safe-again/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-34-01 +0000"
+  },
+  {
+    "headline": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not to.",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/bessent-powell-supreme-court-fed.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-30-01 +0000"
+  },
+  {
+    "headline": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not to.",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/bessent-powell-supreme-court-fed.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-30-01 +0000"
+  },
+  {
+    "headline": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not to.",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/bessent-powell-supreme-court-fed.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-30-01 +0000"
+  },
+  {
+    "headline": "Bessent Attended a Supreme Court Argument. Now He’s Telling Powell Not to.",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/bessent-powell-supreme-court-fed.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-30-01 +0000"
+  },
+  {
+    "headline": "Top Editor at Axel Springer Is Ousted After Workplace Investigation",
+    "link": "https://www.nytimes.com/2026/01/18/business/media/axel-springer-editor-welt.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-26-17 +0000"
+  },
+  {
+    "headline": "What to Know About California’s Proposed Wealth Tax on Billionaires",
+    "link": "https://www.nytimes.com/2026/01/20/us/california-billionaires-wealth-tax.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-26-12 +0000"
+  },
+  {
+    "headline": "Swan Seeks Mate: Must Like Cold Lake and Small Flock",
+    "link": "https://www.nytimes.com/2026/01/20/us/swan-mates-fundraiser-troy-illinois.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-25-01 +0000"
+  },
+  {
+    "headline": "Islamic State group claims responsibility for Kabul blast that killed 7 in Chinese restaurant",
+    "link": "https://nypost.com/2026/01/20/world-news/islamic-state-group-claims-responsibility-for-kabul-blast-that-killed-7-in-chinese-restaurant/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-22-42 +0000"
+  },
+  {
+    "headline": "Global stocks slide after Trump threatens new tariffs over Greenland",
+    "link": "https://www.washingtonpost.com/business/2026/01/20/stocks-trump-tariffs-greenland/",
+    "source": "wapo",
+    "pubdate": "2026-01-20-16-21-42 +0000"
+  },
+  {
+    "headline": "Rep. Julia Letlow challenges Sen. Bill Cassidy for Senate in wake of Trump endorsement",
+    "link": "https://nypost.com/2026/01/20/us-news/julia-letlow-challenges-bill-cassidy-for-senate-in-wake-of-trump-endorsement/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-17-47 +0000"
+  },
+  {
+    "headline": "Rep. Julia Letlow challenges Sen. Bill Cassidy for Senate in wake of Trump endorsement",
+    "link": "https://nypost.com/2026/01/20/us-news/julia-letlow-challenges-bill-cassidy-for-senate-in-wake-of-trump-endorsement/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-17-47 +0000"
+  },
+  {
+    "headline": "RandBall: What is the Vikings’ Plan C at defensive coordinator?",
+    "link": "https://www.startribune.com/minnesota-vikings-defensive-coordinator-brian-flores-daronte-jones/601567329",
+    "source": "startribune",
+    "pubdate": "2026-01-20-16-17-15 +0000"
+  },
+  {
+    "headline": "Last time the US bought land from Denmark, Epstein’s island was purchased",
+    "link": "https://nypost.com/2026/01/20/us-news/last-time-the-us-bought-land-from-denmark-epsteins-island-was-in-the-mix/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-15-34 +0000"
+  },
+  {
+    "headline": "Last time the US bought land from Denmark, Epstein’s island was purchased",
+    "link": "https://nypost.com/2026/01/20/us-news/last-time-the-us-bought-land-from-denmark-epsteins-island-was-in-the-mix/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-15-34 +0000"
+  },
+  {
+    "headline": "Massive mosquito infestation invades LA neighborhood for months: ‘It’s a nightmare’",
+    "link": "https://nypost.com/2026/01/20/us-news/massive-mosquito-infestation-invades-la-neighborhood-for-months/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-15-04 +0000"
+  },
+  {
+    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
+    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-14-47 +0000"
+  },
+  {
+    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
+    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-14-47 +0000"
+  },
+  {
+    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
+    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-14-47 +0000"
+  },
+  {
+    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
+    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-14-47 +0000"
+  },
+  {
+    "headline": "Stocks and Bonds Fall on Trump’s Greenland Threats",
+    "link": "https://www.nytimes.com/2026/01/20/business/stocks-trump-greenland-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-11-31 +0000"
+  },
+  {
+    "headline": "Trump Heckles Europe Before Heading to Davos",
+    "link": "https://www.nytimes.com/2026/01/20/world/europe/davos-trump-europe.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-08-53 +0000"
+  },
+  {
+    "headline": "Trump Heckles Europe Before Heading to Davos",
+    "link": "https://www.nytimes.com/2026/01/20/world/europe/davos-trump-europe.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-16-08-53 +0000"
+  },
+  {
+    "headline": "Trump’s Fed chair decision could come next week, Treasury Secretary Scott Bessent says",
+    "link": "https://nypost.com/2026/01/20/business/trumps-fed-chair-decision-could-come-next-week-says-treasury-secretary-scott-bessent/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-06-20 +0000"
+  },
+  {
+    "headline": "D.R. Horton Profit Falls as Housing Market Awaits Turnaround",
+    "link": "https://www.wsj.com/business/earnings/d-r-horton-profit-falls-as-housing-market-awaits-turnaround-11385075?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-20-16-04-00 +0000"
+  },
+  {
+    "headline": "What is the UK's Chagos Islands deal and why has Trump criticised it?",
+    "link": "https://www.bbc.com/news/articles/c9dqg3nqynlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-16-01-50 +0000"
+  },
+  {
+    "headline": "Aldi’s $30 Hulken bag dupe is the coveted, new ‘It’ tote of 2026 (Sorry, Trader Joe’s)",
+    "link": "https://nypost.com/2026/01/20/lifestyle/aldis-30-hulken-bag-dupe-is-it-tote-of-2026-sorry-trader-joes/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-16-01-17 +0000"
+  },
+  {
+    "headline": "3 soups that will take the chill off — and be ready in 30 minutes or less",
+    "link": "https://www.startribune.com/3-soups-that-can-be-ready-in-30-minutes-or-less/601564030",
+    "source": "startribune",
+    "pubdate": "2026-01-20-16-00-00 +0000"
+  },
+  {
+    "headline": "Canada’s Prime Minister Says There Has Been a ‘Rupture’ in the World Order",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/carney-davos-speech-world-economic-forum.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-59-12 +0000"
+  },
+  {
+    "headline": "Canada’s Prime Minister Says There Has Been a ‘Rupture’ in the World Order",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/carney-davos-speech-world-economic-forum.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-59-12 +0000"
+  },
+  {
+    "headline": "Don Lemon’s wild war of words with Nicki Minaj over anti-ICE mob storming church",
+    "link": "https://nypost.com/2026/01/20/us-news/don-lemons-wild-war-of-words-with-nicki-minaj-over-his-presence-as-anti-ice-mob-storms-church/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-15-59-00 +0000"
+  },
+  {
+    "headline": "Trump tells The Post why he posted Emmanuel Macron’s private text message — and says he stopped wild Syria prison break by terrorists",
+    "link": "https://nypost.com/2026/01/20/us-news/trump-reveals-why-he-posted-emmanuel-macrons-private-text-message-and-says-he-stopped-wild-syria-prison-break-by-terrorists/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-15-58-06 +0000"
+  },
+  {
+    "headline": "Trump tells The Post why he posted Emmanuel Macron’s private text message — and says he stopped wild Syria prison break by terrorists",
+    "link": "https://nypost.com/2026/01/20/us-news/trump-reveals-why-he-posted-emmanuel-macrons-private-text-message-and-says-he-stopped-wild-syria-prison-break-by-terrorists/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-15-58-06 +0000"
+  },
+  {
+    "headline": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
+    "link": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-57-40 +0000"
+  },
+  {
+    "headline": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
+    "link": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-57-40 +0000"
+  },
+  {
+    "headline": "Mississippi Temple Says There Is More to Its Story Than Facing Hate",
+    "link": "https://www.nytimes.com/2026/01/20/us/mississippi-beth-israel-temple-judaism.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-57-33 +0000"
+  },
+  {
+    "headline": "Filoplumes Are Nature’s Super Feather",
+    "link": "https://www.nytimes.com/2026/01/20/science/birds-feathers-filoplumes-cornell.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-51-38 +0000"
+  },
+  {
+    "headline": "US chess grandmaster Daniel Naroditsky had cocktail of drugs in system at time of death",
+    "link": "https://nypost.com/2026/01/20/us-news/us-chess-grandmaster-daniel-naroditsky-had-cocktail-of-drugs-in-system-at-time-of-mysterious-death-toxicology-report-reveals/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-15-50-47 +0000"
+  },
+  {
     "headline": "UK approves plans for Chinese mega-embassy",
     "link": "https://www.bbc.com/news/articles/cm2xwp37dmgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-20-14-59-10 +0000"
+    "pubdate": "2026-01-20-15-48-22 +0000"
+  },
+  {
+    "headline": "'The old order is not coming back,' Carney says in provocative speech at Davos",
+    "link": "https://www.cbc.ca/news/politics/carney-davos-speech-9.7052725?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-20-15-48-10 +0000"
+  },
+  {
+    "headline": "A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle",
+    "link": "https://www.nytimes.com/2026/01/20/business/davos-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-41-28 +0000"
+  },
+  {
+    "headline": "A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle",
+    "link": "https://www.nytimes.com/2026/01/20/business/davos-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-41-28 +0000"
+  },
+  {
+    "headline": "A.I., Big Tech and Trump Shine Most Brightly at the Davos Spectacle",
+    "link": "https://www.nytimes.com/2026/01/20/business/davos-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-41-28 +0000"
+  },
+  {
+    "headline": "Machete-wielding maniac terrorizes teen for wearing 49ers jersey: ‘Get that red off’",
+    "link": "https://nypost.com/2026/01/20/us-news/machete-wielding-maniac-terrorizes-pomona-teen-for-wearing-49ers-jersey/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-15-34-32 +0000"
+  },
+  {
+    "headline": "US officials probing Minnesota ICE protest that disrupted church service",
+    "link": "https://www.bbc.com/news/articles/c3wz93gwj8qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-15-32-00 +0000"
+  },
+  {
+    "headline": "Why does Trump want Greenland and what could it mean for Nato and the EU?",
+    "link": "https://www.bbc.com/news/articles/c74x4m71pmjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-15-31-17 +0000"
+  },
+  {
+    "headline": "Congress moves toward funding government, dodging shutdown",
+    "link": "https://www.washingtonpost.com/business/2026/01/20/government-funding-agreement-shutdown/",
+    "source": "wapo",
+    "pubdate": "2026-01-20-15-30-35 +0000"
+  },
+  {
+    "headline": "‘Make America Go Away’ Caps Surge in Popularity as Trump Eyes Greenland",
+    "link": "https://www.nytimes.com/2026/01/20/us/make-america-go-away-hats-greenland-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-28-45 +0000"
+  },
+  {
+    "headline": "UK considering its own Australia-style, teen social media ban: ‘No option off the table’",
+    "link": "https://nypost.com/2026/01/20/world-news/uk-considering-own-australia-style-teen-social-media-ban/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-15-16-37 +0000"
+  },
+  {
+    "headline": "Tory MS kicked out of party for 'talking to Reform'",
+    "link": "https://www.bbc.com/news/videos/cg7yv0yvljdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-15-15-25 +0000"
+  },
+  {
+    "headline": "Environment Secretary: South East Water boss 'should not get bonus'",
+    "link": "https://www.bbc.com/news/articles/czjgp89le7do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-15-12-51 +0000"
+  },
+  {
+    "headline": "Australia parliament passes gun reform and anti-hate bills after Bondi shooting",
+    "link": "https://www.bbc.com/news/articles/c20ge5qwdl2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-15-11-35 +0000"
+  },
+  {
+    "headline": "U.S. to Press Ahead With EU Trade Deal Despite Opposition, Bessent Says",
+    "link": "https://www.wsj.com/economy/trade/u-s-to-press-ahead-with-eu-trade-deal-despite-opposition-bessent-says-1673a43f",
+    "source": "wsj",
+    "pubdate": "2026-01-20-15-11-00 +0000"
+  },
+  {
+    "headline": "U.S. to Press Ahead With EU Trade Deal Despite Opposition, Bessent Says",
+    "link": "https://www.wsj.com/economy/trade/u-s-to-press-ahead-with-eu-trade-deal-despite-opposition-bessent-says-1673a43f",
+    "source": "wsj",
+    "pubdate": "2026-01-20-15-11-00 +0000"
+  },
+  {
+    "headline": "Netflix updates Warner Bros bid to all-cash offer",
+    "link": "https://www.bbc.com/news/articles/cq5yqzy5d8yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-15-09-09 +0000"
+  },
+  {
+    "headline": "Gold Rises Further as Greenland Standoff Fuels Haven Demand",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-likely-technical-correction-fb3780e1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-20-15-07-00 +0000"
+  },
+  {
+    "headline": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
+    "link": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-06-55 +0000"
+  },
+  {
+    "headline": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
+    "link": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-06-55 +0000"
+  },
+  {
+    "headline": "Trump Threatens 200% Tariffs on Wine if France Declines to Join Gaza Board of Peace",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-04-12 +0000"
+  },
+  {
+    "headline": "Trump Threatens 200% Tariffs on Wine if France Declines to Join Gaza Board of Peace",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-04-12 +0000"
+  },
+  {
+    "headline": "President Trump’s Chosen Artist? A Christian Speed Painter.",
+    "link": "https://www.nytimes.com/2026/01/20/arts/design/christian-speed-painter-vanessa-horabuena.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-15-00-11 +0000"
+  },
+  {
+    "headline": "Cow astonishes scientists with rare use of tools",
+    "link": "https://www.bbc.com/news/articles/cj0n127y74go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-14-54-29 +0000"
   },
   {
     "headline": "Cow astonishes scientists with rare use of tools",
@@ -30,34 +564,16 @@
     "pubdate": "2026-01-20-14-50-13 +0000"
   },
   {
+    "headline": "Newsom slams world leaders for Trump response at elite Davos summit: ‘I should have brought a bunch of kneepads’",
+    "link": "https://nypost.com/2026/01/20/us-news/newsom-slams-world-leaders-for-trump-response-at-davos-summit/",
+    "source": "nypost",
+    "pubdate": "2026-01-20-14-50-13 +0000"
+  },
+  {
     "headline": "Katy Perry joins Trudeau in Davos to support former PM's speech on value of 'soft power'",
     "link": "https://www.cbc.ca/news/politics/katy-perry-justin-trudeau-davos-soft-power-9.7052559?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-20-14-49-52 +0000"
-  },
-  {
-    "headline": "Spain Scrutinizes Break in Track After 2 Trains Collide, Killing 40",
-    "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment",
-    "source": "nyt",
-    "pubdate": "2026-01-20-14-48-00 +0000"
-  },
-  {
-    "headline": "Gold, Silver Prices Vault to New Highs on U.S.-Europe Tensions",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-likely-technical-correction-fb3780e1?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-20-14-46-00 +0000"
-  },
-  {
-    "headline": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
-    "link": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-14-44-35 +0000"
-  },
-  {
-    "headline": "As Spain Mourns Train Crash Victims, Investigators Focus on Track",
-    "link": "https://www.nytimes.com/2026/01/20/world/europe/spain-train-crash-track-investigation.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-14-44-35 +0000"
   },
   {
     "headline": "EU boss dramatically calls for ‘permanent’ independence from US over Trump’s Greenland threats",
@@ -76,6 +592,12 @@
     "link": "https://www.bbc.com/news/articles/cd0ykeze3xvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-20-14-38-54 +0000"
+  },
+  {
+    "headline": "France makes first interception targeting small boat crossings to UK",
+    "link": "https://www.bbc.com/news/articles/ceqz1lzdxw1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-20-14-37-58 +0000"
   },
   {
     "headline": "France makes first interception targeting small boat crossings to UK",
@@ -118,18 +640,6 @@
     "link": "https://www.bbc.com/news/articles/c5y2qjy9l4yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-20-14-28-55 +0000"
-  },
-  {
-    "headline": "U.S. to Press Ahead With EU Trade Deal Despite Opposition, Bessent Says",
-    "link": "https://www.wsj.com/economy/trade/u-s-to-press-ahead-with-eu-trade-deal-despite-opposition-bessent-says-1673a43f",
-    "source": "wsj",
-    "pubdate": "2026-01-20-14-27-00 +0000"
-  },
-  {
-    "headline": "U.S. to Press Ahead With EU Trade Deal Despite Opposition, Bessent Says",
-    "link": "https://www.wsj.com/economy/trade/u-s-to-press-ahead-with-eu-trade-deal-despite-opposition-bessent-says-1673a43f",
-    "source": "wsj",
-    "pubdate": "2026-01-20-14-27-00 +0000"
   },
   {
     "headline": "Minnesota BLM leader brags about helping to organize church protest — and compares them to Jesus",
@@ -204,12 +714,6 @@
     "pubdate": "2026-01-20-14-10-00 +0000"
   },
   {
-    "headline": "Kurdish-led forces pull out of camp for IS families during clashes in Syria",
-    "link": "https://www.bbc.com/news/articles/c4g39w8k8zwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-14-02-43 +0000"
-  },
-  {
     "headline": "U.S. Natural Gas Futures Extend Gains on Big Freeze",
     "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-on-colder-weather-low-storage-levels-1e63eee6?mod=rss_markets_main",
     "source": "wsj",
@@ -264,18 +768,6 @@
     "pubdate": "2026-01-20-13-32-35 +0000"
   },
   {
-    "headline": "For Syria’s Government, Kurdish Deal Is a Big Win",
-    "link": "https://www.nytimes.com/2026/01/20/world/middleeast/for-syrias-government-kurdish-deal-is-a-big-win.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-13-30-16 +0000"
-  },
-  {
-    "headline": "For Syria’s Government, Kurdish Deal Is a Big Win",
-    "link": "https://www.nytimes.com/2026/01/20/world/middleeast/for-syrias-government-kurdish-deal-is-a-big-win.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-13-30-16 +0000"
-  },
-  {
     "headline": "‘Morally acceptable’ for U.S. troops to disobey orders, archbishop says",
     "link": "https://www.washingtonpost.com/world/2026/01/20/us-trump-greenland-military-church-disobey/",
     "source": "wapo",
@@ -298,12 +790,6 @@
     "link": "https://www.bbc.com/news/videos/c3ed04vn83qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-20-13-25-43 +0000"
-  },
-  {
-    "headline": "Global stocks slide after Trump threatens new tariffs over Greenland",
-    "link": "https://www.washingtonpost.com/business/2026/01/20/stocks-trump-tariffs-greenland/",
-    "source": "wapo",
-    "pubdate": "2026-01-20-13-24-40 +0000"
   },
   {
     "headline": "UN condemns Israel's 'unprecedented' demolition of its Palestinian aid agency building in East Jerusalem",
@@ -360,16 +846,16 @@
     "pubdate": "2026-01-20-13-04-00 +0000"
   },
   {
-    "headline": "‘Make America Go Away’ Caps Surge in Popularity as Trump Eyes Greenland",
-    "link": "https://www.nytimes.com/2026/01/20/us/make-america-go-away-hats-greenland-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-13-03-08 +0000"
-  },
-  {
     "headline": "Warner Bros. Discovery accepts Netflix’s amended all-cash $72B offer, agrees to sell its studios and streaming business for $27.75 a share",
     "link": "https://nypost.com/2026/01/20/business/warner-bros-discovery-accepts-netflixs-amended-all-cash-72b-offer-agrees-to-sell-its-studios-and-streaming-business-for-27-75-a-share/",
     "source": "nypost",
     "pubdate": "2026-01-20-12-57-19 +0000"
+  },
+  {
+    "headline": "Warner Strikes New All-Cash Deal With Netflix",
+    "link": "https://www.wsj.com/business/media/warner-strikes-new-all-cash-deal-with-netflix-85e29099?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-20-12-56-00 +0000"
   },
   {
     "headline": "Warner Strikes New All-Cash Deal With Netflix",
@@ -384,18 +870,6 @@
     "pubdate": "2026-01-20-12-51-03 +0000"
   },
   {
-    "headline": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
-    "link": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-12-49-37 +0000"
-  },
-  {
-    "headline": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
-    "link": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-12-49-37 +0000"
-  },
-  {
     "headline": "Church Leaders Say Over 160 Were Kidnapped in Nigeria, but Officials Deny It",
     "link": "https://www.nytimes.com/2026/01/20/world/africa/nigeria-christian-church-kidnapping.html",
     "source": "nyt",
@@ -418,12 +892,6 @@
     "link": "https://www.nytimes.com/2026/01/19/us/politics/cubans-florida-deportations-trump.html",
     "source": "nyt",
     "pubdate": "2026-01-20-12-47-39 +0000"
-  },
-  {
-    "headline": "Russian strikes again leave half of Kyiv with no heating in winter cold snap",
-    "link": "https://www.bbc.com/news/articles/cwy1lpgqenxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-12-44-19 +0000"
   },
   {
     "headline": "New Hampshire bishop warns of ‘new era of martyrdom’ after Minnesota ICE shooting",
@@ -448,30 +916,6 @@
     "link": "https://www.wsj.com/business/leggett-platt-enters-non-disclosure-agreement-with-suitor-somnigroup-65f9e81b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-20-12-30-00 +0000"
-  },
-  {
-    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
-    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-12-24-29 +0000"
-  },
-  {
-    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
-    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-12-24-29 +0000"
-  },
-  {
-    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
-    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-12-24-29 +0000"
-  },
-  {
-    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
-    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-12-24-29 +0000"
   },
   {
     "headline": "3M Sees Faster Revenue Growth in 2026 After Strong 4th-Quarter Sales",
@@ -534,12 +978,6 @@
     "pubdate": "2026-01-20-12-05-34 +0000"
   },
   {
-    "headline": "D.R. Horton Profit Falls as Housing Market Awaits Turnaround",
-    "link": "https://www.wsj.com/business/earnings/d-r-horton-profit-falls-as-housing-market-awaits-turnaround-11385075?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-20-12-05-00 +0000"
-  },
-  {
     "headline": "German Financial Sentiment Climbs as Industrial Sector Turns a Corner",
     "link": "https://www.wsj.com/economy/german-financial-sentiment-climbs-as-industrial-sector-turns-a-corner-6479deba",
     "source": "wsj",
@@ -572,12 +1010,6 @@
   {
     "headline": "Edina’s newest cocktail den comes with a vinyl soundtrack",
     "link": "https://www.startribune.com/restaurant-news-noma-hi-fi-bar-harmony-mavericks-pizza/601564031",
-    "source": "startribune",
-    "pubdate": "2026-01-20-12-00-00 +0000"
-  },
-  {
-    "headline": "Yuen: Fighting dementia, the Sandwich Man keeps feeding Minneapolis",
-    "link": "https://www.startribune.com/allan-law-sandwich-man-dementia-love-one-another-minneapolis-development-recreation/601559924",
     "source": "startribune",
     "pubdate": "2026-01-20-12-00-00 +0000"
   },
@@ -660,12 +1092,6 @@
     "pubdate": "2026-01-20-11-41-00 +0000"
   },
   {
-    "headline": "Fraud concerns delay funding for above-board home care providers",
-    "link": "https://www.startribune.com/home-care-programs-warn-funding-delays-amid-fraud-scandal-is-forcing-legit-providers-to-close/601563381",
-    "source": "startribune",
-    "pubdate": "2026-01-20-11-30-00 +0000"
-  },
-  {
     "headline": "Energy & Utilities Roundup: Market Talk",
     "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-348cd712?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -720,18 +1146,6 @@
     "pubdate": "2026-01-20-11-16-13 +0000"
   },
   {
-    "headline": "What is the UK's Chagos Islands deal and why has Trump criticised it?",
-    "link": "https://www.bbc.com/news/articles/c9dqg3nqynlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-11-10-36 +0000"
-  },
-  {
-    "headline": "US officials probing Minnesota ICE protest that disrupted church service",
-    "link": "https://www.bbc.com/news/articles/c3wz93gwj8qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-11-02-45 +0000"
-  },
-  {
     "headline": "Market Reaction to Greenland Tensions Has Been Muted, BOE’s Bailey Says",
     "link": "https://www.wsj.com/articles/market-reaction-to-greenland-tensions-has-been-muted-boes-bailey-says-936c8ed7",
     "source": "wsj",
@@ -750,32 +1164,14 @@
     "pubdate": "2026-01-20-11-00-52 +0000"
   },
   {
-    "headline": "Hochul’s record-high $260B NYS budget proposal includes no tax hike for now",
-    "link": "https://nypost.com/2026/01/20/us-news/hochuls-record-high-260b-nys-budget-proposal-includes-no-tax-hike-for-now/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-11-00-00 +0000"
-  },
-  {
-    "headline": "NYC campus activists peddle propaganda directly from Hamas: terrifying report",
-    "link": "https://nypost.com/2026/01/20/us-news/nyc-campus-activists-peddle-propaganda-directly-from-hamas-terrifying-report/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-11-00-00 +0000"
-  },
-  {
-    "headline": "NYC drivers hit with record number of tickets for maddening parking scam — we reveal the worst borough",
-    "link": "https://nypost.com/2026/01/20/us-news/nyc-drivers-hit-with-record-number-of-tickets-in-parking-scam-and-this-borough-is-worst/",
+    "headline": "Wall Street banker-turned-reality star launches bid for Democrat Mark Warner’s Senate seat in Virginia",
+    "link": "https://nypost.com/2026/01/20/us-news/reality-star-mark-moran-eyes-mark-warners-senate-seat/",
     "source": "nypost",
     "pubdate": "2026-01-20-11-00-00 +0000"
   },
   {
     "headline": "After unseasonably warm winter weather, temperatures to cool this week across Southland",
     "link": "https://www.latimes.com/california/story/2026-01-20/after-warm-weather-temperatures-to-cool-this-week-across-southland",
-    "source": "latimes",
-    "pubdate": "2026-01-20-11-00-00 +0000"
-  },
-  {
-    "headline": "San Diego shows what happens when a city actually lets builders build",
-    "link": "https://www.latimes.com/business/story/2026-01-20/san-diego-leads-california-cities-in-apartment-construction",
     "source": "latimes",
     "pubdate": "2026-01-20-11-00-00 +0000"
   },
@@ -789,6 +1185,12 @@
     "headline": "Olson: ‘F------ b----’: What two words tell us about ICE and violence against women",
     "link": "https://www.startribune.com/minneapolis-ice-shooting-renee-good-jonathan-ross/601565463",
     "source": "startribune",
+    "pubdate": "2026-01-20-11-00-00 +0000"
+  },
+  {
+    "headline": "Wall Street banker-turned-reality star launches bid for Democrat Mark Warner’s Senate seat in Virginia",
+    "link": "https://nypost.com/2026/01/20/us-news/reality-star-mark-moran-eyes-mark-warners-senate-seat/",
+    "source": "nypost",
     "pubdate": "2026-01-20-11-00-00 +0000"
   },
   {
@@ -1002,12 +1404,6 @@
     "pubdate": "2026-01-20-10-01-50 +0000"
   },
   {
-    "headline": "President Trump’s Chosen Artist? A Christian Speed Painter.",
-    "link": "https://www.nytimes.com/2026/01/20/arts/design/christian-speed-painter-vanessa-horabuena.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-10-00-50 +0000"
-  },
-  {
     "headline": "‘House burping’ is a cold reality in Germany. Americans are warming to it.",
     "link": "https://www.washingtonpost.com/world/2026/01/20/luften-open-windows-house-burping/",
     "source": "wapo",
@@ -1048,18 +1444,6 @@
     "link": "https://www.wsj.com/economy/trade/this-trade-war-would-be-unlike-any-other-4e1a2a44",
     "source": "wsj",
     "pubdate": "2026-01-20-10-00-00 +0000"
-  },
-  {
-    "headline": "Read Trump's full messages with European leaders – and what they tell us",
-    "link": "https://www.bbc.com/news/articles/cz7ynwzn8pqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-09-58-53 +0000"
-  },
-  {
-    "headline": "Read Trump's full messages with European leaders – and what they tell us",
-    "link": "https://www.bbc.com/news/articles/cz7ynwzn8pqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-09-58-53 +0000"
   },
   {
     "headline": "What We Know About the Deadly High-Speed Train Crash in Spain",
@@ -1104,40 +1488,22 @@
     "pubdate": "2026-01-20-09-43-17 +0000"
   },
   {
-    "headline": "Trump Threatens 200% Tariffs on Wine if France Declines to Join Gaza Board of Peace",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-09-22-11 +0000"
-  },
-  {
-    "headline": "Trump Threatens 200% Tariffs on Wine if France Declines to Join Gaza Board of Peace",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-09-22-11 +0000"
-  },
-  {
     "headline": "TotalEnergies’ Production Increase to Soften Hit of Weaker Prices",
     "link": "https://www.wsj.com/business/energy-oil/totalenergies-production-increase-to-soften-hit-of-weaker-prices-b1d7e97a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-20-09-18-00 +0000"
   },
   {
-    "headline": "Trump threatens 200% tariffs on French wines to get Macron on Board of Peace",
-    "link": "https://nypost.com/2026/01/20/us-news/trump-threatens-200-tariffs-on-french-wines-and-champagnes/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-09-14-31 +0000"
+    "headline": "The Chinese Island Where Dreams of Real Estate Glory Never Die",
+    "link": "https://www.nytimes.com/2026/01/20/world/asia/china-ocean-flower-island-real-estate.html",
+    "source": "nyt",
+    "pubdate": "2026-01-20-09-09-43 +0000"
   },
   {
     "headline": "The Chinese Island Where Dreams of Real Estate Glory Never Die",
     "link": "https://www.nytimes.com/2026/01/20/world/asia/china-ocean-flower-island-real-estate.html",
     "source": "nyt",
-    "pubdate": "2026-01-20-09-09-42 +0000"
-  },
-  {
-    "headline": "The Chinese Island Where Dreams of Real Estate Glory Never Die",
-    "link": "https://www.nytimes.com/2026/01/20/world/asia/china-ocean-flower-island-real-estate.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-09-09-42 +0000"
+    "pubdate": "2026-01-20-09-09-43 +0000"
   },
   {
     "headline": "Read the Texts Between Trump and Norway’s Prime Minister",
@@ -1218,12 +1584,6 @@
     "pubdate": "2026-01-20-08-23-00 +0000"
   },
   {
-    "headline": "Trump calls UK’s Chagos deal with Mauritius an ‘act of total weakness’",
-    "link": "https://nypost.com/2026/01/20/us-news/trump-calls-uks-chagos-deal-with-mauritius-an-act-of-total-weakness/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-08-10-29 +0000"
-  },
-  {
     "headline": "Confronted over Greenland, Europe is ditching its softly-softly approach to Trump",
     "link": "https://www.bbc.com/news/articles/c0lx7j1lrwro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1240,12 +1600,6 @@
     "link": "https://www.bbc.com/news/articles/c0lx7j1lrwro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-20-08-09-03 +0000"
-  },
-  {
-    "headline": "Filoplumes Are Nature’s Super Feather",
-    "link": "https://www.nytimes.com/2026/01/20/science/birds-feathers-filoplumes-cornell.html",
-    "source": "nyt",
-    "pubdate": "2026-01-20-08-00-16 +0000"
   },
   {
     "headline": "Palestinian children's football pitch faces Israeli demolition ultimatum",
@@ -1303,7 +1657,7 @@
   },
   {
     "headline": "President Trump has ramped up pressure on European leaders in an attempt to wrest Greenland, the world’s largest island, into U.S. control",
-    "link": "https://www.wsj.com/politics/elections/why-an-emboldened-trump-set-his-sights-on-greenland-538c67b7",
+    "link": "https://www.wsj.com/politics/policy/why-an-emboldened-trump-set-his-sights-on-greenland-538c67b7",
     "source": "wsj",
     "pubdate": "2026-01-20-06-39-00 +0000"
   },
@@ -1392,12 +1746,6 @@
     "pubdate": "2026-01-20-04-20-47 +0000"
   },
   {
-    "headline": "Judge and his wife shot inside suburban Indiana home, shooter remains at large",
-    "link": "https://nypost.com/2026/01/19/us-news/judge-and-his-wife-shot-inside-suburban-indiana-home-shooter-remains-at-large/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-04-18-03 +0000"
-  },
-  {
     "headline": "Iranian Protester Tells of an Uprising Violently Suppressed",
     "link": "https://www.wsj.com/world/middle-east/iranian-protester-tells-of-an-uprising-violently-suppressed-c9a66656",
     "source": "wsj",
@@ -1420,18 +1768,6 @@
     "link": "https://www.wsj.com/world/middle-east/iranian-protester-tells-of-an-uprising-violently-suppressed-c9a66656",
     "source": "wsj",
     "pubdate": "2026-01-20-04-00-00 +0000"
-  },
-  {
-    "headline": "Grammy-nominated country singer Lee Brice begs for help in search for family’s lost pregnant dog",
-    "link": "https://nypost.com/2026/01/19/us-news/grammy-nominated-country-singer-begs-for-help-in-search-for-familys-lost-pregnant-dog/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-03-39-42 +0000"
-  },
-  {
-    "headline": "Denmark deploys extra troops to Greenland as Trump ramps up focus on territory",
-    "link": "https://nypost.com/2026/01/19/world-news/denmark-deploys-extra-troops-to-greenland-as-trump-ramps-up-focus-on-island/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-03-34-28 +0000"
   },
   {
     "headline": "Denmark deploys extra troops to Greenland as Trump ramps up focus on territory",
@@ -1464,12 +1800,6 @@
     "pubdate": "2026-01-20-03-20-59 +0000"
   },
   {
-    "headline": "40-year-old stabbed, officer assaulted after brawl erupts at LA’s MLK Day Parade: cops, report",
-    "link": "https://nypost.com/2026/01/19/us-news/brawl-breaks-out-at-las-mlk-day-parade-person-possibly-stabbed/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-03-15-28 +0000"
-  },
-  {
     "headline": "China’s CTG Duty Free to Buy LVMH’s DFS Greater China Stores",
     "link": "https://www.wsj.com/business/retail/chinas-ctg-duty-free-to-buy-lvmhs-dfs-greater-china-stores-e525197c?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1480,18 +1810,6 @@
     "link": "https://www.cbc.ca/player/play/9.7052374?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-20-03-07-56 +0000"
-  },
-  {
-    "headline": "Convicted thief who penned autobiography on past heists accused of robbing another bank",
-    "link": "https://nypost.com/2026/01/19/us-news/convicted-thief-who-penned-autobiography-on-past-heists-accused-of-robbing-another-bank/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-02-34-32 +0000"
-  },
-  {
-    "headline": "Don Lemon blasts Minnesota churchgoers harassed by anti-ICE protesters for ‘entitlement’ and ‘white supremacy’",
-    "link": "https://nypost.com/2026/01/19/us-news/don-lemon-blasts-minnesota-churchgoers-harassed-by-anti-ice-protesters-for-white-supremacy/",
-    "source": "nypost",
-    "pubdate": "2026-01-20-02-19-49 +0000"
   },
   {
     "headline": "Magnitude 4.9 earthquake recorded near Indio",
@@ -1540,12 +1858,6 @@
     "link": "https://www.washingtonpost.com/immigration/2026/01/19/minnesota-church-anti-ice-protest/",
     "source": "wapo",
     "pubdate": "2026-01-20-01-54-23 +0000"
-  },
-  {
-    "headline": "Goodbye gator, see you later: San Francisco mourns its beloved albino alligator",
-    "link": "https://www.bbc.com/news/articles/c62r0y2nkllo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-01-53-40 +0000"
   },
   {
     "headline": "Goodbye gator, see you later: San Francisco mourns its beloved albino alligator",
@@ -1689,19 +2001,19 @@
     "headline": "Pastor Travis Johnson Credits Trump for Reviving Evangelicalism",
     "link": "https://www.nytimes.com/2026/01/19/us/politics/pastor-travis-johnson-evangelicalism-alabama.html",
     "source": "nyt",
-    "pubdate": "2026-01-20-01-40-40 +0000"
+    "pubdate": "2026-01-20-01-40-41 +0000"
   },
   {
     "headline": "Pastor Travis Johnson Credits Trump for Reviving Evangelicalism",
     "link": "https://www.nytimes.com/2026/01/19/us/politics/pastor-travis-johnson-evangelicalism-alabama.html",
     "source": "nyt",
-    "pubdate": "2026-01-20-01-40-40 +0000"
+    "pubdate": "2026-01-20-01-40-41 +0000"
   },
   {
     "headline": "Wintry Weather Leads to 100-Vehicle Pileup on Interstate in Michigan",
     "link": "https://www.nytimes.com/2026/01/19/us/michigan-interstate-traffic-pileup.html",
     "source": "nyt",
-    "pubdate": "2026-01-20-01-38-29 +0000"
+    "pubdate": "2026-01-20-01-38-30 +0000"
   },
   {
     "headline": "Hackers disrupt Iran state TV to broadcast pro-monarch, anti-crackdown message",
@@ -1767,13 +2079,13 @@
     "headline": "Protest at Minnesota Church Service Adds to Tensions Over ICE Tactics",
     "link": "https://www.nytimes.com/2026/01/19/us/politics/minnesota-church-protest-ice.html",
     "source": "nyt",
-    "pubdate": "2026-01-20-00-57-33 +0000"
+    "pubdate": "2026-01-20-00-57-34 +0000"
   },
   {
     "headline": "Protest at Minnesota Church Service Adds to Tensions Over ICE Tactics",
     "link": "https://www.nytimes.com/2026/01/19/us/politics/minnesota-church-protest-ice.html",
     "source": "nyt",
-    "pubdate": "2026-01-20-00-57-33 +0000"
+    "pubdate": "2026-01-20-00-57-34 +0000"
   },
   {
     "headline": "At the Center of Trump’s Vision for Rebuilding Ukraine: BlackRock",
@@ -1800,13 +2112,13 @@
     "pubdate": "2026-01-20-00-31-00 +0000"
   },
   {
-    "headline": "Nigeria's renowned master wood carver and the Yoruba fertility goddess",
+    "headline": "Nigeria's renowned master wood carver and the fertility goddess",
     "link": "https://www.bbc.com/news/articles/cgqelez1kwwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-20-00-30-47 +0000"
   },
   {
-    "headline": "Nigeria's renowned master wood carver and the Yoruba fertility goddess",
+    "headline": "Nigeria's renowned master wood carver and the fertility goddess",
     "link": "https://www.bbc.com/news/articles/cgqelez1kwwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-20-00-30-47 +0000"
@@ -1828,12 +2140,6 @@
     "link": "https://www.nytimes.com/2026/01/19/world/europe/trump-greenland-europe-nato-alliance.html",
     "source": "nyt",
     "pubdate": "2026-01-20-00-18-56 +0000"
-  },
-  {
-    "headline": "Ros Atkins on...President Trump's year in numbers",
-    "link": "https://www.bbc.com/news/videos/cvgpr95npplo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-20-00-08-41 +0000"
   },
   {
     "headline": "Ros Atkins on...President Trump's year in numbers",
@@ -1942,12 +2248,6 @@
     "link": "https://www.wsj.com/articles/eurozone-finance-ministers-back-croatias-vujcic-as-next-ecb-vice-president-c37126b0",
     "source": "wsj",
     "pubdate": "2026-01-19-23-45-00 +0000"
-  },
-  {
-    "headline": "European Allies Mull Retaliation Over Trump’s Greenland Threats",
-    "link": "https://www.nytimes.com/2026/01/19/us/politics/starmer-uk-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-19-23-43-40 +0000"
   },
   {
     "headline": "She helped him flee a rally, then learned he was a right-wing provocateur",
@@ -2082,7 +2382,7 @@
     "pubdate": "2026-01-19-22-23-38 +0000"
   },
   {
-    "headline": "DSA mayoral wannabe melts down on air, snaps at reporter after bungling basic LA facts",
+    "headline": "Woke wannabe LA mayor melts down on air, snaps at reporter after bungling basic facts — including her own age",
     "link": "https://nypost.com/2026/01/19/us-news/dsa-backed-la-mayoral-hopeful-snaps-on-radio-flubs-basic-facts/",
     "source": "nypost",
     "pubdate": "2026-01-19-22-18-46 +0000"
@@ -2094,36 +2394,6 @@
     "pubdate": "2026-01-19-22-17-41 +0000"
   },
   {
-    "headline": "Opinion | Mayor Frey’s Season of ‘Love’",
-    "link": "https://www.wsj.com/opinion/mayor-freys-season-of-love-f63fbded",
-    "source": "wsj",
-    "pubdate": "2026-01-19-22-06-00 +0000"
-  },
-  {
-    "headline": "Opinion | Davos Men Create Hard Times",
-    "link": "https://www.wsj.com/opinion/davos-men-create-hard-times-ab916c68",
-    "source": "wsj",
-    "pubdate": "2026-01-19-22-05-00 +0000"
-  },
-  {
-    "headline": "Opinion | Davos Men Create Hard Times",
-    "link": "https://www.wsj.com/opinion/davos-men-create-hard-times-ab916c68",
-    "source": "wsj",
-    "pubdate": "2026-01-19-22-05-00 +0000"
-  },
-  {
-    "headline": "Opinion | With His Pen, Trump Can Save Cubans",
-    "link": "https://www.wsj.com/opinion/with-his-pen-trump-can-save-cubans-df400ea3",
-    "source": "wsj",
-    "pubdate": "2026-01-19-22-03-00 +0000"
-  },
-  {
-    "headline": "Opinion | With His Pen, Trump Can Save Cubans",
-    "link": "https://www.wsj.com/opinion/with-his-pen-trump-can-save-cubans-df400ea3",
-    "source": "wsj",
-    "pubdate": "2026-01-19-22-03-00 +0000"
-  },
-  {
     "headline": "Photos show first flight of deported Venezuelan migrants to Caracas after Nicolas Maduro’s capture",
     "link": "https://nypost.com/2026/01/19/us-news/photos-show-first-flight-of-deported-venezuelan-migrants-to-caracas-after-nicolas-maduros-capture/",
     "source": "nypost",
@@ -2133,7 +2403,7 @@
     "headline": "A Smaller Version of the Sphere in Las Vegas Is Planned for Maryland",
     "link": "https://www.nytimes.com/2026/01/19/us/sphere-maryland-national-harbor.html",
     "source": "nyt",
-    "pubdate": "2026-01-19-21-28-49 +0000"
+    "pubdate": "2026-01-19-21-28-50 +0000"
   },
   {
     "headline": "American imprisoned in Russia after sailing over in yacht with rifle to meet woman he met online",
@@ -2247,13 +2517,7 @@
     "headline": "Survivors of Deadly Train Crash in Spain Describe Hellish Scenes",
     "link": "https://www.nytimes.com/2026/01/19/world/europe/spain-train-crash-survivors.html",
     "source": "nyt",
-    "pubdate": "2026-01-19-20-46-30 +0000"
-  },
-  {
-    "headline": "Survivors of Deadly Train Crash in Spain Describe Hellish Scenes",
-    "link": "https://www.nytimes.com/2026/01/19/world/europe/spain-train-crash-survivors.html",
-    "source": "nyt",
-    "pubdate": "2026-01-19-20-46-30 +0000"
+    "pubdate": "2026-01-19-20-46-31 +0000"
   },
   {
     "headline": "French Prime Minister Sébastien Lecornu Says He Will Pass Budget Without a Vote",
@@ -2358,12 +2622,6 @@
     "pubdate": "2026-01-19-18-48-04 +0000"
   },
   {
-    "headline": "Environment Secretary: South East Water boss 'should not get bonus'",
-    "link": "https://www.bbc.com/news/articles/czjgp89le7do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-19-18-36-11 +0000"
-  },
-  {
     "headline": "European stocks fall sharply after Trump threatens tariffs over Greenland",
     "link": "https://nypost.com/2026/01/19/business/european-stocks-fall-after-trump-threatens-tariffs-over-greenland/",
     "source": "nypost",
@@ -2410,12 +2668,6 @@
     "link": "https://www.bbc.com/news/articles/cdx4rpxxvg7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-19-18-00-48 +0000"
-  },
-  {
-    "headline": "Trump says ‘Squad’ Rep. Omar should be jailed or deported: ‘MAKE SOMALIA GREAT AGAIN!’",
-    "link": "https://nypost.com/2026/01/19/us-news/trump-says-squad-rep-omar-should-be-jailed-or-deported-make-somalia-great-again/",
-    "source": "nypost",
-    "pubdate": "2026-01-19-18-00-34 +0000"
   },
   {
     "headline": "Explaining California's billionaire tax: The proposals, the backlash and the exodus",
@@ -2526,129 +2778,9 @@
     "pubdate": "2026-01-19-17-07-37 +0000"
   },
   {
-    "headline": "Elon Musk backs Kentucky GOP Senate candidate Nate Morris with $10M donation",
-    "link": "https://nypost.com/2026/01/19/us-news/elon-musk-backs-kentucky-gop-senate-candidate-nate-morris-with-10m-donation/",
-    "source": "nypost",
-    "pubdate": "2026-01-19-17-05-48 +0000"
-  },
-  {
     "headline": "Trump Has an Offramp on Greenland. He Doesn’t Seem to Want It.",
     "link": "https://www.nytimes.com/2026/01/19/us/politics/trump-greenland-nato.html",
     "source": "nyt",
     "pubdate": "2026-01-19-17-03-57 +0000"
-  },
-  {
-    "headline": "Can a $1,699 Espresso Machine Help Walmart Challenge Amazon?",
-    "link": "https://www.wsj.com/business/retail/can-a-1-699-espresso-machine-help-walmart-challenge-amazon-da9e8675?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-19-17-00-00 +0000"
-  },
-  {
-    "headline": "The Rise and Fall of the American Monoculture",
-    "link": "https://www.wsj.com/business/media/american-pop-culture-history-ce8672f1?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-19-17-00-00 +0000"
-  },
-  {
-    "headline": "Can a $1,699 Espresso Machine Help Walmart Challenge Amazon?",
-    "link": "https://www.wsj.com/business/retail/can-a-1-699-espresso-machine-help-walmart-challenge-amazon-da9e8675?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-19-17-00-00 +0000"
-  },
-  {
-    "headline": "Elon Musk Spends $10 Million to Help Nate Morris in Kentucky Senate Race",
-    "link": "https://www.nytimes.com/2026/01/19/us/politics/elon-musk-nate-morris-kentucky-senate-mitch-mcconnell.html",
-    "source": "nyt",
-    "pubdate": "2026-01-19-16-50-36 +0000"
-  },
-  {
-    "headline": "Elon Musk Spends $10 Million to Help Nate Morris in Kentucky Senate Race",
-    "link": "https://www.nytimes.com/2026/01/19/us/politics/elon-musk-nate-morris-kentucky-senate-mitch-mcconnell.html",
-    "source": "nyt",
-    "pubdate": "2026-01-19-16-50-36 +0000"
-  },
-  {
-    "headline": "Senegal reserve keeper jokes after Afcon towel scuffles",
-    "link": "https://www.bbc.com/sport/articles/cvgndz4pd2xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-19-16-38-16 +0000"
-  },
-  {
-    "headline": "Investigators find broken joint on track at deadly Spanish rail crash site, source says",
-    "link": "https://www.cbc.ca/news/world/spain-train-derailment-9.7051257?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-19-16-38-11 +0000"
-  },
-  {
-    "headline": "The crash occurred on a new stretch of high-speed rail track, officials say.",
-    "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/the-crash-occurred-on-a-new-stretch-of-high-speed-rail-track-officials-say",
-    "source": "nyt",
-    "pubdate": "2026-01-19-16-37-14 +0000"
-  },
-  {
-    "headline": "The crash occurred on a new stretch of high-speed rail track, officials say.",
-    "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/the-crash-occurred-on-a-new-stretch-of-high-speed-rail-track-officials-say",
-    "source": "nyt",
-    "pubdate": "2026-01-19-16-37-14 +0000"
-  },
-  {
-    "headline": "Iran’s Protests: What to Know About the Unrest and Death Toll",
-    "link": "https://www.nytimes.com/article/iran-protests-inflation-currency.html",
-    "source": "nyt",
-    "pubdate": "2026-01-19-16-37-05 +0000"
-  },
-  {
-    "headline": "Bernie Sanders skipped every meeting for 18 years while serving on Holocaust Museum board: records",
-    "link": "https://nypost.com/2026/01/19/us-news/bernie-sanders-skipped-every-meeting-in-18-years-on-holocaust-museum-board-records-show/",
-    "source": "nypost",
-    "pubdate": "2026-01-19-16-33-11 +0000"
-  },
-  {
-    "headline": "'Europe is at a total loss': Russia gloats over Greenland tensions",
-    "link": "https://www.bbc.com/news/articles/c17zpvkddpzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-19-16-26-34 +0000"
-  },
-  {
-    "headline": "'Europe is at a total loss': Russia gloats over Greenland tensions",
-    "link": "https://www.bbc.com/news/articles/c17zpvkddpzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-19-16-26-34 +0000"
-  },
-  {
-    "headline": "Two babies die in incident at unlicensed Jerusalem daycare centre",
-    "link": "https://www.bbc.com/news/articles/c99k3lxzjnpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-19-16-20-23 +0000"
-  },
-  {
-    "headline": "NJ Gov.-elect Mikie Sherrill vows to put state on front lines of anti-Trump movement",
-    "link": "https://nypost.com/2026/01/19/us-news/nj-gov-elect-mikie-sherrill-vows-to-put-state-on-front-lines-of-anti-trump-movement/",
-    "source": "nypost",
-    "pubdate": "2026-01-19-16-18-10 +0000"
-  },
-  {
-    "headline": "Supreme Court won’t overturn Trump tariffs, Treasury Secretary Scott Bessent predicts",
-    "link": "https://nypost.com/2026/01/19/business/supreme-court-wont-overturn-trump-tariffs-treasury-secretary-scott-bessent-predicts/",
-    "source": "nypost",
-    "pubdate": "2026-01-19-16-16-14 +0000"
-  },
-  {
-    "headline": "Starmer sticks to his strategy - avoid provoking Trump",
-    "link": "https://www.bbc.com/news/articles/ckgykp22yk7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-19-16-07-12 +0000"
-  },
-  {
-    "headline": "Diaz will 'have nightmares' over 'Panenka' failure",
-    "link": "https://www.bbc.com/sport/football/articles/c6209g0jq0yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-19-16-02-59 +0000"
-  },
-  {
-    "headline": "Cows Use Tools, Too, New Study Finds",
-    "link": "https://www.nytimes.com/2026/01/19/science/animals-cows-intelligence-tools.html",
-    "source": "nyt",
-    "pubdate": "2026-01-19-16-00-08 +0000"
   }
 ]
