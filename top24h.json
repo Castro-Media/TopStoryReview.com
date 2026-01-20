@@ -1,34 +1,41 @@
 [
   {
-    "score": 270,
+    "score": 286,
     "pubdate": "2026-01-20-06-08-01 +0000",
     "source": "bbc",
     "headline": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
     "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 83,
+    "score": 84,
     "pubdate": "2026-01-20-12-44-01 +0000",
     "source": "nypost",
     "headline": "New Hampshire bishop warns of ‘new era of martyrdom’ after Minnesota ICE shooting",
     "link": "https://nypost.com/2026/01/20/us-news/new-hampshire-bishop-warns-of-new-era-of-martyrdom-after-minnesota-ice-shooting/"
   },
   {
-    "score": 81,
-    "pubdate": "2026-01-20-09-54-43 +0000",
+    "score": 79,
+    "pubdate": "2026-01-19-19-24-57 +0000",
     "source": "nyt",
-    "headline": "What We Know About the Deadly High-Speed Train Crash in Spain",
-    "link": "https://www.nytimes.com/2026/01/18/world/europe/what-we-know-spain-train-crash.html"
+    "headline": "High-Speed Train Crash in Spain Leaves at Least 21 Dead",
+    "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/spain-high-speed-train-derailment"
   },
   {
-    "score": 80,
+    "score": 77,
     "pubdate": "2026-01-20-10-30-00 +0000",
     "source": "wsj",
     "headline": "Wednesday’s Supreme Court arguments over whether Trump can fire Fed governor Lisa Cook come amid the president’s broader campaign to bend the central bank to presidential will",
     "link": "https://www.wsj.com/economy/central-banking/jerome-powell-federal-reserve-supreme-court-de15b2d1"
   },
   {
-    "score": 54,
+    "score": 62,
+    "pubdate": "2026-01-20-13-48-20 +0000",
+    "source": "nypost",
+    "headline": "Trump trolls European leaders with wild AI image of him planting US flag on Greenland, leaks fawning texts from world leaders",
+    "link": "https://nypost.com/2026/01/20/us-news/trump-trolls-european-leaders-with-image-of-him-planting-us-flag-on-greenland-leaks-fawning-texts-from-world-leaders/"
+  },
+  {
+    "score": 55,
     "pubdate": "2026-01-20-10-02-04 +0000",
     "source": "nyt",
     "headline": "How Trump Flexes Power in White House Meetings With Zelensky and Others",
@@ -36,24 +43,24 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-01-20-09-22-10 +0000",
+    "pubdate": "2026-01-20-09-22-11 +0000",
     "source": "nyt",
     "headline": "Trump Threatens 200% Tariffs on Wine if France Declines to Join Gaza Board of Peace",
     "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html"
   },
   {
-    "score": 49,
-    "pubdate": "2026-01-20-10-53-35 +0000",
-    "source": "nyt",
-    "headline": "Trump Calls Britain’s Chagos Deal ‘Act of Great Stupidity,’ in Blow to Starmer",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-uk-chagos-islands-deal.html"
+    "score": 47,
+    "pubdate": "2026-01-20-08-10-29 +0000",
+    "source": "nypost",
+    "headline": "Trump calls UK’s Chagos deal with Mauritius an ‘act of total weakness’",
+    "link": "https://nypost.com/2026/01/20/us-news/trump-calls-uks-chagos-deal-with-mauritius-an-act-of-total-weakness/"
   },
   {
-    "score": 43,
-    "pubdate": "2026-01-20-00-50-49 +0000",
+    "score": 46,
+    "pubdate": "2026-01-20-14-11-49 +0000",
     "source": "nypost",
-    "headline": "Protesters gather outside Atlanta’s Emory University to rail against Iranian official’s daughter’s employment",
-    "link": "https://nypost.com/2026/01/19/us-news/silent-protest-grips-emory-over-doctors-ties-to-iranian-regime/"
+    "headline": "Wall Street braces for stocks to sink as Trump ramps up tariff threats over Greenland",
+    "link": "https://nypost.com/2026/01/20/business/wall-street-braces-for-stocks-to-sink-as-trump-ramps-up-tariff-threats-over-greenland/"
   },
   {
     "score": 43,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "President Trump’s use of tariffs to annex territory is the logical endpoint of his belief in exploiting American economic leverage, WSJ’s @greg_ip writes",
     "link": "https://www.wsj.com/economy/trade/this-trade-war-would-be-unlike-any-other-4e1a2a44"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-01-20-01-07-39 +0000",
-    "source": "nypost",
-    "headline": "Trump cheered by CFP national championship game crowd during national anthem at Indiana-Miami clash",
-    "link": "https://nypost.com/2026/01/19/us-news/trump-cheered-by-cfp-national-championship-game-crowd-during-national-anthem-at-indiana-miami-clash/"
   }
 ]
