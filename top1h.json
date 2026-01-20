@@ -1,9 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2026-01-20-10-55-15 +0000",
+    "score": 37,
+    "pubdate": "2026-01-20-12-34-10 +0000",
+    "source": "nypost",
+    "headline": "House Speaker Mike Johnson tells UK Parliament he came to ‘calm the waters’ after Trump’s Greenland push",
+    "link": "https://nypost.com/2026/01/20/us-news/house-speaker-mike-johnson-tells-british-parliament-he-came-to-calm-the-waters/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-01-20-12-17-18 +0000",
+    "source": "nypost",
+    "headline": "Trump calls for professional ‘insurrectionists’ who stormed Minn. church to be thrown in jail with Walz and Ilhan Omar",
+    "link": "https://nypost.com/2026/01/20/us-news/trump-calls-for-professional-insurrectionists-who-stormed-minn-church-to-be-thrown-in-jail-with-walz-and-ilhan-omar/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-01-20-12-24-29 +0000",
+    "source": "nyt",
+    "headline": "The Northern Lights Have Inspired Humans for Thousands of Years",
+    "link": "https://www.nytimes.com/2026/01/20/us/northern-lights-aurora-inspiration-history.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-20-12-57-19 +0000",
+    "source": "nypost",
+    "headline": "Warner Bros. Discovery accepts Netflix’s amended all-cash $72B offer, agrees to sell its studios and streaming business for $27.75 a share",
+    "link": "https://nypost.com/2026/01/20/business/warner-bros-discovery-accepts-netflixs-amended-all-cash-72b-offer-agrees-to-sell-its-studios-and-streaming-business-for-27-75-a-share/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-20-12-49-37 +0000",
+    "source": "nyt",
+    "headline": "Islamic State Claims Deadly Attack on Chinese Restaurant in Afghanistan",
+    "link": "https://www.nytimes.com/2026/01/20/world/asia/isis-kabul-bomb-china.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-20-12-44-01 +0000",
+    "source": "nypost",
+    "headline": "New Hampshire bishop warns of ‘new era of martyrdom’ after Minnesota ICE shooting",
+    "link": "https://nypost.com/2026/01/20/us-news/new-hampshire-bishop-warns-of-new-era-of-martyrdom-after-minnesota-ice-shooting/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-20-13-09-07 +0000",
+    "source": "nyt",
+    "headline": "Trump Doubles Down on Greenland Threats in Flurry of Truth Social Posts",
+    "link": "https://www.nytimes.com/2026/01/20/world/europe/trump-greenland-europe-macron-rutte.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-20-12-47-39 +0000",
+    "source": "nyt",
+    "headline": "Cubans in Florida Are Being Deported in Record Numbers",
+    "link": "https://www.nytimes.com/2026/01/19/us/politics/cubans-florida-deportations-trump.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-20-12-44-19 +0000",
     "source": "bbc",
-    "headline": "Tory kicked out of party for 'talking to Reform'",
-    "link": "https://www.bbc.com/news/articles/c0erdwrp972o?at_medium=RSS&at_campaign=rss"
+    "headline": "Russian strikes again leave half of Kyiv with no heating in winter cold snap",
+    "link": "https://www.bbc.com/news/articles/cwy1lpgqenxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-20-12-17-25 +0000",
+    "source": "bbc",
+    "headline": "Israeli authorities demolish UN compound in occupied East Jerusalem",
+    "link": "https://www.bbc.com/news/articles/cp874nng8xvo?at_medium=RSS&at_campaign=rss"
   }
 ]

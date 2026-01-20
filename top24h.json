@@ -1,31 +1,45 @@
 [
   {
-    "score": 280,
+    "score": 274,
     "pubdate": "2026-01-20-06-08-01 +0000",
     "source": "bbc",
     "headline": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
     "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 83,
+    "pubdate": "2026-01-20-12-44-01 +0000",
+    "source": "nypost",
+    "headline": "New Hampshire bishop warns of ‘new era of martyrdom’ after Minnesota ICE shooting",
+    "link": "https://nypost.com/2026/01/20/us-news/new-hampshire-bishop-warns-of-new-era-of-martyrdom-after-minnesota-ice-shooting/"
+  },
+  {
     "score": 81,
+    "pubdate": "2026-01-20-09-54-43 +0000",
+    "source": "nyt",
+    "headline": "What We Know About the Deadly High-Speed Train Crash in Spain",
+    "link": "https://www.nytimes.com/2026/01/18/world/europe/what-we-know-spain-train-crash.html"
+  },
+  {
+    "score": 80,
     "pubdate": "2026-01-20-10-30-00 +0000",
     "source": "wsj",
     "headline": "Wednesday’s Supreme Court arguments over whether Trump can fire Fed governor Lisa Cook come amid the president’s broader campaign to bend the central bank to presidential will",
     "link": "https://www.wsj.com/economy/central-banking/jerome-powell-federal-reserve-supreme-court-de15b2d1"
   },
   {
-    "score": 77,
-    "pubdate": "2026-01-19-19-24-57 +0000",
+    "score": 54,
+    "pubdate": "2026-01-20-10-02-04 +0000",
     "source": "nyt",
-    "headline": "High-Speed Train Crash in Spain Leaves at Least 21 Dead",
-    "link": "https://www.nytimes.com/live/2026/01/18/world/spain-high-speed-train-derailment/spain-high-speed-train-derailment"
+    "headline": "How Trump Flexes Power in White House Meetings With Zelensky and Others",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-oval-office-world-leaders.html"
   },
   {
-    "score": 56,
-    "pubdate": "2026-01-20-02-19-49 +0000",
-    "source": "nypost",
-    "headline": "Don Lemon blasts Minnesota churchgoers harassed by anti-ICE protesters for ‘entitlement’ and ‘white supremacy’",
-    "link": "https://nypost.com/2026/01/19/us-news/don-lemon-blasts-minnesota-churchgoers-harassed-by-anti-ice-protesters-for-white-supremacy/"
+    "score": 49,
+    "pubdate": "2026-01-20-10-53-35 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls Britain’s Chagos Deal ‘Act of Great Stupidity,’ in Blow to Starmer",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-uk-chagos-islands-deal.html"
   },
   {
     "score": 49,
@@ -35,38 +49,24 @@
     "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html"
   },
   {
-    "score": 48,
-    "pubdate": "2026-01-19-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "Half of U.S. voters say the Trump administration has gone too far and left them less confident in the federal government’s guidance on vaccines, according to a new Wall Street Journal poll",
-    "link": "https://www.wsj.com/politics/policy/voters-skeptical-of-rfk-jr-s-vaccine-overhaul-112f5144"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-01-20-01-07-39 +0000",
+    "score": 44,
+    "pubdate": "2026-01-20-00-50-49 +0000",
     "source": "nypost",
-    "headline": "Trump cheered by CFP national championship game crowd during national anthem at Indiana-Miami clash",
-    "link": "https://nypost.com/2026/01/19/us-news/trump-cheered-by-cfp-national-championship-game-crowd-during-national-anthem-at-indiana-miami-clash/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-01-19-23-57-02 +0000",
-    "source": "nyt",
-    "headline": "Sanae Takaichi, Japan’s Prime Minister, Calls for Snap Election",
-    "link": "https://www.nytimes.com/2026/01/19/world/asia/japan-takaichi-early-election.html"
+    "headline": "Protesters gather outside Atlanta’s Emory University to rail against Iranian official’s daughter’s employment",
+    "link": "https://nypost.com/2026/01/19/us-news/silent-protest-grips-emory-over-doctors-ties-to-iranian-regime/"
   },
   {
     "score": 43,
-    "pubdate": "2026-01-20-10-02-03 +0000",
-    "source": "nyt",
-    "headline": "How Trump Flexes Power in White House Meetings With Zelensky and Others",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-oval-office-world-leaders.html"
-  },
-  {
-    "score": 42,
     "pubdate": "2026-01-20-10-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s use of tariffs to annex territory is the logical endpoint of his belief in exploiting American economic leverage, WSJ’s @greg_ip writes",
     "link": "https://www.wsj.com/economy/trade/this-trade-war-would-be-unlike-any-other-4e1a2a44"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-01-20-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Heard on the Street: Conflicting interests make it hard for policymakers to give young Americans a leg up in a brutal housing market",
+    "link": "https://www.wsj.com/economy/housing/to-make-homes-affordable-again-someone-has-to-lose-out-ce397bdd"
   }
 ]
