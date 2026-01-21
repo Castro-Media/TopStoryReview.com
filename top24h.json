@@ -1,20 +1,20 @@
 [
   {
-    "score": 314,
+    "score": 324,
     "pubdate": "2026-01-20-10-36-28 +0000",
     "source": "bbc",
     "headline": "Greenland 'will stay Greenland', former Trump adviser declares",
     "link": "https://www.bbc.com/news/articles/c98p6m0r53no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 112,
-    "pubdate": "2026-01-20-23-45-18 +0000",
-    "source": "latimes",
-    "headline": "State GOP seeks Supreme Court injunction to block California's new, voter-approved congressional districts",
-    "link": "https://www.latimes.com/california/story/2026-01-20/state-gop-seeks-supreme-court-injunction-to-block-californias-new-voter-approved-congressional-districts"
+    "score": 114,
+    "pubdate": "2026-01-20-21-13-14 +0000",
+    "source": "nyt",
+    "headline": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-tariffs-supreme-court.html"
   },
   {
-    "score": 84,
+    "score": 91,
     "pubdate": "2026-01-20-06-39-00 +0000",
     "source": "wsj",
     "headline": "President Trump has ramped up pressure on European leaders in an attempt to wrest Greenland, the world’s largest island, into U.S. control",
@@ -28,21 +28,14 @@
     "link": "https://www.nytimes.com/2026/01/20/world/europe/spain-missing-part-undercarriage-key-investigation.html"
   },
   {
-    "score": 78,
-    "pubdate": "2026-01-20-19-56-18 +0000",
-    "source": "nyt",
-    "headline": "Trump Threatens 200% Tariffs on Wine if France Declines to Join Gaza Board of Peace",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html"
-  },
-  {
-    "score": 76,
+    "score": 77,
     "pubdate": "2026-01-20-15-16-37 +0000",
     "source": "nypost",
     "headline": "UK considering its own Australia-style, teen social media ban: ‘No option off the table’",
     "link": "https://nypost.com/2026/01/20/world-news/uk-considering-own-australia-style-teen-social-media-ban/"
   },
   {
-    "score": 67,
+    "score": 73,
     "pubdate": "2026-01-20-15-58-06 +0000",
     "source": "nypost",
     "headline": "Trump tells The Post why he posted Emmanuel Macron’s private text message — and says he stopped wild Syria prison break by terrorists",
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-oval-office-world-leaders.html"
   },
   {
-    "score": 63,
-    "pubdate": "2026-01-20-14-30-32 +0000",
+    "score": 66,
+    "pubdate": "2026-01-20-19-56-18 +0000",
     "source": "nyt",
-    "headline": "Trump Calls U.K. Deal on Indian Ocean Islands ‘Great Stupidity,’ in Blow to Starmer",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-uk-chagos-islands-deal.html"
+    "headline": "Trump Threatens 200% Tariffs on Wine if France Declines to Join Gaza Board of Peace",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-france-wine-gaza.html"
   },
   {
-    "score": 63,
+    "score": 65,
     "pubdate": "2026-01-20-16-06-20 +0000",
     "source": "nypost",
     "headline": "Treasury Secretary Scott Bessent lashes out at Fed Chair Powell in most pointed criticism to date",
     "link": "https://nypost.com/2026/01/20/business/trumps-fed-chair-decision-could-come-next-week-says-treasury-secretary-scott-bessent/"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-01-20-14-30-32 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls U.K. Deal on Indian Ocean Islands ‘Great Stupidity,’ in Blow to Starmer",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-uk-chagos-islands-deal.html"
   }
 ]
