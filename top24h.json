@@ -1,35 +1,35 @@
 [
   {
-    "score": 265,
-    "pubdate": "2026-01-21-03-26-41 +0000",
-    "source": "nypost",
-    "headline": "Trump teases how far he’ll go to acquire Greenland: ‘You’ll find out’",
-    "link": "https://nypost.com/2026/01/20/us-news/trump-teases-how-far-hell-go-to-acquire-greenland-youll-find-out/"
+    "score": 252,
+    "pubdate": "2026-01-21-06-42-52 +0000",
+    "source": "bbc",
+    "headline": "Trump doubles down on Greenland ahead of Davos visit, saying there is 'no going back'",
+    "link": "https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 110,
-    "pubdate": "2026-01-20-21-13-14 +0000",
-    "source": "nyt",
-    "headline": "Trump Threatens New Trade War as Court Weighs Whether to Check Him",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-tariffs-supreme-court.html"
+    "score": 107,
+    "pubdate": "2026-01-20-23-45-18 +0000",
+    "source": "latimes",
+    "headline": "State GOP seeks Supreme Court injunction to block California's new, voter-approved congressional districts",
+    "link": "https://www.latimes.com/california/story/2026-01-20/state-gop-seeks-supreme-court-injunction-to-block-californias-new-voter-approved-congressional-districts"
   },
   {
     "score": 86,
-    "pubdate": "2026-01-21-04-15-28 +0000",
-    "source": "nypost",
-    "headline": "Air Force One forced to turn around after Trump takes off for Davos — as Karoline Leavitt jokes about $400M Qatari jet gifted to US",
-    "link": "https://nypost.com/2026/01/20/us-news/air-force-one-forced-to-turn-around-shortly-after-trump-takes-off-for-davos/"
-  },
-  {
-    "score": 85,
     "pubdate": "2026-01-21-01-17-00 +0000",
     "source": "wsj",
     "headline": "Escalating tensions over Greenland are supercharging a dynamic that was already under way: a shift in the world economic order that had put the U.S. at the center of the global economy",
     "link": "https://www.wsj.com/economy/global/united-states-investment-trade-08e76e85"
   },
   {
-    "score": 69,
-    "pubdate": "2026-01-21-10-26-07 +0000",
+    "score": 76,
+    "pubdate": "2026-01-21-03-48-45 +0000",
+    "source": "nypost",
+    "headline": "Trump reveals ‘firm instructions’ he left on how to respond if Iran attempts to assassinate him: ‘Wipe them off the face of this earth’",
+    "link": "https://nypost.com/2026/01/20/us-news/trump-reveals-firm-instructions-he-left-on-how-to-respond-if-iran-attempts-to-assassinate-him/"
+  },
+  {
+    "score": 72,
+    "pubdate": "2026-01-21-11-51-26 +0000",
     "source": "nyt",
     "headline": "Man Gets Life in Prison for Killing Shinzo Abe, Former Leader of Japan",
     "link": "https://www.nytimes.com/2026/01/20/world/asia/japan-shinzo-abe-killer-verdict.html"
@@ -42,31 +42,31 @@
     "link": "https://www.nytimes.com/2026/01/20/world/europe/spain-missing-part-undercarriage-key-investigation.html"
   },
   {
-    "score": 60,
+    "score": 63,
+    "pubdate": "2026-01-21-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "Rudy Giuliani’s lawyer tells ‘Pod Force One’ FBI didn’t want to touch Hunter Biden’s laptop during home raid: ‘Radioactive’",
+    "link": "https://nypost.com/2026/01/21/us-news/rudy-giulianis-lawyer-tells-pod-force-one-fbi-didnt-want-to-touch-hunter-bidens-laptop-during-home-raid-radioactive/"
+  },
+  {
+    "score": 57,
     "pubdate": "2026-01-20-20-33-02 +0000",
     "source": "bbc",
     "headline": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
     "link": "https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
-    "pubdate": "2026-01-20-22-12-28 +0000",
-    "source": "nyt",
-    "headline": "Minnesota Police Leaders Criticize Federal Tactics in ICE Surge",
-    "link": "https://www.nytimes.com/2026/01/20/us/ice-minnesota-police-axel-henry.html"
+    "score": 56,
+    "pubdate": "2026-01-21-11-16-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-d6e484fe?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 53,
-    "pubdate": "2026-01-20-19-17-38 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court appears likely to strike down California law banning guns in stores and restaurants",
-    "link": "https://www.latimes.com/politics/story/2026-01-20/supreme-court-appears-likely-to-strike-down-california-law-banning-guns-in-stores-restaurants"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-01-20-17-53-33 +0000",
+    "score": 55,
+    "pubdate": "2026-01-20-16-06-20 +0000",
     "source": "nypost",
-    "headline": "Iran warns that attack on Ayatollah ​Ali Khamenei would result in war: ‘We will set their world on fire’",
-    "link": "https://nypost.com/2026/01/20/world-news/iran-warns-that-attack-on-khamenei-would-result-in-war/"
+    "headline": "Treasury Secretary Scott Bessent lashes out at Fed Chair Powell in most pointed criticism to date",
+    "link": "https://nypost.com/2026/01/20/business/trumps-fed-chair-decision-could-come-next-week-says-treasury-secretary-scott-bessent/"
   }
 ]
