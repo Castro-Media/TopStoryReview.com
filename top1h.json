@@ -1,37 +1,16 @@
 [
   {
-    "score": 21,
-    "pubdate": "2026-01-22-09-02-47 +0000",
+    "score": 12,
+    "pubdate": "2026-01-22-10-58-35 +0000",
+    "source": "bbc",
+    "headline": "UK holds off joining Trump's Board of Peace over Putin concerns",
+    "link": "https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-22-10-57-00 +0000",
     "source": "nyt",
-    "headline": "Trump’s Rift With Europe Is Clear. Europe Must Decide What to Do About It.",
-    "link": "https://www.nytimes.com/2026/01/21/world/europe/trump-rift-europe.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-01-22-09-01-09 +0000",
-    "source": "nypost",
-    "headline": "3 killed in Australia shooting on National Day of Mourning for victims of Hanukkah terror attack",
-    "link": "https://nypost.com/2026/01/22/world-news/australia-shooting-kills-three-in-lake-cargelligo-on-national-day-of-mourning-for-bondi-beach-terror-attack/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-01-22-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Carney meets with cabinet fresh after forceful speech aimed at Trump administration",
-    "link": "https://www.cbc.ca/news/politics/carney-cabinet-retreat-9.7055258?cmp=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-01-22-08-59-00 +0000",
-    "source": "wsj",
-    "headline": "Several People Missing After Landslide Buries Campground in New Zealand",
-    "link": "https://www.wsj.com/world/oceania/several-people-missing-after-landslide-buries-campground-in-new-zealand-43c937df"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-01-22-09-02-47 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Rift With Europe Is Clear. Europe Must Decide What to Do About It.",
-    "link": "https://www.nytimes.com/2026/01/21/world/europe/trump-rift-europe.html"
+    "headline": "Live Updates: Trump Hosts ‘Board of Peace’ Signing Ceremony in Davos",
+    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news"
   }
 ]
