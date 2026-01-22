@@ -1,9 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-01-21-22-57-44 +0000",
+    "score": 61,
+    "pubdate": "2026-01-22-01-03-26 +0000",
+    "source": "bbc",
+    "headline": "Trump says 'framework of a future deal' discussed on Greenland as he backs off tariffs threat",
+    "link": "https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-01-22-00-24-30 +0000",
+    "source": "nyt",
+    "headline": "Trump’s ‘Board of Peace’ Would Have Global Scope but One Man in Charge",
+    "link": "https://www.nytimes.com/2026/01/21/us/politics/trump-board-peace-united-nations.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-01-22-00-29-35 +0000",
+    "source": "nyt",
+    "headline": "At Davos, a Clash Between Trump’s World and the Old World",
+    "link": "https://www.nytimes.com/2026/01/21/us/politics/davos-trump-speech-greenland-deal.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-22-00-46-28 +0000",
     "source": "nypost",
-    "headline": "Meteorologists warn of ‘exploding trees’ as brutal cold snap expected to usher in subzero temps",
-    "link": "https://nypost.com/2026/01/21/us-news/meteorologists-warn-of-exploding-trees-as-brutal-cold-snap-is-expected-to-plunge-temps-below-zero/"
+    "headline": "Firefighter who allegedly butchered wife with axe learned she was cheating by reading her diary moments before murder: lawyer",
+    "link": "https://nypost.com/2026/01/21/us-news/firefighter-who-allegedly-butchered-his-wife-idd-found-out-about-cheating-moments-before-murder-lawyer/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-22-00-36-03 +0000",
+    "source": "cbc",
+    "headline": "ICE officers can assert sweeping power to enter homes without a judge's warrant, internal memo says",
+    "link": "https://www.cbc.ca/news/world/us-immigration-enforcement-ice-no-warrants-9.7055362?cmp=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-22-01-09-38 +0000",
+    "source": "bbc",
+    "headline": "Trump credit card plan would be a 'disaster', JP Morgan boss warns",
+    "link": "https://www.bbc.com/news/articles/c3944lv2220o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-22-00-54-16 +0000",
+    "source": "bbc",
+    "headline": "Blake Lively called Justin Baldoni 'a clown' in text messages",
+    "link": "https://www.bbc.com/news/articles/cwy1l9pgjv7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-22-00-28-51 +0000",
+    "source": "nyt",
+    "headline": "Rifaat al-Assad, Paramilitary Leader and ‘Butcher of Hama,’ Dies at 88",
+    "link": "https://www.nytimes.com/2026/01/21/world/middleeast/rifaat-al-assad-dead.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-22-00-35-01 +0000",
+    "source": "startribune",
+    "headline": "House approves repeal of 20-year mining ban near Boundary Waters Canoe Area Wilderness",
+    "link": "https://www.startribune.com/house-approves-repeal-biden-boundary-waters-mining-ban-stauber-iron-range-copper-nickel-helium-mn/601568135"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-22-00-40-00 +0000",
+    "source": "wsj",
+    "headline": "South Korea Economy Weakened in 2025 as Tariffs Took a Toll",
+    "link": "https://www.wsj.com/economy/south-koreas-economy-meets-2025-growth-target-73514acb"
   }
 ]
