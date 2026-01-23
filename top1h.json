@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-01-22-22-54-50 +0000",
+    "score": 31,
+    "pubdate": "2026-01-23-00-45-02 +0000",
+    "source": "nyt",
+    "headline": "Nazis, Soviets and Trump: America’s Fixation With Greenland",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/greenland-trump-cold-war.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-01-23-00-49-56 +0000",
+    "source": "nyt",
+    "headline": "Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’",
+    "link": "https://www.nytimes.com/2026/01/22/world/canada/carney-trump-canada-speech.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-23-00-54-24 +0000",
+    "source": "nyt",
+    "headline": "Filipino Journalist Gets Prison in Case Seen as Attack on Free Press",
+    "link": "https://www.nytimes.com/2026/01/22/world/asia/philippines-cumpio-journalist-prison.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-23-00-59-22 +0000",
+    "source": "nyt",
+    "headline": "House Rejects Measure to Bar Military Force in Venezuela",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/trump-war-powers-house-vote.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-23-01-13-21 +0000",
+    "source": "nyt",
+    "headline": "Europe’s Leaders Scramble to Find a Path Forward With Trump",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/europe-trump-greenland-tariffs-eu-meeting.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-23-01-07-11 +0000",
     "source": "nypost",
-    "headline": "Dr. Phil’s son’s NYPD documentary blocked by court after Mamdani lawsuit",
-    "link": "https://nypost.com/2026/01/22/us-news/dr-phils-sons-nypd-documentary-blocked-by-court-after-mamdani-lawsuit/"
+    "headline": "Leather-clad CA Dem steps down as Jewish Caucus co-chair after Israel ‘genocide’ claim",
+    "link": "https://nypost.com/2026/01/22/us-news/ca-dem-ripped-for-genocide-claim-steps-down-as-jewish-caucus-co-chair/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-23-01-10-36 +0000",
+    "source": "nypost",
+    "headline": "‘Top Chef’ winner charged with DUI after plowing into mailbox with her 2 kids in car",
+    "link": "https://nypost.com/2026/01/22/us-news/top-chef-winner-kelsey-clark-charged-with-dui-after-plowing-car-into-mailbox/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-23-01-03-15 +0000",
+    "source": "nypost",
+    "headline": "Nevada judge retires days after court grants protective order to attorney she allegedly stalked",
+    "link": "https://nypost.com/2026/01/22/us-news/nevada-judge-retires-days-after-court-grants-protective-order-to-attorney-she-allegedly-stalked/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-23-00-21-48 +0000",
+    "source": "cbc",
+    "headline": "White House posts altered photo of civil rights activist's arrest on social media",
+    "link": "https://www.cbc.ca/news/world/civil-rights-misrepresented-armstrong-minnesota-church-protest-9.7057152?cmp=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-23-00-20-27 +0000",
+    "source": "bbc",
+    "headline": "'Blood was all over' - victim of Nigeria church abduction describes escape",
+    "link": "https://www.bbc.com/news/articles/cn422q1py95o?at_medium=RSS&at_campaign=rss"
   }
 ]
