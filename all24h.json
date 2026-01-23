@@ -1,35 +1,443 @@
 [
   {
+    "headline": "SLB Eyes More International Activity as It Moves Past Challenging 2025",
+    "link": "https://www.wsj.com/business/earnings/slb-eyes-more-international-activity-as-it-moves-past-challenging-2025-2e7aab59?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-23-13-06-00 +0000"
+  },
+  {
+    "headline": "Ukrainian, Russian and U.S. Officials to Meet in Abu Dhabi for Peace Talks",
+    "link": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-13-05-57 +0000"
+  },
+  {
+    "headline": "Ukrainian, Russian and U.S. Officials to Meet in Abu Dhabi for Peace Talks",
+    "link": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-13-05-57 +0000"
+  },
+  {
+    "headline": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
+    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-13-03-41 +0000"
+  },
+  {
+    "headline": "Trump 'wrong' to claim Nato troops avoided Afghanistan front line, Downing Street says",
+    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-13-03-41 +0000"
+  },
+  {
+    "headline": "Trump 'wrong' to claim Nato troops avoided Afghanistan front line, Downing Street says",
+    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-13-03-41 +0000"
+  },
+  {
+    "headline": "Trump Says Canada Is No Longer Welcome on Peace Board",
+    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
+    "source": "nyt",
+    "pubdate": "2026-01-23-13-01-15 +0000"
+  },
+  {
+    "headline": "Can’t sing? Neither can they. That hasn’t stopped the Tuneless Choir.",
+    "link": "https://www.washingtonpost.com/lifestyle/2026/01/23/tuneless-choir-sing-badly-joy/",
+    "source": "wapo",
+    "pubdate": "2026-01-23-13-00-11 +0000"
+  },
+  {
+    "headline": "Justice Department Opens Criminal Probe Into Silicon Valley Spy Allegations",
+    "link": "https://www.wsj.com/us-news/law/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations-9afe1eec",
+    "source": "wsj",
+    "pubdate": "2026-01-23-13-00-00 +0000"
+  },
+  {
+    "headline": "Justice Department Opens Criminal Probe Into Silicon Valley Spy Allegations",
+    "link": "https://www.wsj.com/us-news/law/justice-department-opens-criminal-probe-into-silicon-valley-spy-allegations-9afe1eec?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-23-13-00-00 +0000"
+  },
+  {
+    "headline": "More than 5,000 killed in recent protests in Iran, rights group says, as regime rejects Trump claims",
+    "link": "https://www.cbc.ca/news/world/iran-protests-death-toll-trump-claims-9.7057574?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-23-12-41-07 +0000"
+  },
+  {
+    "headline": "Scottish government facing legal action over Sturgeon inquiry evidence",
+    "link": "https://www.bbc.com/news/articles/cgk88vl308lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-40-08 +0000"
+  },
+  {
+    "headline": "Trump says Greenland framework includes mineral rights. What minerals does the island have?",
+    "link": "https://www.bbc.com/news/articles/cly9230yw15o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-39-51 +0000"
+  },
+  {
+    "headline": "Trump says Greenland framework includes mineral rights. What minerals does the island have?",
+    "link": "https://www.bbc.com/news/articles/cly9230yw15o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-39-51 +0000"
+  },
+  {
+    "headline": "Trump says Greenland framework includes mineral rights. What minerals does the island have?",
+    "link": "https://www.bbc.com/news/articles/cly9230yw15o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-39-51 +0000"
+  },
+  {
+    "headline": "Andy Burnham faces decision on bid to return as MP",
+    "link": "https://www.bbc.com/news/articles/clyeeqyvv78o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-38-20 +0000"
+  },
+  {
+    "headline": "Taliban release female athlete, 22, after 13 days in jail",
+    "link": "https://www.bbc.com/news/articles/c1evv6dz3e9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-37-35 +0000"
+  },
+  {
+    "headline": "Booz Allen Boosts Profit Outlook as Cost Cuts Take Hold",
+    "link": "https://www.wsj.com/business/earnings/booz-allen-boosts-profit-outlook-as-cost-cuts-take-hold-c7190e6c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-23-12-34-00 +0000"
+  },
+  {
+    "headline": "Sterling’s Rise Against Euro After PMI Data Look Unlikely to Last",
+    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-bojs-decision-91ab0825?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-23-12-32-00 +0000"
+  },
+  {
+    "headline": "Sterling’s Rise Against Euro After PMI Data Look Unlikely to Last",
+    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-bojs-decision-91ab0825",
+    "source": "wsj",
+    "pubdate": "2026-01-23-12-32-00 +0000"
+  },
+  {
+    "headline": "Russia, Ukraine and US to hold trilateral talks in Abu Dhabi",
+    "link": "https://www.bbc.com/news/articles/cx20011w4zzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-29-23 +0000"
+  },
+  {
+    "headline": "Russia, Ukraine and US to hold trilateral talks in Abu Dhabi",
+    "link": "https://www.bbc.com/news/articles/cx20011w4zzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-29-23 +0000"
+  },
+  {
+    "headline": "U.K. Long-Dated Bonds Look Favorable",
+    "link": "https://www.wsj.com/finance/jgb-futures-consolidate-ahead-of-bojs-decision-42acd9dd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-23-12-29-00 +0000"
+  },
+  {
+    "headline": "When the potentially historic winter storm is expected to sweep across the US this weekend",
+    "link": "https://nypost.com/2026/01/23/us-news/when-potentially-historic-winter-storm-fern-is-expected-to-sweep-across-the-us-this-weekend/",
+    "source": "nypost",
+    "pubdate": "2026-01-23-12-21-33 +0000"
+  },
+  {
+    "headline": "Trump Says He Bruised His Hand on a Table",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-hand-bruise-aspirin-table.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-12-20-46 +0000"
+  },
+  {
+    "headline": "Trump Says He Bruised His Hand on a Table",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-hand-bruise-aspirin-table.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-12-20-46 +0000"
+  },
+  {
+    "headline": "Trump reveals how he got large bruise on his hand as he trashes health conspiracies",
+    "link": "https://nypost.com/2026/01/23/us-news/trump-blames-hand-bruise-at-davos-on-aspirin/",
+    "source": "nypost",
+    "pubdate": "2026-01-23-12-19-51 +0000"
+  },
+  {
+    "headline": "Trump reveals how he got large bruise on his hand as he trashes health conspiracies",
+    "link": "https://nypost.com/2026/01/23/us-news/trump-blames-hand-bruise-at-davos-on-aspirin/",
+    "source": "nypost",
+    "pubdate": "2026-01-23-12-19-51 +0000"
+  },
+  {
+    "headline": "Divergence Between Fed and BOE Would Push Up U.K. Inflation, BOE’s Greene Says",
+    "link": "https://www.wsj.com/articles/divergence-between-fed-and-boe-would-push-up-u-k-inflation-boes-greene-says-2d9a13f2",
+    "source": "wsj",
+    "pubdate": "2026-01-23-12-19-00 +0000"
+  },
+  {
+    "headline": "Schools close as dangerous cold grips Minnesota",
+    "link": "https://www.startribune.com/extreme-cold-school-closings-mn/601568756",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-17-58 +0000"
+  },
+  {
+    "headline": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle",
+    "link": "https://www.bbc.com/news/articles/cp822g353y6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-16-21 +0000"
+  },
+  {
+    "headline": "Mandela's prison key, sunglasses and shirt can be sold after daughter wins court battle",
+    "link": "https://www.bbc.com/news/articles/cp822g353y6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-16-21 +0000"
+  },
+  {
+    "headline": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
+    "link": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-12-15-41 +0000"
+  },
+  {
+    "headline": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
+    "link": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-12-15-41 +0000"
+  },
+  {
+    "headline": "Luigi Mangione due back in court as judge weighs legality of cops seizing his backpack",
+    "link": "https://nypost.com/2026/01/23/us-news/luigi-mangione-is-due-in-court-as-judge-weighs-legality-of-police-seizing-his-backpack/",
+    "source": "nypost",
+    "pubdate": "2026-01-23-12-14-08 +0000"
+  },
+  {
+    "headline": "US braces for 'extremely dangerous' winter storm",
+    "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-08-30 +0000"
+  },
+  {
+    "headline": "US braces for 'extremely dangerous' winter storm",
+    "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-12-08-30 +0000"
+  },
+  {
+    "headline": "Portland, Maine, Feels Like a Small Town — And ICE Isn’t Welcome",
+    "link": "https://www.nytimes.com/2026/01/23/us/portland-maine-resistance-ice-immigration.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-12-08-22 +0000"
+  },
+  {
+    "headline": "Will the closed private prison in western Minnesota be an ICE deportation hub?",
+    "link": "https://www.startribune.com/will-the-former-appleton-prison-be-an-ice-deportation-hub/601567984",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-00-01 +0000"
+  },
+  {
+    "headline": "‘Free Solo’ climber Alex Honnold set to scale Taiwan’s tallest building",
+    "link": "https://www.washingtonpost.com/world/2026/01/23/free-solo-taipei-101-alex-honnold/",
+    "source": "wapo",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "Mayor Lurie creates new government position to raise private money for S.F.",
+    "link": "https://missionlocal.org/2026/01/sf-lurie-director-public-private-partnerships/",
+    "source": "missionlocal",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "BlackRock and Trump ally Larry Fink look to make war-torn Ukraine great again",
+    "link": "https://nypost.com/2026/01/23/business/blackrock-and-trump-ally-larry-fink-look-to-make-war-torn-ukraine-great-again/",
+    "source": "nypost",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "ICE says it has arrested 10,000 ‘criminal illegal aliens’ in Minnesota, but offers little proof",
+    "link": "https://www.startribune.com/10000-undocumented-people-arrested-minnesota/601568003",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "Is Minnesota’s Medicaid fraud scandal an ‘outlier?’ Experts say the answer is complicated.",
+    "link": "https://www.startribune.com/is-minnesotas-medicaid-fraud-scandal-an-outlier-experts-say-the-answer-is-complicated/601552181",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "Roper: Libertarians are outraged by ICE tactics. Will conservatives listen?",
+    "link": "https://www.startribune.com/libertarians-immigration-ice-minneapolis/601567358",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "James Beard nods come at a time when chefs, restaurants have little to celebrate",
+    "link": "https://www.startribune.com/james-beard-nods-come-at-a-time-when-chefs-restaurants-have-little-to-celebrate/601568040",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "Scoggins: Timberwolves’ current rut shows need to act at trade deadline",
+    "link": "https://www.startribune.com/scoggins-timberwolves-current-rut-shows-need-to-act-at-trade-deadline/601566818",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "Why is Minnehaha Falls so much narrower than it used to be?",
+    "link": "https://www.startribune.com/minnehaha-falls-history-curious-minnesota/601567426",
+    "source": "startribune",
+    "pubdate": "2026-01-23-12-00-00 +0000"
+  },
+  {
+    "headline": "Democrats ditch Bill Clinton and contempt crisis looms. Read more in today’s WSJ Politics newsletter:",
+    "link": "https://www.wsj.com/politics/democrats-ditch-bill-clinton-and-contempt-crisis-looms-cad6af71",
+    "source": "wsj",
+    "pubdate": "2026-01-23-11-56-00 +0000"
+  },
+  {
+    "headline": "Heathrow scraps 100ml liquid container limit",
+    "link": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-11-48-38 +0000"
+  },
+  {
+    "headline": "Arms Maker CSG’s Shares Surge on Amsterdam Stock-Market Debut",
+    "link": "https://www.wsj.com/finance/stocks/arms-maker-csg-shares-rise-on-amsterdam-stock-market-debut-06b74031?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-23-11-48-00 +0000"
+  },
+  {
+    "headline": "Business Activity Picks Up In Parts Of Europe and Asia",
+    "link": "https://www.wsj.com/economy/global/business-activity-picks-up-in-parts-of-europe-and-asia-dc85090a",
+    "source": "wsj",
+    "pubdate": "2026-01-23-11-48-00 +0000"
+  },
+  {
+    "headline": "Health Secretary to meet dad over diabetes plea",
+    "link": "https://www.bbc.com/news/articles/c98ppz5n3jvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-11-40-40 +0000"
+  },
+  {
+    "headline": "Liz Hurley and Anna Wintour among mourners at Valentino's funeral in Rome",
+    "link": "https://www.bbc.com/news/videos/cew88vjjrlxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-11-31-50 +0000"
+  },
+  {
+    "headline": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
+    "link": "https://www.nytimes.com/video/business/economy/100000010656157/why-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-11-30-03 +0000"
+  },
+  {
+    "headline": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
+    "link": "https://www.nytimes.com/video/business/economy/100000010656157/why-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
+    "source": "nyt",
+    "pubdate": "2026-01-23-11-30-03 +0000"
+  },
+  {
+    "headline": "Mysterious hum rattles American city as residents report sleepless nights and rising fear",
+    "link": "https://nypost.com/2026/01/23/us-news/connecticut-residents-sleepless-by-mysterious-hum-rattles-in-west-haven/",
+    "source": "nypost",
+    "pubdate": "2026-01-23-11-29-52 +0000"
+  },
+  {
+    "headline": "Can Trump Defy a Presidential Stock Slump?",
+    "link": "https://www.wsj.com/finance/stocks/can-trump-defy-a-presidential-stock-slump-aae5b710?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-23-11-27-00 +0000"
+  },
+  {
+    "headline": "Twenty-nine English councils to delay elections, minister confirms",
+    "link": "https://www.bbc.com/news/articles/cx2ggk333l4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-11-22-19 +0000"
+  },
+  {
+    "headline": "Contributor: Trump's global chaos is sowing decades of trouble for the U.S.",
+    "link": "https://www.latimes.com/opinion/story/2026-01-23/trump-foreign-policy-allies-terrorism",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-15-00 +0000"
+  },
+  {
+    "headline": "Trump withdraws Carney’s invitation to Board of Peace after Davos spat",
+    "link": "https://www.washingtonpost.com/world/2026/01/23/us-canada-trump-carney-board-peace/",
+    "source": "wapo",
+    "pubdate": "2026-01-23-11-13-04 +0000"
+  },
+  {
+    "headline": "Bass will give two State of the City speeches during election season",
+    "link": "https://www.latimes.com/california/story/2026-01-23/bass-will-give-two-state-of-city-speeches-during-election-season",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Corruption case looms over Curren Price's legacy — and the race to replace him",
+    "link": "https://www.latimes.com/california/story/2026-01-23/curren-price-corruption-case-preliminary-hearing",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: The myth of anti-white discrimination in L.A. schools — and the politics behind it",
+    "link": "https://www.latimes.com/california/story/2026-01-23/myth-of-anti-white-discrimination-in-la-schools",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Demanding Pikachu — at gunpoint: As thieves nab precious Pokemon cards, collectors are in despair",
+    "link": "https://www.latimes.com/california/story/2026-01-23/pokemon-card-thefts-are-hitting-collectors-across-southern-california",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Minnesota residents plan general strike Friday to protest ICE",
+    "link": "https://www.washingtonpost.com/nation/2026/01/23/minnesota-general-strike-ice-protest/",
+    "source": "wapo",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Demanding Pikachu — at gunpoint: As thieves nab precious Pokemon cards, collectors are in despair",
+    "link": "https://www.latimes.com/california/story/2026-01-23/pokemon-card-thefts-are-hitting-collectors-across-southern-california",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "FCC chair's call for 'equal time' could have chilling effect on TV and radio",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-23/fcc-chairs-call-for-equal-time-could-have-chilling-effect-on-tv-radio",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Why Europe's far right has split with Trump over Greenland",
+    "link": "https://www.latimes.com/politics/story/2026-01-23/why-europes-far-right-has-split-with-trump-over-greenland",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "Bass will give two State of the City speeches during election season",
+    "link": "https://www.latimes.com/california/story/2026-01-23/bass-will-give-two-state-of-city-speeches-during-election-season",
+    "source": "latimes",
+    "pubdate": "2026-01-23-11-00-00 +0000"
+  },
+  {
+    "headline": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+    "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-10-56-01 +0000"
+  },
+  {
+    "headline": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+    "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-10-56-01 +0000"
+  },
+  {
     "headline": "Former Des Moines schools chief pleads guilty to falsely claiming US citizenship and gun charge",
     "link": "https://nypost.com/2026/01/23/us-news/former-des-moines-schools-chief-ian-andre-roberts-pleads-guilty-to-falsely-claiming-us-citizenship-and-gun-charge/",
     "source": "nypost",
     "pubdate": "2026-01-23-10-55-23 +0000"
   },
   {
-    "headline": "Andy Burnham faces decision on bid to return as MP",
-    "link": "https://www.bbc.com/news/articles/clyeeqyvv78o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-10-54-01 +0000"
-  },
-  {
-    "headline": "Ukrainian, Russian and U.S. Officials to Meet in Abu Dhabi for Peace Talks",
-    "link": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-10-49-34 +0000"
-  },
-  {
-    "headline": "Ukrainian, Russian and U.S. Officials to Meet in Abu Dhabi for Peace Talks",
-    "link": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-10-49-34 +0000"
-  },
-  {
-    "headline": "Trump Says Canada Is No Longer Welcome on Peace Board",
-    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
-    "source": "nyt",
-    "pubdate": "2026-01-23-10-48-45 +0000"
-  },
-  {
     "headline": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
     "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
     "source": "nyt",
@@ -40,12 +448,6 @@
     "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
     "source": "nyt",
     "pubdate": "2026-01-23-10-46-56 +0000"
-  },
-  {
-    "headline": "Heathrow scraps 100ml liquid container limit",
-    "link": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-10-44-25 +0000"
   },
   {
     "headline": "Basic Materials Roundup: Market Talk",
@@ -84,12 +486,6 @@
     "pubdate": "2026-01-23-10-36-08 +0000"
   },
   {
-    "headline": "Arms Maker CSG Shares Rise on Amsterdam Stock-Market Debut",
-    "link": "https://www.wsj.com/finance/stocks/arms-maker-csg-shares-rise-on-amsterdam-stock-market-debut-06b74031?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-23-10-33-00 +0000"
-  },
-  {
     "headline": "Can Old Lime Bikes and Hard Disks Counter China’s Rare-Earth Chokehold?",
     "link": "https://www.wsj.com/business/can-old-lime-bikes-and-hard-disks-counter-chinas-rare-earth-chokehold-a74e7ac8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -106,36 +502,6 @@
     "link": "https://www.wsj.com/business/can-old-lime-bikes-and-hard-disks-counter-chinas-rare-earth-chokehold-a74e7ac8?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-23-10-30-00 +0000"
-  },
-  {
-    "headline": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
-    "link": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-10-26-45 +0000"
-  },
-  {
-    "headline": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
-    "link": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-10-26-45 +0000"
-  },
-  {
-    "headline": "U.K. Local Elections Pose Headwind to Sterling",
-    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-bojs-decision-91ab0825?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-23-10-26-00 +0000"
-  },
-  {
-    "headline": "U.K. Local Elections Pose Headwind to Sterling",
-    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-bojs-decision-91ab0825",
-    "source": "wsj",
-    "pubdate": "2026-01-23-10-26-00 +0000"
-  },
-  {
-    "headline": "Divergence Between Fed and BOE Would Push Up U.K. Inflation, BOE’s Greene Says",
-    "link": "https://www.wsj.com/articles/divergence-between-fed-and-boe-would-push-up-u-k-inflation-boes-greene-says-2d9a13f2",
-    "source": "wsj",
-    "pubdate": "2026-01-23-10-20-00 +0000"
   },
   {
     "headline": "Barron Trump Called U.K. Police After Witnessing Woman ‘Getting Beat Up’ on Video Call",
@@ -156,12 +522,6 @@
     "pubdate": "2026-01-23-10-16-42 +0000"
   },
   {
-    "headline": "Gilt Yields Rise After Above-Forecast Flash U.K. PMI Data",
-    "link": "https://www.wsj.com/finance/jgb-futures-consolidate-ahead-of-bojs-decision-42acd9dd?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-23-10-16-00 +0000"
-  },
-  {
     "headline": "Vietnam’s Leader Consolidates Power, Pledging ‘New Era of Prosperity’",
     "link": "https://www.nytimes.com/2026/01/23/world/asia/vietnam-lam-power-congress.html",
     "source": "nyt",
@@ -174,43 +534,31 @@
     "pubdate": "2026-01-23-10-11-48 +0000"
   },
   {
+    "headline": "Indian state investigates killings of hundreds of stray dogs",
+    "link": "https://www.bbc.com/news/articles/c3eddk53vxqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-10-11-00 +0000"
+  },
+  {
     "headline": "What’s It Like to Climb a Skyscraper?",
     "link": "https://www.nytimes.com/2026/01/23/world/asia/climbing-buildings-skyscrapers-alex-honnold.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-10-08-12 +0000"
+    "pubdate": "2026-01-23-10-08-13 +0000"
   },
   {
     "headline": "What’s It Like to Climb a Skyscraper?",
     "link": "https://www.nytimes.com/2026/01/23/world/asia/climbing-buildings-skyscrapers-alex-honnold.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-10-08-12 +0000"
+    "pubdate": "2026-01-23-10-08-13 +0000"
   },
   {
-    "headline": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
-    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-10-05-11 +0000"
-  },
-  {
-    "headline": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
-    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-10-05-11 +0000"
-  },
-  {
-    "headline": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
-    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-10-05-11 +0000"
-  },
-  {
-    "headline": "Peru’s President May Be Ousted over Secret Meetings with Chinese Businessmen",
+    "headline": "Peru’s President May Be Ousted Over Secret Meetings with Chinese Businessmen",
     "link": "https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html",
     "source": "nyt",
     "pubdate": "2026-01-23-10-04-54 +0000"
   },
   {
-    "headline": "Peru’s President May Be Ousted over Secret Meetings with Chinese Businessmen",
+    "headline": "Peru’s President May Be Ousted Over Secret Meetings with Chinese Businessmen",
     "link": "https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html",
     "source": "nyt",
     "pubdate": "2026-01-23-10-04-54 +0000"
@@ -228,28 +576,22 @@
     "pubdate": "2026-01-23-10-04-53 +0000"
   },
   {
-    "headline": "In Portland, Maine, Where ‘Everyone Knows Everyone,’ ICE Is Raising Hackles",
-    "link": "https://www.nytimes.com/2026/01/23/us/portland-maine-resistance-ice-immigration.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-10-04-41 +0000"
-  },
-  {
-    "headline": "‘Enough Is Enough’: Hundreds of Minnesota Businesses Take Stand Against ICE",
+    "headline": "Hundreds of Minnesota Businesses on Strike in Protest Against ICE",
     "link": "https://www.nytimes.com/2026/01/23/us/minnesota-businesses-protest-ice.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-10-04-20 +0000"
+    "pubdate": "2026-01-23-10-04-21 +0000"
   },
   {
     "headline": "Voters Are Split on Deportations but Disapprove of ICE, Poll Finds",
     "link": "https://www.nytimes.com/2026/01/23/us/politics/poll-ice-immigration.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-10-03-39 +0000"
+    "pubdate": "2026-01-23-10-03-40 +0000"
   },
   {
     "headline": "Voters Are Split on Deportations but Disapprove of ICE, Poll Finds",
     "link": "https://www.nytimes.com/2026/01/23/us/politics/poll-ice-immigration.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-10-03-39 +0000"
+    "pubdate": "2026-01-23-10-03-40 +0000"
   },
   {
     "headline": "Increased Scrutiny Leads to an Improved Organ Transplant System",
@@ -276,14 +618,14 @@
     "pubdate": "2026-01-23-10-02-27 +0000"
   },
   {
-    "headline": "A Senate Primary in Texas Tests the Future of Democratic Politics",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/texas-democrats.html",
+    "headline": "Jasmine Crockett and James Talarico Face Off in a Texas Senate Primary Campaign",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/jasmine-crockett-james-talarico-texas-senate-campaign.html",
     "source": "nyt",
     "pubdate": "2026-01-23-10-00-44 +0000"
   },
   {
-    "headline": "A Senate Primary in Texas Tests the Future of Democratic Politics",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/texas-democrats.html",
+    "headline": "Jasmine Crockett and James Talarico Face Off in a Texas Senate Primary Campaign",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/jasmine-crockett-james-talarico-texas-senate-campaign.html",
     "source": "nyt",
     "pubdate": "2026-01-23-10-00-44 +0000"
   },
@@ -318,22 +660,10 @@
     "pubdate": "2026-01-23-09-47-53 +0000"
   },
   {
-    "headline": "Business Activity Picks Up in Parts of Europe and Asia",
-    "link": "https://www.wsj.com/economy/global/business-activity-picks-up-in-parts-of-europe-and-asia-dc85090a",
-    "source": "wsj",
-    "pubdate": "2026-01-23-09-45-00 +0000"
-  },
-  {
     "headline": "Ericsson Shares Jump on Earnings Beat and Cash Returns",
     "link": "https://www.wsj.com/business/earnings/ericsson-lifts-dividend-and-proposes-1-7-billion-buyback-66329542?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-23-09-39-00 +0000"
-  },
-  {
-    "headline": "U.S. Stock Futures, Global Markets Mixed as Gold Approaches $5,000 Milestone",
-    "link": "https://www.wsj.com/finance/stocks/gold-approaches-5-000-milestone-u-s-stock-futures-global-indexes-mixed-524ce1c3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-23-09-33-00 +0000"
   },
   {
     "headline": "Demand for online jewellery boosts December retail sales",
@@ -342,8 +672,14 @@
     "pubdate": "2026-01-23-09-30-42 +0000"
   },
   {
-    "headline": "Carney gathers with cabinet for 2nd day after calling for national unity, taking aim at Trump",
-    "link": "https://www.cbc.ca/news/politics/carney-gathers-with-cabinet-for-2nd-day-after-calling-for-national-unity-taking-aim-at-trump-9.7057092?cmp=rss",
+    "headline": "Carney gathers with cabinet for 2nd day to discuss sovereignty, trade after taking aim at Trump",
+    "link": "https://www.cbc.ca/news/politics/liberal-cabinet-carney-day2-9.7057092?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-23-09-00-00 +0000"
+  },
+  {
+    "headline": "Civil servants navigating job trades, buy-outs amid public service cuts",
+    "link": "https://www.cbc.ca/news/canada/ottawa/alternations-job-trades-competitions-civil-service-9.7056513?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-23-09-00-00 +0000"
   },
@@ -390,28 +726,22 @@
     "pubdate": "2026-01-23-08-41-45 +0000"
   },
   {
-    "headline": "Ex-intelligence officer accused of betraying Austria in Russia spying trial",
-    "link": "https://www.bbc.com/news/articles/cz0pnjv1zy5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-08-41-45 +0000"
-  },
-  {
     "headline": "Stock Market Today: Gold Prices Hit Record; Intel Stock Slides",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-23-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-23-08-38-23 +0000"
   },
   {
-    "headline": "Twenty-nine English councils to delay elections, minister confirms",
-    "link": "https://www.bbc.com/news/articles/cx2ggk333l4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-08-17-23 +0000"
-  },
-  {
     "headline": "Video captures Detroit student allegedly wielding box cutter in classroom chase as teacher intervenes",
     "link": "https://nypost.com/2026/01/23/us-news/video-captures-detroit-student-allegedly-wielding-box-cutter-in-classroom-chase-as-teacher-intervenes/",
     "source": "nypost",
     "pubdate": "2026-01-23-08-17-05 +0000"
+  },
+  {
+    "headline": "US-TikTok deal: A new reality for China's tech champions?",
+    "link": "https://www.bbc.com/news/articles/c6200mz054yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-08-08-54 +0000"
   },
   {
     "headline": "US-TikTok deal: A new reality for China's tech champions?",
@@ -510,19 +840,7 @@
     "pubdate": "2026-01-23-06-59-50 +0000"
   },
   {
-    "headline": "Takeaways: Kirill Kaprizov’s second goal gives Wild 4-3 overtime victory over Red Wings",
-    "link": "https://www.startribune.com/detroit-red-wings-minnesota-wild-hockey-espn-kirill-kaprizov-lucas-raymond/601549960",
-    "source": "startribune",
-    "pubdate": "2026-01-23-06-51-46 +0000"
-  },
-  {
-    "headline": "Takeaways: Timberwolves’ losing streak hits four with 120-115 loss to Bulls",
-    "link": "https://www.startribune.com/takeaways-timberwolves-losing-streak-hits-four-with-120-115-loss-to-bulls/601549919",
-    "source": "startribune",
-    "pubdate": "2026-01-23-06-51-34 +0000"
-  },
-  {
-    "headline": "Damning evidence Idaho killer Bryan Kohberger left behind after murders seen in chilling new photos",
+    "headline": "Damning evidence Idaho killer Bryan Kohberger left behind after murders is seen in chilling new photos",
     "link": "https://nypost.com/2026/01/23/us-news/damning-evidence-idaho-killer-bryan-kohberger-left-behind-after-murders-seen-in-chilling-new-photos/",
     "source": "nypost",
     "pubdate": "2026-01-23-06-43-21 +0000"
@@ -550,18 +868,6 @@
     "link": "https://nypost.com/2026/01/23/us-news/florida-man-charged-with-felony-after-allegedly-hurling-ketchup-packet-at-good-samaritan/",
     "source": "nypost",
     "pubdate": "2026-01-23-06-19-44 +0000"
-  },
-  {
-    "headline": "Europe’s Leaders Scramble to Find a Path Forward With Trump",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/europe-trump-greenland-tariffs-eu-meeting.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-06-10-56 +0000"
-  },
-  {
-    "headline": "Europe’s Leaders Scramble to Find a Path Forward With Trump",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/europe-trump-greenland-tariffs-eu-meeting.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-06-10-56 +0000"
   },
   {
     "headline": "Eight surprise takeaways from the Oscar nominations",
@@ -600,6 +906,12 @@
     "pubdate": "2026-01-23-05-58-03 +0000"
   },
   {
+    "headline": "Dozens of sanctioned Russian tankers navigate Channel despite UK vow of 'assertive' action",
+    "link": "https://www.bbc.com/news/articles/c2d77rr51rko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-23-05-58-03 +0000"
+  },
+  {
     "headline": "Ukraine is battling to keep the lights on, this nuclear plant is vital in the fight",
     "link": "https://www.bbc.com/news/articles/cp3zzqzgn28o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -624,12 +936,6 @@
     "pubdate": "2026-01-23-05-20-35 +0000"
   },
   {
-    "headline": "Russia, Ukraine and US to hold trilateral talks in Abu Dhabi",
-    "link": "https://www.bbc.com/news/articles/cx20011w4zzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-05-19-03 +0000"
-  },
-  {
     "headline": "TikTok closes deal to split US app from global business",
     "link": "https://www.bbc.com/news/articles/c3edd1l328lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -648,13 +954,13 @@
     "pubdate": "2026-01-23-05-17-48 +0000"
   },
   {
-    "headline": "Trump withdraws Canada's invite to  Board of Peace",
+    "headline": "Trump withdraws Canada's invitation to  Board of Peace",
     "link": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-23-05-16-46 +0000"
   },
   {
-    "headline": "Trump withdraws Canada's invite to  Board of Peace",
+    "headline": "Trump withdraws Canada's invitation to  Board of Peace",
     "link": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-23-05-16-46 +0000"
@@ -771,19 +1077,13 @@
     "headline": "White House Posts Altered Photo Showing Arrested Minnesota Protester Crying",
     "link": "https://www.nytimes.com/2026/01/22/us/politics/nekima-armstrong-photo-white-house.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-04-20-34 +0000"
+    "pubdate": "2026-01-23-04-20-35 +0000"
   },
   {
     "headline": "White House Posts Altered Photo Showing Arrested Minnesota Protester Crying",
     "link": "https://www.nytimes.com/2026/01/22/us/politics/nekima-armstrong-photo-white-house.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-04-20-34 +0000"
-  },
-  {
-    "headline": "Minnesota prisons chief accuses Homeland Security of peddling ‘misinformation’ on ICE surge",
-    "link": "https://www.startribune.com/paul-schnell-prisons-head-disputes-ice-claims/601568598",
-    "source": "startribune",
-    "pubdate": "2026-01-23-04-00-45 +0000"
+    "pubdate": "2026-01-23-04-20-35 +0000"
   },
   {
     "headline": "China Sees a Chance to Lure Jaded U.S. Allies",
@@ -876,12 +1176,6 @@
     "pubdate": "2026-01-23-03-24-01 +0000"
   },
   {
-    "headline": "Arizona AG Kris Mayes wildly suggests residents can shoot masked ICE agents under state’s self-defense laws: ‘Recipe for disaster’",
-    "link": "https://nypost.com/2026/01/22/us-news/arizona-ag-wildly-suggests-residents-can-shoot-masked-ice-agents-under-states-self-defense-laws/",
-    "source": "nypost",
-    "pubdate": "2026-01-23-03-24-01 +0000"
-  },
-  {
     "headline": "Trump Wants Peace Board to Rewrite Global Order—but Major Powers Aren’t Sold",
     "link": "https://www.wsj.com/world/trump-wants-peace-board-to-rewrite-global-orderbut-major-powers-arent-sold-97945b4a",
     "source": "wsj",
@@ -924,12 +1218,6 @@
     "pubdate": "2026-01-23-02-56-03 +0000"
   },
   {
-    "headline": "FBI officials working on Trump probe ‘self-awarded’ themselves a bizarre trophy, Kash Patel reveals",
-    "link": "https://nypost.com/2026/01/22/us-news/fbi-officials-working-on-trump-probe-self-awarded-themselves-a-bizarre-trophy-kash-patel-reveals/",
-    "source": "nypost",
-    "pubdate": "2026-01-23-02-56-03 +0000"
-  },
-  {
     "headline": "Teens among missing after landslide at  New Zealand campsite",
     "link": "https://www.bbc.com/news/articles/c14rr5pnd80o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -948,12 +1236,6 @@
     "pubdate": "2026-01-23-02-49-00 +0000"
   },
   {
-    "headline": "Mayor Mamdani mocked over X post warning of anywhere from ‘3-16 inches’ of snow: ‘Way to narrow down the forecast’",
-    "link": "https://nypost.com/2026/01/22/us-news/mayor-mamdani-mocked-for-winter-storm-fern-forecast-3-16-inches/",
-    "source": "nypost",
-    "pubdate": "2026-01-23-02-48-41 +0000"
-  },
-  {
     "headline": "ICE Demands More Access to Minnesota Inmates. But It’s Complicated.",
     "link": "https://www.nytimes.com/2026/01/22/us/ice-minnesota-inmates.html",
     "source": "nyt",
@@ -964,12 +1246,6 @@
     "link": "https://www.nytimes.com/2026/01/22/us/liam-detention-ice-minneapolis.html",
     "source": "nyt",
     "pubdate": "2026-01-23-02-42-34 +0000"
-  },
-  {
-    "headline": "President Trump blasts Gov. ‘Newscum’ for ‘embarrassing’ US at Davos while California crumbles",
-    "link": "https://nypost.com/2026/01/22/us-news/president-trump-blasts-gov-newscum-for-embarrassing-us-at-davos-while-california-crumbles/",
-    "source": "nypost",
-    "pubdate": "2026-01-23-02-37-53 +0000"
   },
   {
     "headline": "Trump says he's withdrawing invitation for Carney to join his Gaza 'Board of Peace'",
@@ -987,13 +1263,13 @@
     "headline": "U.S. Formally Withdraws From World Health Organization",
     "link": "https://www.nytimes.com/2026/01/22/us/politics/united-states-withdraws-world-health-organization.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-02-25-17 +0000"
+    "pubdate": "2026-01-23-02-25-18 +0000"
   },
   {
     "headline": "U.S. Formally Withdraws From World Health Organization",
     "link": "https://www.nytimes.com/2026/01/22/us/politics/united-states-withdraws-world-health-organization.html",
     "source": "nyt",
-    "pubdate": "2026-01-23-02-25-17 +0000"
+    "pubdate": "2026-01-23-02-25-18 +0000"
   },
   {
     "headline": "Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’",
@@ -1014,7 +1290,7 @@
     "pubdate": "2026-01-23-02-23-25 +0000"
   },
   {
-    "headline": "Judge limits government actions against plaintiffs in free speech case",
+    "headline": "Judge limits government actions against students, scholars in free speech case",
     "link": "https://www.washingtonpost.com/nation/2026/01/22/free-speech-court-order-trump-administration-protesters/",
     "source": "wapo",
     "pubdate": "2026-01-23-02-21-57 +0000"
@@ -1066,12 +1342,6 @@
     "link": "https://www.nytimes.com/2026/01/22/us/politics/trump-qatar-air-force-one.html",
     "source": "nyt",
     "pubdate": "2026-01-23-02-10-23 +0000"
-  },
-  {
-    "headline": "Brutal cold will hike natural gas prices for some in Minnesota",
-    "link": "https://www.startribune.com/extreme-cold-minneosta-xcel-centerpoint-natural-gas-conserve-energy-save-money/601568777",
-    "source": "startribune",
-    "pubdate": "2026-01-23-02-07-54 +0000"
   },
   {
     "headline": "TikTok parent company finalizes deal to keep video-sharing app operating in the U.S.",
@@ -1130,12 +1400,6 @@
   {
     "headline": "Elon Musk is opening his wallet and reigniting his political apparatus for the 2026 midterm elections, signaling a return to the political arena",
     "link": "https://www.wsj.com/politics/elections/elon-musk-2026-midterms-1890c056",
-    "source": "wsj",
-    "pubdate": "2026-01-23-02-00-00 +0000"
-  },
-  {
-    "headline": "The West avoided an open rupture this week. But instead of celebrating, European leaders are bracing for more serious shocks to the trans-Atlantic relationship in the months ahead, WSJ’s Yaroslav Trofimov writes.",
-    "link": "https://www.wsj.com/world/europe/trump-greenland-us-europe-trust-0e11c7fa",
     "source": "wsj",
     "pubdate": "2026-01-23-02-00-00 +0000"
   },
@@ -1204,12 +1468,6 @@
     "link": "https://www.latimes.com/california/story/2026-01-22/california-texas-phone-booths-experiment-political-divide",
     "source": "latimes",
     "pubdate": "2026-01-23-01-21-52 +0000"
-  },
-  {
-    "headline": "After 15 days, county medical examiner classifies Renee Good’s death as homicide",
-    "link": "https://www.startribune.com/hennepin-county-medical-examiner-renee-good-death-homicide/601568759",
-    "source": "startribune",
-    "pubdate": "2026-01-23-01-12-34 +0000"
   },
   {
     "headline": "Trump’s About-Face on Greenland Thrusts Europe Into Another Dilemma",
@@ -1356,16 +1614,16 @@
     "pubdate": "2026-01-22-23-52-00 +0000"
   },
   {
+    "headline": "Intel Shares Fall on Swing to Loss",
+    "link": "https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-22-23-52-00 +0000"
+  },
+  {
     "headline": "Conservatives brand Dem Virginia Gov. Spanberger ‘the White Witch’ after she immediately enacts woke agenda",
     "link": "https://nypost.com/2026/01/22/us-news/conservatives-brand-dem-virginia-gov-spanberger-the-white-witch-after-she-immediately-enacts-woke-agenda/",
     "source": "nypost",
     "pubdate": "2026-01-22-23-38-23 +0000"
-  },
-  {
-    "headline": "Nisswa City Council passes vote of no confidence in Mayor Jennifer Carnahan",
-    "link": "https://www.startribune.com/nisswa-city-council-passes-vote-of-no-confidence-in-mayor-jennifer-carnahan/601568455",
-    "source": "startribune",
-    "pubdate": "2026-01-22-23-32-09 +0000"
   },
   {
     "headline": "Protester Nekima Levy Armstrong Who Interrupted Minnesota Church Service Is Arrested, Officials Say",
@@ -1462,12 +1720,6 @@
     "link": "https://www.nytimes.com/2026/01/22/us/politics/commission-trump-white-house-ballroom.html",
     "source": "nyt",
     "pubdate": "2026-01-22-23-14-41 +0000"
-  },
-  {
-    "headline": "Parts of US may see up to 12 inches of snow with 'life-threatening cold air'",
-    "link": "https://www.bbc.com/news/articles/cg7yy9xm1v1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-22-23-14-13 +0000"
   },
   {
     "headline": "Trump Administration Taps Data Centers for Backup Power Ahead of Snowstorm",
@@ -1628,12 +1880,6 @@
   {
     "headline": "Opinion | Trump Reverses Himself on Student Debt",
     "link": "https://www.wsj.com/opinion/donald-trump-student-loan-pause-linda-mcmahon-joe-biden-b09a053d",
-    "source": "wsj",
-    "pubdate": "2026-01-22-22-39-00 +0000"
-  },
-  {
-    "headline": "Alcoa Posts Higher Profit On Alumina, Aluminum Sales Gains",
-    "link": "https://www.wsj.com/business/earnings/alcoa-posts-higher-profit-on-alumina-aluminum-sales-gains-6832ed53?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-22-22-39-00 +0000"
   },
@@ -1884,18 +2130,6 @@
     "pubdate": "2026-01-22-21-40-18 +0000"
   },
   {
-    "headline": "Congress grills UnitedHealth CEO Stephen Hemsley on claim denials, insurance costs",
-    "link": "https://www.startribune.com/unitedhealth-group-ceo-stephen-hemsley-congress-hearing-claim-denial-insurance-cost/601566872",
-    "source": "startribune",
-    "pubdate": "2026-01-22-21-38-16 +0000"
-  },
-  {
-    "headline": "CSX Profit, Revenue Fall on Subdued Industrial Demand",
-    "link": "https://www.wsj.com/business/earnings/csx-profit-revenue-fall-on-subdued-industrial-demand-949c422e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-22-21-38-00 +0000"
-  },
-  {
     "headline": "Denmark Bristles at Idea of Giving Up Any Sovereignty in Greenland",
     "link": "https://www.nytimes.com/2026/01/22/world/europe/denmark-greenland-trump-us-reaction.html",
     "source": "nyt",
@@ -1984,6 +2218,12 @@
     "link": "https://www.washingtonpost.com/world/2026/01/22/trump-kushner-gaza-plan/",
     "source": "wapo",
     "pubdate": "2026-01-22-20-50-12 +0000"
+  },
+  {
+    "headline": "Treasury Yields Little Changed as Geopolitics Cool Down",
+    "link": "https://www.wsj.com/finance/jgbs-steady-amid-cautious-mood-as-bojs-two-day-meeting-kicks-off-efd6858a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-22-20-49-00 +0000"
   },
   {
     "headline": "Trump sues JPMorgan for $5bn over account closure after Capitol riot",
@@ -2086,18 +2326,6 @@
     "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
     "source": "startribune",
     "pubdate": "2026-01-22-19-51-14 +0000"
-  },
-  {
-    "headline": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
-    "link": "https://www.nytimes.com/video/business/economy/100000010656157/why-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
-    "source": "nyt",
-    "pubdate": "2026-01-22-19-49-10 +0000"
-  },
-  {
-    "headline": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
-    "link": "https://www.nytimes.com/video/business/economy/100000010656157/why-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
-    "source": "nyt",
-    "pubdate": "2026-01-22-19-49-10 +0000"
   },
   {
     "headline": "Trump Sues JPMorgan for $5 Billion for Closing His Bank Accounts",
@@ -2466,12 +2694,6 @@
     "pubdate": "2026-01-22-17-43-51 +0000"
   },
   {
-    "headline": "'It's all about the land': Zelensky says Ukraine to talk to US and Russia",
-    "link": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-22-17-37-26 +0000"
-  },
-  {
     "headline": "U.S. Crude Oil Stockpiles Post Weekly Increase",
     "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-increase-cef12e9a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -2494,12 +2716,6 @@
     "link": "https://www.washingtonpost.com/nation/2026/01/22/renee-good-shooting-autopsy-ice-minneapolis/",
     "source": "wapo",
     "pubdate": "2026-01-22-17-26-20 +0000"
-  },
-  {
-    "headline": "Polaris to close Wisconsin plant, lay off 200 workers",
-    "link": "https://www.startribune.com/polaris-closing-its-osceola-wis-manufacturing-plant-laying-off-200/601568499",
-    "source": "startribune",
-    "pubdate": "2026-01-22-17-09-14 +0000"
   },
   {
     "headline": "Greenland premier announces that there is no deal in place between US, Denmark",
@@ -2658,12 +2874,6 @@
     "pubdate": "2026-01-22-15-32-01 +0000"
   },
   {
-    "headline": "Lazard CEO Peter Orszag predicts ‘something big’ that ‘happens in Iran over next few days’",
-    "link": "https://nypost.com/2026/01/22/business/lazard-ceo-peter-orszag-predicts-something-big-that-happens-in-iran/",
-    "source": "nypost",
-    "pubdate": "2026-01-22-15-28-40 +0000"
-  },
-  {
     "headline": "Here’s what  Mikie Sherrill’s state of emergency for utility costs will really do for New Jersey",
     "link": "https://nypost.com/2026/01/22/us-news/heres-what-mikie-sherrills-state-of-emergency-on-utility-costs-will-do-for-new-jersey/",
     "source": "nypost",
@@ -2680,12 +2890,6 @@
     "link": "https://www.latimes.com/california/story/2026-01-22/newsom-on-world-stage-accuses-trump-of-trying-to-suppress-dissent",
     "source": "latimes",
     "pubdate": "2026-01-22-15-22-13 +0000"
-  },
-  {
-    "headline": "Procter & Gamble Revenue Ticks Up, Helped by Higher Prices",
-    "link": "https://www.wsj.com/business/retail/procter-gamble-revenue-ticks-up-helped-by-higher-prices-f14180e9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-22-15-17-00 +0000"
   },
   {
     "headline": "Vampire film Sinners breaks Oscar nominations record",
@@ -2862,12 +3066,6 @@
     "pubdate": "2026-01-22-13-14-04 +0000"
   },
   {
-    "headline": "Ugandan MP and Bobi Wine ally arrested over election violence",
-    "link": "https://www.bbc.com/news/articles/cq844z9y4q9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-22-13-14-04 +0000"
-  },
-  {
     "headline": "Japan suspends world's largest nuclear plant hours after restart",
     "link": "https://www.bbc.com/news/articles/cx2yy8z91n4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2878,83 +3076,5 @@
     "link": "https://www.bbc.com/news/articles/cx2yy8z91n4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-22-13-13-24 +0000"
-  },
-  {
-    "headline": "Trump and ‘Taco!’ Roil Davos",
-    "link": "https://www.nytimes.com/2026/01/22/business/dealbook/trump-taco-davos.html",
-    "source": "nyt",
-    "pubdate": "2026-01-22-13-08-00 +0000"
-  },
-  {
-    "headline": "European Equities Breathe Sigh of Relief on Trump Tariff Retreat",
-    "link": "https://www.wsj.com/finance/stocks/european-equities-breathe-sigh-of-relief-on-trump-tariff-retreat-46b1582e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-22-13-02-00 +0000"
-  },
-  {
-    "headline": "After a hard-fought campaign, Austin neighborhood elects a canine mayor",
-    "link": "https://www.washingtonpost.com/lifestyle/2026/01/22/austin-dog-mayor-pet-election/",
-    "source": "wapo",
-    "pubdate": "2026-01-22-13-00-31 +0000"
-  },
-  {
-    "headline": "Council leader ousted over election delay row",
-    "link": "https://www.bbc.com/news/articles/c24gg35l0leo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-22-12-43-50 +0000"
-  },
-  {
-    "headline": "Newlywed cameraman who worked for CBS among 3 killed in airstrike as Israel accuses victims of Hamas link",
-    "link": "https://nypost.com/2026/01/22/world-news/newlywed-cameraman-who-worked-for-cbs-among-3-killed-in-airstrike-as-israel-accuses-them-of-hamas-link/",
-    "source": "nypost",
-    "pubdate": "2026-01-22-12-40-42 +0000"
-  },
-  {
-    "headline": "Ubisoft cancels six games including Prince of Persia and closes studios",
-    "link": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-22-12-20-32 +0000"
-  },
-  {
-    "headline": "Trump Has Options in Iran. None Are Likely to Help Protesters Much.",
-    "link": "https://www.wsj.com/world/middle-east/trump-has-options-in-iran-none-are-likely-to-help-protesters-much-c66812ce",
-    "source": "wsj",
-    "pubdate": "2026-01-22-12-17-00 +0000"
-  },
-  {
-    "headline": "U.K. Government Borrowing Falls For Third Straight Month",
-    "link": "https://www.wsj.com/world/uk/u-k-government-borrowing-falls-for-third-straight-month-2dd53608",
-    "source": "wsj",
-    "pubdate": "2026-01-22-12-10-00 +0000"
-  },
-  {
-    "headline": "Rapid rollback of Kurdish-led forces reshapes Sharaa's Syria",
-    "link": "https://www.bbc.com/news/articles/c9311l0d40qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-22-12-08-12 +0000"
-  },
-  {
-    "headline": "Rapid rollback of Kurdish-led forces reshapes Sharaa's Syria",
-    "link": "https://www.bbc.com/news/articles/c9311l0d40qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-22-12-08-12 +0000"
-  },
-  {
-    "headline": "Turkish Central Bank Slows Pace of Rate Cuts as Food Inflation Picks Up",
-    "link": "https://www.wsj.com/economy/central-banking/turkish-central-bank-slows-pace-of-rate-cuts-as-food-inflation-picks-up-5f179507",
-    "source": "wsj",
-    "pubdate": "2026-01-22-12-05-00 +0000"
-  },
-  {
-    "headline": "Vice President JD Vance heads to Minnesota, where things are only getting worse. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/policy/vance-heads-to-minnesota-where-things-are-only-getting-worse-571da783",
-    "source": "wsj",
-    "pubdate": "2026-01-22-12-02-00 +0000"
-  },
-  {
-    "headline": "S.F. closes downtown ‘oasis,’ shifting staff to street patrols",
-    "link": "https://missionlocal.org/2026/01/sf-triage-center-oasis-sixth-street/",
-    "source": "missionlocal",
-    "pubdate": "2026-01-22-12-00-00 +0000"
   }
 ]
