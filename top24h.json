@@ -1,31 +1,38 @@
 [
   {
-    "score": 207,
-    "pubdate": "2026-01-23-02-31-45 +0000",
-    "source": "cbc",
-    "headline": "Trump says he's withdrawing invitation for Carney to join his Gaza 'Board of Peace'",
-    "link": "https://www.cbc.ca/news/politics/trump-board-of-peace-canada-uninvited-carney-letter-9.7057437?cmp=rss"
+    "score": 216,
+    "pubdate": "2026-01-23-14-08-01 +0000",
+    "source": "wapo",
+    "headline": "Trump withdraws Carney’s invitation to Board of Peace after Davos spat",
+    "link": "https://www.washingtonpost.com/world/2026/01/23/us-canada-trump-carney-board-peace/"
   },
   {
-    "score": 93,
+    "score": 92,
     "pubdate": "2026-01-23-08-08-54 +0000",
     "source": "bbc",
     "headline": "Is the US-TikTok deal a new reality for China's tech champions?",
     "link": "https://www.bbc.com/news/articles/c6200mz054yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 81,
-    "pubdate": "2026-01-22-18-36-55 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk’s Greenland jokes fall flat at Davos in awkward moment — as he unveils plan to sell robots",
-    "link": "https://nypost.com/2026/01/22/business/elon-musks-greenland-jokes-fall-flat-at-davos-unveils-plan-to-sell-robots/"
-  },
-  {
-    "score": 79,
+    "score": 86,
     "pubdate": "2026-01-22-19-43-16 +0000",
     "source": "nyt",
     "headline": "Judge Rejects DOJ’s Criminal Complaint Against Don Lemon Over Minnesota Church Protest",
     "link": "https://www.nytimes.com/2026/01/22/us/politics/don-lemon-minnesota-church-charges-rejected-trump-doj.html"
+  },
+  {
+    "score": 75,
+    "pubdate": "2026-01-23-10-46-56 +0000",
+    "source": "nyt",
+    "headline": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
+    "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html"
+  },
+  {
+    "score": 67,
+    "pubdate": "2026-01-23-02-49-00 +0000",
+    "source": "wsj",
+    "headline": "A resolution to rein in President Trump’s powers to wage war in Venezuela was narrowly defeated in the House, after Republican leaders hustled a lawmaker back from Texas to cast the deciding vote",
+    "link": "https://www.wsj.com/politics/policy/gop-lawmaker-votes-just-in-time-to-defend-trumps-war-powers-f9e32fba"
   },
   {
     "score": 64,
@@ -35,25 +42,25 @@
     "link": "https://www.nytimes.com/2026/01/22/world/europe/davos-zelensky.html"
   },
   {
-    "score": 64,
-    "pubdate": "2026-01-23-02-49-00 +0000",
-    "source": "wsj",
-    "headline": "A resolution to rein in President Trump’s powers to wage war in Venezuela was narrowly defeated in the House, after Republican leaders hustled a lawmaker back from Texas to cast the deciding vote",
-    "link": "https://www.wsj.com/politics/policy/gop-lawmaker-votes-just-in-time-to-defend-trumps-war-powers-f9e32fba"
-  },
-  {
-    "score": 55,
+    "score": 51,
     "pubdate": "2026-01-22-20-18-11 +0000",
     "source": "nypost",
     "headline": "JD Vance backs ICE in Minn., urges everyone to ‘tone down the temperature’ after chaos over Renee Nicole Good’s death",
     "link": "https://nypost.com/2026/01/22/us-news/jd-vance-urges-everyone-to-tone-down-the-temperature-a-little-bit-in-minneapolis/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-01-23-15-36-52 +0000",
-    "source": "bbc",
-    "headline": "High stakes but low expectations ahead of Ukraine talks with Russia and US",
-    "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss"
+    "score": 50,
+    "pubdate": "2026-01-23-16-45-06 +0000",
+    "source": "nyt",
+    "headline": "Ryan Wedding, Canadian Ex-Snowboarder Accused of Running Drug Ring, Is Arrested",
+    "link": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-01-23-12-19-51 +0000",
+    "source": "nypost",
+    "headline": "Trump reveals how he got large bruise on his hand as he trashes health conspiracies",
+    "link": "https://nypost.com/2026/01/23/us-news/trump-blames-hand-bruise-at-davos-on-aspirin/"
   },
   {
     "score": 44,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
     "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-01-22-22-02-00 +0000",
-    "source": "wsj",
-    "headline": "JPMorgan CEO Jamie Dimon Reaps $43 Million in Pay for Last Year",
-    "link": "https://www.wsj.com/finance/banking/jpmorgan-ceo-jamie-dimon-reaps-43-million-in-pay-for-last-year-8a0d0f5b?mod=rss_markets_main"
   }
 ]
