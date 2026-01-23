@@ -1,23 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-01-23-02-25-17 +0000",
-    "source": "nyt",
-    "headline": "U.S. Formally Withdraws From World Health Organization",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/united-states-withdraws-world-health-organization.html"
+    "score": 36,
+    "pubdate": "2026-01-23-03-24-01 +0000",
+    "source": "nypost",
+    "headline": "Arizona AG Kris Mayes wildly suggests residents can shoot masked ICE agents under state’s self-defense laws: ‘Recipe for disaster’",
+    "link": "https://nypost.com/2026/01/22/us-news/arizona-ag-wildly-suggests-residents-can-shoot-masked-ice-agents-under-states-self-defense-laws/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-01-23-03-44-07 +0000",
+    "source": "nypost",
+    "headline": "Trump withdraws Canadian PM Mark Carney’s Board of Peace invitation",
+    "link": "https://nypost.com/2026/01/22/us-news/trump-withdraws-canadian-pm-mark-carneys-board-of-peace-invitation/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-01-23-03-33-15 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom roasted as photo of him posing with ‘sugar daddy’ Alex Soros goes viral",
+    "link": "https://nypost.com/2026/01/22/us-news/gavin-newsom-roasted-as-photo-of-him-posing-with-sugar-daddy-alex-soros-goes-viral/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-23-03-37-00 +0000",
+    "source": "wsj",
+    "headline": "Several People Missing After Landslide Buries Campground in New Zealand",
+    "link": "https://www.wsj.com/world/oceania/several-people-missing-after-landslide-buries-campground-in-new-zealand-43c937df"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-23-03-32-25 +0000",
+    "source": "nypost",
+    "headline": "NYC teachers union to hold day of action in ‘solidarity’ with Minneapolis, demand ICE stay out of city",
+    "link": "https://nypost.com/2026/01/22/us-news/nyc-teachers-union-to-hold-day-of-action-in-solidarity-with-minneapolis-demand-ice-stay-out-of-city/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-23-03-51-18 +0000",
+    "source": "nypost",
+    "headline": "Capone-era pistol discovered in wall of Chicago distillery once taken over by mobster: reports",
+    "link": "https://nypost.com/2026/01/22/us-news/capone-era-pistol-found-in-wall-of-chicago-distillery-reports/"
   },
   {
     "score": 9,
-    "pubdate": "2026-01-23-02-32-42 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Zelensky Criticizes European Allies’ Response to Trump and Russia",
-    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news"
+    "pubdate": "2026-01-23-04-00-45 +0000",
+    "source": "startribune",
+    "headline": "Minnesota prisons chief accuses Homeland Security of peddling ‘misinformation’ on ICE surge",
+    "link": "https://www.startribune.com/paul-schnell-prisons-head-disputes-ice-claims/601568598"
   },
   {
-    "score": 0,
-    "pubdate": "2026-01-23-02-25-17 +0000",
+    "score": 9,
+    "pubdate": "2026-01-23-03-50-16 +0000",
+    "source": "startribune",
+    "headline": "Souhan: Brian Flores extension a credit to Vikings owners Zygi, Mark Wilf",
+    "link": "https://www.startribune.com/minnesota-vikings-brian-flores-kevin-oconnell-zygi-wilf/601566815"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-23-03-26-00 +0000",
+    "source": "wsj",
+    "headline": "Bank of Japan Keeps Rates at 30-Year High as It Gauges Impact of Last Hike",
+    "link": "https://www.wsj.com/articles/bank-of-japan-keeps-rates-at-30-year-high-as-it-gauges-impact-of-last-hike-997aca82"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-23-03-36-54 +0000",
     "source": "nyt",
-    "headline": "U.S. Formally Withdraws From World Health Organization",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/united-states-withdraws-world-health-organization.html"
+    "headline": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
+    "link": "https://www.nytimes.com/2026/01/22/business/media/tiktok-sold-app-content-algorithm.html"
   }
 ]
