@@ -1,6 +1,6 @@
 [
   {
-    "score": 164,
+    "score": 162,
     "pubdate": "2026-01-23-10-46-56 +0000",
     "source": "nyt",
     "headline": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
@@ -35,13 +35,6 @@
     "link": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-01-23-21-39-00 +0000",
-    "source": "wsj",
-    "headline": "Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand",
-    "link": "https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 51,
     "pubdate": "2026-01-24-02-54-29 +0000",
     "source": "nypost",
@@ -49,11 +42,18 @@
     "link": "https://nypost.com/2026/01/23/us-news/house-speaker-mike-johnson-suggests-he-was-nearly-aborted-by-his-teenage-parents/"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2026-01-24-04-00-00 +0000",
     "source": "wsj",
     "headline": "China Built a Vast Oil Stake in Venezuela. Now It Risks Getting Muscled Out.",
-    "link": "https://www.wsj.com/world/americas/china-venezuela-oil-trump-65ce1da2?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/world/americas/china-venezuela-oil-trump-65ce1da2"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-01-23-21-39-00 +0000",
+    "source": "wsj",
+    "headline": "Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand",
+    "link": "https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 45,
