@@ -1,17 +1,17 @@
 [
   {
-    "score": 98,
-    "pubdate": "2026-01-23-10-46-56 +0000",
-    "source": "nyt",
-    "title": "After Trump&#8217;s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
-    "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html"
+    "score": 89,
+    "pubdate": "2026-01-24-02-00-00 +0000",
+    "source": "wsj",
+    "title": "Trump&#8217;s aggressive deployment of ICE has thrust Democrats into a debate over how to push back without being perceived as the anti-law-and-order party",
+    "link": "https://www.wsj.com/politics/policy/democrat-respone-abolish-ice-bc51a946"
   },
   {
-    "score": 59,
-    "pubdate": "2026-01-24-05-31-24 +0000",
-    "source": "startribune",
-    "title": "The latest: Thousands march, scores of Minnesota businesses close to protest ICE operation",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+    "score": 43,
+    "pubdate": "2026-01-23-20-39-22 +0000",
+    "source": "nypost",
+    "title": "US, Ukraine and Russia hold first-ever trilateral talks on ending Putin&#8217;s war",
+    "link": "https://nypost.com/2026/01/23/world-news/us-ukraine-and-russia-hold-first-ever-trilateral-talks-on-ending-putins-war/"
   },
   {
     "score": 39,
@@ -21,7 +21,14 @@
     "link": "https://nypost.com/2026/01/23/us-news/murphy-grants-clemency-to-nj-mom-convicted-of-fatally-setting-2-toddlers-on-fire-in-1996/"
   },
   {
-    "score": 38,
+    "score": 37,
+    "pubdate": "2026-01-24-09-08-00 +0000",
+    "source": "wsj",
+    "title": "China&#8217;s Xi Places His Top General Under Investigation as Military Purges Heat Up",
+    "link": "https://www.wsj.com/world/china/chinas-xi-places-his-top-general-under-investigation-as-military-purges-heat-up-d07f9c7d"
+  },
+  {
+    "score": 36,
     "pubdate": "2026-01-23-16-18-59 +0000",
     "source": "nypost",
     "title": "NYC judge paves way for delivery customers to feel MORE pressure to tip after upholding new law in spite of DoorDash, Uber&#8217;s suit",
@@ -36,20 +43,20 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-01-23-21-39-00 +0000",
-    "source": "wsj",
-    "title": "Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand",
-    "link": "https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?mod=pls_whats_news_us_business_f"
+    "pubdate": "2026-01-23-16-09-21 +0000",
+    "source": "nyt",
+    "title": "Trump Withdraws Carney&#8217;s Invitation for Canada to Join His &#8216;Board of Peace&#8217;",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-01-24-05-31-24 +0000",
+    "source": "startribune",
+    "title": "The latest: Thousands march, scores of Minnesota businesses close to protest ICE operation",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
   },
   {
     "score": 32,
-    "pubdate": "2026-01-24-04-00-00 +0000",
-    "source": "wsj",
-    "title": "China Built a Vast Oil Stake in Venezuela. Now It Risks Getting Muscled Out.",
-    "link": "https://www.wsj.com/world/americas/china-venezuela-oil-trump-65ce1da2"
-  },
-  {
-    "score": 31,
     "pubdate": "2026-01-23-16-11-32 +0000",
     "source": "wapo",
     "title": "Olympic snowboarder turned &#8216;Most Wanted&#8217; fugitive Ryan Wedding arrested",
@@ -61,12 +68,5 @@
     "source": "nyt",
     "title": "U.K.&#8217;s Starmer Calls Trump&#8217;s Claims About NATO Soldiers in Afghanistan &#8216;Appalling&#8217;",
     "link": "https://www.nytimes.com/2026/01/23/world/europe/uk-soldiers-afghanistan-trump-nato.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-01-23-16-09-21 +0000",
-    "source": "nyt",
-    "title": "Trump Withdraws Carney&#8217;s Invitation for Canada to Join His &#8216;Board of Peace&#8217;",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
   }
 ]
