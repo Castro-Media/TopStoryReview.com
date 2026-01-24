@@ -1,34 +1,27 @@
 [
   {
-    "score": 183,
-    "pubdate": "2026-01-23-16-09-21 +0000",
-    "source": "nyt",
-    "headline": "Trump Withdraws Carney’s Invitation for Canada to Join His ‘Board of Peace’",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
-  },
-  {
-    "score": 87,
-    "pubdate": "2026-01-23-18-58-33 +0000",
-    "source": "nyt",
-    "headline": "After TikTok Deal, Chinese Firms Search for a New Global Path",
-    "link": "https://www.nytimes.com/2026/01/23/business/tiktok-china-technology.html"
-  },
-  {
-    "score": 74,
+    "score": 174,
     "pubdate": "2026-01-23-10-46-56 +0000",
     "source": "nyt",
     "headline": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
     "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html"
   },
   {
-    "score": 71,
-    "pubdate": "2026-01-24-01-12-50 +0000",
+    "score": 84,
+    "pubdate": "2026-01-23-18-58-33 +0000",
     "source": "nyt",
-    "headline": "Hundreds of Minnesota Businesses on Strike in Protest Against ICE",
-    "link": "https://www.nytimes.com/2026/01/23/us/minnesota-businesses-protest-ice.html"
+    "headline": "After TikTok Deal, Chinese Firms Search for a New Global Path",
+    "link": "https://www.nytimes.com/2026/01/23/business/tiktok-china-technology.html"
   },
   {
-    "score": 70,
+    "score": 69,
+    "pubdate": "2026-01-23-16-09-21 +0000",
+    "source": "nyt",
+    "headline": "Trump Withdraws Carney’s Invitation for Canada to Join His ‘Board of Peace’",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-01-23-02-49-00 +0000",
     "source": "wsj",
     "headline": "A resolution to rein in President Trump’s powers to wage war in Venezuela was narrowly defeated in the House, after Republican leaders hustled a lawmaker back from Texas to cast the deciding vote",
@@ -36,20 +29,20 @@
   },
   {
     "score": 64,
-    "pubdate": "2026-01-24-01-11-09 +0000",
+    "pubdate": "2026-01-24-01-11-10 +0000",
     "source": "nyt",
     "headline": "Ryan Wedding, Canadian Ex-Snowboarder Accused of Running Drug Ring, Is Arrested",
     "link": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-01-23-02-20-00 +0000",
-    "source": "wsj",
-    "headline": "California Gov. Gavin Newsom spent his days at the World Economic Forum trying to portray himself as the antidote to Donald Trump. It didn’t always go smoothly.",
-    "link": "https://www.wsj.com/politics/policy/the-newsom-trump-showdown-heats-up-davos-ed40fa8a"
+    "score": 64,
+    "pubdate": "2026-01-24-01-12-50 +0000",
+    "source": "nyt",
+    "headline": "Hundreds of Minnesota Businesses on Strike in Protest Against ICE",
+    "link": "https://www.nytimes.com/2026/01/23/us/minnesota-businesses-protest-ice.html"
   },
   {
-    "score": 52,
+    "score": 53,
     "pubdate": "2026-01-23-21-39-00 +0000",
     "source": "wsj",
     "headline": "Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand",
@@ -61,6 +54,13 @@
     "source": "nyt",
     "headline": "Joint Chiefs Chairman Issues Rare Invitation to Foreign Military Heads",
     "link": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-01-23-23-34-51 +0000",
+    "source": "nypost",
+    "headline": "Ex-NJ Gov. Phil Murphy granted clemency to mom convicted of torching 2 toddlers to death— just hours before he left office",
+    "link": "https://nypost.com/2026/01/23/us-news/murphy-grants-clemency-to-nj-mom-convicted-of-fatally-setting-2-toddlers-on-fire-in-1996/"
   },
   {
     "score": 44,
