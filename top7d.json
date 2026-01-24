@@ -1,10 +1,10 @@
 [
   {
-    "score": 445,
-    "pubdate": "2026-01-20-02-00-00 +0000",
+    "score": 444,
+    "pubdate": "2026-01-22-00-03-00 +0000",
     "source": "wsj",
-    "headline": "President Trump’s bid to annex Greenland and unleash tariffs on several European nations has plunged the trans-Atlantic alliance into crisis. If a trade war breaks out, the U.S. could feel the pain.",
-    "link": "https://www.wsj.com/economy/trade/what-a-break-with-europe-means-for-the-american-economy-8b5d746e"
+    "headline": "President Trump rules out using force to take control of Greenland and calls off promised tariffs on European nations",
+    "link": "https://www.wsj.com/politics/national-security/a-piece-of-ice-for-world-protection-trump-demands-europe-cut-deal-on-greenland-cc1014f6"
   },
   {
     "score": 163,
@@ -21,7 +21,7 @@
     "link": "https://www.bbc.com/news/articles/c6200mz054yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 136,
+    "score": 135,
     "pubdate": "2026-01-24-15-33-06 +0000",
     "source": "bbc",
     "headline": "Two days of peace talks end as Russia continues Ukraine attacks",
@@ -57,16 +57,16 @@
   },
   {
     "score": 97,
-    "pubdate": "2026-01-21-05-56-20 +0000",
-    "source": "bbc",
-    "headline": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
-    "link": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 97,
     "pubdate": "2026-01-24-15-01-46 +0000",
     "source": "nypost",
     "headline": "Trump reveals to The Post ‘on land’ drug strikes could hit ‘anywhere’ — including Mexico, Central and South America",
     "link": "https://nypost.com/2026/01/24/us-news/trump-reveals-to-the-post-on-land-drug-strikes-could-hit-anywhere-including-mexico-central-and-south-america/"
+  },
+  {
+    "score": 97,
+    "pubdate": "2026-01-21-05-56-20 +0000",
+    "source": "bbc",
+    "headline": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
+    "link": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss"
   }
 ]
