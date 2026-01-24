@@ -1,38 +1,45 @@
 [
   {
-    "score": 169,
+    "score": 167,
     "pubdate": "2026-01-23-10-46-56 +0000",
     "source": "nyt",
     "headline": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
     "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html"
   },
   {
-    "score": 82,
-    "pubdate": "2026-01-23-18-58-33 +0000",
-    "source": "nyt",
-    "headline": "After TikTok Deal, Chinese Firms Search for a New Global Path",
-    "link": "https://www.nytimes.com/2026/01/23/business/tiktok-china-technology.html"
+    "score": 75,
+    "pubdate": "2026-01-23-08-08-54 +0000",
+    "source": "bbc",
+    "headline": "Is the US-TikTok deal a new reality for China's tech champions?",
+    "link": "https://www.bbc.com/news/articles/c6200mz054yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 69,
-    "pubdate": "2026-01-23-16-09-21 +0000",
-    "source": "nyt",
-    "headline": "Trump Withdraws Carney’s Invitation for Canada to Join His ‘Board of Peace’",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
-  },
-  {
-    "score": 64,
+    "score": 63,
     "pubdate": "2026-01-24-01-11-10 +0000",
     "source": "nyt",
     "headline": "Ryan Wedding, Canadian Ex-Snowboarder Accused of Running Drug Ring, Is Arrested",
     "link": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html"
   },
   {
-    "score": 64,
-    "pubdate": "2026-01-24-01-12-50 +0000",
+    "score": 62,
+    "pubdate": "2026-01-23-23-01-19 +0000",
+    "source": "wapo",
+    "headline": "Thousands march in Minnesota and hundreds of businesses close to protest ICE",
+    "link": "https://www.washingtonpost.com/nation/2026/01/23/minnesota-general-strike-ice-protest/"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-01-23-16-09-21 +0000",
     "source": "nyt",
-    "headline": "Hundreds of Minnesota Businesses on Strike in Protest Against ICE",
-    "link": "https://www.nytimes.com/2026/01/23/us/minnesota-businesses-protest-ice.html"
+    "headline": "Trump Withdraws Carney’s Invitation for Canada to Join His ‘Board of Peace’",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-01-24-02-54-29 +0000",
+    "source": "nypost",
+    "headline": "House Speaker Mike Johnson suggests he was nearly aborted by his teenage parents: ‘Eternally grateful’",
+    "link": "https://nypost.com/2026/01/23/us-news/house-speaker-mike-johnson-suggests-he-was-nearly-aborted-by-his-teenage-parents/"
   },
   {
     "score": 53,
@@ -42,13 +49,6 @@
     "link": "https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 50,
-    "pubdate": "2026-01-23-16-43-31 +0000",
-    "source": "bbc",
-    "headline": "Spanish track was fractured before high-speed train disaster, report finds",
-    "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 47,
     "pubdate": "2026-01-23-23-03-53 +0000",
     "source": "nyt",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html"
   },
   {
+    "score": 46,
+    "pubdate": "2026-01-23-22-40-08 +0000",
+    "source": "latimes",
+    "headline": "GOP rails against Newsom's late date for special election to fill Rep. Doug LaMalfa's seat",
+    "link": "https://www.latimes.com/california/story/2026-01-23/la-me-lamalfa-newsom-gop-house"
+  },
+  {
     "score": 44,
     "pubdate": "2026-01-23-22-21-19 +0000",
     "source": "nyt",
     "headline": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
     "link": "https://www.nytimes.com/2026/01/23/us/politics/saudi-arabia-liv-golf-trump.html"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-01-23-17-00-09 +0000",
-    "source": "latimes",
-    "headline": "Trump lawyers urge Supreme Court to block California's new election map while upholding Texas'",
-    "link": "https://www.latimes.com/politics/story/2026-01-23/trump-lawyers-urge-supreme-court-to-block-californias-new-election-map-while-upholding-texas"
   }
 ]
