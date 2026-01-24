@@ -1,24 +1,31 @@
 [
   {
-    "score": 182,
+    "score": 183,
+    "pubdate": "2026-01-23-16-09-21 +0000",
+    "source": "nyt",
+    "headline": "Trump Withdraws Carney’s Invitation for Canada to Join His ‘Board of Peace’",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
+  },
+  {
+    "score": 87,
+    "pubdate": "2026-01-23-18-58-33 +0000",
+    "source": "nyt",
+    "headline": "After TikTok Deal, Chinese Firms Search for a New Global Path",
+    "link": "https://www.nytimes.com/2026/01/23/business/tiktok-china-technology.html"
+  },
+  {
+    "score": 74,
     "pubdate": "2026-01-23-10-46-56 +0000",
     "source": "nyt",
     "headline": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
     "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html"
   },
   {
-    "score": 99,
-    "pubdate": "2026-01-23-19-52-49 +0000",
-    "source": "nypost",
-    "headline": "Alleged psycho surgeon Michael McKee gives stone-faced glare in Ohio court as he agrees to stay locked up over murders of ex, her new husband",
-    "link": "https://nypost.com/2026/01/23/us-news/alleged-psycho-surgeon-michael-mckee-gives-stone-faced-glare-in-ohio-court/"
-  },
-  {
-    "score": 74,
-    "pubdate": "2026-01-23-16-09-21 +0000",
+    "score": 71,
+    "pubdate": "2026-01-24-01-12-50 +0000",
     "source": "nyt",
-    "headline": "Trump Withdraws Carney’s Invitation for Canada to Join His ‘Board of Peace’",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html"
+    "headline": "Hundreds of Minnesota Businesses on Strike in Protest Against ICE",
+    "link": "https://www.nytimes.com/2026/01/23/us/minnesota-businesses-protest-ice.html"
   },
   {
     "score": 70,
@@ -28,32 +35,32 @@
     "link": "https://www.wsj.com/politics/policy/gop-lawmaker-votes-just-in-time-to-defend-trumps-war-powers-f9e32fba"
   },
   {
-    "score": 70,
-    "pubdate": "2026-01-23-05-17-48 +0000",
-    "source": "bbc",
-    "headline": "TikTok closes deal to split US app from global business",
-    "link": "https://www.bbc.com/news/articles/c3edd1l328lo?at_medium=RSS&at_campaign=rss"
+    "score": 64,
+    "pubdate": "2026-01-24-01-11-09 +0000",
+    "source": "nyt",
+    "headline": "Ryan Wedding, Canadian Ex-Snowboarder Accused of Running Drug Ring, Is Arrested",
+    "link": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html"
   },
   {
-    "score": 69,
-    "pubdate": "2026-01-23-20-18-42 +0000",
-    "source": "wapo",
-    "headline": "100 clergy arrested at airport protest as Minnesotans strike against ICE",
-    "link": "https://www.washingtonpost.com/nation/2026/01/23/minnesota-general-strike-ice-protest/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-01-23-21-53-22 +0000",
-    "source": "nypost",
-    "headline": "Ex-Olympic snowboarder Ryan Wedding back on US soil, seen for first time since arrest on murder, drug charges",
-    "link": "https://nypost.com/2026/01/23/us-news/ex-olympic-snowboarder-ryan-wedding-back-on-us-soil-seen-for-first-time-since-getting-hit-with-murder-drug-raps/"
-  },
-  {
-    "score": 47,
+    "score": 53,
     "pubdate": "2026-01-23-02-20-00 +0000",
     "source": "wsj",
     "headline": "California Gov. Gavin Newsom spent his days at the World Economic Forum trying to portray himself as the antidote to Donald Trump. It didn’t always go smoothly.",
     "link": "https://www.wsj.com/politics/policy/the-newsom-trump-showdown-heats-up-davos-ed40fa8a"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-01-23-21-39-00 +0000",
+    "source": "wsj",
+    "headline": "Intel Shares Slide as Costs Pile Up in Bid to Meet AI Demand",
+    "link": "https://www.wsj.com/business/earnings/intel-intl-q4-earnings-report-2025-9271b096?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-01-23-23-03-53 +0000",
+    "source": "nyt",
+    "headline": "Joint Chiefs Chairman Issues Rare Invitation to Foreign Military Heads",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html"
   },
   {
     "score": 44,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
     "link": "https://www.nytimes.com/2026/01/23/us/politics/saudi-arabia-liv-golf-trump.html"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-01-23-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "When asked what connects his two spheres of influence—mixed martial arts and President Trump’s MAGA base—Ultimate Fighting Championship mogul Dana White has a simple answer: “Testosterone”",
-    "link": "https://www.wsj.com/business/media/dana-whites-empire-of-testosterone-now-stretches-to-the-white-house-70868b14"
   }
 ]
