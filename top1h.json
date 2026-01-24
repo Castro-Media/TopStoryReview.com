@@ -1,30 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-01-24-04-00-00 +0000",
+    "score": 25,
+    "pubdate": "2026-01-24-04-57-00 +0000",
     "source": "wsj",
-    "headline": "China Built a Vast Oil Stake in Venezuela. Now It Risks Getting Muscled Out.",
-    "link": "https://www.wsj.com/world/americas/china-venezuela-oil-trump-65ce1da2"
+    "headline": "The Pentagon struck a conciliatory tone toward Beijing in its new defense strategy, stating that its overarching goal is to establish “strategic stability” in the Indo-Pacific region",
+    "link": "https://www.wsj.com/politics/national-security/pentagons-new-defense-strategy-strikes-conciliatory-tone-on-china-03b0940f"
   },
   {
-    "score": 7,
-    "pubdate": "2026-01-24-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "Europe Prepares for a Nightmare Scenario: The U.S. Blocking Access to Tech",
-    "link": "https://www.wsj.com/tech/europe-prepares-for-a-nightmare-scenario-the-u-s-blocking-access-to-tech-1967b39b"
+    "score": 21,
+    "pubdate": "2026-01-24-05-52-03 +0000",
+    "source": "nypost",
+    "headline": "HUD orders public housing officials to verify citizenship of tenants: ‘Leave no stone unturned’",
+    "link": "https://nypost.com/2026/01/24/us-news/hud-orders-public-housing-officials-to-verify-citizenship-of-tenants-leave-no-stone-unturned/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-24-05-36-01 +0000",
+    "source": "nypost",
+    "headline": "Thousands march through Minneapolis, swarm Target Center demanding ICE removal from Minnesota",
+    "link": "https://nypost.com/2026/01/24/us-news/thousands-of-protesters-march-through-minneapolis-swarm-target-center-demanding-ice-removal-from-minnesota/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-24-05-21-22 +0000",
+    "source": "nypost",
+    "headline": "Perv teacher who allegedly sent vile sexual messages to 5th grade student slapped with rape charge",
+    "link": "https://nypost.com/2026/01/24/us-news/kentucky-teacher-sydnee-graf-who-allegedly-sent-sexual-messages-to-5th-grade-student-slapped-with-rape-charge/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-24-04-56-14 +0000",
+    "source": "nypost",
+    "headline": "Arkansas Powerball player claims $1.82B jackpot — second-largest prize in US history — and chooses cash option",
+    "link": "https://nypost.com/2026/01/23/us-news/arkansas-powerball-player-claims-1-82b-jackpot-second-largest-prize-in-us-history-and-chooses-cash-option/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-24-05-01-07 +0000",
+    "source": "nyt",
+    "headline": "An Unlikely Source of Crypto Innovation: Afghanistan",
+    "link": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-24-05-11-18 +0000",
+    "source": "bbc",
+    "headline": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks",
+    "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 6,
-    "pubdate": "2026-01-24-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "Syrian President Called the U.S.’s Bluff—and It Paid Off",
-    "link": "https://www.wsj.com/world/middle-east/syria-ahmed-sharaa-us-troops-a1b0a1d9"
+    "pubdate": "2026-01-24-05-31-24 +0000",
+    "source": "startribune",
+    "headline": "The latest: Thousands march, scores of Minnesota businesses close to protest ICE operation",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
   },
   {
-    "score": 0,
-    "pubdate": "2026-01-24-04-00-00 +0000",
-    "source": "wsj",
-    "headline": "China Built a Vast Oil Stake in Venezuela. Now It Risks Getting Muscled Out.",
-    "link": "https://www.wsj.com/world/americas/china-venezuela-oil-trump-65ce1da2?mod=pls_whats_news_us_business_f"
+    "score": 6,
+    "pubdate": "2026-01-24-05-21-06 +0000",
+    "source": "bbc",
+    "headline": "China no longer Pentagon's top security priority",
+    "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-24-05-10-24 +0000",
+    "source": "bbc",
+    "headline": "Boy, 12, dies from injuries after Sydney shark attack",
+    "link": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss"
   }
 ]
