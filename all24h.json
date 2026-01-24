@@ -1,5 +1,113 @@
 [
   {
+    "headline": "Federal Agents Shoot Another Person in Minneapolis, Gov. Walz Says",
+    "link": "https://www.wsj.com/us-news/federal-agents-shoot-another-person-in-minneapolis-gov-walz-says-469e5862",
+    "source": "wsj",
+    "pubdate": "2026-01-24-16-47-00 +0000"
+  },
+  {
+    "headline": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
+    "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-01-24-16-46-20 +0000"
+  },
+  {
+    "headline": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
+    "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-01-24-16-46-20 +0000"
+  },
+  {
+    "headline": "Live: Man shot and killed by federal agents in south Minneapolis this morning, police chief says",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
+    "source": "startribune",
+    "pubdate": "2026-01-24-16-42-54 +0000"
+  },
+  {
+    "headline": "Washington Post Tears Up Plans to Cover Winter Olympics",
+    "link": "https://www.nytimes.com/2026/01/24/business/media/washington-post-winter-olympics.html",
+    "source": "nyt",
+    "pubdate": "2026-01-24-16-40-37 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/24/us/minneapolis-shooting-ice/authorities-in-minneapolis-respond-to-reports-of-shooting-involving-federal-agents",
+    "source": "nyt",
+    "pubdate": "2026-01-24-16-39-59 +0000"
+  },
+  {
+    "headline": "Federal officers have shot another person in Minnesota amid immigration crackdown, governor says",
+    "link": "https://www.cbc.ca/news/world/livestory/ice-minnesota-shooting-jan-24-updates-9.7059653?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-24-16-39-14 +0000"
+  },
+  {
+    "headline": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
+    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+    "source": "nyt",
+    "pubdate": "2026-01-24-16-37-51 +0000"
+  },
+  {
+    "headline": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
+    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+    "source": "nyt",
+    "pubdate": "2026-01-24-16-37-51 +0000"
+  },
+  {
+    "headline": "Shots fired after federal police in Minneapolis struggle to subdue man brandishing gun amid protests, video shows",
+    "link": "https://nypost.com/2026/01/24/us-news/shots-fired-after-police-in-minneapolis-struggle-to-subdue-man-brandishing-gun-amid-protests-video-shows/",
+    "source": "nypost",
+    "pubdate": "2026-01-24-16-29-13 +0000"
+  },
+  {
+    "headline": "Trump threatens Canada with 100% tariffs over China trade deal",
+    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-24-16-27-18 +0000"
+  },
+  {
+    "headline": "Massive spending bill fills $3B hole to support World Trade Center health fund",
+    "link": "https://nypost.com/2026/01/24/us-news/massive-spending-bill-fills-3b-hole-to-support-world-trade-center-health-fund/",
+    "source": "nypost",
+    "pubdate": "2026-01-24-16-25-23 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/24/weather/winter-storm-snow-ice/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-01-24-16-24-32 +0000"
+  },
+  {
+    "headline": "NYC judge set to decide fate of dog duct-taped at NYC park",
+    "link": "https://nypost.com/2026/01/24/us-news/nyc-judge-set-to-decide-fate-of-dog-duct-taped-at-nyc-park/",
+    "source": "nypost",
+    "pubdate": "2026-01-24-16-21-56 +0000"
+  },
+  {
+    "headline": "Judge’s ruling in NYC district could bring Hakeem Jeffries closer to House Speaker post",
+    "link": "https://nypost.com/2026/01/24/us-news/judges-ruling-in-nyc-district-could-bring-hakeem-jeffries-closer-to-house-speaker-post/",
+    "source": "nypost",
+    "pubdate": "2026-01-24-16-12-17 +0000"
+  },
+  {
+    "headline": "Burnham faces deadline on by-election decision",
+    "link": "https://www.bbc.com/news/articles/ckgy13vlxk5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-24-16-07-44 +0000"
+  },
+  {
+    "headline": "Critics slam NYC Mayor Zohran Mamdani for using Holocaust survivor for ‘photo op’",
+    "link": "https://nypost.com/2026/01/24/us-news/nyc-holocaust-survivor-claims-mayor-mamdani-plans-to-use-him-for-photo-op-on-international-holocaust-remembrance-day/",
+    "source": "nypost",
+    "pubdate": "2026-01-24-16-03-12 +0000"
+  },
+  {
+    "headline": "Trump threatens 100% tariffs on Canada over China deal",
+    "link": "https://www.washingtonpost.com/world/2026/01/24/trump-canada-100-percent-tariff-threat/",
+    "source": "wapo",
+    "pubdate": "2026-01-24-15-58-05 +0000"
+  },
+  {
     "headline": "Iran’s Leadership Stumbles After War and Unrest",
     "link": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
     "source": "nyt",
@@ -42,12 +150,6 @@
     "pubdate": "2026-01-24-15-43-00 +0000"
   },
   {
-    "headline": "Trump threatens Canada with 100% tariffs over China trade deal",
-    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-15-40-30 +0000"
-  },
-  {
     "headline": "Climber delays rope-free skyscraper challenge over rain",
     "link": "https://www.bbc.com/news/articles/c8rm135lnneo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -58,18 +160,6 @@
     "link": "https://www.bbc.com/news/articles/c8rm135lnneo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-24-15-39-05 +0000"
-  },
-  {
-    "headline": "Live: Man shot by federal agent in south Minneapolis this morning, witnesses say",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
-    "source": "startribune",
-    "pubdate": "2026-01-24-15-38-54 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/24/weather/winter-storm-snow-ice/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-24-15-37-19 +0000"
   },
   {
     "headline": "Two days of peace talks end as Russia continues Ukraine attacks",
@@ -204,6 +294,12 @@
     "pubdate": "2026-01-24-14-14-44 +0000"
   },
   {
+    "headline": "China places highest-ranking general under investigation",
+    "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-24-14-14-44 +0000"
+  },
+  {
     "headline": "Mulan, mythical beings dazzle at annual Chinese lantern festival",
     "link": "https://www.cbc.ca/news/world/lantern-festival-scroller-9.7058595?cmp=rss",
     "source": "cbc",
@@ -246,6 +342,12 @@
     "pubdate": "2026-01-24-13-56-13 +0000"
   },
   {
+    "headline": "How Soviet urban planning is helping Russia freeze Ukraine",
+    "link": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-24-13-56-13 +0000"
+  },
+  {
     "headline": "Trump tells The Post ‘We’ll have everything we want’ in plan to gain sovereignty over Greenland base areas",
     "link": "https://nypost.com/2026/01/24/us-news/trump-tells-the-post-well-have-everything-we-want-in-plan-to-gain-sovereignty-over-greenland-base-areas/",
     "source": "nypost",
@@ -256,12 +358,6 @@
     "link": "https://nypost.com/2026/01/24/us-news/distraught-mom-whose-daughter-leapt-from-brooklyn-bridge-claims-nyc-child-welfare-agency-stole-my-child/",
     "source": "nypost",
     "pubdate": "2026-01-24-13-45-00 +0000"
-  },
-  {
-    "headline": "Burnham faces deadline on by-election decision",
-    "link": "https://www.bbc.com/news/articles/ckgy13vlxk5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-13-42-39 +0000"
   },
   {
     "headline": "Trump tells The Post he has seized Venezuela oil — but can’t reveal where ships are located",
@@ -384,12 +480,6 @@
     "pubdate": "2026-01-24-13-00-00 +0000"
   },
   {
-    "headline": "‘Monster’ rock-thrower who fractured skull of 8-year-old girl on school bus is an illegal migrant from Mexico: DHS",
-    "link": "https://nypost.com/2026/01/24/us-news/monster-rock-thrower-who-fractured-skull-of-8-year-old-girl-on-school-bus-is-an-illegal-migrant-from-mexico-dhs/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-13-00-00 +0000"
-  },
-  {
     "headline": "Friends, students honor 'Miss Mayra,' elementary school teacher slain in North Hollywood",
     "link": "https://www.latimes.com/california/story/2026-01-24/candlelit-vigil-honors-mayra-jimenez-teacher-slain-in-north-hollywood",
     "source": "latimes",
@@ -402,28 +492,10 @@
     "pubdate": "2026-01-24-12-48-31 +0000"
   },
   {
-    "headline": "Trump tells The Post he’s skipping the Super Bowl, slams halftime performers Bad Bunny and Green Day: ‘I’m anti-them’",
-    "link": "https://nypost.com/2026/01/24/us-news/trump-tells-the-post-hes-skipping-the-super-bowl-slams-halftime-performers-bad-bunny-and-green-day/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-12-48-31 +0000"
-  },
-  {
     "headline": "'People are often in despair - we see it in their eyes'",
     "link": "https://www.bbc.com/news/articles/cz0pnjvggpno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-24-12-46-44 +0000"
-  },
-  {
-    "headline": "Ukraine Expects Answers From Russia as Peace Talks Continue, Zelensky Says",
-    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-12-29-14 +0000"
-  },
-  {
-    "headline": "Ukraine Expects Answers From Russia as Peace Talks Continue, Zelensky Says",
-    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-12-29-14 +0000"
   },
   {
     "headline": "Labour wants to shake up the police - but will that solve 'everyday crime epidemic'?",
@@ -498,6 +570,12 @@
     "pubdate": "2026-01-24-11-00-00 +0000"
   },
   {
+    "headline": "University of Minnesota cuts ties with nonprofit as Trump administration pushes against DEI",
+    "link": "https://www.startribune.com/the-u-signs-agreement-acknowledging-discrimination-against-white-and-asian-students-cuts-ties-with-recruiting-nonprofit/601564669",
+    "source": "startribune",
+    "pubdate": "2026-01-24-11-00-00 +0000"
+  },
+  {
     "headline": "News Quiz for Jan. 24, 2026",
     "link": "https://www.wsj.com/business/media/news-quiz-for-jan-24-2026-ce7de390?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -514,12 +592,6 @@
     "link": "https://www.washingtonpost.com/business/2026/01/24/aldi-us-expansion-inflation/",
     "source": "wapo",
     "pubdate": "2026-01-24-11-00-00 +0000"
-  },
-  {
-    "headline": "Trump says FEMA is ‘fully prepared’ for Winter Storm Fern as over 9,000 flights are canceled",
-    "link": "https://nypost.com/2026/01/24/us-news/trump-says-fema-is-prepared-for-winter-storm-fern-as-over-9000-flights-are-canceled/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-10-50-48 +0000"
   },
   {
     "headline": "NFL championship game picks: NFL’s final four showcases the four ways to solve a QB conundrum",
@@ -690,12 +762,6 @@
     "pubdate": "2026-01-24-08-49-49 +0000"
   },
   {
-    "headline": "At least 1 dead in gas explosion that sparked 4-alarm blaze on top floors of NYC apartment building",
-    "link": "https://nypost.com/2026/01/24/us-news/fdny-firefighters-battle-4-alarm-blaze-on-top-floors-of-bronx-apartment/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-08-15-18 +0000"
-  },
-  {
     "headline": "Extreme Cold Sweeps Canada, With Manitoba and Saskatchewan Among the Worst Hit",
     "link": "https://www.nytimes.com/2026/01/23/weather/canada-cold-forecast.html",
     "source": "nyt",
@@ -718,12 +784,6 @@
     "link": "https://www.bbc.com/news/articles/cz6yyq70v65o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-24-07-17-09 +0000"
-  },
-  {
-    "headline": "US forces strike vessel allegedly tied to narco-terror group killing 2 as crews search for lone survivor",
-    "link": "https://nypost.com/2026/01/24/us-news/us-forces-strike-suspect-narco-terrorists-boat-with-lethal-kinetic-strike-in-eastern-pacific/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-07-03-08 +0000"
   },
   {
     "headline": "New Zealand calls off rescue efforts for six missing after landslide",
@@ -1056,6 +1116,12 @@
     "pubdate": "2026-01-24-01-10-55 +0000"
   },
   {
+    "headline": "Witnesses dispute DHS claim that 5-year-old was ‘abandoned’ prior to ICE detainment",
+    "link": "https://www.startribune.com/witnesses-dispute-dhs-claim-that-5-year-old-was-abandoned-prior-to-ice-detainment/601569307",
+    "source": "startribune",
+    "pubdate": "2026-01-24-01-08-12 +0000"
+  },
+  {
     "headline": "India and EU set for 'mother of all deals' as Trump's tariff uncertainty looms",
     "link": "https://www.bbc.com/news/articles/ckgyz1ejw9no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1095,7 +1161,7 @@
     "headline": "Tremors in Japan Prompt Treasury to Weigh Currency Intervention",
     "link": "https://www.nytimes.com/2026/01/23/business/yen-dollar-treasury-bessent.html",
     "source": "nyt",
-    "pubdate": "2026-01-24-00-36-18 +0000"
+    "pubdate": "2026-01-24-00-36-19 +0000"
   },
   {
     "headline": "Vance Announces Expansion of ‘Mexico City Rule’ to Cover D.E.I. and ‘Radical’ Gender Policies",
@@ -1806,12 +1872,6 @@
     "pubdate": "2026-01-23-19-59-45 +0000"
   },
   {
-    "headline": "A Republican Vaccine Defender Fights to Hang On",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/bill-cassidy-trump-louisiana-senate-race.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-19-59-45 +0000"
-  },
-  {
     "headline": "'You cannot rewrite history': Minister rebuffs Trump's claims about allies in Afghanistan",
     "link": "https://www.cbc.ca/news/politics/trump-nato-allies-comments-afghanistan-9.7058277?cmp=rss",
     "source": "cbc",
@@ -2202,6 +2262,12 @@
     "pubdate": "2026-01-23-17-00-09 +0000"
   },
   {
+    "headline": "The Government Wants You to Kick Your Diet Soda Habit",
+    "link": "https://www.wsj.com/health/new-dietary-guidelines-sugar-sweeteners-8ac1fe49?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-23-17-00-00 +0000"
+  },
+  {
     "headline": "Somaliland president pitches business opportunities to Trump's son",
     "link": "https://www.bbc.com/news/articles/cje11eg7lp5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2212,113 +2278,5 @@
     "link": "https://www.bbc.com/news/articles/cje11eg7lp5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-23-16-59-41 +0000"
-  },
-  {
-    "headline": "For Greenland Tourism, Trump’s Interest Creates Uncertainty",
-    "link": "https://www.nytimes.com/2026/01/23/travel/greenland-tourism-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-16-53-32 +0000"
-  },
-  {
-    "headline": "For Greenland Tourism, Trump’s Interest Creates Uncertainty",
-    "link": "https://www.nytimes.com/2026/01/23/travel/greenland-tourism-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-16-53-32 +0000"
-  },
-  {
-    "headline": "For Greenland Tourism, Trump’s Interest Creates Uncertainty",
-    "link": "https://www.nytimes.com/2026/01/23/travel/greenland-tourism-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-16-53-32 +0000"
-  },
-  {
-    "headline": "Canada Retail Sales Pull Back After Rise in November",
-    "link": "https://www.wsj.com/business/retail/canada-retail-sales-pull-back-after-rise-in-november-60f957a9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-23-16-52-00 +0000"
-  },
-  {
-    "headline": "Canada Retail Sales Pull Back After Rise in November",
-    "link": "https://www.wsj.com/business/retail/canada-retail-sales-pull-back-after-rise-in-november-60f957a9",
-    "source": "wsj",
-    "pubdate": "2026-01-23-16-52-00 +0000"
-  },
-  {
-    "headline": "Federal authorities wanted to charge Don Lemon. Here’s what happened.",
-    "link": "https://www.washingtonpost.com/investigations/2026/01/23/don-lemon-minneapolis/",
-    "source": "wapo",
-    "pubdate": "2026-01-23-16-51-52 +0000"
-  },
-  {
-    "headline": "RFK Jr. Plan to Test a Vaccine in West African Babies Is Blocked",
-    "link": "https://www.nytimes.com/2026/01/22/health/hepatitis-b-vaccine-africa-study.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-16-50-06 +0000"
-  },
-  {
-    "headline": "RFK Jr. Plan to Test a Vaccine in West African Babies Is Blocked",
-    "link": "https://www.nytimes.com/2026/01/22/health/hepatitis-b-vaccine-africa-study.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-16-50-06 +0000"
-  },
-  {
-    "headline": "Spanish track was fractured before high-speed train disaster, report finds",
-    "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-16-43-31 +0000"
-  },
-  {
-    "headline": "Betting on Prediction Markets Is Their Job. They Make Millions.",
-    "link": "https://www.nytimes.com/2026/01/22/business/prediction-markets-polymarket-kalshi.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-16-30-47 +0000"
-  },
-  {
-    "headline": "Despite Davos claims of peace progress, Russia maintains hard line on talks",
-    "link": "https://www.washingtonpost.com/world/2026/01/23/russia-ukraine-peace-witkoff-putin-talks/",
-    "source": "wapo",
-    "pubdate": "2026-01-23-16-25-29 +0000"
-  },
-  {
-    "headline": "NYC judge paves way for delivery customers to feel MORE pressure to tip after upholding new law in spite of DoorDash, Uber’s suit",
-    "link": "https://nypost.com/2026/01/23/business/judge-declines-to-block-nyc-law-requiring-food-delivery-apps-to-give-customers-tipping-option/",
-    "source": "nypost",
-    "pubdate": "2026-01-23-16-18-59 +0000"
-  },
-  {
-    "headline": "Labour MPs divided over potential Andy Burnham return",
-    "link": "https://www.bbc.com/news/articles/c701kz4zkgwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-16-18-36 +0000"
-  },
-  {
-    "headline": "Silver Surges Past $100/oz on Mounting Geopolitical Risks",
-    "link": "https://www.wsj.com/finance/commodities-futures/silver-surges-past-100-oz-on-mounting-geopolitical-headlines-8b32a51c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-23-16-14-00 +0000"
-  },
-  {
-    "headline": "Olympic snowboarder turned ‘Most Wanted’ fugitive Ryan Wedding arrested",
-    "link": "https://www.washingtonpost.com/national-security/2026/01/23/former-olympic-snowboarder-ryan-wedding-arrest/",
-    "source": "wapo",
-    "pubdate": "2026-01-23-16-11-32 +0000"
-  },
-  {
-    "headline": "Trump Withdraws Carney’s Invitation for Canada to Join His ‘Board of Peace’",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-16-09-21 +0000"
-  },
-  {
-    "headline": "HHS threatens Minnesota with having to repay millions over failure to provide child care center records",
-    "link": "https://nypost.com/2026/01/23/us-news/hhs-threatens-minnesota-with-repaying-millions-over-failure-to-provide-child-care-center-records/",
-    "source": "nypost",
-    "pubdate": "2026-01-23-16-03-07 +0000"
-  },
-  {
-    "headline": "Trump Says He Bruised His Hand on a Table",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-hand-bruise-aspirin-table.html",
-    "source": "nyt",
-    "pubdate": "2026-01-23-15-59-00 +0000"
   }
 ]
