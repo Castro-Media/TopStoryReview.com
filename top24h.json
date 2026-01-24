@@ -1,6 +1,6 @@
 [
   {
-    "score": 165,
+    "score": 164,
     "pubdate": "2026-01-23-10-46-56 +0000",
     "source": "nyt",
     "headline": "After Trump’s Ultimatum, Greenland Talks Include Sovereign U.S. Bases and No Drilling for Russia",
@@ -8,31 +8,31 @@
   },
   {
     "score": 68,
-    "pubdate": "2026-01-23-23-01-19 +0000",
-    "source": "wapo",
-    "headline": "Thousands march in Minnesota and hundreds of businesses close to protest ICE",
-    "link": "https://www.washingtonpost.com/nation/2026/01/23/minnesota-general-strike-ice-protest/"
+    "pubdate": "2026-01-24-05-31-24 +0000",
+    "source": "startribune",
+    "headline": "The latest: Thousands march, scores of Minnesota businesses close to protest ICE operation",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
   },
   {
-    "score": 66,
-    "pubdate": "2026-01-23-08-08-54 +0000",
-    "source": "bbc",
-    "headline": "Is the US-TikTok deal a new reality for China's tech champions?",
-    "link": "https://www.bbc.com/news/articles/c6200mz054yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-01-24-01-11-10 +0000",
+    "score": 62,
+    "pubdate": "2026-01-23-22-21-19 +0000",
     "source": "nyt",
-    "headline": "Ryan Wedding, Canadian Ex-Snowboarder Accused of Running Drug Ring, Is Arrested",
-    "link": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html"
+    "headline": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/saudi-arabia-liv-golf-trump.html"
   },
   {
-    "score": 53,
+    "score": 54,
     "pubdate": "2026-01-23-23-03-53 +0000",
     "source": "nyt",
     "headline": "Joint Chiefs Chairman Issues Rare Invitation to Foreign Military Heads",
     "link": "https://www.nytimes.com/2026/01/23/us/politics/military-western-hemisphere-leaders.html"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-01-24-01-11-10 +0000",
+    "source": "nyt",
+    "headline": "Ryan Wedding, Canadian Ex-Snowboarder Accused of Running Drug Ring, Is Arrested",
+    "link": "https://www.nytimes.com/2026/01/23/world/canada/ryan-wedding-arrest.html"
   },
   {
     "score": 52,
@@ -49,24 +49,24 @@
     "link": "https://nypost.com/2026/01/23/us-news/house-speaker-mike-johnson-suggests-he-was-nearly-aborted-by-his-teenage-parents/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-01-23-22-40-08 +0000",
-    "source": "latimes",
-    "headline": "GOP rails against Newsom's late date for special election to fill Rep. Doug LaMalfa's seat",
-    "link": "https://www.latimes.com/california/story/2026-01-23/la-me-lamalfa-newsom-gop-house"
+    "score": 50,
+    "pubdate": "2026-01-24-04-00-00 +0000",
+    "source": "wsj",
+    "headline": "China Built a Vast Oil Stake in Venezuela. Now It Risks Getting Muscled Out.",
+    "link": "https://www.wsj.com/world/americas/china-venezuela-oil-trump-65ce1da2?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 44,
+    "score": 45,
     "pubdate": "2026-01-23-21-10-44 +0000",
     "source": "nyt",
     "headline": "U.K.’s Starmer Calls Trump’s Claims About NATO Soldiers in Afghanistan ‘Appalling’",
     "link": "https://www.nytimes.com/2026/01/23/world/europe/uk-soldiers-afghanistan-trump-nato.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-01-23-22-21-19 +0000",
-    "source": "nyt",
-    "headline": "Saudi Arabia-Backed LIV Golf to Hold Tournament at the Trumps’ New Jersey Resort",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/saudi-arabia-liv-golf-trump.html"
+    "score": 44,
+    "pubdate": "2026-01-23-22-40-08 +0000",
+    "source": "latimes",
+    "headline": "GOP rails against Newsom's late date for special election to fill Rep. Doug LaMalfa's seat",
+    "link": "https://www.latimes.com/california/story/2026-01-23/la-me-lamalfa-newsom-gop-house"
   }
 ]
