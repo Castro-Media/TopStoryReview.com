@@ -1,30 +1,23 @@
 [
   {
-    "score": 191,
+    "score": 188,
     "pubdate": "2026-01-25-16-33-57 +0000",
     "source": "nypost",
     "headline": "Trump-appointee judge orders DHS to preserve evidence in Alex Pretti shooting after suit by Minnesota",
     "link": "https://nypost.com/2026/01/25/us-news/trump-appointee-judge-orders-dhs-to-preserve-evidence-in-alex-pretti-shooting-after-suit-by-minnesota/"
   },
   {
-    "score": 98,
-    "pubdate": "2026-01-24-21-35-27 +0000",
-    "source": "nypost",
-    "headline": "AOC urges US Senate to block ICE funding after armed protestor fatally shot in Minneapolis",
-    "link": "https://nypost.com/2026/01/24/us-news/aoc-urges-senate-to-block-ice-funding-after-armed-protestor-is-shot-in-minneapolis/"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-01-25-19-20-05 +0000",
-    "source": "nypost",
-    "headline": "Hochul demands removal of Noem, Border Patrol chief after killing of second anti-ICE protester",
-    "link": "https://nypost.com/2026/01/25/us-news/hochul-demands-removal-of-noem-border-patrols-bovino/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-01-24-21-35-00 +0000",
+    "score": 90,
+    "pubdate": "2026-01-25-17-11-09 +0000",
     "source": "wapo",
-    "headline": "Minnesota Gov. Tim Walz (D) said at a news conference that he was thankful there was...",
+    "headline": "Minneapolis Police Chief Brian O’Hara requested National Guard support in the aftermath of Border Patrol’s shooting...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-01-25-03-03-23 +0000",
+    "source": "wapo",
+    "headline": "Senate Democrats will block key funding package, citing aggressive ICE tactics",
     "link": "https://www.washingtonpost.com"
   },
   {
@@ -35,6 +28,13 @@
     "link": "https://nypost.com/2026/01/25/us-news/heres-what-airlines-owe-you-amid-winter-storm-fern/"
   },
   {
+    "score": 45,
+    "pubdate": "2026-01-25-06-02-10 +0000",
+    "source": "nypost",
+    "headline": "Florida Rep. Maxwell Frost says he was punched in the face at Sundance Film Festival party",
+    "link": "https://nypost.com/2026/01/25/us-news/florida-rep-maxwell-frost-says-he-was-punched-in-the-face-at-sundance-film-festival-suspect-christian-young-arrested/"
+  },
+  {
     "score": 44,
     "pubdate": "2026-01-25-15-41-03 +0000",
     "source": "cbc",
@@ -43,10 +43,17 @@
   },
   {
     "score": 38,
-    "pubdate": "2026-01-25-06-10-38 +0000",
+    "pubdate": "2026-01-25-05-35-38 +0000",
     "source": "wapo",
-    "headline": "Responding to a lawsuit filed by Minnesota’s attorney general, a U.S. District Court judge late Saturday...",
+    "headline": "California Gov. Gavin Newsom (D) on Saturday called for Department of Homeland Security Secretary Kristi L....",
     "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-01-25-19-21-50 +0000",
+    "source": "nypost",
+    "headline": "Trump, Noem blast Dems Tim Walz and Jacob Frey for ‘inciting’ protesters like Alex Pretti",
+    "link": "https://nypost.com/2026/01/25/us-news/trump-noem-blast-dems-tim-walz-and-jacob-frey-for-inciting-protesters-like-alex-pretti/"
   },
   {
     "score": 37,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Peace talks on Russia-Ukraine war end as fighting rages",
     "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-01-25-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Speaker of the House Mike Johnson has held the gavel during one of the narrowest Republican majorities in decades, and the margin is set to become slimmer",
-    "link": "https://www.wsj.com/politics/republicans-house-majority-is-shakier-than-ever-6732b8d2"
   }
 ]
