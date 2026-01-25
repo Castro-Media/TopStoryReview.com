@@ -1,20 +1,20 @@
 [
   {
-    "score": 144,
+    "score": 154,
     "pubdate": "2026-01-24-22-55-08 +0000",
     "source": "nypost",
     "headline": "Chilling new video reveals new angle of fed shooting armed anti-ICE protester in Minneapolis",
     "link": "https://nypost.com/2026/01/24/us-news/chilling-new-video-reveals-new-angle-of-fed-shooting-armed-anti-ice-protester-in-minneapolis/"
   },
   {
-    "score": 111,
+    "score": 107,
     "pubdate": "2026-01-24-14-21-45 +0000",
     "source": "cbc",
     "headline": "Trump threatens 100% tariffs on all Canadian goods if Canada 'makes a deal with China'",
     "link": "https://www.cbc.ca/news/politics/trump-tariff-canada-china-goods-9.7059561?cmp=rss"
   },
   {
-    "score": 74,
+    "score": 77,
     "pubdate": "2026-01-24-21-35-00 +0000",
     "source": "wapo",
     "headline": "Minnesota Gov. Tim Walz (D) said at a news conference that he was thankful there was...",
@@ -29,7 +29,7 @@
   },
   {
     "score": 44,
-    "pubdate": "2026-01-25-01-52-00 +0000",
+    "pubdate": "2026-01-25-03-25-00 +0000",
     "source": "wsj",
     "headline": "Senate Democrats signaled they are willing to shut down much of the government rather than vote for a package that includes funds for immigration enforcement, after a second deadly Minneapolis shooting by federal agents",
     "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51"
@@ -42,25 +42,18 @@
     "link": "https://www.wsj.com/world/china/chinas-xi-places-his-top-general-under-investigation-as-military-purges-heat-up-d07f9c7d"
   },
   {
-    "score": 38,
+    "score": 36,
     "pubdate": "2026-01-24-15-14-19 +0000",
     "source": "nypost",
     "headline": "Trump threatens Canada with 100% tariff after PM Mark Carney pushes back on foreign policy moves in Davos",
     "link": "https://nypost.com/2026/01/24/us-news/trump-threatens-canada-with-100-tariff-after-pm-mark-carneys-criticism/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-01-24-22-31-04 +0000",
-    "source": "nyt",
-    "headline": "Here’s What to Know if You Plan to Travel During the Winter Storm",
-    "link": "https://www.nytimes.com/2026/01/22/travel/winter-storm-travel-airlines.html"
-  },
-  {
     "score": 34,
-    "pubdate": "2026-01-24-18-57-09 +0000",
+    "pubdate": "2026-01-24-05-11-18 +0000",
     "source": "bbc",
-    "headline": "Germany arrests suspected Hamas member over alleged attack plot",
-    "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss"
+    "headline": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks",
+    "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 34,
@@ -68,5 +61,12 @@
     "source": "wapo",
     "headline": "Minnesota National Guard personnel will be available to help  Minneapolis police and emergency personnel near...",
     "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-01-24-18-57-09 +0000",
+    "source": "bbc",
+    "headline": "Germany arrests suspected Hamas member over alleged attack plot",
+    "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss"
   }
 ]
