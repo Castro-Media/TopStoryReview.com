@@ -1,41 +1,34 @@
 [
   {
-    "score": 202,
-    "pubdate": "2026-01-25-14-56-34 +0000",
+    "score": 191,
+    "pubdate": "2026-01-25-16-33-57 +0000",
     "source": "nypost",
-    "headline": "Border Patrol chief Bovino praises agents in Minneapolis shooting— says they are ‘victims’ after Alex Pretti interfered with them",
-    "link": "https://nypost.com/2026/01/25/us-news/border-patrol-chief-bovino-praises-agents-in-minneapolis-shooting-says-they-are-victims-after-alex-pretti-interfered-with-them/"
+    "headline": "Trump-appointee judge orders DHS to preserve evidence in Alex Pretti shooting after suit by Minnesota",
+    "link": "https://nypost.com/2026/01/25/us-news/trump-appointee-judge-orders-dhs-to-preserve-evidence-in-alex-pretti-shooting-after-suit-by-minnesota/"
   },
   {
-    "score": 74,
-    "pubdate": "2026-01-24-22-10-33 +0000",
-    "source": "bbc",
-    "headline": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
-    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss"
+    "score": 98,
+    "pubdate": "2026-01-24-21-35-27 +0000",
+    "source": "nypost",
+    "headline": "AOC urges US Senate to block ICE funding after armed protestor fatally shot in Minneapolis",
+    "link": "https://nypost.com/2026/01/24/us-news/aoc-urges-senate-to-block-ice-funding-after-armed-protestor-is-shot-in-minneapolis/"
   },
   {
-    "score": 73,
+    "score": 61,
+    "pubdate": "2026-01-25-19-20-05 +0000",
+    "source": "nypost",
+    "headline": "Hochul demands removal of Noem, Border Patrol chief after killing of second anti-ICE protester",
+    "link": "https://nypost.com/2026/01/25/us-news/hochul-demands-removal-of-noem-border-patrols-bovino/"
+  },
+  {
+    "score": 51,
     "pubdate": "2026-01-24-21-35-00 +0000",
     "source": "wapo",
     "headline": "Minnesota Gov. Tim Walz (D) said at a news conference that he was thankful there was...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 64,
-    "pubdate": "2026-01-25-03-03-23 +0000",
-    "source": "wapo",
-    "headline": "Senate Democrats will block key funding package, citing aggressive ICE tactics",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-01-24-20-47-10 +0000",
-    "source": "nypost",
-    "headline": "Trilateral talks between US, Russia and Ukraine end without peace deal — but ‘productive’ talks give way for new negotiations",
-    "link": "https://nypost.com/2026/01/24/world-news/trilateral-talks-between-us-russia-and-ukraine-end-without-peace-deal-zelensky-calls-session-productive-as-both-sides-agree-to-meet-again/"
-  },
-  {
-    "score": 48,
+    "score": 51,
     "pubdate": "2026-01-25-16-22-26 +0000",
     "source": "nypost",
     "headline": "Here’s what airlines owe you if you’re stranded by Winter Storm Fern",
@@ -43,30 +36,37 @@
   },
   {
     "score": 44,
-    "pubdate": "2026-01-25-15-11-58 +0000",
+    "pubdate": "2026-01-25-15-41-03 +0000",
+    "source": "cbc",
+    "headline": "No plans for China free trade deal, Carney says as Trump fixates on Canada",
+    "link": "https://www.cbc.ca/news/politics/carney-canada-trump-tariff-threat-china-trade-9.7060150?cmp=rss"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-01-25-06-10-38 +0000",
     "source": "wapo",
-    "headline": "Fatal shooting in Minneapolis renews protests; video raises questions about DHS account",
-    "link": "https://www.washingtonpost.com/nation/2026/01/24/minneapolis-shooting/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-01-25-04-44-43 +0000",
-    "source": "nypost",
-    "headline": "Rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes during Netflix’s ‘Skyscraper Live’",
-    "link": "https://nypost.com/2026/01/24/lifestyle/rock-climber-alex-honnold-reaches-top-of-taipei-101-skyscraper-without-ropes-during-netflixs-skyscraper-live/"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-01-25-15-17-19 +0000",
-    "source": "bbc",
-    "headline": "Davey says war bonds would help to speed up UK defence spending",
-    "link": "https://www.bbc.com/news/articles/cq5y7edg169o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-01-25-05-35-38 +0000",
-    "source": "wapo",
-    "headline": "California Gov. Gavin Newsom (D) on Saturday called for Department of Homeland Security Secretary Kristi L....",
+    "headline": "Responding to a lawsuit filed by Minnesota’s attorney general, a U.S. District Court judge late Saturday...",
     "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-01-25-11-00-49 +0000",
+    "source": "wapo",
+    "headline": "Federal agent secured gun from Minn. man before fatal shooting, videos show",
+    "link": "https://www.washingtonpost.com/investigations/2026/01/25/minneapolis-shooting-video-gun/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-01-24-23-37-38 +0000",
+    "source": "bbc",
+    "headline": "Peace talks on Russia-Ukraine war end as fighting rages",
+    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-01-25-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Speaker of the House Mike Johnson has held the gavel during one of the narrowest Republican majorities in decades, and the margin is set to become slimmer",
+    "link": "https://www.wsj.com/politics/republicans-house-majority-is-shakier-than-ever-6732b8d2"
   }
 ]
