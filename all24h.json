@@ -1,19 +1,373 @@
 [
   {
-    "headline": "Fatal shooting in Minneapolis renews protests; video raises questions about DHS account",
-    "link": "https://www.washingtonpost.com/nation/2026/01/24/minneapolis-shooting/",
-    "source": "wapo",
-    "pubdate": "2026-01-25-14-47-19 +0000"
-  },
-  {
-    "headline": "Most ICE and Border Patrol officers still lack body cameras",
+    "headline": "Bovino says the victims of the Minneapolis shooting are Border Patrol agents",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
-    "pubdate": "2026-01-25-14-47-19 +0000"
+    "pubdate": "2026-01-25-16-54-18 +0000"
   },
   {
     "headline": "Live updates: Minneapolis on edge as details emerge of deadly shooting",
     "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/",
+    "source": "wapo",
+    "pubdate": "2026-01-25-16-54-18 +0000"
+  },
+  {
+    "headline": "Homeland Security Secretary Kristi L. Noem contended that Alex Pretti committed “a felony” when he interacted...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-16-53-41 +0000"
+  },
+  {
+    "headline": "In Court Filings, Witnesses Describe Fatal Minneapolis Shooting of Alex Pretti",
+    "link": "https://www.nytimes.com/2026/01/24/us/witnesses-alex-pretti-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-46-09 +0000"
+  },
+  {
+    "headline": "Museums From Texas to Massachusetts Close for Storm, but Broadway Shows Go On",
+    "link": "https://www.nytimes.com/2026/01/25/us/museums-broadway-storm-closed.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-41-13 +0000"
+  },
+  {
+    "headline": "Trump-appointee judge orders DHS to preserve evidence in Alex Pretti shooting after suit by Minnesota",
+    "link": "https://nypost.com/2026/01/25/us-news/trump-appointee-judge-orders-dhs-to-preserve-evidence-in-alex-pretti-shooting-after-suit-by-minnesota/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-16-33-57 +0000"
+  },
+  {
+    "headline": "Winter Storm Blankets Central and Eastern U.S.",
+    "link": "https://www.wsj.com/us-news/climate-environment/winter-storm-blankets-central-and-eastern-u-s-628cd9f7",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-32-00 +0000"
+  },
+  {
+    "headline": "Winter Storm Blankets Central and Eastern U.S.",
+    "link": "https://www.wsj.com/us-news/climate-environment/winter-storm-blankets-central-and-eastern-u-s-628cd9f7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-32-00 +0000"
+  },
+  {
+    "headline": "Opinion | Meet Trump’s Partners in Venezuela",
+    "link": "https://www.wsj.com/opinion/meet-trumps-partners-in-venezuela-177c799d",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-27-00 +0000"
+  },
+  {
+    "headline": "Opinion | Meet Trump’s Partners in Venezuela",
+    "link": "https://www.wsj.com/opinion/meet-trumps-partners-in-venezuela-177c799d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-27-00 +0000"
+  },
+  {
+    "headline": "Opinion | Responding to the Iranian Foreign Minister",
+    "link": "https://www.wsj.com/opinion/responding-to-the-iranian-foreign-minister-036647bb",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-25-00 +0000"
+  },
+  {
+    "headline": "Opinion | Responding to the Iranian Foreign Minister",
+    "link": "https://www.wsj.com/opinion/responding-to-the-iranian-foreign-minister-036647bb",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-25-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Left’s Nonprofit Problem Goes Way Back",
+    "link": "https://www.wsj.com/opinion/the-lefts-nonprofit-problem-goes-way-back-0ed9da85",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-25-00 +0000"
+  },
+  {
+    "headline": "Opinion | Strategic Gains Come Cheap With Greenland",
+    "link": "https://www.wsj.com/opinion/strategic-gains-come-cheap-with-greenland-75f962ca",
+    "source": "wsj",
+    "pubdate": "2026-01-25-16-24-00 +0000"
+  },
+  {
+    "headline": "Klobuchar says ‘ICE needs to leave our state’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-16-23-51 +0000"
+  },
+  {
+    "headline": "Winter storm grips US as millions face power outages and disruption",
+    "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-16-22-56 +0000"
+  },
+  {
+    "headline": "Here’s what airlines owe you if you’re stranded by Winter Storm Fern",
+    "link": "https://nypost.com/2026/01/25/us-news/heres-what-airlines-owe-you-amid-winter-storm-fern/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-16-22-26 +0000"
+  },
+  {
+    "headline": "Xi’s Purge of China’s Military Brings Its Top General Down",
+    "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-22-02 +0000"
+  },
+  {
+    "headline": "Xi’s Purge of China’s Military Brings Its Top General Down",
+    "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-22-02 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/minneapolis-shooting-ice/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-21-41 +0000"
+  },
+  {
+    "headline": "Live: Minnesota reels after second fatal shooting by federal agents",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
+    "source": "startribune",
+    "pubdate": "2026-01-25-16-19-14 +0000"
+  },
+  {
+    "headline": "Shocking  video shows thieves crashing SUV through jewelry store in wild $1M heist: ‘Scariest thing in my life’",
+    "link": "https://nypost.com/2026/01/25/us-news/wild-video-shows-thieves-ramming-suv-in-1m-jewelry-heist/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-16-13-33 +0000"
+  },
+  {
+    "headline": "New York City Schools Announce Remote Learning Day in Response to Storm",
+    "link": "https://www.nytimes.com/2026/01/25/us/nyc-school-closure-remote-learning-storm.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-13-14 +0000"
+  },
+  {
+    "headline": "Deputy attorney general blames Minnesota officials for failing to cooperate",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-16-12-28 +0000"
+  },
+  {
+    "headline": "The Podcaster Poking at France’s Biggest Secrets",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-04-34 +0000"
+  },
+  {
+    "headline": "The Podcaster Poking at France’s Biggest Secrets",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-16-04-34 +0000"
+  },
+  {
+    "headline": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
+    "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-57-49 +0000"
+  },
+  {
+    "headline": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
+    "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-57-49 +0000"
+  },
+  {
+    "headline": "NY heiress says cheater husband made her alter prenup in explosive, tell-all memoir",
+    "link": "https://nypost.com/2026/01/25/us-news/heiress-belle-burden-says-cheater-husband-made-her-alter-prenup-in-memoir/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-15-55-26 +0000"
+  },
+  {
+    "headline": "Governor Gavin Newsom mocked over anti-graffiti fail as vandals immediately tag ‘paint-proof’ walls",
+    "link": "https://nypost.com/2026/01/25/us-news/gavin-newsom-mocked-over-anti-graffiti-fail/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-15-54-36 +0000"
+  },
+  {
+    "headline": "Governor Gavin Newsom mocked over anti-graffiti fail as vandals immediately tag ‘paint-proof’ walls",
+    "link": "https://nypost.com/2026/01/25/us-news/gavin-newsom-mocked-over-anti-graffiti-fail/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-15-54-36 +0000"
+  },
+  {
+    "headline": "Andy Burnham's bid to return as MP blocked by Labour's ruling body",
+    "link": "https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-15-52-51 +0000"
+  },
+  {
+    "headline": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
+    "link": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-49-56 +0000"
+  },
+  {
+    "headline": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
+    "link": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-49-56 +0000"
+  },
+  {
+    "headline": "Fact check: Video, witnesses contradict some of federal officials’ shooting claims",
+    "link": "https://www.startribune.com/fact-check-federal-officials-claims-about-fatal-minneapolis-shooting/601570444",
+    "source": "startribune",
+    "pubdate": "2026-01-25-15-45-44 +0000"
+  },
+  {
+    "headline": "Canada has no intent of pursuing free trade deal with China, says PM after Trump threat",
+    "link": "https://www.cbc.ca/news/politics/carney-canada-trump-tariff-threat-china-trade-9.7060150?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-25-15-41-03 +0000"
+  },
+  {
+    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-39-54 +0000"
+  },
+  {
+    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-39-54 +0000"
+  },
+  {
+    "headline": "California sees rash of flight cancellations due to massive winter storm affecting millions of Americans",
+    "link": "https://nypost.com/2026/01/25/us-news/california-sees-rash-of-flight-cancellations-due-to-massive-winter-storm/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-15-39-41 +0000"
+  },
+  {
+    "headline": "Witness accounts of shooting detailed in legal bid to restore ICE restrictions",
+    "link": "https://www.startribune.com/he-was-only-helping-witness-accounts-of-shooting-shared-in-bid-to-get-ice-restrictions-reinstated/601570596",
+    "source": "startribune",
+    "pubdate": "2026-01-25-15-38-58 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-37-11 +0000"
+  },
+  {
+    "headline": "Video shows moments around fatal shooting of Alex Pretti in Minneapolis",
+    "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-15-31-54 +0000"
+  },
+  {
+    "headline": "How Iran Crushed a Citizen Uprising With Lethal Force",
+    "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-30-07 +0000"
+  },
+  {
+    "headline": "How Iran Crushed a Citizen Uprising With Lethal Force",
+    "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-30-07 +0000"
+  },
+  {
+    "headline": "Captain of suspected Russian shadow tanker in French custody",
+    "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-15-25-52 +0000"
+  },
+  {
+    "headline": "Captain of suspected Russian shadow tanker in French custody",
+    "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-15-25-52 +0000"
+  },
+  {
+    "headline": "In photos: After Pretti shooting, widespread protests against immigration personnel",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-15-23-31 +0000"
+  },
+  {
+    "headline": "Davey says war bonds would help to speed up UK defence spending",
+    "link": "https://www.bbc.com/news/articles/cq5y7edg169o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-15-17-19 +0000"
+  },
+  {
+    "headline": "Davey says war bonds would help to speed up UK defence spending",
+    "link": "https://www.bbc.com/news/articles/cq5y7edg169o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-15-17-19 +0000"
+  },
+  {
+    "headline": "Senior Border Patrol official Gregory Bovino told CNN on Sunday that Alex Pretti, the 37-year-old intensive...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-15-15-12 +0000"
+  },
+  {
+    "headline": "Fatal shooting in Minneapolis renews protests; video raises questions about DHS account",
+    "link": "https://www.washingtonpost.com/nation/2026/01/24/minneapolis-shooting/",
+    "source": "wapo",
+    "pubdate": "2026-01-25-15-11-58 +0000"
+  },
+  {
+    "headline": "Video: Noem defends Border Patrol after Pretti killing",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-15-11-58 +0000"
+  },
+  {
+    "headline": "G.O.P. Senator Cassidy Calls for Investigation of Fatal Minnesota Shooting",
+    "link": "https://www.nytimes.com/2026/01/25/us/bill-cassidy-minneapolis-investigation.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-08-59 +0000"
+  },
+  {
+    "headline": "Scenes From the Winter Storm",
+    "link": "https://www.nytimes.com/2026/01/24/us/winter-storm-snow-photos-videos.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-15-05-29 +0000"
+  },
+  {
+    "headline": "Estranged husband arrested in tragic death of missing California woman found at bottom of 75-foot embankment",
+    "link": "https://nypost.com/2026/01/25/us-news/estranged-husband-arrested-in-tragic-death-of-california-woman/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-15-04-55 +0000"
+  },
+  {
+    "headline": "Senate Democrats to block key funding package, citing aggressive ICE tactics",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-15-03-26 +0000"
+  },
+  {
+    "headline": "Here’s what to know",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-14-58-42 +0000"
+  },
+  {
+    "headline": "Border Patrol chief Bovino praises agents in Minneapolis shooting— says they are ‘victims’ after Alex Pretti interfered with them",
+    "link": "https://nypost.com/2026/01/25/us-news/border-patrol-chief-bovino-praises-agents-in-minneapolis-shooting-says-they-are-victims-after-alex-pretti-interfered-with-them/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-14-56-34 +0000"
+  },
+  {
+    "headline": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+    "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-14-56-24 +0000"
+  },
+  {
+    "headline": "U.S. storm leaves 500,000 without power, forces thousands of flight cancellations",
+    "link": "https://www.cbc.ca/news/world/us-storm-thousands-without-power-9.7060090?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-25-14-55-26 +0000"
+  },
+  {
+    "headline": "Video: Protesters clash with federal agents after Minneapolis shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-14-55-02 +0000"
+  },
+  {
+    "headline": "Most ICE and Border Patrol officers still lack body cameras",
+    "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-25-14-47-19 +0000"
   },
@@ -42,28 +396,10 @@
     "pubdate": "2026-01-25-14-38-16 +0000"
   },
   {
-    "headline": "The latest: Minnesota reels after second fatal shooting by federal agents",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
-    "source": "startribune",
-    "pubdate": "2026-01-25-14-31-42 +0000"
-  },
-  {
-    "headline": "Andy Burnham's bid to return as MP blocked by Labour's ruling body",
-    "link": "https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-14-28-50 +0000"
-  },
-  {
     "headline": "Minneapolis mayor responds to shooting: ‘How many more lives need to be lost?’",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-25-14-28-01 +0000"
-  },
-  {
-    "headline": "Winter Storm Blankets Central and Eastern U.S.",
-    "link": "https://www.wsj.com/us-news/climate-environment/winter-storm-blankets-central-and-eastern-u-s-628cd9f7",
-    "source": "wsj",
-    "pubdate": "2026-01-25-14-25-00 +0000"
   },
   {
     "headline": "Responding to the fatal shooting of Alex Pretti, Vice President JD Vance tweeted late Saturday that...",
@@ -82,12 +418,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-25-14-15-38 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-25-14-14-32 +0000"
   },
   {
     "headline": "Kyiv residents stranded in tower blocks as Russia targets power system",
@@ -126,12 +456,6 @@
     "pubdate": "2026-01-25-14-00-00 +0000"
   },
   {
-    "headline": "In Court Filings, Witnesses Describe Fatal Minneapolis Shooting of Alex Pretti",
-    "link": "https://www.nytimes.com/2026/01/24/us/witnesses-alex-pretti-shooting.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-13-47-26 +0000"
-  },
-  {
     "headline": "Alex Pretti’s Sig handgun has history of accidentally firing — offering possible clue to why Border agent shot him",
     "link": "https://nypost.com/2026/01/25/us-news/alex-prettis-sig-p320-may-have-gone-off-accidentally-experts-suggest/",
     "source": "nypost",
@@ -142,12 +466,6 @@
     "link": "https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/",
     "source": "wapo",
     "pubdate": "2026-01-25-13-35-14 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/25/us/minneapolis-shooting-ice/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-25-13-29-54 +0000"
   },
   {
     "headline": "Macron pushes for fast-track ban on social media for teens",
@@ -216,18 +534,6 @@
     "pubdate": "2026-01-25-11-59-28 +0000"
   },
   {
-    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-11-48-55 +0000"
-  },
-  {
-    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-11-48-55 +0000"
-  },
-  {
     "headline": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
     "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -282,46 +588,22 @@
     "pubdate": "2026-01-25-11-00-00 +0000"
   },
   {
-    "headline": "News Analysis: A playbook emerges to counter Trump as 'middle powers' unite",
-    "link": "https://www.latimes.com/politics/story/2026-01-25/trump-davos-greenland-canada-middle-powers",
-    "source": "latimes",
-    "pubdate": "2026-01-25-11-00-00 +0000"
-  },
-  {
     "headline": "Barabak: There's one state in America with no voter registration. How does that work?",
     "link": "https://www.latimes.com/politics/story/2026-01-25/trump-alleged-election-fraud-north-dakota-only-state-with-no-voter-registration",
     "source": "latimes",
     "pubdate": "2026-01-25-11-00-00 +0000"
   },
   {
-    "headline": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
-    "link": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-10-57-05 +0000"
-  },
-  {
-    "headline": "Why Japan’s Leader Won’t Enter the Male-Dominated Sumo Ring",
-    "link": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-10-57-05 +0000"
+    "headline": "News Analysis: A playbook emerges to counter Trump as 'middle powers' unite",
+    "link": "https://www.latimes.com/politics/story/2026-01-25/trump-davos-greenland-canada-middle-powers",
+    "source": "latimes",
+    "pubdate": "2026-01-25-11-00-00 +0000"
   },
   {
     "headline": "Last 2 pandas in Japan are leaving for China as ties are strained",
     "link": "https://nypost.com/2026/01/25/world-news/last-2-pandas-in-japan-xiao-xiao-lei-lei-are-leaving-for-china-as-ties-are-strained/",
     "source": "nypost",
     "pubdate": "2026-01-25-10-51-38 +0000"
-  },
-  {
-    "headline": "How Iran Crushed a Citizen Uprising With Lethal Force",
-    "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-10-34-48 +0000"
-  },
-  {
-    "headline": "How Iran Crushed a Citizen Uprising With Lethal Force",
-    "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-10-34-48 +0000"
   },
   {
     "headline": "Dingoes that circled Piper James's body on Australian beach to be culled",
@@ -348,13 +630,13 @@
     "pubdate": "2026-01-25-10-30-00 +0000"
   },
   {
-    "headline": "Senate Dems revolt against DHS funding bill amid Minneapolis chaos, hiking government shutdown risk",
+    "headline": "Senate Dems could force gov’t shutdown over $64.4B DHS funding after Minneapolis shooting of Alex Pretti",
     "link": "https://nypost.com/2026/01/25/us-news/senate-democrats-revolt-against-homeland-security-funding-bill-after-alex-pretti-ice-shooting-in-minneapolis/",
     "source": "nypost",
     "pubdate": "2026-01-25-10-12-37 +0000"
   },
   {
-    "headline": "Senate Dems revolt against DHS funding bill amid Minneapolis chaos, hiking government shutdown risk",
+    "headline": "Senate Dems could force gov’t shutdown over $64.4B DHS funding after Minneapolis shooting of Alex Pretti",
     "link": "https://nypost.com/2026/01/25/us-news/senate-democrats-revolt-against-homeland-security-funding-bill-after-alex-pretti-ice-shooting-in-minneapolis/",
     "source": "nypost",
     "pubdate": "2026-01-25-10-12-37 +0000"
@@ -387,19 +669,7 @@
     "headline": "High January Is the New Dry January. Sales of THC Drinks Are Booming.",
     "link": "https://www.nytimes.com/2026/01/25/business/cannabis-thc-alcoholic-beverages.html",
     "source": "nyt",
-    "pubdate": "2026-01-25-10-02-14 +0000"
-  },
-  {
-    "headline": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
-    "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-10-02-05 +0000"
-  },
-  {
-    "headline": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
-    "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-10-02-05 +0000"
+    "pubdate": "2026-01-25-10-02-15 +0000"
   },
   {
     "headline": "Long-Lost Robert Burns Portrait Is on Display for Burns Night",
@@ -460,24 +730,6 @@
     "link": "https://www.washingtonpost.com/business/2026/01/25/no-tax-overtime-tips-deductions/",
     "source": "wapo",
     "pubdate": "2026-01-25-10-00-00 +0000"
-  },
-  {
-    "headline": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-    "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-09-46-03 +0000"
-  },
-  {
-    "headline": "The Podcaster Poking at France’s Biggest Secrets",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-09-21-50 +0000"
-  },
-  {
-    "headline": "The Podcaster Poking at France’s Biggest Secrets",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-09-21-50 +0000"
   },
   {
     "headline": "Russian strike on Ukraine’s Kyiv leaves 1,700 buildings still without heat, mayor says",
@@ -648,12 +900,6 @@
     "pubdate": "2026-01-25-04-33-07 +0000"
   },
   {
-    "headline": "‘He was only helping’: Witness accounts of shooting shared in bid to get ICE restrictions reinstated",
-    "link": "https://www.startribune.com/he-was-only-helping-witness-accounts-of-shooting-shared-in-bid-to-get-ice-restrictions-reinstated/601570596",
-    "source": "startribune",
-    "pubdate": "2026-01-25-04-21-17 +0000"
-  },
-  {
     "headline": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
     "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -694,12 +940,6 @@
     "link": "https://www.nytimes.com/2026/01/24/us/democrats-congress-reaction.html",
     "source": "nyt",
     "pubdate": "2026-01-25-03-47-32 +0000"
-  },
-  {
-    "headline": "Video shows moments around fatal shooting in Minneapolis",
-    "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-03-34-28 +0000"
   },
   {
     "headline": "Republican senator calls Minneapolis events ‘incredibly disturbing’",
@@ -792,12 +1032,6 @@
     "pubdate": "2026-01-25-02-26-47 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/us/minneapolis-shooting-ice/authorities-in-minneapolis-respond-to-reports-of-shooting-involving-federal-agents",
-    "source": "nyt",
-    "pubdate": "2026-01-25-02-24-07 +0000"
-  },
-  {
     "headline": "William H. Foege, Key Figure in the Eradication of Smallpox, Dies at 89",
     "link": "https://www.nytimes.com/2026/01/24/us/william-h-foege-dead.html",
     "source": "nyt",
@@ -820,30 +1054,12 @@
     "link": "https://www.latimes.com/california/story/2026-01-24/top-los-angeles-federal-prosecutor-criticism",
     "source": "latimes",
     "pubdate": "2026-01-25-02-16-40 +0000"
-  },
-  {
-    "headline": "Let public buy war bonds to raise £20bn for defence, say Lib Dems",
-    "link": "https://www.bbc.com/news/articles/cq5y7edg169o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-02-12-17 +0000"
-  },
-  {
-    "headline": "Let public buy war bonds to raise £20bn for defence, say Lib Dems",
-    "link": "https://www.bbc.com/news/articles/cq5y7edg169o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-02-12-17 +0000"
   },
   {
     "headline": "Minneapolis is showing us the way",
     "link": "https://48hills.org/2026/01/minneapolis-is-showing-us-the-way/",
     "source": "48hills",
     "pubdate": "2026-01-25-02-10-42 +0000"
-  },
-  {
-    "headline": "Noem defends fatal Minneapolis shooting, slams Minnesota Dems for inciting ‘violence’",
-    "link": "https://nypost.com/2026/01/24/us-news/noem-defends-fatal-minneapolis-shooting-slams-minnesota-dems-for-inciting-violence/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-02-05-37 +0000"
   },
   {
     "headline": "What India's Republic Day red carpet means for its foreign policy",
@@ -874,18 +1090,6 @@
     "link": "https://www.wsj.com/us-news/law/the-rules-for-federal-officers-in-immigration-operations-5d68d8d7",
     "source": "wsj",
     "pubdate": "2026-01-25-01-51-00 +0000"
-  },
-  {
-    "headline": "Chaotic moment federal officer reached for gun revealed in close-up analysis of Minneapolis armed anti-ICE protester shooting",
-    "link": "https://nypost.com/2026/01/24/us-news/moment-federal-officer-reached-for-gun-revealed-in-close-up-analysis-of-minneapolis-armed-anti-ice-protester-shooting/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-01-50-20 +0000"
-  },
-  {
-    "headline": "House GOP preparing for court showdown to unravel why Ilhan Omar’s net worth skyrocketed up to $30M",
-    "link": "https://nypost.com/2026/01/24/us-news/house-gop-prepares-for-court-to-establish-how-ilhan-omar-her-husband-are-worth-up-to-30m/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-01-45-39 +0000"
   },
   {
     "headline": "House GOP preparing for court showdown to unravel why Ilhan Omar’s net worth skyrocketed up to $30M",
@@ -948,22 +1152,10 @@
     "pubdate": "2026-01-25-01-00-56 +0000"
   },
   {
-    "headline": "Non profit foundation group to give scholarship to kids of fallen NYPD officers",
-    "link": "https://nypost.com/2026/01/24/us-news/non-profit-group-to-give-scholarship-to-kids-of-fallen-nypd-officer/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-00-58-54 +0000"
-  },
-  {
     "headline": "Trump Administration Tries to Shift Blame to Local Officials Over Shooting",
     "link": "https://www.nytimes.com/2026/01/24/us/trump-administration-minneapolis-shooting.html",
     "source": "nyt",
     "pubdate": "2026-01-25-00-43-09 +0000"
-  },
-  {
-    "headline": "That’s an icy meatball: weathercaster goes viral with frigid spaghetti trick",
-    "link": "https://nypost.com/2026/01/24/us-news/thats-an-icy-meatball-weathercaster-goes-viral-with-frigid-spaghetti-trick/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-00-41-50 +0000"
   },
   {
     "headline": "Alex Jeffrey Pretti Knew He Wanted to Help Others",
@@ -982,12 +1174,6 @@
     "link": "https://www.wsj.com/us-news/federal-agents-shoot-another-person-in-minneapolis-gov-walz-says-469e5862",
     "source": "wsj",
     "pubdate": "2026-01-25-00-36-00 +0000"
-  },
-  {
-    "headline": "Justice Department warns of ‘copy cat raiders’ as it seeks more arrests for St. Paul church protest",
-    "link": "https://www.startribune.com/justice-department-warns-of-copy-cat-raiders-as-it-seeks-more-arrests-for-st-paul-church-protest/601570182",
-    "source": "startribune",
-    "pubdate": "2026-01-25-00-30-47 +0000"
   },
   {
     "headline": "More than 100 people stood outside the D.C. headquarters of the U.S. Department of Homeland Security...",
@@ -1020,18 +1206,6 @@
     "pubdate": "2026-01-25-00-14-47 +0000"
   },
   {
-    "headline": "Teen suspect allegedly confessed after Marine vet killed in iPhone robbery gone wrong",
-    "link": "https://nypost.com/2026/01/24/us-news/teen-suspect-allegedly-confessed-after-marine-vet-killed-in-iphone-robbery-gone-wrong/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-00-13-37 +0000"
-  },
-  {
-    "headline": "3 dead bodies found across NYC on freezing morning, officials said",
-    "link": "https://nypost.com/2026/01/24/us-news/dead-bodies-found-outside-in-lead-up-to-winter-storm/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-00-10-57 +0000"
-  },
-  {
     "headline": "How Two Hardy North Dakotans Were Almost Thwarted by an Ice Storm",
     "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/how-two-hardy-north-dakotans-were-almost-thwarted-by-an-ice-storm",
     "source": "nyt",
@@ -1048,12 +1222,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-24-23-51-30 +0000"
-  },
-  {
-    "headline": "‘Aggressive’ raccoon that charged at a group of people shot dead on NYC boardwalk: NYPD",
-    "link": "https://nypost.com/2026/01/24/us-news/aggressive-raccoon-that-charged-at-a-group-of-people-shot-dead-on-nyc-boardwalk-nypd/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-23-50-58 +0000"
   },
   {
     "headline": "Over a Thousand Protesters in NYC Denounce ICE After Latest Killing",
@@ -1102,12 +1270,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-24-23-28-35 +0000"
-  },
-  {
-    "headline": "Scenes From the Winter Storm",
-    "link": "https://www.nytimes.com/2026/01/24/us/winter-storm-snow-photos-videos.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-23-04-29 +0000"
   },
   {
     "headline": "Elite Moscow university offers students bonuses to join Russian military, with bogus claims of non-combat positions",
@@ -1239,13 +1401,13 @@
     "headline": "Syria Announces Cease-Fire Extension, Hours After Truce With Kurds Expired",
     "link": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
     "source": "nyt",
-    "pubdate": "2026-01-24-21-52-38 +0000"
+    "pubdate": "2026-01-24-21-52-39 +0000"
   },
   {
     "headline": "Syria Announces Cease-Fire Extension, Hours After Truce With Kurds Expired",
     "link": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
     "source": "nyt",
-    "pubdate": "2026-01-24-21-52-38 +0000"
+    "pubdate": "2026-01-24-21-52-39 +0000"
   },
   {
     "headline": "The First Three Weeks of the Year Will Reshape the World",
@@ -1636,11 +1798,5 @@
     "link": "https://www.wsj.com/tech/ai/faster-drying-paint-and-better-smelling-soap-ai-tries-product-development-e7a544d7?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-24-17-00-00 +0000"
-  },
-  {
-    "headline": "Washington Post Tears Up Plans to Cover Winter Olympics",
-    "link": "https://www.nytimes.com/2026/01/24/business/media/washington-post-winter-olympics.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-16-40-37 +0000"
   }
 ]
