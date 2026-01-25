@@ -1,23 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2026-01-25-16-53-41 +0000",
+    "score": 22,
+    "pubdate": "2026-01-25-18-53-33 +0000",
+    "source": "nypost",
+    "headline": "Barack Obama issues rare political statement condemning DHS over Alex Pretti shooting — as Dems rally against Trump admin",
+    "link": "https://nypost.com/2026/01/25/us-news/barack-obama-issues-rare-political-statement-condemning-dhs-over-alex-pretti-shooting-as-dems-rally-against-trump-admin/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-01-25-18-34-00 +0000",
+    "source": "latimes",
+    "headline": "Manifestantes salen a las calles de Los Ángeles para protestar por el tiroteo de Minneapolis",
+    "link": "https://www.latimes.com/espanol/california/articulo/2026-01-25/la-me-ice-protest-dtla"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-25-18-06-00 +0000",
+    "source": "wsj",
+    "headline": "Expansive Winter Storm Snarls the Central and Eastern U.S.",
+    "link": "https://www.wsj.com/us-news/climate-environment/winter-storm-blankets-central-and-eastern-u-s-628cd9f7"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-25-18-31-41 +0000",
+    "source": "nypost",
+    "headline": "Hospital chaos looms as tens of thousands of California nurses threaten walk off job despite proposed wage hikes",
+    "link": "https://nypost.com/2026/01/25/us-news/thousands-of-kaiser-nurses-to-strike-in-california-hawaii-over-staffing-pay/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-25-18-29-57 +0000",
+    "source": "bbc",
+    "headline": "Venezuela frees dozens of political prisoners, human rights group says",
+    "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-25-18-41-50 +0000",
     "source": "wapo",
-    "headline": "Homeland Security Secretary Kristi L. Noem contended that Alex Pretti committed “a felony” when he interacted...",
+    "headline": "Live updates: Trump officials say Minneapolis victim posed threat; videos show he was disarmed",
+    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-25-18-12-36 +0000",
+    "source": "wapo",
+    "headline": "Oklahoma Gov. Kevin Stitt (R) told CNN on Sunday that President Donald Trump is “getting bad...",
     "link": "https://www.washingtonpost.com"
   },
   {
     "score": 10,
-    "pubdate": "2026-01-25-16-54-18 +0000",
-    "source": "wapo",
-    "headline": "Live updates: Minneapolis on edge as details emerge of deadly shooting",
-    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/"
+    "pubdate": "2026-01-25-18-44-00 +0000",
+    "source": "wsj",
+    "headline": "In Battle for Evidence, Minnesota Sues Feds Over Fatal Border Patrol Shooting",
+    "link": "https://www.wsj.com/us-news/in-battle-for-evidence-minnesota-sues-feds-over-fatal-border-patrol-shooting-52be59ba"
   },
   {
-    "score": 5,
-    "pubdate": "2026-01-25-16-54-18 +0000",
-    "source": "wapo",
-    "headline": "Bovino says the victims of the Minneapolis shooting are Border Patrol agents",
-    "link": "https://www.washingtonpost.com"
+    "score": 10,
+    "pubdate": "2026-01-25-18-13-32 +0000",
+    "source": "nypost",
+    "headline": "Bread, eggs, milk— and weed! Potheads swarm cannabis shops to prep for blizzard",
+    "link": "https://nypost.com/2026/01/25/us-news/potheads-swarm-cannabis-shops-before-snowstorm/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-25-18-08-10 +0000",
+    "source": "startribune",
+    "headline": "Taylor Rogers sought a return to the Twins bullpen and a reunion with Derek Shelton",
+    "link": "https://www.startribune.com/minnesota-twins-taylor-rogers-derek-shelton-latrout-hawkins-mlb/601562849"
   }
 ]
