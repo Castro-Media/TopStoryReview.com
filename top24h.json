@@ -1,6 +1,6 @@
 [
   {
-    "score": 151,
+    "score": 155,
     "pubdate": "2026-01-24-22-55-08 +0000",
     "source": "nypost",
     "headline": "Chilling new video reveals new angle of fed shooting armed anti-ICE protester in Minneapolis",
@@ -14,14 +14,14 @@
     "link": "https://www.cbc.ca/news/politics/trump-tariff-canada-china-goods-9.7059561?cmp=rss"
   },
   {
-    "score": 85,
+    "score": 84,
     "pubdate": "2026-01-24-21-35-00 +0000",
     "source": "wapo",
     "headline": "Minnesota Gov. Tim Walz (D) said at a news conference that he was thankful there was...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 66,
+    "score": 67,
     "pubdate": "2026-01-25-05-45-44 +0000",
     "source": "bbc",
     "headline": "Watch: BBC at protests near scene where Alex Pretti was shot dead",
@@ -35,6 +35,13 @@
     "link": "https://nypost.com/2026/01/24/world-news/trilateral-talks-between-us-russia-and-ukraine-end-without-peace-deal-zelensky-calls-session-productive-as-both-sides-agree-to-meet-again/"
   },
   {
+    "score": 58,
+    "pubdate": "2026-01-25-10-12-37 +0000",
+    "source": "nypost",
+    "headline": "Senate Dems revolt against DHS funding bill amid Minneapolis chaos, hiking government shutdown risk",
+    "link": "https://nypost.com/2026/01/25/us-news/senate-democrats-revolt-against-homeland-security-funding-bill-after-alex-pretti-ice-shooting-in-minneapolis/"
+  },
+  {
     "score": 47,
     "pubdate": "2026-01-25-07-28-38 +0000",
     "source": "nypost",
@@ -42,18 +49,18 @@
     "link": "https://nypost.com/2026/01/25/us-news/waffle-house-locations-across-the-south-shutter-as-catastrophic-monster-winter-storm-approaches/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-01-25-05-17-00 +0000",
-    "source": "wsj",
-    "headline": "Senate Democrats signaled they are willing to shut down much of the government rather than vote for a package that includes funds for immigration enforcement, after a second deadly Minneapolis shooting by federal agents",
-    "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51"
-  },
-  {
-    "score": 44,
+    "score": 47,
     "pubdate": "2026-01-24-17-06-00 +0000",
     "source": "wsj",
     "headline": "China’s Xi Places His Top General Under Investigation as Military Purges Heat Up",
     "link": "https://www.wsj.com/world/china/chinas-xi-places-his-top-general-under-investigation-as-military-purges-heat-up-d07f9c7d"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-01-24-20-03-07 +0000",
+    "source": "wapo",
+    "headline": "Border Patrol official characterizes the incident as an attack on agents",
+    "link": "https://www.washingtonpost.com"
   },
   {
     "score": 36,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Rock climber Alex Honnold reaches top of Taipei 101 skyscraper without ropes during Netflix’s ‘Skyscraper Live’",
     "link": "https://nypost.com/2026/01/24/lifestyle/rock-climber-alex-honnold-reaches-top-of-taipei-101-skyscraper-without-ropes-during-netflixs-skyscraper-live/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-01-24-15-14-19 +0000",
-    "source": "nypost",
-    "headline": "Trump threatens Canada with 100% tariff after PM Mark Carney pushes back on foreign policy moves in Davos",
-    "link": "https://nypost.com/2026/01/24/us-news/trump-threatens-canada-with-100-tariff-after-pm-mark-carneys-criticism/"
   }
 ]
