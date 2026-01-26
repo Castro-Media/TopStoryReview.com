@@ -1,9 +1,75 @@
 [
   {
-    "headline": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
-    "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+    "headline": "Arkansas man who disappeared with his ailing dog had terminal illness, believed to have died by suicide ‘in the sea’",
+    "link": "https://nypost.com/2026/01/26/us-news/arkansas-man-who-disappeared-with-his-ailing-dog-believed-to-have-died-by-suicide-in-the-sea/",
+    "source": "nypost",
+    "pubdate": "2026-01-26-06-52-49 +0000"
+  },
+  {
+    "headline": "Caribbean cannabis growers eye budding domestic sales and exports",
+    "link": "https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-26-05-57-05 +0000"
+    "pubdate": "2026-01-26-06-49-21 +0000"
+  },
+  {
+    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-26-06-47-20 +0000"
+  },
+  {
+    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-26-06-47-20 +0000"
+  },
+  {
+    "headline": "Ryanair Upgrades Fiscal 2026 Outlook on Strong Demand",
+    "link": "https://www.wsj.com/business/earnings/ryanair-upgrades-fiscal-2026-outlook-on-strong-demand-169fc04e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-26-06-41-00 +0000"
+  },
+  {
+    "headline": "Japanese ex-soldier reaches settlements in landmark sex abuse case",
+    "link": "https://www.bbc.com/news/articles/cr4k2kw500zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-06-39-07 +0000"
+  },
+  {
+    "headline": "Minneapolis live updates: Border Patrol sidesteps questions about fatal shooting; police chief criticizes agents",
+    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/",
+    "source": "wapo",
+    "pubdate": "2026-01-26-06-34-46 +0000"
+  },
+  {
+    "headline": "More Americans say Alex Pretti shooting was not justified, poll finds",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-26-06-34-46 +0000"
+  },
+  {
+    "headline": "‘In Gold We Trust’ Trade Pushes Metal to New Heights",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-above-5-000-oz-for-first-time-amid-geopolitical-tensions-dbb08833?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-26-06-22-00 +0000"
+  },
+  {
+    "headline": "Food project to 'sneak' kidney beans into diets",
+    "link": "https://www.bbc.com/news/articles/c394pe38398o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-06-13-27 +0000"
+  },
+  {
+    "headline": "Minn. attorney general calls administration version of shooting ‘flat-out insane’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-26-06-03-15 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-01-26-05-59-51 +0000"
   },
   {
     "headline": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
@@ -12,7 +78,13 @@
     "pubdate": "2026-01-26-05-57-05 +0000"
   },
   {
-    "headline": "Japan Stocks Fall, Government Bonds Rise After Yen’s Rebound",
+    "headline": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
+    "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-05-57-05 +0000"
+  },
+  {
+    "headline": "Yen Strength Lifts Japanese Bonds, Pushes Down Stocks",
     "link": "https://www.wsj.com/finance/japan-government-bond-yields-stocks-fall-after-yens-rebound-8c6a1914?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-26-05-40-00 +0000"
@@ -22,12 +94,6 @@
     "link": "https://www.nytimes.com/2026/01/25/world/minneapolis-ice-shooting-press-freedom.html",
     "source": "nyt",
     "pubdate": "2026-01-26-05-31-09 +0000"
-  },
-  {
-    "headline": "Gold May See Some Short-Term Volatility After Strong Rally",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-above-5-000-oz-for-first-time-amid-geopolitical-tensions-dbb08833?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-26-05-26-00 +0000"
   },
   {
     "headline": "Minnesota in ‘uncharted territory’ as state, feds clash over shooting of Alex Pretti",
@@ -44,12 +110,6 @@
   {
     "headline": "Federal agent secured gun from Minn. man before fatal shooting, videos show",
     "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-26-05-17-49 +0000"
-  },
-  {
-    "headline": "Minneapolis live updates: Border Patrol sidesteps questions about fatal shooting; police chief criticizes agents",
-    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/",
     "source": "wapo",
     "pubdate": "2026-01-26-05-17-49 +0000"
   },
@@ -174,10 +234,10 @@
     "pubdate": "2026-01-26-04-38-19 +0000"
   },
   {
-    "headline": "Winter Storm Pummels Toronto With Near-Record Snowfall",
-    "link": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
-    "source": "nyt",
-    "pubdate": "2026-01-26-04-37-17 +0000"
+    "headline": "At least seven dead and 800,000 without power as major winter storm hits US",
+    "link": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-04-38-19 +0000"
   },
   {
     "headline": "Winter Storm Pummels Toronto With Near-Record Snowfall",
@@ -186,7 +246,13 @@
     "pubdate": "2026-01-26-04-37-17 +0000"
   },
   {
-    "headline": "Anti-ICE protesters swarm Minnesota hotel they believe is housing fed agents",
+    "headline": "Winter Storm Pummels Toronto With Near-Record Snowfall",
+    "link": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
+    "source": "nyt",
+    "pubdate": "2026-01-26-04-37-17 +0000"
+  },
+  {
+    "headline": "Violent anti-ICE protesters swarm Minnesota hotel they believe is housing fed agents — leaving officer bloodied",
     "link": "https://nypost.com/2026/01/25/us-news/anti-ice-protesters-swarm-st-paul-hotel-they-believe-is-housing-fed-agents/",
     "source": "nypost",
     "pubdate": "2026-01-26-04-30-19 +0000"
@@ -196,6 +262,12 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-26-04-21-44 +0000"
+  },
+  {
+    "headline": "Fifteen dead after Philippines ferry with 300 passengers sinks",
+    "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-04-06-14 +0000"
   },
   {
     "headline": "Fifteen dead after Philippines ferry with 300 passengers sinks",
@@ -384,12 +456,6 @@
     "pubdate": "2026-01-26-01-53-53 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-26-01-50-13 +0000"
-  },
-  {
     "headline": "Trump Blames Democrats for ‘Tragic’ Deaths as Agents Clash With Protesters",
     "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-blames-democrats-minneapolis-killings.html",
     "source": "nyt",
@@ -432,7 +498,7 @@
     "pubdate": "2026-01-26-01-27-48 +0000"
   },
   {
-    "headline": "Daughter of top Iranian official ousted from Emory University following massive public outrage",
+    "headline": "Daughter of top Iranian official ousted from Emory University following massive public outrage, CA Post pressure",
     "link": "https://nypost.com/2026/01/25/us-news/emory-university-fires-daughter-of-iran-official-fatemeh-ardeshir-larijani/",
     "source": "nypost",
     "pubdate": "2026-01-26-01-21-56 +0000"
@@ -712,12 +778,6 @@
     "link": "https://www.wsj.com/us-news/education/columbia-president-jennifer-mnookin-wisconsin-madison-6e38c62d",
     "source": "wsj",
     "pubdate": "2026-01-25-22-30-00 +0000"
-  },
-  {
-    "headline": "LA’s top fed prosecutor Bill Essayli warns against armed anti-ICE protesters after Alex Pretti shooting in Minneapolis",
-    "link": "https://nypost.com/2026/01/25/us-news/las-bill-essayli-throws-full-support-behind-ice-in-alex-pretti-shooting/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-22-29-51 +0000"
   },
   {
     "headline": "The snow will still fall in Maine, just later than everywhere else.",
@@ -1092,12 +1152,6 @@
     "pubdate": "2026-01-25-18-48-27 +0000"
   },
   {
-    "headline": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
-    "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-18-48-27 +0000"
-  },
-  {
     "headline": "In Battle for Evidence, Minnesota Sues Feds Over Fatal Border Patrol Shooting",
     "link": "https://www.wsj.com/us-news/in-battle-for-evidence-minnesota-sues-feds-over-fatal-border-patrol-shooting-52be59ba",
     "source": "wsj",
@@ -1336,18 +1390,6 @@
     "link": "https://www.cbc.ca/news/politics/carney-canada-trump-tariff-threat-china-trade-9.7060150?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-25-15-41-03 +0000"
-  },
-  {
-    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-15-39-54 +0000"
-  },
-  {
-    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-15-39-54 +0000"
   },
   {
     "headline": "Witness accounts of shooting detailed in legal bid to restore ICE restrictions",
@@ -1590,12 +1632,6 @@
     "pubdate": "2026-01-25-11-59-28 +0000"
   },
   {
-    "headline": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
-    "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-11-48-19 +0000"
-  },
-  {
     "headline": "Myanmar’s military choreographs an election, with Beijing’s help",
     "link": "https://www.washingtonpost.com/world/2026/01/24/myanmar-election-china-junta/",
     "source": "wapo",
@@ -1798,29 +1834,5 @@
     "link": "https://www.washingtonpost.com/world/2026/01/23/free-solo-taipei-101-alex-honnold/",
     "source": "wapo",
     "pubdate": "2026-01-25-08-06-56 +0000"
-  },
-  {
-    "headline": "Prince Harry fires back at Trump over NATO criticism: ‘I lost friends’ in Afghanistan",
-    "link": "https://nypost.com/2026/01/25/us-news/prince-harry-fires-back-at-trump-over-nato-uk-criticism/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-06-19-40 +0000"
-  },
-  {
-    "headline": "Watch: Federal and state officials give conflicting accounts of Alex Pretti's death",
-    "link": "https://www.bbc.com/news/videos/cgqegq0kj02o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-06-14-24 +0000"
-  },
-  {
-    "headline": "Responding to a lawsuit filed by Minnesota’s attorney general, a U.S. District Court judge late Saturday...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-25-06-10-38 +0000"
-  },
-  {
-    "headline": "Florida Rep. Maxwell Frost says he was punched in the face at Sundance Film Festival party",
-    "link": "https://nypost.com/2026/01/25/us-news/florida-rep-maxwell-frost-says-he-was-punched-in-the-face-at-sundance-film-festival-suspect-christian-young-arrested/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-06-02-10 +0000"
   }
 ]
