@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-01-25-20-53-29 +0000",
+    "score": 18,
+    "pubdate": "2026-01-25-23-28-25 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Border Patrol sidesteps questions about fatal shooting; police chief criticizes federal agents’ actions",
+    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-25-23-34-38 +0000",
+    "source": "nypost",
+    "headline": "Dad shot dead after celebrating his birthday in NYC: sources",
+    "link": "https://nypost.com/2026/01/25/us-news/dad-shot-dead-after-celebrating-his-bday-in-nyc-sources/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-25-23-02-33 +0000",
+    "source": "wapo",
+    "headline": "Democratic National Committee Chair Ken Martin accused Attorney General Pam Bondi of attempting to extort the...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-25-23-31-24 +0000",
     "source": "nyt",
-    "headline": "Deputy attorney general takes a measured tone after Trump officials call the shooting victim a terrorist.",
-    "link": "https://www.nytimes.com/live/2026/01/25/us/minneapolis-shooting-ice/deputy-attorney-general-takes-a-measured-tone-after-trump-officials-call-the-shooting-victim-a-terrorist"
+    "headline": "Most Fox News Reporting on Minneapolis Shooting Supports Official Version",
+    "link": "https://www.nytimes.com/2026/01/25/business/media/fox-news-minneapolis-shooting.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-25-23-41-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Rises Above $5,000/oz for First Time Amid Geopolitical Tensions",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-above-5-000-oz-for-first-time-amid-geopolitical-tensions-dbb08833?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-25-23-32-55 +0000",
+    "source": "nyt",
+    "headline": "Museums From Texas to Massachusetts Close for Storm, but Broadway Shows Go On",
+    "link": "https://www.nytimes.com/2026/01/25/us/museums-broadway-storm-closed.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-25-23-31-21 +0000",
+    "source": "nyt",
+    "headline": "George Cabot Lodge, Last of His Family to Battle a Kennedy, Dies at 98",
+    "link": "https://www.nytimes.com/2026/01/25/obituaries/george-cabot-lodge-dead.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-25-22-58-23 +0000",
+    "source": "cbc",
+    "headline": "NBA players association voices support for Minnesota protesters",
+    "link": "https://www.cbc.ca/news/world/minnesota-protest-nba-players-association-alex-pretti-9.7060513?cmp=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-25-23-28-25 +0000",
+    "source": "wapo",
+    "headline": "Shootings in Minneapolis underscore how Kristi Noem has transformed DHS",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-25-23-18-38 +0000",
+    "source": "nyt",
+    "headline": "Republicans Struggle to Respond to Shooting, Reflecting Political Peril",
+    "link": "https://www.nytimes.com/2026/01/25/us/bill-cassidy-minneapolis-investigation.html"
   }
 ]
