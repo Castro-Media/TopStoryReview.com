@@ -1,9 +1,483 @@
 [
   {
+    "headline": "On Broadway, frustration mounts as curtains rise amid the snowfall.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/broadway-winter-storm-closures",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-47-57 +0000"
+  },
+  {
+    "headline": "Shooting at kiddie birthday party leaves 2 dead, 2 critical in Mass.",
+    "link": "https://nypost.com/2026/01/25/us-news/shooting-at-kiddie-birthday-party-leaves-2-dead-2-critical-in-mass/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-23-47-21 +0000"
+  },
+  {
+    "headline": "Gold Rises Above $5,000/oz for First Time Amid Geopolitical Tensions",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-above-5-000-oz-for-first-time-amid-geopolitical-tensions-dbb08833?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-25-23-41-00 +0000"
+  },
+  {
+    "headline": "Dad shot dead after celebrating his birthday in NYC: sources",
+    "link": "https://nypost.com/2026/01/25/us-news/dad-shot-dead-after-celebrating-his-bday-in-nyc-sources/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-23-34-38 +0000"
+  },
+  {
+    "headline": "Museums From Texas to Massachusetts Close for Storm, but Broadway Shows Go On",
+    "link": "https://www.nytimes.com/2026/01/25/us/museums-broadway-storm-closed.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-32-55 +0000"
+  },
+  {
+    "headline": "Most Fox News Reporting on Minneapolis Shooting Supports Official Version",
+    "link": "https://www.nytimes.com/2026/01/25/business/media/fox-news-minneapolis-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-31-24 +0000"
+  },
+  {
+    "headline": "George Cabot Lodge, Last of His Family to Battle a Kennedy, Dies at 98",
+    "link": "https://www.nytimes.com/2026/01/25/obituaries/george-cabot-lodge-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-31-21 +0000"
+  },
+  {
+    "headline": "Live updates: Border Patrol sidesteps questions about fatal shooting; police chief criticizes federal agents’ actions",
+    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/",
+    "source": "wapo",
+    "pubdate": "2026-01-25-23-28-25 +0000"
+  },
+  {
+    "headline": "Shootings in Minneapolis underscore how Kristi Noem has transformed DHS",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-23-28-25 +0000"
+  },
+  {
+    "headline": "Newborn baby found dead in mom’s NYC apartment: sources",
+    "link": "https://nypost.com/2026/01/25/us-news/newborn-baby-found-dead-in-moms-nyc-apartment-sources/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-23-23-07 +0000"
+  },
+  {
+    "headline": "Republicans Struggle to Respond to Shooting, Reflecting Political Peril",
+    "link": "https://www.nytimes.com/2026/01/25/us/bill-cassidy-minneapolis-investigation.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-18-38 +0000"
+  },
+  {
+    "headline": "ICU nurse fatally shot by Border Patrol in Minneapolis cared for veterans",
+    "link": "https://www.washingtonpost.com/nation/2026/01/24/alex-pretti-minneapolis-shooting-victim/",
+    "source": "wapo",
+    "pubdate": "2026-01-25-23-09-32 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/minneapolis-shooting-ice/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-07-55 +0000"
+  },
+  {
+    "headline": "Democratic National Committee Chair Ken Martin accused Attorney General Pam Bondi of attempting to extort the...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-23-02-33 +0000"
+  },
+  {
+    "headline": "For Trump, the Truth in Minneapolis Is What He Says It Is",
+    "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-truth-minneapolis-shootings.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-01-49 +0000"
+  },
+  {
+    "headline": "For Trump, the Truth in Minneapolis Is What He Says It Is",
+    "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-truth-minneapolis-shootings.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-23-01-49 +0000"
+  },
+  {
+    "headline": "NBA players association voices support for Minnesota protesters",
+    "link": "https://www.cbc.ca/news/world/minnesota-protest-nba-players-association-alex-pretti-9.7060513?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-25-22-58-23 +0000"
+  },
+  {
+    "headline": "Tim Walz compares Trump’s ICE crackdown in Minnesota to Nazi occupation told by Anne Frank",
+    "link": "https://nypost.com/2026/01/25/us-news/tim-walz-compares-trumps-ice-crackdown-to-nazi-occupation/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-54-55 +0000"
+  },
+  {
+    "headline": "Tim Walz compares Trump’s ICE crackdown in Minnesota to Nazi occupation told by Anne Frank",
+    "link": "https://nypost.com/2026/01/25/us-news/tim-walz-compares-trumps-ice-crackdown-to-nazi-occupation/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-54-55 +0000"
+  },
+  {
+    "headline": "Senate Democrats angered by the deadly shooting in Minneapolis said they wouldn’t vote for a government funding package without changes to its homeland security provisions, raising the possibility of a partial government shutdown",
+    "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51",
+    "source": "wsj",
+    "pubdate": "2026-01-25-22-48-00 +0000"
+  },
+  {
+    "headline": "Minnesota CEOs break silence on ICE surge, killings",
+    "link": "https://www.startribune.com/minnesota-businesses-ice/601570774",
+    "source": "startribune",
+    "pubdate": "2026-01-25-22-45-45 +0000"
+  },
+  {
+    "headline": "Liberals welcome 'spirit of co-operation' from Tories as Parliament returns: House leader",
+    "link": "https://www.cbc.ca/news/politics/liberals-conservatives-house-of-commons-bills-9.7060497?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-25-22-45-40 +0000"
+  },
+  {
     "headline": "Deputy attorney general takes a measured tone after Trump officials call the shooting victim a terrorist.",
     "link": "https://www.nytimes.com/live/2026/01/25/us/minneapolis-shooting-ice/deputy-attorney-general-takes-a-measured-tone-after-trump-officials-call-the-shooting-victim-a-terrorist",
     "source": "nyt",
-    "pubdate": "2026-01-25-20-53-29 +0000"
+    "pubdate": "2026-01-25-22-45-08 +0000"
+  },
+  {
+    "headline": "Protester: ‘I’ve never felt stronger about my community ... also never more afraid.’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-22-42-49 +0000"
+  },
+  {
+    "headline": "NYC DA appears poised to try to help free infamous pedophile, critics claim",
+    "link": "https://nypost.com/2026/01/25/us-news/nyc-da-appears-poised-to-try-to-help-free-infamous-pedophile-critics-claim/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-40-45 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-01-25-22-40-30 +0000"
+  },
+  {
+    "headline": "Mahmood to call for more police patrols and faster responses to 999 calls",
+    "link": "https://www.bbc.com/news/articles/c4gwx2271xzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-22-33-55 +0000"
+  },
+  {
+    "headline": "Columbia University Agrees to Hire UW-Madison Leader as Next President",
+    "link": "https://www.wsj.com/us-news/education/columbia-president-jennifer-mnookin-wisconsin-madison-6e38c62d",
+    "source": "wsj",
+    "pubdate": "2026-01-25-22-30-00 +0000"
+  },
+  {
+    "headline": "LA’s top fed prosecutor Bill Essayli warns against armed anti-ICE protesters after Alex Pretti shooting in Minneapolis",
+    "link": "https://nypost.com/2026/01/25/us-news/las-bill-essayli-throws-full-support-behind-ice-in-alex-pretti-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-29-51 +0000"
+  },
+  {
+    "headline": "The snow will still fall in Maine, just later than everywhere else.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/the-snow-will-still-fall-in-maine-just-later-than-everywhere-else",
+    "source": "nyt",
+    "pubdate": "2026-01-25-22-29-39 +0000"
+  },
+  {
+    "headline": "Protests at Whipple building call for accountability after third shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-22-27-27 +0000"
+  },
+  {
+    "headline": "Gavin Newsom ignored calls to help girl, 5, left with half a skull in crash caused by illegal immigrant, dad says",
+    "link": "https://nypost.com/2026/01/25/us-news/gavin-newsom-ignored-calls-to-help-girl-injured-in-illegal-immigrant-crash-dad/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-25-26 +0000"
+  },
+  {
+    "headline": "China’s top general accused of leaking country’s nuclear weapons program to CIA",
+    "link": "https://nypost.com/2026/01/25/world-news/chinas-top-general-accused-of-leaking-nuclear-secrets-to-us/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-22-19 +0000"
+  },
+  {
+    "headline": "Souhan: What good are sports in times like these?",
+    "link": "https://www.startribune.com/jim-souhan-minnesota-timberwolves-renee-good-alex-pretti-federal-occupation-twin-cities/601567328",
+    "source": "startribune",
+    "pubdate": "2026-01-25-22-19-26 +0000"
+  },
+  {
+    "headline": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
+    "link": "https://www.nytimes.com/2026/01/25/business/minnesota-target-general-mills-ceo-letter.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-22-18-29 +0000"
+  },
+  {
+    "headline": "Cash-strapped Washington Post could fold entire sports section after scrapping Olympics coverage: report",
+    "link": "https://nypost.com/2026/01/25/media/washington-post-could-fold-sports-section/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-14-46 +0000"
+  },
+  {
+    "headline": "Federal agents aren’t demonstrating ‘professional policing,’ Minneapolis chief says",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-22-12-09 +0000"
+  },
+  {
+    "headline": "Expansive Winter Storm Snarls the Central and Eastern U.S.",
+    "link": "https://www.wsj.com/us-news/climate-environment/winter-storm-blankets-central-and-eastern-u-s-628cd9f7",
+    "source": "wsj",
+    "pubdate": "2026-01-25-22-12-00 +0000"
+  },
+  {
+    "headline": "Barack and Michelle Obama blast Trump and ICE conduct: 'This has to stop'",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-25/barack-michelle-obama-alex-pretti-ice-shooting",
+    "source": "latimes",
+    "pubdate": "2026-01-25-22-06-53 +0000"
+  },
+  {
+    "headline": "Barack and Michelle Obama blast Trump and ICE conduct: 'This has to stop'",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-25/barack-michelle-obama-alex-pretti-ice-shooting",
+    "source": "latimes",
+    "pubdate": "2026-01-25-22-06-53 +0000"
+  },
+  {
+    "headline": "Analysing the Minneapolis shooting frame by frame",
+    "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-22-04-22 +0000"
+  },
+  {
+    "headline": "Analysing the Minneapolis shooting frame by frame",
+    "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-22-04-22 +0000"
+  },
+  {
+    "headline": "This isn’t a good $ign for NY comptroller candidate",
+    "link": "https://nypost.com/2026/01/25/us-news/long-shot-comptroller-candidate-puzzlingly-blames-letitia-james-for-late-campaign-filings/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-22-01-35 +0000"
+  },
+  {
+    "headline": "How Minnesota's history of protest informs this moment",
+    "link": "https://www.cbc.ca/news/world/minnesota-protest-history-good-pretti-floyd-9.7060428?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-01-25-21-56-33 +0000"
+  },
+  {
+    "headline": "Here’s What to Know if You Plan to Travel During the Winter Storm",
+    "link": "https://www.nytimes.com/2026/01/22/travel/winter-storm-travel-airlines.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-21-49-28 +0000"
+  },
+  {
+    "headline": "Wife of accused LA homeless charity fraudster makes mad dash as neighbors dish on couple’s luxe lifestyle in $7M mansion",
+    "link": "https://nypost.com/2026/01/25/us-news/wife-of-accused-la-homeless-charity-fraudster-makes-mad-dash-as-neighbors-dish-on-couples-luxe-lifestyle/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-48-42 +0000"
+  },
+  {
+    "headline": "Another Fatal Shooting in Minneapolis",
+    "link": "https://www.nytimes.com/2026/01/25/world/minneapolis-ice-shooting-press-freedom.html",
+    "source": "nyt",
+    "pubdate": "2026-01-25-21-46-01 +0000"
+  },
+  {
+    "headline": "Opinion | Time for ICE to Pause in Minneapolis",
+    "link": "https://www.wsj.com/opinion/time-for-ice-to-pause-in-minneapolis-e9ecf097",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-42-00 +0000"
+  },
+  {
+    "headline": "Senate Minority Leader Charles E. Schumer (D-New York) in a statement Sunday called on Senate Republicans...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-21-41-06 +0000"
+  },
+  {
+    "headline": "Opinion | Thank Heaven for Coal Power in the Cold",
+    "link": "https://www.wsj.com/opinion/thank-heaven-for-coal-power-in-the-cold-dc3b9a33",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-41-00 +0000"
+  },
+  {
+    "headline": "Opinion | Thank Heaven for Coal Power in the Cold",
+    "link": "https://www.wsj.com/opinion/thank-heaven-for-coal-power-in-the-cold-dc3b9a33?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-41-00 +0000"
+  },
+  {
+    "headline": "Opinion | What Paris Pays to Keep Le Pen at Bay",
+    "link": "https://www.wsj.com/opinion/france-budget-national-rally-marine-le-pen-sebastien-lecornu-b04ba3a6",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-40-00 +0000"
+  },
+  {
+    "headline": "Attorney general demands that Minnesota officials turn over voter rolls",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-21-36-20 +0000"
+  },
+  {
+    "headline": "Opinion | Is a Four-Year Degree Worth It?",
+    "link": "https://www.wsj.com/opinion/is-a-four-year-degree-worth-it-6af09e3b",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-35-00 +0000"
+  },
+  {
+    "headline": "Opinion | California Wealth Tax Backers Ignore Proposition 13 Lessons",
+    "link": "https://www.wsj.com/opinion/california-wealth-tax-backers-ignore-proposition-13-lessons-e4e6d368",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-34-00 +0000"
+  },
+  {
+    "headline": "Opinion | California Wealth Tax Backers Ignore Proposition 13 Lessons",
+    "link": "https://www.wsj.com/opinion/california-wealth-tax-backers-ignore-proposition-13-lessons-e4e6d368?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-34-00 +0000"
+  },
+  {
+    "headline": "Obamas call out Trump administration’s handling of latest fatal shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-21-32-40 +0000"
+  },
+  {
+    "headline": "NYers brave the powerful winter storm: photos",
+    "link": "https://nypost.com/2026/01/25/us-news/new-yorkers-brave-the-winter-storm-photos/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-29-51 +0000"
+  },
+  {
+    "headline": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+    "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-21-29-31 +0000"
+  },
+  {
+    "headline": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+    "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-21-29-31 +0000"
+  },
+  {
+    "headline": "Bay Area ex-mayor candidate staged wife’s killing to look like suicide: officials",
+    "link": "https://nypost.com/2026/01/25/us-news/bay-area-man-faked-wifes-suicide-charged-with-murder-da-says/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-27-13 +0000"
+  },
+  {
+    "headline": "Department of Justice renews push for voter, welfare data amid Minnesota ICE crackdown",
+    "link": "https://www.startribune.com/department-of-justice-renews-push-for-voter-welfare-data-amid-minnesota-ice-crackdown/601570738",
+    "source": "startribune",
+    "pubdate": "2026-01-25-21-25-09 +0000"
+  },
+  {
+    "headline": "RFK Jr. blames Big Tobacco for addictive food that has Americans stuffing ‘pie holes’",
+    "link": "https://nypost.com/2026/01/25/us-news/rfk-jr-blames-big-tobacco-for-addictive-food-that-has-americans-stuffing-pie-holes/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-25-06 +0000"
+  },
+  {
+    "headline": "Wild LI biker brawl between Pagan’s, Hell’s Angels leads to sweeping felony case",
+    "link": "https://nypost.com/2026/01/25/us-news/wild-li-biker-brawl-between-pagans-hells-angels-leads-to-sweeping-felony-case/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-20-49 +0000"
+  },
+  {
+    "headline": "In appeal to Americans, Walz asks: ‘Which side do you want to be on?’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-21-17-00 +0000"
+  },
+  {
+    "headline": "Minneapolis Police Chief Brian O’Hara said the federal immigration operation has strained the city’s 600 police.",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-21-11-09 +0000"
+  },
+  {
+    "headline": "Branches and power lines come crashing down in Nashville under sheaths of ice.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/branches-and-power-lines-come-crashing-down-in-nashville-under-sheaths-of-ice",
+    "source": "nyt",
+    "pubdate": "2026-01-25-21-09-57 +0000"
+  },
+  {
+    "headline": "Bessent trashes Canada’s PM as Trump bemoans China ‘completely taking over’ US neighbor",
+    "link": "https://nypost.com/2026/01/25/us-news/scott-bessent-trashes-canadas-pm-as-president-trump-bemoans-china-completely-taking-over-us-neighbor/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-09-18 +0000"
+  },
+  {
+    "headline": "Bessent trashes Canada’s PM as Trump bemoans China ‘completely taking over’ US neighbor",
+    "link": "https://nypost.com/2026/01/25/us-news/scott-bessent-trashes-canadas-pm-as-president-trump-bemoans-china-completely-taking-over-us-neighbor/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-09-18 +0000"
+  },
+  {
+    "headline": "Bessent trashes Canada’s PM as Trump bemoans China ‘completely taking over’ US neighbor",
+    "link": "https://nypost.com/2026/01/25/us-news/scott-bessent-trashes-canadas-pm-as-president-trump-bemoans-china-completely-taking-over-us-neighbor/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-09-18 +0000"
+  },
+  {
+    "headline": "Bovino sidesteps questions about specifics of Pretti shooting",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-21-07-51 +0000"
+  },
+  {
+    "headline": "Rabid bat found near popular SoCal hiking trail prompts warning for hikers and pet owners",
+    "link": "https://nypost.com/2026/01/25/us-news/rabid-bat-found-near-popular-socal-hiking-trail-prompts-warning-for-hikers-and-pet-owners/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-04-52 +0000"
+  },
+  {
+    "headline": "More than 36,500 killed in deadliest two days in Iran protest crackdown: report",
+    "link": "https://nypost.com/2026/01/25/world-news/more-than-36500-killed-in-deadliest-two-days-in-iran-protest-crackdown-report/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-04-16 +0000"
+  },
+  {
+    "headline": "Opinion | The Trump Administration Reclaims Washington’s Home",
+    "link": "https://www.wsj.com/opinion/the-trump-administration-reclaims-washingtons-home-577fa90c",
+    "source": "wsj",
+    "pubdate": "2026-01-25-21-03-00 +0000"
+  },
+  {
+    "headline": "Hundreds of thousands without power as winter storm hits US",
+    "link": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-21-02-17 +0000"
+  },
+  {
+    "headline": "$4.5B taxpayer-funded NY plan for pre-K not enough for LI ‘childcare deserts’: Dem pol",
+    "link": "https://nypost.com/2026/01/25/us-news/4-5b-taxpayer-funded-ny-plan-for-pre-k-not-enough-for-li-dem-pol/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-21-02-09 +0000"
+  },
+  {
+    "headline": "Bovino tries to shift focus on immigrants sought by authorities",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-25-21-01-48 +0000"
+  },
+  {
+    "headline": "State and federal officials clash over shooting investigation",
+    "link": "https://www.startribune.com/operation-metro-surge-is-sending-minnesota-law-enforcement-into-uncharted-territory/601570464",
+    "source": "startribune",
+    "pubdate": "2026-01-25-21-01-36 +0000"
+  },
+  {
+    "headline": "Zoomers, Millennials rage against $93 billion tax cuts for seniors: ‘Thanks for finally helping the boomers’",
+    "link": "https://nypost.com/2026/01/25/us-news/zoomers-millennials-rage-against-93-billion-tax-cuts-for-seniors-thanks-for-finally-helping-the-boomers/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-20-56-29 +0000"
+  },
+  {
+    "headline": "Zoomers, Millennials rage against $93 billion tax cuts for seniors: ‘Thanks for finally helping the boomers’",
+    "link": "https://nypost.com/2026/01/25/us-news/zoomers-millennials-rage-against-93-billion-tax-cuts-for-seniors-thanks-for-finally-helping-the-boomers/",
+    "source": "nypost",
+    "pubdate": "2026-01-25-20-56-29 +0000"
   },
   {
     "headline": "While many churches canceled Sunday services, some carried on for a hardy few.",
@@ -12,13 +486,7 @@
     "pubdate": "2026-01-25-20-52-17 +0000"
   },
   {
-    "headline": "Expansive Winter Storm Snarls the Central and Eastern U.S.",
-    "link": "https://www.wsj.com/us-news/climate-environment/winter-storm-blankets-central-and-eastern-u-s-628cd9f7",
-    "source": "wsj",
-    "pubdate": "2026-01-25-20-52-00 +0000"
-  },
-  {
-    "headline": "NJ man ‘sipping coffee’ as $5k robotic slow blower clears his driveway during Winter Storm Fern",
+    "headline": "NJ man ‘sipping coffee’ as $5K robotic snow blower clears his driveway during Winter Storm Fern",
     "link": "https://nypost.com/2026/01/25/us-news/nj-man-sipping-coffee-as-5k-robotic-slow-blower-clears-his-driveway-during-monster-winter-storm-fern/",
     "source": "nypost",
     "pubdate": "2026-01-25-20-51-39 +0000"
@@ -30,22 +498,22 @@
     "pubdate": "2026-01-25-20-50-00 +0000"
   },
   {
-    "headline": "Wealthy SoCal tech founder charged with murder of estranged wife found at bottom of 75-foot mountainside",
+    "headline": "Wealthy SoCal tech CEO charged with murder of estranged wife who was found at bottom of mountainside",
     "link": "https://nypost.com/2026/01/25/us-news/socal-tech-founder-charged-with-murder-of-estranged-wife/",
     "source": "nypost",
     "pubdate": "2026-01-25-20-49-31 +0000"
   },
   {
-    "headline": "Opinion | New York City Robs Kids of a Snow Day",
-    "link": "https://www.wsj.com/opinion/new-york-city-robs-kids-of-a-snow-day-e1673000",
-    "source": "wsj",
-    "pubdate": "2026-01-25-20-49-00 +0000"
-  },
-  {
-    "headline": "Disney’s Surprise Box Office Champion is ‘Zootopia 2,’ Thanks to China",
+    "headline": "Disney’s Surprise Box-Office Champion is ‘Zootopia 2,’ Thanks to China",
     "link": "https://www.wsj.com/business/media/disneys-surprise-box-office-champion-is-zootopia-2-thanks-to-china-7ff235cb?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-25-20-46-00 +0000"
+  },
+  {
+    "headline": "Florida congressman assaulted at CAA party during Sundance Film Festival",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-01-25/florida-congressman-assaulted-at-party-during-sundance-film-festival",
+    "source": "latimes",
+    "pubdate": "2026-01-25-20-42-42 +0000"
   },
   {
     "headline": "Curvy OnlyFans model snatched by Mexican cartels in chilling video found ‘alive and in good health’",
@@ -72,64 +540,16 @@
     "pubdate": "2026-01-25-20-19-09 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/25/us/minneapolis-shooting-ice/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-25-20-16-18 +0000"
-  },
-  {
-    "headline": "NYS blasts Trump admin for fighting Native American mascot ban — with LI school in crosshairs",
-    "link": "https://nypost.com/2026/01/25/us-news/nys-blasts-trump-admin-for-fighting-native-american-mascot-ban-with-li-school-in-crosshairs/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-20-16-01 +0000"
-  },
-  {
-    "headline": "Mourners gather near shooting site",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-25-20-15-07 +0000"
-  },
-  {
-    "headline": "Live updates: Trump officials say Minneapolis victim posed threat; videos show he was disarmed",
-    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/",
-    "source": "wapo",
-    "pubdate": "2026-01-25-20-15-07 +0000"
-  },
-  {
     "headline": "Family of Alex Pretti, the Man Shot in Minnesota, Says They Are Heartbroken and Angry",
     "link": "https://www.nytimes.com/2026/01/25/us/alex-pretti-family-statement.html",
     "source": "nyt",
     "pubdate": "2026-01-25-20-14-38 +0000"
   },
   {
-    "headline": "Museums From Texas to Massachusetts Close for Storm, but Broadway Shows Go On",
-    "link": "https://www.nytimes.com/2026/01/25/us/museums-broadway-storm-closed.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-20-10-16 +0000"
-  },
-  {
     "headline": "Minneapolis police chief says it appears more than one agent fired on Pretti",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-25-20-03-43 +0000"
-  },
-  {
-    "headline": "Ultra-wealthy Bay Area enclave demands neighbors pay millions to protect only road to its luxury mansions",
-    "link": "https://nypost.com/2026/01/25/us-news/bay-area-homeowners-demand-millions-to-save-flooded-road-to-luxury-homes/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-20-01-04 +0000"
-  },
-  {
-    "headline": "Republicans Struggle to Respond to Shooting, Reflecting Political Peril",
-    "link": "https://www.nytimes.com/2026/01/25/us/bill-cassidy-minneapolis-investigation.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-19-59-38 +0000"
-  },
-  {
-    "headline": "Trump fumes it’s ‘too late to go back’ on $300M White House ballroom after org’s lawsuit",
-    "link": "https://nypost.com/2026/01/25/us-news/trump-fumes-its-too-late-to-go-back-on-300m-white-house-ballroom-after-orgs-lawsuit/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-19-59-12 +0000"
   },
   {
     "headline": "Trump fumes it’s ‘too late to go back’ on $300M White House ballroom after org’s lawsuit",
@@ -147,6 +567,12 @@
     "headline": "Eleanor Holmes Norton Files to End Re-election Campaign",
     "link": "https://www.nytimes.com/2026/01/25/us/politics/eleanor-holmes-norton-re-election-campaign.html",
     "source": "nyt",
+    "pubdate": "2026-01-25-19-58-12 +0000"
+  },
+  {
+    "headline": "Protests and anger after man shot dead by immigration agents in Minneapolis",
+    "link": "https://www.bbc.com/news/articles/cn0ke0pkn3wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
     "pubdate": "2026-01-25-19-58-12 +0000"
   },
   {
@@ -198,12 +624,6 @@
     "pubdate": "2026-01-25-19-49-00 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-25-19-43-25 +0000"
-  },
-  {
     "headline": "Live: Minnesota leaders push for evidence in Pretti shooting to be preserved",
     "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
     "source": "startribune",
@@ -222,25 +642,13 @@
     "pubdate": "2026-01-25-19-30-00 +0000"
   },
   {
-    "headline": "Here’s when you can expect your Apple Siri lawsuit payout from $95M settlement",
-    "link": "https://nypost.com/2026/01/25/us-news/heres-when-you-can-expect-your-apple-siri-lawsuit-payout/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-19-29-30 +0000"
-  },
-  {
     "headline": "Score a free pair of tickets to see Corey Harris live in Palo Alto, Wed/28-Fri/30",
     "link": "https://48hills.org/2026/01/score-a-free-pair-of-tickets-to-see-corey-harris-live-in-palo-alto-wed-28-fri-30/",
     "source": "48hills",
     "pubdate": "2026-01-25-19-29-26 +0000"
   },
   {
-    "headline": "Trump, Noem blast Dems Tim Walz and Jacob Frey for ‘inciting’ protesters like Alex Pretti",
-    "link": "https://nypost.com/2026/01/25/us-news/trump-noem-blast-dems-tim-walz-and-jacob-frey-for-inciting-protesters-like-alex-pretti/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-19-21-50 +0000"
-  },
-  {
-    "headline": "Trump, Noem blast Dems Tim Walz and Jacob Frey for ‘inciting’ protesters like Alex Pretti",
+    "headline": "Top Trump lieutenants join in blasting Dems Tim Walz and Jacob Frey for ‘inciting’ protesters",
     "link": "https://nypost.com/2026/01/25/us-news/trump-noem-blast-dems-tim-walz-and-jacob-frey-for-inciting-protesters-like-alex-pretti/",
     "source": "nypost",
     "pubdate": "2026-01-25-19-21-50 +0000"
@@ -250,24 +658,6 @@
     "link": "https://nypost.com/2026/01/25/us-news/hochul-demands-removal-of-noem-border-patrols-bovino/",
     "source": "nypost",
     "pubdate": "2026-01-25-19-20-05 +0000"
-  },
-  {
-    "headline": "Hochul demands removal of Noem, Border Patrol chief after killing of second anti-ICE protester",
-    "link": "https://nypost.com/2026/01/25/us-news/hochul-demands-removal-of-noem-border-patrols-bovino/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-19-20-05 +0000"
-  },
-  {
-    "headline": "For Trump, the Truth in Minneapolis Is What He Says It Is",
-    "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-truth-minneapolis-shootings.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-19-16-08 +0000"
-  },
-  {
-    "headline": "For Trump, the Truth in Minneapolis Is What He Says It Is",
-    "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-truth-minneapolis-shootings.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-19-16-08 +0000"
   },
   {
     "headline": "Airbus CEO warns of new risks after ‘significant’ from trade tensions",
@@ -276,34 +666,22 @@
     "pubdate": "2026-01-25-19-15-55 +0000"
   },
   {
-    "headline": "ICU nurse fatally shot by Border Patrol in Minneapolis cared for veterans",
-    "link": "https://www.washingtonpost.com/nation/2026/01/24/alex-pretti-minneapolis-shooting-victim/",
-    "source": "wapo",
-    "pubdate": "2026-01-25-19-10-02 +0000"
-  },
-  {
     "headline": "Trump's playbook falters in crisis response to Minneapolis shooting",
     "link": "https://www.latimes.com/politics/story/2026-01-25/trumps-playbook-falters-in-crisis-response-to-minneapolis-shooting",
     "source": "latimes",
     "pubdate": "2026-01-25-19-09-57 +0000"
   },
   {
-    "headline": "Scenes From the Winter Storm",
-    "link": "https://www.nytimes.com/2026/01/24/us/winter-storm-snow-photos-videos.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-19-04-24 +0000"
-  },
-  {
-    "headline": "Barack Obama issues rare political statement condemning DHS over Alex Pretti shooting — as Dems rally against Trump admin",
-    "link": "https://nypost.com/2026/01/25/us-news/barack-obama-issues-rare-political-statement-condemning-dhs-over-alex-pretti-shooting-as-dems-rally-against-trump-admin/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-18-53-33 +0000"
-  },
-  {
     "headline": "Andy Burnham 'disappointed' after bid to become MP blocked",
     "link": "https://www.bbc.com/news/articles/czr4e7ep468o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-25-18-51-10 +0000"
+  },
+  {
+    "headline": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+    "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-18-48-27 +0000"
   },
   {
     "headline": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
@@ -336,18 +714,6 @@
     "pubdate": "2026-01-25-18-34-00 +0000"
   },
   {
-    "headline": "Hospital chaos looms as tens of thousands of California nurses threaten walk off job despite proposed wage hikes",
-    "link": "https://nypost.com/2026/01/25/us-news/thousands-of-kaiser-nurses-to-strike-in-california-hawaii-over-staffing-pay/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-18-31-41 +0000"
-  },
-  {
-    "headline": "CEOs of Target and Minnesota’s Biggest Companies Call for ‘De-Escalation’ After Shooting",
-    "link": "https://www.nytimes.com/2026/01/25/business/minnesota-target-general-mills-ceo-letter.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-18-31-33 +0000"
-  },
-  {
     "headline": "Venezuela frees dozens of political prisoners, human rights group says",
     "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -358,18 +724,6 @@
     "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-25-18-29-57 +0000"
-  },
-  {
-    "headline": "Here’s What to Know if You Plan to Travel During the Winter Storm",
-    "link": "https://www.nytimes.com/2026/01/22/travel/winter-storm-travel-airlines.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-18-22-04 +0000"
-  },
-  {
-    "headline": "Bread, eggs, milk— and weed! Potheads swarm cannabis shops to prep for blizzard",
-    "link": "https://nypost.com/2026/01/25/us-news/potheads-swarm-cannabis-shops-before-snowstorm/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-18-13-32 +0000"
   },
   {
     "headline": "Oklahoma Gov. Kevin Stitt (R) told CNN on Sunday that President Donald Trump is “getting bad...",
@@ -378,22 +732,10 @@
     "pubdate": "2026-01-25-18-12-36 +0000"
   },
   {
-    "headline": "Taylor Rogers sought a return to the Twins bullpen and a reunion with Derek Shelton",
-    "link": "https://www.startribune.com/minnesota-twins-taylor-rogers-derek-shelton-latrout-hawkins-mlb/601562849",
-    "source": "startribune",
-    "pubdate": "2026-01-25-18-08-10 +0000"
-  },
-  {
     "headline": "New York City Schools Announce Remote Learning Day in Response to Storm",
     "link": "https://www.nytimes.com/2026/01/25/us/nyc-school-closure-remote-learning-storm.html",
     "source": "nyt",
     "pubdate": "2026-01-25-17-55-08 +0000"
-  },
-  {
-    "headline": "LI Dems cross aisle to support ICE funding  boost— sparking wrath of party",
-    "link": "https://nypost.com/2026/01/25/us-news/long-island-dems-cross-aisle-to-support-ice-funding-boost/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-17-52-41 +0000"
   },
   {
     "headline": "Shooting victim’s ex-wife says he protested after George Floyd’s killing",
@@ -432,18 +774,6 @@
     "pubdate": "2026-01-25-17-35-15 +0000"
   },
   {
-    "headline": "Minn. ICE shooting of Alex Jeffrey Pretti sparks rare split in gun-rights movement",
-    "link": "https://nypost.com/2026/01/25/us-news/minn-ice-shooting-of-alex-jeffrey-pretti-sparks-split-in-gun-rights-movement/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-17-28-08 +0000"
-  },
-  {
-    "headline": "More than 11,000 flights cancelled as Winter Storm Fern rages on",
-    "link": "https://nypost.com/2026/01/25/us-news/more-than-11000-flights-cancelled-as-winter-storm-fern-rages-on/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-17-26-43 +0000"
-  },
-  {
     "headline": "Tory pair aim to attract 'politically homeless' with new movement",
     "link": "https://www.bbc.com/news/articles/c93v7nnk3vlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -466,6 +796,12 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-25-17-10-25 +0000"
+  },
+  {
+    "headline": "China’s Top General Accused of Giving Nuclear Secrets to U.S.",
+    "link": "https://www.wsj.com/world/china/chinas-top-general-accused-of-giving-nuclear-secrets-to-u-s-b8f59dae",
+    "source": "wsj",
+    "pubdate": "2026-01-25-17-05-00 +0000"
   },
   {
     "headline": "China’s Top General Accused of Giving Nuclear Secrets to U.S.",
@@ -498,12 +834,6 @@
     "pubdate": "2026-01-25-16-46-09 +0000"
   },
   {
-    "headline": "Trump-appointee judge orders DHS to preserve evidence in Alex Pretti shooting after suit by Minnesota",
-    "link": "https://nypost.com/2026/01/25/us-news/trump-appointee-judge-orders-dhs-to-preserve-evidence-in-alex-pretti-shooting-after-suit-by-minnesota/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-16-33-57 +0000"
-  },
-  {
     "headline": "Opinion | Meet Trump’s Partners in Venezuela",
     "link": "https://www.wsj.com/opinion/meet-trumps-partners-in-venezuela-177c799d",
     "source": "wsj",
@@ -518,18 +848,6 @@
   {
     "headline": "Opinion | Responding to the Iranian Foreign Minister",
     "link": "https://www.wsj.com/opinion/responding-to-the-iranian-foreign-minister-036647bb",
-    "source": "wsj",
-    "pubdate": "2026-01-25-16-25-00 +0000"
-  },
-  {
-    "headline": "Opinion | Responding to the Iranian Foreign Minister",
-    "link": "https://www.wsj.com/opinion/responding-to-the-iranian-foreign-minister-036647bb",
-    "source": "wsj",
-    "pubdate": "2026-01-25-16-25-00 +0000"
-  },
-  {
-    "headline": "Opinion | The Left’s Nonprofit Problem Goes Way Back",
-    "link": "https://www.wsj.com/opinion/the-lefts-nonprofit-problem-goes-way-back-0ed9da85",
     "source": "wsj",
     "pubdate": "2026-01-25-16-25-00 +0000"
   },
@@ -558,12 +876,6 @@
     "pubdate": "2026-01-25-16-22-56 +0000"
   },
   {
-    "headline": "Here’s what airlines owe you if you’re stranded by Winter Storm Fern",
-    "link": "https://nypost.com/2026/01/25/us-news/heres-what-airlines-owe-you-amid-winter-storm-fern/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-16-22-26 +0000"
-  },
-  {
     "headline": "Xi’s Purge of China’s Military Brings Its Top General Down",
     "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
     "source": "nyt",
@@ -574,12 +886,6 @@
     "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
     "source": "nyt",
     "pubdate": "2026-01-25-16-22-02 +0000"
-  },
-  {
-    "headline": "Shocking  video shows thieves crashing SUV through jewelry store in wild $1M heist: ‘Scariest thing in my life’",
-    "link": "https://nypost.com/2026/01/25/us-news/wild-video-shows-thieves-ramming-suv-in-1m-jewelry-heist/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-16-13-33 +0000"
   },
   {
     "headline": "Deputy attorney general blames Minnesota officials for failing to cooperate",
@@ -610,18 +916,6 @@
     "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
     "source": "nyt",
     "pubdate": "2026-01-25-15-57-49 +0000"
-  },
-  {
-    "headline": "NY heiress says cheater husband made her alter prenup in explosive, tell-all memoir",
-    "link": "https://nypost.com/2026/01/25/us-news/heiress-belle-burden-says-cheater-husband-made-her-alter-prenup-in-memoir/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-15-55-26 +0000"
-  },
-  {
-    "headline": "Governor Gavin Newsom mocked over anti-graffiti fail as vandals immediately tag ‘paint-proof’ walls",
-    "link": "https://nypost.com/2026/01/25/us-news/gavin-newsom-mocked-over-anti-graffiti-fail/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-15-54-36 +0000"
   },
   {
     "headline": "Governor Gavin Newsom mocked over anti-graffiti fail as vandals immediately tag ‘paint-proof’ walls",
@@ -852,7 +1146,7 @@
     "pubdate": "2026-01-25-14-00-00 +0000"
   },
   {
-    "headline": "'We're not going away': Rob Caughlan, fierce defender of the coastline and Surfrider leader, dies at the age of 82",
+    "headline": "'We're not going away': Rob Caughlan, fierce defender of coastline and Surfrider leader, dies at 82",
     "link": "https://www.latimes.com/environment/story/2026-01-25/rob-caughlan-fierce-defender-of-coastline-surfrider-leader-dies",
     "source": "latimes",
     "pubdate": "2026-01-25-14-00-00 +0000"
@@ -888,10 +1182,10 @@
     "pubdate": "2026-01-25-12-33-35 +0000"
   },
   {
-    "headline": "What We Know About a Second Fatal Shooting in Minneapolis",
-    "link": "https://www.nytimes.com/2026/01/24/us/politics/second-ice-shooting-minneapolis.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-12-33-35 +0000"
+    "headline": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+    "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-12-24-31 +0000"
   },
   {
     "headline": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
@@ -915,12 +1209,6 @@
     "headline": "People We Meet: S.F. bus driver DeJohn Williams has ferried Joe Montana, Lars Ulrich, and Da Mayor",
     "link": "https://missionlocal.org/2026/01/sf-dejohn-williams-bus-driver-joe-montana-willie-brown/",
     "source": "missionlocal",
-    "pubdate": "2026-01-25-12-00-00 +0000"
-  },
-  {
-    "headline": "Legal experts question ‘highly unusual’ DOJ probe of Minnesota officials",
-    "link": "https://www.startribune.com/experts-talk-doj-subpoenas-walz-frey-investigation/601568528",
-    "source": "startribune",
     "pubdate": "2026-01-25-12-00-00 +0000"
   },
   {
@@ -964,18 +1252,6 @@
     "link": "https://www.washingtonpost.com/world/2026/01/25/britain-smartphones-school-ban-children/",
     "source": "wapo",
     "pubdate": "2026-01-25-11-00-15 +0000"
-  },
-  {
-    "headline": "Fearing ICE, parents make plans for their children’s care",
-    "link": "https://www.startribune.com/deportation-threat-forcing-some-parents-to-sign-over-parental-responsibility-for-their-children/601554201",
-    "source": "startribune",
-    "pubdate": "2026-01-25-11-00-00 +0000"
-  },
-  {
-    "headline": "Medcalf: Slaying of Minnesota woman welder highlights need for safe worksites",
-    "link": "https://www.startribune.com/medcalf-slaying-of-minnesota-woman-welder-highlights-need-for-safe-work-sites/601567453",
-    "source": "startribune",
-    "pubdate": "2026-01-25-11-00-00 +0000"
   },
   {
     "headline": "News Analysis: A playbook emerges to counter Trump as 'middle powers' unite",
@@ -1158,6 +1434,12 @@
     "pubdate": "2026-01-25-06-19-40 +0000"
   },
   {
+    "headline": "Watch: Federal and state officials give conflicting accounts of Alex Pretti's death",
+    "link": "https://www.bbc.com/news/videos/cgqegq0kj02o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-25-06-14-24 +0000"
+  },
+  {
     "headline": "Responding to a lawsuit filed by Minnesota’s attorney general, a U.S. District Court judge late Saturday...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -1204,12 +1486,6 @@
     "link": "https://www.nytimes.com/2026/01/23/world/asia/climbing-buildings-skyscrapers-alex-honnold.html",
     "source": "nyt",
     "pubdate": "2026-01-25-05-28-44 +0000"
-  },
-  {
-    "headline": "Senate Democrats signaled they are willing to shut down much of the government rather than vote for a package that includes funds for immigration enforcement, after a second deadly Minneapolis shooting by federal agents",
-    "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51",
-    "source": "wsj",
-    "pubdate": "2026-01-25-05-17-00 +0000"
   },
   {
     "headline": "Gun Activists Bridle at Suggestion That Pistol Justified Killing",
@@ -1282,12 +1558,6 @@
     "link": "https://www.wsj.com/world/europe/europes-1-trillion-race-to-build-back-its-defense-industry-db8ca1d6",
     "source": "wsj",
     "pubdate": "2026-01-25-04-00-00 +0000"
-  },
-  {
-    "headline": "Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal",
-    "link": "https://www.nytimes.com/2026/01/24/us/democrats-congress-reaction.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-03-47-32 +0000"
   },
   {
     "headline": "Republican senator calls Minneapolis events ‘incredibly disturbing’",
@@ -1392,12 +1662,6 @@
     "pubdate": "2026-01-25-02-16-40 +0000"
   },
   {
-    "headline": "Minneapolis is showing us the way",
-    "link": "https://48hills.org/2026/01/minneapolis-is-showing-us-the-way/",
-    "source": "48hills",
-    "pubdate": "2026-01-25-02-10-42 +0000"
-  },
-  {
     "headline": "What India's Republic Day red carpet means for its foreign policy",
     "link": "https://www.bbc.com/news/articles/c9wxx29yknpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1452,12 +1716,6 @@
     "pubdate": "2026-01-25-01-33-57 +0000"
   },
   {
-    "headline": "Ros Atkins on... How popular is President Trump?",
-    "link": "https://www.bbc.com/news/videos/cn8jje0pypro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-01-33-57 +0000"
-  },
-  {
     "headline": "Hennepin County Attorney Mary Moriarty encouraged the public to use an online portal to “submit anything...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -1480,12 +1738,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-25-01-00-56 +0000"
-  },
-  {
-    "headline": "Alex Jeffrey Pretti Knew He Wanted to Help Others",
-    "link": "https://www.nytimes.com/2026/01/24/us/alex-jeffrey-pretti-icu-nurse-minneapolis-shooting.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-00-38-38 +0000"
   },
   {
     "headline": "Border Patrol Agent Fatally Shoots Man in Minneapolis, Escalating State-Federal Standoff",
@@ -1534,173 +1786,5 @@
     "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/how-two-hardy-north-dakotans-were-almost-thwarted-by-an-ice-storm",
     "source": "nyt",
     "pubdate": "2026-01-25-00-07-07 +0000"
-  },
-  {
-    "headline": "Cate Le Bon: ‘Leaving somebody you love is a horrifying reality’",
-    "link": "https://48hills.org/2026/01/cate-le-bon-leaving-somebody-you-love-is-a-horrifying-reality/",
-    "source": "48hills",
-    "pubdate": "2026-01-24-23-53-33 +0000"
-  },
-  {
-    "headline": "Noem points to grand jury inquiry, calling Minnesota officials obstructionists",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-23-51-30 +0000"
-  },
-  {
-    "headline": "Over a Thousand Protesters in NYC Denounce ICE After Latest Killing",
-    "link": "https://www.nytimes.com/2026/01/24/us/nyc-ice-protest-alex-pretti.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-23-50-49 +0000"
-  },
-  {
-    "headline": "Peace talks on Russia-Ukraine war end as fighting rages",
-    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-23-37-38 +0000"
-  },
-  {
-    "headline": "Peace talks on Russia-Ukraine war end as fighting rages",
-    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-23-37-38 +0000"
-  },
-  {
-    "headline": "‘Dolly Plowton’ Debuts in Snowy Nashville",
-    "link": "https://www.nytimes.com/2026/01/24/us/dolly-plowton-debuts-in-snowy-nashville.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-23-37-14 +0000"
-  },
-  {
-    "headline": "‘Dolly Plowton’ Debuts in Snowy Nashville",
-    "link": "https://www.nytimes.com/2026/01/24/us/dolly-plowton-debuts-in-snowy-nashville.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-23-37-14 +0000"
-  },
-  {
-    "headline": "When asked whether she had seen any evidence to back up statements from the White House...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-23-33-12 +0000"
-  },
-  {
-    "headline": "Minneapolis is asking a judge to grant a temporary restraining order and “some form of injunctive...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-23-28-35 +0000"
-  },
-  {
-    "headline": "Elite Moscow university offers students bonuses to join Russian military, with bogus claims of non-combat positions",
-    "link": "https://nypost.com/2026/01/24/world-news/elite-moscow-university-offers-students-bonuses-to-join-russian-military-with-claims-of-non-combat-positions/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-23-02-18 +0000"
-  },
-  {
-    "headline": "Department of Homeland Security Secretary Kristi L. Noem reiterated the administration’s view that the victim in...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-22-48-52 +0000"
-  },
-  {
-    "headline": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
-    "link": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-27-59 +0000"
-  },
-  {
-    "headline": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
-    "link": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-27-59 +0000"
-  },
-  {
-    "headline": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
-    "link": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-27-59 +0000"
-  },
-  {
-    "headline": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
-    "link": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-27-59 +0000"
-  },
-  {
-    "headline": "Minnesota National Guard personnel will be available to help  Minneapolis police and emergency personnel near...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-22-25-49 +0000"
-  },
-  {
-    "headline": "Appeals Court Rejects Justice Dept. Push for Arrest Warrant for Don Lemon",
-    "link": "https://www.nytimes.com/2026/01/24/us/politics/don-lemon-arrest-warrant.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-24-53 +0000"
-  },
-  {
-    "headline": "Appeals Court Rejects Justice Dept. Push for Arrest Warrant for Don Lemon",
-    "link": "https://www.nytimes.com/2026/01/24/us/politics/don-lemon-arrest-warrant.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-24-53 +0000"
-  },
-  {
-    "headline": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
-    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-18-30 +0000"
-  },
-  {
-    "headline": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
-    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-18-30 +0000"
-  },
-  {
-    "headline": "Gunshots rattle a neighborhood known for its food scene.",
-    "link": "https://www.nytimes.com/live/2026/us/minneapolis-shooting-ice/gunshots-rattle-a-neighborhood-known-for-its-food-scene",
-    "source": "nyt",
-    "pubdate": "2026-01-24-22-15-04 +0000"
-  },
-  {
-    "headline": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
-    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-22-10-33 +0000"
-  },
-  {
-    "headline": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
-    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-22-10-33 +0000"
-  },
-  {
-    "headline": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
-    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-22-10-33 +0000"
-  },
-  {
-    "headline": "US envoys Steve Witkoff, Jared Kushner meet with Netanyahu to push forward Gaza peace deal, recover last slain Israeli hostage",
-    "link": "https://nypost.com/2026/01/24/world-news/us-envoys-steve-witkoff-and-jared-kushner-meet-with-netanyahu-to-push-forward-gaza-peace-deal-recover-last-slain-israeli-hostage/",
-    "source": "nypost",
-    "pubdate": "2026-01-24-22-08-28 +0000"
-  },
-  {
-    "headline": "Shooting victim was dedicated to working with veterans, according to former colleague",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-22-02-02 +0000"
-  },
-  {
-    "headline": "Israel Quietly Backs New Gaza Militias Fighting Hamas",
-    "link": "https://www.wsj.com/world/middle-east/israel-quietly-backs-new-gaza-militias-fighting-hamas-4ddd8126",
-    "source": "wsj",
-    "pubdate": "2026-01-24-22-00-00 +0000"
-  },
-  {
-    "headline": "Minnesota Bureau of Criminal Apprehension Superintendent Drew Evans said his investigative team secured a search warrant...",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-21-54-23 +0000"
   }
 ]
