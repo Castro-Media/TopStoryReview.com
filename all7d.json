@@ -1,9 +1,75 @@
 [
   {
-    "headline": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
-    "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+    "headline": "Arkansas man who disappeared with his ailing dog had terminal illness, believed to have died by suicide ‘in the sea’",
+    "link": "https://nypost.com/2026/01/26/us-news/arkansas-man-who-disappeared-with-his-ailing-dog-believed-to-have-died-by-suicide-in-the-sea/",
+    "source": "nypost",
+    "pubdate": "2026-01-26-06-52-49 +0000"
+  },
+  {
+    "headline": "Caribbean cannabis growers eye budding domestic sales and exports",
+    "link": "https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-26-05-57-05 +0000"
+    "pubdate": "2026-01-26-06-49-21 +0000"
+  },
+  {
+    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-26-06-47-20 +0000"
+  },
+  {
+    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+    "source": "nyt",
+    "pubdate": "2026-01-26-06-47-20 +0000"
+  },
+  {
+    "headline": "Ryanair Upgrades Fiscal 2026 Outlook on Strong Demand",
+    "link": "https://www.wsj.com/business/earnings/ryanair-upgrades-fiscal-2026-outlook-on-strong-demand-169fc04e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-26-06-41-00 +0000"
+  },
+  {
+    "headline": "Japanese ex-soldier reaches settlements in landmark sex abuse case",
+    "link": "https://www.bbc.com/news/articles/cr4k2kw500zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-06-39-07 +0000"
+  },
+  {
+    "headline": "Minneapolis live updates: Border Patrol sidesteps questions about fatal shooting; police chief criticizes agents",
+    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/",
+    "source": "wapo",
+    "pubdate": "2026-01-26-06-34-46 +0000"
+  },
+  {
+    "headline": "More Americans say Alex Pretti shooting was not justified, poll finds",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-26-06-34-46 +0000"
+  },
+  {
+    "headline": "‘In Gold We Trust’ Trade Pushes Metal to New Heights",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-above-5-000-oz-for-first-time-amid-geopolitical-tensions-dbb08833?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-26-06-22-00 +0000"
+  },
+  {
+    "headline": "Food project to 'sneak' kidney beans into diets",
+    "link": "https://www.bbc.com/news/articles/c394pe38398o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-06-13-27 +0000"
+  },
+  {
+    "headline": "Minn. attorney general calls administration version of shooting ‘flat-out insane’",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-01-26-06-03-15 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-01-26-05-59-51 +0000"
   },
   {
     "headline": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
@@ -12,7 +78,13 @@
     "pubdate": "2026-01-26-05-57-05 +0000"
   },
   {
-    "headline": "Japan Stocks Fall, Government Bonds Rise After Yen’s Rebound",
+    "headline": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
+    "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-05-57-05 +0000"
+  },
+  {
+    "headline": "Yen Strength Lifts Japanese Bonds, Pushes Down Stocks",
     "link": "https://www.wsj.com/finance/japan-government-bond-yields-stocks-fall-after-yens-rebound-8c6a1914?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-26-05-40-00 +0000"
@@ -22,12 +94,6 @@
     "link": "https://www.nytimes.com/2026/01/25/world/minneapolis-ice-shooting-press-freedom.html",
     "source": "nyt",
     "pubdate": "2026-01-26-05-31-09 +0000"
-  },
-  {
-    "headline": "Gold May See Some Short-Term Volatility After Strong Rally",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-above-5-000-oz-for-first-time-amid-geopolitical-tensions-dbb08833?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-26-05-26-00 +0000"
   },
   {
     "headline": "Minnesota in ‘uncharted territory’ as state, feds clash over shooting of Alex Pretti",
@@ -44,12 +110,6 @@
   {
     "headline": "Federal agent secured gun from Minn. man before fatal shooting, videos show",
     "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-26-05-17-49 +0000"
-  },
-  {
-    "headline": "Minneapolis live updates: Border Patrol sidesteps questions about fatal shooting; police chief criticizes agents",
-    "link": "https://www.washingtonpost.com/nation/2026/01/25/live-updates-minneapolis-shooting-alex-pretti/",
     "source": "wapo",
     "pubdate": "2026-01-26-05-17-49 +0000"
   },
@@ -174,10 +234,10 @@
     "pubdate": "2026-01-26-04-38-19 +0000"
   },
   {
-    "headline": "Winter Storm Pummels Toronto With Near-Record Snowfall",
-    "link": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
-    "source": "nyt",
-    "pubdate": "2026-01-26-04-37-17 +0000"
+    "headline": "At least seven dead and 800,000 without power as major winter storm hits US",
+    "link": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-04-38-19 +0000"
   },
   {
     "headline": "Winter Storm Pummels Toronto With Near-Record Snowfall",
@@ -186,7 +246,13 @@
     "pubdate": "2026-01-26-04-37-17 +0000"
   },
   {
-    "headline": "Anti-ICE protesters swarm Minnesota hotel they believe is housing fed agents",
+    "headline": "Winter Storm Pummels Toronto With Near-Record Snowfall",
+    "link": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
+    "source": "nyt",
+    "pubdate": "2026-01-26-04-37-17 +0000"
+  },
+  {
+    "headline": "Violent anti-ICE protesters swarm Minnesota hotel they believe is housing fed agents — leaving officer bloodied",
     "link": "https://nypost.com/2026/01/25/us-news/anti-ice-protesters-swarm-st-paul-hotel-they-believe-is-housing-fed-agents/",
     "source": "nypost",
     "pubdate": "2026-01-26-04-30-19 +0000"
@@ -196,6 +262,12 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-01-26-04-21-44 +0000"
+  },
+  {
+    "headline": "Fifteen dead after Philippines ferry with 300 passengers sinks",
+    "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-26-04-06-14 +0000"
   },
   {
     "headline": "Fifteen dead after Philippines ferry with 300 passengers sinks",
@@ -384,12 +456,6 @@
     "pubdate": "2026-01-26-01-53-53 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/01/25/us/winter-storm-snow-ice/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-01-26-01-50-13 +0000"
-  },
-  {
     "headline": "Trump Blames Democrats for ‘Tragic’ Deaths as Agents Clash With Protesters",
     "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-blames-democrats-minneapolis-killings.html",
     "source": "nyt",
@@ -432,7 +498,7 @@
     "pubdate": "2026-01-26-01-27-48 +0000"
   },
   {
-    "headline": "Daughter of top Iranian official ousted from Emory University following massive public outrage",
+    "headline": "Daughter of top Iranian official ousted from Emory University following massive public outrage, CA Post pressure",
     "link": "https://nypost.com/2026/01/25/us-news/emory-university-fires-daughter-of-iran-official-fatemeh-ardeshir-larijani/",
     "source": "nypost",
     "pubdate": "2026-01-26-01-21-56 +0000"
@@ -712,12 +778,6 @@
     "link": "https://www.wsj.com/us-news/education/columbia-president-jennifer-mnookin-wisconsin-madison-6e38c62d",
     "source": "wsj",
     "pubdate": "2026-01-25-22-30-00 +0000"
-  },
-  {
-    "headline": "LA’s top fed prosecutor Bill Essayli warns against armed anti-ICE protesters after Alex Pretti shooting in Minneapolis",
-    "link": "https://nypost.com/2026/01/25/us-news/las-bill-essayli-throws-full-support-behind-ice-in-alex-pretti-shooting/",
-    "source": "nypost",
-    "pubdate": "2026-01-25-22-29-51 +0000"
   },
   {
     "headline": "The snow will still fall in Maine, just later than everywhere else.",
@@ -1092,12 +1152,6 @@
     "pubdate": "2026-01-25-18-48-27 +0000"
   },
   {
-    "headline": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
-    "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-18-48-27 +0000"
-  },
-  {
     "headline": "In Battle for Evidence, Minnesota Sues Feds Over Fatal Border Patrol Shooting",
     "link": "https://www.wsj.com/us-news/in-battle-for-evidence-minnesota-sues-feds-over-fatal-border-patrol-shooting-52be59ba",
     "source": "wsj",
@@ -1338,18 +1392,6 @@
     "pubdate": "2026-01-25-15-41-03 +0000"
   },
   {
-    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-15-39-54 +0000"
-  },
-  {
-    "headline": "The Woman Who Stands Between Donald Trump and Greenland",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-    "source": "nyt",
-    "pubdate": "2026-01-25-15-39-54 +0000"
-  },
-  {
     "headline": "Witness accounts of shooting detailed in legal bid to restore ICE restrictions",
     "link": "https://www.startribune.com/he-was-only-helping-witness-accounts-of-shooting-shared-in-bid-to-get-ice-restrictions-reinstated/601570596",
     "source": "startribune",
@@ -1588,12 +1630,6 @@
     "link": "https://www.cbc.ca/news/world/iran-revolutionary-guard-warning-9.7060004?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-25-11-59-28 +0000"
-  },
-  {
-    "headline": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
-    "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-25-11-48-19 +0000"
   },
   {
     "headline": "Myanmar’s military choreographs an election, with Beijing’s help",
@@ -2478,22 +2514,10 @@
     "pubdate": "2026-01-24-18-42-51 +0000"
   },
   {
-    "headline": "Scenes from clashes in Minneapolis after the shooting",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-18-39-24 +0000"
-  },
-  {
     "headline": "Q & A: Bruce Blakeman vows to thwart Mamdani’s socialist agenda for NYC, rips Hochul for ‘embracing’ it",
     "link": "https://nypost.com/2026/01/24/us-news/q-amp-a-bruce-blakeman-vows-to-thwart-mamdanis-socialist-agenda-for-nyc-rips-hochul-for-embracing-it/",
     "source": "nypost",
     "pubdate": "2026-01-24-18-36-28 +0000"
-  },
-  {
-    "headline": "Minnesota Democrats condemn latest shooting",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-01-24-18-34-34 +0000"
   },
   {
     "headline": "Cold Comfort",
@@ -2982,12 +3006,6 @@
     "pubdate": "2026-01-24-05-11-18 +0000"
   },
   {
-    "headline": "Boy, 12, dies from injuries after Sydney shark attack",
-    "link": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-05-10-24 +0000"
-  },
-  {
     "headline": "An Unlikely Source of Crypto Innovation: Afghanistan",
     "link": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html",
     "source": "nyt",
@@ -3244,12 +3262,6 @@
     "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-24-00-03-57 +0000"
-  },
-  {
-    "headline": "'Half of my friends were killed' - the girls returning to a school caught up in war",
-    "link": "https://www.bbc.com/news/articles/cd9eeyz933jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-24-00-03-52 +0000"
   },
   {
     "headline": "'Half of my friends were killed' - the girls returning to a school caught up in war",
@@ -4164,12 +4176,6 @@
     "pubdate": "2026-01-23-14-29-05 +0000"
   },
   {
-    "headline": "Luxury watchmaker designs $1.5m model with Indian billionaire's statue",
-    "link": "https://www.bbc.com/news/articles/c7011pllqe7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-14-28-05 +0000"
-  },
-  {
     "headline": "Vietnam’s Leader Consolidates Power, Pledging ‘New Era of Prosperity’",
     "link": "https://www.nytimes.com/2026/01/23/world/asia/vietnam-lam-power-congress.html",
     "source": "nyt",
@@ -4446,12 +4452,6 @@
     "pubdate": "2026-01-23-09-00-00 +0000"
   },
   {
-    "headline": "BASF Shares Drop After Earnings Miss Guidance",
-    "link": "https://www.wsj.com/business/earnings/basf-shares-drop-after-earnings-miss-guidance-97886b01?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-23-08-43-00 +0000"
-  },
-  {
     "headline": "Ex-intelligence officer accused of betraying Austria in Russia spying trial",
     "link": "https://www.bbc.com/news/articles/cz0pnjv1zy5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4522,12 +4522,6 @@
     "link": "https://www.latimes.com/california/story/2026-01-22/shocking-action-movie-gunfight-in-california-roadway-leaves-suspect-dead-officer-wounded",
     "source": "latimes",
     "pubdate": "2026-01-23-06-27-16 +0000"
-  },
-  {
-    "headline": "Award-winning restaurant to close amid rising costs",
-    "link": "https://www.bbc.com/news/articles/cp822my4q7ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-23-06-20-55 +0000"
   },
   {
     "headline": "Eight surprise takeaways from the Oscar nominations",
@@ -5508,20 +5502,14 @@
     "pubdate": "2026-01-22-11-24-00 +0000"
   },
   {
-    "headline": "Fairy tale town of Carmel faces the looming reality of street addresses",
-    "link": "https://www.latimes.com/california/story/2026-01-22/carmel-by-the-sea-finally-gets-street-addresses",
+    "headline": "Multibillion-dollar transit project to tunnel through the Santa Monica Mountains is approved by L.A. Metro",
+    "link": "https://www.latimes.com/california/story/2026-01-22/this-multibillion-dollar-transit-project-could-improve-traffic-across-la-it-goes-to-vote-today",
     "source": "latimes",
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
   {
     "headline": "Falling enrollment. Budget uncertainty. LAUSD warns of layoffs and cuts",
     "link": "https://www.latimes.com/california/story/2026-01-22/falling-enrollment-budget-uncertainty-lausd-warns-of-layoffs-cuts",
-    "source": "latimes",
-    "pubdate": "2026-01-22-11-00-00 +0000"
-  },
-  {
-    "headline": "Multibillion-dollar transit project to tunnel through the Santa Monica Mountains is approved by L.A. Metro",
-    "link": "https://www.latimes.com/california/story/2026-01-22/this-multibillion-dollar-transit-project-could-improve-traffic-across-la-it-goes-to-vote-today",
     "source": "latimes",
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
@@ -5544,20 +5532,14 @@
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
   {
+    "headline": "Fairy tale town of Carmel faces the looming reality of street addresses",
+    "link": "https://www.latimes.com/california/story/2026-01-22/carmel-by-the-sea-finally-gets-street-addresses",
+    "source": "latimes",
+    "pubdate": "2026-01-22-11-00-00 +0000"
+  },
+  {
     "headline": "Starving and stranded: Inside the desperate effort to save 24 wild horses near Mammoth",
     "link": "https://www.latimes.com/environment/story/2026-01-22/forest-service-rescues-wild-horses-trapped-near-mammoth-lakes-several-die",
-    "source": "latimes",
-    "pubdate": "2026-01-22-11-00-00 +0000"
-  },
-  {
-    "headline": "LAPD captain deleted texts that were evidence in Black Lives Matter lawsuit, judge finds",
-    "link": "https://www.latimes.com/california/story/2026-01-22/judge-lapd-officials-deleted-text-messages",
-    "source": "latimes",
-    "pubdate": "2026-01-22-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: A walk through promising, problem-plagued MacArthur Park with its council member",
-    "link": "https://www.latimes.com/california/story/2026-01-22/eunisses-hernandez-macarthur-park",
     "source": "latimes",
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
@@ -5568,8 +5550,20 @@
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Feds now admit DOGE accessed personal data at Social Security, jeopardizing your privacy",
-    "link": "https://www.latimes.com/business/story/2026-01-22/feds-now-admit-doge-accessed-private-data-at-social-security",
+    "headline": "Arellano: A walk through promising, problem-plagued MacArthur Park with its council member",
+    "link": "https://www.latimes.com/california/story/2026-01-22/eunisses-hernandez-macarthur-park",
+    "source": "latimes",
+    "pubdate": "2026-01-22-11-00-00 +0000"
+  },
+  {
+    "headline": "LAPD captain deleted texts that were evidence in Black Lives Matter lawsuit, judge finds",
+    "link": "https://www.latimes.com/california/story/2026-01-22/judge-lapd-officials-deleted-text-messages",
+    "source": "latimes",
+    "pubdate": "2026-01-22-11-00-00 +0000"
+  },
+  {
+    "headline": "New film on Disney+ reveals the frenzied race against time to build Disneyland",
+    "link": "https://www.latimes.com/lifestyle/story/2026-01-22/disneyland-handcrafted-leslie-iwerks-documentary-film",
     "source": "latimes",
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
@@ -5580,8 +5574,8 @@
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
   {
-    "headline": "New film on Disney+ reveals the frenzied race against time to build Disneyland",
-    "link": "https://www.latimes.com/lifestyle/story/2026-01-22/disneyland-handcrafted-leslie-iwerks-documentary-film",
+    "headline": "Hiltzik: Feds now admit DOGE accessed personal data at Social Security, jeopardizing your privacy",
+    "link": "https://www.latimes.com/business/story/2026-01-22/feds-now-admit-doge-accessed-private-data-at-social-security",
     "source": "latimes",
     "pubdate": "2026-01-22-11-00-00 +0000"
   },
@@ -6246,22 +6240,10 @@
     "pubdate": "2026-01-21-13-00-00 +0000"
   },
   {
-    "headline": "Next buys shoe chain Russell & Bromley but 33 shops at risk",
-    "link": "https://www.bbc.com/news/articles/cy7mv35p8ppo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-21-12-45-36 +0000"
-  },
-  {
     "headline": "Geothermal Wildcatter Zanskar, Which Uses AI to Find Heat, Raises $115 Million",
     "link": "https://www.wsj.com/business/energy-oil/geothermal-wildcatter-zanskar-which-uses-ai-to-find-heat-raises-115-million-598b6ac5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-21-12-00-00 +0000"
-  },
-  {
-    "headline": "Copper thefts turned these upscale L.A. streets pitch dark. Frustrated residents are fighting back",
-    "link": "https://www.latimes.com/california/story/2026-01-21/copper-thefts-no-streetlights-hancock-park-residents-fighting-back",
-    "source": "latimes",
-    "pubdate": "2026-01-21-11-00-00 +0000"
   },
   {
     "headline": "Barabak: California is suffering truth decay. Sacramento should do something about it",
@@ -6270,8 +6252,20 @@
     "pubdate": "2026-01-21-11-00-00 +0000"
   },
   {
+    "headline": "Copper thefts turned these upscale L.A. streets pitch dark. Frustrated residents are fighting back",
+    "link": "https://www.latimes.com/california/story/2026-01-21/copper-thefts-no-streetlights-hancock-park-residents-fighting-back",
+    "source": "latimes",
+    "pubdate": "2026-01-21-11-00-00 +0000"
+  },
+  {
     "headline": "Celebrity PR firm helped LAFD shape messaging after Palisades fire",
     "link": "https://www.latimes.com/california/story/2026-01-21/celebrity-pr-firm-helped-lafd-shape-messaging-after-palisades-fire",
+    "source": "latimes",
+    "pubdate": "2026-01-21-11-00-00 +0000"
+  },
+  {
+    "headline": "California crypto startup moves to South Dakota as debate over proposed wealth tax heats up",
+    "link": "https://www.latimes.com/business/story/2026-01-21/california-crypto-startup-moves-to-south-dakota-as-debate-over-proposed-wealth-tax-heats-up",
     "source": "latimes",
     "pubdate": "2026-01-21-11-00-00 +0000"
   },
@@ -6284,12 +6278,6 @@
   {
     "headline": "As Gen Z turns to thrifting, a Melrose Avenue shop finds success in influencers' overflowing closets",
     "link": "https://www.latimes.com/business/story/2026-01-21/influencer-thrift-store-detoure",
-    "source": "latimes",
-    "pubdate": "2026-01-21-11-00-00 +0000"
-  },
-  {
-    "headline": "California crypto startup moves to South Dakota as debate over proposed wealth tax heats up",
-    "link": "https://www.latimes.com/business/story/2026-01-21/california-crypto-startup-moves-to-south-dakota-as-debate-over-proposed-wealth-tax-heats-up",
     "source": "latimes",
     "pubdate": "2026-01-21-11-00-00 +0000"
   },
@@ -6994,11 +6982,5 @@
     "link": "https://www.nytimes.com/2026/01/19/business/imf-world-economic-outlook-2026.html",
     "source": "nyt",
     "pubdate": "2026-01-19-09-30-05 +0000"
-  },
-  {
-    "headline": "U.K. House Prices See Record January Jump as Post-Budget Uncertainty Fades",
-    "link": "https://www.wsj.com/economy/housing/u-k-house-prices-see-record-january-jump-as-post-budget-uncertainty-fades-a9fa2388",
-    "source": "wsj",
-    "pubdate": "2026-01-19-06-53-00 +0000"
   }
 ]

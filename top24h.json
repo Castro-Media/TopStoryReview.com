@@ -1,41 +1,41 @@
 [
   {
-    "score": 236,
+    "score": 232,
     "pubdate": "2026-01-26-01-57-16 +0000",
     "source": "nypost",
     "headline": "Trump ‘reviewing everything’ about fatal shooting of Alex Pretti, says fed agents will leave Minneapolis ‘at some point’",
     "link": "https://nypost.com/2026/01/25/us-news/trump-reviewing-everything-about-fatal-shooting-of-alex-pretti/"
   },
   {
-    "score": 80,
+    "score": 78,
     "pubdate": "2026-01-25-19-20-05 +0000",
     "source": "nypost",
     "headline": "Hochul demands removal of Noem, Border Patrol chief after killing of second anti-ICE protester",
     "link": "https://nypost.com/2026/01/25/us-news/hochul-demands-removal-of-noem-border-patrols-bovino/"
   },
   {
-    "score": 65,
+    "score": 63,
+    "pubdate": "2026-01-26-04-38-19 +0000",
+    "source": "bbc",
+    "headline": "At least seven dead and 800,000 without power as major winter storm hits US",
+    "link": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 63,
     "pubdate": "2026-01-25-19-58-23 +0000",
     "source": "wapo",
     "headline": "Minnesota Gov. Tim Walz (D) addressed President Donald Trump as he ended a news conference on...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 58,
+    "score": 51,
     "pubdate": "2026-01-25-22-48-00 +0000",
     "source": "wsj",
     "headline": "Senate Democrats angered by the deadly shooting in Minneapolis said they wouldn’t vote for a government funding package without changes to its homeland security provisions, raising the possibility of a partial government shutdown",
     "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51"
   },
   {
-    "score": 51,
-    "pubdate": "2026-01-25-14-55-26 +0000",
-    "source": "cbc",
-    "headline": "Massive winter storm across U.S. brings snow, frigid temperatures, widespread power outages",
-    "link": "https://www.cbc.ca/news/world/us-storm-thousands-without-power-9.7060090?cmp=rss"
-  },
-  {
-    "score": 46,
+    "score": 45,
     "pubdate": "2026-01-25-17-05-00 +0000",
     "source": "wsj",
     "headline": "China’s Top General Accused of Giving Nuclear Secrets to U.S.",
@@ -43,13 +43,6 @@
   },
   {
     "score": 38,
-    "pubdate": "2026-01-25-06-02-10 +0000",
-    "source": "nypost",
-    "headline": "Florida Rep. Maxwell Frost says he was punched in the face at Sundance Film Festival party",
-    "link": "https://nypost.com/2026/01/25/us-news/florida-rep-maxwell-frost-says-he-was-punched-in-the-face-at-sundance-film-festival-suspect-christian-young-arrested/"
-  },
-  {
-    "score": 37,
     "pubdate": "2026-01-25-21-41-06 +0000",
     "source": "wapo",
     "headline": "Senate Minority Leader Charles E. Schumer (D-New York) in a statement Sunday called on Senate Republicans...",
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "U.S. Speaker of the House Mike Johnson has held the gavel during one of the narrowest Republican majorities in decades, and the margin is set to become slimmer",
     "link": "https://www.wsj.com/politics/republicans-house-majority-is-shakier-than-ever-6732b8d2"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-01-26-02-09-44 +0000",
+    "source": "startribune",
+    "headline": "The latest: Mounting calls for DHS surge to end as local leaders push to preserve shooting evidence",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
   }
 ]
