@@ -7,60 +7,60 @@
     "link": "https://nypost.com/2026/01/26/us-news/powerful-house-republican-suggests-trump-consider-pulling-ice-out-of-minneapolis-after-alex-pretti-shooting/"
   },
   {
-    "score": 89,
-    "pubdate": "2026-01-25-18-44-00 +0000",
+    "score": 119,
+    "pubdate": "2026-01-26-14-24-51 +0000",
+    "source": "nypost",
+    "headline": "Trump sending border czar Tom Homan to Minnesota amid unrest, sidelining DHS chief Kristi Noem",
+    "link": "https://nypost.com/2026/01/26/us-news/trump-sending-border-czar-tom-homan-to-minnesota-amid-unrest/"
+  },
+  {
+    "score": 73,
+    "pubdate": "2026-01-26-16-34-00 +0000",
     "source": "wsj",
-    "headline": "In Battle for Evidence, Minnesota Sues Feds Over Fatal Border Patrol Shooting",
-    "link": "https://www.wsj.com/us-news/in-battle-for-evidence-minnesota-sues-feds-over-fatal-border-patrol-shooting-52be59ba"
+    "headline": "Deadly Winter Storm Disrupts Air Travel, Leaves Hundreds of Thousands Without Power",
+    "link": "https://www.wsj.com/us-news/climate-environment/deadly-winter-storm-disrupts-air-travel-leaves-thousands-without-power-8786db2d"
   },
   {
-    "score": 69,
-    "pubdate": "2026-01-26-13-11-00 +0000",
-    "source": "wsj",
-    "headline": "Deadly Winter Storm Disrupts Air Travel, Leaves Thousands Without Power",
-    "link": "https://www.wsj.com/us-news/climate-environment/deadly-winter-storm-disrupts-air-travel-leaves-thousands-without-power-8786db2d?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-01-26-12-46-55 +0000",
-    "source": "nyt",
-    "headline": "In Xi’s China, Top General’s Fall Shows Precariousness of Power",
-    "link": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-01-25-21-11-09 +0000",
-    "source": "wapo",
-    "headline": "Minneapolis Police Chief Brian O’Hara said the federal immigration operation has strained the city’s 600 police.",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-01-26-12-10-00 +0000",
-    "source": "wsj",
-    "headline": "Allied Gold Agreed to $4 Billion Buyout By Hong Kong’s Zijin Gold",
-    "link": "https://www.wsj.com/business/allied-gold-agreed-to-4-billion-buyout-by-hong-kongs-zijin-gold-889f3928?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-01-25-22-48-00 +0000",
-    "source": "wsj",
-    "headline": "Senate Democrats angered by the deadly shooting in Minneapolis said they wouldn’t vote for a government funding package without changes to its homeland security provisions, raising the possibility of a partial government shutdown",
-    "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51"
-  },
-  {
-    "score": 45,
+    "score": 54,
     "pubdate": "2026-01-26-11-23-20 +0000",
     "source": "bbc",
     "headline": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
     "link": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
-    "pubdate": "2026-01-26-04-30-19 +0000",
+    "score": 47,
+    "pubdate": "2026-01-26-16-07-27 +0000",
     "source": "nypost",
-    "headline": "Violent anti-ICE protesters swarm Minnesota hotel they believe is housing fed agents — one officer left bloodied",
-    "link": "https://nypost.com/2026/01/25/us-news/anti-ice-protesters-swarm-st-paul-hotel-they-believe-is-housing-fed-agents/"
+    "headline": "Stock market grew in 2025 — but less than any first year of a new presidency in two decades",
+    "link": "https://nypost.com/2026/01/26/business/stock-market-grew-in-2025-but-less-than-any-first-year-of-a-new-presidency-in-two-decades/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-01-26-01-57-16 +0000",
+    "source": "nypost",
+    "headline": "Trump ‘reviewing everything’ about fatal shooting of Alex Pretti, says fed agents will leave Minneapolis ‘at some point’",
+    "link": "https://nypost.com/2026/01/25/us-news/trump-reviewing-everything-about-fatal-shooting-of-alex-pretti/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-01-26-12-10-00 +0000",
+    "source": "wsj",
+    "headline": "Allied Gold Agreed to $4 Billion Buyout By Hong Kong’s Zijin Gold",
+    "link": "https://www.wsj.com/business/allied-gold-agreed-to-4-billion-buyout-by-hong-kongs-zijin-gold-889f3928?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-01-25-22-22-19 +0000",
+    "source": "nypost",
+    "headline": "China’s top general accused of leaking country’s nuclear weapons program to CIA",
+    "link": "https://nypost.com/2026/01/25/world-news/chinas-top-general-accused-of-leaking-nuclear-secrets-to-us/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-01-25-22-48-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Democrats angered by the deadly shooting in Minneapolis said they wouldn’t vote for a government funding package without changes to its homeland security provisions, raising the possibility of a partial government shutdown",
+    "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51"
   },
   {
     "score": 41,
