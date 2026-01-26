@@ -1,72 +1,65 @@
 [
   {
-    "score": 40,
-    "pubdate": "2026-01-26-12-22-24 +0000",
-    "source": "nypost",
-    "headline": "Powerful House Republican suggests Trump consider pulling ICE out of Minneapolis after Alex Pretti shooting",
-    "link": "https://nypost.com/2026/01/26/us-news/powerful-house-republican-suggests-trump-consider-pulling-ice-out-of-minneapolis-after-alex-pretti-shooting/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-01-26-12-45-45 +0000",
-    "source": "nypost",
-    "headline": "Appeals court rejects Trump admin’s emergency attempt to arrest Don Lemon, but judge admits ‘probable cause’",
-    "link": "https://nypost.com/2026/01/26/us-news/appeals-rejects-trump-admins-emergency-attempt-to-arrest-don-lemon-but-judge-admits-probable-cause/"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-01-26-13-00-00 +0000",
-    "source": "nypost",
-    "headline": "Maria Corina Machado says democracy can turn Venezuela into Trump’s ‘Berlin Wall’ moment",
-    "link": "https://nypost.com/2026/01/26/us-news/maria-corina-machado-says-democracy-can-turn-venezuela-into-trumps-berlin-wall-moment/"
-  },
-  {
-    "score": 22,
+    "score": 18,
     "pubdate": "2026-01-26-13-02-48 +0000",
     "source": "nyt",
     "headline": "Israel Says It Will Reopen Gaza-Egypt Border, a Palestinian Lifeline, in Days",
     "link": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html"
   },
   {
-    "score": 18,
-    "pubdate": "2026-01-26-12-58-29 +0000",
-    "source": "bbc",
-    "headline": "Kenya's ex-deputy president alleges assassination attempt in church attack",
-    "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
+    "score": 15,
     "pubdate": "2026-01-26-13-04-50 +0000",
     "source": "nypost",
     "headline": "Dems need to ‘tell celebrities to just shut the f–k up — Hollywood isn’t doing the party any favors’: Bill Maher",
     "link": "https://nypost.com/2026/01/26/us-news/dems-should-tell-celebrities-to-just-shut-the-f-k-up-bill-maher/"
   },
   {
-    "score": 16,
-    "pubdate": "2026-01-26-12-48-17 +0000",
-    "source": "bbc",
-    "headline": "Greece biscuit factory fire leaves at least four dead",
-    "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-26-12-31-41 +0000",
-    "source": "bbc",
-    "headline": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
-    "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-26-12-46-55 +0000",
+    "score": 10,
+    "pubdate": "2026-01-26-13-04-55 +0000",
     "source": "nyt",
-    "headline": "In Xi’s China, Top General’s Fall Shows Precariousness of Power",
-    "link": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html"
+    "headline": "Gunmen Kill 11 After Soccer Match in Mexico",
+    "link": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html"
   },
   {
-    "score": 12,
-    "pubdate": "2026-01-26-12-20-46 +0000",
-    "source": "startribune",
-    "headline": "The latest: Mounting calls for DHS surge to end as local leaders push to preserve shooting evidence",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+    "score": 10,
+    "pubdate": "2026-01-26-13-03-25 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Court to hold hearings in Minnesota lawsuits seeking to curb federal agents",
+    "link": "https://www.washingtonpost.com/nation/2026/01/26/live-updates-minneapolis-shooting-alex-pretti-border-patrol/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-26-13-08-59 +0000",
+    "source": "nypost",
+    "headline": "Travel woes remain across NYC over Winter Storm Fern",
+    "link": "https://nypost.com/2026/01/26/us-news/travel-woes-remain-across-nyc-over-winter-storm-fern/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-26-13-03-25 +0000",
+    "source": "wapo",
+    "headline": "More Americans say Alex Pretti shooting was not justified, poll finds",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-26-13-06-14 +0000",
+    "source": "nyt",
+    "headline": "Gold Soars to Record High as Global Tensions Grow",
+    "link": "https://www.nytimes.com/2026/01/26/business/gold-prices.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-26-13-04-55 +0000",
+    "source": "nyt",
+    "headline": "Gunmen Kill 11 After Soccer Match in Mexico",
+    "link": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-26-13-02-48 +0000",
+    "source": "nyt",
+    "headline": "Israel Says It Will Reopen Gaza-Egypt Border, a Palestinian Lifeline, in Days",
+    "link": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html"
   }
 ]
