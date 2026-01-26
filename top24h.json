@@ -1,31 +1,24 @@
 [
   {
-    "score": 269,
+    "score": 258,
     "pubdate": "2026-01-26-12-22-24 +0000",
     "source": "nypost",
     "headline": "Powerful House Republican suggests Trump consider pulling ICE out of Minneapolis after Alex Pretti shooting",
     "link": "https://nypost.com/2026/01/26/us-news/powerful-house-republican-suggests-trump-consider-pulling-ice-out-of-minneapolis-after-alex-pretti-shooting/"
   },
   {
-    "score": 119,
+    "score": 117,
     "pubdate": "2026-01-26-14-24-51 +0000",
     "source": "nypost",
     "headline": "Trump sending border czar Tom Homan to Minnesota amid unrest, sidelining DHS chief Kristi Noem",
     "link": "https://nypost.com/2026/01/26/us-news/trump-sending-border-czar-tom-homan-to-minnesota-amid-unrest/"
   },
   {
-    "score": 79,
+    "score": 74,
     "pubdate": "2026-01-26-16-34-00 +0000",
     "source": "wsj",
     "headline": "Deadly Winter Storm Disrupts Air Travel, Leaves Hundreds of Thousands Without Power",
     "link": "https://www.wsj.com/us-news/climate-environment/deadly-winter-storm-disrupts-air-travel-leaves-thousands-without-power-8786db2d"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-01-25-22-48-00 +0000",
-    "source": "wsj",
-    "headline": "Senate Democrats angered by the deadly shooting in Minneapolis said they wouldn’t vote for a government funding package without changes to its homeland security provisions, raising the possibility of a partial government shutdown",
-    "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51"
   },
   {
     "score": 60,
@@ -35,14 +28,21 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 54,
+    "score": 60,
+    "pubdate": "2026-01-25-22-48-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Democrats angered by the deadly shooting in Minneapolis said they wouldn’t vote for a government funding package without changes to its homeland security provisions, raising the possibility of a partial government shutdown",
+    "link": "https://www.wsj.com/politics/policy/senate-democrats-vow-to-block-dhs-funding-risking-another-shutdown-54759b51"
+  },
+  {
+    "score": 51,
     "pubdate": "2026-01-26-20-32-47 +0000",
     "source": "latimes",
     "headline": "A gunman is spotted near a grade school. O.C. residents ask why immigration agents, police gave no warning",
     "link": "https://www.latimes.com/california/story/2026-01-26/gunman-is-spotted-near-grade-school-o-c-residents-ask-why-immigration-agents-police-gave-no-warning"
   },
   {
-    "score": 51,
+    "score": 50,
     "pubdate": "2026-01-26-20-18-35 +0000",
     "source": "nypost",
     "headline": "Trump says he’s ‘amazed’  Gavin Newsom’s running for president, issues withering two-word insult",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/01/26/world-news/at-least-18-dead-after-ferry-carrying-over-350-people-sinks-off-the-philippines/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-01-26-19-22-49 +0000",
-    "source": "wapo",
-    "headline": "Walz urges Trump to end federal surge in Minnesota in new op-ed",
-    "link": "https://www.washingtonpost.com"
+    "score": 42,
+    "pubdate": "2026-01-26-08-36-39 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Rises; Gold Price Tops $5,000 for First Time",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-26-2026?mod=rss_markets_main"
   }
 ]
