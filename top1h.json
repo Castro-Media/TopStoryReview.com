@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 33,
+    "pubdate": "2026-01-27-13-01-45 +0000",
+    "source": "nyt",
+    "headline": "As Trump Heads to Iowa to Trumpet Economy, Many Residents Feel Pain",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/trump-iowa-farms-tariffs.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-01-27-12-23-54 +0000",
+    "source": "bbc",
+    "headline": "India and EU announce landmark trade deal",
+    "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-01-27-13-01-23 +0000",
+    "source": "wapo",
+    "headline": "Man, 29, races against time to preserve voices of Holocaust survivors",
+    "link": "https://www.washingtonpost.com/lifestyle/2026/01/27/holocaust-survivors-interviews-jiri-kluc/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-01-27-12-55-12 +0000",
+    "source": "nypost",
+    "headline": "Michigan student who left frat party in just T-shirt and jeans found dead in ‘extreme cold’",
+    "link": "https://nypost.com/2026/01/27/us-news/michigan-student-lucas-mattson-who-left-frat-party-in-just-t-shirt-and-jeans-found-dead-in-extreme-cold/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-27-12-42-09 +0000",
+    "source": "bbc",
+    "headline": "Watch: Huge landslide in Sicily after Storm Harry",
+    "link": "https://www.bbc.com/news/videos/cql4p6w2gl5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-01-27-12-38-00 +0000",
+    "source": "wsj",
+    "headline": "American Airlines Gives Upbeat Outlook Following $325 Million Revenue Hit From Shutdown",
+    "link": "https://www.wsj.com/business/earnings/american-airlines-gives-upbeat-outlook-following-325-million-revenue-hit-from-shutdown-8d833a1c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-27-12-55-24 +0000",
+    "source": "nyt",
+    "headline": "Body Cam Video Related to the Shooting of Alex Pretti in Minneapolis Is Being Reviewed",
+    "link": "https://www.nytimes.com/2026/01/27/us/body-cam-video-alex-pretti-minneapolis-shooting.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-01-27-12-32-23 +0000",
+    "source": "startribune",
+    "headline": "Wild star Kirill Kaprizov wishes he could again enjoy the thrill of Olympics",
+    "link": "https://www.startribune.com/wild-star-kirill-kaprizov-wishes-he-could-again-enjoy-thrill-of-olympics/601549965"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-01-27-12-18-58 +0000",
+    "source": "nypost",
+    "headline": "West Virginia librarian busted for allegedly trying to recruit people on TikTok to kill Trump",
+    "link": "https://nypost.com/2026/01/27/us-news/tiktokker-morgan-l-morrow-busted-for-allegedly-trying-to-recruit-people-to-kill-trump/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-01-27-12-22-43 +0000",
+    "source": "startribune",
+    "headline": "Takeaways: Timberwolves’ losing streak ends with 108-83 victory over shorthanded Warriors",
+    "link": "https://www.startribune.com/takeaways-timberwolves-losing-streak-ends-with-108-83-victory-over-shorthanded-warriors/601549922"
+  }
+]
