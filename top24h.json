@@ -1,31 +1,45 @@
 [
   {
-    "score": 219,
-    "pubdate": "2026-01-26-16-56-15 +0000",
-    "source": "latimes",
-    "headline": "Scrutiny builds over killing of Alex Pretti; Trump sends Homan to Minnesota",
-    "link": "https://www.latimes.com/world-nation/story/2026-01-26/trump-sends-ice-czar-tom-homan-to-minnesota-as-federal-immigration-tactics-face-growing-scrutiny"
+    "score": 227,
+    "pubdate": "2026-01-27-14-28-37 +0000",
+    "source": "wapo",
+    "headline": "Alex Pretti’s sister speaks out, as Trump sends border czar to Minneapolis",
+    "link": "https://www.washingtonpost.com/nation/2026/01/27/alex-pretti-shooting-minneapolis-ice-bovino/"
   },
   {
-    "score": 131,
-    "pubdate": "2026-01-27-03-35-02 +0000",
+    "score": 126,
+    "pubdate": "2026-01-27-08-56-53 +0000",
     "source": "nypost",
-    "headline": "Alex Pretti was among 50 anti-ICE protesters who confronted Border Patrol before Minneapolis shooting",
-    "link": "https://nypost.com/2026/01/26/us-news/alex-pretti-was-among-50-anti-ice-protesters-who-confronted-border-patrol-before-minneapolis-shooting/"
+    "headline": "Anti-ICE protesters arrested outside Minnesota hotel as police declare unlawful assembly: ‘No longer peaceful’",
+    "link": "https://nypost.com/2026/01/27/us-news/anti-ice-protesters-arrested-outside-minnesota-hotel-as-police-declare-unlawful-assembly-no-longer-peaceful/"
   },
   {
-    "score": 99,
-    "pubdate": "2026-01-27-07-18-00 +0000",
+    "score": 100,
+    "pubdate": "2026-01-27-13-22-00 +0000",
     "source": "wsj",
     "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
     "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
   },
   {
-    "score": 74,
+    "score": 73,
+    "pubdate": "2026-01-26-19-01-06 +0000",
+    "source": "wapo",
+    "headline": "White House press secretary Karoline Leavitt said Monday that Alex Pretti’s shooting remains under active investigation...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 71,
     "pubdate": "2026-01-27-03-36-00 +0000",
     "source": "wsj",
     "headline": "Deadly Winter Storm Disrupts Air Travel, Leaves Hundreds of Thousands Without Power",
     "link": "https://www.wsj.com/us-news/climate-environment/deadly-winter-storm-disrupts-air-travel-leaves-thousands-without-power-8786db2d"
+  },
+  {
+    "score": 68,
+    "pubdate": "2026-01-26-22-43-37 +0000",
+    "source": "nypost",
+    "headline": "Trump raises tariffs on South Korea to 25%: ‘Not living up to its deal with the US’",
+    "link": "https://nypost.com/2026/01/26/us-news/trump-raises-tariffs-on-south-korea-to-25/"
   },
   {
     "score": 66,
@@ -35,38 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/homan-in-bovino-out-as-trump-hits-panic-button-on-minnesota-95e1d514"
   },
   {
-    "score": 65,
-    "pubdate": "2026-01-26-22-43-37 +0000",
-    "source": "nypost",
-    "headline": "Trump raises tariffs on South Korea to 25%: ‘Not living up to its deal with the US’",
-    "link": "https://nypost.com/2026/01/26/us-news/trump-raises-tariffs-on-south-korea-to-25/"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-01-27-03-01-00 +0000",
-    "source": "wsj",
-    "headline": "Democratic Rep. Ilhan Omar of Minnesota, facing potential investigations pushed by President Trump and House Republicans, isn’t shying away from another fight with the White House",
-    "link": "https://www.wsj.com/politics/policy/minnesota-democrat-ilhan-omar-929d582a"
-  },
-  {
     "score": 61,
-    "pubdate": "2026-01-27-00-01-49 +0000",
-    "source": "bbc",
-    "headline": "Tech giants face landmark trial over social media addiction claims",
-    "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
     "pubdate": "2026-01-26-17-32-54 +0000",
     "source": "wapo",
     "headline": "U.S. District Judge Katherine M. Menendez kicked off her questioning of the Trump administration’s lawyers by...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 56,
-    "pubdate": "2026-01-26-14-57-07 +0000",
-    "source": "cbc",
-    "headline": "Israel recovers remains of final hostage in Gaza, opening way for next phase",
-    "link": "https://www.cbc.ca/news/world/gaza-israel-remains-found-9.7060941?cmp=rss"
+    "score": 60,
+    "pubdate": "2026-01-27-00-01-49 +0000",
+    "source": "bbc",
+    "headline": "Tech giants face landmark trial over social media addiction claims",
+    "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-01-27-01-33-55 +0000",
+    "source": "nyt",
+    "headline": "A Year After DC Plane Crash, Concerns About Airport’s Safety Continue",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/reagan-national-airport-crash.html"
   }
 ]
