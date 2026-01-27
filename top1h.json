@@ -1,38 +1,10 @@
 [
   {
-    "score": 30,
-    "pubdate": "2026-01-27-01-55-38 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Takes Another Stake in Rare Earth Sector",
-    "link": "https://www.nytimes.com/2026/01/26/us/politics/trump-rare-earth-howard-lutnick.html"
-  },
-  {
-    "score": 21,
+    "score": 18,
     "pubdate": "2026-01-27-02-28-55 +0000",
     "source": "nyt",
     "headline": "Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown",
     "link": "https://www.nytimes.com/2026/01/26/us/politics/chris-madel-minnesota-governor-immigration.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-27-02-08-00 +0000",
-    "source": "wsj",
-    "headline": "Former Citi Executive Sues Bank, Alleging Sexual Harassment",
-    "link": "https://www.wsj.com/finance/banking/former-citi-executive-sues-bank-alleging-sexual-harassment-bbf6b5b0?mod=rss_markets_main"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-27-02-24-53 +0000",
-    "source": "nyt",
-    "headline": "Killings in Minneapolis Invert Usual Dynamic Over Policing the Police",
-    "link": "https://www.nytimes.com/2026/01/26/us/politics/minneapolis-killings-federal-state-police.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-27-02-25-36 +0000",
-    "source": "nypost",
-    "headline": "Stanford university quietly settles lawsuit after star soccer captain Katie Meyer’s suicide rocked elite campus",
-    "link": "https://nypost.com/2026/01/26/us-news/stanford-settles-with-family-of-soccer-star-katie-meyer-in-wrongful-death-suit/"
   },
   {
     "score": 12,
@@ -42,31 +14,17 @@
     "link": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-01-27-02-11-19 +0000",
-    "source": "missionlocal",
-    "headline": "Coco, bodega cat that followed KitKat, leaves liquor store after leukemia diagnosis",
-    "link": "https://missionlocal.org/2026/01/coco-leaves-randas-market/"
+    "score": 0,
+    "pubdate": "2026-01-27-02-29-30 +0000",
+    "source": "nyt",
+    "headline": "Canada’s Marineland Whales Could Find New Homes in U.S.",
+    "link": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-01-27-01-43-49 +0000",
-    "source": "nypost",
-    "headline": "The cleanest and grossest beaches in California — and it’s bad news for iconic Santa Monica Pier",
-    "link": "https://nypost.com/2026/01/26/us-news/the-cleanest-and-grossest-beaches-in-california-and-where-the-iconic-santa-monica-pier-ranks/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-01-27-01-42-08 +0000",
-    "source": "startribune",
-    "headline": "Border czar Tom Homan’s arrival in Minnesota signals shift by Trump administration",
-    "link": "https://www.startribune.com/tom-homan-minnesota-ice/601571189"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-01-27-02-17-03 +0000",
-    "source": "missionlocal",
-    "headline": "Sunset senior care center planned at shuttered Walgreens on Noriega",
-    "link": "https://missionlocal.org/2026/01/sunset-nems-senior-pace-center-walgreens/"
+    "score": 0,
+    "pubdate": "2026-01-27-02-28-55 +0000",
+    "source": "nyt",
+    "headline": "Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/chris-madel-minnesota-governor-immigration.html"
   }
 ]
