@@ -1,41 +1,34 @@
 [
   {
-    "score": 214,
-    "pubdate": "2026-01-26-12-03-00 +0000",
-    "source": "wsj",
-    "headline": "Republican unity over President Trump’s immigration tactics has started to splinter, and Trump himself is even starting to hedge. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/policy/miller-noem-dig-in-on-immigration-tactics-but-political-reckoning-is-coming-f410a742"
-  },
-  {
-    "score": 137,
-    "pubdate": "2026-01-26-22-52-00 +0000",
-    "source": "wsj",
-    "headline": "Democrats want changes to the Department of Homeland Security bill after a deadly Minneapolis shooting, but time is running out",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-partial-possibility-d198682b"
-  },
-  {
-    "score": 126,
+    "score": 229,
     "pubdate": "2026-01-27-01-29-20 +0000",
     "source": "nypost",
     "headline": "ICE tensions could be thawing in Minn. after Trump sends in border czar Tom Homan, sidelines Kristi Noem and Border Patrol chief",
     "link": "https://nypost.com/2026/01/26/us-news/ice-tensions-could-be-thawing-in-minn-after-trump-sends-in-border-czar-tom-homan-sidelines-kristi-noem-and-border-patrol-chief/"
   },
   {
-    "score": 112,
-    "pubdate": "2026-01-26-14-19-04 +0000",
+    "score": 143,
+    "pubdate": "2026-01-26-20-49-59 +0000",
     "source": "nypost",
-    "headline": "Minnesota CEOs, sports teams demand ‘immediate de-escalation’ following Alex Pretti killing",
-    "link": "https://nypost.com/2026/01/26/business/minnesota-companies-sports-teams-demand-immediate-de-escalation/"
+    "headline": "Bill Ackman gives $10K to family of Alex Pretti after fatal Minneapolis shooting",
+    "link": "https://nypost.com/2026/01/26/business/bill-ackman-gives-10k-to-family-of-alex-pretti-after-fatal-minneapolis-shooting/"
   },
   {
-    "score": 85,
-    "pubdate": "2026-01-26-16-34-00 +0000",
+    "score": 113,
+    "pubdate": "2026-01-27-03-01-00 +0000",
+    "source": "wsj",
+    "headline": "Democratic Rep. Ilhan Omar of Minnesota, facing potential investigations pushed by President Trump and House Republicans, isn’t shying away from another fight with the White House",
+    "link": "https://www.wsj.com/politics/policy/minnesota-democrat-ilhan-omar-929d582a"
+  },
+  {
+    "score": 93,
+    "pubdate": "2026-01-27-03-36-00 +0000",
     "source": "wsj",
     "headline": "Deadly Winter Storm Disrupts Air Travel, Leaves Hundreds of Thousands Without Power",
     "link": "https://www.wsj.com/us-news/climate-environment/deadly-winter-storm-disrupts-air-travel-leaves-thousands-without-power-8786db2d"
   },
   {
-    "score": 72,
+    "score": 73,
     "pubdate": "2026-01-27-00-42-00 +0000",
     "source": "wsj",
     "headline": "The Army will gain access to Salesforce’s technology under a $5.6 billion contract, as the military tries to speed up outdated practices",
@@ -49,14 +42,21 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 59,
+    "score": 60,
     "pubdate": "2026-01-26-21-31-00 +0000",
     "source": "wsj",
     "headline": "Gold and Silver Surge to Records, Buoyed by Concerns Over Tariffs, Government Shutdown",
     "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-01-26-2026-4cf2acfa?mod=rss_markets_main"
   },
   {
-    "score": 57,
+    "score": 58,
+    "pubdate": "2026-01-26-18-13-00 +0000",
+    "source": "wsj",
+    "headline": "GOP candidate Chris Madel is dropping out of the Minnesota’s governor’s race, saying national Republicans “have made it nearly impossible”",
+    "link": "https://www.wsj.com/politics/policy/the-lawyer-for-the-agent-who-shot-renee-good-thinks-ice-has-gone-too-far-065fe1fe"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-01-26-16-07-27 +0000",
     "source": "nypost",
     "headline": "Stock market grew in 2025 — but less than any first year of a new presidency in two decades",
@@ -64,9 +64,9 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-01-26-14-57-07 +0000",
-    "source": "cbc",
-    "headline": "Israel recovers remains of final hostage in Gaza, opening way for next phase",
-    "link": "https://www.cbc.ca/news/world/gaza-israel-remains-found-9.7060941?cmp=rss"
+    "pubdate": "2026-01-26-14-17-36 +0000",
+    "source": "nyt",
+    "headline": "At Least 18 Dead After Ferry Carrying 350 Sinks in the Philippines",
+    "link": "https://www.nytimes.com/2026/01/25/world/asia/philippines-ferry-sinks-basilan.html"
   }
 ]
