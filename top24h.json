@@ -1,34 +1,34 @@
 [
   {
-    "score": 220,
-    "pubdate": "2026-01-27-14-15-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s pivot in Minneapolis came after Republican lawmakers and other allies raised concerns that he was squandering public support for his immigration policy",
-    "link": "https://www.wsj.com/politics/policy/the-48-hours-that-convinced-trump-to-change-course-in-minnesota-a91d7683"
-  },
-  {
-    "score": 99,
-    "pubdate": "2026-01-27-19-59-53 +0000",
-    "source": "nyt",
-    "headline": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
-    "link": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html"
-  },
-  {
-    "score": 91,
+    "score": 196,
     "pubdate": "2026-01-28-04-36-00 +0000",
     "source": "wsj",
     "headline": "President Trump defended Homeland Security Secretary Kristi Noem amid calls for her to step down after last weekend’s fatal shooting in Minnesota",
     "link": "https://www.wsj.com/politics/policy/rump-kristi-noem-faces-criticism-897f4bd4"
   },
   {
-    "score": 83,
-    "pubdate": "2026-01-28-04-21-10 +0000",
-    "source": "startribune",
-    "headline": "Report: Border Patrol agent yelled ‘He’s got a gun!’ before Alex Pretti was killed",
-    "link": "https://www.startribune.com/alex-pretti-shooting-minneapolis-report-ice-border-patrol/601572035"
+    "score": 124,
+    "pubdate": "2026-01-28-01-32-14 +0000",
+    "source": "cbc",
+    "headline": "2 federal agents fired shots when Alex Pretti was killed in Minneapolis: U.S. official",
+    "link": "https://www.cbc.ca/news/world/alex-pretti-shooting-two-federal-agents-shot-9.7064190?cmp=rss"
   },
   {
-    "score": 78,
+    "score": 85,
+    "pubdate": "2026-01-28-13-32-07 +0000",
+    "source": "bbc",
+    "headline": "China trip will bring benefits to UK, Starmer insists, as he lands in Beijing",
+    "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 79,
+    "pubdate": "2026-01-28-14-36-22 +0000",
+    "source": "bbc",
+    "headline": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
+    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 79,
     "pubdate": "2026-01-27-18-23-00 +0000",
     "source": "wsj",
     "headline": "Amazon to Shut Down All Amazon Go and Amazon Fresh Stores",
@@ -42,31 +42,31 @@
     "link": "https://nypost.com/2026/01/28/world-news/south-koreas-former-first-lady-kim-keon-hee-sentenced-to-20-months-in-prison-for-corruption/"
   },
   {
-    "score": 74,
-    "pubdate": "2026-01-27-15-59-40 +0000",
+    "score": 75,
+    "pubdate": "2026-01-27-17-53-30 +0000",
     "source": "nypost",
-    "headline": "Meta and YouTube face landmark trial over youth addiction claims as TikTok settles with 19-year-old plaintiff",
-    "link": "https://nypost.com/2026/01/27/business/meta-tiktok-and-youtube-face-landmark-trial-over-youth-addiction-claims/"
+    "headline": "TikTok’s new owners accused of censoring Minneapolis ICE shooting, blocking word ‘Epstein’",
+    "link": "https://nypost.com/2026/01/27/business/tiktok-accused-of-censoring-minneapolis-ice-shooting-blocking-word-epstein/"
   },
   {
-    "score": 69,
+    "score": 71,
     "pubdate": "2026-01-28-01-24-32 +0000",
     "source": "nypost",
     "headline": "Rep. Ilhan Omar sprayed with unknown substance in syringe by ranting audience member at chaotic town hall",
     "link": "https://nypost.com/2026/01/27/us-news/rep-ilhan-omar-appears-to-be-sprayed-with-unknown-substance-by-ranting-audience-member-at-chaotic-town-hall/"
   },
   {
-    "score": 67,
+    "score": 61,
+    "pubdate": "2026-01-27-15-59-40 +0000",
+    "source": "nypost",
+    "headline": "Meta and YouTube face landmark trial over youth addiction claims as TikTok settles with 19-year-old plaintiff",
+    "link": "https://nypost.com/2026/01/27/business/meta-tiktok-and-youtube-face-landmark-trial-over-youth-addiction-claims/"
+  },
+  {
+    "score": 60,
     "pubdate": "2026-01-28-03-00-00 +0000",
     "source": "wsj",
     "headline": "Weeks after a U.S. military raid ended the rule of Nicolás Maduro, Venezuelans are living through a whiplash transition that feels less like a democratic dawn and more like an economic takeover",
     "link": "https://www.wsj.com/world/americas/venezuelans-suddenly-have-hope-for-the-economy-less-so-for-democracy-b39ea3e7"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-01-27-19-41-00 +0000",
-    "source": "wsj",
-    "headline": "Bari Weiss Lays Out New Vision for CBS News",
-    "link": "https://www.wsj.com/business/media/bari-weiss-lays-out-new-vision-for-cbs-news-9d9ec272?mod=pls_whats_news_us_business_f"
   }
 ]
