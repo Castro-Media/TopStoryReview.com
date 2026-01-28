@@ -1,34 +1,48 @@
 [
   {
-    "score": 195,
+    "score": 223,
     "pubdate": "2026-01-27-14-15-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pivot in Minneapolis came after Republican lawmakers and other allies raised concerns that he was squandering public support for his immigration policy",
     "link": "https://www.wsj.com/politics/policy/the-48-hours-that-convinced-trump-to-change-course-in-minnesota-a91d7683"
   },
   {
-    "score": 93,
+    "score": 101,
     "pubdate": "2026-01-27-19-59-53 +0000",
     "source": "nyt",
     "headline": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
     "link": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html"
   },
   {
-    "score": 86,
+    "score": 91,
     "pubdate": "2026-01-28-04-36-00 +0000",
     "source": "wsj",
     "headline": "President Trump defended Homeland Security Secretary Kristi Noem amid calls for her to step down after last weekend’s fatal shooting in Minnesota",
     "link": "https://www.wsj.com/politics/policy/rump-kristi-noem-faces-criticism-897f4bd4"
   },
   {
-    "score": 71,
+    "score": 83,
+    "pubdate": "2026-01-28-04-21-10 +0000",
+    "source": "startribune",
+    "headline": "Report: Border Patrol agent yelled ‘He’s got a gun!’ before Alex Pretti was killed",
+    "link": "https://www.startribune.com/alex-pretti-shooting-minneapolis-report-ice-border-patrol/601572035"
+  },
+  {
+    "score": 79,
+    "pubdate": "2026-01-27-18-23-00 +0000",
+    "source": "wsj",
+    "headline": "Amazon to Shut Down All Amazon Go and Amazon Fresh Stores",
+    "link": "https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 78,
     "pubdate": "2026-01-28-06-26-29 +0000",
     "source": "nypost",
     "headline": "South Korea’s former first lady Kim Keon Hee sentenced to 20 months in prison for corruption",
     "link": "https://nypost.com/2026/01/28/world-news/south-koreas-former-first-lady-kim-keon-hee-sentenced-to-20-months-in-prison-for-corruption/"
   },
   {
-    "score": 70,
+    "score": 74,
     "pubdate": "2026-01-27-15-59-40 +0000",
     "source": "nypost",
     "headline": "Meta and YouTube face landmark trial over youth addiction claims as TikTok settles with 19-year-old plaintiff",
@@ -42,31 +56,17 @@
     "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
   },
   {
-    "score": 68,
+    "score": 69,
+    "pubdate": "2026-01-28-01-24-32 +0000",
+    "source": "nypost",
+    "headline": "Rep. Ilhan Omar sprayed with unknown substance in syringe by ranting audience member at chaotic town hall",
+    "link": "https://nypost.com/2026/01/27/us-news/rep-ilhan-omar-appears-to-be-sprayed-with-unknown-substance-by-ranting-audience-member-at-chaotic-town-hall/"
+  },
+  {
+    "score": 67,
     "pubdate": "2026-01-28-03-00-00 +0000",
     "source": "wsj",
     "headline": "Weeks after a U.S. military raid ended the rule of Nicolás Maduro, Venezuelans are living through a whiplash transition that feels less like a democratic dawn and more like an economic takeover",
     "link": "https://www.wsj.com/world/americas/venezuelans-suddenly-have-hope-for-the-economy-less-so-for-democracy-b39ea3e7"
-  },
-  {
-    "score": 68,
-    "pubdate": "2026-01-27-18-23-00 +0000",
-    "source": "wsj",
-    "headline": "Amazon to Shut Down All Amazon Go and Amazon Fresh Stores",
-    "link": "https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 67,
-    "pubdate": "2026-01-28-04-21-10 +0000",
-    "source": "startribune",
-    "headline": "Report: Border Patrol agent yelled ‘He’s got a gun!’ before Alex Pretti was killed",
-    "link": "https://www.startribune.com/alex-pretti-shooting-minneapolis-report-ice-border-patrol/601572035"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-01-27-19-57-28 +0000",
-    "source": "nypost",
-    "headline": "Bari Weiss lays out vision for CBS News, shoots down accusations she was ‘pressured’ to shelve ‘60 Minutes’ segment",
-    "link": "https://nypost.com/2026/01/27/media/bari-weiss-lays-out-vision-for-cbs-news-shoots-down-accusations-she-was-pressured-to-shelve-60-minutes-segment/"
   }
 ]
