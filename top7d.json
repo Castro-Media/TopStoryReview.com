@@ -1,62 +1,55 @@
 [
   {
-    "score": 394,
+    "score": 380,
     "pubdate": "2026-01-28-18-58-42 +0000",
     "source": "bbc",
     "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
     "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 257,
-    "pubdate": "2026-01-28-17-56-14 +0000",
-    "source": "nypost",
-    "headline": "Border Patrol agents who fatally shot Alex Pretti during Minneapolis anti-ICE protest placed on administrative leave",
-    "link": "https://nypost.com/2026/01/28/us-news/border-patrol-agents-who-shot-alex-pretti-in-during-minneapolis-anti-ice-protest-placed-on-administrative-leave/"
-  },
-  {
-    "score": 194,
+    "score": 200,
     "pubdate": "2026-01-27-13-22-00 +0000",
     "source": "wsj",
     "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
     "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
   },
   {
-    "score": 176,
+    "score": 193,
+    "pubdate": "2026-01-28-01-32-14 +0000",
+    "source": "cbc",
+    "headline": "2 federal agents fired shots when Alex Pretti was killed in Minneapolis: U.S. official",
+    "link": "https://www.cbc.ca/news/world/alex-pretti-shooting-two-federal-agents-shot-9.7064190?cmp=rss"
+  },
+  {
+    "score": 156,
     "pubdate": "2026-01-28-04-36-00 +0000",
     "source": "wsj",
     "headline": "President Trump defended Homeland Security Secretary Kristi Noem amid calls for her to step down after last weekend’s fatal shooting in Minnesota",
     "link": "https://www.wsj.com/politics/policy/rump-kristi-noem-faces-criticism-897f4bd4"
   },
   {
-    "score": 110,
-    "pubdate": "2026-01-28-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "This Albertan signed up to fight in Ukraine. He was nearly killed by friendly fire",
-    "link": "https://www.cbc.ca/news/world/ukraine-david-rauser-donetsk-9.7063338?cmp=rss"
+    "score": 107,
+    "pubdate": "2026-01-23-19-56-34 +0000",
+    "source": "latimes",
+    "headline": "California's fight with offshore oil firm escalates with lawsuit against Trump administration",
+    "link": "https://www.latimes.com/california/story/2026-01-23/california-battle-offshore-oil-rigs-escalates"
   },
   {
-    "score": 109,
+    "score": 107,
     "pubdate": "2026-01-28-06-26-29 +0000",
     "source": "nypost",
     "headline": "South Korea’s former first lady Kim Keon Hee sentenced to 20 months in prison for corruption",
     "link": "https://nypost.com/2026/01/28/world-news/south-koreas-former-first-lady-kim-keon-hee-sentenced-to-20-months-in-prison-for-corruption/"
   },
   {
-    "score": 108,
+    "score": 106,
     "pubdate": "2026-01-28-15-27-40 +0000",
     "source": "bbc",
     "headline": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
     "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 99,
-    "pubdate": "2026-01-27-21-45-30 +0000",
-    "source": "latimes",
-    "headline": "Foreign-born population falls by 1.5 million amid Trump policies. California economy under threat",
-    "link": "https://www.latimes.com/california/story/2026-01-27/california-population-stalled-as-immigration-radi"
-  },
-  {
-    "score": 98,
+    "score": 105,
     "pubdate": "2026-01-28-02-00-00 +0000",
     "source": "wsj",
     "headline": "Trump is looking for someone to run the Fed who has credibility on Wall Street and will defer to his demands for lower rates; his candidates come up short in one way or another",
@@ -64,9 +57,16 @@
   },
   {
     "score": 95,
-    "pubdate": "2026-01-27-03-36-00 +0000",
+    "pubdate": "2026-01-28-12-06-27 +0000",
+    "source": "bbc",
+    "headline": "'I couldn't save them' - US mum's horror as three sons die falling through pond ice",
+    "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 93,
+    "pubdate": "2026-01-27-18-23-00 +0000",
     "source": "wsj",
-    "headline": "Deadly Winter Storm Disrupts Air Travel, Leaves Hundreds of Thousands Without Power",
-    "link": "https://www.wsj.com/us-news/climate-environment/deadly-winter-storm-disrupts-air-travel-leaves-thousands-without-power-8786db2d"
+    "headline": "Amazon to Shut Down All Amazon Go and Amazon Fresh Stores",
+    "link": "https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7?mod=pls_whats_news_us_business_f"
   }
 ]
