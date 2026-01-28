@@ -1,17 +1,17 @@
 [
   {
-    "score": 237,
+    "score": 229,
     "pubdate": "2026-01-28-00-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump defended Homeland Security Secretary Kristi Noem amid criticism of her and frustration within the White House over how she responded to last weekend’s fatal shooting in Minnesota",
     "link": "https://www.wsj.com/politics/policy/rump-kristi-noem-faces-criticism-897f4bd4"
   },
   {
-    "score": 106,
-    "pubdate": "2026-01-27-20-11-28 +0000",
-    "source": "nyt",
-    "headline": "Photo Shows ICE Agents Deploying at Minneapolis Protest After Alex Pretti Shooting",
-    "link": "https://www.nytimes.com/2026/01/27/us/minneapolis-nicollet-avenue-alex-pretti.html"
+    "score": 105,
+    "pubdate": "2026-01-28-03-37-00 +0000",
+    "source": "wsj",
+    "headline": "Democratic Rep. Ilhan Omar was sprayed with an unknown substance by an unidentified man at a town hall in Minneapolis on Tuesday, according to a statement from her office",
+    "link": "https://www.wsj.com/us-news/rep-ilhan-omar-sprayed-with-unknown-substance-at-town-hall-in-minneapolis-d9cbd133"
   },
   {
     "score": 103,
@@ -21,52 +21,52 @@
     "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
   },
   {
-    "score": 86,
+    "score": 85,
     "pubdate": "2026-01-27-15-59-40 +0000",
     "source": "nypost",
     "headline": "Meta and YouTube face landmark trial over youth addiction claims as TikTok settles with 19-year-old plaintiff",
     "link": "https://nypost.com/2026/01/27/business/meta-tiktok-and-youtube-face-landmark-trial-over-youth-addiction-claims/"
   },
   {
-    "score": 71,
-    "pubdate": "2026-01-27-23-00-00 +0000",
+    "score": 80,
+    "pubdate": "2026-01-27-20-11-28 +0000",
+    "source": "nyt",
+    "headline": "Photo Shows ICE Agents Deploying at Minneapolis Protest After Alex Pretti Shooting",
+    "link": "https://www.nytimes.com/2026/01/27/us/minneapolis-nicollet-avenue-alex-pretti.html"
+  },
+  {
+    "score": 70,
+    "pubdate": "2026-01-28-03-00-00 +0000",
     "source": "wsj",
-    "headline": "Europe closed ranks to push back against President Trump’s bid to control Greenland, but its dependence on the U.S. for security, exports and technology mean decoupling from its ally isn’t an option",
-    "link": "https://www.wsj.com/world/europe/europe-got-tough-with-trump-but-it-needs-the-u-s-as-much-as-ever-20a3220e"
+    "headline": "Weeks after a U.S. military raid ended the rule of Nicolás Maduro, Venezuelans are living through a whiplash transition that feels less like a democratic dawn and more like an economic takeover",
+    "link": "https://www.wsj.com/world/americas/venezuelans-suddenly-have-hope-for-the-economy-less-so-for-democracy-b39ea3e7"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-01-27-18-23-00 +0000",
+    "source": "wsj",
+    "headline": "Amazon to Shut Down All Amazon Go and Amazon Fresh Stores",
+    "link": "https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 64,
-    "pubdate": "2026-01-27-16-37-46 +0000",
-    "source": "nyt",
-    "headline": "Trinidadian Families File Wrongful Death Lawsuit Over Boat Strike by U.S. Military",
-    "link": "https://www.nytimes.com/2026/01/27/us/politics/trinidad-wrongful-death-lawsuit-boat-strike.html"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-01-28-00-46-53 +0000",
+    "pubdate": "2026-01-27-15-17-38 +0000",
     "source": "bbc",
-    "headline": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
-    "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss"
+    "headline": "Rwanda takes legal action against UK over axed migrant deal",
+    "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 60,
     "pubdate": "2026-01-27-21-45-30 +0000",
     "source": "latimes",
     "headline": "Foreign-born population falls by 1.5 million due to Trump policies. California economy under threat",
     "link": "https://www.latimes.com/california/story/2026-01-27/california-population-stalled-as-immigration-radi"
   },
   {
-    "score": 57,
-    "pubdate": "2026-01-28-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump is looking for someone to run the Fed who has credibility on Wall Street and will defer to his demands for lower rates; his candidates come up short in one way or another",
-    "link": "https://www.wsj.com/economy/central-banking/trump-federal-reserve-picks-68a01177"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-01-27-20-49-48 +0000",
-    "source": "nyt",
-    "headline": "Trump Vows Higher Tariffs for South Korea Months After Trade Deal",
-    "link": "https://www.nytimes.com/2026/01/27/world/asia/korea-trump-higher-tariff.html"
+    "score": 58,
+    "pubdate": "2026-01-27-20-24-23 +0000",
+    "source": "bbc",
+    "headline": "Families sue US over deadly boat strike off Venezuela coast",
+    "link": "https://www.bbc.com/news/articles/c98jr75w4zko?at_medium=RSS&at_campaign=rss"
   }
 ]
