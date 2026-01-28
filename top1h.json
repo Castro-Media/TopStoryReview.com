@@ -1,58 +1,72 @@
 [
   {
     "score": 38,
-    "pubdate": "2026-01-28-18-58-42 +0000",
-    "source": "bbc",
-    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-28-19-00-27 +0000",
-    "source": "nypost",
-    "headline": "Tommy Tuberville’s GOP rival claims Alabama senator lives in Florida — making him ineligible to run for governor",
-    "link": "https://nypost.com/2026/01/28/us-news/tommy-tubervilles-gop-rival-claims-alabama-senator-lives-in-florida/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-01-28-19-00-19 +0000",
-    "source": "nypost",
-    "headline": "Fed holds interest rates steady despite DOJ probe into Powell, Trump pressure",
-    "link": "https://nypost.com/2026/01/28/business/fed-holds-interest-rates-steady-despite-doj-probe-into-powell-trump-pressure/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-01-28-19-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Social media accounts show man who stabbed S.F. hospital worker was unraveling mentally",
-    "link": "https://missionlocal.org/2026/01/sf-social-media-hospital-worker-stabbing-suspect/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-01-28-19-00-00 +0000",
+    "pubdate": "2026-01-28-20-23-00 +0000",
     "source": "wsj",
-    "headline": "Gold Has Biggest One Day Dollar Gain on Record",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-likely-technical-correction-possible-profit-taking-b942d27b?mod=rss_markets_main"
+    "headline": "FBI agents searched an election office in Fulton County, Georgia, a site that was one of Trump’s main focuses in his efforts to overturn his 2020 presidential loss",
+    "link": "https://www.wsj.com/politics/elections/fbi-agents-search-election-office-in-georgias-fulton-county-8d4d274d"
   },
   {
-    "score": 3,
-    "pubdate": "2026-01-28-19-01-00 +0000",
+    "score": 23,
+    "pubdate": "2026-01-28-20-20-56 +0000",
+    "source": "nypost",
+    "headline": "EPA begins review of safety of fluoride in drinking water — a priority for RFK Jr. and MAHA",
+    "link": "https://nypost.com/2026/01/28/us-news/epa-begins-review-of-safety-of-fluoride-in-drinking-water/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-01-28-20-16-12 +0000",
+    "source": "nyt",
+    "headline": "For Minneapolis’s Native Americans, a New Fight Echoes a Bitter History",
+    "link": "https://www.nytimes.com/2026/01/28/us/minneapolis-native-americans.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-28-20-50-05 +0000",
+    "source": "nyt",
+    "headline": "Chinese National Heng Guan Who Documented Uyghurs’ Repression Wins Asylum",
+    "link": "https://www.nytimes.com/2026/01/28/world/asia/heng-guan-china-uyghurs-asylum.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-01-28-20-33-00 +0000",
     "source": "wsj",
-    "headline": "Fed Holds Rates Steady for First Time since July",
+    "headline": "The Federal Reserve entered a new holding pattern on interest rates Wednesday and signaled little urgency to resume cuts after contentious reductions at officials’ three previous meetings",
     "link": "https://www.wsj.com/economy/central-banking/fed-holds-rates-steady-for-first-time-since-july-e5622f03"
   },
   {
-    "score": 0,
-    "pubdate": "2026-01-28-18-58-42 +0000",
-    "source": "bbc",
-    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
+    "score": 16,
+    "pubdate": "2026-01-28-20-43-27 +0000",
+    "source": "nyt",
+    "headline": "Republicans Gave ICE a Slush Fund. Democrats Want to Limit It.",
+    "link": "https://www.nytimes.com/2026/01/28/us/politics/ice-funding-congress.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-01-28-18-58-42 +0000",
-    "source": "bbc",
-    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
+    "score": 16,
+    "pubdate": "2026-01-28-20-37-11 +0000",
+    "source": "nyt",
+    "headline": "Nervous Allies and Fox News: How Trump Realized He Had a Big Problem in Minneapolis",
+    "link": "https://www.nytimes.com/2026/01/28/us/politics/trump-minnesota-noem-bovino-homan-miller.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-28-20-17-46 +0000",
+    "source": "nypost",
+    "headline": "Victim found dead after blast ripped through LA apartment building as fireworks suspected of sparking blaze",
+    "link": "https://nypost.com/2026/01/28/us-news/fireworks-suspected-of-sparking-la-apartment-explosion-that-left-one-dead/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-28-20-34-47 +0000",
+    "source": "nyt",
+    "headline": "Dutch Court Orders Netherlands to Protect Bonaire From Climate Change",
+    "link": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-01-28-20-02-37 +0000",
+    "source": "nypost",
+    "headline": "Dramatic video shows rescue of driver whose SUV plunged 150 feet off Mulholland Drive",
+    "link": "https://nypost.com/2026/01/28/us-news/suv-plunges-150-feet-off-mulholland-drive-see-the-dramatic-rescue/"
   }
 ]
