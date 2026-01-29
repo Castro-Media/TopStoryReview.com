@@ -1,33 +1,5 @@
 [
   {
-    "score": 19,
-    "pubdate": "2026-01-29-06-40-00 +0000",
-    "source": "wsj",
-    "headline": "SAP Expects Sales Growth to Accelerate Through Next Year on Strong Cloud Business",
-    "link": "https://www.wsj.com/business/earnings/sap-expects-sales-growth-to-accelerate-through-next-year-on-strong-cloud-business-d652a4ca?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-01-29-06-33-41 +0000",
-    "source": "bbc",
-    "headline": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
-    "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-29-06-34-20 +0000",
-    "source": "nyt",
-    "headline": "She Couldn’t Defend Herself, but He Wasn’t Charged With Rape",
-    "link": "https://www.nytimes.com/2026/01/29/world/asia/china-woman-mental-illness-rape.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-01-29-06-10-32 +0000",
-    "source": "nypost",
-    "headline": "Teen allegedly stabs pregnant mom 70 times, attacks dog and sets home on fire during Facebook Marketplace meetup",
-    "link": "https://nypost.com/2026/01/29/us-news/teen-allegedly-stabs-pregnant-mom-70-times-attacks-dog-and-sets-home-on-fire-during-facebook-marketplace-meetup/"
-  },
-  {
     "score": 10,
     "pubdate": "2026-01-29-07-02-07 +0000",
     "source": "nypost",
@@ -35,28 +7,7 @@
     "link": "https://nypost.com/2026/01/29/us-news/yet-another-person-dies-from-eating-toxic-death-cap-mushroom-in-calif/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-01-29-06-44-07 +0000",
-    "source": "48hills",
-    "headline": "Drama Masks: New looks at ‘A Streetcar Named Desire’ and ‘Eugene Onegin’",
-    "link": "https://48hills.org/2026/01/drama-masks-new-looks-at-a-streetcar-named-desire-and-eugene-onegin/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-01-29-06-22-00 +0000",
-    "source": "wsj",
-    "headline": "U.K. Property Market Recovers Post-Budget Jitters But Price Growth Still Slow",
-    "link": "https://www.wsj.com/economy/housing/u-k-property-market-recovers-post-budget-jitters-but-price-growth-still-slow-bce5e9fc"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-01-29-06-27-00 +0000",
-    "source": "wsj",
-    "headline": "Alibaba to Team Up With Zelos on $2 Billion Robovan Business",
-    "link": "https://www.wsj.com/business/deals/alibaba-to-team-up-with-zelos-on-2-billion-robovan-business-8ed38b7e?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 6,
+    "score": 8,
     "pubdate": "2026-01-29-07-06-00 +0000",
     "source": "wsj",
     "headline": "Roche Forecasts 2026 Growth, Helped by Strength of Drug Pipeline",
@@ -68,5 +19,12 @@
     "source": "wsj",
     "headline": "Hyundai Quarterly Profit Halves on Tariff Hit",
     "link": "https://www.wsj.com/business/earnings/hyundai-quarterly-profit-halves-on-tariff-hit-727475f7?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-29-07-02-00 +0000",
+    "source": "wsj",
+    "headline": "ING Groep Guides for Further Growth This Year and Next",
+    "link": "https://www.wsj.com/business/earnings/ing-groep-guides-for-further-growth-this-year-and-next-ec10e054?mod=pls_whats_news_us_business_f"
   }
 ]
