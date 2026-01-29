@@ -1,13 +1,13 @@
 [
   {
-    "score": 186,
-    "pubdate": "2026-01-29-02-07-32 +0000",
-    "source": "nyt",
-    "headline": "The Trump administration moves to sell a landmark D.C. building that was once a Trump hotel.",
-    "link": "https://www.nytimes.com/live/2026/01/28/us/trump-news/the-trump-administration-moves-to-sell-a-landmark-dc-building-that-was-once-a-trump-hotel"
+    "score": 185,
+    "pubdate": "2026-01-29-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Chair Jerome Powell’s decision on whether to remain on the central bank’s board after his chairmanship ends is the last and only card he holds against the Trump administration",
+    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-board-plan-b3d36a5e"
   },
   {
-    "score": 114,
+    "score": 113,
     "pubdate": "2026-01-28-19-46-10 +0000",
     "source": "cbc",
     "headline": "2 federal agents involved in shooting of Alex Pretti in Minneapolis have been placed on leave",
@@ -21,25 +21,18 @@
     "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 106,
-    "pubdate": "2026-01-29-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "Fed Chair Jerome Powell’s decision on whether to remain on the central bank’s board after his chairmanship ends is the last and only card he holds against the Trump administration",
-    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-board-plan-b3d36a5e"
-  },
-  {
-    "score": 83,
-    "pubdate": "2026-01-28-22-21-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump rose to power following a simple creed in moments of crisis: Cede no ground, never admit mistakes and attack. Now he and his aides are rushing to limit political damage as they point fingers and shift strategy in Minnesota.",
-    "link": "https://www.wsj.com/politics/policy/trump-and-his-team-have-a-well-worn-crisis-playbook-it-backfired-in-minnesota-c0849e4f"
-  },
-  {
-    "score": 80,
+    "score": 82,
     "pubdate": "2026-01-29-01-00-00 +0000",
     "source": "wsj",
     "headline": "Minneapolis Police and Residents Forge New Common Ground During ICE Operation",
     "link": "https://www.wsj.com/us-news/minneapolis-police-and-residents-forge-new-common-ground-during-ice-operation-dbff2104"
+  },
+  {
+    "score": 79,
+    "pubdate": "2026-01-28-22-21-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump rose to power following a simple creed in moments of crisis: Cede no ground, never admit mistakes and attack. Now he and his aides are rushing to limit political damage as they point fingers and shift strategy in Minnesota.",
+    "link": "https://www.wsj.com/politics/policy/trump-and-his-team-have-a-well-worn-crisis-playbook-it-backfired-in-minnesota-c0849e4f"
   },
   {
     "score": 63,
@@ -50,10 +43,10 @@
   },
   {
     "score": 62,
-    "pubdate": "2026-01-28-08-04-36 +0000",
-    "source": "bbc",
-    "headline": "Zelensky condemns Russian drone strike that killed five on passenger train",
-    "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-01-28-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "This Albertan signed up to fight in Ukraine. He was nearly killed by friendly fire",
+    "link": "https://www.cbc.ca/news/world/ukraine-david-rauser-donetsk-9.7063338?cmp=rss"
   },
   {
     "score": 60,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "The Bank of Canada kept its policy rate unchanged at 2.25% for the second straight time, and warned that the level of uncertainty stemming from U.S. trade policy and geopolitical risks has ramped up",
     "link": "https://www.wsj.com/articles/bank-of-canada-stands-pat-on-rates-warns-of-heightened-uncertainty-b2fae2b2"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-01-28-22-26-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Democrats publicly laid out their demands for an overhaul of immigration enforcement, but GOP leaders want to avoid altering the legislation",
+    "link": "https://www.wsj.com/politics/policy/senate-democrats-immigration-demands-b87df4f1"
   }
 ]
