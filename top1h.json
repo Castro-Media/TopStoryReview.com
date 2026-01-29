@@ -1,37 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-01-29-13-12-13 +0000",
-    "source": "nyt",
-    "headline": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
-    "link": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html"
+    "score": 46,
+    "pubdate": "2026-01-29-14-14-53 +0000",
+    "source": "nypost",
+    "headline": "Border czar Tom Homan touts ‘a lot of progress’ in Minnesota, tells reporters he’s not there ‘for photo ops’",
+    "link": "https://nypost.com/2026/01/29/us-news/border-czar-tom-homan-touts-a-lot-of-progress-in-minnesota-tells-reporters-hes-not-there-for-photo-ops/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-01-29-13-09-00 +0000",
+    "score": 21,
+    "pubdate": "2026-01-29-14-51-00 +0000",
     "source": "wsj",
-    "headline": "Middle East Scrambles to Find U.S., Iran a Diplomatic Off-Ramp",
-    "link": "https://www.wsj.com/world/middle-east/middle-east-scrambles-to-find-u-s-iran-a-diplomatic-off-ramp-0aad670c"
+    "headline": "The White House border czar who was dispatched to Minneapolis said the federal approach there hadn’t been perfect, and announced he was working on a plan to begin drawing down the federal presence",
+    "link": "https://www.wsj.com/politics/policy/administration-working-to-draw-down-immigration-officers-in-minneapolis-homan-says-887a6d46"
   },
   {
-    "score": 7,
-    "pubdate": "2026-01-29-13-14-28 +0000",
+    "score": 20,
+    "pubdate": "2026-01-29-14-55-35 +0000",
     "source": "bbc",
-    "headline": "China to relax travel rules for British visitors, UK says",
-    "link": "https://www.bbc.com/news/articles/c150yv75pn7o?at_medium=RSS&at_campaign=rss"
+    "headline": "US Senator Amy Klobuchar announces bid for Minnesota governor",
+    "link": "https://www.bbc.com/news/articles/cq8413k1xvno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2026-01-29-13-16-18 +0000",
+    "score": 18,
+    "pubdate": "2026-01-29-14-59-00 +0000",
+    "source": "wsj",
+    "headline": "Microsoft Shares Dive as Data-Center Spending Overshadows Earnings Surge",
+    "link": "https://www.wsj.com/tech/ai/microsofts-earnings-surge-elevated-by-cloud-business-251829c2?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-01-29-14-21-00 +0000",
+    "source": "nypost",
+    "headline": "CBS News staffers ‘pretty salty’ over Gayle King’s defense of Bari Weiss at all-hands meeting: ‘Utter disappointment’",
+    "link": "https://nypost.com/2026/01/29/media/cbs-news-staffers-pretty-salty-over-gayle-kings-defense-of-bari-weiss/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-01-29-14-55-58 +0000",
     "source": "bbc",
-    "headline": "Ministers reject Waspi calls for compensation after rethink",
-    "link": "https://www.bbc.com/news/articles/c1jeyn3yxn9o?at_medium=RSS&at_campaign=rss"
+    "headline": "Heavy gunfire and blasts heard near airport in Niger's capital",
+    "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-01-29-13-12-13 +0000",
-    "source": "nyt",
-    "headline": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
-    "link": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html"
+    "score": 13,
+    "pubdate": "2026-01-29-14-20-59 +0000",
+    "source": "nypost",
+    "headline": "Wild video shows wheel fall off passenger plane just after leaving  Las Vegas",
+    "link": "https://nypost.com/2026/01/29/us-news/wild-video-shows-wheel-fall-off-passenger-plane-just-after-takeoff-from-las-vegas/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-29-15-04-19 +0000",
+    "source": "bbc",
+    "headline": "Assisted dying bill 'no hope' of passing unless Lords change approach, warns peer",
+    "link": "https://www.bbc.com/news/articles/cr57j47811yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-29-14-13-00 +0000",
+    "source": "wsj",
+    "headline": "Lockheed Martin to Quadruple Thaad Missile-Defense Output",
+    "link": "https://www.wsj.com/politics/national-security/lockheed-martin-to-quadruple-thaad-missile-defense-output-7b619571?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-01-29-14-25-00 +0000",
+    "source": "wsj",
+    "headline": "The Agonizing Decline of One of Europe’s Core Industries",
+    "link": "https://www.wsj.com/business/energy-oil/the-agonizing-decline-of-one-of-europes-core-industries-49d4231b?mod=pls_whats_news_us_business_f"
   }
 ]
