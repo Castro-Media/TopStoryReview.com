@@ -1,17 +1,24 @@
 [
   {
-    "score": 377,
+    "score": 374,
     "pubdate": "2026-01-29-15-47-21 +0000",
     "source": "nyt",
     "headline": "Trump Moves to Sell Former Home of Capital’s Trump Hotel",
     "link": "https://www.nytimes.com/2026/01/28/us/politics/trump-hotel-old-post-office.html"
   },
   {
-    "score": 196,
+    "score": 202,
     "pubdate": "2026-01-29-15-50-00 +0000",
     "source": "wsj",
     "headline": "The White House border czar who was dispatched to Minneapolis said the federal approach there hadn’t been perfect, and announced he was working on a plan to begin drawing down the federal presence",
     "link": "https://www.wsj.com/politics/policy/administration-working-to-draw-down-immigration-officers-in-minneapolis-homan-says-887a6d46"
+  },
+  {
+    "score": 202,
+    "pubdate": "2026-01-27-13-22-00 +0000",
+    "source": "wsj",
+    "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
+    "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
   },
   {
     "score": 194,
@@ -21,35 +28,28 @@
     "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 194,
-    "pubdate": "2026-01-27-13-22-00 +0000",
-    "source": "wsj",
-    "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
-    "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
-  },
-  {
-    "score": 158,
+    "score": 152,
     "pubdate": "2026-01-29-01-32-09 +0000",
     "source": "nyt",
     "headline": "The Man ICE Agents Were Seeking When They Killed Alex Pretti Remains at Large",
     "link": "https://www.nytimes.com/2026/01/28/us/minneapolis-shooting-ice-target-minnesota.html"
   },
   {
-    "score": 141,
+    "score": 138,
     "pubdate": "2026-01-29-03-00-00 +0000",
     "source": "wsj",
     "headline": "Fed Chair Jerome Powell’s decision on whether to remain on the central bank’s board after his chairmanship ends is the last and only card he holds against the Trump administration",
     "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-board-plan-b3d36a5e"
   },
   {
-    "score": 141,
+    "score": 137,
     "pubdate": "2026-01-28-22-21-00 +0000",
     "source": "wsj",
     "headline": "President Trump rose to power following a simple creed in moments of crisis: Cede no ground, never admit mistakes and attack. Now he and his aides are rushing to limit political damage as they point fingers and shift strategy in Minnesota.",
     "link": "https://www.wsj.com/politics/policy/trump-and-his-team-have-a-well-worn-crisis-playbook-it-backfired-in-minnesota-c0849e4f"
   },
   {
-    "score": 129,
+    "score": 128,
     "pubdate": "2026-01-27-21-45-30 +0000",
     "source": "latimes",
     "headline": "Foreign-born population falls by 1.5 million amid Trump policies. California economy under threat",
@@ -57,10 +57,10 @@
   },
   {
     "score": 97,
-    "pubdate": "2026-01-29-17-02-00 +0000",
-    "source": "wsj",
-    "headline": "The White House and Senate Democrats are moving toward a deal that could avert a government shutdown by splitting off a contentious bill funding immigration enforcement",
-    "link": "https://www.wsj.com/politics/policy/white-house-and-democrats-pursue-deal-to-avert-shutdown-f2690cee"
+    "pubdate": "2026-01-29-16-31-15 +0000",
+    "source": "wapo",
+    "headline": "Russia’s top diplomat rejects key part of deal to end war with Ukraine",
+    "link": "https://www.washingtonpost.com/world/2026/01/29/ukraine-russia-trump-zelensky-negotiations/"
   },
   {
     "score": 97,
