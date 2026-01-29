@@ -1,10 +1,10 @@
 [
   {
     "score": 190,
-    "pubdate": "2026-01-29-02-07-32 +0000",
-    "source": "nyt",
-    "headline": "The Trump administration moves to sell a landmark D.C. building that was once a Trump hotel.",
-    "link": "https://www.nytimes.com/live/2026/01/28/us/trump-news/the-trump-administration-moves-to-sell-a-landmark-dc-building-that-was-once-a-trump-hotel"
+    "pubdate": "2026-01-29-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Chair Jerome Powell’s decision on whether to remain on the central bank’s board after his chairmanship ends is the last and only card he holds against the Trump administration",
+    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-board-plan-b3d36a5e"
   },
   {
     "score": 108,
@@ -12,13 +12,6 @@
     "source": "wsj",
     "headline": "Minneapolis Police and Residents Forge New Common Ground During ICE Operation",
     "link": "https://www.wsj.com/us-news/minneapolis-police-and-residents-forge-new-common-ground-during-ice-operation-dbff2104"
-  },
-  {
-    "score": 107,
-    "pubdate": "2026-01-29-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "Fed Chair Jerome Powell’s decision on whether to remain on the central bank’s board after his chairmanship ends is the last and only card he holds against the Trump administration",
-    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-board-plan-b3d36a5e"
   },
   {
     "score": 100,
@@ -35,11 +28,11 @@
     "link": "https://www.wsj.com/politics/policy/trump-and-his-team-have-a-well-worn-crisis-playbook-it-backfired-in-minnesota-c0849e4f"
   },
   {
-    "score": 67,
-    "pubdate": "2026-01-29-10-22-54 +0000",
-    "source": "bbc",
-    "headline": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
-    "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss"
+    "score": 72,
+    "pubdate": "2026-01-28-23-56-00 +0000",
+    "source": "wsj",
+    "headline": "FBI agents searched an election office in Fulton County, Ga., a site that was a focus of President Trump in his effort to overturn his 2020 presidential loss",
+    "link": "https://www.wsj.com/politics/elections/fbi-agents-search-election-office-in-georgias-fulton-county-8d4d274d"
   },
   {
     "score": 63,
@@ -49,18 +42,18 @@
     "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
-    "pubdate": "2026-01-29-03-15-00 +0000",
-    "source": "wsj",
-    "headline": "Google co-founder Sergey Brin has contributed $20 million to a new effort aimed at tackling housing affordability in California, one of his largest and most visible political contributions",
-    "link": "https://www.wsj.com/politics/policy/sergey-brin-backs-new-california-political-effort-as-threat-of-wealth-tax-looms-35ed7063"
-  },
-  {
-    "score": 52,
+    "score": 58,
     "pubdate": "2026-01-29-12-20-47 +0000",
     "source": "bbc",
     "headline": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
     "link": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-01-29-12-00-01 +0000",
+    "source": "startribune",
+    "headline": "AI image of Alex Pretti’s killing is the latest altered photo amid ICE surge in Minneapolis",
+    "link": "https://www.startribune.com/ai-image-of-alex-prettis-killing-is-the-latest-altered-photo-amid-ice-surge-in-minneapolis/601571325"
   },
   {
     "score": 52,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "The Bank of Canada kept its policy rate unchanged at 2.25% for the second straight time, and warned that the level of uncertainty stemming from U.S. trade policy and geopolitical risks has ramped up",
     "link": "https://www.wsj.com/articles/bank-of-canada-stands-pat-on-rates-warns-of-heightened-uncertainty-b2fae2b2"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-01-29-12-49-27 +0000",
+    "source": "nypost",
+    "headline": "Sidelined Border Patrol chief Greg Bovino praises ‘mean green machine’ in first public statement since leaving Minneapolis",
+    "link": "https://nypost.com/2026/01/29/us-news/sidelined-border-patrol-chief-greg-bovino-praises-mean-green-machine-in-first-public-statement-since-leaving-minneapolis/"
   }
 ]
