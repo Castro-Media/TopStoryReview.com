@@ -1,10 +1,17 @@
 [
   {
-    "score": 380,
+    "score": 390,
     "pubdate": "2026-01-28-18-58-42 +0000",
     "source": "bbc",
     "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
     "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 237,
+    "pubdate": "2026-01-28-22-56-41 +0000",
+    "source": "nypost",
+    "headline": "Alex Pretti appears to spit at ICE, kick out tail light in previous Minneapolis confrontation before he was shot by Border Patrol",
+    "link": "https://nypost.com/2026/01/28/us-news/alex-pretti-appears-to-spit-at-ice-kick-out-tail-light-in-previous-minneapolis-confrontation-before-he-was-shot-by-border-patrol/"
   },
   {
     "score": 200,
@@ -14,59 +21,52 @@
     "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
   },
   {
-    "score": 193,
-    "pubdate": "2026-01-28-01-32-14 +0000",
-    "source": "cbc",
-    "headline": "2 federal agents fired shots when Alex Pretti was killed in Minneapolis: U.S. official",
-    "link": "https://www.cbc.ca/news/world/alex-pretti-shooting-two-federal-agents-shot-9.7064190?cmp=rss"
-  },
-  {
-    "score": 156,
+    "score": 149,
     "pubdate": "2026-01-28-04-36-00 +0000",
     "source": "wsj",
     "headline": "President Trump defended Homeland Security Secretary Kristi Noem amid calls for her to step down after last weekend’s fatal shooting in Minnesota",
     "link": "https://www.wsj.com/politics/policy/rump-kristi-noem-faces-criticism-897f4bd4"
   },
   {
-    "score": 107,
-    "pubdate": "2026-01-23-19-56-34 +0000",
-    "source": "latimes",
-    "headline": "California's fight with offshore oil firm escalates with lawsuit against Trump administration",
-    "link": "https://www.latimes.com/california/story/2026-01-23/california-battle-offshore-oil-rigs-escalates"
-  },
-  {
-    "score": 107,
-    "pubdate": "2026-01-28-06-26-29 +0000",
-    "source": "nypost",
-    "headline": "South Korea’s former first lady Kim Keon Hee sentenced to 20 months in prison for corruption",
-    "link": "https://nypost.com/2026/01/28/world-news/south-koreas-former-first-lady-kim-keon-hee-sentenced-to-20-months-in-prison-for-corruption/"
-  },
-  {
-    "score": 106,
-    "pubdate": "2026-01-28-15-27-40 +0000",
-    "source": "bbc",
-    "headline": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
-    "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 105,
+    "score": 109,
     "pubdate": "2026-01-28-02-00-00 +0000",
     "source": "wsj",
     "headline": "Trump is looking for someone to run the Fed who has credibility on Wall Street and will defer to his demands for lower rates; his candidates come up short in one way or another",
     "link": "https://www.wsj.com/economy/central-banking/trump-federal-reserve-picks-68a01177"
   },
   {
-    "score": 95,
-    "pubdate": "2026-01-28-12-06-27 +0000",
-    "source": "bbc",
-    "headline": "'I couldn't save them' - US mum's horror as three sons die falling through pond ice",
-    "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss"
+    "score": 108,
+    "pubdate": "2026-01-26-20-32-47 +0000",
+    "source": "latimes",
+    "headline": "A gunman is spotted near a grade school. O.C. residents ask why immigration agents, police gave no warning",
+    "link": "https://www.latimes.com/california/story/2026-01-26/gunman-is-spotted-near-grade-school-o-c-residents-ask-why-immigration-agents-police-gave-no-warning"
   },
   {
-    "score": 93,
-    "pubdate": "2026-01-27-18-23-00 +0000",
-    "source": "wsj",
-    "headline": "Amazon to Shut Down All Amazon Go and Amazon Fresh Stores",
-    "link": "https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7?mod=pls_whats_news_us_business_f"
+    "score": 106,
+    "pubdate": "2026-01-28-14-50-25 +0000",
+    "source": "cbc",
+    "headline": "Russia denies think-tank assessment that 1.2 million of its troops have been killed or injured in Ukraine war",
+    "link": "https://www.cbc.ca/news/world/russia-ukraine-war-dead-estimates-9.7064462?cmp=rss"
+  },
+  {
+    "score": 105,
+    "pubdate": "2026-01-28-06-26-29 +0000",
+    "source": "nypost",
+    "headline": "South Korea’s former first lady Kim Keon Hee sentenced to 20 months in prison for corruption",
+    "link": "https://nypost.com/2026/01/28/world-news/south-koreas-former-first-lady-kim-keon-hee-sentenced-to-20-months-in-prison-for-corruption/"
+  },
+  {
+    "score": 104,
+    "pubdate": "2026-01-28-15-27-40 +0000",
+    "source": "bbc",
+    "headline": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
+    "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 100,
+    "pubdate": "2026-01-23-19-56-34 +0000",
+    "source": "latimes",
+    "headline": "California's fight with offshore oil firm escalates with lawsuit against Trump administration",
+    "link": "https://www.latimes.com/california/story/2026-01-23/california-battle-offshore-oil-rigs-escalates"
   }
 ]
