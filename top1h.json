@@ -1,61 +1,5 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-01-29-12-49-27 +0000",
-    "source": "nypost",
-    "headline": "Sidelined Border Patrol chief Greg Bovino praises ‘mean green machine’ in first public statement since leaving Minneapolis",
-    "link": "https://nypost.com/2026/01/29/us-news/sidelined-border-patrol-chief-greg-bovino-praises-mean-green-machine-in-first-public-statement-since-leaving-minneapolis/"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-01-29-12-20-47 +0000",
-    "source": "bbc",
-    "headline": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
-    "link": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-01-29-12-57-00 +0000",
-    "source": "wsj",
-    "headline": "Democratic Sen. Amy Klobuchar of Minnesota announced she will run for state governor after Gov. Tim Walz said earlier this month that he would not seek a third term",
-    "link": "https://www.wsj.com/politics/elections/sen-amy-klobuchar-minnesota-governor-2ddc8ada"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-01-29-12-20-00 +0000",
-    "source": "wsj",
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8db6af2b?mod=rss_markets_main"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-01-29-12-35-27 +0000",
-    "source": "bbc",
-    "headline": "Heavy gunfire and blasts heard near airport in Niger's capital",
-    "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-01-29-13-16-18 +0000",
-    "source": "bbc",
-    "headline": "Ministers reject Waspi calls for compensation after rethink",
-    "link": "https://www.bbc.com/news/articles/c1jeyn3yxn9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-01-29-12-54-35 +0000",
-    "source": "nyt",
-    "headline": "Russia’s Lukoil in Talks to Sell Some Assets to U.S. Investment Firm",
-    "link": "https://www.nytimes.com/2026/01/29/business/russia-lukoil-carlyle-sale-sanctions.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-01-29-12-51-47 +0000",
-    "source": "nyt",
-    "headline": "Justice Dept. Playbook in Minnesota: Investigate Foes, Protect Allies",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/minnesota-justice-department-trump-ice.html"
-  },
-  {
     "score": 14,
     "pubdate": "2026-01-29-13-12-13 +0000",
     "source": "nyt",
@@ -63,10 +7,31 @@
     "link": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-01-29-12-54-47 +0000",
+    "score": 8,
+    "pubdate": "2026-01-29-13-09-00 +0000",
+    "source": "wsj",
+    "headline": "Middle East Scrambles to Find U.S., Iran a Diplomatic Off-Ramp",
+    "link": "https://www.wsj.com/world/middle-east/middle-east-scrambles-to-find-u-s-iran-a-diplomatic-off-ramp-0aad670c"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-01-29-13-14-28 +0000",
     "source": "bbc",
-    "headline": "Emergency loans offered to civil servants waiting on pensions",
-    "link": "https://www.bbc.com/news/articles/c8e524n23rno?at_medium=RSS&at_campaign=rss"
+    "headline": "China to relax travel rules for British visitors, UK says",
+    "link": "https://www.bbc.com/news/articles/c150yv75pn7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-01-29-13-16-18 +0000",
+    "source": "bbc",
+    "headline": "Ministers reject Waspi calls for compensation after rethink",
+    "link": "https://www.bbc.com/news/articles/c1jeyn3yxn9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-01-29-13-12-13 +0000",
+    "source": "nyt",
+    "headline": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
+    "link": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html"
   }
 ]
