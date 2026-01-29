@@ -1,62 +1,55 @@
 [
   {
-    "score": 377,
+    "score": 410,
+    "pubdate": "2026-01-29-02-07-32 +0000",
+    "source": "nyt",
+    "headline": "The Trump administration moves to sell a landmark D.C. building that was once a Trump hotel.",
+    "link": "https://www.nytimes.com/live/2026/01/28/us/trump-news/the-trump-administration-moves-to-sell-a-landmark-dc-building-that-was-once-a-trump-hotel"
+  },
+  {
+    "score": 202,
     "pubdate": "2026-01-28-18-58-42 +0000",
     "source": "bbc",
     "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
     "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 230,
-    "pubdate": "2026-01-28-22-56-41 +0000",
-    "source": "nypost",
-    "headline": "Alex Pretti appears to spit at ICE, kick out tail light in previous Minneapolis confrontation before he was shot by Border Patrol",
-    "link": "https://nypost.com/2026/01/28/us-news/alex-pretti-appears-to-spit-at-ice-kick-out-tail-light-in-previous-minneapolis-confrontation-before-he-was-shot-by-border-patrol/"
-  },
-  {
-    "score": 200,
-    "pubdate": "2026-01-27-13-22-00 +0000",
+    "score": 201,
+    "pubdate": "2026-01-29-01-00-00 +0000",
     "source": "wsj",
-    "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
-    "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
+    "headline": "Minneapolis Police and Residents Forge New Common Ground During ICE Operation",
+    "link": "https://www.wsj.com/us-news/minneapolis-police-and-residents-forge-new-common-ground-during-ice-operation-dbff2104"
   },
   {
-    "score": 150,
+    "score": 149,
+    "pubdate": "2026-01-29-00-32-36 +0000",
+    "source": "startribune",
+    "headline": "Live: Alex Pretti involved in altercation with federal agents days before he was killed",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+  },
+  {
+    "score": 147,
     "pubdate": "2026-01-28-04-36-00 +0000",
     "source": "wsj",
     "headline": "President Trump defended Homeland Security Secretary Kristi Noem amid calls for her to step down after last weekend’s fatal shooting in Minnesota",
     "link": "https://www.wsj.com/politics/policy/rump-kristi-noem-faces-criticism-897f4bd4"
   },
   {
-    "score": 112,
-    "pubdate": "2026-01-26-20-32-47 +0000",
-    "source": "latimes",
-    "headline": "A gunman is spotted near a grade school. O.C. residents ask why immigration agents, police gave no warning",
-    "link": "https://www.latimes.com/california/story/2026-01-26/gunman-is-spotted-near-grade-school-o-c-residents-ask-why-immigration-agents-police-gave-no-warning"
-  },
-  {
-    "score": 110,
-    "pubdate": "2026-01-28-14-50-25 +0000",
-    "source": "cbc",
-    "headline": "Russia denies think-tank assessment that 1.2 million of its troops have been killed or injured in Ukraine war",
-    "link": "https://www.cbc.ca/news/world/russia-ukraine-war-dead-estimates-9.7064462?cmp=rss"
-  },
-  {
-    "score": 110,
+    "score": 143,
     "pubdate": "2026-01-28-02-00-00 +0000",
     "source": "wsj",
     "headline": "Trump is looking for someone to run the Fed who has credibility on Wall Street and will defer to his demands for lower rates; his candidates come up short in one way or another",
     "link": "https://www.wsj.com/economy/central-banking/trump-federal-reserve-picks-68a01177"
   },
   {
-    "score": 106,
-    "pubdate": "2026-01-28-15-27-40 +0000",
-    "source": "bbc",
-    "headline": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
-    "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss"
+    "score": 114,
+    "pubdate": "2026-01-28-17-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Bank of Canada kept its policy rate unchanged at 2.25% for the second straight time, and warned that the level of uncertainty stemming from U.S. trade policy and geopolitical risks has ramped up",
+    "link": "https://www.wsj.com/articles/bank-of-canada-stands-pat-on-rates-warns-of-heightened-uncertainty-b2fae2b2"
   },
   {
-    "score": 105,
+    "score": 106,
     "pubdate": "2026-01-28-06-26-29 +0000",
     "source": "nypost",
     "headline": "South Korea’s former first lady Kim Keon Hee sentenced to 20 months in prison for corruption",
@@ -64,9 +57,16 @@
   },
   {
     "score": 101,
-    "pubdate": "2026-01-23-19-56-34 +0000",
+    "pubdate": "2026-01-27-18-15-05 +0000",
+    "source": "bbc",
+    "headline": "UK wants to use oil from shadow fleet to fund Ukraine war effort",
+    "link": "https://www.bbc.com/news/articles/c0lx24l117zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 101,
+    "pubdate": "2026-01-27-21-45-30 +0000",
     "source": "latimes",
-    "headline": "California's fight with offshore oil firm escalates with lawsuit against Trump administration",
-    "link": "https://www.latimes.com/california/story/2026-01-23/california-battle-offshore-oil-rigs-escalates"
+    "headline": "Foreign-born population falls by 1.5 million amid Trump policies. California economy under threat",
+    "link": "https://www.latimes.com/california/story/2026-01-27/california-population-stalled-as-immigration-radi"
   }
 ]
