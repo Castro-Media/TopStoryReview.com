@@ -1,13 +1,13 @@
 [
   {
-    "score": 395,
+    "score": 398,
     "pubdate": "2026-01-29-05-47-03 +0000",
     "source": "bbc",
     "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
     "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 194,
+    "score": 195,
     "pubdate": "2026-01-27-13-22-00 +0000",
     "source": "wsj",
     "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
@@ -21,14 +21,14 @@
     "link": "https://www.wsj.com/politics/policy/administration-working-to-draw-down-immigration-officers-in-minneapolis-homan-says-887a6d46"
   },
   {
-    "score": 141,
-    "pubdate": "2026-01-23-19-56-34 +0000",
-    "source": "latimes",
-    "headline": "California's fight with offshore oil firm escalates with lawsuit against Trump administration",
-    "link": "https://www.latimes.com/california/story/2026-01-23/california-battle-offshore-oil-rigs-escalates"
+    "score": 143,
+    "pubdate": "2026-01-29-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Chair Jerome Powell’s decision on whether to remain on the central bank’s board after his chairmanship ends is the last and only card he holds against the Trump administration",
+    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-board-plan-b3d36a5e"
   },
   {
-    "score": 135,
+    "score": 131,
     "pubdate": "2026-01-29-12-00-01 +0000",
     "source": "startribune",
     "headline": "AI image of Alex Pretti’s killing is the latest altered photo amid ICE surge in Minneapolis",
@@ -36,24 +36,31 @@
   },
   {
     "score": 130,
+    "pubdate": "2026-01-29-14-00-00 +0000",
+    "source": "latimes",
+    "headline": "San José Mayor Matt Mahan, a Newsom critic and political moderate, enters race for California governor",
+    "link": "https://www.latimes.com/california/story/2026-01-29/san-jose-mayor-matt-mahan-is-running-for-california-governor"
+  },
+  {
+    "score": 127,
     "pubdate": "2026-01-30-01-53-00 +0000",
     "source": "wsj",
     "headline": "President Trump and Senate Democrats said there is a deal to avert a partial government shutdown and temporarily fund the Department of Homeland Security, as negotiations on proposed restrictions to immigration enforcement will continue",
     "link": "https://www.wsj.com/politics/policy/white-house-and-democrats-pursue-deal-to-avert-shutdown-f2690cee"
   },
   {
-    "score": 107,
-    "pubdate": "2026-01-28-22-21-00 +0000",
+    "score": 97,
+    "pubdate": "2026-01-29-13-31-00 +0000",
     "source": "wsj",
-    "headline": "President Trump rose to power following a simple creed in moments of crisis: Cede no ground, never admit mistakes and attack. Now he and his aides are rushing to limit political damage as they point fingers and shift strategy in Minnesota.",
-    "link": "https://www.wsj.com/politics/policy/trump-and-his-team-have-a-well-worn-crisis-playbook-it-backfired-in-minnesota-c0849e4f"
+    "headline": "Democratic Sen. Amy Klobuchar of Minnesota announced she will run for state governor after Gov. Tim Walz said earlier this month that he would not seek a third term",
+    "link": "https://www.wsj.com/politics/elections/sen-amy-klobuchar-minnesota-governor-2ddc8ada"
   },
   {
-    "score": 103,
-    "pubdate": "2026-01-29-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "Fed Chair Jerome Powell’s decision on whether to remain on the central bank’s board after his chairmanship ends is the last and only card he holds against the Trump administration",
-    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-board-plan-b3d36a5e"
+    "score": 95,
+    "pubdate": "2026-01-30-06-12-07 +0000",
+    "source": "bbc",
+    "headline": "Trump threatens tariffs on Canada planes and nations selling oil to Cuba",
+    "link": "https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 94,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
     "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 90,
-    "pubdate": "2026-01-29-21-09-29 +0000",
-    "source": "wapo",
-    "headline": "Russia’s top diplomat rejects key part of deal to end war with Ukraine",
-    "link": "https://www.washingtonpost.com/world/2026/01/29/ukraine-russia-trump-zelensky-negotiations/"
   }
 ]
