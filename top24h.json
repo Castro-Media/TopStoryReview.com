@@ -1,38 +1,45 @@
 [
   {
-    "score": 190,
+    "score": 197,
     "pubdate": "2026-01-30-01-53-00 +0000",
     "source": "wsj",
     "headline": "President Trump and Senate Democrats said there is a deal to avert a partial government shutdown and temporarily fund the Department of Homeland Security, as negotiations on proposed restrictions to immigration enforcement will continue",
     "link": "https://www.wsj.com/politics/policy/white-house-and-democrats-pursue-deal-to-avert-shutdown-f2690cee"
   },
   {
-    "score": 98,
-    "pubdate": "2026-01-29-19-16-00 +0000",
-    "source": "wsj",
-    "headline": "The White House border czar who was dispatched to Minneapolis said the federal approach there hadn’t been perfect, and announced he was working on a plan to begin drawing down the federal presence",
-    "link": "https://www.wsj.com/politics/policy/administration-working-to-draw-down-immigration-officers-in-minneapolis-homan-says-887a6d46"
-  },
-  {
-    "score": 75,
+    "score": 95,
     "pubdate": "2026-01-29-13-31-00 +0000",
     "source": "wsj",
     "headline": "Democratic Sen. Amy Klobuchar of Minnesota announced she will run for state governor after Gov. Tim Walz said earlier this month that he would not seek a third term",
     "link": "https://www.wsj.com/politics/elections/sen-amy-klobuchar-minnesota-governor-2ddc8ada"
   },
   {
-    "score": 72,
+    "score": 84,
     "pubdate": "2026-01-29-12-00-01 +0000",
     "source": "startribune",
     "headline": "AI image of Alex Pretti’s killing is the latest altered photo amid ICE surge in Minneapolis",
     "link": "https://www.startribune.com/ai-image-of-alex-prettis-killing-is-the-latest-altered-photo-amid-ice-surge-in-minneapolis/601571325"
   },
   {
-    "score": 69,
+    "score": 72,
     "pubdate": "2026-01-30-01-28-14 +0000",
     "source": "nyt",
     "headline": "Maps: Where the U.S. Is Building Up Military Force Near Iran",
     "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-us-military-maps.html"
+  },
+  {
+    "score": 68,
+    "pubdate": "2026-01-29-18-45-03 +0000",
+    "source": "nypost",
+    "headline": "Starbucks CEO lays out long-term growth plan, aims to open thousands of new stores",
+    "link": "https://nypost.com/2026/01/29/business/starbucks-ceo-lays-out-long-term-growth-plan-aims-to-open-thousands-of-new-stores/"
+  },
+  {
+    "score": 64,
+    "pubdate": "2026-01-30-09-14-25 +0000",
+    "source": "bbc",
+    "headline": "Trump says 'very dangerous' for UK to do business with China as Starmer lands in Shanghai",
+    "link": "https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 62,
@@ -42,31 +49,24 @@
     "link": "https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
-    "pubdate": "2026-01-29-14-00-00 +0000",
-    "source": "latimes",
-    "headline": "San José Mayor Matt Mahan, a Newsom critic and political moderate, enters race for California governor",
-    "link": "https://www.latimes.com/california/story/2026-01-29/san-jose-mayor-matt-mahan-is-running-for-california-governor"
+    "score": 61,
+    "pubdate": "2026-01-30-04-50-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s advisers have been told that he is expected to nominate Kevin Warsh, a central bank insider-turned-critic, as Federal Reserve chair, according to people familiar with the matter",
+    "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9"
   },
   {
-    "score": 55,
+    "score": 59,
     "pubdate": "2026-01-29-12-20-47 +0000",
     "source": "bbc",
     "headline": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
     "link": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 58,
     "pubdate": "2026-01-30-03-20-20 +0000",
     "source": "nypost",
     "headline": "Trump and his eldest sons file $10B lawsuit against IRS, Treasury Department over leaked tax records",
     "link": "https://nypost.com/2026/01/29/us-news/trump-and-his-eldest-sons-file-10b-lawsuit-against-irs-treasury-departent-over-leaked-tax-records/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-01-29-18-45-03 +0000",
-    "source": "nypost",
-    "headline": "Starbucks CEO lays out long-term growth plan, aims to open thousands of new stores",
-    "link": "https://nypost.com/2026/01/29/business/starbucks-ceo-lays-out-long-term-growth-plan-aims-to-open-thousands-of-new-stores/"
   }
 ]
