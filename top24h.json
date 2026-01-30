@@ -1,13 +1,13 @@
 [
   {
-    "score": 244,
+    "score": 237,
     "pubdate": "2026-01-30-04-50-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s advisers have been told that he is expected to nominate Kevin Warsh, a central bank insider-turned-critic, as Federal Reserve chair, according to people familiar with the matter",
     "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9"
   },
   {
-    "score": 106,
+    "score": 105,
     "pubdate": "2026-01-30-01-53-00 +0000",
     "source": "wsj",
     "headline": "President Trump and Senate Democrats said there is a deal to avert a partial government shutdown and temporarily fund the Department of Homeland Security, as negotiations on proposed restrictions to immigration enforcement will continue",
@@ -35,25 +35,11 @@
     "link": "https://www.cbc.ca/news/politics/ndp-mp-says-block-canadian-business-dealings-with-ice-9.7067230?cmp=rss"
   },
   {
-    "score": 69,
-    "pubdate": "2026-01-29-13-31-00 +0000",
-    "source": "wsj",
-    "headline": "Democratic Sen. Amy Klobuchar of Minnesota announced she will run for state governor after Gov. Tim Walz said earlier this month that he would not seek a third term",
-    "link": "https://www.wsj.com/politics/elections/sen-amy-klobuchar-minnesota-governor-2ddc8ada"
-  },
-  {
-    "score": 64,
+    "score": 65,
     "pubdate": "2026-01-29-19-16-00 +0000",
     "source": "wsj",
     "headline": "The White House border czar who was dispatched to Minneapolis said the federal approach there hadn’t been perfect, and announced he was working on a plan to begin drawing down the federal presence",
     "link": "https://www.wsj.com/politics/policy/administration-working-to-draw-down-immigration-officers-in-minneapolis-homan-says-887a6d46"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-01-29-13-21-02 +0000",
-    "source": "nyt",
-    "headline": "Trump Warns Iran With Military Muscle, but Risks a Regional War",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html"
   },
   {
     "score": 62,
@@ -68,5 +54,19 @@
     "source": "bbc",
     "headline": "Trump threatens tariffs on Canada planes and nations selling oil to Cuba",
     "link": "https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-01-30-02-15-05 +0000",
+    "source": "nyt",
+    "headline": "European Union Labels Iran’s Revolutionary Guard a Terrorist Group",
+    "link": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-01-30-12-30-00 +0000",
+    "source": "wsj",
+    "headline": "Panama High Court Gives Trump a Win Over Canal by Ousting Hong Kong Port Operator",
+    "link": "https://www.wsj.com/business/logistics/panamas-high-court-rules-against-hong-kong-firm-running-canal-ports-714c23c8"
   }
 ]
