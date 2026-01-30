@@ -1,39 +1,231 @@
 [
   {
-    "headline": "Trump Threatens Canada Over Business Jet Dispute",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-canada-aircraft-decertify.html",
+    "headline": "The Secret Sauce in ‘Heated Rivalry’? Canada.",
+    "link": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
     "source": "nyt",
-    "pubdate": "2026-01-30-04-23-28 +0000"
+    "pubdate": "2026-01-30-05-56-37 +0000"
   },
   {
-    "headline": "Trump Threatens Canada Over Business Jet Dispute",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-canada-aircraft-decertify.html",
+    "headline": "The Secret Sauce in ‘Heated Rivalry’? Canada.",
+    "link": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
     "source": "nyt",
-    "pubdate": "2026-01-30-04-23-28 +0000"
+    "pubdate": "2026-01-30-05-56-37 +0000"
   },
   {
-    "headline": "Panama’s High Court Rules Against Hong Kong Firm Running Canal Ports",
+    "headline": "Santa Rosa city council endorses plan to let you wander downtown with drinks in hand",
+    "link": "https://nypost.com/2026/01/30/us-news/santa-rosa-city-council-endorses-plan-to-let-you-wander-downtown-with-drinks-in-hand/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-55-35 +0000"
+  },
+  {
+    "headline": "Florida beauty student Aileen Martinez killed in murder-suicide by ex-boyfriend in school parking lot",
+    "link": "https://nypost.com/2026/01/30/us-news/florida-beauty-student-aileen-martinez-killed-in-murder-suicide-by-ex-boyfriend-in-school-parking-lot/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-55-21 +0000"
+  },
+  {
+    "headline": "‘Frozen’ newborn calf snuggles with kids on Kentucky family couch to escape bone-chilling weather: photos",
+    "link": "https://nypost.com/2026/01/30/us-news/frozen-newborn-calf-snuggles-with-kids-on-kentucky-family-couch-amid-bone-chilling-weather-photos/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-50-44 +0000"
+  },
+  {
+    "headline": "Illegal immigrants caught blasting guns on packed highway, shooting at family in road-rage attack: cops",
+    "link": "https://nypost.com/2026/01/30/us-news/illegal-immigrants-caught-shooting-guns-on-packed-texas-highway-shot-at-family-in-road-rage-attack-cops/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-45-04 +0000"
+  },
+  {
+    "headline": "London Metal Exchange Resumes Trade After Technical Glitch",
+    "link": "https://www.wsj.com/finance/commodities-futures/london-metal-exchange-resumes-trade-after-technical-glitch-37c2db93?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-30-05-42-00 +0000"
+  },
+  {
+    "headline": "Shirley Raines, 58, Who Gave L.A.’s Homeless Food and Makeovers, Dies",
+    "link": "https://www.nytimes.com/2026/01/29/us/ms-shirley-raines-dead-skid-row.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-05-39-13 +0000"
+  },
+  {
+    "headline": "Groom accused of fatally shooting new bride’s stepfather at their Georgia wedding",
+    "link": "https://nypost.com/2026/01/30/us-news/groom-accused-of-fatally-shooting-new-brides-stepfather-at-their-georgia-wedding/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-35-07 +0000"
+  },
+  {
+    "headline": "JGBs Mostly Rise After Two-Year Auction’s Strong Outcome",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-tracking-price-gains-in-u-s-treasury-market-7c0e31e6?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-30-05-34-00 +0000"
+  },
+  {
+    "headline": "Tim Walz says he’s done with politics: ‘I will never run for office again’",
+    "link": "https://nypost.com/2026/01/30/us-news/minnesota-gov-tim-walz-says-hes-done-with-politics-after-dropping-2026-bid-for-third-term/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-24-48 +0000"
+  },
+  {
+    "headline": "Takeaways: Timberwolves thump NBA-best Thunder 123-111 for third victory in a row",
+    "link": "https://www.startribune.com/takeaways-timberwolves-thump-nba-best-thunder-123-111-for-third-victory-in-a-row/601549925",
+    "source": "startribune",
+    "pubdate": "2026-01-30-05-12-48 +0000"
+  },
+  {
+    "headline": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
+    "link": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-05-11-44 +0000"
+  },
+  {
+    "headline": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
+    "link": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-05-11-44 +0000"
+  },
+  {
+    "headline": "Panama Court Strikes Down Hong Kong Firm’s Canal Contract",
+    "link": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-05-11-44 +0000"
+  },
+  {
+    "headline": "Married real estate mogul offered subordinate multi-million dollar ‘indecent proposal’ to leave her husband for him: lawsuit",
+    "link": "https://nypost.com/2026/01/30/us-news/married-real-estate-mogul-offered-subordinate-multi-million-dollar-indecent-proposal-to-leave-her-husband-for-him-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-09-02 +0000"
+  },
+  {
+    "headline": "Dr. Oz accused L.A. Armenians of fraud in a viral video. Newsom files civil rights complaint",
+    "link": "https://www.latimes.com/california/story/2026-01-29/dr-oz-accused-la-armenians-of-fraud-newsom-files-civil-rights-complaint",
+    "source": "latimes",
+    "pubdate": "2026-01-30-05-08-49 +0000"
+  },
+  {
+    "headline": "Trump threatens tariffs on any country selling oil to Cuba, a move that puts pressure on Mexico",
+    "link": "https://nypost.com/2026/01/30/us-news/trump-threatens-tariffs-on-any-country-selling-oil-to-cuba/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-05-11 +0000"
+  },
+  {
+    "headline": "Trump Expected to Announce Kevin Warsh as Fed Chair",
+    "link": "https://www.nytimes.com/2026/01/29/business/trump-expected-to-announce-kevin-warsh-as-fed-chair.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-05-04-07 +0000"
+  },
+  {
+    "headline": "Dr. Oz vows to stop ‘predators’ at the core of California medical fraud",
+    "link": "https://nypost.com/2026/01/30/us-news/dr-oz-vows-to-stop-predators-at-the-core-of-california-medical-fraud/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-05-01-10 +0000"
+  },
+  {
+    "headline": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+    "link": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-05-01-04 +0000"
+  },
+  {
+    "headline": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+    "link": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-05-01-04 +0000"
+  },
+  {
+    "headline": "The world recoils at Trump’s ‘paramilitary’ force",
+    "link": "https://www.washingtonpost.com/world/2026/01/30/ice-olympics-backlash-gestapo-comparison/",
+    "source": "wapo",
+    "pubdate": "2026-01-30-05-00-04 +0000"
+  },
+  {
+    "headline": "Oklahoma mom’s body found stuffed in trash bin after adopted teen son allegedly killed her",
+    "link": "https://nypost.com/2026/01/29/us-news/oklahoma-moms-body-found-stuffed-in-trash-bin-after-adopted-teen-son-allegedly-killed-her/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-04-50-12 +0000"
+  },
+  {
+    "headline": "President Trump’s advisers have been told that he is expected to nominate Kevin Warsh, a central bank insider-turned-critic, as Federal Reserve chair, according to people familiar with the matter",
+    "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9",
+    "source": "wsj",
+    "pubdate": "2026-01-30-04-50-00 +0000"
+  },
+  {
+    "headline": "President Trump’s advisers have been told that he is expected to nominate Kevin Warsh, a central bank insider-turned-critic, as Federal Reserve chair, according to people familiar with the matter",
+    "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9",
+    "source": "wsj",
+    "pubdate": "2026-01-30-04-50-00 +0000"
+  },
+  {
+    "headline": "Cali girl hockey team’s van hits snowplow in Colorado, killing one player’s dad and injuring others",
+    "link": "https://nypost.com/2026/01/29/us-news/cali-girl-hockey-teams-van-hits-snowplow-in-colorado-killing-one-players-dad-and-injuring-others/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-04-49-14 +0000"
+  },
+  {
+    "headline": "80-year-old lottery winner sentenced for bankrolling $400M drug empire from cottage with son",
+    "link": "https://nypost.com/2026/01/29/world-news/80-year-old-lottery-winner-sentenced-for-bankrolling-400m-drug-empire-from-cottage-with-son/",
+    "source": "nypost",
+    "pubdate": "2026-01-30-04-48-36 +0000"
+  },
+  {
+    "headline": "Panama’s High Court Annuls CK Hutchison’s Canal Ports Contract",
     "link": "https://www.wsj.com/business/logistics/panamas-high-court-rules-against-hong-kong-firm-running-canal-ports-714c23c8",
     "source": "wsj",
-    "pubdate": "2026-01-30-04-19-00 +0000"
+    "pubdate": "2026-01-30-04-40-00 +0000"
   },
   {
-    "headline": "Panama’s High Court Rules Against Hong Kong Firm Running Canal Ports",
+    "headline": "Panama’s High Court Annuls CK Hutchison’s Canal Ports Contract",
     "link": "https://www.wsj.com/business/logistics/panamas-high-court-rules-against-hong-kong-firm-running-canal-ports-714c23c8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-01-30-04-19-00 +0000"
+    "pubdate": "2026-01-30-04-40-00 +0000"
   },
   {
-    "headline": "Democrats Reach Spending Deal With Trump, Seeking to Rein in ICE",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html",
+    "headline": "Democratic Governors Promise Accountability After Alex Pretti Killing",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
     "source": "nyt",
-    "pubdate": "2026-01-30-04-13-57 +0000"
+    "pubdate": "2026-01-30-04-34-27 +0000"
   },
   {
-    "headline": "Democrats Reach Spending Deal With Trump, Seeking to Rein in ICE",
+    "headline": "Democratic Governors Promise Accountability After Alex Pretti Killing",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-04-34-27 +0000"
+  },
+  {
+    "headline": "Democrats Reach Spending Deal With Trump, Seeking to Rein In ICE",
     "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html",
     "source": "nyt",
-    "pubdate": "2026-01-30-04-13-57 +0000"
+    "pubdate": "2026-01-30-04-30-56 +0000"
+  },
+  {
+    "headline": "Democrats Reach Spending Deal With Trump, Seeking to Rein In ICE",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-04-30-56 +0000"
+  },
+  {
+    "headline": "Trump says 'very dangerous' for UK to deal with China",
+    "link": "https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-30-04-27-39 +0000"
+  },
+  {
+    "headline": "Trump says 'very dangerous' for UK to deal with China",
+    "link": "https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-30-04-27-39 +0000"
+  },
+  {
+    "headline": "Trump Threatens Canada Over Business Jet Dispute",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-canada-aircraft-decertify.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-04-23-28 +0000"
+  },
+  {
+    "headline": "Trump Threatens Canada Over Business Jet Dispute",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-canada-aircraft-decertify.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-04-23-28 +0000"
   },
   {
     "headline": "Trump tightens screws on Cuba, threatening tariffs on oil suppliers",
@@ -60,12 +252,6 @@
     "pubdate": "2026-01-30-03-57-23 +0000"
   },
   {
-    "headline": "Takeaways: Wild’s early goals hold up in 4-1 victory over Flames",
-    "link": "https://www.startribune.com/takeaways-wilds-early-goals-hold-up-in-4-1-victory-over-flames/601549968",
-    "source": "startribune",
-    "pubdate": "2026-01-30-03-46-22 +0000"
-  },
-  {
     "headline": "Trump Sues I.R.S. Over Tax Data Leak, Demanding $10 Billion",
     "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-irs-lawsuit.html",
     "source": "nyt",
@@ -82,12 +268,6 @@
     "link": "https://nypost.com/2026/01/29/us-news/cops-search-for-missing-puppy-hurled-at-them-by-suspect/",
     "source": "nypost",
     "pubdate": "2026-01-30-03-30-31 +0000"
-  },
-  {
-    "headline": "London Metal Exchange Resumes Trade After Technical Glitch",
-    "link": "https://www.wsj.com/finance/commodities-futures/london-metal-exchange-resumes-trade-after-technical-glitch-37c2db93?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-30-03-29-00 +0000"
   },
   {
     "headline": "Border Patrol’s Greg Bovino heads west from Minnesota after reassignment",
@@ -228,12 +408,6 @@
     "pubdate": "2026-01-30-02-56-00 +0000"
   },
   {
-    "headline": "Timberwolves show they ‘Stand with Minnesota’ in call for unity across the state",
-    "link": "https://www.startribune.com/timberwolves-show-they-stand-with-minnesota-in-call-for-unity-across-the-state/601573466",
-    "source": "startribune",
-    "pubdate": "2026-01-30-02-55-25 +0000"
-  },
-  {
     "headline": "Map: Here are the S.F. businesses closed Friday for ‘ICE Out’ national strike",
     "link": "https://missionlocal.org/2026/01/sf-ice-out-strike-businesses/",
     "source": "missionlocal",
@@ -250,12 +424,6 @@
     "link": "https://www.nytimes.com/2026/01/29/us/brendan-banfield-double-murder-trial.html",
     "source": "nyt",
     "pubdate": "2026-01-30-02-45-50 +0000"
-  },
-  {
-    "headline": "Trump says 'very dangerous' for UK to deal with China",
-    "link": "https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-30-02-43-36 +0000"
   },
   {
     "headline": "Trump and his sons sue IRS and US Treasury over leaked tax information",
@@ -360,30 +528,6 @@
     "pubdate": "2026-01-30-02-07-57 +0000"
   },
   {
-    "headline": "President Trump said he would announce his nominee for Federal Reserve chair on Friday morning",
-    "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9",
-    "source": "wsj",
-    "pubdate": "2026-01-30-02-07-00 +0000"
-  },
-  {
-    "headline": "President Trump said he would announce his nominee for Federal Reserve chair on Friday morning",
-    "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9",
-    "source": "wsj",
-    "pubdate": "2026-01-30-02-07-00 +0000"
-  },
-  {
-    "headline": "San Jose mayor blasts Newsom’s obsession with ‘internet trolling’ over results",
-    "link": "https://nypost.com/2026/01/29/us-news/mayor-matt-mahan-takes-swipe-at-gov-gavin-newsoms-obsession-with-internet-trolling/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-02-03-28 +0000"
-  },
-  {
-    "headline": "Matt Mahan — the anti-Newsom — could have a path to California governor if he wins over independents",
-    "link": "https://nypost.com/2026/01/29/us-news/matt-mahan-could-have-path-to-cali-governor-practically-minded-moderate/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-02-03-21 +0000"
-  },
-  {
     "headline": "Matt Mahan — the anti-Newsom — could have a path to California governor if he wins over independents",
     "link": "https://nypost.com/2026/01/29/us-news/matt-mahan-could-have-path-to-cali-governor-practically-minded-moderate/",
     "source": "nypost",
@@ -438,18 +582,6 @@
     "pubdate": "2026-01-30-01-54-10 +0000"
   },
   {
-    "headline": "Trump, Chuck Schumer agree on government funding deal, but partial shutdown still in the cards",
-    "link": "https://nypost.com/2026/01/29/us-news/trump-schumer-agree-on-government-funding-deal-but-partial-shutdown-still-in-the-cards/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-01-54-10 +0000"
-  },
-  {
-    "headline": "Massapequa wrestling’s depth is key edge in battle for state title",
-    "link": "https://nypost.com/2026/01/29/sports/massapequa-wrestling-aiming-for-destiny-among-new-yorks-best/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-01-53-39 +0000"
-  },
-  {
     "headline": "President Trump and Senate Democrats said there is a deal to avert a partial government shutdown and temporarily fund the Department of Homeland Security, as negotiations on proposed restrictions to immigration enforcement will continue",
     "link": "https://www.wsj.com/politics/policy/white-house-and-democrats-pursue-deal-to-avert-shutdown-f2690cee",
     "source": "wsj",
@@ -490,18 +622,6 @@
     "link": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-30-01-47-25 +0000"
-  },
-  {
-    "headline": "NYC Council Speaker Julie Menin pitches 100-foot protest buffer zone for synagogues",
-    "link": "https://nypost.com/2026/01/29/us-news/nyc-council-speaker-julie-menin-pitches-100-foot-protest-buffer-zone-for-synagogues/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-01-43-48 +0000"
-  },
-  {
-    "headline": "GOP challenger Michael Henry drops NY attorney general bid to unseat Letitia James",
-    "link": "https://nypost.com/2026/01/29/us-news/gop-challenger-to-letitia-james-drops-ny-attorney-general-bid/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-01-40-47 +0000"
   },
   {
     "headline": "In Beijing, Starmer and Xi Seek a Way Around a Volatile U.S.",
@@ -582,12 +702,6 @@
     "pubdate": "2026-01-30-01-13-00 +0000"
   },
   {
-    "headline": "Lindenhurst’s Burmeister triple threat pushing to new heights in more ways than one",
-    "link": "https://nypost.com/2026/01/29/sports/lindenhursts-burmeister-triple-threat-pushing-to-new-heights/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-01-07-08 +0000"
-  },
-  {
     "headline": "Venezuelan MPs approve bill to open up oil sector to private firms",
     "link": "https://www.bbc.com/news/articles/cp80r4rdp3yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -598,24 +712,12 @@
     "link": "https://www.bbc.com/news/articles/cp80r4rdp3yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-30-00-59-49 +0000"
-  },
-  {
-    "headline": "$8M Brentwood home where Marilyn Monroe died underwent this drastic change, exclusive photos show",
-    "link": "https://nypost.com/2026/01/29/us-news/marilyn-monroes-former-home-underwent-major-change/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-00-54-36 +0000"
   },
   {
     "headline": "Washington Post Plans Cuts to Reshape Newsroom",
     "link": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
     "source": "nyt",
     "pubdate": "2026-01-30-00-54-15 +0000"
-  },
-  {
-    "headline": "Heart-pounding bodycam video shows fatal police shooting of blood-soaked, blade-wielding patient inside NYC hospital",
-    "link": "https://nypost.com/2026/01/29/us-news/chaotic-body-cam-shows-fatal-police-shooting-of-blade-wielding-patient-inside-nyc-hospital/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-00-48-41 +0000"
   },
   {
     "headline": "Trump Weighs New Military Options Against Iran",
@@ -678,12 +780,6 @@
     "pubdate": "2026-01-30-00-24-33 +0000"
   },
   {
-    "headline": "NYC judge rips cold case killer at sentencing for 1994 murders of mom, daughter – as lowlife whines he’ll die in prison",
-    "link": "https://nypost.com/2026/01/29/us-news/nyc-judge-rips-into-cold-case-killer-at-sentencing-for-1994-murders-while-lowlife-whines-hell-die-in-prison/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-00-21-42 +0000"
-  },
-  {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/01/29/us/minnesota-ice-shooting-minneapolis/heres-the-latest",
     "source": "nyt",
@@ -702,22 +798,10 @@
     "pubdate": "2026-01-30-00-16-50 +0000"
   },
   {
-    "headline": "JGB Futures Edge Higher, Tracking Price Gains in U.S. Treasury Market",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-tracking-price-gains-in-u-s-treasury-market-7c0e31e6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-30-00-14-00 +0000"
-  },
-  {
     "headline": "Trump rails against low-income housing in Pacific Palisades. But officials say no projects are planned",
     "link": "https://www.latimes.com/california/story/2026-01-29/trump-rails-against-low-income-housing-in-pacific-palisades-but-officials-say-no-projects-are-planned",
     "source": "latimes",
     "pubdate": "2026-01-30-00-12-17 +0000"
-  },
-  {
-    "headline": "Zohran Mamdani’s radical DSA group give astonishing anti-cop and ICE lecture to striking nurses",
-    "link": "https://nypost.com/2026/01/29/opinion/zohran-mamdanis-dsa-groups-anti-cop-and-ice-lecture-to-striking-nurses/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-00-10-31 +0000"
   },
   {
     "headline": "What Domestic Terrorism Means, and Doesn’t",
@@ -832,12 +916,6 @@
     "link": "https://www.cbc.ca/news/canada/livestory/heated-rivalry-hudson-williams-prime-minister-mark-carney-ottawa-9.7067322?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-29-23-45-33 +0000"
-  },
-  {
-    "headline": "Bruce Springsteen drops video for ‘Streets of Minneapolis’",
-    "link": "https://www.startribune.com/bruce-springsteen-drops-video-for-streets-of-minneapolis/601573341",
-    "source": "startribune",
-    "pubdate": "2026-01-29-23-45-00 +0000"
   },
   {
     "headline": "More than 20K criminal illegal migrants arrested since passage of Laken Riley Act: officials",
@@ -1332,18 +1410,6 @@
     "pubdate": "2026-01-29-21-09-29 +0000"
   },
   {
-    "headline": "Democratic Governors Promise Accountability After Alex Pretti Killing",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
-    "source": "nyt",
-    "pubdate": "2026-01-29-21-08-42 +0000"
-  },
-  {
-    "headline": "Democratic Governors Promise Accountability After Alex Pretti Killing",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
-    "source": "nyt",
-    "pubdate": "2026-01-29-21-08-42 +0000"
-  },
-  {
     "headline": "Heated Rivalry creators defend Canadian streaming law targeted by White House",
     "link": "https://www.cbc.ca/news/politics/heated-rivalry-online-streaming-act-9.7067108?cmp=rss",
     "source": "cbc",
@@ -1468,6 +1534,12 @@
     "link": "https://www.latimes.com/california/story/2026-01-29/how-immigration-enforcement-tactics-have-changed-in-los-angeles",
     "source": "latimes",
     "pubdate": "2026-01-29-20-18-22 +0000"
+  },
+  {
+    "headline": "Souhan: Despite leaving Twins broadcast booth, Dick Bremer still gets plenty of baseball",
+    "link": "https://www.startribune.com/minnesota-twins-dick-bremer-broadcaster-hall-of-fame-jim-souhan-column-erik-son/601571299",
+    "source": "startribune",
+    "pubdate": "2026-01-29-20-08-52 +0000"
   },
   {
     "headline": "Hegseth vows military ‘will be ready’ to take action against Iran",
@@ -1896,6 +1968,12 @@
     "pubdate": "2026-01-29-17-00-00 +0000"
   },
   {
+    "headline": "What CEOs Are—and Are Not—Saying About ICE and Minneapolis",
+    "link": "https://www.wsj.com/business/what-ceos-areand-are-notsaying-about-ice-and-minneapolis-8860151b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-29-17-00-00 +0000"
+  },
+  {
     "headline": "Waymo Robotaxi Hits Child Near Elementary School, Prompting NHTSA Investigation",
     "link": "https://www.wsj.com/business/autos/waymo-robotaxi-hits-child-near-elementary-school-prompting-nhtsa-investigation-efc1699d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1990,12 +2068,6 @@
     "link": "https://www.wsj.com/us-news/minneapolis-police-and-residents-forge-new-common-ground-during-ice-operation-dbff2104",
     "source": "wsj",
     "pubdate": "2026-01-29-16-16-00 +0000"
-  },
-  {
-    "headline": "Shirley Raines, Who Gave L.A.’s Homeless Food and Makeovers, Dies at 58",
-    "link": "https://www.nytimes.com/2026/01/29/us/ms-shirley-raines-dead-skid-row.html",
-    "source": "nyt",
-    "pubdate": "2026-01-29-16-12-43 +0000"
   },
   {
     "headline": "Tice's 'suck it up' message reignites Reform scandal",
@@ -2460,6 +2532,12 @@
     "pubdate": "2026-01-29-12-00-00 +0000"
   },
   {
+    "headline": "10 great dishes for under $10",
+    "link": "https://www.startribune.com/10-great-dishes-under-10/601565657",
+    "source": "startribune",
+    "pubdate": "2026-01-29-12-00-00 +0000"
+  },
+  {
     "headline": "Flights to northern Ethiopia cancelled as fears mount of renewed conflict",
     "link": "https://www.bbc.com/news/articles/cn40r3v770lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2532,8 +2610,26 @@
     "pubdate": "2026-01-29-11-03-00 +0000"
   },
   {
+    "headline": "Arellano: Trump says he wants to get rid of 'the worst of the worst.' Start with Stephen Miller",
+    "link": "https://www.latimes.com/california/story/2026-01-29/stephen-miller-worst-of-the-worst",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Alleged assassin for Mexican Mafia spent birthday stalking victim, detective testifies",
+    "link": "https://www.latimes.com/california/story/2026-01-29/mexican-mafia-assassin-stalked-victim-on-birthday-detective-testifies",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
     "headline": "Housing Tracker: Southern California home values drop in December",
     "link": "https://www.latimes.com/california/story/2026-01-29/housing-tracker-southern-california-home-values-drop-in-december",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
+    "headline": "LAPD would delete nearly 12 million body camera videos under proposed policy change",
+    "link": "https://www.latimes.com/california/story/2026-01-29/lapd-data-policy-body-camera-videos",
     "source": "latimes",
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
@@ -2550,32 +2646,14 @@
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
   {
-    "headline": "LAPD would delete nearly 12 million body camera videos under proposed policy change",
-    "link": "https://www.latimes.com/california/story/2026-01-29/lapd-data-policy-body-camera-videos",
-    "source": "latimes",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Trump says he wants to get rid of 'the worst of the worst.' Start with Stephen Miller",
-    "link": "https://www.latimes.com/california/story/2026-01-29/stephen-miller-worst-of-the-worst",
-    "source": "latimes",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
-    "headline": "Alleged assassin for Mexican Mafia spent birthday stalking victim, detective testifies",
-    "link": "https://www.latimes.com/california/story/2026-01-29/mexican-mafia-assassin-stalked-victim-on-birthday-detective-testifies",
+    "headline": "Hiltzik: Farewell to Peter Duesberg, a godfather of scientific disinformation",
+    "link": "https://www.latimes.com/business/story/2026-01-29/farewell-to-peter-duesberg-godfather-of-scientific-disinformation",
     "source": "latimes",
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
   {
     "headline": "Peet's Coffee is closing outlets in Southern California",
     "link": "https://www.latimes.com/business/story/2026-01-29/peets-coffee-is-closing-outlets-in-southern-california",
-    "source": "latimes",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: Farewell to Peter Duesberg, a godfather of scientific disinformation",
-    "link": "https://www.latimes.com/business/story/2026-01-29/farewell-to-peter-duesberg-godfather-of-scientific-disinformation",
     "source": "latimes",
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
@@ -2814,7 +2892,7 @@
     "pubdate": "2026-01-29-08-39-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Microsoft Leads Tech Selloff; Nasdaq Drops",
+    "headline": "Stock Market News for Jan. 29, 2026: Microsoft Leads Tech Selloff; Nasdaq Drops",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-29-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-01-29-08-36-09 +0000"
@@ -2896,35 +2974,5 @@
     "link": "https://www.bbc.com/news/videos/cz6y2580eeqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-29-06-08-27 +0000"
-  },
-  {
-    "headline": "Colombian politician Diógenes Quintero among 15 killed in plane crash",
-    "link": "https://nypost.com/2026/01/29/world-news/colombian-politician-diogenes-quintero-among-15-killed-in-satena-plane-crash/",
-    "source": "nypost",
-    "pubdate": "2026-01-29-05-58-06 +0000"
-  },
-  {
-    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-29-05-47-03 +0000"
-  },
-  {
-    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-29-05-47-03 +0000"
-  },
-  {
-    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-29-05-47-03 +0000"
-  },
-  {
-    "headline": "Canada’s New Reality",
-    "link": "https://www.nytimes.com/2026/01/28/world/canada-tariffs-trump-iran-threats.html",
-    "source": "nyt",
-    "pubdate": "2026-01-29-05-15-40 +0000"
   }
 ]
