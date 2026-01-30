@@ -1,290 +1,194 @@
 [
   {
-    "headline": "Saks Off 5th to close most stores following bankruptcy — as liquidation sales start Saturday",
-    "link": "https://nypost.com/2026/01/29/business/saks-off-5th-to-close-most-stores-liquidation-sales-start-saturday/",
+    "headline": "Did Trump Really Give Nicki Minaj a $1 Million ‘Gold Card’ Visa?",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-nicki-minaj-visa.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-01-13-00 +0000"
+  },
+  {
+    "headline": "Did Trump Really Give Nicki Minaj a $1 Million ‘Gold Card’ Visa?",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-nicki-minaj-visa.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-01-13-00 +0000"
+  },
+  {
+    "headline": "President Trump and Senate Democrats said there is a deal to avert a partial government shutdown and temporarily fund the Department of Homeland Security, as negotiations on proposed restrictions to immigration enforcement will continue",
+    "link": "https://www.wsj.com/politics/policy/white-house-and-democrats-pursue-deal-to-avert-shutdown-f2690cee",
+    "source": "wsj",
+    "pubdate": "2026-01-30-01-11-00 +0000"
+  },
+  {
+    "headline": "Lindenhurst’s Burmeister triple threat pushing to new heights in more ways than one",
+    "link": "https://nypost.com/2026/01/29/sports/lindenhursts-burmeister-triple-threat-pushing-to-new-heights/",
     "source": "nypost",
-    "pubdate": "2026-01-29-21-57-12 +0000"
-  },
-  {
-    "headline": "Saks to Close Most of Its Off 5th Discount Stores as Part of Bankruptcy",
-    "link": "https://www.wsj.com/business/retail/saks-to-close-most-of-its-off-5th-discount-stores-as-part-of-bankruptcy-461219a5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-56-00 +0000"
-  },
-  {
-    "headline": "Dispute over Jordan Chiles’ Olympic medal goes back to court",
-    "link": "https://nypost.com/2026/01/29/us-news/ucla-gymnast-jordan-chiles-appeal-granted-in-bronze-medal-battle/",
-    "source": "nypost",
-    "pubdate": "2026-01-29-21-55-16 +0000"
-  },
-  {
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-09e83b1c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-55-00 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8db6af2b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-55-00 +0000"
-  },
-  {
-    "headline": "NATO to Hold Military Exercise Without U.S., Its Largest Member",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
-    "source": "nyt",
-    "pubdate": "2026-01-29-21-54-01 +0000"
-  },
-  {
-    "headline": "NATO to Hold Military Exercise Without U.S., Its Largest Member",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
-    "source": "nyt",
-    "pubdate": "2026-01-29-21-54-01 +0000"
-  },
-  {
-    "headline": "NATO to Hold Military Exercise Without U.S., Its Largest Member",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
-    "source": "nyt",
-    "pubdate": "2026-01-29-21-54-01 +0000"
-  },
-  {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2ab14ec3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-53-00 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-e4c76ae5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-53-00 +0000"
-  },
-  {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2ab14ec3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-53-00 +0000"
-  },
-  {
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-266e243e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-52-00 +0000"
-  },
-  {
-    "headline": "Visa First-Quarter Sales Climbed on Strong Holiday Shopping",
-    "link": "https://www.wsj.com/business/retail/visa-first-quarter-sales-climb-on-strong-holiday-shopping-58c10846?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-51-00 +0000"
-  },
-  {
-    "headline": "Southwest Now Charges for Seats. Next Stop: Quadrupling Profit",
-    "link": "https://www.wsj.com/business/airlines/southwest-now-charges-for-seats-next-stop-quadrupling-profit-434c4607?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-50-00 +0000"
+    "pubdate": "2026-01-30-01-07-08 +0000"
   },
   {
     "headline": "Venezuelan MPs approve bill to open up oil sector to private firms",
     "link": "https://www.bbc.com/news/articles/cp80r4rdp3yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-29-21-48-37 +0000"
+    "pubdate": "2026-01-30-00-59-49 +0000"
   },
   {
-    "headline": "Western Digital Second-Quarter Profit Rises as AI Boosts Demand",
-    "link": "https://www.wsj.com/business/earnings/western-digital-second-quarter-profit-rises-as-ai-boosts-demand-2aed4290?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-47-00 +0000"
+    "headline": "Venezuelan MPs approve bill to open up oil sector to private firms",
+    "link": "https://www.bbc.com/news/articles/cp80r4rdp3yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-30-00-59-49 +0000"
   },
   {
-    "headline": "Tokyo’s Famous Pizza Studio Tamaki Prepares Its NYC Debut",
-    "link": "https://www.nytimes.com/2026/01/29/dining/tokyo-pizza-studio-tamaki-nyc-opening.html",
+    "headline": "Michael Beck, 65, Dies; First to Report Symptoms of ‘Havana Syndrome’",
+    "link": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-46-29 +0000"
+    "pubdate": "2026-01-30-00-54-49 +0000"
   },
   {
-    "headline": "A Global Pop Music Melting Pot",
-    "link": "https://www.nytimes.com/2026/01/29/world/bad-bunny-grammys-pop-britain-china.html",
+    "headline": "Michael Beck, 65, Dies; First to Report Symptoms of ‘Havana Syndrome’",
+    "link": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-44-37 +0000"
+    "pubdate": "2026-01-30-00-54-49 +0000"
   },
   {
-    "headline": "Nicki Minaj, dreamer no more? After Trump event, rapper says citizenship paperwork being finalized",
-    "link": "https://www.latimes.com/entertainment-arts/story/2026-01-29/nicki-minaj-trump-accounts-citizenship-gold-card",
-    "source": "latimes",
-    "pubdate": "2026-01-29-21-44-30 +0000"
-  },
-  {
-    "headline": "Ray Kappe's Modernist masterpiece asks $11.5 million in Pacific Palisades",
-    "link": "https://www.latimes.com/california/story/2026-01-29/ray-kappes-modernist-masterpiece-asks-11-5-million-in-pacific-palisades",
-    "source": "latimes",
-    "pubdate": "2026-01-29-21-44-19 +0000"
-  },
-  {
-    "headline": "NYC homeless crisis lands on Mamdani’s doorstep after 10 found dead during Arctic deep freeze",
-    "link": "https://nypost.com/2026/01/29/us-news/nyc-homeless-crisis-lands-on-mamdanis-doorstep-after-10-found-dead-during-arctic-deep-freeze/",
+    "headline": "$8M Brentwood home where Marilyn Monroe died underwent this drastic change, exclusive photos show",
+    "link": "https://nypost.com/2026/01/29/us-news/marilyn-monroes-former-home-underwent-major-change/",
     "source": "nypost",
-    "pubdate": "2026-01-29-21-44-12 +0000"
+    "pubdate": "2026-01-30-00-54-36 +0000"
   },
   {
-    "headline": "Mary Moriarty, voicing doubt in DOJ prosecution, also charges man who sprayed vinegar on Ilhan Omar",
-    "link": "https://www.startribune.com/minneapolis-police-say-fbi-has-taken-over-lead-in-investigating-ilhan-omar-being-sprayed-with-liquid/601572438",
-    "source": "startribune",
-    "pubdate": "2026-01-29-21-41-51 +0000"
+    "headline": "Washington Post Plans Cuts to Reshape Newsroom",
+    "link": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-00-54-15 +0000"
   },
   {
-    "headline": "Deckers Sales Rise on Demand for Hoka",
-    "link": "https://www.wsj.com/business/retail/deckers-sales-rise-on-demand-for-hoka-d76f6e03?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-01-29-21-39-00 +0000"
-  },
-  {
-    "headline": "LA mayoral hopeful Spencer Pratt trolls Karen Bass with new poll showing her plummeting popularity",
-    "link": "https://nypost.com/2026/01/29/us-news/spencer-pratt-trolls-la-mayor-karen-bass-with-new-poll/",
+    "headline": "Heart-pounding bodycam video shows fatal police shooting of blood-soaked, blade-wielding patient inside NYC hospital",
+    "link": "https://nypost.com/2026/01/29/us-news/chaotic-body-cam-shows-fatal-police-shooting-of-blade-wielding-patient-inside-nyc-hospital/",
     "source": "nypost",
-    "pubdate": "2026-01-29-21-36-46 +0000"
+    "pubdate": "2026-01-30-00-48-41 +0000"
   },
   {
-    "headline": "Commercial Airspace Over Venezuela to Reopen, Trump Says",
+    "headline": "Trump Weighs New Military Options Against Iran",
+    "link": "https://www.nytimes.com/2026/01/29/us/trump-military-options-against-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-00-48-14 +0000"
+  },
+  {
+    "headline": "Trump Orders Reopening of Venezuela Airspace, Eases Oil Sanctions",
     "link": "https://www.wsj.com/world/americas/commercial-airspace-over-venezuela-to-reopen-trump-says-d4677767",
     "source": "wsj",
-    "pubdate": "2026-01-29-21-36-00 +0000"
+    "pubdate": "2026-01-30-00-46-00 +0000"
   },
   {
-    "headline": "'Respect Canadian sovereignty', Carney tells US officials after they meet Alberta separatists",
-    "link": "https://www.bbc.com/news/articles/cr57j780pgmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-29-21-32-39 +0000"
-  },
-  {
-    "headline": "Sandisk Profit, Revenue Jump on AI Demand",
-    "link": "https://www.wsj.com/business/earnings/sandisk-profit-revenue-jump-on-ai-demand-2bc8908a?mod=pls_whats_news_us_business_f",
+    "headline": "Chinalco, Rio Tinto to Buy Controlling Stake in Companhia Brasileira De Aluminio",
+    "link": "https://www.wsj.com/business/chinalco-rio-tinto-to-buy-controlling-stake-in-companhia-brasileira-de-aluminio-b1592515?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-01-29-21-30-00 +0000"
+    "pubdate": "2026-01-30-00-45-00 +0000"
   },
   {
-    "headline": "Justin and Hailey  Bieber spotted at their favorite Beverly Hills church ahead of Grammy performance",
-    "link": "https://nypost.com/2026/01/29/us-news/justin-and-hailey-bieber-arrive-at-churchome-before-grammys/",
-    "source": "nypost",
-    "pubdate": "2026-01-29-21-29-04 +0000"
+    "headline": "Brendan Banfield Denies Plot in Double Murder Trial, Calling Accusations ‘Crazy’",
+    "link": "https://www.nytimes.com/2026/01/29/us/brendan-banfield-double-murder-trial.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-00-44-40 +0000"
+  },
+  {
+    "headline": "President Trump said he would announce his nominee for Federal Reserve chair on Friday morning",
+    "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9",
+    "source": "wsj",
+    "pubdate": "2026-01-30-00-41-00 +0000"
   },
   {
     "headline": "Patrick Schiltz, an Ethicist, Is the Minnesota Judge Blasting ICE",
     "link": "https://www.nytimes.com/2026/01/29/us/politics/minnesota-judge-patrick-schiltz.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-27-50 +0000"
+    "pubdate": "2026-01-30-00-40-33 +0000"
   },
   {
     "headline": "Patrick Schiltz, an Ethicist, Is the Minnesota Judge Blasting ICE",
     "link": "https://www.nytimes.com/2026/01/29/us/politics/minnesota-judge-patrick-schiltz.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-27-50 +0000"
+    "pubdate": "2026-01-30-00-40-33 +0000"
   },
   {
-    "headline": "Hiker makes grisly discovery in mysterious disappearance of backpacker on Australian island of Tasmania",
-    "link": "https://nypost.com/2026/01/29/world-news/remains-found-in-search-of-missing-backpacker-celine-cremer-in-australia/",
-    "source": "nypost",
-    "pubdate": "2026-01-29-21-22-15 +0000"
-  },
-  {
-    "headline": "German, South Korean firms scramble to outbid each other on benefits of submarine deal",
-    "link": "https://www.cbc.ca/news/politics/canada-submarines-germany-korea-automotive-economy-jobs-9.7066957?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-29-21-21-36 +0000"
-  },
-  {
-    "headline": "Trump says Putin will not attack Ukraine cities during cold week",
-    "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-29-21-21-35 +0000"
-  },
-  {
-    "headline": "Trump says Putin will not attack Ukraine cities during cold week",
-    "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-01-29-21-21-35 +0000"
-  },
-  {
-    "headline": "Educator Who Read ‘I Need a New Butt!’ to Students Wins Job Back in Court",
-    "link": "https://www.nytimes.com/2026/01/29/us/new-butt-book-appeal.html",
+    "headline": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
+    "link": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-19-31 +0000"
+    "pubdate": "2026-01-30-00-36-19 +0000"
   },
   {
-    "headline": "NYC Correction officer busted with stash of weapons in car – including assault rifle,  shotgun and machete: DA",
-    "link": "https://nypost.com/2026/01/29/us-news/nyc-correction-officer-busted-with-stash-of-weapons-in-car-da/",
-    "source": "nypost",
-    "pubdate": "2026-01-29-21-18-15 +0000"
+    "headline": "The Journey of a Group of Cuban Deportees Stuck at Guantánamo",
+    "link": "https://www.nytimes.com/2026/01/28/us/politics/cubans-gitmo-deportations.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-00-36-19 +0000"
   },
   {
-    "headline": "Carney Calls on White House to Respect Canadian Sovereignty Over Alberta",
-    "link": "https://www.wsj.com/world/americas/carney-calls-on-white-house-to-respect-canadian-sovereignty-over-alberta-a767be5f",
+    "headline": "Asian Currencies Consolidate; Ongoing U. S-Iran Tensions May Weigh",
+    "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-ongoing-u-s-iran-tensions-may-weigh-536f96e9?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-01-29-21-18-00 +0000"
+    "pubdate": "2026-01-30-00-32-00 +0000"
   },
   {
-    "headline": "Stocks Slip as Gold, Silver Hit New Records",
-    "link": "https://www.wsj.com/finance/global-markets-u-s-futures-gain-as-precious-metals-rally-further-7824c961?mod=rss_markets_main",
+    "headline": "Trump Threatens to Ground Canadian Aircraft and Apply Tariffs to Imports",
+    "link": "https://www.wsj.com/world/americas/trump-threatens-to-ground-canadian-aircraft-and-apply-tariffs-to-imports-ebdce86e",
     "source": "wsj",
-    "pubdate": "2026-01-29-21-15-00 +0000"
+    "pubdate": "2026-01-30-00-29-00 +0000"
   },
   {
-    "headline": "Rudy Giuliani trashes Mamdani’s NYC homeless policy after 10 found dead during blistering cold: ‘Reckless disregard for human life’",
-    "link": "https://nypost.com/2026/01/29/us-news/rudy-giuliani-schools-zohran-mamdani-on-homeless-policy-after-10-people-found-dead-in-nyc-deep-freeze/",
-    "source": "nypost",
-    "pubdate": "2026-01-29-21-11-32 +0000"
-  },
-  {
-    "headline": "Canada Signs Auto Deal With South Korea, Moving Further from the U.S.",
-    "link": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
+    "headline": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-10-36 +0000"
+    "pubdate": "2026-01-30-00-25-42 +0000"
   },
   {
-    "headline": "Canada Signs Auto Deal With South Korea, Moving Further from the U.S.",
-    "link": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
+    "headline": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-10-36 +0000"
+    "pubdate": "2026-01-30-00-25-42 +0000"
   },
   {
-    "headline": "L.A. parent of Johnny Rockets, Fatburger and Round Table files for bankruptcy",
-    "link": "https://www.latimes.com/business/story/2026-01-29/la-parent-of-johnny-rockets-fatburger-round-table-files-for-bankruptcy",
-    "source": "latimes",
-    "pubdate": "2026-01-29-21-10-23 +0000"
-  },
-  {
-    "headline": "Russia’s top diplomat rejects key part of deal to end war with Ukraine",
-    "link": "https://www.washingtonpost.com/world/2026/01/29/ukraine-russia-trump-zelensky-negotiations/",
-    "source": "wapo",
-    "pubdate": "2026-01-29-21-09-29 +0000"
-  },
-  {
-    "headline": "Democratic Governors Promise Accountability After Alex Pretti Killing",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
+    "headline": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-08-42 +0000"
+    "pubdate": "2026-01-30-00-25-42 +0000"
   },
   {
-    "headline": "Democratic Governors Promise Accountability After Alex Pretti Killing",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/democrats-governors-trump-minneapolis.html",
+    "headline": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
     "source": "nyt",
-    "pubdate": "2026-01-29-21-08-42 +0000"
+    "pubdate": "2026-01-30-00-25-42 +0000"
   },
   {
-    "headline": "Heated Rivalry creators defend Canadian streaming law targeted by White House",
-    "link": "https://www.cbc.ca/news/politics/heated-rivalry-online-streaming-act-9.7067108?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-01-29-21-08-17 +0000"
-  },
-  {
-    "headline": "Border tsar Homan promises a 'draw down' of forces in Minneapolis",
-    "link": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+    "headline": "Apple reports best-ever iPhone sales as Mac dips",
+    "link": "https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-29-21-06-54 +0000"
+    "pubdate": "2026-01-30-00-24-33 +0000"
   },
   {
-    "headline": "School counselor found dead after allegedly sending flirty texts to 14-year-old former student",
-    "link": "https://nypost.com/2026/01/29/us-news/school-counselor-found-dead-after-allegedly-sending-flirty-texts-to-teen/",
+    "headline": "Trump threatens tariffs for countries that sell oil to Cuba",
+    "link": "https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-30-00-22-34 +0000"
+  },
+  {
+    "headline": "Trump threatens tariffs for countries that sell oil to Cuba",
+    "link": "https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-30-00-22-34 +0000"
+  },
+  {
+    "headline": "NYC judge rips cold case killer at sentencing for 1994 murders of mom, daughter – as lowlife whines he’ll die in prison",
+    "link": "https://nypost.com/2026/01/29/us-news/nyc-judge-rips-into-cold-case-killer-at-sentencing-for-1994-murders-while-lowlife-whines-hell-die-in-prison/",
     "source": "nypost",
-    "pubdate": "2026-01-29-20-59-26 +0000"
+    "pubdate": "2026-01-30-00-21-42 +0000"
+  },
+  {
+    "headline": "State, federal prosecutors charge man accused of spraying Ilhan Omar with vinegar",
+    "link": "https://www.startribune.com/minneapolis-police-say-fbi-has-taken-over-lead-in-investigating-ilhan-omar-being-sprayed-with-liquid/601572438",
+    "source": "startribune",
+    "pubdate": "2026-01-30-00-20-49 +0000"
+  },
+  {
+    "headline": "Video Shows Bovino’s Orders to Immigration Agents in L.A. Raids",
+    "link": "https://www.nytimes.com/2026/01/29/us/bovino-orders-video.html",
+    "source": "nyt",
+    "pubdate": "2026-01-30-00-20-37 +0000"
   }
 ]
