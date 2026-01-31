@@ -1,10 +1,10 @@
 [
   {
-    "score": 255,
-    "pubdate": "2026-01-30-04-50-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s advisers have been told that he is expected to nominate Kevin Warsh, a central bank insider-turned-critic, as Federal Reserve chair, according to people familiar with the matter",
-    "link": "https://www.wsj.com/economy/central-banking/trump-to-announce-fed-chair-pick-on-friday-11d4b8c9"
+    "score": 248,
+    "pubdate": "2026-01-30-11-18-12 +0000",
+    "source": "cbc",
+    "headline": "Trump names former Fed official turned critic Kevin Warsh as his pick for next chair",
+    "link": "https://www.cbc.ca/news/world/trump-federal-reserve-announcement-9.7067718?cmp=rss"
   },
   {
     "score": 115,
@@ -14,11 +14,11 @@
     "link": "https://www.wsj.com/politics/policy/hochul-seeks-to-end-new-york-law-enforcement-agreements-with-ice-97ab31bb"
   },
   {
-    "score": 105,
-    "pubdate": "2026-01-30-19-56-00 +0000",
-    "source": "wsj",
-    "headline": "Kevin Warsh’s nomination to lead the Federal Reserve marks a triumphant return to the central bank for a former Fed official who has long angled for the Fed’s top job",
-    "link": "https://www.wsj.com/economy/central-banking/who-is-kevin-warsh-trumps-fed-chair-pick-a77dc602"
+    "score": 98,
+    "pubdate": "2026-01-30-13-51-49 +0000",
+    "source": "bbc",
+    "headline": "China lifts sanctions on MPs and peers, as Starmer says he hopes Xi will visit UK",
+    "link": "https://www.bbc.com/news/articles/clyel3z9xxno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 98,
@@ -26,13 +26,6 @@
     "source": "wsj",
     "headline": "With hours to go before a partial government shutdown, the Senate passed a deal to fully fund most of the government, while creating a negotiations window for changes on immigration enforcement",
     "link": "https://www.wsj.com/politics/policy/senate-set-to-vote-on-deal-ahead-of-partial-government-shutdown-7bc3968b"
-  },
-  {
-    "score": 83,
-    "pubdate": "2026-01-30-13-51-49 +0000",
-    "source": "bbc",
-    "headline": "China lifts sanctions on MPs and peers, as Starmer says he hopes Xi will visit UK",
-    "link": "https://www.bbc.com/news/articles/clyel3z9xxno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 73,
@@ -49,24 +42,31 @@
     "link": "https://nypost.com/2026/01/30/us-news/andrew-mountbatten-windsor-appears-to-be-crouching-over-woman-in-creepy-photos-from-dojs-latest-epstein-files-dump/"
   },
   {
+    "score": 61,
+    "pubdate": "2026-01-30-14-07-00 +0000",
+    "source": "wsj",
+    "headline": "Trump is fast approaching a decision on whether to agree to a Russian proposal to extend limits on long-range nuclear weapons for another year or do nothing when the treaty expires",
+    "link": "https://www.wsj.com/politics/national-security/trump-faces-high-stakes-choice-as-final-nuclear-pact-with-russia-expires-6dedebb1"
+  },
+  {
     "score": 59,
     "pubdate": "2026-01-30-12-30-00 +0000",
     "source": "wsj",
     "headline": "Panama High Court Gives Trump a Win Over Canal by Ousting Hong Kong Port Operator",
-    "link": "https://www.wsj.com/business/logistics/panamas-high-court-rules-against-hong-kong-firm-running-canal-ports-714c23c8"
+    "link": "https://www.wsj.com/business/logistics/panamas-high-court-rules-against-hong-kong-firm-running-canal-ports-714c23c8?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 58,
+    "score": 54,
     "pubdate": "2026-01-30-14-59-56 +0000",
     "source": "bbc",
     "headline": "Trump tells Iran to drop nuclear aims and stop killing protesters to avoid military action",
     "link": "https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
-    "pubdate": "2026-01-30-23-12-35 +0000",
-    "source": "nypost",
-    "headline": "Disney CEO Bob Iger plans to step down before contract expires at end of year: report",
-    "link": "https://nypost.com/2026/01/30/business/disney-ceo-bob-iger-plans-to-step-down-before-contract-expires-at-end-of-year-report/"
+    "score": 53,
+    "pubdate": "2026-01-30-19-56-00 +0000",
+    "source": "wsj",
+    "headline": "Kevin Warsh’s nomination to lead the Federal Reserve marks a triumphant return to the central bank for a former Fed official who has long angled for the Fed’s top job",
+    "link": "https://www.wsj.com/economy/central-banking/who-is-kevin-warsh-trumps-fed-chair-pick-a77dc602"
   }
 ]
