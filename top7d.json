@@ -1,69 +1,69 @@
 [
   {
-    "score": 389,
-    "pubdate": "2026-01-29-05-47-03 +0000",
-    "source": "bbc",
-    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 229,
-    "pubdate": "2026-01-30-19-56-00 +0000",
-    "source": "wsj",
-    "headline": "Kevin Warsh’s nomination to lead the Federal Reserve marks a triumphant return to the central bank for a former Fed official who has long angled for the Fed’s top job",
-    "link": "https://www.wsj.com/economy/central-banking/who-is-kevin-warsh-trumps-fed-chair-pick-a77dc602"
-  },
-  {
-    "score": 205,
-    "pubdate": "2026-01-27-13-22-00 +0000",
-    "source": "wsj",
-    "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
-    "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
-  },
-  {
-    "score": 159,
-    "pubdate": "2026-01-29-19-16-00 +0000",
-    "source": "wsj",
-    "headline": "The White House border czar who was dispatched to Minneapolis said the federal approach there hadn’t been perfect, and announced he was working on a plan to begin drawing down the federal presence",
-    "link": "https://www.wsj.com/politics/policy/administration-working-to-draw-down-immigration-officers-in-minneapolis-homan-says-887a6d46"
-  },
-  {
-    "score": 147,
-    "pubdate": "2026-01-30-17-44-59 +0000",
-    "source": "bbc",
-    "headline": "Former CNN host Don Lemon arrested after anti-ICE protest at Minnesota church",
-    "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 129,
-    "pubdate": "2026-01-29-14-00-00 +0000",
-    "source": "latimes",
-    "headline": "San José Mayor Matt Mahan, a Newsom critic and political moderate, enters race for California governor",
-    "link": "https://www.latimes.com/california/story/2026-01-29/san-jose-mayor-matt-mahan-is-running-for-california-governor"
-  },
-  {
-    "score": 124,
+    "score": 408,
     "pubdate": "2026-01-30-01-53-00 +0000",
     "source": "wsj",
     "headline": "President Trump and Senate Democrats said there is a deal to avert a partial government shutdown and temporarily fund the Department of Homeland Security, as negotiations on proposed restrictions to immigration enforcement will continue",
     "link": "https://www.wsj.com/politics/policy/white-house-and-democrats-pursue-deal-to-avert-shutdown-f2690cee"
   },
   {
-    "score": 110,
+    "score": 238,
+    "pubdate": "2026-01-30-19-56-00 +0000",
+    "source": "wsj",
+    "headline": "Kevin Warsh’s nomination to lead the Federal Reserve marks a triumphant return to the central bank for a former Fed official who has long angled for the Fed’s top job",
+    "link": "https://www.wsj.com/economy/central-banking/who-is-kevin-warsh-trumps-fed-chair-pick-a77dc602"
+  },
+  {
+    "score": 170,
+    "pubdate": "2026-01-30-22-45-00 +0000",
+    "source": "wsj",
+    "headline": "New York Gov. Kathy Hochul has proposed new legislation prohibiting law enforcement from being deputized by ICE for federal civil immigration operations",
+    "link": "https://www.wsj.com/politics/policy/hochul-seeks-to-end-new-york-law-enforcement-agreements-with-ice-97ab31bb"
+  },
+  {
+    "score": 165,
+    "pubdate": "2026-01-29-05-47-03 +0000",
+    "source": "bbc",
+    "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
+    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 153,
+    "pubdate": "2026-01-29-19-16-00 +0000",
+    "source": "wsj",
+    "headline": "The White House border czar who was dispatched to Minneapolis said the federal approach there hadn’t been perfect, and announced he was working on a plan to begin drawing down the federal presence",
+    "link": "https://www.wsj.com/politics/policy/administration-working-to-draw-down-immigration-officers-in-minneapolis-homan-says-887a6d46"
+  },
+  {
+    "score": 130,
+    "pubdate": "2026-01-29-14-00-00 +0000",
+    "source": "latimes",
+    "headline": "San José Mayor Matt Mahan, a Newsom critic and political moderate, enters race for California governor",
+    "link": "https://www.latimes.com/california/story/2026-01-29/san-jose-mayor-matt-mahan-is-running-for-california-governor"
+  },
+  {
+    "score": 122,
+    "pubdate": "2026-01-27-13-22-00 +0000",
+    "source": "wsj",
+    "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
+    "link": "https://www.wsj.com/economy/trade/eu-and-india-reach-free-trade-deal-as-world-responds-to-trump-tariffs-bbbdb8d2"
+  },
+  {
+    "score": 118,
     "pubdate": "2026-01-30-08-23-12 +0000",
     "source": "bbc",
     "headline": "Healthcare, visas and whisky: What did UK and China get from Starmer's visit?",
     "link": "https://www.bbc.com/news/articles/cm2j04lk83zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 93,
-    "pubdate": "2026-01-29-23-45-33 +0000",
-    "source": "cbc",
-    "headline": "Prime minister meets Heated Rivalry stars, pays tribute to hit show 'that could only be made in Canada'",
-    "link": "https://www.cbc.ca/news/canada/livestory/heated-rivalry-hudson-williams-prime-minister-mark-carney-ottawa-9.7067322?cmp=rss"
+    "score": 110,
+    "pubdate": "2026-01-30-21-41-48 +0000",
+    "source": "bbc",
+    "headline": "Former CNN host Don Lemon faces charges after anti-ICE protest at Minnesota church",
+    "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 93,
+    "score": 97,
     "pubdate": "2026-01-30-19-18-00 +0000",
     "source": "wsj",
     "headline": "“I think they will see day-to-day what my life is about, how intense the schedule is, what you need to take care of, and I think they will enjoy it,” Melania Trump said Thursday at her film’s Kennedy Center premiere. “It’s very cinematic.”",
