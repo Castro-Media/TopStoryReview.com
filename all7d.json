@@ -1,5 +1,101 @@
 [
   {
+    "headline": "The Senate passed a bipartisan deal Friday to fully fund most of the federal government, but congressional action came too late to head off a partial government shutdown that started Saturday morning",
+    "link": "https://www.wsj.com/politics/policy/senate-set-to-vote-on-deal-ahead-of-partial-government-shutdown-7bc3968b",
+    "source": "wsj",
+    "pubdate": "2026-01-31-05-07-00 +0000"
+  },
+  {
+    "headline": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
+    "link": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
+    "source": "nyt",
+    "pubdate": "2026-01-31-05-01-07 +0000"
+  },
+  {
+    "headline": "How Europe Is Moving to Reduce Dependence on Trump",
+    "link": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
+    "source": "nyt",
+    "pubdate": "2026-01-31-05-01-07 +0000"
+  },
+  {
+    "headline": "How Europe Is Moving to Reduce Dependence on Trump",
+    "link": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
+    "source": "nyt",
+    "pubdate": "2026-01-31-05-01-07 +0000"
+  },
+  {
+    "headline": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
+    "link": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
+    "source": "nyt",
+    "pubdate": "2026-01-31-05-01-07 +0000"
+  },
+  {
+    "headline": "Q&A: How does a partial government shutdown work?",
+    "link": "https://www.wsj.com/politics/policy/what-to-expect-in-a-partial-government-shutdown-d5f7a7b6",
+    "source": "wsj",
+    "pubdate": "2026-01-31-05-01-00 +0000"
+  },
+  {
+    "headline": "NYPD on hunt for sicko accused of raping 14-year-old girl in Manhattan building",
+    "link": "https://nypost.com/2026/01/30/us-news/nypd-on-hunt-for-sicko-accused-of-raping-14-year-old-girl-in-nyc/",
+    "source": "nypost",
+    "pubdate": "2026-01-31-04-49-49 +0000"
+  },
+  {
+    "headline": "Cardozo’s Ron Naclerio wins 973rd game to set New York state high school basketball record",
+    "link": "https://nypost.com/2026/01/30/sports/cardozo-head-coach-ron-naclerio-wins-973rd-game-to-set-new-york-record/",
+    "source": "nypost",
+    "pubdate": "2026-01-31-04-45-59 +0000"
+  },
+  {
+    "headline": "Giants owner Steve Tisch admits to emailing Epstein about ‘adult women,’ but insists he never accepted ‘any of his invitations’",
+    "link": "https://nypost.com/2026/01/30/us-news/giants-owner-steve-tisch-admits-to-emailing-epstein-about-adult-women-but-insists-he-never-accepted-any-of-his-invitations/",
+    "source": "nypost",
+    "pubdate": "2026-01-31-04-39-30 +0000"
+  },
+  {
+    "headline": "No. 3 Gophers women’s hockey beats top-ranked Wisconsin 3-2 in overtime",
+    "link": "https://www.startribune.com/no-3-gophers-womens-hockey-beats-top-ranked-wisconsin-3-2-in-overtime/601574433",
+    "source": "startribune",
+    "pubdate": "2026-01-31-04-39-28 +0000"
+  },
+  {
+    "headline": "What We Know So Far About the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-01-31-04-36-00 +0000"
+  },
+  {
+    "headline": "What We Know So Far About the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-01-31-04-36-00 +0000"
+  },
+  {
+    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-01-31-04-36-00 +0000"
+  },
+  {
+    "headline": "St. Paul Police Department denies data requests about confrontation with protesters",
+    "link": "https://www.startribune.com/st-paul-police-ice-protest-body-camera-chemicals-data-request-denied-investigation/601574402",
+    "source": "startribune",
+    "pubdate": "2026-01-31-04-34-35 +0000"
+  },
+  {
+    "headline": "US cities hold anti-ICE protests during nationwide day of action",
+    "link": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-01-31-04-27-58 +0000"
+  },
+  {
+    "headline": "U.S. approves more than $15 billion in arms sales to Israel and Saudi Arabia",
+    "link": "https://www.washingtonpost.com/world/2026/01/30/us-israel-arms-sales-saudi-arabia/",
+    "source": "wapo",
+    "pubdate": "2026-01-31-04-25-49 +0000"
+  },
+  {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/2026/01/30/us/heres-the-latest.html",
     "source": "nyt",
@@ -222,12 +318,6 @@
     "pubdate": "2026-01-31-02-44-17 +0000"
   },
   {
-    "headline": "With hours to go before a partial government shutdown, the Senate passed a deal to fully fund most of the government, while creating a negotiations window for changes on immigration enforcement",
-    "link": "https://www.wsj.com/politics/policy/senate-set-to-vote-on-deal-ahead-of-partial-government-shutdown-7bc3968b",
-    "source": "wsj",
-    "pubdate": "2026-01-31-02-39-00 +0000"
-  },
-  {
     "headline": "Families warned not to drink tap water as concerns grow over Atlanta airport fuel spill",
     "link": "https://nypost.com/2026/01/30/us-news/atlanta-town-warns-against-drinking-tap-water-after-airport-fuel-spill/",
     "source": "nypost",
@@ -408,13 +498,13 @@
     "pubdate": "2026-01-31-01-30-06 +0000"
   },
   {
-    "headline": "Former CNN host Don Lemon charged over anti-ICE protest at Minnesota church",
+    "headline": "Former CNN host Don Lemon charged in anti-ICE protest at Minnesota church",
     "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-31-01-25-43 +0000"
   },
   {
-    "headline": "Former CNN host Don Lemon charged over anti-ICE protest at Minnesota church",
+    "headline": "Former CNN host Don Lemon charged in anti-ICE protest at Minnesota church",
     "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-31-01-25-43 +0000"
@@ -436,12 +526,6 @@
     "link": "https://nypost.com/2026/01/30/us-news/illegal-immigrant-busted-for-anti-ice-riot-violence/",
     "source": "nypost",
     "pubdate": "2026-01-31-01-17-03 +0000"
-  },
-  {
-    "headline": "Q&A: How does a partial government shutdown work?",
-    "link": "https://www.wsj.com/politics/policy/what-to-expect-in-a-partial-government-shutdown-d5f7a7b6",
-    "source": "wsj",
-    "pubdate": "2026-01-31-01-09-00 +0000"
   },
   {
     "headline": "After Bovino Leaves, Minnesotans Search for Signs of Change in Crackdown",
@@ -516,16 +600,10 @@
     "pubdate": "2026-01-31-00-36-27 +0000"
   },
   {
-    "headline": "Poilievre focuses on affordability, national unity in speech ahead of Conservative leadership vote",
+    "headline": "Conservative Leader Pierre Poilievre wins leadership review with 87.4% approval",
     "link": "https://www.cbc.ca/news/politics/livestory/pierre-poilievre-speech-conservative-convention-leadership-review-live-updates-9.7068829?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-01-31-00-30-05 +0000"
-  },
-  {
-    "headline": "In her Amazon-backed documentary film “Melania,” the first lady finds opportunities to let her guard down",
-    "link": "https://www.wsj.com/arts-culture/film/melania-trump-documentary-what-to-know-a8769bba",
-    "source": "wsj",
-    "pubdate": "2026-01-31-00-28-00 +0000"
   },
   {
     "headline": "DOJ must prove more than Don Lemon’s ‘mere presence’ at Minneapolis church protest to nail conviction: experts",
@@ -543,18 +621,6 @@
     "headline": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
     "link": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-01-31-00-19-00 +0000"
-  },
-  {
-    "headline": "What We Know So Far About the Latest Release of Epstein Files",
-    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
-    "source": "wsj",
-    "pubdate": "2026-01-31-00-19-00 +0000"
-  },
-  {
-    "headline": "What We Know So Far About the Latest Release of Epstein Files",
-    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
     "pubdate": "2026-01-31-00-19-00 +0000"
   },
   {
@@ -636,22 +702,16 @@
     "pubdate": "2026-01-31-00-05-52 +0000"
   },
   {
-    "headline": "Senate passes $1.2 trillion spending bill — but partial government shutdown appears inevitable",
+    "headline": "Senate passes $1.2 trillion spending bill — but partial government shutdown still takes effect",
     "link": "https://nypost.com/2026/01/30/us-news/senate-passes-1-2-trillion-spending-bill-but-partial-shutdown-appears-inevitable/",
     "source": "nypost",
     "pubdate": "2026-01-31-00-05-16 +0000"
   },
   {
-    "headline": "Senate passes $1.2 trillion spending bill — but partial government shutdown appears inevitable",
+    "headline": "Senate passes $1.2 trillion spending bill — but partial government shutdown still takes effect",
     "link": "https://nypost.com/2026/01/30/us-news/senate-passes-1-2-trillion-spending-bill-but-partial-shutdown-appears-inevitable/",
     "source": "nypost",
     "pubdate": "2026-01-31-00-05-16 +0000"
-  },
-  {
-    "headline": "Idaho murder victim Kaylee Goncalves’ family takes heart-wrenching step by going through her belongings: ‘No turning back’",
-    "link": "https://nypost.com/2026/01/30/us-news/kaylee-goncalves-family-takes-heart-wrenching-step-in-grief-journey/",
-    "source": "nypost",
-    "pubdate": "2026-01-31-00-02-29 +0000"
   },
   {
     "headline": "An ingredient for this curry is missing - and in eight minutes, it's at the door",
@@ -678,12 +738,6 @@
     "pubdate": "2026-01-30-23-53-14 +0000"
   },
   {
-    "headline": "NY comptroller candidate takes sharp left after ‘fiscally conservative, socially moderate’ record",
-    "link": "https://nypost.com/2026/01/30/us-news/ny-comptroller-candidate-raj-goyle-takes-sharp-left-after-fiscally-conservative-socially-moderate-record/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-23-50-14 +0000"
-  },
-  {
     "headline": "Macaulay Culkin And Others Pay Tribute to Catherine O’Hara After Her Death",
     "link": "https://www.nytimes.com/2026/01/30/arts/catherine-ohara-death-reactions.html",
     "source": "nyt",
@@ -694,12 +748,6 @@
     "link": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
     "source": "nyt",
     "pubdate": "2026-01-30-23-47-54 +0000"
-  },
-  {
-    "headline": "Uber Eats and other delivery apps to fork over millions of dollars to dissed NYC workers",
-    "link": "https://nypost.com/2026/01/30/us-news/uber-eats-other-delivery-apps-to-fork-over-millions-of-dollars-to-dissed-nyc-workers/",
-    "source": "nypost",
-    "pubdate": "2026-01-30-23-46-14 +0000"
   },
   {
     "headline": "Judge Weighs Trump’s Removal of Slavery Markers From George Washington’s House",
@@ -1036,12 +1084,6 @@
     "link": "https://nypost.com/2026/01/30/us-news/katie-porter-sends-desperate-text-as-matt-mahan-enters-governors-race/",
     "source": "nypost",
     "pubdate": "2026-01-30-21-55-18 +0000"
-  },
-  {
-    "headline": "Judge rules no death penalty for Luigi Mangione; decision could have implications for Vance Boelter in Hortman killings",
-    "link": "https://www.startribune.com/judge-rules-no-death-penalty-for-luigi-mangione-decision-could-have-implications-for-vance-boelter-in-hortman-killings/601574129",
-    "source": "startribune",
-    "pubdate": "2026-01-30-21-54-58 +0000"
   },
   {
     "headline": "NASCAR Star’s Plane Had Several Instrument Failures Before Crash",
@@ -1402,12 +1444,6 @@
     "link": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
     "source": "nyt",
     "pubdate": "2026-01-30-19-59-39 +0000"
-  },
-  {
-    "headline": "Souhan: Twins’ brain drain continues with departure of Derek Falvey",
-    "link": "https://www.startribune.com/minnesota-twins-front-office-changes-derek-falvey-out-jeremy-zoll-payroll-jim-souhan/601574059",
-    "source": "startribune",
-    "pubdate": "2026-01-30-19-58-10 +0000"
   },
   {
     "headline": "Kevin Warsh has been preparing to lead the Federal Reserve for more than a decade",
@@ -2404,6 +2440,12 @@
     "link": "https://www.wsj.com/business/earnings/church-dwight-logs-sales-growth-becc0a1a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-01-30-12-40-00 +0000"
+  },
+  {
+    "headline": "Panama High Court Gives Trump a Win Over Canal by Ousting Hong Kong Port Operator",
+    "link": "https://www.wsj.com/business/logistics/panamas-high-court-rules-against-hong-kong-firm-running-canal-ports-714c23c8",
+    "source": "wsj",
+    "pubdate": "2026-01-30-12-30-00 +0000"
   },
   {
     "headline": "Panama High Court Gives Trump a Win Over Canal by Ousting Hong Kong Port Operator",
@@ -3618,6 +3660,12 @@
     "pubdate": "2026-01-29-20-42-00 +0000"
   },
   {
+    "headline": "A Secret FBI Bust Nabbed an Alleged Drug Lord—and Rocked Ties With Mexico",
+    "link": "https://www.wsj.com/world/americas/a-secret-fbi-bust-nabbed-an-alleged-drug-lordand-rocked-relations-with-mexico-a19d4dd6",
+    "source": "wsj",
+    "pubdate": "2026-01-29-20-42-00 +0000"
+  },
+  {
     "headline": "Exotic dancer who allegedly decapitated man she met at work is captured in Mexico",
     "link": "https://www.latimes.com/california/story/2026-01-29/decapitation-suspect-from-orange-county-captured-in-mexico-returned-to-u-s-to-face-charges",
     "source": "latimes",
@@ -4362,6 +4410,12 @@
     "pubdate": "2026-01-29-11-03-00 +0000"
   },
   {
+    "headline": "LAPD would delete nearly 12 million body camera videos under proposed policy change",
+    "link": "https://www.latimes.com/california/story/2026-01-29/lapd-data-policy-body-camera-videos",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
     "headline": "Alleged assassin for Mexican Mafia spent birthday stalking victim, detective testifies",
     "link": "https://www.latimes.com/california/story/2026-01-29/mexican-mafia-assassin-stalked-victim-on-birthday-detective-testifies",
     "source": "latimes",
@@ -4374,8 +4428,8 @@
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
   {
-    "headline": "LAPD would delete nearly 12 million body camera videos under proposed policy change",
-    "link": "https://www.latimes.com/california/story/2026-01-29/lapd-data-policy-body-camera-videos",
+    "headline": "Heated debate over California water plan as environmentalists warn of 'ecosystem collapse'",
+    "link": "https://www.latimes.com/environment/story/2026-01-29/california-delta-water-plan-debate",
     "source": "latimes",
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
@@ -4386,26 +4440,8 @@
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
   {
-    "headline": "Heated debate over California water plan as environmentalists warn of 'ecosystem collapse'",
-    "link": "https://www.latimes.com/environment/story/2026-01-29/california-delta-water-plan-debate",
-    "source": "latimes",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
     "headline": "Arellano: Trump says he wants to get rid of 'the worst of the worst.' Start with Stephen Miller",
     "link": "https://www.latimes.com/california/story/2026-01-29/stephen-miller-worst-of-the-worst",
-    "source": "latimes",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
-    "headline": "L.A. pipe maker accuses law firm of filing bogus asbestos lawsuits",
-    "link": "https://www.latimes.com/business/story/2026-01-29/los-angeles-manufacturer-accuses-law-firm-of-filing-fraudulent-asbestos-lawsuits",
-    "source": "latimes",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
-    "headline": "Peet's Coffee is closing outlets in Southern California",
-    "link": "https://www.latimes.com/business/story/2026-01-29/peets-coffee-is-closing-outlets-in-southern-california",
     "source": "latimes",
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
@@ -4416,21 +4452,21 @@
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
   {
+    "headline": "Peet's Coffee is closing outlets in Southern California",
+    "link": "https://www.latimes.com/business/story/2026-01-29/peets-coffee-is-closing-outlets-in-southern-california",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
+    "headline": "L.A. pipe maker accuses law firm of filing bogus asbestos lawsuits",
+    "link": "https://www.latimes.com/business/story/2026-01-29/los-angeles-manufacturer-accuses-law-firm-of-filing-fraudulent-asbestos-lawsuits",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
     "headline": "Here’s what would stay open during a partial government shutdown",
     "link": "https://www.washingtonpost.com/business/2026/01/29/partial-government-shutdown-services/",
     "source": "wapo",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Trump says he wants to get rid of 'the worst of the worst.' Start with Stephen Miller",
-    "link": "https://www.latimes.com/california/story/2026-01-29/stephen-miller-worst-of-the-worst",
-    "source": "latimes",
-    "pubdate": "2026-01-29-11-00-00 +0000"
-  },
-  {
-    "headline": "Climate change, electric vehicles and Delta tunnel among the focuses of gubernatorial candidate forum",
-    "link": "https://www.latimes.com/california/story/2026-01-29/climate-change-electric-vehicles-delta-tunnel-among-focuses-of-gubernatorial-candidate-forum",
-    "source": "latimes",
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
   {
@@ -4442,6 +4478,18 @@
   {
     "headline": "Calmes: Trump imagines the buck will never stop with him",
     "link": "https://www.latimes.com/opinion/story/2026-01-29/trump-minneapolis-protests-alex-pretti-accountability",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Climate change, electric vehicles and Delta tunnel among the focuses of gubernatorial candidate forum",
+    "link": "https://www.latimes.com/california/story/2026-01-29/climate-change-electric-vehicles-delta-tunnel-among-focuses-of-gubernatorial-candidate-forum",
+    "source": "latimes",
+    "pubdate": "2026-01-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: Trump says he wants to get rid of 'the worst of the worst.' Start with Stephen Miller",
+    "link": "https://www.latimes.com/california/story/2026-01-29/stephen-miller-worst-of-the-worst",
     "source": "latimes",
     "pubdate": "2026-01-29-11-00-00 +0000"
   },
@@ -4914,6 +4962,12 @@
     "pubdate": "2026-01-28-23-10-05 +0000"
   },
   {
+    "headline": "What the Slide in the Dollar Means for Trade, Travel and Investment",
+    "link": "https://www.wsj.com/finance/currencies/what-the-slide-in-the-dollar-means-for-trade-travel-and-investment-ef02816d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-01-28-23-00-00 +0000"
+  },
+  {
     "headline": "At least five killed after Storm Kristin hits Portugal",
     "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5086,12 +5140,6 @@
     "link": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
     "source": "nyt",
     "pubdate": "2026-01-28-20-34-47 +0000"
-  },
-  {
-    "headline": "Landslide Leaves Town in Sicily Perched on a Cliff’s Edge",
-    "link": "https://www.nytimes.com/2026/01/28/world/europe/sicily-town-landslide.html",
-    "source": "nyt",
-    "pubdate": "2026-01-28-20-06-04 +0000"
   },
   {
     "headline": "Landslide Leaves Town in Sicily Perched on a Cliff’s Edge",
@@ -5508,12 +5556,6 @@
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
   {
-    "headline": "How past ICE funding votes are reshaping California's race for governor",
-    "link": "https://www.latimes.com/california/story/2026-01-28/how-past-ice-funding-votes-are-reshaping-californias-race-for-governor",
-    "source": "latimes",
-    "pubdate": "2026-01-28-11-00-00 +0000"
-  },
-  {
     "headline": "Immigration agents, leaders defy best practices honed by U.S. police for half a century",
     "link": "https://www.latimes.com/politics/story/2026-01-28/federal-agents-leaders-defy-practices-honed-by-police-for-decades",
     "source": "latimes",
@@ -5522,6 +5564,12 @@
   {
     "headline": "A push to end a fractured approach to post-fire contamination removal",
     "link": "https://www.latimes.com/environment/story/2026-01-28/new-bill-aims-to-clarify-standards-for-post-fire-contamination-tests",
+    "source": "latimes",
+    "pubdate": "2026-01-28-11-00-00 +0000"
+  },
+  {
+    "headline": "How past ICE funding votes are reshaping California's race for governor",
+    "link": "https://www.latimes.com/california/story/2026-01-28/how-past-ice-funding-votes-are-reshaping-californias-race-for-governor",
     "source": "latimes",
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
@@ -5544,14 +5592,14 @@
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
   {
-    "headline": "Pinterest to cut up to 15% of its workforce as focus on AI intensifies",
-    "link": "https://www.latimes.com/business/story/2026-01-28/pinterest-to-cut-up-to-15-of-its-workforce-as-focus-on-ai-intensifies",
+    "headline": "Amazon to lay off 16,000 and close Amazon Fresh stores",
+    "link": "https://www.latimes.com/business/story/2026-01-28/amazon-fresh-amazon-go-stores-to-close",
     "source": "latimes",
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
   {
-    "headline": "Amazon to lay off 16,000 and close Amazon Fresh stores",
-    "link": "https://www.latimes.com/business/story/2026-01-28/amazon-fresh-amazon-go-stores-to-close",
+    "headline": "Pinterest to cut up to 15% of its workforce as focus on AI intensifies",
+    "link": "https://www.latimes.com/business/story/2026-01-28/pinterest-to-cut-up-to-15-of-its-workforce-as-focus-on-ai-intensifies",
     "source": "latimes",
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
@@ -5568,20 +5616,8 @@
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
   {
-    "headline": "Immigration agents, leaders defy best practices honed by U.S. police for half a century",
-    "link": "https://www.latimes.com/politics/story/2026-01-28/federal-agents-leaders-defy-practices-honed-by-police-for-decades",
-    "source": "latimes",
-    "pubdate": "2026-01-28-11-00-00 +0000"
-  },
-  {
     "headline": "How past ICE funding votes are reshaping California's race for governor",
     "link": "https://www.latimes.com/california/story/2026-01-28/how-past-ice-funding-votes-are-reshaping-californias-race-for-governor",
-    "source": "latimes",
-    "pubdate": "2026-01-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Expiration of federal health insurance subsidies: What to know in California",
-    "link": "https://www.latimes.com/business/story/2026-01-28/expiration-of-federal-health-insurance-subsidies-what-to-know-in-california",
     "source": "latimes",
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
@@ -5592,8 +5628,20 @@
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
   {
+    "headline": "Immigration agents, leaders defy best practices honed by U.S. police for half a century",
+    "link": "https://www.latimes.com/politics/story/2026-01-28/federal-agents-leaders-defy-practices-honed-by-police-for-decades",
+    "source": "latimes",
+    "pubdate": "2026-01-28-11-00-00 +0000"
+  },
+  {
     "headline": "Barabak: They said Katie Porter was dead politically. I checked her pulse",
     "link": "https://www.latimes.com/politics/story/2026-01-28/katie-porter-california-governor-race-not-quitting",
+    "source": "latimes",
+    "pubdate": "2026-01-28-11-00-00 +0000"
+  },
+  {
+    "headline": "Expiration of federal health insurance subsidies: What to know in California",
+    "link": "https://www.latimes.com/business/story/2026-01-28/expiration-of-federal-health-insurance-subsidies-what-to-know-in-california",
     "source": "latimes",
     "pubdate": "2026-01-28-11-00-00 +0000"
   },
@@ -5650,12 +5698,6 @@
     "link": "https://www.bbc.com/news/videos/cr57pvl5lg8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-01-28-06-07-03 +0000"
-  },
-  {
-    "headline": "How Iran Crushed an Uprising",
-    "link": "https://www.nytimes.com/2026/01/27/world/iran-protests-crackdown-eu-india-trade.html",
-    "source": "nyt",
-    "pubdate": "2026-01-28-05-59-23 +0000"
   },
   {
     "headline": "Supes move forward a term-limits bill that’s a ‘solution in search of a problem’",
@@ -5832,12 +5874,6 @@
     "pubdate": "2026-01-27-22-06-00 +0000"
   },
   {
-    "headline": "Former French Senator Convicted of Drugging a Colleague, Intending to Assault Her",
-    "link": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
-    "source": "nyt",
-    "pubdate": "2026-01-27-22-05-14 +0000"
-  },
-  {
     "headline": "Palisades High reopens after year of instability: 'So much has changed for all of us'",
     "link": "https://www.latimes.com/california/story/2026-01-27/palisades-high-reopens-after-year-instability-la-fires",
     "source": "latimes",
@@ -5860,12 +5896,6 @@
     "link": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
     "source": "nyt",
     "pubdate": "2026-01-27-21-23-06 +0000"
-  },
-  {
-    "headline": "Spain Offers Undocumented Migrants a Legal Way to Stay",
-    "link": "https://www.nytimes.com/2026/01/27/world/europe/spain-undocumented-migrants-residency.html",
-    "source": "nyt",
-    "pubdate": "2026-01-27-21-03-10 +0000"
   },
   {
     "headline": "Companies Reveal Big Mystery: Where They Pay Taxes and How Much",
@@ -5920,12 +5950,6 @@
     "link": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
     "source": "nyt",
     "pubdate": "2026-01-27-19-59-53 +0000"
-  },
-  {
-    "headline": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
-    "link": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
-    "source": "nyt",
-    "pubdate": "2026-01-27-19-50-22 +0000"
   },
   {
     "headline": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
@@ -6324,12 +6348,6 @@
     "pubdate": "2026-01-26-22-19-17 +0000"
   },
   {
-    "headline": "Chinese Pandas Leave Japanese Zoo",
-    "link": "https://www.nytimes.com/2026/01/26/world/asia/japan-pandas-china.html",
-    "source": "nyt",
-    "pubdate": "2026-01-26-21-59-41 +0000"
-  },
-  {
     "headline": "D4vd friend and key witness in case of girl's death arrested in Montana and returned to L.A.",
     "link": "https://www.latimes.com/california/story/2026-01-26/d4vd-friend-key-witness-in-case-of-girls-death-arrested-in-montana-returned-to-la",
     "source": "latimes",
@@ -6462,14 +6480,14 @@
     "pubdate": "2026-01-26-11-11-00 +0000"
   },
   {
-    "headline": "Is California's proposed billionaire tax smart policy? History holds lessons",
-    "link": "https://www.latimes.com/california/story/2026-01-26/california-proposed-billionaire-tax-similar-measures-europe",
+    "headline": "Housing costs are crippling many Americans. Here's how the two parties propose to fix that",
+    "link": "https://www.latimes.com/politics/story/2026-01-26/housing-costs-are-crippling-many-americans-heres-how-two-parties-propose-to-fix-that",
     "source": "latimes",
     "pubdate": "2026-01-26-11-00-00 +0000"
   },
   {
-    "headline": "Housing costs are crippling many Americans. Here's how the two parties propose to fix that",
-    "link": "https://www.latimes.com/politics/story/2026-01-26/housing-costs-are-crippling-many-americans-heres-how-two-parties-propose-to-fix-that",
+    "headline": "Is California's proposed billionaire tax smart policy? History holds lessons",
+    "link": "https://www.latimes.com/california/story/2026-01-26/california-proposed-billionaire-tax-similar-measures-europe",
     "source": "latimes",
     "pubdate": "2026-01-26-11-00-00 +0000"
   },
@@ -6702,16 +6720,16 @@
     "pubdate": "2026-01-25-02-16-40 +0000"
   },
   {
+    "headline": "Police Who Once Backed ICE’s Mission Are Losing Faith in Its Tactics",
+    "link": "https://www.wsj.com/us-news/police-who-once-backed-ices-mission-are-losing-faith-in-its-tactics-e123c348",
+    "source": "wsj",
+    "pubdate": "2026-01-25-02-02-00 +0000"
+  },
+  {
     "headline": "Angry protesters spill into SoCal streets, decry second killing by U.S. agents in Minnesota",
     "link": "https://www.latimes.com/california/story/2026-01-24/la-me-ice-protest-dtla",
     "source": "latimes",
     "pubdate": "2026-01-25-01-41-59 +0000"
-  },
-  {
-    "headline": "Border Patrol Agent Fatally Shoots Man in Minneapolis, Escalating State-Federal Standoff",
-    "link": "https://www.wsj.com/us-news/federal-agents-shoot-another-person-in-minneapolis-gov-walz-says-469e5862",
-    "source": "wsj",
-    "pubdate": "2026-01-25-00-36-00 +0000"
   },
   {
     "headline": "How Two Hardy North Dakotans Were Almost Thwarted by an Ice Storm",
