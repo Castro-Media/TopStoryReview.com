@@ -1,13 +1,13 @@
 [
   {
-    "score": 84,
+    "score": 82,
     "pubdate": "2026-01-31-23-46-19 +0000",
     "source": "nypost",
     "headline": "Trump claims Minnesota fraud exceeds $19 billion — blames Biden admin, singles out Omar and Walz",
     "link": "https://nypost.com/2026/01/31/us-news/trump-claims-minnesota-fraud-exceeds-19b-blames-biden-administration/"
   },
   {
-    "score": 70,
+    "score": 68,
     "pubdate": "2026-01-31-22-14-54 +0000",
     "source": "bbc",
     "headline": "Judge orders release of five-year-old detained by ICE in Minneapolis",
@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
   },
   {
-    "score": 48,
+    "score": 43,
     "pubdate": "2026-01-31-18-35-37 +0000",
     "source": "nypost",
     "headline": "US, Israel deny involvement in mysterious blasts that killed 6, wounded over a dozen across Iran",
@@ -35,18 +35,11 @@
     "link": "https://www.wsj.com/economy/central-banking/kevin-warshs-three-tasks-shrink-the-fed-tame-inflation-manage-the-president-2640eace"
   },
   {
-    "score": 36,
+    "score": 37,
     "pubdate": "2026-02-01-02-00-00 +0000",
     "source": "wsj",
     "headline": "An Abu Dhabi royal backed a secret $500 million investment in Trump’s crypto company. Months later, U.A.E. won access to tightly guarded American AI chips.",
     "link": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-01-31-23-04-25 +0000",
-    "source": "nypost",
-    "headline": "Mamdani warned to install security bollards at ‘vulnerable’ houses of worship — 1 month before driver rammed into Brooklyn synagogue",
-    "link": "https://nypost.com/2026/01/31/us-news/mamdani-was-warned-to-install-security-bollards-at-vulnerable-houses-of-worship-nearly-a-month-before-driver-rammed-brooklyn-synagogue/"
   },
   {
     "score": 31,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "A federal judge declined to immediately halt the federal immigration enforcement surge in Minnesota because she lacked the authority at this point.",
     "link": "https://www.wsj.com/politics/policy/judge-wont-stop-federal-immigration-enforcement-surge-in-minnesota-16270e67"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-02-01-06-31-12 +0000",
+    "source": "nyt",
+    "headline": "T. Kumar, Rights Activist Who Was Shaped by Time in Prison, Dies at 76",
+    "link": "https://www.nytimes.com/2026/01/31/world/asia/t-kumar-dead.html"
   }
 ]
