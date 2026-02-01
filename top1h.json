@@ -1,72 +1,58 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-02-01-00-27-24 +0000",
+    "score": 26,
+    "pubdate": "2026-02-01-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "An Abu Dhabi royal backed a secret $500 million investment in Trump’s crypto company. Months later, U.A.E. won access to tightly guarded American AI chips.",
+    "link": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-01-01-53-01 +0000",
     "source": "nypost",
-    "headline": "Brett Ratner – director of ‘Melania’ – embraces woman on couch next to Jeffrey Epstein in DOJ photo dump",
-    "link": "https://nypost.com/2026/01/31/us-news/brett-ratner-director-of-melania-embraces-woman-on-couch-next-to-jeffrey-epstein-in-doj-photo-dump/"
+    "headline": "Trump boasts his tariff blitz has ‘created an American economic miracle’ in WSJ op-ed",
+    "link": "https://nypost.com/2026/01/31/us-news/trump-boasts-his-tariff-blitz-has-created-an-american-economic-miracle-in-wsj-op-ed/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-02-01-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "High-Speed Internet Boom Hits Low-Tech Snag: a Labor Shortage",
-    "link": "https://www.wsj.com/business/telecom/high-speed-internet-boom-hits-low-tech-snag-a-labor-shortage-9c92b514?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-02-01-00-48-00 +0000",
-    "source": "wsj",
-    "headline": "Alex Pretti Was Part of a Growing Gun Culture in Minneapolis",
-    "link": "https://www.wsj.com/us-news/alex-pretti-was-part-of-a-growing-gun-culture-in-minneapolis-e8459a5f"
+    "score": 15,
+    "pubdate": "2026-02-01-02-07-04 +0000",
+    "source": "nypost",
+    "headline": "Drivers fume over Dem-led push that could see them taxed for every mile: ‘Citizens treated like ATMs’",
+    "link": "https://nypost.com/2026/01/31/us-news/california-drivers-are-a-step-closer-to-paying-per-mile-tax/"
   },
   {
     "score": 10,
-    "pubdate": "2026-02-01-00-57-25 +0000",
-    "source": "startribune",
-    "headline": "Live: Judges rebuke immigration crackdown, offer sympathy for Minnesota in twin rulings",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-02-01-00-47-10 +0000",
+    "pubdate": "2026-02-01-02-16-16 +0000",
     "source": "nypost",
-    "headline": "Alleged MS-13 gangbanger accused of killing 5 in El Salvador busted in Virginia: report",
-    "link": "https://nypost.com/2026/01/31/us-news/alleged-ms-13-gangbanger-accused-of-killing-5-in-el-salvador-busted-in-virginia-report/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-02-01-00-53-30 +0000",
-    "source": "nypost",
-    "headline": "Californians band together to save wild fox with pipe stuck on its neck",
-    "link": "https://nypost.com/2026/01/31/us-news/neighbors-rescue-fox-trapped-with-plastic-pipe-stuck-around-its-neck/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-02-01-00-28-57 +0000",
-    "source": "nypost",
-    "headline": "NYPD calls death at Queens low-income housing building ‘suspicious’",
-    "link": "https://nypost.com/2026/01/31/us-news/nypd-calls-death-at-queens-low-income-housing-building-suspicious/"
+    "headline": "Federal workers face daily harassment by ruthless agitators in DTLA: ‘War zone every day’",
+    "link": "https://nypost.com/2026/01/31/us-news/federal-workers-face-daily-harassment-by-agitators-in-dtla/"
   },
   {
     "score": 7,
-    "pubdate": "2026-02-01-00-50-29 +0000",
-    "source": "cbc",
-    "headline": "The Conservative Party is overhauling its policy playbook. Here's what's changing",
-    "link": "https://www.cbc.ca/news/politics/conservative-convention-policies-adopted-9.7069756?cmp=rss"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-02-01-00-37-14 +0000",
-    "source": "nyt",
-    "headline": "Winter Storm Hits the Carolinas, Bringing Dangerous Ice and Snow",
-    "link": "https://www.nytimes.com/2026/01/31/us/winter-storm-snow-carolina-north-south.html"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-02-01-00-57-45 +0000",
+    "pubdate": "2026-02-01-01-58-41 +0000",
     "source": "nyt",
     "headline": "They Said They Weren’t Close to Epstein. New Documents Show Otherwise.",
     "link": "https://www.nytimes.com/2026/01/31/us/epstein-powerful-men.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-01-02-27-19 +0000",
+    "source": "latimes",
+    "headline": "Highway 99 reopens after 59-vehicle pileup in the Central Valley",
+    "link": "https://www.latimes.com/california/story/2026-01-31/highway-99-reopens-after-59-vehicle-pileup-in-central-valley"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-02-01-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "‘Spy Sheikh’ Bought Secret Stake in Trump Company",
+    "link": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-01-01-53-01 +0000",
+    "source": "nypost",
+    "headline": "Trump boasts his tariff blitz has ‘created an American economic miracle’ in WSJ op-ed",
+    "link": "https://nypost.com/2026/01/31/us-news/trump-boasts-his-tariff-blitz-has-created-an-american-economic-miracle-in-wsj-op-ed/"
   }
 ]
