@@ -1,13 +1,13 @@
 [
   {
-    "score": 61,
-    "pubdate": "2026-01-31-10-30-00 +0000",
+    "score": 60,
+    "pubdate": "2026-02-01-04-26-00 +0000",
     "source": "wsj",
-    "title": "Trump&#8217;s pick for Fed chair has long attacked the central bank. Kevin Warsh now faces a harder challenge: delivering lower inflation without sacrificing Fed independence.",
-    "link": "https://www.wsj.com/economy/central-banking/kevin-warshs-three-tasks-shrink-the-fed-tame-inflation-manage-the-president-2640eace"
+    "title": "President Trump joked during a speech that he would sue Kevin Warsh, his nominee to chair the Federal Reserve, if he didn&#8217;t lower interest rates",
+    "link": "https://www.wsj.com/politics/policy/trump-jokes-about-suing-warsh-if-he-doesnt-lower-interest-rates-2986e933"
   },
   {
-    "score": 56,
+    "score": 51,
     "pubdate": "2026-01-31-20-52-55 +0000",
     "source": "cbc",
     "title": "Judge orders U.S. to free 5-year-old boy, father detained by ICE in Minnesota",
@@ -28,14 +28,21 @@
     "link": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8"
   },
   {
-    "score": 30,
-    "pubdate": "2026-01-31-13-30-00 +0000",
+    "score": 31,
+    "pubdate": "2026-02-01-09-30-50 +0000",
     "source": "nypost",
-    "title": "Gaza &#8216;doctor&#8217; who slammed Israel in NY Times op-eds is Hamas colonel, seen in military uniform: watchdog, IDF",
-    "link": "https://nypost.com/2026/01/31/world-news/gaza-doctor-who-slammed-israel-in-ny-times-op-eds-is-hamas-colonel-watchdog-idf/"
+    "title": "Texas girl, 10, shot by crazed driver during road rage incident while she was in back of parents&#8217; car on way to school",
+    "link": "https://nypost.com/2026/02/01/us-news/girl-shot-by-crazed-driver-in-random-attack-while-she-was-in-back-of-parents-car-on-way-to-school/"
   },
   {
-    "score": 26,
+    "score": 30,
+    "pubdate": "2026-01-31-18-35-37 +0000",
+    "source": "nypost",
+    "title": "US, Israel deny involvement in mysterious blasts that killed 6, wounded over a dozen across Iran",
+    "link": "https://nypost.com/2026/01/31/world-news/us-israel-deny-involvement-in-mysterious-blasts-that-killed-6-wounded-over-dozen-across-iran/"
+  },
+  {
+    "score": 29,
     "pubdate": "2026-02-01-01-37-34 +0000",
     "source": "nypost",
     "title": "Sean Penn, Robert De Niro lead Hollywood A-listers lining up behind lefty Eric Swalwell&#8217;s bid for California governor",
@@ -50,23 +57,16 @@
   },
   {
     "score": 23,
-    "pubdate": "2026-02-01-06-34-32 +0000",
-    "source": "nypost",
-    "title": "George Zinn, elderly man who falsely claimed he shot Charlie Kirk to distract police, sentenced for child sex crimes",
-    "link": "https://nypost.com/2026/02/01/us-news/george-zinn-elderly-man-who-falsely-claimed-he-shot-charlie-kirk-to-distract-police-sentenced-for-child-sex-crimes/"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-01-31-16-53-25 +0000",
-    "source": "latimes",
-    "title": "Photos: Anti-ICE protests gets heated on 'National Shutdown' day",
-    "link": "https://www.latimes.com/california/story/2026-01-31/photos-anti-ice-protest-gets-heated-on-national-shutdown-day"
-  },
-  {
-    "score": 22,
     "pubdate": "2026-01-31-23-46-19 +0000",
     "source": "nypost",
     "title": "Trump claims Minnesota fraud exceeds $19 billion &#8212; blames Biden admin, singles out Omar and Walz",
     "link": "https://nypost.com/2026/01/31/us-news/trump-claims-minnesota-fraud-exceeds-19b-blames-biden-administration/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-01-31-13-30-00 +0000",
+    "source": "nypost",
+    "title": "Gaza &#8216;doctor&#8217; who slammed Israel in NY Times op-eds is Hamas colonel, seen in military uniform: watchdog, IDF",
+    "link": "https://nypost.com/2026/01/31/world-news/gaza-doctor-who-slammed-israel-in-ny-times-op-eds-is-hamas-colonel-watchdog-idf/"
   }
 ]
