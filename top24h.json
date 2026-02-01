@@ -15,45 +15,38 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-01-31-05-07-00 +0000",
+    "pubdate": "2026-01-31-20-48-00 +0000",
     "source": "wsj",
-    "headline": "The Senate passed a bipartisan deal Friday to fully fund most of the federal government, but congressional action came too late to head off a partial government shutdown that started Saturday morning",
-    "link": "https://www.wsj.com/politics/policy/senate-set-to-vote-on-deal-ahead-of-partial-government-shutdown-7bc3968b"
+    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
   },
   {
-    "score": 46,
-    "pubdate": "2026-01-31-18-50-44 +0000",
-    "source": "nyt",
-    "headline": "New Epstein Files Name Elon Musk, Bill Gates and Other Powerful Men",
-    "link": "https://www.nytimes.com/2026/01/31/us/epstein-trump-gates-musk-tisch-andrew.html"
-  },
-  {
-    "score": 44,
+    "score": 48,
     "pubdate": "2026-01-31-18-35-37 +0000",
     "source": "nypost",
     "headline": "US, Israel deny involvement in mysterious blasts that killed 6, wounded over a dozen across Iran",
     "link": "https://nypost.com/2026/01/31/world-news/us-israel-deny-involvement-in-mysterious-blasts-that-killed-6-wounded-over-dozen-across-iran/"
   },
   {
-    "score": 39,
-    "pubdate": "2026-01-31-23-04-20 +0000",
-    "source": "nypost",
-    "headline": "East River party boat crashes into Brooklyn’s Domino Park; operator refuses to pay damages, drops F-bomb",
-    "link": "https://nypost.com/2026/01/31/us-news/east-river-party-boat-crashes-in-brooklyns-domino-park-operator-refusing-to-pay-damages/"
-  },
-  {
-    "score": 37,
+    "score": 41,
     "pubdate": "2026-01-31-10-30-00 +0000",
     "source": "wsj",
     "headline": "Trump’s pick for Fed chair has long attacked the central bank. Kevin Warsh now faces a harder challenge: delivering lower inflation without sacrificing Fed independence.",
     "link": "https://www.wsj.com/economy/central-banking/kevin-warshs-three-tasks-shrink-the-fed-tame-inflation-manage-the-president-2640eace"
   },
   {
-    "score": 32,
+    "score": 36,
     "pubdate": "2026-02-01-02-00-00 +0000",
     "source": "wsj",
     "headline": "An Abu Dhabi royal backed a secret $500 million investment in Trump’s crypto company. Months later, U.A.E. won access to tightly guarded American AI chips.",
     "link": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-01-31-23-04-25 +0000",
+    "source": "nypost",
+    "headline": "Mamdani warned to install security bollards at ‘vulnerable’ houses of worship — 1 month before driver rammed into Brooklyn synagogue",
+    "link": "https://nypost.com/2026/01/31/us-news/mamdani-was-warned-to-install-security-bollards-at-vulnerable-houses-of-worship-nearly-a-month-before-driver-rammed-brooklyn-synagogue/"
   },
   {
     "score": 31,
@@ -64,9 +57,16 @@
   },
   {
     "score": 30,
-    "pubdate": "2026-01-31-23-45-47 +0000",
-    "source": "nypost",
-    "headline": "LA Olympics boss Casey Wasserman ‘deeply regrets’ emails with Ghislaine Maxwell, denies relationship with Jeffrey Epstein",
-    "link": "https://nypost.com/2026/01/31/us-news/la-olympics-boss-casey-wasserman-deeply-regrets-emails-with-ghislaine-maxwell-denies-relationship-with-jeffrey-epstein/"
+    "pubdate": "2026-01-31-23-08-20 +0000",
+    "source": "bbc",
+    "headline": "Andrew should testify to US Congress, Starmer suggests after new photos",
+    "link": "https://www.bbc.com/news/articles/cgrd7kpg9pwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-01-31-17-32-00 +0000",
+    "source": "wsj",
+    "headline": "A federal judge declined to immediately halt the federal immigration enforcement surge in Minnesota because she lacked the authority at this point.",
+    "link": "https://www.wsj.com/politics/policy/judge-wont-stop-federal-immigration-enforcement-surge-in-minnesota-16270e67"
   }
 ]
