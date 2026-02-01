@@ -1,17 +1,24 @@
 [
   {
-    "score": 383,
+    "score": 382,
     "pubdate": "2026-02-01-15-09-48 +0000",
     "source": "nypost",
     "headline": "Trump jokes about suing new Fed chair nominee Kevin Warsh if he doesn’t slash rates",
     "link": "https://nypost.com/2026/02/01/us-news/trump-jokes-about-suing-new-fed-chair-nominee-kevin-warsh-if-he-doesnt-slash-rates/"
   },
   {
-    "score": 180,
+    "score": 185,
     "pubdate": "2026-01-29-05-47-03 +0000",
     "source": "bbc",
     "headline": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
     "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 160,
+    "pubdate": "2026-01-31-22-14-54 +0000",
+    "source": "bbc",
+    "headline": "Judge orders release of five-year-old detained by ICE in Minneapolis",
+    "link": "https://www.bbc.com/news/articles/cm2ygq5p2l3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 160,
@@ -21,14 +28,7 @@
     "link": "https://www.bbc.com/news/articles/clyel3z9xxno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 156,
-    "pubdate": "2026-01-31-22-14-54 +0000",
-    "source": "bbc",
-    "headline": "Judge orders release of five-year-old detained by ICE in Minneapolis",
-    "link": "https://www.bbc.com/news/articles/cm2ygq5p2l3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 126,
+    "score": 130,
     "pubdate": "2026-01-30-00-04-25 +0000",
     "source": "latimes",
     "headline": "California Democrats help lead counter-offensive against Trump immigration crackdown",
@@ -42,7 +42,7 @@
     "link": "https://www.wsj.com/politics/policy/senate-set-to-vote-on-deal-ahead-of-partial-government-shutdown-7bc3968b"
   },
   {
-    "score": 106,
+    "score": 107,
     "pubdate": "2026-01-27-13-22-00 +0000",
     "source": "wsj",
     "headline": "India and the European Union have reached a free-trade agreement that will open a new market for European cars and other products",
@@ -56,14 +56,14 @@
     "link": "https://nypost.com/2026/02/01/world-news/ex-prince-andrews-creepy-reply-to-jeffrey-epstein-after-pedo-offered-him-meeting-with-young-russian-woman/"
   },
   {
-    "score": 103,
+    "score": 99,
     "pubdate": "2026-01-28-23-56-00 +0000",
     "source": "wsj",
     "headline": "FBI agents searched an election office in Fulton County, Ga., a site that was a focus of President Trump in his effort to overturn his 2020 presidential loss",
     "link": "https://www.wsj.com/politics/elections/fbi-agents-search-election-office-in-georgias-fulton-county-8d4d274d"
   },
   {
-    "score": 96,
+    "score": 98,
     "pubdate": "2026-02-01-02-00-00 +0000",
     "source": "wsj",
     "headline": "An Abu Dhabi royal backed a secret $500 million investment in Trump’s crypto company. Months later, U.A.E. won access to tightly guarded American AI chips.",
