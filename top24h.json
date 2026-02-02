@@ -1,52 +1,38 @@
 [
   {
-    "score": 91,
-    "pubdate": "2026-02-01-22-34-48 +0000",
-    "source": "nypost",
-    "headline": "India to buy oil from Venezuela rather than Russia amid new Trump tariff threats",
-    "link": "https://nypost.com/2026/02/01/world-news/india-to-buy-oil-from-venezuela-rather-than-russia-amid-new-trump-tariff-threats/"
+    "score": 93,
+    "pubdate": "2026-02-02-02-56-44 +0000",
+    "source": "nyt",
+    "headline": "Trump Says Kennedy Center Will Close for 2-Year Reconstruction Project",
+    "link": "https://www.nytimes.com/2026/02/01/us/politics/trump-kennedy-center.html"
   },
   {
-    "score": 82,
+    "score": 81,
     "pubdate": "2026-02-02-03-21-00 +0000",
     "source": "wsj",
     "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
     "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
   },
   {
-    "score": 81,
-    "pubdate": "2026-02-02-02-49-20 +0000",
+    "score": 67,
+    "pubdate": "2026-02-02-03-38-34 +0000",
+    "source": "startribune",
+    "headline": "The latest: Musicians call out ICE actions in Minnesota at the Grammy Awards",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-02-02-10-51-21 +0000",
+    "source": "bbc",
+    "headline": "Israel reopens Gaza's key Rafah border crossing with Egypt",
+    "link": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-02-01-22-34-48 +0000",
     "source": "nypost",
-    "headline": "5-year-old boy, father taken into custody by ICE in Minneapolis freed after judge orders their release",
-    "link": "https://nypost.com/2026/02/01/us-news/5-year-old-boy-father-taken-into-custody-by-ice-in-minneapolis-freed-after-judge-orders-their-release/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-02-02-01-31-39 +0000",
-    "source": "nypost",
-    "headline": "Mike Johnson ‘confident’ gov’t shutdown will end Tuesday – as he shoots down Dem demands",
-    "link": "https://nypost.com/2026/02/01/us-news/mike-johnson-confident-govt-shutdown-will-end-tuesday-shoots-down-several-dem-demands/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-02-01-10-54-14 +0000",
-    "source": "nypost",
-    "headline": "Iran’s supreme leader warns any US attack would spark ‘regional war’",
-    "link": "https://nypost.com/2026/02/01/world-news/iran-supreme-leader-ayatollah-ali-khamenei-warns-us-attack-would-spark-regional-war/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-02-02-08-07-35 +0000",
-    "source": "nyt",
-    "headline": "Rafah Crossing in Gaza Reopens, Another Step for Fragile Cease-Fire",
-    "link": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-02-01-14-26-13 +0000",
-    "source": "cbc",
-    "headline": "More than a dozen people killed in Ukraine after Russian drone strikes miners' bus",
-    "link": "https://www.cbc.ca/news/world/ukraine-talks-russian-drone-9.7069841?cmp=rss"
+    "headline": "India to buy oil from Venezuela rather than Russia amid new Trump tariff threats",
+    "link": "https://nypost.com/2026/02/01/world-news/india-to-buy-oil-from-venezuela-rather-than-russia-amid-new-trump-tariff-threats/"
   },
   {
     "score": 42,
@@ -57,16 +43,30 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-02-02-01-12-32 +0000",
-    "source": "nypost",
-    "headline": "Ex-Gov. Chris Christie claims Trump is political liability in NJ after Mikie Sherrill win: ‘We forgot how to win’",
-    "link": "https://nypost.com/2026/02/01/us-news/trump-is-political-liability-for-gop-in-nj-ex-gov-christie-says/"
+    "pubdate": "2026-02-01-14-26-13 +0000",
+    "source": "cbc",
+    "headline": "More than a dozen people killed in Ukraine after Russian drone strikes miners' bus",
+    "link": "https://www.cbc.ca/news/world/ukraine-talks-russian-drone-9.7069841?cmp=rss"
   },
   {
     "score": 40,
-    "pubdate": "2026-02-02-03-38-34 +0000",
-    "source": "startribune",
-    "headline": "The latest: Musicians call out ICE actions in Minnesota at the Grammy Awards",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+    "pubdate": "2026-02-02-01-31-39 +0000",
+    "source": "nypost",
+    "headline": "Mike Johnson ‘confident’ gov’t shutdown will end Tuesday – as he shoots down Dem demands",
+    "link": "https://nypost.com/2026/02/01/us-news/mike-johnson-confident-govt-shutdown-will-end-tuesday-shoots-down-several-dem-demands/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-02-02-02-49-20 +0000",
+    "source": "nypost",
+    "headline": "5-year-old boy, father taken into custody by ICE in Minneapolis freed after judge orders their release",
+    "link": "https://nypost.com/2026/02/01/us-news/5-year-old-boy-father-taken-into-custody-by-ice-in-minneapolis-freed-after-judge-orders-their-release/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-02-02-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Heard on the Street: Kevin Warsh, President Trump’s nominee to lead the Fed, once warned that continuing to expand the central bank’s balance sheet would carry “significant risks”",
+    "link": "https://www.wsj.com/economy/central-banking/saying-you-want-to-shrink-the-fed-is-one-thing-doing-it-is-another-3ed0e517"
   }
 ]
