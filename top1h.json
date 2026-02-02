@@ -1,16 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-02-02-07-13-41 +0000",
+    "score": 19,
+    "pubdate": "2026-02-02-08-40-43 +0000",
     "source": "bbc",
-    "headline": "Stars hit red carpet at Grammy Awards show",
-    "link": "https://www.bbc.com/news/articles/cqj2kyp29l7o?at_medium=RSS&at_campaign=rss"
+    "headline": "Bad Bunny makes Grammy history as stars protest against ICE",
+    "link": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 7,
-    "pubdate": "2026-02-02-07-07-00 +0000",
+    "score": 14,
+    "pubdate": "2026-02-02-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Canadian military goes to U.S. for F-35 ceremony despite renewed trade tensions",
+    "link": "https://www.cbc.ca/news/politics/canada-f-35-lockheed-martin-first-delivery-ceremony-9.7068543?cmp=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-02-08-15-10 +0000",
+    "source": "bbc",
+    "headline": "Gaza's key Rafah border crossing with Egypt reopens",
+    "link": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-02-08-40-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Treasury Yields Fall Ahead of Data, Refunding Announcement",
-    "link": "https://www.wsj.com/finance/investing/jgbs-fall-amid-prospects-that-japans-ruling-party-may-win-more-seats-44aeb98e?mod=rss_markets_main"
+    "headline": "Oil Prices Tumble on Broader Commodities Selloff, U.S.-Iran Talks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-signs-of-u-s-iran-negotiations-82eee722?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-02-09-02-28 +0000",
+    "source": "bbc",
+    "headline": "Family seeks answers as Kenyan fighting for Russia killed in Ukraine",
+    "link": "https://www.bbc.com/news/articles/c4gr54n8260o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-02-09-00-51 +0000",
+    "source": "bbc",
+    "headline": "South African singer Tyla edges out Davido to clinch Grammy",
+    "link": "https://www.bbc.com/news/articles/c5y27872qz0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-02-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Stephen Harper celebrating 20th anniversary of his Conservative government this week",
+    "link": "https://www.cbc.ca/news/politics/stephen-harper-20-years-anniversary-9.7070076?cmp=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-02-08-36-56 +0000",
+    "source": "bbc",
+    "headline": "'I have to use savings to afford to use university laundrette'",
+    "link": "https://www.bbc.com/news/articles/crrn8rplklgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-02-08-51-00 +0000",
+    "source": "wsj",
+    "headline": "Julius Baer Posts Expected Drop in Profit",
+    "link": "https://www.wsj.com/finance/banking/julius-baer-posts-expected-drop-in-profit-8e18a46e?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-02-08-09-00 +0000",
+    "source": "wsj",
+    "headline": "Dollar Remains Lifted After Fed Chair Nomination",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-traders-digest-warshs-nomination-as-next-fed-chair-92e67ef3?mod=rss_markets_main"
   }
 ]
