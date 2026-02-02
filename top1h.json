@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-02-02-15-02-53 +0000",
+    "score": 26,
+    "pubdate": "2026-02-02-16-51-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is preparing to develop a $12 billion stockpile of critical minerals aimed at helping U.S. manufacturers navigate future supply shortages and overcome reliance on China",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-to-create-12-billion-rare-earth-stockpile-to-counter-china-1189228e"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-02-02-16-58-00 +0000",
+    "source": "wsj",
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-02-16-36-53 +0000",
     "source": "bbc",
-    "headline": "Captain guilty of North Sea tanker crash death",
-    "link": "https://www.bbc.com/news/articles/c9dv240w0w3o?at_medium=RSS&at_campaign=rss"
+    "headline": "Billionaire Frank Stronach faces sexual assault trial in Canada",
+    "link": "https://www.bbc.com/news/articles/c62ree2p6q0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-02-16-43-21 +0000",
+    "source": "nyt",
+    "headline": "Gabbard Arranges Trump Call With FBI Agents After Georgia Election Center Search",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-fbi-phone-call-georgia-gabbard.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-02-16-23-57 +0000",
+    "source": "nypost",
+    "headline": "Savannah Guthrie’s mom’s disappearance now being investigated as crime: ‘She did not leave on her own’",
+    "link": "https://nypost.com/2026/02/02/us-news/savannah-guthries-moms-disappearance-being-investigated-as-a-crime-cops/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-02-16-51-14 +0000",
+    "source": "bbc",
+    "headline": "Warning for sellers amid rollercoaster gold and silver prices",
+    "link": "https://www.bbc.com/news/articles/clymp0ngg36o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-02-16-58-00 +0000",
+    "source": "wsj",
+    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-02-16-45-58 +0000",
+    "source": "nypost",
+    "headline": "Beloved Fox star describes ‘unimaginable loss’ as she returns to air after husband’s death",
+    "link": "https://nypost.com/2026/02/02/us-news/beloved-fox-star-returns-to-air-after-husbands-death/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-02-16-34-27 +0000",
+    "source": "nypost",
+    "headline": "Billie Eilish faces calls to return mansion to Native American tribe after ‘stolen land’ remark at Grammys",
+    "link": "https://nypost.com/2026/02/02/us-news/billie-eilish-under-fire-to-fork-over-mansion/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-02-16-42-21 +0000",
+    "source": "nypost",
+    "headline": "LA bakery celebrates as offensive anti-ICE cookies sell out in minutes",
+    "link": "https://nypost.com/2026/02/02/us-news/anti-ice-cookies-sell-out-at-altadena-bakery/"
   }
 ]
