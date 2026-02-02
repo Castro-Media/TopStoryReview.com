@@ -1,32 +1,194 @@
 [
   {
-    "headline": "Gold’s Decline Seen as Healthy Correction After ‘Irrational’ Rally",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-02-11-03-00 +0000"
-  },
-  {
-    "headline": "Apartment near ICE center sues agency for making tenants’ lives unbearable",
-    "link": "https://www.washingtonpost.com/nation/2026/02/02/ice-protest-apartment-tenants-caught/",
-    "source": "wapo",
-    "pubdate": "2026-02-02-11-00-35 +0000"
-  },
-  {
-    "headline": "For traditional Catholics, Charlotte Communion dispute is a battle line",
-    "link": "https://www.washingtonpost.com/nation/2026/02/02/catholic-church-communion-traditional-pope/",
-    "source": "wapo",
-    "pubdate": "2026-02-02-11-00-28 +0000"
-  },
-  {
-    "headline": "‘Deadbeat’ hedge fund boss, sued by his own mother, declares bankruptcy — and lists two guinea pigs among $239K in assets",
-    "link": "https://nypost.com/2026/02/02/business/deadbeat-hedge-fund-boss-sued-by-his-own-mother-declares-bankruptcy/",
+    "headline": "President Trump appointee Lee Zeldin turns up the heat on fire rebuild efforts with West Coast trip",
+    "link": "https://nypost.com/2026/02/02/us-news/trump-appointee-lee-zeldin-to-meet-with-karen-bass-on-fire-rebuild-efforts/",
     "source": "nypost",
-    "pubdate": "2026-02-02-11-00-00 +0000"
+    "pubdate": "2026-02-02-13-15-00 +0000"
   },
   {
-    "headline": "Why Prices at Five Below Are Nudging Above $5",
-    "link": "https://www.wsj.com/articles/why-prices-at-five-below-are-nudging-above-5-bb054fb8?mod=pls_whats_news_us_business_f",
+    "headline": "‘A Terrifying Line Is Being Crossed’: Mayor Jacob Frey on the Turmoil in Minneapolis",
+    "link": "https://www.nytimes.com/2026/01/31/magazine/jacob-frey-interview.html",
+    "source": "nyt",
+    "pubdate": "2026-02-02-13-11-40 +0000"
+  },
+  {
+    "headline": "Lord Mandelson, ex-ambassador to U.S., resigns from Labour over Epstein",
+    "link": "https://www.washingtonpost.com/world/2026/02/02/mandelson-resignation-labour-epstein/",
+    "source": "wapo",
+    "pubdate": "2026-02-02-13-11-33 +0000"
+  },
+  {
+    "headline": "Starmer believes Mandelson 'should not be member of Lords'",
+    "link": "https://www.bbc.com/news/articles/cgm4rkn7x7po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-13-03-30 +0000"
+  },
+  {
+    "headline": "Hard-up Olympians selling medals — and their bodies — and living in their cars to make ends meet",
+    "link": "https://nypost.com/2026/02/02/sports/hard-up-olympians-selling-medals-and-their-bodies/",
+    "source": "nypost",
+    "pubdate": "2026-02-02-13-00-00 +0000"
+  },
+  {
+    "headline": "Neal: Minnesotans at the middle of the action as the Winter Olympics begin this week",
+    "link": "https://www.startribune.com/neal-minnesotans-at-the-middle-of-the-action-as-the-winter-olympics-begin-this-week/601566940",
+    "source": "startribune",
+    "pubdate": "2026-02-02-13-00-00 +0000"
+  },
+  {
+    "headline": "U.S. weapons makers are fighting a battle on two fronts: ensuring strong returns for investors and trying to satisfy their biggest customer—the Pentagon",
+    "link": "https://www.wsj.com/politics/national-security/the-tightrope-for-defense-contractors-satisfying-investors-and-president-trump-fc3bf75a",
     "source": "wsj",
-    "pubdate": "2026-02-02-11-00-00 +0000"
+    "pubdate": "2026-02-02-13-00-00 +0000"
+  },
+  {
+    "headline": "Disney’s Streaming Profit Surges as CEO Decision Approaches",
+    "link": "https://www.wsj.com/business/media/disney-dis-q1-earnings-report-2026-1170ca66?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-57-00 +0000"
+  },
+  {
+    "headline": "The 'fantastic' baby bundles not every mum will get",
+    "link": "https://www.bbc.com/news/articles/cj4lg1xqp0zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-55-59 +0000"
+  },
+  {
+    "headline": "Melania film beats box office predictions despite criticisms",
+    "link": "https://www.bbc.com/news/articles/cp3706v13k0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-54-45 +0000"
+  },
+  {
+    "headline": "Mother of Savannah Guthrie, NBC News anchor, missing in Arizona",
+    "link": "https://www.bbc.com/news/articles/c14rd1ny5gdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-45-14 +0000"
+  },
+  {
+    "headline": "Beijing criticises Dalai Lama Grammy win as 'manipulation'",
+    "link": "https://www.bbc.com/news/articles/cwy8zqn9571o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-44-33 +0000"
+  },
+  {
+    "headline": "President Trump says the Kennedy Center will be closed for renovations for two years",
+    "link": "https://www.wsj.com/politics/elections/trump-says-kennedy-center-will-close-for-two-years-for-renovations-4e9c21cb",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-44-00 +0000"
+  },
+  {
+    "headline": "Australian woman dies after becoming snagged in ski lift in Japan",
+    "link": "https://www.bbc.com/news/articles/cvgdyj5n3m6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-43-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-061a8e4c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-43-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-061a8e4c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-43-00 +0000"
+  },
+  {
+    "headline": "Australian woman dies after becoming snagged in ski lift in Japan",
+    "link": "https://www.bbc.com/news/articles/cvgdyj5n3m6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-43-00 +0000"
+  },
+  {
+    "headline": "‘Today’ Anchor Savannah Guthrie’s Mother Is Missing, Authorities Say",
+    "link": "https://www.nytimes.com/2026/02/02/us/savannah-guthrie-mother-missing.html",
+    "source": "nyt",
+    "pubdate": "2026-02-02-12-42-14 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-3f79fa07?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-38-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b157aae3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-35-00 +0000"
+  },
+  {
+    "headline": "Devon, Coterra to Merge in $58 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/devon-coterra-to-merge-in-58-billion-deal-c6509a75?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-34-00 +0000"
+  },
+  {
+    "headline": "Jeffrey Epstein had a secret child 15 years ago, bombshell email claims",
+    "link": "https://nypost.com/2026/02/02/us-news/jeffrey-epstein-had-a-secret-child-15-years-ago-bombshell-email-claims/",
+    "source": "nypost",
+    "pubdate": "2026-02-02-12-31-39 +0000"
+  },
+  {
+    "headline": "Italy’s Intesa Sanpaolo to Cut Jobs, Boost Payouts Under New Strategy",
+    "link": "https://www.wsj.com/business/earnings/intesa-plans-to-cut-6-100-jobs-by-2029-in-savings-push-e3c22d41?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-31-00 +0000"
+  },
+  {
+    "headline": "Trump threatens to sue Trevor Noah over Epstein joke at Grammys",
+    "link": "https://www.bbc.com/news/articles/c98p02yg4jro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-30-53 +0000"
+  },
+  {
+    "headline": "Trump Says Kennedy Center Will Close for 2-Year Reconstruction Project",
+    "link": "https://www.nytimes.com/2026/02/01/us/politics/trump-kennedy-center.html",
+    "source": "nyt",
+    "pubdate": "2026-02-02-12-29-33 +0000"
+  },
+  {
+    "headline": "Trump Says Kennedy Center Will Close for 2-Year Reconstruction Project",
+    "link": "https://www.nytimes.com/2026/02/01/us/politics/trump-kennedy-center.html",
+    "source": "nyt",
+    "pubdate": "2026-02-02-12-29-33 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-7dc2d427?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-02-12-29-00 +0000"
+  },
+  {
+    "headline": "Gold and silver prices fall after Friday's losses",
+    "link": "https://www.bbc.com/news/articles/cpdy0y3jle4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-28-29 +0000"
+  },
+  {
+    "headline": "Punxsutawney Phil makes his Groundhog Day winter prediction",
+    "link": "https://nypost.com/2026/02/02/us-news/punxsutawney-phil-makes-his-groundhog-day-winter-prediction/",
+    "source": "nypost",
+    "pubdate": "2026-02-02-12-27-48 +0000"
+  },
+  {
+    "headline": "MP arrested over more alleged sexual offences",
+    "link": "https://www.bbc.com/news/articles/c20d7y2rqw6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-02-12-22-47 +0000"
+  },
+  {
+    "headline": "Jeffrey Epstein calls himself ‘Tier One’ sex predator in newly released interview",
+    "link": "https://nypost.com/2026/02/02/us-news/jeffrey-epstein-calls-himself-tier-one-sex-predator-in-newly-released-interview/",
+    "source": "nypost",
+    "pubdate": "2026-02-02-12-17-39 +0000"
+  },
+  {
+    "headline": "Jeffrey Epstein calls himself ‘Tier One’ sex predator in newly released interview",
+    "link": "https://nypost.com/2026/02/02/us-news/jeffrey-epstein-calls-himself-tier-one-sex-predator-in-newly-released-interview/",
+    "source": "nypost",
+    "pubdate": "2026-02-02-12-17-39 +0000"
   }
 ]
