@@ -1,16 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-02-02-03-42-00 +0000",
-    "source": "wsj",
-    "headline": "BlueScope Steel Open to Better Offers After Spurning $8.8 Billion Takeover Bid",
-    "link": "https://www.wsj.com/business/bluescope-steel-open-to-better-offers-after-spurning-8-8-billion-takeover-bid-f228a6e2?mod=pls_whats_news_us_business_f"
+    "score": 15,
+    "pubdate": "2026-02-02-05-01-08 +0000",
+    "source": "nyt",
+    "headline": "Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.",
+    "link": "https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-02-02-03-38-34 +0000",
-    "source": "startribune",
-    "headline": "The latest: Musicians call out ICE actions in Minnesota at the Grammy Awards",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+    "score": 14,
+    "pubdate": "2026-02-02-04-55-58 +0000",
+    "source": "nyt",
+    "headline": "Laura Fernández Wins Costa Rican Presidency",
+    "link": "https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-02-04-43-48 +0000",
+    "source": "nypost",
+    "headline": "Paul Weiss law firm chair Brad Karp told Jeffrey Epstein ‘You’re amazing’",
+    "link": "https://nypost.com/2026/02/01/us-news/paul-weiss-law-firm-chair-brad-karp-told-jeffrey-epstein-youre-amazing/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-02-05-01-28 +0000",
+    "source": "nyt",
+    "headline": "How a Village in Italy Became a Slice of Caracas",
+    "link": "https://www.nytimes.com/2026/02/02/world/americas/italy-marina-di-camerota-venezuela-migrants.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-02-04-58-07 +0000",
+    "source": "latimes",
+    "headline": "Would-be thieves in ski masks arrested after attempted Woodland Hills break-in",
+    "link": "https://www.latimes.com/california/story/2026-02-01/would-be-thieves-in-ski-masks-arrested-after-attempted-break-in-woodland-hills"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-02-05-00-09 +0000",
+    "source": "nyt",
+    "headline": "Squeezed Between Trump and China, India Looks for Faraway Friendships",
+    "link": "https://www.nytimes.com/2026/02/02/business/india-trump-china-trade-deals.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-02-04-55-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Likely to Remain Volatile in Near Term",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-02-05-01-28 +0000",
+    "source": "nyt",
+    "headline": "How a Village in Italy Became a Slice of Caracas",
+    "link": "https://www.nytimes.com/2026/02/02/world/americas/italy-marina-di-camerota-venezuela-migrants.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-02-05-01-08 +0000",
+    "source": "nyt",
+    "headline": "Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.",
+    "link": "https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-02-04-55-58 +0000",
+    "source": "nyt",
+    "headline": "Laura Fernández Wins Costa Rican Presidency",
+    "link": "https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez.html"
   }
 ]
