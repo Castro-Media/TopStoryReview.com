@@ -1,6 +1,6 @@
 [
   {
-    "score": 110,
+    "score": 109,
     "pubdate": "2026-02-02-00-53-49 +0000",
     "source": "nypost",
     "headline": "Trump announces two-year closure of Trump Kennedy Center for major renovations",
@@ -14,21 +14,21 @@
     "link": "https://www.bbc.com/news/videos/cx20zqw7v9ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
+    "score": 55,
     "pubdate": "2026-02-01-14-23-30 +0000",
     "source": "bbc",
     "headline": "French tech giant Capgemini to sell US subsidiary working for ICE",
     "link": "https://www.bbc.com/news/articles/cd9e4xw8vqqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
+    "score": 54,
     "pubdate": "2026-02-01-20-12-26 +0000",
     "source": "nypost",
     "headline": "Gov. Hochul will raise New York’s taxes after the election, ex-Gov. Pataki warns",
     "link": "https://nypost.com/2026/02/01/us-news/cowardly-gov-hochul-will-raise-new-yorks-taxes-after-the-election-ex-gov-pataki-warns/"
   },
   {
-    "score": 47,
+    "score": 49,
     "pubdate": "2026-02-01-04-26-00 +0000",
     "source": "wsj",
     "headline": "President Trump joked during a speech that he would sue Kevin Warsh, his nominee to chair the Federal Reserve, if he didn’t lower interest rates",
@@ -42,13 +42,6 @@
     "link": "https://www.bbc.com/news/articles/c3dm790vxlko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2026-02-01-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "An Abu Dhabi royal backed a secret $500 million investment in Trump’s crypto company. Months later, U.A.E. won access to tightly guarded American AI chips.",
-    "link": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8"
-  },
-  {
     "score": 41,
     "pubdate": "2026-02-01-11-00-00 +0000",
     "source": "latimes",
@@ -56,17 +49,24 @@
     "link": "https://www.latimes.com/politics/story/2026-02-01/andy-beshear-gavin-newsom-trump-2028-democrats-presidential-race"
   },
   {
-    "score": 38,
+    "score": 40,
+    "pubdate": "2026-02-01-10-54-14 +0000",
+    "source": "nypost",
+    "headline": "Iran’s supreme leader warns any US attack would spark ‘regional war’",
+    "link": "https://nypost.com/2026/02/01/world-news/iran-supreme-leader-ayatollah-ali-khamenei-warns-us-attack-would-spark-regional-war/"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-02-02-01-12-32 +0000",
     "source": "nypost",
     "headline": "Ex-Gov. Chris Christie claims Trump is political liability in NJ after Mikie Sherrill win: ‘We forgot how to win’",
     "link": "https://nypost.com/2026/02/01/us-news/trump-is-political-liability-for-gop-in-nj-ex-gov-christie-says/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-02-01-10-54-14 +0000",
-    "source": "nypost",
-    "headline": "Iran’s supreme leader warns any US attack would spark ‘regional war’",
-    "link": "https://nypost.com/2026/02/01/world-news/iran-supreme-leader-ayatollah-ali-khamenei-warns-us-attack-would-spark-regional-war/"
+    "score": 37,
+    "pubdate": "2026-02-01-04-18-45 +0000",
+    "source": "nyt",
+    "headline": "Judge Orders Release of 5-Year-Old Detained by Immigration Agents in Minnesota",
+    "link": "https://www.nytimes.com/2026/01/31/us/politics/liam-ramos-ice-release.html"
   }
 ]
