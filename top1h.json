@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 14,
+    "pubdate": "2026-02-02-06-51-45 +0000",
+    "source": "nyt",
+    "headline": "Laura Fernández Wins Costa Rican Presidency",
+    "link": "https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-02-06-57-00 +0000",
+    "source": "wsj",
+    "headline": "Julius Baer Posts Expected Drop in Profit",
+    "link": "https://www.wsj.com/finance/banking/julius-baer-posts-expected-drop-in-profit-8e18a46e?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-02-06-29-11 +0000",
+    "source": "nypost",
+    "headline": "Former UK minister Mandelson quits Labour after new Epstein revelations: report",
+    "link": "https://nypost.com/2026/02/02/world-news/uk-minister-peter-mandelson-resigns-from-labour-party-after-jeffrey-epstein-ties-revealed/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-02-06-49-00 +0000",
+    "source": "wsj",
+    "headline": "French New Car Sales Slide as Economic Clouds Keep Consumers Gloomy",
+    "link": "https://www.wsj.com/business/autos/french-new-car-sales-slide-as-economic-clouds-keep-consumers-gloomy-ba248c79?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-02-07-13-41 +0000",
+    "source": "bbc",
+    "headline": "Stars hit red carpet at Grammy Awards show",
+    "link": "https://www.bbc.com/news/articles/cqj2kyp29l7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-02-07-07-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Fall Ahead of Data, Refunding Announcement",
+    "link": "https://www.wsj.com/finance/investing/jgbs-fall-amid-prospects-that-japans-ruling-party-may-win-more-seats-44aeb98e?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-02-07-00-55 +0000",
+    "source": "bbc",
+    "headline": "Twelve miners killed by Russian strike in Ukraine, officials say",
+    "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-02-06-43-00 +0000",
+    "source": "wsj",
+    "headline": "Metals’ Continued Meltdown Opens Door to Rebound",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-02-06-41-19 +0000",
+    "source": "bbc",
+    "headline": "Gold and silver plunge deepens after Friday's losses",
+    "link": "https://www.bbc.com/news/articles/cpdy0y3jle4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-02-02-06-25-16 +0000",
+    "source": "wapo",
+    "headline": "In Gaza, an ‘apocalyptic wasteland’ foretold",
+    "link": "https://www.washingtonpost.com/world/2026/02/02/gaza-apocalyptic-wasteland-warning-united-states-/"
+  }
+]
