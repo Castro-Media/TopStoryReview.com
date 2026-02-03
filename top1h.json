@@ -1,16 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-02-03-04-23-41 +0000",
-    "source": "startribune",
-    "headline": "The latest: Eight more federal attorneys set to leave the Minnesota U.S. Attorney’s Office",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+    "score": 28,
+    "pubdate": "2026-02-03-05-53-37 +0000",
+    "source": "nypost",
+    "headline": "DHS slams Biden-appointed judge for blocking Trump admin’s efforts to end deportation protections for Haitian migrants",
+    "link": "https://nypost.com/2026/02/03/us-news/dhs-slams-judge-for-blocking-trump-admins-efforts-to-end-deportation-protections-for-haitian-migrants/"
   },
   {
-    "score": 6,
-    "pubdate": "2026-02-03-04-21-00 +0000",
+    "score": 20,
+    "pubdate": "2026-02-03-05-26-00 +0000",
     "source": "wsj",
-    "headline": "Precious Metals, Asian Equities Broadly Higher",
-    "link": "https://www.wsj.com/finance/stocks/precious-metals-asian-equities-broadly-higher-ade65584?mod=rss_markets_main"
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-03-05-10-50 +0000",
+    "source": "nyt",
+    "headline": "Immigration Officers in Minneapolis Will Wear Body Cameras, Noem Says",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/immigration-body-cameras-noem.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-03-05-26-00 +0000",
+    "source": "wsj",
+    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-03-06-01-18 +0000",
+    "source": "bbc",
+    "headline": "Son of Norway's crown princess goes on trial in tense moment for royal family",
+    "link": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-03-05-10-00 +0000",
+    "source": "wsj",
+    "headline": "Australian Dollar Likely to Strengthen on Further RBA Rate Hike Prospects",
+    "link": "https://www.wsj.com/finance/currencies/yen-mixed-as-traders-digest-japanese-finance-ministers-fx-remarks-96314604?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-03-06-07-36 +0000",
+    "source": "nyt",
+    "headline": "Administration Drops Demand for Cash From Harvard After Stiff Resistance",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-harvard-payment.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-03-05-53-37 +0000",
+    "source": "nypost",
+    "headline": "DHS slams Biden-appointed judge for blocking Trump admin’s efforts to end deportation protections for Haitian migrants",
+    "link": "https://nypost.com/2026/02/03/us-news/dhs-slams-judge-for-blocking-trump-admins-efforts-to-end-deportation-protections-for-haitian-migrants/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-03-05-26-00 +0000",
+    "source": "wsj",
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-03-05-26-00 +0000",
+    "source": "wsj",
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba?mod=pls_whats_news_us_business_f"
   }
 ]

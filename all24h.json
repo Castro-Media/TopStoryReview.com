@@ -1,15 +1,129 @@
 [
   {
-    "headline": "The latest: Eight more federal attorneys set to leave the Minnesota U.S. Attorney’s Office",
+    "headline": "Administration Drops Demand for Cash From Harvard After Stiff Resistance",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-harvard-payment.html",
+    "source": "nyt",
+    "pubdate": "2026-02-03-06-07-36 +0000"
+  },
+  {
+    "headline": "Son of Norway's crown princess goes on trial in tense moment for royal family",
+    "link": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-03-06-01-18 +0000"
+  },
+  {
+    "headline": "DHS slams Biden-appointed judge for blocking Trump admin’s efforts to end deportation protections for Haitian migrants",
+    "link": "https://nypost.com/2026/02/03/us-news/dhs-slams-judge-for-blocking-trump-admins-efforts-to-end-deportation-protections-for-haitian-migrants/",
+    "source": "nypost",
+    "pubdate": "2026-02-03-05-53-37 +0000"
+  },
+  {
+    "headline": "DHS slams Biden-appointed judge for blocking Trump admin’s efforts to end deportation protections for Haitian migrants",
+    "link": "https://nypost.com/2026/02/03/us-news/dhs-slams-judge-for-blocking-trump-admins-efforts-to-end-deportation-protections-for-haitian-migrants/",
+    "source": "nypost",
+    "pubdate": "2026-02-03-05-53-37 +0000"
+  },
+  {
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-02-03-05-26-00 +0000"
+  },
+  {
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-02-03-05-26-00 +0000"
+  },
+  {
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-03-05-26-00 +0000"
+  },
+  {
+    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-02-03-05-26-00 +0000"
+  },
+  {
+    "headline": "Immigration Officers in Minneapolis Will Wear Body Cameras, Noem Says",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/immigration-body-cameras-noem.html",
+    "source": "nyt",
+    "pubdate": "2026-02-03-05-10-50 +0000"
+  },
+  {
+    "headline": "Immigration Officers in Minneapolis Will Wear Body Cameras, Noem Says",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/immigration-body-cameras-noem.html",
+    "source": "nyt",
+    "pubdate": "2026-02-03-05-10-50 +0000"
+  },
+  {
+    "headline": "Australian Dollar Likely to Strengthen on Further RBA Rate Hike Prospects",
+    "link": "https://www.wsj.com/finance/currencies/yen-mixed-as-traders-digest-japanese-finance-ministers-fx-remarks-96314604?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-03-05-10-00 +0000"
+  },
+  {
+    "headline": "LIRR train crashes into vehicle in fiery wreck, injuring 3",
+    "link": "https://nypost.com/2026/02/03/us-news/lirr-train-crashes-into-vehicle-in-fiery-wreck-injuring-3/",
+    "source": "nypost",
+    "pubdate": "2026-02-03-05-01-59 +0000"
+  },
+  {
+    "headline": "The latest: All DHS agents in Minnesota to be outfitted with body cameras, Noem says",
     "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
     "source": "startribune",
-    "pubdate": "2026-02-03-04-23-41 +0000"
+    "pubdate": "2026-02-03-04-58-14 +0000"
+  },
+  {
+    "headline": "Pirro Threatens Jail Time for Lawful Gun Owners Who Travel to D.C. With Firearms",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/pirro-dc-guns.html",
+    "source": "nyt",
+    "pubdate": "2026-02-03-04-52-56 +0000"
+  },
+  {
+    "headline": "Pirro Threatens Jail Time for Lawful Gun Owners Who Travel to D.C. With Firearms",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/pirro-dc-guns.html",
+    "source": "nyt",
+    "pubdate": "2026-02-03-04-52-56 +0000"
+  },
+  {
+    "headline": "What Oracle Has to Lose From OpenAI and Nvidia’s Rocky Relationship",
+    "link": "https://www.wsj.com/tech/ai/what-oracle-has-to-lose-from-openai-and-nvidias-rocky-relationship-b1ec1e9d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-03-04-50-00 +0000"
+  },
+  {
+    "headline": "What Oracle Has to Lose From OpenAI and Nvidia’s Rocky Relationship",
+    "link": "https://www.wsj.com/tech/ai/what-oracle-has-to-lose-from-openai-and-nvidias-rocky-relationship-b1ec1e9d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-03-04-50-00 +0000"
+  },
+  {
+    "headline": "NYC woman sentenced for laundering $20M in drug money through airline ticket business",
+    "link": "https://nypost.com/2026/02/02/us-news/nyc-woman-sentenced-for-laundering-20m-in-drug-money-through-airline-ticket-business/",
+    "source": "nypost",
+    "pubdate": "2026-02-03-04-48-43 +0000"
+  },
+  {
+    "headline": "Another wave of departures in Minnesota’s U.S. Attorney’s Office",
+    "link": "https://www.startribune.com/another-wave-of-departures-in-minnesotas-us-attorneys-office/601575569",
+    "source": "startribune",
+    "pubdate": "2026-02-03-04-28-25 +0000"
   },
   {
     "headline": "Precious Metals, Asian Equities Broadly Higher",
     "link": "https://www.wsj.com/finance/stocks/precious-metals-asian-equities-broadly-higher-ade65584?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-03-04-21-00 +0000"
+  },
+  {
+    "headline": "US judge temporarily blocks lifting of deportation protections for Haiti migrants",
+    "link": "https://www.bbc.com/news/articles/c5yxn7kqww8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-03-04-12-20 +0000"
   },
   {
     "headline": "The New Key to Restaurant Success? A Simple but Clever Model.",
@@ -28,6 +142,12 @@
     "link": "https://nypost.com/2026/02/02/us-news/south-carolina-father-of-three-who-married-high-school-sweetheart-killed-in-sledding-accident/",
     "source": "nypost",
     "pubdate": "2026-02-03-03-47-32 +0000"
+  },
+  {
+    "headline": "Hope and uncertainty as India and US strike long-delayed trade deal",
+    "link": "https://www.bbc.com/news/articles/cpwnlwj80p8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-03-03-44-19 +0000"
   },
   {
     "headline": "Panel tosses ex-UCLA doctor's sex abuse conviction; lawyers weren't told of juror's 'limited English'",
@@ -138,12 +258,6 @@
     "pubdate": "2026-02-03-02-55-08 +0000"
   },
   {
-    "headline": "Singapore Dollar Strengthens Slightly Amid Risk-On Sentiment",
-    "link": "https://www.wsj.com/finance/currencies/yen-mixed-as-traders-digest-japanese-finance-ministers-fx-remarks-96314604?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-03-02-51-00 +0000"
-  },
-  {
     "headline": "Gabbard Arranges Trump Call With FBI Agents After Georgia Election Center Search",
     "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-fbi-phone-call-georgia-gabbard.html",
     "source": "nyt",
@@ -162,7 +276,7 @@
     "pubdate": "2026-02-03-02-38-00 +0000"
   },
   {
-    "headline": "Mayor Daniel Lurie says immigrants shouldn’t fear feds in S.F. ahead of Super Bowl",
+    "headline": "Mayor Lurie expects no ‘increase’ in ICE enforcement ahead of Super Bowl",
     "link": "https://missionlocal.org/2026/02/sf-super-bowl-daniel-lurie-ice/",
     "source": "missionlocal",
     "pubdate": "2026-02-03-02-36-40 +0000"
@@ -208,6 +322,12 @@
     "link": "https://nypost.com/2026/02/02/us-news/dc-residents-furious-with-schools-still-closed-streets-a-snowy-mess-democrats-are-worried-about-the-wrong-ice/",
     "source": "nypost",
     "pubdate": "2026-02-03-02-07-02 +0000"
+  },
+  {
+    "headline": "China bans hidden car door handles over safety concerns",
+    "link": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-03-02-06-29 +0000"
   },
   {
     "headline": "China bans hidden car door handles over safety concerns",
@@ -456,18 +576,6 @@
     "pubdate": "2026-02-03-01-04-46 +0000"
   },
   {
-    "headline": "What Oracle Has to Lose From OpenAI and Nvidia’s Rocky Relationship",
-    "link": "https://www.wsj.com/tech/ai/what-oracle-has-to-lose-from-openai-and-nvidias-rocky-relationship-b1ec1e9d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-03-01-00-00 +0000"
-  },
-  {
-    "headline": "What Oracle Has to Lose From OpenAI and Nvidia’s Rocky Relationship",
-    "link": "https://www.wsj.com/tech/ai/what-oracle-has-to-lose-from-openai-and-nvidias-rocky-relationship-b1ec1e9d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-03-01-00-00 +0000"
-  },
-  {
     "headline": "Alabama man inexplicably survives being crushed by garbage truck while sleeping in dumpster: ‘That was a God thing’",
     "link": "https://nypost.com/2026/02/02/us-news/alabama-man-inexplicably-survives-being-crushed-by-garbage-truck-while-sleeping-in-dumpster-that-was-a-god-thing/",
     "source": "nypost",
@@ -498,24 +606,6 @@
     "pubdate": "2026-02-03-00-55-23 +0000"
   },
   {
-    "headline": "Elderly dog miraculously survives after slipping off icy cliff in Virginia",
-    "link": "https://nypost.com/2026/02/02/us-news/elderly-dog-survives-after-slipping-off-icy-cliff-in-virginia/",
-    "source": "nypost",
-    "pubdate": "2026-02-03-00-54-29 +0000"
-  },
-  {
-    "headline": "Immigration Officers in Minneapolis Will Wear Body Cameras, Noem Says",
-    "link": "https://www.nytimes.com/2026/02/02/us/politics/immigration-body-cameras-noem.html",
-    "source": "nyt",
-    "pubdate": "2026-02-03-00-53-14 +0000"
-  },
-  {
-    "headline": "Immigration Officers in Minneapolis Will Wear Body Cameras, Noem Says",
-    "link": "https://www.nytimes.com/2026/02/02/us/politics/immigration-body-cameras-noem.html",
-    "source": "nyt",
-    "pubdate": "2026-02-03-00-53-14 +0000"
-  },
-  {
     "headline": "Rafah Crossing in Gaza Reopens, Another Step for Fragile Cease-Fire",
     "link": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.html",
     "source": "nyt",
@@ -538,12 +628,6 @@
     "link": "https://www.nytimes.com/2026/02/02/us/politics/doj-press-law-warrant-application-washington-post-journalist.html",
     "source": "nyt",
     "pubdate": "2026-02-03-00-43-26 +0000"
-  },
-  {
-    "headline": "San Francisco uncovers secret casinos, sleazy drug dens in 9 convenience stores",
-    "link": "https://nypost.com/2026/02/02/us-news/san-francisco-uncovers-secret-casinos-sleazy-drug-dens-in-9-convenience-stores/",
-    "source": "nypost",
-    "pubdate": "2026-02-03-00-43-03 +0000"
   },
   {
     "headline": "Takeaways from the millions of newly released Epstein files",
@@ -586,12 +670,6 @@
     "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-tariffs-india-trade-deal.html",
     "source": "nyt",
     "pubdate": "2026-02-03-00-37-12 +0000"
-  },
-  {
-    "headline": "Brazen thieves storm home of ‘Suits’ star, steal $200K in cash and jewelry",
-    "link": "https://nypost.com/2026/02/02/us-news/brazen-thieves-storm-home-of-suits-star-steal-200k-in-cash-and-jewelry/",
-    "source": "nypost",
-    "pubdate": "2026-02-03-00-36-51 +0000"
   },
   {
     "headline": "Why Texas Is the Wildest Story in U.S. Politics Right Now",
@@ -700,12 +778,6 @@
     "link": "https://www.startribune.com/minnesota-to-visit-5800-providers-in-fraud-fighting-push/601575538",
     "source": "startribune",
     "pubdate": "2026-02-02-23-55-47 +0000"
-  },
-  {
-    "headline": "DHS chief Kristi Noem says all agents in Minnesota will be given body cameras",
-    "link": "https://www.startribune.com/dhs-chief-kristi-noem-says-all-agents-in-minnesota-will-be-given-body-cameras-effective-immediately/601575549",
-    "source": "startribune",
-    "pubdate": "2026-02-02-23-51-40 +0000"
   },
   {
     "headline": "Minnesota prosecutors formally demand evidence from Trump administration over the killing of Renee Good",
@@ -888,12 +960,6 @@
     "pubdate": "2026-02-02-22-48-00 +0000"
   },
   {
-    "headline": "Trump Drops Demand for Cash From Harvard After Stiff Resistance",
-    "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-harvard-payment.html",
-    "source": "nyt",
-    "pubdate": "2026-02-02-22-48-00 +0000"
-  },
-  {
     "headline": "CBS News weighs firing Peter Attia in wake of Jeffrey Epstein emails — Bari Weiss reluctant to ax him: source",
     "link": "https://nypost.com/2026/02/02/media/cbs-news-weighs-firing-peter-attia-in-wake-of-jeffrey-epstein-correspondence-bari-weiss-reluctant-to-ax-him-source/",
     "source": "nypost",
@@ -991,12 +1057,6 @@
   },
   {
     "headline": "Federal Officers in Minneapolis to Receive Body Cameras",
-    "link": "https://www.wsj.com/us-news/federal-officers-in-minneapolis-to-receive-body-cameras-ff6fe26d",
-    "source": "wsj",
-    "pubdate": "2026-02-02-22-28-00 +0000"
-  },
-  {
-    "headline": "The Trump administration will provide body cameras to federal officers in Minneapolis, Homeland Security Secretary Kristi Noem said",
     "link": "https://www.wsj.com/us-news/federal-officers-in-minneapolis-to-receive-body-cameras-ff6fe26d",
     "source": "wsj",
     "pubdate": "2026-02-02-22-28-00 +0000"
@@ -1222,24 +1282,6 @@
     "link": "https://www.cbc.ca/news/politics/poilievre-leadership-carney-trump-analysis-9.7071230?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-02-21-24-16 +0000"
-  },
-  {
-    "headline": "The Famous Names in the Latest Release of Epstein Files",
-    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
-    "source": "wsj",
-    "pubdate": "2026-02-02-21-22-00 +0000"
-  },
-  {
-    "headline": "The Famous Names in the Latest Release of Epstein Files",
-    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
-    "source": "wsj",
-    "pubdate": "2026-02-02-21-22-00 +0000"
-  },
-  {
-    "headline": "The Famous Names in the Latest Release of Epstein Files",
-    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-02-21-22-00 +0000"
   },
   {
     "headline": "Santa Clarita girls' hockey team wins title after player's dad dies in icy accident",
@@ -1470,7 +1512,7 @@
     "pubdate": "2026-02-02-19-44-12 +0000"
   },
   {
-    "headline": "Second Orange County measles case confirmed; traveler visited Disney California Adventure Park",
+    "headline": "Measles cases grow in SoCal; one infected person flew into LAX, spent hours at Disney park",
     "link": "https://www.latimes.com/california/story/2026-02-02/second-orange-county-measles-case-confirmed-at-disney-california-adventure-park",
     "source": "latimes",
     "pubdate": "2026-02-02-19-41-25 +0000"
@@ -1690,12 +1732,6 @@
     "link": "https://www.bbc.com/news/articles/cr4q61y399xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-02-18-23-50 +0000"
-  },
-  {
-    "headline": "Ghana suspends citizenship process for people of African descent",
-    "link": "https://www.bbc.com/news/articles/c75x0pk6zkvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-18-21-04 +0000"
   },
   {
     "headline": "Ghana suspends citizenship process for people of African descent",
@@ -2682,12 +2718,6 @@
     "pubdate": "2026-02-02-09-22-58 +0000"
   },
   {
-    "headline": "Candidate tough on crime wins Costa Rica presidential election",
-    "link": "https://www.bbc.com/news/articles/cdre7me407yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-09-22-58 +0000"
-  },
-  {
     "headline": "Canadian military goes to U.S. for F-35 ceremony despite renewed trade tensions",
     "link": "https://www.cbc.ca/news/politics/canada-f-35-lockheed-martin-first-delivery-ceremony-9.7068543?cmp=rss",
     "source": "cbc",
@@ -2778,12 +2808,6 @@
     "pubdate": "2026-02-02-07-13-41 +0000"
   },
   {
-    "headline": "The most eye-catching looks from the Grammy Awards, from Chappell Roan to Olivia Dean",
-    "link": "https://www.bbc.com/news/articles/cqj2kyp29l7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-07-13-41 +0000"
-  },
-  {
     "headline": "Twelve miners killed by Russian strike in Ukraine, officials say",
     "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2806,47 +2830,5 @@
     "link": "https://www.washingtonpost.com/world/2026/02/02/gaza-apocalyptic-wasteland-warning-united-states-/",
     "source": "wapo",
     "pubdate": "2026-02-02-06-25-16 +0000"
-  },
-  {
-    "headline": "School pantries mean 'food on table' for families",
-    "link": "https://www.bbc.com/news/articles/c4g0ygqvq21o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-06-04-47 +0000"
-  },
-  {
-    "headline": "'Enemy' insults and questioning Putin: Steve Rosenberg on tightrope of reporting from Russia",
-    "link": "https://www.bbc.com/news/articles/c20g25w8j0xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-06-00-30 +0000"
-  },
-  {
-    "headline": "'Enemy' insults and questioning Putin: Steve Rosenberg on tightrope of reporting from Russia",
-    "link": "https://www.bbc.com/news/articles/c20g25w8j0xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-06-00-30 +0000"
-  },
-  {
-    "headline": "All the winners at the 2026 Grammy Awards",
-    "link": "https://www.bbc.com/news/articles/czx1z0qwy77o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-05-49-11 +0000"
-  },
-  {
-    "headline": "Watch: The must-see moments from the 2026 Grammy Awards",
-    "link": "https://www.bbc.com/news/videos/c5yve4828l4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-05-45-59 +0000"
-  },
-  {
-    "headline": "Bad Bunny says 'ICE out' in Grammy Awards speech",
-    "link": "https://www.bbc.com/news/articles/c9vx9xpdz12o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-02-05-32-55 +0000"
-  },
-  {
-    "headline": "Why Targeting Iran Is Riskier Than Ousting Maduro",
-    "link": "https://www.nytimes.com/2026/02/01/world/trump-iran-threats-venezuela-epstein-files.html",
-    "source": "nyt",
-    "pubdate": "2026-02-02-05-17-36 +0000"
   }
 ]
