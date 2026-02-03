@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 30,
+    "pubdate": "2026-02-03-08-40-40 +0000",
+    "source": "bbc",
+    "headline": "Musk firms SpaceX and xAI merge to make world's most valuable private company",
+    "link": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-02-03-08-59-58 +0000",
+    "source": "bbc",
+    "headline": "Rape trial begins for son of Norway's crown princess in tense moment for royal family",
+    "link": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-02-03-09-02-47 +0000",
+    "source": "bbc",
+    "headline": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
+    "link": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-03-08-05-15 +0000",
+    "source": "nyt",
+    "headline": "Russia Resumes Attacks on Ukraine’s Energy System Ahead of Peace Talks",
+    "link": "https://www.nytimes.com/2026/02/03/world/europe/ukraine-missiles-attack.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-03-09-02-36 +0000",
+    "source": "bbc",
+    "headline": "Israel reopens Gaza's key Rafah border crossing with Egypt",
+    "link": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-03-08-46-15 +0000",
+    "source": "nyt",
+    "headline": "Uproar Over Meloni’s Face Painted on an Angel in a Church in Rome",
+    "link": "https://www.nytimes.com/2026/02/02/world/europe/angel-meloni-face-rome-church.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-03-08-30-23 +0000",
+    "source": "nypost",
+    "headline": "Savannah Guthrie’s sister enjoyed dinner with their missing mom hours before alleged abduction: report",
+    "link": "https://nypost.com/2026/02/03/us-news/savannah-guthries-sister-enjoyed-dinner-with-their-missing-mom-hours-before-alleged-abduction-report/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-03-08-45-16 +0000",
+    "source": "nypost",
+    "headline": "Man accused of murdering Alabama teen cheerleader, spraying bullets at friends, released on bond",
+    "link": "https://nypost.com/2026/02/03/us-news/man-accused-of-murdering-alabama-teen-cheerleader-spraying-bullets-at-friends-released-on-bond/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-03-08-21-54 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Futures Inch Up; Dollar Slips",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-03-2026?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-03-08-55-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Prices Slide on Milder Weather Outlook, Easing U.S. Storm Concerns",
+    "link": "https://www.wsj.com/articles/european-gas-prices-slide-on-milder-weather-outlook-easing-u-s-storm-concerns-41ae8af1?mod=rss_markets_main"
+  }
+]
