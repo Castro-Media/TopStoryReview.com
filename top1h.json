@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-02-03-22-57-52 +0000",
+    "score": 51,
+    "pubdate": "2026-02-04-00-31-15 +0000",
+    "source": "nypost",
+    "headline": "Netflix co-CEO grilled by senators as Warner Bros. deal sparks monopoly concerns: ‘One platform to rule them all’",
+    "link": "https://nypost.com/2026/02/03/business/netflixs-ted-sarandos-grilled-by-senators-over-warner-bros-deal/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-02-04-01-07-00 +0000",
+    "source": "wsj",
+    "headline": "Fed governor Stephen Miran said he resigned from his job as a top White House economic adviser, ending an unusual dual role he had held since he joined the central bank in September",
+    "link": "https://www.wsj.com/economy/central-banking/stephen-miran-temporary-fed-governor-resigns-from-white-house-role-57a08f8e"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-02-04-01-05-26 +0000",
+    "source": "bbc",
+    "headline": "X offices raided in France as UK opens fresh investigation into Grok",
+    "link": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-02-04-01-15-44 +0000",
     "source": "nyt",
-    "headline": "Lawsuit Argues Trump Gold Card Visa Program Prioritizes Wealth Over Ability",
-    "link": "https://www.nytimes.com/2026/02/03/us/politics/trump-gold-card-visa-lawsuit.html"
+    "headline": "Judge Appears Likely to Curtail Hegseth’s Power to Penalize Kelly for Video",
+    "link": "https://www.nytimes.com/2026/02/03/us/politics/judge-block-pete-hegseth-mark-kelly.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-04-00-50-25 +0000",
+    "source": "nypost",
+    "headline": "Mitch McConnell hospitalized for flu-like symptoms: ‘Prognosis is positive’",
+    "link": "https://nypost.com/2026/02/03/us-news/mitch-mcconnell-hospitalized-for-flu-like-symptoms-prognosis-is-positive/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-04-01-14-56 +0000",
+    "source": "nyt",
+    "headline": "Trump, Changing Course, Throws Harvard Deal Talks Into Chaos",
+    "link": "https://www.nytimes.com/2026/02/03/us/politics/trump-changing-course-throws-harvard-deal-talks-into-chaos.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-04-00-20-06 +0000",
+    "source": "nypost",
+    "headline": "Alleged psycho surgeon Michael McKee fired nearly 2 dozen shots into ex-wife, husband: reports",
+    "link": "https://nypost.com/2026/02/03/us-news/alleged-psycho-surgeon-michael-mckee-fired-nearly-2-dozen-shots-into-ex-wife-husband-reports/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-04-00-44-07 +0000",
+    "source": "nypost",
+    "headline": "Chef at Guthrie family’s go-to Tucson restaurant praises missing matriarch: ‘Nothing to say but wonderful things’",
+    "link": "https://nypost.com/2026/02/03/us-news/chef-at-guthrie-familys-favorite-tucson-restaurant-praises-missing-matriarch/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-04-00-35-51 +0000",
+    "source": "nypost",
+    "headline": "California governor debate gives first look at crowded crop in race to replace Gavin Newsom",
+    "link": "https://nypost.com/2026/02/03/us-news/california-governor-debate-gives-first-look-at-crowded-crop-in-race-to-replace-gavin-newsom/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-04-00-54-23 +0000",
+    "source": "cbc",
+    "headline": "French police raid X offices as they investigate Elon Musk's social media platform and AI chatbot Grok",
+    "link": "https://www.cbc.ca/news/world/french-police-raid-x-grok-elon-musk-9.7072861?cmp=rss"
   }
 ]
