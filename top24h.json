@@ -1,38 +1,31 @@
 [
   {
-    "score": 202,
-    "pubdate": "2026-02-04-02-39-00 +0000",
+    "score": 128,
+    "pubdate": "2026-02-04-00-00-00 +0000",
     "source": "wsj",
-    "headline": "New York and New Jersey sued the Trump administration Tuesday for withholding federal funding for a new $16 billion rail tunnel under the Hudson River",
-    "link": "https://www.wsj.com/us-news/new-york-and-new-jersey-sue-administration-for-withholding-gateway-tunnel-funding-7605d3ec"
+    "headline": "Stephen Miller called Alex Pretti a “domestic terrorist” after the VA nurse was killed by federal agents, a rare misstep for Miller, the White House aide stoking Trump’s boundary-pushing impulses.",
+    "link": "https://www.wsj.com/politics/policy/ice-stephen-miller-pretti-trump-2448e779"
   },
   {
-    "score": 144,
+    "score": 105,
+    "pubdate": "2026-02-04-16-39-42 +0000",
+    "source": "nypost",
+    "headline": "New Epstein emails about top Goldman lawyer Kathryn Ruemmler spark internal drama at bank: report",
+    "link": "https://nypost.com/2026/02/04/business/epstein-emails-about-goldmans-kathryn-ruemmler-spark-internal-drama-at-bank-report/"
+  },
+  {
+    "score": 78,
     "pubdate": "2026-02-04-01-07-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Stephen Miran said he resigned from his job as a top White House economic adviser, ending an unusual dual role he had held since he joined the central bank in September",
     "link": "https://www.wsj.com/economy/central-banking/stephen-miran-temporary-fed-governor-resigns-from-white-house-role-57a08f8e"
   },
   {
-    "score": 78,
-    "pubdate": "2026-02-04-15-08-36 +0000",
-    "source": "nyt",
-    "headline": "Former Prince Andrew Moves Out of Royal Home Amid Fresh Epstein Revelations",
-    "link": "https://www.nytimes.com/2026/02/04/world/europe/andrew-epstein-uk-home-windsor-sandringham.html"
-  },
-  {
-    "score": 69,
+    "score": 66,
     "pubdate": "2026-02-04-19-10-44 +0000",
     "source": "latimes",
     "headline": "Supreme Court, with no dissents, rejects GOP challenge to California's new election map",
     "link": "https://www.latimes.com/politics/story/2026-02-04/supreme-court-rejects-gop-challenge-to-californias-new-election-map"
-  },
-  {
-    "score": 66,
-    "pubdate": "2026-02-04-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "A new federal school-choice tax credit has set off a power struggle over how much control states will have. Billions are at stake",
-    "link": "https://www.wsj.com/politics/policy/federal-tax-credit-school-choice-61f57867"
   },
   {
     "score": 63,
@@ -42,31 +35,38 @@
     "link": "https://www.cbc.ca/news/world/french-police-raid-x-grok-elon-musk-9.7072861?cmp=rss"
   },
   {
-    "score": 56,
-    "pubdate": "2026-02-04-20-43-00 +0000",
+    "score": 62,
+    "pubdate": "2026-02-04-17-00-00 +0000",
     "source": "wsj",
-    "headline": "Democrats’ drive to reach a deal to put new restrictions on immigration-enforcement agents is running into a Republican brick wall",
-    "link": "https://www.wsj.com/politics/policy/congress-ended-the-shutdown-now-comes-the-fight-over-ice-a4a404e6"
+    "headline": "A new federal school-choice tax credit has set off a power struggle over how much control states will have. Billions are at stake",
+    "link": "https://www.wsj.com/politics/policy/federal-tax-credit-school-choice-61f57867"
   },
   {
-    "score": 50,
-    "pubdate": "2026-02-04-17-16-21 +0000",
+    "score": 59,
+    "pubdate": "2026-02-04-23-11-15 +0000",
     "source": "nypost",
-    "headline": "Vance announces critical minerals trading network called ‘Project Vault’ — claims global market is ‘failing’",
-    "link": "https://nypost.com/2026/02/04/us-news/vance-announces-critical-minerals-trading-network-called-project-vault/"
+    "headline": "Trump gets help in his critical minerals race with China as bill passes House",
+    "link": "https://nypost.com/2026/02/04/us-news/house-passes-bill-to-help-trump-in-his-critical-minerals-race-with-china/"
   },
   {
-    "score": 49,
-    "pubdate": "2026-02-04-14-52-00 +0000",
-    "source": "wsj",
-    "headline": "America’s private sector added 22,000 jobs last month, payrolls processor ADP estimated, a sign of cooler job growth, as economists await delayed government data",
-    "link": "https://www.wsj.com/economy/jobs/adp-numbers-suggest-cooler-january-job-growth-0eb1fc26"
+    "score": 53,
+    "pubdate": "2026-02-04-15-00-14 +0000",
+    "source": "nyt",
+    "headline": "Minneapolis Police Chief Fears Long-Term Damage From Immigration Crackdown",
+    "link": "https://www.nytimes.com/2026/02/04/us/brian-ohara-minneapolis-police-ice.html"
   },
   {
-    "score": 48,
-    "pubdate": "2026-02-04-18-10-00 +0000",
+    "score": 53,
+    "pubdate": "2026-02-04-23-00-00 +0000",
     "source": "wsj",
     "headline": "A Justice Department lawyer said the “system sucks” after a federal judge pressed her about why the administration wasn’t complying with court orders to release detained migrants in Minnesota",
     "link": "https://www.wsj.com/us-news/law/justice-department-lawyer-says-the-system-sucks-at-immigration-hearing-8926f90b"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-02-04-21-09-17 +0000",
+    "source": "nyt",
+    "headline": "Former Prince Andrew Moves Out of Royal Home Amid Fresh Epstein Revelations",
+    "link": "https://www.nytimes.com/2026/02/04/world/europe/andrew-epstein-uk-home-windsor-sandringham.html"
   }
 ]
