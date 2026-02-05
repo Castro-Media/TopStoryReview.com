@@ -1,31 +1,38 @@
 [
   {
-    "score": 243,
-    "pubdate": "2026-02-05-01-45-00 +0000",
+    "score": 242,
+    "pubdate": "2026-01-31-13-00-00 +0000",
     "source": "wsj",
-    "headline": "The top Democrat on a House committee overseeing U.S.-China competition has launched a probe into a $500 million investment by an Abu Dhabi royal in a Trump family cryptocurrency company",
-    "link": "https://www.wsj.com/politics/national-security/top-democrat-launches-probe-into-spy-sheikh-deal-with-trump-company-ea59ec8e"
+    "headline": "Venezuela’s New Leader Is Trying to Run Out the Clock on Trump",
+    "link": "https://www.wsj.com/world/americas/venezuelas-new-leader-is-trying-to-run-out-the-clock-on-trump-f5564b52"
   },
   {
-    "score": 187,
-    "pubdate": "2026-02-04-19-10-44 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court, with no dissents, rejects GOP challenge to California's new election map",
-    "link": "https://www.latimes.com/politics/story/2026-02-04/supreme-court-rejects-gop-challenge-to-californias-new-election-map"
+    "score": 195,
+    "pubdate": "2026-02-04-01-07-00 +0000",
+    "source": "wsj",
+    "headline": "Fed governor Stephen Miran said he resigned from his job as a top White House economic adviser, ending an unusual dual role he had held since he joined the central bank in September",
+    "link": "https://www.wsj.com/economy/central-banking/stephen-miran-temporary-fed-governor-resigns-from-white-house-role-57a08f8e"
   },
   {
-    "score": 182,
+    "score": 164,
     "pubdate": "2026-02-05-00-56-40 +0000",
     "source": "latimes",
     "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
     "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
   },
   {
-    "score": 164,
+    "score": 145,
     "pubdate": "2026-02-05-11-00-00 +0000",
     "source": "nypost",
     "headline": "Pro-ICE billboards calling out ‘liberal hypocrisy’ go up in swing states: ‘Let them do their jobs’",
     "link": "https://nypost.com/2026/02/05/us-news/pro-ice-billboards-calling-out-liberal-hypocrisy-go-up-in-swing-states-let-them-do-their-jobs/"
+  },
+  {
+    "score": 115,
+    "pubdate": "2026-02-04-19-10-44 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court, with no dissents, rejects GOP challenge to California's new election map",
+    "link": "https://www.latimes.com/politics/story/2026-02-04/supreme-court-rejects-gop-challenge-to-californias-new-election-map"
   },
   {
     "score": 111,
@@ -35,18 +42,18 @@
     "link": "https://www.nytimes.com/2026/02/05/us/politics/new-start-nuclear-arms-control.html"
   },
   {
-    "score": 110,
-    "pubdate": "2026-02-04-01-07-00 +0000",
-    "source": "wsj",
-    "headline": "Fed governor Stephen Miran said he resigned from his job as a top White House economic adviser, ending an unusual dual role he had held since he joined the central bank in September",
-    "link": "https://www.wsj.com/economy/central-banking/stephen-miran-temporary-fed-governor-resigns-from-white-house-role-57a08f8e"
+    "score": 108,
+    "pubdate": "2026-02-04-22-31-36 +0000",
+    "source": "cbc",
+    "headline": "Taiwan's envoy to Canada says fear of China may be delaying trade deal",
+    "link": "https://www.cbc.ca/news/politics/taiwan-trade-deal-china-carney-9.7074067?cmp=rss"
   },
   {
-    "score": 95,
-    "pubdate": "2026-02-05-05-11-00 +0000",
+    "score": 93,
+    "pubdate": "2026-02-04-22-17-00 +0000",
     "source": "wsj",
-    "headline": "Democrats’ drive to reach a deal to put new restrictions on immigration-enforcement agents is running into a Republican brick wall",
-    "link": "https://www.wsj.com/politics/policy/congress-ended-the-shutdown-now-comes-the-fight-over-ice-a4a404e6"
+    "headline": "Washington Post Lays Off One-Third of Staff in Bid to Reshape the Company",
+    "link": "https://www.wsj.com/business/media/washington-post-layoffs-feburary-2026-c105b237?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 88,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "On Eve of Peace Talks, Russia Hits Power Plants in Frigid Ukraine",
     "link": "https://www.nytimes.com/2026/02/03/world/europe/ukraine-missiles-attack.html"
-  },
-  {
-    "score": 85,
-    "pubdate": "2026-02-03-22-44-00 +0000",
-    "source": "wsj",
-    "headline": "Threat of New AI Tools Wipes $300 Billion Off Software and Data Stocks",
-    "link": "https://www.wsj.com/finance/investing/software-slump-drags-down-private-fund-managers-6f840d0c?mod=rss_markets_main"
   }
 ]
