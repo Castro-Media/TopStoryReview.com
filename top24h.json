@@ -1,38 +1,24 @@
 [
   {
-    "score": 111,
+    "score": 110,
     "pubdate": "2026-02-05-13-45-21 +0000",
     "source": "nyt",
     "headline": "Nuclear Arms Control Era Comes to End Amid Global Rush for New Weapons",
     "link": "https://www.nytimes.com/2026/02/05/us/politics/new-start-nuclear-arms-control.html"
   },
   {
-    "score": 110,
+    "score": 104,
     "pubdate": "2026-02-04-23-11-15 +0000",
     "source": "nypost",
     "headline": "Trump gets help in his critical minerals race with China as bill passes House",
     "link": "https://nypost.com/2026/02/04/us-news/house-passes-bill-to-help-trump-in-his-critical-minerals-race-with-china/"
   },
   {
-    "score": 92,
-    "pubdate": "2026-02-05-00-56-40 +0000",
+    "score": 91,
+    "pubdate": "2026-02-04-19-05-05 +0000",
     "source": "latimes",
-    "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
-    "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
-  },
-  {
-    "score": 75,
-    "pubdate": "2026-02-05-11-00-00 +0000",
-    "source": "nypost",
-    "headline": "Pro-ICE billboards calling out ‘liberal hypocrisy’ go up in swing states: ‘Let them do their jobs’",
-    "link": "https://nypost.com/2026/02/05/us-news/pro-ice-billboards-calling-out-liberal-hypocrisy-go-up-in-swing-states-let-them-do-their-jobs/"
-  },
-  {
-    "score": 69,
-    "pubdate": "2026-02-05-03-53-41 +0000",
-    "source": "bbc",
-    "headline": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
-    "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
+    "headline": "Longevity guru Peter Attia keeps CBS News role despite showing up in Epstein files",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-04/cbs-news-peter-attia-keeps-cbs-news-role-despite-epstein-files-controversy"
   },
   {
     "score": 65,
@@ -42,6 +28,13 @@
     "link": "https://www.bbc.com/news/articles/ckgyvn5gv25o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 64,
+    "pubdate": "2026-02-05-03-53-41 +0000",
+    "source": "bbc",
+    "headline": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
+    "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 63,
     "pubdate": "2026-02-05-14-47-58 +0000",
     "source": "cbc",
@@ -49,21 +42,28 @@
     "link": "https://www.cbc.ca/news/world/united-states-russia-abu-dhabi-talks-ukraine-9.7075221?cmp=rss"
   },
   {
-    "score": 59,
+    "score": 57,
     "pubdate": "2026-02-04-23-48-00 +0000",
     "source": "wsj",
     "headline": "Federal Reserve governor Lisa Cook sees a greater threat to the economy from elevated inflation than from weakening labor market, suggesting she could be skeptical of supporting a return to rate cuts",
     "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
   },
   {
-    "score": 52,
-    "pubdate": "2026-02-04-22-17-00 +0000",
-    "source": "wsj",
-    "headline": "Washington Post Lays Off One-Third of Staff in Bid to Reshape the Company",
-    "link": "https://www.wsj.com/business/media/washington-post-layoffs-feburary-2026-c105b237?mod=pls_whats_news_us_business_f"
+    "score": 55,
+    "pubdate": "2026-02-05-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "Pro-ICE billboards calling out ‘liberal hypocrisy’ go up in swing states: ‘Let them do their jobs’",
+    "link": "https://nypost.com/2026/02/05/us-news/pro-ice-billboards-calling-out-liberal-hypocrisy-go-up-in-swing-states-let-them-do-their-jobs/"
   },
   {
-    "score": 51,
+    "score": 52,
+    "pubdate": "2026-02-04-18-13-46 +0000",
+    "source": "cbc",
+    "headline": "Washington Post staff laid off while in Milan still hope to find beauty in the Olympics",
+    "link": "https://www.cbc.ca/sports/olympics/winter/milano-cortina-olympics-washington-post-chris-jones-feb4-9.7073743?cmp=rss"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-02-05-00-37-28 +0000",
     "source": "nypost",
     "headline": "Google parent Alphabet latest tech giant to announce plans to spend billions on AI",
