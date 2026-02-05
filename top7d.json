@@ -1,72 +1,72 @@
 [
   {
-    "score": 256,
-    "pubdate": "2026-02-03-22-56-00 +0000",
+    "score": 252,
+    "pubdate": "2026-02-05-01-45-00 +0000",
     "source": "wsj",
-    "headline": "The Republican-led House passed funding legislation to end a partial government shutdown—and Trump signed it—kicking off 10 days of negotiations over immigration enforcement",
-    "link": "https://www.wsj.com/politics/policy/government-shutdown-vote-house-63dd34d6"
+    "headline": "The top Democrat on a House committee overseeing U.S.-China competition has launched a probe into a $500 million investment by an Abu Dhabi royal in a Trump family cryptocurrency company",
+    "link": "https://www.wsj.com/politics/national-security/top-democrat-launches-probe-into-spy-sheikh-deal-with-trump-company-ea59ec8e"
   },
   {
-    "score": 187,
-    "pubdate": "2026-02-05-00-56-40 +0000",
-    "source": "latimes",
-    "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
-    "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
-  },
-  {
-    "score": 185,
+    "score": 189,
     "pubdate": "2026-02-04-19-10-44 +0000",
     "source": "latimes",
     "headline": "Supreme Court, with no dissents, rejects GOP challenge to California's new election map",
     "link": "https://www.latimes.com/politics/story/2026-02-04/supreme-court-rejects-gop-challenge-to-californias-new-election-map"
   },
   {
-    "score": 123,
-    "pubdate": "2026-02-02-11-00-00 +0000",
+    "score": 186,
+    "pubdate": "2026-02-05-00-56-40 +0000",
     "source": "latimes",
-    "headline": "Inside a Minneapolis school where 50% of students are too afraid of ICE to show up",
-    "link": "https://www.latimes.com/politics/story/2026-02-02/inside-minneapolis-school-where-50-of-students-are-too-afraid-of-ice-to-show-up"
+    "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
+    "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
   },
   {
-    "score": 121,
-    "pubdate": "2026-02-04-01-07-00 +0000",
+    "score": 127,
+    "pubdate": "2026-01-30-00-02-20 +0000",
+    "source": "latimes",
+    "headline": "Senate Democrats and White House strike deal to avert shutdown, continue ICE debate",
+    "link": "https://www.latimes.com/politics/story/2026-01-29/senate-democrats-white-house-strike-deal-to-avert-shutdown-continue-ice-debate"
+  },
+  {
+    "score": 105,
+    "pubdate": "2026-02-04-23-48-00 +0000",
     "source": "wsj",
-    "headline": "Fed governor Stephen Miran said he resigned from his job as a top White House economic adviser, ending an unusual dual role he had held since he joined the central bank in September",
-    "link": "https://www.wsj.com/economy/central-banking/stephen-miran-temporary-fed-governor-resigns-from-white-house-role-57a08f8e"
+    "headline": "Federal Reserve governor Lisa Cook sees a greater threat to the economy from elevated inflation than from weakening labor market, suggesting she could be skeptical of supporting a return to rate cuts",
+    "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
   },
   {
-    "score": 113,
-    "pubdate": "2026-02-04-22-31-36 +0000",
-    "source": "cbc",
-    "headline": "Taiwan's envoy to Canada says fear of China may be delaying trade deal",
-    "link": "https://www.cbc.ca/news/politics/taiwan-trade-deal-china-carney-9.7074067?cmp=rss"
+    "score": 99,
+    "pubdate": "2026-02-05-10-00-14 +0000",
+    "source": "nyt",
+    "headline": "Nuclear Arms Control Era Comes to End Amid Global Rush for New Weapons",
+    "link": "https://www.nytimes.com/2026/02/05/us/politics/new-start-nuclear-arms-control.html"
   },
   {
-    "score": 93,
-    "pubdate": "2026-02-05-02-06-01 +0000",
-    "source": "nypost",
-    "headline": "Furious lawmakers slam Gavin Newsom for trying to bury High Speed Rail secrets – as $215 million-a-mile fiasco deepens",
-    "link": "https://nypost.com/2026/02/04/us-news/california-dems-push-ridiculous-bill-to-bury-high-speed-rail-details/"
-  },
-  {
-    "score": 91,
-    "pubdate": "2026-02-05-03-53-41 +0000",
+    "score": 97,
+    "pubdate": "2026-01-31-00-50-39 +0000",
     "source": "bbc",
-    "headline": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
-    "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
+    "headline": "I mocked the Saudi leader on YouTube - then my phone was hacked and I was beaten up in London",
+    "link": "https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 84,
-    "pubdate": "2026-02-05-08-40-00 +0000",
+    "score": 96,
+    "pubdate": "2026-02-03-19-32-26 +0000",
+    "source": "nyt",
+    "headline": "Trump and India Call Off Their Trade War, but the Terms of Peace Are Murky",
+    "link": "https://www.nytimes.com/2026/02/03/business/us-india-trade-tariffs.html"
+  },
+  {
+    "score": 87,
+    "pubdate": "2026-01-31-02-00-00 +0000",
     "source": "wsj",
-    "headline": "Oil Falls After U.S.-Iran Agree to Hold Talks",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-slips-amid-prospects-of-u-s-iran-talks-5327e1dc?mod=rss_markets_main"
+    "headline": "Shifting views on the president’s immigration agenda threaten to turn one of his signature issues into a liability for Republicans in the coming midterm elections",
+    "link": "https://www.wsj.com/politics/elections/the-trump-supporters-who-say-he-went-too-far-on-immigration-b03b2c56"
   },
   {
-    "score": 82,
-    "pubdate": "2026-02-03-13-28-34 +0000",
-    "source": "wapo",
-    "headline": "When his family was swept out to sea, boy swam and ran miles to save them",
-    "link": "https://www.washingtonpost.com/world/2026/02/03/australia-teen-sea-swimming-rescue/"
+    "score": 86,
+    "pubdate": "2026-02-03-20-11-18 +0000",
+    "source": "nypost",
+    "headline": "Ukrainian husband weeps beside childhood sweetheart’s dead body — before Russia takes him out too",
+    "link": "https://nypost.com/2026/02/03/world-news/ukrainian-husband-weeps-beside-childhood-sweethearts-dead-body-before-russia-takes-him-out-too/"
   }
 ]
