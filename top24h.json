@@ -1,55 +1,62 @@
 [
   {
-    "score": 119,
+    "score": 116,
     "pubdate": "2026-02-05-10-00-15 +0000",
     "source": "nyt",
     "headline": "Nuclear Arms Control Era Comes to End Amid Global Rush for New Weapons",
     "link": "https://www.nytimes.com/2026/02/05/us/politics/new-start-nuclear-arms-control.html"
   },
   {
-    "score": 112,
+    "score": 109,
     "pubdate": "2026-02-05-01-45-00 +0000",
     "source": "wsj",
     "headline": "The top Democrat on a House committee overseeing U.S.-China competition has launched a probe into a $500 million investment by an Abu Dhabi royal in a Trump family cryptocurrency company",
     "link": "https://www.wsj.com/politics/national-security/top-democrat-launches-probe-into-spy-sheikh-deal-with-trump-company-ea59ec8e"
   },
   {
-    "score": 97,
+    "score": 105,
     "pubdate": "2026-02-05-00-56-40 +0000",
     "source": "latimes",
     "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
     "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
   },
   {
-    "score": 78,
+    "score": 80,
     "pubdate": "2026-02-05-11-00-00 +0000",
     "source": "nypost",
     "headline": "Pro-ICE billboards calling out ‘liberal hypocrisy’ go up in swing states: ‘Let them do their jobs’",
     "link": "https://nypost.com/2026/02/05/us-news/pro-ice-billboards-calling-out-liberal-hypocrisy-go-up-in-swing-states-let-them-do-their-jobs/"
   },
   {
-    "score": 75,
+    "score": 76,
     "pubdate": "2026-02-05-03-53-41 +0000",
     "source": "bbc",
     "headline": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
     "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
+    "score": 64,
     "pubdate": "2026-02-04-19-10-44 +0000",
     "source": "latimes",
     "headline": "Supreme Court, with no dissents, rejects GOP challenge to California's new election map",
     "link": "https://www.latimes.com/politics/story/2026-02-04/supreme-court-rejects-gop-challenge-to-californias-new-election-map"
   },
   {
-    "score": 52,
+    "score": 55,
+    "pubdate": "2026-02-04-23-48-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Reserve governor Lisa Cook sees a greater threat to the economy from elevated inflation than from weakening labor market, suggesting she could be skeptical of supporting a return to rate cuts",
+    "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
+  },
+  {
+    "score": 51,
     "pubdate": "2026-02-05-05-11-00 +0000",
     "source": "wsj",
     "headline": "Democrats’ drive to reach a deal to put new restrictions on immigration-enforcement agents is running into a Republican brick wall",
     "link": "https://www.wsj.com/politics/policy/congress-ended-the-shutdown-now-comes-the-fight-over-ice-a4a404e6"
   },
   {
-    "score": 49,
+    "score": 50,
     "pubdate": "2026-02-05-10-00-04 +0000",
     "source": "wapo",
     "headline": "As West goes after Russia’s oil fleet, Moscow fears for its war funding",
@@ -57,16 +64,9 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-02-04-23-48-00 +0000",
-    "source": "wsj",
-    "headline": "Federal Reserve governor Lisa Cook sees a greater threat to the economy from elevated inflation than from weakening labor market, suggesting she could be skeptical of supporting a return to rate cuts",
-    "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-02-04-22-17-00 +0000",
-    "source": "wsj",
-    "headline": "Washington Post Lays Off One-Third of Staff in Bid to Reshape the Company",
-    "link": "https://www.wsj.com/business/media/washington-post-layoffs-feburary-2026-c105b237?mod=pls_whats_news_us_business_f"
+    "pubdate": "2026-02-04-21-06-25 +0000",
+    "source": "nyt",
+    "headline": "Two Quit Human Rights Watch Over Shelved Report Criticizing Israel",
+    "link": "https://www.nytimes.com/2026/02/04/world/middleeast/israel-human-rights-watch-palestinians.html"
   }
 ]

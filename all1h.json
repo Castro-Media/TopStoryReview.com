@@ -1,8 +1,248 @@
 [
   {
-    "headline": "A 60-Year Arc at The Washington Post, From Watergate to the Weather",
+    "headline": "The Bank of England left interest rates unchanged, but indicated another cut could follow in the coming months",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-england-holds-rates-but-signals-it-is-likely-to-cut-again-77889c21",
+    "source": "wsj",
+    "pubdate": "2026-02-05-13-15-00 +0000"
+  },
+  {
+    "headline": "UK interest rates held at 3.75% but Bank says future cuts likely",
+    "link": "https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-13-09-31 +0000"
+  },
+  {
+    "headline": "UK interest rates held at 3.75% but Bank says future cuts likely",
+    "link": "https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-13-09-31 +0000"
+  },
+  {
+    "headline": "News anchor who saw possible Nancy Guthrie ransom note describes moment she knew it ‘might not be hoax’",
+    "link": "https://nypost.com/2026/02/05/us-news/savannah-guthries-missing-mom-news-anchor-describes-possible-ransom-note/",
+    "source": "nypost",
+    "pubdate": "2026-02-05-13-02-36 +0000"
+  },
+  {
+    "headline": "Starmer apologises to Epstein victims for believing Mandelson's 'lies'",
+    "link": "https://www.bbc.com/news/articles/cp37v4kyv3eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-13-01-22 +0000"
+  },
+  {
+    "headline": "Lopez: How do you stand up to lies and brutality? Maybe you blow a whistle, for starters",
+    "link": "https://www.latimes.com/california/story/2026-02-05/lopez-colum-how-do-you-stand-up-to-lies-brutality-maybe-you-blow-whistle",
+    "source": "latimes",
+    "pubdate": "2026-02-05-13-00-00 +0000"
+  },
+  {
+    "headline": "Lopez: How do you stand up to lies and brutality? Maybe you blow a whistle, for starters",
+    "link": "https://www.latimes.com/california/story/2026-02-05/lopez-colum-how-do-you-stand-up-to-lies-brutality-maybe-you-blow-whistle",
+    "source": "latimes",
+    "pubdate": "2026-02-05-13-00-00 +0000"
+  },
+  {
+    "headline": "Farage apology over school racism allegations does not go far enough, ex-pupil says",
+    "link": "https://www.bbc.com/news/articles/cjw1ewe9y93o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-12-59-46 +0000"
+  },
+  {
+    "headline": "Rockwell Automation Lifts Guidance as Profit Jumps",
+    "link": "https://www.wsj.com/business/retail/rockwell-automation-lifts-guidance-as-profit-jumps-a97aecdc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-59-00 +0000"
+  },
+  {
+    "headline": "Lee H. Hamilton, Who Led a 9/11 Panel in Congress, Dies at 94",
+    "link": "https://www.nytimes.com/2026/02/04/us/politics/lee-h-hamilton-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-02-05-12-58-50 +0000"
+  },
+  {
+    "headline": "Lee H. Hamilton, Who Led a 9/11 Panel in Congress, Dies at 94",
+    "link": "https://www.nytimes.com/2026/02/04/us/politics/lee-h-hamilton-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-02-05-12-58-50 +0000"
+  },
+  {
+    "headline": "Jeffrey Epstein had ‘very low’ testosterone and libido, sought info on penis enlargement pills",
+    "link": "https://nypost.com/2026/02/05/us-news/jeffrey-epstein-had-very-low-testosterone-and-libido-sought-out-info-on-penis-enlargement-pills-records/",
+    "source": "nypost",
+    "pubdate": "2026-02-05-12-58-32 +0000"
+  },
+  {
+    "headline": "Live: Minnesota’s Winter Olympians begin competition in Italy",
+    "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094",
+    "source": "startribune",
+    "pubdate": "2026-02-05-12-58-30 +0000"
+  },
+  {
+    "headline": "Dozens of Muslims 'massacred' in Nigeria for refusing to join jihadists, says governor",
+    "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-12-56-44 +0000"
+  },
+  {
+    "headline": "Dozens of Muslims 'massacred' in Nigeria for refusing to join jihadists, says governor",
+    "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-12-56-44 +0000"
+  },
+  {
+    "headline": "Are UK interest rates expected to fall soon?",
+    "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-12-56-07 +0000"
+  },
+  {
+    "headline": "Vestas Shares Slide After Mixed Earnings Report",
+    "link": "https://www.wsj.com/business/earnings/vestas-shares-slide-after-mixed-earnings-report-8c8c372d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-55-00 +0000"
+  },
+  {
+    "headline": "Starmer Apologizes for Ex-Ambassador Mandelson’s Epstein Ties",
+    "link": "https://www.nytimes.com/2026/02/05/world/europe/epstein-files-mandelson-starmer-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-02-05-12-54-39 +0000"
+  },
+  {
+    "headline": "Starmer Apologizes for Ex-Ambassador Mandelson’s Epstein Ties",
+    "link": "https://www.nytimes.com/2026/02/05/world/europe/epstein-files-mandelson-starmer-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-02-05-12-54-39 +0000"
+  },
+  {
+    "headline": "Why are UK prices still rising?",
+    "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-12-52-12 +0000"
+  },
+  {
+    "headline": "Sony Group Raises Guidance on Gains From Peanuts Gang",
+    "link": "https://www.wsj.com/business/earnings/sony-group-raises-guidance-on-strength-of-game-music-businesses-37b48426?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-52-00 +0000"
+  },
+  {
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-49-00 +0000"
+  },
+  {
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-49-00 +0000"
+  },
+  {
+    "headline": "The Famous Names in the Latest Release of Epstein Files",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-49-00 +0000"
+  },
+  {
+    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-49-00 +0000"
+  },
+  {
+    "headline": "Canada Goose Profit Slips on Higher Costs",
+    "link": "https://www.wsj.com/business/earnings/canada-goose-profit-slips-on-higher-costs-6387fc5e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-46-00 +0000"
+  },
+  {
+    "headline": "Peloton Revenue Falls on Declining Subscriptions as CFO Leaves",
+    "link": "https://www.wsj.com/business/earnings/peloton-revenue-falls-on-declining-subscriptions-as-cfo-leaves-8ae4596b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-46-00 +0000"
+  },
+  {
+    "headline": "ConocoPhillips Posts Weaker Profit on Lower Prices",
+    "link": "https://www.wsj.com/business/earnings/conocophillips-posts-weaker-profit-on-lower-prices-8d899d72?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-44-00 +0000"
+  },
+  {
+    "headline": "British PM Starmer apologizes for appointing Mandelson, but says diplomat lied about Epstein ties",
+    "link": "https://www.cbc.ca/news/world/uk-starmer-apology-ambassador-mandelson-epstein-9.7075084?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-05-12-43-07 +0000"
+  },
+  {
+    "headline": "Aid workers missing after airstrikes hit South Sudan hospital",
+    "link": "https://www.bbc.com/news/articles/c20dq9e3qr7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-12-42-16 +0000"
+  },
+  {
+    "headline": "2 Dead After Police Helicopter Crashes in Arizona",
+    "link": "https://www.nytimes.com/2026/02/05/us/helicopter-crash-flagstaff-arizona.html",
+    "source": "nyt",
+    "pubdate": "2026-02-05-12-41-56 +0000"
+  },
+  {
+    "headline": "'My bills are lower and I'm warmer in energy efficient home'",
+    "link": "https://www.bbc.com/news/articles/cn42k0n40x8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-05-12-38-27 +0000"
+  },
+  {
+    "headline": "He Was Laid Off at The Washington Post After Working There 60 Years",
     "link": "https://www.nytimes.com/2026/02/05/business/media/washington-post-martin-weil-metro.html",
     "source": "nyt",
-    "pubdate": "2026-02-05-11-00-36 +0000"
+    "pubdate": "2026-02-05-12-36-58 +0000"
+  },
+  {
+    "headline": "Cardinal Health Lifts Outlook After Posting Higher Profit",
+    "link": "https://www.wsj.com/business/earnings/cardinal-health-lifts-outlook-after-posting-higher-profit-a12eb285?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-35-00 +0000"
+  },
+  {
+    "headline": "California job losses slow in January as cuts surge nationwide",
+    "link": "https://www.latimes.com/business/story/2026-02-05/california-job-losses-slow-in-january-as-cuts-surge-nationwide",
+    "source": "latimes",
+    "pubdate": "2026-02-05-12-30-00 +0000"
+  },
+  {
+    "headline": "Tapestry Boosts Outlook as Coach Sales Surge",
+    "link": "https://www.wsj.com/business/earnings/tapestry-boosts-outlook-as-coach-sales-surge-6e7d44b9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-28-00 +0000"
+  },
+  {
+    "headline": "Dollar Lifted by Tech Selloff, Metals Volatility",
+    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-amid-risks-of-japans-verbal-intervention-f3a32df4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-28-00 +0000"
+  },
+  {
+    "headline": "Hershey Profit Dragged Down by Tariffs, Cocoa Costs",
+    "link": "https://www.wsj.com/business/earnings/hershey-profit-dragged-down-by-tariffs-cocoa-costs-996814d4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-05-12-26-00 +0000"
+  },
+  {
+    "headline": "JD Vance finally explains his whereabouts during US raid to capture Venezuela despot Nicolas Maduro",
+    "link": "https://nypost.com/2026/02/05/us-news/jd-vance-finally-explains-his-whereabouts-during-us-raid-to-capture-venezuela-despot-nicolas-maduro/",
+    "source": "nypost",
+    "pubdate": "2026-02-05-12-23-23 +0000"
+  },
+  {
+    "headline": "JD Vance finally explains his whereabouts during US raid to capture Venezuela despot Nicolas Maduro",
+    "link": "https://nypost.com/2026/02/05/us-news/jd-vance-finally-explains-his-whereabouts-during-us-raid-to-capture-venezuela-despot-nicolas-maduro/",
+    "source": "nypost",
+    "pubdate": "2026-02-05-12-23-23 +0000"
+  },
+  {
+    "headline": "The treaty limiting U.S. and Russian nuclear arms expired. What to know.",
+    "link": "https://www.washingtonpost.com/national-security/2026/02/04/us-russia-nuclear-arms-treaty-new-start/",
+    "source": "wapo",
+    "pubdate": "2026-02-05-12-17-32 +0000"
   }
 ]
