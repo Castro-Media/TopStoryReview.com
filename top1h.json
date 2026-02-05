@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 28,
+    "pubdate": "2026-02-05-08-36-16 +0000",
+    "source": "bbc",
+    "headline": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
+    "link": "https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-05-08-41-12 +0000",
+    "source": "nyt",
+    "headline": "U.S. and Iran to Hold Talks in Oman on Friday",
+    "link": "https://www.nytimes.com/2026/02/04/world/middleeast/iran-us-talks-oman.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-05-09-05-06 +0000",
+    "source": "nypost",
+    "headline": "Savannah Guthrie’s desperate plea for mom’s safe return ‘strong signal’ ransom note demand not yet legitimate: ex-FBI Director",
+    "link": "https://nypost.com/2026/02/05/us-news/savannah-guthries-desperate-plea-for-mom-nancys-safe-return-strong-signal-ransom-note-demand-not-yet-legit-ex-fbi-agent/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-05-08-13-00 +0000",
+    "source": "wsj",
+    "headline": "Anglo American Cuts 2027 Copper Guidance as Production Declines",
+    "link": "https://www.wsj.com/business/earnings/anglo-american-cuts-2027-copper-guidance-as-production-declines-a2448f32?mod=rss_markets_main"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-05-08-14-51 +0000",
+    "source": "nypost",
+    "headline": "Son of Norway’s crown princess cries in court, denies videos on his phone show rape",
+    "link": "https://nypost.com/2026/02/05/world-news/son-of-norways-crown-princess-cries-in-court-denies-videos-on-his-phone-show-rape/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-05-08-19-25 +0000",
+    "source": "nyt",
+    "headline": "Thousands Displaced by Military Operation in Pakistan",
+    "link": "https://www.nytimes.com/2026/02/05/world/asia/pakistan-military-operation-displaced-people.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-05-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Mexican authorities seeking to speak with Canadian mining firm over kidnapped employees",
+    "link": "https://www.cbc.ca/news/world/sinaloa-vizsla-chapitos-9.7074596?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-05-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "U.S. interest in Alberta separatism raises red flags over what might come next",
+    "link": "https://www.cbc.ca/news/politics/alberta-separatism-trump-administration-9.7068999?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-05-08-24-00 +0000",
+    "source": "wsj",
+    "headline": "Pandora’s New CEO Turns to Platinum Jewelry to Offset Silver Volatility",
+    "link": "https://www.wsj.com/business/earnings/pandoras-new-ceo-turns-to-platinum-jewelry-to-offset-silver-volatility-00cdf021?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-05-09-05-00 +0000",
+    "source": "wsj",
+    "headline": "German Factory Orders Unexpectedly Soar as Industrial Rebound Gathers Pace",
+    "link": "https://www.wsj.com/economy/german-factory-orders-unexpectedly-climb-as-manufacturing-sector-rebounds-1bd223af"
+  }
+]
