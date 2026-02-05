@@ -1,41 +1,41 @@
 [
   {
-    "score": 119,
+    "score": 117,
     "pubdate": "2026-02-05-13-45-21 +0000",
     "source": "nyt",
     "headline": "Nuclear Arms Control Era Comes to End Amid Global Rush for New Weapons",
     "link": "https://www.nytimes.com/2026/02/05/us/politics/new-start-nuclear-arms-control.html"
   },
   {
-    "score": 113,
+    "score": 112,
     "pubdate": "2026-02-04-23-11-15 +0000",
     "source": "nypost",
     "headline": "Trump gets help in his critical minerals race with China as bill passes House",
     "link": "https://nypost.com/2026/02/04/us-news/house-passes-bill-to-help-trump-in-his-critical-minerals-race-with-china/"
   },
   {
-    "score": 108,
+    "score": 103,
     "pubdate": "2026-02-05-00-56-40 +0000",
     "source": "latimes",
     "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
     "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2026-02-05-11-00-00 +0000",
     "source": "nypost",
     "headline": "Pro-ICE billboards calling out ‘liberal hypocrisy’ go up in swing states: ‘Let them do their jobs’",
     "link": "https://nypost.com/2026/02/05/us-news/pro-ice-billboards-calling-out-liberal-hypocrisy-go-up-in-swing-states-let-them-do-their-jobs/"
   },
   {
-    "score": 75,
+    "score": 74,
     "pubdate": "2026-02-05-03-53-41 +0000",
     "source": "bbc",
     "headline": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
     "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2026-02-04-23-57-59 +0000",
     "source": "bbc",
     "headline": "Supreme Court allows California to use new voting map boosting Democrats",
@@ -49,13 +49,6 @@
     "link": "https://www.cbc.ca/news/world/united-states-russia-abu-dhabi-talks-ukraine-9.7075221?cmp=rss"
   },
   {
-    "score": 59,
-    "pubdate": "2026-02-04-23-48-00 +0000",
-    "source": "wsj",
-    "headline": "Federal Reserve governor Lisa Cook sees a greater threat to the economy from elevated inflation than from weakening labor market, suggesting she could be skeptical of supporting a return to rate cuts",
-    "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
-  },
-  {
     "score": 57,
     "pubdate": "2026-02-04-22-17-00 +0000",
     "source": "wsj",
@@ -63,7 +56,14 @@
     "link": "https://www.wsj.com/business/media/washington-post-layoffs-feburary-2026-c105b237?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 53,
+    "score": 56,
+    "pubdate": "2026-02-04-23-48-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Reserve governor Lisa Cook sees a greater threat to the economy from elevated inflation than from weakening labor market, suggesting she could be skeptical of supporting a return to rate cuts",
+    "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-02-04-21-06-25 +0000",
     "source": "nyt",
     "headline": "Two Quit Human Rights Watch Over Shelved Report Criticizing Israel",
