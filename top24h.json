@@ -1,6 +1,6 @@
 [
   {
-    "score": 133,
+    "score": 132,
     "pubdate": "2026-02-06-01-19-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced that he wants the U.S. to negotiate a new strategic arms treaty following the lapse of the last major nuclear pact with Russia",
@@ -11,7 +11,7 @@
     "pubdate": "2026-02-05-18-07-00 +0000",
     "source": "wsj",
     "headline": "A Revolt Inside Paul Weiss Over the Epstein Files Took Down Brad Karp",
-    "link": "https://www.wsj.com/business/a-revolt-inside-paul-weiss-over-the-epstein-files-took-down-brad-karp-955fdfe6?mod=rss_markets_main"
+    "link": "https://www.wsj.com/business/a-revolt-inside-paul-weiss-over-the-epstein-files-took-down-brad-karp-955fdfe6?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 71,
@@ -29,10 +29,10 @@
   },
   {
     "score": 63,
-    "pubdate": "2026-02-05-23-29-46 +0000",
-    "source": "nypost",
-    "headline": "Russia, Ukraine exchange 300 prisoners as US peace talks end without breakthrough",
-    "link": "https://nypost.com/2026/02/05/world-news/russia-ukraine-exchange-more-than-300-prisoners-after-us-peace-talks/"
+    "pubdate": "2026-02-05-17-21-57 +0000",
+    "source": "bbc",
+    "headline": "Russia and Ukraine exchange prisoners as peace talks end without breakthrough",
+    "link": "https://www.bbc.com/news/articles/c62np09q7l1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 57,
@@ -42,11 +42,11 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-to-curtail-immigrant-appeals-of-deportation-decisions-5e9b2d35"
   },
   {
-    "score": 53,
-    "pubdate": "2026-02-05-17-15-17 +0000",
-    "source": "nypost",
-    "headline": "Stocks plunge on AI spending fears, unemployment report as tech rout on Wall Street deepens",
-    "link": "https://nypost.com/2026/02/05/business/stocks-plunge-on-ai-spending-fears-as-tech-rout-on-wall-street-deepens/"
+    "score": 52,
+    "pubdate": "2026-02-06-00-06-56 +0000",
+    "source": "bbc",
+    "headline": "Amazon shares tumble as it joins the Big Tech AI spending spree",
+    "link": "https://www.bbc.com/news/articles/c150e144we3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 49,
@@ -57,16 +57,16 @@
   },
   {
     "score": 47,
-    "pubdate": "2026-02-05-05-11-00 +0000",
-    "source": "wsj",
-    "headline": "Democrats’ drive to reach a deal to put new restrictions on immigration-enforcement agents is running into a Republican brick wall",
-    "link": "https://www.wsj.com/politics/policy/congress-ended-the-shutdown-now-comes-the-fight-over-ice-a4a404e6"
-  },
-  {
-    "score": 47,
     "pubdate": "2026-02-05-20-30-49 +0000",
     "source": "nyt",
     "headline": "Nuclear Arms Control Era Comes to End Amid Global Rush for New Weapons",
     "link": "https://www.nytimes.com/2026/02/05/us/politics/new-start-nuclear-arms-control.html"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-02-06-00-44-49 +0000",
+    "source": "bbc",
+    "headline": "US police believe Savannah Guthrie's missing mother is 'still out there'",
+    "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
   }
 ]
