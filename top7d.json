@@ -1,13 +1,13 @@
 [
   {
-    "score": 282,
-    "pubdate": "2026-02-05-20-27-00 +0000",
+    "score": 290,
+    "pubdate": "2026-02-05-22-38-00 +0000",
     "source": "wsj",
-    "headline": "President Trump announced that he wants the U.S. to negotiate a new strategic arms treaty following the lapse of the last major nuclear pact with Russia",
-    "link": "https://www.wsj.com/politics/national-security/trump-calls-for-new-nuclear-pact-with-russia-as-previous-treaty-ends-eb3a4a9a"
+    "headline": "Under a new policy, the Trump administration is attempting to eliminate most opportunities for immigrants with deportation orders to appeal cases, the government’s latest step to strip immigrants of due process rights so they can be deported faster",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-to-curtail-immigrant-appeals-of-deportation-decisions-5e9b2d35"
   },
   {
-    "score": 157,
+    "score": 176,
     "pubdate": "2026-02-05-00-56-40 +0000",
     "source": "latimes",
     "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
@@ -21,52 +21,52 @@
     "link": "https://nypost.com/2026/02/05/us-news/pro-ice-billboards-calling-out-liberal-hypocrisy-go-up-in-swing-states-let-them-do-their-jobs/"
   },
   {
-    "score": 138,
-    "pubdate": "2026-02-04-01-07-00 +0000",
-    "source": "wsj",
-    "headline": "Fed governor Stephen Miran said he resigned from his job as a top White House economic adviser, ending an unusual dual role he had held since he joined the central bank in September",
-    "link": "https://www.wsj.com/economy/central-banking/stephen-miran-temporary-fed-governor-resigns-from-white-house-role-57a08f8e"
-  },
-  {
-    "score": 102,
-    "pubdate": "2026-02-01-23-32-03 +0000",
-    "source": "latimes",
-    "headline": "San Francisco school workers are the latest California educators to authorize a strike",
-    "link": "https://www.latimes.com/california/story/2026-02-01/san-francisco-school-workers-authorize-strike"
-  },
-  {
-    "score": 100,
-    "pubdate": "2026-02-04-22-31-36 +0000",
-    "source": "cbc",
-    "headline": "Taiwan's envoy to Canada says fear of China may be delaying trade deal",
-    "link": "https://www.cbc.ca/news/politics/taiwan-trade-deal-china-carney-9.7074067?cmp=rss"
-  },
-  {
-    "score": 92,
-    "pubdate": "2026-02-05-02-06-01 +0000",
+    "score": 113,
+    "pubdate": "2026-02-05-21-29-04 +0000",
     "source": "nypost",
-    "headline": "Furious lawmakers slam Gavin Newsom for trying to bury High Speed Rail secrets — as $215 million-a-mile fiasco deepens",
-    "link": "https://nypost.com/2026/02/04/us-news/california-dems-push-ridiculous-bill-to-bury-high-speed-rail-details/"
+    "headline": "Holocaust survivor rejected from speaking to NYC middle schoolers over Israel-Gaza war finally gives talk — gets no apology",
+    "link": "https://nypost.com/2026/02/05/us-news/holocaust-survivor-rejected-from-speaking-to-nyc-middle-schoolers-over-israel-gaza-war-finally-gives-talk-gets-no-apology/"
   },
   {
-    "score": 90,
+    "score": 113,
+    "pubdate": "2026-02-05-20-30-48 +0000",
+    "source": "nyt",
+    "headline": "Nuclear Arms Control Era Comes to End Amid Global Rush for New Weapons",
+    "link": "https://www.nytimes.com/2026/02/05/us/politics/new-start-nuclear-arms-control.html"
+  },
+  {
+    "score": 111,
+    "pubdate": "2026-02-05-01-45-00 +0000",
+    "source": "wsj",
+    "headline": "The top Democrat on a House committee overseeing U.S.-China competition has launched a probe into a $500 million investment by an Abu Dhabi royal in a Trump family cryptocurrency company",
+    "link": "https://www.wsj.com/politics/national-security/top-democrat-launches-probe-into-spy-sheikh-deal-with-trump-company-ea59ec8e"
+  },
+  {
+    "score": 103,
     "pubdate": "2026-02-04-23-48-00 +0000",
     "source": "wsj",
     "headline": "Federal Reserve governor Lisa Cook sees a greater threat to the economy from elevated inflation than from weakening labor market, suggesting she could be skeptical of supporting a return to rate cuts",
     "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
   },
   {
-    "score": 84,
-    "pubdate": "2026-02-05-14-10-35 +0000",
-    "source": "bbc",
-    "headline": "US and Iran agree to hold nuclear talks in Oman on Friday",
-    "link": "https://www.bbc.com/news/articles/cvgj2knp4d9o?at_medium=RSS&at_campaign=rss"
+    "score": 95,
+    "pubdate": "2026-02-04-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Tax billionaires, cut rents and other takeaways from California's first gubernatorial debate",
+    "link": "https://www.latimes.com/california/story/2026-02-04/tax-billionaires-cut-rents-other-takeaways-from-californias-first-gubernatorial-debate"
   },
   {
-    "score": 84,
+    "score": 95,
     "pubdate": "2026-02-05-17-15-17 +0000",
     "source": "nypost",
     "headline": "Stocks plunge on AI spending fears, unemployment report as tech rout on Wall Street deepens",
     "link": "https://nypost.com/2026/02/05/business/stocks-plunge-on-ai-spending-fears-as-tech-rout-on-wall-street-deepens/"
+  },
+  {
+    "score": 88,
+    "pubdate": "2026-02-05-14-47-58 +0000",
+    "source": "cbc",
+    "headline": "U.S., Russia agree to re-establish military-to-military dialogue after 4-year pause",
+    "link": "https://www.cbc.ca/news/world/united-states-russia-abu-dhabi-talks-ukraine-9.7075221?cmp=rss"
   }
 ]
