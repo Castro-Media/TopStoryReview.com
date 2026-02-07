@@ -1,27 +1,20 @@
 [
   {
-    "score": 293,
+    "score": 297,
     "pubdate": "2026-02-06-01-19-00 +0000",
     "source": "wsj",
     "headline": "President Trump announced that he wants the U.S. to negotiate a new strategic arms treaty following the lapse of the last major nuclear pact with Russia",
     "link": "https://www.wsj.com/politics/national-security/trump-calls-for-new-nuclear-pact-with-russia-as-previous-treaty-ends-eb3a4a9a"
   },
   {
-    "score": 179,
+    "score": 175,
     "pubdate": "2026-02-05-00-56-40 +0000",
     "source": "latimes",
     "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
     "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
   },
   {
-    "score": 119,
-    "pubdate": "2026-02-06-17-16-34 +0000",
-    "source": "nyt",
-    "headline": "Milan Winter Olympics Opening Ceremony: What Time to Watch, How to Watch, and More",
-    "link": "https://www.nytimes.com/2026/02/06/world/europe/milan-winter-olympics-opening-ceremony-how-to-watch.html"
-  },
-  {
-    "score": 118,
+    "score": 117,
     "pubdate": "2026-02-06-22-42-19 +0000",
     "source": "nyt",
     "headline": "Talks With U.S. Were ‘Good Start,’ Iran’s Foreign Minister Says",
@@ -29,34 +22,41 @@
   },
   {
     "score": 116,
+    "pubdate": "2026-02-06-17-16-34 +0000",
+    "source": "nyt",
+    "headline": "Milan Winter Olympics Opening Ceremony: What Time to Watch, How to Watch, and More",
+    "link": "https://www.nytimes.com/2026/02/06/world/europe/milan-winter-olympics-opening-ceremony-how-to-watch.html"
+  },
+  {
+    "score": 114,
     "pubdate": "2026-02-02-11-00-00 +0000",
     "source": "latimes",
     "headline": "Inside a Minneapolis school where 50% of students are too afraid of ICE to show up",
     "link": "https://www.latimes.com/politics/story/2026-02-02/inside-minneapolis-school-where-50-of-students-are-too-afraid-of-ice-to-show-up"
   },
   {
-    "score": 114,
-    "pubdate": "2026-02-06-16-54-39 +0000",
-    "source": "nyt",
-    "headline": "Russian General Is Shot in Latest Attack on a Top Military Leader in Moscow",
-    "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html"
-  },
-  {
-    "score": 112,
-    "pubdate": "2026-02-06-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "One of California's first labor fights over AI is playing out at Kaiser",
-    "link": "https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm"
-  },
-  {
-    "score": 108,
+    "score": 113,
     "pubdate": "2026-02-06-01-00-00 +0000",
     "source": "wsj",
     "headline": "Current and former prosecutors say they can relate to the government lawyer who told a judge in open court that she was exhausted and “this job sucks”",
     "link": "https://www.wsj.com/politics/policy/justice-department-struggles-under-weight-of-immigration-crackdown-0ba2e6f0"
   },
   {
-    "score": 106,
+    "score": 113,
+    "pubdate": "2026-02-06-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "One of California's first labor fights over AI is playing out at Kaiser",
+    "link": "https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm"
+  },
+  {
+    "score": 112,
+    "pubdate": "2026-02-06-16-54-39 +0000",
+    "source": "nyt",
+    "headline": "Russian General Is Shot in Latest Attack on a Top Military Leader in Moscow",
+    "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html"
+  },
+  {
+    "score": 109,
     "pubdate": "2026-02-03-23-49-00 +0000",
     "source": "wsj",
     "headline": "An ex-Fed official is found not guilty of conspiring to share confidential central bank information with China, capping a case that featured spycraft, online seduction and a blackmail scam",
