@@ -1,9 +1,33 @@
 [
   {
+    "headline": "In the Grip of Gangs, Haiti Faces a Government Leadership Vacuum",
+    "link": "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-07-06-59-30 +0000"
+  },
+  {
+    "headline": "In the Grip of Gangs, Haiti Faces a Government Leadership Vacuum",
+    "link": "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-07-06-59-30 +0000"
+  },
+  {
+    "headline": "Connecticut preschooler accidentally summoned for jury duty: ‘I’m just a baby!’",
+    "link": "https://nypost.com/2026/02/07/us-news/connecticut-preschooler-zara-ibrahimi-accidentally-summoned-for-jury-duty/",
+    "source": "nypost",
+    "pubdate": "2026-02-07-06-22-42 +0000"
+  },
+  {
     "headline": "Analysis: Rudy Gobert frustrated by Timberwolves’ defensive lapses in 119-115 loss to Pelicans",
     "link": "https://www.startribune.com/rudy-gobert-frustrated-by-timberwolves-defensive-lapses-in-119-115-loss-to-pelicans/601578399",
     "source": "startribune",
-    "pubdate": "2026-02-07-05-53-19 +0000"
+    "pubdate": "2026-02-07-06-17-46 +0000"
+  },
+  {
+    "headline": "County Supervisor Lindsey Horvath won't run for L.A. mayor, ending weeks of speculation",
+    "link": "https://www.latimes.com/california/story/2026-02-06/county-supervisor-lindsey-horvath-will-not-run-for-los-angeles-mayor",
+    "source": "latimes",
+    "pubdate": "2026-02-07-05-52-25 +0000"
   },
   {
     "headline": "Sheriff searching for Savannah Guthrie’s missing mom Nancy calls lack of video a ‘disappointing’ setback",
@@ -648,12 +672,6 @@
     "pubdate": "2026-02-06-23-37-09 +0000"
   },
   {
-    "headline": "Trump may have already found his next ‘project in life,’ Mike Huckabee says",
-    "link": "https://nypost.com/2026/02/06/world-news/trump-could-lead-board-of-peace-after-office-as-next-project-in-life-huckabee/",
-    "source": "nypost",
-    "pubdate": "2026-02-06-23-37-09 +0000"
-  },
-  {
     "headline": "Investigators Review New Message in Nancy Guthrie Case",
     "link": "https://www.wsj.com/us-news/law/investigators-review-new-message-in-nancy-guthrie-case-12147d2c",
     "source": "wsj",
@@ -808,18 +826,6 @@
     "link": "https://www.nytimes.com/2026/02/06/world/asia/saalumarada-thimmakka-dead.html",
     "source": "nyt",
     "pubdate": "2026-02-06-22-45-03 +0000"
-  },
-  {
-    "headline": "In the Grip of Gangs, Haiti Faces a Government Leadership Vacuum",
-    "link": "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html",
-    "source": "nyt",
-    "pubdate": "2026-02-06-22-44-28 +0000"
-  },
-  {
-    "headline": "In the Grip of Gangs, Haiti Faces a Government Leadership Vacuum",
-    "link": "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html",
-    "source": "nyt",
-    "pubdate": "2026-02-06-22-44-28 +0000"
   },
   {
     "headline": "Yasiel Puig found guilty in gambling case, faces up to 20 years in prison",
@@ -2550,26 +2556,14 @@
     "pubdate": "2026-02-06-11-00-06 +0000"
   },
   {
-    "headline": "LAPD officer investigated for using photo of disgraced gang cop as phone lock screen",
-    "link": "https://www.latimes.com/california/story/2026-02-06/lapd-rafael-perez-photo-investigation",
-    "source": "latimes",
-    "pubdate": "2026-02-06-11-00-00 +0000"
-  },
-  {
-    "headline": "California wanted to buy e-bikes for residents. Glitches, funding short-circuited the effort",
-    "link": "https://www.latimes.com/california/story/2026-02-06/how-glitches-funding-issues-bedeviled-california-e-bike-voucher-program",
-    "source": "latimes",
-    "pubdate": "2026-02-06-11-00-00 +0000"
-  },
-  {
-    "headline": "Chabria: MAGA launches another 'save the children' campaign targeting LGBTQ+ families",
-    "link": "https://www.latimes.com/politics/story/2026-02-06/chabria-column-maga-targeting-same-sex-marriage",
-    "source": "latimes",
-    "pubdate": "2026-02-06-11-00-00 +0000"
-  },
-  {
     "headline": "Homeboy Industries to convert Monastery of the Angels into treatment facility",
     "link": "https://www.latimes.com/california/story/2026-02-06/homeboy-industries-to-convert-monastery-of-angels-into-treatment-facility",
+    "source": "latimes",
+    "pubdate": "2026-02-06-11-00-00 +0000"
+  },
+  {
+    "headline": "LAPD officer investigated for using photo of disgraced gang cop as phone lock screen",
+    "link": "https://www.latimes.com/california/story/2026-02-06/lapd-rafael-perez-photo-investigation",
     "source": "latimes",
     "pubdate": "2026-02-06-11-00-00 +0000"
   },
@@ -2586,6 +2580,18 @@
     "pubdate": "2026-02-06-11-00-00 +0000"
   },
   {
+    "headline": "California wanted to buy e-bikes for residents. Glitches, funding short-circuited the effort",
+    "link": "https://www.latimes.com/california/story/2026-02-06/how-glitches-funding-issues-bedeviled-california-e-bike-voucher-program",
+    "source": "latimes",
+    "pubdate": "2026-02-06-11-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: MAGA launches another 'save the children' campaign targeting LGBTQ+ families",
+    "link": "https://www.latimes.com/politics/story/2026-02-06/chabria-column-maga-targeting-same-sex-marriage",
+    "source": "latimes",
+    "pubdate": "2026-02-06-11-00-00 +0000"
+  },
+  {
     "headline": "Why some fear Burbank airport is an accident waiting to happen. 'Everybody has had concerns'",
     "link": "https://www.latimes.com/california/story/2026-02-06/federal-officials-warned-of-major-safety-concerns-at-burbanks-airport-what-makes-this-airspace-so-tricky",
     "source": "latimes",
@@ -2598,8 +2604,8 @@
     "pubdate": "2026-02-06-11-00-00 +0000"
   },
   {
-    "headline": "Pizza Hut closing hundreds of locations around the U.S.",
-    "link": "https://www.latimes.com/business/story/2026-02-06/pizza-hut-closing-hundreds-of-locations-around-u-s",
+    "headline": "One of California's first labor fights over AI is playing out at Kaiser",
+    "link": "https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm",
     "source": "latimes",
     "pubdate": "2026-02-06-11-00-00 +0000"
   },
@@ -2610,8 +2616,8 @@
     "pubdate": "2026-02-06-11-00-00 +0000"
   },
   {
-    "headline": "One of California's first labor fights over AI is playing out at Kaiser",
-    "link": "https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm",
+    "headline": "Pizza Hut closing hundreds of locations around the U.S.",
+    "link": "https://www.latimes.com/business/story/2026-02-06/pizza-hut-closing-hundreds-of-locations-around-u-s",
     "source": "latimes",
     "pubdate": "2026-02-06-11-00-00 +0000"
   },
@@ -2872,29 +2878,5 @@
     "link": "https://www.wsj.com/business/deals/failed-rio-tinto-glencore-talks-show-big-copper-deals-are-hard-to-do-2afaf62f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-06-07-13-00 +0000"
-  },
-  {
-    "headline": "India Central Bank Stands Pat as U.S. Trade Deal Brings Relief for Economy",
-    "link": "https://www.wsj.com/articles/india-central-bank-stands-pat-as-u-s-trade-deal-brings-relief-for-economy-3688e1b8",
-    "source": "wsj",
-    "pubdate": "2026-02-06-06-48-00 +0000"
-  },
-  {
-    "headline": "Toyota CEO Sato to step down, to be replaced by CFO Kon",
-    "link": "https://nypost.com/2026/02/06/business/toyota-ceo-koji-sato-to-step-down-to-be-replaced-by-cfo-kon/",
-    "source": "nypost",
-    "pubdate": "2026-02-06-06-43-17 +0000"
-  },
-  {
-    "headline": "Photos: Bad Bunny look-alike contest in San Francisco’s Mission District",
-    "link": "https://eltecolote.org/content/en/bad-bunny-sf-look-alike-contest/",
-    "source": "eltecolote",
-    "pubdate": "2026-02-06-06-37-59 +0000"
-  },
-  {
-    "headline": "Asylum seeker barracks plans could face further delays",
-    "link": "https://www.bbc.com/news/articles/c77kkvn8jvlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-06-06-16-32 +0000"
   }
 ]
