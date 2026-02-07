@@ -1,38 +1,31 @@
 [
   {
-    "score": 160,
+    "score": 155,
     "pubdate": "2026-02-07-03-07-00 +0000",
     "source": "wsj",
     "headline": "A federal judge has ordered the Trump administration to temporarily unfreeze funding for a $16 billion rail tunnel under the Hudson River connecting New York and New Jersey",
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administration-from-freezing-hudson-tunnel-funding-for-now-3786ca18"
   },
   {
-    "score": 111,
+    "score": 103,
     "pubdate": "2026-02-06-17-16-34 +0000",
     "source": "nyt",
     "headline": "Milan Winter Olympics Opening Ceremony: What Time to Watch, How to Watch, and More",
     "link": "https://www.nytimes.com/2026/02/06/world/europe/milan-winter-olympics-opening-ceremony-how-to-watch.html"
   },
   {
-    "score": 80,
+    "score": 79,
     "pubdate": "2026-02-06-23-40-00 +0000",
     "source": "wsj",
     "headline": "When the FBI Arrested Epstein, He Called Kathryn Ruemmler",
-    "link": "https://www.wsj.com/us-news/law/when-the-fbi-arrested-epstein-he-called-kathryn-ruemmler-39f7bf73?mod=rss_markets_main"
+    "link": "https://www.wsj.com/us-news/law/when-the-fbi-arrested-epstein-he-called-kathryn-ruemmler-39f7bf73?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 76,
+    "score": 74,
     "pubdate": "2026-02-06-20-55-59 +0000",
     "source": "wapo",
     "headline": "U.S. and Iran hold nuclear talks amid threats of regional war",
     "link": "https://www.washingtonpost.com/national-security/2026/02/06/us-iran-nuclear-talks-oman/"
-  },
-  {
-    "score": 68,
-    "pubdate": "2026-02-06-23-05-00 +0000",
-    "source": "bbc",
-    "headline": "Will Sunday's snap election gamble pay off for Japan's first female premier?",
-    "link": "https://www.bbc.com/news/articles/ckgl53zll3jo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 68,
@@ -42,6 +35,20 @@
     "link": "https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html"
   },
   {
+    "score": 68,
+    "pubdate": "2026-02-06-23-05-00 +0000",
+    "source": "bbc",
+    "headline": "Will Sunday's snap election gamble pay off for Japan's first female premier?",
+    "link": "https://www.bbc.com/news/articles/ckgl53zll3jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-02-07-05-13-01 +0000",
+    "source": "nypost",
+    "headline": "Sheriff searching for Savannah Guthrie’s missing mom Nancy calls lack of video a ‘disappointing’ setback",
+    "link": "https://nypost.com/2026/02/07/us-news/arizona-sheriff-searching-for-savannah-guthries-missing-mom-nancy-calls-lack-of-video-a-disappointing-setback/"
+  },
+  {
     "score": 54,
     "pubdate": "2026-02-06-21-44-00 +0000",
     "source": "wsj",
@@ -49,24 +56,17 @@
     "link": "https://www.wsj.com/politics/looming-epstein-deposition-plunges-clintons-into-yet-another-scandal-b5d5437e"
   },
   {
-    "score": 47,
-    "pubdate": "2026-02-06-16-12-52 +0000",
-    "source": "nypost",
-    "headline": "Ashleigh Banfield stands by single sourced accusation Savannah Guthrie’s brother-in-law is suspect in Nancy’s disappearance after sheriff branded reporting ‘reckless’",
-    "link": "https://nypost.com/2026/02/06/media/ashleigh-banfield-doubles-down-saying-savannah-guthries-brother-in-law-may-be-prime-suspect/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-02-06-19-00-05 +0000",
-    "source": "latimes",
-    "headline": "Chabria: Yes, Trump's video showing the Obamas as apes is racist. But it's also about the election",
-    "link": "https://www.latimes.com/politics/story/2026-02-06/chabria-column-trump-racist-video-what-comes-next"
-  },
-  {
-    "score": 45,
+    "score": 44,
     "pubdate": "2026-02-06-21-15-34 +0000",
     "source": "nypost",
     "headline": "Nightlife veteran Richie Romero opens three new NYC restaurants as he puts ‘dark energy’ club days further behind him",
     "link": "https://nypost.com/2026/02/06/business/nightlife-veteran-richie-romero-opens-three-new-nyc-restaurants-as-he-puts-dark-energy-club-days-further-behind-him/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-02-07-03-36-52 +0000",
+    "source": "nyt",
+    "headline": "China Reverses Death Sentence for Canadian in a Small Win for Carney",
+    "link": "https://www.nytimes.com/2026/02/06/world/asia/china-canada-death-sentence-overturned.html"
   }
 ]
