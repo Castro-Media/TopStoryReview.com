@@ -1,17 +1,17 @@
 [
   {
-    "score": 86,
-    "pubdate": "2026-02-07-03-07-00 +0000",
-    "source": "wsj",
-    "headline": "A federal judge has ordered the Trump administration to temporarily unfreeze funding for a $16 billion rail tunnel under the Hudson River connecting New York and New Jersey",
-    "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administration-from-freezing-hudson-tunnel-funding-for-now-3786ca18"
-  },
-  {
-    "score": 64,
+    "score": 72,
     "pubdate": "2026-02-07-23-41-35 +0000",
     "source": "nypost",
     "headline": "Savannah Guthrie says she has received message, begs for mom Nancy’s return in new video to abductor: ‘We will pay’",
     "link": "https://nypost.com/2026/02/07/us-news/savannah-guthrie-sends-video-to-response-to-nancy-guthries-abductors/"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-02-07-16-52-10 +0000",
+    "source": "nypost",
+    "headline": "Tehran’s foreign minister warns they’re ready to attack US bases in Middle East if Trump strikes Iran",
+    "link": "https://nypost.com/2026/02/07/world-news/tehrans-foreign-minister-warns-theyre-ready-to-attack-us-bases-in-middle-east-if-trump-strikes-iran/"
   },
   {
     "score": 47,
@@ -21,25 +21,11 @@
     "link": "https://nypost.com/2026/02/07/us-news/gavin-newsom-spotted-getting-cozy-with-sports-exec-michael-rubin-at-super-bowl-party/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-02-08-01-47-26 +0000",
-    "source": "nypost",
-    "headline": "Radical LA councilmember Nithya Raman’s shocking record in spotlight as she enters mayor’s race",
-    "link": "https://nypost.com/2026/02/07/us-news/la-councilmember-nithya-ramans-shocking-record-in-spotlight-as-she-enters-mayors-race/"
-  },
-  {
-    "score": 42,
+    "score": 43,
     "pubdate": "2026-02-07-09-43-35 +0000",
     "source": "nypost",
     "headline": "US gave Ukraine, Russia a June deadline to reach agreement to end war, Zelensky says",
     "link": "https://nypost.com/2026/02/07/world-news/trump-gave-ukraine-russia-june-deadline-to-end-war-zelensky-says/"
-  },
-  {
-    "score": 41,
-    "pubdate": "2026-02-07-23-42-42 +0000",
-    "source": "latimes",
-    "headline": "Yes, there really was a 'March for Billionaires' rally in San Francisco",
-    "link": "https://www.latimes.com/california/story/2026-02-07/march-for-billionaires-rally-in-san-francisco"
   },
   {
     "score": 36,
@@ -50,17 +36,17 @@
   },
   {
     "score": 35,
+    "pubdate": "2026-02-08-01-47-26 +0000",
+    "source": "nypost",
+    "headline": "Radical LA councilmember Nithya Raman’s shocking record in the spotlight as she enters mayor’s race",
+    "link": "https://nypost.com/2026/02/07/us-news/la-councilmember-nithya-ramans-shocking-record-in-spotlight-as-she-enters-mayors-race/"
+  },
+  {
+    "score": 35,
     "pubdate": "2026-02-07-20-48-44 +0000",
     "source": "wapo",
     "headline": "At Winter Olympics, protest over cost and ICE ends in clash with police",
     "link": "https://www.washingtonpost.com/sports/olympics/2026/02/07/protests-winter-olympics-italy/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-02-07-16-52-10 +0000",
-    "source": "nypost",
-    "headline": "Tehran’s foreign minister warns they’re ready to attack US bases in Middle East if Trump strikes Iran",
-    "link": "https://nypost.com/2026/02/07/world-news/tehrans-foreign-minister-warns-theyre-ready-to-attack-us-bases-in-middle-east-if-trump-strikes-iran/"
   },
   {
     "score": 34,
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "Washington Post publisher Will Lewis steps down days after Jeff Bezos-owned newspaper laid off over 300 staffers",
     "link": "https://nypost.com/2026/02/07/us-news/washington-post-publisher-will-lewis-steps-down-days-after-jeff-bezos-owned-newspaper-laid-off-over-300-staffers/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-02-07-10-02-10 +0000",
+    "source": "nyt",
+    "headline": "Binance Gives Trump Family’s Crypto Firm a Leg Up",
+    "link": "https://www.nytimes.com/2026/02/07/business/binance-trump-crypto.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-02-07-22-57-47 +0000",
+    "source": "nypost",
+    "headline": "Harlem woman takes nasty spill on icy sidewalk when her ‘life-risking’ wheelchair ran into mount of snow",
+    "link": "https://nypost.com/2026/02/07/us-news/harlem-woman-takes-a-nasty-spill-in-her-lemon-of-a-wheelchair/"
   }
 ]
