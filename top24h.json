@@ -1,24 +1,24 @@
 [
   {
-    "score": 59,
+    "score": 56,
     "pubdate": "2026-02-08-00-12-00 +0000",
     "source": "wsj",
     "headline": "Whistleblower complaint against Tulsi Gabbard is based on U.S.-intercepted phone conversation in which individuals linked to a foreign government discussed a person close to President Trump",
     "link": "https://www.wsj.com/politics/national-security/whistleblower-complaint-addressed-foreign-intelligence-call-about-person-close-to-trump-0dfe8e9e"
   },
   {
-    "score": 57,
+    "score": 52,
     "pubdate": "2026-02-08-01-58-07 +0000",
     "source": "bbc",
     "headline": "Savannah Guthrie tells mother's possible kidnappers 'we will pay' in plea for her return",
     "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 51,
-    "pubdate": "2026-02-07-20-35-32 +0000",
-    "source": "latimes",
-    "headline": "Lopez: New twist in mayor's race makes election a referendum on L.A.'s future",
-    "link": "https://www.latimes.com/california/story/2026-02-07/lopez-column-bass-mayor-race"
+    "score": 50,
+    "pubdate": "2026-02-08-01-47-26 +0000",
+    "source": "nypost",
+    "headline": "Radical LA councilmember Nithya Raman’s shocking record in the spotlight as she enters mayor’s race",
+    "link": "https://nypost.com/2026/02/07/us-news/la-councilmember-nithya-ramans-shocking-record-in-spotlight-as-she-enters-mayors-race/"
   },
   {
     "score": 49,
@@ -49,18 +49,11 @@
     "link": "https://nypost.com/2026/02/07/world-news/trump-gave-ukraine-russia-june-deadline-to-end-war-zelensky-says/"
   },
   {
-    "score": 33,
-    "pubdate": "2026-02-08-01-47-26 +0000",
-    "source": "nypost",
-    "headline": "Radical LA councilmember Nithya Raman’s shocking record in the spotlight as she enters mayor’s race",
-    "link": "https://nypost.com/2026/02/07/us-news/la-councilmember-nithya-ramans-shocking-record-in-spotlight-as-she-enters-mayors-race/"
-  },
-  {
     "score": 32,
-    "pubdate": "2026-02-07-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Should you stay or should you go? Canadians reconsider Cuba travel plans after advisory",
-    "link": "https://www.cbc.ca/news/world/cuba-travel-advisory-9.7075379?cmp=rss"
+    "pubdate": "2026-02-07-20-35-32 +0000",
+    "source": "latimes",
+    "headline": "Lopez: New twist in mayor's race makes election a referendum on L.A.'s future",
+    "link": "https://www.latimes.com/california/story/2026-02-07/lopez-column-bass-mayor-race"
   },
   {
     "score": 32,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Epstein cultivated close ties with two key Russian government figures in the 2010s, files show",
     "link": "https://nypost.com/2026/02/07/world-news/epstein-cultivated-close-ties-with-two-key-russian-government-figures-files-show/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-02-07-22-44-16 +0000",
+    "source": "nyt",
+    "headline": "JD Vance Is Booed at Winter Olympics Opening Ceremony in Milan",
+    "link": "https://www.nytimes.com/2026/02/06/world/europe/jd-vance-olympics-opening-ceremony.html"
   }
 ]
