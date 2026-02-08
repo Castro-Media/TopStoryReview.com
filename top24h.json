@@ -1,38 +1,17 @@
 [
   {
-    "score": 90,
+    "score": 91,
     "pubdate": "2026-02-07-03-07-00 +0000",
     "source": "wsj",
     "headline": "A federal judge has ordered the Trump administration to temporarily unfreeze funding for a $16 billion rail tunnel under the Hudson River connecting New York and New Jersey",
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administration-from-freezing-hudson-tunnel-funding-for-now-3786ca18"
   },
   {
-    "score": 52,
-    "pubdate": "2026-02-07-19-42-07 +0000",
-    "source": "nypost",
-    "headline": "Rick Caruso blasts Karen Bass — and drops truth bomb about Spencer Pratt’s bid for mayor: ‘I’m going to say something I’ll probably regret’",
-    "link": "https://nypost.com/2026/02/07/us-news/rick-caruso-on-karen-bass-and-spencer-pratts-bid-for-mayor/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-02-07-23-42-42 +0000",
-    "source": "latimes",
-    "headline": "Yes, there really was a 'March for Billionaires' rally in San Francisco",
-    "link": "https://www.latimes.com/california/story/2026-02-07/march-for-billionaires-rally-in-san-francisco"
-  },
-  {
-    "score": 48,
+    "score": 71,
     "pubdate": "2026-02-07-23-41-35 +0000",
     "source": "nypost",
-    "headline": "Savannah Guthrie pleads for mom Nancy’s return in new video to abductor: ‘We will pay’",
+    "headline": "Savannah Guthrie says she has received message, begs for mom Nancy’s return in new video to abductor: ‘We will pay’",
     "link": "https://nypost.com/2026/02/07/us-news/savannah-guthrie-sends-video-to-response-to-nancy-guthries-abductors/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-02-07-21-38-40 +0000",
-    "source": "nypost",
-    "headline": "Trump says US held ‘very good talks with Iran’ as Islamic Republic ratchets up rhetoric",
-    "link": "https://nypost.com/2026/02/07/world-news/trump-says-us-held-very-good-talks-with-iran-as-islamic-republic-ratchets-up-rhetoric/"
   },
   {
     "score": 42,
@@ -43,10 +22,17 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-02-07-20-56-48 +0000",
+    "pubdate": "2026-02-07-23-42-42 +0000",
+    "source": "latimes",
+    "headline": "Yes, there really was a 'March for Billionaires' rally in San Francisco",
+    "link": "https://www.latimes.com/california/story/2026-02-07/march-for-billionaires-rally-in-san-francisco"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-02-07-21-38-40 +0000",
     "source": "nypost",
-    "headline": "Epstein cultivated close ties with two key Russian government figures in the 2010s, files show",
-    "link": "https://nypost.com/2026/02/07/world-news/epstein-cultivated-close-ties-with-two-key-russian-government-figures-files-show/"
+    "headline": "Trump says US held ‘very good talks with Iran’ as Islamic Republic ratchets up rhetoric",
+    "link": "https://nypost.com/2026/02/07/world-news/trump-says-us-held-very-good-talks-with-iran-as-islamic-republic-ratchets-up-rhetoric/"
   },
   {
     "score": 39,
@@ -56,17 +42,31 @@
     "link": "https://www.latimes.com/california/story/2026-02-07/mahan-supporters-fund-super-bowl-sunday-ads-for-newest-gubernatorial-candidate"
   },
   {
+    "score": 38,
+    "pubdate": "2026-02-07-20-56-48 +0000",
+    "source": "nypost",
+    "headline": "Epstein cultivated close ties with two key Russian government figures in the 2010s, files show",
+    "link": "https://nypost.com/2026/02/07/world-news/epstein-cultivated-close-ties-with-two-key-russian-government-figures-files-show/"
+  },
+  {
     "score": 37,
+    "pubdate": "2026-02-07-16-04-08 +0000",
+    "source": "nypost",
+    "headline": "Lindsey Horvath won’t run for LA mayor after feuding with Bass: ‘My decision is clear’",
+    "link": "https://nypost.com/2026/02/07/us-news/lindsey-horvath-wont-run-for-la-mayor-after-feuding-with-bass/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-02-07-23-39-50 +0000",
+    "source": "nypost",
+    "headline": "Washington Post publisher Will Lewis steps down days after Jeff Bezos-owned newspaper laid off over 300 staffers",
+    "link": "https://nypost.com/2026/02/07/us-news/washington-post-publisher-will-lewis-steps-down-days-after-jeff-bezos-owned-newspaper-laid-off-over-300-staffers/"
+  },
+  {
+    "score": 35,
     "pubdate": "2026-02-07-22-44-16 +0000",
     "source": "nyt",
     "headline": "JD Vance Is Booed at Winter Olympics Opening Ceremony in Milan",
     "link": "https://www.nytimes.com/2026/02/06/world/europe/jd-vance-olympics-opening-ceremony.html"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-02-07-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump chose a Federal Reserve chair he thinks he can count on to lower interest rates. History suggests three different ways presidents have come to regret that bet.",
-    "link": "https://www.wsj.com/economy/central-banking/these-presidents-found-out-how-trying-to-control-the-fed-chair-can-backfire-2142c6e6"
   }
 ]
