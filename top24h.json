@@ -1,13 +1,13 @@
 [
   {
-    "score": 163,
+    "score": 161,
     "pubdate": "2026-02-09-02-55-54 +0000",
     "source": "nypost",
     "headline": "Trump slams Bad Bunny’s Super Bowl halftime show: ‘An affront to the Greatness of America’",
     "link": "https://nypost.com/2026/02/08/us-news/trump-slams-bad-bunnys-super-bowl-halftime-show/"
   },
   {
-    "score": 86,
+    "score": 85,
     "pubdate": "2026-02-09-02-29-00 +0000",
     "source": "wsj",
     "headline": "Hong Kong’s Jimmy Lai Given 20-Year Sentence, Adding Friction to U.S.-China Ties",
@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/us-news/ghislaine-maxwell-takes-the-fifth-in-congressional-hearing-611f856e"
   },
   {
-    "score": 62,
+    "score": 61,
     "pubdate": "2026-02-09-18-55-22 +0000",
     "source": "nyt",
     "headline": "Japan Stocks Surge on Takaichi’s Landslide Election Win",
@@ -42,14 +42,7 @@
     "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson"
   },
   {
-    "score": 52,
-    "pubdate": "2026-02-09-19-03-07 +0000",
-    "source": "nypost",
-    "headline": "SF teachers strike for first time in 50 years over 9% pay raise demand — leaving working parents in the lurch",
-    "link": "https://nypost.com/2026/02/09/us-news/san-francisco-teachers-strike-for-first-time-in-50-years/"
-  },
-  {
-    "score": 52,
+    "score": 51,
     "pubdate": "2026-02-09-16-00-19 +0000",
     "source": "cbc",
     "headline": "Air Canada halts Cuba flights as Havana airport warns it will run out of jet fuel",
@@ -61,6 +54,13 @@
     "source": "nypost",
     "headline": "Juan Pablo Guanipa, ally of Venezuelan opposition leader Machado, kidnapped hours after prison release",
     "link": "https://nypost.com/2026/02/09/world-news/venezuelan-opposition-figure-guanipa-kidnapped-hours-after-prison-release/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-02-09-19-03-07 +0000",
+    "source": "nypost",
+    "headline": "SF teachers strike for first time in 50 years over 9% pay raise demand — leaving working parents in the lurch",
+    "link": "https://nypost.com/2026/02/09/us-news/san-francisco-teachers-strike-for-first-time-in-50-years/"
   },
   {
     "score": 45,
