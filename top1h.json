@@ -1,51 +1,37 @@
 [
   {
-    "score": 21,
-    "pubdate": "2026-02-09-17-10-49 +0000",
-    "source": "nyt",
-    "headline": "Prince William Visits Saudi Arabia for Delicate Diplomacy",
-    "link": "https://www.nytimes.com/2026/02/09/world/europe/prince-william-saudi-arabia-diplomacy.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-02-09-17-11-09 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Keir Starmer’s Allies Rally Around Him Amid Pressure to Resign as Britain’s Prime Minister",
-    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-02-09-17-09-27 +0000",
+    "score": 20,
+    "pubdate": "2026-02-09-19-15-34 +0000",
     "source": "nypost",
-    "headline": "NYC home invaders steal adorable French bulldog Coco in $8K Pokemon heist: sources",
-    "link": "https://nypost.com/2026/02/09/us-news/nyc-home-invaders-steal-adorable-french-bulldog-coco-in-8k-pokemon-heist-sources/"
+    "headline": "Homebody state employees push for permanent WFH – claim four days in the office is too many",
+    "link": "https://nypost.com/2026/02/09/us-news/new-bill-challenges-calif-gov-4-day-in-person-mandate/"
   },
   {
-    "score": 4,
-    "pubdate": "2026-02-09-17-08-15 +0000",
+    "score": 11,
+    "pubdate": "2026-02-09-19-08-21 +0000",
+    "source": "nypost",
+    "headline": "One teen dead, another injured in freak upstate NY snowmobile wreck: state police",
+    "link": "https://nypost.com/2026/02/09/us-news/one-teen-dead-another-injured-in-freak-upstate-ny-snowmobile-wreck-state-police/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-09-19-12-57 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson/heres-the-latest"
+    "headline": "San Francisco Teachers Begin Strike, Closing School for 50,000 Students",
+    "link": "https://www.nytimes.com/2026/02/09/us/san-francisco-teachers-strike.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-09-19-16-48 +0000",
+    "source": "nyt",
+    "headline": "Five Years After Myanmar Coup, ‘Even Hope Has Become a Risk’",
+    "link": "https://www.nytimes.com/2026/02/09/world/asia/myanmar-coup-anniversary.html"
   },
   {
     "score": 0,
-    "pubdate": "2026-02-09-17-10-49 +0000",
-    "source": "nyt",
-    "headline": "Prince William Visits Saudi Arabia for Delicate Diplomacy",
-    "link": "https://www.nytimes.com/2026/02/09/world/europe/prince-william-saudi-arabia-diplomacy.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-09-17-10-49 +0000",
-    "source": "nyt",
-    "headline": "Prince William Visits Saudi Arabia for Delicate Diplomacy",
-    "link": "https://www.nytimes.com/2026/02/09/world/europe/prince-william-saudi-arabia-diplomacy.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-09-17-08-15 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson/heres-the-latest"
+    "pubdate": "2026-02-09-19-15-34 +0000",
+    "source": "nypost",
+    "headline": "Homebody state employees push for permanent WFH – claim four days in the office is too many",
+    "link": "https://nypost.com/2026/02/09/us-news/new-bill-challenges-calif-gov-4-day-in-person-mandate/"
   }
 ]
