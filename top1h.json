@@ -1,44 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-02-09-14-12-42 +0000",
+    "score": 44,
+    "pubdate": "2026-02-09-16-38-00 +0000",
+    "source": "wsj",
+    "headline": "Ghislaine Maxwell, the longtime associate of Jeffrey Epstein, declined to answer questions from Congress, invoking her right against self incrimination",
+    "link": "https://www.wsj.com/us-news/ghislaine-maxwell-takes-the-fifth-in-congressional-hearing-611f856e"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-02-09-16-46-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Bull Thomas Kaplan Pushing Ahead on Plans for America’s Biggest Gold Mine",
+    "link": "https://www.wsj.com/business/gold-bull-thomas-kaplan-pushing-ahead-on-plans-for-americas-biggest-gold-mine-9c7a11d0?mod=rss_markets_main"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-02-09-17-11-09 +0000",
     "source": "nyt",
-    "headline": "Starmer’s Communications Chief Resigns, Adding to British Leader’s Woes",
-    "link": "https://www.nytimes.com/2026/02/09/world/europe/keir-starmer-uk-communications-resigns.html"
+    "headline": "Live Updates: Keir Starmer’s Allies Rally Around Him Amid Pressure to Resign as Britain’s Prime Minister",
+    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-02-09-17-10-49 +0000",
+    "source": "nyt",
+    "headline": "Prince William Visits Saudi Arabia for Delicate Diplomacy",
+    "link": "https://www.nytimes.com/2026/02/09/world/europe/prince-william-saudi-arabia-diplomacy.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-02-09-16-32-50 +0000",
+    "source": "nypost",
+    "headline": "Kremlin lashes out at Trump over ‘anti-Russian policy’ as US boards vessel known to carry sanctioned Russian oil",
+    "link": "https://nypost.com/2026/02/09/world-news/kremlin-lashes-out-at-trump-over-anti-russian-policy-as-us-boards-vessel-known-to-carry-sanctioned-russian-oil/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-09-17-05-24 +0000",
+    "source": "nypost",
+    "headline": "Grandma Gail Rudnick and Kimberly Murstein want to fix your messy life: Meet The Post’s brand-new advice columnists",
+    "link": "https://nypost.com/2026/02/09/lifestyle/grandma-gail-rudnick-and-kimberly-murstein-want-to-fix-your-messy-life-meet-the-posts-brand-new-advice-columnists/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-09-16-45-31 +0000",
+    "source": "nypost",
+    "headline": "LA officials pushing tax hike that will raise the price of groceries, restaurants and shopping",
+    "link": "https://nypost.com/2026/02/09/us-news/la-officials-push-tax-hike-that-will-raise-price-of-groceries-restaurants-shopping/"
   },
   {
     "score": 14,
-    "pubdate": "2026-02-09-14-13-00 +0000",
-    "source": "wsj",
-    "headline": "Kroger Names Ex-Walmart Executive as Its Next CEO",
-    "link": "https://www.wsj.com/business/retail/kroger-ceo-greg-foran-walmart-c4885390?mod=pls_whats_news_us_business_f"
+    "pubdate": "2026-02-09-17-03-49 +0000",
+    "source": "bbc",
+    "headline": "Machine guns to machetes: Weapons that massacred thousands in Iran",
+    "link": "https://www.bbc.com/news/articles/c0mgndkklvmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 7,
-    "pubdate": "2026-02-09-14-15-31 +0000",
-    "source": "nyt",
-    "headline": "Why Trump’s Calls to ‘Nationalize’ Voting Have Raised Midterm Fears",
-    "link": "https://www.nytimes.com/article/trumps-nationalize-voting-elections-midterms-explainer.html"
+    "score": 14,
+    "pubdate": "2026-02-09-16-58-06 +0000",
+    "source": "nypost",
+    "headline": "NYC nurses reach a deal to end a strike at 2 major hospitals while walkout continues at another",
+    "link": "https://nypost.com/2026/02/09/us-news/nyc-nurses-reach-a-deal-to-end-a-strike-at-2-major-hospitals-while-walkout-continues-at-another/"
   },
   {
-    "score": 5,
-    "pubdate": "2026-02-09-14-13-00 +0000",
-    "source": "wsj",
-    "headline": "Transocean to Acquire Valaris in $5.8 Billion Deal",
-    "link": "https://www.wsj.com/business/deals/transocean-to-acquire-valaris-in-5-8-billion-deal-40c1c696?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-09-14-13-00 +0000",
-    "source": "wsj",
-    "headline": "Kroger Names Ex-Walmart Executive as Its Next CEO",
-    "link": "https://www.wsj.com/business/retail/kroger-ceo-greg-foran-walmart-c4885390?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-09-14-12-42 +0000",
-    "source": "nyt",
-    "headline": "Starmer’s Communications Chief Resigns, Adding to British Leader’s Woes",
-    "link": "https://www.nytimes.com/2026/02/09/world/europe/keir-starmer-uk-communications-resigns.html"
+    "score": 14,
+    "pubdate": "2026-02-09-16-39-54 +0000",
+    "source": "bbc",
+    "headline": "Chris Mason: Starmer prepares to face his MPs knowing his future is in the balance",
+    "link": "https://www.bbc.com/news/articles/cdxg6xr2d55o?at_medium=RSS&at_campaign=rss"
   }
 ]
