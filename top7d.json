@@ -1,10 +1,17 @@
 [
   {
-    "score": 293,
+    "score": 289,
     "pubdate": "2026-02-07-03-07-00 +0000",
     "source": "wsj",
     "headline": "A federal judge has ordered the Trump administration to temporarily unfreeze funding for a $16 billion rail tunnel under the Hudson River connecting New York and New Jersey",
     "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administration-from-freezing-hudson-tunnel-funding-for-now-3786ca18"
+  },
+  {
+    "score": 184,
+    "pubdate": "2026-02-09-02-32-35 +0000",
+    "source": "nypost",
+    "headline": "TPUSA’s ‘All-American’ alternative halftime show draws millions of viewers to rival NFL Super Bowl: ‘This one’s for you Charlie’",
+    "link": "https://nypost.com/2026/02/08/us-news/tpusas-all-american-halftime-show-draws-millions-to-rival-nfl-super-bowl/"
   },
   {
     "score": 176,
@@ -12,13 +19,6 @@
     "source": "latimes",
     "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
     "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
-  },
-  {
-    "score": 165,
-    "pubdate": "2026-02-09-02-32-35 +0000",
-    "source": "nypost",
-    "headline": "TPUSA’s ‘All-American’ alternative halftime show draws millions of viewers to rival NFL Super Bowl: ‘This one’s for you Charlie’",
-    "link": "https://nypost.com/2026/02/08/us-news/tpusas-all-american-halftime-show-draws-millions-to-rival-nfl-super-bowl/"
   },
   {
     "score": 125,
@@ -42,31 +42,31 @@
     "link": "https://www.wsj.com/economy/central-banking/feds-cook-focused-on-inflation-risks-as-greater-threat-to-economy-93c140aa"
   },
   {
-    "score": 98,
+    "score": 95,
     "pubdate": "2026-02-09-01-23-36 +0000",
     "source": "nyt",
     "headline": "How Ilia Malinin and Team U.S.A. Held Off Japan to Win Gold Medal",
     "link": "https://www.nytimes.com/2026/02/08/world/how-the-american-skaters-held-off-japan-to-win-team-gold.html"
   },
   {
-    "score": 97,
-    "pubdate": "2026-02-05-01-45-00 +0000",
-    "source": "wsj",
-    "headline": "The top Democrat on a House committee overseeing U.S.-China competition has launched a probe into a $500 million investment by an Abu Dhabi royal in a Trump family cryptocurrency company",
-    "link": "https://www.wsj.com/politics/national-security/top-democrat-launches-probe-into-spy-sheikh-deal-with-trump-company-ea59ec8e"
-  },
-  {
-    "score": 96,
+    "score": 95,
     "pubdate": "2026-02-08-00-12-00 +0000",
     "source": "wsj",
     "headline": "Whistleblower complaint against Tulsi Gabbard is based on U.S.-intercepted phone conversation in which individuals linked to a foreign government discussed a person close to President Trump",
     "link": "https://www.wsj.com/politics/national-security/whistleblower-complaint-addressed-foreign-intelligence-call-about-person-close-to-trump-0dfe8e9e"
   },
   {
-    "score": 86,
-    "pubdate": "2026-02-08-23-01-00 +0000",
-    "source": "startribune",
-    "headline": "The latest: Lindsey Vonn breaks her left leg in Olympic downhill crash, ending her comeback story",
-    "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094"
+    "score": 95,
+    "pubdate": "2026-02-09-02-29-00 +0000",
+    "source": "wsj",
+    "headline": "Hong Kong’s Jimmy Lai Given 20-Year Sentence, Adding Friction to U.S.-China Ties",
+    "link": "https://www.wsj.com/world/china/hong-kongs-jimmy-lai-given-20-year-sentence-adding-friction-to-u-s-china-ties-614c90df"
+  },
+  {
+    "score": 85,
+    "pubdate": "2026-02-07-12-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "People We Meet: His wife told him to get out of the house, and a crossing guard was born",
+    "link": "https://missionlocal.org/2026/02/people-we-meet-leland-pon-excelsior-crossing-guard/"
   }
 ]
