@@ -1,6 +1,6 @@
 [
   {
-    "score": 140,
+    "score": 128,
     "pubdate": "2026-02-09-13-23-19 +0000",
     "source": "nyt",
     "headline": "Trump Criticizes Bad Bunny’s Super Bowl Halftime Show",
@@ -36,13 +36,6 @@
   },
   {
     "score": 51,
-    "pubdate": "2026-02-09-09-11-41 +0000",
-    "source": "nypost",
-    "headline": "China critic and former media tycoon Jimmy Lai sentenced to 20 years in Hong Kong security case",
-    "link": "https://nypost.com/2026/02/09/world-news/china-critic-and-former-media-tycoon-jimmy-lai-sentenced-to-20-years-in-hong-kong-security-case/"
-  },
-  {
-    "score": 51,
     "pubdate": "2026-02-09-22-42-45 +0000",
     "source": "nyt",
     "headline": "Keir Starmer’s Allies Rally Around Him Amid Pressure to Resign as Britain’s Prime Minister",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "US military strikes alleged drug boat in the Eastern Pacific, leaving 2 dead and 1 survivor",
     "link": "https://nypost.com/2026/02/09/us-news/us-military-strikes-alleged-drug-boat-in-the-eastern-pacific-leaving-2-dead-and-1-survivor/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-02-09-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "California reserved $165 million for Tesla to electrify its trucking industry. The result may stifle EV innovation",
+    "link": "https://www.latimes.com/environment/story/2026-02-09/tesla-semi-california-truck-funding"
   }
 ]
