@@ -1,61 +1,5 @@
 [
   {
-    "score": 39,
-    "pubdate": "2026-02-10-16-28-00 +0000",
-    "source": "wsj",
-    "headline": "Commerce Secretary Howard Lutnick said he visited Jeffrey Epstein’s private island in 2012 with his wife and children, years after Lutnick said he had cut off ties with the convicted sex offender",
-    "link": "https://www.wsj.com/politics/policy/lutnick-says-he-visited-epsteins-private-island-with-his-wife-and-children-28036415"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-02-10-16-30-56 +0000",
-    "source": "nypost",
-    "headline": "House Speaker Mike Johnson slams Mamdani’s politicized health department over ‘global oppression’ group",
-    "link": "https://nypost.com/2026/02/10/us-news/mike-johnson-slams-mamdanis-politicized-health-department-over-global-oppression-group/"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-02-10-16-40-11 +0000",
-    "source": "nyt",
-    "headline": "Susan Collins Runs for Re-election in Must-Win Senate Seat for Democrats",
-    "link": "https://www.nytimes.com/2026/02/10/us/politics/susan-collins-maine-senate-2026.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-02-10-16-22-42 +0000",
-    "source": "nyt",
-    "headline": "Air Canada and WestJet Cancel Flights to Cuba Over Jet Fuel Shortage",
-    "link": "https://www.nytimes.com/2026/02/09/world/americas/air-canada-flight-cancellations-cuba-jet-fuel.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-02-10-16-28-23 +0000",
-    "source": "nyt",
-    "headline": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
-    "link": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-02-10-16-44-03 +0000",
-    "source": "nyt",
-    "headline": "Israelis Protest Surge in Gun Crime Within Arab Community",
-    "link": "https://www.nytimes.com/2026/02/10/world/middleeast/israelis-protest-surge-in-gun-crime-within-arab-community.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-02-10-16-24-00 +0000",
-    "source": "nyt",
-    "headline": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
-    "link": "https://www.nytimes.com/2026/02/10/world/europe/olympics-italy-police-army-athletes.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-02-10-17-07-32 +0000",
-    "source": "nyt",
-    "headline": "Epstein Directed Aide to Obtain Hidden Video Cameras",
-    "link": "https://www.nytimes.com/2026/02/10/us/epstein-hidden-cameras.html"
-  },
-  {
     "score": 12,
     "pubdate": "2026-02-10-17-13-30 +0000",
     "source": "nypost",
@@ -63,10 +7,24 @@
     "link": "https://nypost.com/2026/02/10/us-news/mark-zuckerberg-shuns-california-buys-miami-mansion/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-02-10-16-44-19 +0000",
-    "source": "nypost",
-    "headline": "Lt. Gov. Antonio Delgado drops primary bid against rival Hochul",
-    "link": "https://nypost.com/2026/02/10/us-news/lt-gov-antonio-delgado-drops-bid-for-governor/"
+    "score": 7,
+    "pubdate": "2026-02-10-17-13-57 +0000",
+    "source": "bbc",
+    "headline": "Pakistan tune up for India with win against USA",
+    "link": "https://www.bbc.com/sport/cricket/articles/cx28klldqn1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-10-17-13-46 +0000",
+    "source": "startribune",
+    "headline": "Live: ICE director vows to release bodycam footage",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-10-17-14-19 +0000",
+    "source": "nyt",
+    "headline": "Operator of Eddie Bauer Stores Files for Bankruptcy",
+    "link": "https://www.nytimes.com/2026/02/10/business/eddie-bauer-bankruptcy.html"
   }
 ]
