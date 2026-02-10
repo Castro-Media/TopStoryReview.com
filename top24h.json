@@ -7,7 +7,7 @@
     "link": "https://www.wsj.com/world/americas/trump-threatens-to-block-opening-of-new-bridge-between-detroit-and-canada-e80d64ac"
   },
   {
-    "score": 137,
+    "score": 135,
     "pubdate": "2026-02-10-17-30-00 +0000",
     "source": "wsj",
     "headline": "Commerce Secretary Howard Lutnick said he visited Jeffrey Epstein’s private island in 2012 with his wife and children, years after Lutnick said he had cut off ties with the convicted sex offender",
@@ -21,14 +21,14 @@
     "link": "https://www.wsj.com/finance/stocks/healthcare-is-propping-up-the-job-market-a3ce973b"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-02-10-01-08-36 +0000",
     "source": "nyt",
     "headline": "Savannah Guthrie Says She Believes Her Mom, Nancy, ‘Is Still Out There’ in New Video",
     "link": "https://www.nytimes.com/2026/02/09/us/savannah-guthrie-kidnapping-video.html"
   },
   {
-    "score": 67,
+    "score": 66,
     "pubdate": "2026-02-10-16-15-01 +0000",
     "source": "nypost",
     "headline": "Gavin Newsom ripped by LA’s top fed  prosecutor for claiming win in ICE anti-mask ruling: ‘Stop lying’",
@@ -36,24 +36,31 @@
   },
   {
     "score": 57,
-    "pubdate": "2026-02-10-18-37-00 +0000",
+    "pubdate": "2026-02-10-01-13-00 +0000",
     "source": "wsj",
-    "headline": "Republican Sen. Susan Collins, the Maine centrist who has clashed with President Trump, said Tuesday she will run for re-election",
-    "link": "https://www.wsj.com/politics/policy/susan-collins-announces-run-for-re-election-after-clashing-with-trump-7eb72a4a"
+    "headline": "The White House is at loggerheads with Congress over one of President Trump’s signature housing proposals, a ban on Wall Street investors buying single-family homes",
+    "link": "https://www.wsj.com/politics/policy/proposed-ban-on-investors-in-the-housing-market-hits-a-wall-in-congress-6be38cb7"
   },
   {
-    "score": 53,
-    "pubdate": "2026-02-10-01-25-52 +0000",
-    "source": "latimes",
-    "headline": "Federal judge strikes down California mask ban on immigration agents, but it may be revived",
-    "link": "https://www.latimes.com/california/story/2026-02-09/federal-judge-strikes-down-california-mask-ban-on-immigration-agents"
-  },
-  {
-    "score": 47,
+    "score": 52,
     "pubdate": "2026-02-10-11-32-07 +0000",
     "source": "nypost",
     "headline": "Trump told Palm Beach police chief ‘thank goodness you’re stopping’ Epstein, called Ghislaine Maxwell ‘evil’ in 2006 phone call: FBI document",
     "link": "https://nypost.com/2026/02/10/us-news/trump-told-palm-beach-police-chief-thank-goodness-youre-stopping-epstein-claimed-ghislaine-maxwell-was-evil-in-2006-phone-call-fbi-document/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-02-10-00-06-00 +0000",
+    "source": "wsj",
+    "headline": "Soaring profits and stocks funnel more of GDP toward companies, their top employees and shareholders. AI will intensify this trend, writes Greg Ip.",
+    "link": "https://www.wsj.com/economy/jobs/capital-labor-wealth-economy-2fcf6c2f"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-02-10-01-25-52 +0000",
+    "source": "latimes",
+    "headline": "Federal judge strikes down California mask ban on immigration agents, but it may be revived",
+    "link": "https://www.latimes.com/california/story/2026-02-09/federal-judge-strikes-down-california-mask-ban-on-immigration-agents"
   },
   {
     "score": 44,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "As a fellow Puerto Rican, Bad Bunny's Super Bowl show was personal",
     "link": "https://www.bbc.com/news/articles/cn71y2l51zno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-02-10-16-07-54 +0000",
-    "source": "nypost",
-    "headline": "Nervous Netanyahu pushes up trip to DC for high-stakes Trump talk as US huddles with Iran",
-    "link": "https://nypost.com/2026/02/10/us-news/nervous-netanyahu-pushes-up-trip-to-dc-as-us-huddles-with-iran/"
   }
 ]
