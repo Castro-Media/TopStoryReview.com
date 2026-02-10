@@ -21,11 +21,11 @@
     "link": "https://www.cbc.ca/news/canada/travel-to-cuba-fuel-shortage-9.7080648?cmp=rss"
   },
   {
-    "score": 130,
+    "score": 129,
     "pubdate": "2026-02-09-02-29-00 +0000",
     "source": "wsj",
     "headline": "Hong Kong’s Jimmy Lai Given 20-Year Sentence, Adding Friction to U.S.-China Ties",
-    "link": "https://www.wsj.com/world/china/hong-kongs-jimmy-lai-given-20-year-sentence-adding-friction-to-u-s-china-ties-614c90df?mod=rss_markets_main"
+    "link": "https://www.wsj.com/world/china/hong-kongs-jimmy-lai-given-20-year-sentence-adding-friction-to-u-s-china-ties-614c90df"
   },
   {
     "score": 128,
@@ -56,17 +56,17 @@
     "link": "https://www.bbc.com/news/articles/cd0y18g8g7ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 91,
-    "pubdate": "2026-02-07-23-59-43 +0000",
-    "source": "bbc",
-    "headline": "ICE protester says she was 'disgusted' after fake arrest image shared by White House",
-    "link": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 90,
     "pubdate": "2026-02-09-23-58-43 +0000",
     "source": "nypost",
     "headline": "Watch Ghislaine Maxwell’s prison video to Congress when pressed on Jeffrey Epstein’s crimes",
     "link": "https://nypost.com/2026/02/09/us-news/watch-ghislaine-maxwells-prison-video-to-congress-when-pressed-on-jeffrey-epsteins-crimes/"
+  },
+  {
+    "score": 90,
+    "pubdate": "2026-02-07-23-59-43 +0000",
+    "source": "bbc",
+    "headline": "ICE protester says she was 'disgusted' after fake arrest image shared by White House",
+    "link": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss"
   }
 ]
