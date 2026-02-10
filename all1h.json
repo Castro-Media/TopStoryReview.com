@@ -1,110 +1,254 @@
 [
   {
-    "headline": "European Gas Prices Hold Below 35 Euros on Warmer Forecasts",
-    "link": "https://www.wsj.com/articles/european-gas-prices-hold-below-35-euros-on-warmer-forecasts-c622649e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-10-09-08-00 +0000"
+    "headline": "Eddie Bauer Files for Bankruptcy",
+    "link": "https://www.nytimes.com/2026/02/10/business/eddie-bauer-bankruptcy.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-06-22 +0000"
   },
   {
-    "headline": "Canada discreetly puts money down on 14 additional F-35s",
-    "link": "https://www.cbc.ca/news/politics/canada-f35-purchase-components-9.7081240?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-10-09-00-00 +0000"
-  },
-  {
-    "headline": "Ottawa commits $84M to install more than 8,000 EV chargers",
-    "link": "https://www.cbc.ca/news/politics/national-charging-infrastructure-strategy-9.7081772?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-10-09-00-00 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Japanese Stocks Extend Post-Election Rally; Dow Futures Little Changed",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-10-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-10-08-46-21 +0000"
-  },
-  {
-    "headline": "BP profits fall after oil prices drop",
-    "link": "https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss",
+    "headline": "Palestinians say new Israeli measures in West Bank amount to de facto annexation",
+    "link": "https://www.bbc.com/news/articles/cvg5x2l3v0qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-10-08-45-24 +0000"
+    "pubdate": "2026-02-10-10-04-30 +0000"
   },
   {
-    "headline": "BP profits fall after oil prices drop",
-    "link": "https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss",
+    "headline": "'Mum is still out there' - Savannah Guthrie issues new plea as ransom deadline passes",
+    "link": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-10-08-45-24 +0000"
+    "pubdate": "2026-02-10-10-04-26 +0000"
   },
   {
-    "headline": "Gold Inches Lower As Investors Await U.S. Data",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-possible-technical-correction-f4befb45?mod=rss_markets_main",
+    "headline": "'Mum is still out there' - Savannah Guthrie issues new plea as ransom deadline passes",
+    "link": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-10-10-04-26 +0000"
+  },
+  {
+    "headline": "Top Immigration Officials Set to Testify Before House Panel",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/dhs-officials-house-minnesota.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-04-04 +0000"
+  },
+  {
+    "headline": "Top Immigration Officials Set to Testify Before House Panel",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/dhs-officials-house-minnesota.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-04-04 +0000"
+  },
+  {
+    "headline": "Many Residents in Minneapolis, Tempered by ICE Turmoil, Now Feel Empowered",
+    "link": "https://www.nytimes.com/2026/02/10/us/twin-cities-residents-unity-ice.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-03-30 +0000"
+  },
+  {
+    "headline": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+    "link": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-03-00 +0000"
+  },
+  {
+    "headline": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+    "link": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-03-00 +0000"
+  },
+  {
+    "headline": "Watch: A Conversation With Anna Wintour and Her U.S. Vogue Successor, Chloe Malle",
+    "link": "https://www.nytimes.com/2026/02/10/business/media/anna-wintour-chloe-malle-vogue-interview.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-57 +0000"
+  },
+  {
+    "headline": "Some Advocates say Democratic Plan to Rein in ICE has No Teeth",
+    "link": "https://www.nytimes.com/2026/02/10/us/democrat-plan-ice-masks-warrants.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-53 +0000"
+  },
+  {
+    "headline": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
+    "link": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-45 +0000"
+  },
+  {
+    "headline": "Russia Knocked Out the Heat. So She Slept in a Tent on Her Bed.",
+    "link": "https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-45 +0000"
+  },
+  {
+    "headline": "How Ukrainians Are Coping Without Heat",
+    "link": "https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-22 +0000"
+  },
+  {
+    "headline": "How Ukrainians Are Coping Without Heat",
+    "link": "https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-22 +0000"
+  },
+  {
+    "headline": "Without a Border ‘Invasion,’ Texas G.O.P. Turns to an Old Enemy, Islam",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/texas-muslims-republicans.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-01 +0000"
+  },
+  {
+    "headline": "Without a Border ‘Invasion,’ Texas G.O.P. Turns to an Old Enemy, Islam",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/texas-muslims-republicans.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-02-01 +0000"
+  },
+  {
+    "headline": "British American Tobacco Keeps Luc Jobin as Chair",
+    "link": "https://www.wsj.com/business/c-suite/british-american-tobacco-keeps-luc-jobin-as-chair-a444eb0f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-02-10-08-44-00 +0000"
+    "pubdate": "2026-02-10-10-02-00 +0000"
   },
   {
-    "headline": "Squirrel chews through electrical wires, sparking inferno that destroyed Florida family’s home: ‘Starting over from scratch’",
-    "link": "https://nypost.com/2026/02/10/us-news/squirrel-chews-through-electrical-wires-sparking-inferno-that-destroyed-florida-familys-home/",
+    "headline": "What Happens After Immigration Agents Shoot Someone?",
+    "link": "https://www.nytimes.com/video/us/100000010680443/immigration-agents-shooting-aftermath.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-01-52 +0000"
+  },
+  {
+    "headline": "Trump Administration Claims About Shootings by Federal Agents Unravel in Court",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/homeland-security-shootings.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-01-14 +0000"
+  },
+  {
+    "headline": "Trump Administration Claims About Shootings by Federal Agents Unravel in Court",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/homeland-security-shootings.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-01-14 +0000"
+  },
+  {
+    "headline": "Trump’s Threats to Cuba’s Oil Suppliers Put Mexico in a Bind",
+    "link": "https://www.nytimes.com/2026/02/10/world/americas/mexico-cuba-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-00-55 +0000"
+  },
+  {
+    "headline": "Trump’s Threats to Cuba’s Oil Suppliers Put Mexico in a Bind",
+    "link": "https://www.nytimes.com/2026/02/10/world/americas/mexico-cuba-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-00-55 +0000"
+  },
+  {
+    "headline": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+    "link": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-00-45 +0000"
+  },
+  {
+    "headline": "Visiting Riviera Nayarit in Mexico",
+    "link": "https://www.nytimes.com/2026/02/10/travel/mexico-visiting-riviera-nayarit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-00-45 +0000"
+  },
+  {
+    "headline": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+    "link": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-10-00-45 +0000"
+  },
+  {
+    "headline": "Trump wants lower mortgage rates. His Fed pick may push the other way.",
+    "link": "https://www.washingtonpost.com/business/2026/02/10/kevin-warsh-fed-balance-sheet/",
+    "source": "wapo",
+    "pubdate": "2026-02-10-10-00-09 +0000"
+  },
+  {
+    "headline": "SMIC Earnings Top Expectations on Strong Chip Demand",
+    "link": "https://www.wsj.com/business/earnings/smic-earnings-top-expectations-on-strong-chip-demand-d9331f4a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-10-09-59-00 +0000"
+  },
+  {
+    "headline": "Trump says he will block US-Canada Bridge unless Canada negotiates on trade",
+    "link": "https://nypost.com/2026/02/10/us-news/trump-says-he-will-block-us-canada-bridge-unless-canada-negotiates-on-trade/",
     "source": "nypost",
-    "pubdate": "2026-02-10-08-41-03 +0000"
+    "pubdate": "2026-02-10-09-57-46 +0000"
   },
   {
-    "headline": "Oil Inches Lower With U.S.-Iran Tensions in Focus",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-may-be-supported-by-u-s-iran-tensions-1181e065?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-10-08-40-00 +0000"
+    "headline": "Trump says he will block US-Canada Bridge unless Canada negotiates on trade",
+    "link": "https://nypost.com/2026/02/10/us-news/trump-says-he-will-block-us-canada-bridge-unless-canada-negotiates-on-trade/",
+    "source": "nypost",
+    "pubdate": "2026-02-10-09-57-46 +0000"
   },
   {
-    "headline": "More solar farms on the way after record renewables auction",
-    "link": "https://www.bbc.com/news/articles/cp85n416n3vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump threatens to block opening of US-Canada bridge",
+    "link": "https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-10-08-39-42 +0000"
+    "pubdate": "2026-02-10-09-44-26 +0000"
   },
   {
-    "headline": "More solar farms on the way after record renewables auction",
-    "link": "https://www.bbc.com/news/articles/cp85n416n3vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump threatens to block opening of US-Canada bridge",
+    "link": "https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-10-08-39-42 +0000"
+    "pubdate": "2026-02-10-09-44-26 +0000"
   },
   {
-    "headline": "Gilt Yields Fall as U.K. Political Tensions Ease",
-    "link": "https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-a3e7be8a?mod=rss_markets_main",
+    "headline": "Global Markets, U.S. Futures Calm as Investors Take a Breath",
+    "link": "https://www.wsj.com/finance/global-markets-u-s-futures-calm-as-investors-take-a-breath-59217fb1?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-10-08-39-00 +0000"
+    "pubdate": "2026-02-10-09-41-00 +0000"
   },
   {
-    "headline": "Sterling Falls as U.K. Political Concerns Mount",
+    "headline": "Olympians Love Pasta. They’re in the Right Place.",
+    "link": "https://www.nytimes.com/2026/02/09/world/olympics/olympic-games-pasta-italy-athletes.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-09-38-37 +0000"
+  },
+  {
+    "headline": "Olympians Love Pasta. They’re in the Right Place.",
+    "link": "https://www.nytimes.com/2026/02/09/world/olympics/olympic-games-pasta-italy-athletes.html",
+    "source": "nyt",
+    "pubdate": "2026-02-10-09-38-37 +0000"
+  },
+  {
+    "headline": "Euro Remains Strong as Procyclical Currencies Are in Demand",
     "link": "https://www.wsj.com/finance/currencies/yen-broadly-weakens-amid-mild-risk-appetite-e4d20e51?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-10-08-33-00 +0000"
+    "pubdate": "2026-02-10-09-36-00 +0000"
   },
   {
-    "headline": "Nancy Guthrie was supposed to go to pal’s house to watch church service on day she was reported missing: family source",
-    "link": "https://nypost.com/2026/02/10/us-news/nancy-guthrie-was-meant-to-go-to-pals-house-to-watch-church-service-on-day-she-was-reported-missing-source/",
-    "source": "nypost",
-    "pubdate": "2026-02-10-08-32-51 +0000"
+    "headline": "Korean Travel App Aims for 2027 IPO as Tourists Flock to Seoul for Skin Care, K-Pop",
+    "link": "https://www.wsj.com/finance/korean-travel-app-aims-for-2027-ipo-as-tourists-flock-to-seoul-for-skin-care-k-pop-569d790f",
+    "source": "wsj",
+    "pubdate": "2026-02-10-09-35-00 +0000"
   },
   {
-    "headline": "Fiend sobs over missing release of Grand Theft Auto video game while being arrested for murdering ex-girlfriend",
-    "link": "https://nypost.com/2026/02/10/world-news/man-sobs-over-missing-release-of-grand-theft-auto-video-game-while-being-arrested-for-murdering-ex-girlfriend/",
-    "source": "nypost",
-    "pubdate": "2026-02-10-08-18-20 +0000"
+    "headline": "Korean Travel App Aims for 2027 IPO as Tourists Flock to Seoul for Skin Care, K-Pop",
+    "link": "https://www.wsj.com/finance/korean-travel-app-aims-for-2027-ipo-as-tourists-flock-to-seoul-for-skin-care-k-pop-569d790f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-10-09-35-00 +0000"
   },
   {
-    "headline": "Maxwell Refuses to Answer Questions About Epstein Crimes in House Deposition",
-    "link": "https://www.nytimes.com/2026/02/09/us/politics/ghislaine-maxwell-house-jeffrey-epstein-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-02-10-08-17-23 +0000"
-  },
-  {
-    "headline": "Maxwell Refuses to Answer Questions About Epstein Crimes in House Deposition",
-    "link": "https://www.nytimes.com/2026/02/09/us/politics/ghislaine-maxwell-house-jeffrey-epstein-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-02-10-08-17-23 +0000"
-  },
-  {
-    "headline": "Cabinet ministers rally round PM as Sarwar urges him to quit",
-    "link": "https://www.bbc.com/news/articles/c89kwj8kjy9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Australia police defend actions after violence at protest over Israeli president visit",
+    "link": "https://www.bbc.com/news/articles/cn0zed0dekgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-10-08-17-07 +0000"
+    "pubdate": "2026-02-10-09-34-33 +0000"
+  },
+  {
+    "headline": "Ohio dad of two found dead inside CVS trash compactor after worried wife’s cell phone ping",
+    "link": "https://nypost.com/2026/02/10/us-news/ohio-dad-of-two-34-found-dead-inside-cvs-trash-compactor-after-worried-wifes-cell-phone-ping/",
+    "source": "nypost",
+    "pubdate": "2026-02-10-09-30-02 +0000"
+  },
+  {
+    "headline": "Copper Still Above $13,000 With Price Action Contained Ahead of Holiday in China",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-possible-technical-correction-f4befb45?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-10-09-21-00 +0000"
+  },
+  {
+    "headline": "Three things that could bring Starmer down - and what might save him",
+    "link": "https://www.bbc.com/news/articles/cr7j7n0nxvlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-10-09-20-47 +0000"
   }
 ]
