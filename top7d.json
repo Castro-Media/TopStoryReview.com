@@ -1,31 +1,38 @@
 [
   {
-    "score": 279,
-    "pubdate": "2026-02-09-02-55-54 +0000",
+    "score": 287,
+    "pubdate": "2026-02-07-03-07-00 +0000",
+    "source": "wsj",
+    "headline": "A federal judge has ordered the Trump administration to temporarily unfreeze funding for a $16 billion rail tunnel under the Hudson River connecting New York and New Jersey",
+    "link": "https://www.wsj.com/politics/policy/judge-blocks-trump-administration-from-freezing-hudson-tunnel-funding-for-now-3786ca18"
+  },
+  {
+    "score": 208,
+    "pubdate": "2026-02-10-00-44-27 +0000",
     "source": "nypost",
-    "headline": "Trump slams Bad Bunny’s Super Bowl halftime show: ‘An affront to the Greatness of America’",
-    "link": "https://nypost.com/2026/02/08/us-news/trump-slams-bad-bunnys-super-bowl-halftime-show/"
+    "headline": "Epstein victims use Super Bowl commercial to pressure Pam Bondi to release withheld files",
+    "link": "https://nypost.com/2026/02/09/us-news/epstein-victims-use-super-bowl-commercial-to-pressure-pam-bondi-to-release-withheld-files/"
   },
   {
-    "score": 186,
-    "pubdate": "2026-02-04-19-10-44 +0000",
+    "score": 131,
+    "pubdate": "2026-02-06-11-00-00 +0000",
     "source": "latimes",
-    "headline": "Supreme Court, with no dissents, rejects GOP challenge to California's new election map",
-    "link": "https://www.latimes.com/politics/story/2026-02-04/supreme-court-rejects-gop-challenge-to-californias-new-election-map"
+    "headline": "One of California's first labor fights over AI is playing out at Kaiser",
+    "link": "https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm"
   },
   {
-    "score": 169,
-    "pubdate": "2026-02-05-00-56-40 +0000",
-    "source": "latimes",
-    "headline": "L.A. Olympics head Casey Wasserman withstood a previous scandal. Will he survive the Epstein files?",
-    "link": "https://www.latimes.com/california/story/2026-02-04/will-la-olympics-head-casey-wasserman-survive-epstein-files-scandal"
-  },
-  {
-    "score": 127,
+    "score": 131,
     "pubdate": "2026-02-09-02-29-00 +0000",
     "source": "wsj",
     "headline": "Hong Kong’s Jimmy Lai Given 20-Year Sentence, Adding Friction to U.S.-China Ties",
-    "link": "https://www.wsj.com/world/china/hong-kongs-jimmy-lai-given-20-year-sentence-adding-friction-to-u-s-china-ties-614c90df?mod=rss_markets_main"
+    "link": "https://www.wsj.com/world/china/hong-kongs-jimmy-lai-given-20-year-sentence-adding-friction-to-u-s-china-ties-614c90df"
+  },
+  {
+    "score": 128,
+    "pubdate": "2026-02-09-18-55-22 +0000",
+    "source": "nyt",
+    "headline": "Japan Stocks Surge on Takaichi’s Landslide Election Win",
+    "link": "https://www.nytimes.com/2026/02/08/business/japan-stocks-sanae-takaichi.html"
   },
   {
     "score": 117,
@@ -35,38 +42,31 @@
     "link": "https://nypost.com/2026/02/08/world-news/iran-sentences-nobel-peace-prize-winner-narges-mohammadi-to-seven-more-years-in-prison/"
   },
   {
-    "score": 102,
-    "pubdate": "2026-02-09-21-53-50 +0000",
-    "source": "nyt",
-    "headline": "Air Canada Cancels Flights to Cuba as Cuba Runs Out of Jet Fuel",
-    "link": "https://www.nytimes.com/2026/02/09/world/americas/air-canada-flight-cancellations-cuba-jet-fuel.html"
+    "score": 107,
+    "pubdate": "2026-02-09-16-00-19 +0000",
+    "source": "cbc",
+    "headline": "Air Canada, WestJet winding down flights to Cuba as Havana airport warns it will run out of jet fuel",
+    "link": "https://www.cbc.ca/news/canada/travel-to-cuba-fuel-shortage-9.7080648?cmp=rss"
   },
   {
-    "score": 100,
-    "pubdate": "2026-02-09-22-14-00 +0000",
+    "score": 99,
+    "pubdate": "2026-02-07-01-00-00 +0000",
     "source": "wsj",
-    "headline": "The White House is at loggerheads with Congress over one of President Trump’s signature housing proposals, a ban on Wall Street investors buying single-family homes",
-    "link": "https://www.wsj.com/politics/policy/proposed-ban-on-investors-in-the-housing-market-hits-a-wall-in-congress-6be38cb7"
+    "headline": "President Trump chose a Federal Reserve chair he thinks he can count on to lower interest rates. History suggests three different ways presidents have come to regret that bet.",
+    "link": "https://www.wsj.com/economy/central-banking/these-presidents-found-out-how-trying-to-control-the-fed-chair-can-backfire-2142c6e6"
   },
   {
-    "score": 97,
-    "pubdate": "2026-02-09-22-08-06 +0000",
-    "source": "nyt",
-    "headline": "How Ilia Malinin and Team U.S.A. Held Off Japan to Win Gold Medal",
-    "link": "https://www.nytimes.com/2026/02/08/world/how-the-american-skaters-held-off-japan-to-win-team-gold.html"
+    "score": 96,
+    "pubdate": "2026-02-07-00-00-14 +0000",
+    "source": "bbc",
+    "headline": "Could Bad Bunny set off political fireworks at the Super Bowl half-time show?",
+    "link": "https://www.bbc.com/news/articles/cd0y18g8g7ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 92,
-    "pubdate": "2026-02-09-22-42-45 +0000",
-    "source": "nyt",
-    "headline": "Keir Starmer’s Allies Rally Around Him Amid Pressure to Resign as Britain’s Prime Minister",
-    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson"
-  },
-  {
-    "score": 86,
-    "pubdate": "2026-02-09-20-54-32 +0000",
-    "source": "nypost",
-    "headline": "Savannah Guthrie posts new video begging public for help in finding missing mom Nancy as ransom deadline nears",
-    "link": "https://nypost.com/2026/02/09/us-news/savannah-guthrie-posts-new-video-begging-public-for-help-in-finding-missing-mom-nancy-as-ransom-deadline-nears/"
+    "score": 91,
+    "pubdate": "2026-02-07-23-59-43 +0000",
+    "source": "bbc",
+    "headline": "ICE protester says she was 'disgusted' after fake arrest image shared by White House",
+    "link": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss"
   }
 ]
