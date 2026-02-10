@@ -1,72 +1,72 @@
 [
   {
-    "score": 116,
+    "score": 113,
     "pubdate": "2026-02-10-01-54-00 +0000",
     "source": "wsj",
     "headline": "Trump Threatens to Block Opening of New Bridge Between Detroit and Canada",
     "link": "https://www.wsj.com/world/americas/trump-threatens-to-block-opening-of-new-bridge-between-detroit-and-canada-e80d64ac"
   },
   {
-    "score": 92,
-    "pubdate": "2026-02-10-00-44-27 +0000",
-    "source": "nypost",
-    "headline": "Epstein victims use Super Bowl commercial to pressure Pam Bondi to release withheld files",
-    "link": "https://nypost.com/2026/02/09/us-news/epstein-victims-use-super-bowl-commercial-to-pressure-pam-bondi-to-release-withheld-files/"
-  },
-  {
-    "score": 60,
+    "score": 89,
     "pubdate": "2026-02-10-00-16-00 +0000",
     "source": "wsj",
     "headline": "Ghislaine Maxwell, the longtime associate of Jeffrey Epstein, declined to answer questions from Congress, invoking her right against self incrimination",
     "link": "https://www.wsj.com/us-news/ghislaine-maxwell-takes-the-fifth-in-congressional-hearing-611f856e"
   },
   {
-    "score": 58,
+    "score": 75,
+    "pubdate": "2026-02-10-08-32-51 +0000",
+    "source": "nypost",
+    "headline": "Nancy Guthrie was supposed to go to pal’s house to watch church service on day she was reported missing: family source",
+    "link": "https://nypost.com/2026/02/10/us-news/nancy-guthrie-was-meant-to-go-to-pals-house-to-watch-church-service-on-day-she-was-reported-missing-source/"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-02-09-15-34-43 +0000",
+    "source": "nyt",
+    "headline": "The Wedding During Bad Bunny’s Super Bowl Halftime Show Was Real",
+    "link": "https://www.nytimes.com/2026/02/09/us/super-bowl-wedding-real-halftime-show.html"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-02-09-16-00-19 +0000",
     "source": "cbc",
     "headline": "Canada's major airlines wind down flights to Cuba as Havana airport warns it will run out of jet fuel",
     "link": "https://www.cbc.ca/news/canada/travel-to-cuba-fuel-shortage-9.7080648?cmp=rss"
   },
   {
-    "score": 57,
-    "pubdate": "2026-02-09-23-02-34 +0000",
-    "source": "bbc",
-    "headline": "Japan has given Takaichi a landslide win - but can she bring back the economy?",
-    "link": "https://www.bbc.com/news/articles/cddn7qed35eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-02-10-01-25-01 +0000",
-    "source": "bbc",
-    "headline": "Savannah Guthrie pleads for help finding missing mother as purported ransom deadline passes",
-    "link": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-02-10-01-13-00 +0000",
-    "source": "wsj",
-    "headline": "The White House is at loggerheads with Congress over one of President Trump’s signature housing proposals, a ban on Wall Street investors buying single-family homes",
-    "link": "https://www.wsj.com/politics/policy/proposed-ban-on-investors-in-the-housing-market-hits-a-wall-in-congress-6be38cb7"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-02-09-23-47-16 +0000",
-    "source": "latimes",
-    "headline": "San Francisco teachers go on strike, closing schools for nearly 50,000 students",
-    "link": "https://www.latimes.com/california/story/2026-02-09/san-francisco-teachers-strike"
+    "score": 52,
+    "pubdate": "2026-02-09-18-55-22 +0000",
+    "source": "nyt",
+    "headline": "Japan Stocks Surge on Takaichi’s Landslide Election Win",
+    "link": "https://www.nytimes.com/2026/02/08/business/japan-stocks-sanae-takaichi.html"
   },
   {
     "score": 47,
-    "pubdate": "2026-02-10-03-56-57 +0000",
-    "source": "nyt",
-    "headline": "Keir Starmer’s Allies Rally Around Him Amid Pressure to Resign as Britain’s Prime Minister",
-    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson"
-  },
-  {
-    "score": 46,
     "pubdate": "2026-02-09-11-00-00 +0000",
     "source": "latimes",
     "headline": "California reserved $165 million for Tesla to electrify its trucking industry. The result may stifle EV innovation",
     "link": "https://www.latimes.com/environment/story/2026-02-09/tesla-semi-california-truck-funding"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-02-09-12-26-10 +0000",
+    "source": "bbc",
+    "headline": "Chris Mason: Starmer's predicament is dire and now he faces future without top aides",
+    "link": "https://www.bbc.com/news/articles/ce3g8e7n07jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-02-10-06-09-44 +0000",
+    "source": "nypost",
+    "headline": "DOJ removes redactions from some Epstein files in response to Massie, Khanna’s complaints co-conspirators’ names were hidden",
+    "link": "https://nypost.com/2026/02/10/us-news/doj-removes-redactions-from-some-epstein-files/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-02-09-19-26-26 +0000",
+    "source": "nyt",
+    "headline": "Iranian Nobel Laureate Gets Second Prison Sentence and Ends Hunger Strike",
+    "link": "https://www.nytimes.com/2026/02/08/world/middleeast/iran-narges-mohammadi-second-sentence.html"
   }
 ]
