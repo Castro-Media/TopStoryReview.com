@@ -1,42 +1,42 @@
 [
   {
-    "score": 128,
+    "score": 125,
     "pubdate": "2026-02-09-13-23-19 +0000",
     "source": "nyt",
     "headline": "Trump Criticizes Bad Bunny’s Super Bowl Halftime Show",
     "link": "https://www.nytimes.com/2026/02/09/us/trump-bad-bunny-super-bowl-halftime-show.html"
   },
   {
-    "score": 88,
+    "score": 89,
     "pubdate": "2026-02-10-00-16-00 +0000",
     "source": "wsj",
     "headline": "Ghislaine Maxwell, the longtime associate of Jeffrey Epstein, declined to answer questions from Congress, invoking her right against self incrimination",
     "link": "https://www.wsj.com/us-news/ghislaine-maxwell-takes-the-fifth-in-congressional-hearing-611f856e"
   },
   {
-    "score": 71,
+    "score": 73,
+    "pubdate": "2026-02-10-01-54-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Threatens to Block Opening of New Bridge Between Detroit and Canada",
+    "link": "https://www.wsj.com/world/americas/trump-threatens-to-block-opening-of-new-bridge-between-detroit-and-canada-e80d64ac"
+  },
+  {
+    "score": 66,
     "pubdate": "2026-02-09-18-55-22 +0000",
     "source": "nyt",
     "headline": "Japan Stocks Surge on Takaichi’s Landslide Election Win",
     "link": "https://www.nytimes.com/2026/02/08/business/japan-stocks-sanae-takaichi.html"
   },
   {
-    "score": 70,
+    "score": 59,
     "pubdate": "2026-02-09-16-00-19 +0000",
     "source": "cbc",
     "headline": "Canada's major airlines wind down flights to Cuba as Havana airport warns it will run out of jet fuel",
     "link": "https://www.cbc.ca/news/canada/travel-to-cuba-fuel-shortage-9.7080648?cmp=rss"
   },
   {
-    "score": 57,
-    "pubdate": "2026-02-09-23-15-50 +0000",
-    "source": "cbc",
-    "headline": "Trump threatens to block opening of new bridge between Windsor and Detroit",
-    "link": "https://www.cbc.ca/news/canada/trump-gordie-howe-bridge-9.7081924?cmp=rss"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-02-09-22-42-45 +0000",
+    "score": 50,
+    "pubdate": "2026-02-10-03-56-57 +0000",
     "source": "nyt",
     "headline": "Keir Starmer’s Allies Rally Around Him Amid Pressure to Resign as Britain’s Prime Minister",
     "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson"
@@ -50,23 +50,23 @@
   },
   {
     "score": 47,
+    "pubdate": "2026-02-09-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "California reserved $165 million for Tesla to electrify its trucking industry. The result may stifle EV innovation",
+    "link": "https://www.latimes.com/environment/story/2026-02-09/tesla-semi-california-truck-funding"
+  },
+  {
+    "score": 47,
     "pubdate": "2026-02-10-01-25-01 +0000",
     "source": "bbc",
     "headline": "'We are at an hour of desperation' - Savannah Guthrie pleads for help for missing mother",
     "link": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2026-02-10-02-43-15 +0000",
     "source": "nypost",
     "headline": "US military strikes alleged drug boat in the Eastern Pacific, leaving 2 dead and 1 survivor",
     "link": "https://nypost.com/2026/02/09/us-news/us-military-strikes-alleged-drug-boat-in-the-eastern-pacific-leaving-2-dead-and-1-survivor/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-02-09-11-00-00 +0000",
-    "source": "latimes",
-    "headline": "California reserved $165 million for Tesla to electrify its trucking industry. The result may stifle EV innovation",
-    "link": "https://www.latimes.com/environment/story/2026-02-09/tesla-semi-california-truck-funding"
   }
 ]
