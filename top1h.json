@@ -1,30 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-02-10-11-10-14 +0000",
+    "score": 20,
+    "pubdate": "2026-02-10-13-00-00 +0000",
+    "source": "latimes",
+    "headline": "Liberal Sen. Bernie Sanders to kick off California billionaires' tax campaign",
+    "link": "https://www.latimes.com/california/story/2026-02-10/sen-bernie-sanders-california-billionaires-tax-campaign"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-10-12-54-39 +0000",
     "source": "nyt",
-    "headline": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
-    "link": "https://www.nytimes.com/2026/02/10/world/europe/olympics-italy-police-army-athletes.html"
+    "headline": "A Shift in Chinese Taste for Durian Throws Malaysian Farmers Into Turmoil",
+    "link": "https://www.nytimes.com/2026/02/10/world/asia/durian-malaysia-china-demand.html"
   },
   {
     "score": 14,
-    "pubdate": "2026-02-10-11-07-26 +0000",
-    "source": "bbc",
-    "headline": "BP steps up cost cutting as profits slide",
-    "link": "https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-10-11-10-14 +0000",
+    "pubdate": "2026-02-10-13-03-45 +0000",
     "source": "nyt",
-    "headline": "How Italy’s Police and Army Compete to Enlist Italian Olympians",
-    "link": "https://www.nytimes.com/2026/02/10/world/europe/olympics-italy-police-army-athletes.html"
+    "headline": "How the Israeli President’s Visit to Australia Created a ‘Tinder Box’",
+    "link": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-02-10-11-07-26 +0000",
+    "score": 14,
+    "pubdate": "2026-02-10-13-01-37 +0000",
+    "source": "nypost",
+    "headline": "Ex-FBI agent describes what ‘really took my breath away’ about Nancy Guthrie crime scene",
+    "link": "https://nypost.com/2026/02/10/us-news/nancy-guthrie-crime-scene-took-my-breath-away-ex-fbi-agent/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-10-12-47-42 +0000",
+    "source": "nyt",
+    "headline": "An Olympian Quest in Milan: Glimpsing a K-Pop Superstar",
+    "link": "https://www.nytimes.com/2026/02/10/world/europe/sunghoon-milan-winter-olympics.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-10-12-38-00 +0000",
+    "source": "wsj",
+    "headline": "Oscar Health Revenue Rises, Eyes Profitability This Year",
+    "link": "https://www.wsj.com/health/healthcare/oscar-health-4q-revenue-rises-eyes-profitability-this-year-6c1eb5ef?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-10-13-00-00 +0000",
+    "source": "latimes",
+    "headline": "He worked for and romanced Arcadia councilwoman, and he was a covert agent for China",
+    "link": "https://www.latimes.com/california/story/2026-02-10/sentence-chinese-spy-helped-elect-council-member"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-10-13-00-35 +0000",
+    "source": "wapo",
+    "headline": "These hockey players in their 80s are still on the ice: ‘I never quit’",
+    "link": "https://www.washingtonpost.com/lifestyle/2026/02/10/hockey-players-age-80-hall-fame/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-10-12-35-21 +0000",
     "source": "bbc",
-    "headline": "BP steps up cost cutting as profits slide",
-    "link": "https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss"
+    "headline": "Uni distances itself after society bans Reform for 'racism, transphobia and homophobia'",
+    "link": "https://www.bbc.com/news/articles/c0q3zg37d78o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-10-12-31-29 +0000",
+    "source": "startribune",
+    "headline": "Live: Follow Minnesota’s Olympians in action today at the Milan Cortina Games",
+    "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094"
   }
 ]
