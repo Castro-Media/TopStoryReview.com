@@ -1,24 +1,17 @@
 [
   {
-    "score": 125,
-    "pubdate": "2026-02-09-13-23-19 +0000",
-    "source": "nyt",
-    "headline": "Trump Criticizes Bad Bunny’s Super Bowl Halftime Show",
-    "link": "https://www.nytimes.com/2026/02/09/us/trump-bad-bunny-super-bowl-halftime-show.html"
-  },
-  {
-    "score": 89,
-    "pubdate": "2026-02-10-00-16-00 +0000",
-    "source": "wsj",
-    "headline": "Ghislaine Maxwell, the longtime associate of Jeffrey Epstein, declined to answer questions from Congress, invoking her right against self incrimination",
-    "link": "https://www.wsj.com/us-news/ghislaine-maxwell-takes-the-fifth-in-congressional-hearing-611f856e"
-  },
-  {
-    "score": 73,
+    "score": 115,
     "pubdate": "2026-02-10-01-54-00 +0000",
     "source": "wsj",
     "headline": "Trump Threatens to Block Opening of New Bridge Between Detroit and Canada",
     "link": "https://www.wsj.com/world/americas/trump-threatens-to-block-opening-of-new-bridge-between-detroit-and-canada-e80d64ac"
+  },
+  {
+    "score": 91,
+    "pubdate": "2026-02-10-00-44-27 +0000",
+    "source": "nypost",
+    "headline": "Epstein victims use Super Bowl commercial to pressure Pam Bondi to release withheld files",
+    "link": "https://nypost.com/2026/02/09/us-news/epstein-victims-use-super-bowl-commercial-to-pressure-pam-bondi-to-release-withheld-files/"
   },
   {
     "score": 66,
@@ -28,18 +21,18 @@
     "link": "https://www.nytimes.com/2026/02/08/business/japan-stocks-sanae-takaichi.html"
   },
   {
+    "score": 62,
+    "pubdate": "2026-02-10-00-16-00 +0000",
+    "source": "wsj",
+    "headline": "Ghislaine Maxwell, the longtime associate of Jeffrey Epstein, declined to answer questions from Congress, invoking her right against self incrimination",
+    "link": "https://www.wsj.com/us-news/ghislaine-maxwell-takes-the-fifth-in-congressional-hearing-611f856e"
+  },
+  {
     "score": 59,
     "pubdate": "2026-02-09-16-00-19 +0000",
     "source": "cbc",
     "headline": "Canada's major airlines wind down flights to Cuba as Havana airport warns it will run out of jet fuel",
     "link": "https://www.cbc.ca/news/canada/travel-to-cuba-fuel-shortage-9.7080648?cmp=rss"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-02-10-03-56-57 +0000",
-    "source": "nyt",
-    "headline": "Keir Starmer’s Allies Rally Around Him Amid Pressure to Resign as Britain’s Prime Minister",
-    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson"
   },
   {
     "score": 49,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "US military strikes alleged drug boat in the Eastern Pacific, leaving 2 dead and 1 survivor",
     "link": "https://nypost.com/2026/02/09/us-news/us-military-strikes-alleged-drug-boat-in-the-eastern-pacific-leaving-2-dead-and-1-survivor/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-02-10-01-32-56 +0000",
+    "source": "nypost",
+    "headline": "Bad Bunny’s halftime show turns LA taco spot into overnight sensation",
+    "link": "https://nypost.com/2026/02/09/us-news/bad-bunny-puts-worldwide-spotlight-on-villas-taco-stand-and-owner-victor-villa/"
   }
 ]
