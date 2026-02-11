@@ -1,16 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-02-11-14-13-07 +0000",
-    "source": "startribune",
-    "headline": "FAA lifts temporary closure of airspace over El Paso, Texas, saying all flights to resume",
-    "link": "https://www.startribune.com/faa-closes-airspace-around-el-paso-texas-for-10-days-grounding-all-flights/601580344"
+    "score": 44,
+    "pubdate": "2026-02-11-15-19-00 +0000",
+    "source": "wsj",
+    "headline": "House lawmakers rejected an attempt by Speaker Mike Johnson to block votes on resolutions disapproving of President Trump’s tariffs—paving the way for lawmakers to rebuke Trump’s signature economic policy",
+    "link": "https://www.wsj.com/politics/policy/house-rejects-speaker-johnsons-effort-to-block-tariff-votes-f2669cca"
   },
   {
-    "score": 6,
-    "pubdate": "2026-02-11-14-13-00 +0000",
+    "score": 32,
+    "pubdate": "2026-02-11-16-02-54 +0000",
+    "source": "nyt",
+    "headline": "Canada Mass Shooting: What to Know About the Home and School Shootings in Tumbler Ridge, B.C.",
+    "link": "https://www.nytimes.com/2026/02/11/world/americas/canada-tumbler-ridge-shooting.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-02-11-16-12-57 +0000",
+    "source": "nypost",
+    "headline": "LA tax hike that will raise price of groceries greenlit for ballot — as sole Republican votes against it",
+    "link": "https://nypost.com/2026/02/11/us-news/la-sales-tax-hike-approved-will-go-to-voters-in-june/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-02-11-16-01-00 +0000",
     "source": "wsj",
-    "headline": "The U.S. added 130,000 jobs in January, surging past expectations",
-    "link": "https://www.wsj.com/economy/jobs/january-jobs-report-unemployment-b703b0e3"
+    "headline": "FAA Briefly Closed El Paso Airspace After Mexican Cartel Drone Breach",
+    "link": "https://www.wsj.com/us-news/faa-halts-el-paso-flights-for-unspecified-security-reasons-163e0966?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-11-15-16-07 +0000",
+    "source": "nyt",
+    "headline": "Easing Unemployment Supports Fed Extending Pause on Rate Cuts",
+    "link": "https://www.nytimes.com/2026/02/11/business/economy/fed-jobs-rates.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-11-15-51-21 +0000",
+    "source": "nyt",
+    "headline": "Prosecutors Fail to Bring Charges Against Democrats Involved in Illegal Orders Video",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/trump-democrats-illegal-orders-pirro.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-11-15-34-00 +0000",
+    "source": "wsj",
+    "headline": "Activist Investor Pushes Warner to Walk Away From Netflix Deal",
+    "link": "https://www.wsj.com/business/deals/activist-investor-pushes-warner-to-walk-away-from-netflix-deal-0bbe663e?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-11-15-24-30 +0000",
+    "source": "nyt",
+    "headline": "Job Growth Was Overstated, New Data Shows",
+    "link": "https://www.nytimes.com/2026/02/11/business/economy/january-jobs-report-revisions.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-11-15-34-22 +0000",
+    "source": "bbc",
+    "headline": "Powerful cyclone kills at least 20 as it tears through Madagascar port",
+    "link": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-11-16-03-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Crude Oil Stockpiles Post Large Weekly Build",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-large-weekly-build-00d47bed?mod=pls_whats_news_us_business_f"
   }
 ]
