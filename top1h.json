@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-02-10-23-04-39 +0000",
+    "score": 19,
+    "pubdate": "2026-02-11-00-25-19 +0000",
+    "source": "startribune",
+    "headline": "Former federal prosecutor Joe Thompson joins Don Lemon’s defense team in church protest case",
+    "link": "https://www.startribune.com/don-lemon-ice-minnesota-joe-thompson/601580067"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-11-00-35-00 +0000",
+    "source": "wsj",
+    "headline": "Treasury Allows U.S. Companies to Provide Supplies to Venezuela for Oil Production",
+    "link": "https://www.wsj.com/business/energy-oil/treasury-allows-u-s-companies-to-provide-supplies-to-venezuela-for-oil-production-acb987d6?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-11-00-24-46 +0000",
+    "source": "nypost",
+    "headline": "San Fran medical examiner trashes human skull, then fires worker who caught him, lawsuit claims",
+    "link": "https://nypost.com/2026/02/10/us-news/san-francisco-medical-examiner-trashes-human-skull-lawsuit/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-11-00-34-00 +0000",
+    "source": "wsj",
+    "headline": "Asian Currencies Consolidate Ahead of U.S. Nonfarm Payrolls Report",
+    "link": "https://www.wsj.com/finance/currencies/usd-jpy-attempting-to-hold-above-153-90-154-34-range-8c2f2b05"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-11-01-09-04 +0000",
+    "source": "nypost",
+    "headline": "Annie Guthrie’s street sees increased police presence as search for missing mom Nancy escalates",
+    "link": "https://nypost.com/2026/02/10/us-news/annie-guthries-street-sees-increased-police-presence-as-search-for-missing-mom-nancy-escalates/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-11-00-42-49 +0000",
+    "source": "nypost",
+    "headline": "NYS man headed to prison for trying to hire hog farmer to kill love rival, feed him to pigs",
+    "link": "https://nypost.com/2026/02/10/us-news/nys-man-headed-to-prison-for-trying-to-hire-hog-farmer-to-kill-love-rival-feed-him-to-pigs/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-11-00-46-57 +0000",
+    "source": "missionlocal",
+    "headline": "S.F. city attorney warns: Mayor Lurie’s new ‘sobering center’ is legally risky",
+    "link": "https://missionlocal.org/2026/02/sf-sobering-center-daniel-lurie-city-attorney/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-11-00-40-00 +0000",
+    "source": "wsj",
+    "headline": "AIG Logs Lower Fourth-Quarter Profit as Net Investment Income Slides",
+    "link": "https://www.wsj.com/business/earnings/aig-logs-lower-profit-as-net-investment-income-slides-acddeb13?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-11-01-08-45 +0000",
     "source": "nyt",
-    "headline": "Russia Further Restricts Telegram, Escalating Internet Clampdown",
-    "link": "https://www.nytimes.com/2026/02/10/world/europe/telegram-throttled-internet-russia.html"
+    "headline": "‘No Reason He Should Have Died’: Alex Pretti’s Parents Open Up",
+    "link": "https://www.nytimes.com/2026/02/10/us/alex-pretti-parents-interview.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-11-00-29-03 +0000",
+    "source": "wapo",
+    "headline": "Trump mulls second aircraft carrier off Iran, as Netanyahu flies to D.C. for talks",
+    "link": "https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/"
   }
 ]
