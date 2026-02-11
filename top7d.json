@@ -43,20 +43,20 @@
   },
   {
     "score": 96,
-    "pubdate": "2026-02-09-18-55-22 +0000",
-    "source": "nyt",
-    "headline": "Japan Stocks Surge on Takaichi’s Landslide Election Win",
-    "link": "https://www.nytimes.com/2026/02/08/business/japan-stocks-sanae-takaichi.html"
-  },
-  {
-    "score": 96,
     "pubdate": "2026-02-08-12-00-00 +0000",
     "source": "wsj",
     "headline": "The Trump economy in 2025 was a roller coaster, yet one thing remained constant: Americans are focused on prices. Here’s what a sampling of people across the spectrum have to say.",
     "link": "https://www.wsj.com/economy/consumers/americans-rate-trump-economy-21b85459"
   },
   {
-    "score": 88,
+    "score": 96,
+    "pubdate": "2026-02-09-18-55-22 +0000",
+    "source": "nyt",
+    "headline": "Japan Stocks Surge on Takaichi’s Landslide Election Win",
+    "link": "https://www.nytimes.com/2026/02/08/business/japan-stocks-sanae-takaichi.html"
+  },
+  {
+    "score": 87,
     "pubdate": "2026-02-05-13-00-00 +0000",
     "source": "latimes",
     "headline": "Lopez: How do you stand up to lies and brutality? Maybe you blow a whistle, for starters",
