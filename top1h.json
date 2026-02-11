@@ -1,62 +1,20 @@
 [
   {
-    "score": 31,
+    "score": 26,
     "pubdate": "2026-02-11-19-09-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon has told a second aircraft carrier strike group to prepare to deploy to the Middle East as the U.S. military prepares for a potential attack on Iran, according to three U.S. officials",
     "link": "https://www.wsj.com/politics/national-security/pentagon-prepares-second-aircraft-carrier-to-deploy-to-the-middle-east-e7140a64"
   },
   {
-    "score": 31,
-    "pubdate": "2026-02-11-18-39-23 +0000",
-    "source": "bbc",
-    "headline": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
-    "link": "https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-02-11-18-46-00 +0000",
-    "source": "wsj",
-    "headline": "Pentagon’s Use of High-Energy Laser Led FAA to Halt Flights Over El Paso",
-    "link": "https://www.wsj.com/us-news/faa-halts-el-paso-flights-for-unspecified-security-reasons-163e0966?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-02-11-18-55-53 +0000",
-    "source": "nyt",
-    "headline": "Hong Kong Activist Anna Kwok’s Father Convicted of National Security Crime",
-    "link": "https://www.nytimes.com/2026/02/10/world/asia/hong-kong-anna-kwok-father.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-02-11-18-40-18 +0000",
-    "source": "nypost",
-    "headline": "Netanyahu meeting with Trump at White House to discuss Iran, Gaza peace process",
-    "link": "https://nypost.com/2026/02/11/us-news/netanyahu-meeting-with-trump-at-white-house-to-discuss-iran-gaza-peace-process/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-02-11-18-42-23 +0000",
-    "source": "nypost",
-    "headline": "Ex-Jets first rounder Darron Lee could face death penalty as grisly new details revealed about girlfriend’s murder",
-    "link": "https://nypost.com/2026/02/11/sports/ex-jets-first-rounder-could-face-death-penalty-grisly-new-details-revealed-about-girlfriends-murder/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-02-11-19-05-00 +0000",
-    "source": "wsj",
-    "headline": "At a congressional hearing, Attorney General Pam Bondi declined to apologize directly to a group of Jeffrey Epstein’s victims who were seated behind her",
-    "link": "https://www.wsj.com/politics/policy/bondi-defends-epstein-files-release-in-combative-hearing-aefa328d"
-  },
-  {
-    "score": 20,
+    "score": 16,
     "pubdate": "2026-02-11-19-09-00 +0000",
     "source": "wsj",
     "headline": "Investigators Search Home, Question Man in Guthrie Disappearance",
     "link": "https://www.wsj.com/us-news/images-of-masked-person-released-in-nancy-guthrie-investigation-24d0d8d3"
   },
   {
-    "score": 17,
+    "score": 16,
     "pubdate": "2026-02-11-19-07-34 +0000",
     "source": "nyt",
     "headline": "Ray Mouton Dies at 78; Lawyer Warned of Pedophilia in the Catholic Church",
@@ -64,9 +22,51 @@
   },
   {
     "score": 16,
-    "pubdate": "2026-02-11-18-48-49 +0000",
+    "pubdate": "2026-02-11-19-05-00 +0000",
+    "source": "wsj",
+    "headline": "At a congressional hearing, Attorney General Pam Bondi declined to apologize directly to a group of Jeffrey Epstein’s victims who were seated behind her",
+    "link": "https://www.wsj.com/politics/policy/bondi-defends-epstein-files-release-in-combative-hearing-aefa328d"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-11-19-03-55 +0000",
+    "source": "nyt",
+    "headline": "Job Growth Was Overstated, New Data Shows",
+    "link": "https://www.nytimes.com/2026/02/11/business/economy/january-jobs-report-revisions.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-11-19-06-26 +0000",
+    "source": "nypost",
+    "headline": "LA mayoral hopeful Nithya Raman to greenlight $6.6M contract for anti-cop, anti-olympics group SAJE",
+    "link": "https://nypost.com/2026/02/11/us-news/la-mayor-candidate-nithya-raman-to-vote-for-6-6m-contract-for-saje/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-11-19-06-00 +0000",
+    "source": "wsj",
+    "headline": "Trump-Led Trade Deal Review Poses ‘Important Risk’ to Outlook, Bank of Canada Minutes Say",
+    "link": "https://www.wsj.com/economy/central-banking/trump-led-trade-deal-review-poses-important-risk-to-outlook-bank-of-canada-minutes-say-5a29ea18"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-11-19-12-28 +0000",
     "source": "bbc",
-    "headline": "Powerful cyclone kills at least 31 as it tears through Madagascar port",
-    "link": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss"
+    "headline": "US reopens airspace over Texas border town after 'cartel drone incursion'",
+    "link": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-11-19-12-29 +0000",
+    "source": "nyt",
+    "headline": "New Kraft Heinz CEO Says Food Company Won’t Split, for Now",
+    "link": "https://www.nytimes.com/2026/02/11/business/kraft-heinz-sales-prices-cahillane.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-11-19-04-33 +0000",
+    "source": "nyt",
+    "headline": "In the Sci-Fi World of ‘Arco’, It’s About ‘Respecting Kids’ Intelligence’",
+    "link": "https://www.nytimes.com/2026/02/11/arts/arco-film-ugo-bienvenu.html"
   }
 ]
