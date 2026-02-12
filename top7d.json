@@ -1,45 +1,38 @@
 [
   {
-    "score": 355,
+    "score": 346,
     "pubdate": "2026-02-11-15-19-00 +0000",
     "source": "wsj",
     "headline": "House lawmakers rejected an attempt by Speaker Mike Johnson to block votes on resolutions disapproving of President Trump’s tariffs—paving the way for lawmakers to rebuke Trump’s signature economic policy",
     "link": "https://www.wsj.com/politics/policy/house-rejects-speaker-johnsons-effort-to-block-tariff-votes-f2669cca"
   },
   {
-    "score": 190,
+    "score": 195,
     "pubdate": "2026-02-12-12-06-00 +0000",
     "source": "wsj",
     "headline": "California Gov. Gavin Newsom is on the road again, to the Munich Security Conference. Will he troll President Trump there—as he did at Davos? Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/gavin-newsom-the-traveling-trump-troll-heads-to-germany-7539406d"
   },
   {
-    "score": 185,
+    "score": 189,
+    "pubdate": "2026-02-12-14-38-32 +0000",
+    "source": "nypost",
+    "headline": "Woman seen in photo under disgraced ex-Prince Andrew was Jeffrey Epstein sex trafficking victim, lawmaker says during hearing",
+    "link": "https://nypost.com/2026/02/12/us-news/woman-in-ex-prince-andrew-photo-was-jeffrey-epstein-sex-trafficking-victim/"
+  },
+  {
+    "score": 169,
     "pubdate": "2026-02-11-17-27-07 +0000",
     "source": "nypost",
     "headline": "Ex-Google CEO Eric Schmidt spent New Year’s with 27-year-old model — pair have traveled across the globe: report",
     "link": "https://nypost.com/2026/02/11/business/ex-google-ceo-eric-schmidt-spends-2026-with-gloria-sophie-burkandt/"
   },
   {
-    "score": 140,
-    "pubdate": "2026-02-11-21-42-00 +0000",
+    "score": 130,
+    "pubdate": "2026-02-12-01-32-00 +0000",
     "source": "wsj",
-    "headline": "At a congressional hearing, Attorney General Pam Bondi declined to apologize directly to a group of Jeffrey Epstein’s victims who were seated behind her",
-    "link": "https://www.wsj.com/politics/policy/pam-bondi-congressional-hearing-epstein-aefa328d"
-  },
-  {
-    "score": 132,
-    "pubdate": "2026-02-11-09-03-03 +0000",
-    "source": "nypost",
-    "headline": "‘Gunperson’ in a ‘dress’ behind Canada’s deadliest school shooting in decades, horrified Tumbler Ridge students reveal",
-    "link": "https://nypost.com/2026/02/11/world-news/tumbler-ridge-students-barricaded-themselves-in-classrooms-for-2-hours-as-suspect-launched-canadas-deadliest-mass-school-shooting-in-40-years/"
-  },
-  {
-    "score": 132,
-    "pubdate": "2026-02-12-02-48-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon’s use of a high-energy laser to counter what officials thought was a drug-cartel drone led the FAA to temporarily shut down all flights over El Paso, Texas",
-    "link": "https://www.wsj.com/us-news/faa-halts-el-paso-flights-for-unspecified-security-reasons-163e0966"
+    "headline": "The Pentagon has told a second aircraft carrier strike group to prepare to deploy to the Middle East as the U.S. military prepares for a potential attack on Iran, according to three U.S. officials",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-prepares-second-aircraft-carrier-to-deploy-to-the-middle-east-e7140a64"
   },
   {
     "score": 117,
@@ -49,11 +42,11 @@
     "link": "https://www.bbc.com/news/articles/cd0y18g8g7ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 113,
-    "pubdate": "2026-02-12-01-32-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon has told a second aircraft carrier strike group to prepare to deploy to the Middle East as the U.S. military prepares for a potential attack on Iran, according to three U.S. officials",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-prepares-second-aircraft-carrier-to-deploy-to-the-middle-east-e7140a64"
+    "score": 116,
+    "pubdate": "2026-02-11-18-42-47 +0000",
+    "source": "nypost",
+    "headline": "Canada school shooting victim, 12, ‘fighting for her life’ after being shot in the head, neck",
+    "link": "https://nypost.com/2026/02/11/world-news/canada-school-shooting-victim-12-fighting-for-her-life-after-being-shot-in-the-head-and-neck/"
   },
   {
     "score": 102,
@@ -63,10 +56,17 @@
     "link": "https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 93,
-    "pubdate": "2026-02-11-18-56-22 +0000",
-    "source": "latimes",
-    "headline": "Warner Bros. Discovery board faces pressure as activist investor threatens to vote no on Netflix deal",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-11/warner-bros-discovery-activist-investor-ancora-opposes-netflix-deal"
+    "score": 98,
+    "pubdate": "2026-02-12-02-02-00 +0000",
+    "source": "wsj",
+    "headline": "Demand for healthcare workers is outstripping all other sectors. That means big changes in a U.S. labor market where retail and white-collar hiring have stalled",
+    "link": "https://www.wsj.com/economy/jobs/healthcare-jobs-have-become-the-engine-of-americas-labor-market-114ffd34"
+  },
+  {
+    "score": 91,
+    "pubdate": "2026-02-12-02-48-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon’s use of a high-energy laser to counter what officials thought was a drug-cartel drone led the FAA to temporarily shut down all flights over El Paso, Texas",
+    "link": "https://www.wsj.com/us-news/faa-halts-el-paso-flights-for-unspecified-security-reasons-163e0966"
   }
 ]
