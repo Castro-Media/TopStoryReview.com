@@ -1,140 +1,254 @@
 [
   {
-    "headline": "Don't sack cabinet secretary until Mandelson files published, Badenoch says",
-    "link": "https://www.bbc.com/news/articles/c98qene0gpdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Push for Body Cameras for D.H.S. Underscores Trump Administration’s Shift",
+    "link": "https://www.nytimes.com/2026/02/12/us/body-cameras-ice-dhs-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-08-14 +0000"
+  },
+  {
+    "headline": "Immigration Officials Set to Testify Before Senate Panel",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/immigration-hearing-ice-dhs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-08-14 +0000"
+  },
+  {
+    "headline": "Immigration Officials Set to Testify Before Senate Panel",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/immigration-hearing-ice-dhs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-08-14 +0000"
+  },
+  {
+    "headline": "Trump’s Director of Election Security Is an Election Denier",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/trump-kurt-olsen-election-denialism.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-08-09 +0000"
+  },
+  {
+    "headline": "Trump’s Director of Election Security Is an Election Denier",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/trump-kurt-olsen-election-denialism.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-08-09 +0000"
+  },
+  {
+    "headline": "Across Italy, the Winter Olympic Vibes Are Very Different",
+    "link": "https://www.nytimes.com/2026/02/12/world/olympics/winter-olympics-vibes-milan-towns-hosting.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-06-42 +0000"
+  },
+  {
+    "headline": "‘How to Get to Heaven From Belfast’: Lisa McGee Spins a Comedic Mystery",
+    "link": "https://www.nytimes.com/2026/02/12/arts/television/lisa-mcgee-how-to-get-from-heaven-to-belfast.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-06-13 +0000"
+  },
+  {
+    "headline": "Ford Will Make a Play for a Different Battery Market",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-03-22 +0000"
+  },
+  {
+    "headline": "Ford Will Make a Play for a Different Battery Market",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-03-22 +0000"
+  },
+  {
+    "headline": "Why Pennsylvania’s Two Most Powerful Democrats Don’t Speak",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/john-fetterman-josh-shapiro-pennsylvania.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-03-12 +0000"
+  },
+  {
+    "headline": "Why Pennsylvania’s Two Most Powerful Democrats Don’t Speak",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/john-fetterman-josh-shapiro-pennsylvania.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-03-12 +0000"
+  },
+  {
+    "headline": "New Method Can Find Hidden Eggs to Aid in Fertility Treatment",
+    "link": "https://www.nytimes.com/2026/02/12/health/ivf-hidden-eggs-device-ovaready.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-02-43 +0000"
+  },
+  {
+    "headline": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-02-26 +0000"
+  },
+  {
+    "headline": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-02-26 +0000"
+  },
+  {
+    "headline": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-02-26 +0000"
+  },
+  {
+    "headline": "To Stay in Her Home, She Let In an A.I. Robot",
+    "link": "https://www.nytimes.com/2026/02/12/us/elliq-ai-robot-senior-companion.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-02-11 +0000"
+  },
+  {
+    "headline": "To Stay in Her Home, She Let In an A.I. Robot",
+    "link": "https://www.nytimes.com/2026/02/12/us/elliq-ai-robot-senior-companion.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-02-11 +0000"
+  },
+  {
+    "headline": "Kim Jong Un chooses teen daughter as heir, says Seoul",
+    "link": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-12-09-07-19 +0000"
+    "pubdate": "2026-02-12-10-01-45 +0000"
   },
   {
-    "headline": "Turkish Nobel Novelist Orhan Pamuk Gets the Netflix Series He Wanted",
-    "link": "https://www.nytimes.com/2026/02/12/world/europe/orhan-pamuk-istanbul-turkey-museum-of-innocence.html",
+    "headline": "Bans on Many CBD Products Loom This Year",
+    "link": "https://www.nytimes.com/2026/02/12/health/bans-on-many-cbd-products-loom-this-year.html",
     "source": "nyt",
-    "pubdate": "2026-02-12-09-05-59 +0000"
+    "pubdate": "2026-02-12-10-00-40 +0000"
   },
   {
-    "headline": "Turkish Nobel Novelist Orhan Pamuk Gets the Netflix Series He Wanted",
-    "link": "https://www.nytimes.com/2026/02/12/world/europe/orhan-pamuk-istanbul-turkey-museum-of-innocence.html",
+    "headline": "These Ukrainian Drones Don’t Just Kill. They Deliver Oatmeal Cookies.",
+    "link": "https://www.nytimes.com/2026/02/12/world/europe/ukraine-drones-vampire-russia.html",
     "source": "nyt",
-    "pubdate": "2026-02-12-09-05-59 +0000"
+    "pubdate": "2026-02-12-10-00-36 +0000"
   },
   {
-    "headline": "Would You Leave Your Bag Unattended at a Starbucks? They Did. For Hours.",
-    "link": "https://www.nytimes.com/2026/02/12/world/asia/south-korea-cafe-culture.html",
+    "headline": "These Ukrainian Drones Don’t Just Kill. They Deliver Oatmeal Cookies.",
+    "link": "https://www.nytimes.com/2026/02/12/world/europe/ukraine-drones-vampire-russia.html",
     "source": "nyt",
-    "pubdate": "2026-02-12-09-04-51 +0000"
+    "pubdate": "2026-02-12-10-00-36 +0000"
   },
   {
-    "headline": "Would You Leave Your Bag Unattended at a Starbucks? They Did. For Hours.",
-    "link": "https://www.nytimes.com/2026/02/12/world/asia/south-korea-cafe-culture.html",
+    "headline": "It’s a Grocery Store, but Selling Food Isn’t the Point",
+    "link": "https://www.nytimes.com/2026/02/12/business/happier-grocery.html",
     "source": "nyt",
-    "pubdate": "2026-02-12-09-04-51 +0000"
+    "pubdate": "2026-02-12-10-00-21 +0000"
   },
   {
-    "headline": "'One in a billion': Dawson's Creek stars lead tributes to James Van Der Beek",
-    "link": "https://www.bbc.com/news/articles/cewz2yr47dvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-12-09-02-30 +0000"
+    "headline": "For these clergy, Trump’s immigration blitz became a call to action",
+    "link": "https://www.washingtonpost.com/nation/2026/02/12/rabbis-ice-trump-resist/",
+    "source": "wapo",
+    "pubdate": "2026-02-12-10-00-18 +0000"
   },
   {
-    "headline": "Trump is set to scrap a longstanding legal basis for U.S. climate action. Here's what that could mean",
-    "link": "https://www.cbc.ca/news/science/endangerment-finding-trump-us-climate-emissions-9.7083649?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-12-09-00-00 +0000"
+    "headline": "Maybe America Needs Some New Cities",
+    "link": "https://www.nytimes.com/2026/02/12/business/economy/america-new-cities-irvine.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-00-18 +0000"
   },
   {
-    "headline": "As tensions simmer between U.S. and Iran, Iraq is feeling the heat",
-    "link": "https://www.cbc.ca/news/world/us-iran-iraq-al-maliki-9.7085206?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-12-09-00-00 +0000"
+    "headline": "Maybe America Needs Some New Cities",
+    "link": "https://www.nytimes.com/2026/02/12/business/economy/america-new-cities-irvine.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-10-00-18 +0000"
   },
   {
-    "headline": "Gilt Yields Fall After Weak U.K. GDP Data",
-    "link": "https://www.wsj.com/finance/investing/jgbs-rise-on-likely-post-holiday-position-adjustments-d3010bc2?mod=rss_markets_main",
+    "headline": "Asset Manager Nuveen to Buy U.K. Peer Schroders in $13.5 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/nuveen-to-buy-u-k-asset-manager-schroders-in-13-5-billion-deal-a61390bc?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-02-12-09-00-00 +0000"
+    "pubdate": "2026-02-12-10-00-00 +0000"
   },
   {
-    "headline": "Ottawa commits to keeping Mounties on front lines, says fixing federal policing is priority",
-    "link": "https://www.cbc.ca/news/politics/rcmp-policing-reforms-9.7084928?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-12-09-00-00 +0000"
+    "headline": "Ohio State professor Luke Perez suspended after allegedly attacking cameraman who was trying to interview ex-university president",
+    "link": "https://nypost.com/2026/02/12/us-news/ohio-state-professor-luke-perez-suspended-after-allegedly-attacking-cameraman-who-was-trying-to-interview-ex-university-president/",
+    "source": "nypost",
+    "pubdate": "2026-02-12-09-59-11 +0000"
   },
   {
-    "headline": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
-    "link": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html",
-    "source": "nyt",
-    "pubdate": "2026-02-12-08-58-18 +0000"
-  },
-  {
-    "headline": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
-    "link": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html",
-    "source": "nyt",
-    "pubdate": "2026-02-12-08-58-18 +0000"
-  },
-  {
-    "headline": "Lenovo Posts Earnings Beat on AI-Driven Demand",
-    "link": "https://www.wsj.com/business/earnings/lenovo-posts-earnings-beat-on-ai-driven-demand-293e2211?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-12-08-57-00 +0000"
-  },
-  {
-    "headline": "Gold Eases After U.S. Data Tempers Fed Rate-Cut Bets",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-prospects-of-long-fed-pause-423e20f2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-12-08-57-00 +0000"
-  },
-  {
-    "headline": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
-    "link": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html",
-    "source": "nyt",
-    "pubdate": "2026-02-12-08-51-14 +0000"
-  },
-  {
-    "headline": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
-    "link": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html",
-    "source": "nyt",
-    "pubdate": "2026-02-12-08-51-14 +0000"
-  },
-  {
-    "headline": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
-    "link": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html",
-    "source": "nyt",
-    "pubdate": "2026-02-12-08-51-14 +0000"
-  },
-  {
-    "headline": "Oil Rises on U.S.-Iran Tensions Despite Crude Build",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-lingering-u-s-iran-tensions-e01beaae?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-12-08-48-00 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Dow Futures Rise Ahead of More Earnings",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-12-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-12-08-39-36 +0000"
-  },
-  {
-    "headline": "UK economy grew by 0.1% in final quarter of 2025",
+    "headline": "UK economy grew by 'subdued' 0.1% at end of 2025",
     "link": "https://www.bbc.com/news/articles/c4gjmm7dlggo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-12-08-33-31 +0000"
+    "pubdate": "2026-02-12-09-57-26 +0000"
   },
   {
-    "headline": "Samsung Begins Shipments of HBM4 Products",
-    "link": "https://www.wsj.com/tech/samsung-begins-shipments-of-hbm4-products-5954d69e?mod=pls_whats_news_us_business_f",
+    "headline": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
+    "link": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-09-55-09 +0000"
+  },
+  {
+    "headline": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
+    "link": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-09-55-09 +0000"
+  },
+  {
+    "headline": "Raising Cane’s sues Boston landlord trying to evict restaurant over ‘offensive’ chicken odor",
+    "link": "https://nypost.com/2026/02/12/us-news/raising-canes-sues-boston-landlord-trying-to-evict-restaurant-over-offensive-chicken-odor/",
+    "source": "nypost",
+    "pubdate": "2026-02-12-09-50-50 +0000"
+  },
+  {
+    "headline": "U.S. Futures Climb After Wednesday Selling, Dollar Holds Higher",
+    "link": "https://www.wsj.com/finance/u-s-futures-climb-after-wednesday-selling-dollar-holds-higher-418d8de8?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-12-08-22-00 +0000"
+    "pubdate": "2026-02-12-09-48-00 +0000"
   },
   {
     "headline": "U.K. Posts Modest Growth for 2025",
     "link": "https://www.wsj.com/economy/u-k-posts-modest-growth-for-2025-9938f2f4",
     "source": "wsj",
-    "pubdate": "2026-02-12-08-18-00 +0000"
+    "pubdate": "2026-02-12-09-31-00 +0000"
   },
   {
     "headline": "U.K. Posts Modest Growth for 2025",
     "link": "https://www.wsj.com/economy/u-k-posts-modest-growth-for-2025-9938f2f4",
     "source": "wsj",
-    "pubdate": "2026-02-12-08-18-00 +0000"
+    "pubdate": "2026-02-12-09-31-00 +0000"
+  },
+  {
+    "headline": "EssilorLuxottica Shares Gain as Smartglasses Promise Rosy Future",
+    "link": "https://www.wsj.com/business/earnings/essilorluxottica-shares-gain-as-smartglasses-promise-rosy-future-7f648597?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-12-09-26-00 +0000"
+  },
+  {
+    "headline": "IEA Expects Oil Supply to Rebound After U.S. Winter Storm Slashed Output",
+    "link": "https://www.wsj.com/business/energy-oil/iea-expects-oil-supply-to-rebound-after-u-s-winter-storm-slashed-output-68a43ce4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-12-09-20-00 +0000"
+  },
+  {
+    "headline": "Russia moves to block WhatsApp in messaging app crackdown",
+    "link": "https://www.bbc.com/news/articles/clygd10pg5lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-12-09-16-41 +0000"
+  },
+  {
+    "headline": "Russia moves to block WhatsApp in messaging app crackdown",
+    "link": "https://www.bbc.com/news/articles/clygd10pg5lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-12-09-16-41 +0000"
+  },
+  {
+    "headline": "Russia moves to block WhatsApp in messaging app crackdown",
+    "link": "https://www.bbc.com/news/articles/clygd10pg5lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-12-09-16-41 +0000"
+  },
+  {
+    "headline": "Grab Hopes to Begin $500 Million Share-Buyback Program Soon, Says CFO",
+    "link": "https://www.wsj.com/business/c-suite/grab-hopes-to-begin-500-million-share-buyback-program-soon-says-cfo-960720a2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-12-09-16-00 +0000"
+  },
+  {
+    "headline": "Would You Leave Your Bag Unattended at a Starbucks? They Did. For Hours.",
+    "link": "https://www.nytimes.com/2026/02/12/world/asia/south-korea-cafe-culture.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-09-12-21 +0000"
+  },
+  {
+    "headline": "Would You Leave Your Bag Unattended at a Starbucks? They Did. For Hours.",
+    "link": "https://www.nytimes.com/2026/02/12/world/asia/south-korea-cafe-culture.html",
+    "source": "nyt",
+    "pubdate": "2026-02-12-09-12-21 +0000"
   }
 ]
