@@ -1,52 +1,45 @@
 [
   {
-    "score": 200,
+    "score": 197,
     "pubdate": "2026-02-12-18-11-00 +0000",
     "source": "wsj",
     "headline": "Border czar Tom Homan said the Trump administration is ending the immigration crackdown in Minnesota, an enforcement surge that resulted in the shooting deaths of two American citizens",
     "link": "https://www.wsj.com/politics/policy/tom-homan-minneapolis-operation-metro-surge-0e40d625"
   },
   {
-    "score": 86,
+    "score": 82,
     "pubdate": "2026-02-12-00-44-00 +0000",
     "source": "wsj",
     "headline": "The GOP-led House passed a resolution designed to roll back President Trump’s tariffs on Canada, as six Republicans joined Democrats in rebuking the administration’s signature economic policy",
     "link": "https://www.wsj.com/politics/policy/gop-led-house-rejects-trumps-tariffs-on-canada-f03c12d8"
   },
   {
-    "score": 72,
+    "score": 70,
     "pubdate": "2026-02-12-01-32-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon has told a second aircraft carrier strike group to prepare to deploy to the Middle East as the U.S. military prepares for a potential attack on Iran, according to three U.S. officials",
     "link": "https://www.wsj.com/politics/national-security/pentagon-prepares-second-aircraft-carrier-to-deploy-to-the-middle-east-e7140a64"
   },
   {
-    "score": 71,
+    "score": 67,
     "pubdate": "2026-02-12-14-00-00 +0000",
     "source": "latimes",
     "headline": "He was flying from L.A. to Houston. So how did he end up in Tokyo?",
     "link": "https://www.latimes.com/california/story/2026-02-12/lax-united-tokyo-houston-managua-nicaragua-victor-calderon"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-02-12-18-09-20 +0000",
     "source": "nypost",
     "headline": "Pentagon can’t dock Sen. Mark Kelly’s rank, pay over ‘illegal orders’ video, federal judge rules",
     "link": "https://nypost.com/2026/02/12/us-news/pentagon-cant-dock-sen-mark-kellys-rank-pay-over-illegal-orders-video-federal-judge-rules/"
   },
   {
-    "score": 56,
-    "pubdate": "2026-02-12-14-38-32 +0000",
-    "source": "nypost",
-    "headline": "Woman seen in photo under disgraced ex-Prince Andrew was Jeffrey Epstein sex-trafficking victim, lawmaker says during hearing",
-    "link": "https://nypost.com/2026/02/12/us-news/woman-in-ex-prince-andrew-photo-was-jeffrey-epstein-sex-trafficking-victim/"
-  },
-  {
     "score": 54,
     "pubdate": "2026-02-12-14-36-00 +0000",
     "source": "wsj",
     "headline": "Two U.S. Navy Ships Collide in Waters Near South America",
-    "link": "https://www.wsj.com/us-news/two-u-s-navy-ships-collide-in-waters-near-south-america-e7480637?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/us-news/two-u-s-navy-ships-collide-in-waters-near-south-america-e7480637"
   },
   {
     "score": 54,
@@ -64,9 +57,16 @@
   },
   {
     "score": 51,
-    "pubdate": "2026-02-12-19-10-52 +0000",
+    "pubdate": "2026-02-12-14-38-32 +0000",
     "source": "nypost",
-    "headline": "Mom learns her fate after 1-year-old son died in 116-degree car while she got lip filler: ‘Vanity over her kids’",
-    "link": "https://nypost.com/2026/02/12/us-news/evil-mom-learns-her-fate-after-toddler-died-in-116-degree-car-while-she-got-lip-injections/"
+    "headline": "Woman seen in photo under disgraced ex-Prince Andrew was Jeffrey Epstein sex-trafficking victim, lawmaker says during hearing",
+    "link": "https://nypost.com/2026/02/12/us-news/woman-in-ex-prince-andrew-photo-was-jeffrey-epstein-sex-trafficking-victim/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-02-12-02-02-00 +0000",
+    "source": "wsj",
+    "headline": "Demand for healthcare workers is outstripping all other sectors. That means big changes in a U.S. labor market where retail and white-collar hiring have stalled",
+    "link": "https://www.wsj.com/economy/jobs/healthcare-jobs-have-become-the-engine-of-americas-labor-market-114ffd34"
   }
 ]
