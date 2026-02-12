@@ -1,16 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-02-12-07-08-00 +0000",
-    "source": "wsj",
-    "headline": "Sanofi Names Merck KGaA’s Garijo to Replace Hudson as CEO",
-    "link": "https://www.wsj.com/business/c-suite/sanofi-names-merck-kgaas-garijo-to-replace-hudson-as-ceo-3207c1cc?mod=pls_whats_news_us_business_f"
+    "score": 24,
+    "pubdate": "2026-02-12-08-51-14 +0000",
+    "source": "nyt",
+    "headline": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
+    "link": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html"
   },
   {
-    "score": 5,
-    "pubdate": "2026-02-12-07-10-03 +0000",
+    "score": 20,
+    "pubdate": "2026-02-12-09-05-59 +0000",
+    "source": "nyt",
+    "headline": "Turkish Nobel Novelist Orhan Pamuk Gets the Netflix Series He Wanted",
+    "link": "https://www.nytimes.com/2026/02/12/world/europe/orhan-pamuk-istanbul-turkey-museum-of-innocence.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-12-09-04-51 +0000",
+    "source": "nyt",
+    "headline": "Would You Leave Your Bag Unattended at a Starbucks? They Did. For Hours.",
+    "link": "https://www.nytimes.com/2026/02/12/world/asia/south-korea-cafe-culture.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-12-08-58-18 +0000",
+    "source": "nyt",
+    "headline": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
+    "link": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-12-09-02-30 +0000",
     "source": "bbc",
-    "headline": "UK economy grew by 0.1% in final quarter of 2025",
-    "link": "https://www.bbc.com/news/articles/c4gjmm7dlggo?at_medium=RSS&at_campaign=rss"
+    "headline": "'One in a billion': Dawson's Creek stars lead tributes to James Van Der Beek",
+    "link": "https://www.bbc.com/news/articles/cewz2yr47dvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-12-08-57-00 +0000",
+    "source": "wsj",
+    "headline": "Lenovo Posts Earnings Beat on AI-Driven Demand",
+    "link": "https://www.wsj.com/business/earnings/lenovo-posts-earnings-beat-on-ai-driven-demand-293e2211?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-12-09-07-19 +0000",
+    "source": "bbc",
+    "headline": "Don't sack cabinet secretary until Mandelson files published, Badenoch says",
+    "link": "https://www.bbc.com/news/articles/c98qene0gpdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-12-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "As tensions simmer between U.S. and Iran, Iraq is feeling the heat",
+    "link": "https://www.cbc.ca/news/world/us-iran-iraq-al-maliki-9.7085206?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-12-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Trump is set to scrap a longstanding legal basis for U.S. climate action. Here's what that could mean",
+    "link": "https://www.cbc.ca/news/science/endangerment-finding-trump-us-climate-emissions-9.7083649?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-12-08-57-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Eases After U.S. Data Tempers Fed Rate-Cut Bets",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-prospects-of-long-fed-pause-423e20f2?mod=rss_markets_main"
   }
 ]
