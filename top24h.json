@@ -1,10 +1,17 @@
 [
   {
-    "score": 196,
+    "score": 192,
     "pubdate": "2026-02-12-22-03-00 +0000",
     "source": "wsj",
     "headline": "Border czar Tom Homan said the Trump administration is ending the immigration crackdown in Minnesota, an enforcement surge that resulted in the shooting deaths of two American citizens",
     "link": "https://www.wsj.com/politics/policy/tom-homan-minneapolis-operation-metro-surge-0e40d625"
+  },
+  {
+    "score": 83,
+    "pubdate": "2026-02-12-23-36-00 +0000",
+    "source": "wsj",
+    "headline": "Chris Klomp, the head of Medicare and a former healthcare executive, will take on a new role as Health Secretary Robert F. Kennedy Jr.’s No. 2 in a HHS shake-up ahead of the midterms",
+    "link": "https://www.wsj.com/politics/policy/white-house-pushes-shake-up-at-hhs-ahead-of-midterms-6ad882a5"
   },
   {
     "score": 82,
@@ -14,11 +21,11 @@
     "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
   },
   {
-    "score": 81,
-    "pubdate": "2026-02-12-23-36-00 +0000",
+    "score": 61,
+    "pubdate": "2026-02-13-05-00-00 +0000",
     "source": "wsj",
-    "headline": "Chris Klomp, the head of Medicare and a former healthcare executive, will take on a new role as Health Secretary Robert F. Kennedy Jr.’s No. 2 in a HHS shake-up ahead of the midterms",
-    "link": "https://www.wsj.com/politics/policy/white-house-pushes-shake-up-at-hhs-ahead-of-midterms-6ad882a5"
+    "headline": "The Pentagon is sending the Navy’s largest and most advanced aircraft carrier to the Middle East, as the U.S. steps up plans for a potential attack on Iran, two U.S. officials said",
+    "link": "https://www.wsj.com/politics/national-security/u-s-is-sending-its-largest-warship-to-the-middle-east-bf9e14aa"
   },
   {
     "score": 58,
@@ -28,45 +35,38 @@
     "link": "https://www.wsj.com/politics/policy/homeland-security-government-shutdown-e6ee00c5"
   },
   {
-    "score": 57,
-    "pubdate": "2026-02-12-14-36-00 +0000",
-    "source": "wsj",
-    "headline": "Two U.S. Navy Ships Collide in Waters Near South America",
-    "link": "https://www.wsj.com/us-news/two-u-s-navy-ships-collide-in-waters-near-south-america-e7480637"
-  },
-  {
     "score": 55,
-    "pubdate": "2026-02-12-08-39-36 +0000",
-    "source": "wsj",
-    "headline": "Stock Market News, Feb. 12, 2026: Tech Shares Lead Broad Selloff as AI Concerns Resurface",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-12-2026?mod=rss_markets_main"
-  },
-  {
-    "score": 54,
-    "pubdate": "2026-02-12-21-05-00 +0000",
-    "source": "wsj",
-    "headline": "Judge Blocks Pentagon’s Move to Censure Sen. Mark Kelly Over Video to Troops",
-    "link": "https://www.wsj.com/us-news/law/judge-blocks-pentagons-move-to-censure-sen-mark-kelly-over-video-to-troops-073e4384"
-  },
-  {
-    "score": 54,
     "pubdate": "2026-02-12-15-00-00 +0000",
     "source": "wsj",
     "headline": "Josh Gruenbaum’s brash ways as a federal agency bean-counter earned him the trust of Jared Kushner and Trump’s foreign policy team—and sparked an inquiry into whether he broke contracting rules",
     "link": "https://www.wsj.com/politics/national-security/how-a-pencil-purchasing-u-s-bureaucrat-ended-up-shaking-hands-with-putin-442743ce"
   },
   {
-    "score": 50,
+    "score": 53,
+    "pubdate": "2026-02-12-08-39-36 +0000",
+    "source": "wsj",
+    "headline": "Stock Market News, Feb. 12, 2026: Tech Shares Lead Broad Selloff as AI Concerns Resurface",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-12-2026?mod=rss_markets_main"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-02-13-02-11-46 +0000",
+    "source": "nypost",
+    "headline": "Judge dismisses California deportation case for Mexican father of 3 U.S. Marines",
+    "link": "https://nypost.com/2026/02/12/us-news/judge-dismisses-california-deportation-case-for-mexican-father-of-3-u-s-marines/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-02-12-14-36-00 +0000",
+    "source": "wsj",
+    "headline": "Two U.S. Navy Ships Collide in Waters Near South America",
+    "link": "https://www.wsj.com/us-news/two-u-s-navy-ships-collide-in-waters-near-south-america-e7480637?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-02-13-02-00-00 +0000",
     "source": "wsj",
     "headline": "Firing a Coast Guard pilot for leaving Kristi Noem’s blanket behind. Berating staff when she’s not on TV enough. Inside the chaos at DHS.",
     "link": "https://www.wsj.com/politics/policy/chaos-kristi-noem-homeland-security-f095ac95"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-02-13-01-39-02 +0000",
-    "source": "startribune",
-    "headline": "DOJ moves to drop charges against men arrested after ICE shooting in north Minneapolis",
-    "link": "https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378"
   }
 ]
