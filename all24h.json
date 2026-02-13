@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Convicted drive-by killer executed in Oklahoma — as his final meal and last words are revealed",
+    "link": "https://nypost.com/2026/02/13/us-news/oklahoma-executes-convicted-killer-kendrick-simpson-as-his-final-meal-and-last-words-are-revealed/",
+    "source": "nypost",
+    "pubdate": "2026-02-13-07-00-48 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Rise Ahead of January Inflation Data",
+    "link": "https://www.wsj.com/finance/investing/jgbs-rise-amid-japanese-stock-market-weakness-3ec49b7a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-13-06-57-00 +0000"
+  },
+  {
+    "headline": "Ex-Team USA medalist allegedly gunned down in Starbucks drive-thru by madman with long rap sheet",
+    "link": "https://nypost.com/2026/02/13/us-news/skating-coach-gabrielle-sam-linehan-gunned-down-at-missouri-starbucks/",
+    "source": "nypost",
+    "pubdate": "2026-02-13-06-50-42 +0000"
+  },
+  {
+    "headline": "Comex Gold Futures May Stage Rebound, Chart Shows",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-could-undergo-technical-recovery-72e661fe?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-13-06-47-00 +0000"
+  },
+  {
+    "headline": "Second US aircraft carrier is being sent to the Middle East: report",
+    "link": "https://nypost.com/2026/02/13/world-news/uss-gerald-r-ford-ordered-to-move-to-the-middle-east-during-heightened-tension-with-iran/",
+    "source": "nypost",
+    "pubdate": "2026-02-13-06-32-01 +0000"
+  },
+  {
+    "headline": "Capgemini Expects AI Demand to Fuel Growth in Year Ahead",
+    "link": "https://www.wsj.com/business/earnings/capgemini-expects-ai-demand-to-fuel-growth-in-year-ahead-fc00e890?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-13-06-30-00 +0000"
+  },
+  {
+    "headline": "Safran Lifts 2028 Outlook On Strong Civil Engines Aftermarket, Defense Demand",
+    "link": "https://www.wsj.com/business/earnings/safran-lifts-2028-outlook-on-strong-civil-engines-aftermarket-defense-demand-7b7f4c72?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-13-06-23-00 +0000"
+  },
+  {
     "headline": "Columbia University axes personnel after files reveal Ivy League admitted Jeffrey Epstein’s girlfriend through ‘irregular’ admissions",
     "link": "https://nypost.com/2026/02/13/us-news/columbia-university-axes-personnel-after-files-reveal-ivy-league-admitted-jeffrey-epsteins-girlfriend-through-irregular-admissions/",
     "source": "nypost",
@@ -226,6 +268,12 @@
     "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba",
     "source": "wsj",
     "pubdate": "2026-02-13-03-27-00 +0000"
+  },
+  {
+    "headline": "The Hindu who stood up for a Muslim and became a hero",
+    "link": "https://www.bbc.com/news/articles/c5y2ypzn1g5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-13-03-26-25 +0000"
   },
   {
     "headline": "Tumbler Ridge mass shooting: What we know so far",
@@ -564,18 +612,6 @@
     "pubdate": "2026-02-13-01-50-12 +0000"
   },
   {
-    "headline": "Bayport’s Weeks twins carving own successful lacrosse paths with more dreams ahead",
-    "link": "https://nypost.com/2026/02/12/sports/bayports-weeks-twins-carving-own-successful-lacrosse-paths/",
-    "source": "nypost",
-    "pubdate": "2026-02-13-01-46-20 +0000"
-  },
-  {
-    "headline": "Jennifer Siebel Newsom reveals sad story behind her beloved pet chicken’s name in glowing Marie Claire puff piece",
-    "link": "https://nypost.com/2026/02/12/us-news/tragedy-inspired-jennifer-siebel-newsoms-pet-chickens-name/",
-    "source": "nypost",
-    "pubdate": "2026-02-13-01-44-31 +0000"
-  },
-  {
     "headline": "Judge blocks Trump administration move to cut $600 million in HIV funding from states",
     "link": "https://www.latimes.com/politics/story/2026-02-12/judge-blocks-trump-administration-move-to-cut-600-million-in-hiv-funding-from-states",
     "source": "latimes",
@@ -636,7 +672,7 @@
     "pubdate": "2026-02-13-01-19-01 +0000"
   },
   {
-    "headline": "Costs from Trump's tariffs paid almost entirely by US consumers, NY Fed says",
+    "headline": "Costs from Trump's tariffs paid mainly by US firms and consumers, NY Fed says",
     "link": "https://www.bbc.com/news/articles/c78x9256pn7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-13-01-07-59 +0000"
@@ -712,12 +748,6 @@
     "link": "https://nypost.com/2026/02/12/business/citigroup-ceo-jane-frasers-pay-jumps-22-to-42m-following-years-of-job-cuts/",
     "source": "nypost",
     "pubdate": "2026-02-13-00-16-33 +0000"
-  },
-  {
-    "headline": "JGBs Rise Amid Japanese Stock-Market Weakness",
-    "link": "https://www.wsj.com/finance/investing/jgbs-rise-amid-japanese-stock-market-weakness-3ec49b7a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-13-00-14-00 +0000"
   },
   {
     "headline": "Beloved sandcastle sculptor banned by San Diego luxury hotel over ‘political messages’",
@@ -806,12 +836,6 @@
   {
     "headline": "Applied Materials Profit Rises on Soaring AI Demand",
     "link": "https://www.wsj.com/business/earnings/applied-materials-profit-rises-on-soaring-ai-computing-demand-cf717cdb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-12-23-41-00 +0000"
-  },
-  {
-    "headline": "Gold Steady; Could Undergo Technical Recovery",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-could-undergo-technical-recovery-72e661fe?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-12-23-41-00 +0000"
   },
@@ -958,12 +982,6 @@
     "link": "https://www.washingtonpost.com/national-security/2026/02/12/munich-aoc-rubio/",
     "source": "wapo",
     "pubdate": "2026-02-12-23-04-44 +0000"
-  },
-  {
-    "headline": "Pinterest Tumbles as Advertiser Pullback Weighs on Fourth-Quarter Earnings, Guidance",
-    "link": "https://www.wsj.com/business/earnings/pinterest-fourth-quarter-profit-drops-expects-revenue-growth-to-slow-ddb5de4f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-12-23-03-00 +0000"
   },
   {
     "headline": "The average American worker has just $955 in retirement savings, new study finds",
@@ -1158,6 +1176,12 @@
     "pubdate": "2026-02-12-22-07-51 +0000"
   },
   {
+    "headline": "Minnesota resistance movement says drawdown is ‘hard-fought community victory’",
+    "link": "https://www.startribune.com/minnesota-resistance-movement-says-drawdown-is-hard-fought-community-victory/601581052",
+    "source": "startribune",
+    "pubdate": "2026-02-12-22-07-26 +0000"
+  },
+  {
     "headline": "Auto & Transport Roundup: Market Talk",
     "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-d170ccef?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1234,12 +1258,6 @@
     "link": "https://www.nytimes.com/2026/02/12/world/canada/ontario-post-secondary-tuition-freeze-lifted.html",
     "source": "nyt",
     "pubdate": "2026-02-12-21-50-03 +0000"
-  },
-  {
-    "headline": "DraftKings Shares Lofty Prediction Markets Goals in 2026 Outlook",
-    "link": "https://www.wsj.com/business/earnings/draftkings-shares-lofty-prediction-markets-goals-in-2026-outlook-aa386bc5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-12-21-50-00 +0000"
   },
   {
     "headline": "Choi, 17, denies Kim historic third halfpipe gold",
@@ -2382,12 +2400,6 @@
     "pubdate": "2026-02-12-15-28-27 +0000"
   },
   {
-    "headline": "The ICE surge in Minnesota is ending. Here’s what Tom Homan said about the drawdown.",
-    "link": "https://www.startribune.com/ice-surge-in-minnesota-is-ending-heres-what-tom-homan-said-about-the-drawdown/601581034",
-    "source": "startribune",
-    "pubdate": "2026-02-12-15-21-16 +0000"
-  },
-  {
     "headline": "Bill to lower voting age to 16 introduced in Parliament",
     "link": "https://www.bbc.com/news/articles/cly2jjvx466o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3004,11 +3016,5 @@
     "link": "https://www.nytimes.com/2026/02/11/world/asia/bangladesh-election-students.html",
     "source": "nyt",
     "pubdate": "2026-02-12-07-28-54 +0000"
-  },
-  {
-    "headline": "Supersized dump fire risk report kept from public",
-    "link": "https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-12-07-13-00 +0000"
   }
 ]
