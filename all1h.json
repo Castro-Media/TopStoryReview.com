@@ -1,50 +1,254 @@
 [
   {
-    "headline": "San Francisco schools chief ripped for ‘crocodile tears’ during strike as her salary and kids’ education revealed",
-    "link": "https://nypost.com/2026/02/13/us-news/san-fran-schools-chief-maria-su-ripped-for-crocodile-tears/",
+    "headline": "White House Sees Win After 2 Strong Economic Reports",
+    "link": "https://www.nytimes.com/2026/02/13/business/economy-inflation-jobs-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-21-00-15 +0000"
+  },
+  {
+    "headline": "Dozens of students, families evicted from NYC homeless shelter – after locals plead for Mamdani to step in",
+    "link": "https://nypost.com/2026/02/13/us-news/dozens-of-students-families-evicted-from-nyc-homeless-shelter-after-locals-plead-for-mamdani-to-step-in/",
     "source": "nypost",
-    "pubdate": "2026-02-13-19-08-52 +0000"
+    "pubdate": "2026-02-13-20-59-51 +0000"
+  },
+  {
+    "headline": "Former minister Freeland violated election rules during 2024 byelection, watchdog finds",
+    "link": "https://www.cbc.ca/news/politics/chrystia-freeland-election-rules-violation-9.7089204?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-13-20-59-04 +0000"
+  },
+  {
+    "headline": "Luxe grocer Erewhon ups its med spa game with lip flips and brow lifts — for free",
+    "link": "https://nypost.com/2026/02/13/lifestyle/erewhon-is-now-offering-botox-and-brow-lifts-for-members/",
+    "source": "nypost",
+    "pubdate": "2026-02-13-20-56-52 +0000"
+  },
+  {
+    "headline": "Live Updates: Macron Insists Europe Remains Central to Global Stability",
+    "link": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-56-12 +0000"
+  },
+  {
+    "headline": "AOC Ties Inequality to Rise of Authoritarians at Munich Security Conference",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/aoc-populism-munich-security-conference.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-56-09 +0000"
+  },
+  {
+    "headline": "AOC Ties Inequality to Rise of Authoritarians at Munich Security Conference",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/aoc-populism-munich-security-conference.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-56-09 +0000"
+  },
+  {
+    "headline": "Ex-CNN host Don Lemon pleads not guilty in Minnesota church protest case",
+    "link": "https://www.bbc.com/news/articles/cge89r1e158o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-13-20-53-59 +0000"
+  },
+  {
+    "headline": "Don Lemon pleads not guilty in Minnesota church protest case",
+    "link": "https://www.bbc.com/news/articles/cge89r1e158o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-13-20-53-59 +0000"
+  },
+  {
+    "headline": "White House Outlines Trump Plan for Shipping Industry",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/white-house-outlines-trump-plan-for-shipping-industry.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-50-38 +0000"
+  },
+  {
+    "headline": "White House Outlines Trump Plan for Shipping Industry",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/white-house-outlines-trump-plan-for-shipping-industry.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-50-38 +0000"
+  },
+  {
+    "headline": "What we know — and don't — about the guns used in the Tumbler Ridge, B.C., shooting",
+    "link": "https://www.cbc.ca/news/politics/tumbler-ridge-firearms-9.7088680?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-13-20-50-14 +0000"
+  },
+  {
+    "headline": "Stolen car suspect drives through L.A. River channel, leading authorities on a pursuit",
+    "link": "https://www.latimes.com/california/story/2026-02-13/stolen-car-suspect-drives-through-la-river-channel-leading-authorities-on-pursuit",
+    "source": "latimes",
+    "pubdate": "2026-02-13-20-49-05 +0000"
+  },
+  {
+    "headline": "Dollar Pares Down Early Losses",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-risk-off-sentiment-could-weigh-b4a63f52?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-48-00 +0000"
+  },
+  {
+    "headline": "Potential for Mild Winter Ahead Sinks Natural Gas for Week",
+    "link": "https://www.wsj.com/opinion/low-storage-levels-weigh-on-european-gas-market-1854ab07?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-46-00 +0000"
+  },
+  {
+    "headline": "Cuba’s Food and Water Supplies Threatened Under U.S. Pressure, U.N. Says",
+    "link": "https://www.wsj.com/world/americas/cubas-food-and-water-supplies-threatened-under-u-s-pressure-u-n-says-ab92bb0c",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-46-00 +0000"
+  },
+  {
+    "headline": "Texas University Closes Exhibition With Anti-ICE Artwork",
+    "link": "https://www.nytimes.com/2026/02/13/arts/design/university-north-texas-victor-quinonez-ice.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-45-09 +0000"
   },
   {
     "headline": "Two Britons among three dead in French Alps avalanche",
     "link": "https://www.bbc.com/news/articles/cd03elmng7do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-13-19-08-18 +0000"
+    "pubdate": "2026-02-13-20-41-01 +0000"
   },
   {
-    "headline": "Six possible effects of Trump's climate policy change",
-    "link": "https://www.bbc.com/news/articles/cd03ee39945o?at_medium=RSS&at_campaign=rss",
+    "headline": "Federal officers may have lied about shooting of migrant in Minneapolis, officials say",
+    "link": "https://www.bbc.com/news/articles/cy8l9jp1z3yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-13-19-08-07 +0000"
+    "pubdate": "2026-02-13-20-40-40 +0000"
   },
   {
-    "headline": "Six possible effects of Trump's climate policy change",
-    "link": "https://www.bbc.com/news/articles/cd03ee39945o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-13-19-08-07 +0000"
-  },
-  {
-    "headline": "January inflation eased more than expected in promising sign for economy",
-    "link": "https://www.washingtonpost.com/business/2026/02/13/inflation-january-economy/",
-    "source": "wapo",
-    "pubdate": "2026-02-13-19-07-23 +0000"
-  },
-  {
-    "headline": "How Bangladesh Went From Revolution to Elections",
-    "link": "https://www.nytimes.com/video/world/100000010700965/how-bangladesh-went-from-revolution-to-fresh-elections.html",
+    "headline": "Prosecutor Seeks Dismissal of Charges Against Man Shot by ICE",
+    "link": "https://www.nytimes.com/2026/02/12/us/prosecutor-dismiss-charges-men-shot-by-ice.html",
     "source": "nyt",
-    "pubdate": "2026-02-13-19-05-10 +0000"
+    "pubdate": "2026-02-13-20-39-10 +0000"
   },
   {
-    "headline": "Costco sued over alleged salmonella risk in $5 rotisserie chicken: ‘Real danger to consumers’",
-    "link": "https://nypost.com/2026/02/13/business/costco-sued-over-alleged-salmonella-risk-in-5-rotisserie-chicken/",
+    "headline": "San Francisco Teachers End Strike After 4 Days",
+    "link": "https://www.nytimes.com/2026/02/13/us/san-francisco-school-strike-end.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-38-06 +0000"
+  },
+  {
+    "headline": "Department of Homeland Security Faces Impending Shutdown",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/department-of-homeland-security-faces-an-impending-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-36-49 +0000"
+  },
+  {
+    "headline": "Department of Homeland Security Faces Impending Shutdown",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/department-of-homeland-security-faces-an-impending-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-36-49 +0000"
+  },
+  {
+    "headline": "Cartel members who hired teen hit squad busted after bloody rampage at SoCal Chili’s restaurant",
+    "link": "https://nypost.com/2026/02/13/us-news/cartel-goons-who-hired-teen-hit-men-busted-after-chilis-rampage/",
     "source": "nypost",
-    "pubdate": "2026-02-13-19-04-21 +0000"
+    "pubdate": "2026-02-13-20-31-50 +0000"
   },
   {
-    "headline": "Andrew facing claim he shared Treasury document with banking contact",
-    "link": "https://www.bbc.com/news/articles/cddn6yyr66yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-13-19-03-34 +0000"
+    "headline": "Venezuela’s Natural Gas, Not Oil, Might Be a Big Early Prize",
+    "link": "https://www.nytimes.com/2026/02/13/business/energy-environment/venezuelas-natural-gas-trinidad-tobago.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-31-47 +0000"
+  },
+  {
+    "headline": "Venezuela’s Natural Gas, Not Oil, Might Be a Big Early Prize",
+    "link": "https://www.nytimes.com/2026/02/13/business/energy-environment/venezuelas-natural-gas-trinidad-tobago.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-31-47 +0000"
+  },
+  {
+    "headline": "Venezuela’s Natural Gas, Not Oil, Might Be a Big Early Prize",
+    "link": "https://www.nytimes.com/2026/02/13/business/energy-environment/venezuelas-natural-gas-trinidad-tobago.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-31-47 +0000"
+  },
+  {
+    "headline": "RFK Jr. Allies Target States to Overturn Vaccine Mandates for Schools",
+    "link": "https://www.nytimes.com/2026/02/13/health/rfk-school-vaccine-mandates.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-29-49 +0000"
+  },
+  {
+    "headline": "RFK Jr. Allies Target States to Overturn Vaccine Mandates for Schools",
+    "link": "https://www.nytimes.com/2026/02/13/health/rfk-school-vaccine-mandates.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-29-49 +0000"
+  },
+  {
+    "headline": "Oil Settles Week Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-consolidates-amid-middle-east-tensions-weaker-demand-outlook-7ebadfeb?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-29-00 +0000"
+  },
+  {
+    "headline": "Fury as hit-and-run driver who killed cyclist in her fourth texting crash sees sentence slashed: ‘Gut punch’",
+    "link": "https://nypost.com/2026/02/13/us-news/neomi-velado-who-struck-and-killed-21-year-old-benjamin-montalvo-in-corona-hit-and-run-set-for-early-release/",
+    "source": "nypost",
+    "pubdate": "2026-02-13-20-22-46 +0000"
+  },
+  {
+    "headline": "ICE Plans $38 Billion Expansion of Immigration Detention Facilities",
+    "link": "https://www.wsj.com/politics/policy/ice-plans-38-billion-expansion-of-immigration-detention-facilities-e63926dd",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-19-00 +0000"
+  },
+  {
+    "headline": "U.S. Immigration and Customs Enforcement plans to spend $38.3 billion on new detention facilities to meet the agency’s growing demand for bedspace and to streamline the removal process for people living in the country illegally",
+    "link": "https://www.wsj.com/politics/policy/ice-plans-38-billion-expansion-of-immigration-detention-facilities-e63926dd",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-19-00 +0000"
+  },
+  {
+    "headline": "Gavin Newsom blasted for bailing on California to mingle with European elites: ‘Better off with him gone’",
+    "link": "https://nypost.com/2026/02/13/us-news/gavin-newsom-blasted-for-bailing-on-california-with-eurotrip/",
+    "source": "nypost",
+    "pubdate": "2026-02-13-20-18-27 +0000"
+  },
+  {
+    "headline": "Gavin Newsom blasted for bailing on California to mingle with European elites: ‘Better off with him gone’",
+    "link": "https://nypost.com/2026/02/13/us-news/gavin-newsom-blasted-for-bailing-on-california-with-eurotrip/",
+    "source": "nypost",
+    "pubdate": "2026-02-13-20-18-27 +0000"
+  },
+  {
+    "headline": "Trump Greenlights More Oil-and-Gas Investments in Venezuela",
+    "link": "https://www.wsj.com/business/energy-oil/trump-greenlights-more-oil-and-gas-investments-in-venezuela-785db37e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-15-00 +0000"
+  },
+  {
+    "headline": "Trump Greenlights More Oil-and-Gas Investments in Venezuela",
+    "link": "https://www.wsj.com/business/energy-oil/trump-greenlights-more-oil-and-gas-investments-in-venezuela-785db37e",
+    "source": "wsj",
+    "pubdate": "2026-02-13-20-15-00 +0000"
+  },
+  {
+    "headline": "The Don Lemon indictment: Video appears to contradict key claims",
+    "link": "https://www.washingtonpost.com/investigations/2026/02/13/don-lemon-minnesota-church-protest/",
+    "source": "wapo",
+    "pubdate": "2026-02-13-20-13-36 +0000"
+  },
+  {
+    "headline": "Trump Administration Revokes Deportation Protections for Yemenis",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/trump-administration-revokes-deportation-protections-for-yemenis.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-08-54 +0000"
+  },
+  {
+    "headline": "Trump Administration Revokes Deportation Protections for Yemenis",
+    "link": "https://www.nytimes.com/2026/02/13/us/politics/trump-administration-revokes-deportation-protections-for-yemenis.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-08-54 +0000"
+  },
+  {
+    "headline": "Au Pair Juliana Peres Magalhães Sentenced to 10 Years in Banfield Double Murder Case",
+    "link": "https://www.nytimes.com/2026/02/13/us/juliana-peres-magalhaes-manslaughter-virginia.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-08-32 +0000"
+  },
+  {
+    "headline": "18-Year-Old Gets Life in Prison for North Carolina Mass Shooting",
+    "link": "https://www.nytimes.com/2026/02/13/us/austin-thompson-shooting-north-carolina-sentencing.html",
+    "source": "nyt",
+    "pubdate": "2026-02-13-20-06-18 +0000"
   }
 ]
