@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "score": 16,
+    "pubdate": "2026-02-13-04-19-46 +0000",
+    "source": "nyt",
+    "headline": "Trump Pardons Klecko, Jamal Lewis and Other Former N.F.L. Players",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/trump-nfl-pardons-klecko-jamal-lewis.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-13-04-23-11 +0000",
+    "source": "nyt",
+    "headline": "What We Know About the Victims of the Tumbler Ridge Mass Shooting in Canada",
+    "link": "https://www.nytimes.com/2026/02/12/world/canada/tumbler-ridge-shooting-victims-canada.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-13-04-22-21 +0000",
+    "source": "nyt",
+    "headline": "Goldman Sachs General Counsel Kathryn Ruemmler Resigns Over Epstein Ties",
+    "link": "https://www.nytimes.com/2026/02/12/business/goldman-lawyer-kathryn-ruemmler-resigns.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-13-04-30-25 +0000",
+    "source": "bbc",
+    "headline": "Sydney police to be investigated by watchdog after anti-Herzog protest violence",
+    "link": "https://www.bbc.com/news/articles/crk84ggrv33o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-13-04-23-11 +0000",
+    "source": "nyt",
+    "headline": "What We Know About the Victims of the Tumbler Ridge Mass Shooting in Canada",
+    "link": "https://www.nytimes.com/2026/02/12/world/canada/tumbler-ridge-shooting-victims-canada.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-13-04-19-46 +0000",
+    "source": "nyt",
+    "headline": "Trump Pardons Klecko, Jamal Lewis and Other Former N.F.L. Players",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/trump-nfl-pardons-klecko-jamal-lewis.html"
+  }
+]
