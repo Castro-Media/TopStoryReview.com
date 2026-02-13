@@ -1,9 +1,72 @@
 [
   {
-    "score": 4,
-    "pubdate": "2026-02-13-15-05-18 +0000",
+    "score": 33,
+    "pubdate": "2026-02-13-17-08-39 +0000",
+    "source": "nypost",
+    "headline": "DOJ sues Harvard for withholding records on alleged race-based admissions",
+    "link": "https://nypost.com/2026/02/13/us-news/doj-sues-harvard-for-withholding-records-on-alleged-race-based-admissions/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-02-13-16-18-00 +0000",
+    "source": "wsj",
+    "headline": "What a shutdown would mean for the Department of Homeland Security, which includes not only border agents but also airport security officers and emergency management functions",
+    "link": "https://www.wsj.com/politics/policy/homeland-security-government-shutdown-e6ee00c5"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-02-13-16-27-53 +0000",
+    "source": "bbc",
+    "headline": "Orban rival accuses opponents of blackmail plot ahead of Hungary election",
+    "link": "https://www.bbc.com/news/articles/c8758xv4eqeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-02-13-16-47-00 +0000",
     "source": "nyt",
-    "headline": "Congress Jets Off as D.H.S. Shuts Down",
-    "link": "https://www.nytimes.com/2026/02/13/us/politics/congress-jets-off-shutdown.html"
+    "headline": "Venezuela’s Natural Gas, Not Oil, Might Be a Big Early Prize",
+    "link": "https://www.nytimes.com/2026/02/13/business/energy-environment/venezuelas-natural-gas-trinidad-tobago.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-13-16-11-28 +0000",
+    "source": "nyt",
+    "headline": "UK Ban on Palestine Action Is Unlawful, Court Finds",
+    "link": "https://www.nytimes.com/2026/02/13/world/europe/uk-palestine-action-ban-court-ruling.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-13-16-29-04 +0000",
+    "source": "bbc",
+    "headline": "Head of Dubai-based ports giant quits after Epstein links revealed",
+    "link": "https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-13-17-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Love on aisle three: Inside a Valentine’s mixer at a San Francisco Trader Joe’s",
+    "link": "https://missionlocal.org/2026/02/sf-trader-joes-valentines-mixer/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-13-16-35-38 +0000",
+    "source": "nypost",
+    "headline": "Extraordinary emails reveal Karen Bass seized control of Palisades fire messaging after watering down report",
+    "link": "https://nypost.com/2026/02/13/us-news/karen-bass-controlled-media-messaging-about-palisades-fire/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-13-16-57-21 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: German Leader Says International Order ‘No Longer Exists’",
+    "link": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-13-16-26-00 +0000",
+    "source": "wsj",
+    "headline": "Enbridge, TC Energy Investing in Projects to Tap Rising Energy Demand",
+    "link": "https://www.wsj.com/business/earnings/enbridge-earnings-rise-with-favorable-contracting-energy-demand-091d8c09?mod=pls_whats_news_us_business_f"
   }
 ]
