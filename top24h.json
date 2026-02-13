@@ -1,34 +1,41 @@
 [
   {
-    "score": 192,
+    "score": 196,
     "pubdate": "2026-02-12-22-03-00 +0000",
     "source": "wsj",
     "headline": "Border czar Tom Homan said the Trump administration is ending the immigration crackdown in Minnesota, an enforcement surge that resulted in the shooting deaths of two American citizens",
     "link": "https://www.wsj.com/politics/policy/tom-homan-minneapolis-operation-metro-surge-0e40d625"
   },
   {
-    "score": 81,
+    "score": 82,
     "pubdate": "2026-02-13-03-27-00 +0000",
     "source": "wsj",
     "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
     "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
   },
   {
-    "score": 77,
+    "score": 81,
     "pubdate": "2026-02-12-23-36-00 +0000",
     "source": "wsj",
     "headline": "Chris Klomp, the head of Medicare and a former healthcare executive, will take on a new role as Health Secretary Robert F. Kennedy Jr.’s No. 2 in a HHS shake-up ahead of the midterms",
     "link": "https://www.wsj.com/politics/policy/white-house-pushes-shake-up-at-hhs-ahead-of-midterms-6ad882a5"
   },
   {
-    "score": 59,
+    "score": 58,
     "pubdate": "2026-02-12-14-41-00 +0000",
     "source": "wsj",
     "headline": "What a shutdown would mean for the Department of Homeland Security, which includes not only border agents but also airport security officers and emergency management functions",
     "link": "https://www.wsj.com/politics/policy/homeland-security-government-shutdown-e6ee00c5"
   },
   {
-    "score": 54,
+    "score": 57,
+    "pubdate": "2026-02-12-14-36-00 +0000",
+    "source": "wsj",
+    "headline": "Two U.S. Navy Ships Collide in Waters Near South America",
+    "link": "https://www.wsj.com/us-news/two-u-s-navy-ships-collide-in-waters-near-south-america-e7480637"
+  },
+  {
+    "score": 55,
     "pubdate": "2026-02-12-08-39-36 +0000",
     "source": "wsj",
     "headline": "Stock Market News, Feb. 12, 2026: Tech Shares Lead Broad Selloff as AI Concerns Resurface",
@@ -36,10 +43,10 @@
   },
   {
     "score": 54,
-    "pubdate": "2026-02-12-14-36-00 +0000",
+    "pubdate": "2026-02-12-21-05-00 +0000",
     "source": "wsj",
-    "headline": "Two U.S. Navy Ships Collide in Waters Near South America",
-    "link": "https://www.wsj.com/us-news/two-u-s-navy-ships-collide-in-waters-near-south-america-e7480637"
+    "headline": "Judge Blocks Pentagon’s Move to Censure Sen. Mark Kelly Over Video to Troops",
+    "link": "https://www.wsj.com/us-news/law/judge-blocks-pentagons-move-to-censure-sen-mark-kelly-over-video-to-troops-073e4384"
   },
   {
     "score": 54,
@@ -47,13 +54,6 @@
     "source": "wsj",
     "headline": "Josh Gruenbaum’s brash ways as a federal agency bean-counter earned him the trust of Jared Kushner and Trump’s foreign policy team—and sparked an inquiry into whether he broke contracting rules",
     "link": "https://www.wsj.com/politics/national-security/how-a-pencil-purchasing-u-s-bureaucrat-ended-up-shaking-hands-with-putin-442743ce"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-02-13-02-11-46 +0000",
-    "source": "nypost",
-    "headline": "Judge dismisses California deportation case for Mexican father of 3 U.S. Marines",
-    "link": "https://nypost.com/2026/02/12/us-news/judge-dismisses-california-deportation-case-for-mexican-father-of-3-u-s-marines/"
   },
   {
     "score": 50,
@@ -66,7 +66,7 @@
     "score": 48,
     "pubdate": "2026-02-13-01-39-02 +0000",
     "source": "startribune",
-    "headline": "DOJ moves to drop charges against men arrested after north Minneapolis ICE shooting",
+    "headline": "DOJ moves to drop charges against men arrested after ICE shooting in north Minneapolis",
     "link": "https://www.startribune.com/doj-moves-to-drop-charges-against-men-arrested-after-north-minneapolis-ice-shooting/601581378"
   }
 ]
