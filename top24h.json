@@ -1,31 +1,24 @@
 [
   {
-    "score": 124,
+    "score": 115,
     "pubdate": "2026-02-13-22-19-13 +0000",
     "source": "latimes",
     "headline": "Newsom tells world leaders Trump's retreat on the environment will mean economic harm",
     "link": "https://www.latimes.com/california/story/2026-02-13/newsom-tells-world-leaders-trumps-retreat-on-environment-will-mean-economic-harm"
   },
   {
-    "score": 94,
+    "score": 91,
     "pubdate": "2026-02-14-06-47-49 +0000",
     "source": "nypost",
     "headline": "White House unveils cheeky Valentine’s Day cards featuring Maduro, Rubio and the shutdown sombrero: ‘You captured my heart’",
     "link": "https://nypost.com/2026/02/14/us-news/white-house-unveils-cheeky-valentines-day-cards-featuring-maduro-rubio-and-the-shutdown-sombrero/"
   },
   {
-    "score": 78,
+    "score": 75,
     "pubdate": "2026-02-13-22-13-46 +0000",
     "source": "nypost",
     "headline": "Here’s the crude email exchange with Jeffrey Epstein that ended Kathy Ruemmler’s stint as Goldman Sachs’ top lawyer",
     "link": "https://nypost.com/2026/02/13/business/heres-the-crude-email-exchange-with-jeffrey-epstein-that-ended-kathy-ruemmlers-stint-as-goldman-sachs-top-lawyer/"
-  },
-  {
-    "score": 72,
-    "pubdate": "2026-02-13-15-34-21 +0000",
-    "source": "bbc",
-    "headline": "Rubio warns Europe of new era in geopolitics before big Munich speech",
-    "link": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 67,
@@ -35,6 +28,13 @@
     "link": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html"
   },
   {
+    "score": 62,
+    "pubdate": "2026-02-13-17-39-00 +0000",
+    "source": "wsj",
+    "headline": "Chris Klomp, the head of Medicare and a former healthcare executive, will take on a new role as Health Secretary Robert F. Kennedy Jr.’s No. 2 in a HHS shake-up ahead of the midterms",
+    "link": "https://www.wsj.com/politics/policy/white-house-pushes-shake-up-at-hhs-ahead-of-midterms-6ad882a5"
+  },
+  {
     "score": 55,
     "pubdate": "2026-02-13-20-53-59 +0000",
     "source": "bbc",
@@ -42,31 +42,31 @@
     "link": "https://www.bbc.com/news/articles/cge89r1e158o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 53,
+    "score": 50,
     "pubdate": "2026-02-14-02-48-57 +0000",
     "source": "nypost",
     "headline": "Latest Nancy Guthrie ransom note sent to TMZ includes clue into possible suspect’s whereabouts: ‘Be prepared to go international’",
     "link": "https://nypost.com/2026/02/13/us-news/new-nancy-guthrie-ransom-note-sent-to-tmz-includes-clue-into-suspects-whereabouts/"
   },
   {
-    "score": 50,
-    "pubdate": "2026-02-13-13-04-33 +0000",
-    "source": "nypost",
-    "headline": "Trans shooter Jesse Van Rootselaar — who killed mom, stepbrother — shot up school looking to ‘finish off’ family: witness",
-    "link": "https://nypost.com/2026/02/13/world-news/jesse-van-rootselaar-did-shooting-at-school-to-kill-rest-of-family-witness/"
-  },
-  {
-    "score": 48,
+    "score": 47,
     "pubdate": "2026-02-13-22-59-00 +0000",
     "source": "cbc",
     "headline": "Labelling Palestine Action a terrorist group was unlawful, Britain’s High Court rules",
     "link": "https://www.cbc.ca/radio/asithappens/palestine-action-ruling-9.7089382?cmp=rss"
   },
   {
-    "score": 44,
+    "score": 42,
     "pubdate": "2026-02-13-18-35-50 +0000",
     "source": "nyt",
     "headline": "Amid Fallout From Epstein Files, Dubai’s DP World Boss Is Replaced",
     "link": "https://www.nytimes.com/2026/02/13/world/middleeast/epstein-dp-world-ports-ahmed-bin-sulayem.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-02-13-15-34-21 +0000",
+    "source": "bbc",
+    "headline": "Rubio warns Europe of new era in geopolitics before big Munich speech",
+    "link": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss"
   }
 ]
