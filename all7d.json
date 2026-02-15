@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Labour face tough fight in Gorton and Denton by-election",
+    "link": "https://www.bbc.com/news/articles/cd9gx0751kzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-15-08-48-59 +0000"
+  },
+  {
+    "headline": "Live Updates: In Munich, Rubio Calls Europe a Friend but Says It Must Change",
+    "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
+    "source": "nyt",
+    "pubdate": "2026-02-15-08-44-54 +0000"
+  },
+  {
+    "headline": "Retired FBI agent urges rapid DNA testing in Nancy Guthrie case, stresses race against the clock: ‘Every hour matters’",
+    "link": "https://nypost.com/2026/02/15/us-news/retired-fbi-agent-jason-pack-urges-rapid-dna-testing-in-nancy-guthrie-case-stresses-race-against-the-clock-every-hour-matters/",
+    "source": "nypost",
+    "pubdate": "2026-02-15-07-56-40 +0000"
+  },
+  {
+    "headline": "Last chance for pensioners to get free air fryers",
+    "link": "https://www.bbc.com/news/articles/cgrz0p9n5k0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-15-07-46-20 +0000"
+  },
+  {
+    "headline": "Australian strip club chair thrower loses job, police investigation into viral moment continues",
+    "link": "https://nypost.com/2026/02/15/world-news/australia-bar-chair-throw-suspect-tony-rogers-loses-job-after-viral-strip-club-video/",
+    "source": "nypost",
+    "pubdate": "2026-02-15-07-24-08 +0000"
+  },
+  {
     "headline": "DEA supervisor arrested as US shutters Dominican Republic office during visa-fraud probe",
     "link": "https://nypost.com/2026/02/15/world-news/dea-supervisor-meliton-cordero-arrested-as-us-shutters-dominican-republic-office-during-visa-fraud-probe/",
     "source": "nypost",
@@ -24,7 +54,7 @@
     "pubdate": "2026-02-15-06-23-51 +0000"
   },
   {
-    "headline": "Labour think tank commissioned firm to investigate journalist, sources say",
+    "headline": "Labour think tank commissioned firm to investigate journalist",
     "link": "https://www.bbc.com/news/articles/c0ljzzk62kyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-15-06-11-32 +0000"
@@ -166,12 +196,6 @@
     "link": "https://nypost.com/2026/02/14/us-news/man-runs-7-marathons-on-7-continents-in-7-days-for-st-judes-kids/",
     "source": "nypost",
     "pubdate": "2026-02-15-03-17-42 +0000"
-  },
-  {
-    "headline": "Live Updates: In Munich, Rubio Calls Europe a Friend but Says It Must Change",
-    "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
-    "source": "nyt",
-    "pubdate": "2026-02-15-03-16-44 +0000"
   },
   {
     "headline": "In Munich, Rubio Stresses Shared History to Europeans but Warns of ‘Civilizational Erasure’",
@@ -354,12 +378,6 @@
     "pubdate": "2026-02-15-00-29-37 +0000"
   },
   {
-    "headline": "Two men shot in  head during fights in NYC: NYPD",
-    "link": "https://nypost.com/2026/02/14/us-news/two-men-shot-in-head-during-fights-in-nyc-nypd/",
-    "source": "nypost",
-    "pubdate": "2026-02-15-00-23-50 +0000"
-  },
-  {
     "headline": "'Trump will be gone in three years': Top Democrats try to reassure Europe",
     "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -370,6 +388,12 @@
     "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094",
     "source": "startribune",
     "pubdate": "2026-02-15-00-14-55 +0000"
+  },
+  {
+    "headline": "Could Manchester be a model for the UK to kickstart growth?",
+    "link": "https://www.bbc.com/news/articles/c0ljgzjwjx3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-15-00-01-21 +0000"
   },
   {
     "headline": "The spectacular multimillion-euro heist nobody noticed",
@@ -1044,12 +1068,6 @@
     "pubdate": "2026-02-14-13-39-40 +0000"
   },
   {
-    "headline": "Russian opposition leader Alexei Navalny poisoned by highly lethal dart frog toxin, widow says",
-    "link": "https://nypost.com/2026/02/14/world-news/russian-opposition-leader-alexei-navalny-poisoned-by-highly-lethal-dart-frog-toxin-widow-says/",
-    "source": "nypost",
-    "pubdate": "2026-02-14-13-37-52 +0000"
-  },
-  {
     "headline": "Alexei Navalny was poisoned by Kremlin with dart frog toxin, European nations say",
     "link": "https://www.cbc.ca/news/world/russia-navalny-european-nations-poisoned-kremlin-9.7090292?cmp=rss",
     "source": "cbc",
@@ -1102,6 +1120,12 @@
     "link": "https://www.nytimes.com/video/business/100000010590569/can-you-rely-on-ai-relationships-love.html",
     "source": "nyt",
     "pubdate": "2026-02-14-12-52-30 +0000"
+  },
+  {
+    "headline": "Craft beer maker Brewdog put up for sale",
+    "link": "https://www.bbc.com/news/articles/c7951yl59lxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-14-12-08-35 +0000"
   },
   {
     "headline": "First major protests since capture of Maduro test Venezuela’s new leader",
@@ -1182,6 +1206,12 @@
     "pubdate": "2026-02-14-11-00-00 +0000"
   },
   {
+    "headline": "L.A. streetlights take a year to fix. Council members say solar power is the answer",
+    "link": "https://www.latimes.com/california/story/2026-02-14/la-streetlights-take-year-to-fix-city-council-touts-solar-power",
+    "source": "latimes",
+    "pubdate": "2026-02-14-11-00-00 +0000"
+  },
+  {
     "headline": "Commentary: How SoCal became the nation's dairy queen",
     "link": "https://www.latimes.com/california/story/2026-02-14/how-socal-became-nations-dairy-queen",
     "source": "latimes",
@@ -1190,12 +1220,6 @@
   {
     "headline": "Notoriously hazardous South L.A. oil wells finally plugged after decades of community pressure",
     "link": "https://www.latimes.com/environment/story/2026-02-14/hazardous-south-la-oil-wells-plugged-after-decades-of-community-pressure",
-    "source": "latimes",
-    "pubdate": "2026-02-14-11-00-00 +0000"
-  },
-  {
-    "headline": "L.A. streetlights take a year to fix. Council members say solar power is the answer",
-    "link": "https://www.latimes.com/california/story/2026-02-14/la-streetlights-take-year-to-fix-city-council-touts-solar-power",
     "source": "latimes",
     "pubdate": "2026-02-14-11-00-00 +0000"
   },
@@ -3240,8 +3264,8 @@
     "pubdate": "2026-02-13-11-00-00 +0000"
   },
   {
-    "headline": "L.A. Mayor Karen Bass directed Palisades fire damage control, email shows",
-    "link": "https://www.latimes.com/california/story/2026-02-13/mayor-karen-bass-directed-palisades-fire-damage-control-emails-show",
+    "headline": "Largest place in Palisades left to clean sees work start at last. But residents aren't happy",
+    "link": "https://www.latimes.com/environment/story/2026-02-13/wildfire-debris-removal-finally-underway-at-palisades-bowl-mobile-home-park",
     "source": "latimes",
     "pubdate": "2026-02-13-11-00-00 +0000"
   },
@@ -3252,8 +3276,8 @@
     "pubdate": "2026-02-13-11-00-00 +0000"
   },
   {
-    "headline": "Largest place in Palisades left to clean sees work start at last. But residents aren't happy",
-    "link": "https://www.latimes.com/environment/story/2026-02-13/wildfire-debris-removal-finally-underway-at-palisades-bowl-mobile-home-park",
+    "headline": "L.A. Mayor Karen Bass directed Palisades fire damage control, email shows",
+    "link": "https://www.latimes.com/california/story/2026-02-13/mayor-karen-bass-directed-palisades-fire-damage-control-emails-show",
     "source": "latimes",
     "pubdate": "2026-02-13-11-00-00 +0000"
   },
@@ -4176,12 +4200,6 @@
     "pubdate": "2026-02-12-18-12-12 +0000"
   },
   {
-    "headline": "Probe ordered into Daily Mail owner's £500m takeover of Telegraph",
-    "link": "https://www.bbc.com/news/articles/czj17w3n1e8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-12-18-12-12 +0000"
-  },
-  {
     "headline": "Ratcliffe sorry language 'offended some' after immigration comments",
     "link": "https://www.bbc.com/news/articles/cd6zvlywz77o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4590,12 +4608,6 @@
     "pubdate": "2026-02-12-11-00-00 +0000"
   },
   {
-    "headline": "The reckless driver who killed her son is about to be released. This SoCal mom is furious",
-    "link": "https://www.latimes.com/california/story/2026-02-12/driver-who-killed-her-son-is-about-to-be-released-this-socal-mom-is-furious",
-    "source": "latimes",
-    "pubdate": "2026-02-12-11-00-00 +0000"
-  },
-  {
     "headline": "Officer's criminal record a factor in dismissed charges against L.A. anti-ICE protesters",
     "link": "https://www.latimes.com/california/story/2026-02-12/federal-protective-services-officer-la-anti-ice-protester-cases",
     "source": "latimes",
@@ -4608,14 +4620,20 @@
     "pubdate": "2026-02-12-11-00-00 +0000"
   },
   {
+    "headline": "Arellano: Trump's deportations are losing him the 'Mexican Beverly Hills'",
+    "link": "https://www.latimes.com/california/story/2026-02-12/deportations-downey-mexican-beverly-hills",
+    "source": "latimes",
+    "pubdate": "2026-02-12-11-00-00 +0000"
+  },
+  {
     "headline": "Secrecy surrounds hiring of LAPD messaging guru with Hollywood background",
     "link": "https://www.latimes.com/california/story/2026-02-12/lapd-internal-communication-director-consultant",
     "source": "latimes",
     "pubdate": "2026-02-12-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: Trump's deportations are losing him the 'Mexican Beverly Hills'",
-    "link": "https://www.latimes.com/california/story/2026-02-12/deportations-downey-mexican-beverly-hills",
+    "headline": "The reckless driver who killed her son is about to be released. This SoCal mom is furious",
+    "link": "https://www.latimes.com/california/story/2026-02-12/driver-who-killed-her-son-is-about-to-be-released-this-socal-mom-is-furious",
     "source": "latimes",
     "pubdate": "2026-02-12-11-00-00 +0000"
   },
@@ -5220,12 +5238,6 @@
     "pubdate": "2026-02-11-17-21-31 +0000"
   },
   {
-    "headline": "Lloyds Banking Group to close another 95 branches",
-    "link": "https://www.bbc.com/news/articles/cy4wgpkkzq0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-11-17-08-22 +0000"
-  },
-  {
     "headline": "What to know about the better-than-expected report.",
     "link": "https://www.nytimes.com/live/2026/02/11/business/jobs-report-economy/what-to-know-about-the-better-than-expected-report",
     "source": "nyt",
@@ -5376,14 +5388,14 @@
     "pubdate": "2026-02-11-11-49-32 +0000"
   },
   {
-    "headline": "Meta, TikTok and others agree to teen safety ratings",
-    "link": "https://www.latimes.com/business/story/2026-02-11/meta-tiktok-others-agree-to-teen-safety-ratings",
+    "headline": "Super Bowl spots spark fight over whether we're ready for ads from our chatbots",
+    "link": "https://www.latimes.com/business/story/2026-02-11/super-bowl-spots-spark-fight-over-whether-were-ready-for-ads-from-our-chatbots",
     "source": "latimes",
     "pubdate": "2026-02-11-11-00-00 +0000"
   },
   {
-    "headline": "Super Bowl spots spark fight over whether we're ready for ads from our chatbots",
-    "link": "https://www.latimes.com/business/story/2026-02-11/super-bowl-spots-spark-fight-over-whether-were-ready-for-ads-from-our-chatbots",
+    "headline": "Meta, TikTok and others agree to teen safety ratings",
+    "link": "https://www.latimes.com/business/story/2026-02-11/meta-tiktok-others-agree-to-teen-safety-ratings",
     "source": "latimes",
     "pubdate": "2026-02-11-11-00-00 +0000"
   },
@@ -5856,12 +5868,6 @@
     "pubdate": "2026-02-10-11-18-00 +0000"
   },
   {
-    "headline": "Notorious dead mall in Westminster is on track for redevelopment",
-    "link": "https://www.latimes.com/business/story/2026-02-10/notorious-dead-mall-in-westminster-is-on-track-for-redevelopment",
-    "source": "latimes",
-    "pubdate": "2026-02-10-11-00-00 +0000"
-  },
-  {
     "headline": "What to know about Elon Musk's merger of SpaceX with his AI company",
     "link": "https://www.latimes.com/business/story/2026-02-10/what-to-know-about-elon-musks-merger-of-spacex-with-his-ai-company",
     "source": "latimes",
@@ -5874,8 +5880,8 @@
     "pubdate": "2026-02-10-11-00-00 +0000"
   },
   {
-    "headline": "L.A. mayoral candidate Nithya Raman's record may surprise you",
-    "link": "https://www.latimes.com/california/story/2026-02-10/nithya-raman-la-mayoral-candidate-record-may-surprise-you",
+    "headline": "Notorious dead mall in Westminster is on track for redevelopment",
+    "link": "https://www.latimes.com/business/story/2026-02-10/notorious-dead-mall-in-westminster-is-on-track-for-redevelopment",
     "source": "latimes",
     "pubdate": "2026-02-10-11-00-00 +0000"
   },
@@ -5888,6 +5894,12 @@
   {
     "headline": "CSU objects to some new community college degrees, igniting debate over who can teach what",
     "link": "https://www.latimes.com/california/story/2026-02-10/community-colleges-cost-bachelors-degrees-csu-says-no-to-some",
+    "source": "latimes",
+    "pubdate": "2026-02-10-11-00-00 +0000"
+  },
+  {
+    "headline": "L.A. mayoral candidate Nithya Raman's record may surprise you",
+    "link": "https://www.latimes.com/california/story/2026-02-10/nithya-raman-la-mayoral-candidate-record-may-surprise-you",
     "source": "latimes",
     "pubdate": "2026-02-10-11-00-00 +0000"
   },
@@ -6186,6 +6198,12 @@
     "pubdate": "2026-02-09-11-00-00 +0000"
   },
   {
+    "headline": "Ex-cop wanted on murder charge flew overseas, lived in L.A. for a year without arrest",
+    "link": "https://www.latimes.com/california/story/2026-02-09/clifford-proctor-former-lapd-officer-murder-charges",
+    "source": "latimes",
+    "pubdate": "2026-02-09-11-00-00 +0000"
+  },
+  {
     "headline": "Arellano: By running for mayor, Nithya Raman will learn how left L.A. really is — or isn't",
     "link": "https://www.latimes.com/california/story/2026-02-09/nithya-raman-mayor-los-angeles-dsa",
     "source": "latimes",
@@ -6194,12 +6212,6 @@
   {
     "headline": "California reserved $165 million for Tesla to electrify its trucking industry. The result may stifle EV innovation",
     "link": "https://www.latimes.com/environment/story/2026-02-09/tesla-semi-california-truck-funding",
-    "source": "latimes",
-    "pubdate": "2026-02-09-11-00-00 +0000"
-  },
-  {
-    "headline": "Ex-cop wanted on murder charge flew overseas, lived in L.A. for a year without arrest",
-    "link": "https://www.latimes.com/california/story/2026-02-09/clifford-proctor-former-lapd-officer-murder-charges",
     "source": "latimes",
     "pubdate": "2026-02-09-11-00-00 +0000"
   },
