@@ -1,9 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-02-15-10-56-22 +0000",
+    "score": 44,
+    "pubdate": "2026-02-15-13-09-02 +0000",
+    "source": "nyt",
+    "headline": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
+    "link": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-02-15-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Easier access to home loans and modular construction are among the options the House and Senate are weighing to battle high housing prices",
+    "link": "https://www.wsj.com/economy/housing/how-congress-plans-to-take-on-the-housing-crisis-76bf027c"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-15-13-08-14 +0000",
+    "source": "nyt",
+    "headline": "Gisèle Pelicot, the Woman at the Center of Rape Trial That Shook France, Shares Her Story",
+    "link": "https://www.nytimes.com/2026/02/13/magazine/gisele-pelicot-france-rape-case-story.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-15-13-00-00 +0000",
     "source": "nypost",
-    "headline": "Tennessee CEO, businessman and 2 family members ID’d as victims of private plane crash near Colorado ski resort",
-    "link": "https://nypost.com/2026/02/15/us-news/tennessee-ceo-austin-huskey-aaron-stokes-idd-as-victims-in-colorado-private-jet-crash-near-popular-ski-resort/"
+    "headline": "Far-left activists radicalizing high school kids to take on ICE as young suspects in agent attack pictured",
+    "link": "https://nypost.com/2026/02/15/us-news/far-left-group-urges-la-students-to-rebel-as-ice-officer-attacked/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-15-12-41-52 +0000",
+    "source": "nypost",
+    "headline": "Nancy Guthrie investigators deploy advanced Bluetooth signal detector in effort to find pacemaker",
+    "link": "https://nypost.com/2026/02/15/us-news/nancy-guthrie-investigators-deploy-advanced-bluetooth-signal-detector-in-effort-to-find-pacemaker/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-15-12-37-44 +0000",
+    "source": "startribune",
+    "headline": "Live: Minnesotan skier Paula Moltzan back in action in women’s giant slalom",
+    "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-15-12-26-26 +0000",
+    "source": "bbc",
+    "headline": "UK wants action taken on Russia after Navalny frog poisoning, Cooper says",
+    "link": "https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-15-13-09-00 +0000",
+    "source": "wsj",
+    "headline": "Gen Z, Locked Out of Home Buying, Puts Its Money in the Market",
+    "link": "https://www.wsj.com/personal-finance/gen-z-investments-home-ownership-ec0bbe98?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-15-13-09-02 +0000",
+    "source": "nyt",
+    "headline": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
+    "link": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-15-13-09-02 +0000",
+    "source": "nyt",
+    "headline": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
+    "link": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html"
   }
 ]
