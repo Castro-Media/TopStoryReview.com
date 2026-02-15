@@ -1,17 +1,10 @@
 [
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2026-02-14-15-01-39 +0000",
     "source": "nypost",
     "headline": "Marco Rubio calls on Europe to join new world order: ‘Trump demands seriousness and reciprocity’",
     "link": "https://nypost.com/2026/02/14/world-news/marco-rubio-calls-us-child-of-europe-in-push-to-dismiss-end-of-the-transatlantic-era-claims/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-02-15-02-04-02 +0000",
-    "source": "bbc",
-    "headline": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-    "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 48,
@@ -26,6 +19,13 @@
     "source": "nyt",
     "headline": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
     "link": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-02-15-02-04-02 +0000",
+    "source": "bbc",
+    "headline": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
+    "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 42,
@@ -49,14 +49,14 @@
     "link": "https://nypost.com/2026/02/14/us-news/cape-cod-woman-dies-after-plunging-into-frozen-river-walking-dog-with-missing-husband/"
   },
   {
-    "score": 37,
-    "pubdate": "2026-02-15-02-00-00 +0000",
+    "score": 36,
+    "pubdate": "2026-02-15-13-00-00 +0000",
     "source": "wsj",
-    "headline": "Inflation is easing, jobs are holding up, and growth is solid. But after years of high prices and with new risks emerging, declarations of victory feel premature.",
-    "link": "https://www.wsj.com/economy/federal-reserve-soft-landing-inflation-5dd00d29"
+    "headline": "Easier access to home loans and modular construction are among the options the House and Senate are weighing to battle high housing prices",
+    "link": "https://www.wsj.com/economy/housing/how-congress-plans-to-take-on-the-housing-crisis-76bf027c"
   },
   {
-    "score": 36,
+    "score": 33,
     "pubdate": "2026-02-15-05-50-08 +0000",
     "source": "nypost",
     "headline": "DOJ sends Congress list of names who appear in Jeffrey Epstein files, defends redactions in 6-page letter",
@@ -64,9 +64,9 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-02-15-02-41-20 +0000",
-    "source": "nypost",
-    "headline": "California dreamin’ migrants better off in front of SF judges than LA ones",
-    "link": "https://nypost.com/2026/02/14/us-news/big-gap-in-california-immigration-asylum-cases-in-la-sf/"
+    "pubdate": "2026-02-15-08-26-54 +0000",
+    "source": "bbc",
+    "headline": "Russian 'pick-up artist' accused of secretly filming women in Ghana",
+    "link": "https://www.bbc.com/news/articles/c9wn5p299eko?at_medium=RSS&at_campaign=rss"
   }
 ]
