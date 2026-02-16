@@ -1,52 +1,38 @@
 [
   {
     "score": 87,
-    "pubdate": "2026-02-16-05-39-01 +0000",
-    "source": "bbc",
-    "headline": "Trump's new world order has become real and Europe is having to adjust fast",
-    "link": "https://www.bbc.com/news/articles/cddn002g6qzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 54,
     "pubdate": "2026-02-16-00-22-00 +0000",
     "source": "wsj",
     "headline": "The U.S. military airlifted on Sunday a miniature nuclear reactor for the first time as part of President Trump’s push to deploy nuclear power across the United States",
     "link": "https://www.wsj.com/politics/national-security/u-s-military-airlifts-mini-nuclear-reactor-in-first-ever-flight-ee037c9d"
   },
   {
-    "score": 53,
-    "pubdate": "2026-02-15-13-09-02 +0000",
-    "source": "nyt",
-    "headline": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
-    "link": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html"
-  },
-  {
-    "score": 49,
+    "score": 66,
     "pubdate": "2026-02-16-01-20-14 +0000",
     "source": "nypost",
     "headline": "Savannah Guthrie tells mom Nancy’s kidnapper ‘it’s never too late to do the right thing’ in new video appeal 2 weeks since disappearance",
     "link": "https://nypost.com/2026/02/15/us-news/savannah-guthrie-tells-mom-nancys-kidnapper-its-never-too-late-to-do-the-right-thing-in-new-video-appeal-2-weeks-since-disappearance/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-02-15-13-00-00 +0000",
+    "score": 45,
+    "pubdate": "2026-02-15-13-39-00 +0000",
     "source": "wsj",
-    "headline": "Easier access to home loans and modular construction are among the options the House and Senate are weighing to battle high housing prices",
-    "link": "https://www.wsj.com/economy/housing/how-congress-plans-to-take-on-the-housing-crisis-76bf027c"
+    "headline": "While the main focus of the Munich Security Conference was on the alliance, top leaders from Europe wanted to know from U.S. politicians what they thought of the coming midterm elections",
+    "link": "https://www.wsj.com/politics/policy/europeans-quietly-press-u-s-lawmakers-for-clues-on-the-midterms-b21a4e24"
   },
   {
     "score": 37,
-    "pubdate": "2026-02-16-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "So it turns out that Congress may have actually waived many of the tax code’s filing and payment deadlines for three and a half years during the pandemic. The fallout is just starting.",
-    "link": "https://www.wsj.com/politics/policy/tax-deadline-waiver-changes-ab456be5"
-  },
-  {
-    "score": 35,
     "pubdate": "2026-02-16-09-50-58 +0000",
     "source": "bbc",
     "headline": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
     "link": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-02-16-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "So it turns out that Congress may have actually waived many of the tax code’s filing and payment deadlines for three and a half years during the pandemic. The fallout is just starting.",
+    "link": "https://www.wsj.com/politics/policy/tax-deadline-waiver-changes-ab456be5"
   },
   {
     "score": 35,
@@ -56,17 +42,31 @@
     "link": "https://nypost.com/2026/02/15/us-news/la-cops-blast-californias-soft-dui-laws/"
   },
   {
-    "score": 33,
-    "pubdate": "2026-02-15-13-39-00 +0000",
+    "score": 32,
+    "pubdate": "2026-02-15-17-00-00 +0000",
     "source": "wsj",
-    "headline": "While the main focus of the Munich Security Conference was on the alliance, top leaders from Europe wanted to know from U.S. politicians what they thought of the coming midterm elections",
-    "link": "https://www.wsj.com/politics/policy/europeans-quietly-press-u-s-lawmakers-for-clues-on-the-midterms-b21a4e24"
+    "headline": "Workers Are Afraid AI Will Take Their Jobs. They’re Missing the Bigger Danger.",
+    "link": "https://www.wsj.com/lifestyle/careers/ai-knowledge-capture-employees-a69a0e1c?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 31,
-    "pubdate": "2026-02-16-10-23-02 +0000",
+    "pubdate": "2026-02-15-13-35-26 +0000",
     "source": "bbc",
-    "headline": "ByteDance to curb AI video app after Disney legal threat",
-    "link": "https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss"
+    "headline": "Hundreds of thousands join Iran protests around the world",
+    "link": "https://www.bbc.com/news/articles/czr0lykl4g4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-02-16-00-33-26 +0000",
+    "source": "nypost",
+    "headline": "Daughters of Irishman held by ICE say father abandoned them and should return to face drug charges: report",
+    "link": "https://nypost.com/2026/02/15/us-news/daughters-of-irishman-held-by-ice-say-father-abandoned-them-and-should-return-to-face-drug-charges-report/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-02-15-17-11-49 +0000",
+    "source": "bbc",
+    "headline": "Ukraine's ex-energy minister detained while attempting to leave country",
+    "link": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss"
   }
 ]
