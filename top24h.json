@@ -1,10 +1,17 @@
 [
   {
-    "score": 62,
+    "score": 63,
     "pubdate": "2026-02-16-00-22-00 +0000",
     "source": "wsj",
     "headline": "The U.S. military airlifted on Sunday a miniature nuclear reactor for the first time as part of President Trump’s push to deploy nuclear power across the United States",
     "link": "https://www.wsj.com/politics/national-security/u-s-military-airlifts-mini-nuclear-reactor-in-first-ever-flight-ee037c9d"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-02-16-01-20-14 +0000",
+    "source": "nypost",
+    "headline": "Savannah Guthrie tells mom Nancy’s kidnapper ‘it’s never too late to do the right thing’ in new video appeal 2 weeks since disappearance",
+    "link": "https://nypost.com/2026/02/15/us-news/savannah-guthrie-tells-mom-nancys-kidnapper-its-never-too-late-to-do-the-right-thing-in-new-video-appeal-2-weeks-since-disappearance/"
   },
   {
     "score": 52,
@@ -12,13 +19,6 @@
     "source": "nyt",
     "headline": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
     "link": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-02-16-01-20-14 +0000",
-    "source": "nypost",
-    "headline": "Savannah Guthrie tells mom Nancy’s kidnapper ‘it’s never too late to do the right thing’ in new video appeal 2 weeks since disappearance",
-    "link": "https://nypost.com/2026/02/15/us-news/savannah-guthrie-tells-mom-nancys-kidnapper-its-never-too-late-to-do-the-right-thing-in-new-video-appeal-2-weeks-since-disappearance/"
   },
   {
     "score": 41,
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/economy/housing/how-congress-plans-to-take-on-the-housing-crisis-76bf027c"
   },
   {
-    "score": 34,
+    "score": 35,
     "pubdate": "2026-02-16-02-09-22 +0000",
     "source": "nypost",
     "headline": "Cops, grieving parents, blast California’s soft drunk driving laws, LA lawmakers after horror crashes",
@@ -43,6 +43,20 @@
   },
   {
     "score": 30,
+    "pubdate": "2026-02-15-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "Workers Are Afraid AI Will Take Their Jobs. They’re Missing the Bigger Danger.",
+    "link": "https://www.wsj.com/lifestyle/careers/ai-knowledge-capture-employees-a69a0e1c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-02-15-19-32-22 +0000",
+    "source": "nypost",
+    "headline": "Kim Jong-Un’s 13-year-old heiress could face deadly succession fight from her own ruthless aunt",
+    "link": "https://nypost.com/2026/02/15/world-news/kim-jong-uns-successor-kim-ju-ae-face-ruthless-battle-against-aunt/"
+  },
+  {
+    "score": 29,
     "pubdate": "2026-02-16-02-33-15 +0000",
     "source": "nypost",
     "headline": "Radical SoCal group sets next anti-ICE ‘mass meeting’ as White House slams ‘far-left’ orgs that target law enforcement",
@@ -50,23 +64,9 @@
   },
   {
     "score": 29,
-    "pubdate": "2026-02-15-13-08-14 +0000",
-    "source": "nyt",
-    "headline": "Gisèle Pelicot, the Woman at the Center of Rape Trial That Shook France, Shares Her Story",
-    "link": "https://www.nytimes.com/2026/02/13/magazine/gisele-pelicot-france-rape-case-story.html"
-  },
-  {
-    "score": 28,
     "pubdate": "2026-02-15-21-32-23 +0000",
     "source": "bbc",
     "headline": "US attorney general criticised after saying all Epstein files have been released",
     "link": "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-02-15-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Ottawa sees 'huge opportunity' as trade delegation heads to Mexico, says cabinet minister",
-    "link": "https://www.cbc.ca/news/politics/trade-canada-mexico-9.7089835?cmp=rss"
   }
 ]
