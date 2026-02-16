@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Small plane crashes in Ventura County as two pulled from wreckage",
+    "link": "https://nypost.com/2026/02/15/us-news/small-plane-crashes-in-ventura-county-injuring-two/",
+    "source": "nypost",
+    "pubdate": "2026-02-16-03-44-28 +0000"
+  },
+  {
+    "headline": "Kennedy Promises Action, Though Not Regulation, on Ultraprocessed Foods",
+    "link": "https://www.nytimes.com/2026/02/15/us/politics/kennedy-health-ultraprocessed-foods.html",
+    "source": "nyt",
+    "pubdate": "2026-02-16-03-17-29 +0000"
+  },
+  {
+    "headline": "Kennedy Promises Action, Though Not Regulation, on Ultraprocessed Foods",
+    "link": "https://www.nytimes.com/2026/02/15/us/politics/kennedy-health-ultraprocessed-foods.html",
+    "source": "nyt",
+    "pubdate": "2026-02-16-03-17-29 +0000"
+  },
+  {
+    "headline": "The Break Is Over. Companies Are Jacking Up Prices Again.",
+    "link": "https://www.wsj.com/business/price-increases-consumers-businesses-b70e4542?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-16-03-00-00 +0000"
+  },
+  {
+    "headline": "A Defector Explains the Remote-Work Scam Helping North Korea Pay for Nukes",
+    "link": "https://www.wsj.com/world/asia/a-defector-explains-the-remote-work-scam-helping-north-korea-pay-for-nukes-277fc94f",
+    "source": "wsj",
+    "pubdate": "2026-02-16-03-00-00 +0000"
+  },
+  {
+    "headline": "The latest: More than 1,000 federal agents have already left Minnesota, says border czar",
+    "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
+    "source": "startribune",
+    "pubdate": "2026-02-16-02-51-17 +0000"
+  },
+  {
+    "headline": "Anthony Edwards claims MVP award, leads Stars to tourney win in an entertaining NBA All-Star Game",
+    "link": "https://www.startribune.com/scottie-barnes-ot-3-pointer-sends-stars-past-world-in-the-first-clash-at-the-nba-all-star-game/601583062",
+    "source": "startribune",
+    "pubdate": "2026-02-16-02-51-01 +0000"
+  },
+  {
     "headline": "Syrians warm up to US and Israel under new regime, poll finds",
     "link": "https://nypost.com/2026/02/15/world-news/syrians-warm-up-to-us-and-israel-under-new-regime-poll-finds/",
     "source": "nypost",
@@ -18,7 +60,7 @@
     "pubdate": "2026-02-16-02-43-00 +0000"
   },
   {
-    "headline": "Pennsylvania father allegedly stabbed 3-month-old son, threw him in the snow as part of ‘sacrifice’",
+    "headline": "‘Quiet’ Pennsylvania father allegedly stabbed 3-month-old son, threw him in the snow as part of ‘sacrifice’",
     "link": "https://nypost.com/2026/02/15/us-news/pennsylvania-father-allegedly-stabbed-3-month-old-son-threw-him-in-the-snow-as-part-of-sacrifice/",
     "source": "nypost",
     "pubdate": "2026-02-16-02-42-09 +0000"
@@ -42,7 +84,7 @@
     "pubdate": "2026-02-16-02-20-21 +0000"
   },
   {
-    "headline": "The latest from Fort Myers: Updates from Minnesota Twins spring training",
+    "headline": "Latest from Twins spring training: The first home run of February, and Byron Buxton on Team USA",
     "link": "https://www.startribune.com/live-blog-minnesota-twins-spring-training-buxton-ryan-zoll-shelton-fort-myers/601578136",
     "source": "startribune",
     "pubdate": "2026-02-16-02-10-01 +0000"
@@ -88,6 +130,12 @@
     "link": "https://48hills.org/2026/02/how-lurie-bungled-the-teachers-strike/",
     "source": "48hills",
     "pubdate": "2026-02-16-01-48-08 +0000"
+  },
+  {
+    "headline": "Bedding firm backs down on 'Swift Home' trademark after Taylor Swift appeal",
+    "link": "https://www.bbc.com/news/articles/crm87109l3wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-16-01-44-55 +0000"
   },
   {
     "headline": "The £10 tricks I used to make my rented room into a home",
@@ -172,18 +220,6 @@
     "link": "https://www.nytimes.com/2026/02/15/us/politics/homeland-security-shutdown.html",
     "source": "nyt",
     "pubdate": "2026-02-16-00-47-39 +0000"
-  },
-  {
-    "headline": "Kennedy Promises Action, Though Not Regulation, on Ultraprocessed Foods",
-    "link": "https://www.nytimes.com/2026/02/15/us/politics/kennedy-health-ultraprocessed-foods.html",
-    "source": "nyt",
-    "pubdate": "2026-02-16-00-40-21 +0000"
-  },
-  {
-    "headline": "Kennedy Promises Action, Though Not Regulation, on Ultraprocessed Foods",
-    "link": "https://www.nytimes.com/2026/02/15/us/politics/kennedy-health-ultraprocessed-foods.html",
-    "source": "nyt",
-    "pubdate": "2026-02-16-00-40-21 +0000"
   },
   {
     "headline": "Daughters of Irishman held by ICE say father abandoned them and should return to face drug charges: report",
@@ -303,13 +339,13 @@
     "headline": "Iran Protester Dies in Custody, Raising Fears of Execution",
     "link": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html",
     "source": "nyt",
-    "pubdate": "2026-02-15-23-22-55 +0000"
+    "pubdate": "2026-02-15-23-22-56 +0000"
   },
   {
     "headline": "Iran Protester Dies in Custody, Raising Fears of Execution",
     "link": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html",
     "source": "nyt",
-    "pubdate": "2026-02-15-23-22-55 +0000"
+    "pubdate": "2026-02-15-23-22-56 +0000"
   },
   {
     "headline": "Australian activist says ‘Billie Eilish got me deported’ for his LA mansion stunt after singer’s ICE rant",
@@ -339,19 +375,19 @@
     "headline": "In Munich, Lawmakers Concede Scars Remain After Trump’s Greenland Threat",
     "link": "https://www.nytimes.com/2026/02/15/us/politics/munich-democrats-cortez-greenland-trump.html",
     "source": "nyt",
-    "pubdate": "2026-02-15-22-48-47 +0000"
+    "pubdate": "2026-02-15-22-48-48 +0000"
   },
   {
     "headline": "In Munich, Lawmakers Concede Scars Remain After Trump’s Greenland Threat",
     "link": "https://www.nytimes.com/2026/02/15/us/politics/munich-democrats-cortez-greenland-trump.html",
     "source": "nyt",
-    "pubdate": "2026-02-15-22-48-47 +0000"
+    "pubdate": "2026-02-15-22-48-48 +0000"
   },
   {
     "headline": "In Munich, Lawmakers Concede Scars Remain After Trump’s Greenland Threat",
     "link": "https://www.nytimes.com/2026/02/15/us/politics/munich-democrats-cortez-greenland-trump.html",
     "source": "nyt",
-    "pubdate": "2026-02-15-22-48-47 +0000"
+    "pubdate": "2026-02-15-22-48-48 +0000"
   },
   {
     "headline": "No free pass for internet platforms on child safety, Starmer says",
@@ -376,12 +412,6 @@
     "link": "https://nypost.com/2026/02/15/us-news/flames-tear-through-nyc-apt-leaving-3-injured-including-two-bravest/",
     "source": "nypost",
     "pubdate": "2026-02-15-22-30-18 +0000"
-  },
-  {
-    "headline": "$525K flag that covered Abraham Lincoln’s casket finds home — in NYC steakhouse",
-    "link": "https://nypost.com/2026/02/15/us-news/525k-flag-that-covered-abraham-lincolns-casket-finds-home-in-nyc-steakhouse/",
-    "source": "nypost",
-    "pubdate": "2026-02-15-22-28-49 +0000"
   },
   {
     "headline": "What we know about the abduction of Savannah Guthrie's mother",
@@ -600,12 +630,6 @@
     "pubdate": "2026-02-15-18-46-28 +0000"
   },
   {
-    "headline": "Live: More than 1,000 federal agents have already left Minnesota, says border czar",
-    "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
-    "source": "startribune",
-    "pubdate": "2026-02-15-18-46-12 +0000"
-  },
-  {
     "headline": "Eleven killed in Israeli strikes on Gaza, rescuers say",
     "link": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -723,13 +747,13 @@
     "headline": "Republican State Legislators Rush to Limit Their Own Regulators",
     "link": "https://www.nytimes.com/2026/02/15/us/politics/states-deregulation.html",
     "source": "nyt",
-    "pubdate": "2026-02-15-16-35-22 +0000"
+    "pubdate": "2026-02-15-16-35-23 +0000"
   },
   {
     "headline": "Republican State Legislators Rush to Limit Their Own Regulators",
     "link": "https://www.nytimes.com/2026/02/15/us/politics/states-deregulation.html",
     "source": "nyt",
-    "pubdate": "2026-02-15-16-35-22 +0000"
+    "pubdate": "2026-02-15-16-35-23 +0000"
   },
   {
     "headline": "Grab a free pass to see new movie ‘Midwinter Break’",
@@ -1014,12 +1038,6 @@
     "pubdate": "2026-02-15-12-00-00 +0000"
   },
   {
-    "headline": "Filings recount ‘out of control’ ICE agents at height of surge",
-    "link": "https://www.startribune.com/minneapolis-protest-ice-aclu-court-filings-operation-metro-surge-on-the-ground-minnesota/601582605",
-    "source": "startribune",
-    "pubdate": "2026-02-15-12-00-00 +0000"
-  },
-  {
     "headline": "Why Winter in the U.S. Is Crazy This Year, in Five Charts",
     "link": "https://www.wsj.com/us-news/climate-environment/winter-snow-temperatures-extreme-unusual-east-west-ski-c9fd6569",
     "source": "wsj",
@@ -1252,59 +1270,5 @@
     "link": "https://www.wsj.com/world/china/china-watchers-are-trying-to-spot-the-next-target-of-xis-purges-04076b82",
     "source": "wsj",
     "pubdate": "2026-02-15-04-00-00 +0000"
-  },
-  {
-    "headline": "T.S.A. Workers Brace for Another Shutdown They Didn’t Cause",
-    "link": "https://www.nytimes.com/2026/02/14/us/politics/tsa-homeland-security-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2026-02-15-03-27-43 +0000"
-  },
-  {
-    "headline": "T.S.A. Workers Brace for Another Shutdown They Didn’t Cause",
-    "link": "https://www.nytimes.com/2026/02/14/us/politics/tsa-homeland-security-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2026-02-15-03-27-43 +0000"
-  },
-  {
-    "headline": "T.S.A. Workers Brace for Another Shutdown They Didn’t Cause",
-    "link": "https://www.nytimes.com/2026/02/14/us/politics/tsa-homeland-security-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2026-02-15-03-27-43 +0000"
-  },
-  {
-    "headline": "Estranged husband suspected in wife's killing in San Juan Capistrano",
-    "link": "https://www.latimes.com/lifestyle/story/2026-02-14/estranged-husband-suspected-in-wifes-killing-in-san-juan-capistrano",
-    "source": "latimes",
-    "pubdate": "2026-02-15-03-25-51 +0000"
-  },
-  {
-    "headline": "NJ man runs 7 marathons on 7 continents in 7 days for St. Jude’s cancer kids",
-    "link": "https://nypost.com/2026/02/14/us-news/man-runs-7-marathons-on-7-continents-in-7-days-for-st-judes-kids/",
-    "source": "nypost",
-    "pubdate": "2026-02-15-03-17-42 +0000"
-  },
-  {
-    "headline": "In Munich, Rubio Stresses Shared History to Europeans but Warns of ‘Civilizational Erasure’",
-    "link": "https://www.nytimes.com/2026/02/14/world/europe/rubio-munich-security-conference-speech.html",
-    "source": "nyt",
-    "pubdate": "2026-02-15-03-16-43 +0000"
-  },
-  {
-    "headline": "In Munich, Rubio Stresses Shared History to Europeans but Warns of ‘Civilizational Erasure’",
-    "link": "https://www.nytimes.com/2026/02/14/world/europe/rubio-munich-security-conference-speech.html",
-    "source": "nyt",
-    "pubdate": "2026-02-15-03-16-43 +0000"
-  },
-  {
-    "headline": "Roger Goodell thinks his reckless NFL antics will come without consequence — just see Bad Bunny",
-    "link": "https://nypost.com/2026/02/14/business/roger-goodell-thinks-his-reckless-nfl-antics-will-come-without-consequence-just-see-bad-bunny/",
-    "source": "nypost",
-    "pubdate": "2026-02-15-03-15-20 +0000"
-  },
-  {
-    "headline": "On the Ground With Crews Battling to Keep the Lights On in Ukraine",
-    "link": "https://www.wsj.com/world/on-the-ground-with-crews-battling-to-keep-the-lights-on-in-ukraine-9b2abe5d",
-    "source": "wsj",
-    "pubdate": "2026-02-15-03-00-00 +0000"
   }
 ]
