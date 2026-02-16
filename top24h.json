@@ -1,6 +1,6 @@
 [
   {
-    "score": 87,
+    "score": 84,
     "pubdate": "2026-02-16-00-22-00 +0000",
     "source": "wsj",
     "headline": "The U.S. military airlifted on Sunday a miniature nuclear reactor for the first time as part of President Trump’s push to deploy nuclear power across the United States",
@@ -28,7 +28,7 @@
     "link": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
+    "score": 36,
     "pubdate": "2026-02-16-10-00-00 +0000",
     "source": "wsj",
     "headline": "So it turns out that Congress may have actually waived many of the tax code’s filing and payment deadlines for three and a half years during the pandemic. The fallout is just starting.",
@@ -42,14 +42,7 @@
     "link": "https://nypost.com/2026/02/15/us-news/la-cops-blast-californias-soft-dui-laws/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-02-16-02-33-15 +0000",
-    "source": "nypost",
-    "headline": "Radical SoCal group sets next anti-ICE ‘mass meeting’ as White House slams ‘far-left’ orgs that target law enforcement",
-    "link": "https://nypost.com/2026/02/15/us-news/radical-socal-group-sets-next-anti-ice-mass-meeting-as-white-house-slams-far-left-orgs-that-target-law-enforcement/"
-  },
-  {
-    "score": 33,
+    "score": 32,
     "pubdate": "2026-02-16-05-39-01 +0000",
     "source": "bbc",
     "headline": "Trump's new world order has become real and Europe is having to adjust fast",
@@ -57,16 +50,23 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-02-15-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "Workers Are Afraid AI Will Take Their Jobs. They’re Missing the Bigger Danger.",
-    "link": "https://www.wsj.com/lifestyle/careers/ai-knowledge-capture-employees-a69a0e1c?mod=pls_whats_news_us_business_f"
+    "pubdate": "2026-02-16-10-23-02 +0000",
+    "source": "bbc",
+    "headline": "ByteDance to curb AI video app after Disney legal threat",
+    "link": "https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 31,
-    "pubdate": "2026-02-16-15-02-21 +0000",
+    "score": 32,
+    "pubdate": "2026-02-16-02-33-15 +0000",
     "source": "nypost",
-    "headline": "Iran diplomat claims ‘we are ready to discuss’ nuclear program if US is prepared to ease sanctions",
-    "link": "https://nypost.com/2026/02/16/us-news/iran-diplomat-claims-we-are-ready-to-discuss-nuclear-program-if-us-is-prepared-to-ease-sanctions/"
+    "headline": "Radical SoCal group sets next anti-ICE ‘mass meeting’ as White House slams ‘far-left’ orgs that target law enforcement",
+    "link": "https://nypost.com/2026/02/15/us-news/radical-socal-group-sets-next-anti-ice-mass-meeting-as-white-house-slams-far-left-orgs-that-target-law-enforcement/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-02-15-23-22-56 +0000",
+    "source": "nyt",
+    "headline": "Iran Protester Dies in Custody, Raising Fears of Execution",
+    "link": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html"
   }
 ]
