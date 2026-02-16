@@ -1,6 +1,6 @@
 [
   {
-    "score": 90,
+    "score": 86,
     "pubdate": "2026-02-16-00-22-00 +0000",
     "source": "wsj",
     "headline": "The U.S. military airlifted on Sunday a miniature nuclear reactor for the first time as part of President Trump’s push to deploy nuclear power across the United States",
@@ -57,16 +57,16 @@
   },
   {
     "score": 31,
-    "pubdate": "2026-02-16-15-02-21 +0000",
-    "source": "nypost",
-    "headline": "Iran diplomat claims ‘we are ready to discuss’ nuclear program if US is prepared to ease sanctions",
-    "link": "https://nypost.com/2026/02/16/us-news/iran-diplomat-claims-we-are-ready-to-discuss-nuclear-program-if-us-is-prepared-to-ease-sanctions/"
-  },
-  {
-    "score": 31,
     "pubdate": "2026-02-16-16-09-24 +0000",
     "source": "nyt",
     "headline": "How the H-1B Visa Debate Is Driving a Wave of Racism Against South Asians",
     "link": "https://www.nytimes.com/2026/02/16/us/politics/h1b-visa-debate-racism-south-asians.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-02-16-15-02-21 +0000",
+    "source": "nypost",
+    "headline": "Iran diplomat claims ‘we are ready to discuss’ nuclear program if US is prepared to ease sanctions",
+    "link": "https://nypost.com/2026/02/16/us-news/iran-diplomat-claims-we-are-ready-to-discuss-nuclear-program-if-us-is-prepared-to-ease-sanctions/"
   }
 ]
