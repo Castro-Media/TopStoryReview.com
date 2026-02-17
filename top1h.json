@@ -1,52 +1,10 @@
 [
   {
-    "score": 33,
-    "pubdate": "2026-02-17-18-23-29 +0000",
-    "source": "nyt",
-    "headline": "Al Sharpton, Bernice King and Trump Among Tributes to Jesse Jackson",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-tributes-al-sharpton-hakeem-jeffries.html"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-02-17-18-20-20 +0000",
-    "source": "nyt",
-    "headline": "Spain to Investigate Social Media Giants, Escalating Trans-Atlantic Tech Dispute",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/spain-investigate-social-media.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-02-17-18-55-48 +0000",
-    "source": "bbc",
-    "headline": "First day of Russia-Ukraine peace talks ends in Geneva",
-    "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 16,
     "pubdate": "2026-02-17-19-02-00 +0000",
     "source": "wsj",
     "headline": "Bayer Proposes New $7 Billion Plan to Settle Roundup Litigation",
-    "link": "https://www.wsj.com/business/bayer-proposes-new-7-billion-plan-to-settle-roundup-litigation-079628a2"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-02-17-18-19-45 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-02-17-18-52-49 +0000",
-    "source": "nyt",
-    "headline": "Jackson’s ‘Keep Hope Alive’ Speech in 1988 Was a Call for Social Justice and Unity",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-keep-hope-alive-speech.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-02-17-19-04-56 +0000",
-    "source": "startribune",
-    "headline": "Live: Walz pays tribute to Melissa Hortman as lawmakers mourn slain leader",
-    "link": "https://www.startribune.com/minnesota-legislature-2026-session/601581261"
+    "link": "https://www.wsj.com/business/bayer-proposes-new-7-billion-plan-to-settle-roundup-litigation-079628a2?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 13,
@@ -63,10 +21,52 @@
     "link": "https://nypost.com/2026/02/17/us-news/viral-photo-of-sexy-la-cop-sends-hearts-racing/"
   },
   {
-    "score": 10,
-    "pubdate": "2026-02-17-19-00-49 +0000",
+    "score": 12,
+    "pubdate": "2026-02-17-19-03-34 +0000",
     "source": "nyt",
-    "headline": "In Africa, Jesse Jackson Was Esteemed for His Fight Against Apartheid",
-    "link": "https://www.nytimes.com/2026/02/17/world/africa/jesse-jackson-south-africa-apartheid.html"
+    "headline": "Trump’s ‘Board of Peace’ Presses Hamas on Disarmament, Officials Say",
+    "link": "https://www.nytimes.com/2026/02/17/world/middleeast/israel-hamas-board-of-peace-disarmament.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-17-19-04-56 +0000",
+    "source": "startribune",
+    "headline": "Live: Walz pays tribute to Melissa Hortman as lawmakers mourn slain leader",
+    "link": "https://www.startribune.com/minnesota-legislature-2026-session/601581261"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-17-19-09-59 +0000",
+    "source": "nypost",
+    "headline": "Mayor Bass doubles down on comments about LA28’s Casey Wasserman to resign",
+    "link": "https://nypost.com/2026/02/17/us-news/karen-bass-demands-casey-wasserman-step-down-from-la-olympics/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-17-19-08-57 +0000",
+    "source": "bbc",
+    "headline": "Shein under EU investigation over childlike sex dolls",
+    "link": "https://www.bbc.com/news/articles/cr7321n1n0eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-17-19-05-50 +0000",
+    "source": "nyt",
+    "headline": "Teacher Killed in Crash After Man Fled in Car From ICE, Police Say",
+    "link": "https://www.nytimes.com/2026/02/16/us/georgia-ice-car-crash-teacher-killed.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-17-19-11-49 +0000",
+    "source": "nyt",
+    "headline": "GQ Names Adam Baidawi as Its Top Editor",
+    "link": "https://www.nytimes.com/2026/02/17/business/media/gq-adam-baidawi-top-editor.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-17-19-03-34 +0000",
+    "source": "nyt",
+    "headline": "Trump’s ‘Board of Peace’ Presses Hamas on Disarmament, Officials Say",
+    "link": "https://www.nytimes.com/2026/02/17/world/middleeast/israel-hamas-board-of-peace-disarmament.html"
   }
 ]
