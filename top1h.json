@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-02-17-07-10-15 +0000",
+    "score": 16,
+    "pubdate": "2026-02-17-08-10-00 +0000",
+    "source": "wsj",
+    "headline": "Antofagasta Books Record Earnings, Driven by Higher Metal Prices",
+    "link": "https://www.wsj.com/business/earnings/antofagasta-books-record-earnings-driven-by-higher-metal-prices-fbff47b7?mod=rss_markets_main"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-17-09-07-48 +0000",
+    "source": "nypost",
+    "headline": "Trump says ‘this is a Democrat shutdown’ as he touts low inflation, falling murder rate",
+    "link": "https://nypost.com/2026/02/17/us-news/trump-says-this-is-a-democrat-shutdown-as-he-touts-low-inflation-falling-murder-rate/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-17-09-06-59 +0000",
     "source": "bbc",
-    "headline": "Calculator: How will freeze on tax thresholds hit your take-home pay?",
-    "link": "https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss"
+    "headline": "Long queues and confusion mar first day of India's landmark AI summit",
+    "link": "https://www.bbc.com/news/articles/ceqvjgrvpn3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-17-08-21-13 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Futures Fall; Nasdaq Contracts Lead Losses",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-17-2026?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-17-08-48-47 +0000",
+    "source": "bbc",
+    "headline": "Royal Mail given two weeks to respond to claims it is prioritising parcels",
+    "link": "https://www.bbc.com/news/articles/cm2xy9x27mvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-17-08-52-48 +0000",
+    "source": "bbc",
+    "headline": "Fake funeral suspects allegedly used hearse to smuggle charcoal in Malawi",
+    "link": "https://www.bbc.com/news/articles/cwygdq11jwlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-17-08-48-14 +0000",
+    "source": "bbc",
+    "headline": "Five young people die in Spain apartment block fire",
+    "link": "https://www.bbc.com/news/articles/c99jngpymyjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-17-09-01-46 +0000",
+    "source": "bbc",
+    "headline": "Councils face 'uphill struggle' to be ready for local elections",
+    "link": "https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-02-17-09-01-58 +0000",
+    "source": "bbc",
+    "headline": "UK unemployment hits highest rate for nearly five years",
+    "link": "https://www.bbc.com/news/articles/c1l7pedyzjeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-02-17-08-47-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Falls Below $5,000 in Thin Trade",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-possible-position-adjustments-before-u-s-iran-talks-656472ea?mod=rss_markets_main"
   }
 ]
