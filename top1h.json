@@ -1,30 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-02-17-17-10-47 +0000",
+    "score": 33,
+    "pubdate": "2026-02-17-18-23-29 +0000",
     "source": "nyt",
-    "headline": "Ed Crane, Who Built a Libertarian Stronghold, Dies at 81",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/ed-crane-dead.html"
+    "headline": "Al Sharpton, Bernice King and Trump Among Tributes to Jesse Jackson",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-tributes-al-sharpton-hakeem-jeffries.html"
   },
   {
-    "score": 9,
-    "pubdate": "2026-02-17-17-11-19 +0000",
+    "score": 23,
+    "pubdate": "2026-02-17-18-20-20 +0000",
     "source": "nyt",
-    "headline": "A Deadly Medieval Path in England Claims a Modern Victim: An Amazon Van",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/broomway-england-amazon-van.html"
+    "headline": "Spain to Investigate Social Media Giants, Escalating Trans-Atlantic Tech Dispute",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/spain-investigate-social-media.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-02-17-17-09-31 +0000",
-    "source": "cbc",
-    "headline": "Cucumber costs are skyrocketing in Russia, and so is anger over wartime prices",
-    "link": "https://www.cbc.ca/news/world/russia-cucumber-prices-9.7093697?cmp=rss"
+    "score": 22,
+    "pubdate": "2026-02-17-18-55-48 +0000",
+    "source": "bbc",
+    "headline": "First day of Russia-Ukraine peace talks ends in Geneva",
+    "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-02-17-17-10-47 +0000",
+    "score": 16,
+    "pubdate": "2026-02-17-19-02-00 +0000",
+    "source": "wsj",
+    "headline": "Bayer Proposes New $7 Billion Plan to Settle Roundup Litigation",
+    "link": "https://www.wsj.com/business/bayer-proposes-new-7-billion-plan-to-settle-roundup-litigation-079628a2"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-17-18-19-45 +0000",
     "source": "nyt",
-    "headline": "Ed Crane, Who Built a Libertarian Stronghold, Dies at 81",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/ed-crane-dead.html"
+    "headline": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-17-18-52-49 +0000",
+    "source": "nyt",
+    "headline": "Jackson’s ‘Keep Hope Alive’ Speech in 1988 Was a Call for Social Justice and Unity",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-keep-hope-alive-speech.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-17-19-04-56 +0000",
+    "source": "startribune",
+    "headline": "Live: Walz pays tribute to Melissa Hortman as lawmakers mourn slain leader",
+    "link": "https://www.startribune.com/minnesota-legislature-2026-session/601581261"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-17-19-11-06 +0000",
+    "source": "nypost",
+    "headline": "NY GOP governor contender Bruce Blakeman rips Kathy Hochul for $1.5B Zohran Mamdani budget ‘bailout’",
+    "link": "https://nypost.com/2026/02/17/us-news/bruce-blakeman-rips-ny-gov-kathy-hochul-for-1-5b-zohran-mamdani-budget-bailout/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-17-19-10-51 +0000",
+    "source": "nypost",
+    "headline": "Viral photo of ‘sexy’ LA cop sends hearts racing: ‘Please come arrest me’",
+    "link": "https://nypost.com/2026/02/17/us-news/viral-photo-of-sexy-la-cop-sends-hearts-racing/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-17-19-00-49 +0000",
+    "source": "nyt",
+    "headline": "In Africa, Jesse Jackson Was Esteemed for His Fight Against Apartheid",
+    "link": "https://www.nytimes.com/2026/02/17/world/africa/jesse-jackson-south-africa-apartheid.html"
   }
 ]
