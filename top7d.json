@@ -1,20 +1,20 @@
 [
   {
-    "score": 260,
+    "score": 259,
     "pubdate": "2026-02-18-00-48-22 +0000",
     "source": "bbc",
     "headline": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
     "link": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 172,
+    "score": 168,
     "pubdate": "2026-02-18-00-23-43 +0000",
     "source": "bbc",
     "headline": "'He did it for us': US soldier recalls Jesse Jackson's efforts to free him and two other POWs",
     "link": "https://www.bbc.com/news/articles/cwykn2endnyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 150,
+    "score": 155,
     "pubdate": "2026-02-17-21-36-00 +0000",
     "source": "wsj",
     "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
@@ -22,38 +22,45 @@
   },
   {
     "score": 126,
-    "pubdate": "2026-02-17-16-02-41 +0000",
-    "source": "nypost",
-    "headline": "Iran, US agree on ‘guiding principles’ of nuclear deal, as Vance says dismantling atomic program among ‘red lines’",
-    "link": "https://nypost.com/2026/02/17/world-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says/"
+    "pubdate": "2026-02-17-18-11-11 +0000",
+    "source": "wapo",
+    "headline": "Amid threat of U.S. attack, Iran nuclear talks proceed without breakthrough",
+    "link": "https://www.washingtonpost.com/world/2026/02/17/iran-talks-geneva-nuclear-trump/"
   },
   {
-    "score": 116,
-    "pubdate": "2026-02-17-12-51-03 +0000",
-    "source": "nypost",
-    "headline": "Warner Bros. Discovery will restart talks with Paramount — potentially setting up a bidding war with Netflix",
-    "link": "https://nypost.com/2026/02/17/business/warner-bros-discovery-will-restart-talks-with-paramount-potentially-setting-up-a-bidding-war-with-netflix/"
-  },
-  {
-    "score": 111,
+    "score": 112,
     "pubdate": "2026-02-14-12-00-00 +0000",
     "source": "latimes",
     "headline": "Lopez: In 50-year fight to protect California's coast, they're the real McCoys, still at it in their 80s",
     "link": "https://www.latimes.com/california/story/2026-02-14/in-50-year-fight-to-protect-californias-coast-theyre-still-at-it-in-their-80s"
   },
   {
+    "score": 110,
+    "pubdate": "2026-02-11-18-56-22 +0000",
+    "source": "latimes",
+    "headline": "Warner Bros. Discovery board faces pressure as activist investor threatens to vote no on Netflix deal",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-11/warner-bros-discovery-activist-investor-ancora-opposes-netflix-deal"
+  },
+  {
     "score": 105,
+    "pubdate": "2026-02-16-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
+    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
+  },
+  {
+    "score": 102,
     "pubdate": "2026-02-18-04-50-10 +0000",
     "source": "bbc",
     "headline": "Suspect in Rhode Island ice hockey shooting killed ex-wife and son",
     "link": "https://www.bbc.com/news/articles/cy4wvk9vn40o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 96,
-    "pubdate": "2026-02-16-17-00-00 +0000",
+    "score": 95,
+    "pubdate": "2026-02-11-23-49-00 +0000",
     "source": "wsj",
-    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
-    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
+    "headline": "The Republican-led House passed legislation that would tighten federal voter registration requirements, advancing one of the party’s longstanding election priorities over the objections of Democrats",
+    "link": "https://www.wsj.com/politics/elections/save-act-passes-house-vote-e8e549ae"
   },
   {
     "score": 95,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "So it turns out that Congress may have actually waived many of the tax code’s filing and payment deadlines for three and a half years during the pandemic. The fallout is just starting.",
     "link": "https://www.wsj.com/politics/policy/tax-deadline-waiver-changes-ab456be5"
-  },
-  {
-    "score": 92,
-    "pubdate": "2026-02-16-17-54-58 +0000",
-    "source": "nypost",
-    "headline": "French police raid Arab World Institute over former chief Jack Lang’s connections to Jeffrey Epstein",
-    "link": "https://nypost.com/2026/02/16/world-news/french-police-raid-arab-world-institute-over-former-chief-jack-langs-connections-to-jeffrey-epstein/"
   }
 ]
