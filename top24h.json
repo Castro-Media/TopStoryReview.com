@@ -1,31 +1,31 @@
 [
   {
     "score": 151,
-    "pubdate": "2026-02-17-09-48-00 +0000",
-    "source": "wsj",
-    "headline": "Jesse Jackson, the civil-rights activist and political leader, has died at 84. He was the first Black man to wage a nationwide presidential campaign.",
-    "link": "https://www.wsj.com/politics/jesse-jackson-civil-rights-leader-and-democratic-presidential-candidate-dies-59eb285b"
+    "pubdate": "2026-02-17-18-23-29 +0000",
+    "source": "nyt",
+    "headline": "Al Sharpton, Bernice King and Trump Among Tributes to Jesse Jackson",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-tributes-al-sharpton-hakeem-jeffries.html"
   },
   {
-    "score": 113,
+    "score": 97,
+    "pubdate": "2026-02-17-22-26-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. presented new data to buttress its recent allegation that China has secretly carried out low-yield nuclear tests, challenging Beijing’s insistence that it has observed an accord banning nuclear detonations",
+    "link": "https://www.wsj.com/politics/national-security/u-s-hardens-allegation-that-china-conducted-a-secret-nuclear-test-644a918a"
+  },
+  {
+    "score": 91,
     "pubdate": "2026-02-17-21-36-00 +0000",
     "source": "wsj",
     "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
     "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
   },
   {
-    "score": 96,
+    "score": 89,
     "pubdate": "2026-02-17-12-51-03 +0000",
     "source": "nypost",
     "headline": "Warner Bros. Discovery will restart talks with Paramount — potentially setting up a bidding war with Netflix",
     "link": "https://nypost.com/2026/02/17/business/warner-bros-discovery-will-restart-talks-with-paramount-potentially-setting-up-a-bidding-war-with-netflix/"
-  },
-  {
-    "score": 87,
-    "pubdate": "2026-02-17-22-26-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. presented new data to buttress its recent allegation that China has secretly carried out low-yield nuclear tests, challenging Beijing’s insistence that it has observed an accord banning nuclear detonations",
-    "link": "https://www.wsj.com/politics/national-security/u-s-hardens-allegation-that-china-conducted-a-secret-nuclear-test-644a918a"
   },
   {
     "score": 60,
@@ -35,38 +35,38 @@
     "link": "https://nypost.com/2026/02/17/world-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says/"
   },
   {
-    "score": 52,
+    "score": 55,
     "pubdate": "2026-02-17-17-49-41 +0000",
     "source": "nypost",
     "headline": "Stephen Colbert rips CBS for pulling interview with Trump critic James Talarico over regulatory concerns: ‘FCC you’",
     "link": "https://nypost.com/2026/02/17/media/colbert-rips-cbs-for-pulling-james-talarico-interview-over-regulatory-concerns/"
   },
   {
-    "score": 50,
-    "pubdate": "2026-02-17-20-52-07 +0000",
-    "source": "bbc",
-    "headline": "UK police force assessing Stansted Airport private flights over Epstein ties",
-    "link": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-02-17-16-07-32 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani unveils record $127B budget — fueled by proposed NYC property tax hike",
-    "link": "https://nypost.com/2026/02/17/us-news/zohran-mamdani-to-unveil-122b-budget-fueled-by-proposed-nyc-property-tax-hike/"
-  },
-  {
-    "score": 45,
+    "score": 53,
     "pubdate": "2026-02-17-20-05-13 +0000",
     "source": "bbc",
     "headline": "First day of Russia-Ukraine peace talks ends in Geneva",
     "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2026-02-17-22-32-09 +0000",
+    "score": 49,
+    "pubdate": "2026-02-17-20-52-07 +0000",
+    "source": "bbc",
+    "headline": "UK police force assessing Stansted Airport private flights over Epstein ties",
+    "link": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-02-18-01-01-28 +0000",
     "source": "nyt",
-    "headline": "Lunar New Year in Photos and Video: Revelers Welcome Year of the Horse",
-    "link": "https://www.nytimes.com/2026/02/17/world/asia/lunar-new-year-horse-celebrations.html"
+    "headline": "House Republican Faces Backlash to Islamophobic Post Suggesting He Prefers Dogs to Muslims",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/randy-fine-muslim-islamophobic-democrats.html"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-02-17-16-39-00 +0000",
+    "source": "wsj",
+    "headline": "There was a little less heat in Canadian consumer inflation to start the year than anticipated thanks to a sharp drop in prices at the pump",
+    "link": "https://www.wsj.com/economy/central-banking/canada-inflation-cools-slightly-in-january-e1a87b12"
   }
 ]
