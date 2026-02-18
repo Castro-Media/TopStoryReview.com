@@ -1,15 +1,351 @@
 [
   {
-    "headline": "Talks on Russia-Ukraine War Enter 2nd Day in Geneva",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
+    "headline": "Nine Skiers Still Missing After Lake Tahoe Avalanche",
+    "link": "https://www.nytimes.com/2026/02/18/us/lake-tahoe-avalanche-missing-skiers.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-11-05-49 +0000"
+    "pubdate": "2026-02-18-13-12-24 +0000"
+  },
+  {
+    "headline": "Whiteout conditions bring power outages, road and school closures in Minnesota’s Arrowhead region",
+    "link": "https://www.startribune.com/winter-storm-warning-minnesota-north/601583753",
+    "source": "startribune",
+    "pubdate": "2026-02-18-13-10-52 +0000"
+  },
+  {
+    "headline": "Turkey's president rejects Israel's recognition of Somaliland",
+    "link": "https://www.bbc.com/news/articles/c0lj0plkg09o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-13-10-03 +0000"
+  },
+  {
+    "headline": "China fireworks shop explosion kills 12 people amid Lunar New Year celebrations",
+    "link": "https://www.cbc.ca/news/world/china-fireworks-shop-people-killed-lunar-new-year-9.7095120?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-18-13-08-33 +0000"
+  },
+  {
+    "headline": "Harrowing photos show rescue of teen who plunged 50 feet on NYC bridge in TikTok stunt gone wrong",
+    "link": "https://nypost.com/2026/02/18/us-news/photos-of-teen-who-plunged-50-feet-in-tiktok-stunt-on-nyc-bridge/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-13-05-48 +0000"
+  },
+  {
+    "headline": "How Ellen of Ellen’s Stardust Diner stays in shape and on stage at 84 (trips to Nordstrom help)",
+    "link": "https://nypost.com/2026/02/18/health/how-ellen-of-ellens-stardust-diner-stays-in-shape-at-84/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-12-59-00 +0000"
+  },
+  {
+    "headline": "No sign of a breakthrough in Russia-Ukraine talks as latest round ends in Geneva",
+    "link": "https://www.cbc.ca/news/world/switzerland-russia-ukraine-us-war-talks-9.7095062?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-18-12-56-39 +0000"
+  },
+  {
+    "headline": "Stephen Colbert uses his show to roast CBS in feud over FCC rules",
+    "link": "https://www.washingtonpost.com/business/2026/02/18/colbert-james-talarico-fcc-segment-cbs/",
+    "source": "wapo",
+    "pubdate": "2026-02-18-12-55-57 +0000"
+  },
+  {
+    "headline": "Japan Wins Pairs Figure Skating, Knocking China From the Top",
+    "link": "https://www.nytimes.com/2026/02/16/world/japan-figure-skating-pairs-gold-medal.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-12-53-35 +0000"
+  },
+  {
+    "headline": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+    "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-12-53-21 +0000"
+  },
+  {
+    "headline": "Reform UK would reimpose two-child benefit cap",
+    "link": "https://www.bbc.com/news/articles/c5yrgp0pjlvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-12-52-46 +0000"
+  },
+  {
+    "headline": "Rescuers search for nine missing skiers after California avalanche",
+    "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-12-48-43 +0000"
+  },
+  {
+    "headline": "Rescuers search for nine missing skiers after California avalanche",
+    "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-12-48-43 +0000"
+  },
+  {
+    "headline": "Moody’s Posts Higher Profit, Revenue",
+    "link": "https://www.wsj.com/business/earnings/moodys-posts-higher-profit-revenue-e15aa280?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-18-12-47-00 +0000"
+  },
+  {
+    "headline": "Trans dad’s family describes ‘profound pain and loss’ after deadly ice rink shooting",
+    "link": "https://nypost.com/2026/02/18/us-news/trans-dads-family-describes-profound-pain-and-loss-after-deadly-ice-rink-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-12-44-25 +0000"
+  },
+  {
+    "headline": "Selling AI Software Isn’t as Easy as It Used to Be",
+    "link": "https://www.wsj.com/articles/selling-ai-software-isnt-as-easy-as-it-used-to-be-4933e401?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-18-12-44-00 +0000"
+  },
+  {
+    "headline": "Live: Jessie Diggins finishes fifth in the team sprint on high stakes day at the Olympics",
+    "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-39-36 +0000"
   },
   {
     "headline": "Talks on Russia-Ukraine War Enter 2nd Day in Geneva",
     "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-11-05-49 +0000"
+    "pubdate": "2026-02-18-12-32-04 +0000"
+  },
+  {
+    "headline": "Talks on Russia-Ukraine War Enter 2nd Day in Geneva",
+    "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-12-32-04 +0000"
+  },
+  {
+    "headline": "Gorton and Denton by-election candidates' minute manifestos",
+    "link": "https://www.bbc.com/news/articles/crkrpgvkd0no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-12-25-18 +0000"
+  },
+  {
+    "headline": "ECB President Christine Lagarde hasn’t made a decision on whether to serve out her full term, a spokesperson said",
+    "link": "https://www.wsj.com/articles/ecbs-lagarde-hasnt-taken-any-decision-on-term-spokesperson-says-e96cd80a",
+    "source": "wsj",
+    "pubdate": "2026-02-18-12-22-00 +0000"
+  },
+  {
+    "headline": "Fans swarm longtime East Village eatery to recreate JFK Jr., Carolyn Bessette’s first date from ‘Love Story’",
+    "link": "https://nypost.com/2026/02/18/us-news/fans-swarm-nyc-eatery-to-emulate-jfk-jr-carolyn-bessette/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-12-20-08 +0000"
+  },
+  {
+    "headline": "U.S. Futures Rise Ahead of Earnings with Tech Stocks Making Gains",
+    "link": "https://www.wsj.com/finance/investing/global-equities-push-higher-dollar-rises-on-u-s-iran-progress-bef415bb?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-12-19-00 +0000"
+  },
+  {
+    "headline": "At These Gaza Schools, ‘Peace Building’ Is Part of the Curriculum",
+    "link": "https://www.nytimes.com/2026/02/18/world/middleeast/gaza-schools-peace-curriculum.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-12-12-09 +0000"
+  },
+  {
+    "headline": "At These Gaza Schools, ‘Peace Building’ Is Part of the Curriculum",
+    "link": "https://www.nytimes.com/2026/02/18/world/middleeast/gaza-schools-peace-curriculum.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-12-12-09 +0000"
+  },
+  {
+    "headline": "Swinney was told of Murrell charges weeks before they became public",
+    "link": "https://www.bbc.com/news/articles/c1l7m4484g6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-12-09-34 +0000"
+  },
+  {
+    "headline": "Bryan Kohberger genetic expert says DNA can still help crack Nancy Guthrie case",
+    "link": "https://nypost.com/2026/02/18/us-news/bryan-kohberger-genetic-expert-says-dna-can-still-help-crack-nancy-guthrie-case/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-12-09-06 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Rise, Curve Continues to Steepen",
+    "link": "https://www.wsj.com/finance/investing/jgb-prices-mixed-amid-divergent-signals-deb048b6?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-12-03-00 +0000"
+  },
+  {
+    "headline": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
+    "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-12-00-05 +0000"
+  },
+  {
+    "headline": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
+    "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-12-00-05 +0000"
+  },
+  {
+    "headline": "Asylum seekers, who came to U.S. legally, navigate unexpected ICE detainments",
+    "link": "https://www.startribune.com/ice-crackdown-in-minnesota-hits-asylum-seekers/601571134",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-00-01 +0000"
+  },
+  {
+    "headline": "‘Please come back’: Minnesota restaurants brace for a long recovery after ICE surge",
+    "link": "https://www.startribune.com/please-come-back-minnesota-restaurants-brace-for-a-long-recovery-after-ice-surge/601572608",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-00-00 +0000"
+  },
+  {
+    "headline": "Minnesota released a report about social services fraud. Most of it is blacked out.",
+    "link": "https://www.startribune.com/minnesota-social-services-fraud-report-redacted/601583248",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-00-00 +0000"
+  },
+  {
+    "headline": "D.C. Republicans struggle to cut deal for ethanol expansion, risking wrath from farmers",
+    "link": "https://www.startribune.com/theres-still-not-a-deal-for-expansion-of-e-15-ethanol-which-could-become-an-issue-in-midterms/601577214",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-00-00 +0000"
+  },
+  {
+    "headline": "MPR meteorologist Paul Huttner reflects on his most memorable stories",
+    "link": "https://www.startribune.com/mpr-meteorologist-paul-huttner-reflects-on-his-most-memorable-stories/601581275",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-00-00 +0000"
+  },
+  {
+    "headline": "Meet K.J. Wilson, the next great Tartan guard who is leading Minnesota’s No. 1 boys hoops team",
+    "link": "https://www.startribune.com/tartans-chances-of-winning-mns-4a-boys-basketball-title-are-high/601581234",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-00-00 +0000"
+  },
+  {
+    "headline": "40+ fish-fry options at Twin Cities-area restaurants and churches",
+    "link": "https://www.startribune.com/40-fish-fry-options-at-twin-cities-area-restaurants-churches/601571732",
+    "source": "startribune",
+    "pubdate": "2026-02-18-12-00-00 +0000"
+  },
+  {
+    "headline": "3 years after fire, tenants long to return to Inner Sunset ‘spaghetti paradise’ apartment",
+    "link": "https://missionlocal.org/2026/02/sf-sunset-apartment-fire-eighth-avenue/",
+    "source": "missionlocal",
+    "pubdate": "2026-02-18-12-00-00 +0000"
+  },
+  {
+    "headline": "Stephen Colbert’s stinging criticism of President Trump, CBS and the FCC might shape how media companies approach November’s midterm elections. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/how-stephen-colbert-could-end-up-impacting-the-midterms-70911834",
+    "source": "wsj",
+    "pubdate": "2026-02-18-11-59-00 +0000"
+  },
+  {
+    "headline": "Are UK interest rates expected to fall soon?",
+    "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-50-32 +0000"
+  },
+  {
+    "headline": "Democrats Plan to Counter Trump’s State of the Union Speech With Rally",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/democrats-trump-congress.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-11-46-27 +0000"
+  },
+  {
+    "headline": "Democrats Plan to Counter Trump’s State of the Union Speech With Rally",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/democrats-trump-congress.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-11-46-27 +0000"
+  },
+  {
+    "headline": "Power Shift in Syria Upends an Archipelago for ISIS Prisoners",
+    "link": "https://www.nytimes.com/2026/02/18/world/middleeast/syria-prisons-isis.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-11-45-11 +0000"
+  },
+  {
+    "headline": "Power Shift in Syria Upends an Archipelago for ISIS Prisoners",
+    "link": "https://www.nytimes.com/2026/02/18/world/middleeast/syria-prisons-isis.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-11-45-11 +0000"
+  },
+  {
+    "headline": "Sterling Continues to Face Prospect of March Rate Cut",
+    "link": "https://www.wsj.com/finance/currencies/new-zealand-dollar-falls-on-a-more-dovish-than-expected-rbnz-4f68dbab?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-11-40-00 +0000"
+  },
+  {
+    "headline": "Gold Pullback Seen as Corrective, with Dips Likely to Attract Renewed Buying Interest",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-likely-technical-recovery-319bfb80?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-11-36-00 +0000"
+  },
+  {
+    "headline": "Rep. Tony Gonzales aide who self-immolated admitted affair with lawmaker, text shows",
+    "link": "https://nypost.com/2026/02/18/us-news/rep-tony-gonzales-aide-who-self-immolated-admitted-affair-with-lawmaker-text-shows/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-11-35-18 +0000"
+  },
+  {
+    "headline": "Rep. Tony Gonzales aide who fatally set herself on fire admitted affair with lawmaker, text shows",
+    "link": "https://nypost.com/2026/02/18/us-news/rep-tony-gonzales-aide-who-self-immolated-admitted-affair-with-lawmaker-text-shows/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-11-35-18 +0000"
+  },
+  {
+    "headline": "Reform plans to keep UK's budget watchdog",
+    "link": "https://www.bbc.com/news/articles/c80jy2lkdg3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-32-47 +0000"
+  },
+  {
+    "headline": "Reform plans to keep UK's budget watchdog",
+    "link": "https://www.bbc.com/news/articles/c80jy2lkdg3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-32-47 +0000"
+  },
+  {
+    "headline": "Tax-Smart Robots Can Boost Investors’ Returns",
+    "link": "https://www.wsj.com/finance/stocks/tax-smart-robots-can-boost-investors-returns-20773835?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-11-22-00 +0000"
+  },
+  {
+    "headline": "Why are UK prices still rising?",
+    "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-19-37 +0000"
+  },
+  {
+    "headline": "Slain California surfing legend Kurt Van Dyke’s brother says Costa Rica killing could just be ‘random attack’",
+    "link": "https://nypost.com/2026/02/18/us-news/slain-california-surfing-legends-brother-says-costa-rica-killing-could-just-be-random-attack-he-didnt-have-enemies/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-11-19-25 +0000"
+  },
+  {
+    "headline": "Plan to increase youth minimum wage could be delayed",
+    "link": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-19-12 +0000"
+  },
+  {
+    "headline": "Plan to increase youth minimum wage could be delayed",
+    "link": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-19-12 +0000"
+  },
+  {
+    "headline": "Indian university faces backlash for claiming Chinese robodog as own at AI summit",
+    "link": "https://www.bbc.com/news/articles/cge8nd5ve00o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-16-28 +0000"
+  },
+  {
+    "headline": "Indian university faces backlash for claiming Chinese robodog as own at AI summit",
+    "link": "https://www.bbc.com/news/articles/cge8nd5ve00o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-16-28 +0000"
+  },
+  {
+    "headline": "Social media suspended in Gabon for 'spreading of false information'",
+    "link": "https://www.bbc.com/news/articles/cx2rg2vndk1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-11-05-05 +0000"
   },
   {
     "headline": "Social media suspended in Gabon for 'spreading of false information'",
@@ -30,9 +366,51 @@
     "pubdate": "2026-02-18-11-00-00 +0000"
   },
   {
+    "headline": "Olson: Minnesotans just showed their true character. Legislators, follow their lead.",
+    "link": "https://www.startribune.com/minnesota-ice-surge-melissa-hortman-2026-session-capitol/601583229",
+    "source": "startribune",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
+    "headline": "Hit me: California's blackjack ban could bust L.A. card clubs",
+    "link": "https://www.latimes.com/business/story/2026-02-18/hit-me-californias-blackjack-ban-could-bust-la-card-clubs",
+    "source": "latimes",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
+    "headline": "OpenAI blocked from using Cameo name for its AI video features",
+    "link": "https://www.latimes.com/business/story/2026-02-18/openai-blocked-from-using-cameo-name-for-its-ai-video-features",
+    "source": "latimes",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
+    "headline": "This publisher enlists 'bookfluencers' to choose its titles. Is it working?",
+    "link": "https://www.latimes.com/entertainment-arts/books/story/2026-02-18/bindery-books-influencer-led-publishing-model",
+    "source": "latimes",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
     "headline": "Saks and Neiman low on luxury goods as fashion labels fret over court battle with Amazon",
     "link": "https://nypost.com/2026/02/18/business/saks-and-neiman-low-on-luxury-goods-as-fashion-labels-fret-over-court-battle-with-amazon/",
     "source": "nypost",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
+    "headline": "Canadian snowbirds are still unhappy with Trump. And Palm Springs is feeling the chill",
+    "link": "https://www.latimes.com/california/story/2026-02-18/canadian-snowbirds-are-still-unhappy-with-trump-palm-springs-is-feeling-chill",
+    "source": "latimes",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
+    "headline": "After a night of fierce winds and rain, another storm heads for Southern California",
+    "link": "https://www.latimes.com/california/story/2026-02-18/rain-winds-snow-southern-california-storm",
+    "source": "latimes",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
+    "headline": "Citing fire risk, L.A. city may get more power to remove hillside homeless encampments",
+    "link": "https://www.latimes.com/california/story/2026-02-18/citing-fire-risk-la-city-may-get-more-power-to-remove-hillside-homeless-encampments",
+    "source": "latimes",
     "pubdate": "2026-02-18-11-00-00 +0000"
   },
   {
@@ -45,6 +423,12 @@
     "headline": "Trump ‘taking an interest’ in social media bans for teens, daughter-in-law Lara tells ‘Pod Force One’",
     "link": "https://nypost.com/2026/02/18/us-news/trump-taking-an-interest-in-social-media-bans-for-teens-daughter-in-law-lara-tells-pod-force-one/",
     "source": "nypost",
+    "pubdate": "2026-02-18-11-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: With immigration losing its edge, Republicans find a new boogeyman: 'Radical Islam'",
+    "link": "https://www.latimes.com/politics/story/2026-02-18/texas-republicans-islam-anti-muslim-rhetoric",
+    "source": "latimes",
     "pubdate": "2026-02-18-11-00-00 +0000"
   },
   {
@@ -76,12 +460,6 @@
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-eae80c64?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-18-10-55-00 +0000"
-  },
-  {
-    "headline": "Nine Skiers Still Missing After Lake Tahoe Avalanche",
-    "link": "https://www.nytimes.com/2026/02/18/us/lake-tahoe-avalanche-missing-skiers.html",
-    "source": "nyt",
-    "pubdate": "2026-02-18-10-45-04 +0000"
   },
   {
     "headline": "UK police force assessing Stansted Airport private flights over Epstein ties",
@@ -120,28 +498,16 @@
     "pubdate": "2026-02-18-10-05-01 +0000"
   },
   {
-    "headline": "Democrats Plan to Counter Trump’s Speech to Congress With Rally",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/democrats-trump-congress.html",
+    "headline": "Ski Mountaineering Makes Its Olympic Debut at the Milan-Cortina Winter Games",
+    "link": "https://www.nytimes.com/2026/02/18/world/olympics/ski-mountaineering-winter-olympics-sport.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-10-04-13 +0000"
-  },
-  {
-    "headline": "Democrats Plan to Counter Trump’s Speech to Congress With Rally",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/democrats-trump-congress.html",
-    "source": "nyt",
-    "pubdate": "2026-02-18-10-04-13 +0000"
+    "pubdate": "2026-02-18-10-03-43 +0000"
   },
   {
     "headline": "Ski Mountaineering Makes Its Olympic Debut at the Milan-Cortina Winter Games",
     "link": "https://www.nytimes.com/2026/02/18/world/olympics/ski-mountaineering-winter-olympics-sport.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-10-03-42 +0000"
-  },
-  {
-    "headline": "Ski Mountaineering Makes Its Olympic Debut at the Milan-Cortina Winter Games",
-    "link": "https://www.nytimes.com/2026/02/18/world/olympics/ski-mountaineering-winter-olympics-sport.html",
-    "source": "nyt",
-    "pubdate": "2026-02-18-10-03-42 +0000"
+    "pubdate": "2026-02-18-10-03-43 +0000"
   },
   {
     "headline": "Why it’s becoming so expensive to buy a car in America",
@@ -184,12 +550,6 @@
     "link": "https://www.washingtonpost.com/nation/2026/02/18/philadelphia-new-york-blue-cities-fight-ice/",
     "source": "wapo",
     "pubdate": "2026-02-18-10-00-09 +0000"
-  },
-  {
-    "headline": "Global Equities Push Higher, Dollar Rises on U.S.-Iran Progress",
-    "link": "https://www.wsj.com/finance/investing/global-equities-push-higher-dollar-rises-on-u-s-iran-progress-bef415bb?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-18-09-59-00 +0000"
   },
   {
     "headline": "Utah Sen. Mike Lee calls Schumer’s ‘Jim Crow 2.0’ attack on voter ID bill ‘paranoid fantasy’",
@@ -252,6 +612,12 @@
     "pubdate": "2026-02-18-09-16-19 +0000"
   },
   {
+    "headline": "Lower food and fuel prices drive inflation down to 3%",
+    "link": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-09-16-19 +0000"
+  },
+  {
     "headline": "Nine Skiers Missing After Northern California Avalanche",
     "link": "https://www.wsj.com/us-news/ten-skiers-missing-six-stranded-after-northern-california-avalanche-8a09b5d2",
     "source": "wsj",
@@ -274,18 +640,6 @@
     "link": "https://www.wsj.com/business/retail/shares-in-jean-paul-gaultier-owner-puig-rise-after-strong-end-to-year-54513876?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-18-09-10-00 +0000"
-  },
-  {
-    "headline": "Rescuers search for nine missing skiers after California avalanche",
-    "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-09-09-19 +0000"
-  },
-  {
-    "headline": "Rescuers search for nine missing skiers after California avalanche",
-    "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-09-09-19 +0000"
   },
   {
     "headline": "European Gas Price Falls Further on Warmer Weather, Ample Flows",
@@ -318,16 +672,10 @@
     "pubdate": "2026-02-18-09-00-00 +0000"
   },
   {
-    "headline": "Plan to increase youth minimum wage could be delayed",
-    "link": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-08-59-53 +0000"
-  },
-  {
-    "headline": "Plan to increase youth minimum wage could be delayed",
-    "link": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-08-59-53 +0000"
+    "headline": "Phoenix pay system fiasco: 10 years of mistakes and lessons",
+    "link": "https://www.cbc.ca/news/canada/ottawa/federal-phoenix-pay-system-10-year-anniversary-9.7093933?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-18-09-00-00 +0000"
   },
   {
     "headline": "Multistate outbreak of highly drug-resistant salmonella linked to trendy ‘superfood,’ feds warn",
@@ -342,22 +690,10 @@
     "pubdate": "2026-02-18-08-45-17 +0000"
   },
   {
-    "headline": "Eurozone Bond Yields Edge Up, Unfazed by Report Lagarde Could Leave ECB Early",
-    "link": "https://www.wsj.com/finance/investing/jgb-prices-mixed-amid-divergent-signals-deb048b6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-18-08-39-00 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Dow Futures Rise Ahead of Earnings, Fed Minutes",
+    "headline": "Stock Market Today: Dow Futures, Tech Stocks Gain",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-18-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-18-08-36-28 +0000"
-  },
-  {
-    "headline": "Gold Back Above $4,900 With Focus on Fed Minutes",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-likely-technical-recovery-319bfb80?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-18-08-35-00 +0000"
   },
   {
     "headline": "Oil Edges Higher as Investors Weigh U.S.-Iran Progress",
@@ -390,7 +726,7 @@
     "pubdate": "2026-02-18-08-19-00 +0000"
   },
   {
-    "headline": "Prestianni denies he racially abused Vinicius",
+    "headline": "'Cowards' - Vinicius speaks out as Benfica deny racism claims",
     "link": "https://www.bbc.com/sport/football/articles/cp9myemmg3ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-18-08-17-45 +0000"
@@ -400,12 +736,6 @@
     "link": "https://www.bbc.com/sport/football/articles/cp9myemmg3ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-18-08-17-45 +0000"
-  },
-  {
-    "headline": "Dollar Rises After Iran, U.S. Report Progress, Japan Plans U.S. Investments",
-    "link": "https://www.wsj.com/finance/currencies/new-zealand-dollar-falls-on-a-more-dovish-than-expected-rbnz-4f68dbab?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-18-08-13-00 +0000"
   },
   {
     "headline": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
@@ -444,18 +774,6 @@
     "pubdate": "2026-02-18-07-37-24 +0000"
   },
   {
-    "headline": "US says 'meaningful progress' made as Ukraine talks enter second day",
-    "link": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-07-37-24 +0000"
-  },
-  {
-    "headline": "ECB President Christine Lagarde hasn’t made a decision on whether to serve out her full term, a spokesperson said.",
-    "link": "https://www.wsj.com/articles/ecbs-lagarde-hasnt-taken-any-decision-on-term-spokesperson-says-e96cd80a",
-    "source": "wsj",
-    "pubdate": "2026-02-18-07-37-00 +0000"
-  },
-  {
     "headline": "Surprise shark caught on camera for first time in Antarctica’s near-freezing deep",
     "link": "https://nypost.com/2026/02/18/world-news/sleeper-shark-caught-swimming-past-camera-for-first-time-in-antarctica/",
     "source": "nypost",
@@ -463,13 +781,13 @@
   },
   {
     "headline": "Alberto Tomba Was an ’80s and ’90s Icon. The Olympics Have Brought Him Back.",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/alberto-tomba-was-an-80s-icon-the-olympics-have-brought-him-back.html",
+    "link": "https://www.nytimes.com/2026/02/18/world/europe/alberto-tomba-olympics-skiing-italy.html",
     "source": "nyt",
     "pubdate": "2026-02-18-07-27-31 +0000"
   },
   {
     "headline": "Alberto Tomba Was an ’80s and ’90s Icon. The Olympics Have Brought Him Back.",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/alberto-tomba-was-an-80s-icon-the-olympics-have-brought-him-back.html",
+    "link": "https://www.nytimes.com/2026/02/18/world/europe/alberto-tomba-olympics-skiing-italy.html",
     "source": "nyt",
     "pubdate": "2026-02-18-07-27-31 +0000"
   },
@@ -570,24 +888,12 @@
     "pubdate": "2026-02-18-05-57-40 +0000"
   },
   {
-    "headline": "Hero bystander recounts tackling twisted trans shooter Robert Dorgan at Rhode Island ice rink: ‘Went for the gun’",
-    "link": "https://nypost.com/2026/02/18/us-news/hero-bystander-recounts-tackling-twisted-trans-shooter-robert-dorgan-at-rhode-island-ice-rink-went-for-the-gun/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-05-55-08 +0000"
-  },
-  {
     "headline": "Labubu Diplomacy",
     "link": "https://www.nytimes.com/2026/02/17/world/labubu-diplomacy-china-jesse-jackson-iran.html",
     "source": "nyt",
     "pubdate": "2026-02-18-05-47-09 +0000"
   },
   {
-    "headline": "Florida restaurant faces backlash after selling pizzas with iguana meat as topping",
-    "link": "https://nypost.com/2026/02/18/us-news/florida-restaurant-faces-backlash-after-selling-pizzas-with-iguana-meat-as-topping/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-05-46-32 +0000"
-  },
-  {
     "headline": "Trump Hails Japan’s First Batch of U.S. Investments",
     "link": "https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html",
     "source": "nyt",
@@ -598,12 +904,6 @@
     "link": "https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html",
     "source": "nyt",
     "pubdate": "2026-02-18-05-33-24 +0000"
-  },
-  {
-    "headline": "Tour guide company behind nine skiers missing in avalanche breaks silence – as it’s slammed for ‘preventable’ disaster",
-    "link": "https://nypost.com/2026/02/18/us-news/tour-guide-behind-10-skiers-missing-in-avalanche-breaks-silence-as-its-slammed-for-preventable-disaster/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-05-05-10 +0000"
   },
   {
     "headline": "Third Briton dies in French Alps avalanches in one week",
@@ -654,28 +954,10 @@
     "pubdate": "2026-02-18-04-45-52 +0000"
   },
   {
-    "headline": "Obama eviscerated after latest update to dour presidential center gives locals ‘a headache’",
-    "link": "https://nypost.com/2026/02/17/us-news/obama-eviscerated-after-latest-update-to-dour-presidential-center-gives-locals-a-headache/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-04-45-52 +0000"
-  },
-  {
     "headline": "JD Vance speaks out on Eileen Gu’s decision to compete for China instead of US in Olympics",
     "link": "https://nypost.com/2026/02/17/sports/jd-vance-speaks-out-on-eileen-gus-decision-to-compete-for-china-instead-of-us-in-olympics/",
     "source": "nypost",
     "pubdate": "2026-02-18-04-43-36 +0000"
-  },
-  {
-    "headline": "JD Vance speaks out on Eileen Gu’s decision to compete for China instead of US in Olympics",
-    "link": "https://nypost.com/2026/02/17/sports/jd-vance-speaks-out-on-eileen-gus-decision-to-compete-for-china-instead-of-us-in-olympics/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-04-43-36 +0000"
-  },
-  {
-    "headline": "Elite Florida sports academy to pay $1.7M fine for accepting students, tuition linked to Mexican cartels",
-    "link": "https://nypost.com/2026/02/17/sports/img-academy-to-pay-1-7m-fine-for-accepting-students-tuition-linked-to-mexican-cartels/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-04-41-40 +0000"
   },
   {
     "headline": "No DNA matches on glove found in Nancy Guthrie case, police say",
@@ -718,12 +1000,6 @@
     "link": "https://www.wsj.com/world/middle-east/chaotic-closure-of-a-huge-isis-detention-camp-is-testing-syrias-regime-fb738abd",
     "source": "wsj",
     "pubdate": "2026-02-18-04-00-00 +0000"
-  },
-  {
-    "headline": "LAPD oversight board approves $2.1M donation to expand drone program",
-    "link": "https://nypost.com/2026/02/17/us-news/lapd-oversight-board-approves-2-1m-donation-to-expand-drone-program/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-03-59-26 +0000"
   },
   {
     "headline": "US says it supports UK Chagos Islands deal",
@@ -769,13 +1045,13 @@
   },
   {
     "headline": "HUD opens discrimination investigation into a Muslim development in Texas.",
-    "link": "https://www.nytimes.com/live/2026/02/17/us/trump-news/hud-opens-discrimination-investigation-into-a-muslim-development-in-texas",
+    "link": "https://www.nytimes.com/live/2026/02/18/us/trump-news/hud-opens-discrimination-investigation-into-a-muslim-development-in-texas",
     "source": "nyt",
     "pubdate": "2026-02-18-03-21-04 +0000"
   },
   {
     "headline": "HUD opens discrimination investigation into a Muslim development in Texas.",
-    "link": "https://www.nytimes.com/live/2026/02/17/us/trump-news/hud-opens-discrimination-investigation-into-a-muslim-development-in-texas",
+    "link": "https://www.nytimes.com/live/2026/02/18/us/trump-news/hud-opens-discrimination-investigation-into-a-muslim-development-in-texas",
     "source": "nyt",
     "pubdate": "2026-02-18-03-21-04 +0000"
   },
@@ -810,16 +1086,22 @@
     "pubdate": "2026-02-18-03-12-44 +0000"
   },
   {
-    "headline": "House Plans to Vote on Air Safety Bill After Report on Deadly D.C. Crash",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/ntsb-reagan-national-crash-report.html",
-    "source": "nyt",
-    "pubdate": "2026-02-18-03-03-24 +0000"
+    "headline": "Rescuers push through winter storm to 6 survivors of California avalanche, with 9 others still missing",
+    "link": "https://www.cbc.ca/news/world/california-avalanche-skiers-missing-9.7094903?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-18-03-06-25 +0000"
   },
   {
     "headline": "House Plans to Vote on Air Safety Bill After Report on Deadly D.C. Crash",
     "link": "https://www.nytimes.com/2026/02/17/us/politics/ntsb-reagan-national-crash-report.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-03-03-24 +0000"
+    "pubdate": "2026-02-18-03-03-25 +0000"
+  },
+  {
+    "headline": "House Plans to Vote on Air Safety Bill After Report on Deadly D.C. Crash",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/ntsb-reagan-national-crash-report.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-03-03-25 +0000"
   },
   {
     "headline": "Belgium summons U.S. ambassador over post accusing officials of antisemitism",
@@ -858,7 +1140,7 @@
     "pubdate": "2026-02-18-02-53-51 +0000"
   },
   {
-    "headline": "The Pentagon might ask contractors and vendors to certify that they don’t use Anthropic’s Claude amid tensions over how the startup’s tools are used for defense work.",
+    "headline": "The Pentagon might ask contractors and vendors to certify that they don’t use Anthropic’s Claude amid tensions over how the startup’s tools are used for defense work",
     "link": "https://www.wsj.com/politics/national-security/woke-ai-spat-escalates-between-pentagon-and-anthropic-433b7c5c",
     "source": "wsj",
     "pubdate": "2026-02-18-02-49-00 +0000"
@@ -942,18 +1224,6 @@
     "pubdate": "2026-02-18-02-21-08 +0000"
   },
   {
-    "headline": "This suburb is likely the first Minnesota city to hit pause on large-scale data centers",
-    "link": "https://www.startribune.com/eagan-data-center-moratorium/601581237",
-    "source": "startribune",
-    "pubdate": "2026-02-18-02-20-50 +0000"
-  },
-  {
-    "headline": "FBI, St. Paul police probing ICE arrest that resulted in skull fractures",
-    "link": "https://www.startribune.com/fbi-st-paul-police-probing-ice-arrest-that-resulted-in-skull-fractures/601584025",
-    "source": "startribune",
-    "pubdate": "2026-02-18-02-18-02 +0000"
-  },
-  {
     "headline": "Billionaire Tom Steyer’s lefty staff brutally mocked him in now-deleted tweets",
     "link": "https://nypost.com/2026/02/17/us-news/tom-steyers-lefty-staff-mocked-him-in-now-deleted-tweets/",
     "source": "nypost",
@@ -994,18 +1264,6 @@
     "link": "https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-18-01-47-12 +0000"
-  },
-  {
-    "headline": "Reform plans to keep UK's budget watchdog",
-    "link": "https://www.bbc.com/news/articles/c80jy2lkdg3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-01-39-39 +0000"
-  },
-  {
-    "headline": "Reform plans to keep UK's budget watchdog",
-    "link": "https://www.bbc.com/news/articles/c80jy2lkdg3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-01-39-39 +0000"
   },
   {
     "headline": "'Just push us into the sea': The frustration of an area failed by politics",
@@ -1188,12 +1446,6 @@
     "pubdate": "2026-02-18-00-28-35 +0000"
   },
   {
-    "headline": "Twins All-Star pitcher Pablo López likely will miss the 2026 season because of elbow injury",
-    "link": "https://www.startribune.com/pablo-lopez-injury-update-twins-spring-training-bobby-nightengale/601583098",
-    "source": "startribune",
-    "pubdate": "2026-02-18-00-27-17 +0000"
-  },
-  {
     "headline": "Hugh Hefner's widow warns images of underage girls are in late husband's scrapbooks, journals",
     "link": "https://www.latimes.com/california/story/2026-02-17/crystal-hefner-playboy-hugh-hefner-foundation-photos",
     "source": "latimes",
@@ -1314,12 +1566,6 @@
     "pubdate": "2026-02-17-23-41-00 +0000"
   },
   {
-    "headline": "Should Minneapolis deny liquor licenses to hotels that housed ICE agents? City Council debates it.",
-    "link": "https://www.startribune.com/minneapolis-city-council-liquor-license-hotels-ice-agents/601583286",
-    "source": "startribune",
-    "pubdate": "2026-02-17-23-35-16 +0000"
-  },
-  {
     "headline": "'We're going to always be grateful' - Chicagoans mourn loss of Jesse Jackson",
     "link": "https://www.bbc.com/news/articles/cn8z9qq25jno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1362,24 +1608,12 @@
     "pubdate": "2026-02-17-23-21-41 +0000"
   },
   {
-    "headline": "U.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-02-17-23-18-51 +0000"
-  },
-  {
     "headline": "U.S. Envoy Draws Belgium’s Rebuke Over Antisemitism Comments",
     "link": "https://www.wsj.com/world/europe/u-s-envoy-draws-belgiums-rebuke-over-antisemitism-comments-674d910c",
     "source": "wsj",
     "pubdate": "2026-02-17-23-15-00 +0000"
   },
   {
-    "headline": "Company withdraws plan to expand mine into Mississippi River",
-    "link": "https://www.startribune.com/mine-grey-cloud-island-mississippi-river/601583292",
-    "source": "startribune",
-    "pubdate": "2026-02-17-23-13-54 +0000"
-  },
-  {
     "headline": "White House Rejects Democrats’ Offer for Deal to Reopen D.H.S.",
     "link": "https://www.nytimes.com/2026/02/17/us/politics/trump-dhs-shutdown-democrats.html",
     "source": "nyt",
@@ -1390,12 +1624,6 @@
     "link": "https://www.nytimes.com/2026/02/17/us/politics/trump-dhs-shutdown-democrats.html",
     "source": "nyt",
     "pubdate": "2026-02-17-23-07-22 +0000"
-  },
-  {
-    "headline": "Slain DFL Leader Melissa Hortman is remembered for legacy of service as lawmakers reconvene",
-    "link": "https://www.startribune.com/what-to-watch-as-minnesota-legislature-returns-for-2026-session/601579829",
-    "source": "startribune",
-    "pubdate": "2026-02-17-23-02-03 +0000"
   },
   {
     "headline": "Republicans, Braced for Losses, Push More Voting Restrictions in Congress",
@@ -1558,6 +1786,12 @@
     "link": "https://www.wsj.com/opinion/jesse-jacksons-empire-of-hope-4cb22f3c",
     "source": "wsj",
     "pubdate": "2026-02-17-22-17-00 +0000"
+  },
+  {
+    "headline": "Trinidad & Tobago seal 'operation don't finish last'",
+    "link": "https://www.bbc.com/sport/articles/cedzlee6j9yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-17-22-09-42 +0000"
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
@@ -1830,12 +2064,6 @@
     "pubdate": "2026-02-17-21-17-00 +0000"
   },
   {
-    "headline": "Journalist, activist plead not guilty to federal charges tied to St. Paul church protest",
-    "link": "https://www.startribune.com/independent-journalist-black-lives-matter-co-founder-plead-not-guilty-to-federal-charges-tied-to-st-paul-church-protest/601583398",
-    "source": "startribune",
-    "pubdate": "2026-02-17-21-14-32 +0000"
-  },
-  {
     "headline": "Colbert Slams Trump Administration After CBS Pulls Talarico Interview",
     "link": "https://www.nytimes.com/2026/02/17/business/media/colbert-cbs-fcc-talarico-carr.html",
     "source": "nyt",
@@ -2094,12 +2322,6 @@
     "pubdate": "2026-02-17-19-11-50 +0000"
   },
   {
-    "headline": "Snowstorm to pummel Minnesota’s Arrowhead region",
-    "link": "https://www.startribune.com/winter-storm-warning-minnesota-north/601583753",
-    "source": "startribune",
-    "pubdate": "2026-02-17-19-09-07 +0000"
-  },
-  {
     "headline": "Shein under EU investigation over childlike sex dolls",
     "link": "https://www.bbc.com/news/articles/cr7321n1n0eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2154,12 +2376,6 @@
     "pubdate": "2026-02-17-18-55-33 +0000"
   },
   {
-    "headline": "Mike Conley returns to Timberwolves after being traded twice at the deadline",
-    "link": "https://www.startribune.com/minnesota-timberwolves-mike-conley-returns-anthony-edwards-allstar-break/601583795",
-    "source": "startribune",
-    "pubdate": "2026-02-17-18-50-45 +0000"
-  },
-  {
     "headline": "Vaccine Makers Curtail Research and Cut Jobs",
     "link": "https://www.nytimes.com/2026/02/16/health/rfk-vaccine-manufacturers.html",
     "source": "nyt",
@@ -2176,12 +2392,6 @@
     "link": "https://48hills.org/2026/02/manet-morisot-and-the-language-of-the-eyes/",
     "source": "48hills",
     "pubdate": "2026-02-17-18-41-23 +0000"
-  },
-  {
-    "headline": "Jason Matheson’s sidekick, Alexis Thompson, dropped from MyTalk radio show",
-    "link": "https://www.startribune.com/jason-mathesons-sidekick-alexis-thompson-dropped-from-mytalk-radio-show/601583755",
-    "source": "startribune",
-    "pubdate": "2026-02-17-18-35-00 +0000"
   },
   {
     "headline": "Al Sharpton, Bernice King and Trump Among Tributes to Jesse Jackson",
@@ -2212,12 +2422,6 @@
     "link": "https://www.nytimes.com/2026/02/17/world/europe/spain-investigate-social-media.html",
     "source": "nyt",
     "pubdate": "2026-02-17-18-20-21 +0000"
-  },
-  {
-    "headline": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html",
-    "source": "nyt",
-    "pubdate": "2026-02-17-18-19-46 +0000"
   },
   {
     "headline": "Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
@@ -2332,6 +2536,12 @@
     "link": "https://www.latimes.com/california/story/2026-02-17/storm-debris-flow-mud-slide-risks",
     "source": "latimes",
     "pubdate": "2026-02-17-17-33-36 +0000"
+  },
+  {
+    "headline": "Eleven killed in multiple strikes on alleged drug boats, US military says",
+    "link": "https://www.bbc.com/news/articles/cn5g2g56qggo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-17-17-33-28 +0000"
   },
   {
     "headline": "Eleven killed in multiple strikes on alleged drug boats, US military says",
@@ -2508,18 +2718,6 @@
     "pubdate": "2026-02-17-16-16-52 +0000"
   },
   {
-    "headline": "Read the Statement From Jesse Jackson’s Family",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-family-statement.html",
-    "source": "nyt",
-    "pubdate": "2026-02-17-16-16-06 +0000"
-  },
-  {
-    "headline": "Read the Statement From Jesse Jackson’s Family",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-family-statement.html",
-    "source": "nyt",
-    "pubdate": "2026-02-17-16-16-06 +0000"
-  },
-  {
     "headline": "Reform names Robert Jenrick as pick for chancellor",
     "link": "https://www.bbc.com/news/articles/c33j7m7y17xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2554,12 +2752,6 @@
     "link": "https://www.bbc.com/news/articles/crm8j8j3k38o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-17-15-58-27 +0000"
-  },
-  {
-    "headline": "Japan Wins Pairs Figure Skating, Knocking China From the Top",
-    "link": "https://www.nytimes.com/2026/02/16/world/japan-figure-skating-pairs-gold-medal.html",
-    "source": "nyt",
-    "pubdate": "2026-02-17-15-52-52 +0000"
   },
   {
     "headline": "IHS Towers Agrees to Be Bought by MTN Group for $6.2 Billion",
@@ -2740,107 +2932,5 @@
     "link": "https://www.cbc.ca/news/world/iran-strait-of-hormuz-nucleur-talks-united-states-9.7093310?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-17-13-24-39 +0000"
-  },
-  {
-    "headline": "Paramount’s New Chance to Win Over Warner Bros. Discovery",
-    "link": "https://www.nytimes.com/2026/02/17/business/dealbook/paramount-warner-bros-netflix.html",
-    "source": "nyt",
-    "pubdate": "2026-02-17-13-17-09 +0000"
-  },
-  {
-    "headline": "Danaher Strikes $10 Billion Deal for Masimo",
-    "link": "https://www.wsj.com/business/deals/danaher-strikes-10-billion-deal-for-masimo-1bd50e57?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-17-13-15-00 +0000"
-  },
-  {
-    "headline": "Russia, Ukraine exchange damaging volleys ahead of trilateral talks with U.S.",
-    "link": "https://www.cbc.ca/news/world/ukraine-russia-attacks-geneva-talks-9.7093295?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-17-13-08-09 +0000"
-  },
-  {
-    "headline": "USA's Meyers Taylor makes history with monobob gold",
-    "link": "https://www.bbc.com/sport/articles/cpv84182rp2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-17-13-00-40 +0000"
-  },
-  {
-    "headline": "Watch: Jesse Jackson's life in civil rights, diplomacy, and politics",
-    "link": "https://www.bbc.com/news/videos/cvg4y9ee16go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-17-12-52-08 +0000"
-  },
-  {
-    "headline": "Warner Bros. Discovery will restart talks with Paramount — potentially setting up a bidding war with Netflix",
-    "link": "https://nypost.com/2026/02/17/business/warner-bros-discovery-will-restart-talks-with-paramount-potentially-setting-up-a-bidding-war-with-netflix/",
-    "source": "nypost",
-    "pubdate": "2026-02-17-12-51-03 +0000"
-  },
-  {
-    "headline": "Strike deal reached after two days of chaos at Kenya's main airport",
-    "link": "https://www.bbc.com/news/articles/c363096kd5po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-17-12-50-33 +0000"
-  },
-  {
-    "headline": "Italian toddler in critical condition after transplanted heart 'burned by frostbite'",
-    "link": "https://www.bbc.com/news/articles/cpqw24v4dn9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-17-12-43-57 +0000"
-  },
-  {
-    "headline": "Councils face 'uphill struggle' after elections delay U-turn",
-    "link": "https://www.bbc.com/news/articles/c043z5rzwg7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-17-12-43-42 +0000"
-  },
-  {
-    "headline": "Medtronic Profit Falls Despite Higher Revenue",
-    "link": "https://www.wsj.com/business/earnings/medtronic-profit-falls-despite-higher-revenue-39d5dd84?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-17-12-40-00 +0000"
-  },
-  {
-    "headline": "Jesse Jackson’s Bid for President in 1988 and Other Pivotal Moments",
-    "link": "https://www.nytimes.com/2026/02/17/us/jesse-jackson-life-moments.html",
-    "source": "nyt",
-    "pubdate": "2026-02-17-12-38-02 +0000"
-  },
-  {
-    "headline": "NAPA Owner Genuine Parts Plans to Split Into Two Companies",
-    "link": "https://www.wsj.com/business/deals/genuine-parts-plans-to-split-into-two-companies-45156614?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-17-12-24-00 +0000"
-  },
-  {
-    "headline": "NAPA Owner Genuine Parts Plans to Split Into Two Companies",
-    "link": "https://www.wsj.com/business/deals/genuine-parts-plans-to-split-into-two-companies-45156614?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-17-12-24-00 +0000"
-  },
-  {
-    "headline": "Top-performing fund warns software firms face ‘existential threat from AI’: report",
-    "link": "https://nypost.com/2026/02/17/business/top-performing-fund-warns-software-firms-face-existential-threat-from-ai-report/",
-    "source": "nypost",
-    "pubdate": "2026-02-17-12-23-37 +0000"
-  },
-  {
-    "headline": "Ireland’s Goods Exports to U.S. Rose by 52% in 2025",
-    "link": "https://www.wsj.com/economy/trade/irelands-goods-exports-to-u-s-rose-by-52-in-2025-74d2f51a",
-    "source": "wsj",
-    "pubdate": "2026-02-17-12-13-00 +0000"
-  },
-  {
-    "headline": "Zimbabwe through at T20 World Cup after washout",
-    "link": "https://www.bbc.com/sport/cricket/articles/czj1e0m4rk0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-17-12-07-09 +0000"
-  },
-  {
-    "headline": "US citizen sentenced to four years in Russian jail after trying to smuggle Kalashnikov assault rifle stocks out of Moscow airport: reports",
-    "link": "https://nypost.com/2026/02/17/world-news/us-citizen-sentenced-to-four-years-in-russian-jail-after-trying-to-smuggle-kalashnikov-assault-rifle-stocks-out-of-moscow-airport-reports/",
-    "source": "nypost",
-    "pubdate": "2026-02-17-12-02-20 +0000"
   }
 ]
