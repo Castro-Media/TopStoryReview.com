@@ -1,17 +1,24 @@
 [
   {
-    "score": 154,
+    "score": 166,
     "pubdate": "2026-02-18-11-00-00 +0000",
     "source": "nypost",
     "headline": "Lara Trump reveals Trump’s unexpected reaction to leaving White House in 2021 on ‘Pod Force One’",
     "link": "https://nypost.com/2026/02/18/us-news/lara-trump-reveals-trumps-reaction-to-leaving-white-house-in-2021-on-pod-force-one/"
   },
   {
-    "score": 109,
+    "score": 114,
     "pubdate": "2026-02-17-18-14-06 +0000",
     "source": "nyt",
     "headline": "Ukraine and Russia Hold New Round of Peace Talks, but Expectations Are Low",
     "link": "https://www.nytimes.com/2026/02/17/world/europe/ukraine-russia-peace-talks-switzerland.html"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-02-18-11-59-00 +0000",
+    "source": "wsj",
+    "headline": "Stephen Colbert’s stinging criticism of President Trump, CBS and the FCC might shape how media companies approach November’s midterm elections. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/how-stephen-colbert-could-end-up-impacting-the-midterms-70911834"
   },
   {
     "score": 102,
@@ -22,24 +29,10 @@
   },
   {
     "score": 95,
-    "pubdate": "2026-02-18-11-59-00 +0000",
-    "source": "wsj",
-    "headline": "Stephen Colbert’s stinging criticism of President Trump, CBS and the FCC might shape how media companies approach November’s midterm elections. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/how-stephen-colbert-could-end-up-impacting-the-midterms-70911834"
-  },
-  {
-    "score": 91,
-    "pubdate": "2026-02-17-21-36-00 +0000",
+    "pubdate": "2026-02-18-15-33-00 +0000",
     "source": "wsj",
     "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
     "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-02-17-16-02-41 +0000",
-    "source": "nypost",
-    "headline": "Iran, US agree on ‘guiding principles’ of nuclear deal, as Vance says dismantling atomic program among ‘red lines’",
-    "link": "https://nypost.com/2026/02/17/world-news/iran-and-us-agree-guiding-principles-of-nuclear-deal-tehran-says/"
   },
   {
     "score": 62,
@@ -49,24 +42,31 @@
     "link": "https://nypost.com/2026/02/18/us-news/nancy-guthrie-sheriff-admits-to-only-holding-out-hope-as-no-proof-of-death/"
   },
   {
-    "score": 58,
+    "score": 56,
     "pubdate": "2026-02-18-04-50-10 +0000",
     "source": "bbc",
     "headline": "Suspect in Rhode Island ice hockey shooting killed ex-wife and son",
     "link": "https://www.bbc.com/news/articles/cy4wvk9vn40o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
-    "pubdate": "2026-02-18-12-48-43 +0000",
-    "source": "bbc",
-    "headline": "Rescuers search for nine missing skiers after California avalanche",
-    "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss"
+    "score": 55,
+    "pubdate": "2026-02-18-03-06-25 +0000",
+    "source": "cbc",
+    "headline": "Rescuers push through winter storm to 6 survivors of California avalanche, with 9 others still missing",
+    "link": "https://www.cbc.ca/news/world/california-avalanche-skiers-missing-9.7094903?cmp=rss"
   },
   {
-    "score": 52,
-    "pubdate": "2026-02-18-14-53-01 +0000",
-    "source": "nypost",
-    "headline": "Texas Dem Senate candidate James Talarico rakes in $2.5M after Stephen Colbert interview nixed from ‘Late Show’ air",
-    "link": "https://nypost.com/2026/02/18/us-news/texas-dem-senate-candidate-james-talarico-rakes-in-2-5m-after-stephen-colbert-interview-nixed-from-late-show-air/"
+    "score": 51,
+    "pubdate": "2026-02-17-22-26-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. presented new data to buttress its recent allegation that China has secretly carried out low-yield nuclear tests, challenging Beijing’s insistence that it has observed an accord banning nuclear detonations",
+    "link": "https://www.wsj.com/politics/national-security/u-s-hardens-allegation-that-china-conducted-a-secret-nuclear-test-644a918a"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-02-18-00-48-22 +0000",
+    "source": "bbc",
+    "headline": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
+    "link": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss"
   }
 ]
