@@ -1,16 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2026-02-18-04-32-16 +0000",
+    "score": 15,
+    "pubdate": "2026-02-18-05-55-08 +0000",
+    "source": "nypost",
+    "headline": "Hero bystander recounts tackling twisted trans shooter Robert Dorgan at Rhode Island ice rink: ‘Went for the gun’",
+    "link": "https://nypost.com/2026/02/18/us-news/hero-bystander-recounts-tackling-twisted-trans-shooter-robert-dorgan-at-rhode-island-ice-rink-went-for-the-gun/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-18-05-33-24 +0000",
+    "source": "nyt",
+    "headline": "Trump Hails Japan’s First Batch of U.S. Investments",
+    "link": "https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-18-06-01-30 +0000",
+    "source": "nypost",
+    "headline": "Millionaire philanthropist lawyer, 87, shot to death at senior living facility in Maryland",
+    "link": "https://nypost.com/2026/02/18/us-news/millionaire-lawyer-robert-fuller-jr-fatally-shot-at-senior-living-facility-in-maryland/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-18-05-46-32 +0000",
+    "source": "nypost",
+    "headline": "Florida restaurant faces backlash after selling pizzas with iguana meat as topping",
+    "link": "https://nypost.com/2026/02/18/us-news/florida-restaurant-faces-backlash-after-selling-pizzas-with-iguana-meat-as-topping/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-18-06-00-34 +0000",
     "source": "bbc",
-    "headline": "No DNA matches on glove found in Nancy Guthrie case, police say",
-    "link": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss"
+    "headline": "Witkoff says 'meaningful progress' made as Ukraine talks enter second day",
+    "link": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-18-05-21-23 +0000",
+    "source": "nyt",
+    "headline": "Are You a New Yorker With a Unique Parking Situation? We Want to Hear It.",
+    "link": "https://www.nytimes.com/2026/02/17/us/are-you-a-new-yorker-with-a-unique-parking-situation-we-want-to-hear-it.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-18-05-57-55 +0000",
+    "source": "bbc",
+    "headline": "Rescuers search for 10 missing skiers after California avalanche",
+    "link": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-02-18-05-57-40 +0000",
+    "source": "bbc",
+    "headline": "School's 'cost of living cupboard' helps families",
+    "link": "https://www.bbc.com/news/articles/cn4gv9e8e10o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-02-18-05-47-09 +0000",
+    "source": "nyt",
+    "headline": "Labubu Diplomacy",
+    "link": "https://www.nytimes.com/2026/02/17/world/labubu-diplomacy-china-jesse-jackson-iran.html"
   },
   {
     "score": 0,
-    "pubdate": "2026-02-18-04-32-16 +0000",
-    "source": "bbc",
-    "headline": "No DNA matches on glove found in Nancy Guthrie case, police say",
-    "link": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-02-18-05-33-24 +0000",
+    "source": "nyt",
+    "headline": "Trump Hails Japan’s First Batch of U.S. Investments",
+    "link": "https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html"
   }
 ]
