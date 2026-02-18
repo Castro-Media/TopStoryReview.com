@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-hardens-allegation-that-china-conducted-a-secret-nuclear-test-644a918a"
   },
   {
-    "score": 155,
+    "score": 153,
     "pubdate": "2026-02-17-21-36-00 +0000",
     "source": "wsj",
     "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
@@ -57,16 +57,16 @@
   },
   {
     "score": 100,
-    "pubdate": "2026-02-16-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
-    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
-  },
-  {
-    "score": 100,
     "pubdate": "2026-02-18-04-50-10 +0000",
     "source": "bbc",
     "headline": "Suspect in Rhode Island ice hockey shooting killed ex-wife and son",
     "link": "https://www.bbc.com/news/articles/cy4wvk9vn40o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 100,
+    "pubdate": "2026-02-16-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
+    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
   }
 ]
