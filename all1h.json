@@ -1,26 +1,122 @@
 [
   {
-    "headline": "UK inflation falls to 3% in January on lower fuel prices",
+    "headline": "Talks on Russia-Ukraine War Enter 2nd Day in Geneva",
+    "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-09-00-52 +0000"
+  },
+  {
+    "headline": "Talks on Russia-Ukraine War Enter 2nd Day in Geneva",
+    "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-18-09-00-52 +0000"
+  },
+  {
+    "headline": "The Fossil Fuel Tycoon Teaming Up With the Rockefellers to Fight Energy Poverty",
+    "link": "https://www.wsj.com/business/energy-oil/the-fossil-fuel-tycoon-teaming-up-with-the-rockefellers-to-fight-energy-poverty-1eda24ca?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-18-09-00-00 +0000"
+  },
+  {
+    "headline": "Ottawa urged to send salary dispute with judges directly to Supreme Court",
+    "link": "https://www.cbc.ca/news/politics/judges-pay-federal-government-case-9.7092514?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-18-09-00-00 +0000"
+  },
+  {
+    "headline": "Plan to increase youth minimum wage could be delayed",
+    "link": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-08-59-53 +0000"
+  },
+  {
+    "headline": "Plan to increase youth minimum wage could be delayed",
+    "link": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-08-59-53 +0000"
+  },
+  {
+    "headline": "Multistate outbreak of highly drug-resistant salmonella linked to trendy ‘superfood,’ feds warn",
+    "link": "https://nypost.com/2026/02/18/us-news/multistate-outbreak-of-highly-drug-resistant-salmonella-linked-to-trendy-superfood-feds-warn/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-08-58-49 +0000"
+  },
+  {
+    "headline": "Lower fuel prices and airfares help drive inflation down",
     "link": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-18-07-11-26 +0000"
+    "pubdate": "2026-02-18-08-47-04 +0000"
   },
   {
     "headline": "UK inflation falls to 3% in January on lower fuel prices",
     "link": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-18-07-11-26 +0000"
+    "pubdate": "2026-02-18-08-47-04 +0000"
+  },
+  {
+    "headline": "US reveals new details of alleged Chinese nuclear test",
+    "link": "https://nypost.com/2026/02/18/world-news/secret-china-nuclear-test-details-revealed-by-assistant-secretary-of-state-yeaw/",
+    "source": "nypost",
+    "pubdate": "2026-02-18-08-45-17 +0000"
+  },
+  {
+    "headline": "Eurozone Bond Yields Edge Up, Unfazed by Report Lagarde Could Leave ECB Early",
+    "link": "https://www.wsj.com/finance/investing/jgb-prices-mixed-amid-divergent-signals-deb048b6?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-08-39-00 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Dow Futures Rise Ahead of Fed Minutes, Earnings",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-18-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-08-36-28 +0000"
+  },
+  {
+    "headline": "Gold Back Above $4,900 With Focus on Fed Minutes",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-likely-technical-recovery-319bfb80?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-08-35-00 +0000"
+  },
+  {
+    "headline": "Oil Edges Higher as Investors Weigh U.S.-Iran Progress",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-consolidate-as-traders-assess-u-s-iran-developments-317c43ad?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-08-33-00 +0000"
+  },
+  {
+    "headline": "Mediobanca Shares Rise After Monte dei Paschi Outlines Delisting Plan",
+    "link": "https://www.wsj.com/finance/banking/mediobanca-shares-rise-after-monte-dei-paschi-outlines-delisting-plan-5f042ebf?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-08-29-00 +0000"
+  },
+  {
+    "headline": "Naturgy Profit Rises on Higher Energy Demand, Pricing",
+    "link": "https://www.wsj.com/business/earnings/naturgy-profit-rises-on-higher-energy-demand-pricing-d89c3270?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-18-08-25-00 +0000"
+  },
+  {
+    "headline": "Ex Reform UK members form new council group",
+    "link": "https://www.bbc.com/news/articles/ckg1d551weko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-08-21-10 +0000"
   },
   {
     "headline": "U.K. Inflation Slowed in January",
     "link": "https://www.wsj.com/economy/u-k-inflation-slowed-in-january-7ebe0182",
     "source": "wsj",
-    "pubdate": "2026-02-18-07-09-00 +0000"
+    "pubdate": "2026-02-18-08-19-00 +0000"
   },
   {
-    "headline": "Mamdani’s ‘cuckoo’ property tax hike will land him ‘Real Estate Agent of the Year’ after inevitable exodus, Kevin O’Leary says",
-    "link": "https://nypost.com/2026/02/18/us-news/mamdanis-tax-hike-will-land-him-real-estate-agent-of-the-year-after-inevitable-exodus-kevin-oleary/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-07-07-38 +0000"
+    "headline": "Prestianni denies he racially abused Vinicius",
+    "link": "https://www.bbc.com/sport/football/articles/cp9myemmg3ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-18-08-17-45 +0000"
+  },
+  {
+    "headline": "Dollar Rises After Iran, U.S. Report Progress, Japan Plans U.S. Investments",
+    "link": "https://www.wsj.com/finance/currencies/new-zealand-dollar-falls-on-a-more-dovish-than-expected-rbnz-4f68dbab?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-18-08-13-00 +0000"
   }
 ]
