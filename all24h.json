@@ -324,15 +324,15 @@
     "pubdate": "2026-02-19-18-00-05 +0000"
   },
   {
-    "headline": "Minnesota and Diane’s Place takes a star turn on ‘Good Morning America’",
-    "link": "https://www.startribune.com/dianes-place-good-morning-america-best-restaurant-minnesota-minneapolis/601584985",
-    "source": "startribune",
-    "pubdate": "2026-02-19-18-00-00 +0000"
-  },
-  {
     "headline": "Why Risk-Loving Options Traders Are Flocking to Prediction Markets",
     "link": "https://www.wsj.com/finance/stocks/prediction-markets-options-be6d35c3?mod=rss_markets_main",
     "source": "wsj",
+    "pubdate": "2026-02-19-18-00-00 +0000"
+  },
+  {
+    "headline": "Minnesota and Diane’s Place takes a star turn on ‘Good Morning America’",
+    "link": "https://www.startribune.com/dianes-place-good-morning-america-best-restaurant-minnesota-minneapolis/601584985",
+    "source": "startribune",
     "pubdate": "2026-02-19-18-00-00 +0000"
   },
   {
@@ -373,19 +373,19 @@
   },
   {
     "headline": "Opinion | Hong Kong and Jimmy Lai’s Prison Sentence",
-    "link": "https://www.wsj.com/opinion/hong-kong-and-jimmy-lais-prison-sentence-06263211",
-    "source": "wsj",
-    "pubdate": "2026-02-19-17-51-00 +0000"
-  },
-  {
-    "headline": "Opinion | Hong Kong and Jimmy Lai’s Prison Sentence",
-    "link": "https://www.wsj.com/opinion/hong-kong-and-jimmy-lais-prison-sentence-06263211",
-    "source": "wsj",
-    "pubdate": "2026-02-19-17-51-00 +0000"
-  },
-  {
-    "headline": "Opinion | Hong Kong and Jimmy Lai’s Prison Sentence",
     "link": "https://www.wsj.com/opinion/hong-kong-and-jimmy-lais-prison-sentence-06263211?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-17-51-00 +0000"
+  },
+  {
+    "headline": "Opinion | Hong Kong and Jimmy Lai’s Prison Sentence",
+    "link": "https://www.wsj.com/opinion/hong-kong-and-jimmy-lais-prison-sentence-06263211",
+    "source": "wsj",
+    "pubdate": "2026-02-19-17-51-00 +0000"
+  },
+  {
+    "headline": "Opinion | Hong Kong and Jimmy Lai’s Prison Sentence",
+    "link": "https://www.wsj.com/opinion/hong-kong-and-jimmy-lais-prison-sentence-06263211",
     "source": "wsj",
     "pubdate": "2026-02-19-17-51-00 +0000"
   },
@@ -504,6 +504,12 @@
     "pubdate": "2026-02-19-17-25-21 +0000"
   },
   {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-d1bc47c1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-19-17-24-00 +0000"
+  },
+  {
     "headline": "Opinion | Can Germany Reclaim Its Destiny Despite Its Demography?",
     "link": "https://www.wsj.com/opinion/can-germany-reclaim-its-destiny-despite-its-demography-8e0f44c8",
     "source": "wsj",
@@ -512,12 +518,6 @@
   {
     "headline": "Opinion | Therapists Have Become Too Accommodating",
     "link": "https://www.wsj.com/opinion/therapists-have-become-too-accommodating-30340725",
-    "source": "wsj",
-    "pubdate": "2026-02-19-17-24-00 +0000"
-  },
-  {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-d1bc47c1?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-19-17-24-00 +0000"
   },
@@ -1098,12 +1098,6 @@
     "pubdate": "2026-02-19-14-31-34 +0000"
   },
   {
-    "headline": "Pressure Builds in L.A. on Wasserman to Step Down From Olympics Leadership",
-    "link": "https://www.wsj.com/us-news/pressure-builds-in-l-a-on-wasserman-to-step-down-from-olympics-leadership-bbc3d37d",
-    "source": "wsj",
-    "pubdate": "2026-02-19-14-25-00 +0000"
-  },
-  {
     "headline": "The Mystery of Clouds and a Supercomputer in the Political Crosshairs",
     "link": "https://www.wsj.com/business/energy-oil/the-mystery-of-clouds-and-a-supercomputer-in-the-political-crosshairs-da5cdf0e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1112,6 +1106,12 @@
   {
     "headline": "Pressure Builds in L.A. on Wasserman to Step Down From Olympics Leadership",
     "link": "https://www.wsj.com/us-news/pressure-builds-in-l-a-on-wasserman-to-step-down-from-olympics-leadership-bbc3d37d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-14-25-00 +0000"
+  },
+  {
+    "headline": "Pressure Builds in L.A. on Wasserman to Step Down From Olympics Leadership",
+    "link": "https://www.wsj.com/us-news/pressure-builds-in-l-a-on-wasserman-to-step-down-from-olympics-leadership-bbc3d37d",
     "source": "wsj",
     "pubdate": "2026-02-19-14-25-00 +0000"
   },
@@ -1284,15 +1284,15 @@
     "pubdate": "2026-02-19-13-03-00 +0000"
   },
   {
-    "headline": "Lopez: Their houses burned but they'll return, ready to write Altadena's next chapter",
-    "link": "https://www.latimes.com/california/story/2026-02-19/their-houses-burned-but-theyll-return-ready-to-write-altadenas-next-chapter",
-    "source": "latimes",
-    "pubdate": "2026-02-19-13-00-00 +0000"
-  },
-  {
     "headline": "Political Blame Game Follows One of the Biggest Sewage Spills in U.S. History",
     "link": "https://www.wsj.com/us-news/potomac-river-sewage-spill-trump-moore-cleanup-31a17755",
     "source": "wsj",
+    "pubdate": "2026-02-19-13-00-00 +0000"
+  },
+  {
+    "headline": "Lopez: Their houses burned but they'll return, ready to write Altadena's next chapter",
+    "link": "https://www.latimes.com/california/story/2026-02-19/their-houses-burned-but-theyll-return-ready-to-write-altadenas-next-chapter",
+    "source": "latimes",
     "pubdate": "2026-02-19-13-00-00 +0000"
   },
   {
@@ -1554,6 +1554,30 @@
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
   {
+    "headline": "State bill would mandate insurance for homeowners who reduce wildfire risks",
+    "link": "https://www.latimes.com/business/story/2026-02-19/state-bill-would-mandate-insurance-for-homeowners-who-reduce-wildfire-risks",
+    "source": "latimes",
+    "pubdate": "2026-02-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: The missing quality that defines the flaws in our business and government leadership — Character",
+    "link": "https://www.latimes.com/business/story/2026-02-19/the-missing-quality-that-defines-flaws-in-our-business-government-leadership-character",
+    "source": "latimes",
+    "pubdate": "2026-02-19-11-00-00 +0000"
+  },
+  {
+    "headline": "L.A. fire victims say state regulators ignored complaints about State Farm",
+    "link": "https://www.latimes.com/business/story/2026-02-19/la-fire-victims-say-state-regulators-ignored-complaints-about-state-farm",
+    "source": "latimes",
+    "pubdate": "2026-02-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: Chipotle just saw its worst year ever. It may not get any better",
+    "link": "https://www.latimes.com/california/story/2026-02-19/chipotle-worst-year-ever",
+    "source": "latimes",
+    "pubdate": "2026-02-19-11-00-00 +0000"
+  },
+  {
     "headline": "Jury rejects claim that LAPD officer was killed in training over sexual assault report",
     "link": "https://www.latimes.com/california/story/2026-02-19/houston-tipping-lawsuit-jury-verdict",
     "source": "latimes",
@@ -1586,30 +1610,6 @@
   {
     "headline": "SoCal nonprofit exec spent thousands in public money to lift breasts, tighten tummy, D.A. says",
     "link": "https://www.latimes.com/california/story/2026-02-19/socal-nonprofit-exec-stole-thousands-public-money-breast-implants-tummy-tuck-d-a-says",
-    "source": "latimes",
-    "pubdate": "2026-02-19-11-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Chipotle just saw its worst year ever. It may not get any better",
-    "link": "https://www.latimes.com/california/story/2026-02-19/chipotle-worst-year-ever",
-    "source": "latimes",
-    "pubdate": "2026-02-19-11-00-00 +0000"
-  },
-  {
-    "headline": "State bill would mandate insurance for homeowners who reduce wildfire risks",
-    "link": "https://www.latimes.com/business/story/2026-02-19/state-bill-would-mandate-insurance-for-homeowners-who-reduce-wildfire-risks",
-    "source": "latimes",
-    "pubdate": "2026-02-19-11-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: The missing quality that defines the flaws in our business and government leadership — Character",
-    "link": "https://www.latimes.com/business/story/2026-02-19/the-missing-quality-that-defines-flaws-in-our-business-government-leadership-character",
-    "source": "latimes",
-    "pubdate": "2026-02-19-11-00-00 +0000"
-  },
-  {
-    "headline": "L.A. fire victims say state regulators ignored complaints about State Farm",
-    "link": "https://www.latimes.com/business/story/2026-02-19/la-fire-victims-say-state-regulators-ignored-complaints-about-state-farm",
     "source": "latimes",
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
@@ -2184,14 +2184,14 @@
     "pubdate": "2026-02-19-03-05-11 +0000"
   },
   {
-    "headline": "The Far-Fetched Mission to Reclaim Islands That Host a Key U.S. Military Base",
-    "link": "https://www.wsj.com/world/uk/the-far-fetched-mission-to-reclaim-islands-that-host-a-key-u-s-military-base-bc34f8c5",
+    "headline": "I Wanted to Fit In With Hollywood’s Cool Kids. So I Made the Biggest Mistake of My Career.",
+    "link": "https://www.wsj.com/tech/cybersecurity/sony-north-korea-hack-the-interview-michael-lynton-28a04475?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-19-03-00-00 +0000"
   },
   {
-    "headline": "I Wanted to Fit In With Hollywood’s Cool Kids. So I Made the Biggest Mistake of My Career.",
-    "link": "https://www.wsj.com/tech/cybersecurity/sony-north-korea-hack-the-interview-michael-lynton-28a04475?mod=pls_whats_news_us_business_f",
+    "headline": "The Far-Fetched Mission to Reclaim Islands That Host a Key U.S. Military Base",
+    "link": "https://www.wsj.com/world/uk/the-far-fetched-mission-to-reclaim-islands-that-host-a-key-u-s-military-base-bc34f8c5",
     "source": "wsj",
     "pubdate": "2026-02-19-03-00-00 +0000"
   },
@@ -2394,19 +2394,19 @@
     "pubdate": "2026-02-19-00-23-59 +0000"
   },
   {
+    "headline": "The two farms in Senegal that supply many of the UK's vegetables",
+    "link": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-00-16-54 +0000"
+  },
+  {
+    "headline": "The two farms in Senegal that supply many of the UK's vegetables",
+    "link": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-00-16-54 +0000"
+  },
+  {
     "headline": "How two farms in Senegal supply many of the UK's vegetables",
-    "link": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-00-16-54 +0000"
-  },
-  {
-    "headline": "The two farms in Senegal that supply many of the UK's vegetables",
-    "link": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-00-16-54 +0000"
-  },
-  {
-    "headline": "The two farms in Senegal that supply many of the UK's vegetables",
     "link": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-19-00-16-54 +0000"
@@ -2455,31 +2455,31 @@
   },
   {
     "headline": "Top Lawyers’ Fees Have Skyrocketed. Be Prepared to Pay $3,400 an Hour.",
+    "link": "https://www.wsj.com/business/lawyer-hourly-rate-bill-3400-807cf6ce?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-00-00-00 +0000"
+  },
+  {
+    "headline": "Top Lawyers’ Fees Have Skyrocketed. Be Prepared to Pay $3,400 an Hour.",
+    "link": "https://www.wsj.com/business/lawyer-hourly-rate-bill-3400-807cf6ce?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-00-00-00 +0000"
+  },
+  {
+    "headline": "Top Lawyers’ Fees Have Skyrocketed. Be Prepared to Pay $3,400 an Hour.",
     "link": "https://www.wsj.com/business/lawyer-hourly-rate-bill-3400-807cf6ce",
     "source": "wsj",
     "pubdate": "2026-02-19-00-00-00 +0000"
   },
   {
-    "headline": "Top Lawyers’ Fees Have Skyrocketed. Be Prepared to Pay $3,400 an Hour.",
-    "link": "https://www.wsj.com/business/lawyer-hourly-rate-bill-3400-807cf6ce?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-19-00-00-00 +0000"
-  },
-  {
-    "headline": "Top Lawyers’ Fees Have Skyrocketed. Be Prepared to Pay $3,400 an Hour.",
-    "link": "https://www.wsj.com/business/lawyer-hourly-rate-bill-3400-807cf6ce?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-19-00-00-00 +0000"
-  },
-  {
     "headline": "Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial",
-    "link": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
+    "link": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-18-23-55-00 +0000"
   },
   {
     "headline": "Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial",
-    "link": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
     "source": "wsj",
     "pubdate": "2026-02-18-23-55-00 +0000"
   },
@@ -2881,13 +2881,13 @@
   },
   {
     "headline": "Billionaire Leslie Wexner Testifies He Was ‘Duped’ by Epstein",
-    "link": "https://www.wsj.com/us-news/law/billionaire-leslie-wexner-testifies-he-was-duped-by-epstein-6df6438c",
+    "link": "https://www.wsj.com/us-news/law/billionaire-leslie-wexner-testifies-he-was-duped-by-epstein-6df6438c?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-18-21-25-00 +0000"
   },
   {
     "headline": "Billionaire Leslie Wexner Testifies He Was ‘Duped’ by Epstein",
-    "link": "https://www.wsj.com/us-news/law/billionaire-leslie-wexner-testifies-he-was-duped-by-epstein-6df6438c?mod=rss_markets_main",
+    "link": "https://www.wsj.com/us-news/law/billionaire-leslie-wexner-testifies-he-was-duped-by-epstein-6df6438c",
     "source": "wsj",
     "pubdate": "2026-02-18-21-25-00 +0000"
   },
@@ -3013,13 +3013,13 @@
   },
   {
     "headline": "Opinion | How to Bust the Sanctions-Evading Ghost Fleets",
-    "link": "https://www.wsj.com/opinion/how-to-bust-the-sanctions-evading-ghost-fleets-69ecfad1",
+    "link": "https://www.wsj.com/opinion/how-to-bust-the-sanctions-evading-ghost-fleets-69ecfad1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-18-20-20-00 +0000"
   },
   {
     "headline": "Opinion | How to Bust the Sanctions-Evading Ghost Fleets",
-    "link": "https://www.wsj.com/opinion/how-to-bust-the-sanctions-evading-ghost-fleets-69ecfad1?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/how-to-bust-the-sanctions-evading-ghost-fleets-69ecfad1",
     "source": "wsj",
     "pubdate": "2026-02-18-20-20-00 +0000"
   },
@@ -3076,83 +3076,5 @@
     "link": "https://www.washingtonpost.com/national-security/2026/02/18/trump-board-of-peace-gaza/",
     "source": "wapo",
     "pubdate": "2026-02-18-20-01-00 +0000"
-  },
-  {
-    "headline": "Wall Street bonus bonanza fuels Hamptons spending spree — sending East End home prices soaring 33%",
-    "link": "https://nypost.com/2026/02/18/business/wall-street-bonus-bonanza-fuels-hamptons-spending-spree-sending-east-end-home-prices-soaring-33/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-19-55-26 +0000"
-  },
-  {
-    "headline": "A sprawling Culver City space will soon be home to Ikea",
-    "link": "https://www.latimes.com/business/story/2026-02-18/l-a-s-westside-will-soon-get-its-first-ikea-store",
-    "source": "latimes",
-    "pubdate": "2026-02-18-19-55-04 +0000"
-  },
-  {
-    "headline": "A-list star’s energy drink brand may owe you up to $150 — how to claim the false advertising settlement",
-    "link": "https://nypost.com/2026/02/18/lifestyle/dwayne-johnsons-energy-drink-brand-agrees-to-3m-settlement/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-19-53-13 +0000"
-  },
-  {
-    "headline": "Comex Gold Settles 2.12% Higher at $4986.50",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-on-likely-technical-recovery-319bfb80?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-18-19-48-00 +0000"
-  },
-  {
-    "headline": "Fed officials signaled little appetite for reducing interest rates at January’s meeting, with most indicating they wanted to see further progress on inflation before considering more cuts",
-    "link": "https://www.wsj.com/economy/central-banking/fed-minutes-reveal-little-appetite-for-rate-cuts-ccd48956",
-    "source": "wsj",
-    "pubdate": "2026-02-18-19-43-00 +0000"
-  },
-  {
-    "headline": "Fed officials deeply divided over future rate cuts, need to see big drop in inflation: meeting minutes",
-    "link": "https://nypost.com/2026/02/18/business/fed-officials-divided-over-future-rate-cuts-must-see-inflation-drop-meeting-minutes/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-19-33-25 +0000"
-  },
-  {
-    "headline": "8 skiers found dead, 1 still missing in deadliest avalanche in Northern California in decades",
-    "link": "https://www.cbc.ca/news/world/california-avalanche-missing-skiers-survivors-9.7095896?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-18-19-30-00 +0000"
-  },
-  {
-    "headline": "Arbitrator settles flight attendant wages at Air Canada, as labour dispute comes to official end",
-    "link": "https://www.cbc.ca/news/business/air-canada-flight-attendants-rates-labour-dispute-9.7095917?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-18-19-29-30 +0000"
-  },
-  {
-    "headline": "Mark Zuckerberg testifies in L.A. trial over claims social media makes kids addicted",
-    "link": "https://www.latimes.com/california/story/2026-02-18/mark-zuckerberg-tesimony-la-social-media-trial",
-    "source": "latimes",
-    "pubdate": "2026-02-18-19-22-45 +0000"
-  },
-  {
-    "headline": "Mark Zuckerberg testifies in L.A. trial over claims social media makes kids addicted",
-    "link": "https://www.latimes.com/california/story/2026-02-18/mark-zuckerberg-tesimony-la-social-media-trial",
-    "source": "latimes",
-    "pubdate": "2026-02-18-19-22-45 +0000"
-  },
-  {
-    "headline": "Brendan Carr defends FCC role in dropped Colbert interview: ‘No censorship’",
-    "link": "https://www.washingtonpost.com/business/2026/02/18/colbert-james-talarico-fcc-segment-cbs/",
-    "source": "wapo",
-    "pubdate": "2026-02-18-19-18-31 +0000"
-  },
-  {
-    "headline": "BIG WEEK: Lunar New Year, Emory Douglas, Catherine O’Hara drag, and Bernie vs AI",
-    "link": "https://48hills.org/2026/02/big-week-lunar-new-year-emory-douglas-catherine-ohara-drag-and-bernie-vs-ai/",
-    "source": "48hills",
-    "pubdate": "2026-02-18-19-17-09 +0000"
-  },
-  {
-    "headline": "Education Department scraps Biden-era race-based rules for doctoral degree grants",
-    "link": "https://nypost.com/2026/02/18/us-news/education-department-scraps-biden-era-race-based-rules-for-doctoral-degree-grants/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-19-13-23 +0000"
   }
 ]
