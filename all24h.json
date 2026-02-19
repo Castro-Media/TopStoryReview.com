@@ -1,39 +1,195 @@
 [
   {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/18/us/lake-tahoe-avalanche-missing-skiers/lake-tahoe-avalanche-missing-skiers",
+    "source": "nyt",
+    "pubdate": "2026-02-19-04-23-38 +0000"
+  },
+  {
+    "headline": "New DHS memo outlines plan to detain refugees for further vetting",
+    "link": "https://www.washingtonpost.com/immigration/2026/02/18/trump-immigrants-refugees-minnesota-memo/",
+    "source": "wapo",
+    "pubdate": "2026-02-19-04-18-54 +0000"
+  },
+  {
+    "headline": "Father identified as victim killed in raging SoCal floodwaters",
+    "link": "https://nypost.com/2026/02/18/us-news/father-of-xx-identified-as-victim-killed-by-raging-socal-floodwaters/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-04-14-31 +0000"
+  },
+  {
+    "headline": "Bernie Sanders backs California billionaire tax, breaks rank with Newsom",
+    "link": "https://nypost.com/2026/02/18/us-news/bernie-sanders-backs-california-billionaire-tax-in-event/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-04-04-57 +0000"
+  },
+  {
+    "headline": "A Highbrow Culture War Is Rocking One of Italy’s Most Famous Opera Houses",
+    "link": "https://www.wsj.com/arts-culture/a-highbrow-culture-war-is-rocking-one-of-italys-most-famous-opera-houses-2fc57ecf",
+    "source": "wsj",
+    "pubdate": "2026-02-19-04-00-00 +0000"
+  },
+  {
+    "headline": "Malibu, 'emotionally and physically scarred,' is suing California, L.A., others over Palisades fire",
+    "link": "https://www.latimes.com/california/story/2026-02-18/malibu-sues-california-la-others-to-try-to-recoup-fire-losses",
+    "source": "latimes",
+    "pubdate": "2026-02-19-03-59-52 +0000"
+  },
+  {
+    "headline": "No roses, just red ink: S.F. immigrant students send Valentine’s message to superintendent",
+    "link": "https://missionlocal.org/2026/02/sf-immigrant-students-send-valentines-to-superintendent/",
+    "source": "missionlocal",
+    "pubdate": "2026-02-19-03-58-25 +0000"
+  },
+  {
+    "headline": "Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-03-55-43 +0000"
+  },
+  {
+    "headline": "Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-03-55-43 +0000"
+  },
+  {
+    "headline": "Texas woman arrested for allegedly helping bedridden ex-husband’s suicide — after taking advice from ‘right to die’ nonprofit",
+    "link": "https://nypost.com/2026/02/18/us-news/texas-woman-arrested-for-allegedly-helping-bedridden-ex-husbands-suicide-after-taking-advice-from-right-to-die-nonprofit/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-03-50-41 +0000"
+  },
+  {
+    "headline": "Husband of Rep. Tony Gonzales aide who fatally set herself on fire says Texas pol ‘abused his power’ in first remarks on affair",
+    "link": "https://nypost.com/2026/02/18/us-news/husand-of-rep-tony-gonzales-aide-breaks-silence-on-her-affair-with-texas-pol/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-03-49-52 +0000"
+  },
+  {
+    "headline": "Husband of Rep. Tony Gonzales aide who fatally set herself on fire says Texas pol ‘abused his power’ in first remarks on affair",
+    "link": "https://nypost.com/2026/02/18/us-news/husand-of-rep-tony-gonzales-aide-breaks-silence-on-her-affair-with-texas-pol/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-03-49-52 +0000"
+  },
+  {
+    "headline": "Sicko elementary school aide who engaged in heinous sex acts with 4 boys learns her fate: ‘Profound breach of trust’",
+    "link": "https://nypost.com/2026/02/18/us-news/sicko-wi-elementary-school-staffer-slapped-with-51-year-sentence-for-sex-crimes-involving-4-boys/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-03-48-31 +0000"
+  },
+  {
+    "headline": "As Israel takes steps to claim land in West Bank, U.S. stands by",
+    "link": "https://www.washingtonpost.com/world/2026/02/18/israel-west-bank-annexation-trump-land-registration/",
+    "source": "wapo",
+    "pubdate": "2026-02-19-03-43-28 +0000"
+  },
+  {
+    "headline": "Zuckerberg defends Meta in landmark social media addiction trial",
+    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-03-29-12 +0000"
+  },
+  {
+    "headline": "Zuckerberg defends Meta in landmark social media addiction trial",
+    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-03-29-12 +0000"
+  },
+  {
+    "headline": "Zuckerberg defends Meta in landmark social media addiction trial",
+    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-03-29-12 +0000"
+  },
+  {
+    "headline": "Southern California man charged with murder of missing teen after remains found in Salton Sea area",
+    "link": "https://www.latimes.com/california/story/2026-02-18/southern-california-man-charged-with-murder-of-missing-teen-after-remains-found-in-salton-sea-area",
+    "source": "latimes",
+    "pubdate": "2026-02-19-03-28-37 +0000"
+  },
+  {
+    "headline": "Second skier killed at North Lake Tahoe ski resort",
+    "link": "https://nypost.com/2026/02/18/us-news/second-skier-killed-at-northstar-ski-resort-in-truckee/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-03-21-33 +0000"
+  },
+  {
+    "headline": "NYC’s iconic accent — think ‘Goodfellas’ and ‘A Bronx Tale’ — is slowly disappearing from daily lingo, study says",
+    "link": "https://nypost.com/2026/02/18/us-news/nycs-iconic-accent-think-goodfellas-and-a-bronx-tale-is-slowly-disappearing-from-daily-lingo-study-says/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-03-08-03 +0000"
+  },
+  {
+    "headline": "Justice Dept. Lawyer Is Found in Contempt by Federal Judge",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/justice-department-minnesota-contempt.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-03-05-11 +0000"
+  },
+  {
+    "headline": "Justice Dept. Lawyer Is Found in Contempt by Federal Judge",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/justice-department-minnesota-contempt.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-03-05-11 +0000"
+  },
+  {
+    "headline": "Hollywood Bowl releases summer schedule with major names headlining historic venue",
+    "link": "https://nypost.com/2026/02/18/us-news/hollywood-bowl-2026-summer-lineup-foo-fighters-beach-boys-dudamel-and-more/",
+    "source": "nypost",
+    "pubdate": "2026-02-19-03-01-47 +0000"
+  },
+  {
+    "headline": "I Wanted Hollywood to Accept Me. So I Made the Biggest Mistake of My Career.",
+    "link": "https://www.wsj.com/tech/cybersecurity/sony-north-korea-hack-the-interview-michael-lynton-28a04475?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-03-00-00 +0000"
+  },
+  {
+    "headline": "The Far-Fetched Mission to Reclaim Islands That Host a Key U.S. Military Base",
+    "link": "https://www.wsj.com/world/uk/the-far-fetched-mission-to-reclaim-islands-that-host-a-key-u-s-military-base-bc34f8c5",
+    "source": "wsj",
+    "pubdate": "2026-02-19-03-00-00 +0000"
+  },
+  {
+    "headline": "Four Chagossian men say they returned to the Chagos islands to block Britain’s handover to Mauritius of the islands that host a huge U.S.-U.K. military base",
+    "link": "https://www.wsj.com/world/uk/the-far-fetched-mission-to-reclaim-islands-that-host-a-key-u-s-military-base-bc34f8c5",
+    "source": "wsj",
+    "pubdate": "2026-02-19-03-00-00 +0000"
+  },
+  {
+    "headline": "Minnesota snowstorm mires traffic in Twin Cities and brings power failures in Arrowhead region",
+    "link": "https://www.startribune.com/winter-storm-warning-minnesota-north/601583753",
+    "source": "startribune",
+    "pubdate": "2026-02-19-02-59-02 +0000"
+  },
+  {
+    "headline": "Gophers women’s basketball takes down No. 10 Ohio State for ninth straight win",
+    "link": "https://www.startribune.com/gophers-womens-basketball-ohio-state-dawn-plitzuweit-sophie-hart-mara-braun/601557381",
+    "source": "startribune",
+    "pubdate": "2026-02-19-02-55-47 +0000"
+  },
+  {
+    "headline": "Singapore Dollar Consolidates Amid Holiday-Subdued Trading",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fading-fed-rate-cut-prospects-could-weigh-7694c78e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-19-02-54-00 +0000"
+  },
+  {
+    "headline": "The teacher who won $1m for turning India's slums into open-air classrooms",
+    "link": "https://www.bbc.com/news/articles/cm28nkvrwe4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-02-44-45 +0000"
+  },
+  {
     "headline": "City by the pint: Our toast-worthy guide to SF Beer Week",
     "link": "https://48hills.org/2026/02/city-by-the-pint-our-toast-worthy-guide-to-sf-beer-week/",
     "source": "48hills",
     "pubdate": "2026-02-19-02-40-17 +0000"
   },
   {
-    "headline": "USD/JPY’s Near-Term Risks Appear Skewed to Upside",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fading-fed-rate-cut-prospects-could-weigh-7694c78e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-19-02-39-00 +0000"
-  },
-  {
-    "headline": "Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html",
-    "source": "nyt",
-    "pubdate": "2026-02-19-02-35-58 +0000"
-  },
-  {
-    "headline": "Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html",
-    "source": "nyt",
-    "pubdate": "2026-02-19-02-35-58 +0000"
-  },
-  {
     "headline": "Dozens of Southern California politicians call on Wasserman to resign as LA28 Olympics chair",
     "link": "https://www.latimes.com/california/story/2026-02-18/dozens-of-southern-california-politicians-call-on-wasserman-to-step-down",
     "source": "latimes",
     "pubdate": "2026-02-19-02-32-49 +0000"
-  },
-  {
-    "headline": "Minnesota snowstorm mires traffic in Twin Cities and brings power failures in Arrowhead region",
-    "link": "https://www.startribune.com/winter-storm-warning-minnesota-north/601583753",
-    "source": "startribune",
-    "pubdate": "2026-02-19-02-31-09 +0000"
   },
   {
     "headline": "The top Republican challenger to Rep. Tony Gonzales called for him to drop out of the primary race in Texas following allegations that he engaged in an extramarital affair with an aide",
@@ -46,18 +202,6 @@
     "link": "https://nypost.com/2026/02/18/us-news/altadena-residents-in-eaton-fire-zone-oppose-against-socal-edison-plan-for-expensive-underground-power-lines/",
     "source": "nypost",
     "pubdate": "2026-02-19-02-24-32 +0000"
-  },
-  {
-    "headline": "Justice Dept. Lawyer Is Found in Contempt by Federal Judge",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/justice-department-minnesota-contempt.html",
-    "source": "nyt",
-    "pubdate": "2026-02-19-02-19-22 +0000"
-  },
-  {
-    "headline": "Justice Dept. Lawyer Is Found in Contempt by Federal Judge",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/justice-department-minnesota-contempt.html",
-    "source": "nyt",
-    "pubdate": "2026-02-19-02-19-22 +0000"
   },
   {
     "headline": "Billionaire Les Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
@@ -165,25 +309,25 @@
     "headline": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
     "source": "nyt",
-    "pubdate": "2026-02-19-01-36-42 +0000"
+    "pubdate": "2026-02-19-01-36-43 +0000"
   },
   {
     "headline": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
     "source": "nyt",
-    "pubdate": "2026-02-19-01-36-42 +0000"
+    "pubdate": "2026-02-19-01-36-43 +0000"
   },
   {
     "headline": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
     "source": "nyt",
-    "pubdate": "2026-02-19-01-36-42 +0000"
+    "pubdate": "2026-02-19-01-36-43 +0000"
   },
   {
     "headline": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
     "source": "nyt",
-    "pubdate": "2026-02-19-01-36-42 +0000"
+    "pubdate": "2026-02-19-01-36-43 +0000"
   },
   {
     "headline": "St. Paul bans ICE face coverings, requires identifying badges",
@@ -306,12 +450,6 @@
     "pubdate": "2026-02-19-00-35-17 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/18/us/lake-tahoe-avalanche-missing-skiers/lake-tahoe-avalanche-missing-skiers",
-    "source": "nyt",
-    "pubdate": "2026-02-19-00-30-10 +0000"
-  },
-  {
     "headline": "Westchester County cops ready to pounce after teen mob takeover at NYC mall: ‘Zero hesitation’",
     "link": "https://nypost.com/2026/02/18/us-news/westchester-county-cops-ready-to-pounce-after-teen-mob-takeover-at-nyc-mall/",
     "source": "nypost",
@@ -360,22 +498,16 @@
     "pubdate": "2026-02-19-00-16-54 +0000"
   },
   {
-    "headline": "NYC high on its own supply as pot taxes skyrocket — but cannabis insiders say surge can be higher",
-    "link": "https://nypost.com/2026/02/18/us-news/nyc-high-on-its-own-supply-as-pot-taxes-skyrocket-but-cannabis-insiders-say-it-can-be-higher/",
-    "source": "nypost",
-    "pubdate": "2026-02-19-00-16-08 +0000"
+    "headline": "The two farms in Senegal that supply many of the UK's vegetables",
+    "link": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-00-16-54 +0000"
   },
   {
     "headline": "Shipwreck Found at the Bottom of Lake Michigan After Nearly 150 Years",
     "link": "https://www.nytimes.com/2026/02/18/us/shipwreck-lac-la-belle-discovered-lake-michigan.html",
     "source": "nyt",
     "pubdate": "2026-02-19-00-08-07 +0000"
-  },
-  {
-    "headline": "California voters’ disapproval of Gavin Newsom hits highest level since 2024, poll shows",
-    "link": "https://nypost.com/2026/02/18/us-news/california-voters-disapproval-of-gavin-newsom-hits-highest-level-since-2024-poll-show/",
-    "source": "nypost",
-    "pubdate": "2026-02-19-00-06-55 +0000"
   },
   {
     "headline": "County prosecutors probing whether Edison should be criminally prosecuted for Eaton fire",
@@ -400,12 +532,6 @@
     "link": "https://www.bbc.com/news/articles/c98g1klxnpxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-19-00-04-44 +0000"
-  },
-  {
-    "headline": "Video shows plane abort LAX landing at last second as heavy winds battered the city",
-    "link": "https://nypost.com/2026/02/18/us-news/video-shows-plane-abort-landing-at-last-second-as-heavy-winds-batter-la/",
-    "source": "nypost",
-    "pubdate": "2026-02-19-00-04-11 +0000"
   },
   {
     "headline": "DoorDash Expects Ramped Up Spending to Dent First Quarter",
@@ -436,18 +562,6 @@
     "link": "https://www.wsj.com/business/lawyer-hourly-rate-bill-3400-807cf6ce",
     "source": "wsj",
     "pubdate": "2026-02-19-00-00-00 +0000"
-  },
-  {
-    "headline": "COO steals $132,000 in public cash and blows it on plastic surgeries, Disneyland trip: Cops",
-    "link": "https://nypost.com/2026/02/18/us-news/amy-knox-was-arrested-for-her-alleged-theft-from-the-harm-reduction-coalition-of-san-diego-said-district-attorney-summer-stephan/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-23-58-58 +0000"
-  },
-  {
-    "headline": "Newark Airport briefly shut down due to ‘aircraft emergency’",
-    "link": "https://nypost.com/2026/02/18/us-news/newark-airport-suddenly-shut-down-over-aircraft-emergency/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-23-55-12 +0000"
   },
   {
     "headline": "Mark Zuckerberg Grilled on Usage Goals and Underage Users at California Trial",
@@ -486,18 +600,6 @@
     "pubdate": "2026-02-18-23-44-00 +0000"
   },
   {
-    "headline": "Trans Rhode Island hockey killer’s daughter describes moment she locked eyes with her dad — and how she survived",
-    "link": "https://nypost.com/2026/02/18/us-news/trans-rhode-island-hockey-killers-daughter-describes-moment-she-locked-eyes-with-her-dad/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-23-43-53 +0000"
-  },
-  {
-    "headline": "LAPD chief urges kids to stay in school and avoid dangerous anti-ICE protests",
-    "link": "https://nypost.com/2026/02/18/us-news/lapd-chief-jim-mcdonnell-tells-students-to-stay-in-class-and-avoid-dangerous-anti-ice-protests/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-23-41-46 +0000"
-  },
-  {
     "headline": "'Commercial-grade' fireworks show is latest stunt set on 6th Street Bridge, spread on social",
     "link": "https://www.latimes.com/california/story/2026-02-18/commercial-grade-fireworks-show-6th-street-bridge",
     "source": "latimes",
@@ -514,12 +616,6 @@
     "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-growing-risks-of-u-s-iran-conflict-a48f8760?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-18-23-37-00 +0000"
-  },
-  {
-    "headline": "Kevin Kiley moves to end mass CA billionaire exodus with fight against wealth tax",
-    "link": "https://nypost.com/2026/02/18/us-news/kevin-kiley-moves-to-end-mass-ca-billionaire-exodus-with-fight-against-wealth-tax/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-23-36-31 +0000"
   },
   {
     "headline": "Bay Area activist Guillermo Reyes, who fought detention, arrested by ICE",
@@ -664,24 +760,6 @@
     "link": "https://nypost.com/2026/02/18/us-news/trump-family-unveils-crypto-deals-and-power-plays-at-mar-a-lago-summit-they-created-a-monster/",
     "source": "nypost",
     "pubdate": "2026-02-18-23-03-45 +0000"
-  },
-  {
-    "headline": "Zuckerberg defends Meta in landmark social media addiction trial",
-    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-22-58-58 +0000"
-  },
-  {
-    "headline": "Zuckerberg defends Meta in landmark social media addiction trial",
-    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-22-58-58 +0000"
-  },
-  {
-    "headline": "Zuckerberg defends Meta in landmark social media addiction trial",
-    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-22-58-58 +0000"
   },
   {
     "headline": "Search dogs, rescuers and helicopters as Mexico City holds earthquake drill",
@@ -945,13 +1023,13 @@
     "headline": "F.D.A. Reverses Decision and Agrees to Review Moderna’s Flu Vaccine",
     "link": "https://www.nytimes.com/2026/02/18/health/fda-moderna-flu-vaccine-mrna.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-21-40-46 +0000"
+    "pubdate": "2026-02-18-21-40-47 +0000"
   },
   {
     "headline": "F.D.A. Reverses Decision and Agrees to Review Moderna’s Flu Vaccine",
     "link": "https://www.nytimes.com/2026/02/18/health/fda-moderna-flu-vaccine-mrna.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-21-40-46 +0000"
+    "pubdate": "2026-02-18-21-40-47 +0000"
   },
   {
     "headline": "Grandson of Reese’s founder alleges Hershey has switched to cheaper ingredients – sparking family feud",
@@ -1002,7 +1080,7 @@
     "pubdate": "2026-02-18-21-25-00 +0000"
   },
   {
-    "headline": "Trump ready for ‘sustained’ strikes on Iran as US military executes ‘unprecedented’ Middle East buildup",
+    "headline": "Trump could launch ‘sustained’ attack on Iran within days after US military’s ‘unprecedented’ Middle East buildup",
     "link": "https://nypost.com/2026/02/18/world-news/trump-ready-for-sustained-strikes-on-iran-with-massive-middle-east-buildup/",
     "source": "nypost",
     "pubdate": "2026-02-18-21-21-09 +0000"
@@ -1227,13 +1305,13 @@
     "headline": "N.I.H. Director Will Temporarily Run C.D.C. in Leadership Shake-Up",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/bhattacharya-kennedy-cdc-director.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-20-15-21 +0000"
+    "pubdate": "2026-02-18-20-15-22 +0000"
   },
   {
     "headline": "N.I.H. Director Will Temporarily Run C.D.C. in Leadership Shake-Up",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/bhattacharya-kennedy-cdc-director.html",
     "source": "nyt",
-    "pubdate": "2026-02-18-20-15-21 +0000"
+    "pubdate": "2026-02-18-20-15-22 +0000"
   },
   {
     "headline": "Democrats plot boycott of Trump’s State of the Union address with lefty rally",
@@ -1410,12 +1488,6 @@
     "pubdate": "2026-02-18-18-50-44 +0000"
   },
   {
-    "headline": "As Israel takes steps to claim land in West Bank, U.S. stands by",
-    "link": "https://www.washingtonpost.com/world/2026/02/18/israel-west-bank-annexation-trump-land-registration/",
-    "source": "wapo",
-    "pubdate": "2026-02-18-18-50-32 +0000"
-  },
-  {
     "headline": "Iran fortifying its military and nuclear sites as tensions grow with the US, satellite images show",
     "link": "https://nypost.com/2026/02/18/world-news/iran-fortifying-its-military-and-nuclear-sites-as-tensions-grow-with-the-us-satellite-images-show/",
     "source": "nypost",
@@ -1480,12 +1552,6 @@
     "link": "https://www.wsj.com/opinion/to-deliver-natural-gas-build-more-pipelines-53e1add1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-18-18-05-00 +0000"
-  },
-  {
-    "headline": "Moriarty: State ‘in good shape’ to consider charging federal agents in slayings of Good, Pretti",
-    "link": "https://www.startribune.com/moriarty-state-in-good-shape-to-consider-charging-federal-agents-in-slayings-of-good-pretti/601584342",
-    "source": "startribune",
-    "pubdate": "2026-02-18-18-03-46 +0000"
   },
   {
     "headline": "You're never too old, says dancer, 71, cast in Taylor Swift video",
@@ -2262,7 +2328,7 @@
     "pubdate": "2026-02-18-12-00-00 +0000"
   },
   {
-    "headline": "3 years after fire, tenants long to return to Inner Sunset ‘spaghetti paradise’ apartment",
+    "headline": "3 years after fire, tenants long to return to Inner Sunset ‘spaghetti paradise’ apartments",
     "link": "https://missionlocal.org/2026/02/sf-sunset-apartment-fire-eighth-avenue/",
     "source": "missionlocal",
     "pubdate": "2026-02-18-12-00-00 +0000"
@@ -2402,12 +2468,6 @@
   {
     "headline": "Lara Trump reveals Trump’s unexpected reaction to leaving White House in 2021 on ‘Pod Force One’",
     "link": "https://nypost.com/2026/02/18/us-news/lara-trump-reveals-trumps-reaction-to-leaving-white-house-in-2021-on-pod-force-one/",
-    "source": "nypost",
-    "pubdate": "2026-02-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Trump ‘taking an interest’ in social media bans for teens, daughter-in-law Lara tells ‘Pod Force One’",
-    "link": "https://nypost.com/2026/02/18/us-news/trump-taking-an-interest-in-social-media-bans-for-teens-daughter-in-law-lara-tells-pod-force-one/",
     "source": "nypost",
     "pubdate": "2026-02-18-11-00-00 +0000"
   },
@@ -2686,41 +2746,5 @@
     "link": "https://www.bbc.com/news/articles/cy4wvk9vn40o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-18-04-50-10 +0000"
-  },
-  {
-    "headline": "No DNA matches on glove found in Nancy Guthrie case, police say",
-    "link": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-04-32-16 +0000"
-  },
-  {
-    "headline": "Philippine VP Sara Duterte to run for president in 2028",
-    "link": "https://www.bbc.com/news/articles/cn5g207k7d5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-04-09-51 +0000"
-  },
-  {
-    "headline": "Philippine VP Sara Duterte to run for president in 2028",
-    "link": "https://www.bbc.com/news/articles/cn5g207k7d5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-04-09-51 +0000"
-  },
-  {
-    "headline": "UCLA fires top finance officer, saying he made inaccurate claims about campus budget",
-    "link": "https://www.latimes.com/california/story/2026-02-17/ucla-fires-cfo-stephen-agostini",
-    "source": "latimes",
-    "pubdate": "2026-02-18-04-04-52 +0000"
-  },
-  {
-    "headline": "A Giant ISIS Detention Facility Comes Apart in Syria’s Desert",
-    "link": "https://www.wsj.com/world/middle-east/chaotic-closure-of-a-huge-isis-detention-camp-is-testing-syrias-regime-fb738abd",
-    "source": "wsj",
-    "pubdate": "2026-02-18-04-00-00 +0000"
-  },
-  {
-    "headline": "US says it supports UK Chagos Islands deal",
-    "link": "https://www.bbc.com/news/articles/cgrz2v98z0ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-03-55-56 +0000"
   }
 ]
