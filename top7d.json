@@ -1,34 +1,34 @@
 [
   {
-    "score": 274,
-    "pubdate": "2026-02-18-15-33-00 +0000",
-    "source": "wsj",
-    "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
-    "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
-  },
-  {
-    "score": 168,
+    "score": 273,
     "pubdate": "2026-02-18-00-48-22 +0000",
     "source": "bbc",
     "headline": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
     "link": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 124,
+    "score": 170,
+    "pubdate": "2026-02-18-15-33-00 +0000",
+    "source": "wsj",
+    "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
+    "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
+  },
+  {
+    "score": 128,
     "pubdate": "2026-02-18-14-18-49 +0000",
     "source": "latimes",
     "headline": "Eight skiers dead and one missing in deadliest avalanche in modern California history",
     "link": "https://www.latimes.com/california/story/2026-02-18/as-desperate-search-for-avalanche-victims-continues-why-they-were-skiing-backcountry-in-blizzard"
   },
   {
-    "score": 123,
+    "score": 127,
     "pubdate": "2026-02-17-18-11-11 +0000",
     "source": "wapo",
     "headline": "Amid threat of U.S. attack, Iran nuclear talks proceed without breakthrough",
     "link": "https://www.washingtonpost.com/world/2026/02/17/iran-talks-geneva-nuclear-trump/"
   },
   {
-    "score": 121,
+    "score": 123,
     "pubdate": "2026-02-19-02-27-00 +0000",
     "source": "wsj",
     "headline": "The top Republican challenger to Rep. Tony Gonzales called for him to drop out of the primary race in Texas following allegations that he engaged in an extramarital affair with an aide",
@@ -42,11 +42,18 @@
     "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
   },
   {
-    "score": 97,
+    "score": 94,
     "pubdate": "2026-02-18-19-43-00 +0000",
     "source": "wsj",
     "headline": "Fed officials signaled little appetite for reducing interest rates at January’s meeting, with most indicating they wanted to see further progress on inflation before considering more cuts",
     "link": "https://www.wsj.com/economy/central-banking/fed-minutes-reveal-little-appetite-for-rate-cuts-ccd48956"
+  },
+  {
+    "score": 90,
+    "pubdate": "2026-02-13-22-19-13 +0000",
+    "source": "latimes",
+    "headline": "Newsom tells world leaders Trump's retreat on the environment will mean economic harm",
+    "link": "https://www.latimes.com/california/story/2026-02-13/newsom-tells-world-leaders-trumps-retreat-on-environment-will-mean-economic-harm"
   },
   {
     "score": 89,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/politics/how-stephen-colbert-could-end-up-impacting-the-midterms-70911834"
   },
   {
-    "score": 88,
+    "score": 87,
     "pubdate": "2026-02-18-16-06-31 +0000",
     "source": "nypost",
     "headline": "21-year-old Israeli soldier killed by friendly Gaza fire: IDF",
     "link": "https://nypost.com/2026/02/18/world-news/israeli-soldier-killed-by-friendly-gaza-fire-idf/"
-  },
-  {
-    "score": 85,
-    "pubdate": "2026-02-13-22-19-13 +0000",
-    "source": "latimes",
-    "headline": "Newsom tells world leaders Trump's retreat on the environment will mean economic harm",
-    "link": "https://www.latimes.com/california/story/2026-02-13/newsom-tells-world-leaders-trumps-retreat-on-environment-will-mean-economic-harm"
   }
 ]
