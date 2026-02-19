@@ -1,26 +1,5 @@
 [
   {
-    "score": 37,
-    "pubdate": "2026-02-19-11-06-44 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: U.K. Police Arrest Former Prince Andrew Over Epstein Ties, BBC Reports",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-02-19-10-30-00 +0000",
-    "source": "nypost",
-    "headline": "Utah ‘dance mom’ who killed daughter at cheer competition had visits cut, record of violence — but still had parental control",
-    "link": "https://nypost.com/2026/02/19/us-news/tawnia-mcgeehan-had-visits-with-slain-daughter-cut-record-of-violence/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-02-19-11-01-07 +0000",
-    "source": "bbc",
-    "headline": "Billionaire Les Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
-    "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 16,
     "pubdate": "2026-02-19-11-07-24 +0000",
     "source": "bbc",
@@ -29,44 +8,51 @@
   },
   {
     "score": 16,
-    "pubdate": "2026-02-19-10-50-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Treasury Yields Rise as Fed Minutes Reduce Rate-Cut Prospects",
-    "link": "https://www.wsj.com/opinion/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-a31a880b?mod=rss_markets_main"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-02-19-10-47-09 +0000",
-    "source": "bbc",
-    "headline": "Samba school that praised Brazil's Lula  at Rio Carnival relegated",
-    "link": "https://www.bbc.com/news/articles/c3ewvz0j87zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-02-19-10-30-00 +0000",
-    "source": "wsj",
-    "headline": "Uber, Latest Victim of Disruption Panic, Still Has Role in Robotaxis",
-    "link": "https://www.wsj.com/tech/uber-latest-victim-of-disruption-panic-still-has-role-in-robotaxis-7cb07d60?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-02-19-10-52-16 +0000",
-    "source": "bbc",
-    "headline": "Warmer weather hits profits at British Gas owner",
-    "link": "https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-02-19-10-44-35 +0000",
+    "pubdate": "2026-02-19-11-03-36 +0000",
     "source": "nyt",
-    "headline": "Europe Worries About Another Trump Blowup, This One on Tech",
-    "link": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html"
+    "headline": "Besides Yoon, 5 other former officials get long prison terms.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/besides-yoon-5-other-former-officials-get-long-prison-terms"
   },
   {
-    "score": 14,
-    "pubdate": "2026-02-19-10-15-00 +0000",
-    "source": "nypost",
-    "headline": "Ex-Prince Andrew arrested by UK police over Epstein-linked allegations: Report",
-    "link": "https://nypost.com/2026/02/19/world-news/ex-prince-andrew-mountbatten-arrested-for-misconduct-in-public-office-over-his-links-to-jeffrey-epstein/"
+    "score": 12,
+    "pubdate": "2026-02-19-11-06-44 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: U.K. Police Arrest Former Prince Andrew Over Epstein Ties, BBC Reports",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-19-11-03-38 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: South Korean Ex-Leader Is Sentenced to Life in Prison",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-02-19-11-03-33 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/uk-police-arrest-prince-andrew-epstein"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-19-11-07-24 +0000",
+    "source": "bbc",
+    "headline": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
+    "link": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-19-11-03-36 +0000",
+    "source": "nyt",
+    "headline": "Besides Yoon, 5 other former officials get long prison terms.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/besides-yoon-5-other-former-officials-get-long-prison-terms"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-19-11-03-33 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/uk-police-arrest-prince-andrew-epstein"
   }
 ]
