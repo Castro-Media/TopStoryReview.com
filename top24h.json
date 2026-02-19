@@ -1,66 +1,59 @@
 [
   {
-    "score": 133,
+    "score": 144,
     "pubdate": "2026-02-18-15-33-00 +0000",
     "source": "wsj",
     "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
     "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
   },
   {
-    "score": 86,
+    "score": 93,
     "pubdate": "2026-02-18-00-48-22 +0000",
     "source": "bbc",
     "headline": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
     "link": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 77,
-    "pubdate": "2026-02-18-00-23-43 +0000",
-    "source": "bbc",
-    "headline": "'He did it for us': US soldier recalls Jesse Jackson's efforts to free him and two other POWs",
-    "link": "https://www.bbc.com/news/articles/cwykn2endnyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 64,
-    "pubdate": "2026-02-18-20-19-54 +0000",
-    "source": "nypost",
-    "headline": "Mark Zuckerberg grilled by lawyers about app screen time in landmark social media addiction trial at LA court",
-    "link": "https://nypost.com/2026/02/18/us-news/zuckerberg-asked-about-screen-time-in-social-media-addiction-trial-at-la-court/"
-  },
-  {
-    "score": 63,
+    "score": 68,
     "pubdate": "2026-02-18-19-30-00 +0000",
     "source": "cbc",
     "headline": "8 skiers found dead, 1 still missing in deadliest avalanche in Northern California in decades",
     "link": "https://www.cbc.ca/news/world/california-avalanche-missing-skiers-survivors-9.7095896?cmp=rss"
   },
   {
-    "score": 61,
-    "pubdate": "2026-02-18-19-43-00 +0000",
-    "source": "wsj",
-    "headline": "Fed officials signaled little appetite for reducing interest rates at their meeting last month, with most indicating they wanted to see further progress on inflation before considering any further cuts",
-    "link": "https://www.wsj.com/economy/central-banking/fed-minutes-reveal-little-appetite-for-rate-cuts-ccd48956"
+    "score": 63,
+    "pubdate": "2026-02-18-00-23-43 +0000",
+    "source": "bbc",
+    "headline": "'He did it for us': US soldier recalls Jesse Jackson's efforts to free him and two other POWs",
+    "link": "https://www.bbc.com/news/articles/cwykn2endnyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 57,
-    "pubdate": "2026-02-18-20-29-51 +0000",
+    "score": 59,
+    "pubdate": "2026-02-18-11-00-00 +0000",
     "source": "nypost",
-    "headline": "Ex-Victoria’s Secret CEO Les Wexner testifies that Jeffrey Epstein was an ‘Olympic con artist’",
-    "link": "https://nypost.com/2026/02/18/us-news/ex-victorias-secret-ceo-les-wexner-says-jeffrey-epstein-was-an-olympic-con-artist/"
+    "headline": "Trump ‘taking an interest’ in social media bans for teens, daughter-in-law Lara tells ‘Pod Force One’",
+    "link": "https://nypost.com/2026/02/18/us-news/trump-taking-an-interest-in-social-media-bans-for-teens-daughter-in-law-lara-tells-pod-force-one/"
   },
   {
-    "score": 55,
+    "score": 56,
     "pubdate": "2026-02-18-12-56-39 +0000",
     "source": "cbc",
     "headline": "No sign of a breakthrough in Russia-Ukraine talks as latest round ends in Geneva",
     "link": "https://www.cbc.ca/news/world/switzerland-russia-ukraine-us-war-talks-9.7095062?cmp=rss"
   },
   {
-    "score": 50,
-    "pubdate": "2026-02-17-22-26-00 +0000",
+    "score": 49,
+    "pubdate": "2026-02-18-19-43-00 +0000",
     "source": "wsj",
-    "headline": "The U.S. presented new data to buttress its recent allegation that China has secretly carried out low-yield nuclear tests, challenging Beijing’s insistence that it has observed an accord banning nuclear detonations",
-    "link": "https://www.wsj.com/politics/national-security/u-s-hardens-allegation-that-china-conducted-a-secret-nuclear-test-644a918a"
+    "headline": "Fed officials signaled little appetite for reducing interest rates at last month’s meeting, with most indicating they wanted to see further progress on inflation before considering further cuts",
+    "link": "https://www.wsj.com/economy/central-banking/fed-minutes-reveal-little-appetite-for-rate-cuts-ccd48956"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-02-18-20-51-08 +0000",
+    "source": "nypost",
+    "headline": "Tucker Carlson claims he was ‘detained’ in Israeli airport — but ambassador says it was just routine customs check",
+    "link": "https://nypost.com/2026/02/18/world-news/tucker-carlson-says-he-staff-were-detained-in-israel-after-interview-with-us-ambassador/"
   },
   {
     "score": 46,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "NIH Director Dr. Jay Bhattacharya will step in as acting CDC director, the latest move by the Trump administration to steady the leadership ranks at the Department of Health and Human Services",
     "link": "https://www.wsj.com/politics/policy/rfk-jr-cdc-acting-director-jay-bhattacharya-fd24632c"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-02-18-20-29-51 +0000",
+    "source": "nypost",
+    "headline": "Ex-Victoria’s Secret CEO Les Wexner testifies that Jeffrey Epstein was an ‘Olympic con artist’",
+    "link": "https://nypost.com/2026/02/18/us-news/ex-victorias-secret-ceo-les-wexner-says-jeffrey-epstein-was-an-olympic-con-artist/"
   }
 ]
