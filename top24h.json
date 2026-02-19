@@ -1,24 +1,38 @@
 [
   {
-    "score": 139,
+    "score": 141,
     "pubdate": "2026-02-18-15-33-00 +0000",
     "source": "wsj",
     "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
     "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
   },
   {
-    "score": 79,
+    "score": 82,
+    "pubdate": "2026-02-19-02-27-00 +0000",
+    "source": "wsj",
+    "headline": "The top Republican challenger to Rep. Tony Gonzales called for him to drop out of the primary race in Texas following allegations that he engaged in an extramarital affair with an aide",
+    "link": "https://www.wsj.com/politics/elections/texas-tony-gonzales-aide-allegations-e2c2ca68"
+  },
+  {
+    "score": 80,
     "pubdate": "2026-02-18-14-18-49 +0000",
     "source": "latimes",
     "headline": "Eight skiers dead and one missing in deadliest avalanche in modern California history",
     "link": "https://www.latimes.com/california/story/2026-02-18/as-desperate-search-for-avalanche-victims-continues-why-they-were-skiing-backcountry-in-blizzard"
   },
   {
-    "score": 79,
-    "pubdate": "2026-02-19-02-27-00 +0000",
-    "source": "wsj",
-    "headline": "The top Republican challenger to Rep. Tony Gonzales called for him to drop out of the primary race in Texas following allegations that he engaged in an extramarital affair with an aide",
-    "link": "https://www.wsj.com/politics/elections/texas-tony-gonzales-aide-allegations-e2c2ca68"
+    "score": 68,
+    "pubdate": "2026-02-19-06-08-07 +0000",
+    "source": "bbc",
+    "headline": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
+    "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 66,
+    "pubdate": "2026-02-18-12-56-39 +0000",
+    "source": "cbc",
+    "headline": "No sign of a breakthrough in Russia-Ukraine talks as latest round ends in Geneva",
+    "link": "https://www.cbc.ca/news/world/switzerland-russia-ukraine-us-war-talks-9.7095062?cmp=rss"
   },
   {
     "score": 62,
@@ -28,11 +42,11 @@
     "link": "https://www.wsj.com/politics/how-stephen-colbert-could-end-up-impacting-the-midterms-70911834"
   },
   {
-    "score": 59,
-    "pubdate": "2026-02-18-12-56-39 +0000",
-    "source": "cbc",
-    "headline": "No sign of a breakthrough in Russia-Ukraine talks as latest round ends in Geneva",
-    "link": "https://www.cbc.ca/news/world/switzerland-russia-ukraine-us-war-talks-9.7095062?cmp=rss"
+    "score": 61,
+    "pubdate": "2026-02-19-05-50-43 +0000",
+    "source": "nypost",
+    "headline": "Pima County Sheriff’s office at center of Nancy Guthrie case spotlighted on new TV show ‘Desert Law’",
+    "link": "https://nypost.com/2026/02/19/us-news/pima-county-sheriffs-office-at-center-of-nancy-guthrie-case-spotlighted-on-new-tv-show-desert-law/"
   },
   {
     "score": 59,
@@ -42,31 +56,17 @@
     "link": "https://www.wsj.com/economy/central-banking/fed-minutes-reveal-little-appetite-for-rate-cuts-ccd48956"
   },
   {
-    "score": 56,
-    "pubdate": "2026-02-18-17-53-07 +0000",
-    "source": "nypost",
-    "headline": "Trump sends America’s biggest warship, advanced fighters toward Iran in biggest military buildup yet",
-    "link": "https://nypost.com/2026/02/18/world-news/trump-sends-uss-gerald-ford-f-22s-f-35s-toward-iran-ahead-of-possible-strikes/"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-02-18-11-30-00 +0000",
-    "source": "wsj",
-    "headline": "Quantum Capital Raises $2.3 Billion So Far for New Energy Fund and Scores an Exit",
-    "link": "https://www.wsj.com/articles/quantum-capital-raises-2-3-billion-so-far-for-new-energy-fund-and-scores-an-exit-70b72867?mod=rss_markets_main"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-02-18-21-01-43 +0000",
-    "source": "nyt",
-    "headline": "Colorado Democrats Push to Rip Up 2028 House Map for an Extra Edge",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/colorado-redistricting-house-map-2028.html"
-  },
-  {
     "score": 51,
     "pubdate": "2026-02-18-19-22-45 +0000",
     "source": "latimes",
     "headline": "Mark Zuckerberg testifies in L.A. trial over claims social media makes kids addicted",
     "link": "https://www.latimes.com/california/story/2026-02-18/mark-zuckerberg-tesimony-la-social-media-trial"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-02-18-23-03-56 +0000",
+    "source": "nyt",
+    "headline": "After Activist’s Killing, Tensions Erupt Between France’s Far-Right and Far-Left",
+    "link": "https://www.nytimes.com/2026/02/18/world/europe/france-beating-activist-far-left-right.html"
   }
 ]
