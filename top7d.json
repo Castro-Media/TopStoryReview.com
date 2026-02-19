@@ -1,41 +1,48 @@
 [
   {
-    "score": 278,
+    "score": 298,
+    "pubdate": "2026-02-19-20-12-03 +0000",
+    "source": "nypost",
+    "headline": "Trump expresses sympathy for the royal family as ex-Prince Andrew is arrested in Epstein saga",
+    "link": "https://nypost.com/2026/02/19/us-news/trump-expresses-sympathy-for-ex-prince-andrew-after-dramatic-arrest-in-epstein-saga/"
+  },
+  {
+    "score": 169,
     "pubdate": "2026-02-19-11-48-00 +0000",
     "source": "wsj",
     "headline": "As Trump’s Board of Peace meets Thursday, can he sell himself as a President of Peace as he oversees a military buildup in the Mideast? Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/trump-moves-toward-war-and-peace-9c28d10a"
   },
   {
-    "score": 171,
-    "pubdate": "2026-02-19-15-57-00 +0000",
-    "source": "wsj",
-    "headline": "Former Prince Andrew Arrested as Police Probe Epstein Links",
-    "link": "https://www.wsj.com/world/uk/former-prince-andrew-arrested-over-epstein-probe-bbc-reports-7779cc1e"
-  },
-  {
-    "score": 163,
+    "score": 164,
     "pubdate": "2026-02-18-15-33-00 +0000",
     "source": "wsj",
     "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
     "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
   },
   {
-    "score": 147,
+    "score": 148,
     "pubdate": "2026-02-19-14-39-21 +0000",
     "source": "nypost",
     "headline": "White House warns Iran it’d be ‘very wise’ to cut a deal now — as Tehran teams up with Moscow for naval drills",
     "link": "https://nypost.com/2026/02/19/us-news/white-house-warns-iran-itd-be-very-wise-to-cut-a-deal-now/"
   },
   {
-    "score": 129,
+    "score": 133,
+    "pubdate": "2026-02-19-07-49-29 +0000",
+    "source": "nypost",
+    "headline": "Former South Korean President Yoon sentenced to life in prison over botched bid to bring in martial law",
+    "link": "https://nypost.com/2026/02/19/world-news/former-south-korean-president-yoon-sentenced-to-life-in-prison-over-botched-bid-to-bring-in-martial-law/"
+  },
+  {
+    "score": 131,
     "pubdate": "2026-02-17-22-26-00 +0000",
     "source": "wsj",
     "headline": "The U.S. presented new data to buttress its recent allegation that China has secretly carried out low-yield nuclear tests, challenging Beijing’s insistence that it has observed an accord banning nuclear detonations",
     "link": "https://www.wsj.com/politics/national-security/u-s-hardens-allegation-that-china-conducted-a-secret-nuclear-test-644a918a"
   },
   {
-    "score": 121,
+    "score": 114,
     "pubdate": "2026-02-18-19-30-00 +0000",
     "source": "cbc",
     "headline": "8 skiers found dead, 1 still missing in deadliest avalanche in Northern California in decades",
@@ -43,30 +50,23 @@
   },
   {
     "score": 104,
-    "pubdate": "2026-02-19-12-11-49 +0000",
-    "source": "nypost",
-    "headline": "UK Prime Minister Keir Starmer warned ‘nobody is above the law’ hours before ex-Prince Andrew’s arrest",
-    "link": "https://nypost.com/2026/02/19/world-news/uk-prime-minister-keir-starmer-warned-nobody-is-above-the-law-hours-before-ex-prince-andrews-arrest/"
-  },
-  {
-    "score": 95,
-    "pubdate": "2026-02-18-12-56-39 +0000",
-    "source": "cbc",
-    "headline": "No sign of a breakthrough in Russia-Ukraine talks as latest round ends in Geneva",
-    "link": "https://www.cbc.ca/news/world/switzerland-russia-ukraine-us-war-talks-9.7095062?cmp=rss"
-  },
-  {
-    "score": 90,
-    "pubdate": "2026-02-19-09-58-53 +0000",
-    "source": "nypost",
-    "headline": "Rep. Lauren Boebert’s son Tyler slapped with another child abuse charge after allegedly letting two-year-old son wander out of her home",
-    "link": "https://nypost.com/2026/02/19/us-news/lauren-boeberts-son-tyler-slapped-with-another-child-abuse-charge-after-allegedly-letting-two-year-old-son-wander-out-of-home/"
-  },
-  {
-    "score": 89,
-    "pubdate": "2026-02-19-17-22-00 +0000",
+    "pubdate": "2026-02-19-15-39-00 +0000",
     "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-51ae273a?mod=rss_markets_main"
+    "headline": "The U.S. trade deficit jumped in December, the latest leg of a turbulent year for America’s trading relationships under the steep tariffs imposed by the Trump administration",
+    "link": "https://www.wsj.com/economy/trade/u-s-trade-deficit-grew-in-december-da4afda5"
+  },
+  {
+    "score": 91,
+    "pubdate": "2026-02-19-03-49-52 +0000",
+    "source": "nypost",
+    "headline": "Husband of Rep. Tony Gonzales aide who fatally set herself on fire says Texas pol ‘abused his power’ in first remarks on affair",
+    "link": "https://nypost.com/2026/02/18/us-news/husand-of-rep-tony-gonzales-aide-breaks-silence-on-her-affair-with-texas-pol/"
+  },
+  {
+    "score": 85,
+    "pubdate": "2026-02-18-21-33-38 +0000",
+    "source": "nypost",
+    "headline": "‘Difficult’ Ukraine peace talk ends in just two hours as Zelensky accuses Russia of stalling",
+    "link": "https://nypost.com/2026/02/18/world-news/difficult-ukraine-peace-talk-ends-in-just-two-hours-as-zelensky-accuses-russia-of-stalling/"
   }
 ]
