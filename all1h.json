@@ -1,176 +1,254 @@
 [
   {
-    "headline": "Feds seize guns, ammunition from Rhode Island trans shooter Robert Dorgan’s home and storage unit: reports",
-    "link": "https://nypost.com/2026/02/19/us-news/feds-seize-guns-ammunition-from-rhode-island-trans-shooter-robert-dorgans-home-and-storage-unit-reports/",
+    "headline": "Van Gogh and the Meaning of Yellow",
+    "link": "https://www.nytimes.com/2026/02/19/arts/van-gogh-museum-yellow.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-08-43 +0000"
+  },
+  {
+    "headline": "In Devastated Gaza, Grandiose Peace Plans Clash With Reality",
+    "link": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-06-55 +0000"
+  },
+  {
+    "headline": "Top Concern in Avalanche Recovery Effort Is Now Safety of Searchers",
+    "link": "https://www.nytimes.com/2026/02/19/us/top-concern-in-avalanche-recovery-effort-is-now-safety-of-searchers.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-06-01 +0000"
+  },
+  {
+    "headline": "How Trump Is Making Sure His Ballroom Plans Sail Through",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/how-trump-is-making-sure-his-ballroom-plans-sail-through.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-05-00 +0000"
+  },
+  {
+    "headline": "How Trump Is Making Sure His Ballroom Plans Sail Through",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/how-trump-is-making-sure-his-ballroom-plans-sail-through.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-05-00 +0000"
+  },
+  {
+    "headline": "Uber Moves to Enact Stricter Background Checks for Drivers",
+    "link": "https://www.nytimes.com/2026/02/19/business/uber-moves-to-enact-stricter-background-checks-for-drivers.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-04-54 +0000"
+  },
+  {
+    "headline": "Ring’s Founder Knows You Hated That Super Bowl Ad",
+    "link": "https://www.nytimes.com/2026/02/19/business/ring-super-bowl-ad-privacy.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-04-46 +0000"
+  },
+  {
+    "headline": "Airbus Shares Slide as Engine Shortages Hit A320 Production",
+    "link": "https://www.wsj.com/business/earnings/airbus-warns-of-hit-to-a320-jet-production-from-pratt-whitney-engine-shortage-98bc96f1?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-10-04-00 +0000"
+  },
+  {
+    "headline": "Why Is Trump Dumping East Wing Rubble in a Public Park?",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-east-wing-rubble-in-a-public-park.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-03-32 +0000"
+  },
+  {
+    "headline": "Why Is Trump Dumping East Wing Rubble in a Public Park?",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-east-wing-rubble-in-a-public-park.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-03-32 +0000"
+  },
+  {
+    "headline": "Trump Mulls a North American Trade Pact Without Canada",
+    "link": "https://www.nytimes.com/2026/02/19/business/economy/trump-canada-mexico-usmca-trade.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-02-57 +0000"
+  },
+  {
+    "headline": "Trump Mulls a North American Trade Pact Without Canada",
+    "link": "https://www.nytimes.com/2026/02/19/business/economy/trump-canada-mexico-usmca-trade.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-02-57 +0000"
+  },
+  {
+    "headline": "Leon Botstein, Bard College’s President, Had Epstein Ties. He Is Also Seen as a Campus Savior.",
+    "link": "https://www.nytimes.com/2026/02/19/us/bard-college-leon-botstein-jeffrey-epstein.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-02-50 +0000"
+  },
+  {
+    "headline": "Ohio’s Covid Czar Hopes to Be the State’s Democratic Governor",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/amy-acton-vivek-ramaswamy-ohio.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-02-34 +0000"
+  },
+  {
+    "headline": "Ohio’s Covid Czar Hopes to Be the State’s Democratic Governor",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/amy-acton-vivek-ramaswamy-ohio.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-02-34 +0000"
+  },
+  {
+    "headline": "On an Ambitious Antarctic Quest, One Nation Is on the Sidelines",
+    "link": "https://www.nytimes.com/2026/02/19/climate/antarctica-science-funding.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-00-58 +0000"
+  },
+  {
+    "headline": "In Guadeloupe, the Caribbean’s Best-Kept Secret, Every Beach Is Better Than the Last",
+    "link": "https://www.nytimes.com/2026/02/19/travel/things-to-do-guadeloupe-caribbean-beaches.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-00-51 +0000"
+  },
+  {
+    "headline": "Giant robot tribute to Brazil's President Lula leads start of Rio Carnival",
+    "link": "https://www.bbc.com/news/videos/cgjz234pj3lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-10-00-40 +0000"
+  },
+  {
+    "headline": "Giant robot tribute to Brazil's President Lula comes last in carnival competition",
+    "link": "https://www.bbc.com/news/videos/cgjz234pj3lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-10-00-40 +0000"
+  },
+  {
+    "headline": "University of British Columbia Professors Sue School Over Political Correctness",
+    "link": "https://www.nytimes.com/2026/02/19/world/americas/bc-university-dei-lawsuit-indigenous-canada.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-00-38 +0000"
+  },
+  {
+    "headline": "University of British Columbia Professors Sue School Over Political Correctness",
+    "link": "https://www.nytimes.com/2026/02/19/world/americas/bc-university-dei-lawsuit-indigenous-canada.html",
+    "source": "nyt",
+    "pubdate": "2026-02-19-10-00-38 +0000"
+  },
+  {
+    "headline": "Colleges quietly cut ties with organizations that help people of color",
+    "link": "https://www.washingtonpost.com/education/2026/02/19/colleges-cut-ties-diversity-groups/",
+    "source": "wapo",
+    "pubdate": "2026-02-19-10-00-37 +0000"
+  },
+  {
+    "headline": "Silicon Valley is building a shadow power grid for data centers across the U.S.",
+    "link": "https://www.washingtonpost.com/business/2026/02/19/data-centers-power-grid-ai/",
+    "source": "wapo",
+    "pubdate": "2026-02-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Debt held by the public will balloon to more than $56 trillion by 2036 as annual deficits continue to mount, according to the latest projections from the Congressional Budget Office",
+    "link": "https://www.wsj.com/economy/federal-budget-deficit-charts-16456cc0",
+    "source": "wsj",
+    "pubdate": "2026-02-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Rep. Lauren Boebert’s son Tyler slapped with another child abuse charge after allegedly letting two-year-old son wander out of her home",
+    "link": "https://nypost.com/2026/02/19/us-news/lauren-boeberts-son-tyler-slapped-with-another-child-abuse-charge-after-allegedly-letting-two-year-old-son-wander-out-of-home/",
     "source": "nypost",
-    "pubdate": "2026-02-19-09-07-45 +0000"
+    "pubdate": "2026-02-19-09-58-53 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-02-19-09-04-45 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-02-19-09-04-45 +0000"
-  },
-  {
-    "headline": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-09-03-42 +0000"
-  },
-  {
-    "headline": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-09-03-42 +0000"
-  },
-  {
-    "headline": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-09-03-42 +0000"
-  },
-  {
-    "headline": "Ottawa will fund first Inuit-led university as part of major announcement for Inuit communities",
-    "link": "https://www.cbc.ca/news/politics/minister-gull-masty-2026-inuit-communities-funding-9.7096172?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-19-09-00-00 +0000"
-  },
-  {
-    "headline": "NDP leadership candidates face off in final debate",
-    "link": "https://www.cbc.ca/news/politics/ndp-final-leadership-debate-9.7096664?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-19-09-00-00 +0000"
-  },
-  {
-    "headline": "Here's what a decade of the Phoenix pay crisis looks like in numbers",
-    "link": "https://www.cbc.ca/news/canada/ottawa/here-s-what-a-decade-of-the-phoenix-pay-crisis-looks-like-in-numbers-9.7095395?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-19-09-00-00 +0000"
-  },
-  {
-    "headline": "Thirty years ago, the trial of another ousted leader gripped South Korea.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/thirty-years-ago-the-trial-of-another-ousted-leader-gripped-south-korea",
-    "source": "nyt",
-    "pubdate": "2026-02-19-08-57-53 +0000"
-  },
-  {
-    "headline": "Thirty years ago, the trial of another ousted leader gripped South Korea.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/thirty-years-ago-the-trial-of-another-ousted-leader-gripped-south-korea",
-    "source": "nyt",
-    "pubdate": "2026-02-19-08-57-53 +0000"
-  },
-  {
-    "headline": "Nestle to Shed Ice-Cream Business in Shakeup",
-    "link": "https://www.wsj.com/business/earnings/nestle-to-shed-ice-cream-business-in-major-shakeup-5286461b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-19-08-53-00 +0000"
-  },
-  {
-    "headline": "What To Know About the Trial of Yoon Suk Yeol, South Korea’s Ousted Leader",
-    "link": "https://www.nytimes.com/2026/02/19/world/asia/yoon-sentencing-south-korea.html",
-    "source": "nyt",
-    "pubdate": "2026-02-19-08-52-21 +0000"
-  },
-  {
-    "headline": "What To Know About the Trial of Yoon Suk Yeol, South Korea’s Ousted Leader",
-    "link": "https://www.nytimes.com/2026/02/19/world/asia/yoon-sentencing-south-korea.html",
-    "source": "nyt",
-    "pubdate": "2026-02-19-08-52-21 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Dow Futures Little Changed; Oil Prices Rise",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-19-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-19-08-49-12 +0000"
-  },
-  {
-    "headline": "Warmer winter hits profits at British Gas owner",
-    "link": "https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-08-49-09 +0000"
-  },
-  {
-    "headline": "Warmer winter hits profits at British Gas owner",
-    "link": "https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-08-49-09 +0000"
-  },
-  {
-    "headline": "Dollar Still Faces Pressure Despite Short-Term Support",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fading-fed-rate-cut-prospects-could-weigh-7694c78e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-19-08-44-00 +0000"
-  },
-  {
-    "headline": "European Gas Prices Soar As U.S.-Iran Tensions Raise Alarm Over LNG Flows",
-    "link": "https://www.wsj.com/articles/european-gas-prices-soar-as-u-s-iran-tensions-raise-alarm-over-lng-flows-72f752e5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-19-08-27-00 +0000"
-  },
-  {
-    "headline": "European Gas Prices Soar As U.S.-Iran Tensions Raise Alarm Over LNG Flows",
-    "link": "https://www.wsj.com/articles/european-gas-prices-soar-as-u-s-iran-tensions-raise-alarm-over-lng-flows-72f752e5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-19-08-27-00 +0000"
-  },
-  {
-    "headline": "Legendary rock band U2 invokes Renee Nicole Good in ‘American Obituary’",
-    "link": "https://nypost.com/2026/02/19/us-news/u2-american-obituary-song-invokes-renee-nicole-good-ice-shooting-in-days-of-ash-ep/",
+    "headline": "Rep. Lauren Boebert’s son Tyler slapped with another child abuse charge after allegedly letting two-year-old son wander out of her home",
+    "link": "https://nypost.com/2026/02/19/us-news/lauren-boeberts-son-tyler-slapped-with-another-child-abuse-charge-after-allegedly-letting-two-year-old-son-wander-out-of-home/",
     "source": "nypost",
-    "pubdate": "2026-02-19-08-23-59 +0000"
+    "pubdate": "2026-02-19-09-58-53 +0000"
   },
   {
-    "headline": "Eurozone Bond Yields Rise After Fed Minutes; Supply Ahead",
-    "link": "https://www.wsj.com/opinion/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-a31a880b?mod=rss_markets_main",
+    "headline": "Zurich Insurance Earnings Rise on Growth Across Business Lines",
+    "link": "https://www.wsj.com/business/earnings/zurich-insurance-earnings-rise-on-growth-across-business-lines-62b4c656?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-02-19-08-16-00 +0000"
+    "pubdate": "2026-02-19-09-58-00 +0000"
   },
   {
-    "headline": "Eurozone Bond Yields Rise After Fed Minutes; Supply Ahead",
-    "link": "https://www.wsj.com/opinion/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-a31a880b",
+    "headline": "Starmer appoints Romeo as head of UK civil service",
+    "link": "https://www.bbc.com/news/articles/c3rz8z33rqxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-09-51-06 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-51ae273a?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-19-08-16-00 +0000"
+    "pubdate": "2026-02-19-09-49-00 +0000"
   },
   {
-    "headline": "Gold Back Above $5,000 As U.S.-Iran Tensions Support Haven Demand",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-growing-risks-of-u-s-iran-conflict-a48f8760?mod=rss_markets_main",
+    "headline": "South Korea's ex-president Yoon receives life sentence for imposing martial law",
+    "link": "https://www.cbc.ca/news/world/yoon-suk-yeol-life-sentence-9.7096907?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-19-09-47-36 +0000"
+  },
+  {
+    "headline": "South Korea's ex-president jailed for life over martial law attempt",
+    "link": "https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-09-46-55 +0000"
+  },
+  {
+    "headline": "Why there's no quick fix in sight for the problem of dazzling headlights",
+    "link": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-09-43-37 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-d1bc47c1?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-19-08-15-00 +0000"
+    "pubdate": "2026-02-19-09-43-00 +0000"
   },
   {
-    "headline": "Wave of arrests over killing of French nationalist piles pressure on far left",
-    "link": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
+    "headline": "Pupils with SEND to have support reviewed after primary, leaked plans suggest",
+    "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-19-08-13-37 +0000"
+    "pubdate": "2026-02-19-09-41-32 +0000"
   },
   {
-    "headline": "Wave of arrests over killing of French nationalist piles pressure on far left",
-    "link": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-08-13-37 +0000"
-  },
-  {
-    "headline": "Bill Gates pulls out of India's AI summit amid Epstein files controversy",
-    "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-08-13-25 +0000"
-  },
-  {
-    "headline": "Bill Gates pulls out of India's AI summit amid Epstein files controversy",
-    "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-19-08-13-25 +0000"
-  },
-  {
-    "headline": "Oil Extends Gains As U.S.-Iran Concerns Mount",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-c9ef99ab?mod=rss_markets_main",
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-76bba629?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-19-08-10-00 +0000"
+    "pubdate": "2026-02-19-09-39-00 +0000"
+  },
+  {
+    "headline": "Philippine Central Bank Delivers Another Rate Cut as Economy Slows",
+    "link": "https://www.wsj.com/articles/philippine-central-bank-delivers-another-rate-cut-as-economy-slows-4546ff68",
+    "source": "wsj",
+    "pubdate": "2026-02-19-09-39-00 +0000"
+  },
+  {
+    "headline": "Detained Briton describes life in Iran jail to BBC hours before sentencing",
+    "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-19-09-36-20 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-71d66230?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-09-36-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-71d66230?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-19-09-36-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ff1f8af9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-09-33-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ff1f8af9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-19-09-33-00 +0000"
+  },
+  {
+    "headline": "Indonesia’s Central Bank Holds Rates to Maintain Rupiah Stability",
+    "link": "https://www.wsj.com/articles/indonesias-central-bank-holds-rates-to-maintain-rupiah-stability-149624da",
+    "source": "wsj",
+    "pubdate": "2026-02-19-09-27-00 +0000"
   }
 ]
