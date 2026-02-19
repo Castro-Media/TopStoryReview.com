@@ -1,52 +1,10 @@
 [
   {
-    "score": 17,
-    "pubdate": "2026-02-19-06-52-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Treasury Yields Rise as Fed Sees Upside Risks to Inflation",
-    "link": "https://www.wsj.com/opinion/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-a31a880b"
-  },
-  {
-    "score": 12,
+    "score": 9,
     "pubdate": "2026-02-19-07-10-00 +0000",
     "source": "wsj",
     "headline": "Air France-KLM Posts Swing to Profit Amid Drop in Costs",
     "link": "https://www.wsj.com/business/earnings/air-france-klm-posts-swing-to-profit-amid-drop-in-costs-071a6965?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-02-19-07-02-58 +0000",
-    "source": "nyt",
-    "headline": "Money Talks as India Searches for Its Place in Global A.I.",
-    "link": "https://www.nytimes.com/2026/02/19/business/india-ai-impact-summit.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-02-19-06-27-10 +0000",
-    "source": "nyt",
-    "headline": "Bernie Sanders Urges Support of California Billionaire Tax at Los Angeles Rally",
-    "link": "https://www.nytimes.com/2026/02/19/us/bernie-sanders-california-billionaire-tax.html"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-02-19-06-55-00 +0000",
-    "source": "wsj",
-    "headline": "Philippine Central Bank Delivers Another Rate Cut as Economy Slows",
-    "link": "https://www.wsj.com/articles/philippine-central-bank-delivers-another-rate-cut-as-economy-slows-4546ff68"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-02-19-06-33-02 +0000",
-    "source": "bbc",
-    "headline": "Watch: Thai police go undercover as lion dancers to catch thief",
-    "link": "https://www.bbc.com/news/videos/c5yjl37vxvpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-02-19-06-27-00 +0000",
-    "source": "wsj",
-    "headline": "Zurich Insurance Earnings Rise on Growth Across Business Lines",
-    "link": "https://www.wsj.com/business/earnings/zurich-insurance-earnings-rise-on-growth-across-business-lines-62b4c656?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 8,
@@ -56,17 +14,24 @@
     "link": "https://www.nytimes.com/2026/02/19/world/asia/yoon-sentencing-south-korea.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-02-19-06-20-00 +0000",
+    "score": 7,
+    "pubdate": "2026-02-19-07-10-00 +0000",
     "source": "wsj",
-    "headline": "Airbus Warns of Hit to A320 Production From Pratt & Whitney Engine Shortage",
-    "link": "https://www.wsj.com/business/earnings/airbus-warns-of-hit-to-a320-jet-production-from-pratt-whitney-engine-shortage-98bc96f1?mod=pls_whats_news_us_business_f"
+    "headline": "Nestle to Shed Ice-Cream Business in Major Shakeup",
+    "link": "https://www.wsj.com/business/earnings/nestle-to-shed-ice-cream-business-in-major-shakeup-5286461b?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 7,
-    "pubdate": "2026-02-19-06-44-00 +0000",
-    "source": "wsj",
-    "headline": "Rio Tinto Annual Net Profit Down 14%; Underlying Earnings, Payout Flat",
-    "link": "https://www.wsj.com/business/earnings/rio-tinto-annual-net-profit-down-14-underlying-earnings-payout-flat-7219bb3c?mod=pls_whats_news_us_business_f"
+    "score": 4,
+    "pubdate": "2026-02-19-07-07-42 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-19-07-07-42 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/heres-the-latest"
   }
 ]
