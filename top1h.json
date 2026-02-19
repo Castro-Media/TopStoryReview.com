@@ -1,56 +1,70 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-02-19-11-07-24 +0000",
-    "source": "bbc",
-    "headline": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
-    "link": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss"
+    "score": 46,
+    "pubdate": "2026-02-19-12-35-52 +0000",
+    "source": "nyt",
+    "headline": "Former Prince Andrew’s Ties to Epstein Keep Spotlight on UK Prime Minister Starmer",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/uk-andrew-epstein-starmer-mandelson.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-02-19-12-31-08 +0000",
+    "source": "nyt",
+    "headline": "Dueling Protests at South Korean Ex-Leader’s Sentencing Highlight Political Rift",
+    "link": "https://www.nytimes.com/2026/02/19/world/asia/yoon-south-korea-protests.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-02-19-13-15-41 +0000",
+    "source": "nyt",
+    "headline": "King Charles Issues Statement After Arrest of His Brother, Andrew Mountbatten-Windsor",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/king-charles-statement-andrew-arrest-uk.html"
   },
   {
     "score": 16,
-    "pubdate": "2026-02-19-11-03-36 +0000",
+    "pubdate": "2026-02-19-12-49-02 +0000",
+    "source": "bbc",
+    "headline": "Andrew arrested on suspicion of misconduct in public office",
+    "link": "https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-19-12-29-08 +0000",
     "source": "nyt",
-    "headline": "Besides Yoon, 5 other former officials get long prison terms.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/besides-yoon-5-other-former-officials-get-long-prison-terms"
+    "headline": "Several members of the British elite have been named in the Epstein files.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/epstein-files-prince-andrew-uk-elite"
   },
   {
     "score": 12,
-    "pubdate": "2026-02-19-11-06-44 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: U.K. Police Arrest Former Prince Andrew Over Epstein Ties, BBC Reports",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-02-19-11-03-38 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: South Korean Ex-Leader Is Sentenced to Life in Prison",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-02-19-11-03-33 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/uk-police-arrest-prince-andrew-epstein"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-19-11-07-24 +0000",
+    "pubdate": "2026-02-19-12-55-38 +0000",
     "source": "bbc",
-    "headline": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
-    "link": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss"
+    "headline": "Eight skiers found dead after California avalanche",
+    "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-02-19-11-03-36 +0000",
+    "score": 12,
+    "pubdate": "2026-02-19-12-31-00 +0000",
+    "source": "wsj",
+    "headline": "Hims & Hers to Acquire Eucalyptus in $1.15 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/hims-hers-to-acquire-eucalyptus-in-1-15-billion-deal-3149d69a?mod=rss_markets_main"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-19-12-54-28 +0000",
     "source": "nyt",
-    "headline": "Besides Yoon, 5 other former officials get long prison terms.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president/besides-yoon-5-other-former-officials-get-long-prison-terms"
+    "headline": "The Three Conflicts Witkoff and Kushner Are Trying to Solve This Week",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/witkoff-kushner-iran-ukraine-israel.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-02-19-11-03-33 +0000",
+    "score": 11,
+    "pubdate": "2026-02-19-13-00-00 +0000",
+    "source": "latimes",
+    "headline": "Lopez: Their houses burned but they'll return, ready to write Altadena's next chapter",
+    "link": "https://www.latimes.com/california/story/2026-02-19/their-houses-burned-but-theyll-return-ready-to-write-altadenas-next-chapter"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-19-13-07-15 +0000",
     "source": "nyt",
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/uk-police-arrest-prince-andrew-epstein"
