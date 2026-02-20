@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 21,
+    "pubdate": "2026-02-20-08-09-06 +0000",
+    "source": "nyt",
+    "headline": "British Police Arrest Former Prince Andrew Amid Scrutiny Over Epstein Ties",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-arrest-epstein.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-02-20-08-33-57 +0000",
+    "source": "bbc",
+    "headline": "UK government finances better than expected in January",
+    "link": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-02-20-08-53-03 +0000",
+    "source": "nyt",
+    "headline": "An Enemy’s Fall Frees Up South Korea’s Leader. Now Comes the Tough Part.",
+    "link": "https://www.nytimes.com/2026/02/20/world/asia/south-korea-lee-yoon.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-20-08-40-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Rises on Concerns of LNG Trade Disruptions",
+    "link": "https://www.wsj.com/articles/european-gas-rises-on-concerns-of-lng-trade-disruptions-95eeb3c1?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-20-08-07-16 +0000",
+    "source": "bbc",
+    "headline": "Trump directs US government to prepare release of files on aliens and UFOs",
+    "link": "https://www.bbc.com/news/articles/c4g57gqqln1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-20-08-53-42 +0000",
+    "source": "nypost",
+    "headline": "Man placed in coma after 2 brutes brawl during 5-year-old girl’s Chuck E. Cheese birthday party",
+    "link": "https://nypost.com/2026/02/20/us-news/two-men-brawl-during-5-year-old-girls-chuck-e-cheese-birthday-party-leaving-one-in-coma/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-20-08-46-25 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Futures Inch Higher; GDP, Inflation Data in Focus",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-us-gdp-report-02-20-26?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-20-08-37-00 +0000",
+    "source": "wsj",
+    "headline": "Anglo American Writes Down De Beers Diamond Unit Value by Another $2.3 Billion",
+    "link": "https://www.wsj.com/business/earnings/anglo-american-writes-down-de-beers-diamond-unit-value-by-another-2-3-billion-b5714ee6?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-20-08-58-00 +0000",
+    "source": "wsj",
+    "headline": "Chinese Yuan May Appreciate Further, But Investors Divided on Magnitude",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-geopolitical-tensions-likely-to-weigh-1d99bc01?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-20-08-29-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Head for 5% Weekly Gain on U.S.-Iran Fears",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-amid-ongoing-u-s-iran-tensions-cf386b0b?mod=rss_markets_main"
+  }
+]
