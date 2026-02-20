@@ -8,20 +8,20 @@
   },
   {
     "score": 173,
-    "pubdate": "2026-02-18-15-33-00 +0000",
-    "source": "wsj",
-    "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
-    "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
-  },
-  {
-    "score": 173,
     "pubdate": "2026-02-19-07-49-29 +0000",
     "source": "nypost",
     "headline": "Former South Korean President Yoon sentenced to life in prison over botched bid to bring in martial law",
     "link": "https://nypost.com/2026/02/19/world-news/former-south-korean-president-yoon-sentenced-to-life-in-prison-over-botched-bid-to-bring-in-martial-law/"
   },
   {
-    "score": 146,
+    "score": 169,
+    "pubdate": "2026-02-18-15-33-00 +0000",
+    "source": "wsj",
+    "headline": "An immigration court dropped the Trump administration’s case against Mohsen Mahdawi. It was the second court to end a case against a student protester in recent weeks.",
+    "link": "https://www.wsj.com/politics/policy/judge-drops-immigration-case-against-student-detained-at-citizenship-interview-6bf69734"
+  },
+  {
+    "score": 144,
     "pubdate": "2026-02-19-21-06-00 +0000",
     "source": "nypost",
     "headline": "UK condemns ‘totally unjustifiable’ 10-year espionage sentence for British couple in Iran",
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-hardens-allegation-that-china-conducted-a-secret-nuclear-test-644a918a"
   },
   {
-    "score": 117,
+    "score": 118,
     "pubdate": "2026-02-20-05-04-48 +0000",
     "source": "nypost",
     "headline": "Les Wexner’s attorney caught on hot mic saying he’ll ‘f–king kill’ ex-Victoria’s Secret CEO during Jeffrey Epstein probe deposition",
@@ -49,18 +49,11 @@
     "link": "https://www.wsj.com/politics/policy/labor-secretarys-husband-is-under-investigation-for-sexual-assault-of-an-agency-staffer-56555674"
   },
   {
-    "score": 103,
+    "score": 102,
     "pubdate": "2026-02-18-19-30-00 +0000",
     "source": "cbc",
     "headline": "8 skiers found dead, 1 still missing in deadliest avalanche in Northern California in decades",
     "link": "https://www.cbc.ca/news/world/california-avalanche-missing-skiers-survivors-9.7095896?cmp=rss"
-  },
-  {
-    "score": 102,
-    "pubdate": "2026-02-16-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
-    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
   },
   {
     "score": 101,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "House Democrats view Mountbatten-Windsor’s arrest as a step toward justice for the Epstein victims.",
     "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/house-democrats-view-mountbatten-windsors-arrest-as-a-step-toward-justice-for-the-epstein-victims"
+  },
+  {
+    "score": 101,
+    "pubdate": "2026-02-16-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
+    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
   }
 ]
