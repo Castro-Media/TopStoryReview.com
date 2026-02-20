@@ -1,8 +1,404 @@
 [
   {
-    "headline": "Trump Weighs Initial Limited Strike to Force Iran Into Nuclear Deal",
-    "link": "https://www.wsj.com/world/middle-east/trump-hints-at-10-day-window-for-decision-on-iran-6370e477",
+    "headline": "Iran Says U.S. Has Not Asked It to Stop Enriching Uranium",
+    "link": "https://www.nytimes.com/2026/02/20/world/middleeast/iran-us-nuclear-uranium.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-17-03-12 +0000"
+  },
+  {
+    "headline": "Live updates: In rare rebuke of Trump, Supreme Court strikes down tariffs",
+    "link": "https://www.washingtonpost.com/national-security/2026/02/20/live-updates-supreme-court-tariffs-ruling-trump/",
+    "source": "wapo",
+    "pubdate": "2026-02-20-17-03-04 +0000"
+  },
+  {
+    "headline": "'Nasty' councillor jailed for coercive behaviour",
+    "link": "https://www.bbc.com/news/articles/c627ngz1k1eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-17-01-04 +0000"
+  },
+  {
+    "headline": "Nasa targets early March to send humans back around the Moon",
+    "link": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-17-00-26 +0000"
+  },
+  {
+    "headline": "Nasa targets early March to send humans back around the Moon",
+    "link": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-17-00-26 +0000"
+  },
+  {
+    "headline": "How Streaming Became Cable TV’s Unlikely Life Raft",
+    "link": "https://www.wsj.com/business/media/how-streaming-became-cable-tvs-unlikely-life-raft-cc5115a8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-02-20-15-03-00 +0000"
+    "pubdate": "2026-02-20-17-00-00 +0000"
+  },
+  {
+    "headline": "Democrats press Trump administration to issue tariff refunds",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-58-45 +0000"
+  },
+  {
+    "headline": "Two NYPD cops accused of covering up drunken crash by fellow officer — as union slams ‘overreach’ by DA Bragg",
+    "link": "https://nypost.com/2026/02/20/us-news/two-nypd-cops-accused-of-covering-up-drunken-crash-by-fellow-officer-as-union-slams-overreach-by-da-bragg/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-58-12 +0000"
+  },
+  {
+    "headline": "Fresh blow in Nancy Guthrie hunt as Mexican authorities say they aren’t searching for Savannah’s mom",
+    "link": "https://nypost.com/2026/02/20/us-news/nancy-guthrie-hunt-mexican-authorities-say-they-arent-searching-for-savanahs-mom/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-56-55 +0000"
+  },
+  {
+    "headline": "Plastic surgeon apologizes for keeping quiet amid youth trans surgeries at major NYC hospital, cites ‘no room to speak up’",
+    "link": "https://nypost.com/2026/02/20/us-news/plastic-surgeon-apologizes-for-keeping-quiet-amid-youth-trans-surgeries-at-major-nyc-hospital-cites-no-room-to-speak-up/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-55-05 +0000"
+  },
+  {
+    "headline": "Sword Strikes Playgoer During ‘Richard III’ in Berlin",
+    "link": "https://www.nytimes.com/2026/02/20/arts/sword-hits-audience-member-theater-berlin.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-54-58 +0000"
+  },
+  {
+    "headline": "Retail and apparel stocks spike after Supreme Court strikes down President Trump’s tariffs",
+    "link": "https://nypost.com/2026/02/20/business/retail-and-apparel-stocks-spike-after-supreme-court-strikes-down-president-trumps-tariffs/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-54-32 +0000"
+  },
+  {
+    "headline": "Supreme Court strikes down Trump's sweeping global tariffs",
+    "link": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-53-30 +0000"
+  },
+  {
+    "headline": "U.S. Business Activity Growth Slows as Europe Picks Up Pace",
+    "link": "https://www.wsj.com/economy/global/eurozone-business-activity-picks-up-faster-than-expected-069726a8",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-53-00 +0000"
+  },
+  {
+    "headline": "Live updates from girls hockey Class 1A and 2A semifinals at Grand Casino Arena",
+    "link": "https://www.startribune.com/mn-girls-hockey-tournament-live-scores-and-results/601569655",
+    "source": "startribune",
+    "pubdate": "2026-02-20-16-50-37 +0000"
+  },
+  {
+    "headline": "Supreme Court strikes down Trump's sweeping tariffs, upending central plank of economic agenda",
+    "link": "https://www.startribune.com/supreme-court-strikes-down-trumps-sweeping-tariffs-upending-central-plank-of-economic-agenda/601585824",
+    "source": "startribune",
+    "pubdate": "2026-02-20-16-49-04 +0000"
+  },
+  {
+    "headline": "Judge upholds $243M verdict against Tesla in Autopilot crash that killed woman",
+    "link": "https://nypost.com/2026/02/20/business/judge-upholds-243m-verdict-against-tesla-in-autopilot-crash-that-killed-woman/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-49-03 +0000"
+  },
+  {
+    "headline": "Judge upholds $243M verdict against Tesla in Autopilot crash that killed woman",
+    "link": "https://nypost.com/2026/02/20/business/judge-upholds-243m-verdict-against-tesla-in-autopilot-crash-that-killed-woman/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-49-03 +0000"
+  },
+  {
+    "headline": "Many Trump tariffs are unaffected by today’s Supreme Court ruling",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-48-42 +0000"
+  },
+  {
+    "headline": "Head of Russia’s Antidoping Agency Was Involved in 2014 Doping Scheme, Whistle-Blower Claims",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/olympics-doping-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-47-51 +0000"
+  },
+  {
+    "headline": "Head of Russia’s Antidoping Agency Was Involved in 2014 Doping Scheme, Whistle-Blower Claims",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/olympics-doping-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-47-51 +0000"
+  },
+  {
+    "headline": "The Moment Trump Found Out the Supreme Court Killed His Tariffs",
+    "link": "https://www.wsj.com/politics/policy/the-moment-trump-found-out-the-supreme-court-killed-his-tariffs-ad40b45f",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-47-00 +0000"
+  },
+  {
+    "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
+    "link": "https://www.wsj.com/politics/policy/the-moment-trump-found-out-the-supreme-court-killed-his-tariffs-ad40b45f",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-47-00 +0000"
+  },
+  {
+    "headline": "Live: U.S. women’s curling team will play for bronze medal at the Olympics",
+    "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094",
+    "source": "startribune",
+    "pubdate": "2026-02-20-16-43-40 +0000"
+  },
+  {
+    "headline": "Trump tariff refunds: Will consumers see any of the $175 billion collected after the Supreme Court ruling?",
+    "link": "https://nypost.com/2026/02/20/us-news/trump-tariff-refunds-what-supreme-court-ruling-means-for-consumers/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-43-34 +0000"
+  },
+  {
+    "headline": "Trump tariff refunds: Will consumers see any of the $175 billion collected after the Supreme Court ruling?",
+    "link": "https://nypost.com/2026/02/20/us-news/trump-tariff-refunds-what-supreme-court-ruling-means-for-consumers/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-43-34 +0000"
+  },
+  {
+    "headline": "Calls for Andrew to be removed from royal line of succession",
+    "link": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-42-05 +0000"
+  },
+  {
+    "headline": "In his concurring opinion, Justice Neil M. Gorsuch rejected the administration’s argument that the president has...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-41-07 +0000"
+  },
+  {
+    "headline": "Supreme Court Justices Strike Down Trump’s Tariffs",
+    "link": "https://www.nytimes.com/2025/02/20/us/politics/supreme-court-trump-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-39-30 +0000"
+  },
+  {
+    "headline": "Supreme Court Justices Strike Down Trump’s Tariffs",
+    "link": "https://www.nytimes.com/2025/02/20/us/politics/supreme-court-trump-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-39-30 +0000"
+  },
+  {
+    "headline": "Supreme Court Justices Strike Down Trump’s Tariffs",
+    "link": "https://www.nytimes.com/2025/02/20/us/politics/supreme-court-trump-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-39-30 +0000"
+  },
+  {
+    "headline": "Supreme Court Justices Strike Down Trump’s Tariffs",
+    "link": "https://www.nytimes.com/2025/02/20/us/politics/supreme-court-trump-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-39-30 +0000"
+  },
+  {
+    "headline": "Opinion | It’s the End of the Beginning of the Tariff War",
+    "link": "https://www.wsj.com/opinion/its-the-end-of-the-beginning-of-the-tariff-war-88a08d37",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-37-00 +0000"
+  },
+  {
+    "headline": "Opinion | It’s the End of the Beginning of the Tariff War",
+    "link": "https://www.wsj.com/opinion/its-the-end-of-the-beginning-of-the-tariff-war-88a08d37?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-37-00 +0000"
+  },
+  {
+    "headline": "Yosemite National Park closed to visitors over avalanche threats",
+    "link": "https://nypost.com/2026/02/20/us-news/yosemite-national-park-closed-due-to-heavy-snowfall-avalanche-concerns/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-36-43 +0000"
+  },
+  {
+    "headline": "Trump says he’s considering a limited strike on Iran to force a deal.",
+    "link": "https://www.nytimes.com/live/2026/02/20/us/trump-news/trump-says-hes-considering-a-limited-strike-on-iran-to-force-a-deal",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-34-59 +0000"
+  },
+  {
+    "headline": "Trump says he’s considering a limited strike on Iran to force a deal.",
+    "link": "https://www.nytimes.com/live/2026/02/20/us/trump-news/trump-says-hes-considering-a-limited-strike-on-iran-to-force-a-deal",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-34-59 +0000"
+  },
+  {
+    "headline": "The court’s decision to strike down tariffs sets up a tense State of the Union address,...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-34-16 +0000"
+  },
+  {
+    "headline": "Golden goal came on a pass from Minnesota’s Taylor Heise",
+    "link": "https://www.startribune.com/golden-goal-came-on-a-pass-from-minnesotas-taylor-heise/601585857",
+    "source": "startribune",
+    "pubdate": "2026-02-20-16-31-47 +0000"
+  },
+  {
+    "headline": "Tariff Decision May Unleash Short Term Chaos, Dissenting Supreme Court Justices Say",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-tariffs-supreme-court-dissent-refunds.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-31-25 +0000"
+  },
+  {
+    "headline": "Tariff Decision May Unleash Short Term Chaos, Dissenting Supreme Court Justices Say",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-tariffs-supreme-court-dissent-refunds.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-31-25 +0000"
+  },
+  {
+    "headline": "Many business owners around the country breathed a sigh of relief Friday, after a year of...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-30-48 +0000"
+  },
+  {
+    "headline": "Canada Retail Sales Climb After Pullback in December",
+    "link": "https://www.wsj.com/business/retail/canada-retail-sales-climb-after-pullback-in-december-2dde19ae?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-30-00 +0000"
+  },
+  {
+    "headline": "Canada Retail Sales Climb After Pullback in December",
+    "link": "https://www.wsj.com/business/retail/canada-retail-sales-climb-after-pullback-in-december-2dde19ae",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-30-00 +0000"
+  },
+  {
+    "headline": "Tariffs ruling is major blow to Trump's second-term agenda",
+    "link": "https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-28-50 +0000"
+  },
+  {
+    "headline": "Tariffs ruling is major blow to Trump's second-term agenda",
+    "link": "https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-28-50 +0000"
+  },
+  {
+    "headline": "Legal scholar says the decision is a historic ruling on presidential power",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-26-32 +0000"
+  },
+  {
+    "headline": "A rare 'no' for Trump, but not necessarily an end to tariffs",
+    "link": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-25-34 +0000"
+  },
+  {
+    "headline": "A rare 'no' for Trump, but not necessarily an end to tariffs",
+    "link": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-25-34 +0000"
+  },
+  {
+    "headline": "A rare 'no' for Trump, but not necessarily an end to tariffs",
+    "link": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-25-34 +0000"
+  },
+  {
+    "headline": "Husbands of Tahoe avalanche victims break silence: ‘Spent her final days doing what she loved best’",
+    "link": "https://nypost.com/2026/02/20/us-news/husbands-of-tahoe-avalanche-victims-break-silence-after-deadly-ski-trip/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-16-21-09 +0000"
+  },
+  {
+    "headline": "Majority dismisses most of Trump administration’s arguments on tariffs",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-21-02 +0000"
+  },
+  {
+    "headline": "Given the gravity of Friday’s decision, attendance in the courtroom was relatively sparse — although all...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-18-49 +0000"
+  },
+  {
+    "headline": "KFC, Nando's, and others ditch chicken welfare pledge",
+    "link": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-16-17-53 +0000"
+  },
+  {
+    "headline": "What the Supreme Court throwing out Trump’s tariffs means for you",
+    "link": "https://www.washingtonpost.com/business/2026/02/20/tariffs-prices-consumers-supreme-court/",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-16-59 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/20/us/trump-tariffs-supreme-court/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-16-13 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/20/us/trump-tariffs-supreme-court/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-16-13 +0000"
+  },
+  {
+    "headline": "Trump administration plan could restrict work permits for asylum seekers for years",
+    "link": "https://www.latimes.com/politics/story/2026-02-20/trump-administration-plan-could-indefinity-restrict-work-permits-for-asylum-seekers",
+    "source": "latimes",
+    "pubdate": "2026-02-20-16-16-07 +0000"
+  },
+  {
+    "headline": "Trump administration plan could restrict work permits for asylum seekers for years",
+    "link": "https://www.latimes.com/politics/story/2026-02-20/trump-administration-plan-could-indefinity-restrict-work-permits-for-asylum-seekers",
+    "source": "latimes",
+    "pubdate": "2026-02-20-16-16-07 +0000"
+  },
+  {
+    "headline": "U.S. Chamber of Commerce, others, hope Trump will change course on tariffs",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-15-47 +0000"
+  },
+  {
+    "headline": "Congressional Democrats cheered the Supreme Court’s decision, calling it a long overdue win for Americans struggling...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-20-16-13-23 +0000"
+  },
+  {
+    "headline": "U.S. Immigration Deportees Held in Secret African Detention Facility",
+    "link": "https://www.wsj.com/world/africa/u-s-immigration-deportees-held-in-secret-african-detention-facility-858b1721",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-10-00 +0000"
+  },
+  {
+    "headline": "The Supreme Court decision to strike down President Trump’s tariffs plunges the global trade system into fresh chaos as countries, businesses and consumers scramble to figure out refunds",
+    "link": "https://www.wsj.com/economy/trade/trump-tariffs-trade-uncertainty-119f4651",
+    "source": "wsj",
+    "pubdate": "2026-02-20-16-09-00 +0000"
+  },
+  {
+    "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-06-36 +0000"
+  },
+  {
+    "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-06-36 +0000"
+  },
+  {
+    "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-06-36 +0000"
+  },
+  {
+    "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-16-06-36 +0000"
   }
 ]
