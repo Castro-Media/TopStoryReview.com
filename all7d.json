@@ -1,15 +1,117 @@
 [
   {
+    "headline": "Why the United States Is Seeing an Ongoing Tourism Slump",
+    "link": "https://www.nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-10-00-43 +0000"
+  },
+  {
+    "headline": "In Tibet, a Writer Finds Peace on a Trek to 18,000 Feet",
+    "link": "https://www.nytimes.com/2026/02/20/travel/tibet-trail-mount-kailash-pilgrimage.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-10-00-35 +0000"
+  },
+  {
+    "headline": "A Makeup Ban in Syria for Women in Government and Public Sector Stirs Outrage",
+    "link": "https://www.nytimes.com/2026/02/20/world/middleeast/makeup-ban-women-syria.html",
+    "source": "nyt",
+    "pubdate": "2026-02-20-10-00-18 +0000"
+  },
+  {
+    "headline": "Jeffrey Epstein’s estate agrees to $35M settlement in victim class action",
+    "link": "https://nypost.com/2026/02/20/us-news/jeffrey-epsteins-estate-agrees-to-35m-settlement-in-victim-class-action/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-09-56-31 +0000"
+  },
+  {
+    "headline": "Eurozone Business Activity Picks Up Faster Than Expected",
+    "link": "https://www.wsj.com/economy/eurozone-business-activity-picks-up-faster-than-expected-069726a8",
+    "source": "wsj",
+    "pubdate": "2026-02-20-09-56-00 +0000"
+  },
+  {
+    "headline": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+    "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-09-54-00 +0000"
+  },
+  {
+    "headline": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+    "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-09-54-00 +0000"
+  },
+  {
+    "headline": "Global Markets Steady Ahead of Key U.S. Inflation Report",
+    "link": "https://www.wsj.com/finance/stocks/global-markets-steady-ahead-of-key-u-s-inflation-report-8662fe7e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-20-09-53-00 +0000"
+  },
+  {
+    "headline": "Christian mom, teacher shot in Ohio home as newly released 911 log sheds light on frantic response: report",
+    "link": "https://nypost.com/2026/02/20/us-news/ohio-teacher-ashley-flynn-frantic-911-call-by-husband-caleb-after-deadly-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-09-48-19 +0000"
+  },
+  {
+    "headline": "Euro, European Yields Stay Lower After Eurozone PMI Data",
+    "link": "https://www.wsj.com/finance/investing/jgbs-rise-aided-by-slowing-inflation-in-japan-5de7f890?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-20-09-40-00 +0000"
+  },
+  {
+    "headline": "Judge declares 4 men wrongly accused of 1991 Austin yogurt shop murders innocent",
+    "link": "https://nypost.com/2026/02/20/us-news/texas-judge-declares-4-men-wrongly-accused-of-raping-murdering-teen-girls-innocent/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-09-38-19 +0000"
+  },
+  {
+    "headline": "Euro, European Yields Stay Lower After Eurozone PMI Data",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-geopolitical-tensions-likely-to-weigh-1d99bc01?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-20-09-37-00 +0000"
+  },
+  {
+    "headline": "Anglo American Halves Value of De Beers Diamond Business",
+    "link": "https://www.wsj.com/business/earnings/anglo-american-writes-down-de-beers-diamond-unit-value-by-another-2-3-billion-b5714ee6?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-20-09-35-00 +0000"
+  },
+  {
+    "headline": "Asos co-founder dies after Thailand balcony fall",
+    "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-09-27-56 +0000"
+  },
+  {
+    "headline": "Asos co-founder dies after Thailand balcony fall",
+    "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-09-27-56 +0000"
+  },
+  {
+    "headline": "Deportation of Chagos Islanders blocked by judge",
+    "link": "https://www.bbc.com/news/articles/c1jk5p0ewx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-20-09-22-56 +0000"
+  },
+  {
+    "headline": "Norwegian Cruise Line slammed over dining dress code change: ‘Idiotic rule’",
+    "link": "https://nypost.com/2026/02/20/us-news/norwegian-cruise-line-slammed-over-dining-dress-code-change-idiotic-rule/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-09-17-17 +0000"
+  },
+  {
+    "headline": "Rhode Island trans dad Robert Dorgan wasn’t part of ‘Senior Night’ photo with ex-wife, sons before deadly shooting",
+    "link": "https://nypost.com/2026/02/20/us-news/rhode-island-trans-shooter-robert-dorgan-left-out-of-family-senior-night-photo-before-hockey-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-02-20-09-05-24 +0000"
+  },
+  {
     "headline": "Carney government shifts advertising budget to more patriotic messaging",
     "link": "https://www.cbc.ca/news/politics/federal-government-advertising-money-9.7097892?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-20-09-00-00 +0000"
-  },
-  {
-    "headline": "Chinese Yuan May Appreciate Further, But Investors Divided on Magnitude",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-geopolitical-tensions-likely-to-weigh-1d99bc01?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-20-08-58-00 +0000"
   },
   {
     "headline": "Man placed in coma after 2 brutes brawl during 5-year-old girl’s Chuck E. Cheese birthday party",
@@ -48,12 +150,6 @@
     "pubdate": "2026-02-20-08-40-00 +0000"
   },
   {
-    "headline": "Anglo American Writes Down De Beers Diamond Unit Value by Another $2.3 Billion",
-    "link": "https://www.wsj.com/business/earnings/anglo-american-writes-down-de-beers-diamond-unit-value-by-another-2-3-billion-b5714ee6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-20-08-37-00 +0000"
-  },
-  {
     "headline": "UK government finances better than expected in January",
     "link": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -82,12 +178,6 @@
     "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-amid-ongoing-u-s-iran-tensions-cf386b0b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-20-08-29-00 +0000"
-  },
-  {
-    "headline": "Bunds Could Be Favored Over U.S. Treasurys Amid U.S.-Iran Tensions",
-    "link": "https://www.wsj.com/finance/investing/jgbs-rise-aided-by-slowing-inflation-in-japan-5de7f890?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-20-08-17-00 +0000"
   },
   {
     "headline": "British Police Arrest Former Prince Andrew Amid Scrutiny Over Epstein Ties",
@@ -144,18 +234,6 @@
     "pubdate": "2026-02-20-07-54-39 +0000"
   },
   {
-    "headline": "Asos co-founder dies after Thailand balcony fall",
-    "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-20-07-52-13 +0000"
-  },
-  {
-    "headline": "Asos co-founder dies after Thailand balcony fall",
-    "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-20-07-52-13 +0000"
-  },
-  {
     "headline": "China’s ‘King of Banned Films’ Wants to Change the Subject",
     "link": "https://www.nytimes.com/2026/02/20/world/asia/lou-ye-china-film-director.html",
     "source": "nyt",
@@ -166,18 +244,6 @@
     "link": "https://www.nytimes.com/2026/02/20/world/asia/lou-ye-china-film-director.html",
     "source": "nyt",
     "pubdate": "2026-02-20-07-20-17 +0000"
-  },
-  {
-    "headline": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
-    "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-20-07-19-44 +0000"
-  },
-  {
-    "headline": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
-    "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-20-07-19-44 +0000"
   },
   {
     "headline": "Air Liquide Posts Higher Profit on Sales Growth in Gas, Services Business",
@@ -522,24 +588,6 @@
     "pubdate": "2026-02-20-02-55-04 +0000"
   },
   {
-    "headline": "National Symphony Orchestra  moves to Hollywood Bowl as Trump revamps Kennedy Center",
-    "link": "https://nypost.com/2026/02/19/entertainment/national-symphony-orchestra-moves-to-hollywood-bowl-after-trump-shut-kennedy-center/",
-    "source": "nypost",
-    "pubdate": "2026-02-20-02-47-26 +0000"
-  },
-  {
-    "headline": "Avalanche survivors tried to dig friends out of giant snow pack, went into ‘frantic mode’",
-    "link": "https://nypost.com/2026/02/19/us-news/avalanche-survivors-tried-to-dig-friends-out-of-giant-snow-pack/",
-    "source": "nypost",
-    "pubdate": "2026-02-20-02-45-14 +0000"
-  },
-  {
-    "headline": "Maniac crashes accelerant-doused stolen ambulance into Idaho DHS office",
-    "link": "https://nypost.com/2026/02/19/us-news/maniac-crashes-accelerant-doused-stolen-ambulance-into-idaho-dhs-office/",
-    "source": "nypost",
-    "pubdate": "2026-02-20-02-45-12 +0000"
-  },
-  {
     "headline": "After a Super Bowl sex trafficking crackdown, NorCal authorities gear up for the World Cup",
     "link": "https://www.latimes.com/california/story/2026-02-19/santa-clara-authorities-target-sex-trafficking-ahead-of-world-cup",
     "source": "latimes",
@@ -570,12 +618,6 @@
     "pubdate": "2026-02-20-02-31-34 +0000"
   },
   {
-    "headline": "Giant runaway pig with ‘maximum confidence’ storms North Carolina home looking for savory treat",
-    "link": "https://nypost.com/2026/02/19/us-news/giant-pig-with-maximum-confidence-storms-north-carolina-home-looking-for-savory-treat/",
-    "source": "nypost",
-    "pubdate": "2026-02-20-02-29-38 +0000"
-  },
-  {
     "headline": "Mike Conley returns to Timberwolves and is OK with a reduced playing role",
     "link": "https://www.startribune.com/mike-conley-returns-minnesota-timberwolves-trade-bulls/601557291",
     "source": "startribune",
@@ -592,12 +634,6 @@
     "link": "https://www.wsj.com/articles/rbnz-wont-be-trigger-happy-when-it-comes-to-rate-increases-chief-economist-says-56313ab1",
     "source": "wsj",
     "pubdate": "2026-02-20-02-11-00 +0000"
-  },
-  {
-    "headline": "Fourth measles case confirmed in LA county as community urged to take precautions",
-    "link": "https://nypost.com/2026/02/19/us-news/fourth-measles-case-confirmed-in-la-county-community-urged-to-take-precautions/",
-    "source": "nypost",
-    "pubdate": "2026-02-20-02-04-36 +0000"
   },
   {
     "headline": "Why Irvine police are sounding the alarm on 'senior assassin,' a popular high school tradition",
@@ -867,13 +903,13 @@
     "headline": "Former Prince Andrew’s Arrest Casts Shadow Over UK Monarchy",
     "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-epstein-royal-family.html",
     "source": "nyt",
-    "pubdate": "2026-02-20-00-51-11 +0000"
+    "pubdate": "2026-02-20-00-51-12 +0000"
   },
   {
     "headline": "Former Prince Andrew’s Arrest Casts Shadow Over UK Monarchy",
     "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-epstein-royal-family.html",
     "source": "nyt",
-    "pubdate": "2026-02-20-00-51-11 +0000"
+    "pubdate": "2026-02-20-00-51-12 +0000"
   },
   {
     "headline": "Fed’s Daly Says Policy ‘In a Good Place’ as Officials Assess AI’s Effect on Economy",
@@ -1311,13 +1347,13 @@
     "headline": "Former Prince Andrew is the most senior British royal to have been arrested in modern times.",
     "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/former-prince-andrew-is-the-most-senior-british-royal-to-have-been-arrested-in-modern-times",
     "source": "nyt",
-    "pubdate": "2026-02-19-22-34-16 +0000"
+    "pubdate": "2026-02-19-22-34-17 +0000"
   },
   {
     "headline": "Former Prince Andrew is the most senior British royal to have been arrested in modern times.",
     "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/former-prince-andrew-is-the-most-senior-british-royal-to-have-been-arrested-in-modern-times",
     "source": "nyt",
-    "pubdate": "2026-02-19-22-34-16 +0000"
+    "pubdate": "2026-02-19-22-34-17 +0000"
   },
   {
     "headline": "Opinion | Democrats’ Secret Electoral Sauce",
@@ -1416,6 +1452,12 @@
     "pubdate": "2026-02-19-22-01-02 +0000"
   },
   {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ff1f8af9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-19-22-01-00 +0000"
+  },
+  {
     "headline": "Meet the District 4 Candidates: What is your No. 1 issue?",
     "link": "https://missionlocal.org/2026/02/sf-district-4-election-sunset-candidates/",
     "source": "missionlocal",
@@ -1442,12 +1484,6 @@
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-51ae273a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-19-21-57-00 +0000"
-  },
-  {
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-51ae273a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-19-21-57-00 +0000"
   },
@@ -1612,12 +1648,6 @@
     "link": "https://missionlocal.org/2026/02/richmond-buzz-feb-19/",
     "source": "missionlocal",
     "pubdate": "2026-02-19-20-52-06 +0000"
-  },
-  {
-    "headline": "Treasurys Little Changed Amid Hawkish Fed, Middle East Tension",
-    "link": "https://www.wsj.com/opinion/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-a31a880b",
-    "source": "wsj",
-    "pubdate": "2026-02-19-20-52-00 +0000"
   },
   {
     "headline": "The Epstein files have brought a wave of resignations and investigations",
@@ -2934,26 +2964,14 @@
     "pubdate": "2026-02-19-11-07-24 +0000"
   },
   {
-    "headline": "SoCal nonprofit exec spent thousands in public money to lift breasts, tighten tummy, D.A. says",
-    "link": "https://www.latimes.com/california/story/2026-02-19/socal-nonprofit-exec-stole-thousands-public-money-breast-implants-tummy-tuck-d-a-says",
-    "source": "latimes",
-    "pubdate": "2026-02-19-11-00-00 +0000"
-  },
-  {
     "headline": "Break in cold case leads to 39-year-old man, now facing murder charge in L.A. Juvenile Court",
     "link": "https://www.latimes.com/california/story/2026-02-19/adult-murder-charge-los-angeles-juvenile-court",
     "source": "latimes",
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: Chipotle just saw its worst year ever. It may not get any better",
-    "link": "https://www.latimes.com/california/story/2026-02-19/chipotle-worst-year-ever",
-    "source": "latimes",
-    "pubdate": "2026-02-19-11-00-00 +0000"
-  },
-  {
-    "headline": "Jury rejects claim that LAPD officer was killed in training over sexual assault report",
-    "link": "https://www.latimes.com/california/story/2026-02-19/houston-tipping-lawsuit-jury-verdict",
+    "headline": "SoCal nonprofit exec spent thousands in public money to lift breasts, tighten tummy, D.A. says",
+    "link": "https://www.latimes.com/california/story/2026-02-19/socal-nonprofit-exec-stole-thousands-public-money-breast-implants-tummy-tuck-d-a-says",
     "source": "latimes",
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
@@ -2964,14 +2982,26 @@
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
   {
+    "headline": "Billionaires Spielberg, Zuckerberg eyeing East Coast, stirring concerns about California's wealth-tax proposal",
+    "link": "https://www.latimes.com/california/story/2026-02-19/billionaires-spielberg-zuckerberg-look-outside-of-california-amid-wealth-tax-proposal",
+    "source": "latimes",
+    "pubdate": "2026-02-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Jury rejects claim that LAPD officer was killed in training over sexual assault report",
+    "link": "https://www.latimes.com/california/story/2026-02-19/houston-tipping-lawsuit-jury-verdict",
+    "source": "latimes",
+    "pubdate": "2026-02-19-11-00-00 +0000"
+  },
+  {
     "headline": "When it comes to shark attacks, there's a grim reason California stands out in the U.S.",
     "link": "https://www.latimes.com/science/story/2026-02-19/shark-attack-report-2025",
     "source": "latimes",
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
   {
-    "headline": "Billionaires Spielberg, Zuckerberg eyeing East Coast, stirring concerns about California's wealth-tax proposal",
-    "link": "https://www.latimes.com/california/story/2026-02-19/billionaires-spielberg-zuckerberg-look-outside-of-california-amid-wealth-tax-proposal",
+    "headline": "Arellano: Chipotle just saw its worst year ever. It may not get any better",
+    "link": "https://www.latimes.com/california/story/2026-02-19/chipotle-worst-year-ever",
     "source": "latimes",
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
@@ -3006,14 +3036,14 @@
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
   {
-    "headline": "Billionaires Spielberg, Zuckerberg eyeing East Coast, stirring concerns about California's wealth-tax proposal",
-    "link": "https://www.latimes.com/california/story/2026-02-19/billionaires-spielberg-zuckerberg-look-outside-of-california-amid-wealth-tax-proposal",
+    "headline": "Calmes: Clinton, Bush, Obama and Biden, please speak out against Trump",
+    "link": "https://www.latimes.com/opinion/story/2026-02-19/trump-former-presidents-military-civilian-norms",
     "source": "latimes",
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
   {
-    "headline": "Calmes: Clinton, Bush, Obama and Biden, please speak out against Trump",
-    "link": "https://www.latimes.com/opinion/story/2026-02-19/trump-former-presidents-military-civilian-norms",
+    "headline": "Billionaires Spielberg, Zuckerberg eyeing East Coast, stirring concerns about California's wealth-tax proposal",
+    "link": "https://www.latimes.com/california/story/2026-02-19/billionaires-spielberg-zuckerberg-look-outside-of-california-amid-wealth-tax-proposal",
     "source": "latimes",
     "pubdate": "2026-02-19-11-00-00 +0000"
   },
@@ -4278,12 +4308,6 @@
     "pubdate": "2026-02-18-15-55-53 +0000"
   },
   {
-    "headline": "Swinney was told of Murrell charges weeks before they became public",
-    "link": "https://www.bbc.com/news/articles/c1l7m4484g6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-18-15-43-39 +0000"
-  },
-  {
     "headline": "Could planned increase in your minimum wage be delayed?",
     "link": "https://www.bbc.com/news/videos/c4ge4759328o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4488,14 +4512,14 @@
     "pubdate": "2026-02-18-11-19-37 +0000"
   },
   {
-    "headline": "Citing fire risk, L.A. city may get more power to remove hillside homeless encampments",
-    "link": "https://www.latimes.com/california/story/2026-02-18/citing-fire-risk-la-city-may-get-more-power-to-remove-hillside-homeless-encampments",
+    "headline": "Lightning fires, avalanches and floods: Deadly string of storms slams California",
+    "link": "https://www.latimes.com/california/story/2026-02-18/rain-winds-snow-southern-california-storm",
     "source": "latimes",
     "pubdate": "2026-02-18-11-00-00 +0000"
   },
   {
-    "headline": "Lightning fires, avalanches and floods: Deadly string of storms slams California",
-    "link": "https://www.latimes.com/california/story/2026-02-18/rain-winds-snow-southern-california-storm",
+    "headline": "Citing fire risk, L.A. city may get more power to remove hillside homeless encampments",
+    "link": "https://www.latimes.com/california/story/2026-02-18/citing-fire-risk-la-city-may-get-more-power-to-remove-hillside-homeless-encampments",
     "source": "latimes",
     "pubdate": "2026-02-18-11-00-00 +0000"
   },
@@ -4546,18 +4570,6 @@
     "link": "https://www.washingtonpost.com/business/2026/02/18/atlantic-measles-controversy/",
     "source": "wapo",
     "pubdate": "2026-02-18-10-15-46 +0000"
-  },
-  {
-    "headline": "Why it’s becoming so expensive to buy a car in America",
-    "link": "https://www.washingtonpost.com/business/2026/02/17/new-cars-high-prices/",
-    "source": "wapo",
-    "pubdate": "2026-02-18-10-00-53 +0000"
-  },
-  {
-    "headline": "Democratic-led cities move to block ICE, setting up clash with Trump",
-    "link": "https://www.washingtonpost.com/nation/2026/02/18/philadelphia-new-york-blue-cities-fight-ice/",
-    "source": "wapo",
-    "pubdate": "2026-02-18-10-00-09 +0000"
   },
   {
     "headline": "A sex offender receives gender surgery. A court will decide if she should be transferred to a women’s prison",
@@ -5124,12 +5136,6 @@
     "pubdate": "2026-02-17-14-50-00 +0000"
   },
   {
-    "headline": "Activist Elliott Builds Big Stake in Norwegian Cruise Line",
-    "link": "https://www.wsj.com/business/deals/activist-elliott-builds-big-stake-in-norwegian-cruise-line-3c2e669d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-17-14-44-00 +0000"
-  },
-  {
     "headline": "Sterling Extends Losses After Soft Jobs Data",
     "link": "https://www.wsj.com/finance/currencies/yen-stronger-further-gains-may-rest-on-takaichis-econ-steps-6ed6dc0e?mod=rss_markets_main",
     "source": "wsj",
@@ -5214,8 +5220,8 @@
     "pubdate": "2026-02-17-11-14-34 +0000"
   },
   {
-    "headline": "Eaton and Palisades fire refugees moved near and far — and often",
-    "link": "https://www.latimes.com/california/story/2026-02-17/eaton-palisades-fire-refugees-moved-near-far-often",
+    "headline": "Altadena asked Edison to bury power lines. Some fire victims say that could cost them $40,000",
+    "link": "https://www.latimes.com/business/story/2026-02-17/edison-altadena-residents-balk-at-costs-bury-power-lines-la-wildfires-eaton-fire",
     "source": "latimes",
     "pubdate": "2026-02-17-11-00-00 +0000"
   },
@@ -5226,8 +5232,8 @@
     "pubdate": "2026-02-17-11-00-00 +0000"
   },
   {
-    "headline": "Altadena asked Edison to bury power lines. Some fire victims say that could cost them $40,000",
-    "link": "https://www.latimes.com/business/story/2026-02-17/edison-altadena-residents-balk-at-costs-bury-power-lines-la-wildfires-eaton-fire",
+    "headline": "Eaton and Palisades fire refugees moved near and far — and often",
+    "link": "https://www.latimes.com/california/story/2026-02-17/eaton-palisades-fire-refugees-moved-near-far-often",
     "source": "latimes",
     "pubdate": "2026-02-17-11-00-00 +0000"
   },
@@ -5670,12 +5676,6 @@
     "pubdate": "2026-02-16-00-53-12 +0000"
   },
   {
-    "headline": "Diplomatic Feud With China Weighs on Japan’s Economy",
-    "link": "https://www.nytimes.com/2026/02/15/business/japan-economy-china-tourism.html",
-    "source": "nyt",
-    "pubdate": "2026-02-16-00-53-12 +0000"
-  },
-  {
     "headline": "The U.S. military airlifted on Sunday a modern nuclear reactor for the first time as part of President Trump’s push to deploy nuclear power across the U.S.",
     "link": "https://www.wsj.com/politics/national-security/u-s-military-airlifts-mini-nuclear-reactor-in-first-ever-flight-ee037c9d",
     "source": "wsj",
@@ -5778,14 +5778,14 @@
     "pubdate": "2026-02-15-12-00-00 +0000"
   },
   {
-    "headline": "Bass helped Raman win reelection. Now Raman wants to unseat her. Some call it 'a betrayal'",
-    "link": "https://www.latimes.com/california/story/2026-02-15/bass-helped-raman-win-reelection-now-raman-wants-to-unseat-her-some-call-it-a-betrayal",
+    "headline": "The two separate lives of Gavin Newsom detailed in new memoir",
+    "link": "https://www.latimes.com/california/story/2026-02-15/two-separate-lives-of-gavin-newsom-detailed-in-new-memoir",
     "source": "latimes",
     "pubdate": "2026-02-15-11-00-00 +0000"
   },
   {
-    "headline": "The two separate lives of Gavin Newsom detailed in new memoir",
-    "link": "https://www.latimes.com/california/story/2026-02-15/two-separate-lives-of-gavin-newsom-detailed-in-new-memoir",
+    "headline": "Bass helped Raman win reelection. Now Raman wants to unseat her. Some call it 'a betrayal'",
+    "link": "https://www.latimes.com/california/story/2026-02-15/bass-helped-raman-win-reelection-now-raman-wants-to-unseat-her-some-call-it-a-betrayal",
     "source": "latimes",
     "pubdate": "2026-02-15-11-00-00 +0000"
   },
@@ -5988,14 +5988,14 @@
     "pubdate": "2026-02-14-12-00-00 +0000"
   },
   {
-    "headline": "Notoriously hazardous South L.A. oil wells finally plugged after decades of community pressure",
-    "link": "https://www.latimes.com/environment/story/2026-02-14/hazardous-south-la-oil-wells-plugged-after-decades-of-community-pressure",
+    "headline": "L.A. streetlights take a year to fix. Council members say solar power is the answer",
+    "link": "https://www.latimes.com/california/story/2026-02-14/la-streetlights-take-year-to-fix-city-council-touts-solar-power",
     "source": "latimes",
     "pubdate": "2026-02-14-11-00-00 +0000"
   },
   {
-    "headline": "L.A. streetlights take a year to fix. Council members say solar power is the answer",
-    "link": "https://www.latimes.com/california/story/2026-02-14/la-streetlights-take-year-to-fix-city-council-touts-solar-power",
+    "headline": "Notoriously hazardous South L.A. oil wells finally plugged after decades of community pressure",
+    "link": "https://www.latimes.com/environment/story/2026-02-14/hazardous-south-la-oil-wells-plugged-after-decades-of-community-pressure",
     "source": "latimes",
     "pubdate": "2026-02-14-11-00-00 +0000"
   },
@@ -6402,14 +6402,14 @@
     "pubdate": "2026-02-13-11-00-00 +0000"
   },
   {
-    "headline": "Strong storm set to pummel L.A. with heavy rains, flooding and beach hazards",
-    "link": "https://www.latimes.com/california/story/2026-02-13/storm-set-to-pummel-la-with-heavy-rains-flooding-beach-hazards",
+    "headline": "Police cases under L.A. district attorney ending in dropped charges, losses and plea deals",
+    "link": "https://www.latimes.com/california/story/2026-02-13/nathan-hochman-la-county-da-law-enforcement-charges",
     "source": "latimes",
     "pubdate": "2026-02-13-11-00-00 +0000"
   },
   {
-    "headline": "Police cases under L.A. district attorney ending in dropped charges, losses and plea deals",
-    "link": "https://www.latimes.com/california/story/2026-02-13/nathan-hochman-la-county-da-law-enforcement-charges",
+    "headline": "Strong storm set to pummel L.A. with heavy rains, flooding and beach hazards",
+    "link": "https://www.latimes.com/california/story/2026-02-13/storm-set-to-pummel-la-with-heavy-rains-flooding-beach-hazards",
     "source": "latimes",
     "pubdate": "2026-02-13-11-00-00 +0000"
   },
@@ -6430,23 +6430,5 @@
     "link": "https://www.wsj.com/finance/currencies/a-winter-for-stablecoins-would-signal-crypto-deep-freeze-34926ffa?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-13-10-30-00 +0000"
-  },
-  {
-    "headline": "Elephant Bone in Spain May Be Proof of Hannibal’s Tanks With Trunks",
-    "link": "https://www.nytimes.com/2026/02/13/science/hannibal-war-elephants-carthage.html",
-    "source": "nyt",
-    "pubdate": "2026-02-13-10-04-29 +0000"
-  },
-  {
-    "headline": "Iran Turns to Digital Surveillance Tools to Track Down Protesters",
-    "link": "https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html",
-    "source": "nyt",
-    "pubdate": "2026-02-13-10-00-38 +0000"
-  },
-  {
-    "headline": "Brilliant Muzarabani helps Zimbabwe stun Australia",
-    "link": "https://www.bbc.com/sport/cricket/articles/cy4wp31nz19o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-13-09-32-15 +0000"
   }
 ]
