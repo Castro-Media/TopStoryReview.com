@@ -7,7 +7,7 @@
     "link": "https://www.wsj.com/politics/policy/the-moment-trump-found-out-the-supreme-court-killed-his-tariffs-ad40b45f"
   },
   {
-    "score": 147,
+    "score": 149,
     "pubdate": "2026-02-20-23-26-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court decision to strike down President Trump’s tariffs plunges the global trade system into fresh chaos",
@@ -21,13 +21,6 @@
     "link": "https://www.cbc.ca/news/world/livestory/scotus-tariff-ruling-9.7099048?cmp=rss"
   },
   {
-    "score": 75,
-    "pubdate": "2026-02-20-08-09-06 +0000",
-    "source": "nyt",
-    "headline": "British Police Arrest Former Prince Andrew Amid Scrutiny Over Epstein Ties",
-    "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-arrest-epstein.html"
-  },
-  {
     "score": 65,
     "pubdate": "2026-02-20-16-34-59 +0000",
     "source": "nyt",
@@ -35,14 +28,21 @@
     "link": "https://www.nytimes.com/live/2026/02/20/us/trump-news/trump-says-hes-considering-a-limited-strike-on-iran-to-force-a-deal"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2026-02-20-15-58-01 +0000",
     "source": "nypost",
     "headline": "The government agency relying on Wall Street to go up against China’s soft power",
     "link": "https://nypost.com/2026/02/20/business/development-finance-corporation-helps-us-compete-with-china/"
   },
   {
-    "score": 57,
+    "score": 56,
+    "pubdate": "2026-02-20-12-07-49 +0000",
+    "source": "nypost",
+    "headline": "Ex-Prince Andrew was treated like a ‘common criminal’ during 11 hours in custody: ‘Extraordinary fall from grace’",
+    "link": "https://nypost.com/2026/02/20/world-news/ex-prince-andrew-was-treated-like-a-common-criminal-during-11-hours-in-custody/"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-02-20-14-01-00 +0000",
     "source": "wsj",
     "headline": "Key inflation metrics tracked by the Fed accelerated at the end of last year, underscoring why many Fed officials have turned cautious about supporting further interest-rate cuts",
@@ -56,17 +56,17 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 49,
-    "pubdate": "2026-02-20-14-19-27 +0000",
-    "source": "bbc",
-    "headline": "French soldier dies after being shot in head during 'game' with other soldiers",
-    "link": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 48,
     "pubdate": "2026-02-20-16-06-36 +0000",
     "source": "nyt",
     "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
     "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-02-21-05-56-27 +0000",
+    "source": "bbc",
+    "headline": "Family of Palestinian-American man killed in West Bank demand accountability",
+    "link": "https://www.bbc.com/news/articles/cvgk7z15gnpo?at_medium=RSS&at_campaign=rss"
   }
 ]
