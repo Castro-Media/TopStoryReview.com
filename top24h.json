@@ -1,6 +1,6 @@
 [
   {
-    "score": 602,
+    "score": 599,
     "pubdate": "2026-02-21-00-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
@@ -21,39 +21,46 @@
     "link": "https://www.cbc.ca/news/world/livestory/scotus-tariff-ruling-9.7099048?cmp=rss"
   },
   {
-    "score": 68,
+    "score": 67,
     "pubdate": "2026-02-20-16-34-59 +0000",
     "source": "nyt",
     "headline": "Trump says he’s considering a limited strike on Iran to force a deal.",
     "link": "https://www.nytimes.com/live/2026/02/20/us/trump-news/trump-says-hes-considering-a-limited-strike-on-iran-to-force-a-deal"
   },
   {
-    "score": 61,
+    "score": 60,
     "pubdate": "2026-02-20-15-58-01 +0000",
     "source": "nypost",
     "headline": "The government agency relying on Wall Street to go up against China’s soft power",
     "link": "https://nypost.com/2026/02/20/business/development-finance-corporation-helps-us-compete-with-china/"
   },
   {
-    "score": 57,
+    "score": 54,
+    "pubdate": "2026-02-20-14-19-27 +0000",
+    "source": "bbc",
+    "headline": "French soldier dies after being shot in head during 'game' with other soldiers",
+    "link": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-02-20-19-56-29 +0000",
     "source": "nyt",
     "headline": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
     "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html"
   },
   {
-    "score": 56,
-    "pubdate": "2026-02-20-13-00-00 +0000",
+    "score": 52,
+    "pubdate": "2026-02-20-14-01-00 +0000",
     "source": "wsj",
-    "headline": "After President Trump’s first year back in office, the nation is still buying a lot more goods from other countries than it is selling. See the wild year in trade, in charts.",
-    "link": "https://www.wsj.com/economy/trade/tariffs-commerce-department-trade-data-5a0fa077"
+    "headline": "Key inflation metrics tracked by the Fed accelerated at the end of last year, underscoring why many Fed officials have turned cautious about supporting further interest-rate cuts",
+    "link": "https://www.wsj.com/economy/central-banking/feds-preferred-gauge-shows-accelerating-december-inflation-trends-ef90ef58"
   },
   {
-    "score": 50,
-    "pubdate": "2026-02-20-14-19-27 +0000",
-    "source": "bbc",
-    "headline": "French soldier dies after being shot in head during 'game' with other soldiers",
-    "link": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss"
+    "score": 48,
+    "pubdate": "2026-02-20-16-06-36 +0000",
+    "source": "nyt",
+    "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html"
   },
   {
     "score": 48,
@@ -61,12 +68,5 @@
     "source": "wapo",
     "headline": "President Donald Trump opened his news conference Friday afternoon by lashing out at Supreme Court justices...",
     "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-02-20-14-01-00 +0000",
-    "source": "wsj",
-    "headline": "Key inflation metrics tracked by the Fed accelerated at the end of last year, underscoring why many Fed officials have turned cautious about supporting further interest-rate cuts",
-    "link": "https://www.wsj.com/economy/central-banking/feds-preferred-gauge-shows-accelerating-december-inflation-trends-ef90ef58"
   }
 ]
