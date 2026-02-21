@@ -1,45 +1,38 @@
 [
   {
-    "score": 604,
+    "score": 550,
     "pubdate": "2026-02-21-00-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
     "link": "https://www.wsj.com/politics/policy/the-moment-trump-found-out-the-supreme-court-killed-his-tariffs-ad40b45f"
   },
   {
-    "score": 149,
+    "score": 128,
     "pubdate": "2026-02-20-23-26-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court decision to strike down President Trump’s tariffs plunges the global trade system into fresh chaos",
     "link": "https://www.wsj.com/economy/trade/trump-tariffs-trade-uncertainty-119f4651"
   },
   {
-    "score": 109,
-    "pubdate": "2026-02-20-15-03-53 +0000",
-    "source": "cbc",
-    "headline": "Trump imposes new 10% global tariff after U.S. Supreme Court loss, though Canada's largely exempt",
-    "link": "https://www.cbc.ca/news/world/livestory/scotus-tariff-ruling-9.7099048?cmp=rss"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-02-20-16-34-59 +0000",
-    "source": "nyt",
-    "headline": "Trump says he’s considering a limited strike on Iran to force a deal.",
-    "link": "https://www.nytimes.com/live/2026/02/20/us/trump-news/trump-says-hes-considering-a-limited-strike-on-iran-to-force-a-deal"
-  },
-  {
-    "score": 54,
-    "pubdate": "2026-02-20-15-58-01 +0000",
+    "score": 89,
+    "pubdate": "2026-02-20-17-23-09 +0000",
     "source": "nypost",
-    "headline": "The government agency relying on Wall Street to go up against China’s soft power",
-    "link": "https://nypost.com/2026/02/20/business/development-finance-corporation-helps-us-compete-with-china/"
+    "headline": "Democrats giddy over Trump Supreme Court tariff ruling — plan to use it against Republicans in midterm elections",
+    "link": "https://nypost.com/2026/02/20/us-news/democrats-giddy-over-trump-supreme-court-tariff-ruling-plan-to-use-it-against-republicans-in-midterm-elections/"
   },
   {
-    "score": 53,
-    "pubdate": "2026-02-20-18-31-47 +0000",
+    "score": 61,
+    "pubdate": "2026-02-20-20-06-20 +0000",
     "source": "wapo",
-    "headline": "President Donald Trump opened his news conference Friday afternoon by lashing out at Supreme Court justices...",
-    "link": "https://www.washingtonpost.com"
+    "headline": "Trump talks peace in the Middle East as he readies war on Iran",
+    "link": "https://www.washingtonpost.com/national-security/2026/02/20/trum-war-iran-peace-middle-east/"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-02-21-14-35-40 +0000",
+    "source": "nypost",
+    "headline": "New NY law gives widows of fallen NYPD officers up to 50% off on property taxes",
+    "link": "https://nypost.com/2026/02/21/us-news/it-never-fades-says-widow-who-lost-nypd-husband/"
   },
   {
     "score": 49,
@@ -49,24 +42,31 @@
     "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html"
   },
   {
-    "score": 47,
-    "pubdate": "2026-02-20-16-06-36 +0000",
-    "source": "nyt",
-    "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
-    "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html"
+    "score": 48,
+    "pubdate": "2026-02-20-18-31-47 +0000",
+    "source": "wapo",
+    "headline": "President Donald Trump opened his news conference Friday afternoon by lashing out at Supreme Court justices...",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 44,
+    "score": 42,
     "pubdate": "2026-02-21-10-05-15 +0000",
     "source": "nypost",
     "headline": "Justice Department swiftly fires lawyer chosen to replace Trump attorney as top federal prosecutor for Virginia office",
     "link": "https://nypost.com/2026/02/21/us-news/virginia-attorney-james-hundley-swiftly-fired-by-justice-department/"
   },
   {
-    "score": 42,
-    "pubdate": "2026-02-21-13-53-38 +0000",
-    "source": "nypost",
-    "headline": "Shocking video shows group of NYC teens climbing Queensboro Bridge before boy’s near-fatal 50-foot-fall",
-    "link": "https://nypost.com/2026/02/21/us-news/shock-video-shows-group-of-teens-climbing-queensboro-bridge-before-one-boys-near-fatal-50-foot-fall/"
+    "score": 41,
+    "pubdate": "2026-02-21-14-08-30 +0000",
+    "source": "startribune",
+    "headline": "Live: U.S. women’s curling team faces Canada for Olympic bronze medal",
+    "link": "https://www.startribune.com/2026-winter-olympics-milan-cortina-minnesota-olympians-live-updates/601573094"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-02-20-16-47-51 +0000",
+    "source": "nyt",
+    "headline": "Head of Russia’s Antidoping Agency Was Involved in 2014 Doping Scheme, Whistle-Blower Claims",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/olympics-doping-russia.html"
   }
 ]
