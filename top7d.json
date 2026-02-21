@@ -1,6 +1,6 @@
 [
   {
-    "score": 749,
+    "score": 748,
     "pubdate": "2026-02-21-00-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
@@ -35,14 +35,7 @@
     "link": "https://www.nytimes.com/2026/02/20/business/economy/what-happens-to-all-these-trade-deals-now.html"
   },
   {
-    "score": 100,
-    "pubdate": "2026-02-16-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
-    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
-  },
-  {
-    "score": 100,
+    "score": 101,
     "pubdate": "2026-02-20-15-58-01 +0000",
     "source": "nypost",
     "headline": "The government agency relying on Wall Street to go up against China’s soft power",
@@ -56,7 +49,14 @@
     "link": "https://www.latimes.com/california/story/2026-02-20/pam-bondi-california-mask-ban-id-law-9th-circuit"
   },
   {
-    "score": 97,
+    "score": 98,
+    "pubdate": "2026-02-16-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "From Russia’s war in Ukraine to the Pacific Ocean, military balloons are making a comeback, boosted by high-tech innovations in sensors, autonomy and materials",
+    "link": "https://www.wsj.com/politics/national-security/the-newest-old-tech-in-warfare-balloons-0966e9af"
+  },
+  {
+    "score": 95,
     "pubdate": "2026-02-19-08-13-25 +0000",
     "source": "bbc",
     "headline": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
