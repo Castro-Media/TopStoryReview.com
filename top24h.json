@@ -1,6 +1,6 @@
 [
   {
-    "score": 608,
+    "score": 602,
     "pubdate": "2026-02-21-00-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
@@ -28,7 +28,7 @@
     "link": "https://www.nytimes.com/live/2026/02/20/us/trump-news/trump-says-hes-considering-a-limited-strike-on-iran-to-force-a-deal"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2026-02-20-15-58-01 +0000",
     "source": "nypost",
     "headline": "The government agency relying on Wall Street to go up against China’s soft power",
@@ -42,18 +42,11 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 53,
+    "score": 51,
     "pubdate": "2026-02-20-14-19-27 +0000",
     "source": "bbc",
     "headline": "French soldier dies after being shot in head during 'game' with other soldiers",
     "link": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-02-20-14-01-00 +0000",
-    "source": "wsj",
-    "headline": "Key inflation metrics tracked by the Fed accelerated at the end of last year, underscoring why many Fed officials have turned cautious about supporting further interest-rate cuts",
-    "link": "https://www.wsj.com/economy/central-banking/feds-preferred-gauge-shows-accelerating-december-inflation-trends-ef90ef58"
   },
   {
     "score": 48,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "In Ukraine, Senators See War’s Impact and Press for Stronger U.S. Support",
     "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-02-21-10-05-15 +0000",
+    "source": "nypost",
+    "headline": "Justice Department swiftly fires lawyer chosen to replace Trump attorney as top federal prosecutor for Virginia office",
+    "link": "https://nypost.com/2026/02/21/us-news/virginia-attorney-james-hundley-swiftly-fired-by-justice-department/"
   }
 ]
