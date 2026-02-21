@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 90,
+    "pubdate": "2026-02-21-00-24-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
+    "link": "https://www.wsj.com/politics/policy/the-moment-trump-found-out-the-supreme-court-killed-his-tariffs-ad40b45f"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-02-21-01-07-46 +0000",
+    "source": "nyt",
+    "headline": "After Supreme Court Loss, Trump Plans to Impose Global Tariffs Using Different Laws",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-tariffs-plans.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-02-21-00-40-25 +0000",
+    "source": "nyt",
+    "headline": "As Trump Considers Second Iran Attack, It Could Be Deadlier Than the First",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-iran-risks.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-21-00-52-46 +0000",
+    "source": "nyt",
+    "headline": "With Tariff Changes, Consumers May Be Stuck in a Waiting Game",
+    "link": "https://www.nytimes.com/2026/02/20/business/economy/tariff-ruling-consumer-prices.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-02-21-00-31-45 +0000",
+    "source": "nyt",
+    "headline": "Judge Rebukes U.S. Over Application to Search Washington Post Reporter’s Home",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/washington-post-reporter-home-search.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-02-21-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "If diplomatic efforts to end Iran’s nuclear program fail, President Trump’s appetite for a lengthy, costly war will be tested",
+    "link": "https://www.wsj.com/politics/national-security/trump-approaches-legacy-defining-moment-on-iran-a-deal-or-war-ae3fe857"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-21-01-14-42 +0000",
+    "source": "nyt",
+    "headline": "The U.S. Tariffs Causing the Most Pain for Canada Remain in Place",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-canada-tariffs-supreme-court.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-21-00-46-21 +0000",
+    "source": "startribune",
+    "headline": "Federal judge: U.S. Attorney’s Office refrain of low staffing, massive caseload ‘has worn out its welcome’",
+    "link": "https://www.startribune.com/federal-judge-us-attorneys-office-refrain-of-low-staffing-massive-caseload-has-worn-out-its-welcome/601585936"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-21-00-32-16 +0000",
+    "source": "bbc",
+    "headline": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
+    "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-21-00-49-41 +0000",
+    "source": "nypost",
+    "headline": "Los Angeles small business owner takes wait-and-see approach after Trump’s tariffs are struck down",
+    "link": "https://nypost.com/2026/02/20/business/los-angeles-small-business-owner-takes-wait-and-see-approach-after-trumps-tariffs-are-struck-down/"
+  }
+]
