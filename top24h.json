@@ -14,7 +14,7 @@
     "link": "https://www.cbc.ca/news/politics/trump-global-tariff-supreme-court-decision-canada-mexico-9.7101004?cmp=rss"
   },
   {
-    "score": 51,
+    "score": 50,
     "pubdate": "2026-02-21-22-09-19 +0000",
     "source": "bbc",
     "headline": "Iran students stage first large anti-government protests since deadly crackdown",
@@ -28,13 +28,6 @@
     "link": "https://www.nytimes.com/2026/02/21/world/olympics/best-olympic-performances.html"
   },
   {
-    "score": 39,
-    "pubdate": "2026-02-22-00-15-48 +0000",
-    "source": "nypost",
-    "headline": "Senior MP demands UK probe ex-Prince Andrew, Peter Mandelson for ‘treason’ over Epstein ties",
-    "link": "https://nypost.com/2026/02/21/world-news/senior-mp-demands-uk-probe-ex-prince-andrew-peter-mandelson-for-treason-over-epstein-ties/"
-  },
-  {
     "score": 38,
     "pubdate": "2026-02-21-06-33-52 +0000",
     "source": "bbc",
@@ -42,11 +35,18 @@
     "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 35,
+    "score": 34,
     "pubdate": "2026-02-21-04-00-00 +0000",
     "source": "wsj",
     "headline": "There Are 154 Billionaire Women in the U.S. Here’s How They Amassed Their Fortunes.",
-    "link": "https://www.wsj.com/economy/americas-billionaire-women-fd32cd4a?mod=rss_markets_main"
+    "link": "https://www.wsj.com/economy/americas-billionaire-women-fd32cd4a"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-02-21-20-24-11 +0000",
+    "source": "nypost",
+    "headline": "Ex-Prince Andrew hits rock bottom as Brits move to boot him from line of succession",
+    "link": "https://nypost.com/2026/02/21/world-news/brits-push-to-remove-ex-prince-andrew-from-royal-line-of-succession/"
   },
   {
     "score": 32,
@@ -57,16 +57,16 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-02-21-03-02-20 +0000",
-    "source": "bbc",
-    "headline": "Anna Murdoch-Mann, writer and former News Corp director, dies aged 81",
-    "link": "https://www.bbc.com/news/articles/cp8150xj36wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-02-21-18-32-37 +0000",
+    "pubdate": "2026-02-21-20-26-04 +0000",
     "source": "bbc",
     "headline": "Giant tortoises return to Galápagos island after nearly 200 years",
-    "link": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss"
+    "link": "https://www.bbc.com/news/videos/cvg3wl7xxxlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-02-21-17-36-48 +0000",
+    "source": "nyt",
+    "headline": "After Tariff Decision, What Happens to Trump’s Deals With China, Canada and Europe?",
+    "link": "https://www.nytimes.com/2026/02/20/business/economy/what-happens-to-all-these-trade-deals-now.html"
   }
 ]
