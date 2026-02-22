@@ -1,6 +1,6 @@
 [
   {
-    "score": 175,
+    "score": 178,
     "pubdate": "2026-02-21-17-23-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would increase to 15% from 10% a global tariff that will replace many of the duties ruled illegal by the Supreme Court",
@@ -8,6 +8,13 @@
   },
   {
     "score": 53,
+    "pubdate": "2026-02-22-12-39-15 +0000",
+    "source": "bbc",
+    "headline": "Iran students stage first large anti-government protests since deadly crackdown",
+    "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-02-22-06-32-45 +0000",
     "source": "nypost",
     "headline": "Trump reveals his ‘new hero’ Supreme Court justice after tariffs ruling",
@@ -15,24 +22,31 @@
   },
   {
     "score": 50,
-    "pubdate": "2026-02-21-22-09-19 +0000",
-    "source": "bbc",
-    "headline": "Iran students stage first large anti-government protests since deadly crackdown",
-    "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 47,
     "pubdate": "2026-02-22-01-31-42 +0000",
     "source": "nypost",
     "headline": "Kathy Hochul letting bars open early to watch Olympic gold medal hockey game — but NYC is excluded",
     "link": "https://nypost.com/2026/02/21/us-news/hochul-letting-bars-open-early-to-broadcast-olympic-gold-medal-hockey-game-but-only-at-certain-locations/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-02-21-18-57-07 +0000",
-    "source": "nyt",
-    "headline": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
-    "link": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html"
+    "score": 37,
+    "pubdate": "2026-02-22-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Trans athletes face intense efforts to sideline them. These California teens are resisting",
+    "link": "https://www.latimes.com/politics/story/2026-02-22/trans-athletes-face-intense-efforts-to-sideline-them-these-california-teens-are-resisting"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-02-21-20-54-20 +0000",
+    "source": "nypost",
+    "headline": "Israeli strikes on Hezbollah kill 8 as terror group reportedly taken over by Tehran",
+    "link": "https://nypost.com/2026/02/21/world-news/israeli-strikes-on-hezbollah-kill-10-as-terror-group-is-reportedly-taken-over-by-tehran/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-02-22-05-10-25 +0000",
+    "source": "nypost",
+    "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
+    "link": "https://nypost.com/2026/02/22/us-news/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/"
   },
   {
     "score": 33,
@@ -42,31 +56,17 @@
     "link": "https://nypost.com/2026/02/21/world-news/senior-mp-demands-uk-probe-ex-prince-andrew-peter-mandelson-for-treason-over-epstein-ties/"
   },
   {
-    "score": 31,
-    "pubdate": "2026-02-22-00-33-48 +0000",
-    "source": "nypost",
-    "headline": "Behind shadowy union boss pushing California’s billionaire’s tax — who faced sleazy workplace claims",
-    "link": "https://nypost.com/2026/02/21/us-news/dave-regan-ca-union-boss-pushes-divisive-billionaire-tax/"
+    "score": 32,
+    "pubdate": "2026-02-22-09-42-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he plans to send a hospital ship to Greenland as part of his continuing effort to exercise control of the island in the Arctic",
+    "link": "https://www.wsj.com/politics/national-security/trump-says-he-is-sending-hospital-ship-to-greenland-5d6cd2db"
   },
   {
     "score": 31,
-    "pubdate": "2026-02-21-18-32-37 +0000",
-    "source": "bbc",
-    "headline": "Giant tortoises return to Galápagos island after nearly 200 years",
-    "link": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-02-22-02-06-23 +0000",
-    "source": "bbc",
-    "headline": "Final missing Lake Tahoe skier found dead 5 days after avalanche",
-    "link": "https://www.bbc.com/news/articles/cp9m0zp04xyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-02-22-06-15-28 +0000",
-    "source": "startribune",
-    "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
-    "link": "https://www.startribune.com/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/601586731"
+    "pubdate": "2026-02-21-22-54-01 +0000",
+    "source": "latimes",
+    "headline": "Democrats' fear rising that too many candidates in governor's race could lead to a Republican victory",
+    "link": "https://www.latimes.com/california/story/2026-02-21/democrats-fear-rising-that-too-many-candidates-in-governors-race-could-lead-to-republican-victory"
   }
 ]
