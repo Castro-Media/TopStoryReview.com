@@ -1,15 +1,411 @@
 [
   {
-    "headline": "Mexico Confirms Death of ‘El Mencho,’ Leader of Jalisco New Generation Cartel",
-    "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-18-47-21 +0000"
+    "headline": "DNA in Nancy Guthrie case could take ‘a year’ to analyze, sheriff says — after using private lab instead of FBI",
+    "link": "https://nypost.com/2026/02/22/us-news/dna-in-nancy-guthrie-case-could-take-a-year-to-analyze-sheriff-says/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-57-02 +0000"
   },
   {
-    "headline": "Mexico Confirms Death of ‘El Mencho,’ Leader of Jalisco New Generation Cartel",
+    "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+    "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-22-20-56-59 +0000"
+  },
+  {
+    "headline": "When Faced With Claims of Racism, Trump Points to His Black Friends",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-black-people-history.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-56-54 +0000"
+  },
+  {
+    "headline": "Canada’s Spirit Rises and Falls With Its Olympic Hockey Teams",
+    "link": "https://www.nytimes.com/2026/02/22/world/canada/2026-olympics-hockey-canada-united-states.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-55-45 +0000"
+  },
+  {
+    "headline": "Iran Students Protest for Second Day Despite State Crackdown",
+    "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-55-30 +0000"
+  },
+  {
+    "headline": "Iran Students Protest for Second Day Despite State Crackdown",
+    "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-55-30 +0000"
+  },
+  {
+    "headline": "NY’s monster, $124B taxpayer-funded Medicaid program riddled with fraud, waste: US regulator Dr. Oz",
+    "link": "https://nypost.com/2026/02/22/us-news/nys-monster-124b-taxpayer-funded-medicaid-program-riddled-with-fraud-waste-us-regulator-dr-oz/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-51-44 +0000"
+  },
+  {
+    "headline": "Opinion | VantageScore Predicts Risk Better Than FICO",
+    "link": "https://www.wsj.com/opinion/vantagescore-predicts-risk-better-than-fico-28b6079e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-48-00 +0000"
+  },
+  {
+    "headline": "2026 BAFTAs Winners: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’",
+    "link": "https://www.nytimes.com/2026/02/22/movies/baftas-2026.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-47-11 +0000"
+  },
+  {
+    "headline": "Opinion | A Not-So-Free New York Bus",
+    "link": "https://www.wsj.com/opinion/a-not-so-free-new-york-bus-4c038d89",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-45-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Obama and Biden Years Made Allies Distrust the U.S.",
+    "link": "https://www.wsj.com/opinion/the-obama-and-biden-years-made-allies-distrust-the-u-s-a45a2236",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-44-00 +0000"
+  },
+  {
+    "headline": "California union pushes work-from-home bill as Newsom calls state employees back to the office",
+    "link": "https://www.latimes.com/california/story/2026-02-22/california-union-pushes-work-from-home-bill-as-newsom-calls-state-employees-back-to-office",
+    "source": "latimes",
+    "pubdate": "2026-02-22-20-41-24 +0000"
+  },
+  {
+    "headline": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-38-28 +0000"
+  },
+  {
+    "headline": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-38-28 +0000"
+  },
+  {
+    "headline": "Trump Tensions Turn U.S.-Canada Olympic Hockey Final Into a ‘Grudge Match’",
+    "link": "https://www.nytimes.com/2026/02/22/world/europe/us-canada-hockey-gold-medal-olympics.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-37-59 +0000"
+  },
+  {
+    "headline": "Trump Tensions Turn U.S.-Canada Olympic Hockey Final Into a ‘Grudge Match’",
+    "link": "https://www.nytimes.com/2026/02/22/world/europe/us-canada-hockey-gold-medal-olympics.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-37-59 +0000"
+  },
+  {
+    "headline": "12 Unforgettable Looks at the BAFTAs: Kate Middleton, Prince William and More",
+    "link": "https://www.nytimes.com/2026/02/22/style/bafta-2026-awards-red-carpet-looks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-36-51 +0000"
+  },
+  {
+    "headline": "Waffle House security guard zip-ties patron, 62, zaps him with stun gun and bear spray: lawsuit",
+    "link": "https://nypost.com/2026/02/22/us-news/waffle-house-security-guard-zip-ties-patron-zaps-him-with-stun-gun-and-bear-spray-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-34-07 +0000"
+  },
+  {
+    "headline": "Trump congratulates USA men’s hockey team in phone call after Olympic gold-medal victory",
+    "link": "https://nypost.com/2026/02/22/sports/trump-congratulates-usa-mens-hockey-in-phone-call/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-31-32 +0000"
+  },
+  {
+    "headline": "Trump congratulates USA men’s hockey team in phone call after Olympic gold-medal victory",
+    "link": "https://nypost.com/2026/02/22/sports/trump-congratulates-usa-mens-hockey-in-phone-call/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-31-32 +0000"
+  },
+  {
+    "headline": "What we saw at Sundance 2026: 8 documentaries bringing back facts",
+    "link": "https://48hills.org/2026/02/what-we-saw-at-sundance-2026-8-documentaries-bringing-back-facts/",
+    "source": "48hills",
+    "pubdate": "2026-02-22-20-31-28 +0000"
+  },
+  {
+    "headline": "Stunning San Diego beaches shut down as bacteria levels spike",
+    "link": "https://nypost.com/2026/02/22/us-news/san-diego-beaches-shut-down-due-to-bacteria-level-spike/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-29-51 +0000"
+  },
+  {
+    "headline": "Opinion | Government Is a Risky Shareholder",
+    "link": "https://www.wsj.com/opinion/government-is-a-risky-shareholder-b8db6ea9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-25-00 +0000"
+  },
+  {
+    "headline": "Opinion | Tariff Ruling Leaves Plenty of Hypocrisy to Go Around",
+    "link": "https://www.wsj.com/opinion/tariff-ruling-leaves-plenty-of-hypocrisy-to-go-around-beb99fa9",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-17-00 +0000"
+  },
+  {
+    "headline": "Opinion | Tariff Ruling Leaves Plenty of Hypocrisy to Go Around",
+    "link": "https://www.wsj.com/opinion/tariff-ruling-leaves-plenty-of-hypocrisy-to-go-around-beb99fa9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-17-00 +0000"
+  },
+  {
+    "headline": "Trump sends hospital ship to Greenland — after Denmark helped evacuate US Navy sailor from submarine",
+    "link": "https://nypost.com/2026/02/22/us-news/trump-sends-hospital-ship-to-greenland-after-denmark-helped-evacuate-us-navy-sailor-from-submarine/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-16-34 +0000"
+  },
+  {
+    "headline": "Trump sends hospital ship to Greenland — after Denmark helped evacuate US Navy sailor from submarine",
+    "link": "https://nypost.com/2026/02/22/us-news/trump-sends-hospital-ship-to-greenland-after-denmark-helped-evacuate-us-navy-sailor-from-submarine/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-16-34 +0000"
+  },
+  {
+    "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+    "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-22-20-16-00 +0000"
+  },
+  {
+    "headline": "Opinion | Ignore the AI Hysteria",
+    "link": "https://www.wsj.com/opinion/ignore-the-ai-hysteria-b64eac84",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-16-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Cuban Regime’s Slow Collapse",
+    "link": "https://www.wsj.com/opinion/the-cuban-regimes-slow-collapse-fa88b52a",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-15-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Cuban Regime’s Slow Collapse",
+    "link": "https://www.wsj.com/opinion/the-cuban-regimes-slow-collapse-fa88b52a",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-15-00 +0000"
+  },
+  {
+    "headline": "Opinion | When Is a Tax Not a Tax?",
+    "link": "https://www.wsj.com/opinion/when-is-a-tax-not-a-tax-6ea56691",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-14-00 +0000"
+  },
+  {
+    "headline": "Vile LA pimp is jailed for heinous crimes against teen girls he ‘enslaved’",
+    "link": "https://nypost.com/2026/02/22/us-news/vile-la-pimp-is-jailed-for-heinous-crimes-against-teen-girls-he-enslaved/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-12-37 +0000"
+  },
+  {
+    "headline": "Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss",
     "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html",
     "source": "nyt",
-    "pubdate": "2026-02-22-18-47-21 +0000"
+    "pubdate": "2026-02-22-20-12-00 +0000"
+  },
+  {
+    "headline": "Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-12-00 +0000"
+  },
+  {
+    "headline": "Gavin Newsom squirms as he’s grilled over soaring cost of CA living: ‘People are struggling… like your mom was’",
+    "link": "https://nypost.com/2026/02/22/us-news/gavin-newsom-squirms-as-hes-grilled-over-soaring-cost-of-ca-living/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-10-19 +0000"
+  },
+  {
+    "headline": "Trump Calls on Netflix to Oust Susan Rice From Its Board",
+    "link": "https://www.nytimes.com/2026/02/22/business/media/trump-netflix-susan-rice.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-06-33 +0000"
+  },
+  {
+    "headline": "Trump Calls on Netflix to Oust Susan Rice From Its Board",
+    "link": "https://www.nytimes.com/2026/02/22/business/media/trump-netflix-susan-rice.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-06-33 +0000"
+  },
+  {
+    "headline": "Mexico Kills Powerful Drug Kingpin",
+    "link": "https://www.wsj.com/world/americas/mexican-security-forces-kill-drug-kingpin-nemesio-mencho-oseguera-490e8f95",
+    "source": "wsj",
+    "pubdate": "2026-02-22-20-06-00 +0000"
+  },
+  {
+    "headline": "Roosevelt Hotel’s fate remains unclear despite White House-Pakistan deal",
+    "link": "https://nypost.com/2026/02/22/business/roosevelt-hotels-fate-remains-unclear-despite-white-house-pakistan-deal/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-05-52 +0000"
+  },
+  {
+    "headline": "Roosevelt Hotel’s fate remains unclear despite White House-Pakistan deal",
+    "link": "https://nypost.com/2026/02/22/business/roosevelt-hotels-fate-remains-unclear-despite-white-house-pakistan-deal/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-05-52 +0000"
+  },
+  {
+    "headline": "Roosevelt Hotel’s fate remains unclear despite White House-Pakistan deal",
+    "link": "https://nypost.com/2026/02/22/business/roosevelt-hotels-fate-remains-unclear-despite-white-house-pakistan-deal/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-20-05-52 +0000"
+  },
+  {
+    "headline": "Homeland Security to Shut TSA PreCheck and Global Entry at Airports",
+    "link": "https://www.nytimes.com/2026/02/22/us/tsa-precheck-global-entry-homeland-security-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-20-01-36 +0000"
+  },
+  {
+    "headline": "Iran Students Protest for Second Day Despite State Crackdown",
+    "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-59-23 +0000"
+  },
+  {
+    "headline": "When Faced With Claims of Racism, Trump Points to His Black Friends",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-black-people-history.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-58-22 +0000"
+  },
+  {
+    "headline": "Mexico’s most powerful cartel leader is killed by security forces",
+    "link": "https://www.washingtonpost.com/world/2026/02/22/mexico-cartel-leader-killed-oseguera/",
+    "source": "wapo",
+    "pubdate": "2026-02-22-19-54-38 +0000"
+  },
+  {
+    "headline": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
+    "link": "https://www.startribune.com/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/601586731",
+    "source": "startribune",
+    "pubdate": "2026-02-22-19-45-03 +0000"
+  },
+  {
+    "headline": "Man Killed by Officers at Trump’s Mar-a-Lago Home",
+    "link": "https://www.wsj.com/politics/national-security/man-killed-by-officers-at-trumps-mar-a-lago-home-d4eece58",
+    "source": "wsj",
+    "pubdate": "2026-02-22-19-43-00 +0000"
+  },
+  {
+    "headline": "A man was shot and killed Sunday after breaching the secure perimeter at President Trump’s Mar-a-Lago residence in Florida, the Secret Service said",
+    "link": "https://www.wsj.com/politics/national-security/man-killed-by-officers-at-trumps-mar-a-lago-home-d4eece58",
+    "source": "wsj",
+    "pubdate": "2026-02-22-19-43-00 +0000"
+  },
+  {
+    "headline": "D.C. Police Close Probe of Labor Secretary’s Husband",
+    "link": "https://www.wsj.com/politics/policy/dc-police-close-probe-of-labor-secretarys-husband-fbc46435",
+    "source": "wsj",
+    "pubdate": "2026-02-22-19-39-00 +0000"
+  },
+  {
+    "headline": "D.C. Police Close Probe of Labor Secretary’s Husband",
+    "link": "https://www.wsj.com/politics/policy/dc-police-close-probe-of-labor-secretarys-husband-fbc46435?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-22-19-39-00 +0000"
+  },
+  {
+    "headline": "Lori Chavez-DeRemer’s spouse had been investigated for an alleged sexual assault at the Labor Department",
+    "link": "https://www.wsj.com/politics/policy/dc-police-close-probe-of-labor-secretarys-husband-fbc46435",
+    "source": "wsj",
+    "pubdate": "2026-02-22-19-39-00 +0000"
+  },
+  {
+    "headline": "Winter Blizzard Causes Mass Flight Cancellations on East Coast",
+    "link": "https://www.wsj.com/us-news/climate-environment/winter-blizzard-causes-mass-flight-cancellations-on-east-coast-28ecd46a",
+    "source": "wsj",
+    "pubdate": "2026-02-22-19-36-00 +0000"
+  },
+  {
+    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-22-19-30-35 +0000"
+  },
+  {
+    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-22-19-30-35 +0000"
+  },
+  {
+    "headline": "Mixed Signals Churn Stock Market Despite Recent Highs",
+    "link": "https://www.nytimes.com/2026/02/20/business/stocks-markets-mixed-signals.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-28-21 +0000"
+  },
+  {
+    "headline": "Mamdani’s corporate tax push could cause exodus to Jersey, business honcho claims",
+    "link": "https://nypost.com/2026/02/22/us-news/mamdanis-corporate-tax-push-could-cause-exodus-to-jersey-business-honcho-claims/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-19-23-45 +0000"
+  },
+  {
+    "headline": "Mamdani’s corporate tax push could cause exodus to Jersey, business honcho claims",
+    "link": "https://nypost.com/2026/02/22/us-news/mamdanis-corporate-tax-push-could-cause-exodus-to-jersey-business-honcho-claims/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-19-23-45 +0000"
+  },
+  {
+    "headline": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-20-19 +0000"
+  },
+  {
+    "headline": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-20-19 +0000"
+  },
+  {
+    "headline": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-20-19 +0000"
+  },
+  {
+    "headline": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-20-19 +0000"
+  },
+  {
+    "headline": "‘The Waterfall’ Review: A Mother’s Blessing and a Daughter’s Burden",
+    "link": "https://www.nytimes.com/2026/02/22/theater/waterfall-review-patrice-johnson-chevannes.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-16-50 +0000"
+  },
+  {
+    "headline": "Dramatic moment 80-year-old attorney is floored by ICE agents after meddling with operation",
+    "link": "https://nypost.com/2026/02/22/us-news/attorney-80-shoved-pepper-sprayed-by-ice-agents-in-santa-barbara/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-19-15-18 +0000"
+  },
+  {
+    "headline": "Nine Bodies of Skiers Recovered in Deadly Sierra Nevada Avalanche, Officials Say",
+    "link": "https://www.nytimes.com/2026/02/21/us/lake-tahoe-avalanche-victims-bodies-recovery.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-15-05 +0000"
+  },
+  {
+    "headline": "NYC braces for up to 28 inches of snow as ‘blockbuster blizzard’ could become one of worst storms in its history",
+    "link": "https://nypost.com/2026/02/22/us-news/nyc-braces-for-up-to-28-inches-of-snow-from-blockbuster-blizzard/",
+    "source": "nypost",
+    "pubdate": "2026-02-22-19-01-30 +0000"
+  },
+  {
+    "headline": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
+    "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-00-47 +0000"
+  },
+  {
+    "headline": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
+    "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html",
+    "source": "nyt",
+    "pubdate": "2026-02-22-19-00-47 +0000"
   },
   {
     "headline": "Mexican resort town, airport under siege after army kills major Jalisco New Generation cartel leader",
@@ -36,24 +432,6 @@
     "pubdate": "2026-02-22-18-40-41 +0000"
   },
   {
-    "headline": "Trump Tensions Turn U.S.-Canada Olympic Hockey Final Into a ‘Grudge Match’",
-    "link": "https://www.nytimes.com/2026/02/22/world/europe/us-canada-hockey-gold-medal-olympics.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-18-34-43 +0000"
-  },
-  {
-    "headline": "Trump Tensions Turn U.S.-Canada Olympic Hockey Final Into a ‘Grudge Match’",
-    "link": "https://www.nytimes.com/2026/02/22/world/europe/us-canada-hockey-gold-medal-olympics.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-18-34-43 +0000"
-  },
-  {
-    "headline": "Mexican Security Forces Kill Drug Kingpin Nemesio ‘Mencho’ Oseguera",
-    "link": "https://www.wsj.com/world/americas/mexican-security-forces-kill-drug-kingpin-nemesio-mencho-oseguera-490e8f95",
-    "source": "wsj",
-    "pubdate": "2026-02-22-18-33-00 +0000"
-  },
-  {
     "headline": "Trump Says He Is Sending Hospital Ship to Greenland",
     "link": "https://www.wsj.com/politics/national-security/trump-says-he-is-sending-hospital-ship-to-greenland-5d6cd2db",
     "source": "wsj",
@@ -78,28 +456,10 @@
     "pubdate": "2026-02-22-18-30-11 +0000"
   },
   {
-    "headline": "TSA says PreCheck still operational after previous announcement of suspension during funding fight",
-    "link": "https://www.startribune.com/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/601586731",
-    "source": "startribune",
-    "pubdate": "2026-02-22-18-30-05 +0000"
-  },
-  {
     "headline": "Armed man shot and killed after entering secure perimeter of Mar-a-Lago, Secret Service says",
     "link": "https://www.startribune.com/us-secret-service-shot-and-killed-armed-man-who-entered-the-secure-perimeter-of-mar-a-lago/601586825",
     "source": "startribune",
     "pubdate": "2026-02-22-18-30-02 +0000"
-  },
-  {
-    "headline": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says",
-    "link": "https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-18-25-07 +0000"
-  },
-  {
-    "headline": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says",
-    "link": "https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-18-25-07 +0000"
   },
   {
     "headline": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
@@ -108,13 +468,13 @@
     "pubdate": "2026-02-22-18-18-41 +0000"
   },
   {
-    "headline": "Canada issues Puerto Vallarta advisory after violence erupts in Mexican city, several states",
+    "headline": "Mexico says top cartel boss killed as violence engulfs Puerto Vallarta and several states",
     "link": "https://www.cbc.ca/news/world/puerto-vallarta-advisory-9.7101787?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-22-18-12-01 +0000"
   },
   {
-    "headline": "Canada issues Puerto Vallarta advisory after violence erupts in Mexican city, several states",
+    "headline": "Mexico says top cartel boss killed as violence engulfs Puerto Vallarta and several states",
     "link": "https://www.cbc.ca/news/world/puerto-vallarta-advisory-9.7101787?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-22-18-12-01 +0000"
@@ -148,18 +508,6 @@
     "link": "https://www.nytimes.com/2026/02/21/business/india-russia-oil-trump-tariffs.html",
     "source": "nyt",
     "pubdate": "2026-02-22-17-59-38 +0000"
-  },
-  {
-    "headline": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
-    "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-17-55-01 +0000"
-  },
-  {
-    "headline": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
-    "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-17-55-01 +0000"
   },
   {
     "headline": "Homeland Security to suspend TSA PreCheck during shutdown",
@@ -210,18 +558,6 @@
     "pubdate": "2026-02-22-17-35-40 +0000"
   },
   {
-    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-22-17-32-34 +0000"
-  },
-  {
-    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-22-17-32-34 +0000"
-  },
-  {
     "headline": "Greenland says 'no thanks' to Trump US hospital boat",
     "link": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -270,6 +606,12 @@
     "pubdate": "2026-02-22-17-00-00 +0000"
   },
   {
+    "headline": "The School Photography Company Caught in the Epstein Files Frenzy",
+    "link": "https://www.wsj.com/business/the-school-photography-company-caught-in-the-epstein-files-frenzy-bce77a88?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-22-17-00-00 +0000"
+  },
+  {
     "headline": "The ‘Godfather of Data Centers’ Making Offers Big Tech Can’t Refuse",
     "link": "https://www.wsj.com/finance/the-godfather-of-data-centers-making-offers-big-tech-cant-refuse-6c52d301?mod=rss_markets_main",
     "source": "wsj",
@@ -306,28 +648,10 @@
     "pubdate": "2026-02-22-16-34-16 +0000"
   },
   {
-    "headline": "Homeland Security to Shut TSA PreCheck and Global Entry at Airports",
-    "link": "https://www.nytimes.com/2026/02/22/us/tsa-precheck-global-entry-homeland-security-shutdown.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-16-30-14 +0000"
-  },
-  {
     "headline": "DHS reverses course on suspending TSA PreCheck after outcry",
     "link": "https://www.washingtonpost.com/nation/2026/02/21/tsa-precheck-global-entry-shutdown/",
     "source": "wapo",
     "pubdate": "2026-02-22-16-27-55 +0000"
-  },
-  {
-    "headline": "Man Killed by Officers at Trump’s Mar-a-Lago Home",
-    "link": "https://www.wsj.com/politics/national-security/man-killed-by-officers-at-trumps-mar-a-lago-home-d4eece58",
-    "source": "wsj",
-    "pubdate": "2026-02-22-16-14-00 +0000"
-  },
-  {
-    "headline": "A man was shot and killed Sunday after breaching the secure perimeter at President Trump’s Mar-a-Lago residence in Florida, the Secret Service said",
-    "link": "https://www.wsj.com/politics/national-security/man-killed-by-officers-at-trumps-mar-a-lago-home-d4eece58",
-    "source": "wsj",
-    "pubdate": "2026-02-22-16-14-00 +0000"
   },
   {
     "headline": "Haunting 911 call as ‘supermom’ skiers were struck by Calif.’s deadliest avalanche",
@@ -402,12 +726,6 @@
     "pubdate": "2026-02-22-15-15-42 +0000"
   },
   {
-    "headline": "The eight airports named for presidents as Trump Palm Beach renaming plan gains traction",
-    "link": "https://nypost.com/2026/02/22/lifestyle/the-eight-airports-named-for-presidents-amid-trump-renaming-plans/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-14-55-11 +0000"
-  },
-  {
     "headline": "Armed man shot and killed after entering Mar-a-Lago secure perimeter, Secret Service says",
     "link": "https://www.latimes.com/business/story/2026-02-22/us-secret-service-says-it-shot-killed-armed-man-at-mar-a-lago",
     "source": "latimes",
@@ -420,12 +738,6 @@
     "pubdate": "2026-02-22-14-32-55 +0000"
   },
   {
-    "headline": "Nine Bodies of Skiers Recovered in Deadly Sierra Nevada Avalanche, Officials Say",
-    "link": "https://www.nytimes.com/2026/02/21/us/lake-tahoe-avalanche-victims-bodies-recovery.html",
-    "source": "nyt",
-    "pubdate": "2026-02-22-14-32-24 +0000"
-  },
-  {
     "headline": "Explosions kill police officer and injure 25 in western Ukraine",
     "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -436,12 +748,6 @@
     "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-22-14-19-02 +0000"
-  },
-  {
-    "headline": "Secret Service kills shotgun-wielding man at Trump’s Mar-a-Lago after he broke through security perimeter",
-    "link": "https://nypost.com/2026/02/22/us-news/secret-service-kills-armed-man-at-trumps-mar-a-lago/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-14-10-32 +0000"
   },
   {
     "headline": "Armed man shot, killed after entering perimeter at Trump's Mar-a-Lago, Secret Service says",
@@ -540,12 +846,6 @@
     "pubdate": "2026-02-22-13-19-24 +0000"
   },
   {
-    "headline": "Inside the rotting skeleton of Jeffrey Epstein’s ‘Lolita Express’ plane that still holds dark clues about perv’s abuses",
-    "link": "https://nypost.com/2026/02/22/us-news/inside-jeffrey-epsteins-lolita-express-rotting-plane-in-georgia-aviation-graveyard/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-13-14-20 +0000"
-  },
-  {
     "headline": "Dog abandoned at airport ticket counter is adopted by responding officer",
     "link": "https://www.washingtonpost.com/lifestyle/2026/02/22/goldendoodle-abandoned-las-vegas-airport-adopt/",
     "source": "wapo",
@@ -556,12 +856,6 @@
     "link": "https://nypost.com/2026/02/22/business/teens-are-launching-artificial-intelligence-companies-and-making-big-money/",
     "source": "nypost",
     "pubdate": "2026-02-22-13-00-00 +0000"
-  },
-  {
-    "headline": "NYC area set for 2 feet of snow in first dangerous blizzard in a decade — when to expect the worst",
-    "link": "https://nypost.com/2026/02/22/us-news/nyc-area-set-to-get-2-feet-of-snow-in-first-dangerous-blizzard-in-a-decade-heres-when-it-starts/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-12-56-38 +0000"
   },
   {
     "headline": "Minnesota Vikings receiver Moore dies aged 25",
@@ -648,20 +942,14 @@
     "pubdate": "2026-02-22-11-00-37 +0000"
   },
   {
-    "headline": "Nutty professor who held machete to Post reporter’s neck tapped by NYC for $407K art installation: ‘Piece of junk’",
-    "link": "https://nypost.com/2026/02/22/us-news/nutty-professor-shellyne-rodriguez-who-held-machete-to-post-reporters-neck-tapped-by-nyc-agency-for-407000-art-installation/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-11-00-07 +0000"
-  },
-  {
-    "headline": "'That man is a monster,' California serial child molester granted parole. Victims are outraged",
-    "link": "https://www.latimes.com/california/story/2026-02-22/california-serial-child-molester-granted-parole-victims-are-outraged",
+    "headline": "With Pacific Palisades in spotlight, Altadena fights for attention, post-fire justice",
+    "link": "https://www.latimes.com/california/story/2026-02-22/palisades-in-limelight-west-altadena-fights-for-justice-eaton-fire",
     "source": "latimes",
     "pubdate": "2026-02-22-11-00-00 +0000"
   },
   {
-    "headline": "Modern parenting means apps for sports, school and more. What this means for data privacy",
-    "link": "https://www.latimes.com/california/story/2026-02-22/modern-parenting-means-apps-for-sports-school-more-what-this-means-for-data-privacy",
+    "headline": "'That man is a monster,' California serial child molester granted parole. Victims are outraged",
+    "link": "https://www.latimes.com/california/story/2026-02-22/california-serial-child-molester-granted-parole-victims-are-outraged",
     "source": "latimes",
     "pubdate": "2026-02-22-11-00-00 +0000"
   },
@@ -672,20 +960,20 @@
     "pubdate": "2026-02-22-11-00-00 +0000"
   },
   {
-    "headline": "With Pacific Palisades in spotlight, Altadena fights for attention, post-fire justice",
-    "link": "https://www.latimes.com/california/story/2026-02-22/palisades-in-limelight-west-altadena-fights-for-justice-eaton-fire",
-    "source": "latimes",
-    "pubdate": "2026-02-22-11-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: Eight candidates, four minutes to run for California governor.  Ready, go!",
-    "link": "https://www.latimes.com/politics/story/2026-02-22/california-governor-democratic-convention-speeches-san-francisco",
+    "headline": "Modern parenting means apps for sports, school and more. What this means for data privacy",
+    "link": "https://www.latimes.com/california/story/2026-02-22/modern-parenting-means-apps-for-sports-school-more-what-this-means-for-data-privacy",
     "source": "latimes",
     "pubdate": "2026-02-22-11-00-00 +0000"
   },
   {
     "headline": "L.A. wanted to dismantle homeless RVs. A judge just shut that down",
     "link": "https://www.latimes.com/california/story/2026-02-22/la-wanted-to-dismantle-homeless-rvs-judge-just-shut-that-down",
+    "source": "latimes",
+    "pubdate": "2026-02-22-11-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: Eight candidates, four minutes to run for California governor.  Ready, go!",
+    "link": "https://www.latimes.com/politics/story/2026-02-22/california-governor-democratic-convention-speeches-san-francisco",
     "source": "latimes",
     "pubdate": "2026-02-22-11-00-00 +0000"
   },
@@ -718,12 +1006,6 @@
     "link": "https://www.startribune.com/mn-general-strike-economic-impact-small-business/601584627",
     "source": "startribune",
     "pubdate": "2026-02-22-10-59-00 +0000"
-  },
-  {
-    "headline": "Smirking Vegas thieves blame police for crash that killed 101-year-old WWII veteran — as they’re sentenced to prison",
-    "link": "https://nypost.com/2026/02/22/us-news/las-vegas-robbers-lorraine-alvarado-kassandra-alvarez-smirk-during-sentencing-for-herbert-muskin-death/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-10-37-58 +0000"
   },
   {
     "headline": "Inside Iran’s Preparations for War and Plans for Survival",
@@ -873,31 +1155,19 @@
     "headline": "Fat Signing Bonuses, and Concierge Service, for Family Doctors",
     "link": "https://www.nytimes.com/2026/02/22/world/canada/fat-signing-bonuses-and-concierge-service-for-family-doctors.html",
     "source": "nyt",
-    "pubdate": "2026-02-22-08-00-13 +0000"
+    "pubdate": "2026-02-22-08-00-14 +0000"
   },
   {
     "headline": "Fat Signing Bonuses, and Concierge Service, for Family Doctors",
     "link": "https://www.nytimes.com/2026/02/22/world/canada/fat-signing-bonuses-and-concierge-service-for-family-doctors.html",
     "source": "nyt",
-    "pubdate": "2026-02-22-08-00-13 +0000"
-  },
-  {
-    "headline": "Pennsylvania high school senior accused of running ‘large-scale’ catfishing, sextortion scheme targeting 21 minors",
-    "link": "https://nypost.com/2026/02/22/us-news/pennsylvania-high-school-student-zachariah-abraham-meyers-accused-of-running-large-scale-catfishing-sextortion-scheme-targeting-21-minors/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-07-45-02 +0000"
+    "pubdate": "2026-02-22-08-00-14 +0000"
   },
   {
     "headline": "Key social issues identified in charity report",
     "link": "https://www.bbc.com/news/articles/cge8g15p4v4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-22-07-09-07 +0000"
-  },
-  {
-    "headline": "Arizona Sheriff Chris Nanos warns DNA tech issues in Nancy Guthrie case may take ‘months’ to resolve",
-    "link": "https://nypost.com/2026/02/22/us-news/pima-county-sheriff-chris-nanos-says-dna-tech-issue-may-take-months-to-fix-in-nancy-guthrie-case/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-07-08-45 +0000"
   },
   {
     "headline": "Vikings wide receiver Rondale Moore dead at 25",
@@ -912,18 +1182,6 @@
     "pubdate": "2026-02-22-06-32-45 +0000"
   },
   {
-    "headline": "Trump reveals his ‘new hero’ Supreme Court justice after tariffs ruling",
-    "link": "https://nypost.com/2026/02/22/us-news/trump-calls-brett-kavanaugh-his-new-hero-after-supreme-court-tariffs-ruling/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-06-32-45 +0000"
-  },
-  {
-    "headline": "Over 3,000 flights canceled at NYC airports as historic blizzard threatens to bury region in 2-feet of snow",
-    "link": "https://nypost.com/2026/02/22/us-news/nyc-airports-cancel-3000-flights-ahead-of-winter-storm-hernando-historic-blizzard/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-06-22-10 +0000"
-  },
-  {
     "headline": "Senate G.O.P. Faces Pressure to Force ‘Talking Filibuster’ for Voter ID Bill",
     "link": "https://www.nytimes.com/2026/02/21/us/politics/senate-republicans-talking-filibuster.html",
     "source": "nyt",
@@ -934,12 +1192,6 @@
     "link": "https://www.nytimes.com/2026/02/21/us/politics/senate-republicans-talking-filibuster.html",
     "source": "nyt",
     "pubdate": "2026-02-22-06-13-04 +0000"
-  },
-  {
-    "headline": "Arizona worker sued for buying $12.8M lottery ticket from his store after drawing — judge to decide who gets the prize",
-    "link": "https://nypost.com/2026/02/22/us-news/arizona-circle-k-manager-robert-gawlitza-sued-for-buying-12-8m-the-pick-winning-lottery-ticket/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-06-10-32 +0000"
   },
   {
     "headline": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
@@ -958,12 +1210,6 @@
     "link": "https://www.startribune.com/brandi-carlile-target-center-elton-john-joni-mitchell-ice-operation-metro-surge/601583123",
     "source": "startribune",
     "pubdate": "2026-02-22-05-38-42 +0000"
-  },
-  {
-    "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
-    "link": "https://nypost.com/2026/02/22/us-news/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/",
-    "source": "nypost",
-    "pubdate": "2026-02-22-05-10-25 +0000"
   },
   {
     "headline": "More than 1,500 Venezuelan political prisoners apply for amnesty",
@@ -1260,13 +1506,13 @@
     "pubdate": "2026-02-21-22-54-01 +0000"
   },
   {
-    "headline": "JPMorgan admits it shuttered Trump’s accounts following Jan. 6 Capitol riot",
+    "headline": "JPMorgan Chase admits to debanking President Trump after Capitol riot",
     "link": "https://nypost.com/2026/02/21/us-news/jpmorgan-admits-it-shuttered-trumps-accounts-following-jan-6-capitol-riot/",
     "source": "nypost",
     "pubdate": "2026-02-21-22-50-58 +0000"
   },
   {
-    "headline": "JPMorgan admits it shuttered Trump’s accounts following Jan. 6 Capitol riot",
+    "headline": "JPMorgan Chase admits to debanking President Trump after Capitol riot",
     "link": "https://nypost.com/2026/02/21/us-news/jpmorgan-admits-it-shuttered-trumps-accounts-following-jan-6-capitol-riot/",
     "source": "nypost",
     "pubdate": "2026-02-21-22-50-58 +0000"
@@ -1366,47 +1612,5 @@
     "link": "https://www.latimes.com/world-nation/story/2026-02-21/global-leaders-businesses-react-to-more-u-s-tariff-swings",
     "source": "latimes",
     "pubdate": "2026-02-21-21-03-20 +0000"
-  },
-  {
-    "headline": "Israeli strikes on Hezbollah kill 8 as terror group reportedly taken over by Tehran",
-    "link": "https://nypost.com/2026/02/21/world-news/israeli-strikes-on-hezbollah-kill-10-as-terror-group-is-reportedly-taken-over-by-tehran/",
-    "source": "nypost",
-    "pubdate": "2026-02-21-20-54-20 +0000"
-  },
-  {
-    "headline": "Trump’s Trade Gamble Will Continue, Despite Supreme Court Rebuke",
-    "link": "https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html",
-    "source": "nyt",
-    "pubdate": "2026-02-21-20-46-36 +0000"
-  },
-  {
-    "headline": "Trump’s Trade Gamble Will Continue, Despite Supreme Court Rebuke",
-    "link": "https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html",
-    "source": "nyt",
-    "pubdate": "2026-02-21-20-46-36 +0000"
-  },
-  {
-    "headline": "Giant tortoises return to Galápagos island after nearly 200 years",
-    "link": "https://www.bbc.com/news/videos/cvg3wl7xxxlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-21-20-26-04 +0000"
-  },
-  {
-    "headline": "Giant tortoises return to Galápagos island after nearly 200 years",
-    "link": "https://www.bbc.com/news/videos/cvg3wl7xxxlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-21-20-26-04 +0000"
-  },
-  {
-    "headline": "Ex-Prince Andrew hits rock bottom as Brits move to boot him from line of succession",
-    "link": "https://nypost.com/2026/02/21/world-news/brits-push-to-remove-ex-prince-andrew-from-royal-line-of-succession/",
-    "source": "nypost",
-    "pubdate": "2026-02-21-20-24-11 +0000"
-  },
-  {
-    "headline": "Ukraine strikes key Russian missile factory, as Zelensky declares ‘we’re definitely not losing’ the war",
-    "link": "https://nypost.com/2026/02/21/world-news/ukraine-strikes-key-missile-factory-deep-inside-russia-as-zelensky-declares-100-frontline-miles-liberated-not-losing/",
-    "source": "nypost",
-    "pubdate": "2026-02-21-19-56-18 +0000"
   }
 ]
