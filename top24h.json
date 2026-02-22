@@ -1,20 +1,20 @@
 [
   {
-    "score": 182,
-    "pubdate": "2026-02-21-16-56-26 +0000",
-    "source": "cbc",
-    "headline": "Trump says he's raising new global tariff rate to 15% after Supreme Court loss",
-    "link": "https://www.cbc.ca/news/politics/trump-global-tariff-supreme-court-decision-canada-mexico-9.7101004?cmp=rss"
-  },
-  {
-    "score": 66,
-    "pubdate": "2026-02-21-18-12-00 +0000",
+    "score": 175,
+    "pubdate": "2026-02-21-17-23-00 +0000",
     "source": "wsj",
-    "headline": "President Trump’s declaration that he will press on with tariffs, despite the Supreme Court shrinking his room to maneuver, puts his trade agenda on a collision course with the midterm campaign season",
-    "link": "https://www.wsj.com/politics/policy/trumps-new-trade-agenda-is-on-a-collision-course-with-midterms-ac79560e"
+    "headline": "President Trump said he would increase to 15% from 10% a global tariff that will replace many of the duties ruled illegal by the Supreme Court",
+    "link": "https://www.wsj.com/politics/policy/trump-increases-global-tariff-to-15-fdc2f89b"
   },
   {
     "score": 53,
+    "pubdate": "2026-02-22-06-32-45 +0000",
+    "source": "nypost",
+    "headline": "Trump reveals his ‘new hero’ Supreme Court justice after tariffs ruling",
+    "link": "https://nypost.com/2026/02/22/us-news/trump-calls-brett-kavanaugh-his-new-hero-after-supreme-court-tariffs-ruling/"
+  },
+  {
+    "score": 50,
     "pubdate": "2026-02-21-22-09-19 +0000",
     "source": "bbc",
     "headline": "Iran students stage first large anti-government protests since deadly crackdown",
@@ -28,21 +28,21 @@
     "link": "https://nypost.com/2026/02/21/us-news/hochul-letting-bars-open-early-to-broadcast-olympic-gold-medal-hockey-game-but-only-at-certain-locations/"
   },
   {
-    "score": 36,
+    "score": 35,
     "pubdate": "2026-02-21-18-57-07 +0000",
     "source": "nyt",
     "headline": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
     "link": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html"
   },
   {
-    "score": 35,
+    "score": 33,
     "pubdate": "2026-02-22-00-15-48 +0000",
     "source": "nypost",
     "headline": "Senior MP demands UK probe ex-Prince Andrew, Peter Mandelson for ‘treason’ over Epstein ties",
     "link": "https://nypost.com/2026/02/21/world-news/senior-mp-demands-uk-probe-ex-prince-andrew-peter-mandelson-for-treason-over-epstein-ties/"
   },
   {
-    "score": 32,
+    "score": 31,
     "pubdate": "2026-02-22-00-33-48 +0000",
     "source": "nypost",
     "headline": "Behind shadowy union boss pushing California’s billionaire’s tax — who faced sleazy workplace claims",
@@ -56,17 +56,17 @@
     "link": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 31,
-    "pubdate": "2026-02-21-22-54-01 +0000",
-    "source": "latimes",
-    "headline": "Democrats' fear rising that too many candidates in governor's race could lead to a Republican victory",
-    "link": "https://www.latimes.com/california/story/2026-02-21/democrats-fear-rising-that-too-many-candidates-in-governors-race-could-lead-to-republican-victory"
-  },
-  {
     "score": 30,
     "pubdate": "2026-02-22-02-06-23 +0000",
     "source": "bbc",
     "headline": "Final missing Lake Tahoe skier found dead 5 days after avalanche",
     "link": "https://www.bbc.com/news/articles/cp9m0zp04xyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-02-22-06-15-28 +0000",
+    "source": "startribune",
+    "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
+    "link": "https://www.startribune.com/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/601586731"
   }
 ]
