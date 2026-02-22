@@ -1,13 +1,13 @@
 [
   {
-    "score": 715,
+    "score": 724,
     "pubdate": "2026-02-21-00-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
     "link": "https://www.wsj.com/politics/policy/the-moment-trump-found-out-the-supreme-court-killed-his-tariffs-ad40b45f"
   },
   {
-    "score": 225,
+    "score": 230,
     "pubdate": "2026-02-21-20-50-06 +0000",
     "source": "bbc",
     "headline": "Trump says he will increase his new global tariffs to 15%",
@@ -28,7 +28,7 @@
     "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 126,
+    "score": 125,
     "pubdate": "2026-02-21-17-36-48 +0000",
     "source": "nyt",
     "headline": "After Tariff Decision, What Happens to Trump’s Deals With China, Canada and Europe?",
@@ -50,23 +50,23 @@
   },
   {
     "score": 95,
-    "pubdate": "2026-02-22-00-33-48 +0000",
-    "source": "nypost",
-    "headline": "Behind shadowy union boss pushing California’s billionaire’s tax — who faced sleazy workplace claims",
-    "link": "https://nypost.com/2026/02/21/us-news/dave-regan-ca-union-boss-pushes-divisive-billionaire-tax/"
-  },
-  {
-    "score": 95,
     "pubdate": "2026-02-19-08-13-25 +0000",
     "source": "bbc",
     "headline": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
     "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 78,
-    "pubdate": "2026-02-20-22-33-46 +0000",
+    "score": 94,
+    "pubdate": "2026-02-22-00-33-48 +0000",
     "source": "nypost",
-    "headline": "Here are all the tariffs staying in place after Supreme Court rules against Trump administration",
-    "link": "https://nypost.com/2026/02/20/business/here-are-all-the-tariffs-staying-in-place-after-supreme-court-ruling/"
+    "headline": "Behind shadowy union boss pushing California’s billionaire’s tax — who faced sleazy workplace claims",
+    "link": "https://nypost.com/2026/02/21/us-news/dave-regan-ca-union-boss-pushes-divisive-billionaire-tax/"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-02-17-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Altadena asked Edison to bury power lines. Some fire victims say that could cost them $40,000",
+    "link": "https://www.latimes.com/business/story/2026-02-17/edison-altadena-residents-balk-at-costs-bury-power-lines-la-wildfires-eaton-fire"
   }
 ]

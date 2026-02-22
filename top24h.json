@@ -1,13 +1,13 @@
 [
   {
-    "score": 187,
+    "score": 195,
     "pubdate": "2026-02-21-18-12-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s declaration that he will press on with tariffs, despite the Supreme Court shrinking his room to maneuver, puts his trade agenda on a collision course with the midterm campaign season",
     "link": "https://www.wsj.com/politics/policy/trumps-new-trade-agenda-is-on-a-collision-course-with-midterms-ac79560e"
   },
   {
-    "score": 67,
+    "score": 69,
     "pubdate": "2026-02-21-16-56-26 +0000",
     "source": "cbc",
     "headline": "Trump says he's raising new global tariff rate to 15% after Supreme Court loss",
@@ -28,13 +28,6 @@
     "link": "https://www.nytimes.com/2026/02/21/world/olympics/best-olympic-performances.html"
   },
   {
-    "score": 39,
-    "pubdate": "2026-02-21-06-33-52 +0000",
-    "source": "bbc",
-    "headline": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
-    "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 36,
     "pubdate": "2026-02-21-20-24-11 +0000",
     "source": "nypost",
@@ -49,11 +42,18 @@
     "link": "https://nypost.com/2026/02/21/world-news/israeli-strikes-on-hezbollah-kill-10-as-terror-group-is-reportedly-taken-over-by-tehran/"
   },
   {
+    "score": 33,
+    "pubdate": "2026-02-21-21-27-07 +0000",
+    "source": "bbc",
+    "headline": "Family of Palestinian-American man killed in West Bank demand accountability",
+    "link": "https://www.bbc.com/news/articles/cvgk7z15gnpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 32,
-    "pubdate": "2026-02-21-20-26-04 +0000",
+    "pubdate": "2026-02-21-18-32-37 +0000",
     "source": "bbc",
     "headline": "Giant tortoises return to Galápagos island after nearly 200 years",
-    "link": "https://www.bbc.com/news/videos/cvg3wl7xxxlo?at_medium=RSS&at_campaign=rss"
+    "link": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 32,
@@ -63,7 +63,7 @@
     "link": "https://www.nytimes.com/2026/02/20/business/economy/what-happens-to-all-these-trade-deals-now.html"
   },
   {
-    "score": 32,
+    "score": 31,
     "pubdate": "2026-02-22-00-33-48 +0000",
     "source": "nypost",
     "headline": "Behind shadowy union boss pushing California’s billionaire’s tax — who faced sleazy workplace claims",

@@ -1,51 +1,65 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-02-22-06-00-54 +0000",
-    "source": "bbc",
-    "headline": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
-    "link": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-02-22-05-52-50 +0000",
-    "source": "nyt",
-    "headline": "Inside Iran’s Preparation for War and Plans for Survival",
-    "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-02-22-05-10-25 +0000",
+    "score": 18,
+    "pubdate": "2026-02-22-06-32-45 +0000",
     "source": "nypost",
-    "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
-    "link": "https://nypost.com/2026/02/22/us-news/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/"
+    "headline": "Trump reveals his ‘new hero’ Supreme Court justice after tariffs ruling",
+    "link": "https://nypost.com/2026/02/22/us-news/trump-calls-brett-kavanaugh-his-new-hero-after-supreme-court-tariffs-ruling/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-02-22-05-38-42 +0000",
+    "score": 18,
+    "pubdate": "2026-02-22-06-13-03 +0000",
+    "source": "nyt",
+    "headline": "Senate G.O.P. Faces Pressure to Force ‘Talking Filibuster’ for Voter ID Bill",
+    "link": "https://www.nytimes.com/2026/02/21/us/politics/senate-republicans-talking-filibuster.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-22-06-15-28 +0000",
     "source": "startribune",
-    "headline": "Review: Brandi Carlile wraps herself around Minneapolis with a special guest",
-    "link": "https://www.startribune.com/brandi-carlile-target-center-elton-john-joni-mitchell-ice-operation-metro-surge/601583123"
+    "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
+    "link": "https://www.startribune.com/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/601586731"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-22-06-10-32 +0000",
+    "source": "nypost",
+    "headline": "Arizona worker sued for buying $12.8M lottery ticket from his store after drawing — judge to decide who gets the prize",
+    "link": "https://nypost.com/2026/02/22/us-news/arizona-circle-k-manager-robert-gawlitza-sued-for-buying-12-8m-the-pick-winning-lottery-ticket/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-22-06-22-10 +0000",
+    "source": "nypost",
+    "headline": "Over 3,000 flights canceled at NYC airports as historic blizzard threatens to bury region in 2-feet of snow",
+    "link": "https://nypost.com/2026/02/22/us-news/nyc-airports-cancel-3000-flights-ahead-of-winter-storm-hernando-historic-blizzard/"
   },
   {
     "score": 6,
-    "pubdate": "2026-02-22-06-00-20 +0000",
+    "pubdate": "2026-02-22-07-09-07 +0000",
+    "source": "bbc",
+    "headline": "Key social issues identified in charity report",
+    "link": "https://www.bbc.com/news/articles/cge8g15p4v4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-22-06-58-50 +0000",
     "source": "startribune",
     "headline": "Vikings wide receiver Rondale Moore dead at 25",
     "link": "https://www.startribune.com/vikings-wide-receiver-rondale-moore-dead-at-25/601586638"
   },
   {
     "score": 0,
-    "pubdate": "2026-02-22-06-00-54 +0000",
-    "source": "bbc",
-    "headline": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
-    "link": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-02-22-06-32-45 +0000",
+    "source": "nypost",
+    "headline": "Trump reveals his ‘new hero’ Supreme Court justice after tariffs ruling",
+    "link": "https://nypost.com/2026/02/22/us-news/trump-calls-brett-kavanaugh-his-new-hero-after-supreme-court-tariffs-ruling/"
   },
   {
     "score": 0,
-    "pubdate": "2026-02-22-05-52-50 +0000",
+    "pubdate": "2026-02-22-06-13-03 +0000",
     "source": "nyt",
-    "headline": "Inside Iran’s Preparation for War and Plans for Survival",
-    "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html"
+    "headline": "Senate G.O.P. Faces Pressure to Force ‘Talking Filibuster’ for Voter ID Bill",
+    "link": "https://www.nytimes.com/2026/02/21/us/politics/senate-republicans-talking-filibuster.html"
   }
 ]
