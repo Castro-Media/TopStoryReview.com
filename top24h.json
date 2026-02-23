@@ -1,6 +1,6 @@
 [
   {
-    "score": 187,
+    "score": 184,
     "pubdate": "2026-02-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
@@ -15,10 +15,10 @@
   },
   {
     "score": 71,
-    "pubdate": "2026-02-23-04-30-52 +0000",
+    "pubdate": "2026-02-23-03-09-26 +0000",
     "source": "nypost",
-    "headline": "Austin Tucker Martin, gunman shot dead by Secret Service at Mar-a-Lago, was obsessed with Epstein files: report",
-    "link": "https://nypost.com/2026/02/22/us-news/austin-tucker-martin-gunman-shot-dead-by-secret-service-at-mar-a-lago-was-obsessed-with-epstein-files-report/"
+    "headline": "Family of Austin Tucker Martin, shotgun-wielding Mar-a-Lago madman, lost daughter in horrific crash years before son was gunned down by Secret Service",
+    "link": "https://nypost.com/2026/02/22/us-news/shotgun-wielding-man-killed-by-secret-service-at-mar-a-lago-lost-sister-in-car-crash/"
   },
   {
     "score": 70,
@@ -42,20 +42,6 @@
     "link": "https://nypost.com/2026/02/22/world-news/panicked-air-travelers-run-for-lives-at-guadalajara-airport-as-mexican-cartel-violence-erupts-over-killing-of-jalisco-new-generation-leader/"
   },
   {
-    "score": 49,
-    "pubdate": "2026-02-23-13-59-54 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom ripped for telling black mayor ‘I’m like you’ before quoting his low SAT score: ‘Liberal racism on display’",
-    "link": "https://nypost.com/2026/02/23/us-news/gavin-newsom-goes-wildly-viral-after-telling-black-mayor-i-am-like-you-as-critics-accuse-him-of-bigotry/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-02-23-11-28-02 +0000",
-    "source": "nypost",
-    "headline": "Ex-Prince Andrew charged taxpayers for massages during his stint as UK trade envoy: reports",
-    "link": "https://nypost.com/2026/02/23/world-news/prince-andrew-charged-taxpayers-for-massages-during-his-stint-as-uk-trade-envoy-reports/"
-  },
-  {
     "score": 46,
     "pubdate": "2026-02-23-14-12-04 +0000",
     "source": "nyt",
@@ -63,10 +49,24 @@
     "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
   },
   {
-    "score": 40,
-    "pubdate": "2026-02-22-18-32-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he plans to send a hospital ship to Greenland as part of his continuing effort to exercise control of the island in the Arctic",
-    "link": "https://www.wsj.com/politics/national-security/trump-says-he-is-sending-hospital-ship-to-greenland-5d6cd2db"
+    "score": 46,
+    "pubdate": "2026-02-23-11-28-02 +0000",
+    "source": "nypost",
+    "headline": "Ex-Prince Andrew charged taxpayers for massages during his stint as UK trade envoy: reports",
+    "link": "https://nypost.com/2026/02/23/world-news/prince-andrew-charged-taxpayers-for-massages-during-his-stint-as-uk-trade-envoy-reports/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-02-23-13-59-54 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom ripped for telling black mayor ‘I’m like you’ before quoting his low SAT score: ‘Liberal racism on display’",
+    "link": "https://nypost.com/2026/02/23/us-news/gavin-newsom-goes-wildly-viral-after-telling-black-mayor-i-am-like-you-as-critics-accuse-him-of-bigotry/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-02-23-00-40-05 +0000",
+    "source": "bbc",
+    "headline": "How budget fast fashion is taking small-town India by storm",
+    "link": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss"
   }
 ]
