@@ -1,31 +1,31 @@
 [
   {
-    "score": 162,
+    "score": 166,
     "pubdate": "2026-02-22-19-43-00 +0000",
     "source": "wsj",
     "headline": "A man was shot and killed Sunday after breaching the secure perimeter at President Trump’s Mar-a-Lago residence in Florida, the Secret Service said",
     "link": "https://www.wsj.com/politics/national-security/man-killed-by-officers-at-trumps-mar-a-lago-home-d4eece58"
   },
   {
-    "score": 85,
-    "pubdate": "2026-02-23-02-58-30 +0000",
-    "source": "nypost",
-    "headline": "Who is ‘El Mencho,’ the Jalisco New Generation cartel leader gunned down by Mexican military?",
-    "link": "https://nypost.com/2026/02/22/world-news/who-is-el-mencho-the-jalisco-new-generation-cartel-leader-gunned-down-by-mexican-military/"
-  },
-  {
-    "score": 71,
-    "pubdate": "2026-02-22-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "Iran has sought for years to build closer military ties with China and Russia, but its friends are proving reluctant to step forward as the regime faces the most acute U.S. threat in decades",
-    "link": "https://www.wsj.com/politics/national-security/under-trump-pressure-iran-finds-its-friends-are-of-little-help-1cd57bb2"
-  },
-  {
-    "score": 69,
+    "score": 89,
     "pubdate": "2026-02-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
     "link": "https://www.wsj.com/economy/trade/tariffs-are-a-wild-card-for-the-economy-again-898a0a30"
+  },
+  {
+    "score": 80,
+    "pubdate": "2026-02-23-10-22-41 +0000",
+    "source": "nyt",
+    "headline": "Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html"
+  },
+  {
+    "score": 70,
+    "pubdate": "2026-02-22-21-50-06 +0000",
+    "source": "nyt",
+    "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
   },
   {
     "score": 56,
@@ -36,37 +36,37 @@
   },
   {
     "score": 47,
-    "pubdate": "2026-02-23-02-29-00 +0000",
-    "source": "wsj",
-    "headline": "Mexico Takes on Cartels as Killing of Drug Kingpin Sparks Violence",
-    "link": "https://www.wsj.com/world/americas/mexican-security-forces-kill-drug-kingpin-nemesio-mencho-oseguera-490e8f95"
-  },
-  {
-    "score": 47,
     "pubdate": "2026-02-22-18-32-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he plans to send a hospital ship to Greenland as part of his continuing effort to exercise control of the island in the Arctic",
     "link": "https://www.wsj.com/politics/national-security/trump-says-he-is-sending-hospital-ship-to-greenland-5d6cd2db"
   },
   {
+    "score": 47,
+    "pubdate": "2026-02-23-02-29-00 +0000",
+    "source": "wsj",
+    "headline": "Mexico Takes on Cartels as Killing of Drug Kingpin Sparks Violence",
+    "link": "https://www.wsj.com/world/americas/mexican-security-forces-kill-drug-kingpin-nemesio-mencho-oseguera-490e8f95"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-02-22-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "Iran has sought for years to build closer military ties with China and Russia, but its friends are proving reluctant to step forward as the regime faces the most acute U.S. threat in decades",
+    "link": "https://www.wsj.com/politics/national-security/under-trump-pressure-iran-finds-its-friends-are-of-little-help-1cd57bb2"
+  },
+  {
     "score": 41,
-    "pubdate": "2026-02-22-21-50-06 +0000",
-    "source": "nyt",
-    "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
-    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-02-23-05-39-03 +0000",
+    "pubdate": "2026-02-23-11-28-02 +0000",
     "source": "nypost",
-    "headline": "US assets in Middle East positioned for ‘highly kinetic’ war, ex-Pentagon official warns",
-    "link": "https://nypost.com/2026/02/23/world-news/us-assets-in-middle-east-positioned-for-highly-kinetic-war-ex-pentagon-official-warns/"
+    "headline": "Ex-Prince Andrew charged taxpayers for massages during his stint as UK trade envoy: reports",
+    "link": "https://nypost.com/2026/02/23/world-news/prince-andrew-charged-taxpayers-for-massages-during-his-stint-as-uk-trade-envoy-reports/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-02-23-00-40-05 +0000",
+    "score": 38,
+    "pubdate": "2026-02-23-07-15-47 +0000",
     "source": "bbc",
-    "headline": "How budget fast fashion is taking small-town India by storm",
-    "link": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss"
+    "headline": "Kim Jong Un re-appointed leader of North Korea's ruling party",
+    "link": "https://www.bbc.com/news/articles/cvg18588mdko?at_medium=RSS&at_campaign=rss"
   }
 ]
