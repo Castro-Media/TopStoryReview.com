@@ -1,59 +1,10 @@
 [
   {
-    "score": 37,
+    "score": 36,
     "pubdate": "2026-02-23-19-06-42 +0000",
     "source": "nyt",
     "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
     "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-02-23-18-57-53 +0000",
-    "source": "startribune",
-    "headline": "Minnesotans stuck in Puerto Vallarta as flights canceled amid unrest over killing of Mexican cartel leader",
-    "link": "https://www.startribune.com/news-puerto-vallarta-flights/601587140"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-02-23-18-27-36 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom goes on expletive filled rant over ‘fake f–king outrage’ after his ‘racist’ SAT comments in Atlanta",
-    "link": "https://nypost.com/2026/02/23/us-news/gavin-newsom-blasts-outrage-over-racist-sat-comments/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-02-23-18-43-25 +0000",
-    "source": "nyt",
-    "headline": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-02-23-18-47-09 +0000",
-    "source": "nypost",
-    "headline": "NYS liquor stores may get OK to sell cannabis drinks — but there’s a catch",
-    "link": "https://nypost.com/2026/02/23/us-news/nys-liquor-stores-may-get-ok-to-sell-cannabis-drinks-but-theres-a-catch/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-02-23-18-58-16 +0000",
-    "source": "nyt",
-    "headline": "Johnson Will Bring Daughter of Jimmy Lai to State of the Union Address",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/jimmy-lai-mike-johnson-sotu.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-02-23-18-31-54 +0000",
-    "source": "nyt",
-    "headline": "Facing angry ‘MAHA Moms,’ Kennedy defends Trump’s pesticide order.",
-    "link": "https://www.nytimes.com/live/2026/02/23/us/trump-news/facing-angry-maha-moms-kennedy-defends-trumps-pesticide-order"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-02-23-18-34-22 +0000",
-    "source": "bbc",
-    "headline": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
-    "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 16,
@@ -63,10 +14,59 @@
     "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html"
   },
   {
-    "score": 15,
+    "score": 14,
+    "pubdate": "2026-02-23-19-09-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon is raising concerns to President Trump about an extended military campaign against Iran",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-23-19-11-32 +0000",
+    "source": "nyt",
+    "headline": "The European Union Hits Pause on Its U.S. Trade Deal",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-23-19-06-19 +0000",
+    "source": "nyt",
+    "headline": "BAFTAs Winners 2026: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’",
+    "link": "https://www.nytimes.com/2026/02/22/movies/baftas-2026.html"
+  },
+  {
+    "score": 9,
     "pubdate": "2026-02-23-19-14-01 +0000",
     "source": "nyt",
     "headline": "Live Updates: Mexico on Edge After Military Operation Killed Cartel Boss",
     "link": "https://www.nytimes.com/live/2026/02/23/world/mexico"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-02-23-19-11-36 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho/heres-the-latest"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-02-23-19-09-00 +0000",
+    "source": "wsj",
+    "headline": "Pentagon Flags Risks of a Major Operation Against Iran",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-23-19-11-36 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-23-19-11-32 +0000",
+    "source": "nyt",
+    "headline": "The European Union Hits Pause on Its U.S. Trade Deal",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html"
   }
 ]

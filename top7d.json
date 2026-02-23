@@ -21,11 +21,18 @@
     "link": "https://nypost.com/2026/02/23/world-news/ex-british-ambassador-to-us-peter-mandelson-arrested-in-epstein-probe-in-similar-case-to-ex-prince-andrew/"
   },
   {
-    "score": 127,
-    "pubdate": "2026-02-21-01-00-00 +0000",
+    "score": 126,
+    "pubdate": "2026-02-22-21-50-06 +0000",
+    "source": "nyt",
+    "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
+  },
+  {
+    "score": 104,
+    "pubdate": "2026-02-20-14-01-00 +0000",
     "source": "wsj",
-    "headline": "If diplomatic efforts to end Iran’s nuclear program fail, President Trump’s appetite for a lengthy, costly war will be tested",
-    "link": "https://www.wsj.com/politics/national-security/trump-approaches-legacy-defining-moment-on-iran-a-deal-or-war-ae3fe857"
+    "headline": "Key inflation metrics tracked by the Fed accelerated at the end of last year, underscoring why many Fed officials have turned cautious about supporting further interest-rate cuts",
+    "link": "https://www.wsj.com/economy/central-banking/feds-preferred-gauge-shows-accelerating-december-inflation-trends-ef90ef58"
   },
   {
     "score": 103,
@@ -35,18 +42,11 @@
     "link": "https://www.wsj.com/world/europe/eu-lawmakers-could-halt-vote-on-u-s-trade-deal-after-supreme-court-ruling-16e42c2e"
   },
   {
-    "score": 101,
-    "pubdate": "2026-02-19-11-00-00 +0000",
+    "score": 100,
+    "pubdate": "2026-02-17-17-33-36 +0000",
     "source": "latimes",
-    "headline": "Billionaires Spielberg, Zuckerberg eyeing East Coast, stirring concerns about California's wealth-tax proposal",
-    "link": "https://www.latimes.com/california/story/2026-02-19/billionaires-spielberg-zuckerberg-look-outside-of-california-amid-wealth-tax-proposal"
-  },
-  {
-    "score": 95,
-    "pubdate": "2026-02-20-14-01-00 +0000",
-    "source": "wsj",
-    "headline": "Key inflation metrics tracked by the Fed accelerated at the end of last year, underscoring why many Fed officials have turned cautious about supporting further interest-rate cuts",
-    "link": "https://www.wsj.com/economy/central-banking/feds-preferred-gauge-shows-accelerating-december-inflation-trends-ef90ef58"
+    "headline": "California storm closes roads, triggers avalanche, spurs flood concerns: How long it will last",
+    "link": "https://www.latimes.com/california/story/2026-02-17/storm-debris-flow-mud-slide-risks"
   },
   {
     "score": 91,
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/02/22/sports/white-house-trolls-canada-with-savage-post-after-usa-hockey-takes-olympic-gold/"
   },
   {
-    "score": 87,
-    "pubdate": "2026-02-23-16-30-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | Europe Needs to Be Strategic to Stand Up Against Russia",
-    "link": "https://www.wsj.com/opinion/europe-needs-to-be-strategic-to-stand-up-against-russia-1c26af9f"
+    "score": 84,
+    "pubdate": "2026-02-17-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Altadena asked Edison to bury power lines. Some fire victims say that could cost them $40,000",
+    "link": "https://www.latimes.com/business/story/2026-02-17/edison-altadena-residents-balk-at-costs-bury-power-lines-la-wildfires-eaton-fire"
   }
 ]
