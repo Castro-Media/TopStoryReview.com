@@ -1,38 +1,38 @@
 [
   {
-    "score": 201,
+    "score": 198,
     "pubdate": "2026-02-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
     "link": "https://www.wsj.com/economy/trade/tariffs-are-a-wild-card-for-the-economy-again-898a0a30"
   },
   {
-    "score": 145,
+    "score": 141,
     "pubdate": "2026-02-23-02-58-30 +0000",
     "source": "nypost",
     "headline": "How brutal assasin ‘El Mencho’ became Mexico’s most wanted cartel kingpin in bloody coup before he was killed in military raid",
     "link": "https://nypost.com/2026/02/22/world-news/who-is-el-mencho-the-jalisco-new-generation-cartel-leader-gunned-down-by-mexican-military/"
   },
   {
-    "score": 83,
+    "score": 81,
     "pubdate": "2026-02-23-17-28-59 +0000",
     "source": "nypost",
     "headline": "Ex-British Ambassador to US Peter Mandelson arrested in Epstein probe — in case similar to ex-Prince Andrew",
     "link": "https://nypost.com/2026/02/23/world-news/ex-british-ambassador-to-us-peter-mandelson-arrested-in-epstein-probe-in-similar-case-to-ex-prince-andrew/"
   },
   {
-    "score": 70,
-    "pubdate": "2026-02-22-21-50-06 +0000",
-    "source": "nyt",
-    "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
-    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
-  },
-  {
-    "score": 65,
+    "score": 64,
     "pubdate": "2026-02-22-22-13-39 +0000",
     "source": "nypost",
     "headline": "Panicked passengers run for lives at Guadalajara airport as Mexican cartel violence erupts over killing of Jalisco New Generation leader",
     "link": "https://nypost.com/2026/02/22/world-news/panicked-air-travelers-run-for-lives-at-guadalajara-airport-as-mexican-cartel-violence-erupts-over-killing-of-jalisco-new-generation-leader/"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-02-22-21-50-06 +0000",
+    "source": "nyt",
+    "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
   },
   {
     "score": 56,
@@ -49,18 +49,11 @@
     "link": "https://www.latimes.com/california/story/2026-02-23/nick-reiner-murder-charges-arraignment-hearing"
   },
   {
-    "score": 51,
+    "score": 49,
     "pubdate": "2026-02-23-16-01-00 +0000",
     "source": "wsj",
     "headline": "EU Lawmakers Shelve U.S. Trade Deal Talks After Tariff Ruling",
     "link": "https://www.wsj.com/world/europe/eu-lawmakers-could-halt-vote-on-u-s-trade-deal-after-supreme-court-ruling-16e42c2e"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-02-23-03-16-14 +0000",
-    "source": "nyt",
-    "headline": "Armed Man Shot Dead at Mar-a-Lago by Trump’s Secret Service Was a 21-Year-Old From N.C.",
-    "link": "https://www.nytimes.com/2026/02/22/us/north-carolina-man-shot-html.html"
   },
   {
     "score": 46,
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "As ICE scales up hiring, whistleblower documents reveal deep cuts to training program",
     "link": "https://www.latimes.com/politics/story/2026-02-23/ice-whistleblower-documents-reveal-deep-cuts-to-training-program"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-02-23-16-38-30 +0000",
+    "source": "nypost",
+    "headline": "Trump makes first comments on Mar-a-Lago intruder shot dead: ‘Got a lot of people gunning for me’",
+    "link": "https://nypost.com/2026/02/23/us-news/trump-makes-first-comments-on-mar-a-lago-intruder-austin-tucker-martin-shot-dead/"
   }
 ]
