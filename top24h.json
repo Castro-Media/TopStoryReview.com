@@ -1,38 +1,31 @@
 [
   {
-    "score": 148,
+    "score": 144,
     "pubdate": "2026-02-22-19-43-00 +0000",
     "source": "wsj",
     "headline": "A man was shot and killed Sunday after breaching the secure perimeter at President Trump’s Mar-a-Lago residence in Florida, the Secret Service said",
     "link": "https://www.wsj.com/politics/national-security/man-killed-by-officers-at-trumps-mar-a-lago-home-d4eece58"
   },
   {
-    "score": 71,
+    "score": 72,
     "pubdate": "2026-02-22-22-52-24 +0000",
     "source": "nypost",
     "headline": "White House trolls Canada, Justin Trudeau with savage post after USA hockey takes Olympic gold",
     "link": "https://nypost.com/2026/02/22/sports/white-house-trolls-canada-with-savage-post-after-usa-hockey-takes-olympic-gold/"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2026-02-22-14-00-00 +0000",
     "source": "wsj",
     "headline": "Iran has sought for years to build closer military ties with China and Russia, but its friends are proving reluctant to step forward as the regime faces the most acute U.S. threat in decades",
     "link": "https://www.wsj.com/politics/national-security/under-trump-pressure-iran-finds-its-friends-are-of-little-help-1cd57bb2"
   },
   {
-    "score": 51,
-    "pubdate": "2026-02-22-22-01-32 +0000",
-    "source": "nypost",
-    "headline": "EU says it won’t accept increase in US tariffs after Supreme Court ruling: ‘A deal is a deal’",
-    "link": "https://nypost.com/2026/02/22/business/eu-says-it-wont-accept-increase-in-us-tariffs-after-supreme-court-ruling-a-deal-is-a-deal/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-02-22-22-13-39 +0000",
-    "source": "nypost",
-    "headline": "Panicked passengers run for lives at Guadalajara airport as Mexican cartel violence erupts over killing of Jalisco New Generation leader",
-    "link": "https://nypost.com/2026/02/22/world-news/panicked-air-travelers-run-for-lives-at-guadalajara-airport-as-mexican-cartel-violence-erupts-over-killing-of-jalisco-new-generation-leader/"
+    "score": 61,
+    "pubdate": "2026-02-23-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
+    "link": "https://www.wsj.com/economy/trade/tariffs-are-a-wild-card-for-the-economy-again-898a0a30"
   },
   {
     "score": 49,
@@ -42,6 +35,13 @@
     "link": "https://www.wsj.com/politics/national-security/trump-says-he-is-sending-hospital-ship-to-greenland-5d6cd2db"
   },
   {
+    "score": 44,
+    "pubdate": "2026-02-23-02-43-18 +0000",
+    "source": "nyt",
+    "headline": "Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html"
+  },
+  {
     "score": 39,
     "pubdate": "2026-02-22-21-50-06 +0000",
     "source": "nyt",
@@ -49,24 +49,24 @@
     "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
   },
   {
-    "score": 39,
-    "pubdate": "2026-02-22-00-33-48 +0000",
-    "source": "nypost",
-    "headline": "Behind shadowy union boss pushing California’s billionaire’s tax — who faced sleazy workplace claims",
-    "link": "https://nypost.com/2026/02/21/us-news/dave-regan-ca-union-boss-pushes-divisive-billionaire-tax/"
+    "score": 38,
+    "pubdate": "2026-02-22-11-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Eight candidates, four minutes to run for California governor.  Ready, go!",
+    "link": "https://www.latimes.com/politics/story/2026-02-22/california-governor-democratic-convention-speeches-san-francisco"
   },
   {
-    "score": 36,
-    "pubdate": "2026-02-22-00-15-48 +0000",
+    "score": 31,
+    "pubdate": "2026-02-22-22-54-45 +0000",
     "source": "nypost",
-    "headline": "Senior MP demands UK probe ex-Prince Andrew, Peter Mandelson for ‘treason’ over Epstein ties",
-    "link": "https://nypost.com/2026/02/21/world-news/senior-mp-demands-uk-probe-ex-prince-andrew-peter-mandelson-for-treason-over-epstein-ties/"
+    "headline": "AOC fires back at critics of her gaffe-filled foreign policy speech — as top Republican suggests she could be president",
+    "link": "https://nypost.com/2026/02/22/us-news/aoc-hits-back-at-critics-of-her-gaffe-filled-munich-speech-as-major-republican-suggests-she-could-be-president/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-02-21-23-57-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump announced a 15% global tariff on all imports entering the U.S., effective immediately. Here is what to know.",
-    "link": "https://www.wsj.com/economy/trade/what-to-know-about-trumps-new-tariff-73aef4e9"
+    "score": 31,
+    "pubdate": "2026-02-23-00-40-05 +0000",
+    "source": "bbc",
+    "headline": "How budget fast fashion is taking small-town India by storm",
+    "link": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss"
   }
 ]
