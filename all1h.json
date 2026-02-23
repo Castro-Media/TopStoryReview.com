@@ -1,26 +1,80 @@
 [
   {
-    "headline": "What the killing of drug lord 'El Mencho' means for Mexico",
-    "link": "https://www.bbc.com/news/videos/c0mg8d11pg3o?at_medium=RSS&at_campaign=rss",
+    "headline": "Federal government departments meet their 2025 climate target",
+    "link": "https://www.cbc.ca/news/politics/greening-government-strategy-update-9.7081235?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-23-09-00-00 +0000"
+  },
+  {
+    "headline": "Cuts targeting Indigenous rights staff at Justice Department 'reckless,' critics warn",
+    "link": "https://www.cbc.ca/news/canada/ottawa/cuts-targeting-indigenous-rights-staff-at-justice-department-reckless-critics-warn-9.7097164?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-23-09-00-00 +0000"
+  },
+  {
+    "headline": "Why the Supreme Court challenge of Quebec's secularism law matters to the whole country",
+    "link": "https://www.cbc.ca/news/canada/montreal/supreme-court-challenge-bill-21-canada-implications-9.7097747?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-23-09-00-00 +0000"
+  },
+  {
+    "headline": "An Alberta man wanted MAID. Instead, he died in a Catholic hospital, waiting to be transferred",
+    "link": "https://www.cbc.ca/radio/whitecoat/maid-edmonton-william-hume-9.7093721?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-23-09-00-00 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Dow Futures, Dollar Fall on Tariff Uncertainty",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-08-57-16 +0000"
+  },
+  {
+    "headline": "Euro Rises After Tariff Ruling, Could Extend Gains",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-risk-on-sentiment-c9902264?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-08-48-00 +0000"
+  },
+  {
+    "headline": "Eurozone Government Bond Yields Edge Lower; German Ifo Data Eyed",
+    "link": "https://www.wsj.com/finance/eurozone-government-bond-yields-edge-lower-german-ifo-data-eyed-f6df2ce9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-08-47-00 +0000"
+  },
+  {
+    "headline": "Gold Above $5,100 on U.S. Tariffs Uncertainty, Softer Dollar",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-and-silver-rise-amid-renewed-trade-tensions-ea8b0b2d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-08-45-00 +0000"
+  },
+  {
+    "headline": "US, Canadian airlines cancel Puerto Vallarta flights after killing of cartel leader ‘El Mencho’",
+    "link": "https://nypost.com/2026/02/23/us-news/us-canadian-airlines-cancel-puerto-vallarta-flights-after-reported-killing-of-cartel-leader-el-mencho/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-08-39-55 +0000"
+  },
+  {
+    "headline": "Rocket launchers among military-grade equipment seized in raid that killed notorious Mexican cartel leader ‘El Mencho’",
+    "link": "https://nypost.com/2026/02/23/world-news/rocket-launchers-among-military-grade-equipment-seized-in-daring-raid-that-killed-notorious-mexican-cartel-leader-el-mencho/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-08-37-41 +0000"
+  },
+  {
+    "headline": "Oil Falls on U.S.-Iran Talks, Tariff Uncertainty",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospect-that-u-s-strike-on-iran-might-be-limited-10835b8a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-08-35-00 +0000"
+  },
+  {
+    "headline": "India and US defer trade talks after Supreme Court's tariff ruling",
+    "link": "https://www.bbc.com/news/articles/cp8r6g6mgjxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-23-07-12-06 +0000"
+    "pubdate": "2026-02-23-08-20-01 +0000"
   },
   {
-    "headline": "What the killing of drug lord 'El Mencho' means for Mexico",
-    "link": "https://www.bbc.com/news/videos/c0mg8d11pg3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-07-12-06 +0000"
-  },
-  {
-    "headline": "Duterte’s Fans Rally in The Hague as the I.C.C. Weighs Evidence Against Him",
-    "link": "https://www.nytimes.com/2026/02/23/world/asia/philippines-icc-duterte-supporters.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-07-05-54 +0000"
-  },
-  {
-    "headline": "Duterte’s Fans Rally in The Hague as the I.C.C. Weighs Evidence Against Him",
-    "link": "https://www.nytimes.com/2026/02/23/world/asia/philippines-icc-duterte-supporters.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-07-05-54 +0000"
+    "headline": "Johnson Matthey Lowers Price of Unit Being Sold to Honeywell to $1.8 Billion",
+    "link": "https://www.wsj.com/business/energy-oil/johnson-matthey-lowers-price-of-unit-being-sold-to-honeywell-to-1-8-billion-8ba8d8ac?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-23-08-20-00 +0000"
   }
 ]
