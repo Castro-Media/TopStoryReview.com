@@ -1,21 +1,285 @@
 [
   {
+    "headline": "OpenAI’s Sam Altman blasts AI concerns around water usage as ‘fake:’ ‘Humans use energy, too’",
+    "link": "https://nypost.com/2026/02/23/business/openais-sam-altman-blasts-ai-concerns-around-water-usage-as-fake-humans-use-energy-too/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-15-09-01 +0000"
+  },
+  {
+    "headline": "Duterte Won’t Appear at Hearing as I.C.C. Weighs Evidence Against Him",
+    "link": "https://www.nytimes.com/2026/02/23/world/asia/philippines-icc-duterte-supporters.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-15-08-18 +0000"
+  },
+  {
+    "headline": "Live Updates: Violence Flares in Mexico After Killing of Cartel Boss",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
+    "source": "nyt",
+    "pubdate": "2026-02-23-15-05-50 +0000"
+  },
+  {
+    "headline": "Supreme Court to Weigh Oil-Industry Effort to End a Major Climate Suit",
+    "link": "https://www.nytimes.com/2026/02/23/climate/supreme-court-boulder-climate-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-15-00-55 +0000"
+  },
+  {
+    "headline": "Cities May Be ‘Evolutionary Training Grounds’ For Spotted Lanternflies",
+    "link": "https://www.nytimes.com/2026/02/23/science/evolution-lanternflies-invasive.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-15-00-06 +0000"
+  },
+  {
+    "headline": "The Prince and Princess of Wales Made a Pointed Appearance at BAFTA",
+    "link": "https://www.nytimes.com/2026/02/23/style/catherine-william-princess-of-wales-bafta-dress.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-58-02 +0000"
+  },
+  {
+    "headline": "Is Minnesota cooperating with ICE after Operation Metro Surge?",
+    "link": "https://www.startribune.com/is-minnesota-cooperating-with-ice-after-operation-metro-surge/601583745",
+    "source": "startribune",
+    "pubdate": "2026-02-23-14-57-57 +0000"
+  },
+  {
+    "headline": "UK says 'nothing is off the table' in response to US tariffs",
+    "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-14-54-58 +0000"
+  },
+  {
+    "headline": "UK says 'nothing is off the table' in response to US tariffs",
+    "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-14-54-58 +0000"
+  },
+  {
+    "headline": "‘This Has Been a Day:’ U.S.-Canada Hockey Game Puts Rivalry on the Line",
+    "link": "https://www.nytimes.com/2026/02/22/world/canada/2026-olympics-hockey-canada-united-states.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-54-18 +0000"
+  },
+  {
+    "headline": "‘This Has Been a Day:’ U.S.-Canada Hockey Game Puts Rivalry on the Line",
+    "link": "https://www.nytimes.com/2026/02/22/world/canada/2026-olympics-hockey-canada-united-states.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-54-18 +0000"
+  },
+  {
+    "headline": "BAFTAs 2026: The Best and Worst Moments",
+    "link": "https://www.nytimes.com/2026/02/23/movies/baftas-best-worst-moments.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-43-06 +0000"
+  },
+  {
+    "headline": "Domino’s Revenue Rises on U.S. Same-Store Sales Growth",
+    "link": "https://www.wsj.com/business/earnings/dominos-revenue-rises-on-u-s-same-store-sales-growth-f0973aea?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-23-14-37-00 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Gain As Northeast Gets Snow",
+    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-price-falls-on-easing-supply-concerns-7288e92a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-14-29-00 +0000"
+  },
+  {
+    "headline": "Swiss Franc Could Remain in Demand as Safe Haven",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-risk-on-sentiment-c9902264?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-14-23-00 +0000"
+  },
+  {
+    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-20-41 +0000"
+  },
+  {
+    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-20-41 +0000"
+  },
+  {
+    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-20-41 +0000"
+  },
+  {
+    "headline": "Los Angeles Olympics Have a Cloud of Concerns as Winter Games Close",
+    "link": "https://www.nytimes.com/2026/02/21/us/la-olympics-casey-wasserman-epstein.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-18-12 +0000"
+  },
+  {
+    "headline": "Expert’s chilling warning after killing of cartel boss ‘El Mencho’ sparks violence across Mexico",
+    "link": "https://nypost.com/2026/02/23/world-news/experts-chilling-warning-after-killing-of-cartel-boss-el-mencho-sparks-violence-across-mexico/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-14-17-01 +0000"
+  },
+  {
+    "headline": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
+    "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-16-28 +0000"
+  },
+  {
+    "headline": "Briton among 19 killed in Nepal bus crash",
+    "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-14-14-48 +0000"
+  },
+  {
+    "headline": "Briton among 19 killed in Nepal bus crash",
+    "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-14-14-48 +0000"
+  },
+  {
+    "headline": "Treasury Yields, Dollar Decline Amid Tariff Uncertainty",
+    "link": "https://www.wsj.com/finance/eurozone-government-bond-yields-edge-lower-german-ifo-data-eyed-f6df2ce9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-14-14-00 +0000"
+  },
+  {
+    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-12-04 +0000"
+  },
+  {
+    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-12-04 +0000"
+  },
+  {
+    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-14-12-04 +0000"
+  },
+  {
+    "headline": "Rob Jetten becomes Netherlands' youngest ever PM",
+    "link": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-14-11-51 +0000"
+  },
+  {
+    "headline": "Rob Jetten becomes Netherlands' youngest ever PM",
+    "link": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-14-11-51 +0000"
+  },
+  {
+    "headline": "Crude Futures Edge Up With Iran in Focus",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospect-that-u-s-strike-on-iran-might-be-limited-10835b8a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-14-04-00 +0000"
+  },
+  {
+    "headline": "Chad shuts border with Sudan in bid to stop conflict spreading",
+    "link": "https://www.bbc.com/news/articles/cm2x1n95z5vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-14-01-53 +0000"
+  },
+  {
+    "headline": "Now & then",
+    "link": "https://missionlocal.org/2026/02/now-then/",
+    "source": "missionlocal",
+    "pubdate": "2026-02-23-14-00-00 +0000"
+  },
+  {
+    "headline": "Gavin Newsom ripped for telling black mayor ‘I’m like you’ before quoting his low SAT score: ‘Liberal racism on display’",
+    "link": "https://nypost.com/2026/02/23/us-news/gavin-newsom-goes-wildly-viral-after-telling-black-mayor-i-am-like-you-as-critics-accuse-him-of-bigotry/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-13-59-54 +0000"
+  },
+  {
+    "headline": "Gavin Newsom ripped for telling black mayor ‘I’m like you’ before quoting his low SAT score: ‘Liberal racism on display’",
+    "link": "https://nypost.com/2026/02/23/us-news/gavin-newsom-goes-wildly-viral-after-telling-black-mayor-i-am-like-you-as-critics-accuse-him-of-bigotry/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-13-59-54 +0000"
+  },
+  {
+    "headline": "Tariff Turmoil Returns to Global Markets",
+    "link": "https://www.nytimes.com/2026/02/23/business/dealbook/tariffs-trump-markets.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-13-59-53 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-02-23-13-54-17 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-02-23-13-54-17 +0000"
+  },
+  {
+    "headline": "Bomb Cyclone Intensifies in Northeast, Snarling Travel",
+    "link": "https://www.wsj.com/us-news/bomb-cyclone-intensifies-in-northeast-snarling-travel-5c2275e6",
+    "source": "wsj",
+    "pubdate": "2026-02-23-13-48-00 +0000"
+  },
+  {
+    "headline": "AMC Entertainment Narrows Loss, Anticipates Stronger 2026",
+    "link": "https://www.wsj.com/business/earnings/amc-entertainment-narrows-loss-anticipates-stronger-2026-51148c96?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-23-13-37-00 +0000"
+  },
+  {
+    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-13-32-01 +0000"
+  },
+  {
+    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-13-32-01 +0000"
+  },
+  {
+    "headline": "Flights from MSP to Puerto Vallarta canceled amid unrest over killing of Mexican cartel leader",
+    "link": "https://www.startribune.com/news-puerto-vallarta-flights/601587140",
+    "source": "startribune",
+    "pubdate": "2026-02-23-13-30-14 +0000"
+  },
+  {
+    "headline": "Reform promises agency to ensure illegal migrant removals",
+    "link": "https://www.bbc.com/news/articles/cx2jg2g341jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-13-29-32 +0000"
+  },
+  {
+    "headline": "What's at stake as ICC judges hear charges against ex-Philippine president Duterte?",
+    "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-13-23-39 +0000"
+  },
+  {
+    "headline": "What's at stake as ICC judges hear charges against ex-Philippine president Duterte?",
+    "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-13-23-39 +0000"
+  },
+  {
+    "headline": "Deadly violence in Mexico spreads after cartel boss is killed — as Americans warned to shelter in place",
+    "link": "https://nypost.com/2026/02/23/world-news/deadly-violence-in-mexico-spreads-after-cartel-boss-killed-as-americans-warned-to-shelter-in-place/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-13-15-51 +0000"
+  },
+  {
     "headline": "Waller Weighs Supporting Fed Rate Pause if Labor Data Stabilize",
     "link": "https://www.wsj.com/articles/waller-weighs-supporting-fed-rate-pause-if-labor-data-stabilize-5558785a",
     "source": "wsj",
     "pubdate": "2026-02-23-13-11-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-02-23-13-09-12 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-02-23-13-09-12 +0000"
   },
   {
     "headline": "Gold Gains 2% on Haven Demand",
@@ -42,18 +306,6 @@
     "pubdate": "2026-02-23-13-05-41 +0000"
   },
   {
-    "headline": "Briton among 19 killed in Nepal bus crash",
-    "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-13-05-23 +0000"
-  },
-  {
-    "headline": "Briton among 19 killed in Nepal bus crash",
-    "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-13-05-23 +0000"
-  },
-  {
     "headline": "Australia backs removing Andrew from royal line of succession",
     "link": "https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -66,26 +318,14 @@
     "pubdate": "2026-02-23-13-05-14 +0000"
   },
   {
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/waller-fed-supreme-court-tariffs-rates.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-13-01-51 +0000"
-  },
-  {
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/waller-fed-supreme-court-tariffs-rates.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-13-01-51 +0000"
+    "headline": "When is the Spring Statement and what might be in it?",
+    "link": "https://www.bbc.com/news/articles/c5yv255914xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-13-02-11 +0000"
   },
   {
     "headline": "EU Lawmakers Could Halt Vote on U.S. Trade Deal After Supreme Court Ruling",
     "link": "https://www.wsj.com/world/europe/eu-lawmakers-could-halt-vote-on-u-s-trade-deal-after-supreme-court-ruling-16e42c2e",
-    "source": "wsj",
-    "pubdate": "2026-02-23-12-59-00 +0000"
-  },
-  {
-    "headline": "Trump’s New Global Tariff Could Dent Sterling as U.K. Loses Out",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-risk-on-sentiment-c9902264?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-23-12-59-00 +0000"
   },
@@ -112,12 +352,6 @@
     "link": "https://www.wsj.com/business/retail/loblaw-to-spend-1-75-billion-on-new-stores-renovations-83d5af44?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-23-12-53-00 +0000"
-  },
-  {
-    "headline": "Rob Jetten becomes Netherlands' youngest and first gay PM",
-    "link": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-12-49-27 +0000"
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
@@ -156,18 +390,6 @@
     "pubdate": "2026-02-23-12-21-05 +0000"
   },
   {
-    "headline": "UK set to be among worst hit by Trump's 15% global tariff",
-    "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-12-08-18 +0000"
-  },
-  {
-    "headline": "UK set to be among worst hit by Trump's 15% global tariff",
-    "link": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-12-08-18 +0000"
-  },
-  {
     "headline": "Trump invites gold-winning US men’s Olympic hockey team to State of the Union address, gushes over goalie Connor Hellebuyck in postgame phone call",
     "link": "https://nypost.com/2026/02/23/us-news/trump-invites-gold-winning-us-mens-olympic-hockey-team-to-state-of-the-union-address-gushes-over-goalie-connor-hellebuyck-in-postgame-phone-call/",
     "source": "nypost",
@@ -184,18 +406,6 @@
     "link": "https://www.wsj.com/politics/policy/trumps-ominous-netflix-threat-could-impact-warner-deal-cf5da899",
     "source": "wsj",
     "pubdate": "2026-02-23-12-04-00 +0000"
-  },
-  {
-    "headline": "European Gas Price Falls on Easing Supply Concerns",
-    "link": "https://www.wsj.com/articles/european-gas-price-falls-on-easing-supply-concerns-7288e92a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-23-12-03-00 +0000"
-  },
-  {
-    "headline": "European Gas Price Falls on Easing Supply Concerns",
-    "link": "https://www.wsj.com/articles/european-gas-price-falls-on-easing-supply-concerns-7288e92a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-12-03-00 +0000"
   },
   {
     "headline": "US tariff policy 'hasn't changed', says Trump's trade representative",
@@ -270,22 +480,10 @@
     "pubdate": "2026-02-23-12-00-00 +0000"
   },
   {
-    "headline": "German Bunds Offer Diversification Amid Increased Uncertainty",
-    "link": "https://www.wsj.com/finance/eurozone-government-bond-yields-edge-lower-german-ifo-data-eyed-f6df2ce9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-11-59-00 +0000"
-  },
-  {
     "headline": "Rob Reiner's son may enter plea today in the killing of his parents",
     "link": "https://www.cbc.ca/news/entertainment/nick-reiner-returns-to-court-9.7102157?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-23-11-55-46 +0000"
-  },
-  {
-    "headline": "BAFTAs 2026: The Best and Worst Moments",
-    "link": "https://www.nytimes.com/2026/02/23/movies/baftas-best-worst-moments.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-11-46-47 +0000"
   },
   {
     "headline": "The Wall Street Journal is inviting subscribers to submit questions to its journalists ahead of President Trump’s first State of the Union of his second term",
@@ -354,12 +552,6 @@
     "pubdate": "2026-02-23-11-15-45 +0000"
   },
   {
-    "headline": "Domino’s Revenue Rises on U.S. Same-Store Sales Growth",
-    "link": "https://www.wsj.com/business/earnings/dominos-revenue-rises-on-u-s-same-store-sales-growth-f0973aea?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-23-11-13-00 +0000"
-  },
-  {
     "headline": "This Country’s Hot Stock Market Won’t Help You Spread Your Bets",
     "link": "https://www.wsj.com/finance/stocks/this-countrys-hot-stock-market-wont-help-you-spread-your-bets-d46afdf1?mod=rss_markets_main",
     "source": "wsj",
@@ -378,27 +570,9 @@
     "pubdate": "2026-02-23-11-11-00 +0000"
   },
   {
-    "headline": "Bomb Cyclone Intensifies in Northeast, Snarling Travel",
-    "link": "https://www.wsj.com/us-news/bomb-cyclone-intensifies-in-northeast-snarling-travel-5c2275e6",
-    "source": "wsj",
-    "pubdate": "2026-02-23-11-10-00 +0000"
-  },
-  {
     "headline": "Here’s a response to all of the ‘Yeah, buts’ that followed my 2026 economic forecast",
     "link": "https://nypost.com/2026/02/23/business/heres-a-response-to-all-of-the-yeah-buts-that-followed-ken-fishers-2026-economic-forecast/",
     "source": "nypost",
-    "pubdate": "2026-02-23-11-00-00 +0000"
-  },
-  {
-    "headline": "Is Minnesota cooperating with ICE after Operation Metro Surge?",
-    "link": "https://www.startribune.com/is-minnesota-cooperating-with-ice-after-operation-metro-surge/601583745",
-    "source": "startribune",
-    "pubdate": "2026-02-23-11-00-00 +0000"
-  },
-  {
-    "headline": "Opinion | Minneapolis for the Nobel Prize? Heck yes, and don’t be bashful.",
-    "link": "https://www.startribune.com/nation-nominates-mpls-nobel-after-ice-surge/601584602",
-    "source": "startribune",
     "pubdate": "2026-02-23-11-00-00 +0000"
   },
   {
@@ -426,7 +600,7 @@
     "pubdate": "2026-02-23-10-30-00 +0000"
   },
   {
-    "headline": "Frustrated Nancy Guthrie volunteers take search into their own hands — as they hand over suspicious backpack to cops",
+    "headline": "Frustrated Nancy Guthrie volunteers take search into their own hands — as they give suspicious backpack to cops",
     "link": "https://nypost.com/2026/02/23/us-news/nancy-guthrie-volunteers-find-backpack-in-nearby-storm-drain/",
     "source": "nypost",
     "pubdate": "2026-02-23-10-30-00 +0000"
@@ -498,28 +672,28 @@
     "pubdate": "2026-02-23-10-04-28 +0000"
   },
   {
-    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "headline": "Fact-Check: Trump’s Latest Claims on Jobs, Inflation and Crime",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-04-21 +0000"
+    "pubdate": "2026-02-23-10-04-22 +0000"
   },
   {
-    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "headline": "Fact-Check: Trump’s Latest Claims on Jobs, Inflation and Crime",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-04-21 +0000"
+    "pubdate": "2026-02-23-10-04-22 +0000"
   },
   {
-    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "headline": "Fact-Check: Trump’s Latest Claims on Jobs, Inflation and Crime",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-04-21 +0000"
+    "pubdate": "2026-02-23-10-04-22 +0000"
   },
   {
-    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "headline": "Fact-Check: Trump’s Latest Claims on Jobs, Inflation and Crime",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-04-21 +0000"
+    "pubdate": "2026-02-23-10-04-22 +0000"
   },
   {
     "headline": "Why the Supreme Court Struck Down Trump’s Tariffs",
@@ -528,46 +702,28 @@
     "pubdate": "2026-02-23-10-04-15 +0000"
   },
   {
-    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
-    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "headline": "Judges Grow Angry Over Trump Administration Violating Their Orders",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-04-11 +0000"
-  },
-  {
-    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
-    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-10-04-11 +0000"
-  },
-  {
-    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
-    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-10-04-11 +0000"
+    "pubdate": "2026-02-23-10-04-09 +0000"
   },
   {
     "headline": "Judges Grow Angry Over Trump Administration Violating Their Orders",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-04-08 +0000"
-  },
-  {
-    "headline": "Judges Grow Angry Over Trump Administration Violating Their Orders",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-10-04-08 +0000"
+    "pubdate": "2026-02-23-10-04-09 +0000"
   },
   {
     "headline": "Former F.B.I. Official, Ousted Under Trump, Will Run for Congress in Maryland",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/former-fbi-official-congress-maryland.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-03-12 +0000"
+    "pubdate": "2026-02-23-10-03-13 +0000"
   },
   {
     "headline": "Former F.B.I. Official, Ousted Under Trump, Will Run for Congress in Maryland",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/former-fbi-official-congress-maryland.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-03-12 +0000"
+    "pubdate": "2026-02-23-10-03-13 +0000"
   },
   {
     "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
@@ -648,12 +804,6 @@
     "pubdate": "2026-02-23-10-00-58 +0000"
   },
   {
-    "headline": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
-    "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-10-00-53 +0000"
-  },
-  {
     "headline": "From Sundance Director to Head of Film Forum",
     "link": "https://www.nytimes.com/2026/02/23/arts/film-forum-tabitha-jackson.html",
     "source": "nyt",
@@ -675,7 +825,7 @@
     "headline": "As Trump Touts Economic Gains, Many Workers Still Feel the Pinch",
     "link": "https://www.nytimes.com/2026/02/23/us/trump-affordability-inflation-families.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-10-00-20 +0000"
+    "pubdate": "2026-02-23-10-00-21 +0000"
   },
   {
     "headline": "Is Climate Change Making Inflation Worse?",
@@ -720,7 +870,7 @@
     "pubdate": "2026-02-23-09-00-00 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Futures Fall on Tariff Uncertainty",
+    "headline": "Stock Market Today: Dow, Dollar Fall on Tariff Uncertainty",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-23-08-57-16 +0000"
@@ -736,12 +886,6 @@
     "link": "https://nypost.com/2026/02/23/world-news/rocket-launchers-among-military-grade-equipment-seized-in-daring-raid-that-killed-notorious-mexican-cartel-leader-el-mencho/",
     "source": "nypost",
     "pubdate": "2026-02-23-08-37-41 +0000"
-  },
-  {
-    "headline": "Oil Falls on U.S.-Iran Talks, Tariff Uncertainty",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospect-that-u-s-strike-on-iran-might-be-limited-10835b8a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-08-35-00 +0000"
   },
   {
     "headline": "India and US defer trade talks after Supreme Court's tariff ruling",
@@ -796,24 +940,6 @@
     "link": "https://www.nytimes.com/2026/02/23/world/asia/philippines-icc-duterte-supporters.html",
     "source": "nyt",
     "pubdate": "2026-02-23-07-27-55 +0000"
-  },
-  {
-    "headline": "Duterte’s Fans Rally in The Hague as the I.C.C. Weighs Evidence Against Him",
-    "link": "https://www.nytimes.com/2026/02/23/world/asia/philippines-icc-duterte-supporters.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-07-27-55 +0000"
-  },
-  {
-    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-07-16-16 +0000"
-  },
-  {
-    "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-    "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-23-07-16-16 +0000"
   },
   {
     "headline": "Kim Jong Un re-appointed leader of North Korea's ruling party",
@@ -948,7 +1074,7 @@
     "pubdate": "2026-02-23-03-42-00 +0000"
   },
   {
-    "headline": "Trump increases new global tariffs to 15%",
+    "headline": "Trump threatens to raise new global tariff to 15%",
     "link": "https://www.cbc.ca/player/play/9.7102103?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-23-03-22-33 +0000"
@@ -1128,18 +1254,6 @@
     "pubdate": "2026-02-23-01-36-33 +0000"
   },
   {
-    "headline": "LA’s WFH nightmare: Empty City Hall leaves once-thriving mall an apocalyptic ruin – infuriating Angelenos",
-    "link": "https://nypost.com/2026/02/22/us-news/empty-city-hall-leaves-once-thriving-los-angeles-mall-deserted/",
-    "source": "nypost",
-    "pubdate": "2026-02-23-01-36-33 +0000"
-  },
-  {
-    "headline": "Fury as serial child molester freed from prison early: ‘Monster parents fear most’",
-    "link": "https://nypost.com/2026/02/22/us-news/california-child-molester-david-allen-funston-granted-parole/",
-    "source": "nypost",
-    "pubdate": "2026-02-23-01-27-38 +0000"
-  },
-  {
     "headline": "Inside Iran’s Preparations for War and Plans for Survival",
     "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
     "source": "nyt",
@@ -1150,18 +1264,6 @@
     "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html",
     "source": "nyt",
     "pubdate": "2026-02-23-01-16-04 +0000"
-  },
-  {
-    "headline": "Fans Pack Bars as U.S.-Canada Hockey Game Puts Rivalry on the Line",
-    "link": "https://www.nytimes.com/2026/02/22/world/canada/2026-olympics-hockey-canada-united-states.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-01-04-07 +0000"
-  },
-  {
-    "headline": "Fans Pack Bars as U.S.-Canada Hockey Game Puts Rivalry on the Line",
-    "link": "https://www.nytimes.com/2026/02/22/world/canada/2026-olympics-hockey-canada-united-states.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-01-04-07 +0000"
   },
   {
     "headline": "Iran ‘a week away’ from bomb-grade material, Witkoff warns as Trump weighs options",
@@ -1608,6 +1710,12 @@
     "pubdate": "2026-02-22-19-43-00 +0000"
   },
   {
+    "headline": "Dozens of Mexican National Guard troops killed after cartel leader's death, official says",
+    "link": "https://www.cbc.ca/news/world/livestory/puerto-vallarta-violence-9.7101866?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-22-19-42-14 +0000"
+  },
+  {
     "headline": "D.C. Police Close Probe of Labor Secretary’s Husband",
     "link": "https://www.wsj.com/politics/policy/dc-police-close-probe-of-labor-secretarys-husband-fbc46435",
     "source": "wsj",
@@ -1906,29 +2014,5 @@
     "link": "https://www.bbc.com/news/articles/cj0dme87l84o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-22-15-15-42 +0000"
-  },
-  {
-    "headline": "Armed man shot and killed after entering Mar-a-Lago secure perimeter, Secret Service says",
-    "link": "https://www.latimes.com/business/story/2026-02-22/us-secret-service-says-it-shot-killed-armed-man-at-mar-a-lago",
-    "source": "latimes",
-    "pubdate": "2026-02-22-14-45-36 +0000"
-  },
-  {
-    "headline": "Trump 'curious' about Iran's defiance amid U.S. military buildup, Witkoff says",
-    "link": "https://www.cbc.ca/news/world/us-iran-sanctions-talks-9.7101441?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-22-14-32-55 +0000"
-  },
-  {
-    "headline": "Explosions kill police officer and injure 25 in western Ukraine",
-    "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-22-14-19-02 +0000"
-  },
-  {
-    "headline": "Explosions kill police officer and injure 25 in western Ukraine",
-    "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-22-14-19-02 +0000"
   }
 ]
