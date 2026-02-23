@@ -1,6 +1,6 @@
 [
   {
-    "score": 205,
+    "score": 194,
     "pubdate": "2026-02-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
@@ -12,13 +12,6 @@
     "source": "nypost",
     "headline": "How brutal assasin ‘El Mencho’ became Mexico’s most wanted cartel kingpin in bloody coup before he was killed in military raid",
     "link": "https://nypost.com/2026/02/22/world-news/who-is-el-mencho-the-jalisco-new-generation-cartel-leader-gunned-down-by-mexican-military/"
-  },
-  {
-    "score": 73,
-    "pubdate": "2026-02-22-21-50-06 +0000",
-    "source": "nyt",
-    "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
-    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
   },
   {
     "score": 71,
@@ -35,6 +28,13 @@
     "link": "https://nypost.com/2026/02/22/world-news/panicked-air-travelers-run-for-lives-at-guadalajara-airport-as-mexican-cartel-violence-erupts-over-killing-of-jalisco-new-generation-leader/"
   },
   {
+    "score": 70,
+    "pubdate": "2026-02-22-21-50-06 +0000",
+    "source": "nyt",
+    "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
+    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
+  },
+  {
     "score": 65,
     "pubdate": "2026-02-23-12-08-15 +0000",
     "source": "nypost",
@@ -42,21 +42,21 @@
     "link": "https://nypost.com/2026/02/23/us-news/trump-invites-gold-winning-us-mens-olympic-hockey-team-to-state-of-the-union-address-gushes-over-goalie-connor-hellebuyck-in-postgame-phone-call/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-02-23-13-59-54 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom ripped for telling black mayor ‘I’m like you’ before quoting his low SAT score: ‘Liberal racism on display’",
-    "link": "https://nypost.com/2026/02/23/us-news/gavin-newsom-goes-wildly-viral-after-telling-black-mayor-i-am-like-you-as-critics-accuse-him-of-bigotry/"
-  },
-  {
-    "score": 47,
+    "score": 46,
     "pubdate": "2026-02-23-14-12-04 +0000",
     "source": "nyt",
     "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
     "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
   },
   {
-    "score": 44,
+    "score": 45,
+    "pubdate": "2026-02-23-13-59-54 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom ripped for telling black mayor ‘I’m like you’ before quoting his low SAT score: ‘Liberal racism on display’",
+    "link": "https://nypost.com/2026/02/23/us-news/gavin-newsom-goes-wildly-viral-after-telling-black-mayor-i-am-like-you-as-critics-accuse-him-of-bigotry/"
+  },
+  {
+    "score": 43,
     "pubdate": "2026-02-23-11-28-02 +0000",
     "source": "nypost",
     "headline": "Ex-Prince Andrew charged taxpayers for massages during his stint as UK trade envoy: reports",
