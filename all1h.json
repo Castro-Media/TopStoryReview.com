@@ -1,80 +1,266 @@
 [
   {
-    "headline": "Federal government departments meet their 2025 climate target",
-    "link": "https://www.cbc.ca/news/politics/greening-government-strategy-update-9.7081235?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-23-09-00-00 +0000"
-  },
-  {
-    "headline": "Cuts targeting Indigenous rights staff at Justice Department 'reckless,' critics warn",
-    "link": "https://www.cbc.ca/news/canada/ottawa/cuts-targeting-indigenous-rights-staff-at-justice-department-reckless-critics-warn-9.7097164?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-23-09-00-00 +0000"
-  },
-  {
-    "headline": "Why the Supreme Court challenge of Quebec's secularism law matters to the whole country",
-    "link": "https://www.cbc.ca/news/canada/montreal/supreme-court-challenge-bill-21-canada-implications-9.7097747?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-23-09-00-00 +0000"
-  },
-  {
-    "headline": "An Alberta man wanted MAID. Instead, he died in a Catholic hospital, waiting to be transferred",
-    "link": "https://www.cbc.ca/radio/whitecoat/maid-edmonton-william-hume-9.7093721?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-23-09-00-00 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Dow Futures, Dollar Fall on Tariff Uncertainty",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-08-57-16 +0000"
-  },
-  {
-    "headline": "Euro Rises After Tariff Ruling, Could Extend Gains",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-strengthen-amid-risk-on-sentiment-c9902264?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-08-48-00 +0000"
-  },
-  {
-    "headline": "Eurozone Government Bond Yields Edge Lower; German Ifo Data Eyed",
-    "link": "https://www.wsj.com/finance/eurozone-government-bond-yields-edge-lower-german-ifo-data-eyed-f6df2ce9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-08-47-00 +0000"
-  },
-  {
-    "headline": "Gold Above $5,100 on U.S. Tariffs Uncertainty, Softer Dollar",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-and-silver-rise-amid-renewed-trade-tensions-ea8b0b2d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-08-45-00 +0000"
-  },
-  {
-    "headline": "US, Canadian airlines cancel Puerto Vallarta flights after killing of cartel leader ‘El Mencho’",
-    "link": "https://nypost.com/2026/02/23/us-news/us-canadian-airlines-cancel-puerto-vallarta-flights-after-reported-killing-of-cartel-leader-el-mencho/",
+    "headline": "Hunter College professor Allyson Friedman sparks fury as she’s caught on hot mic making ‘blatantly racist’ comment",
+    "link": "https://nypost.com/2026/02/23/us-news/hunter-college-prof-allyson-friedman-sparks-fury-as-shes-caught-on-hot-mic-making-blatantly-racist-comment/",
     "source": "nypost",
-    "pubdate": "2026-02-23-08-39-55 +0000"
+    "pubdate": "2026-02-23-10-07-46 +0000"
   },
   {
-    "headline": "Rocket launchers among military-grade equipment seized in raid that killed notorious Mexican cartel leader ‘El Mencho’",
-    "link": "https://nypost.com/2026/02/23/world-news/rocket-launchers-among-military-grade-equipment-seized-in-daring-raid-that-killed-notorious-mexican-cartel-leader-el-mencho/",
-    "source": "nypost",
-    "pubdate": "2026-02-23-08-37-41 +0000"
+    "headline": "What’s Happened Since the Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/supreme-court-trump-tariffs-updates.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-29 +0000"
   },
   {
-    "headline": "Oil Falls on U.S.-Iran Talks, Tariff Uncertainty",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospect-that-u-s-strike-on-iran-might-be-limited-10835b8a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-23-08-35-00 +0000"
+    "headline": "Women’s Olympic Hockey Gold Medalist Has Her Brothers’ Eccentric Support",
+    "link": "https://www.nytimes.com/2026/02/23/world/olympics/haley-winn-brothers-olympics-hockey.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-28 +0000"
   },
   {
-    "headline": "India and US defer trade talks after Supreme Court's tariff ruling",
-    "link": "https://www.bbc.com/news/articles/cp8r6g6mgjxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-21 +0000"
+  },
+  {
+    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-21 +0000"
+  },
+  {
+    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-21 +0000"
+  },
+  {
+    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-21 +0000"
+  },
+  {
+    "headline": "Why the Supreme Court Struck Down Trump’s Tariffs",
+    "link": "https://www.nytimes.com/video/us/100000010726142/why-the-supreme-court-struck-down-trumps-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-15 +0000"
+  },
+  {
+    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-11 +0000"
+  },
+  {
+    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-10 +0000"
+  },
+  {
+    "headline": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-10 +0000"
+  },
+  {
+    "headline": "Judges Grow Angry Over Trump Administration Violating Their Orders",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-08 +0000"
+  },
+  {
+    "headline": "Judges Grow Angry Over Trump Administration Violating Their Orders",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-04-08 +0000"
+  },
+  {
+    "headline": "Briton among 19 killed in Nepal bus crash",
+    "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-02-23-08-20-01 +0000"
+    "pubdate": "2026-02-23-10-03-17 +0000"
   },
   {
-    "headline": "Johnson Matthey Lowers Price of Unit Being Sold to Honeywell to $1.8 Billion",
-    "link": "https://www.wsj.com/business/energy-oil/johnson-matthey-lowers-price-of-unit-being-sold-to-honeywell-to-1-8-billion-8ba8d8ac?mod=pls_whats_news_us_business_f",
+    "headline": "Former F.B.I. Official, Ousted Under Trump, Will Run for Congress in Maryland",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/former-fbi-official-congress-maryland.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-03-12 +0000"
+  },
+  {
+    "headline": "Former F.B.I. Official, Ousted Under Trump, Will Run for Congress in Maryland",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/former-fbi-official-congress-maryland.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-03-12 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-03-09 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-03-09 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-03-09 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-03-09 +0000"
+  },
+  {
+    "headline": "World’s 50 Best Restaurants Draws Criticism After Choosing to Hold Ceremony in Abu Dhabi",
+    "link": "https://www.nytimes.com/2026/02/23/dining/worlds-50-best-restaurants-abu-dhabi-ceremony.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-54 +0000"
+  },
+  {
+    "headline": "In Washington State, Democrats Consider Breaking a Taboo: Taxing the Rich",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/washington-taxing-the-rich.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-46 +0000"
+  },
+  {
+    "headline": "Homeownership Is Out of Reach for Many Americans, Despite a Buyer’s Market",
+    "link": "https://www.nytimes.com/2026/02/23/business/home-buying-market-real-estate-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-46 +0000"
+  },
+  {
+    "headline": "In Washington State, Democrats Consider Breaking a Taboo: Taxing the Rich",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/washington-taxing-the-rich.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-46 +0000"
+  },
+  {
+    "headline": "The Ukrainian Bureaucrat Working to Squeeze Russia’s War Machine",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-russia-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-35 +0000"
+  },
+  {
+    "headline": "The Ukrainian Bureaucrat Working to Squeeze Russia’s War Machine",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-russia-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-35 +0000"
+  },
+  {
+    "headline": "‘A.I. Literacy’ Is Trending in Schools. Here’s Why.",
+    "link": "https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-23 +0000"
+  },
+  {
+    "headline": "Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.",
+    "link": "https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-15 +0000"
+  },
+  {
+    "headline": "The Japanese Airport That Doesn’t Lose Bags",
+    "link": "https://www.nytimes.com/video/world/asia/100000010704288/osaka-kansai-airport-lost-luggage-japan.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-12 +0000"
+  },
+  {
+    "headline": "The Japanese Airport That Doesn’t Lose Bags",
+    "link": "https://www.nytimes.com/video/world/asia/100000010704288/osaka-kansai-airport-lost-luggage-japan.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-02-12 +0000"
+  },
+  {
+    "headline": "The Zero Units Fought for the C.I.A. in Afghanistan. In the U.S., They’re Living in Fear.",
+    "link": "https://www.nytimes.com/2026/02/23/magazine/zero-units-cia-afghanistan.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-00-58 +0000"
+  },
+  {
+    "headline": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
+    "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-00-53 +0000"
+  },
+  {
+    "headline": "From Sundance Director to Head of Film Forum",
+    "link": "https://www.nytimes.com/2026/02/23/arts/film-forum-tabitha-jackson.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-00-48 +0000"
+  },
+  {
+    "headline": "Israelis brace for another war as Trump mulls strikes on Iran",
+    "link": "https://www.washingtonpost.com/world/2026/02/23/israel-iran-war-preparations-trump/",
+    "source": "wapo",
+    "pubdate": "2026-02-23-10-00-44 +0000"
+  },
+  {
+    "headline": "As Andrew fell, Queen Elizabeth II held out hope, and Charles and William fumed",
+    "link": "https://www.washingtonpost.com/world/2026/02/23/andrew-charles-william-epstein-royal-scandal/",
+    "source": "wapo",
+    "pubdate": "2026-02-23-10-00-28 +0000"
+  },
+  {
+    "headline": "As Trump Touts Economic Gains, Many Workers Still Feel the Pinch",
+    "link": "https://www.nytimes.com/2026/02/23/us/trump-affordability-inflation-families.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-00-20 +0000"
+  },
+  {
+    "headline": "Is Climate Change Making Inflation Worse?",
+    "link": "https://www.nytimes.com/2026/02/23/climate/climate-change-prices-inflation.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-10-00-07 +0000"
+  },
+  {
+    "headline": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-09-59-39 +0000"
+  },
+  {
+    "headline": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-09-59-39 +0000"
+  },
+  {
+    "headline": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
+    "link": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-09-50-41 +0000"
+  },
+  {
+    "headline": "U.S. Stock Futures Fall as Tariff Uncertainty Weighs on Global Markets",
+    "link": "https://www.wsj.com/finance/u-s-stock-futures-fall-as-tariff-uncertainty-weighs-on-global-markets-3f2374fb?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-23-08-20-00 +0000"
+    "pubdate": "2026-02-23-09-45-00 +0000"
+  },
+  {
+    "headline": "Watch: Winter storm covers parts north-east US in snow",
+    "link": "https://www.bbc.com/news/videos/ce3g73nnlelo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-09-40-07 +0000"
+  },
+  {
+    "headline": "German Business Sentiment Picks Up",
+    "link": "https://www.wsj.com/economy/german-business-sentiment-picks-up-98249513",
+    "source": "wsj",
+    "pubdate": "2026-02-23-09-36-00 +0000"
+  },
+  {
+    "headline": "Infamous photo of ex-Prince Andrew after his arrest hung in the Louvre by activists, stuns visitors",
+    "link": "https://nypost.com/2026/02/23/world-news/infamous-ex-prince-andrew-photo-hung-in-museum-stuns-visitors/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-09-16-42 +0000"
   }
 ]

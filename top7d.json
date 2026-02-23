@@ -1,27 +1,34 @@
 [
   {
-    "score": 656,
+    "score": 670,
     "pubdate": "2026-02-21-00-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump had just started a closed-door White House meeting with governors when one of his trade advisers handed him a piece of paper about the Supreme Court ruling. “So it’s a loss, then?” Trump asked the adviser.",
     "link": "https://www.wsj.com/politics/policy/the-moment-trump-found-out-the-supreme-court-killed-his-tariffs-ad40b45f"
   },
   {
-    "score": 218,
+    "score": 215,
     "pubdate": "2026-02-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
     "link": "https://www.wsj.com/economy/trade/tariffs-are-a-wild-card-for-the-economy-again-898a0a30"
   },
   {
-    "score": 157,
+    "score": 159,
     "pubdate": "2026-02-22-14-00-00 +0000",
     "source": "wsj",
     "headline": "Iran has sought for years to build closer military ties with China and Russia, but its friends are proving reluctant to step forward as the regime faces the most acute U.S. threat in decades",
     "link": "https://www.wsj.com/politics/national-security/under-trump-pressure-iran-finds-its-friends-are-of-little-help-1cd57bb2"
   },
   {
-    "score": 139,
+    "score": 150,
+    "pubdate": "2026-02-23-09-59-39 +0000",
+    "source": "nyt",
+    "headline": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html"
+  },
+  {
+    "score": 125,
     "pubdate": "2026-02-23-04-30-52 +0000",
     "source": "nypost",
     "headline": "Austin Tucker Martin, gunman shot dead by Secret Service at Mar-a-Lago, was obsessed with Epstein files: report",
@@ -35,38 +42,31 @@
     "link": "https://www.latimes.com/california/story/2026-02-20/pam-bondi-california-mask-ban-id-law-9th-circuit"
   },
   {
-    "score": 100,
-    "pubdate": "2026-02-23-08-37-41 +0000",
-    "source": "nypost",
-    "headline": "Rocket launchers among military-grade equipment seized in raid that killed notorious Mexican cartel leader ‘El Mencho’",
-    "link": "https://nypost.com/2026/02/23/world-news/rocket-launchers-among-military-grade-equipment-seized-in-daring-raid-that-killed-notorious-mexican-cartel-leader-el-mencho/"
-  },
-  {
     "score": 97,
-    "pubdate": "2026-02-22-22-52-24 +0000",
-    "source": "nypost",
-    "headline": "White House trolls Canada, Justin Trudeau with savage post after USA hockey takes Olympic gold",
-    "link": "https://nypost.com/2026/02/22/sports/white-house-trolls-canada-with-savage-post-after-usa-hockey-takes-olympic-gold/"
-  },
-  {
-    "score": 96,
     "pubdate": "2026-02-20-13-00-00 +0000",
     "source": "wsj",
     "headline": "After President Trump’s first year back in office, the nation is still buying a lot more goods from other countries than it is selling. See the wild year in trade, in charts.",
     "link": "https://www.wsj.com/economy/trade/tariffs-commerce-department-trade-data-5a0fa077"
   },
   {
-    "score": 91,
-    "pubdate": "2026-02-22-18-32-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he plans to send a hospital ship to Greenland as part of his continuing effort to exercise control of the island in the Arctic",
-    "link": "https://www.wsj.com/politics/national-security/trump-says-he-is-sending-hospital-ship-to-greenland-5d6cd2db"
+    "score": 93,
+    "pubdate": "2026-02-22-22-52-24 +0000",
+    "source": "nypost",
+    "headline": "White House trolls Canada, Justin Trudeau with savage post after USA hockey takes Olympic gold",
+    "link": "https://nypost.com/2026/02/22/sports/white-house-trolls-canada-with-savage-post-after-usa-hockey-takes-olympic-gold/"
   },
   {
     "score": 83,
-    "pubdate": "2026-02-20-12-13-35 +0000",
-    "source": "bbc",
-    "headline": "Higher tax helped UK government reach record January surplus",
-    "link": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-02-21-19-56-18 +0000",
+    "source": "nypost",
+    "headline": "Ukraine strikes key Russian missile factory, as Zelensky declares ‘we’re definitely not losing’ the war",
+    "link": "https://nypost.com/2026/02/21/world-news/ukraine-strikes-key-missile-factory-deep-inside-russia-as-zelensky-declares-100-frontline-miles-liberated-not-losing/"
+  },
+  {
+    "score": 82,
+    "pubdate": "2026-02-22-00-15-48 +0000",
+    "source": "nypost",
+    "headline": "Senior MP demands UK probe ex-Prince Andrew, Peter Mandelson for ‘treason’ over Epstein ties",
+    "link": "https://nypost.com/2026/02/21/world-news/senior-mp-demands-uk-probe-ex-prince-andrew-peter-mandelson-for-treason-over-epstein-ties/"
   }
 ]
