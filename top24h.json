@@ -1,24 +1,24 @@
 [
   {
-    "score": 152,
+    "score": 151,
     "pubdate": "2026-02-22-19-43-00 +0000",
     "source": "wsj",
     "headline": "A man was shot and killed Sunday after breaching the secure perimeter at President Trump’s Mar-a-Lago residence in Florida, the Secret Service said",
     "link": "https://www.wsj.com/politics/national-security/man-killed-by-officers-at-trumps-mar-a-lago-home-d4eece58"
   },
   {
-    "score": 71,
-    "pubdate": "2026-02-22-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "Iran has sought for years to build closer military ties with China and Russia, but its friends are proving reluctant to step forward as the regime faces the most acute U.S. threat in decades",
-    "link": "https://www.wsj.com/politics/national-security/under-trump-pressure-iran-finds-its-friends-are-of-little-help-1cd57bb2"
-  },
-  {
-    "score": 70,
+    "score": 75,
     "pubdate": "2026-02-22-22-13-39 +0000",
     "source": "nypost",
     "headline": "Panicked passengers run for lives at Guadalajara airport as Mexican cartel violence erupts over killing of Jalisco New Generation leader",
     "link": "https://nypost.com/2026/02/22/world-news/panicked-air-travelers-run-for-lives-at-guadalajara-airport-as-mexican-cartel-violence-erupts-over-killing-of-jalisco-new-generation-leader/"
+  },
+  {
+    "score": 69,
+    "pubdate": "2026-02-22-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "Iran has sought for years to build closer military ties with China and Russia, but its friends are proving reluctant to step forward as the regime faces the most acute U.S. threat in decades",
+    "link": "https://www.wsj.com/politics/national-security/under-trump-pressure-iran-finds-its-friends-are-of-little-help-1cd57bb2"
   },
   {
     "score": 61,
@@ -28,28 +28,28 @@
     "link": "https://nypost.com/2026/02/22/sports/white-house-trolls-canada-with-savage-post-after-usa-hockey-takes-olympic-gold/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-02-22-22-01-32 +0000",
-    "source": "nypost",
-    "headline": "EU says it won’t accept increase in US tariffs after Supreme Court ruling: ‘A deal is a deal’",
-    "link": "https://nypost.com/2026/02/22/business/eu-says-it-wont-accept-increase-in-us-tariffs-after-supreme-court-ruling-a-deal-is-a-deal/"
-  },
-  {
-    "score": 45,
+    "score": 46,
     "pubdate": "2026-02-22-18-32-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he plans to send a hospital ship to Greenland as part of his continuing effort to exercise control of the island in the Arctic",
     "link": "https://www.wsj.com/politics/national-security/trump-says-he-is-sending-hospital-ship-to-greenland-5d6cd2db"
   },
   {
-    "score": 41,
-    "pubdate": "2026-02-23-00-55-41 +0000",
+    "score": 46,
+    "pubdate": "2026-02-23-07-12-06 +0000",
     "source": "bbc",
-    "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
-    "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
+    "headline": "What the killing of drug lord 'El Mencho' means for Mexico",
+    "link": "https://www.bbc.com/news/videos/c0mg8d11pg3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
+    "score": 45,
+    "pubdate": "2026-02-23-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
+    "link": "https://www.wsj.com/economy/trade/tariffs-are-a-wild-card-for-the-economy-again-898a0a30"
+  },
+  {
+    "score": 38,
     "pubdate": "2026-02-22-21-50-06 +0000",
     "source": "nyt",
     "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
@@ -57,16 +57,16 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-02-22-23-23-39 +0000",
-    "source": "nyt",
-    "headline": "St. Francis’ Remains, Rarely Seen, Go on Display in Assisi",
-    "link": "https://www.nytimes.com/2026/02/22/world/europe/italy-saint-francis-remains-assisi.html"
-  },
-  {
-    "score": 33,
     "pubdate": "2026-02-22-11-00-00 +0000",
     "source": "latimes",
-    "headline": "Trans athletes face intense efforts to sideline them. These California teens are resisting",
-    "link": "https://www.latimes.com/politics/story/2026-02-22/trans-athletes-face-intense-efforts-to-sideline-them-these-california-teens-are-resisting"
+    "headline": "Barabak: Eight candidates, four minutes to run for California governor.  Ready, go!",
+    "link": "https://www.latimes.com/politics/story/2026-02-22/california-governor-democratic-convention-speeches-san-francisco"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-02-23-06-42-06 +0000",
+    "source": "nypost",
+    "headline": "Grieving North Carolina dad attacks teen son’s alleged killer in courthouse: ‘Any father would’ve did the same thing’",
+    "link": "https://nypost.com/2026/02/23/us-news/north-carolina-dad-shaheem-snype-caught-on-video-attacking-sons-alleged-killer-at-mecklenburg-county-courthouse/"
   }
 ]
