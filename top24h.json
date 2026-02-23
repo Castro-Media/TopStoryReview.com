@@ -1,31 +1,24 @@
 [
   {
-    "score": 188,
+    "score": 186,
     "pubdate": "2026-02-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "With the bulk of President Trump’s tariffs struck down by the Supreme Court, and a new, temporary global tariff in place, fresh questions are hanging over the U.S. economy",
     "link": "https://www.wsj.com/economy/trade/tariffs-are-a-wild-card-for-the-economy-again-898a0a30"
   },
   {
-    "score": 106,
+    "score": 105,
     "pubdate": "2026-02-23-10-08-36 +0000",
     "source": "nyt",
     "headline": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
     "link": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html"
   },
   {
-    "score": 82,
+    "score": 76,
     "pubdate": "2026-02-23-04-30-52 +0000",
     "source": "nypost",
     "headline": "Austin Tucker Martin, gunman shot dead by Secret Service at Mar-a-Lago, was obsessed with Epstein files: report",
     "link": "https://nypost.com/2026/02/22/us-news/austin-tucker-martin-gunman-shot-dead-by-secret-service-at-mar-a-lago-was-obsessed-with-epstein-files-report/"
-  },
-  {
-    "score": 77,
-    "pubdate": "2026-02-22-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "Iran has sought for years to build closer military ties with China and Russia, but its friends are proving reluctant to step forward as the regime faces the most acute U.S. threat in decades",
-    "link": "https://www.wsj.com/politics/national-security/under-trump-pressure-iran-finds-its-friends-are-of-little-help-1cd57bb2"
   },
   {
     "score": 70,
@@ -35,28 +28,28 @@
     "link": "https://nypost.com/2026/02/23/us-news/trump-invites-gold-winning-us-mens-olympic-hockey-team-to-state-of-the-union-address-gushes-over-goalie-connor-hellebuyck-in-postgame-phone-call/"
   },
   {
-    "score": 59,
-    "pubdate": "2026-02-22-22-13-39 +0000",
-    "source": "nypost",
-    "headline": "Panicked passengers run for lives at Guadalajara airport as Mexican cartel violence erupts over killing of Jalisco New Generation leader",
-    "link": "https://nypost.com/2026/02/22/world-news/panicked-air-travelers-run-for-lives-at-guadalajara-airport-as-mexican-cartel-violence-erupts-over-killing-of-jalisco-new-generation-leader/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-02-23-11-28-02 +0000",
-    "source": "nypost",
-    "headline": "Ex-Prince Andrew charged taxpayers for massages during his stint as UK trade envoy: reports",
-    "link": "https://nypost.com/2026/02/23/world-news/prince-andrew-charged-taxpayers-for-massages-during-his-stint-as-uk-trade-envoy-reports/"
-  },
-  {
-    "score": 42,
+    "score": 67,
     "pubdate": "2026-02-22-21-50-06 +0000",
     "source": "nyt",
     "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
     "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
   },
   {
-    "score": 41,
+    "score": 58,
+    "pubdate": "2026-02-22-22-13-39 +0000",
+    "source": "nypost",
+    "headline": "Panicked passengers run for lives at Guadalajara airport as Mexican cartel violence erupts over killing of Jalisco New Generation leader",
+    "link": "https://nypost.com/2026/02/22/world-news/panicked-air-travelers-run-for-lives-at-guadalajara-airport-as-mexican-cartel-violence-erupts-over-killing-of-jalisco-new-generation-leader/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-02-23-11-28-02 +0000",
+    "source": "nypost",
+    "headline": "Ex-Prince Andrew charged taxpayers for massages during his stint as UK trade envoy: reports",
+    "link": "https://nypost.com/2026/02/23/world-news/prince-andrew-charged-taxpayers-for-massages-during-his-stint-as-uk-trade-envoy-reports/"
+  },
+  {
+    "score": 39,
     "pubdate": "2026-02-22-18-32-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he plans to send a hospital ship to Greenland as part of his continuing effort to exercise control of the island in the Arctic",
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "How budget fast fashion is taking small-town India by storm",
     "link": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-02-23-10-04-21 +0000",
+    "source": "nyt",
+    "headline": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html"
   }
 ]
