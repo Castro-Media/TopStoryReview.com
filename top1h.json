@@ -1,72 +1,72 @@
 [
   {
-    "score": 36,
-    "pubdate": "2026-02-23-19-06-42 +0000",
+    "score": 53,
+    "pubdate": "2026-02-23-20-39-57 +0000",
     "source": "nyt",
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
+    "headline": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-02-23-20-19-45 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-02-23-20-54-34 +0000",
+    "source": "nyt",
+    "headline": "Videos Show How Violence Unfolded in Mexico After Killing of Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/mexico-violence-el-mencho-videos.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-02-23-20-12-56 +0000",
+    "source": "nypost",
+    "headline": "GOP lawyer enters race to replace Rep. Jerry Nadler in deeply blue NYC district",
+    "link": "https://nypost.com/2026/02/23/us-news/gop-lawyer-enters-race-to-replace-rep-jerry-nadler-in-deeply-blue-nyc-district/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-02-23-20-35-58 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-02-23-20-22-49 +0000",
+    "source": "nyt",
+    "headline": "Facing Angry ‘MAHA Moms,’ Kennedy Defends Trump’s Pesticide Order",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/facing-angry-maha-moms-kennedy-defends-trumps-pesticide-order.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-23-21-02-05 +0000",
+    "source": "nyt",
+    "headline": "Training for New ICE Agents Is ‘Deficient’ and ‘Broken,’ Whistle-Blower Says",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/ice-training-whistle-blower.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-23-20-15-13 +0000",
+    "source": "nyt",
+    "headline": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
+    "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html"
   },
   {
     "score": 16,
-    "pubdate": "2026-02-23-19-08-28 +0000",
-    "source": "nyt",
-    "headline": "EU Support for Ukraine Stumbles as Hungary Looks to Delay Aid",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html"
+    "pubdate": "2026-02-23-20-38-35 +0000",
+    "source": "latimes",
+    "headline": "CBS News cuts ties with longevity expert Peter Attia amid Epstein revelations",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-23/cbs-news-cuts-ties-with-peter-attia-amid-epstein-revelations"
   },
   {
-    "score": 14,
-    "pubdate": "2026-02-23-19-09-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon is raising concerns to President Trump about an extended military campaign against Iran",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-02-23-19-11-32 +0000",
-    "source": "nyt",
-    "headline": "The European Union Hits Pause on Its U.S. Trade Deal",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-02-23-19-06-19 +0000",
-    "source": "nyt",
-    "headline": "BAFTAs Winners 2026: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’",
-    "link": "https://www.nytimes.com/2026/02/22/movies/baftas-2026.html"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-02-23-19-14-01 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Mexico on Edge After Military Operation Killed Cartel Boss",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-02-23-19-11-36 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho/heres-the-latest"
-  },
-  {
-    "score": 3,
-    "pubdate": "2026-02-23-19-09-00 +0000",
-    "source": "wsj",
-    "headline": "Pentagon Flags Risks of a Major Operation Against Iran",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-23-19-11-36 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho/heres-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-02-23-19-11-32 +0000",
-    "source": "nyt",
-    "headline": "The European Union Hits Pause on Its U.S. Trade Deal",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html"
+    "score": 13,
+    "pubdate": "2026-02-23-20-56-30 +0000",
+    "source": "nypost",
+    "headline": "NY comptroller candidate touts affordable housing record – despite working for accused slumlord",
+    "link": "https://nypost.com/2026/02/23/us-news/ny-comptroller-candidate-touts-affordable-housing-record-despite-working-for-accused-slumlord/"
   }
 ]

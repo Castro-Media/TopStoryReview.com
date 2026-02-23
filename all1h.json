@@ -1,80 +1,404 @@
 [
   {
-    "headline": "Live Updates: Mexico on Edge After Military Operation Killed Cartel Boss",
+    "headline": "Jersey City wasted $20m on  museum which has never been built",
+    "link": "https://nypost.com/2026/02/23/us-news/jersey-city-spent-20m-on-museum-which-has-never-been-built/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-21-02-36 +0000"
+  },
+  {
+    "headline": "Training for New ICE Agents Is ‘Deficient’ and ‘Broken,’ Whistle-Blower Says",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/ice-training-whistle-blower.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-21-02-05 +0000"
+  },
+  {
+    "headline": "Training for New ICE Agents Is ‘Deficient’ and ‘Broken,’ Whistle-Blower Says",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/ice-training-whistle-blower.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-21-02-05 +0000"
+  },
+  {
+    "headline": "Federal government seeking input to develop men's and boys' health strategy",
+    "link": "https://www.cbc.ca/news/politics/mens-health-federal-strategy-9.7102901?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-23-20-57-44 +0000"
+  },
+  {
+    "headline": "Walz appoints Shireen Gandhi to lead embattled Department of Human Services",
+    "link": "https://www.startribune.com/shireen-gandhi-minnesota-department-of-human-services/601586948",
+    "source": "startribune",
+    "pubdate": "2026-02-23-20-57-36 +0000"
+  },
+  {
+    "headline": "Live Updates: Mexico Remains on Edge After Killing of Cartel Boss Sparked Violence",
     "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
     "source": "nyt",
-    "pubdate": "2026-02-23-19-14-01 +0000"
+    "pubdate": "2026-02-23-20-57-31 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho/heres-the-latest",
+    "headline": "9/11 cancer survivor’s petition urges NYC to release all files after bombshell Ground Zero memo",
+    "link": "https://nypost.com/2026/02/23/us-news/petition-calls-for-nyc-to-release-all-files-on-9-11-after-bombshell-ground-zero-memo-exposed/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-57-28 +0000"
+  },
+  {
+    "headline": "NYC blizzard officially one of the top 10 biggest storms on record – and more snow is coming",
+    "link": "https://nypost.com/2026/02/23/us-news/nyc-blizzard-officially-one-of-the-top-10-biggest-storms-on-record-and-more-snow-is-coming/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-56-30 +0000"
+  },
+  {
+    "headline": "NY comptroller candidate touts affordable housing record – despite working for accused slumlord",
+    "link": "https://nypost.com/2026/02/23/us-news/ny-comptroller-candidate-touts-affordable-housing-record-despite-working-for-accused-slumlord/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-56-30 +0000"
+  },
+  {
+    "headline": "Inside the deadly raid to take out Mexico’s powerful cartel boss ‘El Mencho’ – and how the US helped",
+    "link": "https://nypost.com/2026/02/23/world-news/inside-the-deadly-raid-to-take-out-mexicos-powerful-cartel-boss-el-mencho/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-56-14 +0000"
+  },
+  {
+    "headline": "Videos Show How Violence Unfolded in Mexico After Killing of Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/mexico-violence-el-mencho-videos.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-19-11-36 +0000"
+    "pubdate": "2026-02-23-20-54-34 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho/heres-the-latest",
+    "headline": "Videos Show How Violence Unfolded in Mexico After Killing of Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/mexico-violence-el-mencho-videos.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-19-11-36 +0000"
+    "pubdate": "2026-02-23-20-54-34 +0000"
   },
   {
-    "headline": "The European Union Hits Pause on Its U.S. Trade Deal",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-19-11-32 +0000"
+    "headline": "More than 90 deaths this season: Are we seeing more avalanches?",
+    "link": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-20-54-20 +0000"
   },
   {
-    "headline": "The European Union Hits Pause on Its U.S. Trade Deal",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-19-11-32 +0000"
-  },
-  {
-    "headline": "Pentagon Flags Risks of a Major Operation Against Iran",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939",
+    "headline": "Severe Storm Intensifies in Northeast, Snarling Travel",
+    "link": "https://www.wsj.com/us-news/bomb-cyclone-intensifies-in-northeast-snarling-travel-5c2275e6",
     "source": "wsj",
-    "pubdate": "2026-02-23-19-09-00 +0000"
+    "pubdate": "2026-02-23-20-53-00 +0000"
   },
   {
-    "headline": "The Pentagon is raising concerns to President Trump about an extended military campaign against Iran",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939",
+    "headline": "Noise Pop Diary: Indie legend Christopher Owens returns, with a flamenco twist",
+    "link": "https://48hills.org/2026/02/noise-pop-diary-indie-legend-christopher-owens-returns-with-a-flamenco-twist/",
+    "source": "48hills",
+    "pubdate": "2026-02-23-20-51-59 +0000"
+  },
+  {
+    "headline": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+    "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-20-49-07 +0000"
+  },
+  {
+    "headline": "Treasury Yields Fall Amid Rising Uncertainty",
+    "link": "https://www.wsj.com/finance/eurozone-government-bond-yields-edge-lower-german-ifo-data-eyed-f6df2ce9?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-23-19-09-00 +0000"
+    "pubdate": "2026-02-23-20-49-00 +0000"
   },
   {
-    "headline": "EU Support for Ukraine Stumbles as Hungary Looks to Delay Aid",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-19-08-28 +0000"
+    "headline": "Former U.K. ambassador to U.S. arrested amid Epstein revelations",
+    "link": "https://www.washingtonpost.com/world/2026/02/23/mandelson-peter-arrest-epstein-ambassador/",
+    "source": "wapo",
+    "pubdate": "2026-02-23-20-47-51 +0000"
   },
   {
-    "headline": "EU Support for Ukraine Stumbles as Hungary Looks to Delay Aid",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-19-08-28 +0000"
+    "headline": "U.S. tells some of its diplomats and their families to leave Lebanon amid Iran tensions",
+    "link": "https://www.cbc.ca/news/world/us-diplomats-told-leave-lebanon-iran-tensions-9.7102925?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-23-20-45-00 +0000"
   },
   {
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html",
+    "headline": "France Summons U.S. Ambassador Over Comments on Activist’s Killing",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-19-06-42 +0000"
+    "pubdate": "2026-02-23-20-44-38 +0000"
   },
   {
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html",
+    "headline": "France Summons U.S. Ambassador Over Comments on Activist’s Killing",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-19-06-42 +0000"
+    "pubdate": "2026-02-23-20-44-38 +0000"
   },
   {
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html",
-    "source": "nyt",
-    "pubdate": "2026-02-23-19-06-42 +0000"
+    "headline": "Hugs and tears at ‘Angel Family’ ceremony as Trump pays tribute to victims of migrant crime",
+    "link": "https://nypost.com/2026/02/23/us-news/trump-honors-laken-riley-and-victims-of-migrant-crime-in-tearful-angel-family-day-ceremony/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-42-35 +0000"
   },
   {
-    "headline": "BAFTAs Winners 2026: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’",
-    "link": "https://www.nytimes.com/2026/02/22/movies/baftas-2026.html",
+    "headline": "Trio busted for killing BMW driver in NYC ambush robbery that went awry: cops",
+    "link": "https://nypost.com/2026/02/23/us-news/trio-busted-for-killing-bmw-driver-in-nyc-ambush-robbery-that-went-awry-cops/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-41-54 +0000"
+  },
+  {
+    "headline": "After Saks Bankruptcy, Richard Baker Says He Saved Luxury Department Stores",
+    "link": "https://www.nytimes.com/2026/02/23/business/richard-baker-saks-neiman-marcus-bankruptcy.html",
     "source": "nyt",
-    "pubdate": "2026-02-23-19-06-19 +0000"
+    "pubdate": "2026-02-23-20-40-13 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Fall Despite Blizzard",
+    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-price-falls-on-easing-supply-concerns-7288e92a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-20-40-00 +0000"
+  },
+  {
+    "headline": "Ex-Rep. Marc Molinaro making NY political comeback following Trump admin stint",
+    "link": "https://nypost.com/2026/02/23/us-news/ex-rep-marc-molinaro-making-ny-political-comeback-following-trump-admin-stint/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-39-58 +0000"
+  },
+  {
+    "headline": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-39-57 +0000"
+  },
+  {
+    "headline": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-39-57 +0000"
+  },
+  {
+    "headline": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-39-57 +0000"
+  },
+  {
+    "headline": "CBS News cuts ties with longevity expert Peter Attia amid Epstein revelations",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-23/cbs-news-cuts-ties-with-peter-attia-amid-epstein-revelations",
+    "source": "latimes",
+    "pubdate": "2026-02-23-20-38-35 +0000"
+  },
+  {
+    "headline": "Federal agents block faith leaders from ministering to detained immigrants in Minnesota, lawsuit alleges",
+    "link": "https://www.startribune.com/federal-agents-block-faith-leaders-from-ministering-to-detained-immigrants-in-minnesota-lawsuit-alleges/601587166",
+    "source": "startribune",
+    "pubdate": "2026-02-23-20-37-57 +0000"
+  },
+  {
+    "headline": "Thousands of Flights Are Canceled as Storm Slams Northeast Airports",
+    "link": "https://www.nytimes.com/2026/02/23/business/flights-canceled-new-york-new-boston-blizzard.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-36-54 +0000"
+  },
+  {
+    "headline": "Ambulance supervisor in Minnesota accused of sexually assaulting employee, fleeing the state",
+    "link": "https://www.startribune.com/ambulance-supervisor-in-minnesota-accused-of-sexually-assaulting-employee-fleeing-the-state/601587300",
+    "source": "startribune",
+    "pubdate": "2026-02-23-20-36-03 +0000"
+  },
+  {
+    "headline": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-35-58 +0000"
+  },
+  {
+    "headline": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-35-58 +0000"
+  },
+  {
+    "headline": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-35-58 +0000"
+  },
+  {
+    "headline": "What Travelers Need to Know as Cartel Violence Rattles Mexico",
+    "link": "https://www.nytimes.com/2026/02/23/travel/cartel-violence-mexico-el-mencho-travel-flights.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-35-45 +0000"
+  },
+  {
+    "headline": "What to Know About the Killing of ‘El Mencho’",
+    "link": "https://www.nytimes.com/2026/02/22/world/americas/el-mencho-mexico-what-we-know.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-35-29 +0000"
+  },
+  {
+    "headline": "What to Know About the Killing of ‘El Mencho’",
+    "link": "https://www.nytimes.com/2026/02/22/world/americas/el-mencho-mexico-what-we-know.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-35-29 +0000"
+  },
+  {
+    "headline": "What’s Happened Since the Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/supreme-court-trump-tariffs-updates.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-32-42 +0000"
+  },
+  {
+    "headline": "Lord Mandelson arrest - how did we get here?",
+    "link": "https://www.bbc.com/news/articles/cjd9yelvx7jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-20-26-58 +0000"
+  },
+  {
+    "headline": "Former DJ Gets Prison Sentence for Scamming World’s Top Airlines",
+    "link": "https://www.wsj.com/business/airlines/former-dj-gets-prison-sentence-for-scamming-worlds-top-airlines-57b43b5a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-23-20-23-00 +0000"
+  },
+  {
+    "headline": "Facing Angry ‘MAHA Moms,’ Kennedy Defends Trump’s Pesticide Order",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/facing-angry-maha-moms-kennedy-defends-trumps-pesticide-order.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-22-49 +0000"
+  },
+  {
+    "headline": "Facing Angry ‘MAHA Moms,’ Kennedy Defends Trump’s Pesticide Order",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/facing-angry-maha-moms-kennedy-defends-trumps-pesticide-order.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-22-49 +0000"
+  },
+  {
+    "headline": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
+    "link": "https://www.bbc.com/news/articles/c4gqkg87293o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-23-20-21-41 +0000"
+  },
+  {
+    "headline": "Longevity Doctor Peter Attia Is Out at CBS News After Epstein Revelations",
+    "link": "https://www.wsj.com/business/media/longevity-doctor-peter-attia-is-out-at-cbs-news-after-epstein-revelations-ccfbd4b9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-23-20-21-00 +0000"
+  },
+  {
+    "headline": "How Minnesota’s athletes fared at the 2026 Winter Olympics",
+    "link": "https://www.startribune.com/how-minnesotas-athletes-fared-at-the-2026-winter-olympics/601572678",
+    "source": "startribune",
+    "pubdate": "2026-02-23-20-20-50 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-19-45 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-19-45 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-19-45 +0000"
+  },
+  {
+    "headline": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/supreme-court-cuba-cruise-docks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-19-45 +0000"
+  },
+  {
+    "headline": "Who Is Peter Mandelson, the UK Ex-Ambassador Fired Over His Epstein Ties?",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/who-is-peter-mandelson.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-19-08 +0000"
+  },
+  {
+    "headline": "Who Is Peter Mandelson, the UK Ex-Ambassador Fired Over His Epstein Ties?",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/who-is-peter-mandelson.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-19-08 +0000"
+  },
+  {
+    "headline": "Texas Officials Share Blame in Camp Mystic Deaths, New Lawsuit Claims",
+    "link": "https://www.nytimes.com/2026/02/23/us/camp-mystic-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-18-43 +0000"
+  },
+  {
+    "headline": "Supreme Court to Weigh Oil-Industry Effort to End a Major Climate Suit",
+    "link": "https://www.nytimes.com/2026/02/23/climate/supreme-court-boulder-climate-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-18-03 +0000"
+  },
+  {
+    "headline": "Netflix’s Sarandos shrugs off Trump’s demand to fire ex-Biden official Susan Rice: ‘It’s not a political deal’",
+    "link": "https://nypost.com/2026/02/23/business/netflixs-sarandos-shrugs-off-trumps-demand-to-fire-ex-biden-official-susan-rice-its-not-a-political-deal/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-15-30 +0000"
+  },
+  {
+    "headline": "Under the Stars: Carlos Niño & Friends deliver a glad-to-be-alive moment",
+    "link": "https://48hills.org/2026/02/under-the-stars-carlos-nino-friends-deliver-a-glad-to-be-alive-moment/",
+    "source": "48hills",
+    "pubdate": "2026-02-23-20-15-26 +0000"
+  },
+  {
+    "headline": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
+    "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-15-13 +0000"
+  },
+  {
+    "headline": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
+    "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-15-13 +0000"
+  },
+  {
+    "headline": "NDP's lone Quebec MP says he's considering jump to provincial politics",
+    "link": "https://www.cbc.ca/news/politics/alexandre-boulerice-quebec-politics-ndp-9.7102919?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-23-20-15-04 +0000"
+  },
+  {
+    "headline": "GOP lawyer enters race to replace Rep. Jerry Nadler in deeply blue NYC district",
+    "link": "https://nypost.com/2026/02/23/us-news/gop-lawyer-enters-race-to-replace-rep-jerry-nadler-in-deeply-blue-nyc-district/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-12-56 +0000"
+  },
+  {
+    "headline": "GOP lawyer enters race to replace Rep. Jerry Nadler in deeply blue NYC district",
+    "link": "https://nypost.com/2026/02/23/us-news/gop-lawyer-enters-race-to-replace-rep-jerry-nadler-in-deeply-blue-nyc-district/",
+    "source": "nypost",
+    "pubdate": "2026-02-23-20-12-56 +0000"
+  },
+  {
+    "headline": "U.S. Hits Another Boat in the Caribbean, Killing 3",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/boat-strike-carribean-us-deaths.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-11-39 +0000"
+  },
+  {
+    "headline": "U.S. Hits Another Boat in the Caribbean, Killing 3",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/boat-strike-carribean-us-deaths.html",
+    "source": "nyt",
+    "pubdate": "2026-02-23-20-11-39 +0000"
+  },
+  {
+    "headline": "Anxiety Builds as Iranians Brace for Looming War With U.S.",
+    "link": "https://www.wsj.com/world/middle-east/anxiety-builds-as-iranians-brace-for-looming-war-with-u-s-13470379",
+    "source": "wsj",
+    "pubdate": "2026-02-23-20-09-00 +0000"
+  },
+  {
+    "headline": "Minnesotans stuck in Puerto Vallarta describe scene in city rocked by cartel violence",
+    "link": "https://www.startribune.com/news-puerto-vallarta-flights/601587140",
+    "source": "startribune",
+    "pubdate": "2026-02-23-20-08-13 +0000"
+  },
+  {
+    "headline": "Oil Futures Settle Lower As Iran Tensions Simmer",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospect-that-u-s-strike-on-iran-might-be-limited-10835b8a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-23-20-08-00 +0000"
   }
 ]
