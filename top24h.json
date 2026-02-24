@@ -1,38 +1,38 @@
 [
   {
-    "score": 215,
+    "score": 216,
     "pubdate": "2026-02-23-21-21-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court ruling on President Trump’s tariffs has left foreign officials and exporters scrambling to figure out whether to rewire supply chains and reopen trade deals",
     "link": "https://www.wsj.com/economy/trade/in-trump-era-the-only-sure-thing-for-businesses-and-governments-is-uncertainty-d28d21e1"
   },
   {
-    "score": 167,
+    "score": 160,
     "pubdate": "2026-02-23-14-17-01 +0000",
     "source": "nypost",
     "headline": "Expert’s chilling warning after killing of cartel boss ‘El Mencho’ sparks violence across Mexico",
     "link": "https://nypost.com/2026/02/23/world-news/experts-chilling-warning-after-killing-of-cartel-boss-el-mencho-sparks-violence-across-mexico/"
   },
   {
-    "score": 114,
+    "score": 113,
     "pubdate": "2026-02-23-17-28-59 +0000",
     "source": "nypost",
     "headline": "Ex-British Ambassador to US Peter Mandelson arrested in Epstein probe — in case similar to ex-Prince Andrew",
     "link": "https://nypost.com/2026/02/23/world-news/ex-british-ambassador-to-us-peter-mandelson-arrested-in-epstein-probe-in-similar-case-to-ex-prince-andrew/"
   },
   {
-    "score": 79,
-    "pubdate": "2026-02-23-21-35-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon is raising concerns to Trump about an extended military campaign against Iran, with Gen. Dan Caine, the chairman of the Joint Chiefs of Staff among those voicing warnings",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
-  },
-  {
-    "score": 78,
+    "score": 80,
     "pubdate": "2026-02-24-02-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump will use his State of the Union address to sell the public on the economy and unveil new measures meant to lower costs, ahead of the midterm elections later this year",
     "link": "https://www.wsj.com/politics/policy/trump-to-sell-the-economy-during-state-of-the-union-address-545483f1"
+  },
+  {
+    "score": 77,
+    "pubdate": "2026-02-23-21-35-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon is raising concerns to Trump about an extended military campaign against Iran, with Gen. Dan Caine, the chairman of the Joint Chiefs of Staff among those voicing warnings",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
   },
   {
     "score": 60,
@@ -49,14 +49,7 @@
     "link": "https://www.latimes.com/politics/story/2026-02-23/ice-whistleblower-documents-reveal-deep-cuts-to-training-program"
   },
   {
-    "score": 54,
-    "pubdate": "2026-02-24-06-04-00 +0000",
-    "source": "wsj",
-    "headline": "China banned the export of rare earths and other goods with potential military uses to several Japanese firms, escalating its pressure campaign against Tokyo over remarks its prime minister made about Taiwan",
-    "link": "https://www.wsj.com/economy/global/china-slaps-export-controls-on-japanese-entities-tied-to-military-cdaf0bd9"
-  },
-  {
-    "score": 52,
+    "score": 53,
     "pubdate": "2026-02-23-15-34-59 +0000",
     "source": "latimes",
     "headline": "Nick Reiner pleads not guilty to murder in killings of parents, Rob and Michele Reiner",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Dem lawmaker claims Kash Patel ‘does not love America’ when asked about FBI head cheering Team USA at Olympics",
     "link": "https://nypost.com/2026/02/23/us-news/dem-lawmaker-claims-kash-patel-does-not-love-america-when-asked-about-fbi-head-cheering-team-usa-at-olympics/"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-02-23-18-10-32 +0000",
+    "source": "bbc",
+    "headline": "Watch: US TV reporters battle snowy conditions as a major storm hits east coast",
+    "link": "https://www.bbc.com/news/videos/cddn39zdnjgo?at_medium=RSS&at_campaign=rss"
   }
 ]
