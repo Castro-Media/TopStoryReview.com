@@ -1,6 +1,6 @@
 [
   {
-    "score": 205,
+    "score": 212,
     "pubdate": "2026-02-23-21-21-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court ruling on President Trump’s tariffs has left foreign officials and exporters scrambling to figure out whether to rewire supply chains and reopen trade deals",
@@ -14,42 +14,35 @@
     "link": "https://nypost.com/2026/02/23/world-news/experts-chilling-warning-after-killing-of-cartel-boss-el-mencho-sparks-violence-across-mexico/"
   },
   {
-    "score": 111,
+    "score": 113,
     "pubdate": "2026-02-23-17-28-59 +0000",
     "source": "nypost",
     "headline": "Ex-British Ambassador to US Peter Mandelson arrested in Epstein probe — in case similar to ex-Prince Andrew",
     "link": "https://nypost.com/2026/02/23/world-news/ex-british-ambassador-to-us-peter-mandelson-arrested-in-epstein-probe-in-similar-case-to-ex-prince-andrew/"
   },
   {
-    "score": 75,
-    "pubdate": "2026-02-23-22-17-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Tony Gonzales of Texas faced calls from Republican colleagues to drop his re-election bid over an alleged affair with a staff member, after new text messages of a sexual nature surfaced",
-    "link": "https://www.wsj.com/politics/policy/tony-gonzales-text-messages-pressure-9dea8775"
-  },
-  {
-    "score": 69,
+    "score": 80,
     "pubdate": "2026-02-23-21-35-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon is raising concerns to Trump about an extended military campaign against Iran, with Gen. Dan Caine, the chairman of the Joint Chiefs of Staff among those voicing warnings",
     "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
   },
   {
-    "score": 59,
-    "pubdate": "2026-02-23-19-06-42 +0000",
-    "source": "nyt",
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
-  },
-  {
-    "score": 56,
+    "score": 75,
     "pubdate": "2026-02-24-02-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump will use his State of the Union address to sell the public on the economy and unveil new measures meant to lower costs, ahead of the midterm elections later this year",
     "link": "https://www.wsj.com/politics/policy/trump-to-sell-the-economy-during-state-of-the-union-address-545483f1"
   },
   {
-    "score": 53,
+    "score": 61,
+    "pubdate": "2026-02-23-19-06-42 +0000",
+    "source": "nyt",
+    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
+  },
+  {
+    "score": 55,
     "pubdate": "2026-02-23-23-33-00 +0000",
     "source": "latimes",
     "headline": "As ICE scales up hiring, whistleblower documents reveal deep cuts to training program",
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Nick Reiner pleads not guilty to murder in killings of parents, Rob and Michele Reiner",
     "link": "https://www.latimes.com/california/story/2026-02-23/nick-reiner-murder-charges-arraignment-hearing"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-02-23-22-17-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Tony Gonzales of Texas faced calls from Republican colleagues to drop his re-election bid over an alleged affair with a staff member, after new text messages of a sexual nature surfaced",
+    "link": "https://www.wsj.com/politics/policy/tony-gonzales-text-messages-pressure-9dea8775"
   }
 ]
