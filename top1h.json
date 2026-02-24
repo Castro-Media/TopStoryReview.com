@@ -1,72 +1,37 @@
 [
   {
-    "score": 48,
-    "pubdate": "2026-02-24-16-59-59 +0000",
-    "source": "nypost",
-    "headline": "Trump weighs new batch of national security tariffs after Supreme Court ruling: report",
-    "link": "https://nypost.com/2026/02/24/business/trump-weighs-new-batch-of-national-security-tariffs-after-supreme-court-ruling-report/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-02-24-17-02-19 +0000",
-    "source": "nyt",
-    "headline": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
-    "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-02-24-16-55-45 +0000",
-    "source": "nypost",
-    "headline": "Secret Service, TSA and FEMA workers going unpaid amid DHS shutdown: ‘Bad policy & bad politics’",
-    "link": "https://nypost.com/2026/02/24/us-news/dhs-shutdown-squeezes-secret-service-tsa-and-fema-bad-policy-amp-bad-politics/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-02-24-16-23-30 +0000",
-    "source": "nyt",
-    "headline": "Trump Officials Seek to ‘Reimagine’ Unemployment Benefits, Targeting Fraud",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-unemployment-benefits-fraud.html"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-02-24-16-43-46 +0000",
-    "source": "nyt",
-    "headline": "Is It Safe to Travel to Mexico Right Now, Given the Cartel Violence?",
-    "link": "https://www.nytimes.com/2026/02/24/travel/mexico-tourism-safety-spring-break.html"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-02-24-16-57-08 +0000",
-    "source": "nyt",
-    "headline": "Russia Moves Closer to Banning Telegram App, Saying It Foments Terrorism",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/russia-telegram-pavel-durov-terrorism.html"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-02-24-16-55-42 +0000",
-    "source": "nypost",
-    "headline": "Trump to push Congress on health care, brag about affordability wins in State of the Union address",
-    "link": "https://nypost.com/2026/02/24/us-news/trump-to-push-congress-on-healthcare-brag-about-affordability-wins-in-state-of-the-union-address/"
-  },
-  {
     "score": 19,
-    "pubdate": "2026-02-24-16-48-18 +0000",
-    "source": "nypost",
-    "headline": "Ivanka Trump’s father-in-law Charles Kushner in hot water with the French government",
-    "link": "https://nypost.com/2026/02/24/us-news/ivanka-trumps-father-in-law-charles-kushner-in-hot-water-with-the-french-government/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-02-24-17-07-00 +0000",
-    "source": "wsj",
-    "headline": "It Was Paradise for American Retirees—Until It Became the Center of a Drug War",
-    "link": "https://www.wsj.com/us-news/puerto-vallarta-american-retirees-eb77f91f"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-02-24-16-52-07 +0000",
+    "pubdate": "2026-02-24-17-11-23 +0000",
     "source": "nyt",
-    "headline": "Democrats Counter Trump With Their Own Plan to Limit Wall Street Landlords",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-senate-democrats-single-family-rentals-homes.html"
+    "headline": "Trump’s New Tariffs Could Face Legal Challenges",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-tariffs-new-legal-challenges.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-02-24-17-13-29 +0000",
+    "source": "nyt",
+    "headline": "You Want a Lot of Iced Coffee? Dunkin’ Has a Bucket for You.",
+    "link": "https://www.nytimes.com/2026/02/24/us/dunkin-donuts-coffee-bucket.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-24-17-13-54 +0000",
+    "source": "cbc",
+    "headline": "Ottawa spending $3.7B to build thousands of new military housing units",
+    "link": "https://www.cbc.ca/news/politics/military-housing-funding-9.7104024?cmp=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-24-17-11-23 +0000",
+    "source": "nyt",
+    "headline": "Trump’s New Tariffs Could Face Legal Challenges",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-tariffs-new-legal-challenges.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-24-17-11-23 +0000",
+    "source": "nyt",
+    "headline": "Trump’s New Tariffs Could Face Legal Challenges",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-tariffs-new-legal-challenges.html"
   }
 ]
