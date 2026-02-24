@@ -1,31 +1,31 @@
 [
   {
-    "score": 199,
+    "score": 197,
     "pubdate": "2026-02-24-02-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump will use his State of the Union address to sell the public on the economy and unveil new measures meant to lower costs, ahead of the midterm elections later this year",
     "link": "https://www.wsj.com/politics/policy/trump-to-sell-the-economy-during-state-of-the-union-address-545483f1"
   },
   {
-    "score": 154,
+    "score": 153,
     "pubdate": "2026-02-23-14-17-01 +0000",
     "source": "nypost",
     "headline": "Expert’s chilling warning after killing of cartel boss ‘El Mencho’ sparks violence across Mexico",
     "link": "https://nypost.com/2026/02/23/world-news/experts-chilling-warning-after-killing-of-cartel-boss-el-mencho-sparks-violence-across-mexico/"
   },
   {
-    "score": 110,
+    "score": 106,
     "pubdate": "2026-02-23-17-28-59 +0000",
     "source": "nypost",
     "headline": "Ex-British Ambassador to US Peter Mandelson arrested in Epstein probe — in case similar to ex-Prince Andrew",
     "link": "https://nypost.com/2026/02/23/world-news/ex-british-ambassador-to-us-peter-mandelson-arrested-in-epstein-probe-in-similar-case-to-ex-prince-andrew/"
   },
   {
-    "score": 107,
-    "pubdate": "2026-02-23-21-21-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court ruling on President Trump’s tariffs has left foreign officials and exporters scrambling to figure out whether to rewire supply chains and reopen trade deals",
-    "link": "https://www.wsj.com/economy/trade/in-trump-era-the-only-sure-thing-for-businesses-and-governments-is-uncertainty-d28d21e1"
+    "score": 103,
+    "pubdate": "2026-02-23-19-06-42 +0000",
+    "source": "nyt",
+    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
   },
   {
     "score": 81,
@@ -35,25 +35,11 @@
     "link": "https://www.wsj.com/politics/national-security/pentagon-flags-risks-of-a-major-operation-against-iran-1c7e9939"
   },
   {
-    "score": 64,
-    "pubdate": "2026-02-23-19-06-42 +0000",
+    "score": 65,
+    "pubdate": "2026-02-23-22-27-40 +0000",
     "source": "nyt",
-    "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-02-23-23-33-00 +0000",
-    "source": "latimes",
-    "headline": "As ICE scales up hiring, whistleblower documents reveal deep cuts to training program",
-    "link": "https://www.latimes.com/politics/story/2026-02-23/ice-whistleblower-documents-reveal-deep-cuts-to-training-program"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-02-23-15-34-59 +0000",
-    "source": "latimes",
-    "headline": "Nick Reiner pleads not guilty to murder in killings of parents, Rob and Michele Reiner",
-    "link": "https://www.latimes.com/california/story/2026-02-23/nick-reiner-murder-charges-arraignment-hearing"
+    "headline": "Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html"
   },
   {
     "score": 51,
@@ -63,10 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/tony-gonzales-text-messages-pressure-9dea8775"
   },
   {
+    "score": 50,
+    "pubdate": "2026-02-23-15-34-59 +0000",
+    "source": "latimes",
+    "headline": "Nick Reiner pleads not guilty to murder in killings of parents, Rob and Michele Reiner",
+    "link": "https://www.latimes.com/california/story/2026-02-23/nick-reiner-murder-charges-arraignment-hearing"
+  },
+  {
     "score": 48,
-    "pubdate": "2026-02-23-18-10-32 +0000",
-    "source": "bbc",
-    "headline": "Watch: US TV reporters battle snowy conditions as a major storm hits east coast",
-    "link": "https://www.bbc.com/news/videos/cddn39zdnjgo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-02-24-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Tuesday’s State of the Union address gives President Trump a big platform to tout the economy’s performance on his watch. He’s given himself a high grade, but the report card is mixed.",
+    "link": "https://www.wsj.com/economy/sizing-up-the-u-s-economy-in-trumps-first-year-07a68adf"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-02-23-20-38-35 +0000",
+    "source": "latimes",
+    "headline": "CBS News cuts ties with longevity expert Peter Attia amid Epstein revelations",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-23/cbs-news-cuts-ties-with-peter-attia-amid-epstein-revelations"
   }
 ]
