@@ -1,170 +1,188 @@
 [
   {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-c75a53f4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-24-11-08-00 +0000"
+  },
+  {
+    "headline": "Home Depot Profit Falls As Home Improvement Downturn Continues",
+    "link": "https://www.wsj.com/business/retail/home-depot-profit-falls-as-home-improvement-downturn-continues-b05d6362?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-24-11-06-00 +0000"
+  },
+  {
+    "headline": "Who is Peter Mandelson?",
+    "link": "https://www.bbc.com/news/articles/c3edlg5w855o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-11-04-48 +0000"
+  },
+  {
+    "headline": "Trump’s newest tariffs could face legal challenge, though time is short",
+    "link": "https://www.washingtonpost.com/business/2026/02/24/tariff-challenge-trade-law/",
+    "source": "wapo",
+    "pubdate": "2026-02-24-11-00-20 +0000"
+  },
+  {
+    "headline": "Putin’s freezing campaign backfires spectacularly — only hardening Ukrainian resolve 4 years into war",
+    "link": "https://nypost.com/2026/02/24/world-news/putins-freezing-campaign-backfires-spectacularly-only-hardening-ukrainian-resolve-4-years-into-war/",
+    "source": "nypost",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Long Island granddad peeved after PB4WEGO license plate revoked by DMV — now he’s asking governor to step in",
+    "link": "https://nypost.com/2026/02/24/us-news/long-island-granddad-peeved-after-pb4wego-license-plate-revoked-by-dmv/",
+    "source": "nypost",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Putin’s freezing campaign backfires spectacularly — only hardening Ukrainian resolve 4 years into war",
+    "link": "https://nypost.com/2026/02/24/world-news/putins-freezing-campaign-backfires-spectacularly-only-hardening-ukrainian-resolve-4-years-into-war/",
+    "source": "nypost",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Roku’s New Ad Deals and Cost Cuts Help It End a Three-Year Profit Slide",
+    "link": "https://www.wsj.com/articles/rokus-new-ad-deals-and-cost-cuts-help-it-end-a-three-year-profit-slide-0c5678ad?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Labor secretary’s spouse not charged but remains banned from agency",
+    "link": "https://www.washingtonpost.com/business/2026/02/24/labor-secretary-husband-sexual-assault-allegations/",
+    "source": "wapo",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Putin’s freezing campaign backfires spectacularly — only hardening Ukrainian resolve 4 years into war",
+    "link": "https://nypost.com/2026/02/24/world-news/putins-freezing-campaign-backfires-spectacularly-only-hardening-ukrainian-resolve-4-years-into-war/",
+    "source": "nypost",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Singapore Airlines Posts Record Revenue on Strong Demand, Net Profit Slumps",
+    "link": "https://www.wsj.com/business/earnings/singapore-airlines-posts-record-revenue-on-strong-demand-net-profit-slumps-11f52ca4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-24-10-59-00 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-30a8bbb4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-24-10-52-00 +0000"
+  },
+  {
+    "headline": "Moscow rail hub explosion was suicide bomb, Russian officials say",
+    "link": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-10-49-52 +0000"
+  },
+  {
+    "headline": "Moscow rail hub explosion was suicide bomb, Russian officials say",
+    "link": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-10-49-52 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-6bef1cf8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-24-10-49-00 +0000"
+  },
+  {
+    "headline": "Police release video of suspect in murder of millionaire philanthropist at DC-area assisted living home",
+    "link": "https://nypost.com/2026/02/24/us-news/police-release-video-of-suspect-in-murder-of-millionaire-philanthropist-robert-fuller-jr-at-dc-area-assisted-living-home/",
+    "source": "nypost",
+    "pubdate": "2026-02-24-10-44-55 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9cfa4c95?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-24-10-41-00 +0000"
+  },
+  {
+    "headline": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
+    "link": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-10-39-39 +0000"
+  },
+  {
+    "headline": "Trump to address a changed America at vital moment for his presidency",
+    "link": "https://www.bbc.com/news/articles/cp859d8rn78o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-10-38-36 +0000"
+  },
+  {
+    "headline": "Trump's new tariff comes into effect at lower than expected rate",
+    "link": "https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-10-38-28 +0000"
+  },
+  {
+    "headline": "Trump's new tariff comes into effect at lower than expected rate",
+    "link": "https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-10-38-28 +0000"
+  },
+  {
+    "headline": "How Russia Put Its Future at Risk by Remaking Its Economy for War",
+    "link": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html",
+    "source": "nyt",
+    "pubdate": "2026-02-24-10-37-10 +0000"
+  },
+  {
+    "headline": "How Russia Put Its Future at Risk by Remaking Its Economy for War",
+    "link": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html",
+    "source": "nyt",
+    "pubdate": "2026-02-24-10-37-10 +0000"
+  },
+  {
+    "headline": "What to know about Trump's State of the Union address",
+    "link": "https://www.bbc.com/news/articles/c3v79dz99eko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-24-10-36-04 +0000"
+  },
+  {
+    "headline": "China Amps Up Pressure on Japan With Restrictions on Exports",
+    "link": "https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html",
+    "source": "nyt",
+    "pubdate": "2026-02-24-10-31-48 +0000"
+  },
+  {
+    "headline": "China Amps Up Pressure on Japan With Restrictions on Exports",
+    "link": "https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html",
+    "source": "nyt",
+    "pubdate": "2026-02-24-10-31-48 +0000"
+  },
+  {
+    "headline": "The Luxury Resale Market Is Booming. Brands Are Struggling to Cash In.",
+    "link": "https://www.wsj.com/business/retail/the-luxury-resale-market-is-booming-brands-are-struggling-to-cash-in-e614ed4d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-24-10-30-00 +0000"
+  },
+  {
+    "headline": "The Luxury Resale Market Is Booming. Brands Are Struggling to Cash In.",
+    "link": "https://www.wsj.com/business/retail/the-luxury-resale-market-is-booming-brands-are-struggling-to-cash-in-e614ed4d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-24-10-30-00 +0000"
+  },
+  {
+    "headline": "Tuesday’s State of the Union address gives President Trump a big platform to tout the economy’s performance on his watch. He’s given himself a high grade, but the report card is mixed.",
+    "link": "https://www.wsj.com/economy/sizing-up-the-u-s-economy-in-trumps-first-year-07a68adf",
+    "source": "wsj",
+    "pubdate": "2026-02-24-10-30-00 +0000"
+  },
+  {
     "headline": "Russell Brand Pleads Not Guilty to Further Rape and Sexual Assault Charges",
     "link": "https://www.nytimes.com/2026/02/24/movies/russell-brand-court-rape-charges.html",
     "source": "nyt",
-    "pubdate": "2026-02-24-10-07-20 +0000"
+    "pubdate": "2026-02-24-10-27-42 +0000"
   },
   {
-    "headline": "Record Snowfall Slams New England and Leaves New York City Snarled",
-    "link": "https://www.nytimes.com/2026/02/24/us/record-snowfall-slams-new-england-and-leaves-new-york-city-snarled.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-04-33 +0000"
-  },
-  {
-    "headline": "Is It Safe to Travel to Mexico Right Now, Given the Cartel Violence?",
-    "link": "https://www.nytimes.com/2026/02/24/travel/mexico-tourism-safety-spring-break.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-04-22 +0000"
-  },
-  {
-    "headline": "Is It Safe to Travel to Mexico Right Now, Given the Cartel Violence?",
-    "link": "https://www.nytimes.com/2026/02/24/travel/mexico-tourism-safety-spring-break.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-04-22 +0000"
-  },
-  {
-    "headline": "State of the Union May Be a Trial for ‘Barely Invited’ Justices",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/supreme-court-state-of-the-union.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-04-16 +0000"
-  },
-  {
-    "headline": "State of the Union May Be a Trial for ‘Barely Invited’ Justices",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/supreme-court-state-of-the-union.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-04-16 +0000"
-  },
-  {
-    "headline": "Trump, Bruised and Unpopular, Turns to State of the Union for a Reset",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-popularity-agenda-state-of-the-union.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-04-11 +0000"
-  },
-  {
-    "headline": "Trump, Bruised and Unpopular, Turns to State of the Union for a Reset",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-popularity-agenda-state-of-the-union.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-04-11 +0000"
-  },
-  {
-    "headline": "9 Accused of Antifa Ties After a Violent ICE Protest Face Trial in Texas",
-    "link": "https://www.nytimes.com/2026/02/24/us/antifa-ice-protest-trial-texas.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-03-04 +0000"
-  },
-  {
-    "headline": "Ahead of State of the Union, Cracks Appear in Trump Coalition",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-state-of-the-union-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-02-45 +0000"
-  },
-  {
-    "headline": "Ahead of State of the Union, Cracks Appear in Trump Coalition",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-state-of-the-union-pennsylvania.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-02-45 +0000"
-  },
-  {
-    "headline": "How Bookbinders Helped the Nazis Track Holocaust Victims",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/nazi-germany-bookbinders.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-02-33 +0000"
-  },
-  {
-    "headline": "How Bookbinders Helped the Nazis Track Holocaust Victims",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/nazi-germany-bookbinders.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-02-33 +0000"
-  },
-  {
-    "headline": "Trump State of the Union Speech 2026: How to Watch, Time and Attendees",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-state-of-union-watch-time-stream.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-02-26 +0000"
-  },
-  {
-    "headline": "Trump State of the Union Speech 2026: How to Watch, Time and Attendees",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-state-of-union-watch-time-stream.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-02-26 +0000"
-  },
-  {
-    "headline": "Americans Flock to Japan’s Ski Country for Good Snow and Delicious Food",
-    "link": "https://www.nytimes.com/2026/02/24/travel/skiing-hokkaido-japan.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-00-39 +0000"
-  },
-  {
-    "headline": "I.R.S. Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-    "link": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-00-35 +0000"
-  },
-  {
-    "headline": "Satellite imagery shows rapid increase of U.S. military planes near Iran",
-    "link": "https://www.washingtonpost.com/investigations/2026/02/24/united-states-iran-buildup/",
-    "source": "wapo",
-    "pubdate": "2026-02-24-10-00-27 +0000"
-  },
-  {
-    "headline": "Satellite imagery shows rapid increase of U.S. military planes near Iran",
-    "link": "https://www.washingtonpost.com/investigations/2026/02/24/united-states-iran-buildup/",
-    "source": "wapo",
-    "pubdate": "2026-02-24-10-00-27 +0000"
-  },
-  {
-    "headline": "How the Flood Fractured the Tightknit Camp Mystic Community",
-    "link": "https://www.nytimes.com/2026/02/24/us/camp-mystic.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-10-00-24 +0000"
-  },
-  {
-    "headline": "U.S. Futures Edge Up, European Equities Fall as New Tariffs Kick In",
-    "link": "https://www.wsj.com/finance/u-s-futures-edge-up-european-equities-fall-as-new-tariffs-kick-in-ab00ec7a?mod=rss_markets_main",
+    "headline": "Japanese Yen Falls as Report Dampens BOJ Rate-Rise Bets",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-amid-lingering-u-s-iran-tensions-3749b2a7?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-02-24-09-54-00 +0000"
-  },
-  {
-    "headline": "How Russia Put Its Future at Risk by Remaking Its Economy for War",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-09-47-22 +0000"
-  },
-  {
-    "headline": "How Russia Put Its Future at Risk by Remaking Its Economy for War",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-09-47-22 +0000"
-  },
-  {
-    "headline": "Bar for Another Rate Cut is High, Philippine Central Bank Governor Says",
-    "link": "https://www.wsj.com/articles/bar-for-another-rate-cut-is-high-philippine-central-bank-governor-says-32ee05ed",
-    "source": "wsj",
-    "pubdate": "2026-02-24-09-42-00 +0000"
-  },
-  {
-    "headline": "Robert Carradine, Lizzie Maguire and Revenge of the Nerds star, dies aged 71",
-    "link": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-24-09-34-31 +0000"
-  },
-  {
-    "headline": "Lord Mandelson released on bail after arrest on suspicion of misconduct in public office",
-    "link": "https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-24-09-34-21 +0000"
-  },
-  {
-    "headline": "ConvaTec Leads FTSE 100 Gainers on Higher Revenue, Raised Outlook",
-    "link": "https://www.wsj.com/business/convatec-leads-ftse-100-gainers-on-higher-revenue-raised-outlook-ac8a904e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-24-09-34-00 +0000"
-  },
-  {
-    "headline": "Zelensky marks war anniversary vowing to fight on, says Putin ‘has not achieved his goals’",
-    "link": "https://nypost.com/2026/02/24/world-news/zelensky-marks-war-anniversary-vowing-to-fight-on-says-putin-has-not-achieved-his-goals/",
-    "source": "nypost",
-    "pubdate": "2026-02-24-09-28-46 +0000"
+    "pubdate": "2026-02-24-10-11-00 +0000"
   }
 ]
