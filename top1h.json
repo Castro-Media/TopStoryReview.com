@@ -1,37 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-02-25-07-09-09 +0000",
-    "source": "nyt",
-    "headline": "‘Stand Up’: With One Maneuver, Trump Tries to Box In Democrats",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-state-of-the-union-scene.html"
+    "score": 29,
+    "pubdate": "2026-02-25-08-59-14 +0000",
+    "source": "nypost",
+    "headline": "Virginia Dem Gov. Abigail Spanberger delivers response to Trump’s State of the Union address",
+    "link": "https://nypost.com/2026/02/25/us-news/virginia-dem-gov-abigail-spanberger-delivers-response-to-trumps-state-of-the-union-address/"
   },
   {
-    "score": 14,
-    "pubdate": "2026-02-25-07-10-50 +0000",
+    "score": 20,
+    "pubdate": "2026-02-25-08-13-42 +0000",
     "source": "bbc",
-    "headline": "Typical household energy bills to fall by £117 a year in April",
-    "link": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss"
+    "headline": "Chinese dance group's tour triggers bomb threat against Australian PM",
+    "link": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2026-02-25-07-08-00 +0000",
+    "score": 19,
+    "pubdate": "2026-02-25-08-55-55 +0000",
+    "source": "bbc",
+    "headline": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
+    "link": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-25-08-11-23 +0000",
+    "source": "nypost",
+    "headline": "Viral video shows Texas Whataburger workers beat unruly customer with trash can, fry basket after alleged drunken attack",
+    "link": "https://nypost.com/2026/02/25/us-news/viral-video-shows-texas-whataburger-workers-beat-unruly-customer-with-trash-can-fry-basket-after-alleged-drunken-attack/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-02-25-08-25-33 +0000",
+    "source": "nypost",
+    "headline": "Security guard, Arizona moving company employees help recover 2-year-old allegedly taken by random woman",
+    "link": "https://nypost.com/2026/02/25/us-news/arizona-woman-marina-noriega-arrested-stopped-taking-kehlani-rogers-by-security-guard-camelback-moving-company/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-02-25-08-41-50 +0000",
+    "source": "nypost",
+    "headline": "Bill Gates admits he had 2 affairs with Russian women, apologizes to staff over Jeffrey Epstein ties",
+    "link": "https://nypost.com/2026/02/25/us-news/bill-gates-admits-he-had-two-affairs-with-russian-women-apologizes-for-epstein-links/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-02-25-08-32-43 +0000",
     "source": "wsj",
-    "headline": "Heidelberg Materials Posts Higher Earnings, Revenue",
-    "link": "https://www.wsj.com/business/earnings/heidelberg-materials-posts-higher-earnings-revenue-4f7c290b?mod=pls_whats_news_us_business_f"
+    "headline": "Stock Market Today: Nasdaq Futures Inch Up; Nvidia Earnings Due This Afternoon",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-25-2026?mod=rss_markets_main"
   },
   {
-    "score": 0,
-    "pubdate": "2026-02-25-07-10-50 +0000",
-    "source": "bbc",
-    "headline": "Typical household energy bills to fall by £117 a year in April",
-    "link": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss"
+    "score": 9,
+    "pubdate": "2026-02-25-08-24-17 +0000",
+    "source": "wapo",
+    "headline": "Rubio heads to Caribbean as Trump’s Iran gambit nears tipping point",
+    "link": "https://www.washingtonpost.com/national-security/2026/02/25/rubio-iran-caribbean/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-02-25-07-09-09 +0000",
+    "score": 8,
+    "pubdate": "2026-02-25-08-41-57 +0000",
     "source": "nyt",
-    "headline": "‘Stand Up’: With One Maneuver, Trump Tries to Box In Democrats",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-state-of-the-union-scene.html"
+    "headline": "Abigail Spanberger, in Democratic Response, Asks if Trump Is Working for Americans",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/spanberger-democratic-response-trump-sotu.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-02-25-08-40-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Reclaims $5,200 on U.S. Trade Uncertainty, Middle East Risks",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-possible-position-adjustments-e25560ed?mod=rss_markets_main"
   }
 ]
