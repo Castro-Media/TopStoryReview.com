@@ -1,31 +1,24 @@
 [
   {
-    "score": 240,
+    "score": 236,
     "pubdate": "2026-02-24-10-30-00 +0000",
     "source": "wsj",
     "headline": "Tuesday’s State of the Union address gives President Trump a big platform to tout the economy’s performance on his watch. He’s given himself a high grade, but the report card is mixed.",
     "link": "https://www.wsj.com/economy/sizing-up-the-u-s-economy-in-trumps-first-year-07a68adf"
   },
   {
-    "score": 137,
+    "score": 134,
     "pubdate": "2026-02-25-02-44-18 +0000",
     "source": "nyt",
     "headline": "“In four long years, the last administration got less than $1 trillion in new investment in the United States. And when I say less, substantially less. In 12 months, I secured commitments for more than $18 trillion pouring in from all over the globe.”",
     "link": "https://www.nytimes.com/live/2026/02/24/us/trump-state-of-the-union/in-four-long-years-the-last-administration-got-less-than-1-trillion-in-new-investment-in-the-united-states-and-when-i-say-less-s"
   },
   {
-    "score": 101,
+    "score": 100,
     "pubdate": "2026-02-24-04-00-00 +0000",
     "source": "wsj",
     "headline": "As War Enters Fifth Year, Ukraine Shows Russian Victory Is Anything but Inevitable",
     "link": "https://www.wsj.com/world/as-war-enters-fifth-year-ukraine-shows-russian-victory-is-anything-but-inevitable-7898d921"
-  },
-  {
-    "score": 80,
-    "pubdate": "2026-02-24-03-16-21 +0000",
-    "source": "nyt",
-    "headline": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
-    "link": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html"
   },
   {
     "score": 79,
@@ -35,18 +28,11 @@
     "link": "https://nypost.com/2026/02/24/media/warner-bros-discovery-may-upend-netflix-deal-after-getting-revised-paramount-bid/"
   },
   {
-    "score": 69,
-    "pubdate": "2026-02-24-11-26-35 +0000",
-    "source": "nypost",
-    "headline": "Ex-British Ambassador to US Peter Mandelson released on bail after being arrested in Epstein probe",
-    "link": "https://nypost.com/2026/02/24/world-news/ex-british-ambassador-to-us-peter-mandelson-released-on-bail-after-being-arrested-in-epstein-probe/"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-02-24-15-46-27 +0000",
-    "source": "nypost",
-    "headline": "FedEx sues US government for ‘full refund’ of Trump tariffs after Supreme Court ruling",
-    "link": "https://nypost.com/2026/02/24/business/fedex-sues-us-government-for-full-refund-of-trump-tariffs-after-supreme-court-ruling/"
+    "score": 66,
+    "pubdate": "2026-02-25-02-42-00 +0000",
+    "source": "wsj",
+    "headline": "A judge rejected a Justice Department request to search devices seized from a Washington Post reporter as part of a probe of alleged mishandling of classified information by a government contractor",
+    "link": "https://www.wsj.com/politics/national-security/judge-rejects-government-request-to-search-washington-post-reporters-devices-90e6ce98"
   },
   {
     "score": 60,
@@ -54,6 +40,13 @@
     "source": "nyt",
     "headline": "“The Biden administration and its allies in Congress gave us the worst inflation in the history of our country. But in 12 months, my administration has driven core inflation down to the lowest level in more than five years.”",
     "link": "https://www.nytimes.com/live/2026/02/24/us/trump-state-of-the-union/the-biden-administration-and-its-allies-in-congress-gave-us-the-worst-inflation-in-the-history-of-our-country-but-in-12-months-m"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-02-24-04-21-44 +0000",
+    "source": "nyt",
+    "headline": "Peter Mandelson, Ex-Ambassador to the U.S., Is Released After U.K. Arrest Amid Epstein Accusations",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html"
   },
   {
     "score": 59,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Defense Sec. Pete Hegseth gives Anthropic Friday deadline to remove military AI restrictions or face potential blacklisting",
     "link": "https://nypost.com/2026/02/24/business/defense-sec-pete-hegseth-gives-anthropic-friday-deadline-to-remove-military-ai-restrictions-or-face-potential-blacklisting/"
+  },
+  {
+    "score": 55,
+    "pubdate": "2026-02-24-15-21-55 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Sides With Couple in Case Involving Baby Food Sold at Whole Foods",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/supreme-court-whole-foods.html"
   }
 ]
