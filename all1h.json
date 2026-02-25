@@ -1,44 +1,404 @@
 [
   {
-    "headline": "Ukraine lawmakers warn referendum to give up territory would fail — ‘Putin’s word? I doubt it’",
-    "link": "https://nypost.com/2026/02/25/world-news/ukrainians-wouldnt-back-land-for-peace-vote-because-nobody-trusts-putin-pols-say/",
-    "source": "nypost",
-    "pubdate": "2026-02-25-19-15-07 +0000"
+    "headline": "President Trump has ratcheted up pressure on Senate Majority Leader John Thune to find a way to pass the SAVE America Act",
+    "link": "https://www.wsj.com/politics/policy/trumps-push-for-voter-id-law-hits-filibuster-wall-in-senate-075ae5f8",
+    "source": "wsj",
+    "pubdate": "2026-02-25-21-00-00 +0000"
   },
   {
-    "headline": "As More Products and Places Bear His Name, Trump Plays Coy",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-name-sotu.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-19-12-55 +0000"
+    "headline": "Opinion | The State of the Union Is Belligerent",
+    "link": "https://www.wsj.com/opinion/the-state-of-the-union-is-belligerent-b8d6e7a8",
+    "source": "wsj",
+    "pubdate": "2026-02-25-20-59-00 +0000"
   },
   {
-    "headline": "Former Nebraska Sen. Bob Kerrey Resigns From Monolith Amid Epstein Emails",
-    "link": "https://www.nytimes.com/2026/02/25/us/bob-kerrey-resignation-monolith-epstein.html",
+    "headline": "Judge Finds Trump Administration’s Third-Country Deportations Unlawful",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/judge-trump-administration-deportations-unlawful.html",
     "source": "nyt",
-    "pubdate": "2026-02-25-19-10-57 +0000"
+    "pubdate": "2026-02-25-20-57-51 +0000"
+  },
+  {
+    "headline": "Judge Finds Trump Administration’s Third-Country Deportations Unlawful",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/judge-trump-administration-deportations-unlawful.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-57-51 +0000"
+  },
+  {
+    "headline": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
+    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-57-47 +0000"
+  },
+  {
+    "headline": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
+    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths/cuba-gunfire-speedboat-florida",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-56-47 +0000"
+  },
+  {
+    "headline": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
+    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths/cuba-gunfire-speedboat-florida",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-56-47 +0000"
+  },
+  {
+    "headline": "Senate Votes to Fill Seat of Air Safety Official Ousted by Trump",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/senate-vote-air-safety-official.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-55-49 +0000"
+  },
+  {
+    "headline": "Senate Votes to Fill Seat of Air Safety Official Ousted by Trump",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/senate-vote-air-safety-official.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-55-49 +0000"
+  },
+  {
+    "headline": "Opinion | How I Killed—and Revived—Teamwork With AI",
+    "link": "https://www.wsj.com/opinion/how-i-killedand-revivedteamwork-with-ai-5a5722cf?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-25-20-54-00 +0000"
+  },
+  {
+    "headline": "Opinion | How I Killed—and Revived—Teamwork With AI",
+    "link": "https://www.wsj.com/opinion/how-i-killedand-revivedteamwork-with-ai-5a5722cf",
+    "source": "wsj",
+    "pubdate": "2026-02-25-20-54-00 +0000"
+  },
+  {
+    "headline": "Four shot dead on US-registered speedboat by border guard, Cuba says",
+    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-20-53-23 +0000"
+  },
+  {
+    "headline": "Four shot dead on US-registered speedboat by border guard, Cuba says",
+    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-20-53-23 +0000"
+  },
+  {
+    "headline": "Four shot dead on US-registered speedboat by border guard, Cuba says",
+    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-20-53-23 +0000"
+  },
+  {
+    "headline": "Brazilian court convicts ex-lawmaker in murder of politician Marielle Franco",
+    "link": "https://www.washingtonpost.com/world/2026/02/25/marielle-franco-assassination-brazao-guilty/",
+    "source": "wapo",
+    "pubdate": "2026-02-25-20-53-16 +0000"
+  },
+  {
+    "headline": "Faisal Islam: Is Reeves right in saying we're turning a corner?",
+    "link": "https://www.bbc.com/news/articles/c5y6820nn23o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-20-52-23 +0000"
+  },
+  {
+    "headline": "Faisal Islam: Is Reeves right in saying we're turning a corner?",
+    "link": "https://www.bbc.com/news/articles/c5y6820nn23o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-20-52-23 +0000"
+  },
+  {
+    "headline": "Surgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/surgeon-general-casey-means-senate-hearing.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-51-40 +0000"
+  },
+  {
+    "headline": "Surgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/surgeon-general-casey-means-senate-hearing.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-51-40 +0000"
   },
   {
     "headline": "45 Years After Failed Coup, Spain Declassifies Files About Why It Failed",
     "link": "https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html",
     "source": "nyt",
-    "pubdate": "2026-02-25-19-07-21 +0000"
+    "pubdate": "2026-02-25-20-51-07 +0000"
   },
   {
     "headline": "45 Years After Failed Coup, Spain Declassifies Files About Why It Failed",
     "link": "https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html",
     "source": "nyt",
-    "pubdate": "2026-02-25-19-07-21 +0000"
+    "pubdate": "2026-02-25-20-51-07 +0000"
   },
   {
-    "headline": "Inside Bill Gates’ sordid affair with Russian Mila Antonova and the dark links to Epstein",
-    "link": "https://nypost.com/2026/02/25/us-news/inside-bill-gates-sordid-affair-with-epstein-linked-russian-mila-antonova/",
+    "headline": "Treasury Yields Tick Higher Ahead of U.S. Jobless Claims",
+    "link": "https://www.wsj.com/finance/jgb-futures-rise-amid-prospects-for-pause-in-boj-rate-increases-7c38a4ba?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-25-20-50-00 +0000"
+  },
+  {
+    "headline": "U.S. Opens the Way for Fuel-Starved Cuba to Get Oil Shipments",
+    "link": "https://www.wsj.com/world/u-s-eases-restriction-on-fuel-shipments-to-cuba-7909a6a7",
+    "source": "wsj",
+    "pubdate": "2026-02-25-20-50-00 +0000"
+  },
+  {
+    "headline": "Four Dead After Cuba Intercepts U.S.-Registered Speedboat",
+    "link": "https://www.wsj.com/world/americas/four-dead-after-cuba-intercepts-u-s-registered-speedboat-260772e8",
+    "source": "wsj",
+    "pubdate": "2026-02-25-20-48-00 +0000"
+  },
+  {
+    "headline": "Epstein Files Are Missing Records About Woman Who Made Claim Against Trump",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-46-24 +0000"
+  },
+  {
+    "headline": "Epstein Files Are Missing Records About Woman Who Made Claim Against Trump",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-46-24 +0000"
+  },
+  {
+    "headline": "Cuban forces shoot 4 dead on U.S. speedboat, Havana says",
+    "link": "https://www.washingtonpost.com/world/2026/02/25/cuba-us-boat-shooting/",
+    "source": "wapo",
+    "pubdate": "2026-02-25-20-45-13 +0000"
+  },
+  {
+    "headline": "Calmes: Trump's address to Congress trumpets how he usurps Congress",
+    "link": "https://www.latimes.com/opinion/story/2026-02-25/trump-state-of-union-congress-separation-of-powers",
+    "source": "latimes",
+    "pubdate": "2026-02-25-20-45-00 +0000"
+  },
+  {
+    "headline": "Hockey star Johnny Gaudreau’s murder case thrown into chaos as new test results revealed",
+    "link": "https://nypost.com/2026/02/25/us-news/hockey-star-johnny-gaudreaus-murder-case-thrown-into-chaos/",
     "source": "nypost",
-    "pubdate": "2026-02-25-19-05-33 +0000"
+    "pubdate": "2026-02-25-20-39-11 +0000"
   },
   {
-    "headline": "Estee Lauder’s Blaine operation, home base of Aveda brand, cutting 68 jobs",
-    "link": "https://www.startribune.com/estee-lauder-aveda-blaine-job-cuts/601588488",
+    "headline": "Surgeon General pick Casey Means grilled about shrooms and hawking MAHA products at lively Senate confirmation hearing",
+    "link": "https://nypost.com/2026/02/25/us-news/surgeon-general-pick-casey-means-grilled-about-shrooms-and-hawking-maha-products-at-lively-senate-confirmation-hearing/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-37-26 +0000"
+  },
+  {
+    "headline": "Surgeon General pick Casey Means grilled about shrooms and hawking MAHA products at lively Senate confirmation hearing",
+    "link": "https://nypost.com/2026/02/25/us-news/surgeon-general-pick-casey-means-grilled-about-shrooms-and-hawking-maha-products-at-lively-senate-confirmation-hearing/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-37-26 +0000"
+  },
+  {
+    "headline": "F.B.I. Raids Home of L.A.U.S.D. Chief Alberto Carvalho and School District Offices",
+    "link": "https://www.nytimes.com/2026/02/25/us/fbi-raid-lausd-alberto-carvalho.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-37-13 +0000"
+  },
+  {
+    "headline": "Businesses Push for Tariff Refunds as Trump Aides Hint at Fight to Come",
+    "link": "https://www.nytimes.com/2026/02/25/business/trump-tariffs-refunds-lawsuits.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-33-21 +0000"
+  },
+  {
+    "headline": "Charges dropped against three Minnesotans accused of assaulting federal agents",
+    "link": "https://www.startribune.com/charges-dropped-against-three-minnesotans-accused-of-assaulting-federal-agents/601588422",
     "source": "startribune",
-    "pubdate": "2026-02-25-19-03-39 +0000"
+    "pubdate": "2026-02-25-20-33-04 +0000"
+  },
+  {
+    "headline": "Ex-Trump appointee turned Democrat runs for Nancy Pelosi’s congressional seat",
+    "link": "https://nypost.com/2026/02/25/us-news/marie-hurabiell-ex-trump-appointee-runs-for-pelosis-seat/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-32-02 +0000"
+  },
+  {
+    "headline": "Ex-Trump appointee turned Democrat runs for Nancy Pelosi’s congressional seat",
+    "link": "https://nypost.com/2026/02/25/us-news/marie-hurabiell-ex-trump-appointee-runs-for-pelosis-seat/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-32-02 +0000"
+  },
+  {
+    "headline": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
+    "link": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-20-30-46 +0000"
+  },
+  {
+    "headline": "Tech stocks shake off panic over AI ‘doomsday scenario’ where unemployment hits 10%",
+    "link": "https://nypost.com/2026/02/25/business/tech-stocks-shake-off-panic-over-ai-doomsday-scenario-where-unemployment-hits-10/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-27-41 +0000"
+  },
+  {
+    "headline": "Six dead on Long Island from this week’s massive snow storm: officials",
+    "link": "https://nypost.com/2026/02/25/us-news/six-dead-on-long-island-from-this-weeks-snow-storm-officials/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-27-26 +0000"
+  },
+  {
+    "headline": "Nancy Pelosi mumbles through response to stock-trading question after Trump’s SOTU jibe",
+    "link": "https://nypost.com/2026/02/25/us-news/nancy-pelosi-mumbles-through-response-to-stock-trading-question-after-trumps-sotu-jibe/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-24-27 +0000"
+  },
+  {
+    "headline": "Nancy Pelosi mumbles through response to stock-trading question after Trump’s SOTU jibe",
+    "link": "https://nypost.com/2026/02/25/us-news/nancy-pelosi-mumbles-through-response-to-stock-trading-question-after-trumps-sotu-jibe/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-24-27 +0000"
+  },
+  {
+    "headline": "For America’s 250th, Should the Coin of Trump’s Realm Be Gold?",
+    "link": "https://www.nytimes.com/2026/02/25/us/trump-coins.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-22-13 +0000"
+  },
+  {
+    "headline": "For America’s 250th, Should the Coin of Trump’s Realm Be Gold?",
+    "link": "https://www.nytimes.com/2026/02/25/us/trump-coins.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-22-13 +0000"
+  },
+  {
+    "headline": "For America’s 250th, Should the Coin of Trump’s Realm Be Gold?",
+    "link": "https://www.nytimes.com/2026/02/25/us/trump-coins.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-22-13 +0000"
+  },
+  {
+    "headline": "LA Dems cash in on Cardi B concert with $3,000 fundraiser seats",
+    "link": "https://nypost.com/2026/02/25/us-news/california-democrats-using-cardi-b-to-haul-in-campaign-cash/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-20-26 +0000"
+  },
+  {
+    "headline": "LA Dems cash in on Cardi B concert with $3,000 fundraiser seats",
+    "link": "https://nypost.com/2026/02/25/us-news/california-democrats-using-cardi-b-to-haul-in-campaign-cash/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-20-26 +0000"
+  },
+  {
+    "headline": "How private are Facebook messages? Minnesota Supreme Court opinion tackles murder, social media.",
+    "link": "https://www.startribune.com/how-private-are-facebook-messages-minnesota-supreme-court-opinion-tackles-murder-social-media/601588545",
+    "source": "startribune",
+    "pubdate": "2026-02-25-20-19-05 +0000"
+  },
+  {
+    "headline": "Larry Summers Will Resign From Harvard After Jeffrey Epstein Revelations",
+    "link": "https://www.nytimes.com/2026/02/25/us/larry-summers-resignation-harvard-epstein.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-16-35 +0000"
+  },
+  {
+    "headline": "Beloved LA TV anchors axed as mass layoffs hit broadcaster",
+    "link": "https://nypost.com/2026/02/25/us-news/beloved-la-tv-anchors-axed-as-mass-layoffs-hit-broadcaster/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-16-12 +0000"
+  },
+  {
+    "headline": "4 people on Florida boat killed by Cuban forces after entering its waters: officials",
+    "link": "https://nypost.com/2026/02/25/us-news/4-people-on-florida-boat-killed-by-cuban-forces-after-entering-its-waters-officials/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-13-56 +0000"
+  },
+  {
+    "headline": "4 people on Florida boat killed by Cuban forces after entering its waters: officials",
+    "link": "https://nypost.com/2026/02/25/us-news/4-people-on-florida-boat-killed-by-cuban-forces-after-entering-its-waters-officials/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-13-56 +0000"
+  },
+  {
+    "headline": "FBI searches L.A. Unified School District office, home of superintendent",
+    "link": "https://www.washingtonpost.com/nation/2026/02/25/fbi-search-los-angeles-schools/",
+    "source": "wapo",
+    "pubdate": "2026-02-25-20-13-53 +0000"
+  },
+  {
+    "headline": "Rivals roast ‘tired’ Rep. Tom Suozzi for dozing off during Trump’s State of the Union speech",
+    "link": "https://nypost.com/2026/02/25/us-news/rivals-roast-tired-rep-tom-suozzi-for-dozing-off-during-trumps-state-of-the-union-speech/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-13-37 +0000"
+  },
+  {
+    "headline": "Rivals roast ‘tired’ Rep. Tom Suozzi for dozing off during Trump’s State of the Union speech",
+    "link": "https://nypost.com/2026/02/25/us-news/rivals-roast-tired-rep-tom-suozzi-for-dozing-off-during-trumps-state-of-the-union-speech/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-13-37 +0000"
+  },
+  {
+    "headline": "Who is Alberto Carvalho, LAUSD Superintendent whose home and office was raided by FBI?",
+    "link": "https://nypost.com/2026/02/25/us-news/who-is-alberto-carvalho-lausd-superintendent-whose-home-office-was-raided-by-fbi/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-12-47 +0000"
+  },
+  {
+    "headline": "Who is Alberto Carvalho, LAUSD Superintendent whose home and office was raided by FBI?",
+    "link": "https://nypost.com/2026/02/25/us-news/who-is-alberto-carvalho-lausd-superintendent-whose-home-office-was-raided-by-fbi/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-12-47 +0000"
+  },
+  {
+    "headline": "Alberto Carvalho is a rising star in education. Now, he's part an of FBI investigation",
+    "link": "https://www.latimes.com/california/story/2026-02-25/what-to-know-about-lausd-chief-alberto-carvalho-amid-fbi-raids",
+    "source": "latimes",
+    "pubdate": "2026-02-25-20-12-43 +0000"
+  },
+  {
+    "headline": "Thanks, Ukrainians Say, but Please Stop Calling Us Resilient",
+    "link": "https://www.nytimes.com/2026/02/25/world/europe/ukrainian-war-resilience.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-12-31 +0000"
+  },
+  {
+    "headline": "Thanks, Ukrainians Say, but Please Stop Calling Us Resilient",
+    "link": "https://www.nytimes.com/2026/02/25/world/europe/ukrainian-war-resilience.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-12-31 +0000"
+  },
+  {
+    "headline": "A Seasoned French Museum Chief Takes Over a Louvre in Crisis",
+    "link": "https://www.nytimes.com/2026/02/25/world/europe/louvre-museum-new-director-leribault-paris.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-11-55 +0000"
+  },
+  {
+    "headline": "A Seasoned French Museum Chief Takes Over a Louvre in Crisis",
+    "link": "https://www.nytimes.com/2026/02/25/world/europe/louvre-museum-new-director-leribault-paris.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-11-55 +0000"
+  },
+  {
+    "headline": "Trump Proposed a New Retirement Plan for With Up to a $1,000 Match. What to Know.",
+    "link": "https://www.nytimes.com/2026/02/25/business/trump-retirement-401k-match.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-11-42 +0000"
+  },
+  {
+    "headline": "Wild video shows suspect dubbed ‘Oscar the Grouch’ emerge from trash can before arrest",
+    "link": "https://nypost.com/2026/02/25/us-news/wild-video-shows-suspect-dubbed-oscar-the-grouch-emerge-from-trash-can-before-arrest/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-10-58 +0000"
+  },
+  {
+    "headline": "Hundreds line up at 6 a.m. in West Hollywood for Erewhon grand opening—and a $22 smoothie",
+    "link": "https://nypost.com/2026/02/25/us-news/new-erewhon-location-in-west-hollywood-opens-with-hundreds-of-shoppers-lined-up-outside/",
+    "source": "nypost",
+    "pubdate": "2026-02-25-20-09-54 +0000"
+  },
+  {
+    "headline": "U.S. Will Offer Embassy Services in a West Bank Settlement for the First Time",
+    "link": "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-08-20 +0000"
+  },
+  {
+    "headline": "U.S. Will Offer Embassy Services in a West Bank Settlement for the First Time",
+    "link": "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html",
+    "source": "nyt",
+    "pubdate": "2026-02-25-20-08-20 +0000"
+  },
+  {
+    "headline": "Oil Futures End Mixed Ahead of U.S.-Iran Talks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-brace-for-u-s-iran-talks-e9ee9ffd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-25-20-08-00 +0000"
   }
 ]
