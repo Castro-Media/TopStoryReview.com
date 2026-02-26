@@ -1,5 +1,191 @@
 [
   {
+    "headline": "Rescue centre at 'breaking point' over £40k bills",
+    "link": "https://www.bbc.com/news/articles/cd9gl51k7y0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-06-11-09 +0000"
+  },
+  {
+    "headline": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+    "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-06-01-11 +0000"
+  },
+  {
+    "headline": "A Last Chance Before War",
+    "link": "https://www.nytimes.com/2026/02/25/world/iran-nuclear-talks-trump-war-maduro.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-50-50 +0000"
+  },
+  {
+    "headline": "Father of Hong Kong activist sentenced to eight months in prison",
+    "link": "https://www.bbc.com/news/articles/c3ew7d0e382o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-05-44-09 +0000"
+  },
+  {
+    "headline": "North Korea’s ​Kim Jong-un Hints at Improving U.S. Relations — With Caveats",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/kim-nkorea-nuclear-us.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-41-36 +0000"
+  },
+  {
+    "headline": "North Korea’s ​Kim Jong-un Hints at Improving U.S. Relations — With Caveats",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/kim-nkorea-nuclear-us.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-41-36 +0000"
+  },
+  {
+    "headline": "North Korea could 'get along' with US, says Kim Jong Un",
+    "link": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-05-25-54 +0000"
+  },
+  {
+    "headline": "Hunter College professor Allyson Friedman placed on leave for racist hot mic comments",
+    "link": "https://nypost.com/2026/02/26/us-news/hunter-college-professor-allyson-friedman-placed-on-leave-for-racist-hot-mic-comments/",
+    "source": "nypost",
+    "pubdate": "2026-02-26-05-21-16 +0000"
+  },
+  {
+    "headline": "U.S. Should Shift Gears on Economic Policy, International Monetary Fund Says",
+    "link": "https://www.wsj.com/economy/u-s-should-shift-gears-on-economic-policy-international-monetary-fund-says-b0ab1ea5",
+    "source": "wsj",
+    "pubdate": "2026-02-26-05-10-00 +0000"
+  },
+  {
+    "headline": "What Brontë Country Tells Us About Britain Today",
+    "link": "https://www.nytimes.com/2026/02/24/world/europe/bronte-country-haworth-bradford-uk-today.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-08-37 +0000"
+  },
+  {
+    "headline": "Bank of Korea Holds Rates Steady, Lifts Growth Forecast",
+    "link": "https://www.wsj.com/articles/bank-of-korea-holds-rates-steady-lifts-growth-forecast-d4741db1",
+    "source": "wsj",
+    "pubdate": "2026-02-26-05-03-00 +0000"
+  },
+  {
+    "headline": "President Emmanuel Macron’s Cultural Legacy At Risk After Louvre Chief Resigns",
+    "link": "https://www.nytimes.com/2026/02/26/world/europe/louvre-macron-cultural-legacy.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-18 +0000"
+  },
+  {
+    "headline": "President Emmanuel Macron’s Cultural Legacy At Risk After Louvre Chief Resigns",
+    "link": "https://www.nytimes.com/2026/02/26/world/europe/louvre-macron-cultural-legacy.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-18 +0000"
+  },
+  {
+    "headline": "Kalshi Accuses a ‘MrBeast’ Employee of Insider Trading",
+    "link": "https://www.nytimes.com/2026/02/25/business/kalshi-mrbeast-employee-insider-trading-accusations.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-11 +0000"
+  },
+  {
+    "headline": "The Gorton and Denton By-Election Comes at a Bad Time for Keir Starmer",
+    "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-byelection-uk-starmer.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-09 +0000"
+  },
+  {
+    "headline": "For Trump, Military Strike in Iran Could Serve Symbolic Purpose",
+    "link": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-09 +0000"
+  },
+  {
+    "headline": "The Gorton and Denton By-Election Comes at a Bad Time for Keir Starmer",
+    "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-byelection-uk-starmer.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-09 +0000"
+  },
+  {
+    "headline": "For Trump, Military Strike in Iran Could Serve Symbolic Purpose",
+    "link": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-09 +0000"
+  },
+  {
+    "headline": "One Nation, an Anti-Immigration Party in Australia, Rises in Polls After Bondi Massacre",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/australia-bondi-one-nation-immigration.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-05 +0000"
+  },
+  {
+    "headline": "One Nation, an Anti-Immigration Party in Australia, Rises in Polls After Bondi Massacre",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/australia-bondi-one-nation-immigration.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-01-05 +0000"
+  },
+  {
+    "headline": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
+    "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-00-07 +0000"
+  },
+  {
+    "headline": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
+    "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-00-07 +0000"
+  },
+  {
+    "headline": "A Deal or War? Crucial Talks to Begin Between U.S. and Iran",
+    "link": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-00-07 +0000"
+  },
+  {
+    "headline": "A Deal or War? Crucial Talks to Begin Between U.S. and Iran",
+    "link": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-26-05-00-07 +0000"
+  },
+  {
+    "headline": "Tight California governor's race between five leading candidates",
+    "link": "https://www.latimes.com/california/story/2026-02-25/california-governors-race-wealth-tax-congress-ppic-poll",
+    "source": "latimes",
+    "pubdate": "2026-02-26-05-00-00 +0000"
+  },
+  {
+    "headline": "Tight California governor's race between five leading candidates",
+    "link": "https://www.latimes.com/california/story/2026-02-25/california-governors-race-wealth-tax-congress-ppic-poll",
+    "source": "latimes",
+    "pubdate": "2026-02-26-05-00-00 +0000"
+  },
+  {
+    "headline": "Martin Short’s daughter ‘bonded’ with Nick Reiner when they played together as kids: Report",
+    "link": "https://nypost.com/2026/02/25/us-news/martin-shorts-daughter-bonded-with-nick-reiner-when-they-played-together-as-kids-report/",
+    "source": "nypost",
+    "pubdate": "2026-02-26-04-58-09 +0000"
+  },
+  {
+    "headline": "Cubans attempted to ‘infiltrate’ island on U.S. speedboat, Havana says",
+    "link": "https://www.washingtonpost.com/world/2026/02/25/cuba-us-boat-shooting/",
+    "source": "wapo",
+    "pubdate": "2026-02-26-04-47-18 +0000"
+  },
+  {
+    "headline": "Epstein Used His Fortune to Infiltrate America’s Most Prestigious Universities",
+    "link": "https://www.wsj.com/us-news/education/epstein-used-his-fortune-to-infiltrate-americas-most-prestigious-universities-581cf30c",
+    "source": "wsj",
+    "pubdate": "2026-02-26-04-46-00 +0000"
+  },
+  {
+    "headline": "Australian PM apologises after calling child sex abuse survivor and advocate 'difficult'",
+    "link": "https://www.bbc.com/news/articles/cvg3jvkpdn2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-04-43-47 +0000"
+  },
+  {
+    "headline": "Maryland worker disguised himself as a woman before executing millionaire philanthropist Robert Fuller at senior living facility: police",
+    "link": "https://nypost.com/2026/02/25/us-news/maryland-senior-center-employee-marquis-emilio-jones-arrested-in-killing-millionaire-philanthropist-robert-g-fuller-jr/",
+    "source": "nypost",
+    "pubdate": "2026-02-26-04-36-06 +0000"
+  },
+  {
     "headline": "‘Scream 7’ premiere crashed by angry pro-Palestine protesters at Paramount Studios two years after Melissa Barrera was fired",
     "link": "https://nypost.com/2026/02/25/us-news/scream-7-premiere-crashed-by-angry-pro-palestine-protesters-at-paramount-studios-two-years-after-melissa-barrera-was-fired/",
     "source": "nypost",
@@ -18,16 +204,16 @@
     "pubdate": "2026-02-26-04-12-00 +0000"
   },
   {
+    "headline": "Orbán accuses Ukraine of disrupting oil supplies to Hungary",
+    "link": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-04-08-25 +0000"
+  },
+  {
     "headline": "Minnesota man accused of bilking $220K from family-run suicide prevention nonprofit founded for his late brother-in-law",
     "link": "https://nypost.com/2026/02/25/us-news/minnesota-man-accused-of-bilking-220k-from-family-run-suicide-prevention-nonprofit/",
     "source": "nypost",
     "pubdate": "2026-02-26-04-05-00 +0000"
-  },
-  {
-    "headline": "Epstein Used His Fortune to Infiltrate America’s Most Prestigious Universities",
-    "link": "https://www.wsj.com/us-news/education/epstein-used-his-fortune-to-infiltrate-americas-most-prestigious-universities-581cf30c",
-    "source": "wsj",
-    "pubdate": "2026-02-26-04-02-00 +0000"
   },
   {
     "headline": "The Sickest Burns on the Internet Right Now Are Coming From French Bureaucrats",
@@ -66,16 +252,16 @@
     "pubdate": "2026-02-26-03-47-34 +0000"
   },
   {
-    "headline": "Cubans attempted to ‘infiltrate’ island on U.S. speedboat, Havana says",
-    "link": "https://www.washingtonpost.com/world/2026/02/25/cuba-us-boat-shooting/",
-    "source": "wapo",
-    "pubdate": "2026-02-26-03-35-18 +0000"
+    "headline": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
+    "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-03-41-47 +0000"
   },
   {
-    "headline": "Kalshi Accuses a ‘MrBeast’ Employee of Insider Trading",
-    "link": "https://www.nytimes.com/2026/02/25/business/kalshi-mrbeast-employee-insider-trading-accusations.html",
-    "source": "nyt",
-    "pubdate": "2026-02-26-03-30-39 +0000"
+    "headline": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
+    "link": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-03-41-47 +0000"
   },
   {
     "headline": "Rep. Rashida Tlaib fuels outrage after chanting ‘KKK’ during Trump’s State of the Union address: ‘Censure her’",
@@ -102,19 +288,19 @@
     "pubdate": "2026-02-26-03-20-54 +0000"
   },
   {
-    "headline": "Four shot dead on US-registered speedboat were Cuban nationals, Cuba says",
+    "headline": "Cuba says it shot dead four people on US-registered speedboat",
     "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-26-03-15-58 +0000"
   },
   {
-    "headline": "Four shot dead on US-registered speedboat were Cuban nationals, Cuba says",
+    "headline": "Cuba says it shot dead four people on US-registered speedboat",
     "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-26-03-15-58 +0000"
   },
   {
-    "headline": "Four shot dead on US-registered speedboat were Cuban nationals, Cuba says",
+    "headline": "Cuba says it shot dead four people on US-registered speedboat",
     "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-26-03-15-58 +0000"
@@ -148,6 +334,12 @@
     "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
     "source": "nyt",
     "pubdate": "2026-02-26-03-04-33 +0000"
+  },
+  {
+    "headline": "Edina, Moorhead boys hockey win section titles to earn return trip to 2A state tourney",
+    "link": "https://www.startribune.com/boys-hockey-section-tournament-winners-class-2a-class-1a-edina-moorhead/601584541",
+    "source": "startribune",
+    "pubdate": "2026-02-26-03-04-14 +0000"
   },
   {
     "headline": "Patel Fires F.B.I. Personnel Tied to Inquiry Into Trump and Classified Records",
@@ -306,6 +498,12 @@
     "pubdate": "2026-02-26-02-01-06 +0000"
   },
   {
+    "headline": "US 'suitcase murderer' deported from Bali after 11 years in jail",
+    "link": "https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-02-01-06 +0000"
+  },
+  {
     "headline": "Harvey Weinstein hires lawyers of Luigi Mangione, Sean ‘Diddy’ Combs for upcoming trial",
     "link": "https://nypost.com/2026/02/25/us-news/harvey-weinstein-hires-lawyers-of-luigi-mangione-sean-diddy-combs-for-upcoming-trial/",
     "source": "nypost",
@@ -348,12 +546,6 @@
     "pubdate": "2026-02-26-01-35-03 +0000"
   },
   {
-    "headline": "Bank of Korea Holds Rates Steady, Lifts Growth Forecast",
-    "link": "https://www.wsj.com/articles/bank-of-korea-holds-rates-steady-lifts-growth-forecast-d4741db1",
-    "source": "wsj",
-    "pubdate": "2026-02-26-01-35-00 +0000"
-  },
-  {
     "headline": "Oil Rises on Likely Position Adjustments Before U.S.-Iran Talks",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-likely-position-adjustments-before-u-s-iran-talks-a3732d27?mod=rss_markets_main",
     "source": "wsj",
@@ -384,12 +576,6 @@
     "pubdate": "2026-02-26-01-21-11 +0000"
   },
   {
-    "headline": "Frost Olympians hold no ill will toward U.S. men’s hockey team",
-    "link": "https://www.startribune.com/minnesota-frost-pwhl-2026-olympics-mens-womens-hockey-donald-trump/601587828",
-    "source": "startribune",
-    "pubdate": "2026-02-26-01-20-02 +0000"
-  },
-  {
     "headline": "Pa. youth basketball coach and her 70-year-old dad arrested for attacking opposing team’s coach, wife",
     "link": "https://nypost.com/2026/02/25/us-news/youth-basketball-coach-and-her-father-arrested-for-attacking-opposing-team/",
     "source": "nypost",
@@ -412,12 +598,6 @@
     "link": "https://www.wsj.com/world/middle-east/in-a-first-u-s-deploys-combat-jets-to-israel-for-potential-wartime-mission-in-iran-c739d870",
     "source": "wsj",
     "pubdate": "2026-02-26-01-14-00 +0000"
-  },
-  {
-    "headline": "Kanye’s strange trip to Home Depot in Kim Kardashian’s Lamborghini revealed in court",
-    "link": "https://nypost.com/2026/02/25/us-news/kanye-west-took-kim-kardashians-lamborghini-on-a-strange-late-night-home-depot-run/",
-    "source": "nypost",
-    "pubdate": "2026-02-26-01-13-22 +0000"
   },
   {
     "headline": "Iran, U.S. resume nuclear negotiations as Trump’s war clock ticks down",
@@ -492,6 +672,12 @@
     "pubdate": "2026-02-26-00-54-42 +0000"
   },
   {
+    "headline": "'I can't breathe any more': Inside the night a mob burned a newspaper",
+    "link": "https://www.bbc.com/news/articles/c74xge7z8gqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-00-54-42 +0000"
+  },
+  {
     "headline": "I just watched the longest state of the union speech ever | About That",
     "link": "https://www.cbc.ca/player/play/9.7106346?cmp=rss",
     "source": "cbc",
@@ -502,12 +688,6 @@
     "link": "https://www.bbc.com/news/articles/cwygrnjz9wro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-26-00-47-10 +0000"
-  },
-  {
-    "headline": "Alaska Airlines flight makes emergency landing in Cincinnati after bloody, devastating bird strike: report",
-    "link": "https://nypost.com/2026/02/25/us-news/alaska-airlines-flight-makes-emergency-landing-in-cincinnati-after-devastating-bird-strike-report/",
-    "source": "nypost",
-    "pubdate": "2026-02-26-00-46-05 +0000"
   },
   {
     "headline": "How Social Media Framed Trump’s State of the Union Speech",
@@ -526,12 +706,6 @@
     "link": "https://www.nytimes.com/2026/02/25/us/milwaukee-police-officer-charged-flock-camera.html",
     "source": "nyt",
     "pubdate": "2026-02-26-00-39-06 +0000"
-  },
-  {
-    "headline": "KTLA brutally fires top reporter on her 40th birthday — as she releases cryptic podcast message",
-    "link": "https://nypost.com/2026/02/25/us-news/ktla-brutally-fires-top-reporter-on-her-40th-birthday-as-she-releases-cryptic-podcast-message/",
-    "source": "nypost",
-    "pubdate": "2026-02-26-00-37-47 +0000"
   },
   {
     "headline": "Trump administration’s third-country deportation policy unlawful, judge finds",
@@ -618,6 +792,12 @@
     "pubdate": "2026-02-26-00-10-35 +0000"
   },
   {
+    "headline": "US and Iran to hold talks as pressure for nuclear deal builds",
+    "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-00-09-47 +0000"
+  },
+  {
     "headline": "The family-owned soda firm that still uses returnable glass bottles",
     "link": "https://www.bbc.com/news/articles/cdjm289ye4mo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -628,6 +808,18 @@
     "link": "https://www.bbc.com/news/articles/cp85jd321p5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-26-00-05-23 +0000"
+  },
+  {
+    "headline": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
+    "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-00-02-48 +0000"
+  },
+  {
+    "headline": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
+    "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-26-00-02-48 +0000"
   },
   {
     "headline": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
@@ -790,6 +982,12 @@
     "link": "https://www.startribune.com/ilhan-omars-state-of-the-union-guest-arrested-by-us-capitol-police-during-trumps-speech/601588569",
     "source": "startribune",
     "pubdate": "2026-02-25-23-07-26 +0000"
+  },
+  {
+    "headline": "Why Asian firms are not cheering Trump tariff ruling",
+    "link": "https://www.bbc.com/news/articles/cdr2kmjd31ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-23-03-26 +0000"
   },
   {
     "headline": "Why Asian firms are not cheering Trump tariff ruling",
@@ -1026,6 +1224,12 @@
     "pubdate": "2026-02-25-22-16-46 +0000"
   },
   {
+    "headline": "A New York City snowball fight gone wrong leaves Mayor Mamdani at odds with police",
+    "link": "https://www.bbc.com/news/articles/cwyxlgkj0k3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-25-22-16-46 +0000"
+  },
+  {
     "headline": "Trump Proposed a New Retirement Plan for With Up to a $1,000 Match. What to Know.",
     "link": "https://www.nytimes.com/2026/02/25/business/trump-retirement-401k-match.html",
     "source": "nyt",
@@ -1090,12 +1294,6 @@
     "link": "https://nypost.com/2026/02/25/us-news/doj-sought-to-brief-biden-on-mar-a-lago-raid-before-search-didnt-give-a-damn-about-the-optics/",
     "source": "nypost",
     "pubdate": "2026-02-25-21-53-39 +0000"
-  },
-  {
-    "headline": "A Last Chance Before War",
-    "link": "https://www.nytimes.com/2026/02/25/world/iran-nuclear-talks-trump-war-maduro.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-21-46-33 +0000"
   },
   {
     "headline": "FCC takes step to probe NFL, other leagues about skyrocketing costs of streaming games",
@@ -1542,7 +1740,7 @@
     "pubdate": "2026-02-25-19-12-55 +0000"
   },
   {
-    "headline": "Six months ago a man accused of killing two officers fled into bushland. Will he ever be found?",
+    "headline": "Trail goes cold for conspiracy theorist gunman six months on",
     "link": "https://www.bbc.com/news/articles/cm280j2jgvyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-25-19-05-43 +0000"
@@ -1698,12 +1896,6 @@
     "pubdate": "2026-02-25-17-50-37 +0000"
   },
   {
-    "headline": "German chancellor warns of trade imbalance with China during first Beijing trip",
-    "link": "https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-17-50-37 +0000"
-  },
-  {
     "headline": "Trump calls for ‘mentally deranged’ Ilhan Omar and Rashida Tlaib to ‘be institutionalized’ for SOTU antics",
     "link": "https://nypost.com/2026/02/25/us-news/mentally-deranged-ilhan-omar-rashida-tlaib-should-be-institutionalized-for-sotu-antics-trump/",
     "source": "nypost",
@@ -1762,18 +1954,6 @@
     "link": "https://www.nytimes.com/2026/02/25/us/westbrook-homeless-services-charged-san-francisco.html",
     "source": "nyt",
     "pubdate": "2026-02-25-17-12-28 +0000"
-  },
-  {
-    "headline": "Democrats, Boycotting Trump’s Speech, Rally Outside the Capitol",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/democrats-boycott-trump-state-of-the-union.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-17-12-23 +0000"
-  },
-  {
-    "headline": "Democrats, Boycotting Trump’s Speech, Rally Outside the Capitol",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/democrats-boycott-trump-state-of-the-union.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-17-12-23 +0000"
   },
   {
     "headline": "Starmer to look at making student loans 'fairer'",
@@ -1866,18 +2046,6 @@
     "pubdate": "2026-02-25-16-46-18 +0000"
   },
   {
-    "headline": "Trump Gives Out Awards, Including Presidential Medal of Freedom, at State of the Union",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-presidential-medal-freedom-slover.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-16-46-06 +0000"
-  },
-  {
-    "headline": "Trump Gives Out Awards, Including Presidential Medal of Freedom, at State of the Union",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-presidential-medal-freedom-slover.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-16-46-06 +0000"
-  },
-  {
     "headline": "Leonardo Aims to Strike Joint-Venture Deal for Aerostructures Division by June, CEO Says",
     "link": "https://www.wsj.com/business/earnings/leonardo-beats-2025-guidance-as-defense-orders-continue-to-rise-41a7a139?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1960,18 +2128,6 @@
     "link": "https://www.bbc.com/news/articles/cx2g78k148eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-25-16-04-21 +0000"
-  },
-  {
-    "headline": "Abigail Spanberger, in Democratic Response, Asks if Trump Is Working for Americans",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/spanberger-democratic-response-trump-sotu.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-16-02-00 +0000"
-  },
-  {
-    "headline": "Abigail Spanberger, in Democratic Response, Asks if Trump Is Working for Americans",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/spanberger-democratic-response-trump-sotu.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-16-02-00 +0000"
   },
   {
     "headline": "Opinion | The State of Trump’s Agenda",
@@ -2262,12 +2418,6 @@
     "pubdate": "2026-02-25-13-18-17 +0000"
   },
   {
-    "headline": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
-    "link": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-13-18-17 +0000"
-  },
-  {
     "headline": "What Trump Did (and Didn’t) Say in the State of the Union Speech",
     "link": "https://www.nytimes.com/2026/02/25/business/dealbook/trump-state-of-union.html",
     "source": "nyt",
@@ -2430,12 +2580,6 @@
     "pubdate": "2026-02-25-11-14-36 +0000"
   },
   {
-    "headline": "What Brontë Country Tells Us About Britain Today",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/bronte-country-haworth-bradford-uk-today.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-11-08-27 +0000"
-  },
-  {
     "headline": "Two Ugandan women detained after allegedly kissing in public",
     "link": "https://www.bbc.com/news/articles/cvg1vdze5l0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2466,20 +2610,14 @@
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
   {
-    "headline": "LAUSD shows big improvement in Advanced Placement class enrollment, passing scores",
-    "link": "https://www.latimes.com/california/story/2026-02-25/lausd-improves-advanced-placement-enrollment-and-scores",
-    "source": "latimes",
-    "pubdate": "2026-02-25-11-00-00 +0000"
-  },
-  {
     "headline": "Retired 100-year-old fighter pilot from Escondido receives Medal of Honor",
     "link": "https://www.latimes.com/politics/story/2026-02-25/retired-100-year-old-fighter-pilot-from-escondido-receives-medal-of-honor",
     "source": "latimes",
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
   {
-    "headline": "Trump defends immigration crackdown at State of Union as approval ratings plummet",
-    "link": "https://www.latimes.com/politics/story/2026-02-25/trump-defends-immigration-crackdown-at-state-of-union-as-approval-ratings-plummet",
+    "headline": "LAUSD shows big improvement in Advanced Placement class enrollment, passing scores",
+    "link": "https://www.latimes.com/california/story/2026-02-25/lausd-improves-advanced-placement-enrollment-and-scores",
     "source": "latimes",
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
@@ -2490,8 +2628,20 @@
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
   {
+    "headline": "Trump defends immigration crackdown at State of Union as approval ratings plummet",
+    "link": "https://www.latimes.com/politics/story/2026-02-25/trump-defends-immigration-crackdown-at-state-of-union-as-approval-ratings-plummet",
+    "source": "latimes",
+    "pubdate": "2026-02-25-11-00-00 +0000"
+  },
+  {
     "headline": "In the Midnight Hour, the San Fernando record shop at the center of the Valley's ICE resistance",
     "link": "https://www.latimes.com/california/story/2026-02-25/la-me-midnight-hour-records-community",
+    "source": "latimes",
+    "pubdate": "2026-02-25-11-00-00 +0000"
+  },
+  {
+    "headline": "She successfully rebranded MSNBC. Up next? Streaming",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-25/ms-now-msnbc-post-comcast-spinoff-what-to-know",
     "source": "latimes",
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
@@ -2504,12 +2654,6 @@
   {
     "headline": "Barabak: Gavin Newsom and Kamala Harris have traveled parallel paths. Will they collide in 2028?",
     "link": "https://www.latimes.com/politics/story/2026-02-25/gavin-newsom-kamala-harris-2028-democrats-presidential-campaign",
-    "source": "latimes",
-    "pubdate": "2026-02-25-11-00-00 +0000"
-  },
-  {
-    "headline": "She successfully rebranded MSNBC. Up next? Streaming",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-25/ms-now-msnbc-post-comcast-spinoff-what-to-know",
     "source": "latimes",
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
@@ -2664,12 +2808,6 @@
     "pubdate": "2026-02-25-09-56-55 +0000"
   },
   {
-    "headline": "What is happening to gas and electricity prices?",
-    "link": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-09-50-06 +0000"
-  },
-  {
     "headline": "How Zimbabwe returned from abyss to World Cup resurgence",
     "link": "https://www.bbc.com/sport/cricket/articles/cjrq1yl02v5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2710,18 +2848,6 @@
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-25-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-25-08-32-43 +0000"
-  },
-  {
-    "headline": "International Booker Prize Nominees: 13 Books to Get You Talking",
-    "link": "https://www.nytimes.com/2026/02/24/books/international-booker-prize-longlist.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-08-15-18 +0000"
-  },
-  {
-    "headline": "Chinese dance group's tour triggers bomb threat against Australian PM",
-    "link": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-08-13-42 +0000"
   },
   {
     "headline": "Chinese dance group's tour triggers bomb threat against Australian PM",
@@ -2778,129 +2904,9 @@
     "pubdate": "2026-02-25-06-54-00 +0000"
   },
   {
-    "headline": "Trump’s State of the Union Speech: Full Transcript",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/state-of-the-union-transcript-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-06-32-10 +0000"
-  },
-  {
-    "headline": "Trump’s State of the Union Speech: Full Transcript",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/state-of-the-union-transcript-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-06-32-10 +0000"
-  },
-  {
     "headline": "Watch: Iran, Olympics and partisan divisions among takeaways from Trump speech",
     "link": "https://www.bbc.com/news/videos/c2lr74lgx7qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-25-06-29-49 +0000"
-  },
-  {
-    "headline": "House prices in Wales rise faster than UK average - see how your area compares",
-    "link": "https://www.bbc.com/news/articles/cwy80d1nl7vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-06-06-14 +0000"
-  },
-  {
-    "headline": "Japan to deploy missiles on island near Taiwan by 2031",
-    "link": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-06-00-50 +0000"
-  },
-  {
-    "headline": "Japan to deploy missiles on island near Taiwan by 2031",
-    "link": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-06-00-50 +0000"
-  },
-  {
-    "headline": "BBC sees damage in Puerto Vallarta after Mexican cartel violence",
-    "link": "https://www.bbc.com/news/videos/cly07z35dn4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-05-57-14 +0000"
-  },
-  {
-    "headline": "BBC sees damage in Puerto Vallarta after Mexican cartel violence",
-    "link": "https://www.bbc.com/news/videos/cly07z35dn4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-05-57-14 +0000"
-  },
-  {
-    "headline": "The World Waited on Edge for Trump’s Thinking on Iran. It’s Still Waiting.",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-iran-sotu.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-56-46 +0000"
-  },
-  {
-    "headline": "The World Waited on Edge for Trump’s Thinking on Iran. It’s Still Waiting.",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-iran-sotu.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-56-46 +0000"
-  },
-  {
-    "headline": "The World Waited on Edge for Trump’s Thinking on Iran. It’s Still Waiting.",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-iran-sotu.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-56-46 +0000"
-  },
-  {
-    "headline": "Trump Squeezes Cuba",
-    "link": "https://www.nytimes.com/2026/02/24/world/cuba-trump-oil-tourism-russia-economy.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-56-38 +0000"
-  },
-  {
-    "headline": "Senegal PM proposes tougher anti-LGBT law, doubling prison terms",
-    "link": "https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-05-46-42 +0000"
-  },
-  {
-    "headline": "Senegal PM proposes tougher anti-LGBT law, doubling prison terms",
-    "link": "https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-05-46-42 +0000"
-  },
-  {
-    "headline": "In Address, Trump Calls for More Limits on Trans Youth",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/virginia-trans-student-trump-sotu-guest.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-38-48 +0000"
-  },
-  {
-    "headline": "In Address, Trump Calls for More Limits on Trans Youth",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/virginia-trans-student-trump-sotu-guest.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-38-48 +0000"
-  },
-  {
-    "headline": "Futsal Phenom in Afghanistan Is a Hero the Taliban Didn’t Expect",
-    "link": "https://www.nytimes.com/2026/02/25/world/asia/afghanistan-futsal-alireza-ahmadi.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-35-05 +0000"
-  },
-  {
-    "headline": "Futsal Phenom in Afghanistan Is a Hero the Taliban Didn’t Expect",
-    "link": "https://www.nytimes.com/2026/02/25/world/asia/afghanistan-futsal-alireza-ahmadi.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-35-05 +0000"
-  },
-  {
-    "headline": "After State of the Union, Democrats say Trump did 'what he does best: lie'",
-    "link": "https://www.latimes.com/politics/story/2026-02-24/trump-state-of-the-union-democrats-response-padilla-spanberger",
-    "source": "latimes",
-    "pubdate": "2026-02-25-05-29-13 +0000"
-  },
-  {
-    "headline": "Who is Abigail Spanberger, the Democrat who gave the State of the Union response?",
-    "link": "https://www.bbc.com/news/articles/ce8w2r69wyeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-25-05-28-54 +0000"
-  },
-  {
-    "headline": "U.S. Sent F-22 Fighter Jets to Israel, Official Says",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/f-22-fighter-jets-israel.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-05-27-39 +0000"
   }
 ]
