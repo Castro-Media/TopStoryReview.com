@@ -1,72 +1,58 @@
 [
   {
-    "score": 57,
+    "score": 25,
     "pubdate": "2026-02-26-17-11-00 +0000",
     "source": "wsj",
     "headline": "Hillary Clinton said that she had no knowledge of Jeffrey Epstein’s wrongdoing and accused House Republicans of conducting a “fishing expedition” as she sat for a closed-door, videotaped deposition",
     "link": "https://www.wsj.com/politics/republicans-press-hillary-clinton-in-epstein-probe-5e4dde46"
   },
   {
-    "score": 34,
-    "pubdate": "2026-02-26-16-25-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. has sent top-of-the-line jet fighters to Israel, the first time it has deployed combat aircraft to that country for a potential wartime mission as they prepare to square off against Iran",
-    "link": "https://www.wsj.com/world/middle-east/in-a-first-u-s-deploys-combat-jets-to-israel-for-potential-wartime-mission-in-iran-c739d870"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-02-26-17-03-00 +0000",
-    "source": "wsj",
-    "headline": "Near misses in Operation Rough Rider, the U.S. military operation that targeted Houthi rebels in Yemen last year, are a warning about the risks of using military force against even a small adversary",
-    "link": "https://www.wsj.com/politics/national-security/f-16-pilots-narrow-escape-in-missile-attack-shows-risks-of-a-new-mideast-war-a0fd6764"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-02-26-16-35-34 +0000",
-    "source": "nypost",
-    "headline": "Republican Steve Hilton maintains leads in California gov’s race, new poll shows",
-    "link": "https://nypost.com/2026/02/26/us-news/steve-hilton-remains-in-the-lead-in-california-governors-race/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-02-26-16-49-03 +0000",
-    "source": "nypost",
-    "headline": "Hillary Clinton rips House Oversight Committee ahead of Epstein deposition — says she doesn’t recall encountering late pedophile",
-    "link": "https://nypost.com/2026/02/26/us-news/hillary-clinton-rips-house-oversight-committee-ahead-of-epstein-deposition-says-she-doesnt-recall-encountering-late-pedophile/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-02-26-16-39-57 +0000",
-    "source": "bbc",
-    "headline": "Instagram to alert parents if teens search for self-harm and suicide content",
-    "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-02-26-16-50-44 +0000",
-    "source": "bbc",
-    "headline": "At least 10 FBI staffers connected to Trump investigations fired",
-    "link": "https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-02-26-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "Mortgage rates fell below 6% this week for the first time in more than three years, welcome news for waves of house hunters heading into the busy spring home-buying season",
-    "link": "https://www.wsj.com/economy/housing/mortgage-rates-fall-below-6-for-the-first-time-since-2022-f572ed7e"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-02-26-16-54-14 +0000",
-    "source": "nypost",
-    "headline": "Ford recalls over 4 million pickups, SUVs due to software glitch that could cause brake, light failure",
-    "link": "https://nypost.com/2026/02/26/business/ford-recalls-over-4m-pickups-suvs-due-to-software-glitch-that-could-cause-brake-light-failure/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-02-26-16-34-01 +0000",
+    "score": 14,
+    "pubdate": "2026-02-26-17-10-05 +0000",
     "source": "nyt",
-    "headline": "Israeli Intelligence Agent Charged in Smuggling Goods Into Gaza",
-    "link": "https://www.nytimes.com/2026/02/26/world/middleeast/israeli-agent-smuggling-gaza.html"
+    "headline": "Family of U.N. Expert Critical of Israel Sues Trump Over Sanctions",
+    "link": "https://www.nytimes.com/2026/02/26/us/francesca-albanese-lawsuit-trump-sanctions-israel-gaza.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-02-26-17-13-50 +0000",
+    "source": "nypost",
+    "headline": "NC mom who went missing 25 years ago arrested — see what she looks like now",
+    "link": "https://nypost.com/2026/02/26/us-news/nc-mom-who-went-missing-25-years-ago-arrested-see-what-she-looks-like-now/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-26-17-11-45 +0000",
+    "source": "nypost",
+    "headline": "IDF fatally shoots Gaza terrorist, uncovers tunnel network",
+    "link": "https://nypost.com/2026/02/26/world-news/idf-fatally-shoots-gaza-terrorist-uncovers-tunnel-network/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-02-26-17-10-55 +0000",
+    "source": "nyt",
+    "headline": "He Hopes to Turn the Island of Nevis Into a Libertarian Paradise, With Crypto",
+    "link": "https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-02-26-17-09-39 +0000",
+    "source": "nyt",
+    "headline": "U.S. Mortgage Rates Fall Below 6% for First Time in Years",
+    "link": "https://www.nytimes.com/2026/02/26/business/mortgage-rates-30-year.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-02-26-17-12-47 +0000",
+    "source": "nyt",
+    "headline": "Why Are So Many Democrats Running for California Governor?",
+    "link": "https://www.nytimes.com/2026/02/26/us/california-governor-democratic-political-machine.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-26-17-10-05 +0000",
+    "source": "nyt",
+    "headline": "Family of U.N. Expert Critical of Israel Sues Trump Over Sanctions",
+    "link": "https://www.nytimes.com/2026/02/26/us/francesca-albanese-lawsuit-trump-sanctions-israel-gaza.html"
   }
 ]
