@@ -1,72 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-02-26-15-18-11 +0000",
+    "score": 57,
+    "pubdate": "2026-02-26-17-11-00 +0000",
+    "source": "wsj",
+    "headline": "Hillary Clinton said that she had no knowledge of Jeffrey Epstein’s wrongdoing and accused House Republicans of conducting a “fishing expedition” as she sat for a closed-door, videotaped deposition",
+    "link": "https://www.wsj.com/politics/republicans-press-hillary-clinton-in-epstein-probe-5e4dde46"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-02-26-16-25-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. has sent top-of-the-line jet fighters to Israel, the first time it has deployed combat aircraft to that country for a potential wartime mission as they prepare to square off against Iran",
+    "link": "https://www.wsj.com/world/middle-east/in-a-first-u-s-deploys-combat-jets-to-israel-for-potential-wartime-mission-in-iran-c739d870"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-02-26-17-03-00 +0000",
+    "source": "wsj",
+    "headline": "Near misses in Operation Rough Rider, the U.S. military operation that targeted Houthi rebels in Yemen last year, are a warning about the risks of using military force against even a small adversary",
+    "link": "https://www.wsj.com/politics/national-security/f-16-pilots-narrow-escape-in-missile-attack-shows-risks-of-a-new-mideast-war-a0fd6764"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-02-26-16-35-34 +0000",
+    "source": "nypost",
+    "headline": "Republican Steve Hilton maintains leads in California gov’s race, new poll shows",
+    "link": "https://nypost.com/2026/02/26/us-news/steve-hilton-remains-in-the-lead-in-california-governors-race/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-02-26-16-49-03 +0000",
+    "source": "nypost",
+    "headline": "Hillary Clinton rips House Oversight Committee ahead of Epstein deposition — says she doesn’t recall encountering late pedophile",
+    "link": "https://nypost.com/2026/02/26/us-news/hillary-clinton-rips-house-oversight-committee-ahead-of-epstein-deposition-says-she-doesnt-recall-encountering-late-pedophile/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-02-26-16-39-57 +0000",
     "source": "bbc",
-    "headline": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
-    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss"
+    "headline": "Instagram to alert parents if teens search for self-harm and suicide content",
+    "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 22,
-    "pubdate": "2026-02-26-15-52-31 +0000",
+    "score": 17,
+    "pubdate": "2026-02-26-16-50-44 +0000",
+    "source": "bbc",
+    "headline": "At least 10 FBI staffers connected to Trump investigations fired",
+    "link": "https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-02-26-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "Mortgage rates fell below 6% this week for the first time in more than three years, welcome news for waves of house hunters heading into the busy spring home-buying season",
+    "link": "https://www.wsj.com/economy/housing/mortgage-rates-fall-below-6-for-the-first-time-since-2022-f572ed7e"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-26-16-54-14 +0000",
+    "source": "nypost",
+    "headline": "Ford recalls over 4 million pickups, SUVs due to software glitch that could cause brake, light failure",
+    "link": "https://nypost.com/2026/02/26/business/ford-recalls-over-4m-pickups-suvs-due-to-software-glitch-that-could-cause-brake-light-failure/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-02-26-16-34-01 +0000",
     "source": "nyt",
-    "headline": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
-    "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-02-26-16-03-49 +0000",
-    "source": "nyt",
-    "headline": "Family of U.N. Expert Critical of Israel Sues Trump Over Sanctions",
-    "link": "https://www.nytimes.com/2026/02/26/us/francesca-albanese-lawsuit-trump-sanctions-israel-gaza.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-02-26-15-48-51 +0000",
-    "source": "nypost",
-    "headline": "FBI relocates most Nancy Guthrie agents out of Tucson in latest blow to abduction case",
-    "link": "https://nypost.com/2026/02/26/us-news/fbi-relocates-most-guthrie-case-agents-out-of-tucson-to-work-from-arizona-headquarters-in-phoenix/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-02-26-15-42-28 +0000",
-    "source": "nyt",
-    "headline": "How a Close Associate of Epstein’s Found Career Redemption in Japan",
-    "link": "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-02-26-15-15-35 +0000",
-    "source": "nypost",
-    "headline": "CIA makes social media push to recruit Iranians as Trump threatens military action",
-    "link": "https://nypost.com/2026/02/26/world-news/cia-makes-social-media-push-to-recruit-iranians-as-trump-threatens-military-action/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-02-26-15-33-27 +0000",
-    "source": "nypost",
-    "headline": "LAUSD to host closed-door meeting after FBI raid on schools chief Alberto Carvalho",
-    "link": "https://nypost.com/2026/02/26/us-news/lausd-meeting-after-fbi-raid-on-alberto-carvalho/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-02-26-15-49-01 +0000",
-    "source": "latimes",
-    "headline": "Amid the multibillion-dollar battle for Warner Bros., the company loses $252 million",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-26/amid-multibillion-dollar-battle-for-warner-bros-company-loses-252-million"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-02-26-15-50-13 +0000",
-    "source": "nypost",
-    "headline": "Washington Post losses soared past $100M in 2025, prompting mass layoffs: report",
-    "link": "https://nypost.com/2026/02/26/media/washington-post-losses-soared-past-100m-in-2025-prompting-mass-layoffs-report/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-02-26-16-09-45 +0000",
-    "source": "nypost",
-    "headline": "Sinkhole suddenly opens at red light, swallowing Nebraska drivers",
-    "link": "https://nypost.com/2026/02/26/us-news/sinkhole-suddenly-opens-at-red-light-swallowing-nebraska-drivers/"
+    "headline": "Israeli Intelligence Agent Charged in Smuggling Goods Into Gaza",
+    "link": "https://www.nytimes.com/2026/02/26/world/middleeast/israeli-agent-smuggling-gaza.html"
   }
 ]
