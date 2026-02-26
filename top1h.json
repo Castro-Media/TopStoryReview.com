@@ -1,72 +1,65 @@
 [
   {
-    "score": 30,
-    "pubdate": "2026-02-26-18-55-35 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Asks Supreme Court to End Protections for Syrian Migrants",
-    "link": "https://www.nytimes.com/2026/02/26/us/politics/supreme-court-deportation-syrians.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-02-26-18-58-43 +0000",
-    "source": "cbc",
-    "headline": "Hillary Clinton in deposition says she never met Epstein, slams Republican efforts to combat sex trafficking",
-    "link": "https://www.cbc.ca/news/world/us-ny-hillary-clinton-house-deposition-9.7107100?cmp=rss"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-02-26-18-24-34 +0000",
-    "source": "bbc",
-    "headline": "US and Iran hold talks seen as crucial to prevent conflict",
-    "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 20,
+    "score": 22,
     "pubdate": "2026-02-26-19-08-17 +0000",
     "source": "nypost",
     "headline": "Sean Hannity slams Gavin Newsom over Biden’s ‘cognitive decline’ and hints at damning text",
     "link": "https://nypost.com/2026/02/26/us-news/sean-hannity-and-gavin-newsom-clash-over-joe-biden-support/"
   },
   {
-    "score": 19,
-    "pubdate": "2026-02-26-18-29-03 +0000",
-    "source": "nypost",
-    "headline": "FBI fires 10 agents involved in Jack Smith’s classified docs probe of Trump",
-    "link": "https://nypost.com/2026/02/26/us-news/fbi-fires-10-involved-in-jack-smiths-classified-docs-probe-of-trump/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-02-26-18-42-54 +0000",
-    "source": "nyt",
-    "headline": "For America’s 250th, Should the Coin of Trump’s Realm Be Gold?",
-    "link": "https://www.nytimes.com/2026/02/25/us/trump-coins.html"
-  },
-  {
-    "score": 18,
+    "score": 20,
     "pubdate": "2026-02-26-19-06-59 +0000",
     "source": "nyt",
     "headline": "German Intelligence Must Temporarily Halt an Extremist Label for the AfD, Court Rules",
     "link": "https://www.nytimes.com/2026/02/26/world/europe/germany-ruling-afd-extremist.html"
   },
   {
-    "score": 16,
+    "score": 15,
+    "pubdate": "2026-02-26-19-07-40 +0000",
+    "source": "nyt",
+    "headline": "World Economic Forum Chief Resigns Over Epstein Ties",
+    "link": "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
+  },
+  {
+    "score": 12,
     "pubdate": "2026-02-26-19-02-16 +0000",
     "source": "nypost",
     "headline": "Woman at center of LAUSD chief scandal is Bob Marley guitarist’s baby mama who has LA actor son",
     "link": "https://nypost.com/2026/02/26/us-news/woman-at-center-of-lausd-chief-scandal-is-bob-marley-guitarists-baby-mama-who-has-la-actor-son/"
   },
   {
-    "score": 16,
-    "pubdate": "2026-02-26-18-38-41 +0000",
-    "source": "nyt",
-    "headline": "Prime Minister Mette Frederiksen Calls Snap Elections in Denmark",
-    "link": "https://www.nytimes.com/2026/02/26/world/europe/denmark-election-frederiksen-greenland.html"
+    "score": 7,
+    "pubdate": "2026-02-26-19-07-00 +0000",
+    "source": "wsj",
+    "headline": "Mamdani Faces Flurry of Criticism From Police Over Snowball Fight",
+    "link": "https://www.wsj.com/us-news/mamdani-faces-flurry-of-criticism-from-police-over-snowball-fight-d9561661"
   },
   {
-    "score": 16,
-    "pubdate": "2026-02-26-18-41-23 +0000",
+    "score": 5,
+    "pubdate": "2026-02-26-19-02-17 +0000",
+    "source": "nyt",
+    "headline": "Why Are So Many Democrats Running for California Governor?",
+    "link": "https://www.nytimes.com/2026/02/26/us/california-governor-democratic-political-machine.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-26-19-08-17 +0000",
     "source": "nypost",
-    "headline": "Horrifying discovery of mass graves found scattered around Mexican soccer stadium set to host World Cup games",
-    "link": "https://nypost.com/2026/02/26/us-news/mass-graves-found-scattered-around-mexican-soccer-stadium-hosting-world-cup-games/"
+    "headline": "Sean Hannity slams Gavin Newsom over Biden’s ‘cognitive decline’ and hints at damning text",
+    "link": "https://nypost.com/2026/02/26/us-news/sean-hannity-and-gavin-newsom-clash-over-joe-biden-support/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-26-19-07-40 +0000",
+    "source": "nyt",
+    "headline": "World Economic Forum Chief Resigns Over Epstein Ties",
+    "link": "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-26-19-06-59 +0000",
+    "source": "nyt",
+    "headline": "German Intelligence Must Temporarily Halt an Extremist Label for the AfD, Court Rules",
+    "link": "https://www.nytimes.com/2026/02/26/world/europe/germany-ruling-afd-extremist.html"
   }
 ]
