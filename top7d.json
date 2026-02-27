@@ -1,17 +1,10 @@
 [
   {
-    "score": 332,
-    "pubdate": "2026-02-23-21-21-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court ruling on President Trump’s tariffs has left foreign officials and exporters scrambling to figure out whether to rewire supply chains and reopen trade deals",
-    "link": "https://www.wsj.com/economy/trade/in-trump-era-the-only-sure-thing-for-businesses-and-governments-is-uncertainty-d28d21e1"
-  },
-  {
-    "score": 205,
-    "pubdate": "2026-02-27-00-53-44 +0000",
+    "score": 389,
+    "pubdate": "2026-02-27-18-25-13 +0000",
     "source": "nypost",
-    "headline": "Paramount Skydance victory in Warner Bros. Discovery bidding war came after failed Netflix exec visit to win over White House",
-    "link": "https://nypost.com/2026/02/26/media/paramount-skydance-victory-in-warner-bros-discovery-bidding-war-came-after-failed-netflix-exec-visit-to-win-over-white-house/"
+    "headline": "Trump makes sobering admission about Iran talks, chances of drawn-out Middle East war if he attacks",
+    "link": "https://nypost.com/2026/02/27/us-news/trump-not-happy-with-iran-negotiations-says-drawn-out-war-possible-if-he-attacks/"
   },
   {
     "score": 174,
@@ -21,52 +14,59 @@
     "link": "https://nypost.com/2026/02/27/us-news/nancy-mace-claims-hillary-clinton-was-screaming-and-unhinged-when-pressed-on-bill-clintons-epstein-files-pics/"
   },
   {
-    "score": 153,
-    "pubdate": "2026-02-26-11-22-15 +0000",
-    "source": "cbc",
-    "headline": "Iran nuclear talks conclude with no deal announced as risk of U.S. attack looms",
-    "link": "https://www.cbc.ca/news/world/geneva-us-iran-negotiations-9.7106547?cmp=rss"
+    "score": 170,
+    "pubdate": "2026-02-24-14-31-32 +0000",
+    "source": "latimes",
+    "headline": "Warner Bros. Discovery says Paramount's new bid may beat Netflix",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-24/warner-bros-discovery-says-its-reviewing-paramounts-new-bid"
   },
   {
-    "score": 131,
-    "pubdate": "2026-02-24-03-16-21 +0000",
-    "source": "nyt",
-    "headline": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
-    "link": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html"
+    "score": 162,
+    "pubdate": "2026-02-27-17-53-37 +0000",
+    "source": "latimes",
+    "headline": "After El Mencho killing, who will run Mexico's biggest cartel? It could be a man born in California",
+    "link": "https://www.latimes.com/world-nation/story/2026-02-27/one-of-men-who-could-replace-el-mencho-is-from-southern-california"
   },
   {
-    "score": 131,
-    "pubdate": "2026-02-26-17-03-00 +0000",
-    "source": "wsj",
-    "headline": "Near misses in Operation Rough Rider, the U.S. military operation that targeted Houthi rebels in Yemen last year, are a warning about the risks of using military force against even a small adversary",
-    "link": "https://www.wsj.com/politics/national-security/f-16-pilots-narrow-escape-in-missile-attack-shows-risks-of-a-new-mideast-war-a0fd6764"
+    "score": 151,
+    "pubdate": "2026-02-26-23-44-20 +0000",
+    "source": "nypost",
+    "headline": "Small businesses gear up for tariff fight after Supreme Court rules against Trump",
+    "link": "https://nypost.com/2026/02/26/business/small-us-businesses-gear-up-for-tariff-fight-after-supreme-court-rules-against-trump/"
   },
   {
-    "score": 124,
-    "pubdate": "2026-02-26-21-28-00 +0000",
-    "source": "wsj",
-    "headline": "Oil lobbyists have made the case to Trump officials in recent weeks that his attacks on wind farms off the U.S. coast risk derailing congressional efforts to speed up permitting for energy projects",
-    "link": "https://www.wsj.com/politics/policy/big-oil-is-urging-trump-to-stop-battle-on-offshore-wind-40c3e06c"
-  },
-  {
-    "score": 118,
-    "pubdate": "2026-02-26-14-25-08 +0000",
-    "source": "bbc",
-    "headline": "A New York City snowball fight gone wrong leaves Mayor Mamdani at odds with police",
-    "link": "https://www.bbc.com/news/articles/cwyxlgkj0k3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 107,
+    "score": 109,
     "pubdate": "2026-02-26-23-15-45 +0000",
     "source": "latimes",
     "headline": "Chabria: The Pentagon is demanding to use Claude AI as it pleases. Claude told me that's 'dangerous'",
     "link": "https://www.latimes.com/politics/story/2026-02-26/chabria-column-claude-ai-anthropic-pentagon-hegseth"
   },
   {
-    "score": 101,
-    "pubdate": "2026-02-22-20-41-24 +0000",
-    "source": "latimes",
-    "headline": "California union pushes work-from-home bill as Newsom calls state employees back to the office",
-    "link": "https://www.latimes.com/california/story/2026-02-22/california-union-pushes-work-from-home-bill-as-newsom-calls-state-employees-back-to-office"
+    "score": 102,
+    "pubdate": "2026-02-26-21-28-00 +0000",
+    "source": "wsj",
+    "headline": "Oil lobbyists have made the case to Trump officials in recent weeks that his attacks on wind farms off the U.S. coast risk derailing congressional efforts to speed up permitting for energy projects",
+    "link": "https://www.wsj.com/politics/policy/big-oil-is-urging-trump-to-stop-battle-on-offshore-wind-40c3e06c"
+  },
+  {
+    "score": 99,
+    "pubdate": "2026-02-26-17-03-00 +0000",
+    "source": "wsj",
+    "headline": "Near misses in Operation Rough Rider, the U.S. military operation that targeted Houthi rebels in Yemen last year, are a warning about the risks of using military force against even a small adversary",
+    "link": "https://www.wsj.com/politics/national-security/f-16-pilots-narrow-escape-in-missile-attack-shows-risks-of-a-new-mideast-war-a0fd6764"
+  },
+  {
+    "score": 93,
+    "pubdate": "2026-02-26-00-26-00 +0000",
+    "source": "wsj",
+    "headline": "Here’s a look at whether the math works on some of the economic proposals that President Trump made in his State of Union speech",
+    "link": "https://www.wsj.com/politics/policy/the-math-behind-trumps-eye-catching-economic-ideas-727f07f2"
+  },
+  {
+    "score": 93,
+    "pubdate": "2026-02-26-22-35-25 +0000",
+    "source": "nypost",
+    "headline": "Ex-US embassy employee in Africa gets life sentence for raping two desperate girls after making promise to help their sick mom",
+    "link": "https://nypost.com/2026/02/26/world-news/ex-us-embassy-employee-in-africa-sentenced-for-raping-two-desperate-girls-after-making-promise-to-help-their-sick-mom/"
   }
 ]
