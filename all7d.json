@@ -1,9 +1,399 @@
 [
   {
+    "headline": "Officials at multiple federal agencies have raised concerns about the safety and reliability of Elon Musk’s xAI artificial-intelligence tools in recent months",
+    "link": "https://www.wsj.com/politics/national-security/elon-musk-xai-grok-security-safety-government-73ab4f6e",
+    "source": "wsj",
+    "pubdate": "2026-02-27-15-02-00 +0000"
+  },
+  {
+    "headline": "Why Brands Should Stop Fighting Negative Reviews and Start Embracing Them",
+    "link": "https://www.wsj.com/business/media/branding-research-negative-reviews-8fae8e55?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-15-00-00 +0000"
+  },
+  {
+    "headline": "E.U. Pushes Ahead With South American Trade Deal Despite Legal Challenge",
+    "link": "https://www.nytimes.com/2026/02/27/business/eu-mercosur-trade.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-59-13 +0000"
+  },
+  {
+    "headline": "Bill Clinton faces grilling from lawmakers over his connections to Jeffrey Epstein",
+    "link": "https://www.startribune.com/bill-clinton-faces-grilling-from-lawmakers-over-his-connections-to-jeffrey-epstein/601589895",
+    "source": "startribune",
+    "pubdate": "2026-02-27-14-59-04 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-55-30 +0000"
+  },
+  {
+    "headline": "Megyn Kelly shares decades-old photo of Bill Clinton allegedly ogling her young friend — hours before Epstein testimony",
+    "link": "https://nypost.com/2026/02/27/us-news/megyn-kelly-shows-photo-of-bill-clinton-before-jeffrey-epstein-testimony/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-14-54-40 +0000"
+  },
+  {
+    "headline": "Megyn Kelly shares decades-old photo of Bill Clinton allegedly ogling her young friend — hours before Epstein testimony",
+    "link": "https://nypost.com/2026/02/27/us-news/megyn-kelly-shows-photo-of-bill-clinton-before-jeffrey-epstein-testimony/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-14-54-40 +0000"
+  },
+  {
+    "headline": "Long Island mom chillingly confesses to killing newborn, leaving body on roadside more than 30 years ago",
+    "link": "https://nypost.com/2026/02/27/us-news/long-island-mom-allegedly-confesses-to-killing-newborn-more-than-30-years-ago-i-did-it/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-14-51-32 +0000"
+  },
+  {
+    "headline": "OpenAI Raises $110 Billion to Fuel Growth, Extending A.I. Boom",
+    "link": "https://www.nytimes.com/2026/02/27/business/openai-funding.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-46-53 +0000"
+  },
+  {
+    "headline": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-45-27 +0000"
+  },
+  {
+    "headline": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-45-27 +0000"
+  },
+  {
+    "headline": "See a show for free at Lost Church in March",
+    "link": "https://48hills.org/2026/02/see-a-show-for-free-at-lost-church-in-march/",
+    "source": "48hills",
+    "pubdate": "2026-02-27-14-43-44 +0000"
+  },
+  {
+    "headline": "How India Became One of the World’s Biggest Economies",
+    "link": "https://www.nytimes.com/2026/02/27/business/india-economy-gdp.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-43-33 +0000"
+  },
+  {
+    "headline": "How India Became One of the World’s Biggest Economies",
+    "link": "https://www.nytimes.com/2026/02/27/business/india-economy-gdp.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-43-33 +0000"
+  },
+  {
+    "headline": "Reform UK reports by-election 'family voting' concerns to police",
+    "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-14-40-22 +0000"
+  },
+  {
+    "headline": "4 Takeaways About the U.S. Birthrate Decline",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-37-52 +0000"
+  },
+  {
+    "headline": "4 Takeaways About the U.S. Birthrate Decline",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-37-52 +0000"
+  },
+  {
+    "headline": "EU to Implement Long-Awaited Mercosur Trade Deal",
+    "link": "https://www.wsj.com/economy/trade/eu-to-implement-long-awaited-mercosur-trade-deal-11abccb4",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-34-00 +0000"
+  },
+  {
+    "headline": "EU to Implement Long-Awaited Mercosur Trade Deal",
+    "link": "https://www.wsj.com/economy/trade/eu-to-implement-long-awaited-mercosur-trade-deal-11abccb4",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-34-00 +0000"
+  },
+  {
+    "headline": "Colman McCarthy, who preached peace as a Post columnist and teacher, dies at 87",
+    "link": "https://www.washingtonpost.com/obituaries/2026/02/27/colman-mccarthy-dead/",
+    "source": "wapo",
+    "pubdate": "2026-02-27-14-34-00 +0000"
+  },
+  {
+    "headline": "How Jack Dorsey Explained Cutting Almost Half of Block’s Staff",
+    "link": "https://www.wsj.com/business/how-jack-dorsey-explained-cutting-almost-half-of-blocks-staff-6245ec55?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-30-00 +0000"
+  },
+  {
+    "headline": "Lululemon Founder Intensifies Board Battle, Cites Weak Governance, Strategic Drift",
+    "link": "https://www.wsj.com/business/lululemon-founder-intensifies-board-battle-cites-weak-governance-strategic-drift-2903833c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-27-00 +0000"
+  },
+  {
+    "headline": "Trump Media in Talks to Spin Off Truth Social",
+    "link": "https://www.wsj.com/business/media/trump-media-in-talks-to-spin-off-truth-social-bed15ab4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-24-00 +0000"
+  },
+  {
+    "headline": "Why Are Pakistan and Afghanistan Fighting?",
+    "link": "https://www.nytimes.com/2026/02/27/world/asia/afghanistan-pakistan-taliban-airstrikes.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-23-45 +0000"
+  },
+  {
+    "headline": "Why Are Pakistan and Afghanistan Fighting?",
+    "link": "https://www.nytimes.com/2026/02/27/world/asia/afghanistan-pakistan-taliban-airstrikes.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-23-45 +0000"
+  },
+  {
+    "headline": "A Trump Call Ignited Saudi-U.A.E. Feud",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/saudi-arabia-united-arab-emirates-feud-trump-call.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-18-04 +0000"
+  },
+  {
+    "headline": "A Trump Call Ignited Saudi-U.A.E. Feud",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/saudi-arabia-united-arab-emirates-feud-trump-call.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-18-04 +0000"
+  },
+  {
+    "headline": "Israel Facing Prospect of War With a Depleted Missile Defense",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/israel-stockpile-missile-interceptors.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-17-29 +0000"
+  },
+  {
+    "headline": "Israel Facing Prospect of War With a Depleted Missile Defense",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/israel-stockpile-missile-interceptors.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-17-29 +0000"
+  },
+  {
+    "headline": "Canada's economy contracted unexpectedly in fourth quarter of 2025",
+    "link": "https://www.cbc.ca/news/business/canada-gdp-dec-2025-9.7108015?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-27-14-16-34 +0000"
+  },
+  {
+    "headline": "Pentagon Fires Another Laser at a Drone, Prompting a New Air Closure",
+    "link": "https://www.nytimes.com/2026/02/26/us/drone-faa-dhs-el-paso-airspace.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-12-32 +0000"
+  },
+  {
+    "headline": "Oil Futures Jump on Rising U.S.-Iran Conflict Risk",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-expectations-u-s-iran-talks-to-continue-next-week-08603cac?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-11-00 +0000"
+  },
+  {
+    "headline": "Oil Futures Jump on Rising U.S.-Iran Conflict Risk",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-expectations-u-s-iran-talks-to-continue-next-week-08603cac",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-11-00 +0000"
+  },
+  {
+    "headline": "Pakistan says it is in ‘open war’ with Afghanistan as nations exchange strikes",
+    "link": "https://www.washingtonpost.com/world/2026/02/27/pakistan-afghanistan-taliban-kabul-war/",
+    "source": "wapo",
+    "pubdate": "2026-02-27-14-10-49 +0000"
+  },
+  {
+    "headline": "Are Germany’s Top Cultural Events Becoming Impossible to Run?",
+    "link": "https://www.nytimes.com/2026/02/27/arts/berlin-film-festival-tricia-tuttle-israel-gaza.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-09-30 +0000"
+  },
+  {
+    "headline": "How Hollywood and Maga aligned over Warner Bros deal",
+    "link": "https://www.bbc.com/news/articles/ckg1klgl5dko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-14-08-11 +0000"
+  },
+  {
+    "headline": "The I.R.S. Shut Its Direct File, but Here Are Other Free Filing Options",
+    "link": "https://www.nytimes.com/2026/02/27/your-money/irs-free-tax-filing.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-14-00-04 +0000"
+  },
+  {
+    "headline": "Your Investing Strategy Is Great, So Long as You Don’t Actually Trade Anything",
+    "link": "https://www.wsj.com/finance/investing/your-investing-strategy-is-great-so-long-as-you-dont-actually-trade-anything-3a3d2b09?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-00-00 +0000"
+  },
+  {
+    "headline": "Canada’s Economy Contracts in Fourth Quarter",
+    "link": "https://www.wsj.com/economy/canadas-economy-contracts-in-fourth-quarter-04817ed1",
+    "source": "wsj",
+    "pubdate": "2026-02-27-14-00-00 +0000"
+  },
+  {
+    "headline": "All aboard!",
+    "link": "https://missionlocal.org/2026/02/all-aboard/",
+    "source": "missionlocal",
+    "pubdate": "2026-02-27-14-00-00 +0000"
+  },
+  {
+    "headline": "Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition",
+    "link": "https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-13-56-34 +0000"
+  },
+  {
+    "headline": "Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition",
+    "link": "https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-13-56-34 +0000"
+  },
+  {
+    "headline": "China suspending some agricultural tariffs on Canada starting March 1",
+    "link": "https://www.cbc.ca/news/politics/canada-suspends-tariffs-some-canada-9.7108023?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-27-13-53-27 +0000"
+  },
+  {
+    "headline": "China suspending some agricultural tariffs on Canada starting March 1",
+    "link": "https://www.cbc.ca/news/politics/canada-suspends-tariffs-some-canada-9.7108023?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-02-27-13-53-27 +0000"
+  },
+  {
+    "headline": "Waitrose to suspend mackerel sales due to overfishing concerns",
+    "link": "https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-52-25 +0000"
+  },
+  {
+    "headline": "Target to stop selling cereals with certified synthetic colors by end of May",
+    "link": "https://www.startribune.com/target-to-stop-selling-cereals-with-certified-synthetic-colors-by-end-of-may/601589912",
+    "source": "startribune",
+    "pubdate": "2026-02-27-13-52-03 +0000"
+  },
+  {
+    "headline": "Target to Remove Artificial Dyes From Cereal Aisle",
+    "link": "https://www.wsj.com/business/retail/target-says-it-will-soon-only-carry-cereals-made-without-synthetic-colors-7e75a754?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-13-51-00 +0000"
+  },
+  {
+    "headline": "German Inflation Inches Down, French Price Growth Rebounds",
+    "link": "https://www.wsj.com/economy/central-banking/german-inflation-inches-down-as-french-price-growth-rebounds-915e1462",
+    "source": "wsj",
+    "pubdate": "2026-02-27-13-51-00 +0000"
+  },
+  {
+    "headline": "Wholesale Prices Accelerated in January, PPI Data Show",
+    "link": "https://www.wsj.com/economy/central-banking/wholesale-prices-accelerated-in-january-ppi-data-show-0ef1ba02",
+    "source": "wsj",
+    "pubdate": "2026-02-27-13-50-00 +0000"
+  },
+  {
+    "headline": "Advent International Mulling Possible Takeover of Senior",
+    "link": "https://www.wsj.com/business/senior-plc-in-talks-with-potential-buyers-6bd5902d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-13-48-00 +0000"
+  },
+  {
+    "headline": "Weak U.K. Consumer Confidence Survey Adds Pressure on Sterling",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-amid-risk-off-sentiment-5cd9c1c8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-27-13-40-00 +0000"
+  },
+  {
+    "headline": "Starmer says he will fight on after by-election defeat to Greens",
+    "link": "https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-33-52 +0000"
+  },
+  {
+    "headline": "Chris Mason: Green win will prompt soul searching within Labour and questions for PM",
+    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-27-13 +0000"
+  },
+  {
+    "headline": "Green Party win will prompt soul searching within Labour and questions for Starmer",
+    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-27-13 +0000"
+  },
+  {
+    "headline": "Why are Afghanistan and Pakistan fighting?",
+    "link": "https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-26-23 +0000"
+  },
+  {
+    "headline": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
+    "link": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-19-18 +0000"
+  },
+  {
+    "headline": "Spanish opposition calls for disgraced ex-monarch to return from exile",
+    "link": "https://www.bbc.com/news/articles/cy03yw2dyxko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-17-34 +0000"
+  },
+  {
+    "headline": "Spanish opposition calls for disgraced ex-monarch to return from exile",
+    "link": "https://www.bbc.com/news/articles/cy03yw2dyxko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-13-17-34 +0000"
+  },
+  {
     "headline": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
     "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
     "source": "nyt",
-    "pubdate": "2026-02-27-13-15-42 +0000"
+    "pubdate": "2026-02-27-13-15-43 +0000"
   },
   {
     "headline": "Paramount Is Set to Win Warner Bros. Now Comes the Hard Part.",
@@ -48,18 +438,6 @@
     "pubdate": "2026-02-27-13-03-00 +0000"
   },
   {
-    "headline": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
-    "link": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-13-00-10 +0000"
-  },
-  {
-    "headline": "Target to Remove Artificial Dyes From Cereal Aisle",
-    "link": "https://www.wsj.com/business/retail/target-says-it-will-soon-only-carry-cereals-made-without-synthetic-colors-7e75a754?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-27-12-59-00 +0000"
-  },
-  {
     "headline": "Tyrrells plans to give vegetable crisps the chop",
     "link": "https://www.bbc.com/news/articles/c620egvdqgyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -90,34 +468,22 @@
     "pubdate": "2026-02-27-12-46-03 +0000"
   },
   {
-    "headline": "How Jack Dorsey Explained Cutting Almost Half of Block’s Staff",
-    "link": "https://www.wsj.com/business/how-jack-dorsey-explained-cutting-almost-half-of-blocks-staff-6245ec55?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-27-12-44-00 +0000"
-  },
-  {
     "headline": "Carter’s Sales Rise, Weak 1Q Outlook Given",
     "link": "https://www.wsj.com/business/retail/carters-sales-rise-on-higher-traffic-pricing-9d66c6b2?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-02-27-12-44-00 +0000"
   },
   {
-    "headline": "Pentagon Fires Another Laser at a Drone, Prompting a New Air Closure",
-    "link": "https://www.nytimes.com/2026/02/26/us/drone-faa-dhs-el-paso-airspace.html",
+    "headline": "With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html",
     "source": "nyt",
-    "pubdate": "2026-02-27-12-41-34 +0000"
+    "pubdate": "2026-02-27-12-41-24 +0000"
   },
   {
     "headline": "With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed",
     "link": "https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html",
     "source": "nyt",
-    "pubdate": "2026-02-27-12-41-23 +0000"
-  },
-  {
-    "headline": "With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-12-41-23 +0000"
+    "pubdate": "2026-02-27-12-41-24 +0000"
   },
   {
     "headline": "Green Party Defeats Labour in U.K. Special Election, in Blow to Starmer",
@@ -130,18 +496,6 @@
     "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html",
     "source": "nyt",
     "pubdate": "2026-02-27-12-32-52 +0000"
-  },
-  {
-    "headline": "How India Became One of the World’s Biggest Economies",
-    "link": "https://www.nytimes.com/2026/02/27/business/india-economy-gdp.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-12-32-08 +0000"
-  },
-  {
-    "headline": "How India Became One of the World’s Biggest Economies",
-    "link": "https://www.nytimes.com/2026/02/27/business/india-economy-gdp.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-12-32-08 +0000"
   },
   {
     "headline": "Arrest after Churchill statue defaced with graffiti",
@@ -198,6 +552,12 @@
     "pubdate": "2026-02-27-12-03-22 +0000"
   },
   {
+    "headline": "Former US diplomat sentenced to life for abusing two girls in Burkina Faso",
+    "link": "https://www.bbc.com/news/articles/c93wx97wl10o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-12-03-22 +0000"
+  },
+  {
     "headline": "U.K. Prime Minister Starmer Suffers Another Setback With Local Election",
     "link": "https://www.wsj.com/world/uk/u-k-prime-minister-starmer-faces-another-setback-with-local-election-056c7541",
     "source": "wsj",
@@ -236,12 +596,6 @@
   {
     "headline": "Vote on mining ban could test Klobuchar’s Iron Range appeal",
     "link": "https://www.startribune.com/vote-on-mining-ban-will-test-klobuchars-iron-range-appeal/601587273",
-    "source": "startribune",
-    "pubdate": "2026-02-27-12-00-01 +0000"
-  },
-  {
-    "headline": "Pro-density housing advocates believe this is the year for zoning reform in Minnesota",
-    "link": "https://www.startribune.com/pro-density-housing-advocates-believe-this-is-the-year-for-zoning-reform-in-minnesota/601587277",
     "source": "startribune",
     "pubdate": "2026-02-27-12-00-01 +0000"
   },
@@ -336,12 +690,6 @@
     "pubdate": "2026-02-27-11-47-00 +0000"
   },
   {
-    "headline": "Police say no reports of electoral offences in by-election",
-    "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-11-46-50 +0000"
-  },
-  {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-ebe1c085?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -366,52 +714,16 @@
     "pubdate": "2026-02-27-11-38-36 +0000"
   },
   {
-    "headline": "Need a new hunting or fishing license? The DNR will soon have an app for that.",
-    "link": "https://www.startribune.com/need-a-new-hunting-or-fishing-license-the-dnr-will-soon-have-an-app-for-that/601581960",
-    "source": "startribune",
-    "pubdate": "2026-02-27-11-30-00 +0000"
-  },
-  {
     "headline": "Warren Buffett and the Giant Gold Cube",
     "link": "https://www.wsj.com/finance/stocks/warren-buffett-and-the-giant-gold-cube-07eb4366?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-27-11-26-00 +0000"
   },
   {
-    "headline": "Waitrose to suspend mackerel sales due to overfishing concerns",
-    "link": "https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-11-24-43 +0000"
-  },
-  {
     "headline": "US allows some embassy staff to leave Israel, citing safety risks",
     "link": "https://nypost.com/2026/02/27/us-news/us-allows-some-embassy-staff-to-leave-israel-citing-safety-risks/",
     "source": "nypost",
     "pubdate": "2026-02-27-11-21-48 +0000"
-  },
-  {
-    "headline": "Why Are Pakistan and Afghanistan Fighting?",
-    "link": "https://www.nytimes.com/2026/02/27/world/asia/afghanistan-pakistan-taliban-airstrikes.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-11-11-53 +0000"
-  },
-  {
-    "headline": "Why Are Pakistan and Afghanistan Fighting?",
-    "link": "https://www.nytimes.com/2026/02/27/world/asia/afghanistan-pakistan-taliban-airstrikes.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-11-11-53 +0000"
-  },
-  {
-    "headline": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
-    "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-11-11-48 +0000"
-  },
-  {
-    "headline": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
-    "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-11-11-48 +0000"
   },
   {
     "headline": "Monte Dei Paschi Eyes Higher Earnings, Payouts After Mediobanca Integration",
@@ -422,12 +734,6 @@
   {
     "headline": "Monte Dei Paschi Eyes Higher Earnings, Payouts After Mediobanca Integration",
     "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-guides-for-higher-earnings-payouts-after-mediobanca-integration-03663fd4?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-27-11-09-00 +0000"
-  },
-  {
-    "headline": "Sterling Could Fall if U.K. Leadership Challenge Emerges",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-amid-risk-off-sentiment-5cd9c1c8?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-27-11-09-00 +0000"
   },
@@ -450,7 +756,7 @@
     "pubdate": "2026-02-27-11-02-15 +0000"
   },
   {
-    "headline": "Their family members disappeared. Now these moms are searching for Nancy Guthrie.",
+    "headline": "Moms’ group says they had to ‘step in’ to help search for Nancy Guthrie",
     "link": "https://www.washingtonpost.com/nation/2026/02/27/nancy-guthrie-moms-search-mexico/",
     "source": "wapo",
     "pubdate": "2026-02-27-11-00-50 +0000"
@@ -480,14 +786,14 @@
     "pubdate": "2026-02-27-11-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: Why foreign markets outperformed U.S. stocks during Trump's first year",
-    "link": "https://www.latimes.com/business/story/2026-02-27/us-stocks-did-pretty-well-during-trumps-first-year-but-trump-helped-foreign-markets-do-much-better",
+    "headline": "The newest trend in L.A. office space: In-house studios for traveling influencers",
+    "link": "https://www.latimes.com/business/story/2026-02-27/new-requirement-for-trending-la-offices-mini-studios",
     "source": "latimes",
     "pubdate": "2026-02-27-11-00-00 +0000"
   },
   {
-    "headline": "The newest trend in L.A. office space: In-house studios for traveling influencers",
-    "link": "https://www.latimes.com/business/story/2026-02-27/new-requirement-for-trending-la-offices-mini-studios",
+    "headline": "Hiltzik: How Trump helped foreign markets outperform U.S. stocks during his first year in office",
+    "link": "https://www.latimes.com/business/story/2026-02-27/us-stocks-did-pretty-well-during-trumps-first-year-but-trump-helped-foreign-markets-do-much-better",
     "source": "latimes",
     "pubdate": "2026-02-27-11-00-00 +0000"
   },
@@ -540,18 +846,6 @@
     "pubdate": "2026-02-27-11-00-00 +0000"
   },
   {
-    "headline": "A Trump Call Ignited Saudi-U.A.E. Feud",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/saudi-arabia-united-arab-emirates-feud-trump-call.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-10-57-49 +0000"
-  },
-  {
-    "headline": "A Trump Call Ignited Saudi-U.A.E. Feud",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/saudi-arabia-united-arab-emirates-feud-trump-call.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-10-57-49 +0000"
-  },
-  {
     "headline": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
     "link": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -574,24 +868,6 @@
     "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-27-10-56-45 +0000"
-  },
-  {
-    "headline": "In a New War, Would Israel Run Out of Missile Interceptors?",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/israel-stockpile-missile-interceptors.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-10-56-43 +0000"
-  },
-  {
-    "headline": "In a New War, Would Israel Run Out of Missile Interceptors?",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/israel-stockpile-missile-interceptors.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-10-56-43 +0000"
-  },
-  {
-    "headline": "Pakistan says it is in ‘open war’ with Afghanistan as nations exchange strikes",
-    "link": "https://www.washingtonpost.com/world/2026/02/27/pakistan-afghanistan-taliban-kabul-war/",
-    "source": "wapo",
-    "pubdate": "2026-02-27-10-50-48 +0000"
   },
   {
     "headline": "Indian court clears former Delhi chief minister of corruption charges",
@@ -735,7 +1011,7 @@
     "headline": "What Larry and David Ellison Would Own After Warner Bros. Takeover",
     "link": "https://www.nytimes.com/2026/02/27/business/media/tech-tv-movies-and-news-ellisons-on-brink-of-colossal-empire.html",
     "source": "nyt",
-    "pubdate": "2026-02-27-10-04-29 +0000"
+    "pubdate": "2026-02-27-10-04-30 +0000"
   },
   {
     "headline": "Texas Can Soon Enforce Law Aimed at Restricting Drag Shows",
@@ -759,7 +1035,7 @@
     "headline": "A World Where All Is Free? That’s Elon Musk’s Theory of ‘Sustainable Abundance.’",
     "link": "https://www.nytimes.com/2026/02/27/business/a-world-where-all-is-free-thats-elon-musks-theory-of-sustainable-abundance.html",
     "source": "nyt",
-    "pubdate": "2026-02-27-10-02-41 +0000"
+    "pubdate": "2026-02-27-10-02-42 +0000"
   },
   {
     "headline": "Fighting Wildfires Could Soon Get Harder",
@@ -840,7 +1116,7 @@
     "pubdate": "2026-02-27-09-57-43 +0000"
   },
   {
-    "headline": "Pakistan is now in 'open war' with Afghanistan, defence minister says, after countries trade attacks",
+    "headline": "Pakistan now in 'open war' with Afghanistan, defence minister says, after countries trade attacks",
     "link": "https://www.cbc.ca/news/world/pakistan-afghanistan-open-war-9.7107910?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-27-09-53-01 +0000"
@@ -874,12 +1150,6 @@
     "link": "https://www.bbc.com/news/articles/cp81w4dpx8yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-27-09-33-08 +0000"
-  },
-  {
-    "headline": "Swiss Re Shares Jump After Reinsurer Tops Up Returns With $1 Billion Buyback",
-    "link": "https://www.wsj.com/business/earnings/swiss-re-profit-slips-on-lower-revenue-65abfca4?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-27-09-32-00 +0000"
   },
   {
     "headline": "Wyoming hunter who tortured wolf, paraded injured animal in bar before killing it strikes sweetheart plea deal",
@@ -936,18 +1206,12 @@
     "pubdate": "2026-02-27-08-40-34 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Futures Fall; Paramount, Netflix Shares Rally",
+    "headline": "Stock Market Today: Dow Opens Lower; Netflix Stock Rallies",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-27-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-27-08-39-06 +0000"
   },
   {
-    "headline": "Oil Rises With Focus on U.S.-Iran Talks, OPEC+ Meeting",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-expectations-u-s-iran-talks-to-continue-next-week-08603cac?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-27-08-39-00 +0000"
-  },
-  {
     "headline": "The Gorton and Denton By-Election Comes at a Bad Time for Keir Starmer",
     "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-byelection-uk-starmer.html",
     "source": "nyt",
@@ -958,12 +1222,6 @@
     "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-byelection-uk-starmer.html",
     "source": "nyt",
     "pubdate": "2026-02-27-08-37-15 +0000"
-  },
-  {
-    "headline": "Senior PLC in Talks With Potential Buyers",
-    "link": "https://www.wsj.com/business/senior-plc-in-talks-with-potential-buyers-6bd5902d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-27-08-28-00 +0000"
   },
   {
     "headline": "How a Close Associate of Epstein’s Found Career Redemption in Japan",
@@ -1092,18 +1350,6 @@
     "pubdate": "2026-02-27-06-06-26 +0000"
   },
   {
-    "headline": "Chris Mason: Green win will prompt soul searching within Labour and questions for PM",
-    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-06-06-17 +0000"
-  },
-  {
-    "headline": "Green Party win will prompt soul searching within Labour and questions for Starmer",
-    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-06-06-17 +0000"
-  },
-  {
     "headline": "Notorious pedophile slapped with new charges just hours before he was due to be released from prison",
     "link": "https://nypost.com/2026/02/27/us-news/notorious-pedophile-slapped-with-new-charges-just-hours-before-he-was-due-to-be-released-from-prison/",
     "source": "nypost",
@@ -1176,12 +1422,6 @@
     "pubdate": "2026-02-27-05-18-55 +0000"
   },
   {
-    "headline": "Watch: 'Working hard used to get you something', says plumber Hannah Spencer in victory speech",
-    "link": "https://www.bbc.com/news/videos/clyz4ellkd7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-05-18-55 +0000"
-  },
-  {
     "headline": "Florida man arrested over alleged $328M crypto Ponzi scheme",
     "link": "https://nypost.com/2026/02/27/us-news/328-million-ponzi-scheme-uncovered-leading-to-florida-man-arrest/",
     "source": "nypost",
@@ -1216,54 +1456,6 @@
     "link": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
     "source": "nyt",
     "pubdate": "2026-02-27-05-01-15 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
-  },
-  {
-    "headline": "Trump’s Foreign Policy: Resurrecting Empire",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-05-00-26 +0000"
   },
   {
     "headline": "Germany’s Oil and Gas Output Is Dwindling as Prices Rise",
@@ -1321,7 +1513,7 @@
   },
   {
     "headline": "Anthropic is standing firm in its dispute with the Defense Department over AI guardrails",
-    "link": "https://www.wsj.com/politics/national-security/anthropic-refuses-pentagons-proposal-to-loosen-ai-guardrails-b17544d9",
+    "link": "https://www.wsj.com/politics/national-security/anthropic-claude-defense-department-update-b17544d9",
     "source": "wsj",
     "pubdate": "2026-02-27-03-51-00 +0000"
   },
@@ -1362,22 +1554,10 @@
     "pubdate": "2026-02-27-03-31-25 +0000"
   },
   {
-    "headline": "JD Vance says ‘no chance’ a US attack on Iran will lead to long war with ‘no end in sight’",
-    "link": "https://nypost.com/2026/02/26/us-news/jd-vance-says-no-chance-a-us-attack-on-iran-will-lead-to-long-war-with-no-end-in-sight/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-03-31-25 +0000"
-  },
-  {
     "headline": "How one Tahoe renter is adjusting to unusual roommates: Mama bear and 3 cubs",
     "link": "https://www.latimes.com/california/story/2026-02-26/mama-bear-3-cubs-lake-tahoe-renter-roommates",
     "source": "latimes",
     "pubdate": "2026-02-27-03-30-53 +0000"
-  },
-  {
-    "headline": "Mac Jones attended viral snowball fight in NYC’s Washington Square Park: ‘Launchmaxxing’",
-    "link": "https://nypost.com/2026/02/26/sports/49ers-mac-jones-attended-viral-snowball-fight-in-nyc/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-03-25-47 +0000"
   },
   {
     "headline": "U.K. Consumer Mood Darkens Amid Lingering Cost-Of-Living Squeeze",
@@ -1386,28 +1566,10 @@
     "pubdate": "2026-02-27-03-11-00 +0000"
   },
   {
-    "headline": "Tokyo Inflation Slows Below Bank of Japan’s Target But Rate-Hike Path Seems Intact",
-    "link": "https://www.wsj.com/economy/tokyo-inflation-slows-below-bank-of-japans-target-but-rate-hike-path-seems-intact-920a0155",
-    "source": "wsj",
-    "pubdate": "2026-02-27-03-08-00 +0000"
-  },
-  {
     "headline": "Narco-terrorism charges filed against cartel leaders who allegedly control Tijuana corridor",
     "link": "https://www.latimes.com/california/story/2026-02-26/narco-terrorism-charges-filed-against-sinaloa-cartel-leaders",
     "source": "latimes",
     "pubdate": "2026-02-27-03-01-05 +0000"
-  },
-  {
-    "headline": "Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition",
-    "link": "https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-02-56-21 +0000"
-  },
-  {
-    "headline": "Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition",
-    "link": "https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-02-56-21 +0000"
   },
   {
     "headline": "Mamdani Meets Again With Trump, Emerging With Two Unexpected Victories",
@@ -1946,12 +2108,6 @@
   {
     "headline": "The WSJ Dollar Index Rises 0.07% to 94.76",
     "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-amid-risk-on-sentiment-0fc6622b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-02-26-23-12-00 +0000"
-  },
-  {
-    "headline": "The WSJ Dollar Index Rises 0.07% to 94.76",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-amid-risk-on-sentiment-0fc6622b",
     "source": "wsj",
     "pubdate": "2026-02-26-23-12-00 +0000"
   },
@@ -2910,12 +3066,6 @@
     "pubdate": "2026-02-26-17-58-12 +0000"
   },
   {
-    "headline": "Philadelphia accused of wrongly denying 5 white male police officers promotions",
-    "link": "https://nypost.com/2026/02/26/us-news/philadelphia-accused-of-wrongly-denying-five-white-male-police-officers-promotions/",
-    "source": "nypost",
-    "pubdate": "2026-02-26-17-57-24 +0000"
-  },
-  {
     "headline": "Juvenile mixing chemicals inside Irvine home triggers FBI hazmat team response",
     "link": "https://www.latimes.com/california/story/2026-02-26/fbi-hazmat-irvine-home",
     "source": "latimes",
@@ -3433,12 +3583,6 @@
   },
   {
     "headline": "World Economic Forum Chief Steps Down After Epstein Probe",
-    "link": "https://www.wsj.com/world/europe/world-economic-forum-chief-steps-down-after-epstein-probe-9daa37a0?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-26-12-45-00 +0000"
-  },
-  {
-    "headline": "World Economic Forum Chief Steps Down After Epstein Probe",
     "link": "https://www.wsj.com/world/europe/world-economic-forum-chief-steps-down-after-epstein-probe-9daa37a0",
     "source": "wsj",
     "pubdate": "2026-02-26-12-45-00 +0000"
@@ -3846,12 +3990,6 @@
     "pubdate": "2026-02-26-02-26-00 +0000"
   },
   {
-    "headline": "BlueScope Says $11 Billion Steel Dynamics, SGH Takeover Offer Insufficient",
-    "link": "https://www.wsj.com/business/deals/bluescope-says-11-billion-steel-dynamics-sgh-takeover-offer-insufficient-eb9ef787?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-26-02-24-00 +0000"
-  },
-  {
     "headline": "State-protected hawk given a joint, fed a BuzzBall on video by California man, officials say",
     "link": "https://www.latimes.com/california/story/2026-02-25/state-protected-hawk-given-joint-buzzball-on-video-officials-say",
     "source": "latimes",
@@ -4002,12 +4140,6 @@
     "pubdate": "2026-02-26-00-02-16 +0000"
   },
   {
-    "headline": "Americans Are Leaving the U.S. in Record Numbers",
-    "link": "https://www.wsj.com/us-news/americans-leaving-the-us-migration-a5795bfa",
-    "source": "wsj",
-    "pubdate": "2026-02-26-00-00-00 +0000"
-  },
-  {
     "headline": "The $130 Billion Race for Companies to Get Their Tariff Money Back",
     "link": "https://www.wsj.com/us-news/law/the-130-billion-race-for-companies-to-get-their-tariff-money-back-1dcc5123",
     "source": "wsj",
@@ -4054,12 +4186,6 @@
     "link": "https://nypost.com/2026/02/25/us-news/california-winery-owner-gives-hottest-take-yet-on-why-industry-dying/",
     "source": "nypost",
     "pubdate": "2026-02-25-23-43-38 +0000"
-  },
-  {
-    "headline": "45 Years After Failed Coup, Spain Declassifies Files About Why It Failed",
-    "link": "https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html",
-    "source": "nyt",
-    "pubdate": "2026-02-25-23-39-03 +0000"
   },
   {
     "headline": "45 Years After Failed Coup, Spain Declassifies Files About Why It Failed",
@@ -4794,12 +4920,6 @@
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
   {
-    "headline": "She successfully rebranded MSNBC. Up next? Streaming",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-25/ms-now-msnbc-post-comcast-spinoff-what-to-know",
-    "source": "latimes",
-    "pubdate": "2026-02-25-11-00-00 +0000"
-  },
-  {
     "headline": "Trump projects power but heads weakened into a season of tough political challenges",
     "link": "https://www.latimes.com/politics/story/2026-02-25/trump-heads-weakened-into-season-of-tough-political-challenges",
     "source": "latimes",
@@ -4812,14 +4932,20 @@
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
   {
-    "headline": "Retired 100-year-old fighter pilot from Escondido receives Medal of Honor",
-    "link": "https://www.latimes.com/politics/story/2026-02-25/retired-100-year-old-fighter-pilot-from-escondido-receives-medal-of-honor",
+    "headline": "Trump defends immigration crackdown at State of Union as approval ratings plummet",
+    "link": "https://www.latimes.com/politics/story/2026-02-25/trump-defends-immigration-crackdown-at-state-of-union-as-approval-ratings-plummet",
     "source": "latimes",
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
   {
-    "headline": "Trump defends immigration crackdown at State of Union as approval ratings plummet",
-    "link": "https://www.latimes.com/politics/story/2026-02-25/trump-defends-immigration-crackdown-at-state-of-union-as-approval-ratings-plummet",
+    "headline": "She successfully rebranded MSNBC. Up next? Streaming",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-25/ms-now-msnbc-post-comcast-spinoff-what-to-know",
+    "source": "latimes",
+    "pubdate": "2026-02-25-11-00-00 +0000"
+  },
+  {
+    "headline": "Retired 100-year-old fighter pilot from Escondido receives Medal of Honor",
+    "link": "https://www.latimes.com/politics/story/2026-02-25/retired-100-year-old-fighter-pilot-from-escondido-receives-medal-of-honor",
     "source": "latimes",
     "pubdate": "2026-02-25-11-00-00 +0000"
   },
@@ -4866,12 +4992,6 @@
     "pubdate": "2026-02-25-10-09-37 +0000"
   },
   {
-    "headline": "Trump sticks to celebratory script in state of the union, with one angry detour",
-    "link": "https://www.cbc.ca/news/world/trump-state-of-the-union-address-9.7104968?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-25-10-09-07 +0000"
-  },
-  {
     "headline": "New travel rules for UK visitors kick in - how are you affected?",
     "link": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4890,12 +5010,6 @@
     "pubdate": "2026-02-25-10-00-17 +0000"
   },
   {
-    "headline": "Any trade deal with Canada will include tariffs, says Trump's trade rep",
-    "link": "https://www.cbc.ca/news/politics/trump-tariffs-canada-trade-deal-jamieson-greer-interview-9.7104990?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-25-09-56-55 +0000"
-  },
-  {
     "headline": "How Zimbabwe returned from abyss to World Cup resurgence",
     "link": "https://www.bbc.com/sport/cricket/articles/cjrq1yl02v5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4912,12 +5026,6 @@
     "link": "https://www.wsj.com/world/asia/kim-jong-un-is-greatest-person-in-the-world-says-north-korea-0554991a",
     "source": "wsj",
     "pubdate": "2026-02-25-09-07-00 +0000"
-  },
-  {
-    "headline": "Thailand’s Central Bank Surprises With Rate Cut",
-    "link": "https://www.wsj.com/articles/thailands-central-bank-surprises-with-rate-cut-1a07be58",
-    "source": "wsj",
-    "pubdate": "2026-02-25-09-04-00 +0000"
   },
   {
     "headline": "Where is Canada's immigration minister? Community groups are asking",
@@ -5172,12 +5280,6 @@
     "pubdate": "2026-02-25-00-01-06 +0000"
   },
   {
-    "headline": "Bottoms up with the advanced cicerone crafting this year’s SF Beer Week",
-    "link": "https://48hills.org/2026/02/bottoms-up-with-the-advanced-cicerone-crafting-this-years-sf-beer-week/",
-    "source": "48hills",
-    "pubdate": "2026-02-24-23-26-15 +0000"
-  },
-  {
     "headline": "Averted Midair Collision Shows Importance of Air Safety Act, Backers Say",
     "link": "https://www.nytimes.com/2026/02/24/us/politics/rotor-act-dc-plane-crash-teterboro.html",
     "source": "nyt",
@@ -5268,22 +5370,10 @@
     "pubdate": "2026-02-24-20-57-30 +0000"
   },
   {
-    "headline": "Conservatives press Liberal government to limit health care for some refugee claimants",
-    "link": "https://www.cbc.ca/news/politics/conservatives-cut-health-care-refugees-9.7104220?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-02-24-20-53-53 +0000"
-  },
-  {
     "headline": "Mexico Is Caught Between Trump and the Cartels",
     "link": "https://www.nytimes.com/2026/02/24/world/americas/trump-sheinbaum-us-mexico-cartel.html",
     "source": "nyt",
     "pubdate": "2026-02-24-20-46-24 +0000"
-  },
-  {
-    "headline": "Trump’s Tariffs Are Adding Steel Mill Jobs, and Crushing American Factories",
-    "link": "https://www.nytimes.com/2026/02/24/business/trump-steel-tariffs-manufacturing.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-20-37-21 +0000"
   },
   {
     "headline": "Trump’s Tariffs Are Adding Steel Mill Jobs, and Crushing American Factories",
@@ -5344,12 +5434,6 @@
     "link": "https://www.wsj.com/world/europe/louvre-chief-steps-down-after-criticism-over-security-staffing-596dd3e6",
     "source": "wsj",
     "pubdate": "2026-02-24-19-46-00 +0000"
-  },
-  {
-    "headline": "Trump’s New Tariffs Could Face Legal Challenges",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-tariffs-new-legal-challenges.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-19-27-38 +0000"
   },
   {
     "headline": "Home Depot Says Homeowners Are Weary From Economic Pressures",
@@ -5446,12 +5530,6 @@
     "link": "https://www.bbc.com/news/articles/cj0q964851po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-24-16-46-04 +0000"
-  },
-  {
-    "headline": "Trump Officials Seek to ‘Reimagine’ Unemployment Benefits, Targeting Fraud",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-unemployment-benefits-fraud.html",
-    "source": "nyt",
-    "pubdate": "2026-02-24-16-23-30 +0000"
   },
   {
     "headline": "Trump Officials Seek to ‘Reimagine’ Unemployment Benefits, Targeting Fraud",
@@ -5592,12 +5670,6 @@
     "pubdate": "2026-02-24-12-12-26 +0000"
   },
   {
-    "headline": "Iranian Oil Loadings Soar as Regional Risks Intensify Ahead of U.S. Talks",
-    "link": "https://www.wsj.com/business/energy-oil/iranian-oil-loadings-soar-as-regional-risks-intensify-ahead-of-u-s-talks-b92aa737",
-    "source": "wsj",
-    "pubdate": "2026-02-24-12-07-00 +0000"
-  },
-  {
     "headline": "AI is pushing S.F. rents higher and higher. Here’s how tenants are dealing.",
     "link": "https://missionlocal.org/2026/02/san-francisc-rents-ai-boom-tenants/",
     "source": "missionlocal",
@@ -5622,6 +5694,12 @@
     "pubdate": "2026-02-24-11-00-00 +0000"
   },
   {
+    "headline": "Nike's biggest Chinese challenger has landed in L.A.",
+    "link": "https://www.latimes.com/business/story/2026-02-24/nikes-biggest-chinese-challenger-has-landed-in-la-county",
+    "source": "latimes",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
     "headline": "Hiltzik: Waiting for your tariff refund check? Fugeddaboutit!",
     "link": "https://www.latimes.com/business/story/2026-02-24/waiting-for-your-tariff-refund-check-fugeddaboutit",
     "source": "latimes",
@@ -5630,12 +5708,6 @@
   {
     "headline": "Uber unveils new services as it prepares to bring robotaxis to L.A. soon",
     "link": "https://www.latimes.com/business/story/2026-02-24/uber-says-it-will-launch-robotaxis-in-los-angeles-this-year",
-    "source": "latimes",
-    "pubdate": "2026-02-24-11-00-00 +0000"
-  },
-  {
-    "headline": "Nike's biggest Chinese challenger has landed in L.A.",
-    "link": "https://www.latimes.com/business/story/2026-02-24/nikes-biggest-chinese-challenger-has-landed-in-la-county",
     "source": "latimes",
     "pubdate": "2026-02-24-11-00-00 +0000"
   },
@@ -5694,12 +5766,6 @@
     "pubdate": "2026-02-24-11-00-00 +0000"
   },
   {
-    "headline": "At a moment of turmoil, an embattled Trump is set to address a divided Congress",
-    "link": "https://www.latimes.com/politics/story/2026-02-24/trump-state-of-union-preview",
-    "source": "latimes",
-    "pubdate": "2026-02-24-11-00-00 +0000"
-  },
-  {
     "headline": "Essay: Gavin Newsom: They told me it was political suicide. I did it anyway",
     "link": "https://www.latimes.com/entertainment-arts/books/story/2026-02-24/newsom-memoir-excerpt-2004-san-francisco-marriage-equality",
     "source": "latimes",
@@ -5712,14 +5778,20 @@
     "pubdate": "2026-02-24-11-00-00 +0000"
   },
   {
-    "headline": "Arellano: The anti-Latino agenda behind Trump wanting Americans to have more kids",
-    "link": "https://www.latimes.com/california/story/2026-02-24/trump-administration-pronatalism-latinos",
+    "headline": "At a moment of turmoil, an embattled Trump is set to address a divided Congress",
+    "link": "https://www.latimes.com/politics/story/2026-02-24/trump-state-of-union-preview",
     "source": "latimes",
     "pubdate": "2026-02-24-11-00-00 +0000"
   },
   {
     "headline": "Hiltzik: Waiting for your tariff refund check? Fugeddaboutit!",
     "link": "https://www.latimes.com/business/story/2026-02-24/waiting-for-your-tariff-refund-check-fugeddaboutit",
+    "source": "latimes",
+    "pubdate": "2026-02-24-11-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: The anti-Latino agenda behind Trump wanting Americans to have more kids",
+    "link": "https://www.latimes.com/california/story/2026-02-24/trump-administration-pronatalism-latinos",
     "source": "latimes",
     "pubdate": "2026-02-24-11-00-00 +0000"
   },
@@ -6229,6 +6301,12 @@
   },
   {
     "headline": "Meta Rakes It In, Yet Still Borrows Billions for AI",
+    "link": "https://www.wsj.com/business/c-suite/meta-rakes-it-in-yet-still-borrows-billions-for-ai-d4de506d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-23-10-30-00 +0000"
+  },
+  {
+    "headline": "Meta Rakes It In, Yet Still Borrows Billions for AI",
     "link": "https://www.wsj.com/business/c-suite/meta-rakes-it-in-yet-still-borrows-billions-for-ai-d4de506d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-23-10-30-00 +0000"
@@ -6244,12 +6322,6 @@
     "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
     "source": "nyt",
     "pubdate": "2026-02-23-10-04-22 +0000"
-  },
-  {
-    "headline": "Johnson Matthey Lowers Price of Unit Being Sold to Honeywell to $1.8 Billion",
-    "link": "https://www.wsj.com/business/energy-oil/johnson-matthey-lowers-price-of-unit-being-sold-to-honeywell-to-1-8-billion-8ba8d8ac?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-02-23-08-20-00 +0000"
   },
   {
     "headline": "Renault to Take Full Control of Flexis Electric-Van JV",
@@ -6660,6 +6732,12 @@
     "pubdate": "2026-02-21-11-00-11 +0000"
   },
   {
+    "headline": "This company tries to recycle the really difficult plastics",
+    "link": "https://www.latimes.com/environment/story/2026-02-21/company-ridwell-tries-to-recycle-really-difficult-plastics",
+    "source": "latimes",
+    "pubdate": "2026-02-21-11-00-00 +0000"
+  },
+  {
     "headline": "Here's who is running in the heated race for insurance commissioner",
     "link": "https://www.latimes.com/business/story/2026-02-21/typically-sleepy-race-for-insurance-commissioner-heats-up",
     "source": "latimes",
@@ -6668,12 +6746,6 @@
   {
     "headline": "Black Altadena fire victims clash with Edison over compensation",
     "link": "https://www.latimes.com/business/story/2026-02-21/black-altadena-fire-victims-clash-with-edison-over-compensation",
-    "source": "latimes",
-    "pubdate": "2026-02-21-11-00-00 +0000"
-  },
-  {
-    "headline": "This company tries to recycle the really difficult plastics",
-    "link": "https://www.latimes.com/environment/story/2026-02-21/company-ridwell-tries-to-recycle-really-difficult-plastics",
     "source": "latimes",
     "pubdate": "2026-02-21-11-00-00 +0000"
   },
@@ -6786,12 +6858,6 @@
     "pubdate": "2026-02-21-00-44-24 +0000"
   },
   {
-    "headline": "As Trump Considers Second Iran Attack, It Could Be Deadlier Than the First",
-    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-iran-risks.html",
-    "source": "nyt",
-    "pubdate": "2026-02-21-00-40-25 +0000"
-  },
-  {
     "headline": "Venezuela Releases Political Prisoners, With Conditions",
     "link": "https://www.nytimes.com/video/world/americas/100000010703424/venezuela-releases-political-prisoners-with-conditions.html",
     "source": "nyt",
@@ -6814,12 +6880,6 @@
     "link": "https://www.nytimes.com/2025/02/20/us/politics/supreme-court-trump-tariffs.html",
     "source": "nyt",
     "pubdate": "2026-02-20-20-20-40 +0000"
-  },
-  {
-    "headline": "Tenderloin Buzz: Black history walking tour, gallery reopening, and more",
-    "link": "https://missionlocal.org/2026/02/sf-tenderloin-black-history-tour-gallery-opening/",
-    "source": "missionlocal",
-    "pubdate": "2026-02-20-20-10-27 +0000"
   },
   {
     "headline": "Frito-Lay to close San Bernardino County warehouse, lay off 247 employees",
@@ -6910,17 +6970,5 @@
     "link": "https://www.latimes.com/politics/story/2026-02-20/supreme-court-trumps-tariffs",
     "source": "latimes",
     "pubdate": "2026-02-20-15-18-05 +0000"
-  },
-  {
-    "headline": "South Africa Pulls Out of Venice Biennale After Gaza Artwork Furor",
-    "link": "https://www.nytimes.com/2026/02/20/arts/design/south-africa-venice-biennale.html",
-    "source": "nyt",
-    "pubdate": "2026-02-20-15-01-24 +0000"
-  },
-  {
-    "headline": "U.S. Builds Tech Bloc to Counter China, Adds India as Newest Member",
-    "link": "https://www.wsj.com/world/india/u-s-builds-tech-bloc-to-counter-china-adds-india-as-newest-member-44afdc60",
-    "source": "wsj",
-    "pubdate": "2026-02-20-14-19-00 +0000"
   }
 ]
