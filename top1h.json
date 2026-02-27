@@ -1,66 +1,17 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-02-27-12-41-23 +0000",
-    "source": "nyt",
-    "headline": "With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-02-27-12-46-26 +0000",
-    "source": "bbc",
-    "headline": "Why Trump means the Cuban Revolution faces its biggest threat yet",
-    "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-02-27-12-32-52 +0000",
-    "source": "nyt",
-    "headline": "Green Party Defeats Labour in U.K. Special Election, in Blow to Starmer",
-    "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-02-27-12-41-34 +0000",
-    "source": "nyt",
-    "headline": "Pentagon Fires Another Laser at a Drone, Prompting a New Air Closure",
-    "link": "https://www.nytimes.com/2026/02/26/us/drone-faa-dhs-el-paso-airspace.html"
-  },
-  {
-    "score": 12,
+    "score": 10,
     "pubdate": "2026-02-27-13-08-03 +0000",
     "source": "bbc",
     "headline": "What we know after latest escalation in Pakistan-Afghanistan tensions",
     "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 11,
-    "pubdate": "2026-02-27-12-32-08 +0000",
-    "source": "nyt",
-    "headline": "How India Became One of the World’s Biggest Economies",
-    "link": "https://www.nytimes.com/2026/02/27/business/india-economy-gdp.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-02-27-12-46-03 +0000",
-    "source": "nypost",
-    "headline": "Teacher charged with molesting student was married mom who complained about ‘creepy men’",
-    "link": "https://nypost.com/2026/02/27/us-news/teacher-charged-with-molesting-student-was-married-mom-who-complained-about-creepy-men/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-02-27-13-03-00 +0000",
-    "source": "wsj",
-    "headline": "Puma’s Shares Drop as Turnaround Progress Remains Under Scrutiny",
-    "link": "https://www.wsj.com/business/earnings/pumas-shares-drop-as-turnaround-progress-remains-under-scrutiny-3a869f77?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-02-27-12-49-04 +0000",
+    "score": 9,
+    "pubdate": "2026-02-27-13-10-45 +0000",
     "source": "cbc",
-    "headline": "Democrats alarmed by 'chaos in the skies' after U.S. government again fires laser near Mexico border",
-    "link": "https://www.cbc.ca/news/world/us-texas-government-laser-drone-incident-9.7107942?cmp=rss"
+    "headline": "U.S. says embassy staff in Israel who want to leave should do so immediately",
+    "link": "https://www.cbc.ca/news/world/united-states-israel-embassy-staff-9.7107986?cmp=rss"
   },
   {
     "score": 7,
@@ -68,5 +19,19 @@
     "source": "nyt",
     "headline": "Paramount Is Set to Win Warner Bros. Now Comes the Hard Part.",
     "link": "https://www.nytimes.com/2026/02/27/business/dealbook/paramount-warner-bros-netflix.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-02-27-13-15-42 +0000",
+    "source": "nyt",
+    "headline": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
+    "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-02-27-13-08-03 +0000",
+    "source": "bbc",
+    "headline": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+    "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss"
   }
 ]
