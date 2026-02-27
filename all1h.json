@@ -1,8 +1,308 @@
 [
   {
+    "headline": "Afro Deli owner to open upscale East African restaurant at Lake and Nicollet",
+    "link": "https://www.startribune.com/afro-deli-owner-to-open-upscale-east-african-restaurant-at-lake-and-nicollet/601587333",
+    "source": "startribune",
+    "pubdate": "2026-02-27-17-00-00 +0000"
+  },
+  {
+    "headline": "Trump Media Explores Spinning Off Truth Social",
+    "link": "https://www.nytimes.com/2026/02/27/business/trump-media-truth-social-spin-off.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-57-41 +0000"
+  },
+  {
+    "headline": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus",
+    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-853350ce",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-56-00 +0000"
+  },
+  {
+    "headline": "Tram derails in Milan, leaving one dead and dozens injured",
+    "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-55-48 +0000"
+  },
+  {
+    "headline": "Tram derails in Milan, leaving one dead and dozens injured",
+    "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-55-48 +0000"
+  },
+  {
+    "headline": "4 Takeaways About the U.S. Birthrate Decline",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-52-55 +0000"
+  },
+  {
+    "headline": "4 Takeaways About the U.S. Birthrate Decline",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-takeaways.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-52-55 +0000"
+  },
+  {
+    "headline": "Venezuela’s Capital, Laid Low by Misrule, Is Stirring Back to Life",
+    "link": "https://www.nytimes.com/2026/02/26/world/americas/caracas-venezuela-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-51-45 +0000"
+  },
+  {
+    "headline": "Venezuela’s Capital, Laid Low by Misrule, Is Stirring Back to Life",
+    "link": "https://www.nytimes.com/2026/02/26/world/americas/caracas-venezuela-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-51-45 +0000"
+  },
+  {
+    "headline": "Dow tumbles 500 points as growing AI anxiety, hot inflation rattle Wall Street",
+    "link": "https://nypost.com/2026/02/27/business/dow-tumbles-500-points-as-growing-ai-anxiety-hot-inflation-rattle-wall-street/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-50-11 +0000"
+  },
+  {
+    "headline": "New A.C.A. Plans Could Increase Family Deductibles to $31,000",
+    "link": "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-48-10 +0000"
+  },
+  {
+    "headline": "After F.B.I. Raid, Los Angeles School Board Discusses Superintendent’s Future",
+    "link": "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-47-25 +0000"
+  },
+  {
+    "headline": "Were Duterte’s Speeches Orders to Kill or Hyperbole?",
+    "link": "https://www.nytimes.com/2026/02/27/world/asia/rodrigo-duterte-icc-trial-hague.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-45-41 +0000"
+  },
+  {
+    "headline": "Were Duterte’s Speeches Orders to Kill or Hyperbole?",
+    "link": "https://www.nytimes.com/2026/02/27/world/asia/rodrigo-duterte-icc-trial-hague.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-45-41 +0000"
+  },
+  {
+    "headline": "Here are the real winners and losers in epic Hollywood battle for Warner Bros. Discovery",
+    "link": "https://nypost.com/2026/02/27/media/the-real-winners-and-losers-in-epic-hollywood-battle-for-warner-bros-discovery/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-45-15 +0000"
+  },
+  {
+    "headline": "Transgender Kansas Residents Sue After Driver’s Licenses Are Invalidated",
+    "link": "https://www.nytimes.com/2026/02/27/us/transgender-kansas-drivers-licenses-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-44-19 +0000"
+  },
+  {
+    "headline": "Pentagon Attacks Anthropic Chief as Deadline Looms in Standoff",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-41-26 +0000"
+  },
+  {
+    "headline": "Pentagon Attacks Anthropic Chief as Deadline Looms in Standoff",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-41-25 +0000"
+  },
+  {
     "headline": "Officials at multiple federal agencies have raised concerns about the safety and reliability of Elon Musk’s xAI artificial-intelligence tools in recent months",
     "link": "https://www.wsj.com/politics/national-security/elon-musk-xai-grok-security-safety-government-73ab4f6e",
     "source": "wsj",
-    "pubdate": "2026-02-27-15-02-00 +0000"
+    "pubdate": "2026-02-27-16-34-00 +0000"
+  },
+  {
+    "headline": "UK withdraws Tehran embassy staff as concern grows over threat of US strikes",
+    "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-31-44 +0000"
+  },
+  {
+    "headline": "UK withdraws Tehran embassy staff as concern grows over threat of US strikes",
+    "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-31-44 +0000"
+  },
+  {
+    "headline": "Palestine Action arrest as Churchill statue defaced",
+    "link": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-30-55 +0000"
+  },
+  {
+    "headline": "Best Business Debt Consolidation Loans in February 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/business-loans/business-debt-consolidation-loans?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-30-00 +0000"
+  },
+  {
+    "headline": "How To Refinance a Car Loan",
+    "link": "https://www.wsj.com/buyside/personal-finance/auto-loans/how-to-refinance-a-car-loan",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-30-00 +0000"
+  },
+  {
+    "headline": "6 of the Best Wealth Management Firms: Well-Known Fiduciary Investment Companies to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-wealth-management-firms?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-29-00 +0000"
+  },
+  {
+    "headline": "Cheapest Car Insurance Companies 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/cheapest-car-insurance",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-29-00 +0000"
+  },
+  {
+    "headline": "Best Pet Insurance Companies of 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/pet-insurance/best-pet-insurance",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-29-00 +0000"
+  },
+  {
+    "headline": "Best Term Life Insurance Companies of 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/life-insurance/best-term-life-insurance",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-29-00 +0000"
+  },
+  {
+    "headline": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-28-05 +0000"
+  },
+  {
+    "headline": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-28-05 +0000"
+  },
+  {
+    "headline": "Ex-stripper who falsely accused Duke lacrosse players of rape walks free years after killing boyfriend",
+    "link": "https://nypost.com/2026/02/27/us-news/crystal-mangum-who-falsely-accused-duke-lacrosse-players-of-rape-freed-after-killing-boyfriend/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-27-39 +0000"
+  },
+  {
+    "headline": "Minnesota’s looming budget deficit now is a surplus but uncertainty remains",
+    "link": "https://www.startribune.com/minnesotas-looming-budget-deficit-now-is-a-surplus-but-uncertainty-remains/601587190",
+    "source": "startribune",
+    "pubdate": "2026-02-27-16-27-22 +0000"
+  },
+  {
+    "headline": "Opinion | Systems Run on Software No One Understands",
+    "link": "https://www.wsj.com/opinion/systems-run-on-software-no-one-understands-6d7c5e44",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-26-00 +0000"
+  },
+  {
+    "headline": "Opinion | Small Companies Lose Out on Tariff Refunds",
+    "link": "https://www.wsj.com/opinion/small-companies-lose-out-on-tariff-refunds-5c54b418?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-25-00 +0000"
+  },
+  {
+    "headline": "Opinion | Our Healers in Harm’s Way",
+    "link": "https://www.wsj.com/opinion/our-healers-in-harms-way-0b72e973",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-23-00 +0000"
+  },
+  {
+    "headline": "House Republicans vowed to conduct a thorough inquiry of former President Bill Clinton’s ties to Jeffrey Epstein",
+    "link": "https://www.wsj.com/politics/house-republicans-promise-thorough-probe-of-bill-clintons-epstein-ties-ccdd6827",
+    "source": "wsj",
+    "pubdate": "2026-02-27-16-21-00 +0000"
+  },
+  {
+    "headline": "Government to give go-ahead for £1bn defence helicopter deal",
+    "link": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-20-07 +0000"
+  },
+  {
+    "headline": "Government to give go-ahead for £1bn defence helicopter deal",
+    "link": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-20-07 +0000"
+  },
+  {
+    "headline": "Nancy Mace claims Hillary Clinton was  ‘screaming’ and ‘unhinged’ when pressed on Bill Clinton’s Epstein files pics",
+    "link": "https://nypost.com/2026/02/27/us-news/nancy-mace-claims-hillary-clinton-was-screaming-and-unhinged-when-pressed-on-bill-clintons-epstein-files-pics/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-15-50 +0000"
+  },
+  {
+    "headline": "Nancy Mace claims Hillary Clinton was  ‘screaming’ and ‘unhinged’ when pressed on Bill Clinton’s Epstein files pics",
+    "link": "https://nypost.com/2026/02/27/us-news/nancy-mace-claims-hillary-clinton-was-screaming-and-unhinged-when-pressed-on-bill-clintons-epstein-files-pics/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-15-50 +0000"
+  },
+  {
+    "headline": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+    "link": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-15-30 +0000"
+  },
+  {
+    "headline": "OpenAI Raises $110 Billion Led by Amazon, Nvidia and SoftBank, Extending A.I. Boom",
+    "link": "https://www.nytimes.com/2026/02/27/business/openai-funding.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-13-26 +0000"
+  },
+  {
+    "headline": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+    "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-13-13 +0000"
+  },
+  {
+    "headline": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+    "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-27-16-13-13 +0000"
+  },
+  {
+    "headline": "Rubio still plans to visit Israel Monday and Tuesday: State Department",
+    "link": "https://nypost.com/2026/02/27/us-news/rubio-still-plans-to-visit-israel-monday-and-tuesday/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-12-02 +0000"
+  },
+  {
+    "headline": "Rubio still plans to visit Israel Monday and Tuesday: State Department",
+    "link": "https://nypost.com/2026/02/27/us-news/rubio-still-plans-to-visit-israel-monday-and-tuesday/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-12-02 +0000"
+  },
+  {
+    "headline": "Elite $55K-a-year private school rocked as teacher accused of gross behavior on campus",
+    "link": "https://nypost.com/2026/02/27/us-news/viewpoint-school-teacher-arrested-for-inappropriate-behavior/",
+    "source": "nypost",
+    "pubdate": "2026-02-27-16-11-40 +0000"
+  },
+  {
+    "headline": "EEOC Says Agencies Can Restrict Bathroom Use by Gender Identity",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/eeoc-gender-bathrooms-transgender.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-11-13 +0000"
+  },
+  {
+    "headline": "EEOC Says Agencies Can Restrict Bathroom Use by Gender Identity",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/eeoc-gender-bathrooms-transgender.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-11-13 +0000"
+  },
+  {
+    "headline": "Iran’s Students Are Protesting Again. Here’s Why.",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/iran-student-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-10-23 +0000"
+  },
+  {
+    "headline": "Iran’s Students Are Protesting Again. Here’s Why.",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/iran-student-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-02-27-16-10-23 +0000"
   }
 ]
