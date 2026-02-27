@@ -1,34 +1,34 @@
 [
   {
-    "score": 155,
+    "score": 154,
     "pubdate": "2026-02-27-02-27-00 +0000",
     "source": "wsj",
-    "headline": "New York City Mayor Zohran Mamdani and President Trump met Thursday in the White House to discuss increasing housing production.",
+    "headline": "New York City Mayor Zohran Mamdani and President Trump met Thursday in the White House to discuss increasing housing production",
     "link": "https://www.wsj.com/politics/policy/new-york-city-mayor-mamdani-to-meet-with-trump-in-washington-7a5f5fd3"
   },
   {
-    "score": 110,
+    "score": 123,
+    "pubdate": "2026-02-27-03-31-25 +0000",
+    "source": "nypost",
+    "headline": "JD Vance says ‘no chance’ a US attack on Iran will lead to long war with ‘no end in sight’",
+    "link": "https://nypost.com/2026/02/26/us-news/jd-vance-says-no-chance-a-us-attack-on-iran-will-lead-to-long-war-with-no-end-in-sight/"
+  },
+  {
+    "score": 93,
     "pubdate": "2026-02-27-02-13-00 +0000",
     "source": "wsj",
     "headline": "Hillary Clinton said that she had no knowledge of Jeffrey Epstein’s wrongdoing and accused House Republicans of conducting a ‘fishing expedition’ as she sat for a closed-door, videotaped deposition",
     "link": "https://www.wsj.com/politics/republicans-press-hillary-clinton-in-epstein-probe-5e4dde46"
   },
   {
-    "score": 107,
+    "score": 93,
     "pubdate": "2026-02-26-22-06-57 +0000",
     "source": "nypost",
     "headline": "Paramount Skydance comes out on top of bidding war for Warner Bros. Discovery as Netflix says it won’t raise bid",
     "link": "https://nypost.com/2026/02/26/business/warner-bros-discovery-says-paramounts-31-per-share-bid-is-superior-to-netflix-offer-latest-twist-in-bidding-war/"
   },
   {
-    "score": 86,
-    "pubdate": "2026-02-26-11-22-15 +0000",
-    "source": "cbc",
-    "headline": "Iran nuclear talks conclude with no deal announced as risk of U.S. attack looms",
-    "link": "https://www.cbc.ca/news/world/geneva-us-iran-negotiations-9.7106547?cmp=rss"
-  },
-  {
-    "score": 72,
+    "score": 68,
     "pubdate": "2026-02-26-17-03-00 +0000",
     "source": "wsj",
     "headline": "Near misses in Operation Rough Rider, the U.S. military operation that targeted Houthi rebels in Yemen last year, are a warning about the risks of using military force against even a small adversary",
@@ -42,31 +42,31 @@
     "link": "https://www.latimes.com/politics/story/2026-02-26/chabria-column-claude-ai-anthropic-pentagon-hegseth"
   },
   {
-    "score": 62,
+    "score": 66,
     "pubdate": "2026-02-26-21-28-00 +0000",
     "source": "wsj",
     "headline": "Oil lobbyists have made the case to Trump officials in recent weeks that his attacks on wind farms off the U.S. coast risk derailing congressional efforts to speed up permitting for energy projects",
     "link": "https://www.wsj.com/politics/policy/big-oil-is-urging-trump-to-stop-battle-on-offshore-wind-40c3e06c"
   },
   {
-    "score": 60,
-    "pubdate": "2026-02-26-23-22-46 +0000",
+    "score": 59,
+    "pubdate": "2026-02-26-23-29-03 +0000",
+    "source": "nyt",
+    "headline": "Russia Launches Big Strikes Before U.S.-Ukraine Talks in Geneva",
+    "link": "https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html"
+  },
+  {
+    "score": 58,
+    "pubdate": "2026-02-26-10-39-25 +0000",
     "source": "nypost",
-    "headline": "Kim Jong Un’s sister makes first public appearance since her niece was named successor instead of her",
-    "link": "https://nypost.com/2026/02/26/world-news/kim-jong-uns-sister-makes-first-public-appearance-since-her-niece-was-named-successor-instead-of-her/"
+    "headline": "Kim Jong Un calls South Korea ‘most hostile enemy,’ says North could ‘completely destroy’ it",
+    "link": "https://nypost.com/2026/02/26/world-news/kim-jong-un-calls-south-korea-most-hostile-enemy-says-north-could-completely-destroy-it/"
   },
   {
     "score": 57,
-    "pubdate": "2026-02-26-22-49-32 +0000",
-    "source": "latimes",
-    "headline": "Downtown LA Law Group moves to block state bar record review in sex abuse probe",
-    "link": "https://www.latimes.com/california/story/2026-02-26/dtla-law-group-moves-to-block-state-bar-record-review-in-sex-abuse-probe"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-02-26-06-01-11 +0000",
-    "source": "bbc",
-    "headline": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
-    "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-02-26-17-48-00 +0000",
+    "source": "wsj",
+    "headline": "Mortgage rates fell below 6% this week for the first time in more than three years, welcome news for waves of house hunters heading into the busy spring home-buying season",
+    "link": "https://www.wsj.com/economy/housing/mortgage-rates-fall-below-6-for-the-first-time-since-2022-f572ed7e"
   }
 ]
