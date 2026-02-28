@@ -1,31 +1,24 @@
 [
   {
     "score": 458,
-    "pubdate": "2026-02-28-18-23-54 +0000",
+    "pubdate": "2026-02-28-19-21-34 +0000",
     "source": "wapo",
     "headline": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
-    "link": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 212,
+    "score": 193,
     "pubdate": "2026-02-27-23-01-00 +0000",
     "source": "wsj",
     "headline": "Trump ends government use of Anthropic’s AI models, Bill Clinton says he knew nothing about Epstein’s crimes and the HBO investment-bank show “Industry” branches out. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/trump-will-stop-government-work-with-anthropic-b120197e"
   },
   {
-    "score": 112,
+    "score": 110,
     "pubdate": "2026-02-28-18-40-55 +0000",
     "source": "nypost",
     "headline": "Nancy Mace bashes Ilhan Omar over Iran attack after ‘Squad’ rep claims US ‘loves to strike Muslim countries during Ramadan’",
     "link": "https://nypost.com/2026/02/28/us-news/nancy-mace-bashes-ilhan-omar-over-iran-attack-after-squad-rep-claims-us-loves-to-strike-muslim-countries-during-ramadan/"
-  },
-  {
-    "score": 81,
-    "pubdate": "2026-02-27-21-50-27 +0000",
-    "source": "nypost",
-    "headline": "Warner Bros. Discovery CEO David Zaslav calls Paramount pivot ‘whiplash-y’ as $110B deal takes shape",
-    "link": "https://nypost.com/2026/02/27/business/warner-bros-discover-ceo-david-zaslav-calls-paramount-pivot-whiplash-y/"
   },
   {
     "score": 80,
@@ -35,7 +28,7 @@
     "link": "https://www.wsj.com/politics/house-republicans-promise-thorough-probe-of-bill-clintons-epstein-ties-ccdd6827"
   },
   {
-    "score": 78,
+    "score": 76,
     "pubdate": "2026-02-28-15-04-01 +0000",
     "source": "nypost",
     "headline": "Saudi Arabia condemns Iran’s attacks on Gulf nations, offers ‘all its capabilities’ in the fight against Tehran",
@@ -49,21 +42,28 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 69,
+    "score": 66,
     "pubdate": "2026-02-28-07-10-48 +0000",
     "source": "nypost",
     "headline": "US, Israel launch ‘Operation Epic Fury’ attack on Iran after regime refuses to scrap nuclear program — Trump vows to eliminate threats",
     "link": "https://nypost.com/2026/02/28/us-news/us-israel-launch-attack-on-iran-after-regime-refuses-to-scrap-nuclear-program-report/"
   },
   {
-    "score": 56,
-    "pubdate": "2026-02-28-16-25-18 +0000",
-    "source": "nyt",
-    "headline": "Congress Faces War Powers Votes in Wake of Iran Strikes",
-    "link": "https://www.nytimes.com/2026/02/28/us/politics/congress-war-powers-votes-iran.html"
+    "score": 60,
+    "pubdate": "2026-02-28-00-41-54 +0000",
+    "source": "latimes",
+    "headline": "Power, politics and a $2.8-billion exit: How Paramount topped Netflix to win Warner Bros.",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-27/paramount-warner-bros-acquisition-how-why-what-to-know"
   },
   {
-    "score": 55,
+    "score": 52,
+    "pubdate": "2026-02-28-17-49-42 +0000",
+    "source": "nypost",
+    "headline": "Democrats rage over Trump’s ‘illegal’ war in Iran, demand Congress return to Washington for ‘immediate’ vote",
+    "link": "https://nypost.com/2026/02/28/us-news/trumps-iran-attack-sets-off-furious-debate-in-congress-on-whether-war-is-necessary-or-illegal/"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-02-27-23-24-00 +0000",
     "source": "wsj",
     "headline": "Kristi Noem for months failed to respond to an internal watchdog’s findings that her move to allow passengers to clear airport screening with their shoes on is creating “significant” security risks",
