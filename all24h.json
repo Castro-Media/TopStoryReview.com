@@ -1,15 +1,531 @@
 [
   {
+    "headline": "Abrupt Change for Warner Bros. Prompts Many Grim Faces",
+    "link": "https://www.nytimes.com/2026/02/28/business/warner-bros-paramount-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-58-36 +0000"
+  },
+  {
     "headline": "Live Updates: U.S. and Israel Strike Iran as Trump Calls for Overthrow of Government",
     "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
     "source": "nyt",
-    "pubdate": "2026-02-28-16-53-11 +0000"
+    "pubdate": "2026-02-28-18-57-29 +0000"
+  },
+  {
+    "headline": "Iran Says Dozens Are Killed in Strike on School",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-school-strike-us-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-52-41 +0000"
+  },
+  {
+    "headline": "Iran Says Dozens Are Killed in Strike on School",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-school-strike-us-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-52-41 +0000"
+  },
+  {
+    "headline": "Kim Jong Un gifts sniper rifles to officials — and daughter takes aim as takeover rumors swirl",
+    "link": "https://nypost.com/2026/02/28/world-news/north-koreas-kim-gifts-rifles-to-officials-and-his-daughter-takes-aim-after-party-congress/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-18-52-28 +0000"
+  },
+  {
+    "headline": "NYC Mayor Zohran Mamdani condemns Iran strike: ‘Illegal war of aggression’",
+    "link": "https://nypost.com/2026/02/28/us-news/nyc-mayor-zohran-mamdani-condemns-iran-strike-illegal-war-of-aggression/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-18-51-53 +0000"
+  },
+  {
+    "headline": "Venezuela condemns US strikes on Iran — while criticizing ‘undue’ retaliatory attacks",
+    "link": "https://nypost.com/2026/02/28/world-news/venezuela-condemns-us-strikes-on-iran-while-criticizing-undue-retaliatory-attacks/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-18-48-47 +0000"
+  },
+  {
+    "headline": "Opinion | Trump Enforces His Red Line on Iran",
+    "link": "https://www.wsj.com/opinion/trump-enforces-his-red-line-on-iran-a2ad85ab",
+    "source": "wsj",
+    "pubdate": "2026-02-28-18-47-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-strikes-us",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-46-21 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-strikes-us",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-46-21 +0000"
+  },
+  {
+    "headline": "Vance was in Situation Room with Gabbard during Iran strikes",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-46-16 +0000"
+  },
+  {
+    "headline": "Live updates: U.S., Israel strike Iran as Trump calls for regime change; Tehran retaliates",
+    "link": "https://www.washingtonpost.com/world/2026/02/28/israel-strikes-iran-live-updates/",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-46-16 +0000"
+  },
+  {
+    "headline": "Centcom targeted Iran’s missile sites, airfields, IRGC",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-45-38 +0000"
+  },
+  {
+    "headline": "Saturday’s snow moves south, tracks along Minnesota River Valley",
+    "link": "https://www.startribune.com/a-few-inches-of-snow-expected-saturday-morning-across-much-of-minnesota/601590250",
+    "source": "startribune",
+    "pubdate": "2026-02-28-18-42-23 +0000"
+  },
+  {
+    "headline": "Nancy Mace bashes Ilhan Omar over Iran attack after ‘Squad’ rep claims US ‘loves to strike Muslim countries during Ramadan’",
+    "link": "https://nypost.com/2026/02/28/us-news/nancy-mace-bashes-ilhan-omar-over-iran-attack-after-squad-rep-claims-us-loves-to-strike-muslim-countries-during-ramadan/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-18-40-55 +0000"
+  },
+  {
+    "headline": "Nancy Mace bashes Ilhan Omar over Iran attack after ‘Squad’ rep claims US ‘loves to strike Muslim countries during Ramadan’",
+    "link": "https://nypost.com/2026/02/28/us-news/nancy-mace-bashes-ilhan-omar-over-iran-attack-after-squad-rep-claims-us-loves-to-strike-muslim-countries-during-ramadan/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-18-40-55 +0000"
+  },
+  {
+    "headline": "Glitzy Dubai Gets a Taste of Middle East War",
+    "link": "https://www.wsj.com/world/middle-east/glitzy-dubai-gets-a-taste-of-middle-east-war-9d941f20",
+    "source": "wsj",
+    "pubdate": "2026-02-28-18-36-00 +0000"
+  },
+  {
+    "headline": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/congress-iran-attacks-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-30-22 +0000"
+  },
+  {
+    "headline": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/congress-iran-attacks-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-30-22 +0000"
+  },
+  {
+    "headline": "Israel’s strike on Iran largest yet with 500 targets hit, IDF says",
+    "link": "https://nypost.com/2026/02/28/world-news/israels-strike-on-iran-largest-yet-with-500-targets-hit-idf-says/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-18-30-21 +0000"
+  },
+  {
+    "headline": "Iran’s spy agency among top targets; commanders killed",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-27-09 +0000"
+  },
+  {
+    "headline": "US and Israel launch a major attack on Iran. Trump urges Iranians to 'take over'",
+    "link": "https://www.startribune.com/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran/601590347",
+    "source": "startribune",
+    "pubdate": "2026-02-28-18-27-05 +0000"
+  },
+  {
+    "headline": "Israelis Take Shelter as Sirens Warn of Incoming Missiles",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-missiles-shelter-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-26-34 +0000"
+  },
+  {
+    "headline": "Israelis Take Shelter as Sirens Warn of Incoming Missiles",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-missiles-shelter-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-26-34 +0000"
+  },
+  {
+    "headline": "Iran’s state broadcaster reported the toll from the U.S.-Israeli strikes so far has reached 201 dead...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-25-42 +0000"
+  },
+  {
+    "headline": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
+    "link": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-23-54 +0000"
+  },
+  {
+    "headline": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
+    "link": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-23-54 +0000"
+  },
+  {
+    "headline": "A Timeline of U.S. and Iran Relations, From Allies to Enemies",
+    "link": "https://www.wsj.com/world/middle-east/us-iran-relations-history-timeline-739a7e0c",
+    "source": "wsj",
+    "pubdate": "2026-02-28-18-23-00 +0000"
+  },
+  {
+    "headline": "Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-17-36 +0000"
+  },
+  {
+    "headline": "Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-17-36 +0000"
   },
   {
     "headline": "Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’",
     "link": "https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html",
     "source": "nyt",
-    "pubdate": "2026-02-28-16-48-45 +0000"
+    "pubdate": "2026-02-28-18-15-51 +0000"
+  },
+  {
+    "headline": "U.S. religious groups deeply split over attacks",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-15-46 +0000"
+  },
+  {
+    "headline": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
+    "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-28-18-15-02 +0000"
+  },
+  {
+    "headline": "What we know so far",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-13-52 +0000"
+  },
+  {
+    "headline": "Trump’s Unilateral Iran Strike Sparks Constitutional War Powers Dispute",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/trump-iran-war-powers.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-13-20 +0000"
+  },
+  {
+    "headline": "Trump’s Unilateral Iran Strike Sparks Constitutional War Powers Dispute",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/trump-iran-war-powers.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-13-20 +0000"
+  },
+  {
+    "headline": "Israeli forces targeted regime sites while U.S. hit Iran’s military",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-11-29 +0000"
+  },
+  {
+    "headline": "What to Know About the U.S. Attacks on Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-08-04 +0000"
+  },
+  {
+    "headline": "What to Know About the U.S. Attacks on Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-18-08-04 +0000"
+  },
+  {
+    "headline": "Allies worry U.S. has no plan for aftermath of Iran attacks",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-18-06-43 +0000"
+  },
+  {
+    "headline": "Horrifying claims teacher working at elite LA school for decade took intimate pictures of multiple girls",
+    "link": "https://nypost.com/2026/02/28/us-news/horrifying-child-abuse-claims-against-teacher-working-at-calabasas-school/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-18-02-23 +0000"
+  },
+  {
+    "headline": "Democratic lawmakers decry Iran attacks as illegal",
+    "link": "https://www.wsj.com/politics/policy/democratic-lawmakers-decry-iran-attacks-as-illegal-46c1d897",
+    "source": "wsj",
+    "pubdate": "2026-02-28-18-00-00 +0000"
+  },
+  {
+    "headline": "Luxury Dubai hotel Fairmont The Palm on fire as Iran fires retaliatory air attack",
+    "link": "https://nypost.com/2026/02/28/world-news/luxury-dubai-hotel-fairmont-the-palm-on-fire-as-iran-fires-retaliatory-strikes/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-58-13 +0000"
+  },
+  {
+    "headline": "Netanyahu Takes His Shot at Regime Change in Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/netanyahu-regime-change-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-53-16 +0000"
+  },
+  {
+    "headline": "Netanyahu Takes His Shot at Regime Change in Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/netanyahu-regime-change-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-53-16 +0000"
+  },
+  {
+    "headline": "Democrats rage over Trump’s ‘illegal’ war in Iran, demand Congress return to Washington for ‘immediate’ vote",
+    "link": "https://nypost.com/2026/02/28/us-news/trumps-iran-attack-sets-off-furious-debate-in-congress-on-whether-war-is-necessary-or-illegal/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-49-42 +0000"
+  },
+  {
+    "headline": "Democrats rage over Trump’s ‘illegal’ war in Iran, demand Congress return to Washington for ‘immediate’ vote",
+    "link": "https://nypost.com/2026/02/28/us-news/trumps-iran-attack-sets-off-furious-debate-in-congress-on-whether-war-is-necessary-or-illegal/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-49-42 +0000"
+  },
+  {
+    "headline": "Full brackets announced for 2026 boys hockey state tournament",
+    "link": "https://www.startribune.com/minnesota-boys-hockey-state-tournament-bracket-matchups-schedule-st-paul/601586715",
+    "source": "startribune",
+    "pubdate": "2026-02-28-17-46-10 +0000"
+  },
+  {
+    "headline": "Prior to Iran strike, CIA assessed Khamenei would be replaced by hardline IRGC members if killed",
+    "link": "https://nypost.com/2026/02/28/world-news/prior-to-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-members-if-killed/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-45-24 +0000"
+  },
+  {
+    "headline": "Leaders of E.U., Canada and Other Countries React to U.S.-led Attack on Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-44-31 +0000"
+  },
+  {
+    "headline": "Leaders of E.U., Canada and Other Countries React to U.S.-led Attack on Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-44-31 +0000"
+  },
+  {
+    "headline": "Trump goes ‘big’: Early strikes tell aims of ‘massive’ attack on Iranian missiles, leadership",
+    "link": "https://nypost.com/2026/02/28/us-news/early-us-and-israeli-strikes-spell-out-aims-of-massive-attack-on-iran/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-40-57 +0000"
+  },
+  {
+    "headline": "Iranian Attacks on Israel Shine a Light on Shelter Shortage",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-bomb-shelter-shortage-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-39-02 +0000"
+  },
+  {
+    "headline": "Iranian Attacks on Israel Shine a Light on Shelter Shortage",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-bomb-shelter-shortage-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-39-02 +0000"
+  },
+  {
+    "headline": "In Iran, attacks met with fear, panic and excitement",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-17-33-00 +0000"
+  },
+  {
+    "headline": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-28-17-32-26 +0000"
+  },
+  {
+    "headline": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-28-17-32-26 +0000"
+  },
+  {
+    "headline": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-28-17-32-26 +0000"
+  },
+  {
+    "headline": "Dueling MAGA, Raza groups call for Saturday gatherings at Disneyland",
+    "link": "https://www.latimes.com/california/story/2026-02-28/maga-raza-grops-disneyland-protest-disney",
+    "source": "latimes",
+    "pubdate": "2026-02-28-17-32-11 +0000"
+  },
+  {
+    "headline": "Opinion | The Ayatollah Is Choosing War",
+    "link": "https://www.wsj.com/opinion/iran-negotiations-donald-trump-ayatollah-ali-khamenei-4761669e",
+    "source": "wsj",
+    "pubdate": "2026-02-28-17-29-00 +0000"
+  },
+  {
+    "headline": "Democrats demand vote limiting Trump’s war powers in Iran",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-17-28-11 +0000"
+  },
+  {
+    "headline": "For Trump, the Iran Attack Is the Ultimate War of Choice",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-27-24 +0000"
+  },
+  {
+    "headline": "For Trump, the Iran Attack Is the Ultimate War of Choice",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-27-24 +0000"
+  },
+  {
+    "headline": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots",
+    "link": "https://www.nytimes.com/2026/02/28/us/air-force-pilot-china-arrest.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-26-08 +0000"
+  },
+  {
+    "headline": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots",
+    "link": "https://www.nytimes.com/2026/02/28/us/air-force-pilot-china-arrest.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-26-08 +0000"
+  },
+  {
+    "headline": "Iran’s Revolutionary Guard Corps is sending radio transmissions saying “no ship is allowed to pass the...",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-17-21-18 +0000"
+  },
+  {
+    "headline": "Iranians chant and dance in the streets after US, Israeli air strikes: ‘I love Trump!’",
+    "link": "https://nypost.com/2026/02/28/world-news/iranians-chant-and-dance-in-the-streets-after-us-israeli-air-strikes/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-18-29 +0000"
+  },
+  {
+    "headline": "Shovels blazin’ as NY, NJ residents defend parking spots in blizzard’s aftermath — with some even threatening to slash tires",
+    "link": "https://nypost.com/2026/02/28/us-news/shovels-blazin-as-ny-nj-residents-defend-parking-spots-in-blizzards-aftermath/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-17-28 +0000"
+  },
+  {
+    "headline": "Alicia Keys’ hubby Swizz Beatz racked up staggering $5.7M tax debt",
+    "link": "https://nypost.com/2026/02/28/entertainment/alicia-keys-hubby-swizz-beatz-racked-up-staggering-5-7-m-tax-debt/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-12-17 +0000"
+  },
+  {
+    "headline": "Israeli officials say most Iranian missiles have been intercepted",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-17-11-59 +0000"
+  },
+  {
+    "headline": "‘We Got to Win the Midterms’: Trump Takes His State of the Union Message on the Road",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-midterms-state-of-the-union.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-11-36 +0000"
+  },
+  {
+    "headline": "‘We Got to Win the Midterms’: Trump Takes His State of the Union Message on the Road",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-midterms-state-of-the-union.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-11-36 +0000"
+  },
+  {
+    "headline": "Trump shares winning recipe with party — attack Dems on illegal migrants, taxes, crime: pollster",
+    "link": "https://nypost.com/2026/02/28/us-news/trump-shares-political-recipe-with-his-party-attack-democrats-to-save-majority/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-10-50 +0000"
+  },
+  {
+    "headline": "Hegseth Cuts Ties With Yale, Georgetown and Other Top Universities",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/pentagon-universities-think-tanks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-10-02 +0000"
+  },
+  {
+    "headline": "Hegseth Cuts Ties With Yale, Georgetown and Other Top Universities",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/pentagon-universities-think-tanks.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-17-10-02 +0000"
+  },
+  {
+    "headline": "Marriott International Wins Court Battle Over Maasai Mara Safari Camp in Kenya",
+    "link": "https://www.wsj.com/world/africa/marriott-international-wins-court-battle-over-maasai-mara-safari-camp-in-kenya-3d1982fc",
+    "source": "wsj",
+    "pubdate": "2026-02-28-17-10-00 +0000"
+  },
+  {
+    "headline": "GOP lawmaker asks Intel committee to get ‘Squad’ Rep Ilhan  Omar’s immigration records",
+    "link": "https://nypost.com/2026/02/28/us-news/gop-lawmaker-asks-intel-committee-to-get-squad-rep-ilhan-omars-immigration-records/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-09-58 +0000"
+  },
+  {
+    "headline": "GOP lawmaker asks Intel committee to get ‘Squad’ Rep Ilhan  Omar’s immigration records",
+    "link": "https://nypost.com/2026/02/28/us-news/gop-lawmaker-asks-intel-committee-to-get-squad-rep-ilhan-omars-immigration-records/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-09-58 +0000"
+  },
+  {
+    "headline": "Texas primary rocked by clash over radical Islam  – as GOP pleads with Trump to pick a winner",
+    "link": "https://nypost.com/2026/02/28/us-news/texas-primary-rocked-by-clash-over-radical-islam-as-gop-pleads-with-trump-to-pick-a-winner/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-08-44 +0000"
+  },
+  {
+    "headline": "U.S. military investigating reports of fatal strike on Iranian girls’ school",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-17-08-25 +0000"
+  },
+  {
+    "headline": "Exiled crown prince of Iran celebrates US-Israel strikes, declares opposition is ‘very close to final victory’",
+    "link": "https://nypost.com/2026/02/28/world-news/exiled-crown-prince-of-iran-celebrates-us-israel-strikes-declares-opposition-is-very-close-to-final-victory/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-08-23 +0000"
+  },
+  {
+    "headline": "Student, 12, dies after heartless bully threw water bottle at her head — as cops open murder probe",
+    "link": "https://nypost.com/2026/02/28/us-news/reseda-girl-dead-after-bully-threw-water-bottle-at-her-head/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-07-06 +0000"
+  },
+  {
+    "headline": "Trump Rolls the Dice on Regime Change With a Massive Attack on Iran",
+    "link": "https://www.wsj.com/world/middle-east/trump-rolls-the-dice-on-regime-change-with-a-massive-attack-on-iran-66b0cc69",
+    "source": "wsj",
+    "pubdate": "2026-02-28-17-05-00 +0000"
+  },
+  {
+    "headline": "Injuries reported on Dubai luxury island amid Iran retaliation strikes",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-02-28-17-03-33 +0000"
+  },
+  {
+    "headline": "Punch the monkey and new pal cozy up to stuffed orangutan in heartwarming new video",
+    "link": "https://nypost.com/2026/02/28/world-news/punch-makes-new-pal-and-pair-cozy-up-to-stuffed-ourangoutan-in-heartwarming-new-video/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-03-00 +0000"
+  },
+  {
+    "headline": "70% of Staten Island students skipped school after Mamdani rejected remote learning",
+    "link": "https://nypost.com/2026/02/28/us-news/70-of-staten-island-students-skipped-school-following-blizzard-because-of-mamdani-policies/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-00-57 +0000"
+  },
+  {
+    "headline": "70% of Staten Island students skipped school after Mamdani rejected remote learning",
+    "link": "https://nypost.com/2026/02/28/us-news/70-of-staten-island-students-skipped-school-following-blizzard-because-of-mamdani-policies/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-17-00-57 +0000"
+  },
+  {
+    "headline": "What Images of Kim Jong Un’s Daughter at Military Parade Tell Us About Her Rise",
+    "link": "https://www.wsj.com/world/asia/kim-jong-un-daughter-ju-ae-successor-clues-3803c9de",
+    "source": "wsj",
+    "pubdate": "2026-02-28-17-00-00 +0000"
   },
   {
     "headline": "Hezbollah, the Iran-backed militant group based in Lebanon, issued a stern declaration Saturday, urging nations in...",
@@ -18,10 +534,10 @@
     "pubdate": "2026-02-28-16-47-07 +0000"
   },
   {
-    "headline": "Live updates: U.S. and Israel launch attack on Iran as Trump calls for regime change",
-    "link": "https://www.washingtonpost.com/world/2026/02/28/israel-strikes-iran-live-updates/",
-    "source": "wapo",
-    "pubdate": "2026-02-28-16-47-07 +0000"
+    "headline": "Bye Bye Barbetta: Inside legendary NYC restaurant’s final night after 120 years of service",
+    "link": "https://nypost.com/2026/02/28/lifestyle/bye-bye-barbetta-inside-legendary-nyc-restaurants-final-night-after-120-years-of-service/",
+    "source": "nypost",
+    "pubdate": "2026-02-28-16-46-59 +0000"
   },
   {
     "headline": "Overlooked No More: Bobby Garnett, ‘Godfather’ of Vintage Dealers",
@@ -34,30 +550,12 @@
     "link": "https://www.nytimes.com/2026/02/27/obituaries/bobby-garnett-overlooked.html",
     "source": "nyt",
     "pubdate": "2026-02-28-16-42-37 +0000"
-  },
-  {
-    "headline": "US and Israel launch a major attack on Iran; Trump urges Iranians to ‘take over’",
-    "link": "https://www.startribune.com/witnesses-say-they-hear-an-explosion-in-irans-capital-tehran/601590347",
-    "source": "startribune",
-    "pubdate": "2026-02-28-16-42-02 +0000"
   },
   {
     "headline": "The U.N. Security Council, at the request of France, will hold an emergency meeting on Iran...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-02-28-16-40-33 +0000"
-  },
-  {
-    "headline": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/congress-iran-attacks-reaction.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-16-39-07 +0000"
-  },
-  {
-    "headline": "Members of U.S. Congress Are Divided on U.S. Strikes in Iran",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/congress-iran-attacks-reaction.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-16-39-07 +0000"
   },
   {
     "headline": "Trump spoke with Netanyahu by phone amid strikes on Iran",
@@ -120,28 +618,10 @@
     "pubdate": "2026-02-28-16-13-28 +0000"
   },
   {
-    "headline": "Full brackets announced for 2026 boys hockey state tournament",
-    "link": "https://www.startribune.com/minnesota-boys-hockey-state-tournament-bracket-matchups-schedule-st-paul/601586715",
-    "source": "startribune",
-    "pubdate": "2026-02-28-16-11-31 +0000"
-  },
-  {
     "headline": "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East",
     "link": "https://www.nytimes.com/2026/02/28/world/iran-israel-trump-attack-photos.html",
     "source": "nyt",
     "pubdate": "2026-02-28-16-09-32 +0000"
-  },
-  {
-    "headline": "What to Know About the U.S. Attacks on Iran",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-16-08-48 +0000"
-  },
-  {
-    "headline": "What to Know About the U.S. Attacks on Iran",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-16-08-48 +0000"
   },
   {
     "headline": "Video shows Iranian drone strike on U.S. naval base in Bahrain",
@@ -168,18 +648,6 @@
     "pubdate": "2026-02-28-16-02-53 +0000"
   },
   {
-    "headline": "For Trump, the Iran Attack Is the Ultimate War of Choice",
-    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-16-02-22 +0000"
-  },
-  {
-    "headline": "For Trump, the Iran Attack Is the Ultimate War of Choice",
-    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-16-02-22 +0000"
-  },
-  {
     "headline": "Chaos and Panic Grip Tehran as Airstrikes Shake City",
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html",
     "source": "nyt",
@@ -190,6 +658,12 @@
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html",
     "source": "nyt",
     "pubdate": "2026-02-28-16-01-06 +0000"
+  },
+  {
+    "headline": "How the world has reacted to US and Israeli strikes on Iran",
+    "link": "https://www.bbc.com/news/articles/c5yj9kr31y7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-28-16-00-32 +0000"
   },
   {
     "headline": "How the world has reacted to US and Israeli strikes on Iran",
@@ -234,30 +708,6 @@
     "pubdate": "2026-02-28-15-50-43 +0000"
   },
   {
-    "headline": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
-    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-28-15-49-23 +0000"
-  },
-  {
-    "headline": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
-    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-28-15-49-23 +0000"
-  },
-  {
-    "headline": "Leaders of E.U., Canada and Other Countries React to U.S.-led Attack on Iran",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-reaction.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-15-49-08 +0000"
-  },
-  {
-    "headline": "Leaders of E.U., Canada and Other Countries React to U.S.-led Attack on Iran",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-reaction.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-15-49-08 +0000"
-  },
-  {
     "headline": "Pakistan’s Roosevelt Hotel took $146M in NYC taxpayer cash for migrants — and owes over $13M",
     "link": "https://nypost.com/2026/02/28/us-news/pakistans-roosevelt-hotel-took-146m-in-migrant-cash-now-owes-13-6m-in-back-taxes/",
     "source": "nypost",
@@ -294,64 +744,16 @@
     "pubdate": "2026-02-28-15-42-12 +0000"
   },
   {
-    "headline": "Military campaign in Iran likely to last weeks, US and Israeli officials predict",
-    "link": "https://nypost.com/2026/02/28/us-news/military-campaign-in-iran-likely-to-last-weeks-us-and-israeli-officials-predict/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-15-42-12 +0000"
-  },
-  {
-    "headline": "‘Love Story’ production designer dishes on paparazzi frenzy over then-unknowns playing JFK Jr. and Carolyn Bessette",
-    "link": "https://nypost.com/2026/02/28/us-news/love-story-production-designer-dishes-on-paparazzi-frenzy/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-15-39-51 +0000"
-  },
-  {
     "headline": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
     "link": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-28-15-36-27 +0000"
   },
   {
-    "headline": "Lost baby seal rescued after taking a nap in the middle of busy Jersey Shore highway",
-    "link": "https://nypost.com/2026/02/28/us-news/lost-baby-seal-rescued-after-a-snooze-on-jersey-shore-highway/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-15-35-59 +0000"
-  },
-  {
     "headline": "Pardoned Jan. 6 rioter who called himself ‘Republican Messiah’ is running for Queens Assembly seat",
     "link": "https://nypost.com/2026/02/28/us-news/pardoned-jan-6-rioter-running-for-queens-assembly-seat/",
     "source": "nypost",
     "pubdate": "2026-02-28-15-31-12 +0000"
-  },
-  {
-    "headline": "Pardoned Jan. 6 rioter who called himself ‘Republican Messiah’ is running for Queens Assembly seat",
-    "link": "https://nypost.com/2026/02/28/us-news/pardoned-jan-6-rioter-running-for-queens-assembly-seat/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-15-31-12 +0000"
-  },
-  {
-    "headline": "Rep. Ilhan Omar gets ‘community noted’ on X for spreading misinformation about Iraq War",
-    "link": "https://nypost.com/2026/02/28/us-news/squad-rep-ilhan-omar-gets-community-noted-for-spreading-misinformation-in-latest-diss-attempt/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-15-29-53 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-strikes-us",
-    "source": "nyt",
-    "pubdate": "2026-02-28-15-26-59 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-strikes-us",
-    "source": "nyt",
-    "pubdate": "2026-02-28-15-26-59 +0000"
-  },
-  {
-    "headline": "My boss was JFK Jr.—inside the brief but unforgettable moment I worked for an icon gone too soon",
-    "link": "https://nypost.com/2026/02/28/us-news/the-brief-but-unforgettable-moment-i-worked-for-jfk-jr/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-15-25-01 +0000"
   },
   {
     "headline": "Berkshire’s Abel Pledges to Follow Buffett’s ‘Framework’",
@@ -370,12 +772,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-02-28-15-07-32 +0000"
-  },
-  {
-    "headline": "Saudi Arabia condemns Iran’s attacks on Gulf nations, offers ‘all its capabilities’ in the fight against Tehran",
-    "link": "https://nypost.com/2026/02/28/us-news/saudi-arabia-condemns-irans-attacks-on-gulf-nations-offers-all-its-capabilities-in-the-fight-against-tehran/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-15-04-01 +0000"
   },
   {
     "headline": "Saudi Arabia condemns Iran’s attacks on Gulf nations, offers ‘all its capabilities’ in the fight against Tehran",
@@ -426,12 +822,6 @@
     "pubdate": "2026-02-28-14-59-19 +0000"
   },
   {
-    "headline": "What we know so far",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-02-28-14-56-24 +0000"
-  },
-  {
     "headline": "Trump Gives Green Light to Private Oil Sales to Cuba",
     "link": "https://www.nytimes.com/2026/02/28/world/americas/trump-cuba-oil-sales.html",
     "source": "nyt",
@@ -448,18 +838,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-02-28-14-48-03 +0000"
-  },
-  {
-    "headline": "Israelis Take Shelter as Sirens Warn of Incoming Missiles",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-missiles-shelter-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-14-45-44 +0000"
-  },
-  {
-    "headline": "Israelis Take Shelter as Sirens Warn of Incoming Missiles",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-missiles-shelter-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-14-45-44 +0000"
   },
   {
     "headline": "Flights were canceled across the Middle East in the wake of U.S.-Israeli strikes on Iran as...",
@@ -504,18 +882,6 @@
     "pubdate": "2026-02-28-14-23-18 +0000"
   },
   {
-    "headline": "Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-14-22-36 +0000"
-  },
-  {
-    "headline": "Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-14-22-36 +0000"
-  },
-  {
     "headline": "House Speaker Mike Johnson (R-Louisiana) wrote on X that “Iran is facing the severe consequences of...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -558,21 +924,9 @@
     "pubdate": "2026-02-28-14-05-03 +0000"
   },
   {
-    "headline": "Iran reports dozens of children killed in strike on girls’ school",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-02-28-14-04-46 +0000"
-  },
-  {
     "headline": "Last exit",
     "link": "https://missionlocal.org/2026/02/last-exit/",
     "source": "missionlocal",
-    "pubdate": "2026-02-28-14-00-00 +0000"
-  },
-  {
-    "headline": "Epstein’s former Lolita Express pilot-girlfriend worked with feds in exchange for US visa help: DOJ files",
-    "link": "https://nypost.com/2026/02/28/us-news/epsteins-former-pilot-girlfriend-cooperated-with-feds-in-exchange-for-help-with-us-visa/",
-    "source": "nypost",
     "pubdate": "2026-02-28-14-00-00 +0000"
   },
   {
@@ -604,24 +958,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-02-28-13-47-02 +0000"
-  },
-  {
-    "headline": "Marilyn Monroe’s final photo shoot weeks before her death sparks legal battle—as auction house makes nearly $1M off negatives",
-    "link": "https://nypost.com/2026/02/28/us-news/marilyn-monroes-final-photo-shoot-weeks-before-her-death-sparks-legal-battleas-auction-house-makes-nearly-1m-off-negatives/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-13-45-00 +0000"
-  },
-  {
-    "headline": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
-    "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-28-13-35-44 +0000"
-  },
-  {
-    "headline": "LI judge’s ‘groundbreaking’ divorce case ruling makes giving partner STD a form of domestic violence in NY",
-    "link": "https://nypost.com/2026/02/28/us-news/giving-partner-std-is-a-form-of-domestic-violence-in-ny-judge/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-13-30-00 +0000"
   },
   {
     "headline": "Video shows moment missiles rained down on Iran Supreme Leader’s compound — as civilians laugh",
@@ -658,12 +994,6 @@
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
     "pubdate": "2026-02-28-13-17-27 +0000"
-  },
-  {
-    "headline": "Coney Island principal failed to protect 2 elderly stray cats buried repeatedly in snow storms: activists",
-    "link": "https://nypost.com/2026/02/28/us-news/coney-island-principal-failed-to-protect-2-elderly-stray-cats-buried-repeatedly-in-snow-storms/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-13-15-00 +0000"
   },
   {
     "headline": "Patients shelter underground at Tel Aviv hospital",
@@ -720,18 +1050,6 @@
     "pubdate": "2026-02-28-13-00-00 +0000"
   },
   {
-    "headline": "Attacks against NYPD officers rise during Mamdani’s first 2 months — as cops irate over mayor’s insulting attitude toward police",
-    "link": "https://nypost.com/2026/02/28/us-news/attacks-against-nypd-officers-rise-during-mamdanis-first-2-months/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-13-00-00 +0000"
-  },
-  {
-    "headline": "Can you spot an AI generated face? Put your skills to the test with our quiz",
-    "link": "https://nypost.com/2026/02/28/us-news/can-you-spot-an-ai-generated-face-put-your-skills-to-the-test-with-our-quiz/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-13-00-00 +0000"
-  },
-  {
     "headline": "Multiple high-ranking Islamic commanders, regime officials killed in Operation Epic Fury: report",
     "link": "https://nypost.com/2026/02/28/world-news/multiple-high-ranking-islamic-commanders-regime-officials-killed-in-operation-epic-fury-report/",
     "source": "nypost",
@@ -748,12 +1066,6 @@
     "link": "https://www.nytimes.com/2026/02/28/insider/times-reporters-mexico-el-mencho-cartels.html",
     "source": "nyt",
     "pubdate": "2026-02-28-12-46-45 +0000"
-  },
-  {
-    "headline": "Trump Rolls the Dice on Regime Change With a Massive Attack on Iran",
-    "link": "https://www.wsj.com/world/middle-east/trump-rolls-the-dice-on-regime-change-with-a-massive-attack-on-iran-66b0cc69",
-    "source": "wsj",
-    "pubdate": "2026-02-28-12-41-00 +0000"
   },
   {
     "headline": "Millions of Israelis take shelter as threats of retaliatory strikes from Iran remain constant",
@@ -894,7 +1206,7 @@
     "pubdate": "2026-02-28-11-11-15 +0000"
   },
   {
-    "headline": "Carney says he backs U.S. action against Iranian nuclear program as U.S., Israel launch attacks",
+    "headline": "Dozens reported dead as U.S., Israel launch major attacks on Iran",
     "link": "https://www.cbc.ca/news/world/livestory/conflict-with-iran-9.7109761?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-02-28-11-07-45 +0000"
@@ -996,6 +1308,12 @@
     "pubdate": "2026-02-28-10-30-00 +0000"
   },
   {
+    "headline": "How U.S. Businesses Are Shaving Billions Off Their Tariff Bills",
+    "link": "https://www.wsj.com/economy/trade/tariff-bills-importers-first-sale-4e4a5e75?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-02-28-10-30-00 +0000"
+  },
+  {
     "headline": "All the Ways Netflix Actually Won Even Though It Lost Warner",
     "link": "https://www.wsj.com/business/media/netflix-deal-warner-bros-discover-3b33b02c?mod=rss_markets_main",
     "source": "wsj",
@@ -1006,12 +1324,6 @@
     "link": "https://www.wsj.com/economy/trade/tariff-bills-importers-first-sale-4e4a5e75",
     "source": "wsj",
     "pubdate": "2026-02-28-10-30-00 +0000"
-  },
-  {
-    "headline": "Iran strikes US Navy base in Bahrain and fires missiles at four countries after ‘Operation Epic Fury’",
-    "link": "https://nypost.com/2026/02/28/world-news/iran-strikes-near-us-navy-base-in-bahrain-harrowing-video-shows/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-10-28-37 +0000"
   },
   {
     "headline": "Reza Pahlavi, the exiled eldest son of the last shah of Iran who has emerged as...",
@@ -1060,12 +1372,6 @@
     "link": "https://www.nytimes.com/2026/02/28/world/americas/mexico-mencho-career-death.html",
     "source": "nyt",
     "pubdate": "2026-02-28-10-02-16 +0000"
-  },
-  {
-    "headline": "Abrupt Change for Warner Bros. Prompts Many Grim Faces",
-    "link": "https://www.nytimes.com/2026/02/28/business/warner-bros-paramount-reaction.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-10-02-01 +0000"
   },
   {
     "headline": "Pentagon Watchdog Stalls Proposal to Review Targeting in Trump’s Boat Strikes",
@@ -1350,28 +1656,10 @@
     "pubdate": "2026-02-28-07-02-26 +0000"
   },
   {
-    "headline": "Israel says it launched preemptive attack against Iran",
-    "link": "https://nypost.com/2026/02/28/world-news/israel-says-it-launched-preemptive-attack-against-iran/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-06-44-54 +0000"
-  },
-  {
     "headline": "Nancy Mace reveals why she got 9 tattoos in ‘rapid succession’ while serving in Congress",
     "link": "https://nypost.com/2026/02/28/us-news/nancy-mace-reveals-why-she-got-nine-tattoos-in-rapid-succession-while-serving-in-congress/",
     "source": "nypost",
     "pubdate": "2026-02-28-06-34-00 +0000"
-  },
-  {
-    "headline": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots",
-    "link": "https://www.nytimes.com/2026/02/28/us/air-force-pilot-china-arrest.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-05-06-32 +0000"
-  },
-  {
-    "headline": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots",
-    "link": "https://www.nytimes.com/2026/02/28/us/air-force-pilot-china-arrest.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-05-06-32 +0000"
   },
   {
     "headline": "Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds",
@@ -1542,12 +1830,6 @@
     "pubdate": "2026-02-28-03-02-20 +0000"
   },
   {
-    "headline": "Cargo plane carrying money crashes near capital of Bolivia — at least 15 dead, official says",
-    "link": "https://nypost.com/2026/02/27/world-news/cargo-plane-carrying-money-crashes-near-capital-of-bolivia-at-least-15-dead-official-says/",
-    "source": "nypost",
-    "pubdate": "2026-02-28-02-58-53 +0000"
-  },
-  {
     "headline": "Near the White House, Hundreds of High School Students Protest ICE",
     "link": "https://www.nytimes.com/2026/02/27/us/politics/washington-student-ice-protests.html",
     "source": "nyt",
@@ -1558,24 +1840,6 @@
     "link": "https://www.nytimes.com/2026/02/27/us/politics/washington-student-ice-protests.html",
     "source": "nyt",
     "pubdate": "2026-02-28-02-56-16 +0000"
-  },
-  {
-    "headline": "Bill Clinton Testifies He ‘Saw Nothing’ of Epstein’s Misdeeds",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/bill-clinton-epstein.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-02-55-41 +0000"
-  },
-  {
-    "headline": "Bill Clinton Testifies He ‘Saw Nothing’ of Epstein’s Misdeeds",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/bill-clinton-epstein.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-02-55-41 +0000"
-  },
-  {
-    "headline": "Henrietta Lacks: Family of woman whose cells were 'stolen' settles second lawsuit",
-    "link": "https://www.bbc.com/news/articles/czj1pw0rmmgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-28-02-39-44 +0000"
   },
   {
     "headline": "Instagram to Alert Parents to Teens’ Self-Harm Searches",
@@ -1602,46 +1866,28 @@
     "pubdate": "2026-02-28-02-26-38 +0000"
   },
   {
-    "headline": "‘We Got to Win the Midterms’: Trump Takes His State of the Union Message on the Road",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-midterms-state-of-the-union.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-02-25-02 +0000"
+    "headline": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
+    "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-02-28-02-17-20 +0000"
   },
   {
-    "headline": "‘We Got to Win the Midterms’: Trump Takes His State of the Union Message on the Road",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-midterms-state-of-the-union.html",
+    "headline": "Scouts Will Abandon D.E.I. Policies Under Agreement With Pentagon, Hegseth Says",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/scouting-america-dei-pentagon-hegseth.html",
     "source": "nyt",
-    "pubdate": "2026-02-28-02-25-02 +0000"
+    "pubdate": "2026-02-28-02-16-11 +0000"
   },
   {
-    "headline": "A few inches of snow expected Saturday morning across much of Minnesota",
-    "link": "https://www.startribune.com/a-few-inches-of-snow-expected-saturday-morning-across-much-of-minnesota/601590250",
+    "headline": "Scouts Will Abandon D.E.I. Policies Under Agreement With Pentagon, Hegseth Says",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/scouting-america-dei-pentagon-hegseth.html",
+    "source": "nyt",
+    "pubdate": "2026-02-28-02-16-11 +0000"
+  },
+  {
+    "headline": "Former Twins pitcher sentenced to life in prison without parole for shooting his in-laws",
+    "link": "https://www.startribune.com/former-mlb-pitcher-sentenced-to-life-in-prison-without-parole-for-shooting-his-in-laws/601590275",
     "source": "startribune",
-    "pubdate": "2026-02-28-02-20-23 +0000"
-  },
-  {
-    "headline": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
-    "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-28-02-17-20 +0000"
-  },
-  {
-    "headline": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
-    "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-28-02-17-20 +0000"
-  },
-  {
-    "headline": "Scouts Will Abandon D.E.I. Policies Under Agreement With Pentagon, Hegseth Says",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/scouting-america-dei-pentagon-hegseth.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-02-16-11 +0000"
-  },
-  {
-    "headline": "Scouts Will Abandon D.E.I. Policies Under Agreement With Pentagon, Hegseth Says",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/scouting-america-dei-pentagon-hegseth.html",
-    "source": "nyt",
-    "pubdate": "2026-02-28-02-16-11 +0000"
+    "pubdate": "2026-02-28-02-01-00 +0000"
   },
   {
     "headline": "Six Months, 9 Offers and $81 Billion. How Hollywood’s Nasty Takeover Was Won.",
@@ -1744,12 +1990,6 @@
     "link": "https://www.latimes.com/environment/story/2026-02-27/california-march-sierra-snow-survey",
     "source": "latimes",
     "pubdate": "2026-02-28-00-18-25 +0000"
-  },
-  {
-    "headline": "Charges detail planning of St. Paul anti-ICE church demonstration, as 30 more indicted",
-    "link": "https://www.startribune.com/attorney-general-pam-bondi-announces-more-arrests-in-anti-ice-church-protest/601590001",
-    "source": "startribune",
-    "pubdate": "2026-02-28-00-17-31 +0000"
   },
   {
     "headline": "Biden flies to South Carolina for rare campaign stop after cancer diagnosis— tries to take ‘awkward’ selfie with supporter",
@@ -1908,12 +2148,6 @@
     "pubdate": "2026-02-27-23-22-27 +0000"
   },
   {
-    "headline": "Full extent of horror within Iranian hospitals revealed after regime’s brutal crackdown on protesters",
-    "link": "https://nypost.com/2026/02/27/world-news/horror-at-iran-hospital-revealed-after-regime-protest-crackdown/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-23-14-16 +0000"
-  },
-  {
     "headline": "Neil Sedaka, singer of Breaking Up Is Hard To Do, dies at 86",
     "link": "https://www.bbc.com/news/articles/c5yrdr5d43yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1968,12 +2202,6 @@
     "pubdate": "2026-02-27-22-48-33 +0000"
   },
   {
-    "headline": "Ukraine ups target to 50,000 Russian casualties a month — with The Post seeing the killer drones of war",
-    "link": "https://nypost.com/2026/02/27/world-news/ukraine-targets-50000-russian-casualties-a-month-as-war-enters-fifth-year/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-22-46-39 +0000"
-  },
-  {
     "headline": "The Failed Armed Expedition to Topple Cuba’s Regime",
     "link": "https://www.wsj.com/world/americas/inside-the-failed-armed-expedition-to-topple-cubas-regime-e62e6198",
     "source": "wsj",
@@ -1984,18 +2212,6 @@
     "link": "https://www.wsj.com/finance/stocks/ai-gave-investors-a-glimpse-of-the-future-this-month-and-they-sold-their-stocks-2a9d2f0f?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-27-22-43-00 +0000"
-  },
-  {
-    "headline": "Justice Thomas Bemoans Incivility as Security Prompts Cancellation of In-Person Speech",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/supreme-court-thomas-security.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-22-42-38 +0000"
-  },
-  {
-    "headline": "Justice Thomas Bemoans Incivility as Security Prompts Cancellation of In-Person Speech",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/supreme-court-thomas-security.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-22-42-38 +0000"
   },
   {
     "headline": "Opinion | China Wins the Pentagon-Anthropic Brawl",
@@ -2022,28 +2238,10 @@
     "pubdate": "2026-02-27-22-40-00 +0000"
   },
   {
-    "headline": "Opinion | The Ayatollah Is Choosing War",
-    "link": "https://www.wsj.com/opinion/iran-negotiations-donald-trump-ayatollah-ali-khamenei-4761669e",
-    "source": "wsj",
-    "pubdate": "2026-02-27-22-40-00 +0000"
-  },
-  {
     "headline": "Opinion | Ken Paxton, Anti-Business Republican",
     "link": "https://www.wsj.com/opinion/ken-paxton-anti-business-pharma-rfk-jr-texas-senate-race-vaccines-9ff9246d",
     "source": "wsj",
     "pubdate": "2026-02-27-22-40-00 +0000"
-  },
-  {
-    "headline": "Israel primed to invade Gaza again if Hamas doesn’t abide by Trump’s peace plan, ambassador says",
-    "link": "https://nypost.com/2026/02/27/world-news/israel-will-re-invade-gaza-if-hamas-doesnt-abide-by-trumps-peace-plan/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-22-39-37 +0000"
-  },
-  {
-    "headline": "Bill Clinton denies having sex with unidentified hot tub female during Epstein files deposition",
-    "link": "https://nypost.com/2026/02/27/us-news/bill-clinton-denies-having-sex-with-unidentified-hot-tub-female-during-epstein-files-deposition/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-22-36-09 +0000"
   },
   {
     "headline": "The WSJ Dollar Index Falls 0.01% This Month to 94.69",
@@ -2062,12 +2260,6 @@
     "link": "https://www.wsj.com/opinion/anna-kwok-hong-kong-national-security-law-china-f3bde4b0",
     "source": "wsj",
     "pubdate": "2026-02-27-22-36-00 +0000"
-  },
-  {
-    "headline": "Tucker Carlson’s antisemitic ramblings ‘bordering on pornography,’ says Israel ambassador",
-    "link": "https://nypost.com/2026/02/27/world-news/tucker-carlsons-antisemtic-ramblings-bordering-on-pornography-says-israel-ambassador/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-22-32-53 +0000"
   },
   {
     "headline": "Minister leaves door open to tabling new police search powers bill after 1st attempt faced backlash",
@@ -2092,12 +2284,6 @@
     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-a24da4fa?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-02-27-22-23-00 +0000"
-  },
-  {
-    "headline": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-    "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-22-21-35 +0000"
   },
   {
     "headline": "Health Care Roundup: Market Talk",
@@ -2334,18 +2520,6 @@
     "pubdate": "2026-02-27-21-06-42 +0000"
   },
   {
-    "headline": "Pentagon-Anthropic Standoff Is a Decisive Moment for How A.I. Will Be Used in War",
-    "link": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-21-06-42 +0000"
-  },
-  {
-    "headline": "NY reps silent on accepting pay while DHS workers go unpaid during shutdown",
-    "link": "https://nypost.com/2026/02/27/us-news/ny-reps-silent-on-accepting-pay-while-120000-dhs-workers-go-unpaid-during-shutdown/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-21-01-39 +0000"
-  },
-  {
     "headline": "Victims’ Families Stunned by Failure of Air Safety Bill in House",
     "link": "https://www.nytimes.com/2026/02/27/us/politics/rotor-act-families.html",
     "source": "nyt",
@@ -2440,12 +2614,6 @@
     "link": "https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html",
     "source": "nyt",
     "pubdate": "2026-02-27-20-16-18 +0000"
-  },
-  {
-    "headline": "Scouting America agrees to massive changes after Pentagon threatened to end support",
-    "link": "https://nypost.com/2026/02/27/us-news/scouting-america-agrees-to-massive-changes-after-pentagon-threatened-to-end-support/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-20-15-29 +0000"
   },
   {
     "headline": "Hungary’s Orbán Puts Ukraine Dispute at Center of Tough Re-Election Fight",
@@ -2608,119 +2776,5 @@
     "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-27-19-03-10 +0000"
-  },
-  {
-    "headline": "30 more people charged in Minnesota church storming, with 25 already arrested, AG Bondi says",
-    "link": "https://nypost.com/2026/02/27/us-news/30-more-people-charged-in-minnesota-church-storming-with-25-already-arrested-ag-bondi-says/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-19-01-55 +0000"
-  },
-  {
-    "headline": "Our Parents Marched in Iran’s 1979 Revolution. They Know the Dangers of Groupthink",
-    "link": "https://www.wsj.com/world/middle-east/iran-protests-1979-revolution-a5ffb858",
-    "source": "wsj",
-    "pubdate": "2026-02-27-19-00-00 +0000"
-  },
-  {
-    "headline": "How India Became One of the World’s Biggest Economies",
-    "link": "https://www.nytimes.com/2026/02/27/business/india-economy-gdp.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-59-56 +0000"
-  },
-  {
-    "headline": "How India Became One of the World’s Biggest Economies",
-    "link": "https://www.nytimes.com/2026/02/27/business/india-economy-gdp.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-59-56 +0000"
-  },
-  {
-    "headline": "Till prison do they part: SoCal couple who eloped during crime spree face prison",
-    "link": "https://www.latimes.com/california/story/2026-02-27/robbery-spree-sentencing-socal",
-    "source": "latimes",
-    "pubdate": "2026-02-27-18-55-25 +0000"
-  },
-  {
-    "headline": "Green MP cancels plumbing jobs after by-election win",
-    "link": "https://www.bbc.com/news/videos/c1l7qrv1gm0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-18-53-12 +0000"
-  },
-  {
-    "headline": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
-    "link": "https://www.nytimes.com/2026/02/27/world/europe/russia-blackouts-heating-breakdowns.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-48-12 +0000"
-  },
-  {
-    "headline": "Some Russians Go Without Heat or Power in Winter, as Energy System Falls Into Disrepair",
-    "link": "https://www.nytimes.com/2026/02/27/world/europe/russia-blackouts-heating-breakdowns.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-48-12 +0000"
-  },
-  {
-    "headline": "US wholesale prices arrive hotter than expected, up 2.9% from a year ago",
-    "link": "https://nypost.com/2026/02/27/business/us-wholesale-prices-arrive-hotter-than-expected-up-2-9-from-a-year-ago/",
-    "source": "nypost",
-    "pubdate": "2026-02-27-18-46-11 +0000"
-  },
-  {
-    "headline": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
-    "link": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-46-06 +0000"
-  },
-  {
-    "headline": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
-    "link": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-46-06 +0000"
-  },
-  {
-    "headline": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
-    "link": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-46-06 +0000"
-  },
-  {
-    "headline": "With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-43-37 +0000"
-  },
-  {
-    "headline": "With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-43-37 +0000"
-  },
-  {
-    "headline": "Iran’s Students Are Protesting Again. Here’s Why.",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/iran-student-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-37-19 +0000"
-  },
-  {
-    "headline": "Iran’s Students Are Protesting Again. Here’s Why.",
-    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/iran-student-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-02-27-18-37-19 +0000"
-  },
-  {
-    "headline": "Reform UK reports by-election 'family voting' concerns to police",
-    "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-18-37-04 +0000"
-  },
-  {
-    "headline": "New Yorkers describe horrid apartments at Mamdani’s rental rip-off event",
-    "link": "https://www.washingtonpost.com/nation/2026/02/27/new-york-rental-ripoff-hearings-mamdani/",
-    "source": "wapo",
-    "pubdate": "2026-02-27-18-07-18 +0000"
-  },
-  {
-    "headline": "Private schools lose legal challenge over VAT changes",
-    "link": "https://www.bbc.com/news/articles/c5y4lj1llvjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-18-06-39 +0000"
   }
 ]
