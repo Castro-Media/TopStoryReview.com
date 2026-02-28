@@ -1,52 +1,45 @@
 [
   {
-    "score": 232,
+    "score": 240,
     "pubdate": "2026-02-27-23-01-00 +0000",
     "source": "wsj",
     "headline": "Trump ends government use of Anthropic’s AI models, Bill Clinton says he knew nothing about Epstein’s crimes and the HBO investment-bank show “Industry” branches out. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/trump-will-stop-government-work-with-anthropic-b120197e"
   },
   {
-    "score": 123,
+    "score": 119,
     "pubdate": "2026-02-27-21-50-27 +0000",
     "source": "nypost",
     "headline": "Warner Bros. Discovery CEO David Zaslav calls Paramount pivot ‘whiplash-y’ as $110B deal takes shape",
     "link": "https://nypost.com/2026/02/27/business/warner-bros-discover-ceo-david-zaslav-calls-paramount-pivot-whiplash-y/"
   },
   {
-    "score": 97,
+    "score": 89,
     "pubdate": "2026-02-27-03-31-25 +0000",
     "source": "nypost",
     "headline": "JD Vance says ‘no chance’ a US attack on Iran will lead to long war with ‘no end in sight’",
     "link": "https://nypost.com/2026/02/26/us-news/jd-vance-says-no-chance-a-us-attack-on-iran-will-lead-to-long-war-with-no-end-in-sight/"
   },
   {
-    "score": 70,
-    "pubdate": "2026-02-27-02-00-00 +0000",
+    "score": 69,
+    "pubdate": "2026-02-27-12-00-00 +0000",
     "source": "wsj",
-    "headline": "Raves, Debt and Deaths: How a Wall Streeter Came to Own New York’s Biggest Club",
-    "link": "https://www.wsj.com/finance/mirage-brooklyn-axar-axelrod-club-77a70b77?mod=pls_whats_news_us_business_f"
+    "headline": "Hybrid cyberattacks have become more common. “It’s the future, it’s the present in some places, and it will be the future here,” says New York state’s new director of security and intelligence.",
+    "link": "https://www.wsj.com/articles/new-york-state-elevates-its-cyber-chief-to-a-broader-new-security-role-c94bee0f"
   },
   {
-    "score": 57,
-    "pubdate": "2026-02-27-09-47-19 +0000",
-    "source": "bbc",
-    "headline": "Green Party wins Gorton and Denton by-election, pushing Labour into third place",
-    "link": "https://www.bbc.com/news/articles/cr453rvy6kvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-02-28-00-22-00 +0000",
-    "source": "wsj",
-    "headline": "Bill Clinton said he had no idea of the crimes that Jeffrey Epstein was committing, during an extraordinary deposition of the former Democratic president before a GOP-led House committee",
-    "link": "https://www.wsj.com/politics/house-republicans-promise-thorough-probe-of-bill-clintons-epstein-ties-ccdd6827"
-  },
-  {
-    "score": 57,
+    "score": 59,
     "pubdate": "2026-02-27-19-54-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon said it shot down a “seemingly threatening” drone near the U.S.-Mexico border Thursday, prompting aviation officials to expand flight restrictions around an area of Fort Hancock, Texas",
     "link": "https://www.wsj.com/politics/national-security/pentagon-shoots-seemingly-threatening-drone-in-texas-leading-to-faa-restrictions-fd877f04"
+  },
+  {
+    "score": 58,
+    "pubdate": "2026-02-27-13-27-13 +0000",
+    "source": "bbc",
+    "headline": "Green Party win will prompt soul searching within Labour and questions for Starmer",
+    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 56,
@@ -57,16 +50,23 @@
   },
   {
     "score": 53,
+    "pubdate": "2026-02-28-00-22-00 +0000",
+    "source": "wsj",
+    "headline": "Bill Clinton said he had no idea of the crimes that Jeffrey Epstein was committing, during an extraordinary deposition of the former Democratic president before a GOP-led House committee",
+    "link": "https://www.wsj.com/politics/house-republicans-promise-thorough-probe-of-bill-clintons-epstein-ties-ccdd6827"
+  },
+  {
+    "score": 53,
     "pubdate": "2026-02-27-13-19-18 +0000",
     "source": "bbc",
     "headline": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
     "link": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
-    "pubdate": "2026-02-28-00-41-54 +0000",
-    "source": "latimes",
-    "headline": "Power, politics and a $2.8-billion exit: How Paramount topped Netflix to win Warner Bros.",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-27/paramount-warner-bros-acquisition-how-why-what-to-know"
+    "score": 45,
+    "pubdate": "2026-02-27-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Energy-hungry India tells Carney 'we are willing to buy whatever Canada is offering'",
+    "link": "https://www.cbc.ca/news/politics/india-carney-energy-oil-9.7106572?cmp=rss"
   }
 ]
