@@ -1,6 +1,6 @@
 [
   {
-    "score": 240,
+    "score": 238,
     "pubdate": "2026-02-27-23-01-00 +0000",
     "source": "wsj",
     "headline": "Trump ends government use of Anthropic’s AI models, Bill Clinton says he knew nothing about Epstein’s crimes and the HBO investment-bank show “Industry” branches out. Read more in today’s What’s News newsletter:",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/02/27/business/warner-bros-discover-ceo-david-zaslav-calls-paramount-pivot-whiplash-y/"
   },
   {
-    "score": 83,
+    "score": 81,
     "pubdate": "2026-02-27-12-00-00 +0000",
     "source": "wsj",
     "headline": "Hybrid cyberattacks have become more common. “It’s the future, it’s the present in some places, and it will be the future here,” says New York state’s new director of security and intelligence.",
@@ -42,13 +42,6 @@
     "link": "https://www.wsj.com/politics/national-security/pentagon-shoots-seemingly-threatening-drone-in-texas-leading-to-faa-restrictions-fd877f04"
   },
   {
-    "score": 57,
-    "pubdate": "2026-02-27-13-27-13 +0000",
-    "source": "bbc",
-    "headline": "Green Party win will prompt soul searching within Labour and questions for Starmer",
-    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 54,
     "pubdate": "2026-02-28-04-07-00 +0000",
     "source": "wsj",
@@ -56,17 +49,24 @@
     "link": "https://www.wsj.com/politics/house-republicans-promise-thorough-probe-of-bill-clintons-epstein-ties-ccdd6827"
   },
   {
-    "score": 51,
-    "pubdate": "2026-02-28-05-01-06 +0000",
-    "source": "nyt",
-    "headline": "Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds",
-    "link": "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html"
+    "score": 52,
+    "pubdate": "2026-02-27-13-27-13 +0000",
+    "source": "bbc",
+    "headline": "Green Party win will prompt soul searching within Labour and questions for Starmer",
+    "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
+    "score": 48,
     "pubdate": "2026-02-28-02-17-20 +0000",
     "source": "bbc",
     "headline": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
     "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-02-28-00-47-30 +0000",
+    "source": "nyt",
+    "headline": "Taiwan Arms Sale Approved by Congress Is Delayed as Trump Plans Visit to Beijing",
+    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-taiwan-arms-sale.html"
   }
 ]
