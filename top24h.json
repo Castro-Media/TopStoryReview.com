@@ -1,59 +1,52 @@
 [
   {
-    "score": 461,
+    "score": 449,
     "pubdate": "2026-03-01-01-01-13 +0000",
     "source": "wapo",
     "headline": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
     "link": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
   },
   {
-    "score": 173,
-    "pubdate": "2026-02-28-21-16-32 +0000",
+    "score": 167,
+    "pubdate": "2026-03-01-04-56-41 +0000",
     "source": "nypost",
-    "headline": "President Trump says a ‘large number’ of Iranian leaders were killed in the US-Israeli joint strikes",
-    "link": "https://nypost.com/2026/02/28/us-news/president-trump-says-a-large-number-of-iranian-leaders-were-killed-in-the-us-israeli-joint-strikes/"
+    "headline": "Trump says diplomatic agreement with Iran will be ‘easy ‘ now after Supreme Leader Khamenei’s death",
+    "link": "https://nypost.com/2026/02/28/world-news/trump-says-diplomatic-agreement-with-iran-will-be-easy-now-after-supreme-leader-khameneis-death/"
   },
   {
-    "score": 157,
-    "pubdate": "2026-03-01-13-28-48 +0000",
-    "source": "nypost",
-    "headline": "Columbia University anti-Israel group posts ‘Death to America’ after US and Israel kill Khamenei",
-    "link": "https://nypost.com/2026/03/01/world-news/columbia-anti-israel-group-posts-death-to-america-after-us-israel-kill-khamenei/"
-  },
-  {
-    "score": 96,
-    "pubdate": "2026-03-01-05-44-12 +0000",
-    "source": "nypost",
-    "headline": "Trump warns US will strike Iran with ‘force that has never been seen before’ if regime carries out ‘devastating’ attack",
-    "link": "https://nypost.com/2026/03/01/world-news/trump-warns-iran-not-to-retaliate-after-threats-of-devastating-attack/"
-  },
-  {
-    "score": 84,
-    "pubdate": "2026-03-01-08-59-52 +0000",
+    "score": 131,
+    "pubdate": "2026-03-01-01-25-01 +0000",
     "source": "wapo",
-    "headline": "Ayatollah Ali Khamenei, Iran’s supreme leader, is dead at 86",
-    "link": "https://www.washingtonpost.com"
+    "headline": "In surprise daytime attack, U.S., Israel take out Iranian leadership",
+    "link": "https://www.washingtonpost.com/national-security/2026/02/28/us-israel-military-operation-epic-fury-iran/"
   },
   {
-    "score": 65,
+    "score": 86,
+    "pubdate": "2026-03-01-16-38-18 +0000",
+    "source": "nypost",
+    "headline": "Austin bar mass shooter possibly motivated by Iran attacks, Quran found in car as FBI eyes terrorism after 2 killed, 14 injured",
+    "link": "https://nypost.com/2026/03/01/us-news/austin-mass-shooter-possibly-motivated-by-iran-attacks-quran-found-in-car-as-fbi-eyes-terrorism/"
+  },
+  {
+    "score": 66,
+    "pubdate": "2026-03-01-17-32-51 +0000",
+    "source": "nyt",
+    "headline": "Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
+  },
+  {
+    "score": 62,
     "pubdate": "2026-03-01-12-40-40 +0000",
     "source": "wapo",
     "headline": "British military planes are intercepting Iranian missiles and drones in the Middle East, Defense Minister John...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 60,
-    "pubdate": "2026-03-01-10-01-45 +0000",
+    "score": 61,
+    "pubdate": "2026-03-01-14-34-24 +0000",
     "source": "nyt",
-    "headline": "Why Diplomacy Was Doomed: Trump’s Issue Was Iran’s Leadership Itself",
-    "link": "https://www.nytimes.com/2026/03/01/us/politics/iran-trump-diplomacy-fail.html"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-03-01-16-38-18 +0000",
-    "source": "nypost",
-    "headline": "Austin bar mass shooter possibly motivated by Iran attacks, Quran found in car as FBI eyes terrorism after 2 killed, 14 injured",
-    "link": "https://nypost.com/2026/03/01/us-news/austin-mass-shooter-possibly-motivated-by-iran-attacks-quran-found-in-car-as-fbi-eyes-terrorism/"
+    "headline": "Trump, the Self-Declared Peace President, Goes to War Seeking Regime Change",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
   },
   {
     "score": 53,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2026/03/01/world-news/trump-reveals-how-long-he-expects-iran-campaign-to-last-as-he-mourns-us-troops-killed/"
   },
   {
+    "score": 53,
+    "pubdate": "2026-03-01-15-14-11 +0000",
+    "source": "wapo",
+    "headline": "Three U.S. service members were killed in action, Central Command said Sunday, the first U.S. casualties...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
     "score": 49,
-    "pubdate": "2026-03-01-02-53-00 +0000",
-    "source": "wsj",
-    "headline": "Democrats in Congress led the charge to release the Epstein files. Now, prominent party power brokers and allies are paying a price as a result of information in the documents",
-    "link": "https://www.wsj.com/politics/policy/epstein-files-democrats-a9875690"
+    "pubdate": "2026-03-01-10-01-45 +0000",
+    "source": "nyt",
+    "headline": "Why Diplomacy Was Doomed: Trump’s Issue Was Iran’s Leadership Itself",
+    "link": "https://www.nytimes.com/2026/03/01/us/politics/iran-trump-diplomacy-fail.html"
   }
 ]
