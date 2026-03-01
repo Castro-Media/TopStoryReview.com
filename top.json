@@ -1,62 +1,48 @@
 [
   {
-    "score": 224,
-    "pubdate": "2026-02-28-18-23-54 +0000",
+    "score": 239,
+    "pubdate": "2026-03-01-01-01-13 +0000",
     "source": "wapo",
     "title": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
     "link": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
   },
   {
-    "score": 110,
-    "pubdate": "2026-02-28-11-07-45 +0000",
-    "source": "cbc",
-    "title": "Iran's supreme leader dead after major attack by Israel and the U.S.: Trump",
-    "link": "https://www.cbc.ca/news/world/livestory/conflict-with-iran-9.7109761?cmp=rss"
+    "score": 115,
+    "pubdate": "2026-02-28-07-02-26 +0000",
+    "source": "latimes",
+    "title": "Iran's supreme leader killed in U.S. and Israel attack, Trump says",
+    "link": "https://www.latimes.com/world-nation/story/2026-02-27/us-participating-in-israeli-strikes-against-iran"
   },
   {
-    "score": 81,
+    "score": 76,
     "pubdate": "2026-02-28-04-07-00 +0000",
     "source": "wsj",
     "title": "Bill Clinton said he had no idea of the crimes that Jeffrey Epstein was committing, during an extraordinary deposition of the former Democratic president before a GOP-led House committee",
     "link": "https://www.wsj.com/politics/house-republicans-promise-thorough-probe-of-bill-clintons-epstein-ties-ccdd6827"
   },
   {
-    "score": 44,
-    "pubdate": "2026-02-28-23-15-29 +0000",
+    "score": 60,
+    "pubdate": "2026-03-01-02-10-50 +0000",
     "source": "nyt",
     "title": "See a Breakdown of Ayatollah Khamenei and Other Top Iranian Leaders",
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
   },
   {
-    "score": 43,
+    "score": 44,
     "pubdate": "2026-02-28-15-04-01 +0000",
     "source": "nypost",
     "title": "Saudi Arabia condemns Iran&#8217;s attacks on Gulf nations, offers &#8216;all its capabilities&#8217; in the fight against Tehran",
     "link": "https://nypost.com/2026/02/28/us-news/saudi-arabia-condemns-irans-attacks-on-gulf-nations-offers-all-its-capabilities-in-the-fight-against-tehran/"
   },
   {
-    "score": 32,
-    "pubdate": "2026-02-28-20-22-34 +0000",
-    "source": "nypost",
-    "title": "Florida mother killed her two kids then herself while husband was on business trip, cops say",
-    "link": "https://nypost.com/2026/02/28/us-news/florida-mother-two-kids-dead-in-apparent-murder-suicide-cops-say/"
+    "score": 33,
+    "pubdate": "2026-03-01-01-29-00 +0000",
+    "source": "wsj",
+    "title": "Democrats in Congress led the charge to release the Epstein files. Now, prominent party power brokers and allies are paying a price as a result of information in the documents",
+    "link": "https://www.wsj.com/politics/policy/epstein-files-democrats-a9875690"
   },
   {
     "score": 32,
-    "pubdate": "2026-02-28-18-40-55 +0000",
-    "source": "nypost",
-    "title": "Nancy Mace bashes Ilhan Omar over Iran attack after &#8216;Squad&#8217; rep claims US &#8216;loves to strike Muslim countries during Ramadan&#8217;",
-    "link": "https://nypost.com/2026/02/28/us-news/nancy-mace-bashes-ilhan-omar-over-iran-attack-after-squad-rep-claims-us-loves-to-strike-muslim-countries-during-ramadan/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-02-28-00-41-54 +0000",
-    "source": "latimes",
-    "title": "Power, politics and a $2.8-billion exit: How Paramount topped Netflix to win Warner Bros.",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-02-27/paramount-warner-bros-acquisition-how-why-what-to-know"
-  },
-  {
-    "score": 30,
     "pubdate": "2026-02-28-07-10-48 +0000",
     "source": "nypost",
     "title": "US, Israel launch &#8216;Operation Epic Fury&#8217; attack on Iran after regime refuses to scrap nuclear program &#8212; Trump vows to eliminate threats",
@@ -64,9 +50,23 @@
   },
   {
     "score": 29,
-    "pubdate": "2026-02-28-02-56-16 +0000",
-    "source": "nyt",
-    "title": "Near the White House, Hundreds of High School Students Protest ICE",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/washington-student-ice-protests.html"
+    "pubdate": "2026-03-01-01-00-00 +0000",
+    "source": "wsj",
+    "title": "Inheritance is one of the last reliable ways for younger Californians to own their first home, representing about 18% of all property transfers in the state last year, according to an analysis",
+    "link": "https://www.wsj.com/economy/housing/in-california-about-the-only-way-to-get-a-house-is-to-inherit-one-752fa87f"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-02-28-18-40-55 +0000",
+    "source": "nypost",
+    "title": "Nancy Mace bashes Ilhan Omar over Iran attack after &#8216;Squad&#8217; rep claims US &#8216;loves to strike Muslim countries during Ramadan&#8217;",
+    "link": "https://nypost.com/2026/02/28/us-news/nancy-mace-bashes-ilhan-omar-over-iran-attack-after-squad-rep-claims-us-loves-to-strike-muslim-countries-during-ramadan/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-02-28-03-48-28 +0000",
+    "source": "bbc",
+    "title": "Blind refugee found dead in New York after being released by immigration authorities",
+    "link": "https://www.bbc.com/news/articles/cq57j559eq4o?at_medium=RSS&at_campaign=rss"
   }
 ]
