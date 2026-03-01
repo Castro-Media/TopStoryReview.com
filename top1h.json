@@ -1,37 +1,72 @@
 [
   {
-    "score": 17,
-    "pubdate": "2026-03-01-13-02-13 +0000",
+    "score": 41,
+    "pubdate": "2026-03-01-14-20-39 +0000",
+    "source": "nypost",
+    "headline": "Mahmoud Ahmadinejad, Iran’s ex-president who said ‘Israel must be wiped off the map,’ killed in Israeli airstrikes",
+    "link": "https://nypost.com/2026/03/01/world-news/mahmoud-ahmadinejad-irans-ex-president-killed-in-israeli-airstrikes/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-03-01-14-34-24 +0000",
     "source": "nyt",
-    "headline": "See a Breakdown of Ayatollah Khamenei and Other Top Iranian Leaders",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+    "headline": "Trump, the Self-Declared Peace President, Goes to War Seeking Regime Change",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-01-14-11-01 +0000",
+    "source": "startribune",
+    "headline": "Israeli strikes rock Tehran as Iran's counterattacks widen after the killing of its supreme leader",
+    "link": "https://www.startribune.com/irans-parliament-speaker-calls-us-israeli-leaders-filthy-criminals/601590873"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-01-14-22-12 +0000",
+    "source": "wapo",
+    "headline": "Israel’s national emergency service reported nine deaths in a missile attack Sunday in the Beit Shemesh...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-01-14-40-36 +0000",
+    "source": "bbc",
+    "headline": "At least 148 dead after reported strike on school, Iran says",
+    "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 11,
-    "pubdate": "2026-03-01-13-00-00 +0000",
+    "pubdate": "2026-03-01-14-49-36 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Casualties in Israel as Iran vows to avenge Khamenei, attacks 9 countries in region",
+    "link": "https://www.washingtonpost.com/world/2026/03/01/trump-iran-israel-khamenei-strikes-live-updates/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-01-14-45-56 +0000",
+    "source": "bbc",
+    "headline": "The months-long, US-Israeli mission to find and kill Iran's Supreme Leader",
+    "link": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-01-14-49-36 +0000",
+    "source": "wapo",
+    "headline": "Airspace restrictions force major global hubs to stay shut",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-01-14-22-52 +0000",
+    "source": "wapo",
+    "headline": "Kuwaiti health officials said one person was killed and 33 others injured on Sunday, citing unspecified...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-01-14-32-49 +0000",
     "source": "nypost",
-    "headline": "How ‘Tipper X’ went from banker to informant in one of Wall Street’s biggest insider trading stings",
-    "link": "https://nypost.com/2026/03/01/us-news/how-tipper-x-helped-bring-down-wall-streets-insider-trading/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-03-01-13-06-00 +0000",
-    "source": "wsj",
-    "headline": "The Iranian Force Built to Defend the Regime Now Faces the Ultimate Test",
-    "link": "https://www.wsj.com/world/middle-east/the-iranian-force-built-to-defend-the-regime-now-faces-the-ultimate-test-8a1a2cfe"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-03-01-13-02-15 +0000",
-    "source": "nyt",
-    "headline": "Iran Says Supreme Leader Killed in U.S.-Israeli Strikes",
-    "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-01-13-02-13 +0000",
-    "source": "nyt",
-    "headline": "See a Breakdown of Ayatollah Khamenei and Other Top Iranian Leaders",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+    "headline": "Wealthy influencer sparks fury for tone-deaf comment on Dubai missile strikes: ‘The entitlement’",
+    "link": "https://nypost.com/2026/03/01/world-news/wealthy-influencer-sparks-fury-for-tone-deaf-comment-on-dubai-missile-strikes/"
   }
 ]
