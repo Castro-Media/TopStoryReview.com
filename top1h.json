@@ -1,16 +1,72 @@
 [
   {
-    "score": 4,
-    "pubdate": "2026-03-01-18-56-30 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest"
+    "score": 82,
+    "pubdate": "2026-03-01-20-43-28 +0000",
+    "source": "nypost",
+    "headline": "Trump reveals how long he expects Iran campaign to last — as he mourns US troops killed",
+    "link": "https://nypost.com/2026/03/01/world-news/trump-reveals-how-long-he-expects-iran-campaign-to-last-as-he-mourns-us-troops-killed/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-03-01-18-56-30 +0000",
+    "score": 44,
+    "pubdate": "2026-03-01-20-15-06 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest"
+    "headline": "Middle East Airspace Closes as U.S.-Israeli Strikes Hit Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/middle-east-airport-closures-emirates-qatar.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-03-01-20-45-57 +0000",
+    "source": "bbc",
+    "headline": "Nine dead in missile attack on Israel as Iran strikes region",
+    "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-01-20-21-59 +0000",
+    "source": "wapo",
+    "headline": "Who leads Iran now? An uncertain path to new supreme leader after Khamenei’s death.",
+    "link": "https://www.washingtonpost.com/world/2026/03/01/iran-succession-supreme-leader-khamenei/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-01-20-30-19 +0000",
+    "source": "wapo",
+    "headline": "The three service members killed were part of a sustainment unit in Kuwait, two U.S. officials...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-01-20-05-48 +0000",
+    "source": "nypost",
+    "headline": "Pervy mayor’s kids told cops that they caught her romping with teen boy at boozy pool party",
+    "link": "https://nypost.com/2026/03/01/us-news/louisiana-mayors-kids-caught-her-with-teen-boy-at-drunk-pool-party-cops/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-01-20-16-14 +0000",
+    "source": "nypost",
+    "headline": "Former NY Gov. Pataki rips Zohran Mamdani, Alvin Bragg for brushing off snowball ‘assault’",
+    "link": "https://nypost.com/2026/03/01/us-news/former-ny-gov-pataki-rips-zohran-mamdani-alvin-bragg-for-brushing-off-snowball-assault/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-01-20-52-33 +0000",
+    "source": "nyt",
+    "headline": "Iran’s Ballistic Missile Launchers Have Been Cut by Half, Israeli Official Says",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-missile-launchers.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-01-20-43-21 +0000",
+    "source": "nyt",
+    "headline": "What’s Next for Iran? Big Change Seems Certain, but Direction Is Unclear.",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-what-next.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-01-20-13-20 +0000",
+    "source": "wapo",
+    "headline": "Israel targets Iranian security sites in bid to help protesters",
+    "link": "https://www.washingtonpost.com"
   }
 ]
