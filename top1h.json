@@ -1,16 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-03-01-14-56-21 +0000",
+    "score": 55,
+    "pubdate": "2026-03-01-16-35-43 +0000",
+    "source": "nypost",
+    "headline": "Dems face mounting pressure to fund terror-fighting Homeland Security as US attacks Iran:  ‘Not the time to play games’",
+    "link": "https://nypost.com/2026/03/01/us-news/pressure-mounts-on-dems-to-fund-homeland-security-as-us-attacks-iran/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-03-01-16-55-57 +0000",
     "source": "bbc",
     "headline": "Nine dead in missile attack on Israel as Iran strikes region",
     "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 2,
-    "pubdate": "2026-03-01-14-56-20 +0000",
+    "score": 23,
+    "pubdate": "2026-03-01-16-57-34 +0000",
+    "source": "wapo",
+    "headline": "Live updates: 3 U.S. service members killed in Iran operation, military says; Tehran vows to avenge Khamenei",
+    "link": "https://www.washingtonpost.com/world/2026/03/01/trump-iran-israel-khamenei-strikes-live-updates/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-01-15-59-55 +0000",
+    "source": "nypost",
+    "headline": "Hospice chief’s astonishing defense of industry as Post blows apart spiraling fraud crisis",
+    "link": "https://nypost.com/2026/03/01/us-news/hospice-provider-claims-most-are-legit-but-fraud-exists/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-01-16-15-37 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest"
+    "headline": "Trump Tells Iranians to ‘Take Over’ Their Government. But How?",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-messaging-broadcasting.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-03-01-16-37-27 +0000",
+    "source": "bbc",
+    "headline": "Two ships hit near Strait of Hormuz as fears grow of oil price rises",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-01-16-32-29 +0000",
+    "source": "nyt",
+    "headline": "Iran’s Regime May Survive, but the Middle East Will Be Changed",
+    "link": "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-01-16-35-02 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Announces First Three U.S. Deaths in War With Iran",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-war-us-troops-dead.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-01-16-17-53 +0000",
+    "source": "wapo",
+    "headline": "Mix of joy, unease grips Iranian diaspora watching U.S.-Israeli strikes from afar",
+    "link": "https://www.washingtonpost.com/nation/2026/03/01/iranian-americans-reaction-military-strikes/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-01-16-38-18 +0000",
+    "source": "nypost",
+    "headline": "Austin bar mass shooter possibly motivated by Iran attacks, Quran found in car as FBI eyes terrorism after 2 killed, 14 injured",
+    "link": "https://nypost.com/2026/03/01/us-news/austin-mass-shooter-possibly-motivated-by-iran-attacks-quran-found-in-car-as-fbi-eyes-terrorism/"
   }
 ]
