@@ -1,20 +1,20 @@
 [
   {
-    "score": 494,
+    "score": 482,
     "pubdate": "2026-02-28-19-21-34 +0000",
     "source": "wapo",
     "headline": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 161,
+    "score": 158,
     "pubdate": "2026-03-01-04-56-41 +0000",
     "source": "nypost",
     "headline": "Trump says diplomatic agreement with Iran will be ‘easy ‘ now after Supreme Leader Khamenei’s death",
     "link": "https://nypost.com/2026/02/28/world-news/trump-says-diplomatic-agreement-with-iran-will-be-easy-now-after-supreme-leader-khameneis-death/"
   },
   {
-    "score": 144,
+    "score": 142,
     "pubdate": "2026-02-28-21-55-02 +0000",
     "source": "nyt",
     "headline": "Israel Targeted Top Iranian Leaders in Attack’s Opening Strikes",
@@ -28,7 +28,7 @@
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
   },
   {
-    "score": 69,
+    "score": 66,
     "pubdate": "2026-03-01-12-40-40 +0000",
     "source": "wapo",
     "headline": "British military planes are intercepting Iranian missiles and drones in the Middle East, Defense Minister John...",
@@ -42,13 +42,6 @@
     "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
   },
   {
-    "score": 63,
-    "pubdate": "2026-02-28-15-04-01 +0000",
-    "source": "nypost",
-    "headline": "Saudi Arabia condemns Iran’s attacks on Gulf nations, offers ‘all its capabilities’ in the fight against Tehran",
-    "link": "https://nypost.com/2026/02/28/us-news/saudi-arabia-condemns-irans-attacks-on-gulf-nations-offers-all-its-capabilities-in-the-fight-against-tehran/"
-  },
-  {
     "score": 60,
     "pubdate": "2026-03-01-10-01-45 +0000",
     "source": "nyt",
@@ -56,11 +49,11 @@
     "link": "https://www.nytimes.com/2026/03/01/us/politics/iran-trump-diplomacy-fail.html"
   },
   {
-    "score": 54,
-    "pubdate": "2026-03-01-00-45-39 +0000",
-    "source": "wapo",
-    "headline": "Defense Secretary Pete Hegseth called the U.S. strike on the Iranian government “the most lethal, most...",
-    "link": "https://www.washingtonpost.com"
+    "score": 58,
+    "pubdate": "2026-03-01-02-21-55 +0000",
+    "source": "nyt",
+    "headline": "The attacks touched off protests across the United States and abroad.",
+    "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/the-attacks-touched-off-protests-across-the-united-states-and-abroad"
   },
   {
     "score": 52,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "Democrats in Congress led the charge to release the Epstein files. Now, prominent party power brokers and allies are paying a price as a result of information in the documents",
     "link": "https://www.wsj.com/politics/policy/epstein-files-democrats-a9875690"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-03-01-00-45-39 +0000",
+    "source": "wapo",
+    "headline": "Defense Secretary Pete Hegseth called the U.S. strike on the Iranian government “the most lethal, most...",
+    "link": "https://www.washingtonpost.com"
   }
 ]
