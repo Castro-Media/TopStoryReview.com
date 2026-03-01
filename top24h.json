@@ -1,13 +1,13 @@
 [
   {
-    "score": 486,
-    "pubdate": "2026-03-01-01-01-13 +0000",
+    "score": 468,
+    "pubdate": "2026-02-28-19-21-34 +0000",
     "source": "wapo",
     "headline": "See where U.S., Israeli strikes have hit Iran and where Iran has retaliated",
-    "link": "https://www.washingtonpost.com/investigations/2026/02/28/where-us-attack-iran-images-video/"
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 154,
+    "score": 149,
     "pubdate": "2026-02-28-21-16-32 +0000",
     "source": "nypost",
     "headline": "President Trump says a ‘large number’ of Iranian leaders were killed in the US-Israeli joint strikes",
@@ -21,21 +21,21 @@
     "link": "https://nypost.com/2026/03/01/world-news/columbia-anti-israel-group-posts-death-to-america-after-us-israel-kill-khamenei/"
   },
   {
-    "score": 94,
+    "score": 91,
+    "pubdate": "2026-03-01-08-59-52 +0000",
+    "source": "wapo",
+    "headline": "Ayatollah Ali Khamenei, Iran’s supreme leader, is dead at 86",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 87,
     "pubdate": "2026-03-01-05-44-12 +0000",
     "source": "nypost",
     "headline": "Trump warns US will strike Iran with ‘force that has never been seen before’ if regime carries out ‘devastating’ attack",
     "link": "https://nypost.com/2026/03/01/world-news/trump-warns-iran-not-to-retaliate-after-threats-of-devastating-attack/"
   },
   {
-    "score": 93,
-    "pubdate": "2026-02-28-22-29-51 +0000",
-    "source": "wapo",
-    "headline": "Ayatollah Ali Khamenei, Iran’s supreme leader, is dead at 86",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 77,
+    "score": 73,
     "pubdate": "2026-03-01-12-40-40 +0000",
     "source": "wapo",
     "headline": "British military planes are intercepting Iranian missiles and drones in the Middle East, Defense Minister John...",
@@ -49,14 +49,14 @@
     "link": "https://www.nytimes.com/2026/03/01/us/politics/iran-trump-diplomacy-fail.html"
   },
   {
-    "score": 57,
+    "score": 56,
     "pubdate": "2026-03-01-02-21-55 +0000",
     "source": "nyt",
     "headline": "The attacks touched off protests across the United States and abroad.",
     "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/the-attacks-touched-off-protests-across-the-united-states-and-abroad"
   },
   {
-    "score": 53,
+    "score": 50,
     "pubdate": "2026-03-01-02-53-00 +0000",
     "source": "wsj",
     "headline": "Democrats in Congress led the charge to release the Epstein files. Now, prominent party power brokers and allies are paying a price as a result of information in the documents",
@@ -64,9 +64,9 @@
   },
   {
     "score": 46,
-    "pubdate": "2026-03-01-14-22-12 +0000",
+    "pubdate": "2026-03-01-14-06-02 +0000",
     "source": "wapo",
-    "headline": "Israel’s national emergency service reported nine deaths in a missile attack Sunday in the Beit Shemesh...",
+    "headline": "Ali Larijani, Iran’s top national security official, said in a social media post Sunday, directed at...",
     "link": "https://www.washingtonpost.com"
   }
 ]
