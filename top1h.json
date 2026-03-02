@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 25,
+    "pubdate": "2026-03-02-06-03-18 +0000",
+    "source": "wapo",
+    "headline": "Live updates: U.S. military says 1,000 targets hit in Iran; Israel and Hezbollah exchange strikes",
+    "link": "https://www.washingtonpost.com/world/2026/03/01/trump-iran-israel-khamenei-strikes-live-updates/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-02-05-12-00 +0000",
+    "source": "wsj",
+    "headline": "China’s ‘Two Sessions’ to Shed Light on What Lies Ahead for Economy",
+    "link": "https://www.wsj.com/economy/chinas-two-sessions-to-shed-light-on-what-lies-ahead-for-economy-1e38ca46"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-02-05-19-37 +0000",
+    "source": "nypost",
+    "headline": "North Carolina father-to-be saved by quick-thinking pregnant wife after suffering sudden heart attack",
+    "link": "https://nypost.com/2026/03/02/us-news/north-carolina-father-to-be-saved-by-quick-thinking-wife-after-suffering-sudden-heart-attack/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-02-06-05-18 +0000",
+    "source": "nypost",
+    "headline": "Bank robber who held gun to Paula Deen’s head in 1987 heist found dead in NYC",
+    "link": "https://nypost.com/2026/03/02/us-news/bank-robber-who-held-gun-to-paula-deens-head-in-1987-heist-found-dead-in-nyc/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-02-06-03-18 +0000",
+    "source": "wapo",
+    "headline": "Iran’s top security official denied a report that he had sought to resume nuclear negotiations with...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-02-06-00-01 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Jump After Iran Attack",
+    "link": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-02-05-59-00 +0000",
+    "source": "wsj",
+    "headline": "Chinese Automakers’ Sales Largely Fail to Gallop Into New Year",
+    "link": "https://www.wsj.com/business/autos/chinese-automakers-sales-largely-fail-to-gallop-into-new-year-7ab3b76f?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-02-05-36-34 +0000",
+    "source": "wapo",
+    "headline": "Israel began launching a new wave of strikes at Hezbollah targets in several areas of Lebanon,...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-02-05-47-27 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-02-05-33-44 +0000",
+    "source": "nyt",
+    "headline": "Israel Strikes Beirut After Hezbollah Attacks",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html"
+  }
+]
