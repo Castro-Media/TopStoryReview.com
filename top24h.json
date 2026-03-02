@@ -1,59 +1,59 @@
 [
   {
-    "score": 386,
+    "score": 390,
+    "pubdate": "2026-03-02-01-17-20 +0000",
+    "source": "latimes",
+    "headline": "Thousands rally in Westwood as U.S.-Iran war escalates, calling for a 'free Iran'",
+    "link": "https://www.latimes.com/california/story/2026-03-01/thousands-rally-in-westwood-as-u-s-iran-war-escalates-calling-for-free-iran"
+  },
+  {
+    "score": 203,
     "pubdate": "2026-03-01-10-59-34 +0000",
     "source": "wapo",
     "headline": "Iran’s supreme leader killed in U.S.-Israeli attack; Tehran strikes Israel, Arab states",
     "link": "https://www.washingtonpost.com/world/2026/02/28/israel-strikes-iran-live-updates/"
   },
   {
-    "score": 185,
+    "score": 187,
     "pubdate": "2026-03-01-22-57-46 +0000",
     "source": "nypost",
     "headline": "Trump warns Iranian regime to surrender or face ‘certain death’ — adds more Americans ‘will likely be’ lost",
     "link": "https://nypost.com/2026/03/01/world-news/trump-tells-iranian-regime-to-surrender-or-face-certain-death-in-new-video-after-strikes/"
   },
   {
-    "score": 96,
+    "score": 89,
     "pubdate": "2026-03-01-17-32-51 +0000",
     "source": "nyt",
     "headline": "Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86",
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html"
   },
   {
-    "score": 91,
-    "pubdate": "2026-03-01-21-09-38 +0000",
-    "source": "cbc",
-    "headline": "Hundreds of thousands stranded as war shuts down much of Middle East air traffic",
-    "link": "https://www.cbc.ca/news/world/middle-east-iran-israel-us-war-air-travel-9.7110553?cmp=rss"
+    "score": 80,
+    "pubdate": "2026-03-02-00-19-00 +0000",
+    "source": "wsj",
+    "headline": "Middle East Conflict Sparks Surge in Oil Prices",
+    "link": "https://www.wsj.com/world/middle-east/middle-east-conflict-sparks-surge-in-oil-prices-27cea568?mod=rss_markets_main"
   },
   {
-    "score": 68,
+    "score": 72,
     "pubdate": "2026-03-02-01-15-43 +0000",
     "source": "nypost",
     "headline": "Family speaks out after FBI launched terror probe into 17-year-old’s home chemistry kit: ‘He was trying to cure cancer’",
     "link": "https://nypost.com/2026/03/01/us-news/oc-family-deny-son-is-a-terrorist-after-chem-experiments-spark-probe/"
   },
   {
-    "score": 55,
+    "score": 53,
     "pubdate": "2026-03-01-22-54-12 +0000",
     "source": "nypost",
     "headline": "Mom reveals horrific new details after daughter, 12, died when hit in head with water bottle by bully",
     "link": "https://nypost.com/2026/03/01/us-news/reseda-girl-was-defending-sister-when-bully-threw-bottle-at-head/"
   },
   {
-    "score": 49,
+    "score": 51,
     "pubdate": "2026-03-01-15-14-11 +0000",
     "source": "wapo",
     "headline": "Three U.S. service members were killed in action, Central Command said Sunday, the first U.S. casualties...",
     "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-03-01-02-21-55 +0000",
-    "source": "nyt",
-    "headline": "The attacks touched off protests across the United States and abroad.",
-    "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/the-attacks-touched-off-protests-across-the-united-states-and-abroad"
   },
   {
     "score": 44,
@@ -63,10 +63,10 @@
     "link": "https://www.cbc.ca/news/politics/tim-hodgson-lng-exports-100-million-tonnes-9.7107519?cmp=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2026-03-02-00-36-19 +0000",
+    "score": 41,
+    "pubdate": "2026-03-01-23-18-27 +0000",
     "source": "bbc",
-    "headline": "Oil prices jump after ships attacked near Strait of Hormuz",
-    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+    "headline": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
+    "link": "https://www.bbc.com/news/videos/cvgk8vj56v1o?at_medium=RSS&at_campaign=rss"
   }
 ]
