@@ -1,9 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-03-01-22-57-46 +0000",
+    "score": 61,
+    "pubdate": "2026-03-02-01-10-47 +0000",
+    "source": "nyt",
+    "headline": "Trump Stays Out of Public View After U.S. Launches Military Assault on Iran",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-03-02-01-09-48 +0000",
+    "source": "nyt",
+    "headline": "Trump Says Iran War Could Last Weeks and Gives Competing Visions of New Regime",
+    "link": "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-02-00-46-34 +0000",
     "source": "nypost",
-    "headline": "Trump tells Iranian regime to surrender or face ‘certain death’ in new video after strikes",
-    "link": "https://nypost.com/2026/03/01/world-news/trump-tells-iranian-regime-to-surrender-or-face-certain-death-in-new-video-after-strikes/"
+    "headline": "Silicon Valley water CEO gets $500K golden handshake just days before sex attack report released",
+    "link": "https://nypost.com/2026/03/01/us-news/calif-water-ceo-steps-down-amid-harassment-findings-scores-512k-pay-deal/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-02-00-29-46 +0000",
+    "source": "nyt",
+    "headline": "Maps: Where the U.S.-Led Strikes Hit Iran and Tehran’s Retaliation",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-02-00-36-19 +0000",
+    "source": "bbc",
+    "headline": "Oil prices jump after ships attacked near Strait of Hormuz",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-02-01-15-43 +0000",
+    "source": "nypost",
+    "headline": "Family speaks out after FBI launched terror probe into 17-year-old’s home chemistry kit: ‘He was trying to cure cancer’",
+    "link": "https://nypost.com/2026/03/01/us-news/oc-family-deny-son-is-a-terrorist-after-chem-experiments-spark-probe/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-02-00-37-42 +0000",
+    "source": "nypost",
+    "headline": "McDonald’s CEO ruthlessly mocked over viral video tasting Big Arch burger: ‘Most unnatural thing I’ve ever seen’",
+    "link": "https://nypost.com/2026/03/01/business/mcdonalds-ceo-chris-kempczinski-ruthlessly-mocked-over-viral-video-tasting-big-arch-burger/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-02-01-18-00 +0000",
+    "source": "48hills",
+    "headline": "Noise Pop Diary: Shannon Shaw came sans Clams; SpongeBob’s Tom Kenny rode Hi-Seas",
+    "link": "https://48hills.org/2026/03/noise-pop-diary-shannon-shaw-spongebobs-tom-kenny-hi-seas/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-02-01-17-13 +0000",
+    "source": "nypost",
+    "headline": "Trapped hot air balloon passengers saved in heart-stopping rescue at nearly 1,000 feet above ground",
+    "link": "https://nypost.com/2026/03/01/us-news/trapped-hot-air-balloon-passengers-saved-in-heart-stopping-rescue-at-nearly-1000-feet-above-ground/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-02-01-10-13 +0000",
+    "source": "nypost",
+    "headline": "Math teacher at famous CA school sues for $4M after student claimed they had sex when she was 14",
+    "link": "https://nypost.com/2026/03/01/us-news/jeremy-taylor-sues-oakland-school-after-sexual-misconduct-charges-dropped/"
   }
 ]
