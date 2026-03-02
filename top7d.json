@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/israel-launches-new-military-strikes-as-iran-retaliates-after-khameneis-killing"
   },
   {
-    "score": 240,
+    "score": 238,
     "pubdate": "2026-02-27-23-01-00 +0000",
     "source": "wsj",
     "headline": "Trump ends government use of Anthropic’s AI models, Bill Clinton says he knew nothing about Epstein’s crimes and the HBO investment-bank show “Industry” branches out. Read more in today’s What’s News newsletter:",
@@ -32,7 +32,7 @@
     "pubdate": "2026-03-02-09-46-00 +0000",
     "source": "wsj",
     "headline": "Oil and Gold Jump, Stocks Slide as Conflict in Middle East Rocks Global Markets",
-    "link": "https://www.wsj.com/business/energy-oil/oil-and-gold-jump-stocks-slide-as-conflict-in-middle-east-rocks-global-markets-4c822c43?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/business/energy-oil/oil-and-gold-jump-stocks-slide-as-conflict-in-middle-east-rocks-global-markets-4c822c43?mod=rss_markets_main"
   },
   {
     "score": 164,
@@ -57,16 +57,16 @@
   },
   {
     "score": 104,
-    "pubdate": "2026-03-01-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Canada poised to become 'one of the largest suppliers of LNG in the world': energy minister",
-    "link": "https://www.cbc.ca/news/politics/tim-hodgson-lng-exports-100-million-tonnes-9.7107519?cmp=rss"
-  },
-  {
-    "score": 104,
     "pubdate": "2026-02-23-19-06-42 +0000",
     "source": "nyt",
     "headline": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
     "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html"
+  },
+  {
+    "score": 104,
+    "pubdate": "2026-03-01-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Canada poised to become 'one of the largest suppliers of LNG in the world': energy minister",
+    "link": "https://www.cbc.ca/news/politics/tim-hodgson-lng-exports-100-million-tonnes-9.7107519?cmp=rss"
   }
 ]
