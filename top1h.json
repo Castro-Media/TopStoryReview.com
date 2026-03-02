@@ -1,52 +1,24 @@
 [
   {
-    "score": 36,
-    "pubdate": "2026-03-02-12-50-55 +0000",
-    "source": "nypost",
-    "headline": "Fourth US service member dies from Iran attacks",
-    "link": "https://nypost.com/2026/03/02/us-news/fourth-us-service-member-dies-from-iran-attacks/"
-  },
-  {
-    "score": 29,
+    "score": 16,
     "pubdate": "2026-03-02-13-11-30 +0000",
     "source": "wapo",
     "headline": "Middle East live updates: 3 U.S. jets downed in ‘apparent friendly fire’; conflict spreads to Lebanon",
     "link": "https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/"
   },
   {
-    "score": 19,
-    "pubdate": "2026-03-02-12-49-32 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Surge After Iran Attack",
-    "link": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-02-12-56-04 +0000",
-    "source": "nypost",
-    "headline": "Texas mass shooter Ndiaga Diagne had Iranian flag and photos of Islamic Republic leaders in his home: report",
-    "link": "https://nypost.com/2026/03/02/us-news/texas-mass-shooter-ndiaga-diagne-had-iranian-flag-and-photos-of-islamic-republic-leaders-in-his-home-report/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-03-02-12-55-27 +0000",
-    "source": "wapo",
-    "headline": "Lebanese Prime Minister Nawaf Salam announced a “ban on Hezbollah’s military activities” Monday after the group...",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 15,
+    "score": 12,
     "pubdate": "2026-03-02-13-12-01 +0000",
     "source": "startribune",
     "headline": "War widens as Israeli and US planes pound Iran and Tehran and its proxies hit back",
     "link": "https://www.startribune.com/war-widens-to-include-iranian-backed-militias-as-israeli-and-american-planes-pound-iran/601591197"
   },
   {
-    "score": 15,
-    "pubdate": "2026-03-02-12-36-00 +0000",
-    "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-c9d9122b?mod=pls_whats_news_us_business_f"
+    "score": 11,
+    "pubdate": "2026-03-02-13-12-55 +0000",
+    "source": "nyt",
+    "headline": "Israel Strikes Beirut After Hezbollah Attacks",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html"
   },
   {
     "score": 11,
@@ -56,17 +28,45 @@
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 11,
-    "pubdate": "2026-03-02-12-23-50 +0000",
+    "score": 9,
+    "pubdate": "2026-03-02-13-12-30 +0000",
     "source": "bbc",
-    "headline": "UK will allow US to use bases to strike Iranian missile sites, PM says",
-    "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss"
+    "headline": "Henry Zeffman: Starmer seeks to carve out distinct UK approach to this conflict",
+    "link": "https://www.bbc.com/news/articles/c0rj4nvw07do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 11,
-    "pubdate": "2026-03-02-12-53-34 +0000",
-    "source": "wapo",
-    "headline": "Iran launches new airstrikes across Mideast, 5 Gulf states report damage",
-    "link": "https://www.washingtonpost.com"
+    "score": 7,
+    "pubdate": "2026-03-02-13-14-00 +0000",
+    "source": "wsj",
+    "headline": "BlackRock, EQT-Led Consortium to Acquire AES for $10.7 Billion",
+    "link": "https://www.wsj.com/finance/investing/blackrock-eqt-led-consortium-to-acquire-aes-for-10-7-billion-5dcd435b?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-02-13-09-28 +0000",
+    "source": "nyt",
+    "headline": "Honored Nationwide, Jesse Jackson Is Less Celebrated in His Hometown",
+    "link": "https://www.nytimes.com/2026/03/02/us/greenville-jesse-jackson.html"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-02-13-14-51 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Mideast Conflict Widens Across Multiple Fronts",
+    "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-03-02-13-15-52 +0000",
+    "source": "bbc",
+    "headline": "Why did US and Israel attack Iran and how long could the war last?",
+    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-02-13-12-55 +0000",
+    "source": "nyt",
+    "headline": "Israel Strikes Beirut After Hezbollah Attacks",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html"
   }
 ]
