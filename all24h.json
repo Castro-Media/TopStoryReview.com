@@ -1,5 +1,83 @@
 [
   {
+    "headline": "Comex Gold Futures Set to Test Resistance at $5,500, Daily Chart Shows",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-as-middle-east-conflict-spurs-safe-haven-demand-7be4c63d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-02-07-05-00 +0000"
+  },
+  {
+    "headline": "Oil prices rise after ships attacked near Strait of Hormuz",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-02-06-53-43 +0000"
+  },
+  {
+    "headline": "Oil prices rise after ships attacked near Strait of Hormuz",
+    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-02-06-53-43 +0000"
+  },
+  {
+    "headline": "Deepfake attack: 'Many people could have been cheated'",
+    "link": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-02-06-47-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-02-06-44-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-02-06-44-54 +0000"
+  },
+  {
+    "headline": "Sir John Curtice: Which issues will decide the elections in Scotland and Wales?",
+    "link": "https://www.bbc.com/news/articles/cj6dnrwnx01o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-02-06-28-21 +0000"
+  },
+  {
+    "headline": "Asian Manufacturers Show Resilience as Demand Rises",
+    "link": "https://www.wsj.com/economy/asian-manufacturers-show-resilience-as-demand-rises-861449e6",
+    "source": "wsj",
+    "pubdate": "2026-03-02-06-19-00 +0000"
+  },
+  {
+    "headline": "Reform council deputy admits post image was AI",
+    "link": "https://www.bbc.com/news/articles/c3ewpn4yj2go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-02-06-16-15 +0000"
+  },
+  {
+    "headline": "Labour promises same-day mental health services if it wins Senedd election",
+    "link": "https://www.bbc.com/news/articles/cd9gzggy22zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-02-06-09-37 +0000"
+  },
+  {
+    "headline": "50,000 bees killed in ‘deliberate’ arson of hives at family-owned Pennsylvania farm",
+    "link": "https://nypost.com/2026/03/02/us-news/50000-bees-killed-in-deliberate-arson-of-hives-at-family-owned-pennsylvania-farm/",
+    "source": "nypost",
+    "pubdate": "2026-03-02-06-09-27 +0000"
+  },
+  {
+    "headline": "What Now in Iran?",
+    "link": "https://www.nytimes.com/2026/03/01/world/ali-khamenei-iran-us-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-03-02-06-06-03 +0000"
+  },
+  {
+    "headline": "Where the Strikes Leave Iranians",
+    "link": "https://www.nytimes.com/video/world/middleeast/100000010744246/life-in-iran-after-american-israeli-strikes.html",
+    "source": "nyt",
+    "pubdate": "2026-03-02-06-06-02 +0000"
+  },
+  {
     "headline": "Where the Strikes Leave Iranians",
     "link": "https://www.nytimes.com/video/world/middleeast/100000010744246/life-in-iran-after-american-israeli-strikes.html",
     "source": "nyt",
@@ -48,18 +126,6 @@
     "pubdate": "2026-03-02-05-59-00 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-02-05-47-27 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-02-05-47-27 +0000"
-  },
-  {
     "headline": "Israel began launching a new wave of strikes at Hezbollah targets in several areas of Lebanon,...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -76,6 +142,12 @@
     "link": "https://www.nytimes.com/2026/03/01/world/middleeast/israel-strikes-beirut-hezbollah.html",
     "source": "nyt",
     "pubdate": "2026-03-02-05-33-44 +0000"
+  },
+  {
+    "headline": "RAF base in Cyprus targeted in suspected drone strike, MoD says",
+    "link": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-02-05-24-27 +0000"
   },
   {
     "headline": "North Carolina father-to-be saved by quick-thinking pregnant wife after suffering sudden heart attack",
@@ -402,18 +474,6 @@
     "pubdate": "2026-03-02-02-16-32 +0000"
   },
   {
-    "headline": "Oil prices rise after ships attacked near Strait of Hormuz",
-    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-02-02-12-41 +0000"
-  },
-  {
-    "headline": "Oil prices rise after ships attacked near Strait of Hormuz",
-    "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-02-02-12-41 +0000"
-  },
-  {
     "headline": "“In response to projectile fire toward northern Israel, the IDF is striking Hezbollah targets across Lebanon,”...",
     "link": "https://www.washingtonpost.com",
     "source": "wapo",
@@ -672,12 +732,6 @@
     "pubdate": "2026-03-01-23-53-28 +0000"
   },
   {
-    "headline": "Gold, Silver Rise as Middle East Conflict Spurs Safe-Haven Demand",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-rise-as-middle-east-conflict-spurs-safe-haven-demand-7be4c63d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-01-23-50-00 +0000"
-  },
-  {
     "headline": "In New York, Fury, Anxiety and Joy Over the Attacks on Iran",
     "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-reaction-new-york.html",
     "source": "nyt",
@@ -718,12 +772,6 @@
     "link": "https://nypost.com/2026/03/01/us-news/ny-pols-push-for-ban-on-nonstick-cookware-that-even-lefty-calif-gov-gavin-newson-nixed/",
     "source": "nypost",
     "pubdate": "2026-03-01-23-35-31 +0000"
-  },
-  {
-    "headline": "Where the Strikes Leave Iranians",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010744246/life-in-iran-after-american-israeli-strikes.html",
-    "source": "nyt",
-    "pubdate": "2026-03-01-23-30-40 +0000"
   },
   {
     "headline": "Iran led by 3-man council with varying views after mass assassination leaves huge power vacuum",
@@ -834,10 +882,10 @@
     "pubdate": "2026-03-01-22-57-14 +0000"
   },
   {
-    "headline": "Mom reveals horrific new details after daughter, 12, died when hit in head with water bottle by bully",
-    "link": "https://nypost.com/2026/03/01/us-news/reseda-girl-was-defending-sister-when-bully-threw-bottle-at-head/",
-    "source": "nypost",
-    "pubdate": "2026-03-01-22-54-12 +0000"
+    "headline": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+    "link": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-01-22-56-45 +0000"
   },
   {
     "headline": "Strike on Girls’ School Kills 115, Iranian State Media Says",
@@ -1074,12 +1122,6 @@
     "pubdate": "2026-03-01-21-40-15 +0000"
   },
   {
-    "headline": "What Now in Iran?",
-    "link": "https://www.nytimes.com/2026/03/01/world/ali-khamenei-iran-us-israel.html",
-    "source": "nyt",
-    "pubdate": "2026-03-01-21-38-32 +0000"
-  },
-  {
     "headline": "GOP civil war in Texas likely to lead to US Senate primary run-off, poll shows",
     "link": "https://nypost.com/2026/03/01/us-news/us-senate-gop-primary-will-likely-lead-to-paxton-cornyn-runoff-in-texas-poll/",
     "source": "nypost",
@@ -1270,12 +1312,6 @@
     "link": "https://www.washingtonpost.com/world/2026/03/01/iran-succession-supreme-leader-khamenei/",
     "source": "wapo",
     "pubdate": "2026-03-01-20-21-59 +0000"
-  },
-  {
-    "headline": "Middle East Airspace Closes as U.S.-Israeli Strikes Hit Iran",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/middle-east-airport-closures-emirates-qatar.html",
-    "source": "nyt",
-    "pubdate": "2026-03-01-20-15-06 +0000"
   },
   {
     "headline": "Middle East Airspace Closes as U.S.-Israeli Strikes Hit Iran",
@@ -2184,8 +2220,14 @@
     "pubdate": "2026-03-01-11-00-00 +0000"
   },
   {
-    "headline": "Surveillance company Flock generates controversy — and a roster of L.A. clients",
-    "link": "https://www.latimes.com/california/story/2026-03-01/surveillance-company-flock-safety-los-angeles",
+    "headline": "A charismatic L.A. educator, a connected consultant and the FBI probe of a failed AI company",
+    "link": "https://www.latimes.com/california/story/2026-03-01/how-probe-into-failed-startup-led-to-lausd-superintendent-investigation",
+    "source": "latimes",
+    "pubdate": "2026-03-01-11-00-00 +0000"
+  },
+  {
+    "headline": "Fear that herbicides are poisoning Orange County creeks blows up on social media",
+    "link": "https://www.latimes.com/environment/story/2026-03-01/orange-county-herbicides-waterways",
     "source": "latimes",
     "pubdate": "2026-03-01-11-00-00 +0000"
   },
@@ -2196,14 +2238,8 @@
     "pubdate": "2026-03-01-11-00-00 +0000"
   },
   {
-    "headline": "A charismatic L.A. educator, a connected consultant and the FBI probe of a failed AI company",
-    "link": "https://www.latimes.com/california/story/2026-03-01/how-probe-into-failed-startup-led-to-lausd-superintendent-investigation",
-    "source": "latimes",
-    "pubdate": "2026-03-01-11-00-00 +0000"
-  },
-  {
-    "headline": "Fear that herbicides are poisoning Orange County creeks blows up on social media",
-    "link": "https://www.latimes.com/environment/story/2026-03-01/orange-county-herbicides-waterways",
+    "headline": "Surveillance company Flock generates controversy — and a roster of L.A. clients",
+    "link": "https://www.latimes.com/california/story/2026-03-01/surveillance-company-flock-safety-los-angeles",
     "source": "latimes",
     "pubdate": "2026-03-01-11-00-00 +0000"
   },
@@ -2470,35 +2506,5 @@
     "link": "https://nypost.com/2026/03/01/world-news/team-usa-basketball-player-destiny-littleton-shares-panic-footage-stranded-in-israel-after-iran-attack/",
     "source": "nypost",
     "pubdate": "2026-03-01-07-32-31 +0000"
-  },
-  {
-    "headline": "A celebration in the largest Iranian community outside Iran",
-    "link": "https://www.washingtonpost.com",
-    "source": "wapo",
-    "pubdate": "2026-03-01-06-56-46 +0000"
-  },
-  {
-    "headline": "Iranian Supreme Leader Ayatollah Khamenei Dies",
-    "link": "https://www.wsj.com/world/middle-east/iranian-supreme-leader-ayatollah-khamenei-dies-94e0aa4c",
-    "source": "wsj",
-    "pubdate": "2026-03-01-06-49-00 +0000"
-  },
-  {
-    "headline": "Celebrations around the world after strikes on Iran",
-    "link": "https://www.bbc.com/news/videos/c2d1zj43zr6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-01-06-22-30 +0000"
-  },
-  {
-    "headline": "Celebrations around the world after strikes on Iran",
-    "link": "https://www.bbc.com/news/videos/c2d1zj43zr6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-01-06-22-30 +0000"
-  },
-  {
-    "headline": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
-    "link": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-01-06-21-42 +0000"
   }
 ]
