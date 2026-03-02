@@ -1,30 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-03-02-15-04-30 +0000",
+    "score": 63,
+    "pubdate": "2026-03-02-16-17-55 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Mideast Conflict Widens as U.S. Officials Say Iran Operation Is in Early Stages",
-    "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump"
+    "headline": "After a Drone Strikes RAF Base in Cyprus, UK Risks Being Dragged Further Into Iran Conflict",
+    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/starmer-faces-dilemma-as-british-base-in-cyprus-hit-by-drone.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-03-02-15-02-03 +0000",
-    "source": "startribune",
-    "headline": "Energy prices surge as tanker disruptions, facility shutdowns, rattle global supply",
-    "link": "https://www.startribune.com/oil-prices-surge-as-strait-of-hormuz-tanker-disruptions-rattle-global-supply/601591326"
+    "score": 29,
+    "pubdate": "2026-03-02-17-01-13 +0000",
+    "source": "wapo",
+    "headline": "Israel struck a “senior terrorist” in Beirut early Monday evening, the Israel Defense Forces said in...",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 7,
-    "pubdate": "2026-03-02-15-04-01 +0000",
-    "source": "nyt",
-    "headline": "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East",
-    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-israel-trump-attack-photos.html"
+    "score": 28,
+    "pubdate": "2026-03-02-16-15-09 +0000",
+    "source": "nypost",
+    "headline": "HHS finds Minnesota child care agency failed to verify attendance records and ‘pursue fraud tips’",
+    "link": "https://nypost.com/2026/03/02/us-news/hhs-finds-minnesota-child-care-agency-failed-to-verify-attendance-records-and-pursue-fraud-tips/"
   },
   {
-    "score": 5,
-    "pubdate": "2026-03-02-15-02-42 +0000",
+    "score": 25,
+    "pubdate": "2026-03-02-16-36-09 +0000",
     "source": "nyt",
-    "headline": "America’s Billionaires Continue to Flock to Wyoming",
-    "link": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html"
+    "headline": "After Attacks in Iran, Cubans Worry They Might Be Trump’s Next Target",
+    "link": "https://www.nytimes.com/2026/03/02/world/americas/iran-attacks-cuba-trump.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-02-16-11-16 +0000",
+    "source": "nypost",
+    "headline": "First victim of Austin mass shooting identified as Texas Tech student",
+    "link": "https://nypost.com/2026/03/02/us-news/first-victim-of-austin-mass-shooting-identified-as-texas-tech-student-ryder-harrington/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-02-17-01-39 +0000",
+    "source": "bbc",
+    "headline": "Why did US and Israel attack Iran and how long could the war last?",
+    "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-02-17-02-45 +0000",
+    "source": "nyt",
+    "headline": "Five Testy Moments From the Acrimonious Texas Senate Primaries",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/texas-senate-primaries-personal-attacks.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-02-16-17-52 +0000",
+    "source": "nyt",
+    "headline": "Dubai Says ‘Limited’ Flights Will Resume From Its Airports",
+    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/dubai-flights.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-02-16-14-01 +0000",
+    "source": "nyt",
+    "headline": "Latino Democrats Fight to Fend Off Upstart Challengers",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/latino-democrats-primary-elections.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-02-17-02-47 +0000",
+    "source": "nypost",
+    "headline": "Photo reveals Austin mass shooter Ndiaga Diagne wore shirt with Iranian flag colors under his hoodie",
+    "link": "https://nypost.com/2026/03/02/us-news/photo-reveals-austin-mass-shooter-ndiaga-diagne-wore-shirt-with-iranian-flag-colors-under-his-hoodie/"
   }
 ]
