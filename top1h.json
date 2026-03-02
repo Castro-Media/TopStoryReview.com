@@ -1,65 +1,72 @@
 [
   {
-    "score": 17,
-    "pubdate": "2026-03-02-17-06-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | The Case for Cautious Optimism About Trump’s War in Iran",
-    "link": "https://www.wsj.com/opinion/the-case-for-cautious-optimism-about-trumps-war-in-iran-06a7f8bf"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-03-02-17-06-19 +0000",
-    "source": "bbc",
-    "headline": "Bars close and hundreds lose jobs as US firm buys Brewdog in £33m deal",
-    "link": "https://www.bbc.com/news/articles/c05v0p1d0peo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-03-02-17-05-54 +0000",
-    "source": "wapo",
-    "headline": "Live updates: War with Iran expands across region; U.S. expects more casualties",
-    "link": "https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-02-17-05-54 +0000",
-    "source": "wapo",
-    "headline": "Trump says he’s not ruling out sending ground troops ‘if they were necessary’",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-02-17-05-09 +0000",
-    "source": "wapo",
-    "headline": "U.S. defense personnel injured in Bahrain hotel strike, diplomatic cable says",
-    "link": "https://www.washingtonpost.com"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-03-02-17-05-31 +0000",
+    "score": 90,
+    "pubdate": "2026-03-02-18-17-58 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Trump Defends Strikes on Iran as U.S. Sends More Forces to Mideast",
+    "headline": "Airline Stocks Tumble as Iran War Expands Across the Middle East",
+    "link": "https://www.nytimes.com/2026/03/02/business/airline-stocks-iran-attacks.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-03-02-18-53-27 +0000",
+    "source": "bbc",
+    "headline": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
+    "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-03-02-19-05-00 +0000",
+    "source": "wsj",
+    "headline": "“I gotta go to work.” President Trump spend a three-day whirlwind at Mar-a-Lago after approving the military operation in Iran.",
+    "link": "https://www.wsj.com/politics/policy/trumps-weekend-at-mar-a-lago-a-fundraiser-video-remarks-and-secure-briefings-24d92275"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-02-18-16-14 +0000",
+    "source": "bbc",
+    "headline": "France to boost nuclear arsenal and extend deterrence to European allies",
+    "link": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-02-18-12-06 +0000",
+    "source": "nyt",
+    "headline": "In New York, Fury, Anxiety and Joy Over the Attacks on Iran",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-reaction-new-york.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-02-19-01-00 +0000",
+    "source": "wsj",
+    "headline": "Iran Conflict Delays Shipping’s Return to Suez Canal, Hapag-Lloyd Says",
+    "link": "https://www.wsj.com/logistics-report/iran-conflict-delays-shippings-return-to-suez-canal-hapag-lloyd-says-f041ee06?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-02-19-02-47 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Trump Suggests Extended War on Iran as U.S. Adds to Forces in Mideast",
     "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump"
   },
   {
-    "score": 4,
-    "pubdate": "2026-03-02-17-04-34 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump/heres-the-latest"
+    "score": 14,
+    "pubdate": "2026-03-02-18-19-57 +0000",
+    "source": "nypost",
+    "headline": "Former USC player Destiny Littleton stuck in Israel after airstrikes on Iran",
+    "link": "https://nypost.com/2026/03/02/world-news/destiny-littleton-stuck-in-israel-during-us-conflict-with-iran/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-03-02-17-06-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | The Case for Cautious Optimism About Trump’s War in Iran",
-    "link": "https://www.wsj.com/opinion/the-case-for-cautious-optimism-about-trumps-war-in-iran-06a7f8bf"
+    "score": 13,
+    "pubdate": "2026-03-02-18-52-37 +0000",
+    "source": "nypost",
+    "headline": "Rogue FBI agent threatens to blow a hole in the agency after infiltrating California mosque: ‘Earned my vengeance’",
+    "link": "https://nypost.com/2026/03/02/us-news/fbi-agent-vows-vengeance-on-agency-after-infiltrating-oc-mosque/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-03-02-17-04-34 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump/heres-the-latest"
+    "score": 13,
+    "pubdate": "2026-03-02-18-49-08 +0000",
+    "source": "wapo",
+    "headline": "National Park Service database flags hundreds of items that might ‘disparage’ America",
+    "link": "https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/"
   }
 ]
