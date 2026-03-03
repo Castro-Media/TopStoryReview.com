@@ -1,66 +1,59 @@
 [
   {
-    "score": 548,
+    "score": 547,
     "pubdate": "2026-03-02-20-10-03 +0000",
     "source": "nyt",
     "headline": "Iran’s Top Security Official Calls Trump’s War Aims ‘Delusional’ and Says Iran ‘Will Not Negotiate’",
     "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-trump-war-goals.html"
   },
   {
-    "score": 158,
+    "score": 164,
     "pubdate": "2026-03-02-22-57-08 +0000",
     "source": "nyt",
     "headline": "Iranian Strikes Hit Qatar and Saudi Energy Sites, Threatening Oil and Gas Supplies",
     "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-attack-saudi-arabia-qatar-oil-gas-energy.html"
   },
   {
-    "score": 129,
+    "score": 122,
     "pubdate": "2026-03-03-10-30-00 +0000",
     "source": "wsj",
     "headline": "Americans weary of high prices have recently been able to count on cheap gasoline to offset sticker shock at the grocery store and beyond. The Iran conflict threatens to throw that off course.",
     "link": "https://www.wsj.com/business/energy-oil/what-the-iran-strikes-could-mean-for-u-s-inflation-1198fcb3"
   },
   {
-    "score": 109,
+    "score": 116,
     "pubdate": "2026-03-03-09-36-26 +0000",
     "source": "wapo",
     "headline": "Israel struck sites in Tehran with “great force” from the air overnight, Defense Minister Israel Katz...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 96,
+    "score": 88,
+    "pubdate": "2026-03-03-11-36-16 +0000",
+    "source": "nyt",
+    "headline": "Here’s what to expect as the first votes of the election season are counted in Texas and two other states.",
+    "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/heres-what-to-expect-as-the-first-votes-of-the-election-season-are-counted-in-texas-and-two-other-states"
+  },
+  {
+    "score": 87,
     "pubdate": "2026-03-02-16-46-23 +0000",
     "source": "cbc",
     "headline": "U.S. military leaders lay out timeline of attacks that killed Khamenei, Iranian officials",
     "link": "https://www.cbc.ca/news/world/us-pentagon-iran-operation-details-9.7110861?cmp=rss"
   },
   {
-    "score": 83,
-    "pubdate": "2026-03-03-10-08-30 +0000",
-    "source": "nyt",
-    "headline": "Texas and North Carolina Elections Will Test Older House Democrats’ Staying Power",
-    "link": "https://www.nytimes.com/2026/03/03/us/politics/texas-north-carolina-older-democrats.html"
-  },
-  {
     "score": 73,
-    "pubdate": "2026-03-02-20-30-32 +0000",
+    "pubdate": "2026-03-02-17-27-42 +0000",
     "source": "nyt",
-    "headline": "Airline Stocks Tumble as Iran War Expands Across the Middle East",
-    "link": "https://www.nytimes.com/2026/03/02/business/airline-stocks-iran-attacks.html"
-  },
-  {
-    "score": 73,
-    "pubdate": "2026-03-03-09-40-40 +0000",
-    "source": "wapo",
-    "headline": "BEIRUT — Israel has taken up new positions inside southern Lebanon overnight, expanding its presence since...",
-    "link": "https://www.washingtonpost.com"
+    "headline": "Carney Hails New Ties Between Canada and India, Setting Aside Rift Over Killing",
+    "link": "https://www.nytimes.com/2026/03/02/world/canada/carney-india-modi.html"
   },
   {
     "score": 72,
-    "pubdate": "2026-03-03-00-33-09 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court: California parents may be told about their transgender child at school",
-    "link": "https://www.latimes.com/politics/story/2026-03-02/supreme-court-california-parents-may-be-told-about-their-transgender-child-at-school"
+    "pubdate": "2026-03-03-00-15-58 +0000",
+    "source": "nypost",
+    "headline": "Supreme Court blocks California law that stopped schools from telling parents if their kid is transgender",
+    "link": "https://nypost.com/2026/03/02/us-news/supreme-court-blocks-california-from-enforcing-rules-to-restrict-schools-from-telling-parents-when-their-kid-comes-out-as-transgender/"
   },
   {
     "score": 69,
@@ -68,5 +61,12 @@
     "source": "wapo",
     "headline": "Videos appear to show the moments U.S. fighter jets were shot down over Kuwait",
     "link": "https://www.washingtonpost.com/investigations/2026/03/02/us-fighter-jets-crash-kuwait-iran-f15/"
+  },
+  {
+    "score": 69,
+    "pubdate": "2026-03-02-20-30-32 +0000",
+    "source": "nyt",
+    "headline": "Airline Stocks Tumble as Iran War Expands Across the Middle East",
+    "link": "https://www.nytimes.com/2026/03/02/business/airline-stocks-iran-attacks.html"
   }
 ]
