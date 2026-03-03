@@ -1,16 +1,72 @@
 [
   {
+    "score": 19,
+    "pubdate": "2026-03-03-05-56-54 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Trump says strikes on Iran could take weeks as U.S. urges Americans to leave the region",
+    "link": "https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-03-06-00-06 +0000",
+    "source": "nyt",
+    "headline": "As Trump Scrambles the World Order, Can Germany Learn the Language of Hard Power?",
+    "link": "https://www.nytimes.com/2026/03/03/magazine/germany-europe-iran-merz-trump-defense.html"
+  },
+  {
     "score": 12,
-    "pubdate": "2026-03-03-04-21-31 +0000",
+    "pubdate": "2026-03-03-05-46-53 +0000",
+    "source": "nyt",
+    "headline": "In Myanmar, Junta Leader Eyes the Title of President",
+    "link": "https://www.nytimes.com/2026/03/03/world/asia/myanmar-junta-president-min-aung-hlaing.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-03-06-02-54 +0000",
+    "source": "bbc",
+    "headline": "Oil prices extend gains after Iran makes new threat to Gulf shipping",
+    "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-03-05-59-11 +0000",
+    "source": "wapo",
+    "headline": "Threat from Iran conflict spreads across Middle East in 72 hours",
+    "link": "https://www.washingtonpost.com/world/2026/03/02/mideast-iran-israel-war-civilians/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-03-05-35-35 +0000",
+    "source": "wapo",
+    "headline": "On Fox News on Monday, U.S. presidential envoy Steve Witkoff said the U.S. went into nuclear...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-03-05-23-42 +0000",
     "source": "nypost",
-    "headline": "Plane taking off from Long Island crashes into icy Hudson River during emergency landing",
-    "link": "https://nypost.com/2026/03/02/us-news/cessna-plane-from-long-island-crashes-into-hudson-river-during-emergency-landing/"
+    "headline": "2 employees at Michigan smoothie shop fired for refusing to serve man in Trump hoodie",
+    "link": "https://nypost.com/2026/03/03/us-news/2-employees-at-michigan-smoothie-king-location-fired-for-refusing-to-serve-man-in-trump-hoodie/"
   },
   {
     "score": 7,
-    "pubdate": "2026-03-03-04-25-51 +0000",
-    "source": "nyt",
-    "headline": "‘Pray We Make It Through the Night’: Iran’s Capital Under Siege",
-    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-terhran-strikes.html"
+    "pubdate": "2026-03-03-05-28-03 +0000",
+    "source": "bbc",
+    "headline": "The little town making nearly all of China's lanterns",
+    "link": "https://www.bbc.com/news/articles/c15x38x7z8xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-03-05-45-46 +0000",
+    "source": "bbc",
+    "headline": "Know when to fold them: the tech inspired by origami",
+    "link": "https://www.bbc.com/news/articles/c9v0e4n8kw0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-03-05-53-00 +0000",
+    "source": "wsj",
+    "headline": "Australia’s Economy on Track to Record Strong Growth",
+    "link": "https://www.wsj.com/articles/australias-economy-on-track-to-record-strong-growth-94154b94"
   }
 ]
