@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-03-03-07-02-38 +0000",
+    "score": 23,
+    "pubdate": "2026-03-03-08-19-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Prices Soar After Qatar LNG Halt Jolts Market",
+    "link": "https://www.wsj.com/business/energy-oil/european-gas-prices-soar-after-qatar-lng-halt-jolts-market-f37e8e16?mod=rss_markets_main"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-03-09-01-46 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Israel strikes Iran, Lebanon as war spreads through Middle East",
+    "link": "https://www.washingtonpost.com/world/2026/03/03/us-iran-israel-military-strikes-trump-live-updates/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-03-08-33-44 +0000",
     "source": "nyt",
-    "headline": "Iran Escalates Retaliatory Strikes as U.S. Signals Long Battle",
-    "link": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump"
+    "headline": "U.S. Embassy in Saudi Capital Hit by 2 Drones on Tuesday, Kingdom Says",
+    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/us-embassy-riyadh-saudi-iran-drone.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-03-08-15-16 +0000",
+    "source": "nyt",
+    "headline": "Global Economy Is Facing the Prospect of Another Profound Shock",
+    "link": "https://www.nytimes.com/2026/03/03/business/us-iran-israel-economic-fallout.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-03-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Carney lands in Australia looking to draw closer to a Commonwealth cousin also grappling with Trump",
+    "link": "https://www.cbc.ca/news/politics/carney-arrives-australia-9.7112160?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-03-08-33-25 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Futures Fall; Oil Prices Rise",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-03-2026?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-03-08-54-00 +0000",
+    "source": "wsj",
+    "headline": "Kuehne + Nagel Reports Sharp Drop in Earnings Amid Deteriorating Environment",
+    "link": "https://www.wsj.com/business/earnings/kuehne-nagel-reports-sharp-drop-in-earnings-amid-deteriorating-environment-3a82d604?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-03-08-46-31 +0000",
+    "source": "wapo",
+    "headline": "Americans scramble to leave Middle East on limited flights after U.S. urges them to ‘DEPART NOW’",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-03-08-46-00 +0000",
+    "source": "wsj",
+    "headline": "Strait of Hormuz Disruptions Expected to Last Weeks, Rabobank Says",
+    "link": "https://www.wsj.com/business/energy-oil/strait-of-hormuz-disruptions-expected-to-last-weeks-rabobank-says-1eb667c2?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-03-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Nervous nations calling Canada's energy minister after Iran strikes",
+    "link": "https://www.cbc.ca/news/politics/iran-oil-canada-energy-minister-critical-minerals-9.7112073?cmp=rss"
   }
 ]
