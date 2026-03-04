@@ -1,23 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-03-04-17-04-20 +0000",
+    "score": 55,
+    "pubdate": "2026-03-04-18-36-03 +0000",
     "source": "nyt",
-    "headline": "These American Service Members Have Died in the Iran Conflict",
-    "link": "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html"
+    "headline": "Liquid Natural Gas Exporters Like Shell and ExxonMobil Could See Big Profits From War",
+    "link": "https://www.nytimes.com/2026/03/04/business/energy-environment/natural-gas-prices-lng-shell-exxon-war-iran.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-03-04-17-03-15 +0000",
+    "score": 39,
+    "pubdate": "2026-03-04-18-35-51 +0000",
     "source": "nypost",
-    "headline": "Gayle King’s CBS News future revealed after months of speculation",
-    "link": "https://nypost.com/2026/03/04/media/gayle-kings-cbs-news-future-revealed-after-months-of-speculation/"
+    "headline": "Trump says he’ll endorse in Texas Senate race ‘soon’ — and whoever misses out should drop out",
+    "link": "https://nypost.com/2026/03/04/us-news/trump-says-hell-endorse-in-texas-senate-race-soon-and-whoever-misses-out-should-drop-out/"
   },
   {
-    "score": 5,
-    "pubdate": "2026-03-04-17-04-50 +0000",
+    "score": 33,
+    "pubdate": "2026-03-04-19-08-24 +0000",
+    "source": "bbc",
+    "headline": "Pentagon identifies four of six US soldiers killed in Iran conflict",
+    "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-03-04-18-23-09 +0000",
+    "source": "nypost",
+    "headline": "Kristi Noem’s husband joins her in Congress for second day, as questions swirl about relationship with Corey Lewandowski",
+    "link": "https://nypost.com/2026/03/04/us-news/kristi-noems-husband-joins-her-in-congress-as-questions-swirl-about-relationship-with-corey-lewandowski/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-04-18-16-45 +0000",
+    "source": "nypost",
+    "headline": "Jim Jordan grills Tim Walz on Minnesota fraud scandal: ‘Why didn’t you tell the truth?’",
+    "link": "https://nypost.com/2026/03/04/us-news/jim-jordan-grills-tim-walz-on-minnesota-fraud-scandal-why-didnt-you-tell-the-truth/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-04-18-19-00 +0000",
+    "source": "wsj",
+    "headline": "Regulators Need to Play Catch-Up on Private-Credit Risk, Canada Central Banker Says",
+    "link": "https://www.wsj.com/economy/central-banking/regulators-need-to-play-catch-up-on-private-credit-risk-f14af2ec"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-03-04-18-44-17 +0000",
+    "source": "nypost",
+    "headline": "California Dem chair’s demand backfires as low-polling gov candidates refuse to exit race",
+    "link": "https://nypost.com/2026/03/04/us-news/dem-governor-candidates-refuse-to-exit-race-despite-polls/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-03-04-18-29-00 +0000",
+    "source": "wsj",
+    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
+    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-04-19-04-31 +0000",
+    "source": "nypost",
+    "headline": "Ring CEO blasted for saying Nancy Guthrie case would be solved by now if there were ‘more cameras on the house’",
+    "link": "https://nypost.com/2026/03/04/us-news/ring-ceo-blasted-for-saying-nancy-guthrie-case-comments/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-03-04-19-06-05 +0000",
     "source": "nyt",
-    "headline": "U.S. Releases Names of Soldiers Killed in War With Iran",
-    "link": "https://www.nytimes.com/2026/03/03/us/politics/us-soldiers-killed-iran.html"
+    "headline": "NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey",
+    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html"
   }
 ]
