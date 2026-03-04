@@ -1,69 +1,62 @@
 [
   {
-    "score": 55,
-    "pubdate": "2026-03-04-18-36-03 +0000",
-    "source": "nyt",
-    "headline": "Liquid Natural Gas Exporters Like Shell and ExxonMobil Could See Big Profits From War",
-    "link": "https://www.nytimes.com/2026/03/04/business/energy-environment/natural-gas-prices-lng-shell-exxon-war-iran.html"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-03-04-18-35-51 +0000",
-    "source": "nypost",
-    "headline": "Trump says he’ll endorse in Texas Senate race ‘soon’ — and whoever misses out should drop out",
-    "link": "https://nypost.com/2026/03/04/us-news/trump-says-hell-endorse-in-texas-senate-race-soon-and-whoever-misses-out-should-drop-out/"
-  },
-  {
-    "score": 33,
+    "score": 25,
     "pubdate": "2026-03-04-19-08-24 +0000",
     "source": "bbc",
     "headline": "Pentagon identifies four of six US soldiers killed in Iran conflict",
     "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 28,
-    "pubdate": "2026-03-04-18-23-09 +0000",
+    "score": 18,
+    "pubdate": "2026-03-04-19-06-05 +0000",
+    "source": "nyt",
+    "headline": "NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey",
+    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-04-19-07-24 +0000",
     "source": "nypost",
-    "headline": "Kristi Noem’s husband joins her in Congress for second day, as questions swirl about relationship with Corey Lewandowski",
-    "link": "https://nypost.com/2026/03/04/us-news/kristi-noems-husband-joins-her-in-congress-as-questions-swirl-about-relationship-with-corey-lewandowski/"
+    "headline": "Family awarded $110M following death of 100-year-old grandmother left wandering outside her senior care facility",
+    "link": "https://nypost.com/2026/03/04/us-news/family-awarded-110-million-after-100-year-old-woman-mildred-hernandez-dies-in-the-cold/"
   },
   {
-    "score": 24,
-    "pubdate": "2026-03-04-18-16-45 +0000",
-    "source": "nypost",
-    "headline": "Jim Jordan grills Tim Walz on Minnesota fraud scandal: ‘Why didn’t you tell the truth?’",
-    "link": "https://nypost.com/2026/03/04/us-news/jim-jordan-grills-tim-walz-on-minnesota-fraud-scandal-why-didnt-you-tell-the-truth/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-03-04-18-19-00 +0000",
-    "source": "wsj",
-    "headline": "Regulators Need to Play Catch-Up on Private-Credit Risk, Canada Central Banker Says",
-    "link": "https://www.wsj.com/economy/central-banking/regulators-need-to-play-catch-up-on-private-credit-risk-f14af2ec"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-03-04-18-44-17 +0000",
-    "source": "nypost",
-    "headline": "California Dem chair’s demand backfires as low-polling gov candidates refuse to exit race",
-    "link": "https://nypost.com/2026/03/04/us-news/dem-governor-candidates-refuse-to-exit-race-despite-polls/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-03-04-18-29-00 +0000",
-    "source": "wsj",
-    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
-    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
-  },
-  {
-    "score": 21,
+    "score": 13,
     "pubdate": "2026-03-04-19-04-31 +0000",
     "source": "nypost",
     "headline": "Ring CEO blasted for saying Nancy Guthrie case would be solved by now if there were ‘more cameras on the house’",
     "link": "https://nypost.com/2026/03/04/us-news/ring-ceo-blasted-for-saying-nancy-guthrie-case-comments/"
   },
   {
-    "score": 19,
+    "score": 10,
+    "pubdate": "2026-03-04-19-02-48 +0000",
+    "source": "nypost",
+    "headline": "San Francisco teacher Tom Chan on leave for adding sick test questions",
+    "link": "https://nypost.com/2026/03/04/us-news/sf-math-teacher-accused-of-adding-inappropriate-test-questions/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-04-19-09-05 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: No Letup in Strikes on Iran, U.S. Says, as Mideast Crisis Widens",
+    "link": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-04-19-08-24 +0000",
+    "source": "bbc",
+    "headline": "Pentagon identifies four of six US soldiers killed in Iran conflict",
+    "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-04-19-08-24 +0000",
+    "source": "bbc",
+    "headline": "Pentagon identifies four of six US soldiers killed in Iran conflict",
+    "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
     "pubdate": "2026-03-04-19-06-05 +0000",
     "source": "nyt",
     "headline": "NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey",
