@@ -1,72 +1,37 @@
 [
   {
-    "score": 42,
-    "pubdate": "2026-03-04-09-16-06 +0000",
-    "source": "nyt",
-    "headline": "Iran Live Updates: Israel Begins ‘Broad Wave of Strikes’ on Iran’s Infrastructure",
-    "link": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-03-04-10-02-25 +0000",
-    "source": "nypost",
-    "headline": "Israeli stealth fighter shoots down Iranian jet in historic first, military launches ‘broad scale’ attacks against Islamic Republic",
-    "link": "https://nypost.com/2026/03/04/world-news/israeli-f-35-shoots-down-manned-iranian-plane-broad-scale-strikes-against-islamic-republic/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-04-10-03-19 +0000",
-    "source": "nyt",
-    "headline": "On Iran, Vance Balances Between Trump and the Anti-Intervention Right",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/vance-trump-iran.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-04-09-47-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Continues to Rise, Asian Stocks Tumble as Middle East Conflict Enters Fifth Day",
-    "link": "https://www.wsj.com/finance/oil-continues-to-rise-asian-stocks-tumble-as-middle-east-conflict-enters-fifth-day-62fdf619?mod=rss_markets_main"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-03-04-10-01-30 +0000",
-    "source": "nyt",
-    "headline": "Greg Abbott wins Texas GOP primary easily, moves closer to historic fourth term as governor",
-    "link": "https://www.nytimes.com/2026/03/04/us/elections/abbott-texas-politics.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-03-04-09-27-38 +0000",
-    "source": "nypost",
-    "headline": "Doorbell video shows Austin mass shooting suspect leaving apartment before deadly rampage",
-    "link": "https://nypost.com/2026/03/04/us-news/doorbell-video-shows-austin-mass-shooting-suspect-ndiaga-diagne-leaving-apartment-before-deadly-rampage/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-03-04-09-46-35 +0000",
-    "source": "nypost",
-    "headline": "Ayatollah Khamenei’s successor will be ‘unequivocal target for elimination,’ Israeli defense minister threatens",
-    "link": "https://nypost.com/2026/03/04/world-news/iran-khamenei-successor-being-targeted-for-elimination-by-israel/"
-  },
-  {
-    "score": 10,
+    "score": 21,
     "pubdate": "2026-03-04-10-03-22 +0000",
     "source": "nyt",
     "headline": "Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge",
     "link": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-03-04-10-00-41 +0000",
-    "source": "wapo",
-    "headline": "Senate bill to help Americans afford housing nears the finish line",
-    "link": "https://www.washingtonpost.com/business/2026/03/04/senate-bill-housing-affordability/"
+    "score": 12,
+    "pubdate": "2026-03-04-10-03-19 +0000",
+    "source": "nyt",
+    "headline": "On Iran, Vance Balances Between Trump and the Anti-Intervention Right",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/vance-trump-iran.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-03-04-10-00-00 +0000",
-    "source": "wapo",
-    "headline": "As Iran tensions shake markets, here’s what you should (and shouldn’t) do",
-    "link": "https://www.washingtonpost.com/business/2026/03/04/iran-stock-market-investors-retirement/"
+    "score": 6,
+    "pubdate": "2026-03-04-10-03-08 +0000",
+    "source": "nyt",
+    "headline": "After U.S. Attacks on Iran, FIFA Grapples With How to Handle the World Cup",
+    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-us-fifa-world-cup-soccer.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-04-10-03-22 +0000",
+    "source": "nyt",
+    "headline": "Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-04-10-03-19 +0000",
+    "source": "nyt",
+    "headline": "On Iran, Vance Balances Between Trump and the Anti-Intervention Right",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/vance-trump-iran.html"
   }
 ]
