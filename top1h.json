@@ -1,37 +1,72 @@
 [
   {
-    "score": 21,
-    "pubdate": "2026-03-04-10-03-22 +0000",
+    "score": 45,
+    "pubdate": "2026-03-04-12-34-49 +0000",
     "source": "nyt",
-    "headline": "Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
+    "headline": "Spain’s Leader, Rejecting Iran War, Escalates Long Feud With Trump",
+    "link": "https://www.nytimes.com/2026/03/04/world/europe/trump-spain-iran-sanchez.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-03-04-13-04-46 +0000",
+    "source": "nyt",
+    "headline": "NATO air defenses shoot down Iranian missile headed toward Turkey",
+    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-03-04-12-45-24 +0000",
+    "source": "bbc",
+    "headline": "South Africa's long-serving former defence minister and former Robben Island prisoner dies",
+    "link": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-04-13-07-49 +0000",
+    "source": "bbc",
+    "headline": "Partner of UK MP arrested on suspicion of spying for China, BBC told",
+    "link": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-04-12-30-50 +0000",
+    "source": "bbc",
+    "headline": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+    "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-04-12-21-16 +0000",
+    "source": "nyt",
+    "headline": "Energy Price Fears Ripple Through Global Markets",
+    "link": "https://www.nytimes.com/2026/03/04/business/iran-stocks-natural-gas-oil.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-04-12-30-52 +0000",
+    "source": "nypost",
+    "headline": "Iranian naval ship carrying 180 onboard sinks off Sri Lankan coast, leaving dozens missing, 32 rescued",
+    "link": "https://nypost.com/2026/03/04/world-news/iranian-naval-ship-carrying-180-onboard-sinks-off-sri-lankan-coast-32-rescued/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-04-13-14-30 +0000",
+    "source": "wapo",
+    "headline": "Defense Secretary Pete Hegseth said the United States has the military capabilities to sustain its offensive...",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-04-12-30-08 +0000",
+    "source": "nyt",
+    "headline": "Talarico Triumphs as G.O.P. Heads to Runoff: 6 Takeaways From Texas",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
   },
   {
     "score": 12,
-    "pubdate": "2026-03-04-10-03-19 +0000",
-    "source": "nyt",
-    "headline": "On Iran, Vance Balances Between Trump and the Anti-Intervention Right",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/vance-trump-iran.html"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-03-04-10-03-08 +0000",
-    "source": "nyt",
-    "headline": "After U.S. Attacks on Iran, FIFA Grapples With How to Handle the World Cup",
-    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-us-fifa-world-cup-soccer.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-04-10-03-22 +0000",
-    "source": "nyt",
-    "headline": "Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-04-10-03-19 +0000",
-    "source": "nyt",
-    "headline": "On Iran, Vance Balances Between Trump and the Anti-Intervention Right",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/vance-trump-iran.html"
+    "pubdate": "2026-03-04-12-35-17 +0000",
+    "source": "bbc",
+    "headline": "UK stock market calms but oil prices rise over fears Iran war may drag on",
+    "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss"
   }
 ]
