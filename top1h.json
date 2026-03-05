@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-03-05-07-02-00 +0000",
+    "score": 22,
+    "pubdate": "2026-03-05-08-17-58 +0000",
+    "source": "nyt",
+    "headline": "Carney Says Canada and Australia Can ‘Set the Agenda’ as World Faces ‘Crises’",
+    "link": "https://www.nytimes.com/2026/03/05/world/canada/carney-australia.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-05-08-52-04 +0000",
+    "source": "nypost",
+    "headline": "Iranian bombers came within ‘two minutes’ of striking largest US base in Middle East before Qatari Air Force shot aircraft down: report",
+    "link": "https://nypost.com/2026/03/05/world-news/iranian-bombers-came-within-two-minutes-of-striking-largest-us-base-in-middle-east-before-qatari-air-force-shot-aircraft-down-report/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-03-05-08-31-00 +0000",
     "source": "wsj",
-    "headline": "DHL Parent Deutsche Post Expects Earnings Growth Despite Uncertain Conditions",
-    "link": "https://www.wsj.com/business/earnings/dhl-parent-deutsche-post-expects-earnings-growth-despite-uncertain-conditions-79aa6be1?mod=pls_whats_news_us_business_f"
+    "headline": "European Gas Prices Extend Gains on LNG Supply Fears",
+    "link": "https://www.wsj.com/finance/commodities-futures/south-korea-taiwan-seem-particularly-exposed-to-rising-lng-prices-bf75d1ee?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-05-09-02-00 +0000",
+    "source": "wsj",
+    "headline": "Southeast Asia Governments on Alert for Economic Impact of Iran Crisis",
+    "link": "https://www.wsj.com/world/asia/southeast-asia-governments-on-alert-for-economic-impact-of-iran-crisis-00348fd3?mod=rss_markets_main"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-05-09-00-00 +0000",
+    "source": "cbc",
+    "headline": "Airlines weigh risks in Mideast skies filled with 'hot pieces of flying metal'",
+    "link": "https://www.cbc.ca/news/politics/iran-war-persian-gulf-flights-9.7115000?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-05-08-30-54 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Dow Futures Slip, Oil Pushes Higher",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-05-2026?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-05-08-44-42 +0000",
+    "source": "bbc",
+    "headline": "Cyprus criticises UK response to drone strikes ahead of Healey visit",
+    "link": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-05-08-19-00 +0000",
+    "source": "wsj",
+    "headline": "Primark Gets Permanent CEO as Owner ABF Looks to Steady Ship",
+    "link": "https://www.wsj.com/business/retail/primark-gets-permanent-ceo-as-owner-abf-looks-to-steady-ship-b2108daa?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-05-08-11-56 +0000",
+    "source": "nyt",
+    "headline": "Senate Republicans Block War Powers Limits as Mideast Crisis Widens",
+    "link": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-05-08-30-48 +0000",
+    "source": "nyt",
+    "headline": "What the Extraordinary Market Volatility in Asia Says About Energy and A.I.",
+    "link": "https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html"
   }
 ]
