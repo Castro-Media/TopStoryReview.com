@@ -1,6 +1,6 @@
 [
   {
-    "score": 390,
+    "score": 364,
     "pubdate": "2026-03-04-22-53-24 +0000",
     "source": "nypost",
     "headline": "Senate Republicans block Iran war powers resolution in early sign of support for Trump’s mission",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/politics/elections/john-cornyn-ken-paxton-runoff-texas-senate-primary-election-results-336af6f2"
   },
   {
-    "score": 131,
+    "score": 115,
     "pubdate": "2026-03-04-23-10-49 +0000",
     "source": "nypost",
     "headline": "Thousands of Americans are stranded in Middle East since start of Iran war — with no clear way out",
@@ -22,27 +22,27 @@
   },
   {
     "score": 103,
-    "pubdate": "2026-03-04-10-11-14 +0000",
-    "source": "wapo",
-    "headline": "4 U.S. soldiers killed in Iran conflict identified; 3 U.S. embassies close amid air strikes",
-    "link": "https://www.washingtonpost.com/world/2026/03/03/us-iran-israel-military-strikes-trump-live-updates/"
-  },
-  {
-    "score": 102,
     "pubdate": "2026-03-04-13-44-12 +0000",
     "source": "wapo",
     "headline": "Defense Secretary Pete Hegseth said that an Iranian leader who planned to assassinate President Donald Trump...",
     "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 88,
+    "score": 100,
+    "pubdate": "2026-03-04-10-11-14 +0000",
+    "source": "wapo",
+    "headline": "4 U.S. soldiers killed in Iran conflict identified; 3 U.S. embassies close amid air strikes",
+    "link": "https://www.washingtonpost.com/world/2026/03/03/us-iran-israel-military-strikes-trump-live-updates/"
+  },
+  {
+    "score": 85,
     "pubdate": "2026-03-04-18-19-00 +0000",
     "source": "wsj",
     "headline": "Global authorities must step up their surveillance of lending by nonbank players such as hedge funds and institutional investors to minimize risks to financial stability, Bank of Canada Gov. Tiff Macklem said",
     "link": "https://www.wsj.com/economy/central-banking/regulators-need-to-play-catch-up-on-private-credit-risk-f14af2ec"
   },
   {
-    "score": 80,
+    "score": 79,
     "pubdate": "2026-03-04-14-55-30 +0000",
     "source": "bbc",
     "headline": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks",
@@ -50,23 +50,23 @@
   },
   {
     "score": 78,
-    "pubdate": "2026-03-04-15-55-00 +0000",
-    "source": "wsj",
-    "headline": "GOP Rep. Dan Crenshaw became the first House incumbent to lose in a 2026 primary, marking a rebuke by voters of the Texas Republican who was once viewed as a rising star",
-    "link": "https://www.wsj.com/politics/elections/rep-dan-crenshaw-becomes-first-2026-republican-incumbent-to-lose-primary-2d3fb436"
-  },
-  {
-    "score": 73,
     "pubdate": "2026-03-04-03-44-09 +0000",
     "source": "nyt",
     "headline": "Beyond a Trade War, China, Japan and Others in Asia Face a New Energy Threat",
     "link": "https://www.nytimes.com/2026/03/02/business/us-iran-china-japan-energy.html"
   },
   {
-    "score": 63,
-    "pubdate": "2026-03-04-18-29-00 +0000",
+    "score": 76,
+    "pubdate": "2026-03-04-15-55-00 +0000",
     "source": "wsj",
-    "headline": "The Justice Department released what it says is its final trove of files related to the late Jeffrey Epstein. Here are some takeaways on what we know so far.",
-    "link": "https://www.wsj.com/us-news/law/what-we-know-so-far-about-the-latest-release-of-epstein-files-260dafba"
+    "headline": "GOP Rep. Dan Crenshaw became the first House incumbent to lose in a 2026 primary, marking a rebuke by voters of the Texas Republican who was once viewed as a rising star",
+    "link": "https://www.wsj.com/politics/elections/rep-dan-crenshaw-becomes-first-2026-republican-incumbent-to-lose-primary-2d3fb436"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-03-04-22-28-44 +0000",
+    "source": "latimes",
+    "headline": "Top tech companies sign Trump's pledge to provide their own power for AI data centers",
+    "link": "https://www.latimes.com/environment/story/2026-03-04/top-tech-companies-sign-trumps-pledge-to-provide-their-own-power-for-ai-data-centers"
   }
 ]

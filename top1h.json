@@ -1,72 +1,37 @@
 [
   {
-    "score": 36,
-    "pubdate": "2026-03-05-00-26-45 +0000",
-    "source": "nyt",
-    "headline": "U.S. Submarine Launches Its First Torpedo in Combat Since World War II",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/submarine-torpedo-iran-ship.html"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-03-05-00-28-16 +0000",
-    "source": "nyt",
-    "headline": "Pro-American Kurdish Forces Are Preparing Possible Iran Incursion",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/kurds-trump-iran-war.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-03-05-00-44-35 +0000",
-    "source": "nypost",
-    "headline": "GOP Rep. Tony Gonzales admits to having affair with ex-aide who burned herself to death: ‘I made a mistake’",
-    "link": "https://nypost.com/2026/03/04/us-news/rep-tony-gonzales-admits-to-having-affair-with-ex-aide-who-burned-herself-to-death/"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-03-05-00-55-06 +0000",
-    "source": "nypost",
-    "headline": "Kamala Harris is secretly milking California taxpayers to guard her book tour — but that could change",
-    "link": "https://nypost.com/2026/03/04/us-news/kamala-harris-is-secretly-milking-california-taxpayers-to-guard-her-book-tour-but-that-could-change/"
-  },
-  {
     "score": 21,
-    "pubdate": "2026-03-05-00-53-37 +0000",
-    "source": "nyt",
-    "headline": "U.S. Court Takes First Steps Toward Ordering Tariff Refunds",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/judge-order-trump-tariff-refunds.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-03-05-00-52-38 +0000",
-    "source": "nypost",
-    "headline": "$100K reward offered after truck full of Tucker Carlson’s nicotine pouches hijacked in SoCal",
-    "link": "https://nypost.com/2026/03/04/business/100k-offered-after-tucker-carlsons-nicotine-pouches-hijacked-in-socal/"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-03-05-01-04-54 +0000",
-    "source": "nyt",
-    "headline": "Trump Follows His Gut. His National Security Advisers Try to Keep Up.",
-    "link": "https://www.nytimes.com/2026/03/04/us/politics/trump-national-security.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-03-05-01-11-39 +0000",
-    "source": "nyt",
-    "headline": "China Sets Economy’s Growth Target Below 5% for First Time in Decades",
-    "link": "https://www.nytimes.com/2026/03/04/business/china-gdp-target-2025.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-03-05-00-41-21 +0000",
-    "source": "nyt",
-    "headline": "Israelis Celebrate Purim Amid Iranian Missile Attacks",
-    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/israelis-celebrate-purim-amid-iranian-missile-attacks.html"
+    "pubdate": "2026-03-05-02-40-09 +0000",
+    "source": "bbc",
+    "headline": "China sets lowest economic growth target since 1991",
+    "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 14,
-    "pubdate": "2026-03-05-01-04-14 +0000",
+    "pubdate": "2026-03-05-02-42-24 +0000",
+    "source": "nypost",
+    "headline": "NJ rail line takes bets on when ‘snow mountain’ in station parking lot will finally melt",
+    "link": "https://nypost.com/2026/03/04/us-news/nj-rail-line-takes-bets-on-when-snow-mountain-in-station-parking-lot-will-finally-melt/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-05-02-41-45 +0000",
     "source": "nyt",
-    "headline": "Experts doubt Tehran’s claims of advanced ‘hypersonic’ missiles.",
-    "link": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump/experts-doubt-tehrans-claims-of-advanced-hypersonic-missiles"
+    "headline": "Contract for El Paso ICE Center Is Under Review, Homeland Security Says",
+    "link": "https://www.nytimes.com/2026/03/04/us/ice-el-paso-detention-center-dhs.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-05-02-40-09 +0000",
+    "source": "bbc",
+    "headline": "China sets lowest economic growth target since 1991",
+    "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-05-02-40-09 +0000",
+    "source": "bbc",
+    "headline": "China sets lowest economic growth target since 1991",
+    "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
   }
 ]
