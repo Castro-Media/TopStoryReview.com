@@ -1,134 +1,200 @@
 [
   {
-    "headline": "South East Water faces £22m fine for supply failures",
-    "link": "https://www.bbc.com/news/articles/c3v77yzn5gxo?at_medium=RSS&at_campaign=rss",
+    "headline": "Iran’s Friends Include China and Russia. But Where are They Now?",
+    "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-turkey-india-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-04-24 +0000"
+  },
+  {
+    "headline": "Trump Wants a Quick Victory in Iran. But the War May Be Costly.",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-deaths.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-03-57 +0000"
+  },
+  {
+    "headline": "How War in the Persian Gulf Could Spill Into the U.S. Economy",
+    "link": "https://www.nytimes.com/2026/03/05/business/economy/iran-oil-economy-consumers.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-03-34 +0000"
+  },
+  {
+    "headline": "South African President on Trump’s Oval Office ‘Ambush’ and ‘Racist’ Policies",
+    "link": "https://www.nytimes.com/2026/03/05/world/africa/south-africa-ramaphosa-trump-meeting-racist.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-01-59 +0000"
+  },
+  {
+    "headline": "South African President on Trump’s Oval Office ‘Ambush’ and ‘Racist’ Policies",
+    "link": "https://www.nytimes.com/2026/03/05/world/africa/south-africa-ramaphosa-trump-meeting-racist.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-01-59 +0000"
+  },
+  {
+    "headline": "Roughly half of U.S. workers wouldn’t pay taxes under Democrat’s plan",
+    "link": "https://www.washingtonpost.com/business/2026/03/05/middle-class-tax-relief-senate-bill/",
+    "source": "wapo",
+    "pubdate": "2026-03-05-10-00-44 +0000"
+  },
+  {
+    "headline": "Attack on Iran shows Russia losing sway in the Middle East and globally",
+    "link": "https://www.washingtonpost.com/world/2026/03/05/attack-iran-highlights-russias-fall-middle-east-beyond/",
+    "source": "wapo",
+    "pubdate": "2026-03-05-10-00-40 +0000"
+  },
+  {
+    "headline": "Asylum seekers who break law to have support removed",
+    "link": "https://www.bbc.com/news/articles/c0j559146e6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-03-05-09-04-33 +0000"
+    "pubdate": "2026-03-05-10-00-23 +0000"
   },
   {
-    "headline": "Southeast Asia Governments on Alert for Economic Impact of Iran Crisis",
-    "link": "https://www.wsj.com/world/asia/southeast-asia-governments-on-alert-for-economic-impact-of-iran-crisis-00348fd3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-05-09-02-00 +0000"
+    "headline": "Why Does Child Care Seem Less Affordable Than Ever?",
+    "link": "https://www.nytimes.com/2026/03/05/upshot/child-care-expensive-prices.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-00-14 +0000"
   },
   {
-    "headline": "Southeast Asia Governments on Alert for Economic Impact of Iran Crisis",
-    "link": "https://www.wsj.com/world/asia/southeast-asia-governments-on-alert-for-economic-impact-of-iran-crisis-00348fd3",
-    "source": "wsj",
-    "pubdate": "2026-03-05-09-02-00 +0000"
+    "headline": "James Luckey-Lange Recounts Being Detained, Starved and Beaten in Venezuela",
+    "link": "https://www.nytimes.com/2026/03/05/world/americas/james-luckey-lange-venezuela-detention.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-00-09 +0000"
   },
   {
-    "headline": "How America’s war with Iran has shattered the U.A.E.’s sense of security",
-    "link": "https://www.cbc.ca/news/world/uae-safety-iran-strikes-9.7114827?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-05-09-00-00 +0000"
+    "headline": "James Luckey-Lange Recounts Being Detained, Starved and Beaten in Venezuela",
+    "link": "https://www.nytimes.com/2026/03/05/world/americas/james-luckey-lange-venezuela-detention.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-10-00-09 +0000"
   },
   {
-    "headline": "Airlines weigh risks in Mideast skies filled with 'hot pieces of flying metal'",
-    "link": "https://www.cbc.ca/news/politics/iran-war-persian-gulf-flights-9.7115000?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-05-09-00-00 +0000"
+    "headline": "Trump’s Iran conflict cuts the world off from a crucial energy source",
+    "link": "https://www.washingtonpost.com/business/2026/03/05/qatar-energy-lng-iran-trump/",
+    "source": "wapo",
+    "pubdate": "2026-03-05-10-00-00 +0000"
   },
   {
-    "headline": "Iranian bombers came within ‘two minutes’ of striking largest US base in Middle East before Qatari Air Force shot aircraft down: report",
-    "link": "https://nypost.com/2026/03/05/world-news/iranian-bombers-came-within-two-minutes-of-striking-largest-us-base-in-middle-east-before-qatari-air-force-shot-aircraft-down-report/",
+    "headline": "Deranged Colorado worker sentenced to 42 years for killing boss’ wife after being fired while on parole",
+    "link": "https://nypost.com/2026/03/05/us-news/colorado-worker-ernest-cunningham-sentenced-to-42-years-for-killing-boss-wife-kelsey-roberts-gariety-after-being-fired-while-on-parole/",
     "source": "nypost",
-    "pubdate": "2026-03-05-08-52-04 +0000"
-  },
-  {
-    "headline": "Cyprus criticises UK response to drone strikes ahead of Healey visit",
-    "link": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-05-08-44-42 +0000"
-  },
-  {
-    "headline": "European Gas Prices Extend Gains on LNG Supply Fears",
-    "link": "https://www.wsj.com/finance/commodities-futures/south-korea-taiwan-seem-particularly-exposed-to-rising-lng-prices-bf75d1ee?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-05-08-31-00 +0000"
-  },
-  {
-    "headline": "European Gas Prices Extend Gains on LNG Supply Fears",
-    "link": "https://www.wsj.com/finance/commodities-futures/south-korea-taiwan-seem-particularly-exposed-to-rising-lng-prices-bf75d1ee?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-05-08-31-00 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Dow Futures Slip, Oil Pushes Higher",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-05-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-05-08-30-54 +0000"
-  },
-  {
-    "headline": "What the Extraordinary Market Volatility in Asia Says About Energy and A.I.",
-    "link": "https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html",
-    "source": "nyt",
-    "pubdate": "2026-03-05-08-30-48 +0000"
-  },
-  {
-    "headline": "What the Extraordinary Market Volatility in Asia Says About Energy and A.I.",
-    "link": "https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html",
-    "source": "nyt",
-    "pubdate": "2026-03-05-08-30-48 +0000"
-  },
-  {
-    "headline": "Sterling’s Outperformance Versus Euro Unlikely to Last",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-could-be-supported-by-risk-on-sentiment-9eab9216?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-05-08-30-00 +0000"
-  },
-  {
-    "headline": "Primark Gets Permanent CEO as Owner ABF Looks to Steady Ship",
-    "link": "https://www.wsj.com/business/retail/primark-gets-permanent-ceo-as-owner-abf-looks-to-steady-ship-b2108daa?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-05-08-19-00 +0000"
-  },
-  {
-    "headline": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-    "link": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-05-08-18-19 +0000"
-  },
-  {
-    "headline": "Carney Says Canada and Australia Can ‘Set the Agenda’ as World Faces ‘Crises’",
-    "link": "https://www.nytimes.com/2026/03/05/world/canada/carney-australia.html",
-    "source": "nyt",
-    "pubdate": "2026-03-05-08-17-58 +0000"
-  },
-  {
-    "headline": "Carney Says Canada and Australia Can ‘Set the Agenda’ as World Faces ‘Crises’",
-    "link": "https://www.nytimes.com/2026/03/05/world/canada/carney-australia.html",
-    "source": "nyt",
-    "pubdate": "2026-03-05-08-17-58 +0000"
-  },
-  {
-    "headline": "Carney Says Canada and Australia Can ‘Set the Agenda’ as World Faces ‘Crises’",
-    "link": "https://www.nytimes.com/2026/03/05/world/canada/carney-australia.html",
-    "source": "nyt",
-    "pubdate": "2026-03-05-08-17-58 +0000"
+    "pubdate": "2026-03-05-09-59-28 +0000"
   },
   {
     "headline": "Senate Republicans Block War Powers Limits as Mideast Crisis Widens",
     "link": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump",
     "source": "nyt",
-    "pubdate": "2026-03-05-08-11-56 +0000"
+    "pubdate": "2026-03-05-09-55-53 +0000"
   },
   {
-    "headline": "French Industrial Production Returns to Growth",
-    "link": "https://www.wsj.com/world/europe/french-industrial-production-returns-to-growth-11fe7c35",
+    "headline": "Dramatic moment Israeli F-35 stealth fighter shoots down Iranian jet in historic strike",
+    "link": "https://nypost.com/2026/03/05/world-news/dramatic-moment-israeli-f-35-shoots-down-iranian-plane-in-historic-strike/",
+    "source": "nypost",
+    "pubdate": "2026-03-05-09-52-46 +0000"
+  },
+  {
+    "headline": "U.S. Economic Data Boosts Global Market Sentiment, Middle East Conflict Casts Shadow",
+    "link": "https://www.wsj.com/finance/stocks/u-s-economic-data-boosts-global-market-sentiment-middle-east-conflict-casts-shadow-fadb6759?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-03-05-08-11-00 +0000"
+    "pubdate": "2026-03-05-09-50-00 +0000"
   },
   {
-    "headline": "Gold Gains on Safe-Haven Buying, But Inflation Risks Loom",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-ongoing-u-s-iran-conflict-811f0d79?mod=rss_markets_main",
+    "headline": "They Survived the 24 Hours That Rocked South Korea’s Markets",
+    "link": "https://www.nytimes.com/2026/03/05/business/south-korea-markets.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-09-48-23 +0000"
+  },
+  {
+    "headline": "They Survived the 24 Hours That Rocked South Korea’s Markets",
+    "link": "https://www.nytimes.com/2026/03/05/business/south-korea-markets.html",
+    "source": "nyt",
+    "pubdate": "2026-03-05-09-48-23 +0000"
+  },
+  {
+    "headline": "Canada and Australia leaders urge war de-escalation, but agree Iran can’t get nuclear weapons",
+    "link": "https://nypost.com/2026/03/05/world-news/canada-and-australia-leaders-urge-war-de-escalation-but-agree-iran-cant-get-nuclear-weapons/",
+    "source": "nypost",
+    "pubdate": "2026-03-05-09-38-24 +0000"
+  },
+  {
+    "headline": "Pentagon identifies 5th U.S. soldier killed in drone attack",
+    "link": "https://www.washingtonpost.com/world/2026/03/04/us-iran-israel-strikes-trump-live-updates/",
+    "source": "wapo",
+    "pubdate": "2026-03-05-09-37-59 +0000"
+  },
+  {
+    "headline": "Satellite imagery shows extensive damage to Iran’s missile bases",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-03-05-09-37-59 +0000"
+  },
+  {
+    "headline": "Live updates: Israel continues assault on Tehran, Beirut; Iran denies launching missile at Turkey",
+    "link": "https://www.washingtonpost.com/world/2026/03/05/us-iran-israel-strikes-trump-live-updates/",
+    "source": "wapo",
+    "pubdate": "2026-03-05-09-37-59 +0000"
+  },
+  {
+    "headline": "Smoke billows above Tehran as Israel announces fresh strikes",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-03-05-09-33-55 +0000"
+  },
+  {
+    "headline": "Korea Warns That Prolonged Middle East Conflict Could Hurt Chip Industry",
+    "link": "https://www.wsj.com/world/asia/korea-warns-that-prolonged-middle-east-conflict-could-hurt-chip-industry-8d3befe2",
     "source": "wsj",
-    "pubdate": "2026-03-05-08-10-00 +0000"
+    "pubdate": "2026-03-05-09-33-00 +0000"
   },
   {
-    "headline": "Gas price cut for some Firmus Energy customers",
-    "link": "https://www.bbc.com/news/articles/c0ljjy52rplo?at_medium=RSS&at_campaign=rss",
+    "headline": "Senate rejects resolution to force Trump to end Iran strikes",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-03-05-09-26-51 +0000"
+  },
+  {
+    "headline": "Army names fifth soldier killed in Kuwait attack, working to identify sixth",
+    "link": "https://www.washingtonpost.com",
+    "source": "wapo",
+    "pubdate": "2026-03-05-09-26-02 +0000"
+  },
+  {
+    "headline": "Swiss Franc Rises on Renewed Risk Aversion",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-could-be-supported-by-risk-on-sentiment-9eab9216?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-05-09-22-00 +0000"
+  },
+  {
+    "headline": "Veteran Bihar chief minister to step down for move to parliament",
+    "link": "https://www.bbc.com/news/articles/cr455pr24wpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-03-05-08-06-57 +0000"
+    "pubdate": "2026-03-05-09-20-02 +0000"
+  },
+  {
+    "headline": "European Economy Being Shaped by Iran Conflict, ECB’s De Guindos Says",
+    "link": "https://www.wsj.com/articles/european-economy-being-shaped-by-iran-conflict-ecbs-de-guindos-says-993dde69",
+    "source": "wsj",
+    "pubdate": "2026-03-05-09-20-00 +0000"
+  },
+  {
+    "headline": "European Economy Being Shaped by Iran Conflict, ECB’s De Guindos Says",
+    "link": "https://www.wsj.com/articles/european-economy-being-shaped-by-iran-conflict-ecbs-de-guindos-says-993dde69",
+    "source": "wsj",
+    "pubdate": "2026-03-05-09-20-00 +0000"
+  },
+  {
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump/here-is-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-05-09-19-55 +0000"
+  },
+  {
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump/here-is-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-05-09-19-55 +0000"
+  },
+  {
+    "headline": "Ex-NJ mayor Gina LaPlaca admits to driving drunk with her toddler in car on St. Patrick’s Day, celebrates ‘second chance’",
+    "link": "https://nypost.com/2026/03/05/us-news/nj-mayor-gina-laplaca-pleads-guilty-to-dui-child-endangerment-after-st-patricks-day-drunk-driving-arrest/",
+    "source": "nypost",
+    "pubdate": "2026-03-05-09-17-35 +0000"
   }
 ]

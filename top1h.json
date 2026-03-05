@@ -1,72 +1,72 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-03-05-08-17-58 +0000",
+    "score": 34,
+    "pubdate": "2026-03-05-09-20-00 +0000",
+    "source": "wsj",
+    "headline": "European Economy Being Shaped by Iran Conflict, ECB’s De Guindos Says",
+    "link": "https://www.wsj.com/articles/european-economy-being-shaped-by-iran-conflict-ecbs-de-guindos-says-993dde69"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-03-05-10-01-59 +0000",
     "source": "nyt",
-    "headline": "Carney Says Canada and Australia Can ‘Set the Agenda’ as World Faces ‘Crises’",
-    "link": "https://www.nytimes.com/2026/03/05/world/canada/carney-australia.html"
+    "headline": "South African President on Trump’s Oval Office ‘Ambush’ and ‘Racist’ Policies",
+    "link": "https://www.nytimes.com/2026/03/05/world/africa/south-africa-ramaphosa-trump-meeting-racist.html"
   },
   {
-    "score": 20,
-    "pubdate": "2026-03-05-08-52-04 +0000",
+    "score": 16,
+    "pubdate": "2026-03-05-10-00-40 +0000",
+    "source": "wapo",
+    "headline": "Attack on Iran shows Russia losing sway in the Middle East and globally",
+    "link": "https://www.washingtonpost.com/world/2026/03/05/attack-iran-highlights-russias-fall-middle-east-beyond/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-05-10-00-09 +0000",
+    "source": "nyt",
+    "headline": "James Luckey-Lange Recounts Being Detained, Starved and Beaten in Venezuela",
+    "link": "https://www.nytimes.com/2026/03/05/world/americas/james-luckey-lange-venezuela-detention.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-05-09-17-35 +0000",
     "source": "nypost",
-    "headline": "Iranian bombers came within ‘two minutes’ of striking largest US base in Middle East before Qatari Air Force shot aircraft down: report",
-    "link": "https://nypost.com/2026/03/05/world-news/iranian-bombers-came-within-two-minutes-of-striking-largest-us-base-in-middle-east-before-qatari-air-force-shot-aircraft-down-report/"
+    "headline": "Ex-NJ mayor Gina LaPlaca admits to driving drunk with her toddler in car on St. Patrick’s Day, celebrates ‘second chance’",
+    "link": "https://nypost.com/2026/03/05/us-news/nj-mayor-gina-laplaca-pleads-guilty-to-dui-child-endangerment-after-st-patricks-day-drunk-driving-arrest/"
   },
   {
-    "score": 19,
-    "pubdate": "2026-03-05-08-31-00 +0000",
-    "source": "wsj",
-    "headline": "European Gas Prices Extend Gains on LNG Supply Fears",
-    "link": "https://www.wsj.com/finance/commodities-futures/south-korea-taiwan-seem-particularly-exposed-to-rising-lng-prices-bf75d1ee?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-05-09-02-00 +0000",
-    "source": "wsj",
-    "headline": "Southeast Asia Governments on Alert for Economic Impact of Iran Crisis",
-    "link": "https://www.wsj.com/world/asia/southeast-asia-governments-on-alert-for-economic-impact-of-iran-crisis-00348fd3?mod=rss_markets_main"
+    "score": 14,
+    "pubdate": "2026-03-05-09-37-59 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Israel continues assault on Tehran, Beirut; Iran denies launching missile at Turkey",
+    "link": "https://www.washingtonpost.com/world/2026/03/05/us-iran-israel-strikes-trump-live-updates/"
   },
   {
     "score": 12,
-    "pubdate": "2026-03-05-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "Airlines weigh risks in Mideast skies filled with 'hot pieces of flying metal'",
-    "link": "https://www.cbc.ca/news/politics/iran-war-persian-gulf-flights-9.7115000?cmp=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-03-05-08-30-54 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Dow Futures Slip, Oil Pushes Higher",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-05-2026?mod=rss_markets_main"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-03-05-08-44-42 +0000",
-    "source": "bbc",
-    "headline": "Cyprus criticises UK response to drone strikes ahead of Healey visit",
-    "link": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-03-05-08-19-00 +0000",
-    "source": "wsj",
-    "headline": "Primark Gets Permanent CEO as Owner ABF Looks to Steady Ship",
-    "link": "https://www.wsj.com/business/retail/primark-gets-permanent-ceo-as-owner-abf-looks-to-steady-ship-b2108daa?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-05-08-11-56 +0000",
+    "pubdate": "2026-03-05-09-55-53 +0000",
     "source": "nyt",
     "headline": "Senate Republicans Block War Powers Limits as Mideast Crisis Widens",
     "link": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump"
   },
   {
-    "score": 7,
-    "pubdate": "2026-03-05-08-30-48 +0000",
+    "score": 11,
+    "pubdate": "2026-03-05-09-48-23 +0000",
     "source": "nyt",
-    "headline": "What the Extraordinary Market Volatility in Asia Says About Energy and A.I.",
-    "link": "https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html"
+    "headline": "They Survived the 24 Hours That Rocked South Korea’s Markets",
+    "link": "https://www.nytimes.com/2026/03/05/business/south-korea-markets.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-05-09-26-02 +0000",
+    "source": "wapo",
+    "headline": "Army names fifth soldier killed in Kuwait attack, working to identify sixth",
+    "link": "https://www.washingtonpost.com"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-05-09-52-46 +0000",
+    "source": "nypost",
+    "headline": "Dramatic moment Israeli F-35 stealth fighter shoots down Iranian jet in historic strike",
+    "link": "https://nypost.com/2026/03/05/world-news/dramatic-moment-israeli-f-35-shoots-down-iranian-plane-in-historic-strike/"
   }
 ]
