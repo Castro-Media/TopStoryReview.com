@@ -1,23 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-03-05-20-04-25 +0000",
+    "score": 54,
+    "pubdate": "2026-03-05-23-12-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump removed Kristi Noem as the secretary of the Department of Homeland Security, replacing her er with Republican Sen. Markwayne Mullin of Oklahoma Sen. Markwayne Mullin",
+    "link": "https://www.wsj.com/politics/policy/trump-dhs-kristi-noem-markwayne-mullin-85815862"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-03-05-23-09-42 +0000",
     "source": "nypost",
-    "headline": "Ex-NY cop, D.A.R.E. officer admits to selling drugs out of his squad car while on duty",
-    "link": "https://nypost.com/2026/03/05/us-news/ex-ny-cop-d-a-r-e-officer-pleads-guilty-to-selling-drugs-out-of-his-squad-car-while-on-duty/"
+    "headline": "House expands Medicaid fraud probe to 10 states to ‘combat rampant waste’ — New York and California on notice",
+    "link": "https://nypost.com/2026/03/05/us-news/house-expands-medicaid-fraud-probe-to-10-states-to-combat-rampant-waste-new-york-and-california-on-notice/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-03-05-23-06-30 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Trump wants role in picking Iran’s leader; Israel warns Lebanese to flee for their lives",
+    "link": "https://www.washingtonpost.com/world/2026/03/05/us-iran-israel-strikes-trump-live-updates/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-05-23-12-53 +0000",
+    "source": "nyt",
+    "headline": "Trump Pick Of Mullin For D.H.S. Sets Off Political Scramble in Oklahoma",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-noem-mullin-oklahoma-senate-seat-republicans.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-05-23-13-21 +0000",
+    "source": "nyt",
+    "headline": "Iranian Kurdish Forces Say They May Enter Iran. Who Are the Kurds?",
+    "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-kurds-who.html"
   },
   {
     "score": 9,
-    "pubdate": "2026-03-05-20-03-51 +0000",
-    "source": "nyt",
-    "headline": "Republicans Toil to Avoid Saying ‘War’ as Iran Conflict Widens",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html"
+    "pubdate": "2026-03-05-23-17-38 +0000",
+    "source": "nypost",
+    "headline": "Six Flags sells off 7 theme parks in $331 million move to cut debt",
+    "link": "https://nypost.com/2026/03/05/business/six-flags-sells-7-theme-parks-across-us-canada-in-331m-move-to-cut-debt/"
   },
   {
-    "score": 6,
-    "pubdate": "2026-03-05-20-04-15 +0000",
+    "score": 8,
+    "pubdate": "2026-03-05-23-12-16 +0000",
+    "source": "bbc",
+    "headline": "Finland plans to lift decades-old ban on hosting nuclear weapons",
+    "link": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-05-23-04-16 +0000",
     "source": "nyt",
-    "headline": "Trump Says He Should Have Role in Picking Iran’s Leader",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-leader.html"
+    "headline": "Iran delays naming a new leader out of security concerns, officials say.",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump/iran-delays-naming-a-new-leader-out-of-security-concerns-officials-say"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-05-23-07-00 +0000",
+    "source": "wsj",
+    "headline": "Costco Evaluating Possibility of Tariff Refunds as Second-Quarter Revenue Rises",
+    "link": "https://www.wsj.com/business/earnings/costco-posts-higher-second-quarter-profit-on-rising-sales-membership-fees-aaf1b64a?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-05-23-19-19 +0000",
+    "source": "48hills",
+    "headline": "The North Beach Carol Doda mural will rise again",
+    "link": "https://48hills.org/2026/03/the-north-beach-carol-doda-mural-will-rise-again/"
   }
 ]
