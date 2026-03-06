@@ -1,20 +1,20 @@
 [
   {
-    "score": 342,
+    "score": 329,
     "pubdate": "2026-03-06-05-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pick to replace DHS Secretary Kristi Noem is a former MMA fighter who has spent years as a “Trump whisperer”—talking to the president, by his own account, “all the time”",
     "link": "https://www.wsj.com/politics/policy/who-is-markwayne-mullin-trump-dhs-36b8e897"
   },
   {
-    "score": 247,
+    "score": 239,
     "pubdate": "2026-03-06-10-30-00 +0000",
     "source": "wsj",
     "headline": "The Iran War Is Hitting Gulf Markets, Lifting Israel and Shifting Risk Across the Region",
-    "link": "https://www.wsj.com/world/middle-east/the-iran-war-is-hitting-gulf-markets-lifting-israel-and-shifting-risk-across-the-region-890d272e?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/world/middle-east/the-iran-war-is-hitting-gulf-markets-lifting-israel-and-shifting-risk-across-the-region-890d272e"
   },
   {
-    "score": 109,
+    "score": 108,
     "pubdate": "2026-03-06-05-05-00 +0000",
     "source": "wsj",
     "headline": "Rep. Tony Gonzales (R., Texas) said he wouldn’t seek re-election. The announcement came as House GOP leaders asked the lawmaker to quit his campaign after he admitted to an affair.",
@@ -42,18 +42,11 @@
     "link": "https://www.wsj.com/livecoverage/jobs-report-unemployment-stock-market-03-06-2026?mod=rss_markets_main"
   },
   {
-    "score": 78,
+    "score": 74,
     "pubdate": "2026-03-06-16-43-53 +0000",
     "source": "nyt",
     "headline": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
     "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-03-06-17-01-31 +0000",
-    "source": "nypost",
-    "headline": "Anthropic CEO apologizes for lashing out at Trump as he gears up for court battle with Pentagon",
-    "link": "https://nypost.com/2026/03/06/business/anthropic-ceo-apologizes-for-lashing-out-at-trump-as-he-gears-up-for-court-battle-with-pentagon/"
   },
   {
     "score": 70,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2026/03/05/books/antonio-lobo-antunes-dead.html"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-03-06-10-44-00 +0000",
     "source": "wsj",
     "headline": "Length of Middle East Conflict to Determine Impact on Asia, Says ADB’s Chief Economist",
     "link": "https://www.wsj.com/economy/global/length-of-middle-east-conflict-to-determine-impact-on-asia-says-adbs-chief-economist-9ffb65ee"
+  },
+  {
+    "score": 67,
+    "pubdate": "2026-03-06-17-01-31 +0000",
+    "source": "nypost",
+    "headline": "Anthropic CEO apologizes for lashing out at Trump as he gears up for court battle with Pentagon",
+    "link": "https://nypost.com/2026/03/06/business/anthropic-ceo-apologizes-for-lashing-out-at-trump-as-he-gears-up-for-court-battle-with-pentagon/"
   }
 ]
