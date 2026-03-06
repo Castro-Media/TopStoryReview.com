@@ -1,52 +1,38 @@
 [
   {
-    "score": 316,
+    "score": 304,
     "pubdate": "2026-03-06-00-59-42 +0000",
     "source": "nyt",
     "headline": "House Turns Back Bid to Restrict Trump’s War Powers in Iran",
     "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html"
   },
   {
-    "score": 172,
+    "score": 182,
     "pubdate": "2026-03-06-00-01-00 +0000",
     "source": "wsj",
     "headline": "President Trump removed Kristi Noem as the secretary of the Department of Homeland Security, replacing her er with Republican Sen. Markwayne Mullin of Oklahoma Sen. Markwayne Mullin",
     "link": "https://www.wsj.com/politics/policy/trump-dhs-kristi-noem-markwayne-mullin-85815862"
   },
   {
-    "score": 91,
-    "pubdate": "2026-03-06-01-17-13 +0000",
+    "score": 95,
+    "pubdate": "2026-03-06-02-38-51 +0000",
     "source": "nyt",
-    "headline": "Iran Live Updates: Israel Bombards Beirut, as Middle East Strikes Widen",
+    "headline": "Iran Live Updates: Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
     "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump"
   },
   {
-    "score": 80,
-    "pubdate": "2026-03-05-23-09-42 +0000",
-    "source": "nypost",
-    "headline": "House’s Medicaid fraud probe expands to 10 states – including New York, California: ‘Combat rampant waste’",
-    "link": "https://nypost.com/2026/03/05/us-news/house-expands-medicaid-fraud-probe-to-10-states-to-combat-rampant-waste-new-york-and-california-on-notice/"
+    "score": 83,
+    "pubdate": "2026-03-05-23-25-54 +0000",
+    "source": "nyt",
+    "headline": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
+    "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   },
   {
-    "score": 77,
-    "pubdate": "2026-03-05-11-59-14 +0000",
+    "score": 81,
+    "pubdate": "2026-03-05-20-18-21 +0000",
     "source": "nypost",
-    "headline": "Declan Coady, youngest of six US soldiers killed in Iranian drone strike in Kuwait, called his brother hours before death",
-    "link": "https://nypost.com/2026/03/05/world-news/declan-coady-youngest-of-six-us-soldiers-killed-in-iranian-drone-strike-in-kuwait-called-his-brother-hours-before-death/"
-  },
-  {
-    "score": 71,
-    "pubdate": "2026-03-05-04-21-00 +0000",
-    "source": "wsj",
-    "headline": "China signaled the world’s second-largest economy is entering an era of slower expansion, setting a target for gross domestic product growth of between 4.5% and 5% this year",
-    "link": "https://www.wsj.com/world/china/china-signals-new-era-of-slower-economic-growth-73454b91"
-  },
-  {
-    "score": 64,
-    "pubdate": "2026-03-05-18-34-09 +0000",
-    "source": "nypost",
-    "headline": "House GOP leaders ask Rep. Tony Gonzales to drop re-election bid after he admitted to affair with staffer who set herself on fire",
-    "link": "https://nypost.com/2026/03/05/us-news/house-gop-leaders-ask-rep-tony-gonzales-to-drop-re-election-bid-over-affair-scandal/"
+    "headline": "White House vows to ‘vigorously defend’ tariffs as California, New York lead court revolt",
+    "link": "https://nypost.com/2026/03/05/us-news/trumps-new-tariffs-spark-lawsuit-from-half-of-u-s-states/"
   },
   {
     "score": 62,
@@ -56,17 +42,31 @@
     "link": "https://nypost.com/2026/03/05/business/pentagon-labels-anthropic-supply-chain-risk-days-after-ceo-lashed-out-at-trump-openai/"
   },
   {
-    "score": 55,
+    "score": 61,
+    "pubdate": "2026-03-05-19-56-00 +0000",
+    "source": "wsj",
+    "headline": "For the First Time, U.S. Sides With Russia and China in Ukraine Energy Dispute",
+    "link": "https://www.wsj.com/world/for-the-first-time-u-s-sides-with-russia-and-china-in-ukraine-energy-dispute-b7f56676"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-03-05-11-59-14 +0000",
+    "source": "nypost",
+    "headline": "Declan Coady, youngest of six US soldiers killed in Iranian drone strike in Kuwait, called his brother hours before death",
+    "link": "https://nypost.com/2026/03/05/world-news/declan-coady-youngest-of-six-us-soldiers-killed-in-iranian-drone-strike-in-kuwait-called-his-brother-hours-before-death/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-03-05-18-34-09 +0000",
+    "source": "nypost",
+    "headline": "House GOP leaders ask Rep. Tony Gonzales to drop re-election bid after he admitted to affair with staffer who set herself on fire",
+    "link": "https://nypost.com/2026/03/05/us-news/house-gop-leaders-ask-rep-tony-gonzales-to-drop-re-election-bid-over-affair-scandal/"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-03-06-00-52-40 +0000",
     "source": "nyt",
     "headline": "Iranian Drones Fall in Azerbaijan as Conflict Spreads Beyond Mideast",
     "link": "https://www.nytimes.com/2026/03/05/world/middleeast/azerbaijan-iran-drone-attack-airport.html"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-03-05-18-25-03 +0000",
-    "source": "bbc",
-    "headline": "UK firms pull fixed energy deals as Iran war pushes up prices",
-    "link": "https://www.bbc.com/news/articles/c3ewwej0p13o?at_medium=RSS&at_campaign=rss"
   }
 ]
