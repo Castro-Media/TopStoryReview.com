@@ -1,13 +1,13 @@
 [
   {
-    "score": 643,
-    "pubdate": "2026-03-02-01-17-20 +0000",
-    "source": "latimes",
-    "headline": "Thousands rally in Westwood as U.S.-Iran war escalates, calling for a 'free Iran'",
-    "link": "https://www.latimes.com/california/story/2026-03-01/thousands-rally-in-westwood-as-u-s-iran-war-escalates-calling-for-free-iran"
+    "score": 632,
+    "pubdate": "2026-03-04-17-44-15 +0000",
+    "source": "wapo",
+    "headline": "Trump concedes Iran war may push up oil prices for Americans",
+    "link": "https://www.washingtonpost.com"
   },
   {
-    "score": 373,
+    "score": 233,
     "pubdate": "2026-03-06-00-01-00 +0000",
     "source": "wsj",
     "headline": "President Trump removed Kristi Noem as the secretary of the Department of Homeland Security, replacing her er with Republican Sen. Markwayne Mullin of Oklahoma Sen. Markwayne Mullin",
@@ -21,25 +21,18 @@
     "link": "https://nypost.com/2026/03/05/us-news/trumps-new-tariffs-spark-lawsuit-from-half-of-u-s-states/"
   },
   {
-    "score": 179,
-    "pubdate": "2026-03-06-01-17-13 +0000",
+    "score": 181,
+    "pubdate": "2026-03-06-02-38-51 +0000",
     "source": "nyt",
-    "headline": "Iran Live Updates: Israel Bombards Beirut, as Middle East Strikes Widen",
+    "headline": "Iran Live Updates: Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
     "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump"
   },
   {
-    "score": 149,
-    "pubdate": "2026-03-05-11-59-14 +0000",
-    "source": "nypost",
-    "headline": "Declan Coady, youngest of six US soldiers killed in Iranian drone strike in Kuwait, called his brother hours before death",
-    "link": "https://nypost.com/2026/03/05/world-news/declan-coady-youngest-of-six-us-soldiers-killed-in-iranian-drone-strike-in-kuwait-called-his-brother-hours-before-death/"
-  },
-  {
-    "score": 144,
-    "pubdate": "2026-03-04-18-19-00 +0000",
-    "source": "wsj",
-    "headline": "Global authorities must step up their surveillance of lending by nonbank players such as hedge funds and institutional investors to minimize risks to financial stability, Bank of Canada Gov. Tiff Macklem said",
-    "link": "https://www.wsj.com/economy/central-banking/regulators-need-to-play-catch-up-on-private-credit-risk-f14af2ec"
+    "score": 174,
+    "pubdate": "2026-03-05-23-25-54 +0000",
+    "source": "nyt",
+    "headline": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
+    "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
   },
   {
     "score": 142,
@@ -49,24 +42,31 @@
     "link": "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
   },
   {
-    "score": 123,
+    "score": 119,
     "pubdate": "2026-03-04-15-10-00 +0000",
     "source": "wsj",
     "headline": "Incumbent Sen. John Cornyn and Texas Attorney General Ken Paxton are headed to a runoff to determine which Republican will face off in November against Democratic State Rep. James Talarico.",
     "link": "https://www.wsj.com/politics/elections/john-cornyn-ken-paxton-runoff-texas-senate-primary-election-results-336af6f2"
   },
   {
-    "score": 121,
-    "pubdate": "2026-03-05-04-21-00 +0000",
-    "source": "wsj",
-    "headline": "China signaled the world’s second-largest economy is entering an era of slower expansion, setting a target for gross domestic product growth of between 4.5% and 5% this year",
-    "link": "https://www.wsj.com/world/china/china-signals-new-era-of-slower-economic-growth-73454b91"
+    "score": 112,
+    "pubdate": "2026-03-05-11-59-14 +0000",
+    "source": "nypost",
+    "headline": "Declan Coady, youngest of six US soldiers killed in Iranian drone strike in Kuwait, called his brother hours before death",
+    "link": "https://nypost.com/2026/03/05/world-news/declan-coady-youngest-of-six-us-soldiers-killed-in-iranian-drone-strike-in-kuwait-called-his-brother-hours-before-death/"
   },
   {
-    "score": 114,
-    "pubdate": "2026-03-03-21-44-31 +0000",
-    "source": "bbc",
-    "headline": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-    "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss"
+    "score": 112,
+    "pubdate": "2026-03-04-22-28-44 +0000",
+    "source": "latimes",
+    "headline": "Top tech companies sign Trump's pledge to provide their own power for AI data centers",
+    "link": "https://www.latimes.com/environment/story/2026-03-04/top-tech-companies-sign-trumps-pledge-to-provide-their-own-power-for-ai-data-centers"
+  },
+  {
+    "score": 103,
+    "pubdate": "2026-03-03-21-42-00 +0000",
+    "source": "wsj",
+    "headline": "Minneapolis Fed President Neel Kashkari said that one or two interest-rate cuts later this year could be appropriate, but that war in the Mideast could create conditions justifying an extended pause",
+    "link": "https://www.wsj.com/economy/central-banking/kashkari-says-fed-can-sit-tight-as-war-clouds-the-outlook-fa3c53b9"
   }
 ]
