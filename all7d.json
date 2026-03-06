@@ -1,5 +1,95 @@
 [
   {
+    "headline": "UK must obey international law over Iran, says Thornberry",
+    "link": "https://www.bbc.com/news/videos/c4gjxenp09xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-06-07-09-57 +0000"
+  },
+  {
+    "headline": "From Michelin to moaning: Napa chef blasts affordable housing effort",
+    "link": "https://nypost.com/2026/03/06/lifestyle/napa-michelin-star-chef-blasts-affordable-housing-effort/",
+    "source": "nypost",
+    "pubdate": "2026-03-06-07-08-13 +0000"
+  },
+  {
+    "headline": "Deutsche Lufthansa Posts In-Line Earnings On Lower Costs, Increased Passengers",
+    "link": "https://www.wsj.com/business/earnings/deutsche-lufthansa-posts-in-line-earnings-on-lower-costs-increased-passengers-399b0a8a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-06-06-38-00 +0000"
+  },
+  {
+    "headline": "Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
+    "source": "nyt",
+    "pubdate": "2026-03-06-06-34-19 +0000"
+  },
+  {
+    "headline": "3 Australians Were on U.S. Submarine that Sank an Iranian Warship",
+    "link": "https://www.nytimes.com/2026/03/06/world/middleeast/iran-warship-us-submarine-australia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-06-06-33-45 +0000"
+  },
+  {
+    "headline": "3 Australians Were on U.S. Submarine that Sank an Iranian Warship",
+    "link": "https://www.nytimes.com/2026/03/06/world/middleeast/iran-warship-us-submarine-australia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-06-06-33-45 +0000"
+  },
+  {
+    "headline": "Charity warns of impact as heating oil prices rise",
+    "link": "https://www.bbc.com/news/articles/cvgkk2de8e5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-06-06-19-18 +0000"
+  },
+  {
+    "headline": "BYU mistakenly sends acceptance letters to rejected applicants — then school makes up for blunder",
+    "link": "https://nypost.com/2026/03/06/us-news/byu-mistakenly-sends-acceptance-letters-to-rejected-applicants-then-school-makes-up-for-blunder/",
+    "source": "nypost",
+    "pubdate": "2026-03-06-06-18-54 +0000"
+  },
+  {
+    "headline": "Chevron exec warns Caliornia climate crackdown could ‘collapse’ state’s oil industry",
+    "link": "https://nypost.com/2026/03/06/us-news/caliornia-climate-crackdown-could-collapse-oil-industry/",
+    "source": "nypost",
+    "pubdate": "2026-03-06-06-15-42 +0000"
+  },
+  {
+    "headline": "‘Explosions in the sky’ —passengers recount scenes of war as first flight from Dubai to West Coast lands at SFO",
+    "link": "https://nypost.com/2026/03/06/world-news/san-francisco-welcomes-first-non-stop-emirates-flight-from-the-middle-east-since-start-of-iran-war/",
+    "source": "nypost",
+    "pubdate": "2026-03-06-06-13-31 +0000"
+  },
+  {
+    "headline": "‘Explosions in the sky’ —passengers recount scenes of war as first flight from Dubai to West Coast lands at SFO",
+    "link": "https://nypost.com/2026/03/06/world-news/san-francisco-welcomes-first-non-stop-emirates-flight-from-the-middle-east-since-start-of-iran-war/",
+    "source": "nypost",
+    "pubdate": "2026-03-06-06-13-31 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-06-06-10-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-06-06-10-54 +0000"
+  },
+  {
+    "headline": "Michael McCarron looks to endear himself to Wild and their fans",
+    "link": "https://www.startribune.com/michael-mccarron-looks-to-endear-himself-to-wild-and-their-fans/601588420",
+    "source": "startribune",
+    "pubdate": "2026-03-06-06-02-21 +0000"
+  },
+  {
+    "headline": "Takeaways: Timberwolves use strong third quarter to top Raptors 115-107 for fifth victory in a row",
+    "link": "https://www.startribune.com/takeaways-timberwolves-use-strong-third-quarter-to-top-raptors-115-107-for-fifth-victory-in-a-row/601570331",
+    "source": "startribune",
+    "pubdate": "2026-03-06-06-02-10 +0000"
+  },
+  {
     "headline": "A Different Kind of War in Mexico",
     "link": "https://www.nytimes.com/2026/03/05/world/mexico-cartel-crackdown-iran-lebanon.html",
     "source": "nyt",
@@ -24,52 +114,34 @@
     "pubdate": "2026-03-06-05-58-22 +0000"
   },
   {
-    "headline": "Iran Live Updates: Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
-    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
+    "headline": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
     "source": "nyt",
-    "pubdate": "2026-03-06-05-46-40 +0000"
+    "pubdate": "2026-03-06-05-46-39 +0000"
   },
   {
     "headline": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
     "link": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
     "source": "nyt",
-    "pubdate": "2026-03-06-05-46-38 +0000"
+    "pubdate": "2026-03-06-05-46-39 +0000"
   },
   {
     "headline": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
     "link": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
     "source": "nyt",
-    "pubdate": "2026-03-06-05-46-38 +0000"
+    "pubdate": "2026-03-06-05-46-39 +0000"
   },
   {
     "headline": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
     "link": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
     "source": "nyt",
-    "pubdate": "2026-03-06-05-46-38 +0000"
-  },
-  {
-    "headline": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
-    "source": "nyt",
-    "pubdate": "2026-03-06-05-46-38 +0000"
+    "pubdate": "2026-03-06-05-46-39 +0000"
   },
   {
     "headline": "Pennsylvania man arrested for allegedly feeding pet parakeet marijuana and beer",
     "link": "https://nypost.com/2026/03/06/us-news/pennsylvania-man-arrested-for-allegedly-feeding-pet-parakeet-marijuana-and-beer/",
     "source": "nypost",
     "pubdate": "2026-03-06-05-42-49 +0000"
-  },
-  {
-    "headline": "Michael McCarron looks to endear himself to Wild and their fans",
-    "link": "https://www.startribune.com/michael-mccarron-looks-to-endear-himself-to-wild-and-their-fans/601588420",
-    "source": "startribune",
-    "pubdate": "2026-03-06-05-38-32 +0000"
-  },
-  {
-    "headline": "Takeaways: Timberwolves use strong third quarter to top Raptors 115-107 for fifth victory in a row",
-    "link": "https://www.startribune.com/takeaways-timberwolves-use-strong-third-quarter-to-top-raptors-115-107-for-fifth-victory-in-a-row/601570331",
-    "source": "startribune",
-    "pubdate": "2026-03-06-05-37-27 +0000"
   },
   {
     "headline": "India Is Turning Back to Russian Oil",
@@ -564,6 +636,12 @@
     "pubdate": "2026-03-06-02-00-00 +0000"
   },
   {
+    "headline": "The Wildest Frat Party on Campus? Prediction Markets",
+    "link": "https://www.wsj.com/business/media/prediction-markets-campus-e57cd19f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-06-02-00-00 +0000"
+  },
+  {
     "headline": "Companies that have been feeling the pinch from President Trump’s tariffs are scrambling to capitalize on the recent Supreme Court ruling",
     "link": "https://www.wsj.com/economy/trade/tariffs-are-lower-and-businesses-are-racing-to-take-advantage-977bd276",
     "source": "wsj",
@@ -612,22 +690,10 @@
     "pubdate": "2026-03-06-01-48-10 +0000"
   },
   {
-    "headline": "The story behind Trump’s new DHS secretary pick Markwayne Mullin’s unique name",
-    "link": "https://nypost.com/2026/03/05/us-news/the-story-behind-trumps-new-dhs-secretary-pick-markwayne-mullins-unique-name/",
-    "source": "nypost",
-    "pubdate": "2026-03-06-01-48-10 +0000"
-  },
-  {
     "headline": "Canadian teen died from drowning after dingo attack in Australia",
     "link": "https://www.bbc.com/news/articles/cde4599n8zpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-06-01-47-32 +0000"
-  },
-  {
-    "headline": "Tech titans vow to ‘take back’ California from lefties, call out billionaires fleeing",
-    "link": "https://nypost.com/2026/03/05/us-news/tech-titans-vow-to-take-back-california-from-lefties-call-out-billionaires-fleeing/",
-    "source": "nypost",
-    "pubdate": "2026-03-06-01-40-39 +0000"
   },
   {
     "headline": "Tech titans vow to ‘take back’ California from lefties, call out billionaires fleeing",
@@ -648,12 +714,6 @@
     "pubdate": "2026-03-06-01-40-00 +0000"
   },
   {
-    "headline": "Alarming increase in snake sightings rattles San Diego",
-    "link": "https://nypost.com/2026/03/05/us-news/hikers-beware-rattlesnake-sightings-jump-in-socal-amid-warmer-temperatures/",
-    "source": "nypost",
-    "pubdate": "2026-03-06-01-36-41 +0000"
-  },
-  {
     "headline": "Israeli Evacuation Orders Spark Panic in Beirut",
     "link": "https://www.nytimes.com/2026/03/05/world/middleeast/lebanon-israeli-evacuation-order-panic.html",
     "source": "nyt",
@@ -670,12 +730,6 @@
     "link": "https://www.latimes.com/california/story/2026-03-05/former-girardi-firm-lawyer-pleads-guilty-over-failure-to-families-plane-crash-victims",
     "source": "latimes",
     "pubdate": "2026-03-06-01-15-25 +0000"
-  },
-  {
-    "headline": "LA street food craze: Van Nuys vendor stuffs entire meals inside your bag of chips",
-    "link": "https://nypost.com/2026/03/05/us-news/van-nuys-street-vendor-stuffs-entire-meals-inside-your-bag-of-chips/",
-    "source": "nypost",
-    "pubdate": "2026-03-06-01-14-37 +0000"
   },
   {
     "headline": "Britney Spears DUI arrest: Drugs and alcohol suspected; singer was swerving her BMW, CHP says",
@@ -978,6 +1032,12 @@
     "pubdate": "2026-03-06-00-05-26 +0000"
   },
   {
+    "headline": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
+    "link": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-06-00-05-12 +0000"
+  },
+  {
     "headline": "President Trump removed Kristi Noem as the secretary of the Department of Homeland Security, replacing her er with Republican Sen. Markwayne Mullin of Oklahoma Sen. Markwayne Mullin",
     "link": "https://www.wsj.com/politics/policy/trump-dhs-kristi-noem-markwayne-mullin-85815862",
     "source": "wsj",
@@ -1201,13 +1261,13 @@
   },
   {
     "headline": "Iran delays naming a new leader out of security concerns, officials say.",
-    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump/iran-delays-naming-a-new-leader-out-of-security-concerns-officials-say",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/iran-delays-naming-a-new-leader-out-of-security-concerns-officials-say",
     "source": "nyt",
     "pubdate": "2026-03-05-23-04-16 +0000"
   },
   {
     "headline": "Iran delays naming a new leader out of security concerns, officials say.",
-    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump/iran-delays-naming-a-new-leader-out-of-security-concerns-officials-say",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/iran-delays-naming-a-new-leader-out-of-security-concerns-officials-say",
     "source": "nyt",
     "pubdate": "2026-03-05-23-04-16 +0000"
   },
@@ -2964,18 +3024,6 @@
     "pubdate": "2026-03-05-13-03-34 +0000"
   },
   {
-    "headline": "Iran claims responsibility for attack on US tanker in Persian Gulf",
-    "link": "https://nypost.com/2026/03/05/world-news/iran-claims-attack-on-us-tanker-in-persian-gulf/",
-    "source": "nypost",
-    "pubdate": "2026-03-05-13-01-13 +0000"
-  },
-  {
-    "headline": "Prada Warns Versace Revamp Will Drag on Profitability",
-    "link": "https://www.wsj.com/business/retail/prada-warns-versace-revamp-will-drag-on-profitability-7dc0af7e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-05-12-52-00 +0000"
-  },
-  {
     "headline": "Nepalis vote in first election since Gen Z uprising for change",
     "link": "https://www.bbc.com/news/articles/c79550jrye8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3208,12 +3256,6 @@
     "link": "https://www.bbc.com/news/articles/cgjzze08le8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-05-10-44-15 +0000"
-  },
-  {
-    "headline": "Nearly 4m Londoners below income for decent living",
-    "link": "https://www.bbc.com/news/articles/cnv66nmjqneo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-05-10-42-37 +0000"
   },
   {
     "headline": "Volkswagen Group Has Delivered 4 Million All-Electric Vehicles Since 2013",
@@ -3540,6 +3582,12 @@
     "pubdate": "2026-03-05-03-57-55 +0000"
   },
   {
+    "headline": "Diamond Dave Whitaker, a San Francisco icon and legend, dies at 88",
+    "link": "https://48hills.org/2026/03/diamond-dave-whitaker-a-san-francisco-icon-and-legend-dies-at-88/",
+    "source": "48hills",
+    "pubdate": "2026-03-05-03-50-11 +0000"
+  },
+  {
     "headline": "Legislators eye new prevention efforts in fire-scarred California: 'A tipping point'",
     "link": "https://www.latimes.com/california/story/2026-03-04/california-legislators-introduce-bill-package-to-address-wildfires",
     "source": "latimes",
@@ -3562,12 +3610,6 @@
     "link": "https://www.latimes.com/california/story/2026-03-04/california-soldier-among-those-killed-in-iran-war-drone-attack-pentagon-says",
     "source": "latimes",
     "pubdate": "2026-03-05-03-17-32 +0000"
-  },
-  {
-    "headline": "Liquid Natural Gas Exporters Like Shell and ExxonMobil Could See Big Profits From War",
-    "link": "https://www.nytimes.com/2026/03/04/business/energy-environment/natural-gas-prices-lng-shell-exxon-war-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-03-05-03-12-12 +0000"
   },
   {
     "headline": "Liquid Natural Gas Exporters Like Shell and ExxonMobil Could See Big Profits From War",
@@ -3676,12 +3718,6 @@
     "link": "https://www.cbc.ca/news/world/ecuador-boots-cuban-ambassador-9.7115133?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-03-05-01-18-33 +0000"
-  },
-  {
-    "headline": "Cracker Barrel Works to Repair Its Business",
-    "link": "https://www.wsj.com/business/earnings/cracker-barrel-works-to-repair-its-business-6d57d20c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-05-01-09-00 +0000"
   },
   {
     "headline": "Experts doubt Tehran’s claims of advanced ‘hypersonic’ missiles.",
@@ -4006,18 +4042,6 @@
     "link": "https://www.wsj.com/health/health-care-roundup-market-talk-7e2354c1?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-04-22-10-00 +0000"
-  },
-  {
-    "headline": "Women and Leadership: 9 Figures Discuss Their Approach",
-    "link": "https://www.nytimes.com/2026/03/04/world/women-leaders-advice.html",
-    "source": "nyt",
-    "pubdate": "2026-03-04-22-08-57 +0000"
-  },
-  {
-    "headline": "Feminist Scholars and Activists on the Past and Future of Feminism",
-    "link": "https://www.nytimes.com/2026/03/04/world/americas/feminism-past-future-scholars.html",
-    "source": "nyt",
-    "pubdate": "2026-03-04-22-07-33 +0000"
   },
   {
     "headline": "Feminist Scholars and Activists on the Past and Future of Feminism",
@@ -4468,12 +4492,6 @@
     "link": "https://www.cbc.ca/news/world/half-marathon-guide-car-wrong-turn-9.7114022?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-03-04-18-25-55 +0000"
-  },
-  {
-    "headline": "The conflict is choking off the world’s oil and gas.",
-    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/the-conflict-is-choking-off-the-worlds-oil-and-gas",
-    "source": "nyt",
-    "pubdate": "2026-03-04-18-25-42 +0000"
   },
   {
     "headline": "Carney shakes up senior ranks of the public service",
@@ -5382,12 +5400,6 @@
     "pubdate": "2026-03-04-05-43-03 +0000"
   },
   {
-    "headline": "SF protests against war on Iran draw cries to “Send Barron’",
-    "link": "https://48hills.org/2026/03/sf-protests-against-war-on-iran-draw-cries-to-send-barron/",
-    "source": "48hills",
-    "pubdate": "2026-03-04-05-35-06 +0000"
-  },
-  {
     "headline": "Japanese court upholds order to dissolve Unification Church",
     "link": "https://www.bbc.com/news/articles/crrxx5x7wyko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5896,12 +5908,6 @@
     "link": "https://www.nytimes.com/2026/03/03/business/epstein-japan-ito-resigns.html",
     "source": "nyt",
     "pubdate": "2026-03-03-16-55-13 +0000"
-  },
-  {
-    "headline": "Reeves says her plan is working as growth forecast cut for this year",
-    "link": "https://www.bbc.com/news/articles/ce8wew99ngpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-03-16-39-35 +0000"
   },
   {
     "headline": "Reeves says her plan is working as growth forecast cut for this year",
@@ -6460,12 +6466,6 @@
     "link": "https://www.bbc.com/news/articles/c0rj4nvw07do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-02-18-05-54 +0000"
-  },
-  {
-    "headline": "Is the UK now involved in Iran conflict?",
-    "link": "https://www.bbc.com/news/videos/cewz8kplwkdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-02-18-05-15 +0000"
   },
   {
     "headline": "Farage calls for changes to election voting rules",
@@ -7288,11 +7288,5 @@
     "link": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-02-27-07-53-39 +0000"
-  },
-  {
-    "headline": "Sir John Curtice: Greens' win means future of British politics is more uncertain than ever",
-    "link": "https://www.bbc.com/news/articles/cwygpdjq9jjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-02-27-06-06-26 +0000"
   }
 ]
