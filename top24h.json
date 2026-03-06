@@ -1,13 +1,13 @@
 [
   {
-    "score": 304,
+    "score": 302,
     "pubdate": "2026-03-06-05-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pick to replace DHS Secretary Kristi Noem is a former MMA fighter who has spent years as a “Trump whisperer”—talking to the president, by his own account, “all the time”",
     "link": "https://www.wsj.com/politics/policy/twho-is-markwayne-mullin-trump-dhs-36b8e897"
   },
   {
-    "score": 232,
+    "score": 228,
     "pubdate": "2026-03-06-00-00-00 +0000",
     "source": "wsj",
     "headline": "The U.S. and Israel say they have degraded Iran’s missile stockpiles and launchers, blunting Tehran’s ability to unleash the massive barrages that opened the war",
@@ -28,18 +28,11 @@
     "link": "https://www.wsj.com/politics/policy/trump-dhs-kristi-noem-markwayne-mullin-85815862"
   },
   {
-    "score": 91,
+    "score": 90,
     "pubdate": "2026-03-05-23-25-54 +0000",
     "source": "nyt",
     "headline": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
     "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
-  },
-  {
-    "score": 81,
-    "pubdate": "2026-03-05-20-31-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Resumes Climb As Middle East Conflict Continues",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-prospects-of-prolonged-supply-disruptions-630f8ed6?mod=rss_markets_main"
   },
   {
     "score": 77,
@@ -49,6 +42,13 @@
     "link": "https://nypost.com/2026/03/05/us-news/trumps-new-tariffs-spark-lawsuit-from-half-of-u-s-states/"
   },
   {
+    "score": 76,
+    "pubdate": "2026-03-05-20-31-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Resumes Climb As Middle East Conflict Continues",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-prospects-of-prolonged-supply-disruptions-630f8ed6?mod=rss_markets_main"
+  },
+  {
     "score": 62,
     "pubdate": "2026-03-05-22-48-34 +0000",
     "source": "nypost",
@@ -56,7 +56,7 @@
     "link": "https://nypost.com/2026/03/05/business/pentagon-labels-anthropic-supply-chain-risk-days-after-ceo-lashed-out-at-trump-openai/"
   },
   {
-    "score": 61,
+    "score": 60,
     "pubdate": "2026-03-05-19-56-00 +0000",
     "source": "wsj",
     "headline": "For the First Time, U.S. Sides With Russia and China in Ukraine Energy Dispute",
