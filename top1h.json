@@ -1,16 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-03-06-02-40-16 +0000",
+    "score": 21,
+    "pubdate": "2026-03-06-04-15-20 +0000",
+    "source": "nyt",
+    "headline": "Iran Live Updates: Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
+    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-06-03-56-06 +0000",
+    "source": "nyt",
+    "headline": "Timeline: The Rise and Fall of Kristi Noem as Trump’s DHS Secretary",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-06-04-16-20 +0000",
     "source": "nypost",
-    "headline": "NYPD cop clocked in the head by stabbing suspect during botched arrest at NYC subway station",
-    "link": "https://nypost.com/2026/03/05/us-news/nypd-cop-clocked-in-the-head-by-stabbing-suspect-during-botched-arrest-at-nyc-subway-station/"
+    "headline": "Iranian woman who lost her eye after being shot by the Revolutionary Guard slams Kamala Harris’ response to the bombing",
+    "link": "https://nypost.com/2026/03/05/us-news/iranian-mersedeh-shahinkar-who-lost-her-eye-slams-kamala-harris-response-to-the-bombing/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-06-04-03-44 +0000",
+    "source": "nypost",
+    "headline": "Bianca Censori grilled on embarrassing moment she was allegedly confused for Kim Kardashian in Kanye West lawsuit",
+    "link": "https://nypost.com/2026/03/05/us-news/bianca-censori-grilled-on-embarrassing-moment-she-was-allegedly-confused-for-kim-kardashian-in-kanye-west-lawsuit/"
   },
   {
     "score": 10,
-    "pubdate": "2026-03-06-02-42-07 +0000",
-    "source": "missionlocal",
-    "headline": "Mayor Lurie’s car purportedly attacked in Tenderloin, police bodyguard left bleeding",
-    "link": "https://missionlocal.org/2026/03/sf-daniel-lurie-car-bodyguard-attacked-tenderloin/"
+    "pubdate": "2026-03-06-04-08-48 +0000",
+    "source": "bbc",
+    "headline": "Israel strikes Beirut after evacuation warning sparks panic",
+    "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-06-03-43-09 +0000",
+    "source": "48hills",
+    "headline": "Airbnb, under pressure from labor, drops $120 million lawsuit against SF",
+    "link": "https://48hills.org/2026/03/airbnb-under-pressure-from-labor-drops-120-million-lawsuit-against-sf/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-06-04-01-10 +0000",
+    "source": "startribune",
+    "headline": "Michael McCarron looks to endear himself to Wild and their fans",
+    "link": "https://www.startribune.com/michael-mccarron-looks-to-endear-himself-to-wild-and-their-fans/601588420"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-06-03-47-54 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Wants to Destroy Iran’s Navy. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-navy-ships-war.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-06-04-20-48 +0000",
+    "source": "nyt",
+    "headline": "Sri Lanka Is Caught in the Middle as Second Iranian Vessel Seeks Safe Haven",
+    "link": "https://www.nytimes.com/2026/03/05/world/asia/sri-lanka-iran-navy-war.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-06-03-56-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Oil Waiver May Somewhat Ease Crude Prices",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-after-bessent-unveils-stopgap-measure-for-india-2657c96b?mod=rss_markets_main"
   }
 ]
