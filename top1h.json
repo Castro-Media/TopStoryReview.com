@@ -1,30 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2026-03-06-13-11-04 +0000",
+    "score": 52,
+    "pubdate": "2026-03-06-14-51-04 +0000",
+    "source": "nyt",
+    "headline": "Trump Remarks on U.S.S. Cole and Iran Raise Questions in Guantánamo Case",
+    "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-uss-cole-iran.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-03-06-14-31-43 +0000",
+    "source": "wapo",
+    "headline": "The U.S. labor market lost 92,000 jobs in February in warning sign for economy",
+    "link": "https://www.washingtonpost.com/business/2026/03/06/february-jobs-unemployment/"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-03-06-14-47-08 +0000",
+    "source": "nypost",
+    "headline": "‘Weeks, not months’ before gas prices come down, Energy Secretary Chris Wright says",
+    "link": "https://nypost.com/2026/03/06/us-news/weeks-not-months-before-gas-prices-come-down-energy-secretary-chris-wright-says/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-06-14-08-00 +0000",
+    "source": "wsj",
+    "headline": "Kuwait Cuts Oil Production as Storage Fills Up",
+    "link": "https://www.wsj.com/business/energy-oil/kuwait-cuts-oil-production-as-storage-fills-up-3766b2eb"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-03-06-14-31-11 +0000",
+    "source": "nyt",
+    "headline": "António Lobo Antunes, One of Europe’s Most Revered Writers, Dies at 83",
+    "link": "https://www.nytimes.com/2026/03/05/books/antonio-lobo-antunes-dead.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-06-14-59-03 +0000",
+    "source": "bbc",
+    "headline": "Axel Springer agrees to buy Telegraph Media Group in £575m deal",
+    "link": "https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-06-14-13-44 +0000",
+    "source": "nypost",
+    "headline": "Russia giving Iran intelligence info in ‘comprehensive effort’ to attack US in Middle East: report",
+    "link": "https://nypost.com/2026/03/06/world-news/russia-giving-iran-information-in-effort-to-attack-us-in-middle-east/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-06-14-59-55 +0000",
+    "source": "nypost",
+    "headline": "Rapist mayor Misty Roberts dons pearls, cross necklace in new mugshot — as sex offender record reveals half dozen tacky tattoos",
+    "link": "https://nypost.com/2026/03/06/us-news/misty-roberts-new-mugshot-as-sex-offender-record-reveals-half-a-dozen-tacky-tattoos/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-06-14-51-04 +0000",
     "source": "startribune",
-    "headline": "Israeli warplanes pound Tehran and Beirut as the US vows a surge in its strikes on Iran",
+    "headline": "Trump rules out talks absent Iran's 'unconditional surrender' as Israel strikes Lebanon",
     "link": "https://www.startribune.com/intense-israeli-strikes-target-iran-and-lebanon-as-us-warns-bombardment-to-surge-dramatically/601593581"
   },
   {
-    "score": 9,
-    "pubdate": "2026-03-06-13-13-05 +0000",
-    "source": "bbc",
-    "headline": "Surge in jet fuel prices could push up air fares, analysts warn",
-    "link": "https://www.bbc.com/news/articles/c14m57k8vgeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-03-06-13-13-48 +0000",
+    "score": 17,
+    "pubdate": "2026-03-06-14-11-11 +0000",
     "source": "nyt",
-    "headline": "Iran Live Updates: Israel Pummels Beirut, Intensifying Strikes on Hezbollah",
-    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-03-06-13-12-02 +0000",
-    "source": "bbc",
-    "headline": "Price of first class stamps to rise to £1.80",
-    "link": "https://www.bbc.com/news/articles/cvgv497gndno?at_medium=RSS&at_campaign=rss"
+    "headline": "European stock indexes fall again, ending a turbulent week for markets.",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/stocks-fall-again-in-europe-at-the-end-of-a-turbulent-week-for-markets"
   }
 ]
