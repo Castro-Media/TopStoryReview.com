@@ -1,24 +1,24 @@
 [
   {
-    "score": 270,
+    "score": 262,
     "pubdate": "2026-03-07-02-04-06 +0000",
     "source": "bbc",
     "headline": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
     "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 75,
-    "pubdate": "2026-03-07-00-32-35 +0000",
-    "source": "bbc",
-    "headline": "AI-generated Iran war videos surge as creators use new tech to cash in",
-    "link": "https://www.bbc.com/news/articles/ckg8wvz427vo?at_medium=RSS&at_campaign=rss"
+    "score": 72,
+    "pubdate": "2026-03-07-18-03-09 +0000",
+    "source": "nypost",
+    "headline": "New video shows SF mayor’s security guard launching full-on attack before he was body-slammed — as mayor watched it all unfold",
+    "link": "https://nypost.com/2026/03/07/us-news/new-video-shows-sf-mayor-daniel-luries-security-guard-launching-attack/"
   },
   {
-    "score": 67,
-    "pubdate": "2026-03-07-10-01-47 +0000",
+    "score": 72,
+    "pubdate": "2026-03-07-10-02-03 +0000",
     "source": "nyt",
-    "headline": "Russia Revels in a Sudden Reversal in Fortunes as Oil and Gas Prices Soar",
-    "link": "https://www.nytimes.com/2026/03/07/world/europe/russia-iran-oil-exports.html"
+    "headline": "Europe Didn’t Want War With Iran. But So Far, It Can’t Stay Out of It.",
+    "link": "https://www.nytimes.com/2026/03/07/world/europe/europe-iran-trump-war-dilemma.html"
   },
   {
     "score": 63,
@@ -28,28 +28,21 @@
     "link": "https://www.wsj.com/politics/national-security/trump-doj-cuba-leaders-677b1a8c"
   },
   {
-    "score": 58,
-    "pubdate": "2026-03-07-18-03-09 +0000",
-    "source": "nypost",
-    "headline": "New video shows SF mayor’s security guard launching full-on attack before he was body-slammed — as mayor watched it all unfold",
-    "link": "https://nypost.com/2026/03/07/us-news/new-video-shows-sf-mayor-daniel-luries-security-guard-launching-attack/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-03-07-19-05-37 +0000",
-    "source": "nypost",
-    "headline": "Israel slams Lebanon with wave of attacks to root out Hezbollah — killing at least 217: officials",
-    "link": "https://nypost.com/2026/03/07/world-news/israel-slams-lebanon-in-wave-of-attacks-rooting-out-hezbollah-killing-at-least-217-officials/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-03-07-20-43-43 +0000",
+    "score": 62,
+    "pubdate": "2026-03-07-10-01-47 +0000",
     "source": "nyt",
-    "headline": "Mideast Fighting: Live Updates: Strikes Launched Across Middle East, With No Compromise in Sight",
-    "link": "https://www.nytimes.com/live/2026/03/07/world/iran-war-trump-israel-lebanon"
+    "headline": "Russia Revels in a Sudden Reversal in Fortunes as Oil and Gas Prices Soar",
+    "link": "https://www.nytimes.com/2026/03/07/world/europe/russia-iran-oil-exports.html"
   },
   {
-    "score": 47,
+    "score": 52,
+    "pubdate": "2026-03-06-22-28-34 +0000",
+    "source": "nyt",
+    "headline": "Macron speaks with Lebanon’s leader, as France seeks to broker a truce between Israel and Hezbollah.",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/macron-aoun-lebanon-france-israel-ceasefire-hezbollah"
+  },
+  {
+    "score": 46,
     "pubdate": "2026-03-07-18-59-47 +0000",
     "source": "nypost",
     "headline": "10-year-old California whiz kid wraps up first course at San Bernardino Valley College",
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/politics/elections/virginia-republicans-air-frustrations-with-gop-star-glenn-youngkin-1cb938ba"
   },
   {
-    "score": 40,
-    "pubdate": "2026-03-07-09-00-00 +0000",
-    "source": "cbc",
-    "headline": "As Carney seeks strengthened global alliances, is it time Canada join the EU?",
-    "link": "https://www.cbc.ca/news/politics/carney-canada-european-union-trump-9.7117669?cmp=rss"
+    "score": 45,
+    "pubdate": "2026-03-07-20-43-43 +0000",
+    "source": "nyt",
+    "headline": "Mideast Fighting: Live Updates: Strikes Launched Across Middle East, With No Compromise in Sight",
+    "link": "https://www.nytimes.com/live/2026/03/07/world/iran-war-trump-israel-lebanon"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-03-07-19-55-32 +0000",
+    "source": "nypost",
+    "headline": "Trump vows US military power toward eradicating cartels, urges Latin American countries to do the same",
+    "link": "https://nypost.com/2026/03/07/us-news/trump-committed-to-using-us-military-forces-to-dismantle-latin-american-cartels/"
   }
 ]
