@@ -1,24 +1,24 @@
 [
   {
-    "score": 369,
+    "score": 360,
     "pubdate": "2026-03-07-02-04-06 +0000",
     "source": "bbc",
     "headline": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
     "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 113,
-    "pubdate": "2026-03-06-20-37-00 +0000",
-    "source": "wsj",
-    "headline": "A rough February jobs report exposed just how much the U.S. has relied on health workers. Here’s a look at some of the key trends in the latest Labor Department Report",
-    "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
-  },
-  {
     "score": 112,
     "pubdate": "2026-03-06-10-30-00 +0000",
     "source": "wsj",
     "headline": "The Iran War Is Hitting Gulf Markets, Lifting Israel and Shifting Risk Across the Region",
-    "link": "https://www.wsj.com/world/middle-east/the-iran-war-is-hitting-gulf-markets-lifting-israel-and-shifting-risk-across-the-region-890d272e?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/world/middle-east/the-iran-war-is-hitting-gulf-markets-lifting-israel-and-shifting-risk-across-the-region-890d272e"
+  },
+  {
+    "score": 112,
+    "pubdate": "2026-03-06-20-37-00 +0000",
+    "source": "wsj",
+    "headline": "A rough February jobs report exposed just how much the U.S. has relied on health workers. Here’s a look at some of the key trends in the latest Labor Department Report",
+    "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
   },
   {
     "score": 95,
@@ -42,21 +42,21 @@
     "link": "https://nypost.com/2026/03/07/us-news/kristi-noem-was-dead-as-fried-chicken-after-congressional-hearing-sen-john-kennedy-reveals/"
   },
   {
-    "score": 64,
-    "pubdate": "2026-03-06-14-13-44 +0000",
-    "source": "nypost",
-    "headline": "Russia giving Iran intelligence info in ‘comprehensive effort’ to attack US in Middle East",
-    "link": "https://nypost.com/2026/03/06/world-news/russia-giving-iran-information-in-effort-to-attack-us-in-middle-east/"
-  },
-  {
-    "score": 60,
+    "score": 63,
     "pubdate": "2026-03-06-22-12-40 +0000",
     "source": "latimes",
     "headline": "As gas prices rise, California gets punched harder at the pump than other states",
     "link": "https://www.latimes.com/business/story/2026-03-06/as-gas-prices-rise-california-gets-punched-harder-at-pump-than-other-states"
   },
   {
-    "score": 60,
+    "score": 62,
+    "pubdate": "2026-03-06-14-13-44 +0000",
+    "source": "nypost",
+    "headline": "Russia giving Iran intelligence info in ‘comprehensive effort’ to attack US in Middle East",
+    "link": "https://nypost.com/2026/03/06/world-news/russia-giving-iran-information-in-effort-to-attack-us-in-middle-east/"
+  },
+  {
+    "score": 61,
     "pubdate": "2026-03-06-22-37-17 +0000",
     "source": "latimes",
     "headline": "Honey is wrapping up her first course at San Bernardino Valley College. She's only 10 years old",
