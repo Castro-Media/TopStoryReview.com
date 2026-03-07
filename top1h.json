@@ -1,66 +1,10 @@
 [
   {
-    "score": 47,
-    "pubdate": "2026-03-07-02-11-06 +0000",
-    "source": "nyt",
-    "headline": "Trump Demands ‘Unconditional Surrender’ by Iran, Shifting U.S. Objectives Again",
-    "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-03-07-02-10-18 +0000",
-    "source": "nypost",
-    "headline": "DOJ exploring possible charges against Cuban leaders amid calls for a Raul Castro indictment: ‘Must finally face justice’",
-    "link": "https://nypost.com/2026/03/06/us-news/doj-exploring-possible-charges-against-cuban-leaders-amid-calls-for-a-raul-castro-indictment-must-finally-face-justice/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-07-02-25-37 +0000",
-    "source": "nyt",
-    "headline": "Trump Maintains That U.S. Has Ample Weapons as Iran War Depletes Stocks",
-    "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-us-weapons-stocks.html"
-  },
-  {
-    "score": 18,
+    "score": 20,
     "pubdate": "2026-03-07-02-33-52 +0000",
     "source": "nyt",
     "headline": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.",
     "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-07-02-25-53 +0000",
-    "source": "nyt",
-    "headline": "Vulnerable California Republican Darrell Issa Drops Re-election Bid",
-    "link": "https://www.nytimes.com/2026/03/06/us/politics/darrell-issa-california-retire.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-07-01-48-42 +0000",
-    "source": "nyt",
-    "headline": "Brandon Herrera’s YouTube Gives Democrats More Hope in West Texas Race",
-    "link": "https://www.nytimes.com/2026/03/06/us/politics/texas-democrats-brandon-herrera-youtube.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-07-02-04-23 +0000",
-    "source": "bbc",
-    "headline": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
-    "link": "https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-03-07-01-51-41 +0000",
-    "source": "nypost",
-    "headline": "Ex-NYC Mayor Eric Adams says successor Mamdani is getting a reality check: ‘Idealistic approach is the not realistic approach’",
-    "link": "https://nypost.com/2026/03/06/us-news/ex-nyc-mayor-eric-adams-says-successor-mamdani-is-getting-a-reality-check/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-03-07-02-07-46 +0000",
-    "source": "nyt",
-    "headline": "Justice Dept. Denounces Federal Judges in Fight Against Law Firms",
-    "link": "https://www.nytimes.com/2026/03/06/us/politics/justice-department-law-firms-executive-orders.html"
   },
   {
     "score": 12,
@@ -68,5 +12,40 @@
     "source": "nypost",
     "headline": "Hegseth declares ‘no one’s putting us in danger’ after reports that Russia giving Iran intelligence on US forces",
     "link": "https://nypost.com/2026/03/06/world-news/hegseth-declares-no-ones-putting-us-in-danger-after-reports-that-russia-giving-iran-intelligence-on-us-forces/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-07-02-38-10 +0000",
+    "source": "nypost",
+    "headline": "Terrifying moment homeless man seen chasing after mom and daughter before brutally attacking them",
+    "link": "https://nypost.com/2026/03/06/us-news/terrifying-moment-homeless-man-seen-chasing-after-mom-and-daughter-before-brutally-attacking-them/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-07-02-38-55 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: New Wave of Airstrikes Batters Tehran",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-07-02-38-54 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-07-02-38-54 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-07-02-33-52 +0000",
+    "source": "nyt",
+    "headline": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.",
+    "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
   }
 ]
