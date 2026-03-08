@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 27,
+    "pubdate": "2026-03-08-00-33-40 +0000",
+    "source": "nyt",
+    "headline": "Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks",
+    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/larijani-iran-war.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-08-01-08-16 +0000",
+    "source": "bbc",
+    "headline": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+    "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-08-01-13-53 +0000",
+    "source": "nyt",
+    "headline": "Trump Assembles a New Coalition to ‘Eradicate’ Cartels",
+    "link": "https://www.nytimes.com/2026/03/07/world/americas/trump-latin-american-coalition-cartels.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-08-01-05-05 +0000",
+    "source": "nypost",
+    "headline": "Ian Huntley, one of UK’s most notorious child killers dies days after being attacked in prison",
+    "link": "https://nypost.com/2026/03/07/world-news/ian-huntley-one-of-uks-most-notorious-child-killers-dies-days-after-being-attacked-in-prison/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-08-00-31-54 +0000",
+    "source": "nypost",
+    "headline": "Snobby Dan? Influencer claiming to be stranded by Iran war blows off economy seats",
+    "link": "https://nypost.com/2026/03/07/world-news/influencer-claiming-to-be-stranded-by-iran-war-blows-off-economy-seats/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-08-00-50-30 +0000",
+    "source": "nyt",
+    "headline": "Mideast Fighting: Live Updates: Strikes Launched Across Middle East, With No Compromise in Sight",
+    "link": "https://www.nytimes.com/live/2026/03/07/world/iran-war-trump-israel-lebanon"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-08-00-45-06 +0000",
+    "source": "wapo",
+    "headline": "Judge rules Kari Lake unlawfully ran U.S. media agency, voiding layoffs",
+    "link": "https://www.washingtonpost.com/business/2026/03/07/kari-lake-unlawful-voice-of-america-ruling/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-08-01-12-37 +0000",
+    "source": "nyt",
+    "headline": "Smoking Jars of Metal and Fuses Thrown at Protest Near Mayor’s House",
+    "link": "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-08-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Cryptic Emails and No Strings Attached. How MacKenzie Scott Gives Away Billions.",
+    "link": "https://www.wsj.com/finance/cryptic-emails-and-no-strings-attached-how-mackenzie-scott-gives-away-billions-7ca3e44c?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-08-00-50-37 +0000",
+    "source": "nypost",
+    "headline": "New details emerge about suspect in daylight stabbing on San Francisco street",
+    "link": "https://nypost.com/2026/03/07/us-news/new-details-about-suspect-in-unprovoked-stabbing-on-san-francisco-street/"
+  }
+]
