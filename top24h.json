@@ -1,6 +1,6 @@
 [
   {
-    "score": 143,
+    "score": 139,
     "pubdate": "2026-03-07-16-55-50 +0000",
     "source": "wapo",
     "headline": "Trump team bashed Europe for a year. Now he wants support in war on Iran.",
@@ -14,18 +14,18 @@
     "link": "https://nypost.com/2026/03/07/us-news/black-middle-class-new-yorkers-say-theyd-be-victims-of-dsas-proposed-tax-hikes/"
   },
   {
-    "score": 46,
-    "pubdate": "2026-03-07-19-05-37 +0000",
-    "source": "nypost",
-    "headline": "Israel slams Lebanon with wave of attacks to root out Hezbollah — killing at least 217: officials",
-    "link": "https://nypost.com/2026/03/07/world-news/israel-slams-lebanon-in-wave-of-attacks-rooting-out-hezbollah-killing-at-least-217-officials/"
-  },
-  {
     "score": 45,
     "pubdate": "2026-03-07-10-01-47 +0000",
     "source": "nyt",
     "headline": "Russia Revels in a Sudden Reversal in Fortunes as Oil and Gas Prices Soar",
     "link": "https://www.nytimes.com/2026/03/07/world/europe/russia-iran-oil-exports.html"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-03-07-19-05-37 +0000",
+    "source": "nypost",
+    "headline": "Israel slams Lebanon with wave of attacks to root out Hezbollah — killing at least 217: officials",
+    "link": "https://nypost.com/2026/03/07/world-news/israel-slams-lebanon-in-wave-of-attacks-rooting-out-hezbollah-killing-at-least-217-officials/"
   },
   {
     "score": 42,
@@ -42,7 +42,7 @@
     "link": "https://www.nytimes.com/2026/03/06/world/canada/carney-takaichi-japan-trump.html"
   },
   {
-    "score": 40,
+    "score": 38,
     "pubdate": "2026-03-07-17-00-00 +0000",
     "source": "wsj",
     "headline": "Some Republicans complain Virginia’s most prominent GOP figure is missing from their counterattacks against Democrats’ plan to redraw the state’s congressional maps",
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/03/07/us-news/trump-committed-to-using-us-military-forces-to-dismantle-latin-american-cartels/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-03-08-01-05-05 +0000",
-    "source": "nypost",
-    "headline": "Ian Huntley, one of UK’s most notorious child killers dies days after being attacked in prison",
-    "link": "https://nypost.com/2026/03/07/world-news/ian-huntley-one-of-uks-most-notorious-child-killers-dies-days-after-being-attacked-in-prison/"
-  },
-  {
     "score": 33,
     "pubdate": "2026-03-08-04-16-10 +0000",
     "source": "nypost",
     "headline": "Gavin Newsom’s MLK-Gandhi ramble in Adam Friedland interview fuels ‘too slick for White House’ claims",
     "link": "https://nypost.com/2026/03/07/us-news/gavin-newsoms-word-salad-adam-friedland-interview-suggests-he-may-be-too-slick-to-be-president/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-03-07-17-10-29 +0000",
+    "source": "nyt",
+    "headline": "Ian Huntley, Whose Murder of Schoolgirls Appalled Britain, Dies After Prison Attack",
+    "link": "https://www.nytimes.com/2026/03/07/world/europe/ian-huntley-dead-soham-murders-uk.html"
   }
 ]
