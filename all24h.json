@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/08/world/iran-war-trump-israel-lebanon/here-is-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-08-08-57-46 +0000"
+  },
+  {
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/08/world/iran-war-trump-israel-lebanon/here-is-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-08-08-49-59 +0000"
+  },
+  {
+    "headline": "Israel Strikes Oil Facilities in Iran",
+    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html",
+    "source": "nyt",
+    "pubdate": "2026-03-08-08-44-20 +0000"
+  },
+  {
+    "headline": "Israel Strikes Oil Facilities in Iran",
+    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html",
+    "source": "nyt",
+    "pubdate": "2026-03-08-08-44-20 +0000"
+  },
+  {
+    "headline": "War fuels debate in Cyprus over UK military bases",
+    "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-08-08-03-40 +0000"
+  },
+  {
+    "headline": "U.S. customs searched a record number of electronic devices last year",
+    "link": "https://www.cbc.ca/news/politics/united-states-customs-border-protection-phone-search-9.7118271?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-08-08-00-00 +0000"
+  },
+  {
+    "headline": "SpaceX wants to launch a million satellites. Here's how that could impact the atmosphere and the night sky",
+    "link": "https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-08-08-00-00 +0000"
+  },
+  {
+    "headline": "Keeping up the royal appearances amid the Andrew scandal",
+    "link": "https://www.cbc.ca/news/world/royal-engagements-line-of-succession-9.7117645?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-08-08-00-00 +0000"
+  },
+  {
+    "headline": "At 25, Wikipedia faces a double threat: the rise of AI and the decline of local media",
+    "link": "https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-08-08-00-00 +0000"
+  },
+  {
+    "headline": "Critics say Ottawa's sustainable jobs plan offers no new support for energy workers",
+    "link": "https://www.cbc.ca/news/politics/sustainable-jobs-action-plan-just-transition-9.7116866?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-08-08-00-00 +0000"
+  },
+  {
+    "headline": "U.S. customs searched a record number of electronic devices last year",
+    "link": "https://www.cbc.ca/news/politics/united-states-customs-border-protection-phone-search-9.7118271?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-08-08-00-00 +0000"
+  },
+  {
+    "headline": "Ex-US diplomat John Negroponte’s daughter sentenced in friend’s drunken murder",
+    "link": "https://nypost.com/2026/03/08/us-news/ex-us-diplomat-john-negropontes-daughter-sophia-sentenced-in-friends-drunken-murder/",
+    "source": "nypost",
+    "pubdate": "2026-03-08-07-43-19 +0000"
+  },
+  {
+    "headline": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
+    "link": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-08-07-11-03 +0000"
+  },
+  {
+    "headline": "Georgia high school teacher killed during prank gone wrong outside his home, 5 teens arrested",
+    "link": "https://nypost.com/2026/03/08/us-news/georgia-high-school-teacher-jason-hughes-killed-during-prank-gone-wrong-outside-his-home-5-teens-arrested/",
+    "source": "nypost",
+    "pubdate": "2026-03-08-07-06-06 +0000"
+  },
+  {
+    "headline": "'This is a moment of grave peril' - UN humanitarian chief",
+    "link": "https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-08-07-05-27 +0000"
+  },
+  {
+    "headline": "'This is a moment of grave peril' - UN humanitarian chief",
+    "link": "https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-08-07-05-27 +0000"
+  },
+  {
     "headline": "US embassy in Oslo hit by explosion, Norway police say",
     "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -34,24 +130,6 @@
     "link": "https://www.nytimes.com/2026/03/07/world/asia/nepal-election-rapper-balen-genz.html",
     "source": "nyt",
     "pubdate": "2026-03-08-05-45-12 +0000"
-  },
-  {
-    "headline": "Mideast Fighting: U.S.-Israeli Strikes Grow as Fuel Depots Burn in Tehran",
-    "link": "https://www.nytimes.com/live/2026/03/07/world/iran-war-trump-israel-lebanon",
-    "source": "nyt",
-    "pubdate": "2026-03-08-05-33-04 +0000"
-  },
-  {
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/08/world/iran-war-trump-israel-lebanon/here-is-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-08-05-32-59 +0000"
-  },
-  {
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/08/world/iran-war-trump-israel-lebanon/here-is-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-08-05-32-59 +0000"
   },
   {
     "headline": "Moorhead, Warroad win boys hockey state championships in overtime thrillers",
@@ -264,6 +342,18 @@
     "pubdate": "2026-03-08-01-47-30 +0000"
   },
   {
+    "headline": "Watch: Huge flames in Tehran after air strikes on oil depots",
+    "link": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-08-01-42-48 +0000"
+  },
+  {
+    "headline": "Watch: Huge flames in Tehran after air strikes on oil depots",
+    "link": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-08-01-42-48 +0000"
+  },
+  {
     "headline": "Spectacular images reveal unique sea creatures and corals off Caribbean islands",
     "link": "https://www.bbc.com/news/articles/cgmllk32g72o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -286,18 +376,6 @@
     "link": "https://www.wsj.com/us-news/immigration-protests-noem-minneapolis-0b8bd496",
     "source": "wsj",
     "pubdate": "2026-03-08-01-32-00 +0000"
-  },
-  {
-    "headline": "Israel Strikes Oil Facilities in Iran",
-    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html",
-    "source": "nyt",
-    "pubdate": "2026-03-08-01-27-29 +0000"
-  },
-  {
-    "headline": "Israel Strikes Oil Facilities in Iran",
-    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html",
-    "source": "nyt",
-    "pubdate": "2026-03-08-01-27-29 +0000"
   },
   {
     "headline": "How the WSJ Tracked Claims of Assault Against Immigration Agents",
@@ -570,12 +648,6 @@
     "pubdate": "2026-03-07-23-11-02 +0000"
   },
   {
-    "headline": "Human head discovered in Queens belongs to torso found in trash bag 6 months ago: police sources",
-    "link": "https://nypost.com/2026/03/07/us-news/human-head-found-in-queens-belongs-to-torso-found-6-months-ago-police-sources/",
-    "source": "nypost",
-    "pubdate": "2026-03-07-23-06-44 +0000"
-  },
-  {
     "headline": "This is what happened on March 7.",
     "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-7",
     "source": "nyt",
@@ -586,12 +658,6 @@
     "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/this-is-what-happened-on-march-7",
     "source": "nyt",
     "pubdate": "2026-03-07-23-05-38 +0000"
-  },
-  {
-    "headline": "Outrage as man who ‘stalked and threatened’ missing Rutgers student walks free",
-    "link": "https://nypost.com/2026/03/07/us-news/outrage-as-man-who-stalked-and-threatened-missing-rutgers-student-walks-free/",
-    "source": "nypost",
-    "pubdate": "2026-03-07-22-57-38 +0000"
   },
   {
     "headline": "Laurel Canyon home burns as Santa Ana winds gust through Greater L.A.",
@@ -676,6 +742,12 @@
     "link": "https://nypost.com/2026/03/07/us-news/senior-iranian-leader-issues-chilling-warning-to-trump-following-continued-us-israeli-air-strikes/",
     "source": "nypost",
     "pubdate": "2026-03-07-21-37-03 +0000"
+  },
+  {
+    "headline": "UK to charter flight for British nationals out of Dubai",
+    "link": "https://www.bbc.com/news/articles/c0432n5gl1zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-07-21-04-54 +0000"
   },
   {
     "headline": "News of the World: What you missed this week internationally",
@@ -882,6 +954,12 @@
     "pubdate": "2026-03-07-18-25-00 +0000"
   },
   {
+    "headline": "Iran Is Hitting the Radars That Underpin U.S. Missile Defenses",
+    "link": "https://www.wsj.com/world/iran-is-hitting-the-radars-that-underpin-u-s-missile-defenses-2edbfccc",
+    "source": "wsj",
+    "pubdate": "2026-03-07-18-25-00 +0000"
+  },
+  {
     "headline": "Health Care Has Become the Lifeblood of the Labor Market",
     "link": "https://www.nytimes.com/2026/03/06/business/economy/health-care-hiring-labor-market.html",
     "source": "nyt",
@@ -898,6 +976,12 @@
     "link": "https://nypost.com/2026/03/07/world-news/iran-could-pick-its-next-supreme-leader-in-the-next-24-hours-report/",
     "source": "nypost",
     "pubdate": "2026-03-07-17-44-58 +0000"
+  },
+  {
+    "headline": "Swinney would 'consider' US military plane ban from Prestwick Airport",
+    "link": "https://www.bbc.com/news/articles/cze0xj0n7jpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-07-17-38-42 +0000"
   },
   {
     "headline": "Ian Huntley, Whose Murder of Schoolgirls Appalled Britain, Dies After Prison Attack",
@@ -1284,14 +1368,14 @@
     "pubdate": "2026-03-07-11-00-00 +0000"
   },
   {
-    "headline": "Pacific Palisades' 97-year-old newspaper closed after the fire. Now it's staging a comeback",
-    "link": "https://www.latimes.com/california/story/2026-03-07/pacific-palisades-newspaper-shut-down-after-ire-stages-comeback",
+    "headline": "After initial jubilation, some Iranian Americans fear a quagmire",
+    "link": "https://www.latimes.com/california/story/2026-03-07/after-initial-jubilation-some-iranian-americans-fear-quagmire",
     "source": "latimes",
     "pubdate": "2026-03-07-11-00-00 +0000"
   },
   {
-    "headline": "After initial jubilation, some Iranian Americans fear a quagmire",
-    "link": "https://www.latimes.com/california/story/2026-03-07/after-initial-jubilation-some-iranian-americans-fear-quagmire",
+    "headline": "Pacific Palisades' 97-year-old newspaper closed after the fire. Now it's staging a comeback",
+    "link": "https://www.latimes.com/california/story/2026-03-07/pacific-palisades-newspaper-shut-down-after-ire-stages-comeback",
     "source": "latimes",
     "pubdate": "2026-03-07-11-00-00 +0000"
   },
@@ -1306,6 +1390,18 @@
     "link": "https://www.latimes.com/politics/story/2026-03-07/after-week-of-war-political-upheaval-trump-remains-defiant-as-ever",
     "source": "latimes",
     "pubdate": "2026-03-07-11-00-00 +0000"
+  },
+  {
+    "headline": "Watch: Moment of drone strike close to Dubai Airport",
+    "link": "https://www.bbc.com/news/videos/c5yr734zml3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-07-10-31-28 +0000"
+  },
+  {
+    "headline": "Watch: Moment of drone strike close to Dubai Airport",
+    "link": "https://www.bbc.com/news/videos/c5yr734zml3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-07-10-31-28 +0000"
   },
   {
     "headline": "Volkswagen Dealers Revolt Over Plan to Sell a New Brand of SUV Directly to Consumers",
@@ -1456,29 +1552,5 @@
     "link": "https://www.nytimes.com/2026/03/06/world/europe/2026-paralympics-russia-doping-ukraine-boycott.html",
     "source": "nyt",
     "pubdate": "2026-03-07-09-34-15 +0000"
-  },
-  {
-    "headline": "As Carney seeks strengthened global alliances, is it time Canada join the EU?",
-    "link": "https://www.cbc.ca/news/politics/carney-canada-european-union-trump-9.7117669?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-07-09-00-00 +0000"
-  },
-  {
-    "headline": "After deadly Hong Kong fire, the art of bamboo scaffolding hangs in the balance",
-    "link": "https://www.cbc.ca/news/world/bamboo-scaffolding-hong-kong-9.7105207?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-07-09-00-00 +0000"
-  },
-  {
-    "headline": "Do Carney and Poilievre have different visions for the Canada-U.S. relationship?",
-    "link": "https://www.cbc.ca/news/politics/carney-poilievre-canada-united-states-analysis-9.7117567?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-07-09-00-00 +0000"
-  },
-  {
-    "headline": "As Carney seeks strengthened global alliances, is it time Canada join the EU?",
-    "link": "https://www.cbc.ca/news/politics/carney-canada-european-union-trump-9.7117669?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-07-09-00-00 +0000"
   }
 ]
