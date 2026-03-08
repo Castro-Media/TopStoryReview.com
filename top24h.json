@@ -1,24 +1,38 @@
 [
   {
-    "score": 175,
+    "score": 172,
     "pubdate": "2026-03-08-01-32-38 +0000",
     "source": "wapo",
     "headline": "Trump says Iran targets will expand, honors U.S. troops killed in war",
     "link": "https://www.washingtonpost.com/world/2026/03/07/iran-war-us-trump-israel-strikes/"
   },
   {
-    "score": 77,
-    "pubdate": "2026-03-07-21-37-03 +0000",
+    "score": 56,
+    "pubdate": "2026-03-08-12-18-51 +0000",
+    "source": "cbc",
+    "headline": "U.S.-Israeli war with Iran widens across Middle East, as Tehran nears naming new supreme leader",
+    "link": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-9-9.7119190?cmp=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-03-08-16-39-17 +0000",
     "source": "nypost",
-    "headline": "Senior Iranian leader issues chilling warning to Trump following continued US-Israeli air strikes: ‘He must pay the price’",
-    "link": "https://nypost.com/2026/03/07/us-news/senior-iranian-leader-issues-chilling-warning-to-trump-following-continued-us-israeli-air-strikes/"
+    "headline": "Gas will be below $3 soon, Energy Secretary Wright says, as he insists US won’t target energy infrastructure in Iran",
+    "link": "https://nypost.com/2026/03/08/us-news/gas-will-be-below-3-soon-despite-strikes-on-iran-energy-secretary-says/"
   },
   {
     "score": 49,
-    "pubdate": "2026-03-07-22-27-54 +0000",
+    "pubdate": "2026-03-08-19-34-44 +0000",
     "source": "nypost",
-    "headline": "Black, middle-class New Yorkers say they’d be victims of Democratic Socialists of America’s tax-hike plan",
-    "link": "https://nypost.com/2026/03/07/us-news/black-middle-class-new-yorkers-say-theyd-be-victims-of-dsas-proposed-tax-hikes/"
+    "headline": "Inside major sports business exec’s harrowing escape from Qatar after Iranian strikes: ‘Truly frightening’",
+    "link": "https://nypost.com/2026/03/08/business/inside-sports-business-execs-harrowing-escape-from-qatar-after-iranian-strikes/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-03-08-01-54-43 +0000",
+    "source": "nypost",
+    "headline": "Loud explosion rocks US embassy in Norway — after air defense system intercepted rockets over embassy in Baghdad",
+    "link": "https://nypost.com/2026/03/07/world-news/loud-explosion-heard-near-us-embassy-in-norway/"
   },
   {
     "score": 43,
@@ -28,25 +42,11 @@
     "link": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
   },
   {
-    "score": 40,
-    "pubdate": "2026-03-08-01-54-43 +0000",
-    "source": "nypost",
-    "headline": "Loud explosion rocks US embassy in Norway — after air defense system intercepted rockets over embassy in Baghdad",
-    "link": "https://nypost.com/2026/03/07/world-news/loud-explosion-heard-near-us-embassy-in-norway/"
-  },
-  {
     "score": 39,
     "pubdate": "2026-03-08-09-30-00 +0000",
     "source": "wsj",
     "headline": "The economy has seen an ugly week with the Iran war, reviving memories of stagflation; but it is better cushioned for oil shocks and sluggish job growth—with one big exception, writes WSJ’s Greg Ip",
     "link": "https://www.wsj.com/economy/why-the-oil-shock-probably-wont-derail-the-economy-and-one-way-it-might-c8603382"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-03-08-16-39-17 +0000",
-    "source": "nypost",
-    "headline": "Gas will be below $3 soon, Energy Secretary Wright says, as he insists US won’t target energy infrastructure in Iran",
-    "link": "https://nypost.com/2026/03/08/us-news/gas-will-be-below-3-soon-despite-strikes-on-iran-energy-secretary-says/"
   },
   {
     "score": 37,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/03/08/us-news/kennedy-urges-gop-free-range-chickens-to-pass-save-act/"
   },
   {
-    "score": 34,
+    "score": 31,
+    "pubdate": "2026-03-08-10-06-22 +0000",
+    "source": "nyt",
+    "headline": "Gen Z-Backed Rapper Is on Course to Lead Nepal With Landslide Win",
+    "link": "https://www.nytimes.com/2026/03/07/world/asia/nepal-election-rapper-balen-genz.html"
+  },
+  {
+    "score": 30,
     "pubdate": "2026-03-08-18-39-35 +0000",
     "source": "nyt",
     "headline": "Lebanese Villagers Bury Hezbollah Fighters, Praising Their Defiance of Israel",
     "link": "https://www.nytimes.com/2026/03/08/world/middleeast/lebanon-hezbollah-fighters-israel.html"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-03-08-04-36-12 +0000",
-    "source": "bbc",
-    "headline": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
-    "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss"
   }
 ]
