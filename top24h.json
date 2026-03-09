@@ -1,72 +1,72 @@
 [
   {
-    "score": 205,
-    "pubdate": "2026-03-08-00-33-40 +0000",
+    "score": 284,
+    "pubdate": "2026-03-09-00-27-00 +0000",
+    "source": "wsj",
+    "headline": "The appointment of Mojtaba Khamenei, son of slain Ayatollah Ali Khamenei, as Iran’s supreme leader defies Trump and signals that Tehran won’t back down as it fights a war with the U.S. and Israel",
+    "link": "https://www.wsj.com/world/middle-east/iran-signals-a-fight-to-the-end-with-appointment-of-khameneis-son-be4dc8ec"
+  },
+  {
+    "score": 99,
+    "pubdate": "2026-03-09-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "When President Trump voiced hope last weekend that the air war he was unleashing against Iran would topple the country’s regime, he was making a bet against history",
+    "link": "https://www.wsj.com/world/middle-east/u-s-and-israeli-military-campaign-tests-limits-of-air-power-4d17f790"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-03-09-00-41-27 +0000",
     "source": "nyt",
-    "headline": "Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks",
-    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/larijani-iran-war.html"
+    "headline": "Oil Prices Surge Above $100 a Barrel for the First Time in Almost Four Years",
+    "link": "https://www.nytimes.com/2026/03/08/business/energy-environment/oil-prices-iran-100-dollars-barrel.html"
   },
   {
-    "score": 94,
-    "pubdate": "2026-03-08-09-00-10 +0000",
-    "source": "wapo",
-    "headline": "Trump said he ended a war in Africa. U.S. sanctions say otherwise.",
-    "link": "https://www.washingtonpost.com/politics/2026/03/08/trump-war-rwanda-congo-sanctions/"
-  },
-  {
-    "score": 84,
-    "pubdate": "2026-03-08-12-18-51 +0000",
-    "source": "cbc",
-    "headline": "Iran names Khamenei's son Mojtaba as new supreme leader: state media",
-    "link": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-9-9.7119190?cmp=rss"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-03-08-12-11-40 +0000",
-    "source": "nypost",
-    "headline": "‘Toxic’ black rain pours down on Tehran, massive fireballs fill skies following Israeli strikes on oil storage sites",
-    "link": "https://nypost.com/2026/03/08/world-news/black-clouds-massive-fireballs-fill-tehran-skies-following-israeli-strikes-on-oil-storage-sites/"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-03-08-16-23-09 +0000",
-    "source": "nyt",
-    "headline": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame",
-    "link": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-03-08-01-54-43 +0000",
-    "source": "nypost",
-    "headline": "Loud explosion rocks US embassy in Norway — after air defense system intercepted rockets over embassy in Baghdad",
-    "link": "https://nypost.com/2026/03/07/world-news/loud-explosion-heard-near-us-embassy-in-norway/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-03-08-21-37-36 +0000",
-    "source": "nypost",
-    "headline": "NYC community board worker claims she was fired for being a ‘middle-aged white woman’",
-    "link": "https://nypost.com/2026/03/08/us-news/nyc-community-board-worker-claims-she-was-fired-for-being-a-middle-aged-white-woman/"
-  },
-  {
-    "score": 39,
+    "score": 52,
     "pubdate": "2026-03-08-17-07-27 +0000",
     "source": "nypost",
     "headline": "Furious Californians slam Gavin Newsom’s stealth plan that will bring even more gas price hikes: ‘Taxing us to death’",
     "link": "https://nypost.com/2026/03/08/us-news/californians-slam-gavin-newsom-stealth-plan-for-more-gas-hikes/"
   },
   {
-    "score": 33,
-    "pubdate": "2026-03-08-20-35-03 +0000",
+    "score": 50,
+    "pubdate": "2026-03-08-13-41-34 +0000",
+    "source": "nypost",
+    "headline": "New Nepali party led by ex-rapper is set for landslide election win",
+    "link": "https://nypost.com/2026/03/08/world-news/new-nepali-party-led-by-ex-rapper-is-set-for-landslide-election-win/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-03-08-16-14-47 +0000",
     "source": "nyt",
-    "headline": "U.S. Continues Airstrikes Against a Wide Array of Targets in Iran",
-    "link": "https://www.nytimes.com/2026/03/08/us/politics/airstrikes-iran.html"
+    "headline": "Israeli Strikes on Fuel Depots Send Black Clouds Over Iranian Capital",
+    "link": "https://www.nytimes.com/2026/03/08/world/middleeast/israeli-strikes-fuel-depots-tehran.html"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-03-08-18-32-37 +0000",
+    "source": "bbc",
+    "headline": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+    "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-03-08-16-23-09 +0000",
+    "source": "nyt",
+    "headline": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame",
+    "link": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
   },
   {
     "score": 32,
-    "pubdate": "2026-03-08-10-06-22 +0000",
-    "source": "nyt",
-    "headline": "Gen Z-Backed Rapper Is on Course to Lead Nepal With Landslide Win",
-    "link": "https://www.nytimes.com/2026/03/07/world/asia/nepal-election-rapper-balen-genz.html"
+    "pubdate": "2026-03-08-21-37-36 +0000",
+    "source": "nypost",
+    "headline": "NYC community board worker claims she was fired for being a ‘middle-aged white woman’",
+    "link": "https://nypost.com/2026/03/08/us-news/nyc-community-board-worker-claims-she-was-fired-for-being-a-middle-aged-white-woman/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-03-09-00-22-29 +0000",
+    "source": "nypost",
+    "headline": "Bomb-making paraphernalia found in car near where ISIS-inspired extremists tossed explosives outside Gracie Mansion",
+    "link": "https://nypost.com/2026/03/08/us-news/bomb-making-paraphernalia-found-in-vehicle-near-where-explosives-thrown-at-gracie-mansion-protest/"
   }
 ]
