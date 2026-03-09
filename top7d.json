@@ -1,38 +1,31 @@
 [
   {
-    "score": 620,
+    "score": 609,
     "pubdate": "2026-03-07-02-04-06 +0000",
     "source": "bbc",
     "headline": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
     "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 268,
-    "pubdate": "2026-03-08-12-18-51 +0000",
-    "source": "cbc",
-    "headline": "U.S.-Israeli war with Iran widens across Middle East, as Tehran nears naming new supreme leader",
-    "link": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-9-9.7119190?cmp=rss"
+    "score": 219,
+    "pubdate": "2026-03-08-22-39-50 +0000",
+    "source": "wapo",
+    "headline": "7th U.S. service member killed in war with Iran; Khamenei’s son named supreme leader",
+    "link": "https://www.washingtonpost.com/world/2026/03/08/iran-war-us-trump-israel-strikes/"
   },
   {
-    "score": 164,
+    "score": 160,
     "pubdate": "2026-03-03-14-00-00 +0000",
     "source": "latimes",
     "headline": "Struggling Democrats need to drop out of California's crowded governor race or risk a GOP win, party leader warns",
     "link": "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
   },
   {
-    "score": 155,
+    "score": 154,
     "pubdate": "2026-03-04-18-19-00 +0000",
     "source": "wsj",
     "headline": "Global authorities must step up their surveillance of lending by nonbank players such as hedge funds and institutional investors to minimize risks to financial stability, Bank of Canada Gov. Tiff Macklem said",
     "link": "https://www.wsj.com/economy/central-banking/regulators-need-to-play-catch-up-on-private-credit-risk-f14af2ec"
-  },
-  {
-    "score": 145,
-    "pubdate": "2026-03-06-20-37-00 +0000",
-    "source": "wsj",
-    "headline": "A rough February jobs report exposed just how much the U.S. has relied on health workers. Here’s a look at some of the key trends in the latest Labor Department Report",
-    "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
   },
   {
     "score": 144,
@@ -42,7 +35,21 @@
     "link": "https://www.wsj.com/politics/elections/texas-tony-gonzales-mike-johnson-reelection-b92eee44"
   },
   {
-    "score": 133,
+    "score": 141,
+    "pubdate": "2026-03-06-20-37-00 +0000",
+    "source": "wsj",
+    "headline": "A rough February jobs report exposed just how much the U.S. has relied on health workers. Here’s a look at some of the key trends in the latest Labor Department Report",
+    "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
+  },
+  {
+    "score": 138,
+    "pubdate": "2026-03-07-22-27-54 +0000",
+    "source": "nypost",
+    "headline": "Black, middle-class New Yorkers say they’d be victims of Democratic Socialists of America’s tax-hike plan",
+    "link": "https://nypost.com/2026/03/07/us-news/black-middle-class-new-yorkers-say-theyd-be-victims-of-dsas-proposed-tax-hikes/"
+  },
+  {
+    "score": 135,
     "pubdate": "2026-03-06-23-14-33 +0000",
     "source": "bbc",
     "headline": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2026/03/08/us-news/gas-will-be-below-3-soon-despite-strikes-on-iran-energy-secretary-says/"
   },
   {
-    "score": 94,
-    "pubdate": "2026-03-06-22-17-00 +0000",
-    "source": "wsj",
-    "headline": "A federal prosecutor is looking to build criminal cases against leaders of Cuba’s government and Communist Party, as Trump has openly suggested the country would be his next target for regime change",
-    "link": "https://www.wsj.com/politics/national-security/trump-doj-cuba-leaders-677b1a8c"
-  },
-  {
-    "score": 91,
-    "pubdate": "2026-03-08-19-34-44 +0000",
+    "score": 93,
+    "pubdate": "2026-03-07-21-37-03 +0000",
     "source": "nypost",
-    "headline": "Inside major sports business exec’s harrowing escape from Qatar after Iranian strikes: ‘Truly frightening’",
-    "link": "https://nypost.com/2026/03/08/business/inside-sports-business-execs-harrowing-escape-from-qatar-after-iranian-strikes/"
+    "headline": "Senior Iranian leader issues chilling warning to Trump following continued US-Israeli air strikes: ‘He must pay the price’",
+    "link": "https://nypost.com/2026/03/07/us-news/senior-iranian-leader-issues-chilling-warning-to-trump-following-continued-us-israeli-air-strikes/"
   }
 ]
