@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/economy/central-banking/is-inflation-cooling-or-stubbornly-high-both-can-be-true-9f541f78"
   },
   {
-    "score": 85,
+    "score": 83,
     "pubdate": "2026-03-09-09-30-00 +0000",
     "source": "wsj",
     "headline": "New York’s New Power Lunch is on the 37th Floor of an Office Building",
@@ -42,7 +42,7 @@
     "link": "https://nypost.com/2026/03/08/us-news/californians-slam-gavin-newsom-stealth-plan-for-more-gas-hikes/"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2026-03-09-11-30-53 +0000",
     "source": "nypost",
     "headline": "AI startup’s CEO threatened to call ex-NYC Mayor Eric Adams after getting fired over alleged fraudulent stock sales: court docs",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html"
   },
   {
-    "score": 38,
-    "pubdate": "2026-03-09-12-45-09 +0000",
-    "source": "bbc",
-    "headline": "Police release images of Oslo US embassy explosion suspect",
-    "link": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 37,
     "pubdate": "2026-03-09-10-00-00 +0000",
     "source": "latimes",
     "headline": "Candidates scramble, one quits, after redistricting shakes up California's congressional races",
     "link": "https://www.latimes.com/california/story/2026-03-09/candidates-scramble-after-redistricting-shakes-up-california-congressional-races"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-03-09-12-45-09 +0000",
+    "source": "bbc",
+    "headline": "Police release images of Oslo US embassy explosion suspect",
+    "link": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss"
   }
 ]
