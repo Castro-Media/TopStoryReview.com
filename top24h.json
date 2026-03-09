@@ -1,17 +1,24 @@
 [
   {
-    "score": 281,
+    "score": 299,
     "pubdate": "2026-03-09-00-27-00 +0000",
     "source": "wsj",
     "headline": "The appointment of Mojtaba Khamenei, son of slain Ayatollah Ali Khamenei, as Iran’s supreme leader defies Trump and signals that Tehran won’t back down as it fights a war with the U.S. and Israel",
     "link": "https://www.wsj.com/world/middle-east/iran-signals-a-fight-to-the-end-with-appointment-of-khameneis-son-be4dc8ec"
   },
   {
-    "score": 88,
+    "score": 93,
     "pubdate": "2026-03-09-01-00-00 +0000",
     "source": "wsj",
     "headline": "When President Trump voiced hope last weekend that the air war he was unleashing against Iran would topple the country’s regime, he was making a bet against history",
     "link": "https://www.wsj.com/world/middle-east/u-s-and-israeli-military-campaign-tests-limits-of-air-power-4d17f790"
+  },
+  {
+    "score": 67,
+    "pubdate": "2026-03-09-03-34-48 +0000",
+    "source": "nypost",
+    "headline": "Hegseth vows US will ‘go as far as we need’ to topple Iranian regime as conflict escalates — including possible ‘boots on ground’",
+    "link": "https://nypost.com/2026/03/08/us-news/hegseth-vows-he-and-trump-will-go-as-far-as-we-need-to-topple-iranian-regime-as-conflict-escalates/"
   },
   {
     "score": 57,
@@ -21,13 +28,6 @@
     "link": "https://www.nytimes.com/2026/03/08/business/energy-environment/oil-prices-iran-100-dollars-barrel.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-03-08-17-07-27 +0000",
-    "source": "nypost",
-    "headline": "Furious Californians slam Gavin Newsom’s stealth plan that will bring even more gas price hikes: ‘Taxing us to death’",
-    "link": "https://nypost.com/2026/03/08/us-news/californians-slam-gavin-newsom-stealth-plan-for-more-gas-hikes/"
-  },
-  {
     "score": 51,
     "pubdate": "2026-03-08-13-41-34 +0000",
     "source": "nypost",
@@ -35,18 +35,25 @@
     "link": "https://nypost.com/2026/03/08/world-news/new-nepali-party-led-by-ex-rapper-is-set-for-landslide-election-win/"
   },
   {
-    "score": 46,
+    "score": 43,
+    "pubdate": "2026-03-08-17-07-27 +0000",
+    "source": "nypost",
+    "headline": "Furious Californians slam Gavin Newsom’s stealth plan that will bring even more gas price hikes: ‘Taxing us to death’",
+    "link": "https://nypost.com/2026/03/08/us-news/californians-slam-gavin-newsom-stealth-plan-for-more-gas-hikes/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-03-08-23-32-56 +0000",
+    "source": "latimes",
+    "headline": "Rihanna at home as Beverly Hills-area mansion is hit by at least 10 rounds of gunfire, police say",
+    "link": "https://www.latimes.com/california/story/2026-03-08/rihanna-beverly-hills-mansion-is-struck-by-gunfire-source-says"
+  },
+  {
+    "score": 39,
     "pubdate": "2026-03-08-19-34-44 +0000",
     "source": "nypost",
     "headline": "Inside major sports business exec’s harrowing escape from Qatar after Iranian strikes: ‘Truly frightening’",
     "link": "https://nypost.com/2026/03/08/business/inside-sports-business-execs-harrowing-escape-from-qatar-after-iranian-strikes/"
-  },
-  {
-    "score": 41,
-    "pubdate": "2026-03-08-23-32-56 +0000",
-    "source": "latimes",
-    "headline": "Rihanna at home as Beverly Hills mansion is hit by at least 10 rounds of gunfire, police say",
-    "link": "https://www.latimes.com/california/story/2026-03-08/rihanna-beverly-hills-mansion-is-struck-by-gunfire-source-says"
   },
   {
     "score": 34,
@@ -56,17 +63,10 @@
     "link": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html"
   },
   {
-    "score": 29,
-    "pubdate": "2026-03-08-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: Culling the field for California governor?  Don't look at me, says Betty Yee",
-    "link": "https://www.latimes.com/politics/story/2026-03-08/california-governor-race-betty-yee-democrats-cull-field"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-03-08-18-32-37 +0000",
-    "source": "bbc",
-    "headline": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
-    "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss"
+    "score": 31,
+    "pubdate": "2026-03-09-04-01-19 +0000",
+    "source": "nyt",
+    "headline": "Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html"
   }
 ]
