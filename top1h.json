@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-03-09-10-09-19 +0000",
+    "score": 49,
+    "pubdate": "2026-03-09-11-19-20 +0000",
+    "source": "bbc",
+    "headline": "G7 nations to hold emergency meeting on oil as stock markets sink",
+    "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-09-11-04-00 +0000",
+    "source": "wsj",
+    "headline": "Ask members of Congress if the U.S. is at war with Iran, and suddenly a reticence to use the word “war” appears. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/when-is-a-war-not-a-war-when-congress-is-involved-e4ac6952"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-03-09-11-31-45 +0000",
+    "source": "nyt",
+    "headline": "Glasgow Train Station Is Shut Down After Fire Tears Through Neighboring Shop",
+    "link": "https://www.nytimes.com/2026/03/08/world/europe/glasgow-central-train-station-fire.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-09-11-30-53 +0000",
     "source": "nypost",
-    "headline": "Ukraine’s ‘dead cities’ creating an unlikely economic boom at the frontlines of Russian war",
-    "link": "https://nypost.com/2026/03/09/world-news/ukraines-dead-cities-creating-an-unlikely-economic-boom-at-the-frontlines-of-russian-war/"
+    "headline": "AI startup’s CEO threatened to call ex-NYC Mayor Eric Adams after getting fired over alleged fraudulent stock sales: court docs",
+    "link": "https://nypost.com/2026/03/09/business/ai-startups-ceo-threatened-to-call-ex-nyc-mayor-eric-adams-after-getting-fired-over-alleged-fraudulent-stock-sales-court-docs/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-09-11-41-00 +0000",
+    "source": "wsj",
+    "headline": "Wheat Approaches Two-Year High as Impact of Oil Price Surge Widens",
+    "link": "https://www.wsj.com/finance/commodities-futures/wheat-approaches-two-year-high-as-impact-of-oil-price-surge-widens-335e9896?mod=rss_markets_main"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-09-11-44-13 +0000",
+    "source": "nypost",
+    "headline": "Family of teacher killed in prank gone wrong wants charges against teens dropped ‘to prevent a separate tragedy’",
+    "link": "https://nypost.com/2026/03/09/us-news/family-of-georgia-teacher-killed-in-prank-gone-wrong-wants-charges-against-teens-dropped-to-prevent-a-separate-tragedy/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-09-11-12-14 +0000",
+    "source": "bbc",
+    "headline": "Anti-Muslim hatred definition will in 'no way' restrict free speech, says Reed",
+    "link": "https://www.bbc.com/news/articles/cewzqxg17yzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-09-11-07-47 +0000",
+    "source": "wapo",
+    "headline": "Oil prices spike over fears of prolonged conflict; Iran rallies around new leader",
+    "link": "https://www.washingtonpost.com/world/2026/03/09/iran-war-us-trump-israel-strikes/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-09-11-10-44 +0000",
+    "source": "nyt",
+    "headline": "Rebecca Solnit Says the Left’s Next Hero Is Already Here",
+    "link": "https://www.nytimes.com/2026/03/07/magazine/rebecca-solnit-interview.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-09-11-37-51 +0000",
+    "source": "nyt",
+    "headline": "Stocks Tank in Asia as Oil Price Surges",
+    "link": "https://www.nytimes.com/2026/03/09/business/stocks-iran-oil.html"
   }
 ]
