@@ -1,38 +1,38 @@
 [
   {
-    "score": 609,
+    "score": 619,
     "pubdate": "2026-03-10-03-15-14 +0000",
     "source": "nyt",
     "headline": "Trump Seeks to Calm Oil and Gas Markets but Says Iran War Will Go On",
     "link": "https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html"
   },
   {
-    "score": 209,
+    "score": 217,
+    "pubdate": "2026-03-10-11-24-12 +0000",
+    "source": "nypost",
+    "headline": "Trump says he doesn’t think new Iran leader Mojtaba Khamenei can ‘live in peace’",
+    "link": "https://nypost.com/2026/03/10/us-news/trump-says-he-doesnt-think-new-iran-leader-mojtaba-khamenei-can-live-in-peace/"
+  },
+  {
+    "score": 164,
     "pubdate": "2026-03-03-14-00-00 +0000",
     "source": "latimes",
     "headline": "Struggling Democrats need to drop out of California's crowded governor race or risk a GOP win, party leader warns",
     "link": "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
   },
   {
-    "score": 194,
-    "pubdate": "2026-03-10-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "New York’s New Superhero: The 37-Year-Old Woman Who Makes Trash Disappear",
-    "link": "https://www.wsj.com/us-news/new-york-trash-czar-ellen-baum-brooklyn-bridge-love-locks-afabc170"
-  },
-  {
-    "score": 154,
+    "score": 155,
     "pubdate": "2026-03-09-09-30-00 +0000",
     "source": "wsj",
     "headline": "The surge in oil and gasoline prices last week amid the Iran conflict has darkened the inflation outlook. It is coming at a time when the outlook was already more confused than usual.",
     "link": "https://www.wsj.com/economy/central-banking/is-inflation-cooling-or-stubbornly-high-both-can-be-true-9f541f78"
   },
   {
-    "score": 125,
-    "pubdate": "2026-03-06-05-05-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Tony Gonzales (R., Texas) said he wouldn’t seek re-election. The announcement came as House GOP leaders asked the lawmaker to quit his campaign after he admitted to an affair.",
-    "link": "https://www.wsj.com/politics/elections/texas-tony-gonzales-mike-johnson-reelection-b92eee44"
+    "score": 123,
+    "pubdate": "2026-03-09-03-56-54 +0000",
+    "source": "wapo",
+    "headline": "Video appears to show U.S. Tomahawk hit naval base near Iranian school",
+    "link": "https://www.washingtonpost.com/investigations/2026/03/08/iran-school-strike-video-tomahawk/"
   },
   {
     "score": 123,
@@ -42,31 +42,31 @@
     "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
   },
   {
-    "score": 120,
-    "pubdate": "2026-03-09-03-56-54 +0000",
-    "source": "wapo",
-    "headline": "Video appears to show U.S. Tomahawk hit naval base near Iranian school",
-    "link": "https://www.washingtonpost.com/investigations/2026/03/08/iran-school-strike-video-tomahawk/"
-  },
-  {
-    "score": 107,
-    "pubdate": "2026-03-08-12-18-51 +0000",
+    "score": 115,
+    "pubdate": "2026-03-10-11-43-50 +0000",
     "source": "cbc",
-    "headline": "Iran targets Gulf states, Israel as it keeps pressure on Middle East",
-    "link": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-11-9.7119190?cmp=rss"
+    "headline": "Dozens of Haitian civilians killed by police, security company drones in past year, Human Rights Watch says",
+    "link": "https://www.cbc.ca/news/world/haiti-drones-human-rights-watch-report-9.7121807?cmp=rss"
   },
   {
-    "score": 105,
-    "pubdate": "2026-03-10-10-30-00 +0000",
-    "source": "nypost",
-    "headline": "Why even Ayatollah Khamenei opposed his impotent nepobaby son Mojtaba from becoming Iran’s next supreme leader",
-    "link": "https://nypost.com/2026/03/10/world-news/ayatollah-khamenei-opposed-son-mojtaba-from-becoming-irans-next-supreme-leader/"
+    "score": 100,
+    "pubdate": "2026-03-06-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Companies that have been feeling the pinch from President Trump’s tariffs are scrambling to capitalize on the recent Supreme Court ruling",
+    "link": "https://www.wsj.com/economy/trade/tariffs-are-lower-and-businesses-are-racing-to-take-advantage-977bd276"
   },
   {
-    "score": 103,
+    "score": 94,
     "pubdate": "2026-03-09-16-33-34 +0000",
     "source": "nypost",
     "headline": "Ticketmaster parent Live Nation strikes deal with DOJ to settle antitrust suit— why judge was left fuming",
     "link": "https://nypost.com/2026/03/09/business/ticketmaster-parent-live-nation-strikes-deal-with-doj-to-settle-antitrust-suit/"
+  },
+  {
+    "score": 91,
+    "pubdate": "2026-03-09-21-52-00 +0000",
+    "source": "wsj",
+    "headline": "Lawrence Summers has lost his affiliation with America’s leading economics organization, the latest consequence for the former Treasury secretary stemming from his ties to the late Jeffrey Epstein",
+    "link": "https://www.wsj.com/us-news/education/national-bureau-of-economic-research-cuts-ties-with-larry-summers-8a738075"
   }
 ]
