@@ -1,16 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-03-10-13-13-13 +0000",
+    "score": 38,
+    "pubdate": "2026-03-10-14-43-40 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Hegseth Says Tuesday Will Be ‘Most Intense’ for U.S. Strikes on Iran",
-    "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel"
+    "headline": "What to Know About the Rising Price of Oil and Its Effects on Airline Ticket Prices",
+    "link": "https://www.nytimes.com/2026/03/10/travel/airline-prices-mideast-war.html"
   },
   {
-    "score": 9,
-    "pubdate": "2026-03-10-13-12-00 +0000",
+    "score": 26,
+    "pubdate": "2026-03-10-15-05-57 +0000",
+    "source": "nyt",
+    "headline": "New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran",
+    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-03-10-14-22-28 +0000",
+    "source": "wapo",
+    "headline": "Democrats argue Trump’s China policy risks ‘strategic failure’",
+    "link": "https://www.washingtonpost.com/national-security/2026/03/10/trump-china-democrats/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-10-14-18-52 +0000",
+    "source": "nyt",
+    "headline": "Rising Fuel Costs Pressure Airlines and Truckers",
+    "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/jet-fuel-diesel-airlines-truckers-iran.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-10-14-21-00 +0000",
     "source": "wsj",
-    "headline": "Saudi Aramco Could Restore Output Quickly Once Strait of Hormuz Reopens",
-    "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-raises-quartely-dividend-announces-3-billion-buyback-12501a37?mod=pls_whats_news_us_business_f"
+    "headline": "For Europe’s Central Banks, the Energy Spike Isn’t a Straight Rerun of 2022",
+    "link": "https://www.wsj.com/articles/for-europes-central-banks-the-energy-spike-isnt-a-straight-rerun-of-2022-ce7429d2"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-10-15-06-48 +0000",
+    "source": "nypost",
+    "headline": "Nearly 100 cops pack court as murder trial in slaying of NYPD hero Jonathan Diller gets underway",
+    "link": "https://nypost.com/2026/03/10/us-news/nearly-100-cops-pack-nyc-court-amid-murder-trial-in-slaying-of-nypd-officer-jonathan-diller/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-10-14-41-59 +0000",
+    "source": "nypost",
+    "headline": "Wayward, 1,300-pound NASA satellite to crash through Earth’s atmosphere Tuesday — here’s how dangerous it will be to the public",
+    "link": "https://nypost.com/2026/03/10/science/a-1300-pound-spacecraft-predicted-to-hit-earth-tuesday/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-10-14-22-03 +0000",
+    "source": "bbc",
+    "headline": "Canada police investigate reports of shots fired at US consulate in Toronto",
+    "link": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-10-14-16-27 +0000",
+    "source": "nyt",
+    "headline": "Unlike Past U.S. Conflicts, Iran Attack Is Opposed by Most Americans",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/polls-wars-us-support.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-10-14-58-39 +0000",
+    "source": "nypost",
+    "headline": "NYPD officer who jumped into action to tackle Gracie Mansion terror suspects lauded for heroically running toward danger",
+    "link": "https://nypost.com/2026/03/10/us-news/nypd-officer-who-jumped-into-action-to-tackle-gracie-mansion-terror-suspects-lauded-for-heroically-running-toward-danger/"
   }
 ]
