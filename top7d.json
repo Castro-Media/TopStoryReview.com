@@ -1,24 +1,17 @@
 [
   {
-    "score": 619,
+    "score": 618,
     "pubdate": "2026-03-10-03-15-14 +0000",
     "source": "nyt",
     "headline": "Trump Seeks to Calm Oil and Gas Markets but Says Iran War Will Go On",
     "link": "https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html"
   },
   {
-    "score": 217,
+    "score": 216,
     "pubdate": "2026-03-10-11-24-12 +0000",
     "source": "nypost",
     "headline": "Trump says he doesn’t think new Iran leader Mojtaba Khamenei can ‘live in peace’",
     "link": "https://nypost.com/2026/03/10/us-news/trump-says-he-doesnt-think-new-iran-leader-mojtaba-khamenei-can-live-in-peace/"
-  },
-  {
-    "score": 164,
-    "pubdate": "2026-03-03-14-00-00 +0000",
-    "source": "latimes",
-    "headline": "Struggling Democrats need to drop out of California's crowded governor race or risk a GOP win, party leader warns",
-    "link": "https://www.latimes.com/california/story/2026-03-03/california-democratic-leader-urges-weak-gubernatorial-hopefuls-to-bow-out"
   },
   {
     "score": 155,
@@ -26,6 +19,13 @@
     "source": "wsj",
     "headline": "The surge in oil and gasoline prices last week amid the Iran conflict has darkened the inflation outlook. It is coming at a time when the outlook was already more confused than usual.",
     "link": "https://www.wsj.com/economy/central-banking/is-inflation-cooling-or-stubbornly-high-both-can-be-true-9f541f78"
+  },
+  {
+    "score": 129,
+    "pubdate": "2026-03-06-00-05-26 +0000",
+    "source": "latimes",
+    "headline": "Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out",
+    "link": "https://www.latimes.com/california/story/2026-03-05/anxiety-grows-among-california-democrats-as-gubernatorial-candidates-rebuff-calls-to-drop-out"
   },
   {
     "score": 123,
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/economy/trade/tariffs-are-lower-and-businesses-are-racing-to-take-advantage-977bd276"
   },
   {
+    "score": 96,
+    "pubdate": "2026-03-06-22-17-00 +0000",
+    "source": "wsj",
+    "headline": "A federal prosecutor is looking to build criminal cases against leaders of Cuba’s government and Communist Party, as Trump has openly suggested the country would be his next target for regime change",
+    "link": "https://www.wsj.com/politics/national-security/trump-doj-cuba-leaders-677b1a8c"
+  },
+  {
     "score": 94,
     "pubdate": "2026-03-09-16-33-34 +0000",
     "source": "nypost",
     "headline": "Ticketmaster parent Live Nation strikes deal with DOJ to settle antitrust suit— why judge was left fuming",
     "link": "https://nypost.com/2026/03/09/business/ticketmaster-parent-live-nation-strikes-deal-with-doj-to-settle-antitrust-suit/"
-  },
-  {
-    "score": 91,
-    "pubdate": "2026-03-09-21-52-00 +0000",
-    "source": "wsj",
-    "headline": "Lawrence Summers has lost his affiliation with America’s leading economics organization, the latest consequence for the former Treasury secretary stemming from his ties to the late Jeffrey Epstein",
-    "link": "https://www.wsj.com/us-news/education/national-bureau-of-economic-research-cuts-ties-with-larry-summers-8a738075"
   }
 ]
