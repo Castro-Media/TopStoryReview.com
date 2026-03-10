@@ -1,13 +1,13 @@
 [
   {
-    "score": 348,
+    "score": 343,
     "pubdate": "2026-03-10-03-15-14 +0000",
     "source": "nyt",
     "headline": "Trump Seeks to Calm Oil and Gas Markets but Says Iran War Will Go On",
     "link": "https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html"
   },
   {
-    "score": 101,
+    "score": 95,
     "pubdate": "2026-03-09-23-24-31 +0000",
     "source": "nyt",
     "headline": "Oil Prices and Stocks Swing Wildly as Iran and Israel Launch New Strikes",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/03/10/world-news/australia-grants-asylum-to-5-members-of-the-iranian-womens-soccer-team/"
   },
   {
-    "score": 74,
+    "score": 67,
     "pubdate": "2026-03-10-18-22-01 +0000",
     "source": "nypost",
     "headline": "Frantic parents of NYC’s alleged ISIS-loving wannabe bomber feared he ‘killed himself’ when he vanished from home: report",
@@ -35,18 +35,11 @@
     "link": "https://www.wsj.com/us-news/education/national-bureau-of-economic-research-cuts-ties-with-larry-summers-8a738075"
   },
   {
-    "score": 60,
+    "score": 56,
     "pubdate": "2026-03-10-01-05-33 +0000",
     "source": "nyt",
     "headline": "Iran Choosing Mojtaba Khamenei as Supreme Leader Signals Defiance Amid War",
     "link": "https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-03-10-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "DTLA law firm co-founder faces California State Bar charges for alleged out-of-state practice",
-    "link": "https://www.latimes.com/california/story/2026-03-10/dtla-law-firm-co-founder-faces-california-state-bar-charges"
   },
   {
     "score": 54,
@@ -61,6 +54,13 @@
     "source": "bbc",
     "headline": "Family of child injured in Canada school shooting sues OpenAI",
     "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-03-10-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "DTLA law firm co-founder faces California State Bar charges for alleged out-of-state practice",
+    "link": "https://www.latimes.com/california/story/2026-03-10/dtla-law-firm-co-founder-faces-california-state-bar-charges"
   },
   {
     "score": 47,
