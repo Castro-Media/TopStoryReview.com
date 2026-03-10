@@ -1,54 +1,5 @@
 [
   {
-    "score": 41,
-    "pubdate": "2026-03-10-18-59-21 +0000",
-    "source": "nyt",
-    "headline": "France Bolsters Efforts to Repatriate Citizens Stranded by Iran War",
-    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/france-repatriation-flights-iran-crisis.html"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-03-10-18-54-57 +0000",
-    "source": "nyt",
-    "headline": "Higher Oil Prices Could Put the Fed in a Bind as Labor Market Softens",
-    "link": "https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-03-10-18-27-41 +0000",
-    "source": "nyt",
-    "headline": "Senate Moves Toward Passing Sweeping Housing Bill, but Challenges Lie Ahead",
-    "link": "https://www.nytimes.com/2026/03/10/us/politics/senate-housing-bill.html"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-03-10-18-51-50 +0000",
-    "source": "nypost",
-    "headline": "Google’s Sergey Brin backs rival candidates in race to succeed  California Gov. Gavin Newsom",
-    "link": "https://nypost.com/2026/03/10/business/googles-sergey-brin-backs-rival-candidates-in-race-to-succeed-california-gov-gavin-newsom/"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-03-10-18-29-23 +0000",
-    "source": "nypost",
-    "headline": "Sen. John Kennedy apologizes for Iran school strike after Trump suggests enemy misfire",
-    "link": "https://nypost.com/2026/03/10/us-news/sen-john-kennedy-apologizes-for-iran-school-strike-that-white-house-has-yet-to-confirm/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-03-10-18-26-33 +0000",
-    "source": "bbc",
-    "headline": "Canada police investigate after shots fired at US consulate in Toronto",
-    "link": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-03-10-18-22-01 +0000",
-    "source": "nypost",
-    "headline": "Frantic parents of NYC’s alleged ISIS-loving wannabe bomber feared he ‘killed himself’ when he vanished from home: report",
-    "link": "https://nypost.com/2026/03/10/us-news/parents-of-nycs-alleged-isis-loving-wannabe-bomber-say-they-were-clueless-about-plot-feared-he-killed-himself-report/"
-  },
-  {
     "score": 18,
     "pubdate": "2026-03-10-19-03-00 +0000",
     "source": "wsj",
@@ -56,17 +7,52 @@
     "link": "https://www.wsj.com/business/rio-tinto-secures-almost-1-2-billion-in-financing-for-argentina-lithium-project-04e40461?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 18,
-    "pubdate": "2026-03-10-18-40-19 +0000",
-    "source": "nypost",
-    "headline": "Beloved convenience store chain Buc-ee’s gets ‘F’ grade after racking up customer complaints: ‘Worst thing he’s ever ate’",
-    "link": "https://nypost.com/2026/03/10/business/beloved-convenience-store-chain-buc-ees-gets-f-grade-after-racking-up-customer-complaints/"
+    "score": 17,
+    "pubdate": "2026-03-10-19-05-08 +0000",
+    "source": "nyt",
+    "headline": "Unlike Past U.S. Conflicts, Iran Attack Is Opposed by Most Americans",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/polls-wars-us-support.html"
   },
   {
-    "score": 17,
-    "pubdate": "2026-03-10-18-33-03 +0000",
-    "source": "bbc",
-    "headline": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel",
-    "link": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss"
+    "score": 9,
+    "pubdate": "2026-03-10-19-06-50 +0000",
+    "source": "nyt",
+    "headline": "Gov. Kay Ivey Commutes Death Sentence of Charles ‘Sonny’ Burton",
+    "link": "https://www.nytimes.com/2026/03/10/us/alabama-ivey-charles-burton.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-10-19-06-41 +0000",
+    "source": "nyt",
+    "headline": "USA Today Names Jamie Stockwell as Next Top Editor",
+    "link": "https://www.nytimes.com/2026/03/10/business/media/usa-today-jamie-stockwell-top-editor.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-10-19-04-40 +0000",
+    "source": "nyt",
+    "headline": "Iran Live Updates: Nearly 700,000 Flee Israeli Strikes in Lebanon",
+    "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-10-19-04-21 +0000",
+    "source": "nyt",
+    "headline": "Tell Us About How You Pursue Happiness",
+    "link": "https://www.nytimes.com/2026/03/10/us/pursuit-of-happiness.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-10-19-05-08 +0000",
+    "source": "nyt",
+    "headline": "Unlike Past U.S. Conflicts, Iran Attack Is Opposed by Most Americans",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/polls-wars-us-support.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-10-19-03-00 +0000",
+    "source": "wsj",
+    "headline": "Rio Tinto Secures Almost $1.2 Billion in Financing for Argentina Lithium Project",
+    "link": "https://www.wsj.com/business/rio-tinto-secures-almost-1-2-billion-in-financing-for-argentina-lithium-project-04e40461?mod=rss_markets_main"
   }
 ]
