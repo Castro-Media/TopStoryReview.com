@@ -1,16 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-03-11-17-08-30 +0000",
+    "score": 57,
+    "pubdate": "2026-03-11-18-39-54 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Coalition of 32 Countries to Tap Oil Reserves to Keep Prices in Check",
-    "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel"
+    "headline": "World Leaders Will Release 400 Million Barrels of Oil to Stabilize Prices",
+    "link": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-03-11-17-09-46 +0000",
+    "score": 47,
+    "pubdate": "2026-03-11-18-23-34 +0000",
+    "source": "nypost",
+    "headline": "Faulty US targeting intel was to blame for strike on Iran girls school that killed 175: report",
+    "link": "https://nypost.com/2026/03/11/us-news/faulty-us-targeting-intel-was-to-blame-for-strike-on-iran-girls-school-that-killed-175-report/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-03-11-18-56-28 +0000",
+    "source": "nypost",
+    "headline": "Jennifer Siebel Newsom gloats about new doc —after The Post revealed how her husband uses a murky loophole to fund her pet projects",
+    "link": "https://nypost.com/2026/03/11/us-news/jennifer-siebel-newsom-gloats-about-new-gender-documentary/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-03-11-19-02-06 +0000",
     "source": "nyt",
-    "headline": "Trump Administration to Announce New Trade Investigations",
-    "link": "https://www.nytimes.com/2026/03/11/business/economy/trump-trade-investigations-tariffs.html"
+    "headline": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/uk-police-epstein-giuffre-maxwell-prince-andrew.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-03-11-18-19-57 +0000",
+    "source": "nyt",
+    "headline": "Thune Is in a Vise as Trump and the Far Right Demand a Fight on SAVE America Act",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/thune-trump-voter-bill-senate.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-03-11-18-30-25 +0000",
+    "source": "bbc",
+    "headline": "Canadian PM Mark Carney inches closer to majority, as fourth MP defects to Liberals",
+    "link": "https://www.bbc.com/news/articles/c0e5jwz0703o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-03-11-18-53-00 +0000",
+    "source": "wsj",
+    "headline": "Sen. John Cornyn of Texas reversed himself and said he would support changes to the longstanding Senate filibuster rule that requires 60 votes to advance most legislation",
+    "link": "https://www.wsj.com/politics/policy/john-cornyn-filibuster-texas-senator-3b918639"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-11-18-54-29 +0000",
+    "source": "nypost",
+    "headline": "Shock poll shows majority of LA voters balk at supporting Karen Bass",
+    "link": "https://nypost.com/2026/03/11/us-news/majority-of-la-voters-undecided-on-supporting-karen-bass-new-poll-shows/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-11-18-28-46 +0000",
+    "source": "bbc",
+    "headline": "Three brothers arrested after explosion at US embassy in Oslo",
+    "link": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-11-19-04-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Natural Gas Gains With Middle East Conflict in View",
+    "link": "https://www.wsj.com/articles/european-gas-rises-as-qatar-lng-halt-ripples-through-market-1b9494bf?mod=pls_whats_news_us_business_f"
   }
 ]
