@@ -1,17 +1,10 @@
 [
   {
-    "score": 25,
+    "score": 22,
     "pubdate": "2026-03-11-04-17-34 +0000",
     "source": "nyt",
     "headline": "New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
     "link": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-03-11-04-13-40 +0000",
-    "source": "bbc",
-    "headline": "Katy Perry loses trademark case against Australian designer Katie Perry",
-    "link": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 13,
@@ -21,39 +14,11 @@
     "link": "https://nypost.com/2026/03/11/us-news/karen-bass-orders-strategic-lapd-deployment-in-dtla-after-mob-storms-luxury-circa-apartments/"
   },
   {
-    "score": 11,
-    "pubdate": "2026-03-11-04-01-05 +0000",
-    "source": "nyt",
-    "headline": "Ukraine Can Now Manufacture ‘China-Free’ Drones",
-    "link": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html"
-  },
-  {
     "score": 10,
     "pubdate": "2026-03-11-04-25-12 +0000",
     "source": "nypost",
     "headline": "11 injured, 1 killed in multi-vehicle pileup involving FDNY truck on NYC street",
     "link": "https://nypost.com/2026/03/11/us-news/11-injured-1-killed-in-multi-vehicle-pileup-involving-fdny-truck-on-nyc-street/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-11-04-14-40 +0000",
-    "source": "bbc",
-    "headline": "Member of Iranian football delegation granted Australian asylum changes her mind",
-    "link": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-11-04-00-38 +0000",
-    "source": "startribune",
-    "headline": "Wild shut out Mammoth 5-0 behind Filip Gustavsson’s 25 saves",
-    "link": "https://www.startribune.com/minnesota-wild-utah-mammoth-kirill-kaprizov-filip-gustavsson-bobby-brink/601588393"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-11-03-53-31 +0000",
-    "source": "nypost",
-    "headline": "California college groups back U.S. and Israel in Iran war, call for ‘free Iran’",
-    "link": "https://nypost.com/2026/03/10/us-news/california-college-groups-back-u-s-and-israel-in-iran-war-call-for-free-iran/"
   },
   {
     "score": 7,
@@ -63,10 +28,10 @@
     "link": "https://www.startribune.com/minnesota-vikings-nfl-free-agency-2026-live-updates/601593308"
   },
   {
-    "score": 6,
-    "pubdate": "2026-03-11-03-58-33 +0000",
-    "source": "startribune",
-    "headline": "After a taste of spring, ice and snow sweep Minnesota",
-    "link": "https://www.startribune.com/after-a-taste-of-spring-here-comes-more-ice-and-snow/601595967"
+    "score": 0,
+    "pubdate": "2026-03-11-04-17-34 +0000",
+    "source": "nyt",
+    "headline": "New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html"
   }
 ]
