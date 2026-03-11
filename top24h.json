@@ -1,6 +1,6 @@
 [
   {
-    "score": 339,
+    "score": 343,
     "pubdate": "2026-03-11-02-00-00 +0000",
     "source": "wsj",
     "headline": "Iran is exporting more oil through the Strait of Hormuz than before the war, showing it is in control of a strategic waterway that it has closed off to the rest of the region’s oil producers",
@@ -14,18 +14,32 @@
     "link": "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html"
   },
   {
-    "score": 89,
+    "score": 100,
+    "pubdate": "2026-03-11-04-17-34 +0000",
+    "source": "nyt",
+    "headline": "New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-03-10-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "What soaring gas prices mean for California's EV market",
+    "link": "https://www.latimes.com/business/story/2026-03-10/what-soaring-gas-prices-mean-for-californias-ev-market"
+  },
+  {
+    "score": 65,
     "pubdate": "2026-03-10-09-16-08 +0000",
     "source": "nypost",
     "headline": "Five members of Iranian women’s soccer team granted asylum by Australia",
     "link": "https://nypost.com/2026/03/10/world-news/australia-grants-asylum-to-5-members-of-the-iranian-womens-soccer-team/"
   },
   {
-    "score": 65,
-    "pubdate": "2026-03-10-20-25-13 +0000",
-    "source": "nyt",
-    "headline": "Higher Oil Prices Could Put the Fed in a Bind as Labor Market Softens",
-    "link": "https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html"
+    "score": 59,
+    "pubdate": "2026-03-10-22-31-00 +0000",
+    "source": "wsj",
+    "headline": "OpenAI Faces Lawsuit Over Safety Protocols Ahead of Canada School Shooting",
+    "link": "https://www.wsj.com/tech/openai-faces-lawsuit-over-safety-protocols-ahead-of-canada-school-shooting-65293e39"
   },
   {
     "score": 59,
@@ -35,32 +49,11 @@
     "link": "https://nypost.com/2026/03/10/us-news/georgia-special-election-to-fill-house-seat-vacated-by-marjorie-taylor-greene-heads-to-to-runoff/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-03-10-22-31-00 +0000",
-    "source": "wsj",
-    "headline": "OpenAI Faces Lawsuit Over Safety Protocols Ahead of Canada School Shooting",
-    "link": "https://www.wsj.com/tech/openai-faces-lawsuit-over-safety-protocols-ahead-of-canada-school-shooting-65293e39"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-03-10-22-24-14 +0000",
-    "source": "nypost",
-    "headline": "GOP gubernatorial hopeful Steve Hilton issues impassioned plea to California’s gas execs: ‘Do not give up’",
-    "link": "https://nypost.com/2026/03/10/us-news/steve-hilton-issues-impassioned-plea-to-californias-gas-execs-do-not-give-up/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-03-10-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "New York’s New Superhero: The 37-Year-Old Woman Who Makes Trash Disappear",
-    "link": "https://www.wsj.com/us-news/new-york-trash-czar-ellen-baum-brooklyn-bridge-love-locks-afabc170"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-03-10-19-27-36 +0000",
-    "source": "nyt",
-    "headline": "Pakistan Sends Navy Escort for Its Ships in the Middle East",
-    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html"
+    "score": 49,
+    "pubdate": "2026-03-10-11-43-50 +0000",
+    "source": "cbc",
+    "headline": "Dozens of Haitian civilians killed by police, security company drones in past year, Human Rights Watch says",
+    "link": "https://www.cbc.ca/news/world/haiti-drones-human-rights-watch-report-9.7121807?cmp=rss"
   },
   {
     "score": 47,
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Hegseth threatens 'most intense day of strikes' as Iran war injures about 140 Americans",
     "link": "https://www.latimes.com/world-nation/story/2026-03-10/iran-war-intense-day-of-strikes"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-03-10-19-27-36 +0000",
+    "source": "nyt",
+    "headline": "Pakistan Sends Navy Escort for Its Ships in the Middle East",
+    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html"
   }
 ]
