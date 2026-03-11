@@ -15,10 +15,10 @@
   },
   {
     "score": 152,
-    "pubdate": "2026-03-10-09-30-00 +0000",
+    "pubdate": "2026-03-09-12-21-00 +0000",
     "source": "wsj",
-    "headline": "New York’s New Superhero: The 37-Year-Old Woman Who Makes Trash Disappear",
-    "link": "https://www.wsj.com/us-news/new-york-trash-czar-ellen-baum-brooklyn-bridge-love-locks-afabc170"
+    "headline": "Eric Trump and Donald Trump Jr. are backing Powerus, a drone company vying to meet Pentagon demand and fill a hole left by the administration’s ban on new Chinese drones in the U.S.",
+    "link": "https://www.wsj.com/politics/national-security/trump-sons-back-new-drone-company-targeting-pentagon-sales-2f74abca"
   },
   {
     "score": 138,
@@ -28,11 +28,18 @@
     "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
   },
   {
-    "score": 128,
-    "pubdate": "2026-03-06-00-05-26 +0000",
+    "score": 135,
+    "pubdate": "2026-03-05-02-15-00 +0000",
+    "source": "wsj",
+    "headline": "Sen. Steve Daines of Montana, a close ally of President Trump, said he wouldn’t run for re-election this year, formally exiting the race shortly before the filing deadline for candidates in his state",
+    "link": "https://www.wsj.com/politics/elections/trump-ally-steve-daines-leaves-senate-race-just-ahead-of-deadline-86f11d88"
+  },
+  {
+    "score": 126,
+    "pubdate": "2026-03-06-00-14-39 +0000",
     "source": "latimes",
-    "headline": "Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out",
-    "link": "https://www.latimes.com/california/story/2026-03-05/anxiety-grows-among-california-democrats-as-gubernatorial-candidates-rebuff-calls-to-drop-out"
+    "headline": "Satellite photos show California's sudden snowpack meltdown: Now you see it, now you don't",
+    "link": "https://www.latimes.com/california/story/2026-03-05/satellite-photos-california-snowpack-early-meltdown"
   },
   {
     "score": 124,
@@ -42,28 +49,21 @@
     "link": "https://www.bbc.co.uk/programmes/p0n5vrfw?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 114,
-    "pubdate": "2026-03-06-05-05-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Tony Gonzales (R., Texas) said he wouldn’t seek re-election. The announcement came as House GOP leaders asked the lawmaker to quit his campaign after he admitted to an affair.",
-    "link": "https://www.wsj.com/politics/elections/texas-tony-gonzales-mike-johnson-reelection-b92eee44"
-  },
-  {
-    "score": 94,
-    "pubdate": "2026-03-09-12-21-00 +0000",
-    "source": "wsj",
-    "headline": "Eric Trump and Donald Trump Jr. are backing Powerus, a drone company vying to meet Pentagon demand and fill a hole left by the administration’s ban on new Chinese drones in the U.S.",
-    "link": "https://www.wsj.com/politics/national-security/trump-sons-back-new-drone-company-targeting-pentagon-sales-2f74abca"
-  },
-  {
-    "score": 94,
-    "pubdate": "2026-03-10-09-58-00 +0000",
-    "source": "wsj",
-    "headline": "China’s shipments of goods abroad surged at the beginning of the year and its trade surplus rose, showing the country’s export juggernaut is chugging ahead of President Trump’s visit",
-    "link": "https://www.wsj.com/economy/trade/chinas-exports-surge-in-first-two-months-of-year-96ab6abb"
-  },
-  {
     "score": 93,
+    "pubdate": "2026-03-11-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "The World Needs These Two Middle East Pipelines Now More Than Ever",
+    "link": "https://www.wsj.com/world/middle-east/the-world-needs-these-two-middle-east-pipelines-now-more-than-ever-e8447adb"
+  },
+  {
+    "score": 92,
+    "pubdate": "2026-03-10-22-31-00 +0000",
+    "source": "wsj",
+    "headline": "OpenAI Faces Lawsuit Over Safety Protocols Ahead of Canada School Shooting",
+    "link": "https://www.wsj.com/tech/openai-faces-lawsuit-over-safety-protocols-ahead-of-canada-school-shooting-65293e39"
+  },
+  {
+    "score": 92,
     "pubdate": "2026-03-04-22-28-44 +0000",
     "source": "latimes",
     "headline": "Top tech companies sign Trump's pledge to provide their own power for AI data centers",
