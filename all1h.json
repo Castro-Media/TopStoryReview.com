@@ -1,14 +1,434 @@
 [
   {
-    "headline": "Live Updates: Japan and Germany to Release Oil as War in Iran Threatens Global Supply",
+    "headline": "U.S. Inflation Stayed Subdued Before Onset of Iran War",
+    "link": "https://www.nytimes.com/2026/03/11/business/economy/cpi-inflation.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-15-06-57 +0000"
+  },
+  {
+    "headline": "U.S. Inflation Stayed Subdued Before Onset of Iran War",
+    "link": "https://www.nytimes.com/2026/03/11/business/economy/cpi-inflation.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-15-06-57 +0000"
+  },
+  {
+    "headline": "Sen. Ron Johnson demands filibuster test vote to get Dems ‘on the record’",
+    "link": "https://nypost.com/2026/03/11/us-news/sen-ron-johnson-demands-filibuster-test-vote-to-get-dems-on-the-record/",
+    "source": "nypost",
+    "pubdate": "2026-03-11-15-05-35 +0000"
+  },
+  {
+    "headline": "Sen. Ron Johnson demands filibuster test vote to get Dems ‘on the record’",
+    "link": "https://nypost.com/2026/03/11/us-news/sen-ron-johnson-demands-filibuster-test-vote-to-get-dems-on-the-record/",
+    "source": "nypost",
+    "pubdate": "2026-03-11-15-05-35 +0000"
+  },
+  {
+    "headline": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-ff02908f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-15-05-00 +0000"
+  },
+  {
+    "headline": "Lufthansa Says More Than Half of Flights Will Run Thursday, Friday, Despite Planned Strike",
+    "link": "https://www.wsj.com/business/airlines/lufthansa-says-more-than-half-of-flights-will-run-thursday-friday-despite-planned-strike-8f686400?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-15-05-00 +0000"
+  },
+  {
+    "headline": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-ff02908f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-15-05-00 +0000"
+  },
+  {
+    "headline": "No evidence Swiss bus fire was terrorism, officials say",
+    "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-15-04-47 +0000"
+  },
+  {
+    "headline": "No evidence Swiss bus fire was terrorism, officials say",
+    "link": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-15-04-47 +0000"
+  },
+  {
+    "headline": "Live Updates: Starmer Was Warned About Risk of Appointing Friend of Epstein As Ambassador",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk",
+    "source": "nyt",
+    "pubdate": "2026-03-11-15-03-07 +0000"
+  },
+  {
+    "headline": "Liberals are elated while Poilievre accuses Carney of ‘backroom deals’ after NDP defection",
+    "link": "https://www.cbc.ca/news/politics/lori-idlout-floor-crossing-liberals-elated-conservatives-fume-9.7123932?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-11-15-01-54 +0000"
+  },
+  {
+    "headline": "U.S. Gas Prices Jump for 11th Straight Day, and Oil Pushes Higher",
+    "link": "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-15-01-10 +0000"
+  },
+  {
+    "headline": "Live Updates: 32 Countries to Release 400 Million Barrels of Oil to Help Shore Up Supply",
     "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
     "source": "nyt",
-    "pubdate": "2026-03-11-13-13-26 +0000"
+    "pubdate": "2026-03-11-15-00-42 +0000"
+  },
+  {
+    "headline": "One Member of Iranian Soccer Squad Abandons Asylum Bid in Australia",
+    "link": "https://www.nytimes.com/2026/03/10/world/asia/iran-soccer-women-asylum-australia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-15-00-22 +0000"
+  },
+  {
+    "headline": "One Member of Iranian Soccer Squad Abandons Asylum Bid in Australia",
+    "link": "https://www.nytimes.com/2026/03/10/world/asia/iran-soccer-women-asylum-australia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-15-00-22 +0000"
+  },
+  {
+    "headline": "Rivian CEO’s AI-Powered Robotics Startup Raises $500 Million",
+    "link": "https://www.wsj.com/business/entrepreneurship/rivian-ceos-ai-powered-robotics-startup-raises-500-million-0edc0209?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-15-00-00 +0000"
+  },
+  {
+    "headline": "Surly Brewing’s 2026 concert season just got a big boost",
+    "link": "https://www.startribune.com/surly-brewing-festival-field-announces-alabama-shakes-big-thief-2026-concerts-minneapolis-tickets/601596226",
+    "source": "startribune",
+    "pubdate": "2026-03-11-15-00-00 +0000"
+  },
+  {
+    "headline": "Oakland mass shooting caught on horrific video — as victims identified",
+    "link": "https://nypost.com/2026/03/11/us-news/oakland-mass-shooting-caught-on-horrific-video-victims-named/",
+    "source": "nypost",
+    "pubdate": "2026-03-11-14-58-19 +0000"
+  },
+  {
+    "headline": "Nations agree to release oil reserves as war in Iran hits global economy",
+    "link": "https://www.washingtonpost.com/world/2026/03/11/strait-hormuz-cargo-ships-iran/",
+    "source": "wapo",
+    "pubdate": "2026-03-11-14-55-44 +0000"
+  },
+  {
+    "headline": "Latest floor crossing puts Liberal majority within grasp — but Carney could still hit snags",
+    "link": "https://www.cbc.ca/news/politics/carney-house-hurdles-majority-9.7123815?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-11-14-54-31 +0000"
+  },
+  {
+    "headline": "Officials denied entry aboard Carnival cruise ship after complaints of ‘horrifying’ conditions",
+    "link": "https://nypost.com/2026/03/11/world-news/officials-denied-boarding-of-major-cruise-ship-in-sydney/",
+    "source": "nypost",
+    "pubdate": "2026-03-11-14-54-06 +0000"
+  },
+  {
+    "headline": "The Economic Winners and Losers of the Iran War",
+    "link": "https://www.wsj.com/business/energy-oil/the-economic-winners-and-losers-of-the-iran-war-0873ac27?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-54-00 +0000"
+  },
+  {
+    "headline": "The Economic Winners and Losers of the Iran War",
+    "link": "https://www.wsj.com/business/energy-oil/the-economic-winners-and-losers-of-the-iran-war-0873ac27?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-54-00 +0000"
+  },
+  {
+    "headline": "The economic shock waves of the Iran war are leaving no part of the world untouched. Here’s which countries could be hit hardest and who stands to benefit.",
+    "link": "https://www.wsj.com/business/energy-oil/the-economic-winners-and-losers-of-the-iran-war-0873ac27",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-54-00 +0000"
+  },
+  {
+    "headline": "Trump Documents Missing in Epstein Files Highlight DOJ’s Missteps",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-51-23 +0000"
+  },
+  {
+    "headline": "Trump Documents Missing in Epstein Files Highlight DOJ’s Missteps",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-51-23 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-51-16 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-51-16 +0000"
+  },
+  {
+    "headline": "Rheinmetall Expects Sales Surge as Europe Rearms, Anti-Drone Demand Grows",
+    "link": "https://www.wsj.com/business/earnings/rheinmetalls-results-miss-forecasts-despite-soaring-sales-7ff851bb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-51-00 +0000"
+  },
+  {
+    "headline": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-50-26 +0000"
+  },
+  {
+    "headline": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-50-26 +0000"
+  },
+  {
+    "headline": "See where U.S. installations have been damaged in the war with Iran.",
+    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/see-where-us-installations-have-been-damaged-in-the-war-with-iran",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-49-49 +0000"
+  },
+  {
+    "headline": "See where U.S. installations have been damaged in the war with Iran.",
+    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/see-where-us-installations-have-been-damaged-in-the-war-with-iran",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-49-49 +0000"
+  },
+  {
+    "headline": "Trump Administration Restarts Global Entry Program",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/global-entry-dhs-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-48-16 +0000"
+  },
+  {
+    "headline": "Trump Administration Restarts Global Entry Program",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/global-entry-dhs-shutdown.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-48-16 +0000"
+  },
+  {
+    "headline": "Precious Metals Lower as War Uncertainty Clouds Outlook",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-as-it-faces-opposing-forces-26b7c203?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-46-00 +0000"
+  },
+  {
+    "headline": "Here’s what to know.",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk/heres-what-to-know",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-44-59 +0000"
+  },
+  {
+    "headline": "Here’s what to know.",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk/heres-what-to-know",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-44-59 +0000"
+  },
+  {
+    "headline": "Oil Little Changed After IEA Confirmed Huge Release of Oil Reserves",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-mixed-as-traders-digest-ieas-proposal-to-release-strategic-reserves-fdc8e3dc?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-42-00 +0000"
+  },
+  {
+    "headline": "World Heritage Sites Hit in Airstrikes on Iran",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-40-17 +0000"
+  },
+  {
+    "headline": "World Heritage Sites Hit in Airstrikes on Iran",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-40-17 +0000"
+  },
+  {
+    "headline": "Campbell’s Cuts Outlook as Snack Sales Fall",
+    "link": "https://www.wsj.com/business/retail/campbells-cuts-outlook-as-snack-sales-fall-0bf77849?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-38-00 +0000"
+  },
+  {
+    "headline": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+    "link": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-14-35-31 +0000"
+  },
+  {
+    "headline": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+    "link": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-14-35-31 +0000"
+  },
+  {
+    "headline": "IEA Will Launch Largest-Ever Oil Release From Global Strategic Reserves",
+    "link": "https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-34-00 +0000"
+  },
+  {
+    "headline": "IEA Will Launch Largest-Ever Oil Release From Global Strategic Reserves",
+    "link": "https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-34-00 +0000"
+  },
+  {
+    "headline": "IEA Will Launch Largest-Ever Oil Release From Global Strategic Reserves",
+    "link": "https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-34-00 +0000"
+  },
+  {
+    "headline": "Countries agree to record release of emergency oil reserves as prices surge",
+    "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-14-30-40 +0000"
+  },
+  {
+    "headline": "Countries agree to record release of emergency oil reserves as prices surge",
+    "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-14-30-40 +0000"
+  },
+  {
+    "headline": "Countries agree to record release of emergency oil reserves as prices surge",
+    "link": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-14-30-40 +0000"
+  },
+  {
+    "headline": "Jarring video shows victim’s POV after migrant suspect shoved 2 onto subway tracks — leaving 83-year-old fighting for his life",
+    "link": "https://nypost.com/2026/03/11/us-news/migrant-accused-of-shoving-83-year-old-another-man-onto-subway-tracks-calmly-walked-away-after-crime-video/",
+    "source": "nypost",
+    "pubdate": "2026-03-11-14-28-26 +0000"
+  },
+  {
+    "headline": "Kamala Harris cancels California book tour amid criticism of taxpayer-funded security",
+    "link": "https://nypost.com/2026/03/11/us-news/kamala-harris-cancels-california-stops-on-book-tour/",
+    "source": "nypost",
+    "pubdate": "2026-03-11-14-28-03 +0000"
+  },
+  {
+    "headline": "Iran to Skip World Cup, Minister Says, Despite Reported Trump Assurances to FIFA",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-world-cup-fifa-infantino.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-28-00 +0000"
+  },
+  {
+    "headline": "Iran to Skip World Cup, Minister Says, Despite Reported Trump Assurances to FIFA",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-world-cup-fifa-infantino.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-28-00 +0000"
+  },
+  {
+    "headline": "Why the British government is only releasing some of the Mandelson files.",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk/why-the-british-government-is-only-releasing-some-of-the-mandelson-files",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-26-46 +0000"
+  },
+  {
+    "headline": "Why the British government is only releasing some of the Mandelson files.",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk/why-the-british-government-is-only-releasing-some-of-the-mandelson-files",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-26-46 +0000"
+  },
+  {
+    "headline": "A Dublin Pub-Crawl, but Hold the Booze",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-26-45 +0000"
+  },
+  {
+    "headline": "A Dublin Pub-Crawl, but Hold the Booze",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-26-45 +0000"
+  },
+  {
+    "headline": "BlackRock Donates $100 Million to Trade-Worker Training in Infrastructure-Investing Push",
+    "link": "https://www.wsj.com/finance/investing/blackrock-donates-100-million-to-trade-worker-training-in-infrastructure-investing-push-d564e3be?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-21-00 +0000"
+  },
+  {
+    "headline": "Trump’s Actions in Iran and Venezuela Show Limits of U.S. Sanctions",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-sanctions-iran-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-20-03 +0000"
+  },
+  {
+    "headline": "Trump’s Actions in Iran and Venezuela Show Limits of U.S. Sanctions",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-sanctions-iran-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-20-03 +0000"
+  },
+  {
+    "headline": "Trump’s Actions in Iran and Venezuela Show Limits of U.S. Sanctions",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-sanctions-iran-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-20-03 +0000"
+  },
+  {
+    "headline": "Trump’s Actions in Iran and Venezuela Show Limits of U.S. Sanctions",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-sanctions-iran-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-20-03 +0000"
+  },
+  {
+    "headline": "Trump’s Actions in Iran and Venezuela Show Limits of U.S. Sanctions",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-sanctions-iran-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-20-03 +0000"
+  },
+  {
+    "headline": "Trump’s Actions in Iran and Venezuela Show Limits of U.S. Sanctions",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-sanctions-iran-venezuela.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-20-03 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s SAVE Ultimatum",
+    "link": "https://www.wsj.com/opinion/trumps-save-ultimatum-52c46360",
+    "source": "wsj",
+    "pubdate": "2026-03-11-14-19-00 +0000"
+  },
+  {
+    "headline": "‘Doomsday’ plane again spotted flying low over California — as Iran tensions rocket",
+    "link": "https://nypost.com/2026/03/11/us-news/doomsday-plane-seen-flying-low-over-california/",
+    "source": "nypost",
+    "pubdate": "2026-03-11-14-15-57 +0000"
+  },
+  {
+    "headline": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
+    "link": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-14-13-52 +0000"
+  },
+  {
+    "headline": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
+    "link": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-14-13-52 +0000"
   },
   {
     "headline": "At Least 3 Ships Are Struck In and Around the Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/ships-attack-strait-hormuz.html",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/ships-attack-strait-hormuz-iran.html",
     "source": "nyt",
-    "pubdate": "2026-03-11-13-13-24 +0000"
+    "pubdate": "2026-03-11-14-12-07 +0000"
+  },
+  {
+    "headline": "At Least 3 Ships Are Struck In and Around the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/ships-attack-strait-hormuz-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-12-07 +0000"
+  },
+  {
+    "headline": "At Least 3 Ships Are Struck In and Around the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/ships-attack-strait-hormuz-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-14-12-07 +0000"
   }
 ]
