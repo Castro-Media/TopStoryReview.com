@@ -1,17 +1,24 @@
 [
   {
-    "score": 623,
+    "score": 622,
     "pubdate": "2026-03-10-03-15-14 +0000",
     "source": "nyt",
     "headline": "Trump Seeks to Calm Oil and Gas Markets but Says Iran War Will Go On",
     "link": "https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html"
   },
   {
-    "score": 161,
+    "score": 160,
     "pubdate": "2026-03-11-06-19-01 +0000",
     "source": "nyt",
     "headline": "Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
     "link": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html"
+  },
+  {
+    "score": 141,
+    "pubdate": "2026-03-06-20-37-00 +0000",
+    "source": "wsj",
+    "headline": "A rough February jobs report exposed just how much the U.S. has relied on health workers. Here’s a look at some of the key trends in the latest Labor Department Report",
+    "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
   },
   {
     "score": 135,
@@ -21,28 +28,21 @@
     "link": "https://www.wsj.com/politics/elections/trump-ally-steve-daines-leaves-senate-race-just-ahead-of-deadline-86f11d88"
   },
   {
-    "score": 133,
+    "score": 134,
     "pubdate": "2026-03-09-09-30-00 +0000",
     "source": "wsj",
     "headline": "The surge in oil and gasoline prices last week amid the Iran conflict has darkened the inflation outlook. It is coming at a time when the outlook was already more confused than usual.",
     "link": "https://www.wsj.com/economy/central-banking/is-inflation-cooling-or-stubbornly-high-both-can-be-true-9f541f78"
   },
   {
-    "score": 124,
-    "pubdate": "2026-03-06-20-37-00 +0000",
-    "source": "wsj",
-    "headline": "A rough February jobs report exposed just how much the U.S. has relied on health workers. Here’s a look at some of the key trends in the latest Labor Department Report",
-    "link": "https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1"
-  },
-  {
-    "score": 123,
+    "score": 126,
     "pubdate": "2026-03-06-00-14-39 +0000",
     "source": "latimes",
     "headline": "Satellite photos show California's sudden snowpack meltdown: Now you see it, now you don't",
     "link": "https://www.latimes.com/california/story/2026-03-05/satellite-photos-california-snowpack-early-meltdown"
   },
   {
-    "score": 100,
+    "score": 97,
     "pubdate": "2026-03-09-15-09-05 +0000",
     "source": "bbc",
     "headline": "US missile hit military base near Iran school, video analysis shows",
@@ -50,23 +50,23 @@
   },
   {
     "score": 94,
-    "pubdate": "2026-03-06-22-17-00 +0000",
-    "source": "wsj",
-    "headline": "A federal prosecutor is looking to build criminal cases against leaders of Cuba’s government and Communist Party, as Trump has openly suggested the country would be his next target for regime change",
-    "link": "https://www.wsj.com/politics/national-security/trump-doj-cuba-leaders-677b1a8c"
-  },
-  {
-    "score": 91,
     "pubdate": "2026-03-04-22-28-44 +0000",
     "source": "latimes",
     "headline": "Top tech companies sign Trump's pledge to provide their own power for AI data centers",
     "link": "https://www.latimes.com/environment/story/2026-03-04/top-tech-companies-sign-trumps-pledge-to-provide-their-own-power-for-ai-data-centers"
   },
   {
-    "score": 91,
+    "score": 94,
     "pubdate": "2026-03-09-12-21-00 +0000",
     "source": "wsj",
     "headline": "Eric Trump and Donald Trump Jr. are backing Powerus, a drone company vying to meet Pentagon demand and fill a hole left by the administration’s ban on new Chinese drones in the U.S.",
     "link": "https://www.wsj.com/politics/national-security/trump-sons-back-new-drone-company-targeting-pentagon-sales-2f74abca"
+  },
+  {
+    "score": 90,
+    "pubdate": "2026-03-07-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Iran’s High-Risk Strategy for a No-Limits Middle East War",
+    "link": "https://www.wsj.com/world/middle-east/iran-defense-strategy-khamenei-fe9aeaf9"
   }
 ]

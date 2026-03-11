@@ -1,9 +1,72 @@
 [
   {
-    "score": 2,
-    "pubdate": "2026-03-11-10-06-52 +0000",
+    "score": 54,
+    "pubdate": "2026-03-11-11-36-18 +0000",
+    "source": "nypost",
+    "headline": "IEA to recommend release of record 400M oil barrels to curb soaring prices due to Iran war: report",
+    "link": "https://nypost.com/2026/03/11/world-news/iea-to-recommend-release-of-400m-oil-barrels-its-largest-ever-release-to-curb-soaring-prices-due-to-iran-war-report/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-03-11-11-06-57 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/heres-the-latest"
+    "headline": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants",
+    "link": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-03-11-11-51-54 +0000",
+    "source": "nyt",
+    "headline": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/uk-police-epstein-giuffre-maxwell-prince-andrew.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-11-11-17-49 +0000",
+    "source": "nyt",
+    "headline": "Ukraine Says It Hit Key Russian Electronics Plant; Russia Reports Deaths",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-russia-electronics-plant-missiles.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-11-11-38-00 +0000",
+    "source": "wsj",
+    "headline": "IEA Proposes Largest Ever Oil Release From Strategic Reserves",
+    "link": "https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-11-11-17-52 +0000",
+    "source": "nypost",
+    "headline": "Ex-Ohio State president Ted Carter may have given podcaster at center of ‘inappropriate relationship’ cozy on-campus office: reports",
+    "link": "https://nypost.com/2026/03/11/us-news/ex-ohio-state-president-may-have-given-podcaster-cozy-on-campus-office-reports/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-11-11-56-09 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: At Least 3 Ships Come Under Attack Near Key Oil Passage",
+    "link": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-11-11-22-54 +0000",
+    "source": "bbc",
+    "headline": "Mortgage rates rise and deals pulled over Iran war turmoil",
+    "link": "https://www.bbc.com/news/articles/c24dm9vgrz7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-11-11-20-26 +0000",
+    "source": "nyt",
+    "headline": "Trump Casts a Shadow Over One of Mexico’s Deadliest States",
+    "link": "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-11-11-33-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/earnings/tech-media-telecom-roundup-market-talk-8823904a?mod=pls_whats_news_us_business_f"
   }
 ]
