@@ -1,20 +1,170 @@
 [
   {
-    "headline": "Iran accuses Australia of taking women’s soccer team ‘hostage’ after players claimed asylum",
-    "link": "https://nypost.com/2026/03/11/world-news/iran-accuses-australia-of-taking-womens-soccer-players-hostage-after-asylum-grants/",
+    "headline": "How Trump’s War With Iran Changed the World in a Week",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-war-global-impact.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-03-56 +0000"
+  },
+  {
+    "headline": "World Heritage Sites Hit in Airstrikes on Iran",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/iram-heritage-sites-damaged.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-02-33 +0000"
+  },
+  {
+    "headline": "Trump Directs Iran War Keeping Markets Top of Mind",
+    "link": "https://www.nytimes.com/2026/03/11/business/economy/trump-iran-markets-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-01-42 +0000"
+  },
+  {
+    "headline": "Tehran Has Long Suffered Filthy Air. Fuel Called ‘Mazut’ Is to Blame.",
+    "link": "https://www.nytimes.com/2026/03/11/climate/tehran-air-pollution-mazut-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-01-40 +0000"
+  },
+  {
+    "headline": "Is a Private-Island Paradise in Turks and Caicos Worth the Price? I Went to Find Out.",
+    "link": "https://www.nytimes.com/2026/03/11/travel/turks-and-caicos-private-island-all-inclusive.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-01-05 +0000"
+  },
+  {
+    "headline": "Trump Casts a Shadow Over One of Mexico’s Deadliest States",
+    "link": "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-00-58 +0000"
+  },
+  {
+    "headline": "Trump Casts a Shadow Over One of Mexico’s Deadliest States",
+    "link": "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-00-58 +0000"
+  },
+  {
+    "headline": "A Dublin Pub-Crawl, but Hold the Booze",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-00-31 +0000"
+  },
+  {
+    "headline": "A Dublin Pub-Crawl, but Hold the Booze",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-00-31 +0000"
+  },
+  {
+    "headline": "In Talking to Parents About Vaccines, Pediatricians Navigate a Sea of Misinformation",
+    "link": "https://www.nytimes.com/2026/03/11/health/pediatricians-vaccines-cdc-kennedy.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-09-00-19 +0000"
+  },
+  {
+    "headline": "Ireland’s Gift to Trump: Shamrocks and a $6.1 Billion Investment Pledge",
+    "link": "https://www.wsj.com/politics/policy/irelands-gift-to-trump-shamrocks-and-a-6-1-billion-investment-pledge-26592bda",
+    "source": "wsj",
+    "pubdate": "2026-03-11-09-00-00 +0000"
+  },
+  {
+    "headline": "NYC needs to rein in runaway spending to a tune of $6B even with Albany bailout: city comptroller",
+    "link": "https://nypost.com/2026/03/11/us-news/nyc-needs-to-rein-in-runaway-spending-to-a-tune-of-6b-even-with-albany-bailout-comptroller/",
     "source": "nypost",
-    "pubdate": "2026-03-11-07-11-38 +0000"
+    "pubdate": "2026-03-11-09-00-00 +0000"
+  },
+  {
+    "headline": "Democrats are floating sweeping policy changes that would relieve millions of people of any federal income-tax payments",
+    "link": "https://www.wsj.com/politics/policy/democrats-tax-cuts-middle-class-a263d328",
+    "source": "wsj",
+    "pubdate": "2026-03-11-09-00-00 +0000"
+  },
+  {
+    "headline": "Ireland’s prime minister is set to discuss a pledge to invest billions in the U.S. as part of an annual St. Patrick’s Day visit to the White House",
+    "link": "https://www.wsj.com/politics/policy/irelands-gift-to-trump-shamrocks-and-a-6-1-billion-investment-pledge-26592bda",
+    "source": "wsj",
+    "pubdate": "2026-03-11-09-00-00 +0000"
+  },
+  {
+    "headline": "U.S. Gas Prices Jump for 11th Straight Day, and Oil Pushes Higher",
+    "link": "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-08-57-49 +0000"
+  },
+  {
+    "headline": "IEA Proposes Largest Ever Oil Release From Strategic Reserves",
+    "link": "https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-08-57-00 +0000"
+  },
+  {
+    "headline": "IEA Proposes Largest Ever Oil Release From Strategic Reserves",
+    "link": "https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-08-57-00 +0000"
+  },
+  {
+    "headline": "IEA Proposes Largest Ever Oil Release From Strategic Reserves",
+    "link": "https://www.wsj.com/business/energy-oil/iea-proposes-largest-ever-oil-release-from-strategic-reserves-275f4e5c",
+    "source": "wsj",
+    "pubdate": "2026-03-11-08-57-00 +0000"
+  },
+  {
+    "headline": "Iran war cost will be passed to consumers, shipping giant boss tells BBC",
+    "link": "https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-08-38-27 +0000"
   },
   {
     "headline": "U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
     "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
     "source": "nyt",
-    "pubdate": "2026-03-11-07-03-24 +0000"
+    "pubdate": "2026-03-11-08-37-45 +0000"
   },
   {
-    "headline": "NYC terror suspect allegedly seen purchasing fireworks fuse days before attack",
-    "link": "https://nypost.com/2026/03/11/us-news/nyc-gracie-mansion-terror-suspect-emir-balat-purchased-fireworks-fuse-in-pennsylvania-before-isis-inspired-attack/",
+    "headline": "One Member of Iranian Soccer Squad Abandons Asylum Bid in Australia",
+    "link": "https://www.nytimes.com/2026/03/10/world/asia/iran-soccer-women-asylum-australia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-08-37-43 +0000"
+  },
+  {
+    "headline": "One Member of Iranian Soccer Squad Abandons Asylum Bid in Australia",
+    "link": "https://www.nytimes.com/2026/03/10/world/asia/iran-soccer-women-asylum-australia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-11-08-37-43 +0000"
+  },
+  {
+    "headline": "Rheinmetall Expects Sales Surge as Europe Rearms, Anti-Drone Demand Grows",
+    "link": "https://www.wsj.com/business/earnings/rheinmetalls-results-miss-forecasts-despite-soaring-sales-7ff851bb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-11-08-34-00 +0000"
+  },
+  {
+    "headline": "Dow Futures Inch Up, Oil Climbs Again as Investors Await Inflation Report",
+    "link": "https://www.wsj.com/livecoverage/cpi-inflation-data-stock-market-03-11-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-08-33-53 +0000"
+  },
+  {
+    "headline": "IEA Plan to Release Oil Reserves Could Lower Prices by $7 a Barrel, Goldman Says",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-mixed-as-traders-digest-ieas-proposal-to-release-strategic-reserves-fdc8e3dc?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-11-08-33-00 +0000"
+  },
+  {
+    "headline": "In Gaza, hints of recovery dissipate as U.S. and Israel strike Iran",
+    "link": "https://www.washingtonpost.com/world/2026/03/11/gaza-iran-war-israel-trump/",
+    "source": "wapo",
+    "pubdate": "2026-03-11-08-30-55 +0000"
+  },
+  {
+    "headline": "Horror Switzerland bus fire kills 6, injures 5 as police probe possible deliberate act",
+    "link": "https://nypost.com/2026/03/11/world-news/6-dead-in-switzerland-bus-fire-police-suspect-arson/",
     "source": "nypost",
-    "pubdate": "2026-03-11-07-02-49 +0000"
+    "pubdate": "2026-03-11-08-27-23 +0000"
+  },
+  {
+    "headline": "First Mandelson files to be published on Wednesday",
+    "link": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-11-08-15-59 +0000"
   }
 ]
