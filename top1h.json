@@ -1,44 +1,72 @@
 [
   {
-    "score": 19,
-    "pubdate": "2026-03-12-16-11-00 +0000",
+    "score": 40,
+    "pubdate": "2026-03-12-17-53-00 +0000",
     "source": "wsj",
-    "headline": "War is Raging. Tankers Are Burning. Yet the Stock Market Isn’t Panicking—For Now.",
-    "link": "https://www.wsj.com/world/middle-east/war-is-raging-tankers-are-burning-yet-the-stock-market-isnt-panickingfor-now-6c96af2b?mod=pls_whats_news_us_business_f"
+    "headline": "When Kash Patel said in one of his first video calls as FBI director that he wanted agents to train with UFC cage fighters, many officials thought he was joking. He wasn’t.",
+    "link": "https://www.wsj.com/politics/policy/ufc-fighters-to-hold-training-event-for-fbi-agents-75e9f2af"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-03-12-17-57-38 +0000",
+    "source": "nypost",
+    "headline": "US Navy escorts through Strait of Hormuz ‘can’t happen now,’ Energy secretary says — as Iran touts ‘tool to pressure enemy’",
+    "link": "https://nypost.com/2026/03/12/us-news/us-navy-escorts-through-strait-of-hormuz-cant-happen-now-energy-secretary-says-as-iran-touts-tool-to-pressure-enemy/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-03-12-17-33-32 +0000",
+    "source": "nypost",
+    "headline": "Josh Hawley rolls out bill to nix FDA approval for mifepristone, used for almost two-thirds of US abortions",
+    "link": "https://nypost.com/2026/03/12/us-news/josh-hawley-rolls-out-bill-to-nix-fda-approval-for-mifepristone-used-in-almost-two-thirds-of-us-abortions/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-03-12-17-31-47 +0000",
+    "source": "nyt",
+    "headline": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
+    "link": "https://www.nytimes.com/2026/03/12/world/americas/chile-kast-conservatism-trump.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-03-12-17-19-01 +0000",
+    "source": "nyt",
+    "headline": "Fallout From Iran War and Oil Shock Deliver Another Blow to World Economy",
+    "link": "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-12-17-11-37 +0000",
+    "source": "nypost",
+    "headline": "Army seeks masked thieves who lifted drones from base as Iran retaliation fears spike",
+    "link": "https://nypost.com/2026/03/12/world-news/army-seeks-masked-thieves-who-lifted-drones-from-base-as-iran-retaliation-fears-spike/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-12-17-19-42 +0000",
+    "source": "nypost",
+    "headline": "Active shooter reported at Temple Israel synagogue in Michigan after car smashes into building",
+    "link": "https://nypost.com/2026/03/12/us-news/car-crashes-into-michigan-synagogue-followed-by-shots-fired-huge-police-response/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-12-17-48-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is suing California in an effort to shut down the state’s moves to limit carbon emissions from cars and require a transition to zero-emission vehicles",
+    "link": "https://www.wsj.com/articles/trump-administration-sues-california-in-bid-to-nix-emissions-and-ev-rules-9f6aef31"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-12-17-13-40 +0000",
+    "source": "nypost",
+    "headline": "Iran supreme leader Mojtaba Khamenei had chilling threat to US hidden in his first message — and why he won’t show his face",
+    "link": "https://nypost.com/2026/03/12/world-news/iran-supreme-leader-mojtaba-khamenei-had-chilling-threat-to-us-hidden-in-his-first-message-and-why-he-wont-show-his-face/"
   },
   {
     "score": 14,
-    "pubdate": "2026-03-12-16-12-33 +0000",
+    "pubdate": "2026-03-12-17-51-04 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: New Supreme Leader Issues Defiant Statement Amid Growing Disruption to Global Supplies",
-    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-12-16-13-06 +0000",
-    "source": "bbc",
-    "headline": "UK troops at Iraq base shot down Iranian drones, Healey says",
-    "link": "https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-03-12-16-12-30 +0000",
-    "source": "nyt",
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/here-is-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-12-16-11-20 +0000",
-    "source": "nyt",
-    "headline": "Here is the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/here-is-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-12-16-11-00 +0000",
-    "source": "wsj",
-    "headline": "War is Raging. Tankers Are Burning. Yet the Stock Market Isn’t Panicking—For Now.",
-    "link": "https://www.wsj.com/world/middle-east/war-is-raging-tankers-are-burning-yet-the-stock-market-isnt-panickingfor-now-6c96af2b"
+    "headline": "Trump Tempers María Corina Machado’s Political Ambitions in Venezuela",
+    "link": "https://www.nytimes.com/2026/03/12/world/americas/trump-maria-corina-machado-venezuela.html"
   }
 ]
