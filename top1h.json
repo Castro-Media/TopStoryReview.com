@@ -1,66 +1,10 @@
 [
   {
-    "score": 36,
-    "pubdate": "2026-03-12-18-54-18 +0000",
-    "source": "nypost",
-    "headline": "Senate Dems again refuse to end DHS shutdown as airport TSA workers suffer, may miss pay",
-    "link": "https://nypost.com/2026/03/12/us-news/senate-dems-refuse-to-end-dhs-shutdown-as-airport-tsa-workers-suffer/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-03-12-18-26-46 +0000",
-    "source": "nyt",
-    "headline": "Mojtaba Khamenei, Iran’s New Supreme Leader, Says Strait of Hormuz Must Remain Closed in Defiant Statement",
-    "link": "https://www.nytimes.com/2026/03/12/world/middleeast/khamenei-statement.html"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-03-12-18-21-40 +0000",
-    "source": "nyt",
-    "headline": "With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment",
-    "link": "https://www.nytimes.com/2026/03/12/world/americas/chile-kast-conservatism-trump.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-03-12-19-11-47 +0000",
-    "source": "nyt",
-    "headline": "Iraq vents anger at strikes on former militias now under government control.",
-    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/iraq-angered-by-strikes-on-former-militias-now-under-government-control"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-12-18-56-07 +0000",
-    "source": "startribune",
-    "headline": "Armed man rammed vehicle into Michigan synagogue and was fatally shot by security, AP source says",
-    "link": "https://www.startribune.com/police-respond-to-a-report-of-an-active-shooter-at-a-detroit-area-synagogue/601597172"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-12-18-23-54 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Suggests Tariff Refunds May Take Significant Time",
-    "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-tariff-refunds-delay.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-03-12-18-54-22 +0000",
-    "source": "nyt",
-    "headline": "Will Illinois’ Democratic Primary for Senate Divide Black Voters?",
-    "link": "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html"
-  },
-  {
-    "score": 12,
+    "score": 13,
     "pubdate": "2026-03-12-19-10-37 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Israel Bombs Central Beirut in Expanding Attack",
     "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-03-12-18-40-27 +0000",
-    "source": "nypost",
-    "headline": "Massive ‘submarine hunter’ circles over CA days after ‘Doomsday Plane’ and bombshell Iran drone memo",
-    "link": "https://nypost.com/2026/03/12/us-news/massive-submarine-hunter-circles-over-ca-days-after-doomsday-plane-and-bombshell-iran-drone-threat/"
   },
   {
     "score": 10,
@@ -68,5 +12,54 @@
     "source": "startribune",
     "headline": "Live: Stewartville reaches first championship game since 2023; Hillcrest Lutheran builds lead",
     "link": "https://www.startribune.com/mn-girls-basketball-state-tournament-live-scores-williams-arena-maturi-pavilion-schedule-semifinals/601591881"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-12-19-04-28 +0000",
+    "source": "nypost",
+    "headline": "Furious Karoline Leavitt slams ABC over ‘phony’ report of Iran drone strike to California",
+    "link": "https://nypost.com/2026/03/12/us-news/karoline-leavitt-slams-abc-report-of-iran-drone-attack-in-ca/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-12-19-11-47 +0000",
+    "source": "nyt",
+    "headline": "Iraq vents anger at strikes on former militias now under government control.",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/iraq-angered-by-strikes-on-former-militias-now-under-government-control"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-12-19-12-00 +0000",
+    "source": "wsj",
+    "headline": "One Dead, Two Injured in Shooting at Old Dominion University",
+    "link": "https://www.wsj.com/us-news/one-dead-two-injured-in-shooting-at-old-dominion-university-ac1d336c"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-12-19-11-09 +0000",
+    "source": "nyt",
+    "headline": "$42 Million Verdict for Iraqi Victims of U.S. Abuse Is Upheld on Appeal",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/iraqi-lawsuit-torture-verdict-upheld.html"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-12-19-12-43 +0000",
+    "source": "nyt",
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/here-is-the-latest"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-12-19-08-49 +0000",
+    "source": "nyt",
+    "headline": "Police Respond to Shooting at Temple Israel in Michigan",
+    "link": "https://www.nytimes.com/live/2026/03/12/us/temple-israel-michigan-shooting/temple-israel-michigan-shooting"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-12-19-09-39 +0000",
+    "source": "nyt",
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/here-is-the-latest"
   }
 ]
