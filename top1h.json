@@ -1,55 +1,6 @@
 [
   {
-    "score": 40,
-    "pubdate": "2026-03-12-16-12-33 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: New Supreme Leader Issues Defiant Statement Amid Growing Disruption to Global Supplies",
-    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-03-12-15-37-03 +0000",
-    "source": "nypost",
-    "headline": "Long-serving Dem Rep. Jim Clyburn of South Carolina will run for 18th term in Congress",
-    "link": "https://nypost.com/2026/03/12/us-news/dem-rep-jim-clyburn-of-south-carolina-to-run-for-18th-term-in-congress/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-03-12-15-46-18 +0000",
-    "source": "nyt",
-    "headline": "Attacks on two tankers prompt Iraq to close oil terminals.",
-    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/attacks-on-two-tankers-prompt-iraq-to-close-oil-terminals"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-03-12-15-46-23 +0000",
-    "source": "nypost",
-    "headline": "Trump doesn’t believe it’s ‘appropriate’ for Iran men’s soccer team to join World Cup",
-    "link": "https://nypost.com/2026/03/12/us-news/trump-doesnt-believe-its-appropriate-for-iran-mens-soccer-team-to-join-world-cup/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-03-12-16-08-24 +0000",
-    "source": "nyt",
-    "headline": "A Third of Americans Have Cut Spending or Borrowed Money for Health Care",
-    "link": "https://www.nytimes.com/2026/03/12/health/health-costs-cutting-back.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-03-12-16-05-36 +0000",
-    "source": "nyt",
-    "headline": "Mojtaba Khamenei, Iran’s New Supreme Leader, Says Strait of Hormuz Must Remain Closed in Defiant Statement",
-    "link": "https://www.nytimes.com/2026/03/12/world/middleeast/khamenei-statement.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-03-12-15-52-31 +0000",
-    "source": "nyt",
-    "headline": "James Clyburn to Run for House Again, Defying Push for Generational Change",
-    "link": "https://www.nytimes.com/2026/03/12/us/politics/james-clyburn-reelection.html"
-  },
-  {
-    "score": 14,
+    "score": 19,
     "pubdate": "2026-03-12-16-11-00 +0000",
     "source": "wsj",
     "headline": "War is Raging. Tankers Are Burning. Yet the Stock Market Isn’t Panicking—For Now.",
@@ -57,16 +8,37 @@
   },
   {
     "score": 14,
-    "pubdate": "2026-03-12-15-59-58 +0000",
-    "source": "nypost",
-    "headline": "Airport security tension rises as suffering TSA officers go unpaid during DHS shutdown: ‘We’re hurting’",
-    "link": "https://nypost.com/2026/03/12/us-news/airport-security-strain-heightens-during-dhs-shutdown-as-unpaid-tsa-officers-suffer/"
+    "pubdate": "2026-03-12-16-12-33 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: New Supreme Leader Issues Defiant Statement Amid Growing Disruption to Global Supplies",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel"
   },
   {
-    "score": 13,
-    "pubdate": "2026-03-12-15-53-16 +0000",
-    "source": "startribune",
-    "headline": "Live: Small school quarterfinals and semifinals in big-school brackets highlight Day 2 of girls hoops state tournament",
-    "link": "https://www.startribune.com/mn-girls-basketball-state-tournament-live-scores-williams-arena-maturi-pavilion-schedule-semifinals/601591881"
+    "score": 8,
+    "pubdate": "2026-03-12-16-13-06 +0000",
+    "source": "bbc",
+    "headline": "UK troops at Iraq base shot down Iranian drones, Healey says",
+    "link": "https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-12-16-12-30 +0000",
+    "source": "nyt",
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/here-is-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-12-16-11-20 +0000",
+    "source": "nyt",
+    "headline": "Here is the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/here-is-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-12-16-11-00 +0000",
+    "source": "wsj",
+    "headline": "War is Raging. Tankers Are Burning. Yet the Stock Market Isn’t Panicking—For Now.",
+    "link": "https://www.wsj.com/world/middle-east/war-is-raging-tankers-are-burning-yet-the-stock-market-isnt-panickingfor-now-6c96af2b"
   }
 ]
