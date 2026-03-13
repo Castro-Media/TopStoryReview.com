@@ -1,13 +1,13 @@
 [
   {
-    "score": 292,
+    "score": 293,
     "pubdate": "2026-03-12-17-01-48 +0000",
     "source": "nypost",
     "headline": "Trump might lift this obscure 100-year old law to relieve oil and gas price spikes due to Iran war",
     "link": "https://nypost.com/2026/03/12/us-news/trump-might-waive-an-obscure-100-year-old-law-to-relieve-oil-and-gas-price-spikes-from-iran-war/"
   },
   {
-    "score": 126,
+    "score": 123,
     "pubdate": "2026-03-12-18-26-46 +0000",
     "source": "nyt",
     "headline": "Mojtaba Khamenei, Iran’s New Supreme Leader, Says Strait of Hormuz Must Remain Closed in Defiant Statement",
@@ -21,18 +21,18 @@
     "link": "https://www.wsj.com/politics/policy/ufc-fighters-to-hold-training-event-for-fbi-agents-75e9f2af"
   },
   {
-    "score": 71,
+    "score": 70,
+    "pubdate": "2026-03-13-01-32-01 +0000",
+    "source": "nyt",
+    "headline": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html"
+  },
+  {
+    "score": 70,
     "pubdate": "2026-03-12-19-20-20 +0000",
     "source": "cbc",
     "headline": "Israeli military drops charges against soldiers accused of sexual, physical abuse of Palestinian detainee",
     "link": "https://www.cbc.ca/news/world/israel-drops-charges-detainee-abuse-9.7126234?cmp=rss"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-03-12-02-52-17 +0000",
-    "source": "nyt",
-    "headline": "Countries Scramble to Shore Up Global Oil Supplies as Ships Are Attacked",
-    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/oil-ships-lebanon-iran-israel.html"
   },
   {
     "score": 54,
@@ -42,31 +42,31 @@
     "link": "https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-03-12-13-39-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. trade deficit declined in January, continuing a volatile run as imports and exports react to rapid changes in the Trump administration’s trade policy",
-    "link": "https://www.wsj.com/economy/trade/u-s-trade-deficit-declined-in-january-11269b06"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-03-12-01-32-08 +0000",
+    "score": 53,
+    "pubdate": "2026-03-12-20-31-47 +0000",
     "source": "nyt",
-    "headline": "U.N. Security Council Condemns Iran’s Retaliatory Strikes in the Middle East",
-    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/un-security-council-condemns-iran-strikes.html"
+    "headline": "Trump to Target Forced Labor in Global Tariff Scheme",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-forced-labor-tariffs.html"
   },
   {
-    "score": 47,
+    "score": 52,
     "pubdate": "2026-03-12-18-54-18 +0000",
     "source": "nypost",
     "headline": "Senate Dems again refuse to end DHS shutdown as airport TSA workers suffer, may miss pay",
     "link": "https://nypost.com/2026/03/12/us-news/senate-dems-refuse-to-end-dhs-shutdown-as-airport-tsa-workers-suffer/"
   },
   {
-    "score": 47,
+    "score": 51,
     "pubdate": "2026-03-12-17-48-43 +0000",
     "source": "wapo",
     "headline": "White House considers waiving shipping rules in bid to ease energy prices",
     "link": "https://www.washingtonpost.com/business/2026/03/12/trump-jones-act-energy-prices/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-03-12-13-39-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. trade deficit declined in January, continuing a volatile run as imports and exports react to rapid changes in the Trump administration’s trade policy",
+    "link": "https://www.wsj.com/economy/trade/u-s-trade-deficit-declined-in-january-11269b06"
   }
 ]
