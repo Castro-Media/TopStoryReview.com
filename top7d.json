@@ -1,24 +1,17 @@
 [
   {
-    "score": 669,
+    "score": 662,
     "pubdate": "2026-03-14-01-00-00 +0000",
     "source": "wsj",
     "headline": "Well before the U.S. bombing started, President Trump knew there was a chance Iran would close the Strait of Hormuz, one of the world’s most vital shipping lanes. He decided to go to war anyway.",
     "link": "https://www.wsj.com/politics/national-security/iran-oil-hormuz-blockade-trump-f96bdd53"
   },
   {
-    "score": 234,
+    "score": 233,
     "pubdate": "2026-03-12-21-04-34 +0000",
     "source": "nyt",
     "headline": "New Iranian Leader Vows to Keep Global Oil Gateway Blocked",
     "link": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-oil-war.html"
-  },
-  {
-    "score": 112,
-    "pubdate": "2026-03-13-09-49-30 +0000",
-    "source": "nypost",
-    "headline": "All 6 crew members killed as US Air Force refueling plane crashes in Iraq, military says",
-    "link": "https://nypost.com/2026/03/13/us-news/4-crew-members-killed-as-us-air-force-refueling-plane-crashes-in-iraq/"
   },
   {
     "score": 111,
@@ -35,32 +28,32 @@
     "link": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 102,
+    "score": 104,
+    "pubdate": "2026-03-13-09-49-30 +0000",
+    "source": "nypost",
+    "headline": "All 6 crew members killed as US Air Force refueling plane crashes in Iraq, military says",
+    "link": "https://nypost.com/2026/03/13/us-news/4-crew-members-killed-as-us-air-force-refueling-plane-crashes-in-iraq/"
+  },
+  {
+    "score": 101,
     "pubdate": "2026-03-13-08-45-00 +0000",
     "source": "wsj",
     "headline": "German Chemical Industry Warns of Supply-Chain Hit From Middle East War",
     "link": "https://www.wsj.com/world/europe/german-chemical-industry-warns-of-supply-chain-hit-from-middle-east-war-408a34a2?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 95,
-    "pubdate": "2026-03-13-12-39-28 +0000",
-    "source": "cbc",
-    "headline": "Canada's economy lost 84,000 jobs in February, unemployment rate ticked up to 6.7%",
-    "link": "https://www.cbc.ca/news/business/canada-labour-force-survey-february-2026-9.7127105?cmp=rss"
+    "score": 94,
+    "pubdate": "2026-03-13-15-02-16 +0000",
+    "source": "wapo",
+    "headline": "Suspect in synagogue crash lost family in Israeli attack on Lebanon, official says",
+    "link": "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
   },
   {
-    "score": 95,
+    "score": 92,
     "pubdate": "2026-03-09-12-21-00 +0000",
     "source": "wsj",
     "headline": "Eric Trump and Donald Trump Jr. are backing Powerus, a drone company vying to meet Pentagon demand and fill a hole left by the administration’s ban on new Chinese drones in the U.S.",
     "link": "https://www.wsj.com/politics/national-security/trump-sons-back-new-drone-company-targeting-pentagon-sales-2f74abca"
-  },
-  {
-    "score": 90,
-    "pubdate": "2026-03-10-09-58-00 +0000",
-    "source": "wsj",
-    "headline": "China’s shipments of goods abroad surged at the beginning of the year and its trade surplus rose, showing the country’s export juggernaut is chugging ahead of President Trump’s visit",
-    "link": "https://www.wsj.com/economy/trade/chinas-exports-surge-in-first-two-months-of-year-96ab6abb"
   },
   {
     "score": 89,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee",
     "link": "https://www.nytimes.com/2026/03/12/world/middleeast/israel-detainee-abuse-charges.html"
+  },
+  {
+    "score": 89,
+    "pubdate": "2026-03-10-09-58-00 +0000",
+    "source": "wsj",
+    "headline": "China’s shipments of goods abroad surged at the beginning of the year and its trade surplus rose, showing the country’s export juggernaut is chugging ahead of President Trump’s visit",
+    "link": "https://www.wsj.com/economy/trade/chinas-exports-surge-in-first-two-months-of-year-96ab6abb"
   }
 ]
