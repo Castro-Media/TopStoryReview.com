@@ -1,27 +1,20 @@
 [
   {
-    "score": 282,
+    "score": 255,
     "pubdate": "2026-03-14-01-00-00 +0000",
     "source": "wsj",
     "headline": "Well before the U.S. bombing started, President Trump knew there was a chance Iran would close the Strait of Hormuz, one of the world’s most vital shipping lanes. He decided to go to war anyway.",
     "link": "https://www.wsj.com/politics/national-security/iran-oil-hormuz-blockade-trump-f96bdd53"
   },
   {
-    "score": 105,
-    "pubdate": "2026-03-14-13-52-19 +0000",
-    "source": "nypost",
-    "headline": "Litter of puppies rescued by US troops in Middle East oil pit are trying to get to America",
-    "link": "https://nypost.com/2026/03/14/world-news/litter-of-puppies-rescued-by-us-troops-from-oil-pit-in-middle-east-trying-to-get-home/"
+    "score": 98,
+    "pubdate": "2026-03-14-19-40-45 +0000",
+    "source": "cbc",
+    "headline": "Carney, Norway PM push message of oil-market stability as war in Middle East rattles global supply",
+    "link": "https://www.cbc.ca/news/politics/carney-norway-canada-oil-iran-war-9.7129012?cmp=rss"
   },
   {
-    "score": 63,
-    "pubdate": "2026-03-13-21-39-00 +0000",
-    "source": "wsj",
-    "headline": "In a major victory for the Fed, a judge threw out the subpoenas that were issued by the Justice Dept. as part of its criminal investigation into Powell",
-    "link": "https://www.wsj.com/economy/central-banking/judge-throws-out-justice-department-subpoenas-to-federal-reserve-7d90addf"
-  },
-  {
-    "score": 52,
+    "score": 61,
     "pubdate": "2026-03-13-23-03-39 +0000",
     "source": "wapo",
     "headline": "New dime to celebrate America’s birthday takes on new meaning under Trump",
@@ -35,14 +28,14 @@
     "link": "https://nypost.com/2026/03/14/us-news/lindsey-graham-praises-trumps-bold-takeover-of-kharg-island-attempt-to-close-strait-of-hormuz/"
   },
   {
-    "score": 48,
+    "score": 46,
     "pubdate": "2026-03-14-09-30-00 +0000",
     "source": "wsj",
     "headline": "A slew of data released Friday portrayed an economy showing cracks, from weaker household spending to cooler consumer sentiment and higher inflation. Oil prices could aggravate all three.",
     "link": "https://www.wsj.com/economy/oil-shock-hits-an-economy-already-showing-cracks-bf7e385d"
   },
   {
-    "score": 45,
+    "score": 46,
     "pubdate": "2026-03-14-00-29-00 +0000",
     "source": "wsj",
     "headline": "Family of Michigan Synagogue Attacker Killed in Lebanon Strike, Mayor Says",
@@ -56,7 +49,14 @@
     "link": "https://www.nytimes.com/2026/03/14/us/politics/rubio-trump-iran-war.html"
   },
   {
-    "score": 41,
+    "score": 39,
+    "pubdate": "2026-03-14-16-55-00 +0000",
+    "source": "nyt",
+    "headline": "Judge Rules Lawmaker Must Be Allowed to Join Kennedy Center Board Meeting",
+    "link": "https://www.nytimes.com/2026/03/14/us/politics/kennedy-center-judge-order.html"
+  },
+  {
+    "score": 38,
     "pubdate": "2026-03-13-22-16-36 +0000",
     "source": "nyt",
     "headline": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms as Mideast Seeks Help",
@@ -64,9 +64,9 @@
   },
   {
     "score": 38,
-    "pubdate": "2026-03-14-01-30-39 +0000",
-    "source": "nyt",
-    "headline": "Chemical Smell at Control Center Halts Traffic at Washington and Baltimore Airports",
-    "link": "https://www.nytimes.com/2026/03/13/us/airports-ground-stop-dc-baltimore.html"
+    "pubdate": "2026-03-14-01-36-00 +0000",
+    "source": "wsj",
+    "headline": "Watch the WSJ’s analysis of more than 100 video posts shared on the White House’s TikTok and X accounts since the Iran war began",
+    "link": "https://www.wsj.com/politics/policy/video-games-and-viral-memes-how-the-trump-administration-is-selling-the-iran-war-4ec141d1"
   }
 ]
