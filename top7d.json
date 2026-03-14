@@ -14,32 +14,25 @@
     "link": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-oil-war.html"
   },
   {
-    "score": 111,
-    "pubdate": "2026-03-13-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Fuel, energy prices raise the pressure as California officials take next steps on climate",
-    "link": "https://www.latimes.com/environment/story/2026-03-13/fuel-energy-prices-raise-pressure-on-californias-climate-goals"
+    "score": 125,
+    "pubdate": "2026-03-14-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Former NATO chief says he doesn't think allies will be pulled further into Middle East conflict",
+    "link": "https://www.cbc.ca/news/politics/nato-iran-israel-us-war-9.7127634?cmp=rss"
   },
   {
-    "score": 106,
-    "pubdate": "2026-03-13-11-47-09 +0000",
-    "source": "bbc",
-    "headline": "'No-one will hire women' - India's top court rejects menstrual leave petition",
-    "link": "https://www.bbc.com/news/articles/c0436qkegdqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 104,
+    "score": 109,
     "pubdate": "2026-03-13-09-49-30 +0000",
     "source": "nypost",
     "headline": "All 6 crew members killed as US Air Force refueling plane crashes in Iraq, military says",
     "link": "https://nypost.com/2026/03/13/us-news/4-crew-members-killed-as-us-air-force-refueling-plane-crashes-in-iraq/"
   },
   {
-    "score": 101,
-    "pubdate": "2026-03-13-08-45-00 +0000",
-    "source": "wsj",
-    "headline": "German Chemical Industry Warns of Supply-Chain Hit From Middle East War",
-    "link": "https://www.wsj.com/world/europe/german-chemical-industry-warns-of-supply-chain-hit-from-middle-east-war-408a34a2?mod=pls_whats_news_us_business_f"
+    "score": 109,
+    "pubdate": "2026-03-13-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Fuel, energy prices raise the pressure as California officials take next steps on climate",
+    "link": "https://www.latimes.com/environment/story/2026-03-13/fuel-energy-prices-raise-pressure-on-californias-climate-goals"
   },
   {
     "score": 94,
@@ -49,24 +42,31 @@
     "link": "https://www.washingtonpost.com/nation/2026/03/12/temple-israel-synagogue-michigan-attack/"
   },
   {
-    "score": 92,
+    "score": 93,
     "pubdate": "2026-03-09-12-21-00 +0000",
     "source": "wsj",
     "headline": "Eric Trump and Donald Trump Jr. are backing Powerus, a drone company vying to meet Pentagon demand and fill a hole left by the administration’s ban on new Chinese drones in the U.S.",
     "link": "https://www.wsj.com/politics/national-security/trump-sons-back-new-drone-company-targeting-pentagon-sales-2f74abca"
   },
   {
-    "score": 89,
-    "pubdate": "2026-03-12-19-47-38 +0000",
-    "source": "nyt",
-    "headline": "Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee",
-    "link": "https://www.nytimes.com/2026/03/12/world/middleeast/israel-detainee-abuse-charges.html"
+    "score": 92,
+    "pubdate": "2026-03-13-11-01-00 +0000",
+    "source": "wsj",
+    "headline": "A court’s order that the government must pay back companies for $130 billion in tariffs imposed illegally is leading to more tricky legal questions. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/the-tariff-pandoras-box-with-130-billion-in-it-c3a73449"
   },
   {
-    "score": 89,
-    "pubdate": "2026-03-10-09-58-00 +0000",
+    "score": 88,
+    "pubdate": "2026-03-13-17-16-00 +0000",
+    "source": "bbc",
+    "headline": "New US trade probe targets EU, Canada, UK over forced labour",
+    "link": "https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 82,
+    "pubdate": "2026-03-13-21-39-00 +0000",
     "source": "wsj",
-    "headline": "China’s shipments of goods abroad surged at the beginning of the year and its trade surplus rose, showing the country’s export juggernaut is chugging ahead of President Trump’s visit",
-    "link": "https://www.wsj.com/economy/trade/chinas-exports-surge-in-first-two-months-of-year-96ab6abb"
+    "headline": "In a major victory for the Fed, a judge threw out the subpoenas that were issued by the Justice Dept. as part of its criminal investigation into Powell",
+    "link": "https://www.wsj.com/economy/central-banking/judge-throws-out-justice-department-subpoenas-to-federal-reserve-7d90addf"
   }
 ]
