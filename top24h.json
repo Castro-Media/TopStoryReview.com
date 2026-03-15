@@ -1,31 +1,17 @@
 [
   {
-    "score": 157,
+    "score": 135,
     "pubdate": "2026-03-15-01-37-44 +0000",
     "source": "nyt",
     "headline": "Fund-raising Email Features Trump at Ritual for Soldiers Killed in Iran War",
     "link": "https://www.nytimes.com/2026/03/14/us/politics/fund-raising-email-trump-ritual.html"
   },
   {
-    "score": 80,
-    "pubdate": "2026-03-14-09-02-06 +0000",
-    "source": "nyt",
-    "headline": "Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem",
-    "link": "https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-03-14-14-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "New year, new cup and a taller ask for El Farolito soccer team",
-    "link": "https://missionlocal.org/2026/03/new-year-new-cup-and-a-taller-ask-for-el-farolito-soccer-team/"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-03-14-12-00-00 +0000",
-    "source": "latimes",
-    "headline": "Lopez: My promise to you: AI didn't write this column, and if it's after my job, it'll be over my dead body",
-    "link": "https://www.latimes.com/california/story/2026-03-14/lopez-column-artificial-intelligence"
+    "score": 65,
+    "pubdate": "2026-03-14-21-31-10 +0000",
+    "source": "nypost",
+    "headline": "Trump urges ‘team effort’ from allies to keep oil flowing through Strait of Hormuz",
+    "link": "https://nypost.com/2026/03/14/us-news/trump-urges-team-effort-from-other-countries-to-keep-oil-flowing-through-strait-of-hormuz/"
   },
   {
     "score": 45,
@@ -35,11 +21,18 @@
     "link": "https://www.wsj.com/economy/oil-shock-hits-an-economy-already-showing-cracks-bf7e385d"
   },
   {
-    "score": 42,
-    "pubdate": "2026-03-14-09-01-37 +0000",
+    "score": 44,
+    "pubdate": "2026-03-14-18-50-38 +0000",
     "source": "nyt",
-    "headline": "Trump and Rubio’s Vision of War: The Art of Destroy and Deal",
-    "link": "https://www.nytimes.com/2026/03/14/us/politics/rubio-trump-iran-war.html"
+    "headline": "How a Marine Unit in the Middle East Could Open New Phase of Iran War",
+    "link": "https://www.nytimes.com/2026/03/14/us/politics/marines-iran-war.html"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-03-14-12-00-00 +0000",
+    "source": "latimes",
+    "headline": "Lopez: My promise to you: AI didn't write this column, and if it's after my job, it'll be over my dead body",
+    "link": "https://www.latimes.com/california/story/2026-03-14/lopez-column-artificial-intelligence"
   },
   {
     "score": 38,
@@ -49,24 +42,31 @@
     "link": "https://www.nytimes.com/2026/03/15/world/canada/canada-iran-arrests-death.html"
   },
   {
-    "score": 37,
-    "pubdate": "2026-03-14-18-47-24 +0000",
-    "source": "nypost",
-    "headline": "Iran threatens to strike Ukraine after Zelensky sends drone defense experts to Middle East: ‘legitimate target’",
-    "link": "https://nypost.com/2026/03/14/world-news/iran-threatens-to-strike-ukraine-after-zelensky-sends-drone-defense-experts-to-middle-east-legitimate-target/"
+    "score": 32,
+    "pubdate": "2026-03-15-00-01-25 +0000",
+    "source": "bbc",
+    "headline": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
+    "link": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 32,
-    "pubdate": "2026-03-15-03-20-27 +0000",
-    "source": "nypost",
-    "headline": "California gov. candidate Matt Mahan urges end to state gas tax",
-    "link": "https://nypost.com/2026/03/14/us-news/california-gov-candidate-matt-mahan-urges-end-to-state-gas-tax/"
+    "pubdate": "2026-03-14-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "A court ruling throwing out a pair of criminal subpoenas was a vindication for Fed Chair Jerome Powell. But it shows that Fed independence now depends on judges.",
+    "link": "https://www.wsj.com/economy/central-banking/the-court-ruling-in-the-fed-chairs-favor-is-a-double-edged-sword-122f2d35"
   },
   {
-    "score": 32,
-    "pubdate": "2026-03-15-02-16-03 +0000",
-    "source": "nypost",
-    "headline": "Ex-Memorial Sloan Kettering Cancer Center employee arrested for bomb threat at NYC hospital",
-    "link": "https://nypost.com/2026/03/14/us-news/ex-memorial-sloan-kettering-cancer-center-employee-arrested-for-bomb-threat-at-nyc-hospital/"
+    "score": 31,
+    "pubdate": "2026-03-15-02-46-20 +0000",
+    "source": "nyt",
+    "headline": "Judge Rules Lawmaker Must Be Allowed to Join Kennedy Center Board Meeting",
+    "link": "https://www.nytimes.com/2026/03/14/us/politics/kennedy-center-judge-order.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-03-15-04-01-06 +0000",
+    "source": "nyt",
+    "headline": "Some Olympic Leaders Want to See Fixed Winter Games Host Cities",
+    "link": "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html"
   }
 ]
