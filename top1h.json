@@ -1,9 +1,65 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-03-15-03-43-11 +0000",
+    "score": 14,
+    "pubdate": "2026-03-15-04-37-53 +0000",
+    "source": "nyt",
+    "headline": "F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage",
+    "link": "https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-15-04-27-46 +0000",
+    "source": "nyt",
+    "headline": "Trump adds to speculation about Iranian leader’s condition.",
+    "link": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel/trump-adds-to-speculation-about-iranian-leaders-condition"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-15-05-05-05 +0000",
+    "source": "nypost",
+    "headline": "Straphanger, 55, dies after madman knocks him out at NYC’s Penn Station: sources",
+    "link": "https://nypost.com/2026/03/15/us-news/straphanger-55-found-dead-at-nycs-penn-station-after-fatal-assault-sources/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-15-05-06-51 +0000",
     "source": "startribune",
-    "headline": "Here are the five players who stood out at the girls basketball state tournament",
-    "link": "https://www.startribune.com/best-player-performances-at-mn-2026-girls-basketball-state-tournament/601598117"
+    "headline": "Rosemount rallies late to upset Hopkins 63-62 for Class 4A girls basketball state championship",
+    "link": "https://www.startribune.com/rosemount-hopkins-girls-basketball-state-tournament-class-4a-championship/601591920"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-15-04-34-17 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Names 6 Military Members Killed in Iraq Tanker Crash",
+    "link": "https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-15-04-48-47 +0000",
+    "source": "startribune",
+    "headline": "Takeaways: John Hynes vows changes for Wild after 4-2 loss to Rangers",
+    "link": "https://www.startribune.com/takeaways-breaks-dont-go-wilds-way-in-4-2-loss-to-rangers/601588400"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-03-15-05-18-10 +0000",
+    "source": "nyt",
+    "headline": "U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy",
+    "link": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-15-04-37-53 +0000",
+    "source": "nyt",
+    "headline": "F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage",
+    "link": "https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-15-04-27-46 +0000",
+    "source": "nyt",
+    "headline": "Trump adds to speculation about Iranian leader’s condition.",
+    "link": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel/trump-adds-to-speculation-about-iranian-leaders-condition"
   }
 ]
