@@ -1,6 +1,6 @@
 [
   {
-    "score": 678,
+    "score": 677,
     "pubdate": "2026-03-14-01-00-00 +0000",
     "source": "wsj",
     "headline": "Well before the U.S. bombing started, President Trump knew there was a chance Iran would close the Strait of Hormuz, one of the world’s most vital shipping lanes. He decided to go to war anyway.",
@@ -57,16 +57,16 @@
   },
   {
     "score": 86,
-    "pubdate": "2026-03-13-11-01-00 +0000",
-    "source": "wsj",
-    "headline": "A court’s order that the government must pay back companies for $130 billion in tariffs imposed illegally is leading to more tricky legal questions. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/the-tariff-pandoras-box-with-130-billion-in-it-c3a73449"
-  },
-  {
-    "score": 86,
     "pubdate": "2026-03-14-12-00-00 +0000",
     "source": "latimes",
     "headline": "Lopez: My promise to you: AI didn't write this column, and if it's after my job, it'll be over my dead body",
     "link": "https://www.latimes.com/california/story/2026-03-14/lopez-column-artificial-intelligence"
+  },
+  {
+    "score": 86,
+    "pubdate": "2026-03-13-11-01-00 +0000",
+    "source": "wsj",
+    "headline": "A court’s order that the government must pay back companies for $130 billion in tariffs imposed illegally is leading to more tricky legal questions. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/the-tariff-pandoras-box-with-130-billion-in-it-c3a73449"
   }
 ]
