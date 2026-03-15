@@ -14,13 +14,6 @@
     "link": "https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html"
   },
   {
-    "score": 62,
-    "pubdate": "2026-03-14-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Former NATO chief says he doesn't think allies will be pulled further into Middle East conflict",
-    "link": "https://www.cbc.ca/news/politics/nato-iran-israel-us-war-9.7127634?cmp=rss"
-  },
-  {
     "score": 48,
     "pubdate": "2026-03-14-14-00-00 +0000",
     "source": "missionlocal",
@@ -49,18 +42,18 @@
     "link": "https://www.nytimes.com/2026/03/14/us/politics/rubio-trump-iran-war.html"
   },
   {
-    "score": 39,
+    "score": 38,
     "pubdate": "2026-03-15-06-42-14 +0000",
     "source": "nyt",
     "headline": "Two Arrested in Death of Anti-Iranian Regime Activist in Canada",
     "link": "https://www.nytimes.com/2026/03/15/world/canada/canada-iran-arrests-death.html"
   },
   {
-    "score": 32,
-    "pubdate": "2026-03-15-02-16-03 +0000",
+    "score": 37,
+    "pubdate": "2026-03-14-18-47-24 +0000",
     "source": "nypost",
-    "headline": "Ex-Memorial Sloan Kettering Cancer Center employee arrested for bomb threat at NYC hospital",
-    "link": "https://nypost.com/2026/03/14/us-news/ex-memorial-sloan-kettering-cancer-center-employee-arrested-for-bomb-threat-at-nyc-hospital/"
+    "headline": "Iran threatens to strike Ukraine after Zelensky sends drone defense experts to Middle East: ‘legitimate target’",
+    "link": "https://nypost.com/2026/03/14/world-news/iran-threatens-to-strike-ukraine-after-zelensky-sends-drone-defense-experts-to-middle-east-legitimate-target/"
   },
   {
     "score": 32,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "California gov. candidate Matt Mahan urges end to state gas tax",
     "link": "https://nypost.com/2026/03/14/us-news/california-gov-candidate-matt-mahan-urges-end-to-state-gas-tax/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-03-15-02-16-03 +0000",
+    "source": "nypost",
+    "headline": "Ex-Memorial Sloan Kettering Cancer Center employee arrested for bomb threat at NYC hospital",
+    "link": "https://nypost.com/2026/03/14/us-news/ex-memorial-sloan-kettering-cancer-center-employee-arrested-for-bomb-threat-at-nyc-hospital/"
   }
 ]
