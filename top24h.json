@@ -1,13 +1,13 @@
 [
   {
-    "score": 190,
+    "score": 188,
     "pubdate": "2026-03-16-14-14-39 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Israel Expands Lebanon Offensive; Trump’s Oil-Route Demands Draw Cool Response",
     "link": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon"
   },
   {
-    "score": 65,
+    "score": 64,
     "pubdate": "2026-03-16-05-14-45 +0000",
     "source": "bbc",
     "headline": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
@@ -21,7 +21,7 @@
     "link": "https://www.nytimes.com/2026/03/15/us/politics/energy-secretary-iran-oil-prices.html"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2026-03-16-13-23-13 +0000",
     "source": "bbc",
     "headline": "Starmer says UK working with allies on plan to reopen Strait of Hormuz",
@@ -36,10 +36,10 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-03-15-17-06-25 +0000",
-    "source": "nypost",
-    "headline": "Captain of Iranian women’s soccer team is latest to withdraw asylum bid: ‘Family members are missing’",
-    "link": "https://nypost.com/2026/03/15/world-news/captain-of-iranian-womens-soccer-team-withdraws-asylum-bid/"
+    "pubdate": "2026-03-16-10-44-44 +0000",
+    "source": "nyt",
+    "headline": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
+    "link": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html"
   },
   {
     "score": 39,
@@ -50,17 +50,10 @@
   },
   {
     "score": 38,
-    "pubdate": "2026-03-15-21-09-33 +0000",
-    "source": "cbc",
-    "headline": "Israel says Michigan synagogue attacker was brother of killed Hezbollah commander",
-    "link": "https://www.cbc.ca/news/world/michigan-synagogue-attacker-hezbollah-israel-9.7129746?cmp=rss"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-03-15-14-59-05 +0000",
-    "source": "nyt",
-    "headline": "Some Olympic Leaders Want to See Fixed Winter Games Host Cities",
-    "link": "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html"
+    "pubdate": "2026-03-16-11-49-14 +0000",
+    "source": "nypost",
+    "headline": "Iranian drone strike takes out fuel tank at Dubai airport, temporarily halting flights",
+    "link": "https://nypost.com/2026/03/16/world-news/iranian-drone-strike-takes-out-fuel-tank-at-dubai-airport-temporarily-halting-flights/"
   },
   {
     "score": 37,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Trump briefed that Iran’s new Supreme Leader Mojtaba Khamenei is probably gay — and president has priceless reaction",
     "link": "https://nypost.com/2026/03/16/us-news/trump-briefed-that-irans-new-supreme-leader-mojtaba-khamenei-is-probably-gay/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-03-16-09-29-01 +0000",
+    "source": "bbc",
+    "headline": "Kpop Demon Hunters wins Oscars for  best animated film and best original song",
+    "link": "https://www.bbc.com/news/articles/cvg823zkx0go?at_medium=RSS&at_campaign=rss"
   }
 ]
