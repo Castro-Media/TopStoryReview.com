@@ -1,6 +1,6 @@
 [
   {
-    "score": 164,
+    "score": 163,
     "pubdate": "2026-03-16-04-26-59 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments",
@@ -50,23 +50,23 @@
   },
   {
     "score": 33,
+    "pubdate": "2026-03-15-10-38-22 +0000",
+    "source": "bbc",
+    "headline": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+    "link": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
     "pubdate": "2026-03-16-02-39-01 +0000",
     "source": "bbc",
     "headline": "How did Oscar winner Kpop Demon Hunters win hearts the world over?",
     "link": "https://www.bbc.com/news/articles/c4g4n1dyepdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
+    "score": 32,
     "pubdate": "2026-03-15-09-01-01 +0000",
     "source": "nyt",
     "headline": "Amid War in Iran, Europe’s Flashes of Military Strength Also Show Its Weakness",
     "link": "https://www.nytimes.com/2026/03/15/world/europe/europe-iran-military.html"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-03-15-10-38-22 +0000",
-    "source": "bbc",
-    "headline": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
-    "link": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss"
   }
 ]
