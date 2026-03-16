@@ -1,17 +1,31 @@
 [
   {
-    "score": 233,
+    "score": 247,
     "pubdate": "2026-03-16-14-53-29 +0000",
     "source": "nyt",
     "headline": "With Iran War, Trump Risks Stepping on Gains From His Own Tax Cuts",
     "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html"
   },
   {
-    "score": 81,
+    "score": 92,
     "pubdate": "2026-03-16-00-27-05 +0000",
     "source": "nypost",
     "headline": "Nightmare hurdles oil bosses face in California — as experts reveal when gas prices will fall",
     "link": "https://nypost.com/2026/03/15/us-news/nightmare-hurdles-oil-bosses-face-in-california-as-experts-reveal-when-gas-prices-will-fall/"
+  },
+  {
+    "score": 80,
+    "pubdate": "2026-03-16-19-09-39 +0000",
+    "source": "nypost",
+    "headline": "Trump admits US doesn’t know if new Iranian supreme leader Mojtaba Khamenei is ‘dead or not’",
+    "link": "https://nypost.com/2026/03/16/us-news/trump-admits-us-doesnt-know-if-new-iranian-supreme-leader-mojtaba-khamenei-is-dead-or-not/"
+  },
+  {
+    "score": 74,
+    "pubdate": "2026-03-16-17-57-45 +0000",
+    "source": "bbc",
+    "headline": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
+    "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 71,
@@ -21,52 +35,38 @@
     "link": "https://www.wsj.com/politics/policy/susie-wiles-breast-cancer-diagnosis-756f110d"
   },
   {
-    "score": 70,
-    "pubdate": "2026-03-16-17-57-45 +0000",
-    "source": "bbc",
-    "headline": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
-    "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-03-16-19-09-39 +0000",
-    "source": "nypost",
-    "headline": "Trump admits US doesn’t know if new Iranian supreme leader Mojtaba Khamenei is ‘dead or not’",
-    "link": "https://nypost.com/2026/03/16/us-news/trump-admits-us-doesnt-know-if-new-iranian-supreme-leader-mojtaba-khamenei-is-dead-or-not/"
-  },
-  {
     "score": 65,
-    "pubdate": "2026-03-16-17-00-58 +0000",
+    "pubdate": "2026-03-16-01-23-30 +0000",
     "source": "nypost",
-    "headline": "Trump says numerous countries ‘on the way’ as he urges nations to help reopen of Strait of Hormuz",
-    "link": "https://nypost.com/2026/03/16/us-news/trump-again-urges-nations-to-help-reopen-of-strait-of-hormuz/"
+    "headline": "Trump warns of ‘very bad’ future if NATO allies refuse to help open critical Strait of Hormuz",
+    "link": "https://nypost.com/2026/03/15/us-news/trump-warns-of-very-bad-future-if-nato-allies-refuse-to-help-open-critical-strait-of-hormuz/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-03-16-05-14-45 +0000",
-    "source": "bbc",
-    "headline": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-    "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 43,
+    "score": 49,
     "pubdate": "2026-03-16-16-37-10 +0000",
     "source": "nyt",
     "headline": "Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations",
     "link": "https://www.nytimes.com/2026/03/16/world/middleeast/trump-visit-xi-china-iran.html"
   },
   {
-    "score": 42,
-    "pubdate": "2026-03-16-16-58-48 +0000",
-    "source": "nypost",
-    "headline": "Shocking Oscars aftermath pic exposes climate hypocrisy of celebs: ‘Where’s all that “protect the planet” energy now?’",
-    "link": "https://nypost.com/2026/03/16/us-news/oscars-aftermath-pic-exposes-climate-hypocrisy-of-celebrities/"
+    "score": 46,
+    "pubdate": "2026-03-16-02-01-26 +0000",
+    "source": "nyt",
+    "headline": "Two Arrested in Death of Anti-Iranian Regime Activist in Canada",
+    "link": "https://www.nytimes.com/2026/03/15/world/canada/canada-iran-arrests-death.html"
   },
   {
-    "score": 40,
+    "score": 42,
     "pubdate": "2026-03-16-18-58-36 +0000",
     "source": "nyt",
     "headline": "Quartz Countertop Makers Want Immunity Against Legal Claims from Sick Stone Cutters",
     "link": "https://www.nytimes.com/2026/03/16/us/politics/quartz-countertops-silicosis-liability.html"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-03-16-10-58-00 +0000",
+    "source": "wsj",
+    "headline": "The CIA turned to a former Chevron executive to map Venezuela’s power structure and oil industry before taking out Nicolas Máduro. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/a-rare-peek-behind-the-curtain-of-washington-spycraft-39a883af"
   }
 ]
