@@ -1,51 +1,72 @@
 [
   {
-    "score": 19,
-    "pubdate": "2026-03-17-17-12-13 +0000",
+    "score": 45,
+    "pubdate": "2026-03-17-18-58-49 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Israel Says It Has Killed Iran’s De Facto Leader",
-    "link": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon"
+    "headline": "Trump Says U.S. Doesn’t Need Allies to Reopen Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-nato-iran-strait-of-hormuz.html"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-03-17-19-14-20 +0000",
+    "source": "nyt",
+    "headline": "Flight Prices Are Up Amid Soaring Fuel Costs, but Travel Demand Remains High",
+    "link": "https://www.nytimes.com/2026/03/17/business/air-travel-iran-war-fares-jet-fuel.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-03-17-18-50-50 +0000",
+    "source": "nyt",
+    "headline": "Israel’s Killing of Ali Larijani Could Allow Military to Tighten Grip on Iran",
+    "link": "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-03-17-19-02-25 +0000",
+    "source": "nyt",
+    "headline": "Inside the Supply Line Delivering American Guns to Mexican Cartels",
+    "link": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html"
   },
   {
     "score": 18,
-    "pubdate": "2026-03-17-17-15-06 +0000",
+    "pubdate": "2026-03-17-19-15-27 +0000",
     "source": "nyt",
-    "headline": "In Maine, Janet Mills Slams Graham Platner in First Negative Ad",
-    "link": "https://www.nytimes.com/2026/03/17/us/politics/janet-mills-graham-platner-ad-maine-senate-race.html"
+    "headline": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
+    "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-03-17-17-19-19 +0000",
+    "score": 18,
+    "pubdate": "2026-03-17-18-34-27 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Seeks to Remove Cuba’s President From Power During Negotiations",
+    "link": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-17-19-06-00 +0000",
+    "source": "wsj",
+    "headline": "A bill imposing strict voter eligibility rules—including an end of most mail-in ballots—exposes a deep split among Republicans over policy and tactics",
+    "link": "https://www.wsj.com/politics/policy/trump-save-america-act-voter-id-4039cefa"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-17-18-34-48 +0000",
     "source": "nypost",
-    "headline": "Irish prime minister addresses how Europe feels about US-Iran conflict: ‘We prefer peaceful resolution’",
-    "link": "https://nypost.com/2026/03/17/world-news/irish-prime-minister-addresses-how-europe-feels-about-us-iran-conflict/"
+    "headline": "Scorching heat wave smashing California causes surge in deadly creature encounters — as shocking video emerges",
+    "link": "https://nypost.com/2026/03/17/us-news/scorching-heat-wave-smashing-california-causes-surge-in-people-stumbling-on-deadly-creature-as-shocking-video-emerges/"
   },
   {
-    "score": 10,
-    "pubdate": "2026-03-17-17-14-03 +0000",
+    "score": 15,
+    "pubdate": "2026-03-17-19-15-45 +0000",
     "source": "nypost",
-    "headline": "Celebrations break out across Iran over death of security chief Ali Larijani: ‘Burn’",
-    "link": "https://nypost.com/2026/03/17/world-news/celebrations-break-out-across-iran-over-death-of-ali-larijani-burn/"
+    "headline": "Brian Cole Jr., man charged with planting pipe bombs before the Jan. 6 riot, argues Trump’s mass pardons apply to him",
+    "link": "https://nypost.com/2026/03/17/us-news/brian-cole-jr-man-charged-with-planting-pipe-bombs-before-the-jan-6-riot-argues-trumps-mass-pardons-apply-to-him/"
   },
   {
-    "score": 7,
-    "pubdate": "2026-03-17-17-10-38 +0000",
+    "score": 15,
+    "pubdate": "2026-03-17-19-20-26 +0000",
     "source": "nyt",
-    "headline": "Trump Says Newsom Shouldn’t Be President Because He Is Dyslexic",
-    "link": "https://www.nytimes.com/2026/03/17/us/trump-newsom-dyslexic-president-learning-disabilities.html"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-03-17-17-17-19 +0000",
-    "source": "bbc",
-    "headline": "Focus must remain on Ukraine despite Iran war, PM says",
-    "link": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-17-17-15-06 +0000",
-    "source": "nyt",
-    "headline": "In Maine, Janet Mills Slams Graham Platner in First Negative Ad",
-    "link": "https://www.nytimes.com/2026/03/17/us/politics/janet-mills-graham-platner-ad-maine-senate-race.html"
+    "headline": "Chief Justice Says Personal Attacks on Judges Are ‘Dangerous’ and Must Stop",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/chief-justice-trump-personal-attacks.html"
   }
 ]
