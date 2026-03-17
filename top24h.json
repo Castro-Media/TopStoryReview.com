@@ -1,13 +1,13 @@
 [
   {
-    "score": 300,
+    "score": 304,
     "pubdate": "2026-03-16-21-17-23 +0000",
     "source": "nypost",
     "headline": "Vance denies ‘wedge’ with Trump over Iran war, claims foreign war opposition was only under ‘dumb’ presidents",
     "link": "https://nypost.com/2026/03/16/us-news/vance-denies-wedge-with-trump-over-iran-war/"
   },
   {
-    "score": 86,
+    "score": 87,
     "pubdate": "2026-03-16-10-58-00 +0000",
     "source": "wsj",
     "headline": "The CIA turned to a former Chevron executive to map Venezuela’s power structure and oil industry before taking out Nicolas Máduro. Read more in today’s WSJ Politics Newsletter:",
@@ -21,14 +21,14 @@
     "link": "https://nypost.com/2026/03/16/world-news/trump-slams-china-us-allies-for-not-jumping-at-chance-to-help-open-the-strait-of-hormuz/"
   },
   {
-    "score": 71,
-    "pubdate": "2026-03-16-18-05-00 +0000",
+    "score": 72,
+    "pubdate": "2026-03-17-06-33-00 +0000",
     "source": "wsj",
     "headline": "President Trump said White House chief of staff Susie Wiles has been diagnosed with early-stage breast cancer and will undergo treatment",
     "link": "https://www.wsj.com/politics/policy/susie-wiles-breast-cancer-diagnosis-756f110d"
   },
   {
-    "score": 69,
+    "score": 70,
     "pubdate": "2026-03-16-19-09-39 +0000",
     "source": "nypost",
     "headline": "Trump admits US doesn’t know if new Iranian supreme leader Mojtaba Khamenei is ‘dead or not’",
@@ -42,11 +42,18 @@
     "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
+    "score": 56,
     "pubdate": "2026-03-17-00-34-42 +0000",
     "source": "nypost",
     "headline": "Energy secretary tears Gavin Newsom apart for stream of ‘ignorant’ comments on gas prices",
     "link": "https://nypost.com/2026/03/16/us-news/energy-secretary-slams-gavin-newsom-over-ignorant-comments-on-california-gas-prices/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-03-17-06-16-45 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
+    "link": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon"
   },
   {
     "score": 46,
@@ -56,17 +63,10 @@
     "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html"
   },
   {
-    "score": 46,
-    "pubdate": "2026-03-17-05-16-45 +0000",
-    "source": "nyt",
-    "headline": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
-    "link": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon"
-  },
-  {
     "score": 44,
-    "pubdate": "2026-03-16-18-11-01 +0000",
-    "source": "latimes",
-    "headline": "Ex-California Highway Patrol officer faces murder charges in L.A. crash that killed four",
-    "link": "https://www.latimes.com/california/story/2026-03-16/los-angeles-california-highway-patrol-officer-murder-charge"
+    "pubdate": "2026-03-17-01-02-16 +0000",
+    "source": "nyt",
+    "headline": "Two Arrested in Death of Anti-Iranian Regime Activist in Canada",
+    "link": "https://www.nytimes.com/2026/03/15/world/canada/canada-iran-arrests-death.html"
   }
 ]
