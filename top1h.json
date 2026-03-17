@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 31,
+    "pubdate": "2026-03-17-09-05-53 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
+    "link": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-03-17-08-38-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Price Rises as LNG Supply Disruptions Push Asian Prices Higher",
+    "link": "https://www.wsj.com/articles/european-gas-price-rises-as-lng-supply-disruptions-push-asian-prices-higher-f914d619?mod=rss_markets_main"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-17-09-00-18 +0000",
+    "source": "nyt",
+    "headline": "Inside the Supply Line Delivering American Guns to Mexican Cartels",
+    "link": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-17-09-03-15 +0000",
+    "source": "nyt",
+    "headline": "As Carney Seeks New Alliances for Canada, He Looks Away on Human Rights",
+    "link": "https://www.nytimes.com/2026/03/17/world/canada/canada-carney-alliances-human-rights.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-17-09-01-45 +0000",
+    "source": "nyt",
+    "headline": "Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees",
+    "link": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-17-09-03-00 +0000",
+    "source": "wsj",
+    "headline": "Nordea to Book $219 Million Restructuring Costs, Plans Job Cuts",
+    "link": "https://www.wsj.com/business/nordea-to-book-219-million-restructuring-costs-plans-job-cuts-93a39b2f?mod=rss_markets_main"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-17-09-03-32 +0000",
+    "source": "nyt",
+    "headline": "Senate to Take Up Voter Bill Sought by Trump but Opposed by Democrats",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/senate-voter-bill-filibuster.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-17-09-05-51 +0000",
+    "source": "nyt",
+    "headline": "Europe Rejects Trump’s Demands for Warships to Reopen the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-17-09-03-46 +0000",
+    "source": "nyt",
+    "headline": "Admiral’s Comments Undercut Pentagon’s Cluster Munition Policy",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/cluster-munitions-iran.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-17-09-01-30 +0000",
+    "source": "nyt",
+    "headline": "War in Iran Shows Growing Conservative Divide Over Israel",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/iran-war-trump-conservative-divide-israel.html"
+  }
+]
