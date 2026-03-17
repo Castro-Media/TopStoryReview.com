@@ -1,27 +1,27 @@
 [
   {
-    "score": 288,
+    "score": 306,
     "pubdate": "2026-03-16-21-17-23 +0000",
     "source": "nypost",
     "headline": "Vance denies ‘wedge’ with Trump over Iran war, claims foreign war opposition was only under ‘dumb’ presidents",
     "link": "https://nypost.com/2026/03/16/us-news/vance-denies-wedge-with-trump-over-iran-war/"
   },
   {
-    "score": 80,
-    "pubdate": "2026-03-16-21-38-51 +0000",
-    "source": "nypost",
-    "headline": "Trump slams China, US allies for not jumping at chance to help open the Strait of Hormuz: ‘They should be thanking us’",
-    "link": "https://nypost.com/2026/03/16/world-news/trump-slams-china-us-allies-for-not-jumping-at-chance-to-help-open-the-strait-of-hormuz/"
-  },
-  {
-    "score": 80,
+    "score": 86,
     "pubdate": "2026-03-16-10-58-00 +0000",
     "source": "wsj",
     "headline": "The CIA turned to a former Chevron executive to map Venezuela’s power structure and oil industry before taking out Nicolas Máduro. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/a-rare-peek-behind-the-curtain-of-washington-spycraft-39a883af"
   },
   {
-    "score": 80,
+    "score": 82,
+    "pubdate": "2026-03-16-21-38-51 +0000",
+    "source": "nypost",
+    "headline": "Trump slams China, US allies for not jumping at chance to help open the Strait of Hormuz: ‘They should be thanking us’",
+    "link": "https://nypost.com/2026/03/16/world-news/trump-slams-china-us-allies-for-not-jumping-at-chance-to-help-open-the-strait-of-hormuz/"
+  },
+  {
+    "score": 71,
     "pubdate": "2026-03-16-18-05-00 +0000",
     "source": "wsj",
     "headline": "President Trump said White House chief of staff Susie Wiles has been diagnosed with early-stage breast cancer and will undergo treatment",
@@ -29,24 +29,17 @@
   },
   {
     "score": 70,
-    "pubdate": "2026-03-16-05-14-45 +0000",
-    "source": "bbc",
-    "headline": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-    "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-03-16-19-09-39 +0000",
+    "source": "nypost",
+    "headline": "Trump admits US doesn’t know if new Iranian supreme leader Mojtaba Khamenei is ‘dead or not’",
+    "link": "https://nypost.com/2026/03/16/us-news/trump-admits-us-doesnt-know-if-new-iranian-supreme-leader-mojtaba-khamenei-is-dead-or-not/"
   },
   {
-    "score": 63,
+    "score": 60,
     "pubdate": "2026-03-16-17-57-45 +0000",
     "source": "bbc",
     "headline": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
     "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-03-16-11-49-14 +0000",
-    "source": "nypost",
-    "headline": "Iranian drone strike takes out fuel tank at Dubai airport, temporarily halting flights",
-    "link": "https://nypost.com/2026/03/16/world-news/iranian-drone-strike-takes-out-fuel-tank-at-dubai-airport-temporarily-halting-flights/"
   },
   {
     "score": 55,
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2026/03/16/us-news/energy-secretary-slams-gavin-newsom-over-ignorant-comments-on-california-gas-prices/"
   },
   {
-    "score": 48,
+    "score": 49,
+    "pubdate": "2026-03-16-05-14-45 +0000",
+    "source": "bbc",
+    "headline": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+    "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-03-16-14-53-29 +0000",
     "source": "nyt",
     "headline": "With Iran War, Trump Risks Stepping on Gains From His Own Tax Cuts",
     "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html"
   },
   {
-    "score": 44,
-    "pubdate": "2026-03-16-10-13-40 +0000",
-    "source": "cbc",
-    "headline": "Canada joins allies in warning against Israeli ground offensive in Lebanon",
-    "link": "https://www.cbc.ca/news/world/lebanon-israel-9.7130049?cmp=rss"
+    "score": 46,
+    "pubdate": "2026-03-16-11-49-14 +0000",
+    "source": "nypost",
+    "headline": "Iranian drone strike takes out fuel tank at Dubai airport, temporarily halting flights",
+    "link": "https://nypost.com/2026/03/16/world-news/iranian-drone-strike-takes-out-fuel-tank-at-dubai-airport-temporarily-halting-flights/"
   }
 ]
