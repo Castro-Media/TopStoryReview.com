@@ -1,48 +1,13 @@
 [
   {
-    "score": 44,
-    "pubdate": "2026-03-18-18-47-30 +0000",
-    "source": "nyt",
-    "headline": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War",
-    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
-  },
-  {
-    "score": 31,
+    "score": 23,
     "pubdate": "2026-03-18-19-13-00 +0000",
     "source": "wsj",
     "headline": "Sen. Markwayne Mullin (R., Okla.), President Trump’s pick to lead the Department of Homeland Security, struck a defiant tone in the early moments of his Senate confirmation hearing",
     "link": "https://www.wsj.com/politics/national-security/markwayne-mullin-dhs-confirmation-hearing-8c90f830"
   },
   {
-    "score": 26,
-    "pubdate": "2026-03-18-18-41-58 +0000",
-    "source": "nyt",
-    "headline": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
-    "link": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-18-19-13-55 +0000",
-    "source": "nyt",
-    "headline": "Couple Killed in Cluster Bomb Attack Near Tel Aviv",
-    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-bombing-tel-aviv-deaths.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-18-18-35-01 +0000",
-    "source": "nypost",
-    "headline": "The chilling six words Cesar Chavez muttered after he allegedly raped 13-year-old girl",
-    "link": "https://nypost.com/2026/03/18/us-news/cesar-chavez-allegedly-raped-teen-girl-report/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-18-18-24-46 +0000",
-    "source": "nyt",
-    "headline": "Israel Intensifies Strikes on Beirut, Escalating Its Campaign Against Hezbollah",
-    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-beirut-lebanon-hezbollah.html"
-  },
-  {
-    "score": 18,
+    "score": 20,
     "pubdate": "2026-03-18-19-14-09 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Oil and Gas Prices Jump After Strike Hits Key Energy Site",
@@ -50,23 +15,58 @@
   },
   {
     "score": 18,
-    "pubdate": "2026-03-18-18-57-04 +0000",
+    "pubdate": "2026-03-18-19-13-55 +0000",
     "source": "nyt",
-    "headline": "F.D.A. Investigates 7 E. Coli Illnesses as Raw Dairy Farm Denies Any Link",
-    "link": "https://www.nytimes.com/2026/03/18/us/fda-e-coli-raw-milk-cheese-california.html"
+    "headline": "Couple Killed in Cluster Bomb Attack Near Tel Aviv",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-bombing-tel-aviv-deaths.html"
   },
   {
-    "score": 18,
-    "pubdate": "2026-03-18-18-39-37 +0000",
-    "source": "nypost",
-    "headline": "Lone actors ‘most likely’ to commit US terror attacks: intel report",
-    "link": "https://nypost.com/2026/03/18/us-news/lone-actors-most-likely-to-commit-us-terror-attacks-intel-report/"
+    "score": 10,
+    "pubdate": "2026-03-18-19-13-15 +0000",
+    "source": "nyt",
+    "headline": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
   },
   {
-    "score": 16,
-    "pubdate": "2026-03-18-18-35-38 +0000",
+    "score": 7,
+    "pubdate": "2026-03-18-19-12-00 +0000",
+    "source": "wsj",
+    "headline": "Best High-Yield Savings Accounts for March 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-18-19-07-56 +0000",
+    "source": "wapo",
+    "headline": "Oil prices climb again as White House moves make little impact",
+    "link": "https://www.washingtonpost.com/business/2026/03/18/oil-jones-act-trump-iran/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-03-18-19-09-01 +0000",
+    "source": "cbc",
+    "headline": "While Canada pumps the brakes on robotaxis, China hits the gas",
+    "link": "https://www.cbc.ca/player/play/9.7133211?cmp=rss"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-03-18-19-13-00 +0000",
+    "source": "wsj",
+    "headline": "Key Moments From Markwayne Mullin’s Capitol Hill Hearing",
+    "link": "https://www.wsj.com/politics/national-security/markwayne-mullin-dhs-confirmation-hearing-8c90f830"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-18-19-13-55 +0000",
     "source": "nyt",
-    "headline": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader",
-    "link": "https://www.nytimes.com/2026/03/18/world/europe/belgium-congo-lumumba-trial.html"
+    "headline": "Couple Killed in Cluster Bomb Attack Near Tel Aviv",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-bombing-tel-aviv-deaths.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-18-19-13-15 +0000",
+    "source": "nyt",
+    "headline": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
   }
 ]
