@@ -1,6 +1,6 @@
 [
   {
-    "score": 321,
+    "score": 318,
     "pubdate": "2026-03-17-23-29-32 +0000",
     "source": "nyt",
     "headline": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
@@ -28,7 +28,7 @@
     "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 87,
+    "score": 80,
     "pubdate": "2026-03-17-16-35-29 +0000",
     "source": "bbc",
     "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
@@ -43,24 +43,17 @@
   },
   {
     "score": 60,
-    "pubdate": "2026-03-17-20-22-51 +0000",
-    "source": "startribune",
-    "headline": "Walz pitches child care tax credit, new social media tax in his final budget",
-    "link": "https://www.startribune.com/walz-pitches-child-care-tax-credit-new-social-media-tax-in-his-final-budget/601599288"
-  },
-  {
-    "score": 60,
     "pubdate": "2026-03-17-21-00-55 +0000",
     "source": "nyt",
     "headline": "Israel Keeps Killing Key Iranian Leaders. Will It Work?",
     "link": "https://www.nytimes.com/2026/03/17/world/middleeast/israel-iran-leader-deaths.html"
   },
   {
-    "score": 57,
-    "pubdate": "2026-03-17-08-07-54 +0000",
-    "source": "wsj",
-    "headline": "Stock Market News, March 17, 2026: Dow Jumps, Brent Crude Pulls Back From $105 Oil Gains Amid Mideast Attacks",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-17-2026?mod=rss_markets_main"
+    "score": 59,
+    "pubdate": "2026-03-17-20-22-51 +0000",
+    "source": "startribune",
+    "headline": "Walz pitches child care tax credit, new social media tax in his final budget",
+    "link": "https://www.startribune.com/walz-pitches-child-care-tax-credit-new-social-media-tax-in-his-final-budget/601599288"
   },
   {
     "score": 56,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Dem challenger in Texas House race starred in his own bizarre music video where he played a pervert",
     "link": "https://nypost.com/2026/03/17/us-news/dem-challenger-in-texas-house-race-starred-in-his-own-bizarre-music-video-where-he-played-a-pervert/"
+  },
+  {
+    "score": 55,
+    "pubdate": "2026-03-17-08-07-54 +0000",
+    "source": "wsj",
+    "headline": "Stock Market News, March 17, 2026: Dow Jumps, Brent Crude Pulls Back From $105 Oil Gains Amid Mideast Attacks",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-17-2026?mod=rss_markets_main"
   }
 ]

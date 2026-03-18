@@ -1,6 +1,6 @@
 [
   {
-    "score": 680,
+    "score": 678,
     "pubdate": "2026-03-14-01-00-00 +0000",
     "source": "wsj",
     "headline": "Well before the U.S. bombing started, President Trump knew there was a chance Iran would close the Strait of Hormuz, one of the world’s most vital shipping lanes. He decided to go to war anyway.",
@@ -22,17 +22,17 @@
   },
   {
     "score": 161,
-    "pubdate": "2026-03-17-09-52-59 +0000",
-    "source": "nypost",
-    "headline": "Top Iran security official Ali Larijani killed days after goading US and Israel in live interview",
-    "link": "https://nypost.com/2026/03/17/world-news/israel-says-top-iranian-security-official-killed-in-overnight-strike/"
-  },
-  {
-    "score": 161,
     "pubdate": "2026-03-14-19-40-45 +0000",
     "source": "cbc",
     "headline": "Carney, Norway PM push message of oil-market stability as war in Middle East rattles global supply",
     "link": "https://www.cbc.ca/news/politics/carney-norway-canada-oil-iran-war-9.7129012?cmp=rss"
+  },
+  {
+    "score": 161,
+    "pubdate": "2026-03-17-09-52-59 +0000",
+    "source": "nypost",
+    "headline": "Top Iran security official Ali Larijani killed days after goading US and Israel in live interview",
+    "link": "https://nypost.com/2026/03/17/world-news/israel-says-top-iranian-security-official-killed-in-overnight-strike/"
   },
   {
     "score": 135,
@@ -49,7 +49,7 @@
     "link": "https://missionlocal.org/2026/03/new-year-new-cup-and-a-taller-ask-for-el-farolito-soccer-team/"
   },
   {
-    "score": 118,
+    "score": 117,
     "pubdate": "2026-03-16-20-47-27 +0000",
     "source": "nypost",
     "headline": "Polymarket bettors allegedly barrage Israeli reporter with death threats over story about Iranian missile strike: ‘Earn back the life you had’",
@@ -64,9 +64,9 @@
   },
   {
     "score": 87,
-    "pubdate": "2026-03-16-10-13-40 +0000",
-    "source": "cbc",
-    "headline": "Canada joins allies in warning against Israeli ground offensive in Lebanon",
-    "link": "https://www.cbc.ca/news/world/lebanon-israel-9.7130049?cmp=rss"
+    "pubdate": "2026-03-17-15-38-13 +0000",
+    "source": "wapo",
+    "headline": "Trump has choked off Cuba’s oil supply. China is stepping in with solar.",
+    "link": "https://www.washingtonpost.com/world/2026/02/28/china-cuba-solar-trump-oil-blockade/"
   }
 ]
