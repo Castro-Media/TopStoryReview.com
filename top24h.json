@@ -1,13 +1,13 @@
 [
   {
-    "score": 240,
+    "score": 238,
     "pubdate": "2026-03-18-11-00-00 +0000",
     "source": "wsj",
     "headline": "Damian Paletta, The Wall Street Journal’s Washington coverage chief, answers reader questions about President Trump and the Iran war. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/answering-your-questions-on-trump-and-iran-7b999816"
   },
   {
-    "score": 112,
+    "score": 107,
     "pubdate": "2026-03-18-14-35-35 +0000",
     "source": "nypost",
     "headline": "Oil spikes after Iran says world’s largest gas fields hit in strikes, vows to attack Gulf oil production in retaliation",
@@ -21,7 +21,7 @@
     "link": "https://www.nytimes.com/2026/03/18/us/california-sex-abuse-laws-ufw-financial-risk.html"
   },
   {
-    "score": 88,
+    "score": 83,
     "pubdate": "2026-03-18-13-51-07 +0000",
     "source": "cbc",
     "headline": "Bank of Canada holds key interest rate at 2.25%, saying war will boost global inflation",
@@ -36,17 +36,17 @@
   },
   {
     "score": 79,
-    "pubdate": "2026-03-18-10-59-42 +0000",
-    "source": "nypost",
-    "headline": "Israel says it assassinated Iranian intelligence minister Esmaeil Khatib in overnight strike",
-    "link": "https://nypost.com/2026/03/18/world-news/israel-says-it-assassinated-iranian-intelligence-minister-esmaeil-khatib-in-overnight-strike/"
-  },
-  {
-    "score": 79,
     "pubdate": "2026-03-18-10-58-00 +0000",
     "source": "wsj",
     "headline": "Lt. Gov. Juliana Stratton of Illinois won her state’s Democratic primary for U.S. Senate, helping her billionaire boss, Gov. JB Pritzker, dodge political embarrassment",
     "link": "https://www.wsj.com/politics/elections/stratton-wins-illinois-senate-race-saving-pritzker-from-political-embarrassment-743fe6f5"
+  },
+  {
+    "score": 75,
+    "pubdate": "2026-03-18-10-59-42 +0000",
+    "source": "nypost",
+    "headline": "Israel says it assassinated Iranian intelligence minister Esmaeil Khatib in overnight strike",
+    "link": "https://nypost.com/2026/03/18/world-news/israel-says-it-assassinated-iranian-intelligence-minister-esmaeil-khatib-in-overnight-strike/"
   },
   {
     "score": 71,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/03/19/us-news/new-details-emerge-about-new-mexico-us-air-force-base-shooting-that-left-1-dead-1-injured/"
   },
   {
-    "score": 70,
-    "pubdate": "2026-03-19-03-54-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Rises After Attacks on Middle East Energy Sites; Asian Stocks Fall",
-    "link": "https://www.wsj.com/finance/oil-rises-amid-widening-mideast-conflict-1ba6564c"
-  },
-  {
     "score": 69,
     "pubdate": "2026-03-18-20-10-00 +0000",
     "source": "wsj",
     "headline": "Sen. Markwayne Mullin, President Trump’s pick to lead Homeland Security, faced pointed questions from senators on his vision for the department, past comments and previously undisclosed travel",
     "link": "https://www.wsj.com/politics/national-security/markwayne-mullin-dhs-confirmation-hearing-8c90f830"
+  },
+  {
+    "score": 66,
+    "pubdate": "2026-03-19-03-54-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Rises After Attacks on Middle East Energy Sites; Asian Stocks Fall",
+    "link": "https://www.wsj.com/finance/oil-rises-amid-widening-mideast-conflict-1ba6564c"
   }
 ]
