@@ -1,9 +1,72 @@
 [
   {
+    "score": 12,
+    "pubdate": "2026-03-19-07-00-07 +0000",
+    "source": "nyt",
+    "headline": "E.U. Loan for Ukraine Becomes Election Leverage for Orban",
+    "link": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html"
+  },
+  {
     "score": 9,
-    "pubdate": "2026-03-19-05-13-00 +0000",
+    "pubdate": "2026-03-19-06-35-44 +0000",
+    "source": "nypost",
+    "headline": "Florida hospital sues patient refusing to leave room 5 months after discharge",
+    "link": "https://nypost.com/2026/03/19/us-news/florida-hospital-sues-patient-who-wont-leave-room-5-months-after-discharge/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-19-06-21-39 +0000",
+    "source": "bbc",
+    "headline": "Indonesia detains four soldiers over acid attack on activist",
+    "link": "https://www.bbc.com/news/articles/c20l07vx5nko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-19-06-37-55 +0000",
+    "source": "bbc",
+    "headline": "Olympic cyclist who ran over wife under fire over Porsche post",
+    "link": "https://www.bbc.com/news/articles/czr0rz4rlrgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-19-07-10-33 +0000",
+    "source": "bbc",
+    "headline": "Sadiq Khan says Labour should pledge to rejoin EU",
+    "link": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-19-07-01-00 +0000",
     "source": "wsj",
-    "headline": "Bank of Japan Holds Steady as Middle East Tensions Raise Uncertainty",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-holds-steady-as-middle-east-tensions-raise-uncertainty-c4b634c3"
+    "headline": "U.S. Treasury Yields Rise as Oil Price Leaps",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-dragged-by-concerns-over-faster-inflation-yen-weakness-aa06805b?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-19-06-47-00 +0000",
+    "source": "wsj",
+    "headline": "Vonovia Swings to Net Profit on Rental Business Strength",
+    "link": "https://www.wsj.com/business/earnings/vonovia-swings-to-net-profit-on-rental-business-strength-72c1b129?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-03-19-06-58-53 +0000",
+    "source": "nyt",
+    "headline": "Missile Attack Kills at Least 3 in West Bank",
+    "link": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-19-07-10-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Could Stay Elevated for Some Time",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-rise-amid-widening-middle-east-conflict-2af3588d?mod=rss_markets_main"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-19-06-56-35 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/heres-the-latest"
   }
 ]

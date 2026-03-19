@@ -1,41 +1,34 @@
 [
   {
-    "score": 243,
+    "score": 240,
     "pubdate": "2026-03-18-11-00-00 +0000",
     "source": "wsj",
     "headline": "Damian Paletta, The Wall Street Journal’s Washington coverage chief, answers reader questions about President Trump and the Iran war. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/answering-your-questions-on-trump-and-iran-7b999816"
   },
   {
-    "score": 108,
+    "score": 112,
     "pubdate": "2026-03-18-14-35-35 +0000",
     "source": "nypost",
     "headline": "Oil spikes after Iran says world’s largest gas fields hit in strikes, vows to attack Gulf oil production in retaliation",
     "link": "https://nypost.com/2026/03/18/world-news/oil-spikes-after-iran-says-worlds-largest-gas-fields-hit-in-strikes-vows-to-attack-gulf-oil-production-in-retaliation/"
   },
   {
-    "score": 104,
-    "pubdate": "2026-03-19-01-14-01 +0000",
-    "source": "nypost",
-    "headline": "Inside the creepy California lair where Cesar Chavez allegedly raped girls and women while living like a king",
-    "link": "https://nypost.com/2026/03/18/us-news/inside-the-creepy-california-lair-where-cesar-chavez-raped-girls-and-women-and-lived-like-a-king/"
+    "score": 100,
+    "pubdate": "2026-03-19-02-02-49 +0000",
+    "source": "nyt",
+    "headline": "After Cesar Chavez Allegations, California Sex Abuse Laws Could Put U.F.W. at Financial Risk",
+    "link": "https://www.nytimes.com/2026/03/18/us/california-sex-abuse-laws-ufw-financial-risk.html"
   },
   {
-    "score": 89,
+    "score": 88,
     "pubdate": "2026-03-18-13-51-07 +0000",
     "source": "cbc",
     "headline": "Bank of Canada holds key interest rate at 2.25%, saying war will boost global inflation",
     "link": "https://www.cbc.ca/news/business/bank-of-canada-interest-rate-9.7132984?cmp=rss"
   },
   {
-    "score": 82,
-    "pubdate": "2026-03-18-10-58-00 +0000",
-    "source": "wsj",
-    "headline": "Lt. Gov. Juliana Stratton of Illinois won her state’s Democratic primary for U.S. Senate, helping her billionaire boss, Gov. JB Pritzker, dodge political embarrassment",
-    "link": "https://www.wsj.com/politics/elections/stratton-wins-illinois-senate-race-saving-pritzker-from-political-embarrassment-743fe6f5"
-  },
-  {
-    "score": 80,
+    "score": 81,
     "pubdate": "2026-03-19-01-22-00 +0000",
     "source": "wsj",
     "headline": "President Trump has spent months talking about how badly he wants Chair Jerome Powell out of the Federal Reserve. Powell signaled Wednesday that he isn’t going anywhere.",
@@ -49,11 +42,11 @@
     "link": "https://nypost.com/2026/03/18/world-news/israel-says-it-assassinated-iranian-intelligence-minister-esmaeil-khatib-in-overnight-strike/"
   },
   {
-    "score": 71,
-    "pubdate": "2026-03-19-03-54-00 +0000",
+    "score": 79,
+    "pubdate": "2026-03-18-10-58-00 +0000",
     "source": "wsj",
-    "headline": "Oil Rises After Attacks on Middle East Energy Sites; Asian Stocks Fall",
-    "link": "https://www.wsj.com/finance/oil-rises-amid-widening-mideast-conflict-1ba6564c"
+    "headline": "Lt. Gov. Juliana Stratton of Illinois won her state’s Democratic primary for U.S. Senate, helping her billionaire boss, Gov. JB Pritzker, dodge political embarrassment",
+    "link": "https://www.wsj.com/politics/elections/stratton-wins-illinois-senate-race-saving-pritzker-from-political-embarrassment-743fe6f5"
   },
   {
     "score": 71,
@@ -61,6 +54,13 @@
     "source": "nypost",
     "headline": "New details emerge about New Mexico US Air Force base shooting that left 1 dead, 1 injured",
     "link": "https://nypost.com/2026/03/19/us-news/new-details-emerge-about-new-mexico-us-air-force-base-shooting-that-left-1-dead-1-injured/"
+  },
+  {
+    "score": 70,
+    "pubdate": "2026-03-19-03-54-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Rises After Attacks on Middle East Energy Sites; Asian Stocks Fall",
+    "link": "https://www.wsj.com/finance/oil-rises-amid-widening-mideast-conflict-1ba6564c"
   },
   {
     "score": 69,
