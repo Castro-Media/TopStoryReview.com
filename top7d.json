@@ -1,6 +1,6 @@
 [
   {
-    "score": 570,
+    "score": 565,
     "pubdate": "2026-03-14-00-57-55 +0000",
     "source": "latimes",
     "headline": "Trump administration orders restart of oil drilling along California coast amid Iran war",
@@ -22,17 +22,17 @@
   },
   {
     "score": 138,
-    "pubdate": "2026-03-18-13-51-07 +0000",
-    "source": "cbc",
-    "headline": "Bank of Canada holds key interest rate at 2.25%, saying war will boost global inflation",
-    "link": "https://www.cbc.ca/news/business/bank-of-canada-interest-rate-9.7132984?cmp=rss"
-  },
-  {
-    "score": 138,
     "pubdate": "2026-03-19-01-22-00 +0000",
     "source": "wsj",
     "headline": "President Trump has spent months talking about how badly he wants Chair Jerome Powell out of the Federal Reserve. Powell signaled Wednesday that he isn’t going anywhere.",
     "link": "https://www.wsj.com/economy/central-banking/trump-wants-powell-out-powell-is-digging-in-43829d43"
+  },
+  {
+    "score": 138,
+    "pubdate": "2026-03-18-13-51-07 +0000",
+    "source": "cbc",
+    "headline": "Bank of Canada holds key interest rate at 2.25%, saying war will boost global inflation",
+    "link": "https://www.cbc.ca/news/business/bank-of-canada-interest-rate-9.7132984?cmp=rss"
   },
   {
     "score": 135,
@@ -57,16 +57,16 @@
   },
   {
     "score": 94,
-    "pubdate": "2026-03-17-16-35-29 +0000",
-    "source": "bbc",
-    "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
-    "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 94,
     "pubdate": "2026-03-17-11-13-43 +0000",
     "source": "latimes",
     "headline": "In blow to Tehran, Iran's top security official killed in Israeli airstrike",
     "link": "https://www.latimes.com/world-nation/story/2026-03-17/israel-says-iranian-security-officials-killed"
+  },
+  {
+    "score": 94,
+    "pubdate": "2026-03-17-16-35-29 +0000",
+    "source": "bbc",
+    "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+    "link": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
   }
 ]
