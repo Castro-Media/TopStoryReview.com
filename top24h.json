@@ -1,48 +1,48 @@
 [
   {
-    "score": 266,
+    "score": 256,
     "pubdate": "2026-03-20-00-31-59 +0000",
     "source": "nyt",
     "headline": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
     "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html"
   },
   {
-    "score": 79,
-    "pubdate": "2026-03-20-18-59-35 +0000",
+    "score": 81,
+    "pubdate": "2026-03-20-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "A New York congressional race has a new X factor—a big-spending AI super PAC gunning against one of the candidates.",
+    "link": "https://www.wsj.com/politics/policy/ai-lobbying-midterm-elections-new-york-4b018d4e"
+  },
+  {
+    "score": 80,
+    "pubdate": "2026-03-20-20-55-01 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
     "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
   },
   {
-    "score": 73,
-    "pubdate": "2026-03-20-00-04-34 +0000",
-    "source": "bbc",
-    "headline": "'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes",
-    "link": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 73,
-    "pubdate": "2026-03-19-20-30-00 +0000",
-    "source": "latimes",
-    "headline": "California quickly moves to rename Cesar Chavez Day after sex abuse allegations",
-    "link": "https://www.latimes.com/california/story/2026-03-18/calls-remove-cesar-chavez-from-buildings-parks-roads"
-  },
-  {
-    "score": 67,
-    "pubdate": "2026-03-20-10-08-21 +0000",
+    "score": 66,
+    "pubdate": "2026-03-20-16-30-54 +0000",
     "source": "nyt",
-    "headline": "Trump’s Complaint About Israeli Strike on Gas Field Exposes Divergent Strategies",
-    "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
+    "headline": "Educators, How Will You Teach Cesar Chavez’s Story After Abuse Allegations?",
+    "link": "https://www.nytimes.com/2026/03/20/us/cesar-chavez-abuse-allegations-teachers-callout.html"
   },
   {
-    "score": 62,
+    "score": 57,
+    "pubdate": "2026-03-19-22-41-40 +0000",
+    "source": "bbc",
+    "headline": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+    "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-03-20-09-55-19 +0000",
     "source": "bbc",
     "headline": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
     "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 57,
+    "score": 53,
     "pubdate": "2026-03-20-03-22-17 +0000",
     "source": "nypost",
     "headline": "Japanese prime minister wishes ‘good looking’ Barron Trump Happy Birthday at White House dinner: ‘Very clear where he got it’",
@@ -50,10 +50,10 @@
   },
   {
     "score": 53,
-    "pubdate": "2026-03-19-21-33-00 +0000",
-    "source": "wsj",
-    "headline": "A capital rules win for banks, the $100 million Bezos wants for an AI manufacturing fund, and Frida Kahlo mania. Read more in today’s What’s News newsletter:",
-    "link": "https://www.wsj.com/politics/policy/big-banks-win-big-with-proposal-to-loosen-capital-rules-e09f1a19"
+    "pubdate": "2026-03-20-10-55-24 +0000",
+    "source": "nypost",
+    "headline": "University of Alabama student James Gracey seen walking toward rocks near beach before death in Barcelona: witness",
+    "link": "https://nypost.com/2026/03/20/world-news/university-of-alabama-student-james-gracey-seen-walking-toward-rocks-moments-before-death-in-barcelona-witness/"
   },
   {
     "score": 52,
@@ -63,7 +63,7 @@
     "link": "https://www.nytimes.com/2026/03/20/world/europe/maria-kalesnikava-lukashenko-belarus.html"
   },
   {
-    "score": 51,
+    "score": 52,
     "pubdate": "2026-03-19-23-23-00 +0000",
     "source": "wsj",
     "headline": "A federal panel approved a commemorative gold coin design featuring President Trump, endorsing the rare step of putting a living, sitting president on American money",
