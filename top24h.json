@@ -1,13 +1,13 @@
 [
   {
-    "score": 274,
+    "score": 266,
     "pubdate": "2026-03-20-00-31-59 +0000",
     "source": "nyt",
     "headline": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
     "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html"
   },
   {
-    "score": 80,
+    "score": 79,
     "pubdate": "2026-03-20-18-59-35 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
@@ -49,7 +49,7 @@
     "link": "https://nypost.com/2026/03/19/us-news/japanese-prime-minister-wishes-good-looking-barron-trump-happy-birthday-at-white-house-dinner-very-clear-where-he-got-it/"
   },
   {
-    "score": 55,
+    "score": 53,
     "pubdate": "2026-03-19-21-33-00 +0000",
     "source": "wsj",
     "headline": "A capital rules win for banks, the $100 million Bezos wants for an AI manufacturing fund, and Frida Kahlo mania. Read more in today’s What’s News newsletter:",
@@ -57,16 +57,16 @@
   },
   {
     "score": 52,
-    "pubdate": "2026-03-19-23-23-00 +0000",
-    "source": "wsj",
-    "headline": "A federal panel approved a commemorative gold coin design featuring President Trump, endorsing the rare step of putting a living, sitting president on American money",
-    "link": "https://www.wsj.com/politics/policy/trump-gold-coin-moves-forward-a8c6e1e8"
-  },
-  {
-    "score": 52,
     "pubdate": "2026-03-20-17-15-49 +0000",
     "source": "nyt",
     "headline": "Lukashenko Jailed Her in Belarus, but She Wants the World to Talk to Him",
     "link": "https://www.nytimes.com/2026/03/20/world/europe/maria-kalesnikava-lukashenko-belarus.html"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-03-19-23-23-00 +0000",
+    "source": "wsj",
+    "headline": "A federal panel approved a commemorative gold coin design featuring President Trump, endorsing the rare step of putting a living, sitting president on American money",
+    "link": "https://www.wsj.com/politics/policy/trump-gold-coin-moves-forward-a8c6e1e8"
   }
 ]
