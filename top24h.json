@@ -1,24 +1,17 @@
 [
   {
-    "score": 321,
+    "score": 317,
     "pubdate": "2026-03-20-00-31-59 +0000",
     "source": "nyt",
     "headline": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
     "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html"
   },
   {
-    "score": 97,
+    "score": 95,
     "pubdate": "2026-03-19-18-27-00 +0000",
     "source": "wsj",
     "headline": "Central banks across Europe held interest rates steady but surging energy costs could force them to act to curb inflation",
     "link": "https://www.wsj.com/economy/central-banking/bank-of-england-leaves-interest-rate-unchanged-84955f9b"
-  },
-  {
-    "score": 81,
-    "pubdate": "2026-03-19-22-41-40 +0000",
-    "source": "bbc",
-    "headline": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
-    "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 79,
@@ -28,6 +21,13 @@
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
   },
   {
+    "score": 75,
+    "pubdate": "2026-03-19-22-41-40 +0000",
+    "source": "bbc",
+    "headline": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+    "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 72,
     "pubdate": "2026-03-20-01-00-00 +0000",
     "source": "wsj",
@@ -35,25 +35,18 @@
     "link": "https://www.wsj.com/politics/policy/ai-lobbying-midterm-elections-new-york-4b018d4e"
   },
   {
-    "score": 69,
+    "score": 64,
     "pubdate": "2026-03-19-20-30-00 +0000",
     "source": "latimes",
     "headline": "California quickly moves to rename Cesar Chavez Day after sex abuse allegations",
     "link": "https://www.latimes.com/california/story/2026-03-18/calls-remove-cesar-chavez-from-buildings-parks-roads"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-03-20-11-00-00 +0000",
     "source": "missionlocal",
     "headline": "Ed Siu, Chinatown’s ‘complaint guy,’ isn’t here to make friends. He’s here to get results.",
     "link": "https://missionlocal.org/2026/03/sf-chinatown-ed-siu-complaint-guy/"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-03-20-15-04-04 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
-    "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
   },
   {
     "score": 55,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "A federal panel approved a commemorative gold coin design featuring President Trump, endorsing the rare step of putting a living, sitting president on American money",
     "link": "https://www.wsj.com/politics/policy/trump-gold-coin-moves-forward-a8c6e1e8"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-03-20-13-13-55 +0000",
+    "source": "nyt",
+    "headline": "U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html"
   }
 ]
