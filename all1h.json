@@ -1,38 +1,266 @@
 [
   {
-    "headline": "DOJ sues Harvard for discriminating against Jewish, Israeli students",
-    "link": "https://nypost.com/2026/03/20/us-news/doj-sues-harvard-for-discriminating-against-jewish-israeli-students/",
+    "headline": "NY trooper miraculously walks away after out-of-control SUV causes chain-reaction crash",
+    "link": "https://nypost.com/2026/03/20/us-news/ny-trooper-miraculously-walks-away-after-out-of-control-suv-causes-chain-reaction-crash/",
     "source": "nypost",
-    "pubdate": "2026-03-20-15-06-42 +0000"
+    "pubdate": "2026-03-20-17-04-12 +0000"
   },
   {
-    "headline": "DOJ sues Harvard for discriminating against Jewish, Israeli students",
-    "link": "https://nypost.com/2026/03/20/us-news/doj-sues-harvard-for-discriminating-against-jewish-israeli-students/",
-    "source": "nypost",
-    "pubdate": "2026-03-20-15-06-42 +0000"
-  },
-  {
-    "headline": "Work from home and drive more slowly to save energy, global body urges",
-    "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
+    "headline": "Border security chief to step down after 18 months in the job",
+    "link": "https://www.bbc.com/news/articles/cx2dn1x9l3jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-03-20-15-05-03 +0000"
-  },
-  {
-    "headline": "CBS News Cuts 6% of Staff as Bari Weiss Reshapes the Division",
-    "link": "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html",
-    "source": "nyt",
-    "pubdate": "2026-03-20-15-04-37 +0000"
+    "pubdate": "2026-03-20-17-03-48 +0000"
   },
   {
     "headline": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
     "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
     "source": "nyt",
-    "pubdate": "2026-03-20-15-04-04 +0000"
+    "pubdate": "2026-03-20-17-03-18 +0000"
   },
   {
-    "headline": "Deferring to Trump, G.O.P. Lawmakers Resist a Public Accounting on Iran",
-    "link": "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html",
+    "headline": "NATO Withdraws Its Last Military Trainers From Iraq",
+    "link": "https://www.nytimes.com/2026/03/20/world/middleeast/nato-iraq.html",
     "source": "nyt",
-    "pubdate": "2026-03-20-15-04-02 +0000"
+    "pubdate": "2026-03-20-17-03-16 +0000"
+  },
+  {
+    "headline": "NATO Withdraws Its Last Military Trainers From Iraq",
+    "link": "https://www.nytimes.com/2026/03/20/world/middleeast/nato-iraq.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-17-03-16 +0000"
+  },
+  {
+    "headline": "Week Ahead for FX, Bonds: PMI Data to Show Middle East War’s Impact on Sentiment",
+    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-pmi-data-to-show-middle-east-wars-impact-on-sentiment-6fd000aa",
+    "source": "wsj",
+    "pubdate": "2026-03-20-17-00-00 +0000"
+  },
+  {
+    "headline": "SoHo skate shop  guard slashed on neck by would-be customer who tried to cut line",
+    "link": "https://nypost.com/2026/03/20/us-news/nyc-skate-shop-security-guard-slashed-on-neck-by-violent-would-be-customer-who-tried-to-cut-line-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-59-54 +0000"
+  },
+  {
+    "headline": "YouTuber Nick Shirley shares his alarming suspicion behind Gavin Newsom attacks",
+    "link": "https://nypost.com/2026/03/20/us-news/youtuber-nick-shirley-shares-his-alarming-suspicion-behind-gavin-newsom-attacks/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-58-23 +0000"
+  },
+  {
+    "headline": "Cuban exiles in Miami say ‘this is the end’ for communism as island teeters on collapse",
+    "link": "https://nypost.com/2026/03/20/world-news/cuban-exiles-in-miami-say-this-is-the-end-for-communism-as-island-teeters-on-collapse/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-57-26 +0000"
+  },
+  {
+    "headline": "Iran War Underscores the Diverging Aims of Trump and Netanyahu",
+    "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-56-35 +0000"
+  },
+  {
+    "headline": "Iran War Underscores the Diverging Aims of Trump and Netanyahu",
+    "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-56-35 +0000"
+  },
+  {
+    "headline": "Las Vegas tourists pay $1,000 for dinner on the Strip while sharks eat like royalty",
+    "link": "https://nypost.com/2026/03/20/us-news/las-vegas-tourists-pay-1000-for-dinner-on-the-strip-while-sharks-eat-like-royalty/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-56-24 +0000"
+  },
+  {
+    "headline": "In Reversal, Trump Reinstates Support For Representative Jeff Hurd",
+    "link": "https://www.nytimes.com/2026/03/20/us/politics/trump-jeff-hurd-republican-house-tariffs-endorsement-reversal.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-54-47 +0000"
+  },
+  {
+    "headline": "In Reversal, Trump Reinstates Support For Representative Jeff Hurd",
+    "link": "https://www.nytimes.com/2026/03/20/us/politics/trump-jeff-hurd-republican-house-tariffs-endorsement-reversal.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-54-47 +0000"
+  },
+  {
+    "headline": "Trump Administration Sues Harvard Over Antisemitism Allegations",
+    "link": "https://www.wsj.com/us-news/education/trump-harvard-lawsuit-civil-rights-jewish-e3326b0b",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-54-00 +0000"
+  },
+  {
+    "headline": "White House Unveils A.I. Policy Aimed at Blocking State Laws",
+    "link": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-52-19 +0000"
+  },
+  {
+    "headline": "White House Unveils A.I. Policy Aimed at Blocking State Laws",
+    "link": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-52-19 +0000"
+  },
+  {
+    "headline": "More! More! More! Tech Workers Max Out Their A.I. Use.",
+    "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-51-15 +0000"
+  },
+  {
+    "headline": "CBS News Radio, Onetime Home of Murrow, to End Amid Layoffs",
+    "link": "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-50-14 +0000"
+  },
+  {
+    "headline": "CBS News Radio, Onetime Home of Murrow, to End Amid Layoffs",
+    "link": "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-50-14 +0000"
+  },
+  {
+    "headline": "Minnesota Senate candidate suggests Americans skip Starbucks to save on gas",
+    "link": "https://www.startribune.com/minnesota-senate-candidate-suggests-americans-skip-starbucks-to-save-on-gas/601619154",
+    "source": "startribune",
+    "pubdate": "2026-03-20-16-49-04 +0000"
+  },
+  {
+    "headline": "Big Brother bank: JPMorgan is reportedly tracking junior bankers’ hours with new surveillance tech after concerns about exhaustion",
+    "link": "https://nypost.com/2026/03/20/business/big-brother-bank-jpmorgan-is-reportedly-tracking-junior-bankers-hours-with-new-surveillance-tech/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-43-48 +0000"
+  },
+  {
+    "headline": "Calvin Tomkins, who narrated the rise of contemporary art, dies at 100",
+    "link": "https://www.washingtonpost.com/obituaries/2026/03/20/calvin-tomkins-new-yorker-writer-dies-at-100/",
+    "source": "wapo",
+    "pubdate": "2026-03-20-16-42-51 +0000"
+  },
+  {
+    "headline": "Pentagon orders 2,500 troops, 3 warships from California to the Middle East",
+    "link": "https://www.latimes.com/politics/story/2026-03-20/iran-war-oil-prices",
+    "source": "latimes",
+    "pubdate": "2026-03-20-16-41-54 +0000"
+  },
+  {
+    "headline": "A Meningitis Outbreak at the University of Kent Evokes Covid Memories",
+    "link": "https://www.nytimes.com/2026/03/20/world/europe/meningitis-outbreak-canterbury-university-of-kent.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-40-51 +0000"
+  },
+  {
+    "headline": "A Meningitis Outbreak at the University of Kent Evokes Covid Memories",
+    "link": "https://www.nytimes.com/2026/03/20/world/europe/meningitis-outbreak-canterbury-university-of-kent.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-40-51 +0000"
+  },
+  {
+    "headline": "Wild video shows cop jumping on stranger’s car hood to hitch a ride for a police chase: ‘Go! Go! Go! ‘",
+    "link": "https://nypost.com/2026/03/20/us-news/wild-video-shows-cop-jumping-on-strangers-car-hood-to-hitch-a-ride-for-a-police-chase-go-go-go/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-38-09 +0000"
+  },
+  {
+    "headline": "CBS News to End Storied Radio Broadcast, Lay Off 6% of Staff",
+    "link": "https://www.wsj.com/business/media/cbs-to-end-storied-news-radio-broadcast-layoff-6-of-staff-6f3ee973?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-38-00 +0000"
+  },
+  {
+    "headline": "Business is still humming across the Persian Gulf – even as bombs continue to fly: sources",
+    "link": "https://nypost.com/2026/03/20/business/business-is-still-humming-across-the-persian-gulf-even-as-bombs-continue-to-fly-sources/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-35-08 +0000"
+  },
+  {
+    "headline": "Business is still humming across the Persian Gulf – even as bombs continue to fly: sources",
+    "link": "https://nypost.com/2026/03/20/business/business-is-still-humming-across-the-persian-gulf-even-as-bombs-continue-to-fly-sources/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-35-08 +0000"
+  },
+  {
+    "headline": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
+    "link": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-20-16-32-43 +0000"
+  },
+  {
+    "headline": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
+    "link": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-20-16-32-43 +0000"
+  },
+  {
+    "headline": "Perfect weather in LA is a lie",
+    "link": "https://nypost.com/2026/03/20/us-news/perfect-weather-in-la-is-a-lie/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-16-31-28 +0000"
+  },
+  {
+    "headline": "Educators, How Will You Teach Cesar Chavez’s Story After Abuse Allegations?",
+    "link": "https://www.nytimes.com/2026/03/20/us/cesar-chavez-abuse-allegations-teachers-callout.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-30-54 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-eade6365?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-30-00 +0000"
+  },
+  {
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-30-00 +0000"
+  },
+  {
+    "headline": "Best High-Yield Savings Accounts for March 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-30-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-4227d8a5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-29-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-19607fe9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-27-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-19607fe9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-27-00 +0000"
+  },
+  {
+    "headline": "Funeral held to honor Nicole Amor, Minnesota soldier killed in Kuwait",
+    "link": "https://www.startribune.com/funeral-held-to-honor-nicole-amor-minnesota-soldier-killed-in-kuwait/601619170",
+    "source": "startribune",
+    "pubdate": "2026-03-20-16-21-35 +0000"
+  },
+  {
+    "headline": "Stocks Fall, Oil Steadies as U.S. Seeks to Avert Energy Crisis",
+    "link": "https://www.wsj.com/finance/stocks/oil-pulls-back-from-highs-as-leaders-seek-to-calm-markets-d6dd600c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-19-00 +0000"
+  },
+  {
+    "headline": "Stocks Fall, Oil Steadies as U.S. Seeks to Avert Energy Crisis",
+    "link": "https://www.wsj.com/finance/stocks/oil-pulls-back-from-highs-as-leaders-seek-to-calm-markets-d6dd600c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-20-16-19-00 +0000"
+  },
+  {
+    "headline": "BTS Is Back With ‘Arirang,’ but the K-Pop Landscape Has Changed",
+    "link": "https://www.nytimes.com/2026/03/20/arts/music/bts-k-pop-industry-demon-hunters.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-16-18-05 +0000"
   }
 ]
