@@ -1,23 +1,72 @@
 [
   {
+    "score": 30,
+    "pubdate": "2026-03-20-15-04-04 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
+    "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-03-20-15-00-00 +0000",
+    "source": "wsj",
+    "headline": "From Four-Day Weeks to AC Bans, the World Is Scrambling to Save Energy",
+    "link": "https://www.wsj.com/finance/commodities-futures/from-four-day-weeks-to-ac-bans-the-world-is-scrambling-to-save-energy-e16ccd81?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-03-20-14-19-43 +0000",
+    "source": "nypost",
+    "headline": "Trump calls NATO members ‘cowards’ over refusal to ‘help open’ Strait of Hormuz",
+    "link": "https://nypost.com/2026/03/20/us-news/trump-calls-nato-members-cowards-over-refusal-to-help-open-strait-of-hormuz/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-20-15-06-42 +0000",
+    "source": "nypost",
+    "headline": "DOJ sues Harvard for discriminating against Jewish, Israeli students",
+    "link": "https://nypost.com/2026/03/20/us-news/doj-sues-harvard-for-discriminating-against-jewish-israeli-students/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-20-14-55-02 +0000",
+    "source": "bbc",
+    "headline": "UK borrowing costs hit highest level since 2008 financial crisis",
+    "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-20-14-27-06 +0000",
+    "source": "nyt",
+    "headline": "Fed Official Urges Caution on Rate Cuts as Iran War Drags On",
+    "link": "https://www.nytimes.com/2026/03/20/business/economy/fed-waller-interest-rates.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-20-14-13-18 +0000",
+    "source": "nyt",
+    "headline": "Student Loan Office to Leave the Education Department",
+    "link": "https://www.nytimes.com/2026/03/19/us/politics/student-loan-office-education-department.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-20-14-17-00 +0000",
+    "source": "nypost",
+    "headline": "Brother of suspected trans Blues Brother killer has astonishing reaction to sibling’s alleged crime",
+    "link": "https://nypost.com/2026/03/20/us-news/brother-of-suspected-trans-blues-brother-killer-has-astonishing-reaction-to-siblings-alleged-crime/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-03-20-14-56-32 +0000",
+    "source": "nypost",
+    "headline": "Newborn killed when left alone with stray dog her family had just taken in",
+    "link": "https://nypost.com/2026/03/20/us-news/days-old-baby-killed-after-shes-left-alone-with-stray-dog-her-family-just-took-in/"
+  },
+  {
     "score": 12,
-    "pubdate": "2026-03-20-13-13-55 +0000",
+    "pubdate": "2026-03-20-14-49-23 +0000",
     "source": "nyt",
-    "headline": "U.S. Military Ramps Up to Clear Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-03-20-13-13-06 +0000",
-    "source": "nyt",
-    "headline": "How a Civil Rights Icon Used His Power to Abuse Girls and Women",
-    "link": "https://www.nytimes.com/video/us/100000010787904/how-a-civil-rights-icon-used-his-power-to-abuse-girls-and-women.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-20-13-13-55 +0000",
-    "source": "nyt",
-    "headline": "U.S. Military Ramps Up to Clear Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/03/20/us/politics/us-military-strait-hormuz.html"
+    "headline": "Supreme Court Allows Street Preacher’s Lawsuit",
+    "link": "https://www.nytimes.com/2026/03/20/us/politics/supreme-court-street-preacher.html"
   }
 ]
