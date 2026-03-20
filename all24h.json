@@ -1,9 +1,225 @@
 [
   {
-    "headline": "Idaho mayor Rick Hogaboam suffered rare fatal cardiac complication during town hall meeting: coroner",
+    "headline": "Five people injured, two critically, after car plows down NYC street: ‘It was like an explosion’",
+    "link": "https://nypost.com/2026/03/19/us-news/five-people-injured-two-critically-after-car-plows-down-nyc-street/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-02-43-17 +0000"
+  },
+  {
+    "headline": "‘Precarious’ situation as damaged shipping containers arrive at Port of Long Beach",
+    "link": "https://nypost.com/2026/03/19/us-news/coast-guard-offloading-damaged-shipping-containers/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-02-34-55 +0000"
+  },
+  {
+    "headline": "NYC first lady Rama Duwaji deletes old X account after posts praising Palestinian terrorists resurface",
+    "link": "https://nypost.com/2026/03/19/us-news/nyc-first-lady-rama-duwaji-deletes-old-x-account-after-posts-praising-palestinian-terrorists-using-n-word-resurface/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-02-30-43 +0000"
+  },
+  {
+    "headline": "Oil Prices Fall on Easing Supply-Disruption Concerns",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-on-easing-supply-disruption-concerns-b2d5c9cd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-20-02-30-00 +0000"
+  },
+  {
+    "headline": "Mortgage Rates Highest in Three Months as War Weighs on Housing Market",
+    "link": "https://www.nytimes.com/2026/03/19/business/mortgage-rates-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-02-21-51 +0000"
+  },
+  {
+    "headline": "Mortgage Rates Highest in Three Months as War Weighs on Housing Market",
+    "link": "https://www.nytimes.com/2026/03/19/business/mortgage-rates-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-02-21-51 +0000"
+  },
+  {
+    "headline": "Mortgage Rates Highest in Three Months as War Weighs on Housing Market",
+    "link": "https://www.nytimes.com/2026/03/19/business/mortgage-rates-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-02-21-51 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
+    "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
+    "source": "nyt",
+    "pubdate": "2026-03-20-02-19-13 +0000"
+  },
+  {
+    "headline": "Super Micro Computer Employees Arrested for Alleged Sales to China",
+    "link": "https://www.wsj.com/tech/super-micro-computer-employees-arrested-for-alleged-sales-to-china-45a2bd73?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-20-02-19-00 +0000"
+  },
+  {
+    "headline": "Alaska Airlines and FedEx Planes Narrowly Avoid Each Other at Newark Airport",
+    "link": "https://www.nytimes.com/2026/03/19/us/alaska-airlines-fedex-planes-newark-collision.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-02-16-59 +0000"
+  },
+  {
+    "headline": "California’s ‘Bridge to Nowhere’ has cost you $77M so far — but expert says that’s just the start",
+    "link": "https://nypost.com/2026/03/19/us-news/wallis-annenberg-wildlife-crossing-costs-114m/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-02-06-30 +0000"
+  },
+  {
+    "headline": "RBA’s Split Decision on Rates Stokes Calls for More Transparency",
+    "link": "https://www.wsj.com/economy/central-banking/rbas-split-decision-on-rates-stokes-calls-for-more-transparency-c90d93a6",
+    "source": "wsj",
+    "pubdate": "2026-03-20-02-06-00 +0000"
+  },
+  {
+    "headline": "Nashville Reporter Released From ICE Custody",
+    "link": "https://www.nytimes.com/2026/03/19/us/politics/nashville-reporter-released-ice-custody.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-02-02-46 +0000"
+  },
+  {
+    "headline": "Nashville Reporter Released From ICE Custody",
+    "link": "https://www.nytimes.com/2026/03/19/us/politics/nashville-reporter-released-ice-custody.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-02-02-46 +0000"
+  },
+  {
+    "headline": "A Vegas Gambler, a Hollywood Power Player and the Legal Fight Roiling Paramount",
+    "link": "https://www.wsj.com/business/media/a-vegas-gambler-a-hollywood-power-player-and-the-legal-fight-roiling-paramount-d1a38dbc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-20-02-00-00 +0000"
+  },
+  {
+    "headline": "In Nearly 90 Truth Social Posts, Trump Narrates the War in Iran",
+    "link": "https://www.wsj.com/world/middle-east/in-nearly-90-truth-social-posts-trump-narrates-the-war-in-iran-2086975c",
+    "source": "wsj",
+    "pubdate": "2026-03-20-02-00-00 +0000"
+  },
+  {
+    "headline": "The Critical Energy Assets Hit in the Gulf",
+    "link": "https://www.wsj.com/world/middle-east/the-critical-energy-assets-hit-in-the-gulf-0bcfa85a",
+    "source": "wsj",
+    "pubdate": "2026-03-20-02-00-00 +0000"
+  },
+  {
+    "headline": "The wartime poster-in-chief: Trump uses Truth Social to cajole allies, berate adversaries, reassure Gulf states and conduct his own unique form of online diplomacy",
+    "link": "https://www.wsj.com/world/middle-east/in-nearly-90-truth-social-posts-trump-narrates-the-war-in-iran-2086975c",
+    "source": "wsj",
+    "pubdate": "2026-03-20-02-00-00 +0000"
+  },
+  {
+    "headline": "Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It",
+    "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-51-39 +0000"
+  },
+  {
+    "headline": "Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It",
+    "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-51-39 +0000"
+  },
+  {
+    "headline": "Ilhan Omar’s State of the Union guest will face no charges after arrest at speech",
+    "link": "https://www.startribune.com/ilhan-omar-sotu-guest-aliya-rahman-no-charges-speech-arrest-trump-somali-comments/601616643",
+    "source": "startribune",
+    "pubdate": "2026-03-20-01-49-49 +0000"
+  },
+  {
+    "headline": "Lurie wants to be tough on crime—but won’t pay for the impacts on defendants",
+    "link": "https://48hills.org/2026/03/lurie-wants-to-be-tough-on-crime-but-wont-pay-for-the-impacts-on-defendants/",
+    "source": "48hills",
+    "pubdate": "2026-03-20-01-48-03 +0000"
+  },
+  {
+    "headline": "Rising U.S. Treasury Yields Reinforce Short-Term Support for Dollar",
+    "link": "https://www.wsj.com/finance/currencies/asia-currencies-consolidate-as-traders-assess-mideast-developments-53801672?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-20-01-48-00 +0000"
+  },
+  {
+    "headline": "What to Know About the Sexual Abuse Allegations Against Cesar Chavez",
+    "link": "https://www.nytimes.com/2026/03/19/us/what-to-know-cesar-chavez-sex-abuse.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-45-10 +0000"
+  },
+  {
+    "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+    "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-20-01-41-58 +0000"
+  },
+  {
+    "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+    "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-20-01-41-58 +0000"
+  },
+  {
+    "headline": "Hollywood goes crazy as Raising Cane’s opens 1,000th location",
+    "link": "https://nypost.com/2026/03/19/us-news/hollywood-goes-crazy-as-raising-canes-hits-1000th-location/",
+    "source": "nypost",
+    "pubdate": "2026-03-20-01-40-26 +0000"
+  },
+  {
+    "headline": "F.C.C. Approves Nexstar’s Acquisition of a Local TV Rival",
+    "link": "https://www.nytimes.com/2026/03/19/business/fcc-nexstar-tegna-deal-approved.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-39-17 +0000"
+  },
+  {
+    "headline": "Australia PM heckled at Sydney mosque Ramadan event",
+    "link": "https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-20-01-36-59 +0000"
+  },
+  {
+    "headline": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-31-18 +0000"
+  },
+  {
+    "headline": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-31-18 +0000"
+  },
+  {
+    "headline": "Uber to Buy Rivian Vehicles for Use as Driverless Taxis",
+    "link": "https://www.nytimes.com/2026/03/19/business/uber-rivian-driverless-taxis.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-30-23 +0000"
+  },
+  {
+    "headline": "Several injured as turbulence hits Delta flight into Sydney",
+    "link": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-20-01-26-01 +0000"
+  },
+  {
+    "headline": "Nexstar Says Tegna Merger Has Closed With Federal Approval",
+    "link": "https://www.wsj.com/business/media/states-sue-to-block-6-2-billion-local-broadcasting-tie-up-over-antitrust-concerns-6cd328b4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-20-01-23-00 +0000"
+  },
+  {
+    "headline": "Idaho Mayor Rick Hogaboam’s cause of death revealed after he collapsed during town hall meeting",
     "link": "https://nypost.com/2026/03/19/us-news/idaho-mayor-rick-hogaboam-suffered-rare-fatal-cardiac-complication-during-town-hall-meeting-coroner/",
     "source": "nypost",
     "pubdate": "2026-03-20-01-17-55 +0000"
+  },
+  {
+    "headline": "Judge Rules That R.F.K. Jr. Overstepped on Transgender Care",
+    "link": "https://www.nytimes.com/2026/03/19/us/rfk-jr-transgender-care-ruling.html",
+    "source": "nyt",
+    "pubdate": "2026-03-20-01-15-52 +0000"
+  },
+  {
+    "headline": "Trump 24-karat gold coin approved by hand-picked federal panel",
+    "link": "https://www.bbc.com/news/articles/cwywxvgynr2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-20-01-15-49 +0000"
   },
   {
     "headline": "Trump to appear on 24K gold coin to commemorate America’s 250th birthday after federal arts panel approval",
@@ -54,12 +270,6 @@
     "pubdate": "2026-03-20-00-59-29 +0000"
   },
   {
-    "headline": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
-    "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
-    "source": "nyt",
-    "pubdate": "2026-03-20-00-58-36 +0000"
-  },
-  {
     "headline": "Cesar Chavez rape scandal rocks schools as teachers told to dump lessons",
     "link": "https://nypost.com/2026/03/19/us-news/cesar-chavez-scandal-rocks-schools-as-teachers-dump-lessons/",
     "source": "nypost",
@@ -70,18 +280,6 @@
     "link": "https://nypost.com/2026/03/19/us-news/cesar-chavez-scandal-rocks-schools-as-teachers-dump-lessons/",
     "source": "nypost",
     "pubdate": "2026-03-20-00-57-36 +0000"
-  },
-  {
-    "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-    "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-20-00-53-44 +0000"
-  },
-  {
-    "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-    "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-20-00-53-44 +0000"
   },
   {
     "headline": "On Joe Rogan, Pierre Poilievre Talks Trump, Canada Tariffs and Bruce Lee",
@@ -96,34 +294,16 @@
     "pubdate": "2026-03-20-00-50-28 +0000"
   },
   {
-    "headline": "SFUSD signs third labor agreement in two months. The district predicts a major budget shortfall.",
+    "headline": "SFUSD signs 3rd labor agreement in 2 months. District predicts major budget shortfall.",
     "link": "https://missionlocal.org/2026/03/sfusd-budget-labor-agreement/",
     "source": "missionlocal",
     "pubdate": "2026-03-20-00-48-48 +0000"
-  },
-  {
-    "headline": "What to Know About the Sexual Abuse Allegations Against Cesar Chavez",
-    "link": "https://www.nytimes.com/2026/03/19/us/what-to-know-cesar-chavez-sex-abuse.html",
-    "source": "nyt",
-    "pubdate": "2026-03-20-00-45-40 +0000"
   },
   {
     "headline": "Publisher Pulls ‘Shy Girl’ Horror Novel After AI Allegations",
     "link": "https://www.wsj.com/business/media/publisher-pulls-shy-girl-horror-novel-after-ai-allegations-c7944702?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-20-00-44-00 +0000"
-  },
-  {
-    "headline": "Judge Rules That R.F.K. Jr. Overstepped on Transgender Care",
-    "link": "https://www.nytimes.com/2026/03/19/us/rfk-jr-transgender-care-ruling.html",
-    "source": "nyt",
-    "pubdate": "2026-03-20-00-43-02 +0000"
-  },
-  {
-    "headline": "Asia Currencies Consolidate as Traders Assess Mideast Developments",
-    "link": "https://www.wsj.com/finance/currencies/asia-currencies-consolidate-as-traders-assess-mideast-developments-53801672?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-20-00-43-00 +0000"
   },
   {
     "headline": "Labour MPs threaten vote to show opposition to Mahmood's migration plans",
@@ -204,7 +384,7 @@
     "pubdate": "2026-03-20-00-30-01 +0000"
   },
   {
-    "headline": "Trump is convinced that voters don’t like the term “mass deportation,” and has directed advisers to adopt a new approach on one of his central campaign promises",
+    "headline": "President Trump is convinced that voters don’t like the term “mass deportation” and has directed advisers to adopt a new approach on one of his central campaign promises",
     "link": "https://www.wsj.com/politics/policy/trump-told-inner-circle-some-mass-deportation-policies-went-too-far-01518550",
     "source": "wsj",
     "pubdate": "2026-03-20-00-30-00 +0000"
@@ -348,7 +528,7 @@
     "pubdate": "2026-03-20-00-04-57 +0000"
   },
   {
-    "headline": "Iranians prepares for Persian new year under shadow of war",
+    "headline": "Iranians prepare for Persian new year under shadow of war",
     "link": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-20-00-04-34 +0000"
@@ -376,6 +556,12 @@
     "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-20-00-01-51 +0000"
+  },
+  {
+    "headline": "Tesla Finally Has Its First Semi-Truck and It’s Already a Hit With Truckers",
+    "link": "https://www.wsj.com/business/logistics/truckers-tesla-fans-semi-b0a66e6e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-20-00-00-00 +0000"
   },
   {
     "headline": "Tesla Finally Has Its First Semi-Truck and It’s Already a Hit With Truckers",
@@ -414,31 +600,31 @@
     "pubdate": "2026-03-19-23-45-03 +0000"
   },
   {
-    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader",
+    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html",
     "source": "nyt",
     "pubdate": "2026-03-19-23-44-42 +0000"
   },
   {
-    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader",
+    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html",
     "source": "nyt",
     "pubdate": "2026-03-19-23-44-42 +0000"
   },
   {
-    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader",
+    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html",
     "source": "nyt",
     "pubdate": "2026-03-19-23-44-42 +0000"
   },
   {
-    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader",
+    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html",
     "source": "nyt",
     "pubdate": "2026-03-19-23-44-42 +0000"
   },
   {
-    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader",
+    "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html",
     "source": "nyt",
     "pubdate": "2026-03-19-23-44-42 +0000"
@@ -490,12 +676,6 @@
     "link": "https://nypost.com/2026/03/19/us-news/gavin-newsom-laughed-about-millions-spent-on-wildlife-bridge/",
     "source": "nypost",
     "pubdate": "2026-03-19-23-26-14 +0000"
-  },
-  {
-    "headline": "California home where Francis Ford Coppola wrote ‘The Godfather’ asks $6.75M",
-    "link": "https://nypost.com/2026/03/19/us-news/california-home-where-francis-ford-coppola-wrote-the-godfather-asks-6-75m/",
-    "source": "nypost",
-    "pubdate": "2026-03-19-23-23-43 +0000"
   },
   {
     "headline": "A federal panel approved a commemorative gold coin design featuring President Trump, endorsing the rare step of putting a living, sitting president on American money",
@@ -558,36 +738,12 @@
     "pubdate": "2026-03-19-23-03-32 +0000"
   },
   {
-    "headline": "Convicted child molester formerly suspected of killing Etan Patz dead at 82",
-    "link": "https://nypost.com/2026/03/19/us-news/man-formerly-suspected-of-killing-etan-patz-has-died/",
-    "source": "nypost",
-    "pubdate": "2026-03-19-23-02-28 +0000"
-  },
-  {
-    "headline": "Homeless squatters set fire to LA house, destroying family home next door — and killing their dogs",
-    "link": "https://nypost.com/2026/03/19/us-news/homeless-squatters-set-fire-to-la-house-destroying-family-home-next-door-and-killing-their-dogs/",
-    "source": "nypost",
-    "pubdate": "2026-03-19-23-02-08 +0000"
-  },
-  {
     "headline": "Taiwan’s All-Hands-on-Deck Plan to Fend Off China",
     "link": "https://www.wsj.com/world/asia/taiwans-all-hands-on-deck-plan-to-fend-off-china-5a4b319d",
     "source": "wsj",
     "pubdate": "2026-03-19-23-00-00 +0000"
   },
   {
-    "headline": "Alaska Airlines, FedEx cargo planes narrowly avoid catastrophic crash while landing at Newark airport",
-    "link": "https://nypost.com/2026/03/19/us-news/alaska-airlines-fedex-cargo-planes-narrowly-avoid-catastrophic-crash-while-landing-at-newark-airport/",
-    "source": "nypost",
-    "pubdate": "2026-03-19-22-59-18 +0000"
-  },
-  {
-    "headline": "Upstate NY man pleads guilty to cyberstalking after making threats to relative of slain UnitedHealthcare CEO",
-    "link": "https://nypost.com/2026/03/19/us-news/upstate-ny-man-pleads-guilty-to-cyberstalking-after-making-threats-to-relative-of-slain-unitedhealthcare-ceo/",
-    "source": "nypost",
-    "pubdate": "2026-03-19-22-58-11 +0000"
-  },
-  {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/heres-the-latest",
     "source": "nyt",
@@ -610,18 +766,6 @@
     "link": "https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html",
     "source": "nyt",
     "pubdate": "2026-03-19-22-54-57 +0000"
-  },
-  {
-    "headline": "Nashville Reporter Released From ICE Custody",
-    "link": "https://www.nytimes.com/2026/03/19/us/politics/nashville-reporter-released-ice-custody.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-22-53-49 +0000"
-  },
-  {
-    "headline": "Nashville Reporter Released From ICE Custody",
-    "link": "https://www.nytimes.com/2026/03/19/us/politics/nashville-reporter-released-ice-custody.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-22-53-49 +0000"
   },
   {
     "headline": "Restaurateurs bet on NYC despite Mamdani’s anti-business proposals: ‘Mayors come and go’",
@@ -694,18 +838,6 @@
     "link": "https://nypost.com/2026/03/19/us-news/japan-pledges-73-billion-in-us-investment-after-prime-ministers-meeting-with-trump/",
     "source": "nypost",
     "pubdate": "2026-03-19-22-23-33 +0000"
-  },
-  {
-    "headline": "Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It",
-    "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-22-23-06 +0000"
-  },
-  {
-    "headline": "Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It",
-    "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-22-23-06 +0000"
   },
   {
     "headline": "Cesar Chavez Avenue May Soon Be Gone. Yet to Be Confronted: His Legacy.",
@@ -976,12 +1108,6 @@
     "link": "https://nypost.com/2026/03/19/us-news/top-california-dems-take-action-to-rename-cesar-chavez-day/",
     "source": "nypost",
     "pubdate": "2026-03-19-21-05-38 +0000"
-  },
-  {
-    "headline": "Family of Minneapolis Boy Detained by ICE Faces Fast-Track Deportation",
-    "link": "https://www.nytimes.com/2026/03/18/us/family-minneapolis-boy-ice-deportation.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-21-03-17 +0000"
   },
   {
     "headline": "‘Africa Will Write Its Own History.’ Who Was Patrice Lumumba?",
@@ -1335,13 +1461,13 @@
     "headline": "Patel Says F.B.I. Agents Who Worked Mar-a-Lago Case Were Fired for Ethics Violations",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/patel-fbi-mar-a-lago-trump.html",
     "source": "nyt",
-    "pubdate": "2026-03-19-19-31-04 +0000"
+    "pubdate": "2026-03-19-19-31-05 +0000"
   },
   {
     "headline": "Patel Says F.B.I. Agents Who Worked Mar-a-Lago Case Were Fired for Ethics Violations",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/patel-fbi-mar-a-lago-trump.html",
     "source": "nyt",
-    "pubdate": "2026-03-19-19-31-04 +0000"
+    "pubdate": "2026-03-19-19-31-05 +0000"
   },
   {
     "headline": "Hegseth tells his son, 13, that Americans killed in Iran war ‘died for you’",
@@ -1394,12 +1520,6 @@
   {
     "headline": "Delayed Nielsen Data Will Show Traditional TV Back on Top (for Now)",
     "link": "https://www.wsj.com/cmo-today/delayed-nielsen-data-will-show-traditional-tv-back-on-top-for-now-e34e93d0?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-19-19-13-00 +0000"
-  },
-  {
-    "headline": "Natural Gas Rises in Volatile Trading",
-    "link": "https://www.wsj.com/articles/middle-east-strikes-upend-lng-outlook-reprice-risk-7c58658d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-19-19-13-00 +0000"
   },
@@ -1524,12 +1644,6 @@
     "pubdate": "2026-03-19-18-12-08 +0000"
   },
   {
-    "headline": "Douglas: Why air quality in the Twin Cities is poor (and how long it will last)",
-    "link": "https://www.startribune.com/douglas-why-air-quality-in-the-twin-cities-is-poor-and-how-long-it-will-last/601614663",
-    "source": "startribune",
-    "pubdate": "2026-03-19-18-11-31 +0000"
-  },
-  {
     "headline": "Banking Regulators Prepare to Loosen Post-Crisis Capital Rules",
     "link": "https://www.nytimes.com/2026/03/19/business/banking-regulation-capital-rules.html",
     "source": "nyt",
@@ -1551,13 +1665,13 @@
     "headline": "Central Banks Brace for Inflation as Energy Prices Surge",
     "link": "https://www.nytimes.com/2026/03/19/business/economy/boe-ecb-interest-rates-inflation.html",
     "source": "nyt",
-    "pubdate": "2026-03-19-18-04-22 +0000"
+    "pubdate": "2026-03-19-18-04-23 +0000"
   },
   {
     "headline": "Central Banks Brace for Inflation as Energy Prices Surge",
     "link": "https://www.nytimes.com/2026/03/19/business/economy/boe-ecb-interest-rates-inflation.html",
     "source": "nyt",
-    "pubdate": "2026-03-19-18-04-22 +0000"
+    "pubdate": "2026-03-19-18-04-23 +0000"
   },
   {
     "headline": "UK agrees deal to ease migrant returns to Nigeria",
@@ -1725,31 +1839,19 @@
     "headline": "Iran War Narrows Fed’s Path to Rate Cuts as Trump Demands Immediate Relief",
     "link": "https://www.nytimes.com/2026/03/19/business/fed-rate-cut-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-03-19-17-03-12 +0000"
+    "pubdate": "2026-03-19-17-03-13 +0000"
   },
   {
     "headline": "Iran War Narrows Fed’s Path to Rate Cuts as Trump Demands Immediate Relief",
     "link": "https://www.nytimes.com/2026/03/19/business/fed-rate-cut-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-03-19-17-03-12 +0000"
+    "pubdate": "2026-03-19-17-03-13 +0000"
   },
   {
     "headline": "Opinion | Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do",
     "link": "https://www.wsj.com/opinion/sen-ron-johnson-move-to-end-the-filibuster-nowbefore-democrats-do-4171ee4c",
     "source": "wsj",
     "pubdate": "2026-03-19-17-01-00 +0000"
-  },
-  {
-    "headline": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-17-00-33 +0000"
-  },
-  {
-    "headline": "U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-17-00-33 +0000"
   },
   {
     "headline": "Opinion | The Credit Engine Behind China’s Economy Is Sputtering",
@@ -1818,12 +1920,6 @@
     "pubdate": "2026-03-19-16-37-08 +0000"
   },
   {
-    "headline": "Eight States Sue to Block $6.2 Billion Nexstar-Tegna Merger",
-    "link": "https://www.wsj.com/business/media/states-sue-to-block-6-2-billion-local-broadcasting-tie-up-over-antitrust-concerns-6cd328b4?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-19-16-36-00 +0000"
-  },
-  {
     "headline": "Trump draws gasps with shocking Pearl Harbor quip in front of Japanese PM over Iran ‘surprise attack’",
     "link": "https://nypost.com/2026/03/19/us-news/trump-evokes-pearl-harbor-attack-while-hosting-japanese-pm-who-knows-better-about-surprise-than-japan/",
     "source": "nypost",
@@ -1846,30 +1942,6 @@
     "link": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-19-16-21-28 +0000"
-  },
-  {
-    "headline": "Mortgage Rates Highest in Three Months as War Weighs on Housing Market",
-    "link": "https://www.nytimes.com/2026/03/19/business/mortgage-rates-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-16-20-34 +0000"
-  },
-  {
-    "headline": "Mortgage Rates Highest in Three Months as War Weighs on Housing Market",
-    "link": "https://www.nytimes.com/2026/03/19/business/mortgage-rates-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-16-20-34 +0000"
-  },
-  {
-    "headline": "Mortgage Rates Highest in Three Months as War Weighs on Housing Market",
-    "link": "https://www.nytimes.com/2026/03/19/business/mortgage-rates-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-16-20-34 +0000"
-  },
-  {
-    "headline": "Uber to Buy Rivian Vehicles for Use as Driverless Taxis",
-    "link": "https://www.nytimes.com/2026/03/19/business/uber-rivian-driverless-taxis.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-16-17-33 +0000"
   },
   {
     "headline": "Opinion | What Rahm Emanuel Left Out for Democrats",
@@ -2166,12 +2238,6 @@
     "pubdate": "2026-03-19-14-26-32 +0000"
   },
   {
-    "headline": "After Cesar Chavez Allegations, California Sex Abuse Laws Could Put U.F.W. at Financial Risk",
-    "link": "https://www.nytimes.com/2026/03/18/us/california-sex-abuse-laws-ufw-financial-risk.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-14-26-24 +0000"
-  },
-  {
     "headline": "Tories only party with a plan, says Badenoch as she launches election campaign",
     "link": "https://www.bbc.com/news/articles/c7959959r00o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2196,7 +2262,7 @@
     "pubdate": "2026-03-19-14-09-18 +0000"
   },
   {
-    "headline": "Southern California's winter ends with a record-breaking heat wave",
+    "headline": "SoCal heat wave is 'breaking so many records' as March becomes the new summer",
     "link": "https://www.latimes.com/california/story/2026-03-19/southern-cailfornia-winter-heat-wave",
     "source": "latimes",
     "pubdate": "2026-03-19-14-03-11 +0000"
@@ -2278,12 +2344,6 @@
     "link": "https://www.wsj.com/finance/regulation/major-league-baseball-steps-into-the-prediction-markets-strikes-deal-with-polymarket-d25c4648?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-19-13-28-00 +0000"
-  },
-  {
-    "headline": "Uber to Invest Up to $1.25 Billion in Rivian Robotaxis",
-    "link": "https://www.wsj.com/business/autos/uber-to-invest-up-to-1-25-billion-in-rivian-robotaxis-8b295925?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-19-13-26-00 +0000"
   },
   {
     "headline": "Uber to Invest Up to $1.25 Billion in Rivian Robotaxis",
@@ -2472,12 +2532,6 @@
     "pubdate": "2026-03-19-11-14-02 +0000"
   },
   {
-    "headline": "DR Congo and Rwanda agree to ease tensions after talks in US",
-    "link": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-19-11-14-02 +0000"
-  },
-  {
     "headline": "Oil jumps above $119 a barrel after Iran attacked energy facilities across Middle East",
     "link": "https://nypost.com/2026/03/19/business/oil-jumps-above-119-a-barrel-after-iran-attacked-energy-facilities-across-middle-east/",
     "source": "nypost",
@@ -2508,12 +2562,6 @@
     "pubdate": "2026-03-19-11-05-00 +0000"
   },
   {
-    "headline": "CK Hutchison Prepared to Face Another Year Marked by Geopolitical Risk",
-    "link": "https://www.wsj.com/finance/investing/ck-hutchison-prepared-to-face-another-year-marked-by-geopolitical-risk-c101e934?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-19-11-05-00 +0000"
-  },
-  {
     "headline": "Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers",
     "link": "https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html",
     "source": "nyt",
@@ -2538,12 +2586,6 @@
     "pubdate": "2026-03-19-11-00-00 +0000"
   },
   {
-    "headline": "Tulsi Gabbard, a longtime foe of U.S. involvement in foreign wars, has a chance to show loyalty to Trump when she testifies on Capitol Hill today. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/for-tulsi-gabbard-the-joe-kent-departure-is-a-major-test-c07f5cf1",
-    "source": "wsj",
-    "pubdate": "2026-03-19-10-55-00 +0000"
-  },
-  {
     "headline": "Iranian Missile Attack Leaves 3 Palestinians Dead in West Bank",
     "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-west-bank-missile-strike.html",
     "source": "nyt",
@@ -2566,12 +2608,6 @@
     "link": "https://www.bbc.com/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-19-10-46-39 +0000"
-  },
-  {
-    "headline": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
-    "link": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-19-10-37-36 +0000"
   },
   {
     "headline": "Mission Local is hiring a publisher",
@@ -2682,14 +2718,14 @@
     "pubdate": "2026-03-19-10-00-00 +0000"
   },
   {
-    "headline": "Schools left wondering how to proceed after Supreme Court ruling on transitioning students",
-    "link": "https://www.latimes.com/politics/story/2026-03-19/schools-left-wondering-how-to-proceed-after-supreme-court-ruling-on-transitioning-students",
+    "headline": "Rep. Eric Swalwell's private AI company raises money, questions",
+    "link": "https://www.latimes.com/california/story/2026-03-19/rep-swalwell-candidate-for-california-governor-has-ai-side-gig",
     "source": "latimes",
     "pubdate": "2026-03-19-10-00-00 +0000"
   },
   {
-    "headline": "Rep. Eric Swalwell's private AI company raises money, questions",
-    "link": "https://www.latimes.com/california/story/2026-03-19/rep-swalwell-candidate-for-california-governor-has-ai-side-gig",
+    "headline": "Schools left wondering how to proceed after Supreme Court ruling on transitioning students",
+    "link": "https://www.latimes.com/politics/story/2026-03-19/schools-left-wondering-how-to-proceed-after-supreme-court-ruling-on-transitioning-students",
     "source": "latimes",
     "pubdate": "2026-03-19-10-00-00 +0000"
   },
@@ -2940,7 +2976,7 @@
     "pubdate": "2026-03-19-08-15-57 +0000"
   },
   {
-    "headline": "Stock Market Today: Brent Crude Retreats After Touching $119",
+    "headline": "Stock Market News, March 19, 2026: Brent Crude Retreats After Touching $119",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-19-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-19-08-06-32 +0000"
@@ -3100,113 +3136,5 @@
     "link": "https://www.nytimes.com/2026/03/18/world/iran-leadership-larijani-israel-beirut.html",
     "source": "nyt",
     "pubdate": "2026-03-19-03-56-47 +0000"
-  },
-  {
-    "headline": "King praises 'living bridge' with Nigeria at glitzy banquet",
-    "link": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-19-03-16-18 +0000"
-  },
-  {
-    "headline": "F.B.I. Investigates Joe Kent, Whose Resignation Over Iran War Angered Trump",
-    "link": "https://www.nytimes.com/2026/03/18/us/politics/fbi-joe-kent-intelligence-leak.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-03-00-13 +0000"
-  },
-  {
-    "headline": "F.B.I. Investigates Joe Kent, Whose Resignation Over Iran War Angered Trump",
-    "link": "https://www.nytimes.com/2026/03/18/us/politics/fbi-joe-kent-intelligence-leak.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-03-00-13 +0000"
-  },
-  {
-    "headline": "China Hoped Trump Summit Would Cement Its Superpower Status. Now Xi Has to Wait.",
-    "link": "https://www.wsj.com/world/china/china-hoped-trump-summit-would-cement-its-superpower-status-now-xi-has-to-wait-8cde729d",
-    "source": "wsj",
-    "pubdate": "2026-03-19-03-00-00 +0000"
-  },
-  {
-    "headline": "Kharg Island Is an Appealing Target for Trump, With High Risks",
-    "link": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-02-55-55 +0000"
-  },
-  {
-    "headline": "Kharg Island Is an Appealing Target for Trump, With High Risks",
-    "link": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-02-55-55 +0000"
-  },
-  {
-    "headline": "Joseph Duggar of ’19 Kids and Counting’ Faces Child Sex Abuse Charges",
-    "link": "https://www.nytimes.com/2026/03/18/us/joseph-duggar-arrest-child-sex-abuse.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-02-37-26 +0000"
-  },
-  {
-    "headline": "Murdered influencer may have been buried alive in suitcase after texting pals about ‘creep in stairwell’",
-    "link": "https://nypost.com/2026/03/18/world-news/murdered-austrian-influencer-may-have-been-buried-alive-in-suitcase/",
-    "source": "nypost",
-    "pubdate": "2026-03-19-02-09-17 +0000"
-  },
-  {
-    "headline": "Democratic lawmakers stormed out of a closed-door briefing with Justice Department leaders about the Jeffrey Epstein files",
-    "link": "https://www.wsj.com/politics/policy/democrats-walk-out-of-bondi-meeting-on-epstein-files-3afbc15c",
-    "source": "wsj",
-    "pubdate": "2026-03-19-02-09-00 +0000"
-  },
-  {
-    "headline": "Newsmax Executive Named as Voice of America’s Deputy",
-    "link": "https://www.nytimes.com/2026/03/18/us/politics/voa-deputy-director-wallace.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-02-04-50 +0000"
-  },
-  {
-    "headline": "Newsmax Executive Named as Voice of America’s Deputy",
-    "link": "https://www.nytimes.com/2026/03/18/us/politics/voa-deputy-director-wallace.html",
-    "source": "nyt",
-    "pubdate": "2026-03-19-02-04-50 +0000"
-  },
-  {
-    "headline": "Being ‘the Next Warren Buffett’ Sounds Like an Honor. It Is More of a Curse.",
-    "link": "https://www.wsj.com/finance/being-the-next-warren-buffett-sounds-like-an-honor-it-is-more-of-a-curse-b071c4bb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-19-02-00-00 +0000"
-  },
-  {
-    "headline": "Being ‘the Next Warren Buffett’ Sounds Like an Honor. It Is More of a Curse.",
-    "link": "https://www.wsj.com/finance/being-the-next-warren-buffett-sounds-like-an-honor-it-is-more-of-a-curse-b071c4bb?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-19-02-00-00 +0000"
-  },
-  {
-    "headline": "The Land-Based Missiles That Are Crucial to America’s Air War on Iran",
-    "link": "https://www.wsj.com/world/iran-war-land-missile-strikes-22ca3be5",
-    "source": "wsj",
-    "pubdate": "2026-03-19-02-00-00 +0000"
-  },
-  {
-    "headline": "LAPD commander fired over drunken incident wins $5.7 million in discrimination lawsuit",
-    "link": "https://www.latimes.com/california/story/2026-03-18/lapd-commander-nicole-mehringer-lawsuit-verdict",
-    "source": "latimes",
-    "pubdate": "2026-03-19-01-53-21 +0000"
-  },
-  {
-    "headline": "Race for Congress takes shape—even as Wiener  ducks community groups he doesn’t like",
-    "link": "https://48hills.org/2026/03/race-for-congress-takes-shape-even-as-wiener-ducks-community-groups-he-doesnt-like/",
-    "source": "48hills",
-    "pubdate": "2026-03-19-01-43-03 +0000"
-  },
-  {
-    "headline": "President Trump has spent months talking about how badly he wants Chair Jerome Powell out of the Federal Reserve. Powell signaled Wednesday that he isn’t going anywhere.",
-    "link": "https://www.wsj.com/economy/central-banking/trump-wants-powell-out-powell-is-digging-in-43829d43",
-    "source": "wsj",
-    "pubdate": "2026-03-19-01-22-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-19-01-20-06 +0000"
   }
 ]
