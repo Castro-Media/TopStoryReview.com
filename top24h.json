@@ -1,45 +1,45 @@
 [
   {
-    "score": 290,
+    "score": 300,
     "pubdate": "2026-03-20-00-31-59 +0000",
     "source": "nyt",
     "headline": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
     "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html"
   },
   {
-    "score": 86,
-    "pubdate": "2026-03-19-22-41-40 +0000",
-    "source": "bbc",
-    "headline": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
-    "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 86,
+    "score": 90,
     "pubdate": "2026-03-19-18-27-00 +0000",
     "source": "wsj",
     "headline": "Central banks across Europe held interest rates steady but surging energy costs could force them to act to curb inflation",
     "link": "https://www.wsj.com/economy/central-banking/bank-of-england-leaves-interest-rate-unchanged-84955f9b"
   },
   {
-    "score": 84,
+    "score": 85,
+    "pubdate": "2026-03-19-22-41-40 +0000",
+    "source": "bbc",
+    "headline": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+    "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 83,
     "pubdate": "2026-03-19-23-44-42 +0000",
     "source": "nyt",
     "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
     "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
   },
   {
-    "score": 76,
+    "score": 69,
+    "pubdate": "2026-03-20-00-04-34 +0000",
+    "source": "bbc",
+    "headline": "'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes",
+    "link": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-03-19-20-30-00 +0000",
     "source": "latimes",
     "headline": "California quickly moves to rename Cesar Chavez Day after sex abuse allegations",
     "link": "https://www.latimes.com/california/story/2026-03-18/calls-remove-cesar-chavez-from-buildings-parks-roads"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-03-20-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "A New York congressional race has a new X factor—a big-spending AI super PAC gunning against one of the candidates.",
-    "link": "https://www.wsj.com/politics/policy/ai-lobbying-midterm-elections-new-york-4b018d4e"
   },
   {
     "score": 64,
@@ -49,7 +49,7 @@
     "link": "https://nypost.com/2026/03/19/us-news/japanese-prime-minister-wishes-good-looking-barron-trump-happy-birthday-at-white-house-dinner-very-clear-where-he-got-it/"
   },
   {
-    "score": 57,
+    "score": 54,
     "pubdate": "2026-03-19-23-23-00 +0000",
     "source": "wsj",
     "headline": "A federal panel approved a commemorative gold coin design featuring President Trump, endorsing the rare step of putting a living, sitting president on American money",
@@ -57,16 +57,16 @@
   },
   {
     "score": 50,
-    "pubdate": "2026-03-19-15-59-06 +0000",
-    "source": "nyt",
-    "headline": "Father of a Palestinian woman killed with three others during a missile attack expresses shock.",
-    "link": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/palestinian-women-killed-salon-missile-strike"
+    "pubdate": "2026-03-20-02-43-17 +0000",
+    "source": "nypost",
+    "headline": "Cyclist killed, four other people injured after out-of-control driver plows down NYC street: ‘It was like an explosion’",
+    "link": "https://nypost.com/2026/03/19/us-news/five-people-injured-two-critically-after-car-plows-down-nyc-street/"
   },
   {
     "score": 49,
-    "pubdate": "2026-03-20-10-55-24 +0000",
-    "source": "nypost",
-    "headline": "University of Alabama student James Gracey seen walking toward rocks near beach before death in Barcelona: witness",
-    "link": "https://nypost.com/2026/03/20/world-news/university-of-alabama-student-james-gracey-seen-walking-toward-rocks-moments-before-death-in-barcelona-witness/"
+    "pubdate": "2026-03-20-09-14-22 +0000",
+    "source": "nyt",
+    "headline": "Lukashenko Jailed Her in Belarus, but She Wants the World to Talk to Him",
+    "link": "https://www.nytimes.com/2026/03/20/world/europe/maria-kalesnikava-lukashenko-belarus.html"
   }
 ]
