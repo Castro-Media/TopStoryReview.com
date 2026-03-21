@@ -1,13 +1,13 @@
 [
   {
-    "score": 521,
+    "score": 511,
     "pubdate": "2026-03-20-00-31-59 +0000",
     "source": "nyt",
     "headline": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
     "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html"
   },
   {
-    "score": 188,
+    "score": 185,
     "pubdate": "2026-03-19-08-36-23 +0000",
     "source": "cbc",
     "headline": "Tehran intensifies attacks on Gulf energy facilities after Israel hits Iranian gas field",
@@ -35,25 +35,18 @@
     "link": "https://www.latimes.com/california/story/2026-03-18/calls-remove-cesar-chavez-from-buildings-parks-roads"
   },
   {
-    "score": 123,
+    "score": 120,
     "pubdate": "2026-03-18-02-16-40 +0000",
     "source": "latimes",
     "headline": "SoCal school psychologist thought he was meeting a 13-year-old, authorities say. It was a sting",
     "link": "https://www.latimes.com/california/story/2026-03-17/socal-school-psychologist-thought-he-was-meeting-13-year-old-authorities-say-it-was-sting"
   },
   {
-    "score": 91,
+    "score": 90,
     "pubdate": "2026-03-16-17-57-45 +0000",
     "source": "bbc",
     "headline": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
     "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 89,
-    "pubdate": "2026-03-19-00-46-25 +0000",
-    "source": "bbc",
-    "headline": "As Cuba struggles with power cuts, how is the island holding up?",
-    "link": "https://www.bbc.com/news/videos/c07j7yr0p2no?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 88,
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/economy/central-banking/bank-of-england-leaves-interest-rate-unchanged-84955f9b"
   },
   {
-    "score": 83,
-    "pubdate": "2026-03-21-01-17-18 +0000",
+    "score": 87,
+    "pubdate": "2026-03-19-00-46-25 +0000",
+    "source": "bbc",
+    "headline": "As Cuba struggles with power cuts, how is the island holding up?",
+    "link": "https://www.bbc.com/news/videos/c07j7yr0p2no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 84,
+    "pubdate": "2026-03-20-10-30-00 +0000",
     "source": "nypost",
-    "headline": "Ex-teacher and Texas Senate candidate James Talarico claims illegal migrants were his ‘most patriotic’ students",
-    "link": "https://nypost.com/2026/03/20/us-news/ex-teacher-texas-senate-candidate-james-talarico-claims-illegal-migrants-were-his-most-patriotic-students/"
+    "headline": "Are soaring beef prices busting your grocery budget? Here’s how much you’ll pay at 6 popular stores",
+    "link": "https://nypost.com/2026/03/20/lifestyle/soaring-beef-prices-are-busting-grocery-budgets-heres-how-much-youll-pay-at-6-popular-stores/"
   }
 ]
