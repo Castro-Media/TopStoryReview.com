@@ -1,24 +1,24 @@
 [
   {
-    "score": 207,
-    "pubdate": "2026-03-21-03-16-35 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War",
-    "link": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump"
-  },
-  {
-    "score": 135,
-    "pubdate": "2026-03-20-23-53-34 +0000",
+    "score": 179,
+    "pubdate": "2026-03-20-13-20-07 +0000",
     "source": "nypost",
-    "headline": "US pauses sanctions on Iranian oil ‘stranded at sea’ to help curb skyrocketing energy prices",
-    "link": "https://nypost.com/2026/03/20/us-news/us-pauses-sanctions-on-iranian-oil-stranded-at-sea-to-help-curb-rising-prices/"
+    "headline": "Saudi Arabia warns oil prices could spike past $180 a barrel if Iran war rages on: report",
+    "link": "https://nypost.com/2026/03/20/business/saudi-arabia-warns-oil-prices-could-spike-past-180-a-barrel-if-iran-war-rages-on-report/"
   },
   {
-    "score": 86,
+    "score": 149,
     "pubdate": "2026-03-20-18-19-51 +0000",
     "source": "nypost",
     "headline": "UK agrees to let US military use its bases for strikes in the Strait of Hormuz after Trump calls European allies ‘cowards’ for refusing to help",
     "link": "https://nypost.com/2026/03/20/world-news/uk-to-let-us-use-its-bases-for-strikes-to-help-reopen-strait-of-hormuz/"
+  },
+  {
+    "score": 74,
+    "pubdate": "2026-03-20-23-53-34 +0000",
+    "source": "nypost",
+    "headline": "US pauses sanctions on Iranian oil ‘stranded at sea’ to help curb skyrocketing energy prices",
+    "link": "https://nypost.com/2026/03/20/us-news/us-pauses-sanctions-on-iranian-oil-stranded-at-sea-to-help-curb-rising-prices/"
   },
   {
     "score": 71,
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/politics/the-pentagons-new-press-rules-violate-the-first-amendment-judge-rules-cbca9999"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2026-03-21-00-12-55 +0000",
     "source": "nyt",
     "headline": "CBS News Radio, Onetime Home of Murrow, Will End Amid Layoffs",
@@ -57,16 +57,16 @@
   },
   {
     "score": 44,
-    "pubdate": "2026-03-20-20-55-20 +0000",
-    "source": "nyt",
-    "headline": "Justice Dept. Seeks to Drop Charges Against Officers in Breonna Taylor’s Death",
-    "link": "https://www.nytimes.com/2026/03/20/us/politics/breonna-taylor-officer-charges.html"
-  },
-  {
-    "score": 44,
     "pubdate": "2026-03-20-10-30-00 +0000",
     "source": "nypost",
     "headline": "Are soaring beef prices busting your grocery budget? Here’s how much you’ll pay at 6 popular stores",
     "link": "https://nypost.com/2026/03/20/lifestyle/soaring-beef-prices-are-busting-grocery-budgets-heres-how-much-youll-pay-at-6-popular-stores/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-03-20-20-55-20 +0000",
+    "source": "nyt",
+    "headline": "Justice Dept. Seeks to Drop Charges Against Officers in Breonna Taylor’s Death",
+    "link": "https://www.nytimes.com/2026/03/20/us/politics/breonna-taylor-officer-charges.html"
   }
 ]
