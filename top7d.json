@@ -1,6 +1,6 @@
 [
   {
-    "score": 524,
+    "score": 521,
     "pubdate": "2026-03-20-00-31-59 +0000",
     "source": "nyt",
     "headline": "Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War",
@@ -14,7 +14,7 @@
     "link": "https://www.cbc.ca/news/world/tehran-intensifies-attacks-gulf-energy-9.7134336?cmp=rss"
   },
   {
-    "score": 158,
+    "score": 161,
     "pubdate": "2026-03-20-18-19-51 +0000",
     "source": "nypost",
     "headline": "UK agrees to let US military use its bases for strikes in the Strait of Hormuz after Trump calls European allies ‘cowards’ for refusing to help",
@@ -35,21 +35,14 @@
     "link": "https://www.latimes.com/california/story/2026-03-18/calls-remove-cesar-chavez-from-buildings-parks-roads"
   },
   {
-    "score": 127,
+    "score": 129,
     "pubdate": "2026-03-18-02-16-40 +0000",
     "source": "latimes",
     "headline": "SoCal school psychologist thought he was meeting a 13-year-old, authorities say. It was a sting",
     "link": "https://www.latimes.com/california/story/2026-03-17/socal-school-psychologist-thought-he-was-meeting-13-year-old-authorities-say-it-was-sting"
   },
   {
-    "score": 89,
-    "pubdate": "2026-03-19-18-27-00 +0000",
-    "source": "wsj",
-    "headline": "Central banks across Europe held interest rates steady but surging energy costs could force them to act to curb inflation",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-england-leaves-interest-rate-unchanged-84955f9b"
-  },
-  {
-    "score": 89,
+    "score": 90,
     "pubdate": "2026-03-16-17-57-45 +0000",
     "source": "bbc",
     "headline": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car",
@@ -61,6 +54,13 @@
     "source": "bbc",
     "headline": "As Cuba struggles with power cuts, how is the island holding up?",
     "link": "https://www.bbc.com/news/videos/c07j7yr0p2no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 88,
+    "pubdate": "2026-03-19-18-27-00 +0000",
+    "source": "wsj",
+    "headline": "Central banks across Europe held interest rates steady but surging energy costs could force them to act to curb inflation",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-england-leaves-interest-rate-unchanged-84955f9b"
   },
   {
     "score": 84,
