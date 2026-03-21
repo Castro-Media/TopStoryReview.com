@@ -1,72 +1,37 @@
 [
   {
-    "score": 37,
-    "pubdate": "2026-03-21-13-03-38 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week",
-    "link": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-21-12-58-29 +0000",
-    "source": "bbc",
-    "headline": "Fans elated as BTS play first gig together in nearly four years",
-    "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
+    "score": 23,
     "pubdate": "2026-03-21-13-03-36 +0000",
     "source": "nyt",
     "headline": "Middle East War Leaves Hamas Balancing Allies on Opposite Sides",
     "link": "https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-hamas-iran-qatar.html"
   },
   {
-    "score": 18,
-    "pubdate": "2026-03-21-12-45-00 +0000",
-    "source": "nypost",
-    "headline": "Mamdani is letting reckless e-bike riders off the hook — but astonishing data shows the fatal cost of bike lane chaos",
-    "link": "https://nypost.com/2026/03/21/us-news/new-data-reveals-e-bike-chaos-in-nyc-as-mamdani-vows-to-let-reckless-riders-off-the-hook/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-03-21-12-49-04 +0000",
-    "source": "nyt",
-    "headline": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo",
-    "link": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-03-21-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump has demanded that the GOP-controlled Senate vote to end most mail-in voting. Here’s why some Republicans are pushing back",
-    "link": "https://www.wsj.com/politics/elections/trump-wants-to-end-mail-in-voting-why-republicans-are-pushing-back-0fff2880"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-03-21-12-15-00 +0000",
-    "source": "nypost",
-    "headline": "Rocket scientist with ties to missing Air Force general associated with UFOs disappeared under eerily similar circumstances",
-    "link": "https://nypost.com/2026/03/21/us-news/rocket-scientist-with-professional-ties-to-missing-gen-william-mccasland-disappeared-under-similar-circumstances/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-03-21-12-36-27 +0000",
-    "source": "nypost",
-    "headline": "Epstein’s last girlfriend laughs as she strolls across stage in never-before-seen grad video",
-    "link": "https://nypost.com/2026/03/21/us-news/epsteins-last-girlfriend-karyna-shuliak-laughs-as-she-strolls-across-stage-in-columbia-graduation-video/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-03-21-12-31-16 +0000",
-    "source": "nypost",
-    "headline": "Only murders in the building: Teen squatters got past lax security to kill NY mom: lawsuit",
-    "link": "https://nypost.com/2026/03/21/us-news/teen-squatters-accused-of-killing-mom-found-in-duffel-bag-should-not-have-been-in-nyc-building-lawsuit/"
-  },
-  {
     "score": 12,
-    "pubdate": "2026-03-21-12-15-47 +0000",
+    "pubdate": "2026-03-21-13-11-57 +0000",
     "source": "nyt",
-    "headline": "​At Least 14 Killed in South Korean Factory Fire",
-    "link": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html"
+    "headline": "Live Updates: BTS’s Comeback Show Was Heavy on Their New Album",
+    "link": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-21-13-03-38 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week",
+    "link": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-03-21-13-11-45 +0000",
+    "source": "wapo",
+    "headline": "The Middle East celebrates Eid and Nowruz under the shadow of war",
+    "link": "https://www.washingtonpost.com/world/2026/03/21/eid-middle-east-nowruz-war-holiday-ramadan/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-21-13-03-36 +0000",
+    "source": "nyt",
+    "headline": "Middle East War Leaves Hamas Balancing Allies on Opposite Sides",
+    "link": "https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-hamas-iran-qatar.html"
   }
 ]
