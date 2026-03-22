@@ -1,20 +1,20 @@
 [
   {
-    "score": 118,
+    "score": 157,
+    "pubdate": "2026-03-22-08-55-36 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump Threatens Iran’s Power Plants if Strait of Hormuz Does Not Open",
+    "link": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump"
+  },
+  {
+    "score": 77,
     "pubdate": "2026-03-22-01-04-57 +0000",
     "source": "bbc",
     "headline": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
     "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 92,
-    "pubdate": "2026-03-22-04-15-36 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities",
-    "link": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump"
-  },
-  {
-    "score": 57,
+    "score": 71,
     "pubdate": "2026-03-22-00-47-52 +0000",
     "source": "nypost",
     "headline": "Over 100 Israeli civilians wounded by new  Iranian missile strikes, including one near nuclear facility",
@@ -22,24 +22,17 @@
   },
   {
     "score": 45,
-    "pubdate": "2026-03-21-15-07-30 +0000",
-    "source": "wapo",
-    "headline": "K-pop stars BTS thrill Seoul with comeback concert after military service",
-    "link": "https://www.washingtonpost.com/world/2026/03/21/bts-arirang-kpop-seoul/"
+    "pubdate": "2026-03-21-21-23-49 +0000",
+    "source": "nyt",
+    "headline": "Iran Fires Missiles at Far-Off Diego Garcia Base, but U.S. Remains Out of Range",
+    "link": "https://www.nytimes.com/2026/03/21/us/politics/iran-missiles-military-base.html"
   },
   {
-    "score": 38,
-    "pubdate": "2026-03-21-12-15-20 +0000",
-    "source": "bbc",
-    "headline": "US lifts sanctions on some Iranian oil as energy prices soar",
-    "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-03-21-20-22-10 +0000",
-    "source": "bbc",
-    "headline": "Trump threatens to send ICE into airports unless funding deal reached",
-    "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss"
+    "score": 40,
+    "pubdate": "2026-03-21-10-59-37 +0000",
+    "source": "nyt",
+    "headline": "The BTS Comeback Concert is Taking Place in the Heart of Seoul. But Not Everyone is Happy.",
+    "link": "https://www.nytimes.com/2026/03/21/world/asia/bts-seoul-concert-korea-criticism.html"
   },
   {
     "score": 38,
@@ -50,23 +43,30 @@
   },
   {
     "score": 36,
-    "pubdate": "2026-03-21-05-49-15 +0000",
-    "source": "bbc",
-    "headline": "Watch: Thick smoke billows from South Korea car parts plant in deadly fire",
-    "link": "https://www.bbc.com/news/videos/c87wg74wlgyo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-03-21-22-08-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Says He’ll Send ICE to Airports If Funding Standoff Continues",
+    "link": "https://www.wsj.com/business/airlines/tsa-agents-pay-government-shutdown-34d3b366?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 33,
-    "pubdate": "2026-03-21-21-23-49 +0000",
+    "score": 34,
+    "pubdate": "2026-03-21-12-15-20 +0000",
+    "source": "bbc",
+    "headline": "US lifts sanctions on some Iranian oil as energy prices soar",
+    "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-03-21-23-18-06 +0000",
     "source": "nyt",
-    "headline": "Iran Fires Missiles at Far-Off Diego Garcia Base, but U.S. Remains Out of Range",
-    "link": "https://www.nytimes.com/2026/03/21/us/politics/iran-missiles-military-base.html"
+    "headline": "Here’s What Happened in the War in the Middle East on Saturday",
+    "link": "https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html"
   },
   {
-    "score": 31,
-    "pubdate": "2026-03-21-10-47-17 +0000",
-    "source": "bbc",
-    "headline": "UK allows US to use bases to strike Strait of Hormuz targets",
-    "link": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss"
+    "score": 29,
+    "pubdate": "2026-03-22-02-12-49 +0000",
+    "source": "nyt",
+    "headline": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland",
+    "link": "https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html"
   }
 ]
