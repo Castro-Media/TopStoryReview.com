@@ -1,31 +1,24 @@
 [
   {
-    "score": 126,
-    "pubdate": "2026-03-21-20-29-38 +0000",
+    "score": 123,
+    "pubdate": "2026-03-21-22-53-03 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
     "link": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump"
   },
   {
-    "score": 101,
-    "pubdate": "2026-03-21-17-57-34 +0000",
-    "source": "nypost",
-    "headline": "Trump blasts Robert Mueller after news of ex-FBI director, Russia special counsel’s death: ‘Good’",
-    "link": "https://nypost.com/2026/03/21/us-news/trump-blasts-robert-mueller-after-news-of-ex-fbi-director-russia-special-counsels-death-good/"
+    "score": 111,
+    "pubdate": "2026-03-21-19-06-00 +0000",
+    "source": "wsj",
+    "headline": "Robert Mueller, Former FBI Chief Who Led Trump-Russia Probe, Dies at 81",
+    "link": "https://www.wsj.com/us-news/law/robert-mueller-former-fbi-chief-who-led-trump-russia-probe-dies-8bc041de"
   },
   {
-    "score": 61,
+    "score": 59,
     "pubdate": "2026-03-21-00-17-00 +0000",
     "source": "wsj",
     "headline": "A federal judge on Friday blocked the Trump administration from enforcing a policy that limits reporters’ access to the Pentagon, ruling that key elements of the new rules were unconstitutional",
     "link": "https://www.wsj.com/politics/the-pentagons-new-press-rules-violate-the-first-amendment-judge-rules-cbca9999"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-03-20-23-53-34 +0000",
-    "source": "nypost",
-    "headline": "US pauses sanctions on Iranian oil ‘stranded at sea’ to help curb skyrocketing energy prices",
-    "link": "https://nypost.com/2026/03/20/us-news/us-pauses-sanctions-on-iranian-oil-stranded-at-sea-to-help-curb-rising-prices/"
   },
   {
     "score": 54,
@@ -35,11 +28,18 @@
     "link": "https://www.washingtonpost.com/world/2026/03/21/bts-arirang-kpop-seoul/"
   },
   {
-    "score": 41,
-    "pubdate": "2026-03-21-10-47-17 +0000",
+    "score": 44,
+    "pubdate": "2026-03-21-12-15-20 +0000",
     "source": "bbc",
-    "headline": "UK allows US to use bases to strike Strait of Hormuz targets",
-    "link": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss"
+    "headline": "US lifts sanctions on some Iranian oil as energy prices soar",
+    "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-03-21-21-23-48 +0000",
+    "source": "nyt",
+    "headline": "Iran Fires Missiles at Far-Off Diego Garcia Base, but U.S. Remains Out of Range",
+    "link": "https://www.nytimes.com/2026/03/21/us/politics/iran-missiles-military-base.html"
   },
   {
     "score": 40,
@@ -49,18 +49,11 @@
     "link": "https://www.nytimes.com/2026/03/21/world/middleeast/heavy-storms-in-beirut-cap-a-morning-of-ongoing-israeli-strikes.html"
   },
   {
-    "score": 36,
-    "pubdate": "2026-03-21-19-40-37 +0000",
-    "source": "nyt",
-    "headline": "Iran Fires Missiles at Far-Off Diego Garcia Base, but U.S. Remains Out of Range",
-    "link": "https://www.nytimes.com/2026/03/21/us/politics/iran-missiles-military-base.html"
-  },
-  {
     "score": 35,
-    "pubdate": "2026-03-21-13-00-00 +0000",
+    "pubdate": "2026-03-21-22-08-00 +0000",
     "source": "wsj",
-    "headline": "President Trump has demanded that the GOP-controlled Senate vote to end most mail-in voting. Here’s why some Republicans are pushing back",
-    "link": "https://www.wsj.com/politics/elections/trump-wants-to-end-mail-in-voting-why-republicans-are-pushing-back-0fff2880"
+    "headline": "Trump Says He’ll Send ICE to Airports If Funding Standoff Continues",
+    "link": "https://www.wsj.com/business/airlines/tsa-agents-pay-government-shutdown-34d3b366?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 33,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
     "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-03-21-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump has demanded that the GOP-controlled Senate vote to end most mail-in voting. Here’s why some Republicans are pushing back",
+    "link": "https://www.wsj.com/politics/elections/trump-wants-to-end-mail-in-voting-why-republicans-are-pushing-back-0fff2880"
   }
 ]
