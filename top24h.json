@@ -1,6 +1,6 @@
 [
   {
-    "score": 140,
+    "score": 139,
     "pubdate": "2026-03-22-18-52-03 +0000",
     "source": "nypost",
     "headline": "Scott Bessent suggests Trump may ‘escalate to de-escalate’ Iran war — says ‘50 days’ of higher prices will be worth it",
@@ -14,14 +14,14 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
-    "score": 69,
+    "score": 66,
     "pubdate": "2026-03-22-00-47-52 +0000",
     "source": "nypost",
     "headline": "Over 100 Israeli civilians wounded by new  Iranian missile strikes, including one near nuclear facility",
     "link": "https://nypost.com/2026/03/21/world-news/over-100-israeli-civilians-wounded-by-iranian-strikes-including-small-children/"
   },
   {
-    "score": 49,
+    "score": 45,
     "pubdate": "2026-03-22-01-04-57 +0000",
     "source": "bbc",
     "headline": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
@@ -49,18 +49,11 @@
     "link": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 39,
+    "score": 36,
     "pubdate": "2026-03-22-12-52-00 +0000",
     "source": "wsj",
     "headline": "South Korean President Lee Jae Myung has nominated Shin Hyun-song, a senior Bank for International Settlements official, as the country’s next central bank governor",
     "link": "https://www.wsj.com/economy/central-banking/south-korea-names-bis-official-as-next-central-bank-chief-a69cddbc"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-03-21-21-23-49 +0000",
-    "source": "nyt",
-    "headline": "Iran Fires Missiles at Far-Off Diego Garcia Base, but U.S. Remains Out of Range",
-    "link": "https://www.nytimes.com/2026/03/21/us/politics/iran-missiles-military-base.html"
   },
   {
     "score": 35,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
     "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-03-22-00-17-02 +0000",
+    "source": "bbc",
+    "headline": "A secularism law some women say makes them feel like 'outsiders' heads to Canada's top court",
+    "link": "https://www.bbc.com/news/articles/ceqw5j5lx32o?at_medium=RSS&at_campaign=rss"
   }
 ]
