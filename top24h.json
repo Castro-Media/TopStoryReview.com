@@ -1,20 +1,20 @@
 [
   {
-    "score": 124,
-    "pubdate": "2026-03-22-20-01-00 +0000",
+    "score": 128,
+    "pubdate": "2026-03-23-03-30-00 +0000",
     "source": "wsj",
     "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
-    "score": 65,
-    "pubdate": "2026-03-22-23-49-25 +0000",
-    "source": "nypost",
-    "headline": "California military families react as soldiers deploy to Middle East amid war with Iran",
-    "link": "https://nypost.com/2026/03/22/us-news/socal-military-families-react-as-soldiers-deploy-to-middle-east/"
+    "score": 89,
+    "pubdate": "2026-03-23-03-18-00 +0000",
+    "source": "wsj",
+    "headline": "Iran said it would target critical infrastructure if Trump follows through on his weekend threat to “obliterate” the nation’s power plants if Tehran didn’t reopen the Strait of Hormuz within days",
+    "link": "https://www.wsj.com/world/middle-east/trump-tehran-exchange-threats-f1c01fbc"
   },
   {
-    "score": 53,
+    "score": 50,
     "pubdate": "2026-03-22-14-48-00 +0000",
     "source": "wsj",
     "headline": "Here’s a look at the three lawmakers seen as best positioned to succeed House Speaker Mike Johnson if Republicans lose the majority in the midterms and look for a new leader",
@@ -22,6 +22,13 @@
   },
   {
     "score": 48,
+    "pubdate": "2026-03-22-23-49-25 +0000",
+    "source": "nypost",
+    "headline": "California military families react as soldiers deploy to Middle East amid war with Iran",
+    "link": "https://nypost.com/2026/03/22/us-news/socal-military-families-react-as-soldiers-deploy-to-middle-east/"
+  },
+  {
+    "score": 46,
     "pubdate": "2026-03-22-12-52-56 +0000",
     "source": "bbc",
     "headline": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
@@ -29,17 +36,17 @@
   },
   {
     "score": 45,
-    "pubdate": "2026-03-22-23-52-07 +0000",
+    "pubdate": "2026-03-23-03-34-33 +0000",
     "source": "nyt",
     "headline": "Israel’s Missile Defense Under Scrutiny After Iranian Attack",
     "link": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html"
   },
   {
-    "score": 42,
-    "pubdate": "2026-03-22-23-27-59 +0000",
-    "source": "bbc",
-    "headline": "France's Socialists hold onto power in major cities in election boost for mainstream",
-    "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
+    "score": 37,
+    "pubdate": "2026-03-22-17-10-00 +0000",
+    "source": "wsj",
+    "headline": "Amazon Gets Its Biggest Hit Movie Ever With ‘Project Hail Mary’",
+    "link": "https://www.wsj.com/business/media/amazon-project-hail-mary-box-office-55609da6?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 36,
@@ -49,13 +56,6 @@
     "link": "https://www.wsj.com/economy/central-banking/south-korea-names-bis-official-as-next-central-bank-chief-a69cddbc"
   },
   {
-    "score": 36,
-    "pubdate": "2026-03-22-17-10-00 +0000",
-    "source": "wsj",
-    "headline": "Amazon Gets Its Biggest Hit Movie Ever With ‘Project Hail Mary’",
-    "link": "https://www.wsj.com/business/media/amazon-project-hail-mary-box-office-55609da6?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 33,
     "pubdate": "2026-03-23-00-03-25 +0000",
     "source": "bbc",
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 28,
-    "pubdate": "2026-03-23-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Kevin Warsh promised to overhaul the Federal Reserve and cut rates. He is being greeted by rising inflation, an oil shock and a confirmation in limbo.",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-kevin-warsh-onboarding-510839b7"
+    "score": 30,
+    "pubdate": "2026-03-22-23-27-59 +0000",
+    "source": "bbc",
+    "headline": "France's Socialists hold onto power in major cities in election boost for mainstream",
+    "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
   }
 ]
