@@ -1,15 +1,297 @@
 [
   {
-    "headline": "OpenAI Taps Former Meta Executive to Lead Ad Push",
-    "link": "https://www.wsj.com/tech/ai/openai-taps-former-meta-executive-to-lead-ad-push-60d39af2?mod=pls_whats_news_us_business_f",
+    "headline": "Dow futures rally nearly 1,000 points, oil tumbles below $100 after Trump orders 5-day pause on attacks on Iran power plants",
+    "link": "https://nypost.com/2026/03/23/business/dow-futures-rally-nearly-1000-points-oil-tumbles-below-100-after-trump-orders-5-day-pause-on-attacks-on-iran-power-plants/",
+    "source": "nypost",
+    "pubdate": "2026-03-23-13-16-13 +0000"
+  },
+  {
+    "headline": "Oil falls and shares rebound after Trump says talks have been held to end war",
+    "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-13-15-42 +0000"
+  },
+  {
+    "headline": "Oil falls and shares rebound after Trump says talks have been held to end war",
+    "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-13-15-42 +0000"
+  },
+  {
+    "headline": "Flights Grounded at LaGuardia Airport as New York Fire Department Responds to Incident",
+    "link": "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/laguardia-groundstop-flights",
+    "source": "nyt",
+    "pubdate": "2026-03-23-13-15-04 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/23/us/supreme-court-voting-late-ballots/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-23-13-13-41 +0000"
+  },
+  {
+    "headline": "‘Stop, Stop, Stop’: LaGuardia Airport Closed After Runway Collision Kills Two Pilots",
+    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-03-23-12-00-00 +0000"
+    "pubdate": "2026-03-23-13-13-00 +0000"
+  },
+  {
+    "headline": "‘Stop, Stop, Stop’: LaGuardia Airport Closed After Runway Collision Kills Two Pilots",
+    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396",
+    "source": "wsj",
+    "pubdate": "2026-03-23-13-13-00 +0000"
+  },
+  {
+    "headline": "‘Stop, Stop, Stop’: LaGuardia Airport Closed After Runway Collision Kills Two Pilots",
+    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396",
+    "source": "wsj",
+    "pubdate": "2026-03-23-13-13-00 +0000"
+  },
+  {
+    "headline": "These 14 states could be affected by the Supreme Court’s decision on late mail ballots.",
+    "link": "https://www.nytimes.com/live/2026/03/23/us/supreme-court-voting-late-ballots/these-are-the-states-that-accept-late-arriving-mail-ballots",
+    "source": "nyt",
+    "pubdate": "2026-03-23-13-11-36 +0000"
+  },
+  {
+    "headline": "OnlyFans owner Leonid Radvinsky dies at 43 following secret cancer battle",
+    "link": "https://nypost.com/2026/03/23/business/onlyfans-owner-leonid-radvinsky-dies-at-43-following-secret-cancer-battle/",
+    "source": "nypost",
+    "pubdate": "2026-03-23-13-08-50 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Trump Says U.S. and Iran Held ‘Very Good’ Talks on Ending Conflict",
+    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
+    "source": "nyt",
+    "pubdate": "2026-03-23-13-07-22 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-23-13-07-21 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-23-13-07-21 +0000"
+  },
+  {
+    "headline": "Dollar Faces Volatility Due to Iran War Uncertainty",
+    "link": "https://www.wsj.com/finance/currencies/australian-dollar-could-get-dumped-if-iran-war-drags-on-6a8ff05f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-23-13-03-00 +0000"
+  },
+  {
+    "headline": "Cubans turn to faith and family amid nationwide blackout",
+    "link": "https://www.cbc.ca/news/world/faith-family-cuba-blackout-9.7138212?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-23-13-02-54 +0000"
+  },
+  {
+    "headline": "Migrating monarch",
+    "link": "https://missionlocal.org/2026/03/migrating-monarch/",
+    "source": "missionlocal",
+    "pubdate": "2026-03-23-13-00-00 +0000"
+  },
+  {
+    "headline": "Immigrant Detentions and Deportations Leave Pets Behind",
+    "link": "https://www.nytimes.com/2026/03/23/us/trump-ice-deportations-pets-left-behind.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-55-20 +0000"
+  },
+  {
+    "headline": "Italy’s Postal Service Makes $12.50 Billion Bid for Telecom Italia",
+    "link": "https://www.wsj.com/business/deals/poste-italiane-unveils-12-50-billion-offer-for-telecom-italia-5cb73a87?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-53-00 +0000"
+  },
+  {
+    "headline": "The Top Iranian Diplomat Who Says He’s in No Mood to Talk",
+    "link": "https://www.wsj.com/world/middle-east/the-top-iranian-diplomat-who-says-hes-in-no-mood-to-talk-ef6ed51e",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-51-00 +0000"
+  },
+  {
+    "headline": "Treasury Yields, Dollar Seesaw as Trump Indicates Progress",
+    "link": "https://www.wsj.com/finance/bonds-decoupling-from-oil-amid-longer-conflict-fears-d1fa0620?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-48-00 +0000"
+  },
+  {
+    "headline": "Lionel Jospin, France’s Former Prime Minister, Dies at 88",
+    "link": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-47-52 +0000"
+  },
+  {
+    "headline": "Lionel Jospin, France’s Former Prime Minister, Dies at 88",
+    "link": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-47-52 +0000"
+  },
+  {
+    "headline": "Ministers name seven areas where 'new towns' could be built",
+    "link": "https://www.bbc.com/news/articles/c393l8w7me2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-12-43-41 +0000"
+  },
+  {
+    "headline": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
+    "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-12-42-59 +0000"
+  },
+  {
+    "headline": "Newark Airport issues ground stop due to smoke in air traffic control tower – just hours after deadly LaGuardia crash",
+    "link": "https://nypost.com/2026/03/23/us-news/newark-airport-issues-ground-stop-due-to-smoke-in-air-traffic-control-tower-just-hours-after-deadly-laguardia-crash/",
+    "source": "nypost",
+    "pubdate": "2026-03-23-12-38-54 +0000"
+  },
+  {
+    "headline": "Iranians Fear Trump’s Threat to Strike Power Plants",
+    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-36-13 +0000"
+  },
+  {
+    "headline": "Iranians Fear Trump’s Threat to Strike Power Plants",
+    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-36-13 +0000"
+  },
+  {
+    "headline": "Diabetes, Overlooked and Unchecked, Poses New Risks in Africa",
+    "link": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-35-39 +0000"
+  },
+  {
+    "headline": "Diabetes, Overlooked and Unchecked, Poses New Risks in Africa",
+    "link": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-35-39 +0000"
+  },
+  {
+    "headline": "Trump says U.S. is postponing some strikes as it negotiates end to war with Iran",
+    "link": "https://www.washingtonpost.com/politics/2026/03/23/trump-iran-talks-strikes/",
+    "source": "wapo",
+    "pubdate": "2026-03-23-12-34-35 +0000"
+  },
+  {
+    "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
+    "link": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-33-42 +0000"
+  },
+  {
+    "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
+    "link": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-33-42 +0000"
   },
   {
     "headline": "Starmer to consider options over Iran cost-of-living concerns",
     "link": "https://www.bbc.com/news/articles/c98kdyye33no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-03-23-11-58-04 +0000"
+    "pubdate": "2026-03-23-12-31-26 +0000"
+  },
+  {
+    "headline": "Lawmakers to Introduce Bipartisan Bill Banning Sports Bets on Prediction Markets",
+    "link": "https://www.wsj.com/finance/regulation/lawmakers-to-introduce-bipartisan-bill-banning-sports-bets-on-prediction-markets-17d2e272?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-30-00 +0000"
+  },
+  {
+    "headline": "Lawmakers to Introduce Bipartisan Bill Banning Sports Bets on Prediction Markets",
+    "link": "https://www.wsj.com/finance/regulation/lawmakers-to-introduce-bipartisan-bill-banning-sports-bets-on-prediction-markets-17d2e272?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-30-00 +0000"
+  },
+  {
+    "headline": "Quebec's secularism law Bill 21 heads to the Supreme Court",
+    "link": "https://www.cbc.ca/news/canada/montreal/livestory/bill-21-supreme-court-9.7138285?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-23-12-28-10 +0000"
+  },
+  {
+    "headline": "Oil Prices Tumble and Stocks Rise",
+    "link": "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-27-43 +0000"
+  },
+  {
+    "headline": "Oil falls and shares rebound after Trump says talks have been held to end war",
+    "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-12-27-28 +0000"
+  },
+  {
+    "headline": "US will hold off on Iran power plant strikes for 5 days, extending Trump deadline on Hormuz strait",
+    "link": "https://www.startribune.com/iran-threatens-to-attack-mideast-electrical-plants-powering-us-bases/601628882",
+    "source": "startribune",
+    "pubdate": "2026-03-23-12-25-03 +0000"
+  },
+  {
+    "headline": "Campaigners celebrate after new town plans dropped",
+    "link": "https://www.bbc.com/news/articles/cew720qj4r0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-12-22-22 +0000"
+  },
+  {
+    "headline": "EU Says It Will Provisionally Apply South American Trade Deal from May 1",
+    "link": "https://www.wsj.com/world/europe/eu-says-it-will-provisionally-apply-south-american-trade-deal-from-may-1-3120f6dc",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-20-00 +0000"
+  },
+  {
+    "headline": "Jeff Webb, Who Built a Competitive Cheerleading Empire, Dies at 76",
+    "link": "https://www.nytimes.com/2026/03/22/business/jeff-webb-dead-cheerleading.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-18-59 +0000"
+  },
+  {
+    "headline": "Kenyan ex-foreign minister resurfaces after abduction fears",
+    "link": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-12-17-19 +0000"
+  },
+  {
+    "headline": "Kenyan ex-foreign minister resurfaces after abduction fears",
+    "link": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-12-17-19 +0000"
+  },
+  {
+    "headline": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime, Police Say",
+    "link": "https://www.nytimes.com/2026/03/23/world/europe/jewish-ambulances-fire-london.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-12-49 +0000"
+  },
+  {
+    "headline": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime, Police Say",
+    "link": "https://www.nytimes.com/2026/03/23/world/europe/jewish-ambulances-fire-london.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-12-12-49 +0000"
+  },
+  {
+    "headline": "LaGuardia passengers describe ‘chaos’ before fatal crash, and recount pilot’s heroic final act that saved lives",
+    "link": "https://nypost.com/2026/03/23/us-news/laguardia-passengers-describe-chaos-before-fatal-crash-and-pilots-heroic-final-act/",
+    "source": "nypost",
+    "pubdate": "2026-03-23-12-05-38 +0000"
+  },
+  {
+    "headline": "Nvidia, Emerald AI Partner With Power Companies on New AI Factories",
+    "link": "https://www.wsj.com/tech/ai/nvidia-emerald-ai-partner-with-power-companies-on-new-ai-factories-107d61cc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-04-00 +0000"
+  },
+  {
+    "headline": "OpenAI Taps Former Meta Executive to Lead Ad Push",
+    "link": "https://www.wsj.com/tech/ai/openai-taps-former-meta-executive-to-lead-ad-push-60d39af2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-23-12-00-00 +0000"
   },
   {
     "headline": "Protein Drink Maker Huel Agrees to $1.2 Billion Offer From Danone",
@@ -18,64 +300,16 @@
     "pubdate": "2026-03-23-11-57-00 +0000"
   },
   {
-    "headline": "Iran War Live Updates: Trump Says U.S. and Iran Held ‘Very Good’ Talks on Ending Conflict",
-    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
-    "source": "nyt",
-    "pubdate": "2026-03-23-11-56-20 +0000"
-  },
-  {
-    "headline": "Oil prices plunge after Trump says talks have been held to end war",
-    "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-23-11-54-14 +0000"
-  },
-  {
-    "headline": "Oil prices plunge after Trump says talks have been held to end war",
-    "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-23-11-54-14 +0000"
-  },
-  {
-    "headline": "Oil prices plunge after Trump says talks have been held to end war",
-    "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-23-11-54-14 +0000"
-  },
-  {
     "headline": "LaGuardia Airport shuts down after deadly plane crash as NYC fliers already facing TSA chaos",
     "link": "https://nypost.com/2026/03/23/us-news/laguardia-airport-shut-down-after-deadly-plane-crash/",
     "source": "nypost",
     "pubdate": "2026-03-23-11-53-02 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-23-11-51-36 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-23-11-51-36 +0000"
-  },
-  {
     "headline": "Markets Rally as Trump’s Iran Deadline Is Deferred",
     "link": "https://www.nytimes.com/2026/03/23/business/dealbook/trump-iran-energy-attacks.html",
     "source": "nyt",
     "pubdate": "2026-03-23-11-48-42 +0000"
-  },
-  {
-    "headline": "Flights Grounded at LaGuardia Airport as New York Fire Department Responds to Incident",
-    "link": "https://www.nytimes.com/live/2026/03/23/nyregion/laguardia-airport-plane-crash-truck/laguardia-groundstop-flights",
-    "source": "nyt",
-    "pubdate": "2026-03-23-11-48-38 +0000"
-  },
-  {
-    "headline": "EU Says It Will Provisionally Apply South American Trade Deal from May 1",
-    "link": "https://www.wsj.com/world/europe/eu-says-it-will-provisionally-apply-south-american-trade-deal-from-may-1-3120f6dc",
-    "source": "wsj",
-    "pubdate": "2026-03-23-11-48-00 +0000"
   },
   {
     "headline": "Victory Capital Rejects Reports of Client Pushback in Bid for Janus Henderson",
@@ -88,36 +322,6 @@
     "link": "https://www.wsj.com/business/victory-capital-rejects-reports-of-client-pushback-in-bid-for-janus-henderson-58513312?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-23-11-46-00 +0000"
-  },
-  {
-    "headline": "US will hold off on Iran power plant strikes for 5 days, extending Trump deadline on Hormuz strait",
-    "link": "https://www.startribune.com/iran-threatens-to-attack-mideast-electrical-plants-powering-us-bases/601628882",
-    "source": "startribune",
-    "pubdate": "2026-03-23-11-45-03 +0000"
-  },
-  {
-    "headline": "Trump says U.S. is negotiating end to war with Iran",
-    "link": "https://www.washingtonpost.com/politics/2026/03/23/trump-iran-talks-strikes/",
-    "source": "wapo",
-    "pubdate": "2026-03-23-11-41-07 +0000"
-  },
-  {
-    "headline": "Oil Prices Tumble and Stocks Rise",
-    "link": "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-11-39-11 +0000"
-  },
-  {
-    "headline": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
-    "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-23-11-37-00 +0000"
-  },
-  {
-    "headline": "Dollar Turns Lower as U.S. Postpones Attacks on Iran Power Plants",
-    "link": "https://www.wsj.com/finance/currencies/australian-dollar-could-get-dumped-if-iran-war-drags-on-6a8ff05f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-23-11-36-00 +0000"
   },
   {
     "headline": "Oil Price Falls After Trump Postpones Iran Strikes",
@@ -162,7 +366,7 @@
     "pubdate": "2026-03-23-11-21-02 +0000"
   },
   {
-    "headline": "2 pilots dead after plane hits vehicle while landing at LaGuardia Airport",
+    "headline": "2 pilots dead after plane hits truck while landing at New York’s LaGuardia",
     "link": "https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/",
     "source": "wapo",
     "pubdate": "2026-03-23-11-19-20 +0000"
@@ -186,7 +390,7 @@
     "pubdate": "2026-03-23-11-11-00 +0000"
   },
   {
-    "headline": "As many shoppers and retailers struggle, California's Ross Dress for Less is booming",
+    "headline": "As shoppers worry and retailers struggle, California's Ross Dress for Less is booming",
     "link": "https://www.latimes.com/business/story/2026-03-23/californias-ross-others-expand-as-consumers-battle-inflation",
     "source": "latimes",
     "pubdate": "2026-03-23-11-08-27 +0000"
@@ -226,18 +430,6 @@
     "link": "https://www.startribune.com/north-star-insider-monica-nassif-mrs-meyers-clean-day-caldrea-houston-white-groundbreak-coalition/601618975",
     "source": "startribune",
     "pubdate": "2026-03-23-11-00-00 +0000"
-  },
-  {
-    "headline": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime, Police Say",
-    "link": "https://www.nytimes.com/2026/03/23/world/europe/jewish-ambulances-fire-london.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-10-58-46 +0000"
-  },
-  {
-    "headline": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime, Police Say",
-    "link": "https://www.nytimes.com/2026/03/23/world/europe/jewish-ambulances-fire-london.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-10-58-46 +0000"
   },
   {
     "headline": "Porridge recalled over mouse contamination fears",
@@ -294,7 +486,7 @@
     "pubdate": "2026-03-23-10-29-21 +0000"
   },
   {
-    "headline": "Israel launches new wave of attacks on Tehran; Iran threatens to start hitting Gulf power plants",
+    "headline": "Trump extends deadline for Iran to reopen Strait of Hormuz",
     "link": "https://www.cbc.ca/news/world/israel-new-attacks-tehran-9.7138210?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-03-23-10-27-13 +0000"
@@ -318,52 +510,10 @@
     "pubdate": "2026-03-23-10-12-00 +0000"
   },
   {
-    "headline": "Iranians Fear Trump’s Threat to Strike Power Plants",
-    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-10-07-31 +0000"
-  },
-  {
-    "headline": "Iranians Fear Trump’s Threat to Strike Power Plants",
-    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-10-07-31 +0000"
-  },
-  {
     "headline": "Renewed Geopolitical Risk Puts Yen Back in Intervention Danger Zone",
     "link": "https://www.wsj.com/finance/currencies/renewed-geopolitical-risk-puts-yen-back-in-intervention-danger-zone-93671853?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-23-10-06-00 +0000"
-  },
-  {
-    "headline": "LaGuardia Airport Closed After Runway Collision That Killed Two Pilots",
-    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-23-10-05-00 +0000"
-  },
-  {
-    "headline": "LaGuardia Airport Closed After Runway Collision That Killed Two Pilots",
-    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396",
-    "source": "wsj",
-    "pubdate": "2026-03-23-10-05-00 +0000"
-  },
-  {
-    "headline": "LaGuardia Airport Closed After Runway Collision That Killed Two Pilots",
-    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396",
-    "source": "wsj",
-    "pubdate": "2026-03-23-10-05-00 +0000"
-  },
-  {
-    "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
-    "link": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-10-01-07 +0000"
-  },
-  {
-    "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
-    "link": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-10-01-07 +0000"
   },
   {
     "headline": "Larry Fink’s Warning: Invest or Risk Getting Left Behind by AI",
@@ -390,7 +540,7 @@
     "pubdate": "2026-03-23-10-00-00 +0000"
   },
   {
-    "headline": "Doubts from key Republicans on surgeon general test MAHA’s political power",
+    "headline": "MAHA’s political power tested as surgeon general pick stalls",
     "link": "https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/",
     "source": "wapo",
     "pubdate": "2026-03-23-10-00-00 +0000"
@@ -444,12 +594,6 @@
     "pubdate": "2026-03-23-09-34-28 +0000"
   },
   {
-    "headline": "Lawmakers to Introduce Bipartisan Bill Banning Sports Bets on Prediction Markets",
-    "link": "https://www.wsj.com/finance/regulation/lawmakers-to-introduce-bipartisan-bill-banning-sports-bets-on-prediction-markets-17d2e272?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-23-09-30-00 +0000"
-  },
-  {
     "headline": "Ads Are Popping Up on the Fridge and It Isn’t Going Over Well",
     "link": "https://www.wsj.com/lifestyle/samsung-refrigerator-ads-lg-whirlpool-ge-10ea7bcc?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -458,18 +602,6 @@
   {
     "headline": "The Housing Bargain Hiding in Plain Sight",
     "link": "https://www.wsj.com/economy/housing/the-housing-bargain-hiding-in-plain-sight-803c73f4?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-23-09-30-00 +0000"
-  },
-  {
-    "headline": "Lawmakers to Introduce Bipartisan Bill Banning Sports Bets on Prediction Markets",
-    "link": "https://www.wsj.com/finance/regulation/lawmakers-to-introduce-bipartisan-bill-banning-sports-bets-on-prediction-markets-17d2e272?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-23-09-30-00 +0000"
-  },
-  {
-    "headline": "The Top Iranian Diplomat Who Says He’s in No Mood to Talk",
-    "link": "https://www.wsj.com/world/middle-east/the-top-iranian-diplomat-who-says-hes-in-no-mood-to-talk-ef6ed51e",
     "source": "wsj",
     "pubdate": "2026-03-23-09-30-00 +0000"
   },
@@ -486,18 +618,6 @@
     "pubdate": "2026-03-23-09-30-00 +0000"
   },
   {
-    "headline": "Kenyan police investigate alleged disappearance of ex-foreign minister",
-    "link": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-23-09-29-27 +0000"
-  },
-  {
-    "headline": "Kenyan police investigate alleged disappearance of ex-foreign minister",
-    "link": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-23-09-29-27 +0000"
-  },
-  {
     "headline": "LaGuardia plane crash audio captures moments before fatal collision: ‘I messed up’",
     "link": "https://nypost.com/2026/03/23/us-news/air-canada-laguardia-plane-crash-audio-captures-moments-before-fatal-collision/",
     "source": "nypost",
@@ -507,13 +627,13 @@
     "headline": "In California, a Republican Sheriff Seizes Ballots, Prompting Concerns",
     "link": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
     "source": "nyt",
-    "pubdate": "2026-03-23-09-18-25 +0000"
+    "pubdate": "2026-03-23-09-18-26 +0000"
   },
   {
     "headline": "In California, a Republican Sheriff Seizes Ballots, Prompting Concerns",
     "link": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html",
     "source": "nyt",
-    "pubdate": "2026-03-23-09-18-25 +0000"
+    "pubdate": "2026-03-23-09-18-26 +0000"
   },
   {
     "headline": "Australia's ABC staff to go on strike for first time in 20 years",
@@ -579,7 +699,7 @@
     "headline": "Justices to Hear Challenge to State Mail-in Ballot Law",
     "link": "https://www.nytimes.com/2026/03/23/us/supreme-court-mail-in-ballots.html",
     "source": "nyt",
-    "pubdate": "2026-03-23-09-02-05 +0000"
+    "pubdate": "2026-03-23-09-02-06 +0000"
   },
   {
     "headline": "Polish Inflation Holding Near Target Despite Iran War, Gov. Glapinski Says",
@@ -640,24 +760,6 @@
     "link": "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html",
     "source": "nyt",
     "pubdate": "2026-03-23-09-00-32 +0000"
-  },
-  {
-    "headline": "Immigrant Detentions and Deportations Leave Pets Behind",
-    "link": "https://www.nytimes.com/2026/03/23/us/trump-ice-deportations-pets-left-behind.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-09-00-24 +0000"
-  },
-  {
-    "headline": "Diabetes, Overlooked and Unchecked, Poses New Risks in Africa",
-    "link": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-09-00-14 +0000"
-  },
-  {
-    "headline": "Diabetes, Overlooked and Unchecked, Poses New Risks in Africa",
-    "link": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-09-00-14 +0000"
   },
   {
     "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
@@ -730,12 +832,6 @@
     "link": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-23-08-06-25 +0000"
-  },
-  {
-    "headline": "Eurozone Bond Yields Jump; 10-Year Italian BTP Yield Above 4%",
-    "link": "https://www.wsj.com/finance/investing/bonds-decoupling-from-oil-amid-longer-conflict-fears-d1fa0620?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-23-08-05-00 +0000"
   },
   {
     "headline": "Australia is settling into age-restricted social media. Canada is mulling whether to join in",
@@ -1014,12 +1110,6 @@
     "pubdate": "2026-03-23-03-00-00 +0000"
   },
   {
-    "headline": "Poste Italiane Unveils $12.50 Billion Offer for Telecom Italia",
-    "link": "https://www.wsj.com/business/deals/poste-italiane-unveils-12-50-billion-offer-for-telecom-italia-5cb73a87?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-23-02-10-00 +0000"
-  },
-  {
     "headline": "Iranian Missile Strikes Are Costing Big Oil Billions in Lost Revenue",
     "link": "https://www.wsj.com/business/energy-oil/iranian-missile-strikes-are-costing-big-oil-billions-in-lost-revenue-7c492caa?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1170,12 +1260,6 @@
     "pubdate": "2026-03-23-00-07-27 +0000"
   },
   {
-    "headline": "NHL reporter Jessi Pierce shared heartbreaking photos of final outing with 3 children day before they all died in house fire",
-    "link": "https://nypost.com/2026/03/22/sports/nhl-reporter-jessi-pierce-shared-photos-of-final-outing-with-3-children-day-before-they-all-died-in-house-fire/",
-    "source": "nypost",
-    "pubdate": "2026-03-23-00-06-01 +0000"
-  },
-  {
     "headline": "Heat pumps work for me - but they're not yet a money saver",
     "link": "https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1216,24 +1300,6 @@
     "link": "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-23-00-02-52 +0000"
-  },
-  {
-    "headline": "Jeff Webb, Who Built a Competitive Cheerleading Empire, Dies at 76",
-    "link": "https://www.nytimes.com/2026/03/22/business/jeff-webb-dead-cheerleading.html",
-    "source": "nyt",
-    "pubdate": "2026-03-22-23-59-56 +0000"
-  },
-  {
-    "headline": "Mamdani plan to drain $1B in reserves harms NYC budget, Comptroller Levine warns",
-    "link": "https://nypost.com/2026/03/22/us-news/mamdanis-budget-balancing-gimmick-could-mean-next-year-is-even-worse-nyc-comptroller-levine/",
-    "source": "nypost",
-    "pubdate": "2026-03-22-23-53-28 +0000"
-  },
-  {
-    "headline": "California military families react as soldiers deploy to Middle East amid war with Iran",
-    "link": "https://nypost.com/2026/03/22/us-news/socal-military-families-react-as-soldiers-deploy-to-middle-east/",
-    "source": "nypost",
-    "pubdate": "2026-03-22-23-49-25 +0000"
   },
   {
     "headline": "US issues worldwide security alert urging caution as Iran-linked groups may target American interests",
@@ -1284,12 +1350,6 @@
     "pubdate": "2026-03-22-23-08-10 +0000"
   },
   {
-    "headline": "Santa Rosa City Schools on brink of collapse after staff got staggering pay packets: ‘Absolute havoc’",
-    "link": "https://nypost.com/2026/03/22/us-news/santa-rosa-city-school-officials-making-six-figures-despite-massive-budget-issues/",
-    "source": "nypost",
-    "pubdate": "2026-03-22-23-00-05 +0000"
-  },
-  {
     "headline": "France Chose Thousands of New Mayors on Sunday. Here’s Why It Matters.",
     "link": "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html",
     "source": "nyt",
@@ -1300,12 +1360,6 @@
     "link": "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html",
     "source": "nyt",
     "pubdate": "2026-03-22-22-58-31 +0000"
-  },
-  {
-    "headline": "Ministers name seven areas where 'new towns' could be built",
-    "link": "https://www.bbc.com/news/articles/c393l8w7me2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-22-22-58-06 +0000"
   },
   {
     "headline": "Amazon MGM Gets a Much-Needed Hit With ‘Project Hail Mary’",
@@ -1878,12 +1932,6 @@
     "pubdate": "2026-03-22-15-26-59 +0000"
   },
   {
-    "headline": "As Northwest Flooding Worsens, Conflicting Interests Stymie Solutions",
-    "link": "https://www.nytimes.com/2026/03/22/us/pacific-northwest-flooding-fights.html",
-    "source": "nyt",
-    "pubdate": "2026-03-22-15-22-16 +0000"
-  },
-  {
     "headline": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
     "link": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
     "source": "nyt",
@@ -1900,12 +1948,6 @@
     "link": "https://www.wsj.com/world/africa/how-police-and-criminals-use-ugandas-antigay-law-to-find-blackmail-targets-93d4de43",
     "source": "wsj",
     "pubdate": "2026-03-22-15-00-00 +0000"
-  },
-  {
-    "headline": "The Supreme Court Could Make it Harder to Vote by Mail in the Midterms",
-    "link": "https://www.nytimes.com/2026/03/22/us/politics/the-supreme-court-could-make-it-harder-to-vote-by-mail-in-the-midterms.html",
-    "source": "nyt",
-    "pubdate": "2026-03-22-14-56-01 +0000"
   },
   {
     "headline": "The Supreme Court Could Make it Harder to Vote by Mail in the Midterms",
@@ -1963,12 +2005,6 @@
   },
   {
     "headline": "The New Weapons of Global Power Are Oil, Rare Earths and Microchips",
-    "link": "https://www.wsj.com/world/the-new-weapons-of-global-power-are-oil-rare-earths-and-microchips-86b894e5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-22-14-09-00 +0000"
-  },
-  {
-    "headline": "The New Weapons of Global Power Are Oil, Rare Earths and Microchips",
     "link": "https://www.wsj.com/world/the-new-weapons-of-global-power-are-oil-rare-earths-and-microchips-86b894e5",
     "source": "wsj",
     "pubdate": "2026-03-22-14-09-00 +0000"
@@ -2002,47 +2038,5 @@
     "link": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-22-13-35-44 +0000"
-  },
-  {
-    "headline": "Golden hour",
-    "link": "https://missionlocal.org/2026/03/golden-hour/",
-    "source": "missionlocal",
-    "pubdate": "2026-03-22-13-00-00 +0000"
-  },
-  {
-    "headline": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
-    "link": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-22-12-52-56 +0000"
-  },
-  {
-    "headline": "South Korean President Lee Jae Myung has nominated Shin Hyun-song, a senior Bank for International Settlements official, as the country’s next central bank governor",
-    "link": "https://www.wsj.com/economy/central-banking/south-korea-names-bis-official-as-next-central-bank-chief-a69cddbc",
-    "source": "wsj",
-    "pubdate": "2026-03-22-12-52-00 +0000"
-  },
-  {
-    "headline": "Trump deploying ICE to airports on Monday to ease crowded TSA lines — as NYC travelers face security line hell",
-    "link": "https://nypost.com/2026/03/22/us-news/trump-deploying-ice-to-airports-on-monday-to-ease-crowded-tsa-lines/",
-    "source": "nypost",
-    "pubdate": "2026-03-22-12-47-22 +0000"
-  },
-  {
-    "headline": "Robert Mueller, Former FBI Director Who Led Trump Inquiry, Dies at 81",
-    "link": "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-03-22-12-34-08 +0000"
-  },
-  {
-    "headline": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
-    "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-22-12-15-05 +0000"
-  },
-  {
-    "headline": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
-    "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-22-12-15-05 +0000"
   }
 ]
