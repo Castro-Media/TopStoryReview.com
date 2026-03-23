@@ -1,20 +1,13 @@
 [
   {
-    "score": 466,
-    "pubdate": "2026-03-23-19-00-51 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Iran Disputes Trump’s Assertion of ‘Very Strong Talks’",
-    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump"
+    "score": 404,
+    "pubdate": "2026-03-22-18-52-03 +0000",
+    "source": "nypost",
+    "headline": "Scott Bessent suggests Trump may ‘escalate to de-escalate’ Iran war — says ‘50 days’ of higher prices will be worth it",
+    "link": "https://nypost.com/2026/03/22/us-news/scott-bessent-suggests-trump-may-escalate-to-de-escalate-iran-war/"
   },
   {
-    "score": 170,
-    "pubdate": "2026-03-23-03-30-00 +0000",
-    "source": "wsj",
-    "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
-  },
-  {
-    "score": 169,
+    "score": 167,
     "pubdate": "2026-03-22-00-47-52 +0000",
     "source": "nypost",
     "headline": "Over 100 Israeli civilians wounded by new  Iranian missile strikes, including one near nuclear facility",
@@ -22,24 +15,24 @@
   },
   {
     "score": 142,
-    "pubdate": "2026-03-22-12-52-56 +0000",
-    "source": "bbc",
-    "headline": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
-    "link": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-03-23-03-30-00 +0000",
+    "source": "wsj",
+    "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
-    "score": 133,
+    "score": 138,
     "pubdate": "2026-03-19-20-30-00 +0000",
     "source": "latimes",
     "headline": "California quickly moves to rename Cesar Chavez Day after sex abuse allegations",
     "link": "https://www.latimes.com/california/story/2026-03-18/calls-remove-cesar-chavez-from-buildings-parks-roads"
   },
   {
-    "score": 117,
-    "pubdate": "2026-03-23-03-18-00 +0000",
-    "source": "wsj",
-    "headline": "Iran said it would target critical infrastructure if Trump follows through on his weekend threat to “obliterate” the nation’s power plants if Tehran didn’t reopen the Strait of Hormuz within days",
-    "link": "https://www.wsj.com/world/middle-east/trump-tehran-exchange-threats-f1c01fbc"
+    "score": 121,
+    "pubdate": "2026-03-22-12-52-56 +0000",
+    "source": "bbc",
+    "headline": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
+    "link": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 116,
@@ -49,24 +42,31 @@
     "link": "https://www.wsj.com/economy/central-banking/south-korea-names-bis-official-as-next-central-bank-chief-a69cddbc"
   },
   {
-    "score": 114,
-    "pubdate": "2026-03-23-14-26-20 +0000",
-    "source": "nypost",
-    "headline": "Air Canada flight attendant on LaGuardia plane was strapped to jumpseat and ejected during deadly crash",
-    "link": "https://nypost.com/2026/03/23/us-news/air-canada-flight-attendant-on-laguardia-plane-was-strapped-to-jumpseat-and-ejected-during-deadly-crash/"
-  },
-  {
-    "score": 108,
+    "score": 113,
     "pubdate": "2026-03-23-14-36-30 +0000",
     "source": "nyt",
     "headline": "Here’s How the Supreme Court’s Decision on Mail-In Ballots Could Affect Elections",
     "link": "https://www.nytimes.com/2026/03/23/us/elections/courts-decision-mail-voting-outcomes.html"
   },
   {
+    "score": 104,
+    "pubdate": "2026-03-23-03-18-00 +0000",
+    "source": "wsj",
+    "headline": "Iran said it would target critical infrastructure if Trump follows through on his weekend threat to “obliterate” the nation’s power plants if Tehran didn’t reopen the Strait of Hormuz within days",
+    "link": "https://www.wsj.com/world/middle-east/trump-tehran-exchange-threats-f1c01fbc"
+  },
+  {
     "score": 98,
+    "pubdate": "2026-03-18-02-16-40 +0000",
+    "source": "latimes",
+    "headline": "SoCal school psychologist thought he was meeting a 13-year-old, authorities say. It was a sting",
+    "link": "https://www.latimes.com/california/story/2026-03-17/socal-school-psychologist-thought-he-was-meeting-13-year-old-authorities-say-it-was-sting"
+  },
+  {
+    "score": 97,
     "pubdate": "2026-03-23-17-39-12 +0000",
     "source": "nypost",
-    "headline": "Senators move to ban sports betting on prediction markets like Kalshi, Polymarket — first bill of its kind",
+    "headline": "Kalshi, Polymarket announce anti-insider trading rules as senators move to ban sports betting on prediction markets",
     "link": "https://nypost.com/2026/03/23/business/senators-move-to-ban-sports-betting-on-prediction-markets-like-kalshi-polymarket-first-bill-of-its-kind/"
   }
 ]
