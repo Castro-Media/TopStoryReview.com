@@ -1,20 +1,74 @@
 [
   {
-    "headline": "Flights Are Halted at LaGuardia as Fire Department Responds to Runway Incident",
+    "headline": "Asian Markets Slump as Mideast Conflict Escalates",
+    "link": "https://www.wsj.com/finance/stocks/asian-markets-slump-as-mideast-conflict-escalates-3f35ef72?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-23-07-11-00 +0000"
+  },
+  {
+    "headline": "Flights Grounded at LaGuardia Airport as New York Fire Department Responds to Incident",
     "link": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-groundstop-flights.html",
     "source": "nyt",
-    "pubdate": "2026-03-23-05-22-21 +0000"
+    "pubdate": "2026-03-23-07-05-11 +0000"
   },
   {
-    "headline": "Stocks Tumble as Oil Prices Rise",
-    "link": "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-03-23-05-18-27 +0000"
+    "headline": "Plane and ground vehicle collide at New York's LaGuardia airport halting flights",
+    "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-23-07-02-57 +0000"
   },
   {
-    "headline": "Gold’s Weekly Drop, Break Below Key Support Signal Possible Further Weakness",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-prospects-of-liquidity-driven-sales-28d36652?mod=rss_markets_main",
+    "headline": "Renewed Geopolitical Risk Puts Yen Back in Intervention Danger Zone",
+    "link": "https://www.wsj.com/finance/currencies/renewed-geopolitical-risk-puts-yen-back-in-intervention-danger-zone-93671853?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-03-23-05-17-00 +0000"
+    "pubdate": "2026-03-23-07-01-00 +0000"
+  },
+  {
+    "headline": "LaGuardia Airport Closed Until Monday Evening After Plane Hits Ground Vehicle",
+    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-23-06-57-00 +0000"
+  },
+  {
+    "headline": "LaGuardia Airport Closed Until Monday Evening After Plane Hits Ground Vehicle",
+    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396",
+    "source": "wsj",
+    "pubdate": "2026-03-23-06-57-00 +0000"
+  },
+  {
+    "headline": "Tehran Is Defiant After Trump Threatens Power Plants",
+    "link": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
+    "source": "nyt",
+    "pubdate": "2026-03-23-06-47-48 +0000"
+  },
+  {
+    "headline": "Iranians Fear Trump’s Threat to Strike Power Plants",
+    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-06-47-46 +0000"
+  },
+  {
+    "headline": "Iranians Fear Trump’s Threat to Strike Power Plants",
+    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-06-47-46 +0000"
+  },
+  {
+    "headline": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime",
+    "link": "https://www.nytimes.com/2026/03/23/us/jewish-ambulances-fire-london.html",
+    "source": "nyt",
+    "pubdate": "2026-03-23-06-39-50 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Rise, 10-Year Yield Hits Highest Level Since July",
+    "link": "https://www.wsj.com/finance/investing/bonds-decoupling-from-oil-amid-longer-conflict-fears-d1fa0620?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-23-06-35-00 +0000"
+  },
+  {
+    "headline": "Oil Could Pose Serious Risk to Asian Economies if It Hits $120 a Barrel",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-traders-eye-trumps-deadline-to-reopen-strait-of-hormuz-83ec556a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-23-06-30-00 +0000"
   }
 ]
