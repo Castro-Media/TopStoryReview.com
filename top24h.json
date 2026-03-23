@@ -1,17 +1,10 @@
 [
   {
-    "score": 146,
+    "score": 144,
     "pubdate": "2026-03-22-18-52-03 +0000",
     "source": "nypost",
     "headline": "Scott Bessent suggests Trump may ‘escalate to de-escalate’ Iran war — says ‘50 days’ of higher prices will be worth it",
     "link": "https://nypost.com/2026/03/22/us-news/scott-bessent-suggests-trump-may-escalate-to-de-escalate-iran-war/"
-  },
-  {
-    "score": 78,
-    "pubdate": "2026-03-23-03-30-00 +0000",
-    "source": "wsj",
-    "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
     "score": 73,
@@ -19,6 +12,13 @@
     "source": "nypost",
     "headline": "Iran threatens to start hitting Gulf power plants and mine waters as Israel launches new attacks",
     "link": "https://nypost.com/2026/03/23/world-news/iran-threatens-to-start-hitting-gulf-power-plants-and-mine-waters-as-israel-launches-new-attacks/"
+  },
+  {
+    "score": 73,
+    "pubdate": "2026-03-23-03-30-00 +0000",
+    "source": "wsj",
+    "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
     "score": 65,
@@ -35,14 +35,14 @@
     "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2026-03-23-01-00-00 +0000",
     "source": "wsj",
     "headline": "Kevin Warsh promised to overhaul the Federal Reserve and cut rates. He is being greeted by rising inflation, an oil shock and a confirmation in limbo.",
     "link": "https://www.wsj.com/economy/central-banking/federal-reserve-kevin-warsh-onboarding-510839b7"
   },
   {
-    "score": 44,
+    "score": 43,
     "pubdate": "2026-03-22-14-21-19 +0000",
     "source": "bbc",
     "headline": "'A direct hit' - BBC visits Israeli town after Iranian strike",
@@ -56,7 +56,7 @@
     "link": "https://www.wsj.com/politics/if-mike-johnson-goes-who-runs-house-gop-761fd82a"
   },
   {
-    "score": 39,
+    "score": 38,
     "pubdate": "2026-03-23-03-18-00 +0000",
     "source": "wsj",
     "headline": "Iran said it would target critical infrastructure if Trump follows through on his weekend threat to “obliterate” the nation’s power plants if Tehran didn’t reopen the Strait of Hormuz within days",
