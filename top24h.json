@@ -1,6 +1,6 @@
 [
   {
-    "score": 216,
+    "score": 208,
     "pubdate": "2026-03-23-17-07-36 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Iran Disputes Trump’s Claim of ‘Very Strong Talks’",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
-    "score": 85,
+    "score": 83,
     "pubdate": "2026-03-23-16-26-19 +0000",
     "source": "latimes",
     "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
@@ -28,7 +28,7 @@
     "link": "https://nypost.com/2026/03/23/us-news/newark-airport-issues-ground-stop-due-to-smoke-in-air-traffic-control-tower-just-hours-after-deadly-laguardia-crash/"
   },
   {
-    "score": 67,
+    "score": 66,
     "pubdate": "2026-03-23-03-18-00 +0000",
     "source": "wsj",
     "headline": "Iran said it would target critical infrastructure if Trump follows through on his weekend threat to “obliterate” the nation’s power plants if Tehran didn’t reopen the Strait of Hormuz within days",
@@ -42,25 +42,11 @@
     "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts"
   },
   {
-    "score": 51,
-    "pubdate": "2026-03-22-18-05-10 +0000",
+    "score": 49,
+    "pubdate": "2026-03-23-16-11-28 +0000",
     "source": "nyt",
-    "headline": "Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles",
-    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-03-23-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Kevin Warsh promised to overhaul the Federal Reserve and cut rates. He is being greeted by rising inflation, an oil shock and a confirmation in limbo.",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-kevin-warsh-onboarding-510839b7"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-03-23-11-29-26 +0000",
-    "source": "bbc",
-    "headline": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
-    "link": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss"
+    "headline": "For Western Oil Companies, War in Iran Means Bigger Profits, and Risks",
+    "link": "https://www.nytimes.com/2026/03/23/business/energy-environment/iran-warn-western-oil-companies-profits.html"
   },
   {
     "score": 46,
@@ -68,5 +54,19 @@
     "source": "bbc",
     "headline": "BTS agency shares drop after comeback show turnout falls short",
     "link": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-03-23-11-29-26 +0000",
+    "source": "bbc",
+    "headline": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
+    "link": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-03-23-12-12-49 +0000",
+    "source": "nyt",
+    "headline": "London Arson Attack on Jewish Ambulance Service Investigated as Hate Crime, Police Say",
+    "link": "https://www.nytimes.com/2026/03/23/world/europe/jewish-ambulances-fire-london.html"
   }
 ]
