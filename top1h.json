@@ -1,9 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2026-03-23-07-11-00 +0000",
+    "score": 38,
+    "pubdate": "2026-03-23-09-02-30 +0000",
+    "source": "nyt",
+    "headline": "Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage",
+    "link": "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-03-23-09-02-11 +0000",
+    "source": "nyt",
+    "headline": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise",
+    "link": "https://www.nytimes.com/2026/03/23/world/americas/canada-us-arctic-military-norad.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-03-23-08-23-00 +0000",
     "source": "wsj",
-    "headline": "Asian Markets Slump as Mideast Conflict Escalates",
-    "link": "https://www.wsj.com/finance/stocks/asian-markets-slump-as-mideast-conflict-escalates-3f35ef72?mod=rss_markets_main"
+    "headline": "LaGuardia Airport Closed Until Monday Evening After Plane Hits Ground Vehicle",
+    "link": "https://www.wsj.com/us-news/faa-issues-ground-stop-at-laguardia-after-plane-collides-with-vehicle-c65ed396?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-23-09-08-20 +0000",
+    "source": "nyt",
+    "headline": "French Far Right Falls Short of Statement Win in Yardstick Local Races",
+    "link": "https://www.nytimes.com/2026/03/22/world/europe/france-mayor-elections.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-23-08-43-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Prices Rise as Middle East LNG Disruptions Cloud Outlook",
+    "link": "https://www.wsj.com/articles/european-gas-prices-rise-as-middle-east-lng-disruptions-cloud-outlook-98d5b6b7?mod=rss_markets_main"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-23-09-01-29 +0000",
+    "source": "nyt",
+    "headline": "Born Abroad and Fearful of ICE, Adoptees Try to Prove They Belong",
+    "link": "https://www.nytimes.com/2026/03/23/us/politics/foreign-adoptees-citizenship-immigration-enforcement.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-23-09-00-13 +0000",
+    "source": "nyt",
+    "headline": "Diabetes, Overlooked and Unchecked, Poses New Risks in Africa",
+    "link": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-23-09-00-32 +0000",
+    "source": "nyt",
+    "headline": "When Voters Worry About ‘Affordability,’ Many Point to Health Care",
+    "link": "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-23-09-03-35 +0000",
+    "source": "nyt",
+    "headline": "In California, a Republican Sheriff Seizes Ballots, Prompting Concerns",
+    "link": "https://www.nytimes.com/2026/03/23/us/politics/california-ballot-seizure-elections.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-23-08-25-30 +0000",
+    "source": "nyt",
+    "headline": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
+    "link": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html"
   }
 ]
