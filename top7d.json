@@ -1,13 +1,13 @@
 [
   {
-    "score": 382,
+    "score": 380,
     "pubdate": "2026-03-24-12-00-49 +0000",
     "source": "wapo",
     "headline": "Israel and Iran exchange strikes as Trump says U.S. is negotiating end to war",
     "link": "https://www.washingtonpost.com/world/2026/03/24/us-trump-iran-israel-tel-aviv-strike/"
   },
   {
-    "score": 197,
+    "score": 196,
     "pubdate": "2026-03-24-03-16-00 +0000",
     "source": "wsj",
     "headline": "President Trump said on Monday the U.S. military would postpone strikes on Iranian power plants and energy infrastructure for five days following “productive” talks between Washington and Tehran",
@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
-    "score": 167,
+    "score": 165,
     "pubdate": "2026-03-23-16-26-19 +0000",
     "source": "latimes",
     "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
@@ -43,13 +43,6 @@
   },
   {
     "score": 106,
-    "pubdate": "2026-03-20-11-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Ed Siu, Chinatown’s ‘complaint guy,’ isn’t here to make friends. He’s here to get results.",
-    "link": "https://missionlocal.org/2026/03/sf-chinatown-ed-siu-complaint-guy/"
-  },
-  {
-    "score": 106,
     "pubdate": "2026-03-24-03-18-00 +0000",
     "source": "wsj",
     "headline": "Senators said they were closing in on a deal to fund all of the Department of Homeland Security except for the agency that carries out immigrant arrests and deportations, signaling a possible breakthrough",
@@ -61,6 +54,13 @@
     "source": "latimes",
     "headline": "Democrats face the possibility of a historic upset in California governor's race, poll finds",
     "link": "https://www.latimes.com/california/story/2026-03-18/la-me-pol-2026-election-california-berkeley-poll-governor"
+  },
+  {
+    "score": 105,
+    "pubdate": "2026-03-20-11-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Ed Siu, Chinatown’s ‘complaint guy,’ isn’t here to make friends. He’s here to get results.",
+    "link": "https://missionlocal.org/2026/03/sf-chinatown-ed-siu-complaint-guy/"
   },
   {
     "score": 92,
