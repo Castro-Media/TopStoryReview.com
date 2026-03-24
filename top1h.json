@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 23,
+    "pubdate": "2026-03-24-12-01-00 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Tehran Fires Missile Barrage at Israel After U.S. Claims Progress on Talks",
+    "link": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-03-24-11-57-00 +0000",
+    "source": "wsj",
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-5465c108?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-03-24-11-14-26 +0000",
+    "source": "nyt",
+    "headline": "Trump, Who Calls Mail-in Voting ‘Cheating,’ Just Voted by Mail",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-03-24-11-17-49 +0000",
+    "source": "nypost",
+    "headline": "Notorious Philadelphia abortionist Kermit Gosnell, who killed babies born alive, dead at 85",
+    "link": "https://nypost.com/2026/03/24/us-news/notorious-philadelphia-abortionist-kermit-gosnell-who-killed-babies-born-alive-dead-at-85/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-03-24-11-30-04 +0000",
+    "source": "nyt",
+    "headline": "34 Former Military Members Were Put on Deportation Track in the Past Year",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/veterans-deport-immigrants-trump.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-24-11-12-06 +0000",
+    "source": "nypost",
+    "headline": "Nancy Guthrie sheriff confirms they’re investigating mystery activity at her home weeks before her kidnapping",
+    "link": "https://nypost.com/2026/03/24/us-news/nancy-guthrie-sheriff-confirms-theyre-investigating-mystery-activity-at-her-home-weeks-before-her-kidnapping/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-24-11-12-00 +0000",
+    "source": "wsj",
+    "headline": "Digital Bank Revolut Reports Jump in Profit as Customers Stream In",
+    "link": "https://www.wsj.com/business/earnings/revolut-reports-jump-in-profit-on-higher-customer-numbers-f8535aec?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-24-11-26-32 +0000",
+    "source": "nyt",
+    "headline": "Stephen Miller Asks Why Texas Pays to Teach Undocumented Children",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/stephen-miller-asks-why-texas-pays-to-teach-undocumented-children.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-24-11-05-59 +0000",
+    "source": "bbc",
+    "headline": "First-time buyers hit as mortgage rates keep rising",
+    "link": "https://www.bbc.com/news/articles/c5y7gnkez3lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-24-11-28-01 +0000",
+    "source": "nyt",
+    "headline": "Lionel Jospin, Who Helped Set France on Socialist Path, Dies at 88",
+    "link": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html"
+  }
+]
