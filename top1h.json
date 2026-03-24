@@ -1,26 +1,5 @@
 [
   {
-    "score": 29,
-    "pubdate": "2026-03-24-03-44-06 +0000",
-    "source": "nyt",
-    "headline": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
-    "link": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-03-24-04-01-05 +0000",
-    "source": "nyt",
-    "headline": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
-    "link": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-03-24-04-12-26 +0000",
-    "source": "nyt",
-    "headline": "Trump, Who Calls Mail-in Voting ‘Cheating,’ Just Voted by Mail",
-    "link": "https://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html"
-  },
-  {
     "score": 18,
     "pubdate": "2026-03-24-04-27-33 +0000",
     "source": "nyt",
@@ -28,45 +7,31 @@
     "link": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html"
   },
   {
-    "score": 18,
-    "pubdate": "2026-03-24-03-46-25 +0000",
-    "source": "bbc",
-    "headline": "More Australian beef headed for Europe under new EU trade deal",
-    "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-03-24-03-59-56 +0000",
-    "source": "nyt",
-    "headline": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-    "link": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-03-24-03-37-39 +0000",
-    "source": "nyt",
-    "headline": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
-    "link": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-03-24-04-00-22 +0000",
-    "source": "nyt",
-    "headline": "Trump Sours on British Leader Over Iran War: ‘What If Donald Shouts at Me?’",
-    "link": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-03-24-04-14-18 +0000",
+    "score": 8,
+    "pubdate": "2026-03-24-04-20-26 +0000",
     "source": "nypost",
-    "headline": "Utah mom accused of kidnapping autistic son’s 11-year-old bully until he apologized",
-    "link": "https://nypost.com/2026/03/24/us-news/utah-mom-accused-of-kidnapping-autistic-sons-bully-until-he-apologized/"
+    "headline": "Teen shot to death inside NYC public housing complex",
+    "link": "https://nypost.com/2026/03/24/us-news/teen-shot-to-death-inside-nyc-public-housing-complex/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-03-24-04-02-40 +0000",
-    "source": "latimes",
-    "headline": "Why there are limited benefits when parents hold back their child in kindergarten",
-    "link": "https://www.latimes.com/california/story/2026-03-23/limited-benefits-when-parents-hold-back-their-child-in-kindergarten-redshirting"
+    "score": 7,
+    "pubdate": "2026-03-24-04-29-25 +0000",
+    "source": "bbc",
+    "headline": "Oil back above $100 as conflicting reports emerge on US-Iran talks",
+    "link": "https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-24-04-21-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Likely to Remain Volatile in Near Term",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-boosted-by-fall-in-dollar-u-s-treasury-yields-7a1bb405?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-24-04-27-33 +0000",
+    "source": "nyt",
+    "headline": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
+    "link": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html"
   }
 ]
