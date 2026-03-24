@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-03-24-14-15-48 +0000",
+    "score": 67,
+    "pubdate": "2026-03-24-15-34-19 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Threat to ‘Obliterate’ Iran’s Power Stations Could Constitute a War Crime, Rights Experts Say",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-03-24-15-46-00 +0000",
+    "source": "bbc",
+    "headline": "Reeves plans energy bill help for those 'who need it most'",
+    "link": "https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-03-24-15-42-00 +0000",
+    "source": "wsj",
+    "headline": "Plans for a 3,000-bed prison near the Arkansas River, led by Republican Gov. Sarah Huckabee Sanders, face an unlikely rebellion from a group of MAGA conservatives",
+    "link": "https://www.wsj.com/politics/policy/the-maga-rebellion-over-an-825-million-plan-for-an-arkansas-alcatraz-68c94e06"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-24-16-00-37 +0000",
+    "source": "nyt",
+    "headline": "Republicans Step Up Efforts to Reach a Homeland Security Funding Deal",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/senate-republicans-homeland-security-shutdown-ice.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-03-24-15-29-19 +0000",
     "source": "nypost",
-    "headline": "CNN set to cut employees this week as part of CEO Mark Thompson’s digital overhaul: report",
-    "link": "https://nypost.com/2026/03/24/media/cnn-set-to-cut-employees-this-week-as-part-of-ceo-mark-thompsons-digital-overhaul-report/"
+    "headline": "Gavin Newsom roasted for bizarrely comparing himself to psycho slasher movie character",
+    "link": "https://nypost.com/2026/03/24/us-news/gavin-newsom-roasted-for-comparing-himself-to-patrick-bateman/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-03-24-15-24-44 +0000",
+    "source": "nyt",
+    "headline": "Saudi Leader Is Said to Push Trump to Continue Iran War in Recent Calls",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-24-16-09-24 +0000",
+    "source": "nyt",
+    "headline": "Mel Schilling, Dating Expert on ‘Married at First Sight,’ Dies at 54",
+    "link": "https://www.nytimes.com/2026/03/24/world/europe/mel-schilling-mafs-dead.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-24-15-42-25 +0000",
+    "source": "nyt",
+    "headline": "Israel Plans to Control Large Parts of Southern Lebanon, Defense Minister Says",
+    "link": "https://www.nytimes.com/2026/03/24/world/middleeast/israel-southern-lebanon-defense-minister.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-24-15-38-43 +0000",
+    "source": "nyt",
+    "headline": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran",
+    "link": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-03-24-16-07-04 +0000",
+    "source": "nyt",
+    "headline": "Afghanistan Frees American Dennis Coyle from Detention",
+    "link": "https://www.nytimes.com/2026/03/24/world/asia/afghanistan-releases-american-detainee.html"
   }
 ]

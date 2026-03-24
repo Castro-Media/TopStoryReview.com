@@ -1,38 +1,52 @@
 [
   {
-    "score": 380,
-    "pubdate": "2026-03-24-12-00-49 +0000",
-    "source": "wapo",
-    "headline": "Israel and Iran exchange strikes as Trump says U.S. is negotiating end to war",
-    "link": "https://www.washingtonpost.com/world/2026/03/24/us-trump-iran-israel-tel-aviv-strike/"
+    "score": 391,
+    "pubdate": "2026-03-24-15-34-19 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Threat to ‘Obliterate’ Iran’s Power Stations Could Constitute a War Crime, Rights Experts Say",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html"
   },
   {
-    "score": 196,
+    "score": 199,
     "pubdate": "2026-03-24-03-16-00 +0000",
     "source": "wsj",
     "headline": "President Trump said on Monday the U.S. military would postpone strikes on Iranian power plants and energy infrastructure for five days following “productive” talks between Washington and Tehran",
     "link": "https://www.wsj.com/world/middle-east/president-backs-off-threat-to-iranian-energy-98aed311"
   },
   {
-    "score": 173,
+    "score": 185,
     "pubdate": "2026-03-23-03-30-00 +0000",
     "source": "wsj",
     "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
-    "score": 165,
-    "pubdate": "2026-03-23-16-26-19 +0000",
-    "source": "latimes",
-    "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
-    "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
+    "score": 161,
+    "pubdate": "2026-03-20-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "A New York congressional race has a new X factor—a big-spending AI super PAC gunning against one of the candidates.",
+    "link": "https://www.wsj.com/politics/policy/ai-lobbying-midterm-elections-new-york-4b018d4e"
   },
   {
-    "score": 143,
+    "score": 134,
     "pubdate": "2026-03-23-21-13-47 +0000",
     "source": "bbc",
     "headline": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
     "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 116,
+    "pubdate": "2026-03-22-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: California can have both easy voting and quicker election results. Here's how",
+    "link": "https://www.latimes.com/politics/story/2026-03-22/california-elections-counting-votes-faster"
+  },
+  {
+    "score": 107,
+    "pubdate": "2026-03-24-12-14-15 +0000",
+    "source": "bbc",
+    "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+    "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 107,
@@ -42,31 +56,17 @@
     "link": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 106,
-    "pubdate": "2026-03-24-03-18-00 +0000",
-    "source": "wsj",
-    "headline": "Senators said they were closing in on a deal to fund all of the Department of Homeland Security except for the agency that carries out immigrant arrests and deportations, signaling a possible breakthrough",
-    "link": "https://www.wsj.com/politics/policy/trump-rejects-exit-ramp-on-tsa-spending-impasse-8c797a65"
-  },
-  {
     "score": 105,
-    "pubdate": "2026-03-18-10-00-00 +0000",
+    "pubdate": "2026-03-18-02-16-40 +0000",
     "source": "latimes",
-    "headline": "Democrats face the possibility of a historic upset in California governor's race, poll finds",
-    "link": "https://www.latimes.com/california/story/2026-03-18/la-me-pol-2026-election-california-berkeley-poll-governor"
+    "headline": "SoCal school psychologist thought he was meeting a 13-year-old, authorities say. It was a sting",
+    "link": "https://www.latimes.com/california/story/2026-03-17/socal-school-psychologist-thought-he-was-meeting-13-year-old-authorities-say-it-was-sting"
   },
   {
-    "score": 105,
-    "pubdate": "2026-03-20-11-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Ed Siu, Chinatown’s ‘complaint guy,’ isn’t here to make friends. He’s here to get results.",
-    "link": "https://missionlocal.org/2026/03/sf-chinatown-ed-siu-complaint-guy/"
-  },
-  {
-    "score": 92,
-    "pubdate": "2026-03-18-10-58-00 +0000",
+    "score": 104,
+    "pubdate": "2026-03-22-12-52-00 +0000",
     "source": "wsj",
-    "headline": "Lt. Gov. Juliana Stratton of Illinois won her state’s Democratic primary for U.S. Senate, helping her billionaire boss, Gov. JB Pritzker, dodge political embarrassment",
-    "link": "https://www.wsj.com/politics/elections/stratton-wins-illinois-senate-race-saving-pritzker-from-political-embarrassment-743fe6f5"
+    "headline": "South Korean President Lee Jae Myung has nominated Shin Hyun-song, a senior Bank for International Settlements official, as the country’s next central bank governor",
+    "link": "https://www.wsj.com/economy/central-banking/south-korea-names-bis-official-as-next-central-bank-chief-a69cddbc"
   }
 ]
