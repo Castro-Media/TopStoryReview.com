@@ -1,6 +1,6 @@
 [
   {
-    "score": 209,
+    "score": 210,
     "pubdate": "2026-03-24-00-14-14 +0000",
     "source": "nyt",
     "headline": "Trump Delays Threat to Iran, but War Negotiations Are in Early Stage",
@@ -14,32 +14,46 @@
     "link": "https://www.wsj.com/world/middle-east/president-backs-off-threat-to-iranian-energy-98aed311"
   },
   {
-    "score": 112,
+    "score": 113,
     "pubdate": "2026-03-23-16-26-19 +0000",
     "source": "latimes",
     "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
     "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
   },
   {
-    "score": 91,
+    "score": 92,
     "pubdate": "2026-03-23-21-13-47 +0000",
     "source": "bbc",
     "headline": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
     "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 85,
+    "score": 87,
+    "pubdate": "2026-03-24-03-18-00 +0000",
+    "source": "wsj",
+    "headline": "Senators said they were closing in on a deal to fund all of the Department of Homeland Security except for the agency that carries out immigrant arrests and deportations, signaling a possible breakthrough",
+    "link": "https://www.wsj.com/politics/policy/trump-rejects-exit-ramp-on-tsa-spending-impasse-8c797a65"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-03-23-23-19-00 +0000",
+    "source": "nyt",
+    "headline": "ICE Agents Fan Out at Airports Across the U.S. Amid TSA Staffing Issues",
+    "link": "https://www.nytimes.com/2026/03/23/us/ice-agents-airports.html"
+  },
+  {
+    "score": 53,
     "pubdate": "2026-03-24-01-54-00 +0000",
     "source": "wsj",
     "headline": "Sen. Markwayne Mullin (R., Okla.) won confirmation to replace Kristi Noem as the next secretary of the Department of Homeland Security",
     "link": "https://www.wsj.com/politics/policy/markwayne-mullin-is-confirmed-as-dhs-secretary-b88e4421"
   },
   {
-    "score": 68,
-    "pubdate": "2026-03-23-23-19-00 +0000",
+    "score": 51,
+    "pubdate": "2026-03-23-16-11-28 +0000",
     "source": "nyt",
-    "headline": "ICE Agents Fan Out at Airports Across the U.S. Amid TSA Staffing Issues",
-    "link": "https://www.nytimes.com/2026/03/23/us/ice-agents-airports.html"
+    "headline": "For Western Oil Companies, War in Iran Means Bigger Profits, and Risks",
+    "link": "https://www.nytimes.com/2026/03/23/business/energy-environment/iran-warn-western-oil-companies-profits.html"
   },
   {
     "score": 51,
@@ -49,24 +63,10 @@
     "link": "https://nypost.com/2026/03/23/business/onlyfans-star-sophie-rain-mourns-leo-radvinsky-the-reclusive-owner-who-helped-make-her-95-million-changed-my-entire-life/"
   },
   {
-    "score": 51,
-    "pubdate": "2026-03-23-17-39-12 +0000",
+    "score": 48,
+    "pubdate": "2026-03-23-20-43-02 +0000",
     "source": "nypost",
-    "headline": "Kalshi, Polymarket announce anti-insider trading rules as senators move to ban sports betting on prediction markets",
-    "link": "https://nypost.com/2026/03/23/business/senators-move-to-ban-sports-betting-on-prediction-markets-like-kalshi-polymarket-first-bill-of-its-kind/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-03-23-16-11-28 +0000",
-    "source": "nyt",
-    "headline": "For Western Oil Companies, War in Iran Means Bigger Profits, and Risks",
-    "link": "https://www.nytimes.com/2026/03/23/business/energy-environment/iran-warn-western-oil-companies-profits.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-03-23-12-20-00 +0000",
-    "source": "wsj",
-    "headline": "EU Says It Will Provisionally Apply South American Trade Deal from May 1",
-    "link": "https://www.wsj.com/world/europe/eu-says-it-will-provisionally-apply-south-american-trade-deal-from-may-1-3120f6dc"
+    "headline": "Anti-communist dance troupe Shen Yun claims CCP behind death threats across the globe: ‘Blood will flow like a river’",
+    "link": "https://nypost.com/2026/03/23/world-news/shen-yun-blames-chinese-communist-party-for-bomb-threats/"
   }
 ]
