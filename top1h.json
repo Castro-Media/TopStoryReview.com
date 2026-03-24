@@ -1,37 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2026-03-24-04-27-33 +0000",
+    "score": 16,
+    "pubdate": "2026-03-24-05-20-55 +0000",
+    "source": "nypost",
+    "headline": "DeSantis doesn’t rule out a 2028 presidential run: ‘We’ll see’",
+    "link": "https://nypost.com/2026/03/24/us-news/desantis-doesnt-rule-out-a-2028-presidential-run-well-see/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-03-24-05-36-25 +0000",
     "source": "nyt",
-    "headline": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
-    "link": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html"
+    "headline": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
+    "link": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-24-05-29-41 +0000",
+    "source": "nyt",
+    "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
+    "link": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-24-05-27-45 +0000",
+    "source": "nyt",
+    "headline": "Trump Is Digging Up Washington. Can Lawsuits Stop the Bulldozers?",
+    "link": "https://www.nytimes.com/2026/03/23/us/politics/trump-ballroom-kennedy-center-lawsuits.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-24-05-19-13 +0000",
+    "source": "missionlocal",
+    "headline": "Attorneys say SFPD may have violated the law during ICE arrest at SFO",
+    "link": "https://missionlocal.org/2026/03/attorneys-say-sfpd-may-have-violated-the-law-during-ice-arrest-at-sfo/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-24-05-27-17 +0000",
+    "source": "startribune",
+    "headline": "Gophers women’s basketball plays No. 1 seed UCLA at 6:30 p.m. Friday in Sweet 16",
+    "link": "https://www.startribune.com/gophers-womens-basketball-will-play-top-seeded-ucla-at-630-pm-friday-in-sweet-16/601630529"
   },
   {
     "score": 8,
-    "pubdate": "2026-03-24-04-20-26 +0000",
-    "source": "nypost",
-    "headline": "Teen shot to death inside NYC public housing complex",
-    "link": "https://nypost.com/2026/03/24/us-news/teen-shot-to-death-inside-nyc-public-housing-complex/"
+    "pubdate": "2026-03-24-05-56-42 +0000",
+    "source": "bbc",
+    "headline": "China dials back on fuel price hikes to 'reduce burden' on drivers",
+    "link": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 7,
-    "pubdate": "2026-03-24-04-29-25 +0000",
-    "source": "bbc",
-    "headline": "Oil back above $100 as conflicting reports emerge on US-Iran talks",
-    "link": "https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-03-24-05-37-55 +0000",
+    "source": "nyt",
+    "headline": "U.S. and Iran Send Conflicting Signals on Peace Prospects",
+    "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump"
   },
   {
     "score": 6,
-    "pubdate": "2026-03-24-04-21-00 +0000",
+    "pubdate": "2026-03-24-05-43-00 +0000",
     "source": "wsj",
-    "headline": "Gold Likely to Remain Volatile in Near Term",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-boosted-by-fall-in-dollar-u-s-treasury-yields-7a1bb405?mod=rss_markets_main"
+    "headline": "Tesla Sales Rebound in Europe After Monthslong Slump",
+    "link": "https://www.wsj.com/business/autos/tesla-sales-rebound-in-europe-after-monthslong-slump-f0142d1c?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 0,
-    "pubdate": "2026-03-24-04-27-33 +0000",
-    "source": "nyt",
-    "headline": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
-    "link": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html"
+    "score": 6,
+    "pubdate": "2026-03-24-05-29-00 +0000",
+    "source": "wsj",
+    "headline": "Japan Consumer Inflation Rises at Slower Pace",
+    "link": "https://www.wsj.com/economy/japan-consumer-inflation-rises-at-slower-pace-0a96f8a7"
   }
 ]
