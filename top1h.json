@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 25,
+    "pubdate": "2026-03-25-12-01-59 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Israel Strikes Tehran After Pakistan Offers to Host U.S.-Iran Talks",
+    "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-03-25-11-06-41 +0000",
+    "source": "bbc",
+    "headline": "'Major player' in alleged mistaken identity kidnap of Sydney grandfather charged",
+    "link": "https://www.bbc.com/news/articles/cqxl825z839o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-25-12-00-38 +0000",
+    "source": "bbc",
+    "headline": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
+    "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-25-11-37-17 +0000",
+    "source": "bbc",
+    "headline": "Brazil's Bolsonaro gets temporary house arrest for ill-health",
+    "link": "https://www.bbc.com/news/articles/cge0950jxd0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-25-11-11-50 +0000",
+    "source": "bbc",
+    "headline": "Dozens of bodies, mostly infants, discovered in Kenya mass grave",
+    "link": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-25-12-00-25 +0000",
+    "source": "bbc",
+    "headline": "Ghana demands compensation for slavery in landmark UN vote",
+    "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-25-11-49-44 +0000",
+    "source": "nypost",
+    "headline": "Airports in chaos as 460 unpaid TSA agents quit and call out sick amid DHS funding war",
+    "link": "https://nypost.com/2026/03/25/us-news/tsa-delays-grow-as-460-unpaid-agents-quit-amid-dhs-shutdown/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-25-11-31-40 +0000",
+    "source": "nypost",
+    "headline": "Savannah Guthrie breaks down in first interview since mom Nancy went missing: ‘It is unbearable’",
+    "link": "https://nypost.com/2026/03/25/us-news/savannah-guthrie-gives-first-interview-since-mom-nancy-went-missing/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-25-11-17-37 +0000",
+    "source": "nypost",
+    "headline": "Air traffic controller involved in deadly LaGuardia plane crash kept working: ‘We have questions’",
+    "link": "https://nypost.com/2026/03/25/us-news/air-traffic-controller-involved-in-deadly-laguardia-plane-crash-still-kept-working-we-have-questions/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-25-11-37-00 +0000",
+    "source": "wsj",
+    "headline": "Winnebago Revenue Rises as Price Hikes Counteract Lower Sales Volume",
+    "link": "https://www.wsj.com/business/earnings/winnebago-revenue-rises-as-price-hikes-counteract-lower-sales-volume-31fc174f?mod=pls_whats_news_us_business_f"
+  }
+]
