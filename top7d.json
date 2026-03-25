@@ -1,20 +1,20 @@
 [
   {
-    "score": 473,
+    "score": 470,
     "pubdate": "2026-03-24-20-41-20 +0000",
     "source": "nyt",
     "headline": "High Oil and Gas Prices Could Outlast Trump’s War With Iran",
     "link": "https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html"
   },
   {
-    "score": 200,
+    "score": 196,
     "pubdate": "2026-03-23-03-30-00 +0000",
     "source": "wsj",
     "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
     "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
   },
   {
-    "score": 181,
+    "score": 184,
     "pubdate": "2026-03-24-14-40-00 +0000",
     "source": "wsj",
     "headline": "Oklahoma Republican Gov. Kevin Stitt selected Alan Armstrong, an energy executive, to fill the seat being vacated by Sen. Markwayne Mullin until a new election takes place in November",
@@ -28,18 +28,11 @@
     "link": "https://www.wsj.com/world/europe/danish-prime-minister-in-limbo-after-poor-election-result-78fa8e69"
   },
   {
-    "score": 116,
+    "score": 117,
     "pubdate": "2026-03-21-19-45-18 +0000",
     "source": "latimes",
     "headline": "More than half a million ballots seized by top GOP candidate in California governor's race",
     "link": "https://www.latimes.com/california/story/2026-03-21/riverside-county-sheriff-chad-bianco-seizes-more-than-half-million-ballots"
-  },
-  {
-    "score": 110,
-    "pubdate": "2026-03-23-21-13-47 +0000",
-    "source": "bbc",
-    "headline": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
-    "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 109,
@@ -49,7 +42,14 @@
     "link": "https://www.washingtonpost.com/national-security/2026/03/24/us-orders-82nd-airborne-iran-paratroopers-kharg/"
   },
   {
-    "score": 106,
+    "score": 109,
+    "pubdate": "2026-03-23-21-13-47 +0000",
+    "source": "bbc",
+    "headline": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+    "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 102,
     "pubdate": "2026-03-24-12-14-15 +0000",
     "source": "bbc",
     "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
@@ -57,16 +57,16 @@
   },
   {
     "score": 91,
-    "pubdate": "2026-03-24-18-46-23 +0000",
-    "source": "cbc",
-    "headline": "Israel's defence minister says military plans occupy swath of southern Lebanon",
-    "link": "https://www.cbc.ca/news/world/israel-army-lebanon-south-9.7140329?cmp=rss"
-  },
-  {
-    "score": 91,
     "pubdate": "2026-03-20-11-00-00 +0000",
     "source": "missionlocal",
     "headline": "Ed Siu, Chinatown’s ‘complaint guy,’ isn’t here to make friends. He’s here to get results.",
     "link": "https://missionlocal.org/2026/03/sf-chinatown-ed-siu-complaint-guy/"
+  },
+  {
+    "score": 91,
+    "pubdate": "2026-03-24-18-46-23 +0000",
+    "source": "cbc",
+    "headline": "Israel's defence minister says military plans occupy swath of southern Lebanon",
+    "link": "https://www.cbc.ca/news/world/israel-army-lebanon-south-9.7140329?cmp=rss"
   }
 ]
