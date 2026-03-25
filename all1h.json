@@ -1,254 +1,236 @@
 [
   {
-    "headline": "Longest line at Philadelphia airport? Cheesesteaks, not security",
-    "link": "https://nypost.com/2026/03/25/us-news/philadelphia-airports-longest-line-cheesesteaks-not-tsa/",
-    "source": "nypost",
-    "pubdate": "2026-03-25-09-10-06 +0000"
-  },
-  {
-    "headline": "What Happened After a U.S. Warship Hit an Iranian Mine in 1988",
-    "link": "https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-07-19 +0000"
-  },
-  {
-    "headline": "Can Flights Get Any Worse? Travelers Deal With TSA Lines, High Ticket Prices and Anxiety.",
-    "link": "https://www.nytimes.com/2026/03/25/travel/airports-flights-security-ticket-prices.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-06-12 +0000"
-  },
-  {
-    "headline": "The Oil Supply Crunch Is Spreading From the Gulf to the Rest of the World",
-    "link": "https://www.wsj.com/business/energy-oil/the-oil-supply-crunch-is-spreading-from-the-gulf-to-the-rest-of-the-world-41c5f671?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-25-09-06-00 +0000"
-  },
-  {
-    "headline": "The Oil Supply Crunch Is Spreading From the Gulf to the Rest of the World",
-    "link": "https://www.wsj.com/business/energy-oil/the-oil-supply-crunch-is-spreading-from-the-gulf-to-the-rest-of-the-world-41c5f671?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-25-09-06-00 +0000"
-  },
-  {
-    "headline": "UK inflation rate steady in February ahead of Iran war",
-    "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-09-03-32 +0000"
-  },
-  {
-    "headline": "UK inflation rate steady in February ahead of Iran war",
-    "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-09-03-32 +0000"
-  },
-  {
-    "headline": "A Master of Animation Is Back, With a ‘Magnificent’ Story",
-    "link": "https://www.nytimes.com/2026/03/25/movies/sylvain-chomet-a-magnificent-life.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-02-22 +0000"
-  },
-  {
-    "headline": "The Brigade System Helps Restaurants Succeed. Does It Also Lead to Abuse?",
-    "link": "https://www.nytimes.com/2026/03/25/dining/noma-brigade-system.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-02-14 +0000"
-  },
-  {
-    "headline": "In San Jose, a Reckoning Over Cesar Chavez Is Only Beginning",
-    "link": "https://www.nytimes.com/2026/03/25/us/cesar-chavez-san-jose-reckoning.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-02-02 +0000"
-  },
-  {
-    "headline": "How Daily Money Managers Help Busy People With Their Finances",
-    "link": "https://www.nytimes.com/2026/03/25/business/daily-money-managers-finances.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-01-40 +0000"
-  },
-  {
-    "headline": "Senate Housing Bill Sparks Debate About Who Gets to Own Single-Family Homes",
-    "link": "https://www.nytimes.com/2026/03/25/business/economy/single-family-homes-rentals-housing-shortage.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-01-34 +0000"
-  },
-  {
-    "headline": "Senate Housing Bill Sparks Debate About Who Gets to Own Single-Family Homes",
-    "link": "https://www.nytimes.com/2026/03/25/business/economy/single-family-homes-rentals-housing-shortage.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-01-34 +0000"
-  },
-  {
-    "headline": "What Soaring Fuel Costs Mean for Your Air Travel",
-    "link": "https://www.nytimes.com/video/business/100000010785304/what-soaring-fuel-costs-mean-for-your-air-travel.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-01-27 +0000"
-  },
-  {
-    "headline": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon",
-    "link": "https://www.nytimes.com/2026/03/25/world/africa/in-secret-deportation-deal-us-leveraged-favors-and-funds.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-01-04 +0000"
-  },
-  {
-    "headline": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon",
-    "link": "https://www.nytimes.com/2026/03/25/world/africa/in-secret-deportation-deal-us-leveraged-favors-and-funds.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-01-04 +0000"
-  },
-  {
-    "headline": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon",
-    "link": "https://www.nytimes.com/2026/03/25/world/africa/in-secret-deportation-deal-us-leveraged-favors-and-funds.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-01-04 +0000"
-  },
-  {
-    "headline": "Cheap Drones Remain Wild Card in Iran war",
-    "link": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-00-59 +0000"
-  },
-  {
-    "headline": "Cheap Drones Remain Wild Card in Iran war",
-    "link": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-00-59 +0000"
-  },
-  {
-    "headline": "Cheap Drones Remain Wild Card in Iran war",
-    "link": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-00-59 +0000"
-  },
-  {
-    "headline": "Iran’s missiles pierce Israel’s defenses, raising doubts about interceptors",
-    "link": "https://www.washingtonpost.com/world/2026/03/25/iran-missiles-israel-air-defense/",
-    "source": "wapo",
-    "pubdate": "2026-03-25-09-00-30 +0000"
-  },
-  {
-    "headline": "An American in Russia Is Linked to Neo-Nazi Terror Cells Across Europe",
-    "link": "https://www.nytimes.com/2026/03/25/world/europe/nazzaro-nazi-terror-cell-russia-base-europe.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-00-27 +0000"
-  },
-  {
-    "headline": "An American in Russia Is Linked to Neo-Nazi Terror Cells Across Europe",
-    "link": "https://www.nytimes.com/2026/03/25/world/europe/nazzaro-nazi-terror-cell-russia-base-europe.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-09-00-27 +0000"
-  },
-  {
-    "headline": "The day I ran out of gas chasing a deal, and other extreme saving hacks",
-    "link": "https://www.washingtonpost.com/business/2026/03/25/gas-prices-penny-pinching-hacks/",
-    "source": "wapo",
-    "pubdate": "2026-03-25-09-00-00 +0000"
-  },
-  {
-    "headline": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
-    "link": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-59-46 +0000"
-  },
-  {
-    "headline": "U.S. offers plan for a ceasefire, but Iran says Washington in no position to negotiate",
-    "link": "https://www.cbc.ca/news/world/u-s-trump-iran-negotiate-war-9.7141108?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-25-08-56-59 +0000"
-  },
-  {
-    "headline": "Estate of late tycoon Mike Lynch to pay damages of £920m",
-    "link": "https://www.bbc.com/news/articles/cn8dg5wq9pyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-53-23 +0000"
-  },
-  {
-    "headline": "Iran fires back at Trump’s 15-point peace plan: ‘US negotiating with itself’",
-    "link": "https://nypost.com/2026/03/25/world-news/iran-fires-back-at-trumps-15-point-peace-plan-us-negotiating-with-itself/",
-    "source": "nypost",
-    "pubdate": "2026-03-25-08-47-54 +0000"
-  },
-  {
-    "headline": "Eurozone Bond Yields Fall Amid Hopes for Resolution to Middle East Conflict",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-rise-on-hopes-of-resolution-to-middle-east-conflict-8e2db433?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-25-08-45-00 +0000"
-  },
-  {
-    "headline": "Labubu Maker’s Earnings Show It’s Not Toying Around, But Investors Aren’t Amused",
-    "link": "https://www.wsj.com/business/retail/labubu-makers-earnings-show-its-not-toying-around-4d2de5f8?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-25-08-43-00 +0000"
-  },
-  {
-    "headline": "Shock as dozens of bodies, mostly infants, discovered in Kenya mass grave",
-    "link": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-41-22 +0000"
-  },
-  {
-    "headline": "Shock as dozens of bodies, mostly infants, discovered in Kenya mass grave",
-    "link": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-41-22 +0000"
-  },
-  {
-    "headline": "Why are UK prices still rising?",
-    "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-35-11 +0000"
-  },
-  {
-    "headline": "Why are UK prices still rising?",
-    "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-35-11 +0000"
-  },
-  {
-    "headline": "Swiss Franc Falls as Safe-Haven Demand Wanes, SNB Repeats Intervention Threats",
+    "headline": "Euro Could Struggle to Recover Vs Dollar as Energy Prices Stay Elevated",
     "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-eye-middle-east-developments-227f4312?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-03-25-08-29-00 +0000"
+    "pubdate": "2026-03-25-10-05-00 +0000"
   },
   {
     "headline": "Pentagon Orders 2,000 Airborne Troops to Middle East",
     "link": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
     "source": "nyt",
-    "pubdate": "2026-03-25-08-27-54 +0000"
+    "pubdate": "2026-03-25-10-01-40 +0000"
   },
   {
-    "headline": "Stock Market Today: Dow Futures Rise, Oil Falls on Cautious Optimism",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-25-2026?mod=rss_markets_main",
+    "headline": "Oil Prices Tumble as Trump Shows Eagerness to Talk to Iran",
+    "link": "https://www.nytimes.com/2026/03/24/business/oil-stock-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-10-01-38 +0000"
+  },
+  {
+    "headline": "New details about forgotten Long Island hero killed in WWII uncovered — but one nagging mystery remains",
+    "link": "https://nypost.com/2026/03/25/us-news/new-details-about-forgotten-long-island-hero-killed-in-wwii-revealed/",
+    "source": "nypost",
+    "pubdate": "2026-03-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Mike Waltz recalls chilling war story where he had to decide whether to shoot a 10-year-old Afghan",
+    "link": "https://nypost.com/2026/03/25/us-news/mike-waltz-recalls-chilling-war-story-where-he-had-to-decide-whether-to-shoot-a-10-year-old-afghan/",
+    "source": "nypost",
+    "pubdate": "2026-03-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump has given Israel’s Netanyahu ‘the business,’ Mike Waltz tells Pod Force One amid Iran war",
+    "link": "https://nypost.com/2026/03/25/us-news/trump-has-given-netanyahu-the-business-un-ambassador-mike-waltz-reveals/",
+    "source": "nypost",
+    "pubdate": "2026-03-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Mike Waltz recalls chilling war story where he had to decide whether to shoot a 10-year-old Afghan",
+    "link": "https://nypost.com/2026/03/25/us-news/mike-waltz-recalls-chilling-war-story-where-he-had-to-decide-whether-to-shoot-a-10-year-old-afghan/",
+    "source": "nypost",
+    "pubdate": "2026-03-25-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump has given Israel’s Netanyahu ‘the business,’ Mike Waltz tells Pod Force One amid Iran war",
+    "link": "https://nypost.com/2026/03/25/us-news/trump-has-given-netanyahu-the-business-un-ambassador-mike-waltz-reveals/",
+    "source": "nypost",
+    "pubdate": "2026-03-25-10-00-00 +0000"
+  },
+  {
+    "headline": "T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport",
+    "link": "https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-59-06 +0000"
+  },
+  {
+    "headline": "Italy’s Monte Dei Paschi Chooses CEO to Succeed Luigi Lovaglio",
+    "link": "https://www.wsj.com/business/c-suite/italys-monte-dei-paschi-chooses-ceo-to-succeed-luigi-lovaglio-7024552c?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-03-25-08-24-50 +0000"
-  },
-  {
-    "headline": "Gold Climbs as Oil Retreats on Mideast Diplomacy",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-boosted-by-dollar-weakness-b30234b4?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-25-08-18-00 +0000"
-  },
-  {
-    "headline": "Graffiti conviction for Australian woman who stuck googly eyes on sculpture",
-    "link": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-17-51 +0000"
-  },
-  {
-    "headline": "Graffiti conviction for Australian woman who stuck googly eyes on sculpture",
-    "link": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-08-17-51 +0000"
+    "pubdate": "2026-03-25-09-58-00 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-03-25-08-15-50 +0000"
+    "pubdate": "2026-03-25-09-56-01 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-03-25-08-15-50 +0000"
+    "pubdate": "2026-03-25-09-56-01 +0000"
+  },
+  {
+    "headline": "Four Takeaways From Denmark’s Election",
+    "link": "https://www.nytimes.com/2026/03/25/world/europe/takeaways-denmark-election-frederiksen.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-55-04 +0000"
+  },
+  {
+    "headline": "Four Takeaways From Denmark’s Election",
+    "link": "https://www.nytimes.com/2026/03/25/world/europe/takeaways-denmark-election-frederiksen.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-55-04 +0000"
+  },
+  {
+    "headline": "German Business Sentiment Slips as Iran War Weighs",
+    "link": "https://www.wsj.com/economy/german-business-sentiment-slips-as-iran-war-weighs-f8a5abe6",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-53-00 +0000"
+  },
+  {
+    "headline": "German Business Sentiment Slips as Iran War Weighs",
+    "link": "https://www.wsj.com/economy/german-business-sentiment-slips-as-iran-war-weighs-f8a5abe6",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-53-00 +0000"
+  },
+  {
+    "headline": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-48-55 +0000"
+  },
+  {
+    "headline": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-48-55 +0000"
+  },
+  {
+    "headline": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-48-55 +0000"
+  },
+  {
+    "headline": "Composer of iconic ‘Lion King’ chant sues comedian over ‘Circle of Life’ translation",
+    "link": "https://nypost.com/2026/03/25/world-news/the-lion-king-composer-lebohang-morake-suing-comedian-learnmore-jonasi-over-circle-of-life-translation/",
+    "source": "nypost",
+    "pubdate": "2026-03-25-09-46-13 +0000"
+  },
+  {
+    "headline": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
+    "link": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-41-18 +0000"
+  },
+  {
+    "headline": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
+    "link": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-41-18 +0000"
+  },
+  {
+    "headline": "Will UK interest rates fall any time soon?",
+    "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-25-09-40-23 +0000"
+  },
+  {
+    "headline": "For Australia’s Farmers, Fuel Crisis Comes at ‘Worst Possible Time’",
+    "link": "https://www.nytimes.com/2026/03/25/world/australia/australia-farm-fuel-oil-prices.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-40-14 +0000"
+  },
+  {
+    "headline": "For Australia’s Farmers, Fuel Crisis Comes at ‘Worst Possible Time’",
+    "link": "https://www.nytimes.com/2026/03/25/world/australia/australia-farm-fuel-oil-prices.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-40-14 +0000"
+  },
+  {
+    "headline": "When will the cash Isa saving limits change?",
+    "link": "https://www.bbc.com/news/articles/c0k7enxkxndo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-25-09-40-04 +0000"
+  },
+  {
+    "headline": "Oil Falls Below $100 as Markets Greet Middle East Diplomatic Push With Tentative Optimism",
+    "link": "https://www.wsj.com/finance/stocks/oil-falls-below-100-as-markets-greet-middle-east-diplomatic-push-with-optimism-642264a7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-40-00 +0000"
+  },
+  {
+    "headline": "Two Men Arrested in Attack on Jewish Charity Ambulances in London",
+    "link": "https://www.nytimes.com/2026/03/25/world/europe/jewish-ambulances-arson-arrests.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-38-35 +0000"
+  },
+  {
+    "headline": "Two Men Arrested in Attack on Jewish Charity Ambulances in London",
+    "link": "https://www.nytimes.com/2026/03/25/world/europe/jewish-ambulances-arson-arrests.html",
+    "source": "nyt",
+    "pubdate": "2026-03-25-09-38-35 +0000"
+  },
+  {
+    "headline": "ECB Would Need ‘Forceful’ Response if Inflation Surges, Says Lagarde",
+    "link": "https://www.wsj.com/articles/ecb-would-need-forceful-response-if-inflation-surges-says-lagarde-98622203",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-38-00 +0000"
+  },
+  {
+    "headline": "ECB Would Need ‘Forceful’ Response if Inflation Surges, Says Lagarde",
+    "link": "https://www.wsj.com/articles/ecb-would-need-forceful-response-if-inflation-surges-says-lagarde-98622203",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-38-00 +0000"
+  },
+  {
+    "headline": "The Company Where Driving the Wrong Car to Work Can Get You a Ticket",
+    "link": "https://www.wsj.com/business/autos/the-company-where-driving-the-wrong-car-to-work-can-get-you-a-ticket-4ec9833a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "ICE Has Left Minneapolis. The Economic Hangover Hasn’t.",
+    "link": "https://www.wsj.com/us-news/iice-minneapolis-minnesota-economic-impact-38f1ef1a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "There’s One Clear Winner From the Long TSA Wait Times at Airports",
+    "link": "https://www.wsj.com/business/airlines/clear-tsa-lines-dhs-shutdown-da62b85d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "New Bank Regulations Could Favor Loans to Private Credit",
+    "link": "https://www.wsj.com/finance/regulation/new-bank-regulations-could-favor-loans-to-private-credit-674e1106?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "There’s One Clear Winner From the Long TSA Wait Times at Airports",
+    "link": "https://www.wsj.com/business/airlines/clear-tsa-lines-dhs-shutdown-da62b85d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "Certain oil tankers are making it safely through the Strait of Hormuz — here’s how",
+    "link": "https://nypost.com/2026/03/25/world-news/certain-oil-tankers-are-making-it-safely-through-strait-of-hormuz-heres-how/",
+    "source": "nypost",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "Nearly six weeks after “Operation Metro Surge” ended in Minneapolis, most shops and taquerias along a stretch of East Lake Street are back—but many of their customers aren’t",
+    "link": "https://www.wsj.com/us-news/iice-minneapolis-minnesota-economic-impact-38f1ef1a",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "ICE Has Left Minneapolis. The Economic Hangover Hasn’t.",
+    "link": "https://www.wsj.com/us-news/iice-minneapolis-minnesota-economic-impact-38f1ef1a",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
   }
 ]
