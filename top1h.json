@@ -1,72 +1,58 @@
 [
   {
-    "score": 65,
-    "pubdate": "2026-03-25-16-56-13 +0000",
-    "source": "nyt",
-    "headline": "Trump Had His Eye on China, Then Plunged Into a New Mideast War",
-    "link": "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-03-25-16-57-22 +0000",
-    "source": "nyt",
-    "headline": "Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.",
-    "link": "https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-03-25-16-59-00 +0000",
-    "source": "wsj",
-    "headline": "The Federal Reserve ran an operating loss of $18.7 billion last year, its third straight year of losses, which stems from unprecedented losses tied to pandemic-era stimulus and subsequent inflation fight.",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370"
-  },
-  {
-    "score": 26,
+    "score": 24,
     "pubdate": "2026-03-25-17-11-10 +0000",
     "source": "nypost",
     "headline": "Democrat Rep. Julie Johnson claims ICE carrying out ‘terroristic attacks’ on citizens",
     "link": "https://nypost.com/2026/03/25/us-news/democrat-rep-julie-johnson-claims-ice-carrying-out-terroristic-attacks-on-citizens/"
   },
   {
-    "score": 26,
-    "pubdate": "2026-03-25-16-27-16 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court makes it harder for music and movie makers to sue for copyright infringement",
-    "link": "https://www.latimes.com/politics/story/2026-03-25/supreme-court-makes-it-harder-for-music-movie-makers-to-sue-for-copyright-infringement"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-03-25-17-13-15 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Tehran Dismisses Trump’s Cease-Fire Offer but Signals Openness to Talks",
-    "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-03-25-17-04-00 +0000",
-    "source": "nypost",
-    "headline": "Not-so-magic kingdom: Epic Games, Taylor Frankie Paul and OpenAI pose challenges to new Disney CEO in first week on job",
-    "link": "https://nypost.com/2026/03/25/business/not-so-magic-kingdom-new-disney-ceo-bombarded-with-challenges-in-first-week-on-job/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-03-25-16-41-00 +0000",
-    "source": "wsj",
-    "headline": "BASF Raises Prices Sharply, Again, as Middle East War Drives Up Costs",
-    "link": "https://www.wsj.com/business/basf-raises-prices-sharply-again-as-middle-east-war-drives-up-costs-7d67393b"
-  },
-  {
-    "score": 19,
+    "score": 18,
     "pubdate": "2026-03-25-17-13-10 +0000",
     "source": "bbc",
     "headline": "Ghana demands compensation for slavery in landmark UN vote",
     "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 18,
-    "pubdate": "2026-03-25-16-46-27 +0000",
+    "score": 13,
+    "pubdate": "2026-03-25-17-13-15 +0000",
     "source": "nyt",
-    "headline": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon",
-    "link": "https://www.nytimes.com/2026/03/25/world/africa/in-secret-deportation-deal-us-leveraged-favors-and-funds.html"
+    "headline": "Iran War Live Updates: Tehran Dismisses Trump’s Cease-Fire Offer but Signals Openness to Talks",
+    "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-25-17-10-45 +0000",
+    "source": "nypost",
+    "headline": "Ukraine’s ‘out of this world’ military innovation gives it an edge against Russia ahead of spring offensive",
+    "link": "https://nypost.com/2026/03/25/world-news/ukraine-has-leg-up-in-russia-war-with-out-of-this-world-military-innovation/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-25-17-12-57 +0000",
+    "source": "nyt",
+    "headline": "Democrat Emily Gregory Wins Florida Special Election in Mar-a-Lago’s District",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-25-17-13-10 +0000",
+    "source": "bbc",
+    "headline": "Ghana demands compensation for slavery in landmark UN vote",
+    "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-25-17-13-10 +0000",
+    "source": "bbc",
+    "headline": "Ghana demands compensation for slavery in landmark UN vote",
+    "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-25-17-11-10 +0000",
+    "source": "nypost",
+    "headline": "Democrat Rep. Julie Johnson claims ICE carrying out ‘terroristic attacks’ on citizens",
+    "link": "https://nypost.com/2026/03/25/us-news/democrat-rep-julie-johnson-claims-ice-carrying-out-terroristic-attacks-on-citizens/"
   }
 ]
