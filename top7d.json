@@ -7,7 +7,7 @@
     "link": "https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html"
   },
   {
-    "score": 212,
+    "score": 200,
     "pubdate": "2026-03-23-03-30-00 +0000",
     "source": "wsj",
     "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/politics/policy/alan-armstrong-becomes-newest-u-s-senator-9efaf559"
   },
   {
-    "score": 130,
+    "score": 133,
     "pubdate": "2026-03-25-00-39-00 +0000",
     "source": "wsj",
     "headline": "Danish Prime Minister Mette Frederiksen led her party to its worst election in more than 120 years on Tuesday, a vote that forces one of Europe’s most prominent leaders into days of difficult negotiations to secure a third term",
@@ -29,44 +29,44 @@
   },
   {
     "score": 116,
+    "pubdate": "2026-03-21-19-45-18 +0000",
+    "source": "latimes",
+    "headline": "More than half a million ballots seized by top GOP candidate in California governor's race",
+    "link": "https://www.latimes.com/california/story/2026-03-21/riverside-county-sheriff-chad-bianco-seizes-more-than-half-million-ballots"
+  },
+  {
+    "score": 110,
     "pubdate": "2026-03-23-21-13-47 +0000",
     "source": "bbc",
     "headline": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
     "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 113,
-    "pubdate": "2026-03-18-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Democrats face the possibility of a historic upset in California governor's race, poll finds",
-    "link": "https://www.latimes.com/california/story/2026-03-18/la-me-pol-2026-election-california-berkeley-poll-governor"
+    "score": 109,
+    "pubdate": "2026-03-25-01-20-00 +0000",
+    "source": "wapo",
+    "headline": "Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict",
+    "link": "https://www.washingtonpost.com/national-security/2026/03/24/us-orders-82nd-airborne-iran-paratroopers-kharg/"
   },
   {
-    "score": 105,
-    "pubdate": "2026-03-23-00-07-27 +0000",
-    "source": "nyt",
-    "headline": "Here’s What Happened in the War in the Middle East on Sunday",
-    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/middle-east-war-recap.html"
-  },
-  {
-    "score": 97,
-    "pubdate": "2026-03-23-16-26-19 +0000",
-    "source": "latimes",
-    "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
-    "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
-  },
-  {
-    "score": 97,
-    "pubdate": "2026-03-24-03-18-00 +0000",
-    "source": "wsj",
-    "headline": "Senators said they were closing in on a deal to fund all of the Department of Homeland Security except for the agency that carries out immigrant arrests and deportations, signaling a possible breakthrough",
-    "link": "https://www.wsj.com/politics/policy/trump-rejects-exit-ramp-on-tsa-spending-impasse-8c797a65"
+    "score": 106,
+    "pubdate": "2026-03-24-12-14-15 +0000",
+    "source": "bbc",
+    "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+    "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 91,
-    "pubdate": "2026-03-22-18-05-10 +0000",
-    "source": "nyt",
-    "headline": "Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles",
-    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html"
+    "pubdate": "2026-03-24-18-46-23 +0000",
+    "source": "cbc",
+    "headline": "Israel's defence minister says military plans occupy swath of southern Lebanon",
+    "link": "https://www.cbc.ca/news/world/israel-army-lebanon-south-9.7140329?cmp=rss"
+  },
+  {
+    "score": 91,
+    "pubdate": "2026-03-20-11-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Ed Siu, Chinatown’s ‘complaint guy,’ isn’t here to make friends. He’s here to get results.",
+    "link": "https://missionlocal.org/2026/03/sf-chinatown-ed-siu-complaint-guy/"
   }
 ]
