@@ -1,45 +1,38 @@
 [
   {
-    "score": 493,
+    "score": 507,
     "pubdate": "2026-03-24-20-41-20 +0000",
     "source": "nyt",
     "headline": "High Oil and Gas Prices Could Outlast Trump’s War With Iran",
     "link": "https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html"
   },
   {
-    "score": 199,
-    "pubdate": "2026-03-23-03-30-00 +0000",
-    "source": "wsj",
-    "headline": "ICE officers will begin trying to ease bottlenecks at airports on Monday, as the Trump administration scrambles to develop a plan to end hourslong security lines amid a partial government shutdown",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-scrambles-to-deploy-ice-agents-at-airports-as-lines-mount-2a138b2c"
-  },
-  {
-    "score": 185,
+    "score": 184,
     "pubdate": "2026-03-24-14-40-00 +0000",
     "source": "wsj",
     "headline": "Oklahoma Republican Gov. Kevin Stitt selected Alan Armstrong, an energy executive, to fill the seat being vacated by Sen. Markwayne Mullin until a new election takes place in November",
     "link": "https://www.wsj.com/politics/policy/alan-armstrong-becomes-newest-u-s-senator-9efaf559"
   },
   {
-    "score": 129,
-    "pubdate": "2026-03-25-00-39-00 +0000",
+    "score": 134,
+    "pubdate": "2026-03-22-09-30-00 +0000",
     "source": "wsj",
-    "headline": "Danish Prime Minister Mette Frederiksen led her party to its worst election in more than 120 years on Tuesday, a vote that forces one of Europe’s most prominent leaders into days of difficult negotiations to secure a third term",
-    "link": "https://www.wsj.com/world/europe/danish-prime-minister-in-limbo-after-poor-election-result-78fa8e69"
+    "headline": "Young people, who are just starting their careers, are trying to figure out which professions will insulate them from AI’s impact—or what jobs will benefit from it",
+    "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
   },
   {
-    "score": 116,
-    "pubdate": "2026-03-25-11-02-00 +0000",
-    "source": "wsj",
-    "headline": "That the top congressional Democrats both hail from New York City risks reinforcing the idea that the party is out of step with voters across America. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/chuck-schumers-other-challenge-is-geographic-5a70d8a6"
-  },
-  {
-    "score": 109,
+    "score": 133,
     "pubdate": "2026-03-25-10-00-00 +0000",
     "source": "latimes",
     "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
     "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis"
+  },
+  {
+    "score": 131,
+    "pubdate": "2026-03-24-21-56-00 +0000",
+    "source": "wsj",
+    "headline": "GOP senators have made an offer to Democrats to fund DHS and end the TSA staffing woes that have led to long lines at airport security",
+    "link": "https://www.wsj.com/politics/policy/gop-senators-make-offer-to-fund-dhs-end-tsa-staffing-woes-07f3a4e3"
   },
   {
     "score": 106,
@@ -49,24 +42,31 @@
     "link": "https://www.cbc.ca/news/world/air-canada-express-accident-la-guardia-airport-9.7138206?cmp=rss"
   },
   {
-    "score": 105,
-    "pubdate": "2026-03-23-00-07-27 +0000",
+    "score": 106,
+    "pubdate": "2026-03-23-22-37-30 +0000",
     "source": "nyt",
-    "headline": "Here’s What Happened in the War in the Middle East on Sunday",
-    "link": "https://www.nytimes.com/2026/03/22/world/middleeast/middle-east-war-recap.html"
+    "headline": "Here’s What Happened in the War in the Middle East on Monday",
+    "link": "https://www.nytimes.com/2026/03/23/world/middleeast/middle-east-war-iran-march-23.html"
   },
   {
-    "score": 93,
-    "pubdate": "2026-03-24-12-14-15 +0000",
-    "source": "bbc",
-    "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
-    "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
+    "score": 104,
+    "pubdate": "2026-03-25-00-39-00 +0000",
+    "source": "wsj",
+    "headline": "Danish Prime Minister Mette Frederiksen led her party to its worst election in more than 120 years on Tuesday, a vote that forces one of Europe’s most prominent leaders into days of difficult negotiations to secure a third term",
+    "link": "https://www.wsj.com/world/europe/danish-prime-minister-in-limbo-after-poor-election-result-78fa8e69"
   },
   {
-    "score": 91,
+    "score": 92,
     "pubdate": "2026-03-23-16-26-19 +0000",
     "source": "latimes",
     "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
     "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
+  },
+  {
+    "score": 88,
+    "pubdate": "2026-03-24-12-14-15 +0000",
+    "source": "bbc",
+    "headline": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+    "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
   }
 ]
