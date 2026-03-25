@@ -1,19 +1,5 @@
 [
   {
-    "score": 15,
-    "pubdate": "2026-03-25-06-28-34 +0000",
-    "source": "bbc",
-    "headline": "Journalists at Australia's national broadcaster strike for first time in 20 years",
-    "link": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-03-25-06-52-50 +0000",
-    "source": "nypost",
-    "headline": "Washington state boyfriend accused of murdering missing girlfriend Krista Joy Hunt found dead in river: report",
-    "link": "https://nypost.com/2026/03/25/us-news/washington-state-man-juan-manuel-delgado-arrested-in-murder-of-girlfriend-krista-joy-hunt-found-in-river/"
-  },
-  {
     "score": 10,
     "pubdate": "2026-03-25-07-08-05 +0000",
     "source": "bbc",
@@ -21,18 +7,11 @@
     "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 10,
-    "pubdate": "2026-03-25-06-18-46 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Tumble as Trump Shows Eagerness to Talk to Iran",
-    "link": "https://www.nytimes.com/2026/03/24/business/oil-stock-gas-prices-iran.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-03-25-06-45-40 +0000",
-    "source": "bbc",
-    "headline": "Indian man whose life support was removed after court go-ahead dies",
-    "link": "https://www.bbc.com/news/articles/cvgkp52njj7o?at_medium=RSS&at_campaign=rss"
+    "score": 7,
+    "pubdate": "2026-03-25-07-08-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Fall on Lower Oil Prices, U.S.’s 15-Point Plan",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-rise-on-hopes-of-resolution-to-middle-east-conflict-8e2db433?mod=rss_markets_main"
   },
   {
     "score": 7,
@@ -42,31 +21,10 @@
     "link": "https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-03-25-07-00-05 +0000",
-    "source": "nyt",
-    "headline": "Write It Up! How Fast Do Our Journalists Type?",
-    "link": "https://www.nytimes.com/2026/03/25/insider/how-fast-journalists-type.html"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-03-25-07-08-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Treasury Yields Fall on Lower Oil Prices, U.S.’s 15-Point Plan",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-rise-on-hopes-of-resolution-to-middle-east-conflict-8e2db433?mod=rss_markets_main"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-03-25-06-20-14 +0000",
-    "source": "nyt",
-    "headline": "Pentagon Orders 2,000 Airborne Troops to Middle East",
-    "link": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-03-25-06-47-11 +0000",
+    "score": 0,
+    "pubdate": "2026-03-25-07-08-05 +0000",
     "source": "bbc",
-    "headline": "How is the Philippines reacting to its energy emergency?",
-    "link": "https://www.bbc.com/news/videos/c5yj4eze972o?at_medium=RSS&at_campaign=rss"
+    "headline": "UK inflation rate remained at 3% in February",
+    "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
   }
 ]
