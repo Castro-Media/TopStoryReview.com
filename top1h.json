@@ -1,58 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-03-25-17-11-10 +0000",
-    "source": "nypost",
-    "headline": "Democrat Rep. Julie Johnson claims ICE carrying out ‘terroristic attacks’ on citizens",
-    "link": "https://nypost.com/2026/03/25/us-news/democrat-rep-julie-johnson-claims-ice-carrying-out-terroristic-attacks-on-citizens/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-03-25-17-13-10 +0000",
-    "source": "bbc",
-    "headline": "Ghana demands compensation for slavery in landmark UN vote",
-    "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-03-25-17-13-15 +0000",
+    "score": 65,
+    "pubdate": "2026-03-25-18-22-59 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Tehran Dismisses Trump’s Cease-Fire Offer but Signals Openness to Talks",
+    "headline": "Trump Had His Eye on China, Then Plunged Into a New Mideast War",
+    "link": "https://www.nytimes.com/2026/03/25/us/politics/trump-china-mideast.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-03-25-18-50-55 +0000",
+    "source": "bbc",
+    "headline": "Meta and Google found liable in landmark social media addiction trial",
+    "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-03-25-19-08-14 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Tehran Dismisses Cease-Fire Offer but Signals Openness to Talks",
     "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news"
   },
   {
-    "score": 11,
-    "pubdate": "2026-03-25-17-10-45 +0000",
+    "score": 29,
+    "pubdate": "2026-03-25-18-29-09 +0000",
     "source": "nypost",
-    "headline": "Ukraine’s ‘out of this world’ military innovation gives it an edge against Russia ahead of spring offensive",
-    "link": "https://nypost.com/2026/03/25/world-news/ukraine-has-leg-up-in-russia-war-with-out-of-this-world-military-innovation/"
+    "headline": "Mike Lawler’s millionaire Dem rival who joked about teen sex plays the victim as calls mount to drop out",
+    "link": "https://nypost.com/2026/03/25/us-news/mike-lawlers-millionaire-dem-rival-who-joked-about-teen-sex-plays-the-victim-as-calls-mount-to-drop-out/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-03-25-17-12-57 +0000",
+    "score": 28,
+    "pubdate": "2026-03-25-18-46-58 +0000",
+    "source": "nypost",
+    "headline": "Watchdog probes DHS contracts under Kristi Noem, Corey Lewandowski — including for $220M ads that got her canned",
+    "link": "https://nypost.com/2026/03/25/us-news/watchdog-probes-dhs-contracts-under-kristi-noem-corey-lewandowski-including-for-220m-ads-that-got-her-canned/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-03-25-18-40-11 +0000",
     "source": "nyt",
-    "headline": "Democrat Emily Gregory Wins Florida Special Election in Mar-a-Lago’s District",
-    "link": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html"
+    "headline": "Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music",
+    "link": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-03-25-17-13-10 +0000",
-    "source": "bbc",
-    "headline": "Ghana demands compensation for slavery in landmark UN vote",
-    "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-25-17-13-10 +0000",
-    "source": "bbc",
-    "headline": "Ghana demands compensation for slavery in landmark UN vote",
-    "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-03-25-17-11-10 +0000",
+    "score": 23,
+    "pubdate": "2026-03-25-18-36-42 +0000",
     "source": "nypost",
-    "headline": "Democrat Rep. Julie Johnson claims ICE carrying out ‘terroristic attacks’ on citizens",
-    "link": "https://nypost.com/2026/03/25/us-news/democrat-rep-julie-johnson-claims-ice-carrying-out-terroristic-attacks-on-citizens/"
+    "headline": "Hit-and-run SUV driver fatally strikes woman, 69, in NYC — with force that knocks off both shoes: video",
+    "link": "https://nypost.com/2026/03/25/us-news/hit-and-run-suv-driver-fatally-strikes-woman-69-in-nyc-with-force-that-knocks-off-both-shoes-video/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-25-19-03-33 +0000",
+    "source": "nyt",
+    "headline": "NATO’s ‘Trump Whisperer’ Faces Blowback Over Support for Iran War",
+    "link": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-nato-rutte-trump.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-25-18-35-00 +0000",
+    "source": "wsj",
+    "headline": "Postal Service to Impose First-Ever Fuel Surcharge on Packages",
+    "link": "https://www.wsj.com/us-news/postal-service-to-impose-first-ever-fuel-surcharge-on-packages-73b5e0fd"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-03-25-18-59-17 +0000",
+    "source": "nyt",
+    "headline": "With Their Voter Bill Stymied, G.O.P. Leaders Ponder a Plan B",
+    "link": "https://www.nytimes.com/2026/03/25/us/politics/republicans-voter-bill-plan-b.html"
   }
 ]
