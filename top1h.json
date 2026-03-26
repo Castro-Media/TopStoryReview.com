@@ -1,30 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-03-25-23-02-32 +0000",
+    "score": 31,
+    "pubdate": "2026-03-26-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
+    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-26-01-10-47 +0000",
     "source": "nypost",
-    "headline": "NYC maniac suspected of killing ex-girlfriend, mom of his 3 kids, charged with murder: cops",
-    "link": "https://nypost.com/2026/03/25/us-news/nyc-maniac-suspected-of-killing-ex-girlfriend-mom-of-his-3-kids-in-hail-of-bullets-charged-with-murder-cops-sources/"
+    "headline": "Fourth Labor Dept. staffer leaves during IG probe of Secretary Lori Chavez-DeRemer",
+    "link": "https://nypost.com/2026/03/25/us-news/fourth-labor-dept-staffer-leaves-amid-ig-probe-of-secretary-lori-chavez-deremer/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-03-26-00-55-49 +0000",
+    "source": "nypost",
+    "headline": "NY AG Letitia James hit with two more criminal referrals alleging possible insurance fraud",
+    "link": "https://nypost.com/2026/03/25/us-news/ny-ag-letitia-james-hit-with-two-more-criminal-referrals-alleging-possible-insurance-fraud/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-03-26-00-50-46 +0000",
+    "source": "nypost",
+    "headline": "Strike in Caribbean Sea on alleged drug boat kills 4, US Military says",
+    "link": "https://nypost.com/2026/03/25/us-news/strike-in-caribbean-sea-on-alleged-drug-boat-kills-4-us-military-says/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-26-00-48-10 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Tehran Dismisses U.S. Cease-Fire Conditions as Israel Steps Up Attacks",
+    "link": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-03-26-00-28-44 +0000",
+    "source": "nypost",
+    "headline": "Dramatic moment LA sanitation staff nearly seal homeless people inside their sewer home",
+    "link": "https://nypost.com/2026/03/25/us-news/la-sanitation-staff-nearly-seals-homeless-man-inside-his-sewer-home/"
   },
   {
     "score": 10,
-    "pubdate": "2026-03-25-23-01-18 +0000",
-    "source": "nyt",
-    "headline": "U.S.P.S. Plans to Impose 8% Surcharge to Offset Rising Transportation Costs Amid Iran War",
-    "link": "https://www.nytimes.com/2026/03/25/us/politics/usps-surcharge-prices-fuel-iran.html"
+    "pubdate": "2026-03-26-00-30-46 +0000",
+    "source": "nypost",
+    "headline": "Animals gone wild: Incredible video of show bird escaping cheetahs at the zoo",
+    "link": "https://nypost.com/2026/03/25/us-news/animals-gone-wild-incredible-video-of-show-bird-escaping-cheetahs-at-fresno-chaffee-zoo/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-03-25-23-01-25 +0000",
-    "source": "nyt",
-    "headline": "Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them",
-    "link": "https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html"
+    "score": 10,
+    "pubdate": "2026-03-26-00-45-00 +0000",
+    "source": "wsj",
+    "headline": "JGBs Mixed; Investors Assess Rising Oil Prices Against Potential U.S.-Iran Talks",
+    "link": "https://www.wsj.com/finance/investing/jgbs-mixed-investors-assess-rising-oil-prices-against-potential-u-s-iran-talks-89da1346?mod=rss_markets_main"
   },
   {
-    "score": 7,
-    "pubdate": "2026-03-25-23-02-43 +0000",
-    "source": "startribune",
-    "headline": "Live: Blake, Pequot Lakes square off in quarterfinals",
-    "link": "https://www.startribune.com/minnesota-boys-basketball-state-tournament-live-scores-and-updates-class-3a-2a-williams-arena/601599352"
+    "score": 8,
+    "pubdate": "2026-03-26-01-11-07 +0000",
+    "source": "nypost",
+    "headline": "LIV Golf sued by Long Island distillery over alleged trademark infringement",
+    "link": "https://nypost.com/2026/03/25/sports/liv-golf-sued-by-li-distillery-over-alleged-trademark-infringement/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-03-26-01-04-57 +0000",
+    "source": "missionlocal",
+    "headline": "Bayview Buzz: Harvard Business School comes to 3rd St.",
+    "link": "https://missionlocal.org/2026/03/bayview-buzz-cafe-melange-yvonnes-harvard-business/"
   }
 ]
