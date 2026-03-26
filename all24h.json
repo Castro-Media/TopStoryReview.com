@@ -13,13 +13,13 @@
   },
   {
     "headline": "Trump Says the Energy Shock Will Be Short-Lived. CEOs Paint a Scarier Picture.",
-    "link": "https://www.wsj.com/business/energy-oil/trump-says-the-energy-shock-will-be-short-lived-ceos-paint-a-scarier-picture-6a6c961b?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-oil/trump-says-the-energy-shock-will-be-short-lived-ceos-paint-a-scarier-picture-6a6c961b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-26-03-23-00 +0000"
   },
   {
     "headline": "Trump Says the Energy Shock Will Be Short-Lived. CEOs Paint a Scarier Picture.",
-    "link": "https://www.wsj.com/business/energy-oil/trump-says-the-energy-shock-will-be-short-lived-ceos-paint-a-scarier-picture-6a6c961b?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-oil/trump-says-the-energy-shock-will-be-short-lived-ceos-paint-a-scarier-picture-6a6c961b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-26-03-23-00 +0000"
   },
@@ -187,13 +187,13 @@
   },
   {
     "headline": "As Bombs Rain Down, U.S. Firms Press Ahead With Gulf Expansion",
-    "link": "https://www.wsj.com/business/as-bombs-rain-down-u-s-firms-press-ahead-with-gulf-expansion-d4fb6cf9?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/as-bombs-rain-down-u-s-firms-press-ahead-with-gulf-expansion-d4fb6cf9",
     "source": "wsj",
     "pubdate": "2026-03-26-02-00-00 +0000"
   },
   {
     "headline": "As Bombs Rain Down, U.S. Firms Press Ahead With Gulf Expansion",
-    "link": "https://www.wsj.com/business/as-bombs-rain-down-u-s-firms-press-ahead-with-gulf-expansion-d4fb6cf9",
+    "link": "https://www.wsj.com/business/as-bombs-rain-down-u-s-firms-press-ahead-with-gulf-expansion-d4fb6cf9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-26-02-00-00 +0000"
   },
@@ -205,13 +205,13 @@
   },
   {
     "headline": "Postal Service to Impose Its First-Ever Fuel Surcharge on Packages",
-    "link": "https://www.wsj.com/us-news/postal-service-to-impose-first-ever-fuel-surcharge-on-packages-73b5e0fd?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/us-news/postal-service-to-impose-first-ever-fuel-surcharge-on-packages-73b5e0fd",
     "source": "wsj",
     "pubdate": "2026-03-26-01-50-00 +0000"
   },
   {
     "headline": "Postal Service to Impose Its First-Ever Fuel Surcharge on Packages",
-    "link": "https://www.wsj.com/us-news/postal-service-to-impose-first-ever-fuel-surcharge-on-packages-73b5e0fd",
+    "link": "https://www.wsj.com/us-news/postal-service-to-impose-first-ever-fuel-surcharge-on-packages-73b5e0fd?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-26-01-50-00 +0000"
   },
@@ -312,6 +312,12 @@
     "pubdate": "2026-03-26-01-04-57 +0000"
   },
   {
+    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
+    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b",
+    "source": "wsj",
+    "pubdate": "2026-03-26-01-00-00 +0000"
+  },
+  {
     "headline": "Trump’s Ambivalence on Taiwan Opens a Historic Opportunity for China",
     "link": "https://www.wsj.com/world/china/trump-taiwan-china-opportunity-e56d8ac8",
     "source": "wsj",
@@ -319,12 +325,6 @@
   },
   {
     "headline": "Trump Tells Aides He Wants Speedy End to Iran War",
-    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b",
-    "source": "wsj",
-    "pubdate": "2026-03-26-01-00-00 +0000"
-  },
-  {
-    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
     "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b",
     "source": "wsj",
     "pubdate": "2026-03-26-01-00-00 +0000"
@@ -618,15 +618,15 @@
     "pubdate": "2026-03-25-22-58-57 +0000"
   },
   {
-    "headline": "U.S. attack on alleged drug boat kills 4 in Caribbean Sea, military says",
-    "link": "https://www.cbc.ca/news/world/us-attack-drug-vessel-caribbean-sea-kills-4-9.7142387?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-03-25-22-58-00 +0000"
-  },
-  {
     "headline": "RBA Warns Global Oil Shock Could Drive Up Inflation Expectations",
     "link": "https://www.wsj.com/economy/central-banking/rba-warns-global-oil-shock-could-drive-up-inflation-expectations-960636d7",
     "source": "wsj",
+    "pubdate": "2026-03-25-22-58-00 +0000"
+  },
+  {
+    "headline": "U.S. attack on alleged drug boat kills 4 in Caribbean Sea, military says",
+    "link": "https://www.cbc.ca/news/world/us-attack-drug-vessel-caribbean-sea-kills-4-9.7142387?cmp=rss",
+    "source": "cbc",
     "pubdate": "2026-03-25-22-58-00 +0000"
   },
   {
@@ -672,8 +672,26 @@
     "pubdate": "2026-03-25-22-29-55 +0000"
   },
   {
-    "headline": "Best Business Debt Consolidation Loans in March 2026",
-    "link": "https://www.wsj.com/buyside/personal-finance/business-loans/business-debt-consolidation-loans?mod=pls_whats_news_us_business_f",
+    "headline": "Cheapest Car Insurance Companies 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/cheapest-car-insurance",
+    "source": "wsj",
+    "pubdate": "2026-03-25-22-29-00 +0000"
+  },
+  {
+    "headline": "Best Pet Insurance Companies of 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/pet-insurance/best-pet-insurance",
+    "source": "wsj",
+    "pubdate": "2026-03-25-22-29-00 +0000"
+  },
+  {
+    "headline": "Best Term Life Insurance Companies of 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/life-insurance/best-term-life-insurance",
+    "source": "wsj",
+    "pubdate": "2026-03-25-22-29-00 +0000"
+  },
+  {
+    "headline": "Best Car Insurance Companies of 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/best-car-insurance",
     "source": "wsj",
     "pubdate": "2026-03-25-22-29-00 +0000"
   },
@@ -696,26 +714,8 @@
     "pubdate": "2026-03-25-22-29-00 +0000"
   },
   {
-    "headline": "Best Car Insurance Companies of 2026",
-    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/best-car-insurance",
-    "source": "wsj",
-    "pubdate": "2026-03-25-22-29-00 +0000"
-  },
-  {
-    "headline": "Cheapest Car Insurance Companies 2026",
-    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/cheapest-car-insurance",
-    "source": "wsj",
-    "pubdate": "2026-03-25-22-29-00 +0000"
-  },
-  {
-    "headline": "Best Pet Insurance Companies of 2026",
-    "link": "https://www.wsj.com/buyside/personal-finance/pet-insurance/best-pet-insurance",
-    "source": "wsj",
-    "pubdate": "2026-03-25-22-29-00 +0000"
-  },
-  {
-    "headline": "Best Term Life Insurance Companies of 2026",
-    "link": "https://www.wsj.com/buyside/personal-finance/life-insurance/best-term-life-insurance",
+    "headline": "Best Business Debt Consolidation Loans in March 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/business-loans/business-debt-consolidation-loans?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-22-29-00 +0000"
   },
@@ -883,17 +883,17 @@
   },
   {
     "headline": "Opinion | Another Supreme Court Knockout",
-    "link": "https://www.wsj.com/opinion/cox-v-sony-copyright-infringement-supreme-court-clarence-thomas-b2cc69cd?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-25-21-41-00 +0000"
-  },
-  {
-    "headline": "Opinion | Another Supreme Court Knockout",
     "link": "https://www.wsj.com/opinion/cox-v-sony-copyright-infringement-supreme-court-clarence-thomas-b2cc69cd",
     "source": "wsj",
     "pubdate": "2026-03-25-21-41-00 +0000"
   },
   {
+    "headline": "Opinion | Another Supreme Court Knockout",
+    "link": "https://www.wsj.com/opinion/cox-v-sony-copyright-infringement-supreme-court-clarence-thomas-b2cc69cd?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-25-21-41-00 +0000"
+  },
+  {
     "headline": "How Kharg Island May Change the Trajectory of the Iran War",
     "link": "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html",
     "source": "nyt",
@@ -907,13 +907,13 @@
   },
   {
     "headline": "Meta and YouTube Found Negligent in Social-Media Addiction Trial",
-    "link": "https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d",
     "source": "wsj",
     "pubdate": "2026-03-25-21-38-00 +0000"
   },
   {
     "headline": "Meta and YouTube Found Negligent in Social-Media Addiction Trial",
-    "link": "https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d",
+    "link": "https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-21-38-00 +0000"
   },
@@ -943,13 +943,13 @@
   },
   {
     "headline": "Supreme Court Limits Liability for Internet Service Providers",
-    "link": "https://www.wsj.com/us-news/law/supreme-court-limits-liability-for-internet-service-providers-0cabcb46?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/us-news/law/supreme-court-limits-liability-for-internet-service-providers-0cabcb46",
     "source": "wsj",
     "pubdate": "2026-03-25-21-29-00 +0000"
   },
   {
     "headline": "Supreme Court Limits Liability for Internet Service Providers",
-    "link": "https://www.wsj.com/us-news/law/supreme-court-limits-liability-for-internet-service-providers-0cabcb46",
+    "link": "https://www.wsj.com/us-news/law/supreme-court-limits-liability-for-internet-service-providers-0cabcb46?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-21-29-00 +0000"
   },
@@ -996,20 +996,20 @@
     "pubdate": "2026-03-25-21-18-55 +0000"
   },
   {
-    "headline": "The Narrow Path to a U.S.‑Iran Deal",
-    "link": "https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-25-21-17-00 +0000"
-  },
-  {
-    "headline": "The Narrow Path to a U.S.‑Iran Deal",
-    "link": "https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d",
-    "source": "wsj",
-    "pubdate": "2026-03-25-21-17-00 +0000"
-  },
-  {
     "headline": "The prospects of a diplomatic deal ending the war between the U.S. and Iran look dim right now. But Middle East veterans say there is a pathway for an agreement if the two sides want to engage.",
     "link": "https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d",
+    "source": "wsj",
+    "pubdate": "2026-03-25-21-17-00 +0000"
+  },
+  {
+    "headline": "The Narrow Path to a U.S.‑Iran Deal",
+    "link": "https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d",
+    "source": "wsj",
+    "pubdate": "2026-03-25-21-17-00 +0000"
+  },
+  {
+    "headline": "The Narrow Path to a U.S.‑Iran Deal",
+    "link": "https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-21-17-00 +0000"
   },
@@ -1068,26 +1068,26 @@
     "pubdate": "2026-03-25-21-06-58 +0000"
   },
   {
-    "headline": "What are the US and Iran's proposals for peace?",
-    "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-25-21-06-26 +0000"
-  },
-  {
     "headline": "Iran's foreign minister says there are no negotiations with US",
     "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-25-21-06-26 +0000"
   },
   {
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6fd296d5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-25-21-01-00 +0000"
+    "headline": "What are the US and Iran's proposals for peace?",
+    "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-25-21-06-26 +0000"
   },
   {
     "headline": "Lawmakers accused each other Wednesday of being too politically timid to strike a deal to end the standoff over U.S. immigration enforcement",
     "link": "https://www.wsj.com/politics/policy/lawmakers-say-political-fears-stand-in-way-of-ice-deal-2e3fcd4c",
+    "source": "wsj",
+    "pubdate": "2026-03-25-21-01-00 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6fd296d5?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-25-21-01-00 +0000"
   },
@@ -1230,14 +1230,8 @@
     "pubdate": "2026-03-25-20-25-35 +0000"
   },
   {
-    "headline": "KKR to Make 15 Times Its Investment With Sale of Data-Center Cooling Business",
-    "link": "https://www.wsj.com/business/deals/kkr-scores-one-of-its-best-bets-with-sale-of-data-center-cooling-business-6c017f92?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-25-20-15-00 +0000"
-  },
-  {
-    "headline": "KKR to Make 15 Times Its Investment With Sale of Data-Center Cooling Business",
-    "link": "https://www.wsj.com/business/deals/kkr-scores-one-of-its-best-bets-with-sale-of-data-center-cooling-business-6c017f92?mod=rss_markets_main",
+    "headline": "Meta and YouTube Lose Landmark Social-Media Addiction Trial",
+    "link": "https://www.wsj.com/tech/meta-and-youtube-lose-landmark-social-media-trial-33e4c5cb",
     "source": "wsj",
     "pubdate": "2026-03-25-20-15-00 +0000"
   },
@@ -1248,8 +1242,14 @@
     "pubdate": "2026-03-25-20-15-00 +0000"
   },
   {
-    "headline": "Meta and YouTube Lose Landmark Social-Media Addiction Trial",
-    "link": "https://www.wsj.com/tech/meta-and-youtube-lose-landmark-social-media-trial-33e4c5cb",
+    "headline": "KKR to Make 15 Times Its Investment With Sale of Data-Center Cooling Business",
+    "link": "https://www.wsj.com/business/deals/kkr-scores-one-of-its-best-bets-with-sale-of-data-center-cooling-business-6c017f92?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-25-20-15-00 +0000"
+  },
+  {
+    "headline": "KKR to Make 15 Times Its Investment With Sale of Data-Center Cooling Business",
+    "link": "https://www.wsj.com/business/deals/kkr-scores-one-of-its-best-bets-with-sale-of-data-center-cooling-business-6c017f92?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-20-15-00 +0000"
   },
@@ -1297,13 +1297,13 @@
   },
   {
     "headline": "Activist Pushes Meineke Owner Driven Brands to Explore a Sale",
-    "link": "https://www.wsj.com/business/deals/activist-pushes-meineke-owner-driven-brands-to-explore-a-sale-a578bb7e?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/deals/activist-pushes-meineke-owner-driven-brands-to-explore-a-sale-a578bb7e?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-25-19-57-00 +0000"
   },
   {
     "headline": "Activist Pushes Meineke Owner Driven Brands to Explore a Sale",
-    "link": "https://www.wsj.com/business/deals/activist-pushes-meineke-owner-driven-brands-to-explore-a-sale-a578bb7e?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/deals/activist-pushes-meineke-owner-driven-brands-to-explore-a-sale-a578bb7e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-19-57-00 +0000"
   },
@@ -1830,14 +1830,14 @@
     "pubdate": "2026-03-25-17-03-57 +0000"
   },
   {
-    "headline": "Federal Reserve Posted Loss of $18.7 Billion in 2025",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370?mod=rss_markets_main",
+    "headline": "The Federal Reserve ran an operating loss of $18.7 billion last year, its third straight year of losses, which stems from unprecedented losses tied to pandemic-era stimulus and subsequent inflation fight.",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370",
     "source": "wsj",
     "pubdate": "2026-03-25-16-59-00 +0000"
   },
   {
-    "headline": "The Federal Reserve ran an operating loss of $18.7 billion last year, its third straight year of losses, which stems from unprecedented losses tied to pandemic-era stimulus and subsequent inflation fight.",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370",
+    "headline": "Federal Reserve Posted Loss of $18.7 Billion in 2025",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-25-16-59-00 +0000"
   },
@@ -1992,9 +1992,9 @@
     "pubdate": "2026-03-25-16-00-08 +0000"
   },
   {
-    "headline": "How the AI Boom Has Transformed the Chip Industry Into a Market Monster",
-    "link": "https://www.wsj.com/tech/how-the-ai-boom-has-transformed-the-chip-industry-into-a-market-monster-24d6a52a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
+    "headline": "Review: Don Quixote at the SF Ballet soars",
+    "link": "https://missionlocal.org/2026/03/review-don-quixote-at-the-sf-ballet-soars/",
+    "source": "missionlocal",
     "pubdate": "2026-03-25-16-00-00 +0000"
   },
   {
@@ -2004,9 +2004,9 @@
     "pubdate": "2026-03-25-16-00-00 +0000"
   },
   {
-    "headline": "Review: Don Quixote at the SF Ballet soars",
-    "link": "https://missionlocal.org/2026/03/review-don-quixote-at-the-sf-ballet-soars/",
-    "source": "missionlocal",
+    "headline": "How the AI Boom Has Transformed the Chip Industry Into a Market Monster",
+    "link": "https://www.wsj.com/tech/how-the-ai-boom-has-transformed-the-chip-industry-into-a-market-monster-24d6a52a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
     "pubdate": "2026-03-25-16-00-00 +0000"
   },
   {
@@ -2034,13 +2034,13 @@
     "pubdate": "2026-03-25-15-52-19 +0000"
   },
   {
-    "headline": "'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC",
+    "headline": "'Men need to be perp-walked' after Epstein files release, Massie tells BBC",
     "link": "https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-25-15-47-48 +0000"
   },
   {
-    "headline": "'Men need to be perp-walked' after Epstein files release, Massie tells BBC",
+    "headline": "'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC",
     "link": "https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-25-15-47-48 +0000"
@@ -2196,14 +2196,14 @@
     "pubdate": "2026-03-25-15-00-07 +0000"
   },
   {
-    "headline": "Moats, or Castles in the Air?",
-    "link": "https://www.wsj.com/finance/investing/moats-or-castles-in-the-air-c6de3e56?mod=rss_markets_main",
+    "headline": "Is the U.S. Repeating the Mistakes That Led to Forever Wars?",
+    "link": "https://www.wsj.com/world/middle-east/iran-war-iraq-pitfalls-277de612",
     "source": "wsj",
     "pubdate": "2026-03-25-15-00-00 +0000"
   },
   {
-    "headline": "Is the U.S. Repeating the Mistakes That Led to Forever Wars?",
-    "link": "https://www.wsj.com/world/middle-east/iran-war-iraq-pitfalls-277de612",
+    "headline": "Moats, or Castles in the Air?",
+    "link": "https://www.wsj.com/finance/investing/moats-or-castles-in-the-air-c6de3e56?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-03-25-15-00-00 +0000"
   },
@@ -2256,14 +2256,14 @@
     "pubdate": "2026-03-25-14-30-21 +0000"
   },
   {
-    "headline": "Trump Names Mark Zuckerberg, Larry Ellison and Jensen Huang to Tech Panel",
-    "link": "https://www.wsj.com/politics/policy/trump-to-name-mark-zuckerberg-larry-ellison-and-jensen-huang-to-tech-panel-ded1ec6f?mod=pls_whats_news_us_business_f",
+    "headline": "Trump plans to install some of the biggest names in tech—including Mark Zuckerberg, Larry Ellison and Jensen Huang—to his technology council to weigh in on AI policy",
+    "link": "https://www.wsj.com/politics/policy/trump-to-name-mark-zuckerberg-larry-ellison-and-jensen-huang-to-tech-panel-ded1ec6f",
     "source": "wsj",
     "pubdate": "2026-03-25-14-19-00 +0000"
   },
   {
-    "headline": "Trump plans to install some of the biggest names in tech—including Mark Zuckerberg, Larry Ellison and Jensen Huang—to his technology council to weigh in on AI policy",
-    "link": "https://www.wsj.com/politics/policy/trump-to-name-mark-zuckerberg-larry-ellison-and-jensen-huang-to-tech-panel-ded1ec6f",
+    "headline": "Trump Names Mark Zuckerberg, Larry Ellison and Jensen Huang to Tech Panel",
+    "link": "https://www.wsj.com/politics/policy/trump-to-name-mark-zuckerberg-larry-ellison-and-jensen-huang-to-tech-panel-ded1ec6f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-14-19-00 +0000"
   },
@@ -2292,9 +2292,9 @@
     "pubdate": "2026-03-25-14-05-11 +0000"
   },
   {
-    "headline": "The World’s Energy Safety Net Is Buckling",
-    "link": "https://www.wsj.com/finance/commodities-futures/the-worlds-energy-safety-net-is-buckling-32812bc9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
+    "headline": "Hidden from sight: New analysis shows half of local ICE arrests happened behind closed doors",
+    "link": "https://missionlocal.org/2026/03/sf-ice-data-arrests-breakdown-check-ins/",
+    "source": "missionlocal",
     "pubdate": "2026-03-25-14-00-00 +0000"
   },
   {
@@ -2304,9 +2304,9 @@
     "pubdate": "2026-03-25-14-00-00 +0000"
   },
   {
-    "headline": "Hidden from sight: New analysis shows half of local ICE arrests happened behind closed doors",
-    "link": "https://missionlocal.org/2026/03/sf-ice-data-arrests-breakdown-check-ins/",
-    "source": "missionlocal",
+    "headline": "The World’s Energy Safety Net Is Buckling",
+    "link": "https://www.wsj.com/finance/commodities-futures/the-worlds-energy-safety-net-is-buckling-32812bc9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
     "pubdate": "2026-03-25-14-00-00 +0000"
   },
   {
@@ -2394,14 +2394,14 @@
     "pubdate": "2026-03-25-13-21-42 +0000"
   },
   {
-    "headline": "Beretta Seeks Larger Stake in Sturm Ruger Amid Dispute",
-    "link": "https://www.wsj.com/business/beretta-seeks-larger-stake-in-sturm-ruger-amid-dispute-fea6b087?mod=pls_whats_news_us_business_f",
+    "headline": "Best High-Yield Savings Accounts for March 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
     "source": "wsj",
     "pubdate": "2026-03-25-13-17-00 +0000"
   },
   {
-    "headline": "Best High-Yield Savings Accounts for March 2026: Up to 5.00%",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
+    "headline": "Beretta Seeks Larger Stake in Sturm Ruger Amid Dispute",
+    "link": "https://www.wsj.com/business/beretta-seeks-larger-stake-in-sturm-ruger-amid-dispute-fea6b087?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-13-17-00 +0000"
   },
@@ -2622,15 +2622,15 @@
     "pubdate": "2026-03-25-11-06-41 +0000"
   },
   {
-    "headline": "Domain Capital Raises $768 Million Fund to Tap Surging Entertainment Demand",
-    "link": "https://www.wsj.com/articles/domain-capital-raises-768-million-fund-to-tap-surging-entertainment-demand-2bd8461e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-25-11-00-00 +0000"
-  },
-  {
     "headline": "Sunset on Sunday Streets? S.F. cuts funds from 18-year-old street fair",
     "link": "https://missionlocal.org/2026/03/sunday-streets-cut-department-public-health/",
     "source": "missionlocal",
+    "pubdate": "2026-03-25-11-00-00 +0000"
+  },
+  {
+    "headline": "Domain Capital Raises $768 Million Fund to Tap Surging Entertainment Demand",
+    "link": "https://www.wsj.com/articles/domain-capital-raises-768-million-fund-to-tap-surging-entertainment-demand-2bd8461e?mod=rss_markets_main",
+    "source": "wsj",
     "pubdate": "2026-03-25-11-00-00 +0000"
   },
   {
@@ -2700,6 +2700,12 @@
     "pubdate": "2026-03-25-10-20-00 +0000"
   },
   {
+    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
+    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis",
+    "source": "latimes",
+    "pubdate": "2026-03-25-10-00-00 +0000"
+  },
+  {
     "headline": "Hiltzik: Here are all the good things we could buy for the billions Trump is spending on his Iran war",
     "link": "https://www.latimes.com/business/story/2026-03-25/here-are-all-good-things-we-could-buy-for-billions-being-spent-on-trumps-iran-war",
     "source": "latimes",
@@ -2726,12 +2732,6 @@
   {
     "headline": "$8.71 a gallon? Welcome to L.A.'s most infamous gas station",
     "link": "https://www.latimes.com/california/story/2026-03-25/fuel-prices-are-surging-la-gas-station",
-    "source": "latimes",
-    "pubdate": "2026-03-25-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
-    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis",
     "source": "latimes",
     "pubdate": "2026-03-25-10-00-00 +0000"
   },
@@ -2784,21 +2784,21 @@
     "pubdate": "2026-03-25-09-35-50 +0000"
   },
   {
-    "headline": "The Company Where Driving the Wrong Car to Work Can Get You a Ticket",
-    "link": "https://www.wsj.com/business/autos/the-company-where-driving-the-wrong-car-to-work-can-get-you-a-ticket-4ec9833a?mod=pls_whats_news_us_business_f",
+    "headline": "Nearly six weeks after “Operation Metro Surge” ended in Minneapolis, most shops and taquerias along a stretch of East Lake Street are back—but many of their customers aren’t",
+    "link": "https://www.wsj.com/us-news/iice-minneapolis-minnesota-economic-impact-38f1ef1a",
     "source": "wsj",
     "pubdate": "2026-03-25-09-30-00 +0000"
   },
   {
-    "headline": "There’s One Clear Winner From the Long TSA Wait Times at Airports",
-    "link": "https://www.wsj.com/business/airlines/clear-tsa-lines-dhs-shutdown-da62b85d?mod=pls_whats_news_us_business_f",
+    "headline": "ICE Has Left Minneapolis. The Economic Hangover Hasn’t.",
+    "link": "https://www.wsj.com/us-news/iice-minneapolis-minnesota-economic-impact-38f1ef1a",
     "source": "wsj",
     "pubdate": "2026-03-25-09-30-00 +0000"
   },
   {
-    "headline": "There’s One Clear Winner From the Long TSA Wait Times at Airports",
-    "link": "https://www.wsj.com/business/airlines/clear-tsa-lines-dhs-shutdown-da62b85d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
+    "headline": "Certain oil tankers are safely transiting the Strait of Hormuz — here’s how",
+    "link": "https://nypost.com/2026/03/25/world-news/certain-oil-tankers-are-making-it-safely-through-strait-of-hormuz-heres-how/",
+    "source": "nypost",
     "pubdate": "2026-03-25-09-30-00 +0000"
   },
   {
@@ -2814,20 +2814,20 @@
     "pubdate": "2026-03-25-09-30-00 +0000"
   },
   {
-    "headline": "Certain oil tankers are safely transiting the Strait of Hormuz — here’s how",
-    "link": "https://nypost.com/2026/03/25/world-news/certain-oil-tankers-are-making-it-safely-through-strait-of-hormuz-heres-how/",
-    "source": "nypost",
-    "pubdate": "2026-03-25-09-30-00 +0000"
-  },
-  {
-    "headline": "Nearly six weeks after “Operation Metro Surge” ended in Minneapolis, most shops and taquerias along a stretch of East Lake Street are back—but many of their customers aren’t",
-    "link": "https://www.wsj.com/us-news/iice-minneapolis-minnesota-economic-impact-38f1ef1a",
+    "headline": "The Company Where Driving the Wrong Car to Work Can Get You a Ticket",
+    "link": "https://www.wsj.com/business/autos/the-company-where-driving-the-wrong-car-to-work-can-get-you-a-ticket-4ec9833a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-09-30-00 +0000"
   },
   {
-    "headline": "ICE Has Left Minneapolis. The Economic Hangover Hasn’t.",
-    "link": "https://www.wsj.com/us-news/iice-minneapolis-minnesota-economic-impact-38f1ef1a",
+    "headline": "There’s One Clear Winner From the Long TSA Wait Times at Airports",
+    "link": "https://www.wsj.com/business/airlines/clear-tsa-lines-dhs-shutdown-da62b85d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-25-09-30-00 +0000"
+  },
+  {
+    "headline": "There’s One Clear Winner From the Long TSA Wait Times at Airports",
+    "link": "https://www.wsj.com/business/airlines/clear-tsa-lines-dhs-shutdown-da62b85d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-25-09-30-00 +0000"
   },
@@ -2958,8 +2958,8 @@
     "pubdate": "2026-03-25-08-10-00 +0000"
   },
   {
-    "headline": "Plane crash investigators held up by airport delays as partial U.S. shutdown continues",
-    "link": "https://www.cbc.ca/news/canada/investigators-delayed-us-shutdown-airports-9.7140874?cmp=rss",
+    "headline": "Sponsored international travel by MPs drops to 15-year low outside of COVID-19 pandemic",
+    "link": "https://www.cbc.ca/news/politics/members-parliament-sponsored-travel-9.7140842?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-03-25-08-00-00 +0000"
   },
@@ -2970,8 +2970,8 @@
     "pubdate": "2026-03-25-08-00-00 +0000"
   },
   {
-    "headline": "Sponsored international travel by MPs drops to 15-year low outside of COVID-19 pandemic",
-    "link": "https://www.cbc.ca/news/politics/members-parliament-sponsored-travel-9.7140842?cmp=rss",
+    "headline": "Plane crash investigators held up by airport delays as partial U.S. shutdown continues",
+    "link": "https://www.cbc.ca/news/canada/investigators-delayed-us-shutdown-airports-9.7140874?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-03-25-08-00-00 +0000"
   },
@@ -3082,59 +3082,5 @@
     "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-25-04-48-56 +0000"
-  },
-  {
-    "headline": "SF is towing more RVs than providing housing, leaving many on the streets",
-    "link": "https://eltecolote.org/content/en/sf-rv-permit-homelessness-impacts/",
-    "source": "eltecolote",
-    "pubdate": "2026-03-25-04-35-06 +0000"
-  },
-  {
-    "headline": "After Standing Up to Trump Over Greenland, Denmark’s Prime Minister Leads in Election",
-    "link": "https://www.nytimes.com/2026/03/24/world/europe/denmark-elections-mette-frederiksen.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-04-27-37 +0000"
-  },
-  {
-    "headline": "After Standing Up to Trump Over Greenland, Denmark’s Prime Minister Leads in Election",
-    "link": "https://www.nytimes.com/2026/03/24/world/europe/denmark-elections-mette-frederiksen.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-04-27-37 +0000"
-  },
-  {
-    "headline": "Gambia Says the Island Is Cursed. Migrants Saw an Opportunity.",
-    "link": "https://www.nytimes.com/2026/03/25/world/africa/gambia-migrants-cursed-island.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-04-15-12 +0000"
-  },
-  {
-    "headline": "Gambia Says the Island Is Cursed. Migrants Saw an Opportunity.",
-    "link": "https://www.nytimes.com/2026/03/25/world/africa/gambia-migrants-cursed-island.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-04-15-12 +0000"
-  },
-  {
-    "headline": "Meta Targets $9 Trillion Valuation With New Executive Incentive Program",
-    "link": "https://www.wsj.com/tech/meta-targets-9-trillion-valuation-with-new-executive-incentive-program-64460862?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-25-04-11-00 +0000"
-  },
-  {
-    "headline": "Meta Targets $9 Trillion Valuation With New Executive Incentive Program",
-    "link": "https://www.wsj.com/tech/meta-targets-9-trillion-valuation-with-new-executive-incentive-program-64460862?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-03-25-04-11-00 +0000"
-  },
-  {
-    "headline": "A Missile Fragment in a Schoolyard",
-    "link": "https://www.nytimes.com/2026/03/25/world/europe/iran-missile-photograph-israeli-settlement-school.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-04-01-12 +0000"
-  },
-  {
-    "headline": "A Missile Fragment in a Schoolyard",
-    "link": "https://www.nytimes.com/2026/03/25/world/europe/iran-missile-photograph-israeli-settlement-school.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-04-01-12 +0000"
   }
 ]
