@@ -1,20 +1,20 @@
 [
   {
-    "score": 516,
+    "score": 514,
     "pubdate": "2026-03-25-20-27-51 +0000",
     "source": "nyt",
     "headline": "Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.",
     "link": "https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html"
   },
   {
-    "score": 250,
-    "pubdate": "2026-03-25-21-17-00 +0000",
+    "score": 264,
+    "pubdate": "2026-03-26-09-15-00 +0000",
     "source": "wsj",
-    "headline": "The prospects of a diplomatic deal ending the war between the U.S. and Iran look dim right now. But Middle East veterans say there is a pathway for an agreement if the two sides want to engage.",
-    "link": "https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d"
+    "headline": "High Energy Prices Could be Long-Lasting as Middle East War Continues",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-lingering-risks-of-prolonged-u-s-iran-war-1b23b08e?mod=rss_markets_main"
   },
   {
-    "score": 190,
+    "score": 181,
     "pubdate": "2026-03-23-16-26-19 +0000",
     "source": "latimes",
     "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
@@ -22,51 +22,51 @@
   },
   {
     "score": 142,
+    "pubdate": "2026-03-25-18-51-49 +0000",
+    "source": "cbc",
+    "headline": "Jury in Los Angeles finds Meta and YouTube liable in landmark social media addiction trial",
+    "link": "https://www.cbc.ca/news/world/social-media-trial-la-9.7141920?cmp=rss"
+  },
+  {
+    "score": 135,
     "pubdate": "2026-03-22-09-30-00 +0000",
     "source": "wsj",
     "headline": "Young people, who are just starting their careers, are trying to figure out which professions will insulate them from AI’s impact—or what jobs will benefit from it",
     "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
   },
   {
-    "score": 141,
-    "pubdate": "2026-03-25-17-06-24 +0000",
-    "source": "nypost",
-    "headline": "Meta, YouTube found liable for woman’s debilitating social media addiction in $3M landmark trial",
-    "link": "https://nypost.com/2026/03/25/us-news/jury-takes-on-instagram-and-youtube-in-social-media-showdown/"
-  },
-  {
-    "score": 140,
-    "pubdate": "2026-03-25-13-27-50 +0000",
-    "source": "bbc",
-    "headline": "UK inflation rate stays at 3% before Iran war hits oil prices",
-    "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 139,
-    "pubdate": "2026-03-23-10-00-00 +0000",
+    "score": 130,
+    "pubdate": "2026-03-25-10-00-00 +0000",
     "source": "latimes",
-    "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
-    "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts"
+    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
+    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis"
   },
   {
-    "score": 125,
+    "score": 126,
     "pubdate": "2026-03-26-07-17-28 +0000",
     "source": "nypost",
     "headline": "Canadian Prime Minister Mark Carney slams Air Canada CEO for English-only remarks after LaGuardia crash",
     "link": "https://nypost.com/2026/03/26/us-news/canadian-prime-minister-mark-carney-slams-air-canada-ceo-for-english-only-remarks-after-laguardia-crash/"
   },
   {
-    "score": 122,
-    "pubdate": "2026-03-24-21-56-00 +0000",
+    "score": 113,
+    "pubdate": "2026-03-25-16-59-00 +0000",
     "source": "wsj",
-    "headline": "GOP senators have made an offer to Democrats to fund DHS and end the TSA staffing woes that have led to long lines at airport security",
-    "link": "https://www.wsj.com/politics/policy/gop-senators-make-offer-to-fund-dhs-end-tsa-staffing-woes-07f3a4e3"
+    "headline": "The Federal Reserve ran an operating loss of $18.7 billion last year, its third straight year of losses, which stems from unprecedented losses tied to pandemic-era stimulus and subsequent inflation fight.",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370"
   },
   {
-    "score": 110,
-    "pubdate": "2026-03-25-20-50-44 +0000",
-    "source": "nypost",
-    "headline": "Kristi Noem keeps her lover Corey Lewandowski close by her side for first appearance in new job after she was fired at DHS",
-    "link": "https://nypost.com/2026/03/25/us-news/kristi-noem-keeps-corey-lewandowski-close-by-in-one-of-her-last-appearances-as-dhs-secretary/"
+    "score": 108,
+    "pubdate": "2026-03-25-21-01-00 +0000",
+    "source": "wsj",
+    "headline": "Lawmakers accused each other Wednesday of being too politically timid to strike a deal to end the standoff over U.S. immigration enforcement",
+    "link": "https://www.wsj.com/politics/policy/lawmakers-say-political-fears-stand-in-way-of-ice-deal-2e3fcd4c"
+  },
+  {
+    "score": 104,
+    "pubdate": "2026-03-25-23-25-28 +0000",
+    "source": "nyt",
+    "headline": "Homeland Security Talks Hit Snag as Democrats Demand ICE Restrictions",
+    "link": "https://www.nytimes.com/2026/03/25/us/politics/homeland-security-shutdown-republicans-congress.html"
   }
 ]
