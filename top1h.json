@@ -1,55 +1,20 @@
 [
   {
-    "score": 48,
-    "pubdate": "2026-03-26-19-14-12 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Delivers New Threats, Escalating Effort to Pressure Iran",
-    "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-03-26-18-49-46 +0000",
-    "source": "bbc",
-    "headline": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
-    "link": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 27,
+    "score": 21,
     "pubdate": "2026-03-26-19-12-00 +0000",
     "source": "wsj",
     "headline": "Several Senate Republicans are pressing the White House to declare a national emergency to free up money to pay Transportation Security Administration agents if lawmakers fail to reach a deal",
     "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
   },
   {
-    "score": 24,
-    "pubdate": "2026-03-26-18-24-13 +0000",
-    "source": "bbc",
-    "headline": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
-    "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss"
+    "score": 18,
+    "pubdate": "2026-03-26-19-14-12 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump Delivers New Threats, Escalating Effort to Pressure Iran",
+    "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil"
   },
   {
-    "score": 23,
-    "pubdate": "2026-03-26-18-52-16 +0000",
-    "source": "nypost",
-    "headline": "Iran wants to charge ships for safe passage through Strait of Hormuz as blockade sends oil above $100: report",
-    "link": "https://nypost.com/2026/03/26/business/iran-wants-to-charge-ships-for-safe-travel-through-strait-of-hormuz-as-blockade-sends-oil-above-100-report/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-03-26-18-37-44 +0000",
-    "source": "nypost",
-    "headline": "Long Island plane that crash landed in frozen Hudson River ‘lost total power’ before miracle landing: NTSB",
-    "link": "https://nypost.com/2026/03/26/us-news/long-island-plane-that-crash-landed-in-frozen-hudson-river-lost-total-power-before-miracle-landing-ntsb/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-03-26-19-05-04 +0000",
-    "source": "nypost",
-    "headline": "DOJ launches investigation of trans prisoners in California, Maine",
-    "link": "https://nypost.com/2026/03/26/us-news/doj-launches-investigation-of-trans-prisoners-in-california/"
-  },
-  {
-    "score": 15,
+    "score": 14,
     "pubdate": "2026-03-26-19-05-32 +0000",
     "source": "nyt",
     "headline": "At Non-TSA Airports, Wait Times Are Minutes, Not Hours",
@@ -57,16 +22,51 @@
   },
   {
     "score": 14,
-    "pubdate": "2026-03-26-18-32-00 +0000",
-    "source": "wsj",
-    "headline": "Maduro’s Lawyer Says He Won’t Get Fair Trial Without Money to Pay Legal Bills",
-    "link": "https://www.wsj.com/world/americas/maduros-lawyer-says-he-wont-get-fair-trial-without-money-to-pay-legal-bills-553aa3df"
+    "pubdate": "2026-03-26-19-05-04 +0000",
+    "source": "nypost",
+    "headline": "DOJ launches investigation of trans prisoners in California, Maine",
+    "link": "https://nypost.com/2026/03/26/us-news/doj-launches-investigation-of-trans-prisoners-in-california/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-03-26-18-54-24 +0000",
-    "source": "nypost",
-    "headline": "Nearly 10% of rent-stabilized NYC buildings are run down — as new Mamdani board set to pass freeze",
-    "link": "https://nypost.com/2026/03/26/us-news/nearly-10-of-rent-stabilized-nyc-buildings-are-run-down-as-new-mamdani-board-set-to-pass-freeze/"
+    "score": 10,
+    "pubdate": "2026-03-26-19-04-27 +0000",
+    "source": "startribune",
+    "headline": "Live: Hills-Beaver Creek has second-half lead on Southland; DeLaSalle, Richfield prepare for rematch",
+    "link": "https://www.startribune.com/minnesota-boys-basketball-state-tournament-live-scores-and-updates-class-4a-3a-1a/601599345"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-26-19-07-26 +0000",
+    "source": "startribune",
+    "headline": "Live from Baltimore: Twins, Orioles square off in season opener at Camden Yards",
+    "link": "https://www.startribune.com/live-from-baltimore-twins-orioles-square-off-in-season-opener-at-camden-yards/601588473"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-26-19-06-00 +0000",
+    "source": "wsj",
+    "headline": "FTC Issues Warnings to Payment Processors Against ‘Debanking’",
+    "link": "https://www.wsj.com/finance/regulation/ftc-issues-warnings-to-payment-processors-against-debanking-6a11c197?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-26-19-10-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Natural Gas Futures Gain After Inventory Draw",
+    "link": "https://www.wsj.com/articles/european-gas-prices-rise-as-u-s-iran-talks-uncertainty-fuels-supply-concerns-065b14a4?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-26-19-03-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | ‘What $136 Trillion Looks Like in Your Living Room’",
+    "link": "https://www.wsj.com/opinion/what-136-trillion-looks-like-in-your-living-room-1392004a?mod=rss_markets_main"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-03-26-19-12-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Gains With Market Cautious About U.S.-Iran Talks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-lingering-risks-of-prolonged-u-s-iran-war-1b23b08e?mod=rss_markets_main"
   }
 ]
