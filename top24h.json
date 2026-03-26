@@ -1,27 +1,27 @@
 [
   {
-    "score": 354,
+    "score": 348,
     "pubdate": "2026-03-26-16-08-53 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Mixes Diplomacy and Threats in Effort to Pressure Iran",
     "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil"
   },
   {
-    "score": 95,
-    "pubdate": "2026-03-25-17-06-24 +0000",
-    "source": "nypost",
-    "headline": "Meta, YouTube found liable for woman’s debilitating social media addiction in $3M landmark trial",
-    "link": "https://nypost.com/2026/03/25/us-news/jury-takes-on-instagram-and-youtube-in-social-media-showdown/"
+    "score": 85,
+    "pubdate": "2026-03-25-18-51-49 +0000",
+    "source": "cbc",
+    "headline": "Jury in Los Angeles finds Meta and YouTube liable in landmark social media addiction trial",
+    "link": "https://www.cbc.ca/news/world/social-media-trial-la-9.7141920?cmp=rss"
   },
   {
-    "score": 86,
+    "score": 84,
     "pubdate": "2026-03-25-21-17-00 +0000",
     "source": "wsj",
     "headline": "The prospects of a diplomatic deal ending the war between the U.S. and Iran look dim right now. But Middle East veterans say there is a pathway for an agreement if the two sides want to engage.",
     "link": "https://www.wsj.com/world/middle-east/the-narrow-path-to-a-u-s-iran-deal-96ceef5d"
   },
   {
-    "score": 84,
+    "score": 78,
     "pubdate": "2026-03-25-20-50-44 +0000",
     "source": "nypost",
     "headline": "Kristi Noem keeps her lover Corey Lewandowski close by her side for first appearance in new job after she was fired at DHS",
@@ -35,21 +35,14 @@
     "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
   },
   {
-    "score": 70,
-    "pubdate": "2026-03-25-16-59-00 +0000",
-    "source": "wsj",
-    "headline": "The Federal Reserve ran an operating loss of $18.7 billion last year, its third straight year of losses, which stems from unprecedented losses tied to pandemic-era stimulus and subsequent inflation fight.",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370"
-  },
-  {
-    "score": 65,
+    "score": 64,
     "pubdate": "2026-03-26-11-27-02 +0000",
     "source": "nypost",
     "headline": "Trump warns Iran to ‘get serious’ about peace talks ‘before it is too late’ as Pentagon readies ‘final blow’ to regime",
     "link": "https://nypost.com/2026/03/26/us-news/trump-warns-iran-to-get-serious-about-peace-talks-before-it-is-too-late/"
   },
   {
-    "score": 64,
+    "score": 61,
     "pubdate": "2026-03-26-12-06-06 +0000",
     "source": "nypost",
     "headline": "Venezuelan dictator Nicolás Maduro heads to NYC court for first time since stunning arrest on drug-trafficking charges",
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "UK forecast to see biggest hit to growth from Iran war out of major economies",
     "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-03-26-13-36-56 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Go Higher and Global Stocks Fall",
+    "link": "https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html"
   }
 ]
