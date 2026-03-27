@@ -1,34 +1,48 @@
 [
   {
-    "score": 352,
-    "pubdate": "2026-03-27-04-02-14 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid",
-    "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil"
-  },
-  {
-    "score": 95,
-    "pubdate": "2026-03-27-03-33-00 +0000",
+    "score": 312,
+    "pubdate": "2026-03-26-16-18-00 +0000",
     "source": "wsj",
-    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
-    "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
+    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
+    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
   },
   {
-    "score": 94,
+    "score": 96,
     "pubdate": "2026-03-26-14-05-29 +0000",
     "source": "nypost",
     "headline": "Gang-rape victim, 25, whose suicide attempt left her paralyzed, will die by euthanasia after yearslong court battle",
     "link": "https://nypost.com/2026/03/26/world-news/gang-rape-victim-noelia-castillo-whose-suicide-attempt-left-her-paralyzed-will-die-by-euthanasia-after-yearslong-court-battle/"
   },
   {
-    "score": 77,
+    "score": 76,
     "pubdate": "2026-03-26-09-37-57 +0000",
     "source": "bbc",
     "headline": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
     "link": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 74,
+    "pubdate": "2026-03-27-03-33-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
+    "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
+  },
+  {
     "score": 71,
+    "pubdate": "2026-03-26-18-52-16 +0000",
+    "source": "nypost",
+    "headline": "Iran wants to charge ships for safe passage through Strait of Hormuz as blockade sends oil above $100: report",
+    "link": "https://nypost.com/2026/03/26/business/iran-wants-to-charge-ships-for-safe-travel-through-strait-of-hormuz-as-blockade-sends-oil-above-100-report/"
+  },
+  {
+    "score": 66,
+    "pubdate": "2026-03-27-00-11-00 +0000",
+    "source": "wsj",
+    "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
+    "link": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351"
+  },
+  {
+    "score": 65,
     "pubdate": "2026-03-26-13-24-00 +0000",
     "source": "wsj",
     "headline": "Lawmakers accused each other Wednesday of being too politically timid to strike a deal to end the standoff over U.S. immigration enforcement",
@@ -36,13 +50,6 @@
   },
   {
     "score": 59,
-    "pubdate": "2026-03-27-00-11-00 +0000",
-    "source": "wsj",
-    "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
-    "link": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351"
-  },
-  {
-    "score": 55,
     "pubdate": "2026-03-26-17-50-51 +0000",
     "source": "wapo",
     "headline": "Pentagon considers diverting Ukraine military aid to the Middle East",
@@ -50,23 +57,16 @@
   },
   {
     "score": 55,
-    "pubdate": "2026-03-27-00-38-06 +0000",
-    "source": "nypost",
-    "headline": "Savannah Guthrie gives these new clues about what was found at missing mother Nancy’s home: ‘This is not OK’",
-    "link": "https://nypost.com/2026/03/26/us-news/savannah-guthrie-gives-these-new-clues-about-what-was-found-at-missing-mother-nancys-home-this-is-not-ok/"
-  },
-  {
-    "score": 54,
     "pubdate": "2026-03-26-09-40-00 +0000",
     "source": "wsj",
     "headline": "Norges Bank Expects to Lift Borrowing Costs This Year as Energy Prices Stoke Inflation",
     "link": "https://www.wsj.com/articles/norges-bank-expects-to-lift-borrowing-costs-this-year-as-energy-prices-stoke-inflation-414edc3a"
   },
   {
-    "score": 53,
-    "pubdate": "2026-03-26-18-52-16 +0000",
-    "source": "nypost",
-    "headline": "Iran wants to charge ships for safe passage through Strait of Hormuz as blockade sends oil above $100: report",
-    "link": "https://nypost.com/2026/03/26/business/iran-wants-to-charge-ships-for-safe-travel-through-strait-of-hormuz-as-blockade-sends-oil-above-100-report/"
+    "score": 52,
+    "pubdate": "2026-03-26-12-56-33 +0000",
+    "source": "bbc",
+    "headline": "UK forecast to see biggest hit to growth from Iran war out of major economies",
+    "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss"
   }
 ]

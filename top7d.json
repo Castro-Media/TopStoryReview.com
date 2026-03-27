@@ -1,13 +1,20 @@
 [
   {
-    "score": 649,
-    "pubdate": "2026-03-27-04-02-14 +0000",
+    "score": 570,
+    "pubdate": "2026-03-25-20-27-51 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid",
-    "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil"
+    "headline": "Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.",
+    "link": "https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html"
   },
   {
-    "score": 172,
+    "score": 229,
+    "pubdate": "2026-03-25-13-27-50 +0000",
+    "source": "bbc",
+    "headline": "UK inflation rate stays at 3% before Iran war hits oil prices",
+    "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 177,
     "pubdate": "2026-03-24-22-38-22 +0000",
     "source": "latimes",
     "headline": "New Mexico social media lawsuit ends in $375-million verdict against Meta",
@@ -21,25 +28,32 @@
     "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
   },
   {
-    "score": 149,
-    "pubdate": "2026-03-27-03-33-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
-    "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
-  },
-  {
-    "score": 147,
+    "score": 148,
     "pubdate": "2026-03-23-10-00-00 +0000",
     "source": "latimes",
     "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
     "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts"
   },
   {
-    "score": 124,
-    "pubdate": "2026-03-25-13-27-50 +0000",
-    "source": "bbc",
-    "headline": "UK inflation rate stays at 3% before Iran war hits oil prices",
-    "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
+    "score": 128,
+    "pubdate": "2026-03-27-03-33-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
+    "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
+  },
+  {
+    "score": 116,
+    "pubdate": "2026-03-23-16-26-19 +0000",
+    "source": "latimes",
+    "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
+    "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
+  },
+  {
+    "score": 113,
+    "pubdate": "2026-03-26-17-50-51 +0000",
+    "source": "wapo",
+    "headline": "Pentagon considers diverting Ukraine military aid to the Middle East",
+    "link": "https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/"
   },
   {
     "score": 113,
@@ -49,24 +63,10 @@
     "link": "https://www.wsj.com/politics/policy/lawmakers-say-political-fears-stand-in-way-of-ice-deal-2e3fcd4c"
   },
   {
-    "score": 112,
-    "pubdate": "2026-03-23-16-26-19 +0000",
-    "source": "latimes",
-    "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
-    "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
-  },
-  {
-    "score": 109,
-    "pubdate": "2026-03-26-17-50-51 +0000",
-    "source": "wapo",
-    "headline": "Pentagon considers diverting Ukraine military aid to the Middle East",
-    "link": "https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/"
-  },
-  {
     "score": 101,
-    "pubdate": "2026-03-25-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
-    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis"
+    "pubdate": "2026-03-27-00-11-00 +0000",
+    "source": "wsj",
+    "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
+    "link": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351"
   }
 ]
