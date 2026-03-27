@@ -1,6 +1,6 @@
 [
   {
-    "score": 358,
+    "score": 350,
     "pubdate": "2026-03-27-14-59-12 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Israel and Iran Exchange Fire as Trump Claims Progress in Talks",
@@ -14,28 +14,28 @@
     "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
   },
   {
-    "score": 93,
+    "score": 92,
     "pubdate": "2026-03-27-09-01-44 +0000",
     "source": "nyt",
     "headline": "Will ICE Change Under Its New Leader?",
     "link": "https://www.nytimes.com/video/us/politics/100000010793141/will-ice-change-under-its-new-leader.html"
   },
   {
-    "score": 88,
+    "score": 87,
     "pubdate": "2026-03-27-06-40-44 +0000",
     "source": "nypost",
     "headline": "End to airport misery in sight as Senate approves deal to end DHS shutdown — without Dem immigration demands",
     "link": "https://nypost.com/2026/03/27/us-news/senate-advances-dhs-funding-in-last-minute-deal-nearing-end-to-shutdown/"
   },
   {
-    "score": 84,
+    "score": 76,
     "pubdate": "2026-03-26-18-52-16 +0000",
     "source": "nypost",
     "headline": "Iran wants to charge ships for safe passage through Strait of Hormuz as blockade sends oil above $100: report",
     "link": "https://nypost.com/2026/03/26/business/iran-wants-to-charge-ships-for-safe-travel-through-strait-of-hormuz-as-blockade-sends-oil-above-100-report/"
   },
   {
-    "score": 62,
+    "score": 61,
     "pubdate": "2026-03-27-00-11-00 +0000",
     "source": "wsj",
     "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
@@ -49,13 +49,6 @@
     "link": "https://nypost.com/2026/03/27/us-news/nj-teacher-accused-of-having-sex-with-student-in-classroom-posted-sappy-social-media-pic/"
   },
   {
-    "score": 57,
-    "pubdate": "2026-03-26-15-50-00 +0000",
-    "source": "wsj",
-    "headline": "World governments were buried in public debt of more than $100 trillion when the Iran war began—and it’s limiting their ability to cushion the effects of energy-price shocks",
-    "link": "https://www.wsj.com/economy/global/energy-price-shock-hits-a-world-already-buried-in-debt-9e93e0f0"
-  },
-  {
     "score": 53,
     "pubdate": "2026-03-27-11-00-00 +0000",
     "source": "wsj",
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/economy/trade/china-initiates-probes-into-u-s-trade-practices-f02a8951"
   },
   {
-    "score": 49,
+    "score": 47,
     "pubdate": "2026-03-27-14-50-02 +0000",
     "source": "startribune",
     "headline": "House weighs next steps for bill to fund most of Homeland Security but not immigration enforcement",
     "link": "https://www.startribune.com/trump-says-hell-sign-order-to-pay-tsa-agents-as-senate-works-overnight-on-funding-deal/601640994"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-03-26-16-12-16 +0000",
+    "source": "nyt",
+    "headline": "Europe Heads for Another Energy Shock as Iran War Raises Natural Gas Prices",
+    "link": "https://www.nytimes.com/2026/03/26/business/europe-natural-gas-storage-iran-war.html"
   }
 ]
