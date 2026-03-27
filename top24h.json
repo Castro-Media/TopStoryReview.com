@@ -1,6 +1,6 @@
 [
   {
-    "score": 314,
+    "score": 311,
     "pubdate": "2026-03-26-16-18-00 +0000",
     "source": "wsj",
     "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
@@ -8,10 +8,10 @@
   },
   {
     "score": 87,
-    "pubdate": "2026-03-26-14-05-29 +0000",
-    "source": "nypost",
-    "headline": "Gang-rape victim, 25, whose suicide attempt left her paralyzed, will die by euthanasia after yearslong court battle",
-    "link": "https://nypost.com/2026/03/26/world-news/gang-rape-victim-noelia-castillo-whose-suicide-attempt-left-her-paralyzed-will-die-by-euthanasia-after-yearslong-court-battle/"
+    "pubdate": "2026-03-27-09-01-44 +0000",
+    "source": "nyt",
+    "headline": "Will ICE Change Under Its New Leader?",
+    "link": "https://www.nytimes.com/video/us/politics/100000010793141/will-ice-change-under-its-new-leader.html"
   },
   {
     "score": 81,
@@ -21,13 +21,6 @@
     "link": "https://www.startribune.com/missed-paychecks-and-airport-delays-pressure-mounts-on-congress-to-end-the-funding-shutdown/601638917"
   },
   {
-    "score": 80,
-    "pubdate": "2026-03-27-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "At historic low point, New Democrats descend on Winnipeg to choose a new leader",
-    "link": "https://www.cbc.ca/news/politics/ndp-leadership-convention-9.7142422?cmp=rss"
-  },
-  {
     "score": 79,
     "pubdate": "2026-03-26-18-52-16 +0000",
     "source": "nypost",
@@ -35,18 +28,25 @@
     "link": "https://nypost.com/2026/03/26/business/iran-wants-to-charge-ships-for-safe-travel-through-strait-of-hormuz-as-blockade-sends-oil-above-100-report/"
   },
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2026-03-27-08-36-00 +0000",
     "source": "wsj",
     "headline": "European Gas Prices on Track for Weekly Loss as Markets Track Middle East Talks",
-    "link": "https://www.wsj.com/articles/european-gas-prices-on-track-for-weekly-loss-as-markets-track-middle-east-talks-46a5c7c9?mod=rss_markets_main"
+    "link": "https://www.wsj.com/articles/european-gas-prices-on-track-for-weekly-loss-as-markets-track-middle-east-talks-46a5c7c9?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2026-03-27-00-11-00 +0000",
     "source": "wsj",
     "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
     "link": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-03-26-14-05-29 +0000",
+    "source": "nypost",
+    "headline": "Gang-rape victim, 25, whose suicide attempt left her paralyzed, will die by euthanasia after yearslong court battle",
+    "link": "https://nypost.com/2026/03/26/world-news/gang-rape-victim-noelia-castillo-whose-suicide-attempt-left-her-paralyzed-will-die-by-euthanasia-after-yearslong-court-battle/"
   },
   {
     "score": 57,
@@ -57,16 +57,16 @@
   },
   {
     "score": 53,
-    "pubdate": "2026-03-26-15-50-00 +0000",
-    "source": "wsj",
-    "headline": "World governments were buried in public debt of more than $100 trillion when the Iran war began—and it’s limiting their ability to cushion the effects of energy-price shocks",
-    "link": "https://www.wsj.com/economy/global/energy-price-shock-hits-a-world-already-buried-in-debt-9e93e0f0"
-  },
-  {
-    "score": 53,
     "pubdate": "2026-03-26-23-41-10 +0000",
     "source": "latimes",
     "headline": "California bill would require parent bloggers to delete content of minors on social media",
     "link": "https://www.latimes.com/california/story/2026-03-26/california-could-require-parent-bloggers-to-delete-content-of-minors"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-03-26-15-50-00 +0000",
+    "source": "wsj",
+    "headline": "World governments were buried in public debt of more than $100 trillion when the Iran war began—and it’s limiting their ability to cushion the effects of energy-price shocks",
+    "link": "https://www.wsj.com/economy/global/energy-price-shock-hits-a-world-already-buried-in-debt-9e93e0f0"
   }
 ]
