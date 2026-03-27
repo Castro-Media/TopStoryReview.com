@@ -1,13 +1,13 @@
 [
   {
-    "score": 253,
+    "score": 239,
     "pubdate": "2026-03-27-10-42-00 +0000",
     "source": "wsj",
     "headline": "If there is one constant in Trump’s Washington, it’s that his deadlines—including about the Iran war—are never really deadlines. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/for-trump-a-deadline-isnt-always-a-deadline-d835c3ee"
   },
   {
-    "score": 125,
+    "score": 118,
     "pubdate": "2026-03-27-16-50-49 +0000",
     "source": "nypost",
     "headline": "House GOP rejects Senate-passed DHS funding bill — but Trump will pay TSA separately to stop airport chaos",
@@ -21,25 +21,11 @@
     "link": "https://www.wsj.com/economy/trade/how-trumps-tariffs-are-choking-u-s-china-trade-0ccc685a"
   },
   {
-    "score": 73,
-    "pubdate": "2026-03-27-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "At historic low point, New Democrats descend on Winnipeg to choose a new leader",
-    "link": "https://www.cbc.ca/news/politics/ndp-leadership-convention-9.7142422?cmp=rss"
-  },
-  {
-    "score": 73,
-    "pubdate": "2026-03-27-15-18-40 +0000",
-    "source": "nypost",
-    "headline": "Austria plans to ban social media use for under-14s, joining a string of other countries",
-    "link": "https://nypost.com/2026/03/27/world-news/austria-plans-to-ban-social-media-use-for-under-14s/"
-  },
-  {
-    "score": 68,
-    "pubdate": "2026-03-27-03-33-00 +0000",
+    "score": 69,
+    "pubdate": "2026-03-26-23-45-00 +0000",
     "source": "wsj",
-    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
-    "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
+    "headline": "The Trump administration is putting President Trump’s signature on new U.S. paper currency in a first for a sitting president",
+    "link": "https://www.wsj.com/politics/policy/trump-signature-dollar-bills-384ad7a9"
   },
   {
     "score": 67,
@@ -49,11 +35,25 @@
     "link": "https://nypost.com/2026/03/26/world-news/paralyzed-gang-rape-victims-best-friend-made-heartbreaking-attempt-to-save-her-before-she-died-by-euthanasia/"
   },
   {
+    "score": 65,
+    "pubdate": "2026-03-27-15-18-40 +0000",
+    "source": "nypost",
+    "headline": "Austria plans to ban social media use for under-14s, joining a string of other countries",
+    "link": "https://nypost.com/2026/03/27/world-news/austria-plans-to-ban-social-media-use-for-under-14s/"
+  },
+  {
     "score": 64,
     "pubdate": "2026-03-27-03-56-42 +0000",
     "source": "nyt",
     "headline": "Rubio Says Allies Should Help Secure Strait by Iran for Oil and Gas Ships",
     "link": "https://www.nytimes.com/2026/03/26/world/middleeast/rubio-strait-of-hormuz-iran-oil.html"
+  },
+  {
+    "score": 55,
+    "pubdate": "2026-03-27-03-33-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
+    "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
   },
   {
     "score": 54,
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/03/27/us-news/senate-advances-dhs-funding-in-last-minute-deal-nearing-end-to-shutdown/"
   },
   {
-    "score": 53,
-    "pubdate": "2026-03-27-00-11-00 +0000",
-    "source": "wsj",
-    "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
-    "link": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351"
+    "score": 48,
+    "pubdate": "2026-03-26-22-42-18 +0000",
+    "source": "latimes",
+    "headline": "Justice Department to investigate California over housing of trans inmates at women's prisons",
+    "link": "https://www.latimes.com/california/story/2026-03-26/doj-investigation-california-men-womens-prisons"
   }
 ]
