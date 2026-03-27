@@ -1,45 +1,52 @@
 [
   {
-    "score": 594,
-    "pubdate": "2026-03-26-20-53-23 +0000",
+    "score": 644,
+    "pubdate": "2026-03-26-23-26-48 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Again Gives Iran More Time to Reopen Strait of Hormuz",
+    "headline": "Iran War Live Updates: Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid",
     "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil"
   },
   {
-    "score": 173,
+    "score": 162,
     "pubdate": "2026-03-24-22-38-22 +0000",
     "source": "latimes",
     "headline": "New Mexico social media lawsuit ends in $375-million verdict against Meta",
     "link": "https://www.latimes.com/california/story/2026-03-24/new-mexico-social-media-harms-lawsuit-375-million-verdict"
   },
   {
-    "score": 160,
-    "pubdate": "2026-03-26-19-27-00 +0000",
+    "score": 158,
+    "pubdate": "2026-03-26-23-16-00 +0000",
     "source": "wsj",
-    "headline": "Several Senate Republicans are pressing the White House to declare a national emergency to free up money to pay Transportation Security Administration agents if lawmakers fail to reach a deal",
+    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
     "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
   },
   {
-    "score": 137,
-    "pubdate": "2026-03-25-10-00-00 +0000",
+    "score": 150,
+    "pubdate": "2026-03-23-10-00-00 +0000",
     "source": "latimes",
-    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
-    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis"
+    "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
+    "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts"
   },
   {
-    "score": 134,
+    "score": 145,
     "pubdate": "2026-03-22-09-30-00 +0000",
     "source": "wsj",
     "headline": "Young people, who are just starting their careers, are trying to figure out which professions will insulate them from AI’s impact—or what jobs will benefit from it",
     "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
   },
   {
-    "score": 132,
-    "pubdate": "2026-03-24-20-57-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Rebounds Above $100 on Fears Middle East Conflict Lacks Exit Plan",
-    "link": "https://www.wsj.com/finance/investing/oil-rebounds-above-100-on-fears-middle-east-conflict-lacks-exit-plan-5083c89d?mod=rss_markets_main"
+    "score": 141,
+    "pubdate": "2026-03-26-23-03-31 +0000",
+    "source": "nypost",
+    "headline": "Former NJ middle school teacher allegedly used her classroom — and her car — to have sex with one of her students",
+    "link": "https://nypost.com/2026/03/26/us-news/former-nj-middle-school-teacher-allegedly-used-her-classroom-and-her-car-to-have-sex-with-one-of-her-students/"
+  },
+  {
+    "score": 131,
+    "pubdate": "2026-03-25-13-27-50 +0000",
+    "source": "bbc",
+    "headline": "UK inflation rate stays at 3% before Iran war hits oil prices",
+    "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 119,
@@ -49,24 +56,17 @@
     "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
   },
   {
-    "score": 110,
-    "pubdate": "2026-03-26-09-40-00 +0000",
+    "score": 118,
+    "pubdate": "2026-03-26-13-24-00 +0000",
     "source": "wsj",
-    "headline": "Norges Bank Expects to Lift Borrowing Costs This Year as Energy Prices Stoke Inflation",
-    "link": "https://www.wsj.com/articles/norges-bank-expects-to-lift-borrowing-costs-this-year-as-energy-prices-stoke-inflation-414edc3a"
+    "headline": "Lawmakers accused each other Wednesday of being too politically timid to strike a deal to end the standoff over U.S. immigration enforcement",
+    "link": "https://www.wsj.com/politics/policy/lawmakers-say-political-fears-stand-in-way-of-ice-deal-2e3fcd4c"
   },
   {
-    "score": 105,
-    "pubdate": "2026-03-26-16-18-00 +0000",
+    "score": 96,
+    "pubdate": "2026-03-25-16-59-00 +0000",
     "source": "wsj",
-    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
-    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
-  },
-  {
-    "score": 98,
-    "pubdate": "2026-03-26-17-57-30 +0000",
-    "source": "bbc",
-    "headline": "Air Canada CEO 'deeply saddened' his English-only message distracted from victims of crash",
-    "link": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss"
+    "headline": "The Federal Reserve ran an operating loss of $18.7 billion last year, its third straight year of losses, which stems from unprecedented losses tied to pandemic-era stimulus and subsequent inflation fight.",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370"
   }
 ]
