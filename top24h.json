@@ -1,13 +1,13 @@
 [
   {
-    "score": 312,
+    "score": 302,
     "pubdate": "2026-03-26-16-18-00 +0000",
     "source": "wsj",
     "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
     "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
   },
   {
-    "score": 96,
+    "score": 95,
     "pubdate": "2026-03-26-14-05-29 +0000",
     "source": "nypost",
     "headline": "Gang-rape victim, 25, whose suicide attempt left her paralyzed, will die by euthanasia after yearslong court battle",
@@ -35,13 +35,6 @@
     "link": "https://nypost.com/2026/03/26/business/iran-wants-to-charge-ships-for-safe-travel-through-strait-of-hormuz-as-blockade-sends-oil-above-100-report/"
   },
   {
-    "score": 66,
-    "pubdate": "2026-03-27-00-11-00 +0000",
-    "source": "wsj",
-    "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
-    "link": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351"
-  },
-  {
     "score": 65,
     "pubdate": "2026-03-26-13-24-00 +0000",
     "source": "wsj",
@@ -49,24 +42,31 @@
     "link": "https://www.wsj.com/politics/policy/lawmakers-say-political-fears-stand-in-way-of-ice-deal-2e3fcd4c"
   },
   {
-    "score": 59,
+    "score": 65,
+    "pubdate": "2026-03-27-00-11-00 +0000",
+    "source": "wsj",
+    "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
+    "link": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351"
+  },
+  {
+    "score": 57,
     "pubdate": "2026-03-26-17-50-51 +0000",
     "source": "wapo",
     "headline": "Pentagon considers diverting Ukraine military aid to the Middle East",
     "link": "https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/"
   },
   {
-    "score": 55,
-    "pubdate": "2026-03-26-09-40-00 +0000",
+    "score": 53,
+    "pubdate": "2026-03-26-10-00-00 +0000",
     "source": "wsj",
-    "headline": "Norges Bank Expects to Lift Borrowing Costs This Year as Energy Prices Stoke Inflation",
-    "link": "https://www.wsj.com/articles/norges-bank-expects-to-lift-borrowing-costs-this-year-as-energy-prices-stoke-inflation-414edc3a"
+    "headline": "Energy Capital Partners Proceeds With Caution on Gas-Fired Power Plant Deals",
+    "link": "https://www.wsj.com/articles/energy-capital-partners-proceeds-with-caution-on-gas-fired-power-plant-deals-bf6b935b?mod=rss_markets_main"
   },
   {
-    "score": 52,
-    "pubdate": "2026-03-26-12-56-33 +0000",
+    "score": 51,
+    "pubdate": "2026-03-26-17-57-30 +0000",
     "source": "bbc",
-    "headline": "UK forecast to see biggest hit to growth from Iran war out of major economies",
-    "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss"
+    "headline": "Air Canada CEO 'deeply saddened' his English-only message distracted from victims of crash",
+    "link": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss"
   }
 ]
