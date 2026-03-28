@@ -1,6 +1,6 @@
 [
   {
-    "score": 517,
+    "score": 516,
     "pubdate": "2026-03-26-16-18-00 +0000",
     "source": "wsj",
     "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
@@ -14,14 +14,14 @@
     "link": "https://www.latimes.com/california/story/2026-03-24/new-mexico-social-media-harms-lawsuit-375-million-verdict"
   },
   {
-    "score": 162,
+    "score": 166,
     "pubdate": "2026-03-27-16-50-49 +0000",
     "source": "nypost",
     "headline": "House GOP rejects Senate-passed DHS funding bill — but Trump will pay TSA separately to stop airport chaos",
     "link": "https://nypost.com/2026/03/27/us-news/house-republicans-poised-to-reject-senate-passed-dhs-funding-bill-shouldnt-have-left-town/"
   },
   {
-    "score": 135,
+    "score": 136,
     "pubdate": "2026-03-27-17-00-00 +0000",
     "source": "wsj",
     "headline": "About a year into the full-blown trade war between the U.S. and China, trade between the world’s two largest economies has plunged to levels not seen in decades",
@@ -35,28 +35,21 @@
     "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts"
   },
   {
-    "score": 123,
-    "pubdate": "2026-03-27-23-40-40 +0000",
+    "score": 116,
+    "pubdate": "2026-03-27-23-04-17 +0000",
     "source": "nypost",
-    "headline": "Ten Americans wounded in Iranian missile, drone attack on US military base in Saudi Arabia: report",
-    "link": "https://nypost.com/2026/03/27/us-news/ten-americans-wounded-in-iranian-missile-drone-attack-on-us-military-base-in-saudi-arabia-report/"
+    "headline": "Here’s how the US military could reopen the Strait of Hormuz — from  boots on the ground to air assaults",
+    "link": "https://nypost.com/2026/03/27/world-news/heres-how-the-us-military-could-reopen-the-strait-of-hormuz-from-boots-on-the-ground-to-air-assaults/"
   },
   {
-    "score": 115,
+    "score": 114,
     "pubdate": "2026-03-23-16-26-19 +0000",
     "source": "latimes",
     "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
     "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
   },
   {
-    "score": 109,
-    "pubdate": "2026-03-26-17-53-29 +0000",
-    "source": "nyt",
-    "headline": "The head of NATO says Europe needs time to help secure the Strait of Hormuz.",
-    "link": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil/nato-rutte-strait-of-hormuz"
-  },
-  {
-    "score": 106,
+    "score": 107,
     "pubdate": "2026-03-27-00-11-00 +0000",
     "source": "wsj",
     "headline": "A U.S. federal judge on Thursday halted the Trump administration’s designation of Anthropic as a supply-chain risk, issuing a ruling that the government trampled free-speech protections when it classified the company as a security threat",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Paralyzed gang rape victim’s best friend made heartbreaking attempt to save her before she died by euthanasia",
     "link": "https://nypost.com/2026/03/26/world-news/paralyzed-gang-rape-victims-best-friend-made-heartbreaking-attempt-to-save-her-before-she-died-by-euthanasia/"
+  },
+  {
+    "score": 99,
+    "pubdate": "2026-03-22-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "More would-be home sellers are renting out their houses and condos, unwilling to cut prices in a sluggish housing market",
+    "link": "https://www.wsj.com/economy/housing/single-family-home-rental-market-homeowners-e33d72e9"
   }
 ]
