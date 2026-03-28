@@ -1,24 +1,31 @@
 [
   {
-    "score": 570,
-    "pubdate": "2026-03-28-08-56-31 +0000",
+    "score": 586,
+    "pubdate": "2026-03-28-10-36-27 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Iran-Backed Houthis Enter War With Missile Attack on Israel",
     "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil"
   },
   {
-    "score": 367,
+    "score": 382,
     "pubdate": "2026-03-26-23-45-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is putting President Trump’s signature on new U.S. paper currency in a first for a sitting president",
     "link": "https://www.wsj.com/politics/policy/trump-signature-dollar-bills-384ad7a9"
   },
   {
-    "score": 162,
-    "pubdate": "2026-03-27-16-50-49 +0000",
-    "source": "nypost",
-    "headline": "House GOP rejects Senate-passed DHS funding bill — but Trump will pay TSA separately to stop airport chaos",
-    "link": "https://nypost.com/2026/03/27/us-news/house-republicans-poised-to-reject-senate-passed-dhs-funding-bill-shouldnt-have-left-town/"
+    "score": 156,
+    "pubdate": "2026-03-22-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Young people, who are just starting their careers, are trying to figure out which professions will insulate them from AI’s impact—or what jobs will benefit from it",
+    "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284"
+  },
+  {
+    "score": 140,
+    "pubdate": "2026-03-24-22-38-22 +0000",
+    "source": "latimes",
+    "headline": "New Mexico social media lawsuit ends in $375-million verdict against Meta",
+    "link": "https://www.latimes.com/california/story/2026-03-24/new-mexico-social-media-harms-lawsuit-375-million-verdict"
   },
   {
     "score": 134,
@@ -28,35 +35,28 @@
     "link": "https://www.wsj.com/economy/trade/how-trumps-tariffs-are-choking-u-s-china-trade-0ccc685a"
   },
   {
-    "score": 129,
-    "pubdate": "2026-03-24-22-38-22 +0000",
-    "source": "latimes",
-    "headline": "New Mexico social media lawsuit ends in $375-million verdict against Meta",
-    "link": "https://www.latimes.com/california/story/2026-03-24/new-mexico-social-media-harms-lawsuit-375-million-verdict"
-  },
-  {
-    "score": 128,
+    "score": 131,
     "pubdate": "2026-03-23-10-00-00 +0000",
     "source": "latimes",
     "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
     "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts"
   },
   {
-    "score": 118,
-    "pubdate": "2026-03-26-16-18-00 +0000",
+    "score": 131,
+    "pubdate": "2026-03-27-03-33-00 +0000",
     "source": "wsj",
-    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
-    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
+    "headline": "President Trump said he would sign an executive order to free up money to pay TSA workers, moving to break a deadlock in Congress",
+    "link": "https://www.wsj.com/politics/policy/republicans-push-white-house-to-declare-national-emergency-to-pay-tsa-agents-2cc02b28"
   },
   {
-    "score": 114,
+    "score": 113,
     "pubdate": "2026-03-27-23-04-17 +0000",
     "source": "nypost",
     "headline": "Here’s how the US military could reopen the Strait of Hormuz — from  boots on the ground to air assaults",
     "link": "https://nypost.com/2026/03/27/world-news/heres-how-the-us-military-could-reopen-the-strait-of-hormuz-from-boots-on-the-ground-to-air-assaults/"
   },
   {
-    "score": 113,
+    "score": 111,
     "pubdate": "2026-03-23-16-26-19 +0000",
     "source": "latimes",
     "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
@@ -64,9 +64,9 @@
   },
   {
     "score": 99,
-    "pubdate": "2026-03-22-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "More would-be home sellers are renting out their houses and condos, unwilling to cut prices in a sluggish housing market",
-    "link": "https://www.wsj.com/economy/housing/single-family-home-rental-market-homeowners-e33d72e9"
+    "pubdate": "2026-03-26-23-18-22 +0000",
+    "source": "nypost",
+    "headline": "Paralyzed gang rape victim’s best friend made heartbreaking attempt to save her before she died by euthanasia",
+    "link": "https://nypost.com/2026/03/26/world-news/paralyzed-gang-rape-victims-best-friend-made-heartbreaking-attempt-to-save-her-before-she-died-by-euthanasia/"
   }
 ]
