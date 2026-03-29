@@ -1,17 +1,10 @@
 [
   {
-    "score": 136,
+    "score": 135,
     "pubdate": "2026-03-28-18-34-16 +0000",
     "source": "cbc",
     "headline": "Anger over Iran war adds fuel to anti-Trump 'No Kings' protests across U.S.",
     "link": "https://www.cbc.ca/news/world/no-kings-protest-u-s-trump-9.7145895?cmp=rss"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-03-28-23-37-16 +0000",
-    "source": "nypost",
-    "headline": "JD Vance wins 2028 CPAC GOP presidential straw poll — but Marco Rubio closes ground",
-    "link": "https://nypost.com/2026/03/28/us-news/rubio-cuts-into-vances-lead-as-2028-gop-race-tightens-at-cpac/"
   },
   {
     "score": 43,
@@ -21,7 +14,14 @@
     "link": "https://www.latimes.com/california/story/2026-03-28/no-kings-rallies-draw-millions-protesting-trump-globally"
   },
   {
-    "score": 38,
+    "score": 42,
+    "pubdate": "2026-03-28-23-37-16 +0000",
+    "source": "nypost",
+    "headline": "JD Vance wins 2028 CPAC GOP presidential straw poll — but Marco Rubio closes ground",
+    "link": "https://nypost.com/2026/03/28/us-news/rubio-cuts-into-vances-lead-as-2028-gop-race-tightens-at-cpac/"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-03-28-20-02-09 +0000",
     "source": "wapo",
     "headline": "Iran-backed Houthis in Yemen launch attack on Israel for first time in war",
@@ -56,7 +56,7 @@
     "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 31,
+    "score": 30,
     "pubdate": "2026-03-28-16-44-11 +0000",
     "source": "nyt",
     "headline": "Bank of America to Pay $72.5 Million to Settle Lawsuit by Epstein Victims",
