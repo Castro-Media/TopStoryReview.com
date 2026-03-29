@@ -1,27 +1,69 @@
 [
   {
+    "headline": "North Korea conducts engine test for missile capable of targeting US mainland",
+    "link": "https://nypost.com/2026/03/29/world-news/north-korea-conducts-engine-test-for-missile-capable-of-targeting-us-mainland/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-07-10-45 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Tehran Hit by Heavy Airstrikes as U.S. Marines Arrive in Middle East",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
+    "source": "nyt",
+    "pubdate": "2026-03-29-07-07-57 +0000"
+  },
+  {
+    "headline": "Woman vandalizes ex-boyfriend’s Tesla in ‘petty’ act  after bad split",
+    "link": "https://nypost.com/2026/03/29/us-news/california-woman-caught-on-camera-smashing-ex-boyfriends-tesla-after-breakup/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-07-05-17 +0000"
+  },
+  {
+    "headline": "The Air Canada Crash: Before and After the Frantic Call to ‘Stop, Stop, Stop’",
+    "link": "https://www.nytimes.com/2026/03/29/nyregion/laguardia-air-canada-crash-reconstruction.html",
+    "source": "nyt",
+    "pubdate": "2026-03-29-07-00-16 +0000"
+  },
+  {
+    "headline": "The Air Canada Crash: Before and After the Frantic Call to ‘Stop, Stop, Stop’",
+    "link": "https://www.nytimes.com/2026/03/29/nyregion/laguardia-air-canada-crash-reconstruction.html",
+    "source": "nyt",
+    "pubdate": "2026-03-29-07-00-16 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-29-06-46-11 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-03-29-06-46-11 +0000"
+  },
+  {
+    "headline": "Rob Schneider calls for US to ‘restore military draft  for our nation’s young people’ amid Iran war",
+    "link": "https://nypost.com/2026/03/29/us-news/rob-schneider-calls-for-us-to-restore-military-draft-for-our-nations-young-people-amid-iran-war/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-06-39-42 +0000"
+  },
+  {
+    "headline": "'Cost to supply potatoes has risen 40%'",
+    "link": "https://www.bbc.com/news/articles/c8957234108o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-29-06-08-25 +0000"
+  },
+  {
+    "headline": "Thousands of New York’s Finest turn out for ‘Thank You, NYPD’ concert at MSG, which raised $500K for cops",
+    "link": "https://nypost.com/2026/03/29/us-news/thousands-of-new-yorks-finest-turn-out-for-thank-you-nypd-concert-at-madison-square-garden/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-05-36-10 +0000"
+  },
+  {
     "headline": "No Kings Protests Held Across the U.S.: Photos and Videos",
     "link": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html",
     "source": "nyt",
     "pubdate": "2026-03-29-05-18-35 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-29-04-48-18 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-03-29-04-48-18 +0000"
-  },
-  {
-    "headline": "U.S. Marines Arrive in Middle East, as Houthis Enter War",
-    "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
-    "source": "nyt",
-    "pubdate": "2026-03-29-04-28-13 +0000"
   },
   {
     "headline": "Airstrikes batter a university and residential zones in Tehran.",
@@ -354,18 +396,6 @@
     "pubdate": "2026-03-28-23-37-16 +0000"
   },
   {
-    "headline": "Dodgers’ $75 souvenir Ohtani cup comes with new price and perks — and there’s more to come",
-    "link": "https://nypost.com/2026/03/28/us-news/75-souvenir-ohtani-cup-comes-with-new-perks-after-eye-watering-price-revealed/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-23-31-47 +0000"
-  },
-  {
-    "headline": "Trump family relieved that trained agents – not Tiger – drive president’s grandkids",
-    "link": "https://nypost.com/2026/03/28/us-news/trump-family-relieved-that-trained-agents-not-tiger-drive-presidents-grandkids/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-23-28-15 +0000"
-  },
-  {
     "headline": "India restoring a centuries-old royal kitchen that never stopped serving food",
     "link": "https://www.bbc.com/news/articles/cj0vj36yd12o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -418,12 +448,6 @@
     "link": "https://www.wsj.com/politics/policy/trump-salt-tax-deduction-democratic-states-c419b8a4",
     "source": "wsj",
     "pubdate": "2026-03-28-23-00-00 +0000"
-  },
-  {
-    "headline": "PGA stars want to see Tiger Woods take ‘accountability,’ face ‘punishment’ after latest DUI crash",
-    "link": "https://nypost.com/2026/03/28/us-news/pga-stars-want-to-see-tiger-woods-take-accountability-and-face-punishment-after-latest-dui-crash/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-22-46-40 +0000"
   },
   {
     "headline": "Astronaut’s Condition That Led to Space Station Evacuation Remains a Mystery",
@@ -808,6 +832,12 @@
     "link": "https://www.wsj.com/world/middle-east/inside-the-trans-atlantic-trade-in-iranian-weapons-for-colombian-coke-fb32daec",
     "source": "wsj",
     "pubdate": "2026-03-28-18-00-00 +0000"
+  },
+  {
+    "headline": "'I was naive,' says minister who quit over Labour Together claims",
+    "link": "https://www.bbc.com/news/articles/cy8135ny182o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-28-17-59-46 +0000"
   },
   {
     "headline": "Terrorist attack on Paris Bank of America branch thwarted before bomb detonated: report",
@@ -2328,12 +2358,6 @@
     "pubdate": "2026-03-27-18-46-08 +0000"
   },
   {
-    "headline": "Noelia Castillo’s dad battled for years to try to stop her death while accusing state of ‘abandoning’ her",
-    "link": "https://nypost.com/2026/03/27/world-news/noelia-castillos-dad-battled-for-years-to-try-to-stop-her-euthanasia/",
-    "source": "nypost",
-    "pubdate": "2026-03-27-18-42-01 +0000"
-  },
-  {
     "headline": "White House unveils ‘OnlyFarms’ website, welcomes farmers with golden tractor on South Lawn",
     "link": "https://nypost.com/2026/03/27/us-news/white-house-unveils-onlyfarms-website-welcomes-farmers-with-golden-tractor-on-south-lawn/",
     "source": "nypost",
@@ -3022,12 +3046,6 @@
     "link": "https://nypost.com/2026/03/27/business/heres-the-most-overlooked-part-of-larry-finks-yearly-letter-to-shareholders-and-why-it-could-be-good-news/",
     "source": "nypost",
     "pubdate": "2026-03-27-12-59-02 +0000"
-  },
-  {
-    "headline": "How the Iran war may affect your money and bills",
-    "link": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-27-12-51-23 +0000"
   },
   {
     "headline": "Savannah Guthrie to Return to ‘Today’ in Early April",
@@ -4932,12 +4950,6 @@
     "pubdate": "2026-03-26-10-35-19 +0000"
   },
   {
-    "headline": "Findlay felt capable of killing attacker but says 'I'm not a scrapper'",
-    "link": "https://www.bbc.com/news/articles/cvg09dlrwpeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-26-10-13-43 +0000"
-  },
-  {
     "headline": "Contributor: Rent algorithms aren't the issue. California just needs more housing",
     "link": "https://www.latimes.com/opinion/story/2026-03-26/rent-pricing-algorithm-bans-california-housing-affordability",
     "source": "latimes",
@@ -4950,14 +4962,8 @@
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
   {
-    "headline": "He was busted for gun possession. Now he's running for L.A. City Council",
-    "link": "https://www.latimes.com/california/story/2026-03-26/he-was-busted-for-gun-possession-now-hes-running-for-la-city-council",
-    "source": "latimes",
-    "pubdate": "2026-03-26-10-00-00 +0000"
-  },
-  {
-    "headline": "Californians with deep ties to Jalisco rattled by cartel violence and fears of bloody power struggle",
-    "link": "https://www.latimes.com/california/story/2026-03-26/californians-with-deep-ties-to-jalisco-rattled-by-cartel-violence-fears-of-bloody-power-struggle",
+    "headline": "The inspiring, infuriating, even comic tale of how we defeated L.A.'s smog and why we may have to again",
+    "link": "https://www.latimes.com/california/story/2026-03-26/inspiring-infuriating-even-comic-tale-of-how-we-defeated-l-a-s-smog-why-we-may-have-to-again",
     "source": "latimes",
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
@@ -4968,8 +4974,14 @@
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
   {
-    "headline": "The inspiring, infuriating, even comic tale of how we defeated L.A.'s smog and why we may have to again",
-    "link": "https://www.latimes.com/california/story/2026-03-26/inspiring-infuriating-even-comic-tale-of-how-we-defeated-l-a-s-smog-why-we-may-have-to-again",
+    "headline": "He was busted for gun possession. Now he's running for L.A. City Council",
+    "link": "https://www.latimes.com/california/story/2026-03-26/he-was-busted-for-gun-possession-now-hes-running-for-la-city-council",
+    "source": "latimes",
+    "pubdate": "2026-03-26-10-00-00 +0000"
+  },
+  {
+    "headline": "Californians with deep ties to Jalisco rattled by cartel violence and fears of bloody power struggle",
+    "link": "https://www.latimes.com/california/story/2026-03-26/californians-with-deep-ties-to-jalisco-rattled-by-cartel-violence-fears-of-bloody-power-struggle",
     "source": "latimes",
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
@@ -5484,12 +5496,6 @@
     "pubdate": "2026-03-25-19-13-58 +0000"
   },
   {
-    "headline": "Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music",
-    "link": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
-    "source": "nyt",
-    "pubdate": "2026-03-25-18-40-12 +0000"
-  },
-  {
     "headline": "Wannabe Kim Kardashian died from lethal butt injections. Her injector was just convicted",
     "link": "https://www.latimes.com/california/story/2026-03-25/wannabe-kim-kardashian-buttocks-lethal-butt-injections",
     "source": "latimes",
@@ -5670,14 +5676,14 @@
     "pubdate": "2026-03-25-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
-    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis",
+    "headline": "False sex abuse claim filed 'without consent' in L.A.'s $4-billion settlement, man says",
+    "link": "https://www.latimes.com/california/story/2026-03-25/la-false-sex-abuse-claim-settlement-allegation",
     "source": "latimes",
     "pubdate": "2026-03-25-10-00-00 +0000"
   },
   {
-    "headline": "False sex abuse claim filed 'without consent' in L.A.'s $4-billion settlement, man says",
-    "link": "https://www.latimes.com/california/story/2026-03-25/la-false-sex-abuse-claim-settlement-allegation",
+    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
+    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis",
     "source": "latimes",
     "pubdate": "2026-03-25-10-00-00 +0000"
   },
@@ -6300,18 +6306,6 @@
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
   {
-    "headline": "If SoCal hotels, stadiums host ICE agents, employees can miss work, union says as World Cup nears",
-    "link": "https://www.latimes.com/california/story/2026-03-24/hotels-stadiums-airports-ice-agents-union-says-employees-can-refuse-work",
-    "source": "latimes",
-    "pubdate": "2026-03-24-10-00-00 +0000"
-  },
-  {
-    "headline": "One Beverly Hills developer raises $4.3 billion to finish the massive luxury project",
-    "link": "https://www.latimes.com/business/story/2026-03-24/one-beverly-hills-secures-4-3-billion-financing",
-    "source": "latimes",
-    "pubdate": "2026-03-24-10-00-00 +0000"
-  },
-  {
     "headline": "Officials considered warning Altadena before Eaton fire, but no alert was sent",
     "link": "https://www.latimes.com/california/story/2026-03-24/fire-weather-alerts-eaton-fire-wildfires-how-to-improve-early-warnings",
     "source": "latimes",
@@ -6330,8 +6324,20 @@
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
   {
+    "headline": "One Beverly Hills developer raises $4.3 billion to finish the massive luxury project",
+    "link": "https://www.latimes.com/business/story/2026-03-24/one-beverly-hills-secures-4-3-billion-financing",
+    "source": "latimes",
+    "pubdate": "2026-03-24-10-00-00 +0000"
+  },
+  {
     "headline": "L.A. County rail boom: What trains are coming and when",
     "link": "https://www.latimes.com/california/story/2026-03-24/la-me-rail-boom",
+    "source": "latimes",
+    "pubdate": "2026-03-24-10-00-00 +0000"
+  },
+  {
+    "headline": "If SoCal hotels, stadiums host ICE agents, employees can miss work, union says as World Cup nears",
+    "link": "https://www.latimes.com/california/story/2026-03-24/hotels-stadiums-airports-ice-agents-union-says-employees-can-refuse-work",
     "source": "latimes",
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
@@ -6642,14 +6648,14 @@
     "pubdate": "2026-03-23-11-08-27 +0000"
   },
   {
-    "headline": "Lesson plans go 'out the window' as educators pivot on César Chávez amid abuse allegations",
-    "link": "https://www.latimes.com/california/story/2026-03-23/teachers-educators-rethink-teaching-cesar-chavez-legacy-curriculum",
+    "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
+    "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts",
     "source": "latimes",
     "pubdate": "2026-03-23-10-00-00 +0000"
   },
   {
-    "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
-    "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts",
+    "headline": "Lesson plans go 'out the window' as educators pivot on César Chávez amid abuse allegations",
+    "link": "https://www.latimes.com/california/story/2026-03-23/teachers-educators-rethink-teaching-cesar-chavez-legacy-curriculum",
     "source": "latimes",
     "pubdate": "2026-03-23-10-00-00 +0000"
   },

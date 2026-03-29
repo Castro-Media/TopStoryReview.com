@@ -1,9 +1,58 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-03-29-05-18-35 +0000",
+    "score": 14,
+    "pubdate": "2026-03-29-07-07-57 +0000",
     "source": "nyt",
-    "headline": "No Kings Protests Held Across the U.S.: Photos and Videos",
-    "link": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html"
+    "headline": "Iran War Live Updates: Tehran Hit by Heavy Airstrikes as U.S. Marines Arrive in Middle East",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-29-07-00-16 +0000",
+    "source": "nyt",
+    "headline": "The Air Canada Crash: Before and After the Frantic Call to ‘Stop, Stop, Stop’",
+    "link": "https://www.nytimes.com/2026/03/29/nyregion/laguardia-air-canada-crash-reconstruction.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-29-06-39-42 +0000",
+    "source": "nypost",
+    "headline": "Rob Schneider calls for US to ‘restore military draft  for our nation’s young people’ amid Iran war",
+    "link": "https://nypost.com/2026/03/29/us-news/rob-schneider-calls-for-us-to-restore-military-draft-for-our-nations-young-people-amid-iran-war/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-29-07-10-45 +0000",
+    "source": "nypost",
+    "headline": "North Korea conducts engine test for missile capable of targeting US mainland",
+    "link": "https://nypost.com/2026/03/29/world-news/north-korea-conducts-engine-test-for-missile-capable-of-targeting-us-mainland/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-03-29-07-05-17 +0000",
+    "source": "nypost",
+    "headline": "Woman vandalizes ex-boyfriend’s Tesla in ‘petty’ act  after bad split",
+    "link": "https://nypost.com/2026/03/29/us-news/california-woman-caught-on-camera-smashing-ex-boyfriends-tesla-after-breakup/"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-29-06-46-11 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-29-07-00-16 +0000",
+    "source": "nyt",
+    "headline": "The Air Canada Crash: Before and After the Frantic Call to ‘Stop, Stop, Stop’",
+    "link": "https://www.nytimes.com/2026/03/29/nyregion/laguardia-air-canada-crash-reconstruction.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-03-29-06-46-11 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/heres-the-latest"
   }
 ]
