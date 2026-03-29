@@ -7,7 +7,7 @@
     "link": "https://www.cbc.ca/news/world/no-kings-protest-u-s-trump-9.7145895?cmp=rss"
   },
   {
-    "score": 45,
+    "score": 44,
     "pubdate": "2026-03-28-18-49-00 +0000",
     "source": "latimes",
     "headline": "'No Kings' protesters pack city streets across the nation as crowds lash out against Trump",
@@ -21,18 +21,18 @@
     "link": "https://nypost.com/2026/03/28/us-news/rubio-cuts-into-vances-lead-as-2028-gop-race-tightens-at-cpac/"
   },
   {
-    "score": 37,
-    "pubdate": "2026-03-28-19-53-21 +0000",
-    "source": "nyt",
-    "headline": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
-    "link": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html"
-  },
-  {
     "score": 36,
     "pubdate": "2026-03-28-20-02-09 +0000",
     "source": "wapo",
     "headline": "Iran-backed Houthis in Yemen launch attack on Israel for first time in war",
     "link": "https://www.washingtonpost.com/world/2026/03/28/iran-us-war-yemen-trump/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-03-28-19-53-21 +0000",
+    "source": "nyt",
+    "headline": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
+    "link": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html"
   },
   {
     "score": 34,
@@ -57,16 +57,16 @@
   },
   {
     "score": 30,
-    "pubdate": "2026-03-28-15-11-59 +0000",
-    "source": "bbc",
-    "headline": "Twenty-two migrants die off Greek coast after six days at sea",
-    "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 30,
     "pubdate": "2026-03-28-16-44-11 +0000",
     "source": "nyt",
     "headline": "Bank of America to Pay $72.5 Million to Settle Lawsuit by Epstein Victims",
     "link": "https://www.nytimes.com/2026/03/27/business/bank-of-america-epstein-victims-settlement.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-03-28-15-11-59 +0000",
+    "source": "bbc",
+    "headline": "Twenty-two migrants die off Greek coast after six days at sea",
+    "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss"
   }
 ]
