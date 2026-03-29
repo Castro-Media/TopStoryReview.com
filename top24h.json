@@ -1,48 +1,62 @@
 [
   {
-    "score": 100,
+    "score": 103,
     "pubdate": "2026-03-29-00-15-00 +0000",
     "source": "wsj",
     "headline": "Hundreds of thousands of demonstrators are taking to the streets across the nation for a day of “No Kings” rallies Saturday in opposition to President Trump",
     "link": "https://www.wsj.com/us-news/crowds-gather-across-u-s-for-no-kings-rallies-to-oppose-trump-0d3a380d"
   },
   {
-    "score": 98,
+    "score": 102,
     "pubdate": "2026-03-29-09-00-54 +0000",
     "source": "nyt",
     "headline": "Why the Iran War May Force Countries to Rely Less on Natural Gas",
     "link": "https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html"
   },
   {
-    "score": 55,
-    "pubdate": "2026-03-29-14-35-49 +0000",
-    "source": "nypost",
-    "headline": "Air Canada flight attendant who was ejected during LGA crash seen in hospital for first time — as daughter describes horrific injuries",
-    "link": "https://nypost.com/2026/03/29/world-news/air-canada-flight-attendant-who-was-ejected-during-lga-crash-seen-in-hospital-for-first-time/"
+    "score": 51,
+    "pubdate": "2026-03-29-19-36-27 +0000",
+    "source": "nyt",
+    "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
   },
   {
-    "score": 42,
+    "score": 44,
     "pubdate": "2026-03-29-18-56-13 +0000",
     "source": "nypost",
     "headline": "Little-known Marine battle group deployed from California to Middle East — here’s what they’ll do",
     "link": "https://nypost.com/2026/03/29/us-news/little-known-marine-group-deployed-from-california-to-middle-east/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-03-29-18-30-02 +0000",
-    "source": "nyt",
-    "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
-    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
+    "score": 42,
+    "pubdate": "2026-03-29-14-35-49 +0000",
+    "source": "nypost",
+    "headline": "Air Canada flight attendant who was ejected during LGA crash seen in hospital for first time — as daughter describes horrific injuries",
+    "link": "https://nypost.com/2026/03/29/world-news/air-canada-flight-attendant-who-was-ejected-during-lga-crash-seen-in-hospital-for-first-time/"
   },
   {
-    "score": 35,
+    "score": 40,
+    "pubdate": "2026-03-29-20-19-42 +0000",
+    "source": "nypost",
+    "headline": "Major Wall Street powerhouse weighs southern move as Mamdani-led tax threats swirl",
+    "link": "https://nypost.com/2026/03/29/us-news/major-wall-street-powerhouse-weighs-southern-move-as-mamdani-led-tax-threats-swirl/"
+  },
+  {
+    "score": 36,
     "pubdate": "2026-03-29-15-02-56 +0000",
     "source": "nyt",
     "headline": "F.B.I. Said to Dig Up Old Investigative Files on Democratic Lawmaker",
     "link": "https://www.nytimes.com/2026/03/28/us/politics/trump-fbi-patel-eric-swalwell.html"
   },
   {
-    "score": 34,
+    "score": 36,
+    "pubdate": "2026-03-28-23-37-16 +0000",
+    "source": "nypost",
+    "headline": "JD Vance wins 2028 CPAC GOP presidential straw poll — but Marco Rubio closes ground",
+    "link": "https://nypost.com/2026/03/28/us-news/rubio-cuts-into-vances-lead-as-2028-gop-race-tightens-at-cpac/"
+  },
+  {
+    "score": 36,
     "pubdate": "2026-03-29-13-10-10 +0000",
     "source": "nypost",
     "headline": "Pope Leo issues strong rebuke on ‘atrocious’ Iran war in Palm Sunday message: ‘Hands are full of blood’",
@@ -50,23 +64,9 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-03-29-13-48-46 +0000",
+    "pubdate": "2026-03-29-19-40-07 +0000",
     "source": "nypost",
-    "headline": "Border czar Tom Homan reveals when TSA will start getting paid again following Trump’s executive order",
-    "link": "https://nypost.com/2026/03/29/us-news/tom-homan-reveals-when-tsa-will-start-getting-paid-again-following-trumps-executive-order/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-03-29-07-51-04 +0000",
-    "source": "bbc",
-    "headline": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-    "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-03-28-23-37-16 +0000",
-    "source": "nypost",
-    "headline": "JD Vance wins 2028 CPAC GOP presidential straw poll — but Marco Rubio closes ground",
-    "link": "https://nypost.com/2026/03/28/us-news/rubio-cuts-into-vances-lead-as-2028-gop-race-tightens-at-cpac/"
+    "headline": "New details seep out after man mysteriously found dead in back of cop car outside station",
+    "link": "https://nypost.com/2026/03/29/us-news/california-man-found-dead-in-back-of-police-car-outside-station-as-new-details-emerge/"
   }
 ]
