@@ -1,9 +1,321 @@
 [
   {
-    "headline": "Live: Goodhue takes slim lead over Minnehaha Academy into halftime",
+    "headline": "How Pakistan Wooed Trump and Styled Itself as a Peace Broker in Iran Conflict",
+    "link": "https://www.wsj.com/world/middle-east/pakistan-trump-iran-war-84b8248e",
+    "source": "wsj",
+    "pubdate": "2026-03-29-02-38-00 +0000"
+  },
+  {
+    "headline": "Live: Chaska holds on, wins Class 4A title 63-55 over Apple Valley",
     "link": "https://www.startribune.com/minnesota-boys-basketball-state-tournament-live-scores-4a-3a-2a-1a-championship/601599307",
     "source": "startribune",
-    "pubdate": "2026-03-28-22-58-59 +0000"
+    "pubdate": "2026-03-29-02-36-44 +0000"
+  },
+  {
+    "headline": "Hundreds pack NYC suburb to remember Loyola University student Sheridan Gorman: ‘She was our joy’",
+    "link": "https://nypost.com/2026/03/28/us-news/hundreds-pack-nyc-suburb-to-remember-loyola-university-student-sheridan-gorman/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-02-31-01 +0000"
+  },
+  {
+    "headline": "No Kings Protests Held Across the U.S.: Photos and Videos",
+    "link": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html",
+    "source": "nyt",
+    "pubdate": "2026-03-29-02-25-54 +0000"
+  },
+  {
+    "headline": "Takeaways: Wild lose for sixth time in nine games with 6-3 loss at Boston",
+    "link": "https://www.startribune.com/takeaways-wild-lose-for-sixth-time-in-nine-games-with-6-3-loss-at-boston/601588424",
+    "source": "startribune",
+    "pubdate": "2026-03-29-02-13-11 +0000"
+  },
+  {
+    "headline": "Shocking scenes in DTLA as anti-Trump agitators descend on federal building",
+    "link": "https://nypost.com/2026/03/28/us-news/violent-no-kings-protesters-descend-on-downtown-los-angeles/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-02-00-49 +0000"
+  },
+  {
+    "headline": "Record Number of T.S.A. Employees Called Out on Friday",
+    "link": "https://www.nytimes.com/2026/03/28/us/tsa-employees-airports-wait-times.html",
+    "source": "nyt",
+    "pubdate": "2026-03-29-01-58-15 +0000"
+  },
+  {
+    "headline": "Mayor Mamdani’s budget mess is creating chaos in the NYC bond market",
+    "link": "https://nypost.com/2026/03/28/business/mayor-mamdanis-budget-mess-is-creating-chaos-in-the-nyc-bond-market/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-01-57-21 +0000"
+  },
+  {
+    "headline": "Wild San Francisco street fight shows young punks randomly bashing man in broad daylight",
+    "link": "https://nypost.com/2026/03/28/us-news/wild-san-francisco-street-fight-shows-young-punks-bashing-man-in-broad-daylight/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-01-40-32 +0000"
+  },
+  {
+    "headline": "Four injured in Upper West Side high rise fire",
+    "link": "https://nypost.com/2026/03/28/us-news/four-injured-in-upper-west-side-high-rise-fire/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-01-20-30 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
+    "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
+    "source": "nyt",
+    "pubdate": "2026-03-29-01-06-22 +0000"
+  },
+  {
+    "headline": "Florida man uses his body as shield against hailstorm in wild video: ‘Yes, it hurt’",
+    "link": "https://nypost.com/2026/03/28/us-news/florida-man-uses-his-body-as-shield-against-hailstorm-in-wild-video/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-01-03-45 +0000"
+  },
+  {
+    "headline": "The Venezuelan First Lady’s Other Job: Tending a Family Crime Dynasty",
+    "link": "https://www.wsj.com/world/americas/venezuelan-first-lady-drug-trafficking-family-43cc6dd2",
+    "source": "wsj",
+    "pubdate": "2026-03-29-01-00-00 +0000"
+  },
+  {
+    "headline": "Battered by Stock Losses, Investors Find Little Relief in Bonds",
+    "link": "https://www.wsj.com/finance/investing/battered-by-stock-losses-investors-find-little-relief-in-bonds-af3f8a14?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-29-01-00-00 +0000"
+  },
+  {
+    "headline": "Violent teen ‘fight club’ on SoCal beach draws hordes of bloodthirsty spectators",
+    "link": "https://nypost.com/2026/03/28/us-news/violent-teen-fight-club-on-socal-beach-draws-hundreds-of-bloodthirsty-spectators/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-00-54-32 +0000"
+  },
+  {
+    "headline": "‘No Kings’ Protests Decry Trump and His Agenda",
+    "link": "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html",
+    "source": "nyt",
+    "pubdate": "2026-03-29-00-40-43 +0000"
+  },
+  {
+    "headline": "Woman wins $14 million after eating ice cream with metal nails and left unable to have children",
+    "link": "https://nypost.com/2026/03/28/us-news/woman-wins-14m-judgment-after-eating-ice-cream-with-metal-nails/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-00-34-16 +0000"
+  },
+  {
+    "headline": "Mystery surrounds welfare of socialist San Francisco supervisor as city investigates leaked memo",
+    "link": "https://nypost.com/2026/03/28/us-news/san-francisco-supervisor-jackie-fielder-hospitalized-after-leak/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-00-31-38 +0000"
+  },
+  {
+    "headline": "Mystery surrounds welfare of socialist San Francisco supervisor as city investigates leaked memo",
+    "link": "https://nypost.com/2026/03/28/us-news/san-francisco-supervisor-jackie-fielder-hospitalized-after-leak/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-00-31-38 +0000"
+  },
+  {
+    "headline": "Halfway Through Lent, a Small Quebec Island Celebrates With Masks and Jigs",
+    "link": "https://www.nytimes.com/2026/03/28/world/canada/mid-lent-celebration-quebec-islands.html",
+    "source": "nyt",
+    "pubdate": "2026-03-29-00-29-42 +0000"
+  },
+  {
+    "headline": "Halfway Through Lent, a Small Quebec Island Celebrates With Masks and Jigs",
+    "link": "https://www.nytimes.com/2026/03/28/world/canada/mid-lent-celebration-quebec-islands.html",
+    "source": "nyt",
+    "pubdate": "2026-03-29-00-29-42 +0000"
+  },
+  {
+    "headline": "Famed California winery settles lawsuit over vile claims of sexual harassment against female staff",
+    "link": "https://nypost.com/2026/03/28/us-news/famed-california-winery-settles-lawsuit-over-vile-claims-of-sexual-harassment-against-female-staff/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-00-23-21 +0000"
+  },
+  {
+    "headline": "Pentagon prepares for weeks of ground operations in Iran",
+    "link": "https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/",
+    "source": "wapo",
+    "pubdate": "2026-03-29-00-22-02 +0000"
+  },
+  {
+    "headline": "Hundreds of thousands of demonstrators are taking to the streets across the nation for a day of “No Kings” rallies Saturday in opposition to President Trump",
+    "link": "https://www.wsj.com/us-news/crowds-gather-across-u-s-for-no-kings-rallies-to-oppose-trump-0d3a380d",
+    "source": "wsj",
+    "pubdate": "2026-03-29-00-15-00 +0000"
+  },
+  {
+    "headline": "Crowds Gather Across U.S. for ‘No Kings’ Rallies to Oppose Trump",
+    "link": "https://www.wsj.com/us-news/crowds-gather-across-u-s-for-no-kings-rallies-to-oppose-trump-0d3a380d",
+    "source": "wsj",
+    "pubdate": "2026-03-29-00-15-00 +0000"
+  },
+  {
+    "headline": "Tiger Woods’ girlfriend Vanessa Trump shares first Instagram post since his Florida DUI rollover crash",
+    "link": "https://nypost.com/2026/03/28/us-news/tiger-woods-girlfriend-vanessa-trump-shares-first-instagram-post-since-his-florida-dui-rollover-crash/",
+    "source": "nypost",
+    "pubdate": "2026-03-29-00-12-32 +0000"
+  },
+  {
+    "headline": "Justin: The five most magical music moments from the Twin Cities 'No Kings' rally",
+    "link": "https://www.startribune.com/neal-justin-no-kings-st-paul-music-review-springsteen-baez-maggie-rogers-larry-long-venus-de-mars/601645122",
+    "source": "startribune",
+    "pubdate": "2026-03-29-00-03-45 +0000"
+  },
+  {
+    "headline": "Trump is waging war based on instinct and it isn't working",
+    "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-29-00-02-46 +0000"
+  },
+  {
+    "headline": "Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial",
+    "link": "https://www.bbc.com/news/articles/c2034ww6kqxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-29-00-02-36 +0000"
+  },
+  {
+    "headline": "One ant for $220: the new frontier of wildlife trafficking",
+    "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-29-00-01-15 +0000"
+  },
+  {
+    "headline": "One ant for $220: the new frontier of wildlife trafficking",
+    "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-29-00-01-15 +0000"
+  },
+  {
+    "headline": "How deepfake porn scandal surrounding TV star rocked Germany",
+    "link": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-29-00-00-18 +0000"
+  },
+  {
+    "headline": "Think Love Island is bad? Wait until you see the AI fruit version",
+    "link": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-29-00-00-05 +0000"
+  },
+  {
+    "headline": "Private credit is fast-growing, opaque and intertwined with banks but lacks the scale and leverage that cashiered the economy in 2007, @greg_ip writes",
+    "link": "https://www.wsj.com/economy/is-another-financial-crisis-lurking-in-private-credit-cad379b1",
+    "source": "wsj",
+    "pubdate": "2026-03-29-00-00-00 +0000"
+  },
+  {
+    "headline": "Investigators searched the office of a FEMA contractor as they investigate a network of aides put in place by former DHS Secretary Kristi Noem and adviser Corey Lewandowski, according to people familiar with the matter",
+    "link": "https://www.wsj.com/politics/national-security/investigators-examine-contractor-installed-at-fema-under-kristi-noem-f6f0029d",
+    "source": "wsj",
+    "pubdate": "2026-03-29-00-00-00 +0000"
+  },
+  {
+    "headline": "Is Another Financial Crisis Lurking in Private Credit?",
+    "link": "https://www.wsj.com/economy/is-another-financial-crisis-lurking-in-private-credit-cad379b1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-29-00-00-00 +0000"
+  },
+  {
+    "headline": "Kamala’s hubby Doug Emhoff joins celebs at luxe ‘No Kings’ event near $8M home",
+    "link": "https://nypost.com/2026/03/28/us-news/kamala-husband-doug-emhoff-with-celebrities-at-no-kings-malibu/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-59-36 +0000"
+  },
+  {
+    "headline": "Pit bull viciously attacks toddler and mother in horrific frenzy: ‘Covered in blood’",
+    "link": "https://nypost.com/2026/03/28/us-news/pit-bull-viciously-attacks-toddler-and-mother-in-horrific-frenzy-covered-in-blood/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-59-06 +0000"
+  },
+  {
+    "headline": "Tens of thousands of ‘No Kings’ protestors rally in Manhattan against Trump",
+    "link": "https://nypost.com/2026/03/28/us-news/no-kings-tens-of-thousands-of-protestors-rally-in-manhattan-against-trump/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-41-58 +0000"
+  },
+  {
+    "headline": "Tens of thousands of ‘No Kings’ protestors rally in Manhattan against Trump",
+    "link": "https://nypost.com/2026/03/28/us-news/no-kings-tens-of-thousands-of-protestors-rally-in-manhattan-against-trump/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-41-58 +0000"
+  },
+  {
+    "headline": "JD Vance wins 2028 CPAC GOP presidential straw poll — but Marco Rubio closes ground",
+    "link": "https://nypost.com/2026/03/28/us-news/rubio-cuts-into-vances-lead-as-2028-gop-race-tightens-at-cpac/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-37-16 +0000"
+  },
+  {
+    "headline": "JD Vance wins 2028 CPAC GOP presidential straw poll — but Marco Rubio closes ground",
+    "link": "https://nypost.com/2026/03/28/us-news/rubio-cuts-into-vances-lead-as-2028-gop-race-tightens-at-cpac/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-37-16 +0000"
+  },
+  {
+    "headline": "Dodgers’ $75 souvenir Ohtani cup comes with new price and perks — and there’s more to come",
+    "link": "https://nypost.com/2026/03/28/us-news/75-souvenir-ohtani-cup-comes-with-new-perks-after-eye-watering-price-revealed/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-31-47 +0000"
+  },
+  {
+    "headline": "Trump family relieved that trained agents – not Tiger – drive president’s grandkids",
+    "link": "https://nypost.com/2026/03/28/us-news/trump-family-relieved-that-trained-agents-not-tiger-drive-presidents-grandkids/",
+    "source": "nypost",
+    "pubdate": "2026-03-28-23-28-15 +0000"
+  },
+  {
+    "headline": "India restoring a centuries-old royal kitchen that never stopped serving food",
+    "link": "https://www.bbc.com/news/articles/cj0vj36yd12o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-28-23-25-03 +0000"
+  },
+  {
+    "headline": "The latest: Flagship ‘No Kings’ rally at the State Capitol celebrated Minnesota while taking on Trump",
+    "link": "https://www.startribune.com/live-flagship-no-kings-protest-puts-national-spotlight-on-minnesota/601616035",
+    "source": "startribune",
+    "pubdate": "2026-03-28-23-24-03 +0000"
+  },
+  {
+    "headline": "No Kings protests draw crowds, with record number taking place across U.S.",
+    "link": "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/",
+    "source": "wapo",
+    "pubdate": "2026-03-28-23-16-41 +0000"
+  },
+  {
+    "headline": "Here’s What Happened in the War in the Middle East on Saturday",
+    "link": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
+    "source": "nyt",
+    "pubdate": "2026-03-28-23-16-00 +0000"
+  },
+  {
+    "headline": "Here’s What Happened in the War in the Middle East on Saturday",
+    "link": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
+    "source": "nyt",
+    "pubdate": "2026-03-28-23-16-00 +0000"
+  },
+  {
+    "headline": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+    "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-28-23-00-49 +0000"
+  },
+  {
+    "headline": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+    "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-28-23-00-49 +0000"
+  },
+  {
+    "headline": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+    "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-28-23-00-49 +0000"
+  },
+  {
+    "headline": "President Trump’s tax cuts are delivering bigger refunds and smaller tax bills to high-income, Democratic-leaning regions that didn’t vote for him",
+    "link": "https://www.wsj.com/politics/policy/trump-salt-tax-deduction-democratic-states-c419b8a4",
+    "source": "wsj",
+    "pubdate": "2026-03-28-23-00-00 +0000"
   },
   {
     "headline": "No Kings protests across the US rally against Donald Trump",
@@ -36,40 +348,10 @@
     "pubdate": "2026-03-28-22-39-54 +0000"
   },
   {
-    "headline": "No Kings Protests Held Across the U.S.: Photos and Videos",
-    "link": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html",
-    "source": "nyt",
-    "pubdate": "2026-03-28-22-37-47 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: U.S. Marines Arrive in Middle East, as Houthis Enter War",
-    "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
-    "source": "nyt",
-    "pubdate": "2026-03-28-22-29-44 +0000"
-  },
-  {
     "headline": "Mom of Brooklyn boy caught in crossfire aims to raise money to flee to safety",
     "link": "https://nypost.com/2026/03/28/us-news/mom-of-shot-brooklyn-boy-aims-to-raise-money-to-flee-to-safety/",
     "source": "nypost",
     "pubdate": "2026-03-28-22-29-37 +0000"
-  },
-  {
-    "headline": "Here’s What Happened in the War in the Middle East on Saturday",
-    "link": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
-    "source": "nyt",
-    "pubdate": "2026-03-28-22-24-24 +0000"
-  },
-  {
-    "headline": "Here’s What Happened in the War in the Middle East on Saturday",
-    "link": "https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html",
-    "source": "nyt",
-    "pubdate": "2026-03-28-22-24-24 +0000"
-  },
-  {
-    "headline": "Live: Flagship ‘No Kings’ rally at the State Capitol celebrated Minnesota while taking on Trump",
-    "link": "https://www.startribune.com/live-flagship-no-kings-protest-puts-national-spotlight-on-minnesota/601616035",
-    "source": "startribune",
-    "pubdate": "2026-03-28-22-22-44 +0000"
   },
   {
     "headline": "In Dubai, a famed horse race goes on, despite the war.",
@@ -90,18 +372,6 @@
     "pubdate": "2026-03-28-22-18-51 +0000"
   },
   {
-    "headline": "Hundreds of thousands of demonstrators are taking to the streets across the nation for a day of “No Kings” rallies Saturday in opposition to President Trump",
-    "link": "https://www.wsj.com/us-news/crowds-gather-across-u-s-for-no-kings-rallies-to-oppose-trump-0d3a380d",
-    "source": "wsj",
-    "pubdate": "2026-03-28-22-16-00 +0000"
-  },
-  {
-    "headline": "Crowds Gather Across U.S. for ‘No Kings’ Rallies to Oppose Trump",
-    "link": "https://www.wsj.com/us-news/crowds-gather-across-u-s-for-no-kings-rallies-to-oppose-trump-0d3a380d",
-    "source": "wsj",
-    "pubdate": "2026-03-28-22-16-00 +0000"
-  },
-  {
     "headline": "Watch: Iconic global landmarks turn off lights for Earth Hour",
     "link": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -112,12 +382,6 @@
     "link": "https://nypost.com/2026/03/28/us-news/bikini-clad-swimmer-breaks-silence-after-death-defying-rescue-from-san-francisco-cliff/",
     "source": "nypost",
     "pubdate": "2026-03-28-21-59-58 +0000"
-  },
-  {
-    "headline": "Protesters face off at ‘No Kings’ demonstration outside Trump’s SoCal golf course",
-    "link": "https://nypost.com/2026/03/28/us-news/tensions-flare-outside-trump-national-golf-club-in-palos-verdes/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-21-56-56 +0000"
   },
   {
     "headline": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
@@ -150,12 +414,6 @@
     "pubdate": "2026-03-28-21-48-26 +0000"
   },
   {
-    "headline": "NYC graduation rates down by largest year-over-year percentage in 20 years",
-    "link": "https://nypost.com/2026/03/28/us-news/nyc-graduation-rates-down-by-largest-year-over-year-percentage-in-20-years/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-21-47-54 +0000"
-  },
-  {
     "headline": "G.O.P. Rift Leaves Congress With No Clear Path to End the Shutdown",
     "link": "https://www.nytimes.com/2026/03/28/us/gop-rift-leaves-no-clear-shutdown-off-ramp.html",
     "source": "nyt",
@@ -174,24 +432,6 @@
     "pubdate": "2026-03-28-21-35-31 +0000"
   },
   {
-    "headline": "Disturbing twist in glamorous LA divorcée’s killing – as boytoy lover’s trans secret ignites family",
-    "link": "https://nypost.com/2026/03/28/us-news/la-divorcee-allegedly-gunned-down-by-younger-trans-partner-in-beverly-grove/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-21-31-03 +0000"
-  },
-  {
-    "headline": "Skeptical Missouri congressman on mission to crack open America’s secret UFO bases",
-    "link": "https://nypost.com/2026/03/28/us-news/missouri-rep-eric-burlison-is-on-a-mission-to-visit-secret-ufo-related-army-bases-in-us-and-around-the-world/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-21-23-13 +0000"
-  },
-  {
-    "headline": "‘No Kings’ Protests Decry Trump and His Agenda",
-    "link": "https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html",
-    "source": "nyt",
-    "pubdate": "2026-03-28-21-20-04 +0000"
-  },
-  {
     "headline": "10 Million Grill Brushes Recalled After Some People Ingested Loose Bristles",
     "link": "https://www.nytimes.com/2026/03/28/business/nexgrill-grill-brush-recall-spikes-ingested.html",
     "source": "nyt",
@@ -204,40 +444,10 @@
     "pubdate": "2026-03-28-21-04-30 +0000"
   },
   {
-    "headline": "Iran-backed Houthis enter the month-old war and could further threaten global shipping",
-    "link": "https://www.startribune.com/israel-says-it-intercepted-first-incoming-missile-from-yemen-as-war-in-middle-east-intensifies/601644096",
-    "source": "startribune",
-    "pubdate": "2026-03-28-20-55-02 +0000"
-  },
-  {
     "headline": "Iran-backed Houthis join war with attack against Israel",
     "link": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-28-20-51-57 +0000"
-  },
-  {
-    "headline": "Desperate California man breaks IN to jail to avoid ICE agent",
-    "link": "https://nypost.com/2026/03/28/us-news/desperate-california-man-breaks-in-to-jail-to-avoid-ice-agents/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-20-50-02 +0000"
-  },
-  {
-    "headline": "‘Vacation from hell:’ NYC man left with ‘traumatic brain injury’ on trip to luxe Mexican spa",
-    "link": "https://nypost.com/2026/03/28/us-news/nyc-man-left-with-traumatic-brain-injury-on-luxe-trip-to-mexican-spa-lawsuit/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-20-50-02 +0000"
-  },
-  {
-    "headline": "Man’s body found on rocks at Brooklyn park: NYPD",
-    "link": "https://nypost.com/2026/03/28/us-news/mans-body-found-on-rocks-at-brooklyn-park-nypd/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-20-46-48 +0000"
-  },
-  {
-    "headline": "Scouting America moves to shed ‘woke’ label with major recommitment to military, traditional American values",
-    "link": "https://nypost.com/2026/03/28/us-news/scouting-america-moves-to-shed-woke-label-with-major-recommitment-to-military-traditional-american-values/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-20-46-22 +0000"
   },
   {
     "headline": "Four-time Vikings Pro Bowl linebacker Jeff Siemon dead at 75",
@@ -256,18 +466,6 @@
     "link": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/heres-the-latest",
     "source": "nyt",
     "pubdate": "2026-03-28-20-44-49 +0000"
-  },
-  {
-    "headline": "Say it ain’t snow! Emergency shoveler sues city for failing to pay after historic blizzard",
-    "link": "https://nypost.com/2026/03/28/us-news/say-it-aint-snow-emergency-shoveler-sues-city-for-failing-to-pay-after-historic-blizzard/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-20-34-00 +0000"
-  },
-  {
-    "headline": "‘Trump Car’ owner refuses to settle with town that ordered him to take down flags",
-    "link": "https://nypost.com/2026/03/28/us-news/trump-car-owner-refuses-to-settle-with-town-that-ordered-him-to-take-down-flags/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-20-29-28 +0000"
   },
   {
     "headline": "Airstrikes batter a university and residential zones in Tehran.",
@@ -342,34 +540,10 @@
     "pubdate": "2026-03-28-20-11-02 +0000"
   },
   {
-    "headline": "Reza Pahlavi tells CPAC remnants of ‘snake’ Iranian regime cannot be allowed to rule: ‘Venom is in its DNA’",
-    "link": "https://nypost.com/2026/03/28/us-news/reza-pahlavi-tells-cpac-remnants-of-snake-iranian-regime-cannot-be-allowed-to-rule-venom-is-in-its-dna/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-20-06-07 +0000"
-  },
-  {
     "headline": "Iran-backed Houthis in Yemen launch attack on Israel for first time in war",
     "link": "https://www.washingtonpost.com/world/2026/03/28/iran-us-war-yemen-trump/",
     "source": "wapo",
     "pubdate": "2026-03-28-20-02-09 +0000"
-  },
-  {
-    "headline": "No Kings protests draw crowds, with record number taking place across U.S.",
-    "link": "https://www.washingtonpost.com/nation/2026/03/28/no-kings-protests-marches-record-turnout/",
-    "source": "wapo",
-    "pubdate": "2026-03-28-19-57-58 +0000"
-  },
-  {
-    "headline": "Man eats at 28 Michelin-star NYC restaurants in 24 hours to earn world record — and it cost him a surprising amount",
-    "link": "https://nypost.com/2026/03/28/us-news/man-eats-at-28-michelin-star-nyc-restaurants-in-24-hours-to-earn-world-record-and-this-is-how-much-it-cost/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-19-54-21 +0000"
-  },
-  {
-    "headline": "Penthouse Pet accused of robbing sugar daddies stole $100K in designer clothes from victim’s daughter",
-    "link": "https://nypost.com/2026/03/28/us-news/adva-lavie-aka-mia-ventura-allegedly-stole-100000-dollars-worth-of-clothes/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-19-53-28 +0000"
   },
   {
     "headline": "Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast",
@@ -408,24 +582,6 @@
     "pubdate": "2026-03-28-19-52-22 +0000"
   },
   {
-    "headline": "‘Rocket Man’ terrorizes drivers on Florida highway, bomb squad called in",
-    "link": "https://nypost.com/2026/03/28/us-news/rocket-man-terrorizes-drivers-on-florida-highway-bomb-squad-called-in/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-19-52-11 +0000"
-  },
-  {
-    "headline": "NYC Underground Railroad site endangered by proposed tower next door: advocates",
-    "link": "https://nypost.com/2026/03/28/us-news/merchants-house-museum-where-underground-railroad-was-found-is-in-danger/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-19-51-19 +0000"
-  },
-  {
-    "headline": "‘Viva Cuba!’ activists, pols turn CUNY conference  into anti-American hatefest",
-    "link": "https://nypost.com/2026/03/28/us-news/viva-cuba-activists-pols-turn-cuny-conference-on-commie-country-into-anti-american-hatefest/",
-    "source": "nypost",
-    "pubdate": "2026-03-28-19-49-59 +0000"
-  },
-  {
     "headline": "‘Viva Cuba!’ activists, pols turn CUNY conference  into anti-American hatefest",
     "link": "https://nypost.com/2026/03/28/us-news/viva-cuba-activists-pols-turn-cuny-conference-on-commie-country-into-anti-american-hatefest/",
     "source": "nypost",
@@ -459,13 +615,13 @@
     "headline": "Man in Paris Accused of Attempted Attack on Bank of America",
     "link": "https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-19-27-58 +0000"
+    "pubdate": "2026-03-28-19-27-59 +0000"
   },
   {
     "headline": "Man in Paris Accused of Attempted Attack on Bank of America",
     "link": "https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-19-27-58 +0000"
+    "pubdate": "2026-03-28-19-27-59 +0000"
   },
   {
     "headline": "Newly emerged video shows Noelia Castillo’s father cheering her on as she tried to walk",
@@ -558,34 +714,16 @@
     "pubdate": "2026-03-28-18-54-09 +0000"
   },
   {
-    "headline": "Millions protest Trump globally during Saturday's 'No Kings' rallies",
+    "headline": "'No Kings' protesters pack city streets across the nation as crowds lash out against Trump",
     "link": "https://www.latimes.com/california/story/2026-03-28/no-kings-rallies-draw-millions-protesting-trump-globally",
     "source": "latimes",
     "pubdate": "2026-03-28-18-49-00 +0000"
   },
   {
-    "headline": "Millions protest Trump globally during Saturday's 'No Kings' rallies",
+    "headline": "'No Kings' protesters pack city streets across the nation as crowds lash out against Trump",
     "link": "https://www.latimes.com/california/story/2026-03-28/no-kings-rallies-draw-millions-protesting-trump-globally",
     "source": "latimes",
     "pubdate": "2026-03-28-18-49-00 +0000"
-  },
-  {
-    "headline": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
-    "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-28-18-34-24 +0000"
-  },
-  {
-    "headline": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
-    "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-28-18-34-24 +0000"
-  },
-  {
-    "headline": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
-    "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-28-18-34-24 +0000"
   },
   {
     "headline": "Anger over Iran war adds fuel to anti-Trump 'No Kings' protests across U.S.",
@@ -705,31 +843,31 @@
     "headline": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
     "link": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-16-26-20 +0000"
+    "pubdate": "2026-03-28-16-26-21 +0000"
   },
   {
     "headline": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
     "link": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-16-26-20 +0000"
+    "pubdate": "2026-03-28-16-26-21 +0000"
   },
   {
     "headline": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
     "link": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-16-26-20 +0000"
+    "pubdate": "2026-03-28-16-26-21 +0000"
   },
   {
     "headline": "Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War",
     "link": "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-16-03-34 +0000"
+    "pubdate": "2026-03-28-16-03-35 +0000"
   },
   {
     "headline": "Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War",
     "link": "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-16-03-34 +0000"
+    "pubdate": "2026-03-28-16-03-35 +0000"
   },
   {
     "headline": "Five books we can't wait to read in April",
@@ -820,18 +958,6 @@
     "link": "https://48hills.org/2026/03/win-a-pair-of-vip-tickets-to-opulent-temples-sacred-dance-white-party/",
     "source": "48hills",
     "pubdate": "2026-03-28-14-43-31 +0000"
-  },
-  {
-    "headline": "Halfway Through Lent, a Small Quebec Island Celebrates With Masks and Jigs",
-    "link": "https://www.nytimes.com/2026/03/28/world/canada/mid-lent-celebration-quebec-islands.html",
-    "source": "nyt",
-    "pubdate": "2026-03-28-14-38-17 +0000"
-  },
-  {
-    "headline": "Halfway Through Lent, a Small Quebec Island Celebrates With Masks and Jigs",
-    "link": "https://www.nytimes.com/2026/03/28/world/canada/mid-lent-celebration-quebec-islands.html",
-    "source": "nyt",
-    "pubdate": "2026-03-28-14-38-17 +0000"
   },
   {
     "headline": "Win tickets to Wallice, skaiwater, HEALTH & Carpenter Brut",
@@ -1200,12 +1326,6 @@
     "pubdate": "2026-03-28-05-56-21 +0000"
   },
   {
-    "headline": "Scoggins: Sweet 16 loss aside, these Gophers will be remembered for raising the bar",
-    "link": "https://www.startribune.com/gophers-womens-basketball-ucla-sweet-16-ncaa-tournament-amaya-battle-dawn-plitzuweit-mara-braun/601627956",
-    "source": "startribune",
-    "pubdate": "2026-03-28-05-10-34 +0000"
-  },
-  {
     "headline": "At CPAC, the ‘America First’ Crowd Ponders Giving War a Chance",
     "link": "https://www.nytimes.com/2026/03/27/us/politics/cpac-trump-iran-war.html",
     "source": "nyt",
@@ -1257,13 +1377,13 @@
     "headline": "Trump Says Middle East Is ‘Saved’ as Iran Strikes Injure U.S. Troops in Gulf",
     "link": "https://www.nytimes.com/2026/03/27/us/politics/trump-saudi-speech.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-02-33-56 +0000"
+    "pubdate": "2026-03-28-02-33-57 +0000"
   },
   {
     "headline": "Trump Says Middle East Is ‘Saved’ as Iran Strikes Injure U.S. Troops in Gulf",
     "link": "https://www.nytimes.com/2026/03/27/us/politics/trump-saudi-speech.html",
     "source": "nyt",
-    "pubdate": "2026-03-28-02-33-56 +0000"
+    "pubdate": "2026-03-28-02-33-57 +0000"
   },
   {
     "headline": "Iranian Strike on U.S. Base in Saudi Arabia Injures 12 American Troops, Officials Say",
@@ -1458,12 +1578,6 @@
     "pubdate": "2026-03-28-00-07-10 +0000"
   },
   {
-    "headline": "When Will TSA Workers Be Paid? Here’s What We Know",
-    "link": "https://www.nytimes.com/2026/03/27/us/politics/tsa-pay.html",
-    "source": "nyt",
-    "pubdate": "2026-03-28-00-07-10 +0000"
-  },
-  {
     "headline": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
     "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1620,13 +1734,7 @@
     "pubdate": "2026-03-27-23-00-24 +0000"
   },
   {
-    "headline": "Society has always worried about protecting the young. But the latest ruling about Meta and YouTube overlooks the upsides of free speech, Jacob Mchangama and Jeff Kosseff write.",
-    "link": "https://www.wsj.com/politics/social-media-freedom-speech-meta-youtube-ruling-32aaee3b",
-    "source": "wsj",
-    "pubdate": "2026-03-27-23-00-00 +0000"
-  },
-  {
-    "headline": "What an Influx of 17,000 U.S. Troops Could Mean for the Iran War",
+    "headline": "If President Trump gives the go-ahead, the U.S. could soon have over 17,000 troops on Iran’s doorstep, but any operation to seize an island or territory would be considered complex and dangerous",
     "link": "https://www.wsj.com/politics/national-security/what-an-influx-of-17-000-u-s-troops-could-mean-for-the-iran-war-7569afea",
     "source": "wsj",
     "pubdate": "2026-03-27-23-00-00 +0000"
@@ -2316,24 +2424,12 @@
     "pubdate": "2026-03-27-18-11-00 +0000"
   },
   {
-    "headline": "Gavin Newsom jabs Trump on prediction markets by banning California officials from making insider bets",
-    "link": "https://nypost.com/2026/03/27/us-news/gavin-newsom-jabs-trump-on-prediction-markets-by-banning-california-officials-from-making-insider-bets/",
-    "source": "nypost",
-    "pubdate": "2026-03-27-18-10-02 +0000"
-  },
-  {
     "headline": "Carnival Cuts Profit Outlook as Higher Fuel Costs Offset Resilient Demand",
     "link": "https://www.wsj.com/business/earnings/carnival-cuts-profit-outlook-as-fuel-costs-rise-afab5fcd?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-27-18-07-00 +0000"
   },
   {
-    "headline": "Vance assembles cabinet secretaries for first anti-fraud task force meeting",
-    "link": "https://nypost.com/2026/03/27/us-news/vance-assembles-cabinet-secretaries-for-first-anti-fraud-task-force-meeting/",
-    "source": "nypost",
-    "pubdate": "2026-03-27-18-04-28 +0000"
-  },
-  {
     "headline": "Noelia Castillo Ramos Dies in Spain After Winning Right to End Her Life",
     "link": "https://www.nytimes.com/2026/03/27/world/europe/noelia-castillo-ramos-spain-assisted-death.html",
     "source": "nyt",
@@ -2344,12 +2440,6 @@
     "link": "https://www.nytimes.com/2026/03/27/world/europe/noelia-castillo-ramos-spain-assisted-death.html",
     "source": "nyt",
     "pubdate": "2026-03-27-18-03-41 +0000"
-  },
-  {
-    "headline": "Barack Obama greenlit Gavin Newsom’s Prop. 50 gerrymander",
-    "link": "https://nypost.com/2026/03/27/us-news/barack-obama-greenlit-gavin-newsoms-prop-50-gerrymander/",
-    "source": "nypost",
-    "pubdate": "2026-03-27-18-03-32 +0000"
   },
   {
     "headline": "Savannah Guthrie Is Returning to ‘Today’",
@@ -2676,12 +2766,6 @@
     "pubdate": "2026-03-27-15-03-32 +0000"
   },
   {
-    "headline": "Whale swims for freedom after big German rescue effort on Baltic coast",
-    "link": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-27-15-03-32 +0000"
-  },
-  {
     "headline": "Europe Scrounges for Gas Supplies in Wake of Iran War",
     "link": "https://www.wsj.com/world/europe/europe-scrounges-for-gas-supplies-in-wake-of-iran-war-a4937435",
     "source": "wsj",
@@ -2830,12 +2914,6 @@
     "link": "https://www.wsj.com/business/norwegian-cruise-line-to-overhaul-board-after-truce-with-elliott-7374e44e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-03-27-13-41-00 +0000"
-  },
-  {
-    "headline": "UN human rights chief calls on US to conclude probe into Iran school strike",
-    "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-27-13-25-57 +0000"
   },
   {
     "headline": "UN human rights chief calls on US to conclude probe into Iran school strike",
@@ -3384,22 +3462,10 @@
     "pubdate": "2026-03-27-07-20-18 +0000"
   },
   {
-    "headline": "Women secretly filmed, then ridiculed and abused online",
-    "link": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-27-07-20-18 +0000"
-  },
-  {
     "headline": "Trump’s Signature Is Set to Be Added to America’s Currency",
     "link": "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html",
     "source": "nyt",
     "pubdate": "2026-03-27-07-15-54 +0000"
-  },
-  {
-    "headline": "Nepal swears in ex-rapper as new prime minister",
-    "link": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-27-07-10-50 +0000"
   },
   {
     "headline": "Nepal swears in ex-rapper as new prime minister",
@@ -3858,12 +3924,6 @@
     "pubdate": "2026-03-26-23-00-06 +0000"
   },
   {
-    "headline": "Netflix hiking prices on all subscriptions again — here’s by how much",
-    "link": "https://nypost.com/2026/03/26/media/netflix-hiking-prices-on-all-subscriptions-again-heres-how-much/",
-    "source": "nypost",
-    "pubdate": "2026-03-26-22-52-08 +0000"
-  },
-  {
     "headline": "Bill Maher on getting the Mark Twain Prize for humor: 'Like an Emmy, except I win'",
     "link": "https://www.latimes.com/entertainment-arts/story/2026-03-26/bill-maher-mark-twain-prize-american-humor-trump-kennedy-center",
     "source": "latimes",
@@ -4302,12 +4362,6 @@
     "pubdate": "2026-03-26-18-31-46 +0000"
   },
   {
-    "headline": "Stocks Retreat, Oil Pushes Past $100 Again",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-pushes-higher-as-jittery-markets-doubt-prospect-of-peace-03124a37?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-26-18-22-00 +0000"
-  },
-  {
     "headline": "Hungary Opens Espionage Case Against Journalist",
     "link": "https://www.nytimes.com/2026/03/26/world/europe/hungary-journalist-election-meddling-espionage.html",
     "source": "nyt",
@@ -4336,12 +4390,6 @@
     "link": "https://www.bbc.com/news/videos/c0kr5xdj45xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-26-18-09-36 +0000"
-  },
-  {
-    "headline": "Under Carney, Canada Finally Hits NATO’s 2% Spending Target",
-    "link": "https://www.nytimes.com/2026/03/26/world/canada/carney-canada-nato-spending.html",
-    "source": "nyt",
-    "pubdate": "2026-03-26-18-07-50 +0000"
   },
   {
     "headline": "Under Carney, Canada Finally Hits NATO’s 2% Spending Target",
@@ -4500,12 +4548,6 @@
     "pubdate": "2026-03-26-16-18-00 +0000"
   },
   {
-    "headline": "Trump Tells Aides He Wants Speedy End to Iran War",
-    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b",
-    "source": "wsj",
-    "pubdate": "2026-03-26-16-18-00 +0000"
-  },
-  {
     "headline": "NS&I boss replaced as savers left waiting for millions of pounds",
     "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4606,12 +4648,6 @@
     "link": "https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html",
     "source": "nyt",
     "pubdate": "2026-03-26-15-09-01 +0000"
-  },
-  {
-    "headline": "Wall Street Pays Out Record Bonuses, Nearing $250,000 on Average",
-    "link": "https://www.wsj.com/finance/wall-streets-average-bonus-nears-250-000-c8ccc0b9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-26-15-00-00 +0000"
   },
   {
     "headline": "Wall Street Pays Out Record Bonuses, Nearing $250,000 on Average",
@@ -4890,14 +4926,8 @@
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
   {
-    "headline": "He was busted for gun possession. Now he's running for L.A. City Council",
-    "link": "https://www.latimes.com/california/story/2026-03-26/he-was-busted-for-gun-possession-now-hes-running-for-la-city-council",
-    "source": "latimes",
-    "pubdate": "2026-03-26-10-00-00 +0000"
-  },
-  {
-    "headline": "Californians with deep ties to Jalisco rattled by cartel violence and fears of bloody power struggle",
-    "link": "https://www.latimes.com/california/story/2026-03-26/californians-with-deep-ties-to-jalisco-rattled-by-cartel-violence-fears-of-bloody-power-struggle",
+    "headline": "The inspiring, infuriating, even comic tale of how we defeated L.A.'s smog and why we may have to again",
+    "link": "https://www.latimes.com/california/story/2026-03-26/inspiring-infuriating-even-comic-tale-of-how-we-defeated-l-a-s-smog-why-we-may-have-to-again",
     "source": "latimes",
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
@@ -4908,8 +4938,14 @@
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
   {
-    "headline": "The inspiring, infuriating, even comic tale of how we defeated L.A.'s smog and why we may have to again",
-    "link": "https://www.latimes.com/california/story/2026-03-26/inspiring-infuriating-even-comic-tale-of-how-we-defeated-l-a-s-smog-why-we-may-have-to-again",
+    "headline": "He was busted for gun possession. Now he's running for L.A. City Council",
+    "link": "https://www.latimes.com/california/story/2026-03-26/he-was-busted-for-gun-possession-now-hes-running-for-la-city-council",
+    "source": "latimes",
+    "pubdate": "2026-03-26-10-00-00 +0000"
+  },
+  {
+    "headline": "Californians with deep ties to Jalisco rattled by cartel violence and fears of bloody power struggle",
+    "link": "https://www.latimes.com/california/story/2026-03-26/californians-with-deep-ties-to-jalisco-rattled-by-cartel-violence-fears-of-bloody-power-struggle",
     "source": "latimes",
     "pubdate": "2026-03-26-10-00-00 +0000"
   },
@@ -5622,14 +5658,14 @@
     "pubdate": "2026-03-25-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
-    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis",
+    "headline": "False sex abuse claim filed 'without consent' in L.A.'s $4-billion settlement, man says",
+    "link": "https://www.latimes.com/california/story/2026-03-25/la-false-sex-abuse-claim-settlement-allegation",
     "source": "latimes",
     "pubdate": "2026-03-25-10-00-00 +0000"
   },
   {
-    "headline": "False sex abuse claim filed 'without consent' in L.A.'s $4-billion settlement, man says",
-    "link": "https://www.latimes.com/california/story/2026-03-25/la-false-sex-abuse-claim-settlement-allegation",
+    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
+    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis",
     "source": "latimes",
     "pubdate": "2026-03-25-10-00-00 +0000"
   },
@@ -6252,18 +6288,6 @@
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
   {
-    "headline": "If SoCal hotels, stadiums host ICE agents, employees can miss work, union says as World Cup nears",
-    "link": "https://www.latimes.com/california/story/2026-03-24/hotels-stadiums-airports-ice-agents-union-says-employees-can-refuse-work",
-    "source": "latimes",
-    "pubdate": "2026-03-24-10-00-00 +0000"
-  },
-  {
-    "headline": "One Beverly Hills developer raises $4.3 billion to finish the massive luxury project",
-    "link": "https://www.latimes.com/business/story/2026-03-24/one-beverly-hills-secures-4-3-billion-financing",
-    "source": "latimes",
-    "pubdate": "2026-03-24-10-00-00 +0000"
-  },
-  {
     "headline": "Officials considered warning Altadena before Eaton fire, but no alert was sent",
     "link": "https://www.latimes.com/california/story/2026-03-24/fire-weather-alerts-eaton-fire-wildfires-how-to-improve-early-warnings",
     "source": "latimes",
@@ -6282,14 +6306,26 @@
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
   {
+    "headline": "One Beverly Hills developer raises $4.3 billion to finish the massive luxury project",
+    "link": "https://www.latimes.com/business/story/2026-03-24/one-beverly-hills-secures-4-3-billion-financing",
+    "source": "latimes",
+    "pubdate": "2026-03-24-10-00-00 +0000"
+  },
+  {
     "headline": "L.A. County rail boom: What trains are coming and when",
     "link": "https://www.latimes.com/california/story/2026-03-24/la-me-rail-boom",
     "source": "latimes",
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
   {
-    "headline": "One Beverly Hills developer raises $4.3 billion to finish the massive luxury project",
-    "link": "https://www.latimes.com/business/story/2026-03-24/one-beverly-hills-secures-4-3-billion-financing",
+    "headline": "If SoCal hotels, stadiums host ICE agents, employees can miss work, union says as World Cup nears",
+    "link": "https://www.latimes.com/california/story/2026-03-24/hotels-stadiums-airports-ice-agents-union-says-employees-can-refuse-work",
+    "source": "latimes",
+    "pubdate": "2026-03-24-10-00-00 +0000"
+  },
+  {
+    "headline": "If SoCal hotels, stadiums host ICE agents, employees can miss work, union says as World Cup nears",
+    "link": "https://www.latimes.com/california/story/2026-03-24/hotels-stadiums-airports-ice-agents-union-says-employees-can-refuse-work",
     "source": "latimes",
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
@@ -6300,14 +6336,14 @@
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
   {
-    "headline": "Jeff Bezos plans to invest $100 billion to bring AI to factories. Here's what it means for jobs",
-    "link": "https://www.latimes.com/business/story/2026-03-24/why-is-jeff-bezos-raising-100-billion-to-bring-ai-to-factories-heres-what-to-know",
+    "headline": "One Beverly Hills developer raises $4.3 billion to finish the massive luxury project",
+    "link": "https://www.latimes.com/business/story/2026-03-24/one-beverly-hills-secures-4-3-billion-financing",
     "source": "latimes",
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
   {
-    "headline": "If SoCal hotels, stadiums host ICE agents, employees can miss work, union says as World Cup nears",
-    "link": "https://www.latimes.com/california/story/2026-03-24/hotels-stadiums-airports-ice-agents-union-says-employees-can-refuse-work",
+    "headline": "Jeff Bezos plans to invest $100 billion to bring AI to factories. Here's what it means for jobs",
+    "link": "https://www.latimes.com/business/story/2026-03-24/why-is-jeff-bezos-raising-100-billion-to-bring-ai-to-factories-heres-what-to-know",
     "source": "latimes",
     "pubdate": "2026-03-24-10-00-00 +0000"
   },
@@ -6594,14 +6630,14 @@
     "pubdate": "2026-03-23-11-08-27 +0000"
   },
   {
-    "headline": "Lesson plans go 'out the window' as educators pivot on César Chávez amid abuse allegations",
-    "link": "https://www.latimes.com/california/story/2026-03-23/teachers-educators-rethink-teaching-cesar-chavez-legacy-curriculum",
+    "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
+    "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts",
     "source": "latimes",
     "pubdate": "2026-03-23-10-00-00 +0000"
   },
   {
-    "headline": "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts",
-    "link": "https://www.latimes.com/california/story/2026-03-23/data-centers-under-scrutiny-by-california-lawmakers-as-fears-rise-about-health-energy-impacts",
+    "headline": "Lesson plans go 'out the window' as educators pivot on César Chávez amid abuse allegations",
+    "link": "https://www.latimes.com/california/story/2026-03-23/teachers-educators-rethink-teaching-cesar-chavez-legacy-curriculum",
     "source": "latimes",
     "pubdate": "2026-03-23-10-00-00 +0000"
   },
@@ -6778,17 +6814,5 @@
     "link": "https://www.bbc.com/news/videos/cj94jp3jmv8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-22-08-40-50 +0000"
-  },
-  {
-    "headline": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
-    "link": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-22-00-56-15 +0000"
-  },
-  {
-    "headline": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
-    "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-22-00-55-31 +0000"
   }
 ]
