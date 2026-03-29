@@ -21,13 +21,6 @@
     "link": "https://www.latimes.com/california/story/2026-03-28/no-kings-rallies-draw-millions-protesting-trump-globally"
   },
   {
-    "score": 41,
-    "pubdate": "2026-03-28-03-51-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump signed an executive order to pay TSA workers, bypassing a gridlocked Congress after the latest proposal to fund the broader Department of Homeland Security ran aground Friday",
-    "link": "https://www.wsj.com/politics/policy/house-gop-leaders-reject-bill-to-fund-dhs-likely-extending-standoff-4fdd1a7e"
-  },
-  {
     "score": 38,
     "pubdate": "2026-03-28-20-02-09 +0000",
     "source": "wapo",
@@ -35,7 +28,14 @@
     "link": "https://www.washingtonpost.com/world/2026/03/28/iran-us-war-yemen-trump/"
   },
   {
-    "score": 36,
+    "score": 35,
+    "pubdate": "2026-03-28-23-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s tax cuts are delivering bigger refunds and smaller tax bills to high-income, Democratic-leaning regions that didn’t vote for him",
+    "link": "https://www.wsj.com/politics/policy/trump-salt-tax-deduction-democratic-states-c419b8a4"
+  },
+  {
+    "score": 35,
     "pubdate": "2026-03-28-19-02-40 +0000",
     "source": "bbc",
     "headline": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
@@ -49,24 +49,24 @@
     "link": "https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html"
   },
   {
-    "score": 33,
-    "pubdate": "2026-03-28-23-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s tax cuts are delivering bigger refunds and smaller tax bills to high-income, Democratic-leaning regions that didn’t vote for him",
-    "link": "https://www.wsj.com/politics/policy/trump-salt-tax-deduction-democratic-states-c419b8a4"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-03-29-01-40-32 +0000",
-    "source": "nypost",
-    "headline": "Wild San Francisco street fight shows young punks randomly bashing man in broad daylight",
-    "link": "https://nypost.com/2026/03/28/us-news/wild-san-francisco-street-fight-shows-young-punks-bashing-man-in-broad-daylight/"
-  },
-  {
     "score": 31,
     "pubdate": "2026-03-28-15-11-59 +0000",
     "source": "bbc",
     "headline": "Twenty-two migrants die off Greek coast after six days at sea",
     "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-03-28-16-44-11 +0000",
+    "source": "nyt",
+    "headline": "Bank of America to Pay $72.5 Million to Settle Lawsuit by Epstein Victims",
+    "link": "https://www.nytimes.com/2026/03/27/business/bank-of-america-epstein-victims-settlement.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-03-28-22-46-40 +0000",
+    "source": "nypost",
+    "headline": "PGA stars want to see Tiger Woods take ‘accountability,’ face ‘punishment’ after latest DUI crash",
+    "link": "https://nypost.com/2026/03/28/us-news/pga-stars-want-to-see-tiger-woods-take-accountability-and-face-punishment-after-latest-dui-crash/"
   }
 ]
