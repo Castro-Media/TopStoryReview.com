@@ -1,6 +1,6 @@
 [
   {
-    "score": 135,
+    "score": 136,
     "pubdate": "2026-03-28-18-34-16 +0000",
     "source": "cbc",
     "headline": "Anger over Iran war adds fuel to anti-Trump 'No Kings' protests across U.S.",
@@ -50,6 +50,13 @@
   },
   {
     "score": 31,
+    "pubdate": "2026-03-28-22-46-40 +0000",
+    "source": "nypost",
+    "headline": "PGA stars want to see Tiger Woods take ‘accountability,’ face ‘punishment’ after latest DUI crash",
+    "link": "https://nypost.com/2026/03/28/us-news/pga-stars-want-to-see-tiger-woods-take-accountability-and-face-punishment-after-latest-dui-crash/"
+  },
+  {
+    "score": 31,
     "pubdate": "2026-03-28-15-11-59 +0000",
     "source": "bbc",
     "headline": "Twenty-two migrants die off Greek coast after six days at sea",
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Bank of America to Pay $72.5 Million to Settle Lawsuit by Epstein Victims",
     "link": "https://www.nytimes.com/2026/03/27/business/bank-of-america-epstein-victims-settlement.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-03-28-22-46-40 +0000",
-    "source": "nypost",
-    "headline": "PGA stars want to see Tiger Woods take ‘accountability,’ face ‘punishment’ after latest DUI crash",
-    "link": "https://nypost.com/2026/03/28/us-news/pga-stars-want-to-see-tiger-woods-take-accountability-and-face-punishment-after-latest-dui-crash/"
   }
 ]
