@@ -1,30 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-03-30-05-33-18 +0000",
-    "source": "nypost",
-    "headline": "Trump dominates CPAC poll as conservatives rally behind agenda, back Iran action",
-    "link": "https://nypost.com/2026/03/30/us-news/trump-dominates-cpac-poll-as-conservatives-rally-behind-agenda-back-iran-action/"
+    "score": 27,
+    "pubdate": "2026-03-30-06-37-22 +0000",
+    "source": "bbc",
+    "headline": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
+    "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-03-30-07-07-15 +0000",
+    "source": "bbc",
+    "headline": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
+    "link": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-03-30-07-01-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Climbs as Houthis Enter Middle East War, Raising Fears for Key Export Routes",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-supply-disruption-concerns-spurred-by-widening-mideast-conflict-3b9d1676?mod=rss_markets_main"
   },
   {
     "score": 9,
-    "pubdate": "2026-03-30-05-28-04 +0000",
-    "source": "nyt",
-    "headline": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
-    "link": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html"
+    "pubdate": "2026-03-30-07-15-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Futures Rise but Higher Energy Prices Cap Gains",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-rising-inflation-fears-f3a32453?mod=rss_markets_main"
   },
   {
     "score": 8,
-    "pubdate": "2026-03-30-05-26-09 +0000",
+    "pubdate": "2026-03-30-07-15-48 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz",
+    "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-03-30-07-04-56 +0000",
+    "source": "nypost",
+    "headline": "Australian police fatally shoot a suspect in a 3-hour standoff after 2 officers killed",
+    "link": "https://nypost.com/2026/03/30/world-news/australian-police-fatally-shoot-a-suspect-in-a-3-hour-standoff-after-2-officers-killed/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-30-06-40-00 +0000",
+    "source": "wsj",
+    "headline": "Dollar Eases as Japanese Yen Rises on Intervention Threats",
+    "link": "https://www.wsj.com/finance/currencies/dollar-supported-by-energy-tailwinds-but-could-weaken-ahead-d617a334?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-03-30-06-30-50 +0000",
     "source": "bbc",
-    "headline": "Myanmar junta chief Min Aung Hlaing nominated as president",
-    "link": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss"
+    "headline": "Remove VAT from energy bills for three years, Tories urge",
+    "link": "https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-03-30-07-06-46 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news/heres-the-latest"
   },
   {
     "score": 0,
-    "pubdate": "2026-03-30-05-33-18 +0000",
-    "source": "nypost",
-    "headline": "Trump dominates CPAC poll as conservatives rally behind agenda, back Iran action",
-    "link": "https://nypost.com/2026/03/30/us-news/trump-dominates-cpac-poll-as-conservatives-rally-behind-agenda-back-iran-action/"
+    "pubdate": "2026-03-30-07-06-46 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news/heres-the-latest"
   }
 ]
