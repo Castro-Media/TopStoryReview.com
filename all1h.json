@@ -1,68 +1,92 @@
 [
   {
+    "headline": "Three killed as unfinished building collapses on church service in Ghana",
+    "link": "https://www.bbc.com/news/articles/ckgex51zzd8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-03-30-08-15-40 +0000"
+  },
+  {
     "headline": "Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz",
     "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
     "source": "nyt",
-    "pubdate": "2026-03-30-07-15-48 +0000"
-  },
-  {
-    "headline": "Gold Futures Rise but Higher Energy Prices Cap Gains",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-rising-inflation-fears-f3a32453?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-03-30-07-15-00 +0000"
-  },
-  {
-    "headline": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
-    "link": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-30-07-07-15 +0000"
+    "pubdate": "2026-03-30-08-15-00 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-03-30-07-06-46 +0000"
+    "pubdate": "2026-03-30-08-12-54 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-03-30-07-06-46 +0000"
+    "pubdate": "2026-03-30-08-12-54 +0000"
   },
   {
-    "headline": "Australian police fatally shoot a suspect in a 3-hour standoff after 2 officers killed",
-    "link": "https://nypost.com/2026/03/30/world-news/australian-police-fatally-shoot-a-suspect-in-a-3-hour-standoff-after-2-officers-killed/",
-    "source": "nypost",
-    "pubdate": "2026-03-30-07-04-56 +0000"
-  },
-  {
-    "headline": "Oil Climbs as Houthis Enter Middle East War, Raising Fears for Key Export Routes",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-supply-disruption-concerns-spurred-by-widening-mideast-conflict-3b9d1676?mod=rss_markets_main",
+    "headline": "European Gas Rises on Supply Concerns Ahead of Summer Storage Refill",
+    "link": "https://www.wsj.com/articles/european-gas-rises-on-supply-concerns-ahead-of-summer-storage-refill-8e581d1c?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-03-30-07-01-00 +0000"
+    "pubdate": "2026-03-30-08-07-00 +0000"
   },
   {
-    "headline": "Dollar Eases as Japanese Yen Rises on Intervention Threats",
+    "headline": "European Gas Rises on Supply Concerns Ahead of Summer Storage Refill",
+    "link": "https://www.wsj.com/articles/european-gas-rises-on-supply-concerns-ahead-of-summer-storage-refill-8e581d1c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-03-30-08-07-00 +0000"
+  },
+  {
+    "headline": "Euro Looks Vulnerable to Further Rise in Energy Prices",
     "link": "https://www.wsj.com/finance/currencies/dollar-supported-by-energy-tailwinds-but-could-weaken-ahead-d617a334?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-03-30-06-40-00 +0000"
+    "pubdate": "2026-03-30-08-03-00 +0000"
   },
   {
-    "headline": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
-    "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-30-06-37-22 +0000"
+    "headline": "A major immigration reform bill is now law in Canada.  Some worry it rolls back refugee rights",
+    "link": "https://www.cbc.ca/news/politics/canada-immigration-reform-law-9.7145624?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-30-08-00-00 +0000"
   },
   {
-    "headline": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
-    "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-30-06-37-22 +0000"
+    "headline": "'Light also exists': Some Cubans see hope in the darkness of the moment",
+    "link": "https://www.cbc.ca/news/world/cuba-light-future-9.7145447?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-30-08-00-00 +0000"
   },
   {
-    "headline": "Remove VAT from energy bills for three years, Tories urge",
-    "link": "https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-30-06-30-50 +0000"
+    "headline": "'Light also exists': Some Cubans see hope in the darkness of the moment",
+    "link": "https://www.cbc.ca/news/world/cuba-light-future-9.7145447?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-03-30-08-00-00 +0000"
+  },
+  {
+    "headline": "Oil Jumps on Signs of Escalation of Middle East War",
+    "link": "https://www.nytimes.com/2026/03/29/business/oil-stocks-gasoline-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-03-30-07-56-46 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Oil Pushes Higher, Dow Futures Inch Up",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-30-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-30-07-44-39 +0000"
+  },
+  {
+    "headline": "Eurozone Bond Yields Fall, Track Treasury Yields",
+    "link": "https://www.wsj.com/finance/jgb-yield-curve-steepens-amid-rising-inflation-fears-e8feab4b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-03-30-07-27-00 +0000"
+  },
+  {
+    "headline": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
+    "link": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html",
+    "source": "nyt",
+    "pubdate": "2026-03-30-07-26-02 +0000"
+  },
+  {
+    "headline": "DC air traffic controller reveals ‘warning signs were all there’ before midair crash that killed 67",
+    "link": "https://nypost.com/2026/03/30/us-news/dc-air-traffic-controller-emily-hanoka-reveals-warning-signs-were-all-there-before-midair-crash-that-killed-67/",
+    "source": "nypost",
+    "pubdate": "2026-03-30-07-25-13 +0000"
   }
 ]
