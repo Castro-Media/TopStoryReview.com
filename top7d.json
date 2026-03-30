@@ -1,24 +1,31 @@
 [
   {
-    "score": 540,
-    "pubdate": "2026-03-30-13-10-59 +0000",
+    "score": 519,
+    "pubdate": "2026-03-30-14-19-49 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks",
     "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news"
   },
   {
-    "score": 155,
+    "score": 157,
+    "pubdate": "2026-03-27-16-03-48 +0000",
+    "source": "nypost",
+    "headline": "Sony jacking up PlayStation 5 prices for 2nd time in less than a year — here’s how much it will cost you",
+    "link": "https://nypost.com/2026/03/27/business/sony-jacking-up-ps5-prices-for-2nd-time-in-less-than-a-year-heres-how-much-it-will-cost-you/"
+  },
+  {
+    "score": 154,
     "pubdate": "2026-03-24-22-38-22 +0000",
     "source": "latimes",
     "headline": "New Mexico social media lawsuit ends in $375-million verdict against Meta",
     "link": "https://www.latimes.com/california/story/2026-03-24/new-mexico-social-media-harms-lawsuit-375-million-verdict"
   },
   {
-    "score": 155,
-    "pubdate": "2026-03-27-16-03-48 +0000",
+    "score": 150,
+    "pubdate": "2026-03-30-14-00-23 +0000",
     "source": "nypost",
-    "headline": "Sony jacking up PlayStation 5 prices for 2nd time in less than a year — here’s how much it will cost you",
-    "link": "https://nypost.com/2026/03/27/business/sony-jacking-up-ps5-prices-for-2nd-time-in-less-than-a-year-heres-how-much-it-will-cost-you/"
+    "headline": "Air Canada CEO steps down amid backlash over apology video after fatal LaGuardia plane crash — because it wasn’t in French",
+    "link": "https://nypost.com/2026/03/30/business/air-canada-ceo-steps-down-amid-backlash-over-apology-video-after-laguardia-plane-crash/"
   },
   {
     "score": 141,
@@ -28,25 +35,11 @@
     "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
   },
   {
-    "score": 139,
+    "score": 136,
     "pubdate": "2026-03-30-03-53-00 +0000",
     "source": "wsj",
     "headline": "Oil Rises, Asian Equities Fall on Fears of Widening Middle East Conflict",
-    "link": "https://www.wsj.com/finance/stocks/oil-rises-asian-equities-fall-on-fears-of-widening-middle-east-conflict-c21192bf"
-  },
-  {
-    "score": 125,
-    "pubdate": "2026-03-30-07-25-13 +0000",
-    "source": "nypost",
-    "headline": "DC air traffic controller reveals ‘warning signs were all there’ before midair crash that killed 67",
-    "link": "https://nypost.com/2026/03/30/us-news/dc-air-traffic-controller-emily-hanoka-reveals-warning-signs-were-all-there-before-midair-crash-that-killed-67/"
-  },
-  {
-    "score": 119,
-    "pubdate": "2026-03-30-00-15-02 +0000",
-    "source": "startribune",
-    "headline": "TSA pay may be coming, but airport delays could persist and ICE agents may not leave soon",
-    "link": "https://www.startribune.com/what-to-know-about-trumps-order-to-pay-tsa-officers-and-its-impact-on-airport-security-lines/601644574"
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-asian-equities-fall-on-fears-of-widening-middle-east-conflict-c21192bf?mod=rss_markets_main"
   },
   {
     "score": 116,
@@ -63,10 +56,17 @@
     "link": "https://www.latimes.com/politics/story/2026-03-29/trump-california-governors-race-republican-endorsement"
   },
   {
-    "score": 87,
-    "pubdate": "2026-03-30-12-53-40 +0000",
-    "source": "nyt",
-    "headline": "Trump Threatens to Destroy Kharg Island and Other Key Iranian Energy Sites",
-    "link": "https://www.nytimes.com/2026/03/30/world/middleeast/trump-iran-kharg-island.html"
+    "score": 99,
+    "pubdate": "2026-03-23-16-26-19 +0000",
+    "source": "latimes",
+    "headline": "Californians may need to mail ballots early as Supreme Court signals support for new election day deadline",
+    "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
+  },
+  {
+    "score": 95,
+    "pubdate": "2026-03-27-23-00-00 +0000",
+    "source": "wsj",
+    "headline": "If President Trump gives the go-ahead, the U.S. could soon have over 17,000 troops on Iran’s doorstep, but any operation to seize an island or territory would be considered complex and dangerous",
+    "link": "https://www.wsj.com/politics/national-security/what-an-influx-of-17-000-u-s-troops-could-mean-for-the-iran-war-7569afea"
   }
 ]
