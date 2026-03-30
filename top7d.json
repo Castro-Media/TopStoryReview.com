@@ -1,13 +1,13 @@
 [
   {
-    "score": 506,
-    "pubdate": "2026-03-30-16-05-58 +0000",
+    "score": 490,
+    "pubdate": "2026-03-30-18-00-23 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks",
     "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news"
   },
   {
-    "score": 164,
+    "score": 155,
     "pubdate": "2026-03-30-14-41-55 +0000",
     "source": "nypost",
     "headline": "Trump puts Iran on notice, reveals to The Post his one-week ultimatum for new speaker after Tehran’s attack on Israeli oil refinery",
@@ -21,25 +21,18 @@
     "link": "https://nypost.com/2026/03/29/world-news/air-canada-flight-attendant-who-was-ejected-during-lga-crash-seen-in-hospital-for-first-time/"
   },
   {
-    "score": 138,
+    "score": 140,
     "pubdate": "2026-03-29-10-00-00 +0000",
     "source": "latimes",
     "headline": "Barabak: Will or won't he? A lot rides on a Trump endorsement in California governor's race",
     "link": "https://www.latimes.com/politics/story/2026-03-29/trump-california-governors-race-republican-endorsement"
   },
   {
-    "score": 131,
+    "score": 130,
     "pubdate": "2026-03-29-15-53-00 +0000",
     "source": "wsj",
     "headline": "Iran warns the U.S. after a unit of U.S. Marines arrives in the Middle East, and the stock market shows signs of resilience despite the war. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/world/iran-warns-u-s-against-ground-invasion-592621d2"
-  },
-  {
-    "score": 125,
-    "pubdate": "2026-03-30-01-09-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump is weighing a military operation to extract nearly 1,000 pounds of uranium from Iran, a complex mission that would likely put U.S. forces inside the country for days or longer",
-    "link": "https://www.wsj.com/politics/national-security/trump-weighs-military-operation-to-extract-irans-uranium-37427c8b"
   },
   {
     "score": 122,
@@ -49,24 +42,31 @@
     "link": "https://www.latimes.com/california/story/2026-03-28/no-kings-rallies-draw-millions-protesting-trump-globally"
   },
   {
-    "score": 115,
+    "score": 119,
+    "pubdate": "2026-03-30-01-09-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump is weighing a military operation to extract nearly 1,000 pounds of uranium from Iran, a complex mission that would likely put U.S. forces inside the country for days or longer",
+    "link": "https://www.wsj.com/politics/national-security/trump-weighs-military-operation-to-extract-irans-uranium-37427c8b"
+  },
+  {
+    "score": 114,
     "pubdate": "2026-03-27-17-00-00 +0000",
     "source": "wsj",
     "headline": "About a year into the full-blown trade war between the U.S. and China, trade between the world’s two largest economies has plunged to levels not seen in decades",
     "link": "https://www.wsj.com/economy/trade/how-trumps-tariffs-are-choking-u-s-china-trade-0ccc685a"
   },
   {
-    "score": 95,
+    "score": 99,
     "pubdate": "2026-03-27-08-55-01 +0000",
     "source": "cbc",
     "headline": "Nuclear energy sites targeted in latest strikes, Iranian state media reports",
     "link": "https://www.cbc.ca/news/world/trump-iran-deadline-conflict-hormuz-9.7144120?cmp=rss"
   },
   {
-    "score": 92,
-    "pubdate": "2026-03-30-05-38-26 +0000",
-    "source": "bbc",
-    "headline": "Fuel tax halved and free public transport offered as war pushes up prices in Australia",
-    "link": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss"
+    "score": 97,
+    "pubdate": "2026-03-29-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Fed policymakers suggest interest rates could go up or down. The most probable path may be no move at all.",
+    "link": "https://www.wsj.com/economy/central-banking/fed-officials-signal-that-rate-cuts-may-be-over-76891741"
   }
 ]
