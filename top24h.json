@@ -1,59 +1,52 @@
 [
   {
-    "score": 177,
+    "score": 161,
     "pubdate": "2026-03-30-08-15-00 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz",
     "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news"
   },
   {
-    "score": 65,
+    "score": 64,
     "pubdate": "2026-03-29-15-53-00 +0000",
     "source": "wsj",
     "headline": "Iran warns the U.S. after a unit of U.S. Marines arrives in the Middle East, and the stock market shows signs of resilience despite the war. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/world/iran-warns-u-s-against-ground-invasion-592621d2"
   },
   {
-    "score": 61,
-    "pubdate": "2026-03-29-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Fed policymakers suggest interest rates could go up or down. The most probable path may be no move at all.",
-    "link": "https://www.wsj.com/economy/central-banking/fed-officials-signal-that-rate-cuts-may-be-over-76891741"
-  },
-  {
     "score": 55,
-    "pubdate": "2026-03-30-00-22-43 +0000",
-    "source": "nyt",
-    "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
-    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-03-29-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: Will or won't he? A lot rides on a Trump endorsement in California governor's race",
-    "link": "https://www.latimes.com/politics/story/2026-03-29/trump-california-governors-race-republican-endorsement"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-03-30-07-25-13 +0000",
-    "source": "nypost",
-    "headline": "DC air traffic controller reveals ‘warning signs were all there’ before midair crash that killed 67",
-    "link": "https://nypost.com/2026/03/30/us-news/dc-air-traffic-controller-emily-hanoka-reveals-warning-signs-were-all-there-before-midair-crash-that-killed-67/"
-  },
-  {
-    "score": 40,
     "pubdate": "2026-03-30-05-38-26 +0000",
     "source": "bbc",
     "headline": "Fuel tax halved and free public transport offered as war pushes up prices in Australia",
     "link": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
-    "pubdate": "2026-03-29-09-00-54 +0000",
+    "score": 53,
+    "pubdate": "2026-03-30-00-22-43 +0000",
     "source": "nyt",
-    "headline": "Why the Iran War May Force Countries to Rely Less on Natural Gas",
-    "link": "https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html"
+    "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-03-29-23-57-25 +0000",
+    "source": "bbc",
+    "headline": "No Kings protests draw large crowds to rally against Donald Trump",
+    "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-03-29-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Will or won't he? A lot rides on a Trump endorsement in California governor's race",
+    "link": "https://www.latimes.com/politics/story/2026-03-29/trump-california-governors-race-republican-endorsement"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-03-30-07-25-13 +0000",
+    "source": "nypost",
+    "headline": "DC air traffic controller reveals ‘warning signs were all there’ before midair crash that killed 67",
+    "link": "https://nypost.com/2026/03/30/us-news/dc-air-traffic-controller-emily-hanoka-reveals-warning-signs-were-all-there-before-midair-crash-that-killed-67/"
   },
   {
     "score": 38,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Pope Leo issues strong rebuke on ‘atrocious’ Iran war in Palm Sunday message: ‘Hands are full of blood’",
     "link": "https://nypost.com/2026/03/29/world-news/pope-leo-issues-strong-rebuke-on-atrocious-iran-war-in-palm-sunday-message/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-03-30-08-07-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Rises on Supply Concerns Ahead of Summer Storage Refill",
+    "link": "https://www.wsj.com/articles/european-gas-rises-on-supply-concerns-ahead-of-summer-storage-refill-8e581d1c?mod=rss_markets_main"
   }
 ]
