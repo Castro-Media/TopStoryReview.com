@@ -1,31 +1,38 @@
 [
   {
-    "score": 172,
-    "pubdate": "2026-03-30-14-19-49 +0000",
+    "score": 200,
+    "pubdate": "2026-03-30-14-41-55 +0000",
+    "source": "nypost",
+    "headline": "Trump puts Iran on notice, reveals to The Post his one-week ultimatum for new speaker after Tehran’s attack on Israeli oil refinery",
+    "link": "https://nypost.com/2026/03/30/us-news/trump-tells-the-post-his-response-to-iranian-regime-coming-shortly-after-tehran-attacks-israels-biggest-oil-refinery/"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-03-30-16-05-58 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks",
     "link": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news"
   },
   {
-    "score": 82,
-    "pubdate": "2026-03-30-03-53-00 +0000",
+    "score": 64,
+    "pubdate": "2026-03-30-01-09-00 +0000",
     "source": "wsj",
-    "headline": "Oil Rises, Asian Equities Fall on Fears of Widening Middle East Conflict",
-    "link": "https://www.wsj.com/finance/stocks/oil-rises-asian-equities-fall-on-fears-of-widening-middle-east-conflict-c21192bf"
+    "headline": "President Trump is weighing a military operation to extract nearly 1,000 pounds of uranium from Iran, a complex mission that would likely put U.S. forces inside the country for days or longer",
+    "link": "https://www.wsj.com/politics/national-security/trump-weighs-military-operation-to-extract-irans-uranium-37427c8b"
   },
   {
-    "score": 68,
+    "score": 61,
     "pubdate": "2026-03-30-14-00-23 +0000",
     "source": "nypost",
-    "headline": "Air Canada CEO steps down amid backlash over apology video after fatal LaGuardia plane crash — because it wasn’t in French",
+    "headline": "Air Canada CEO stepping down after fatal LaGuardia plane crash — for issuing his apology in English",
     "link": "https://nypost.com/2026/03/30/business/air-canada-ceo-steps-down-amid-backlash-over-apology-video-after-laguardia-plane-crash/"
   },
   {
-    "score": 60,
-    "pubdate": "2026-03-30-00-22-43 +0000",
-    "source": "nyt",
-    "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
-    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
+    "score": 58,
+    "pubdate": "2026-03-30-03-53-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Rises, Asian Equities Fall on Fears of Widening Middle East Conflict",
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-asian-equities-fall-on-fears-of-widening-middle-east-conflict-c21192bf?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 58,
@@ -35,38 +42,31 @@
     "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2026-03-30-11-57-14 +0000",
-    "source": "nypost",
-    "headline": "Trump says deal will ‘probably’ be reached soon — or else he’ll blow up Iran",
-    "link": "https://nypost.com/2026/03/30/us-news/trump-says-deal-will-probably-be-reached-soon-with-new-and-more-reasonable-iran-regime/"
+    "score": 50,
+    "pubdate": "2026-03-30-15-15-36 +0000",
+    "source": "nyt",
+    "headline": "Analysis shows where a new U.S. missile hit an Iranian sports hall and school.",
+    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/analysis-shows-where-a-new-us-missile-hit-an-iranian-sports-hall-and-school"
   },
   {
-    "score": 43,
-    "pubdate": "2026-03-30-01-09-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump is weighing a military operation to extract nearly 1,000 pounds of uranium from Iran, a complex mission that would likely put U.S. forces inside the country for days or longer",
-    "link": "https://www.wsj.com/politics/national-security/trump-weighs-military-operation-to-extract-irans-uranium-37427c8b"
+    "score": 49,
+    "pubdate": "2026-03-29-21-29-56 +0000",
+    "source": "bbc",
+    "headline": "Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist",
+    "link": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
+    "score": 46,
     "pubdate": "2026-03-30-08-58-42 +0000",
     "source": "nypost",
     "headline": "US allows Russian oil tanker to reach Cuba amid blockade as Trump says island ‘has to survive’",
     "link": "https://nypost.com/2026/03/30/world-news/us-allows-russian-oil-tanker-to-reach-cuba-amid-blockade-as-trump-says-island-has-to-survive/"
   },
   {
-    "score": 41,
-    "pubdate": "2026-03-29-19-44-59 +0000",
+    "score": 46,
+    "pubdate": "2026-03-30-00-22-43 +0000",
     "source": "nyt",
-    "headline": "Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike",
-    "link": "https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-03-30-03-42-35 +0000",
-    "source": "nyt",
-    "headline": "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
-    "link": "https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html"
+    "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
   }
 ]
