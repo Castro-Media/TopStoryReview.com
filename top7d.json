@@ -22,17 +22,10 @@
   },
   {
     "score": 137,
-    "pubdate": "2026-03-25-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: It's been decades since California had a governor's race like this one. That was a shocker",
-    "link": "https://www.latimes.com/politics/story/2026-03-25/california-governors-race-last-wide-open-contest-1998-gray-davis"
-  },
-  {
-    "score": 130,
-    "pubdate": "2026-03-26-16-18-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
-    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
+    "pubdate": "2026-03-30-00-22-43 +0000",
+    "source": "nyt",
+    "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
+    "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
   },
   {
     "score": 130,
@@ -40,6 +33,13 @@
     "source": "wsj",
     "headline": "Iran warns the U.S. after a unit of U.S. Marines arrives in the Middle East, and the stock market shows signs of resilience despite the war. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/world/iran-warns-u-s-against-ground-invasion-592621d2"
+  },
+  {
+    "score": 130,
+    "pubdate": "2026-03-26-16-18-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump has told associates in recent days that he wants to avoid a protracted war in Iran and that he hopes to bring the conflict to an end in the coming weeks",
+    "link": "https://www.wsj.com/politics/elections/trump-tells-aides-he-wants-speedy-end-to-iran-war-eb9f2b4b"
   },
   {
     "score": 113,
@@ -63,10 +63,10 @@
     "link": "https://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline"
   },
   {
-    "score": 103,
-    "pubdate": "2026-03-27-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "About a year into the full-blown trade war between the U.S. and China, trade between the world’s two largest economies has plunged to levels not seen in decades",
-    "link": "https://www.wsj.com/economy/trade/how-trumps-tariffs-are-choking-u-s-china-trade-0ccc685a"
+    "score": 92,
+    "pubdate": "2026-03-24-13-00-00 +0000",
+    "source": "latimes",
+    "headline": "California governor candidate unveils government reform plan, scathing assessment of status quo",
+    "link": "https://www.latimes.com/california/story/2026-03-24/california-governor-candidate-matt-mahan-unveils-government-reform-plan"
   }
 ]
