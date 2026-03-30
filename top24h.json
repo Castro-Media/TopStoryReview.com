@@ -1,52 +1,59 @@
 [
   {
-    "score": 102,
+    "score": 100,
     "pubdate": "2026-03-29-09-00-54 +0000",
     "source": "nyt",
     "headline": "Why the Iran War May Force Countries to Rely Less on Natural Gas",
     "link": "https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html"
   },
   {
-    "score": 102,
+    "score": 88,
     "pubdate": "2026-03-29-00-15-00 +0000",
     "source": "wsj",
     "headline": "Hundreds of thousands of demonstrators are taking to the streets across the nation for a day of “No Kings” rallies Saturday in opposition to President Trump",
     "link": "https://www.wsj.com/us-news/crowds-gather-across-u-s-for-no-kings-rallies-to-oppose-trump-0d3a380d"
   },
   {
-    "score": 49,
+    "score": 52,
     "pubdate": "2026-03-29-19-36-27 +0000",
     "source": "nyt",
     "headline": "Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.",
     "link": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake"
   },
   {
-    "score": 44,
-    "pubdate": "2026-03-29-18-56-13 +0000",
-    "source": "nypost",
-    "headline": "Little-known Marine battle group deployed from California to Middle East — here’s what they’ll do",
-    "link": "https://nypost.com/2026/03/29/us-news/little-known-marine-group-deployed-from-california-to-middle-east/"
+    "score": 43,
+    "pubdate": "2026-03-29-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Will or won't he? A lot rides on a Trump endorsement in California governor's race",
+    "link": "https://www.latimes.com/politics/story/2026-03-29/trump-california-governors-race-republican-endorsement"
   },
   {
-    "score": 41,
+    "score": 42,
     "pubdate": "2026-03-29-14-35-49 +0000",
     "source": "nypost",
     "headline": "Air Canada flight attendant who was ejected during LGA crash seen in hospital for first time — as daughter describes horrific injuries",
     "link": "https://nypost.com/2026/03/29/world-news/air-canada-flight-attendant-who-was-ejected-during-lga-crash-seen-in-hospital-for-first-time/"
   },
   {
-    "score": 40,
-    "pubdate": "2026-03-29-20-19-42 +0000",
-    "source": "nypost",
-    "headline": "Major Wall Street powerhouse weighs southern move as Mamdani-led tax threats swirl",
-    "link": "https://nypost.com/2026/03/29/us-news/major-wall-street-powerhouse-weighs-southern-move-as-mamdani-led-tax-threats-swirl/"
+    "score": 39,
+    "pubdate": "2026-03-29-15-53-00 +0000",
+    "source": "wsj",
+    "headline": "Iran warns the U.S. after a unit of U.S. Marines arrives in the Middle East, and the stock market shows signs of resilience despite the war. Read more in today’s What’s News newsletter:",
+    "link": "https://www.wsj.com/world/iran-warns-u-s-against-ground-invasion-592621d2"
   },
   {
-    "score": 36,
+    "score": 38,
     "pubdate": "2026-03-29-15-02-56 +0000",
     "source": "nyt",
     "headline": "F.B.I. Said to Dig Up Old Investigative Files on Democratic Lawmaker",
     "link": "https://www.nytimes.com/2026/03/28/us/politics/trump-fbi-patel-eric-swalwell.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-03-29-20-19-42 +0000",
+    "source": "nypost",
+    "headline": "Major Wall Street powerhouse weighs southern move as Mamdani-led tax threats swirl",
+    "link": "https://nypost.com/2026/03/29/us-news/major-wall-street-powerhouse-weighs-southern-move-as-mamdani-led-tax-threats-swirl/"
   },
   {
     "score": 35,
@@ -57,16 +64,9 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-03-29-20-20-03 +0000",
-    "source": "startribune",
-    "headline": "Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be 'set on fire'",
-    "link": "https://www.startribune.com/iran-backed-houthis-enter-the-monthlong-war-and-could-further-threaten-global-shipping/601645492"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-03-29-19-40-07 +0000",
-    "source": "nypost",
-    "headline": "New details seep out after man mysteriously found dead in back of cop car outside station",
-    "link": "https://nypost.com/2026/03/29/us-news/california-man-found-dead-in-back-of-police-car-outside-station-as-new-details-emerge/"
+    "pubdate": "2026-03-29-07-51-04 +0000",
+    "source": "bbc",
+    "headline": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+    "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
   }
 ]
