@@ -14,25 +14,25 @@
     "link": "https://www.wsj.com/economy/central-banking/powell-says-fed-can-look-past-oil-shock-but-warns-patience-has-limits-c3d5b09e"
   },
   {
-    "score": 80,
+    "score": 79,
     "pubdate": "2026-03-31-04-03-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s decision to allow a one-time shipment of crude oil to Cuba effectively breaks a two-month blockade that has led to fuel shortages and increased power outages on the island",
     "link": "https://www.wsj.com/world/a-russian-tanker-tests-the-limits-of-trumps-cuba-squeeze-bbc7b436"
   },
   {
-    "score": 75,
-    "pubdate": "2026-03-31-08-50-05 +0000",
-    "source": "cbc",
-    "headline": "U.S. attacks Iranian nuclear site as Tehran strikes fully-loaded Kuwaiti oil tanker off Dubai coast",
-    "link": "https://www.cbc.ca/news/world/iran-u-s-conflict-9.7148111?cmp=rss"
-  },
-  {
     "score": 74,
     "pubdate": "2026-03-30-17-27-00 +0000",
     "source": "wsj",
     "headline": "Air Canada CEO Exit Comes After Language Backlash Following Fatal Jet Crash",
-    "link": "https://www.wsj.com/articles/air-canada-ceo-michael-rousseau-set-to-retire-c8cbab35?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/articles/air-canada-ceo-michael-rousseau-set-to-retire-c8cbab35"
+  },
+  {
+    "score": 73,
+    "pubdate": "2026-03-31-08-50-05 +0000",
+    "source": "cbc",
+    "headline": "U.S. attacks Iranian nuclear site as Tehran strikes fully-loaded Kuwaiti oil tanker off Dubai coast",
+    "link": "https://www.cbc.ca/news/world/iran-u-s-conflict-9.7148111?cmp=rss"
   },
   {
     "score": 67,
@@ -42,7 +42,7 @@
     "link": "https://www.wsj.com/politics/elections/trump-reveals-presidential-library-design-a-glass-tower-in-miami-93869254"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2026-03-30-15-15-36 +0000",
     "source": "nyt",
     "headline": "Analysis shows where a new U.S. missile hit an Iranian sports hall and school.",
@@ -50,17 +50,17 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-03-31-09-01-00 +0000",
-    "source": "nyt",
-    "headline": "How Immigration Policies Like Birthright Citizenship Shaped the Supreme Court Justices’ Histories",
-    "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-birthright-family-histories.html"
-  },
-  {
-    "score": 41,
     "pubdate": "2026-03-31-02-00-24 +0000",
     "source": "bbc",
     "headline": "Social media firms must better enforce Australia under-16 ban, watchdog says",
     "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-03-31-09-01-00 +0000",
+    "source": "nyt",
+    "headline": "How Immigration Policies Like Birthright Citizenship Shaped the Supreme Court Justices’ Histories",
+    "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-birthright-family-histories.html"
   },
   {
     "score": 40,
