@@ -1,6 +1,6 @@
 [
   {
-    "score": 230,
+    "score": 229,
     "pubdate": "2026-03-31-05-16-50 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Kuwaiti Tanker Full of Oil Struck Off Dubai Day After Trump’s Threats",
@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/analysis-shows-where-a-new-us-missile-hit-an-iranian-sports-hall-and-school"
   },
   {
-    "score": 87,
+    "score": 86,
     "pubdate": "2026-03-31-04-03-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s decision to allow a one-time shipment of crude oil to Cuba effectively breaks a two-month blockade that has led to fuel shortages and increased power outages on the island",
@@ -28,7 +28,7 @@
     "link": "https://www.wsj.com/economy/central-banking/trump-warns-u-s-would-hit-irans-energy-sites-if-talks-fail-8f7848c9"
   },
   {
-    "score": 67,
+    "score": 66,
     "pubdate": "2026-03-31-02-20-00 +0000",
     "source": "wsj",
     "headline": "President Trump released mock-up images of a gleaming glass tower emblazoned with his last name that will serve as his presidential library once he leaves office",
@@ -42,7 +42,7 @@
     "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 47,
+    "score": 46,
     "pubdate": "2026-03-30-07-07-15 +0000",
     "source": "bbc",
     "headline": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
@@ -56,17 +56,17 @@
     "link": "https://www.cbc.ca/news/world/haiti-massacre-artibonite-region-9.7147509?cmp=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2026-03-30-20-18-59 +0000",
-    "source": "nypost",
-    "headline": "Fed’s Powell says no need to hike interest rates now — officials should look past higher energy prices",
-    "link": "https://nypost.com/2026/03/30/business/feds-powell-says-no-need-to-hike-interest-rates-now-officials-should-look-past-higher-energy-prices/"
-  },
-  {
     "score": 40,
     "pubdate": "2026-03-30-15-34-02 +0000",
     "source": "nypost",
     "headline": "Thieves snatch $10M worth of Renoir, Cézanne and Matisse art in 3 minute heist from private museum in Italy",
     "link": "https://nypost.com/2026/03/30/world-news/thieves-steal-paintings-by-renoir-cezanne-and-matisse-from-italian-museum/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-03-30-20-18-59 +0000",
+    "source": "nypost",
+    "headline": "Fed’s Powell says no need to hike interest rates now — officials should look past higher energy prices",
+    "link": "https://nypost.com/2026/03/30/business/feds-powell-says-no-need-to-hike-interest-rates-now-officials-should-look-past-higher-energy-prices/"
   }
 ]
