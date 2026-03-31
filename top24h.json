@@ -1,20 +1,20 @@
 [
   {
-    "score": 237,
+    "score": 234,
     "pubdate": "2026-03-30-14-41-55 +0000",
     "source": "nypost",
     "headline": "Trump puts Iran on notice, reveals to The Post his one-week ultimatum for new speaker after Tehran’s attack on Israeli oil refinery",
     "link": "https://nypost.com/2026/03/30/us-news/trump-tells-the-post-his-response-to-iranian-regime-coming-shortly-after-tehran-attacks-israels-biggest-oil-refinery/"
   },
   {
-    "score": 93,
+    "score": 91,
     "pubdate": "2026-03-30-15-51-00 +0000",
     "source": "wsj",
     "headline": "Fed Chair Jerome Powell said the central bank is inclined to hold rates steady and look past the energy shock from the war in Iran, but also sounded a note of caution",
     "link": "https://www.wsj.com/economy/central-banking/powell-says-fed-can-look-past-oil-shock-but-warns-patience-has-limits-c3d5b09e"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2026-03-31-04-03-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s decision to allow a one-time shipment of crude oil to Cuba effectively breaks a two-month blockade that has led to fuel shortages and increased power outages on the island",
@@ -43,24 +43,17 @@
   },
   {
     "score": 59,
-    "pubdate": "2026-03-30-15-15-36 +0000",
-    "source": "nyt",
-    "headline": "Analysis shows where a new U.S. missile hit an Iranian sports hall and school.",
-    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/analysis-shows-where-a-new-us-missile-hit-an-iranian-sports-hall-and-school"
-  },
-  {
-    "score": 59,
     "pubdate": "2026-03-31-10-00-00 +0000",
     "source": "nypost",
     "headline": "Supreme Court toes ‘glaring red line’ with Trump world in birthright citizenship case",
     "link": "https://nypost.com/2026/03/31/us-news/supreme-court-toes-glaring-red-line-with-trump-in-birthright-citizenship-case-after-tariff-ruling/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-03-31-08-43-00 +0000",
-    "source": "wsj",
-    "headline": "European Gas Prices Fall as Traders Weigh Potential U.S. Early Exit from Iran War",
-    "link": "https://www.wsj.com/opinion/european-gas-prices-fall-as-traders-weigh-potential-u-s-early-exit-from-iran-war-df8f916a?mod=pls_whats_news_us_business_f"
+    "score": 58,
+    "pubdate": "2026-03-30-15-15-36 +0000",
+    "source": "nyt",
+    "headline": "Analysis shows where a new U.S. missile hit an Iranian sports hall and school.",
+    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/analysis-shows-where-a-new-us-missile-hit-an-iranian-sports-hall-and-school"
   },
   {
     "score": 44,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Social media firms must better enforce Australia under-16 ban, watchdog says",
     "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-03-31-08-43-00 +0000",
+    "source": "wsj",
+    "headline": "European Gas Prices Fall as Traders Weigh Potential U.S. Early Exit from Iran War",
+    "link": "https://www.wsj.com/opinion/european-gas-prices-fall-as-traders-weigh-potential-u-s-early-exit-from-iran-war-df8f916a?mod=rss_markets_main"
   }
 ]
