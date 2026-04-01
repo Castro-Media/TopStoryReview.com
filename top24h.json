@@ -1,6 +1,6 @@
 [
   {
-    "score": 303,
+    "score": 296,
     "pubdate": "2026-04-01-13-41-55 +0000",
     "source": "nyt",
     "headline": "Markets Extend Rally and Oil Prices Drop After Trump Says Iran War Will Wind Down",
@@ -14,13 +14,6 @@
     "link": "https://www.nytimes.com/2026/04/01/us/politics/cecillia-wang-the-aclu-lawyer-is-a-birthright-citizen.html"
   },
   {
-    "score": 79,
-    "pubdate": "2026-03-31-20-18-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration can’t end federal funding for public media via an executive order, a federal judge ruled Tuesday",
-    "link": "https://www.wsj.com/politics/policy/trumps-order-ending-funding-for-public-media-is-unconstitutional-judge-rules-d3fa06ce"
-  },
-  {
     "score": 76,
     "pubdate": "2026-03-31-21-34-47 +0000",
     "source": "nypost",
@@ -28,25 +21,32 @@
     "link": "https://nypost.com/2026/03/31/world-news/iran-to-charge-ships-passing-strait-of-hormuz-raising-risks-of-global-recession/"
   },
   {
-    "score": 74,
+    "score": 73,
     "pubdate": "2026-04-01-15-50-00 +0000",
     "source": "wsj",
     "headline": "The drone having its moment in the Middle East conflict was designed by the U.S. military itself, using reverse-engineered Iranian technology",
     "link": "https://www.wsj.com/politics/national-security/iran-war-shahed-drone-65d0aced"
   },
   {
-    "score": 65,
+    "score": 72,
+    "pubdate": "2026-04-01-00-10-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump signed an executive order Tuesday for his administration to create lists of people it considers eligible to vote in federal elections, as well as placing new restrictions on mail-in voting",
+    "link": "https://www.wsj.com/politics/policy/trump-orders-creation-of-national-eligible-voter-list-d1a088dc"
+  },
+  {
+    "score": 64,
     "pubdate": "2026-04-01-00-45-46 +0000",
     "source": "latimes",
     "headline": "Gas just hit $6 in Los Angeles. Here's where you can still find it for $5",
     "link": "https://www.latimes.com/california/story/2026-03-31/gas-just-hit-6-in-los-angeles-heres-where-you-can-still-find-it-for-5"
   },
   {
-    "score": 60,
-    "pubdate": "2026-04-01-15-06-02 +0000",
-    "source": "nyt",
-    "headline": "South Dakotans React to Daily Mail Article on Bryon Noem, Kristi Noem’s Husband",
-    "link": "https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html"
+    "score": 55,
+    "pubdate": "2026-03-31-23-58-29 +0000",
+    "source": "bbc",
+    "headline": "Judge temporarily halts construction of Trump's White House ballroom",
+    "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 55,
@@ -56,17 +56,17 @@
     "link": "https://www.latimes.com/california/story/2026-03-31/third-homicide-charge-added-for-norcal-double-murder-suspect-prosecutors-say"
   },
   {
-    "score": 53,
-    "pubdate": "2026-04-01-14-52-16 +0000",
+    "score": 54,
+    "pubdate": "2026-04-01-13-58-34 +0000",
     "source": "nypost",
-    "headline": "Iran’s new supreme leader vows to support anti-American, anti-Israel terrorism — while ruling from the shadows",
-    "link": "https://nypost.com/2026/04/01/world-news/irans-supreme-leader-mojtaba-khamenei-vows-to-support-anti-american-anti-israel-terrorism/"
+    "headline": "‘Marco Rubio finding out’ meme breaks the internet again — thanks to Kristi Noem’s cross-dressing, bust-loving husband",
+    "link": "https://nypost.com/2026/04/01/us-news/marco-rubio-finding-out-meme-breaks-the-internet-again-thanks-to-kristi-noems-cross-dressing-bust-loving-husband/"
   },
   {
     "score": 50,
-    "pubdate": "2026-04-01-17-56-20 +0000",
-    "source": "nypost",
-    "headline": "Pilot’s stunned real-time reaction to plane mistakenly contacting wrong NYC air traffic control tower",
-    "link": "https://nypost.com/2026/04/01/us-news/pilots-stunned-reaction-to-plane-mistakenly-contacting-wrong-nyc-air-traffic-control-tower/"
+    "pubdate": "2026-03-31-23-16-15 +0000",
+    "source": "bbc",
+    "headline": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+    "link": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss"
   }
 ]
