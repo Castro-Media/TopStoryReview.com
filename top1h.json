@@ -1,9 +1,72 @@
 [
   {
-    "score": 5,
-    "pubdate": "2026-04-02-05-17-55 +0000",
+    "score": 16,
+    "pubdate": "2026-04-02-07-15-55 +0000",
+    "source": "nypost",
+    "headline": "Texas ‘firefighter of the year,’ two others charged in child sex abuse case targeting same juvenile victim",
+    "link": "https://nypost.com/2026/04/02/us-news/dallas-firefighters-arrested-for-child-sex-abuse-targeting-same-juvenile-victim/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-02-07-05-05 +0000",
     "source": "bbc",
-    "headline": "Families struggling to get by due to price rises",
-    "link": "https://www.bbc.com/news/articles/czx902w50dro?at_medium=RSS&at_campaign=rss"
+    "headline": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
+    "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-02-06-39-00 +0000",
+    "source": "wsj",
+    "headline": "TotalEnergies, Masdar Form $2.2 Billion Asia Renewables Joint Venture",
+    "link": "https://www.wsj.com/business/deals/totalenergies-masdar-form-2-2-billion-asia-renewables-joint-venture-bafee6e2?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-02-07-00-49 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Spike and Stocks Tumble After Trump Vows More Strikes on Iran",
+    "link": "https://www.nytimes.com/2026/04/01/business/oil-stocks-gasoline-prices-iran-trump.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-02-06-19-15 +0000",
+    "source": "nypost",
+    "headline": "Texas judge demanded respect as ‘duly elected judge’ in explosive emails before viral clash with IT worker: ‘THAT IS AN ORDER!’",
+    "link": "https://nypost.com/2026/04/02/us-news/texas-judge-nathan-milliron-demanded-respect-as-duly-elected-judge-in-explosive-emails-before-viral-courtroom-meltdowns/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-02-06-45-30 +0000",
+    "source": "nypost",
+    "headline": "Missing Missouri college student Melissa Oelke found dead after abandoned vehicle discovered in rural Illinois",
+    "link": "https://nypost.com/2026/04/02/us-news/missing-missouri-college-student-melissa-oelke-found-dead-after-abandoned-vehicle-discovered-in-rural-illinois/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-02-06-53-36 +0000",
+    "source": "nypost",
+    "headline": "Sham Philadelphia coffee shop hiding crack operation busted in sweeping raid, 17 arrested: AG",
+    "link": "https://nypost.com/2026/04/02/us-news/sham-philadelphia-coffee-shop-hiding-crack-operation-busted-in-sweeping-raid-17-arrested-ag/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-02-07-00-51 +0000",
+    "source": "nyt",
+    "headline": "Trump Claims Military Success but Offers No Clear Timeline to End Fighting",
+    "link": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-02-07-06-00 +0000",
+    "source": "wsj",
+    "headline": "Swiss Inflation Rises to Highest Level in a Year on Jump in Oil Costs",
+    "link": "https://www.wsj.com/economy/swiss-inflation-rises-to-highest-level-in-a-year-on-jump-in-oil-costs-20313fa0"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-04-02-06-54-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Plunges After Trump Pledges to Hit Iran ‘Extremely Hard’",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-hopes-for-early-end-to-u-s-iran-conflict-5857b1bd?mod=rss_markets_main"
   }
 ]

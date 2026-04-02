@@ -1,6 +1,6 @@
 [
   {
-    "score": 315,
+    "score": 322,
     "pubdate": "2026-04-02-04-05-02 +0000",
     "source": "startribune",
     "headline": "Trump says US forces will 'finish the job' soon in first prime-time speech since starting Iran war",
@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/2026/04/01/us/politics/cecillia-wang-the-aclu-lawyer-is-a-birthright-citizen.html"
   },
   {
-    "score": 108,
+    "score": 109,
     "pubdate": "2026-04-01-22-05-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration has lifted sanctions against Venezuela’s interim President Delcy Rodríguez, easing Washington’s path to expand oil output and American foreign investment",
@@ -35,11 +35,18 @@
     "link": "https://www.wsj.com/politics/national-security/iran-war-shahed-drone-65d0aced"
   },
   {
-    "score": 60,
+    "score": 62,
     "pubdate": "2026-04-02-01-26-01 +0000",
     "source": "nypost",
     "headline": "Trump makes case to nation — taking out Iran is ‘investment in your children and your grandchildren’s future’",
     "link": "https://nypost.com/2026/04/01/us-news/trump-announces-iran-will-be-hit-extremely-hard-over-the-next-2-3-weeks/"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-04-01-14-52-16 +0000",
+    "source": "nypost",
+    "headline": "Iran’s new supreme leader vows to support anti-American, anti-Israel terrorism — while ruling from the shadows",
+    "link": "https://nypost.com/2026/04/01/world-news/irans-supreme-leader-mojtaba-khamenei-vows-to-support-anti-american-anti-israel-terrorism/"
   },
   {
     "score": 57,
@@ -50,23 +57,16 @@
   },
   {
     "score": 53,
-    "pubdate": "2026-04-01-14-52-16 +0000",
-    "source": "nypost",
-    "headline": "Iran’s new supreme leader vows to support anti-American, anti-Israel terrorism — while ruling from the shadows",
-    "link": "https://nypost.com/2026/04/01/world-news/irans-supreme-leader-mojtaba-khamenei-vows-to-support-anti-american-anti-israel-terrorism/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-04-01-22-54-30 +0000",
-    "source": "nyt",
-    "headline": "Senate and House Republicans Strike Deal to End DHS Shutdown",
-    "link": "https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html"
-  },
-  {
-    "score": 50,
     "pubdate": "2026-04-01-23-29-00 +0000",
     "source": "wsj",
     "headline": "Trump endorsed a two-part plan to quickly fund most of the Department of Homeland Security and then use a special procedure to pay for immigration enforcement",
     "link": "https://www.wsj.com/politics/policy/trump-lays-out-plan-to-resolve-dhs-funding-standoff-58db7cb7"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-04-01-22-54-30 +0000",
+    "source": "nyt",
+    "headline": "Senate and House Republicans Strike Deal to End DHS Shutdown",
+    "link": "https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html"
   }
 ]
