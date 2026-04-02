@@ -1,16 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-04-02-11-05-24 +0000",
+    "score": 33,
+    "pubdate": "2026-04-02-13-10-09 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Oil Prices Surge After Trump Claims Success Without Offering Exit Plan",
+    "headline": "Iran War Live Updates: Oil Prices Surge After Trump Threatens to Escalate Attacks",
     "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news"
   },
   {
-    "score": 9,
-    "pubdate": "2026-04-02-11-11-03 +0000",
+    "score": 31,
+    "pubdate": "2026-04-02-13-09-58 +0000",
+    "source": "nyt",
+    "headline": "After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal",
+    "link": "https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-02-12-44-07 +0000",
     "source": "bbc",
-    "headline": "Over 1,800 killed since junta seized power in Burkina Faso, rights group says",
-    "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss"
+    "headline": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+    "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-02-12-40-00 +0000",
+    "source": "wsj",
+    "headline": "Trump endorsed a two-part plan to quickly fund most of the Department of Homeland Security and then use a special procedure to pay for immigration enforcement",
+    "link": "https://www.wsj.com/politics/policy/trump-lays-out-plan-to-resolve-dhs-funding-standoff-58db7cb7"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-02-12-43-25 +0000",
+    "source": "startribune",
+    "headline": "Live: Winter storm warning canceled for Hennepin, Ramsey counties as worst of storm misses Twin Cities",
+    "link": "https://www.startribune.com/live-twin-cities-commute-off-to-a-good-start-with-slick-spots-possible/601658574"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-02-13-09-29 +0000",
+    "source": "bbc",
+    "headline": "Four children stabbed to death at Ugandan school",
+    "link": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-02-13-08-00 +0000",
+    "source": "wsj",
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-02-12-33-03 +0000",
+    "source": "bbc",
+    "headline": "Macron calls Trump's remarks on his marriage 'inelegant'",
+    "link": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-02-13-14-00 +0000",
+    "source": "wsj",
+    "headline": "Air France-KLM Submits Bid for Minority Stake in Portugal’s TAP",
+    "link": "https://www.wsj.com/business/airlines/air-france-klm-submits-bid-for-minority-stake-in-portugals-tap-f9ea9fc4?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-02-13-10-08 +0000",
+    "source": "nyt",
+    "headline": "Iranian officials come out defiant after Trump’s war speech.",
+    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranian-officials-come-out-defiant-after-trumps-war-speech"
   }
 ]
