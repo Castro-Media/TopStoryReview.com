@@ -1,17 +1,10 @@
 [
   {
-    "score": 325,
+    "score": 317,
     "pubdate": "2026-04-02-16-18-14 +0000",
     "source": "latimes",
     "headline": "Trump speech on Iran war, recent remarks on oil, NATO, daycare costs land with a thud",
     "link": "https://www.latimes.com/politics/story/2026-04-02/trump-speech-on-iran-war-recent-remarks-on-oil-nato-daycare-costs-land-with-thud"
-  },
-  {
-    "score": 89,
-    "pubdate": "2026-04-02-17-02-47 +0000",
-    "source": "nyt",
-    "headline": "In Supreme Court Birthright Citizenship Case, Trump’s Likely Loss May Not End the Fight",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
   },
   {
     "score": 88,
@@ -19,6 +12,13 @@
     "source": "cbc",
     "headline": "Artemis II astronauts lift off for NASA's 10-day mission around the moon in Canadian first",
     "link": "https://www.cbc.ca/news/science/livestory/artemis-ii-launch-nasa-live-coverage-canada-9.7149222?cmp=rss"
+  },
+  {
+    "score": 87,
+    "pubdate": "2026-04-02-17-02-47 +0000",
+    "source": "nyt",
+    "headline": "In Supreme Court Birthright Citizenship Case, Trump’s Likely Loss May Not End the Fight",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
   },
   {
     "score": 86,
@@ -35,14 +35,7 @@
     "link": "https://www.wsj.com/us-news/law/lina-khan-to-launch-economic-policy-center-at-columbia-8144c853"
   },
   {
-    "score": 58,
-    "pubdate": "2026-04-01-19-54-24 +0000",
-    "source": "nypost",
-    "headline": "UK’s Starmer pushes talk over action on Hormuz — as Trump fumes allies won’t step up",
-    "link": "https://nypost.com/2026/04/01/world-news/uks-starmer-pushes-talk-over-action-on-hormuz-as-trump-fumes-allies-wont-step-up/"
-  },
-  {
-    "score": 55,
+    "score": 54,
     "pubdate": "2026-04-02-16-12-32 +0000",
     "source": "nypost",
     "headline": "7 key takeaways from Trump’s Iran speech, where he made the case on why the US military must finish the job",
@@ -56,17 +49,24 @@
     "link": "https://www.startribune.com/trump-has-privately-discussed-possibility-of-firing-bondi-replacing-her-with-zeldin-ap-sources-say/601659218"
   },
   {
-    "score": 51,
+    "score": 47,
     "pubdate": "2026-04-02-02-48-00 +0000",
     "source": "wsj",
     "headline": "President Trump sought to reassure skeptical Americans that the war in Iran is in the national interest, arguing that the operation was necessary to decimate a regime threatening the U.S.",
     "link": "https://www.wsj.com/politics/national-security/trump-tries-to-sell-americans-on-war-in-iran-2bc1cdd2"
   },
   {
-    "score": 45,
+    "score": 44,
     "pubdate": "2026-04-02-12-40-00 +0000",
     "source": "wsj",
     "headline": "Trump endorsed a two-part plan to quickly fund most of the Department of Homeland Security and then use a special procedure to pay for immigration enforcement",
     "link": "https://www.wsj.com/politics/policy/trump-lays-out-plan-to-resolve-dhs-funding-standoff-58db7cb7"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-04-02-18-39-26 +0000",
+    "source": "wapo",
+    "headline": "Oil prices jump after Trump demands others ‘take the lead’ on Hormuz Strait",
+    "link": "https://www.washingtonpost.com/world/2026/04/02/us-iran-war-strait-hormuz-future/"
   }
 ]
