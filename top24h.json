@@ -1,13 +1,13 @@
 [
   {
-    "score": 314,
+    "score": 312,
     "pubdate": "2026-04-02-11-05-24 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Oil Prices Surge After Trump Claims Success Without Offering Exit Plan",
     "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news"
   },
   {
-    "score": 152,
+    "score": 151,
     "pubdate": "2026-04-01-14-51-47 +0000",
     "source": "nyt",
     "headline": "Lawyer Arguing at Supreme Court to Save Birthright Citizenship Is a Birthright Citizen",
@@ -28,7 +28,7 @@
     "link": "https://www.cbc.ca/news/science/livestory/artemis-ii-launch-nasa-live-coverage-canada-9.7149222?cmp=rss"
   },
   {
-    "score": 68,
+    "score": 65,
     "pubdate": "2026-04-01-12-58-19 +0000",
     "source": "nypost",
     "headline": "Trump says Iran begged for cease-fire — but US will bomb regime ‘back to the Stone Ages’ until Strait of Hormuz opens",
@@ -42,7 +42,7 @@
     "link": "https://www.wsj.com/politics/national-security/iran-war-shahed-drone-65d0aced"
   },
   {
-    "score": 58,
+    "score": 57,
     "pubdate": "2026-04-01-14-52-16 +0000",
     "source": "nypost",
     "headline": "Iran’s new supreme leader vows to support anti-American, anti-Israel terrorism — while ruling from the shadows",
@@ -57,16 +57,16 @@
   },
   {
     "score": 47,
-    "pubdate": "2026-04-01-19-54-24 +0000",
-    "source": "nypost",
-    "headline": "UK’s Starmer pushes talk over action on Hormuz — as Trump fumes allies won’t step up",
-    "link": "https://nypost.com/2026/04/01/world-news/uks-starmer-pushes-talk-over-action-on-hormuz-as-trump-fumes-allies-wont-step-up/"
-  },
-  {
-    "score": 47,
     "pubdate": "2026-04-02-02-30-18 +0000",
     "source": "nypost",
     "headline": "Ilhan Omar admits Dems are to blame for DHS shutdown, blocking funding with terror threat ‘higher than usual’",
     "link": "https://nypost.com/2026/04/01/us-news/ilhan-omar-admits-dems-are-to-blame-for-dhs-shutdown/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-04-01-19-54-24 +0000",
+    "source": "nypost",
+    "headline": "UK’s Starmer pushes talk over action on Hormuz — as Trump fumes allies won’t step up",
+    "link": "https://nypost.com/2026/04/01/world-news/uks-starmer-pushes-talk-over-action-on-hormuz-as-trump-fumes-allies-wont-step-up/"
   }
 ]
