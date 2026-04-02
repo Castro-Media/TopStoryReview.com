@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 31,
+    "pubdate": "2026-04-02-15-17-06 +0000",
+    "source": "nypost",
+    "headline": "Trump tells Pam Bondi her time is running out as attorney general",
+    "link": "https://nypost.com/2026/04/02/us-news/trump-tells-pam-bondi-her-time-is-running-out-as-attorney-general/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-04-02-15-49-43 +0000",
+    "source": "nypost",
+    "headline": "Global airlines could go bankrupt as jet fuel costs soar during Iran war, billionaire jet tycoon warns",
+    "link": "https://nypost.com/2026/04/02/business/global-airlines-could-go-bankrupt-as-cost-of-jet-fuel-soars-during-iran-war-billionaire-jet-tycoon-warns/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-04-02-15-20-02 +0000",
+    "source": "bbc",
+    "headline": "Infant shot dead on New York street by  men on motorbike, police say",
+    "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-02-16-00-58 +0000",
+    "source": "bbc",
+    "headline": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+    "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-04-02-15-37-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration ratcheted up its defense of prediction markets on Thursday, with a federal regulator suing the state of Illinois and its governor",
+    "link": "https://www.wsj.com/politics/policy/trump-regulator-sues-illinois-over-predictions-markets-right-to-operate-a228a476"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-02-16-04-20 +0000",
+    "source": "nyt",
+    "headline": "Danish Warship Sunk by Britain’s Lord Nelson 225 Years Ago Is Found",
+    "link": "https://www.nytimes.com/2026/04/02/world/europe/danish-warship-britain-nelson-copenhagen.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-02-16-07-23 +0000",
+    "source": "nyt",
+    "headline": "Mortgage Rates Climb for 5th Week as Iran War Weighs on U.S. Housing Market",
+    "link": "https://www.nytimes.com/2026/04/02/business/mortgage-rates-housing-iran-war.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-02-16-06-20 +0000",
+    "source": "bbc",
+    "headline": "UK says Iran holding world economy 'hostage' with Hormuz attacks",
+    "link": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-02-15-18-20 +0000",
+    "source": "nyt",
+    "headline": "Ancient Artifacts Stolen in Dutch Museum Heist Are Recovered",
+    "link": "https://www.nytimes.com/2026/04/02/world/europe/museum-heist-netherlands-helmet-romania.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-02-15-47-18 +0000",
+    "source": "nyt",
+    "headline": "Tina Peters, Colorado Election Denier, Has Prison Sentence Overturned",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/tina-peters-prison-sentence-trump.html"
+  }
+]
