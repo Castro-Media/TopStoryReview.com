@@ -1,38 +1,31 @@
 [
   {
-    "score": 596,
+    "score": 599,
     "pubdate": "2026-04-01-20-13-34 +0000",
     "source": "nyt",
     "headline": "Markets Extend Rally and Oil Prices Drop After Trump Says Iran War Will Wind Down",
     "link": "https://www.nytimes.com/2026/04/01/business/stocks-oil-gasoline-prices-iran.html"
   },
   {
-    "score": 156,
-    "pubdate": "2026-04-02-16-12-32 +0000",
-    "source": "nypost",
-    "headline": "7 key takeaways from Trump’s Iran speech, where he made the case on why the US military must finish the job",
-    "link": "https://nypost.com/2026/04/02/us-news/7-key-takeaways-from-trumps-speech-addressing-the-us-on-iran-war-updates/"
+    "score": 150,
+    "pubdate": "2026-04-02-17-02-47 +0000",
+    "source": "nyt",
+    "headline": "In Supreme Court Birthright Citizenship Case, Trump’s Likely Loss May Not End the Fight",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
   },
   {
-    "score": 145,
-    "pubdate": "2026-03-31-23-44-27 +0000",
-    "source": "missionlocal",
-    "headline": "S.F. leaders tout new law after Supreme Court lifts ban on conversion therapy",
-    "link": "https://missionlocal.org/2026/03/supreme-court-overturns-ban-on-conversion-therapy-s-f-leaders-have-a-plan/"
-  },
-  {
-    "score": 131,
+    "score": 127,
     "pubdate": "2026-04-01-20-30-25 +0000",
     "source": "cbc",
     "headline": "Artemis II astronauts lift off for NASA's 10-day mission around the moon in Canadian first",
     "link": "https://www.cbc.ca/news/science/livestory/artemis-ii-launch-nasa-live-coverage-canada-9.7149222?cmp=rss"
   },
   {
-    "score": 121,
-    "pubdate": "2026-03-27-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "China opened two probes into U.S. trade practices, keeping pressure on Washington ahead of President Trump’s visit to Beijing in May",
-    "link": "https://www.wsj.com/economy/trade/china-initiates-probes-into-u-s-trade-practices-f02a8951"
+    "score": 124,
+    "pubdate": "2026-04-02-16-12-32 +0000",
+    "source": "nypost",
+    "headline": "7 key takeaways from Trump’s Iran speech, where he made the case on why the US military must finish the job",
+    "link": "https://nypost.com/2026/04/02/us-news/7-key-takeaways-from-trumps-speech-addressing-the-us-on-iran-war-updates/"
   },
   {
     "score": 115,
@@ -42,31 +35,38 @@
     "link": "https://nypost.com/2026/04/01/world-news/uks-starmer-pushes-talk-over-action-on-hormuz-as-trump-fumes-allies-wont-step-up/"
   },
   {
-    "score": 101,
-    "pubdate": "2026-04-01-09-54-00 +0000",
+    "score": 115,
+    "pubdate": "2026-03-27-17-00-00 +0000",
     "source": "wsj",
-    "headline": "U.K.’s Food Inflation Could Triple by Year End Due to Middle East War, Trade Group Says",
-    "link": "https://www.wsj.com/economy/central-banking/u-k-s-food-inflation-could-triple-by-year-end-due-to-middle-east-war-trade-group-says-c9d32ef3"
+    "headline": "About a year into the full-blown trade war between the U.S. and China, trade between the world’s two largest economies has plunged to levels not seen in decades",
+    "link": "https://www.wsj.com/economy/trade/how-trumps-tariffs-are-choking-u-s-china-trade-0ccc685a"
   },
   {
-    "score": 96,
-    "pubdate": "2026-03-28-18-49-00 +0000",
-    "source": "latimes",
-    "headline": "'No Kings' protesters pack city streets across the nation as crowds lash out against Trump",
-    "link": "https://www.latimes.com/california/story/2026-03-28/no-kings-rallies-draw-millions-protesting-trump-globally"
+    "score": 114,
+    "pubdate": "2026-04-02-01-49-03 +0000",
+    "source": "nyt",
+    "headline": "U.S. Lifts Sanctions on Venezuela’s New Leader, Delcy Rodríguez",
+    "link": "https://www.nytimes.com/2026/04/01/us/politics/us-lifts-sanctions-rodriguez.html"
   },
   {
-    "score": 92,
-    "pubdate": "2026-03-26-19-41-22 +0000",
-    "source": "latimes",
-    "headline": "Lopez: Yes, a Republican could be California's next governor. And a recall would begin immediately",
-    "link": "https://www.latimes.com/california/story/2026-03-26/lopez-column-california-governor-race-republican-recall"
+    "score": 103,
+    "pubdate": "2026-03-27-23-00-00 +0000",
+    "source": "wsj",
+    "headline": "If President Trump gives the go-ahead, the U.S. could soon have over 17,000 troops on Iran’s doorstep, but any operation to seize an island or territory would be considered complex and dangerous",
+    "link": "https://www.wsj.com/politics/national-security/what-an-influx-of-17-000-u-s-troops-could-mean-for-the-iran-war-7569afea"
   },
   {
-    "score": 89,
+    "score": 100,
     "pubdate": "2026-04-02-14-30-00 +0000",
     "source": "wsj",
     "headline": "Former FTC Chair Lina Khan will launch an economic-policy center at Columbia University offering her style of antitrust-enforcement and economic policy to law students and progressive policymakers",
     "link": "https://www.wsj.com/us-news/law/lina-khan-to-launch-economic-policy-center-at-columbia-8144c853"
+  },
+  {
+    "score": 97,
+    "pubdate": "2026-03-28-18-49-00 +0000",
+    "source": "latimes",
+    "headline": "'No Kings' protesters pack city streets across the nation as crowds lash out against Trump",
+    "link": "https://www.latimes.com/california/story/2026-03-28/no-kings-rallies-draw-millions-protesting-trump-globally"
   }
 ]
