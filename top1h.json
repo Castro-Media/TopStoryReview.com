@@ -1,30 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-04-02-16-10-32 +0000",
+    "score": 75,
+    "pubdate": "2026-04-02-17-25-23 +0000",
+    "source": "nyt",
+    "headline": "War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-04-02-18-00-06 +0000",
+    "source": "startribune",
+    "headline": "Pam Bondi, a Trump loyalist who oversaw Justice Department upheaval, is out as his attorney general",
+    "link": "https://www.startribune.com/trump-has-privately-discussed-possibility-of-firing-bondi-replacing-her-with-zeldin-ap-sources-say/601659218"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-02-17-51-56 +0000",
     "source": "nypost",
-    "headline": "Jerk judge told his subordinate, ‘I’m much smarter than you’ — as court issues stinging rebuke",
-    "link": "https://nypost.com/2026/04/02/us-news/texas-judge-nathan-milliron-told-subordinate-im-much-smarter-than-you/"
+    "headline": "Texas Dem toured for years with bandmate who was a registered sex offender for indecent contact with 8-year-old girl",
+    "link": "https://nypost.com/2026/04/02/us-news/texas-dem-toured-for-years-with-bandmate-who-was-a-registered-sex-offender/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-02-16-11-00 +0000",
+    "score": 24,
+    "pubdate": "2026-04-02-17-17-15 +0000",
+    "source": "nypost",
+    "headline": "John Thune gives reality check to Dems on DHS shutdown: ‘They got zero of the reforms’ demanded",
+    "link": "https://nypost.com/2026/04/02/us-news/john-thune-gives-reality-check-to-dems-on-dhs-shutdown-they-got-zero-of-the-reforms-demanded/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-02-18-01-04 +0000",
+    "source": "nyt",
+    "headline": "Iran Says It Will Oversee Strait of Hormuz Traffic, Even in Peacetime",
+    "link": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-oman-hormuz-control.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-02-17-16-00 +0000",
+    "source": "wsj",
+    "headline": "ECB’s Next Move Is Likely A Rate Rise, But Timing Unclear, Says Villeroy",
+    "link": "https://www.wsj.com/economy/global/ecbs-next-move-is-likely-a-rate-rise-but-timing-unclear-says-villeroy-6127ec5f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-02-18-02-02 +0000",
+    "source": "nyt",
+    "headline": "Law experts express concerns over ‘violations of international law’ in the war.",
+    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/law-experts-express-concerns-over-violations-of-international-law-in-the-war"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-02-17-24-12 +0000",
+    "source": "nyt",
+    "headline": "Tina Peters, Colorado Election Denier, Has Prison Sentence Overturned",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/tina-peters-prison-sentence-trump.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-02-17-32-25 +0000",
     "source": "bbc",
-    "headline": "National Minimum Wage rises this week",
-    "link": "https://www.bbc.com/news/videos/cdxd5kkpz7xo?at_medium=RSS&at_campaign=rss"
+    "headline": "Man dies in storm near Athens as Saharan dust shrouds Crete",
+    "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-02-16-10-53 +0000",
-    "source": "missionlocal",
-    "headline": "S.F. ethics commission will weigh in on Lurie-Trump phone records",
-    "link": "https://missionlocal.org/2026/04/s-f-ethics-commission-will-weigh-in-on-lurie-trump-phone-records/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-02-16-11-00 +0000",
-    "source": "bbc",
-    "headline": "National Minimum Wage rises this week",
-    "link": "https://www.bbc.com/news/videos/cdxd5kkpz7xo?at_medium=RSS&at_campaign=rss"
+    "score": 15,
+    "pubdate": "2026-04-02-17-13-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration ratcheted up its defense of prediction markets on Thursday, with a federal regulator suing the state of Illinois and its governor",
+    "link": "https://www.wsj.com/politics/policy/trump-regulator-sues-illinois-over-predictions-markets-right-to-operate-a228a476"
   }
 ]
