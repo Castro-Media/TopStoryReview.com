@@ -1,48 +1,55 @@
 [
   {
-    "score": 347,
-    "pubdate": "2026-04-02-20-20-20 +0000",
+    "score": 405,
+    "pubdate": "2026-04-03-01-13-03 +0000",
     "source": "nyt",
-    "headline": "Trump Says He’ll End the Iran War in Weeks. What If He Can’t?",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
+    "headline": "Iran War Live Updates: Strikes Hit Infrastructure Sites in Iran After Trump’s Threat",
+    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news"
   },
   {
-    "score": 117,
+    "score": 129,
     "pubdate": "2026-04-02-22-46-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth ousted the Army’s top general Thursday, the latest top military leader removed in a Pentagon that has seen a purge of its top ranks under the Trump administration",
     "link": "https://www.wsj.com/politics/national-security/hegseth-removes-army-chief-in-latest-purge-of-militarys-top-ranks-4be47bd5"
   },
   {
-    "score": 83,
+    "score": 77,
     "pubdate": "2026-04-02-19-20-01 +0000",
     "source": "nypost",
     "headline": "Pam Bondi speaks out for the first time after Trump fired her as attorney general",
     "link": "https://nypost.com/2026/04/02/us-news/pam-bondi-speaks-out-for-the-first-time-since-getting-youre-fired-treatment-from-trump/"
   },
   {
-    "score": 77,
+    "score": 75,
     "pubdate": "2026-04-02-01-49-03 +0000",
     "source": "nyt",
     "headline": "U.S. Lifts Sanctions on Venezuela’s New Leader, Delcy Rodríguez",
     "link": "https://www.nytimes.com/2026/04/01/us/politics/us-lifts-sanctions-rodriguez.html"
   },
   {
-    "score": 67,
+    "score": 70,
     "pubdate": "2026-04-02-10-00-00 +0000",
     "source": "latimes",
     "headline": "This California 8-year-old designed a 'zero gravity indicator' used in Artemis II moon mission",
     "link": "https://www.latimes.com/california/story/2026-04-02/artemis-ii-california-8-year-old-rise-zero-gravity-indicator"
   },
   {
-    "score": 65,
+    "score": 64,
     "pubdate": "2026-04-02-07-47-34 +0000",
     "source": "wsj",
     "headline": "Stock Market Today: U.S. Oil Prices Post Largest One-Day Gain Since 2020",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-02-2026?mod=rss_markets_main"
   },
   {
-    "score": 57,
+    "score": 64,
+    "pubdate": "2026-04-02-16-12-32 +0000",
+    "source": "nypost",
+    "headline": "7 key takeaways from Trump’s Iran speech, where he made the case on why the US military must finish the job",
+    "link": "https://nypost.com/2026/04/02/us-news/7-key-takeaways-from-trumps-speech-addressing-the-us-on-iran-war-updates/"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-04-02-21-34-00 +0000",
     "source": "wsj",
     "headline": "The U.S. will impose tariffs of up to 100% on branded pharmaceuticals, though countries or drugmakers that strike deals with the Trump administration can receive lower levies or none at all",
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2026/04/02/world-news/tanker-ships-must-pay-irans-revolutionary-guards-a-toll-in-chinese-yaun-or-crypto-before-they-can-pass-strait-of-hormuz-report/"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-02-17-02-47 +0000",
-    "source": "nyt",
-    "headline": "In Supreme Court Birthright Citizenship Case, Trump’s Likely Loss May Not End the Fight",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-04-02-21-01-00 +0000",
+    "score": 50,
+    "pubdate": "2026-04-02-02-48-00 +0000",
     "source": "wsj",
-    "headline": "Investors Waver after Trump Speech on Iran, Ending Two-Day Surge in Stocks",
-    "link": "https://www.wsj.com/finance/stocks/investors-waver-after-trump-speech-on-iran-ending-two-day-surge-in-stocks-0e59e4cb?mod=rss_markets_main"
+    "headline": "President Trump sought to reassure skeptical Americans that the war in Iran is in the national interest, arguing that the operation was necessary to decimate a regime threatening the U.S.",
+    "link": "https://www.wsj.com/politics/national-security/trump-tries-to-sell-americans-on-war-in-iran-2bc1cdd2"
   }
 ]
