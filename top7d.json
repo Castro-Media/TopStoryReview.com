@@ -1,6 +1,6 @@
 [
   {
-    "score": 556,
+    "score": 552,
     "pubdate": "2026-04-01-20-13-34 +0000",
     "source": "nyt",
     "headline": "Markets Extend Rally and Oil Prices Drop After Trump Says Iran War Will Wind Down",
@@ -36,17 +36,17 @@
   },
   {
     "score": 103,
-    "pubdate": "2026-04-03-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Liberal bill would force companies to simplify data access for police. No one knows the cost",
-    "link": "https://www.cbc.ca/news/politics/csis-rcmp-data-access-telecoms-9.7148631?cmp=rss"
-  },
-  {
-    "score": 103,
     "pubdate": "2026-04-02-20-55-15 +0000",
     "source": "nypost",
     "headline": "Tanker ships must pay Iran’s Revolutionary Guards a toll in Chinese yaun or crypto before they can pass Strait of Hormuz: report",
     "link": "https://nypost.com/2026/04/02/world-news/tanker-ships-must-pay-irans-revolutionary-guards-a-toll-in-chinese-yaun-or-crypto-before-they-can-pass-strait-of-hormuz-report/"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-04-03-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Liberal bill would force companies to simplify data access for police. No one knows the cost",
+    "link": "https://www.cbc.ca/news/politics/csis-rcmp-data-access-telecoms-9.7148631?cmp=rss"
   },
   {
     "score": 99,
@@ -56,7 +56,7 @@
     "link": "https://www.wsj.com/politics/policy/i-think-its-time-the-inside-story-of-pam-bondis-ouster-c16167d0"
   },
   {
-    "score": 79,
+    "score": 77,
     "pubdate": "2026-04-01-00-45-46 +0000",
     "source": "latimes",
     "headline": "Gas just hit $6 in Los Angeles. Here's where you can still find it for $5",
@@ -64,9 +64,9 @@
   },
   {
     "score": 76,
-    "pubdate": "2026-04-03-14-05-31 +0000",
-    "source": "nypost",
-    "headline": "One of two US fighter jet crew members rescued after Iran shoots them down, puts bounty on pilots",
-    "link": "https://nypost.com/2026/04/03/world-news/iran-claims-it-shot-down-us-fighter-jet-as-bounty-placed-on-pilot/"
+    "pubdate": "2026-04-02-03-00-00 +0000",
+    "source": "wsj",
+    "headline": "China Is Building Another Massive Base in the South China Sea",
+    "link": "https://www.wsj.com/world/china/china-south-china-sea-military-base-3ebf3dc2"
   }
 ]
